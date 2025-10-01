@@ -1,0 +1,1445 @@
+说话人1 00:00:02
+Wow.
+Der Macht ja zu viel. Was geht ab?
+说话人2 00:00:17
+Bis gleich 30 UF und ich mach's schon.
+Mal. Was wir geschrieben haben, was wir geschrieben hat.
+Im Stoffblasen raus.
+Crazy.
+Castle Zone.
+说话人3 00:00:56
+Auf dem Tisch.
+说话人2 00:01:09
+So alles mit dem Strom sehr flexibel. Es kann sich darum warm sein, aber schon eine richtige Änderung, oder?
+说话人4 00:01:16
+So gesehen, wenn er da jetzt.
+说话人2 00:01:18
+Mal stoppen wird. Rüber warte ich muss da abgeht ob.
+Es nur gewohnt ist.
+说话人5 00:01:49
+28 Steckdosen an der Seite.
+说话人2 00:01:55
+Rot sind wahrscheinlich eine Grundlage für 30000€ und das ist hier schon überlegt.
+Doch gestern Abend war ich kurz davor, noch extra das alte eigentlich.
+说话人5 00:02:28
+Musste ich alles noch machen.
+Ja.
+说话人2 00:02:32
+Aber schon.
+Dass sie einfach nur damals schon gesagt haben.
+Entschuldigen an die.
+Ich habe schon angefangen oder vorbehandelt. Ja, ist ja gut.
+说话人6 00:02:49
+Machen wir, ich bleib gleich stehen, so kurz.
+Er Anmoderation.
+说话人2 00:02:54
+Wir haben halt 2 Gruppen.
+Ne, alles klar.
+说话人6 00:03:00
+Meine Rolle hält sich n bisschen zurück haben.
+Sie ne Präferenz welche Gruppe anfangen soll. Sie waren jetzt gerade schon so auf Schlaganfall gestartet, alles klar, super.
+Dann vielleicht noch ganz kurz vom Ablauf.
+Moderation komplett bei Ihnen.
+Was von der Gruppe erwartet wird, auch komplett bei ihnen. Ich halte mich bewusst ein bisschen zurück, also da auch nicht zu viel erwarten, die Blicke dürfen nicht streifen, aber eigentlich geht es hier vorne und.
+Ich bin gespannt und freue mich.
+说话人2 00:03:47
+Ja, dann Hallo von unserer Seite der Jana und ich. Wir werden euch heute das Thema Kanban bisschen näherbringen und wir dachten wir machen das Ganze ein bisschen interaktiver.
+Jetzt keine Standard. Klassische Präsentation.
+Und ich würde euch gleich zum Anfang einfach noch mal ganz kurz erklären, was unser Thema ist. Also wir hatten den vielen Dinge, also eigentlich den Kühlschrank, der deine aktuelle Stimmung erkennt und praktisch auf Grundlage dessen, wie du dich gerade fühlst, hier das richtige Essen herausgibt. Je nachdem halt wie deine Laute eben gerade ist und unsere Aufgabe also.
+Der Teil vom Projekt wird dann praktisch die Hardware und die Software zu entwickeln, um das Ganze dann zu vermarkten.
+Das Ganze so genau.
+说话人5 00:04:36
+Wir jetzt unseren wichtigeren Teil. Du bist einmal dieser Task-Board beziehungsweise Comeback an Boards erstmal die grundsätzliche grundsätzliche Frage, wozu braucht man das überhaupt um Arbeit sichtbar zu machen um Störungen, Verschwendung, irgendwelche Probleme, dass die einfach besser auffallen und besser herausstechen, was sie hier rechts seht, dieses to do doing dann das ist so die einfachste Form von so einem Taskboard. Also einmal Aufgabe in Bearbeitung und fertig.
+Und da kommt es jetzt ein bisschen drauf an, auf welcher Flughöhe man sich befindet. Es gibt.
+Prinzip 3 Flughöhen die unterste ist die Operative, die mittlere ist die koordinative und die übergeordnete ist dieser. Dieser Überblick über das gesamte, das sind meistens irgendwelche Führungspersonen, Chefs, die dann quasi immer den.
+Status zu verschiedenen Projekten sehen in der koordinativen Ebene ist es dann so, dass man, dass es da schon um verschiedene Teams innerhalb von einem Projekt geht und im operativen Bereich, da geht es teilweise schon um einzelne Persönlichkeiten oder um intern in einem Team.
+Die Aufgaben einfach zu verteilen in unserer.
+Präsentation haben uns jetzt so ne Mischung aus Koordinativ und operativ gemacht und haben ja gesagt, wir gestalten. Das ist n interaktiver und der Lukas erzählt das jetzt was wir.
+说话人2 00:05:51
+Machen also Teil von diesem Kanban Board ist der.
+Praktisch die Übersicht. Wo stehen wir aktuell mit den Aufgaben und da gibt es dann immer wieder regelmäßige Meetings, wo dann praktisch die verschiedenen Abteilungen einfach ein Update geben okay wo stehen wir gerade?
+Und wir simulieren jetzt praktisch, dass ihr immer zu dritt, ungefähr vielleicht ihr 3, seid, eine Gruppe dann immer, kannst du sie doch auch mitmachen, vielleicht also C 3. Emma, kannst du dann mit den 2 machen und dann macht ihr ne Vierergruppe. Wir haben dann praktisch 4 Gruppen und das sind sozusagen 4 Abteilungen, also wir haben einmal die Softwareentwicklung.
+Dann einmal den Einkauf.
+Und Hardware.
+Entwicklung und Marketing und.
+Ihr habt da verschiedene Aufgaben auf dem Zettel drauf stehen und ihr sollt euch jetzt einfach mal ein 2 Minuten Gedanken machen.
+Was ist die Aufgabe?
+Die Aufgabe geschrieben und drunter steht dann n aktueller Stand. Also wir befinden uns gerade sagen wir mal 2 Monate schon bereits im Projekt und wir werden jetzt hier gleich auf dem Kanban Board den aktuellen Stand abbilden, also aktueller Stand heißt hier kommt man nacheinander vor und bringt euer Ding dahin wo es eurer Meinung nach gerade hingehört. Also bei to do noch nicht gestartet.
+Bei doing seid ihr gerade dabei und macht es gerade praktisch und dann wär dann irgendwie.
+说话人5 00:07:30
+Die.
+说话人2 00:07:32
+Aufgabenstellung klar geworden. Nicht so ganz.
+说话人6 00:07:34
+Das heißt, wir haben jetzt hier.
+说话人2 00:07:37
+Auf dem Zettel stehen.
+Ihr seid praktisch eine Abteilung. Die Dreiergruppe ist immer eine Abteilung oder Vierergruppe für euch und es stehen Aufgaben drauf, also die Abteilungen zum Beispiel. Softwareentwicklung hat die Aufgabe, das Programm zu entwickeln.
+Und dann steht drunter eine Zeile, drunter steht der aktuelle Stand. Da steht dann zum Beispiel dran okay das wurde gestartet.
+Programm zu entwickeln aber ist noch nicht abgeschlossen und ihr sollt dann praktisch euch überlegen, OK, wo stehen wir hier aktuell beim Kanban Board bei to do zum Beispiel bei Doing oder bei Garn um das dann einfach nachdem ihr euch kurz Gedanken gemacht habt, ihr nacheinander nach vorne kommen, vielleicht ganz kurz sagen, OK was ist die Problemlage, wie ist die aktuelle Situation und dann einfach kurz hier einordnen und.
+说话人6 00:08:20
+Der Kontext ist.
+Nochmal, welcher also wofür?
+说话人5 00:08:26
+Geht der weiter? Das Bauteil alles klar.
+说话人6 00:08:28
+Nicht.
+说话人5 00:08:28
+Zu viel erraten da sind, da ist vielleicht auch der die ein oder andere Problematik eingebaut und da gehen wir dann im Folgenden drauf ein. Aber erstmal jetzt ganz ganz, ganz simpel dranhängen wo ihr denkt wo.
+说话人2 00:08:39
+Es einfach passt, am besten rein und dann nach vorne gekommen.
+说话人6 00:08:44
+Das sind die 3 Tiere.
+Die Aufgabenstellung verstanden?
+Hier sind 3 Aufgaben Aufgabe 1 Abgabe 2, Aufgabe 3 hier.
+Ist die Beschreibung.
+Was in der Aufgabe schon gemacht wurde. OK und was noch offen ist, was noch fehlt und wir müssen entscheiden für Aufgabe 1, für Aufgabe 2, für Aufgabe 3 ist es to do doing.
+Oder drum. Mensch. Also das heißt.
+Hersteller ausschalten erste Aufgabe ist dann ein geeigneter Hersteller im Kühlschrank.
+Ist eine Kopie.
+说话人7 00:09:30
+Diese OK.
+说话人6 00:09:36
+Verstehen Sie den Text?
+Okay das ist kein Problem.
+Ja, verstanden okay also.
+说话人2 00:09:59
+Ja, vielleicht so benutzt, dass die ganze Gruppe vielleicht ganz kurz checkt, um was es geht und einfach kurz was dazu sagen.
+说话人6 00:10:10
+Also es ist wie geplant.
+Jetzt ist es im Gang durch. Oder ist das Herstellerauswahl also da?
+Ja gut, das, was wir wohnen können.
+Als geeigneter Hersteller Verträge sind unterschrieben, erstelle Auswahl ja.
+Danke.
+说话人8 00:11:07
+Wir brauchen einen Hersteller zu suchen und doing ist etwas.
+Zu tun mit dem Preis und dem.
+说话人6 00:11:18
+Termin heißt, egal welches Aufgabenpaket so.
+Package.
+No one has started to work on this packed.
+Stewen someone started walking on the package and the Rihanna finalist. Oh.
+Dann.
+Except a day weekend.
+First one is on the second preisverhandlung.
+说话人8 00:11:55
+Wenn man beurteilt.
+说话人6 00:11:59
+Zuerst gibt es nun eine Erkrankung für Sterne vom Kühlschrank abkühlt zur Erde.
+Sich beantragt.
+Oder dauernd. Die Pferd hatte sich der Preis.
+Die 2.
+说话人5 00:12:25
+Sätze da einwerfen lassen? Nein.
+说话人9 00:12:35
+Gerade den.
+Sensoren kann.
+说话人8 00:12:37
+Ich vermitteln die zweite ist du.
+Hast mir.
+说话人2 00:12:43
+Auch Angst.
+说话人10 00:12:46
+Richtig halt. Bildbearbeitung, Analyse und das ist umgesetzt werden muss also das Team. Wir haben uns noch nicht damit beschäftigt, die Datenschutzrichtlinien, was ja was da bestimmt werden muss und die Datenschutzbehörde.
+Und deswegen müssen wir das To do tun, dass wir das noch zeitnah machen.
+说话人8 00:13:15
+Bezüglich Unwahrheit über Sie dann zügig.
+Zu geben, breite Entscheidung zu stellen derartiger Tigerstaaten.
+说话人11 00:13:39
+Genau. Und dann hat man eben ein geeignetes KI Modell gesucht für die Gemütszustandsanalyse.
+Und da haben wir, hat man schon ein geeignetes KI Modell ausgewählt und auch die Kontaktdaten des Herstellers wurden an den Einkauf weitergegeben. Warum tun wir das zu?
+说话人2 00:13:56
+Wieso weiß ich davon nichts.
+Scheitert es nur an der Inkathode, sondern an der Kommunikation?
+Genau.
+Das weitermachen.
+说话人6 00:14:12
+Sollen wir das Verteilen?
+说话人8 00:14:15
+Ich verstehe ein.
+To do ein beenie.
+Ja, das ist.
+说话人6 00:14:22
+Jan, Das ist ja.
+Ein Problem?
+说话人8 00:14:30
+Und deswegen sind wir damit angekommen.
+说话人6 00:14:47
+Jeweils Marketing ne.
+说话人8 00:14:50
+Dann hab ich die Kommunikationsstrategie, da geht.
+说话人11 00:14:53
+Es darum welche.
+Bewerbungsstrategien in der Zukunft ausgewählt werden sollen. Und dazu braucht man einen Plan und es wurde auch noch nicht gemacht. Also Kunst zu tun.
+说话人7 00:15:13
+Also das Logo und der Name soll bearbeitet werden und.
+说话人12 00:15:18
+Ja, es wurde schon was erarbeitet, aber es liegt noch bei.
+说话人11 00:15:21
+Der Geschäftsführung also würden wir das beruhigen hinzufügen.
+说话人7 00:15:29
+Genau, ich weiß Social.
+说话人11 00:15:31
+Media haben wir schon die Accounts erstellt, aber es sind noch.
+Dabei die Inhalte nochmal.
+Und hochzuladen. Und würde ich auch probieren.
+Dankeschön.
+说话人5 00:15:46
+Frau Fetschner, brauchen Sie noch mal bitte?
+Also.
+说话人7 00:15:59
+Die Preisverhandlung ist fertig, aber steht die Arbeit? Die Genehmigung steht noch aus, also das ist.
+Die Hersteller.
+Die sagte, mit der lieber hier oder würde eine geeignete Hersteller gefunden.
+Die Vertrag sind bereits unterschreiben also.
+Ich, ich denke, das ist dann ja.
+说话人5 00:16:49
+Der letzte Punkt, den wir als Einkauf zur bewerkstelligen hatten. Zu diesem aktuellen Status, ist uns über die Abnahmemenge von dem Durchflusssensor, den Wirelin uns n paar Gedanken zu machen ist jetzt so wirklich anfangen können wir mit der Thematik nicht, weil wir noch gar nicht wissen, was das eigentlich im Marktpotenzial.
+Von unserem Gerät ist und solange viel Nähe im Grunde noch nicht genug durchdrungen ist, ist es hier uns nicht möglich irgendwie ne Art Nachmenge zu finden deswegen.
+说话人11 00:17:18
+Ist das eher noch auf der Tabelle?
+说话人12 00:17:41
+Auswahl was so ein Sensor wurde schon ausgewählt, aber die Kontabilitätsprüfung mit der Software steht einfach aus, dessen ist ja noch nicht ganz fertig und das ist dieses Studium drin.
+说话人7 00:18:01
+Und zweite Aufgabe ist es, es sollte auf Basis einer und wann die richtige Wahl des Kommunikationsmediums des Querschranks mit den Menschen getroffen werden. Und aktuelle Situationen ist die Umwandlung.
+Wo ich gebührt, muss aber noch ausgewartet und analysiert werden und finde ich, das ist.
+说话人13 00:18:46
+Weder Aufgabe ist die Aufgabe Modul für das.
+说话人14 00:18:50
+Ausgewählte Essen und es ist noch nicht.
+说话人13 00:18:55
+Noch nicht entwickelt und noch nicht begonnen soll ich, denke ich.
+说话人2 00:19:06
+Was zeigt der das da?
+说话人5 00:19:08
+Wieder hinsetzen, dann erstmal vielen Dank. Ihr habt das souveräner bearbeitet, wie wir es eigentlich erwartet haben. Worauf?
+Ich hinaus wollte ist, dass das, wie eben schon gesagt, die einfachste Struktur ist.
+Und das Ganze für komplexere Strukturen eigentlich nicht geeignet ist wir in unserem Fall für unser Projekt, haben uns jetzt dazu entschieden, das Doing.
+Noch mal etwas. Ja, jetzt fehlt mir gerade der Satz ja, dass du ihn quasi noch mal weiter aufzuteilen. Genau, und dazu haben wir uns entschieden, das Ganze in also.
+Erstmal backlog natürlich. Die Aufgaben an sich, die man so bearbeiten muss und dann doing haben wir aufgeteilt in 3 weitere Spalten und einmal das Konzept in Progress, also die Bearbeitung, Bearbeitung und ins Reviewing beziehungsweise Testing aufzuteilen und dann haben wir natürlich wieder am Ende des dann darüber hinaus.
+Amel dann noch Zeilen hinzugefügt. Wir haben das jetzt anhand von unseren Teams gemacht, also die Marketing Software Hardware ohne Einkauf der Fachbegriff dafür sind Swimlanes, das kann bei verschiedenen Projekten ganz anders aussehen oder je nachdem wie eben schon gesagt bei bei einer anderen Zubehör kann das ganz anders aussehen, da können Personen stehen, da können das kann man aufteilen in wiederkehrende Aufgaben oder in einmalige Aufgaben genau.
+So, das war jetzt eigentlich so. Erstmal der grobe Überblick was so n Passwort bietet, also ist ja relativ simpel man man muss das visualisieren und jetzt kommen wir zu der Thematik Thematik kann man kann man kommt aus dem Japanischen hat Ende der 1900 40er Jahre Toyota eingeführt.
+Und folgt verschiedenen Prinzipien. Also erstmal das übergeordnete, was man dazu sagen muss ist, das kann man der kontinuierlichen Verbesserung des Arbeits und Wertstroms dient und wie eben schon gesagt, das erste Prinzip.
+Man will den, man will den Fluss der Arbeit visualisieren, und das haben wir ja eben eigentlich schon ganz gut gemacht. Das kann man aber noch n bisschen tiefgreifender machen, indem man, das hat mir bei bei einer Thematik aufgegriffen, indem man zum Beispiel, na ja, in so einem in einem schlecht strukturierten Unternehmen ist so die größte Zeit, die verloren geht, ist das Warten durch Sachen, weil man blockiert ist. Entweder es sind Leute nicht da der Chef oder Lieferung kommt zu spät und so weiter.
+Jetzt könnte man das natürlich auf.
+Nach irgendeiner Karte markieren besser ist es natürlich, wenn man das in einer Spalte noch aufgreift, dann ist es einfach noch mal ersichtlicher und jetzt an der Stelle bitten wir euch noch mal in eure Gruppe ganz kurz zusammenzukommen und noch mal ganz kurz zu beraten, wo ihr das jetzt eintragen würdet.
+说话人2 00:21:49
+Genau. Und dann vielleicht im Anschluss.
+Ich weiß wieder, jeder nach vorne kommen muss einfach nochmal die aktuelle Situation vorlesen und dann sagen, wo ihr es einordnen würdet und dann bringen wir das dann entsprechend rüber. Genau, aber einfach mal kurz in der Gruppe beraten, 23 Minuten nochmal.
+Hersteller Auswahl.
+说话人6 00:22:13
+Die gehen da Vertrag ist unterschieden, das heißt, da ist eigentlich, das ist komplett dann komplett.
+Über Deutsch oder Englisch. Englisch.
+So von Schwester.
+Contracts.
+About like you doing this way to you, but vielleicht.
+说话人2 00:22:43
+Ganz kurz bis viertens ist jedem klar, was die einzelnen Dinger sind oder sollen wir das noch mal ganz kurz erklären? Also was war's, bedeutet praktisch, was Backlog bedeutet, Konzept und so weiter.
+Ja.
+Ich hätt noch mal erklären.
+说话人6 00:23:00
+Also ich hätte vorneweg eine eine spezifische Frage und zwar Review und blockiert.
+Wenn etwas bei jemandem.
+Anderen also keine Ahnung. Hardware hat ein Problem bezüglich der Software mal als Beispiel.
+Die Thematik ist im Grunde liegt bei jemand anderen. Zum Review ist es dann in der Gruppe blockiert oder ist es generell im Review, also.
+说话人2 00:23:26
+Review wäre, wenn es bei uns selber in der eigenen Hand liegt, können wir noch mal drüber schauen müssen und dann halt eine endgültige Entscheidung treffen müssen.
+说话人6 00:23:34
+Danke.
+Aber das war jetzt.
+说话人2 00:23:37
+Ja, also.
+O.
+说话人6 00:23:39
+K also backlog.
+说话人5 00:23:40
+Ist sind einfach allgemeine Aufgaben die Anliegen, genau das Konzept.
+Ist quasi. Was ist die Idee dahinter? Wir sind gerade so am Anfang von der Aufgabe im Broadways, bedeutet, wir bearbeiten wirklich die Aufgabe, wir sind da zielführend dran und das Testing ist dann, wir schauen ob das, was wir umgesetzt haben oder was, was wir was, was wir hier bearbeitet haben, ob.
+Es wirklich auch auf unser Produkt passt. Ob das richtig so ist und dann dann fertig und blockiert es dann, wenn es wirklich nicht mehr in unserer Hand liegt, wenn irgendein Lieferant so spät liefert, wenn der Chef nicht unterschreiben will oder kann oder wie auch immer genau.
+说话人2 00:24:20
+Ja genau, einfach nochmal 23 Minuten drüber nachdenken und dann?
+Photoshop.
+说话人6 00:24:31
+Ja, einige Argumentation hast du da ein Projekt?
+Wohl finished services, definitiv.
+Dann Trauer.
+Hier in die. Das Tango ist immer in der Cost oder Finalpricing.
+Argumentation.
+Es hat.
+So, wir haben Quote.
+Den Pastor Code to the project leading.
+For you.
+说话人7 00:25:21
+Das ist ein Großes.
+Process process.
+说话人6 00:25:27
+Nein, progressive.
+Concert where is the concert face? The incogros is beautiful.
+Interesting his your tasting, it reviewed.
+Dann ist pro Dampf blockiert ins Verseblockage. So we weight for is someone.
+Next progress.
+So what is this press someone?
+Testen.
+Ja, no go's when you're waying for the.
+说话人2 00:26:12
+Projectly say you was the widen.
+说话人6 00:26:15
+Tschüss, kleinen Moment.
+Of Central.
+To be argumentant with without.
+House.
+And actually.
+Any potential number of the product.
+Und dann ha any number of the marketing, the tensor so we have no numbers for the products on we have no numbers for is for the senses back walk me the backward block I don't.
+We can we can leave it to you.
+说话人2 00:27:38
+Okay Einwand von meiner Seite, ich habe mit aufstehen, dass uns die Behörde im Nacken sitzt und mir das Ganze möglichst zeitnah erledigen sollen.
+Wäre es dann nicht sinnvoller, wenn wir das ganze vielleicht bei Konzept einordnen, dass wir das Ganze möglichst zeitnah strahlt?
+说话人14 00:27:59
+Aber wir haben ja wirklich noch gar nichts gemacht, oder? Steht ja auch von unserer Seite nicht mehr das Konzert oder steht, das ist der Auftrag, also die Aufgabe.
+So.
+说话人2 00:28:13
+Argumentieren wir machen.
+Wir uns was?
+Entschuldigung dazu.
+说话人6 00:28:21
+Jeweils wiederholt.
+Welche?
+说话人7 00:28:31
+Zuverlässigkeitsanalyse.
+说话人15 00:28:38
+Die Analyse noch das Fazit.
+说话人13 00:28:42
+Genau.
+说话人14 00:28:46
+Und das letzte bei uns waren die Modellauswahl.
+Die hätten wir jetzt so blockiert reingetan, weil es nicht mehr in unserer Hand liegt, weil wir dann die nächste Abteilung weitergezogen haben.
+说话人2 00:29:01
+Danke. Heute noch mal kurz vor, grüß euch.
+说话人14 00:29:05
+Aktuelle Situation ein geeignetes KI.
+Modell wurde fertig ausgewählt die Kontaktdaten des Herstellers wurden an den Einkauf weitergegeben.
+说话人2 00:29:12
+Aber ist da nicht uns eure Aufgabe erledigt?
+说话人14 00:29:14
+Die ist erledigt, aber ihr habt es vorher bei der Definition.
+说话人2 00:29:17
+Ja, Moment, aber das stimmt. Aber euer Teil ist erledigt. Genau, vielleicht ist noch mal zur Erklärung, also es geht wirklich um euren Teil der Aufgabe, wenn eure Aufgabe zum Beispiel wäre, das KI Modell auszuwählen und ihr schlagt praktisch der Projektleitung vorgehen. Wir würden gerne das KI Modell nehmen und die Projektleitung sagt auch nicht hundertprozentig zu.
+Dann wär das zum Beispiel n Beispiel für blockiert, weil ihr könnt nichts machen, was vorgeschlagen, man kommt nicht weiter, aber in dem Fall habt ihr ja praktisch die Kontaktdaten weitergeleitet und die das Modell ausgewählt, also wär eurer Teil.
+说话人10 00:29:51
+Mir ist aber der Einkauf des Abnehmers zu.
+说话人6 00:29:56
+Teuer.
+Also das ist, das ist ganz kurz, das ist also ich spiele doch mal ganz kurz den Moderator, das ist tatsächlich ein ganz entscheidender Punkt.
+In agiler Methodik ein Task ist immer abschließbar, es gibt immer ein Dunk, wenn daraus eine Folge Task entspricht, die vielleicht der ursprünglichen Task widerspricht, dann ist das eine neue. Ihr habt da die Aufgabe gelöst. Da ist ein Definition of Dunes erreicht, dann ist das Ding dann und es liegt dann eher an der Konzeptionierung, also einer Projektkonzeptionierung ob da was anderes draus gemacht wird, ob das neu gemacht wird oder nicht, aber das ist
+zweite Regel, lebe mit den Reaktionen ganz ganz.
+Ganz, ganz großer Teil der Agilität. Lebe mit den Reaktionen und mach darauf deine Arbeit.
+Entschuldigung.
+说话人7 00:30:54
+Ja genau. Also die Zielgruppen müssen natürlich analysiert werden, und das ist bei uns vollständig abgeschlossen. Und diese Analyse wurde auch von entsprechenden Abteilungen vorgestellt. Deswegen bleibt es auch dabei.
+说话人15 00:31:08
+In unserer Zeit, glaube ich, klingt gut, merkst du es merkst.
+说话人11 00:31:11
+Du es genau dann die Kommunikationsstrategie.
+Ist schon Nein, bewerbungsstrategie für die Zukunft ausgewählt werden in dieser richtigen Marktsegmente zu bedienen und wir brauchen möglichst zeitnah einen Plan, dieses Produkt in Zukunft beworben werden sollen. Angefangen haben wir damit aber noch nicht und deshalb sind wir feedbacklisten.
+说话人12 00:31:38
+Beim Brain soll ja entschieden werden dieses Jahr und das Logo aussehen soll. Es wurde schon erstellt und es liegt halt jetzt eben zur Entscheidung wovor deshalb würden wir sagen, dass die Aufgabe erledigt ist und halt zusammengehört.
+说话人6 00:31:54
+Wer wer entscheidet?
+说话人12 00:31:59
+Also die Vorschläge wo der arbeitet liegt nur bei der Unternehmenskommunikation vor um Entscheidungen um zu entscheiden, was die Vorschläge unseren Corporate Design entsprechen. Eine Entscheidung wurde aber noch nicht getroffen, ich habe.
+说话人2 00:32:13
+Ihnen ein Mann einbringen und zwar ist ja habt ihr bisher nur einen Vorschlag gemacht und das Ganze wurde ja noch nicht genehmigt, deswegen war.
+Gedanke eigentlich frei blockiert einzuordnen wär ja praktisch das ganze noch nicht zu 100% abgeschlossen, sondern ist ja jetzt nur mal. Die Vorschläge waren, ob das dann so genehmigt wird, wissen wir noch nicht genau.
+说话人11 00:32:43
+Und Social Media wurden wir zu Progress tun, weil die ersten Accounts ja schon erstellt wurden und die Abteilung noch dran arbeitet.
+说话人15 00:32:56
+Ja gut.
+说话人2 00:33:04
+Dann die nächste Abteilung.
+说话人6 00:33:07
+Also die Herstellerauswahl, die ist hundertprozentig abgeschlossen, Verträge sind unterschrieben, das ist ein dann.
+Die Preisverhandlung ist von unserer Seite in unserem Ermessen momentan vollständig.
+Aber wir warten auf Genehmigung. Das heißt, wir haben gerade aktuell keine.
+Eigenbefugnis das Ganze auf den Status dann zu setzen, sind hier also blockiert.
+Und unsere.
+Interpretation hat. Wir haben ein bisschen drüber diskutiert, Abnahmemenge bestimmen, wir sollen ja sagen wie viele von den Durchflusssensoren wir jetzt haben wollen. Also es gibt nur irgendein, aber wie viele Sensoren brauchen wir jetzt eigentlich? Wir haben momentan immer noch keine Aussage dazu.
+Wie das Potential von eigentlich aussieht, können dadurch überhaupt keine Aussage darüber treffen, wie von wieviel Sensoren wir hier sprechen, mit welchem Lieferanten wir irgendetwas zu diskutieren haben. Ich bin der Meinung, dass das im blockiert Status ist, weil wir dieses Problem, selbst wenn wir damit anfangen wollen, gar nicht selbst lösen können wir.
+Können darüber diskutieren. Ist das Backlog oder ist das blocked? Ich bin eher bei.
+说话人2 00:34:22
+Blockt also unsere Idee war.
+Blackout zu packen, aber.
+Stimmt ja, das kennen wir wahrscheinlich auch. Unsere Idee war nur.
+说话人6 00:34:32
+Unsere Gedanken machen wir. Machen wir.
+说话人2 00:34:33
+Mit der Idee weiter gab es noch gar nicht gestartet wurde und das deswegen im Backofen kommt, aber ist n fairer Punkt. Ja passt schon.
+说话人6 00:34:46
+Ist übrigens auch mal ganz kurz moderativ. Das ist ein Klassiker in solchen Status Meetings und es ist super schwierig das Anzumoderieren, weil gerade aus Sicht einer Projektleitung. Wir sind hier ja durchaus im Bereich Projektmanagement, es ist super schwierig da eine Sphäre, aber trotzdem zielgerichtete Motivation aufzusetzen.
+Deswegen ich hab das beim letzten Mal zwar noch ne Vorlesung, hatten so n bisschen drauf rumgeritten dieses im Vorfeld zu definieren.
+Was eigentlich genau gemacht werden muss und was.
+Eigentlich in der eigenen Handlungskapazität und und auch Handlungskompetenz liegt ist super wichtig. Punkt.
+说话人12 00:35:33
+Dann die Symptome aufladen. Ich wäre einverstanden von unserer von ausgewählt, aber dadurch dass die kann halt eben die Selbstprüfung mit der Software halt und rausgeht wie man das super wert packen. Wir können es ja nicht dann machen.
+说话人7 00:35:50
+So zweite Aufgabe.
+Diese Umfang Umfrage ist schon gemacht und braucht man noch eine.
+Analysiert und.
+Ausgewertet, so kann man sagen, dass es, finde ich.
+说话人2 00:36:11
+Ja, wir hatten bin ich.
+Guten Ansatz. Unser Gedanke war, dass es beim Review, gerade wenn wir nochmal praktisch überschauen müssen und das ganze analysieren, aber ich glaub, das können wir auch hier.
+Dran schaffen.
+说话人13 00:36:30
+Die gedrehte Aufgabe will noch nicht.
+Wohnen außerdem ist die technische Unschätzbarkeit deshalb unklar. Dafür bleibt sie zunächst im Backofen, bis mehr Informationen verfügbar sind, aus.
+说话人2 00:36:51
+Gabemodule da wusste man noch gar nicht, ob das praktisch bei diesem Modell überhaupt mit reinkommt. Und deswegen steht das noch mal ganz hinten an.
+Ja.
+说话人5 00:36:58
+Jetzt würd ich nochmal ganz kurz zurück springen. Ihr seid ja über das über dieses erste Schild schon so ein bisschen gestolpert und da wär jetzt zum Beispiel ne Möglichkeit, was auch teilweise üblich ist, dass man so n hier zum Beispiel noch ne Zeile mit fast men, also möglichst hochpriorisierte Aufgaben hinzufügt, aber da sind wir dann auch wieder beim Thema, jedes Projekt braucht einfach das hat ne ganz andere Struktur, genau.
+Wollt ich nur noch mal kurz ergänzt haben, dann noch. Wie liest man das Ganze am besten von rechts nach links rechts sind die wichtigen Fakten.
+Was haben wir alles gemacht, wo es blockiert? Wo müssen wir vielleicht eingreifen, wo sind die Störungen?
+Genau. Und dann direkt zum nächsten Thema. Und das Ganze basiert auf dem Grundprinzip. Das bedeutet, wir haben hier nicht auf einmal 1000, kernchen oder 1000.
+Irgendwie 1000 Zettel, sondern wir priorisieren das ganze, schauen, was sind die wichtigeren Aufgaben, die kommen dann rein, da setzt man sich ein Maximum, das muss man dann halt schauen, was das für Aufgaben sind und sobald man dann was bearbeitet hat, bearbeitet hat, drücken die nächsten nach genau.
+说话人2 00:38:08
+Ja, ich hab, wir konnten euch bisschen näherbringen, was für Vorteile vielleicht so n sag mal bissel erweitertes Kanban Board hat im Vergleich zu diesen. Man sieht irgendwie einfach auch ein bisschen besseres Thema gerade woran scheitert es vielleicht, was steht jetzt gerade als nächstes an und vielleicht noch ganz kurz auch noch mal zum Verständnis, sowas wird tatsächlich so in der Praxis umgesetzt, da gibt es dann auch regelmäßige Meetings, ob die jetzt wöchentlich sind oder täglich.
+说话人5 00:38:37
+Und da gibt es dann nehmen wir Old School Variante auf die Variante, das ganze digital zu machen. Wir haben das Mal für uns probiert mit Trello, da gibt es natürlich Tiere ohne Tiere oder sowas, super einfache Sachen, die wirklich effektiv sein können, genau ja.
+说话人2 00:38:52
+Ich weiß nicht, gibt es noch irgendwelche Unklarheiten, fragen? Vielleicht ist es auch gerade zum Thema dann gerne.
+Ja, damit ja.
+说话人6 00:39:01
+Frage an alle.
+Wenn sie jetzt mal so drauf gucken.
+Und einen Teil von Kanban ist überwache den Fluss.
+Welcher?
+Reich würde Ihnen Sorgen machen.
+Überlegen Sie, wir haben wirklich, das Ganze ist jetzt in einem, in einem keine Ahnung Leitungsgremium leitungsmeeting wird mal so eine Zusammenfassung an die Wand gelegt.
+Wo muss jetzt genau.
+Er drauf geguckt werden, also das Thema Fast Lane ist genau richtig, dass man vielleicht auch noch so eine Priorisierung mit unterbringt, die taucht jetzt hier überhaupt nicht auf, aber mal so Frage an alle was was ist besorgniserregend?
+Nur ein Kamel hier.
+说话人14 00:39:47
+Also das war nicht nirgends was im Konzept beziehungsweise bei manchen nicht mal was in Kongress steht. Das bedeutet ja eigentlich, dass die Grad nichts zu tun haben oder noch nichts, was nicht angefangen hat, genauso wie die 3 blockierten Sachen, die sollten, da muss man vielleicht auch schauen, an was schaue ich als Startups, die nicht abgeschlossen werden können.
+说话人6 00:40:09
+Einfach mal nur.
+说话人10 00:40:10
+Noch. Ja genau, also ich hätte halt das mit blockiert, auch weil sein ich glaub da wäre das Projektleiter halt schon die Frage was was ist der Grund warum.
+Wie kann man am schnellsten im Darm schieben?
+说话人6 00:40:22
+Noch nicht mal unbedingt als Projektleiter, aber genau der Punkt. Wir haben hier 2 schienen, das ist Software und Einkauf, die eigentlich aktuell handlungsunfähig sind, also gerade Einkauf ist de facto handlungsunfähig, soweit es mal meiner Argumentation von vorhin folgend mit der Aufnahmemenge das ist.
+Etwas, das hat tatsächlich dann eine Projektleitung Zurückzubleiben, zurückzugeben, zu sagen, Leute, wir haben hier ein Problem, weil Teile meines Projektes stehen gerade.
+Und dann sind wir auch beim Thema Fastfood. Ja super, danke.
+Ich würde ganz gerne sie einfach weitermachen lassen.
+Manöverkritik im Nachgang aber.
+Die.
+Zu Hause zu.
+Natürlich gerne Aufgabe an alle. Wir werden auch heute, auch wenn wir heute nur 2 Gruppen haben, glaube ich nicht die Zeit haben, ganz.
+Tief einzusteigen und zu reviewen ich finde es extrem wichtig und extrem fair.
+Jeder hat sich hier seine Mühe gegeben.
+Nee, da stellt sich da vorne hin und macht sich in Anführungsstrichen mal kurz nackig. Ich finde das extrem wichtig und ich finde.
+Es auch extrem wichtig, das wertzuschätzen, egal ob einem das gefällt oder nicht.
+Es ist auch eine gewisse Herausforderung und es ist immer auch eine gewisse Überwindung, also auch sogar für jemanden wie mich ist das immer noch immer wieder ein bisschen man.
+Muss sich halt hinstellen und liefern. Das macht was mit einem.
+Das muss aber mal ganz explizit danke für den ersten Schritt, weil der ist immer der schwierigste.
+Mal ganz kurz was.
+说话人15 00:42:23
+Machen wir jetzt bei diesem.
+说话人7 00:42:27
+Stoffwechsel weiter Entschuldigung gekriegt haben wir jetzt.
+Ja, hier.
+
+[00:00:00] Die eigene Plattform zur Vernetzung und Austausch zu mehreren Raum für Diskussionen und konstruktives Feedback zu Musikprodukten
+
+[00:00:06] ist Musicdear Online, ein ideales Online-Community-Portal, mit dem Erfahrungen von Profis und engagierten Nutzern geteilt werden können.
+
+[00:00:16] Im Unterschied zu bestehenden Musicstores, die meistens spontane und wenig fundierte Produktbewertungen bieten,
+
+[00:00:23] ist unser Produkt die bessere Alternative für fundierte Meinungen, echten Austausch und gemeinsames Lernen rund um das Musikübungs.
+
+[00:00:31] Das war jetzt mal ein langer Satz, aber das haben wir schon einmal bei uns in der Vorlesung gemacht.
+
+[00:00:38] Es handelt sich dabei um ein Wissensstatement nach Moore und Sinn und Zweck ist es dabei.
+
+[00:00:46] Dabei wollen wir den Sinn und Zweck von unserem Produkt wiedergeben.
+
+[00:00:53] Wir betrachten dabei die Zielgruppen, da wollen wir die Musikbegeisterten ansprechen.
+
+[00:00:59] Ebenso die Bedürfnisse werden in dem Satz aufgegriffen, das bedeutet eine Plattform zur Vernetzung und den Austauschbesuch.
+
+[00:01:06] Der Produktname ist ebenso enthalten.
+
+[00:01:10] Wir fallen unter die Produktkategorie Online-Community-Portal.
+
+[00:01:14] Ebenso haben wir einen Nutzen-Grund in dem Wissensstatement erwähnt, das sind die Erfahrungen von Profis und engagierten Nutzern.
+
+[00:01:23] Ebenso die Situation und den Wettbewerb.
+
+[00:01:27] Da ist es so, dass es natürlich schon Music Stores gibt, die aber meist nur spontane und wenig fundierte Produktbewertungen bieten.
+
+[00:01:36] Ein Vorteil und Nutzerversprechen von unserer Seite gibt es also, dass es die bessere Alternative ist,
+
+[00:01:42] MusicGear, für fundierte Meinungen, echten Austausch und gemeinsames Lernen rund um das Musikübungs.
+
+[00:01:51] Genau.
+
+[00:01:51] Jetzt bin ich schon in unserem Fokus.
+
+[00:01:53] Wir haben den Vortrag eingestartet.
+
+[00:01:56] Wir stellen euch kurz das Projekt vor, gehen dann heute über auf die Terminplanung, stellen euch die Kostenarten vor,
+
+[00:02:02] das ist nun mal so eine kleine Wissenswiederholung.
+
+[00:02:05] Dann gehen wir in die Ressourcenplanung und die Kostenplanung von unserem Projekt und schließen mit einem Fazit und mit Tipps ab.
+
+[00:02:15] Zur Projektvorstellung.
+
+[00:02:17] Der Name ist glaube ich jetzt allen mittlerweile geläufig.
+
+[00:02:19] Wir heißen MusicGear Online.
+
+[00:02:21] Dein Shop für Musikinstrumente.
+
+[00:02:23] Das zweite dahinter ist unser Slogan.
+
+[00:02:25] Genau.
+
+[00:02:26] Ziel ist die Vernetzung und der Verkauf.
+
+[00:02:29] Genau.
+
+[00:02:30] Und dabei steht im Vordergrund, dass bei der Vernetzung ein Austausch von Musiker, Musikerinnen möglich ist.
+
+[00:02:37] Und beim Verkauf eben auch das Angebot ziemlich groß ist und eben auch ein Angebot besteht, professionell und persönlich beraten zu werden.
+
+[00:02:48] Somit sind unsere Funktionen von unserem Produkt ein Ziel.
+
+[00:02:51] Von unserem Produkt eine Webseite und eine passende App dazu.
+
+[00:02:57] Bei dieser Webseite und bei der App ist es dann möglich Beiträge und Videos hochzuladen, ebenso Feedback eben dann da reinzuschreiben.
+
+[00:03:05] Diese Community wollen wir ja aufbauen, damit dieser persönliche Ausbau schmiedig ist und im Vordergrund natürlich der Shop.
+
+[00:03:13] Im Unterschied zu bestehenden Plattformen bietet MusicGear eine fördernde und interaktive Umgebung.
+
+[00:03:20] Genau.
+
+[00:03:21] Im planbasierten Projektmanagement gibt es fünf Projektmanagementphasen.
+
+[00:03:30] Hier nochmal im Überblick.
+
+[00:03:31] Die kamen ja auch in der Vorlesung vor.
+
+[00:03:33] Es gibt einmal die Initialisierung, dann die zweite mit der Definition, dann die Planung, Steuerung und Abschluss.
+
+[00:03:39] Wir konzentrieren uns heute auf die Planung.
+
+[00:03:45] Wir starten mit dem Projektstrukturplan.
+
+[00:03:48] Nochmal ganz kurz.
+
+[00:03:49] Ja.
+
+[00:03:50] Dann kommt der Terminplan und unser Fokus liegt heute auf Ressourcen- und Kostenplan.
+
+[00:03:55] Ziel ist also eine grobe Abschätzung von Aufwand und den benötigten Mitteln.
+
+[00:04:00] Ja, dann mache ich jetzt die zweite mit der Terminplanung.
+
+[00:04:03] Dazu wechseln wir jetzt mal schnell in die Externe Partei.
+
+[00:04:07] Wir haben das da versucht, das jetzt zu visualisieren.
+
+[00:04:10] Genau.
+
+[00:04:11] Unseren Projektstrukturplan haben wir ja schon mal vorgestellt.
+
+[00:04:20] Wir haben hier oben bloß nochmal dargestellt.
+
+[00:04:25] Also wir haben zuerst die Projektplanung, dann kommt die Konzeption, technische Umsetzung, die Vermarktung und danach Betrieb und die Weiterentwicklung.
+
+[00:04:34] Den Terminplan haben wir in Form einer Ressourcenplanung.
+
+[00:04:38] Haben wir in Form eines Breitendiagramms oder auch ein Diagramm bezeichnet.
+
+[00:04:43] Hier drüben mal visualisiert.
+
+[00:04:46] Das Vorgehen ist eigentlich das, wir überführen und detaillieren eigentlich die Arbeitspakete und Meilensträhne und haben dann eine sachlogische Reihenfolge.
+
+[00:04:56] Also wir haben jetzt hier zum Beispiel die Projektplanung.
+
+[00:05:00] Die haben wir jetzt hier nochmal in Arbeitspakete unterteilt.
+
+[00:05:03] Haben hier unten dann hier oben unsere Wochen angeführt.
+
+[00:05:06] Und können dann jetzt beispielsweise.
+
+[00:05:07] Rauslesen, dass wir bei der Projektplanung drei Wochen haben.
+
+[00:05:13] Bei der Konzeption dann vier und so weiter.
+
+[00:05:16] Und so wird das eigentlich ja ganz schön dargestellt.
+
+[00:05:19] Ja für unser Projekt haben wir eigentlich immer sehr viele verschiedene Kosten, die auf einen zukommen.
+
+[00:05:28] Da haben wir uns jetzt mal die Aufgabe für alle überlegt.
+
+[00:05:32] Wir haben Zettel und Stifte dabei.
+
+[00:05:34] Die teilen wir jetzt aus.
+
+[00:05:36] Und dann darf jeder einfach mal aufschreiben, mit welchen Kosten er dann rechnet.
+
+[00:05:42] Bei unserem speziellen Produkt jetzt Music Gear Online.
+
+[00:05:46] Genau.
+
+[00:05:47] Das teilen wir jetzt mal aus.
+
+[00:05:49] Dass die Farben sind.
+
+[00:05:50] Breitendiagramm, Kanäle, Zettel und Stifte.
+
+[00:06:06] Und auch dann bekommen sie völlig und wirklich dasselbe музische weil,
+
+[00:06:10] die jetzt aber vor Ort überlegen.
+
+[00:06:12] Und jedoch die Farben zu sehen, was haben wir dann im Took här gelten någonting,
+
+[00:06:24] das kann ich deswegen jetzt Tale Mep vuel�
+
+[00:06:34] Febleinazorenón dope男Magag Fourth.
+
+[00:06:35] Also vor allem noch mit Brotzeiten natürlich.
+
+[00:07:05] Vielen Dank.
+
+[00:07:35] Vielen Dank.
+
+[00:08:05] Ja, dann schauen wir, dass der Langstab fertig ist.
+
+[00:08:10] Ich bringe jetzt mal die Folie weiter.
+
+[00:08:11] Da haben wir jetzt mal zu vier Oberpunkten uns losgesucht, wo man das dann einstellen kann.
+
+[00:08:18] Einmal die Personalkosten, Materialkosten, Sachen- und Dienstleistungskosten und die Kapitalkosten.
+
+[00:08:26] Wir haben das da vorne mal vorbereitet.
+
+[00:08:35] Wir haben Stecknadeln dabei. Jetzt können Sie einfach mal alle rauskommen und bis dahin hängen.
+
+[00:08:39] Wir müssen zuordnen, wo wir meinen, dass es dann eigentlich passt.
+
+[00:09:05] Nicht, dass du hier drunter piekst.
+
+[00:09:30] Vielen Dank.
+
+[00:09:35] Vielen Dank.
+
+[00:10:05] Vielen Dank.
+
+[00:10:35] Vielen Dank.
+
+[00:11:05] Vielen Dank.
+
+[00:11:35] Vielen Dank.
+
+[00:12:05] Vielen Dank.
+
+[00:12:35] Vielen Dank.
+
+[00:13:05] Vielen Dank.
+
+[00:13:35] Vielen Dank.
+
+[00:14:05] Vielen Dank.
+
+[00:14:35] Vielen Dank.
+
+[00:14:37] Vielen Dank.
+
+[00:15:00] Vielen Dank.
+
+[00:15:00] Vielen Dank.
+
+[00:15:04] Vielen Dank.
+
+[00:15:04] jon wir jetzt genau mal da bringen dazu.
+
+[00:15:05] Wechseln wir auch wieder unsere Excel-Liste.
+
+[00:15:17] Und haben dann jetzt mal einen Ressourcenplan aufgestellt.
+
+[00:15:21] Wir haben quasi unsere verschiedenen Vorgänge aus dem Terminplan, hier mit 1.1, 1.2, 1.3 von oben.
+
+[00:15:33] Und haben dann immer eine Personalesource, also hier zum Beispiel Projektleiter, Softwareentwickler, Teamleiter,
+
+[00:15:41] haben wir zugeordnet zu diesem Vorgang und die quasi verknüpft.
+
+[00:15:45] Wir haben von oben dann immer nur unsere Kalenderwochen und sagen dann jetzt pro Person,
+
+[00:15:51] wie viele Stunden wir mit denen in der Woche rechnen.
+
+[00:15:53] Und haben dann so eigentlich das einmal durchgespielt, wie viele Stunden jeder Mitarbeiter
+
+[00:16:00] so eine Zeit hat.
+
+[00:16:03] Und wie viele Stunden jeder Mitarbeiter einbringen soll.
+
+[00:16:04] Da unten beim Bedarf haben wir die Personen dann alphabetisch geordnet und einfach mal
+
+[00:16:10] zusammengefasst die Stunden, wie viele die in der Woche arbeiten.
+
+[00:16:14] Genau, und je nachdem, wenn man in der hohen Kundenanzahl in der Woche ist, müssen da
+
+[00:16:22] vielleicht ein oder zwei Mitarbeiter mehr einsetzen in diesem Bereich, dass man einfach
+
+[00:16:26] die Arbeitsparteite schafft.
+
+[00:16:28] Und haben das dann eigentlich hier auch nochmal aufgelistet und kommen dann hier auf den Gestammt.
+
+[00:16:33] Und dann haben wir hier den Zusammenschlusssatz von ungefähr 2540 Stunden, damit das mal so für uns
+
+[00:16:38] überflägt.
+
+[00:16:39] Genau.
+
+[00:16:46] Genau, ich gehe ein bisschen noch auf die Kostenplanung ein.
+
+[00:16:49] Da haben wir jetzt ebenso unsere ganzen Personen, wir haben uns ja auf das Personal fokussiert,
+
+[00:16:54] aufgelistet, dann jeweils einen Kostensatz pro Stunde aufgestellt.
+
+[00:17:00] Der Kostensatz pro Stunde.
+
+[00:17:03] Das ist geschätzt basierend auf typischen Marktwerten und ist Bruttolz in dem Fall für
+
+[00:17:09] die Projektkalkulation.
+
+[00:17:11] Genau, also wir haben jetzt hier für die Bedarfe aus den Beschlüssemmangel ein Kostensatz
+
+[00:17:17] von 4,80 mal die 40.
+
+[00:17:22] Kommen wir auf den Preis.
+
+[00:17:24] Genau, rechts haben wir es dann auch wieder summiert und hier haben wir das insgesamt
+
+[00:17:30] auf Personalkosten in Höhe von 212.000.
+
+[00:17:32] Genau, unten in der unteren Seite seht ihr einmal die Kosten pro Zeiteinheit, bedeutet
+
+[00:17:39] immer alle pro Woche summiert.
+
+[00:17:42] Und hier unten seht ihr dann die Kostensumme, bedeutet da kommen dann immer die Kosten von
+
+[00:17:46] der alten Woche, also die neuen Kosten kommen hier dazu.
+
+[00:17:50] Und dann summiert sich das und am Ende kommen wir auf die gleiche Summe, wie wenn wir es
+
+[00:17:55] nach rechts rechnen.
+
+[00:17:57] Genau.
+
+[00:17:59] Um das Ganze noch ein bisschen zu visualisieren.
+
+[00:18:01] Haben wir hier die Kostenfunktion aufgestellt.
+
+[00:18:07] Da seht ihr jetzt einmal die rote, das ist die Kostensummenkurve, das war die Zahl hier
+
+[00:18:12] oben.
+
+[00:18:13] Und das blaue sind unsere Kosten pro Zeiteinheit, also pro Woche.
+
+[00:18:21] Genau.
+
+[00:18:22] Man sieht die Kosten steigen sich dann zwischendrin, bei der Entwicklung haben wir mal einen leichten
+
+[00:18:28] Höhepunkt.
+
+[00:18:29] Aber man muss jetzt insgesamt bedenken, dass das alles kalkuliert, also ungefähr, was
+
+[00:18:35] wir jetzt schätzen, die praktische Kostenkurve wird immer höher liegen, also wie es dann
+
+[00:18:42] in der Praxis aussieht.
+
+[00:18:43] Genau, aber für die Planung braucht man natürlich irgendwelche Kosten, darum haben wir das mal
+
+[00:18:49] in dem Fall so eingeplant.
+
+[00:18:51] Es kann natürlich auch sein, dass alles total super läuft und die Kostenkurve dann darunter
+
+[00:18:55] liegt, aber das ist meistens nicht der Fall.
+
+[00:18:57] Genau.
+
+[00:18:58] Dann springen wir wieder zurück zur Powerpoint.
+
+[00:19:01] Nun haben wir noch ein kurzes theoretisches Szenario, welches natürlich in der Praxis
+
+[00:19:13] auftreten könnte.
+
+[00:19:14] Ihr sagt das Projektteam, eure Aufgabe entscheidet gemeinsam, wie ihr mit einem unerwarteten Ziel
+
+[00:19:21] umgeht.
+
+[00:19:22] Ein zentraler Entwickler fällt kurzfristig für mehrere Wochen auf.
+
+[00:19:25] Das ist ein sehr interessantes Thema.
+
+[00:19:26] Das ist ein sehr interessantes Thema.
+
+[00:19:27] Die Person war maßgeblich für die technische Umsetzung eines Kernfeatures eingeplant und
+
+[00:19:34] der Ausfall gefährdet nun den Zeitplan und könnte wichtige Abhängigkeiten verzögern.
+
+[00:19:39] Was tun?
+
+[00:19:40] Die Frage, die wir uns jetzt stellen, ist, welche Lösung ist kurzfristig umsetzbar,
+
+[00:19:47] damit auch kein Projektfortschritt gefährdet ist?
+
+[00:19:52] Was meint ihr?
+
+[00:19:55] Ja, dann nehmen wir da einen einzeln.
+
+[00:19:58] Dann nehmen wir die Kette.
+
+[00:20:01] Dann müssen wir die Kette dann vielleicht bei anderen Leuten beweisen, wenn wir so zusammenziehen und dann auf die Aufgabe passieren.
+
+[00:20:08] Also unterscheidet sich ja auch irgendwo die Aufgabenseite.
+
+[00:20:11] Ich finde, dass schon jemand anderes sich das nicht auslösen kann.
+
+[00:20:14] Das sind ja schon mal gute Lösungsansätze, hätten wir jetzt auch geschrieben.
+
+[00:20:19] Doch welche Risiken bringen dann jeweils die Optionen vielleicht ganz mit sich?
+
+[00:20:23] Dann nimmst du noch deine Option, dann gehst du mit dem neuen Mitarbeiter.
+
+[00:20:27] Das hat viel höheren Kosten.
+
+[00:20:29] Also das ist ja so für ein paar Wochen eigentlich.
+
+[00:20:33] Genau, 40 Personen hast du eigentlich.
+
+[00:20:36] Einer von beiden hat wahrscheinlich weniger Beruf.
+
+[00:20:39] Und dann fallen die wieder mit der Kostenkurve von dir dann gleich wieder rüber.
+
+[00:20:43] Und der hat ja auch diesen Projekt kurzfristig so irgendwie erweitert, dass er da jetzt sofort durchstarten kann.
+
+[00:20:49] Kurzfristigkeit.
+
+[00:20:52] Also.
+
+[00:20:53] Selbst die Dienstleister ist kurzfristig.
+
+[00:20:57] Ja.
+
+[00:20:59] Ja gut, dann vielen Dank.
+
+[00:21:02] Kommen wir noch zum Fazit und ein paar Tipps für euch.
+
+[00:21:06] Ja, am Schluss wollten wir euch nochmal sagen, was unserer Meinung nach so mit so die wichtigsten Sachen gehören,
+
+[00:21:12] die wir bei der Projektplanung einfach beachten müssen.
+
+[00:21:16] Das ist einmal, dass die Planung eigentlich bei der Priorisierung ja hilft und bei der Ressourcenverteilung
+
+[00:21:22] aber die relativ, die Realität war einfach trotzdem ja stark abzieht.
+
+[00:21:29] Planung dient aber trotzdem dazu, dass man zum Beispiel sieht, wo braucht man Puffer, wo sind die kritischen Stellen.
+
+[00:21:35] Und das ist eigentlich ja trotzdem immens wichtig.
+
+[00:21:38] Und Kommunikation und Flexibilität sind einfach auch immens wichtig.
+
+[00:21:43] Ja, wie wir es gerade gesehen haben, dass man einfach sobald was passiert, ja, entgegenwirken kann.
+
+[00:21:50] Deshalb für euch folgende Tipps.
+
+[00:21:52] Frühzeitig klare Strukturen schaffen.
+
+[00:21:54] Wir haben das ja heute, glaube ich, ziemlich gut mal vorgezeigt, wie man eben mit Excel oder anderen Tools sowas visualisieren kann.
+
+[00:22:01] Ich glaube, im Laufe des Studiums hat jetzt da jeder schon mehrere Tools auch mal ausprobiert.
+
+[00:22:06] Genau, und diese Risiken darf man einfach nicht ignorieren.
+
+[00:22:09] Wir haben es ja im Laufe der Vorlesung mit dem Projekt Canvas dann auch eigentlich visualisiert.
+
+[00:22:15] Und jeder hat sich mal überlegt, was sind so die Risiken.
+
+[00:22:17] Und die muss man sich einfach wieder immer während des Projektes vorlesen.
+
+[00:22:19] Oder während des Projektes wahrscheinlich wieder vor Augen führen, damit man eben Puffer eingeladen und dann frühzeitig dann agieren kann.
+
+[00:22:26] Vielen Dank für eure Aufmerksamkeit.
+
+[00:22:34] Gibt es noch irgendwelche Fragen von eurer Seite?
+
+[00:22:43] Hast du die Ehe-Spanne im Kurs noch gehabt?
+
+[00:22:46] Oder hat dir das auf den Charakter-Ring aufgefallen mehr?
+
+[00:22:48] Das ist immer eine schwierige Entscheidung.
+
+[00:22:50] Wir hätten genauso Beispiel.
+
+[00:22:52] Es gibt natürlich immer, man könnte es andere Firmen vielleicht beauftragen oder irgendwelche Personen.
+
+[00:22:57] Man muss ja nicht mal einstellen.
+
+[00:22:58] Man kann ja auch das Dienstleister irgendwie beauftragen.
+
+[00:23:00] So was ist vielleicht immer eine Möglichkeit.
+
+[00:23:02] Aber dass diese dann natürlich sich zuerst einarbeiten müssen, ist immer schwer.
+
+[00:23:06] Darum wäre vielleicht die beste Möglichkeit, wenn die Kapazität da ist, dass man intern im Unternehmen schaut, ob irgendwelche eine Abteilung vielleicht da was übernehmen kann.
+
+[00:23:15] Oder die andere Abteilung.
+
+[00:23:18] Die Möglichkeit wäre vielleicht auch, dass man die Prioritäten überarbeitet und sagt, man könnte es doch in anderen Aufgabenteilen vielleicht nur ein Stück weit vorziehen.
+
+[00:23:28] Und dann schauen, dass man es so begründen kann.
+
+[00:23:38] Wichtiger Punkt.
+
+[00:23:39] Das Thema, wie gut kenne ich meinen kritischen Quartier.
+
+[00:23:42] Denn was glaube ich in der Beschreibung eigentlich nicht drin stand, war,
+
+[00:23:48] ist dieser zentrale Entwickler mit der Arbeit, die jetzt für ihn geplant hat, überhaupt jetzt wichtig?
+
+[00:23:55] Also kann auch sein, dass das einfach schnell wird.
+
+[00:23:58] Wenn man nicht fünf Wochen schieben kann, dann kann man es auch fünf Wochen schieben.
+
+[00:24:02] Wir hatten ja einen Zeitplan.
+
+[00:24:04] Das ist eigentlich schon wichtig.
+
+[00:24:05] Also nach dem Zeitplan gehen wir.
+
+[00:24:07] Das war eigentlich schon so unser Plan.
+
+[00:24:09] Da können wir natürlich noch eine Wichtigkeitsanalyse machen und dann sagen,
+
+[00:24:12] aber davon gehen wir jetzt ja aus, dass wir uns an den Zeitplan halten.
+
+[00:24:16] Und wenn man dann schon eine Woche im Verzug ist, dann kann man dann auch sagen, ja, das ist ja gut.
+
+[00:24:17] Wenn man dann schon eine Woche im Verzug ist, hat das natürlich dann Auswirkungen auf das Restliche,
+
+[00:24:20] weil das ja alles Abhängigkeiten hat.
+
+[00:24:22] Wenn da die Abhängigkeiten linear sind auf jeden Fall, ja.
+
+[00:24:25] Ich habe mal leider so ein bisschen die Frage, das ist überhaupt nicht wertend,
+
+[00:24:32] sondern nicht falsch verstehen, weil das hat nichts mit der Präsentation zu tun.
+
+[00:24:38] Ich habe immer noch so ein bisschen dieses Thema Musik Community.
+
+[00:24:45] Wie schaffe ich denn eigentlich Anreize, dass sich dann auch Leute daran beteiligen?
+
+[00:24:50] Also wenn ich das Produkt verstehe, es wird ja erst dann geil, wenn alle auch Bock drauf haben.
+
+[00:24:57] Ich meine, ich habe jetzt eben in den Personalstrukturen, es sieht so aus, als würde man ein paar Ex-Kleute vielleicht auch freundlich erwerben.
+
+[00:25:03] Da kann man sich vielleicht auch so etwas denken wie, was sind eigentlich so die kleinen Werbeikonen?
+
+[00:25:10] Also dass man auch so diese Modellnutzer,
+
+[00:25:13] die man in den attraktiven First Places hat.
+
+[00:25:16] Aber wie funktioniert dann wirklich das?
+
+[00:25:20] Hans Dieter, der Line-Musiker, der einfach Bock daran hat, seine Erfahrung einzubringen,
+
+[00:25:26] wie kriegt man denn dazu, das wirklich zu tun?
+
+[00:25:29] Also ich setze mal einfach provokativ voraus, das macht kein Mensch, wenn er keinen Anreiz hat.
+
+[00:25:38] Das stimmt, aber heutzutage lernen ja auch schon scheinbar viele Leute,
+
+[00:25:42] dass sie das machen.
+
+[00:25:43] Bloß ist halt das so, dass da eigentlich niemand so Bewertungen schreiben kann,
+
+[00:25:47] und das oft sehr unqualifiziert ist.
+
+[00:25:49] Das muss dann schon irgendwie durch eine Abteilung kontrolliert werden im späteren Verlauf.
+
+[00:25:53] Und am Anfang schaffen wir den Einstieg bloß dadurch, dass wir uns Leute natürlich kaufen,
+
+[00:25:57] oder die dann auch die Gagen auszahlen.
+
+[00:26:00] Sonst macht kein Profimusiker, ich glaube, in seiner Freizeit Schreibtag Bewertungen.
+
+[00:26:05] Aber das machen sie ja in anderen Produkten auch.
+
+[00:26:07] Die ganzen Beispiele, Shampoos, keine Ahnung, da werden ja auch
+
+[00:26:12] die Leute, die man dann auch mal zuerst mal Fußball oder sowas interviewt und dann auch
+
+[00:26:16] verfilmt und fotografiert.
+
+[00:26:18] Und so muss man es halt dann dort auch aufziehen.
+
+[00:26:20] Bloß, dass es da dann schon am Ende eben auch diese Hobbymusiker, dass die sich dann da auch eben dann finden können
+
+[00:26:25] oder halt dann eben da noch mehr agieren können und schon mal miteinander schreiben.
+
+[00:26:30] Ich denke auch immer die Profis geht das dann ja auch weiter raus,
+
+[00:26:34] weil die ja auch wieder meistens Schüler haben, unterrichten.
+
+[00:26:38] Und wenn die damit sehr zufrieden sind, dann
+
+[00:26:41] schafft man ja auch eine gewisse Reichweite, denke ich dann, über sowas.
+
+[00:26:47] Musikhörer machen ja sowas meistens auch, dass sie irgendwie noch nebenher sowas machen,
+
+[00:26:51] um dann auch Schüler eben dazu noch mehr zu begeistern.
+
+[00:26:55] Die Produkte verwende ich auch, ich schreibe da Bewertungen oder da kaufe ich oft ein.
+
+[00:27:01] Das ist ja in der Praxis jetzt schon.
+
+[00:27:03] Von dem her glaube ich, dass wenn dann da mal ein Weg hineingeschafft ist, dann macht man das schon.
+
+[00:27:08] Mhm, kann gut.
+
+[00:27:09] Es wäre ja nichts anderes.
+
+[00:27:10] Instagram, wo Bands nutzen, die halt dann hier noch mehr über die Musik kanalieren,
+
+[00:27:16] nur dass halt dann keine Auftritte stehen, sondern mehr sich da die Fachzentren über sich befinden.
+
+[00:27:21] So waren die Ideen mal ursprünglich.
+
+[00:27:25] Gibt es natürlich in so Dingen wie Instagram noch den Algorithmus.
+
+[00:27:29] Also.
+
+[00:27:30] Genau.
+
+[00:27:32] Ja gut, danke.
+
+[00:27:40] Ich würde jetzt gerne die Viertelstunde zweiteilig noch nutzen.
+
+[00:27:46] Erstens nochmal bedanken an beide Gruppen.
+
+[00:27:53] Ich finde es gut, dass sie sich sicherlich auch irgendwo der Organisationsdichte geschuldet,
+
+[00:27:59] wenn ich das richtig gesehen habe, bereit erklärt haben, heute den Anfang zu machen.
+
+[00:28:04] An alle trotzdem nochmal die Frage.
+
+[00:28:08] Was ist aufgefallen?
+
+[00:28:11] Gibt es irgendwas, was an Manöverkritik da ist?
+
+[00:28:15] Ich würde jetzt, auch wenn das vielleicht ein bisschen auf Kosten,
+
+[00:28:18] ich bin eigentlich Freund von Einzelschießdecken, dass jeder auch nochmal seinen Senf dazu gibt.
+
+[00:28:23] Gerne auch heute.
+
+[00:28:27] Aber ich will es nicht einfordern.
+
+[00:28:30] Also wenn jemand was dazu sagen möchte, auf jeden Fall sehr gerne.
+
+[00:28:34] Vielleicht auch so ein, was finde ich cool, was fand ich interessant.
+
+[00:28:37] Was fand ich jetzt vielleicht noch ausbaufähig?
+
+[00:28:40] Was hat mir gefehlt?
+
+[00:28:42] Das fände ich schön, wenn man das noch unterkriegt.
+
+[00:28:46] Und da ich weiß, dass damit immer nicht gestartet werden will, mache ich auch gerne den Anfang.
+
+[00:28:50] Also erstmal, wie gesagt, vielen Dank.
+
+[00:28:54] Ich fand es cool.
+
+[00:28:55] Ich fand es auch sehr angenehm, dass da so etwas völlig unterschiedliches bei rausgekommen ist.
+
+[00:29:01] Es war nicht vorhersehbar.
+
+[00:29:04] Es war ein bisschen mein Wunsch.
+
+[00:29:05] Ich freue mich immer, wenn so etwas in Erfüllung geht.
+
+[00:29:06] Danke.
+
+[00:29:07] Das war top.
+
+[00:29:08] Hat irgendwas doch ganz gut funktioniert.
+
+[00:29:10] Wie gesagt, mir fehlt manchmal da noch so, da bin ich einfach zu sehr Techniker und Produktler.
+
+[00:29:19] Da sage ich so, verdamm ich nochmal, wie soll denn das überhaupt funktionieren.
+
+[00:29:22] Aber hat überhaupt nichts mit der Planung zu tun.
+
+[00:29:24] Fand ich schön, da nochmal so einen richtigen Gesamtüberblick zu kriegen.
+
+[00:29:28] Wie funktioniert eigentlich das Produkt?
+
+[00:29:30] Ich fand es vor allem sehr clever.
+
+[00:29:33] Und das kann ich eben zur Diskussion.
+
+[00:29:36] Ich habe es auch schon mal mitgegeben.
+
+[00:29:38] Einfach auch nochmal diese Product Vision darzustellen.
+
+[00:29:41] Weil ich glaube fest daran, dass man sich an so einem Ding sehr gut im Gange hangen kann.
+
+[00:29:46] Und dann auch, das wäre jetzt zum Beispiel, wenn es im echten Leben wäre, durchaus eine ernst gemeinte Kritik.
+
+[00:29:52] Jetzt kann man es einfach mal so unterspielerisch lassen, was sein.
+
+[00:29:55] Laufen lassen.
+
+[00:29:57] In der Product Vision war vieles, ist ja nicht neu.
+
+[00:30:04] Das neue soll sein, diese Community.
+
+[00:30:07] Das neue soll sein, dass das irgendwie ein Playground ist für Musiker von Musikern.
+
+[00:30:14] Und ganz hart gesprochen, wenn das jetzt in die Höhle des Löwen geht.
+
+[00:30:20] Und dieser Aspekt dann eigentlich in der Produktplanung gar nicht weiter auffällt.
+
+[00:30:25] Dann fehlt da was.
+
+[00:30:27] Also weil das ist in diesem USP, den Unique Selling Point.
+
+[00:30:31] Einfach hier vielleicht für alle.
+
+[00:30:32] So ein Unique Selling Point.
+
+[00:30:33] Wenn man den identifiziert hat, dann muss man ihn ausschlachten.
+
+[00:30:37] Bis zum Sankt-Himmern-Einz-Tag.
+
+[00:30:39] Ja?
+
+[00:30:40] Danke.
+
+[00:30:42] Sie beide, ich fand es total gut.
+
+[00:30:47] Also wie gesagt, das ist kein schlechter oder besser.
+
+[00:30:50] Das ist mutig, sich hinzustellen und sowas komplett offen zu gestalten.
+
+[00:30:56] Finde ich echt gut, dass Sie beide da auch gesagt haben, nee machen wir jetzt.
+
+[00:31:02] Wir haben hier eine Möglichkeit, das Ganze auch mal zu probieren.
+
+[00:31:05] Ich habe es zumindest so verstanden, dass das auch einfach mal an sich ausprobieren ist.
+
+[00:31:10] Klar hat man eine Storyline im Hintergrund.
+
+[00:31:12] Und die Storyline geht nie auf.
+
+[00:31:15] Das ist immer so.
+
+[00:31:16] Das gibt mir die Vorlesung so.
+
+[00:31:22] Dass es nicht so hundertprozentig aufgeht.
+
+[00:31:25] Das ist eine total wichtige Lektion, dass man damit auch einfach leben lernt.
+
+[00:31:31] Weil das ist auch Teil von dem sich da vorne hinstellen, dass es immer irgendwas gibt, egal wie oft man es übt.
+
+[00:31:38] Egal wie gut man durchkonzeptioniert hat.
+
+[00:31:41] In meinem Vorstellungsvortrag habe ich auch nachher gedacht, zwei Teile komplett vergessen.
+
+[00:31:46] Weil es dann doch irgendwas dazwischen kommt.
+
+[00:31:49] Also finde ich gut, wenn der Mut auch einfach dann, wenn die Herausforderung auch als solche angenommen wird.
+
+[00:31:56] Und sagt, okay, wir machen mal was anderes.
+
+[00:31:58] Wir machen was, wo wir uns auch selber nochmal herausfordern.
+
+[00:32:00] Fand ich gut. Danke.
+
+[00:32:02] Andere Punkte noch? Andere Meinungen noch?
+
+[00:32:18] Na gut, dann schlage ich das nächste Kapitelchen auf.
+
+[00:32:25] Selbstreflektion, wenn wir schon mal dabei sind.
+
+[00:32:27] Wie war es für die beiden Teams?
+
+[00:32:30] Ich glaube, für uns war es ein bisschen schwierig, das richtig einzuschätzen, wie gut das funktioniert, das Verständnis.
+
+[00:32:37] Also die Leute mussten erstmal verstehen, okay, was ist überhaupt das Projekt?
+
+[00:32:41] Dann mussten sie verstehen, was ist praktisch die Aufgabe?
+
+[00:32:44] Und das dann auch so einzuordnen, wie wir uns das gedacht haben.
+
+[00:32:47] Weil ich kann jetzt dann auch nicht eine halbe Seite pro Aufgabe schreiben, um das genau zu definieren.
+
+[00:32:53] Sondern das halt irgendwie kurz und vergnannt so zu formulieren, dass es halt auch dann rüberkommt.
+
+[00:32:57] Wo wäre das jetzt zum Beispiel einordnen da?
+
+[00:32:59] Das war irgendwie ein bisschen schwierig und hat glaube ich auch nicht so ganz funktioniert, wie wir uns das vorgestellt haben.
+
+[00:33:05] Also schon vom Grundsatz her schon.
+
+[00:33:07] Aber war dann irgendwie schon immer ein bisschen schwierig, das dann auch einzuschätzen.
+
+[00:33:11] Wie ist das dann zeitlich? Wie viel Zeit braucht man dafür? Versteht man das überhaupt?
+
+[00:33:16] Stimmt, ich stimme dem Gruppe im Großen und Ganzen zu.
+
+[00:33:22] Ich finde, oder für mich persönlich war es so das Paradebeispiel in der Vorbereitung.
+
+[00:33:27] Da denkt man sich, es macht alles Sinn, es macht alles Sinn.
+
+[00:33:29] Und dann kommt man hier rein und hat so ein bisschen unter den Teppich gekehrt,
+
+[00:33:34] dass die Leute sich mit dem Projekt eigentlich noch gar nicht so auseinandergesetzt haben.
+
+[00:33:38] Und das so ein bisschen zum Problem werden kann.
+
+[00:33:40] Aber an sich fand ich es ganz cool, diese Interaktion.
+
+[00:33:42] Auch wenn sie sich dann doch noch ein bisschen gezogen hat.
+
+[00:33:46] Ihr habt mir heute glücklicherweise ein bisschen Puffer.
+
+[00:33:49] Ja.
+
+[00:33:51] Ja.
+
+[00:33:53] Also ihr habt es schwierig gefunden, weil man so eine Aufgabe losgibt.
+
+[00:33:55] Ja.
+
+[00:33:56] Die man dann die Leute wieder einfängt und dann auch wirklich auf das eingeht.
+
+[00:34:02] Nur ja, darum trotzdem nicht zu viel Zeit rein in das Spiel, dass man alles durchgehen kann.
+
+[00:34:07] Aber man muss es ja trotzdem irgendwie, ja, man muss sozusagen irgendwie sprechen,
+
+[00:34:12] oder passt das jetzt, was wir gemacht haben.
+
+[00:34:14] Und genau, ja, da bin ich mir auch nicht ganz sicher, ob wir da einfach noch mehr irgendwie erzählen sollen,
+
+[00:34:21] was man jetzt da so aufgeschrieben hat.
+
+[00:34:24] Ich fand das sehr toll.
+
+[00:34:26] Ja, das war auch ein bisschen gut.
+
+[00:34:28] Also gut, wir haben uns ja, also am meisten in der Vorbereitung war das Zeitthema gestanden.
+
+[00:34:33] Das waren ja diese 15 Minuten.
+
+[00:34:35] Ja, die haben das...
+
+[00:34:37] Circa 13 Minuten, wir haben so so weit...
+
+[00:34:39] Naja.
+
+[00:34:40] Wir haben so bis 20 gelandet, ja.
+
+[00:34:42] Mir ging es darum, ziemlich viel Abwechslung zu schaffen,
+
+[00:34:45] dass wir eben diese zwei interaktiven Modelle beide drin haben.
+
+[00:34:49] Beim letzten hat man sich vielleicht dann gedacht, jetzt fängt man das noch nicht an, wir schaffen das.
+
+[00:34:53] Aber wir haben es leider ziemlich gut abgerundet bekommen.
+
+[00:34:55] Und dann macht so was, so ein Vortrag, ja, abwechslungsreich.
+
+[00:34:59] Und auch verschiedene Themen, wo wir angeschweigt haben, wo wir dann betrachtet haben.
+
+[00:35:03] Und doch eigentlich dann, doch diesen Kosten und Ressourcen da dann doch mal so voll zu zeigen,
+
+[00:35:08] auch in dem Exo, war eigentlich so der Plan, ist gleich ganz gut gelungen.
+
+[00:35:12] Mhm, ja.
+
+[00:35:14] Falls das vorhin eine Frage war, wie fängt man sowas am besten ein?
+
+[00:35:17] Es ist natürlich auch...
+
+[00:35:19] Ich spreche immer, ich spreche vielleicht zu häufig in Orte mehr,
+
+[00:35:23] ich spreche vielleicht zu häufig in Orte mit Missman,
+
+[00:35:26] ist auch eine dieser Phoenix-Disziplinen,
+
+[00:35:29] offene Fragen in den Raum zu geben,
+
+[00:35:33] weil man ja überhaupt keine Ahnung hat, was eigentlich so bekommt.
+
+[00:35:37] Also je besser man die Gruppe kennt, desto besser kann man das machen.
+
+[00:35:42] Würde ich tatsächlich extremst vorsichtig sein, wenn ich nicht weiß, wie die Gruppeninteraktion ausgeht.
+
+[00:35:48] Also weil da ist es, das haben Sie beide sehr clever gemacht,
+
+[00:35:51] im Grunde geschlossene Aufgabenpakete, die nicht irgendwo hinschweifen können.
+
+[00:35:57] Es ist so ein bewerte das in diesen Kategorien.
+
+[00:36:01] Da ist ein Käfig drum gebaut, der das relativ, ich weiß wahrscheinlich nicht absichtlich,
+
+[00:36:05] aber da ist so ein Käfig drum gebaut, der das dann, der das Ganze einfängt,
+
+[00:36:10] wenn es irgendwie doch in irgendeine Richtung geht.
+
+[00:36:13] Und bei so einer freien Frage, also da habe ich,
+
+[00:36:15] ich wollte gerade sagen, da habe ich schon Pferdekotzen gesehen, ganz so schlimm ist es nicht,
+
+[00:36:18] aber da habe ich schon wirklich erfahrene Moderatoren,
+
+[00:36:20] gesehen, die am Ende waren.
+
+[00:36:25] Also gerade in Technikergruppen sind solche Fragen manchmal wirklich schwierig,
+
+[00:36:29] weil da kommt das hinter kleinste Dingsbums noch raus und muss dann diskutiert werden und hin und her.
+
+[00:36:34] Ich persönlich bin ich der Meinung, da von Anfang an, wenn man weiß, dass so was kommt,
+
+[00:36:41] von Anfang an ein extrem hartes Timing einfordern, an sich selbst und auch an das, was passiert.
+
+[00:36:48] Also so was mache ich nicht als erstes Spiel.
+
+[00:36:50] So was mache ich als drittes Spiel und habe vorher ganz klar gesagt,
+
+[00:36:53] Leute, ich habe fünf Minuten Zeit und ich breche ab und zwar knallhart.
+
+[00:36:57] Und das halt sehr freundlich, das Ganze umrissen, das Ganze auch irgendwie
+
+[00:37:02] vielleicht mit so eher geframed Aufgaben anfangen und dann kann man irgendwann in so eine Richtung gehen.
+
+[00:37:08] Aber dafür muss die Gruppe halt wissen, was da kommt.
+
+[00:37:11] Aber trotzdem, trotzdem, trotzdem.
+
+[00:37:13] Wir haben ja auch noch zwei, drei Punkte geschrieben.
+
+[00:37:15] Ja, ja, das ist, das braucht ihr euch nicht rechtfertigen, auf gar keinen Fall.
+
+[00:37:18] Für die nächste Woche.
+
+[00:37:20] Wir haben jetzt noch fünf Minuten.
+
+[00:37:22] Ich würde gerne einmal ganz kurz noch darauf eingehen.
+
+[00:37:24] Wir haben fünf Gruppen.
+
+[00:37:26] Wir haben jetzt, ich meine gut, im Schnitt haben wir halt eine Dreiviertelstunde pro Gruppe gebraucht.
+
+[00:37:32] Als ich gesagt habe, Viertelstunde, bin ich per se davon ausgegangen, dass wir auf jeden Fall pro Gruppe eine halbe Stunde brauchen werden.
+
+[00:37:39] Das heißt bei fünf Gruppen relativ lang.
+
+[00:37:42] Ich habe trotzdem den Plan.
+
+[00:37:46] Ich habe trotzdem den Plan, dass wir das nächste Woche unterbringen, aber gesichert.
+
+[00:37:52] Und ich hoffe, heute können Sie nachvollziehen, warum ich das so klar sage.
+
+[00:37:55] Gesichert nicht in eineinhalb Stunden.
+
+[00:37:58] Also ich bitte Sie, dass Sie nächste Woche auf jeden Fall zweieinhalb Stunden plus einplanen, die das Ganze brauchen wird.
+
+[00:38:05] Und es ist für mich völlig okay.
+
+[00:38:07] Und ich gehe davon aus, dass es für Sie auch okay ist.
+
+[00:38:09] Ich habe die Aufgabe, die Freiheit in den Raum gestellt, das vielleicht doch noch eine Gruppe umentscheidet.
+
+[00:38:14] Es macht mir Spaß.
+
+[00:38:15] Es wird halt ein bisschen länger dauern.
+
+[00:38:18] Okay.
+
+[00:38:20] Ansonsten nochmal ganz vielen Dank an Sie beide.
+
+[00:38:23] Ich werde nächste Woche einmal in den Raum pollen.
+
+[00:38:29] Ich werde es aber jetzt auch nochmal rumschicken.
+
+[00:38:32] Es ist ja Semesterende.
+
+[00:38:34] EFASIS Begutachtung.
+
+[00:38:35] Sie kennen das Ganze.
+
+[00:38:37] Das werde ich auf jeden Fall als Link einmal noch verteilen.
+
+[00:38:40] Ich bin mal gespannt, weil das jetzt mal ein vollkommen anderes Format ist, was wir hier eingefahren haben.
+
+[00:38:43] Und ganz vorneweg, bevor das nächste Woche nämlich zu kurz kommt, will ich mich dafür auch nochmal bedanken.
+
+[00:38:50] Ja, Sie sind ein bisschen hier meine Versuchskaninchen.
+
+[00:38:53] Da mache ich auch keinen Hehl draus, dass das für mich auch was vollkommen anderes ist, als das, was ich bisher im Bereich Lehre aufgesetzt habe.
+
+[00:39:03] Ich finde es trotzdem extrem cool, dass da so mitgezogen wird.
+
+[00:39:07] Weil Sie könnten auch alle einfach sich hinsetzen und sagen, es wird kein Bock.
+
+[00:39:11] Ich glaube, dass das für so ein Fach ein sehr wichtiger Ansatz ist und ein sehr richtiger Ansatz ist, sich auch auszuprobieren.
+
+[00:39:18] Weil das da vorne stehen, genau das, was Sie eben beschrieben, man steht da, man hat sich überlegt, was man machen will und es verdammt nochmal klappt nicht so.
+
+[00:39:26] Das ist der Klassiker im Projektmanagement.
+
+[00:39:29] So, schönes Wochenende.
+
+[00:39:31] Wir sehen uns nächste Woche.
+
+[00:39:41] Ich habe es ja geschrieben, wir sind in S014.
+
+[00:39:46] Hatte ich das schon geschrieben?
+
+[00:39:48] Okay, schreibe ich nochmal rum.
+
+[00:39:50] Wir sind in S014, das heißt, wir sind drüben, wir haben einen relativ großen Raum.
+
+[00:39:54] Der hier ist leider besetzt.
+
+[00:39:56] Aber in Interaktionsmöglichkeiten begrenzt.
+
+[00:39:59] Wir haben nur einen Flipchart oder zwei Flipcharts, aber wir können uns natürlich Freitagmittag aus dem anderen S-Rollen mal auf den einen oder anderen Weg bauen.
+
+[00:40:07] Wenn da also Bedarfe sind.
+
+[00:40:09] Ich werde vorher kaum Zeit haben.
+
+[00:40:10] Weil ich vorher noch Vorlesungen habe.
+
+[00:40:12] Naja, meistens dann doch für bevor.
+
+[00:40:14] Wenn Bedarfe da sind, einfach aus den anderen Räumen mit rübernehmen.
+
+[00:40:21] Und ich würde Sie bitten, selber daran zu denken, dass Sie dann auch wieder zurück müssen.
+
+[00:40:26] Okay, danke.
+
+[00:40:27] Ich möchte noch eine kurze Frage machen.
+
+[00:40:30] Ja.
+

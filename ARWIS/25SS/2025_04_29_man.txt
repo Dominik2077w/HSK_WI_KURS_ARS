@@ -1,0 +1,627 @@
+说话人1 00:00:04
+
+Ja, wir hatten im letzten Kapitel das Thema des Lean Production.
+
+In der Schlampenfirma so.
+
+Lin und schlank ist.
+
+Im Deutschen zwiespältig zu verstehen.
+
+Im Grunde ist in den Clean gemeint, dass.
+
+Wir Transparenz.
+
+Prozesse haben.
+
+Die gut funktioniert.
+
+So transparente Prozesse haben wir dann, wenn wir schlank sind.
+
+Und klare Linien haben durch unsere Firma durch über die verschiedenen Abteilungen oder Arbeitsplätze.
+
+Weiter sind Marien.
+
+Dann.
+
+Wenn wir verschwinden, vermeiden.
+
+Zum Verschwinden vermeiden was heißt es im konkreten?
+
+Was ist verschwinden und vermeiden?
+
+Unnötige Wartezeiten zum Beispiel entfernen ja unnötige Wartezeiten, ja.
+
+Was noch aus der Wartezeiten?
+
+说话人2 00:01:36
+
+Zum Beispiel zu meiner Transportwege zwischen den Arbeitsschritten.
+
+说话人1 00:01:40
+
+Zu lange Transportwege oder zu viele Transportwege?
+
+Was haben wir noch?
+
+Sind ja jetzt Beispiele gewesen zum Produktionsbereich. Was haben wir da noch?
+
+说话人2 00:02:06
+
+Nach dieser Strategie, was sind da passieren Fehler von meinem.
+
+说话人1 00:02:09
+
+Ja, vermeiden. Korrekt.
+
+So dass wir unseren Arbeitsplatz gut organisieren.
+
+Viren so wenn man Verschwendung vermeiden wollen Verschwendung beginnt eigentlich mit der These, dass wir grundsätzlich für jede Arbeitsaufgabe, für jeden Arbeitsablauf Zeit benötigen, wenn.
+
+Wir Zeit benötigen am Arbeitsplatz, wenn wir in der Produktion sind, dann bedeutet das nichts anderes wie das Meer uns anschauen müssen, welche Wege wir an dem Arbeitsplatz.
+
+Zurücklegen.
+
+Desto geringer die Weglängen, desto höher die Effektivität, weil wir dann nicht die Zeit verbrauchen, um bestimmte Strecken zurückzulegen pro Tag, sondern einfach produktiv.
+
+Arbeiten können, wenn.
+
+Wir jetzt das Thema aufs Büro übertragen? Im Moment ist ja der Große.
+
+Oder anders drauf, ja.
+
+Wie soll ich sagen?
+
+Ineffektivität in den Produktions oder Produktion.
+
+Räumen ist eigentlich seit Jahren bekannt, wird seit Jahren gekämpft so.
+
+In den in den Verwaltungsbereichen ist es so, dass viel Luft nach oben ist. Das heißt, man hat die Abläufe in der Verwaltung.
+
+Liste effizient.
+
+Und vielfach doppelte Arbeit.
+
+Noch alles verschwinden muss.
+
+Wenn man derzeit das Programm der Bundesregierung sieht, dann geht es eigentlich im Kern darum, dass man möglichst Abläufe digitalisiert von einer Station zur anderen.
+
+So, ich kann das auch negativ betrachten.
+
+Ich muss alles.
+
+Wir machen früher die.
+
+Rechnung ins Haus gekommen.
+
+So, heute muss ich die Rechnungen in ein Postfach von den Lieferanten abholen. Ich.
+
+Muss mich einloggen, damit ich an die Rechnung komme und so weiter das heißt nicht.
+
+Es ist nicht unbedingt so, dass die Prozesse schneller werden, einfacher werden, wo man sie falsch gestaltet.
+
+So, es gibt aber viele Möglichkeiten, wie man das effizient lösen kann. Nur haben wir die im Verwaltungsbereichen in der ganzen Administration.
+
+Schon gut genutzt.
+
+Warum ist das so?
+
+Ganz einfach in der Verwaltung sitzen meistens Angestellte.
+
+In der Produktion sitzen die Blueworker, die Blueworker werden dafür bezahlt, dass sie direkt die Arbeit am Produkt erledigen.
+
+Die Weibchen im Büro.
+
+Sind in Geräte passen so.
+
+Indirekte Kosten werden verrechnet über die Kostenstelle so.
+
+Einen, wenn ich sage, es ist zu wenig effizient.
+
+Ein Beispiel dazu ist im Moment, wenn man China betrachten, Kuka der Cuca CEO.
+
+Mit seinen Hut.
+
+Cuca Cuca Robota von Midea.
+
+So, die nimmt einen Hut guca weiß man ja, ist in chinesischer Hand.
+
+So, und wenn man jetzt die Nachrichten zurückverfolgt, was Kuka.
+
+Publiziert hat 2019.
+
+Dann ist es so, dass Medea gesagt hat, wir.
+
+Sie jedes Jahr effizienter werden.
+
+So, sie sind auch nicht jedes Jahr effizienter geworden. So was hat sie.
+
+Was hat sie denn jetzt dem CEO zu tun? Im Prinzip ein CEO Erste.
+
+Jahr ist gut das zweite Jahr hat man vielleicht Geduld, aber im dritten Jahr, wenn sie an der Börse orientiert sind, hat die Eigentümer Gesellschaft.
+
+Das heißt, es kommt auch darauf an, später wo sie mal arbeiten oder aktienorientierten Unternehmen oder in einem Familienunternehmen, je nachdem unterschiedlich wir.
+
+Heisst im Prinzip es kommt aber immer intern darauf an, immer effizienter zu werden.
+
+So, wenn sie die deutsche Autoindustrie anschauen, dann ist es so, dass die sich ausgeübt haben, weil die letzten 10 Jahre.
+
+Weil sie konnten für jeden Preis verkaufen. Jetzt.
+
+Im Moment ist es nicht mehr so, weil der Konsument nicht mehr bereit ist, das zu zahlen. Unter der Technologiewechsel und, und und. Das heißt, es spielen verschiedene guckte eine Rolle, aber im Kern geht es immer nur um das Geld.
+
+So, und wenn es zu wenig Geld überbleiben Überbleibt, dann haben wir es grundsätzlich ein Problem.
+
+So, das heißt, das Lean Production zielt ab darauf, dass wir Transparenz haben, dass wir Kennzahlen haben, dass wir erkennen, wo ist Verschwendung, dass man bewusst einen Arbeitsplatz anschaut und schaut, was macht der Mitarbeiter.
+
+Und ist das, was der Mitarbeiter macht, eine Wertschöpfung?
+
+Das ist die Kern These.
+
+In unserem heutigen Kapitel geht es um das arbeitssystem, Arbeitsaufgaben und Prozesse.
+
+说话人3 00:08:54
+
+Wieso magst du?
+
+说话人1 00:08:56
+
+Jetzt nicht mehr.
+
+Die Prozessorientierte Arbeitsorganisation, die über die letzten Jahre forciert worden ist. So was heißt es prozessorientiert.
+
+Forciert worden.
+
+Im Prinzip ist es so. In der Vergangenheit haben viele Filme.
+
+Verschiedene Komponenten hergestellt Bauteile, Baugruppen und diese Teile Allegra eingelagert. Wenn Sie heute.
+
+Geht es im Kern darum, dass ich möglichst Schritt für Schritt das Produkt fertig stelle, mit einer geringen Wartezeit? So, das heißt?
+
+Die Prozessorientierte Arbeitsorganisation wird beeinflusst durch das Arbeitssystem.
+
+So ein Arbeitssystem kann ein manueller Arbeitsplatz sein, kann einen Arbeitsplatz mit einer Maschine sein, kann ein Arbeitsplatz sein mit einem PC oder CAD System, je nachdem welche Systeme wir haben.
+
+An diesem Arbeitssystem haben wir bestimmte Aufgaben zu erfüllen. Die Aufgabe ist definiert.
+
+In dem ganzen System und.
+
+Der Kern, das, was der Mitarbeiter eigentlich machen soll.
+
+Und als drittes haben wir einen Ablauf, so einen Ablauf an eigenen Arbeitsplatz. Wir haben den Ablauf über mehrere Arbeitsplätze, über verschiedene Abteilungen und.
+
+Über Unternehmen oder mehrere Unternehmen, je nachdem, wie wir das ganze betrachten.
+
+Das heißt spielt.
+
+Eine Rolle, welche Systeme wir haben, welche Aufgaben und welche Abläufe das.
+
+Ganze wird beeinflusst von der Technik.
+
+Die uns zur Verfügung steht.
+
+So einen Büroarbeitsplatz, wenn ich einen langsamen Computer habe, dann ist es.
+
+Technik.
+
+So, die Technik ist auch Maschine.
+
+In der Produktion, da ist die Frage, welche Genauigkeit hat diese Maschine, welche Bauteile kann ich in der Maschine bearbeiten.
+
+Mit welcher Genauigkeit das heißt?
+
+Die Technik beeinflusst die Arbeit. Das.
+
+Weiteren sie als Person das.
+
+Heißt, es kommt darauf an, kann ich diese Arbeitsplätze mit.
+
+Den Personen besetzen, die die entsprechende Qualifikation haben und.
+
+说话人3 00:12:12
+
+Das ist das zweite.
+
+说话人1 00:12:17
+
+Und.
+
+Sind die weichen Faktoren? Wie motiviert sind die Mitarbeiter?
+
+Und das Dritte ist dann die Organisation. Wie ist
+
+die Arbeit in dem Unternehmen organisiert? Wie ist der Ablauf organisiert so?
+
+Die Organisation, die wird in vielen Unternehmen beeinflusst durch die EDV.
+
+Das heißt?
+
+Viele Unternehmen nutzen das SAP System das SAP System ist gegliedert im Vertrieb Produkt.
+
+Ionsplanung, Materialwirtschaft, Lagermanagement und so weiter Instandhaltung je nachdem welches Unternehmen welche.
+
+Mobilität entsteht, das heißt?
+
+Durch diese 3 Faktoren wird die Arbeit maßgeblich beeinflusst und die Frage ist immer, was stelle ich?
+
+Das Unternehmen, den Mitarbeiter hier zur Verfügung.
+
+Es geht auch darum, welche Mitarbeiter ständig zur Verfügung sind.
+
+So, das heißt, wir können die Arbeitssysteme in einer bestimmten Abfolge eigentlich gliedern.
+
+In jedes Arbeitssystem wird irgendwas rein verlässt.
+
+Das Arbeitssystem geht zum nächsten, bis das Produkt fertig ist.
+
+Manche Dinge führen zu einer Rückkoppelung.
+
+Zum Beispiel, wenn ich jetzt hier das nehme ich, explodiere Folie.
+
+Dann sind die Folien irgendwann fertig und werden dann anschließend bedruckt.
+
+Und dann in den dritten Step in dem Produkt verbaut. Gleichzeitig aber geht es abfallmaterial.
+
+Wieder zurück.
+
+In noch n vorgehendes System und wird wieder aufbereitet. Das heißt?
+
+In jedem Unternehmen gibt es andere Prozesse, andere Abläufe, andere Beziehungen. Ich muss.
+
+Das im Prinzip verstehen in einem Unternehmen. Wie läuft es durch das Unternehmen durch und wer beeinflusst es in diese Ablauf?
+
+Wenn man einen System anschauen, dann ist es über diese refa arbeitssystem. Das ist das gängige aus der Arbeitswissenschaft, das System, das ein Arbeitsplatz mehr oder weniger beschreibt, so.
+
+Das Arbeitsplatz.
+
+Ist grundsätzlich definiert über 7 Systemelemente. Ich gebe in das System was reitet, das ist die Einlage wenn wir das bearbeitet haben haben wir eine Ausgabe, ein fertiges Produkt.
+
+Wir brauchen in der Regel in dem System einen Mensch.
+
+Wir brauchen in der Regel die Maschine oder der EDV.
+
+Und.
+
+Im Arbeitssystem ist in der Arbeitsaufgabe dann beschrieben, was ist der Arbeitsablauf, was sind die Kernelemente an diesem Arbeitsplatz.
+
+Das ganze System wird beeinflusst durch die Arbeitsumgebung. Was?
+
+Ich für Rahmenbedingungen habe so.
+
+Wenn wir es konkreter sehen, haben wir hier so einen CNC Bearbeitungsmaschine, dann geben wir rein zum Beispiel Guss rohteile.
+
+Wir geben Informationen rein auftragspapiere.
+
+Softwareprogramme, Zeichnungen und so weiter das Weiteren brauchen wir.
+
+Meistens Strom und Druckluft. Das ist.
+
+Das alles, was in ein System einfließt, wenn man heute.
+
+Im Moment schauen in der Industrie, dann müsste jedes zweite Thema.
+
+Nachhaltigkeit so bedeutet.
+
+Was bedeutet hier nachhaltig? Im Prinzip nichts anderes, dass ich genau weiß, was geht in dem System rein.
+
+Und was kommt am Ende raus und welche Ressourcen habe ich in dem System verkauft?
+
+Das heißt, Früher hat man einfach, wie sagt man, Strom im Überfluss gehabt. Strom spielte keine Rolle grundsätzlich, die Energie spielte keine Rolle.
+
+Weil sie war zu einem niedrigen Preis verfügbar.
+
+Heute ist in der Industrie.
+
+Energie ein Kernthema, das heißt, ich muss schauen, wo kann ich überall Energie einsparen und dazu muss ich das System genau kennen.
+
+Ich weiß in meiner Firma von jeder Maschine, was wir an Energie verbrauchen.
+
+So, und ich steuere auch je nach Stromtarif, dass ich möglichst niedrigen Stromkosten habe, bei der Strom inzwischen Dollars das Gleiche ist bei den Rohstoffen, das heißt, ich schaue, wie hier Strom günstig nutzen können, wie wir Rohstoff nutzen können und wie wir Abfall wieder aufbereiten können, so dass ich.
+
+Möglichst effizient Produkte herstellen kann.
+
+Das ist eigentlich eine sinnvolle Zweck. Das heißt, wir haben eine Eingabe.
+
+Das System wird beeinflusst.
+
+Von Gruppenarbeit, mehr Maschinenbedienung kommen wir noch drauf und Klima, kühlschmierstoff, Lärm und alles was drumherum ist.
+
+Die meisten.
+
+Mitarbeiter, die sich einen Job suchen, suchen.
+
+Sich einen Job, der möglichst wenig Umgebungseinflüsse hat, die für ihn nachteilig sind.
+
+So heißt nichts anderes, wie der sich in der Regel in den Bürojob sucht.
+
+Das Büro ist.
+
+Angenehm gestaltet, wenn sie heute schauen, dass.
+
+Büroräume gestalten.
+
+Werden die Wohnzimmer, dann sind wir schon in einer anderen Dimension. Das heißt?
+
+In der Produktion.
+
+Haben sie Lärm? Sie haben.
+
+Umgebungseinflüsse.
+
+Sobald sie irgendwas in den Metallbereich Zersparen oder begleichen.
+
+Aufgabe der Erarbeitungsmaschine rüsten und bedienen, das heißt?
+
+Er hat diese Rohteile, er hat Zeichnungen, sondern er muss diese Maschine rüsten, das ist seine Arbeitsaufgabe.
+
+So ist diese höchsten Wertschöpfung.
+
+说话人2 00:20:31
+
+Nee, eigentlich muss die Spinne entstanden. Eigentlich.
+
+说话人1 00:20:34
+
+Nur das Bearbeiten von den Teilen ist Wertschätzung. Aber wenn ihr die Maschine nicht wusstet, können wir nicht bearbeiten, so das heißt.
+
+Wenn man es auf die Verschwendung.
+
+Ansprechen, dann ist es so. Es ist.
+
+Keine offensichtliche Verschwendung, sondern eine Versenkung, die Halt.
+
+Unsere Aufgabe ist eigentlich, in der Arbeitswissenschaft, in der Arbeitsplanung, in der Produktionssteuerung.
+
+Dass wir konkret wissen, wie lange dauern diese Schritte am Ende noch schlicht oder gegen Arbeitsplatz.
+
+Wie lange dauert es bei mir in der Arbeitsvorbereitung bis an Saison?
+
+Herstellen wollen. Wie lange dauert es, Material stammanlegung, Stücklisten anlegen und Arbeitskarten anlegen alle.
+
+Diese Zeiten sind Nebenzeiten und ich muss schauen, wie ich diese Nebenzeiten möglichst bin.
+
+Aber am Ende?
+
+Will ich wissen.
+
+Wie lange es dauert?
+
+Viele Unternehmer wissen nicht, wieviel Zeit in den administrativen Bereichen verschwindet.
+
+Weil sie nicht wissen, wie lange das Ganze dauert.
+
+Kann ich das denn auskriegen?
+
+Wenn ich ihn frage, wie lange braucht er für Ihren Arbeitsplatz für den Gußteil Stückliste anlegen? Habt ihr eine konkrete Antwort.
+
+Und was ist jetzt abhängig?
+
+说话人2 00:22:46
+
+Und erfahren.
+
+说话人1 00:22:48
+
+Von einem Farm zum einen ja, das andere ist, hatte er ähnliche Teile schon im System, kann er bestimmte Dinge kopieren, macht er dieses Produkt grundsätzlich neu und welchen Umfang muss er in der Stückliste oder im Arbeitsplatz angehen, so.
+
+Aber im Grunde ist es so, dass die meisten Unternehmen.
+
+Keine neuen Produkte herstellen.
+
+Sondern.
+
+In der Regel gibt es Produktfamilien und in den meisten Fällen gibt es Anklang. Abwandlungen zu dem bestehenden System. Also wenn sie jetzt den Apple Konzern nehmen und per iphone, dann gibt es zwar verschiedene Ausführungen, so aber die Kernkomponenten, die in einem iphone drin sind, die sind durch alle Produkte.
+
+Ähnlich so.
+
+Da ist es meistens noch abgestritt als Software gründen.
+
+Dann vielleicht ne andere Kamera drin. So, damit ist schon viel definiert.
+
+Und vielleicht das Gehäuse. Das ist.
+
+Bei der Bronze hätte ja hochwertiger, bei dem anderen ist es Plastik oder wie auch immer so das heißt.
+
+Im Prinzip haben wir viele Möglichkeiten, diese Abläufe.
+
+Zu durchleuchten.
+
+Die Frage ist immer.
+
+Können wir wissen, was wir an administrativen Arbeit machen, auf das Produkt auch aufrecht? Und wie können wir es aufrechnen?
+
+Beim Arbeitsplaner oder beim Einkäufer.
+
+Der Einkäufer, der kauft Materialien für die ganze Fertigung. Wie wollen Sie das auf die.
+
+Bestimmte Produktlinien zuordnen, das ist die Herausforderung.
+
+So, am Ende kommt irgendwann die Ausgabe fertig bearbeitete Teile. Sie haben den Auftrag rückgemeldet, Sie haben das Programm Ausgeloggt und dann die Maschine wieder in den Ursprungszustand versetzt, in dem der sich dann den nächsten Auftrag bearbeiten kann. Das sind eigentlich die grundsätzlichen Schritte, das heißt?
+
+Ich habe einmal Lusttätigkeiten, die sind einmalig für diesen.
+
+Egal, ob wir ein Stück machen oder 100 Kosten die Kosten.
+
+Sind natürlich bei 100 Stück fürs Rüsten durch die 100 zuteil.
+
+So, und wenn man sagt, Wir bevorzugen immer Losgröße 1, dann ist die Frage, was ist los Größe 1 und wie kann ich das wirklich in Losgröße 1 realisieren.
+
+Beispiel bei den Folien bedrucken.
+
+Folien bedrucken kann ich in der Losgröße 1, in dem das ich und was weiß ich zum Beispiel ein Snowboard mit einer bestimmten Grafik betrug so.
+
+Wie in einer Offset Maschine so, und jede Grafik ist anders.
+
+So ist es aber los. Größe 1 in der Regel hinein, weil in die Maschine kommt eine 100 Meter Rolle.
+
+Und aus dieser 100 Meter Rolle, was weiß ich 50 Grad mit dem Geruch.
+
+So daher Losgröße 1 zu definieren.
+
+Das ist eine Herausforderung.
+
+Da muss es wirklich fließen.
+
+So Garten für das Arbeitssystem.
+
+Die wir dafür brauchen, ist konkret.
+
+Bei der Eingabe. Ich habe.
+
+Auftragsdaten, das sind Termine.
+
+Die wir einhalten müssen. Wir haben.
+
+Materialien, die wir prüfen müssen, ob diese Materialien den Anforderungen entsprechen.
+
+Der Mensch, die in dem Arbeitsplatz arbeitet, der muss entlohnt werden.
+
+Nehmen Sie wissen so, wenn es den die einfache Variante wäre der Arbeitgeber.
+
+Dann sage ich okay ich habe meinen Arbeitsplatz, es ist die Scheinwerfermontage für ein bestimmtes Auto.
+
+Und das muss eine Person ausführen.
+
+Der Unternehmer sagt, Ich Kriege soundso viel Geld für den Scheinwerfer.
+
+Und ob du Doktor oder Professor bist oder nichts gelernt hast, ist mir egal.
+
+Mach diesen Anruf an.
+
+Das heisst, im Prinzip geht es bei den Menschen darum.
+
+Dass ich ihn in der richtigen Art und Weise Entlohne in.
+
+Prinzip bei.
+
+Den deutschen Unternehmen gibt es Tarifparteien, die für Dimensionen.
+
+Ein Gerüst geschaffen haben ist der Manteltarifvertrag und die.
+
+Sind dem Manteltarifvertrag.
+
+Bestimmte Berufsgruppen, Berufsbeständigkeiten und die sind unterschiedlich hoch oder niedrig eingestuft. Das heißt?
+
+Am Arbeitsplatz geht es darum, was hat der Mensch für eine Qualifikation und wie ist er im Tarifvertrag zu entlohnen. Es.
+
+Ist entsprechend seinem Alter und seiner Leistung und Qualifikation.
+
+Im Prinzip wollen wir die Gewerkschaftszeichnung betragen betrachten, dann wollen die Gewerkschaften, dass das honoriert wird, dass sie an Hochschule studieren und.
+
+Dementsprechend von automatisch höher eingestuft wird.
+
+So, da ist die Frage, wie wir sie in der Zukunft aussieht und die Unternehmen das so weiter betreiben. Ich weiß nicht.
+
+Im Prinzip können Sie.
+
+Immer selber überlegen in einem Unternehmen.
+
+Wie entlohne ich?
+
+So dass es auch gerecht ist so.
+
+Und die Gerechtigkeit?
+
+Ist für einen, der an der Maschine steht, ein anderes?
+
+Thema wie der Vorstand vom VW.
+
+Der Vorstand von VW findet es gerecht, dass er für seine Verantwortung.
+
+1000000€ pro Monat kriegt oder 2000000.
+
+So gehe an der Maschine steht.
+
+Ob vielleicht dafür kein Verständnis so.
+
+Das ist das, was.
+
+Auch unsere Gesellschaft, sagen wir mal, ein bisschen spaltet.
+
+Dass sich die in der entsprechenden Position setzen. Sie scannen, in die Flaschen schaufeln und die anderen schauen wir so.
+
+Muss schauen, dass es einigermaßen Gleichgewicht bleibt so.
+
+Ich bin gespannt.
+
+Auf die nächsten 10 Jahre. Wie sich das entwickelt, so driften wir noch weiter auseinander oder kommen wir wieder näher zusammen, weil es sonst nicht funktioniert so?
+
+Das Betriebsmittel ist beschrieben in den Maschinen.
+
+Wie in den Maschinenverzeichnis auch in SAP. Sie müssen ja im SAB im Arbeitsplan eingeben, welche Maschine wird dafür benutzt?
+
+So, damit ich das richtige Betriebsmittel nutzen kann, muss ich wissen, Abmessungen, Leistung, welche Genauigkeit ich da fahren kann und so weiter.
+
+Diese Themen habe ich nicht. Wenn ich eine Montage Linie Aufsitze Aufsetze für ein Produkt wo immer das gleiche den ganzen Tag läuft.
+
+Aber im.
+
+Im Kern ist es immer das Gleiche.
+
+Ich muss schauen, so hat dieses Arbeitsmittel diese Kapazität.
+
+Die ich brauche im.
+
+Prinzip in dem Arbeitssystem.
+
+Kann ich drauf schauen.
+
+Wenn ich Mensch und Betriebsmittel hab.
+
+Ist der Mensch während seiner Arbeitszeit von 480 Minuten?
+
+Ununterbrochen.
+
+Tätig.
+
+Oder schaut der Mensch 360 Minuten zu? Wie?
+
+Die Maschine 480 Minuten Wertschöpfung tätig ist.
+
+Und kann ich dann sagen, wenn ihr 360 Minuten zuschaut, könnt ihr.
+
+Mir auch 2 oder 3 Maschinen geben, dann ist die Maschine immer ausgelastet und der Mensch auch.
+
+Sie haben alle Möglichkeiten.
+
+So, das heißt dieses.
+
+Thema.
+
+Spielt immer eine Rolle in der Kalkulation oder der plant.
+
+In der Zeit müssen die Unternehmen glaub ich.
+
+Mehr denn je. Genauer.
+
+Arbeitssysteme, Makro Mikro.
+
+Im Prinzip Makro ist immer das, was über ein ganzes Unternehmen passiert.
+
+So, das heißt, das kann das Unternehmen aus mehreren Standorten bestehen, aus nur einem Standort. Das.
+
+Betrachten mehr als Makel.
+
+Das heißt, ich habe zahlreiche Elemente.
+
+Maschinen, Abteilungen. Ich habe vielfältige Beziehungen.
+
+Das heißt, der Arbeitsablauf nicht.
+
+In einer Arbeitsfolge, sondern die.
+
+Den Weg um den Weg und unterschiedliche Wege, die für das Produkt erforderlich sind.
+
+Es hat mir räumliche Ausdehnung.
+
+Von Kopf an wie groß die Firma ist.
+
+Migros ist das, was man vorher gehört hat, den Arbeitsplatz.
+
+Und die Beziehungen in den Arbeitsablauf.
+
+Magnum Micro Kits unterschiedliche Anwendungsbereiche Ich kann das Makro betrachten im Entwicklungsbereich und.
+
+Makroentwicklungsbereich nehmen wir den VW Konzern.
+
+Die verschiedenen Marken hat verschiedene Werke, ve
