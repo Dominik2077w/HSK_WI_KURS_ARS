@@ -1,0 +1,1898 @@
+说话人1 00:00:00
+Also nochmals herzlich willkommen zur.
+Vorlesung, Investition und Finanzierung hab ich hier 24 oder 4.
+说话人2 00:00:07
+Semester das sind.
+说话人1 00:00:11
+Meine lehrplanmäßigen vierten.
+Erst das Vierte sind.
+Aber es gibt ja auch andere Semester, die teilnehmen.
+Mein Name ist Bernhard Reich, ich werde ihr Professor für diese Veranstaltung sein. Wir machen das einen Teil.
+Theorie einen Teil.
+Übung, wobei in der Übung in diesem Fach sehr stark einfach auch noch mal ne Vertiefung dessen stattfindet, was wir in der Vorlesung gemacht haben.
+Grundsätzlich wünsche ich mir von Ihnen, dass Sie fragen, fragen, Fragen und ich lass mich auch gern auf Diskussionen ein.
+Weil ich fest davon überzeugt bin, dass dass das die Möglichkeit ist, wirklich zu lernen in der Vorlesung, dass man sich auf Diskussionen einlässt und.
+Das Schöne oder grässliche, die haben sich die Möglichkeit zu diskutieren, weil die.
+Die also was, was eben auf das Thema Finanzierung, Investition, Auswirkungen hat. Es passiert sehr viel zur Zeit.
+Was überdacht werden muss von Unternehmen sehr gut.
+Diskutiert.
+Und damit komme ich auch schon. Gibt es zunächst noch Fragen zu der.
+Zu einer Veranstaltung ganz allgemein zu dem Zugriff noch Moodle komme ich nennen.
+Wir sehen uns dann auf nächste Woche.
+In t 129 130 das ist einfach einmal ums Eck rum und dann auf der linken Seite, also Richtung Richtung Rasen.
+Ja, und der letzte Vorlesungssaal nennt sich.
+Auf der linken Seite, wenn sie rechtswidrig sein.
+Das sind die Themen.
+Indem ich Sie.
+Beschäftigen wir, werden wir uns beschäftigen werden?
+Zunächst also eigentlich dieses ne große grobe Zweiteilung.
+Also Einführung und Grundlagen. Es wird uns erst auch mal ne Weile beschäftigen.
+Und dann haben wir den Teil Investition investitionsrechnung.
+Das ist eigentlich finanzmathematik. Wer hat in der Schule schon mal finanzmathematik?
+Also darum kümmern wir uns. Also es ist in ja im groben und Ganzen, die Einschätzung ist eine Investition sinnvoll, ja oder nein, darum geht es.
+Sie sehen hier schon eine Zweiteilung, die ist wichtig. Wir haben auf der einen Teile die statische Investitionsrechnung.
+Das heißt, wir rechnen mit Durchschnittswerten und uns ist völlig egal, wann etwas passiert oder stattfindet. Das ist Merkmal der staatlichen Investitionsrechnung.
+Wir kalkulieren mit einem Durchschnittsjahr. Ne, Wir haben sagen, wir haben 5 Jahre und.
+Wir werden die und die Entwicklung haben. Grob bedeutet es pro Jahr einen Durchschnitt von.
+Und uns ist egal, ob eine Zahlung darum geht, es bei Finanzierung und Investitionen immer wieder Vorsicht, es geht um Zahlungsströme, um Zahlungen.
+Was geht raus, was geht rein? Vorsicht, Das ist nicht gleichzusetzen mit.
+Umsatz und Ertrag.
+Und Aufwand.
+Oder Kosten.
+Es ist, es ist der Abfluss und der Zufluss von monetären Mitteln.
+Und darum geht es.
+Wann es stattfindet, ist bei der staatlichen egal. Aber da liegt ja ein Fehler drin.
+War vor noch 34 Jahren schwer zu vermitteln, heute umso mehr. Warum werden sie gleich noch sehen?
+Staatliche Investitionsrechnung heißt schlicht und einfach jetzt.
+Nämlich mit ein muss ich mit rein, die die Betrachtung wann findet eine Zahlung statt?
+Ist völlig logisch, wenn sie heute stattfindet, ist sie weniger wert, als wenn sie in 5 Jahren stattfinden.
+So und deswegen fangen wir da an mit sogenannten.
+Aufzinsung oder Abzinsung? Jetzt sind wir voll in der Finanzmathematik, also da geht es eben, darum gehe ich, wie bringen wir einen bestimmten Zinssatz mit ins Spiel und warum.
+Das versuche ich Ihnen alles näher zu bringen. Wenn wir das verstanden haben, haben wir auch beste Voraussetzungen für alles, was kommt.
+Was wir im Übrigen brauchen?
+Ist sehr wohl.
+Das Grundverständnis, was sie mitnehmen aus Buchführung.
+Und Kostenrechnung.
+Sie erinnern sich. Drogen.
+Also darauf werd ich immer mal wieder anspielen. Ich werd auch immer wieder mal.
+Also mein Credo ist an jeden, der auch im Unternehmen arbeiten will, denken sie in Bilanzen.
+Vielleicht muss er noch nie was zu mir erzählen. Vorher noch.
+Warum in Bilanzen? Weil alles, was Sie tun.
+Egal, ob sie in der Entwicklung sind, im Einkauf, im Vertrieb.
+Alles hat irgendwann irgendwie Auswirkungen auf die Bilanz.
+Und die Bilanz, das ist es, worum es geht, also ganz am Ende wollen sie natürlich n Gewinn erwirtschaften, das ist das, was sie insbesondere bei Buchführung und bei Kostenrechnung.
+Vermittelt bekommen haben und.
+Das ist ihm auch klar. Klar, dass wir Gewinn machen.
+Jetzt kommt aber noch ne Komponente dazu.
+Die einerseits unabhängig von der Gewinnbetrachtung ist.
+Aber schon auch damit zu tun hat. Aber.
+Das diskutieren wir hoffentlich auch noch. Nämlich.
+Der Cash.
+Cashflow haben Sie bestimmt schon gehört.
+Oder?
+Wie man im Deutschen sagt, diese Cashflow Rechnung heißt schlicht und einfach kapitalflussrechnung.
+Warum ist das so wichtig, dass.
+Zeige ich Ihnen jetzt gleich bei den ersten einleitenden Worten.
+Also das wäre der Teil investitionsrechner.
+Finanzierung auch da geht es um.
+Die monetären Mittel monetärer Mittel, die mir zur Verfügung stehen, ganz grob. Deswegen sage ich auch immer wieder, sie brauchen das, was sie in Hochschulen gemacht haben, dieses Grundverständnis brauchen sie ungerecht.
+Immer und immer wieder. Die Bilanz Wir haben Aktenzeitungen Passivseite bei der Investitionsrechnung, da geht es eigentlich um den Bereich, wo setze ich die Mittel ein und ist es sinnvoll bei der Finanzierung geht es um die Seite, wo kriege ich die Mittel her mit den herkömmlichen.
+Natürlich.
+Im Ballon stehen.
+Also das ist jetzt natürlich immer wieder bewusst machen müssen und jetzt zeigen wir dann halt Tiefe ein in die verschiedenen Bereiche, wo und wie in der Kirche und auf der anderen Seite, wo und wie.
+Bekomme ich das Geld her?
+Ihr Zimmer beim Kapitel 3, das ist das mächtigste Thema dieses Semesters.
+Das Thema, das die Finanzierung, lässt sich grob untergliedern.
+In verschiedene Kategorien, in verschiedenen Kategorien oder Kategorisierungen.
+Wir arbeiten insbesondere mit 2.
+Die wir übereinander legen. Das eine ist die Außenfinanzierung, das ist die Innenfinanzierung, heißt schlicht und einfach kommt das Geld von außen.
+Oder generieren. Das selbst. Kommt es von innen.
+Und dann kann ich aber noch mal unterscheiden, ne, das ist quasi von oben nach unten.
+Und dann kann ich nur mal unterscheiden von links nach rechts ist es eigen oder Fremdfinanzierung.
+Also gehört das Geld anderen oder ist es.
+Vom Eigentümer des Unternehmens Bereitgestelltes Geld.
+Und diese 4 Variationsarten, die spielen wir durch und verschiedene Instrumente, die es dort gibt, um die es zu beachten wird.
+So, und wenn wir das hinter uns haben, dann ist quasi das Semester schon rum.
+Dann werden wir bestimmt die Finanzplanung und Finanzanalyse, dann brauchen wir alles, was wir vorher gemacht haben.
+Weil dann geht es darum, dass wir natürlich, also bei der Finanzierung betrachten wir, was wir ad hoc machen können und wie wir also.
+Langfristig finanzieren können, wie wir kurzfristig finanzieren können et cetera.
+Bei der Finanzanalyse und Finanzplanung, da werden wir uns überlegen, na ja, wie?
+Betrachtet man das, was wir brauchen an Finanzierung und wie kriegt man das in einen Plan rein? Und was muss man dabei beachten?
+Das hat andere Kriterien.
+Als jetzt eine reine.
+Gewinnplanung oder so, um so ne Art G und v Planung auf die auf die Zukunft.
+Wir müssen andere Sachen beachten.
+Ein sehr großer Unterschied zum Beispiel.
+Selbstverständlich kann ich.
+Wenn ich ein langes Projekt mir anschaue.
+Wenn ich jetzt zum Beispiel mit einem Produkt auf der grünen Wiese anfange, dann dann weiß ich von vornherein das ganze Volk zu einem Produktlebenszyklus.
+Und dann habe ich erst mal einen Tal der Tränen und dann geht es rüber und dann, da geht es nach oben und dann geht es wieder runter.
+Heißt, dass ich in dem Bereich sehr wohl bereit bin, auch Verluste zu akzeptieren.
+Also Minus ist möglich.
+Bei der Finanzplanung.
+Wäre das kritisch?
+Ich kann nicht.
+Negativen.
+Cash.
+Als Position in der Bilanz. Wo wäre das überhaupt ne Bilanz? Wo sehe ich denn?
+Cash in der Bilanz.
+Auf der Aktiva Seite und wo?
+Weil.
+说话人3 00:10:00
+Bei Gewinn oder Verlusten, nee, nee, nee, nee, nee, das.
+说话人1 00:10:04
+Gewesen. Sie erinnern sich, wir haben hier Eigenkapital und dann hätten wir hier eine Position davon, das wäre der Gewinn.
+Jetzt.
+Wo steckt der Cash Midlands Aktivseite? Ist schon mal.
+说话人3 00:10:17
+Richtig.
+In der Kasse oder also hier.
+Ne, es gehört schon.
+Umlaufen müssen. Wir haben hier erst 28.
+说话人1 00:10:28
+Die Aktiva, und die haben wir. Umlaufvermögen.
+Und da haben wir krasse Banken. Das ist Cash.
+Es gibt kein Negatives.
+Keine negative Kasse.
+Klar, können wir.
+Wir können Schulden machen, das ja.
+Ist aber was anderes.
+Wo stehen Schulden?
+说话人3 00:10:54
+Verbindlichkeiten oder ja.
+Also hier irgendwo.
+说话人1 00:10:58
+Ne kurzfristige Verbindlichkeiten ganz unten, längerfristige bissel weiter oben.
+Aber da gehen wir nochmal.
+Stärker dort ein, also darum geht es.
+说话人3 00:11:09
+Vor allem darf ihnen nicht.
+说话人1 00:11:11
+Passieren deswegen, das ist das Kapitel 4.
+Es darf nie passieren, dass wir quasi planen, einen Negativbestand der Kasse.
+Was würde das bedeuten? Ein Negativbestand etwas.
+Wenn wir sowas planen, was wäre das?
+Sie verstehen, was ich sage, oder?
+Wenn ich.
+Einen negativbestand, ich sag ausdrücklich, bestand der Kasse, ist klar, was wäre das?
+Würde das bedeuten für das Unternehmen?
+Richtig. Zahlungsunfähigkeit.
+Und damit Insolvenz.
+Also.
+Der Tod des Unternehmens.
+Das ist ein Thema, was typischerweise stark.
+Vernachlässigt wird, oder?
+Nicht berücksichtigt.
+Wird bei der Planung eines neuen Unternehmens und ich hab ne geniale Idee, ich rechne nur im Gewinn und und.
+Und verpasst dabei.
+Gerade in der Hochlaufphase, wo es vielleicht wirklich glänzend läuft.
+Nicht von der Finanzseite so abzusichern, dass meine Kasse immer positiv wird.
+Das kann durchaus heißen, dass ich schlicht und einfach mehr Kredit aufnehmen muss, wo es halt Geld in die Kasse spült.
+Ich gehe in die Schuld, ja, aber das Geld ist da, wenn ich das versäumt habe, entsprechend der Kredite aufzunehmen, oder ich bekomme sie nicht und ich bin aber in der Zahlungsverpflichtung.
+Ich habe jetzt fällige Zahlungsverpflichtungen, kann diese nicht sein.
+Insolvenz.
+OK, wir gehen später noch stärker drauf ein.
+Wiederhole ich noch.
+Circa 145 mal in dieser Veranstaltung.
+Wenn es was gibt, was sie mitnehmen sollen, dann lass es unter anderem diese.
+Jetzt vielleicht kurz zu meiner Ach so halt Show ne, das ist Finanzplanung und Finanzanalyse und am fünften das 5. Kapitel Derivate Wenn wir Spaß haben gehen wir da einfach noch mal drauf ein, diese ja.
+Instrumente, finanzierungsinstrumente, die auf anderen Finanzierungsinstrumenten aufbauen, solche Optionen.
+Das schauen wir uns einfach mal kurz an.
+Hat aber jetzt nicht, ist nicht die tragende Säule dieses.
+Dieses Semester.
+Vielleicht.
+Dass Sie mich noch einordnen können. Also erstens, ich bin eigentlich um Professor zugeordnet, der Fakultät da drüben, der Elektrotechnik.
+Bin aber selber Wirtschaftsingenieur.
+Fachrichtung Maschinenbau.
+Also ich hab in Darmstadt studiert, wenn ich Ihnen das sagte, TU Darmstadt und dort auch promovieren.
+Und war dann lange in der Industrie tätig. 18 Jahre unter anderem stark im Controlling, aber auch sehr stark im Einkauf am Schluss zuständig für.
+Den Einkauf einer gesamten Division eines Konzerns.
+Ja, da wird man auch mit solchen Themen immer wieder konfrontiert.
+Gibt es soweit Fragen?
+Literatur, die ich empfehlen möchte.
+Also sehr stark orientier ich mich an den Bäckern, den kriegen Sie.
+Online auch mein ich.
+Aber dass ich, ich und und was was, was stand?
+Ardwerke sind etwas kleiner gefasst ist der Olfert.
+Das sind solche Standardwerke, die werden sie überall genannt bekommen und peridonssteine. Früher hieß es nur Peridon genau, Ferdinand Steiner, Reziton, Steiner Ratgeber.
+Mit dem hab ich schon studiert. Also Sohn Schmöker geht extremst ins Detail und und und. In meinen Augen wird auch n bisschen zu stark theoretisiert, also wenn sie richtig tief reingehen wollen, vielleicht für irgendwelche arbeiten, Abschlussarbeiten und sowas, dann ist der sicherlich auch ein Buch was man zu Rate ziehen kann.
+Aber.
+Schwere Kost.
+Der mir am liebsten.
+Weil der wirklich ne ne geniale Storyline hat und das liest sich einfach auch gut macht.
+Ich bin schon Spast ist der Bösch.
+Der, der bringt es richtig gut rüber, also wenn sie n bisschen Verständnis stärker bekommen wollen und das wo es meines.
+说话人3 00:15:42
+Erachtens auch.
+说话人1 00:15:44
+Besser artikulierte und nehmen Sie sich den Bösch.
+So, das wäre die Sache, zu der zu der Literatur, die ich grob verwende, natürlich, es gibt.
+Moodle. Da bekommen Sie eigentlich alles, was Sie brauchen als Unterlagen.
+Und der.
+Codewort dafür ist groß.
+GUF.
+Blue.
+2025 WI alles grob minus.
+BMIM da mach ich mit, wie sie sich irgendwann merken würden.
+Das wäre jetzt im groben und ganzen.
+Die.
+Die Grundlage auf, auf der wir jetzt arbeiten werden.
+Kann mal jemand probieren, ob man reinkommt, was auch alles wichtig?
+说话人4 00:16:49
+Ist was in dem Sinn, dann müssten wir auf.
+说话人1 00:16:51
+Das 1. Kapitel schon vorliegen haben.
+Aber das bauen Sie jetzt noch nicht.
+Ich werde im übrigen heute.
+Nicht Vorlesungen, sondern in der Vorlesung weitermachen, damit wir ein bisschen was haben, was wir dann auch besuchen können.
+说话人3 00:17:16
+Alles klar?
+说话人1 00:17:18
+Dann beginnen wir.
+Vorliegenden aktuellen Umsätze.
+Welche meint er überhaupt?
+Haben sie ne Idee?
+Um welche geht es denn eigentlich, wenn die Frage nach Zink aber jetzt sagt sie oder wo liegen die EZB Zinsen derzeit?
+Wo liegt der in Sankt Petersburg?
+Nett nachschauen, das müssen Sie.
+Im Bauch haben.
+Er hat auch nicht genug.
+Hat jemand ne Idee wo der was ist? Die EZB.
+Was ist die EZB?
+Was ist die EZB?
+Und dann eine Vorstellung.
+Ja, europäische Sozialbank ja, wofür ist die da, die.
+说话人5 00:18:20
+Steuert die Kredite an die Banken.
+Richtig Geld.
+Umlauf.
+说话人1 00:18:27
+Genau also das Geld, die Geldmenge und die Kosten fürs Geld werden von der EZB eben über diesen EZB Zinssatz gesteuert.
+Das war noch war nicht immer auf europäischer Ebene.
+Gibt es erst seit.
+Seit wann circa?
+Und was war es vor dir? Woher?
+Ja.
+说话人3 00:18:52
+22 Jahren.
+说话人1 00:18:55
+Ja genau, seit 2002. Was war 2002?
+Vom Euro.
+Richtig, was man jetzt so bei dabei was war die große Angst bei der Einführung des stimmt gar nicht. Ich bin jetzt bei Millennium.
+Stopp, zieh alles zurück.
+Ja genau, also 2002 Einführung.
+Einführung des Euros und damit auch die Übertragung der Verantwortung für den Zinssatz für den gemeinsamen Zinssatz auf die EZB.
+Und da kriegen Sie jetzt auch schon kräftig mit, so die unterschiedlichen Meinungen, die sehr schwierig unter einen Hut zu bekommen sind, weil es da länderspezifische.
+Ja, sagen wir mal.
+Vorlieben oder Ängste gibt.
+Was war der Vorgänger in diesen Sachen für Deutschland?
+Vor vor der EZB gibt es aber immer noch. Im Übrigen.
+Gibt es nach wie vor.
+Die Bundesbank.
+Deutsche Bundesbahn.
+Ja, die war halt vorher für beide.
+Da ging es um die Geldmenge der D Mark, da war die natürlich dafür zuständig.
+Und dass dieses aber, diese diese.
+Verantwortung wurde abgegeben auf die EZB und das Gremium der EZB ist international, also im Sinne also europäischer Staaten. Die sind dort vertreten. Wer ist die Vorsitzende der EZB, oder?
+Für mich stimmt das.
+Vorsitzende EZB.
+Weiß ich jetzt auch nicht, aber.
+说话人5 00:20:38
+Stimmt lecker. Also jetzt bin.
+说话人1 00:20:45
+Ich mir noch nicht mal sicher, Franzose, Französin.
+Also, was ist denn zum Beispiel?
+Geldpolitik.
+Für Deutschland die größte Angst.
+Und woher kommt.
+Also wir haben das sehr unterschiedliche Lager, wenn sie.
+Die deutschen Fragen und die deutschen Finanzwissenschaftler, die eher Ängste, die gehen in Richtung während, wenn sie Italiener fragen, haben ganz andere Ängste. Oder Spanien.
+Was ist die?
+Angst der Deutschen, eher Inflation oder richtig? Ja, worüber könnte es kommen?
+Es wird immer wieder so diskutiert.
+Jetzt müssen wir ein bisschen weit zurück in die Geschichte.
+说话人3 00:21:37
+Sparen also an meinem Sparverhalten der Deutschen unter anderem. Das mag ne Folge sein, aber die sagen.
+说话人1 00:21:40
+Wir mal. Es gibt eine besondere Inflationserfahrung.
+Aachen.
+说话人5 00:21:51
+Ja, schlechte Börsenbrief.
+说话人1 00:21:53
+Welche?
+说话人5 00:21:54
+2009.
+说话人1 00:21:55
+Das liegt, das ist nächste Vergangenheit. Ich mein tatsächlich deutlich weiter zurück. Weimarer Republik, ja, also in den 30er Jahren oder davor.
+Da haben wir eine galoppierende Inflation.
+Das ging so weit, dass sie also da hatten die Geldsuchmaschine angeworfen.
+Und hat halt gemeint, dass man da die.
+Die.
+Finanzknappheit damit in Griff bekommen kann, indem man halt mehr Geld ausgibt.
+Und da hat sich eben gezeigt, was für ein fataler Fehler das ist.
+Da gab es gab es dann also ich.
+Jetzt keine. Keine Daten.
+Überall immer noch so Banknoten über eine Billion reichsmarken.
+Eine billion, weißt du?
+Und damit konnte man sich dann n Bogen kaufen.
+Also sie sehen, das ist ins Absurde gegangen, und das heißt also, jeder, der was gespart hat, der wurde.
+Innerhalb von Stunden war der Verarm.
+Bei dieser Inflationsrate.
+Da, da können Sie zuschauen, wie ihr Geld.
+Der Geldwert verschwindet.
+Der Geldwert oder der die Kaufkraft einer Währung bedeutet wieviel also heute bezogen auf den Euro? Was kriege ich für einen Euro?
+Das ist die Kaufkraft einer Werbung.
+Und die Kaufkraft soll erhalten werden. Was heißt im übrigen Preisstabilität nach heutiger Finanzwissenschaftlicher?
+Meinung.
+Also wollen wir eine Inflation von 0.
+Frage ich Sie.
+Ja, was meinen?
+说话人3 00:23:41
+Nein, aber um für 12%.
+说话人1 00:23:43
+2% genau, warum ist das so? Also jetzt halten wir erstmal fest.
+Tatsächlich, der Zinssatz der EZB EZB Hintergrund, Was habe ich gesagt.
+Ach Mist, ich.
+Jetzt springe ich, aber vielleicht kriegen sie ja was mit trotzdem.
+Wo liegt der Zinssatz der EZB?
+Kommen nämlich durcheinander, dann.
+Genau bei diesen 2 Prozenten.
+Seit wann? Seit Juni?
+Und der wurde nicht mehr verändert seitdem. Wir haben so einen Verlauf.
+Des EZB Zinses. Und das sehen Sie auch, mein großes Malheur.
+Für diese Vorlesung hier.
+Ich hab 2013 begonnen hier als POV.
+Auch mit diesem Fach.
+Und dann schauen Sie sich mal diese Geschichte, dieses Zinshaftes an. Bis 2022.
+Der ging sogar ins Negative.
+Und das soll ich den Leuten beibringen? Es ist wichtig, mit Zinsen zu rechnen, nämlich ne Nullzins rechnen, das war irgendwie schwer nachvollziehbar und auf einmal.
+Was hat da der Auslöser?
+Einer ging es ab, Zweiter. Es war noch nicht mal.
+Oder ganz im Gegenteil, es war nicht die Corona Krise.
+Wie das ausgelöst wird?
+Hier ging es auf einmal ab.
+Da haben wir es halt immer ne extreme Preissteigerung erfahren.
+Und die waren so massiv, insbesondere auf dem Nahrungsmittelbereich, dass dass man gar nicht hinterher kam, nachzusteuern. Über den EZB Zins. Was ist da eigentlich?
+Was ist der Grund, was was, was ist die Mechanik, die man da anstoßen will, was?
+Was war das Ziel?
+Sehen, dass es bis auf 4% Draufging. Ein Eldorado für Sparer, wohl der, der Anleihen gekauft hat. Wenn das 7 Jahre Laufzeit zu der Zeit.
+Was war das Ziel dieses hohen Zinses?
+Sonst n bisschen Volkswirtschaft.
+Haben sie eigentlich VWL? Irgendwie.
+Mhm.
+Klingt bei uns auch.
+Was ist das Ziel?
+Wenn so n Zinssatz draufgesetzt.
+Das muss man ja verstehen, das ist ja nicht Jux und Dollerei, oder weil die einen quälen wollen.
+说话人3 00:26:15
+Um Investitionen zu bremsen, also um.
+Ja.
+说话人1 00:26:22
+Das heißt, die.
+Ich bremse Investitionen und jetzt geht so ne Kette los. Ich bremse Investitionen, das heißt die Nachfrage wird gedämpft.
+Die Nachfrage geht runter, das heißt, das Angebot ist gemessen zur Nachfrage zu groß. Das heißt, der Preis geht zurück oder er geht nicht mehr hoch. Das heißt, das ist das Gegenmittel zur Inflation.
+Verstehen Sie?
+Zinsen rauf.
+Nachfrage runter.
+Angebot muss die Preise reduzieren, damit Dämme ich Dämme. Ich die die die Inflation.
+Was ist die große Angst dabei? Ne, das ist ja ne große einfach, dann machen wir das halt so. Was ist die große Angst dabei.
+说话人3 00:27:02
+Für Wirtschaftskrise.
+说话人1 00:27:04
+Genau also, dass ich auf der anderen Seite natürlich, und das haben wir in Europa da auch gehabt.
+Eine nicht ganz.
+Toll prosperierende Wirtschaft dass ich der den Saft abdrehe komplett.
+Also es ist das ist n bisschen wie zwischen Zünder und Gerüchtes. Also das ist jetzt aus der griechischen Mythologie, man muss sich durch n.
+Und die Schlucht durchfahren bist oder Meerenge durchfahren, wo sie links und rechts zum Drachen haben.
+Aber ganz klar ist und.
+Wir müssen die Inflation bekämpfen, weil wenn wir da die Zügel schleifen lassen, wenn man das zu lange gewartet hätte und es wäre.
+Dann dann hätte es unabsehbare Folgen, mehr 30er Jahre.
+Oder Ende 20er Jahre letztes Jahrhundert.
+Also wir, wir mussten es machen und dann hat man gesehen, OK hat Erfolg und dann wird nachgezogen. Wo liegen wir jetzt in der Inflation?
+说话人3 00:28:16
+Nicht nur bei den 7% während der Corona Pandemie drin.
+Oder?
+说话人1 00:28:22
+Also 7 waren wir nie, hoffe ich.
+Doch es hat mal ganz kurz in die Kleine zu mag, solche Ausschläge im besonderen Bereichen gegeben haben.
+Wo liegen wir heute?
+Wie wird Inflation überhaupt gemacht?
+Ich muss mich vielleicht zunächst mal fragen.
+说话人5 00:28:43
+Ja, so ein Einkaufskorb.
+说话人3 00:28:47
+Warenkorb ja, wo man halt verschiedene Produkte und was weiß ich Ölpreisen so drin hat. Ja und da wird halt geguckt wie.
+说话人1 00:28:56
+Ja, und zwar im Vergleich zum.
+Früher ja.
+Also es ist dann wirklich der Vergleich zum Vorjahresmonat.
+Oder da muss man eben auch aufpassen. Die Inflation werden zum Teil unterschiedlich dargestellt. Ne, es ist die Veränderung gegenüber dem Gesamtvorjahr oder dem Monat des Vorjahres oder so.
+Und sonst ist gegenüber dem Monat des Vorjahres.
+Tatsächlich waren wir schon auf 2%.
+Runter und dann haben wir gesagt, OK, dann sind wir jetzt aber wieder leicht bei 2,4.
+Also.
+Man weiß nicht genau, wo die EZB hinlangt, ob sie also eigentlich haben alle drauf spekuliert, aufgrund der schwächelnden Wirtschaft, dass sie noch weiter runter geht.
+Hat sie aber jetzt schon nicht gemacht. Im Juni jetzt im im letzten Monat nicht gemacht. Sie sehen, wir haben Stillstand in der EZ im EZD Zins Zeit seit Juni.
+Was so nicht erwartet war.
+Wir hatten eigentlich gedacht, es geht noch weiter runter. Für n Sparer ist es natürlich schön, weil was wir die ganze Zeit hatten.
+Zum Beispiel, wenn Sie an Termingeld denken. Tagesgeld sagt Ihnen bloß was.
+Können Sie, wenn Sie Geld übrig haben. Das ist jetzt kein Status, der typisch wäre für den Studierenden.
+Wenn sie Geld übrig haben, können Sie uns das kurzfristig zur Verfügung haben wollen, dann können Sie Tagesgeld anlegen, Tagesgeldkonto und dann kriegen Sie einen bestimmten Zins, der immer noch besser ist, als das einfach platt rumliegen lassen auf dem Girokonto.
+Der war auch mal bei 2 3%.
+Der war aber.
+Zum Schluss.
+In dieser Niedrigphase bei 0, da war nichts mehr.
+Jetzt sind wir bei den meisten Banken bei 0,7%, da war jetzt zeitweise auch mal bei 2% in dieser Hochzinsphase und jetzt sind wir bei den meisten Banken sogar 0,7, manche vielleicht bei einem Prozent.
+Was Euro an.
+Vorsicht.
+Wo liegt denn.
+Ja, ich könnte es natürlich auch anders machen und sagen, ich leg einfach mein Geld an in.
+US Dollar.
+Was muss ich da erwarten?
+Wer macht da den Zins? Wer ist verantwortlich für den Zins?
+Ja, richtig heiß. Irgendwie so.
+Ja, genau die.
+Das Pendant zur EZB.
+Wo liegt da der Zins?
+Derzeit.
+Gut, dann verrate ich Ihnen.
+3,3 bis 3,9% das kommt drauf an, je nach Lauf.
+Das sind Bauzinsen.
+Die Feds da liegen wir bei 4,25% derzeit.
+Also deutlich höher als EZB. Warum?
+Weil die Inflation in den USA wesentlich höher ist.
+Mit der ganzen Zollpolitik weiß man auch nicht, wo es hingeht.
+Bis jetzt ist da die Messe noch nicht gesunken. Wir wissen nicht, also es gibt ja unterschiedliche Reaktionen, das ist jetzt also, das ist n Feldversuch am, also am offenen Herzen quasi, was da gerade stattfindet, es gibt unterschiedliche Mechanismen, die es auslösen könnte, das wäre zum Beispiel das eine, schlicht und einfach.
+Toll, wenn erhoben der Preis geht hoch, man wird einfach das Leben teurer in den USA, dann wäre es ins Knie geschossen.
+Würde bedeuten, die Inflation wird angefacht.
+Könnte aber auch reichen, schlicht und einfach die, die von draußen kommen.
+Müssen sich den Wettbewerb stellen, müssen ihre eigenen Preise senken, um mit weiter mit teilnehmen zu können.
+Würde halt schlicht und einfach bedeuten Verlagerung der Produktion und und.
+Nach USA, das ist das, was gewünscht ist.
+Aber man weiß es nicht.
+Was passiert, das ist ein bisschen gezockt.
+Sozusagen.
+Und es wird wahrscheinlich nur teils teils Entwicklung geben.
+Wir werden es anschauen und mit mit Interesse verfolgen.
+Hat im Übrigen.
+Nicht zu unterschätzen, das wollten für.
+Die deutsche Industrie.
+Jetzt ist man zwar zunächst mal.
+Beruhigt mit diesen 15%, aber es gibt einige Industriebereiche, für die ist das schon.
+Nein, harte Pille.
+Gut.
+Und im übrigen, warum erzähl ich das ganze jetzt? Können Sie sagen, sonst geht es nicht an, ich will, ich will wir.
+Leben und.
+Und ich möchte für ein Unternehmen tätig sein.
+Das entwickelt auch, wie sie mit Einkreisen müssen, bei unternehmerischen Entscheidungen. All das, was wir jetzt gerade diskutieren.
+Ist zum Beispiel die Aufgabe von der Finanzierungsabteilung eines Unternehmens, aber auch von wenn sie n großes Unternehmen n Konzern haben, haben sie oft interne Unternehmensberatung Planung.
+Die müssen sich genau um solche Dinge Gedanken machen. Wo geht es hin?
+Also wo will ich demnächst investieren?
+Ich möchte Erweiterungen machen.
+Grundsätzlich heißt es local for local. Was heißt denn das, was ist das für ein Begriff?
+Können Sie sich vorstellen, was das heißt?
+Ja, früher war ja der Gedanke, Oh, ich produzier hier und ich bring das dann, ich verkauf es in alle Welt.
+Und dann werde ich hier reich.
+Das funktioniert schon lange nicht mehr so. Deswegen heißt der Allgemeine der Strategieansatz von Unternehmen ist grundsätzlich, wenn es irgendwie möglich ist, local for local.
+Das heißt ich? Ich baue Standorte auf.
+In dem Markt, den ich bedienen will und produziere, lokal für den dortigen Markt.
+Das impliziert aber auch, und das macht die Sache extrem kompliziert, ne, ich bin ja heutzutage nicht ein Unternehmen, was 100% eigenfertigung macht.
+Sondern ich brauch Zulieferer.
+Das heißt aber auch, das Macht ja gar keinen Sinn, wenn sich die Produktion dort aufbauen und sage, ich lass trotzdem die Zulieferer aus, wo auch immer aus Europa nicht bedienen. Also ich muss den Zuliefermarkt auch dort aufbauen. Lovel for lovel.
+Das ist.
+Meistens die grundlegende Strategie.
+Also eigentlich wäre es ganz einfach klar, wenn ich ganz tief drin bin im Ostmarkt, wenn ich ganz tief drin bin im im chinesischen Markt, dann möchte ich dort auch Produktionsstätten haben, um schnell reagieren zu können und auf, um auch in diesem Markt tätig sein zu können. Andersrum wird es genauso.
+Das ist grundsätzlich gut.
+Wenn aber die Rahmenbedingungen nicht klar sind.
+Unter denen ich dort investiere, also langfristig. Jetzt sind wir voll im Finanzierungsthema.
+Langfristig mein Kapital binden.
+Und ich weiß heute so, morgen so. Also nichts ist gewiss, außer die Ungewissheit.
+Dann kann ich nicht investieren.
+Dann tu ich mir schwer. Auch das sind Effekte.
+Also wo die Politik politisches Handeln.
+In unternehmerische Entscheidungen reingeht.
+Egal welches Land ich mir anschaue, gilt das.
+Also ich brauch.
+Klare.
+Rahmen. Ich brauche einen klaren Rahmen, der aus meiner Sicht bestand haben wird. Sonst habe ich keine Lust zu investieren.
+Ja, wie gesagt, das wird also, während wir hier diese Vorlesung haben werden bis in den Januar, werden wir da.
+Bestimmt immer mal wieder was diskutieren können. Und ich?
+Auf dass wir.
+Dass wir darüber.
+Diskutieren, weil nur so lernt und ich hoff Ihnen da vermitteln zu können.
+Dass das extreme Auswirkungen hat auf ihre persönliche unternehmerische Entscheidung, egal wo sie sind.
+Auch die Überlegung zum Beispiel, wo ich zukaufe.
+Wir haben jetzt erlebt, in den letzten Jahren, und zwar immer und immer wieder.
+Corona mit den Shutdowns, die es überall gegeben hat die Krise im US Kanal. Was war das?
+说话人3 00:37:41
+Da hat sich das Schiff hat zur Folge.
+说话人1 00:37:42
+Gehabt, dass zig Industrien in Europa lahmgelegt worden sind über.
+Wochen.
+Wir haben, wir haben den Krieg in Europa.
+Mit entsprechenden Ausfällen auch von von also oder der Störung von Lieferketten.
+Wir erleben also jetzt seit 2020 permanent.
+Etwas, was wir vorher nicht kannten.
+Nämlich dass unsere Lieferketten.
+Nicht so stabil sind, wie wir es dachten.
+Nicht so unangreifbar sind die jetzt davon.
+Und das ist die Kehrseite der Globalisierung. Wir verlassen uns auf gut funktionierende Lieferketten.
+Und möchten quasi auch jedes Land für sich, sogenannte Spezialbegriff.
+Arbitrage Effekte realisieren.
+Was ist das zum zwingen?
+Arbitrage ne, ganz grob gesagt, das ist jetzt vielleicht n bisschen zu Generalisierend der regiert.
+Heißt, die Vorzüge eines Landes.
+Für mich nutzen, das geht nicht, das geht nicht nur in eine Richtung.
+Sondern der hat, der hat.
+Bessere Arbeitskosten der andere hat bessere Ausbildungsniveau für N. Bestimmtes für n bestimmten Bereich oder es gibt ne bestimmte Industrie, die irgendwo besonders angesiedelt ist. Die.
+Dort einfach auch besser produzieren kann et cetera.
+Und das versuche ich zu nutzen. Und was ist der Effekt gewesen, warum die Globalisierung dermaßen.
+Fahrt aufgenommen hat über die letzten 20 Jahre.
+Aber jetzt gerade spricht man also globalisations sie kennen die, das wird ja heftig diskutiert gerade.
+Was wir gerade leben, wir haben noch keine Deklobalisierung im übrigen, es wird ja oft diskutiert deklarisierung, wenn sie die Zahlen anschauen, ist derzeit nicht der Fall, aber wir haben sehr wohl eine Globalisation, sagt der zum Teil.
+Das heißt also, eine starke Verlangsamung dieser.
+Globalisierung?
+Also diese Vernetzung der wahren Ströme über die Länder hinweg. Da haben wir das.
+Dafür gibt es auch gute Kennzahlen.
+Können wir auch gerne mal drauf einsteigen, aber führt nicht weg.
+Tja.
+Etwas verwunderliches hier ne EZB Zins bei 2%, warum haben wir dann Bauzinsen wie bei 3,3 bis 3,9% liegen?
+Also sprich, Sie wollen ein Haus bauen.
+Kaufen. Grund.
+Und wollen darauf ein Haus bauen, mit dem.
+说话人3 00:40:09
+Wir mit dem Kredit bei der EZB auch, sondern weil.
+说话人1 00:40:12
+Ja.
+说话人3 00:40:13
+Sparkasse.
+Und.
+Deswegen.
+Irgendwann sie ihr Geld dann wieder von hinten.
+说话人1 00:40:18
+Richtig, ja.
+说话人3 00:40:20
+Und die wollen ja auch wieder was verdienen. Und was spielt?
+说话人1 00:40:22
+Da noch rein.
+Na ja, jetzt stellen Sie sich mal vor, die die Deutsche Bank nimmt Kredit auf bei der EZB.
+Versus Sie nehmen jetzt auch bei der Deutschen Bank.
+Ich spreche jetzt nicht auf die Marktmacht an, aber auf etwas an.
+Wie? Wie?
+说话人3 00:40:49
+Gutes gedeckt dass also die.
+说话人1 00:40:52
+Man nennt es die.
+Die.
+Racing, oder? Ja, also das.
+Das Rating.
+Stimmt.
+Beruht auf zum großen Teil auf der Bonität.
+Rating. Aber sie haben völlig recht, das.
+Auf die der der einzelne Abnehmer oder der Einzelne.
+Da gibt es sogar n Pauschalwert, wenn sie als Privatier zur Bank gehen, dann werden sie mit einem bestimmten Risikofaktor versehen, aber es wird durchaus abgefragt. Was sind Sie denn bereit oder was sind Sie denn fähig, monatlich zu zahlen und da geht es auch wieder um Zahlungsstoffe.
+Aber grundsätzlich ist es so, dass die Sicherheit des jeweiligen Privatiers bei weitem nicht das ist, was die Deutsche Bank.
+Deutschbanken übrigen ist nicht die Deutsche Zentralbank.
+Sonst geht sie nicht aus. Genau.
+In Deutschland ist nichts stimmt. Normale Geschäftsbanken, eine Commerzbank, die eine in die eine DKB, ja, DKB et cetera ist ja eine ganz normale Geschäftsbank.
+Also es wird mit eingepreist, dass das Risiko der Kreditvergabe die Höhe ist. Und dann haben wir noch n Thema, nämlich die unterschiedlichen.
+Sein und grundsätzlich gilt auch das können wir uns gleich mal merken, ist jetzt n Thema der Finanzierung später.
+Grundsätzlich gilt.
+Je länger.
+Ein Kredit läuft, je länger eine Zahlungsverpflichtung läuft oder eine Förderung gegenüber einem anderen, desto höher das Risiko.
+Weil ich immer weniger absehen kann.
+Wird er in der Zukunft noch zahlungsfähig sein?
+Gehen, wenn Sie sich solche Linien anschauen.
+Zinsen.
+Nach Laufzeiten, wenn sie grundsätzlich sehen, dass die ansteigen.
+Je länger der Kredit, desto.
+说话人3 00:42:41
+Ja, das ist ja nicht schlau, wenn man so einen Kredit nimmt gegen Ende so noch einen Kredit aufzunehmen und das dann zu begleichen und.
+说话人1 00:42:48
+Daraus hat man neuen Kredit wieder. Ja, das das ist dieses Thema zehnjahreskredit oder 15 Jahre und ich muss nach.
+10 Jahren den Kredit ablösen?
+Was ist denn die Gefahr bei so einer Geschichte? Gut, dass sie es anspricht.
+Ist jetzt nicht das Thema, was ich gerade gesagt hab. Ja oder angesprochen hab. Die langlaufenden heißt schlicht und einfach ich gebe dir 15 Jahre Zeit.
+Abzustottern.
+Ich kann dich jetzt noch einschätzen, aber ich weiß nicht, wo wir in 567 Jahren stehen. Also deswegen wird die Ungewissheit.
+Wird immer größer für den Kreditgeber.
+Und damit, wenn dies diese Ungewissheit gleich der.
+Und warum? Weil, wenn sie im Übrigen das Amate, wenn sie nur einen Kreditnehmer hätten.
+Dann wird ihnen der höhere Zins gar nichts bringen. Ne, weil wenn Ausfall der Ausfall fertig.
+Diese Zinsthematik von Geldhäusern macht nur Sinn, was in Kohorten denkt. An den großen Gruppen.
+Also Sie haben.
+Das Rating angesprochen ne, wenn ich rate.
+Aber ne Gruppe, die ist super gut geratetet.
+Eine, die ist weniger gut ein ist schlecht und eine ist ganz schlecht.
+Und denen weiß ich jeweils einen Zinssatz zu. Die ganz schlechten Themen, den hohen Zins mit supergut und einem kleineren Zins.
+Warum? Weil innerhalb dieser Kohorte gleicht sich das auch nicht, alle fallen aus.
+Aber sie zahlen quasi mit dem Ausfall des einen.
+Und hier sind es halt mehr die Auswahlen. Hier sind es wenige, die ausfallen.
+Jetzt zu ihrem Thema.
+Ja, wenn ich jetzt ein Hauskauf, dann weiß ich, Mhm, das Krieg ich vielleicht, wenn es gut läuft in 22 Jahren zurückbezahlt alles, aber ich krieg keinen Kredit auf 22 Jahre also und weil der n bisschen günstiger ist, nehm ich halt den für 10 Jahre. Was ist die große Gefahr?
+说话人6 00:44:36
+Oder ja oder ja ne riesig.
+说话人1 00:44:43
+Richtig, die Umschuldung.
+Also wenn ich dann in 10 Jahren so wie Sie sagten, den Kredit ablösen muss.
+Da gerade kräftig ins Schwitzen, wenn ich ihn genau so ne Phase reinlaufe und das da hat es manche eigentlich eiskalt und überleben sie mal. Das ist ne Phase von 2 Jahren.
+Wenn sie aber da den Kredit ablösen müssen.
+Dann sind sie in der Mops.
+Wenn sie hier quasi auf diesem Niveau, haben Sie ihre.
+Hat sie die ursprünglich geplant oder zunehmend Gebet eingegangen und vielleicht auch Kante gelegt haben, also.
+Knapp auf an Ihre, an ihren Verhältnissen da.
+Das ganze ausgerichtet und dann kommt so ne hochzins Phase und sie müssen innerhalb dieser Hochzinsphase umschulden.
+Neuen Kredit aufnehmen.
+Was bedeutet der Großteil ihrer Zahlungen, die sie leisten? Der geht in die Verzinsung.
+Zinslasten nicht in die Tilgung.
+Ich denke, dass das in der Phase da ging im Übrigen die Baubranche in die Klinik. Das haben Sie vielleicht auch mitgekriegt.
+Also hier 2024, da ging es im Baubereich so bergab, weil keiner mehr Lust hatte da n Kredit aufzunehmen in der Zeit.
+Allerdings.
+Also ich Student war.
+Da hatten wir ganz andere Zinsen, ne, da hatten wir 7 8% gehabt.
+Also und das, was wir da erlebt haben, die ganze Zeit, das ist ungewöhnlich, das ist nicht normal.
+Dies das hab ich vorher, hat es nie gegeben.
+Ist einiges seltsames Ding gewesen. Wir haben.
+Eine eine ewig lange Konjunktur gehabt mit einem.
+Extrem niedrigen Zins.
+Also das gilt explizit für Deutschland. Wir haben andere Länder in Europa gehabt, die, die schwächer waren in der Zeit, aber.
+Da gibt es.
+Viel zu erzählen. Warum aber?
+Jetzt geh ich mal drauf ein, dass es durchaus nicht nur lehrbuchthema ist, sondern dass es aktuelle Meldungen gibt, die.
+Interessieren könnten oder die man dann eben entsprechend noch einsortieren muss.
+Zum Beispiel jetzt.
+Gestern.
+Der vorgestern, so gibt es noch 3% in der Süddeutschen Zeitung. Was wird beschrieben? Genau die Thematik Tagesgeld ne, weil jeder denkt sich jetzt irgendwo bring ich mein Geld hin, weil Tagesgeld wird immer unattraktiver aber es gibt einfach noch doch noch festgeldanbieter und Tagesgeldanbieter die n bisschen mehr anbieten können.
+Und da wird dann eben der Tipp gegeben, wo kann ich es anlegen?
+Oder Süddeutsche Zeitung. Inflation steigt wieder auf 2,4%.
+Ist wichtig, zum Beispiel auch für sie, wenn sie in Vertrieb sind. Wie gehe ich mit der Preisgündung um?
+Und das war jetzt im September. Ist die Inflationsrate tatsächlich in Deutschland auf den höchsten Stand im laufenden Jahr gestiegen.
+Also ganz anders als erwartet. Auch wir haben jetzt wieder eine.
+Doch n Anstieg in der Inflation und somit ist die Erwartung gegenüber der EZB nicht unbedingt Person runter geht.
+Und Sie hatten es vorhin richtig gesagt, das Inflationsziel.
+Der EZB.
+Sind die 2%.
+Warum eigentlich nicht 0?
+Warum eigentlich nicht 0?
+Warum wollen wir eine Inflation?
+Warum haben wir Inflationsziel? Und das gilt dann auch als Preisstabil, wenn wir 2% haben bei.
+说话人3 00:48:24
+0 so des Landes, dass es negativ wird.
+Und das heißt, der Kürbis von Geld Mehrwert wird. Und dann?
+Bis jetzt keiner.
+说话人1 00:48:35
+Es wird zwar das Geld mehr wert, aber.
+说话人7 00:48:38
+Ja, dadurch kaufen die Leute nicht ein und dann steigt der Markt nicht oder wächst der.
+说话人1 00:48:42
+Markt nicht. Also wir hätten dann wirklich einen Niedergang der Wirtschaft. Also das ist jetzt langjährige Erfahrung und lässt sich auch theoretisch untermauern.
+Dass bei Ereignung eines von 0% Zins, dass das Wachstum zum Erliegen kommt. Das Wachstum geht nicht, weil jeder.
+Das ist systemimmanent, ne, das ist dieses System, in dem wir leben. Wir wollen alle auf Wachstum gehen.
+Immer in diesem. Man arbeitet für Wachstum, das heißt, ne gewisse Inflation ist mit eingepreist und ist notwendig um um hier.
+Ja, dieses Rad weiter im Training zu haben. Bei 0% würden wir.
+Würde es zum Erliegen kommen? Tatsächlich Ja.
+Und da gibt es.
+Da gibt es noch einen fiesen Begriff Stagflation. Haben Sie den schon mal gehört?
+Also nichts mehr geht, wenn nichts mehr vorwärts geht. Und trotzdem wird das Ganze noch mit der Inflation verbunden ist.
+Dann hat man richtig.
+Blödes Thema, weil man weiß auch geldpolitisch nicht, wie man darauf reagieren soll.
+Weil was sollen sie tun?
+Wenn sie quasi schon im 0% Bereich sind und.
+Egal. Gut, nächstes Thema.
+Lufthansa ist Langer-Weg zu mehr Profitabilität also ich begreife jetzt einfach mal, das ist jetzt von vorgestern eine Wendung.
+Und da wird beschrieben, was Lufthansa.
+Sich vornimmt, um wieder.
+In die Zielrentabilität zu kommen.
+Hat alles auch mit uns zu tun.
+Also weltweit wollen sie 4000 stellen abbauen, die meisten davon tatsächlich auch in Deutschland.
+Und dort vor allem im Management. Also diesmal ist die Welt etwas gerechter.
+Also.
+Das sind Themen, die sich auch an diese allgemeinen Wirtschaftsentwicklungen koppeln und die in ihre unternehmerischen Entscheidungen mit eingebunden werden müssen.
+Deswegen auch n Kino von mir.
+Gewöhnen sie sich mal ab und zu dran, solche Titel wenigstens zu überfliegen. Süddeutsche Zeitung MVZ bitte nicht die Bild.
+Das ist das Kaiserisch und geht vom Thema Weg.
+Also.
+Ja.
+Jetzt hab ich mal grob umrissen.
+Den, den den.
+Volkswirtschaftlichen Rahmen, in dem wir hier arbeiten und und dass das ständig auch Auswirkungen hat, auch.
+Das, was Sie tun werden.
+Und das müssen wir eben.
+Kümmern wir uns morgen um die Einzelheiten. Nun.
+Ich habe Ihnen vorhin schon gesagt.
+Ein eine Kasse, ein Kassenbestand von.
+Kleine Nullen.
+Ist nicht möglich.
+Und sie hatten richtig gesagt, das bedeutet Insolvenz oder andersherum. Ich muss ein Insolvenzverfahren anstoßen.
+Tja, und jetzt sehen Sie hier mal so die Insolvenzen, die Deutschen sowie die letzten Jahre. Ich hab jetzt 24 noch nicht rausgezogen, das müsste jetzt vorliegen.
+Und dann werden wir wahrscheinlich auch noch n deutlichen.
+Anstieg haben.
+Wieviel Prozent?
+Der deutschen Unternehmen gehen Jahr für Jahr.
+Pleite.
+Hinlegen.
+Wieviel Prozent der Unternehmen gehen jedes Jahr?
+Die Insolvenz, ja.
+说话人3 00:52:20
+3% 2%
+说话人1 00:52:22
+ein Tipp gibt es noch andere Tipps?
+Fies ist gemein, ich.
+Ich das nicht mehr angeeignet hätte, wüsste ich es auch nicht.
+Aber es ist ganz gut, um ein Gefühl dafür zu bekommen, wie relevant das Thema ist, ja.
+Nee, sie haben ja schon abgegeben 2 3%, das halten wir mal fest.
+Noch ein Wert.
+Also machen Sie sich klar, was das bedeutet, was Sie sagen.
+7% als 7 von 100 Genen im Bach runtergehen.
+Dann geht es uns dreckig.
+Aber.
+Fakt ist also, als ich hier angefangen hab 2013 machen wir so grob bei ein Prozent.
+Das ist dann runtergegangen.
+Um mal zahlen dazu, die korrespondieren.
+Wir haben jetzt also.
+Eine Insolvenzhäufigkeit bezogen auf 10000 Stück von 60 in 23 gab, das heißt 0,6% Wir kamen mal von 0,8% und ich meine, wir sind jetzt auch wieder im Stein, aber das heißt ne, also zwischen 0,5 und ein Prozent also.
+Von 100 Unternehmen oder von 1000 unternehmen.
+Gehen 5 bis 10.
+Und das ist nicht wenig, wenn sie nicht sich im Beipackzettel bei einer Medizin anschauen.
+Und Sie sagen, Nebenwirkungen sind bei einem Prozent.
+Verheerend. Ne das.
+Das wollen Sie nicht nehmen.
+Ja.
+Was passiert eigentlich oder was, wenn sie sehen, ich?
+Gehen in Internet. Also ich hab ich hab ein Problem.
+Ja, es ist es, stehe ich irgendwie aus. Ich wälz es nicht, ich ich.
+Ich fange nicht.
+Stoße nicht an, ich melde nicht die Insolvenz ein.
+Was ist das?
+Wenn Sie es eigentlich absehen, ich werde zahlungsunfähig sein und sie werden es nicht melden.
+Genau, und das ist ein Straftatbestand. Also das ist nicht mehr nur.
+Ordnungswidrigkeit oder sowas, sondern da wird es richtig hart. Warum?
+Gläubiger.
+Gläubigerschutz.
+Wir müssen also die.
+Da da wird es sehr hart reagiert.
+Weil wenn man es nicht täte.
+Dann würden die Leute den Glauben an das Funktionieren der.
+Das wär ne Katastrophe.
+Also wir müssen daran glauben können.
+Das zurückbezahlt wird.
+Wenn wir das nicht tun, funktioniert das ganze System nicht. Also es ist viel, hat viel mit Glauben, mit Vertrauen zu tun. Ich vertraue darauf, dass etwas funktioniert.
+Sonst mache ich sie nicht.
+Also jetzt haben wir gesagt, zwischen 0,5% und ein Prozent aller Unternehmen gehen Jahr für Jahr in die Insolvenz.
+Bittere Geschichte für das betreffende Unternehmen.
+Dann fragt man sich ja, sind doch. Also ich find es trotz allem auch wenn Sie vorhin n 2 bis 3 gesagt haben, ich find es trotzdem immer noch sehr viel.
+Was ist der Grund dafür?
+Das macht ja keine Absicht.
+Keine Städten Unternehmen, sagt ich beginne jetzt mal oder nice gegen die Wand.
+说话人3 00:55:42
+Die Konkurrenz ist also besser, meistens günstiger, zum Beispiel China oder so. Und dann kommen die nicht hinterher und so.
+Ist einer der Gründe.
+说话人1 00:55:51
+Also ich bin dem Wettbewerbsdruck nicht gewachsen.
+Das ist eigentlich ne Umschreibung an der Situation, dass ich.
+Zu teuer produzieren.
+Dass sie vielleicht nicht die richtigen Ideen haben, dass ich nicht mitkomme mit den Standards der anderen.
+Ja.
+Das wären jetzt tatsächlich rein da.
+Ich kürz das ein bisschen ab. Man hat gefragt, sogenannte Insolvenzverwalter, das sind Insolvenzverwalter.
+Die werden dem Unternehmen aufs Auge gedrückt. Insolvenzverwalter, also typischerweise Rechtsanwälte, die dann das Unternehmen, was in der Insolvenz ist.
+Versuchen noch Herauszuführen aus der Insolvenz.
+Indem sie harte Schnitte vollziehen.
+Zum Beispiel in den das.
+Tafelsilber verkauft ne, Sie haben sie haben irgendwo Unternehmens irgendwelche kleinen Unternehmen die sehr viel wert sind, die sie aber nicht unbedingt brauchen, die werden dann verkauft.
+Zum Beispiel oder harte Schnitte in der Belegschaft et cetera oder auch managen.
+Also in der Insolvenzverwaltung.
+Ganz am Schluss oder auch ein Ziel wird sein, dass er versucht, mit den.
+Gläubigern, das sind Gläubiger.
+说话人3 00:57:11
+Geldgeber.
+说话人1 00:57:11
+Genau das Gegenstück vom Gläubiger ist der.
+Ganz einfach.
+Der, der in der Schuld ist, der Schuldner.
+Also der Gläubiger.
+Helfen Sie mir.
+Wo war ich?
+说话人3 00:57:38
+Gläubiger.
+So weit bei ihnen Insolvenzverwalter.
+说话人1 00:57:43
+Ah ja, genau, ja.
+Genau. Der Insolvenzverwalter wird zum Beispiel auch versuchen, einen sogenannten.
+Vergleich.
+Mit den Gläubigern herbeizuführen, was steckt hier dahinter?
+In einem Vergleich.
+Ein sogenannter Vergleich.
+Komisches Wort.
+Schuldenschnitt sagt Ihnen das etwas?
+Also, dass sie zum Beispiel mit der gesamten Gläubiger.
+Gemeinde oder dass sie vereinbaren, OK 60% kriegen wir zurückbezahlt 60% und damit ist dann auch erledigt.
+Das wäre ein Vergleich. Warum machen Gläubiger das mit?
+说话人3 00:58:36
+Um Geld zu sparen in den Anwaltskosten, oder?
+说话人1 00:58:39
+Zum Beispiel? Nee.
+Nicht um Geld zu sparen.
+Warum machen gläubiger Geld und ich soll freiwillig auf 40% verzichten? Ja, bin ich verrückt.
+Um überhaupt noch was zu bekommen, um überhaupt noch was zu bekommen. Genau das ist der Grund, weil.
+Wenn ich es nicht mache, dann kann es einfach sein.
+Der Laden macht dicht.
+Und es werden natürlich nach gewissen Ranglisten zuerst die Position bezahlt.
+Die zu bezahlen sind, also zum Beispiel die, die ganz oben stehen. Daran jetzt, das ist die Belegschaft.
+Ich muss sie entlassen. Ich muss aber noch den Lohn des letzten Monats zahlen und so weiter und dann ist vielleicht.
+Showbanken Show Ende mit der Zahlungsfähigkeit.
+Deswegen lassen sich dann gegebenenfalls Gläubige auf einen solchen Schuldenschnitt ein. Das ist das, was der Insolvenzverwalter verhandelt.
+Also solche Insolvenzverwalter von 500 Unternehmen.
+Betroffenen Unternehmen hat man gefragt, was ihrer Ansicht nach der Grund war, dass dieses Unternehmen in die Insolvenz.
+Gekommen ist. Und da sehen Sie hier so ne so die verschiedenen Themen die es betrifft unterschiedlichster Art und das, was uns jetzt besonders interessiert ist, markiere ich mal eben mit dem roten Pfeil.
+Das eine ist
+fehlt das Controlling. Die Leute sind im Blindflug unterwegs.
+Denen ist nicht bewusst.
+Was sie verursachen mit Ihrem tun, was für Kosten, was für n Aufwand, das bedeutet, das und das zu tun oder also eben die diese mangelnde Planung. Erster Punkt, zweitens Finanzierungslücken.
+Wunderbar laufendes Geschäft, aber vielleicht hab ich übersehen, dass ich in einer bestimmten Zeitraum.
+Einen höheren.
+Finanzierungsbedarf ab, den ich überprüfen muss. Den kann ich entweder über Kredite schließen oder indem ich einen zusätzlichen Eigentümer mit an Bord hole. Wenn ich aber die versäumt habe, diese Finanzierungslücke, dann heißt es in dem Bereich Rausch ich in die Zahlungsunfähigkeit.
+Und die Zahlungsunfähigkeit ist der Auslöser für die Insolvenz.
+Dritter Punkt.
+Investitionsfehler den nehme ich gleich mit.
+Zusammen mit dem vierten Punkt.
+Also Investitionsfehler und unkontrollierte Investitionen. Expansion.
+Ich seh einfach woah, das geht ab.
+Es geht unglaublich ab, der investiere ich gleich nochmal in meine Kapazitäten.
+Das mach ich vielleicht dummerweise.
+Genau hier an dem Punkt.
+说话人6 01:01:02
+Guck zurück und.
+说话人1 01:01:03
+Sehe eine tolle Steigung, die ich da hinlege und ich interessiere so, dass ich eigentlich sowas hätte machen können, aber.
+Das läuft dann doch so.
+Was bedeutet das, wenn ich so investiert habe, unkontrolliert investiert und expandiert habe?
+Was heißt es?
+Ich hab mein Kapital gebunden.
+Aber ich hab es.
+Gebunden, ohne dass es mir was bracht, weil dann irgendwas bringt, weil.
+Ich hab dann eine Auslastung, zum Beispiel wenn ich an meine meine Maschinen denke, dann hab ich ne Auslastung von 30%.
+Damit rechnen die sich nicht. Ich hab ich hab Zinslast zu tragen, ich.
+Also es ist.
+Es ist unwirtschaftlich. Und das.
+Zwingt mich immer viel, eine solche Fehlplanung oder Fehlinvestition?
+Also auch daran muss ich immer wieder denken.
+Klar, es gibt auch den anderen Fehler, dass ich sag, es geht hier schon runter und dann verpasse ich hier den Hut noch mitzugehen. Die Gefahr gibt es genauso, also sie sehen unternehmerisches Denken und handeln ist nicht trivial.
+Weil wenn ich, wenn ich.
+Zu stark.
+Spare, dann überlasse ich halt meiner Konkurrenz oder dem Wettbewerb das Feld.
+Und wenn es dumm läuft, können die mich auch verdrängen dann.
+So, das sind jetzt mal.
+Die ersten Einstimmungen gewesen zu dem Thema.
+Investition und Finanzierung.
+Und warum ich mir da gezielt Gedanken darüber machen muss.
+Tja, jetzt sehen Sie mal was die.
+Finanzwirtschaft ist ein besonderer ein bestimmter Teil eines Unternehmens.
+Eine Funktion im Unternehmen.
+Nicht verwechseln. Finanzwirtschaft.
+Gibt es Bücher dazu und es gibt Finanzwissenschaft?
+Genannt Wissenschaft.
+Ist ein Teilaspekt der VWN, also Volkswirtschaftslehre?
+Die Finanzwirtschaft ist ein unternehmerische Funktion. Ein wie finanziere ich das Unternehmen?
+7.
+Und bei der Finanzwissenschaft, das immer mehr in diesem Thema drin inflationsvermeidung, Zinskonjunktur et cetera. Das ist Finanzwissenschaft.
+Die Finanzwirtschaft hat bestimmte Funktionen zu erfüllen im Unternehmen.
+Natürlich also selbst wenn einerseits die Betrachtung der Finanzierung Sicherstellung, das heißt.
+Jetzt sind wir wieder.
+Bei Buchführung.
+Das finanzielle Gleichgewicht muss sichergestellt sein.
+Das hier ist aktiver und passiver gleich sind. Das ist das finanzielle Gleichgewicht.
+Also das, was ich aktiv mache, muss passiv gedeckt sein.
+Kann durch Eigenkapital. Kann die Fremdkörper.
+Aber ich muss es halt gemacht haben mit diesem dieses Gleichgewicht sichergestellt zu haben.
+Dass das eine und das andere ist, die Liquidität sicherstellen. Ich muss immer die notwendige Liquidität bereitstellen können.
+Was heißt das?
+Ausreichend Liquidität zu haben.
+Und das ist noch n Satz, den müssen Sie wirklich sich einimpfen.
+Ausreichende Liquidität heißt.
+Jederzeit dem fälligen Zahlungsverpflichtungen nachkommen zu können.
+Jederzeit mit dann fälligen Zahlungsverpflichtungen müssen die Nachkommen kommen können.
+Wenn Sie das nämlich einmal nicht können, sind Sie schon insolvent.
+Das müssen Sie sich klären. Das geht nicht.
+Funktioniert.
+Und jetzt können Sie sagen, ja, wie jetzt. Jetzt haben wir aber doch folgendes gemacht, wir sind auf unserem Gläubiger, zu was weiß ich und haben gesagt du ich hab n Ausfall einer einer einer Auslieferung die verzögert sich und deswegen kommt auch die Bezahlung n Monat später kann ich bitte einen Monat später bezahlen.
+Also ich erbitte einen Aufschub.
+Der Zahlung.
+Ja, das ist korrekt.
+Dann bin ich nicht illiquide. Dann habe ich tatsächlich die Zahlungsverpflichtung oder die Fälligkeit habe ich dann auch tatsächlich verschoben.
+Oder andersrum gesagt, aus Finanzierungssicht.
+Ich habe einen zusätzlichen Lieferantenkredit aufgenommen, weil ich lege dann in dieser Phase zusätzlich.
+Von dem Kredit, den mir der Lieferant gewährt.
+Also für Sie verstehen. Das ist kein Widerspruch, wenn ich einen Zahlungsaufschub hinbekomme, dann ist es auch eine adäquate, eine angemessene Reaktion auf drohenden Zahlungsausfall.
+Aber es kann natürlich irgendwann sein, dass die Lieferanten sagen, gut, das hat jetzt dreimal mitgemacht. Nee, Ende.
+Und dann?
+Dann bin ich in der Interessen.
+Also das ist hier die Sache mit der Liquidität.
+Das Ganze verbunden mit der geforderten Rentabilität. Das wird es gemein.
+Das heißt also, ich bin nicht ganz frei von dem Gedanken.
+In Rentabilität zu bringen. Was heißt Rentabilität?
+Also Liquidität ist klar Zahlungsfähigkeit.
+说话人3 01:06:46
+Rentabilität ist, dass man auch einen Gewinn erzielt oder dass.
+说话人1 01:06:49
+Man Ergebnis.
+说话人3 01:06:50
+Erwirtschaftet und.
+说话人1 01:06:52
+Die Rentabilität.
+Wird wie ausgedrückt.
+Hat mit dem Gewinn zu tun. Ja, aber.
+Ähm.
+Wie rentabel ich bin.
+说话人3 01:07:04
+Mit dem eingesetzten Geld, das ich brauch um.
+说话人1 01:07:07
+Den Weg. Es ist ne Verhältniszahl genau, also es.
+Ist ein monetärer Wert.
+Der gemessen wird an einem anderen monetären Wert. Also es gibt, wir gehen gleich noch drauf ein, verschiedene Rentabilitätskennzahlen.
+Der Gewinn ins Verhältnis gesetzt zum Beispiel zum eingesetzten Kapital.
+Genau, die Rentabilität.
+Muss stimmen.
+Und auch die Finanzierung oder die Finanzwirtschaft trägt hier einen Teil dazu bei.
+Weil natürlich die Auswahl der Finanzierungsinstrumente.
+Unterschiedliche Kosten bedeuten, es gibt welche, die sind höher verzinslich, welche diese niedrige Patienten sind. Aber das eine ist schneller verfügbar, das andere.
+Dauert länger bis ich es bekomme. Das eine ist teurer, was weiß ich, wenn ich eine Anleihe begebe oder Aktien emittiere.
+Dann kostet es richtig viel Geld.
+An Managementkapazitäten.
+Oder auch an Dienstleistungsbanken mit einbinden, die dann diesen Rollout machen.
+OK, das wär Punkt 1. Die kapitalbereitstellung Punkt 2 Investitionen die Kapitalverwendung.
+Also Umwandlung.
+Das Kapital sind Vermögenswerte mit langfristiger Billigung.
+Also da werden jetzt hier auf der Seite, wobei natürlich die Entscheidungen jetzt.
+Von der Unternehmensführung.
+Gemacht oder den dafür zuständigen Einkauf, was weiß ich Produktion.
+Was hier steht mit langfristiger oder längerfristiger Bindung. Wir könnten ja meint, Oh, sie ist jetzt nur das Anlagevermögen gemeint.
+Nein, geht es nicht. Es ist schon alles gemeint. Wir müssen uns klarmachen, ein Unternehmen, was im, da gibt es solche verschiedene.
+Unternehmensprinzipien oder Prinzipien auch in der Buchführung ändert sich noch an dieses.
+Going concern sagt dir das mal.
+Das Prinzip going Consumer.
+Heißt, schließt man einfach ein Unternehmen.
+Hat kein Verfallsdatum.
+Ich plane kein Unternehmen.
+Das bis dahin lebt und dann nicht mehr lebt.
+Going Konzern heißt ein Unternehmen wird auf.
+Ewigkeit immer weiter geplant.
+Und wenn ein Unternehmen mal in dem also.
+Anstieg wenn es in der Phase ist, wie es wie es arbeitet, dann werden sie feststellen, dass das Umlaufvermögen ne bestimmte Höhe hat.
+Ständig revolviert ja, die Materialien gehen rein, die machen, die gehen raus. Das ist alles im Umlaufvermögen, es wird ständig umgeschlagen, deswegen auch Umlaufvermögen, aber 1 ist klar.
+Ich krieg den Bereich nie auf. 0. Ich hab n Mindestmaß an Umlaufvermögen. Oh Gott, was natürlich gegenfinanziert sein muss.
+Also die längerfristige Bindung.
+Meines Kapitals.
+Bedeutet nicht bezogen auf das einzige Material Material, sondern die längerfristige Bindung kann eben genau die.
+Kann genau das sein, dass ich das Umlaufvermögen.
+Kontinuierlich.
+Finanziert bekommen.
+Es geht los, was ich sage.
+Ja, Sie haben immer einen Gewissen.
+Material bestand Sie haben Sie haben, Sie haben progressive Work and progress.
+Was ist das?
+Sie haben Material, was gerade in der Bearbeitung ist.
+Sie haben Material, was fertig ist, also halbfertige Fertigprodukte, die irgendwo auf Lager liegen. Das ist alles Kapitalding, das muss gegenfinanziert sein.
+Also es steckt alles in dem Umlaufvermögen drin und sie können nicht sagen, mehrere macht die Lage halt auf 0. Ja dann könnt ihr nicht mehr produzieren, ist ja Quatsch.
+Also wenn Sie in Omnichannel Business haben.
+Dann werden sie einfach einen bestimmten bestandenen Umlaufvermögen finanzieren müssen.
+Das ist damit gemeint worden.
+Zahlungsverkehr? Ja, wie?
+Werden die Zahlungen durchgeführt? Wie erhalte ich meine Zahlungen?
+Heutzutage.
+Fast nur noch elektronisch.
+Wir werden ein streichelndes Thema.
+Wechsel, das ist heute gar kein Thema mehr.
+Wir kennen den Film Catch me if you can.
+Ja, also da ging es auch noch um Zahlungsmethoden bei diesen Schecks unter diesem Wechsel.
+Die heute einfach nur natürlich sind. Tatsächlich haben wir aber immer noch zahlungs.
+Mittel, oder?
+Begleitende Mechanismen.
+Zum Beispiel den internationalen Zahlungsverkehr bestimmen. Ich rede von akkreditiv Notfällen wie bauen, letztlich auch der Not auf.
+Also darum kümmert sich die Finanzwirtschaft. Wie wollen wir denn die Zahlungen abwickeln?
+Und dann noch die Sicherstellung.
+Fälliger Zahlungsverpflichtungen jederzeit.
+Das ist das.
+Also da, das ist quasi die Hauptaufgabe, weil wenn das einmal nicht erfüllt ist, ist das ein Rückschlag fürs Unternehmen.
+Also sie sehen hier, ich brauch genau diese Funktionen für Planung, Steuer und Kontrolle der Zahlungssteuerung um ein Unternehmen führen zu können.
+Also bitte merken Sie sich nochmal oder soll ich es aufschreiben? Irgendwo ausreichender Liquidität heißt.
+Jederzeitige Zahlungsfähigkeit oder jederzeit den fälligen Zahlungsverpflichtungen nachkommen zu können, das heißt ausreichende Liquidität.
+Gut.
+Jetzt kommen wir noch mal.
+Kunstabhängige Bilanzstruktur, die sie ja eigentlich schon.
+Ja, erstmal gibt es Fragen zu mal.
+Irgendwelche Fragen?
+Wenn Unklarheiten sind, bitte gleich melden. Also es gibt es gibt es gibt keine dummen Fragen.
+Also gut.
+Ich habe hier im Übrigen, das werden wir auch noch besprechen, denn hier Rentabilität steht, dann muss ich einfach sehen. Aber Liquidität und Rentabilität, das steht im gewissen Widerspruch.
+Gut.
+Ja, Kapital. Davon sprechen wir die ganze Zeit. Kapitalbindung, was ist das Kapital? Bekommst Kapital her, wie wird Kapital verstanden? Meistens.
+Viele verstehen einfach nur die Wertsumme der Bilanz darunter, also ihr guckt, das ist meine Kapital. Hier kommt die Mittelherkunft.
+Also hab ich n Kapital von.
+Das ist Kapital.
+Kann ich so verstehen oder es ist das Geld für Investitionszwecke.
+Oder einfach Kapital ist einfach nur Geld.
+Wir unterteilen das sozusagen ins abstrakte Kapital und ins konkrete Kapital. Aber lieber sind wir die.
+Begriffe.
+Mittelherkunft.
+Mittelverwendung oder Kapitalherkunft?
+Kapital bereit, Kapital bereitzukapitalverändern.
+Darauf gehen wir auch mal in den Übungen an.
+Also.
+Die Logik muss ihnen einfach klar sein.
+Ich binde.
+Mein Kapital. Irgendwo.
+In Anlagen und Maschinen, in Fahrzeugen, in meinem Umlaufvermögen, in der Kasse. Es ist gebundenes Kapital.
+Und dieses Muss finanziert sein. Und das sehe ich dann eben rechts durch.
+Eigenkapital also durch die Einlagen der Eigentümer, gegebenenfalls Aktionäre.
+说话人3 01:15:13
+Das wäre da oben.
+说话人1 01:15:16
+Durch einbehaltene Gewinne.
+Selbstfinanzierung.
+Oder durch Kredite, die ich aufnehme.
+Kurzfristige und langfristige Kredite.
+Kredite gegenüber den Lieferanten, das ist alles hier drin.
+Und sagt eben dafür, dass ich das hier finanzierte Strom.
+Bilanzaufbau das müssen sie können.
+Immer und immer wieder.
+Also wenn Sie.
+Nach dem Bachelor befragt werden und das hier nicht beantworten können. Kriegen Sie den Bachelor wieder entzogen?
+Also sie müssen diese grobe Struktur der Bilanz einfach kennen. Wir haben auf der Aktivseite des Anlagevolumen das Umlaufvermögen auf der Passivseite Eigenkapital und Fremdkapital und die wichtigsten Positionen daraus sind.
+Beim Anlagevermögen.
+Das.
+Fachanlagevermögen das immaterielle Anlagevermögen und das Finanz.
+Und Finanzanlagen.
+Was ist denn immer immaterielles Anlagegemü?
+Was ist das?
+Wieso sollte ich mein mein Kapital binnen in materiellen Anlagevermögen? Was ist immaterielles Anlageproblem?
+Ja.
+说话人3 01:16:31
+Am Style. An anderen Unternehmen.
+说话人6 01:16:33
+Zum Beispiel? Ah, Nein, Stopp.
+说话人1 01:16:35
+Nein, nein, das ist Finanzanlage.
+Finanzanlage bedeutet.
+Längerfristige Beteiligung an anderen Unternehmen?
+Vorsicht, Wertpapiere kann ich auch haben, die sind aber im Umlaufvermögen.
+Aber an den hab ich gar nicht großes Interesse. Es sind durchlaufende Posten.
+Alles, was Sie nannten. Beteiligungen.
+Das ist Finanzanlage.
+Was uns aber immaterielles Anlageproblem.
+Gibt einfachere und und schwerere.
+Schwerer zu verstehen.
+Was heißt immateriell? Ne, es ist nicht greifbar, es ist nicht.
+Es ist nicht materialisiert, ja.
+说话人3 01:17:30
+Haben.
+Lizenzen, oder?
+Software und so.
+说话人1 01:17:37
+Weiter also Lizenzen.
+Patente, die ich kaufte, im übrigen Selbsterstellte oder selbst angemeldete Patente, darf ich nicht aktivieren.
+Also wenn ich von Silber, dann dann stecken die da nicht drin. Aber wenn ich jetzt ausgründe.
+Und ich muss n neues Unternehmen aufbauen und ich teile denen die Patente zu, dann kann ich sie sehr wohl auch bewerten.
+Ist was anderes. Und dann gibt es noch die Position Goodwill.
+Was ist das denn?
+Haben Sie sicherlich nicht darüber gesprochen, aber es ist interessant.
+Mit Blick auf das, was passiert in der Unternehmenslandschaft.
+Stellen Sie sich vor, hat jemand ne Ahnung was goodwill sein könnte? Das sind ihre Beträge drin, manchmal irre Beträge.
+Wenn Sie ein anderes Unternehmen kaufen wollen, passt genau in mein Produktportfolio.
+Ich will mein Produktportfolio ergänzen mit diesem Unternehmen, und das hat Entwicklungskompetenz vom Feinsten.
+Und ich bin bereit.
+100000000 zu bezahlen, obwohl.
+Gemessen an dem Anlagevermögen und oder an dem Vermögen dieses Unternehmens. Eigentlich ist es nur 50000000 wert.
+Also zahle ich nur an diesen klar greifbaren Komponenten gemessen 50000000 zu viel.
+说话人3 01:18:51
+Das ist der Gute.
+说话人6 01:18:54
+Nicht zahlen.
+说话人1 01:18:55
+50000000 für nix greifbares.
+Aber ich, ich zeichne die Kompetenz für den Markt, den sie mir erschließen und so weiter und sofort. Das ist der Gute. Der Goodwill wird im übrigen danach über Jahre abgeschrieben, über lange Jahre.
+Ja, so langsam aber sicher verschwindende.
+说话人3 01:19:11
+Eben dann ist er weg.
+Aber.
+说话人1 01:19:14
+Es ist ne heikle Geschichte.
+说话人3 01:19:15
+Das können Sie sich schon.
+说话人1 01:19:18
+Das wird aber schon klar, ne.
+Also haben wir bei Unternehmenskäufen.
+Was sind da die Fremdwerte dafür? Unternehmenskäufe.
+Genau gibt es eigene Abteilungen in Unternehmen M and a Mergers and equisition.
+Also equisition ganz kleiner Coffee merger. Nennen wir so das Zusammengehen.
+Kennen Sie einen bekannten Merger?
+Zwischen 2 Unternehmen und eine Fusion, ja.
+说话人3 01:19:49
+Media Markt 600 Oh, tatsächlich.
+Ja, stimmt.
+Das war eher nett.
+说话人1 01:19:58
+Was, was noch?
+Das war wahrscheinlich deutlich vor ihrer Zeit. Aber das das war heftig für die.
+Ich.
+说话人3 01:20:10
+Bin die deutsche Seele.
+说话人1 01:20:12
+Das Zusammengehen zwischen Daimler und Chrysler.
+Olivia.
+Das war der Schremm, damals zeitweise der Chef, und der hat versucht, einen Weltkonzern zu erzeugen, den Daimler und Chrysler zusammengegangen sind. Inzwischen sind sie wieder auseinander hat.
+Nicht so richtig.
+说话人6 01:20:30
+Funktioniert aber.
+Wurde viel Geld gelassen dafür.
+说话人1 01:20:35
+Gut, dabei gibt es eben auch solche gut willen.
+Gut, dann hätten wir im im Umlaufvermögen, das müssen Sie wissen, Vorräte, Forderungen, Vorräte. Was steckt dahinter, das, was ich zukaufe, RHB, rohyps und Betriebsstoffe und auf der anderen Seite das, was ich erzeuge, halt fertig und Fertigprodukte.
+Ich habe Kasse, ich hab beim Flughafen, darum geht es uns immer wieder in Kasse.
+Dank.
+Das sind die.
+说话人3 01:21:02
+Vermögens.
+说话人1 01:21:03
+Bestanden. Dann habe ich die.
+Passivseite mit dem Eigenkapital das sind die Geschäftsanteile der Eigentümer.
+Rücklagen ganz heiß.
+Es Eisen.
+Bitte.
+Gibt 100 Punkte Abzug, wenn sie verwechseln Rücklagen und Rückstellungen.
+Da gehe ich aber auch noch mal drauf ein.
+Rücklagen sind Eigenkapital.
+Rücklagen entstehen. Wann?
+Oder werden gemacht. Wann?
+说话人3 01:21:33
+Sind vom Gewinn und werden dann.
+Zurückgestellt für.
+说话人1 01:21:38
+Potenzielle, also sie sind keine Rückstellung, aber es ist eine Rücklage.
+Sie haben schon Recht. Zum Teil habe ich Gewinnrücklagen.
+Der Gewinn wird.
+Zu einem zu einem Teil in die Rücklagen eingestellt.
+Ja.
+Aber nicht für eine bestimmte Sache, sondern es ist Teil meines meiner Finanzierung, und zwar auf.
+说话人3 01:22:00
+Dauer und die Rückstellungen müssten für Pensionierungen oder sonst was der Mitarbeiter.
+Zurückgehaltenes Geld sein das nicht.
+说话人1 01:22:11
+Ja, richtig, es ist.
+Es sind also die genaue Definition des Systems, Verbindlichkeiten, die die Höhe und Zeitpunkt nicht genau definieren.
+Aber das das bring ich Ihnen noch mal. Also wichtig ist, dass sie sich dessen bewusst machen.
+Rücklagen sind Eigenkapital, da kann der Gewinn reinlaufen. Aber auch wenn ich zum Beispiel Aktien emittiere.
+Dann imitiere ich die über den Nominalwert.
+Nicht ich emittiere zum Beispiel 1€ Aktien, aber zum Kurs von 3,60€ dann hab ich 2,60€, die gehen in die Kapitalrücklage.
+In 216 sind dauerhaft im Unternehmen oder stehen dauerhaft im Unternehmen zur Verfügung.
+Wir haben n Gewinnvortrag was ist der Gewinnvortrag?
+Und wir haben den Jahresüberschuss, was der Gewinn des des jeweiligen Jahres der Gewinnvortrag ist. Das, was ich hab stehen lassen aus den Vorjahren, wenn ich sagte, Oh, ich hab da n riesengewinn n Teil durch in die Rücklagen, rein in die Gewinnrücklagen, aber ich behalte jetzt mal etwas als Vortrag, weil ich weiß im Folgejahr.
+Wenn ich nicht so n dollen Gewinn hab, aber ich möchte etwas auszahlen an die Eigentümer und deswegen.
+Nehm ich das?
+Als Gewinnvortrag mit weil das, was verbuddelt ist in Rücklagen.
+Krieg ich nicht mehr so leicht raus.
+Das geht nicht verfügbar.
+Dann habe ich.
+Im Fremdkapital die Rückstellungen.
+Ich war das, wo wir gerade gesprochen haben und Verbindlichkeiten jeglicher Art.
+Kredite.
+Kredite? Darlehen.
+Anzahlung.
+Was sind Anzahlungen?
+Denken Sie an ihr privates Leben, ne Anzahl machen Sie wo.
+说话人3 01:24:08
+Etwas kaufen möchte, was reservieren will, zum Beispiel. Ja, genau.
+说话人1 01:24:12
+Der möchte einfach sichergehen, dass Sie es auch wirklich abnehmen und sagt, OK, jetzt sagen wir mal 30% an.
+Dieser Anteil heißt aber auf der also nicht weiter gedacht. Eine Anzahlung ist ein Kredit, den sie als Kunde den Lieferanten gewähren, weil er hat ja dann quasi schon ne Vorfinanzierung.
+Dass ein Kundenkredit und der.
+Liefern also wenn wir ne Anzahlung bekommen ist die Anzahlung als Fremdkapital hier zu buchen.
+Die Anzahl.
+So.
+Ja.
+Jetzt mache ich einfach noch ein Stück weiter.
+Halt, Stopp, die an Pause muss.
+Wieviel 1000?
+Ja, jetzt wär meine bitte, ich müsste eher aufhören, weil ich zu einer anderen Veranstaltung muss, also wegen Erstsemester und so weiter.
+Können wir in ner Viertelstunde schon weitermachen und ich würde die dann auch nicht bis zum Schluss machen. Also normalerweise wär 1330 wird aber.
+Nee, das wir wir machen. Wir machen normales um um 12 nochmal weiter, aber ich werd es dann trotzdem n bisschen abkürzen machen 12:00 Uhr.
+说话人3 01:25:29
+Machen wir weiter.
+Vielen.
+说话人1 01:25:31
+Dank für die Aufmerksamkeit. Und bis dann.
+说话人1 00:00:02
+Also ich hatte ihn ja schon gesagt.
+说话人2 00:00:05
+Den Fragen Sie bitte, fragen Sie.
+Auf Englisch sprechen.
+Sie hatten ja schon.
+Gesagt.
+Bei dem Klima in dieser Vorlesung geht es um Zahlungen, Zahlungsströme, also geldmittelflüsse.
+Nicht.
+Am Rande geht es auch um Grün, aber es geht in erster Linie um.
+Die monetären Flüsse.
+Jetzt gibt es so verschiedene Definitionen von dem, was ist eine Investition.
+Das ist eine Finanzierung, die einfachste von allen Definitionen ist schlicht und einfach die mit Blick auf den Zahlungsstrom nämlich.
+Investition bedeutet.
+Zahlung geht aus dem Unternehmen raus.
+Und kommt dann.
+Also zum Beispiel für die Anschaffung eines Gutes, einer Maschine.
+Und dann nutze ich diese Maschine und es kommen dann eben entsprechende.
+Entsprechende Einzahlungen zurück für die Güter, die ich verkaufe, also ganz verkürzt, steht dann hier eine Auszahlung. Eine Investition ist eine Auszahlung der in Zukunft Einzahlungen gegenüberstehen.
+Ich zahle jetzt aus und in der Zukunft kommt sie zurück.
+Finanzierung ist genau das andere.
+Ich nehme heute einen Kredit auf, zum Beispiel?
+Da kommt so viel Geld an, so viel Geld und dann stotter ich das ab. Das heißt also, ich habe eine Einzahlung bekomme.
+Eine Einzahlung ins Unternehmen bekommt eine Einzahlung, der dann in Zukunft Auszahlungen gegenüberstehen.
+Vorsicht.
+Mit diesem Wort einzahlen muss also dieser OED an meine Bank und macht eine Einzahlung.
+Dann ist es eigentlich verkehrt.
+Aus der Sicht der Bank ist es richtig sind, wenn sie als Kunde machen, für die Bank eine Einzahlung. Die Bank bekommt eine Einzahlung aber aus ihrer Sicht ist es eine Auszahlung.
+Also nicht durcheinander. Es geht.
+Argumentieren immer aus der Sicht des betroffenen Unternehmens.
+Einteilungen sind Geldströme, die Reingehen, auszahlungseffizienzströme, die aus.
+So, wenn wir uns das bildlich.
+Was hier?
+Formuliert worden ist und was uns bildlich klar macht, man sieht es halt gut, völlig aus.
+Wir haben.
+Ein Hub an Ausgang bei der Investition. Ich zahle mit großen Glocken und dann über die Zeit danach.
+Bekomme ich wieder Geld zurück?
+Und andersrum bei der Finanzierung. Ich bekomme jetzt einen großen Haufen Geld und muss den dann zurückzahlen, entweder über die Zeit verteilt oder ganz am Schluss einmalig.
+Oder ich habe.
+Gegebenenfalls auch Finanzierungsformen.
+Die.
+Niemals eine Rückzahlung erfahren, wie zum Beispiel eigentlich.
+Die Einlage von Eigenkapital.
+Ist nicht.
+Terminiert.
+Da gibt es kein Ablaufdatum, bis dann und dann möchte ich das Geld wiederhaben von dem Unternehmen.
+Wenn ich ne Aktie Kauf oder wenn ne Aktie verkauft wird, dann ist die draußen, dann gibt es diesen Anteil, der wird eh nicht irgendwo draußen rumstehen.
+Nachvollziehbar.
+Das sind wirklich die grundlegenden Definitionen.
+Jetzt kann ich aber das auch noch etwas anders definieren, etwas komplizierter.
+Die Investition, und das sind so Schlagworte wie wie sollte man sich wirklich darauf merken, können sie sich rot unterstreichen. Die Investition ist eine Kapitalverwendung.
+Während die Finanzierung die Kapital Bereitstellung die Kapitalverwendung heißt.
+Kapitalverwendung heißt, ich investiere mit langfristiger oder längerfristiger Bindung.
+In.
+Finanzer oder immateriellen Vermögen?
+Wobei in der ausdrücklich steht nicht die Sachanwaltschaft, sondern es sind eben auch diese Themen wie das Umlaufvermögen nicht investiert.
+Und auf der anderen Seite habe ich.
+Finanzierung als Bereitstellung von Kapital oder kapitalbereitstellung ich bekomme Kapital zur Verfügung.
+Und das umfasst die Beschaffung.
+Die Umschichtungen.
+Bevor ich das zum Beispiel erwähnt, ein Kredit läuft aus, ich muss einen neuen anschließen, das gehört alles dazu. Umschichtung kann aber auch bedeuten, ich habe laut und kurzfristige Kredite und sage ich brauche es länger laufen, ich schichte um in langfristige Kredite.
+Sicherungs.
+Der Finanzierung, Reduzierung, auch das gibt es natürlich.
+Reduzierung von Kapital stellen sie sich vor, sie haben eine Tochtergesellschaft.
+Die steht für ein bestimmtes Produkt und sie sehen, na ja.
+Das ist auslaufen. Ich brauch da nicht mehr so viel kapitalbindung, ich brauch, ich kann auch den Maschinentakt dort abziehen, das geht nicht in andere Firmen rein, ich entzieh den Unternehmen auch langsam Kapital, das muss nicht mehr entsprechend gegenfinanziert sein.
+Also das sind die etwas komplexeren.
+Definitionen.
+Hier haben wir auch einmal die zahlungsstromorientierte Definition und zum anderen hier die.
+Definition basiert auf Kapitalverwendung und Kapitalbereitstellung.
+Jetzt gehen wir.
+Weiteren Zielen.
+Der Finanzwirtschaft.
+Welche Ziele werden denn verfolgt mit der Finanzwirtschaft?
+Es gibt n Haufen Ziele, aber letztlich mündet alles in diese.
+4 Einzel ziele.
+Wir ziehen jedoch auch Mentalität ist ein Ziel, das über die Finanzierung oder die Finanzwirtschaft mit gewährleistet werden soll.
+Wir haben als anderes großes Ziel die Liquidität.
+Das sind schon mal 2 große Gruppen und jetzt sind es ganz interessant.
+Auch Unabhängigkeit.
+Und Sicherheit des Unternehmens sind jeweils eigenständige.
+Eigenständige.
+Ziele der Finanzwirtschaft jetzt könnten wir sagen, ja, die so Unabhängigkeit und Sicherheit ist es nicht ein und dasselbe.
+Ein.
+Dieses Licht.
+Warum? Das ist eigentlich also wir haben hier 4 eigenständige Ziele, die zum die in einer gewissen Beziehung zueinander stehen.
+Zum Teil widersprechend.
+Also ich muss dann n Kompromiss finden, ich muss das Austarieren, aber zum Teil.
+Sind sie auch komplementär? Also ich bin zum Teil in einem Zielkonflikt, konkurrierende Ziele, zum Teil habe ich zig ergänzende oder beflügelnde Ziele, dann wäre es komplementär.
+Diese Ziele, die gehe ich zwar nacheinander mit ihnen durch.
+Muss ich tatsächlich hier.
+Nie mehr machen wollte.
+Habe ich auch so eine Schicht.
+Ist.
+Schönste Mensch.
+说话人3 00:07:26
+Diese Entwicklung ist auch gut.
+Okay.
+说话人2 00:07:35
+Schauen wir uns mal das Erste an. Die Rentabilität. Darüber haben wir vorhin schon, Rentabilität ist immer.
+Für das Verhältnis.
+Von Ergebnis zu einer bestimmten Bezugsperson zu einer monetären Bezugsgröße.
+Also in sie werden ganz am Anfang ihres Studiums werden sie allgemeine BWL gehabt haben. Erinnern Sie sich vielleicht nicht?
+Und da gab es sowas wie Produktivität.
+Wirtschaftlichkeit.
+Das sind auch Verhältniskämpfer.
+Das ist dieses zum Beispiel Wirtschaftlichkeit, das Verhältnis Output zu Input.
+Bei der Rentabilität, da konzentrieren wir uns rein auf monetäre Größen. Das ist die Verhältnisse verhältnissetzung von Gewinn zu einem Gewinn entsprechenden Größen.
+Oder Ergebnisgröße zu einer anderen monetären Bezugsgröße.
+Und hier sind Sie, die verschiedenen Ergebniskirchen, ganz klar der Gewinn, der Gewinn, das kann der Jahresüberschuss sein, der EBIT uff.
+Was es eh gibt.
+Ja, ergebnisbilanz, Konto erlösbilanz und so.
+Tschüss.
+说话人4 00:08:52
+Ergebnis vor Steuern und Zinsen richtig.
+说话人2 00:08:58
+Und auch es ist ein ein Anglizismus.
+Ebit heißt.
+Oder das ist ein ein Kürzel für ein ein englisches Wort, oder?
+Ich wollt mir.
+Earnings before interest and Tax und das ist genau das, was sie sagten, also der Gewinn.
+Vor sollen um Zinsen.
+So und vor Zinsen bedeutet das Schließen und einfach gleichzusetzen mit dem Betriebsergebnis, den sogenannten Betriebs. Ergebnis also vor dem sogenannten Finanzergebnis.
+Wenn Sie sich die Gewinn und Verlustrechnung anschauen.
+Gewinn und Verlustrechnung haben sie erstmal Umsatz.
+Bestandsveränderungen an Haltrettigen, Fertigprodukten und und selbstbestellte Anlagen. Und dann haben Sie die ganzen Aufwandspositionen.
+Und dann haben sie ein Betriebsergebnis.
+Und dann kommt.
+Die Zinswiese Zahlen oder Zinsen, wie Sie erhalten, das ist das Finanzergebnis, und das wird eben unterschieden. Also oft schaut man sich nur den Ebics an, wenn man ein Unternehmen beurteilen will.
+Also wenn ich ein Unternehmen.
+Kaufen will.
+Dann möchte ich wissen. Also und mir geht es wirklich um das das.
+Unternehmen und seine Produkte. Dann schaue ich mir in erster Linie diese Earnings before Interest and flex an, wenn ebit.
+Weil mich wichtig interessiert, wie seine Finanzierungssituation ist.
+Betriebsergebnis das ist quasi gleichzusetzen oder projektergebnis. Das kann alles sein. JÜ Jahresüberschuss ist alles ne, das ist das was am Schluss übrig bleibt tatsächlich.
+Betriebsergebnis plus Finanzergebnis minus steuern. Dann hab ich genau diesen J.
+So eine Ergebnisgröße, der Gewinn. Das andere wäre der Cashflow.
+Was heißt Cashflow?
+Schlicht und einfach die Differenz zwischen.
+Zahlungseingängen und Zahlungsausgängen und hier ein bisschen komplexer dargestellt zwischen zahlungswirksamen Erträgen und zahlungswirksamen Aufwendungen.
+Ist nicht ganz, also besser ist einfach der, der der Zahlungsschulen dazu.
+Ist die Differenz zwischen Einzahlung und Auszahlung, dass der Cash auch.
+Was bedeutet.
+And Cash flow.
+Bei der Cashflow Ring und der Kapitalversicherung, der darf.
+Darf der negativ sein? Der Cashflow darf der negativ sein.
+Es ist immer.
+Es ist ja eine Strömungsöse, oder es ist Ergebnis. Nein, Cashflow ist ein Ergebnis aus.
+说话人4 00:11:33
+Ja, aus Strömungsflüssen.
+说话人2 00:11:36
+Darf der Cashflow.
+Negativ sind.
+说话人4 00:11:40
+Er kann, aber sollte nicht.
+Oder wirklich sagen, schon weil, wenn man zum Beispiel Investitionen tätigt.
+Sehr negativ, wenn man zum Beispiel sein Grundstück erweitert oder jemand.
+Ja, so Investitionstätigkeit, das ist ja negativ.
+说话人2 00:11:57
+Richtig, der Cashflow ist negativ, weil es fließt Geld ab. Tatsächlich, Netto haben wir am Schluss mehr Geldabfluss als Zufluss.
+Jetzt fehlt mir aber dieses aber das war es nicht, von dem es heute nicht, weil klar, es gibt Jahre oder es gibt Perioden, da gehe ich ganz bewusst in einen negativen Cashflow.
+Aber.
+So lange gilt.
+Ja, Nebenbedingung ist jetzt aber nicht tödlich.
+Wenn nicht erfüllt.
+Heißt.
+Den Cashflow wieder.
+说话人5 00:12:35
+Die Abgänge wieder bezahlen kann.
+说话人2 00:12:39
+Das das ist jetzt ne eine Tautologie mit sich selbst, sozusagen mit einem erklärt.
+Nein, denken Sie an die Bilanz. Kultur Cashflow ist ne ist ne plusgröße ne und die Bilanzgröße geht damit.
+说话人6 00:12:54
+Ich hab dich so lange da nach Gelsenkirchen sich, dass man das denken kann.
+说话人2 00:12:58
+Genau also unterscheiden sie.
+Die Ohren spitzen.
+Unterscheiden sie bitte zwischen Cashflow.
+Und Cash.
+Kann niemals negativ sein.
+Ich hab keine Negativbanknoten.
+Ich laufe nicht mit -20 Euro in der Tasche rum.
+Also Cash.
+Der Cashflow kann negativ sein, solange es durch den Cash oder den Kassenbestand gedeckt ist. Und ich?
+Hinterher immer noch n positiven Kassenbestand haben.
+Oder die Bank dahinter steht.
+Alle? Ja genau richtig.
+Das wäre Cashflow.
+Und Zinsen auch die schon, insbesondere wenn ich Kredite vergebe.
+Sind es zum Beispiel Zinsen auf das Eigenkapital oder.
+Zinsen aus Fremdköchtern ganz witzige Sammlungen, Zinsen aus Eigenkapital, hm.
+Baggersee.
+Alle. Welcher Zins?
+Satz ist höher.
+Oder welche der also 1% Zinsen auf das Fremdkapital?
+Sie erinnern sich an Bilanz.
+Brennkristall unten rechts oder Zinsen aufs Eigenkapital oben rechts, welcher Zinssatz muss höher sein?
+Alle mal überlegt.
+Eine essentielle Frage.
+Nochmal.
+Zinsen gibt es aufs Eigenkapital und Kapital.
+Da hab ich es.
+Welcher Zinssatz muss höher sein?
+说话人6 00:14:37
+Der aus Eigenkapital, wenn es attraktiv zu erhalten, dass die Eigentümer des Unternehmens behalten wollen.
+Ja.
+说话人2 00:14:45
+Also erstmal korrekt. Die Begründung ist noch nicht, also ja Attraktivität.
+Die hängt aber an etwas ganz Bestimmtem. Da gehen wir auch später noch irgendwie drauf ein bei einer.
+Mhm.
+Ist ganz wichtig, wirklich das Eigenkapital.
+Das Eigenkapital haftet vollumfänglich.
+Das heißt, ich? Ich leide komplett mit, ob ich Verlust mache oder Gewinn als Eigenkapitalgeber.
+Mache ich Verlust, reduziert sich das Eigenkapital. Meine Einlage verliert an Wert. Mach ich Gewinn, erhöht sich das Eigenkapital und mache mein mein Vermögen vermehrt sich.
+Wenns dumm läuft.
+Verschwindet meine Einlage, weil das Unternehmen immer wieder Verluste macht, dann ist es weg.
+Der Fremdkapitalgeber haftet nicht.
+Der hat die ganz klare, den Anspruch auf Rückzahlung seines gegebenen Kredits.
+Ich hab mich das risikolos ist. Was ist das Risiko, dass Fremdkapitalgebers.
+Risiko Blei deswegen gibt es auch Zinsen.
+Was ist das Risiko?
+说话人4 00:16:02
+Also dein Geld nicht ganz bekommen vielleicht.
+Wenn er zum Beispiel in so Insolvenz geht, dann kriegt er nicht das ganze Geld. Zum Beispiel wenn der wenn der, der der.
+说话人2 00:16:11
+Kreditnehmer wenn der Insolvenz also genau es ist.
+Für den Fall, dass der.
+Kreditnehmer zahlungsunfähig wird. Dann gehe ich halt leer aus und mache mich verloren.
+Das ist das Risiko eines Kreditgebers. Aber das Risiko ist bei weitem nicht so hoch wie beim Eigenkapitaldurchhalt voll haftet, da muss ja noch nicht mal ein Zahlungsausfall sein oder irgendwie so, sondern schließt dann einfach. Verluste sorgen dafür, dass mein Vermögen sich immer weiter reduziert.
+Reduziert.
+Aktien gehen rauf und ziehen runter.
+OK, jetzt haben wir die Bezugsgrößen auf was weiß ich beziehen a. Da haben wir einmal schon mal das Eigenkapital und zum anderen haben wir uns das Fremdkapital, also Eigenkapitalrendite fremdkapitalrendite. Ich kann es auch zusammennehmen, dann hab ich das Gesamtkapital.
+Oder n Projektkapital oder wie du ne Flussgröße der Umsatz.
+Und das schauen wir uns jetzt mal an. Also es gibt als Beispiele.
+Die Fremdkapitalrentabilität ich kürze es auch. Kleines REK Fremdkapital, wie ist die definiert?
+Fremdkapitalvisionalität.
+Und dann hätten wir noch die.
+Eigenkapital hätten wir, die Fremdkapitalrentabilität.
+Das ist dann oft auch genannt der Zins, der Zinssatz.
+Also Eigenkapitalrentabilität bedeutet wie?
+Tut ist mein eingesetztes Eigenkapital rentiert?
+Also ist es der Gewinn.
+Im Verhältnis.
+Zum Eigenkapital, das ist die Eigenkapitalrentabilität.
+Die Fremdkapitalunternehmen, das ist der Fremdkapitalzins.
+Absolut gesehen ne.
+Also der FK Zins.
+Das Impfzählungsgesetz zu Fremdkapital. Was für ein Symbol ist es?
+Eigenkapital.
+Oben was oben links ist das.
+说话人6 00:18:26
+N
+also das hier soll.
+说话人2 00:18:29
+Dann erst a.
+说话人6 00:18:41
+Wir verlassen, das können wir.
+说话人2 00:18:49
+Okay.
+Dann hätten wir.
+Die Gesamtkapitalrentabilität, also ein REK der Endkapital.
+Das setzt sich jetzt einfach zusammen aus diesen beiden Bestandteilen.
+Also gesamtkapitalrente. Militärisch ist das der Gewinn.
+Plus.
+Die Fremdkapitalzinsen.
+Ja, bezogen auf das Gesamtkapital.
+Das heißt?
+Also FK Plus EK.
+Was ist das hier?
+Was ist los hier, ROS? Wofür steht das?
+Also auch wieder Englisch.
+Nein, ich weiß nicht, was der oben DFK.
+Kannst du mir das Hinsenden ob die Zinsen auf das Zinsen absolute und was sind FKMOK und Android, was ist das Gay bedeutet das das RAGK und oben es gibt ein System ist groß g wie groß GFK Zinsen also muss man kapitalzinsen fahrbeteiligung insgesamt einstellen.
+Okay ros steht für was?
+Das ist das, womit sie.
+Wenn sie unterwegs sind, im Unternehmen ständig und ständig konfrontiert werden.
+Weil es leichter zu erklären ist als zum Beispiel Return on Capital Employee.
+Es ist der Return.
+Ja, genau.
+Heißt.
+Das ist die Umsatzrentabilität.
+Das ist das, was Sie hier sehen. ROS ist Umsetzung und die ist ganz einfach definiert, Gewinn im Verhältnis zu Umsatz.
+Sales ist der Umsatz.
+So, und jetzt könnten wir noch einen draufsetzen.
+Aber jetzt quäle ich sie dann nicht mehr weiter.
+Was aber immer wieder einer der Zielwerte schlechthin ist im Unternehmen.
+Wir haben viel mit Cashflow zu tun und auf der anderen Seite, auf der Cashflow als ein bestimmter Zielwert des Unternehmens und auf der anderen Seite gibt es den sogenannten Rosy oder watchdampfer Italiener.
+Return on Capital Influit.
+Also des Beschäftigtenkapitals.
+Und ganz einfach ist der Gewinn ins Verhältnis gesetzt zum Capital Android.
+Was ist das Captain Ploy?
+Wenn ich mir die.
+Zu.
+Da müssen wir jetzt tief einsteigen.
+说话人1 00:00:01
+Beschäftigte also, das ist Arbeitskapital, sozusagen.
+Da haben wir hier das ganze Umlaufvermögen.
+Kurzfristigen Umlauf.
+Verbindlichkeiten auf diese Lieferung leisten, weil.
+Weil diese.
+Weil die Unverzinslich zur Verfügung stehen. Und dann brauchen wir noch das betriebsnotwendige Kapital, was hier oben steht, also betriebsnotwendige Anlagevermögen.
+So plus plus minus.
+Das ist.
+Gehen wir später noch mal. Nur dass Sie wissen.
+Mir geht es hier darum, das wirklich für das Unternehmen eingesetzte Kapital, was ich jetzt wirklich für die den Sinn und Zweck der Unternehmensführung brauchen, also Captain Andoyd für das Unternehmen.
+Wie gut ist das?
+Darum geht es.
+Und der Witz ist.
+Hier der Return on say.
+Wenn ich jetzt verschiedene Unternehmen betrachte.
+Sehe ich sehr wohl einen unterschiedlichen Return of Sale.
+Aber es gibt schlicht und einfach auch branchenspezifische Unterschiede im Return of Sales.
+Sie haben im Handel ganz andere Return und Sales.
+Daten eines zum Beispiel Maschinenbau.
+Aber egal welcher Branche Sie nachnimmt.
+Der Rosi ist sozusagen branchenunabhängig. Sie möchten ihr eingesetztes Kapital in einer bestimmten Weise.
+Verzinst haben oder rentiert haben.
+Okay das ist nur am Ende also wichtig.
+Wichtig sind die.
+Wichtigste Linie.
+Zunächst mal.
+说话人2 00:01:59
+In Niederbayern heute.
+说话人1 00:02:02
+Jetzt zeige ich Ihnen noch was. Garstiges. Haben Sie schon mal von dem sogenannten Leveraged Effekt gehört?
+Eben ja genau der Hebeleffekt, ne wir, wir reden ganze Zeit über.
+Eigenkapital, fremdenkapital und natürlich kann ich unterschiedliche.
+Natürlich kann ich unterschiedliche Verhältnisse haben zwischen Eigenkapital und Fremdenkapital. Und genau darum geht es bei den sogenannten Leverage Project.
+Also es geht darum.
+Ich hab ihr Eigenkapital. Ich hab hier Fremdkapital. Das kann zum Beispiel sein, hier 40% zu 60%.
+Oder 5050 zu 50 oder 10 zu 90.
+Und der Leverage Effekt? Der besagt Folgendes.
+Jetzt kann ich das auseinandernehmen. Ich hab.
+In dem ersten Term sehen Sie.
+Es geht um die Definition der Eigenkapitalrentabilität. Das ist das, was mit Eigenkapitalgeber interessiert.
+Wenn sie Miteigentümer an einem Unternehmen sind.
+Dann haben Sie Einlagen gemacht und sie möchten, dass die in einer gewissen Weise mindestens rentieren, also dass da entsprechend Geld.
+Zurückkommen.
+Und wir wissen.
+Diese Eigenkapitalrentabilität ist.
+Definiert.
+Als Gewinn.
+Durch Eigenkapital, das wäre die ganz einfache Geschichte. Den Gewinn kann ich aber ganz einfach wiederum definieren, indem ich das, was wir hier gemacht haben.
+Umgestaltet, also Gewinn ist nichts anderes als die Gesamtkapitalrentabilität mal gesamtkapital, das ist versucht, also das ist sozusagen der Zins auf das Gesamtkapital minus dem Fremdkapitalzinsen, dann bleibt übrig der Eigenkapitalzins.
+Das ist eine Umformulierung.
+Also hier, das hier.
+Ist der Zins.
+Auf das Gesamtkapital.
+Die Rentierlichkeit des Gesamtkapitals oder die, die die Rendite aufs Gesamtkapital als Verhältnis, als Prozentsatz, mal die Gesamtkapital.
+Minus.
+Dem Fremdkapitalzins, was nichts anderes ist als der Zinssatz des Fremdkapitals, mal das Fremdkapital und das Ganze bezogen auf das eigentliche Kapital. Und jetzt kann ich das lustig umformen.
+Und komme am Ende genau auf dieses Ergebnis.
+Eigenkapitalrendite.
+Ist gleich.
+Die Gesamtkapitalrendite.
+Als Prozentsatz.
+Plus.
+Die Gesamtkapitalrendite I.
+Die Fremdkristallrendite.
+Rendite.
+Mal Verschuldungsgrad, also FK zu ek
+Hier ist der Verschuldungsgrad.
+Heißt also, wenn ich mir das anschaue, Oh super.
+Je stärker ich mich, je stärker, je höher mein Verschuldungsgrad ist.
+Desto höher wird meine Eigenabteilung ja.
+Super, dann mach ich doch gleich, da hole ich mir ja nur noch Fremdkapital. Hole ich doch nur noch Kredite rein.
+Weil dem Gesetz ist ja die.
+Rendite oder die Rentierlichkeit meines Eigenkapitals immer besser, wenn ich noch mehr über Fremdkapital finanziere. Jetzt kommt das große aber.
+Also erstens mal ja mit zunehmendem Verschuldungsgrad, das ist das hier.
+Erhöhen sich die Eigenkapitalrente?
+So lange gilt.
+Die Gesamtrentabilität ist größer.
+Als der Fremdkapital Zinssatz.
+Und genau das ist der Leverage Effekt.
+Das geht so lange gut, solange das gilt. Also ich kann.
+40 zu 60 kam 30 zu 70 ich kann 10 zu 90 machen.
+Wunderbar in guten Zeiten, in schlechten Zeiten.
+Trifft mich das hart?
+Zeige Ihnen ein Beispiel, wenn man das in den Zahlenausschüttungen sieht.
+Als Beispiel so aus.
+Wir haben hier den, also wir haben hier als fix angesehen, den Zinssatz für das Kapital 10%.
+Sie haben das Gesamtkapital, was wir brauchen für unser Unternehmen, nämlich die 1000€. Und die können wir jetzt unterschiedlich zusammensetzen. Das Gesamtkapital entweder wir haben komplettes Eigenkapital, das wäre hier.
+Oder wir kommen. Wir haben eine weitgehende Fremdfinanzierung, dass wir hier 90 zu 10.
+So.
+Jetzt gehen wir aus, von unterschiedlichen Gesamtkapitalrentabilitäten einmal 12%, aber 10 einmal 6 und das immer bei einem Fremdkapitalzinssatz von 10%.
+Heißt nur bei 12% haben wir mehr eine höhere Gesamtkapitalrentabilität, das heißt je mehr ich Verschuldung in die Verschuldung gehe.
+Desto höher.
+Wird meine Eigenkapitalrentabilität. Das ist wunderbar.
+Wenn wir Gleichstand haben, also 10%, dann tut sich hier gar nichts. Dann hab ich durchgehend 10% auf.
+Sollte aber in schlechten Zeiten, siehe die letzten Jahre.
+Wir haben 4% EZB Zins gehabt, das heißt, der Zins, den ich weile, wenn ich eine Anleihe begeben wollte zu der Zeit der lag dann bei.
+56 7%
+dann habe ich.
+Bei bei einer.
+Wenn ich 6% Gesamturteil und ich hab 0 Fremdkapital, hab ich genau die 6%. Aber wenn ich jetzt die Verschuldungsrate Hochtreibe, dann sehen Sie es sinkt immer weiter und ganz zum Schluss.
+Tatsächlich noch Verluste, weil dann einfach der zu zahlende Fremdkapitalzins meinen Gewinn auffristig übersteigt.
+Und das ist das, was man sich vielleicht nicht bewusst macht. Das macht es ein bisschen auch heikel.
+Eine hohe Verschuldung oder ein hoher Verschuldungsgrad?
+Ist gut, solange die Gesamtkapitalrentabilität besser ist als der Fremdenkapitalzins.
+Aber das kann eben von 2 Seiten gestört werden. Einmal dadurch, dass die das Zinsniveau extrem nach oben geht.
+Ziel 2023 24.
+Und oder.
+Aber bestimmt eigentlich noch, wenn es zusammenfällt. Die Gesamtrentierlichkeit, die Gesamtkapitalrentätigkeit nach unten nicht.
+Wenn dein Geschäft nicht mehr so lukrativ war, wenn die beiden Komponenten aufeinander stoßen, ist einfach ein hoher Verschuldungsgrad.
+Schlecht.
+Das ist der edle Punkt.
+OK.
+Das war der erste Punkt zu dem Thema.
+Rentierlichkeit.
+Kommen wir zum zweiten.
+Oder Rentabilität. Kommen wir zum zweiten.
+Ist die Liquidität.
+Liquidität, wie gesagt, oder?
+Ausreichende Liquidität muss ich eigentlich sagen, bedeutet.
+Dass ich jederzeit den fälligen Zahlungsverpflichtungen nachkommen kann.
+Jederzeit.
+Nicht mag man nicht und dann wieder, ja, nein, immer jederzeit, wenn fällig, dann muss ich zahlen.
+Was ich dabei mit betrachten muss?
+Wenn ich das Plane ist
+die Liquidierbarkeit meiner Vermögensbestandteile und da kommt auch das Ganze.
+Gesamtes.
+Wenn wenn ich mir anschaue, wie Bilanz.
+Dann habe ich grundsätzlich nur.
+Die Liquidierbarkeit.
+Ihr Anlagevermögen ist auf ihr Umlaufvermögen und wenn sie so nach unten gehen.
+Die Positionen, je weiter sie nach unten kommen, desto leichter.
+Forderungen.
+Ganz schnell.
+Und Kasse ist liquide, die steht ganz unten.
+说话人1 00:00:00
+Zum Teil mit Angeziehen meine absolute Liquidität, weil ich kürzlich kurzfristig rausgehen aus bestimmten Angaben.
+So, und jetzt gibt es eine Abhängigkeit zwischen Rentabilität und Liquidität. Einmal konkurrieren, einmal Komplementär konkurrieren.
+Also schlicht und einfach leer.
+Wenn ich in Tagesgeld gehe.
+Da krieg ich ganz schnell. Kann ich von jetzt auf nach und an Geld wieder rausziehen. Ich bin also nicht viele, aber die Verzinsung liegt bei 0,7%.
+Wenn ich das jetzt für ein Jahr binde in Festgeld.
+Ich 2%
+höhere Tierlichkeit, aber die Liquidität ist nicht mehr gegeben, weil ich das Geld nicht rausnehmen kann.
+Das wäre konkurrierend schlechter Verzinsung per tagesgeldversus.
+Längerfristige.
+Bindung in Festgeld?
+Bei höherer Verzinsung.
+Auf der anderen Seite.
+Ist im Sinne der Finanzierung, also der Liquidität.
+Durchaus eine hohe Ventillichkeit. Gut.
+Als.
+Für das Ratingbuch ist.
+Wenn ich.
+Einer Bank vermitteln kann, dass ich.
+Mit einer hohen Rendite Rendite unterwegs bin.
+Dass ich ein rentierliches Geschäft habe.
+Dann bekomme ich viel leichter. Dann ist mein Rating schon mal.
+Besser bei der Bank.
+Ich komme leicht an einen zusätzlichen Kredit und gegebenenfalls auch zu besseren Zinsen.
+Also insofern hab ich hier sehr wohl.
+Indirekten ein ein indirekten Einfluss der.
+Der Rentabilität auf.
+Angekommen.
+Aber wichtig ist, was wirklich ganz wichtig ist.
+Werde ich Ihnen noch ein paar Mal erzählen.
+Sie können ein Unternehmen.
+Mit einer.
+Sehr guten Rentabilität.
+Können Sie gegen die Wand fahren?
+Durch den Mangel an Liquidität.
+Das ist nicht im Widerspruch.
+Und ganz im Gegenteil, Es gibt Situationen.
+Wo das, wo die Gefahr extrem groß ist, gerade bei extremem Erfolg.
+Wenn sie zum Beispiel ein Neues.
+Unternehmen aufbauen mit dem Produkt und das zieht an und dann denken sie wieder an diese.
+Diese Zyklusgeschichten sie haben.
+Verschiedenen Perioden haben sie dann.
+Ich fange jetzt einfach hier an. Es geht so hoch.
+Wunderbar toll. Toller Erfolg.
+Aber wenn sie, wenn das n Produkt ist, was produziert werden muss. Sie haben vielleicht n Führkaufszeit von 345 Monaten.
+Dann heißt es ja immer, Sie müssen in die Vorfinanzierung gehen für die für die zugekauten Produkte und für die Leistungen, die erbracht werden müssen, um das Ding dann auf den Markt zu bringen. Wenn ich in so einer Phase hier bin, heißt es, ich muss jedes Jahr mehr vorfinanzieren.
+Bekomme aber nur den Umsatz zurück von dem aktuellen Jahr und wenn wenn die wenn ich in so ein Extremwachstum mit 2530% bin, dann kann es einfach sein, dass ich durch diese.
+Vorfinanzierung von notwendigen Vorfinanzierungen das, was zurückkommt, den Rückfluss.
+Das übersteigt.
+Und dann hätte ich tatsächlich das Problem.
+Dass ich jetzt in der Liquiditätsfalle Falle, falle ja.
+Nachvollziehbar.
+Also super erfolgreich.
+Wahnsinniger Wachstum kann aber dazu führen, dass ich mich übernehme.
+说话人2 00:03:35
+Ja, und dann haben wir ja eigentlich wieder Kredite aufnehmen wollen. Und dann?
+Alles.
+说话人1 00:03:42
+Verbinden, wenn das so ist, ja.
+Aber man.
+Dauert es zu lang, oder?
+Jetzt kommen wir noch zur Sicherheit.
+Es ist völlig klar. Unternehmen.
+Müssen recyceln, eingehen.
+Es gibt kein Unternehmen und es gibt kein Geschäft ohne Risiko. Das gibt es einfach nicht.
+Aber unser Ziel ist es, und das ist eben auch ein eine Aufgabe, die unter anderem von der Finanzwirtschaft.
+Dieses Risiko oder diese Risiken, die wir eingehen, möglichst klein zu halten. 0. Risiko gibt es.
+Oh, erinnern Sie sich noch?
+An Kosten. An Wagnisse.
+Wagnis.
+Sagten nicht spezifische Einzelwagnisse.
+Und der Kommerz ist in die Richtung.
+Also wir haben ganz sicher auch hier wieder einen Zielkonflikt zwischen Sicherheit einerseits und Rentabilität andererseits.
+Wenn wir.
+Also mal ganz extrem gesehen.
+Wenn sie sich wissen Sie, was Anleihen sind.
+Also auf Englisch bons.
+Obligationen sind.
+Ist das gleiche Schuldgestaltung.
+Dass Anleihen.
+Wissen Sie, was das ist? Also Unternehmen begibt über die Börse.
+Anleihen, Das ist Fremdkapital, das ist ein Kredit, der quasi über die anonyme Masse über die Börse aufgenommen.
+Das können.
+500000000€ sein, die in der Stückelung von 1000,00€ auf den Markt gebracht.
+Solche Anleihen können Sie kaufen.
+Die können sich auch kein Wasser, also sie können gestückelt kaufen, solche Anleihen.
+Und jetzt gibt es Anleihen auf dem Markt.
+Die bringen Ihnen 10%.
+Rendite.
+Die Bäche bringen 12%.
+Und es gibt welche, die Prämien kreuz.
+Mal so in einem Zeitraum 2 bis 4 Jahre.
+2 bis 4 Jahren Restlaufzeit sich anschaut, da bringen die ihnen.
+2,5%.
+Was sind das für Dinge, die da 1012% bringen?
+Extrem unsicher.
+Wie werden die auch gezeichnet?
+Einen Namen dafür.
+Richtig.
+Das sind extrem unsichere Papiere, aber viele lassen sich davon.
+Faszinierend. Und meine Herren?
+Junk Bonds haben Sie das schon gehört?
+Also das ist wie eine Wette.
+Wenn Sie da n Papier haben was, das kann man ja berechnen, die werden dann mit dem Nominalwert von 100 werden gehandelt, vielleicht zu 60% noch von dem Nominalwert, das heißt ihre Gesamtverzinsung bei einer Restlaufzeit von 3 Jahren, die wäre rechnerisch bei 1015% super.
+Besser kann man sein Geld nicht anlegen, nur mit dem kleinen Haken, dass die Wahrscheinlichkeit der Rückzahlung.
+Gering ist.
+Und dann ist es natürlich ein.
+Ja, absolutes Verlustgeschäft.
+Also das ist damit gemeint. Nun die Rentabilität, ich kann es da Reingeben, in der Hoffnung, dass alles gut geht, dann ist es toll 15% das eingesetzte Kapital genial.
+Aber die Sicherheit ist halt nicht gut, dass es da die Gegenposition, das gilt genauso auch des Unternehmers.
+Wir haben.
+Bestimmte Risiken, die wir natürlich mindern können. Was man aber.
+Teilweise wieder zu Lasten der Rentabilität geht.
+Bis hin, dass wir Versicherungen abschließen. Jede Versicherung kostet Geld in Zukunft bedeutet das, wir verzichten auf Rentabilität.
+Solche typischen Risiken, um die die uns kümmern.
+Das sind Gegenparteirisiken.
+Ne, das ist das, dass der andere ausfällt.
+Da kann ich mich auch dagegen absichern.
+Sogenannte Hermeskredite um internationales Geschäft geben.
+Dann wär ich bescheuert, wenn ich nicht so n so ne Absicherung, so ne Herz Absicherung machen würde, ne.
+Das ist viel zu riskant.
+Kostet mich aber ein bisschen ein Stück weit, meine meine Rentabilität.
+Marktpreisrisiken also, dass sich Zinsen verändern oder Währungen verändern.
+Was?
+Was gibt es dafür zu sagen? Was ist das Problem?
+Was ist das Problem von Währungen?
+Warum stört mich das?
+Das ist das Risiko für mich.
+Bei Währungsänderungen.
+Das ist ne ganz wichtige Geschichte, weil die halt wirklich im internationalen Kontext unterwegs sind.
+说话人3 00:09:15
+Jetzt zum Beispiel der US Dollar, der jetzt einen Wert verloren hat im Vergleich zum Euro.
+Blödes Beispiel, Man hat ein Unternehmen in Deutschland, hat ne Fabrik in den USA verkauft dort.
+Relativ gut.
+Waren und möchte die Gewinne nach Deutschland bekommen.
+Das ist blöd. Findet oder geht.
+Abgeordnete verliert, weil dann der Gewinn in Deutschland.
+说话人1 00:09:48
+Das ist richtig.
+Zum Beispiel Ja.
+Noch dieses Beispiel ist schon ganz gut. Noch extremer ist es, wenn sie daran denken oder wenn die Vorprodukte aus Europa kommen.
+Sie müssen bezahlen in Euro.
+Sie haben die Arbeitskräfte hier, die in Euro bezahlt werden, sie machen den Umsatz in US-Dollar, was vorher definiert worden ist. Sie machen ein Angebot.
+Und dann haben sie ne Abwertung des US Dollars. Das kann bedeuten, dass.
+Ein lukratives Geschäft.
+Auf einmal rot wird.
+Durch diese Währungsschwankungen.
+Weil ihre Kosten, ihr Aufwand im Sinne von der Gewinn und Verlustrechnung.
+Verändert sich nicht.
+Aber der Umsatz, wenn ich den Umrechne von US Dollar in.
+In Euro. Der verändert sich gravierend.
+Und dann hab ich gegebenenfalls eben nicht mehr ein Plus, sondern ein Minus.
+Als Ergebnis des Projekts.
+Was kann ich dagegen tun? Wir fragen uns ja, wir möchten Risiken abmindern was kann ich dagegen tun?
+Kein Geschäft machen jetzt.
+Keine gute Idee.
+Was kann ich gegen ein solches Währungsrisiko?
+Finden.
+Nicht so einfach ist los.
+Also stellen Sie sich vor, sie sind genau in der Situation.
+Sie haben einen.
+Kunden in den USA oder irgendwo auf der Welt. Und Sie vereinbaren. Ok, es wird in US Dollar gezahlt.
+Und Sie wissen genau, OK.
+Ich liefer das aus im.
+Im Januar und sagen wir mal, ich bekomm dann eben auch meine.
+Die vereinbarten 10000000 US Dollar.
+Was kann ich tun?
+Verkaufen wir, dann kaufen wir, wir verkaufen, wir produzieren hier.
+Eine Maschine, eine sehr, sehr aufwendige Maschine und verkaufen die für 10000000 US Dollar, aber wir produzieren sie hier und der Verkauf findet statt, aber das muss Februar sein.
+Verkauf also es wird. Ich vereinbare das Geschäft jetzt, ich muss das Ding noch konzipieren und produzieren und es verkauft wird es im Februar.
+Für 10000000€.
+说话人3 00:12:39
+Wenn ich das Geld früher einholen vielleicht.
+Das.
+说话人4 00:12:45
+Also bei bei solchen Projekten kann.
+说话人1 00:12:46
+Man wirklich nur sagen O.
+K es gibt ne Anzahlung durch den.
+Mit den Kunden von 30% vielleicht ja denkbar.
+Was können wir aber noch machen?
+Von der Finanzwirtschaft aus.
+说话人3 00:13:00
+Weiß ich n bisschen was hergeholt, aber vielleicht mit so anderen Metametern wie beispielsweise Gold oder so.
+说话人1 00:13:06
+Also da sind ja auch Schwankungen ausgesetzt und nicht unerheblich.
+Wir haben zurzeit einen Goldkurs, der geht extrem nach oben, der ist gar nicht mehr so richtig begründbar. Es kann auch sein, dass der demnächst wieder fällt, dann habe ich.
+Habe ich nur mein Risiko verschoben auf eine andere Art von Risiko?
+Das Problem ist am Ende.
+Glaube ich. Die Euro hier, weil ich hier lebe.
+说话人3 00:13:32
+Kunden in Euro zahlen lassen.
+说话人1 00:13:35
+Das werden sie nicht schaffen bei vielen.
+Themen.
+Weil der hat. Das wär dann schlicht und einfach der Transfer des Risikos auf den Kunden.
+Aber wenn sie die Marktmacht haben, machen Sie es so, aber sie werden es kaum machen. Also die Weltwerbung ist derzeit auf jeden Fall noch der US Dollar.
+Also was kann man machen als Unternehmen?
+Versicherungsgedanke.
+Ich.
+Ich kann den Kurs absichern.
+说话人3 00:14:12
+Ja, ja, ich wollt sagen, man kann es vielleicht vertraglich vereinbaren, so dass zu dem Kurs verkauft wird, oder?
+说话人1 00:14:17
+Das kann der andere nicht machen, oder? Ja, dann könnt ihr gleich in Euro zahlen.
+Aber es, aber letztlich haben Sie recht. Also es geht über ne dritte oder ne dritte Partei, eine Bank.
+Wo ich eine eine.
+Eine Währungsabsicherung machen. Ich sage also, es sind voraus. Ich sag zum Beispiel, im Februar bekommt die Bank 10000000€ zu einem Kurs von heute.
+Und ich möchte dann eben dieses Geld immer gewechselt bekommen in Euro zu dem heute gültigen Kurs.
+Jetzt ist es natürlich so, das Macht die Bank nicht für umsonst, sondern die lässt sich und bezahlen. Diese Absicherung, das ist dann wie ne Versicherungsgebühr.
+Und jetzt können Sie sich fragen, warum ist denn die Bank zu blöd und übernimmt dieses Risiko?
+Geht die dann geht dann nicht auf der anderen Seite die Bank ins Risiko?
+Aber was muss man dabei bedenken?
+Wir sind einer der Kunden. Es gibt viele Geschäfte, die Laufen über die Bank und es geht in die eine Richtung, aber auch in die andere Richtung. Das heißt, die Bank sorgt dafür, dass es genug Gegengeschäfte gibt, die sich gegenseitig.
+Annullieren können.
+Die Bank lebt nicht von dem Spekulationsgewinn.
+Die Bank spekuliert nicht auf einen wachsenden US Dollar oder auf einen schrumpfenden US Dollar, sondern die die Bank achtet auch, dass das in ihrem Portfolio ausgeglichen ist. Und was was ist der Gewinn der Bank?
+Die die Gebühr für diese Währungsabsicherung, das ist der Gehinderte.
+Das kann sie aber eben nur machen, weil sie zigtausend Geschäfte in alle Richtungen laufen lassen, ich aber nicht. Bei mir geht es in eine Richtung dorthin, und das möchte ich abgesichert haben.
+Verstehen Sie das?
+Also ich gebe mein mein Risiko ab an die Bank, ich bezahle dafür und die Bank sorgt dafür, dass sie auch nicht im Risiko steht.
+Auf auf durch den Ausgleich verschiedener Geschäfte.
+Ist ein ganz anderes Businessmodell.
+OK.
+Ist es bei ihnen angekommen?
+Ähnliches hab ich aber vorhin drüber gesprochen. Zinsrisiko, sie gehen heute in Kredit, ein Hausbau von 3,5%.
+In 10 Jahren soll sie umschulden und auf einmal liegen sie bei 8% das bricht ihnen das Genick.
+Wie können wir sich dagegen absichern? Längerfristige Kreditaufnahme mit dem dann vielleicht etwas schlechteren Zins, dann haben sie halt nicht 3,5, sondern 3,9 zu bezahlen waren sie 15 Jahre den Kredit.
+Liquiditätsrisiken haben sie ne Anspannungsrisiken, weil zum Beispiel ihnen Ihre wichtigste Maschine abfackelt?
+Haben sie nicht damit gerechnet? Das ist nicht geplant, das heißt, sie müssen aber jetzt eine neue Maschine kaufen.
+Können Sie versichern.
+Kostet Geld.
+Oder sie brauchen halt zusätzliches Kapital, um das.
+Und um diesen Ausfall dann zu kompensieren.
+Ganz üble Geschichten sind dann solche, also ganz viele solche operationellen Risiken, die der Ausfall der IT.
+Wir waren, wir waren schon mal in dem in so einem.
+Na.
+Im IT-Zentrum eines Unternehmens.
+Wie heißt.
+Im Rechenzentrum eines Unternehmens im Rechenzentrum eines Unternehmens, das dies, das sind hermetisch abgeschlossene Bunker.
+Aber weil einfach die Gefahr, wenn da was kaputt geht und wenn das Abfackelt oder wenn wenn.
+Die ist einfach, da kommt das komplette Geschäft zum Erliegen, da geht ja nichts mehr, kein, keine Rechnung geht raus, keine Bestellung geht raus und es geht auch nichts rein.
+Also auch dafür müssen sie.
+Finanzwirtschaftlich zum Teil Vorsorge leisten also darum geht es bei der Sicherheit.
+Jetzt merke ich schon, dass ich ziemlich angespannt sind. Zunächst mal fang ich wieder mit Vorlesungen an.
+Und dann gehen wir tatsächlich in der zweiten Stunde.
+In die Übung, was zunächst mal wirklich zur Wiederholung dessen ist, was wir gemacht haben.
+Und dann gebe ich Ihnen gleich noch ein paar Tipps mit.
+Die Übung, die ich mache.
+Ist nichts anderes als eine direkte Vorbereitung auf die.
+Also ich mach es eben damit einfach. Sie kriegen damit. Mit jeder Übung haben Sie dann einen Katalog, Anfragen und Aufgaben zu, wie sie auch in der Prüfung drankommen werden.
+Also die beste Vorbereitung.
+Auf die Prüfung geben Sie die Übung.
+Und das Verständnis für das, was wir in der Übung machen, das versuche ich Ihnen in der Vorlesung zu vermitteln.
+Und wenn Sie Fragen haben, bitte. Am liebsten ist mir das wirklich, es wird ein bisschen so ein Diskurs entstehen, sonst bin ich ständig monologisieren.
+Kragen ihrerseits.
+说话人3 00:19:13
+Ich würd gern Fragen stellen, ja, aber ich weiß nicht was das ist halt eher so das schwierige also.
+Das ist ja also mir wär's auch lieber, wenn ich Fragen stellen würde, aber das ist dann, vielleicht muss ich mir mal überlegen, ob.
+说话人1 00:19:23
+Ich Ihnen jedes mal Artikel mitgebe, die Sie lesen.
+Sollen von der SZ oder darauf verweise und dann kann man das mal wenigstens am Anfang kurz.
+Ok, dann wünsche ich Ihnen auf jeden Fall jetzt noch einen guten Start ins neue Semester.
+说话人2 00:19:42
+Und viel Erfolg und Spaß beim Sturm.
