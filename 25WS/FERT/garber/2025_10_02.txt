@@ -1,0 +1,1098 @@
+Fertigungstechnik
+zu machen. Davon haben Sie eine ganze Menge. Sie haben Milch, Sie haben ein Küsseer-Kugel-Ei für die fliegenden Verfahren und Sie haben, wir machen die hier, die Urformelverfahren.
+Genau, also ich mache strahlende und umformelnde Verfahren und wir werden uns vor allem die Verfahren abrufen.
+Die Fertigungstechnik ist ein großes Gebiet. Wir machen die Anbieter.
+Die muss man als Wirtschaftsingenieur auch kennen.
+Es reicht nicht, eine gute Idee zu haben, ein gutes Produkt zu haben.
+Man muss auch wissen, wie man das herstellen kann. Und das am besten kostengünstig.
+Machen wir ein bisschen organisatorisch. Es gibt einen Moodle-Kurs.
+Haben Sie den schon gefunden?
+der jetzt behandelt wird, also wie heißt das, Kalkülungstechnik, kurz mal schnell auf das Internet, das sollte es sein, wo ist die Maus, da ist eine Maus, cool,
+Also, der Kurs ist das.
+Da sind meine Unterlagen und das...
+Das Semester hat es alles gemacht.
+Dann nehme ich das klassische Tabel.
+Kennwort für den ist
+so.
+Einmal rum war,
+das weiß der ein oder andere,
+tanze ganz gerne,
+dann kennt man das aus keiner Hand.
+In dem Kurs gibt es hier ein Forum, das heißt Fragen und Antworten.
+Da können Sie alle anschreiben, da lesen alle mit.
+Sie können Fragen dort loswerden, ich kann antworten, die anderen können auch antworten.
+Das ist zum Beispiel für die Prüfungsvorbereitung ganz gut.
+Wenn da Unklarheiten sind, schreiben Sie da rein.
+Das ist besser, als wenn Sie nur mir eine E-Mail schreiben, das ist unfair.
+Wenn ich einem von Ihnen etwas sage und dem anderen nicht,
+Das heißt, wir machen dann hier die Fragen gerne darüber oder eben hier nach der Vorlesung jederzeit.
+Ja, das ist das.
+Dann finden Sie in dem Kurs Organisatorisches.
+Da steht gar nicht viel drin.
+Da kommt gar nichts.
+Eine Literaturempfehlung.
+Ganz ehrlich, die brauchen Sie nicht.
+Sie brauchen keine Literatur, keine Bücher.
+Die Unterlagen reichen völlig aus hier.
+Aber ich soll Ihnen eine Literaturempfehlung geben, also habe ich dort eine Literaturempfehlung.
+Die Bücher sind ganz schön. Praxis der Zerfahntechnik, Praxis der Rundformtechnik.
+Aber es ist viel zu viel. So viel schaffen wir gar nicht in einer kleinen Vorlesung.
+Wenn Sie Spaß an dem Thema haben, gerne können Sie diese Bücher lesen.
+Aber Sie lassen es nicht für die Vorlesung machen.
+Also nicht unbedingt für die Vorlesung.
+Dann haben wir rund um die Prüfung.
+Das ist ein Formelblatt.
+Ich gehe mal rauf.
+Da sind ein paar Formeln.
+Das bekommen Sie für die Prüfung.
+In der Prüfung haben Sie diese Formeln.
+Die müssen Sie nicht auswendig lernen.
+Das ist bei der Prüfung immer die letzte Seite.
+Dann drucke ich Ihnen mit aus.
+Die machen Sie dann dabei.
+Und was Sie hier auch finden, sind alte Prüfungen.
+Alle mit Lösungen? Ja.
+Oh, die Prüfung Inhalt muss ich noch löschen.
+Das war vom letzten Semester.
+Das nehmen wir nicht noch raus.
+Gut, das sind also zu den Themen.
+Und dann haben wir hier unsere Themen,
+wir sehen hier Sägen habe ich ausgenommen,
+warum nicht.
+Wir starten mit der Zerstrahlung.
+Und Sie finden hier zum Beispiel das Bild, alles was ich hier zeige, das finden Sie dort
+auch.
+Und ich habe hier und da mal solche Kurztests, die sind für Sie, die können Sie machen,
+müssen Sie nicht machen, mir egal, die können Sie so oft machen, wie Sie wollen, ich sehe
+das Ergebnis gar nicht.
+Das interessiert mich nicht, ob Sie es machen, wie oft Sie es machen, ob Sie gut oder schlecht
+waren.
+Einfach ein Test, dann sehen Sie, ob das, was wir gemacht haben, ob Sie es verstanden haben oder nicht.
+Können Sie ein bisschen selber für sich ausprobieren.
+Und dann habe ich hier noch was, da sage ich was zu.
+Übersicht über Sparren und Verfahren. Das ist eine kleine PDF-Datei.
+Die können Sie sich selbst angucken.
+Das muss ich hier nicht vorlesen.
+Was ist Fräsen, was ist Tränen?
+Bauen Sie sich das selber an.
+Ja, das ist nicht viel. Nehmen Sie sich einmal fünf bis zehn Minuten und blättern Sie es mal durch.
+Okay, so weit ist der Google-Kurs. Wenn da Fragen sind, einfach.
+Ja, hier.
+Gut.
+Gibt es bis dahin Fragen? Irgendwas unklar? Irgendwas, was Sie noch brauchen von mir?
+Dann starten wir. Und ich will nicht gleich mit dem Verfahren anfangen, sondern wir haben uns so geeinigt, wir sind ja drei Kollegen, die Fertigungstechnik machen.
+Ich mache so ein bisschen was zum Thema Grundlagen, zur Fertigungstechnik.
+Dann kommen wir mal langsam rein.
+Einzelne Dinge sehe ich da oben.
+Da haben wir den, oder? Eine andere Sorte.
+Wissen Sie, wie viele Dosen pro Jahr der Hersteller herstellt?
+Wie viele Dosen Red Bull gibt es pro Jahr?
+Schätzen wir mal, genau, mindestens einer. Schätzen wir mal, wie viele Dosen pro Jahr produziert werden.
+100 Millionen? Das würde heißen, in Deutschland trägt jeder Bewohner im Jahr anderthalb Dosen und
+der Rest der Welt trinkt gar nichts. Das reicht nicht. Also ich habe geschaut, von 2024, da
+stehen wir Milliarden, also 12,7 Milliarden Dosen stellen wir her und das macht pro Sekunde
+400 Dosen. Und jetzt ist klar, die Fertigungstechnik spielt eine zentrale Rolle darüber, was der
+Spaß kostet. Wenn Sie 400 Dosen in einer Sekunde herstellen müssen, mit Inhalt, mit Verschluss,
+mit Aufdruck, so wie es hier ist aus Blech, dann ist Fertigungstechnik gefragt. Wie fertigt man das?
+Zum Beispiel die Frage, wie fertige ich das? Welches Verfahren mache ich, um so eine Dose herzustellen?
+es gibt viele möglichkeiten oder wissen sie welche wandstärke diese große wie
+dick ist das blech wir wissen wir können nur dose mit zwei fingern müssen
+eindrücken schätzen sie mal wie dick ist das blech von einer dose welche
+Das ist viel zu teuer. Einen Millimeter wollen sie nicht bezahlen, weil letztendlich wiegt das dann ein Zehntelgramm mehr und das wollen sie nicht.
+nicht. Also unter 0,2 Millimeter. 0,15, 0,16 Millimeter hat die Red Bull Dose. Wenn man sich ein bisschen erinnert,
+zehntel gramm mehr kostet immer aluminium preis ein kilo aluminium kostet zurzeit auf der welt
+2,5 dollar ein kilo 200 200 euro und wenn sie ein zehntel gramm nur einsparen bei der große
+Das ist eine ganz kleine Flöße. Sparen Sie damit schon 3 Millionen Euro, als wir jetzt hier haben.
+Was kostet so eine Dose? Jetzt zur Zeit im Handel. Was haben Sie bezahlt?
+Wer weiß, ist jemand nachher den anderen? Trinken wir vielleicht Bullsons? Was kostet der Spaß?
+0,25.
+Ja, aber was zahlt Ihr Geschäft? Was bezahlen Sie? Sie bezahlen mehr.
+1,5 Euro, je nachdem, je nach Tageszeit, an der Tankstelle, wo man soll, um ein Sonderangebot für 1 Euro, irgendwo da.
+Jetzt die Frage, was kostet die Dose den Herstellern? Wie viel Gewinn macht ihr damit?
+Und da wird angegeben, also ihr macht ein bisschen ein Geheimnis daraus,
+ungefähr 17 Cent kostet das in der Herstellung.
+Dann wissen Sie, dass der 83 Cent Gewinn macht an jeder einzelnen Dose.
+Aber 17 Cent, das ist der Einkauf von dem Blech,
+das ist das Herstellen, das Füllen, das Bedrucken, der Verschluss,
+alles für 17 Cent.
+Das ist Fertigungstechnik vom Feinsten.
+Also wirklich perfektioniert in der Serienfertigung funktioniert.
+Anderes Beispiel, das ist eine Kurbelwelle.
+Das heißt, Sie können hier neue Stangen drauf machen und wenn Sie die Kurbelwelle drehen, dann fährt diese Stange hier hoch und runter.
+Also hier so eine neue Stange.
+Eins, zwei, drei, vier.
+Wie stellt man die her? Da gibt es jetzt mehrere Möglichkeiten.
+Mitschreiben müssen Sie noch nicht, das ist alles nur ein bisschen eine Einleitung.
+Also wir können Stahl nehmen, ihn walzen, dann pressen, schmieden, wir gehen das alles noch durch.
+Nach dem Schließen, die Ränder weg, stanzen, kalibrieren, das ist ein sehr genaues Formenregen, vermühten, das ist ein Härterverfahren, fräsen, schleifen, da muss es auch waschen hinterher und dann wird die Oberfläche nochmal gehärtet.
+Nicht auswendig lernen, nur das Beispiel.
+Das heißt, so eine Herstellung braucht viele Verfahren.
+Man kann es auch ganz anders machen.
+Man kann das Ganze auch gießen.
+Also direkt in Form gießen, dann muss man es aus der Form herausnehmen und dann fräsen,
+schleifen, waschen, das bleibt alles gleich. Das wäre ein anderes Verfahren. Jetzt kann
+man sich aussuchen, was man macht. Welches ist das bessere Verfahren? Das zweite ist das billigere.
+Das erste gibt aber bessere Qualität. Also schmieden ist gut für die Festigkeit,
+Ich habe manchmal mehrere Sachen zur Auswahl und da sprechen wir gleich nochmal drüber,
+wie entscheidend denn was ist denn.
+Und das mit der vielen Auswahl.
+Jetzt weiß ich nicht, wie gut bei Ihnen die Deutschkenntnisse sind, was die Verfahren
+angeht.
+Wenn ich so einen kleinen Bolzen herstellen will, so klein, in der Größe, in der Form, wie mache ich das?
+Haben Sie eine Idee, welche Verfahren man nehmen kann?
+Und kennen Sie hier auf Deutsch die Begriffe?
+Wie stellt man so etwas hin?
+Das ist wieder was da.
+Rehren.
+Rehren?
+Ja.
+Was noch? Schneiden. Schneiden? Was genau ist das mit Schneiden? Also, das ist ein Falschwort, nicht aus Blech. Schneiden ist typischerweise aus Blech.
+Wenn Sie ein Blech haben, ein flaches Blech, und dann etwas rausschneiden. Das wäre Schneiden. Das geht nicht bei Runden.
+Guss.
+Gießen?
+Gießen ist eine Verhandlung aus Guss herstellen.
+Gießen, genau.
+Was noch?
+Karts tauschen.
+Noch mal.
+Karts tauschen.
+Karts.
+Karts.
+Karts tauschen.
+Kart.
+Das bin ich gerade überfangen.
+Wie schreibt sich das?
+Karts fließt pressen.
+Fließt pressen.
+Ja.
+Okay, ja.
+Und dann den...
+Wenn ich Sie frage, wie stellt man das her,
+müssen Sie als erstes
+zurückfragen, wie viele
+soll ich denn herstellen?
+Wenn ich
+10.000 Stück machen will,
+dann gehe ich nicht an die Drehmaschine.
+10.000 Mal so ein kleines
+Teil in die Drehmaschine tun,
+abdrehen,
+wieder rausnehmen, das nächste Teil
+reinnehmen, drehen,
+viel zu lange.
+Wenn ich das
+in großen Mengen machen will,
+muss ich andere verfahren, wenn ich schneller gehe. Wenn ich einen Einzelnen brauche, was mache ich dann?
+Dann kann ich das alles machen. Aber Fließpressen ist ja nicht gut. Fließpressen heißt, ich presse das in eine Form.
+Dann muss ich ja erst die Form herstellen. Das mache ich nicht für einen Teil. Das heißt, diese beiden hier
+brauchen eine Form. Und das ist deswegen gut für die Serienfertigung, wenn ich viele brauche.
+Und hier brauche ich keine Form. Ich kann direkt in die Maschine gehen, anfangen. Das heißt,
+Das ist die Einzelverbindung.
+Oder kleine Schnittzahlen.
+Einzelverbindung.
+Würde ich nur einen brauchen, mache ich hier was.
+Also ich habe viele, viele Möglichkeiten.
+Und ich kann noch viel mehr machen.
+Ich kann das schmieden.
+Ich kann auch hier zwei Teile nehmen.
+Ich trenne das hier.
+Ich mache diesen Teil.
+Ich mache den Teil.
+Und klebe oder schweiße.
+Also es gibt ganz, ganz viele Möglichkeiten.
+Und unsere Aufgabe ist jetzt halt, dass Sie die Verfahren kennen und dann das Richtige aussuchen, wenn Sie eine Idee haben für ein Problem.
+So, das waren nur Einleitungen. Das ist ja nur ein bisschen Einstieg in die Thematik.
+Wir haben also, wir gucken uns gerade noch ein bisschen an die Definitionen und die Hauptgruppen.
+Da hätte ich gerne, dass Sie die kennen.
+Dann, welches Verfahren ist das Beste? Schauen wir uns das an.
+Und einen ganz kleinen Augenstieg machen wir in der Verkaltungsorganisation.
+Ich weiß nicht, ob ein Kollege das später noch macht, aber so ein bisschen, das sind fünf Minuten, um einen Antrieb zu machen.
+Man kann mit der Fertigungstechnik sehr, sehr, sehr viel machen.
+Und wir haben nur zwei Stunden in der Woche, also machen wir vor allem die Spanenden und die Generativen.
+Ja, die Generativen habe ich auch nicht. Die Spanenden und die Unformelten haben wir.
+Gut, also ganz schnell, was ist überhaupt Fertigungstechnik?
+Dazu dieses Bild.
+Die Fertigungstechnik ist ein Teil der Produktionstechnik.
+Also wenn Sie die Wörter hören, das Große ist die Produktionstechnik.
+Und produzieren können wir viel.
+Wir können Energietechnik betreiben, Energie produzieren, Energie speichern, Energie verteilen.
+Das ist die Energietechnik, ein Teil der Produktionstechnik.
+Und jetzt unterscheiden wir, ob wir feste Körper werden oder Stoffe wie Gase oder Öl oder etwas in der Richtung, Raffinerien.
+Das ist die Verfahrenstechnik, das ist mehr Chemie, sehr chemisch.
+Und alles, was feste Stoffe, feste Körper herstellt, Produkte, die man in die Hand nehmen kann, das ist die Fertigungstechnik.
+Die Herstellung. So genau wie nötig, mit den Eigenschaften, die wir haben.
+Also Fertigungstechnik ist ein Teil der Produktionstechnik und es geht dabei um die Herstellung von Kasten.
+Das ist dieser Überblick, Produktionstechnik mit den drei Teilen.
+Das ist eine klassische Einteilung. Manches ist nicht ganz klar. Ist Softwareproduktion auch produktionstechnisch?
+Und wenn ja, welche? Die passt halt nicht. Oder wenn ich Bücher produziere. Bücher kann man in die Hand nehmen, die gehören dann auch mit rein.
+Oder wenn ich Brot produziere oder Lebensmittel. Gehört das da auch mit rein?
+Ja, irgendwie schon, aber so richtig passt es auch nicht.
+Egal, wir beschäftigen uns mit diesem Teil hier und werden die Produktionstechnik hören.
+Das ist das große und fertige Technik einstellbar.
+Ja, da müssen wir einsteigen in die Thematik.
+Ab hier können Sie jetzt Übung fragen.
+Es gibt wahrscheinlich Tausende von Fertigungsverfahren.
+Und da hat man hier vor 80 Jahren sich mal getroffen und gesagt, das muss man klassifizieren, ein bisschen gruppieren, eine Übersicht schaffen über die vielen Fertigungsverfahren.
+Und wir machen einfach mal sechs Gruppen von Fertigungsverfahren.
+Das sind die Hauptgruppen.
+Buchformen, Umformen, Brennen, Fügen, Beschichten, Stoffeigenschaften, Änderungen.
+Da kann man alles drin einsortieren.
+Ich sag gleich, wir kommen gleich darauf zu sprechen.
+Aber diese sechs Hauptgruppen hat man bis heute weiter gepflegt.
+Und Sie können also hier einen Überblick schaffen über Verfahren.
+Wenn Sie wissen wollen, welches trennende Verfahren gibt es?
+Trennen wäre jetzt Ihr Besitzer, Hauptgruppe.
+Dann können Sie da reingehen und dann gibt es hier Untergruppen.
+Einteilen, teilen, sparen mit geometrisch bestimmter Schneide, sparen mit geometrisch unbestimmter Schneide.
+Abfragen, zerlegen, reingeben, evakuieren hat man da nochmal Untergruppen gemacht.
+Und das reicht ja immer noch nicht, aber jetzt sparen wir Geometrikerschneidenden, was das ist, machen wir gleich noch.
+Da gibt es wieder Untergruppen, drehen, bohren, fällen, holen, rollen, sägen, teilen, bürsten, sparen, schrauben und so weiter.
+Das hat man wieder Untergruppen gemacht und das kann man noch weiter teilen.
+Hier gibt es plan drehen, rund drehen, längs drehen, quer drehen und so weiter.
+Das heißt, man hat so eine Raumstruktur dann geschaffen, wo Sie wirklich alle Fertigungsverfahren finden, tausende.
+Und natürlich müsste die nicht alle auswendig werden, das kann ich auch nicht.
+Aber ich hätte gerne, dass Sie hier oben die erste Reihe, dass Sie die wissen.
+Und deswegen gehen wir da gerade noch mal ein bisschen drauf ein.
+Übrigens, wenn irgendwas unklar ist, wenn Fragen sind, kurz einfach melden.
+Also jederzeit bei mir dürfen Sie alles fragen, immer fragen, wenn etwas unklar ist.
+Ansonsten, gerade für Ihre Gruppe jetzt, verstehen Sie alles? Rede ich zu schnell? Passt das so?
+Passt?
+Es kommt nicht auf die schnell oder langsam, es gibt fremde Worte und später zuhause
+ich auswendig
+lernen.
+Ja,
+wenn Sie
+irgendwo
+von
+anderen Chinesen aus
+Hangzhou, die schon vorher hier waren,
+bekommen Sie dort
+Wörter? Ich habe gehört, dass einige
+so ein kleines Wörterbuch, eine Wörterliste
+haben, die Sie
+weitergeben. Gibt es das noch?
+Nicht?
+Das können Sie im nächsten Jahr dann weitergeben. Wenn Sie jetzt so etwas machen, dann können Sie es weitergeben.
+Okay, prima. Dann starten wir mit den sechs Hauptgruppen.
+Die erste Hauptgruppe heißt Urformen.
+Urformen heißt, die haben vorher keinen festen Stoff.
+Sie haben eine Flüssigkeit, ein Pulver oder etwas und machen erst mal einen festen Kater daraus.
+Das heißt, vorher haben Sie einen formlosen Stoff, Karin Gas, irgendetwas, das keine Form hat.
+Und durch chemische Verbindung wird ein fester Kater daraus.
+Und dann, warum geht das nicht weiter?
+So, jetzt sind wir erst mal hier angefangen.
+Wenn wir zum Beispiel am Anfang eine Flüssigkeit haben und die wird fest, reden wir vom Gießen.
+Wenn wir am Anfang eine leicht steigige Masse haben, eine weiche Masse, dann gibt es zum Beispiel Extrudieren. Ein Verfahren, um daraus etwas zu werden.
+Wenn wir Kulverförmigere, ein Kulver haben, da gibt es einen 3D-Druck oder einen Sinter,
+da wird hinterher ein fester Klopfer. Also, dass Sie das nicht alles kennen ist klar,
+aber Urformen, dieses erste, die erste Hauptgruppe heißt, Sie haben vorher etwas Flüssiges,
+das Gas förmlich sein Pulver, nichts was Sie in die Hand nehmen können und Sie schaffen etwas, um daraus erstmal einen festen Körper zu schaffen.
+Und man sagt, wir schaffen einen Stoffzusammenhalt.
+Also in der Chemie, vorher haben Sie Körper, die nicht zusammenhängen, hinterher sind sie fest zusammen.
+Das macht alle Verfahren der ersten Form aus.
+Das Zweite ist das Umformen. Sie haben jetzt einen festen Körper. Die Moleküle hängen zusammen.
+Und jetzt gehen Sie mit Gewalt dran, biegen den, drücken ihn, was auch immer. Das ist das Umformen.
+Dabei bleibt die Masse erhalten, sie nehmen nichts weg, sie tun nichts dazu, gleiche Masse und ja, vorher war es ein fester Körper, jetzt ist es immer noch ein fester Körper, der stofflich im Zusammenhalt bleibt.
+Es wird nur mit Gewalt, mit großer Kraft umgeformt.
+Hier unterscheidet man, wie.
+Also, wie bringe ich diese Gewalt auf, die Kraft?
+Ich kann mit Druck arbeiten, ich kann mit Zug arbeiten, druckumformen, zum Beispiel walzen.
+Walzen ist ein Verfahren, da haben Sie zwei runde Walzen, dazwischen schieben Sie ein Metall durch, meistens ein heißes Metall, und dann wird es zusammengedrückt.
+Dann habe ich nur Drucksprache.
+Zugumformen ist zum Beispiel die Herstellung von Draht, Kupferdraht.
+Da fangen Sie mit so einem dicken Teil an, ein Kupferstück.
+Das wird gewalzt, dann wird es kleiner, dann wird es ein bisschen in Länge gezogen, dann wird es noch dünner.
+Und das machen Sie hundert Mal und am Ende haben Sie ein Kupferdraht.
+Da arbeiten Sie immer nur mit Zug, Zugspanne.
+Dann gibt es Mischungen, Tiefziehen, Progressoran,
+und wäre Zugdruckumfang, dann sind beides.
+Und dann gibt es noch Schub, das kommt selten vor,
+wo wir etwas so gegeneinander verschieben, einen Schub spannen.
+Wir unterscheiden also nach Art der Spannungseinwirkung
+diese Untergruppen 2,1, 2,2, 2,3, 2,5.
+Da gibt es also die Untergruppen nach Art der Spannung.
+Aber generell, umformen heißt gleiche Masse,
+Vorher fester Körper, hinterher fester Körper, der Stoff zusammengehalten bleibt.
+Und da gehören wir alle zu der Verfahren.
+Das sind nur Reiche.
+Das ist die zweite Hauptgruppe.
+Urformen, Umformen.
+Jetzt haben Sie also einen festen Körper, jetzt wollen Sie etwas wegnehmen.
+Dann sind wir bei der dritten Hauptgruppe, das Trennen.
+Wir trennen etwas ab.
+Erzeugen Späne. Das werden wir jetzt hier machen.
+In meiner Vorlesung.
+Ich ahne das.
+Und ja, da gibt es eine ganze Reihe von Unterkriterien, Untergruppen, hier diese 3.7.
+Was passiert beim Trennen? Sie nehmen einfach etwas weg.
+Die haben hinterher weniger Masse.
+Logisch.
+Als vor 80 Jahren diese Hauptgruppen mal definiert wurden, hat man sich hinterher getroffen und
+gesagt, okay, das Trennen liegt, kann man das weiter unterteilen und hat zum Beispiel
+die Evakuierung reingenommen, das meint zum Beispiel ein Vakuum zu erzeugen.
+Sie haben eine Kugel, eine Wohnung, einen Bodenkörper und nehmen die Luft heraus.
+Das hat man mal so hingeschrieben, aber das ist für die Praxis nicht wichtig und keiner hat sich später mehr darum gekümmert.
+Also, da habe ich gesagt, okay, das ist irgendwie, interessiert auch keinen.
+Hat sich keiner mehr mit beschäftigt.
+Hier, das ist sehr wichtig, alles fällen, so wollen wir es drehen, was auch immer, fällt alles hier rein.
+Das ist sehr fein weiter unterteilt.
+Und das hier, das lässt man stehen, aber keiner hat das weiter mit beschäftigt.
+So, erste Hauptgruppe, Urformen, ein Kloß herstellen, ein Körper herstellen, zweite Umformen, mit Gewalt in Form bringen, dritte Tränen.
+Vierte Hauptgruppe, macht der Kollege Vogel eine mit Ihnen, ist das Fügen, zwei Teile zusammenfügen.
+Im Wesentlichen wichtig, solche gar nicht kleben, sie können ja kleben, Schweißen, Löten.
+Das sind die drei allerwichtigsten fügelnden Verfahren.
+Gut, macht der Kollege.
+Also, zwei Teile zusammenfügen.
+Und jetzt haben wir schon das meiste.
+Man kann ein Teil umformen, man kann etwas wegnehmen, man kann etwas dazutun.
+Das sind die ersten Hauptgruppen.
+Dann hat man gleich beschichten, an der Oberfläche eine Schicht aufbringen.
+Wurde extra noch definiert, das ist auch Lackieren, Anmalen, Beschichten, Verchromen, was es alles gibt.
+An der Oberfläche etwas hinzufügen.
+Und die sechste Hauptgruppe ist das Stoffeigenschaften ändern, auch ein Verfahren.
+Zum Beispiel Härten, Stahlhärten, Vergüten, alles was einen Stahl härter macht, fester macht,
+die magnetischen Eigenschaften ändern, also magnetisieren, oder was kann man noch ändern, optische Eigenschaften ändern.
+Das ist alles, was die Form des Körpers nicht ändert, aber seine Eigenschaften.
+Das ist die sechste Hauptgruppe.
+Und damit haben wir die sechs Hauptgruppen und die müssen wir lernen.
+Den will ich, dass Sie hier einmal die Übersicht haben über alle Hauptformen.
+Urformen, Umformen, Rennen, Flügen, Geschichten und noch Eigenschaften.
+Und da werden alle Verfahren einsortiert.
+Da finden Sie alle Fertigungsverfahren dieser Welt.
+Mehr gibt es nicht.
+Gut, wir sind noch weit weg von den sparen und gut vorhandenen Verfahren, da müssen wir noch kurz ein bisschen anfangen.
+Jetzt die Frage natürlich, wenn es doch hier nochmal das Bild, das hatte ich vorhin schon, wenn es doch verschiedene Möglichkeiten gibt.
+Wie habe ich schon gesagt, welches ist die bessere Verfahrenskette?
+Wenn mehrere Verfahren machen an der Verfahrenskette, bis das Produkt fertig ist.
+Bei einer Firma habe ich ja eine Abschlussarbeit getreut, da bestanden Verfahren aus 30 einzelnen Verfahren.
+Das kann also sehr, sehr lang und komplex werden.
+Da muss man sich Gedanken machen. Was ist jetzt das Bessere?
+Und auch da haben sich die Leute mit beschäftigt.
+In Deutschland gibt es eine große Forschungsgesellschaft, die größte ist die Fraunhofer-Gesellschaft.
+Die macht viel Forschung. Und die hat in diesem Bereich auch etwas gemacht.
+Also wir, die Westkämper und Warnecke, waren beide Stuttgarter, waren beides Kollegen.
+Ich kenne die auch beide. Ich war in Stuttgart promoviert.
+Und die haben sich sehr stark damit beschäftigt.
+Und haben einfach mal draufgeschrieben, wie entscheidig werden, was das richtige Verfahren ist.
+Gut, da gibt es halt bestimmte Merkmale aus dem Produkt.
+Was für einen Werkstoff braucht man zum Beispiel? Ist es aus Stahl, ist es aus Kunststoff?
+Wenn es aus Kunststoff oder Stahl ist, dann gehen viele Verfahren gar nicht. Die gehen nur für Kunststoff oder andersherum.
+Welche Qualität braucht man? Manche Verfahren sind genauer, manche sind weniger genau.
+Wie viele brauchen wir? Manche Verfahren lohnen sich nicht, wenn Sie nur ein Stück machen.
+Wenn es einer macht, dann nehmen Sie einen Auszubildenden und sagen ihm, er soll das mit der Pfeile fertig machen.
+Das dauert zwar lange, aber es ist nur ein einziges Stück.
+Wie ist die Konstruktion? Gibt es bestimmte Merkmale, die manche Verfahren einfach nicht können?
+So, das kommt aus dem Produkt.
+Dann guckt man sich an, was können die verfahren?
+Zum Beispiel, welche Qualität schaffen die?
+Wenn hier mehr gefordert ist als da, dann fällt das Verfahren raus.
+Dann geht das nicht.
+Und dann guck ich mir an, ist es automatisierbar?
+Wenn ich 100.000 Stück brauche, dann frage ich mich, können Roboter das machen?
+Oder brauche ich Menschen dafür?
+Wie viele schaffe ich denn pro Stück?
+Wenn ich diesen kleinen Bolzen drehe, dann schaffe ich einen, wenn ich es von Hand mache, dann brauche ich eine Minute dafür, wenn ich gut bin.
+Wenn ich einen Drehautomaten nehme, dann brauche ich fünf Sekunden dafür.
+Wenn ich das ganze Ding schwiegen würde, dann würde ich zehn Stück zu fünf schaffen.
+Wie viel schaffe ich? Wie viel Energie brauche ich?
+Werkstoffverbrauch müssen wir reinschauen.
+Wenn ich etwas zerspanne, sehe ich an diesem Stift, wo es hier herlaufen muss, aber Sie können das sehen hier, oder?
+So ein bisschen an der Seite hier, die Tafel wird kaum noch benutzt.
+Ich glaube, so sah der aus.
+Wenn Sie das drehen, dann kaufen Sie sich eine Stange. Die sägen Sie ab. Und jetzt muss das alles weg. Das ist Abfall. Da erzeugen Sie, also verschwenden Sie sehr viel Wert.
+Und das kostet erstens viel Geld, ist nicht gut für die Umwelt, das ist ja nicht schön.
+Die Späne kann man wiederverwerten und recyceln, aber trotzdem.
+Der Werteverbrauch ist dann hoch. Das haben die beim Gießen nicht.
+Beim Gießen gibt es ja so einen Punkt, da ist ein bisschen Wert.
+Und dann noch das Thema Wirtschaftlichkeit.
+Wie viel Geld müssen Sie in die Hand nehmen, wenn Sie Maschinen kaufen müssen, extra dafür.
+Wenn Sie natürlich schon eine Fräsmaschine haben, dann nehmen Sie die.
+Das ist vielleicht nicht das beste Verfahren, aber Sie müssen keine neuen Maschinen brauchen.
+Oder wenn Sie eine neue Maschine brauchen, wie schnell amortisiert sich das?
+Wie schnell dauert das? Oder wie lange dauert das, bis Sie das Geld wieder geholt haben?
+Wie groß ist das wirtschaftliche Risiko? Wenn eine Anfrage bei Ihnen ist, ich hätte gerne jedes Jahr 100.000 Stück und Sie kaufen eine Maschine und dann sagt der Kunde, ach, brauchen wir noch nicht.
+Dann haben Sie eine Maschine gekauft. Das ist ein Risiko. Dass er nach einem Jahr sagt, nee, reicht.
+Wie viel Personal haben Sie? Was haben Sie schon? Wie schnell müssen Sie liefern?
+Wenn er sagt, ich brauche das übermorgen,
+können Sie keine Martina kaufen.
+Und so weiter.
+Es gibt Patente, Lizenzen, die man beachten muss.
+Manche Verfahren dürfen Sie gar nicht machen.
+Wegen Patentschutz.
+Also, das ist ein Thema,
+das ist sehr groß.
+Das spielt auch eine Rolle.
+Und ganz zum Schluss,
+Sicherheit, Umweltschutz.
+Manche Verfahren sind weniger gut für die Umwelt,
+manche sind schade nicht.
+Und das sind alles Sachen,
+Sie spielen eine Rolle, wenn Sie das richtige Verfahren ausprobieren.
+Dann gucken Sie sich das alles an.
+Ein paar Sachen können wir uns anschauen.
+Das mit dem Werkstoff.
+Ich habe gesagt, hier, das muss alles weg.
+Wenn Sie ein neues Beispiel, so ein Teil haben,
+Und Sie drehen dieses Teil hier aus.
+Also das muss alles weg.
+Das hier hat einen Durchmesser von 100 mm.
+Und wir gehen noch einmal mit der Drehmaschine hier rüber.
+Wir nehmen die 96.
+Nehmen also hier so ein bisschen was weg, dass es sauber ist.
+Hier haben wir einen Durchmesser von 60 und 100.
+Was schätzen Sie?
+Wie viel Prozent von dem müssen Sie in Späne verwandeln?
+Wie viel Prozent entfernen Sie?
+Wir dürfen einmal schätzen.
+Und dann, was glauben Sie, sind es zwischen 35 und 45 Prozent?
+Zwischen 45 und 55 oder zwischen 55 und 65 Prozent?
+Wie viel Prozent Späne haben wir dort?
+Also 35 bis 45, 45 bis 45, oder 55 bis 45 Prozent Späne.
+Die können nicht reichen.
+Was meinen Sie? Wer glaubt, dass es zwischen 35 und 45 Prozent Späne sind?
+Kurz die Hand heben. Nicken habe ich eben schon gesehen.
+Wer meint, dass es zwischen 45 und 55 Prozent Späne sind?
+Wer meint, dass es mehr als 55% Späne sind?
+Und was meinen die 4 anderen?
+Schätzen Sie, wie viel Prozent ist das hier?
+Mehr als 55 oder weniger als 55 Prozent?
+Oder nehmen wir die Hälfte.
+Mehr als die Hälfte, was weg muss, oder weniger als die Hälfte?
+Mehr als die Hälfte?
+Ja, es ist ungefähr die Hälfte.
+Also Sie waren richtig.
+Also Sie, wenn Sie es ausrechnen, 47% müssen weg.
+Sie haben 47% Abfall.
+Das ist eigentlich dafür, dass Sie jetzt tonnenweise Stahl kaufen
+Und die Hälfte des Abfalls ist eigentlich dramatisch.
+Aber das ist ganz typisch.
+Also hier bei den Spargelverfahren sagt man ja so, das ist ganz typisch.
+Die Hälfte Abfall ist ganz normal.
+Aber das ist nicht besonders gut.
+Wenn Sie gießen, kommen Sie vielleicht ab 90 Prozent, auch nicht 100 Prozent.
+Sie haben eine Form, Sie gießen etwas rein und da wo das reinfließt, hier oben,
+Und das muss hinterher weg. Da entsteht noch ein bisschen, was hinterher weg muss. Der Speiser. Der muss weg.
+Also gießen ist auch nicht 100%, aber diese Verfahren, Urform, Umform, die nutzen halt den Werkstoff viel besser aus, als alle zerstrahlenden Verfahren, wo sie Tränen und Abfall erzeugen.
+Und das ist auch für die Energie ein Nachteil.
+Ja, beim Fließen muss ich meinen Stahl auf 1500 Grad aufheizen, das kostet sehr viel Energie.
+Aber wenn Sie etwas versparen, dann kaufen Sie ja hier ein Stück Stahl, der ist ja auch mal gegossen und gewalzt worden.
+Der hat ja schon so viel Energie verbraucht.
+und davon landet jetzt die Hälfte wieder im Abfall.
+Die Energie nutzen die gar nicht.
+Also von der ganzen Kette her,
+zersparen für ein ganzes Land zum Beispiel,
+Volkswirtschaft, wäre natürlich nicht toll.
+Es wird sehr viel Stahl produziert,
+mit sehr viel Energie
+und die Hälfte landet wieder in der Sonne,
+in der Recycling-Sonne.
+Und dann muss es wieder geschmolzen werden.
+Also die zerspanenden Verfahren
+sind dann nicht für so etwas gut.
+Die umformenden Verfahren,
+die haben dann meistens nicht so auf dem Schirm,
+sind viel besser.
+schieben, gießen,
+Blechverarbeitung.
+Also, Energie- und Ressourceneffizienz,
+da schneiden die Spanien
+in der Verfahren nicht gut ab.
+Ein anderes Thema ist natürlich das Thema
+Genauigkeit.
+Mit Gießen sind Sie nicht so genau.
+Sie können nicht auf
+hundertstel Millimeter genau gießen.
+Wenn Sie etwas gießen
+und es über 1000 Grad heiß
+und es kühlt ab,
+dann zieht es sich um einige
+Prozent zusammen.
+Beim Abkühlen wird es kleiner,
+größer, um einige Prozent.
+Genauigkeit ist nicht gut.
+Sie kennen vielleicht die Toleranzreihe,
+die Isotoleranzreihe
+oder IT-Klassen.
+Sagt Ihnen das was?
+Kennen Sie die?
+Aus der Konstruktion?
+die Isotoleranz-Wein sagt zum Beispiel
+Toleranz-Toleranz 1
+oder Toleranz-Klasse 1
+wenn Sie ein Maß haben
+von 100 mm
+da sind wir hier
+also zum Beispiel im Durchmesser von einem Drehteil
+wir haben ein Drehteil
+100 mm Durchmesser
+100 mm ist hier
+mehr als 80, mehr als 120
+und IT1 oder sagen wir IT5
+Die IT5 würde heißen, Sie haben eine Genauigkeit von 15 Mikrometern.
+Das ist schon sehr viel.
+Also Toleranzreihe 5, IT5 als Toleranz, da müssen Sie sehr, sehr, sehr genau klarkommen.
+Heißt hier, 15 Mikrometer an dem Maß, ein kleineres Maß, ein 10 Millimeter Durchmesser,
+würde heißen, dass Sie hier auf 8 Mikrometer drauf sein müssen.
+Das sind die Toleranzreihen.
+Ich weiß nicht, ob Sie die kennen.
+Ist jetzt auch nicht ganz entscheidend für uns.
+Aber
+da hat mal ein Herr,
+worauf ich die Quellen hatte,
+der Herr Schröppel.
+Der Herr Schröppel hat mal zusammengestellt,
+mit welchen Verfahren
+welche Genauigkeiten
+erreicht werden sollen.
+Und dann hat er zum Beispiel
+beim Schmieden
+Schmieden, schmieden ist, wenn Sie ein Wurz erwärmen und das Wessel in Form bringen.
+Er sagt dann, naja, da kommen wir so 12, 13, 14.
+Blau ist normal, die Gelb heißt, mit viel Anstrengung schaffen wir das.
+Er sagt dann, beim Schmieden kommen wir auf Toleranzreihe 12.
+Gucken wir mal rein, das heißt, wir sind auf einem halben Millimeter genau.
+7 mm. Das geht. Beiden Fräsen schaffen wir mit viel Mühe von der Ranzklasse 6.
+Von der Ranzklasse 6. Einmal reinschauen. So ein Durchmesser 22 mm. Schaffbar. Und wenn ich noch genauer werden will, muss ich zum Schleifen gehen.
+Schleifen schaffe ich IG5, wieder zurück, und so ein großes Teil, 5, schaffe ich dann schon auf 15 Mikrometer.
+In der Größe. Also, der hat diese Übersicht gemacht, welche Genauigkeiten erreicht sind.
+Ich habe die ein bisschen verändert, manches geht heute genauer.
+Also, das ist, also deswegen habe ich keine Quellen an der Abo, genau.
+Ich habe die Teilweise noch ein bisschen verbessert hier, weil es inzwischen verschiedene gibt, die noch ein bisschen genauer sind.
+Also wir können bei den Verfahren schauen, welche Genauigkeiten wir können.
+Nicht auswendig, ja.
+Aber ganz grundsätzlich sind die Spanenden Verfahren besser und genauer als die Umformel.
+Umformen heißt oft große Temperatur, große Kräfte, und dann ist die Genauigkeit nicht so gut.
+Beim Spanen ist die Genauigkeit besser, dafür ist die Ressourceneffizienz schlechter.
+Wir haben halt Abfall.
+Das andere wäre die Oberfläche. Welche Rauheit ist möglich?
+Da gab es mal eine Gruppe, die haben eine Norm gemacht.
+Die Normen 47, 66, deutsche Industrienormen, deutsche Industrie für Normung, also deutsche Sachen.
+Und dann gab es sehr viel Streit darum.
+Und dann hat man wieder gesagt, okay, dann gibt es die Norm eben nicht.
+Aber so schlecht war das gar nicht.
+Das ist die Rautiefe.
+Welche Oberflächenraumheit ist möglich?
+Und dann sind wir hier beim Urformen, beim Gießen relativ schlecht, irgendwo 100 Mikrometer
+oder Zehntel Millimeter, die Oberfläche ist beim Gießen meistens nicht so gut.
+Beim Umformen auch nicht so perfekt, Ausnahme ist das Walzen, das ist ein Verfahren, das
+ist ein bisschen genauer.
+Dann haben wir hier normale Spanende Verfahren, da kommen wir hier unter 10 Mikrometer, 5 Mikrometer Rauheit.
+Wenn wir dann schleifen, dann kommen wir bis hier hin so, in diesem Bereich, das sind 0,4 Mikrometer.
+Und wenn wir noch genauer werden wollen, müssen wir leppen.
+Mit Leppen kommen wir auf 0,04 Mikrometer Oberfläche rauf.
+Wissen Sie, wie rau ein Spiegel ist?
+Wenn Sie in einen Spiegel schauen, wie groß ist die Rauheit, damit wir eine wirklich spiegelnde Oberfläche haben?
+Irgendwie?
+Nein.
+Schätzen? Raten?
+Wer traut sich?
+Ja, sagen Sie was.
+Fast. Das muss noch besser sein.
+Also, bei 0,4 geht es gerade erst los.
+Also, wenn Sie wirklich ein Spiegel hätten, müssten Sie noch genauer sein.
+Und deswegen macht man Spiegel auch anders.
+Die werden nicht geschnitten.
+Das ist mehr eine Geschichte.
+Über die Geschichte bekommt man bessere Antworten.
+Okay, aber mit Netten können Sie fast Spiegel nur noch besser machen.
+Gut, also, da können wir reinschauen.
+Die Verfahren, wie gut ist die Genauigkeit, wie gut wird die Oberfläche, wie ist die Ressourceneffizienz.
+Und so kann man sich durch diese ganzen Verfahren, warte ich sie, durch die ganzen Kriterien hier einmal durchklicken
+und sich überlegen, welches Verfahren ist das Richtige.
+Und das ist ja wichtig, dass man die Verfahren noch alle kennt, weil sonst würde man alles wahrscheinlich mit Fräsen und Drehen machen.
+Das kenne ich. Dann kann man fast alles mitmachen, aber das wäre nicht gut.
+Ja, okay, da können wir eigentlich auch ein bisschen durchgehen.
+Wir haben die Umweltanforderungen, da geht es auch um, ja, wir haben so begrenzte Rohstoffe,
+wir haben auch eine begrenzte Möglichkeit, Abfall irgendwo hinzutun,
+Die Wunden, Umweltgifte wollen wir auch nicht erzeugen.
+Manche Verfahren sind zum Beispiel zu nicht gestorben.
+Früher hat man Einsatzherden mit sehr giftigen Stoffen gemacht.
+Das gibt es heute nicht. Das ist einfach verboten worden.
+Und das ist auch gut so.
+Manche Verfahren werden einfach nicht mehr erlaubt.
+Manche Sachen werden verboten.
+Wir haben hier das Kreislaufwirtschafts- und Abfallgesetz.
+Wenn Sie ein Produkt verkaufen, müssen Sie es auch hinterher wieder zurücknehmen.
+Wenn es in den Müll kommt, müssen Sie sich Gedanken machen, was hinterher damit passiert.
+Ob man es wiederverwerten kann, ob man es mit Zeitungen anwenden kann.
+Und so ändern sich auch manche Produkte.
+Sie werden so gestaltet, dass man sie wiederverwerten kann.
+Die Red Bull Dose kann man wieder einschmelzen.
+Die werden gesammelt und recycelt. Bei den Kunststoffflaschen muss man schauen, kann man sie wieder einschmelzen?
+Wenn es Thermokluster sind, bei bestimmten Kunststoffen geht das, bei anderen Kunststoffen geht es nicht.
+Autoreifen können Sie nicht wieder einschmelzen. Gummi ist eine Verbindung, die lässt sich nicht wieder schmelzen, recyceln, da geht es halt einfach nicht.
+Und so haben wir auch teilweise wieder neue Entwicklungen aufgrund der Umwelt.
+Gut, das nur als kleinen Einblick über diese ganze Fertigungstechnik und die Auswahl.
+Und dann einen genauso kleinen Einblick, und dann sind wir damit auch fast durch,
+machen wir die fertige Organisation, da bin ich nicht sicher, das kommt wahrscheinlich später bei Ihnen auch noch.
+Also, wenn Sie eine Firma haben, die viele Verfahren hat, wie bauen Sie die auf?
+Das heißt die Fertigungsorganisation. Machen wir noch ganz kurz, ich möchte nur ein paar Begriffe zeigen, das ist nicht so entscheidend für die Prüfung.
+Also das gleich, werde ich in der Prüfung nicht abfragen, aber nur das gehört an.
+Früher hat man hier angefangen, in einer Firma, das ist nur ein Beispiel,
+da haben wir die Fräsmaschinen gehabt, alle in einer Reihe,
+dann hat man die Drehmaschinen woanders gehabt, das war die Dreherei,
+manchmal in einem anderen Gebäude, da waren die Drehmaschinen,
+und dann irgendwo hinten waren noch ein paar Rohrmaschinen,
+man hat das so gruppiert, die Verfahren.
+Und dann hat man das gesagt, das ist die Werkstattfertigung.
+Da gab es die Fräswerkstatt, die Drehwerkstatt, die Bohrwerkstatt.
+Und wenn sie ein Produkt erzeugt haben, dann musste das hier erst mal hierher gebracht werden.
+Da gab es einen Ablageplatz.
+Die haben das dann fertig gemacht, gefräst, haben es dann hier rübergebracht.
+Da war der nächste Ablageplatz.
+Dann haben die gefertigt, die mussten es dann hierhin bringen, in den nächsten Raum und so weiter.
+Das war die Werkstattfertigung.
+Und man sieht, man hat das Produkt die ganze Zeit hin und her gefahren.
+sehr viel Logistik. Überall braucht man Ablageplätze, wie Platzkosten. Das heißt,
+es hat alles lange gedauert. Man hat viele Leute gebraucht, die hin und her gefahren sind. Man hat
+überall Zwischenlager gebraucht. Das ist nicht gut. Vorteil ist natürlich, man kann jedes Produkt hier
+einfach fertigen. Das ist egal. Aber für große Serien ist das nicht geeignet. Das macht man so
+heute nicht mehr. So, was macht man statt dessen? Man hat dann zum Beispiel angefangen, vor über 100 Jahren,
+der Henry Ford hat das in den USA entwickelt, die Fließfertigung. Das heißt, man hat nach Prozessen
+geguckt. Man hat ein Produkt zum Prozess 1 gebracht, dann zum Prozess 2 gebracht, das Produkt ist hier
+durchgeflossen, die Mitarbeiter standen hier am Fließband, haben immer nur den gemacht, immer nur eine
+die nächste Schraube, jeder hat nur einen Prozess gemacht und das Produkt ist hier durchgelaufen.
+Das ist die Fließfertigung. Die war sehr effizient, sehr kosteneffizient, sehr sehr schnell.
+Nachteil natürlich, Sie können nur ein Produkt da durchbringen.
+Also perfektionieren auf ein Produkt.
+Und für die Mitarbeiter ist es auch nicht schön, wenn sie den ganzen Tag immer nur den machen.
+Also sehr schlecht für die Mitarbeiter.
+Und das macht man so heute auch nicht mehr.
+Außer sie haben hier Roboter stehen.
+Bei denen geht das dann noch.
+Dass sie da eine ganze Linie machen.
+Ansonsten guckt man, dass die Mitarbeiter besser aussehen.
+Die können mehr als nur den.
+Da tut es die Mitarbeiter gar nicht aus.
+Wenn Sie eine ganz große Firma haben und Autos bauen,
+dann lohnt es sich, die Fertigung in kleinere Firmen aufzuteilen von der Organisation.
+Dann sagt man, das ist die Fertigungssegmentierung.
+Also, wenn wir zum Beispiel zu BMW gehen, da gibt es dann einen Werkzeugbau, das wäre eine eigene Firma, die die Werkzeuge für die Umformung baut.
+Dann gibt es das Presswerk, da werden die Karosserien gefertigt.
+Dann gibt es den Karosseriebau oder hinten Lackiererei. Das sind im Grunde eigene Firmen. Die haben eine eigene Personalabteilung, eine eigene Finanzabteilung, ein eigenes Controlling, eigene Qualitätssicherung und damit sind die ein bisschen überschaubarer.
+Und wenn es zu groß wird, ja, dann bist du unflexibel.
+Also diese Aufteilung in kleinere Firmen ist auch so etwas, was man heute macht.
+Natürlich haben Sie dann hier mal eine Qualitätssicherung.
+Dann kommt natürlich auch so wie zu viele Leute, aber dafür sind wir etwas flexibler.
+Sie können überall eine kleine, lokale Qualitätssicherung einbauen und haben nicht einen großen E-Mail-Pack.
+Also Fertigungssegmentierung ist eine Idee für die ganz großen Firmen und für kleinere Firmen und dann höre ich auch auf, ist heute, ich höre noch nicht ganz auf, die Fertigungsinsel.
+Die Fertigungsinsel heißt, die machen sich eine Gruppe von Fertigungsverfahren.
+Hier ein neues Beispiel, da stellen wir rein, eine Prüfmaschine, ein Roboter, eine Presse, das hier ist für die Reifenfertigung,
+da sind ein paar Pressen, ein kleines Zwischenlager, ein Gesprächsraum.
+Und in dieser kleinen Einheit haben wir jetzt eine Gruppe von 110 Mitarbeitern und die produzieren das.
+Und das gleiche haben wir dann noch einmal hier unten, noch 110 Mitarbeiter.
+Also nicht alle fressen irgendwo in einer Halle, sondern immer schön zusammengefasst, alles was Sie brauchen, um das Produkt herzustellen, in kleinen Prozessen.
+Und dann sind Sie sehr flexibel, die Mitarbeiter können sich selbst organisieren und die Fertigungsindustrie da zu finden.
+Also viele Prozesse in kleinen Zusammenfassen, dann ist das eigentlich etwas, was recht wichtig ist.
+Wir haben einen Kollegen, ich weiß nicht, ob Sie den Peter Wurster kennen, der hat sich mit der flexiblen Fertigung beschäftigt.
+Da gibt es also auch neue Sachen, dass wenn so ein Produkt unterschiedlich ist, wenn Sie ganz viele verschiedene Produkte haben, dass Sie dann dies flexibel organisieren.
+Das ist ein ganz spannendes Thema, die künstliche Intelligenz hilft da sehr viel heute.
+da wird sehr viel Forschung betrieben
+aber da geht es nicht voran
+das kommt Ihnen wahrscheinlich später noch
+also die Organisation
+ist auch ein Teil der Fertigungsdeckung
+aber ich werde Sie das in der Prüfung nicht fragen
+Sie sollten mal gesehen haben
+was die Fertigungsdeckung alles ist
+und zum guter Letzt
+und auch das machen wir schnell
+die fertigungsgerechte Konstruktion
+Richtig konstruieren können Sie nur, wenn Sie auf die Prozesse kämen.
+Zum Beispiel, wenn Sie etwas fräsen wollen, dann sollten Sie das Teil so nicht konstruieren.
+Das kann man nicht fräsen. Wissen Sie, warum nicht?
+nicht? Wo ist das Problem bei diesem Teil?
+Wenn Sie fräsen, haben Sie ein rundes Werkzeug, Sie fertigen hier dieses Teil, Sie geben ein
+runden Werkzeug hier rein und drehen das.
+Wie wollen Sie diese Ecke hier machen?
+Mit einem runden Werkzeug?
+Das geht nicht.
+Dies Teil kann man so nicht fällen.
+Das heißt, in der Konstruktion muss man schon wissen, wie will ich es fertigen?
+Und dann gucken, dass ich hier so konstruiere, dass ich hier ein Radius drin habe.
+Dass es hier unten ist.
+Dann kann ich es fällen.
+Aber so geht es nicht.
+Da muss man Radius überlegen.
+Erodieren oder so etwas anderes.
+Also, lieber Rundmann, das wäre fertigungsgerechte Konstruktion.
+So konstruieren, dass man es kostengünstig und schnell fertigen kann.
+Und so eher nicht.
+Oder, wenn Sie etwas gießen, das ist aus dem Lehrbuch, da habe ich ein paar Beispiele herausgenommen.
+Wenn Sie ein Gussteil haben und das auf 1500 Grad erhitzen,
+und das kühlt ab,
+dann wird es hinterher kleiner.
+Dann ist es wichtig, dass es ungefähr gleichmäßig abkühlt
+und nicht eine Stelle sehr schnell abkühlt
+und eine andere langsam abkühlt.
+Dann gibt es Spannungen, Risse, dann passt das nicht.
+Also muss man gucken, zum Beispiel,
+dass man, wenn man hier eine dicke Wand hat
+oder eine dünne Wand,
+dass man hier einen vorsichtigen Übergang macht.
+Dass es nicht hier zu schnell abkühlt und da zu langsam.
+Da, wo viel Material ist, kühlt es langsam ab.
+Dünne Strukturen kühlen schneller.
+Deswegen ist es ein Übergang.
+Oder wenn Sie einen Ausschnitt haben, also ein Gussteil haben mit einer Öffnung,
+dann kühlt das hier in der Öffnung von drei Seiten ab.
+Kälte kommt von drei Seiten ab.
+Von hier, von hier und von hier.
+die Enten würden schneller abkühlen
+als hier außen
+im Lehrbuch steht
+deswegen hier etwas extra Masse
+dann kühlt es langsamer
+dann kühlt es gleichmäßiger
+hier genauso schnell wie hier
+das sind alles Sachen
+macht der Kollege mit Ihnen vielleicht
+weiß ich nicht
+im Grunde aus dem Lehrbuch
+aber
+so müsste man es konstruieren
+um es
+gießgerecht zu konstruieren
+Aber oft macht man das dann auch wieder nicht.
+Das ist dann teilweise auch schon wieder übertrieben.
+Dann mache ich es eben nicht ganz perfekt.
+Da muss man manchmal eben auch den Kompromiss machen.
+Weil das ist schon sehr, sehr, sehr auffällig.
+Wenn viele Lippen zusammenlaufen und das wird eine riesen Masse hier,
+kühlt die natürlich zu langsam ab.
+Aber die Ruhe zu machen und hier wieder was freizulassen,
+ist so kompliziert, dass man es dann doch oft nicht macht.
+Aber man muss halt einfach kennen.
+Oder ein letztes Beispiel, das ist ein Verbrennungsmotor, über den wird ja noch viel geschrieben, ob der nun noch verboten wird oder nicht verboten wird.
+Verboten wird er gar nicht in Europa, aber das Verbrennen von Benzin soll verboten werden, aus Umweltgründen.
+Das hier ist ein Motor, der hat ganz viele Bohrungen.
+Wenn Sie genau reinschauen, hier ist eine Bohrung, da ist eine, da ist eine.
+Hier, hier, hier. Wir haben unendlich viele Bohrungen.
+Aber die stehen alle senkrecht an.
+Da gibt es nicht eine einzige Bohrung, die hier schräg eingeht.
+Warum?
+Wenn Sie eine schräge Bohrung hätten, dann brauchen Sie eine andere Maschine.
+Die einfachen, kostengünstigen Maschinen, die haben hier den Bohrer, hier das Werkstück,
+und dann können sie hier bohren, drehen, bohren, aber sie können das nicht kippen.
+Das braucht eine teurere Maschine.
+Also es ist ja so konstruiert mit den Bohrungen, dass sie auch kostengünstige, auch billige Maschinen fertigen können.
+Also auch Fertigungsgeräte.
+Und so muss man bei der Konstruktion schon sehr stark überlegen, wie kann ich das günstig fertigen.
+Und das ist extrem wichtig.
+Ich habe eine Abschlussarbeit betreut, da ging es darum, dass der Student ein Produkt nochmal angeschaut hat.
+Kann man das nicht so konstruieren, dass es ein bisschen kostengünstiger wird?
+Und die Firma sagt, die spart durch diesen Studenten, durch die Arbeit jedes Jahr 50.000 Euro.
+Nur weil er so ein paar Regeln aufgestellt hat, die man besser konstruieren würde in Zukunft.
+Das ist nett. Das ist eine ganze Menge.
+Das wird der Post vergessen. Aber Sie müssen die Verfahren kennen, dass Sie die günstigsten raussuchen können, dass Sie die umweltfreundlichsten raussuchen können,
+die richtige Genauigkeit, alle Anforderungen an Oberflächenqualität, Rauheit erfüllen, dass Sie so konstruieren, dass man es auch gut konstruieren kann, Ihr Produkt.
+Und dazu ist es wichtig, die Verfahren zu kennen.
+Deswegen haben Sie in diesem Semester 6 Stunden Fertigungstechnik.
+Auch wenn Sie später gar nicht in der Fertigung arbeiten,
+müssen Sie trotzdem kennen, was möglich ist.
+Ich habe eine Stunde lang Einleitung gemacht,
+um ein bisschen einen Eindruck zu geben über die Fertigung.
+Fragen wir es ein?
+Kriegen wir uns ein paar Urlaubsbilder von dir zwischendurch.
+Dann war das jetzt sehr schnell durch die Einleitung. Wichtig für Sie, für die Prüfung, die sechs Hauptgruppen, dass Sie die kennen.
+Der Rest ist schön, dass Sie das jetzt gehört haben, dass Sie wissen, worum es geht. Ich trage es aber nicht wieder. Aber die sechs Hauptgruppen gehören.
+Bei mir machen Sie jetzt die verhandelnden Verfahren und die umformelnden Verfahren, also Hauptgruppen 2 und 3.
+Bevor wir in die Verfahren gehen, brauchen wir ein paar Grundlagen. Heute und nächstes Mal.
+So, worum geht es? Ich habe hier ein paar Bilder, ein paar Sachen gemacht. Was muss alles zerspannt werden? Das sind alles solche Bauteile. Die müssen Sie sparen und herstellen.
+Oh, da ist sogar Ton drauf. Cool.
+Keine Erinnerung. Musik brauchen wir nicht.
+Schleifen.
+Fräsen mal dabei.
+Noch mal fräsen.
+Fräsen mit großem Werkzeug.
+Löcher kann man nicht nur bohren, die kann man auch fräsen. Solche großen Löcher wird man eher fräsen als bohren.
+Drehbar arbeiten, drehen.
+Ja, nur so ein paar Eindrücke. Also solche Werkstücke müssen sparen, die hier gestellt werden.
+Und bei allen sparenden Verfahren ist eins gemeinsam.
+Sie haben ein Werkzeug mit einer Schneide, Drehmeißel oder Fräser oder Schleifscheibe.
+Irgendein Werkzeug geht in Ihr Material rein und schiebt Material weg.
+Es schneidet.
+Oder es sieht in der super Zeitlupe so aus.
+In Slow Motion.
+Werkzeug.
+in diesem Fall kommt das Werkstück
+und wir sehen
+wie sich hier
+das Ganze so ein bisschen umformt
+wie wird Schattig
+ab und zu bricht
+der Teil, hier haben wir den Spahn
+der hier hoch geht
+ab und zu mal abbricht
+hier sehen wir einen Riss, der sich hier vorbildet
+also das ist bei
+allen Spahnenden Verfahren
+das hat das
+Gemeinsam
+Das ganze Video ist mal in Zeitlupe von einem Institut aufgenommen.
+Ich glaube, ich habe es verlinkt.
+Doch, das finden Sie im Google-Kurs.
+Ich glaube, das ganze Video ist zehn Minuten lang.
+Wenn Sie also nicht sehr langweilig und gar nichts zu tun haben,
+können Sie sich das anschauen.
+Wissen Sie nicht, ein paar Sekunden Ausschnitte zeige ich später noch,
+um bestimmte Effekte zu zeigen.
+Aber letztendlich ist das bei allen Spannungsverfahren ähnlich.
+Und deswegen machen wir ein bisschen Grundlagen, bevor wir auf den Spannungsverfahren kommen.
+Ja, also Spannung, Schneidigkeit, Verschleiß ist natürlich dabei, Schneidstoffe und so weiter.
+Also da kommt eine ganze Menge zusammen.
+Und am Ende machen wir Zerspanungskraft. Die kann man berechnen.
+Und die meisten Wirtschaftsingenieure hassen das, dass die erste Rechenaufgabe in der Prüfung
+immer eine Zerfahnenkraftberechnung ist.
+Aber eigentlich ist es nicht schwer, meiner Meinung nach, weil es immer das Gleiche ist.
+Aber da kommen wir dann mal drauf.
+Nächstes Mal.
+Gut.
+Naja, also, Zersparnung.
+Das wir Materialverlust haben, das haben wir schon angesprochen.
+Die machen Späne, die können Sie zwar wieder einschmelzen oder verkaufen auch,
+aber wenn Sie eine Maschine haben, die Späne macht, können Sie die Späne verkaufen.
+Für ein bisschen Geld. Die werden wieder eingeschmelzt.
+Ansonsten, die Festigkeit ändert sich nicht von Ihrem Bauteil.
+Und eigentlich passiert da nicht viel. Das Bauteil wendet was ab.
+Schneiden ist darunter nicht fester oder weicher als vorher auch.
+Kann man einfach machen.
+Das, was eben in Slow Motion kam, ist dieses hier.
+Ihr könnt mal draufschauen. Das ist das Ganze.
+Von der Seite reden wir von Schneidkeilen.
+Ja, also so ein Keil, also eine Schneide, geht hier in das Bauteil hinein.
+Hier haben wir die Warnungstiefe oder Zustellung.
+Und wenn man jetzt hier schaut, vor der Schneide, wenn die Schneide hier reinfährt, gibt es hier eine Rissbildung.
+Hier öffnet sich das Ganze. Das Ganze kann bis hierhin gehen.
+Hier haben wir teilweise diese Schattierungen gesehen in dem Video.
+Da hat sich sehr viel verändert.
+Und das ist die Scherebene, da wird sehr viel umgeformt.
+Was dazu führt, dass der Span, der hier hoch fließt, dicker ist, als wir hier abgestimmt haben.
+Spanungsdicke und Spandicke heißt es eigentlich.
+Ist nicht so ganz entscheidend, aber hier findet Umformung statt.
+Aus einem dünnen Spanen, der schiebt sich auf, wird dicker.
+Hier wird sehr viel Energie für die Umformung.
+Werkstoffe, die sich nicht umformen lassen, die spröden sind,
+also Messing, es gibt Stähle, die schnell brechen,
+da haben wir weniger Umformung, da bricht das einfach.
+Große Umformung ist nicht möglich, die brechen einfach weg.
+Da gibt es viele kleine Späne.
+Ansonsten, wenn wir diese Umformung haben, geht hier sehr viel Energie rein.
+Sehr viel Energie heißt, es wird auch sehr heiß an der Stelle.
+Und dann läuft der Span hier hoch.
+Hier reibt der Span, wir haben Reibung auf dem Werkzeug.
+Hier unten auch, haben wir auch Reibung.
+An der Stelle haben wir Verschleiß. Das Werkzeug wird mit der Zeit dort leiden, verschleißen und nach ein paar Stunden ist es halt weg.
+Dann müssen wir neues Werkzeug nehmen.
+Gut, das ist also so ein großer Werkprozess.
+Und wenn wir uns das jetzt anschauen, dann haben wir hier drei Winkel definiert.
+Das ist der Keil des Werkzeugs. Der Schneidkeil.
+Und die Stärke von dem Werkzeug bestimmt dieser Winkel.
+Oh, der Keil ist weg. Hier sollte eigentlich ein Keil sein, hier ein zweiter und hier ein dritter.
+Oder?
+Weg. Okay.
+Also, der Winkelwetter ist der Keilwinkel, das heißt, wie stark ist der Keil.
+Wenn der Winkelwetter groß ist, haben wir eine starke Schneide.
+Wenn wir ein Messer anschauen, ein Messer ist vorne sehr flach, der Keilwinkel ist klein,
+und ein Messer, das hat eine sehr feine Schneide, die entsprechend schneller kaputt geht.
+Hier unten haben wir den sogenannten Freiwinkel, Alpha.
+An der Stelle wollen wir eigentlich nur, dass wenn der Schneidkreis hier reinschneidet,
+dass unser Werkstück, was hier bleibt, hier nicht dran reibt an der Fläche, am Werkzeug.
+Hier wollen wir keine Reibung haben, deswegen geht das Werkzeug hier ein bisschen hoch,
+dass es hier frei ist, deswegen frei winkeln.
+Und diese Fläche heißt Freifläche.
+vom Werkzeug, die Unterseite
+heißt Freifläche, die soll einfach
+nicht reißen an den Werkzeugen.
+Auf der anderen Seite, hier
+bei der Freifläche,
+das ist der Spahn.
+Der Spahn schließt hier über die Spahnfläche ab.
+Diese Fläche
+hier am Werkzeug ist die Spahnfläche.
+Da wo der Spahn
+hinkommt.
+Und dieser Winkel
+hier ist entsprechend der Spanwinkel. Und zwar von der senkrechten runter, also von der Geraden bis hier rüber.
+Das ist der Spanwinkel. Und irgendwie hier vorne haben wir einen kleinen Radius. Perfekt spitz ist nichts.
+Einen kleinen Radius gibt es immer. Und wenn es nur ein paar Mikrometer sind. Aber es gibt nicht unendlich spitz,
+Das wäre auch unendlich schnell kaputt. Wenn es zu spitz wäre, würde die Spitze sehr schnell abwerten.
+Also ein kleiner Radius.
+So, wenn wir jetzt scharf hingucken, dann sehen wir, Alpha plus Beta plus Gamma sind immer 90 Grad.
+Vergessen wir das mit der Null hier. Die Null brauchen wir nicht.
+Soweit so klar, oder?
+Wenn Sie jetzt diesen Spanwindel haben,
+ja, wie würden Sie ihn einstellen?
+Es ist auch gut, wenn ich ihn zu Null mache.
+Also eine Schneide habe, die sehr kräftig ist.
+Kann ich damit noch spannen?
+Ist das gut? Weniger gut?
+Oder mache ich das Werkzeug möglichst flach, wenn ich hier schneide, was ist besser?
+Flach? Also eher ein Werkzeug, was so ist.
+Einverstanden?
+Besser.
+Das Problem an deinem flachen Werkzeug ist aber, dass es sehr klein ist, sehr empfindlich.
+Und wenn hier sehr große Kraft wirkt, geht das Werkzeug halt kaputt.
+Sie können es nicht zu klein machen.
+Und die Kraft, die hier wirbt, wirkt genau auf diesen Feinteil hier vorne.
+Da, wo das Werkzeug sowieso schon am empfindlichsten ist.
+Wenn ich jetzt ein Werkzeug mache, was so ist,
+also hier senkrecht hoch geht und ich gehe hier rüber,
+Dann drückt der Span nicht auf so eine kleine Schneide, sondern eben voll auf das Werkzeug.
+Das Werkzeug hält besser.
+Die Schneide ist natürlich schlechter.
+Klar, wenn Sie mit dem Messer etwas abschneiden wollen, würde das Messer ja auch schräg ansetzen.
+Und nicht versuchen so zu schneiden.
+Das braucht die 10-fache Kraft.
+Aber das sind jetzt Messerlänge.
+Also, je kleiner der Spanwinkel ist, desto größer wird der Keilwinkel, desto stärker wird das Werkzeug.
+Und je größer der Spanwinkel ist, desto näher schneiden sie hier rüber.
+Aber desto empfindlicher ist das Werkzeug, desto kleiner ist hier der Keilwinkel.
+Also, und da geht es jetzt um den richtigen Winkel zu finden, und es gibt sogar den negativen Winkel,
+einen negativen Spanenwinkel.
+Ein negativer Spanenwinkel heißt,
+Sie haben eine Gamma in die andere Richtung.
+Das wäre jetzt das Werkzeug.
+dann haben Sie hier
+Alpha
+einen großen Teilwinkel
+Wetter
+und Gamma
+hier ist die Senkrechte
+haben Sie Gamma
+und das ist in der Richtung
+kleiner 0
+Sie gehen sogar hier rüber
+und schneiden jetzt hier
+die Oberfläche
+dass der Span hier rüber geht.
+Ungefähr so.
+Auch das geht.
+Ein negativer Spanwinkel.
+Dann ist das Werkzeug noch stärker.
+Es geht nicht zu schnell.
+Es verschleißt nicht so schnell.
+Aber zum Spanen ist das schon
+auch sehr viel Kraft,
+weil es ist keine gute Richtung.
+Aber es geht auch.
+Wie viel sind jetzt hier? Alpha plus Eiter plus Gamma.
+Immer noch 90, weil es negativ ist. Kleiner Null. Hier hoch, hier rüber und wieder zurück sind sie hier.
+Das habe ich auch schon in der Prüfung gefragt.
+Skizzieren Sie einen Schneidkeil mit einem negativen Spannwinkel.
+Die Hälfte kann das immer nicht.
+Aber das ist im Prinzip klar, oder?
+Die Hälfte war ja auch heute nicht da.
+Also, ich muss ja auch vorher sagen, wenn die Prognose kommt.
+Gut.
+Gucken wir mal gleich mal hier drauf.
+Das ist aber ganz entscheidend.
+Je größer der Spanwinkel, desto leichter schneiden wir, desto weniger werden wir.
+Je kleiner der Spanwinkel bis ins Negative, desto mehr Kraft brauchen wir, desto stabiler und stärker ist das Werkzeug.
+Gut, das wird das ein oder andere Mal noch kommen, wenn wir in die einzelnen Verfahren gehen.
+Ja, da würde ich jetzt einfach mal drüber gehen.
+Also genau, wenn ich sage, skizzieren Sie mir einen Schneidkreis mit den Winkeln und den Flächen.
+Ich sage mal, was da nicht richtig ist.
+Manche sagen, die Freifläche ist hier.
+Stimmt nicht.
+die Freifläche
+ist eine Fläche des Werkzeugs.
+Das ist das Werkzeug.
+Und diese Fläche ist die Freifläche.
+Und diese Fläche ist die Spanfläche.
+Und nicht das hier.
+Das ist der Span, der hier hochgeht.
+Aber das ist eine Fläche, die hat keinen Namen.
+Die ändert sich ja sowieso hier.
+Und das nächste ist, was auch gern falsch gemacht wird,
+der Spanwinkel.
+Hier.
+ist der Winkel zwischen der Spanfläche am Werkzeug und der Senkrechten.
+Und nicht zwischen Spanfläche und Span.
+Der Span hat gar keinen Winkel, richtig.
+Also, Spanfläche und Freifläche sind die Flächen am Werkzeug.
+Heißt sich das wirklich gut, wenn man das anwenden will.
+Gut, und die Spanfläche ist da, wo der Span drüber sich bewegt.
+Die Freifläche sind die Flächen, die über der Oberfläche sind.
+Und da wird auch die Lebenszeit gebraucht werden.
+Ja, und jetzt haben wir eine Seite, die ist leider sehr kompliziert.
+Die ist aus diesem Literaturpraxis der Zerspanntechnik sehr unübersichtlich,
+aber ich habe auch kein besseres Bild gefunden.
+Was meint das? Wir haben ein paar Flächen, die wir drüber reden.
+Also zum Beispiel, was wir eben angeguckt haben, war von der Seite. Wir gucken von der Seite auf den Streitkreis.
+Die Ebene nennen wir Keilmess-Ebene.
+Da können wir den Keil messen.
+Deshalb der Name, die groß gewinnt es.
+Wenn das hier ein Drehmeißel ist,
+wie gesagt, wir gehen irgendwann ins Labor und gucken uns die Sachen an,
+hier ist ein Drehmeißel, hier vorne ist die Drehmaschine, hier ist das Werkstück.
+Das würde jetzt hier vorne sich drehen, so, das habe ich hier noch ergänzt.
+Das dreht sich also so und dann ist das hier die Schneide, damit wird eigentlich geschnitten.
+Die Keilmessebene ist, wenn wir hier auf diese Schneide gucken, die Schneide wird hier gebildet
+und dann sind wir hier bei der Ebene 3.
+Das ist die Ebene 3, da gucken wir von der Seite auf diese stelle Schneide drauf.
+Dann haben wir dieses Bild, seitlich auf die Schneide oder entlang der Schneide drauf.
+Wenn das die Schneide ist, gucken wir entlang der Schneide.
+Das ist die Keilmessebene. Das brauchen wir, dass ich eben sagen kann, zeichnen Sie einen Schneidekeil in der Keilmessebene.
+Das ist genau das, was wir vorher hatten.
+Das ist also die eine Ebene.
+Die nächste Ebene, die wir brauchen, ist, wenn wir von der eigentlichen Ebene, von Nummer 4, von der Arbeitsebene, wir gucken von vorne drauf.
+Wenn wir von vorne drauf gucken, sehen wir, ein bisschen projiziert, ein bisschen abstrakt, aber es geht schon.
+Jetzt zeige ich es am besten, dann haben wir unser Bauteil.
+Teil. Das dreht sich hier. Wir haben hier unseren Drehmeißel. Während es sich dreht,
+Wir haben hier unseren Drehmeißel, da gucken wir eigentlich im Land von dem Drehmeißel,
+da sehen wir allerdings nichts, der steht hier vor, so, ja, der Drehmeißel kommt hier
+Und jetzt, was bewegt sich? Es bewegt sich das Bauteil, das hat hier eine bestimmte Schnittgeschwindigkeit und der Drehmeister bewegt sich in diese Richtung.
+In diesen beiden Richtungen wird gearbeitet. Deswegen sagen wir, dieser Anblick ist in der Arbeitsebene.
+Dann sehen wir die Bewegungen.
+Deswegen brauchen wir die manchmal.
+Wir sehen die Schnittrichtung und wir sehen den Vorschub.
+Das hier ist der Vorschub.
+Und das hier ist die Schnittgeschwindigkeit.
+Das ist die Arbeitsebene.
+Oder hier diese Ebene 4.
+Frontal auf das Werkzeug.
+Und das Letzte, wenn wir von oben drauf gucken,
+das ist hier,
+ich muss mal weiter weg gehen, das ist was sehr,
+Das ist die Ebene 1, also die horizontale Ebene, die hier drin liegt.
+Das ist die Werkzeugebene.
+Und wenn wir das Werkzeug hier nicht sehen, in der Werkzeugebene sehen wir es.
+Wenn wir von oben drauf gucken, dann sieht das Ganze so aus.
+Und das Werkzeug ist hier seitlich drin.
+Das ist der Blick von oben.
+In der Werkzeugebene, da sehen wir das Werkzeug, da sehen wir diesen Winkel, da können wir andere Sachen sehen, wie das gleiche Form das Werkzeug hat.
+Und die Schneidebene brauchen wir nicht, aber hier sollen wir zumindest wissen, welche drei Ebenen, was ist die Werkzeugebene, was ist die Keimwestebene, was ist die Arbeitsgebene.
+Hier sehen wir, wo gearbeitet wird, in rot, hier sehen wir das Werkzeug.
+Und hier sehen wir den Werkbildschneidkeil mit Freimückel und Spanmückel.
+Und wenn wir gehen nach Freimückel, Spanmückel und Keimückel.
+Kein schönes Bild, aber noch einmal, ich habe kein besseres gefunden.
+Soweit so klar?
+Also müssen wir jetzt da noch dazuschreiben, links ist die Arbeitsebene, Nummer 4.
+Wenn man das zusammen sieht, da ist das hier Nummer 4, Arbeitsebene, und das ist die 1, die Werkzeugebene von diesen Nummern hier.
+Und, sind Sie noch fit?
+Oder reicht es für heute?
+Es ist immer ein gutes Zeichen, wenn es halb zwei schon durch ist und sich keiner wischen
+mehr.
+Ich sage das schon um.
+Wir sind heute schon durch.
+Für heute reicht es erst mal. Wir haben den Einstieg gemacht in die Fertigungstechnik und so ein bisschen in die Grundlagen.
+Das war jetzt auch der schwierigste von den Grundlagen, dass du sehr abstrakt bist in diese Richtung.
+Aber das soll für heute reichen.
+Dann reicht es für zwei Mal.
+Ich habe etwas überzogen, etwas zu lange gemacht.
+Entschuldigung dafür.
+Recht weit.
+Dann sind wir fertig.
+Guten, schönen Nachmittag, morgen einen schönen Feiertag, morgen ist frei, wir haben viele Feiertage in Deutschland.
+Hey, jetzt in China, was sind die Feiertage?
+In China, gestern auch.
+Gestern?
+Ja, aber das dauert für sieben Tage.
+Was ist das?
+Auch das ist das gleiche in Deutsch, aber vom letzten Tag im Oktober bis zum nächsten Tag im Oktober.
+Kurvadekommunikation?
+und dann auch keine Folie
+sondern keine Arbeit
+das ist das Wichtigste
+na dann, bis nächste Woche

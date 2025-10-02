@@ -1,0 +1,1319 @@
+Ich würde sagen, die Inhalte Ihres Studiums sind die richtigen Veranstaltungen und entsprechenden Lehrveranstaltungen.
+Wir sind jetzt hier bei den Maschinenelementen und Maschinenkonstruktionen angekommen.
+Wir machen auch zusammen eine Vorlesung aus der Fertigungstechnik.
+Wir werden sehen, dass diese Maschinenelemente, die Konstruktionen, auf die man zugreift, die Sie in der Vergangenheit gemacht haben,
+die dann ihre Aufgaben berechnen, einige typische Maschinenelemente berechnen,
+dass sich die Aufgaben in der Mathematik ein bisschen in die technische Mechanik auch wieder zugreifen werden.
+Ich weiß nicht, kennt jemand die alte Lehrveranstaltung, die der Bohnen gemacht hat?
+Er hat sehr stark auf das klassische Überrechnen Wert gelegt.
+Ich werde das ein bisschen anders machen.
+Wir gucken noch mal ein bisschen tiefer in diese technische Mechanik rein,
+die man braucht, um daraus ableiten zu können, wie man diese Maschinenelemente berechnet.
+Welche Beanspruchungen sind da? Wie kann man die Beanspruchungen abschätzen?
+Und wie kann man daraus Maschinenelemente einer Berechnung zugänglich machen?
+Ansonsten finde ich, hängt das ziemlich im stehenden Raum, diese Veranstaltung.
+Bei den Maschinenbauern ist das ein Kernelement.
+Wenn wir Maschinen bauen möchten, die konsolidieren können, dann müssen die diese Maschinenelemente durch den
+Ich hoffe, dass ich jetzt, wenn das heute nicht der Fall ist, spätestens am Montag,
+und dann wird unter der Maßgabe Maschinenelemente, Maschinenkonstruktionen, dort die Vorlesungsunterlagen abgelegt.
+Ich habe das jetzt noch nicht in der Gänze so im Kopf, wie das aussehen wird,
+wie wir uns da so fortschreitend dieser Vorlesung den Inhalten nähern.
+Grobklingelung habe ich natürlich schon.
+Ein Maschinenelement kann ganz allgemein als kleines, das nicht verbunden wird, zu zermühen.
+Das ist ein gleicher oder ähnlicher Form, wenn wir das V-Teil in technischen Anwendungen verstanden werden.
+Das sind so typische Definitionen.
+Dabei werden wir so ein bisschen den Schwerpunkt legen auf sogenannte Vernehmungselemente.
+Dort, wo aus mehreren Bauteilen eine Baugruppe beispielsweise hergestellt wird,
+Wenn Sie Fragen haben oder was nicht verstehen oder ich zu schnell bin, dann können Sie mich auch sehr gerne unterbrechen im Morgen.
+Vielen Dank.
+Hier findet man das unter Maschinenelemente, Maschinenkonstruktionen, Aluminiumkurs,
+wahrscheinlich die Zähne, die da drin sind, und das ist der Land.
+Wenn man sich die Verbindungselemente anschaut, sieht man, dass sie ja häufig blüten,
+die eine Rolle spielen, auch heute im Flugzeugtau,
+Vielen Dank.
+und macht sie einer Berechnung zugegen.
+Dabei ist es immer wichtig, dass die Konstruktion natürlich am Ende des Tages funktioniert,
+dass sie eine korrekte Auslegung gemacht haben
+und dass diese Konstruktion dann auch eine gewisse Sicherheit mit sich bringt.
+Übertragungselemente, Unterlagerungselemente, zum Beispiel bei Wänden,
+Wenn die Kleid- oder Weltslager eingebracht werden, kann man sagen, dass die Anzahl der Kleidlager in einem Automobil,
+wo er dort geserbt wird, ein bisschen mehr Zeitung herrscht, wenn die Kleidlager oder Weltslager in einem Werkzeug übertragen werden sollen.
+Wir haben hier die Übertragungselemente von Bewegen, Zahnrädern, Bewegen, Kettenbewegen, Zähne, Zähne, Dichtungselemente,
+mit denen wir auch mal Probleme bereiten können, Elemente zum Transport von Flüssigkeiten.
+Wir werden mal gucken, wie man einen unter Innendruck bestehenden Verhältnis berechnet,
+wie man dort eine Wandstärke findet, in einem der Innendruck bestehenden Behälter.
+Das sind sogenannte Fluggeräte, die nach der Auslegung sicherer Erfolge durchgeführt werden können.
+Ich habe jetzt nicht die Arbeit gemacht, alle Literatur hier anzuschrecken.
+Wenn man aus dem Maschinenbaustudium rausgeht, auch wenn es ein Anführungszeichen wie I ist,
+sollte man Rudolf Mathe gekannt haben.
+Das ist die Bibel sozusagen für Maschinenelemente, die wunderbare Abhandlung über die diversen Dinge, die werden das wahrscheinlich jetzt nicht so gut machen wie ein Maschinenbauer, der unter Umständen immer wieder mal solche Dinge berechnen muss, insbesondere wenn er ein Konstrukteur ist, ein Bauteil, eine Wandstärke zuordnen muss,
+so wie wir es in Grundzügen bei der technischen Mechanik kennengelernt haben,
+das, was wir als Dimensionierung dann bezeichnen.
+Meine Veranstaltung orientiert sich sehr stark an den Herrn Wilzen,
+der, ich sag mal, nicht aus der Maschinelemente-Scheule,
+sondern für Wirtschaftsingenieure gemacht hat,
+Wo man nicht schön sehen kann, muss ich auch mal...
+...2012, bei dem wir hier sind, zwei Jahre lang.
+Dann hat man Zeit dann bei den Kühlbäumen gemacht,
+letztmalig im 2021 und da gibt es mittlerweile nachfolgende Auflagen
+bei dem Herrn Hinzen, das ist mittlerweile die dritte Auflage aus 2014.
+Aktuelle, das ist glaube ich so das Jahr 2020.
+Das sind alles recht schöne Darstellungen.
+Also wie gesagt, ich mache das hier einfach mal mit dem Fett.
+Den habe ich hier dazu erboren, so ein bisschen die Hauptrolle zu spielen in der Art und Weise, wie diese Vorlesung aufgebaut ist.
+Ich kenne jemanden, den Maschinenbauern, und wir wissen, was die Maschinenelemente die ganze Zeit gemacht haben.
+Die ganzen Formeln, die Sie da jetzt kennenlernen, müssen relativ gut auswendig werden und anwenden können.
+Aber wichtig ist jetzt, Inventionierungsregeln sollte man anwenden können.
+Das heißt, hier weist man eine Bauteile, eine Wandstärke zu.
+Dazu brauchen wir Mechanik, wir brauchen Festlichkeitslehre.
+Was haben Sie denn in der Festlichkeitslehre gemacht?
+Sie sind davon hängengeblieben.
+Wir haben halt beobachtet, wie sich das Material unter bestimmten Gegebenheiten verhält.
+Also wenn man es dann zum Beispiel Zug versuchen sollte,
+Man guckt sich das Verhältnis an.
+Wir sind aber bei der Werkstofftechnik.
+Werkstofftechnik liefert Kennwerte und Materialien mit entsprechenden Kräften, Momenten,
+um daraus Deformationen zu berechnen.
+Und die technische Mechanik liefert die Formel dazu, wie wir das machen.
+Das Handy hier wird jetzt gebogen, dann wird es gezogen, es wird tordiert, also die unterschiedlichen Lastfälle.
+Und dazu liefert die Festigkeitslehre oder die technische Mechanik die grundlegenden Formeln in Überrechnung machen.
+Die Werkstoffkennwerte sind wichtig, um zu sehen, dass das Bauteil auch überlässig funktioniert.
+Dass es eine plastische Deformation aufweist und dass es in einem sicheren Bereich getrieben werden kann.
+Wir werden uns da sogenannte Federn anschauen.
+Wo kommt der Begriff Feder her?
+Wir haben keine Federn, die wir hier in der Maschine brauchen.
+In dem Sinne, sagen die Maschinenbauer, die diese gewissen Abstraktionen eignen, dann sagt doch Feder.
+Das kommt von dem Herrn Hug.
+Ein Buch hat ein Materialgesetz aufgestellt, das war Sigma ist E mal Epsilon, das kennen Sie aus der Werkstofftechnik und das kennen Sie aus der Auslegung von Bauteilen, aus der technischen Mechanik.
+Das Bauteil besitzt eine Spannung und im Ergebnis wird eine Spannung angelegt und es ergebt eine Deformation.
+Das ist unser Epsilon.
+Dies versehen mit dem Proportionalitätsfaktor E-Modul, um daraus aus der Spannung eine Emo zu ergeben.
+Und der hoch mag, ich habe jetzt hier einen Zugstab, der kriegt eine Spannung, daraus resultiert eine Deformation.
+Ist der E-Modul niedrig, gibt es eine große Deformation.
+Ist der E-Modul hoch, gibt es eine niedrige Deformation.
+Damit können wir das einer Berechnung zugänglich machen.
+Die Feder ist sozusagen in dem Moment gegeben, das Bauteil wird deformiert.
+Ich bleibe im elastischen Bereich, ich gebe die Kraft zurück und das Bauteil geht in den Ursprungszustand.
+Das ist so das Prinzip. Wir wollen diese Bauteile bewerten danach, dass sie dieser plastischen Deformation aus dem Wege gehen,
+die Bauteile immer wieder mit dieser Kraft belastet werden können, ohne dass es zu einem Versagen kommt.
+Wenn sich das Material verformt, unzulässig, zum Beispiel durch eine Bleibende,
+dann ist das nicht so informativ.
+Und diese Grundlagen, die bringen sie sozusagen mit.
+Das heißt, welche Themen werden jetzt hier behandelt?
+Die werden Leute uns ein bisschen im Grundsatz der Konstruktion anschauen.
+So ein Kapitel, da fliegen wir so ein bisschen schneller durch, würde ich sagen.
+und dann fangen wir vielleicht nächste oder übernächste Woche
+dann die Grundlagen nochmal der Festigkeitswärme an.
+Wir gucken uns nochmal die ursprünglichen Lastfälle an
+und gehen dann zu den Federn.
+Das sind jetzt metallische Bauteile, die mit einer Last versehen werden.
+Die Last ist nur so groß, dass es zu einer elastischen Form kommt
+und die Feder sozusagen, einigermaßen wie so eine Feder beim Automobil,
+die man zusammendrückt, dann wieder in den Ursprungszustand nach Lastwegnahme zurückgeht.
+Dann habe ich ein großes Auge für Verbindungselemente.
+Da gibt es schöne Aufgaben zu rechnen, wo man dann sieht, wie man das Ganze machen kann.
+Man rollt sie um die Stifte, dimensioniert zum Beispiel beim Prozess des Nutzens in der
+In der Flugzeugindustrie wird immer noch sehr viel genutzt.
+Da hat man dann zum Beispiel, wenn Sie unter alten Brücken durchfahren, sieht man das auch.
+Da sind sehr viele metallische Bauteile, die miteinander in Verbindung stehen.
+Da wird ein Loch gebohrt und es wird still durchgesetzt.
+Es wird nicht geknickt, es wird nicht geschweißt.
+Früher hat man am Eisenbahnbundesamt, das hat es gedauert bis in die 70er Jahre,
+bis Eisenbahnen geschweißt werden durften, weil man den rechnerischen Nachweis nicht führen konnte.
+Da gehen wir auch noch dazu, löten, kleben, schweißen.
+Dann gucken wir uns Schraubverbindungen an, ganz wichtig im Maschinenbau.
+Wenn Sie zwei Bauteile miteinander schrauben, zwei Platten, die Sie beispielsweise haben,
+setzen Sie eine Bohrung, setzen eine Schraube durch, unten sitzt eine Mutter drauf,
+Die Schraube wird angedreht, wie groß sind die Kräfte in der Schraube, wie groß sind die Spannkräfte, das kann man alles sehr, sehr schön mathematisch in Formeln berechnen, nach dem Prinzip der elastischen Feder.
+Wellen, Zapfen, Lagerungen, Zahnradbetrieb, Kupplung, Kupplung, Kupplung, Kupplung, das kann ich jetzt noch nicht wirklich sagen.
+Ich versuche das eher so vernünftig mit einem Verständnis aufzubauen, dass Sie auch hier in der Vorlesung einige Sachen selber rechnen.
+Und dann nochmal der Sprung zurück, weil ich es am Anfang jetzt nicht erwähnt habe.
+Die Prüfung wird auch anders aussehen, als das vorher der Fall gewesen ist.
+Sie brauchen hier keine 90 Minuten zu rechnen.
+Es wird 30 Minuten geben, in denen ich allgemeine Fragen stelle.
+Die Fragen müssen Sie beantworten.
+Dazu gibt es keine Hilfsmittel.
+Das ist so das prinzipielle Verständnis.
+Und dann gibt es einen Teil, 60 Minuten, der wird berechtigt.
+Die Gesamtveranstaltung ist 6 SWS, 2 Stunden Übung und Praktikum haben Sie mit dem Herrn Besler.
+Das ist dienstags immer. Ich gehe davon aus, dass das 1 zu 1 oder in dem Verhältnis 4 zu 2, 2 zu 1 dann zu einem Gesamtmodus berechnet wird.
+Da müssen Sie eine unflüssige Studienarbeit machen.
+Ich glaube, da müssen Sie die Konstruktion durchführen.
+Die Veranstaltungen sind nicht unmittelbar miteinander gekonnt.
+Eine optimale Lösung im Maschinenbau
+Es gibt verschiedenste Perspektiven, dass ein Produkt auf einer Seite, der Konstrukteur hat etwas gemacht, ich weiß nicht.
+Ich habe schon mal versucht, bei einem VW-Bietle die Türen aufzutauschen.
+Das ist ein Arbeitsaufwand von zwei Stunden.
+Das ist für mich nur so ein schönes Beispiel, wo man sagt, wer hat denn da sowas konstruiert und mit welchen Gedanken ist man denn da herangegangen.
+Also bezüglich Montage gerecht war das jetzt nicht so wahrscheinlich die tollste Lösung.
+Das hat sich vielleicht gut montieren lassen, aber eine Reparierbarkeit oder ein standhaltungsgerechtes Produkt ist das jetzt an der Stelle nicht wirklich.
+Ich höre in dem Artikel, der 20 Cent oder so was kostet, oder 50 oder 2 Euro auch nur,
+dann mit einem Arbeitsaufwand von 200, 300 Euro versehen, das um ihn austauschen zu können,
+das ist gesünder, nicht instandhaltungsgerecht.
+Optimal herstellbar, herstellen heißt Fertigungstechnik.
+Einige von Ihnen waren schon in der Fertigungstechnik, richtig?
+Heute Nachmittag.
+Das ist GABA oder? GABA. Wir sehen uns am Freitag. Oder waren Sie da schon? Einige von Ihnen waren bei mir schon wieder voll, diese Fertigung, das weiß ich.
+Sieht man gleich so ein bisschen eine Kopplung, weil ich sage mal, wenn man eine Maschine
+hat, sondern auch eine Idee davon haben, wie wird das Bauteil hergestellt, wie kann ich es fertigen, wie ist es montagerecht, wie ist es prüflerecht hergestellt vom Fertigungsverfahren logischerweise ab.
+Ich habe hier früher ein Kapitel drin gehabt zur Fertigung. Ich versuche das jetzt mal in der Fertigung zu integrieren und Sie kriegen dann vielleicht so einen kleinen Einblick oder einen guten Einblick, wie diese Koppelung vorhanden ist.
+Optimal arbeitendes Produkt ist anmeldungsgerecht, beanspruchungsgerecht, instandhaltungsgerecht, umweltgerecht.
+Recycling heißt optimal zu entsorgen.
+Wenn man heute die Diskussion betrachtet, versucht man die Dinge nachhaltig zu machen.
+Eigentlich entweder mit einem neuen Leben nochmal zu versehen und nicht unbedingt zu recyceln,
+sondern ungewahr noch mal einsetzen zu können, ist auch immer relativ schwierig, weil die Materialien, wenn sie in der Anwendung sind, in Alterung unterliegen,
+bestimmte Eigenschaften, die sie zum Anfang ihres Lebens haben, dann nicht mehr haben und weil sie dann, wenn sie zum Beispiel auch anwendungs- und beanspruchungsgerecht ausgelegt sind,
+am Ende ihres Lebens nicht weiter verwendet werden können.
+Wenn man zum Beispiel Elektronikkomponenten sieht,
+du hast hier einen Chip drin, der Chip ist in den Kunststoffen gespritzt,
+den kriegen sie nicht wieder raus.
+Motivation, um dieses Bauteil herzustellen, ist es,
+dass dieser Kunststoff, den Chip da drin liegen, vor Umgebungseinflüssen schützt.
+Wenn Sie dann aber am Ende des Lebens sagen,
+das ist jetzt super für die Anwendung, weil es dicht ist,
+Es hält ein Leben lang, 20 Jahre meinetwegen.
+Es ist beanspruchungsgerecht.
+Die Standhalter brauchen unter Umständen gar nichts zu machen.
+Vielleicht eine Batterie drin, die ein Leben lang hält und so ausgelegt worden ist.
+Und jetzt kommen sie ans Recycling und sagen, das Ding will ich jetzt auseinandernehmen.
+Das ist genau eine entgegenstehende Anforderung.
+Auf der einen Seite wollen sie Wichtigkeit und eine Haftung des Kunststoffes auf den Kühlschrank.
+Und auf der anderen Seite wollen wir uns nachher wieder auseinander nehmen.
+Da haben Sie schon in der Zielstellung zwei Sachen, die nicht zueinander passen.
+Und das gilt es dann, ich sag mal, auf der konstruktiven Seite schon zu definieren und festzuleiten.
+Wir haben typischerweise dann einen feststehenden Ablauf, in dem zunächst einmal ein Konzept erstellt wird.
+Das heißt, es gibt eine Aufgabenstellung. Diese Aufgabenstellung wird dann in eine Funktionsstruktur zerlegt und es gibt ein Konzept. Dieses Konzept muss ausgearbeitet werden.
+Die Ausarbeitung eines Konzeptes erfolgt unter Umständen zum Beispiel mit einem morphologischen Kasten,
+wo man verschiedene Funktionsmöglichkeiten einer Konstruktion darstellt, miteinander verknüpft
+und daraus eine Bewertung nimmt im Zuge einer sogenannten Nutzanalyse.
+Haben Sie das schon mal gemacht, die Nutzanalyse?
+Schon mal gehört.
+Schon mal gehört, in der BWL, glaube ich, spielt es mitunter mal eine Rolle, aber hier in der Konstruktion ist es relativ ein wichtiges Tool, wenn man, ich sage mal, vom Reißbrett bei Null anfängt, ist es sehr häufig bei der Konzeptbearbeitung und Bewertung die sogenannte Nutzwertanalyse, eine Methode, um die Wertigkeit einer Konstruktion zu sehen.
+Und dann Ranging zu machen, verschiedenste Konzepte, gucken wir uns an, wie das funktioniert, werden bewertet und dann entsteht ein Entwurf und man geht in die Fertigung von Einzelteilen, Baugruppen, Stücklisten, in die sogenannte Gestaltung.
+Kennt ihr noch diese Grafik? Ich glaube, bei Ihnen habe ich die Vorlesung gar nicht gemacht. Das ist aus der prozessorientierten BWL.
+Das ist eine ganz allgemein gültige Regel, dass Kosten entstehen durch die Art und Weise,
+wie im Konzept festgelegt, wie man ein Bauteil produziert. Da kommt nachher ein Beispiel und
+das habe ich auch noch in der Fertigungstechnik drin, weil Sie dann sehen, wenn das Bauteil so
+und so gefertigt wird, dann entstehen Materialkosten, dann entstehen Bearbeitungskosten,
+die werden determiniert durch das gewählte Konzept, durch die Art und Weise wie die gefertigt wird,
+durch die Art und Weise wie die Materialien eingesetzt werden. Ich mache jetzt gleich mal
+einen Sprung auf eine Folie, auf einer anderen Präsentation, damit man das sehr schön sieht.
+Die Kosten fallen aber erst an, wenn die Serienfertigung gestartet ist. Wenn Sie Bauteile
+kaufen müssen, Vorprodukte kaufen müssen, wenn Sie Schrauben kaufen müssen. Sie können zum Beispiel
+zum Beispiel noch sagen, naja ich will jetzt eine Verbindung herstellen, zwei Platten aufeinander kleben,
+auf irgendeine Maschine, wo ich das machen muss, sowas, die Dinger, die muss ich jetzt in Verbindung bringen.
+Ja? Wie mache ich das? Hier könnte ich eine Schweißung machen. Ich könnte mit einer Überlappung eine Klebung machen.
+Ich könnte mit einer Überlappung Löcher bohren und Nieten reinsetzen, um eine Verbindung herzustellen.
+Ich könnte auch das Ganze schrauben.
+Wenn ich es schraube, kann ich die Schrauben wieder aufkleben und ich kann die Verbindung wieder lösen.
+Klebe ich das oder mache ich diese Nietverbindung, dann ist es eine dauerhafte Verbindung.
+Und damit wird über die Wahl des Fertigungsprozesses festgelegt, welche Kosten später anfallen.
+Für die Schrauben, für die Bauteile, für die zusätzliche Überlappung brauche ich mehr Material.
+Ich muss die Löcher bohren und damit werden die Kosten festgelegt und die Art und Weise des gewählten Konzeptes.
+Die Kosten werden determiniert über das Konzept.
+Die fallen aber erst an, wenn ich die fertige.
+Das Erkornstruktur hat einen großen Anteil an der Kostensituation geauftritt.
+Hier zum Beispiel, das Beispiel habe ich in der Vorlesung,
+Das ist einfach nur ein Anschlagpolster in einer Maschine, eine ganz einfache Probefunktion.
+Der wird hier hergestellt durch ein Aluminiumbauteil, das aus dem Vollen gefräst wird.
+Da fährt ein Fräser drüber, färbt die Konturen ab, dann wird ein Schraube dabei gedreht.
+Das ist so diese Konstruktion, die man gebildet hat.
+Jetzt kommt einer um die Ecke und sagt, das können wir auch anders machen.
+Wir können das nicht unbedingt aus dem Aluminium, das ist ein teurerer Werkstoff.
+Ein Kilogramm Stahl, ich weiß nicht, kostet heute zwischen 3 und 5 Euro.
+Ein Kilogramm Aluminium kostet 20 Euro.
+Und wer hat das hier aus dem Folien herausgefräst?
+Das, was hier quasi als Blockfeuer gewesen ist,
+das ist ein Gesamtabfall, den Sie produzieren,
+leistet einen Beitrag zu den entstehenden Kosten.
+Jetzt haben wir da in einer Maschine dutzende solcher Bauteile.
+Darunter ist es beschrieben, man hat jetzt mit einer 2D-Lasermaschine ein flaches Blech hergenommen,
+hat aus dem Blech eine Kontur herausgeschnitten und diese Kontur wird gebogen.
+Das kann man mit Stahl machen, der billiger ist.
+Dann sieht die Konstruktion jetzt so aus.
+Die Funktion ist die identische.
+Die Funktion ist die identische.
+Das ist ein Anschlagbolzen für eine Maschine, wo irgendwas verfährt und dort zum Stillschneiden.
+Und dann sieht man, wenn man diese Fertigungstechnik verändert,
+von aus dem vollen Fräsel Aluminium mit Stahl, mit einem Laser geschnitten, aus einem Blech und umgebogen,
+entstehen 80% niedrigere Kosten.
+Die Kosten, die der Fertigung anfallen, werden durch das Konzept und die Fertigungstechnik determiniert, fallen aber erst bei Produktion entsprechend an und 80% nutzen wir.
+Ein Beispiel dafür gibt es Dutzende.
+Es gibt in den Firmen auch ganze Abteilungen, die machen nichts anderes und schauen sich an,
+wie stellen wir bestimmte Bauteile her.
+Ich habe vor sechs, sieben Jahren halbes Dutzend Arbeiten betreut,
+die sich genau mit dem Thema auseinandersetzen.
+Wo Studenten in die Firma reingegangen sind und die Aufgabe hatten,
+für eine bestehende Baugruppe alternative Fertigungstechnologien zu evaluieren.
+Kann ich die Lebensdauer verlängern?
+Kann ich andere Materialien wählen?
+Kann ich die Aufgabe anders lösen?
+Das Problem bei der ganzen Sache, Sie treten, wenn Sie sagen,
+das hat der Konstrukteur gemacht, das war seine Entscheidung.
+Sie haben einen morphologischen Kasten gemacht,
+Sie haben gesagt, wir machen das so.
+Das bei uns in den Maschinenpark, alles klar.
+Und jetzt kommt einer daher und sagt, Alternative wäre das, 80% billiger.
+Dann dreht sich natürlich ein Konstrukteur erstmal auf den Stips, der das so entschieden hat.
+Und das ist immer besser, wenn das jemand von extern macht, als wenn das jemand ist, der in einer Abteilung mit drin sitzt und sagt,
+hey, da ist ein Fehler passiert oder es gibt alternative Technologien, die wir jetzt evaluiert haben.
+Wir können das anders herstellen.
+Ich könnte zum Beispiel auch vorstellen, dass Sie einen Spritzbus mit einem Kunststoffbauteil machen können.
+Wenn Sie eine große Serie haben, ist der Kunststoff dann häufig sehr, sehr viel kostengünstiger.
+Das heißt, hier um das nochmal zu sagen, durch die Wahl des Konzeptes, das heißt, welche Fertigungsprozesse setze ich ein,
+werden kostenbestimmt determiniert und sie fallen aber erst an, wenn sie sehr gut fertig
+worden sind. Das ist jetzt hier prozentual dargestellt. Hier haben wir ein Modell, das
+Das ist eine Schnittdarstellung, technische Zeichnung einer Welle, die den Drehmoment überträgt.
+Das sind zwei Nullwellen, da ist eine innere Welle drin und jetzt muss ein Drehmoment übertragen werden,
+in der äußeren Welle, das ist zum Beispiel ein Zahnradseil, auf die innere Welle.
+Das macht man hier mit so einem Passstift.
+Wenn wir jetzt einen Drehmoment haben, das außen wirkt, gibt es hier im Bereich, im Moment in die Richtung, wird es hier eine Kraft geben in dieser Fläche.
+Es wird hier außen eine Kraft geben und die Übertragung führt mit einem weiteren Verlauf auf das innere Bauteil, dann hier über diese auftretenden Presskräfte in der Verwendung.
+Da müssen wir natürlich wissen, was ist das hier für eine Beanspruchung.
+Hier herrscht eine Fressung, eine Flächenfressung.
+Hier die Kraft in die andere Richtung.
+Und dazwischen wird der Stift abgeschert.
+Das sind jetzt die Aufgaben aus den Maschinenelementen heraus.
+Das ist für mich so ein bisschen die Rücklage, die ich Ihnen da nochmal bringen möchte.
+Sie hat ein Modell gemacht, sie hat die Kräfte angetragen und aus ihrer Konstruktionszeichnung,
+die hier ursprünglich vorhanden ist, ein Modell gebildet.
+Sie sollten dann in der Lage sein, einfach die Formeln anzuwenden, um diese Bauteile zu besorgen.
+Um zu sagen, das Drehmoment, das ich hier übertrage, kann mit dem Stift, dessen Durchmesser D geträgt, übertragen werden.
+Sicher übertragen werden, ja, in einer Sicherheit.
+Das ist hier so das, was wir am Anfang machen werden, das so ein Grundverständnis entwickelt ist.
+Ich finde, der Herr Bohn hat das ein bisschen anders gemacht als der Herr Klinger,
+Herr Klinger, das ist beides so eine typische Konstrukteure, die sehr viel im Thema drin sind und diese ganzen Normen und Dinge kennen.
+Ich versuche das jetzt hier ein bisschen plastischer zu machen, sozusagen im wahrsten Sinne des Wortes, dass Sie diese Grundelemente kennenlernen.
+Hier ist zum Beispiel ein Modell aus der technischen Mechanik heraus, das ist jetzt die Bild aus.
+Ja, also typischerweise, was der Maschinenbauer macht, der hat jetzt hier einen Balken, der ist hier eingespannt, da ist ein Lager dazwischen, der Balken gibt jetzt die Kraft, da oben biegt er sich an der Stelle durch und wir können jetzt über diesen Biegmomentenverlauf, der hier herrscht, die lokale Deformation brechen, wenn wir das möchten.
+Wir machen einfache Modelle mit Maschinenkraftverläufen.
+Wenn ich jetzt auf eine Maschine sehe, wie jetzt hier sowas zum Beispiel.
+Hier ist ein Weltslager, da ist ein Weltslager, hier ist ein Zahnrad mit einer Schrägverzahnung.
+Da greifen Kräfte an, die Kräfte können zerlegt werden in X und Y-Komponente.
+Und hier ist mein Lager, da ist mein Lager, da vorne ist ein Trinkmoment, was angreift.
+Und ich muss jetzt berechnen, hält das Lager diese Kräfte aus?
+Dann müssen Sie ein Modell machen, Sie müssen die Kräfte antragen, Sie müssen schauen,
+wie sind die Kräfte, Normalkräfte, was verhalten die hier in der Maschine zu dieser Produktion.
+Das ist das, was man dann am Ende des Tages als Maschinenbauer sozusagen macht.
+Und um daraus Rückschlüsse zu ziehen, brauche ich eine andere Dimensionierung.
+Sie weisen dieser Welle, die wir jetzt hier haben, einen Durchmesser zu.
+Da kann man sich das so ungefähr vorstellen.
+Das ist die Anwendung der technischen Mechanik auf einfache Bauteile, wie zum Beispiel diese Verklebung.
+Ich habe jetzt hier Kleber aufgebracht dazwischen.
+Und Sie machen eine Zugbahn.
+Was passiert mit dem Kleber dazwischen?
+Würden Sie so kleben?
+Oder würden Sie so kleben?
+Ich würde die immer noch mal kleben.
+So eine Verlappung?
+Ja.
+Das ist typischerweise, was man bei einer Klebung macht, braucht aber mehr Material,
+ne?
+Ja.
+Wenn wir so eine Klebung, eine Fläche haben, beim Automobil ist es beispielsweise so, ich
+kann mich da noch erinnern, ich habe in den 90er Jahren studiert, da hat man angefangen,
+Fensterscheiben, also die Scheiben beim Auto zu kleben.
+Früher waren da immer Gummidichtungen drin.
+Die Gummidichtungen haben keine Kräfte übertragen.
+Wenn jetzt die Karosserie sich verformt und die Scheibe bleibt da drin liegen,
+dann hat der Gummi die Deformation aufgenommen, die Konstruktion als solches war relativ biegeweich.
+Heute mit den geklebten Autos, mit den Frontscheiben, wird die Karosserie versteift.
+Dann müssen Sie ja auch sehen, dass Sie das irgendwie in die Berechnung reinbringen,
+über die Fläche, die sie einbringen, die Kräfte auftreten und die Deformation berechnen.
+Mein damaliger Maschinenelementeprofessor hat gesagt,
+wir werden schon noch sehen, was wir von dem Kleben haben.
+Erst hat man angefangen, die Eckscheiben zu kleben, dann die Frontscheiben.
+Das funktioniert alles heute sehr gut, technisch zuversichtlich,
+wobei manche Scheibe schon mit einer gewissen Spannung versehen ist,
+die kleinste Einschläge raus, um die Scheibe auch reißen zu lassen.
+Aber das sind vielleicht auch Fertigungsthemen, die hier eine Rolle spielen.
+Das heißt, wir haben so eine viel kleinere Fläche bei so einer Stumpfverklebung.
+So etwas würden wir eher machen beim Schweißen.
+Und durchgelegte Schweißung macht.
+Und wie das Material dann ist.
+Ich sage mal, ich bin hier.
+Ich habe eine Frage, aber es ist ja nicht so einfach so Metall zu kleben, oder?
+Weil es hält ja nicht so viel aus allgemein und es ist ja schwer so Kleber auf Metall aufzubringen.
+Ich weiß nicht, ob ich in der Veranstaltung das Zeichen habe, aber es gab mal so eine Weltrekord,
+und der Stahlseil gehangen hat und der Stahlseil ist mit Kunststoffkleber so stumpf geklebt worden.
+Dann haben wir die Zugkraft, die herrscht und die Querschnittsfläche die Kraft berechnet oder die Entspannung berechnet, die dieser Kleber aushält.
+Sie können heute, und das macht man in vielen, vielen Fällen, strukturell kleben.
+Strukturell heißt, die Kräfte, die dort auftreten, gehen voll in die Konstruktion rein und der Kleber hält das aus.
+Der Nachteil ist halt, sie können nicht mehr auseinander. Sie sind nicht mehr lösbar in der Verbindung.
+Und sie brauchen die Überlastung. Aber das funktioniert sehr sehr gut.
+Im Automobil wird das gemacht.
+Im Normalraum werden Karosserien geschweißt, haben sie auch Überlappungspunkte und im
+Auto werden Schweißpunkte gesetzt, um die Karosseriebauteile, die vorher als Blech
+tief gezogen worden sind, miteinander zu verbinden.
+Das ist der Produktionsprozess des mittlerweile ausgelaufenen BMW i3.
+Es sind Karbonfaserbauteile, die werden in einer Presse hergestellt, es gibt Kunststoffbauteile, es ist Leichtbau und im Flugzeugbau werden hier zusätzlich an der Überlappungsstelle Löcher gebohrt und neben gesetzt, um Kräfte besser übertragen zu können, um mehr Sicherheit zu haben.
+Macht aber keinen Sinn. Diese Carbonfasern tragen die Kräfte innerhalb der Faser.
+Und jetzt bohren sie ein Loch in diese Faser rein. Sinnlos eigentlich.
+Und BMW hat gesagt, wir wollen das nicht. Im Flugzeugbau wird geklebt und genietet.
+Sie übertragen strukturelle Kräfte. Für die Konstruktion war das nicht wichtig.
+Hier hat man eine Carbonfaser, die wird nur noch geklebt.
+Die gesamte CFK-Karosserie dieses Fahrzeuges, da ist der Kleber auftraglos.
+Das wird man gleich sehen.
+Der Kleber wird aktiviert mit solchen Lampen, also Infrarotlampen.
+Die erwärmen den Kleber, der dann ausreaktiviert.
+Alles viel zu langsam vom Prozess her, weil das Schweißen geht viel schneller,
+kriegen Sie ganz andere Taktzeiten.
+BMW baut zweieinhalb Millionen Fahrzeuge im Jahr,
+wenn die alle Fahrzeuge mit Carbonfasern geklebt würden, hier sieht man jetzt gleich die Klebeauftragung.
+Das dauert alles viel zu lang.
+Es ist aber technologisch interessant, sich mit dem Thema auseinanderzusetzen,
+weil die Carbonfaser, die stärken Werkstoffe, hier sieht man die Klebeauftragung.
+Was würde mehr aushalten, so eine Verklebung oder wenn man es schweißt?
+Also jetzt, hier ist es schwer, aber allgemein.
+Das sind nur Plaste, die können Sie nicht schweißen.
+können sie nicht mehr aufschmerzen sind verletzt chemisch verletzt als solches
+können sie nicht mehr schweißen das können sie mit thermoplasten machen
+was hält mehr aus
+ist eigentlich eine frage was ist das für ein werkstoff wenn sie metall
+Bei Schweißen wird der Schweißdraht normalerweise immer mit einer größeren Festigkeit im Material versehen als das Grundmaterial.
+Also hält das 100% aus.
+Wenn Sie eine Schweißung haben, so eine Stumpfschweißung, auch bei Kunststoffen, die halten genauso viel aus wie das Grundmaterial.
+100% in vielen Fällen.
+das zu quantifizieren
+macht aber keinen Sinn
+weil das hier jetzt natürlich
+mit der Überlappung was anderes ist
+ein anderes Konzept
+und es ist ein anderer Ansatz
+und es spricht für beide Lösungen
+mit entsprechenden Punkten
+der eine braucht
+nur wieder Material
+hier haben Sie diese ganzen Überlappungen
+Sie haben hier ewige Zykluszeiten, um so eine Karosserie herstellen zu können.
+Das wird jetzt gedrückt, der Kleber wird breit gedrückt und die Kräfte, die auftreten,
+wenn jetzt hier die Karosserie verformt wird, das gilt es dann zu berechnen.
+Aber es wird selten geklebt, oder? So eine Karosserie, es wird ja meistens so geschweißt.
+Also jetzt im Automobil wird klassisch Blech oder Aluminium, was es ist, wird geschweißt.
+Aber wieso wird das dann nie?
+Warum? Weil das viel zu lang dauert. Das sind Zykluszeiten ohne Ende und so eine Carbonfaser, so ein Carbonfaser-Bauteil, Aluminium habe ich gesagt, Audi macht Aluminium Space Frame, um mit dem niedrigeren Gewicht des Aluminium die Karosserie leichter zu machen.
+Aluminium hat aber einen niedrigeren E-Modul, das lässt sich leichter verformen.
+Die Carbonfasern, die sind steifer als Stahl, die brauchen weniger Material, die Dichte ist niedriger.
+Wird typischerweise im Flugzeugbau eingesetzt und auch in der Raumfahrt, weil es kostet viel, also ist es deutlich teurer.
+Aber was im Gewicht eine kritische Rolle spielt, ist natürlich das Material der Wahl.
+Deshalb wird im Automobil, wenn Blech oder Aluminium eingesetzt wird, geschweißt.
+Das Schweißen geht viel schneller.
+Mit einem kurzen Impuls, meistens nur so Punktschweißungen,
+dann haben Sie Zykluszeiten, da kommt alle 20 Sekunden eine Karosserie raus,
+oder alle 3 Sekunden, keine Ahnung.
+Und hier dauert das ewig.
+Das Kleben, bis der Kleber aufgebracht ist, aktiviert, Sie müssen die Oberfläche behandeln.
+Das hat man jetzt gar nicht gesehen, um das Kleben zu realisieren.
+Der Konstrukteur kann nicht immer sagen, das machen wir jetzt so und so, sondern der muss auch diese Fertigungstechnik kennen, die dahinter liegt.
+Wie man diese Bauteile erstellt, das ist schon mal ein ewiger Prozess.
+Wenn Sie ein Blech tief ziehen, ein Kurzschlügel, kommt von dem flachen Blech 1, 2, 3, 4 Stationen wird das Blech tief gezogen.
+Das macht mit Ihnen der Herr Garber.
+Da kommt alle 3 Sekunden gleich ein Blech raus.
+Wenn Sie einen Carbonfaser-Bauteil herstellen, dauert die Herstellung 90 Sekunden für diesen Bauteil.
+Und dann müssen Sie noch verkleben.
+Die Produktion ist eine andere Produktionstechnologie.
+Und die dahinter liegenden Kennzahlen ebenfalls.
+Wie sieht man das jetzt nochmal?
+Ich dachte...
+Wie sieht man das jetzt nicht?
+Die drei, das ist dieses relativ schmale Auto mit den großen Reifen, die super schmal sind.
+Der wurde von 2013 bis vor einigen Jahren gebaut.
+Er hat eine Außenbeplankung aus Kunststoff.
+Kein Blech, das tief gezogen und geschweißt ist oder geschraubt.
+Dann zum Beispiel der Kotflügel, die dann ein Spritzgussverfahren herstellen.
+Sie haben eine Form, die ist riesengroß, und Sie drücken den Kunststoff da rein.
+Anderes Fertigungsverfahren, anderes Material.
+Wird auch anders lackiert.
+Hier sieht man diese Bauteile nach der Lackierung.
+Stoßfest ist sie auch irgendwie, das erfüllt schon seine Funktion.
+Stoßfänger hinten und vorne aus dem Auto sind schon ewig aus Kunststoff.
+Und hier sieht man das jetzt. Der Kunststoff, wo er lackiert wird, muss behandelt werden.
+Hier sieht man dann so eine Flamme, die aktiviert die Oberfläche.
+Die Oberfläche abgeflammt. Und da muss eben die gesamte Fläche gemacht werden.
+Das ist ein anderes Material, brauchen Sie andere Prozesse. Und Sie kriegen eine andere Kostenrichtung.
+Und da steht immer so ein Wettbewerb.
+Wenn Sie Metallkarosserie lackieren, wird das üblicherweise über Pulverlack gemacht.
+Der Pulverlack wird auf das Metall aufgetragen und wird dann eingeprangelt in einer Straße, wo die Temperatur nach oben sparen wird.
+Hallo.
+Hallo.
+Ach, jetzt fängt das Telefon an.
+Frage jetzt sehr umfänglich beantwortet, oder?
+Ja.
+Das habe ich deshalb gemacht, weil wir diese Verknüpfung haben.
+Auf der einen Seite die Fertigungstechnik, die mit unterschiedlichen Regeln zum Bauteil kommt,
+oder zu einer Bauteilgruppe, und dann, ich sage jetzt mal auch, dafür verantwortlich ist, wie die Kosten sind.
+Wenn Sie jetzt die Leute bei BMW haben, die sich die ganze Zeit mit dem Schweißen von Metallbauteilen
+zur Herstellung der Browserien beschäftigt haben, sind das überumständlich die falschen Leute,
+und die das mit Karbonfasern machen.
+Die brauchen andere Qualifikationen.
+Ja?
+Ja, wichtig bei Maschinenelementen sind die Toleranzen.
+Wir haben im ersten Semester so einen Kurs gehabt, technisches Zeichnen, CAD, das ist bestimmt besprochen worden.
+Wenn ich zum Beispiel von einer Welle auf dem Zahnrad außen wie eine Kräfte übertragen möchte, würde man das mit einer Übermaßpassung machen.
+Was passiert dabei?
+Die Welle ist größer als das Bauteil, das außen drauf gesetzt wird, zum Beispiel das Zahnrad.
+Wie kann man sowas zusammentüten?
+Der innere Durchmesser ist größer als der äußere.
+Was wäre eine Option?
+Du musst zunächst einmal wissen, was passiert überhaupt, wenn ich das da zusammensprengen würde.
+dann kann man zum Beispiel das außen warm machen, dann geht es nicht aus durch die Temperatur.
+Dann steckt man die Welle rein, das äußere Bauteil kühlt ab und man muss jetzt wissen,
+aufgrund der vorhandenen Maße, welche Kräfte dringen da auf.
+Das ist eine Übermaßpassung, zum Beispiel kann man dann Drehmomente übertragen.
+Eine Übergangspassung kann mit einem wahnsinnigen Toleranzfeld entweder kleiner sein, als der
+Außengrundmesser, oder entsprechend auch größer, beziehungsweise das hier, wo würde
+man sowas wählen? Eine Spielpassung, der innere Durchmesser ist kleiner als der äußere.
+Hier habe ich ein Toleranzfeld des Durchmessers, hier habe ich ein Toleranzfeld, da unten
+ist immer Spiel dazwischen. Das ist eine sogenannte Spielpassung. Die würde man zum Beispiel
+wählen, wenn man relativ zueinander bewegte Bauteile hat. Beim Spritzgießen zum Beispiel
+wird ein Bauteil in einer Form mitgenommen und dann mit Stiften rausgedrückt. Diese
+Stifte sind kleiner als die Bohrung. Die Spielpassung ist in dem Fall zum Beispiel
+H7, E6. Da ist immer Spiel drin. Und damit kann man ohne Verschleiß die Bauteile gegeneinander
+bewegen. Hier ist das Morganschwert. Bauteile, die sich relativ zueinander bewegen, zum Beispiel
+Kleidlager,
+einige Hundertstel
+bis alle Zehnte als
+Größenordnung des Spiels,
+Presspassungen
+wie erhebt,
+zur Befestigung von Bauteilen,
+die Achse in ein Gehäuse
+oder in einen Arm,
+ein bis zwei
+Promille, das heißt
+ein Promille
+mal 1,5
+mal 150 µ,
+das heißt
+Die Welle hat 100,15 Millimeter und die Bohrung hat 100 Millimeter.
+Das ist jetzt hier bis aufs µ genau verrechnet.
+Und das Material mit der Bohrung soll gut sein, nicht so bissanfällig sein.
+Richtig, das wäre eigentlich das dritte Kapitel, was wir dann machen werden.
+Das ist hier momentan die Einleitung.
+Da geht es jetzt darum, dass wir uns diese Festigkeitsberechnung noch mal näher anschauen.
+Was sind auftretende Kräfte und was sind die Arten von Kräften oder Momenten, die vorhanden sind?
+Und wir müssen feststellen, dass das Bauteilversagen nicht eintritt.
+Entweder durch Bruch, durch einen Dauerbruch, bei einer schwingenden Beanspruchung.
+Eine schwingende Beanspruchung habe ich zum Beispiel bei der Achse, bei der Eisenbahn.
+Was passiert da?
+Hier dreht sich ja permanent die Kraftrichtung.
+Sie haben die Eisenbahn, das ist der Radlauf, da ist ein Lager. Die Achse dreht sich. Das heißt,
+das Vorzeichen der Biegung ist immer wechselnd. In jeder Umdrehung kriegt ihr einmal Zug und Druck
+von der einen Seite. Das passiert mit dem Material. Das Material reagiert sehr schnell darauf und
+Und der Unterschied, den man da hat, wenn Sie einen Zugversuch machen, dann ist der statisch.
+Sie ziehen die Probe auseinander und Sie können mit einer ruhenden Kraft dann eine Dimensionierung machen.
+Kraft ist immer gleich. Würde jetzt so stehen.
+Wenn jetzt diese Welle sich aber dreht, dann dreht sich ja im Bauteil das Vorzeichen von Zug und Druck einmal um.
+Immer wieder.
+Wenn die Welle sich dreht, da ist eine Kraft drauf und dann dreht sich das Vorzeichen von Zug auf Druck und wir sehen diese Wechselbiegung.
+Und dann hat man eine dynamische Kraft.
+Was passiert mit einem Werkstoff, wenn der eine dynamische Kraft bringt, wie kann man
+denn die Richtung ändern?
+Was passiert da?
+Wir finden eine dynamische Festigkeit und diese dynamische Festigkeit
+gegenüber statischer Last
+ist reduziert.
+Wenn im Zugversuch das Material eine Festigkeit von 700, 800, 900 Megahertz hat,
+dann hat es bei einer dynamischen Lasten deutlich niedrigere Festigkeit. Wo hat man das festgestellt?
+Bei der Eisenbahn. Bei der Eisenbahn sind nach einer bestimmten Betriebsdauer Achsen gebrochen,
+Wellen kaputt gegangen, weil man festgestellt hat, man hat das Bauteil gegen die statische
+Festigkeit ausgelegt, also man hat es mit der statischen Festigkeit ausgelegt,
+und dynamisch war er niedriger.
+Wer hat das herausgefunden,
+dass man das anders machen muss?
+Das war der Herr Böhler.
+Und da sehen wir wieder
+diese Böhler-Kurven,
+die muss die Werkstofftechnik
+haben.
+Fragen?
+Fragen Sie gerne.
+Was
+Wie beschreiben Sie die statische, was?
+Ruhende Kraft.
+Die ist immer gleich.
+Die verändert sich mal, die wird mal größer, mal kleiner, aber es gibt keine Dynamik.
+Wenn Sie jetzt, also ich sag mal so, eine Einspannung haben.
+Hier ist Ihr Bauteil.
+Hier wirkt die Kraft.
+wo die Kraft ist, im Zeitverlauf F über T konstant.
+Dann kriegen Sie eine bestimmte Festigkeit.
+Wenn aber eine dynamische Kraft einwirkt, kann es zum Beispiel so sein.
+Das ist dynamisch.
+Eine dynamische Kraft hat zur Folge, dass die Festigkeit reduziert wird.
+Das brauchen wir von den Materialen her, damit wir sagen können, hier Dauerdruck, das ist bei einer dynamischen Beanspruchung und wir möchten auch keine plastische Deformation.
+Bauteilverformung muss berechnet werden können und darf bestimmte Grenzen nicht überschreiten.
+Es darf kein Kicken, kein Beulen oder zu großen elastischen oder plastischen Verformungen geben.
+Und am Ende müssen wir aus so einer Bauteilberechnung herauskommen mit einer Sicherheit.
+Entweder hier gegen Bruch oder gegen Fließen und die muss bestimmte Kennwerte erreichen.
+Ich hatte einen Student, der war im Praktikum und der hat in der Firma Bauteile ausgelegt, Gussbauteile.
+Und der hat mir erzählt, Gussbauteile, Gussmaterialien haben innere Kerne, die sind sehr empfindlich.
+Und die haben eine Sicherheit von 6 gemacht.
+Was heißt das für die Konstruktion, wenn ich eine so hohe Sicherheit lebe?
+Sie machen die Wandstärke dicker. Sie brauchen mehr Wandstärke, weil Sie die zulässige Spannung reduzieren.
+Jetzt würden Sie sich das auch anschauen. Sie reduzieren die zulässige Spannung durch diese Sicherheiten.
+Wenn Sie jetzt ein Material haben, was weiß ich, mit einer maximalen Zugfestigkeit, meinetwegen von 100 Megapaskal,
+in die Konstruktion haben wir Sicherheit von 1, dann lassen Sie diese Spannung zu.
+Sigma zulässig
+ist gleich Sigma Max
+das heißt S
+ist 1,0
+ok
+ja
+wenn ich jetzt sage
+ich will eine hohe Sicherheit haben
+wie der gesagt hat
+S gleich 5,0
+Das Sigma-Zulässig ist jetzt das Sigma-Max durch S.
+Wichtig, Sicherheiten sind immer größer als 1.
+Sobald S kleiner als 1 ist, da geht Ihre Konstruktion kaputt.
+Oder es tritt plastische Deformation.
+Und dann habe ich jetzt hier bei einer zulässigen Spannung, statt 100 Megapaskal, das Ganze durch S, in dem Fall 5,0.
+Das heißt, ich reduziere die Spannung im Bauteil.
+Wenn ich die Spannung reduziere, wie mache ich das?
+Ich mache das Bauteil dicker.
+Das nennt man Dimensionieren, das machen wir aber noch und diese Sicherheit, die gewählt wird aus bestimmten Konstruktionen heraus, zum Beispiel hier Sicherheit gegen Bruch 2,0, Sicherheit gegen Fliesen, Fliesen ist beginnende plastische Deformation, zum Beispiel 1,5 und so wird jetzt dimensioniert.
+Und das Ganze muss dann auch unter Umständen einer Überprüfung von Außenstand halten.
+Dass man sagt, okay, der hat jetzt einen Behälter berechnet, der hat einen bestimmten Innendruck,
+der Innendruck ist vorhanden, gibt es zum Beispiel Schwankungen beim Innendruck und sind wir dann immer noch sicher?
+Deshalb werden dort dann solche Sicherheiten organisiert.
+Das würden wir uns dann alles noch näher anschauen.
+Wenn es um die normative Auslegung von Bauteilen geht, haben wir hier unten die sogenannten VDI- oder DIN-Normen.
+Wir haben es damit schon mal zu tun gehabt.
+Sie können in der Literaturdatenbank, ich weiß nicht, ob es aktuell noch geht,
+da gab es schon mal eine Diskussion, ob man die DIN-Normen rausnimmt.
+Weil die Hochschule Kempten ist sozusagen eine Außenstelle des Jugendinstitutes und Sie haben als Student, und das würde ich auch weiblich nutzen, Zugriff auf die Normen.
+Hat jemand eine Idee, was so eine Norm kostet, wenn man die kaufen muss?
+Einfachste Normen, ganz schnell 100 Euro plus.
+dass wenn Sie als Studenten Zugriff haben, können Sie sich die Sachen da runterladen und schauen, wie sind die Normen aufgebaut.
+Ich würde jetzt eine Pause machen, 15 Minuten, wenn das für Sie recht ist.
+Okay, 15 Minuten.
+Ich würde, ich sage jetzt mal, je nach Fortschritt, wenn wir zukünftig diese vier Stunden Vorlesung haben, da immer ein bisschen variieren.
+Wir brauchen noch keine 30 Minuten Pause.
+Machen wir lieber, bis wir früh am Schluss, viertel nach elf, fertig sind.
+Dann haben wir so 40 Minuten Pause, können wir die Mensa gehen oder irgendwas machen.
+Ja, das passt.
+Können wir 20 Minuten machen.
+Ja, können wir auch.
+Da oben ist schon die Cafeteria.
+Mein Werkstuhl-Tent, das ist das Parkschulstuhl, das da mit 3.
+Ich habe das hier, ich habe das hier.
+Ich habe das hier, ich habe das hier.
+Also ich würde das machen, weil, ich sage mal, die Verbindung mit Parkstuhl ist im Ausland.
+Ich habe nochmal schon mal eine, keine Ahnung.
+Aber man drückt einfach lieber.
+Ich habe den Wieler ganz oft, da muss ich ganz kurz, wenn ich ihn definiere,
+Aber die Erfahrung ist, ich habe früher auch die Praxisvorträge abgenommen von den Studis.
+Wir haben so ein Praxisseminar, wo wir auch mal gezeigt bekommen, wie man Vorträge hält.
+Und jeder muss so einen kleinen Bericht aus seiner Praxis dann machen.
+Da haben wir ganz viele, die im BI, ich sag mal, dann so verschrieene Tätigkeiten machen, wie Kaffee kochen, Tisch decken und so ein Kram.
+Also die Tätigkeitsbeschreibung, die muss schon passen, dass man da was Vernünftiges zu tun hat im Ausland,
+dass sie irgendwie so eine Organisationshilfe innerhalb einer Art Teilung sind und da irgendwie nur Käse machen.
+Das habe ich auch schon gehabt, Studenten gehabt, die haben für einen hochwertigen Fahrradhersteller Qualitätssicherung gemacht.
+ich hoffe es war auch Thailand. Da gibt es eigentlich viele Optionen, da muss man nur nachfragen,
+da muss man aktiv und frühzeitig aktiv werden, damit man auch den entsprechenden Zeitraum hat.
+Wird das ausreichen, wenn man ein Praxissemester in Amerika macht?
+Also, das ist schon teuer dort, oder?
+Ja, Moment, Moment, also ich erinnere jetzt mal, der Bosch hat zum Beispiel in Charleston ein Werk,
+Da gibt es immer wieder Studien, ich glaube die WIler sind da auch bezüglich der Auslandsaktivitäten deutlich aktiver.
+Und da gibt es im Werk in Charleston, da hat man regelmäßig Studenten, die hier als Werkstudenten arbeiten und dann dieses Auslandssemester nehmen und das A machen.
+Und dann ist es eine Frage der Verhandlung. Um Ihnen eine Idee zu geben, in Österreich wird besonders viel bezahlt, die Praktikantentätigkeit, zwischen 1.500 und 2.000 Euro. Ungefähr.
+Ohne jetzt etwas Konkretes, eine Firma zu nennen, während hier in Deutschland aber auch mittlerweile normalerweise jenseits von 1.000 Euro bezahlt wird.
+Mit anderen Firmen, die zahlen, muss man aufpassen, dass sie nicht wieder reinrutschen mit den sozialen Fragen.
+Wenn sie ein gewisses Gehalt überschreiten, müssen sie sich selbst Krankenversicherungen und eigene Beifahrt dazu bezahlen.
+Das muss man wissen. Das sollten aber auch die Firmen wissen.
+Wie sieht so eine Konstruktion, Produktion, Entwicklung aus?
+... vom zeitlichen Ablauf aus. Im Prinzip, das ist das, was wir eben gesehen haben, die Kostenterminierung, die wird hier vorne in der Planung oder Konzeption gemacht.
+Wenn das Konzept steht, es ist hier als Planung bezeichnet, das ist eigentlich ein bisschen falsch, mit Folien, die ich von den Vorhängern hier übernommen habe, weil man nicht alles wirklich ganz neu erfahren kann.
+Wenn das Konzept steht, geht es um die Umsetzung, Konstruktion, Erprobung, Arbeitsvorbereitung.
+Da hinten steht die Herstellung als kleines Charakteristikum.
+Wenn man das jetzt so sieht, die Aufwendungen für Produktentwicklung und Entstehung sind in der Automobilindustrie besonders hoch,
+weil sie relativ kurze Lebensstipendien haben.
+Und es werden auch hier ständig Optimierungen durchgeführt. Teil der Produktentwicklung ist auch die Erholung. Da sind wir aber vor der Herstellung dahinten der Gebrauch des Produktes.
+ein zeitliches Verwirrungsszenario zur Wirkung ist.
+Da hinten, das sollte je nach Produkt natürlich entsprechend
+einen deutlich längeren Zeitraum beanspruchen,
+aber hier ist natürlich die Prozesskette und die logische Abfolge
+der einzelnen Schritte bedarfscht.
+Produktfindung kann über Kreativitätstechniken stattfinden,
+was man ganz häufig hat, ist Benchmarking, was heißt das?
+Benchmarking.
+Wo kommt ihr wirklich her, weiß es jemand?
+Wirklich nicht?
+Ich habe es noch nie gehört.
+Ehrlich?
+Der war in der Folge.
+Achso.
+War schon drin, aber kam da nie vor.
+Nein.
+Also ich habe es noch nie gehört.
+Ernsthaft?
+Ernsthaft.
+Du warst fast nie anwesend.
+Doch.
+Ich war schon locker da.
+Was heißt Benchmarking?
+Benchmarking.
+Man schaut sich die Wettbewerber vor.
+Das sind Wettbewerbsvergleiche, die werden normalerweise im Marketing gemacht.
+Das Marketing guckt sich an, was macht der Wettbewerber, wie ist der Wettbewerber aufgestellt, wo ist das hier, was ist das?
+Das ist das, was wir beim Marketing machen.
+Unique selling proportion.
+Proposition, also diese eigene, was ist das wichtigste Charakteristikum eines Produktes.
+Und da sieht man jetzt schön die Verknüpfung. Im Marketing wird normalerweise auch das Benchmarking gemacht, sodass man sich dort anschaut, was macht der Wettbewerb.
+Entsteht daraus ein Bedarf, wenn der Wettbewerb ein Stück vorwärts gegangen ist?
+Häufig ist es ja immer schwierig, so etwas zu finden, zu definieren, wenn der Wettbewerb so etwas hat.
+Bei uns war das mal so ein Thema in der Industrie.
+Wohlkammer werden, Material sparen, trotz hoher Steiglichkeit.
+Und dann guckt man sich an, was kann man denn tun?
+Was kann man in der eigenen Welt tun?
+Während die Kleckstechniken, Skizzen, Patentrecherchen sind sehr häufig gute Quellen,
+um eigene Ideen zu entwickeln.
+Und dann kommt der Konstrukteur, also wer von Ihnen hat die Absicht Konstrukteur zu werden?
+Konstrukteurin?
+Hier ist aus Zurückhaltung. Darf ich fragen, was Sie im Kurs CAD gemacht haben im ersten Semester?
+Wir haben 3D-Modelle von verschiedenen Bauteilen erstellt, also Baugruppen.
+die Baugruppen oder die Zeichnungen
+dann in eine 2D-Zeichnung
+abgeleitet.
+Wir gucken uns hier das
+erst mal von der theoretischen Seite an,
+wie das kompromisse Konstruieren
+aussehen kann, wie so eine Nutzwertanalyse
+durchgeführt wird
+und wie die einzelnen Maschinenelemente
+da reinspielen in der Umsetzung
+einer Idee,
+einer Konstruktion.
+das ist natürlich immer ein Rückfluss
+den man hat
+da vorne existiert ein technisches Problem
+dann gibt es hier die Leute
+mit praktisch-methodischer
+Erfahrung
+eine Lösungsidee entwickeln
+und dann das Ganze umsetzen
+in ein technisches Produkt
+das wiederum im Rückfluss
+potenziell optimiert werden kann
+und muss
+weil es bestimmte Defizite hat
+Vielleicht in der Kürze der Zeit dort eine Rolle spielen.
+So, oder?
+Was ist das?
+Simultaneous Engineering.
+Verschiedene Phasen der Entwicklung der Produzenten,
+die sich entweder fügeinander ablaufen lassen können
+oder mit der zeitlichen Überdeckung.
+Zur Verkürzung der Entwicklungszeiten.
+Ganz häufig trennt, was ist die Gefahr von Simultaneous Engineering,
+wenn Sie Prozesse, die normalerweise nacheinander kommen,
+Wir haben da vorne gesehen zum Beispiel, erst wird konstruiert, dann wird ausgearbeitet, erste Muster werden hergestellt, dann gibt es die Erprobung.
+Häufig ist es so, dass der Start of Production erfolgt, ohne dass die Erprobung von Langzeitkennwert schon fertig ist.
+Ich kann nur davor warnen, ich habe mal so eine Karre gehabt, ein Auto, das nach einer
+Produktumstellung komplett überarbeitet wurde, war damals der Übergang vom Audi 100 zum
+A6.
+Das Ding war nach vier Jahren halb schrottreif, weil wir so viel Elektronik da eingebaut
+haben in dieser Serie erstmalig und der ganze Kram war nicht wirklich ausgetestet.
+Das Auto hat nach vier Jahren, hat sich aufgesperrt, hat sich reingesetzt, Zündung an, Radio immer volle Lautstärke.
+Konntest du nichts machen, war einfach so.
+Der Scheibenwischer ist irgendwie stehen geblieben in der Mitte hinten immer.
+Also er hat so echt ein paar üble Defekte gehabt.
+Ledersitze mit defekter Sitzheizung, das hat da nicht funktioniert.
+Also sie verkürzen die Entwicklungszeiten, um schneller am Markt zu sein.
+und schneller am Markt reißt auch, die Gefahr, dass Fehler noch im Produkt drin sind.
+Das ist jetzt ein bisschen ketzerisch gesprochen, aber das ist wirklich de facto der Fall.
+Hier ist ein betriebtes Bild, was ich vorhin da schon gezeigt habe, das hat der Kollege hier auch drin,
+mit dem weiteren Ausschnitt hier, dass natürlich auch wirtschaftliche Aspekte eine entsprechende Rolle spielen.
+Optimal herstellbar, optimal arbeiten und optimal zu entsorgen oder,
+teilen Sie sich von dem Begriff?
+Was spielt denn eine Rolle in der Produktentwicklung?
+Nachhaltig?
+Ich würde schon sagen, weil ich denke, meine Kunden achten halt darauf.
+Kommt glaube ich auch darauf an, welche Branche man ist.
+Aber ich glaube, viele Menschen hatten heutzutage vor allem, ja,
+Ja, wie zuerst bestodelt. Da gibt es entsprechende Methoden, die sind aber sehr, sehr aufwändig.
+Das ist eine LCA, Life Cycle Assessment. Welche Auswirkungen hat ein Produkt in seiner Lebensdauer auf die Umwelt usw. usf.
+und so fort. Da gibt es eine Norm dazu. Könnte man auch zitieren, das gehört vielleicht dahinten hin,
+was passiert nach dem Lebensende eines Produktes. Life, Cycle, Assessment, from Grave to Gravel,
+Ich habe jetzt letzte Woche auch das Praxis-Seminar bei den Maschinenbauern, nee, Anfang der Woche abgenommen.
+waren auch wieder Studenten dabei, die gesagt haben,
+ich will eigentlich Konstrukteur werden.
+Und die haben dann aber in anderen Abteilungen das Praktikum gemacht
+und haben gesagt, ich will nicht mehr Konstrukteur werden.
+Viele der Maschinenbauer, die wir haben, enden als Konstrukteur.
+Und dazu kriegen wir dann auch im Maschinenbau entsprechende Ausbildungen.
+Life Cycle Assessment.
+Ich habe die Norm nicht im Kopf.
+gibt es, da werden wir die Auswirkungen eines Produktes auf die Umwelt gemessen.
+Auf die Versauerung der Böden, auf die Luftqualität und ja das ist heute auch eine wichtige Kategorie
+mit dem sich Unternehmen unter Umständen auch so eine Unique Selling Proposition verschaffen.
+Eine Frage dazu?
+Also hier die Kopplung zwischen Entwicklung und Konstruktion und Fertigung und Montage,
+Die ist immer relativ eng. Der Konstrukteur verantwortet die Maschine in der Art und Weise, wie sie hergestellt wird oder im Bauteil, das hergestellt wird.
+Die Fertigung, Montage setzt das Ganze dann entsprechend um.
+Hier haben wir dann Forschung, Patentabteilung.
+Das ist nicht immer so sauber getrennt, sondern das ist meistens in einer integrierten Funktion.
+Der von Ihnen hat schon mal ein Patent gelesen.
+Das ist von lange, oder?
+Ja, vor allem in einer Sprache definiert.
+Ich selbst habe mir da auch immer sehr, sehr schwer getan.
+Sie müssen am Anfang den Stand der Technik beschreiben, Sie müssen dann die Neuentwicklung beschreiben.
+Das ist häufig ganz, ganz schwierig zu lesen, da braucht man irgendwie so ein bisschen den Zugang.
+Ich habe den nicht immer so gehabt, aber mich haben andere Sachen mehr interessiert.
+Hier nochmal das Bild, das wir vorhin gesehen haben, in einer ähnlichen Abstufung, das ist in Prozellzahlen angegeben.
+Die Kostenfestlegung findet durch Entwicklung und Konstruktion statt, in der Art und Weise, dass man sagt, wie wird das Bauteil hergestellt,
+Aber der Anfall der Kosten passiert erst auf Seite des Einkaufs und dann hier entsprechend in der Fertigung.
+70-75% der Kosten entstehen in der Fertigung und Einkauf, Materialwirtschaft.
+Entwicklung, Konstruktion kostet 6% average.
+Das muss der Konstrukteur sich immer vor Augen halten.
+er muss offen sein, Dinge dann auch anders zu machen. Änderungskosten steigen mit Fortschreiten in der Wertschöpfungskette,
+während die Möglichkeiten der Kostenreduktion, sind wir erst einmal in der Produktion angekommen, relativ gering sind.
+Also da vorne kann er in der Anfangsphase Dinge ändern und hat dann volle Auswirkungen auf die Kostensituation.
+Fragen dazu?
+Ich weiß nicht, was das für ein Bild ist. Kann mir das jemand erklären?
+Ich habe das auch nur übernommen.
+Ich könnte es ruhig sagen, ich will auch lachen.
+Wie kriegt man den Nagel da rein?
+Mit einem Schlag, oder?
+Mit einem Schlag.
+Mit welchem Werkzeug?
+Ist einem nicht egal.
+Hammer.
+Und wenn sie wieder rausholen wollen, nehmen sie auch den Hammer und klopfen wieder von der anderen Seite.
+Also Methoden sind sozusagen Werkzeuge, die passen so und die müssen auch zu einer Firma passen.
+Das gilt es immer aufs Neueste festzulegen, diese Methodenkompetenz finde ich sehr wichtig.
+Die Methoden beherrschen und auch die richtigen Methoden auswählen, damit bei der Produktentwicklung
+wir uns hier so eine dieser Methoden näherungsweise anschauen.
+Es gibt auch immer wieder neue Methoden, die dort eingeführt werden, die aber mitunter zu Schwierigkeiten führen können.
+Das Vorgehen als Konstrukteur ist in dieser VDI.
+Wie wissen wir, was VDI ist?
+Nein.
+Der Verein Deutscher Ingenieure. Können Sie auch beitreten?
+Nein.
+Ich bin in einer Zeit fertig geworden, wo man in Deutschland mit Maschinenbaustudenten
+gar nichts anfangen konnte, es gab keine Stellen und ich habe damals in den VDI-Nachrichten,
+das ist so das Blatt des VDIs, des Vereins Deutscher Ingenieure, ein Stelleninserat
+Ich habe eine Stelle gesucht. Es gab keine Stellen für Leute, die im Schwerpunkt Kunststofftechnik studiert haben.
+Und über diesen VDI habe ich dann die erste Stelle gefunden, wo sich ein Unternehmen bei mir gemeldet hat,
+weil die offiziell gar keine Stellen irgendwie ausgeschrieben hatten.
+Das war eine relativ saure Gurkenzeit.
+Vorgehen als Konstrukteur, das gliedert sich hier in vier Phasen, die wir jetzt gerne mal durchgehen würden.
+Das erste ist das Planen, dann das Konzipieren, in der dritten Phase das Entwerfen und final dann das Ausarbeiten.
+Sie haben unter Umständen verschiedene Personen, die die jeweiligen Prozessstufen durchführen.
+Durchführung. Das heißt, in einer Anforderungsliste, die ganz am Anfang steht, wenn man sagt,
+wir können Ideen sammeln über ein Brainstorming, man guckt sich den Wettbewerb an, was macht
+der und die Frage ist dann, wie kommen wir zu einem ähnlichen, einem eventuell besseren
+Produkt. Dazu ist die erste Phase des Planens von Bedeutung. Am Ende steht dann eine Anforderungsliste.
+Diese Anforderungsliste, die durchläuft verschiedener Prozessstufen.
+Hier vorne ist diese Anforderungsliste, die in einem weiteren Prozess dann Funktionsstrukturen,
+prinzipielle Lösungen, modulare Strukturen, Vorentwürfe, Gesamtentwurf und dann Produktdokumentation
+in der finalen konstruktiven Lösung mündet.
+Hier der erste Prozess ist es, die Aufgabenstellung ganz klar zu definieren.
+Ich habe in verantwortlicher Position zum Schluss unter der, ich sag mal, einer Hierarchie-Ebene
+Unterhalt des Vorstandes in der Firma gearbeitet. Mittelständler mit 1200 Mitarbeitern. Mein
+unmittelbarer Chef war der Vorstand. Und was ich immer wieder festgestellt habe, ist, dass
+wenn Ideen, die kommen zum Beispiel aus dem Vertrieb oder aus der Anwendungstechnik, Ideen
+generiert haben, wir wollen dieses oder jenes Produkt, dann gilt es, eine definitive Festlegung
+zu machen, was in dieser Anforderung
+drinsteht.
+Wenn Sie im Vertrieb nicht Techniker haben,
+die haben häufig
+gar keinen Blick dafür,
+wie so eine Anforderungsliste auszusehen
+hat.
+Was sind konkrete Anforderungen?
+Dann kommt dann irgendwann im nachgestalteten
+Prozess, Sie haben schon die Hälfte
+Ihrer Sachen ausgearbeitet.
+Ja, das Produkt muss aber noch das
+und jenes können. Es muss zum Beispiel
+UV-beständig sein, weil es im Außeneinsatz
+ist. Und das sind dann Dinge, die im Nachgang immer schwierig zu klären sind, weil dann
+auch schnell die Kosten explodieren. Das heißt, hier ist sehr, sehr große Sorgfalt am Anfang
+gesetzt. Sie müssen aufpassen, dass Sie die bestehenden Patente nicht verletzen. Es kann
+sehr teuer werden. Beim GPMA, deutsches Patent- und Markenamt, können Sie schauen, ob und
+wie Sie in Ihrem Produkt, Produktnamen zum Beispiel, wenn Produktname geschützt ist,
+haben Sie ein Riesenthema, wenn Sie dort eine Verletzung vornehmen. Da gibt es dann auch
+wir wieder klagen zwischen den Firmen. Hier hat der Kollege seinerzeit ein Beispiel angeführt.
+Samsung muss Apple 539 Millionen Dollar zahlen, weil sie Design verletzt haben.
+Plagiarios.
+Das ist hier sowas. Da gibt es Produkte, die Firmen gemacht haben, wo sie ein Design sich zum Beispiel haben schützen lassen
+und ein Wettbewerber das Ding einfach eins zu eins nachbaut und klaut.
+Hier eine Gießkanne, da unten eine Zange.
+Hier sind das Gläser, Spielbausatz Lego, Edelbahn, alles Produkte, die 1 zu 1 imitiert worden sind, Pumba,
+Vielen Dank.
+Hier haben wir ein Plagiat aus Polen, man muss ehrlich sein, die Chinesen haben da auch
+ein Faible dafür, der war schon mal in Hongkong, in Urkhausen, ich war da mit so einem Spezialisten,
+der sich da wirklich in dem Geschäft auch ausgekannt hat, weil die Mutter oder Tante
+war Vertreterin für Rolex in Deutschland,
+der ist nach Hause gefahren und hat einen Koffer
+mit 20 verschiedenen Uhren mitgenommen.
+Die Plagiate sind teilweise nicht vom Original zu unterscheiden.
+Wir müssen die Uhr öffnen, um reinzuschauen,
+ob es Unterschiede gibt oder nicht.
+Ich würde damit sagen, wenn Sie so etwas machen in Deutschland, Sie entwickeln ein Produkt, was auf dem Markt vorhanden ist, was einen Schutz hat,
+dann haben Sie ein Riesenthema, dass Sie dort mit Kosten beaufschlagt werden und Strafzahlungen beaufschlagt werden, die das Unternehmen gefährden können.
+Und das gilt es, in der Entwicklungsphase sicher festzustellen und festzulegen, dass diese Dinge hier nicht auftreten.
+Die machen das ja teilweise mit Absicht, dass man eben so sieht und gucken, was an den Gerichten, wo die Prozesse dann noch sehr lange dauern, durchaus passieren kann.
+Die Anforderungsliste, das heißt das Ergebnis nach dieser VDI-Richtlinie, wird unterschieden zwischen einer festen Forderung, die unbedingt erfüllt werden muss, und einem Wunsch.
+Wichtige Einsatzmerkmale sind natürlich Kosten, Termine, Qualität, Abmessungen, Gewicht, Kräfte,
+Größe, Häufigkeit, Funktion. Was hat das Ding für den Kunden für eine Funktion?
+Diese LCC da hinten, das sind Life, Cycle, Cost, hier vorne die Analyzes oder Assessments
+und hier sind die Kostensituationen, die über die Produktlebensdauer hinweg gegeben sind.
+Das heißt, wie wird dann festgelegt in einem definierten Anforderungskatalog,
+was sind Wunschvorstellungen und was sind Festforderungen.
+Wichtige Produkt- und Einsatzmerkmale, Gebrauchsvoraussetzungen, Einsatzort,
+Klima. Wenn Sie Fahrzeuge haben, die müssen funktionieren von minus 40 bis plus 80 Grad,
+unter Umständen ein Cockpit, wenn die Sonne drauf knallt auf einem heißen Ort, werden genau solche
+Dinge dann definiert. Schutzsysteme, Mensch und Umwelt, Instandhaltung, es gibt hier diverse
+Kriterien. Ich will da im Einzelnen drauf eingehen, das würde ich jetzt auch so nicht
+abfragen wollen, aber hier gibt es
+Anforderungsliste,
+die muss funktionieren, die muss allgemein
+verständlich sein und die muss
+verstanden werden.
+Wenn Sie mal in einer Firma drin gewesen sind,
+wie Leute, die sich über das gleiche
+Thema unterhalten,
+Techniker
+und Nicht-Techniker miteinander
+argumentieren, dann können wirklich solche
+Sachen rauskommen, das ist jetzt so ein blöder
+Was der Kunde erklärte, okay, also der hat das gemeint.
+Und das sind alles typische Stricke, die auftreten können im Rahmen von Kommunikation.
+Das hat der Projektleiter verstanden.
+Der Analytiker hat es entworfen, der hat hier die zwei Finger noch hinkonstruiert.
+Der Programmierer hat das programmiert.
+Und es gibt in dieser Kommunikation, wenn diese Anforderungsliste nicht genau definiert ist, immer Probleme, die auftreten können.
+Und das hat der Kunde in der Rechnung gehabt, das wurde installiert.
+Also es soll auf lustige Art und Weise darstellen, dass diese Anforderungsliste sehr, sehr wichtig ist
+und dass eine allgemeinverständliche Formulierung vorhanden sein muss,
+wie man das dokumentiert, wie man das niederschreibt und wie man es dann entsprechend auch umsetzt.
+Hier, Forderung, Wunsch, Forderung, Wunsch, Anforderung Nummer 1, Bezeichnung UV-Stabilität.
+Haben wir jetzt gerade gesagt, 5 Jahre unter bestimmten klimatischen Bedingungen.
+Das kann was anderes sein, wenn das in der Wüste von Arizona ist, als im Vergleich zum feucht-warmen Klima in Südfrankreich oder Senapur.
+Das heißt, das gilt es zu klären.
+Hier ist ein Produkt Wäscheklammer mal dargestellt.
+Funktion, dass der Wäschestücke bei jedem Wetter an der Hand südlich hinein fixieren bis Windstärke kleiner gleich 5.
+Geometrie, kleiner 5,5 mm, geeignet für Wäschestücke. Schnabelöffnung A, 10 bis 15 mm.
+Das ist ein relativ triviales Produkt, aber wir sehen schon, hier gibt es entsprechende Kriterien, die hinterlegt sind, nach Forderung und Wunsch.
+Die Kräfte, die zu messen sind, wie kann man die Betätigungskraft hier messen oder respektive einhalten?
+Was ist das Kriterium, um diese Kraft bezüglich der Betätigung zu schaffen?
+Was ist diese Feder, die hier gescheitert ist?
+Die Spiralfeder, die jetzt hier eingehängt ist, ist diese Kraft vermittelt oder bestimmt und Haltekraft als solches wird generiert aus der Geometrie und dieser Federkraft, die vorhanden ist.
+und der Reibung, die jetzt dazwischen herrscht.
+Das heißt, das ist dann jetzt alles umzusetzen und auf eine technische Dokumentation zu führen,
+um in einer Einzel- und Anforderungsliste zu definieren.
+Die Kunststoffdinger, die es hier gibt, die halten alle nicht länger als drei Monate.
+Warum dem so ist, kann ich Ihnen nicht sagen. Wenn da in der Anforderungsliste zum Beispiel drinstehen würde, er muss eine bestimmte Bewitterungsdauer, wenn Sie das draußen in die Sonne rausstellen, diese Kunststoffe, die dort eingesetzt werden, die gehen alle relativ schnell kaputt.
+Was ist das Problem vom Holz als Werkstoff in dieser Anwendung als Wäscheklammer?
+Es wird feucht, es wird weich, es kann rutschen.
+In der Regel halten wir uns, weil diese Feuchtigkeit und der Wasseraufnahme nicht besser werden.
+Aber hier hinten ist jetzt ein Name eingesetzt, der für diese Klärung verantwortlich ist, damit dieses Blatt hier unterzeichnet werden kann.
+Dann hat man eine Anforderungsliste.
+Hier ist jetzt mal ein Akkuschrauber dargestellt, wo auch entsprechende Definitionen durchgeführt werden, um eine Kabelbundin, ein Bohrer oder ein Akkuschrauber,
+Hier sind Funktionen hinterlegt und es ist eine entsprechende Anforderungsliste zu generieren.
+Eigenschaften für das Gehäuse, Eigenschaften für den Motor, Drehmoment, Kräfte, die auftreten, die Schraubkräfte, die vorhanden sind.
+Das gilt es als vorab in einer Anforderungsliste zu definieren und wird dann in eine Konstruktion umgesetzt.
+Und wie man hier sieht, in dieser Konstruktion hat man eine Schrägverzahnung, weil Kreft wird, das Drehmoment wird aufgetragen, hier kann das Kreft wieder von vorne gehen, hätte ich jetzt ein gerades Zahnrad, könnte das durchrutschen an der Stelle, deshalb hat man eine Schrägverzahnung beispielsweise geweht.
+Da hängt der Motor dran, Drehmoment wird eingebracht, hier über diese Schrägverzahnung kann das Bohrfutter hinein.
+Dann haben wir nach der DIN 69901 das Lastenheft, das ist vom Auftraggeber festgelegte Gesamtzeit der Forderungen an die Lieferung und Leistung eines Auftragnehmers innerhalb eines Auftrags.
+Das könnte jetzt sozusagen die Anforderungsliste sein, aus der man ein Lastenheft macht.
+Dieses Lastenheft geht jetzt an potenzielle Lieferanten, die setzen sich damit auseinander.
+Und wenn es dann zu einem Vertrag kommt, wird aus einem Lastenheft ein Pflichtenheft.
+Da stehen dann die Pflichten drin, die zu erfüllen sind.
+Kräfte, Geometrie, Materialien unter Umständen, die zu verwenden sind,
+um genau diese Dinge sauber festgelegt zu haben.
+einen definierten Übergang von einem Lastenheft, das die Forderungen und hier dann die Realisierungsvorgaben als Pflichtenheft umsetzt.
+Die Grundlage für das Lastenheft war eine detaillierte Anforderungsliste.
+Der Auftraggeber erstellt auf Basis der Anforderungsliste das Lastenheft als Bestandteil einer Ausschreibung.
+Im Angebotsrücklauf finden Gespräche zwischen Auftraggeber und Anbietern statt.
+Das Angebot wird überarbeitet und final wird aus diesem vorhandenen Lastenheft dann ein Pflichtenheft.
+Das Pflichtenheft, das gilt es dann einzuleiten.
+Ich arbeite nebenberuflich immer noch in der Industrie und leite da auch ein größeres
+Projekt, wo jetzt Ingenieure die Aufgabe haben, ein bestimmtes Aggregat von einem Lieferanten
+zu bekommen, der bestimmte Kriterien erfüllen muss.
+Diese Kriterien haben wir sauber definiert.
+Das ist ein Extruder, der dreht sich, führt Schmelze nach vorne, macht einen Austrag
+einer bestimmten Materialmenge und die muss mit einer bestimmten
+Homogenität versehen sein. Am Ende des Tages heißt das,
+diese Kriterien sind definiert, die muss der Lieferant
+erfüllen, sonst gilt, ich sage jetzt mal,
+der Auftrag als nicht erfüllt.
+Das ist immer, ich sage mal, ein stark
+techniklastiges Thema,
+die sich Leute dann sauber auseinandersetzen, wie das zu definieren ist.
+Anforderungen im Pflichtenheft müssen genau definiert sein.
+Wenn sie Freiheitsgrade drin haben, dann kommt man solche Sachen raus.
+Der eine Bauch im Hochbett, der andere im Platzbett, die Farben sind unterschiedlich.
+Diese Sachen sind vorab sauber zu definieren und alles, was an Unklarheiten damit implementiert wird, führt zu Ungenauigkeiten in der Umsetzung.
+Typische Anforderungen aus dem Lastenheft sind gut durchmessbare Herstellkosten, Entwicklungskosten, Entwicklungsdauer,
+Was ist die gewünschte Genauigkeit, Größe, Displaytyp, Größe, Werte, Gerät direkt an der Manschette angeschlossen, Ablesbarkeitsrichtung, Gewicht, Schnelligkeit, Manschettenkomfort, Speicher, Batterienverbrauch,
+Das ist ein relativ einfaches Gerät, Sie sehen aber da für die Anforderungsliste und
+spätere Lasten im Pflichtenheft gibt es genau definierte Kennwerte, die dann in meinen
+denen auch mit Klartatenwerten zu versehen sind. Die Anforderungen werden mit konkreten
+Umsetzungsvorschlägen belegt, z.B. Speicher für 50 Messwerte, Speicher für 30 Messwerte von 2 Personen.
+Also wichtig ist, aus einem Lastenheft wird nach Rücksprache und Vereinbarung ein Pflichtenheft
+definiert die Anforderungen an ein Produkt oder an eine Konstruktion.
+Sie haben das teilweise auch in der Firma intern,
+dass der Vertrieb sagt, ich möchte eine bestimmte Funktion haben an der Maschine
+und die Konstruktion muss ich mir umsetzen.
+Dann ist aber auch der Vertrieb gefordert, damit zu arbeiten
+um dieses Lastenheft adäquat mit Zahlen, Daten und Fakten zu hinterlegen.
+Gibt es da Ungenauigkeiten?
+Bedarf es der Kommunikation, dass man die klärt?
+Wie machen wir es besser? Wie machen wir es am besten?
+Wenn zum Beispiel die Kosten nicht definiert sind,
+dann neigt der Konstrukteur dazu, was Verspieltes zu bauen,
+was im Nachgang auf dem Markt zum Beispiel keine Akzeptanz findet.
+Ich würde sagen, wir machen noch 10 Minuten Pause.
+Das war das Planen.
+Vielen Dank.
+Das war's für heute.
+Talent oder Passion?
+Das ist eine kleine Firma, die in der Lage ist, Probleme zu zerlegen, dass sie Lösungen finden, die adäquat sind und nachhaltig sind.
+Dazu braucht ein relativ großes analytisches Verständnis, ein Problem erst einmal in die Richtung zu zerlegen.
+War ваш Warnостink dating?
+.
+Ich habe mir gedacht, diese irgendwelche общем ребята haben das vollkommen verletzt.
+Bewusst, wieso ich meineuting dice kann dieser Warnostink aus sein Schatz.
+?
+Ich vergesse donc nicht.
+Ich kann mir das so vorstellen, wenn man in der Hand einen Kornen, wo ein Lieferlust dran hängt, wie soll man jetzt einen raussuchen?
+Die richtige Leine zu ziehen, zu dem passenden Ballon, fast die richtige Ursache, um Wirkungsbeziehungen aufzubauen.
+Das sind Sachen, die sind unter sehr komplex und die kann man so sehen, ich gehe und sage, das sind klare Ursachen.
+Ich bin froh, dass ich hier bin.
+Also Sie müssen die Leute im Boot haben.
+Sie haben mittlerweile unterschiedliche Positionen.
+Wenn Sie eine Fachkraft sind, müssen Sie ein Problem, technischer Natur oder was auch immer, lösen.
+Oder wenn Sie eine Führungskraft sind, verziehen Sie sich Ihre Aufgaben.
+Und dann müssen Sie Leute motivieren, ihre eigenen Aufgaben zu tun,
+die richtigen Dinge zu tun und das zu detaillieren.
+Das ist mir eigentlich in der Industrie ganz gut gelohnt, was mir dort wahrscheinlich auch eine etwas größere Karriere gebracht hätte, als ich sie hier an der Hochschule habe.
+Das ist eine persönliche Einschätzung von mir, wenn mich jemand fragt, wie Sie das jetzt konkret gemacht haben.
+Arbeiten Sie nebenbei in einer Firma oder nur hier eigentlich?
+Ich bin in der Firma Projektleiter, Firma als solches, macht einen Umsatz von 450 Millionen.
+Wir haben da ein großes Problem, dass Sie selbst mit dem Personal, das Sie haben, nicht
+vieles bekommen.
+Ich habe da anfänglich als Berater gearbeitet, wie man das halt so macht.
+Das war die Firma, aus der ich meine Praxistätigkeit gezogen habe.
+Ich war über zehn Jahre tätig in der Funktion unterhalb des Vorstandes und habe aber, ich sage mal, sehr gut und vertrauensvoll mit den Leuten zusammengearbeitet.
+Wenn man das jetzt so sieht, aber wenn man in eine weitere Führungsverantwortung reinkommt,
+Dann kriegt man eine andere Aufgabe.
+Und täglich streiten wir dann andere.
+Und freut mich, verändert das auch Charakter.
+Den Druck haben, Dinge umzusetzen, die nicht des finanzieller Art sind.
+Oder Druck aufzubauen bei Leuten, die da in die Union gemacht sind.
+Den Druck aufzubauen und des Druckes willen.
+Vielen Dank.
+Ich war anfänglich Berater und habe Ratschläge gegeben, die nicht umgesetzt worden sind und habe dann gesagt, entweder ich übernehme die Leitung des Projektes und garantiere euch, dass das Thema in zwei Jahren am Laufen ist, oder wir müssen uns weiterfassen.
+Bei der Funktion, in der ich jetzt bin, bringt es nichts. Ich muss mal nebendran und wenn man das quasi für die Chemiker gar nicht kann.
+Danach hat man gesagt, man hat den Schädiger abgesägt und dann geht es um die Leitlinie.
+Und extern, eine Firma in Rheinland-Pfalz, die weltweit arbeitet, Standorte in China auch besucht, wo auch produziert wird.
+Und in China, wo es umgesetzt worden ist, um das Projekt zu machen.
+Vielen Dank.
+was umdekorieren darf, aber das Problem ist nicht bei der Größe.
+Das war bei denen so.
+Ich sag jetzt mal, da hat man 10, 15 Einflussgrößen und sucht nur mal die Größe raus,
+Gewichte wie, und dann leiten sie daraus Maßnahmen ab, die dann noch greifen und funktionieren.
+Und das hat dann geklappt.
+Die Firma hat es nicht. Und die hätten es auch nicht hinbekommen, wenn ich da nicht gewesen wäre, dass es nicht funktioniert.
+Aber pendeln Sie dann immer als dahin oder dies?
+Ne, also ich habe jetzt da so Aufgabenpakete, die werden gespürt und die Projektleiter sind zwei Ingenieure, die an der Umsetzung dann arbeiten.
+Ich kontrolliere das. Ich habe hier so einen Arbeitsplan, was ich an Stunden dann bei denen geleistet habe.
+Das ist, ich glaube, so in zwei Jahren oder so ungefähr zwei volle Monate.
+Zwei volle Monate.
+Das heißt, einmal in der Woche oder 14 Tage führen die Regeln ins Stadtbüro und prüfen, wie der Stand der einzelnen Prozessschritte ist.
+Es sind schon viele Professoren, die nebenbei am Arbeiten gehen.
+Ich glaube nicht, dass viele so viel unmittelbar in einem Unternehmen, ich sage mal, in einer Hierarchie angekommen sind.
+Dass die Leute mehr berichten, dass ich Verantwortung trage für ein Projekt, das man machen kann, ist Aufträge annehmen und sagen, macht ihr eine Forschungsarbeit für das Unternehmen.
+Das gibt es auch mit den vorhandenen Gerätschaften. Das habe ich früher auch teilweise gemacht, wenn so Dienstleistungen, Kunde, was weiß ich,
+oder Osch, Krog, die kommen an, haben ein technisches Problem und fragen, können Sie mir da helfen.
+Das gibt es auch.
+Das mache ich auch nicht mehr, weil da ist diese Tätigkeit, da ist das Projektlein,
+dann ist es irgendwann zu viel.
+Ich habe im Wintersemester relativ wenig Vorlesungen, da habe ich Kapazitäten,
+um sowas zu machen, im Sommer kann ich ja gar nichts, weil ich da meine ganzen Vorlesungen habe.
+Ich habe dann eben im Raum auch eine persönliche Autorität, die aber auch, ich sag mal, begründet ist in einer vernünftigen, fachlichen Form.
+Vielen Dank.
+Ich würde sagen, wir würden gerne versuchen, auch eine Anlage, die der Produktion gehört, die wir normalerweise produzieren,
+zu sagen, wir haben ein Problem, wir müssen es vielleicht kurz mal lösen.
+Jetzt wieder Kriegsleiter unter Umständen an der langen Hand verhungern und sagen,
+ich habe ein Problem, ich habe andere Ziele, mein Ziel ist es, die Fähigkeit, ich kann nicht, dass die Anlagen laufen.
+Dann sagt der Gingl ins Gesicht, ja, machen wir, wenn es dann so weit ist, dann ist es gut.
+Das ist auch immer eine menschliche Komponente, dass es ihnen gelingt, Leute von ihren Aktivitäten zu überzeugen,
+sie adäquat in den Informationsfluss zu halten, dass sie merken, dass was da getan wird, das ist das Richtige.
+Und löst auch in Teilen die Probleme, die der Betriebsleiter zum Beispiel hat,
+indem er ihnen sagt, wenn dieses Problem umgesetzt ist, gibt es weniger Reklamationen,
+Es gibt eine Steigerung bei der Produktivität und dann sind die Leute motiviert.
+Wir müssen sie adäquat informieren, auf dem Laufenden halten und von den eigenen Zielen auch überzeugen.
+Und das ist ganz, ganz viel in der Projektleitung dann persönliche Kontakte, Bindungen und die Kinder und die Leute.
+Wenn Sie erstmal ein Projekt haben und das können, dann können Sie vielleicht auch in einer Arbeitsgruppe mit drei, vier, fünf Mitarbeitern übernehmen und dann vielleicht irgendwann eine Abteilung.
+Aber dann beschieben sich die Aufgaben. Dann machen Sie nichts mehr Fachliches. Wenn Sie dann eine Personalverantwortung haben, müssen Sie gucken, wie Sie das ausmachen.
+Dann sind Sie anders spezialisiert. Dann müssen Sie andere Qualitäten haben.
+Ganz häufig sind Leute, die fachlich sehr gut unterwegs sind, an eine Grenze in den Hörschienen der Unternehmen angekommen, die können dann nicht mehr mehr werden.
+Wenn wir Geld haben wollen, müssen wir dann nicht mehr Projekte leiten, sondern eine Gruppe.
+Das wird höher vergütet.
+Das Abteilungsleiter höher als so ein Projektleiter.
+Ich versuche mir eine Idee zu geben, ich sage mal Projektleiter, der irgendwie anfängt und so kleinere Projekte macht in der Industrie, der verdient vielleicht heute 60.000 Euro.
+Und ich verdiene heute, jetzt abseits dessen, dass ich die Beratung mache, immer noch 30% weniger als in der letzten Position vor 13 Jahren in der Industrie.
+Entschuldigung.
+Es gibt ein sogenanntes Lehr-Debut-Tag, das heißt, wir sind 18 Semester beteiligt, 18 mal 45 Minuten, wir sind alles dabei, Impfungen,
+teilweise Verwaltungsgierigkeiten, die Arbeit als Praktikeraustrag,
+damit ich auch nicht die 18 Stunden bekomme.
+Die Gymnasiallehrer hat 25 Stunden in der Woche.
+Aber als Professor kriegt man schon mehr als die Gymnasiallehrer, oder?
+Ich bin mir da nicht ganz so sicher, aber ich finde es ganz genau, wie sie bezahlt werden.
+Ich glaube, in den finalen Stufen könnte der Professor in Bayern bzw. während der Hochschule,
+gibt es dann so Zulagen, wie sie bezahlt werden.
+Ich glaube, dadurch sollte man hier etwas rüberlegen.
+Was haben Sie studiert?
+...
+...
+...
+...
+...
+...
+...
+Aber Sie hatten die Qualifikation dazu, oder?
+Ich war Abteilungsleiter.
+Ich war Abteilungsleiter.
+Als ich gegangen bin, hat mein Chef gesagt, Sie hätten hier Vorstand werden können.
+Sie hätten es nur mal sagen müssen.
+Mit dem Vorstand wird man dann 500.000.
+Echt jetzt?
+Das sind 1400 Mitarbeiter.
+Haben Sie es dann bereut?
+Nein.
+Nicht?
+500.000 Euro im Jahr bereuten Sie nicht?
+Der Job ist ein anderer.
+Die Tätigkeit in der Industrie war bei mir sehr stark geprägt,
+dadurch, dass ich auch reisen musste.
+Zwei kleine Kinder daheim, Familie.
+Und da waren wir unterwegs.
+Meistens noch so getriggert, dass ich das selber entscheiden konnte, wann ich wohin fliege.
+USA, China, Südkorea.
+Aber hätten Sie es auch als Vorstand machen müssen, so rumbreiten?
+Eigentlich schon, ja. Und dann wird aber die Arbeitsbelastung noch größer mit der Verantwortung natürlich.
+Ich habe die Firma in seiner Zeit nicht so in den rosa-roten Wolken gesehen, wie andere das getan haben.
+Ich habe gedacht, die kriegen da jetzt irgendwie Probleme, was aber de facto nicht der Fall gewesen ist,
+weil das Umfeld in diesem Unternehmen, der Wettbewerb, nicht sonderlich intensiv ist.
+Ich sage jetzt mal, mit durchschnittlicher Leistung sind die immer noch sehr erfolgreich.
+Wenn ich das damals richtig eingeschätzt hätte, hätte ich es vielleicht gemacht, ich weiß es nicht.
+Weil ich sage mal, dann haben sie nach fünf Jahren Vorstandstätigkeit ihre Schäbchen entbrochen.
+500.000 schon verrückt.
+Das ist eine gute Scale, aber ich sage mal, da haben sie dann 40% Abzüge.
+Dann reduziert sich das schon mal.
+Ausgaben gehen dann wahrscheinlich erstmal nach innen.
+Und interessant wird es dann, weil da haben sie ja auch Pensionsansprüche.
+Ich habe eine Bekannte von mir, die hat für die Allianz die Verträge übersetzt,
+für Mitarbeiter, die ins Ausland gegangen sind und die zahlen, das ist dritte Führungsebene, 800.000 Euro.
+Wenn Sie das dann durch die Signatur ausgezahlt bekommen, die Steuerquote von vielleicht 10 oder 15 Prozent,
+dann können Sie sich das auch auf die Seite nehmen.
+Was würden Sie sagen, so, die studieren ja alle, man hat ja auch so Konkurrenz in dem Fall,
+würden Sie sagen, hebt man so von denen ab, also dass man so diese Stellen bekommt,
+weil es schwingen ja auch viele Wünsche zu diesem Erwesen so heutzutage.
+Das ist das, was mich am Ende dazu bewogen hat, da nicht weiterzumachen.
+In den Firmen passiert unheimlich viel mit Mikrofonen.
+Meinen Sie damit, dass es so viel so Connectionsache ist?
+Genau.
+Genau. Und teilweise werden bestimmte Charaktere in Führungspositionen gespielt, die man da eigentlich nicht haben will. Das sind diese Justen, das sind diese Narzissten, die da irgendwie unterwegs sind, die immer nur das eigene Belang im Kopf haben.
+Und dann muss man zurechtkommen. Dann muss man es auch mögen.
+Irgendwann sind Sie da in einer Schiene drin, wo Sie denken, bin ich da jetzt noch richtig oder bin ich falsch?
+Das war so bei mir dann, wo ich gesagt habe, man hat mir die Leitung eines Werkes in den USA antragen wollen.
+Ich bin da hingefahren, habe mir das alles angeschaut und gesagt, das machst du nämlich nicht.
+Wie es hier aussieht, das ist so eine Klitsche, die wir getraut haben und die musste saniert werden.
+Da sind Regale rum, große Kunststoffplatten drauf, mit geknüpften Füßen, wo ich sage, wenn da ein Regal umfällt und es jemand kommt zu Schaden,
+kommt es in Amerika nicht mehr aus dem Knast raus.
+Das ist vorbei.
+Das ist die persönliche Haxen, das schätzt man.
+Ich sage, ich mache das nicht.
+Und wenn Sie kennen, die angebrachte Zahl an Angeboten, die man in die Macht nimmt, die dann eben abwägen.
+Das war sehr unangenehm.
+Ein paar Monate später habe ich einen Absolventen gehabt, den wollte ich behalten in der Abteilung,
+um die Abteilung mit ihren neuen Aufgaben dann auch adäquat auszusprechen.
+Wenn man bei uns im Bereich jemanden brauchen kann, der muss zwei Jahre im Betrieb mitlaufen,
+den man auf den Kunden loslassen kann.
+Kundenservice, Kundenbetreuung, Kundenunterstützung.
+Den wollte ich behalten.
+Ja, meinen Vorstand machen wir.
+Der andere Chef, der ist auch einverstanden.
+Zwei Tage später habe ich einen Termin beim Personalvorstand.
+Darauf war ein Gewissen da.
+Wenn ein neuer Kopf kommt, muss ein anderer weg.
+Das sind so Situationen, da muss man mit zurechtkommen.
+Wenn Sie dann noch gut Freund sind mit den Leuten in der Linie,
+wenn Sie da einen gewissen Abstand haben,
+dann machen Sie gut Luft nach oben.
+Der andere, den haben Sie geopfert, aber in Ihrer Karriere bin ich nicht.
+Also man muss schon...
+Das habe ich nicht gemacht, man muss schon ein bisschen
+erfreulich sein.
+Und Sie müssen viel
+Beziehungsmanagement
+pflegen.
+Oder,
+was die Alternative ist, ist Firmenhopping.
+Dass Sie, ich sag mal, was machen,
+was Sie frei anwenden können,
+wo Sie sagen können, ich bin auf einer
+einen, auf der anderen
+Firma. Das ist aber auch
+mit Gefahren verbunden, weil
+Und Familie dann auch schwer.
+Ja, kann man abwarten.
+Das war jetzt ausflugspersönlich und noch eine Frage.
+Aber wie würden Sie jetzt konkret sagen, hebt man von den anderen ab?
+Also ich studiere jetzt hier fertig und dann, es gibt ja so viele, die hier auch so fertig sind.
+Also ganz ehrlich, Sie müssen erst einmal versuchen,
+wenn Sie irgendwas da draußen machen, um eine Karriere zu führen, das ist für Sie nicht.
+Nein, nein.
+Wenn Sie nur das machen, was Sie für Spaß machen,
+wenn Sie das da zusammenarbeiten mit Menschen,
+in Schnittstellen, was für Spaß macht,
+was Sie über die Professionen sich entsprechend zu profilieren, zu mitnehmen.
+Wir müssen wissen, wo sind die entscheidenden Förderer.
+Firmen machen heute ganz häufig Führungs-, Nachwuchskräfte, Schulungen und Anwerbungen.
+Da muss man versuchen, dann halt mit reinzurutschen und gucken, was geht.
+Das sind die Optionen. Aber das ist immer aus der Situation der Firmen spezifisch.
+... zu diesem Projektmanagement, das funktioniert nicht zu einer bestimmten Sache und dann müssen Sie da auch am Ende...
+... dann müssen Sie das Personal verantwortlich machen...
+... das ist nicht leicht...
+... wenn Sie die Leute einschätzen, die sich wohlgegeben haben, die haben dann Leute, die laufen von alleine, die laufen hier komplett durch die Prozesse hindurch, die machen ihren Job...
+Weil sie es können und andere, sie hängen an irgendeiner Stelle und kommen nicht weiter.
+Ich habe Mitarbeiter gehabt, mit denen ich mich schon eingestellt habe.
+Mit denen musste ich 14-tägigen Dienst machen und die nachfragen uns, was wir getan haben.
+Das ist nicht von alleine gelaufen.
+Wenn Sie so 10 Leute haben, irgendwas, was für ein Aufwand ist, einer kommt hier ran, der nächste kommt hier ran,
+dann gehen Sie abends nach Hause und dann dreht sich die Birne nur noch.
+Dann können Sie mal abschalten.
+Also das ist alles nice to have. Da muss man halt seinen Weg finden.
+Das ist aber auch die Firma zu Firma natürlich ein Unterschied.
+Da laufen sie plötzlich in die Position rein.
+Der Vorstand hat das gerade gehabt. Der ist der Chef der Werkstatt.
+Der hat irgendeine Ahnung, wie man diese Geräte oder diese Maschinen nutzt.
+Ich habe mich jetzt aber wieder vorgeschlagen.
+Ich habe mich wieder vorgeschlagen.
+Das ist ganz gut.
+Was bringen Sie für einen Führungsstil?
+Wie fühlen Sie sich da in der Situation?
+Bin ich jemand, der die Leute laufen lässt und dann Feedback bittet, wenn es nicht funktioniert?
+Oder mache ich hier ganz eng getrachtet, wie so in dem Kontrollettige?
+Ich bin ja kein Jünger, der hier muss, muss, muss.
+Das ist ja jeder selbst entscheidend. Das ist aber auch eine Frage der Kultur des Unternehmens.
+Ob man sich da wohl fühlt. Das werden sie relativ schnell merken, wenn sie nur ein Praktikum irgendwo machen.
+Was ist das für ein Unternehmen? Wie funktionieren die Leute hier?
+Ja, und um das dann abzuschließen, ich habe da diesen Pro-Wirten-Chiriker abgesägt, der
+macht da jetzt so, ich sag mal, Dokumentation, der ist da jetzt auch happy, weil er mit dem
+anderen offensichtlich überfordert war, da ist ein neuer Ingenieur gekommen, der sollte
+das übernehmen, da hat man nach drei Monaten auch gemerkt, der läuft da an die Wand, weil
+das nicht schafft, hat man ihn relativ lange noch machen lassen. Es kam ein neuer Leiter
+Forschung und Entwicklung, der den Mann noch vertraut hat, hat aber festgestellt, er kriegt
+das auch nicht auf die Schiene, was da abläuft. Und dann ist man wieder zu mir gekommen, dass
+ich diese Projektleitung übernehme und hat den Mitarbeitern die Projektleitung weggenommen.
+Wie reagieren Sie, wenn Sie mit Projektleitungen die Projektleitung weggenommen bekommen?
+Ich habe die Haft dabei,
+schreibt er noch.
+Überhaupt nicht.
+Es geht über ein Fremdbild und ein Selbstbild.
+Und das geht auseinander.
+Wenn einer ein Fremdbild hat,
+von dem sagt,
+er kann das nicht so richtig,
+und dem legen wir das bei.
+Wenn es ein Selbstbild war,
+dann kriegt er es schon eben berühmt,
+aber bedacht hat er sich,
+ob das wirklich der Fall ist.
+Er geht auf die Feuerraus,
+und dann macht er es für Zubereitung.
+Und damit kannst du nicht weiter, er hat drei Kolzen, die macht er aber total happy, weil er diese Kommunikation mit diesen verschiedenen E-Mail nicht hingekriegt hat.
+Er hatte keine Akzeptanz in der Produktion, er hatte keine Akzeptanz im Qualitätsmanagement und konnte sich da nicht durchsetzen.
+Weil er nicht adäquat kommuniziert.
+Dann kannst du kleine Aufgaben geben, die kann er abarbeiten, das macht er, ruft dann Leute an, versucht das umzusetzen, was er da an kleinen Aufgabenpaketen bekommt und dann ist es gut.
+Bei der ganzen Geschichte, der Leiter Forschung und Entwicklung sollte jemanden aus seiner Abteilung vorschlagen, der potenziell im Falle einer Notsituation ihn vertreten könnte.
+Hat den Mitarbeiter vorgeschlagen.
+Komplett dagegen. Komplett. Komplett.
+Und so gehen Fremden selbst miteinander.
+Und wenn Sie da sind, können Sie sich auch Feedback einholen von Leuten, die in entscheidender Position sitzen.
+Es ist manchmal so eine Sache, dass ich da so das Vertrauensverhältnis für mich aufstelle.
+Das brauchen Sie, das müssen Sie verantworten.
+Aber ich finde, dass ist Karriere stark charakterabhängig, aber auch nicht garantiert.
+Ich habe einen Freund gehabt, der hat bei einer Firma gearbeitet, die Betränkemaschinen gebaut haben.
+Dem habe ich damals diese MBA, diese Masterausbildung gemacht.
+Und er hat gesagt, ein Unternehmen, eine Kultur, das geht alles nur auf Kosten.
+Der reine Fokus im Unternehmen ist auf Kosten.
+Kosten in der Konstruktion, Kosten in der Produktion. Der Wettbewerb ist so intensiv, wir müssen immer Kosten im Fokus behalten, weil das Geschäft sehr reif ist.
+Dann hat er irgendwann gekündigt, er war der Werksleiter und ist dann zu KUKA gegangen.
+Das ist ein komplett anderes Unternehmen, eine komplett andere Welt.
+Weil KUKA, wie macht man seinerzeit die Roboter aus den Händen gerissen,
+für die Automatisierung zu ausgaben, da spielen Kosten gar keine Rolle.
+Weil sich diese Gerätschaften in der Firma, an der ich her, etabliert haben,
+jetzt nimmt die Reife des Geschäftes zu.
+Es gibt Wettbewerber aus anderen Ländern, die ähnliche Maschinen bauen.
+Wenn das Unternehmen jetzt langsam unter Kosten trug,
+Dann verändern sich dort auch die Strukturen, die Kultur verändert sich.
+Das sieht man beim Unternehmen selbst auch in der Art und Weise, wie das für eine Kultur wird.
+Aber um zu sagen, ich kriege einen festen Tipp, was da jetzt funktioniert.
+Es gab früher da, ich weiß nicht, ob es das noch gibt,
+Verein Deutscher Ingenieure
+gibt es eine Zeitung, das sind die Nachrichten
+wenn mich jemand dafür interessiert
+ich weiß nicht
+die Kategorie von Heiko Mell
+der hat Verliererberatung gemacht
+und so typische Fragestellungen von Ingenieuren
+aus der Industrie heraus beantwortet
+wie gehe ich jetzt vor
+was ist mein nächstes Problem
+mit einem Vorgesetzten, mit einem Mitarbeiter
+Oder wenn ihr Chefs nicht leiden kann oder wie ihr ein Chef nicht leiden kann.
+Killer.
+Das ist ein Killer.
+Ich habe dann hier einen Studenten kennengelernt, der hat einen Master gemacht.
+Und ich habe gerade vorhin erzählt, ich habe über diese Frau Nienach nicht meine erste Stellung gekriegt.
+Ich war heilfroh, überhaupt einen Job zu haben.
+Ein Student, der einen Master gemacht hat, der ist zur Firma Velo gegangen, ist ein Klebstoffhersteller, hat da Jahre gearbeitet, hat genau gewusst, was er für einen Job hat.
+Die Stellenbeschreibung war klar, er macht Anwendungstechnik, er sitzt viel am Telefon, er muss Kunden beraten, er hat nach einem Jahr auf dem hohlen Bauch herausgekündigt.
+Wenn ich damals eine Stelle gekündigt hätte, ohne Anschlussbeschäftigung,
+und Sie gehen ein halbes Jahr lang auf Arbeitslupe, und Sie haben kein Einkommen,
+weil Ihnen das gestrichen wird, weil Sie selbst gekündigt haben,
+dann müssen Sie erst einmal gucken, wie Sie da zurechtkommen mit dem Leben.
+Dann haben Sie einen anderen Druck, der alles einfach so macht,
+weil er wusste, wenn ich mich woanders bewahre, kriege ich eine Stelle.
+Das Angebot da ist, ne?
+Also, wir reihen uns auf die Zeiten, aber der macht, das ist eine ganz nette Kolumne,
+wo soll man sich da irgendwie zurücklegen, der macht Karriereberatung.
+Da sind ganz, ganz tolle Artikel drin, über Szenen, Unternehmen, wie man da am besten agiert.
+So, dass man sich auf die Schnauze freut.
+Wenn ich nicht bin, ist es geblieben.
+Nachhaltigkeit.
+Nachhaltigkeit.
+Ja, also es gibt ja auch Leute, die Professor werden wollen,
+Man kann Professor werden, um ins Professoren-Titel zu gehen, auch alles schön.
+Ist es schwer eigentlich, Professor zu werden?
+Also ist es viel schwieriger als zum Beispiel so ein Master, oder? Wie war das so?
+Also wir müssen halt promovieren, um promovieren zu können.
+Ich kenne jemanden, der hat seinen Doktoranden gesagt, um sich einer Promotion zu entziehen, muss man sich mit sich bewegen.
+Also den Doktortitel, den kann man schon gut kriegen, ja.
+Bei den Chemikern, die promovieren ja zu einer Gruppe von 90 Prozent.
+Bei den Ingenieuren ist es viel, viel weniger.
+Vielen Dank.
+Ich weiß nicht, ob ich es noch mal machen würde.
+Also bei mir macht es nichts aus, dass ich echt froh bin,
+auf diese Projektleitung hier in der Industrie zu haben,
+weil man dort geerdet wird und merkt,
+was die Industrie, das wahre Leben draußen für Probleme mit sich bringt.
+Weil die Professoren haben, die nur an der Hochschule unterwegs sind,
+die zerfließen da so manchmal so ein bisschen die Selbstmitleid
+und die wissen dann, was sie für Luxusprobleme haben.
+Ich glaube, es geht doch auch um den Bezug zur Realität.
+Wenn wir das zehn Jahre nicht mehr haben, dann ist das schwierig.
+Dann ist das schwierig.
+Erlauben wir einigen, die das nicht machen.
+Ich hätte wahrscheinlich auch an anderer Stelle eine Karriere gemacht,
+Das ist das, was wir jetzt hier schaffen müssen, aus den Modulen, die es hier gibt, das Richtige herausfinden und die hier Spaß haben.
+Dann zum Beispiel schauen, dass man einen Traktenkopf in der Richtung kriegt und das dann auslösen kann.
+Ich würde es hier probieren.
