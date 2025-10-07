@@ -1,0 +1,939 @@
+... Strömungstechnik und Thermodynamik und da werde ich Sie über das Semester gemeinsam mit einem Kollegen, Jörg Hattig, dazu kommt gleich noch ein bisschen mehr, wie wir uns das teilen und wie das funktionieren soll.
+Schön ist, dass Sie zu Teil 1 gekommen sind. Ich glaube, das hilft Ihnen auch, damit Sie sich gut vorbereiten können, wie der Kollege auch, für das, was Sie da so erwartet.
+Das zeigt ein Stück weit, dass man dieses Fach auch schaffen und bestehen kann.
+Wenn ich auch letztes Semester nicht hier im Raum war, dann hätte ich ja vor zwei Semestern
+eben auch hiermit das übernommen.
+Soweit erstmal vorneweg, ich möchte durchstarten, wir haben ein Programm für Sie dabei.
+mit drei Fächern, ziemlich viel Stoff, ziemlich viel Inhalte, aber ich hoffe auch ein Stück weit so aufbereitet,
+dass man es gut verdauen kann, dass man es gut mitkriegt.
+Vielleicht vorneweg mal die Frage, ich packe einfach mal so in den Raum, wer von Ihnen ist denn WI-Spieler?
+Fast alle, aber vielleicht die Gegenfrage, wer ist denn nicht aus der WI?
+Okay, keiner. Das ist eine wichtige Info, denn es gab in der Vergangenheit auch immer wieder Leute aus der Fahrzeugtechnik, die das mitgehört haben.
+Aber so wie es aussieht, sind alle von Ihnen aus dem Studiengang BI. Das ist prima, auch für die Terminfindung und vielleicht für ein paar weitere Fragestellungen.
+Wie Sie sich auch untereinander dann austauschen können, ist sicherlich hilfreich, wenn Sie sich da als Studiengruppe sind.
+Noch mal die Sache, ich glaube, offiziell ist es noch mal im dritten Semester,
+wir können hier nicht mehr sind, im dritten Semester,
+also ziemlich viel, eher eines der höheren Semester,
+das mag sich keiner melden,
+das sind die Leute, die sich fragen können, wie die Klausur funktioniert,
+weil die haben es vielleicht schon mal gemacht,
+aber ansonsten würde ich diese zwei Sachen hier mal überspringen
+und gleich reingehen in das Thema.
+Sie sehen schon, ich arbeite da mit dem Klima.
+Sie können es hinten lesen.
+Prima, also wenn irgendwas nicht lesbar ist, einfach mal melden.
+Wenn ich nicht zu verstehen bin, meine Stimme ist so leicht belegt,
+aber ich versuche laut zu sprechen, Sie sagen Bescheid, wenn Sie mich nicht verstehen.
+Wenn ich zu schnell spreche, dürfen Sie auch Bescheid sagen,
+das passiert immer wieder, leider.
+Auch dann können Sie einfach Hallo sagen und mich bremsen.
+sodass ich dann auch hoffentlich Sie alle mitnehme.
+Weil es ist zwar viel Stoff, aber es bringt auch nichts, wenn ich Ihnen hier vorne was erzähle
+und Sie irgendwie denken, okay, da komme ich gar nicht mehr, das verstehe ich sowieso nicht.
+Genau, ich möchte Sie mal ganz entspannt und vorsichtig an das Thema ranführen.
+Thermodynamik, Wärmeübertragung und Strömungstechnik sind drei Worte.
+Ich weiß nicht, wie weit Sie mit denen schon zu tun hatten,
+Aber vielleicht, um das mal so ein bisschen praktisch Ihnen zu zeigen, inwieweit es eventuell auch im Alltag mal eine Rolle spielen kann,
+habe ich drei oder ich glaube sogar am Ende vier Bilder für Sie dabei, die vielleicht was zeigen aus dem täglichen Leben.
+Und einfach mal die Frage in den Raum, wer von Ihnen kann sich vorstellen, was hat dieses Bild mit einem dieser drei Fächer zu tun?
+thermodynamik handelübertragung oder strömungstechnik also was wir sehen ist
+glaube ich relativ klar ja irgendwelche drinks mit ein paar eiswürfeln drin und flüssigkeit
+Also mit welchem Fach hat es nicht zu tun? Nicht so viel zu tun mit der Strömungstechnik,
+würde ich erst einmal sagen. Viel zu tun hat es sicherlich mit den anderen zwei Fächern,
+Thermodynamik und Wärmeübertragung.
+Was passiert denn da
+im Sommer?
+Jetzt sind wir gleich draußen, nicht ganz
+in der optimalen
+Setting, um uns
+gedanklich reinzuversetzen,
+aber doch nochmal,
+was passiert?
+Logischerweise, die Eiswürste
+schmelzen irgendwann.
+Was passiert aber mit
+der Flüssigkeit da drin?
+Die wird kalt, ja genau, wenn ich vorher warmes Getränk eingeschüttet habe.
+Und was passiert an der Grenzfläche und warum wird die kalt?
+Leider ist es beschmelzen, dadurch kommen heute Kälte,
+die Kälte, die Kälte, die Kälte, sozusagen, dann in den Ringlauf,
+dann wird die gesamte Temperatur auch untergesetzt und von außen wird es warm,
+Prima Erklärung, total, sag ich mal so, mit den praktischen Leuten gesprochen, wie wir das so erleben.
+Und absolut richtig, in der thermodynamischen und Wärmeübertragungssprache kann man das Ganze noch ein bisschen genauer ausdrücken
+und sich dann auch überlegen, wie lange dauert es denn, bis die Eiswürfel geschmolzen sind.
+klar kommt darauf an, wie warm es draußen ist, klar kommt darauf an, wie warm der Drink war vorher,
+aber, also vielen Dank, die Erklärung ist genau richtig, da schmelzen die Eiswürfel und draußen ist es warm,
+und am Ende ist es so, dass Wärme fließt von außen in das Glas hinein, als Energie,
+und das wärmt den Drink, die Flüssigkeit auf,
+und die warme Flüssigkeit wiederum entzieht Wärme aus dem Eiswürfel,
+der schmilzt dabei, wird eine Schmelzentalpie überwunden
+und die Energiemenge, die dabei freigesetzt wird,
+die steht zur Verfügung, um im Sprachwörtlichen wieder den Drink kalt zu halten,
+um den Drink jetzt eben lange Zeit auf einer angenehmen Temperatur zu trinken.
+Und was wir lernen werden in dem Kurs, sind die Vorgänge, wann und wieso,
+sind die verschiedenen Phasen da, das kennen Sie schon aus der Schule, Physik,
+aber darauf aufbauend ein Stück weit auch zu quantifizieren,
+wie lange kann ich so einen Drink kalt halten,
+Und wieso ist das Ganze bei starkem Wind oder bestimmten Bedingungen im Äußeren schneller oder langsamer mit diesem Schmelzfolger?
+Soweit erst einmal an der Stelle.
+Vielleicht noch der Bezug dieses Wärmeflusses ist nichts anderes als der zweite Hauptsatz der Thermodynamik, der dahinter steht,
+die er besagt, dass eben die Wärme hier fließt und wir nicht irgendwie einen Endzustand haben,
+bei dem die Eiswürfel wachsen und die Umgebungslüftung immer kälter wird.
+Sondern der Wärmefluss ist ganz gerichtet und klar befindet.
+Nehmen wir ein anderes Bild, ein völlig anderes Setting.
+Wer kann sich vorstellen, worum es da geht?
+Was sehen wir da?
+Ganz genau, ja.
+Ja, also wir sehen ein Flugzeug, ein relativ futuristisch anmutendes kleines Flugzeug.
+Das ist also ein Flugtaxi von einem Start-up, die versuchen sowas an die Endkunden, die besonders reich sind, zu platzieren.
+Und das ist so, ich sag mal, so eine Art Zwitter, so eine Mischung zwischen einem klassischen Flugzeug und einem Hubschrauber.
+Das kann sehr steil starten und landen.
+Und wie Sie richtig sagen, da geht es ganz schnell um Strömungstechnik.
+Wenn Sie bei diesem Start-up nach dem vollendeten Studium anheuern wollen und sich bewerben wollen,
+dann wird man sich vermutlich die eine oder andere Frage aus der Strömungstechnik stellen,
+wenn Sie da in die Ingenieurin oder Ingenieur werden wollen.
+Denn wir müssen Auftrieb generieren, dafür muss die Luft über die obere Seite der Flügelfläche schneller sich bewegen als über die Unterseite.
+In dem Fall wird das so dargestellt, dass hier relativ viele kleine Propeller aufgebaut sind, die die Luft an der Oberseite des Flügels beschleunigen.
+Und somit ist es ein bisschen ein anderes Konzept als das von einem klassischen Flugzeug, wo ihr hier unten eine Turbine dran hängt.
+Das ist ein bisschen eine andere Systemidee.
+Entsprechend muss man sich da schon genauer mit der Materie befassen, wie man da reinkommt.
+Was da aber auch dazugehört, ist Aerostatik und Aerodynamik, wo und wann und wie sind welche Luftschichten,
+wie warm, wie kalt, welche Dichte habe ich da und inwieweit kann ich dann unter verschiedenen Bedingungen
+den Auftrieb generieren, sehr viele sprungungstechnische Fragen.
+ein Stück weit kommt da vielleicht auch noch rein
+Konvektionsfragestellungen
+aus der
+Wärmeübertragung
+das werden wir auch gleich sehen
+dass die Fächer sich oft stark
+vermischen
+also vielen Dank nochmal an der Stelle
+und drittes Bild
+was ich da mal so hinstellen will
+das
+ja was ganz anderes wieder zeigt
+vielleicht jemand von Ihnen
+diesmal ist es glaube ich wirklich ein bisschen schwieriger
+überhaupt zu erkennen, was das ist.
+Ich bin gespannt, ob jemand von Ihnen vielleicht so etwas schon mal gesehen hat.
+Gibt es nicht so oft, soll ich Ihnen ganz ehrlich,
+oder worum es gehen könnte. Ja, Sie hatten eine Idee?
+Das ist an sich eine Energiespeiche und Tagsliefer,
+nehmen wir an, das sind Solare,
+die dann nach oben gepumpt werden oder erhitzt werden
+und dann kommen wir in der Nacht,
+gute Idee
+durchaus möglich, dass genau so wie Sie das gerade erklären
+auch wirklich
+auch als Dämmungszeitung mal gebaut wurde
+das was hier gezeigt ist
+ist ähnlich und verwandt
+geht auch um Energiespeicherung
+und um ein Kraftwerksprinzip
+bisschen anders aber
+die Platten die da unten sind
+kann man jetzt nicht erkennen aus dem schlechten Bild
+das ist mir klar
+und mit dem Beamer hier sowieso, wahrscheinlich an der einen oder anderen Stelle nochmal wichtig,
+dass Sie da auch Sachen nicht erkennen können.
+Es sind keine Solarpaneele in dem Sinne, dass es Photovoltaik oder Solarthermie wäre,
+sondern es ist noch viel primitiver, es sind einfach Plastikplanen.
+Der Effekt ist aber der gleiche, die Sonne strahlt drauf, es wird erstmal heiß an der Stelle,
+schon anders als die Photovoltaik, aber ähnlich wie Solarthermie.
+Die Luft, die da drunter ist, wird heiß und in dem Turm ist in dem Fall auch kein Wasser, keine Flüssigkeit, sondern einfach nur Luft.
+Also sehr primitiv vom Aufbau her.
+Einfach nur Plastikplanung und ein Turm, der in der Mitte hohl ist.
+Sogenanntes Aufwindkraftwerk.
+Und was passiert, ist, dass die heiße Luft, die sich hier unten drunter bildet und sammelt, während die Sonne drauf strahlt, zu einer Aufwindbewegung führt.
+Warum das so ist, der Unterschied warme und kalte Luft, werden wir noch ein Stück kennenlernen.
+Und das führt dann dazu, dass kalte Luft von außen neu angesaugt wird, die warme Luft hier durchströmt und man kann hier eine Turbine verbauen und entsprechend Strom nutzen.
+Also durchaus schon ähnlich wie das, was Sie gesagt haben und ein Stück Speicherungsfähigkeit hat das auch, weil dieser Effekt bleibt aufgeregt erhalten,
+auch lange noch, nachdem die Sonne vielleicht untergegangen ist oder eine Bewölkung eintritt,
+weil die thermische Zeitkonstante, die Speicherfähigkeit dieses Systems ist relativ hoch.
+Das zieht noch deutlich länger weiter Luft in diesem Aufwindkanal, als dass die Sonne wirklich drauf hält.
+Also anders als Photovoltaik, die sofort aus ist, wenn Sie die Sonnenstrahlung wecken.
+Interessantes Prinzip, können wir uns ein bisschen anschauen, was steckt dahinter.
+Viel Thermodynamik, wenn es dann darum geht, diesen Kraftwerksprozess zu verstehen und zu überlegen, wie wir damit dann Strom generieren.
+Aber auch durchaus Strömungstechnik, wie wir ja gerade gehört haben, strömt da Luft durch, also es bewegen sich Teilchen und wenn sich was bewegt, dann haben wir eben immer die Strömungstechnik.
+aber auch viel Wärmeübertragung, also hier kommt wirklich alles Dreies zusammen,
+denn wir müssen uns überlegen, wie stark kann denn zum Beispiel die aufgewärmte Plastikfolie Wärme an die darunterliegende Luft weitergeben.
+Okay, haben wir jetzt mal verschiedene Beispiele gesehen, das letzte wird Sie vermutlich jetzt im täglichen Leben nicht so stark betreffen,
+Aber wenn ich Ihnen ein anderes Beispiel nenne, dann können wir vielleicht so etwas sagen wie,
+warum heizt sich Ihr Innenraum im Auto so stark auf, wenn die Sonne drauf scheint?
+Und warum sind immer die schwarzen Polster besonders warm und die metallischen Sachen tun extrem weh,
+wenn man sie anfasst, wenn sie heiß sind und andere Sachen wie der Stoffsitz eher weniger.
+Genau solche Erscheinungen, die werden wir uns ein bisschen genauer anschauen und verstehen lernen, wieso diese doch im täglichen Leben immer wieder wichtigen Vorgänge ebenso ablaufen, wie sie sind.
+Das ist so das Ziel als Rahmen.
+Ich habe noch ein letztes Bild an der Stelle dabei, aber auch mit einer ganz konkreten Frage hier.
+wie stark reduziert sich denn die elektrische Reichweite, also die Reichweite von einem elektrischen Fahrzeug im Winter,
+und warum reduziert sich die überhaupt nicht, weil übrigens noch nie Elektrofahrzeuge gefahren sind.
+Okay? Aber deutlich über die Hälfte, die schon mal in Elektrofahrzeugen gefahren sind,
+und der Effekt ist, denke ich, bekannt heutzutage, zu sagen, okay, im Winter geht die Reichweite in die Knie.
+warum? Vom Elektroauto. Ja, Innenraumheizung ist ein ganz starker Effekt. Beim Verbrennungsfahrzeug, kein Problem, ich produziere extrem viel Abwärme,
+Der Motor macht nur 20 Grad Wirkungsgrad, 80 Prozent von dem, was ich da in meinem kleinen Kraftwerk mit meinem Diesel oder Benzin verbrenne, geht sowieso in Wärme, kann ich nutzen.
+Normalerweise im Sommer unnötige Abwärmung muss ich wegkühlen, aber ja, Innenraumtemperierung, was muss ich noch temperieren?
+Ja, ja, ja, nicht, keine Ahnung, sondern also weniger Performance dringt, das ist mein Fachgebiet,
+ich beschäftige mich mit Dezillionen Batterien, deswegen dazu kommt sowieso gleich noch ganz
+kurz was, aber richtig, also auch Batterien müssen temperiert werden, im Winter müssen
+die durchaus geheizt werden, damit die Performance passt, damit aber auch die Alterung passt.
+Vielleicht habt ihr ein oder andere schon mal gehört, wenn ich im Winter ein kaltes Elektrofahrzeug
+an die Schnellladesäule fahre und schnell tanken, also aufladen will, funktioniert nicht wirklich,
+weil die Batterie zu kalt ist.
+Da gibt es bestimmte chemische Vorgänge, die dann die Batterie kaputt machen würden,
+wenn ich die einfach im kalten Zustand lade. Also entsprechend ist die Aufgabe hier, nicht nur den Innenraum zu erwärmen und schön angenehm zu machen,
+sondern auch noch die Batterie zu erwärmen und das kostet einen Haufen Energie und die steht mir dann eben nicht mehr zur Verfügung zum Fahren
+und gerade deswegen ist dieses Thema in den letzten Jahren massiv wichtiger geworden.
+Mich haben die Leute vor zwei Jahren, als ich die Vorlesung gehalten habe, oder vor drei Jahren auch gefragt,
+ja, wenn doch jetzt dann die Verbrennungsmaschinen langsam ausphasen und wir nicht mehr so viele oder bald vielleicht kaum mehr neue Motoren bauen,
+ist dann dann die Themen, die wir hier durchnehmen, der Thermodynamik,
+Sehen wir den Kreisprozess überhaupt noch richtig oder ist es dann eh obsolet, ist es ein totes Fach, ist es Thermodynamik, Wärmelehre und Strömungstechnik und die Antwort ist nein, es ist kein totes Fach, sondern vielmehr ein Thema, was in der Zukunft auch extrem wichtig ist und wo man auch wieder diese Verknüpfung von den drei Fachgebieten sieht.
+Also wenn Sie jetzt kein Auto-Nerd sind, kein Problem, muss man nicht sein.
+Wir haben ja gesehen, es sind verschiedenste Teilbereiche relevant.
+Wen es interessiert, der kann gerne im Moodle, ich gebe Ihnen gleich in ein paar Slides den Link
+und auch die entsprechende Zugangskennung für den Moodle-Kurs,
+dann diesen Artikel nachlesen, der ist da mit abgelegt.
+Und es geht also darum, wie geht so ein Thermomanagement für ein Elektrofahrzeug und man sieht, da gibt es irgendwo einen Kühlkreislauf, bei dem ein Verdampfer eingebaut ist, der den Innenraum wärmen oder kühlen kann, je nachdem, was Sie an Ihrer Klimaanlage einstellen.
+Man ist es heutzutage gewohnt, dass man da relativ frei das wählen kann, was man Lust hat, unabhängig davon, was die Umwelt draußen macht.
+Wenn es heiß draußen ist, will ich es vielleicht kalt haben, wenn es kalt draußen ist, will ich es innen warm haben.
+Also da gibt es einiges zu tun und dann gibt es hier eben, wie Sie gerade von dem Kollegen gehört hatten,
+nochmal die Aufgabe, dass die Batterie auch auf die richtige Temperatur gebracht werden will, aber nicht immer die gleiche.
+Vielleicht wird die Batterie gerade warm und der Innenraum gerade kalt oder andersrum.
+Und dieses Thema macht es durchaus recht kompliziert.
+Man sieht dann hier so einige Komponenten, die da verbaut sind, auch noch ein zusätzliches Heizelement.
+Und das, was da in grün und rot und blau gezeigt ist, sollen also verschiedene Kreisläufe von Flüssigkeit sein,
+die entweder mit Kühl- oder Kältemittel, Unterschied werden wir noch klären, durchlaufen werden
+und entsprechend hier sich darum kümmern, dass, jetzt wieder im Fachbegriff,
+Wärme aus dem Innenraum entweder entzogen wird oder Wärme aus dem Außenraum in die Batterie reinkommt.
+Und das Ganze ist deswegen jetzt relevant und interessant, weil man nicht nur diese Rohre bauen muss,
+sondern weil man sich extrem stark über die Effizienz Gedanken machen muss.
+Die Reichweiten-Thematik ist eine große und eine größere Batterie zu verbauen ist extrem teuer.
+beim Automobilgeschäft ist ohnehin ein großer Kostendruck da
+und man sieht, dass es sich lohnt
+in diesem Kontext
+im Automobilbereich sowas zu verfahren
+das ist das
+das kann man nicht so gut erkennen
+das ist irgendwie mit irgendwelchen Falschfarben eingefärbt
+das ist eine Wärmepumpe
+so wie es vielleicht der eine oder andere kennt
+Wärmepumpen im Gebäudebereich
+wo auch viel in der Politik darüber gestritten wird
+ob das jetzt gut oder schlecht oder wie gut ist, das werden wir als Abfallprodukt aus der Vorlesung auch mitkriegen,
+warum Wärmepumpen unter Umständen sehr effizient und sehr gut arbeiten können.
+Auch hier im Fahrzeugsektor sind heutzutage im Elektrofahrzeug, in eigentlich allen etwas hochpreisigeren Elektrofahrzeugen,
+Wärmepumpen verbaut und die kümmern sich darum, dass man diese ganze Wärmemanagement macht.
+Und so ein Bild, was Sie jetzt hier sehen, und ich will das jetzt gar nicht groß erklären, das ist so, sag ich mal, eins der Endprodukte aus der Vorlesung, dass wir sowas verstehen und auch rechnen können und sagen können,
+Okay, da wird jetzt so und so viel Wärme von außen entzogen und hier die Batterie damit aufgeheizt, mit den entsprechenden Bauteilen, mit Pumpen, mit Wärmeübertragern, mit entsprechenden Sperrventilen, mit entsprechender Verrohrung, mit laminarem oder turbulentem Fluss.
+Also Sie sehen schon, ich habe jetzt ganz bewusst mal lauter so Fachwörter hingeschmissen.
+Um die wird es halt gehen.
+Das ist so grob der Kontext, in dem wir uns mit der Vorlesung befassen.
+Ich hoffe, es ist klar geworden, es gibt ganz verschiedene Anwendungsbereiche, wo man das nutzen kann.
+Und hoffentlich auch ein bisschen was an praktischem Wissen.
+Weil mein Ziel ist nicht, dass ich Sie hier nur, ich sag mal, drein saliere,
+damit Sie eine maximal schwierige Prüfung ablegen, die Sie dann sich denken, das war ein schauderliches Fach, ich will es nie wieder sehen.
+Sondern es soll schon auch ein Ziel sein, das werden Sie auch gleich sehen, dass Sie Verständnis erlangen.
+Und auch wenn Sie am Schluss vielleicht nicht alles sofort rechnen können,
+weil Sie jetzt nicht Elektroingenieurin oder Elektroingenieur oder Automobilingenieurin werden, um solche Dinge zu machen,
+dann ist es doch so, dass Sie hoffentlich ein Stück weit das Vokabular verstehen und sagen,
+okay, kann ich so weit mitreden, kann ich so weit verstehen, dass es ein schwieriges Fach ist,
+warum sich da im Hause BMW oder Mercedes einige hundert Leute feste und sehr hochbezahlte Positionen haben
+und solche Dinge berechnen und genauer untersuchen.
+so weit an der stelle diese vorstellung vorweg worum es gehen soll ich habe das
+ganz bewusst gemacht bevor ich was zu den leuten sagen die hier was mit ihnen
+zu tun haben einfach unsere wisse so abzuholen worum es in den fach gehen
+soll vielleicht so ganz kurz für den kontext
+gar keine agenda gezeigt ich zeige jetzt ganz kurz noch was vom kollegen
+fast überspringen soll er bitte sich selber dann vorstellen wenn er in einer
+der kommenden Stunde selbst hier vorne steht, statt meiner. Ich sage was zu mir. Ich sage
+was zum Ablauf von der ganzen Veranstaltung. Ich sage Ihnen auch was zum Pausenmanagement
+und zur Klausur. Und dann werden wir irgendwann eben eine Pause machen. Ich habe so geplant,
+etwa eine Stunde oder eine Stunde
+15 hier
+mit Ihnen zu agieren
+und dann
+haben wir ein Stück
+eine Pause und dann machen wir einen zweiten
+und dann ist es ein bisschen fachlos.
+Wenn Sie aber das Gefühl haben,
+jetzt ist die Luft weg,
+dann melden Sie sich, wie gesagt,
+die Personen, die am Fenster sitzen, sind dafür verantwortlich,
+dass Sie da dann bitte mal das Fenster öffnen
+und wenn Sie das Gefühl haben,
+Sie brauchen jetzt dringend eine Pause,
+dann sagen Sie es mir, wir können das
+Pausenmanagement auch gerne individuell verschieben. Kann auch sein, dass ich irgendwann keine Stimme
+mehr habe, dann sage ich, jetzt müssen wir mal Pause machen. Kollege Georg Happig hat angefangen hier an der
+Hochschule vor nicht allzu langer Zeit, ist noch etwas jünger dabei als ich, ich habe selber ein Jahr vor ihm
+hier begonnen und ist aus dem Bereich Agrarrobotik, das ist echte Maschinenbauthematik, mit der er sich da befasst.
+Das soll er bitte Ihnen selber erklären, auch seinen Lebenslauf und so weiter.
+Er ist hier im T-Gebäude verfügbar, das ist also da drüben und auch viel im Hause.
+Nach meinem Wissensstand schreibt hier rein, Sprechstunde nach Vereinbarung, schreiben Sie mit E-Mail, rufen Sie ihn an.
+wenn Sie mit ihm reden wollen. Wir sind beides, glaube ich, offene Menschen.
+Ja, das geht gleich für mich mit. Ich habe jetzt die Kontaktdaten von mir da an anderer Stelle.
+Kommen Sie vorbei, sagen Sie Bescheid. Ich bin einen Stock weit über Ihnen hier, genau im S-Gebäude.
+Und hoffe, wir können Sie abholen und mitnehmen und begleiten bis zu der Prüfung und Sie nicht abschrecken.
+So weit an der Stelle. Wie gesagt, das soll er Ihnen mal selber erzählen, was der alles Tolles macht.
+Er hat eine sogenannte Forschungsprofessur, so wie ich selber auch.
+Forschungsprofessur heißt, wir befassen uns nicht nur mit der Lehre und halten hier Unterrichtsstunden,
+so wie ein Lehrer oder eine Lehrerin, sondern wir haben auch sehr viel Bezug in die Industrie.
+In seinem Falle sind es die großen Namen, die im Bereich Maschinenbau und Anlagenbau bzw. Verbrennungsmaschinen oder vielleicht auch Elektromaschinen hier agieren.
+Liebherr ist hier aus der Gegend. Bosch gibt es hier unten eine große Dependance.
+Fendt ist hier aus der Gegend. Also ganz viele Marken, die auch hier im Allgäu durchaus eine Relevanz haben.
+und mit denen geht es darum, in Projekten bestimmte neue Entwicklungen voranzutreiben.
+Dafür ist auf der Industrieseite typischerweise einiges an Entwicklungsbedarf da
+und auch Ingenieurspower, sag ich mal.
+Hier auf der Hochschulseite gilt es zum einen eine Brücke zu bauen zu den jungen Menschen, zu Ihnen.
+Das heißt, wenn Sie sagen, oh, da sind aber spannende Unternehmen dabei,
+Dann auch immer der Hinweis, sprechen Sie uns ruhig an. Wenn es die Logos sind, dann vielleicht noch stärker den Kollegen.
+Wenn es die Logos sind, die ich gleich noch zeige, dann gerne bei mir.
+Und da gibt es immer Möglichkeiten, Brücken zu bauen für eine Masterarbeit oder dergleichen,
+wo man in Projekten etwas mitmachen kann. Was machen wir noch an der Hochschule?
+Wir haben oft Frühdemonstratoren, sehr innovative, neue Konzepte, die man in der Industrie vielleicht sagt,
+ja, das kann man zwar machen, aber es ist vielleicht zu risikoreich, dass wir uns das jetzt im Haus aufbauen.
+Da gibt es hier durchaus Möglichkeiten.
+Und da hat sich die Hochschule Kempten, so wie andere Hochschulen, auch stark entwickelt in den letzten Jahren.
+Wir haben mehr, so ähnlich wie an den Universitäten, auch den Charakter, dass wir nicht nur lehren,
+sondern auch forschen, und das ist eigentlich auch eine schöne Sache, hoffentlich auch für Sie,
+dass man auch ein bisschen mitkriegt, was sind denn die aktuellen Themen,
+und nicht nur abgedroschenes Zeug von vor 20 Jahren.
+Weil Wärmedynamik, Wärmedehre, Sturmungstechnik, Thermodynamik gibt es schon seit über 100 Jahren
+und kann man natürlich aus alten Lehrbüchern so runterdeklinieren und proklamieren.
+Mein Versuch und Anspruch und der von Kollegen auch, ist aber, dass wir Ihnen auch aktuelle Themen mit beibringen.
+Und wenn Sie ein aktuelles Thema haben, wo Sie denken, das passt ja total gut in diese Vorlesung rein,
+dann stellen Sie auch die Fragen, vielleicht kann man die eine oder andere Frage aufgreifen und dann auch behandeln.
+So weit dazu.
+Wupp, da fliegt noch irgendwas rein.
+Jetzt mache ich da einfach mal weiter.
+Wie gesagt, da kann ich gar nicht so viel zu sagen.
+Von meiner Seite aus, ich bin kein klassischer Maschinenbauer, ich habe Physik studiert in München im Bereich Photovoltaik.
+Da oben sieht man eine organische Photovoltaikzelle, das sind biegbare Solarzellen, die auch in verschiedensten Farben hergestellt werden können.
+Ein bisschen der Spezialtechnik. Ich war dann bei BMW im Hause und habe dort in dem Bereich gearbeitet.
+Sie hatten, glaube ich, eine von Ihnen was gesagt zum Thema Batterien.
+Da ging es genau darum, die Lithium-Ionen-Batterie mit der Fahrzeugtechnik zu verbinden und zu gucken,
+was im Antriebsstrang benötigt wird für das Fahrzeug.
+Also, was wir auch vor ein paar Folien gesehen haben, so Elektromobilitätsthemen.
+und habe dann für zehn Jahre an der TU München eine Forschungsgruppe geleitet zum Bereich stationäre Energiespeicher.
+Da geht es also darum, ganz häufig aus Photovoltaik oder Windkraftstrom eine Zwischenspeicherung zu erreichen,
+wie, denke ich, langläufig bekannt sind.
+Es sind die Techniken zu heute Tage sehr günstig, PV und Windstrom zu erzeugen,
+aber eben nicht immer verfügbar und da gibt es verschiedene möglichkeiten der
+speicherung vom speicher kraftwerke das aufwind kraftwerk was wir vorher gesehen
+haben aber eben auch die unionen batterien und die werden eben nicht nur
+in den fahrzeugen eingesetzt sondern auch in solchen großen container hier
+unten zum beispiel stehen mehrere solche container zur stabilisierung der ihren
+des Stromnetzes hier und haben dort eine immer stärkere Bedeutung eigentlich in den letzten Jahren.
+Wir haben, während ich in der Forschungsgruppe in München war, solche gesamten Speichersysteme selbst aufgebaut.
+Wir haben auch solche Speichersysteme hier an der Hochschule Kempten installiert mit der Firma Sonnenzubranden,
+die hier in Wilhelmsried sitzen und in dem Fall ist es ein kleines Heimspeichersystem.
+system also wenn sie es interessiert kommen sie gerne mal an der einen oder anderen stelle vorbei
+dann kann ich ihnen das näher bringen oder kann man davon berichten vielleicht sogar auch kurz
+einmal hingehen in dem laborbereich wo solche systeme betrieben werden ich selbst habe eben
+auch eine forschungsprofessur sowie der kollege in meinem falle sind einige promovierende mit dabei
+die Melina, der Wiebeck, der Sheng hier im Hause. Die drei, der Bene und der Anupam, sind in München
+in meiner ehemaligen Forschungsgruppe an der TU und jetzt auch im Abschluss bereits von ihrem
+Promotionsvorabend. So haben wir eine ganze Menge Themen, die wir abbilden können und die Personen
+sind jetzt dann wieder in einzelnen Forschungsprojekten unterwegs. Ich will Sie da nicht
+ich zu sehr in die Details gehen, aber ich blätter das einmal kurz auf. Ein Projekt ist, dass man mit
+solchen Batteriespeichern verschiedene Anwendungsfälle bedient. PV-Überschuss, aber auch
+Netzstabilisierung, wo die Stromfrequenz konstant gehalten wird. Lastspitzenmanagement oder
+Spotmarkt-Trading, bei dem man Strom zu günstigen Zeiten einkauft und wieder verkauft. Solche Dinge
+und da geht es um die Algorithmik, wie man die betreibt.
+Hat erstmal relativ wenig mit WSTR zu tun, werden Sie denken und werden Sie sehen,
+aber im Detail dann schon irgendwie wieder, weil wenn man diese Speichelsysteme sich jetzt genauer anguckt,
+das ist ein anderes von einem anderen Hersteller, auch so ein Kühlschrank, großer Schrank,
+dann geht es schnell auch darum, dass die möglichst effizient gestaltet werden sollen
+und dann haben wir wieder ganz ähnliche Themen wie das, was wir vorhin bei dem Fahrzeugmanagement hatten.
+Man muss die richtig temperieren, diese Batterien, man muss schauen, dass man dafür möglichst wenig Energie verschwendet, sozusagen für die Temperierung und man muss vielleicht beim Systemdesign die so aufbauen, dass die Abwärme, die da produziert wird, möglichst gut genutzt wird, damit die gleichmäßig warm werden und nicht, dass man ein System kühlen muss und ein anderes heizen muss.
+Und da kann man sehr komplizierte Vorgänge sich mit anschauen, wann und wie ein DIC-Spreigersystem ins Wechselstromnetz einspeist, durch verschiedene Schalterstellungen, durch dann Algorithmik, die erstmal in lineare Optimierung geht, aber schnell auch in KI-basierte Methoden, weil die Physik, die dahinter steht, doch so aufwendig ist, dass man es mit klassischen Optimierungsverfahren nicht mehr in den Griff nimmt.
+Letztes Beispiel aus einem anderen Projekt, was vielleicht ein bisschen griffiger ist,
+wo sich hoffentlich viele mit schneller in dem Vokabular zurechtfinden,
+ist eine Thematik hier, bei dem es um Second Life Batterien geht.
+Wer kennt das Thema Second Life? Hatten Sie schon mal gehört?
+Wollen Sie es ganz kurz erklären?
+Ja, es geht darum, dass wenn man zum Beispiel eine Batterie in einem Auto hat, dass man die nach gewissen Ladezüchern oder nach einer gewissen Beanspruchung nicht mehr für das Auto verwenden kann, aber in anderen Geräten nochmal we-cycle und up-cycle kann, zum Beispiel Speicher für die eigene Photovoltaikanlage oder Laptops.
+komplett richtig und so wie sie es gesagt haben aus dem automobil raus in eine andere anwendung
+rein um das rest an performance noch herauszulutschen bevor es dann ins recycling
+geht ich sag mal der letzte halbsatz im bereich von so 3c devices also hier in
+welchen Computern oder so, ist es eher unwahrscheinlich bis hin zu unrealistisch,
+weil das Testing ist doch recht aufwendig, zu gucken, wie gut sind die Batterien
+doch und auch das Auseinandernehmen von solchen Batteriepacks ist eher aufwendig.
+Aber für die größeren Anlagen durchaus. Hier die Automobilanwendung, da die
+Anwendung als stationärer Speicher, in dem Fall Heimspeicher, wahrscheinlich
+wird es aber überwiegend eher in den Commercial-Bereich gehen, also größere
+Speicheranlagen und die Fragestellung, wie altert so ein Speicher und wann und wie kann man die
+weiter nutzen? Da arbeiten wir zum Beispiel jetzt mit BMW und Sonnen zusammen, hatten wir beide schon
+gehört, hier Sonnen eben lokal ansässig für diese stationären Systeme und unsere Aufgabe ist, aus
+Datenwelt, zum Beispiel aus der Fahrzeugseite heraus zu lesen, wie ist denn die Alterung gewesen für eine
+bestimmte zeit wie prognostiziere ich dass die alterung weitergeht in der zukunft dafür muss
+ich einige im verfahren kombinieren physikalische modellierung aber auch machine learning methoden
+und dann schnell zu sagen welche von diesen in dem falle ganz vielen einzelnen batterie
+zählen wird denn lange leben und welche wird denn vermutlich relativ schnell degradieren
+um den richtigen Zeitpunkt abzupassen, aus der Fahrzeugwelt in die stationäre Welt,
+um nicht in der stationären Welt irgendwas zu verbauen, was hinterher nicht funktioniert.
+Soweit an der Stelle. Ich sehe gerade, da habe ich kürzlich noch eine Folie hinzugefügt.
+Die kennen Sie wahrscheinlich, oder?
+Zumindest all diejenigen von Ihnen, die in Kempten leben oder hier nicht nur ganz schnell rein- und rausfahren mit dem Auto.
+sondern vielleicht sogar auch die öffentlichen Verkehrsmittel nutzen.
+Hier geht es um Elektrobusse der Stadt Kempten und die ist da sogar Vorreiter in dem Bereich.
+Auf der Webseite von Mercedes-Benz, da oben ist sie eingeblendet, finden Sie dies als eines Ihrer Werbethemen.
+Die Hasnachbus, der Betreiber von diesen Elektrobussen, hat alle klassischen Fahrzeuge bei denen umgestellt.
+Ich sage alle klassischen, es gibt ein paar Reservefahrzeuge mit Dieselantrieb, aber im Normalbetrieb können die rein elektrisch hier den Busverkehr betreiben.
+Und in dem konkreten Thema, wo wir ein neues Forschungsprojekt jetzt platziert haben, was zum kommenden Jahr, also in 2026, starten wird, geht es darum, die Reichweite zu optimieren von den Elektrobussen, die mit möglichst günstigem und gutem erneuerbaren Strom zu betanken und entsprechend das gesamte Lademanagement zu machen.
+Das heißt, dass wir die Fahrzeuge möglichst nicht alle gleichzeitig, wenn sie in den Busbetriebshof, der da hinten abgebildet ist, zurückkommen, gleichzeitig laden, dann gibt es Mordstrombedarfe, das würde gar nicht funktionieren, sondern die kaskadiert nur zu bestromen und auch darauf Rücksicht zu nehmen, wie viel von der PV-Anlage, die sieht man hier oben so ganz knapp, da genutzt werden kann, um die möglichst kostengünstig und möglichst umweltgerecht zu machen.
+Also, wenn Sie die Themen interessieren, schauen Sie gerne mal vorbei. Das ist unsere Webseite mit den Themen, mit denen wir uns befassen.
+So, jetzt würde ich aber versuchen, Ihnen nochmal wieder den Kontext zu geben zu der Vorlesung hier.
+Wir haben jetzt 9 Uhr 25, ich denke bis etwa 10 würde ich das spätestens abschließen wollen und dann können wir auf jeden Fall in die Pause gehen.
+Wir hatten also diese drei Teilmodule gesehen.
+Der Kollege Happig wird Ihnen die Thermodynamik beibringen, einzige Ausnahme.
+Heute mache ich einmal Thermodynamik ein bisschen mit Ihnen.
+Ich selbst werde mich vor allem mit Ihnen über Wärmeübertragung und Strömungstechnik unterhalten,
+die beiden Fächer da unten.
+Aber die drei Fächer sind stark miteinander verzahnt und verbunden.
+Das hat man ein bisschen schon gesehen in diesem Bilderüberblick.
+Das werde ich ganz bewusst natürlich nicht alles vorlesen,
+Aber Sie sehen da ganz viele Schlagworte, die wesentlich sind, wenn es um Thermodynamik, Wärmeübertragung und Stimmungsfähigkeit geht.
+Ich habe mal irgendwas rausgegriffen.
+Wärmeleitung, Konvektion, Wärmeübertragung und Wärmedurchgangskoeffizienten und Wärmeübertrager.
+Sehr viele Begriffe. Wahrscheinlich können Sie nicht mit allen jetzt schon was anfangen.
+Das macht gar nichts.
+Der Sinn der Veranstaltung ist ein Stück weit, dass Sie navigieren lernen dazwischen,
+dass Sie nicht alles blind auswendig lernen.
+Das werden wir gleich sehen. Es gibt eine Formelsammlung.
+Es gibt eine Möglichkeit, dass Sie, da werde ich auch gleich nochmal was zu sagen,
+selber, einschriftlich oder mit dem digitalen Gerät, Sie haben praktisch alle eins da,
+sich Notizen machen und eine gewisse Auswahl dieser Notizen auch mitbringen dürfen in die Klausur.
+Es geht also nicht darum, dass Sie irgendwie alles auswendig geleitet haben,
+sondern dass Sie so ein bisschen mitgehört haben, mitgemacht haben.
+Vielen Dank auch für diejenigen, die sich schon gemeldet haben und ein bisschen Input gegeben haben.
+Das werde ich immer wieder so abfragen.
+Und damit auch am Ende der Vorlesung ein Verständnis erlangen.
+Verständnis erlangen als Beispiele mal, wenn man die Vorlesung gehört hat, versteht man hoffentlich gut,
+Und dass das hier Themen aus der Wärmeübertragung sind, das kann sich wahrscheinlich jeder vorstellen.
+Und hier geht es um sogenannte Schlierenvideos.
+Hier sieht man, wie Wärme, das ist mit einer bestimmten Technik sichtbar gemacht, wie Wärme aufstreicht.
+Man sieht hier also was nach oben strahlen, man sieht auch was nach unten strahlen, das war kaltes Gas aus dem Feuerzeug.
+Jetzt hat die Person hier das Feuerzeug angemacht.
+Man sieht, wie es hier so Kräuselbildungen gibt. Warum kräuselt das? Was passiert dahinter?
+Oder was ist das, was diese Personen da entsprechend fühlen?
+Wenn ich hier in den Raum fasse, fühlt sich das entweder warm oder kalt an.
+Wenn ich nach unten gehe, ist es wahrscheinlich kälter als nach oben.
+Warum? Inwieweit funktioniert das Ganze zum Teil in sehr geordneten Waren zu teilen, aber auch extrem chaotisch?
+Und die Aufgabe in der Thermodynamik als Überbegriff, zu der eigentlich auch die Wärmeübertragung als Teilgebiet gehört, ist, das, obwohl es so chaotisch ist, zu beschreiben und zu sagen,
+ja, hier ist jetzt die Temperatur im Durchschnitt in etwa so und so viel Grad.
+Und zu sagen, es dauert so und so lange, bis die Person jetzt 2 Grad kältere Handtemperatur hat,
+ist jetzt vielleicht ein bisschen ein blödes Beispiel, weil hier drin zirkuliert das Blut
+und wärmt hoffentlich wieder auf und hält die Temperatur konstant, sonst habe ich starkes Fieber.
+Aber ein anderes Beispiel wäre, wenn ich eine Cola-Dose hinstelle und gucke, wie lange dauert es, bis sie warm ist.
+Oder ein Ei, was ich ins Wasser schmeiße und gucke, wie lange dauert es, bis das Ei genau richtig gekocht ist.
+Solche Themen kann man damit berechnen.
+Und interessanterweise kann man das auch ganz gut mit speziellen Tricks sichtbar machen.
+Deswegen werde ich immer wieder Videoschnipsel mitbringen.
+Ganz viele von den Videoklipsen sind auch vertont und dann aber auf Englisch, weil die englischen Lehrvideos hundertmal besser sind als die deutschen.
+Jemand, der ganz große Schwierigkeiten hat.
+Ich habe ein paar Fragen, die ich auch zugeben möchte.
+But still, I'm very much capable, my entire team is English, okay?
+Gut, soweit an der Stelle.
+Ein Beispiel aus der Praxis, wissen Sie, was ich da zeigen werde?
+Ja, da hinten liegt schon jemand.
+Es geht um die Surfwelle am Eisbach.
+Ich bin selbstgeführter Münchner und habe 100 Meter von der Welle weg gewohnt.
+und hier sehen Sie, ja, Strömungsdynamik in Aktion, Sie sehen ein bisschen,
+dass hier das Wasser schnell runterfließt über eine Stufe, die abfällt
+und an der Stelle bildet sich kurz dahinter ein Gegenhang, eine Aufwölbung der Strömung,
+die so stark ist, dass sie ohne weiteres eine Person tragen kann und hier für viel Spaß sorgt
+bei den jungen Menschen, die da eben Wellen reiten gehen.
+Und die Dynamik, die dahinter ist und zu verstehen, wie hoch ist diese Welle,
+wie viel Kraft steckt da drin, das lässt sich durch die Technik der Strömungsdynamik sehr gut verstehen.
+Ich glaube, Wärmeübertragung und Strömungstechnik lassen sich immer sehr gut plastisch verstehen.
+Das Video will ich gar nicht groß zeigen, ist bei weitem nicht so, sage ich mal, sexy vielleicht, in dem dieses so gezeigt wird.
+Da geht es um die Technik, wie funktioniert ein Kühlschrank, das ist aber die gleiche Technik, wie funktioniert eine Wärmepumpe und wie funktionieren andere Trömmungsmaschinen.
+Das sind auch Themen, mit denen wir eben nochmal arbeiten.
+Was sind die Lernziele der Veranstaltung?
+Das lesen wir nicht alles durch.
+Sie sollen die drei Themengebiete kennenlernen.
+Sie müssen mit Energiegrößen arbeiten.
+Es wird eine durchaus große Anzahl von Variablen Namen geben,
+mit denen wir uns auseinandersetzen, damit wir diese ganzen Größen da rechnen, verstehen können.
+Zum Glück gibt es aber eine Formelsammlung, die Ihnen dann einiges davon zusammenfasst.
+Die finden Sie auch auf Moodle, dazu gleich noch ein bisschen mehr.
+Sie sollen lernen, was auszulegen und was im Betrieb zu untersuchen.
+Es soll auch ein bisschen Wirtschaftsingenieurs Bezug geben dazu, dass sie auch sich überlegen, was sind denn geschickte Investitionsentscheidungen, wie mache ich eine wirtschaftliche Auslegung, wirtschaftliche Rohrdurchmesser und so weiter.
+um dann Fragestellungen hoffentlich zu bearbeiten, die Sie im täglichen betreffen.
+An der Stelle vielleicht so ein Basisprinzip, was ich versucht habe mitzubringen für die
+Veranstaltung, als ich sie vor drei Jahren übernommen habe.
+Das Fachwort Constructive Alignment, irgendjemand schon mal gehört?
+Ich hoffe, Sie wissen hinterher grob, was ich meine. Ich habe an der TU München relativ viel
+auch mich mit Didaktikkursen befasst und das Basisprinzip ist eigentlich aber ein ganz
+Einfaches. Es geht darum, dass man das, was Sie hinterher lernen und wissen sollen, in dem Falle die Fächer BSTR,
+dass dieses darauf fußt, was ich und Herr Happig Ihnen beibringen und dass das auch was damit zu tun haben soll, mit dem, was wir prüfen.
+Ich nehme ein ganz einfaches Beispiel. In Deutschland eine Prüfung zum Führerschein.
+Man will man haben, dass sie hinterher sowohl verstehen, was sie machen sollen, wenn da ein Schild steht, wo 30 draufsteht,
+als auch, dass sie es praktisch können. Sie sollen nämlich auf Gas und Bremse drücken können und in die Spiegel schauen.
+Ja, deswegen versucht man hoffentlich in den Lehr- und Lernmethoden, anders als zum Teil in Amerika, Ihnen beizubringen, nicht nur in einer Theoriestunde, was mache ich, wenn ein Schild 30 kmh zeigt, sondern auch noch sich ins Auto reinzusetzen, in Fahrstunden, die leider höllisch teuer sind, und dabei zu lernen, wie fahre ich denn wirklich Auto.
+Und Ihre Prüfung setzt sich auch zusammen, nicht nur entweder aus einem praktischen Teil oder nur aus einem theoretischen Teil, sondern aus beidem.
+Weil nur dann kann man hinterher hoffentlich sagen, dass die Person fähig ist, ein Fahrzeug zu nehmen.
+Also das ist eigentlich ein total banales Prinzip.
+Und das ist in etwa so, wie wenn ich jetzt sage, naja, ich will, dass Sie hinterher verstehen, wie funktioniert dieses Fach WSTR
+Und dass ich da so irgendwie navigieren könnte, das habe ich Ihnen jetzt ziemlich lange an meinem Monolog gehalten.
+Und Sie aber dann hinterher prüfe mit einer riesen Matheaufgabe, wo ich Sie konfrontiere mit etwas,
+was überhaupt nichts mit dem zu tun hat, was ich hier im Unterricht gemacht habe.
+Und nichts mit dem zu tun hat, was Sie erreichen.
+Und natürlich ist das ein Idealbild, natürlich wäre es auch nicht perfekt, schaffen, alles übereinander zu legen.
+Aber es ist doch der Anspruch, dass ich will, dass Sie, und ich bin da Realist, Sie sind Wirtschaftsingenieurinnen und Wirtschaftsingenieure,
+Sie sind nicht Hardcore-Maschinenbauer, der als nächstes bei der Strömungstechnikfirma morgen anfängt.
+Sie möchten da grob verstehen, Sie möchten wahrscheinlich hier durchkommen und nicht in ein oder zwei Jahren oder zwei Semestern hier wieder sitzen und sagen, verdammt, so muss ich nochmal.
+also sie möchten das zeug verstehen und ich versuche ihnen sie dabei der anzunehmen unter
+anderem mit materialien wie diesen videos die ein bisschen praktischer sind ja auch ein bisschen
+zeitgemäßer sind und nicht uralten sachbücher wo ich sage ja lesen sie sich selber durch deswegen
+mein angebot kommen sie eher stellen sie fragen dann können wir hoffentlich ihre fragen beantworten
+Ja, weil ich habe meinen Job auch, wenn Sie nicht kommen, das ist mir auch recht, da spreche ich mir viel Stimme.
+Aber mein Angebot ist, ich versuche Ihnen was beizubringen, soweit ich es denn selbst kann.
+Und die Idee ist, dass ich Sie auch vorbereite auf das, was in der Klausur ist.
+Das heißt, wir werden relativ viele Übungsaufgaben auch machen.
+Ich empfehle Ihnen, die auch mitzumachen.
+es gibt extrem wenig aber es gibt ab und zu so eine mini hausaufgabe zu sagen ja bereiten sie
+doch dies oder jenes vor für die nächste stunde lohnt sich meiner meinung nach sie werden sehen
+sie dürfen in diesem was wir hier machen ich habe ein skript mit sehr vielen folien sie sind es
+schon unangenehm viele folien auf der anderen seite ist der luxus für sie sie müssen nicht
+viele Fachbücher wälzen.
+Faktisch alles, was Sie brauchen, steht hoffentlich in diesem Skript drin.
+Und Sie werden sehen, da sind immer wieder Felder, wo Sie mitschreiben können und müssen,
+weil am Ende müssen Sie eine Klausur schreiben, die müssen Sie schreiben.
+Und nicht nur zuhören und lesen.
+Und die Prüfungsmethode ist deswegen auch, anders als sie noch vor fünf Jahren an der
+Hochschule Kempten, aber wahrscheinlich auch an ganz vielen anderen Hochschulen war, eine
+reine Mathe-Klausur, bei der Sie nur
+rechnen müssen. Ja, da ist
+Mathe drin und auch ein gewisser
+Anteil, weil man auch den Anspruch hat,
+dass Sie sowas
+verstehen, aber da sind auch
+Verständnisbeine drin. Und die sind vielleicht auch
+ganz hilfreich für die Personen,
+die einfach sich erst einmal
+schwer tun, extrem komplizierte
+Kreisprozesse durchzurechnen,
+mit sieben Mal umstellen
+und am Schluss wird nur
+gewertet, wenn das Ergebnis richtig ist.
+Was Unsinn ist, meiner Meinung nach.
+Ich als Dozent muss die Zeit auch investieren, dass ich mir das, was Sie da rechnen, anschaue.
+Und nicht nur einen Haken drunter machen, wenn es ganz wichtig ist,
+sondern wenn Sie Zwischenschritte machen, die sinnvoll sind, dann muss ich Ihnen auch Teilpunkte geben.
+Und da gebe ich Ihnen logischerweise auch Notfallwerte, mit denen Sie wieder einsteigen können.
+Und solche Dinge.
+Okay?
+Also mein Angebot an den Raum.
+Ja, ich habe gesehen, super, danke.
+Sie sind auch super still gewesen, das ist ja auch eine wichtige Information.
+Das ist mein Angebot an den Raum.
+Sie dürfen es aufgreifen.
+Sie müssen natürlich nicht herkommen, Sie sind freie Menschen, wenn Sie sagen, nee, heute ist das Wetter zu gut, ich mache was anderes.
+Das ist jede Sache.
+Die Materialien sind auf Moodle, aber es gibt eben Handmitschriften hier, die gibt es auch nicht auf Moodle.
+Die können Sie sich aber natürlich in Ihrer Community auch untereinander austauschen, das dürfen Sie.
+Sie sollen sich auch austauschen, aber die stelle ich so nicht zur Verfügung.
+Das gibt andersrum Ihnen auch den Luxus, dass ich, auch ohne mich bei meinem Dekan rechtfertigen zu müssen,
+auch Dinge fragen kann, die wir hier mehr oder weniger eins zu eins in dem Unterricht gesprochen haben.
+Die stehen zwar nicht eins zu eins in dem Basisfoliensatz drin, aber sie sind handschriftlich da drin
+und sind ihre eigene Leistung, dass sie die nicht gefeuert werden.
+Das ist sozusagen so meine Kompromisslinie, die ich versuche zu fahren.
+Und ich hoffe, die kriegen wir so drin. Dazu kommen wir.
+Also die Prüfung hat eben das Ziel, dass Sie verstehen und anwenden.
+Das ist das im Constructive Alignment.
+So ein bisschen die Zusammenhänge verstehen.
+Eine Frage könnte zum Beispiel, das ist ein ganz blöder Beispiel, aber fällt mir gerade ein,
+erklären Sie wie eine Aufwendkraft funktioniert.
+Haben wir heute darüber geredet, ja. Ein paar Wörter waren jetzt da.
+Wäre jetzt vielleicht ein bisschen viel verlangt, aber nachdem Sie das ganze Kontext gehört haben, können Sie dazu vielleicht was sagen.
+Rechnungsaufgaben sind aber eben auch Teil, dass Sie damit dann berechnen können, wie viel Energie kann man machen
+und warum gibt es von diesen komischen Aufwendkraftwerken heute praktisch keine.
+Weil die sind nämlich extrem wenig effizient.
+und haben sich ja überhaupt nicht durchgesetzt gegenüber Photovoltaik plus Photovoltaik.
+Stoffumfang sind die Folien der Vorlesung mit dem Inhalt auf Mödel
+und da steht es nochmal ganz dick, ohne die Handgriff zu notizen.
+Ja, Sie dürfen die untereinander austauschen, Sie sollen das, es tut Ihnen eh gut,
+dann lernen Sie, wenn Sie nicht im dritten Semester ohnehin schon Ihre Kommilitonen,
+meine Kommilitonen alle kennen, dann lernen Sie die spätestens da kennen,
+dass sie die E-Mail schreiben müssen oder im Forum schreiben, hast du mal den Foliensatz Nummer 17.
+Da können sie sich austauschen. Es gibt Fachliteratur, da steht ein Ausrufezeichen,
+aber ich kann es fast schon wieder wegtun, weil das sind drei dicke Fächer.
+Und wenn man Maschinenbau lernt, hier als Studium oder überall anders auch,
+dann werden die alle einzeln angeboten, jeweils vier SDS oder sogar sechs.
+ist. Wir haben hier ein Fach mit drei Kombinationsdingern. Wir müssen da ganz schnell durchgehen. Ich
+kann nicht den Anspruch haben, dass die Fachliteratur in einem Dicke von 500 bis 1000 Seiten pro
+Fach sich durcharbeitet. Deswegen ist das fast alles, was wir brauchen, in Ihrem Vorlesung.
+Ich denke, dass Sie das nicht brauchen, da viel Fachliteratur zu holen. Sie dürfen die
+Formelsammlung benutzen, Sie dürfen einen Taschenrechner
+benutzen. Wie die Formelsammlung
+aussieht, sehen wir gleich. Es gibt
+Exkurse, ich habe immer mal wieder Themen,
+die sind ganz nett, wenn man sich
+dafür interessiert. Die müssen Sie
+aber nicht lernen.
+In dem Sinne, vor allem nicht,
+dass Sie jetzt die auswendig
+lernen oder die Zahlenwerte da drin
+verstehen.
+Es steht hier so zur Sicherheit, als
+Disclaimer drin sind ebenso Stopp der Vorlesung und können
+in Verständnisfragen geprüft werden.
+Also, wenn ich
+die Ihnen jetzt als Exkurs das Aufwindkraftwerk mit Details und physikalischen Berechnungen erkläre,
+dann ist es durchaus immer noch möglich, dass Sie eine knappe Verständnisfrage dazu kriegen,
+aber Sie kriegen dazu sicherlich nicht die Berechnungsaufgabe, die Sie mitgegeben haben.
+Soweit an der Stelle. Es gibt 90 Minuten Prüfung.
+Das ist ziemlich kompakt für drei Fächer, das heißt, dass für jedes Fach etwa 30 Minuten übrig bleiben.
+So ist auch der Anspruch. Die Klausur ist auch so geschnitten, dass sie in den Punkten ein Drittel Thermodynamik, ein Drittel Strömungstechnik, ein Drittel Wärmeübertragung macht.
+Das heißt, die Fächer haben eine gleichberechtigte Stellung.
+Da ist mal irgendeine Verständnisaufgabe als Beispiel. Ich lese die jetzt nicht vor, die können Sie sich mal so anschauen.
+da geht es um irgendwelche Punktentypen und wenn Sie da in der entsprechenden Vorlesung da sind,
+dann wissen Sie sofort, ah ja, klar, habe ich verstanden, muss ich diese Begriffe irgendwie verstehen können
+und ganz knapp was dazu sagen.
+So eine richtig banale Aufgabe ist fast wie so ein, naja, wie so ein Word-Quiz-Bingo.
+Es gibt auch ein bisschen spannendere Aufgaben, egal.
+wenn wir rechnen
+arbeiten wir im Sinne der Klausur
+immer mit signifikanten Stellen
+wenn ich weiß, dass signifikante Stellen sind
+steht da nochmal ganz banal als Wiki
+welche Rechenaufgaben in Frage kommen
+kommt hoffentlich sehr gut raus
+mit den Übungsaufgaben
+ich mache auch für Sie als Angebot
+eine Probeklausur
+das heißt, dass man hier mal
+die Möglichkeit hat, 90 Minuten
+im Raum
+uns mit von uns ausgeteilten
+Papier zu befassen,
+da was zu rechnen.
+Das ist ein gutes Angebot. Ich würde es Ihnen sehr empfehlen,
+das zu nutzen, damit Sie dann
+auch gut vorbereitet
+sind für
+das, wie so eine Klausur hinterher aussieht.
+Ja, also man darf nur einen Taschenrechner mitnehmen
+und die digitale Formelsammlung plus
+Handschriftnotizen, das macht
+aus meiner Sicht keinen Sinn, wenn Sie jetzt
+irgendwelche Sachbücher oder irgendwelche anderen
+Dinge mitbringen, das ist einfach am Thema
+vorbei, sie verlieren sich nur
+das hat auch nichts mehr mit
+Constructive Alignment zu tun
+am Ende
+ist das
+auch für dieses
+Raumklima, sag ich mal, nicht sinnvoll
+wenn die ganze Zeit jemand blättert und tut
+und
+es gibt einen guten Kompromiss
+wenn ich ihnen nicht alle Hilfsmittel zulasse
+und insbesondere auch ihr Tablet oder
+irgendwelche
+digitalen Sachen nicht zu,
+da ist ein guter Kompromiss daraus,
+dass Sie auch mit
+überschaubarem Aufwand
+die Fragen beantworten können.
+Genau, Sie dürfen die Übungsaufgaben
+nicht direkt abschreiben, das werden wir gleich noch
+erklären.
+Aber
+Sie dürfen auch nichts auf die gedruckte
+Formelsammlung draufschreiben,
+das hat auch einen
+Fairness-Charakter,
+dass Sie sich beschränken auf die gleichgezeigten eigenen Notizenseiten.
+So hat jeder die gleiche Formel, sondern das ist das Einzige, was Sie machen müssten,
+einmal während dem Semester, ich würde es Ihnen empfehlen, recht bald zu machen,
+finden Sie auch gute, dieses Ding auszudrucken.
+Da haben Sie viel davon.
+Es sind 16 Seiten, ich habe es als Vor- und Rückreite gedruckt.
+Und ich gehe davon aus, dass wir Sie nicht in der Versionierung nochmal updaten müssen,
+weil wir mittlerweile eigentlich, glaube ich, da hoffentlich keine Flüchtigkeitsfehler drin haben.
+Das ist alles händisch zusammengetragen, es gibt nummerierte Formeln,
+auf die beziehen wir uns dann während der Vorlesung.
+Handschriftnotizen, das kommt später sowieso nochmal, aber hier steht es jetzt mal der Folgen,
+Sie dürfen zwei Blätter A4 oder einmal Vor- und Rückseite, das ist mir egal,
+Sie können auch zwei Vorsorten für Thermodynamik aufschreiben, zwei Blätter für Wärmeübertragung und zwei Blätter für Strömungstechnik.
+Logischerweise dürfen Sie dort die Seiteneinteilung frei nutzen.
+Sie können mit Schriftgrad 1 darauf schreiben, wenn Sie es selber noch erkennen können.
+Sie dürfen auch zeitgemäß heutzutage an Ihrem digitalen Tablet das machen.
+Aber bitte mit Ihrer Handschrift.
+Und dann müssen Sie es einmal ausdrucken und mitforschen.
+Sie dürfen nicht die gleichen Notizen wie Ihre Nachbarin oder Ihr Nachbar dabei haben, wie ich das kontrolliere.
+Überlassen Sie mir mal den Raum, da kenne ich mich ganz gut aus.
+Also Sie dürfen sich natürlich in den gemeinsamen Lernraum setzen und sagen,
+jetzt machen wir Vorbereitung, Thermodynamik, schreiben wir doch mal unsere Formelsammlung.
+Und dann überlegen Sie sich, wenn Sie das Skript durchklickern, was schreiben Sie da drauf?
+und Sie haben mehr oder weniger die gleiche Information,
+aber Sie dürfen eben nicht zweimal das gleiche digitale Material mitnehmen.
+Das ist einfach auch nur fair, sodass jeder die gleichen Mittel hat,
+jeder, der besser oder weniger gut vernetzt ist,
+kommt mit den gleichen Stabbedingungen ran in die Klausur,
+hat selber die Zeit investiert und wer die Zeit investiert hat,
+das verspreche ich Ihnen, der kann mindestens einmal 20 von den 90 Punkten holen,
+weil Sie mehr oder weniger daraus abschreiben. Wenig, sogar doch mehr.
+Also das ist einmal ein Angebot, damit kommen Sie, können Sie eine gute Basis legen,
+wenn Sie sagen, die Klausur möchte ich nur einmal schreiben, das möchte ich jetzt schaffen, dann lernen Sie das.
+So, jetzt ein wichtiger Punkt, ich bin nicht hundertprozentig sicher,
+weil wir ganz kurz vor der heutigen Stunde leider die Präsentation einmal nachwürdig abgestürzt haben.
+Ich habe eine ältere Backup-Version genommen.
+Sie können mal gucken, ob Sie den Kurs finden.
+Ich würde es Ihnen empfehlen.
+Es ist hier in alter kopiert, aber er heißt halt Wärme- und Strömungstechnik.
+Er ist hoffentlich angelegt in der WI.
+Und er sollte ein Passwort mit seiner Selbsteinschreibung haben.
+Und das ist hier.
+Probieren Sie es mal.
+Ich bin gespannt, ob es funktioniert.
+Und ich sehe jetzt also ganz viele von Ihnen haben einen Laptop oder Tablet mit, sehr empfehlenswert.
+Manche von Ihnen haben jetzt nur ihr Handy mit.
+Ich empfehle Ihnen ein digitales größeres Endgerät, soweit Sie es haben.
+Sie können sich nicht selbst einschreiben.
+Okay, haben mehrere Leute das gleiche Problem, sind wir in dem richtigen Kurs, es funktioniert noch nicht.
+Ich gucke jetzt rein, vielleicht kriege ich es hin.
+Es ist ein bisschen unangenehm bei dem Kurs, kopieren aus dem Vorsemester, werden immer die Einschreibemethoden neu gesetzt.
+Danke für den Hinweis.
+Ich glaube, ich habe es falsch gemacht.
+Ist es das hier?
+Nein, nein. Ist es das hier?
+Ist es das hier?
+Ja, ich sehe das jetzt. Das ist also wirklich deaktiviert. Versuchen wir das jetzt nochmal.
+Funktioniert, ha?
+Ohne Schlüssel geht es sogar?
+Gut, also das Kennwort wurde gelöscht.
+Ich mache das aber jetzt wieder rein.
+Kann gut sein, dass Sie das beim nächsten Mal anmelden noch einmal benötigen.
+Aber vielleicht funktioniert es auch, dass Sie einfach drinbleiben.
+Also ich sehe jetzt 22 eingeschriebene Nutzerinnen.
+Das müsste in etwa hinhauen, ja?
+Ich habe jetzt gerade das Passwort eingesetzt.
+Aber jetzt kommt an mir wieder die Meldung, dass man sich nicht selbst einschalten kann.
+Die Methode ist da.
+Selbst einschalten, studieren, damit.
+Versuchen Sie es mal nochmal jetzt.
+Einfach irgendwie die Seite refreshen.
+Hoffentlich keine Cookies und sonst was.
+Jetzt sind Sie drin.
+also wenn es noch Schwierigkeiten gibt, bitte gerne
+in der Pause nochmal auf mich zukommen
+ja, wir waren jetzt eh nur noch so
+5 bis maximal 10 Minuten, dann machen wir Pause
+ja, also Sie sind da drinnen
+was sehen Sie in dem Kurs
+ich mach mal schnell meinen Browser auf
+der hat
+einige Tabs
+ich sehe ein bisschen anders als Sie
+ich kann aber auch irgendwie Rolle wechseln
+und mich als Student hinsetzen
+jetzt sehe ich etwa das, was Sie
+grob sehen
+Also es gibt Ankündigungen, da steht jetzt, glaube ich, noch nicht viel drin.
+Könnte sein, dass da noch Sachen aus dem letzten Semester drinstehen.
+Tut mir leid, ich habe erst ganz vor kurzem erfahren, von Kollegen habe ich,
+dass ich das Kursmanagement diesmal mache.
+Also wenn da etwas komisches drin ist, bitte melden.
+Sie haben ein Forum. Große Empfehlung.
+Schreiben Sie ins Forum rein. Ich habe das Forum abonniert.
+Abonnieren Sie es selber auch.
+Kann man so einstellen, ne, in Moodle.
+Sie kriegen mit, wenn irgendwelche Fragen im Raum sind.
+Es ist einfach sehr angenehm, wenn Sie das nutzen.
+Sie dürfen natürlich auch in der Stunde hierher kommen.
+Sie dürfen auch bei mir in die Sprechstunde kommen.
+Aber ich sage Ihnen gleich, ich werde Ihnen nichts, aber auch gar nichts Klausurrelevantes im Einzelformat sagen.
+Okay?
+There is going to be no information for anyone without the entire class listening to it.
+Okay?
+Das ist eine Grundsatztrage, das ist aber auch total unfair, wenn ich jemandem alleine was sage.
+Also, wenn Sie eine Frage haben, schreiben Sie sie am besten ins Forum,
+weil dann kann ich es für die nächste Stunde schon mitbringen, dann bin ich vorbereitet.
+If you have a question, don't be shy to post in the forum,
+and so I can bring along whatever is going to be the answer.
+It's probably the better choice.
+You can obviously also ask me here or come to my room, but then there won't be any person-specific information what is related to the exam.
+Also, Folien zur Auftaktveranstaltung, da ist das von heute drin.
+Da sehen Sie die gleich dann noch kommende TD1-Vorlesung.
+Fallen Sie nicht gleich in Ohnmacht, die hat glaube ich 60 Folien, wir werden die nicht komplett schaffen.
+und dann
+gibt es da einen Exkurs
+das ist das, was ich vorhin gesagt habe
+zu dem Thermomanagement
+wenn Sie sowas interessiert, können Sie da reinklicken
+und dann können Sie sich diesen Artikel hier
+einmal durchlesen
+ist aber wie gesagt
+nicht Stoff der Vorlesung
+sieht man ziemlich deutlich
+ok
+soweit von der Stelle
+jetzt noch kurz zu Ende
+genau, Forum ist also wie gesagt
+hilfreich
+Einordnung des Moduls
+zu dem, was Sie noch erwartet
+im Studienkontext
+ich bin nicht ganz sicher, ob das jetzt noch der aktuelle
+Studienablauf ist
+ich glaube, Sie hatten vor nicht so lange
+eine Reform, die das ein bisschen anders
+in den Details ist, aber im Grunde
+und Ganzen haben Sie hier diese Vorlesung
+und noch eine ganze Menge andere Sachen
+ist mir auch klar, es ist nicht der Anspruch
+dass Sie nur WSTR hören, Sie haben eine Menge Zeug auf dem Schreibtisch, ich auch.
+Und ich denke aber, dass Ihnen das Modul ein bisschen was helfen wird,
+wenn Sie hinterher dieses Maschinenelemente-Maschinenkonstruktionen-Modul belegen.
+Vielleicht auch das eine oder andere im Praxissemester, beziehungsweise Praxisseminar,
+dass durchaus einige Betriebe in der Region damit viel zu tun haben.
+Wir haben später einen Vorlesungsblock, der zur Energietechnik kommt.
+Da sind alle Kreisprozesse, das was Sie in der Thermodynamik lernen, immer wieder wesentlich.
+Eventuell betrifft es die Projektarbeit in der Wahlmodule und vielleicht auch in der Bachelorarbeit.
+Also Sie sehen, es ist nicht der Antwort, dass ich sage, es ist das einzige und zentralste Modul,
+aber es hat doch einen gewissen Bezug zu dem, was noch kommt.
+Das ist jetzt für die Fahrzeugtechnik, Leute, haben wir keine dabei.
+Hier stehen Bücher, ich habe aber vorhin ja schon selber als Diskretion, als Einschränkung,
+Sie müssen die Dinger nicht wälzen.
+Wenn Sie doch mal das Gefühl haben, der Herr Hesse erklärt die Dinge so komisch,
+oder der Herr Happig, dann in dem Falle Thermodynamik auf seiner Seite vor allem.
+Da gibt es, aber eigentlich zu allen drei Themengebieten übergeordnet, sehr gute Fachbücher.
+Es gibt heutzutage auch sehr viel Online-Videos, die viel erklären.
+Klar, YouTube und Co.
+Nutzen Sie die Möglichkeit, gucken Sie da mal rein, die kriegen Sie über die Online-Bibliothek
+Und das, was Sie da kriegen, ist auch besser als das, was Sie von Jack Tributti kriegen.
+Also es ist wirklich so, ich bin auch ein Fan von KI-Technik, man darf das alles nutzen, es ist alles gut.
+Und es kann auch manchmal sehr schnell einem helfen, aber wenn Sie wirklich so nochmal nachvollziehen müssen,
+wie geht denn jetzt diese Benulligleichung und warum,
+KI ist heutzutage noch nicht so stark, dass sie Ihnen die richtigen Bildmaterialien perfekt aus einem Kontext herausbringt.
+Sie kriegen dann irgendeinen Text und ein vielleicht dazu nicht unbedingt passendes Bild.
+Und das kann maximal verwirrend und unangenehm sein.
+Deswegen ist so ein Fahrbuch im Hintergrund, falls Sie was nachschlagen müssen, vielleicht doch ganz gut.
+Sie dürfen auch immer auf mich zukommen und sagen, Herr Hesse, zu dem Themengebiet brauche ich jetzt das richtige Fahrbuch,
+weil es gibt ja tausende.
+Da kann ich Ihnen vielleicht das eine oder andere mitgeben.
+eine der letzten
+wichtigen Folien
+für den Kontext hier
+wie funktioniert das Modul
+wir haben also immer 3 SWS Blöcke
+soweit ich informiert bin
+also einmal am Montagmorgen
+und einmal am Freitagmorgen
+und die
+3 SWS Blöcke
+haben wir uns entschieden
+immer für ein einzelnes Fach
+zu reservieren
+heutiger Termin Ausnahme
+Übersicht und dann ein bisschen
+Thermodynamik. Nächste Stunde
+am Freitag machen wir nur
+Strömungstechnik. Nächste Woche
+Montag machen wir nur Wärmeübertragung.
+Und dann sind Sie nämlich erstmal los, dann haben Sie nämlich den
+Herrn Happing wieder.
+Zum ersten Mal dann für Sie.
+Wir machen Pause.
+Ja, da steht nach 45 bis 90
+Minuten.
+Ich versuche es
+ja, etwa zwischen der Stunde
+und anderthalb Stunden, denke ich, sinnvollerweise zu machen.
+Wenn aber Sie leer sind und ich leer bin, dann kann man auch mehrfach kleinere Pausen machen.
+Ansonsten würde ich mal vorklagen, bin aber auch offen, dass wir die Startzeit so wie sie gestellt ist, lassen.
+Sie sind alle pünktlich gekommen.
+Ich habe das Gefühl, es gab also auf jeden Fall heute keine Probleme mit Anreise oder mit irgendwas an Veranstaltungen, was da vorliegt.
+Hoffentlich haben Sie nicht noch was noch früher.
+Nach hinten raus.
+Es steht 11.30 Uhr im Stundenplan.
+Ich habe meine 11.15 Uhr mit 15 Minuten Pause vorgeschlagen.
+Mir ist es aber beides recht.
+Wie sieht es denn bei Ihnen aus?
+Wer wäre denn glücklich und einverstanden damit, mit 15 Minuten Pause in der Mitte zu arbeiten?
+Dafür haben Sie dann nachher ein bisschen länger Pause.
+Hände hoch.
+Okay.
+Gegenfrage, wer möchte denn lieber die 30 Minuten?
+Die sind überstürzt.
+Wir machen das basisdemokratisch.
+Danke.
+Wir können das immer noch anpassen, wenn sich im Kontext der Vorlesung herausstellt,
+das ist jetzt irgendwie doch unangenehm, da ist immer genau die Cafeteria besetzt,
+wenn Sie hier rauskommen, oder Sie brauchen einfach mehr Zeit.
+Also dann versuchen wir das mal so, ich gebe das dem Kollegen, habe ich ja auch weiter,
+der wird das wahrscheinlich aber mit Ihnen auch nochmal abfragen.
+Sie können das natürlich auch da nochmal, ja.
+Grob ist auch die Idee, dass wir über das Semester hinaus, und das kann man faktisch nicht lesen,
+aber ich habe es entweder jetzt schon oder würde im Nachgang Ihnen das auch auf dem Moodle hinstellen,
+dieses Blatt
+dass wir da
+die Termine aufteilen
+das Grüne ist immer so allgemeine Sachen
+da gibt es Übungen
+in denen wir ganz bewusst
+mal über alle Fächer
+übergreifend uns
+ganz
+explizit mit
+Aufgabenrechnen befassen
+da gibt es gelbe Blöcke
+das ist hier Schwimmungstechnik
+und Sie sehen, das sind also etwa
+gleich viele wie es orangene Blöcke gibt, das ist die Wärmeübertragung und blaue Blöcke. Da
+gibt es ein bisschen mehr, weil die Thermodynamik die Grundlage bildet für die anderen Fächer,
+deswegen macht es Sinn da ein bisschen mehr Zeit reinzustecken. Da gibt es hier 12. Januar im
+Moment im Kalender stehend die vorgesehene Klausurübung, wo Sie also nach den Weihnachtsferien,
+Da darf jeder entweder hoffentlich die Weihnachtszeit genießen oder wenn Sie sagen, Sie haben so viel Zeit und Möglichkeit, sich auch noch ein bisschen inhaltlich vorbereiten.
+Sonst diejenigen, die Weihnachten sagen, nee, das ist meine Freizeit, die würde ich dazu anhalten, dass Sie sich vorher vielleicht schon ein bisschen damit befassen,
+sodass Sie zu dieser Klausurübung, wie Sie sehen, da haben Sie faktisch inhaltlich nur noch eine einzige Stunde,
+dass Sie da gut vorbereitet sind und alles schon mit Ihren zwei Notizenzetteln kommen und testen,
+so wie die echte Klausur ist. Ich empfehle Ihnen ganz dringend nicht, da reiten wir und sagen,
+schauen wir uns mal an, was da habe ich denn für Hesse zu testen, weil ich habe da eh jetzt noch
+keine Ahnung, das schaue ich mir dann an, wenn ich mir angeguckt habe, wie die Probeversorgung aussieht.
+ja das ist wirklich eine chance zu sehen
+wir haben leider einen expliziten terminkonflikt am 7 11 der funktionieren weder beim herrn habe
+ich noch bei mir. Frage an Sie. Sie sind ja zumindest alle aus dem gleichen Studiengang.
+Haben Sie Möglichkeiten an Dienstagen in Ihrem Stundenplan, standardmäßig, oder am
+Mittwoch oder an diesem Freitag nachmittags? Sehr unangenehm, ich weiß, aber ich kann
+nichts dran ändern.
+Der Kollege Habich und ich haben beide
+eine Veranstaltung mit
+unseren Projektthemen.
+Wie sieht es aus?
+Ist Dienstag generell
+eine gute Option? Meine Hand heben.
+Keine so eine gute Option.
+Ist Mittwoch eine gute Option?
+Ist Freitagnachmittag
+eine gute Option?
+Ist alles
+keine gute Option.
+Ich würde folgendes vorschlagen. Ich mache eine Abfrage in Moodle.
+Ich habe es ganz bewusst nicht hingeschrieben. Ich selbst bin ziemlich flexibel. Ich würde es so ermöglichen, wie es für Sie dann halt passt. Ich habe jetzt Ihren Stundenplan nicht auswendig.
+Ich glaube, wir haben heute auch von 8 bis um halb 4.
+Das ist natürlich schon hart, ne?
+Aber wir haben am Freitag auch bis halb 4.
+Und was ist mit den Dienstagen? Da müssten Sie extra reinkommen.
+Wir könnten die Veranstaltung online machen.
+Dienstag online?
+Ja?
+Hat jemand einen Arbeitgeber, bei dem man am Dienstagvormittag gar nicht kann?
+Sie können wirklich gar nicht? Dienstagvormittag mit Videoaufzeichnung und danach zum Nachgucken?
+Ist das okay? Können Sie damit leben? Ich muss irgendwo einen Kompromiss finden. Ich
+finde es unfair, wenn ich die Stunde nicht stattfinden lasse. Ich kann Ihnen natürlich
+auch einfach nur ein Video reinschmeißen. Aber ist es für Sie okay? Sie haben genügt,
+Sie sagen auch, Sie können damit irgendwie leben?
+das ist wie gesagt für mich flexibel hätten sie eine zeit bei denen sie passt
+sie können gar nicht
+dienstag ab 10 uhr da habe ich da jetzt mal 10 uhr drauf und
+Ich würde es auf jeden Fall online mit Videoaufzeichnungen machen.
+Okay?
+Vielen Dank für Ihre Bereitschaft.
+Dann Pause.
+Wäre jetzt wichtig.
+Wir haben jetzt 10 Minuten.

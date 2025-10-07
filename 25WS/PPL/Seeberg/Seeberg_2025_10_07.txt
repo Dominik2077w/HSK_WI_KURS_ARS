@@ -1,0 +1,2218 @@
+Ich würde erklären, vor allem, wie gesagt, auch gut abgefahren zu sein.
+Dann auch ein tolles Buch, gibt es auch online.
+Ich weiß nicht, ob es inzwischen eine Büchelauflage gibt.
+Das ist der Wunder of Gans, Diagrammische Erfolgskonzepte.
+Das ist auch ein tolles Buch, geht es vor allem um Kanban-Systeme,
+um Just-in-Time-Systeme und so weiter.
+Auch ganz toll.
+Also wie gesagt, Sie können sich alles kostenlos downloaden.
+Deswegen vielleicht auch Ihren Rechner ziehen,
+weil wenn Sie dann keine Lizenz mehr hier haben an der Hochschule,
+weil Sie nicht mehr Student sind, dann müssen Sie es kaufen.
+Und die Bücher sind in der Regel teuer.
+Also richtig gute Fachbücher kosten 50 Euro aufwärts.
+Dann haben wir auch ein ganz tolles Buch,
+was fast schon eine Enzyklopädie ist.
+Das ist der Günther und Tempelmeier
+Produktion und Logistik.
+Das ist, glaube ich, ein tausendseitiges
+Kompendium über Produktion und Logistik.
+Also ist auch massiv,
+hat bis zu fünf Unterkapitel.
+Also Sie wissen, 2.1.1.1.1 oder sowas, also das geht schon ganz schön tief rein.
+Das ist auch ein ganz tolles Buch.
+Dann ganz allgemein, wenn Sie sagen, Ihnen fehlen noch ein paar Grundlagen aus der BWL,
+dann kann ich Ihnen Lina empfehlen, der macht Betriebsorganisation für Ingenieure.
+Das ist auch ein ganz tolles Buch, ein Grundlagenbuch, den braucht man immer,
+so eine Bibel für jeden, der in Produktionsorganisationen unterwegs ist.
+Und dann, das ist ein ehemaliger Kollege von mir, der Tim Hinkley,
+der hat ein Umgeschick ganz seine Produktionssysteme, das baut so ein bisschen auf dem Plaket der Hitoshi ab,
+ist auch kostenlos verfügbar, schreibt immer Produktionssysteme mit.
+Das sind einfach mal so ein paar Buchempfehlungen, falls Sie was suchen
+und falls Sie nicht selber von der ganzen Literaturliste erschlagen wollen.
+Meistens ist das Problem, ich suche ein Buch über 20.000 Vorschläge.
+Oder kennen Sie, haben Sie vielleicht schon mal in irgendeinem Projekt dabei,
+nein, Sie haben noch kein Projekt dabei gehabt, aber da wird genau das Problem dann kommen.
+Sie suchen ein Buch und Sie wissen nicht, ist das gut.
+Und das sind einfach mal die guten Gefährdungen.
+Gut, und dann natürlich gibt es auch unterschiedliche Zeitschriften, die man lesen kann.
+Wirtschaftswoche, Arbeit, Business Manager oder Wirtschaftswissenschaft, Studium.
+Spielt aber für die Produktionsplanung gar keine so große Rolle.
+Weil Produktionsplanung ist jetzt nicht etwas, was extrem dynamisch ist.
+Da kommt nicht jede Woche ein neues Konzept hoch.
+Da ist nicht jede, alle zwei Wochen eine politische Entscheidung, die alles durcheinanderwirbelt.
+Sondern Produktionsplanung ist eher mittel- bis langfristig.
+Ich meine, ich mache nicht heute ein Werk auf und mache es morgen wieder zu.
+Sondern das sind langfristige, strategische Entscheidungen.
+Und ich habe halt auch meine Layoutvorstellungen.
+Sie stellt doch auch nicht jeden Tag ihr Zimmer um, oder?
+Ach, das Bett gefällt mir gar nicht mehr, dann stelle ich es dahin.
+Morgen dann dahin.
+Ja, und so ähnlich ist es ja im Industriebetrieb auch.
+Also, das heißt, ich entscheide mich langfristig für was ist sinnvoll.
+Und deswegen ist es eher ein ruhigeres Thema und dann kann man auch sich Bücher kaufen, die ein bisschen länger gültig sind.
+So, haben Sie Fragen soweit? Nein? Dann fangen wir mit einem kleinen Einführungskapitel an.
+Sie wissen ja, jeder Professor muss ja erstmal rechtfertigen, warum sein Modul das Wichtigste ist.
+und warum sie ihr Leben auf dieses Modul ausrichten sollen
+und warum sie in Zukunft Produktionsplaner werden sollen.
+Das ist jetzt das Modul, das kommt.
+Also warum ist mein Modul wichtig?
+Mein Modul hat ein ziemliches Schattendasein,
+weil die reinen Maschinenbauer, die lernen gar keine Produktionsplanung.
+Und ein klassischer BWLer lernt auch keine Produktionsplanung.
+Und dann stolpert man in eine Firma rein und stellt fest,
+Da wird keine strategische Produktionsplanung gemacht.
+Das wird halt irgendwie gemacht.
+Genauso wie Sie anfangen, einfach mal irgendwie Ihr Wohnzimmer einzurichten.
+Und dann merken Sie plötzlich, learning by doing,
+naja, das Bett neben der Tür ist ein bisschen doof.
+Das will ich woanders haben.
+Und dann vielleicht, der Schrank an der Stelle ist auch doof,
+weil das Fenster dann nicht mehr ganz aufgeht.
+Und dann stellen Sie fest, ja, der Schreibtisch an der Stelle ist auch doof,
+weil dann ist es nicht so blöd,
+ob mein Schlepptisch fällt und ich sehe auf meinem Laptop nichts mehr.
+Das sind dann alles so
+Learnings by doings. Und so hat man lange
+Produktionsplanung gemacht, bis man festgestellt hat,
+nee, das muss man auch ein bisschen systematisieren.
+Und dann ist so langsam Produktionsplanung
+aufgekommen, aber keine
+große Richtung, weder die Maschinenbauer
+haben gesagt, das ist unseres, noch die Wirtschaftsingenieurin
+oder die Wirtschaftler haben gesagt, oh, da können wir uns drum.
+Und dann kam plötzlich
+die große Stunde der Wirtschaftsingenieurin.
+Und die Wirtschaftsingenieurin gibt es erst seit 1970.
+Und in den 1970er Jahren hat man dann sogenannte Integrationsfächer gefunden.
+Und ein klassisches Integrationsfach ist neben Qualitätsmanagement ein Produktionsplan.
+Weil da müssen Sie sowohl die wirtschaftlichen Themen bearbeiten, als auch die technischen.
+Und deswegen sitzen ganz viele Produktionsplaner, oder es sind ganz viele Produktionsplaner, Wirtschaftsingenieure,
+oder viele Wirtschaftsingenieure über die Produktionsplanung.
+Das mag ich auch in den Abschlussarbeiten.
+Wie viele Wirtschaftsingenieure klassische Produktionsplanungsthemen bearbeiten?
+Ist ja auch schön.
+Also da kommt es dann auch her und es ist also ein Kernthema von Wirtschaftsingenieuren.
+Weil wir müssen nämlich ausrechnen, ob sich was lohnt.
+Ob es sich eine Investition lohnt.
+Ist es wichtig zu automatisieren oder macht man eine Handarbeit als Arbeitsarzt aus?
+Es geht um Zeit und Sie wissen, Zeit ist Geld. Wie lange darf ein Vorgang dauern, können wir uns ein bisschen einsparen und solche Themen.
+Und das ist genau Produktionswahrheit. Und jetzt schauen wir uns mal ein bisschen die Historie an dazu.
+Ich habe jetzt diese Folie nicht reingepiert, die jetzt kommen, aber ich möchte Ihnen diese Herren, die eigentlich so ein bisschen die Vorreiter der Produktion und Produktionsplanung waren, nicht vorteilen.
+Diese Harte kennen die meisten oder vielleicht einige wenige nur noch deshalb, weil es eine Band gibt, die so heißt wie der.
+Haben Sie schon mal von Chet Rotale gehört? So eine Rockband aus den 70ern.
+Locomotive Dread haben die gemacht. Das ist so ein ganz klassisches Lied.
+Also, dieser Klang heißt Chet Rotale. Heute, wie gesagt, nur noch bekannt über die Band.
+Und der hat etwas erfunden, was eigentlich der erste große Schritt Richtung Massenproduktion war.
+Und zwar eine Sämaschine. Der hat die erste kommerziell nutzbare Sämaschine erfunden.
+Gehen wir nochmal zurück. Wie hat man früher gesät?
+Vielleicht kennen Sie, waren Sie ja schon mal im Museum und haben so alte Bügel gesehen.
+Der Sämann. Da wird einfach aus dem Sack das Saatgut genommen und aufs Feld geschmissen.
+Oder? Der Sämann. Aufs Feld geschmissen, oder?
+Haben Sie sowas im realen Leben schon mal gemacht?
+Vielleicht haben Sie schon mal einen Rasen gesät usw.
+Was passiert dann?
+Was ist der Nachteil dieser Methode?
+Ja, dass die Sackkörner nicht umgekehrt verteilt sind.
+Das ist das große Problem.
+Es liegen Sackkörner aufeinander, was eine große Verschwendung ist.
+Und auf der anderen Seite hat man ganz große Löcher drin,
+weil man ja dann vielleicht, oh, dann gefühlt auch schmutz.
+Was ist das zweite Problem?
+Man kann es aber nicht wirklich dosieren.
+Die Dosierung ist das Problem.
+Weiteres Problem.
+Wenn das jetzt geteilt ist und man das aushärten würde,
+dann könnte man das nicht maschinell ernten,
+weil es dann keine Niveau geben würde.
+Genau, aber wenn Sie schon mal nicht maschinell säen können,
+ist maschinell ernten eher ein zweites Problem.
+Ja, okay, aber stimmt auch.
+Was noch?
+Wenn Saatgut auf der Adde liegt, was passiert dann?
+Das ist nicht so schön.
+Dann haben Sie schon mal einen guten Verlust, weil einfach die Vögel kommen und sagen, hey, free fast food.
+Warum nicht?
+Und was noch?
+Im Zweifel trocknet es aus.
+Oder?
+Trocknet es aus und es kommt nichts.
+Es wird vielleicht bei einem großen Regenschauer einfach weggeschwemmt und es kommt auch nichts.
+Und das waren die großen Probleme.
+Die frühere Erfolgsrate bei dieser Saab-Methode war unter 10%.
+Also sie mussten 100 Körner rausschmeißen, um 10 eher landen zu können.
+Das ist natürlich jetzt für uns Qualitätsmanager eine Kapastrophe, oder?
+Oder ist doch eine schlechte Ausbeute.
+Also das heißt, da war ganz viel Verbesserungspotenzial.
+Und der Mann hatte die simple Idee zu sagen, ich mache nichts anderes als eine Welle, da mache ich ein paar Spikes dran,
+Dahinter mache ich ein paar Trichter, wo Körner definiert rausfallen und hinterher eine Rolle, wie das alles wieder zu macht.
+Erste Saatmaschine.
+Und damit sind wir schon mal geordnet sehen, Saatgutersparnis und dann auch noch eine viel größere Chance, dass hinterher was draus wächst.
+Und das ist die erste industrielle Revolution gewesen.
+Technikeinsatz, um etwas zu
+optimieren. Und zwar
+im großen Stil.
+Also der hat,
+das war eine der wenigen Sachen,
+die er gemacht hat,
+aber der hat die Seemaschine.
+Gut, man muss
+sich das so vorstellen, diese Hallen,
+die ich Ihnen vorstelle, das waren die Influencer
+von damals. Die hatten alle
+reiche Eltern, also Geld war kein Problem.
+Denen war langweilig, was sollte
+man machen? Und in der Zeit ist man nicht
+Influencer geworden, sondern als Erfinder
+geworden.
+Also Leute, die langweilig waren, die sind halt einfach
+Erfinder geworden.
+Und das hier ist
+Thomas Satterley. Vielleicht haben Sie von dem schon mal
+etwas gehört.
+Das finde ich so unfair.
+Wissen Sie warum?
+Thomas Satterley ist eigentlich der,
+der die Dampfmaschine erfunden hat.
+Und nicht,
+wie immer alle sagen, James Watt.
+James Watt hat die
+effiziente Dampfmaschine erfunden.
+Aber der ist der,
+der die erste Dampfmaschine erfunden hat.
+Und was ist das für Rüchte
+an der Dampfmaschine?
+Warum war eine Dampfmaschine so wichtig?
+Warum ist eine Dampfmaschine
+so revolutionär gewesen?
+Weil der erste Anflug damals
+in eine rotierende Bewegung
+in irgendeine Produktion zu kommen,
+ohne dass man Menschen oder Tiere
+einsetzen musste.
+Sehr gut.
+Es war das erste Mal,
+dass sie Kraft unabhängig von Menschen,
+Tieren oder Wasser hatten. Also sonst mussten sie entweder am Fluss sein, klassisch die Hühner,
+oder sie mussten irgendwelche Tiere, also Pferde, Esel oder Sklaven haben, um etwas anzutreiben.
+Und die Dampfmaschine hat es geschafft, Kraft darin zu bringen, das erste Mal unabhängig vom
+Faktor Mensch oder Wasser. Und da ging es dann plötzlich los. Damit konnten sie plötzlich in
+in Minenarbeit und kein Wasser verfügbar war.
+Da hatten sie immer irgendwelche Esel oder Ponys, die ihren Minen was zahlen mussten,
+oder eben ihre Sklaven.
+Aber die haben sie dann durch diese Dampfmaschine plötzlich einsparen können.
+Und das war eigentlich der Startschuss, weil das ist Thomas Zell.
+Und wie gesagt, wen Sie kennen, das ist dieser James Watt,
+der hat die erste effiziente Dampfmaschine gemacht.
+Also der hat das ganze Konzept dann noch verbessert
+und der hat halt dann auch gesagt, ja, wir können damit Eisenbahn ansteuern.
+Und das war der nächste massive Schritt Richtung industrielle Revolution.
+Weil plötzlich konnten wir Ressourcen von A nach B im großen Spiel bringen.
+Ich meine, wie viele Kilometer können Sie mit einem Fahrradkurver überbrücken?
+Sinnvoll, wenn Sie verdammliche Ware hinten drauf haben.
+Lassen Sie es mal zehn Kilometer sein, oder? Eher weniger. Aber damals hatte jede Stadt einen Markt oder das Dorf einen Markt und da sind die Leute dann halt zum Dorf gekommen.
+Aber sie hatten keine große Chance, große Kilometerzahlen zu überbrücken. Damals war es schon verrückt, wenn sie aus einem 50-Kilometer-Radius rauskamen, wo sie geboren waren.
+Wie oft haben Sie den 50-Kilometer-Rad bis Ihres Geburtsortes schon bekommen?
+Wenn nicht, das ist verrückt. Damals war dann plötzlich Reisen möglich. Man konnte Ressourcen
+von den Bergen ans Meer bringen. Von den Bergen in die Stadt. Und damit haben wir den ersten
+Schritt zur Konglomeration, zur Zusammenfassung, dass etwas passieren kann. Weil sie brauchen ja
+Eisen vom Berg A, oder Erz vom Berg A, Kohle vom Berg B, um Stahlerzeuge machen zu können. Und wo
+brauche ich das Stahlerzeug? Ja, da wo Industrie und Arbeit ist. Also muss es dann in die Stadt,
+weil dort war damals Arbeit. Und das sind dann Themen, die in der industriellen Revolution
+und alles geschafft. Und dann gab es noch eine ganz verrückte Idee, aber die ist heutzutage
+so selbstverständlich, dass man es komplett ausblendet. Damals hieß es der sogenannte
+Austauschbau. Heute nennen wir es ganz doof Normierung. Die Idee, dass wir Dinge so herstellen
+können, dass wenn Sie was auf Platz A oder in Fabrik A produzieren und was anderes in
+Fabrik B, dass sie es in Fabrik C zusammenführen. Dafür muss ein grundlegendes Verständnis
+da sein, dass Dinge austauschbar sind. Wir Deutschen haben es dann auf die Spitze getrieben,
+wir haben die Deutsche enorm erfunden und wir haben sie erfolgreich überall hin exportiert.
+Aber das ist die Idee, dass wenn Sie sagen, ich mache Schaufeln und die einen, die machen
+die unteren Enden von den Schaufeln und die anderen machen die Stiele, dass ich mich abstimmen
+dass die Stiele in die Löcher von den Schaukeln gelassen werden müssen.
+Und dann haben sie Austausch gebraucht.
+Und auch das ist 1750 das erste Mal aufgekommen.
+Und da sind wir bei einem großen Treiber der industriellen Revolution, das ist der Krieg.
+Krieg hat immer dafür gesorgt, dass wir industriell besser werden, weil wir Masse brauchen.
+Also wir brauchen eine Masse an Musketen, wir brauchen eine Masse an Munition,
+wir brauchen eine Masse an Ausrüstung und Kanonen.
+Und da hat man dann tatsächlich massenfertigen Krieg.
+Also das ist etwas, was in der industriellen Revolution passiert ist.
+Sie können einfach mal gucken, was in der industriellen Revolution alles für Kriege geführt wurden.
+Und dann sehen Sie, was da immer wieder für technologische Sprünge darin waren.
+Das nächste, was ich Ihnen vorstellen möchte, ist John Kay.
+Einfach mal so als kleiner Erfinder in einer Nische.
+Und zwar John Kay hat einen Webstuhl erfunden.
+Das war auch so etwas, wo man denkt, wow, Webstuhl, endlich billige Kleidung.
+Nein, der Kerle kann einem leid tun.
+Weil früher wurde gewebt in, oder früher war eben so ein typischer Frauenjob zu Hause.
+Also man hat die Schafe geschoren, man hat aus der Wolle dann gesponnen, die Wolle gesponnen und dann hat man gewebt.
+Oder man hat Flax gemacht und dieser Flax wurde dann eben in Fäden übergeführt und dann hat man eben gewebt.
+Das war die Idee, wie Stoffe herkamen. Und das war ein gutes Einkommen für arme Leute, diese Weberei und diese Spinnerei.
+Und der hat einen Webstuhl gemacht, der war, also Effizienzkraft, der hat einen, der Webstuhl hat einen Weber ersetzen können.
+Also, Entschuldigung, er hat zehn Weber ersetzen können. Für einen Webstuhl haben sie zehn Weber nicht mehr gebraucht.
+Die waren dann arbeitslos. Die haben dann den von England fortgejagt, der SVA, und die Frankreich gestorben.
+Sie hatten eine gute Idee gehabt, und dann kam natürlich das automatische Spinnen auch nach.
+Dann hatten nämlich, wie gesagt, die Spinner waren dann auch ihren Jobs verloren,
+und dadurch die Spinnen gingen dann auch automatisch.
+Sie alle kennen noch Dornröschen, oder? Mit dem Spinnrad, wo man sich dann sticht.
+Das ist so was ganz Altes. Ja, das ist dann auch automatisiert worden.
+Und damit haben sie plötzlich innerhalb von 10 Jahren sind Stoffe um 90% billiger geworden.
+Weil es einfach 90% weniger Handarbeitereien gab.
+Und plötzlich wurde Mode machbar.
+Plötzlich war Mode etwas, was passiert ist.
+Und nicht nur am Königshof, sondern auch über Wörth.
+Die nächste, die ich Ihnen vorstellen möchte, ist der hier, Eli Wisney.
+Das war der, der diesen Austauschbaum nach vorne gebracht hat und der eben vor allem im Rahmen der Baumwollbezeugung,
+aber auch in der Waffenproduktion Standardisierung vorangetrieben hat.
+Der hat auch die ersten Varianten einer Fließfertigung festgestellt.
+Er hat gesagt, ich lasse hier nicht jemandem alles machen, sondern ich sage jetzt einfach, der Erste macht die Hülsen, der Zweite die Hülsen und der Dritte presst sie zu.
+So wie der Weitling.
+Und dann kommen wir so langsam hier in die Modernität.
+Das hier ist, der hat einen ganz tollen Namen, finde ich, Frederick Winslow Taylor.
+Taylor hat dann irgendwann mal gesagt, es muss nicht alles Handwerk sein.
+Sondern wir können reine manuelle Arbeit von der Denkarbeit trennen.
+Also wir brauchen jemanden, der Arbeit strukturiert,
+der andere Leute instruiert, wie sie gemacht wird,
+und der das dann beaufsichtigt.
+Der hat also den Manager erfunden.
+Also der ist der Kundenhügel für Manager gehälter, sozusagen.
+Also der hat gesagt, Arbeit kann strukturiert werden,
+werden in Blue-Color-Worker und White-Color-Worker. Also wir haben die, die sich die Hände dreckig
+machen und die Hände, die die Arbeit organisieren, die also sauber sind, diese weißen Kreaturen,
+White-Color-Worker. Das war der Vater von denen. Der hat auch noch ein paar andere Sachen
+gemacht, der hat auch Werkzeug standardisiert. Der hat zum Beispiel Studien durchgeführt
+und hat gesagt, früher war es so, wenn Sie Arbeit wollten, mussten Sie mit Ihrem eigenen
+Werkzeug arbeiten. Das war ja fast schon unvorstellbar, oder? Also wenn Sie in der Mine arbeiten
+wollten, mussten ihre eigene Schaufel mitbringen und sagen, ich bin bereit zu arbeiten. Und
+der hat dann festgestellt, von der Schaufel hängt es unglaublich stark ab, ob jemand
+gut oder schlecht arbeitet. Und der hat dann Studien gemacht und hat dann gesagt, es gibt
+Schaufeln, die haben zwar groß, da passt viel drauf, aber die sind schwer. Da kann
+er nicht so lang arbeiten. Und dann gibt es Schaufeln, die sind klein, die sind leicht,
+da kann man schneller arbeiten, aber das ist nicht so effizient. Und der hat dann gesagt,
+es gibt eine optimale Schaufelgröße. Und das ist heutzutage sogar noch was, was Sie
+Bauern kaufen können. Also diese Schaufelgrößen gehen auf seine Studienzuteile zurück. Das hat der damals auch gemacht.
+Und dann kommen wir jetzt in die richtige Moderne. Das hier ist Ransom Ellis Old. Der hat das Oldsmobile gebaut.
+Vielleicht haben Sie schon mal alte amerikanische Autos, schon mal Oldsmobile gesehen?
+Ich kann Ihnen ganz kurz eines zeigen.
+Das ist ein Oldsmobile.
+Man hat also solche Autos hier hergestellt.
+Oldsmobiles waren so ganz klassische Kisten in Amerika.
+Der war eigentlich der erste, der dann, hm? Haben sie zu Hause stehen, oder?
+Ja, zwei.
+Drei, finde ich cool. Ist es zufällig ein Mercedes 300 SL, den wir da drin haben?
+Ja, können Sie auch nehmen.
+Hm, sehr schön, finde ich nett von Ihnen.
+Ich war am Wochenende im Mercedes-Benz-Museum und da stehen auch ein paar schöne Autos.
+Und da googelt man so ein bisschen, was die alten Autos kosten.
+Und da sieht man plötzlich, ja, 1, 1,5 Billionen, 2 Billionen.
+Also da stehen schon ganz schöne Werte im Rolli.
+Naja, nun, es ist ein Automobil und der hat als allererstes tatsächlich angefangen, Konzepte der Fließwahl nicht umzusetzen.
+Der hat gesagt, er lässt Leute, die Trupps, da hinlaufen und er hat dann einen Spezialtrupp, der die Karosse montiert.
+Er hat einen Spezialtrupp, der die Räder montiert. Er hat einen Spezialtrupp, der das Interieur montiert.
+Und dann kam der nächste, und den kennen Sie vielleicht, der wird schon immer mal wieder ganz zitiert, das ist Henry Ford.
+der hat dann tatsächlich das erste Mal die Karossen auf Rollen gestellt und hat gesagt, wir machen die Fußfertigung.
+Das ist Henry Ford, der hatte auch eine ganz tolle Beziehung mit dem Hitler,
+deswegen wird er inzwischen nicht mehr so ganz zitiert, hat auch ein paar Schriften gemacht,
+wenn man die liest, dann merkt man schon, dass sie ein bisschen eigener andenken.
+Naja, aber der gilt allgemein als Vater der Fußfertigung.
+Er hatte die Konzepte angewendet und hat als erstes mal einen richtig großen Maßstab für Zinnwissen gemacht.
+Dessen Vision war, jeder Amerikaner soll sich ein Auto kaufen können.
+Und darauf hat er Arbeit ausgelegt. Er hat unter anderem auch gesagt, sie können jede Farbe haben, solange es schwarz ist.
+Also er hat auch ganz klar gewusst, wenn sie standardisieren wollen, dann muss es gleich sein.
+Und damit haben wir heutzutage ein Problem, weil die Industrie schlägt nach Individualität.
+Die Konzepte, die wir haben, funktionieren aber am besten, wenn alles gleich ist.
+Und das ist ein Konflikt, mit dem unsere Industrie gerade kämpft.
+Es gibt Lösungsansätze, ich werde Ihnen ein paar zeigen, aber das ist ein ganz großes Thema,
+mit dem wir uns immer wieder auseinandersetzen müssen, dass Standard und Individualität miteinander kämpfen
+und wir uns entscheiden müssen, was ist wichtiger.
+Und deswegen wird es immer billiger sein, ein standardweißes Auto zu kaufen,
+von dem es 200 gibt, als zu sagen,
+boah, ich will jetzt aber hier meinen wunderbaren Standard Corporate Identity Road haben.
+Das wird halt immer ein bisschen 1.000, 2.000 Euro extra kosten.
+Aber damit werden wir uns noch beschäftigen.
+Gut, das sind die großen industriellen Revolutionen.
+Mehr mache ich da jetzt nicht.
+Also es gibt da ganz, ganz tolle Bücher, wenn sich sowas interessiert.
+Ich könnte da Stunden lang reden.
+Ich finde es unglaublich spannend, wie wir letztendlich dazu gekommen sind,
+dass jeder von uns sich einen Stuhl leisten kann.
+Die 27. Jeans sagt mir, die 98. Jeans und letztendlich 3-Paar oder 8-Paar oder 10-Paar Seekers.
+Das ist halt Teil der industriellen Revolution, Teil der Massentattoo.
+Würden wir das alles individualisiert kaufen müssen, hätten wir alle viel weniger.
+Und das ist etwas, wo wir seit gut 300 Jahren, also seit der industriellen Revolution, auch dran arbeiten.
+Arbeitsteilung, Standardisierung und Prozesssicherheit.
+So, dann legen wir ein bisschen, was hat die Industrialisierung uns gebracht?
+Das ist speziell Zahlen für Deutschland.
+Es gibt eine ganz tolle Quelle und die darf ich Ihnen nahe legen,
+weil es sind mal die Abschlussarbeitsteile oder Lagenbrauen.
+Ich weiß, Wikipedia ist eine ganz tolle Datenbank.
+Wer von Ihnen hat schon mal in Wikipedia was geschrieben?
+Sehen Sie, das erste Problem, ganz wenige Leute schreiben in Wikipedia.
+Und da müssen Sie hoffen, dass es schlaue Leute sind.
+Wer von Ihnen hat schon mal Blödsinn in Wikipedia reingeschrieben?
+Haben Sie doch schon mal was geschrieben.
+Und wer hat geguckt, wie lange der Blödsinn da drin war?
+Sehen Sie, und deswegen, Wikipedia ist keine Seite,
+wo man sagen kann, das kann eine vertrauenswürdige Quelle sein.
+Wenn man möchte, kann man dahinten in die Medienlösung einsteigen.
+Und dann ist man auch abhängig von ein paar Editoren, die man auch nicht kennt,
+dass sie das durchhinken.
+Und deswegen muss man sich auf Seiten oder auf Quellen beziehen, die vertrauenswürdig sind.
+Wenn es um Wirtschaftsdaten geht, gibt es im Prinzip das Deutsche Statistische Bundesamt in Deutschland.
+Das ist das Statistische Bundesamt.
+Und das ist die Datenkrake Deutschlands.
+Die sammeln alle möglichen Daten von Deutschland über Deutschland ein,
+werten die aus und machen die zum Teil auch in hübsche Grafiken ein.
+Und falls Sie tatsächlich mal Daten brauchen, zum Beispiel, wie viele Leute in Deutschland leben,
+dann ist das die einzige valide Quelle, denn alle schreiben aus der Quelle ab.
+Auch Wikipedia schreibt ja.
+Also seien Sie nicht der
+stille Post mäßig, abschreiben, abschreiben,
+abschreiben, Schlechtschreibfehler
+kopiert und weiter abschreiben, sondern gehen Sie
+zum originalen Feld. Und das ist hier
+das Statistische Bundesamt. Sie werden auch
+feststellen, hier ist werbefrei. Das ist was ganz Tolles.
+Eine werbefreie Seite.
+Und wie gesagt,
+da können Sie alles Mögliche
+nachschlagen. Zum Beispiel gibt es
+dann auch so Themenfelder, wie
+das Thema
+Wirtschaft, Gesellschaft,
+der Erzeugung soziales und wirtschaftliches.
+Wenn ich hier bezeichne,
+wenn ich einhandele,
+dann war schon Unternehmen
+und für uns ist immer
+investieren und bearbeiten das Unternehmen wichtig.
+Und da sieht man, dass zum Beispiel
+im bearbeiteten Unternehmen, das ist in Deutschland
+206.129 Unternehmen.
+Da gibt es dann so ein paar
+und in der meisten Sphären, was das Unternehmen
+zählt. Dazu zählen zum Beispiel
+nicht diese Kleinstgewerbe, die jeder
+anmelden kann und dann halt auch
+Das sind wirkliche Unternehmen, die mehr als 10 Mitarbeiter haben über einen gewissen Millionenbetrag an Umsatz generiert und auch einen gewissen Betrag angelegt.
+In diesem verarbeitenden Gewerbe arbeiten 8 Millionen Beschäftigte.
+Das ist ja nur das verarbeitende Gewerbe. Da ist zum Beispiel das Dienstleistungsgewerbe gar nicht dabei.
+Und dann steht auch noch der Umsatz dieses Gewerbes dabei, wie viel das ist.
+Also das können Sie alles hier rauslesen.
+Sie können sich hier die Konjunkturdaten holen und so weiter und so fort.
+So, jetzt schauen wir uns noch ein paar einzelne Daten an.
+Zum Beispiel Anzahl der Unternehmen nach Unternehmensgröße.
+Und da zählen jetzt auch diese Kleinstunternehmen bei, unter 9.
+Und das sieht man also hier, die mittleren Dinge und so weiter. Und das ist jetzt nicht nur das verarbeitende Gewerbe, sondern es hat Dienstleistungsgewerbe dabei. Das heißt, wir haben insgesamt, kleine und mittelständische Unternehmen, KAU, 3,13 Millionen.
+Großunternehmen gibt es in Deutschland über 20.000. Großunternehmen ist alles über 250 Mitarbeitende.
+Also BMW, Bosch, Linde, Daimler, Allianz, Deutsche Bank, Post und so weiter alles mit rein.
+Gut, das sind mal hier die Themen. Und natürlich am größten sind die Kleinstunternehmen.
+Das können Sie ja auch anwenden. Sie können auch Ihr eigenes Data, Ihr eigenes Unternehmen anwenden.
+Was muss man sonst noch wissen?
+Wie sind die aufgeteilt?
+Die meisten Unternehmen sind im Handel
+angesiedelt. Also Handelsunternehmen
+ist der größte Teil, den wir
+in Deutschland haben, gefolgt von
+Freigewöhnlichen. Freigewöhnlichen
+kann alles sein, zum Beispiel
+die größten Architekten,
+das kann auch gerade einer der Nachwuchs
+und so weiter, da gibt es
+einen, der freigewöhnlich
+tätig sein darf und der kann sich da
+anmelden. Dann haben wir
+Ausbaugewerbe, da gibt es auch sehr viele. Und dann Gesundheit und Soziales, sonstige wirtschaftliche Einheiten, Gasgewerbe.
+Und dann, das sieht man, das verarbeitende Gewerbe mit diesen 212.000 Einheiten.
+Spannung muss auf plus minus 10.000 bis 20.000 pro Jahr.
+Von den Wörtern gegründet, von den Kleidern und so weiter.
+Gut, und man sieht Parkbau und Erzgewinnung, das ist ganz hinten, da haben wir nur noch 1.990 Unternehmen.
+Lange Zeit war das weiter vorne, aber es war ja auch eine strategische Entscheidung in den 80er Jahren,
+dass man gesagt hat, man geht aus dem Kohlebergbau und aus der Erzförderung in Deutschland raus,
+weil das nicht mehr lukrativ war und deswegen ist das systematisch abgebaut.
+Und zu guter Letzt, wer arbeitet wo? Also sozialversicherungspflichtig beschäftigt.
+Das heißt, keine Minijobber, keine Wachstudenten und so weiter, sondern mehr Sozialversicherung zahlen.
+Da sieht man, die meisten Leute, wo es nicht die meisten Unternehmen sind, arbeiten und verarbeiten im Gewerbe.
+Das heißt, die zum Beispiel, die verarbeiten im Gewerbe wie BMW, wie Bosch, wie der Daimler, wie der Porsche, wie, was haben wir denn noch alles, der Carl Zeiss, wie der Goldrufer,
+Die beschäftigen knapp 7 Millionen Leute in Deutschland.
+Das sind also diese klassischen großen Menschen.
+Und das wird vermutlich auch, denkt man,
+einige der Arbeitnehmerinnen und Arbeitnehmer.
+Ja, dann haben wir noch Gesundheitswesen,
+Handel, Freiluftliche und so weiter und so fort,
+die hier untergebracht sind.
+Okay?
+Fragen dazu?
+Das macht dann in Summe irgendwas um 40 Millionen.
+Das ist die Hälfte der deutschen Arbeitnehmer.
+So, also das heißt, jetzt haben wir uns angeschaut,
+Historie und Bedeutung von Produktion in Deutschland.
+Das Ganze kann man natürlich auch weltweit machen, aber ich konzentriere mich jetzt einfach nur auf die Produktion.
+Wie hat sich Produktion entwickelt?
+Die frühere Idee von Produktion war einfach, ich will es effizienter machen.
+Also ich will ein Gut produzieren und das günstig verkaufen.
+Also es soll kein Handwerk mehr sein, es soll nicht jedes einzelne Teller mehr geklopfert werden.
+Es soll nicht mehr jedes einzelne Kleidungsstück von Hand maßgeschneidert hergestellt werden,
+sondern es ging tatsächlich um die Masse.
+Also Preis und Produktivität war die Idee.
+Und das haben die Briten zu Beginn der industriellen Revolution sehr gut gemacht.
+Weil sie den Vorteil hatten, die hatten ja ihre Kolonien.
+Da haben sie günstige Ressourcen bekommen, die haben sie in Großbritannien veredelt
+und dann haben sie damit alle Weltmärkte gegründet.
+Wenn man das jetzt auf die jetzige Zeit überdreht, würde man sagen, damals war England das heutige China.
+China ist heute die Powerbank, die Produktionsbank der Welt, und die versorgt die ganze Welt mit Produkten.
+Das war 1800 irgendwas, England. Die haben die ganze Welt mit Produkten versorgt.
+Sie wollten irgendwas, sie wollten ein Kleid haben, kamen aus England.
+Sie wollten irgendein Porzellanstück haben, kamen aus England.
+Sie wollten eine Maschine haben, kamen aus England.
+Stand überall, gab es damals noch nicht.
+Dann haben die Niederländer gesagt, ja was die können, können wir auch.
+wir auch, weil wir haben auch Kolonien. Dann haben die Niederländer genau dasselbe gemacht.
+Die Kolonien ausgebeutet mit Rohstoffen, in den Niederlande veredelt und dann aus Niederlande
+verkauft. Wissen Sie, was dann die Deutschen gesagt haben? Das können wir auch. Also haben
+die Deutschen gesagt, ja wir nehmen auch unsere Kolonien, Deutschland hatte auch Kolonien,
+falls Sie es nicht vergessen haben, deuten wir aus, veredeln wir Deutschland und verkaufen.
+Das war damals, wie es funktioniert hat.
+Die Franzosen haben auch ein bisschen damit angemacht, die Spanier haben auch ein bisschen nachgezogen.
+Also jedes Land, das so Kolonien hatte, konnte diese Sache machen, oder?
+Ja.
+Tja, die Deutschen haben damit ein bisschen übertrieben, die haben das sehr effizient gemacht.
+Und die haben dann plötzlich auch festgestellt, das kann man alles so viel besser machen und prozesssicher.
+Und diese Prozesssicherheit hatte einen netten Nebeneffekt.
+Das hat dafür gesorgt, dass Qualität produziert wurde.
+Sobald Sie etwas prozesssicher beherrschen, machen Sie Qualität, weil weniger Fehler passieren.
+Und damit wurde plötzlich, also Deutschland war damals ein niedriglohn Land im Vergleich zu Niederlande und England,
+wurde Deutschland plötzlich billig und gut.
+Das waren dann die Toyota-Autos sozusagen, die in den 80er Jahren kommen kamen.
+Toyota Autos waren 80er Jahren billig und überraschend gut.
+Und wir haben damals Produkte gemacht in Deutschland und die waren billig und gut.
+Und dann gab es einen riesen Aufschrei.
+Die Engländer haben gesagt, oh mein Gott, die bösen Deutschen fluten den Weltmarkt mit billigen Produkten.
+Jeder muss wissen, dass das billige deutsche Produkte sind.
+Und was haben die dann erfunden?
+Genau, den sogenannten Herstellernachweis.
+Made in Germany, wusste dann auch.
+Als auch jedes Produkt, das nach England verkauft wurde,
+musste draufgeschrieben werden,
+Made in, Made in France, Made in Germany,
+Made in Netherlands, Made in Spain,
+Made in, was weiß ich.
+Okay?
+Und dadurch, dass jeder nach England verkaufen wollte,
+das war der Markt,
+hat man einfach primitiv
+überall Made in draufgeschrieben
+also gab es dann plötzlich
+dieses Made in halt auch in Italien
+wo man verkauft hat, weil damals wusste man
+noch nicht genau wohin das verkauft
+man hat es einfach draufgeschrieben
+und jetzt ist halt das Verrückte passiert
+man wollte das ja eigentlich als
+Level für Schlechtigkeit und Qualität machen
+aber überraschenderweise war halt
+wo Made in Germany draufstand
+das was halt dann vielleicht am längsten noch gelebt hat
+und plötzlich wurde dieses Made in Germany zu einem Qualitätslevel
+So, ging da hinten los, aber für die Deutschen war es ganz gut.
+Gut, dann kam irgendwann nach dem Zweiten Weltkrieg nicht nur Preis und Produktion wichtig,
+sondern man hat festgestellt, nicht jeder Kunde hat die gleichen Probleme.
+Wenn Sie ein Auto kaufen, was erwarten Sie vom Auto?
+Also angenommen, ich gebe Ihnen 50.000 Euro, Sie dürfen Sie ein Auto kaufen.
+Was für ein Auto würden Sie sich kaufen?
+Was muss es haben?
+Bitte schön.
+Was wollen Sie drin haben?
+Ein Radio.
+Ein Radio, was noch?
+Klimaanlage.
+Klimaanlage, was noch?
+Helmholtz-Serie.
+Helmholtz-Serie, was noch?
+Tempomat.
+Tempomat.
+Bisschen PS, oder?
+Ja.
+Zwei-Sitzer, vier-Sitzer?
+Fünf.
+Fünf-Sitzer, okay.
+Was noch?
+Kofferraum.
+Planen Sie jetzt schon für eine Familie?
+Ich hätte es ja eigentlich erwartet, so ein schönes Sportcoupé oder sowas.
+Das muss ja auch sein.
+Okay.
+Aber ich behaupte, Sie wollen ein anderes Auto als ich.
+Vermute ich jetzt mal von der Ausstattung.
+Also ich hätte es eigentlich erwartet, dass Sie sagen, Sie hätten gerne so einen kleinen Rennflitzer,
+einen Zweifelzer, ein PPS, am besten ein Cabrio, aber okay, gut.
+Sie dürfen auch vernünftig sein im Alter, ist ja blöd.
+Nur gut.
+Und das ist halt, also man hat festgestellt, Leute haben unterschiedliche Bedürfnisse.
+Also ein Familienvater möchte ein anderes Auto als jemand, der alleine unterwegs ist.
+Und da fing es dann los und da haben die Firmen angefangen, man macht nicht nur praktische Autos, wie den VW Käfer, sondern es gab plötzlich Sportautos.
+Da gab es dann plötzlich Transportautos und so weiter und so fort.
+Und da ging es dann los, dass man plötzlich mehrere Modelle aufgesetzt hat.
+Es gab nicht nur den 3er BMW, sondern auch den 5er und den 7er.
+Es gab nicht nur die C-Klasse, sondern die E-Klasse und die S-Klasse und so weiter.
+Und da ging es dann los, dass man Produktionsprogramme erweitert hat.
+Es gab nicht nur die Waschmaschine, die 5 Kilo macht, sondern auch 7 Kilo.
+Man hat angefangen, die Kundenbedürfnisse mit das Produkt einzubeziehen und zu sagen,
+ich mache ein Segmentieren von meinen Zielgruppen und produziere für diese Zielgruppen das, was sie brauchen.
+Das war der nächste Schritt von Produktion.
+Und dann ging das ganze Bild los.
+Dann kam jemand, der hieß Jeff Bezos. Was hat Jeff Bezos gemacht?
+Er hat die Industrie massivst beschleunigt, weil er hat gezeigt, dass Zeit in der Produktion wichtig ist und in der Verarbeitung.
+Fragen Sie mal, was für ein Jahrgang sind Ihre Großeltern?
+Was sind die geboren?
+37.
+Großeltern.
+37 geboren.
+Ist okay.
+Also, Jahrgang 37 Ihre Großeltern.
+Vielleicht haben Sie auch ein 40er.
+Dann fragen Sie mal, wie es da mit dem Autokauf war.
+Als Sie sich das erste Auto gekauft haben.
+Und dann haben Sie zu hören bekommen, ja, da muss man ja drauf warten.
+Wartezeit, ja, ganz klar, gab es.
+Zwei Monate, drei Monate.
+Da war es voll okay, auf ein Auto zu warten.
+Das war nicht nur in der DDR so.
+Auch in Deutschland waren die Leute bereit, auf ein Auto zu warten.
+Wenn sie ein ganz spezielles Auto wollten, waren sie bereit zu warten.
+Die Wartezeit war bis zu eineinhalb Jahre.
+Was machen Sie heute, wenn man Ihnen sagt, da müssen Sie eineinhalb Jahre drauf warten?
+Sind wir mal ganz kurz ehrlich.
+Wer hat schon mal einen Einkauf online abgebrochen, weil dran stand Lieferzeit zwei bis drei Wochen?
+ehrlich, wer hat den Einkauf abgebrochen, weil die Lieferzeit zu lang war? Noch nie? Aber meistens
+ist es tatsächlich so, ich weiß, Teemu macht es wieder andersrum, da ist man wieder bereit zu warten,
+aber es ist tatsächlich so, dass wir plötzlich den jetzigen Konsum wollen. Wir sind nicht mehr
+bereit zu warten und es hat sich alles unglaublich beschleunigt. Wir wollen schnelle Produktion,
+Wir wollen sofort das Zeug haben.
+Also eine gewisse Sofortigkeit.
+Wenn wir es nicht sofort haben, sind wir nicht zufrieden.
+Wer von Ihnen hat schon mal eine Serie gewünscht, watcht?
+Sind Sie mir ehrlich?
+Ja, komm, alle.
+Alle haben hier ihre Lieblingsserie,
+wo sie ganze Staffeln
+an einem Tag durchgewatcht haben.
+Oder durchgetaut haben.
+Ja.
+Schon, oder?
+Dieses Warten. Sie müssen sich mal vorstellen,
+ich bin groß geworden, ich muss immer eine Woche warten,
+bis die nächste Serie rauskommt.
+Und es war noch Analog-TV, da war nichts mit Vorspulen oder so weiter.
+Sondern da saß man Donnerstag um 8 da, weil dann die nächste Serie rauskam, die nächste Sendung.
+Das kann man sich heute gar nicht mehr vorstellen.
+Da hat man über ein Jahr die Sendung geguckt.
+26 Folgen.
+Und es hat sich alles geändert.
+Wir sind nicht mehr bereit zu warten.
+Wir wollen den Konsum sofort.
+Sofort Download.
+Wir wollen nicht auch eine CD warten, die wieder bei uns ankommt, sondern wir wollen Musik kaufen und anhören.
+Wir gehen auf YouTube und uns nervt von zweimal Werbezeit von einer Minute fünfzehn, bevor wir was gucken können.
+Also Zeit ist immer wichtiger geworden.
+Und jetzt sind wir gerade hier, die Leute wollen wieder Individualität.
+Wir haben eine unglaubliche Masse an Produkten und dadurch ist es möglich uns vorzubauen, wenn wir die Individualität hätten.
+Also gehen Sie einmal auf SHEIN oder TEMU und da können Sie in den Pullover, geben Sie einfach mal einen Pullover und gucken Sie mal, wie viele Treffer Sie da haben.
+Da wird eigentlich Individualität vorgekauft, was aber im Prinzip doch auch Massenwahl ist, die dann eben hergestellt wird für Sie.
+Und da sind wir heute. Wir sind heute da, dass wir sagen, wir wollen ein gutes Preis-Leistungs-Verhältnis, die Qualität soll stimmen.
+Wir wollen, dass die Firmen ein großes Spektrum uns bereitstellen.
+Und das heißt, ich gehe auf Amazon. Warum? Weil ich keine 27 Accounts möchte für 27 verschiedene Kategorien.
+Ich möchte nicht beim Hersteller A die Elektronik kaufen, beim Hersteller B die Wohnware, beim Hersteller C das und das,
+sondern ich gehe halt wie ein Kaufhaus damals einmal bei Amazon rein und kann alles kaufen.
+Einmal bei Shibin rein und kann alles kaufen. Das ist halt auch eine gewisse Vorleitung, die wir haben.
+Wir wollen es in der Regel so schnell wie möglich haben und dann soll es natürlich individuell sein.
+Oh mein Gott, das ist das Schlimme.
+Oh mein Gott, das ist das Schlimme.
+Was weiß ich.
+Man möchte möglichst individualisierbar sein.
+Und damit kämpft natürlich die Produktion.
+Weil am einfachsten ist gleichartige Masse.
+Das ist das Einfachste und das Billigste, was wir machen können.
+Das können Sie auch jedes Mal feststellen, wenn Sie irgendwo einkaufen gehen, die Individualisierung
+kostet mehr.
+Aber das weiße T-Shirt wird immer das Billigste bleiben, das schwarze T-Shirt wird immer das
+Billigste bleiben.
+Es wird immer im Warteprogramm sein, es wird immer auch da sein, es wird immer am günstigsten
+sein.
+Sobald Sie das Ding der Saison wollen, wird es teuer und das lassen die Firmen sich auch
+bezahlen.
+Hypes lassen sich Firmen bezahlen.
+bestimmte Farben, bestimmte Ausführungen, muss man exakt sagen.
+Der letzte große Hype haben sie alle mitbekommen, Dubai-Schokolade, oder?
+Da wurde dann für eine Tafel 20 Euro oder so verlangt.
+Warum? Weil es ein Hype war, weil die Leute bereit waren, das dafür zu bezahlen.
+Was waren die Rohstoffe, was haben die Rohstoffbetreiber für so ein Ding? 1,50 Euro, wenn überhaupt.
+Der Rest war alles nur, weil die Leute bereit waren, dafür zu bezahlen.
+Also das ist Produktion, das findet aktuell statt und das Problem ist, wie gesagt, was heute in ist, ist morgen ganz schnell wieder auf
+und wenn ich es dann nicht produziert und verkauft habe, bin ich raus.
+Ich nehme jetzt ganz kurz was vor.
+Das habe ich auch nicht mehr drin.
+Wenn man sich einfach mal anschaut, wie schnell Technologie heute geht.
+Hier einfach mal eine kleine Karte.
+Sie sehen unten auf der x-Achse die Jahreszahlen und auf der y-Achse ist aufgetragen, was die Annahmerate ist.
+Also wie sehr hat sich eine Technologie durchgesetzt.
+Und da sieht man zum Beispiel ganz schön, nehmen wir mal diese rote Kurve hier unten, das ist die Spülmaschine.
+Die Spülmaschine hat so einen langsamen Siegeszug angetreten, ging eigentlich erst richtig los nach dem Zweiten Weltkrieg
+Und dann, so nah und nah, hat sie sich in 75% der Haushalte bis 2014 durchgesetzt.
+Wer keine Spülmaschine hat, das sind ganz häufig Studentenputze, ich weiß nicht, ob auch Ihre Studentenputze, wenn Sie so eine einzelne Single-Putze haben, da spült man halt schnell nicht.
+Das ist halt der Hauptgrund, weil es sich da noch nicht lohnt, aber es gibt übrigens auch größere Familien, die immer noch keine Spülmaschine haben, die sagen, wir müssen die auch nicht mehr haben.
+Oder nehmen wir zum Beispiel das fließende Wasser.
+Es hat auch lange gedauert, bis es tatsächlich in allen Haushalten möglich war.
+Es hat über 60 bis 70 Jahre gedauert, bis es tatsächlich in jedem Haushalt fließendes Wasser vorhanden war.
+Was haben wir denn noch?
+Beim Automobil sieht man hier den Eindruck während der Kriegsproduktion.
+Aber auch hier hat sich gut durchgesetzt.
+Und jetzt in der nächsten Folie werden Sie sehen, dass diese Achse sich hier ändert.
+Und zwar, da werden die Jahre hier, da wird die Zeitachse hier kürzer, und zwar von 1950 bis 2010.
+Und trotzdem werden die Kurven steiger.
+Das hier ist zum Beispiel die Servolenkung.
+Die Servolenkung wurde innerhalb von 20 Jahren in fast jedes Auto eingebaut.
+Neben sind dann hier die Mikrowelle, die war innerhalb von 10 Jahren in fast jedem Haushalt vorhanden.
+Die Mikrowelle macht mehr Leute als eine Wasch- oder eine Spülmaschine.
+In meinem Studentenhaushalt macht die Mikrowelle auch mehr Sinn als eine Spülmaschine.
+Und dann sehen wir ganz schnell, dieses Tablet, das hat hier die Dinge oder auch das Thema Smartphone.
+und wie schnell es sich verbreitet.
+Franscom wurde 2008 vorgestellt, 2007.
+Und das hatte bis 2018 kaum noch Leute, die preis machen.
+Und das ist auch etwas, was passiert in der Industrie.
+Sie haben viel mehr Zeit, sich auf neue technische Dinge einzustellen,
+auf technische Neuerungen.
+Heutzutage, zwei Jahre vorbei und sie haben den Trend verpasst.
+Wenn Sie 2010 gedacht haben, wir sollten vielleicht auch Tablets herstellen, haben dann innerhalb von 2-3 Jahren die Produktion aufgezogen, dann haben Sie schon 40% des Marktanteils verloren.
+Das ist genau was auch mit Nokia passiert. Nokia war der Handyhersteller. Sie alle kennen Nokia News, denke ich, Nokia und Kaputtfahrer, oder? Die alten Nokia Handys, diese Knochen.
+Nokia war das Ding
+aber Nokia
+ich weiß noch, ob Nokia überhaupt noch Handys herstellt
+inzwischen, da haben sie gar nichts mehr hergestellt
+jetzt fangen sie wieder an
+aber die haben innerhalb von 5 Jahren
+ihren kompletten Marktanteil verloren
+ihren kompletten Kundenstamm
+weil die Kunden was anderes wollten
+ähnlich Kodak
+mit der Digitalfotografie
+Kodak hatte seit den 70er Jahren
+Ideen, wie man
+digital fotografieren konnte
+also im 1970er Jahr
+Dann kam es aber von einer ganz anderen Ecke in den 2000, Ende 1990er, Anfang 2000er, weil man eben gesagt hat, ich kann diesen Handys eine neue Funktion zufügen, nämlich fotografiert.
+Und da hat die Fotografie plötzlich, die digitale Fotografie, einen Zieleszug angezogen und hat Kodak komplett im Marktanteil weggezogen.
+Kodak ist von einem Weltkonzern mit mehr als 100.000 Mitarbeitern gestummt und ist jetzt in der Linie.
+Auch das ist was diese technischen Neuerungen machen. Sie verpassen was und sie sind weg innerhalb von zwei bis drei Jahren.
+Und genau das ist natürlich wo die Automobilindustrie in Deutschland gerade Angst hat.
+Weil sich Mobilität ändert, ändern muss. Aber unsere Automobilisten sagen, nein nicht mit uns.
+Und das passiert gerade an ganz ganz vielen Stellen. Nehmen Sie mal Studium her.
+Also ich habe angefangen, eine Vorlesung zu halten, 2010.
+Da saß kaum jemand mit einem Laptop oder Tablet drin.
+Meine größte Aufgabe war damals, die Skripten am besten druckfähig zu gestalten.
+Und die Frage, wie kriege ich die Skripte ganz schnell zu meinen Studierenden,
+damit die das auch dann verteilen können und drucken können und so weiter.
+Das ist eine Frage, die lernte sich gar nicht beschäftigen.
+Sie sind schon sauer, wenn Sie nicht in der ersten halben Stunde
+etwas rausbekommen, um das Skript runterzuladen.
+Oder?
+Das ist eine ganz andere Fragestellung.
+Was ich mich gerade immer frage, ist,
+wenn ich eine schriftliche Prüfung mache,
+die über eineinhalb Stunden geht,
+halten Sie das überhaupt noch vom Schreibe durch?
+Das ist das große Problem, was heute da ist.
+Also, das heißt, die Fragestellung ändert sich
+und zum Teil schneller, als man das eigentlich liebt.
+ist, weil sich nämlich mit Technologie auch, mit Technologie ändern sich auch Nutzungsverhalten.
+Früher, wenn Ihnen langweilig war und Sie wollten sozial interagieren, mussten Sie mehr oder weniger Ihr Haus verlassen.
+Deswegen hatte jedes Dorf eine Dorfkneche.
+Was machen Sie jetzt, wenn Sie sozial interagieren wollen?
+Hallo, mir ist langweilig. Lass uns was machen. Oder Sie laden einen Stream-Account und sagen,
+dann zocke ich gleich mit meinen Kumpels online oder sonst was. Aber das ist alles inzwischen
+möglich. Sie müssen sich nicht mehr einsam fühlen und eigentlich verwenden, weil Sie
+jederzeit hier jemanden haben, der mit Ihnen redet. Und das hat sich massiv geändert.
+geändert. Die Leute gehen weniger raus als noch vor zehn Jahren. Corona hat es nochmal
+gestärkt, weil es halt über zwei Jahre unsere Gewohnheiten geändert hat. Und das merkt
+man heutzutage in Stadtbildern. Es gibt immer weniger Kneipen, immer weniger Cafés, immer
+weniger soziale Aufenthaltsräume, weil die halt auch nicht mehr nachgebracht werden.
+Ja, und das ist etwas, womit Produktion kämpft.
+Und je mehr wir Produktion nutzen, umso billiger wird es auch.
+Ich meine, das kennt ihr vor allem vom Transistor.
+Je mehr die Schaltungen verdoppeln, haltiert sich der Preis.
+Aber das haben wir halt mit ganz vielen anderen technologischen Neuheiten auch.
+Speicherplatz.
+Also ich weiß noch, als ich Student war, gab es noch kein USB-Stick.
+Der erste USB-Stick kam am Ende von meinem Studium, 2004.
+also zum erschwinglichen Preis aus. Und da hatte ich dann 128 MB auf dem Stick. Jetzt lachen Sie schon wieder nicht, oder?
+128 MB, wow! Das High-End hat auch für Möwen gekostet. Aber ich weiß dann, dass wir zwei Jahre später schon einen Gig hatten.
+Dann hatten wir noch zwei Gigs, vier Gigs. Und jetzt können Sie ja schon auf dem Stick einen Terabyte haben.
+Also insofern passiert da so viel, es wird halt auch immer günstiger.
+Und dann wäre es natürlich auch blöd, wenn man die Technologie nicht nutzen würde, wenn sie schon günstig ist.
+Ja, und das sind wir mitgebrannt bei den Einflussfaktoren.
+Industrielle Fertigung ist natürlich im eigenen Unternehmen verankert.
+Industrielle Fertigung heißt immer, da ist ein Unternehmen drunter.
+Und da haben wir jetzt das Thema, wir haben den Begriff des Betriebs und des Unternehmens,
+oder die Fabrik und das Unternehmen.
+Bosch hat mehrere Fabriken, aber das Unternehmen heißt Bosch.
+Oder BMW hat mehrere Fabriken, aber das Unternehmen heißt BMW.
+Also die industrielle Produktion ist an dieses Unternehmen immer angeblieben.
+Es gibt durchaus Firmen, die inzwischen ihre industrielle Produktion gekickt haben und nur noch Dienstleistungen machen.
+Nehmen wir zum Beispiel mal Siemens.
+Siemens war der große Industrieproduzent in den 70er, 80er Jahren,
+aber die haben sich immer weiterentwickelt und haben gesagt,
+wir sind jetzt ein Dienstleistungsunternehmen, wir machen IT.
+Da gibt es dann keine industrielle Produktion mehr.
+Und dann schauen wir mal, es hängt einfach mal davon ab,
+was sind Ihre Märkte, was sind Ihre Kunden.
+Das produzieren Sie.
+Wenn Ihre Kunden Ihr Produkt nicht mehr wollen,
+und haben Sie keine Überlebenschance als Unternehmer.
+Oder wie viele Hufschmiede kennen Sie noch?
+Wahrscheinlich keine, oder?
+Wie viele Handyhersteller kennen Sie noch?
+Das ist auch kaum noch, weil Sie kein Handy mehr kaufen wollen.
+Wie viele Camcorder-Hersteller kennen Sie noch?
+Brauchen Sie auch nicht, weil Sie haben Ihre Videokamera auf dem Handy.
+Oder?
+Was sich gerade noch so hält, sind Fotoapparatehersteller.
+Weil es so ein paar professionelle Fotografen gibt.
+Aber wer von Ihnen hat tatsächlich noch so eine Fotokamera?
+Haben Sie noch?
+Aber früher hatte das fast jeder, jetzt hat das keiner mehr.
+Weil man macht halt die Schnappschütze auf dem Handy.
+Naja, aber jetzt auch noch weniger.
+Was ist noch weg?
+Überlegen Sie mal, die letzten 20, 30, 40 Jahre, was ich noch gedruckt habe, jetzt nicht mehr.
+Oder weniger.
+auf dem steilenden Ast. Das ist jetzt ganz wichtig. Das ist strategisches Denken. In
+Vergangenheit gucken, was hat sich verändert und sich zu überlegen, was kann in der Zukunft auch
+passieren. Festnetztelefone. Festnetztelefone. Haben wir eigentlich in Deutschland nur noch,
+weil wir sonst ein schlechtes Internet haben. Was noch? CD-Player. CD-Player. Gibt es immer
+Was noch? CDs? Ja, es gibt so ein paar Liebhaber. CDs werden sich genauso halten wie LPs so ein bisschen.
+DVD-Fälle. Wann haben Sie das letzte Mal eine DVD gekauft?
+Haben Sie schon mal eine DVD gekauft? Ja. Okay.
+Was noch? Das ist eine ganz, ganz persönliche Frage.
+Wer von Ihnen hat noch einen Wecker? Also so einen richtigen Wecker neben dem Bett?
+Wow. Und wer lässt sich vom Handy wecken?
+Keiner? Von wem lassen Sie sich denn wecken? Von Mama oder was? Katze. Katze trainieren Sie um 6 Uhr zu wecken. Nein?
+Aber so richtige Wecker, so Radiowecker, die sind ausstrahlend. Gibt es nicht mehr. Das war früher der Shit.
+Gucken Sie sich mal Filme aus den 70er, 80er und 90er an. Wenn morgens der Hauptprotagonist aufgewacht ist,
+Das war der erste Blick immer auf den Radio-Wecker.
+Täglich grüßt das Mobiltier.
+Kennen Sie diesen verlegten Film noch?
+Klassiker, schauen Sie sich mal an.
+Dieser erste Blick auf die Uhr, wenn immer, wenn dann der Ding umfällt und immer das gleiche Lied kommt.
+Also, gibt es nicht mehr. Was gibt es noch nicht mehr?
+Überlegen Sie sich die Wohnung Ihrer Großeltern und denken sich, nee, brauche ich nicht.
+Faxgeräte, Modems.
+Faxgeräte, Modems, ja.
+Der klassische Scanner stimmt auch aus, weil Sie inzwischen können Sie auch fotografieren.
+Was noch?
+Wer von Ihnen hat noch ein Portfolio, beziehungsweise einen Terminplaner aus Papier?
+Das ist auch nicht mehr.
+Ich würde jetzt sagen, wenn mehr Frauen hier drin sitzen würden, kennen Sie den Film 27 Kleider und 27 Dresses.
+Da ist der Haupttreiber dieses Films so ein Kalender, den gibt es nicht mehr, das haben Sie alles im Handy.
+Was gibt es noch nicht mehr?
+Was hat die Zeit noch obsolet gemacht?
+Fotoalben.
+Ja, wir haben heute drei Fotobücher.
+Wer von Ihnen hat in letzter Zeit ein Fotoalbum gekriegt?
+Auch vorbei.
+Was ist noch passiert?
+Briefe.
+Postkarten.
+Kaum haben Leute schon Postkarten.
+Die wenigsten schreiben Briefe.
+Alles muss per E-Mail gemacht werden.
+Was noch?
+Die Post wird nicht arbeitslos.
+Wir haben Pakete jetzt.
+Ja, das klassische Lexikon. Oder wer von Ihnen hat noch ein Atlas zu Hause stehen? Von der Schule immer, oder?
+Und navigiert noch mit Atlas im Auto? Sehen Sie, die ganze Atlas-Industrie gibt es nicht mehr. Was noch?
+Was ist noch veraltet?
+Und das hat massive Auswirkungen auf die Industrie,
+weil es die einfach nicht mehr gibt.
+Das ist jetzt nicht nur die Industrie,
+aber auch die MP3-Kreation.
+MP3-Kreation, ja.
+Aber die ganze Musikindustrie hat sich revolutioniert.
+Dadurch, dass Download-Zahlen wichtig wurden
+und dadurch, dass der Vermarktungsweg sich geändert hat,
+ist die Musikindustrie viel liberaler geworden.
+Haben Sie zufällig den Film Bohemian Rhapsody geguckt?
+Wie? Schauen Sie, ein ganz genialer Film.
+Und da sieht man sehr genau, dass es früher in diesen Industrien Gatekeepers gab.
+Da gab es die Produzenten, die ganz genau gesagt haben, diese Person fördern wir und diese nicht.
+Und wenn Sie nicht an diesen Produzenten, das waren zehn große und ein paar kleine, vorbeigekommen sind,
+hatten Sie keine Chance als Künstler.
+Außer Sie hatten vielleicht mal einen reichen Papa, der in einem Vertrieb oder so weiter Sie gesponsert hatte.
+Es war ein ganz großes Problem, in diesem Film wird dargestellt, wie sie alle Geld zusammengenommen haben, um ein paar Stunden im Atomstudio kaufen zu dürfen, das sie dann nachts nutzen durften.
+Gibt es heute nicht mehr.
+Heute können sie auf YouTube ihr Video, wo sie was singen, tanzen oder sonstige Blödsinn machen, hochladen können, Starwarten.
+Die ganze Industrie hat sich da geändert.
+Diese Geldgeber gibt es nicht mehr, weil sie selber direkt vermarkten können.
+Sie haben ein tolles Produkt. Sie brauchen sich nicht bei Neckermann oder Quelle oder beim Kauf vorzustellen und sagen, nimm das in dein Portfolio auf.
+Nein, Sie machen eine Internetseite auf, zahlen Werbung und dann können Sie selber verkaufen.
+Da hat sich massiv was geändert. Das ist das Thema Vertriebsgeld. Aber was ist noch weg?
+Schauen Sie sich mal Bilder aus den 50er Jahren an. Da gab es keinen Mann ohne Hut.
+Und es gibt noch ein paar Campy-Träger.
+Das ganze Thema Hut-Industrie gibt es nicht mehr.
+Das war ein ganz großes Thema im Allgäu.
+Im Linienberg gibt es noch das Hut-Festival.
+Aber es gibt es nicht mehr.
+Keiner von ihnen trägt tatsächlich Hut.
+Dann was anderes.
+Ganz kurz, wir wissen, wer die reichen Eltern hat.
+Wer hat noch ein Ohr im Handgelenk?
+Die kommt so langsam wieder.
+Das ist wieder ein Statussymbol, wer ein Ohr trägt.
+Aber früher hatte man ein Ohr.
+Wo hat man sonst die Zeit hergekommen?
+Dann, was ist noch weg?
+Bewegen Sie mal.
+Was hat die Zeit noch?
+Obsolete gemacht.
+Die Technologie, was sonst?
+Ich würde sogar sagen,
+so Gasthüfe an der Freibergärstraße.
+Genau, weil Sie schneller reisen können.
+Früher mussten Sie alle 100 Kilometer Pause machen,
+aufgrund der Reisemodalität, die Sie hatten.
+Sogar noch früher,
+weil die Fahrer einfach nur 20, 30 Kilometer gelaufen sind.
+Deswegen, diese ganzen Gasthöfe, die ist immer noch da, die brauchen sie heute nicht mehr.
+Und die Rastplätze.
+Was noch? Aus dem Privatwohnfeld sogar.
+Hat sich geändert.
+Die Leute besitzen in Summe weniger Bücher.
+Das ganze Druck Verlagswesen hat abgenommen, weil es immer mehr E-Mails gibt.
+Dann haben wir in Summe weniger Taschenlampen zu Hause liegen.
+Da brauchen Sie auch nicht mehr.
+Auch das ist etwas, wenn Sie ein Taschenlampenhersteller sind,
+konnten Sie sich darauf verlassen, dass jeder Haushalt irgendwann eine Taschenlampe gekauft hat.
+Inzwischen brauchen Sie es nicht mehr, haben Sie ein Handy.
+Sie brauchen keine gelben Seiten mehr.
+Sie brauchen kein öffentliches Telefonnummer mehr.
+Das hat sich auch geändert.
+Dann, wer von Ihnen trägt noch Krawatte? Wer von Ihnen besitzt überhaupt noch eine Krawatte?
+Auch Klamotten haben sich massiv geändert. Also es ist immer weniger geworden, was man an Klamotten an sich als Unterschied trägt.
+Also was ziehen Sie an? Vielleicht noch 4 oder 5 Klamottenarten? Unterhose?
+Vielleicht die meisten tragen nicht mehr Unterhemden mehr, sondern die tragen einfach noch ein T-Shirt als Unterhemd und einen Pulli drüber.
+Überlegen Sie mal, was Ihr Opa noch getragen hat oder Ihr Urgroßvater.
+Er hat ein Unterhemd getragen, weißes Hemd drüber und dann ein Jackett drüber.
+Manchmal sogar noch eine Weste drunter.
+Da hat man viel mehr in den Lagen mitgemacht, weil Waschen schwieriger war.
+Deswegen hat man ganz einfache Wäsche drunter getragen, die konnte man dann täglich oder zweitäglich waschen.
+Und dann hat man versucht, die oberen Lagen nicht zu waschen.
+Da gab es auch noch Gamaschen, um die Manschetten hier zu schonen.
+Gibt es alles nicht mehr.
+Jetzt hat sie noch alles abgeschafft.
+Diktiergeräte. Ein früheres Muss in der Industrie, da gab es jede Sekretärin Diktiergeräte.
+Gibt es auch nicht mehr. Sie haben die Funktion auf ihrem Handy, falls Sie mal brauchen.
+Was gibt es noch nicht mehr? Elektrische Schleimmaschinen.
+Hat jemand von Ihnen auch eine elektrische Schleimmaschine geschrieben?
+So, gab es auch nur die. Wissen Sie, was auch bald out ist, glaube ich?
+In den nächsten zehn Jahren wird es der Todesstoß sein für Taschenrechner.
+Warum haben Sie einen Taschenrechner?
+Das ist der einzige Grund, warum Sie noch einen Taschenrechner besitzen, oder?
+Weil Sie Ihr Handy nicht in die Prüfung nehmen dürfen.
+Wenn Sie aber die Prüfungsformen ändern, brauchen Sie auch keinen Taschenrechner mehr.
+Also ich mache jetzt in den anderen Modulen eher Parcours-Prüfungen, da ist mir egal, was sie machen, da gibt es keine schriftliche Prüfung mehr.
+Da brauchen sie auch keinen Taschenrechner mehr.
+Wer von Ihnen schreibt noch als Füller? Die ganze Schreibwarenindustrie.
+Früher haben sie Hefte gebraucht, wer von Ihnen sitzt da noch im Heft da? Niemand.
+Wer von Ihnen hat noch überhaupt einen Stift dabei?
+Ich finde es immer so witzig, wenn man tatsächlich eine Anwesenheitsliste zum Unterschreiben durchlegt,
+da sieht man, wie viele Leute nicht mal mehr einen Stift bei sich tragen.
+Oder? Verrückt. Hat jemand ein Papier gerade da?
+Sie sind ja Oldschool, Sie haben Papier und Stift, wow. Aber hat jemand von Ihnen ein Papier dabei?
+Sehen Sie, können nicht mal Papierflieger bauen.
+Also sehen Sie, das hört auf. Und das passiert alles mit Märkten und Kunden.
+Und das Gefährliche ist, es passiert graduell. Es passiert nicht von heute auf morgen, es ist vorbei.
+Sonst ist es ein schleichender, unumgänglicher Prozess, weil keiner von Ihnen wird mehr auf ein Leitsorten mit Papier zurückgehen.
+Es ist vorbei. Die Zeiten sind vorbei, dass Studierende Leitsorten mit Papier hier saßen.
+Dann kommt es auf die Wettbewerber an. Die Wettbewerber, die können fies sein.
+Weil die Wettbewerber, wie zum Beispiel BMW, der sieht sein Latifas, der sieht sein Porsche, der sieht sein VW.
+Das Problem ist, wenn plötzlich eine komplett neue Idee kommt, wie bei Kodak mit der Digitalfotografie.
+Das sehen Sie gar nicht.
+Das sind die Hersteller von Taschenkalendern, die haben das Smartphone gar nicht kommen sehen.
+Das sind die Hersteller von Wetterstationen, die haben die Smartphone-App Wetter.com gar nicht kommen sehen.
+Das sind die Hersteller von Lexikas, die haben Wikipedia gar nicht kommen sehen.
+Wikipedia wurde so oft totgesagt zu nach dem Motto, das wird sich nie halten, so viel Freiwillige wird man nie finden.
+Aber es ist immer noch da.
+Und das ist das Gefährliche.
+Die wirklichen Wettbewerber kommen nicht aus der eigenen Branche, sondern kommen aus einer Veränderung der Konsumgewohnheiten.
+Und da muss man tatsächlich am Tag der Zeit sein, am größten Zeitpunkt, sonst wird es nichts.
+Dann natürlich, weil im Kapitalmarkt, wo kommt Geld her? Wenn sie kein Geld haben, können sie nicht produzieren.
+Gibt es eine schöne Sendung, die Höhle der Löwe, da geht es um genau das Thema.
+Ich habe eine Idee, ich brauche mir Geld.
+Weil wenn Sie was vermarkten wollen, brauchen Sie Geld.
+Marketing ist das eine und andere.
+Sie müssen sich Influencer heute kaufen, Sie müssen Werbung entscheiden, Sie müssen Ihr Produkt hier bekannt machen.
+Und wenn Sie das zu lange nicht schaffen, dann können Sie eben Ihr Produkt nicht weiterverkaufen, weil Sie dann vorher fertig sind.
+Wichtig ist natürlich auch, wie die Werte gestabilisiert sind.
+Die Stabilität der Werte, umso lieber investiert man in das Land.
+Das ist ein Problem, das die Türkei gerade hat.
+Die haben immer noch eine massive Inflation, deswegen will da keiner hin.
+Weil da ist dann auch mal Geld weniger wert.
+Und dann natürlich ganz wichtig, wie schaut der Arbeitsmarkt aus?
+Sie brauchen Leute, die ihr Produkt herstellen können.
+Und das sind heute, es gibt heute so eine Theorie, die sagt, zwei Arten von Leuten werden überleben.
+Die ganz hoch ausgebildeten, die innovativ denken.
+Und dann die, die die manuelle Arbeit übernehmen, die keine Roboter übernehmen können.
+Und das sehen wir leider auch, weil wir brauchen keine Sekretärin.
+Das macht heute alles KI.
+Ich diktiere was und die machen mir die fertig.
+Und da wird es ganz viele Jobs geben, die auch noch der KI zum Opfer fallen.
+Ich brauche keinen mehr, der Werbebotschaften durchschreibt.
+Ich mache ganz viele, beziehungsweise mein Kollege, der macht ganz viele seiner Online-Einträge mit KI.
+Sie wissen, wen ich meine?
+Ja, der sagt ganz einfach, bitte liebe KI, lieber Chat-GPT, schreibe einen kurzen Artikel über meinen Firmenbesuch,
+Schließt es einmal durch und fertig.
+Warum soll er es anders machen?
+Und da brauche ich bestimmte Berufsgruppen nicht mehr.
+Wie genau die Zukunft ausschaut. Ich brauche auch keine Legion an Programmierern mehr.
+Weil ich zur KI sage, bitte mach mir ein Programm, schreib es runter.
+Dann brauche ich diesen einen Cleveren, der noch die Innovation reinkriegt.
+oder der den Fehler findet. Aber ich brauche nicht mehr den Standard. Standard kriege ich
+durch KI. Standard ist immer Durchschnitt. Das sage ich Ihnen auch, wenn Sie KI verwenden,
+seien Sie sich bewusst, Sie bekommen eine durchschnittliche Arbeit. Und dann bekommen
+Sie auch von mir eine durchschnittliche Note, wenn Sie sowas abgeben. Dann brauchen Sie nicht
+kommen und sagen, Sie wollen eine 1. Dann bekommen Sie eine 2, am besten Fall eher eine 3 oder eine
+4. Diskussionen habe ich immer wieder, weil Sie dürfen in Ihrer Abschlussarbeit gerne KI verwenden.
+Aber wenn es dann nicht genial ist, ist es auch keine Eins.
+Nein, also das ist etwas, was sich ändern wird, der Arbeitsmarkt im Jahr 2010.
+So, bevor wir die Technik einschreiben und ich wieder in die Geschichte verschwinde,
+würde ich sagen, haben wir eine taktische Pause, wir machen um drei Viertel weiter.
+Für alle, die zu spät gekommen sind, ich habe mit denen, die da waren, schon den Deal gemacht.
+Wir haben ja am 23.12. dort Vorlesungsplan, Vorlesung.
+Und ich glaube nicht, dass Sie alle am 23.12. hier sein wollen.
+Deswegen machen wir es jedes Mal ein bisschen länger und dann sparen wir unseren 23.12. die Zeit.
+Das heißt, wir machen Vorlesungen immer von 8 bis 9.30 Uhr und dann von 9.45 Uhr bis 11.30 Uhr.
+Und dann haben wir jedes Mal eine Viertelstunde mehr und dann können wir unseren 23.12. die Vorlesung sparen.
+und sie führen weiter.
+Okay?
+Wir schauen so skeptisch.
+Okay? Gut.
+Also dann machen wir jetzt bis dreiviertel Pause
+und machen dann weiter um
+dreiviertel.
+So, also externe Einflussfaktoren, was bestimmt die Produktion, dann natürlich technisch, was ist technisch machbar.
+Auch hier ist in den letzten Jahren unglaublich viel passiert, was von Produktechnologien,
+es geht los, was alles über IT, elektrotechnische Neuerungen kam, bis hin zu Digitaltechnologien.
+Alles wird kleiner, alles wird schneller, jetzt mit KI angereichert, smart.
+Alle diese Themen, die wir haben, dann natürlich neue Produktkombinationen,
+natürlich vorher das Smartphone, was kombiniert wurde,
+dann, dass bei vielen Geräten inzwischen KI eingeschaltet wurde,
+ich meine, das sind auch schon auch die Beine, wenn Sie auf Google gehen,
+bekommen Sie erstmal eine KI-Antwort ganz oben.
+Dann kommen die ganzen Produktionstechnologien,
+was können wir überhaupt herstellen. Häufig war immer das Problem, ja das ist technisch nicht
+machbar. Also irgendwo hat man eine technische Grenze erreicht. Zum Beispiel Autos sind zu schwer
+geworden, bis man dann gesagt hat, ja okay, wir nehmen einfach A und wir nehmen Andrätematerial,
+wir nehmen Plastik, also Kunststoff, Entschuldigung, dass ich Plastik sage, sonst kommt der Markus
+Huffmann hier rein, entschuldigt mich. Wir nehmen Kunststoff als Beispiel, dann aber auch beschichtete
+Oberflächen, die touch-empfindlich sind. Das heißt, wir haben Touch-Screens plötzlich.
+Das war der Nobel-Fest 2014 mit Graphen-Oberflächen, die dann plötzlich auch gebobene Touch-Screens
+möglich machen. Und dann kommen wir natürlich wieder in ganz andere Anwendungsbereiche. Wenn
+wir gebobene Oberflächen haben, brauchen wir keine Knöpfe mehr. Also wir können ganz anders
+steuern. Wir haben ganz andere Ideen, wie was gesteuert werden kann. Ob keine Knöpfe gut ist
+so eine Diskussion aktuell.
+Nun gut, dann auch
+die Infrastruktur, was ist da möglich?
+Wir brauchen für bestimmte Geräte inzwischen
+überall Internetanschluss.
+Wer von Ihnen ist Zocker oder Gamer?
+Da braucht man ganz häufig eben auch inzwischen
+Internetanschluss, da ist Offline-Spielen
+zum Teil gar nicht mehr möglich.
+Also auch hier ist viel möglich.
+Inzwischen haben Geräte
+intelligente Steuerung, von denen habe ich nicht mal gedacht,
+dass ich intelligente Steuerung brauche.
+Also inzwischen ist es ein Packofen, smart.
+Und ich kann nicht schon sagen, ich will einen Abend Pizza
+und den vorprogrammieren. Also insofern, all das ist auch möglich.
+Oder auch so eine Neuerung. Stellen Sie sich mal vor, vor 30 Jahren hätte man den Tabumix eingeführt.
+Also auch mit Internetanschluss, der Ihnen dann gleich sagen kann, was Sie aus Ihren Resten noch bekommen können.
+Und dann natürlich auch politisch-rechtlich, was es erlaubt von Tarifverträgen.
+Also einerseits, wie lange darf ich Mitarbeiter beschäftigen?
+Wir werden ein bisschen über die legalen Rahmenbedingungen von Arbeitsverträgen sprechen in der Vorlesung.
+aber halt auch wieder mit Leuten beschäftigen, unter welchen Bedingungen.
+Jetzt einfach darum, dass neue Arbeitsplatzbäume eine bestimmte Größe haben.
+Ich darf Sie nicht an einen Arbeitsplatz beschäftigen, der zu heiß ist, der zu kalt ist.
+Also auch da haben Sie Rechte.
+Dann gibt es Gesetze und Vorschriften.
+Ganz wichtig, in Deutschland ist es halt sehr hohe Umweltauflagen.
+Deswegen gibt es wenige Minen, wenige Galvaniken.
+Auch die ganze prozestechnische Industrie ist bei uns schwierig.
+Die haben wir jahrelang, jahrzehntelang ausgelagert, wie gesagt, das ist ein Problem von anderen Nationen.
+Und natürlich die wichtigen Normen.
+Der Rani Ghek ist ja, dass die EU ja alles normiert und alles schwierig macht.
+Ja, kann man ja so stehen lassen, sondern man kann auch das Differenzierende sehen.
+Normen und Standards haben natürlich auch Vorteile.
+Einerseits hat es einen Verbraucherschutz, andererseits ermöglicht es halt auch,
+dass Sie in den Baumarkt gehen, eine M6-Stampe kaufen und wissen, die passt auch.
+Also hat auch vieles leichter gemacht.
+Das geht schon los. Stellen Sie sich mal vor, wir hätten kein genormtes Kilogramm.
+Und jeder Hersteller dürfte selber entscheiden, was seine bevorzugte Gewichtsklasse ist.
+Was ist von der Seite hergekommen? Was ist eine Ende? Was ist ein Fuß? Und so weiter.
+Schwierig. Also sind wir froh, dass es Normen gibt und dass es eben damit möglich wird,
+Dinge sich besser zu unterhalten, Dinge auszutauschen und dass sie es eben auch schaffen,
+in diese Steckdose alle möglichen Geräte einzuspecken.
+Stellen Sie sich mal vor, es würde Erdbeersteckdose geben.
+Dürfen Sie nur Erdbeersteckdose, Erdbeersteckdose einschalten?
+Wäre auch gut, oder?
+Würde aber Erdbeersteckdose durchsetzen.
+Log-in-Effekt.
+Gut.
+Und dann natürlich Ihr Unternehmen selber bestimmt, was Sie produzieren können.
+Erstmal, was Sie überhaupt für Personal haben, die Fähigkeiten Ihres Personals,
+was Sie für Technologien zur Verfügung haben, also was Sie für Wissen aufbauen.
+Das ist ja zum Beispiel, was der Grob gemacht hat.
+der hat in den letzten zehn Jahren massivst neues Wissen aufgebaut,
+indem er Leute eingestellt hat, die sich mit Elektrotechnik auskennen.
+Das war ja vorher ein Unternehmen, das mit Elektrotechnik nichts am Hut hatte.
+Also auch da kann man was anderes machen, sich neu ausrichten.
+Da haben die Fragen, wie wird für Forschung und Entwicklung ausgegeben, auch das ist essentiell.
+Natürlich müssen Sie als Unternehmen nicht Geld für Forschung und Entwicklung ausgeben.
+Sie können auf Medien heißen und einfach nur alles nachmachen.
+Aber wenn sie wirklich Geld wollen, dann brauchen sie gute Ideen.
+Dann eben, was ist ihre Unternehmenskultur, wie ist ihr Management aufgestellt, wie risikobereit sind sie.
+Dann auch, welche Ressourcen haben sie, wo sind ihre Standorte, wo kommen sie hin.
+Also ein schönes Beispiel ist die Firma Plansee. Die Firma Plansee geht in Reutte theoretisch mal rüber.
+Die besitzen eigene Minen. Das heißt, sie haben die komplette Supply Chain von Erzabbau bis hin zu Endprodukt.
+Produkt ist in deren Besitz. Und das ist halt auch eine Management-Entscheidung gewesen.
+Wie weit geht meine, wie groß ist meine Wertschöpfungstiefe? Dann, welche Standorte habe ich? Auch das
+ist eine Management-Entscheidung. Wenn ich in Amerika verkaufen will, ist es vielleicht
+sinnvoll, in Amerika einen Standort zu haben. Trump forciert das gerade, indem er einfach
+sagt, wenn du dich in Amerika produzierst, darfst du auch in Amerika nicht verkaufen,
+beziehungsweise nur mit Extremaufschlag. Als Beispiel. Wir als EU haben so ein Low-Clue-Content
+vereinbaren, nicht. Also bei uns gibt es keine Verpflichtung, dass Sie eine Uhr produzieren
+müssen, um eine Uhr zu verkaufen. Es gibt auch kaum Zölle in der Richtung. Die Frage
+ist, was ist sinnvoll? Muss jede Nation, muss jedes Freihandelsabkommen selber entscheiden.
+Und dann natürlich welche Infrastruktur haben Sie. Und natürlich auch, wie sind Sie aufgebaut,
+wie funktionieren die? All das bestimmt, ob Sie ein erfolgreiches Unternehmen sind oder
+Und was heute funktioniert, heißt noch lange nicht, dass es ab morgen funktioniert.
+Also dieser typische Spruch, wir machen das schon immer so, wird immer kritischer.
+Sie müssen sich jeden, im Jahr, jede Woche, jeden Monat entscheiden, wie schaut Ihr Unternehmen aus, was produzieren Sie.
+Das ist immer auch ein Zukunftsverfolger.
+Es gibt so etwas, das nennt sich Pestel-Analyse.
+Man geht es einfach um so eine Umweltanalyse, wie ist es politisch, wie schaut es politisch aus, wie schaut es ökonomisch, also wirtschaftlich aus, wie schaut es im sozialen Rahmen aus, wie schaut die technologische Umwelt aus.
+Und dass man sich einfach Gedanken macht, wie ist mein Unternehmen da eingebettet.
+Und manche Unternehmen sagen halt einfach, ich sehe keine Zukunft an einem gewissen Standort und machen Standorte anders auf.
+Manche Unternehmen, die stoßen Teile ihres Unternehmens ab und kaufen andere Teile hinzu, weil sie sagen, es hat keine Zukunft mehr.
+Es versucht ja auch wieder eine Neuaussicht in den deutschen Waren stattzufinden,
+sich zu überlegen, was muss deutsche Waren leisten können, was nicht.
+Und da geht es um die Schienenrechte.
+Da wird immer wieder überlegt, wer hat die hohe Führung des Schienensystems in Deutschland als Beispiel.
+Aber auch Lufthansa überlegt sich immer wieder, welche Linien wir halten, welche Linien stoßen wir ab.
+Und das ist auch Teil der Unternehmensführung.
+Dass man sich immer wieder fragt, was muss eine Produktion leisten.
+So, jetzt kommt der langweiligste Teil, wir müssen ein paar Definitionen machen.
+Die sind einfach nur drin, damit Sie wissen, von was ich rede und was ich damit meine.
+Also, Produktionswirtschaft ist eine Funktion in der, das haben Sie schon mal in BWL gehört,
+also das heißt, die Funktion Produktion steht da mit.
+Die sich mit betriebswirtschaftlichen Problemen der Funktion Produktion,
+also der Art und Weise der Erstellung von Produkten und Leistungen beschäftigt.
+Und Produktionswirtschaft hat sowohl betriebswirtschaftliche,
+als auch technische und technologische Vorabstellungen.
+Also das heißt, man tut sich unglaublich schwer, über Produktion zu reden, wenn man keine Ahnung hat, wie was gefertigt wird.
+Deswegen haben Sie als Wirtschaftsingenieur auch Fertigungstechnik in Ihrem Profil.
+Sie lernen ein bisschen was über Werkstoffe, Sie lernen ein bisschen was über Automatisierungstechnik.
+Also das heißt, Sie bekommen sowohl das technologische Wissen, als auch das betriebswirtschaftliche Wissen, also Investitionen und Finanzierungen zum Beispiel.
+Und das Ganze ist, Produktion hat sehr viele Summen im Bild, z.B. Erzeugung, Fertigung und Herstellung.
+Hier in der Vorlesung macht man die Unterscheidung zwischen Fertigung und Montage.
+Fertigung und Montage ist Produktion als Klammer.
+Weil Montage ist der Zusammenbau und Fertigung ist die Herstellung von bestimmten Dingen.
+Also damit mag ich fräsen, drehen, damit mag ich in U-Form arbeiten, das ist die Fertigung.
+Die Produktion ist der Prozess der zielgerichteten Kombination von Produktionsfaktoren und deren Transformationen Produkte.
+Also man überlegt sich, wie komme ich von einem Rohstoff hin zum Endprodukt.
+Und da gibt es unterschiedliche Möglichkeiten.
+Man kann sogar noch weiterdenken und sagen, wie kann ich ein Problem lösen.
+Sie möchten Musik hören.
+Ihr Problem ist, Sie würden gerne jetzt Musik hören.
+Auf welche Art und Weise können Sie Musik hören?
+Genau, Sie können Streamingdienste anmachen. Sie können auch ganz klassisch Radio hören, oder?
+Sie könnten auch eine CD einlegen. Oder ganz oldschool, Sie nehmen Ihre Gitarre in die Hand und machen Musik selber.
+Sehen Sie? Also Sie wollen Musik hören, unterschiedliche Lösungsansätze.
+Und dafür gibt es unterschiedliche Produktionsarten. Spotify heißt, ich muss einen Server aufstellen,
+Ich muss mir die Lizenzen holen und ich muss hier eine Plattform machen, wo Sie das Ganze abonnieren können.
+Radio ist etwas ganz anderes.
+Ich muss einen Radiosender aufbauen.
+Ich muss Radiogeräte verkaufen, damit man Radio hören kann.
+CD ist wieder etwas anderes.
+Ich muss CDs produzieren und CD-Abspielgeräte.
+Oder, wenn man selber Musik macht, ich muss Gitarren produzieren.
+Das heißt, ich kann ein Problem auf unterschiedlichste Art und Weise lösen
+und ich muss immer wieder überlegen, was ist mein Produkt, wie schaut der Output aus und welchen Input brauche ich.
+Und nur weil wir vor Jahrzehnten gesagt haben, wow, Schreibmaschinen sind was Tolles, damit kann ich Papier beschreiben,
+heißt das noch lange nicht, dass das jetzt ein gängiges Problemlösungstool ist.
+Also Output und Input ändern sich auch beständig und da müssen wir uns auch immer wieder Gedanken machen.
+Schwerpunkt der Vorlesung hier ist die industrielle oder verarbeitende Industrie.
+Das ist einfach die industrielle Produktion.
+Wir werden uns nur ganz selten mit Dienstleistungen beschäftigen.
+Und wir schauen uns auch die Investitions- und Vorausgüterindustrie an.
+Das heißt, wir werden, wie gesagt, nicht nur auf Dienstleistungen spezialisieren
+oder, keine Ahnung, Versicherungswesen, Gesundheitswesen oder sonst was.
+Was wollen wir in der Produktion?
+Da gibt es unterschiedlichste Arten und Weisen, also unterschiedliche Themen und zwar, was wollen wir für Produktion, das haben wir schon gesprochen, wir wollen, dass es günstig ist, wir wollen, dass wir schnell sind, wir wollen, dass wir Qualität haben, wir wollen, dass wir umweltverträglich sind, wir wollen Varianten erstellen.
+Definitionen, weiter. Was ist Logistik?
+Logistik ist die Planung, Ausführung und Kontrolle der Material- und Informationswissen zwischen Absatz- und Beschaffungsmarkt.
+Und das kommt immer wieder jetzt in unserer Vorlesung vor, dass wir sagen, wir müssen zwischen Input und Output hier der Puffer sein.
+Das heißt, wir haben hier unsere Fabrik.
+Das ist unsere Fabrik.
+In dieser Fabrik gibt es einen Input, das sind unsere Rohstoffe, das sind unsere Mitarbeiter, das sind die Informationen, die wir haben.
+Dort findet die Transformation statt und auf der anderen Seite haben wir unseren Output.
+Und jetzt kann natürlich so eine Versorgungskette unterschiedlich ausschauen.
+In der Realität haben wir ganz vorne eine Mine.
+Das heißt, hier haben wir unsere Rohstoffe.
+Oder wir haben hier einen Erzeuger von Zuckersirup.
+Wir haben hier einen Erzeuger von Mais.
+Wir haben hier einen Erzeuger von irgendwelchen sonstigen chemischen Vorprodukten.
+Und in der Realität haben wir einen Sobreitschein, in dem mehrere Industrien, mehrere Fabriken hintereinander geschaltet sind.
+Und irgendwann dahinten steht ein Endkonsument.
+Aber jedes Unternehmen schaut sich den Input an und den Output an.
+Jedes Unternehmen überlegt sich, was ist mein Input und was ist mein Output.
+Und das heißt, diese Seite wird als Beschaffungsmarkt bezeichnet und diese Seite ist der Absatzmarkt.
+Wenn wir in der Automobilindustrie sind, dann werden hier Komponenten geschafft, die werden
+hier montiert und dann hier verkauft.
+Wenn wir in Bäckern sind, dann kaufen wir hier Mehl ein, Zucker, Eier, backen hier das
+und verkaufen wir hier wieder. Ich kann aber auch jemand sein, der einfach sagt, er hat eine
+große Wertschöpfungstiefe. Dann kaufe ich halt weiter Rohstoffe ein, dann ist der Beschaffungsmarkt
+ein anderer. Und irgendwann kann es auch mal sein, dass ich gar nicht mehr hier gebraucht werde.
+Zum Beispiel Ikea. Ikea hat dafür gesorgt, dass die Kunden ihre Möbel selber montieren. Da ist
+ganz schön viel Arbeit weggefallen bei Ikea. So, die Logistik- oder Beschaffungskette ist die
+gesamte Versorgungskette von der Rohstoffgewinnung bis zum Endkunden. Das ist die Supply Chain,
+die Versorgungskette. Und das sind alle Material- und Informationslösungen, die wir eigentlich zur
+Herstellung und zur Verteilung dieser Produkte brauchen. Und die Steuerung von so einer Versorgungskette,
+von so einer Versorgungskette, nennt sich Supply Chain Management. Supply Chain Management ist noch eine eigene
+Vorlesung, die ich im Master anbiete. Was wir uns jetzt tatsächlich anschauen, im Großen und Ganzen ist,
+Wie funktioniert hier diese Produktion? Wie bekomme ich den Input da rein und wie bekomme ich dann tatsächlich Produkte hinten raus?
+Und dazu muss man erstmal die Fabrik verstehen. Und das schauen wir uns dann auch in der Vorlesung an.
+Aber immer, was kommt rein, beziehungsweise was geben wir raus? Was für Informationen brauchen wir, dass das funktionieren kann?
+Genau, Supply Chain Management ist dann diese ganze Planung und Steuerung der Waren, Informations- und Geldflüsse entlang einer ganzen Versorgungskette.
+So, was ist Logistik? Logistik ist ein unterstützender Prozess in der Produktion.
+Logistik hat in der Regel vier große Aufgaben.
+Und zwar Produkte in der richtigen Menge, zur richtigen Zeit, in der richtigen Zusammensetzung, am richtigen Ort zur Verfügung zu stellen.
+Das heißt, als erstes muss ich mir überlegen, was brauche ich?
+Auftragserfüllung durch Kommissionieren.
+Also das richtige Zusammenstellen der Güter, dass ein Auftrag erfüllt wird.
+Das machen Sie in der Regel, wenn Sie online shoppen gehen, selber.
+Weil Sie nämlich in Ihren Warenkorb reinlegen, was Sie möchten.
+Das können Sie auch delegieren und sagen, ich würde gerne Kuchen backen.
+Und dann schicken Sie Ihre Mama zum Einkaufen, dass sie alles einkauft, damit Sie auch einen Kuchen backen können.
+Also die Aufgabe der richtigen Zutaten kaufen, können Sie auch theoretisch delegieren.
+Aber in der Regel Logistik kommissioniert.
+Dann schlägt Logistik um. Wir haben ja das Problem, dass wir hier eine Fabrik haben, die auf irgendwas spezialisiert ist. Nehmen wir mal was zum alltäglichen Gebrauch, zum Beispiel Klopapier.
+Stellen Sie sich vor, wir haben hier eine Klopapierfabrik. Und diese Fabrik, die stellt Paletten an Klopapier her. Und es wäre jetzt sehr doof, wenn Sie nur Paletten von Klopapier kaufen könnten, oder?
+Und wer von Ihnen hat den Lagerplatz, um eine Palette Klopapier da reinzustellen?
+Kaum jemand.
+Das heißt, wir brauchen sogenannte Umschlagspunkte.
+An diesen Umschlagspunkten werden Paletten auseinandergerissen und in kleinere Größen zur Verfügung gestellt.
+Das sind Lagerhäuser oder Einzelhandelsläden.
+Zum Beispiel, wenn Sie in den Drogeriemarkt reingehen, nehmen Sie von der Palette Ihren 8er-Pack Klopapier runter.
+Das ist Umschlag. Auch das ist eine Logistikfunktion.
+Wenn Sie zum Beispiel hier die A7 hochfahren auf der A96, da sehen Sie den DAXer.
+Sehen Sie all diese Lagerhallen? Da wird umgeschlagen.
+Da werden die Inhalte von Lastern genommen und neu zusammengewürfelt,
+dass die besser zusammenpassen, damit der Kunde das bekommt, was er gestellt hat.
+Oder wenn Sie nach Ulm fahren, da ist das große Logistikzentrum von Müller.
+Auch da wird dann verteilt, wer welche Müller-Vigiale was bekommt.
+Dann, was macht Logistik noch? Logistik lagert.
+Das Problem ist bei Produktion, wir müssen in der Regel kontinuierlich produzieren, sonst lohnt sich die Maschine nicht.
+Wenn ich mir eine Maschine für eine Million Euro dahin stelle, dann muss die Maschine auch arbeiten.
+Das ist genauso, wenn Sie sagen, ich kaufe mir jetzt einen Pizzabackofen für 400 Euro und Sie benutzen ihn nur einmal.
+Dann haben Sie die teuerste Pizza Ihres Lebens gebacken, oder?
+Wenn Sie sich einen Pizzabackofen kaufen, dann ist Pizzabacken Ihr neues Hobby, weil sonst hat sich das Ding nicht gelohnt.
+Das ist genauso, wenn Sie sich einen E-Bike kaufen und dann nur einmal fahren.
+Dann war das die teuerste Ratung, die Sie je gemacht haben.
+Wenn Sie sich ein teures Gerät kaufen in der Industrie, dann muss es sich lohnen.
+Und wenn Sie sich für eine Million die Fräsanlage dahin stellen, dann fräsen Sie auch das Ding, wenn es geht, 24-7 durch.
+Beziehungsweise das arbeitsrechtlich erlaubt ist.
+Und dann haben Sie ein Problem.
+Dann haben Sie, keine Ahnung, ein Deko für Weihnachten gemacht, aber schon im April.
+Dann müssen Sie es nachher im Business brauchen.
+und haben sie Ersatzteile produziert, die die Leute noch gar nicht brauchen.
+Dann müssen sie einlagern.
+Dann haben sie Fabrios im Herbst produziert, obwohl ihr die eigentlich erst mal mit einem Frühling kaufen wollt.
+Und wir haben ganz viele saisonabhängige Produkte.
+Sie als Endkonsument sind unglaublich an unsere saisonalen Gegebenheiten.
+Natürlich gibt es auch Sachen, die sehr kontinuierlich sind.
+Aber nehmen Sie mal zum Beispiel Abtritt.
+Das muss alles verarbeitet werden und dann haben wir bei Bonduelle 3 Millionen Gläser mit Apfelmus.
+Sie wollen jetzt aber nicht 20 Gläser Apfelmus kaufen, oder?
+Sondern Sie wollen gern im März auch mal wieder Apfelmus kaufen.
+Das heißt, es wird eingelagert. Also lagern ist auch eine Funktion, das ist die Zeitung.
+Und das, was die meisten von uns tatsächlich als Logistik verstehen,
+also wenn ich von Ihnen Logistik sage, dann denken Sie an LKW und an Transport.
+Das ist das Letzte.
+Das ist aber nur ein Teilbereich der Logistik.
+Das heißt, dass man Raumüberbrückung macht.
+Das soll von A nach B transportiert werden.
+Was sind die fünf großen Logistikwege?
+Wie können Sie transportieren?
+Fangen wir an.
+Straße.
+Was ist das Nächste? Schiene. Nächste? Schiff. Ein paar Wasser. Das Nächste? Flugzeug. Und was ist das Letzte?
+Und tatsächlich das Wichtigste, aber am meisten vergessen ist.
+Brot. Ah, was? Das ist dann auch straßig.
+Und ich wette, jeder von Ihnen hat heute schon verwendet.
+Vielleicht behauptet jeder von Ihnen, ich hoffe mal, er hat heute die Zähne geputzt.
+Oder sein Handy schon von der Steckdose abgesteckt.
+Pipeline. Der wichtigste Transportweg, den wir auch benutzen jedes Mal, ist Pipeline.
+Wir sind durchzogen von Pipelines in der Welt.
+Das geht los mit Wasserpipeline, mit Strompipeline.
+Das sind die zwei wichtigsten Pipelines, die wir haben.
+Aber es gibt auch noch andere.
+Das sind dann Datentransfer-Pipelines.
+Aber das sind die wesentlichen.
+Und ich warte immer noch auf 6. und meine höchste Hoffnung liegt in Ihrer Generation,
+dass endlich mal jemand das Bibel erfindet.
+So, jetzt habe ich es gesagt.
+Haben Sie den Auftrag.
+Dann hat man wieder eine große 6. Variante.
+Aber das sind die fünf großen Arten der Raumüberbrückung.
+Es ist irre, was wir als Menschheit da inzwischen geschaffen haben.
+Wir haben unseren Radius erweitert und es ist inzwischen sinnvoller,
+Äpfel aus Südamerika oder Australien in die Herbstruhe zu schaffen.
+Und wir haben billige Äpfel.
+Und wir haben jeden Tag Bananen zur Verfügung.
+Sie wissen alle, Bananenrepublik Deutschland, wir haben die größten Produktionsbananen.
+Also insofern, ja, wir haben jeden Tag Bananen hier.
+Haben Sie sich schon mal überlegt, wie das passiert?
+Irgendwas wir damit geschaffen haben als Menschheit.
+Wir schaffen es, Sie können im Winter im Februar Abwehrn essen.
+Sie kriegen jede Art von Fisch, wenn Sie das wollen, obwohl wir eigentlich hier nicht in der Fischregion leben.
+Sie können sich Original-Souillassos aus Japan besorgen.
+Also Raum überbrücken sind wir richtig gut geworden, weil so als Information oder als Asyl, wie lange dauert es, ein Schiff von chinesischer Ostküste bis nach Rotterdam, Schiffsweg, Containerschiff, wenn Sie heute einen Container aufgeben, wie lange dauert der, bis er hier ist?
+8 bis 12 Wochen. Das heißt, wenn Sie jetzt, ja ja, 8 bis 12 Wochen, wenn Sie jetzt gerne im September die Weihnachtsdeko-Ware haben wollen,
+okay, Sie finden ja jetzt schon Weihnachtsware, oder? Haben Sie schon gesehen?
+schon wird schon der Weihnachtsmarkt. Also, Weihnachtsware haben wollen, da müssen Sie jetzt nochmal zwei bis drei Monate
+zurückrechnen, da ist es dann aus Schiff verladen worden. Das heißt, das war dann August, also Ende Juli ist die
+Weihnachtsware in China aus Schiff geladen worden. Das heißt, Sie haben im Prinzip schon im April mit der Produktion
+begonnen, Sie haben dann mit dem Februar, dem Januar schon die neue Weihnachtsware bestellt. Das ist der Vorlauf,
+den wir haben. Durch Corona ist das alles übereinander gekommen. Da war ja drei Monate,
+wenn die chinesische Workbank gestoppt und dann war es sogar so, dass sie erst im März die Weihnachts-
+und die Winterjacke kaufen konnten. Weil alles um drei Monate verzögert war. Aber es dauert sechs,
+acht, in der Regel bis zu zwölf Wochen bis ein Schiff kommt. Sechs Wochen ist sehr, sehr knapp
+und da ist wirklich nur Hafen bis Hafen. Sie müssen ja die Zeit zum Hafen umrechnen und dann
+und dann vom Hafen noch zum Endverbrauch.
+Das heißt, 8 bis 12 Wochen ist eigentlich die gängige Rechenmethode,
+wenn Sie einen Container von China her kaufen.
+Die neue Seidenstraße ist bedingt schneller.
+Die können Sie auch nehmen.
+Da gibt es immer noch so ein paar Reparationsprobleme,
+aber es ist durchaus auch machbar,
+dass Sie in die neue Seidenstraße was schicken können.
+Und alle setzen ja auf die geschmolzene Arktis.
+Das heißt, die Nordwestpassage, die wäre theoretisch auch schneller,
+ist halt immer noch manchmal nicht ganz eisfrei.
+Und wir haben gerade so ein bisschen Probleme mit dem Partner da oben, Russland,
+da möchte man auch nicht so gar nicht dabei sein.
+Es gibt so ein paar territoriale Konflikte, wie was gehört.
+Mal gucken, wie sich das dann entwickelt.
+Gut, das sind die Aufgaben von Logistik.
+Und wie gesagt, wenn wir von Logistik reden,
+wird die zukünftigen nicht nur an den transportlichen Melker gedenken,
+sondern auch, dass kommissioniert wird,
+also dass Auftragserfüllung dahinter steckt,
+das Zuweisen von den Gütern, dass da auch das Umschlagen hingehört, also dass man sagt, die Mengenanpassung,
+ich muss vom großen Batch aufs kleine gehen und dass auch das Lagern zur Logistik gehört.
+Also das sind alles Logistikfunktionen.
+Oder kurz, das effiziente Bereitstellen der entforderten Menge benötigt Objekte in der richtigen Zusammensetzung,
+zur richtigen Zeit, beim richtigen Ort.
+Und da kann verdammt viel schief gehen, das weiß jeder, der mal was online bestellt hat und das Päckchen kommt nicht an.
+beziehungsweise das Verkehrte kommt an oder es kommt an der verkehrten Stelle an oder es kommt zu spät an und solche Sachen.
+Das sind alles Logistikprobleme, die man berücksichtigen muss.
+Dann möchte natürlich Logistik bestimmte Sachen haben, die im Widerspruch stehen.
+Also Logistik soll heute schnell sein, Geschwindigkeit.
+Wir wollen, dass es möglichst schnell vor Ort ist.
+Und wir sind auch so getriggert, wir sind von der ganzen Industrie, von der ganzen Werbung getriggert, dass wir Dinge sofort haben wollen.
+Wir sehen was online und da ist ein Button dran kaufen.
+Das Problem mit Geschwindigkeit ist allerdings, dass dann ganz häufig die Qualität darunter leidet.
+Das merken Sie mehr in McDonalds, Fastfood ist selten gut.
+Fertigessen ist selten so toll, wie wenn Mama das von ganz vorn gemacht hat.
+Also ich bat immer noch auf die Kelly-Spatzen, die so lecker sind wie die von meiner Mama,
+aber naja, die nehmen sich halt auch Zeit dafür.
+Also, Schnelligkeit und Qualität ist heute im Widerspruch.
+Genauso die Variabilität.
+Sie können jederzeit zum McDonalds reingehen und Sie sagen, Sie wollen den Cheeseburger.
+Dann kriegen Sie den auch sofort.
+Wenn Sie aber sagen, Cheeseburger mit extra Käse, dann müssen Sie wieder warten.
+Sobald Sie Sonderwünsche haben, dauert es wieder extra.
+Und das ist Variabilität. Das heißt, Geschwindigkeit und Variabilität sind ein Widerspruch.
+Genauso ein Widerspruch ist Qualität und Wirtschaftlichkeit.
+Qualität kostet.
+Ganz einfach.
+Wenn Sie hohe Qualität haben wollen, dann müssen Leute Arbeitszeit investieren.
+Dann sind die Materialien in der Regel teurer.
+Und das zahlen Sie.
+Seien Sie bitte immer vorsichtig, wenn Ihnen die beste Qualität zum niedrigsten Preis versprochen
+wird. Wenn Sie das mal wissen wollen, es gibt so wunderbare Shopping-Sender, UVC und sonst was,
+dann schauen Sie da einfach mal rein. Da wird Ihnen die beste Qualität immer zum niedrigsten
+Preis versprochen. Und dann können Sie mal gucken, wo die Qualität nicht schwingt. So
+Oder, wer billig kauft, kauft zweimal.
+Kennen Sie den Spruch?
+Also Qualität kostet.
+Das heißt aber im Umkehrschluss nicht,
+dass alles, was teuer ist, toll ist.
+Das gilt nämlich auch nicht.
+Also nur, was teuer ist, ist es nicht automatisch toll.
+Aber, wenn Sie was Hochwertiges wollen,
+dann zahlen Sie in der Regel dafür auch einen Preis.
+Und dann ist es natürlich so,
+dass je mehr Individualismus sie angeben, Variabilität, umso teurer wird es in der Regel auch.
+Ein maßgeschneidertes Bleibungsstück ist immer teurer als der Standard von der Stamm.
+Und das ist halt, was Logistik erfüllen muss.
+Das ist das, wo Sie sich als Unternehmen klarwerden müssen, was will ich denn eigentlich?
+Amazon hat sich auf Schnelligkeit festgelegt.
+Wer Teemu sagt, ja wir fertigen das für dich, dafür wartest du aber 15 Tage, 17 Tage und so weiter.
+Genauso muss man sich überlegen, wenn ich Qualität produziere, bin ich nicht billig.
+Ich kann nicht alles haben. Und das ist das Problem, was die Wissen eben auch haben.
+So, gehen wir nochmal zurück zum Leistungsprozess. Das ist nochmal diese Darstellung.
+Wir schauen Beschaffung, Produktion und Distribution an und die logistischen Prozesse, die laufen parallel dazu mit.
+Ich brauche einen guten Logistikpartner oder muss selber eine gute Logistik aufbauen, damit es funktioniert.
+Sie selber können der beste Student sein und der cleverste Mensch, nutzt aber nichts, wenn Sie keine Möglichkeit haben an die Uni zu kommen und Ihre Prüfung abzulegen, oder?
+Wo? Das heißt die Logistik muss halt auch funktionieren.
+Die Produktionsfaktoren, damit es funktioniert, ist ganz klassisch der Mitarbeiter, die Betriebsmittel, die sie sich verfügen haben und das Material.
+Und Sie können das beste Material haben und die besten Mitarbeiter, nützt nichts, wenn Sie Flaschen in der Leitung sitzen haben und Leute nicht organisieren können.
+Das heißt, es muss alles zusammenpassen.
+Leitung, Planung und Organisation mit den Effizienzmitteln, mit dem Material und mit der Arbeit im Modell.
+Und was wir uns anschauen, ist ganz klassisch das Unternehmen.
+Das heißt, wir werden ein bisschen in die Arbeitsplätze reingehen, aber das haben Sie in einer anderen Form wissen.
+Da haben Sie ein bisschen Alkonomie und Arbeitswissenschaften.
+Und wir werden ein ganz klein bisschen die Supply Chain anschauen, aber im Wesentlichen schauen wir uns das Unternehmen an.
+So, die nächste Folie überspringen wir, dann machen wir gleich ein paar Dicke-Tipps.
+Und jetzt kann man auf die Fertigung in zwei Arten schauen.
+Einmal kann man sich sagen, ich schaue, wie ein Auftrag abgewinkelt wird.
+Also Einkauf, es geht los mit, dass wir überlegen, was wollen wir denn verkaufen.
+Dann planen wir, wie viel müssen wir einkaufen.
+dann kaufen wir das ein, dann fertigen wir, dann vertreiben wir das Ganze und dann machen wir unser Satzteilmanagement.
+Also das ist das Thema, wenn Sie sagen, ich möchte heute einen Nusskuchen backen.
+Dann gehen Sie los, kaufen sich die Zutaten, überlegen sich, wie Sie diesen Nusskuchen backen,
+dann backen Sie diesen Nusskuchen und dann essen Sie den Nusskuchen.
+Und dann gibt es den sogenannten Produktentstehungsprozess.
+Das ist die Idee, wie komme ich zu meinem neuen Produkt.
+Der muss sich natürlich auch damit beschäftigen, wie ich was produziere.
+Wenn jetzt zum Beispiel BMW sagt, wir produzieren ein neues Auto,
+dann machen die natürlich ganz große Designstudien,
+dann überlegen sie sich, wie schaut die Antriebstechnologie aus,
+wie schaut das Interieur aus und so weiter.
+Dann entwickeln und konstruieren sie das,
+dann überlegen sie, was brauchen wir für Materialien dafür,
+alles natürlich neu, aber dann müssen sie sich auch fragen,
+wie schaut die Verdienung aus.
+Und da schmelzen die beiden zusammen.
+Man muss sich das mit Gedanken machen,
+wie mache ich etwas prinzipiell?
+Also wenn Sie zu Hause irgendwas kochen,
+dann müssen Sie sich darüber klar machen,
+wie mache ich das erstmal prinzipiell?
+Haben Sie einen Backofen zur Verfügung?
+Haben Sie eine Herdplatte zur Verfügung?
+Haben Sie eine Heißhubfritteuse?
+Haben Sie, es gibt ja tausend Küchengadgets heute,
+haben Sie einen Thermomixer usw.?
+Also wenn Sie Suppe kochen wollen,
+Suppe können Sie auf unterschiedlichste Art kochen.
+Sie können sogar Suppe in Ihrem Wasserkocher machen,
+wenn Sie ganz verzweifelt sind.
+Also insofern müssen Sie erstmal prinzipiell fragen, wie mache ich das?
+Das ist die Arbeitsvorbereitung in der Regel.
+Und dann das Tatsächliche zu machen, ist der Fertigungsauftrag.
+Und da spielt halt die Fertigung eine ganz große Rolle.
+Was steht da bei Ihnen denn um?
+So, wir haben es gleich mit unserer Definition.
+Und dann überlegen wir uns natürlich, oder dann müssen wir uns Gedanken machen,
+Wie schauen die Prozesse in unserem Unternehmen aus?
+Wer ist für was zuständig?
+Das ist die Ablauforganisation, das ist ein Rückblick auf BDL, was wir schon mal hatten.
+Und dann natürlich, wie ist die Organisation an sich strukturiert?
+Also wie schaut die Hierarchie in meinem Unternehmen aus?
+Wer ist der Chef? Wer sind die Abteilungsleiter? Und so weiter und so fort.
+Ich kenne jetzt kein Unternehmen, was kein Organigramm hat.
+Also alle Unternehmen, die ich kenne, sind in irgendeiner Art und Weise hierarchisch organisiert.
+Die Frage ist nur, wie flach ist die Organisation?
+Jedes Unternehmen funktioniert anders.
+Es gibt viele Unternehmen, die Autos herstellen.
+Aber die Unternehmen an sich schauen alle ein bisschen anders aus.
+Also jedes Unternehmen funktioniert anders, hat eigene Aufbau- und Abbauorganisationen.
+Und die Idee ist natürlich immer, Prozesse zu vereinfachen, um Unternehmensabläufe besser zu machen.
+Das bekannteste ist die sogenannte ISO 9001.
+Hat schon mal jemand was mit ISO 9001 zu tun gehabt?
+Genau, das müssen Sie nachlesen.
+Ich bin so ein bisschen im Frequenzgesinn.
+Also da haben Sie mit der zu tun und dann natürlich diese ganzen Nachfolge ISO 14001,
+dann noch die IATF oder wie sie heißt, die 16949 und was weiß ich alles da.
+Also das sind natürlich alles Normen, die dafür sorgen, dass wir ähnlich funktionieren.
+Also dass Prozessaufläufe stabil sind.
+Und das ist eben wichtig für Produktion.
+So, ganz kurz noch ein letzter Rückblick.
+Logistik war früher, dass man gesagt hat, ich kümmere mich um mein Teilbereich.
+Und je weiter man in der Zeit fortgeschnitten ist, umso eher hat man erkannt,
+dass Logistik ein strategischer Faktor ist, der funktionieren muss.
+Wenn ich es nicht schaffe, Rohstoffe in meine Firma zu bringen und die fertigen Produkte an meinen Kunden, dann habe ich verloren.
+Das heißt, ich muss schauen, dass die Logistik stimmt.
+Und als ich noch klein war, war es gang und gäbe, dass jede Firma die eigenen Laster hatte.
+Also da stand dann auch ein Laster grob draus.
+Das haben heute fast nur noch Brauereien.
+Also wenn Sie heute irgendwo ein Laster sehen, dann sind Sie vielleicht nur so ein Kronbach-Laster oder so ein Jewa-Laster oder so ein Rack oder sonst was.
+Aber was Sie hauptsächlich auf der Straße sehen, sind Laster, wo der Logistikunternehmer draufsteht.
+Ansorgelogistik, Praxau, was gibt es noch, Schenker, Müller, keine Ahnung wie alle Logistikunternehmen heißen,
+Stündeslogistik und so weiter und so fort.
+Also das heißt, Logistik ist zu einer eigenen Industrie geworden.
+und die sorgen dafür, dass die einzelnen Umbrüche auch funktionieren.
+Und dann hat man, wie gesagt, die Unternehmen miteinander,
+zum Beispiel BMW hat dann auch mal in den 19er Jahren
+ein eigenes Logistikunternehmen gegründet,
+um die ganzen Lieferanten miteinander zu verknüpfen.
+Und dann hat man eben im Prinzip sozusagen
+den Logistikunternehmer als eigene Funktion gehabt.
+Da war Logistik nicht so, ach, wir müssen machen,
+sondern Logistik ist wichtig, ist ein eigener Bestandteil.
+Und heutzutage sind wir einfach verknüpft.
+Wir sehen jedes Mal, wenn eine große Logistik-Schnittstelle ausfällt, wie anfällig wir sind.
+Erinnern Sie sich alle noch an, wann war es, 2021?
+Ich glaube März.
+Suezkanal? Oder war es Mai? Ich weiß gar nicht mehr genau.
+Da war doch acht Tage lang so ein Schiff quer im Suezkanal gestanden.
+Alle sind panisch geworden.
+Das Suezkanal ist die wichtigste Seefahrtstraße für uns Europäer, weil da alles von China
+besteht.
+Und wenn es natürlich ausfällt, kommen keine Waren auf uns ran.
+Und jetzt muss man wissen, dass die Häfen in Europa, fast wie alle Häfen, chronisch
+überlastet sind.
+Da müssen sie ihren Slot bezahlen, wo sie rein müssen.
+Und wenn sie ihren Slot nicht erwischen, stellen sie sich an der Schlange wieder ganz
+hinten ab.
+Und das dann passiert. Die Schiffe sind zwar nach acht Tagen wieder durch, aber die mussten sich dann, haben den Slot verpasst und mussten sich ganz hinten anstellen.
+Wo waren die Schiffe? Wir haben dann bis zu einem Monat gewartet, bis sie gelöscht wurden, also bis sie entladen wurden.
+Und das ist halt etwas, was schwierig ist. Also wir sind massiv miteinander verkettet, da gehen wir später auch ein bisschen drauf.
+So, hier ist jetzt die Vorlesung aufgebaut. Das war jetzt ganz, ganz viel vorgeprägt, aber die Vorlesung ist wie folgt aufgebaut.
+Einmal nach der Art und Weise Beschaffung, Betrieb und Distribution.
+Wir schauen uns die Seite vor der Produktion an, wir schauen uns die Seite nach der Produktion an und wir schauen uns die Produktion an sich an.
+Und wir schauen das Ganze in einem zeitlichen Kontext an.
+Das heißt, wir schauen operativ, taktisch und strategisch eben her.
+Was heißt das so deutsch?
+Erstmal die Planungsreise.
+Operativ heißt, es sind kurzfristige Entscheidungen.
+Zu kurzfristigen Entscheidungen zählen zum Beispiel, gehe ich jetzt mit dem Auftrag auf Maschine A oder Maschine B.
+Zu einer langfristigen, strategischen Entscheidung zählt, möchte ich lieber E-Autos produzieren oder Verbrenner.
+Also das heißt der Zeithorizont.
+Kurzfristige Industrie ist alles zwischen einem Tag und sechs Monaten.
+Mittelflüssig ist taktische Planung zwischen sechs Monaten und zwei Jahren.
+Alles, was im Zeithorizont über zwei Jahre in der Regel hat, wird als strategisch bezeichnet.
+Es gibt eine Ausnahme, Luft- und Raumfahrt, das ist alles über fünf Jahre.
+Und in der Technologie, in der Elektronikbranche ist es in der Regel alles über ein Jahr, weil die eher kurzfristig betrachtet sind.
+Aber das sind so ungeklärte Planungshäuser.
+Wer beschäftigt sich mit was?
+Je höher Sie im Management sind, umso mehr sollten Sie sich um strategische Themen kümmern.
+Also der Geschäftsführer sollte sich Gedanken machen, wie schaut mein Produktportfolio in 5 Jahren aus, in 10 Jahren.
+Und der Gruppenleiter, der muss sich Gedanken machen, welche Maschine ist heute kaputt oder soll ich warten?
+Wenn sich das Obermanagement mit Wartungsplänen beschäftigt, ist in dem Unternehmen was verkehrt.
+Okay?
+Das ist also der Unterschied.
+Management, wo ist oberes Management?
+Muss sich mit strategischen Themenstellungen beschäftigen.
+Und alles andere nach unten delegieren.
+Und das heißt halt auch, die strategische Planung ist ganz wichtig für das gesamte Unternehmen.
+Also wenn ich sage, ich will in 5 Jahren noch am Markt sein,
+dann muss ich mich natürlich damit auseinandersetzen,
+ich schaue in 5 Jahren am Markt aus, was passiert da?
+Wo sind unsere zukünftigen Absatzmangel?
+Wenn ich das nicht mache, dann bin ich vielleicht sogar weg.
+Das heißt, die strategische Planung ist extrem wichtig.
+Ob jetzt die Maschine heute mal ausfällt oder nicht, hat für die langfristige Frage erstmal nichts zu tun.
+Das ist zwar ärgerlich, aber ein Stau auf der Autobahn sorgt nicht dafür, dass es Deutschland schlecht wird.
+Aber eine verfehlte Infrastrukturpolitik sorgt dafür, dass alle unterweinen.
+Also muss man immer schauen, wer ist für was zuständig.
+Und dann geht es auch noch um Daten. Wissen Sie, was Aggregation bedeutet?
+Aggregation heißt, wie verdichtet sind Daten und je weiter Sie in der Management-Ebene nach oben gehen,
+umso mehr arbeiten Sie mit verdichteten Daten. Hier unten sind die Daten nicht verdichtet. Da hat jede
+Maschine eine Nummer und der Gruppenleiter kennt die Nummer. Ach, das ist die M17, die wieder umzieht.
+Ach, das ist die F-25, die wieder ein Problem hat.
+Das interessiert das Management nicht.
+Die möchten wissen, wie viele Maschinen haben wir uns generell im Problem.
+Und da steht da dran, 10% Maschinenausfälle.
+Das sind also die Daten verdichtet.
+Mich interessiert es, wer sitzt in meiner Vorlesung.
+Also, das heißt, was für Leute sitzen da drin, die Namen, was ist die Historie und so weiter und so fort.
+Dem Präsidenten hier oben, dem interessiert es eigentlich weniger.
+der will wissen, wie viele Studierende haben wir allgemein, wie viele Studierende sitzen allgemein im Studiengang drin.
+Der möchte verdichtete Daten haben.
+Das heißt, je strategischer man denkt, umso wichtiger sind aggregierte, verdichtete Daten.
+Und dann weiß man auch, was man plant.
+Da unten wird Terminsteuerung betrieben, operative Planung.
+Da werden Arbeitsplätze gestaltet. Während da ganz da oben, da geht es um die unternehmerische Ausrichtung, da geht es um die Werksplanung, Geschäftsplanung. Und das ist die Aufgabe, die jeder Manager wissen muss.
+Wenn Sie Abteilungsleiter sind, dann sind Sie klassisches Mittelmanagement.
+Dann lassen Sie Ihre Sachbearbeiter bitte auch ihre Sachbearbeitungsaufgaben machen
+und kümmern Sie sich um Ihre Mittelmanagementaufgaben.
+Und wenn Sie irgendwann mal Geschäftsleiter irgendwo sind,
+dann ist Ihre Aufgabe, sich um die strategische Planung zu kümmern.
+Sich zu fragen, wo geht mein Unternehmen hin?
+und nicht dafür zu sorgen, dass Maschinen existieren wollen.
+Das müssen Sie demitieren.
+Also das heißt, ich muss auch immer schauen, wer jetzt für was zustimmt.
+So, und jetzt kann ich einerseits die Zeithorizonte und die Bereiche in einer Matrix aufzeigen.
+Also ich kann sagen, ich habe hier eine strategische Planung, die den Beschaffungsmarkt betrifft.
+Das heißt, ich muss mir grundsätzlich mal überlegen, was kaufe ich ein.
+Das machen Sie auch wöchentlich, wenn Sie einen Wocheneinkauf machen.
+Wie?
+Sie können sagen, ich kaufe mir die Dose Raffioli oder ich kaufe mir die Fertigpizza
+oder Sie kaufen das Mehl und die Eier und die Grundzutaten.
+Das ist jeden Tag oder jede Woche, wo Sie eine Entscheidung treffen.
+Sie können sagen, Sie kaufen das Kaffeepulver oder Sie kaufen den Fatte-Kaffee.
+Sie können sagen, Sie kaufen, keine Ahnung, irgendein Fatte-Gericht oder die Konsultaten.
+Das ist Ihre Entscheidung, das ist meistens auch etwas, was davon abhängt, was Sie machen können.
+Wenn Sie in Ihrer Studentenbude keine Küche haben, dann sind Sie fast gezwungen, Fatte-Gerichte zu kaufen.
+Dann müssen Sie sich natürlich strategisch immer wieder überlegen, welche Produkte entwickle ich.
+Klar können Sie sich jetzt hinsetzen und sagen, ich entwerfe Kutschen.
+Und ich designe die Kutsche und ich möchte Kutschen verkaufen.
+Aber Sie werden feststellen, Leute wollen keine Kutschen mehr.
+Genauso können Sie sich als BMW hinsetzen und sagen, ich mache immer größere, immer fettere Dieselmotoren.
+Aber irgendwann werden Sie feststellen, die Leute kaufen das nicht mehr, weil sie keinen Parkplatz in der Stadt bekommen,
+weil die Parkplätze zu teuer werden, weil die auch nicht mehr in die Parkplatzrücken reinpassen
+und weil sie vielleicht irgendwann mal mit dem Verbrenner gar nicht mehr in die Stadt eindrücken.
+Also ich muss mir Gedanken machen, was kann ich verkaufen.
+Und dazwischen ist immer wieder die Überlegung, was für eine Fabrik stelle ich denn da hin.
+Mache ich eine Fabrik in Deutschland oder mache ich eine Fabrik im Ausland?
+Mache ich eine Fabrik, die möglichst viel kann oder mache ich eine Fabrik, die spezialisiert
+ist auf einen Arbeitsvorgang?
+Also das sind die Überlegungen auf der strategischen Ebene. Und mit denen fangen wir dann an, in der Vorlesung.
+Wenn wir uns darüber klar sind, was wir produzieren, was wir einkaufen und in welcher Art und Weise wir das machen wollen,
+dann können wir uns überlegen, wie schauen unsere Stücklisten aus.
+Dann können wir uns überlegen, wie schauen Vorgabezeiten und Arbeitspläne aus.
+Und zu guter Letzt, wir können uns über Kapazitäten Gedanken machen.
+Das ist dann die mittlere Ebene, die mittelfristige Ebene.
+Und wenn wir da über Klarheit geschaffen haben, können wir uns um diese kleinen Kleinkümmer im Termin, wann liefern wir ab?
+Dann können wir auch sagen, wie schaut die fertige Steuerung aus? Dann können wir auch disponieren und provisionieren.
+Und wenn wir dann noch Zeit haben, das ist so ein bisschen ein Thema, dann können wir noch ein bisschen über Qualität reden.
+Und das sind im Prinzip die kommenden neun Kapitel, die Sie in der nächsten Vorlesung aufzeigen.
+Wir fangen hier oben in der Ecke an, arbeiten uns dann hier rückwärts, und dann hier nachher vorwärts.
+Und wenn Sie jetzt in Ihr Skript schauen, dann werden Sie feststellen, dass Ihr Skript so sortiert ist.
+Es gibt die strategische Ebene, es sind drei Skriptteile.
+Das strategische Skript haben Sie jetzt schon, die anderen zwei nehme ich Ihnen in den nächsten zwei Wochen noch frei.
+Da muss ich noch ein paar Folien oder ein paar Grafiken schieben.
+Da werden Sie feststellen, Sie werden ein Skript haben, das heißt strategisch, das nächste ist taktisch und das dritte ist operativ.
+Und dann wird jedes von diesen Themen in drei Gruppen aufgeteilt sein.
+Das heißt, Sie haben hier immer eingekreist 100 Grad.
+Und das sind dann in Summe 9 Kapitel.
+Okay, so ist das Skript aufgebaut.
+Und wir fangen dann heute noch mit dem Bereich an, Produktentwicklung.
+Die Maschinenbauer, die haben eine ganze Vorlesung von unseren Produkten.
+Die müssen ja lernen, wie Produkte entwickelt werden.
+Wir machen das nur sehr, sehr allgemein.
+Dann werde ich Ihnen Antragsunterlagen vorstellen, wie Standorte gewählt werden,
+wo wir dann noch ein bisschen anfangen.
+Da brauchen wir ein paar Lüfter dazu, also ich hoffe, es geht ein bisschen klar.
+Produktentwicklung und Produktentstehungsprozess.
+So, das was ganz wild ist.
+Bevor wir anfangen, in Deutschland gibt es ganz viele Rahmenbedingungen.
+Und da gibt es zwei, wie soll ich sagen, zwei verharrtete Standpunkte.
+Die einen, die maulen immer, wie viel Reden es in Deutschland gibt.
+Und für alles haben wir den Ort.
+Und alles muss freigegeben werden.
+Und alles muss überprüft werden.
+Und die anderen, die sagen, das ist eigentlich gar nicht schlecht.
+Ich gehöre zu der Gruppe, die sagt, Normen sind nicht schlecht.
+Ich bin eigentlich ein Fan von Normen.
+Weil es nämlich uns ermöglicht, eine möglichst breite Wettbewerbsbasis aufzubauen.
+Und Apple versucht es zu unterwandern.
+Apple versucht Produkte zu verkaufen, die nur in ihrem eigenen Universum funktionieren
+und alle anderen, die nicht Apple-Konsumenten sind, auszuschließen.
+Damit versucht Apple den Monopolstellung zu schaffen und damit auch den Wettbewerb zu untermauern.
+Und dann gibt es nur zwei Möglichkeiten.
+Take it or leave it.
+Entweder annehmen oder ablehnen.
+Und damit sind sie entweder dabei oder nicht dabei.
+Und das ist eigentlich ziemlich unfair.
+Damit schafft auch kein anderer Wettbewerber mehr, irgendwann einzusteigen.
+Und damit, bis über kurze Unterlagen, geben sie Apple noch 20 oder 30 Jahre und Apple wird auch das Microsoft Schicksal haben.
+haben. Dass irgendwann mal
+dann sagt, ja, dass die irgendwann mal
+zu träge warten können, neue Innovationen.
+Es passiert immer wieder,
+dass diese Technologievorreiter träge warten
+und eigentlich nichts Neues
+mehr bringen. Aber die haben den
+Markt so ausgebootet, dass
+wir für zehn Jahre auch keine Innovationen
+mehr auf dem Markt haben können.
+Und das ist dann ein bisschen schade.
+Wir in Europa haben dann anders gedacht
+und haben gesagt, nee, wir wollen
+Technologie offen sein,
+indem wir Normen
+vorgeben. Und das ist ein ganz verrücktes Thema, mit enormen Technologien offen zu sein.
+Aber ich biete damit Anschlussmöglichkeiten. Indem ich sage, ich habe eine Schnittstelle,
+die für alle offen ist, biete ich unglaublich großes Potenzial für neue Ideen. Indem ich
+Steckdosen habe, in denen ich wirklich alles einstecken kann, habe ich ein unglaublich
+Potenzial. Indem ich normierte Fenster habe, kann jeder, der eine Idee für ein besseres
+Fenster hat, ein besseres Fenster uns anbieten. Und darum geht es bei Normen. Normen sollen
+helfen, gleichwertige Wettbewerbsbedingungen zu schaffen. Bekannte Institutionen ist der
+DIN-Verein oder die DIN-EU-Norm.
+Waren Sie schon mal auf unserer
+DIN-Norm-Datenbank?
+So, also hier haben wir
+die Büchern-Bibliothek.
+Und da gibt es
+diesen Grund-Scroll.
+Sie können jetzt
+entweder auf Datenbank klicken oder
+Sie machen es wie ich, weil da unten haben wir die meisten Datenbanken
+und alle schon drauf.
+Und dann finden Sie nämlich hier
+die Datenbank für Normenwurzeln.
+Das muss die Normen- und VDI-Richtlinie sein.
+So.
+Dann werden Sie da automatisch mit Ihrer Kennung eingeloggt,
+wenn Sie das dazu lassen.
+Und dann darf ich Ihnen meine Lieblingsnorm vorstellen.
+So.
+Meine Lieblingsnorm ist die 33402, Teil 2.
+Und diese Norm ist die Norm über Körpermasse.
+Warum ist das so eine geniale Norm?
+Das ist doch eine von vielen, oder?
+Aber, stellen Sie sich mal vor, Sie haben die Idee, Sie wollen irgendwas mal produzieren.
+Einen Badofen, einen Stuhl, einen Tisch oder was weiß ich.
+Und jetzt müssen Sie überlegen, wie hoch mache ich denn sowas?
+Auf wen lege ich denn sowas aus?
+Was ist denn sinnvoll?
+Und dann hilft Ihnen die Norm, weil die Norm sagt Ihnen, wie bei uns im Durchschnittsmensch-Ausschuss.
+Und dann können Sie entscheiden, wie viele Leute Sie glücklich machen wollen.
+Schauen wir uns mal durch.
+Also zum Beispiel, Sie wollen einen Stuhl produzieren.
+Und jetzt überlegen Sie sich, wie stark müssen Sie diesen Stuhl denn machen,
+damit dann die Leute auch ordentlich drauf sitzen können.
+Sie können natürlich sagen, ich gehe immer vom Worst Case aus, ich mache den Stuhl für den 200 Kilogramm Mann.
+Und dann wird es immer noch jemanden geben, der 210 Kilo wiegt.
+Oder schauen Sie sich mal in Amerika an, da ist ja inzwischen ein 300 Kilo Mensch inzwischen im Standard geworden.
+Aber das wollen Sie ja nicht, das ist ja Materialverschwendung.
+Jetzt haben Sie hier eine Liste, die ganz einfach sagt, ein Mann zwischen 18 und 65,
+Fünf Prozent der Männer zwischen 18 und 65 wiegen weniger als 63,5 Kilogramm.
+Und fünf Prozent der Männer zwischen 18 und 65 wiegen mehr als 100 Kilogramm.
+Das heißt, wenn Sie einen Stuhl auf 100 Kilogramm auslegen,
+haben Sie 95 Prozent der Männer schon mal glücklich gemacht,
+weil die diesen Stuhl nutzen können.
+Und Sie haben sogar noch mehr Frauen glücklich gemacht,
+weil die Frau, 95% der Frauen sind nicht leichter als 87 Kilo.
+Okay, das ist dann die Perzentilangabe.
+Nochmal, Wiederholung, Perzentil, das heißt, 5% sind leichter als die Angabe,
+50% sind genau leichter oder schwerer, und wenn Sie jetzt 79 Kilo wiegen als Mann,
+dann sind Sie genau, 50% der Männer sind noch leichter und 50% der Männer sind noch schwerer.
+Und das hilft für Konstruktionsentscheidungen. Und zwar ganz essenziell. Wenn Sie Zeit haben,
+gehen Sie mal zum Löhmax-Organismus und drehen Sie mal so einen Stuhl um. Da steht nämlich dann
+ganz häufig drauf, bis 120 Kilogramm. Warum? Damit mache ich 95 Prozent der Männer glücklich
+und ich mache einen Sicherheitsfaktor von 20 Prozent drauf. Der Lieblingsfaktor jedes
+Konstrukteurs. Und dann haben Sie einen Stuhl mit 120 kg. Und die Stühle, die 140 kg aushalten,
+sind schon teurer. Also schauen Sie mal das nächste Mal, wenn Sie den Stuhl im freilaufenden
+Möbelhaus sehen, dann steht da nämlich drauf 120 oder 140 kg auf Basis von dem hier. Würden
+wir das jetzt für einen anderen Kulturkreis machen, dann würden vielleicht auch ein paar
+andere Ergebnisse rauskommen. Aber für den Europäer ist das die Referenztabelle. Können
+Sie gleich mal als Frau gucken, wenn Sie weniger als 60 Kilo bieten, zwischen 18 und 25, dann haben
+Sie hier genau einen Nutzen. Okay, also auch hier, wenn man das so liest, da sieht man auch dann ganz
+schön, die älteren Männer sind in der Riege leichter, während die älteren Frauen schwerer sind.
+Gut, das hier. Das ist aber nicht alles. Zum Beispiel das hier ist etwas, das macht viel Frust.
+Ich habe einen Bekannten, der ist 2,04 Meter hoch. Also er hat eine Höhe von 2,04 Meter.
+Und er hat das Problem, dass er halt zu den 5% größten Deutschen gehört.
+Für den sind weder gemacht, Tür, Achterbahn, Standardsitze, Autos, normale Sitze, der hat
+mit allem ein Problem, der kann Basketball arbeiten, aber das ist das Problem, wenn Sie
+nicht in diese Normtabelle passen. Jetzt können Sie mal schauen, ist jemand von Ihnen größer
+Das ist 1,86 Meter. Haben Sie vielleicht auch schon das eine oder andere Frust-Erlebnis gehabt in Ihrem Leben?
+Aber auch Sie werden feststellen, wenn Sie im Auto einsteigen, sind Sie wahrscheinlich immer an der hintersten Bratsche, oder?
+Ja.
+Geht gerade aus. Weil Sie halt auch gesagt haben, wir gehen auf die jungen Leute.
+Die sind im Schnitt größer. Warum sind die jungen Leute größer als die alten?
+Warum ist diese Altersgruppe im Prinzip 10 cm kleiner als diese?
+Woran liegt das?
+Sie fragen jetzt gut, oder?
+Das antwortet keiner, erzählte mal.
+Wahrscheinlich hat es schon was Keitel zu dem Thema gesagt.
+Die Leute, die jetzt da 60, 65 sind, rechnen Sie mal, das Thema wurde im Anfang etwas veröffentlicht,
+2008 war das, glaube ich.
+Die haben es irgendwann neu gemacht, 2020.
+Aber die Auswertung war, glaube ich, 2008.
+Und wenn Sie da zurückgehen und einfach mal schauen, wann die geboren sind,
+die sind geboren worden zum Teil auch, als Kinder noch Hunger mussten.
+Jetzt muss man wissen, was über die Entwicklung von Kindern ist.
+Vielleicht wissen das auch von meinen Eltern, vielleicht haben sie gesagt,
+sie sind mal wieder geschossen.
+Kennen Sie so einen Ausschuss?
+Das war dann der Moment, wo die Hosen drei Zentimeter zu kurz waren.
+Kinder haben in der Regel Wachstumsphasen.
+Also Kinder wachsen nicht kontinuierlich, sondern die wachsen immer mal wieder in Zentimeter.
+Wie funktioniert das?
+Da sieht man plötzlich so ein Kind, ganz proper, hat sich alles angefressen und dann
+machen die wieder so ein Wachstumsschuh.
+Ein Zentimeter, bisschen weiter.
+Da gibt es dann, schauen Sie mal eine Fotos an.
+Da waren sie im Handfotos dann so ein bisschen proper und am nächsten waren sie wieder so
+hager.
+Sie waren wahrscheinlich immer von ihrem Körpertipus her.
+Aber egal.
+Also das ist dann sowas, die Wachszuschüge.
+Und wenn Sie als Kind so einen Wachszuschub auslassen, dann werden Sie nicht Ihr Endgericht erreichen.
+Das war früher für häufiger der Fall, weil früher man die öfteren Hunderten hatte.
+Damit Sie wachsen können, brauchen Sie Nährstoffe.
+Was passiert heute, Sie kommen auf die Welt und kriegen erstmal Vitamin K die ersten drei, äh, Lebensjahre.
+Dann bekommen Sie die ersten zwei Lebensjahre Vitamin D.
+Vitamin D ist essentiell für Körperwachstum.
+Wenn Sie kein Vitamin D haben, wachsen Sie nicht.
+Wir sind hier aber immer noch ziemlich weit oben mit deinem Fach.
+Das heißt, wenn Sie hier im Winter keine Sonne abbekommen, haben Sie kein Vitamin D und wachsen nicht.
+Die ersten zwei Jahre bekommt hier jeder Säugling, wie das Kleinkind, also noch Vitamin D im Winter zugeführt.
+Können Sie mal Ihre Eltern fragen, ob Sie das bekommen.
+Das ist auch inzwischen in ganz vielen Nahrungsergänzungsmitteln und so weiter.
+Und wenn Sie halt nie hungern müssen, haben Sie das Potenzial, Ihre genetische Größe auszuschöpfen.
+Kommt halt dann auch dazu.
+Jetzt ebnet das ab, wir werden nicht immer größer. Ihre Kinder werden nicht unbedingt größer als sie.
+Aber sie werden durchaus größer als ihre Großeltern, weil ihre Großeltern als Kind durchaus ab und zu mal nach Hunger mussten.
+Das kommt auch immer auf die Genetik drauf an.
+Aber insofern, das ist das Thema und das sieht man hier in der Grafik sehr schön.
+Dass man halt feststellt, dass eben die Kinder bzw. vor allem die Frühen da noch kleiner waren,
+weil die eben diese Wachstumsschüle ausgelassen haben.
+Okay? Und was natürlich auch dazu kommt, wir haben ganz viele künstliche Wachstumshormone inzwischen in unserer Umwelt.
+Das kommt noch dazu. Also wenn Sie jetzt zum Beispiel ein Hühnchen essen, das mit Wachstumshormonen vorgestopft ist,
+kommt es irgendwo natürlich auch bei Ihnen an.
+Weichmaßen ist das Problem heute. Weichmaßen sind wir nicht die, wie soll man sagen, die Fertilitätskinder.
+Aber das ist das Problem, dass man auch mit sehr vielen Umweltgiften und künstlichen Hormonen konfrontiert wird.
+Und deswegen sind wir halt auch immer größer geworden.
+Okay? Das ist alles drin.
+Aber, wenn man sowas mal anschaut, diese ganzen Größenkonzepte spielen natürlich eine Rolle für Sicherheitskonzepte im Auto.
+Der Standardsitz wird eben auf einen 1,90 m Mann ausgelegt und nicht auf einen 2 m Mann.
+Das heißt, die Kopflehne ist halt optimiert auf 1,90 m oder auf 1,80 m und deswegen ist es besonders für Frauen problematisch,
+für kleine Frauen sind beim Crash nicht gut geschützt, weil es ist für 1,68 m Mann gemacht worden und nicht für 1,66 m Frau oder sogar für 1,60 m Frau.
+Nur Volvo macht auch separate Tests für Frauen, für Frauen-Crash-Tests. Alle anderen haben den Standard-Dummy und haben nur Männer-Dummy sozusagen.
+Also das spielt zum Beispiel eine Rolle. Und auf das kann man Sitze einstellen.
+Als Beispiel. Auf das werden auch Achterbahnen ausgelegt.
+Dann Augenhöhe. Ganz wichtig, wo bringe ich ein Display an, dass es jemand sieht.
+Und jedes Mal in dieser Vorlesung, an dieser Stelle, denke ich mir, ich habe es noch nicht getan.
+Ich wollte mal in die Männertoiletten gehen oder in die Frauentoiletten gehen und gucken,
+auf welcher Höhe die Spiele angebracht sind.
+Aber naja, ich will nicht mit dem Hinterstab in der Männertoilette sprechen.
+Aber dann möchte ich mal gucken, aber auf welcher Höhe muss ich was anbringen, dass es gesehen wird?
+Als Beispiel. Dann weiter, Schulterhöhe, auch so Themen, für Sicherheitsvorrichtungen.
+Dann Ellenbogenhöhe, wie groß muss ein Stehtisch sein?
+Schritthöhe für Hosen. Sie alle kennen das Problem, passen mir die Jeans? Ja, nein.
+Dann, wo muss ich einen Poller anbringen, dass er richtig schön weh tut?
+Okay? Und wen will ich treffen, ist dann immer die Frage.
+Wer soll stolpern?
+Brustkorbtiefe. Also auch hier, wie weit müssen Stäbe auseinander sein oder dürfen Stäbe auseinander sein,
+Leute durchkommen oder nicht. Und wer kommt durch? Ganz wichtig, hier gibt es eigene Studien für Babys,
+damit man weiß, wie weit müssen Gitter auseinander sein, dürfen Gitterstäbe auseinander sein, damit
+da keiner feststeckt. Schulterbreiten, wichtig für Flugzeugsitze. Sind vielleicht auch eine Beidesitze, weil immer
+schmaler, da passen mehr Leute rein. Es wäre doch mal was, alle, die zu breite Schultern haben, müssen einen
+Extra-Sitz kaufen. Schauen wir mal, Schulterbreite. Sie können ja nachweisen. Also wenn Ihre Schulterbreite
+unter 48 cm ist, dann sind Sie unterdurchschnittlich. Dann müssen Sie mehr pumpen gehen, bitte.
+Dann gehen Sie mehr pumpen, damit Sie hier ein breiteres Kreuzbeleg haben. Genau. Dann
+Hüftbreiten als Beispiel. Halsumfang ist das Hemd. Der Klassiker, Hemdgröße 39 oder
+38, hier für die Hand,
+Brustumfang, für die Hände,
+Teilumfang, dann
+Oberschenkelumfang, wieder wichtig für Hosen,
+Unterschenkelumfänge,
+für, wichtig für
+Schießstiefel und so weiter.
+Es ist wichtig, wenn man da sagt, ich möchte irgendeinen Stiefel
+oder Sicherheitseinrichtung oder was.
+Wie hoch muss ich was montieren,
+dass die wenigsten Leute hinkommen?
+Also wenn Sie etwas auf
+2,20 Meter montieren, dann haben Sie es für viele schon raus. Es ist immer, kommt jemand an die Zimmerdecke, ja, nein.
+Und vielleicht haben Sie es mitbekommen, bei Häusern rutscht die Zimmerdecke immer weiter nach oben.
+Früher war das 2,20 Meter, jetzt ist die Standardhöhe von Zimmerdecken 2,40 Meter.
+Schöner Einbau.
+Ja, schöner Einbau. Sie werden wahrscheinlich drauf herbleben. Wo sind Sie?
+Nein, nein, nein, durchschnittlich.
+Durchschnittlich? 1,80 Meter.
+Sie waren 1,90 Meter, oder? Sie denken sich dann auch, ja, wie geht das? Genauso bei Türen. Sie wollen eine Tür, die 2,20 Meter ist und nicht 2 Meter, oder? Da fühlen Sie sich auch wohler.
+Also, das sind unsere Themen.
+Dann, was brauchen wir noch? Genau, Körpersitzhöhe.
+Das ist verkehrt, ich wollte das andere haben, das ist die Schulter.
+Ich brauche das hier.
+Wie hoch ist die Sitzfläche?
+Das fragt sich, darüber sollte sich klar bleiben, denn wenn Sie jemals ein Haus bauen, fragt Sie Ihr
+Monteur, auf welcher Höhe wollen Sie die Kloschüssel haben. Laut DIN-Norm sollte man die auf 39 cm
+machen. Die DIN-Norm von der Kloschüsselverordnung ist allerdings aus den 70er Jahren, deswegen ist
+die neue Montagehöhe eher 22 cm, weil die Leute hier auf Kloschüssel gewohnt sind. Also hier auch
+Das ist einfach der Vorteil von einer Norm und viele Normen gehen halt auch ins Detail rein und sagen, wie etwas gemacht werden soll.
+Und wie gesagt, das ist meine Lieblingsnorm. Und jetzt noch eine kleine Thematik am Rande.
+Schmuckhersteller, weil ich möglichst viele Schmuckstücke verkaufen möchte, falls sie mir
+jemals den Mittelfinger zeigen sollte, möchte ich bitte nur die Wurzelschnitte sehen. Das gilt also
+für Männer nur über 84 mm und bei Frauen bitte nur über 77 mm. Kannst du mal nachmessen? Keine
+Nerviale, keine schwierigen? Okay, gut. Also für Handschuhe zum Beispiel wichtig. Handdicken,
+Das ist z.B. für Sicherheitsvorrichtungen wichtig. Geht die Hand rein oder nicht?
+Kann man sich die Hand einklemmen oder nicht?
+Und wie gesagt, das ist meine Lieblingsnorm. Und für sowas brauchen wir Normen.
+Das sind also Normen, die industrieübergreifend sind.
+Dann gibt es Normen, die speziell für spezielle Industrien sind.
+Z.B. vom VDI, Verein Deutscher Ingenieure. Ist jemand von Ihnen vom VDI?
+Also da kann man sich dann so Fachgruppen anschließen und kann bei dieser Normengestaltung hinwirken.
+Dann gibt es den VDA, das sind die Automobilnormen.
+Da gibt es vor allem die Verpackungsvorschriften ganz viel genommen.
+Aber auch in allen anderen Richtungen, wie was gekennzeichnet werden muss
+und wie das Ersatzteilmanagement laufen muss,
+da sind ganz viele VDA-Normen eingebaut.
+Dann gibt es sonstige Verordnungen und Vorschriften.
+Also Firmen können sich selber Verordnungen geben.
+Dann gibt es, wie gesagt,
+ich habe mal Ordina und Diplomöbel und so weiter.
+Also da gibt es alles Mögliche.
+Dann gibt es Patente. Es ist heute Tag relativ einfach Patent zu geben. Über Google Patents
+können Sie gerne auch mal selber schauen. Dann kann man relativ schnell Patente finden,
+indem man zum Beispiel einen Namen eingibt oder indem man einfach die Institution eingibt und
+dann kann man sich dann natürlich auch Inspiration holen bzw. schauen, welche Patente sind abgelaufen
+und das ist eben auch ein Bereich, wo man Rahmenbedingungen haben kann. Patentschutz ist ein ganz, ganz eigenes
+fällt. Patent hat den Vorteil, dass Sie ein Vorrecht haben, Ihre Erfindung zu nutzen.
+Und zwar erst mal limitiert auf ein Jahr und Sie können es dann bis zu zehn Jahre erweitern.
+Der bekannteste Patentschutz in letzter Zeit war zum Beispiel auch diese Nespresso-Kapsel.
+Kennen wir die? Nespresso-Maschinen, Nespresso-Kapseln. Hat Nestle massivst vermarktet und Nespresso
+hat eine Zeit lang den größten Gewinnanteil bei denen eingespült wird, gab. Also nur
+durch diesen Espresso-Karzen. Ich meine, ein bisschen Atem, ein bisschen Kaffeepulver rein,
+für 40 Cent verkaufen, war eine enorme Gewissheit.
+Ein anderer Patentschutz, zum Beispiel Medikamente, gab es auch lange Zeit.
+Das bekannteste war Jaga. Also es ist ja endlos Patentrechte, Streit,
+Patentrechtsstreit gab es da endlos viele, aber jeder wollte das dann tatsächlich haben.
+Und so weiter. Das ist halt auch so ein Patentthema gewesen.
+Aber Patente müssen auch berücksichtigt werden in Europa.
+Es gibt Länder, die auch ein Patentschutz-Untertitel geben.
+Und dann gibt es sogenannte Gestaltungsrichtlinien.
+Die werden von Firmen selber rausgegeben.
+Ikea hat zum Beispiel solche Gestaltungsrichtlinien.
+Die geben ihren Ingenieuren oder ihren Designern vor, auf was sie zu achten haben.
+Zum Beispiel, die fertigen Pakete dürfen eine bestimmte Größe manchmal nicht überspeisen.
+Oder eine bestimmte Kilogrammangabe, weil die sagen, es soll ein Mensch tragen können.
+Oder das Billigregal muss in ein Standardstudentenauto passen.
+Das war eine Zeit lang der Opel Corsa, das war das Referenzprojekt.
+Ich weiß nicht, was es jetzt ist.
+Aber da sollte so ein Paket in den Opel Corsa reinpassen.
+Ja, das ist ja klar, weil wenn es nicht passt, dann kaufst du es dem Studenten nicht.
+Was sagt der Student? Ich fahre jetzt zum Ikea und richte ihm meine Putze ein.
+Passt es zu meinem Auto? Nö, kann ich nicht kaufen, oder?
+Ja, das ist doch ganz häufig ein Argument. Kriege ich es ohne zusätzliche Kosten zu mir nach Hause?
+Und wenn die Antwort Nein ist, kaufen ganz viele nicht ein. Also das ist etwas Gestaltungswichtiges.
+Gestaltungswichtiges gibt es unterschiedlichste Art und Weise. Zum Beispiel hier, dass man sagt,
+sagt, wir wollen die Gestaltung so machen, dass der Zusammenbau so einfach ist.
+Auch hier Ikea ganz toll.
+Ikea, wer von Ihnen hat noch keinen Ikea-Modus-Schlüssel zu Hause?
+Sie wissen doch die Dinger, oder?
+Die haben auch Schlüssel.
+Sie schmeißen die weg, oh mein Gott.
+Sie können doch dann in 20 Jahren mit dem alten Metall noch viel Geld machen.
+Aber das ist so etwas, bei Ikea muss alles nach bestimmten Themen funktionieren.
+Das heißt, es sind angehalten, diese ganzen Montagesachen zur Gerichte möglich zu halten.
+Also die Staubanzeige eben zu halten.
+Es muss von Hand einschaubar sein und so weiter und so fort.
+Dann gibt es zum Beispiel Gestaltungslinien für die Produktion.
+Da habe ich vor kurzem eine Abschlussarbeit gemacht.
+Und zwar haben wir da eine Richtlinie geschrieben und haben gesagt,
+alles, was innerhalb von diesem Toleranzfenster ist, können wir selber verdienen.
+Alles, was aus diesem Materialien ist, können wir selber verdienen.
+Alles, was in diesem Größenbereich ist, können wir selber verdicken.
+Und dann haben wir eine Richtlinie aufgestellt für die Konstruktion,
+dass die wissen, ach, das dürfen wir machen und das nicht.
+Dann auch Design for Manufacturing, dass es möglichst schnell zu machen ist.
+Zum Beispiel, dass man sagt, statt jetzt fünf Schrauben zu verwenden,
+die alle unterschiedlich sind, können wir uns vielleicht auf den Standard einigen,
+dass wir immer die gleiche Schraube haben, um die Schraubenanzahl zu reduzieren,
+beziehungsweise die Variantenanzahl.
+Design for Safety. Ein ganz großes Thema.
+Sind Dinge so gemacht, dass sie sicher sind?
+Also, dass man kleine Teile nicht verschlucken kann.
+Dass man sich nicht selber verletzt und so weiter.
+Also, runde Kanten, runde Ecken.
+Oder dass man Ausschnitte macht, dass man den Kopf nicht anhaucht und all solche Dinge.
+Das kann man ja auch mit berücksichtigen.
+Dann, sind Dinge recycelbar? Das ist ja immer wieder ein großes Thema.
+Kann ich Akkus austauschen? Kann ich Dinge leicht reparieren?
+In den Zehnerjahren war es ja absolut die Mode, alles in Plastik einzuschweißen.
+Und dann konnten Sie als Verbraucher überhaupt nichts mehr daran erkennen oder machen.
+In den Nullerjahren war es tatsächlich so, dass nicht mal mehr die Lampen oder die Leuchten an dem Auto tauschen durften.
+Jetzt bei LEDs ist es nicht mehr so wichtig, weil die im Prinzip älter werden als das Auto an sich.
+Aber früher, als sie halt tatsächlich noch Glühlampen drin hatten, haben dann die Hersteller das Ganze sozusagen verkapselt.
+Vorteil, kommt kein Wasser rein. Aber Nachteil, man konnte das selber nicht mehr wechseln.
+Also ein großes Problem. Wie reparaturfähig ist denn das?
+Und da kann man natürlich noch viel weitermachen, Design vor. Also für was designe ich etwas?
+Also nehmen wir zum Beispiel Dinge, die Sie im Outdoor-Bereich brauchen.
+Design vor Dichtigkeit, dass es wasserdicht ist.
+Design vor, es muss besonders leicht sein.
+Also es ist etwas, wenn Sie viel unterwegs sind, dann wollen Sie im Rucksack leichte Dinge haben und nicht, dass es schwer ist.
+Und da gibt es unterschiedlichste Design-Richtlinien, die unterschiedliche Firmen füllen.
+Kennen Sie zum Beispiel Strauß-Fahne, das heißt dieses Kugel der Mottenmarke?
+Engelberg-Strauß, so heißt es, Engelberg-Strauß.
+Das ist dann etwas, wo man sagt, ja auf möglichst lange Lebigkeit.
+Inzwischen ist es sogar schon Kinderklamotten übergeschwappt.
+Also insofern brauchen wir die.
+Gut, das sind so die Rahmenbedingungen, die wir haben.
+Dann entwickeln wir, ähm, weiter ist es geschafft, weil es auch noch nicht ganz so gut ist.
+Aber okay. Also, wie wird entwickelt?
+Die Idealvorstellung ist natürlich, dass jemand eine Idee hat, ein Erfinder ist.
+Und dann diese Idee auf den Markt bringt und dann ganz erfolgreich wird.
+Das ist so diese romantisierte Vorstellung, wie Produkte zu uns kommen.
+Das war vielleicht vor 100 Jahren so.
+Da hatte Bosch eine gute Idee,
+oder Bosch hatte eine gute Idee,
+oder Manfred Siemens hatte eine gute Idee,
+oder sehr geehrter Herr Daimler hatte eine gute Idee,
+oder Benz hatte eine gute Idee.
+Und die haben dann ihr Produkt
+mit ganz viel Schweiß und Blut
+in die Firma überführt und verkauft.
+Heutzutage ist das Ganze kommerzieller geworden.
+Das heißt, am Anfang,
+steht erstmal eine Studie,
+was theoretisch
+ein Geschäftsfeld sein könnte.
+Und da ist immer die Frage,
+was möchte der Konsument jetzt als nächstes
+haben?
+Also da werden dann Marktschulen
+durchgeführt, da werden
+Ideen gesammelt,
+was könnten Sie als Konsument
+als nächstes wollen?
+Und das geht los mit,
+ach ja, Kaffeekonsum ist out,
+wir brauchen Energy-Konsum.
+Oder Sie wollen den Energy Drink nicht fertig gemischt in der Flasche haben, sondern Sie wollen jetzt Wasser mit Geschmack haben.
+Das ist ja das Neue. Es gibt ja immer so Pulver und Käpslchen und sonst was.
+Wie heißt das? Holy oder Waterdrop oder wie heißen die Dinger alle?
+Das ist ja explodiert in den letzten zwei Jahren.
+Also das ist das neue Ding, das wird jetzt vermarktet.
+Also wird überlegt, was will der Kunde in den nächsten zwei Jahren haben.
+Man wird darauf entwickelt, Produkte gefunden, Produktionen geplant und überlegt, wie kann so ein Produkt neu ausschauen, wie kann es neu entstehen.
+Das macht die Automobilindustrie. Alle sieben Jahre überlegen sie sich, wie muss das neue Automobil ausschauen.
+Dann wird eine Anforderungsliste erstellt, wie man diese Produkte umsetzen kann und zu guter Letzt werden Lösungsprinzipien gesucht, das Ganze wird konstruiert und dann in den Weinplan überführt.
+Und dann hat man hoffentlich ein Produkt, was wir gründen möchten.
+Also momentan wird ja, glaube ich, jeder große Elektronikhersteller arbeiten gerade an Platten.
+Oder? An faltbaren Monitoren.
+Nicht doch, oder?
+Also das ist gerade so das Ding, Samsung ist da glaube ich der Vorreiter, aber Apple arbeitet auch an Platten.
+Ja, das neue, ganz schmale ist der Vorreiter, wenn so ein Platten.
+Also insofern, Apple 17 ist es, oder?
+Ich habe irgendwann bei Apple 10 auch gehört zu zählen.
+Ich bin kein Apple-Hund, deswegen weiß ich es nicht.
+Aber das ist so etwas, man fragt sich, was wollen die Kunden und Sie als Kunde,
+haben bitte in den nächsten zwei Jahren Klapphandys zu wollen, nur damit Sie wissen, was auf Sie zukommt.
+Okay? Sie müssen als nächstes Klapphandys wollen.
+Okay. Und das wird dann eben hergestellt.
+Und das machen Firmen gezielt.
+Die gehen raus, überlegen sich, was wollen die Kunden als nächstes haben, das wird entwickelt und verkauft.
+Und das ist der sogenannte Produktentstehungsprozess, findet, volieren statt
+und muss halt natürlich immer wieder überprüft werden, ob das Produkt, das wir machen, auch sinnvoll ist.
+Das machen wir in der Vorlesung International Sales Management, so ein bisschen das Thema Produkt.
+Und dann muss ich mir immer wieder überlegen, was für eine Branche bin ich.
+Ganz häufig, die meisten Firmen arbeiten in der sogenannten Produktbranche.
+Die stellen ein Standardprodukt her, auf ihrem eigenen Wachsgelände und verkaufen das dann an die Massen.
+Und dann gibt es drei Sonderbereiche, zum Beispiel Systemproduzenten, die sagen, wir gehen auf den Kundenwunsch zu und machen individuell geschneiderte Systeme.
+Das ist dann die Systemproduktion.
+Oder wir bauen vor Anlauf Anlagen auf. Das ist der Großmaschinenbau. Dazu zählen zum Teil der Büro, dazu zählt der Volk, der die Papieranlagen macht, dazu zählt aber jeder, der im Großanlagenbau tätig ist, der beim Kunden Anlagen aufbaut.
+Und dann haben wir noch Art-of-Sale-Service, das sind Leute, die Standardprodukte herstellen,
+zum Beispiel Waffen anbieten, aber das beim Kunden machen, also Standardaustausch und so weiter.
+Das sind so ein bisschen die logistischen Geschäftsarten, das meiste sind aber tatsächlich Produkte,
+die entwickelt werden und am Großteil der Leute verkauft werden.
+So, die nächsten zwei machen wir noch, dann hat sich die für heute laufend, weil sie fleißig waren.
+Wie funktioniert das jetzt, wenn ich weiß, was ich herstellen möchte?
+Nehmen wir mal einen Blick, was wollen wir heute mal herstellen, die Autos sind immer so kompliziert.
+Stellen wir uns mal vor, wir wollen eine Wasserflasche herstellen.
+Was jeder von Ihnen als eine Wasserflasche vor sich steht, nehmen wir mal so eine Metallwasserflasche.
+Da brauche ich einen Metallkörper und ich brauche so einen Plastikdeckel.
+Das heißt, das ist das, was ich herstelle, ich stelle jetzt Wasserflaschen her.
+Und jetzt sage ich, muss ich mich entscheiden, möchte ich diese Dinge selber herstellen oder kaufe ich zu?
+Ich kann jetzt ja im Prinzip so eine Metallhöhle einfach zukaufen und selber, wenn ich möchte, entsprechend hinbiegen, wie ich das brauche.
+Also ich kaufe so ein Rohling und dann tiefziehe ich das Metallteil selber.
+Oder ich kann eine Anfragestellung sagen, ich nehme einen Fachbetrieb für Tiefziehgüter
+und kaufe mir dann eben dieses tiefgezogene Blech zu.
+Und dazu stelle ich eine Anfrage mit Lastenheft.
+So ein Lastenheft steht in der Regel, wenn was ich möchte.
+Und das ist der ganz große Unterschied zwischen Industrie und Konsumentenbereich.
+Sie als Konsument machen ganz selten eine Liste, auf der draufsteht, was ein Produkt
+können muss. Gehen wir mal davon aus, heute geht Ihr Smartphone kaputt. Okay? Wenn heute
+Ihr Smartphone kaputt geht, was machen Sie dann? Ich behaupte mal, 90 Prozent sagen,
+oh mein Gott, ich muss mir sofort ein neues kaufen, oder? Wenn Ihr Smartphone jetzt kaputt
+geht, oder? Vielleicht sagt sie, oh mein Gott, ich habe das 1-Jahre-Alte noch, vielleicht sagt sie, okay, dann nehme ich halt noch kurz das Alte.
+Aber die meisten laufen panisch los und kaufen sich ein neues Smartphone.
+Mediamarkt-Zeit lang.
+Und dann stehen sie da vor dieser Reihe von Smartphones.
+Und dann stellen sie einen fest, ich habe gerade keine Ahnung, oder?
+Und dann fangen sie an zu überlegen,
+Kurz mal brainstormen. Was muss ein Smartphone heute haben oder können?
+Was sind Leistungsmerkmale eines Smartphones?
+Sie müssen jetzt nicht den aktuellen stellen, aber sagen Sie mir einfach mal, was ein Smartphone zu einem Smartphone macht, das Sie von anderen unterscheidet.
+Akkulopseit ist was ganz Wichtiges. Was noch?
+Kamerakarantin. Was noch?
+Performance, wie schnell ist der CPU, was noch? Haptik und Design, was noch? Speichern, genau, Speichern, was noch? Das Wichtigste habe ich noch gar nicht gehört.
+Preis, auch ja, ist auch wichtig, was noch? Bildschirmgröße, oder? Marken, Image, genau, manche sagen, oh mein Gott, mit einem Punkt, Punkt, Punkt will ich nicht gesehen werden.
+Genau, was noch?
+Wie schwer es vielleicht ist, oder?
+Ja, also ich meine, es gibt ja auch sowas, wie die DIN ist.
+Wollen wir sonst noch was?
+Die Anschlüsse, die da sind vielleicht.
+Ist vielleicht eine Speicherplatte erweiterbar?
+Ja, nein.
+Ist vielleicht ein Akku tauschbar?
+Vielleicht.
+Ist das auch ein Argument, das Sie brauchen?
+Aber das sind alles so Merkmale, die gehen Sie dann zumindest im Kopf durch.
+In der Industrie wird das niedergeschrieben.
+Da steht genau drin, ich möchte jetzt ein Smartphone kaufen
+und das muss das und das und das und das und das und das haben,
+muss und das noch wäre Option.
+Und das ist dann das Lastenheft.
+Das ist der Wunschzettel der Industrie.
+Das steht im Lastenheft.
+Und dieses Lastenheft schicke ich dann an verschiedene potenzielle Lieferanten.
+In Ihrem Fall würden Sie also Ihre Lastenhefte an Samsung, Apple, Huawei, Xiaomi und was weiß ich alles schicken und die sagen dann, wir können Ihnen folgende Handys anbieten und die können das.
+Und das ist dann das Pflichtenheft.
+Die sagen dann, die beantworten dieses Lastenheft mit dem, was sie leisten können.
+Das ist das Pflichtenheft.
+Wir verpflichten uns, diese Leistung zu erbringen.
+Und da steht dann der Preis dahinter.
+Und jetzt ist es Ihre Aufgabe als Unternehmen herauszusuchen, von den verschiedenen Angeboten
+mit Pflichtnerven, die Sie bekommen, welches am besten zu Ihrem Lastenheft passt.
+Es gibt ganze Themen, da ist es ganz einfach.
+Zum Beispiel, wenn Sie Papier einkaufen.
+Papier ist DIN A4, 80 Milligramm, und da kommt es eigentlich nur auf den Preis drauf an.
+Wenn Sie aber technisch komplexe Produkte einkaufen, dann wird das Vergleichen zwischen Lastenheft und Pflichtenheft, also das, was ich möchte, zu dem, was ich bekomme, immer schwieriger.
+Und das ist eine ganz große Aufgabe vom Einkauf.
+Und da muss man sich immer wieder bewusst bleiben, je mehr Anforderungen ich in so ein Lastenheft schreibe, umso teurer wird es dann natürlich auch hier unten.
+Wenn Sie da oben reinschreiben in Ihr Lastenheft, mein Smartphone muss mit Grün sein, dann
+sagen vielleicht die einen oder anderen Lieferanten, können wir nicht, machen wir kein Angebot.
+Oder Sie schreiben rein, Sonderlackierung 50 Euro und schon wird es teuer.
+Wenn Sie da oben reinschreiben, Sie haben ganz enge Toleranz in einem, etwas was Sie
+einkaufen, da schreiben die rein, können wir machen, kostet extra.
+Deswegen muss man sich beim Lasten einfach ganz viele Gedanken machen. Möchte ich das wirklich?
+Und ich wette von Ihnen, Sie sind alle schon mal losgezogen und hatten im Kopf einen Wunsch.
+Das möchte ich mir jetzt kaufen. Oder haben im Internet schon mal nachgeschaut. Das möchte
+ich mir jetzt kaufen. Und dann sehen Sie den Preis, und denken Sie, oh, ist das teuer. Und
+dann gucken Sie nach, warum das so teuer ist. Und dann stellen Sie fest, ach, weil ich den
+Sonderwunsch habe, ist das so teuer. Weil das ist eine besondere Farbe, eine besondere Dimension,
+eine besondere Herstellung und sonst was essen.
+Deswegen ist es zu teuer. Das Ganze gibt es auch
+und billig. Aber da muss ich
+eine Antworten zurückschauen.
+Und genauso ist es in der Industrie auch.
+Man muss sich ganz genau Gedanken machen,
+was möchte ich einkaufen
+und wenn ich das weiß,
+weiß ich auch den Preis und dann muss ich auch
+zum Teil wissen, warum wird etwas teuer.
+Und das ist
+Lastenheft und Pflichtenheft.
+Wie gesagt, das Lastenheft
+ist der Wunsch. Der Pflichtenheft ist das, was der Lieferant erfüllen kann. Genau, und der Kunde, unser Kunde, der macht dasselbe für uns. Der Kunde schreibt auch, er hat bestimmte
+Wünsche. Nur, wir als Endkonsument beschreiben es in den seltensten Fällen tatsächlich auf, dass wir das haben. In so Anfrageunterlagen, da ist ganz schön viel drin. Also, da werden dann zum Beispiel
+Typgezeichnungen schon genannt. Die Mengen müssen da drin stehen. Die Materialarten. Also wenn ich
+jetzt zum Beispiel so eine Wasserflasche habe mit so einem Tiefziehblech, dann möchte ich natürlich
+wissen als Lieferant, wie viel muss ich da herstellen? Zehn, hundert, tausend, eine Million?
+Dann, was muss das für Material sein? Ist das Edelstahl? Ist das Weißblech? Ist das Weißblech
+irgendwie geschichtet oder sonst was? Ist es vielleicht doppelwandig und solche Themen? Das
+Es macht alles wieder einen Preis aus.
+Dann ist die Oberfläche irgendwie bearbeitet.
+Ist es jetzt nochmal nachbearbeitet?
+Ist es geschliffen?
+Ist es lackiert?
+Dann muss man auch meistens angeben,
+wie wird es weiterverarbeitet?
+Weil wenn ich es dann weiterverarbeite und nochmal biege,
+dann wird vielleicht die Oberfläche beschädigt.
+Und dann muss ich die Garantien zurückschauen.
+Dann, gibt es irgendwie
+eine Zeichnung dazu, eine Beschreibung?
+Welche Garantien möchte ich?
+Wenn Sie eine 10-Jahres-Garantie haben,
+Da wird es in der Regel teurer, als wenn Sie nur eine 5-Jahres-Garantie haben.
+Zurück zu BWL.
+Was ist der Unterschied zwischen Garantie und Gewährleistung?
+Wissen Sie es noch?
+Gewährleistung ist technisch vorgeschrieben.
+Also es ist vom Gesetz her verpflichtend.
+Sie sind als Hersteller verpflichtet, eine Gewährleistung auf die technische Funktionalität
+Ihrer Produkte zu geben, in der Regel für zwei Jahre.
+Das heißt, wenn ich Ihnen ein Handy verkaufe, muss ich Ihnen sagen, dass es zwei Jahre in der Funktion so funktioniert.
+Eine Garantie darf ich Ihnen versprechen, aber wenn ich es Ihnen versprechen, muss ich es auch halten.
+Ich sage, ich garantiere Ihnen, dass es dem zehn Jahre nicht kostet.
+Wenn es so ein Klassiker ist, wird es auch nicht kosten.
+Aber dann kann ich Ihnen die zehn Jahre der Kostungsgarantie auf die Hände geben.
+Die Garantie ist freiwillig, aber die muss ich dann halt auch einhalten.
+Die Familie gibt zum Beispiel 10 Jahre Garantie, ob ihr auf die Waschmaschine geht.
+Und wir sagen, für 10 Jahre wird diese Waschmaschine laufen.
+Dann, wie muss es verpackt werden? Darf ich das als Schriftgut anliefern oder muss ich das einzeln separiert in Wattebausch verpacken?
+Ein ganz großer Unterschied.
+Weil sobald ich was separiert verpacke, wird es teurer.
+Sobald ich was gegen Regen verpacke, wird es teurer.
+Sobald ich was im Mehrweg verpacke, verpacke ich was teuer.
+Wie wird gezahlt? Wird sofort gezahlt, Vorauskasse ist in den Ländern am billigsten,
+Sofortzahlung ist billig, aber sobald ich Zahlungsziele habe, 30 Tage, 60 Tage,
+oder in der Industrie sogar 120 Tage, ja, dann wird es unter Umständen auch teuer.
+Wie wird es versendet? Ex-Work versus, man steht da noch drauf, BDP,
+also zahle ich die Kosten, zahlt der Empfänger die Kosten.
+Das bleibt sehr bei Amazon. Sobald Sie 29 Euro bezahlen und Sie sind nicht Amazon-frei, dann ist es meistens auch kostenfrei.
+Und hier in der Rundfunk-Union war kostenlos Amazon-frei?
+Halber Preis.
+Halber Preis, ja.
+Dann hier war es auch kostenlos. Ne, bei mir gab es auch gar kein Amazon-frei.
+Aber vor zehn Jahren war die Studentenversion von Amazon-frei noch kostenlos.
+Ja, das hat man gesagt.
+Okay.
+Das ist ein bisschen mehr drin.
+Dann wie schaut der Erfüllungsort aus? Wenn Sie es in Deutschland versenden, ist es billiger als wenn Sie es weltweit versenden zum Beispiel.
+Gibt es Rabatte, Skonti oder Bonus? Also kann man irgendwas abziehen? Mengenrabatt, Vielnutzerrabatt oder sonst was?
+Gibt es ein Skonto, wenn man sofort bezahlt, anstatt fast in einem Monat? Und dann natürlich auch Liefertermin. Sofort ist meistens teurer als in einem Monat.
+Also all solche Themen muss ich natürlich bei einer Anfrage klären, weil wenn ich das nicht mache, dann sind wir wieder in einem rechtsleeren Raum und es kann ganz viel Missverständnis ergeben.
+Ja, und sonst haben wir noch Lastenhefte drin, Zeichnungen oder Normen und der Lieferant bestellt dann das Angebot und das Pflichtenheft auch als Antwort auf das Lastenheft.
+So, und dann kann man sich entscheiden, ob das Angebot anmüdet oder nicht.
+Da wird schon ganz, ganz schön viel Arbeit, so ein Lastenheft zu schreiben und dann daraus ein Fichtenheft.
+Ich darf Ihnen mal noch ganz kurz ein Lastenheft zeigen.
+Ich habe es abgedreht, ich darf es nur vorlesen und zeigen, aber ich darf es nicht ausgeben.
+Und zwar, das ist mal so von einer BWB-Gruppe und dann stehen hier die Themen drin und dann
+steht halt hier, um was geht es da.
+Das Lastenheft, da wird erstmal generell alle Definitionen und Abkürzungen, gesetzliche Vorgaben erklärt, wie das Dokument aufgebaut ist, dann was der Entwicklungsumfang ist, also was angeschaut wird, dann die Variantenvariante definiert, welche Gleichteile, dann wird es um Qualität und Zuverlässigkeit, dann die Umweltverdienlichkeit, welche Umgebungsbedingungen sowas aushalten muss, also Betriebstemperatur, ob es recycelbar ist, das Gewicht, wie schwer es ist, all das wird da definiert.
+Sie sehen, das Lastenheft allein hat schon 22 Seiten.
+So, man wird hier erstmal das Allgemeine gesagt, immer Deutsch und Englisch.
+Das ist erstmal alles langweilig.
+Dann hier alle Referenzgruppen und Normen.
+Also zum Beispiel, da wird dann hier die interne Werksnorm genannt.
+Dann werden noch andere Normen genannt.
+BMW-Normen, VDA-Normen.
+All das hier wird dann aufgeführt.
+Gesetzliche Vorgaben werden genannt.
+die erfüllt werden müssen.
+Baugene Art Genehmigung für Fahrzeugteile,
+die Nord, die wissen alle,
+die sind jetzt gesetzt, die wissen alle, die ja auch
+selber binden und ihre Vorredner,
+die Staaten sich einzuhaben.
+Dann was wird entwickelt?
+Also man sieht, es ist ein ganz läppisches Bauteil.
+Es ist nichts, es ist der Querschnitt und es ist
+nichts anderes als ein aufgeblasener
+Schlauch. Mir ist das nicht.
+Und dann werden wir
+mit der Teilbezeichnung
+und dann geht es hier richtig los,
+wie das auch anscheinend läuft.
+Also die Zuverlässigkeit, das muss mindestens 10 Jahre halten,
+ohne 150.000 Kilometer.
+Dann zum Beispiel die Betriebstemperatur bis minus 30 und 80 Grad.
+Und dann muss es einmal auf eine Stunde 110 Grad aushalten,
+so ein Bauteil.
+Dann muss es umweltverträglich sein,
+dann bei Emissionen darf es haben,
+das Recycling, Betriebssicherheit, Produktsicherheit.
+All solche Themen sind dann aufgeführt.
+dann wie das Gewicht sein, wie muss die Teilenkennzeichnung sein, was für Toleranzen, also das ist ein
+Lastenheft.
+Da steht alles drin, was BMW von uns als Lieferant an diesen Bauteil gefordert hat.
+Und wir mussten uns da Gedanken machen, können wir das erfüllen?
+Und dann haben wir einen Pflichtenheft geschrieben und haben gesagt, können wir alles machen,
+aber unser Bauteil, Herr Doppel, ist von Betrag aus.
+Oder können wir alles machen, aber die Toleranzen können wir nicht erfüllen.
+Sowas steht dann da drin.
+Und dann hatten wir da einen Preis drin, dann war die Dokumentation, dann die Korrosion, wie lange darf das ausschauen, wie schaut die E-Montage aus, all die Themen standen da drin.
+Und das ist dann die Einlassung.
+Gut, das nächste Mal machen wir dann weiter mit dem Thema Kontrollen an der Stelle.
+Und das nächste ist immer Auflagegröße, das ist immer spannend, also wie viel machen wir, das ist ganz, ganz wichtig.
+Und wir freuen uns, Sie wiederzusehen. Bis nächsten Dienstag. Auf Wiedersehen.

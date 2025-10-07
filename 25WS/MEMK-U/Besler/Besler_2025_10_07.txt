@@ -1,0 +1,533 @@
+Wir sprechen abgekürzt Maschinenelemente und Maschinenveranstaltungen und Übungen.
+Es gibt eine Vorlesung dazu.
+Professor Hoffmann macht das, gell?
+Ja, schon.
+Das heißt, das ist immer ein geschlossener Teil sozusagen.
+Vorlesung.
+Und zur Vorlesung gibt es eine Prüfung.
+Und zur Übung gibt es eine sogenannte PSA, Prüfungsstudienarbeit.
+Schon seit vielen, vielen Jahren so.
+Ich darf mich kurz vorstellen. Mein Name ist Florian Wesler.
+Ich habe dieses Modul, wenn man so möchte, das Teilmodul, vor ein paar Jahren übernommen.
+Ich habe das eigentlich so fortgeführt, zumindest was die Aufgabenstellung betrifft.
+Inhaltlich ändert sich das immer wieder mal. Wir werden hier etwas entwickeln.
+Ein Entwicklungsprojekt ist das. Und das ist eigentlich, wenn man so will, ja seit vielen, vielen Jahren eben so losgelöst von der Vorlesung.
+Gibt es eine kleine Schnittmenge, aber es ist eigentlich so, dass Sie die Vorlesung meine Zürcher machen können und viele Zürcher später die Übung dazu.
+Weil es nicht direkt voneinander abhängt. Also dementsprechend eigentlich ein separates Modul ist, was man halt dann sagt,
+Ja, sicher, man braucht irgendwann eine Entwicklungsarbeit, klar, und diese Entwicklung ist halt hier in diesem Punkt verankert.
+Ja, zu dieser gesamten Übung, ich habe es vorher schon kurz offen gehabt, da gibt es einen Moodle-Kurs,
+Dann dieser Mukilkurs, der sollte für alle sichtbar sein.
+Memc-ü genannt und Memc-et-wesler wäre hier dann der Zugangsschlüssel.
+Schauen wir mal, ob das für alle klappt.
+So sieht er kurz aus.
+Und wenn man reinschaut, dann möchte man das hier finden.
+Das heißt, das wäre der erste Schritt für alle, den Modulkurs zu finden und sich da mit dem Passwort einzuloppen.
+Das hat soweit schon mal funktioniert.
+Passwort ist da noch mal zu sehen.
+Ich glaube, das kommt uns da rein.
+So, genau.
+Da hinten stehen die hohen Prozentenstühle.
+1, 2, 3, in 1, 3.
+Oder gleich im Tauschen.
+Wenn er ganz vormittags da herrennt, dem empfehle ich das mal.
+Das macht dann einen Standardraum.
+Die haben wir letztes Semester extra schön vorgeführt.
+Wahrscheinlich, ja, alle.
+Denn eigentlich steht nicht jeder drauf, was man will.
+Aber hat eine ganz fleißige Lerngruppe da, gell?
+So.
+Ja, die Aufgabenstellung. Welcher ist der nächste Punkt? Die Aufgabenstellung.
+Die finden wir in den Modikurs, wo wir drin sind, nämlich unter Aufgabenstellung.
+So, dann schauen wir uns die mal an.
+Da gibt es ein Deckblatt und das Deckblatt enthält beinahe den Aufgabenteil, das Abgabedaten und verschiedene Bearbeiter.
+Wir sehen schon, 1, 2, 3, Schlüsse sind da frei, das heißt, wir machen 3er Gruppe, wunderbar, 6 Leute, passt das perfekt, ok?
+Sie müssen sich zusammenfinden, 1, 2, 3, 1, 2, 3, wir immer da hinten, wie Sie sich da formieren, müssen wir nächste Woche verstehen, ok?
+Das heißt, Sie können es nachsprechen, wie immer, vielleicht kommt Ihnen einer dazu, dann hätten wir ein Problem, weil mit 4, ja, Gott sei Not auch.
+Jedenfalls machen wir eine 4er Gruppe, also eine 2er Gruppe.
+Weil sonst reicht schon ein bisschen viel Arbeit für zwei.
+Aber wie gesagt, normalerweise werden viele nicht kommen.
+Eine Person kommt noch.
+Aha, dann hätten wir schon eine 4er Gruppe.
+Das müssen wir in den nächsten Wochen erklären, final mit der Gruppenfestlegung.
+So und dann, letztendlich gibt es verschiedene Abgabestufen.
+Drei Mal müssen wir was abgeben hier und das ergibt dann die gesamte Note, die gesamte SA.
+Da kommen wir aber gleich dazu.
+Immer mit Deckplatten findet die einen Sinn.
+So, jetzt heißt es da Konstruktion und Entwicklung.
+Also diese zwei Sachen war es.
+Eigentlich müsste man es umdrehen.
+Natürlich findet zuerst die Entwicklung statt.
+Und dann die Konstruktion darauf.
+von einer neuartigen Radnaben-Radlagereinheit.
+Zwei Begriffe drin.
+Kommst du schon?
+Hallo?
+Radnaben-Radlagereinheit.
+Dieser Begriff ist hier fixiert.
+Und den müssen wir natürlich immer im Hinterkopf behalten.
+Das sind gerne Frontgeliebte.
+Deswegen habe ich hier auch das Modell dabei.
+Und wenn man das Modell dann letztendlich jetzt gleich mal zerlegt, das können wir ja machen, dann werden wir feststellen, da muss wahrscheinlich ein Radlager drin sein und danach eine Radnarbe, wird auch drin sein.
+Und wenn man das beides zusammenfügt, dann wird das eine Einheit und das soll letztendlich eine Entwicklungsaufgabe sein.
+Ausgehend von der anderen Technik soll die Einheit darauf gegrätselt werden, dass sie als Systemintegration der Komponenten Radnabe, Radlager und Radlagergehäuse ausgeführt wird.
+Hinsichtlich der Merkmale konstruktiver Aufbau ohne Verwendung eines Weltsnitbundes.
+Das heißt, wir werden jetzt auch gleich mal recherchieren und ein paar Sachen anschauen und eine Marktanalyse machen.
+Dann werden wir sehen, dass so Einheiten häufig mal eben durch diesen sogenannten Weltsnittbund ausgeführt sind.
+Und das wollen wir umgehen. Da geht es um patentrechtliche Sachen.
+rechtliche Sachen, klar, Patentschutz steht da drauf, den Weltschnittboden bzw. hat man auch noch konstruktiv,
+ein bisschen fertigungstechnisch, Nachteile bzw. Schwierigkeiten. Da wollen wir uns was Neues ausdenken.
+Neuer Ansatz, der Schnittstelle zur Ankriebswelle und zum Axträger, das heißt auch hier werden wir diese
+Schnittstelle neu aufbauen, vielleicht finden wir eine Möglichkeit beides miteinander zu verknüpfen,
+Wäre natürlich ideal.
+Vakuumaufwand, Montage, Demontage, Laufverhalten, Reihungsverhalten,
+die Reihung natürlich in dieser Lagereinheit.
+Schnittstelle zur Antriebswelle und Wachsträger.
+Diese Noise, Vibration, Harshness-Verhalten, also das muss leise laufen,
+das muss keine Geräusche machen und davon nicht irgendwo Vibrationen auslösen,
+die sich natürlich dann auch über die ganze Intraraufhängung und der Karosserie zum Innenraum fortsetzen.
+Reduzierung an Baureihe und Gewicht, der Aueraspekt, den man beachten kann,
+also das ganze kompakter gestalten, wie es jetzt schon ist,
+Kompaktheit, heiß, weich und drauf, weniger Gewicht dementsprechend.
+Verlegungsaufwand natürlich, kann man drauf schauen, an seine Bauelemente.
+Und das soll hinsichtlich dieser Aspekte eine Optimierung oder Verbesserung zu den am Markt befindlichen Produkten darstellen.
+Das wäre sozusagen die Aufgabe.
+Und hier gibt es noch eine kleine Vorgabe, nämlich
+Ein Konstruktionsschema, wo wir sagen, wir haben eine Säberschnittstelle zum Achsträger,
+das wäre die hier, die gibt es noch nicht bzw. das heißt noch nicht, das Modell ist
+ja da.
+So schauen wir uns das Ganze mal an.
+Das heißt, wir fangen an, das Ding zu zerlegen.
+So, wir haben die Einzelteile.
+Natürlich dann auch anschauen.
+Als allererstes
+muss die Bremskange
+rechts.
+Die brauchen wir gleich.
+Die brauchen wir hier.
+Genau.
+So.
+Die brauchen wir gleich am Schnee hinterher.
+Danach.
+So, dann, was man nicht braucht, ist logischerweise die Bremsscheibe, die können wir auch bauen.
+Die Bremsscheibe ist letztendlich irgendwo auf der Nadel.
+Das heisst, da werden wir wahrscheinlich keine Schnittstelle haben.
+Das heisst, das wird letztendlich diese Nadelbandeinheit sein.
+Und da wird es demnach ganz anders aussehen. Das ist die Standardregel.
+Da brauchen wir nichts zu tun.
+So, und jetzt wird es schon interessanter. Was kommt da raus? Was ist das für ein Bauteil da?
+Was sich jetzt da dreht. Das ist tatsächlich die Nabe.
+Wer selber einen Preisentwechsel schon gemacht hat vom Fahrzeug, der blickt wahrscheinlich genau auf dieses Bauteil.
+und der sieht natürlich dann die Nabe, die sehr aufbaut ist, beziehungsweise diese Eintracht drin.
+So, und wenn man die Nabe jetzt auch noch rausbaut, müssen wir dann noch den Schraublauch machen.
+Ja, das ist ja demontierbar gestaltet, das Ganze, also dass man tatsächlich nachschauen kann.
+So, dann haben wir nämlich genau den Punkt.
+Jetzt, alles was ich auseinander baue, hat irgendwo Führungsflächen, Funktionsflächen,
+und das sind immer die Schnittstellen-Untergänge.
+Das heißt, sobald ich das Ding jetzt hier aufmache, haben wir hier schon die erste Schnittstelle.
+Ja, und dann logischerweise bauen wir das auseinander und dann wird das hier die Antriebswelle.
+Ja, Antriebswelle mit einem gewissen Wellenprofil.
+Ja, und da heißt es ja letztendlich, das soll man verbessern.
+Das heißt, diese Schnittstelle, Antriebswelle und zum Achsträger.
+Das heißt, das ist die eine Schnittstelle, Standardprodukt, ja, mit natürlich einer gewissen Dimension, gewissen Fertigungsaufwand.
+Sie müssen hier sozusagen dieses Zahnblendenprofil irgendwo fertigen und das wollen wir natürlich dann auch möglichst neuartig gestalten.
+Also diese Schnittstelle und die andere Schnittstelle, ja, die gibt es hier nicht, weil, ich kann jetzt hier das Lager rausziehen,
+Also die Nabe aus dem Lager rausziehen und Sie sehen schon, dann haben wir die nächste Schnittstelle, das ist das Lager.
+Das ist jetzt auch recht verbaut, das Radlager.
+Im Normalfall wird es hier eingepresst mit einer hohen Presskraft.
+Und dann ist es so gleich fest, wenn Sie es zerlegen wollen, wenn das Radlager defekt ist, muss man alles wieder auspressen.
+Und dann das neue Rasenlager einpressen und danach noch die Nabe einpressen, das ist ein sehr, sehr hoher Aufwand, den wollen wir natürlich vermeiden.
+Das heißt, hier braucht man eine Integrationslösung, wo sozusagen das Lager direkt hier mit drauf ist.
+Wenn wir es mit Eisen pressen wollen, dann müssen wir uns eine andere Methode überlegen, wie wir das bügeln.
+Das heißt, hier gibt es dann auch noch Fügetechnik.
+Das heißt, der Pressverband ist ja Fügeverfahren, wenn man es so möchte.
+Wir pressen das da ein und das wollen wir umgehen.
+Also müssen wir uns ein neues Fügeverfahren überlegen.
+Wie könnten wir es sonst machen?
+Haben Sie auch noch eine Idee, wie kommt das da ran, ohne dass wir es einpressen?
+Können wir uns ja auch genügend überlegen die nächsten Wochen.
+Bis zur Aufgabe haben wir noch ein bisschen Zeit und hier entstehen die Ideen.
+Das ist die Ideenschmiede dieses Silvester.
+Jetzt könnte man sagen, ja gut, Aufgabe ist kurz vor Weihnachten,
+sehen wir uns kurz vor Weihnachten wieder, gell?
+Würde theoretisch funktionieren, weil Sie selbstständig ja eigentlich dann sich an dem Projekt beteiligen können.
+beteiligen können. Aber natürlich fällt einem da momentan nichts ein dazu.
+Brauchen wir ein bisschen einen Ablauf. Und dieser Ablauf ist letztendlich
+die Aufgabenstellung in der Abfolge. Und wenn man die Aufgabenstellung
+in der Abfolge anschaut, dann ist die immer gleich. Egal welches Projekt
+die man macht. Wir haben ja letztes Jahr uns auch mit dem Thema beschäftigt.
+Wir haben ein, zwei der Details natürlich dann verbessert oder anders formuliert in der Aufgabenstellung,
+weil wir uns explizit mit diesen Fünfteilnahmen beschäftigen.
+Also hier Antriebswelle und Achsträger und natürlich dieses Auflösen von diesem Weltsymbol.
+Das ist auch klar und dementsprechend gibt es einen Ablauf.
+Ablaufplan, wenn man so möchte, in der Konstruktion und das wäre diese Ausgabenstellung.
+Das heißt, wir fangen jetzt an mit dem Teil 1. Wir machen eine Marktanalyse.
+Wir schauen jetzt im Netz nochmal nach, was gibt es überhaupt.
+Wir analysieren den Stand der Technik und werden hier vergleichen und bewerten, so steht es da,
+Vier ähnliche Produkte in der tabellarischen Übersicht.
+So, dann machen wir weiter mit Punkt 2.
+Machen wir Antwortungsliste, Auslegungsdaten und Schnittstellen-Definitionen.
+Werden wir hier über Datenblätter feststellen.
+Dann schauen wir uns Patente an, tatsächlich.
+Ob hier was patentiert ist, welche Patente nicht in Ansprüche hier vorliegen.
+Nun dann recherchieren wir tatsächlich mal was an einem Modell.
+machen wir eine Modellanalyse, das ist nämlich hier alles, was dauert, wir schauen uns tatsächliche
+Modelle an und von diesem tatsächlichen Modell werden wir Passagen ausmessen und dann gibt es
+eine Zeichnung am Ende, sodass wir eine Grundlage legen, wie ist der Stand der Technik, der momentan
+vorherrschend ist und das sozusagen mit allen funktionswichtigen Maßen einmal, sagen wir
+CRB das Ganze abbilden. Und hier kommen wir dann an Zeithorizont für diese Abgabe, das heißt der Teil 1,
+wenn Sie das jetzt so wollen, die Konstruktionsanalyse, sollte am 6. Termin am 11.11. die Stöckzeit, dass wir den hier abgeben.
+So, und jetzt ist es halt so, dass in dem Moment, wo Sie halt hier abgeben bzw. sich jetzt hier zusammen
+und dann einen Teil bearbeiten.
+Damit haben Sie eigentlich diese PSA begonnen.
+Dann müssen Sie es auch abschließen.
+Das heißt, Sie können nicht nach dem 2-1-1-Studio sagen,
+ja, jetzt tauchen wir da noch in den Gang.
+Und fluchartig den Raum zu verlassen, bringt doch nichts mehr.
+Das heißt, wenn Sie Antreten haben,
+entweder Sie entscheiden sich gleich,
+machen wir nächstes Semester oder wie auch immer,
+oder wenn Sie im Prinzip die erste Gruppe abgegeben haben,
+die Gruppe abgegeben und sich diese Gruppe sozusagen in sich bewertet, oder wird in sich bewertet.
+So, dann gibt es am zweiten Teil, also wir sehen beim ersten Teil gibt es 30 Punkte.
+Der zweite Teil kommt dann hier wieder komplett neu los.
+Wenn wir eine Funktionsstruktur erstellen, wenn wir morphologische Kasten erstellen,
+dass wir eine perfekte perspektivische Freihandskizze anfertigen.
+Und dann war das Ganze, wenn ich das verstehe, in Deutschland ist ja schon der Grundgedanke ihrer Konstruktion vollständig ausgearbeitet.
+Über Skizze, mehr braucht man nicht am Anfang.
+Und das können wir uns dann schön präsentieren und können ein paar Überlegungen noch präsentieren, vorab Handskizzen dementsprechend.
+Und dann können wir darüber diskutieren, was Sie ausarbeiten.
+Und diese Präsentationstermine habe ich am 10. und 11. Termin festsetzt.
+9.12. bis 16.12. des Reichtums.
+Da sind ja Kleingruppen immer noch da durch.
+Deswegen der 23. im Gartenfall.
+Schauen wir, dass man frühzeitig fertig ist.
+Und den zweiten Teil, letztendlich diese Teile hier,
+geht es an dem Tag ab, an dem Tag der Präsentation besteht es dann.
+Dann haben wir im Prinzip die Konstruktionsausarbeitung.
+Sie sehen, die ist ein bisschen mehr gewichtet, 30, 30, 40 Punkte.
+Und da machen wir dann tatsächlich noch eine Berechnung dazu.
+Also die Benzlageberechnung, da haben wir dann die Schnittmengen
+für die Maschinenelemente und dann machen wir auch eine Baugruppenzeichnung,
+sodass wir alles beieinander haben zum Schluss.
+Und die Abgabe am Ende ist dann 13 Taschen.
+Das sind ungefähr 26 Taschen.
+So, dann haben wir hier ein paar Hinweise noch.
+Drei Personen bitte zusammenfügen.
+E. Wenn es geworden ist, dann klar, dann machen wir fertig.
+Dann muss man ja ein bisschen schauen, dass man halt von der Aufgabenverteilung noch ein bisschen etwas anpassen.
+Es müssen in der Gruppenarbeit individuelle Einzelleitstellungen erkennbar sein.
+Das ist im Prinzip wichtig, dass alle Mitarbeiter, alle müssen einen Teil dieser Gesamtarbeit erfüllen.
+Und das sollte dann eben namentlich gekennzeichnet werden, wer was ausgearbeitet hat.
+Abgabe mit dem gedruckten Format sind sozusagen immer mit dem Deckblatt vorne, nur mit dem Packer zusammen geheftet.
+Also nicht einordnen in irgendeinem Ordner oder sowas.
+Auch keine Kunststoffsachen.
+Keine Schnellhefter, Ordner haben gar nichts aus Kunststoff.
+Ich stapel das dann immer.
+Ich muss es ja aufheben, das ist ja eine Führungsleistung.
+Wenn dann zwischendurch so Kunststoffblätter eingebunden sind,
+dann rutschen die Stapeln auseinander.
+Also schauen Sie bitte, dass Sie da wirklich bloß packen,
+ganz einfach, bedeckt da dran.
+Gut, dann haben wir alles. Also Testadustermine, da können sich auch die Gruppen nochmal formieren, wie auch immer, zweite, dritte, letztendlich auch dann die Termine hier ein bisschen variieren, wenn man sechs Gruppen, wenn man den brauchen, logischerweise.
+Aufgabenstellung. Gibt es da auch Fragen dazu von Ihrer Seite?
+Händliche Ausarbeitung wie im letzten Jahr? Klar, wir werden uns mit dem Thema noch nicht beschäftigen.
+Wäre interessant und ja, weil wir an der Stelle natürlich dann ein, zwei Schwerpunkte setzen, logisch, sodass wir da auch nicht ganz gut durchkommen.
+Gut. Das heißt, da gehen wir mal raus und dann habe ich hier immer letztendlich so eine kleine PowerPoint-Präsentation, die wächst sozusagen während der Stunde bzw. währenddem wir hier arbeiten.
+Wenn wir irgendwo Ideen haben oder Fragen, dann kopiere ich da was rein.
+Das heißt, am Ende der Stunde kriegen Sie immer das aktuelle Dokument dann auf den Moodle,
+zur Vorbereitung beispielsweise für die nächste Stunde, sodass Sie immer dann up-to-date sind.
+Manchmal findet jemand was und dann stoßen wir irgendwo drauf und dann sagt der Mensch,
+ein ganz toller Artikel in irgendeiner Zeitung im Internet veröffentlicht, dann kopiere ich das da rein.
+Ansonsten, das Rohgerüst ist ziemlich ähnlich, das sich natürlich auch an dieser Aufgabenstellung handelt.
+Dann können wir mal genau auf den Präsentationsmodus, haben wir hier,
+das ist schon der Präsentationsmodus, das machen wir mal durch die Folie, genau, das heißt,
+schon mal starten, bereit, Aufgabenstellung, schau wieder.
+Das Thema neuartiger Ansatz, weil wir sind jetzt hier in der Kreisfeldindustrie, tief drin, Radlagehersteller, Schäffler-Gruppe.
+Schaffen wir da einen neuartigen Ansatz hier in der Gruppe, in Kempten, von meinem Sicht?
+gibt es einen neuartigen Ansatz
+wo beim Schäffler in der Abteilung
+250 Ingenieure
+arbeiten an dem gleichen Thema
+schon, oder?
+das ist immer möglich
+es gibt nichts, was es nicht gibt
+aber
+wir haben immer
+den Anspruch
+wenn wir eine Konstruktion machen
+die muss einen neuen Aspekt
+mit beinhalten
+Das ist im Prinzip unsere Grundaufgabe als Ingenieure.
+Was kopieren, bringt uns auch nichts.
+Wenn wir nicht die ersten sind, die es neu auf den Markt bringen.
+Das heißt, der Marktfortschritt ist hier entscheidend.
+Und hier habe ich aber mal ein gutes Zitat gefunden.
+Beziehungsweise das Zitat wird diesem Mal zugesprochen.
+Everything that can be invented has been invented, hat er scheinbar mal gesagt.
+Und zwar war das der Commissioner of the United States Patent and Trademark Office,
+und zwar namens Charles Holland Duhl.
+Und Sie sehen, wann der gelebt hat, 1850, 1920.
+und
+der ist in der Zeit
+hat der gewirkt oder dieses Patentamt
+geleitet, wo unendlich
+viele Erfindungen patentiert
+worden sind
+von der Glühbirne weg, Tesla
+und Edison und alle die da drüben
+gewirkt haben, haben ganz ganz
+viele Innovationen
+ihm zugetragen und vielleicht war es
+so, dass halt an dem einen Tag
+25 Leute schon da waren
+26, da hat er dann diesen Satz gesagt
+Gehen Sie bitte, es ist schon alles erfunden worden.
+Aber er hat natürlich nicht recht gehabt.
+Logischerweise ist es malig.
+Ein weiteres Zitat
+vom ehemaligen Vorstandsvorsitzenden der Dainer Benzer G.
+War ein Breitschwert, der diesen Satz mal gesagt hat.
+Das waren die Entrückter, die diesen Konzern losgemacht haben.
+nicht die Ölischen und die Kaufleute, was letztendlich so viel heißt, dass der Konzern
+der lebt von der Entwicklung.
+Da wird es solche geben oder werden die so groß geworden sozusagen.
+Das heißt, die Entwicklung selber, die hat letztendlich so viel Wertschöpfung, dass
+man immer wieder nach vorne kommt.
+Die Wertschöpfung sozusagen, die halt aus der Fahrzeugindustrie entsteht.
+Wer das schon mal gesehen hat, wie so ein Fahrzeug gebaut wird, wie immer, in Exkursionen oder auch im Fernsehen, wird das ja oftmals berichtet.
+Da werden ja große Keils angeliefert an Bleche, dann kommt die Stanze, man stanzt das raus und am Ende steht schon die Karosserie da.
+Und dann wird gesambaut, kommen die Motorenteile und jede Stufe bringt die Kosten nach oben, dann die Wertschöpfung,
+dann wird in dieser Wertschöpfungskette, ja und am Ende, da steht natürlich dann, sagen wir so, ein Weltkanzler.
+Der Zitat von Karl Wenz, der zum Karl Wenz zugesprochen wird,
+Glaubt mehr Erfinden, desto endlich viel schöner als Erwunden haben.
+Oh, wie gerne würde ich wieder von vorne anfangen, das hat der Scheinwerfer gesagt, klar.
+Weil natürlich dieser Prozess des Erfindungswesens und auch, sagen wir es gerade,
+im Verbund mit anderen in der Abteilung oder jetzt hier in der kleinen Gruppe
+halt so ein Entdeckertum fördert.
+Da entdeckt man was Neues, da überlegt man was, da hat man eine Idee.
+Man kann da kreativ was umsetzen.
+Und das ist letztendlich bei allem so, dass man sagt,
+diese Dynamik, die da auch entsteht, die haben wir lange in der Forschung bearbeitet,
+wo ja letztendlich auch ständig irgendwas entwickelt wird.
+Und wenn da die Forschungsgruppe ziert in eure Richtung, dann läuft das auch voran.
+Dann funktioniert das.
+Und das ist natürlich immer immer toll, wenn ein helles Produkt rauskommt,
+man sagt, Mensch, das haben wir dementsprechend jetzt erschaffen.
+So, wir haben noch ein Zitat, beziehungsweise einen Grundsatz.
+Da sind wir schon wieder bei der Forschungsgruppe.
+Jetzt haben wir 25 Leute in der Abteilung, die am gleichen Thema arbeiten.
+Ich bin die Antwort auf 25 Meinungen.
+Und jetzt brauchen wir irgendwie eine Möglichkeit, um diese Vielfalt der Meinungen wieder zurückzubinden zu einer einzigen Lösung.
+Und da hilft uns nichts anderes, wie dieser methodische Konstruktionsansatz, die Lösungsfindung.
+Methodische Konstruktionen, die brauchen wir, weil ansonsten die einzelnen Ideen,
+entweder wenn sie nicht sauber präsentiert werden oder sauber kommuniziert werden,
+dann geht eine Idee runter, die vielleicht super wäre.
+Und auf der anderen Seite, klar, wenn sich zwei zusammen sagen,
+wir wollen es jetzt unbedingt noch boxen, dann wird vielleicht eine Idee gepusht,
+hier gegenüber anderen von der Bewertung ja nicht ganz so weit nach vorne kämen.
+Dementsprechend brauchen wir gerade eine Kugel. Die werden wir dann nicht erlauben von uns anzuschauen.
+Dann haben wir noch ein paar Begriffe, nämlich eine interessante Präsentation.
+Der englische Begriff der Destruktion wird hier diskutiert.
+und das war dann ein Internet von der Stanford University, Volker Pontoni-Seber, der eben dann gezeigt hat, was tatsächlich es bedeutet, wenn er verflucht, ein anderes Flugzeug nicht verdrängt.
+Das heißt, er hat hier 1900 auf der Fifth Avenue ein Bild und da sieht er im Prinzip nur ein einziges Auto, weil es alles ein Pferdekern war.
+Und ein paar Jahre später, 13 Jahre später, sieht man auf der Fifth Avenue wahrscheinlich gar kein Pferdekern mehr, gar kein Pferdefuhrwerk.
+Das Auto hat das vollständig verdrängt.
+Und wenn Sie sich heute mal anschauen, klar, Sie werden wahrscheinlich immer schon ein Smartphone besessen haben, oder?
+Ja, so wie Sie.
+Hier haben Sie noch ein Handy mit Taschen gehabt.
+Taschen, ja, Taschenhandy, ja, haut niemand mehr, gell?
+Sie vielleicht haben noch ein Taschenhandy-Cad.
+Naja, aber jetzt nicht mehr, gell?
+Schmeckt, verdrängt, gell?
+Smartphone als
+Möglichkeit.
+Und manche sehen ja auch,
+alte Hersteller von Handys,
+die gibt es ja noch mal.
+Weil sie die Technologie verpennt haben,
+auf Deutsch gesagt. Und hoffen wir
+bloß, dass wir nicht in einer Branche landen,
+wo irgendein Führungskopf
+für Technologie verpennt.
+Weil sonst ist man halt auch weg. Das ist auch klar.
+Und wir sehen es jetzt an der
+Fahrzeugindustrie. Die Innovationen,
+die Entwicklungen, klar, das sind halt die
+vielschichtigen. Und finden
+wir alle in deutschland statt aber klar sind die ideen voran und hier heißt ja
+das deutsche auto auf der straße dass ich in 20 jahren die präsentation um
+Warum noch ein Bauchhaus?
+Auf geht's!
+Offene Folie, Denkanstösse.
+Haben wir nichts drin? Was ist denn der Grund?
+Warum wird das Gründe für Neuheit nicht gekommen?
+Was ist der Grund, dass wir was Neuheitiges brauchen?
+Ressourcen zu sparen, zum Beispiel.
+Genau, das kann man sicher aus gut begriffenem Umweltschutz bezeichnen.
+Umweltschutz, Ressourcen, Nachhaltigkeit, also das ist ganz gut ein Begriff, den wir da mit dabei haben.
+Konkurrenzvorteil.
+Ein Konkurrenzvorteil, genau.
+Also im Prinzip haben wir entweder einen wirtschaftlichen Vorteil,
+dass es einfach kostengünstiger ist, wie bei der Konkurrenz, oder was gibt es so?
+Technisches.
+Technischer Vorteil, klar, dass man sagt, nein, auf das Auto, weil es ist einfach besser,
+weil es das Beste ist, genau.
+Das muss man letztendlich immer betrachten.
+Was haben wir sonst noch vergründet?
+Recht um das Leben einfach mal zu gestalten.
+Genau, das Leben einfach mal zu gestalten,
+oder sagen wir mal irgendwas am Beitrag z.B. für gesellschaftliche Notwendigkeit.
+Du brauchst nicht sagen was, das war immer ein ganzes dringendes Thema während der Corona-Zeit.
+Da hat man unbedingt einen Wirtschaftsartikel müssen, da war das eine gesellschaftliche Notwendigkeit.
+Und ein Thema, das natürlich aus der Forschung herauskommt, ist immer irgendwo ein persönlicher Grund.
+Man hat eine Idee, man möchte was, man braucht was und braucht eine Lösung dazu.
+Also im Prinzip das, was man selber denkt, das gab es nicht, das brauchen wir jetzt.
+Und dann müssen wir es entwickeln. Und das kann ein Einzelmann oder ein Einzelkopf genauso.
+Also wenn einer jetzt eine Idee hat, Mensch, das brauchen wir unbedingt, dann machen wir es einfach.
+Ich mache das nicht mal zusammengefasst. Schauen Sie her, machen wir das hier mal groß.
+Also so gesamtgefasst, Wirtschaftlichkeit, Effizienzerhöhung, gesamte Ratsprache, Kette, Umweltschutz, das ganze Thema Nachhaltigkeit, Kette oder Turm, Technologiefortschritte, dann natürlich auch irgendwelche Sicherheitssachen, wie auch man sagt, da gehört schon ein Bauteil, sicherer wie Konkurrenzhersteller, Geld hat ja, das haben wir da oftmals gepunktet in der Vergangenheit, mit dieser Sicherheitsfrage, Sicherheitsmaßnahmen, da auch ganz nach oben gesetzt.
+die gesellschaftliche Notwendigkeit, ob es Angst, Sturm, Hinstock oder persönliche Gründe oder Nöte ist.
+Und aus der Not heraus schauen wir doch, was entstanden ist.
+Wie zum Beispiel hier, sind wir hier im Allgäu.
+Im Allgäu gibt es diesen Begriff der Mechler.
+Vielleicht schon mal jemand gehört den Begriff Mechler.
+Ja, genau, ich kann es nicht, ich kann es nicht aussprechen, was der da sagt, das war einmal eine Waschmaschine, das war einmal eine Wäschmaschine, genau, also das sind im Allgäu, ich sage mal jetzt im Großraum Allgäu, Schwaben, wenn man das dazu nimmt, dann einfach Leute, die halt aus der Historie heraus immer irgendwas erfunden haben, okay, und da gibt es eben die Quelle,
+Er ist ja auch BR Mediathek, wo dann verschiedene sogenannte Mechler eben vorgestellt werden.
+Er ist natürlich der Spezialfall, weil er da ganz ruhige Werkstatt hat und alle Sachen sammelt und da etwas Neues rauskommt.
+Aber aus genau diesem Mechler-Tuch sind viele Industriezweige entstanden, letztendlich ganze Unternehmen.
+Wenn man zum Beispiel schaut, Liebherr, als riesengroßes Unternehmen,
+irgendwann ganz klar angefangen mit allem, die halt gesagt haben, das machen wir jetzt.
+Wir bauen jetzt ein Kran oder sowas, wir brauchen das.
+Oder Goldhofer zum Beispiel, in Memmingen, hat angefangen als Schmiede.
+Und die haben sich immer weiterentwickelt und gesagt, die Notwendigkeit war da,
+die brauchen jetzt einen Wagen für irgendeinen Transport.
+Dann haben die das gebaut und heute bauen sie riesengroße Schlepper und Transport.
+Das hat sich auch aus der Historie heraus entstanden, dass man von kleinem her durch das Hüftchen geht und dann geht es weiter.
+Da haben wir noch ein gutes Beispiel für den Erfinder aus dem Allgäu.
+Das ist die Höhle der Löwen.
+haben wir eine Möglichkeit entwickelt, dass man Akkus schonender lädt.
+Das ist auch so ein Entwicklungsprojekt, das haben die irgendwo angestoßen,
+haben gesagt, das braucht man sowas.
+persönlicher Grund, wirtschaftliche Notwendigkeit, Energieeffizienz und dann Langlebigkeit vom Akku maßgebend erhöhen und hauptsächlich den Löwen gewonnen zu investieren.
+Das ist wahrscheinlich wirtschaftlicher, energieeffizienter Lohn für das Volumen.
+Oder hier zum Beispiel auch noch jemand, der sich mit Designfragen auseinandergesetzt hat.
+Das ist der Technologieforscher, der auch im Design logischerweise so leuchtet wie in jeder Form und Farbe.
+Und wenn ich hier natürlich dann sage, ja, ich mache etwas Besonderes, ich habe zum Beispiel die Idee, dass es von unten erstmal herumstrahlt und dann oben jetzt mit so einem Schirm dann das Licht bündelt und gewisse Fläche ausleuchtet, indirekt vielleicht auch, dann ist das eine Idee und die muss ich patentieren lassen.
+Und das ist eben ein Patent aus einem Gebrauchsmuster, nämlich das eigentlich das Design und diese Anordnung von diesem Läufenwind und diesem Schirm letztendlich in ein Patent, in ein Schutzrecht packt.
+Das kann jeder machen, jeder kann das anmelden, klar, logischerweise kostet das diese Gebühr und dann ist die Idee fixiert bei Ihnen.
+Das ist ein echtes Patent. Der kommt aus meiner Stadt.
+Bitte?
+Der kommt aus meiner Stadt. Das ist ein echtes Patent.
+Natürlich ist es ein echtes Patent.
+Krass.
+Das kommt auch von mir.
+Echt? Aus Sonntag?
+Aus Sonntag, ja.
+Ja, das habe ich auch mitgebracht. Ich glaube, das habe ich ja lange Jahre miterlebt.
+Das ist ja aus dem Jahr 2000, die Anleitung.
+Er hat in München Design studiert und nennt sich jetzt NMK-Design dementsprechend.
+Das ist natürlich ein echtes Konzept.
+Anmeldung, Bedrohungsmotorschrift und die Lampe gibt es, steht bei mir drüben am Mund.
+Genau, das sind so kleine Beispiele, wo man sagt, Mensch, da ist doch das Erfinderwesen,
+das ist doch gar nicht so weit weg von uns.
+Ja, das ist eben nur so ein Großkonzern, wie beim Schaeffler oder beim Daimler,
+die jeden Tag unter die Patente angemeldet werden so ungefähr.
+Und im Kleinen ist das greifbar, wenn eine Idee da ist, wenn die Idee interessant ist
+und wenn das schützenswert ist, das wird natürlich immer dann geprüft,
+dann kann man das natürlich anwenden.
+Sie sehen schon, diese Skizze, die da notwendig ist dafür, die fällt eben am Nachmittag mit dem CAD locker an und dann können Sie es einreichen.
+So ungefähr ist das nämlich gedacht. Das heißt, da sind wir im Prinzip dabei.
+Ja, das ist ein Prävent, der hat es verkauft an die Firma Creo.
+Das ist ein ganz normaler Prozess, dass man es sozusagen an irgendeinem Hersteller sucht, der sagt, das ist gut, das machen wir.
+Dann hat er denen das verkauft, dementsprechend hat er das produziert.
+So, was haben wir noch interessantes?
+Moodle-Kurs haben wir schon gesagt.
+Organisatorisch, klar haben wir auch schon darüber gesprochen, dass wir hier arbeiten.
+Das werden wir machen.
+Grupparbeit, die wir später noch auch abgeleitet aus der Aufgabenstellung.
+Genau.
+Individuelle Fragen, also die stimmen ja genau an, das machen wir auch nicht.
+Genau, das heißt hier, ich bin immer um 12 Uhr da für Sie, das heißt bis 12 Uhr, und dann machen wir bis 12.30 Uhr in etwa, machen wir eine durchschnittlich übergreifende Abführung.
+Das ist heute ein bisschen umfangreicher.
+Zukünftig machen wir ein paar Sachen als Ansprecher.
+5 Stunden, 20 Minuten, eine halbe Stunde maximal.
+Und das ist die gruppenübergreifende Anleitung.
+Individuelle Fragen in einzelnen Gruppen können wir natürlich dann auch,
+wenn es sich um eine bestimmte Gruppe bildet,
+also wenn wir einzelne Fragen natürlich direkt beantworten.
+Aber ich muss dann immer darauf achten,
+dass wir einen Gleichheitsgrundsatz haben
+Und dass sich im Prinzip die Information immer allen gleichermaßen zukommen lassen muss.
+Und das war ich natürlich auch, dass man hier wahrscheinlich alle auf dem gleichen Stand beginnen.
+Und dann eben die einzelnen Sachen, wenn etwas interessant ist, dann kopiere ich es mir da rein.
+Dann haben es alle und dann passt es wieder gerne.
+So, was haben wir sonst noch?
+Fragen allgemeiner Art? Gibt es Anwesenheitsrichtlinien? Nein?
+Dann sehen wir uns eigentlich erst wieder am Präsentationstermin.
+Was sonst natürlich alles außer, weil es ja Gruppenarbeit ist, gell?
+Wird die Note der Übung mit der Übungsnote verrechnet?
+Ja, genau, so ist das.
+Und zwar die Übung wird in der Nr. 2, die übende Note, die Nr. 4.
+Das ist eine Auskunft von Frau Konsch und dem Studium Führungsamt vom 18. März 2022.
+Und das ist die Seite, die man eigentlich nicht kennenlernt.
+CAD, ja, genau, also Sie können natürlich das Programm verwenden.
+Ebenfalls werden natürlich verschiedene Handskizzen gefordert.
+Und hierbei ist die Abgabe als CD-Zentrum nicht zulässig.
+Das heißt, wenn das Wort Skizze steht, dann ist es immer vorhanden zu zeichnen.
+Und das sind dann Ideen, die man sozusagen direkt aufs Blatt Papier übertragen,
+Und mit diesen Handskizzen werden wir sozusagen am Anfang arbeiten.
+Und aus diesen Handskizzen kann man dann was korrigieren, kann man sagen, das machen wir anders oder machen wir so.
+Und das funktioniert dann nicht ganz gut.
+Wählt die Übung als Vorleistung schon mal ein Faktor?
+Nein, die Übung ist selbstständig oder eigenständig, zeitlich vollständig, unabhängig, genau, und dementsprechend können Sie es gestalten, wie Sie es wollen.
+Gut, dann machen wir sozusagen nächste Woche weiter. Da werden wir uns dann hier mit der
+Analyse beschäftigen, so dass wir jetzt eigentlich, beziehungsweise die Analyse,
+Da wollen wir mit der Markenanalyse, das wollen wir machen, selbstverständlich, dass wir sagen, wir, so wie Sie es hier sind, sollten letztendlich hier in das Google vielleicht reinschauen, ins Netz und einfach mal ein paar Wortbegriffe eingeben.
+Radlager, Nabeneinheit, wer baut sowas, was ist am Markt, schauen Sie mal in die Kfz-Teile24 rein,
+kfz-teile24.de, Radnabeneinheit, wie auch immer, da kommt einiges.
+Und das ist dann die Marktanalyse.
+Die Marktanalyse soll sozusagen irgendwann am Ende vier ähnliche Produkte darstellen in der tabellarischen Übersicht,
+eine DIN-A4-Seite, allgemeine Recherche, dementsprechend zum Markt und dann natürlich, wenn man jetzt
+spezielle Sachen hätte, könnte man natürlich dann auch eine DIN-Norm mit dazunehmen.
+Da haben wir auf jeden Fall die Schicknorm, das Teil, was wir da machen.
+Da gibt es vielleicht Werksvorgaben, aber nichts, was die DIN betrifft.
+Funktionsweise, selbstständige Einarbeitung, Übersicht der Recherchenquellen, immer letztendlich
+Ich habe eine kurze Übersicht mit dieser einen DIN-A4-Seite und am Ende eine kleine Diskussion oder Fazit bilden, was denn tatsächlich aus der Recherche herauskommt.
+Genau, das wäre im Prinzip der Stand für heute, sodass wir hier letztendlich beginnen können.
+Und wenn Sie wollen, können Sie natürlich auch noch hier das Modell einmal anschauen,
+Das sind Teile wie dieser Rehkopf, die eben hier diese Integration darstellen sollen.
+Das heißt hier ist eine Lager, das habe ich auseinander geschnitten.
+Das ist eine Radlager dazu. Das sind alles die Bauteile.
+Das umfasst letztendlich dann das ganze System.
+Radlager und der Achsträger.
+Und da braucht man irgendwo einen Verwendungsansatz aneinander.
+Fragen noch zur gesamten Aufgabenstellung?
+Dann können Sie im Prinzip selbstständig loslegen,
+weiter recherchieren, mal schauen, was es gibt,
+vielleicht gleich auch irgendwas abspeichern,
+sodass wir das dann letztendlich in Zugriff haben
+Und dann immer wieder wollen wir natürlich in der Zeit, wo wir draußen sind, diskutieren.
+Oh, ja, ist das was? Ich kann das machen.
+Die Ideen, die kommen, vielleicht auch von irgendwo nach,
+wenn man einfach mal eine Skizze hat, diskutieren wir über die Skizze.
+Wunderbar.
+Eine Frage.
+Ja?
+Wo ist die Folie auf die Mutter?
+Die ist noch nicht drauf.
+Jetzt stelle ich sie drauf gleich, wenn Sie das wollen.
+Das ist immer, wir arbeiten uns da vor und teilweise, wenn mir irgendwas einfällt, wenn ich irgendwas sehe, dann kopiere ich das da rein.
+Und am Ende der Stunde kriegen Sie diese Folie.
+Und heute jetzt gleich, weil jetzt haben wir noch ein bisschen Zeit, jetzt kann ich Ihnen das reinkopieren.
+Okay.
+Dann haben Sie bis dahin, wo wir sind, also sozusagen, hier geht es dann wirklich immer weiter und bis dahin sind wir.
+Und bis dahin kopieren Sie das rein.
+Da sieht ja immer jeder, wie weit wir waren.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+im Prinzip in diesem Gruppenraum dann schon arbeiten können und dann eben mit
+einem, sagen wir mal, der oder die selben Organisierer, wie sie diese Sachen dann zusammenbringen,
+sodass am Ende immer Gruppenarbeit entsteht, logischerweise, ja.
+Genau, ja, dann machen wir das im Prinzip für heute. Dann wünsche ich noch einen schönen Nachmittag.
+Gerne sehen wir uns nächste Woche wieder.
