@@ -937,3 +937,642 @@ Vielen Dank für Ihre Bereitschaft.
 Dann Pause.
 Wäre jetzt wichtig.
 Wir haben jetzt 10 Minuten.
+………………
+sich mit diesem Fach befasst und auch ganz wichtige neue Gleichungen aufgestellt.
+Sie können sich vorstellen, dieser Herr, der hat fast nichts anderes gemacht als dies
+und hat dann trotzdem solche Dinge geschrieben in seinem Aufsatz hier damals.
+Das erste Mal, wenn man sich damit befasst, versteht man fast nichts davon, von der Thermodynamik.
+Also auch er hatte da Schwierigkeiten und es ist wirklich ein bisschen eine spezielle Herangehensweise,
+sich mit Mathematik und Physik zu befassen, weil man sogenannte makroskopische Thermodynamik macht.
+Wir wollen nicht das einzelne Teilchen beschreiben, wie das in dem Raum rumfliegt und was das macht,
+sondern wir wollen das Ensemble, das große Ganze beschreiben.
+Und dafür gibt es wirklich ein paar merkwürdige Zusammenhänge.
+Die kann man lernen, dann sagt er, beim zweiten Durcharbeiten hat man, denkt er, alles verstanden.
+und ist zufrieden und dann kommt da aber auch noch das dicke Ende.
+Beim dritten Mal, wenn man es durcharbeitet, bemerkt man, dass man fast nichts davon versteht.
+Zugegeben, es geht auch mir so, ich bin jemand, der jetzt Thermodynamik nicht in den Knochen hat
+und von Anfang bis Ende immer lehrt.
+Manche Zusammenhänge sind nicht ganz einfach zu verinnerlichen.
+die Herangehensweisen sind, mitunter speziell.
+Das Schöne ist, es gibt eine ganze Menge Kochrezepte, wie es funktioniert.
+Und es gibt in der Formelsammlung zu diesen doch relativ vielen Größen,
+mit denen wir uns befassen werden, dann doch was zum Festhalten, wo man sich orientieren kann.
+eine von den Beispielen
+wo es wirklich merkwürdig
+wird, ist das Thema
+Entropie, hat jemand von Ihnen
+eine Ahnung, was Entropie ist?
+ja
+richtig
+es geht um Unordnung im System
+ganz genau so ist es
+und wenn man jetzt versucht
+die Entropie zu beschreiben
+und
+zu sagen
+was passiert mit Entropie
+Okay, in einem bestimmten Vorgang, nehmen wir in dem Falle ein Kraftwerk als Beispiel, dann sieht man schon, dass man da relativ schnell auch an die Grenzen von dem kommt, was man sich vielleicht so mit greifbarer Gedanken verstehen kann und nachvollziehen will.
+Und das wollte ich Ihnen an der Stelle noch mal ganz kurz in einem Videoschnipsel zeigen.
+Ein Videoschnipsel vom Herrn Martin Buchholz, der ist Science Slammer, ist ein Physiker
+und hat sich damit befasst, möglichst vor einem großen Auditorium auch in, glaube ich,
+ganz angenehmer Sprache rüberzubringen, wie Dinge funktionieren.
+Und vielleicht hören wir uns das einfach mal kurz an.
+Das ist verboten und deshalb wird der ganze Prozess unumkehrbar.
+Oh, Unumkehrbarkeit durch Entropieproduktion.
+Hört sich ganz schön esoterisch an, oder?
+Aber ich möchte noch einen draufsetzen.
+Ich möchte behaupten, dass Entropie und Zeit zwei Schwestern sind,
+die stets in eine Richtung laufen.
+Und zwar in die Richtung, in der die Gesamtentropie des Universums zunimmt.
+Unsere ganzen Begriffe von vorher und nachher gewinnen erst durch Entropieproduktion
+und die damit verbundene Unumkehrbarkeit der Dinge eine Bedeutung.
+Das tolle daran, dass aber offensichtlich Entropie und Zeit etwas miteinander zu tun haben,
+und Zeit ist ja ein Konzept, mit dem wir uns gut auskennen.
+Und das führt dazu, dass wir auch für Entropieproduktion ein ganz gutes Bauchgefühl haben.
+So, an der Stelle protestieren immer einen, die sagen,
+hallo, vor fünf Minuten kannte ich diese Größe noch nicht,
+aber jetzt soll ich ein Bauchgefühl für Entropieproduktion haben.
+Und genau das möchte ich Ihnen im verbleibenden anderthalb Minuten zeigen.
+Dazu habe ich drei kurze Filmschnipse mitgebracht.
+In zwei dieser Filmschnipse, da wird so richtig ordentlich Entropie produziert,
+das ist Kracht und im dritten annähernd Keine.
+Wir sehen zum einen ein Brauseglas, das lockt etwas beschleunigt ab.
+Sie werfen das rein, es blubbert ein bisschen vor sich hin.
+und am Ende haben Sie ein leckeres Glas, trinkfertiger Brause.
+Okay, dann bleibt der Video stehen.
+Vielleicht Brause.
+So, im zweiten Video, da können Sie sehen, wie ich so einen Pendel auslenke, ein bisschen hin- und herschwingen lasse.
+Und im dritten Video sehen Sie, was mein Patenkind mit dem gleichen Pendel macht und einen Turm, den allerdings sein Vater aufgebaut hat.
+So, Babys sind immer niedlich, aber einige von Ihnen werden sich trotzdem fragen und sagen, wo ist denn jetzt das Bauchgefühl?
+Ich fühle hier gar nicht, wo Entropie produziert wird.
+Warten Sie, ganz kurz, wir machen noch ein Gedankenexperiment.
+Stellen Sie sich vor, wir lassen einen von den Prozessen, die im Vorwärtsgang Entropie produzieren, rückwärts ablaufen.
+Dann müsste ja Entropie vernichtet werden.
+Das ist aber verboten.
+Was uns aber niemand und nicht einmal der zweite Hauptplatz der Thermodynamik verbieten kann, ist es, einen Film rückwärts ablaufen zu lassen.
+So, was wir dann zu sehen bekommen, das wird es in der Natur nicht geben.
+Das wird unnatürlich aussehen und man muss nicht Maschinenbau oder Physik studiert haben, um zu sagen,
+ja, nee, sowas passiert einfach nicht.
+Und auch bei dem Brauseglas, das sieht am Anfang noch ganz akzeptabel aus,
+aber spätestens, spätestens wenn dann diese ganzen Blubberbläschen und die ganzen Farbstoffe anfangen,
+sich im Inneren des Glases wieder zusammenziehen, spätestens dann werden Sie hingucken und sagen,
+nee, sowas, das gibt es doch nur im Film.
+Ganz anders sieht es beim letzten Film aus
+Auch diesen Film lasse ich rückwärts laufen
+Aber ich muss es dazu sagen, weil man es nicht sieht
+Warum sieht man es nicht?
+Nun, das Schwingen eines reibungsfrei aufgehenden Pendels
+ist ein Vorgang, der annähernd ohne Entropieproduktion abläuft
+Und deshalb hatte kein klar definierten Anfang
+und kein klar definiertes Ende
+Ganz im Gegensatz zu meinem Vortrag, das ist an seinem Ende angekommen
+Ich bedanke mich für Ihre Aufmerksamkeit
+Gut, also was haben der Herr Buchholz und ich gemeint?
+Wir sprechen beide wahnsinnig schnell
+zu viel ist warum habe ich ihnen gezeigt einfach nur ein bisschen aufzulockern aber auch um eben
+noch mal den kontext zu bringen mit den fachwörtern um die es hier gehen wird entropie eine größe die
+sie haben genau richtig gesagt es geht um unordnung aber die irgendwie nicht so gut
+greifbar ist muss man glaube ich auch dazu sagen es gibt andere größen mit denen können wir uns
+viel besser identifizieren und auseinandersetzen, irgendwelche Gewichte und Längen und was
+sie alles in der Physik schon so gehört haben. Einiges davon lässt sich wirklich so plastisch
+greifen und verstehen. Entropie, Enthalpie, Verdampfungsprozesse, da wird es zum Teil
+ziemlich unangenehm und schwierig und da muss man sich dann vielleicht die ein oder
+anderen Brücken war. Vielleicht wird Ihnen später im Verlauf des Semesters nochmal, ich werde das
+Schnipselchen dann nochmal verlinken, wenn wir über Entropie uns wirklich unterhalten, das helfen
+nochmal zu sagen, ah ja, okay, so grob geht es darum, was läuft in eine Richtung ab und wie kann
+eine Unordnung vielleicht zunehmen oder nicht, wenn der kleine Junge oder das Baby dort diese
+diese Bauklötze zerstören. Wo spielt diese ganze Thematik eine Rolle? Ja, wir hatten gerade gehört, über einen
+Kraftwerksprozess, wir können uns genauso auch über Motorenprozesse unterhalten, ich hatte Ihnen aber vorhin auch
+gezeigt, dass auch ein Elektrofahrzeug eine Rolle spielt und dort die Kühlprozesse stattfinden, immer wenn sie
+über Strömungstechnik oder über Wärmeübertragung hören, ist in der Grundlage die Thermodynamik
+involviert. Also das heißt, da kommen wir dann doch relativ häufig mit in Berührung,
+auch bei solchen großen anderen Parabolen, Kraftwerken kann es eine Rolle spielen,
+Aber auch so Dinge wie Photosynthese, also das reine biologische Umwandeln von Sonnenenergie
+in pflanzlich gebundene Kohlenstoffketten, hat in der Grundlage nichts anderes als die Thermodynamik.
+Die Geschwindigkeit, mit der die Pflanze hier entsprechend die Energie aufnimmt, umwandelt,
+Da steckt überall Thermodynamik drinnen und ist entsprechend einfach ein ganz zentrales Thema.
+Man windet sich darum, dieses Thema in der Schule typischerweise zu lehren,
+weil es eben nicht so angenehm und so einfach beschreibbar ist wie die klassischen physikalischen Gesetze.
+Wir können nochmal überlegen, welche täglich benutzten Gegenstände beruhen auf den Grundlagen
+der Thermodynamik.
+Ich mach das jetzt mal nicht mit Mentimeter, ich mach das vielleicht an anderer Stelle
+mal.
+Aber das ist mir jetzt an der Stelle eigentlich zu umständlich.
+Vielleicht einfach nochmal von Ihnen aus dem Raum bedanken, welches täglich benutzten
+Gegenstand, den wir jetzt gerade noch nicht gesehen haben, benutzen Sie, wo Sie denken,
+Da ist der Thermodynamik drin.
+Also, Sie dürfen zuerst.
+Der Kühlschrank?
+Der Kühlschrank, genau. Den hatten wir vorhin ganz am Rande nur.
+Den habe ich abgeschnitten, deswegen, der hat seine Daseinsberechtigung.
+Ganz klar, was passiert da?
+Dem Innenraum, jetzt wieder richtig gesprochen, wird Wärme entzogen, dadurch dass ein Kühlmittel da drin zirkuliert.
+Warum zirkuliert es?
+Weil eine Pumpe ist, die setzt dem Fluid Arbeitsfähigkeit zu, zu Deutsch, die gibt da halt Schwung,
+und drückt das Kühlmittel mit hohem Druck in das Kühlschrankinnere.
+Dann gibt es an der anderen Stelle eine Verdampfung, Entschuldigung, das Äußere.
+Dann gibt es einen Verdampfungsprozess, an diesem entsprechenden Drosselprozess findet eine Expansion statt.
+Da entzieht das Kühlmittel dem Kühlschrankinneren wiederum die Wärme und das Ganze zirkuliert.
+Machen wir im Dezember.
+Anfang Dezember werden Sie dann genau sehen, wie der Kühlschrank funktioniert und wie viel Energie ich reinstecken muss,
+um wie viel Kälte zu produzieren, das heißt, wie viel Wärme zu entziehen.
+Sie hatten sich auch gewählt, haben Sie noch ein anderes Beispiel?
+Genau das gleiche.
+Okay, was gibt es noch für Beispiele?
+Jetzt ist mein schöner Spickzettel gerade nicht da, aber ich hatte vorhin ja auch schon einiges genannt,
+Also diese ganzen Prozesse der entsprechenden Fahrzeuge spielen dort eine riesige Rolle.
+Was haben wir als Thermodynamik noch aus dem Praktischen?
+Nehmen wir vielleicht ein Beispiel aus dem, wie fühlen sich bestimmte Körper an.
+das hier fühlt sich eher warm an, das hier fühlt sich eher kalt an. Warum? Ist das jetzt wirklich
+kälter als das? Schauen Sie selbst bei Ihrem Tisch. Platt herum, warm, die Metallstangen-Unterkonstruktion
+eher kühl, oder? Warum?
+Das Metall hat eine bessere Wärmeleitfähigkeit.
+Genau, da gibt es Wärmeleitfähigkeit.
+Das ist wieder besser, dass wir mit der Punkt, an dem man anfasst, gleich erwärmt und die
+Sie haben die Einstiegsfragen zu dem entsprechenden Thema schon total im Griff.
+Es ist alles genau so richtig.
+Ich erlaube mir trotzdem im Raum, das immer ein bisschen einfach abzuholen,
+damit wir das dann hoffentlich auch so reproduzieren können und alle dabei sind.
+und spätestens dann, wenn wir damit rechnen, hoffe ich, dass Sie auch das eine oder andere Neue mitnehmen dürfen.
+Genau, damit ich das nicht vergesse, das, was ich hier zeige, ist nicht nur alles von mir kreiert,
+sondern relativ viel von Kollegen, die hier schon relativ lange lehren.
+Herr Steinweg, Herr Finkenrath und Herr Müller haben Sie vielleicht auch schon in der einen oder anderen Veranstaltung mal kennengelernt,
+die hier sehr, sehr viel an Materialien mit zur Verfügung gestellt haben,
+aus denen ich das eine oder andere zusammengefasst habe und daher habe ich ebenso dann darauf aufgebaut.
+Genau, klassische Thermodynamik, worum geht es?
+Wir wollen Vorgänge analysieren, die sich mit Temperatur oder Temperaturänderungen befassen.
+Es geht also im Großen und Ganzen immer darum, dass irgendwo was kalt oder warm ist oder wärmer
+oder kälter wird und was passiert, wenn was sich erwärmt oder abkühlt, dann fließt eine
+Energieform, die man so üblicherweise auch nicht oder nicht so gut im täglichen Leben beschreibt
+oder vielleicht dieser Begriff Wärme wird anders benutzt, als er eigentlich in der Thermodynamik dann klassifiziert wird.
+Es geht darum, dass da ein Energiestrom von der einen Stelle zur anderen Stelle fließt.
+Das ist die Wärme, das ist das, was uns im Kühlschrank erlaubt, Innenwärme rauszunehmen und außen hin zu schieben.
+Und die Wärme ist eigentlich das Zentrale, deswegen kann man Thermodynamik auch als Wärmelehre bezeichnen.
+Nichtsdestotrotz muss die Wärme irgendwo herkommen oder irgendwo hinkommen und entsprechend wird, das sehen wir heute noch kurz, im ersten Hauptsatz der Thermodynamik,
+die innere gespeicherte Energie ins Verhältnis gesetzt mit der transportierten Wärme und der Arbeit.
+Und was ist Arbeit? Arbeit ist das, womit Sie sich in der Physik immer befassen.
+Also irgendwo wird irgendwas geschoben oder gezogen oder gehoben oder gesenkt.
+Irgendwelche Gewichte, das kennen Sie, glaube ich, rauf und runter aus der Physik.
+Hoffentlich.
+Hier kommt jetzt neu hinzu diese Wärme.
+Und die wird bezeichnet mit Q als Buchstaben.
+Ich spüre es da schon mal mit rein.
+Ich weiß nicht, ob Sie den vorigen Satz offen haben.
+Ich empfehle es Ihnen generell, heute ist es nicht so dramatisch viel, aber diese Wärme, das ist das Vornezeichen Q und bis zum nächsten Mal empfehle ich Ihnen auf jeden Fall, wenn möglich, irgendein digitales Gerät mitzunehmen, wo Sie irgendwie draufschreiben oder notieren können, dann haben Sie da auf jeden Fall die besten Voraussetzungen.
+Es geht also immer um den Energieaustausch und interessanterweise, obwohl das Wort Thermodynamik
+eigentlich verbirgt, dass da sich was bewegt und dreht, also Dynamik, könnte man es fast
+eher thermostatikschlau bezeichnen, weil alles was wir machen werden, sind Gleichgewichtsprozesse
+angucken. Das heißt, irgendwas ist vorher so und hinterher hat es einen neuen gleichgewichtigen
+Zustand. Und wir gucken uns ja schon an, welche Energiemengen fließen, um von dem Zustand
+1 zum Zustand 2 zu kommen. Wir gucken uns aber nicht genau an, wie dieser Übergang
+stattfindet in der wirklichen Dynamik. Also passiert es gleichmäßig oder ganz viel am
+Anfang und ganz wenig am Schluss oder wie auch immer. Eigentlich befasst sich die Thermodynamik,
+wie Sie sehen werden, immer nur mit Punkten. Status 1, Status 2, Status 3, Status 4, Kreisprozess
+von 4 wieder zurück zu 1. Und dann gucken Sie sich an, was sich da so getan hat, aber
+nur bilanziell, die Menge und nicht wie schnell. Die Wärmeübertragung ist anders, da gucken
+wir uns wirklich an, mit welcher Geschwindigkeit laufen die Dinge an. Da sind noch mal Bücher
+geschrieben, ich werde die jetzt nicht noch mal zu sehr ins Detail gehen, also das sind
+die Physikbücher, die ich vorhin schon gesagt habe, die sind aber hier alle verlinkt. Der
+Stefan ist so ein klassisches Thermodynamikbuch, Achtung, ganz viele Variablen-Namen sehen
+ganz anders aus, als Sie es hier kennenlernen. Bei mir in der Folge, ich habe versucht, die
+Formeln alle einheitlich zu stellen. Es ist aber ein sehr unangenehmes Unterfangen. Immer wieder
+haben andere Menschen mit anderen Notationen, mit anderen variablen Namen gearbeitet und dadurch
+wird es unnötig verwirrend, obwohl man eigentlich gar nicht so viel spannendes mitteilen will.
+Ist der noch ein gutes Buch? Der Stahlmeier, ja, ist ein bisschen grundlagenorientierter. Ehrlich
+gesagt steht er nicht nur für Nerds, ist aber sehr stark aus der quantenmechanischen Basis heraus
+hergeleitet. Würde ich Ihnen eher nicht unbedingt empfehlen. Eher ein bisschen harte Lektüre. Langer
+Ecke hat einige ganz nette Anwendungsbeispiele und Rechenordnungen. Soweit dazu. Wie gesagt,
+Sie müssen nicht unbedingt da hinein, denke ich, wäre aber auch verfügbar. Dann vielleicht dazu
+mal ganz kurz eben auch zu diesem Variablennamen. Wie kommt es zustande? Es haben sich ganz
+verschiedene Menschen mit dem Thema befasst, seit dem Herrn Celsius, der im 17. Jahrhundert gelebt
+hat, dann verschiedene andere, die immer wieder Experimente gemacht haben und gemerkt haben, ja,
+so und so funktionieren die Dinge und daraus mehr und mehr ein ernstzunehmendes basisphysikalisches
+Verständnis entwickelt haben. Das ist eigentlich der Herr Boltzmann, der das wirklich auf ein solides
+Fundament gestellt hat und die Thermodynamik
+würde ich behaupten wollen,
+ernsthaft durchstiegen hat.
+Aber wir machen in der
+Vorlesung nur das.
+Bisschen blöd, bisschen merkwürdig.
+Warum? Weil
+das nach Boltzmann benötigt
+Quantenmechanik. Und ich glaube, niemand von Ihnen
+hat Interesse, sich jetzt mit Quantenmechanik
+intensiv zu befassen.
+Ist auch nicht sinnvoll. Wir wollen
+makroskopisch verstehen, was passiert
+und müssen nicht ins Innerste
+reinschauen.
+Genau, das resultiert eben, wie gesagt, dazu, dass leider immer mal wieder verschiedene Formulierungen und aber auch verschiedene Variablen in Namen da sind.
+Also, seien Sie nicht scheu, wenn Sie sehen, da gibt es irgendeinen Variablen in Namen, den haben Sie noch nie gesehen bei mir.
+Fragen Sie nach, vielleicht ist das einfach in dem Moment dem geschuldet, dass ich das aus einer anderen Quelle übernommen habe
+und eine andere Formulierung nachvollzogen habe.
+Und dann dient es sicherlich der Sache, wenn Sie nachfragen und mir klarstellen, um was geht es.
+Sie haben, wenn Sie Ihre Formelsammlung dann bekommen,
+ich kann mal ganz kurz gucken, das lohnt sich, glaube ich, auch wenn es ein paar Sekunden dauert.
+Ich mache mein Word nochmal auf, ich muss den Rechner gerade neu starten.
+Aber die Formelsammlung, ich zeige es dir jetzt mal und eben große Empfehlung,
+ruhig schon diese oder nächste Woche sich kurz die Zeit nehmen, entweder selber ausdrucken oder
+zum Coffeeshop gehen oder wo auch immer einen Ausdruck generieren von diesem Ding, weil es ist
+einfach hilfreich, wenn Sie sehen, ja okay, um die Größen geht es und diese Buchstaben hat der Herr Hesse
+in seinem Folienkontext verwendet und das ist die dazu passende Einheit und so weiter.
+Also das sind jetzt keine Hebserei-Größen, die meisten kennen sie, aber ein paar sind halt doch dabei,
+die jetzt vielleicht eher neu sind, hier Entropie, Entalpie und die entsprechenden spezifischen Größen
+mit Großbuchstaben, mit Kleinbuchstaben und dann gibt es da also verschiedenste Formeln,
+die sich damit befassen und die sind zum allergrößten Teil auch nummeriert.
+Die Nummerierung dient dazu, dass sie, wenn wir die in der Vorlesung dran nehmen,
+möglichst gut und möglichst schnell auch finden, wo wir sind.
+Und auch sehen, was müssen sie jetzt nicht auswendig lernen oder auf ihr Formelblatt schreiben,
+weil die stehen eh schon da, auf ihrer Handschriftblätter.
+Okay, also bis dazu. Um das Ganze mal so ganz von vorne weg zu zeigen. Noch mal ganz kurz die Frage,
+vorhin hatte ich das Video gezeigt, da habe ich extra das Licht ausgemacht. Es ist vielleicht etwas
+dunkel. Wollen Sie das Licht wieder anhaben? Oder wurscht, passt. Sie schlafen nicht ein.
+Wenn Sie einschlafen, dann merke ich es vielleicht, wenn man guckt. Nullter Hauptsatz, erster,
+zweiter, dritter Hauptsatz, vier sogenannte Hauptsätze. Ein bisschen merkwürdig bei diesem
+Fach. Man postuliert was. Man rechnet es nicht, sondern man sagt, naja gut, also damit eben die
+ganzen weiteren Rechnungen funktionieren, behaupten wir einfach mal. Die echten Erklärungen für diese
+Hauptsätze werden wir im größten Teil in dieser Vorlesung auch gar nicht durchnehmen. Dafür braucht
+dann viel die Quantenmechanik. Deswegen finden wir uns hoffentlich damit ab. Die Hauptsätze
+kommen immer wieder. Heute werden wir uns mit einem davon befassen, nämlich dem 0. Hauptsatz,
+wobei ich vermute, wir werden soweit gar nicht mehr kommen, aber dann in der nächsten Stunde
+Zwei Systeme mit thermischem Kontakt werden in die gleiche Temperatur gehen.
+Das heißt, das Beispiel, was wir vorhin hatten, der Tisch da unten und hier oben,
+die haben keine unterschiedliche Temperatur. Wenn ich die nur lang genug sitzen lasse,
+haben die die gleiche Temperatur. Wenn der 0. Hauptsatz stimmt,
+dann ist das, was wir drüber uns unterhalten haben, ein Effekt,
+weil die Wärmeleitfähigkeit unterschiedlich ist, aber nicht, weil die Temperatur von Anfang an unterschiedlich war.
+Und dann muss man sich überlegen, na, was hängt da von jetzt an?
+Und der erste Hauptsatz ist eigentlich einer, den, glaube ich, jeder von Ihnen irgendwo schon in sich gespeichert hat,
+auch aus dem Physikunterricht, Energie geht nicht verloren, sondern sie wird nur umgewandelt.
+Das heißt, wenn da irgendwie man mit einem Fahrzeug gegen die Wand fährt, dann hat man relativ viel kinetische Energie verloren.
+Was passiert mit dieser kinetischen Energie?
+Ja, da wird irgendwas deformiert, verformt oder ich bremse, sagen wir mal, machen wir das vielleicht als Beispiel besser,
+ich bremse sehr stark ab, da geht die Energie nicht ins Nix verloren, wie man umgangssprachlich sagt,
+sondern sie wird diszipliniert, sie wird in Wärme umgewandelt.
+Also die Energie ist immer noch da.
+Und das funktioniert dann schön zu beschreiben, wenn man das Konzept der Wärme gut verstanden hat.
+Zweiter Hauptsatz, Wärme kann nicht vollständig in Arbeit umgewandelt werden, was Sie alle irgendwie so ein bisschen kennen, da geht es immer um diese Perpetuum mobile Geschichte, dass man bestimmte Dinge tun oder nicht tun kann, da drin steckt aber eine Menge Physik und eine Menge Information, das sagt auch warum Wärmepumpen schlauer sind als elektrische Heizungen und auch als Gasheizungen und auch als alle anderen,
+Weil da kommen eigentlich die Grund- und Gesetzmäßigkeiten heraus, wieso bestimmte Energieverhandlungsformen effizient sind und Kühlschrank und Wärmepumpe tolle Geräte sind und andere Möglichkeiten, zum Beispiel Pelletierkühler, den Sie vielleicht in Ihrem Camping-System kennen, der oben so einen Lüfter drauf hat und so eine große Kühlbox, die da an 12 Volt angeschlossen wird.
+Nicht so effizient und nicht so geschickt ist.
+Dritter Hauptsatz, der absolute Notruf kann nie erreicht werden.
+Okay, da geht es dann um die Entropie.
+So weit, so gut.
+All diese Sachen findet man auch wunderbar nochmal zusammengefasst,
+mit sehr einfacher Sprache sagen wir mal zusammengefasst,
+in YouTube-Videos, die sind da sogar mal verlinkt.
+Werden wir alle noch brauchen.
+Ich wollte es nur vorlesen. Einmal kurz als Begrifflichkeiten hinwerfen und geben, damit man es einfach sortiert an einer Stelle mal hat.
+Gut, wir werden uns jetzt in den noch verbleibenden 25 Minuten mit einigen Grundbegriffen beschäftigen aus der Thermodynamik und ganz vielleicht noch das ideale Gas anschneiden, ich glaube es aber eher nicht.
+Es geht im weiteren Verlauf dann eben nach einigen Begriffen, die auswendig Lernerei sind,
+darum zu erklären, wie sich ideale oder nicht ideale Gase verhalten und verändern,
+wenn man die komprimiert, wenn man die auseinanderzieht, wenn man irgendwelche Dinge damit tut.
+warum Gase und nicht Flüssigkeiten
+kommen wir später noch dazu
+aber auch Flüssigkeiten spielen grundlegend eine Rolle
+dann geht es darum den ersten Hauptsatz
+der Terminallabung aufzustellen
+und damit zu rechnen
+zweiten Hauptsatz werden wir dann
+zu schalten
+und noch kompliziertere Sachen machen
+und dann geht es am Schluss
+in die Richtung
+Zustandsgleichung
+und da sind reale Flügel
+noch mit drin
+also welche die Phasenumwandlungen haben, von flüssig nach gasförmig und nach fest.
+Und zuletzt Kreisprozesse.
+Und Ihr Endgegner sozusagen ist ein Kreisprozess mit einem realen Fluid.
+Da haben Sie sozusagen alles Komplizierte mit drin.
+Und das ist eigentlich auch das, was in der Praxis wirklich eine große Rolle spielt.
+Das ist nämlich zum Beispiel unser Thema, was wir vorhin schon ein paar Mal angesprochen haben.
+Da kann man dann erst so richtig erklären, wie der Kühlschrank exakt funktioniert und damit rechnen.
+Also das baut schon alles aufeinander auf, deswegen hoffentlich hängen wir sie nicht gleich ab,
+der Herr Happig und ich in dem allerersten Teil und gut ist, sich ein bisschen langsam hier anzugucken.
+Es geht in den, und das ist jetzt auch nochmal so extra hingeschmissen,
+vielen
+der späteren Vorlesungen
+um Dinge wie hier in dem Bild gezeigt
+irgendein
+System, wo man jetzt
+ein Experiment machen könnte
+ich komme aber nicht hierher wie bei Ihrem Physikunterricht
+und habe einen Gaskeller dabei und stelle irgendwas drauf
+ja, da haben wir
+nicht die Zeit dafür
+und hoffentlich haben Sie auch schon
+so abstraktes Vorstellungsvermögen
+dass wir viele Experimente
+nur in den Gedanken machen
+dass da in irgendeinem System, in irgendeiner Kiste hier unten was reingegeben wird durch Wärme,
+also hier wird der Bunsenbrenner verwendet und der produziert eine Wärmemenge Q1,2.
+1,2 heißt nichts anderes vom Zustand 1 zu 2.
+Vorher war die Wärme noch nicht da, hinterher ist diese Anzahl, diese Menge an Wärme da hineingeflossen.
+Sagen wir Zeitpunkt jetzt und Zeitpunkt in 10 Minuten.
+Innerhalb dieser 10 Minuten habe ich auch vielleicht hier draußen drauf gedrückt.
+Das ist klassische Mechanik und Thema, was Sie aus der Physik kennen sollten.
+Da habe ich irgendwo mit dem Druck da erhöht.
+Dadurch, dass ich da drauf presse, dadurch, dass die Wärme hier reinkommt, werden wir sehen, wird sich der Druck zusätzlich nochmal erhöhen.
+Und vielleicht habe ich doch da irgendein mechanisches System drin und irgendwas wird gerührt, die Flüssigkeit wird bewegt.
+Dann habe ich irgendeinen Massenstrom oder eine Masse, die ist jetzt hier oben konstant.
+Und ich habe irgendwelche Zustände vorher, irgendeinen Volumen, einen Druck, eine Temperatur und eine innere Energie und Zustände hinterher.
+Habe ich jetzt ganz bewusst mal eben einfach so hingeschmissen.
+Sie müssen das jetzt nicht alles verstanden haben.
+Aber das ist unser Ziel, dass wir in einer Stunde mit diesen ganzen Größen einigermaßen arbeiten können.
+Um das zu kriegen, machen wir als erstes eine Definition.
+Wir sagen, ein thermodynamisches System ist nichts anderes als irgendeine von uns selber ausgedachte Systemgrenze.
+Und dieses gestrichelte Ding unterscheidet zwischen dem, was ist drinnen, das System, und dem Rest, der ist draußen, das ist die Umgebung.
+Okay, kann man machen. Wie machen wir das? Nehmen wir uns einen Topf oder irgendwas. Alles, was drin ist im Topf, ist mein System. Alles, was draußen ist, ist die Umgebung.
+Wenn ich den Topf auf den Herd stelle, dann nehme ich Wärme von außen und füge sie meinem System hinzu.
+Kommt von draußen rein und geht ins System.
+Und das ist jetzt auch eine der Möglichkeiten, wie ich Energie austausche mit der Umgebung, was ich gerade gesagt habe.
+Ich kann es also auf den Herd stellen.
+Was könnte ich noch machen?
+Ich habe eigentlich gerade schon ein Stück gehört.
+Wie kann dieses System noch Energie austauschen mit der Umgebung?
+Also klar, ich kann, wie gesagt, ich kann es auch mit mir erstellen, ne?
+Das können wir noch machen.
+Selbst ein Topf mit dem so gezeigten Bildschirm ist ganz einfach dafür,
+Aber eine Sache fällt mir schon ein, die ganz gut geht.
+Ja, das sind sie, die den Topf runterkeilen lassen.
+Das muss ich gar nicht machen, da habe ich eine Deformation, richtig.
+Dann wird sich wahrscheinlich auch die Systemgrenze in dem Sinne verändern,
+dass der vielleicht irgendwie kleiner oder größer wird.
+Das ist aber auch erlaubt.
+Also ich darf eine Systemgrenze auch so definieren, dass ich sage, ja, alles das, was im Topf drin ist.
+Ich nehme ein einfaches Beispiel.
+ich lasse im Topf Nudelwasser kochen
+und was passiert ist, drückt den Deckel hoch
+ja, dafür deformiert es auch
+in die andere Richtung, ist vielleicht ein bisschen
+hoffentlich häufiger, als dass Sie
+die Töpfe runterschmeißen
+ich kann also in dem Fall
+mechanisch irgendwas austauschen
+entweder Volumen dazu
+oder weniger Volumen dazu
+und wenn ich nur hart genug das koche
+dann spritzt da auch noch Flüssigkeit
+oder Dampf raus oder es geht nach oben
+durch das kleine Dampflöchlein irgendwas raus. Das heißt, wenn ich die Systemgrenze so definiere
+und sage, es ist alles, was im Topf drin ist, dann wird es weniger. Weil ich koche halt und dann dampft
+da halt was ab. Insbesondere wenn ich den Deckel runter leere. So wird es in Systemgrenzen irgendwie
+was auch einigermaßen willkürlich ist.
+Und es wird sich zeigen, dass Systemgrenzen richtig aus, also richtiges in Anführungsstrichen festzulegen,
+ist ein Teil einer typischen Aufgabe für Sie, wenn Sie später Aufgaben beantworten müssen.
+Man kann Systemgrenzen so festlegen, dass es extrem praktisch wird und sehr leicht wird zu rechnen,
+wenn Sie in die Klausur, in die Teilaufgaben A, B, C, D reingucken.
+Oder Sie können die Systemgrenzen so festlegen, dass es sehr umständlich und unangenehm wird.
+Beides führt zum gleichen Ziel.
+Das heißt, die Wahl der Systemgrenze ist willkürlich und beliebig, wird vom Betrachter festgelegt.
+aber es gibt halt praktisch und unpraktisch. Und da gibt es ein Beispiel zu, da gibt es schöne
+Weise, auch Töpfe, in die man reingucken kann, wenn man nur lange genug auf Google rumsucht nach
+Bildern. Zum Beispiel diesen tollen Glastopf und Sie sehen unten ist eine Flüssigkeit drin und oben
+ist Gas, oder? Also hier der Topf auf dem Gasherd und oben schon Dampfbildung. Und jetzt könnten
+wir dieses mit der Systemgrenze machen, wie gerade eben. Wir können den gesamten Topf als Systemgrenze
+festlegen oder aber wir können uns überlegen, und das würde ich jetzt hier mit dem Stift ein bisschen
+reinschmieren müssen, dass wir die Systemgrenze sinnvoll für viele Berechnungen vielleicht doch
+anders wählen, gerade wenn es uns darum geht zu berechnen wie lange dauert es bis das Wasser von
+einer Starttemperatur auf eine andere Temperatur gekommen ist, dann interessiert uns der Dampf da
+oben gar nicht so stark, dann wähle ich die Systemgrenze vielleicht eher so, dass ich hier
+ein System definiere und hier oben ein zweites System definiere. Das kann sehr hilfreich sein,
+um etwas zu beschleunigen in der Rechnung. Was ist denn hier in diesem System? Hier oben habe
+ich eine Dichte 2 und hier unten habe ich eine Dichte 1. Was habe ich da für einen komischen
+schnörkelchen gemacht das ist ein roh als zeichen und vielleicht nicht ganz gut zu erkennen bitte
+gerne melden schnipsen winken wenn sie sagen sie können irgendwas nicht erkennen wir werden leider
+aufgrund der extrem vielen variablen und dinge mit denen wir uns befassen und alles was wir aus
+der klassischen physik kennen plus das ganze neue zeug was wir hier machen strömen und thermodynamik
+super viele variablen haben deswegen reicht blöderweise unser klassisches alphabet nicht
+Sie werden also am Ende des Kurses, wenn Sie mal von den Inhalten absehen, hoffentlich das gesamte griechische Alphabet malen können.
+Und wahrscheinlich auch besser malen können als ich.
+Ich habe nämlich auch noch die Herausforderung, dass mein Tablet immer relativ langsam reagiert.
+Aber ich hoffe, ich kriege Sie trotzdem hin und Sie können sich also mit der Dichte an der Stelle auseinandersetzen.
+So, jetzt hat mein Tablet auch etwas Weites hier hochgefahren.
+Ich schaue nochmal, ob da noch irgendwelche Infos waren, die ich Ihnen zeigen wollte.
+Aber das passt. Ich kann Ihnen vielleicht jetzt noch ganz kurz in einem anderen Stift nochmal zeigen, was passiert hier.
+Hier unten wird jetzt mein Gegenwärme zugeführt.
+Und hier oben kann meinetwegen, wenn der Dampfdruck steigt, auch mechanische Arbeit geleistet werden und der Deckel angehoben werden.
+Ich kann also mit dem Zuführen alleine von Wärme hier unten einmal Wasser dazu bringen, dass es von der Dichte, mit der Wasser klassischerweise vorliegt und die auch sich nicht stark verändert wird,
+bestimmte Menge an Wassermolekülen hier verdunstet und hier die Dichte des entsprechenden Dampfes potenziell verändert oder auch nicht.
+Auf jeden Fall die Volumenmenge an diesem entsprechenden Dampf verändert von Systemgrenze 1 an Systemgrenze 2, was übergeben.
+Innerhalb dieses Systems 2 baut sich ein Druck auf, der ist nicht der gleiche Druck wie hier unten.
+Und dieser Druck führt dazu, dass ich mechanische Arbeit verrichten kann, dass ich den Deckel anheben kann und mein Nudeltopf klack, klack, klack, klack, klack, klack, nach oben irgendwie sich öffnet und immer wieder ein bisschen Dampf auszieht.
+Okay, das sind eigentlich ganz praktische, klassische Dinge, aber damit zu rechnen ist eben das, was wir hier machen wollen.
+Wir können noch weitergehen mit Klassifikationen.
+Thermodynamische Systeme haben wir gerade mal in den Raum geworfen.
+Wie gibt es, wie kann man unterteilen in offene Systeme oder geschlossene Systeme oder auch abgeschlossene Systeme?
+Und auch da gibt es zum Glück passende Informationen aus der entsprechenden Bilder.
+Entschuldigung, da war bei mir gerade was hier noch an Nebeninformationen, bin ich gerade rausgekommen.
+Also ein offenes System, es wäre jetzt nichts anderes, als wenn ich den Topfdeckel hier raus eröffne.
+Geschlossenes System, meinetwegen so ein Dampfdrucktopf, da sammelt sich jetzt entsprechend hier ein Flüssigkeits- und Dampfgemisch.
+Aber solange nicht das Überdrehmventil aufschlägt, ist dieses System erst einmal geschlossen.
+Es kommt kein Teilchen raus.
+Und was hätte ich jetzt noch als abgeschlossenes System?
+Das wäre vielleicht so etwas wie hier.
+Da geht nicht nur keine Teilchen rein und raus, sondern noch dazu, wenn es perfekt ist, eine perfekte Thermoskanne.
+Die gibt es nicht.
+Aber dann würde auch keine Wärme mit der Umgebung ausgetauscht.
+Das sind so die drei Varianten von Systemen.
+Offen, Stoffaustausch ist möglich und Wärmeaustausch ist möglich.
+Arbeitsausgleich ist sowieso geschlossen.
+Keine entsprechenden Stoffe, die getauscht werden und abgeschlossen gar nichts.
+Wir befassen uns mit allen im Laufe der Vorlesung am Anfang, vor allem mit den Rechten hier,
+am Schluss auch mit solchen offenen Systemen.
+So sieht so ein offenes System aus, wenn Sie mit der thermodynamischen Sprache da gucken.
+Da ist ein Massenstrom, ein Punkt, da fließt irgendwas durch, entweder eine Flüssigkeit oder ein Gas.
+Dann gibt es hier eine Maschine, meinetwegen eine Pumpe, die führt dem entsprechenden Medium eine Arbeitsfähigkeit hinzu.
+Das heißt, der Druck steigt und dann wird da irgendwie ein Wärmetauscher, irgendwie Wärme ausgetauscht.
+meinetwegen in meinem Kühlschrank, und hinten fließt es wieder raus.
+Meine Systemgrenze ist hier so gewählt, Sie sehen das gestrichelte,
+sodass irgendwas reinkommt und irgendwas rauskommt.
+Und wahrscheinlich kommt es nicht mit der gleichen Temperatur,
+nicht mit dem gleichen Druck rein und raus,
+sondern hat irgendwie unterschiedliche Zustände.
+Das heißt, meine Maschine verrichtet Arbeit am Arbeitsmedium.
+Ein geschlossenes System anders, da haben wir ganz oft so ein Bildchen, das sieht so aus wie so ein Kolben sozusagen von einem entsprechenden Motor oder was sei, irgendwas wird zusammengedrückt und in der Mitte kann irgendwas passieren, Wärme kann durchaus ausgetauscht werden, die Hitze kann abgegeben werden oder aufgenommen werden, aber es kommen halt keine Teilchen raus aus dieser Maschine, die da so arbeitet.
+Das ist meine Luftpumpe meinetwegen.
+Ich drücke sie zusammen, was passiert mit der Luft?
+Sie wird heißen.
+Sie wird nicht nur komprimiert sein, sie wird heiß.
+Und die Hitze geht raus.
+Und beim abgeschlossenen System, die skizziert man oft so mit solchen Kreuzchen außen dran.
+Ich erlaube mir, dass ich abgeschlossene Systeme in der Vorlesung,
+und das wird der Georg Habig, glaube ich, ähnlich machen, einfach nur noch so sprich sein kann.
+Also man sieht irgendwie, da draußen geht nichts.
+wird nichts ausgetauscht.
+Das, was drin ist, darum geht es,
+da ist keine Wärme ausgetauscht.
+Okay, dann haben wir das.
+Ich glaube,
+da haben wir alles
+soweit skizziert.
+Also Sie sehen schon, ich schaue jetzt echt häufig
+auf diesen Spickzettel, weil
+ich das jetzt auch schon
+länger nicht mehr lehrt
+habe.
+Beispiel für
+geschlossenes System, ganz einfach
+hatten wir gerade gezeigt
+ist eigentlich gar nichts Neues, wieder
+nur nochmal groß kopiert, gespiegelte Linie
+ist die Systemgrenze, außen haben wir
+den Kolben, den schieben wir hin und her
+dann wird die Systemgrenze
+nach wie vor sein
+alles was im Zylinder drin ist
+aber das Volumen ist kleiner geworden
+ist halt so
+ist trotzdem praktisch, wäre sehr
+unpraktisch, wenn ich meine
+Systemgrenze jetzt so wähle, dass sie
+meinetwegen so ist, wie jetzt das lila, brauchen Sie nicht abzuschmieren, weil dann habe ich halt
+da hinten immer irgendwas drin in meinem System, was unterschiedlich viel Volumen hat und gar keine
+Rolle spielt. Ich will ja wissen, was da drin passiert. Andere Beispiele kommen zum Glück eher nur relativ
+selten bei Ihnen dran, aber noch mal kurz zur Klassifikation. Das ist eine uralte Batterie,
+hier gezeigt und eine uralte Glühbirne, spielt aber keine Rolle, es geht nur darum zu sagen,
+was ist los, wenn ich Stromfluss habe, wenn ich hier den linken Teil des Bildes, das rot
+einskizzierte angucke, was habe ich dann für ein System, ein offenes oder ein geschlossenes,
+hier sollte man sehen, dass die Glühbirne brennt, also da fließt durchaus Strom, ist
+das System jetzt offen oder geschlossen? Es ist ein geschlossenes System. Warum ist es
+geschlossen? Weil man Elektronentransport nicht als Stoffstrom bezeichnet. Es ist im
+Übrigen auch so, dass Elektronen hier rüber wandern und gleichzeitig Löcher, also nicht
+gewohnt, mehr Elektronen hier zurück wandern,
+wandern auch die gleiche Anzahl
+an Elektronen hier rein, wie dort
+raus. In jedem Fall werden
+Elektronenkansporte nicht
+als Stoffströme bezeichnet.
+Man bleibt also dabei, das ist
+ein geschlossenes
+System. Diese linke Seite
+hat keinen
+Materialausbau, da fließt
+kein
+ja, kein Molekül
+dahin und tut da was.
+Vielmehr ist es, ob der Halbleiter
+technik so dass die entsprechenden materialien sich nicht fließen oder schwimmen eine elektrische
+energiefluss bleibt geschlossenes system anderes beispiel ein fön ganz klarer fall für ein offenes
+system ja das soll hier die skizze für den fön sein mein wegen dieses ventilator symbol hier
+da kommt was rein von außen mein wegen oder von der seite wird irgendwo luft angesagt hinten geht
+Luft wieder raus und die Luft, die hier angesagt wird, ist kalt und die hier ist wahrscheinlich
+warm und entsprechend sprechen wir über ein offenes System, weil hier ein Massenstrom
+reingeht und hier drüben wieder wahrscheinlich der gleiche Massenstrom wieder raus, mit anderen
+Bedingungen.
+Okay, da kann man auch zu Kontrollraum sagen, die offenen Systeme, Kontrollraum, das sage
+jetzt sozusagen so ein bisschen im Sprachlichen an, dass da eben irgendwas rein und irgendwas
+raus geht. Was geht denn rein und raus? Ja, sogenannte Fluide. Was sind denn Fluide?
+Muss jemand für ihn sagen? Wenn Sie nach Fluid googeln, dann finden Sie sowas, irgendwelche
+Komischen blauen und roten Flüssigkeiten oder Dingen.
+Was ist ein Fluid?
+Keiner.
+Also ich habe es gerade schon eigentlich gesagt, Fluid unter anderem könnte eine Flüssigkeit sein.
+Meine Hartigkeit ist mittelmäßig. Ich gebe es zu.
+Umso mehr, wenn Sie etwas nicht lesen können, sagen Sie bitte Bescheid.
+Flüssigkeit kann es sein, was kann es noch sein, ein Fluid?
+Gasförmig ist dann der Aggregatszustand, eine Flüssigkeit oder ein Gas, nicht aber ein Feststoff.
+Sie haben ja die drei Aggregatszustände, kommt nächstes Mal gleich nochmal in der nächsten Vorlesung,
+ist ganz einfach nochmal dann festzuhalten, Feststoffe gehören nicht zu den Fluiden,
+wohl aber die Flüssigkeiten und die Gase und es ist glücklicherweise so, dass in vielen Themenfeldern die Flüssigkeiten und Gase ähnlich verhalten
+und dass wir beides erschlagen können mit der Thermodynamik.
+Wenn wir dann mal ein bisschen genauer reinschauen und rechnen, dann sehen wir dann doch, dass die Unterschiede ziemlich groß sind
+und dass man manchmal ein bisschen aufpassen muss, welches Fluid wir da gerade haben,
+aber die Basisgesetzmäßigkeiten, die stimmen für Flüssigkeiten und für Gase,
+zum Beispiel diese ganzen Hauptsätze der Thermodynamik,
+und deswegen spricht man dann immer von einem Fluid oder einem Arbeitsmodell, Medium.
+Arbeitsmedium.
+Jetzt habe ich so einen komischen lilanen Farbton, aber ich hoffe, man kann es trotzdem einigermaßen lesen.
+Okay, ich mache jetzt keine Fluid-Show mit Ihnen, aber hier steht es nochmal auch als Definition.
+Fluid ist flüssiger oder gasgarniger Stoff und Achtung, hätte ich bisher noch nicht erwähnt,
+hier sieht man es aber im Bild ganz gut mit Lila und Blau.
+Auch erlaubt ist, dass es nicht nur ein Stoff ist, der flüssig oder gasförmig ist, sondern es darf auch ein Gemisch sein.
+Also es könnte entweder der gleiche Stoff sein, also wasserflüssig und gasförmig, oder auch zwei verschiedene.
+Zum Beispiel Luft. Was ist Luft? Sauerstoff, Stickstoff, verschiedene andere Spurengase.
+Und all die Dinge, die wir machen, funktionieren ziemlich gut für die zwei Hauptarbeitsmedien, mit denen wir uns beschäftigen werden.
+Einmal Wasser in flüssiger oder gasförmiger Phase und Luft, bitte nur in gasförmiger Phase.
+Luft verflüssigen kann man zwar auch machen, aber an einer Übungsaufgabe kommt es immer dran.
+Aber typischerweise Hesse.
+Okay, Energieerhaltung, das ist mehr oder weniger auch wieder vorbeigegriffen,
+der erste Hauptsatz, Energie kann weder erzeugt noch vernichtet werden,
+Energie innerhalb eines Systems, ändert sich somit nur um die Summe
+der über die Systemgrenzen übertragenen Energien.
+Was heißt das?
+Ich nehme die Vorzeichenkonvention gleich noch dazu.
+zugeführte Energie hat positives
+Vorzeichen, systemabgeführte Energie
+hat negatives Vorzeichen, das ist richtig
+wichtig, was da gerade steht
+das werden Sie immer wieder brauchen
+und danach
+wenn wir auch relativ bei einem Schluss
+machen
+ich gucke gerade, wo ich
+einen guten Cut machen kann
+naja, das passt gut
+da sind noch vier Folien, aber das ist nicht
+viel inhaltlich
+also
+Die Energie, die hier dazukommt, ist Energie in das System Plus
+und hier Energie aus dem System Minus.
+Für die wenigen von Ihnen, die heute kein Tablet dabei haben, keine Sorge,
+schreiben Sie mir ganz kurz ins Forum einen Satz, bitte vorhin im Hochladen.
+Ich lade Ihnen das nochmal hoch mit diesem wenigen, etwas gekritzelten Kommentar.
+Da ist ja keine Geheimnisse dabei.
+Aber Sie haben auch ein digitales Endgerät, in dem Sie schreiben können, Sie würden es mitbringen in der Zukunft.
+Ich empfehle es Ihnen, nur sonst ist es eine Papierschlacht.
+Dann gucken Sie in der Seite, das hat keiner was davon.
+Vor allem die Umwelt nicht.
+Gut, also, das war jetzt das System.
+Da ist meine Systemgrenze, die ist mehr oder weniger genau das gleiche, wie das, was ich hier als Kasten definiert hatte.
+und da wird also irgendwas zugeführt. Das heißt, wenn ich da jetzt mit meinen Wegen eine Wärme hinzugefügt
+wird, dann ist es ein Q. Den Buchstaben, wenn wir uns daran gewöhnen müssen, ist für die Wärme
+reserviert und es ist ein Q ab. Da geht vielleicht Wärme irgendwo rein auf der einen Seite und auf
+Auf der anderen Seite geht sie wieder raus.
+Und das heißt, die zugeführte Wärme ist in dem Fall eine größere Null und die abgeführte eine kleine Null,
+weil ich eben genau diese Vorzeichenkonvektion gerade betrieben habe.
+Ich glaube, ich werde es dabei belassen.
+Ich werde die nächsten drei Folien noch einmal aufblättern,
+weil ich ja jetzt übergebe an den Kollegen Happig für dieses Teil.
+Nur, dass Sie das einmal gesehen haben.
+Sie schreiben aber noch.
+Das lasse ich Ihnen und gönne ich Ihnen.
+also Energie in das System plus
+Energie aus dem System minus
+und dieses Q zu und ab
+größer und kleiner
+es geht jetzt da noch in den letzten
+zwei Folien dieses Mini-Kapitels
+darum, dass man die Energieinhalte
+quantifiziert in Wärme
+und Arbeit und dass man was
+macht, was sich bezieht auf Dinge, die Sie schon
+kennen, kinetische Energie, potenzielle Energie
+das kennen Sie bitte
+öffentlich und
+dass man dann Differenzen betrachtet.
+Das wär's an der Stelle.
+Ich übergebe trotzdem hier und mache eine Mini-Zusammenfassung.
+Die versuche ich immer zu machen.
+Heute ist nicht so viel zu sagen.
+Außer das, dass Sie hoffentlich in dem ersten Teil der Vorlesung
+mitgekriegt haben, wie wir uns etwa versuchen,
+in der Vorlesung den Themen zu nähern,
+dass mein Versuch ist, das Constructive Alignment zu machen,
+dass ich Ihnen also nicht, also dass ich versuchen will, Sie optimal auf die Prüfung vollzudrehen.
+Und wenn Sie das Gefühl haben, das passt nicht optimal zu Ihrer Prüfung oder dem, was Sie sich da unterbrechen,
+melden Sie sich. Herr Happig und ich sind wirklich für Sie da und offene Menschen.
+Und ich freue mich, wenn Sie dieses Angebot nutzen und den Kurs mit begleiten.
+Und das Angebot ist, glaube ich, auf der anderen Stelle auch, dass wenn Sie das mitmachen,
+dass Sie die Verständnisaufgaben gut aus dem Ärmel schütteln können
+und auch, glaube ich, sehr gut für eine Klausur vorbereitet sind.
+Vielleicht noch der letzte Kommentar.
+Erfahrungsgemäß hatten wir weniger als 5% der Leute,
+die den Kurs zum zweiten Mal besucht haben
+und ich habe noch niemanden erlebt, der ihn dreimal besucht hat.
+Also, man kann das schaffen.
+Und ich hoffe, wir schaffen es zusammen.
+Ich wünsche Ihnen alles Gute.
+Ich hoffe, alles klappt mit dem Modell.
+Wenn Sie Fragen haben, dann schreiben Sie ins Forum und wir sehen uns wieder am Freitag um 8.45 Uhr.
+Dankeschön.
