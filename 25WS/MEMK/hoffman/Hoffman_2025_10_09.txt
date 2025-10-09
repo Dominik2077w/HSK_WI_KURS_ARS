@@ -1,0 +1,1865 @@
+Als Lösung, zum Beispiel ein Fußbauteil von der Eisengießerei,
+dann bekommen Sie als Konstrukteur in Ihrer Anforderungsliste,
+Sie wählen zum Beispiel die technische Bezeichnung ab
+und das Fusseisenwerk bringt Ihnen als Feedback dann eine Verhandlung,
+in der darüber gesprochen wird, dass es potenziell konstruktive Änderungen geben muss
+und am Ende steht dann ein sogenanntes Pflichtenheft.
+Das zeigt dann im Prinzip, welche Anforderungen dort zu erfüllen sind und die verbindlich sind.
+Ganz am Anfang steht in der Regel auch eine Patentrecherche.
+Da muss man sehr aufpassen, dass man keine Patente verlässt.
+Viele Firmen veröffentlichen Sachen in Köln, zum Beispiel gibt es die Firma Ford.
+Wir haben dort öffentlich zugänglich einen Raum, wo Sie technische Lösungen, die Sie aber nicht Patentschützen wollen, veröffentlichen.
+Und alles, was mal veröffentlicht wurde, kann keinen Patentschutz genießen.
+Das ist nichts Neues.
+Das ist eine relativ wichtige Sache, dass man anfänglich diese Patentrecherche macht und schaut.
+zum Beispiel, das hat der Wettbewerb dort gemacht, gibt diesen Patentschutz und wenn Sie dort Verletzungen machen, dann wird das sehr, sehr teuer.
+Hier ist jetzt zum Beispiel Samsung, hat einen Patentstreit gegen Apple verloren.
+Das ist nur ein Beispiel.
+Und hier dieses Thema der Anforderungsliste, da muss genau definiert sein.
+Hier ist mal so eine Anforderungsliste dargestellt, der Rechnerklammer, Funktion, Geometrie, Kräfte, Werkstoff, Sicherheit.
+Diese Anforderungsliste kann immer anders aussehen und am Mitteltag ist daraus aus einem Lastenheft,
+wo dann so die Faktoren dargestellt sind, ein sogenanntes Pflichtenheft.
+Wir sind das letzte Mal schon stehen geblieben und haben dieses Beispiel genannt.
+Kommen wir dann jetzt zum Konstruktieren.
+Das heißt, eine Konstruktion ist in ihre Funktionen zu zerlegen und versuchen nach Lösungsprinzipien und deren inneren Aufbau.
+Das heißt, man kommt mit dem Ergebnis raus, hier hinten, sogenannte Funktionen zu definieren, Einzelfunktionen zu zerlegen und dann prinzipielle Lösungen zu erarbeiten und diese prinzipiellen Lösungen dann auch zu bewerten.
+Und dazu hat sich bewährt der sogenannte morphologische Kasten. Da kommt jetzt gleich auch ein Bild dazu.
+Wenn Sie wahrscheinlich bei dem Herrn Besler eine Konstruktion ausarbeiten müssen, dann gehe ich davon aus, dass Sie auch dort einen morphologischen Kasten machen müssen.
+müssen und dieser morphologische Kasten mit einer sogenannten Nutzwertanalyse durchgeführt
+wird, wo bestimmte Einzelfunktionen einen Wert zugewiesen bekommen und daraus der Nutzwert
+über eine Multiplikation, was wir gleich sehen werden, von entsprechenden Wichtigkeitsfaktoren
+oder Werten dargestellt wird.
+Das Vorgehen setzt sich zusammen aus Funktionen, in deren Zusammenhänge wird also diese Funktionsstruktur erarbeitet.
+Mit Prinzipien und sinnvollen Lösungsvarianten anhand des morphologischen Kastens erstellen,
+da kommt jetzt gleich ein schönes Beispiel,
+und Varianten durch die wichtigsten Kriterien bewerten und die optimale Lösung anhand der Nutzwertanalyse auswählen.
+Man evaluiert bestimmte Funktionen, diese Funktionen wird einem Wert einer Wichtigkeit zugewiesen und über eine Multiplikation werden verschiedene Lösungen anhand dieser Nutzwertanalyse miteinander verglichen.
+Die Aufgaben einer solchen Funktionsstruktur sind es, wesentliche Probleme des Produktes zu erkennen,
+die Funktionen zu beschreiben, die mögliche Erwiderung des Produktes aufzeigen,
+bei einer Einteilung für einen Baukasten zu generieren und die funktionale Beschreibung der Produktarchitektur abbilden.
+Das kann sehr formal geschehen. Ich selbst komme nicht so sehr aus der konstruktiven, sondern eher aus der Produktionsseite, wo die Dinge dann am Ende des Tages umgesetzt werden müssen, die dort konstruiert werden.
+In der Funktionsstruktur, Funktional- und Produktbeschreibung, teilt die sogenannte Gesamtfunktion in Funktionen auf,
+die dann wiederum in Teilfunktionen zerlegt werden.
+Und in diesen Teilfunktionen weist man dann bestimmte Baugruppen und final dann Komponenten und Einzelbauteile zu.
+Kommt gleich auch ein Beispiel, ich weiß nicht, geht jemand auch in die Fertigungstechnik morgen von Ihnen?
+Da kommt gleich ein Beispiel, wo so eine Baugruppe, ein relativ einfaches Bauteil auf unterschiedliche
+Art und Weise hergestellt wird.
+Das wird quasi dann von dem Konstrukteur festgelegt und immer wie die Leute dort konditioniert
+sind, was sie bisher so gemacht haben, haben wir einen Erfahrungshorizont und können diese
+Baugruppen oder Komponenten auf unterschiedliche Art und Weise herstellen.
+Diese Funktionsstruktur ist jetzt hier dargestellt, schrauben unsortiert 4000 Stück pro Minute
+in einer Blackbox, dann ist eine Relation da, ein Funktionseingang, eine Verknüpfung,
+daraus wird eine Teilfunktion und da hinten kommt dann dieser Funktionsausgang.
+Das ist also ein Prozessschritt, den man hier hat und das ist hier auch nochmal an einem Beispiel dargestellt.
+Ich will jetzt darauf gar nicht im Einzelnen eingehen. Ich gehe mal davon aus, dass Sie das vielleicht an Übungen in einem Prozess ein bisschen lieber machen.
+Hier gibt es dann relativ komplexe, ich finde dargestellt, diese Funktionsstruktur eines Loslagers, eines Festlagers und eines Festlagers mit statischer Entlastung
+und hier die Einzelfunktionen. Diesen Einzelfunktionen werden jetzt Komponenten und Bauteilgruppen zugewiesen.
+Das Ganze wird genutzt im sogenannten morphologischen Kasten.
+Das hat der Zwicky, Schweizer Astrophysiker, gemacht.
+Das ist eine systematische Kreativitätstechnik,
+das Erfinden von neuen Lösungen.
+Also ganz häufig, wenn jemand eine konstruktive Aufgabe hat,
+in einer Abschlussarbeit,
+dann wird auch dieser morphologische Kasten gefragt.
+Sie sollen sich prinzipiell Gedanken machen, was habe ich da für eine Aufgabe, wie kann ich die Aufgabe in einzelne Teilaufgaben zerlegen und daraus vernünftige Lösungen sehen.
+Da kommen jetzt gleich zwei Beispiele dazu, wie man das auswählen kann.
+Die Anwendung in vielen unterschiedlichen Bereichen, Wertanalyse, also auch oft in nicht-technischen Gebieten.
+Ich habe das jetzt hier mal farblich etwas anders dargestellt, wie sowas aussehen kann.
+Das ist jetzt einfach nur eine schematische Darstellung des Themas.
+Wir haben für die Konstruktionsaufgabe zerlegt in Teilfunktionen,
+hier die Teilfunktion 1 bis 6, und gehen dann eine Lösungsphase.
+Wir haben hier oben zum Beispiel für diese Teilfunktion 1 zwei Lösungsvalorien.
+Varianten gefunden.
+Um die Lösungsvarianten zu finden,
+nutzt man sehr häufig
+auch Kreativitätstechniken,
+dass man sagt, man macht einen
+Brainstorming, man setzt sich zusammen
+in einer Gruppe und sagt,
+was gibt es für Lesungen
+für diese Teilfunktionen.
+Kommt gleich ein Beispiel, anhand
+dessen man das jetzt sehr schön
+sehen kann. Und dann
+geht man sozusagen durch Ideen
+hindurch und sagt,
+Eine gute Kombination der Teilfunktion 1 wäre die Lösungsvariante TF1 mit der Lösungsvariante TF2.
+Und dann wird dieser Pfad durchwandert und wir kriegen zwei Ausführungsvarianten.
+Das eine ist die rote, die diese Kombination darstellt über die einzelnen Teilfunktionen hinweg.
+Und das Ganze wird dann im Anschluss bewertet mit der Wichtigkeit oder der Wertung
+der einzelnen Teilfaktoren multipliziert mit dem Wert, der die jeweilige Teilfunktion
+der Lösung hat.
+Kommen wir gleich dazu.
+Hier in dem Beispiel ist es so, für die Teilfunktion 4, das ist jetzt ganz abstrakt, und Teilfunktion
+1 gibt es zwei Lösungsvarianten.
+für die Teilfunktionen 2, 3, 5 und 6 gibt es jeweils drei Varianten.
+Und über die Kombination und den Pfad, den man jetzt da läuft,
+man könnte auch logischerweise noch eine dritte Ausführung machen
+und die entsprechend bewerten.
+Fragen dazu?
+Wir haben dann nachher irgendwie 100% Bewertung
+Wir weisen diesen Teilfunktionen prozentuale Anteile zu
+und multiplizieren dann die Lösungsvarianten miteinander
+und kriegen hier eine Bewertung der Ausführung 1 und der Ausführung 2
+Teilfunktionen
+da gibt es dann so schematische
+Dinge, Drehmoment
+übertragen, hier ist es eine
+einfache Lösung einer sogenannten
+Klemmverbindung
+wenn Sie das jetzt hier so sehen
+Sie haben eine
+Welle, die dreht
+das Drehmoment soll nach außen auf
+dieses andere Bauteil übertragen werden
+Und die Lösung, die Sie jetzt hier haben, ist, das Ganze über Reibung zu machen.
+Wie funktioniert das Bauteil?
+Kann das jemand erklären?
+Dieses Bauteil.
+Wie wird die Reibung übertragen?
+Das Drehmoment.
+der Welle
+auf den äußeren Ring
+nach außen
+könnte jetzt zum Beispiel auch so eine Verzahnung
+sein
+die außen drauf ist
+die wird das Moment übertragen
+indem sie
+einen Reibschluss machen
+indem sie Reibung aufbringen
+wie wird die Reibung aufgebracht
+in dieser Fläche
+hier muss Reibung herrschen
+In der Kontaktfläche. Wie schafft man das?
+Indem man diese Verschraubung ansetzt.
+Man nutzt hier die beiden Schrauben, die werden angedreht.
+Wenn die Schrauben zu locker sind, ist das übertragbare Drehmoment zu klein.
+Sind die Schrauben ordentlich festgezogen, können Sie über Reibung dieses Drehmoment übertragen.
+Was kann man noch machen, um Drehmoment zu übertragen?
+Sie können die innere Welle größer fertigen, als den Ring. Sie müssen dann den Ring erwärmen,
+dass er sich ausdehnt. Dann kühlt er ab, zieht sich wieder zusammen und dann haben Sie einen
+Formschluss. Auch da können Sie einen Drehmoment übertragen. Das heißt, man sucht nach prinzipiellen
+Effekten kommen gleich zwei Beispiele und eine Ausarbeitung dazu, wie man das machen kann. Hier
+über Hebeleffekt, zum Beispiel etwas zu heben. Das Prinzip, das an der Stelle jetzt herrscht,
+Sie brauchen bei der Kraft A eine kleinere Kraft, wenn der Hebelarm in dem Momentengewicht,
+was man hier hat, größer ist, können Sie den Hebelarm hier verlängern, um hier hinten das
+genug einfacher anheben zu können. Hier ist noch ein Beispiel, ein Signal angeben. Merkmale, Tisch,
+hier kann man jetzt diese Teilfunktionen oder Merkmale charakterisieren und kann jetzt eine
+Kombination durchführen. Ein wichtiges Merkmal wäre beispielsweise die Länge. Dann hat man jetzt
+Lösungsvarianten hier angegeben. Einmal kleiner 1,50 Meter, 1,50 Meter, größer 1,50 Meter, das Material, das zur
+Verfügung steht. Holz, grob bearbeitet, fein bearbeitet. Es könnte ein Glastisch werden.
+Das Ganze könnte aber auch aus einem Kunststoff aufgebaut werden, mit diesen Varianten. Eine
+weitere Variante ist sozusagen hier die Höhe des Tisches, 80, 85 oder 90 Zentimeter. Die
+Anzahl der Beine. 3, 4, 5, 6. Typischerweise entweder 4 oder 3. 3 vielleicht in der Kombination,
+wenn es ein runder oder ovaler Tisch ist. Der steht dann auch stabil. Typischerweise bei einem
+rechteckigen Tisch hat man vier Beine. Jetzt würden Sie sozusagen hier durch diesen Pfad
+durchgehen. Meine Wegen 1,50 m. Sie wollen ein fein bearbeitetes Holz. Typische Höhe ist 80 cm,
+vier Beine und das Ganze rechteckig und dann möglicherweise auszubauen. Eine andere Variante
+der Lösung, die hier meinetwegen angesetzt wird, kleiner als 1 Meter, Glastisch, Höhe 80 cm,
+Anzahl der Beine 3, der Tisch soll rund werden, als Beistelltisch. So können Sie Varianten Ihrer
+Lösung ausarbeiten und dann wird diesem Merkmal hier vorne ein Wert zugewiesen im Zuge einer
+Nutzwertanalyse entsprechende Kennwerte zu erreichen. Hier ist ein Beispiel. Kaffeemaschinen.
+Teilfunktion Kaffee vorbereiten, Bohnen zerkleinern. Das heißt, man geht da sehr in das Prinzip
+hinein und schaut sich an, wie eine Zerkleinerung der Bohnen aussehen kann. Eine Käsemühle,
+die beispielsweise ausgeführt ist in einer Keramik, wo zwei Scheiben aufeinander reiben
+und dann den Kaffee klein malen.
+Eine Flachmühle wäre eine Variante, eine Walzenmühle, eine Messermühle,
+so wie die noch nicht zu Hause stehen, also das wird immer frisch gemahlen als Prinzip.
+Und das ist jetzt von der Aufgabe her dann von einem Kaffeekocher sozusagen entkoppelt.
+Oder Sie müssen das jetzt in Kombination in die Maschine reinbringen.
+Bei den typischen, ich sag mal, Kaffeemaschinen, diese Vollautomaten, was ist da die typische Lösung?
+Das sind also diese Malwerke hier vorne, solche Kegelungen aus Keramik.
+Die drehen automatisiert, da wird die Länge zugemessen.
+Das ist typischerweise das, was dort ausgearbeitet ist. Kaffee vorbereiten und dann das Reh, sozusagen
+das Mahlgut portionieren. Das kann hier über so eine Vorderschnecke passieren, die dreht sich,
+fordert den Kaffee dann in diese Filterpresse hinein, hier über einen Walzendurchmesser,
+eine Förderschnecke, man könnte das auch manuell machen, wenn man jetzt hier so mal
+über den Messermügel das Ganze schneidet, dann manuell dosiert, geht über Dampfdruck,
+über so einen einfachen Mokka-Kocher sozusagen,
+die Aletti, so ein typischer Hersteller, dann aufbereitet
+und das Wasser hier unten über Durchlauferhitzer oder so einen Heizkessel
+oder über eine externe Heizung dann macht.
+Das wäre das, was wir jetzt noch anzunehmen.
+Und da geht man jetzt durch, kombiniert das, also Messermühle,
+dosiert manuell in den Dampfdruck hinein und über Erhitzung eine externe Platte empfiehlt.
+Das wäre Lösungsvariante 1.
+Und so werden die Teilfunktionen ausgearbeitet und bewertet.
+Jetzt gehen wir das mal durch.
+Hier ist eine typische Hitzwertanalyse dargestellt.
+Und wir versuchen jetzt mal, dann diese Werte herauszufinden.
+Zunächst einmal habe ich gesagt, diese Teilfunktionen, Kriterium 1 bis 5, werden zerlegt.
+Dividiert durch 100, denen wird ein Wert zugewiesen.
+Das wichtigste Kriterium wäre jetzt an der Stelle das Kriterium Nummer 2.
+Das bekommt 30 von 100 Punkten oder Prozent.
+Das ist Ihre Lösung hier unten mit dem 100 Prozent.
+Und Sie weisen dem jeweiligen Kriterium, das Sie ermittelt haben, eine Wichtigkeit zu.
+Und das machen Sie mit dieser Punktsache.
+Das ist die sogenannte Nutzwertanalyse.
+Das ist klar, ja? Das sind jetzt hier, wenn Sie das zusammenrechnen, diese 100%.
+Und wenn Sie jetzt ein Konzept erarbeitet haben, das hier so durchläuft, mit Varianten hier 1, 2, 3, 4, 5 und 6,
+ist das die Lösung, die Sie hier hinten dann bewerten.
+Und dieser Bewertung, zum Beispiel jetzt hat man hier gesagt, dieses Kriterium 1 ist bei dem Konzept A noch akzeptabel, es bekommt einen Punkt.
+bei der unzureichenden Ausführung
+gibt es 0
+der hat das jetzt von 0 bis 4
+gegliedert und hat
+diese Bewertung ist mal kritisch zu sehen
+weil da kommen jetzt die individuellen
+Vorlieben
+das ist jetzt in der Regel
+ich sage mal jetzt nicht komplett
+neutral
+aber man kann auch mit mehreren Personen drüber gehen
+und das ausdiskutieren
+wie wichtig ist die Lösung
+und wie gut ist die
+Ausführung.
+Und dann sieht man jetzt hier das wichtigste
+Kriterium bei Konzept A.
+Drei Bewertungspunkte
+mal 30%
+ergibt
+Wert von 90.
+Die einzelnen Bewertungen
+der Einzelschritte in dem
+Lösungskonzept sind hier alle
+bewertet, werden in Punkten versehen.
+Die Punkte werden
+E mal G
+multipliziert und hier untereinander
+geschrieben und hier hinten kommt ein Wert von 185 raus. Die Summe der hier gezeigten
+Kennwerte landet bei dem Konzept A bei 185 Punkten, bei dem Konzept B 205 und bei dem
+Konzept C, das sind hier viel bessere Bewertungen, 2x4, 2x2, 2x2, 1, 280 Punkte und die werden
+alle in Relation gesetzt zur Ideallösung. Die Ideallösung heißt, wir haben diese
+vier Punkte als Ideallösung immer mit dem g multipliziert, g mal g und subsumieren das
+alles untereinander und haben einen Nutzwert von 1.
+Das ist die theoretisch optimale Lösung, die es in der Regel wahrscheinlich nicht gibt
+und die dann mit 4 mal dem jeweils vorhandenen g multipliziert wird und dann hier zu einer
+Summe führt von 400 mal 100 Prozent, 400 Punkte sozusagen oder 400 Prozent.
+Der Nutzwert ist dann 1,0.
+Welche Variante wollen Sie jetzt bewählen bei dieser Ausarbeitung?
+Welche Variante?
+Sind Sie in das Skript reingekommen?
+Hat das funktioniert?
+Also natürlich Variante C.
+Da haben Sie jetzt 0,70.
+Das ist die bestbewertete, das ist der höchste Nutzwert, den Sie jetzt haben.
+Das ist das, was man typischerweise auch im Rahmen einer Abschlussarbeit macht,
+wenn Leute sich mit konstruktiven Aufgaben auseinandersetzen.
+Dann wird der morphologische Kasten verlangt,
+dass man systematisch erarbeitet, was sind Teilfunktionen,
+Funktionen, wie bewerte ich die Wichtigkeit einer Teilfunktion und die Lösungen und Konzepte,
+die man umsetzt, besitzen dann entsprechende Bewertungen Ihrer Kriterien und dann gehen
+Sie dazu über, dieses Konzept C, das den höchsten Nutzwert besitzt, in der Regel auszuarbeiten.
+Ja? Das ist eine prinzipielle Lösung, die Sie sich anschauen. Sie weisen dieser Lösung
+mit verschiedenen Konzepten unterschiedliche Nutzwerte zu. Diese Nutzwerte führen dann
+dazu, dass da eine neutralere Wertung stattfinden sollte. Neutral ist es natürlich immer nicht
+und man hat in der Regel auch schon was im Kopf, weil man zum Beispiel Lösungen kennt
+Von Wettbewerbern, von anderen Firmen. Aber da müssen Sie am Anfang in dieser Planungsphase sicherstellen, dass Sie keine Konflikte erreichen mit irgendwelchen Patenten. Ich habe das vorhin erwähnt, die Firma Ford hat eine große Wand in Köln, wo sie Sachen, die sie nicht Patent schützen lassen, publizieren.
+Wenn jetzt morgen einer kommt und sagt, ich habe ein Patent gemacht auf ein Türschloss, das schätzen Sie, ein Türschloss im Automobil, bis zu 400 Patenten, wenn Sie die verletzen, dann müssen Sie entsprechende Gebühren und Strafen bezahlen.
+Das heißt, da ist immer ein technischer Wettbewerb, das ist sehr, sehr wissensintensiv und Sie müssen sich auch mit diesen Dingen auseinandersetzen.
+dass sie da nicht in Konflikt geraten.
+Die publizieren das, was einmal publiziert ist,
+kann keinen Patentschutz mehr genießen.
+Und irgendwann können die das denn jetzt beispielsweise,
+wenn die vor Gericht stehen,
+einen Wettbewerber eine ähnliche Lösung gemacht,
+einen Patentschutz beantragen,
+dann kann die Firma fort sagen,
+wir haben eine sehr ähnliche Lösung schon patentiert
+oder veröffentlicht.
+Es kann keinen Patentschutz geben.
+Das ist relativ wichtig in der Entwicklung und Konstruktion, dass man da weiß, was ist Stand der Technik, wie sieht man das immer, Stand der Technik.
+Das dokumentiert den Wissensstand und wenn man Patente machen möchte, muss man den Stand der Technik dokumentieren und zeigen, was ist neu, was ich daran machen kann.
+Das ist immer ein relativ großer Kampf, den man da hat.
+Ich habe in meiner Karriere ein ziemlich großes Patent gemacht und die Firma hat es aber abgelehnt, dieses Patent anzumelden zu einem Patent.
+mit dem Produkt, was aus diesem
+schützenswerten Patent, es gab vier Entgegenhaltungen
+das ist geprüft worden beim deutschen Patentamt
+oder beim europäischen, glaube ich sogar
+da hätte man das anmelden können und dann hätte die Firma den Schutz genossen
+aber sie müssen dann auch veröffentlichen, was sie da gemacht haben
+zum Beispiel Rezepturen, Bestandteile, was haben sie da reingetan
+Und das wollen viele Firmen nicht, sondern die wollen das bei sich behalten.
+Ich habe mich da schon gesehen, irgendwie auf einer Insel.
+Das wird normalerweise sehr gut bezahlt.
+Also die Firma hat mit den Produkten, ich sage mal, mehrere Millionen Umsatz im Jahr gemacht.
+und dann kriegen Sie anteilmäßig an diesen Umsätzen eine Vergütung.
+Ich hätte da nicht mehr arbeiten müssen, wenn dieses Patent da wirklich gekommen wäre,
+also die nächsten 15 Jahre, solange das Patent gültig ist.
+Ich habe das mal ausgerechnet, es wären so im Jahr 200.000 Euro gewesen.
+Die haben das nicht angemeldet, weil der Vorstand gesagt hat,
+wir wollen diese Details, die da von Bedeutung sind, der Öffentlichkeit nicht zugänglich machen.
+Sie haben kein Patent gemacht.
+So gut, wie gesagt, Stand der Technik muss erogiert werden.
+Sie gehen durch Ihre Konzepte hindurch, bewerten die mit Punkten und multiplizieren diese Wertigkeit der einzelnen Kriterien mit den erreichten Punkten und kommen hier unten zu diesem Nutzwert.
+Das machen Sie ganz oft auch in der BWL bei Lösungen, die Sie haben, wo Sie wirklich dann versuchen, mit diesem morphologischen Kasten Einzelfunktionen oder die Wichtigkeit von Dingen zu bewerten, sieht man ganz oft in Abschlussarbeiten, weil es so, ich sage mal, der Einstieg in ein Thema ist.
+Fragen dazu?
+Kommen wir jetzt zum Entwerfen. Sie werden wahrscheinlich Ihre Passion für das Konstruieren noch entdecken müssen.
+Vielleicht macht das auch jemand mal später. Normalerweise ist das, was Sie jetzt hier machen, um in eine Konstruktion zu gehen,
+Wahrscheinlich vom Studium her viel zu breit aufgestellt, aber Sie sollten hier aus meiner Sicht heraus einen Einblick kriegen, wie dieses Konstruieren funktioniert.
+Das Gliedern in realisierbare Module, das Teilchen des gesamten Produkts, modulare Strukturen und dann ein Gesamtentwurf, der es da unten dann an das Ausarbeiten geht.
+Vom Prinzip her sollte man immer von innen nach außen konstruieren, mit den aktiven inneren Teilen beginnen und bei den tragenden, umhüllenden Teilen enden.
+In der Regel ist es immer ein Kompromiss, weil wir widersprechende Gesichtspunkte zu beachten haben.
+Die beste Konstruktion ist immer der beste Kompromiss zwischen zahlreichen Anforderungen und Lösungsmöglichkeiten.
+Bei mir war keiner von Ihnen in der BWL, prozessorientierte BWL.
+Ich hatte letztens, wer hat das gemacht bei Ihnen?
+Seenberg.
+Seenberg und?
+Schindel.
+Ja, also ich habe das in dem Jahr davor gemacht, ich mache es jetzt auch wieder, die prozessorientierte BWL.
+Und dann läuft Ihnen typischerweise, bis dem hier über den Weg ist, dieses magische Dreieck,
+Die Anforderungen, die Sie haben in vielen technischen Lösungen, ist es, eine Funktion sicherzustellen, die zwischen diesem Dreieck Zeit, Kosten und Qualität, was die Produktion angeht, anbetrifft.
+Ich habe da unten so ein Bild, das ist aus dieser Vorlesung BWL da jetzt rausgenommen.
+We offer three kinds of service. You can pick any two.
+Entweder guter Service, der günstig ist, aber das dürfte dann nicht schnell sein.
+Sie können guten Service erwarten, der schnell ist, aber das Ding wird nicht billig sein.
+Und ein schneller Service, der billig ist, der kann nicht gut sein.
+Also Kompromisse muss man immer machen, hier ist es mal dargestellt.
+Der klassische Kompromiss zwischen Zeit und Qualität besteht darin, dass man in der Regel eine Beschleunigung von Prozessen erreichen möchte,
+was dazu führt, dass die Kosten steigen.
+Wenn Sie gleichzeitig eine Beschleunigung machen, indem Sie vielleicht andere Technologien wählen,
+in denen jetzt hier ist das Beispiel Überstunden oder Expresslieferungen dargestellt,
+Sie möchten schnell was rausbringen, dann haben Sie dort in der Regel höhere Kosten.
+Das Dreieck zwischen Zeit und Kosten bedeutet, wenn Sie die Prozessgeschwindigkeit erhöhen,
+dann geht Ihnen in der Regel die Qualität zurück.
+Die Gefahr, dass höherer Ausschuss da ist, dass Ihre Werkzeuge Probleme bereiten, die schneller verschleißen und so weiter und so fort.
+Das sind klassische Dinge, die Ihnen entgegenstehen zwischen Kosten und Qualität.
+Wenn Sie die Qualität steigern möchten, brauchen Sie in der Regel mehr Kontrollen, mehr Qualitätssicherungsmaßnahmen oder Sie nehmen höherwertiges Material entgegen Ihren Kosten ab.
+Das ist ein klassischer Konflikt, in dem man immer steht, deshalb ist eine Konstruktion immer ein Kompromiss, der entsteht durch diese zahlreichen Anforderungen und Lösungsmöglichkeiten.
+Hier ist es dargestellt, der oberste Gesichtspunkt einer vernünftigen Gestaltung ist die Erfüllung der Funktion.
+Fragen bei der Suche nach funktionsgünstiger Gestalt.
+Ich habe eine Vorlesung im Master, da geht es ein bisschen um Materialien aus dem Kunststoffbereich und deren Einsatz.
+Man nähert sich sukzessive diesen technischen Lösungen immer aus einem Kontext heraus,
+dass man das Risiko natürlich klein halten möchte.
+Aber es gibt Anforderungen an solche Bauteile und dann schaut man, gibt es Wettbewerber, die ähnliche oder gleiche Funktionen schon mal in der Art und Weise erfüllt haben.
+Das heißt, es ist auch immer ein sogenanntes Benchmarking, was letzte Woche schon gefallen ist.
+Man guckt, was macht der Wettbewerber, was gibt es dort für technische Lösungen und welche Gesichtspunkte, Waren, Maßgebung, Gewicht, Abmessungen aus den Kosten.
+Die Funktion erfüllen ist also das Wichtigste.
+Und wenn Sie jetzt eine Funktion haben, dann können Sie die auch natürlich nach einer funktionsgünstigen Gestalt wählen.
+Wählen, welches Material wurde gewählt, welches Erstellungsverfahren wurde gewählt und aus welchem Grund, welche Erfahrungen liegen mit dem Bauteil vor, gibt es ausgesprochene Mängel oder Vorteile.
+Und dann gibt es in meiner Historie zu so einem Bauteil, die bietet manchmal gute Ansätze für die Gestaltung.
+Ich habe mal hier so ein Beispiel rausgezogen, das ist jetzt auch für eine Funktion.
+Auf einfache Weise realisieren, unnötigen Werkstoffaufwand vermeiden und unnötige Bearbeitung vermeiden.
+Ich habe das Beispiel hier in der Fertigungstechnik.
+Das ist jetzt hier ein Bauteil, das in einer Maschine eingesetzt wird, vielfach in einer
+Maschine eingesetzt wird.
+Ich weiß jetzt gar nicht, was das für eine Maschine ist.
+Dieser Winkel, auf dem wird ein Stoßdämpfer montiert und einen Anschlag gemacht.
+Der hat eine Funktion.
+Jetzt haben Sie zwei Varianten der Verarbeitung.
+Immer aus welchem Erfahrungshorizont der Konstrukteur kommt, sagt er, ich mache das Ganze jetzt, in dem Fall, früher traditionell, Aluminium.
+Aluminium lässt sich schnell bearbeiten, Sie haben schnelle Bearbeitungszeiten, es wird aus dem Vollen heraus gefräst.
+Sie machen relativ viel Abfall.
+Alles, was hier weggeschnitten wird, ist Abfall, das kommt aus dem Vollen heraus, die Löcher werden gebohrt.
+hier ist ein Gewinde wohl drin, wird das Ganze aus dem Vollen heraus gefräst und dann ist einer auf die Idee gekommen,
+es gibt andere Varianten, wir können das aus einem Blech mit einem Laser herausschneiden und dann das Ganze biegen
+und oder auch noch zusätzlich stanzen. Das ist ein Prozess, der geht schneller und am Ende des Tages haben Sie hier
+Blechbauteil, das hier aus dem Vollen heraus oder aus dem Blech heraus geschnitten wurde,
+was eine schnellere Bearbeitungszeit hat und in der Summe dazu führt, dass dieses einzelne Bauteil
+in knapp 80 Prozent günstiger ist. Das ist die identische Funktion, die vollkommen erfüllt wird,
+aber auf andere Art und Weise dieses Bauteil hergestellt wird. Kann man das verstehen?
+Ich ziehe mal ein Beispiel aus der Praxis heraus, wo man das Ganze jetzt in der Art und Weise dargestellt hat.
+Wenn Sie jetzt noch eine größere Anzahl von Bauteilen haben, kann man vielleicht von der Funktion auch an noch andere Möglichkeiten der Fertigungstechnik denken.
+Das heißt, der Konstrukteur muss auch immer ein bisschen im Kopf haben, wie kann man solche Bauteile herstellen, was sind die Möglichkeiten der Herstellung, mache ich daraus zum Beispiel ein Gussteil, das würde relativ wenig Sinn ergeben.
+Der braucht dann auch einen Blick dafür, was die Fertigungstechnik anbetrifft und was den Werkstoss angeht, um vernünftig konstruieren zu können.
+Bauteile müssen funktionieren, eine angemessene Lebensdauer erreichen und für die Beanspruchung einen geeigneten Werkstoss wählen.
+Was ist der entscheidende Unterschied zwischen Aluminium und Stahl, wenn man an so eine Konstruktion
+und an die Meschanik denkt?
+Es fällt Ihnen ein, wenn Sie gefragt werden, was ist der Unterschied zwischen Aluminium
+und Stahl?
+Aluminium ist leichter zu verarbeiten.
+Ja, leichter bearbeitbar, also höhere Prozessgeschwindigkeit, das wäre ein Vorteil.
+Das ist die wichtigste physikalische Eigenschaft von so einem Material, ist der Preis.
+Die liegen hier bei 3 bis 5 Euro, hier bei 20 Euro.
+Da nutzt ihn auch die höhere Bearbeitungsgeschwindigkeit nicht, weil wir haben da jetzt relativ viel Abfall.
+Was ist noch bezüglich der Konstruktion und der mechanischen Eigenschaften wichtig?
+Das ist leichter.
+Aluminium ist leichter, wenn es in den Leichtbau geht, ist aber hier keine Funktion, die...
+Formbarer.
+Bitte?
+Formbarer.
+Formbarer, Sie können das Aluminium extrudieren, so als Profil, das geht auch, ja.
+Und ich glaube, dass Aluminium nicht rostanfällig ist, oder?
+Genau, es ist korrosionsanfällig.
+Das sind jetzt alles Vorteile vom Aluminium, was ist denn der Vorteil vom Stahl?
+Stabiler.
+Im Sinne von?
+Er hält mehr Druck aus als die Kräfte.
+Ja, das wäre jetzt Festigkeit als Begriff aus der Werkstofftechnik.
+Die kann gleich oder ähnlich sein.
+Ich glaube es ist besser um sie zu verbinden, oder?
+Ja, also immer wenn Sie Stahl oder Aluminium und Eisenwerkstoffe miteinander verbinden, müssen Sie aufpassen, dass es Kontaktkorrosionen geben kann.
+Was wäre der Vorteil von Stahl?
+Also Sie haben es richtig gesagt, stabiler im Sinne von, es hat eine höhere Steifigkeit.
+Es verformt sich weniger.
+Stahl hat einen höheren Emodul.
+Das liegt hier bei 210.000 Gigapaskal, 210 Gigapaskal, und das Aluminium hat nur ein Drittel.
+Das heißt, bei gleicher Spannung, die herrscht, gibt es beim Aluminium dreifache Verformung.
+Und Sie sind dann auch schneller an der Grenze der Festigkeit.
+Also Sie müssen aufpassen, dass die Verformung nicht so gut ist.
+Das ist das, was ich hier sagen will. Beanspruchungsgerecht heißt, man muss das entsprechend anpassen.
+Und bei dem Aluminiumbauteil waren sie viel massiver. Beim Blech konnten sie dünner konstruieren, Material sparen.
+Und Aluminium in der niedrigeren Dichte ist insbesondere bei Reichbauanwendungen von Interesse, z.B. im Automobil.
+Audi hat ein Konzept, das nennt sich Spaceframe.
+Da werden sehr viele Aluminiumwerkstoffe und Bauteile eingesetzt.
+der Kraftfluss
+ist zu berücksichtigen
+konstruktive Möglichkeiten
+ausschöpfen
+erst dann höherwertigen Wertstoff
+wählen
+also das Material
+das richtige Material
+in der richtigen Menge
+am richtigen Ort einsetzen
+das ist jetzt die Herausforderung
+Ich habe mal eine Abschlussarbeit betreut, das ist für den Audi A8 gewesen.
+Da hat man ein typisches Stahlbauteil substituiert durch einen Carbonfaser-Werkstoff, was ganz
+vielleicht interessant ist, wo man es auch überhaupt nicht sieht in der Anwendung, das
+ist die Rückwand vom Rücksitz.
+Dort hat man so eine Konstruktion evaluiert, hat das mit Carbonfasern gemacht, um Gewicht zu sparen bei einem Fahrzeug bis 200 Tonnen.
+Das finde ich ganz interessant, dass man dann auf deutlich höherwertigen Kunststoff an der Stelle gegangen ist, um Vorteile zu haben,
+die allerdings wahrscheinlich auch mit einem deutlich höheren Preis zu versehen gewesen sind.
+Hauptkosten für ein Bauteil stehen immer in der Fertigung, das haben wir schon gesagt,
+der Konstrukteur legt fest, wie das Bauteil hergestellt wird.
+Damit hat der Einfluss auf die spätere Kostensituation.
+Und da muss man sich am Anfang immer schön Gedanken machen,
+ist es der richtige Werkstoff, ist es das richtige Material, das wir eingesetzt haben
+und wie wird dieses Material, Werkstoff und Kosten gerecht eingesetzt.
+Das heißt, der Konstrukteur muss immer einen Blick haben, was in der Fertigung passiert,
+wie das Bauteil hergestellt werden kann.
+Ich habe in der Einleitung bei der Fertigungstechnik so zwei, drei Beispiele.
+Das eine war jetzt dieser relativ einfache Anschlagpolzen, wo sich im Laufe der Zeit Werkstoffe, ich sag mal, gegenseitig substituieren, wo das Bessere immer Feind des Guten ist.
+Und ja, das immer davon abhängt, wie der Stand der Technik ist.
+Er hat neue Erkenntnisse erreicht. Im Automobil hat man die motornahen Bauteile bis vor einigen Jahren komplett aus Aluminium gefertigt.
+Was man festgestellt hat, Kunststoffe können den Job auch machen, die haben auch einige Vorteile.
+Und so stehen die Materialien und Fertigungstechniken immer in einem Wettbewerb.
+Und der Konstrukteur, der muss einen relativ weiten und offenen Blick dafür haben, was gibt es in der Fertigungstechnik für neue Möglichkeiten und wie können wir das in unserer Konstruktion mit umsetzen.
+typische Herstellung und Fertigungsverfahren, die werden wir hier die Gussteile machen mit dem
+Hangarber, Schmiede und Pressteile, Sintern, Schweißteile, Blechteile, also da gibt es ganz
+unterschiedliche Ansätze und Konstruktionen dann auch. Gussteile werden in der Regel endkonturnah
+gefertigt, wo Sie eine Nachbearbeitung haben, wo Sie bestimmte Toleranzen herstellen können
+durch eine entsprechende Nachbearbeitung, während zum Beispiel Schweißteile aus einzelnen
+Konstruktionen zusammengesetzt werden und durch den Schweißprozess dann zu einem gemeinsamen
+Bauteil hergestellt werden, in einer nicht lösbaren Verbindung. Sie können umgekehrt
+oder auch Mieten oder Schraubverbindungen herstellen.
+Das werden wir uns hier auch ein bisschen anschauen.
+Wir werden uns das Kleben anschauen als Option, das ist ja gar nicht aufgeführt.
+Wir nehmen die 3D-Druckbauteile mit drin.
+Das sind auch Optionen, die natürlich bedeutsam sind.
+Wir kommen zur GE, General Electric, diesen großen Konzern, mal eine Prognose.
+dass binnen relativ kurzer Zeit sehr viele Bauteile aus dem 3D-Druck hergestellt werden.
+Da habe ich mich schon mal mit 3D-Druck auseinandergesetzt.
+Manchmal haben die Leute auch so die Idee, dass man das machen kann.
+Da gibt es lasergesitterte Bauteile aus dem Pulver heraus.
+Es gibt Bauteile, die so ein Kunststoffbauteil explodieren und sukzessive aufbauen.
+Ich bin da immer ein bisschen skeptisch, weil die Prozesszeiten, um solche Bauteile herzustellen,
+zwar in der Entwicklung interessant sind, weil sie auch, ich sag mal, am Bauteil ein
+Unikat herstellen können, um Tests durchführen zu können, Funktionstests und in der Entwicklung
+vom Prototypenbau, das ist auch eine relativ wichtige Fertigungstechnologie, aber bezogen
+Erzogen auf Serienfertigungen sind diese Bauteile in der Regel viel zu teuer.
+In so einem Aluminium- oder Stahlbauteil-Truppen haben sie teilweise Materialkosten von 2.000 Euro pro Kilogramm.
+Und beim Stahl liegen wir bei 3 bis 5 Euro.
+Also das muss man immer vor Augen halten.
+Und die Kosten sind natürlich, die entstehen in der Fertigung immer von großer Bedeutung.
+Keine unnötige Präzision vorschreiben, so einfach wie möglich gestalten.
+Kennt jemand die Firma?
+Das ist ein Hersteller von Abzugshauben, die die Luft nach unten abziehen, beim Kochen.
+Und das heißt, da unten sitzen Gläser, was die Luft ansaugt, dann hat man da hinten dran so eine
+Kondensationsfalle und zusätzlich einen Filter, Kondensationsfalle und dann in der Regel so ein
+Aggregat, was die Atmos behandelt, damit es nicht zu unangenehmen Gerüchen kommt. Das Ganze wird
+mit Leitungen verbunden. Und ich hatte mal eine Absolventin, die hat eine
+Anfrage an mich gerichtet, ob ich einen Hersteller von Kunststoffbauteilen kenne,
+die diese Kunststoffrohre in eine Variante herstellen, nicht kreisrund, die wollte
+sowas haben, so ein Rechteckquerschnitt, extrudiert. Dann kam sie an und hatte
+dieses Bauteil bemaßt und hatte Maßtoleranzen drin aus dem Metallbereich. Wenn Sie mit dem
+Kunststoff eine Vermessung machen, eine taktive, und fahren hier bestimmte einzelne Punkte
+an, werden Sie schon feststellen, dass selbst bei der Messung das Bauteil so weich ist,
+dass es sich verformt. Wenn Sie mit den Toleranzen aus dem Metallbereich in so ein Kunststoffbauteil
+reingehen, werden Sie nie einen Lieferanten finden. Das gibt es nicht. Das können Sie
+nicht. Das müssen die Leute wissen, das muss man lernen. Das bezieht sich dann immer auf
+den Werkstoff, auf die vorhandene Fertigung und die Grenzen und Möglichkeiten des jeweiligen
+Werkstoffs und der in enger Kombination stehenden Fertigung. Deshalb machen wir auch die Fertigungstechnik
+und schauen uns an, was können wir denn jetzt für Toleranzen herstellen.
+Wenn Sie an Gussbauteile denken, das werden wir uns morgen anschauen,
+das sind Toleranzen 1%.
+Wenn Sie dort eine Maßtoleranz brauchen, die sehr eng ist,
+dann müssen Sie immer eine mechanische Nachbearbeitung an diesen Bauteilen machen.
+Sie sind immer nur entkonturnah, nennt man das.
+und deshalb ist es eine sehr enge Kombination von Material, Werkstoff und Konstruktion.
+Montagegerecht nach Zusammenbau aller Teile muss die Funktionsfähigkeit der ganzen Maschine gewährleistet werden.
+Wenn Sie bestimmte Lagetoleranzen brauchen, wenn Sie diese Fertigungstoleranzen einsetzen,
+muss die Montage möglichst ohne besondere Hilfsmittel möglich sein,
+Demontage, Wartung und auch das Recycling berücksichtigen.
+Hauptabmessungen des Bauteils
+ein praktisches Vorgehen
+Vorschlag dargestellt
+Hauptabmessungen des Bauteils
+aus Funktionsschema
+indem und wie
+gegebenenfalls durch Berechnung ergänzen
+Normzahlen bevorzugen
+Skizze anfertigen
+Werkstoff wählen
+Vorentscheidung über Fertigung treffen
+Dann werden gefährdete Querschnitte und kritische Beanspruchungen gesucht.
+Festigkeitsberechnung durchgeführt, Bauteile dimensioniert, man weist dem Bauteil eine Randstärke zu.
+und aufgrund der vorhandenen
+Beanspruchungen, die man annimmt,
+hat man entsprechende Sicherheit drin.
+Das werden wir uns ein bisschen anschauen
+hier im Rahmen der
+Maschinenelemente für ein paar Ausführungen.
+Wie dimensioniert man
+eine Mietverbindung?
+Wie groß muss die Fläche sein, um eine
+Mietverbindung sicher
+ausführen zu können?
+Das heißt,
+die Bauteile werden
+dimensioniert, wird eine Wandstärke
+zugewiesen oder bei so einer Klebverbindung, wie viel muss die Überlappung sein, wenn
+die Festigkeit eines bestimmten Materials gegeben ist.
+Und dann hier hinten die Fragestellungen, Prüfungen, ist es funktionsgerecht, ist die
+Funktion sichergestellt, ist die Festigkeit meines Materials da, ist das Ganze werkstoffgerecht,
+fertigungsgerecht, kostengerecht, montagerecht. Das heißt, das können Sie in der Regel nicht
+selbst entscheiden, sondern das macht man dann im Team, geht das gemeinsam durch. Ich fand das sehr
+interessant. Ich hatte einen Praktikanten, der hat jetzt bei einer Firma gearbeitet, die zu Sattelschlepper
+beziehungsweise so Quertransportbestelle herstellt.
+Er hat gesagt, es wird sehr viel gerechnet, aber mit so großen Sicherheiten,
+dass das nicht sonderlich Material, im Sinne von einem Leichtbau geschieht,
+möglichst wenig Material einzusetzen, sondern man setzt sich da immer so ein bisschen auf die Sicherheit.
+Also Skizze, Werkstoff wählen, gefährdete Querschnitte und kritische Beanspruchungen suchen
+und dann für diese kritischen Querschnitte eine Festigkeitsberechnung durchführen.
+Das ist das, was wir hier so ein bisschen machen werden mit einigen Bauteilen.
+Die Skizze nach der zweiten Berücksichtigung von fünftens überarbeiten, Fertigung abklären,
+wie kann man das Bauteil herstellen, da ist dieses eine kleinere Beispiel für so einen relativ einfachen Anschlagspolzen.
+Und dann passt das alles bezüglich Werkstofffestigkeit, Funktion, Fertigung, Kosten und der korrespondierenden Montage.
+Die Montage wird prüfen positiv, entweder die Bezeichnung erstellen oder wieder bei zwei Beginnen ein neues Bild anfertigen.
+Hier ist jetzt das Konzept sozusagen, das wir vorher am besten bewertet haben, ausgeführt.
+Es kommt jetzt fachlich ein paar Erläuterungen.
+Ich würde jetzt vorschlagen, wir machen eine kurze Pause, 15 Minuten.
+Und dann machen wir an der Stelle dann weiter.
+Ich spüre es ganz nicht nach.
+Ja?
+Hier so ein paar konstruktive Prinzipien, die beachtet werden sollen.
+Ich finde, dass jetzt gerade hier, ist mir das jetzt aufgefallen, vielleicht gar nicht
+so richtig platziert.
+Man kann das eher so in der Festigkeitsrechnung in dem Kapitel anbringen.
+Ich bin mir jetzt nicht sicher, warum der Kollege, ich habe es ja auch nicht rausgenommen, da jetzt so reingeworfen hat.
+Vielleicht, weil es hier vorne um das Funktionsgerecht geht.
+Und funktionsgerecht heißt, bestimmte Dinge einfach zu meiden.
+Hier haben wir einen Kraftfluss.
+Dieser Kraftfluss geht durch das Bauteil.
+Er hat hier zwei Angriffspunkte, die jetzt dargestellt sind.
+Und man soll immer kraftflussgerecht konstruieren, dass die Kraft auf unmittelbarem Weg durch das Bauteil geht.
+Hier führt es zum Beispiel dazu, dass wenn diese Kräfte hier angreifen, die Kraft in dem Bereich hier läuft, umgelenkt wird und hier ein besonders gefährdeter Querschnitt ist.
+Dieser Querschnitt muss sich dann berechnen. Kraft fließt durch das Bauteil und wenn es in dem Bauteil eine Störstelle gibt, dann können diese Kraftflusslinien sich sozusagen annähern.
+Wenn die Kraftflusslinien sich annähern, bedeutet das, dort ist eine erhöhte Spannung vorhanden.
+Zum Beispiel wird jetzt hier im Zuge dessen, dass die Kräfte da unten wirken, so ein Liegemoment wirksam, was sie in einem einfachen, geraden Zugstab nicht hätten, wenn sie kraftflussgerecht konstruiert hätten.
+Wie eine Flüssigkeit durch das Leitungssystem kann man sich das vielleicht vorstellen.
+Und wenn wir jetzt konstruieren, befindet sich dieser Kraftfluss in einem geschlossenen System.
+Das lassen wir uns ein bisschen darstellen.
+Der Kraftfluss sucht den kürzesten Weg. Wo geht jetzt die Kraft hier durch?
+Jetzt hier quasi ein Angriffspunkt.
+Kräfte, die hier rein, die durch diesen Querschnitt, der ist nicht besonders gefährlich.
+Hier wird dann aber auch das Bauteil mit deformiert und das würde bedeuten, es sähe dann so aus.
+Der Kraftfluss bevorzugt den kürzesten Weg.
+Wenn wir jetzt sowas haben, das ist immer kritisch, oben, das ist in Ordnung, das ist ein gerader Querschnitt,
+Die Kraft geht da durch und die Kraft, die da durchläuft, macht über den Querschnitt A eine Spannung
+und durch Multiplikation mit dem E-Modul eine Deformation.
+Das muss man jetzt betrachten für die Konstruktion.
+Jetzt habe ich hier zum Beispiel in einem Stab oder in einer Welle so eine Nut drin,
+weil ich irgendwas abdichten muss.
+Was bedeutet das?
+Das bedeutet, dass der Kraftfluss an der Stelle gestört wird.
+Hier kann die Kraft nicht durchlaufen.
+Hier sind die Kraftflusslinien immer in einem identischen Abstand, was dazu führt, dass über den Querschnitt eine konstante Spannung vorhanden ist.
+Hier unten ist es dargestellt mit diesen Linien nochmal.
+Diese Kraftflusslinien, wenn Sie mal bitte schauen, die wird hier umgelenkt, geht nach unten.
+Das führt zu einer Verdichtung der Kraftflusslinien an dieser Stelle, bedeutet die Spannung ist höher.
+Sie stören den Kraftfluss durch diese Nut, die eingebracht wird und die erhöht die Spannung lokal mit sogenannten Kerben, die sie machen.
+Dabei können Kerben, das ist hier nicht so eindeutig dargestellt,
+Kerben stören den Kraftfluss.
+Es gibt innere Kerben, die können dem Werkstoff vorliegen.
+Es gibt äußere Kerben, die geometrisch bedient sind.
+In der Regel führen die zu einer lokalen Spannungserhöhung.
+Und je nachdem, ob ich dann einen spröden oder zähen Werkstoff habe, kann das zu einem Problem werden.
+Hier habe ich eine äußere Kerbe, der Kraftfluss ist gestört, lokal kommt es zu dieser Spannungskonzentration.
+Das kann die Festigkeit so vergeben.
+Die Belastbarkeit des Bauteils kann abfallen.
+Das ist besonders schlecht jetzt an der Stelle,
+Diese Umleitung des Krachflusses durch die Geometrie von außen würde jetzt hier auch zu Spannungskonzentrationen führen.
+Hier würde zusätzlich eine Biegung durch den Krachfluss entstehen, was wir hier genauso haben.
+Das ist beides ungünstig.
+Kraft bevorzugt den unmittelbaren und direkten Weg durch ein Bauteil.
+Und das sollten wir in Umsetzung einer Konstruktion würdigen und dann auch entsprechend berücksichtigen.
+Beispiel hier, der Kraftfluss hier in dem Bauteil ist unmittelbar und direkt,
+das ist F durch A, das ist eine einfache Zugspannung, die Kräfte greifen an,
+An diesem Aggregat zieht das Bauteil auseinander, gibt eine unmittelbare Zugspannung, während wir in Ausführung einer derartigen Konstruktion diese Kräfte auch durchbringen müssen.
+Das Bauteil führt jetzt dazu, wenn die Kräfte hier angreifen, dass zusätzlich hier ein Biegemoment entsteht.
+Und dieses Bieg-Moment, was jetzt hier vorhanden ist, bedeutet, ich muss die Wandstärke für dieses Bauteil größer dimensionieren, ich brauche viel mehr Material, dass das alles wenig sind.
+Also immer den unmittelbaren Kraftfluss und den Weg durch das Bauteil so betrachten, dass möglichst wenig Bedrohung des Kraftflusses vorhanden ist.
+Wo würden Sie jetzt zwei günstige Varianten sehen des Kraftflusses?
+Oder was wäre nach Ihrer Idee, das sind jetzt zum Beispiel zwei Zahnräder, die ineinander
+greifen.
+Hier ist eine Oberfläche, hier ist eine Oberfläche, da greift es ein und wird die Kraft hier reingeleitet, muss auf die Welle geleitet werden.
+Hier zum Beispiel ein Antriebssitz, hier ist ein Abtrieb. Die Kraft läuft jetzt sozusagen, Beispiel A, hier oben rein, geht durch die Welle hindurch, muss hier über den Kontakt weitergeleitet werden.
+Da gibt es unterschiedlichste Möglichkeiten, das zu machen.
+Wir haben ja gesagt, Reibung wäre eine Möglichkeit, Reibung, die über eine Pressverbindung hergestellt wird, Reibung, die über andere Varianten dargestellt werden kann.
+Hier ist zum Beispiel eine Nut drin, da kann ein Bolzen reingesetzt werden, der jetzt die Kräfte dann über den Kontakt überträgt.
+Hier haben wir ein monolithisches Bauteil. Das könnte zum Beispiel ein Gussbauteil sein, dass man hier die Kräfte in unmittelbarer Richtung miteinander in Verbindung bringt.
+Das bringt die größten Vorteile, wenn Sie hier sowas machen, sehr weit die Kräfte reinleiten müssen, über die Welle nach außen.
+Das könnte mehr Probleme verursachen als diese Variante B.
+Hier gibt es ganz unterschiedliche Ausführungsvarianten.
+Was würden Sie zu den Varianten E und F sagen?
+Wie sieht es da mit dem Kraftfluss aus?
+durch die Schraubverbindung
+die jetzt hier dargestellt ist
+beispielsweise gestört
+Sie haben dort ein Gewinde
+Sie haben innere Kerne im Zuge
+des Gewindes
+Die Kraft muss hier durch
+geht in die Schraube hinein
+Sie haben zwei unterschiedliche Bauteile
+die miteinander verbunden werden
+Das sind alles potenzielle Probleme
+so monolithische Bauteile
+wie bei B
+wäre jetzt beispielsweise
+sehr, sehr vorteilhaft
+zu bewerten.
+Auch hier
+Variante D
+auch einen sehr
+direkten, kraftlosen
+Sender.
+sondern hier wäre auch zum Beispiel so eine Pressverbindung möglich,
+um die Kräfte von dem äußeren in das innere Bauteil zu leiten.
+Was wir sehen werden bei der Berechnung von Bauteilen, die eine dynamische Festigkeit besitzen sollen,
+dass auch die Oberfläche, die Bearbeitungsliebchen als Kern wirksam sind,
+dass die Oberflächenraurigkeit Einfluss nimmt auf die dynamische Festigkeit.
+wir haben den Begriff dynamische Festigkeit schon mal gehört
+wo spielt das eine Rolle
+was wäre der Unterschied
+oder was wäre eine typischerweise verwendete Festigkeit
+das ist die statische Festigkeit
+aus dem Zugversuch
+Die dynamische Festigkeit berücksichtigt, dass Bauteile, die einer schwingenden Beanspruchung ausgesetzt sind, typischerweise niedrigere Festigkeiten haben.
+Sie werden reduziert. Im einfachsten Fall haben sie eine Belastung zugversucht.
+Das ist die statische Festigkeit. Die dynamische Festigkeit ist reduziert.
+Auch das spielt bei der Auslegung von Bauteilen eine entsprechende Rolle.
+Und wenn wir Kerben haben, reduzieren Kerben in der Regel auch diese dynamische Festigkeit.
+Also die Belastbarkeit des Bauteils geht zurück und typischerweise auch die dynamische Festigkeit.
+Wir können da so ein Beispiel auch mal rechnen, wenn man das anhand eines Dauerfestigkeitsdiagramms machen kann.
+Konstruktive Kerben also vermeiden, unvermeidbare Kerben möglicherweise in Gebiete geringerer Beanspruchung legen.
+Hier ist ein Beispiel, zwei Varianten.
+Eine Torsionsfeder, da wird auf der einen Seite ein Torsionsmoment eingebracht.
+Also hier so eine Kraft auf der Ebene, die über den Winkel hier reingebracht wird.
+und hier hat man eine sogenannte Passfederverbindung.
+Es ist eine Nut in der Welle drin und in diese Nut wird so eine Passfeder eingesetzt.
+Das ist die Schnittdarstellung.
+Wenn jetzt außen ein Zahnrad draufgesetzt wird, wird eine Verbindung mit dem Zahnrad hergestellt,
+in der Art, dass so eine Feder eingesetzt wird.
+Die Feder dreht, es gibt einen Kontakt, in der Kontaktfläche wird die Kraft übertragen, anstelle des, was wir vorhin gesagt haben, Alternative über die Reibung die Kraft reinzubringen oder über eine sogenannte Schrumpfverbindung, wo das äußere Bauteil erwärmt wird, abgekühlt wird und dann auf diese Welle aufgeschrumpft wird.
+Dort haben Sie diese Kehrwirkung nicht.
+Die Kehrwirkung reduziert insbesondere die dynamische Festigkeit.
+Bei Gussbauteilen machen wir folgendes.
+Um diese dynamische Festigkeit zu erhöhen,
+werden Gussbauteile zum Beispiel in der Oberfläche mit Stahlkugeln geschossen.
+Das führt zu Druckeigenspannungen.
+Diese Druckspannungen werden mit dem Lastfall überlagert.
+Wenn Sie Druckeigenspannungen da drin haben,
+wird die effektiv wirksame Spannung reduziert, was dazu führt, dass die dynamische Festigkeit nicht angehoben wird.
+Das macht man typischerweise, weil viele Gussbauteile dynamisch beantragt sind,
+dass die Oberfläche mit Druckreifenspannung veraufschlagt.
+Das greift jetzt hier sozusagen die beiden Komponenten.
+Was macht man mit dem Bauteil auf der Fertigungsseite in die Variante mit hinein?
+Was macht man von dieser konstruktiven Seite?
+Und was sind die entsprechenden Rahmenbedingungen für die Auslegung von Bauteilen?
+Der Begriff innere und äußere Kerben.
+Innere Kerben liegen teilweise im Werkstoff vor.
+Ich habe das in Werkstoff bedingt.
+Er hat das hier in der Vorlesung drin, ich werde das aber rausnehmen.
+Das ist das Thema Gusseisen.
+Gusseisenwerkstoffe haben einen Überschuss an Kohlenstoff, der in den Werkstoff abgelegt ist.
+Dieser Kohlenstoff, den gibt es in zwei Varianten.
+In Kugeln, da nennt man das Ganze sphärisch oder Globulite.
+und als Lamellen.
+Diese Lamellen,
+dort wird eine schroffe Umlenkung des Kraftflusses erfolgen.
+Das sind innere Kerben.
+Und die führen dazu,
+dass nicht nur die statische,
+sondern auch die dynamische Festigkeit,
+so ein Grauguss nennt man das auch,
+Lamellen-Guss,
+deutlich reduziert ist
+gegenüber dem, wenn Sie das in Kugeln da drin haben.
+Gucken wir uns an, wird man sehen, hier hat man jetzt zu viel Kohlenstoff drin,
+der nicht mehr in das Textilbieter eingebaut wird, der wird als Graphit im Werkstoff ausfallen.
+Und dieser Graphit, kennt jemand Graphit als Material?
+Es wird genutzt, um Verbindungen zu schmieren.
+Graphit nutzen sie typischerweise, wenn eine Tür quietscht,
+und zwei Metallteile aufeinander reiben als Schmiermittel.
+Das ist ein ganz weiches Material und im Eisenwerkstoff, als Grafit fällt es aus, kann in Lamellen oder Kugelformen ausfallen und je nachdem ist die Kerbwirkung.
+Die dynamischen Festigkeiten von den Werkstoffen ist gegenüber der statischen Festigkeit dann
+noch deutlich reduziert.
+Die Beeinträchtigung des Kraftflusses, die jetzt im Werkstoff vorhanden sind.
+Hier sind jetzt mal ein paar konstruktive innere Kerben sozusagen dargestellt.
+Ich habe hier eine dünne Welle und außen meinetwegen aufgebracht ist die Verbindung
+zu einem größeren Durchmesser.
+Die Verbindung ist hier an der Stelle geschweißt.
+Hier gibt es dann die Option, dass die Kraft durchgehen kann.
+Hier wird die Kraft an der Stelle nicht durchgehen, weil hier keine Verbindung vorhanden ist.
+Und wenn man das jetzt wirklich dann sich betrachtet, dann sieht man, an der Stelle ist keine Verbindung da.
+Wenn eine Kraft jetzt wirksam ist, meinetwegen zwei Zugkräfte, die hier angreifen in dieser Richtung,
+dann wirkt diese innere Oberfläche als Kerbe.
+Kraft geht da im Prinzip durch und muss umgeleitet werden, muss hier eine Zugkraft drauf haben, die Kraft hier und diese Füge hindurch und da entstehen innere Kerne.
+Das ist immer ein Problem. Abhilfe wäre es jetzt hier, das Produkt komplett durchgängig zu schweißen.
+Das ist die Schweißverbindung, die dargestellt ist.
+Das ist jetzt durchgängig geschweißt und damit kann man die innere Kerbe vermeiden.
+Und wiederum, ihr fährt hier in die zweite Runde.
+Man kann immer mal wieder zu Ausfällen führen.
+Hier die ähnliche Variante, besser ist es hier durchzuschweißen, unten, sodass ein durchgängiges gemeinsames Gefüge dargestellt wird.
+Jetzt will ich nicht der Schweißexperte was machen, die Metaller, wenn sie schweißen,
+bezüglich der gewählten Werkstoffe, der Schweißverbindung,
+gewöhnlicherweise werden die Materialien, die als Schweißnaht oder Schweißdraht eingesetzt werden,
+mit einer höheren Festigkeit versehen als die Grundmaterialien,
+sodass da potenziell kein Versagen auftreten soll.
+Kunststoffe machen die Art gleich Materialien.
+Hier hat man schon mal gesagt, die dynamische Festigkeit wird aufgrund der lokalen Spannungserhöhung
+durch entsprechende innere Kerben deutlich reduziert.
+Fehlstellen, Einschlüsse, ja und dieser Kohlenstoff, der als Graphit im Gusseisen, entweder Spheroguss
+oder Grauguss ausfällt, hat immer zur Folge, dass es eine Schwächung für den Werkstoff darstellt.
+Das muss man dann entsprechend berücksichtigen und kann unter Umständen auch durch solche Prüfungen unterstützt werden,
+wie eine Röntgenprüfung, Ultraschallprüfung, um zu sehen, sind innere Kerben vorhanden oder nicht.
+Also das ist jetzt, sorry, ein bisschen losgelöst, ich habe das teilweise auch in der Kapitelfestigkeitsbetrachtung
+nochmal getrennt.
+Jetzt Fragen zur Selbstkontrolle, nennen Sie mindestens fünf wichtige Anforderungen, die
+eine Konstruktion Gemüge leisten muss.
+Funktionsgerecht, Festigkeitsgerecht, Werkstoffgerecht, Fertigungsgerecht, Kostengerecht, Montagegerecht.
+Das wären jetzt die Antworten zu dieser Kontrollfrage.
+Das sind jetzt so Fragen, die aus dem allgemeinen Teil gestellt werden können.
+Was versteht man unter einem Kraftfluss?
+Auswirkungen, das sind
+Kerben, innere Kerben, äußere
+Kerben.
+Durch welche Maßnahmen
+lassen sich diese
+zerbinden?
+Wie wäre es zum Beispiel,
+wenn man auf Prüfungsebene geht,
+beurteilen Sie
+die drei Varianten
+bezüglich des Kraftflusses.
+Müssen Sie mir
+darstellen,
+dass wir jetzt weg, schlecht, ungünstig,
+günstig, und Sie müssten mir dann sagen,
+was ist jetzt
+die günstige Variante,
+was ist die ungünstigste,
+und warum ist das so?
+Fragen dazu?
+Bei dieser sogenannten Wertanalyse
+Ich habe jetzt ein kleines Kapitel, bei dem wir drüber fliegen, ich sage jetzt mal, ich bin mir nicht sicher, ob Sie jetzt in dem Kontext diese FMIH machen,
+wir müssten das eigentlich bei den Gewinns machen, im Quality Management, da gehört das sehr gut rein.
+Ich habe es in der einführenden Veranstaltung bei der prozessorientierten BWL auch drin, mit einem entsprechenden Beispiel.
+Diese Wertanalyse, oder hier diese Fehlermöglichkeits- und Einflussanalyse, ist ein wichtiges Instrument in der Praxis zur Beurteilung von der Qualität von Bauteilen
+respektive der geminderten Qualität und ihren Auswirkungen auf das Unternehmen.
+Gehen wir mal hier rein, diese Wertanalyse, Value Engineering oder Wertverbesserung,
+Value Management von Produkten und Dienstleistungen ist auch hier wieder mit einer entsprechenden Norm hinterlegt.
+Ziel ist es immer eine Kostenreduktion zu sehen, um zu gucken, was sind wichtige Bauteile
+und was ist deren Kostenbeitrag oder deren Funktion und deren Kostenbeitrag im Sinne einer Gesamtkonstruktion.
+Und dafür möchte man immer diese Kosten bezogen auf die jeweilige Funktion mit einem niedrig-minimalen Wert versehen.
+Auch hier hat man wieder eine Vorgehensweise, die definiert ist.
+Die Funktionen werden analysiert und aus Sicht der Kunden bewertet und mit einer relativen Bedeutung versehen.
+Es kam vorhin noch mal die Frage in der Pause, ich will darauf noch mal ganz kurz eingehen,
+weil ich glaube, dass es bei den anderen angekommen ist.
+Hier bei dieser Nutzwertanalyse, die in ähnlicher Art und Weise durchgeführt wird,
+wird den fünf Kriterien eine relative Bedeutung zugewiesen.
+Dann kam die Frage, ja, wie mache ich das? Das müssen Sie selber entscheiden.
+Sie müssen selber entscheiden, was ist mir dieses Kriterium 1 wert,
+da ist er auf 15 gekommen, Kriterium 2 war die 30.
+Das legt jetzt der Konstrukteur fest.
+Und ich sage mal, im Nachgang, wenn man so eine Konstruktion nochmal zerlegt und auseinandernimmt,
+dann sollten da auch wieder diese Werte getroffen werden,
+wenn man es jetzt in andere macht, hat vielleicht eine etwas andere Verteilung
+und kommt zu anderen Ergebnissen.
+Deshalb ist das immer, ich sage am Ende des Tages, ein Kompromiss, den man machen muss und der spiegelt sich dann natürlich auch in dieser Wertanalyse wieder, weil auch dort entsprechende relative Bedeutungen zugewiesen werden.
+so wie wir das jetzt eben gemacht haben, für die verschiedenen Funktionen eine prozentuale Verteilung angibt.
+Die Summe ergibt immer 100% und daraus wird dann diese Nutzwertanalyse gewonnen.
+Funktionskosten werden jetzt hier erstellt, der relative Anteil der Funktionskosten ermittelt
+und anschließend wie immer den bewährten Umsätzen vorab.
+Die Bedeutung, die relative Anteil der Bedeutung an einer Funktion, an der Gesamtfunktionalität,
+Wenn die entsprechend Kosten hoch sind, dann sollten die natürlich hier oben in diesen Feldern liegen.
+Und hier unten, dort wo die Kosten hoch sind und die Bedeutung gering ist, da ist ein Optimierungspotenzial vorhanden.
+Und hier ist mal so eine Ausarbeitung gemacht worden, wo man das gemacht hat.
+Ich will da im Einzelnen gar nicht drauf eingehen.
+eingehen. Ich finde das jetzt nicht so wichtig von der Bedeutung her. Hier ist es mal ausgearbeitet,
+so eine Funktionskostenmatrix. Was ist der Anteil? 18 Prozent. Was sind die Kosten, die
+dort auftreten und die Kosten einer Komponente, die jetzt hier zerlegt worden ist? 34,54 Euro.
+ergibt sich auf der Summe der entsprechenden Einzelfunktionen,
+die an relativen Bedeutungen bewertet ist.
+Und können Sie im Prinzip, ja, sagen wir, Ihr Bauteil,
+bezüglich Funktionen und Kosten analysieren.
+Was kostet welche Funktion?
+Wie verhalten sich die Funktionskosten verschiedener Funktionen zueinander?
+welche Bewertung gibt der Kunde bezüglich dieser Funktion ab. Das ist ja am Beispiel dieser
+Taschenlampe gemacht worden. Anteil der Bedeutung, wichtig ist der Reflektor, die Lampe und vielleicht
+der Schalter, während Batterie und Gehäuse mit dem Aufhängeöse relativ wenig Bedeutung besitzt,
+und aber in dem Fall dann auch einen relativ geringen Anteil der Kosten genutzt.
+Wie man diese Dinge, ich sag mal, in der oberen Hälfte,
+der durch diese diagonale getrennte Funktionen aufweisen sollte.
+Ich würde lieber hier auf diese Fehlermöglichkeiten Einflussanalyse eingehen.
+Wir betrachten jetzt potenziell auftretende mögliche Fehler eines Produktes.
+Wir können das in der Konstruktionsphase machen, indem wir uns mit verschiedenen Fakultäten an einen gemeinsamen Tisch setzen.
+Produktion ist mit drin, Entwicklung ist mit drin, Qualitätssicherung ist mit drin.
+Und dann zerlegt man ein Bauteil, ein Produkt, das man gerade erstellt hat, oder man schaut sich einen Prozess der Fertigung beispielsweise auch an.
+Und guckt, was sind potenziell auftretende Fehler, was ist die Auswirkung eines potenziellen Fehlers und wie ist die Eintrittswahrscheinlichkeit eines schwerwiegenden Fehlers und können wir den vermeiden?
+Das ist eine sehr systematische, genau definierte Vorgehensweise nach Norm, die in der Automobilindustrie ganz etabliert ist und entsprechend ein normativer Verweis vorhanden ist.
+Man will damit Fehler vermeiden.
+Das ist ein Riesenthema in der Automobilindustrie, wo die Firmen über ihre Zulieferer in die
+Prozesse hineinschauen. Das heißt, ein großer Anteil der Fehlerkosten liegt ja irgendwo
+verborgen, unterhalb eines Eisbergs, wenn das Produkt nicht funktioniert. Sichtbar davon
+sind 5 bis 8 Prozent vom Umsatz, aber die großen unsichtbaren Kosten liegen unterhalb
+der Oberfläche und bieten
+sehr große Verbesserungspotenziale
+und dazu versucht man diese auch
+FMEA
+einzusetzen.
+Das ist eine Aktion gewesen
+aus dem letzten Jahr. BMW
+musste weltweit
+1,2 Millionen Fahrzeuge
+nehmen, ganz häufig diese Dinger da in der
+Automobilindustrie. Die arbeiten
+aber dennoch sehr systematisch
+und versuchen genau diese Dinge zu verhindern.
+was nicht immer funktioniert. Genutzt dazu wird diese Norm 16.9.49, die wird hier gleich nochmal genannt,
+das ist ein beschriebenes Vorgehen, wie so eine Produktentstehung zu bewerten ist.
+Ich habe das da jetzt mal reingenommen, das ist jetzt bei mir aus der prozessorientierten BWL herausgenommen
+Und da sehen Sie, bei der Entwicklung gibt es Fehler, Möglichkeiten und Einflussanalyse. Vorgabe, das Risiko wird klassifiziert, es wird kritischer Pfad beschrieben, es gibt Messkriterien und Reifegradabsicherung.
+Die machen das ganz systematisch und dennoch funktionieren einige Sachen nicht. Beispiel war jetzt hier oben BMW. Aus dem letzten Jahr ist es, glaube ich, gewesen, 1,2 Millionen Fahrzeuge Probleme an Bremsen. In Deutschland 150 Fahrzeuge davon betroffen und mit einem entsprechenden Risiko versehen.
+Trotz der in der Prozesskette, sowohl in der Produktentstehung und dann auch in der Serie bezüglich Einkauf, Entwicklung, Logistik, Qualität, Produktion abgesicherten Prozessen.
+Da sitzen dann Leute zusammen, die machen sich Gedanken, was ist ein potenzieller Fehler, wie tritt der auf und was ist die Auswirkung auf potenzielle Ergebnisse für so ein Unternehmen.
+Da gibt es jetzt sozusagen die Historie dazu.
+Seit 1998 verstärkt der Einsatz in der Automobilindustrie.
+Hier unten ist diese Norm, bezeichnet ist die ISO TS 16949.
+Und dann gibt es dazu entsprechende Normen aus der Automobilindustrie, wo man versucht hat, die Dinge zusammenzuführen.
+Ich weiß nicht, ob das jemand weiß, die Firma Daimler, Mercedes, hat mal einen Zusammenschluss gemacht mit der Firma Kreisler als amerikanischer Konzern und die haben unterschiedliche Qualitätsvereinbarungen mit dem Unternehmen gehabt.
+Und das Ergebnis aus diesem Firmenzusammenschluss ist diese weltweit gültige Norm ISO TS 16949 gewesen, um diese Vereinbarungen zu vereinheitlichen.
+Generell ist es so, dass jemand, der ein Produkt im Verkehr bringt, eine Haftung besitzt,
+Dann gibt es ein Produkthaftungsgesetz, wobei die Beweislast beim Hersteller liegt.
+Sie müssen zusehen, dass das Produkt bei verkehrtbringenden Rechtsvorschriften entspricht
+und Fehler nach Stand von Wissenschaft und Technik nicht erkannt werden konnte.
+Wer hat dieses Produkthaftungsgesetz mal unterwandert und wurde relativ stark dafür bestraft?
+Die Firma VW in diesem Skandal, die haben im Prinzip in der Software eine Erkennung gehabt, wenn er auf dem Prüfstand steht und die Abgase überprüft werden, dass der Motor dann anders betrieben wurde, als wenn er im normalen Betrieb unterwegs gewesen ist.
+was dazu geführt hat, dass Bundesgerichte entschieden haben, dass dieser Abgas-Skandal mit einer entsprechenden Vergütung für die Kunden vonstattengegangen ist.
+Nach dem bürgerlichen Gesetzbuch, Haftung des verursachenden Herstellers nach Verschulden,
+Da müssen Sie nachweisen, dass das ein Problem des Produktes ist und können dann Schadensersatzleistungen oder Schmerzensgeld holen.
+Oder hier Produktbesicherungsgesetz, Pflicht des Herstellers für sichere Produkte nach Regeln der Technik in den Verkehr zu bringen,
+Das war jetzt eben BMW, das sind etwas ältere Beispiele, wie hier Renault Scenic, die haben das eigentlich hier in jedem Jahr.
+Ich habe hier mal Zahlen gehabt bei der Automobilindustrie.
+Ich suche das in der Pause gleich mal raus.
+Wir hatten da mal Rückrufquoten von irgendwie über 400%.
+Sie haben im Jahr eine Million Fahrzeuge verkauft, mussten aber vier Millionen Fahrzeuge zurückrufen,
+weil es qualitativ Probleme gab.
+Ich weiß nicht, ob es fort ist oder nicht.
+Das ist jetzt nur ein Beispiel. Wir haben die Fahrzeuge zurückgerufen. Immer wieder kriegen wir diese Probleme auf. Nicht weil man die FMEA nicht durchgeführt hätte, sondern weil sie vielleicht doch nicht ohne Fehler gewesen ist.
+Ich versuche das immer zu eruieren, aber diese Probleme prägen in dieser Massenfabrikation sehr häufig auf.
+Ich habe das jetzt hier stehen lassen, das könnte man auch aktualisieren mit anderen, was generell weiterhin möglich ist,
+dass die Kosten, die entstehen, je später sie entdeckt werden, entsprechend größer sind.
+Bei der Auslieferung gehen wir auf den Wunderhaus.
+Wenn das in der Forschungs- und Entwicklungsphase entdeckt wird und damit beseitigt werden kann,
+gehen wir bei einem Tausendstel dieser Kosten, die entsprechend mit größerem Reifegrad höher wird.
+Und dem versucht man jetzt empfiehlt zu drücken, dass man die Fehler möglichst früh findet.
+Deshalb gibt es verschiedene Varianten dieser Fehlermöglichkeit.
+Eine Einflussanalyse ist eine Konstruktions-FMEA, Aufdecken von Entwicklungsrisiken,
+das heißt Fehler in der Systemauslegung, Bauteilfunktion, Bauteilversagen, Bauteileigenschaften, Material, Geometrie.
+Hier geht man nicht dazu über Fehler in der Fertigung oder Montage zu betrachten.
+Auch dort gibt es dann eine sogenannte Prozess-FMBA, das wäre die nächste Variante, Aufdeckung von Produktionsrisiken, Fehler bei der Prozessauslegung, Prozessfunktionen, Prozessfehler, Prozesseinflüsse, Mensch, Maschine, Material, Methode und Mitwirkung.
+kann im Lebenszyklus gemacht werden
+oder wie bereits gesehen in der Konstruktionsphase
+enthält sehr viel Know-how
+und ist damit ein Wissensspeicher für Produktweiterentwicklung
+und Ursachenanalyse bei Servicefällen
+hier ist dargestellt Ursache und Wirkung
+ich weiß nicht, das ist von rechts nach links zu lesen
+rechts ist eine Fehlerursache
+die zu einem Fehler führt, die dann zu Fehler folgen.
+Beispiel Antriebsmittel, hydraulischer Unterbau,
+Zero-Label, das sind ja sogar Beispiele, die sind ja ein bisschen zu abstrakt.
+Vorgehensweise, man erfasst entsprechend die Elemente,
+strukturiert die Funktionen, werden den Strukturelementen zugeordnet
+in einer Funktionsanalyse, dann wird eine Fehleranalyse gemacht.
+Die Maßnahmen werden zur Vermeidung und Entdeckung dieser Dinge dokumentiert.
+Wie gesagt, das ist alles sehr stark formalisiert, das ist sehr stark in der Automobilindustrie vertreten.
+Trotzdem gelingt es immer mal wieder nicht, diese Fehler zu vermeiden.
+Das Risiko mit weiteren Maßnahmen zu hindern und geänderten Stand zu bewerten.
+Die Taschenlampe-Strukturanalyse ist Schraubdeckel, Lampenkopf und Gehäuse.
+Das ist die Struktur, die Funktionen.
+Schraubdeckel kontaktiert die Batterie über Feder, dichtet das Gehäuse ab, bietet Aufhängung.
+Über Öse, das wäre die Funktionsanalyse, Fehler der auftreten kann,
+dass kein Batteriekontakt herrscht und das Ganze wird dann nachher möglichen Fehler folgen,
+möglicher Fehler, Fehlerursache, Vermeidungsmaßnahmen, Entdeckungsmaßnahmen,
+dokumentiert, aufgeschrieben und dann umgesetzt.
+Hier haben wir das im Zuge einer System-FMA, verhindert das Aufregen von Fehlern in der Entwicklung.
+Weiß jemand, was die FEM-Analyse ist?
+FEM. Hat mit der FMEA nichts zu tun. Ich finde es auch nicht so spannend. Nächste Woche machen wir ein bisschen was, können Sie mal ein bisschen üben.
+FMEA, Fehlermöglichkeits- und Einflussanalyse, FEM, ist eine finite Elementemethode, mit der Sie Bauteile bezüglich der mechanischen Auslegung berechnen können.
+Amen.
+Darf ich ein Foto machen?
+Er trinkt auch oft so Caps im Unterricht.
+Damit man sich sieht.
+Ja, muss jeder selber wissen, was er macht.
+Guten Morgen.
+Ich gebe auch mal einen Kaffee.
+Was ist denn das?
+Weiß nicht.
+Halt dich mal zu.
+Du guckst da dann mal so.
+Der da vorne hat etwas gepfiffen.
+Da hat er so einen Spuck so,
+da muss so ein Speichel stecken.
+Ja, das war er.
+Ja, das war er.
+Ja, Jace auch.
+Ich denke mir, er kann nicht mehr wehkommen.
+Geh mal rein.
+Danke.
+Thomas, sag auf.
+Wir saßen richtig am Boden.
+Thomas, sag.
+Ich schwöre dir.
+Aber sind wir nicht in Normandie?
+Da sind noch mehr da.
+Und dann bin ich so.
+So ist er nächstes Mal in Berlin.
+Eigentlich schon, aber okay.
+Und heute, es war so lustig gerade.
+Und du hast schon lustig gerade.
+Der schläft schon oft.
+Auch der ist damals Elke Technik mal geschlagen.
+So war ich auch immer.
+So war ich auch immer.
+Ich hab so 40 Leute, mehr als 40 Leute, der schläft.
+Das ist halt so scheiße, wenn du so wenige suchst.
+Du warst so geil.
+Schon immer.
+Im Geburtstag warst du so.
+Wie so ein Flüsterling.
+Ich mach die 50, gell?
+Nein, nein.
+Die BSTM ist die seriöse Seite.
+Ich hab da Arbeit gemacht.
+So, aber es kommt zu dem, was wir im Gym alles...
+Weißt du, wo du zuhause effizient einschlafen musst, bei mir, ist die Elf.
+Warum?
+Das ist noch viel langer als die Elf.
+Doch, einfach. Ich war letztes Mal...
+Das war...
+Kommt auf die Uhrzeit.
+Nein.
+Im PP bin ich immer eingeschlafen.
+Wir sind immer ruhig.
+Ich hab immer eingeschlafen, weil ich reingemacht werde, immer noch.
+Ich esse nur.
+Ich esse zu langweilig.
+Deswegen ist der Sack davon irgendwas.
+Möchte eh nix.
+Aber ernstvoll, der ist echt unnötig, ey.
+Fällt mir auf die Hand.
+Kameramann, guck mal richtig.
+Die Semester ist schon lustig.
+Der Montag ist schon lustig.
+Die sind schon coole Leute.
+Also ich merk.
+Letztes Semester war auch top, fand ich.
+Das letzte Semester fand ich auch geil.
+Ich habe nur gestanden.
+Ich habe gewartet, wie ich entlang erlernen werde.
+Du hättest den schon mal hingefordert.
+Was machst du denn jetzt wirklich?
+Chillt.
+Chillt.
+Ich wollte mal die letzten...
+Ich wollte mal erlernen in den letzten paar Monaten.
+Nächsten Monat.
+Nächsten Monat.
+Schaust du mich aus oder sag ich das?
+Ich oder...
+Schau ich in den Linksaugen, das ist echt normal.
+Das ist normal.
+Kannst du spielen?
+Jetzt schaue ich in dein rechtes Auge, jetzt in deinen Winkel und dann schaue ich in dein Fernsehen.
+Ja, jetzt ist echt kaputt.
+Kannst du im Ecken schauen?
+Siehst du jetzt so, da drüber schon, so wie du dich anschaust?
+Ja.
+Das kann auch jeder.
+Selbst wie er deinen Namen sagt.
+Das ist unkompliziert.
+Das ist ein Thema.
+Hä, das ist letztlich, ja.
+Du hast so, wie dachte ich das?
+Mir fällt halt voll die Schleimhaut an, wenn der Name so steht.
+Ja.
+Ich hab die auch dabei, aber die Fotos hast du dir alleine gemacht.
+Ich komm mit.
+Warte, gib das ab meiner Warte, Bro.
+Das hier lasst du raus.
+Ich war mal mit dem Model zusammen.
+Wenn du machen lassen willst, gehe ich auch machen.
+Du willst echt machen, gell?
+Du bist echt schmutzig.
+Aber es f**kt schon ab, Bro.
+Warte.
+Ich bin jetzt neun von zehn.
+Ich bin neun von zehn jetzt, aber nein.
+Was für neun von zehn?
+Ich bin jetzt neun von zehn.
+Ich habe jetzt schon 11 von 10.
+Ich habe jetzt nur noch 15.
+Bisschen, weil ich bin mal krass.
+Ich bin Rob, der Glower.
+Ich glaube, man kennt ihn nicht.
+Schau, meine Haare.
+Ich komme bis dahin.
+Das ist der alte Rosemann.
+Ich komme von der Waffenschule.
+Ich will auch in die Autos.
+Also, ich finde, du bist sehr hübsch.
+Ich würde dich nicht lieben.
+Danke.
+Kannst du das mal?
+Nein, das ist Chavez.
+Chavez.
+Du musst eben sagen Chavez.
+Das ist Chavez.
+Nein, Chavez.
+Scheiße.
+Das ist kurdisch.
+Richtig kurdisch.
+Ist das gut genug?
+Ich weiß nicht.
+Oh.
+Was kriegst du denn von dem System?
+Es wird dir einfach zehn gegeben.
+Wie wir sie anhalten.
+Manchmal ist es gut, manchmal ist es zu scharf.
+Ist es denn gut, dass sie fliegt?
+Ich finde der gerade so auch besser als offen.
+Oder was hast du gesucht?
+Das ist besser.
+Nein.
+Auch nicht besser.
+Offen?
+Nein.
+Und sie sieht so anders aus, obwohl irgendwas sie hat machen lassen.
+Ich schwöre, sie sieht nicht aus wie Frau Silvester.
+Keine Ahnung.
+Hast du ihr was machen lassen?
+Sagst du irgendjemandem dann, was du ausmachst?
+Hm.
+Aber jetzt einfach weg.
+Hey, warst du heute bei mir anders aus?
+Du hattest so ein kleines Gesicht, so irgendwie.
+Warst du zufällig im Urlaub oder was?
+Du hast mir so einen Kick ins Gesicht gekriegt.
+Na ja, sonst siehst du anders aus.
+Auf YouTube schaue ich besser oder schlechter?
+Hm?
+Schlechter oder besser auf YouTube?
+Echt schlechter?
+Bist du das auch?
+Ja, das ist er.
+Er meint jetzt ernst.
+Sagst du auch echt?
+Ich bin immer real.
+Bist du echt davor, das zu sagen?
+Echt schlimm.
+Ich hätte nie das 1 bekommen von dir.
+Ich hätte gesagt 7,5, 7,8, 8.
+Jetzt sagst du 7.
+Wahrscheinlich, weil ich brauner ausstehe.
+Oh, scheiße.
+Helfen musst du echt auf?
+Ja.
+Ist das schlimm?
+Nein, aber was?
+Nein, das ist ihr Faul.
+Ihr blöft.
+Das ist der Banner.
+Komm, schlafen wir.
+Ich werde heute zu faul.
+Aber ich sag's gleich, du wirst zwei Monate hoffenlos sein.
+Das ist gut geblieben.
+Das ist gut geblieben.
+Sagst du das immer noch so?
+Echt?
+Hey, ich bin viel besser.
+Klar.
+Ich bin voll bunkel geworden.
+Du bist nicht so leise wie wir, aber...
+Das ist traurig.
+Nein.
+Hast du es gesehen?
+Was?
+Du bist nicht so weit weg.
+Ich höre ja gar nichts.
+Hast du noch nie gehört?
+Ich habe es noch nie gehört.
+Oh, wo ist der?
+Wo ist der?
+Wo ist der?
+Wo ist der?
+Wo ist der?
+Der Wurst?
+Wir gehen jetzt weiter.
+Wir gehen jetzt weiter.
+Der Wurst ist sicher wieder da.
+Der sagt es, oder?
+Ja.
+Nein, denen ist es nicht passiert.
+Noch zu links.
+Das ist aber schlecht.
+Hä?
+Nüsse?
+Ja.
+Echt?
+Echt schlecht.
+Ich auch.
+Wisst du, dass das so aussieht?
+Ja, aber ich hab richtig ein bisschen...
+Du lachtest so eine Stunde später.
+Weißt du mehr?
+Irgendwie kippst du aber auch irgendein Schloss draus.
+Ja, schau ich mal.
+Ist irgendwie, man denkt, es ist dümmer als es ist eigentlich.
+Geil.
+Machst du es jeden Tag eigentlich?
+Nein, weil es halt schlechter ausschaut.
+Weil ich mich letztes Semester geschminkt habe.
+Doch, ich bin nicht geschminkt.
+Nein, letztes Semester war ich immer geschminkt.
+Jetzt nicht mehr.
+Deswegen...
+Du schminkst vielleicht noch.
+Ja, stimmt. Meine Augenbrauen waren auch gemalt und so.
+Auch so.
+Ich weiß, aber das wäre halt nicht so eng.
+Das Lappen ist ein bisschen...
+Geruch, glaube ich.
+Ich glaube, ich habe schon ein bisschen Wurzeln.
+Hier?
+Hier gibt es ja nichts.
+In diesem Haus gibt es nichts.
+Komm!
+Ah ja, die kommt ja wieder.
+Du wolltest auch kommen, ey.
+Das ist mein Kulturerbe.
+Ich bin deutsch.
+Eine einzige Töte in der Farbe.
+Was bist du?
+Eine einzige Töte in der Farbe.
+Oder weißt du, eine ältere Ecke.
+Weißt du?
+Ja.
+Weißt du, wo?
+Wo?
+Mutti Park.
+In der Verpackungszone.
+Warum machst du?
+Ich dachte, du bist aber eine Logik, die...
+Ja.
+Ja.
+Du?
+Wer ist der, der so ein Film macht?
+Du kennst den.
+Ah ja, du?
+Mach.
+Bist du das an dem Movie, ey?
+Musst du mir reden?
+Hast du Schlauze, Jessai?
+Nein, nur das hat was für einen.
+Weil du bist ja schon seltsamer als Ada.
+Ada zu euch.
+Ich bin schlau und lieb.
+Ja, ist auch nicht.
+Ihr sagt, Rainer ist seltsamer als du.
+Ja, auch voll nett.
+Ich sag, ich hab da allgemein nichts.
+Wie, wie?
+Doch.
+Doch, ist doch scharf.
+Ich sag, ich hab ein bisschen ungewiss, aber allgemein nichts.
+Nein, ich sag, ich hab alles drin.
+Du machst mir so eine dumme Sache, du Arschloch.
+Ich sag, alles in Ordnung?
+Ich kopiere dein Gezüge.
+Was?
+Okay, wer hat noch was?
+Ich hab drei gesagt, aber das ist eben meine letzte.
+Das ist voll schlecht.
+Das bin du noch nicht gesagt.
+Aber was?
+Ja, aber was?
+Ich hab gesagt, ich bin reingelaufen.
+Du bist noch einfach für ein Stück, war so ein Pizze.
+Du hast keine bei mir nicht, gell?
+Du hast einfach Pauli gehört.
+Ich weiß von dem nicht, aber ich liebe ihn.
+Aber warum vergleichst du ihn?
+Aber erst einmal 300 Prozent.
+Aber es ist schön, es ist ein bisschen doof.
+Super.
+Man hat die Ziele und die haben sie.
+Vielleicht gehen wir mal.
+Vielleicht gehen wir mal.
+Nein, es geht nur ein bisschen.
+Der Arbeitsbedingung liegt einfach.
+Der Traum ist das eigentlich.
+Geht überhaupt nicht.
+Keine Theorie.
+Was denken Sie sich eigentlich auch, wenn Sie so eine Gespräche hören?
+Ich habe jetzt nicht zu gelacht.
+Ich glaube, wir haben jetzt da eine gute Möglichkeit.
+Ja, cool.
+Wie auf unserem Semester.
+Was trinkst du?
+Was trinkst du?
+Oder was lebt die eigentlich?
+Und was trinkst du?
+Ich war ja letztens mit denen aufgefangen.
+Ich mag keine.
+Ich glaube ich habe Belegwand voll.
+Ich mag keine.
+Ich mag Belegwand voll.
+Ich mochte eigentlich keinen.
+Du hast die lieber gesehen.
+Die ist weg.
+Die ist weg.
+Die ist weg.
+Die ist gleich an den Kippen in der Nähe von der Züge.
+Vom ersten Tag her war es so gut.
+Ich auch, ja.
+Ja, siehst du.
+Ich kenne dich mal, ich habe einen Namen gesagt.
+Ich weiß auch nicht, wer es ist.
+Einer ist eigentlich ein Projekt, einer wie sauer.
+Ich weiß nicht, wie ich ihn nennen soll.
+Ich weiß auch nicht, wie ich ihn nennen soll.
+Er spielt auch Fußball.
+Max?
+Wer eigentlich?
+Ich kenne nur Max.
+Hast du dich auch mit dem beschäftigt worden?
+Doch.
+Wir sind Chameleon.
+Ich habe im ersten Semester mit dem Leon in die Schule gegangen, der dann noch irgendeine Verweilungskurse hat.
+Da musste ich ihm die Tüte nehmen.
+Nein, du hast eine Farbe.
+Nach Stücke Tüte, die sind auch voll korrekt.
+Der soll die Tüte nehmen und die Farbe.
+Ich habe schon drei Tüte, die sind so korrekt.
+Das finde ich schon lustig.
+Ich hab nie was gedacht.
+Aber wer ist denn so gut für dich?
+Ich bin ja so gut für mich.
+Weißt du was so gut für mich ist?
+Wie?
+Sie ist so gut.
+Ich bin so gut für dich.
+Weißt du was so gut für mich ist?
+Hey ich sag ganz ehrlich, ich fand uns mit Ado und Dink, ähm, Hirano und Ben voll krass.
+Und Ado.
+Hirano ist auch gut.
+Doch, ich fand unsere Konstellation voll gut.
+Ich dachte, ich verarsche ihn, aber er hat nicht mal verarscht.
+Ich wusste, wie das ist.
+Sie auch nicht?
+Ja.
+Der braucht das Bild.
+Bild?
+Er ist ja gebraucht, um das Bild zu machen.
+Warum soll ich mir das Bild gezeigt haben?
+Kann man durchleiten?
+Das war doch klar, Dichas.
+Das ist die Ecke, die man schon ein bisschen holen kann.
+Nein, ich habe mir das Bild gezeigt, wie ich es bearbeiten kann.
+Das ist noch okay.
+Du denkst du, er ist glaubwürdig, der ist dumm.
+Er ist immer noch stolz.
+Was ist denn gesagt? Nein, das ist eine Lüge.
+Das ist einfach nicht glaubwürdig.
+Vielleicht bist du das wirklich.
+Er ist schon schlau.
+Er fragt sich schon mal.
+Er ist so lustig.
+Er ist so lustig.
+Ich sag's dir auch noch nicht, es sind deine Drogen.
+Oh, jetzt kommen wir.
+Jetzt kommen wir.
+Du musst zumachen.
+Das ist nicht nur mein größtes Traum.
+Ja, ich meine, auf jeden Fall macht sie.
+So minimal, ja.
+Das waren aber richtig viele.
+Die ersten waren schon viele.
+Das ist eine Kollegin von mir, hat sie auch verarbeitet.
+Hä?
+Du hast immer gesagt, nein, das ist gerade nicht.
+Ach so, dann?
+Ja, du hast immer gesagt, wir sind nicht was, oder?
+Allein er liegt nicht, du hast immer gesagt, nein, wir sind nicht was.
+Diese Bosnien-Amerikaner, oder was?
+Das ist was, oder?
+Das sind Tütscher, oder?
+Außer, ich bin Tütscher.
+Aber nein, sag mal, macht sie?
+Nein.
+Lügt doch nicht.
+Nein.
+Hau mal dein Handy raus.
+Ich weiß es nicht.
+Hau mal dein Handy raus.
+Okay?
+So ein Ding.
+Das ist ein Problem.
+Das ist ein Problem.
+Hau mal dein Handy raus.
+Ja, ist auch da.
+Ja, guck mal.
+Also es ist echt eine Dramatik, aber ich erinnere mich nicht.
+Und jetzt haben wir Wolken.
+Jetzt gehen wir mal rüber.
+Schau mal rein, schon das Letzte.
+Das ist unten, wo die Dame ist.
+Ich will selber nicht echt zeigen.
+Nein, du schaust echt auch voll brutal aus.
+Ich bin mal gleich zu.
+Also, Hültor, ich finde, wir schauen echt besser aus.
+Wir schauen noch besser aus, als wir aus den Bildern.
+Du bist doch auch mal im Blut, oder?
+Nein.
+Doch.
+Ja, warte mal, sie schaut in echt, echt besser aus.
+Ja, warte mal.
+Einfach so, so fest, so fest, so fest, so fest, so fest, so fest.
+Wollen Sie hören, mit was ich aufstehe?
+Ich habe zwei, okay?
+Einmal...
+...und mein Amouras.
+Das ist aber kein Wegsignal.
+Warum soll das?
+Und das ist auch so, also ich hab dran stehen und das ist mein Ansatz, nur so entspannt aufstehen.
+Oder der...
+So, wisst ihr, was ich immer für ein Ärger krieg von meinem Bruder?
+Er ist ja genau nur entlang von mir.
+Jedes Mal kommt er rein, geplatzt, um mich zu wecken.
+Und es geht eine Stunde durch.
+Das ist der beste Testalarm, der ich so ausgesucht habe.
+Testalarm, ja.
+Ich hab da so Angst vor.
+Ich hab mich schon verabschiedet.
+Ich hab zwei SIM-Karten, die eine gegen den Elflosen, die andere im Trübsen.
+Wir sind schon tot.
+Ich wollte euch eine Story erzählen.
+Wir waren in der Türkei mit meinem Cousin und der Freundin.
+Und sie hat den Diabetes, okay.
+Und einen Tag vorher war ein leichter Erdbeben.
+Und ich wusste ja nicht, dadurch, dass sie Diabetes hatte, wie ihr Handy klingelt.
+Also wenn es zu weit unten ist, oder so.
+In der Früh geht ihr Ton an, ich dachte Erdbeben, ich bin rausgerannt, die lief an mir noch, die Schlamm hatte so Angst.
+Wow, was ist das?
+Ich habe so Panik bekommen.
+Hat sie nie da was gegeben?
+Ja, ich habe es nicht.
+Du hast einen Notschläfchen gemacht.
+Vermeidungsmaßnahmen.
+Ja, kurz dieses Thema FMEA nochmal. Systematisch über entsprechende Toleranzrechnungen, Materialausgabe, diese Fehler zu verhindern, was sie ganz häufig haben.
+Das ist mein Eindruck im Mittelstand. Das sind Ideen, die nicht bis zum letzten Dienst ausgereizt sind, sondern man hat relativ viele Toleranzen und hat auch in der systematischen Auslegung von Bauteilen viele Sicherheitsreserven, die eigentlich dazu führen, dass das Material nicht optimal ausgenutzt wird.
+Entdeckt Fehler in der Entwicklung, nachdem sie aufgetreten sind, durch Versuche, Kontrollrechnung und Dauerlaufnetz.
+Ich hatte mal einen Fall, da kam eine Firma auf mich zu.
+Wir haben da ein Problem.
+Da ist eine Verbindung, die ist undicht.
+Das ist ein Bauteil, was in Betriebe eingebaut ist.
+Und die Schweißverbindung funktioniert nicht.
+Da waren aber schon 50.000 Fahrzeuge gebaut.
+Da war die Entwicklung noch nicht abgeschlossen bezüglich Langzeituntersuchungen und dann sind Bauteile kaputt gegangen aufgrund eines Fehlers aus dem Spritzguss heraus.
+Das wird sehr schnell kompliziert. Ich habe da so ein kleines Gutachten geschrieben und dann war plötzlich der Kunde da mit acht Leuten und wollte wissen, wie dieser Fehler entstanden ist.
+Also trotz dieser ganzen Maßnahmen treten Probleme auf und die rutschen dann so in die Praxis rein.
+Was macht man jetzt? Man hat dort eine Multiplikation verschiedener Faktoren.
+Das ist zum einen, hat das eine sehr hohe Bedeutung oder eine niedrige Bedeutung.
+Die Kriterien, die dort angelegt werden für die entsprechenden Funktionen,
+Das ist ein Sicherheitsrisiko, gesetzliche Vorschriften, beim Automobil dann ein Liegenbleiber, die Funktionsfähigkeit des Fahrzeuges ist stark eingeschränkt, bis hier unten sind sie sehr gering, das kann nicht im Einzelnen durchgehen.
+Sie sehen, wenn die Bedeutung hoch ist, gibt es sehr viele Punkte und die drei Kennzahlen werden miteinander multipliziert.
+Die Bewertungszahl für die Auftretenswahrscheinlichkeit ist bei 10 sehr häufiges Auftreten, ungeeignete Konstruktion, Fehler tritt wiederholt auf, problematische, unausgereifte Konstruktion.
+Und da sitzt dann auch das Problemfeld ganz häufig, dass Sie diese Bewertung natürlich nicht sonderlich hoch einsetzen oder aussetzen, weil Sie denken, Sie haben das gewissenhaft gemacht.
+Und dann können trotzdem Probleme auftreten.
+In der langen Frist, bei Tests, in der Praxis, während der Gewährleistungszeit und dann sind sehr große Folgen zu erwarten.
+Und die Bewertungszahl für die Entdeckungswahrscheinlichkeit, für den Fehler, der immer sicher aufgedeckt wird, hat eine niedrige Bewertungszahl.
+Das, was Sie nicht sehen, was dahinter steckt, was Sie nicht finden auf den ersten Blick, das hat eine hohe Bewertung bekommen.
+Zum Beispiel jetzt diese Schweißverbindung, die nicht funktioniert.
+Dass man das entdeckt, ist ja eher unwahrscheinlich gewesen, weil man gedacht hat, man hat den Prozess sicher geführt.
+Das ist aber nicht der Fall. Das heißt, wenn Sie 10 mal 10 mal 10 haben, haben Sie ein sehr, sehr hohes Risiko.
+Und das mündet dann in einer sogenannten Risikoprioritätszahl.
+Also nochmal, hier sind diese drei Kriterien, die miteinander multipliziert werden und die dazu führen, dass eine Risikopriorität eingestellt wird, wenn die Funktionsfähigkeit nicht gegeben ist,
+wenn das in einem Reifegrad bereits eine fortgeschrittene Konstruktion ist, deren Entdeckung wahrscheinlich ist, dieses R-Prozept bei 120.
+und in der Regel sagt man, jetzt sind zwingend Maßnahmen erforderlich,
+um Verbesserungen im Prozess oder in der Konstruktion durchführen zu müssen.
+Die RPZ ist alleine nicht aussagekräftig, weil jeweils hier im RPZ von 80 bis unter 100
+Es ist ein hohes Sicherheitsrisiko bei B, Crash-Test zum Entwicklungsende hin, wenn da ein vertrautes Aufbeten vorhanden wäre.
+Ich weiß nicht, ob das wahrscheinlich alles vor ihrer Zeit, Ende der 90er Jahre, hat Mercedes die A-Klasse gebaut, angefangen zu bauen.
+Und da ist das Auto bei einem sogenannten Elch-Test umgefallen.
+Das ist ein Test, der ausschließlich in Schweden gemacht wurde, wo ein sehr schnelles Lenkmanöver durchgeführt wird.
+Was ist passiert?
+Also plötzlich erscheint ein Elch auf der Fahrbahn, das Auto muss rumlenken und wieder zurück in die Spur.
+Dabei ist die A-Klasse umgekippt, weil die einen sehr hohen Schwerpunkt hat.
+Was hat Mercedes für Maßnahmen ergriffen? Das war ein riesen Wirbel seinerzeit.
+Das ist eigentlich ein Vorbild dieses Sicherheitskonzepts immer bei Mercedes.
+Man hat das ESP in ein Fahrzeug eingeführt, wo es das noch gar nicht gab.
+ESP, wo im Prinzip die Steuerung des Fahrzeuges dann eingreift, um so ein Manöver sicher durchführen zu können,
+wo selektiv einzelne Reifen gebremst werden, um das Fahrzeug in der Spur zu halten.
+Das hat man damals transferiert aus der S-Klasse heraus unmittelbar in die A-Klasse hinein, um dieses Problem zu beseitigen.
+Und das hat richtig Geld gekostet.
+Und das war auch das erste Fahrzeug, was so einen relativ hohen Aufbau mit einem relativ hohen Schwerpunkt besaß.
+Und wo man erst am Entwicklungsende sozusagen, oder ganz schon in der Serie festgestellt hat, jetzt ist ein Problem da.
+Und das hat sehr, sehr hohe Kosten verursacht, weil man alle zukünftigen Fahrzeuge dann mit diesem zusätzlichen ESP-System, das damals sehr, sehr teuer war, ausgelöstet hat.
+Also alleine ist sie nicht aussagekräftig, wenn ein hohes Sicherheitsrisiko besteht, ist da ein Handlungsbedarf.
+Auch wenn das jetzt erst zum Entwicklungsende gesehen wird.
+Und von daher ist dieses Risiko immer im Gesamtkontext zu betrachten und nicht aus dieser reinen Multiplikation der beiden Zahlen heraus.
+Der Unterschied zwischen einem Lasten- und Pflichtenheft sind jetzt hier nochmal so ein paar finale Fragen zum Ende hin.
+Ich habe jetzt die folgende Präsentation noch nicht abgelegt, weil ich im Rahmen einer Situation die Woche unterwegs bin, die mich das verhindert hat.
+Der prinzipielle Ablauf einer Werkanalyse, was sind die Ziele einer Konstruktions-FMEA, einer Prozess-FMEA, was versteht man unter einer R3Z und was ist die Gefahr, wenn sie nur isoliert betrachtet wird,
+weil dann verschiedene Faktoren da vorhanden sind, die ineinander greifen.
+Und die reine Zahl kann auch unter 100 liegen, obwohl das Sicherheitsrisiko sehr hoch sei.
+Das hat er ja gerade gesprochen.
+Die Präsentation, die ich Ihnen jetzt hier so ein bisschen darstellen werde, wir gehen jetzt so ein bisschen in diese Betrachtung der Grundlagen der Festigkeitslehre nochmal.
+Das sind Dinge, die haben Sie sicherlich in der Mechanik schon gehört. Wir müssen jetzt im Prinzip nochmal diese Regeln, was sind Beanspruchungsvarianten, was ist der Grund für das Versagen von Bauteilen
+und wie kann man Bauteile sicher auslegen, ein bisschen näher betrachten.
+Hier ist der Begriff schon gefallen, dynamische Festigkeit.
+Wenn wir eine dynamische Beanspruchung haben,
+dann geht das Material anders, als wenn wir eine typische oder statische Belastung haben,
+weshalb wir das adäquat berücksichtigen müssen.
+Die Grundlagen der Festigkeitsberechnung sagen also,
+dass die vorhandene Spannung kleiner sein muss als eine zulässige. Und dabei müssen wir definieren,
+was ist meine Werkstofffestigkeit, zum Beispiel die dynamische Festigkeit. Also die Präsentation
+lege ich ab, Sie brauchen das nicht zu knipsen. Ich mache das jetzt nach der Vorlesung, lege das
+so weit ab. Es sind noch ein paar andere Folien hinten dran. In Zukunft müssen Sie auch ein
+bisschen was mitschreiben. Normalerweise ist es bei mir immer so, das Rote müssen Sie
+mitschreiben. Da würde jetzt in der Präsentation normalerweise so ein weißer Balken drüber
+liegen, sodass Sie das nicht sehen. Dann verschwindet dieses weiße Feld und Sie müssen auf den
+Folien ein wenig nachschreiben. Ein Diagramm zeichnen, mal. Wir werden dann ab nächster
+Woche gehe ich mal davon aus, erste Übungen machen, die lege ich Ihnen auch ab. Sie haben
+dann die Unterlagen zu diesen Übungen da und wir machen die Übungen eine Stunde pro
+Woche oder mal zwei Stunden, alle 14 Tage, eine schöne Übung, wo Sie selber ausrechnen.
+Und wo wir das, was wir in der Vorlesung machen, dann anwenden. Ja? Ja. Und ja, die Belastungen,
+die auch in einem Bauteil herrschen.
+Die vorhandene Spannung haben wir auf der einen Seite der Waage
+und auf der anderen Seite die zulässigen Spannungen.
+Und die zulässige Spannung ist eine Frage des entsprechenden Kennwertes.
+Dabei sind wichtige Termini die Belastung, also von außen wirkende Kräfte und Momente,
+die führen im Bauteil, die Belastungen führen zu einer Beanspruchung.
+zu inneren Kräften und Momenten und aus diesen Kräften und Momenten werden Spannungen.
+Ich kann einen Bauteil auf Zug beanspruchen, ich kann meinen Bauteil biegen,
+ich kann eine Torsion haben, das ist die Belastung, die von außen kommt
+und die führt zu einer Beanspruchung im Werkstoff.
+Die muss ich richtig berechnen.
+Und dann kann ich dem entgegensetzen, meinem Kennwert der Werkstofffestigkeit
+Und was ist S? Was ist S? Das ist ganz wichtig. S ist eine Sicherheit. Das heißt, was erwarten Sie für diesen Kennwert, wenn Sie eine Sicherheit haben möchten?
+S ist immer größer als 1,0
+weil Sie damit Ihren Festigkeitskennwert reduzieren
+wenn Sie S gleich 2,0 setzen
+und Sie haben zum Beispiel eine Zugfestigkeit
+Sigma Zug von Ihrem Werkstoff
+meinetwegen 210 Megapaskal, dann machen Sie daraus Sigma zulässig, ist gleich bei einer Zugbeanspruchung eines einfachen Bauteiles durch S 2,0 105 Megapaskal.
+Sie reduzieren die Festigkeit Ihres Materials durch einen Sicherheitsfaktor.
+Umgekehrt können Sie mit den vorhandenen Belastungen und Ihrem Festigkeitskennwert die Sicherheit ausrechnen in einer Konstruktion.
+Und dieses S ist immer größer als 1.
+Wenn bei einer Berechnung irgendwas unter kleiner 1 rauskommt, dann können Sie mit Sicherheit davon ausgehen, dass Ihre Konstruktion versagt.
+Das ist wichtig. S ist immer größer als 1.
+Und aus von außen vorhandenen Belastungen werden im Werkstoff Beanspruchungen, denen wir einem Festigkeitskennwert entgegensetzen.
+Wir müssen jetzt den richtigen Festigkeitskennwert definieren.
+Haben wir eine Zugbeanspruchung, eine Druckbeanspruchung, haben wir eine Biegung oder haben wir zum Beispiel eine Trossion, wie bei einer Welle, die angetrieben wird.
+Wir haben nicht diese PDF-Nummer.
+Ich lege das alles ab, nach der Vorlesung, komplett, so wie es ist.
+Und im Nachgang werden dann einige Sachen, müssen Sie nachtragen, ab nächster Woche dann.
+Ja?
+Umgekehrt, jetzt nochmal diese Grundlagen der Festigkeitsberechnung.
+Sie gucken nach dem kritischen Querschnitt. Sie gucken nach den Beanspruchungen und machen daraus eine Belastung.
+Daraus ergibt sich eine Querschnittsgeometrie und Sie ermitteln die im Querschnitt vorhandene Spannung.
+Auf der anderen Seite gibt es Werkstoffkennwerte. Diese Werkstoffkennwerte gucken wir uns gleich an.
+Je nachdem, was Sie für eine Beanspruchungsform haben, je nachdem, ob die Kraft zum Beispiel zeitlich variiert, haben Sie eine im Querschnitt ertragbare Spannung, das ist Ihre Bauteilfestigkeit.
+Wenn Sie das jetzt in Relation setzen, das Bauteil hat eine Festigkeit, die vorhandene Spannung soll kleiner sein, ergibt sich daraus Ihre vorhandene Sicherheit.
+Das ist genau die Formel hier umgestellt, das ist ihre Festigkeit, durch die vorhandene Spannung ergibt die Sicherheit.
+Bauteilfestigkeit in Relation zur vorhandenen Spannung. Können Sie die Sicherheit einer Konstruktion ausrechnen?
+Ich hatte aus dem Praktikum einen Student, der sollte ein Bauteil aus dem Gusseisen auslegen.
+Und die Firma hat gesagt, wir wollen bei einem Gusseisenbauteil, was schätzen Sie für eine Sicherheit?
+Typischerweise bei Konstruktionen 1,3, 2,0. Beim Gusseisen wollten die eine Sicherheit von 6,0.
+Das Bauteil ist total überdimensioniert, ist viel zu dick gemacht. Aber wir haben gesagt,
+wir wollen diese Sicherheit von 5 bis 6. Das war die Antwort. Also es ist übertrieben, aber durchaus auch in der Praxis vollzuführen.
+Wir haben Belastungsarten, die jetzt auf diese Bauteile wirken.
+Wie man vorhin gesehen hat, so eine Welle, die sich dreht, da hat es einen Drehmoment, das wird eingebracht,
+Auf der anderen Seite wird es abgetragen. Zwei Zahnräder sitzen da drauf.
+Da ist eine Kraft, da ist eine Kraft. Die wirft über einen Abstand zum Zentrum.
+Dann haben wir typischerweise eine Torsionsbeanspruchung.
+Wir haben hier typischerweise so eine Scherung, wenn es Querkräfte gibt.
+Wir haben in den Grundbeanspruchungsarten oder Belastungsarten dann typischerweise die Zugbeanspruchung,
+wie wir sie aus dem Zugversuch kennen, und dann die Druckbeanspruchung, was festzuhalten ist.
+Je nach Belastungsmaterial reagiert das Material unterschiedlich.
+Das gilt es festzuhalten.
+Was wir aber immer machen, wir beziehen uns in der Regel im einfachsten Fall auf diesen einfachen Zugversuch,
+Weil der sehr gut durchzuführen ist und weil wir dann die anderen Fälle damit, ich sag mal, sehr schön herunter transformieren können auf diesen einfachen Kennwert der sogenannten Zugfestigkeit.
+Der Zugversuch und die resultierende Materialantwort.
+Grundsätzlich führt die Zugkraft, die im Kreisquerschnitt wirkt, der Fläche A,
+und hat zur Folge eine Zugspannung, die dazu führt, dass in Proportionalität zum E-Modul eine Deformation auftritt.
+Auch das ist wichtig. Wir werden auch Deformationen ausrechnen.
+Wenn Sie zwei Platten miteinander verschrauben, die Schraube sitzt hier oben, hier unten, Sie drehen die Schraube fest, die Schraube wird gedehnt, die lenkt sich, während gleichzeitig die Platten zusammen gedrückt werden.
+Es ist aber eine Frage der Steifigkeit. Steifigkeit ist eine Frage des Moduls und der vorhandenen Geometrie. Wie deformiert sich ein Bauteil? Und da ist die Materialantwort zu registrieren.
+Hier oben ist die Zugfestigkeit.
+Würden Sie ein Bauteil gegen die Zugfestigkeit in dem Fall dimensionieren?
+Was wäre das Problem?
+Wenn wir sagen, wir nehmen diesen Festigkeitskennwert, was ist dann zu erwarten?
+Wir haben eine Konstruktion.
+Sobald Sie hier vorne über diese Sprenggrenze drüber gehen, passiert was?
+Was passiert, wenn Sie über die Streckgrenze drüber gehen, am Stahl?
+Das ist eine typische Stahlkurve hier.
+Noch nicht.
+Es tritt eine bleibende Verformung ein.
+Und wenn ich Bauteile belaste, möchte ich hier vorne auf der Graben bleiben.
+Wenn ich also dimensioniere, ich sag mal in der Regel gegen plastische Deformation,
+also dass keine bleibende Verformung eines Bauteiles eintritt,
+Wenn ich einen Behälter unter Innendruck setze, dehnt er sich.
+Und wenn ich unterhalb der Streckgrenze bleibe, dimensioniere, in der Regel gegen plastische Deformation,
+dann muss man die Streckgrenze hernehmen als Kennwert.
+Wenn der Werkstoff diese Streckgrenze hat.
+dimensionieren gegen die streckgrenze nicht gegen die zugfestigkeit es gibt es auch also gegen
+Bei Materialien mit Streckgrenze, da sind normalerweise zähe Materialien.
+Man kann aber auch gegen die Zugfestigkeit, also gegen Bruch, dimensionieren.
+Das macht man unter Umständen bei spröden Materialien.
+Oder zumindest kann man das berechnen.
+Wie groß ist die Sicherheit gegen das Eintreten eines Bruches oder Erreichen der Zugfestigkeit?
+Der Bruch ist hier hinten. Das ist die maximale ertragbare Spannung.
+Hier hat er jetzt die Kräfte und Dehnung oder Verlängerung der Probe aufgezeichnet.
+Hier tritt plastische Deformation auf.
+Überschreite ich die Streckgrenze, geht zu der Spannung.
+Wenn ich über die Streckgrenze drüber, gibt es eine bleibende Deformation.
+Das ist für die Bauteile in der Regel ein Problem.
+Jetzt habe ich eine Stahlschraube, zwei Aluminiumplatten.
+Ich drehe die Schraube zu, das Drehmoment steigt, die Platten werden deformiert.
+Ich möchte plastische Deformationen verhindern.
+Das kann ich alles jetzt ausrechnen.
+Jetzt ist das nur die halbe Wahrheit.
+Die Steifigkeit ist eine Frage des Verformungswiderstandes. Wie können Sie den
+Verformungswiderstand von so einem Stab hier verändern? Wie kann ich diesen
+Verformungswiderstand größer machen? Über den E-Modul? Stahl statt Aluminium? Wie noch?
+Wenn Sie diese Verformung verringern wollen, bei einer vorhandenen Kraft, machen Sie den Querschnitt.
+größer, den Querschnitt größer oder die Einspannlänge kürzer, gibt es auch weniger
+Deformation. Dazu kommen wir noch. Wir definieren das noch genauer und zwar im Zuge dessen,
+dass es unterschiedliche
+Beanspruchungsarten gibt
+links
+Spannungsdehnungsdiagramm von dem Stahl
+Sie nutzen 60%
+der Streckgrenze aus
+das ist Ihre zulässige
+Spannung
+Wie definieren Sie? Sie könnten auch sagen, ich nehme nur 50% oder 40%.
+Frage zu dieser Folie Seite 9.
+Wie hoch ist die Sicherheit gegen plastische Deformation?
+wenn Sigma zulässig gleich 0,6 Re ist.
+Das, was da steht, 60 Prozent.
+Wie hoch ist Ihre Sicherheit?
+Ich weiß.
+Ja?
+Wie kann ich das rechnen?
+Festigkeit ist Sigma E, oder Entschuldigung, ist R E.
+durch vorhandene Spannung 0,6 Rd.
+Das ist der Kehrwert von 0,6.
+Mehr ist das nicht.
+Und der Kehrwert von 0,6
+Für den Fehler, wer hat es gerechnet?
+Bei 2 Drittel, Kehrwert 3,5, dann wäre ich bei 1,5.
+Weil diese 60% ist die Sicherheit der Konstruktion gegen Eintreten plastischer Deformation 1,67.
+Rechtes Material RM ist, sagen wir jetzt mal, 700 Megapaskal, Sigma zulässig,
+Ich frage nun mal, ist hier 350 Megapaskal.
+Links ist die Sicherheit gegen klassische Deformation, das Erreichen der Streckgrenze definiert.
+Rechts die Sicherheit gegen...
+Sicherheit gegen Bruch
+im rechten Teil des Bildes
+hier ist der Schadensfall
+der Bruch
+hier ist der Schadensfall
+das Eintreten der
+Streckgrenze
+wenn wir hier
+Bezugfestigkeit
+Rm 700 Megapascal
+eine zulässige Spannung
+von 350 haben,
+dann ist S
+700
+Megapascal
+durch 350
+2,0.
+Wir haben beim Guseisen
+bei der Auslegung des Bauteiles,
+da hat dann der FEM gerechnet
+und eine Sicherheit
+irgendwas mit dem 56 gemacht.
+Das ist nicht komplett überdimensioniert, aber das machen die teilweise.
+Einverstanden?
+Ja, wenn Sie jetzt die Spannung, die zulässig ist, weiter reduzieren, machen Sie das, indem Sie die Sicherheit erhöhen.
+Und dieses S wird immer größer.
+Wenn Sie jetzt da nur 175 zulassen, Sigma Z zulässig, das ist eine Vergleichsspannung, 175 MVA, dann ist S gleich 4,0.
+Das ist aus dem einfachen Zugversuch heraus.
+Ein Zugversuch ist eine Belastung, die einmal wirkt und die man auch als statisch bezeichnet.
+Fragen?
+Es gibt jetzt unterschiedliche Beanspruchungsformen.
+Das hier ist meine statische Kraft, die wirkt die ganze Zeit und hört nicht mehr auf.
+Und jetzt gibt es aber auch den Fall B.
+Ich schreibe Ihnen das noch nachträglich hier rein.
+Die wird nach ihrem zeitlichen Verlauf unterteilt.
+Jetzt herrscht hier eine Zugspannung, die ist zyklisch.
+Er hat hier einen Oberwert, er hat hier einen Unterwert und er hat hier einen Mittelwert, in dem sie herum schweigt.
+Das ist sozusagen mein B.
+Das ist der Zugschwellbereich.
+C herrscht auf der einen Seite kurzzeitig Zugdruck und hier nochmal ein Zugschwellbereich bei D mit höherer Lage der Mittelspannen.
+Immer Zug und mal mit höherem und mit niedrigeren Wert, mit Ober- und Unterspannung.
+Und dieses C, das ist Zug und Druck im Wechsel.
+Wo geht es denn zu? Zug und Druck im Wechsel. Einfacher Fall. Eisenbahn. Achse. Hat hier ein festes Lager.
+die Welle dreht sich einmal
+pro Umdrehung
+und sozusagen die Lager stehen fest
+die Welle dreht sich
+und wenn man sich die Welle in sich betrachtet
+hat sie einmal Zug, einmal Druck
+einmal Zug, einmal Druck
+ja, das ist typischerweise
+das was mit einer
+Welle
+oder mit einer Achse
+passiert
+ja
+lege ich ihn ab
+Material reagiert je nach dynamischer Beanspruchung.
+A ist statisch, also zum Beispiel der einachsige Zugversuch, während die Fälle A bis D eine dynamische Beanspruchung sind.
+Und im Falle der statischen Beanspruchung ist mit einer anderen Reaktion des Materials zu rechnen im Vergleich mit den Fällen B und C.
+Und das müssen wir berücksichtigen.
+Also die Beanspruchungsart, die Reaktion des Materials auf diese Beanspruchungsart und die korrespondierenden Materialkennwerte.
+Die sind hier dargestellt.
+Was macht man?
+Man macht typischerweise den Zugversuch.
+Der ist am einfachsten.
+Wenn Sie dynamische Festigkeiten brauchen,
+hier sind jetzt zunächst einmal die statischen Werkstoffkennwerte dargestellt.
+Ich habe hier oben im einfachsten Fall den Zugversuch und wie wir gesehen haben, hat
+das Material unter Umständen eine Streckgrenze, das ist RE, es gibt eine 0,2% D-Grenze, das
+eine Berechnung gegen Verformung. Plastische Verformung, wenn ich das jetzt nochmal vielleicht
+ergänzen darf. Wenn ich eine Druckbeanspruchung habe, gibt es einen Vorfaktor F0. Das Material
+reagiert also bei Druck anders als bei Zug. Wenn Sie zum Beispiel diese Gusseisenmaterialien
+haben, werden wir sehen, Gusseisen hat diese Fehlstellen drin. Wenn Sie an Material ziehen
+und Sie haben Lamellen, kriegen Sie viel weniger Festigkeit, als wenn die in Kugeln da drin
+liegen. Das werden wir sehen. Wenn Sie aber Gusseisen auf Druck beanspruchen, was passiert
+mit den Rissen, mit diesen Fehlstellen? Die gehen nicht so schnell auf, wie bei einer
+Zugbeanspruchung. Die Druckfestigkeit beim Gusseisen ist drei bis viermal höher als
+die Zugfestigkeit. Also Gusseisen nie auf Zugbeanspruch, immer auf Druck. Und dann funktioniert
+das auch und deshalb gibt es hier Faktoren, aus denen man heraus bei einer Druckbeanspruchung
+eines Bauteiles den Stahlwerkstoff dimensionieren kann mit diesem Vorfaktor, der den Druck als
+Beanspruchungsvariante darstellt.
+Das sind Faktoren und da gehen wir dann in Tabellenbücher rein, das ist immer dieses
+Vorgehen.
+Ich habe ein Kennwerk vorliegen, ich kann in ein Tabellenbuch reinschauen und dann weiß
+was, wenn ich eine primäre Druckbeanspruchung habe, im Vergleich zur Zugbeanspruchung dort herrscht.
+Bei der Biegebeanspruchung, also das hier, sind die Festigkeitskennwerte höher und die
+Die Streckgrenze ist unter Umständen auch höher.
+Deshalb steht hier ein Faktor zwischen 1 und 1,3.
+Da unten gibt es den Hinweis, die Festigkeitswerte für Biegung und Torsion sind vom Spannungsgefälle abhängig
+und damit keine eigentlichen Festigkeitskennwerte.
+Bei kleinen Bauteildurchmessern ergeben sich größere Festigkeitskennwerte,
+weil das Spannungsgefälle und damit die statische Stützwirkung größer ist.
+Nährungsweise kann nach DIN 743 für optile Rundstäbe aus Stahl gesetzt werden.
+Die Biegefestigkeit ist in etwa 1,2, 20% höher als die des RP.
+Und wenn man Werkstoffe mit harter Randschicht haben, gibt es hier unten diese Torsionsfestigkeit.
+Rfp mal 1,2 durch Wurzel 3, der Wert geht nach unten, das sind normalerweise 0,58, also 60%.
+Der Zugfestigkeit ist die Torsionsfestigkeit, die deutlich niedriger ist.
+Wir werden noch Diagramme sehen, wo man das in den Kennwerten dann auch sehen wird.
+Das ist jetzt der einfache Fall einer statischen Beanspruchung.
+Wenn wir aber Maschinenelemente haben, gibt es in der Regel immer, wenn eine Werkzeugmaschine dreht, eine Welle dreht sich, gibt es dynamische Beanspruchungen.
+Deshalb müssen wir uns auch ein bisschen anschauen, wie diese dynamischen Festigkeiten sich zusammensetzen und entsprechend ausschauen.
+Hier ist das mal in der Tabelle dargestellt.
+Vorhandene Spannung und oben ist der Lastfall.
+Biegung, Abscheren, Verdrehen, also die Torsion.
+Und dann hier Querkraftschub mit einer zulässigen Spannung, die hier definiert ist.
+Und den statischen Festigkeitskennwert.
+Im Allgemeinen bei Zug, die Zugfestigkeit, hier die Druck-, die Biegefestigkeit, Abschirmfestigkeit, Vertreffestigkeit,
+dann die Fließgrenze als Streckgrenze, beim Druck heißt das Quetschgrenze und bei der Biegung die Biegegrenze.
+Das sind jetzt dann soweit die statischen Festigkeiten.
+Und dann da unten, da gibt es jetzt sogenannte Dauerfestigkeiten und Wechsel- und Schwellenfestigkeiten.
+Das sind jetzt Kennwerte aus einer dynamischen Beanspruchung.
+Was erwarten Sie, wenn Sie eine dynamische Beanspruchung haben?
+Da hat man festgestellt, bei den Achsen von Eisenbahnen, die wurden gegen eine statische Festigkeit dimensioniert
+Irgendwann sind die alle nacheinander gebrochen.
+Dann hat man festgestellt, wir müssen da Untersuchungen machen und gucken,
+wenn wir eine dynamische Beanspruchung haben, entweder eine Wechselbeanspruchung oder eine Schwellbeanspruchung.
+Also das hier, das ist eine Schwellbeanspruchung.
+immer im Zugbereich
+mit einer Mittelspannung
+eine Oberspannung und eine Unterspannung
+und hier eine Schwellfestigkeit
+mit einer Oberspannung
+und die Unterspannung
+ist 0
+im Zugschwellbereich
+und D ist auch
+der Zugschwellbereich
+während
+die Beanspruchung C
+die Zugdruckbeanspruchung ist
+das wäre dann
+hier diese Wechselfestigkeit.
+Das heißt, wir haben jetzt hier unterschiedliche Kennwerte, die wir bekommen.
+Die müssen wir jetzt in den Diagramm eintragen.
+Wir müssen die Beanspruchung eintragen, das werden wir im Rahmen einer Übung machen,
+dass Sie mal schauen, wie kann man das jetzt hier definieren.
+Hier sind die Festigkeiten definiert und am Ende des Tages geht es darum,
+wie die Gestaltfestigkeit und die Sicherheit eines dynamisch beanspruchten Bauteils ist.
+Zum Beispiel so eine Welle, die sich permanent dreht, wo ein Biegenmoment herrscht,
+wo wir wissen müssen, was ist das für eine Spannung,
+wie dimensionieren wir hier gegen den wichtigen Werkstoffkennwert.
+Fragen dazu?
+wir machen das in einer praktischen Übung
+es gibt Grenzen der Festigkeit
+die kann man in ein Diagramm reinmalen
+wo diese Wechselfestigkeit da ist
+wo diese Schwellfestigkeit
+eingezeichnet wird
+und wo der Lastfall reingemalt wird
+und wo wir dann sehen
+wie groß ist der Lastfall
+wie groß ist
+der Werkstofffestigkeitskennwert
+und wie groß ist die Sicherheit
+unserer Konstruktion
+also das ist jetzt ein praktisches
+Werkstoff ist. Wenn ich jetzt hier die
+Zugspannung als einfachsten Lastfall noch mal
+habe, Sigma Z
+ist F durch A.
+Ja?
+Volle Kamelle,
+Zugversuch,
+die inneren
+Kräfte werden sichtbar, indem man
+einen Querschnitt sich anschaut.
+Wenn Sie den Querschnitt quer liegen
+haben,
+gibt es hier noch diese Winkelfunktionen,
+die damit reinzuzeichnen sind. Das macht man
+typischerweise nicht, sondern man guckt sich den senkrechten Querschnitt an.
+Man sieht Sigma Z, die Zugspannung ist F durch A.
+Da vorne ist eine Konstruktion, die sich versagt durch Knicken.
+Also zum Beispiel die Bauteile, dass jetzt auf Druck beansprucht wird,
+besteht nicht die Gefahr, dass es sich plastisch
+detoniert, sondern dass es wegnimmt.
+Und das ist hier zum Beispiel
+bei diesen Trägern
+der Fall gewesen. Die haben eine zu hohe
+Schneelast bekommen. Ich glaube auch,
+dass die etwas schon gealtert
+waren. Und
+im Zuge dessen, die stehen ja auch
+immer in der Windlast, kriegen dort
+entsprechende Kräfte und da rollt
+viel Schnee drauf und dann sind die zusammen
+geknickt. Das ist dieser Lastfall
+des Knickens als
+Das ist ein besonderer Lastfall, von dem Sie vielleicht so eine Mechanik gar nicht so betrachtet.
+Und wenn Sie irgendwas gegen Knicken dimensionieren möchten,
+dann nimmt man typischerweise solche Rechteck-Querschnitte, die geschlossen sind
+und bringen so ein bisschen das Material nach außen.
+Wenn Sie diesen gleichen Querschnitt haben als Vollmaterial und der Querschnitt,
+ich sage jetzt mal, das sind diese 100 Quadratzentimeter,
+dann hat er nur ein Zehntel der Knickfestigkeit gegenüber so einem geöffneten Profil.
+Ja, bringen Sie das Material ein bisschen nach außen, dann kriegen Sie einen höheren Widerstand gegen Knicken.
+So ein enger, kleiner, getakteter Querschnitt, kreisrund oder auch rechteck, macht gar keinen Unterschied.
+der ist immer sehr stark knickgefährdet. Biegversuch. Querschnittrechteck in dem Fall.
+Hier wirkt ein Biegemoment. Im unteren Bereich gibt es Zugspannung und oben gibt es eine
+Druckspannung. Über den Querschnitt sind die Spannungen gleich und durch die Geometrie
+entsprechend hier gleicht sich das aus. Die Biegespannung Sigma Bmax, die liegt immer
+hier im Außenbereich. Typischerweise ist die Zugseite immer am gefährdetsten. Da wird
+typischerweise der Riss irgendwann auftreten
+und der Riss einlaufen.
+Dadurch, dass hier so ein Spannungsgefälle ist,
+stützen aber die inneren Schichten
+die äußeren ab
+und der Riss geht später.
+Deshalb ist die Biegefestigkeit
+immer größer als die Zugfestigkeit.
+Die Biegespannung ergibt sich aus dem Biegemoment, was dort eingeleitet wird. Wenn ich zum Beispiel
+einen Träger jetzt habe, der ist hier hinten eingespannt, hier wird eine Kraft, dann ist das
+eine Biegung. Und die verursacht auf der Oberseite Zug, auf der Unterseite Druck. Und je nach Lastfall
+und Modell, was ich habe, ergibt sich die Biegespannung aus dem vorhandenen Biegemoment.
+In der Mitte ist die neutrale Faser, da herrscht Nullspannung, außen oben Zug,
+der Druck, sorry, in dem Fall unten Zug, je nach Vorzeichnung des Biegemoments. Das geht jetzt hier
+nach oben. Die Spannung, die sich ergibt, ist MB durch IY mal Zmax. Z ist der Abstand
+von der neutralen Faser. Der ist jetzt hier dargestellt. Das ist dieses Z. Der ist außen
+maximal, dort wo der Abstand am größten ist. Und das ist jetzt mein Bereich. Das ist
+der kritische Querschnitt gegen E-dimensioniere ich, gegen die äußere Faser. Das kann man
+vereinfachen, indem man sagt, dieses Flächenträgheitsmoment I um die Achse Y, in die jetzt gebogen wird,
+ist B mal H hoch 3 zwölfte, dann haben wir das Widerstandsmoment, das heißt, das ist
+die Spannung an der letzten, an der äußeren Faser, dann kann man dieses Zmax gleich H
+halbe setzen und das ist die Formel, mit der wir jetzt dieses Widerstandsmoment gegen
+Biegung machen. B mal H Quadrat Sechstel. Widerstandsmoment gegen Biegung Sigma B ist
+m b durch w b. Wenn ich einen Kreisquerschnitt habe, dann ist es d hoch 4 minus klein b hoch
+4 mal Pi durch 32 d. Das sind jetzt Formen. Die müssen wir zugreifen, wenn wir eine Berechnung
+machen möchten. Wenn ich jetzt eine Konstruktion mache, die vernünftig gegen Biegung wirken
+soll, was mache ich? Ich habe einen großen Hebelarm, das ist mein H, H², das ist die
+Höhe. Ich muss möglichst viel Material nach außen bringen. Und wenn man das jetzt hier
+so sieht, dann ist das Widerstandsmoment gegen Biegung. Wenn ich einen kleinen Rechteck
+Querschnitt habe und mein Material so im Rechteck anordne und biege das jetzt, dann
+habe ich eine relativ weiche Biegekonstruktion. Das ist ungünstig. Wenn Sie Ihr Material
+bei einer Beanspruchung aus Biegung haben, wenn Sie mal in einen Rohbau reinschauen,
+Hochhäuser, das sind immer diese Doppel-T-Träger oder I-Träger, wie man sie auch teilweise
+nennen. Da ist die Masse nach außen gebracht, das Widerstandsmoment, die Masse wird effektiv
+eingesetzt und diese außenliegende Masse hat zur Folge, dass ein sehr hohes Widerstandsmoment
+gegen Biegung vorhanden ist. Jetzt haben Sie Ihr Material für diesen Lastfall sehr,
+sehr gut konditioniert. Wie gesagt, diese ganzen Konstruktionen, da gibt es so ein schönes
+Bild, wie diese Tüten da auf dem Hochhaus sitzen, so Schwarz-Weiß-Foto.
+Mal ganz kurz reinschauen.
+Seht ihr das? Das ist so ein typischer Doppelteamträger.
+Das ist der Tee-Träger, beziehungsweise da hat man, ja, zwei nebeneinander.
+nach außen. Hoher Abstand gibt einen sehr guten Widerstand gegen Biegung. Weil das Widerstands-
+moment deutlich höher ist, wenn Sie Masse nach außen bringen, als wenn Sie eine
+kleine getrommelte Konstruktion haben. Fragen dazu? Also bei einer vorwiegenden Biegebeanspruchung,
+Masse nach außen, H hoch, Widerstandsmoment geht hoch, Sie haben einen hohen Widerstandsmoment
+Widerstandsmoment gegen Biegung, wenn Sie das Ganze auf Torsion betreiben, dann haben Sie im ähnlichen Fall, Sie haben Ihr Drehmoment, was Ihre Welle im Kreisquerschnitt tordiert und Ihr Widerstand gegen Torsion ist das WT.
+Widerstandsmoment gegen Biegung und das Widerstandsmoment gegen Torsion und wenn Sie einen großen Torsionswiderstand haben wollen, müssen Sie das machen.
+Sie brauchen eine Hohlwelle. Masse nach außen.
+Wenn Sie die Angriffswellen in Fahrzeugen sehen, wird genau das gemacht.
+Das sind nicht kleine Kontaktewellen, das sind in der Regel sogar Glasfaser verstärkte Konstruktionen mit großem Durchmesser, wo die Masse nach außen gebracht ist und wo man mit den Fasern auch den Kraftfluss, der in der Portion entsteht, zerstört.
+nicht genau da reinlegen kann, die Fasern liegen im Winkel von 45 Grad. Masse nach außen bringen.
+Wenn Sie jetzt Ihr Biegeprofil, das konditioniert ist, um gegen Biegung zu wirken, drehen, das ist ein
+offenes Profil, da können diese Kräfte nicht zirkulieren, dann hat das einen ganz geringen Widerstand
+gegen Torsion. Das ist dann eine klassische Fehlkonstruktion. Wenn Sie Torsion haben, brauchen Sie
+ein hohes, polares
+Flächenträgheitsmoment.
+Wenn Sie
+die Biegung haben, brauchen Sie
+ein hohes Biege-
+Widerstandsmoment.
+Das kriegen Sie alles aus Tabellen
+für diese Normenprofile und können
+dann Ihre Bauteilverformungen gerechnen.
+Dann machen wir dann
+die nächste Vorhandenstellung weiter.
+Ich lege das ab.
+Dann können Sie runterladen
+und dann sehen wir uns nächste Woche.
+Vielen Dank.
