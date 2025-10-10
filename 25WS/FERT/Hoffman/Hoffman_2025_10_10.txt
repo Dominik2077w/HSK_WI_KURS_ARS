@@ -1,0 +1,821 @@
+Ähm, Apple hat das vor 5 Jahren angekündigt.
+Spezifische Herstellungsprozesse, Investitionen, 10,5 Milliarden Dollar in Bearbeitungsmaschinen.
+Wie ist das klassische Geschäftsmodell von Apple?
+Wir lassen eigentlich alles extern fertigen, die ganze Zeit.
+Und jetzt haben sie offensichtlich festgestellt, dass die Fertigungstechnik,
+eigentlich was man so old-fashioned ist und denkt,
+aber dennoch Produkte generieren kann, die Innovationen besitzen,
+die teilweise hier die Fräsmaschinen im Einsatz sind.
+Also die haben das wirklich umgesetzt und jetzt machen sie sogar Werbung dafür,
+weil sie sich im Wettbewerb damit differenzieren können.
+Ich finde das ganz spannend, dass das wirklich so umgesetzt wird.
+10,5 Milliarden, das ist immer bei 170 Milliarden an Umsätzen, das ist eine eklatische Summe.
+Also da ist wirklich was passiert, da ist sehr stark investiert worden.
+Und deshalb kann Fertigungstechnik auch ein entsprechendes Differenzierungskriterium,
+ein Kombi dieser Kursreihen mit dem Passwort, ich habe das geändert gegenüber den letzten Jahren,
+Ich habe auch ein paar Fragen, die ich noch nicht angepasst habe.
+Die ganze Zeit waren die komplexen Richtlinien, die drei Maschinenelemente mit drin.
+Das werde ich gerade herausnehmen und versuche dann hier zu integrieren.
+Der Kurs heißt Urform.
+Vielen Dank.
+Vielen Dank.
+Wie geht es dir?
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Okay, ich höre mal die Folie durch, mache die Einleitung hier sehr kurz.
+Generell behandelt man hier die Urform, das heißt, im ersten Moment ist Gießen von Metall,
+Ein paar Grundlagen nochmal, ich nehme Werkstoff, müssen wir nochmal schauen, was sind die prinzipiell ablaufenden Prozesse, wenn Sie das Material in den Schmelzenzustand bringen und dann abkühlen.
+Wie tritt Schwingung auf, wie verziehen sich Bauteile, wie kann man das ganze trocknen und was sind entsprechende Verfahren, um die Metalle gießen zu können, sowie ein kleines Kapitel Urformen von Kunststoffen, das werde ich vielleicht noch ein bisschen überarbeiten für dieses Semester.
+Ich glaube, eine oder andere war schon mal in der Vorlesung, sehen wir dann so, wenn man abgebrochen ist.
+Das wird hinten raus ein bisschen anders werden als das letzte Mal.
+Dann werde ich das gerade bei Kapitel 2, 3 Urform von Kunststoffen bearbeiten.
+Definition der Fertigung.
+Wir haben verschiedenste Fertigungsverfahren, die wir einteilen nach Rauchgruppen.
+Wir haben einen Rohstoff, der formlos ist, das kann Halorat, das kann ein Pulver sein, das kann ein Abfallmaterial sein,
+das dann eingeschmolzen wird und dann in eine Form gebracht wird.
+Dabei wird der Zusammenhalt der Teilchen als Charakteristikum geschaffen.
+Also diese Tabulatkarner geben dann eine homogene Schmelze oder das Schmelzgut kommt in einen Tiegel
+oder in einen flüssigen Zustand, das Bauteil kühlt ab und dann laufen bestimmte physikalische Prozesse ab,
+deren Inhalt man so ein bisschen kennen sollte, um verstehen zu können, was mit den Bauteilen auch passiert.
+Ein anderer Kollege, haben wir schon gehabt, ich muss jetzt eigentlich besetzt sein,
+der Auftritt in Form der Werbungstechnik zumindest, die machen die Formen,
+Vielen Dank.
+die wir erreichen können, wenn wir auf Toleranzen bei Gießen eingehen, liegen teilweise in einem Bereich 1-3%.
+Das heißt, dann können Sie keine maschinenbau-tauglichen Teile mit Lage und definierten Toleranzen herstellen.
+Da wird es immer erforderlich sein, dass wir im nachgeschalteten Prozess dieses Material oder das Bauteil,
+das Endkontur nahe ist, nachbearbeitet, die erreichbaren Genauigkeiten.
+Und das Ganze ist eine Frage des Bauteils, das Sie dort haben möchten und die gewünschten Eigenschaften.
+Es gibt eine Ehekopplung zwischen Material, Fertigungsverfahren,
+in den Kunststoffanlagen werden Sie nicht immer ein anderes Fertigungsverfahren haben,
+Es ist ein Metall, auch wenn es sich um Überformen handelt, weil der Schmelzezustand ein komplett anderer ist.
+Der wird anders beschrieben und dazu brauchen Sie andere Fertigungsverfahren.
+Wenn Sie Kunststoff bearbeiten möchten, wie zum Beispiel hier dieses Metallbauteil von dem iPhone,
+brauchen Sie auch wiederum andere Schnittgeometrien, Sie brauchen andere Vorschübe.
+Sie müssen das quasi an das Material anpassen und die Anforderungen kommen aus der Konstruktion.
+Konstruktion sagt eigentlich, was sie haben möchte.
+Die Konstruktion legt in der Regel auch den Werkstoff fest und in Zusammenarbeit mit der Fertigungsträchtigkeit oder dem Fertigungsverfahren lassen sich definierte Bauteileigenschaften einstellen.
+Ein Beispiel ist hier das Automobil, diese alte Kiste da.
+Wenn Sie jetzt irgendwas aus der aktuellen Zeit reintun, da verändern sich mal Werkstoffe,
+von Stahl zum Aluminium, dann wird eine Karosserie, früher wurde die Feuer verzinkt, heute wird sie in einem Bad verzinkt.
+Es gibt unterschiedlichste Prozesse, um letztendlich die Eigenschaften, die gefordert sind, einstellen zu können.
+Das ist, ich sag mal, diese traditionelle Fertigungstechnik, wenn wir jetzt hier zu dem Smart hin gehen, der hat eine Außenbeflankung aus Kunststoff.
+Dann brauchen Sie eine andere Fertigung, dann gibt es nichts, die Erkenntnis darüber, wie man ein Türblech tief zieht, damit kriegen Sie kein Kunststoffbauteil hergestellt.
+Es gibt alternative Technologien, wie Sie auch solche großflächigen Bauteile mit Kunststoffen machen können.
+Da brauchen Sie aber andere Verarbeitungstechnologien, die sind dann komplett eng miteinander verzahnt.
+Ich zeige Ihnen gleich mal, wie beim I3 die Karosserie hergestellt wird.
+Die Phagast-Zelle, die ist aus Carbonfaser-verstärkten Kunststoffen.
+Dort hat man das Thema Leichtbau sehr stark nach vorne getrieben.
+Der Smart, das ist jetzt wohl nicht gekommen, aber er hat interessante Sachen, die gemacht worden sind, die aber in der Praxis noch nicht angekommen sind.
+Angekommen ist die Außengeplankung aus dem Kunststoff, dem Spritzstoff.
+Die Bauteile sehen danach, wie der Optik ja genau aussieht, wie die Detailbauteile auch.
+Da muss man die Maße, die Maßhaltigkeit einhalten, warum diese Frage dargestellt ist, dass man mal aus dem Kunststoff den Lichtkreis fertigen sollte, was aber sich in der Praxis der Licht etabliert hat.
+Das heißt, diese Kopplung, wie fertige ich, welchen Werkstoff setze ich ein, das kommt typischerweise aus der Konstruktion.
+Das heißt, Konstrukteure, die losgelöst von Werkstoff- und Fertigungsverfahren unterwegs sein werden, die haben immer ein Problem, dass es funktioniert.
+Sie müssen wissen, was geht in der Fertigung, was sind die Möglichkeiten und Grenzen eines Verfahrens.
+und dann können Sie vernünftige Bauteile generieren und Prozesse etablieren.
+Blechpulvergeschichten, da wird der Lack eingebrannt bei 180 Grad beim Blech.
+Das können Sie mit dem Kunststoff, mit den meisten Kunststoffen auch vergessen,
+weil die keine 180 Grad Wärmeformbeständigkeit haben.
+Und Smart ebenfalls, das heißt Sie brauchen eine andere Technologie,
+wie sie den Lack aufbringen. Das verändert alles im Prozess, sozusagen.
+Und das ist hier nur ein Beispiel Autologie, das haben sie permanent,
+dass das Bessere, das Gute ablöst, dass Werkstoffe eingesetzt werden,
+die früher nicht geeignet waren, die man aber soweit verändern, modifizieren, anpassen kann,
+Dass Bauteile genäht werden daraus. Ich hatte dieses Beispiel hier in der Funktion, Elemente in der Konstruktion genannt.
+Links das ursprüngliche Bauteil aus dem vollen Fräsch, aus Aluminium, rechts das Bauteil aus dem Blech, andere Fertigungstechnologie, 80% günstiger.
+Braucht man gar nicht zu wissen, wie es dem Einzelnen geht. Der Konstrukteur muss offen sein.
+Der muss wissen, was passiert auf der Fertigungsseite.
+Unter Umständen hat die Firma diese Aggregate gar nicht zur Hand,
+so eine Laserschneidmaschine und so eine Biegel-Stanzmaschine,
+die gleich erforderlich ist, müsste man investieren.
+Und dann geht man hin und schaut sich das an, man rechnet das
+und wird sehen, unter Umständen rechnet sich das
+und wir kaufen und investieren in einen neuen Maschinenpark an der Stelle.
+Vielen Dank.
+Amen.
+Das war's für heute.
+Ein Auto-Streichler, ein geheimnisvolles Strichbrot, ein Pizza-Teller für Autos, eine ganz besondere Hochzeit.
+Das veränderte Blech wird jetzt von der ersten Station zur zweiten Station gegeben.
+Umgekehrt wird wieder was ausgestanzt und so weiter und so weiter und so weiter.
+über alle sechs stationen und wenn es aus der sechsten station auskommt dann sieht das wirklich
+schon so aus wie die seitenwand von einem auto ist aber immer noch nicht so sehr stabil ist
+immer noch ziemlich wackelig damit stabil wird müssen ganz ähnlich geformte teile zusammengesetzt
+werden auf dieser maschine kommen vier stücke zusammen sendung mit der maus ist wdr das könnte
+Dann wird auf den Knopf gedrückt, ein Gitter geht zu, dann kommen die Klamotten zusammen,
+das Ganze ist ein Karussell, ein Schweißkarussell.
+Und dann kommen Schweißroboter und schweißen die vier Teile zusammen.
+Kleine Schweißkunde, wie geht das?
+Mit diesen Kolben erhitzen sie die Bleche.
+Am nächsten Mal kann man es gut sehen, dann glühen die und so schweißen die Dinger zusammen.
+Und dann sehen die Schweißpunkte so aus.
+Wenn das erledigt ist, kommt dieses Teil mit noch zwei anderen Teilen zusammen.
+Das ist eine A-Säule und eine B-Säule. Das ist das Innenleben von der Seitenwand.
+Wieder klammern und wieder schweißen und wieder klagen die Schweißroboter zu.
+Dann kommt unsere noch lapprige Außenhaut und das gerade geschweißte Innenleben wird
+da drauf gelegt.
+Der Roboter nimmt beide Teile zusammen, übergibt sie wieder an einen anderen Schweißroboter
+die werden auf ähnlichen pressstraßen gemacht wie wir es eben in der großen
+zeit gesehen haben ausgestanzt geformt
+Und dann kommen noch 1, 2, 3, 4, 5, 6, 7, 8, 9 Teile dazu.
+Alles zusammen wird in diese Presse gegeben.
+Und die presst alle Teile zusammen, sodass aus diesen ganzen labrigen einzelnen Flächen eine stabile Tür geworden ist.
+So sieht das so aus.
+Und nach dem Zusammenbau so, wie man eine Tür halt so kennt.
+Nicht nur große Teile werden gepresst und gestanzt, auch viele kleine.
+Auf vollautomatischen Pressen, denn in dieser Fabrik besteht der Bautor mit fünf Türen aus insgesamt 335 Einzelhandel.
+Das heißt, wir haben eine sehr hohe Produktivität in der Anlage.
+Und da ein ist etwas, dann kommt der.
+Danach, danach wieder in einen Trockenhof und wenn die Karosserie dann da rauskommt, ist zweiter passiert.
+Er ist in der Wasser, in der Kondenswasser, sich zwischen die Bleche setzen kann.
+Wenn sonst, können Sie sich an solchen Stellen kosteinsetzen.
+Danach, da man im Auto nur noch mit Handschuhen arbeiten kann, hier kommen Anti-Dröhnen an, die sollen verhindern, dass die Auto-Energie-Klima-Panze verankert, statt dass der Wind auf den Schnellen am Boden, so lange die Dämmen nahe auskommen, ist es weiter passiert.
+Erstens ist die Grundierung eingebracht und zweitens haben sich die Dämmen fest mit dem Untergrund zusammengepackt.
+So kann man es sehen.
+So sieht die Kauserie jetzt aus und gleich geht es weiter.
+Und wenn die fertig sind, kommen zwei andere und die machen dann die Intra-Helmhaus-Auflösung.
+Und das, was man sieht am Rand, das wird von Robotern erspült. Also der hier wird Zitronengelb.
+Wenn jetzt die nächste Karosse über diese blaue Kiste ins Keller geht,
+hat dieser Wagen gleich eine andere Farbe.
+Und weil er eine andere Farbe bekommt,
+dann werden die Düsen erst gesäubert
+und dann wird der nächste Wagen zum Beispiel mit grün gespritzt.
+Und dieser Wechsel erfolgt vollautomatisch gesteuert
+durch diesen Strichcode unter dem Stoßhänger.
+Nach der ersten Lackschicht noch eine zweite
+Danach werden die Seiten, die man nicht sieht, also die Türpfalz, nochmal gespritzt, jetzt
+auch mit der richtigen Farbe.
+Dann kurz in den Trockenofen und danach kommen die größten Spitzen.
+Das sind noch niemals die richtigen Lackdicke, oder?
+Aber nicht Klarlack.
+Das sind noch niemals die richtigen Lackdicke, oder nicht?
+Der spielt ja einfach so rum.
+Aber erst durch den Klarlack kommt das Auto seinen richtigen Platz.
+Danach wird der Lack kontrolliert,
+unter so einem lichten Zelt,
+wo keine Tropfnasen da sind und umgerissen mondlich ist.
+Und gleich geht's weiter.
+Das würde für den basierten Lack noch gewesen sein.
+Ich glaube, heute sind das alles Kühlberlacke.
+Die werden dann in das Metallhaut eingepflanzt, über die hohe Temperatur.
+Da ist es gerade, also im Ofen, der Ofen als solches, der hat eine Temperatur von 180 Grad.
+Das Auto ist quer geworden, bis jetzt haben die alle der Länge nach hintereinander gestanden.
+Und jetzt wird im Motorraum gebaut, geschraubt, getan, jede Menge Kleinigkeiten.
+Hier bekommt das Auto millimetergenau an die richtige Stelle.
+Hier so ein Prozess, wo Sie sehen können, wie diese Fahrgastzelle hergestellt wird, also klassisch Bleche tiefziehen, stanzen, schweißen, also Integralbauweise.
+Aus mehreren Bauteilen wird dann ein Gemeinderungsbauteil hergestellt durch den Füge-Prozess des Schweißens.
+Ich wollte nur noch das Handelszeichen.
+BMW hat bis 2013, mit Produktion ab 2014, den i3 eingeführt.
+Das ist eine Tarkas-Zelle, die besteht aus Carbon-Faser.
+Es nutzen eben diese ganzen Prozesse des Tickziehens und Sternziehens und Schleißens nichts mehr.
+Es gibt überall entsprechende Fachleute, die diese Prozesse optimieren.
+Hier hat man jetzt eine vorvernähte Carbonfaserstruktur.
+Dann wird in so eine Presse eingelegt und jetzt wird in der Presse ein Harz indiziert, was reagiert.
+Das ist ein Kunststoff, der dann chemisch verletzt wird.
+der die Steifigkeit dieser Struktur herstellt.
+Lustigerweise ist der Hersteller dieser Presse genau der Hersteller,
+der auch stufenweise die Bleche tiefzieht.
+Das ist die Firma Schula.
+Die sitzt bei Ravensburg.
+Jetzt fährt das fertige Bauteil raus.
+Das Harz wurde injiziert.
+Wir brauchen nicht eine Fehlstelle hinterlassen.
+wird unter Umständen noch in den Ofen reingelegt, um vollständig zu vernetzen.
+Jetzt habe ich hier so eine Seitenteilkonstruktion, so ein Bauteil, die Seitenwand der Karosserie, der Fahrgastzelle.
+Hier kommt jetzt der Fügelprozess, um diese Karbonfaserbauteile miteinander zu fügen.
+In das ganze Schweißen nichts, diese Carbonfasern, eingebettet in Doro-Glast, können Sie nicht schweißen.
+Das Material könnte nicht mehr schmelzen.
+Die einzige Option, die Sie haben, wäre jetzt Löcher bohren und Mieten einsetzen.
+Das macht die Flugzeugindustrie, die Carbonfasern, zusätzlich zu verkleben.
+Man sieht es gleich, was ihr an Lichtquelle hier seht, ist ein Infrarotstrahler, der erwärmt den Kleber und der Kleber reagiert dann chemisch gesehen.
+Das ist wahrscheinlich Epoxidharzkleber, der die Temperatur aushärtet.
+Das ist die Bodengruppe, da werden jetzt die beiden Seitengruppen angesetzt und überlappend werden die Bauteile aufeinander geklebt.
+Das ist jetzt ein ganz anderer Prozess, Sie sehen die ganze Automatisierung drumherum.
+Die sieht jetzt etwas moderner aus, weil der Prozess erst vor zehn Jahren aufgezeichnet wurde.
+Da unten ist jetzt so ein Roboter, der trägt den Kleber auf.
+Wenn Sie jetzt sagen wollen, ja, wir haben die ganze Zeit hier Stahl gehabt, wir wollen jetzt Leichtbau machen, wir nehmen Kunststoff.
+Der Kunststoff hat etwa 60 bis 70 Prozent Gewichtseinsparung bei der Fahrgastzelle.
+Die liegt knapp 100 Kilo. Das können Sie mit zwei Läuten ganz easy hochheben. Das schaffen Sie mit der Stahlverhause, die derer er braucht.
+Und hier diese Infrarotstrahler, das sind jetzt Punkte, wo Bauteile miteinander erwärmt und der zwischenbefindliche Kleber aushärtet und dann eine Festigkeit erhält.
+Hier sieht man noch mal so ein Seitenteil, feststehende Klebestationen.
+Der Roboter führt über den Kleber, der hier jetzt auf das Bauteil braucht.
+Hier sieht man den Klebstoff.
+Kräfte werden hier eingetragen über die Klebefläche.
+Das ist ein strukturelles Kleben.
+Der Kleber muss die Kräfte übertragen.
+Das Bauteil darf sich da nicht in der Grenzfläche irgendwie verformen.
+Es gibt auch Kleber, die sind relativ weich und gummigehnlich, die bestimmte Deformationen zulassen,
+um Dehnungen, die entstehen, zum Beispiel durch unterschiedliche Wärmeausdehnungen bei Temperaturzufuhr, ausgleichen können.
+Die ganzen Kräfte, die jetzt in der Fahrgastzelle sitzen,
+wenn wir so ein Auto haben, ich habe das mal gesehen,
+ein Student hat ein Porsche im Praktikum gemacht,
+da wird die Karosserie, die hohe Karosserie,
+wird auf den Bauteil, auf den Kühlschrank gestellt,
+dann werden Kräfte eingetragen, man verformt die Karosserie
+und möchte da zum Beispiel bei so einem Sportwagen
+eine möglichst steife Karosserie haben,
+Das können Sie in den Verwohnfasern sehr tief erzeugen, aber der Fertigungsprozess, den wir hier haben, der ist endgültig teuer.
+Und die BMW hat wahrscheinlich auch sehr viel schmerzhafte Erfahrungen gemacht,
+dass Bauteile, die aus diesem Fertigungsprozess kommen, dann in der Qualität nicht in Ordnung gewesen sind.
+Dann haben die nachher die Verwohnfasern da gehabt, die teuren, und konnten die Bauteile nicht einsetzen.
+Das wird hier gefügt, gegeben, der Kleber wird erwärmt, der reagiert dann aus und dann hat das Bauteil, sagen wir mal, eine Endling-Festigkeit.
+Das nachbreche ich dann noch mit der Zeit, wie ich weitergeleitet werde, dazu dann die finale Festigkeit.
+Das sind komplett andere Fertigungsprozesse für identische Würfel, weil sie andere Materialien einsetzen.
+Zykluszeit, bis so ein Pressvorteil fertig ist, sind 90 Sekunden.
+Gegenüber 2 Sekunden aus so einer Presse, wo das immer durchläuft.
+Das heißt, Sie haben unendlich längere Fertigungen hier an der Stelle und Sie können auch nicht, ich sage jetzt mal, eine BMW braucht zweieinhalb Millionen Fahrzeuge.
+Dann kommen Sie nicht auf ein Stückzahl mit diesem Fertigungsprozess.
+Wir haben also kapazitativ, ich weiß nicht, was Sie gebaut haben am Ende des Tages, da müssen wir mal in eine Statistik reinschauen, vielleicht operieren Sie das auch, 30.000 Fahrzeuge im Jahr, wenn nicht, mehr geht da nicht.
+ein, über die langen
+Zykluszeiten der einzelnen
+Prozesse. Müssten sie im Prinzip
+das Ganze, was sie da haben,
+diese
+Anlagen,
+die müssten sie da noch mal
+multiplizieren und was würde ich
+in dem Fall nochmal eine gleiche Handel stellen,
+um die Kapazität zu erhöhen.
+Über die Prozesszeiten kommen sie halt
+hier
+in relativ
+langsamen Reaktionen
+und im Zuge dessen dann auch eine niedrigere Produktivität.
+Vorteil sind 60-70% Gewichtseinsparung gegenüber Stahl.
+Die heutige Generation wird das nicht mehr machen,
+weil zu viele gut Genasen sich da offensichtlich geholt.
+Da oben beim 7er BMW ist oben auch so eine Dachschräge drin, die hat man aus Carbonfasern gemacht.
+Vor dem Argument, dass bei diesem 7er BMW durch das leichte Bauteil da oben der Schwerpunkt bietet.
+Das ist so ein typisches Blablabla, sage ich jetzt mal an der Stelle.
+Dieses Gewichtsargument kann ich nicht nachvollziehen.
+Vielleicht ist es ein Steifigkeitsthema, dass man mit den Carbonfasern sehr viel steifer konstruieren kann als mit Pech und mit Stahl.
+Das kann natürlich auch sein. Aber an der Stelle haben wir es gemacht.
+Und es wird wahrscheinlich sowas nicht wieder realisiert.
+Beim Alfa Romeo hat eine Bodengruppe eines Fahrzeuges, was aus Carbonfasern ist, im Automobil,
+diese Werkstoffe, sehr, sehr teuer.
+Es wurde immer prognostiziert, dass die Einzug finden.
+Wir liegen heute bei einem Kilogramm verarbeiteten Carbonfasermaterial bei fast 100 Euro.
+Und damit sind sie unendlich teuer im Vergleich zu Stahl, 3 Euro und Aminium 20 Euro.
+Das sind jetzt Zahlen, die kommen aus der Prozessindustrie, wo man weiß, die haben so ein bisschen Kilogramm Material verarbeitet und die haben die und die Umsätze gemacht.
+Da kommt man so ungefähr auf den Durchschnittspreis. In der Raumfahrt sind die durchaus mehr bereit zu bezahlen und wenn man in Sichtanwendungen geht, bei der Carbonfaser, dann wird das noch teurer.
+Also keine Fehler da sein dürfen, wo man die Carbonfaser im Bauteil sieht, dass die nicht verrutschen darf oder sowas, dann haben Sie noch höhere Preise.
+Ich meine jetzt, also ich finde es eher wenig, ein Kilogramm Carbon, weil wenn man zum Beispiel so eine Frontlippe so baut, dann braucht man eigentlich mal ein Kilogramm, weil Carbon wiegt ja wenig.
+Eigentlich geht der da 100 Euro, finde ich schon in Ordnung, oder nicht?
+Es wiegt nicht viel, man braucht ja auch nicht so viel.
+Im Stahl haben Sie 3 bis 5 Euro.
+Das ist die Automobil, das können Sie 20% sparen, dann können Sie sich ausrechnen, 60% Gewicht sparen, dann haben Sie, was weiß ich, die 100kg Karosserie im Stahl kostet 300-500€, wenn Sie jetzt 60% Gewicht einsparen, haben Sie 40kg Karbon mal 100€, dann sind Sie bei 4000.
+Das ist ein Faktor 10 im Bauteil.
+Also die Dimension dann zu sehen, das sind Gimmicks.
+Also das hier, was Sie da gemacht haben, da ging es um Know-how-Gewinn-Transfer.
+Dann haben wir aber auch, da sieht man die Zahlen halt nicht.
+Wenn Sie so ein Bauteil pressen und die Qualität ist nicht in Ordnung,
+dann bleibt Ihnen nur eins übrig.
+Sie nehmen die Carbonfasern, malen die klein,
+dann brennen die Kunststoffdrucker rum
+und können die Carbonfasern dann wieder in den Thermoplast einarbeiten.
+Das heißt, da hat man aber dann Materialien generiert, die es vorher auch nicht gegeben
+hat, auch neue Anwendungen macht, aber die haben da am Anfang teilweise Ausschussgrößen
+von 50% bei, in dem es 2 und 3 gibt. Das geht nicht. Die Flugzeugindustrie hat typischerweise
+bei aktuellen Fahrzeugen, 50% Strukturbauteile aus Carbonfaser. 50% der Pump, das Seitenleitwerk,
+alle Dinge, die dort wirklich tragend sind, sind vorwiegend aus Carbonfaser. Die Flugzeugindustrie
+macht aber das nicht, das reine Kleben.
+Die machen zusätzlich Miete da drauf,
+da wird ein Loch gebohrt, durch die Faser
+hindurch, wo man sagt, ich habe Ihnen da
+jetzt in der Maschine Elemente erzählt,
+immer schön dem Kraftfluss nach.
+Die Kraft geht immer durch die Faser.
+Und jetzt bohrt er da noch rein.
+Ist aber so. Wird gemacht.
+Man nennt das auch Angstmiet.
+Falls sich die Klebung löst,
+habe ich immer noch den Lied, der die Kräfte tragen kann.
+Und wenn die Klebung sich löst, sehe ich das zum Beispiel durch Ultraschall.
+Wenn wir draufgehen in der Oberfläche, wo das ist, dann sehen Sie das.
+Im Auto ist das nicht so kritisch gewesen.
+Ich wäre gerne dabei gewesen bei dieser Diskussion, wo wir dann gesagt haben,
+kein Lied, hier wird nur geklebt.
+Und das muss halten.
+10 Jahre, 15 Jahre, 20 Jahre.
+Das wird nicht auseinanderfallen.
+Das sind ja auch alles dynamische Veranstaltungen. Die Karosserie wird verbogen und alles Fragestellungen, die kritisch sind.
+Wenn jetzt hier ein Crash irgendwas passiert und die Karosserie im inneren Bereich ist, dann wird sie zerstört.
+Das ist Carbon-Stativ beim Aufbauen.
+Das kann sehr viel mehr Energie aufnehmen, auch als Stahl. Es gibt sogar Crash-Elemente, die man in Fahrzeuge anbaut, in der Formel 1 zum Beispiel.
+Das sind solche Röhrenkonstruktionen als Crash-Element, wo dann Bauteile ineinander geschoben werden und wo Energie absorbiert wird.
+Wir haben ein sehr gutes Impact-Verhalten.
+Deutlich besser sind noch Kevlar-Fasern.
+Das ist eine aromatische Faser, spezielle Faser, Aramid.
+Die kann auch Real Energie, Schlagenergie aufnehmen, die ist typischerweise verbaut in solch einem Crasher.
+Und woraus besteht eigentlich Carbon, also so was wie Material?
+Ein Alkoholstoff.
+Das sind Fasern, das ist ursprünglich sogenanntes Polyacryl-Mitril, das ist ein Kunststoff.
+Die Faser wird aus einem Lösungsmittel hergestellt, dann wird die Carbonfaser gebrannt.
+Deshalb ist das sehr energieintensiv, deshalb ist es nicht so teuer.
+BMW hat da eine Fabrik gebaut, zusammen mit SGL Carbon aus Gersthofen.
+Hier sieht man, wie die Fasern von Spulen geholt werden und die werden durch den Ofen geschickt.
+Da haben Sie bis jenseits der 1500-2000 Grad, die Sie brauchen.
+Und dann sind noch Verunreinigungen der Carbonfaser drin, Stickstoff und Sauerstoff,
+und der wird ausgetrieben in dem Prozess.
+Je mehr Carbon Sie drin haben, desto höher ist die Steifigkeit.
+Sie können die Steifigkeit, das Impactverhalten und die Eigenschaften der Faser
+durch diesen Carbonisierungsprozess gestalten.
+Das Material wird geschmolzen und dann entsteht das Karbon, oder?
+Nein, in einem Lösungsmittelprozess wird ein sogenanntes Polyacryl-Litril, eine Faser hergestellt,
+da ist zum Beispiel noch relativ viel Stickstoff drin und dann geht es in eine Atmosphäre,
+wo der Stickstoff aus der Faser herausgebracht wird.
+Das nennt man Karbonisieren.
+Dann bauen sie es auf 1500 Grad. Wenn Sie die Faser bei 2000 Grad brennen, wird der Reinheitsgrad größer, die Steifigkeit, dann wird dann, am Stahlhandel sagt es 210.000, die Carbonfaser kann bis 800.000.
+Die reine Carbonfaser. Und das ist eine riesige Verfahrenstechnik, das ist brutal energieintensiv, weshalb die Amis, das ist in Lake Moses,
+Ich glaube, in der Nähe von Chicano haben die so eine Fabrik aufgebaut,
+wo sie gemeinsam mit SGL Carbon dann diese ganzen Carbonfasern in Eingriffen hergestellt haben.
+Können Sie die Eigentümerstruktur von BMW?
+Was meinen Sie?
+Wer ist Eigentümer?
+Das muss man unterhalten.
+Arminio, oder?
+Arminio Kwan.
+Die Frau Klappen ist da, glaube ich, berufsführend in der Investoren-Szene.
+Die hat ihn für Sorge getragen, dass es dieses Joint Venture mit SGL-Karbon gegeben hat, weil die da jetzt Innovationen machen wollte.
+Es ist aber so schwierig mit den Prozessen her und so teuer vom Material, dass man davon jetzt mehr oder weniger Abstand nimmt.
+Der Golf zum Beispiel wird mit Stahl gebaut, denn die Elektro-Golfen und andere Elektrofahrzeuge werden nicht mit Karbonfadern gebaut, weil das das Produkt noch viel teurer war.
+Die Prozesse so kompliziert sind.
+Bei Karbon ist es doch so, wenn man beispielsweise irgendwas herstellen will, z.B. eine Lippe oder so, dann muss man das so übereinander legen und dann so drauf bauen, oder? Mit einem bestimmten Druck.
+Hier sieht man so ein Gewebe, das ist so ein Gewebe hergestellt, ich habe ein paar Muster da eigentlich zur Hand.
+Hier werden die Fasern, Kette und Schuss so miteinander in Verbindung gebracht, da wird so ein Gewebe draus geflossen.
+So ähnlich wie die Ikea-Taschen, diese Verstärkungstaschen, die man so kennt, die sind auch aus Kunststoff.
+und hier die Carbonfasergewebe
+die hergestellt werden
+da können Sie dann die Fasern
+in definierter
+Geometrie reinlegen
+wenn wir gesagt haben, krachflussgerecht
+müsste man eigentlich die Fasern
+in die Karosserie legen, wie die Kräfte da durchgehen
+das macht das aber kompliziert
+deshalb nimmt man Gewebestrukturen
+wenn Sie eine Faser
+in Faserrichtung ziehen
+so was
+ja, die Kraft aufbrennen
+das ist super, das funktioniert
+wenn wir aber die Querkraft haben
+ist schon mal scheiße
+deshalb macht man im Prinzip so ein Gewebe
+und das dann so einmal drunter
+drüber gelegt wird
+und jetzt haben wir da diese beiden Richtungen
+gleiche Beanspruchung
+was passiert jetzt unter 45 Grad
+dann fällt das da ganz leicht auseinander
+deshalb gibt es bestimmte Ausbauten
+von Gewebestrukturen
+0, 45, 0, minus 45, 90, plus und minus 90, um einen Aufbau zu machen, nimmt man dann quasi Isotrop.
+Dass das Material in alle Richtungen gleich ist, gelingt aber nicht immer.
+Es wird versucht, es macht die Sache einfacher, es macht die Berechnung einfacher, aber eigentlich müsste man kraftflussgerecht konstruieren.
+Wenn man weiß, wie die Deformationen sind, müsste man an einer bestimmten Stelle die Fasern in einen bestimmten Winkel einlegen.
+Das wäre kraftflussgerecht, da ist man aber nicht so weit.
+Und das wollte man in dem Projekt dann auch nicht umsetzen.
+das könnte das Dach sein hier vom, wie heißt die Rennwagenserie BMW M3 oder sowas, der ist kaputt, der kostet das Kilogramm in der Sichtanwendung bis 800 Euro.
+Wie wird der kaputt, gehärtet?
+im Prinzip die Fasern als solches, ich habe jetzt keine dabei, schade, die sind relativ weich.
+Wenn Sie so ein Gewebe haben, ist es wie diese lapprige Außenhaut vom Automobil mit dem Blech, das ist sehr weich.
+Die Bleche haben ja nur noch 0,6 mm.
+Wenn Sie da mal irgendwie mit dem Finger auf mich draufhauen, dann haben Sie im Seitenteil so eine Delle drin.
+Das können Sie auch machen bei meinem 93er Audi, da passiert nichts.
+Die Fläche damals dicker gewesen, die haben die Dicke so weit reduziert, wie es einfach nur geht, um Gewicht zu sparen.
+Härten ist nicht ein Prozess, aber Sie nehmen die Fasern trocken in eine Presse ein und dann kommt ein Kunststoff, ein Kleber.
+Der benetzt die Oberfläche und verklebt die Fasern.
+Und der trägt auch mit.
+Das ist wie ein Kleber.
+Der klebt die Fasern zusammen.
+Jetzt wird das unter Druck gemacht.
+Die Fasern können sich verschieben, wenn die Fasern verschoben sind.
+Und den Fehler macht, wenn das Bauteil weg bleibt.
+Das habe ich gesagt.
+Es hat wahrscheinlich viele Gründe, aber wie bringt man direkt,
+zum Beispiel 600 Meter Blech,
+das lässt man Carbon nicht einfach direkt weg?
+Wie meinen Sie das?
+Ja, also man tut ja, das Carbon tut man ja auch auf so ein Blech drauf.
+Ne, das ist jetzt hier nicht. Das ist also reine Karbon-Fahrgast-Zeit.
+Aber wie wird es dann gehärtet?
+Das war in dem Video jetzt hier gerade.
+Ja, das wird ja aufeinandergelegt, aber es war ja da weich in dem Video.
+Hier sind meine Resin Transfer Handling, RTM, die Carbonfasern, das ist hier unten die Carbonfaser.
+Die werden da definiert reingelebt, die Fasern als solches, da liegen jetzt unterschiedliche Gewebestrukturen aufeinander und sehr häufig werden diese Gewebestrukturen miteinander verlebt.
+Was versteht man unter Gewebestruktur?
+Die Faser. Karot ist eine Faser.
+Die hat zum Beispiel so ein Gewebe, das wird dann dort zusammengelegt und jetzt sind diese Fasern trocken.
+Sie können sich ineinander verschieben. Das ist ganz weit. Ich bringe es nächstes Mal so hoch.
+Die werden aufeinandergelegt. Jetzt kommt ein Greifer, der nimmt diese trockenen Carbonfasern.
+Da ist jetzt noch kein Kunststoff dazwischen.
+Die Carbonfasern haben typischerweise einen Anteil von 50-60% und 40% sind Klebstoff, der die Fasern zusammenklebt.
+Der wird jetzt in der Presse, hier sehen Sie jetzt die trockenen Fasern, die sind drin, das Bauteil fährt zusammen, da ist jetzt noch Luft drin.
+Und jetzt wird da dieser Kleber initiiert, Folioritan oder Epoxidharz, das reagiert dem Werkzeug, das dauert 90 Sekunden.
+90 Sekunden machen Sie so eine Seitenwand, während Sie beim Tiefziehen und Speisen vielleicht
+5 Sekunden Zykluszeit haben, um so eine Seitenwand herzustellen.
+Das geht viel schneller.
+Produktivität ist viel höher.
+Jetzt kommt das Bauteil raus.
+Ich bringe das nächste Mal so ein Muster mit.
+Von der Carbonfaser, das können Sie alles noch hin und her bewegen und ziehen.
+Und wenn dann der Klebstoff dazwischen ist, das sieht man jetzt hier, der hält jetzt
+Carbonfasern zusammen, man bildet die Oberfläche und man sieht hier auch so ein kleiner Grat,
+der entstanden ist, wo dieser Klebstoff in die Fügeebene, in die Trennebene der beiden Werkzeuge
+reingedrückt wurde. Das kann man nicht immer ganz dicht kriegen und das wird dann nachher gefräst.
+Gibt es noch einen leichteren Weg als Carbon?
+Also wie gesagt, man kann mit der Karbonfaser als solches spülen im Immobil.
+Karbonfasern, die niedrigeres Immobil haben, haben besseres Impact-Verhalten, Zähigkeit.
+Wenn Sie die besonders steif machen, die Karbonfaser bis Immobil 800.000,
+fehlen aber die Zähigkeitseigenschaften.
+Das ist dann sehr spröde.
+Und ich sage mal, in der Flugzeugindustrie ist das Material der Wahl, die Karbonfaser hat eine Dichte von 1,7.
+Stahl 7,5, Aluminium 2,5.
+Aluminium hat ein Minimodul von 70.000, Karbonfaser 10,5.
+Und wir müssen versuchen, wirklich viele Karbonfaser reinzubringen,
+möglichst wenig Kleber, denn die Karbonfaser, die machen die Steifigkeit.
+Wenn wir mehr Kleber drin haben, geht dieser Wert nach unten.
+Also ein Auto nur aus Carbon wäre sinnlos eigentlich, oder?
+Man braucht diese Knotschzonen und so.
+Das war eben auch ein Teil meines.
+Ja, aber ich sag jetzt mal, ich weiß nicht, in der Formel 1 ist es schon so,
+dass viele Elemente aus Carbonfasern sind und auch freche Elemente aus Carbonfasern.
+Ich sag mal, wenn Sie jetzt zum Beispiel so ein Verkleidungsteil haben,
+Letzte Woche war ein Student da, der ein Praktikum gemacht hat bei so einer Automobilfirma, die 3D-Druck gemacht haben.
+Da werden zum Beispiel vorne so Brotschmühlen oder sowas, die werden auch aus diesem Karbonfaser-Material gemacht.
+Wo man das machen kann, versucht man das schon zu machen.
+Wenn Geld keine Rolle spielt.
+Aber das war jetzt eine Beispielrechnung, die ungefähr auf das hinausgeht, wo ich sage, das Kilogramm da 100 Euro kostet, die Stahlkarosserie kostet, was weiß ich, dann 400, 500 Euro, und da sind wir bei 4000 bei dieser Carbon-Karosserie.
+Das können Sie dann schon direkt ausrechnen, ist das im Grunde doch bereit zu bezahlen.
+VW hat damit gar nicht angefangen, im großen Kontext.
+VW macht einzelne Bauteile aus Carbonfasern, die Rückwand beim A8, im Sitz, im Rückzugs,
+die sind aus Carbonfasern.
+Bauteil groß, hohe Steifigkeit, niedriges Gewicht, bringt vielleicht auch eine Steifigkeit
+für die Karosserie, für Fahrmodus, also das sind so die Gedanken, die die Firmen haben,
+die Firma VW oder Audi, Audi baut den Spaceframe aus Aluminium.
+Die sagen, das was wir mit Aluminium erreichen können, machen wir mit Aluminium
+und das reicht uns aus für den Leichtbau.
+ansonsten steigen uns die Kosten zu stark
+mit der Art und Weise
+wenn wir gerade
+KW-Fahrer einsetzen
+das ist Spacecramps neues Modell
+ja das ist Spacecramps
+die versuchen sehr viel mit an die Linie zu machen
+und die Philosophie
+die jetzt viele Firmen haben
+ist das richtige Material
+in der richtigen Menge
+in der richtigen Anwendung
+Wenn Sie jetzt hier bei BMW schauen...
+Also Carbonmotor-Laufwerke, das gibt es ja auch, oder?
+Ja, da macht es aber auch Sinn. Ich habe jetzt mal so eine Hinterachs-Aufhängung oder sowas,
+so Karosserie-Teile aus Carbonfaser mit Stand der Technik.
+Also Bio-Carbons habe ich jetzt auch noch nicht gehört, wir werden es da auch täglich
+Aber Carbon zerkratzt auch schnell, oder?
+Das hängt vom Lack ab. Das können die Bauteile nachträglich auch blockieren und dann haben sie quasi die gleiche Oberfläche wie die Metallbauten.
+Vielen Dank.
+Was ist das jetzt hier für ein Bauteil?
+Was ist jemand, was ist dieser Frontaufsatz?
+Lippenmantel, das war es, glaube ich.
+Das Ding da vorne.
+Genau.
+Nein, noch eins da drunter.
+Das Ding.
+Das da.
+Nein, nein, drunter.
+Das war es.
+Ja, genau das.
+Nein, noch das da drunter.
+Das da.
+Genau das.
+Ach, ja, ja.
+Das ist es.
+Genau.
+Ja.
+Genau.
+Für die Aerodynamik. Mehr Downforce für ein Auto, was in 2440 Euro...
+Jetzt kannst du ausrechnen, was das Ding wiegt. Da haben sie kein Kilo mehr an. Definitiv nicht.
+Dafür machen wir im Tiefgarage alles, was wir können.
+Da lacht man nicht so.
+Ich wusste, man lacht. Wir haben so in der Nähe auch, ich nenne das immer Ostblock,
+so ein neugebauter Gebäudeblock, und unten fährt man in den Tiefgarage rein.
+Und der Typ, der das hat bauen lassen, der fährt einen Porsche,
+und sonntags morgens ist der mal, da war das Tor noch nicht in Betrieb,
+Betrieb, kommt mal so zwei rein, ist da reingefahren, wird ein Bild enthoben, wird das nix.
+Da hat der Freund oder der Freundin die Freundschütze aus dem Schlanketal aus der Garage heraus
+wahrscheinlich, also das liegt mir da links oben wieder, ja.
+Das haben die doch angeschaut.
+Das waren die 200 PS oder so, oder?
+200.
+Die Fahrtabdeckung 360 Euro und das Ding wiegt 300 Gramm.
+Schafft man das eigentlich bei einem 200 PS Motorrad beim Anfahren, kriegt man nicht die ganze 200 PS hin, oder?
+Also sonst wird es ja auch...
+Ja genau.
+Wenn man den Boxer so macht und den Boxer dann woanders, der geht direkt unten raus vom Drehmoment hier.
+Aber im Prinzip steigt auch gerade das Drehmoment oder die Drehzahl an.
+Und die sind heute alle so abgeregelt, dass sie wahrscheinlich das Ausschalten müssen,
+dass er aufs Vorderrad hochgeht.
+Das war früher anders.
+Die PS hat hier das Bruder.
+125.
+Ja, genau.
+Was wiegt das denn?
+200 Luftdurchschnitt.
+Geht das jetzt in die Carbonfaser,
+so als Prozess?
+Da hört man aus,
+gesponnenen Faser heraus,
+wo im Einzel
+im Faden
+bis zu 50.000 Filamente
+durchmesser der Fasern
+ist sehr gering.
+Und jetzt wird es so gelegelt.
+Das ist ein geiles Haus.
+Die Nägel.
+Gibt es Carbon schon lange?
+Das wurde mir schon
+meine studien als neues material verkauft oder noch und ich sag mal die prognose ist immer die
+dass jetzt die große entwicklung kommt kommt aber nicht bei den kosten die energie ist viel zu teuer
+als dass das jetzt da zum beispiel breitenergie ersetzen würde es gibt bestimmte anwendungen wo
+Ich habe meine Arbeit betreut, die haben diese Portalmaschinen, die stehen auf Füßen und oben sitzt so ein Fräskopf, der große Bauteile anfährt und in dieser Fräskopfposition fährt.
+Die Maschine wird abgebremst und Sie haben eine große Masse.
+Dann fängt dieser Portalkopf an zu schwingen.
+Und der soll möglichst schnell wieder stillstehen.
+Die Schwingung soll nicht lange dauern.
+Wenn Sie Stahl haben, haben Sie mal Stahl angehauen, so einen Triangel, die schwingt ewig hinterher.
+Er hat eine schlechte Dämpfung.
+Dann natürlicherweise Gusseisen für solche Maschinen.
+Das ist das, was wir hier als Thema haben, ist das Gusseisen.
+weil der Bus die Schwingung dämpft und die Maschine schneller zum Gehen kommt, damit der Kopf in die Maschine schwingt und Sie haben den Kopf da drin.
+Das geht nicht.
+Da hat man mal geprüft, was man machen kann, ob man Carbonfaser einsetzt, weil die Carbonfaser eine viel bessere Dämpfung aufrechterhält.
+Und sie ist leichter und sie schwingt nicht so stark.
+Also umso weniger Dichte, umso weniger Schwingung.
+Das hat mit der Dichte jetzt nichts zu tun, aber es ist die unversichtliche Eigenschaft dieses Werkstoffes.
+Bei den Gusseisen werden wir sehen, im Gusseisen ist sehr viel Kohlenstoff drin, Kohlenstofffaser.
+Kohlenstofffaser ist so, da haben Sie Kohlenstoff, der liegt da jetzt nicht in ungebundener Form vor,
+sondern der Kohlenstoff liegt in einem Gitter vor.
+Man kann sich das wirklich auch so ein bisschen vorstellen.
+Daraus kommt die Steifigkeit, das ist die Karbonfaser.
+Das ist die chemische Struktur.
+Hier sitzt überall Kohlenstoff.
+Das ist die Karbonfaser.
+Das ist wie Grafit in mehreren Schichten.
+Und der Kohlenstoff, den wir haben, der liegt komplett in gelöster Form vor
+und hat zur Folge, dass die Eigenschaften in dem Material sind Anhäufungen von Kohlenstoff
+und der wiederum ist dafür verantwortlich, dass die Dämpfung besser ist als beim Gusseisen.
+Deshalb ist Gusseisen für bestimmte Anwendungen im Werkzeugmaschinenbau relativ wichtig.
+dass diese Schwingung dämpft und damit schnellere Maschinenzeiten ermöglicht.
+Die ganzen Maschinenbette, also quasi dort, wo der Maschinenaufbau gemacht ist,
+das Grundgestellte ist ganz, ganz häufig gut gehalten.
+Und keine gespeiste Strahlkonstruktion.
+Wenn die immer steht.
+Also kommt es nie auf die Dichte an, oder?
+Das ist immer eine Kombination von bestimmten Eigenschaften.
+Aber hier ist es so, wenn Sie jetzt dieses Kohlenstoffgitter haben und die ziehen jetzt an diesem Gitter, das ist super steil, es gibt ein Eko-Druck bis eine Million theoretisch für die Carbon-Faser, wenn Sie die so aufbauen, nur Kohlenstoff drin haben, was sehr starke Bindungen sind und die dann in einer derartigen Struktur hängen.
+Dieser BMW hat dann auch, da waren wir dann konsequent, für Außenhaut eine komplette
+Beplankung aus Kunststoff.
+Und auch da brauchen Sie wieder andere Prozesse.
+Was wir jetzt hier sehen, ah ne, ja doch, das ist vor dem Lackierungsprozess.
+Ich weiß nicht, inwiefern das jetzt auch bei weiteren Fahrzeugen noch gemacht wird.
+Das sieht man jetzt, das ist ein spritzgegossenes Kunststoffbauteil.
+Da muss man jetzt das Werkzeug konstruieren.
+Man muss wissen, wo drückt man die Schmelze rein.
+Das Werkzeug, zwei Hälften, sind beide gekühlt. Das Werkzeug schließt. Es gibt Anspritzpunkte, verschiedene, wo die Schmelze reingedrückt wird.
+Und jetzt in diesen Hohlraum fließt. An den Bindeläden verbindet sich das. Das ist das Bauteil.
+Eine heiße Schmelze kühlt ab. Beim Abkühlen zieht sich immer irgendwas zusammen und das Bauteil muss nachher maßhaltig sein.
+Da muss man das genau evaluieren. Das hier unterstützt durch den sogenannten Auswerfer der Kunststoff, weil er sich verkleinert.
+Durch die Abkühlung schrumpft das Werkzeug auf und muss nachher wieder runtergedrückt werden.
+Das wird mit sogenannten Auswerfern gemacht. Das muss der Konstrukteur sich auch bedanken, wie er das macht.
+Das ist der Stoßfänger. Der wird seit Jahr und Tag aus Kunststoff gemacht.
+Der wird nachher lackiert. Der wird nicht mit der Karosserie lackiert, weil sie dann bei dem Metall im Lack einbrennen.
+Bei 180 Grad schmilzt man den Kunststoffstuhlstang weg.
+Spielmaterialien, BMW hat das glaube ich mal gemacht oder Hyundai oder sogar Porsche, wo ein Frontgrundflügel aus Kunststoff ist,
+mit einer hohen Wärmeformbeständigkeit und der Lack auch eingeprampft halten kann.
+quasi im Prozess dieses Lacktrennens mitgelaufen.
+Hier hat man den schwarzen Kunststoff, sehen Sie, das ist die Form,
+der Bauteil wird rausgenommen und im nachbescheidenen Prozess individuell braun, grün, rot, gelb lackiert.
+Wenn Sie den Kunststoff lackieren möchten, damit der aus der Form rauskommt,
+gibt es wie so einen Wachs, der legt sich an die Oberfläche von dem Kunststoff.
+Dieser Wachs, der auf der Oberfläche dieses schwarzen Kunststoffteils liegt,
+Das führt aber dazu, dass der Lack da nicht drauf haftet.
+Also muss man die Oberfläche behandeln, bevor der Lack das gebracht wird.
+Ich glaube, der hat am Schluss noch ein bisschen zurückgezogen.
+Bei der Tesla-Baustelle.
+Sie sehen, das sind massive Maschinen
+den Druck
+den Druck, den sie brauchen
+um diese Kunststoffschmelze
+in die Kapazität einzubringen
+das sind 1500 Bar vielleicht
+Sie haben 1500 Bar
+in einem Werkzeug
+über eine riesengroße Fläche
+Sie müssen das Werkzeug zusammenhalten
+Sie brauchen Hydraulikdruck
+Wir werden das mal berechnen für so eine kleine Radkappe, wenn Sie hier einen Spritzguss herstellen, zentraler Anspritzpunkt, Schmelzen fließen nach außen, so groß, so groß, Zuhaltedruck 500 Tonnen.
+500 Tonnen. Das sind 250 Fahrzeuge mit 2 Tonnen Gewicht, die quasi, wenn sie hier aufeinanderstapeln würden, dieses Werkzeug zuhalten müssen, um so eine Form herzustellen, also so ein Bauteil herzustellen.
+Wie ist es eigentlich, wenn man zum Beispiel so Kunststoff zusammenklebt, hält es dann so viel aus, als wäre es so ein ganzes Teil? Also da ist noch niemals so eine 1 zu 1 Kräftübertragung hin, oder?
+wissen sie ja wenn sie schweißen das material schmelzen machen so eine stunde schweißung
+jetzt hier zwei kunststoff bauteile zwei platten schweißen die zusammen jetzt sind das material
+an einem Heizelement,
+nehmen es weg, drücken es zusammen
+und haben dann die Schweißung.
+Diese Schweißung, die Sie dadurch erzeugen,
+hat eine Festigkeit von 1,0.
+Das ist genauso fest, wie das Grundmaterial.
+Wenn Sie einen Kleber haben,
+es gibt Klebstoffe,
+haben Sie da einen anderen Wirkungsmechanismus.
+Wenn Sie das schweißen,
+zwei Bauteile,
+dann entsteht ein sogenannter Wulst
+in dem Bereich, wo das Material sich
+verbindet
+meistens ein Doppelwulst
+der andere
+Bauteil
+so wird das Bauteil verbunden
+und das hat meistens eine Festigkeit von 100%
+und da jetzt ein Zugversuch dran machen
+die Festigkeit 1,0
+genauso fest
+als wenn es nicht gespeist ist
+es gibt natürlich auch
+Klebstoffe, wo sie das genau so machen
+Dann hängt es aber davon ab, der Klebstoff hier, das Material, jetzt deckt man hier den Klebstoff ein.
+Klebstoff ist ein anderes Material, zum Beispiel in unserem Duroplast.
+Der Duroplast, da sind jetzt Verbindungen drin, die innerhalb des Materials sind.
+normalerweise ist die Festigkeit
+im Klebstoff höher als die Festigkeit
+des Grundmaterials
+und es gibt dann noch
+das nennt man
+Kohästion
+wenn die Kräfte in ein anderes
+Material reingehen
+da drüber, da drüber, da drüber
+das ist meistens der Schwachpunkt
+das ist die sogenannte
+Adhesion
+Mit Materialien, die haben, wenn Sie Polypropylen verkleben möchten, Festigkeit, Bullen, können Sie nichts finden, können Sie vergessen.
+Das fällt Ihnen auseinander.
+Das ist eine Frage der Chemie, die Sie hier haben.
+Das pauschal zu sagen, das gibt es, das geht, ja, das gibt es, das geht.
+Und Sie können jetzt auch bei dieser Karosserie, die wird jetzt auf den Probestand gestellt und dann werden Kräfte angebracht und dann guckt man, wie verformt sich das.
+Und dann sehen Sie, die Bauteile werden nie in dem Ketstoff kaputt gehen.
+Weil die Flächen, die man da gemacht hat, so groß sind, dass die Kräfte immer sicher übertragen werden können.
+Das nennt man strukturelles Kleben.
+Es geht, dass die Festigkeit so, dass das Ganze funktioniert, aber mit einer Konjunktion.
+Und gerade bei so einem Belastungszustand, wo man dann sagt, ich mache hier, dass ich den Zug versuche,
+das ist für die Verklebung eigentlich immer ungünstig, weil eine Verklebung eigentlich immer auf Scherbo beansprucht werden sollte.
+Aber sie kriegen diese Festigkeit hin, bis zu einer sehr starken Frage vom Kleber.
+und dessen Verwandtschaft zum Grundmaterial, das verklebt werden soll.
+Also Schweißen besser bei Stahl, oder?
+Ja.
+Bei Kunststoff kleben, oder? Da muss man ja.
+Schweißen, es geht Schweißen.
+Auf der Kunststoff?
+Kunststoff, PE, PP, immer Schweißen, wird immer geschweißt.
+Es gibt Kunststoffe, die lassen sich hervorragend kleben.
+PMMA, Polycarbonat, PET, die können Sie hervorragend kleben, auch mit sehr guten Festigkeiten, hängt vom Material.
+Das Material ist im Eingesetzten kleben.
+Automobilscheiben, die Sie halten, 20, 30, 40, 50 Jahre.
+Ist es an sich besser aneinander zu kleben oder zu überlappen?
+Überlappen. Das ist ein sehr ungünstiger Lastfall dort.
+Wenn Sie da jetzt die kleinen Fehler drin haben, die Oberfläche ist ein bisschen verkippt,
+Die Verklebung sollte man immer über eine Überlaschung.
+haben, dann müssen Sie das dimensionieren.
+Hier haben Sie dann
+eine Zuspannung V
+durch A.
+Wenn Sie die Querschnittsfläche größer machen,
+A,
+die Überlappung, wird die spannen.
+Ja?
+Also das kann man dann dimensionieren.
+Hier sieht man das nochmal.
+Diese
+Kunststoffbeplankung, die wird jetzt auch
+lackiert. Bevor der Lack aufgebracht wird, das ist jetzt eine Flamme, die fährt über
+die Oberfläche. Die zerstört den Wachs, der da drauf liegt. Das ist wie so eine Creme
+in den Händen haben, die wird abgebrannt. Und dann wird die Lackhaftung besser. Lackhaftung
+untersucht man, indem man Kratzer reinmacht in die Oberfläche, Klebestreifen draufklebt
+und guckt, wie viel Prozent des Lackes kommt darunter oder nicht.
+Hier sieht man das, das sind andere Prozesse.
+Aber auch das funktioniert.
+Das heißt, ich will sagen, ich habe am Ende des Tages irgendwie eine Funktion
+als Konstrukteur, die erfüllt werden muss.
+Und BMW hatte jetzt da mal die Option zu spielen, weil sie offenbar Spielgeld hatten.
+Und haben dann gesagt, dann machen wir jetzt so, das geht aus Carbonfaser.
+Das ist die typische Art und Weise, Kfz-Felgen herzustellen.
+Links eine rotationsgewaltige Felge, der Stern im Druckbus hergestellt und das Ganze dann verschraubt.
+die Fahnen schrauben. Einfach ein Niederdruck-Kokillenbrust, Gegendruck-Kokillenbrust und hier klassisch Stahl mit einer Schweißung.
+Alles schweißend gut. Ja, das funktioniert. Da weiß man, da kann man auch Materialien einsetzen, die, ich sag mal, vom Schweißmaterial höherwertig sind als der Stahl selbst.
+Ja, und dann brauchen sie da Eigenschaften.
+Wieso sind Gusseisenfelgen so beliebt eigentlich?
+Gusseisen gibt es nicht als Felgen.
+Wie heißt das nochmal? Es gibt doch noch eine andere Art, es ist auch so krumm da, von Felgen.
+Was die heute machen ist, die Felge wird nach dem Herstellen schwarz lackiert.
+Und dann werden bestimmte Bereiche nochmal durch ein Drehen überarbeitet und dann kommt das Aluminium wieder raus.
+Das sehen Sie in den schwarz lackierten Felgen, wo teilweise dann auch das Aluminium nochmal sichtbar ist und einen schönen Riesengrün hat.
+Das wird dann durch ein Abdrehen nochmal erreicht.
+Ich weiß jetzt nicht, was Sie meinen.
+Was man mal gemacht hat, war das hier.
+Kunststofffelge.
+Ich möchte Ihnen ein kleines Filmchen zeigen.
+Das hat sich in der Praxis allerdings nicht durchgesetzt.
+Ich bin mir nicht sicher, ob sich da noch mal was getan hat und warum man die Idee jetzt am Ende des Tages nicht umgesetzt hat.
+Ah, Magnesium, Magnesiumpflege.
+Ah, ist leichter.
+Magnesium hat eine Dichte von 1,8 an 0,27.
+Es gibt auch viele bei den Motoren, BMW, also bei den Motorrädern, kleine Deckel aus Magnesium.
+Die sind sogar deutlich teurer.
+Ein Rad. Interessantes Design. Die neue Alufelge vom Smart4Vision.
+Viel besser. Der Smart4Vision bekommt das erste serientaugliche Kunststoffrad der Welt.
+Kunststoff.
+Ein Rad ist doch jeder Menge Belastung.
+Wir haben auch Tachonfahrer. Wir haben auch, ich sag mal, fast jählenmäßig hergestellt.
+oder durch die Kräfte, die beim Bremsen wirken.
+Räder werden ja nicht ohne Grund aus Stahl oder Aluminium hergestellt.
+Das ist wahr. Aber wir verwenden auch nicht irgendeinen Kunststoff.
+Der Smart4Vision bekommt Räder aus thermoplastischem Kunststoff auf Polymer-Composite-Basis.
+Ein thermoplastisches Kunststoffrad auf Poly... was?
+Auf Polymer-Composite-Basis.
+Einfacher gesagt, bekommt das Rad seine Stärke durch Millionen feinster und besonders langer Glasfasern,
+die mit dem BASF-Spezialkunststoff Ultramit getränkt sind.
+Okay, eine ähnliche Technologie kennt man ja sonst von Flugzeugteilen, Rotoren für Windkraftanlagen oder Sportbooten.
+Aber wozu der Aufwand, ein Rad aus Kunststoff herzustellen?
+Wo ist der Vorteil für den Autofahrer oder die Umwelt?
+Beide profitieren, denn das Kunststoffrad ist 30% leichter als eines aus Metall und leichter heißt weniger Verbrauch oder bei einem Elektrofahrzeug wie dem Smart4Vision mehr Reichweite.
+BASF stellt das Ultranat daraus hergestellt.
+Hier werden in so einen Extruder Glasfasern eingezogen und die Glasfaser mit dem Kunststoff gemischt.
+mit Glasfaser gemischt als Granulat her.
+So kann es in herkömmlichen Spritzgussanlagen verarbeitet werden.
+Das Kunststoffwerk, hier sieht man jetzt auch die Form,
+hier sind sogenannte Schieber angebracht.
+Die Felge als solches hat ein sogenannter,
+das ist ein wichtiger Begriff,
+eine sogenannte Hinterschneidung.
+Das ist sozusagen ein hervorstehendes Element, was Sie nicht unmittelbar entformen können.
+Wenn man sich das jetzt anschaut, hier ist der Anstützpunkt, da wird die Schmelze reingedrückt,
+da rein und hier sieht man so eine Rippenstruktur auf dieser Felge drauf.
+Die haben Sie bei der Anzelle nicht.
+Sie brauchen bei dem Kunststoff mehr Material, um die Steifigkeit zu erhöhen.
+Man hat das Blech gesehen, wie das so lapprig ist.
+Wenn es in mehrschaligen Komponenten miteinander verschweißt ist, kommt die Steifigkeit.
+Und die Karosserie wird dann nochmal steifer, weil es noch mehr Schweißpunkte gibt, wo Kräfte eingetragen werden können.
+Und hier macht man das über so eine Rippenstruktur, um diese Felge steifer zu machen.
+Die sieht man nachher nochmal.
+Und das sind sogenannte Schieber im Werkzeug.
+Das macht das Werkzeug sehr, sehr teuer, weil die müssen auch zugehalten werden, wenn der Druck im Werkzeug sehr hoch ist.
+Da ist eine sehr große Hydraulik dahinter und das kostet sehr, sehr viel Geld.
+Und das Besondere an diesem Spritzgussprozess ist, dass beide Teile in der Spritzgussmaschine hergestellt werden.
+Der große Vorteil des Kunststoffes ist, dass die Spritzgussmaschine nicht so viel Druck hat.
+Da sehen Sie die Wettbewerber, die Wettbewerber sind baufrei, das ist eine andere Konstruktion,
+die muss andere Ausbau besitzen, weil es ein anderer Werkstoff ist.
+Mit dem neuen Konzept, das uns von der Treibung gewiegt, das Hauptpotenzial,
+aber auch, was vielleicht wenige bekannt ist, das Rechtsverhalten von Kunststoffreinigung ist ein ganz anderes.
+Hat nicht funktioniert, ist in der Praxis nicht gekommen, ich kann Ihnen nicht sagen am Ende warum.
+Irgendwann hat vielleicht irgendjemand von Daimler gesagt, ich will da keinen Kunststoffbauteil haben.
+Sie sehen insbesondere bei Motorradanwendungen immer mehr Kunststoffe sind da gekommen und am Ende des Tages, ich habe hier so ein paar Ziele der Produktion, die betriebswirtschaftlicher Art sind, mit denen man immer zu kämpfen hat.
+Das ist ein Bild, das auch bei der BWL-Vorlesung drin ist, respektive bei der Konstruktion.
+Kosten fallen an durch die Wahl des Konzeptes, werden determiniert, teilen aber in der Serienfertigung dann an.
+Hier gibt es noch ein paar Folien, finde ich nicht alles so spannend.
+Wenn Sie in der Produktion sind, haben Sie eine bestimmte Ausrichtung.
+sind Sie auf Masse und Stückzahl ausgerichtet, dann ist Ihre Variabilität sehr gering.
+Aber Sie haben eine hohe Produktivität.
+Und je nachdem, wie Sie die Firma aufstellen, entscheiden Sie sich,
+da unten Werkstattfertigung sozusagen, CNC-Einzelmaschine, auf der Sie alles machen können,
+wo die Produktivität aber niedrig ist.
+Das sind so Zwänge, die man hat, wo man entweder eine Werkstattfertigung hat mit relativ niedriger Produktivität oder durch hohen Durchsatz charakterisiert ist, dass die Maschine, so eine Transferstraße, hat eine hohe Produktivität, aber ihre Varianz der Teile ist sehr gering.
+Das sind so klassische Anforderungen, über die wir da so ein bisschen reingehen.
+Bestimmte Prozesse bedingen eine bestimmte Stückzahl.
+Das ist die Tür vom Bagger.
+Ich habe mal gesagt, Blech tiefziehen, die Werkzeuge und Bleche tiefzuziehen und die
+Transferstraßen sind sehr teuer. Dazu brauchen sie eine bestimmte Stückzahl. Diese Stückzahl
+werden bei den Baggern von Liebherr nicht erreicht. Die nehmen Kunststoff, hier sieht
+man das, der Kunststoff da oben, eine Folie, die wird tief gezogen, die wird mit einem
+anderen Kunststoff hinterscheunt und damit wird dieses Bauteil hergestellt, die Baggertür.
+Nicht, weil man Leichtbau machen will, sondern weil der Prozess zur Herstellung für das
+Produkt kostengünstiger ist als eine Transferstraße. Hier ist ein Bauteil, da habe ich seinerzeit
+in der Entwicklung mitgewirkt, das ist ein Kunststoffbauteil, das hier hergestellt wird.
+Das sind Platten, die werden explodiert, die werden anschließend tiefgezogen in diese
+Kontur hinein und dann sind verschäumt. Das ist eine andere Herstellungstechnologie,
+Die klassische Blechfertigung ist aber für die Stückzahl, 2000 Fahrzeuge wurden damals gebaut,
+wo man immer noch auf Bauteilkosten betrachtet, kostengünstiger als diese teuren Bleche, diese Blechtiefziehwerkzeuge.
+So hat jede Fertigungstechnologie ihre Insel, wo sie eine Berechtigung hat.
+Wenn jetzt die Stückzahl hier größer wird, wird man wahrscheinlich auch eine andere Technologie wiedergeben.
+Ja, und so greifen Technologien in Fertigungsprozesse ein und es besteht immer eine Wechselwirkung.
+Was ist der effizienteste Prozess, der dann am Ende des Tages gewählt wird?
+Noch Fragen?
+In der Schneidung, das ist ein hervorragendes Element,
+die so drob heißt, in alle Richtungen gleiche Eigenschaften,
+das sind alles die Gründe, die uns immer wieder begegnen werden, gefallen werden,
+und da gehen wir dann jetzt mit diesem Wachsen.
+Dann danke ich für die Aufmerksamkeit und die Fragen.
+Und wünsche ein schönes Wochenende.

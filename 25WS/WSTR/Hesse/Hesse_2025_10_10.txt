@@ -1,0 +1,1708 @@
+Heute mit Sturmungs-Technik.
+Ich vermute, ganz überwiegend waren Sie auch am Montag mit dabei.
+Falls nicht der Fall und Sie ganz grundlegende Fragen noch haben zum Ablauf des Kurzes,
+oder Sie waren dabei am Montag und sind aber vielleicht dann doch nochmal im Nachgang über irgendwas gestolpert,
+können wir gerne jetzt gleich am Anfang nochmal drauf eingehen.
+Oder Sie kommen einfach in der Pause dann mit her.
+Also bitte gerne melden, wenn Fragen offen sind.
+Wir haben ja den Moodle-Kurs auch.
+Ich hoffe, alle sind drin.
+Oder hat irgendjemand Schwierigkeiten?
+Nein?
+Ohne den Moodle-Kurs ist es wirklich unangenehm, glaube ich.
+Weil es sind dann doch sehr, sehr viele Folien.
+Und ich sehe auch schon fast alle vergingen.
+Wahrscheinlich sind alle.
+Alle haben so ein digitales Endgerät, mit dem man auch ein bisschen mitschreiben kann.
+Das wird dann heute auch ein bisschen näher der Fall sein.
+in der Zukunft auch relevant sein.
+Die Folien
+von heute sollten Sie eigentlich in dem
+Moodle-Kurs finden, hoffentlich.
+Ich habe gestern Abend nochmal eine V2
+abgelegt, hat aber keine
+große Änderung gegenüber der
+Vorversion.
+Und vielleicht nochmal der Hinweis
+an der Stelle, wir haben eben dieses
+Forum, was Sie bitte gerne
+nutzen dürfen. Im Moment ist es noch
+ich sag mal unsortiert.
+Ich habe es selbst
+einmal reingepostet.
+Ich weiß nicht, ob es bei Ihnen angekommen ist.
+Ja, die eine oder andere.
+Nicht, falls es nicht der Fall ist, schauen Sie mal nach, da kann man diese Abonnement-Einstellungen individuell wählen.
+Also wenn Sie sagen, das geht Ihnen auf den Keks, Sie wollen ja nicht so viele E-Mails erhalten, dann kann man das alles abstellen.
+Andersrum ist es wahrscheinlich ganz geschickt, am Anfang bei so einem Kurs erstmal anzustellen, sodass man mitkriegt, wenn da was ist.
+Das wäre die Möglichkeit, halt auch administrative Sachen, aber auch inhaltliche Sachen zu klären.
+ich würde auch über dieses Forum
+Bescheid geben, falls
+wieder erwartend irgendwann mein Termin
+verlegt werden muss, kurzfristig oder
+irgend sowas, also bitte
+bevor Sie sich ins Auto setzen oder in die Bahn
+und herfahren, schauen Sie einmal ganz kurz
+entweder haben Sie es abonniert
+dann sollte es bei Ihnen eh durchkommen
+aber schauen Sie, dass Sie nicht irgendwie hierher fahren
+und dann denken, oh Gott, jetzt ist die
+irgendwie veranstaltend nicht so wie
+geplant und wie gewünscht
+aber, also in den vergangenen Jahren
+musste, toll, toll, toll
+keine einzige Veranstaltung aus, weil wir uns nur einfach mal fragen, dass sie informiert sind.
+Gut, also heute ist Strömungstechnik dran, eines von diesen drei Fächern.
+Wir haben letztes Mal Thermodynamik gemacht, um nur einen ganz kurzen Einstieg mit so Definitionen,
+allgemeinen Begriffen.
+Ich habe da eben für das Allgemeine nochmal eine Frage.
+Also platziere ich quasi jede Stunde dann um einen spezifischen Bereich?
+Ja, so ist die Idee, genau.
+Wenn Sie reingucken in Moodle, dann müsste ich jetzt hier wieder rumklickern,
+Ich glaube, ich mache es jetzt mal nicht oder vielleicht lege ich es in der Pause nochmal auf.
+Es sollte mittlerweile eigentlich auch am Anfang so ein Job sein, Übersichttermine oder sowas.
+Im ersten Reiter oder so im Moodle.
+Und da ist aus einem Excel-Album rauskopiert, so ein bisschen farbig hinterlegt, welches Fach ist dran, in welcher Woche oder zu welcher Stunde.
+Heute wird es Strömungstechnik sein.
+am Montag machen wir Wärmeübertragung
+dann haben wir alle einmal
+ganz kurz gesehen
+und es rolliert dann auch immer wieder so durch
+das hat auch einen gewissen Sinn
+weil die drei Fächer, wie ich am Anfang dargestellt habe
+so ein Stück weit verwoben sind
+und es macht also nicht Sinn
+jetzt zu sagen, hey wir machen erst
+die ganze Thermodynamik, dann die ganze Strömungstechnik
+dann die ganze Wärmeübertragung
+sondern es hilft Ihnen, Sie werden sehen
+wir werden uns irgendwann über
+Turbulenz in Strömungen unterhalten
+ja hier irgendwas, was ums Fahrzeug rumgeht
+wie es da in dem Bildchen ist
+und dann kommt in der
+das machen wir hier in der Strömungspflege
+und dann kommt in der Wärmeübertragung
+ah, wie könnte da Wärme übertragen werden, wenn die Strömung so oder anders ist
+deswegen baut es sich immer
+aber das ist dann quasi immer in sich geschlossen
+das war, wie wir heute kommen
+da knüpfen wir dann quasi am 20. wieder an
+so wird es wohl sein
+ich habe jetzt das Datum nicht auswendig
+aber genau, das was wir heute machen, ruht dann
+für eine Woche oder sowas
+und dann geht es wieder weiter
+alles klar, ja?
+genau
+so dass wir in jedem fach etwa sieben bis neun mal uns zusammen kommen der herr hat
+ich wird ab dem freitag nächste woche jetzt in einer woche dann statt meiner hier stehen
+und die thermodynamik durchziehen und ich habe die aufgabe eben die werbeübertragung
+die gut aber wie gesagt bitte immer gerne fragen stellen dafür kommen sie extra in den raum sonst
+können sie sich das auch im nachgang irgendwie online einziehen oder einfach nur zu lesen auch
+mit fachbüchern wäre schon schön wenn wir im raum sachen besprechen können genau also nochmal auch
+Auch hier gilt, bevor ich da jetzt anfange, das, was ich da mache, beruht viel auf Materialien von Vorgängern von mir,
+beziehungsweise von Kollegen von mir, die früher, in dem Sinne Vorgänger, diesen Kurs auch mal gearbeitet haben.
+Das ist eine Batterie, die schon recht alt und lang gewachsen ist.
+Bei der Stürmungstechnik auch noch mal ein kurzer Hinweis zu Literatur, die jetzt nur die Stürmungstechnik betrifft.
+Ich hatte letztes Mal schon vorneweg gesagt, Sie müssen diese Literatur nicht in Ihr Regal stellen,
+damit Sie die Klausur bestehen können.
+Also das gilt weiterhin.
+Aber bei der Führungstechnik ist es etwas merkwürdig.
+Es gibt so welche Online-Bücher, so wie man das so kennt,
+ein Wärmeatlas, da stehen ganz viele Formeln und Dinge drin.
+Gerade den brauchen Sie meiner Meinung nach nicht,
+weil die wichtigen Formeln daraus habe ich Ihnen übertragen, diese Formelsammlung.
+Vielleicht hat eine oder ein mehr von Ihnen ganz fleißig die schon ausgedrückt.
+Nein, sieht nicht so aus.
+Aber nochmal der Hinweis, im Moment ist es auch noch nicht dramatisch,
+aber bis zur ersten Übungs-, Zentralübungsstunde, das ist so in, ich kann es nicht genau sagen,
+aber wahrscheinlich etwa in drei Wochen, der Fall, der ist geschickt, Sie drucken sich das Ding aus,
+weil dann sind Sie einfach gut vorbereitet und können sehen,
+ah ja, das Zeug muss ich auswendig lernen oder das steht hier ja schon drauf.
+Und das, wo ich sage auswendig lernen, müssen Sie vielleicht auch gar nicht alles lernen,
+sondern Sie können es auf Ihren Spickzettel schreiben.
+Sie dürfen ja Spickzettel nicht bringen zur Klosterung.
+So, also das brauchen Sie leider nicht unbedingt.
+Da gibt es so ein paar ganz nette Bilder und ein bisschen einen anderen Einstieg.
+Aber dieses hier, dieses gelbe Buch, hat eine gewisse Relevanz und eine gewisse Eigenart,
+weil der Verlag hat sich wohl geweigert, das als digitalen Abdruck für Hochschulen zur Verfügung zu stellen.
+Das ist sehr unangenehm, aber so ist es nun mal, kann ich auch nichts daran ändern.
+Da drin findet man, das ist so ein bisschen die Bibel aus der Stoßtechnik,
+findet man so ziemlich alles, was ich mit Ihnen behandeln werde, nochmal mit mehr Detailgrad.
+Also wenn Sie das Gefühl haben, irgendwie geht mir das zu schnell oder es fehlen mir die Zusammenhänge, wenn der Herr Hesse das macht, dann ist das ein gutes Ding.
+Das gibt es bei uns in der Bibliothek.
+Und falls Sie sich so stark interessiert sind an den Kurs und wirklich viele Leute das ausleihen und irgendwann jemand in der Bibliothek sagt, das gibt es nicht mehr, es sind alle vergriffen,
+dann melden Sie sich hier bei mir, dann werde ich mich darum kümmern, dass davon mehr in der Bibliothek eingeschafft werden.
+In den vergangenen Jahren hat es aber eigentlich immer gepasst, ich habe hier 15 Exemplare.
+Und wenn Sie mal in der Pause wollen, würden Sie da gerne mal reinblättern, dann sehen Sie schon, warum ich das sage,
+weil es hat einen ziemlich ähnlichen Charakter.
+So weit, so gut mit der Literatur.
+Es ist aber auch möglich, die Versuchung zu bestehen, auch ohne dieses Buch, wie gesagt, wenn Sie hier dabei sind und mitmachen.
+Lässt sich das, glaube ich, ganz gut.
+Wir werden uns befassen in der Strömungstechnik mit ein paar Themen, leider müssen wir auch
+hier wieder einigermaßen zäh uns mit einigen Grundbegriffen erstmal anfreunden, Viskosität
+ist eigentlich so mehr oder weniger das zentrale Thema, was uns beschäftigen wird in der nächsten
+wahrscheinlich halben, dreiviertel Stunde, und dann damit ein paar Grundlagen schaffen.
+Ich werde Ihnen aber auch ein Video mit einspielen, hoffentlich funktioniert es, was, finde ich,
+das sehr gut nochmal auf den Punkt bringt. Wie schon an anderer Stelle erwähnt, sind
+diese Lehrvideos überwiegend auf Englisch, aber ich glaube, bei dem ist es auch mit deutschen
+Untertiteln versehen, wir werden sehen. Dann gibt es ein Kapitel über ruhende Fluide,
+Da geht es um die Hydrostatik und die Aerostatik, da werden wir heute vermutlich noch anfangen.
+Ich will da jetzt gar nicht zu viel zu sagen, nur, naja, wie der Name sagt, da steht die Flüssigkeit oder das Gas,
+wer hat den letzten Mal schon in der Thermodynamik kennengelernt, das Fluid, der Überbegriff ist für Flüssiges und Gasflüssiges, richtig?
+Und dann gibt es das, was den gesamten Rest eigentlich ausmacht, nämlich irgendwas mit Strömung.
+Irgendwas bewegt sich. Das ist eigentlich auch das, was man sich bei Strömungstechnik vorstellt.
+Also das davor ist ein beschissenes Vorstil.
+Aber natürlich ist das auch insbesondere ein Verständniswagen, sehr wohl relevant für die Prüfung
+und sehr wohl auch eine wichtige Grundlage, um den Rest zu verstehen.
+Prömung, da geht es also darum, dass dann sich irgendwas bewegt, relativ häufig in irgendwelchen Rohren,
+sei es jetzt die Klimaanlage des Autos, über die wir letztes Mal als Beispiel gesprochen hatten,
+oder in irgendwelchen Rohren von einem Pumpsystem, einer Schneekanone, wie es mal in einer Klausur dran kam,
+oder einer Rutsche, wo irgendwie Flüssigkeit mit auf oder runter oder lang gepumpt werden.
+Da habe ich auch schon ein Schlagwort mitgebracht, was hier mit einer Rolle spielt.
+Sie sehen also, das ist alles sehr stark verboten, wenn es um Strömung geht, müssen wir Arbeitsglieder hinzufügen.
+Dann haben wir aber auch Reibungseffekte und so weiter. Das wird uns da alles beschäftigen.
+baut, muss ich sagen,
+finde ich, relativ gut aufeinander
+auf, ist für sich auch
+einfach,
+wenn man einmal hier diese Essenz verstanden
+hat, da steckt da drinnen die Penui-Gleichung,
+werden wir dann ausführlich machen,
+dann
+lässt sich da auch irgendwann mal
+ein Haken dran setzen und man sagt, okay, diese
+klassischen Aufgaben, die man da bauen kann,
+die können Sie dann auch.
+Und
+es ist ja auch nicht mein Ziel und nicht
+mein Anspruch, Sie mit dem maximal
+meine kompliziertesten Aufgaben zu konfrontieren, sondern ich will das im Standard-Report wahr verstehen.
+Wir haben nicht den Anspruch, dass Sie als Wirtschaftsingenieurinnen und Ingenieure
+hinterher strömungstechnische Expertinnen und Experten werden, aber Sie sollen die Grundlage.
+Und am Schluss wird es wahrscheinlich noch ein Stück in die Windkraftanlagen reingehen,
+die das Ganze übertragen sind. Hier geht es ziemlich viel um Flüssigkeiten, also Wasser normalerweise.
+Normalerweise. Und hier geht es dann um das Ganze in Luft.
+Natürlich auch sehr relevant und ähnliche Themen.
+Soweit mal zu dem, was wir vorhaben.
+Wir haben also fünf bis sechs Themen und wir waren sieben Stunden.
+Wir waren also jedes Mal so, ja, irgendwie nicht ganz ein vollständiges Team.
+Innerhalb dieser Grundbegriffe, das werde ich jetzt nicht alles vorlesen,
+gibt es also ein bisschen eine Untergliederung, die schauen wir uns dann gleich aktiv an und legen los.
+Bevor wir das tun, möchte ich Ihnen noch mal so ein bisschen Sie ranführen, warum ist das Thema irgendwie auch,
+hat eine Berührungsfläche zu manchen, was im praktischen Leben ist.
+Ich will jetzt nicht sagen, bestimmt Ihr tägliches Leben, weil ich glaube nicht, dass die reden und jeder von Ihnen Golf spielt.
+Ich zumindest bin kein großer Golfspieler, aber nichtsdestotrotz, wer hat denn vorhin schon mal Golf gespielt?
+Mal so, als ich die Lage nachher gesehen habe.
+Er gehört zur Minderheit, in Amerika ist es, glaube ich, ein ziemlich großer Sport,
+aber Sie kennen alle den Golfball, oder?
+Also, der hat so komische Dellen außen drauf.
+Und sonst ist er rund.
+Und jetzt die Frage an Sie, warum hat der Golfball Dellen?
+Ja, ich habe mal so ein Video gesehen, da haben sie ein Test gemacht, ein Golfer ohne
+Bällen.
+Und soweit ich weiß, ist der gar nicht geflogen.
+Oder war das kein Rockett?
+Der ist ein bisschen geflogen, aber nicht so weit.
+Ja, filmen wir.
+Schauen wir uns das an.
+Ich habe auch so ein Video dabei.
+Ich hoffe, es ist nicht das gleiche.
+Ich glaube aber nicht.
+Ich glaube, dass ich drei Minuten einspiele, aber es ist vielleicht ganz nett, das mal
+anzugucken.
+anzugucken, was können wir dabei sein.
+Und ich frage noch vorneweg,
+wie viel weiter fliegt denn ein Golfball
+mit Bällen als einer ohne Bällen?
+Was würden Sie denken?
+Ich frage Sie auch mal.
+Ich glaube, ich
+bin da so
+70 bis 80 Prozent
+70 bis 80 Prozent
+dazu gewonnen.
+Interessant, wenn wir uns sehen,
+da kommt ein Statement zu,
+Mal gucken, ob das funktioniert.
+Schauen Sie sich das mal an.
+golfball so unique is not just in small shape but hundreds of small impressions
+or dimples on its surface steve quinta volla is an engineer in the equipment
+standards department at the united states golf association he says dimples
+are crucial to a golf balls flight a golf ball has dimples to reduce wind
+resistance or aerodynamic drag when you reduce it you can make golf balls go a
+lot farther
+Early Golfers using smooth golf balls realized that the more they used a ball, the farther it would go.
+The reason for that they quickly discovered was that the surface gets scuffed and knocked about.
+They started figuring out, hey, we're going to put round impressions, round dimples in.
+As a golf ball flies through the air, the airflow interacts with the surface of the ball and can greatly affect the amount of drag.
+The wind is meeting the surface here and pushing against it and then wrapping around.
+If the golf ball were smooth, the air flowing closest to the surface of the ball would follow the flow of air around it, creating a detached airflow behind the ball.
+As air flows around the smooth golf ball, it becomes detached.
+The air that's closest to the surface doesn't want to stick to the surface.
+It wants to stick to the fast moving flow.
+The detached flow causes a weight to form behind the ball, which creates a low pressure zone.
+This zone is what causes drag.
+And that's almost like a vacuum. That's sucking the ball back and slowing it down in the face of the wind.
+Adding dimples to the ball changes how the air flows over it.
+As the air travels over one of the dimples, a tiny pocket of turbulence or air disturbance is created on the surface.
+Es versucht, in eine Region zu gehen, in der es tatsächlich entdeckt ist, aber dann, je nachdem, wann man das nächste Dämpel in der Balle bekommt, verabschiedet es sich wieder.
+Und im Prozess dieses Entdeckungs-Verabschiedungs-Verabschiedungs, ist das, was die Turbulenz erzeugt.
+Anstatt den Fluss der Balle zu verhindern, können diese kleinen Knochen der Turbulenzen eine näherere Länge des Luftes ermöglichen, um tiefer um sie herum zu reisen.
+weil diese Dämpfer eine niedrige Turbulenz verursachen.
+Sie misst den hohen Geschwindigkeitsfluss von außen her und bringt ihn nahe an den Ball,
+damit dieser Fluss an den Ball gehalten werden kann.
+Ein mehr gehaltener Fluss erzeugt einen kleineren Fluss und deshalb eine kleinere Löffelzone,
+was weniger Drammen bedeutet.
+Selbst dieser kleine Veränderung kann einen großen Unterschied machen.
+Ein Golfball mit Dämpfern geht fast zweimal so weit wie ein Golfball ohne.
+Die Dämpfer helfen auch dem Ballfliegen, indem sie den Lift beeinflussen, als der Ball durch die Luft fliegt.
+Der Lift ist ein Ergebnis eines Konzepts in der Aerodynamik, das als Prinzip von Bernoulli genannt wird.
+Der Prinzip sagt, dass, wenn die Geschwindigkeit des Luftfliegers erhöht wird,
+die Druck des Luftfliegers auf dem Ball reduziert wird, um den Lift zu erzeugen.
+Der Lift wird durch die Dämpfer auf dem Ball genutzt, die nur 15 Hundertstel von einem Millimeter messen.
+Okay, ich würde jetzt nicht mehr zu weit ins Detail gehen, aber wunderbar, Sie hatten es genau richtig gesagt,
+also diese Oberflächestrukturen an den Wellen, die verändern was an den Flugeigenschaften
+und es kam ein Video, der kann bis zu zweimal so weit fliegen, das war ziemlich exakt das, was Sie gesagt haben.
+Die Prozesse, die dahinter stehen und was da passiert, wurden so ein bisschen angerissen mit ein paar Schlagworten,
+unter anderem kam später Benoist Prinzip oder Benoist Gleichung als Gedanke, damit werden wir uns sehr wohl befassen,
+als aber auch, was vorher schon kam, diese turbulente Strömung, dieses Rein-und-Raus-Bewegen von einem Luftstrom,
+der entweder nah an der Oberfläche verweilt oder aber abreißt in der Strömung
+und dahinter irgendwelche Gegen- oder Unterdruckzonen, niedrige Druckzonen erzeugt
+und das eben sehr, sehr stark diesen Flugeigenschaften des Balls beeinflusst.
+Und ich finde das Video in dem Sinne ganz schön, dass es so ein bisschen einfach aus einem mehr oder weniger praktischen Leben getrennt ist.
+Also irgendeine Anwendung, es gibt übrigens auch sehr wohl andere Anwendungen,
+wie die Leute, die jetzt nicht Golf spielen, vielleicht der eine oder andere hat schon mal geht schwimmen
+oder schaut sich irgendwelche Rennen vor Radfahrern an oder irgendwelche Dinge.
+Und gerade in dem gesamten Sportbereich hat das eine massiv große Bedeutung heutzutage.
+Sie wissen sicherlich auch, dass bei Olympia verschiedene Schwimmanzüge erlaubt oder nicht erlaubt sind.
+Und die haben verschiedene Oberflächeneigenschaften und da geht es immer um Strömungstechnik.
+Oder bei den Radfahrern ist es heutzutage so, dass die in ihren Trikots hier in den Armen,
+die die größte Auflagefläche oder die größte Widerstandsfläche bringen, auch genau solche Strukturen haben.
+Vielleicht hat sich der eine oder andere schon mal gefragt, warum die so alle so durchpunktet und durchlöcherte Strukturen haben.
+In verschiedenen Materialien. Es liegt nicht nur daran, dass das Material dann besonders steif oder gut ist in der Verarbeitung,
+sondern sehr wohl auch, dass die Aerodynamik dann anders ist und dass man damit eine ganze Menge rauskitzeln kann.
+Ich finde es deswegen schön, weil man über diese Sportarten so ein bisschen sieht,
+dass die Störungstechnik nicht nur in Rohren stattfindet und in irgendwelchen Klimaanlagen,
+die vielleicht der ein oder andere von Ihnen später nicht im Detail auslegen und betreiben und optimieren muss in seinem beruflichen Feld,
+Aber es ist doch ganz nett, wenn man so ein bisschen versteht, was dahinter steckt und am Ende der Vorlesung sollten Sie hoffentlich alle so ein Stück weit erklären können, warum das so ist und im Prinzip auch ein Stück weit rechnen können, wie viel weiter kann so ein Ball fliegen.
+Das ist so ein bisschen so das Go von dieser Stunde.
+Noch ein anderes Beispiel, ganz kurz eingerissen, ganz andere Domäne, aber man sieht, dass es eben auch sehr, sehr große finanzielle Auswirkungen hat, das ganze Thema Strömungstechnik.
+Hier sehen wir einen Flieger beim Abheben bzw. beim Steigflug, beim Ansteigen der Bewegung und der kreuzt da gerade so eine Wolkenschicht und man sieht sehr deutlich hier so eine merkwürdige Verwirbelung, die sogenannte Wirbelschleppe von Flugzeugen.
+Und das hat eine riesige Bedeutung, weil im Endeffekt ist dieses Verwirbeln hinter dem Flugzeug dafür verantwortlich, dass an großen Flughäfen nur in bestimmten Reihenfolgen Flieger starten oder landen dürfen, weil solange die Wunft so verwirbelt ist und das nächste Flugzeug wieder reinfliegt, haben sie vielleicht eine risikoreiche Situation, extreme Turbulenz und können das Flugzeug nicht mehr manövrieren.
+Das heißt, man hat dann so Abstandszeiten, das kennen Sie wahrscheinlich alle,
+diejenigen, die schon mal geflogen sind, dass man am Rollfeld steht und dann heißt es,
+ja, nee, die Landebahn ist noch nicht freigegeben oder die Startbahn.
+Zum einen, ja, da ist kein Metallteil runtergefallen und nichts abgebrochen vom Flieger,
+aber mindestens ebenso wichtig, da ist die Luft wieder klar und kann wieder geflogen werden.
+Und man baut heutzutage, unter anderem deswegen, aber auch, damit man mit weniger Treibstoff fliegen kann,
+sogenannte Vortexer auf die Flügel obendrauf, die die Strömungseigenschaften verändern
+und die solche Wirbelschleppen verringern, damit wir eine größere Menge an Start- und Landungen zulassen,
+aber auch die Treibstoffverbrauch vom Flieger deutlich reduzieren können, bis zu 20%, wenn ich richtig hinter mir bin.
+Also es hat einfach was zu bedeuten, diese ganze Thematik der Strömung.
+ein anderes Beispiel hatten wir vorher noch gesehen
+das war das mit diesem Video mit den Surfern
+das will ich aber jetzt nicht noch mal
+durchspielen, nur ganz kurz
+was ist es da, da gibt es einen sogenannten
+Wechselsprung, da ist hier laminare
+Strömung und dann wird hier
+sich eine Turbulenz ausbreiten
+können und in
+diesem Übergang der Strömungsform
+da
+entsteht eine sehr große
+Dissipation von Energie und die führt unter anderem
+dazu, dass hier eine
+Welle auftritt. Also hier ist ja nichts
+drunter, was jetzt diese Welle
+nach oben drückt.
+Das Bild ist nochmal mitgebracht.
+Sie haben es wahrscheinlich alle letztes
+Mal am Montag gesehen.
+Diese Eisbachwelle, da ist nichts
+anderes als ein abfallender
+Profilkante
+unten
+in der Schirmungsform.
+Und obwohl hier nichts nach oben
+herausragt, bildet sich hier diese
+Welle, diese stehende Welle, die ja durchaus
+eine
+gehörige Kraftwirkung auch erzeugen kann, jetzt einen Kajak-Karer oder einen Surfer oder was auch immer dort trägt.
+Und diese Effekte schauen wir uns alle an. Das ist wieder eine andere Detailanwendung von Benoist.
+Und man sieht auch, dass auch das wieder eine technische Bedeutung hat.
+Und zwar hier unter anderem in einem Forschungsinstitut, ich glaube in der Schweiz, die da führend sind.
+und dass wirklich aus den letzten fünf bis zehn Jahren ganz wichtige Erkenntnisse neu gewonnen wurden.
+Denn die Strömungstechnik ist nicht leicht, man sieht schon ziemlich viele Pfeilchen da drin.
+Und hier geht es darum, dass man unter anderem richtige Konstruktionen baut für Hochwasserereignisse.
+Das ist, wie Sie alle wissen, im Sinne des Klimawandels immer mehr eine große Bedeutung,
+dass man, wenn man Flussläufe irgendwie begradigt anschaut, verändern will oder muss,
+dass man sich darüber Gedanken macht, was passiert denn, wenn hier irgendwelches Hochwasser oben drüber schwacht,
+was wird denn da das Hinterland, wie weit wird das dann affektiv?
+Also Sie sehen, es hat viele, viele Bedeutungen und da kommen noch einige mehr für Fahrzeuge,
+umspürbungen, für irgendwelche Rohrleitungen, für irgendwelche Industriebetriebe und für die Windkraftanlagen.
+Und jetzt reicht es aber auch mit diesem Einleitungsteil.
+Ich hoffe, Sie haben alle so ein bisschen mitgeschnitten, dass es für viele Bereiche wichtig ist.
+Ich möchte mit Ihnen nochmal ganz kurz rekapitulieren von letzter Woche,
+oder von letzter Stunde, vom Montag, welche Aggregatszustände kennen Sie.
+Aggregatszustände ist ein Synonym für Phasen.
+Und ich schreibe einfach mal ganz recht.
+Sie tippen gerade nach einem Handy, aber ich fax sie trotzdem.
+Ganz genau, drei Phasen.
+So, es gäbe noch Suprafluid, spielt aber für uns in der technischen Anwendung, die wir machen, keine Rolle.
+Mit Temperaturen unterhalb von 2 Kelvin arbeiten.
+Also für uns fest, flüssig, gasförmig.
+und in der Dürrmung Stainingbücher
+fassen wir uns natürlich wieder mit diesen Fluiden,
+die flüssig oder gasförmig sind.
+Und wenn wir jetzt da kurz reinschauen,
+dann kennen Sie solche Diagramme hoffentlich
+ein Stück auch schon von Ihrem Musikunterricht,
+aber vielleicht auch das noch mal zu kurz wiederholen.
+Hier ist die Temperatur dargestellt,
+hier ist der Druck dargestellt,
+solche Diagramme gibt es auch mit einer Darstellung,
+wo irgendwo das Volumen an einer Achse aufgeführt wird.
+Passen Sie auf, die PVT-Diagramme werden uns alle beschäftigen,
+aber hier also Druck gegen Temperatur.
+Und was sehen wir da?
+Die Eigenschaften von Wasser in dem Fall.
+Und die Frage an Sie, wie könnten wir jetzt richtig zuordnen,
+fest, flüssig und gasförmig?
+Ich frage nochmal Sie, wo würden Sie was hinschreiben wollen?
+Fest wird einen hohen Druck haben.
+Fest hat einen hohen Druck? Aha, okay.
+Also das ist ein Mittelbringer von mir.
+Okay.
+Also hohe Drücke gibt es genau hier da oben hin, irgendwie dieses Sachen.
+Das könnte entweder das oder das sein.
+Okay, gute Überlegung. Was könnten Sie sich noch überlegen?
+Dann gasförmig würde ich unten rechts sitzen.
+Das schlage ich schon mal hin.
+Ja?
+So.
+Die anderen werden aber schon hingeklärt sein.
+Hier ist fest und hier ist flüssig. Warum? Können wir uns gleich noch ein bisschen anschauen.
+und zwar ist es so, dass wenn wir bei unseren, ich sag mal, normalen Bedingungen in den Temperaturbereichen,
+in denen wir uns am meisten aufhalten, zwischen 0 Grad und 100 Grad unterwegs sind,
+Dann kennen wir entsprechend Wasser im Bereich Flüssig oder wenn wir unter die Nullgradgrenze gehen, dann wird es fest.
+Hier sehen Sie den Übergang von Flüssig nach Fest.
+Wenn Sie bei Standardbedingungen, bei 1 Bar halten wir das fest.
+Und da gehen Sie unter die Nullgrad und dann kommen Sie rüber in die feste Phase.
+Hier kommen Sie in die Flüssigphase, das ist der Übergang, den wir kennen, im Kühlschrank, im Eiswürfel.
+im Eisfach, und wenn ich hier über die 100 Grad Gänse gehe, dann komme ich hier in die gasförmige Phase.
+Machen wir gleich mit an der Stelle die sechs Begriffe der Phasenwechsel.
+Ein bisschen, was hatte ich gerade schon angesprochen, wer möchte mir sagen, wie die beiden Fachbegriffe hier heißen?
+Zwischen flüssig und gasförmig.
+Also von flüssig in gasförmig ist es verdampfen, von gasförmig zu flüssig ist es kondensieren.
+Ja, genau. Wollen Sie gleich weiter machen?
+Ja. Von fest in flüssig ist es schmelzen und von flüssig in fest erstarren.
+und jetzt kommen noch diese zwei
+weniger häufig genutzten hier unten
+nur der Vollständigkeit
+nehmen wir sie auch noch mit
+also es gibt durchaus Einschachten
+wenn der Druck sehr niedrig ist
+bei Wasser
+also wenn wir
+Eiswürf
+nur extrem
+niedrigen Druck
+Bedingungen
+vorliegen haben, dann wird es
+gar nicht flüssig, sondern geht direkt von
+der Eisfestphase
+in die Gasphase
+über. Und das nennt sich
+Sublimieren.
+Und das hier heißt
+Resublimieren.
+So, diese
+Learning an der Folie ist,
+Sie müssen auch zuhören, weil meine
+Anschrift ist nicht so richtig.
+Ich gebe es zu. Aber wenn Sie etwas nicht lesen
+können, dann sagen Sie bitte Bescheid.
+Ich gehe davon aus, dass es eingewachsen
+okay ist, solange Sie sich nicht melden.
+Und Sie hoffentlich
+gut zuhören.
+Das sind so einfache Verständnisfragen
+und ich hoffe,
+Sie können das mitnotieren.
+Konnten das schon mitnotieren?
+Ich mache dann irgendwann weiter,
+wenn ich das Gefühl habe, es passt.
+Aber auch da bitte bremsen Sie mich, wenn ich zu schnell bin.
+Und nochmal der Gedanke, warum mache ich diese Lückentextgeschichten?
+Ja, solche Sachen, auch wenn das jetzt ein bisschen banal wäre,
+aber durchaus Informationen, die wir da notieren, sind im Sinne von einfachen Prüfungsfragen auch gut passend
+und werden sicherlich eine Rolle spielen.
+Jetzt habe ich darüber geschmiert, aber Flüssigkeiten und Gase sind ein verschiedener Art der Gaszustände, das wissen wir und wir werden uns ganz viel mit den zwei Sachen beschäftigen.
+In der Thermodynamik sprechen wir dann noch relativ häufig von Dampf und der Dampf ist nichts anderes als ein Teilbereich, in dem aufgrund von Verdunstungsprozessen sowohl flüssige als auch gasförmige Teilchen des gleichen Stoffs vorliegen können.
+Da gibt es also noch ein bisschen mehr Informationen, die ich Ihnen noch vorenthalte, die kommt dann im Laufe der Vorlesung noch dazu.
+Dann haben wir zwei Definitionen, das ist einmal die Dichte, jeder von Ihnen kennt sie aus der Physik, Masse pro Volumen.
+Und da geht es in der Einheit darum, dass wir dieses Rho als Zeichen, die digitale Schrift zeigt es so, wie es da ist.
+Mein Roh sieht etwa so aus, nur dass es sich nochmal in Erinnerung rufen, also das ist das Roh, die Dichte Kilogramm pro Kubikmeter, es ist festgelegt, dass die Dichte von Wasser, so ist das, ein Kilogramm Wasser ist ein Kubikdezimeter oder ein Gramm, ein Kubikzentimeter und ein Kubikmeter Wasser wiegt eine Tonne.
+Und jetzt können wir uns hier nochmal anschauen, ganz kurz, wie das so ist, auf einer, Achtung, logarithmischen Skala,
+das heißt, das sind immer Zehnerpotenzen, hier nach oben, Dinge, die hier sind, sind tausendmal mehr als Dinge, die hier unten sind.
+Und was sehen Sie hier unten, sind Dinge in blauer Schrift, das sind gasförmige Stoffe, also Luft oder Wasserdampf oder Helium.
+Die haben alle Dichten im Bereich von etwa 1 Kilogramm pro Kubikmeter oder noch niedriger.
+Und dann haben wir hier Dinge, die in Rot dargestellt sind.
+Die sind flüssig und die haben im Bereich von etwa 1000 Kilogramm pro Kubikmeter mit Wasser als Eichgröße.
+Und wir sehen also, dass da ein gewaltiger Unterschied besteht zwischen den beiden.
+Und das führt auch dazu, dass die Eigenschaften von Wasser ganz anders sind als die von Luft.
+Nichtsdestotrotz können wir beide gleichzeitig in der Strömungstechnik behandeln.
+Es gibt übrigens noch den Kehrwert.
+Das ist das spezifische Volumen.
+ist nichts anderes als ein Rho ist 1 durch, nein, ein µ ist 1 durch Rho, stimmt auch nicht, tut mir leid,
+spezifisches Volumen, kleines V, man muss wirklich aufpassen, die Zeichen stehen so nah beieinander,
+also das ist nichts anderes als ein kleines V, später in der Vorlesung werden wir uns noch mit dem µ befassen,
+Das ist die Dichte, oder hat bestimmte kinematische Viskositätseigenschaften.
+Das hier ist das spezifische Volumen und das Rho ist die Dichte.
+Also kleines V, 1 durch Rho, Volumen pro Masse, genau der Kehrwert von dem Rho.
+Nur so, dass es mitnehmen und genutzt werden kann.
+Kommt vor allem in der Thermodynamik sehr viel.
+Jetzt noch ein anderer Teilaspekt, wenn wir über Gase sprechen, also ein Gasezustand gasförmig,
+dann müssen wir uns noch mit einer Eigenschaft auseinandersetzen, das ist die Kompressibilität.
+Wasser, wie Sie wissen, wenn ich Wasser in eine Luftpumpe reinpacken würde oder Wasser in einen Zylinder habe,
+später kommt ein Beispiel, eine Hebebühne, da ist jetzt wahrscheinlich mehr Öl als Wasser drin, aber sei es drum,
+und ich drücke auf der einen Seite auf der Hebebühne drauf, dann schiebt sich auf der anderen Seite was hoch,
+das Wasser drückt sich nicht so stark zusammen, wenn ich meine Luftpumpe mitnehme und Luft drin habe und die zusammendrücke und zuhalte,
+dann kann ich das ja wohl zusammenrücken, ist halt kompressibel.
+Und in dem Kontext der Kompressibilität ist eine wichtige Eigenschaft,
+wie schnell kann sich denn eigentlich Bewegung innerhalb von einem Medium in dem Gas fortbewegen.
+Und die kurze Frage an Sie, wer weiß, was die Schallgeschwindigkeit von Luft in etwa ist.
+Wie schnell bewegen sich die Teilchen in Luft und können Stöße weitergeben?
+Fragt mal Sie am Fenster.
+und dann Einheit
+Meter pro Sekunde
+nicht Kilometer pro Stunde, sind also 1200
+Kilometer pro Stunde
+und ganz genau, also das heißt
+unsere Flugzeuge fliegen alle in
+Unterschallgeschwindigkeit
+ja, Unterschallgeschwindigkeit
+aber irgendwelche Schnellflugzeuge
+können die Schallmauer durchbrechen, haben wir alle schon mal
+gehört, es ist
+aber so, als Daumenregel
+und das, wenn wir
+uns mit Geschwindigkeiten
+bewegen, U in dem Fall
+als Zeichen, Achtung, werden wir in Zukunft
+auch hier viel mehr bekommen,
+kleines V steht bei uns jetzt für spezifische
+Volumen und U für
+Geschwindigkeiten.
+U gegenüber der Schallgeschwindigkeit
+ist nicht sein, das heißt die Machtzahl
+und wenn die Machtzahl 1 ist, dann durchbrechen
+wir gerade die Schallmauer bei 1200 kmh.
+Wenn wir uns hier befassen
+in der Stimmungstechnik mit
+mit Wachzahlen im Bereich unter 0,15, dann sind wir also in Geschwindigkeiten, die wir aus dem technischen Leben kennen,
+mit bis, sind das dann vielleicht 150, 200, vielleicht 250 kmh, da passt das noch, was wir alles machen werden in der Vorlesung.
+Das, was ich hier in Rot geschrieben habe, was Flugzeuge betrifft oder vielleicht auch Schnellzüge oder sonstige Dinge,
+Denn was oberhalb von Machzahl 0,1 ist, das können wir mit den Methoden, die wir hier lernen, noch nicht passend berechnen.
+Also für uns bleiben wir in dem Bereich. Und was ist in diesem Bereich, wenn diese Geschwindigkeiten eher moderat sind?
+Dann gilt Luft als inkompressibel. Das ist sehr praktisch für uns, weil dann ist es so ähnlich, wie wenn ich Luft, Wasser hätte und andersrum.
+und ich kann die gleichen Gesetzmäßigkeiten aufstellen.
+Also das sollte man im Hintergrund behalten für die Vorlesung, für uns nur relevant.
+Strömungen, die deutlich kleiner als die Schallgeschwindigkeit sind
+und damit auch diese Inkompressibilität passend ist.
+Und damit möchte ich gleich direkt in eine Tabelle kommen,
+die immer wieder in der Klausur auch gefragt wird.
+Und zwar deswegen, weil sie einfach so ein Stück die Grundlage bildet und zeigt,
+wo ist die Anwendungsbereiche der Strömungstechnik und was haben die Sachen für Eigenschaften.
+Ich wollte die hier ein bisschen notieren. Das, was wir gerade gesehen haben, fange ich einfach mal an mit der Kompressibilität. Das ist hier inkompressibel. Und hier ist es kompressibel.
+Jetzt habe ich Sie ein bisschen, verwirre ich Sie wahrscheinlich, weil vorhin wahrscheinlich meine Ausführung nur etwas unvollständig war.
+Achtung, was hier steht, ist, wenn es ruht, also das ist der Fall in der Luftpumpe, da kann ich die Luft durchaus zusammendrücken.
+Und wenn ich da Flüssigkeit reintue, kriege ich die nicht zusammengedrückt.
+Wenn ich aber mich bewege in meinem Fahrzeug, dann habe ich gerade hingeschrieben auf der letzten Folie und mit ihm erarbeitet, ändert sich bei den Flüssigkeiten nichts.
+Und bei den Gasen ist es so, dass ich je nachdem entweder inkompressibel bin,
+das hilft mir sehr, wenn ich die Strömung berechnen will,
+bei Machzahl kleiner 0,15
+und kompressibel bei Marktzahlen deutlich größer, 0,15.
+Wir müssen uns diese genauen Zahlenwert und Marktzahlen nicht anschauen.
+Für uns wichtig ist, dass in unserem Vorlesungsbereich das hier gilt.
+Und es ist doch etwas gewöhnungsbedürftig, dass bei den Gasen,
+Wenn wir ruhen, kompressibel ist. Wenn wir uns bewegen, mit moderaten Geschwindigkeiten, inkompressibel.
+Soweit dazu. Wir haben noch weitere Eigenschaften, die wir uns angucken müssen.
+Volumen- und Oberflächeneffekte.
+Was passiert, wenn wir ein Glas Wasser vollfüllen bis zum Rand und noch ein paar Tropfen obendrauf?
+Bündelt sich oberflächlich an.
+tropft noch nicht raus. Oder was passiert, wenn ich Flüssigkeiten auf den Boden heruntertropfen lasse,
+wie man ja schon so sagt, dann bilden sich da so Flüssigkeitsperlen und die oberflächlichen Spannungen.
+bestimmt das tägliche Leben, die sind tropfbar, die Flüssigkeiten.
+Wohingegen Gase das nicht tun, die füllen Räume komplett aus, sie sind nicht tropfbar.
+So viel Schreibarbeit wie auf der Folie gibt es zum Glück eher selten.
+Ich erlaube Ihnen auch, wenn Sie nicht mich fotografieren und ich mich gerade nicht hier vor der Folie stehe,
+Sie können auch Ihr Handy nehmen und es fotografieren, wenn Sie das Gefühl haben, das ist mir jetzt gerade zu blöd, das gleichzeitig mitzuschreiben.
+Oder Sie kommen nicht so schnell mit, dann ist es mir auch recht.
+Minimalen Druck. Wir haben auf der vorigen Folie was gesehen mit diesem Triplediagramm da.
+Ich male das hier nochmal so hin, ganz banal, mit diesen Phasen.
+Wir haben hier oben flüssig reingeschrieben, bitte malen Sie das hier oben nicht ab.
+Das mache ich nur, um jetzt ganz kurz was zu erklären.
+flüssig. Wenn wir da oben sehen, flüssig, da unten gibt es so einen Endpunkt, wo die flüssige
+Phase aufhört und wo hier entweder fest steht oder hier gasförmig steht. Und wenn ich weit
+genug nach unten gehe, dann gibt es kein Flüssig mehr. Das heißt, minimaler Druck ist der sogenannte
+Dampfdruck, das ist ein, je nach Temperatur und Druckbedingungen, ein spezifischer Wert.
+Und das gilt es zu beachten, wir werden später Dinge sehen wie Kavitation, ein Fachwort,
+was bei Pumpen eine Rolle spielt.
+Und da ist es so, dass Probleme auftreten, weil unter bestimmten Beschleunigungsbedingungen oder Arbeitsbedingungen von der Pumpe
+wird die Flüssigkeit, die meistens mit der Pumpe transportiert werden soll, plötzlich gasförmig.
+Und dann haben wir ein Riesenproblem.
+Riesenproblem, weil, werden wir noch sehen.
+Wir schauen uns in einer Stunde, wenn Sie möchten, in einer Mini-Exkursion hier drüben in unserem Strömungstechnik-Labor mal die Sachen an
+und dann sehen Sie mal eine Schaufel, die aus Kavitation gesehen hat, das ist kaputt.
+Da geht ordentlich was an Material kaputt, wenn Sie unter den Dampfdruck mit Flüssigkeiten gehen, in so einem Strömungssystem.
+Deswegen spielt das für uns eine Rolle.
+Hier gibt es das nicht. Der minimale Druck ist null, das heißt die Gase, die werden sich nicht noch weiter verändern, wenn ich jetzt den Druck weiter reduziere.
+Andersrum, wenn ich bei einem Gas den Druck erhöhe, kann es durchaus sein, dass es halt flüssig wird.
+Die Dichte von den beiden hatte ich auch schon angesprochen, wenn man eigentlich über beide Felder hinwegschaut.
+Die Dichte von Flüssigkeiten ist viel größer als die Dichte von Gasen und der Faktor ist ungefähr 1000.
+Das ist jetzt mehr ein Daumenwert, kommt natürlich auch die genaue Flüssigkeit darauf an.
+Wenn Sie Quecksilber haben, ist es noch höher, weil Quecksilber eine besonders schwere Flüssigkeit ist.
+Bei bestimmten anderen Gasen ist die Zahlwerte ein bisschen höher.
+Die Wärmeleitfähigkeit wird mit diesem schönen Lambda beschrieben und die Wärmeleitfähigkeit schauen wir uns ab Montag an.
+Wir werden aber ganz schnell lernen, dass die Wärmeleitfähigkeit von Flüssigkeiten viel größer und viel besser ist als die Wärmeleitfähigkeit von Gasen.
+Und ich denke, das deckt sich mit Ihrer Einschätzung, dass wenn Sie bei 20 Grad Außentemperatur in der Luft spazieren gehen,
+dass sich das in Ordnung anfühlt und dass Sie das viele Stunden machen können.
+Und wenn Sie bei 20 Grad ins Schwimmbad gehen, ist das aufgabtangenehm.
+Oder nehmen wir lieber mal 15 Grad, als Beispiel.
+15 Grad Außentemperatur passt schon, 15 Grad Wassertemperatur passt nicht so lang.
+weil sie massiv auskühlt, weil die Wärmeleitfähigkeit hoch ist, weil ihnen die Wärme entzogen wird, wenn sie im Wasser sind.
+Okay, soweit so gut. Ich lasse das noch kurz stehen, trinke einen Schluck Wasser.
+Und ich würde anpeilen, heute auf etwa 10 Uhr hin eine Pause zu machen von 15 Minuten, so wie gewohnt, wie beim letzten Mal.
+Und wenn Sie das Gefühl haben, es muss vorher bitte Pause sein, dann sagen Sie es mir.
+Und was wollt ihr noch sagen?
+Genau, das ist gleich noch wichtig.
+Da unten steht 50 und Sie fallen gleich in Ohnmacht und denken sich jetzt wirklich noch so viele Fröten heute.
+Keine Sorge, wir müssen die nicht alle abspielen.
+Ich habe bewusst ein paar mehr da drin.
+Wir werden irgendwann Schluss fahren und dann komme ich nächstes Mal wieder und wir machen da weiter, wo wir aufgehört haben.
+Ich versuche auch eine kurze Zusammenfassung zu geben, nächste Stunde in ein kurzes Rekapitulieren, weil Sie hatten richtig gefragt, die Damen mit dem roten Wandel, Sie hatten gefragt, wie machen wir denn das, wenn wir da jetzt irgendwie Strömungstechnik heute machen und dann machen wir das erst wieder in 10 Tagen oder was, dann haben Sie wahrscheinlich alle ein Stück weit vergessen, was da letztes Mal war, deswegen versuche ich es Ihnen dann schon abzuholen, dass Sie ein bisschen wieder reinkommen.
+So, also das habe ich hier bewusst irgendwie so hingeschrieben, das soll in die Mitte gehen und ich hoffe, jeder hat so grob mitgeschrieben, was er oder sie wollte, ansonsten machen Sie ein Foto.
+Gut, dann geht es weiter. Wir haben jetzt Fluid-Zeichen, also kann Gas oder Flüssigkeit sein, nehmen wir mal für unser Gedankenexperiment vielleicht eher eine Flüssigkeit,
+Da ist es, glaube ich, in der Vorstellung ein bisschen leichter.
+Da dieses Zeichen hier, was so aussieht wie so ein Ziel, Fadenkreuz,
+wird genutzt, um anzuzeigen, da ist der Schwerpunkt.
+Und was wirkt am Schwerpunkt eines Teilchens?
+Egal, ob es ein fester Zeichen ist, mit dem Sie sich bisher in der Physik befasst haben,
+oder eben Flüssigkeiten, was wir jetzt hier machen, oder auch Gase,
+Da wirkt eine Kraft, die geht nach unten und die heißt Schwerkraft, oder?
+Die kennen wir alle und das ist das, was uns betreffen wird.
+Außer heute in einer Beispielaufgabe wird die Schwerkraft immer eine so dominante, so wichtige Rolle spielen,
+dass wir sie, nein das stimmt nicht, aber überwiegend dürfen wir sie nicht vernachlässigen.
+Es gibt nur wenige Aufgaben, in denen wir sie vernachlässigen.
+Wir haben noch zwei weitere Kräfte, das eine ist die sogenannte Normalkraft.
+Das ist jetzt vielleicht ein bisschen merkwürdig, was da in dem blauen Pfeil dargestellt ist.
+Das soll heißen, dass wenn ich jetzt hier ein anderes Flüssigkeitsteilchen drauf stelle
+und das Ganze in einem Gehäuse mache, also sagen wir mal, das ist ein Gefäß
+und da habe ich jetzt 100 ml Wasser drin und ich schütte nochmal 100 ml Wasser drauf.
+Was passiert? Das Volumen wird etwa doppelt so groß.
+Und das bedeutet nichts anderes, als dass da irgendeine Kraft wirkt,
+sodass das Flüssigkeit nicht zusammengequetscht wird und die Dichte immer höher wird,
+sondern es gibt eben einen sogenannten Druck und mit dem werden wir uns ganz viel befassen müssen.
+Der Druck wird dann mit klein p bezeichnet und diese Druck- oder Druckkräfte,
+in dem Fall geht es um Kraft, könnte man auch Druckkraft schreiben, mache ich vielleicht lieber.
+Entschuldigung, ich lösche da nochmal.
+die spielt sehr, sehr starke Rolle in den nächsten Folien wieder und für den gesamten Rest der Folge.
+Es gibt noch eine Sache, das sind die sogenannten Scherkräfte.
+Wenn ich zwei Flüssigkeitsteilchen aufeinander und die hin und her schiebe, dann geht es nicht vollkommen frei.
+Ein Beispiel, wo wir das vielleicht so ein bisschen kennen, ist, kommt gleich,
+Wir haben da unten die Iller und da fließt das Wasser durch.
+Und da, vielleicht am allertransparentesten jetzt im Herbst, fallen die Blätter rauf.
+In der Mitte fallen die Blätter rein und strömen schnell nach unten.
+Wenn ich auf der Brücke stehe, sehe ich, die schwimmen da schnell vorbei.
+Und ganz am Rand schwimmen die Blätter eher nicht, sondern bleiben da stehen, wo sie sind.
+Und dieser Effekt ist nichts anderes als das, dass wir durch irgendeine Art von Kanal am Rande irgendwie Haftbedingungen haben
+Und die Sachen sich eher langsam bewegen
+Und ich versuche hier so Pfeile zu skizzieren
+Und in der Mitte geht es gewaltig schnell und hier geht es wieder langsamer
+Das deckt sich ganz gut mit unserer Anschauung, wenn wir die Irla von oben angucken, von der Rückerutter
+Dann, dieser Effekt ist nichts anderes, als dass hier irgendeine Art von Kraftweben wirken muss, ansonsten würde das so funktionieren und alle Pfeile gleich lang sein.
+Das kann man zwar manchmal in einer Berechnung machen, das nennt sich Opfenstimmung, werden wir noch dazu kommen, das ist aber in der Realität ziemlich schlecht anwendbar.
+Und das hat extrem viel mit dem Thema Reibung zu tun. Und das ganze Reibungsthema hat was zu tun mit der Viskosität, mit der Zähigkeit. Bei verschiedenen Medien ist das unterschiedlich ausgeprägt.
+Wenn ich da Öl nehme, ist das noch viel heftiger, als wenn ich jetzt Wasser nehme. Und wenn ich da jetzt ein Gas habe, nehmen wir das jetzt mal als Rohr, und da schieße ich Luft durch, dann ist das viel weniger ausgeprägt.
+Also das ist der ganze Effekt der Scherkräfte und der hat was zu tun mit der Reibung und die Reibung wiederum hat, also hier schreibe ich vielleicht mal noch einen Link zu dem Druck und hier schreibe ich mal einen Link zu dem Thema der Viskosität.
+Und die Viskosität wird mit einem Äther bezeichnet.
+Das Äther ist nichts anderes als ein weiterer griechischer Buchstabe,
+mit dem wir uns noch auseinandersetzen müssen.
+Und da steht jetzt sonst, glaube ich, nicht mehr so viel drinnen.
+Viskosität, Reibungskräfte.
+Genau. So weit, so gut.
+Sie haben das alles mitschreiben können?
+Ja, passt.
+Dann gehe ich weiter und schaue mir das mit Ihnen an.
+Da gibt es den Art und Gesetz, der hintersteckt.
+Und die erarbeiten wir ganz zügig mal so in einem Bildchen,
+was jetzt aus dem Fachbuch Bohl entstand.
+Und Achtung, unangenehmerweise macht das Fachbuch Bohl überall,
+wo Geschwindigkeiten sind, kleine Ws.
+Das tun wir nicht.
+Wir nehmen U.
+und
+hier können wir auch
+US schreiben, weil es geht darum
+in dem Falle, dass hier eine Platte
+dargestellt ist, die hat die Nummer 2
+und hier eine Platte, die hat die Nummer 1
+und die eine ist auf der Z-Ebene
+auf 0 und die andere
+auf der Z-Ebene, da wo
+die Länge S ist.
+Ist nichts anderes, als wenn ich jetzt in meinem Bild
+hier
+eine Platte malen würde,
+das wäre die Platte 2,
+wenn ich das richtig sehe, und hier die Platte 1.
+Und diese eine Platte, diese hier, bewege ich jetzt meinetwegen nach unten oder nach oben.
+Und was passiert? Schauen Sie lieber auf das Bild, ist vielleicht ein bisschen besser.
+Ich wollte es nur nochmal den Bezug geben.
+Da müssen Sie eine Kraft aufwenden, wenn Sie hier oben, also am Anfang ruht die Flüssigkeit da drin,
+da ist Wasser, das Blaue, und jetzt ziehen Sie da oben die obere Platte und wenn die nur weit genug weg ist,
+dann brauchen Sie nicht besonders viel Kraft, aber wenn die ganz nah dran ist, dann brauchen Sie viel Kraft.
+Was haben wir noch für Eigenschaften für diese Kraft, die da oben wirkt und die Sie betrifft?
+Das nämlich, dass, ich glaube da kommt noch was aufgeblendet, jetzt muss ich kurz gucken, ja, F ist proportional zu,
+Die Kraft, die ich da aufwenden muss, damit ich da oben ziehen kann, die wird immer größer, wenn die Flächen größer sind.
+Ich glaube, das können Sie mir gut glauben, dass wenn ich nur halb so viel Fläche auseinanderziehen muss, dann haben wir nur halb so viel Kraft, proportional zu dem.
+Wir haben noch einen Effekt, den habe ich gerade genannt, nämlich, dass es reziprok, also umgekehrt proportional ist, zu der A, K und Z.
+Wenn die Platten ganz nah beieinander sind, dann kleben die fast aneinander.
+Dann wird es ganz schwierig.
+Wenn die Platten weit auseinander sind, dann kann ich die ziemlich unabhängig voneinander bewegen.
+Zu deutlich, der Fluss in der Mitte hat eine ziemlich unabhängige Strömungsgeschwindigkeit von dem, wie die Strömungsgeschwindigkeit hier ganz am Rand ist.
+Eigentlich kein Einfluss.
+Hier ist praktisch Null und hier ist ziemlich schnell.
+Wenn ich das aber hier mache, dann haben die aufeinander einen Einfluss.
+dann habe ich sozusagen einen Mitnahmeeffekt
+und es reibt aneinander
+und das ist nichts anderes als dieses Gesetz
+und da kommt noch mit rein
+die Geschwindigkeit, mit der ich hier arbeite
+in dem Fall kann man hier ein U S nehmen
+dann ist es das F an der Stelle S
+oder ich kann das Ganze übertragen
+in eine Gleichung
+und die ist nichts anderes als F ist
+Und dieses Proportionalitätszeichen, was da links gemalt ist, schreit fast danach, eine neue Größe einzuführen.
+Das ist dieses Eta, was ich schon vorhin verwendet habe, und das ist nichts anderes als die Viskosität.
+Das heißt, ich habe hier jetzt das sogenannte Newton'sche Gesetz für die Fluidreibung aufgestellt.
+Und dieses Newton'sche Gesetz der Fluidreibung beschäftigt uns ganz massiv in der Firmungstechnik.
+Jetzt wollen wir mal gucken, ich glaube, das ist sogar hier auch als nummerierte Formel mit drinnen.
+so ist es, das ist die Formel S1.1
+und ich versuche das Recht Konsequenz, kann aber sein, dass ich es ab und zu mal auch übersehe,
+aber Sie sehen, also dieses Gesetz müssen Sie jetzt nicht auswendig lernen,
+sondern Sie dürfen mir auch was sagen, wenn Sie nichts sehen.
+Besser, oder?
+Da muss ich mich ein bisschen mehr drücken, aber wir finden einen Kompromiss.
+Die Formel, wie gesagt, es geht nicht darum, dass Sie maximal Formeln auswendig lernen bei mir,
+es geht darum, dass Sie ein bisschen verstehen, ja was hat das hier auf sich und warum funktionieren
+die Dinge. Und genau, also die Formel, wenn Sie jetzt dann Ihre Formelsammlung mitbringen in den
+nächsten Stunden, dann finden Sie das wieder. Was gibt es da noch? Da gibt es noch so eine Größe,
+die zum Glück, sage ich Ihnen gleich, weniger häufig bei mir benutzt wird und gebraucht wird.
+Das ist dieses Tau, das ist der Schubspannungsvektor, der hat nämlich auch noch eine Richtung später.
+Und die Schubspannung ist nichts anderes als die Kraft durch die Fläche.
+Und wenn ich das anwende, dann sehe ich hier das Tau in der Formel noch eine Größe weniger hat.
+Das ist dann Eta mal U durch Z.
+ok und ich blende da noch was ein warum werde ich das ein weil ich vermutlich entweder ganz
+kurz vor der pause oder kurz nach der pause ihnen noch mal ein video zeigen werden ein
+bisschen längere videoschnipse und da sind die genau diese sachen erklärt noch mal auch mit dem
+was ich da gesagt habe, noch ein bisschen detaillierter und mit wirklich strömenden
+Videoeigenschaften, mit dem Zeitverlauf des Bildes. Und Sie sehen, hier wird auch mit einem U gearbeitet,
+das ist die Geschwindigkeit, hier wird mit einem Y gearbeitet, statt mit einem Z. Bitte gewöhnen Sie sich daran,
+leider ist es so, immer wieder sind die Bezugskurven anders, aber hier geht es um ein Y,
+sondern was nichts anderes sein soll, als irgendeine Koordinate, die hier nach oben geht.
+Und da gibt es auch ein Tau, und das ist unschön, der amerikanische Sprachbereich nutzt andere Buchstaben.
+Wir nutzen im Deutschen dieses Eta, und das ist das Symbol für dieses My, was die Arzt nutzt.
+Entsprechend dort bitte nicht zu sehr verwirren lassen.
+Nichtsdestotrotz, wir haben diese Definition gezeigt, über die dynamische Viskosität,
+also, zugegeben, ich habe sie nicht gezeigt, aber Sie haben ja gerade eben diese Formel gesehen,
+mit dem hier dazugezauberten Zeichen, und wenn Sie das umstellen und die ganzen Dinge von hier darüber bringen,
+dann kommt genau das raus, was hier steht.
+Das ist nämlich das Eta, definiert ist als die Kraft pro Fläche, mal, und das ist jetzt als Differenzial dargestellt,
+Diese kleinen b's heißen nichts anderes als ein ganz kleines Stückchen in die entsprechende Richtung.
+Mit jedem kleinen Stückchen z mehr die Veränderung der Geschwindigkeit.
+Ich denke aber, das sollte Ihnen aus Mathematik oder Physik passend bekannt sein.
+Die Einheit von diesem Eta ist noch ganz wichtig.
+Die sollten wir uns vielleicht nochmal von Null weg erarbeiten.
+Geben Sie mir eine Sekunde, dass ich mich vertreibe und vertue.
+Also Kraft ist nichts anderes als Newton pro Quadratmeter.
+Dann haben wir dort, nein, ja, ja, warten Sie, bin ich jetzt, so, Newton als Kraft, Fläche als Quadratmeter, so muss ich es richtig sagen.
+Jetzt haben wir noch ein dz, also eine Länge, das ist in Metern, und du, das ist eine Geschwindigkeit, das sind Meter pro Sekunde.
+So muss das richtig sein.
+Und wie Sie alle wissen, ist ein Newton ein Kilogramm mal Meter durch Sekundenquadrat.
+das ist als bekannt und dann wenn ich das einsätze da kommt hieraus kilogramm je meter
+mal sekunde ist ein bisschen schwierig in der klassischen vorstellung und die viskosität als
+Solches ist auch wirklich eine Eigenschaft, die sich nicht immer so angenehm einfach in das tägliche Leben übertragen lässt
+oder wo man sich nicht immer leicht tut nachzuvollziehen, was genau hier vorgeht.
+Nichtsdestotrotz, hohe Viskosität heißt zäh, bewegt sich schlecht oder hat starke Reibungseffekte zueinander
+und niedrige Viskosität, da können sich die Teilchen frei bewegen.
+Kinematische Viskosität brauchen wir nur selten, aber sie wird ab und zu gebraucht.
+Und Achtung, jetzt ist der Schriftsatz auch vom Formeleditor von Word oder dem PowerPoint hier relativ unangenehm.
+Dieses hier ist nicht das kleine V, die spezifische Viskosität, sondern es ist das Nü.
+Wenn Sie ganz genau hinschauen, dann sehen Sie, dass das ganz bisschen anders gekrümmt ist hier.
+Das sieht aber aus wie ein V, ist es aber nicht.
+Das nennt sich Nü und ist Eta durch Rho.
+Das ist auch kein P, sondern ein Rho.
+Also Nü ist Eta durch Rho.
+Ich schreibe es einfach nochmal mit meiner Schrift daneben, dann erkennen Sie das vielleicht wieder.
+Das ist ein durchaus unangenehmer Effekt, glaube ich, für viele von Ihnen,
+die jetzt wahrscheinlich noch nicht so häufig mit dem ganzen griechischen Alphabet konfrontiert wurden
+und dann die Mischung mit meiner nicht so tollen Schrift und dem gleichzeitig auch noch den lateinischen Buchstaben macht es nicht einfach.
+Die Einheit von dem µ ist dann nichts anderes als das, was wir oben gesehen haben, Kilogramm pro Meter mal Sekunde und dann wird es noch geteilt durch die Dichte, das ist nichts anderes als Kilogramm je Kubikmeter und das kommt dann raus, so etwas wie Meter Quadrat pro Sekunde, Achtung, nicht Sekunde pro Meter Quadrat, das wäre eine Beschleunigung,
+aber es ist ein bisschen ähnlich wie in der Beschleunigung, hat aber die Quadrierung auf der anderen Seite
+und hat auch eine andere Bedeutung, die, wenn ich gleich so nenne, dynamischen Viskositätswerte,
+mit denen arbeiten wir sehr viel, sagt, wie zäh ist das Material,
+die kinematische Viskosität hat mehr mit den Fließeigenschaften zu tun,
+Über die kinematische Viskosität kann man sehr schnell Umschläge extrapolieren zwischen Laminar und Turbulent.
+Dazu kommen wir später.
+Methoden zur Messung der Viskosität, wenn ich jetzt irgendeine Flüssigkeit habe,
+entweder Öl oder Wasser oder auch ein anderes Fluid, auch meinetwegen einfach Luft als Gas,
+dann kann ich die messen, die Viskosität, indem ich da was reinstecke,
+wenn wir etwas Rundes oder Dreieckiges oder Plattes, das spielt eigentlich keine Rolle,
+muss man sich nur die unterschiedlichen Definitionen angucken von den entsprechenden Körperumströmungen
+und dann kann ich das drehen in der Mitte und gucken, wie viel Kraft muss ich aufwenden,
+um welche Geschwindigkeit zu erreichen.
+Wenn das Zeug hier außenrum, das Grau hinterlegte, eine niedrige Viskosität hat,
+dann brauche ich wenig Kraft, um das schnell zu drehen.
+Wenn es eine hohe Viskosität hat, brauche ich viel Kraft, oder?
+Damit kann ich es einfach messen.
+Es gibt noch eine Eigenschaft, die werden Sie im Video gleich sehen, dass die Viskosität sich verändert, je nachdem wie hoch die Temperatur ist.
+Und es ist so, dass Flüssigkeiten bei hoher Temperatur immer niedrigere Viskosität bekommen, wohingegen Gase und Dämpfe eine steigende Viskosität haben.
+Warum, sehen wir im Video und besprechen wir sicherlich dann im Detail nach der Pause.
+Jetzt ist die Frage, ob wir an der Stelle, würde ich fast vorschlagen, uns das Video anschauen und dann in die Pause gehen.
+Und danach fasse ich zusammen, was im Video war.
+Das ist irgendwas zwischen 5 und 10 Minuten, ein bisschen länger.
+Mal gucken, ob es funktioniert.
+Und Öl ist mehr viskos als Wasser.
+Viskose Fluide fühlen dicker und fließen nicht so einfach.
+Aber da es so ein fundamentales Parameter ist, das die Bewegung der Fluide definiert,
+ist es wert, ein mehr in-depthes Verständnis der Viskosität zu entwickeln.
+Um das zu tun, fangen wir an, Fluide über einer flachen Oberfläche anzusehen.
+Es ist manchmal nützlich, Fluide zu denken, als fließende Läufe,
+mit jeder Läufe in einer anderen Velocität zu bewegen.
+When two layers are moving relative to one another, because they are flowing at different velocities, a shear stress develops between them.
+This is similar to how a frictional force develops between two solid objects sliding relative to one another.
+The effect of this shear stress is most obvious in flow close to a wall.
+The wall imparts a large shear stress onto the fluid particles that are in contact with it, causing them to have zero velocity.
+This is called the no-slip condition.
+The large shear stress is transmitted through to adjacent layers of flow,
+slowing down flow close to the wall and resulting in a velocity profile that looks like this.
+The magnitude of the shear stress acting between the layers of the fluid
+is closely linked to the slope of the velocity profile, du over dy,
+where u is the fluid velocity and y is the distance from the wall.
+The slope is small in the free stream
+The fluid layers are moving at almost exactly the same velocity
+and so the shear stress will also be very small
+But close to the wall, the velocity changes very suddenly
+In this region, the slope is large
+and so the shear stress is also large
+For most fluids, the relationship between the shear stress
+and the slope of the velocity profile is linear
+and the constant of proportionality is what we call fluid viscosity
+In Engineering it's usually denoted using the Greek letter mu.
+We can think of viscosity as the internal friction of a fluid in motion.
+It means that it's smoothing out differences in velocity by increasing the shear stresses in proportion with the velocity gradient.
+We can express the linear relationship using this equation.
+This is called Newton's Law of Viscosity, and fluids that obey it are said to be Newtonian.
+It describes how easily a fluid will flow.
+The viscosity mu is sometimes called the dynamic viscosity,
+as this differentiates it from the kinematic viscosity,
+which is the dynamic viscosity divided by the fluid density.
+Let's look at how a small fluid element like this one will deform as it flows.
+If du over dy is positive, the upper surface will move faster than the lower surface,
+and so over a time period, delta t,
+the upper surface will travel further by a distance equal to delta u times delta t.
+This generates a shear strength that we can calculate using trigonometry and the small angle approximation.
+By rearranging, we can see that the slope of the velocity profile is equivalent to the rate at which the shear strain is applied.
+So now we can write Newton's Law of Viscosity in a different form, like this.
+This looks a lot like Hoek's Law for Shear that we see in solids,
+except instead of being a function of the strain,
+the shear stress is a function of the rate at which the strain is applied.
+This makes sense if we consider how solids and fluids respond to applied shear forces.
+Solids respond to a constantly applied shear force with a finite amount of deformation,
+whereas fluids respond by deforming continuously.
+They flow for as long as the shear force is applied.
+This is why for fluids the shear stress is a function of the rate at which strain changes over time,
+instead of being a function of the shear strain itself, like it is for solids.
+Wenn wir eine kurze Dimensionen-Analysen auf Newton's Law of Viscosity machen,
+können wir sehen, dass die dynamische Viscosity Units von passenden Sekunden hat.
+Und die kinematische Viscosity hat Units von Metern Quadrat pro Sekunde.
+Die Poise und Stokes sind andere Units für die dynamische und kinematische Viscosity,
+obwohl sie oft als Senti-Poise und Senti-Stokes ausgesprochen werden.
+The centipoise unit is particularly convenient, because at room temperature, the viscosity of water is equal to 1 centipoise.
+Typical engine oil at room temperature has a viscosity of around 500 centipoise, so it's 500 times more viscous than water.
+The viscosity of honey is 10,000 centipoise.
+And if we keep going, we get to fluids that are so viscous, they appear to be solid.
+Pitch is a thick, tar-like fluid.
+Trierpitsch.
+Auf der anderen Seite des Spektrums haben wir Gase, die generell eine viel niedrigere Viskosität haben als Liquid.
+Die Luft hat eine Viskosität von 0,018 Centipoise bei Raumtemperatur, zum Beispiel.
+Eine sehr interessante Substanz ist Helium-4, der gemeinsame Isotope von Helium.
+Ein Gas unter normalen Bedingungen wird ein Liquid, wenn er bis unter 4 Kelvin kühlt.
+Und bei diesen niedrigen Temperaturen haben Forscher herausgefunden, dass es sich verhalten kann, als hätte es keine Viskosität.
+Substanzen, die in dieser Weise verhalten sind, sind superfluid genannt.
+Wir wissen also, wie man Viskoste definieren kann, aber was macht es tatsächlich auf dem molekülerischen Niveau?
+In Lippen wird Viskoste durch intermolekulare kohesive Kräfte verursacht, die Lager der Fluide miteinander verbinden.
+Ja, Wasserstoffbrückenbindung oder Van der Waals.
+The viscosity of water, for example, reduces from 1 centipoise at 20 degrees Celsius to
+0.5 centipoise at 50 degrees Celsius.
+But temperature has the opposite effect in gases.
+Viscosity increases with increasing temperature, because the higher temperature means that
+gas molecules have more random motion, which results in more intermolecular collisions.
+The temperature dependence of viscosity can be modeled using simple empirical correlations.
+We can use Andrade's equation for liquids and Sutherlands equation for gases,
+where the various constants are determined for each fluid by experimentation.
+Viscosity also varies with pressure, although to a much lesser extent than temperature,
+and so pressure dependence is often neglected.
+Weil es grundlegend auf die Bewegung der Fluide betrifft, ist Viskosität ein sehr wichtiges Parameter in der Fluid-Mechanik.
+Es erscheint in der Equation für Reynolds-Nummer, zum Beispiel, und betrifft also, ob der Fluss möglicherweise laminar ist oder flüssig.
+Der Fluss von hohen Viskosität-Fluiden ist mehr möglicherweise laminar, weil jede kleine turbulente Bedeutung mehr einfach durch die größeren Scherzstressen gedampft wird.
+Viscosity also causes the pressure drop along the pipe
+Without viscosity, there would be no shear stresses imparted by the pipe wall
+and the velocity profile would look like this
+The existence of viscosity can make modeling flow quite complicated
+and so engineers often try to neglect viscous forces where possible
+The assumption that viscous forces are negligible is typically only applied to certain regions within a larger flow system.
+It's never valid for flow close to a boundary, for example, where viscous forces are always significant.
+But outside of the boundary layer, at high Reynolds numbers, viscous forces can often be neglected.
+Flow where viscous forces can be neglected is said to be inviscid.
+Assuming that the flow is inviscid doesn't mean we're assuming the fluid has no viscosity
+It just means that we're neglecting viscous forces because they're small compared to other forces
+Doing this makes analysis of the flow much easier
+The Navier-Stokes equations...
+Ich glaube, das brauchen wir nicht mehr, was jetzt noch kommt
+Inviscid ist nichts anderes als reibungsfrei oder nicht viskos
+Ich werde noch ein paar andere Begriffe aus dem Video aufgreifen.
+Jetzt machen wir aber Pause.
+Jetzt ist nämlich genau 10 Uhr.
+Um 10.15 Uhr würden wir uns wieder hier treffen und machen weiter.
+Ich greife ein paar Sachen aus dem Video auf.
+Wieder auf Englisch.
+In dem Falle mit dem eingebetteten Video bei mir in den Vorlesungsslides.
+Das ist aber der große Vorteil, dass es deutlich zügiger geht und vor allem ohne Werbung.
+Diese ganzen Videos gibt es alle, auch auf YouTube.
+Sie können sich die alle nochmal zu Hause anschauen und die können alle natürlich heutzutage auch ohne Meile das Untertitel einschnitten auf Deutsch.
+Wenn Sie das Gefühl haben, es ist vielleicht angenehmer zu gucken, dann machen Sie das oder auch, welcher auch immer Spargel Sie gerne wünschen.
+Das heißt, nur nochmal da an der Stelle, manchmal sind gerade diese Fachterminologie, tue ich mich selbst, auch durchaus nicht immer nur leicht.
+Ja, wir hatten in Wissend als kleines Schlagwort, es gibt irgendwie No-Slip-Condition, kann man mal anfragen,
+also eine Haftbedingung am Rand von dieser Spürung.
+Ja, hier ist diese No-Slip-Condition, Sie sehen es ja bei mir, es ist 90 Grad gedreht zu dem Bild, was vorher war.
+Ich kann auch mal das Tafellicht anmachen, dann sieht man da auch mal was, was ich male.
+Ich weiß noch nicht genau, wo es ist.
+Beleuchtung, Beleuchtung, Beleuchtung.
+Naja, weiß ich nicht, ob es viel verändert hat.
+Am Ende vielleicht noch relevant ein paar Dinge, wie auch schon erwähnt, ich zeige diese Videos immer, weil ich finde es immer ganz gut, wenn mal jemand anders spricht, der auch vielleicht ein bisschen ruhiger spricht als ich und inhaltlich ist natürlich ein bewegtes Bild, sagt doch schon mehr als das, was ich Ihnen da hinkritzeln kann.
+nichtsdestotrotz ist es ein bisschen unangenehm
+natürlich immer dieses Vokabular ist doch wieder anders
+also wir hatten gerade wieder gesehen
+im Video
+eben die verwenden dieses Nü
+was wir wieder woanders verwenden
+und wir verwenden Eta
+also da muss man sich ein bisschen gar gewöhnen
+dann werden auch manche eher angelsächsischen Dinge
+mehr in die Tiefe ausgebreitet
+es wurde auch verwendet
+die Einheit Pascal
+und das Pascal ist nichts anderes
+das heißt in Newton pro Quadratmeter, das kommt aber sowieso auf einer späteren Folie bei uns auch gleich noch.
+Und ansonsten vielleicht aus dem Video inhaltlich, dieser Aspekt nochmal aufgegriffen,
+Flüssigkeiten bei höheren Temperaturen, da brechen diese hier blau skizzierten,
+entweder Wasserstoffbrückenbindung oder Pandermalskräfte, der entsprechende Flüssigkeit auf
+Und je mehr ich davon breche, desto leichter wird das Mobil, desto weniger Viskosität habe ich.
+Und bei Gasen, das Spiel andersrum, das mit diesen lustigen kleinen Tischtennisballkügelchen, die da so rumspringen,
+das wird uns immer wieder begleiten und wird Sie auch begleiten bei insbesondere Gerd Happig in den nächsten Stunden.
+Da geht es um die Eigenschaften von idealen Gasen.
+und da nimmt man sich oft zur Hilfe so ein Bild mit solchen Bällchen, die dann miteinander stoßen können,
+aber möglichst so klein sind, dass das Volumen eigentlich keine Rolle spielt, dann könnte man sie aber im Video nicht mehr sehen.
+Und bei solchen Stößen ist es so, je schneller ich es mache, desto mehr Stöße.
+Warum elaboriere ich das nochmal? Das ist so die Klassikerfrage im Verständnis für,
+oder eine der Klassikerfragen im Verständnisbereich für die Klausur,
+wo man sagt, ja, erklären Sie kurz mit eigenen Worten, warum ist es so und warum ist es so.
+Sie verstehen also, das Mindset dahinter ist nicht, Sie müssen jetzt 4000 Zahlen auswendig lernen,
+sondern Sie müssen einfach einmal zugehört haben und sagen, okay, habe ich verstanden,
+da gibt es irgendwie Stöße und da gibt es irgendwelche Brückenbindungen.
+Die einen gehen kaputt und die anderen werden mehr.
+und damit
+kriegt man halt diese
+paar kleinen Punkte
+ich mache das übrigens
+wirklich nicht als Drohgebärde
+mit diesem Erwähnen der Klausur
+sondern um sie einfach ein bisschen bei der Hand zu nehmen
+damit es klar ist
+wie das verzahnt
+wenn Sie das stört, dann dürfen Sie mir das auch sagen
+dann machen wir das
+so wie es für Sie
+richtig passt, also wir sehen diese Eigenschaften
+verändern sich da, je nachdem
+welche Temperaturen sind für Flüssigkeiten
+für Luft, das gleiche ist dargestellt
+in dem Fachbuch Bohl
+und jetzt wundern Sie sich vielleicht, da hat der das
+unten durcheinander gekreuzt
+und hier steht es so, dass die einen
+deutlich oberhalb sind von der Viskosität
+ich finde das Bild, ehrlich gesagt, sogar
+zielführender und besser und
+eher häufiger der Realität
+entspringt, aber es gibt bestimmt auch
+irgendein anderes Fluid
+was einen Phasenübergang macht
+wo diese Darstellung richtig ist
+spielt keine Rolle, es geht mir nur darum
+dass das eine nach unten und das andere nach oben geht.
+Wir hatten in der entsprechenden Videobeitrag auch was gesehen zum Thema
+Vergleiche zwischen Festkörpern und Flüssigkeiten.
+Wir haben gesehen, dass ein Festkörper, auf dem ich eine Scherspannung auswirke
+und oben an der Fläche ziehe und zerre, der dann Biegungen erfährt
+und da gibt es Rückstellkräfte und die Rückstellkräfte,
+diese Torsionskräfte, sind über das Rook'sche Gesetz proportional zu denen,
+die ich da nicht auslänge, solange das eine elastische und keine inelastische Verformungsarbeit ist.
+Das Gleiche haben wir in den Flüssigkeiten auch, aber eben doch anders,
+dass eben diese kontinuierliche Bewegung ungehindert weiterläuft
+und es geht darum, entweder zu beschleunigen oder zu bremsen.
+Deswegen kommt hier statt diesem Gamma das Gammapunkt
+und es ist nichts anderes als das, was wir später in diesem jüdischen Gesetz für die Fluidreibung drinstecken haben.
+Also es sind schon irgendwie ganz starke Parallelen da.
+In allem, was Sie bisher gemacht haben, denke ich, vermute ich, außer Sie haben den Kurs schon mal gehört,
+haben Sie sich eher mit dem hier oben befasst in der Physik.
+Jetzt geht es da unten hin.
+Manches sieht ein bisschen anders aus, aber vieles hat dann doch auch irgendwie Ähnlichkeitscharakter.
+Diese Folie sehe ich auch als Exkurs, deswegen mache ich hier ganz schnell.
+Wir befassen uns in dieser Phase nur mit sogenannten Newton'schen Flüssigkeiten, die ein relativ angenehmes lineares Verhalten haben von diesen entsprechenden Verformungskräften gegenüber dem, wie wir die Geschwindigkeit gegenüber der Bezugsgröße verändern.
+Und das ist das, was wir so klassisch kennen.
+Was gibt es noch?
+Es gibt bestimmte Flüssigkeiten, die können Sie mit dem Zeug, was wir hier in der Vorlesung machen, nicht beschreiben.
+Malerfarbe gehört dazu, Ketchup gehört dazu.
+Lauter solche Flüssigkeiten, die irgendwie ein bisschen Sondereigenschaften haben.
+Malerfarbe zum Beispiel ist so, die nehme ich, die ist flüssig im Eimer und dann streiche ich sie an die Wand
+und dann soll sie hoffentlich da kleben bleiben und nicht komplett wieder runterkommen.
+Okay.
+und die hat da einfach andere
+Eigenschaften, dadurch, dass da irgendwelche Partikel
+drin sind und dann gelten diese
+Flüssigkeitsgesetze nicht mehr sauber. Das ist genau
+das, was man will. Das macht man sich zum
+Nutzen. So kann ich auch an der Decke streichen, ohne
+dass ich alles wieder auf den Kopf kriege.
+Ganz
+mini Quiz.
+Viskosität von Öl.
+Wie ändert sich die Kraft auf eine Platte, wenn
+die Temperatur von 10 auf 100 Grad steigt?
+Ich habe es gerade extrem
+genau noch mal gesagt. Diejenigen, die meinen, es bleibt gleich, heben bitte die linke Hand.
+Diejenigen, die sagen, es steigt an, heben bitte keine Hand. Die sagen, es fällt ab,
+bitte die rechte Hand heben und Sie dürfen. Wie ist es mit der Viskosität von Öl? Vorher
+10 Grad, hinterher 100 Grad. Bleibt sie gleich, linke Hand heben, steigt sie an, keine Hand
+heben, fällt sie ab. Rechte Hand heben. Also C heißt rechte Hand heben, das heißt
+keine Hand, das heißt linke Hand. Ein paar Leute am Fenster haben aufgepasst. Jetzt langsam.
+Da tut sich was. Die fällt ab, weil es zwar kein Wasser, aber auch eine Flüssigkeit,
+die bei höherer Temperatur weniger Van der Waals-Kräfte,
+weniger zwischen Flüssigkeitsteiche bestehenden Kräfte hat.
+Und dann passiert genau das, was wir hier gezeigt haben,
+nämlich die Temperatur geht hoch, die Viskosität geht runter.
+Anschaulich kennt vermutlich fast alle von Ihnen,
+die ein klassisches Fahrzeug fahren, ein Verbrennungsfahrzeug.
+Da schüttelt man irgendwelches Öl rein und dieses Öl hat unterschiedliche Eigenschaften.
+Wenn der Motor warm ist, ist das Öl sehr mobil und kann sehr gut dort arbeiten.
+Wenn es sehr kalt ist, dann haben Sie häufig Schwierigkeiten, dass das Öl im Fahrzeugraum nicht,
+und wenn Sie das Fahrzeug neu anstarten, dass das Öl nicht sauber schmiert.
+Und deswegen macht man auch da ganz viele Additive rein, damit es eine nicht-notonschüssige Flüssigkeit wird,
+damit die möglichst unabhängig über die Temperatur ist.
+Aber ein klassisches Öl hat diese Eigenschaft.
+Soweit an der Stelle diese Begriffe, damit hoffentlich auch ein Grundmarkabular, mit dem wir ganz gut arbeiten werden und können.
+Wir werden jetzt in den noch verbleibenden 50 Minuten uns beschäftigen mit dem, was ruhende Fluide so tun,
+was dann aber, wie Sie sehen werden, ein für sich mehr oder weniger auch geschlossenes Kapitel ist.
+Das werden wir heute nicht fertig kriegen.
+Das ist so eine Führungstechnik, werden wir aber sehr wohl dann abschließen.
+Und dann gibt es die ganzen Reste der Vorlesung um bewegte Fluide.
+Um das zu machen, gibt es ganz einfache Grundgedanken nochmal, rückblickend, was ist ein Skalar und was ist ein Vektor und was ist der Unterschied?
+Vielleicht die Frage, ja, Sie wollen?
+Können Sie nochmal 25 zurück, dann können Sie hier dran und hier machen.
+Ja, Sie dürfen.
+Dankeschön.
+Sie dürfen von allem antworten.
+Perfekt, danke.
+Gut, nur nicht von mir, wie gesagt.
+Dann haben wir das so.
+Genau. Die Frage Skalar und Vektor, darf ich Sie trotzdem direkt stören damit?
+Was könnten Sie sich vorstellen? Was ist ein Skalar, was ist ein Vektor?
+Danke, sehr gut.
+Skalar, Zahlenwert, hat keine Ressourcen, irgendeine Zahl.
+irgendein Betrag.
+Vektor hat eine Richtung.
+Da ist der Pfeil oben drauf.
+Und wenn wir im Dreidimensionalen arbeiten,
+wie wir es meistens machen,
+haben wir so eine Darstellung,
+wo wir also eine Richtung in X, in Y und in Z-Richtung haben.
+Und wenn wir uns mit Kräften befassen,
+ist ideal bekannt,
+dann sprechen wir eigentlich über dieses F
+mit dem Pfeilchen drüber.
+Das sind also die entsprechenden Vektoren.
+Und ich mache das hier nochmal hin.
+F-Vektor, das wäre also ein entsprechender Vektor.
+Und wir haben demgegenüber das F ohne was, was aber nichts anderes ist als ein F-Vektor mit Betragsstrichen dran, oder?
+Also halt nur der Zahlenwert.
+Und das ist vielleicht auch ganz gut, um sich nochmal vor Augen zu führen.
+Ich würde Ihnen mal zwei Minuten geben.
+kritzeln Sie mal selber los, wenn Sie mal
+so ein Kreuzprojekt berichten müssen
+und kritzeln Sie mal hin, was ist denn
+das Skalarprodukt
+das sind übrigens die gleichen Zahlenwerte
+aber es kommt was anderes raus
+und ich bin gespannt, wer von Ihnen am schnellsten
+das ausgerechnet hat
+und was Sie da haben
+bitte gerne kurz melden, wenn Sie es haben
+Das muss so sein.
+Sie wären soweit. Wollen Sie es mir sagen?
+Ja, zurück 0 und minus 4.
+Genau. Also Sie sehen völlig unterschiedliche Werte. Wie haben Sie das hergezaubert? Sie haben
+bei dem ersten Eintrag hier unten 2 mal 3 minus 3 mal 2 und da ist wieder ein Minuszeichen,
+deswegen minus minus, das sind 6 plus 6, das sind 12 und bei dem mittleren haben Sie die
+entsprechenden anderen Werte gekreuzt, vermute ich, und so weiter. Dann kommen Sie auf diesen
+Zahlenwert und hier nehmen Sie die erste
+Zeile plus die zweite Zeile
+multipliziert plus die dritte Zeile multipliziert
+und das müsste diese 6 ergeben
+und das eine
+hat also eine Richtung, es ist wieder ein Vektor
+bei Kreuzprodukten und das andere
+bei Skalarprodukten sind einzelne
+Zahlenwerte. Warum beschäftigt uns
+das? Weil wir jetzt gleich so ein bisschen
+nicht besonders lang
+uns damit beschäftigen, welche Kräfte
+wirken auf Staudämme
+oder in der nächsten Stunde machen wir das insbesondere
+Und in welche Richtung zeigen diese Kräfte und wie kann aus einer Druckwirkung, was weiß ich, in einem Schwimmbad am Boden irgendwie ein Druck berechnet werden
+und auch eine Kraftwirkung auf den Boden oder auf eine schräge oder gerade Seitenwand und da braucht man diese Basiskonzepte.
+Keine Sorge, wir machen das ziemlich oberflächlich, ziemlich knapp, aber es hat viel Bezug zu dem, was Sie in der Vergangenheit mal in der Physik hatten.
+Da steht es nochmal alles drauf, ich wiederhole es jetzt nicht.
+Und da steht nochmal drauf, wie Sie aus der Geschichte einen Einheitsvektor ableiten,
+was recht praktisch ist, dass Sie also zeigen können, in welche Richtung soll was gehen
+und dann noch obendrauf multiplizieren mit diesem Einheitsvektor,
+in dem Falle nennen sie sich I, J und K,
+da ist I, noch sagen können, wie viel geht denn zum Beispiel dieser Vektor A in die Richtung der I-Komponente,
+wir könnten hier aber auch X, Y und Z schreiben,
+und das ist genau das, was wir brauchen, wenn wir einen schrägen Staudamm bauen,
+und einen schrägen Staudamm bauen, Wand bauen,
+dann müssen wir uns überlegen, wie viel von der Kraftwirkung geht denn jetzt nach unten,
+oder auf der Horizontalen auf diese entsprechende Stange.
+So ist das hier dann auch gezeigt.
+Das ganze Spiel kann man auch mit Flächen machen.
+Das heißt, dass eine Fläche auch einen Normalvektor bekommt.
+Der Normalvektor ist nichts anderes, als dass er senkrecht steht auf dieser Fläche.
+Ich skizziere das mal rein.
+Also wenn ich jetzt hier den rechten Winkel bilde,
+dann ist der Normalvektor von dieser Fläche AI,
+in diese Richtung, das ist genau
+dieser I-Vektor
+und dieser normalen Vektor steht aber schief
+dazu, das ist meinetwegen meine gebogene
+oder meine
+schief im Raum liegende Staulampe
+das ist, denke ich, nur zum
+nachlesen, noch ein ganz
+mini Wiederholungsteil
+was sagen die drei
+Newton'schen Gesetze
+da habe ich sie hoffentlich auch einmal mit
+kurz stört zum
+rekapitulieren
+ich bin mal ganz frech
+und frage mal ganz hinten in der Ecke
+Sie haben ein Käppi an
+sagen Sie mir mal, was Ihnen da so
+in Erinnerung geblieben ist
+Ja, genau
+das nehme ich als drittes
+weil ich es hier in meinem Spickzettel so stehen habe
+F1,2
+ist nichts anderes als
+wenn wir es richtig rumschreiben
+minus F2,1
+und genau das werden wir
+ziemlich viel jetzt dann gleich brauchen
+dass die Kraftwirkung
+von 1 nach 2
+gegenüber dem 2 nach 1
+genau entgegengesetzt ist
+wenn wir über Auftrieb
+und Schwerkraft reden
+1 geht nach oben, 1 geht nach unten
+da gibt es irgendeine Kräfte, Gleichgewichte, die gleiten sich aus
+ansonsten bewegt sich was
+genau, und das sind jetzt dann noch
+vielleicht fallen Ihnen noch 2 ein
+1 fallen wir, das ist halt massenbar
+ja, genau
+das ist eigentlich das, was daraus auch so ein bisschen
+resultiert, was wir gerade gesagt haben, nämlich wenn
+diese Kräfte sich nicht komplett
+aufheben, dann bleibt eine Kraft übrig und dann
+beschleunigt sich was. Also, zu Deutsch
+bei meinem Auftriebsbeispiel, dafür werden wir es
+brauchen, ich halte
+oder ich nehme einen Stein und
+schmeiße ihn ins Wasser. Was passiert?
+Der fliegt in der Luft sehr schnell,
+beschleunigt immer weiter, im Wasser wird
+er gebremst durch den Auftrieb,
+der ist doch viel höher, weil die Dichte
+von Wasser viel höher ist, aber er geht
+weiter und wird bis zu einem gewissen
+beschleunigt, bis nämlich dann die Reibungskräfte und die Auftriebskräfte zusammen dementsprechend,
+was die Kräfte sind, durch die Schwerkraft im Kräfte-Gleisgewicht gleichmäßige Weiterbewegung.
+Das ist eigentlich nichts anderes als F ist M mal A. Da müssen wir jetzt auch einen Vektor drüber legen.
+Ich hoffe, es ist lesbar. Und daraus resultiert eigentlich schon das erste von den drei, nämlich,
+dass wenn die Kräfte Null sind, dann ist die Geschwindigkeit konstant.
+Das ist das, was wir uns gerade schon darüber unterhalten haben.
+Also ich mache hier auch mal ganz bewusst eine Summe über alle Kräfte.
+Ist Null, bedeutet U ist gleich konstant.
+Und Sie sehen schon, ich versuche mit meinen Buchstaben zu arbeiten.
+Sie haben vermutlich in allen bisherigen eher mit V als Geschwindigkeit gearbeitet als mit U,
+aber da müssen Sie sich leider daran gewöhnen, bei uns in der Sturmungstheorie wird das immer U heißen.
+So weit, so gut. Einmal Newton.
+Alle, die da was hinschreiben wollten, haben das getan.
+Was bedeutet das? Auch im weiteren Verlauf, jetzt hatte ich gerade dieses Auftriebsbeispiel genannt,
+das ist die ganz einfache Hydrostatik, später geht es um.
+Hydrodynamik, das ist noch viel entscheidender. Da haben wir irgendwo
+diese gedachten Kästchen, gedachten Kästchen heißt nichts anderes, da drin
+steckt jetzt entweder Gas oder Flüssigkeit. Anders als bei einem Stein
+haben wir halt das Problem, dass das Ding ja auch verformbar ist. Und dieser Kasten
+bewegt sich im Raum mit einem momentanen Puls und da wirken irgendwelche Kräfte auf
+Das Teilchen, die habe ich gerade schon angesprochen, Auftrieb, Schwerkraft, Scherkraft und daraus gibt es irgendeine Anzahl an Kräften, die zusammenaddiert werden können und in Summe ergeben sie eine resultierende Kraft und das ist im Endeffekt die, die ich hier hinten gezeigt habe, die könnte man genauso gut hier vorne hinzeigen, da greift sie eigentlich an.
+Und was passiert mit dem Teilchen in diesem Kontext?
+Es kommt vielleicht von irgendwo da oben und es wird sich irgendwo hier in so einer Kurvenbewegung bewegen.
+Vielleicht habe ich die ein bisschen zu wenig deutlich gezeigt.
+Vielleicht wäre die eher hier oben.
+Das finde ich nicht ganz sehr schwer.
+Also, meinetwegen irgendwie so.
+Durch diese aktuelle, bisherige Bewegung und dem, dass da oben drauf noch irgendeine Kraftwirkung kommt,
+bewegt sich das Teilchen irgendwie schief im Raum rum.
+Je nachdem, was da für Kräfte drauf wirken.
+Und das ist eigentlich die Grundlage für Stromlinien und Strömungsformen.
+Also wir werden uns ja dann angucken, wo bewegen sich denn die Teiche hin in irgendwelchen Roboten.
+Okay?
+Oder um irgendwelche Windräder rum oder um irgendwelche Fahrzeuge rum.
+Also alles irgendwie die Basis mit Newton'schen Gesetzen.
+Und jetzt nochmal kurz rekapitulieren.
+da steht schon Rückblick
+und ich habe es gerade in den letzten Sätzen
+zigmal gesagt, welche Kräfte
+wirken auf ein Flüssigkeitsteilchen
+vielleicht nochmal ganz kurz von Ihnen
+Revue passieren lassen
+drei Stück sind
+Schwerkraft
+Schwerkraft
+Schwerkraft
+Schwerkraft
+Scher- und Reibungskräfte
+würde ich aber als eines definieren
+Ja, Sie haben es richtig gesagt. Schwerkraft, Schwer- und Tragungskräfte und das, was das Teilchen am Leben hält, dass es nicht zusammenfällt, nämlich Normalkraft, Druck.
+So haben wir es.
+Am Ende geht es mir darum, es sind drei Kräfte, die hier was zu tun haben.
+Einmal natürlich das immer klar Schwerkraft nach unten.
+Und dann haben wir hier die Oberflächenkräfte, die wir zerlegen können in zwei Teile.
+So kommt das jetzt vielleicht auch zustande, meine Rückfrage oder das hin und her.
+dass die Oberflächenkräfte sich gedanklich vielleicht als eines formulieren lassen.
+Das kann nämlich ja auch irgendwie schief im Raum sein, die Kombination von dem Blauen und dem Roten.
+Und es ist nichts anderes als einmal der Druck und einmal das, was sich eben als Reihenbogen oder Strubspannung hier ergibt.
+Und die werden wir uns gleich nochmal ganz kurz an der Stelle anschauen,
+mit diesem
+jetzt genau kombinierten
+Schubspannungsvektor
+der also irgendwie schief im Raum liegt
+jetzt haben wir in diesem Bild
+was Sie hier auf dieser Folie Nummer 34
+sehen
+die Schwerkraft mal ausgeklammert
+und gucken uns nur
+diese Oberflächengeschichte an
+und diese Oberflächen
+der nennt sich hier
+Schubspannungsvektor
+der ist nichts anderes als
+genau dieses Tau
+das ist der Kraftteil
+parallel zur Oberfläche
+also
+in diesem Bildchen nach unten gerichtet
+und
+Und wir haben hier dann noch den Teil, der ist an der Oberfläche entlang, normal zur Oberfläche und der hat genau die Richtung des normalen Vektors, also das heißt hier haben wir diesen n-Vektor, der steht, wie wir ja gerade vor drei Folien gesehen haben, eben auf dieser Ebene senkrecht drauf, die normalen Richtungen.
+Und jetzt haben wir diese zwei Teile.
+Der eine Teil, da geht es um die Reiberei zwischeneinander zwischen den Nachbarteilen.
+Und da können wir uns die Schubspannungen assoziieren in Flüssigkeiten in der Beschreibung mittels der Viskosität.
+Die haben wir ja vorhin gerade kennengelernt.
+Jetzt nehme ich nochmal eine andere Farbe und mache das hier so.
+und schreibt da Viskosität hin.
+Also Sie sehen schon, es geht heute noch sehr gemächlich voran,
+aber keine Sorge, es wird schon noch etwas aufregender in den nächsten Stunden.
+Und hier haben wir also den Anteil mit dem normalen Vektor, der so in die andere Richtung geht.
+Das ist jetzt in dem Bild vielleicht ein bisschen verwirrend,
+manchmal sind die Vektorpfeile hier, manchmal da.
+Was soll das bedeuten? Hier ist der Vektor mit drauf oder ich kann ihn halt zerlegen in den Betrag, der hier steht und den normalen Vektor.
+Nichts anderes. Das Ganze zusammen wäre also dieser Sigma n Vektor.
+Machen wir es der Folge ständig weiter nochmal.
+So und dann muss ich hier noch genau eine ganz wichtige Definition hinschreiben.
+Um die geht es eigentlich hauptsächlich bei dieser Folie.
+Das ist nichts anderes als ein Tauvektor, das ist wieder mit unserer Viskosität, mit dem Tauvektor, das hatten wir ein paar Folien vorher gesehen, den hatten wir definiert als das Eta, das war unsere Viskosität, mal du nach d und jetzt müssen wir uns hier die z-Komponente vielleicht nehmen.
+Das wäre jetzt also hier die Raumrichtung Z.
+Ich habe hier ein bisschen willkürlich die Farben verwendet, ich hoffe es ist für Sie okay.
+Und dann habe ich da aber noch ein Teil und jetzt kommt eine vielleicht eher merkwürdig anmutende Definition.
+ich nehme mir hier nochmal eine andere Farbe, auch wenn es ein bisschen bunt wird,
+Minus, ganz bewusst, p mal n Vektor.
+Das ist also p um für einen Wing, p ist nichts anderes als die Gegenwert zu dieser entsprechenden Normalspannungsvektor.
+Und was bedeutet das? P ist was, was hier hinein wirkt.
+Achtung, P hat selbst erstmal keinen Vektorfall, aber P ist ein Skalar und der drückt auf dieses Flüssigkeitsteilchen.
+Okay?
+Das Flüssigkeitsteilchen wird zusammengequetscht.
+Und kann aber diesem Druck widerstehen und fällt nicht in sich zusammen.
+Dieser Druck gilt übrigens auch von allen Seiten gleichmäßig.
+Das ist Ihnen, denke ich, bekannt, dass wenn ich sage, ich gehe zum Tauchen und habe irgendwo einen Druck,
+das ist Ihnen, glaube ich, allen bekannt, unter Wasser ist der Druck hoch,
+ich muss irgendwie einen Druckausgleich machen oder wenn Sie zum Schnorcheln gehen und da runtertauchen,
+weil da irgendeine schöne Muschel liegt, dann drücken Sie in der Nase, machen Druckausgleich
+Und der Druck, den Sie da erfahren, der ist an der Stelle, hat einen bestimmten Wert.
+Der ist nicht anders nach oben, nach links, nach rechts, nach unten.
+Sie haben einfach einen Druck um sich herum.
+Es presst auf Sie drauf, von allen Seiten gleichmäßig.
+Das deckt sich, denke ich, mit unserem Körpergefühl, mit unserer Erfahrung.
+das ist das, was hier drin steckt
+oder auf der nächsten Folie noch mal
+als, ich glaube, paschalsches
+Grundsatz
+Sie werden gleich sehen
+ich kann den Terminus, habe ich jetzt auch nicht genau auswendig
+postuliert wird
+dass mal hier
+der Druck ein Skalarer Zahlenwert ist
+der hat immer positiven Wert
+und um diese Gleichung richtig zu stellen
+muss dieses entsprechende
+Vorzeichen da rein kommen
+ok, da war der n-Vektor auch schon drin
+das hatte ich nicht gewusst
+Wir werden also uns gleich nochmal mit dem Pascal, mit dem Drücken beschäftigen und in den noch verbleibenden Minuten, das ist doch genau noch halbe Stunde, werden wir uns jetzt befassen mit diesem hier links, nämlich der sogenannten Hydrostatik.
+Pondor dazu die Aerostatik, da geht es um die Luft, die machen Sie jetzt nur in Flüssigkeiten in der Durchrunde.
+In der Hydrostatik geht es um Flüssigkeiten, die in Ruhe sind.
+Also Wasser und die greift da auf die Staumauer.
+Ohne andere Beispiele.
+Wohingegen das später in der Vorlesung eben die zentrale Rolle spielt wird,
+dass
+die Kräfte in Summe nicht Null sind
+dass sich also irgendeine Art von Fluid
+bewegt
+das ist die Hydrodynamik, wenn es Wasser ist
+oder Flüssigkeiten sind
+und die Aerodynamik, wenn es
+in Gas ist
+und wenn wir jetzt die
+Hydrostatik nehmen, dann ist es alles
+relativ einfach
+die Sachen, die wir da beobachten
+die stehen, also irgendwo
+Flüssigkeit oder Gas
+in einem
+Behältnis und wir wollen
+jetzt reinlegen, sagen, wie hoch ist der Druck
+hier unten, wie stark ist die Kraft
+hier vorne,
+solche Dinge.
+Oder in der Luft,
+wie hoch ist der Druck am Mount Everest,
+damit werden wir uns die nächste Stunde
+relativ ausdrücklich beschäftigen
+und dann später hier
+ist das anders,
+da sind diese Handen nicht hoch.
+Wenn wir uns die
+Hygostatik als solches anschauen
+dann kommt, und ich habe es falsch gesagt
+nur einfach diesen
+Grundsatz
+hier steht er nochmal aufgelistet
+der Druck auf Fluid-Teilung
+beteichert ist in alle Richtungen gleich
+ist einfach ein Postulat
+von diesem Herrn Pascal
+hat er in 1600
+ein bisschen was, in dem er gelebt hat
+herausgefunden
+aber man hatte nicht
+besonders lange für sein Leben
+und nichtsdestotrotz hat er viel
+vorwärts gebracht und hat eben
+herausgefunden, dass
+Druck in
+allen Raumrichtungen gleich ist
+wenn wir das nehmen, dann gibt es nochmal
+einen Unterfall in der Vitustatik
+das ist die extrem einfache Variante
+dass wir nicht einmal
+die Volumenkräfte berücksichtigen
+das heißt bei uns
+nichts anderes als die Schwerkraft spielt auch noch keine Rolle
+Oder aber später werden wir sehen, dass die Volumenkräfte eine Rolle spielen, dass die Schwerkraft eine Rolle spielt, dann wird es ein bisschen komplizierter.
+Wir werden jetzt ein einziges Beispiel in die Richtung rechnen, wenn ich mich richtig erinnere, und auch daraus ein bisschen was abbleiben.
+Und eigentlich ab dann schauen wir immer dahin, dass die Schwerkraft schon nicht zu vernachlässigen ist und auch eine Rolle spielt.
+Nehmen wir dieses eine Beispiel und das ist die Hebebühne, die hatte ich an anderer Stelle schon kurz erwähnt.
+Das ist nichts anderes als ein dünner Kolben, kleiner Durchmesser, und ein großer Kolben, kleiner Durchmesser.
+Und das ist im Endeffekt das Flaschenzugprinzip für die Hebebühne.
+Sie haben einen kleinen Kolben, da drücken Sie drauf mit Kraft.
+Ich versuche vielleicht mal eine Hand zu malen, mal gucken, ob mir das gelingt.
+Und die andere Sache, wahrscheinlich werden Sie es heutzutage eher mit irgendeinem Motor oder irgendeiner Maschine machen,
+auf der anderen Seite steht irgendwas drauf, meinetwegen ein Auto.
+Und das wollen Sie jetzt hochheben, ich kann keine Autos malen.
+Und dieses Auto, wenn Sie jetzt hier mit langem Weg drücken, kriegen Sie viel weniger stark, aber doch die viel höhere Kraftwirkung dieses Autos trotzdem ein bisschen nach oben.
+Sie müssen halt viel Weg aufwenden.
+Und das können wir auch ganz kurz in Formel fassen.
+Das ist nichts anderes als Hydrostatik, weil wir sehen schon, dass die Kraft, die wir da oben übertragen,
+das ist nichts anderes als den Druck, den wir da unten erzeugen, P mal der Fläche, mit der wir aufwirken.
+Also, P ist nichts anderes als F durch A, nicht wahr? Der Druck ist Kraft pro Fläche.
+Ich glaube, das ist ein bisschen merkwürdig in meinem Foliensatz, aber ich glaube, das kommt, ehrlich gesagt, danach nochmal irgendwo drin.
+Nichtsdestotrotz, also Druck hat nichts anderes als diese Definition.
+Das heißt, die Kraftwirkung hängt zusammen mit dem Druck über die entsprechende Wirkungsfläche.
+Und der Druck ist hier drin der Wert p und er ist auch hier der Wert p und auch hier der Wert p
+und auch hier oben der Wert p, weil wir die Schwerkraft vernachlässigt haben.
+Deswegen ist der Druck auf jeden Fall übergleichbar.
+Wenn wir es ein bisschen genauer machen, dann ist der Druck ganz unten in meiner Hebebühnenanlage etwas höher
+und oben ist er ein bisschen weniger hoch.
+Aber nachdem die im Bild zumindest auch perfekt auf gleicher Höhe sind,
+oder zumindest auf ähnlicher Höhe sind, spielt es praktisch keine Rolle.
+Jetzt habe ich die F2, das ist nichts anderes als P mal A2 und entsprechend kann ich dann umformen in das ganz einfache Gesetz.
+Die Kraft, die ich an der Stelle 1 aufwenden muss, ist nichts anderes als die Kraft an der Stelle 2 mal der Fläche 1 durch die Fläche 2.
+Und dieses entsprechende Verhältnis erlaubt es mir, dass ich damit rechnen kann und mir ausrechnen kann,
+Wie viel Kraft brauche ich denn an der Stelle 1, um mein schweres Fahrzeug an der Stelle 2 hochzuheben?
+Und genau das wollen wir jetzt einmal machen.
+Nicht, weil ich Sie unnötig tritzen will, aber weil ich Ihnen gleich dazu noch einen wichtigen Effekt zeigen will.
+Sie kriegen also jetzt diese banale mathematische Aufgabe auf der nächsten Folie,
+ich werde da bewusst noch nicht um damit alle mitschreiben können,
+dass sie dieses Gesetz anwenden und da ein Auto hochheben, was 2300 Kilo wiegen wird
+und mir was sagen dazu, wie viel Kraft brauchen sie dort.
+Und ich weiß nicht, wer von Ihnen einen Taschenrechner dabei hat.
+Ja, immerhin, die anderen haben ein Handy.
+Mein Taschenrechner geht heute auch nicht, weil die Batterie alle ist.
+Aber man kann das auch mit dem Handy wunderbar machen.
+Das ist so eine simple Rechnung.
+Dann können Sie heute mal gucken, wie die App Ihres Taschenrechners auf dem Handy ist.
+Bei mir ist die relativ primitiv, aber das reicht voll für das, was wir hier gerade machen wollen.
+In der Klausur haben Sie bitte den Taschenrechner dabei, weil dann dürfen Sie Ihr Handy nicht benutzen.
+Okay? Wir legen los. Sie haben genau 5 Minuten Zeit. Warum ich genau 5 Minuten mache, sage ich Ihnen gleich.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Sie können sich gerne auch mit Ihren Nachbarn kurz zusammenschalten, falls Sie das Gefühl
+Wie lange bist du?
+Gehen wir schneller?
+Vielen Dank.
+Vielen Dank.
+Noch eine Minute gebe ich Ihnen, dann quatsche ich weiter.
+So, das wären genau jetzt fünf Minuten,
+zumindest nach dem, was ich hier bei mir an der digitalen Uhr so sehe.
+Wer von Ihnen hat irgendein Ergebnis, egal welches, für die Aufgabe A produziert?
+Eins, zwei, drei, vier, fünf, sechs, sieben.
+Ja, doch, also etwa die Hälfte.
+Genau, wer hat ein Ergebnis für die Aufgabe B produziert?
+Ja, wunderbar.
+Ich will gar nicht wissen, was Sie genau berechnet haben.
+Sie dürfen gerne Ihren Fotoapparat nehmen und das abfotografieren.
+Sie sehen, es ist ziemlich schwierig, aber es geht mir auch gar nicht so sehr um das, was da genau steht.
+Das ist irgendwo eine 3-Satz-Mathematik-Aufgabe.
+Das müssen wir mal ehrlich sein.
+99, ein bisschen Prozent, ich werde Sie nicht diese Aufgabe fragen.
+Nichtsdestotrotz, worum es mir jetzt auch mal ging, ist Ihnen einfach zu zeigen,
+mit welcher Art von ganz banaler Mathematik können Sie konfrontiert werden
+und wie ist sozusagen hensärmelig der Ansatz zwischen dem, was Sie da zu tun haben
+und dem, was auf meiner Seite, Sie müssen sich vorstellen,
+hinterher kriege ich wahrscheinlich 25 bis 30 entsprechende Klausuren,
+ich muss das korrigieren und irgendwo muss ich Punkte vergeben.
+Und Sie sehen da mal rote Häkchen, wenn Sie das geschafft haben, sich zu überlegen, könnte man hier gebrauchen und hingeschrieben haben, kriegen Sie einen Punkt.
+Warum kriegen Sie nur einen Punkt? Weil das steht hier drauf.
+Das ist die Formel S1.3.
+Also übertragen einer Formel aus der Formelsammlung, wenn sie nicht irgendein ellenlanger Apparat ist, gibt wahrscheinlich typischerweise irgendwie einen Punkt.
+und das
+schreibe ich dann nochmal hin
+S1.3 FOSA
+können Sie dann nehmen
+um zu rechnen
+Sie haben die Masse des Pkw, Achtung hier steht das Ding
+verkehrt rum drauf, das spielt aber ja keine Rolle
+und der wird mit irgendwie
+Erdgeschleunigung und so weiter, irgendeine Kraft
+hier auswirken
+die Kraft
+die ich an der Stelle 1 brauche
+ist das, was ich an der Stelle 2
+hebeln will, mit
+und jetzt muss ich halt, sehr unangenehm in dieser
+Angabe, da sind irgendwelche Durchmesser
+gegeben, statt irgendwelche Radien
+und dann ist es blöderweise auch noch in Zentimeter
+gegeben, statt in Meter
+unnötige Komplikation, aber
+okay, kann man machen, dann
+rechnen wir das aus und ich
+habe zumindest damals, das habe ich nicht heute
+gerechnet, irgendeinen Zahlenwert
+ausgegeben. Und
+Sie sehen, nur vom Mindset
+da steckt ein bisschen köpfchen müssen sich überlegen wie kann ich den f2 rechnen da steckt
+ja so ein bisschen übertragungseinsatz arbeiten wird noch ein bisschen köpfchen dass sie sich
+überlegen wie kann ich den flächen berechnen den augenpunkt weil es das vielleicht nur ein halben
+weiß ich nicht ich sage mal so im raum und hier unten kommt irgendein ergebnis raus und das
+Deswegen kann ich bewusst meinen Halberpunkt, also dieses angesprochene Häkchen heißt Halberpunkt.
+Weil am Ende geht es mir nicht drum, ob Sie sich da vertippt haben, wenn Sie Ihren Taschenrechner haben.
+Das ist halt so.
+Ist super, wenn Sie den richtigen Wert rauskriegen.
+Aber anders als vielleicht andere Dozenten, die früher in diesem Fach gelehrt haben,
+sehe ich nicht das als sinnvoll an, zu sagen in der Korrektur,
+Zahlenwert richtig, fünf Punkte, Zahlenwert falsch, null Punkte.
+Ja, das ist Quatsch.
+es geht darum, dass Sie das irgendwie durchstiegen haben
+und was gemacht haben, was sinnvoll ist
+also da will ich Ihnen auch entgegenkommen
+und wenn Sie die Aufgabe B haben
+dann kriegen Sie nochmal irgendwelche Punkte
+und wenn man das jetzt, und das ist wirklich einigermaßen brutal
+aber wenn man das so zusammenzählt
+dann würde da 1, 2, 3 Punkte
+für die Teilaufgabe A rauskommen
+und hier 4, 5
+ich würde sagen mittlerweile
+und ich gebe Ihnen auch ganz bewusst
+später noch Einlesezeit für die Klausur
+aber
+Aber ich sage mal ganz kurz, das habe ich gerade noch nicht gesagt.
+Wir werden 90 Minuten Klausur haben und es werden ziemlich sicher um die 90 Punkte verteilt.
+Also können Sie sich vorstellen, dass für alles, und ich schreibe an jeder Aufgabe in der Klausur dran, wie viele Punkte gibt die.
+Sie können sich ziemlich genau überlegen, dass Sie eine Minute pro Punkt investieren können.
+das will Sie nicht in Stress versetzen, aber den Leuten, die sich das überlegen und vielleicht auch genau ihre Zeit einteilen müssen
+zwischen diesem Fach und noch den anderen zehn Fächern, die Sie hören, sagen,
+okay, so viele Punkte kann ich mit so und so viel Aufwand, Energie und Berechnungsleistung erreichen.
+Und wenn Sie sagen, mein strategisches Ziel ist, ich mache Strömungstechnik überhaupt nicht,
+weil es reicht nicht, ich schaffe es wahrscheinlich gerade so durchzukommen,
+wenn ich die Strömungstechnik nicht bearbeitet habe.
+Ich sage Ihnen, das ist ein bisschen knapp.
+Aber dann können Sie das so fahren und dann wissen Sie,
+in der Strömungstechnik werden etwa 30 Punkte vergeben,
+plus minus 5 Prozent, oder meinetwegen plus minus 10 Prozent, sage ich mal.
+Und in der Wärmeübertragung genauso und in der Thermodynamik genauso.
+Die sind genau gleich gewichtet.
+Und entsprechend können Sie sich auch ableiten,
+wie viel Zeit man etwa brauchen soll.
+Und das soll im Gegenschluss heißen, gut ist, wenn Sie schnell navigieren können.
+Weil 90 Minuten, 90 Punkte ist leider ein Stück weit von der Art der Klausur her eher so,
+dass man Ihnen auch abverlangt, dass Sie relativ flink sind.
+Und dass Sie vermutlich nicht am Schluss eine halbe Stunde gelangweilt da sitzen,
+wenn Sie zu allem was arbeiten.
+Nur, dass wir das in etwa mal als Idee haben.
+genau, ich mache das immer wieder
+ich werde nicht jedes Mal genau hinschreiben
+wie viele Punkte es exakt gibt
+das kann ich auch nicht, immer
+und auch das, Sie sehen hier
+und das ist ein Fehler meiner
+oder eine Schwäche meiner
+ich habe nicht perfekt vier gültige Ziffern gemacht
+sonst würde hier das Ergebnis
+nur so stehen
+ich habe es mal so und mal so gemacht
+im ganz überwiegenden Fall
+spielt es auch bei Ihnen in der Klausur keine Rolle
+ganz sauber gemacht wäre es
+wenn es hier Nöte gibt.
+Kräftebilanz mit Volumenkräften.
+Jetzt geht es also an den zweiten Fall.
+Wir werden das noch mal ganz kurz mit zwei kleinen Themen anspielen.
+Und dann sind wir schon Richtung Schluss der Stunde.
+Wir haben hier jetzt mal den Gedanken,
+dass also die Volumenkraft auch eine Rolle spielt und über die Volumenkraft muss im Gegenzug auch die Normalkraft eine Rolle spielen.
+Und das, was wir aber ausgrauen, deswegen ist es hier in grau gezeichnet, ist alles, was mit Reibung und Bewegung zu tun hat.
+Und wie wir alle wissen, ist die Gewichtskraft nach unten gerichtet mit m mal g
+Und wir haben die Kraftwirkung auf dieses Volumenteilchen, das ist nichts anderes als die gesamte Kraft, auf einen großen Kasten runtergebrochen auf ein beliebig klein zu nennendes Volumenelement.
+Das ist immer unsere Vorstellung. Auf dem Beamer sehen Sie jetzt immer wieder irgendwelche Kästen, auf die irgendwas wirkt.
+Das Ganze gilt in der Quaternionsmechanik oder Quaternionsanschauungsraum immer für beliebig kleine Raumbereiche.
+Also das Volumen soll gegen Null gehen.
+Und wenn ich das übertrage und hier durchführe mit dieser Differenzialrechnung und die Kraft einsetze,
+dann kriege ich nichts anderes raus als eine Masse pro Volumen, die dividiert und die gilt an einer bestimmten Stelle.
+Und in unserem Fall wird die Dichte, wenn ich jetzt nicht die Temperatur verändere oder irgendwas,
+und das tue ich in den folgenden Aufgaben nicht, einen konstanten Wert haben, die Dichte von Wasser,
+und dann kann ich diese Kraftwirkung an einer konkreten Stelle auch beziffern.
+Und damit auch den Druck beziffern an einer bestimmten Stelle.
+Und jetzt nochmal ein ganz kurz rausgegriffener Quiz als Fragestellung, der eine Anschauung sein soll von drei Gefäßen, die unterschiedliches Volumen haben.
+Dieses Volumen von dem ersten Gefäß ist nur halb so groß wie das von dem zweiten Gefäß.
+Also hier passt die Flüssigkeitsmenge zweimal rein und hier passt die Flüssigkeitsmenge dreimal rein.
+So könnte man es sozusagen charakterisieren.
+Und diese Gefäße sind hier fest irgendwie verankert an der Außenwelt.
+Und hier unten geht es mir um die Kraft auf die Bodenfläche.
+Und die Frage ist, wie verhalten sich denn diese Kräfte zueinander?
+Wäre das so wie bei der A gezeigt, dass die Kraftwirkung hier halb ist so wie bei 2 oder halb ein Drittel wie bei 3?
+Oder ist es genau andersrum, dass die Kraft doppelt und dann dreifach so hoch ist bei dem 1er Fall oder der C-Fall?
+Alle Kräfte wären gleich. A, linke Hand, B, keine Hand und C, rechte Hand.
+Und Sie dürfen jetzt sich überlegen, was richtig wäre.
+Keine drei Hände.
+Alle sind der Meinung, dass die Kraft auf 1 doppelt so hoch ist wie auf 2.
+Dreimal so hoch wie auf 3.
+Ich gehe da wohl nochmal linke Hand hin, wenn Sie meinen, dass die Kraft auf 1 nur halb so hoch ist, wie die auf 2 und nur ein Drittel so hoch ist, wie die bei 3.
+2 war das Umgekehrte, das wären keine Hände, das sind die Leute, die noch schlafen.
+Und C wäre die andere Variante, dass die Kräfte alle gleich sind.
+Wer ist dafür, dass die Kräfte unterschiedlich sind, der hängt die linke Hand, vermute ich.
+Und wer meint, dass die Kräfte gleich sind, der hebt die rechte Hand.
+Ich sehe nur linke Hände bisher.
+Alle falsch.
+Rechte Hand.
+Warum?
+Es ist so ein bisschen blöd gestellt, die Aufgabe.
+Aber es führt Ihnen hoffentlich vor Augen.
+Gleich.
+Ich habe nämlich mit einem ganz kleinen Nebensatz hier so ein bisschen hingekritzt.
+Die Gefäße sind als solches fest.
+und fest verankert
+die Kraft auf die Bodenfläche
+hat nichts anderes als
+das
+zu bewerkstelligen
+einen Gegendruck, eine Gegenkraft
+zu dem zu bieten, was
+obendrauf an Flüssigkeit ist
+aber
+es geht um die Flüssigkeitssäule
+also um die Höhe der Flüssigkeit
+und dies bei allen drei Gefäßen
+der Hintergrund an der ganzen Spielerei
+ist, dass sich Kräfte auch auf die Wände übertragen, die, und das ist ein bisschen
+merkwürdig in diesem Beispiel gezeigt und vielleicht auch nicht richtig gut erklärt
+und erläutert, ist fixiert und das heißt, hier können irgendwelche Kräfte an die entsprechenden
+Außenwände übertragen werden. Der Merksatz gilt trotzdem und ist wichtig, der Kraft auf
+Eine hohe Fläche hängt nur von der Höhe der Flüssigkeitssäule obendrauf ab und nicht von dem, was die Form dieses Gefäßes ist, die Breite dieses Gefäßes ist, die Menge der Flüssigkeit, die da obendrauf steht.
+Und das Ganze werden wir jetzt noch einmal in der Formel erarbeiten.
+Ich denke, das schaffe ich gerade noch.
+Dann nehmen wir das Foto oder Sie schreiben es mit und dann würde ich zusammenfassen von der Stunde und wir greifen da nächstes Mal wieder auf.
+Was gilt für so ein Flüssigkeitsteilchen? Nehmen wir mal an, das wäre jetzt hier die Wasseroberfläche, meinetwegen.
+Hier genau. Und hier haben wir den P0, das ist der Umgebungsdruck.
+Hier oben drauf, auf der Wasseroberfläche.
+Das ist der Hochgrund, eine Atmosphäre, wie wir ihn kennen.
+1,013 Bar, wenn wir noch zu sprechen sind.
+Und wir haben jetzt hier eine Flüssigkeitssäule nach unten, so wie in den vorigen Bildern.
+Diesmal ist es ein schön gerader Zylinder gezeichnet.
+Und dieser Zylinder, der hat eine obere Fläche und eine untere Fläche.
+Und in diesem Zylinder kann ich auch einen Schwerpunkt definieren.
+Und an dem Schwerpunkt setzt eine Gewichtskraft an.
+Das tut mir leider gerade sehr schwer, hier ein schönes G hin zu skizzieren.
+Vielleicht nochmal den Sprecher als Unterlage.
+So, jetzt haben wir dieses FG ist nichts anderes als M mal A.
+Achtung, ich habe hier keine Vektorpfeile, M mal D würde ich besser schreiben, verwendet.
+Keine Vektorpfeile, weil ich weiß, wie die Kraftrichtungen sind und ich muss nur an der richtigen Stelle mal einmal ein Minus verwenden.
+Es geht nur nach oben oder nach unten, es geht nichts nach links und nach rechts.
+Also Kraft ist Masse mal Erdbeschleunigung, ist nichts anderes als die Dichte mal den Volumen mal der Erdbeschleunigung,
+ist nichts anderes als die Dichte mal der Fläche A, das ist diese Fläche A hier unten,
+die ist übrigens auch gleich groß wie die Fläche A da oben, weil ich hier einen geraden
+Zylinder geschnitten habe, mal der Höhe, die ist hier mit Delta H bezeichnet, mal der
+Gewichtskraft, die habe ich hier nicht vergessen. So, dann gehe ich ins zweite Spielchen rein.
+Was ist mit dem Auftrieb?
+Auftriebskräfte zu berechnen ist vielleicht für Sie noch etwas ungewohnt.
+Es lässt sich in diesem Falle sehr angenehm und leicht machen,
+darüber, dass wir uns angucken, was wirken denn für Kräfte hier unten,
+minus, was wirken denn für Kräfte hier oben.
+Das Resultat muss irgendwie der Auftrieb sein, oder?
+Also gehen wir her, sagen wir, hier unten wirkt der Druck P,
+Und hier oben wirkt der Druck P0.
+Das steht hier im Bildchen schon ganz schön da.
+P mal A minus P0 mal A.
+Das ist also das, was uns bleibt als Auftrieb.
+Und dann haben wir unser schönes Newton'sches Gesetz genommen.
+Und haben ja in diesem Beispiel, wie in dem vorigen mit den komischen Gefäßen, die schief waren,
+keine Flüssigkeitsbewegung, also Hydrostatik.
+Das heißt, die Summe aller Kräfte, die ich hier habe, ist 0
+und die Geschwindigkeit, mit der sich die Dinge bewegen, ist auch 0.
+Das heißt aber auch, dass die Kraft, die nach unten wirkt, F A,
+betragsmäßig gleich sein muss
+wie dieses FG
+bzw. ich muss da halt ein Minus reinzeichnen
+wenn ich die Vorzeichenkonvention beachten will
+von den Richtungen
+aber nachdem ich mich nur mit Beträgen befasse
+ich mache es mal extra so für Sie
+müssen die betragsmäßig gleich sein
+die eine zeigt nach unten
+die andere zeigt nach oben
+wenn die Zahlenwerte gleich sind
+beides habe ich hier so definiert
+dass es positive Werte ergeben wird, dann heben Sie sich auf, dann steht die Sache und dann passt es.
+Das machen wir jetzt noch in einem letzten Schritt und dann werde ich zusammenfassen und Sie entlassen.
+P mal A, ich lege nächstes Mal diese Folie wieder auf, verspreche ich Ihnen,
+dass wenn Sie jetzt gleich nicht ganz perfekt mitschreiben oder dazu noch eine Frage haben,
+dass Sie die Möglichkeit haben, die nächstes Mal noch zu stellen.
+Mal E mal A.
+Das habe ich jetzt F A und F G gleichgestellt, linke und rechte Seite.
+Jetzt gehe ich her, nehme mir meinetwegen hier den hellen grünen Stift und streiche alle A's raus.
+Die müssten eigentlich sich auskürzen.
+Und da kommt so etwas raus wie P ist P0 plus, wenn ich das richtig rumgemacht habe,
+Rho mal G mal Delta H.
+Und was ich dabei herausgekriegt habe, ist nichts anderes als das,
+was in der Formelsammlung in der Formel S 2.1 steht.
+Und dieser ganz wichtige Merksturmsatz, der auch in dem Falle Bezug des hydrostatischen Paradoxon oder paschalsches Paradoxon genannt wird,
+der Druck in der Tiefe hängt nur von der Tiefe selbst ab.
+Wenn ich tauchen gehe, habe ich an der Oberfläche normal drauf und wenn ich einen Meter tiefer
+tauche, habe ich einen Druck, der ist höher, 10 Meter, 2 Bar, 20 Meter, 3 Bar, 40 Meter,
+5 Bar, 100 Meter, 11 Bar, egal wo ich da unter Wasser bin.
+Der Druck hat nur was damit zu tun, wie tief ich bin.
+Ob da jetzt über mir gerade irgendwelche Steine sind und ich in eine Höhle reintauche oder in einen Schuff oder einen Wrack oder was auch immer, spielt überhaupt keine Rolle.
+Der Druck hat nur einen Bezug zu dem Level, wie tief ich bin.
+Das gleiche geht natürlich auch nach oben, da geht es woanders um.
+Auf dem Mount Everest habe ich nicht mehr so viel Druck wie hier.
+Das haben Sie auch schon einmal gehört, dass da die Luft ein bisschen dünn ist.
+und das Spiel werden wir uns
+in der nächsten Stunde anschauen
+ich wollte aber jetzt noch ganz kurz
+zum Abschluss der Stunde springen
+auf
+die für mich letzte Folie
+beziehungsweise Sie brauchen da gar nichts
+groß zu machen, ich lasse es da stehen
+vielleicht noch ganz kurz, was haben wir heute
+gelernt und durchgenommen
+wenn ich nichts vergesse, ich habe ein bisschen über
+Dichte und spezifisches Volumen gesprochen
+ich habe Ihnen so eine Tabelle gezeigt
+die Unterschiede zwischen Gasen und Flüssigkeiten zeigt.
+Die ist total wichtig.
+Die würde ich Ihnen wirklich mitgeben.
+Kleines Ausdruck, wozu ich sagen kann, die brauchen Sie.
+Dann haben wir gesprochen über die Viskosität,
+als eine Größe, die Sie wahrscheinlich so noch nicht haben,
+mussten, sich mit auseinandersetzen mussten.
+Bei uns ist es dieses Eta.
+In dem Video, wenn Sie das Gefühl haben, Sie möchten es nochmal sehen,
+schauen Sie sich das Video nochmal an.
+Dann haben wir uns kurz eingetaucht in das Thema Hydrostatik, bei der Gewichtskräfte vernachlässigt werden.
+Und dabei haben wir uns ganz kurz diese Mini-Aufgabe der Hebebühne angeschaut.
+Sehr unwahrscheinlich, dass ich Sie die Hebebühne frage in der Klausel.
+Es ging mir damit nur einmal darum, kurz zu zeigen, wie so eine Rechenaufgabe von der Punktesystem funktioniert.
+Und dann haben wir uns in der Hydrostatik mit Gewichtskräften unterhalten, dass das hydrodynamische Paradoxon, oder das hydrostatische Paradoxon, das paschalische Paradoxon gilt.
+Und das ist nichts anderes als dieses Bildchen hier.
+Wenn ich, wie gesagt, nochmal mitgeben möchte, das Ganze funktioniert nicht, wenn Sie jetzt hier unten die Dinger auf eine Waage stellen,
+Da wird natürlich hier unterschiedliche Gewichte gemessen auf ihrer Waage und auf die Kraftwirkung,
+weil sie nämlich den Rand der Flüssigkeit auch übertragen.
+Und hier muss man einfach sagen, das ist festgehalten.
+Es geht nur um die Kraft auf die Bodenfläche, nicht um die Kräfte auf die Wände.
+Deswegen ist das so ein bisschen eine Fangfrage.
+Nichtsdestotrotz, also haben wir hier viel besser mit Formel Beleg nochmal uns erarbeitet,
+dass der Druck in der Tiefe nur von der Tiefe selbst abhängt.
+Und da würden wir nächstes Mal dann weitermachen und noch eine kleine Rechnung zu der Hydrostatik machen.
+Dann geht es in die Aerostatik und ich wünsche Ihnen jetzt aber erstmal ein schönes Wochenende.
