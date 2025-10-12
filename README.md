@@ -114,6 +114,5 @@ Concept (DE) / Definition (ZH) / Example (DE/ZH) / Rule or Formula / Notes / Rel
 Module 3: Teacher Language Bank (15–25)
 #	Category	Expression (DE)	Meaning (ZH)	Pattern/Slots	Example (DE)	Example (ZH)	Pragmatics	Scene	Timestamp
 
-B. Machine-Readable JSON (inside a code block)
 ```
 
