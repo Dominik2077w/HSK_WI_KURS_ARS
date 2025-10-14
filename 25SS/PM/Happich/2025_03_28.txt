@@ -1,0 +1,875 @@
+[00:00:00.000 --> 00:00:04.000] Die Implementierung wird sich an die Implementierung, das wird relativ einfach.
+[00:00:04.000 --> 00:00:08.000] Und dann haben wir die einzelnen Teststufen und dann haben wir irgendwann die Validierung und Abnahme.
+[00:00:08.000 --> 00:00:10.000] Das hört sich an wie Test und Transfer.
+[00:00:10.000 --> 00:00:15.000] Und das ist so, das Baumodell ist grundsätzlich auch ein sehr stringentes Modell.
+[00:00:15.000 --> 00:00:17.000] Eins passiert nach dem anderen.
+[00:00:17.000 --> 00:00:26.000] Aber es gibt zwischen Verifikationen, und das ist, wenn man das mal hiermit vergleicht, ein riesiger Vorteil.
+[00:00:26.000 --> 00:00:36.000] Denn wenn mir hier auffällt, nur Testphase, dass ich eigentlich das, was ich mir gewünscht habe, gar nicht testen kann, da habe ich ein Problem.
+[00:00:36.000 --> 00:00:41.000] Ich habe mir gewünscht, ich hätte gerne einen fliegenden Traktor.
+[00:00:41.000 --> 00:00:47.000] Aber ich weiß überhaupt nicht, wie ich einen fliegenden Traktor testen kann, weil ich keinen Piloten-Traktor habe.
+[00:00:47.000 --> 00:00:49.000] Das habe ich mal komplett übertrieben gesagt.
+[00:00:49.000 --> 00:00:53.000] Dann kann ich das total toll durchmachen.
+[00:00:53.000 --> 00:00:59.000] Ich kann das Ding fertig entwickeln, aber es wird mir irgendwann auffallen, oh schitt, es gibt ja gar keinen, der das testet.
+[00:00:59.000 --> 00:01:10.000] Und hier kommt das Vaumodell, was die Möglichkeit bietet, von der Detailungstiefe, dass wir sehr grob anfangen und uns gleichzeitig schon die Frage stellen,
+[00:01:10.000 --> 00:01:16.000] wenn ich jetzt gerne einen fliegenden Traktor hätte, was brauche ich denn für meine Abnahme?
+[00:01:16.000 --> 00:01:22.000] Jetzt ist ein Teilkomponent von meinem fliegenden Traktor eine Turbine.
+[00:01:22.000 --> 00:01:31.000] Dann ist es Pflicht in meinem Vaumodell, wenn ich nach Vaumodellen entwickle, dass ich gleichzeitig zu der Spezifikation auch,
+[00:01:31.000 --> 00:01:36.000] und sprich dann von der Testspezifikation, dass ich das gleichzeitig mit aufstelle.
+[00:01:36.000 --> 00:01:44.000] Hat insofern den riesen Vorteil, dass wenn ich das Vaumodell auf einer Weite wieder hochlaufe, dass ich stufig agieren kann.
+[00:01:44.000 --> 00:01:52.000] Ich muss nicht wieder vorne anfangen, sondern wenn ich sagen kann, mein Komponententest hat komplett funktioniert,
+[00:01:52.000 --> 00:02:00.000] dann habe ich schon mal eine gewisse Grundlage dafür, um anzunehmen, welche Dinge muss ich in meinem Integrationstest eigentlich nicht mehr testen.
+[00:02:00.000 --> 00:02:04.000] Und das sind so ganz einfache Beispiele, ich komme jetzt mal wieder auf mein altes Leben zurück.
+[00:02:04.000 --> 00:02:13.000] Wenn wir ein neues Steuergerät haben, was bestimmte Stromausgänge, Leistungsausgänge und Nachrichtenausgänge hat,
+[00:02:13.000 --> 00:02:18.000] dann teste ich nicht im ganzen Fahrzeug, ob das funktioniert.
+[00:02:18.000 --> 00:02:25.000] Sondern weiß ich für meine bestimmte Fahrzeugfunktion, fahre geradeaus, brauche ich bestimmte Nachrichten,
+[00:02:25.000 --> 00:02:34.000] ich brauche bestimmte, also auf Cam, auf Protokoll, also auf Board, elektronische Nachrichten, die nicht SMS sind.
+[00:02:34.000 --> 00:02:42.000] Ich brauche bestimmte Leistung und ich brauche bestimmte analoge Ausgänge von meinen Steuern.
+[00:02:42.000 --> 00:02:47.000] Das heißt, ich kann von meinen Komponenten, die sagen, man steuerlich muss genau das können.
+[00:02:47.000 --> 00:02:52.000] Dann wird das Ganze umgesetzt und dann wird erst mal geguckt, ob das Steuergerät genau das kann.
+[00:02:52.000 --> 00:02:58.000] Kann es die Nachricht rausschieben, kann es die Spannung anhalten, kann es auch auf irgendwelche Peaks agieren,
+[00:02:58.000 --> 00:03:00.000] was auch immer dann nachher erforderlich ist.
+[00:03:00.000 --> 00:03:08.000] Der riesen Vorteil hiervon ist, dass wir wirklich einzelne Elemente nach Bedarf auf der Ebene testen,
+[00:03:08.000 --> 00:03:11.000] wo es am meisten Sinn noch und am wenigsten kaputt macht.
+[00:03:11.000 --> 00:03:14.000] Das ist der große Vorteil von Formen.
+[00:03:14.000 --> 00:03:17.000] Immer im Kopf behalten, natürlich hat das auch etwas mit Detail zu tun.
+[00:03:17.000 --> 00:03:22.000] Wenn ich das Ganze dann irgendwann validiere, und das ist der riesen Unterschied, ich komme gleich zum Board,
+[00:03:22.000 --> 00:03:30.000] dann ist das vom Detailgrad, was ich eigentlich testen kann, deutlich weniger, als wenn ich hier unten teste,
+[00:03:30.000 --> 00:03:33.000] funktioniert eigentlich die AIO aus von meinen Steuern.
+[00:03:33.000 --> 00:03:37.000] Wer kennt den Unterschied zwischen Validierung und Verifikation?
+[00:03:37.000 --> 00:03:42.000] Dann lernen wir heute viele Dinge, das ist sehr schön.
+[00:03:42.000 --> 00:03:49.000] Also, Verifikation bedeutet, ich teste gegen harte Werte.
+[00:03:49.000 --> 00:03:54.000] Ich verifiziere, ob zum Beispiel ein bestimmter Spannungsbereich erreicht wird.
+[00:03:54.000 --> 00:03:59.000] Ich verifiziere, ob wenn ich auf einen Knopf drücke, eine Lampe angeht.
+[00:03:59.000 --> 00:04:05.000] Validierung ist deutlich mehr bewerten.
+[00:04:05.000 --> 00:04:11.000] Ich bewerte also, ob die Zeit zwischen, ich drücke auf meinen Knopf und irgendwann geht ein Licht an,
+[00:04:11.000 --> 00:04:13.000] ob die mir gefällt.
+[00:04:13.000 --> 00:04:19.000] Und das ist auch der große Punkt, warum man hier von einer Validierung des Lastenhefts spricht.
+[00:04:19.000 --> 00:04:23.000] Wir hatten letzte Woche glaube ich schon das Thema Lastenheft, Pflichtenheft oder?
+[00:04:23.000 --> 00:04:25.000] Was stand im Lastenheft?
+[00:04:25.000 --> 00:04:31.000] Genau, und zwar in welcher Form am ehesten?
+[00:04:31.000 --> 00:04:34.000] Eher schwach oder eher ganz präzise?
+[00:04:34.000 --> 00:04:38.000] Präzise, genau, also genau 500 Teile pro Minute.
+[00:04:38.000 --> 00:04:41.000] Das ist tatsächlich eher eine Spezifikation.
+[00:04:41.000 --> 00:04:46.000] Beim Lastenheft sprechen wir eher von einem Buch und sagen,
+[00:04:46.000 --> 00:04:49.000] also das kann auch Teil des Lastenhefts sein.
+[00:04:49.000 --> 00:04:53.000] Aber rein von der Herangehensweise, das Lastenheft ist immer das,
+[00:04:53.000 --> 00:04:59.000] was will ich eigentlich haben und das Pflichtenheft ist das, wie setze ich das um?
+[00:04:59.000 --> 00:05:04.000] Ihr Beispiel war jetzt leider genau in der Mitte, weil 500 kann ich sehr gut messen.
+[00:05:04.000 --> 00:05:09.000] In dem Moment wäre wahrscheinlich ein Kundenwunsch, ich hätte gerne 500 Teile pro Minute.
+[00:05:09.000 --> 00:05:15.000] Und im Pflichtenheft wäre, mit welchem Motor, mit welcher Durchsatzzahl, mit welcher, keine Ahnung,
+[00:05:15.000 --> 00:05:19.000] Druck und was auch immer für physikalische Eigenschaften ich da nehme,
+[00:05:19.000 --> 00:05:21.000] so das ist genau der Punkt.
+[00:05:21.000 --> 00:05:27.000] Hier validiere ich gegen eine Wunschvorstellung und ich verifiziere gegen ganz konkrete Anlagen.
+[00:05:27.000 --> 00:05:28.000] Ja?
+[00:05:28.000 --> 00:05:32.000] Gut, dazu noch ein paar Fragen.
+[00:05:32.000 --> 00:05:37.000] Dann gehen wir in das nächste Modell, Simultaneous Engineering.
+[00:05:37.000 --> 00:05:40.000] Sie sehen schon eine gewisse Ähnlichkeit.
+[00:05:40.000 --> 00:05:43.000] Zu welchem?
+[00:05:43.000 --> 00:05:45.000] Wir haben erst zwei.
+[00:05:45.000 --> 00:05:46.000] Ist auch im Grunde das gleiche.
+[00:05:46.000 --> 00:05:55.000] Wir sprechen hier von Simultaneous Engineering, weil wir Simultaneous mehrere Phasen machen können.
+[00:05:55.000 --> 00:05:57.000] Sieht sich wie folgt aus.
+[00:05:57.000 --> 00:06:01.000] Wir haben, das ist ein Pflichtenheft, ein Brustfaser etc.
+[00:06:01.000 --> 00:06:11.000] Und das, was wir sehen, ist hier, ich glaube, das ist ein Pfeil, das ist ein Pfeil,
+[00:06:11.000 --> 00:06:19.000] eine Phasenüberlappung.
+[00:06:19.000 --> 00:06:32.000] Was passiert hier also?
+[00:06:32.000 --> 00:06:38.000] Ich bin mit dem Pflichtenheft ja nicht ganz fertig, aber bestimmte Dinge kann ich schon anfangen.
+[00:06:38.000 --> 00:06:43.000] Wir werden nachher Vorteile und Nachteile davon nochmal genau eingehen in der Übersicht.
+[00:06:43.000 --> 00:06:45.000] Ganz grob.
+[00:06:45.000 --> 00:06:51.000] Die riesen Vorteile dabei sind natürlich, wenn man das konsequent macht, hat man nach hinten raus,
+[00:06:51.000 --> 00:07:07.000] zumindest gegenüber Verkürzung, zumindest gegenüber Wasserfall eine Verkürzung.
+[00:07:07.000 --> 00:07:12.000] Ich glaube, jetzt habe ich gerade von der politischen Bitzin erzählt.
+[00:07:12.000 --> 00:07:16.000] Sie wissen ja, was ich meine.
+[00:07:16.000 --> 00:07:25.000] Also ich gewinne Zeit, in dem ich taktisch sinnvoll Phasen überlappen lasse.
+[00:07:25.000 --> 00:07:28.000] Die Chancen dabei sind klar.
+[00:07:28.000 --> 00:07:34.000] Ich kann deutlich früher schon realisierbare Aufgaben erarbeiten.
+[00:07:34.000 --> 00:07:40.000] Und kritische Inhalte kann ich auch schon in der Folge behandeln.
+[00:07:40.000 --> 00:07:47.000] Das heißt, wenn ich weiß, in einem bestimmten Arbeitspaket, da bin ich mir unsicher.
+[00:07:47.000 --> 00:07:51.000] Da weiß ich einfach nicht genau, ob das wirklich so klappt, wie es klappen soll.
+[00:07:51.000 --> 00:07:53.000] Aber ich habe schon alle Vorbedingungen gemacht.
+[00:07:53.000 --> 00:07:56.000] Dann kann man mit dieser Phase auch schon anfangen.
+[00:07:56.000 --> 00:07:58.000] Wir hatten letztes Mal das Thema Hausbau.
+[00:07:58.000 --> 00:08:02.000] Was wäre da für ein klassisches Anwendungsbeispiel?
+[00:08:02.000 --> 00:08:06.000] Dass man was vorzieht, obwohl die Phase davor noch nicht abgeschlossen ist?
+[00:08:23.000 --> 00:08:25.000] Kann man eigentlich auch alle Farben setzen?
+[00:08:25.000 --> 00:08:27.000] Nein, also alles muss auf Estrich.
+[00:08:27.000 --> 00:08:32.000] Also wenn ich zum Beispiel weiß, ich bin in meiner Planungsphase,
+[00:08:32.000 --> 00:08:39.000] ich habe aber schon im Hinterkopf, ich will auf jeden Fall mit Keller bauen.
+[00:08:39.000 --> 00:08:43.000] Ich weiß aber noch nicht genau, wie mein Dachstuhl aussieht.
+[00:08:43.000 --> 00:08:49.000] Dann kann ich durchaus schon so weit gehen und sagen, okay, für das, was ich bauen will,
+[00:08:49.000 --> 00:08:54.000] kann ich mir schon Angebote für das, was ich bauen will, ausbauen.
+[00:08:54.000 --> 00:08:57.000] Einfach, wenn es wüsste, dass das kritisch wäre.
+[00:08:57.000 --> 00:08:59.000] Keine Ahnung, ich baue im Wasserschutzgebiet.
+[00:08:59.000 --> 00:09:03.000] Da kann sich das ein bisschen länger hinziehen mit dem Bodenaushut.
+[00:09:03.000 --> 00:09:07.000] Das heißt, da schon vorzubereiten, ich kann den Bodenaushut machen,
+[00:09:07.000 --> 00:09:13.000] was definitiv in der Entierungsphase wäre, das kann ich schon in der Planungsphase machen.
+[00:09:14.000 --> 00:09:16.000] Das ist ein bisschen viel Text.
+[00:09:16.000 --> 00:09:20.000] Ich bitte um Entschuldigung, ich mache das nächste Mal wieder geschickt.
+[00:09:43.000 --> 00:09:46.000] Das ist ein bisschen viel Text.
+[00:10:13.000 --> 00:10:15.000] Das passt noch weiter, haben Sie?
+[00:10:15.000 --> 00:10:17.000] Der Nerv ist noch mal beschrieben.
+[00:10:25.000 --> 00:10:29.000] Also vielleicht der eine Punkt, der ich noch nicht richtig verstanden habe,
+[00:10:29.000 --> 00:10:33.000] ist, dass ich jetzt noch ein bisschen mehr mit dem Bodenaushut machen kann.
+[00:10:33.000 --> 00:10:35.000] Das ist ein bisschen viel Text.
+[00:10:35.000 --> 00:10:37.000] Das ist ein bisschen viel Text.
+[00:10:37.000 --> 00:10:39.000] Das ist ein bisschen viel Text.
+[00:10:40.000 --> 00:10:44.000] Also vielleicht der eine Punkt gegenüber den Vorteilen ist klar,
+[00:10:44.000 --> 00:10:48.000] ich kann bestimmte kritische Sachen vorziehen und ich kann bestimmte Dinge,
+[00:10:48.000 --> 00:10:53.000] bei denen ich weiß, dass sie länger brauchen oder vielleicht auch nicht zeitlich kritisch sind,
+[00:10:53.000 --> 00:10:57.000] sondern einfach auch unsicher war, kann ich natürlich schon gucken, geht das überhaupt?
+[00:10:57.000 --> 00:11:03.000] Also da bietet sich tatsächlich nicht so gut an, weil Hausbau sehr sequenziell ist,
+[00:11:03.000 --> 00:11:07.000] aber auch da kann man das wahrscheinlich irgendwo unterbringen.
+[00:11:08.000 --> 00:11:12.000] Relevant bei den Risiken, da gucken wir jetzt wirklich in unserer Linkspraxis,
+[00:11:12.000 --> 00:11:17.000] klassischerweise, auch da ein bisschen meine Vergangenheit und meine Erfahrung,
+[00:11:17.000 --> 00:11:21.000] das Thema kritische Ressourcen, wenn die in beiden Phasen benötigt werden.
+[00:11:21.000 --> 00:11:25.000] Also ich brauche, ich war tatsächlich nicht mal mein Klassiker.
+[00:11:25.000 --> 00:11:30.000] Ich brauche einen Tester, weil ich versucht habe, noch Frauen zu entwickeln,
+[00:11:30.000 --> 00:11:35.000] der hier schon in meiner Entwicklungsspezifikation sagen kann, ist das überhaupt testbar.
+[00:11:35.000 --> 00:11:43.000] Der war aber gleichzeitig in einem anderen Projekt schon im eigentlichen Test,
+[00:11:43.000 --> 00:11:45.000] musste also seinen Test durchführen.
+[00:11:45.000 --> 00:11:49.000] Das ist im Multi-Projektmanagement echt einer der Klassiker.
+[00:11:49.000 --> 00:11:52.000] Das gibt es aber auch in dem einen Projekt.
+[00:11:52.000 --> 00:11:55.000] Also wenn man wirklich sagt, man kriegt ein Projektteam zugeordnet,
+[00:11:55.000 --> 00:12:00.000] und das ist die gesamte Laufzeit von 2,5 Jahren oder was auch immer, bleibt es immer gleich.
+[00:12:00.000 --> 00:12:06.000] Auch da, es ist immer wieder der gleiche Klassiker, dass man so kritische Persona hat,
+[00:12:06.000 --> 00:12:08.000] die ich immer wieder brauche.
+[00:12:08.000 --> 00:12:11.000] Die ich dann aber zum Beispiel auch freuchte um.
+[00:12:11.000 --> 00:12:14.000] Das bleibt immer beim Beispiel eines Testers.
+[00:12:14.000 --> 00:12:21.000] Ich habe eine bestimmte Funktion, die implementiere ich gerade.
+[00:12:21.000 --> 00:12:26.000] Und ich muss mal mit ihm reden, dass er sagen kann, wie kann man denn bestimmte Teile davon testen.
+[00:12:26.000 --> 00:12:33.000] Dieser gleiche Tester ist aber, weil er sehr gut ist, in dem gleichen Projekt wirklich schon im Test drin.
+[00:12:33.000 --> 00:12:38.000] Das passiert. Mit Entwicklern passiert das klassischerweise auch so, mit Konstrukteuren auch.
+[00:12:38.000 --> 00:12:42.000] Also man holt sich immer mal wieder einen Konstrukteur und sagt, geht das überhaupt?
+[00:12:42.000 --> 00:12:46.000] Ist das überhaupt so konstruierbar, ist das überhaupt produzierbar, ist das überhaupt fertigbar?
+[00:12:46.000 --> 00:12:50.000] Weil man es nicht besser weiß. Dafür gibt es Leute, die sich da richtig mit auskennen.
+[00:12:50.000 --> 00:12:53.000] Nur soll der ja gleichzeitig was anderes machen.
+[00:12:53.000 --> 00:12:59.000] Also das Problem daran ist, wenn man das als Absurdung freut, verlangsamt man das ganze Projekt,
+[00:12:59.000 --> 00:13:02.000] obwohl man eigentlich schneller sein will.
+[00:13:02.000 --> 00:13:05.000] Haben Sie schon mal was von geistigen Rüstzeiten gehört?
+[00:13:05.000 --> 00:13:11.000] Das ist super. Also machen wir ja je lauter das Vokabellernen.
+[00:13:11.000 --> 00:13:14.000] Also geistige Rüstzeit, Rüstzeit kennt man.
+[00:13:14.000 --> 00:13:20.000] Ich habe eine Rüstzeit um meine Drehmaschine, um da die ganzen Werkzeuge einzubauen und vorzubringen.
+[00:13:20.000 --> 00:13:24.000] Das ist eine Rüstzeit. Ich muss mich selber einpacken und den Deckel drauf machen.
+[00:13:24.000 --> 00:13:26.000] Das sind alles Rüstzeiten.
+[00:13:26.000 --> 00:13:33.000] Das Gleiche gibt es aber auch in dem Moment, wo man oder draußen im Maschinenpark.
+[00:13:33.000 --> 00:13:38.000] Wenn ich jetzt mal den Traktor rausfülle, dann muss ich den dementsprechend erstmal vorbereiten.
+[00:13:38.000 --> 00:13:46.000] Also andere Zappwelle drauf. Ich brauche einen anderen Kuchenkopf.
+[00:13:46.000 --> 00:13:50.000] Ich muss irgendwas mit dem Unterlegner einstellen.
+[00:13:50.000 --> 00:13:56.000] Das sind Rüstzeiten. Also Zeiten, die ich nicht produktiv arbeite, aber die trotzdem notwendig sind,
+[00:13:56.000 --> 00:13:58.000] weil ich sonst gar nicht arbeiten kann.
+[00:13:58.000 --> 00:14:01.000] Das gibt es auch, wenn man theoretische Sachen hat.
+[00:14:01.000 --> 00:14:06.000] Also klassischerweise Konstrukture, Designer, Entwickler, wie auch immer.
+[00:14:06.000 --> 00:14:10.000] Die halt mehr am Computer arbeiten.
+[00:14:10.000 --> 00:14:16.000] Der Geist braucht einen Moment, manchmal auch ein bisschen länger, um in eine Aufgabe reinzusteigen.
+[00:14:16.000 --> 00:14:19.000] Also um da reinzugehen. Um damit überhaupt anzufangen.
+[00:14:19.000 --> 00:14:22.000] Und das ist die sogenannte Geistgeburt-Rüstzeit.
+[00:14:22.000 --> 00:14:31.000] Das heißt, wenn ich jetzt hier die Tür aufreiße und jetzt rüstere, ich sage Ihnen, Sie müssen mir jetzt eine Matheaufgabe in 5 Minuten lösen.
+[00:14:31.000 --> 00:14:36.000] Dann werden Sie auch sagen, ja, Rüst. Also A, finden Sie das sowieso doof.
+[00:14:36.000 --> 00:14:39.000] Und B, okay, da muss ich mich jetzt erstmal reinlegen.
+[00:14:39.000 --> 00:14:43.000] Ich war hier gerade im tollsten Fach der Welt, nämlich Projektmanagement, und jetzt soll ich auf einmal Mathe machen.
+[00:14:43.000 --> 00:14:46.000] Das ist völlig anders. Und genau so ist es.
+[00:14:46.000 --> 00:14:52.000] Ob das sorgt für diese massiven, zum Teil wirklich massiven Verlangsamungen, weil man die Leute aufhält.
+[00:14:52.000 --> 00:14:58.000] Wir werden im Bereich des Agilen Projektmanagements auch sehen, dass es da Ansätze gibt, wie man das komplett auflöst.
+[00:14:58.000 --> 00:15:04.000] Selbstorganisation ist da ein wichtiges Thema. Das ist im klassischen Projektmanagement nicht vorhanden.
+[00:15:04.000 --> 00:15:08.000] Da wird eine Aufgabe zugeordnet und sie muss gemacht werden.
+[00:15:08.000 --> 00:15:13.000] Und wenn man ein guter Projektmanager ist, dann holt man die Leute nicht einfach aus ihren Gedankenlängen raus.
+[00:15:13.000 --> 00:15:18.000] Und wenn man Assi ist, dann reißt man jedes Mal die Tür auf und sagt, sie ist auch jetzt genau das von dir.
+[00:15:18.000 --> 00:15:21.000] Und man hat ganz freundliche Mitarbeiter, weil die nie fertig werden.
+[00:15:21.000 --> 00:15:24.000] Und dann nachher angucken und sagen, du hast mich ja die ganze Zeit gestört.
+[00:15:24.000 --> 00:15:28.000] Klassiker ist dann übrigens der Rassist.
+[00:15:28.000 --> 00:15:32.000] Also, als ob man sich da noch wehren könnte, wenn man sowieso schon gestört wurde.
+[00:15:32.000 --> 00:15:34.000] Aber gut, passen wir an.
+[00:15:34.000 --> 00:15:38.000] Ander Punkt, wenn wir Wechselwirkungen haben.
+[00:15:38.000 --> 00:15:44.000] Also da ist eine sehr, sehr, man muss schon vorsichtig sein, wenn wir Elemente aus der heutigen Phase haben,
+[00:15:44.000 --> 00:15:50.000] die direkt auf die vorherige Phase wirken können, dann sollte man vorsichtig sein, auch wenn man das schon vorzieht.
+[00:15:50.000 --> 00:15:58.000] Also wenn ich Klassiker, bleiben wir beim Hausbau, wenn ich eigentlich meinen Rundraum noch nicht fertig habe in der Planung,
+[00:15:58.000 --> 00:16:01.000] aber hier redest du schon mit dem Elektriker, wo er seinen Steckloch nicht sieht.
+[00:16:01.000 --> 00:16:04.000] Und seine Wehrhohnacht und die Wand aufreißt und das auch immer.
+[00:16:04.000 --> 00:16:10.000] Kann das dafür sorgen, dass wenn ich dann feststelle, ich muss die Sende komplett anders setzen, statisch.
+[00:16:10.000 --> 00:16:15.000] Dann bringt der Elektriker einem wahrscheinlich mit dem nackten D6 rein, so es gut aussieht.
+[00:16:15.000 --> 00:16:19.000] Das sind die Dinge, die da passieren können.
+[00:16:19.000 --> 00:16:21.000] Also da immer so richtig vorsichtig sein.
+[00:16:21.000 --> 00:16:29.000] Simultaneous Engineering hat viel Vorfahren, wird oft in den Himmel gelogen, hat aber auch massive Nachteile, wenn man es falsch macht.
+[00:16:29.000 --> 00:16:33.000] Man muss einfach, mach ich mal das ganz einfach, ich bin immer am Leben, man muss es verdrückt machen.
+[00:16:35.000 --> 00:16:37.000] Dann gibt es noch den inkrementellen Wasserfall.
+[00:16:37.000 --> 00:16:42.000] Sie sehen schon in dem, wie es hier steht, also wir haben eine inkrementelle Bearbeitung.
+[00:16:42.000 --> 00:16:49.000] Wir gehen im Grunde, ich habe es vorhin schon dargestellt, dieses inkrementelle Verfahren, man entwickelt Teile fertig.
+[00:16:49.000 --> 00:16:54.000] Man hat Anforderungen, also man hat aus einer Anforderung bildet man ab den einen Teil.
+[00:16:54.000 --> 00:17:02.000] Wenn der dann abgeschlossen ist, geht man nochmal in eine neue Anforderungsanalyse für den zweiten Teil.
+[00:17:02.000 --> 00:17:05.000] Sie haben es eben schon sehr treffend gesagt, wenn viele Unbekannte da sind.
+[00:17:05.000 --> 00:17:11.000] Und man die Entscheidung, was sind denn eigentlich die Anforderungen, wenn man den zweiten Schritt erst treffen kann,
+[00:17:11.000 --> 00:17:15.000] wenn man den ersten Schritt abgeschlossen hat, dann ist das genau das richtige Vorgehen.
+[00:17:16.000 --> 00:17:19.000] Hat Barbara, was glauben Sie, was hat es am Nachteil?
+[00:17:23.000 --> 00:17:25.000] Dass man die Zeiten nicht genau hinschaut.
+[00:17:25.000 --> 00:17:27.000] Genau, das ist genau der Punkt.
+[00:17:27.000 --> 00:17:34.000] Bei so einem Modell, wenn man so einen Ansatz fährt, muss man extrem auf Zack sein.
+[00:17:34.000 --> 00:17:42.000] Und gerade im Bereich des Projektmanagements genau wissen, was das Projekt eigentlich erreichen soll.
+[00:17:42.000 --> 00:17:45.000] Also was sind meine Komplettanforderungen.
+[00:17:45.000 --> 00:17:51.000] Und auch soweit technisch Einblick haben und zumindest ein bisschen Background haben, um sagen zu können,
+[00:17:51.000 --> 00:17:53.000] hey irgendwann ist das jetzt mal gut.
+[00:17:54.000 --> 00:17:58.000] Sie sind alle Ingenieure, was ist denn, also ich habe noch ein paar Theorien dazu,
+[00:17:58.000 --> 00:18:03.000] was denn eine Kerneigenschaft ist, die gelöst ist, wenn da ein Problem löst.
+[00:18:03.000 --> 00:18:09.000] Ich glaube, dass die meisten, wenn sie was lösen wollen, dann ist das richtig.
+[00:18:10.000 --> 00:18:12.000] Und das ist gar nicht schlecht.
+[00:18:13.000 --> 00:18:15.000] Es ist nur oft nicht hilfreich.
+[00:18:15.000 --> 00:18:19.000] Weil wenn man irgendwas richtig gut machen will, dann vergisst man einfach die Zeit.
+[00:18:21.000 --> 00:18:24.000] Und das ist etwas, was ein Projektmanagement will.
+[00:18:24.000 --> 00:18:29.000] Dann nachher noch zu Anforderungen ans Projektmanagement kommen, wo man halt ein bisschen vorsichtig sein muss.
+[00:18:29.000 --> 00:18:34.000] Also das Ding sehr gut, wenn der Projektleiter genau weiß, was er will.
+[00:18:35.000 --> 00:18:39.000] Und dementsprechend auch jedem Entwickler sagen kann, das ist total gut, aber jetzt ist gut.
+[00:18:39.000 --> 00:18:41.000] Das ist jetzt gut.
+[00:18:41.000 --> 00:18:46.000] Das heißt aber auch, dass das Projektmanagement hier in der Anfangsphase mit Anforderungsprofil erstellt.
+[00:18:46.000 --> 00:18:48.000] Ich will das extrem genau sagen.
+[00:18:48.000 --> 00:18:54.000] Um sagen zu können, lieber Entwickler Hans-Nieter, das ist schön und gut, dass du hier noch einen Leutrahmen haben willst.
+[00:18:54.000 --> 00:18:57.000] Aber den brauchen wir nicht. Der war nicht Teil der Anforderungen.
+[00:18:58.000 --> 00:19:02.000] Erfahrene Leute können da richtig gut mit arbeiten.
+[00:19:02.000 --> 00:19:04.000] Gerade wenn es um unbekannte Dinge geht.
+[00:19:04.000 --> 00:19:08.000] Also da ist so ein inkrementelles Projektmanagement ziemlich cool.
+[00:19:08.000 --> 00:19:11.000] Sie sehen aber an der Aufstellung, da auch was ich dazu geschrieben habe,
+[00:19:11.000 --> 00:19:15.000] Inhalt, Umfang und Bearbeitungszeit wird immer, immer vorgeplant.
+[00:19:15.000 --> 00:19:18.000] Wir sprechen also immer noch von einem klassischen Projektmanagement.
+[00:19:21.000 --> 00:19:23.000] Dann gibt es noch das Spiralmodell.
+[00:19:23.000 --> 00:19:26.000] Auch hier haben wir ein bisschen, gehen wir gleich zum Textbuch.
+[00:19:27.000 --> 00:19:32.000] Zwei Dinge. Das eine ist die Herangehensweise als solche.
+[00:19:32.000 --> 00:19:38.000] Ich neige dazu zu sagen, dass das Spiralmodell auch ein inkrementelles Vorgehen ist,
+[00:19:38.000 --> 00:19:41.000] weil immer wieder die gleichen Phasen durchlaufen werden.
+[00:19:41.000 --> 00:19:45.000] Sie sehen es hier, wir haben eine Anforderungsphase, wir haben eine Konzeptphase, wir haben ein Prototyp.
+[00:19:45.000 --> 00:19:50.000] Dann haben wir wieder eine Anforderungsphase, dann haben wir eine Entwicklungsplane, dann haben wir wieder ein Prototyp.
+[00:19:50.000 --> 00:19:54.000] Dann haben wir einen Grunddesign und so weiter und so fort.
+[00:19:55.000 --> 00:20:03.000] Was mit diesem Spiralmodell gemeint ist, ist wie gesagt sehr ähnlich dem, was in einem inkrementellen Modell.
+[00:20:03.000 --> 00:20:06.000] Und jetzt warte ich kurz, bis Sie das abgeschrieben haben.
+[00:20:24.000 --> 00:20:35.380] Das ist heute nicht
+[00:20:54.000 --> 00:21:04.480] Cool.
+[00:21:24.000 --> 00:21:36.360] M quant roof
+[00:21:36.360 --> 00:21:47.640] spieleba ich angle
+[00:21:47.640 --> 00:21:54.920] starter
+[00:21:54.920 --> 00:22:03.200] router
+[00:22:03.200 --> 00:22:17.880] shed
+[00:22:17.880 --> 00:22:42.880] Aber erstmal zur Bewertung von dem Modell.
+[00:22:42.880 --> 00:22:47.880] Einmal klassisch Software, ich sollte da nochmal die Frage stellen, warum.
+[00:22:47.880 --> 00:22:59.880] Zwei wichtige Dinge, die in diesem Modell schon implementiert sind, ist diese Risikobetrachtung in jedem Zyklus.
+[00:22:59.880 --> 00:23:07.880] Ich überlege gerade, wie man das so machen kann.
+[00:23:07.880 --> 00:23:14.880] Ich glaube, PDCA sagt hier noch etwas.
+[00:23:14.880 --> 00:23:19.880] Plan, Do, Control, Act.
+[00:23:19.880 --> 00:23:26.880] Das ist kein PM-Modell, das ist eher ein Organisationsmodell, geht aber in die gleiche Richtung.
+[00:23:26.880 --> 00:23:38.880] Was beinhaltet das? Man hat eine Struktur, dass man für jeden einzelnen Schritt in seinem Entwicklungszyklus plant, was man machen will, das Ganze tut.
+[00:23:38.880 --> 00:23:46.880] Dann kontrolliert, ob das man dann eigentlich erreichen wollte, mit dem gemachten Übereinstimmungs- und dann den Plan nochmal von vorne anfängt.
+[00:23:46.880 --> 00:23:49.880] Also nicht von vorne, sondern immer mit den Erweiterungsschritten, die man hat.
+[00:23:49.880 --> 00:23:54.880] Und das Gleiche steckt hier drin. Wir fangen an mit einer Anforderungsplanung und einem Konzept.
+[00:23:54.880 --> 00:24:01.880] Wenn wir dieses Konzept so erfüllen, macht man im besten Fall auch schon gleich einen Mock-up.
+[00:24:01.880 --> 00:24:03.880] Da wird dann von Mock-up gesprochen.
+[00:24:03.880 --> 00:24:09.880] Wenn wir das genauso machen, geht das dann eigentlich schon in die richtige Richtung.
+[00:24:09.880 --> 00:24:14.880] Und erst, wenn man sagt, das passt, dann geht man in die nächste Schraube rein.
+[00:24:14.880 --> 00:24:17.880] Was heißt das denn jetzt für ein Modell?
+[00:24:17.880 --> 00:24:20.880] Es gibt noch einen anderen Ansatz, Design Thinking.
+[00:24:20.880 --> 00:24:21.880] Vielleicht schon mal was von gehört.
+[00:00:00.000 --> 00:00:06.000] Ich erinnere mich das jetzt mal ganz konkret vor, wenn Sie, und deswegen, also es kommt klassisch aus der Softwareentwicklung,
+[00:00:06.000 --> 00:00:10.000] deswegen machen wir ein Softwareprojekt, Sie wollen eine App entwickeln.
+[00:00:12.000 --> 00:00:14.000] Was mache ich als Allererstes?
+[00:00:16.000 --> 00:00:26.000] Ich überlege mir, was diese App eigentlich tun soll, und ich überlege mir, was man, das perspektive Nutzer, dafür macht, in den einzelnen Schritten.
+[00:00:26.000 --> 00:00:34.000] Also ich muss mir die App irgendwie runterladen, das muss ich jetzt nicht weiter konzeptionieren, weil das ist vorgegeben, aber dann will ich etwas erreichen.
+[00:00:34.000 --> 00:00:39.000] Ich will zum Beispiel mit fünf Tasten drücken, irgendetwas kriegen.
+[00:00:39.000 --> 00:00:46.000] Keine Ahnung, ich mache mir eine tolle Broker-App und bin auf einmal der Geister am Broking-Markt.
+[00:00:46.000 --> 00:00:50.000] Also ich glaube, das an den Zeug nicht so sehr, aber lassen wir das außen vor.
+[00:00:50.000 --> 00:00:53.000] Also ich glaube nicht an Broking-Apps.
+[00:00:53.000 --> 00:00:58.000] Ich glaube sehr wohl an Broking, aber nicht an Apps, die das Ganze einfach machen sollen.
+[00:00:58.000 --> 00:01:05.000] Ich habe jetzt die Vorgabe, du Nutzer, fünf Klicks und danach 10.000 Euro mehr.
+[00:01:05.000 --> 00:01:10.000] Jetzt muss ich das Ganze erst mal designen und sage, okay, wie sieht das denn aus? Was muss dabei gemacht werden?
+[00:01:10.000 --> 00:01:22.000] Was muss jeder einzelne Klick, wenn ich das mal durchdesigne, in meinem Konzept, plane ich also auch, wenn ich da drauf drücke, passiert das, wenn ich da drauf drücke, passiert das, wenn ich da drauf drücke, passiert das.
+[00:01:22.000 --> 00:01:31.000] Und dann kommt mal so ein Prototyp, das klingt jetzt größer als es ist, dann wird einfach mal ein Reality-Check gemacht. Ist das wirklich so?
+[00:01:31.000 --> 00:01:42.000] Ist meine Annahme wirklich richtig, dass wenn ich auf den einen Knopf drücke und dann das passiert, dass das für mein Ziel Gewinnerziehung irgendwie hilfreich ist?
+[00:01:42.000 --> 00:01:47.000] Und erst wenn ich sagen kann, jawohl, also das Konzept, so geht es auf, so macht es Sinn, alles klar.
+[00:01:47.000 --> 00:01:52.000] Dann geht man erst in den nächsten Schritt und sagt, gut, dann fängt man jetzt mal an zu entwickeln.
+[00:01:52.000 --> 00:01:58.000] Dann sucht man sich mal die App-Entwickler, die haben das Ganze zusammengebaut, dann braucht man noch seine Backend-Entwickler, die haben das Ganze nach hinten rumsetzen,
+[00:01:58.000 --> 00:02:05.000] dann brauchen wir wahrscheinlich noch drei bis vierzehn Security-Ingenieure, dass auch das ganze Thema Krypto mit reinlopft, was auch immer da dahintersteckt.
+[00:02:05.000 --> 00:02:15.000] Das ist eine Annahme. Aber Prinzip verstanden. Wir gehen von klein, wir gehen von den Dingen aus, die wir vielleicht auch verstehen, einfach so zusammenskizzieren können
+[00:02:15.000 --> 00:02:22.000] und werden dann immer größer, aber auch immer konkreter. Und wie gesagt, das ist ein Modell aus der Softwareentwicklung.
+[00:02:22.000 --> 00:02:34.000] Sie werden nachher immer hier im Projektmanagement eine sehr schöne Statistik hören, und zwar implementierte Funktionen gegenüber genutzten Funktionen.
+[00:02:34.000 --> 00:02:47.000] Tatsächlich ist das gerade im Bereich Internet, wie man mal so will, und große Werkzeuge, ist es relativ statistisch erwiesen,
+[00:02:47.000 --> 00:02:54.000] dass in den Projekten, in den klassischen Projektmanagementmethoden rangegangen wurden, Dinge entwickelt wurden, die kein Mensch braucht.
+[00:02:54.000 --> 00:03:05.000] Und so ist es tatsächlich. Ich glaube, die Entwicklungmethoden haben sich ein bisschen verändert. Ich weiß nicht, ob das jetzt in beiden Seiten noch passt,
+[00:03:05.000 --> 00:03:18.000] aber ich komme noch aus einer Zeit, da ist Word sehr massiv umgestellt worden. Ich glaube, das war zu Windows-Zehn-Zeiten, müsste das gewesen sein.
+[00:03:18.000 --> 00:03:27.000] Und man hat am Anfang nichts wiederbekommen. Und es waren auch glaube ich ein Haufen Funktionen dabei, die auf der ganzen Welt kein Mensch braucht.
+[00:03:27.000 --> 00:03:35.000] Und um das zu umgehen, das war natürlich mehr Leistung. Gebringt kein Geld und hat viel gekostet, das hört sich irgendwie nicht nach so ein sinnvolles Business an.
+[00:03:35.000 --> 00:03:46.000] Um sowas nicht zu tun, wurden solche Modelle aufgestellt. Plan, do, control, act. Immer wieder überprüfen, ist das, was ich tue, ist das, was wir gemacht haben, eigentlich Zielfunkt.
+[00:03:46.000 --> 00:03:56.000] Das steckt dahinter. Fragen wir uns. Es ist ein kompliziertes Modell, aber eigentlich ist es sehr sinnvoll. Was glauben Sie denn, sind die größten Gefahrenleiter?
+[00:03:56.000 --> 00:04:16.000] Das ist auf jeden Fall eine der Gefahren, dass man zu schnell, wenn ich das Richtige in der Quote tue, dass man in Prototypen eigentlich schon zu schnell in die Details geht und sich dann daran verliert.
+[00:04:16.000 --> 00:04:28.000] Und dann die Details 15 Mal machen muss. Auf jeden Fall richtig.
+[00:04:28.000 --> 00:04:38.000] Das ist die Herausforderung, die Entwicklung sehr modern. Warum? Weil wir dauernd wieder Prototypen herstellen und das ganze Taschen ist.
+[00:04:38.000 --> 00:04:53.000] Gerade im mechanischen Bereich auf jeden Fall. Will ich gleich dazu sagen. Das kommt aus der Software und das wird in softwarenahen Industrien noch genutzt.
+[00:04:53.000 --> 00:05:04.000] Im Stahlbau kann man das, glaube ich, betrost in die Tonne treten, weil da der Prototypenbau einfach viel zu teuer ist. Auf jeden Fall.
+[00:05:04.000 --> 00:05:18.000] Es gibt aber noch einen Punkt. Geht in Richtung kostenexplosion aber aus einem völlig anderen Grund, den Sie eigentlich eben schon genannt haben, als es um die inkrementellen Utopien geht.
+[00:05:18.000 --> 00:05:28.000] Hier ist auch die Gefahr, dass man es immer noch mal besser machen will. Und noch mal besser machen will. Und noch mal besser machen will. Und noch mal und noch mal und noch mal besser machen will.
+[00:05:28.000 --> 00:05:41.000] Das funktioniert also nur extrem gut. Das funktioniert nur gut. Das schreibe ich jetzt einfach mal dazu. Wenn wir eine klare Projektkontrolle haben.
+[00:05:41.000 --> 00:06:05.000] Und noch viel wichtiger, klare Projektziele. Weil man findet immer noch irgendwas, was das Produkt geiler machen würde. Aber wenn man das so anfängt, wird man mit einem Projekt einfach nie fertig.
+[00:06:11.000 --> 00:06:31.000] Auch hier tatsächlich braucht es einen, der sehr genau weiß, was das Projekt eigentlich erfüllen soll. Deswegen gibt es das vor allem für Produktentwicklung tatsächlich.
+[00:06:31.000 --> 00:06:44.000] Weil man da ein Produkt hat. Also so ein Produkt kann man irgendwie als, da gibt es diesen schönen Begriff, das Customer Journey. Auch wenn das, ich bin kein Riesenfreund von Amazismen, das ist aber ein sehr cooler. Also der ist wirklich guter.
+[00:06:44.000 --> 00:06:57.000] Der schreibt, wie geht es mir als Konsum, wie geht es mir als derjenige, der dieses Produkt nachher kriegt. Was löst das denn hier aus? Wie fühlt sich das an? Was mache ich damit eigentlich?
+[00:06:57.000 --> 00:07:07.000] Je genauer jemand sagen kann, das ist das, was dieses Produkt macht, desto klarer kann man sagen, sind wir eigentlich auf Zielerreichungskurs oder sind wir irgendwo, ihr macht es halt besser.
+[00:07:07.000 --> 00:07:24.000] Gut, wir vergleichen einfach mal. Wasserfall ist auf jeden Fall super leicht, das spielt jeder Mensch, ist echt easy. Es ist strukturiert, wir haben die Qualität durch sogenannte Stage Gages.
+[00:07:24.000 --> 00:07:40.000] Stage Gage ist klar, zu jedem Abschluss einer Phase gibt es immer eine Kontrolle. Ist wirklich alles, was in dieser Phase gemacht werden sollte, ist das abgeschlossen.
+[00:07:40.000 --> 00:07:53.000] Wir hatten es vorhin am Anfang ganz kurz, Meilensteine, das sind klassischerweise Meilensteine. Projektphase XY abgeschlossen, Bums, Meilenstein, Projektabschluss, also Phasenabschluss, Meeting, was auch immer.
+[00:07:53.000 --> 00:08:00.000] Und in der wird dann gesagt, jawoll, das sind die 15 Punkte, die wir in der Phase erreicht haben wollen, hinter allem ist ein grüner Haken super.
+[00:08:00.000 --> 00:08:09.000] Wir haben eine klare Trennung, das ist schon ein Vorteil, klare Trennung zwischen, was ist eigentlich deine Anforderung, was sind deine Anwürfe, was sind die Implementierungen.
+[00:08:09.000 --> 00:08:20.000] Dann passiert nämlich das, was Sie hier gesagt haben, passiert dann nicht so schnell, weil ich wirklich weiß und abgesenkt mit habe, meine Anforderungen sind vollständig.
+[00:08:20.000 --> 00:08:33.000] Also hat durchaus riesen Vorteil. Nachzeit, es ist wirklich nur begrenzt, flexibel, Parallelisierung in Reihenfigur eigentlich nicht erwartbar und nicht gewollt.
+[00:08:33.000 --> 00:08:41.000] Und das ist der große große Nachteil von vielen dieser Modelle, denn eigentliche Bewertung vom Projekt passiert ganz am Ende.
+[00:08:41.000 --> 00:08:51.000] Und da gibt es ganz ganz schöne Geschichten zu, auch die ich nicht weiter groß eingehen will, da können Sie Ihre eigene Fantasie auch lassen.
+[00:08:51.000 --> 00:09:02.000] Das ist natürlich so, wenn ich im Grunde keine Kontrolle zwischendurch halten lasse, zum Beispiel so ein V-Modell, immer mal so Zwischenchecken, dann geht das überhaupt nicht, was ich da tue.
+[00:09:02.000 --> 00:09:10.000] Dann habe ich im größten Fall nachher etwas fertig entwickelt, was nicht funktioniert, kein Mensch braucht und einen Haufen Geld gekostet.
+[00:09:10.000 --> 00:09:13.000] Nicht nur das, was wir brauchen.
+[00:09:13.000 --> 00:09:31.000] Großer Punkt ist die Dokumentationslast, das habe ich jetzt eben im Lesesatz erwähnt, für jede dieser Events, die im klassischen Projektmanagement häufig sind, im Wasserfall, wahrscheinlich mit am häufigsten, habe ich natürlich viele Dokumentationen.
+[00:09:31.000 --> 00:09:38.000] Es muss klar sein, wenn ich meine Anforderungsphase abgeschlossen habe, muss auch irgendwer das ganze hingeschrieben haben, das sind alle unsere Anforderungen.
+[00:09:38.000 --> 00:09:43.000] Und ein anderer muss hingeschrieben haben, jawohl, alle diese Anforderungen sind auch richtig.
+[00:09:43.000 --> 00:09:45.000] Sehr viel Dokumentation.
+[00:09:45.000 --> 00:09:51.000] Das heißt, je kleiner das Projekt, desto schwieriger ist es um Stamm und Gebilde eigentlich zu arbeiten.
+[00:09:51.000 --> 00:10:01.000] V-Modell, ähnlich leicht, auch klar strukturiert.
+[00:10:01.000 --> 00:10:10.000] Hier ist die Qualität eigentlich noch ein bisschen geiler dargestellt, weil ich keine Stage-Games habe, in denen dann irgendjemand sagt, ja das scheint richtig zu sein, sondern es gibt ganz klare Verifikation.
+[00:10:11.000 --> 00:10:21.000] Es ist ganz klar, jawohl, hier ist dieser Detailgrad richtig erreicht und ist genau so wie wir es haben wollten, weil wir es getestet haben.
+[00:10:21.000 --> 00:10:30.000] Es steht nicht in irgendeinem Dokument, weil das Dokument so schön ist und wir sowieso Papier und Tinten mögen, sondern wir haben es richtig getestet und es funktioniert so wie wir uns das erwischen.
+[00:10:31.000 --> 00:10:42.000] Auch hier aber eine klare Trennung, das ist ein riesen Vorteil und wir haben auch da die beiden Nachteile, immer noch viel Dokumentation muss man sich schon überlegen, ob das sinnvoll ist.
+[00:10:42.000 --> 00:10:51.000] Hier sogar noch mehr Dokumentation als beim klassischen Wasserfall, weil ich ja auch noch diese Querverweise, ich muss ja schon dokumentieren, was teste ich während ich noch entwickle.
+[00:10:51.000 --> 00:10:58.000] Es ist schon ein bisschen mehr, es ist nicht so irgendwie, aber es ist schon mehr. Kommt tatsächlich sehr drauf an, wie gut die Firma das organisiert.
+[00:10:58.000 --> 00:11:06.000] Also es wird werden, wenn ihr es super organisiert, da ist wirklich auch der Tester gleich mit dabei und geht schon in die Spezifikation mit rein.
+[00:11:06.000 --> 00:11:15.000] Und ich kenne es wirklich so, dass wir versucht haben, zum Teil parallel Funktionsspezifikation und Testspezifikation gleichzeitig mal zu schreiben.
+[00:11:15.000 --> 00:11:18.000] Da saßen die beiden Leute beieinander und haben die beiden da mit geschrieben.
+[00:11:21.000 --> 00:11:28.000] Auch hier die Ergebnisbewertung haben wir erst am Ende. Das ist leider kundenrelevant, also die Anlegerung ist eigentlich erst am Ende.
+[00:11:28.000 --> 00:11:36.000] Wenn ich etwa traue und ich will keine Ahnung, ich will eine Kaffeemaschine haben und die braucht eigentlich nur 20 Jahren.
+[00:11:36.000 --> 00:11:41.000] Ich kenne die Notfallkaffeemaschine nicht, deswegen mag ich die jetzt für die Irre.
+[00:11:41.000 --> 00:11:49.000] Ich bin aber ein total geiler Hecht und entwickle mir eine 150 bar Kumpel für meine Kaffeemaschine, dann kann das sein, dass das total für die Katze ist.
+[00:11:49.000 --> 00:11:56.000] Und diese kundenrelevante Ergebnisbewertung, die Vanidierung, da brauchst du wirklich 150 bar, die kommt halt erst ganz am Ende.
+[00:11:56.000 --> 00:12:01.000] Weil wenn das einmal hingeschrieben ist und dieses Test war, dann kann man das alles schön wieder weiterentwickeln.
+[00:12:03.000 --> 00:12:09.000] SimulTennis Engineering haben wir gehabt. Wir haben diese Chancen darauf, den Zeitgewinn, das ist eine Menge wert.
+[00:12:09.000 --> 00:12:18.000] Wir können Risiken früher adressieren, auch das ist viel wert, aber mehr Aufwandsrisiko, weil nachträglich nochmal korrigiert wird, ist gefährlich, muss man aufwassen.
+[00:12:18.000 --> 00:12:24.000] Je mehr Erfahrung man hat, tatsächlich auch technische Erfahrung, desto besser kann man das untereinander nicht finden.
+[00:12:24.000 --> 00:12:31.000] Tatsächlich auch da genannt zu sagen, ein sehr guter Projektmanager, der keine Ahnung von den technischen Abhängigkeiten hat,
+[00:12:31.000 --> 00:12:39.000] dem die Aufgabe zu geben, nach einer erfolgreichen SimulTennis Engineering, wird schwierig. Da steckt nämlich schon Engineering drin.
+[00:12:40.000 --> 00:12:49.000] Das Spiralmodell ist strukturiert sinnvoll gerade für instabiler, für sich vielleicht sogar feinwändige Anforderungen.
+[00:12:49.000 --> 00:12:58.000] Es wird bewusst schrittweise konkretisiert, das heißt, man muss auch aufpassen, dass man nicht zu schnell zu tief in den Details geht.
+[00:12:58.000 --> 00:13:08.000] Auch da mehr Aufwand durch nachträgliche Korrekturen ist vorhanden und dieses schrittweise Vorgehen kann einfach Projektabschluss verzüglichen.
+[00:13:08.000 --> 00:13:12.000] Oft erlebt, dass das dann nicht funktioniert.
+[00:13:12.000 --> 00:13:28.000] Hier nochmal als Über-Sicht.
+[00:13:42.000 --> 00:13:49.000] submit
+[00:13:49.000 --> 00:13:55.000] submit
+[00:13:55.000 --> 00:14:06.000] submit
+[00:14:06.000 --> 00:14:32.300] Evenенных Alters exporting sofort durch die�litransportation sehr streng,
+[00:14:32.300 --> 00:15:00.300] ...
+[00:15:00.300 --> 00:15:02.300] Vielleicht noch einmal abschließend zu diesen Vorgehensmodellen.
+[00:15:02.300 --> 00:15:07.300] Ich habe es ja einleitend gesagt, wir haben uns jetzt nur die Phasenabhängigkeit angeguckt.
+[00:15:07.300 --> 00:15:11.300] Das Thema Vorgehensmodell ist ein bisschen mehrschulig.
+[00:15:11.300 --> 00:15:14.300] Denn, und auch das eigene Erfahrung.
+[00:15:15.300 --> 00:15:26.300] Egal wie gut ein noch so modernes Phasenmodell vielleicht für eine bestimmte Entwicklung passen würde,
+[00:15:26.300 --> 00:15:30.300] wenn das in der Organisation nicht abbildbar ist, funktioniert das nicht.
+[00:15:31.300 --> 00:15:34.300] Also wenn die Personen nicht da sind, funktioniert das nicht.
+[00:15:35.300 --> 00:15:38.300] In dem Moment, wo die Tools dafür nicht da sind, funktioniert das nicht.
+[00:15:39.300 --> 00:15:42.300] In dem Moment, wo wir zum Beispiel ein Spiralmodell fahren würden,
+[00:15:42.300 --> 00:15:47.300] die ganzen Prozesse drum herum, und das kenne ich tatsächlich dann ja auch aus meinem eigenen Leben,
+[00:15:47.300 --> 00:15:50.300] Software und Elektronikentwicklung und einem Maschinenbaukonzern.
+[00:15:51.300 --> 00:15:56.300] Wenn diese beiden aufeinander treffen, ist das geht nicht.
+[00:15:56.300 --> 00:16:00.300] Ich werde ganz am Ende der Vorlesung nochmal darauf eingehen, wo es um Hybridmodelle geht.
+[00:16:01.300 --> 00:16:04.300] Aber das gleich vorneweg. Das ist noch nicht das Gelbe vom Ei.
+[00:16:04.300 --> 00:16:07.300] Wenn ihr jetzt ein bisschen was über die Vorgehensmodelle gehört,
+[00:16:07.300 --> 00:16:12.300] immer im Hinterkopf behalten. Nachher muss das Ganze auch von einer gesamten Firma durchgemacht werden.
+[00:16:12.300 --> 00:16:16.300] Wenn Sie selber ein Projekt fahren, können Sie sich komplett selber entscheiden, welches Vorgehensmodell,
+[00:16:16.300 --> 00:16:20.300] welches Phasenmodell, die auch immer in dem Moment, wo eine Firma dahinter steckt,
+[00:16:20.300 --> 00:16:24.300] andere Interessen da sind, andere Abläufe dabei sind, andere Personen dabei sind.
+[00:16:24.300 --> 00:16:26.300] Es sind festgefahrene Prozesse dabei.
+[00:16:28.300 --> 00:16:33.300] Immer im Hinterkopf behalten, was ist denn das Projekt, was kann man damit noch machen,
+[00:16:33.300 --> 00:16:36.300] ohne gleich sagen zu müssen, das ist ja totaler Scheiß.
+[00:16:37.300 --> 00:16:40.300] Hier wird ja immer noch mal Wasserfall entwickelt, das ist ja totaler Blitz.
+[00:16:40.300 --> 00:16:42.300] Kenne ich auch solche alles natürlich.
+[00:16:42.300 --> 00:16:47.300] Jetzt, da habe ich schon mal ein bisschen drauf eingehört.
+[00:16:47.300 --> 00:16:52.300] Und da sind wir wirklich beim klassischen Projektmanagement.
+[00:16:52.300 --> 00:16:54.300] Hier reden sich die Pläne.
+[00:16:55.300 --> 00:17:00.300] Die Pläne wählen das Gesamtgerüst von meinem Projekt wieder.
+[00:17:00.300 --> 00:17:03.300] Das ist einer der Grundzüge vom klassischen Projektmanagement.
+[00:17:03.300 --> 00:17:07.300] Bevor wir mal dazu sagen, Pläne betreffen natürlich die Zukunft.
+[00:17:07.300 --> 00:17:10.300] Und Pläne, damit sie funktionieren, müssen detailliert sein.
+[00:17:10.300 --> 00:17:12.300] Ein guter Freund von mir hätte immer gesagt,
+[00:17:12.300 --> 00:17:14.300] der Plan ist ja dazu da, dass er nicht funktioniert.
+[00:17:14.300 --> 00:17:16.300] Da ist tatsächlich was dran.
+[00:17:16.300 --> 00:17:19.300] Weil ein Plan ist ja immer ein Plan und keine Realität.
+[00:17:22.300 --> 00:17:24.300] Die Phasen und Aufgaben sind eigentlich die Nimmungen.
+[00:17:24.300 --> 00:17:26.300] In aller Regel sind sie sekretär.
+[00:17:26.300 --> 00:17:31.300] Und wir haben als Projektmanager, das müssen wir uns schon darüber planen,
+[00:17:31.300 --> 00:17:34.300] wir sind wahrscheinlich die einzigen, die Aufgaben haben,
+[00:17:34.300 --> 00:17:36.300] die über alle Phasen hinweggehen.
+[00:17:36.300 --> 00:17:38.300] Hier sehen wir Qualitätsmanagement,
+[00:17:38.300 --> 00:17:41.300] Risikomanagement, Berichtsmanagement, Lieferanten,
+[00:17:41.300 --> 00:17:44.300] Verzeige, Nachforderungen, Dokumenten,
+[00:17:44.300 --> 00:17:48.300] Konfigurationsmanagement, Ätherusmanagement, Wissensmanagement.
+[00:17:48.300 --> 00:17:51.300] Das sind alles Aufgaben des Projektmanagers.
+[00:17:53.300 --> 00:17:57.300] Also der DoF kann ich auch sagen, der macht Spaß.
+[00:17:57.300 --> 00:17:59.300] Ist aber auch mordskomplex.
+[00:17:59.300 --> 00:18:01.300] Und hier muss man natürlich dazu sagen,
+[00:18:01.300 --> 00:18:04.300] je nach Firma gibt es da unterschiedliche Ausgestaltungen.
+[00:18:04.300 --> 00:18:11.300] Aber grundsätzlich sind das alles Aufgaben, die sich permanent über alle Phasen hinwegziehen.
+[00:18:11.300 --> 00:18:13.300] Die müssen Sie dann so nebenher machen.
+[00:18:13.300 --> 00:18:15.300] Zudem ist das Befugnungen immer nicht bezahlt.
+[00:18:15.300 --> 00:18:17.300] Wenn man dann doch nicht gerade Sachen aufhört,
+[00:18:17.300 --> 00:18:19.300] ich habe auch noch genug andere anzutun.
+[00:18:21.300 --> 00:18:23.300] Wir gucken einen Schritt weiter.
+[00:18:23.300 --> 00:18:25.300] Und zwar vor geht es um die Phasengeschreibung.
+[00:18:25.300 --> 00:18:29.300] Das ist das, wo wir jetzt im ersten Moment den Lieferungen haben.
+[00:18:29.300 --> 00:18:31.300] Das war alles noch zu groß.
+[00:18:31.300 --> 00:18:35.300] Was sind eigentlich Phasenmodelle im Projektmanagement?
+[00:18:35.300 --> 00:18:41.300] Das, was jetzt kommt, ist, dass wir schrittweise anhand des klassischen Projektmanagements
+[00:18:41.300 --> 00:18:44.300] durch die Projektmanagement-Phasen gehen.
+[00:18:44.300 --> 00:18:46.300] Projektmanagement-Phasen waren welche?
+[00:18:47.300 --> 00:18:49.300] Ich muss auch immer nachschreiben.
+[00:18:53.300 --> 00:18:55.300] Schwerter bitte.
+[00:18:55.300 --> 00:18:57.300] Initialisierung.
+[00:18:57.300 --> 00:18:59.300] Ja, dann noch die Definition.
+[00:19:00.300 --> 00:19:02.300] Kann ich gerade durch einen anderen kommen?
+[00:19:02.300 --> 00:19:04.300] Klarer Implementierung.
+[00:19:04.300 --> 00:19:06.300] Klarer Implementierung.
+[00:19:06.300 --> 00:19:08.300] Hatschung.
+[00:19:08.300 --> 00:19:10.300] Nein, klarer Steuerung.
+[00:19:10.300 --> 00:19:12.300] Hatschung. Das sind die Phasen.
+[00:19:12.300 --> 00:19:16.300] Implementierung ist dann mal eher eine spezifische Phase.
+[00:19:16.300 --> 00:19:18.300] Die gehen wir jetzt durch.
+[00:19:18.300 --> 00:19:20.300] Wir haben jetzt schon ein bisschen Theorie gemacht.
+[00:19:20.300 --> 00:19:22.300] Ein bisschen gute Dinge schon gehört.
+[00:19:22.300 --> 00:19:25.300] Und das, was wir jetzt in der nächsten Vorlesungstermin machen,
+[00:19:25.300 --> 00:19:27.300] ist, dass wir sukzessive durch das Projekt durchlaufen.
+[00:19:27.300 --> 00:19:29.300] Durch das Projekt.
+[00:19:29.300 --> 00:19:31.300] Ich habe schon mal angedroht, dass es mich freuen würde,
+[00:19:31.300 --> 00:19:33.300] wenn Sie sich selber schon ein bisschen was durch den Kopf geben lassen.
+[00:19:33.300 --> 00:19:35.300] Wir werden das gleich noch vertiefen.
+[00:19:37.300 --> 00:19:40.300] In der Initialisierung, und das machen wir jetzt einfach relativ schnell,
+[00:19:40.300 --> 00:19:43.300] es gibt den ersten Schritt der sogenannten Projekterteilung.
+[00:19:43.300 --> 00:19:47.300] Das wird ganz häufig durchmischt, so wie es sich hier erwirkt.
+[00:19:47.300 --> 00:19:53.300] Du bist doch jetzt der Projektmanager, der eigentlich zum Zeitpunkt der Projekterteilung
+[00:19:53.300 --> 00:19:55.300] überhaupt nichts gemacht hat.
+[00:19:55.300 --> 00:19:59.300] Projekterteilung heißt, jawohl, da gibt es eine Idee, die ist gut.
+[00:19:59.300 --> 00:20:02.300] Und lass uns mal drüber nachdenken, wie wir die machen können.
+[00:20:02.300 --> 00:20:04.300] Da ist aber keiner Projektmanager.
+[00:20:04.300 --> 00:20:06.300] Meiner persönlichen Manager.
+[00:20:06.300 --> 00:20:09.300] Was gibt es im Bereich der Projekterteilung?
+[00:20:09.300 --> 00:20:11.300] Einmal die Initialisierung, wie wir eben schon gesagt haben.
+[00:20:11.300 --> 00:20:13.300] Das Ziel ist relativ klar.
+[00:20:13.300 --> 00:20:15.300] Wir wollen irgendwie eine Entscheidung haben.
+[00:20:15.300 --> 00:20:17.300] Soll das überhaupt durchgeschöpft werden?
+[00:20:17.300 --> 00:20:20.300] Wonach bewertet man die Rundlage?
+[00:20:21.300 --> 00:20:26.300] Ressourcen und Budget zumindest für diese Initialisierung.
+[00:20:26.300 --> 00:20:29.300] Festlegung von Vorgehensmodellen.
+[00:20:29.300 --> 00:20:32.300] Tatsächlich macht man das in aller Regel schon sehr prügend.
+[00:20:32.300 --> 00:20:36.300] Wenn man nicht so gerade schweißt, wie man anfangen muss, weiß ich ja natürlich,
+[00:20:36.300 --> 00:20:40.300] wie die gesamte Planung, wie die gesamte Aufgestaltung daran langhangig.
+[00:20:40.300 --> 00:20:42.300] Kann man auch ändern.
+[00:20:42.300 --> 00:20:45.300] Über die Modelle komme ich ganz am Ende der Folgen zu.
+[00:20:45.300 --> 00:20:47.300] Es gibt dann mal so ein ganzes Kernteam.
+[00:20:47.300 --> 00:20:52.300] Kernteam, Stakeholder-Motivation, also Stakeholder-Management, Stakeholder-Motivation.
+[00:20:52.300 --> 00:20:54.300] Und Grundsatzkriven.
+[00:20:54.300 --> 00:20:57.300] Das ist so das, was wir als allererstes machen.
+[00:20:57.300 --> 00:21:00.300] Das sind die Ziele, die wir haben, wenn wir die Initialisierung machen.
+[00:21:00.300 --> 00:21:04.300] Wir wollen nachher wissen, grob wen und was brauchen wir dafür alles?
+[00:21:06.300 --> 00:21:08.300] Wie wollen wir das machen?
+[00:21:08.300 --> 00:21:11.300] Mit wem werden wir die nächsten Wochen darüber diskutieren?
+[00:21:11.300 --> 00:21:13.300] Thema Kernteam.
+[00:21:13.300 --> 00:21:17.300] Wer ist derjenige, dem wir hier auf die Schlappe treten können?
+[00:21:17.300 --> 00:21:20.300] Oder der uns als Stakeholder wirklich unterstützen wird?
+[00:21:20.300 --> 00:21:23.300] Und natürlich auch die Frage der generellen Risiken.
+[00:21:23.300 --> 00:21:26.300] Wozu empfänden Sie eigentlich?
+[00:21:26.300 --> 00:21:28.300] Was für Risiken hat dieses Projekt?
+[00:21:28.300 --> 00:21:30.300] Ganz, ganz grob.
+[00:21:30.300 --> 00:21:37.300] Auch hier ganz klar, wir werden immer genauer in diesen ersten beiden Phasen.
+[00:21:37.300 --> 00:21:40.300] Eigentlich sogar in den ersten drei Phasen werden wir immer genauer.
+[00:21:40.300 --> 00:21:43.300] Die Initialisierung ist wirklich noch mal ein sehr grobes.
+[00:21:43.300 --> 00:21:45.300] Machen wir das überhaupt?
+[00:21:45.300 --> 00:21:48.300] Die Herausforderung eben schon genannt.
+[00:21:48.300 --> 00:21:51.300] Der Projektgegenstand ist meistens noch ein bisschen vage.
+[00:21:51.300 --> 00:21:54.300] Kommunikation, Transparenz.
+[00:21:54.300 --> 00:21:59.300] Hier werden wir gleich ein kleines Spielchen machen, nämlich Stakeholder-Management.
+[00:21:59.300 --> 00:22:03.300] Da gibt es nämlich immer etwas zu finden.
+[00:22:03.300 --> 00:22:07.300] Und natürlich, nachher sind es alles Illusionen.
+[00:22:07.300 --> 00:22:10.300] Die wenigsten Projekte macht man mit Roboter.
+[00:22:10.300 --> 00:22:13.300] Also außer man baut Roboter.
+[00:22:13.300 --> 00:22:22.300] Das heißt aber auch, dass jeder, und ich betone wirklich jeder, selbst der noch so beste Freund,
+[00:22:22.300 --> 00:22:27.300] hat irgendeinen persönlichen Beweggrund, sich an diesem Projekt zu beteiligen.
+[00:22:27.300 --> 00:22:32.300] Und das ist mein persönlicher Tipp, den ich einfach jedem mitbiere,
+[00:22:32.300 --> 00:22:38.300] am Anfang einmal zu schlussendieren, damit man überhaupt mal eine Übersicht überwacht,
+[00:22:38.300 --> 00:22:44.300] wer sind die Spieler im Spiel und welche Motivation haben die eigentlich.
+[00:22:44.300 --> 00:22:48.300] Weil man dadurch relativ schnell für sich selbst, das muss man nicht an die große Glocke heben,
+[00:22:48.300 --> 00:22:51.300] würde ich auch keinem fehlen, aber sich mal so ein Schmierzettel zu machen,
+[00:22:51.300 --> 00:22:54.300] wer ist eigentlich hier in meinem Projekt, um mein Projekt um.
+[00:22:54.300 --> 00:23:00.300] Das ist echt hilfreich, weil man super vielen Konflikten einfach von vorne sich stellen kann,
+[00:23:00.300 --> 00:23:03.300] ohne dass sie entstehen müssen.
+[00:23:03.300 --> 00:23:06.300] Ohne ein wichtiges Konflikt noch nicht zu haben.
+[00:23:06.300 --> 00:23:09.300] Es gibt dann aber noch die ganz offizielle Methode. Was machen wir?
+[00:23:09.300 --> 00:23:13.300] Projektcheckbrief kümmern wir uns vielleicht heute noch vor, ich glaube nicht.
+[00:23:13.300 --> 00:23:19.300] Projektziele zwischen Team, Budget, Ressourcenbedarf, Chancen, Risiken, Zeitbedarf und Einschränkungen.
+[00:23:19.300 --> 00:23:23.300] Das Thema Kundenkubisierung finde ich super. Machen wir nicht den ersten Schritt,
+[00:23:23.300 --> 00:23:26.300] aber werden wir immer wieder in Projektwechsel und Befürchtungen einbauen.
+[00:23:26.300 --> 00:23:29.300] Das sind natürlich die Dinge Ergebnis, Qualität.
+[00:23:29.300 --> 00:23:34.300] Das sind, wieso steht das jetzt, unsere Methodik, weil das alles Elemente sind,
+[00:23:34.300 --> 00:23:38.300] die unser Projekt charakterisieren.
+[00:23:38.300 --> 00:23:45.300] Inhaltlich, von der Vorgehensweise und vom Aufbruch.
+[00:23:45.300 --> 00:23:51.300] Ich habe es Ihnen hier mal aufgefahren, dass was ich bei dieser mir immer wieder geholfen hatte,
+[00:23:51.300 --> 00:23:55.300] was ich noch nie in einem Projekt mehr als in einem Seminar gehört habe,
+[00:23:55.300 --> 00:23:58.300] tatsächlich dieses Mapping.
+[00:23:58.300 --> 00:24:02.300] Dass man sagt, wer sind denn eigentlich die Stakeholder an meinem Projekt?
+[00:24:02.300 --> 00:24:07.300] Können zum Beispiel sein Sponsor, Kohlegeber,
+[00:24:07.300 --> 00:24:15.300] also beilweite, entweder Oma oder Chef, einer von beiden.
+[00:24:15.300 --> 00:24:20.300] Auftraggeber, jetzt sind wir beim Hausbau, das ist immer die Frau oder halt Gemeinde.
+[00:24:20.300 --> 00:24:22.300] Immer der andere.
+[00:24:22.300 --> 00:24:26.300] Mitglieder Lenkungsausschuss, auch das bei größeren Projekten werden Sie merken,
+[00:24:26.300 --> 00:24:29.300] es gibt immer so eine Mehrstufigkeit.
+[00:24:29.300 --> 00:24:34.300] Kernteam, Lenkungsausschuss und dann kommt im Grunde schon das große Unternehmen.
+[00:24:34.300 --> 00:24:37.300] Auch da ist es wichtig, so ein bisschen mal ein Gefühl dafür zu kriegen,
+[00:24:37.300 --> 00:24:41.300] mit wem ist man hier eigentlich, wer rudert eigentlich in die gleiche Richtung
+[00:24:41.300 --> 00:24:43.300] und wer rudert in die Gegenrichtung.
+[00:24:43.300 --> 00:24:45.300] Und auf welcher Seite von Boden sitzen.
+[00:24:45.300 --> 00:24:48.300] Wenn Sie gegenüber sitzen, ist nicht schlimm, dreht man sich halt im Kasten.
+[00:24:49.300 --> 00:24:56.300] Lieferanten, Kunden, Eigentümer, gerade wenn es irgendwie unternehmensgeführte Projekte sind
+[00:24:56.300 --> 00:25:02.300] oder wenn es familiengeführte Unternehmen sind, da ist das Thema Eigentümer immer relevant.
+[00:25:02.300 --> 00:25:05.300] Gibt es irgendwelche Behörden, die da Aussicht haben?
+[00:25:05.300 --> 00:25:10.300] Haben wir einen Betriebsrat? Fachverantwortliche, Dingeverantwortliche?
+[00:25:10.300 --> 00:25:15.300] Tatsächlich ist ein Projektteam in aller Regel nicht stabil, sondern lebt für ein Projekt.
+[00:25:15.300 --> 00:25:24.300] Und Irgendwirstens. Ich würde garantieren, dass es sie immer gibt.
+[00:25:24.300 --> 00:25:27.300] Auf die eine oder andere Art und Weise.
+[00:25:34.300 --> 00:25:39.300] Und vielleicht auch da, dass ich da so drauf rumreite, da geht es mir gar nicht darum,
+[00:25:39.300 --> 00:25:42.300] dass ich irgendwie die ganz, ganz schlimmste Erfahrung gemacht hätte.
+[00:25:42.300 --> 00:25:49.300] Ich glaube, auch hier ist es einfach, nachher sind die meisten Projekte doch was Professionelles.
+[00:25:49.300 --> 00:26:00.300] Und ich tendiere dazu zu sagen, dass es extrem hilfreich ist, wenn man Professionalität auch von Persönlichkeit trennen kann.
+[00:26:00.300 --> 00:26:09.300] Und in dem Moment, wo wir über unseren Plan sind, wer hat denn eigentlich welchen Draht zu mir als Projektleiter?
+[00:26:09.300 --> 00:26:15.300] Wer ist ein potenzieller Neider und vor allem warum macht man sich ein Projekt?
+[00:26:15.300 --> 00:26:17.300] Viel, viel einfacher.
+[00:26:17.300 --> 00:26:22.300] Und das weiß jeder, der schon mal irgendwie einen Streit geschlickt hat, weil er wusste, dass er passiert.
+[00:26:22.300 --> 00:26:26.300] Dass man einfach von vornherein schon deeskalieren kann und sagt, ich weiß, dass du gleich hochdrehst.
+[00:26:26.300 --> 00:26:28.300] Und zwar aus dem und dem Grund.
+[00:26:28.300 --> 00:26:35.300] In aller Regel passiert dann folgendes, dass derjenige sich vor den Zutaten, ja stimmt, ich habe ja schon 180 Puls.
+[00:26:35.300 --> 00:26:37.300] Aber warum eigentlich? Und wieso weiß er das schon vorher?
+[00:26:37.300 --> 00:26:39.300] Durchaus so etwas.
+[00:26:39.300 --> 00:26:45.300] So kann so etwas dann aussehen, dass man wirklich sagt, okay, ich habe ein Projekt.
+[00:26:45.300 --> 00:26:51.300] Wer sind denn die einzelnen Stakeholder, Spitzehalter?
+[00:26:51.300 --> 00:26:53.300] Ich nenne die mal gerne, meine Spitzehalter.
+[00:26:53.300 --> 00:26:57.300] Das ist tatsächlich altes Pen-Spec.
+[00:26:57.300 --> 00:27:01.300] Und das ist der nächste Punkt, wir haben ja vielleicht auch noch Beziehung zueinander.
+[00:27:01.300 --> 00:27:05.300] Gerade hier unten, deswegen habe ich es mal reingespielt.
+[00:27:05.300 --> 00:27:09.300] Ich habe ein Projekt, in dem ich irgendetwas haben will.
+[00:27:09.300 --> 00:27:12.300] Ich möchte einen Hydraulikzylinder haben.
+[00:27:12.300 --> 00:27:19.300] Jetzt spreche ich einerseits mit der Fachverantwortlichkeit Hydraulik, die den Referenten kennen.
+[00:27:19.300 --> 00:27:29.300] Und wenn dieser Fachverantwortliche mir gut gestellt ist, dann können wir am gleichen Strang ziehen und mit dem Referenten reden.
+[00:27:29.300 --> 00:27:41.300] Wenn das aber ein Fachverfassungsrecht ist, der mir im Grunde nur die Suppe verderben will, im besten Fall sogar neider ist, dann kann das da eine sehr gefährliche Beziehung werden.
+[00:27:41.300 --> 00:27:43.300] Für Sie ganz persönlich.
+[00:27:43.300 --> 00:27:53.300] So, und das was ich jetzt mal aufgemacht habe, ich habe Ihnen als Hausaufgabe schon mitgegeben, dass Sie sich über das eine oder andere vielleicht mal Gedanken machen würden.
+[00:27:53.300 --> 00:28:02.300] Sie haben jetzt die Aufgabe, wie gesagt, ich hoffe, dass Sie vielleicht schon irgendwas überlegt haben, wenn nicht, ist auch nicht tragisch.
+[00:28:02.300 --> 00:28:04.300] Nehmen Sie irgendwas.
+[00:28:04.300 --> 00:28:07.300] Wir haben eine Stakeholder-Map für Ihr Projekt.
+[00:28:07.300 --> 00:28:13.300] Das kann sein Hausbau, das kann sein Bassband, Bass für irgendwas.
+[00:28:13.300 --> 00:28:20.300] Das kann auch sein, ich will ein Dorn hier platzen, Haschelspreitweise, also all das was man so in normalen Wüten braucht.
+[00:28:20.300 --> 00:28:31.300] Und Sie haben jetzt gerade mal für 10 Minuten, können Sie sich auch zusammentun, 2-3 Gruppen, das ist mir relativ leicht, ich hätte gerne einen Projektnamen.
+[00:28:31.300 --> 00:28:37.300] Und wer sind denn die relevanten Stakeholder für so ein Projekt?
+[00:28:37.300 --> 00:28:42.300] Wenn wir nicht ganz so viel Zeit haben, machen wir 7 Minuten und dann reden wir einfach mal ein bisschen zur Worte.
+[00:28:43.300 --> 00:28:55.300] Also, 7 Minuten Projektnahme, wer ist da drum herum? Machen Sie es alleine, tun Sie sich zusammen, da sind alle Freiheiten gelegt.
+[00:28:55.300 --> 00:28:59.300] Kleiner Teaser, Sie werden im Laufe der Vorlesung sowieso zusammentun.
+[00:28:59.300 --> 00:29:01.300] Okay?
+[00:29:01.300 --> 00:29:03.300] Wir müssen mal von der Seite aus.
+[00:29:09.300 --> 00:29:11.300] Er tut Zuhörer.
+[00:29:27.300 --> 00:29:29.300] Ich habe keine Ahnung.
+[00:29:31.300 --> 00:29:33.300] Ich habe keine Ahnung.
+[00:29:56.300 --> 00:29:58.300] Was soll ich sagen?
+[00:29:59.300 --> 00:30:00.300] Was soll ich sagen?
+[00:30:00.300 --> 00:30:06.300] Du wirst eine Präsentation machen, du wirst nicht aufhören, direkt aufhören, du wirst nicht aufhören.
+[00:30:06.300 --> 00:30:13.300] Du wirst zu deinem Projekt reden, du wirst das machen, du wirst das machen, du wirst das machen.
+[00:30:13.300 --> 00:30:16.300] Ich habe keine Ahnung, was ich zu dem Projekt zu tun habe.
+[00:30:16.300 --> 00:30:18.300] Was soll ich sagen?
+[00:30:18.300 --> 00:30:21.300] 10 Minuten, warte mal, warte mal, jetzt warte mal.
+[00:30:21.300 --> 00:30:22.300] Wer soll es sagen?
+[00:30:22.300 --> 00:30:24.300] Das ist nicht unbedingt, es geht nicht um die Gruppe.
+[00:30:24.300 --> 00:30:26.300] In der Gruppe wird nur einer gesagt.
+[00:30:26.300 --> 00:30:28.300] Das ist nicht unbedingt, wenn nur einer gesagt wird.
+[00:30:28.300 --> 00:30:34.300] Wenn nur einer gesagt wird, dann sage ich es mit Jiang Zhu, ihr beide könnt euch alle bewegen.
+[00:30:34.300 --> 00:30:38.300] Wenn alle sagen, dann ist es auch nicht so, was ihr denkt.
+[00:30:38.300 --> 00:30:40.300] Was soll ich sagen?
+[00:30:40.300 --> 00:30:45.300] Das ist nichts zu tun, aber ein Projekt zu machen.
+[00:30:45.300 --> 00:30:48.300] Das ist das, was wir MEPs machen.
+[00:30:48.300 --> 00:30:51.300] Das ist das, was du mir in die Hände geschlagen hast.
+[00:30:51.300 --> 00:30:53.300] Das ist das, was ich machen will.
+[00:30:53.300 --> 00:30:54.300] Was machen Sie?
+[00:30:54.300 --> 00:30:59.300] Das ist das, was wir MEPs machen.
+[00:30:59.300 --> 00:31:02.300] Das ist das, was wir MEPs machen.
+[00:31:02.300 --> 00:31:05.300] Das ist das, was wir MEPs machen.
+[00:31:05.300 --> 00:31:07.300] Was haben Sie denn zu tun?
+[00:31:07.300 --> 00:31:08.300] Ich habe keine Ahnung.
+[00:31:08.300 --> 00:31:10.300] Wir müssen einfach mal was machen.
+[00:31:10.300 --> 00:31:12.300] Wollen Sie nicht die Fahrrad-Rolle machen?
+[00:31:12.300 --> 00:31:14.300] Ich will die Fahrrad-Rolle machen.
+[00:31:14.300 --> 00:31:16.300] Das ist das, was wir machen wollen.
+[00:31:16.300 --> 00:31:18.300] Das ist das, was Sie schon gemacht haben?
+[00:31:18.300 --> 00:31:20.300] Nein, das ist das, was wir machen wollen.
+[00:31:20.300 --> 00:31:22.300] Wir wollen das nicht machen.
+[00:31:22.300 --> 00:31:24.300] Ich werde es Ihnen sagen.
+[00:31:24.300 --> 00:31:26.300] Ich werde es Ihnen sagen.
+[00:31:29.300 --> 00:31:33.300] Du hast die Namen von dem Projekt schon aufgesprochen.
+[00:31:33.300 --> 00:31:34.300] Das ist das, was wir machen wollen.
+[00:31:34.300 --> 00:31:36.300] Das heißt, das Projekt ist die Fahrrad-Rolle.
+[00:31:36.300 --> 00:31:38.300] Nein, das, was ich verarschen kann, ist nicht ich.
+[00:31:38.300 --> 00:31:40.300] Das, was ich verarschen kann, ist die drei von euch.
+[00:31:40.300 --> 00:31:42.300] Ich finde es verarschen zu sein.
+[00:31:42.300 --> 00:31:44.300] Das ist nicht der Fall.
+[00:31:44.300 --> 00:31:46.300] Ich denke, das ist nicht der Fall.
+[00:31:46.300 --> 00:31:48.300] Das ist eine Hauptsache.
+[00:31:48.300 --> 00:31:50.300] Das ist nicht der Fall.
+[00:31:50.300 --> 00:31:52.300] Ich weiß nichts.
+[00:31:52.300 --> 00:31:54.300] Ich weiß nichts.
+[00:31:54.300 --> 00:31:56.300] Was sagst du?
+[00:31:56.300 --> 00:31:58.300] Ich kann dir nichts sagen.
+[00:31:58.300 --> 00:32:00.300] Was soll das Projekt sein?
+[00:32:00.300 --> 00:32:02.300] Das ist das, was Sie sagen wollen.
+[00:32:02.300 --> 00:32:04.300] Du solltest die Namen von dem Projekt sagen.
+[00:32:04.300 --> 00:32:06.300] Und die Details.
+[00:32:06.300 --> 00:32:08.300] Und auch deine eigenen Gedanken.
+[00:32:08.300 --> 00:32:10.300] Aber wir wollen jetzt
+[00:32:10.300 --> 00:32:12.300] das Projekt der Fahrrad-Rolle machen.
+[00:32:12.300 --> 00:32:14.300] Das ist das, was Sie sagen wollen.
+[00:32:14.300 --> 00:32:16.300] Das kann nicht vier Menschen in einer Gruppe sein?
+[00:32:16.300 --> 00:32:18.300] Das kann nicht.
+[00:32:18.300 --> 00:32:20.300] Das muss jeder so machen.
+[00:32:48.300 --> 00:32:50.300] Ich möchte ein Fahrrad z是我 Paremóriaヤ
+[00:32:50.300 --> 00:32:52.300] einmesanen.
+[00:32:52.300 --> 00:32:56.060] Wir Dünge sind
+[00:32:56.060 --> 00:32:58.300] die, die sagen,ESE
+[00:32:58.300 --> 00:33:02.300] Zوج
+[00:33:02.300 --> 00:33:04.300] 辛 hiring
+[00:33:04.300 --> 00:33:06.300] 5
+[00:33:06.300 --> 00:33:15.520] Zلم orbit
+[00:33:15.520 --> 00:33:18.520] Ich habe jetzt die Ersai, die Däden, die Däden.
+[00:33:18.520 --> 00:33:22.520] Die Wörter sind ein bisschen...
+[00:33:22.520 --> 00:33:24.520] Die Ersai, die...
+[00:33:24.520 --> 00:33:27.520] Du musst noch die Gehinsprache sprechen. Ich weiß die Wörter.
+[00:33:27.520 --> 00:33:29.520] Aber was ist die Ersai?
+[00:33:29.520 --> 00:33:33.520] Ich sage es nur, um zu sprechen.
+[00:33:33.520 --> 00:33:35.520] Die Wörter sind kein Problem.
+[00:33:35.520 --> 00:33:37.520] Ich habe nur deine Ersai gesprochen.
+[00:33:37.520 --> 00:33:39.520] Jetzt hast du es schon gesagt.
+[00:33:39.520 --> 00:33:41.520] In 10 Minuten hat es schon gesagt.
+[00:33:41.520 --> 00:33:43.520] Oh.
+[00:34:12.520 --> 00:34:14.520] Ich habe die Ersai gesprochen.
+[00:34:14.520 --> 00:34:15.520] Nein.
+[00:34:15.520 --> 00:34:17.520] Ich habe keine Ersai gesprochen.
+[00:34:17.520 --> 00:34:19.520] Ich habe die Ersai gesprochen.
+[00:34:19.520 --> 00:34:21.520] Du hast die Ersai gesprochen?
+[00:34:21.520 --> 00:34:22.520] Das ist deine Ersai?
+[00:34:22.520 --> 00:34:23.520] Ja.
+[00:34:23.520 --> 00:34:25.520] Warum ist deine Ersai so eng?
+[00:34:27.520 --> 00:34:29.520] Ich habe die Ersai gesprochen.
+[00:34:29.520 --> 00:34:31.520] Jetzt geht es los.
+[00:34:41.520 --> 00:34:43.520] Es ist zuraisal.
+[00:34:54.520 --> 00:34:56.520] Du kannst mich 99 wiederênioßen.
+[00:34:56.520 --> 00:34:58.520] Sie sind mir diecar решил, walkschuhe.
+[00:34:58.520 --> 00:35:02.520] Okay muss man noch schnellambul fueled sein.
+[00:35:02.520 --> 00:35:05.520] Dass ich dich so oft versuche, mich zu Landsein competed.
+[00:35:05.520 --> 00:35:06.520] Ich auch.
+[00:35:06.520 --> 00:35:08.520] Du auch.
+[00:35:08.520 --> 00:35:12.520] Ich gehe heute Abend nach Hause.
+[00:35:13.520 --> 00:35:18.520] Ich gehe heute Abend nach Hause.
+[00:35:28.520 --> 00:35:32.520] Ich gehe heute Abend nach Hause.
+[00:35:38.520 --> 00:35:52.440] Also wir machen jetzt ein folgendes Vorgehen und zwar relativ einfach. Also Projektname ist mir so im Nachhinein
+[00:35:52.440 --> 00:35:59.280] aufgegangen, ist nicht so richtig cool, weil sie können jetzt irgendeinen Namen vergeben und was auch immer mal mit verbinden.
+[00:35:59.280 --> 00:36:03.800] Vielleicht deswegen mal so in den einzelnen Gruppen, ich würde gerne mal rausführen, was haben wir jetzt alle Gruppen?
+[00:36:03.800 --> 00:36:11.320] Sie haben zu dritt, sie beide, alleine, jeweils zwei Gruppen, wenn ich das richtig gesehen habe.
+[00:36:11.320 --> 00:36:17.240] Sie haben zusammen oder sind das zwei Gruppen? Eine oder zwei Gruppen? Zusammen.
+[00:36:17.240 --> 00:36:25.400] Ich hätte es jetzt gerne, dass jede Gruppe mal ganz kurz beschreibt, was das Produkt ist oder was das Projekt ist.
+[00:36:26.280 --> 00:36:33.520] Und vielleicht so was sind die fünf relevanten Stakeholder, die dazu aufkommen.
+[00:36:33.520 --> 00:36:37.360] Und ich würde einfach, wenn das okay ist, bei Ihnen hinten anfangen.
+[00:36:55.400 --> 00:37:20.680] Was sind dann so die relevanten Stakeholder?
+[00:37:20.680 --> 00:37:33.180] Ein Ein inn船 cierto eben ichAnlass
+[00:37:50.680 --> 00:37:51.680] Ja?
+[00:38:20.680 --> 00:38:22.680] Ja, das ist ein bisschen...
+[00:38:26.680 --> 00:38:30.680] ...wenn man so weiter denkt, ist das durchaus für alle.
+[00:38:30.680 --> 00:38:32.680] Also, alle schön mitdenken, das ist jetzt ganz wichtig.
+[00:38:33.680 --> 00:38:35.680] Für Hörn, ne?
+[00:38:36.680 --> 00:38:37.680] Keiner hat ziemlich...
+[00:38:37.680 --> 00:38:39.680] ...schöne Kile.
+[00:38:39.680 --> 00:38:41.680] Also, wenn man das mit dem Hörn...
+[00:38:41.680 --> 00:38:42.680] ...ich bin jetzt...
+[00:38:43.680 --> 00:38:46.680] ...jetzt mal ganz viertel ab, weil das hier die Studenten macht.
+[00:38:46.680 --> 00:38:48.680] Ja, das ist ja schon ein bisschen...
+[00:38:51.680 --> 00:38:53.680] ...ein bisschen wie ein Schleif.
+[00:38:59.680 --> 00:39:01.680] Mich...
+[00:39:01.680 --> 00:39:03.680] ...und der Freund, ja.
+[00:39:03.680 --> 00:39:05.680] Meine Freunde haben das auch.
+[00:39:06.680 --> 00:39:08.680] Und dann kann ich es auch anderen mitnehmen.
+[00:39:09.680 --> 00:39:11.680] So kann ich...
+[00:39:11.680 --> 00:39:13.680] ...mit dem Hörn...
+[00:39:13.680 --> 00:39:15.680] ...mit dem Hörn...
+[00:39:16.680 --> 00:39:18.680] ...ja.
+[00:39:21.680 --> 00:39:25.680] Und, ja, die Staycoilern, aber wichtigste Coilern, die Täter Hamster.
+[00:39:25.680 --> 00:39:26.680] Ja.
+[00:39:26.680 --> 00:39:28.680] Dann die Hamster Halfter.
+[00:39:30.680 --> 00:39:32.680] Also, das ist ja irgendwo auf der Kunde da.
+[00:39:32.680 --> 00:39:35.680] Dann die Tierschutzorganisationen.
+[00:39:37.680 --> 00:39:41.680] Hamster Schichter, bei mir und das Verleger sind wir gerade auch so ein Konzeptpaket...
+[00:39:41.680 --> 00:39:44.680] ...verkaufen mit Hamster und Ladekabel.
+[00:39:44.680 --> 00:39:48.680] Ja, das ist ja auch ein Züchter- oder auch ein Käfig- und Aufwachthersteller.
+[00:39:49.680 --> 00:39:51.680] Und wir haben auch ganz andere Schäden.
+[00:39:52.680 --> 00:39:53.680] Äpfel.
+[00:39:53.680 --> 00:39:54.680] Äpfel, ja, sehr gut.
+[00:39:54.680 --> 00:39:56.680] Ja, ich meine, auch da...
+[00:39:56.680 --> 00:39:58.680] ...die Frage, die Kundeenergie...
+[00:39:58.680 --> 00:40:02.680] ...und ich meine, wenn man jetzt in 47 Hamster hintereinander steigert, vielleicht haben wir sogar eine Kleingaufe.
+[00:40:02.680 --> 00:40:03.680] Also, das ist...
+[00:40:03.680 --> 00:40:06.680] ...ein bisschen Tierschutz, das finde ich super.
+[00:40:06.680 --> 00:40:08.680] Dass das nur leingehakt ist.
+[00:40:08.680 --> 00:40:09.680] Passt.
+[00:40:09.680 --> 00:40:12.680] Was sind denn so Leier für so was?
+[00:40:13.680 --> 00:40:15.680] Völlig überstrieben.
+[00:40:16.680 --> 00:40:22.680] Auch, ich dachte jetzt eher so an RWE, weil die halt weniger Hamster haben als die Kunde.
+[00:40:23.680 --> 00:40:25.680] Ja? Cool.
+[00:40:26.680 --> 00:40:31.680] Meine Projektidee wäre gewesen, Musik, Geo, Online, Leidenschaft für Musikesstimmen.
+[00:40:31.680 --> 00:40:35.680] Ich würde mich von anderen abheben, indem ich eine bessere Kreatur...
+[00:40:35.680 --> 00:40:41.680] ...eine Suche für ein Schnellprozess, sowas individuell, vielleicht durch Videochats, Videos oder vielleicht noch mit KI funktioniert.
+[00:40:41.680 --> 00:40:45.680] Ebenso soll eine Community aufgebaut werden.
+[00:40:45.680 --> 00:40:49.680] Bisher geht es eigentlich eben so, jeder schaut sich immer so Gewertungen an.
+[00:40:49.680 --> 00:40:51.680] Man kennt ja die Leute gar nicht.
+[00:40:51.680 --> 00:40:58.680] Und deswegen könnte man da vielleicht eine bessere Community auf der ganzen Gemeinschaft kennenlernen, was das bedeutet.
+[00:40:58.680 --> 00:41:03.680] Und meine Stakeholder wären dann damit einmal der Bründer oder die Beschäftsleitung.
+[00:41:03.680 --> 00:41:07.680] Dann die Web-Entwickler, weil das ja alles online ist.
+[00:41:07.680 --> 00:41:12.680] Und die Designer, ein Marketing-Team, wo dann vor allem auch kleine Videos aufgenommen werden können, die Videochats.
+[00:41:12.680 --> 00:41:17.680] Oder vor allem die paar anderen Fachkräfte für Musiker, wo das klären können.
+[00:41:17.680 --> 00:41:21.680] Dann meine Lieferanten und Hersteller, die andere Web-Sachen auch haben.
+[00:41:21.680 --> 00:41:27.680] Und dann brauche ich natürlich die Kunden, die sind dann bei mir, die Musiker, die Musiklehrer und Handler.
+[00:41:29.680 --> 00:41:31.680] Gut.
+[00:41:32.680 --> 00:41:34.680] Wir zahlen uns das.
+[00:41:34.680 --> 00:41:36.680] Ich wollte mal die Nachschritte nehmen.
+[00:41:36.680 --> 00:41:39.680] Das war ja der zielende Teil.
+[00:41:42.680 --> 00:41:44.680] Das ist vom Marketing her, glaube ich.
+[00:41:44.680 --> 00:41:47.680] Ja, kriegen wir uns Zeit.
+[00:41:48.680 --> 00:41:49.680] Wenn wir dann?
+[00:41:49.680 --> 00:41:51.680] Okay.
+[00:41:51.680 --> 00:41:53.680] Dann fangen wir hier an, da weiter.
+[00:41:53.680 --> 00:41:55.680] Unser Vorstück ist der Tab hier.
+[00:41:55.680 --> 00:41:57.680] Das ist jeder, den lassen wir zu Hause.
+[00:41:57.680 --> 00:42:00.680] Aber wir wissen ja, dass wir eben nur was rausnehmen.
+[00:42:00.680 --> 00:42:02.680] Deswegen haben wir uns hier gerade geschießen und einen Fass an.
+[00:42:02.680 --> 00:42:06.680] Wir haben hier eine Lösung dafür, wie ein frisch gesapres Bier ausrufen, was auch rauskommen kann.
+[00:42:06.680 --> 00:42:10.680] Wir haben so eine Lösung für alle, und auch international zu kommen.
+[00:42:10.680 --> 00:42:16.680] Ja, unsere Stakeholder werden dann natürlich als Sponsor, im besten Fall die Chowalei.
+[00:42:16.680 --> 00:42:19.680] Die ist natürlich interessiert, dass mehr Bier verkauft wird.
+[00:42:19.680 --> 00:42:26.680] Der Aufstattgeber ist ein Wasserfahnenhersteller, der ist natürlich in seiner Ereignisse etwas veraufnehmend.
+[00:42:26.680 --> 00:42:32.680] Die Verwandten haben natürlich dann Rorle, Spräuche, diese Kartuschen.
+[00:42:32.680 --> 00:42:39.680] Und die größten sind wahrscheinlich Segelbänder, die wahrscheinlich älter sind als die 2K.
+[00:42:44.680 --> 00:42:46.680] Was hat er gesagt?
+[00:42:46.680 --> 00:42:48.680] Ich weiß nicht.
+[00:42:48.680 --> 00:42:50.680] Ich weiß nicht, ich habe mir die Frage gefragt.
+[00:42:50.680 --> 00:42:54.680] Der ist vorgleich holikotterwürdig.
+[00:42:56.680 --> 00:42:58.680] Erzähl mich, wenn ich die Gänse anbinde.
+[00:42:58.680 --> 00:43:02.680] Bei der Entführung von hier, die ist scheiße.
+[00:43:02.680 --> 00:43:04.680] Sehr danke.
+[00:43:06.680 --> 00:43:08.680] Hygieneabteilung.
+[00:43:08.680 --> 00:43:12.680] Tatsächlich aufsichtsbehörde.
+[00:43:12.680 --> 00:43:14.680] Wegen auch Hygiene.
+[00:43:14.680 --> 00:43:18.680] Was hat sich hier noch mit dem Witzgegangenen gemacht?
+[00:43:18.680 --> 00:43:22.680] Der hier wichtigste, wichtigste Decoder der Welt.
+[00:43:22.680 --> 00:43:24.680] Der Witzgegangenen.
+[00:43:24.680 --> 00:43:32.680] Nachher wird ein Haus, ein Wasserhahn wird wahrscheinlich nicht im Baupark, aber wenn man das Haus baut,
+[00:43:32.680 --> 00:43:34.680] die sollten auf jeden Fall mit dazu.
+[00:43:36.680 --> 00:43:40.680] Unser Projekt ist Aircar, also ein fliegendes Auto.
+[00:43:40.680 --> 00:43:46.680] Unser Aufstattgeber ist ein Großautomobilhersteller.
+[00:43:48.680 --> 00:43:50.680] Das war einer der Kraftprobleme.
+[00:43:50.680 --> 00:43:52.680] Alles klar.
+[00:43:52.680 --> 00:43:58.680] Als Kunden haben wir Leute, die mit normalen Autos in einem Staustau stehen.
+[00:43:58.680 --> 00:44:04.680] Wenn man die über den Fliegraum fliegt, geht es schneller.
+[00:44:04.680 --> 00:44:10.680] An der großen Steak-Kommandant könnte vielleicht der Start sein, dass er etwas entweder vöre.
+[00:44:10.680 --> 00:44:16.680] Es könnte aber auch sein, dass er verbietet, dass man mit so etwas fliegen kann, sonst wäre das schlecht.
+[00:44:16.680 --> 00:44:25.680] Dann brauchen wir die Verwandten, die uns die Teile dazu besorgen und schalten,
+[00:44:25.680 --> 00:44:27.680] und die Technik.
+[00:44:30.680 --> 00:44:36.680] Was haben wir noch an tatsächlich so einem Beispiel, das finde ich ganz gut, weil es ein bisschen plakativ ist.
+[00:44:36.680 --> 00:44:38.680] Was sind denn dann so richtig große Meilen?
+[00:44:38.680 --> 00:44:43.680] So, die einem so richtig in die Suche gesprungen werden, garantiert.
+[00:44:44.680 --> 00:44:47.680] Andere Bausteine, andere Umverständnisse?
+[00:44:47.680 --> 00:44:50.680] Ja, ich glaube es gibt sogar noch schlimmere.
+[00:44:50.680 --> 00:44:54.680] Die könnten da ja ein Business draus machen.
+[00:44:54.680 --> 00:44:57.680] Dem gehört ja der Summentransport.
+[00:44:57.680 --> 00:45:01.680] Vielleicht Umwelt, die sind da immer?
+[00:45:01.680 --> 00:45:03.680] Die sowieso, auf jeden Fall.
+[00:45:03.680 --> 00:45:10.680] Tatsächlich denke ich eher an so Leute wie TÜV, Tarnstellenbetreiber.
+[00:45:10.680 --> 00:45:15.680] Also deren Business besteht aus Stau und Autos.
+[00:45:18.680 --> 00:45:21.680] Die Map ist, wie gesagt, so eine Map ist cool.
+[00:45:21.680 --> 00:45:25.680] Weil, wenn man so etwas macht, und ich garantiere, dass so etwas schon mal passiert ist,
+[00:45:25.680 --> 00:45:30.680] romastische Ideen, richtig gut durchdacht, also ich weiß nicht auf wen das Auto ist,
+[00:45:30.680 --> 00:45:35.680] aber genau so etwas, richtig gut durchdacht, funktioniert top.
+[00:45:35.680 --> 00:45:40.680] Und dann ist irgendeine Lobbyveranstaltung tatsächlich sowas wie TÜV, ADAC,
+[00:45:40.680 --> 00:45:45.680] oder wie gesagt RWE, ganz große Freunde, was Lobbyismus angeht,
+[00:45:45.680 --> 00:45:52.680] und auch alle Automobilisten, aber natürlich auch mit irgendwelchen völlig unbewussten Verschwungen.
+[00:45:52.680 --> 00:45:58.680] Ich bin mir ziemlich sicher, dass viele Ideen aus genau solchen Gründen,
+[00:45:58.680 --> 00:46:02.680] weil man es verpeilt hat, das von Anfang an mit reinzudenken,
+[00:46:02.680 --> 00:46:08.680] dass da irgendein Spieler ist, der was dagegen haben könnte, dass das nicht funktioniert.
+[00:46:08.680 --> 00:46:15.680] Und da glaube ich einfach fest, dass es gibt so viele Dinge, die eigentlich technologisch sinnvoll sind,
+[00:46:15.680 --> 00:46:21.680] die nicht gemacht werden, dass irgendein von den großen Spielern einfach hier das Kram passt.
+[00:46:21.680 --> 00:46:26.680] Und das ist jetzt sicherlich sehr groß gedacht, aber das wollen wir hier auch machen.
+[00:46:26.680 --> 00:46:29.680] Was sie denn gespürt haben, was geht es da eigentlich manchmal?
+[00:46:29.680 --> 00:46:34.680] Manchmal ist nämlich das beste Technische trotzdem für den Arsch, weil man für irgendwen aus Schienbein tritt.
+[00:46:37.680 --> 00:46:47.680] Wir kriegen den Omi-Lift. Und zwar ist das aus der Praxis heraus entstanden,
+[00:46:47.680 --> 00:46:50.680] und zwar bin ich nebenbei beim BRK im Patientenverdienst noch so.
+[00:46:50.680 --> 00:46:54.680] Und das ist auch eine Forschung, die sehr von Personalmangel belegt ist.
+[00:46:54.680 --> 00:47:00.680] Und wenn man dann in Zeileile ist und dann eine Gruppe von Omis abholt und du dann drei Omis dabei hast,
+[00:47:00.680 --> 00:47:04.680] die nicht wirklich ins Auto einsteigen können, ins große Sprinter, dann kostet das immer mega viel Zeit.
+[00:47:04.680 --> 00:47:09.680] Eine Idee war da entweder so ein Trittpil einbauen, das quasi wie so ein Lift funktioniert,
+[00:47:09.680 --> 00:47:14.680] wo man nicht aufsteht und hochfährt, oder man entwickelt ein Luftfahrwerk für den Sprinter,
+[00:47:14.680 --> 00:47:18.680] dass man quasi den Sprinter komplett auf den Boden absetzt und die Ideen mehr oder weniger reinhauen kann.
+[00:47:18.680 --> 00:47:20.680] Genau. Ist das richtig oder?
+[00:47:20.680 --> 00:47:25.680] Ja, also gesponsert werden soll das Ganze von der Krankenkasse,
+[00:47:25.680 --> 00:47:29.680] weil die es ja irgendwie mitfinanziert das Ganze und das Ganze ja noch schneller geht.
+[00:47:29.680 --> 00:47:32.680] Dann muss man natürlich mit den Fahrzeugherstellern sprechen,
+[00:47:32.680 --> 00:47:36.680] die es ja auch umsetzen müssen, die endgültigen Ideen.
+[00:47:36.680 --> 00:47:43.680] Und der Kunde sind dann am Ende die Patientenfahrdienste, die das dann eben auch nutzen können.
+[00:47:44.680 --> 00:47:47.680] Die Entwickler sind jetzt ja hier ein Stück weit.
+[00:47:51.680 --> 00:47:53.680] Was für einen Eier haben wir da?
+[00:47:53.680 --> 00:47:55.680] Was für einen Eier?
+[00:47:57.680 --> 00:48:00.680] Vielleicht auch ein bisschen die Fahrzeughersteller,
+[00:48:00.680 --> 00:48:05.680] weil die es gut geprotekieren ja schon auch davon, aber die können es nicht besser so.
+[00:48:07.680 --> 00:48:09.680] Es gibt welche, die sich genau darauf spezialisieren.
+[00:48:09.680 --> 00:48:12.680] Also, den tritt man sicherlich irgendwo mal hin.
+[00:48:13.680 --> 00:48:15.680] Interessante Aspekte.
+[00:48:15.680 --> 00:48:18.680] Auch hier, und wie gesagt, ich spiele manchmal so ein bisschen.
+[00:48:18.680 --> 00:48:21.680] Es geht mir nur darum, dass ich Ihnen vielleicht auch so ein bisschen ein Spiegel vorhalte,
+[00:48:21.680 --> 00:48:24.680] wie komplex manchmal Sachen sein können.
+[00:48:24.680 --> 00:48:28.680] Ich könnte mir vorstellen, also wenn Sie sagen Krankenkasse,
+[00:48:28.680 --> 00:48:31.680] wer zahlt denn in die Krankenkasse ein?
+[00:48:32.680 --> 00:48:34.680] Wir alle.
+[00:48:34.680 --> 00:48:39.680] Das heißt, ein ganz, ganz großer spielender Aspekt wird die Gesamtgesellschaft sein.
+[00:48:39.680 --> 00:48:44.680] Denn, und jetzt auch wieder ein bisschen hypothetisch, aber ich glaube auch da, dass solche Dinge passieren.
+[00:48:45.680 --> 00:48:49.680] Jetzt passt Ihre Nase irgendeinem Lokalpolitiker nicht.
+[00:48:50.680 --> 00:48:52.680] Dann weiß ich, dass das nämlich funktionieren wird.
+[00:48:53.680 --> 00:48:58.680] Weil der Lokalpolitiker irgendwelche abstrakten Konstrukte dreht,
+[00:48:58.680 --> 00:49:02.680] dass nachher wir alle für ihren Reichtum zahlen.
+[00:49:03.680 --> 00:49:05.680] Die Welt ist manchmal fies.
+[00:49:06.680 --> 00:49:08.680] Haben Sie einen Vorschlag?
+[00:49:08.680 --> 00:49:13.680] Ja, wir möchten eine kopfhöhere Technologie machen,
+[00:49:13.680 --> 00:49:22.680] mit der wir in lauter Umgebung die Hintergrundlagen rauche unterdrücken können.
+[00:49:22.680 --> 00:49:30.680] Aber wir könnten die Stimmung von Personen verstehen, wenn sie mit den Trägern sprechen.
+[00:49:30.680 --> 00:49:37.680] Und es kann auch mit den Funktionen wie Übersetzung,
+[00:49:37.680 --> 00:49:42.680] unter anderem, wenn Personen machen, die international arbeiten.
+[00:49:42.680 --> 00:49:46.680] Und es auch für die hohen Beeinträchtigungen.
+[00:49:50.680 --> 00:49:54.680] Gut, was haben wir da für Stakeholder?
+[00:49:55.680 --> 00:49:57.680] Wer würde das sponsern?
+[00:49:57.680 --> 00:49:59.680] Wer findet so etwas richtig gut?
+[00:49:59.680 --> 00:50:01.680] Wer findet so etwas richtig schlecht?
+[00:50:01.680 --> 00:50:06.680] Ah, ich habe das nicht so denken können.
+[00:50:06.680 --> 00:50:12.680] Aber ich glaube, die erste Funktion ist die Übersetzung.
+[00:50:12.680 --> 00:50:17.680] Und die zweite ist, wie soll eine Person finden,
+[00:50:17.680 --> 00:50:20.680] welche der höhere Beeinträchtigungen hat.
+[00:50:20.680 --> 00:50:26.680] Aber wer findet erst, wer für richtig oder falsch?
+[00:50:51.680 --> 00:50:53.680] Vielen Dank.
+[00:50:53.680 --> 00:51:03.680] Wir müssen ein bisschen in das Thema Projekt reinkommen,
+[00:51:03.680 --> 00:51:07.680] dass Sie sich da selber darüber langhangeln,
+[00:51:07.680 --> 00:51:11.680] weil es Teil der Vorlesung sein wird, aller Voraussicht nach.
+[00:51:11.680 --> 00:51:16.680] Ich werde Ihnen für das nächste Mal noch eine Aufgabe reinstellen.
+[00:51:16.680 --> 00:51:18.680] Es ist nichts Großes, es geht nur darum,
+[00:51:18.680 --> 00:51:21.680] dass Sie sich an Ihrem Projekt weitergemacht haben.
+[00:51:21.680 --> 00:51:25.680] Es geht um die sogenannte...
+[00:51:25.680 --> 00:51:27.680] sogenannte Projekt Canvas.
+[00:51:27.680 --> 00:51:30.680] Das ist diese Sheet.
+[00:51:30.680 --> 00:51:32.680] Da wird Ihr mal drauf gucken.
+[00:51:32.680 --> 00:51:37.680] Es gibt noch ein Lehrsheet davon, wo das Ganze auszufüllen ist.
+[00:51:37.680 --> 00:51:40.680] Ich stelle das aber nochmal online rein,
+[00:51:40.680 --> 00:51:43.680] dass das als Aufgabe im Raum steht.
+[00:51:43.680 --> 00:51:46.680] Und wir werden nächste Woche einfach direkt damit anfangen.
+[00:51:46.680 --> 00:51:49.680] Ich möchte noch einmal ganz klar zur nächsten Woche eine Abfrage machen
+[00:51:49.680 --> 00:51:51.680] bezüglich der Prüfungsmodalitäten,
+[00:51:51.680 --> 00:51:54.680] ob wir überhaupt eine Prüfung machen oder etwas anders machen.
+[00:51:54.680 --> 00:51:57.680] Ich habe meine Aussicht schon ein bisschen formuliert.
+[00:51:57.680 --> 00:52:00.680] Und damit wünsche ich Ihnen jetzt ein gutes Wochenende.
