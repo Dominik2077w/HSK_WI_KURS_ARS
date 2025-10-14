@@ -1,0 +1,1024 @@
+So, meine herzlichen Dank.
+Ich möchte mal mit Ihnen zusammen so eine kleine Stunde machen.
+Immer von der Vorranglänge eine Stunde.
+Ist hier gleich die Frage, was haben wir letztes Mal gemacht?
+Ich versuche Sie zu motivieren über die Notwendigkeit der Flügeltechnik.
+nachzudenken. Dazu haben wir einfach mal so verschiedene Branchen angeguckt und haben uns
+überlegt, dass eigentlich auch hier im Vorlesungsraum eigentlich so gut wie alles irgendwie miteinander
+gefügt ist. Das war der erste Punkt. Der zweite Punkt ist, dass es eine raue Menge von Möglichkeiten gibt zu
+Und das auch sowas wie eine Getränkeflasche abzufüllen, auch eine Art Fügetechnik ist, um die Flüssigkeit in etwas anderes reinzufügen.
+Wenn wir hier in der Vorlesung reden, dann reden wir natürlich mehr oder weniger davon, irgendwie zwei Bauteile miteinander zu verwenden.
+ist. Und die Befähigung hier in der Vorlesung soll eben lauten, auch wirtschaftlich gesehen
+so eine gewisse Grundlage zu haben, um entscheiden zu können, ob das eine oder andere jetzt
+wichtig und genau das Wichtige ist. Deswegen hatten wir uns das erste Fügeverfahren oder
+die erste Fügegruppe angeschaut und die hieß mechanische Fügetechnik. So, jetzt sind Sie
+aber dran. Was habe ich beim mechanischen Fügetechnik letztes Mal schon gesagt und
+Ihnen auch schon in die Hand gegeben? An was denken Sie zuerst, wenn Sie mechanische
+wie wir denken können. An Nieten? An Nieten, okay. Gut. Können Sie den Prozessor kurz beschreiben? Wie funktioniert die?
+Es gab unterschiedliche. Wir haben ja auch im Video angeschaut, dass von unten so eine Auflagefläche ist und von oben wird es dann reingedrückt.
+Was wäre der klassische Nied, der hier beim Eiffelturm so ein Thema war?
+Einfach rein, also zwischen zwei Flatten.
+Genau, also letztlich hieß das Ding Rundkopfnied, das ist nichts anderes.
+Auf der einen Seite kommt schon der Nied mit einem Kopf und auf der anderen Seite müssen Sie den mechanisch eben noch herbringen, sobald Sie eben die Sachen dazwischen haben.
+Aber auf alle Fälle geht es in der Nietechnik genau darum, zwei Sachen miteinander zu verbinden.
+Und das funktioniert allerdings nur, wenn die beiden übereinander gelegt sind,
+also als Überlappstoß letztlich vorhanden sind.
+So, gehen wir uns mal durch.
+Das heißt, da ist jetzt eine Niete drin, die verbindet das beides.
+Was wären jetzt, und ich werde sie immer wieder nötigen, in ihren Doppelfunktionen,
+nämlich technisch und wirtschaftlich, das Ganze zu bewerten?
+Fangen wir mal technisch an. Was bedeutet so eine Miete, eine einzige, die jetzt zwei Flächen miteinander verbindet?
+Was bedeutet das für Sie?
+Ja?
+Das Risiko, dass sich das löst.
+Dass sich das löst? Warum?
+Weil es nur eine ist und ich würde auch sagen, dass eine nicht stabil genug ist.
+Okay.
+Kontrollen Sie die Belastung.
+Genau. Das können Sie natürlich nur daran festmachen.
+Wenn ich da einen Luftballon dran mache, wird das eh nicht halten.
+Wenn ich da massiv irgendwie Tonnen dran setzen will, wird die vielleicht einfach unter dem Motor.
+Das wäre das eine. Festigkeit, eine punktuelle Verbindung, wäre vielleicht nochmal ein weiterer Fachbegriff,
+um zwei Bleche eben miteinander zu verbinden.
+Apropos Punkt.
+Das war ganz kurz. Wäre das so eine punktförmige Verbindung?
+Das sind doch verschiedene Arten, oder?
+Was sagen sie alle dazu? Welche Art ist das?
+war gar keine nicht genau das ist letztlich nur eine punktuelle schweißung die kommen wir ja auch
+später noch mal drauf, wie das Ganze funktioniert.
+Das gilt jetzt einfach mal so
+als Idee, das sind eben zwei Brechungen
+und das ist auch nur eine punktuelle
+Verbindung. Und ob das jetzt
+eine Niete ist oder
+ein Punkt oder
+auch in diesem Punkt nur, dass
+beides dies durchsetzt.
+Das ist man zum Schluss gehabt, wenn ich die einfach
+über, sage ich mal,
+ein Werkzeug miteinander verquetsche.
+Auch dann kriege ich
+eine gewisse Festigkeit. Aber alle
+unterscheiden sich letztlich dann eben
+auch in der punktuellen Festigkeit, bevor die eben tatsächlich aufreißen und kaputtgehen. Aber
+gemein haben die eben alle, dass die Kraft eben nur komplett eingeleitet wird. Das Blech ist ja
+größer eigentlich und trotzdem, wenn sie dann an beiden Seiten ziehen, muss ja die Kraft nur und
+kann die nur über diesen einen Punkt. Das heißt, sie wird sich wieder auf den Punkt konzentrieren
+und wird versuchen, diesen Punkt letztlich eben zu zerstören.
+Und wir können dann eben, klar, liegt ja auf der Hand, mehrere Punkte setzen
+und dann an der Stelle mehrere Niete setzen, um einfach mehr Festigkeit überfangen zu können.
+Okay.
+Was ist aber jeder punktuellen Verbindung noch weiter gemeint?
+Was ist da auch klar?
+Was ist zwischen zwei Punkten, die Sie verbunden haben?
+Ja, die Kräfte werden in die Punkte gehen, aber auf alle Fälle wird zwischen zwei Punkten keine Dichtigkeit entstehen.
+Da wird Ihr Blech immer undicht sein.
+Wenn Sie jetzt mal so an Automobilindustrie denken, irgendwie, Sie wollen da den Nicht-Schweiz wieder mit irgendwelchen entsprechend korrosiven Medien,
+weil es eben auch der Fahrbahn, wenn der in so einen Spalt rings um diesen Punkt,
+den wir da gerade gesehen haben, kann ja irgendwas eindringen
+und würde dafür sorgen, dass das Ganze anfängt zu korrelieren und vielleicht irgendwann zerstört.
+So, also das nochmal so im weiteren Rahmen bedingt.
+Aber bleiben wir mal bei den einfachen Sachen.
+Festigkeitsmäßig haben wir das schon so ein bisschen reingearbeitet.
+Wie sieht es aber aus mit der Wirtschaftlichkeit von solchen punktuellen Verbindungen?
+Nieten muss man kaufen, Punktschweißen, das ist ja nur das Gerät, das ist ja nichts zusätzliches.
+Wichtiger Aspekt, jetzt mal ein Unterschied zwischen Punkten und Nieten, das ist eine
+Niete, die muss ich herstellen, die muss ich kaufen, aber was tatsächlich noch viel mehr
+kostet bei so einer Niete ist der Transport. Ich muss auch nicht nur meine Bleche da vor
+sondern ich muss irgendwie zusehen, dass an die Stelle, wo das verarbeitet werden soll, eben auch der Nied ist.
+Und dann muss ich den Nied noch separat eben in die Maschine und dann auch noch zuführen.
+Und das bedeutet, der Aufwand ist entsprechend größer.
+Um Ihnen ein Gefühl dafür zu geben, wir reden aber hier nur von irgendwelchen 0,0 Cent Beträgen, die sowas kostet.
+Was am ersten Augenblick erstmal sagt, okay, das ist ja eigentlich nicht viel,
+wir müssen aber eine Massenfertigung sehen.
+Wenn so eine Automobilkarosserie vielleicht viele tausend solcher Mieter hat
+und sie viele tausend Autos herstellen, siehe da, multipliziert das Ganze,
+ergeben sich doch entsprechend viele Kosten, Nachteile von solchen punktuellen Verbindungen,
+wenn sie eben nicht gemacht wurden.
+Und deswegen hat man auch früher überhaupt nicht, also Automobilindustrie ist ja schon erst groß geworden in den 20ern, letzten Jahrhundert, also über 100 Jahre her, wo das so ein bisschen losging und da konnte man schon einigermaßen schweißen.
+Da hat man schon von vornherein gemerkt, nee, das ist einfach deutlich günstiger, wenn ich da einen Schweißbereich hinterlege.
+Und nur, und das Beispiel hatte ich ja auch schon gezeigt das letzte Mal, heute fangen wir eben wieder an zu konstruieren,
+plötzlich haben wir eine ganz tolle Idee, was für Leichtbauwerkstoffe wir da einsetzen und siehe da, plötzlich geht das Schweiß nicht mehr.
+Und das ist eigentlich der Grund, weshalb Mietverbindungen plötzlich auch in solchen wie Automobilindustrie plötzlich wieder zum Fragen kommen.
+Das ist relativ neu, die Idee. Weil eigentlich, und das ist ja wieder Ihr Zwiespalt, jetzt wenn Sie als Wirtschaftsingenieur eigentlich zum Beispiel im Einkauf sind, würden Sie sagen, seid ihr verrückt, das andere ist doch viel günstiger, was soll das?
+Und dann würden Sie eben auf der technischen Seite jetzt aber wissen, ja Moment mal, das ist ja Alu-Stahl, das kriege ich ja gar nicht anders hin.
+Also muss ich da eben in den sauren Apfel beißen, den teuren Prozess für eine Verbindung zu nehmen, die ich sonst nicht zusammenkriege.
+Das heißt aber nicht, dass in diesem Bereich weiterentwickelt wird, dass man, also bei diesem Aluminium-Stahl zum Beispiel,
+ist man schon seit Jahrzehnten dabei, irgendwie muss ich doch Schweißverfahren haben, die das
+doch können, die das doch irgendwie hinkriegen, weil ich doch wieder günstiger werden will.
+Aber so in der Qualität und Umsetzung, wie es eben mit so einer Miete ist, kriege ich das nicht hin.
+Bis heute. Aber das liegt ja vielleicht daneben. Machen Sie Start-up, erfinden Sie was und dann
+können sie entsprechend hier, sage ich mal, Millionenbeträge eben auch abkassieren. Warum?
+Weil das eben eine Sache ist, die ganz ganz viele interessiert. So, warum verschrauben wir sowas
+nicht also nicht war ja dass das der der die erste idee das spricht gegen eine verschraubung
+ja sich vielleicht nachhaltig dass man den transportplatz und die schraube auch extra
+einfließen muss und so dass man den meisten dann sogar noch ein zweites teil hat mutter
+zum Beispiel, wenn man die noch mal auf einer anderen Seite auch festhalten und zuführen muss,
+dann ist die Zugänglichkeit dann auch geschätzt. Genau, das ist das Problem. Aber ich habe Ihnen ja
+letzte Woche auch noch mal ein paar Schraublösungen gezeigt, die dann eben sich das Gewinde selber
+schneiden, damit ich zumindest schon mal diese Mutter einspare, dass ich nicht noch ein Bauteil
+da ans Band bringen muss und noch ein Bauteil festhalten und entsprechend dann weiterverarbeiten.
+Das wäre der Nachteil von Schraubverbindung. Weshalb würden Sie überhaupt an Schraubverbindung denken?
+Schraubverbindungen sind darum, wenn man etwas austauschen möchte.
+Genau. Wieder aufmachen.
+So. Und hier auch gleich nochmal so eine prinzipielle Idee der Fügetechnik.
+Jetzt reden wir die ganze Zeit vom Kostenersparnis.
+Aber wie sieht es denn mit der Nachhaltigkeit aus?
+Ist eine Schraube nachhaltig?
+Richtig?
+Nein, wenn man auch etwas einsparen kann.
+Okay, wenn man das jetzt vom Einspareffekt sieht, dann ist klar.
+Aber sie ist doch nachhaltig.
+Warum? Weil ich das Bauteil
+wieder ausschrauben kann,
+jedenfalls reparieren kann.
+Wenn ich das verniete oder verschweiße,
+dann muss ich das Bauteil an der Stelle
+komplett zerstören.
+Und dann kriege ich das nicht
+wieder entsprechend repariert.
+Hatte ich das Beispiel schon mal genannt?
+Wenn Sie
+heutzutage
+ein Küchengerät haben,
+wenn Sie
+Sie haben so ein Mixer,
+und da ist irgendwas kaputt gegangen
+der Block nicht mehr
+was machen sie?
+der Klassiker heute ist, wir nehmen das Ding und schmeißen es weg
+in keinster Weise nachhaltig
+mit ein bisschen technischem Sachverstand
+könnte man jetzt das Gerät aufmachen
+und stellt vielleicht fest, da ist irgendeine Kleinigkeit kaputt
+und kann für irgendwelche Cent oder kleine Eurobeträge
+einen Ersatzteil kaufen und kann das wieder einsetzen
+kann das wieder zumachen und dann ist es ok
+Warum funktioniert das nicht? Weil Sie allein das Gehäuse nachher wieder nicht zukriegen,
+weil dazu einmal Schnappverbindungen sind. Sobald Sie die öffnen, gehen die kaputt. Das heißt,
+Sie müssten nicht nur das kleine Zahnrad neu kaufen, sondern noch ein komplettes Gehäuse mit
+diesen neuen Schnappverschlüssen, weil es ist alles nur auf Kostenoptimierung ausgelegt an der
+Und das Interessante ist, es gibt einen Mixer für 10 Euro, also ganz super billige Teile,
+Sie können aber für einen Mixer auch 200 Euro ausgeben.
+Aber glauben Sie nicht, dass der für 200 Euro eine Schraubverbindung hat.
+Der hat vielleicht innen bessere Komponenten, die nicht so schnell kaputt gehen.
+Okay, aber Reparatur und damit nachhaltig, das sind eigentlich wieder ganz neue Ideen, die, haben Sie sowas überhaupt mal verfolgt?
+Also so Reparatur von Kleinteilen, da gibt es hier und da so Reparaturcenter, die sich so anbieten und sagen, wir reparieren alles oder sowas.
+Kennen Sie sowas?
+Ja, und das ist natürlich gegenüber der Industrie so total gegenseitig.
+Aber interessant wäre das natürlich in Richtung Nachhaltigkeit irgendwann, wenn man das im großen Stil, im Industrie-Stil tatsächlich machen kann, solche Geräte eben tatsächlich auch wieder instand zu setzen und neu zu machen.
+Gut, das ist der Nachteil dagegen, sie verkaufen ja kein neues Gerät, deswegen hat die Industrie prinzipiell erstmal gar kein Interesse an sowas.
+So, und Sie können das Spiel weiter spielen, auch ein liebes Thema bei mir so, wenn bei
+Ihnen dann irgendwie ein Auto, dann ist irgendwas an Ihrem Display da vorne kaputt, irgendein
+Lämpchen ist ausgefallen.
+Was denken Sie so, okay, eigentlich für fünf Cent da ein neues Lämpchen reinschrauben,
+fertig.
+Geht normalerweise nicht mehr.
+Sie fangen heute an für 1.500 Euro so ein komplettes Teil wieder einzusetzen, weil jemand hat sich eben eine Baugruppe einfallen lassen, die entsprechend auch verschweißt, verklebt, also quasi nicht mehr reparabel ist.
+Und als ganze Einheit natürlich, wie sie eingebaut werden kann.
+Kommt normalerweise auch aus Zulieferbetrieben, die komplett das Teil fertig haben
+und dann eben sie als Autoproduzent meines Weges das Teil einfach nur noch eingriffsen und fertig.
+Das Ganze ist aber die Megakatastrophe, wenn es nachher an Reparaturlösungen und solche Sachen geht.
+Aber auch hier wieder, wenn BMW VW Ihnen dann eben 2500 Euro verkaufen kann,
+haben die natürlich auch wieder eine ganz andere Gewinnspanne
+angestellt.
+Einfach auch mal
+so ein kleines Gedankenmodell dazu,
+wenn Sie in entsprechender
+verantwortlicher Position sind,
+ob das immer so richtig ist,
+alles mit diesem entsprechenden
+Sparpotenzial etc.
+Gut.
+Aber
+klassischerweise
+haben wir jetzt ja schon
+festgestellt, dass es eine Mietverbindung vielleicht braucht. So, jetzt möchte ich noch mal, da sind keine Erdbüsse drin, sondern auf dieses Beispiel eingehen.
+Wie stellen Sie eine Dose her?
+Wir machen mal einen Schritt vor. Wir müssen uns jetzt mal überlegen, was muss die Dose können?
+Ja? Dicht sein? Dicht sein, genau. Warum? Die wird auch evakuiert, das heißt, wenn die Erdnüsse eben
+Sauerstoff sehen, schmecken die auch immer nicht mehr. Können wir alle, wenn wir da erstmal aufgemacht haben und die
+eine Woche stehen lassen, ziehen die Feuchtigkeit und dann war das schönste von weg. So, das heißt,
+Dichtigkeit ist die Top Nummer 1. So, wie stellen wir jetzt so eine Dose her? Das wäre jetzt einfach nur der
+Kunststoffdecker, der oben drauf ist. Wie stellen wir die her?
+Ja? Vielleicht ein Blech oder Alu, was einmal rund ist und hinten der Boden. Okay, genau. Also genau so wird es gemacht.
+Das heißt, hier wird ein Blech hergenommen, es wird rolliert und dann
+wird es hier gefügt an der Stelle. Das sehen Sie auf jeder Konservendose. Welches Verfahren das ist,
+gucken wir uns dann noch an. Hier sind wir jetzt gerade mal in der mechanischen Bearbeitung,
+weil hier oben und auch unten ist jeweils ein Deckel. Hier oben ist ein Deckel,
+der dann innen drinnen noch, den habe ich jetzt da noch reingeschmissen, der hier entsprechend,
+sagen wir mal, diese Aluschiene
+da verklebt hier oben drauf gesetzt hat.
+Also trotzdem sind es zwei Deckel.
+So, und wenn wir jetzt
+hergehen und sagen, okay,
+wir könnten jetzt diese Deckel
+hier anschweißen,
+aber
+wie wird es tatsächlich gemacht?
+Sie glauben es jetzt, ja?
+Genau. Es wird
+hier letztlich
+tatsächlich nur gebörtelt
+mit einer kleinen Dichtung dazwischen,
+die einfach mit angesetzt wird. Ich glaube, ich habe letztes Mal über die Cola-Dose geredet, so ähnlich ist das da auch.
+Nur bei der Cola-Dose ist quasi der Behälter nicht aus dem Blech poliert, sondern einfach tiefgezogen.
+Dann hätte ich schon mal den ersten Deckel mit dran, also den ersten Boden mit dran und den Deckel müsste ich aber genauso wie hier bei dieser Erdnussdose eben da dran setzen.
+Das heißt, wenn Sie sich das hier anschauen, haben wir hier diese entsprechende Verwörtung, das gleiche hier unten.
+Hier haben wir eine Schweißung und hier das Alu-Teil wird eben eingeklebt.
+Und was ist das?
+Das ist eben auch, sage ich mal, ein Verklipsen.
+Das heißt, ich bringe jetzt hier einen Kunststoffdeckel auf
+Und mit quasi der Flexibilität des Kunststoffdeckels kann ich den entsprechend hier auf einen etwas größeren Durchmesser aufsetzen.
+Und dadurch, weil er ein bisschen kleiner ist wie der Dosen, wird es am Umfang letztlich auch leicht abgedichtet.
+Können Sie im Selbstvertest mal machen.
+So hundertprozentig ist das leider nicht mehr.
+Das heißt letztlich, ohne Deckel werden Ihre Erdnüsse schon nach drei Tagen nicht mehr genießbar.
+Mit Deckel heben Sie vielleicht eine Woche, weil ein bisschen weniger eben reinkommt.
+Aber richtig dicht ist das auch nicht.
+So, damit hätten wir jetzt eigentlich die Sachen soweit voreinander und wir haben doch
+Da müssen wir aber die Titanic-Geräte rühren.
+Haben Sie noch mal recherchiert zu Hause?
+Einfach auch hier noch mal, ich hatte ja gesagt, die Mieten sind kaputt gegangen.
+Aber tatsächlich, für mich der Hauptgrund war letztlich der wirtschaftliche Druck bei der Herstellung dieses Schiffes.
+Es musste schnell gehen, wir mussten drei Schiffe gleichzeitig machen,
+wir hatten nicht genug Facharbeiter und dann wurden eben auch die billigeren Miete hergenommen,
+um sie entsprechend an der falschen Stelle letztlich zu verbauen.
+Es waren technische Schwierigkeiten oder auch Fehlentscheidungen,
+aber letztlich für mich ganz klar, unter diesem Druck hätte man das nie so bauen sollen.
+mit dem Wissen, dass das auf der Nordatlantik-Route eben auch schon mal in Richtung Eis gehen kann,
+in Richtung entsprechender Möglichkeiten.
+Obwohl, wenn ich so richtig drüber nachdenke, wenn es nicht ein Eisblock, sondern ein anderes Schiff gewesen wäre,
+wäre vielleicht total nicht das Gleiche passiert.
+Also kann man auch hier von der ingenieursmäßigen Entscheidung einfach nur sagen,
+Vielleicht wusste man es einfach nicht besser damals, aber aus heutiger Sicht müsste man eben hier diesen Druck quasi entsprechend entweder aushalten
+oder diesen Druck, sage ich mal, ganz bewusst eingehen, aber dann eben wissen, dass ihr, ihre Gerätschaft, ihr Schiff oder was auch immer, einfach gewissen Situationen nicht standhalten kann.
+So, dann haben wir hier noch ein paar weitere Systeme. Es gibt so Möglichkeiten, das war technisch gesehen das Problem, technisch gesehen war das Problem, dass ich eigentlich immer bei Nieten hier von der Gegenseite irgendwie heranklopfen muss.
+Das muss ja von der Gegenseite irgendwie hinkommen.
+Wenn Sie jetzt aber einen Behälter haben, wo Sie eben nicht mehr hinkommen, gibt es sogenannte Blindniete.
+Die Blindniete werden hier einfach reingesteckt und dann gibt es hier, das können Sie sich gleich mal anschauen,
+so einen kleinen Kopf, der letztlich reversibel hier wieder innen, wenn er an diesem Stift zurückgezogen wird,
+dieser hier ist nämlich mit dem hier verbunden und dann verdrückt er letztlich hier diesen Bereich,
+dieser Hülse, die da so drum gelegt ist.
+Und damit bin ich eben auch
+in der Lage, nur einseitig
+das Ganze eben zu machen.
+Also wenn ich sonst nicht hinkomme.
+Und dann, wie gesagt,
+hier diese Spezialnieten,
+ich gebe sie nochmal rum,
+die
+im Vergleich eben auch
+zu den Durchsetzfügen
+Das war das Thema nochmal mit dem Durchsetzfügen. Ohne, also mit einem charakteristischen Loch auf
+der Seite. Mit Nied, eben geschlossen. Aber wenn Sie sich ganz gezielt nochmal von beiden
+Seiten anschauen, von oben sieht das eigentlich genauso aus. Die Nied sorgt nur dafür, dass das
+Ausknöpfen nicht so schnell passieren kann. So und hier auch noch mal eine weitere Variante
+gezeigt an diesem
+Hochspannungsmast.
+Hier wird ein
+Hochspannungsmast hergestellt.
+Oder wie würden Sie das machen?
+Warum?
+Weil es noch besser ist und wenn was kaputt geht, dann ist es wieder verletzter.
+Okay.
+Was für Aspekte kämen noch dazu, was beim Schrauben drin ist?
+Gerade bei so Hochspannung und was?
+Wie gut können Sie den denn transportieren?
+Ja, schlecht, oder?
+Also, das ist tatsächlich wie bei den Windkraftanlagen.
+Da hat man sich auch noch kurz angeschaut.
+So ein Riesending, das kriegen Sie nicht auf der Autobahn transportiert, das kriegen Sie noch nicht mal auf dem Schiff transportiert.
+Natürlich möchte ich das gerne, auch aus wirtschaftlichen Gründen würde ich das gerne bei mir in der Firma komplett herstellen.
+In der Halle, schön trocken das Ganze, habe ich keinen Stress und dann würde ich das speisen.
+So, weil ich es aber, sage ich mal, in Gänze so nicht transportiert klinge, wird das Ganze verschraubt, das ist richtig.
+aber tatsächlich nicht überall. So gewisse Komponenten, wo ich weiß, die kann ich noch
+konstruieren, aber auch die brauche ich nicht reparieren, weil auch das zweite Argument ist
+natürlich noch da, die würde ich schon gleich zusammenschweißen, die entsprechenden Profile,
+und den ganzen Rest dann eben auf der Baustelle zusammen schrauben. So, was ist nochmal das
+Problem an der Schraubtechnik gewesen, technischer Art. Das war das Problem mit dem Drehmoment und
+wie viele Leute sehen Sie da, die da hoch und runter spazieren, um hier nachzuziehen?
+Hoffentlich niemanden, weil da wurde eben was anderes genommen. Das andere ist eben,
+wenn Sie sich das mal genauer anschauen. Das sieht eben aus wie eine Schraube, ist aber keine Schraube,
+weil das Ganze nennt sich Schließringpolzen und basiert letztlich darauf, dass ich...
+Ist das ein Gewinde?
+Ne. Weil hier fehlt die Steigung. Hier sind eigentlich nur Riefen drin und wenn ich jetzt
+eine Mutter hätte, kriege ich die da ja nicht drauf. Der Clou jetzt an diesen Schließringen
+ist, dass die Mutter
+quasi über Umformprozesse
+erst erzeugt wird,
+indem der entsprechende
+Mutterkopf hier einfach aufgegriffen ist.
+So, kommt das Ende nochmal.
+Also, die haben wieder ihre zwei Sachen.
+Die stecken das Ganze durch.
+Jetzt müssen sie schon von der anderen Seite auch rankommen.
+Also es ist kein Windmiet.
+Aber jetzt lassen wir das Ganze mal laufen.
+Sie stecken den da rein und Sie sehen, da ist keine Scheibung, aber das ist auch quasi
+erstmal nur eine blanke Hülse und die formt sich dann einfach an diese Rüttlung mit rein.
+Deswegen könnte man meinen, das ist eine Schraube, wie gesagt, ist aber keine und das andere ist letztlich dann hier das Gegenstück.
+So, was gibt es noch für einen Effekt, den ich damit eben egalisiere?
+Ich hätte noch eine Frage wegen dem.
+Wie entsteht denn da dann die Zugkraft, wenn es da nur aufgedrückt wird?
+Also zwischen dieser Mutter und der Lichtschraube?
+Ja, die wird in der Mitte hier von dem Gerät gezogen, nach oben, während hier die anderen beiden außen das zusammensuchen, also so gegendeutiger Prozess ist das.
+Das ist auch letztlich das Verständnis dafür, wie bei den Schrauben ja üblich, dass sogar die Kraft über Reibung übertragen werden kann, weil ich die gegeneinander ziehe.
+Und das heißt, die werden dann entsprechend fest aufeinander gedrückt und übertragen auf Reibung.
+Das ist bei den Mieten nicht immer der Fall.
+Die kann ich zwar auch versuchen, irgendwie drauf zu drücken, aber dann ist das deutlich schwieriger.
+Und das macht der eben ganz gut.
+So, was gab es jetzt noch?
+Was ist der Vorteil von den Dingern?
+Sie können auch im Bahnverkehr, wenn Sie da schwelgen, werden auch so verschraubt, in Anführungszeichen.
+Ja, löst sich halt nicht so weit.
+Genau. Also wir hätten
+kein Problem, wir müssten nicht mehr
+nachziehen. Würde auch gar nicht gehen.
+Wir haben ja auch nichts zum Nachziehen an der Stelle.
+Also kein Gewinde.
+Aber Sie dürfen
+tatsächlich in der Technik nicht vergessen,
+dass es sowas wie
+Vandalismus gibt.
+Also, das heißt,
+irgendwelche Demonstranten,
+die irgendwas in die Stromkassen haben,
+machen das kaputt.
+Demonstranten oder wer auch immer
+können Schwellen wieder aufschrauben. Alles passiert. Mit solchen Systemen haben sie nur
+eine Chance, wenn sie diese Hülse mechanisch zerstört. Das ist ein deutlich größerer Aufwand.
+Das heißt, die ursprüngliche Idee war tatsächlich, von solchen Schließringen eine unlösbare
+Verbindung zu erzeugen. Das war ja von der Definition nochmal genau das nicht, was eine
+Schraube letztlich darstellt, aber die ist eben auch tatsächlich sicher und safe, so dass ich
+hier eben nur mit einer Flex drankomme und das dann eben auch, da kann ich auch gleich mit einer Flex komplett zerstören.
+Hält der Bolzenmerz die Schraube aus?
+Welcher Bolzen?
+Der.
+Den gibt es in ähnlichen Qualitäten wie die Schrauben. Also es wird auch mit 8.8 und so weiter mit entsprechenden
+wässigkeitswerten gesehen. Also das heißt nicht unbedingt, dass Sie, Sie können nicht das
+eben konvektionieren und aussuchen. Aber ich würde mal sagen, Sie ist gleich fest.
+Ja, der Teil hier oben mit drauf, der wird abgestraut. Genau, das sieht man ja an den
+anderen, da sehen Sie das ja gar nicht mehr, da ist er weg.
+ok
+und das bedingt eben auch
+wenn Sie jetzt an mechanische Techniken denken
+es gibt eben
+jede Menge Varianten
+ich kann ganze Gewinde irgendwie versuchen
+einzuformen
+es geht immer darum eine Matrize zu haben
+andere Dinge reinzudrücken
+umzubördeln, zu falzen
+und irgendwas mit denen zu machen.
+Denn, ja,
+auch eine entsprechend intelligente
+Geschichte. Weil, wenn ich jetzt hier
+anfange, kann ich sagen, jetzt könnte ich
+auch hier schweißen eigentlich. Was mache ich denn mit
+den Dingern? Aber
+spätestens, wenn ich sowas
+aufstelle, muss ich sowas ja
+vor Ort machen. Ja, das heißt,
+da ist Wind und Wetter und so weiter.
+Deswegen macht man Schweißtechnik
+eigentlich sehr ungern
+ohne Schutz, ohne eine Halle drüber zu haben.
+Und wenn es irgendwie geht, geht man dann lieber eben auf solche mechanischen Richtungen.
+Gut, jetzt haben wir eigentlich alles weit betrachtet.
+Es gibt auch prinzipielle Fragen zu mechanischen Fügelrichtungen.
+Gut, wie an der Dose, um jetzt entsprechende Dichtigkeiten zu erzeugen,
+braucht es letztlich vielleicht doch eine Speistechnik.
+Deswegen
+dürfen Sie sich jetzt nochmal
+diesen Satz
+und den dürfen Sie sich bitte auch merken.
+Das war die erste klare Empfehlung.
+Weil mit diesem Satz
+können Sie
+Fachwissen
+entsprechend umsetzen
+für eigentlich alle Freistechniken,
+die Sie ja auch im Vorhinein noch von mir sehen.
+Es geht nämlich um die Definition,
+dass das Ganze unlösbar ist.
+Das war ein Unterschied
+zur Schraubtechnik.
+Es geht darum, dass ich entweder
+Wärme, Druck und oder Druck letztlich eben hier einsetzen und das Ganze vielleicht mit einem Zusatz
+oder ohne Zusatz veranstalten. Und den können wir uns mal wieder anschauen. Auch ein kleiner Hinweis für die Prüfung, ich frage Sie denn auch immer, erklären Sie in irgendeinem Schweißverfahren
+anhand dieser
+entsprechenden
+festgesetzten Definition.
+So, wir könnten damit auch
+die mechanische Flügeltechnik erklären.
+Nur mal als Beispiel.
+Eine Schraubverbindung wäre
+eine lösbare Verbindung,
+also genau das Umgekehrte dazu.
+Sie wäre ohne Wärme,
+sie wäre, ja,
+mit Druck,
+habe ich da Druck beim Schrauben gehabt?
+vielleicht schon, das Anzugsmoment, wenn ich das mal als Druck definieren würde, mit Zusatzwerkstoff
+hätte ich jetzt vielleicht an der Schraube gesagt, das wäre dann eben meine Mutter dazu.
+Gut, aber eigentlich ist es ja für das Schweißen gedacht, also werden wir uns das beim Schweißen anschauen.
+Der weitere Definition geht einher, die erklärt hier so ein bisschen diese Wärme und diesen Druck,
+nämlich es gibt eine ganze Menge Schweißverfahren
+an die wir tatsächlich auch so zuerst denken
+die einfach irgendwas aufschmelzen
+und wenn das aufgeschmolzen ist, fließt das zusammen
+und dann ist das irgendwie zusammen
+mal ein bisschen umgangssprachlich formuliert
+das heißt, ich gehe über die Schmelztemperatur von den Werkstoffen
+und verbinde sie
+und es gibt aber auch
+und es gibt auch Begründungen dafür, warum es gegeben ist
+ein Pressschweißen, was
+ausgießig mit Kraft arbeitet
+Kraft heißt, ich drücke zusammen
+das wäre ein Kaltpressschweißen
+was tatsächlich in der Lage ist, durch viel Druck
+Sachen miteinander zu verschweißen
+in der Regel ist aber
+Druck nicht ausreichend, deswegen dieses
+Und auch bei Kraft brauche ich vielleicht noch eine Reibung dazu.
+Oder noch einen Strom, der mir das ein bisschen wärmer macht, das Ganze.
+Sodass ich in der Kombination mit der Kraft eben auch ein gutes Ergebnis erzielen kann.
+Frage an Sie, warum kann das vielleicht hier und da mal gut sein, mit Kraft irgendetwas zu machen und nicht nur mit Temperatur?
+Temperatur kostet viel Energie, ist auch zu teuer, oder?
+Ob das tatsächlich teurer ist, ist leider hingestellt.
+Es braucht viel Kraft, ja auch mehr Energie.
+Ja, okay, aber dann die Wärme, wenn es weiß wird, ändert ja auch die Materialeinstellung.
+Das wäre jetzt ein super Argument, weil das ist eigentlich sogar das Hauptargument,
+immer wenn es um diesen Werkstoff wieder geht.
+Ich hatte ja gesagt, da gibt es Sachen, auch in Kombination, die lassen sich gar nicht verschweißen,
+deswegen Schrauben, aber es gibt natürlich auch gewisse Kombinationen
+oder auch ganz prinzipiell, Werkstoffe, die lassen sich vielleicht nicht so gerne aufschmelzen.
+Weil all diesen Prozessen ist gemein, dass die nicht über die Schmelztemperatur,
+die sind irgendwo da drunter.
+Und das bedeutet, methodologisch gesehen, passiert da weniger mit meinem Material.
+So, und dann haben wir jetzt eben hier die ganze Reise von den Sachen, die ich Ihnen hier vorstellen werde, um Sie, wie gesagt, zu ermächtigen, einfach mal von den Ideen,
+Und das wäre ja das Wichtigste, erst mal da oben auf dem Netz und Pressschweißen unterscheiden zu können, warum das so ist.
+Und ich gebe Ihnen einfach mal Ideen, dann geben wir mit, was Sie wie anzuwenden haben und wo.
+Und natürlich auch, was so einzelne Verfahren so kosten, wie Sie sich da entsprechend auch aufstellen.
+So, und wenn wir schon von Kosten reden, dann müssen wir uns wieder zurück bemühen in die
+Technik und da wissen wir einfach, ein Schmelzschweißprozess kann alle möglichen
+metallischen Werkstoffe machen, aber so ganz allgemein gesagt, kann ich auch sehr viele
+andere Sachen miteinander verschweißen. Fangen wir mal an mit den Sachen an, die gleich nicht gehen. Kann ich
+Papier miteinander verschweißen?
+Wird nicht funktionieren. Das heißt, an was denken Sie da schon mal, wenn Sie Papier miteinander
+verbinden wollen? Kleber. Genau, wunderbar. So, aber hier steht ja schon so ein Beispiel, Glas könnte ich
+miteinander verschweißen. Was fällt Ihnen da als Beispiel ein?
+Ja, Glastasten zum Beispiel. Das heißt, ja, die werden ja quasi, wenn ich das jetzt mit
+der Glasbläserei zum Beispiel verbinde, werden die irgendwo in Form gebracht und
+Und dann brauchen die vielleicht noch Anbauteile, wie ein Henkel.
+So eine Tasse hat ja irgendwie noch eine Möglichkeit, dass ich das überhaupt fassen kann, das Ganze.
+Und das bedeutet, der Henkel muss da jetzt irgendwie an das eigentliche Gefäß dran.
+Das kriege ich rein von der Bearbeitung jetzt nicht in einem Arbeitsgang hin.
+Also muss ich den Henkel separat herstellen, ihn heiß machen und dann eben tatsächlich mit meinem System,
+dieser Form meiner Tasse eben verbinden. Das ist einfach nur tatsächlich ein Schweißprozess,
+weil beide Seiten Richtung Schmelzflüssig aufgeheizt werden und dann die den Henkel
+einfach drauf drücken. Da kann man jetzt überlegen, was ist das denn davon, von diesem Prozess?
+Das muss irgendwas mit dem Pressschweißen zu tun haben, weil ich ja den Druck aufbringe.
+So und auch das Anschmelzen kann ja nur ein kleiner Bereich sein, weil sonst würde das
+ja alles nach unten fließen. Also habe ich eine kleine Fläche, die angeschmolzen ist und drücke
+die dann entsprechend auf. So, wie ist das mit der Glasfaser hier oben? Wie wird denn sowas hergestellt?
+Sie sehen doch überall diese kleinen Zirkuszelte an der Straße. Wenn die Pfähle kommen oder andere,
+wieder irgendwelche Kabel verlegen. Und Glasfaser, die sind schon sehr lang, aber auch nie endlos.
+Hier werden die jetzt miteinander verbunden.
+So ein kleiner, entsprechender Durchmesser.
+Was machen die in so einem Zelt?
+So sieht das Ganze aus.
+Ja, das wird irgendwie miteinander verkordelt.
+Was war das jetzt?
+Das bringt ja, mein Licht muss da ja trotzdem irgendwie durch, ja.
+Aber das wird letztlich dann eben nicht nur mechanisch, sondern an so einer Stelle verschweißt.
+Also links und rechts werden die in so eine Aquatur reingegeben und dann brennt hier vorne, nicht direkt mit dem Glas, weil so ein Lichtbogen würde nicht direkt mit dem Glas funktionieren,
+aber daneben einfach ein heißer Lichtbogen und der schmelzt beide Seiten an und dann werden die zusammengedrückt und dann sind die Glasfasern miteinander verbunden.
+Also im Prinzip dieser Bereich wird aufgeschmolzen und dann entsteht eine entsprechende Verbindung im Glas.
+Und da kann dann eben meine Nachricht, mein Licht eben transportiert werden.
+So, gehen wir nochmal zurück zur Definition.
+Weil das wäre noch eine weitere wichtige Definition, dass ich eben, ja punktuell, über die haben wir ja schon geredet,
+aber ich kann eben auch Linien oder Flächen damit verbinden.
+Aber auf alle Fälle möchte ich eigentlich nicht, dass mit meinem Material irgendwas passiert.
+Und das bringe ich eigentlich mit dem Schweißen nie hin.
+Ich habe immer irgendwas, was da passiert, aber ich habe eben unterschiedliche Schweißverfahren, die unterschiedlich viel mit dem Material machen.
+Es gibt ganz heiße Verfahren, da geht jede Menge an Werkstoffeigenschaften verloren.
+Warum habe ich die trotzdem? Weil die vielleicht viel günstiger sind.
+Und es gibt eben auch Anwendungen, wo ich sage, eigentlich interessiert mich das gar nicht, ob das jetzt vom Gefühl her ein bisschen anders ist.
+Oder selbst manchmal sage ich auch, auch wenn das ein bisschen verbogen, verzogen ist, vielleicht ist es auch gar nicht schlimm.
+Und deswegen muss ich immer wieder abwägen, ob das, was ich da haben will, auch entsprechend sein muss.
+Das können Sie tatsächlich als lineare Funktion sehen.
+Je mehr Sie diesen Satz haben wollen, also je weniger mit dem Material passieren muss,
+je teurer werden die Verfahren. Das können Sie quasi mal als ersten Merksatz so ein bisschen sehen.
+So, und wenn wir jetzt über Werkstoffe reden, dann muss man eben auch noch mal so ein bisschen
+Werkstoffgründe machen, aber das werde ich nur tangieren. Deswegen hier so ein Beispiel,
+Da geht es eben darum, dass zum Beispiel so Kohlenstoff nicht so hoch sein darf im Stahl.
+Was macht Kohlenstoff im Stahl?
+Ja?
+Z.B. Festigkeit.
+Genau. Und wenn man ehrlich ist, eigentlich macht es ein bisschen Kohlenstoff im Eisen,
+macht aus dem weichen Eisen tatsächlich was Festes aus dem Minenstahl.
+Also Festigkeitssteigerung, darum geht es. Und das ist die günstigste Methode,
+quasi das über so eine Gitterverspannung auch tatsächlich nutzen zu können.
+So, das Summe ist eben nur, so was gibt es, vielleicht könnte ich an das Eisen-Kohlenstoff-Diagramm noch mal erinnern,
+ja, das gibt es ja auch, von Stahl redet man bis 2,06 und darüber hinaus bis 4,2,
+Busseisen und solche Sachen. Jedenfalls sehr hohe Kohlenstoffgehalte und ich komme jetzt damit
+A0,2. Also relativ geringer Kohlenstoffgehalt. Dann kann ich davon reden, dass ein Stahl gut
+schweißbar ist. Und es funktioniert tatsächlich. Also wenn Sie selber mal irgendwas schweißen
+wollen oder jemanden beauftragen
+und Sie gucken sich den Werkstoff an
+und der hat schon mal größer, 0,2% Kohlenstoff,
+dann müssen Sie schon mal
+genau hingucken.
+Darunter
+kann man hingucken,
+aber da wissen Sie jetzt schon mal,
+das könnte eigentlich
+schweißbar sein.
+Natürlich, wie immer in der Technik,
+da gibt es noch andere
+Sachen, die da im Stahl drin sein können,
+die ähnliche Funktionen haben,
+Aber mit dem Kohlenstoff können Sie definitiv schon mal die erste Aussage finden.
+Es ist das wichtigste Begleitelement, die Gingungsbestandteil.
+Weil er eben auch so günstig ist, wird er eben auch am meisten eingesetzt.
+Ja, bei allen Sachen, die wir hier eigentlich schon sehen, bei so klassischen Baustellen,
+da ist eigentlich immer nur der Kohlenstoff, der irgendwas macht.
+So, und um jetzt einen aufzusetzen, natürlich konstruieren Sie jetzt irgendwas, sagen, okay,
+ich brauche das und das am Flugzeug oder am Auto oder an der Werkzeugmaschine, das muss das und
+das leisten und dann, siehe da, müssen Sie mit mehr Kohlenstoff klarkommen oder mit anderen
+die Geos-Bestandteile, die auch schwierig schweißbar sind.
+Und siehe da,
+das ist jetzt nicht nur so,
+dass sie sagen, das geht nicht,
+sondern jetzt fangen sie eben an,
+in der Technik
+solche Sachen zu machen, wie
+okay, ich muss vorwärmen, nachwärmen,
+anlassen, nachwärmen,
+ich mache mit Werkstoffen,
+mit Zusatzwerkstoffen, andere
+Regierungen draus und so weiter.
+Also es gibt ein ganzes Füllhorn
+von Möglichkeiten,
+auch mit solchen Stählen klarzukommen.
+Und das sind auch bei Neuentwicklung von Stählen, wenn wir wieder auf den Markt kommen, was gewisse Eigenschaften hat, gibt es auch immer in der Schweißtechnik wieder Leute, die versuchen, Schweißtechniken zu ermitteln, die mit diesen Werkstoffen wieder klar kommen.
+Ja, also bitte machen Sie nie so einen Fehler, Sie sind irgendwo in der Arbeitsvorbereitung und dann heißt es da und da haben wir ein Thema, ja mach einfach und fertig, sondern Schweißen ist eben eine Querschnittstechnologie, das heißt da muss man von Werkstoffen bis Verfahren und die ganze Konstruktion noch mit dabei ganz viele Dinge berücksichtigen,
+bevor man eine finale
+Entscheidung und auch ein finales Produkt
+letztlich hat.
+Gut.
+Eigentlich nur eine Seite, ein paar Vokabeln,
+damit wir uns hier in der Vorlesung richtig
+verstehen. Verbindung
+schweißen heißt, liegt auf der Hand,
+zwei Sachen miteinander zu verbinden.
+Ein Auftrag schweißen heißt,
+irgendwo
+auf der Oberfläche was drauf zu bringen.
+Wozu kann das gut sein?
+Wozu brauchen Sie einen Auftragsschutz?
+Ja?
+Vielleicht Korrosionsschutz, dass man da so eine Schicht hat?
+Ja, zum Beispiel, wenn Sie irgendeinen Behälter haben, da ist irgendwas drin und Ihr normaler Baustahl soll wegkorrodieren,
+dann machen Sie eben eine Beschichtung drauf.
+Jetzt muss man so ein bisschen unterscheiden, die klassische Beschichtung wäre ja erstmal das, was ich auf dem Blech da hatte,
+so eine Verzinkung, also eine Beschichtungstechnik, die ist jetzt aber nicht so dick wie ein Auftragsschweiß.
+Das heißt, wenn Sie nur Korrosionsschutz haben, haben Sie mit einem Auftragsschweiß eine viel dickere Schicht
+und vielleicht damit auch noch ein viel längerer Lebenslauf.
+Das könnte ja vielleicht sogar auch ein Hintergrund sein.
+Aber viel mehr gibt man eigentlich bei Auftragsschweißen eben auch wiederum in Themenreihen wie Abrasierschutz.
+Das heißt, da wird irgendwas belastet und wird ständig irgendwo drauf auf der Oberfläche gerieben,
+denn panzere ich das entsprechend auf und dann hält das einfach.
+Hier ist ein gutes Beispiel, einfach eine Baggerschaufel.
+Gucken Sie mal in die Baggerschaufel rein oder in die Zähne.
+Überall sind ganz dicke Schweißnähte. Manchmal denkt man, das ist ja ganz wild,
+da ist ja einfach mittendrin so eine Naht, da ist doch nichts verbunden. Ist es auch nicht,
+sondern die Naht gilt einfach nur dafür, dass an der Stelle, wo der Bagger dann immer wieder
+auf seine Erde, auf seine Steine trifft, Material ist, was verschleißfester ist. Um die Baggerschaufel
+einfach länger in Betrieb zu halten. Das wird auch gerne repariert, das heißt irgendwann ist
+er dann auch ein bisschen kaputt und verschlissen, dann gehen die her und legen einfach wieder ein
+paar neue Raupen oben drüber, damit die wiederum dieser Bagger-Schaukel wieder das Leben einhaut.
+So, also verbinden und Auftragsschweißen und dieses Auftragsschweißen haben wir eben die
+Möglichkeit andere Stoffe oder gleiche Stoffe drauf zu bringen und hier eben auch diese
+Begrifflichkeit aufpanzern, ist vielleicht so die Idee, einfach den Verschleißschutz da mit ran zu haben.
+Das andere Thema wäre eben, wie definieren wir so eine Schweißnaht? Ja, klassischerweise haben wir
+so eine Lage, so heißt eine Naht wird zwischen zwei Blechen gelegt. Aber es kann schon mal sein,
+dass ich einfach mit einer das gar nicht hinkriege, weil die Lage fühlt, also die Bleche fühlen so dick
+sind. Also muss ich vielleicht mehrere Lagen hintereinander machen, damit ich den gesamten
+Querschnitt erwische. Das andere wäre beidseitiges Schweißen. Also ich habe ein Blech und das wird
+einmal von oben geschweißt und einmal von unten. Vielleicht eine Idee jetzt schon warum, was könnte
+dafür gut sein. Warum macht man das? Ja? Der hohen Wärme, die da entsteht, muss man
+dann auch verbiegen oder so, dass wenn man beidseitig schweißt, das dann sich ausgleicht.
+Genau. Also das wäre eine gängige Methode, da verbiegt sich was, von zwei Seiten bleibt es
+irgendwie gerade. Manchmal ist es auch einfach so, dass ich vielleicht einfach von der einen Seite
+nicht so ein komplett dickes Blech
+einfach erwische
+und durchgängig eben auch
+hinkomme an die Stelle,
+also muss ich vielleicht auch auf der Gegenseite was machen.
+Aber das mit dem Verzug ist tatsächlich
+das Vordringliche.
+Und so ein Heften heißt nichts anderes,
+bevor ich anfange
+zu schweißen, verbinde ich die schon mal
+mit so ein paar kleinen Punkten,
+damit meine Konstruktion eigentlich schon mal
+steht und sich
+nicht weiter verschieben kann und dann
+fange ich erst an zu schweißen.
+Dann habe ich hier die technischen Themen letztlich gepaart.
+Also hier Grundwerkstoff, hatte ich ja schon gesagt, man muss sich eben ein bisschen Werkstoffkunden eben auch überlegen.
+Dann, wie sieht die Fuge aus, also letztlich eben auch, wie ist meine Konstruktion an der Stelle.
+Und dann geht das eben weiter und das sind dann eher wieder auch klassische wirtschaftliche Fragen,
+die ich dann auch entsprechend beantworten kann, aber bleiben wir mal hier bei diesem Thema
+Schweißgeschwindigkeit. Jetzt spielen wir das Spiel, Sie sind im Einkauf. Was interessiert Sie an einer Nacht?
+Sie könnten ja auch sagen, ich habe da mal was gehört, aber eigentlich interessiert mich nur, wie günstig machst du das?
+So, jetzt stellen Sie sich vor, jetzt haben Sie einen Zulieferer, mit dem müssen Sie jetzt reden.
+So, und der sagt Ihnen, ja, das ist ein Werkstoff und das dauert eben.
+Und dann sagt er Ihnen irgendwas, ja, die Schweißgeschwindigkeit, das ist ja das, wie lange ich letztlich brauche, um eine nahe zu machen.
+Das geht mit diesem Werkstoff gar nicht so gut, da muss ich ganz langsam schweißen, sonst geht da irgendwas kaputt in dem Werkstoff.
+So, was wäre Ihre Antwort?
+Geringe Schweißgeschwindigkeit. Das ist natürlich schon ein Kriterium, was sie sagen,
+dann guck doch mal vielleicht, ob du ein anderes Schweißverfahren hast,
+was das vielleicht schneller kann. So, letztlich ist die Schweißgeschwindigkeit,
+hat natürlich auch etwas hier mit der Schweißzeit ganz generell zu tun. Oder eben auch die Abschmelzbegründung, die ich da reinbringe.
+Aber bleiben wir ruhig mal bei Schweißzeiten oder Produktzeiten oder Produktionszeiten.
+Taktzeit haben Sie auch schon mal gehört. Darum geht es natürlich. Wie schnell ist das Teil fertig, um es mal ganz klar zu sagen.
+So, da kann es aber im Schweißen tatsächlich sein, dass der schon eine gute Schweißgeschwindigkeit hat.
+Braucht aber, sage ich mal, das Fünffache an Zeit, um überhaupt das Bauteil irgendwie in der Vorrichtung vorzubereiten.
+Also, was soll ich sagen, das haben wir eben auch in dieser Definition hier gehabt.
+so dass ich sage ich mal auch an der stelle
+den wollte ich eigentlich zeigen
+vielleicht nachher
+vorwärmen, nachwärmen
+dass ich jede Menge drum herum machen muss
+es gibt Schweißnähte
+die dauern 2 Sekunden
+und vor- und nachverlagerte Prozesse
+sind schon
+also aufpassen
+wenn Sie quasi
+als Einkaufsperson
+irgendwie unterwegs sind
+und sagen, ja, Schweißzeit
+und so weiter, was hast du, das muss
+nicht, sage ich mal,
+das wäre jetzt eine Lösung sein, sondern da kann
+noch viel mehr dahinterstecken.
+So, und was noch natürlich
+dahintersteckt, ist die Idee,
+ja, es gibt so eine
+Definition,
+anschweißen bis hin zum automatisierten
+Schweißen. Ich denke,
+anschweißen oder manuell schweißen
+ist klar, das ist eine Person,
+die macht das.
+Automatisiertes Schweißen ist, irgendein Automat, meistens denken wir an einen Roboter oder sowas, macht das.
+Das dazwischen sind letztlich nur so Definitionen, wenn Teile davon doch noch per Hand gemacht werden, die Bauteile dazu führen und so weiter.
+Aber ich möchte Sie eigentlich nur noch mal fragen, zwischen Hand- und automatisierten Schweißen,
+was würden Sie denn jetzt Ihrem Lieferanten da empfehlen?
+Was soll er denn machen?
+Anschweißen oder automatisierte Schweißen?
+Da kommt die Frage natürlich in Deutschland auf den Verautomatschluss.
+Welche zentrale Frage wird er Ihnen wieder stellen?
+Wie schnell?
+Ja, das auch. Das ist der Grund, aber das ist nicht der Hauptgrund.
+Das wäre jetzt eben auch fatal, wenn Sie sagen, ich will automatisierte Schweißer sehen zu, dass es günstig wird.
+Wie viele Teile? Na zwei eben. Das kann nicht funktionieren.
+Weil ich brauche ja Roboter, ich brauche ja Sachen, ich muss investieren.
+Deswegen nimmt man eine Automation nur her, wenn man eben auch ein entsprechendes Stück zahlt.
+So, so ein bisschen Geschichte von der Schweißtechnik, um da auch nochmal einen Eindruck davon zu geben.
+Ja, was hatte ich gesagt? Die Titanic war hier, da gab es schon irgendwelche Schweißtechniken.
+Hier mit Kohle-Lichtbogen und Gasschmelzschweißen, aber so richtig getraut hat man den damals noch nicht, deswegen war die Titanic eben auch genietet.
+So, ja, und ein bisschen weiter davor hier, da der Eiffelturm, ja klar, da war das noch viel weniger etabliert, deswegen auch die Technik anders.
+Das Ganze so ein bisschen als Übergang, da kann man so ein bisschen die Weltkriege auch sehen.
+Ja, im Ersten Weltkrieg wurde eigentlich noch alles genietet, im Zweiten Weltkrieg waren die ganzen Schiffe und so weiter alles schon geschweißt.
+Das ist letztlich dann eben auch hier mitten drin, da sieht man Schutzgeisttechniken, da war plötzlich so ein Entwicklungsschub.
+Der nächste Entwicklungsschub kam so ein bisschen hier nach dem Krieg irgendwo, dass hier immer mehr auch spezifische Schweißprozesse erfunden und entwickelt worden sind.
+Und wir heute eben auch solche Sachen wie Laserstrahlen und so weiter zum Schweißen hernehmen können.
+Also hier, da vorne hat Albert Einstein schon den Laser entdeckt bzw. das Prinzip des Laserstrahls,
+aber tatsächlich als Bearbeitungsmaschine eben erst sehr viel später im Einsatz.
+Kurze Idee noch dazu, weil Schweißen letztlich ein Prozess ist, und vielleicht haben wir jetzt anhand dieser halben Stunde, wo ich jetzt über Schweißen geredet habe, schon gesehen, sehr komplex.
+sehr viele Sachen, die falsch laufen können, sehr viele Sachen, die zu beachten sind.
+Deswegen hat sich schon frühzeitig auch der Gesetzgeber überlegt, wir brauchen da eine Person,
+die nochmal eine spezielle Ausbildung und eine spezielle Verantwortung damit eben genügt.
+Das heißt, die entsprechende Ausbildung zum Schweizer Fachingenieur ist letztlich,
+Sie sehen das hier auch mit Teil 1, 2, 3, 4, also über Hauptgruppen.
+Und dann sehen Sie wieder, da ist der Prozess, da ist der Werkstoff, da ist die Konstruktion.
+Und hier unten ist irgendwie so ein bisschen die Fertigungstechnik, Anwendungstechnik dahinter,
+welche Vorschriften und so weiter, was man so als beachten muss.
+So, das heißt, Sie wären jetzt mit dem Abschluss, mit Ihrem Bachelor,
+in der Lage, genau mit einer Zusatzausbildung quasi auch diesen Schweißfahrengenieur zu machen.
+Um was zu machen? Um damit letztlich im Schweißbereich, sage ich mal,
+ja, eigentlich auch immer mehr Geld zu verdienen. Das gehört auch dazu.
+Mit einer jährlichen Zusatzqualifikation sollten Sie eben auch immer gucken,
+dass die auch entsprechend honoriert wird.
+Aber mit so einem Schweißfahrengenieur, Sie eben auch, egal wo Sie sind.
+Also ich habe die Ausbildung gemacht, ich war auch jahrelang im Vertrieb unterwegs.
+Trotzdem war diese Sache für mich, sage ich mal, im Verkauf oder im Einkauf oder sowas,
+immer wichtig, mit solchen Leuten technisch gesehen auf eigener Augenhöhe zu arbeiten.
+Tatsächlich ist das auch in Betrieben, weil so ein Schweizer Ingenieur eben auch für entsprechende Abnahmen zuständig ist.
+Das heißt nicht, dass die immer nur in der Produktion sind.
+Ganz viele solche ausgebildete Kräfte sitzen in der Konstruktion oder wie gesagt Vertrieb oder sonst wo,
+die dann eben speziell für gewisse abnahmepflichtige Teile dann eben mit in die Fertigung gerufen werden
+und dann da eben entsprechend noch ihre Zusatzqualifikationen einsetzen müssen, um zu bewerten, zu prüfen und so.
+Wie lange dauert das?
+Das dauert, Sie sehen das hier, das sind entsprechende Einheiten.
+Also wir reden jetzt hier schon von entsprechend, hier sehen Sie das, 4, 7, 9 Wochen.
+Da unten auch noch, oder?
+Das sind die anderen Einheiten noch, aber diese erste Einheit hier unten, die können Sie hier an der Hochschule machen.
+Ich biete ja noch so eine vertiefte Schweißtechnik an, ich bin selber Schweißfachingenieur, ich bin auch in diesem Prüfungskomitee da, wir arbeiten da mit München zusammen, deswegen ist das schon mal für Sie quasi mit einer ingenieursmäßigen Ausbildung schon mal diese eine Hürde schon mal erledigt.
+Und dann geht es eben in den nächsten, dieser Teil 2, das sind mehr so praktische Sachen,
+dass Sie nochmal, sage ich mal, so einen Schweißerkurs machen müssen, einen kleinen.
+Und der eigentliche Hauptplatz, und das wären diese neun Wochen, das wäre eben dieser Hauptteil, den wir dazu geben müssen.
+Soweit?
+Es gibt sowas tatsächlich auch noch den klebetechnischen Ingenieuren, weil Klebetechnik
+ja auch immer interessanter wird, auch in abnahmepflichtigen Bereichen. Das ist im Umfang
+aber ähnlich. Es geht immer wieder darum, auch vor dem Gesetzgeber eine Qualifikation zu haben.
+Als Schweißfahrer sind Sie in der Regel eigentlich auch immer der Geschäftsführung unterteilt.
+Also das heißt, selbst wenn Sie irgendwie unten in der Produktion unterwegs sind, sind Sie in diesem Amt quasi auf der höheren Ebene unterwegs.
+Macht das viel am Gehalt aus, so ein Z-Figur?
+Ja, das hängt natürlich auch mit zusammen, wie Sie sich verkaufen, aber da können Sie schon davon ausgehen, dass Sie da, was für Sie viel ist, ich meine Tausender mehr oder sowas, das wäre dann so eine Größenordnung.
+Echt?
+Ja, genau.
+Ja, gut, man muss allerdings auch dazu sagen, Sie müssen auch einige tausend Euro dafür ausgeben.
+Das heißt, unser Teil hier an der Hochschule, der ist kostenlos. Da können Sie schon mal Geld
+sparen an der Stelle, aber den Rest müssen Sie dann eben auch da entsprechend aufnehmen.
+Ja, kann ich sagen. Also der Kurs selber kostet über 10.000 Euro.
+Aber wie gesagt, mit Studentenrabatt plus eben diesen ersten Teil sind wir noch bei 6,5 Euro.
+Bezugsweise, wenn Sie schon Arbeitgeber im Auge haben, vielleicht bezahlen Sie Ihnen das auch mal ein bisschen was.
+es könnte aber sein, dass Sie weniger Gehalt zahlen und so weiter, das ist immer so ein bisschen die Sache.
+Tatsächlich, das Mehrgeld funktioniert natürlich nur, wenn Sie eben auch als Schweißkraftingenieur kommen.
+Aber auf alle Fälle, vielleicht auch gerade jetzt interessant, diese Zusatzqualifikation zeugt ja einfach auch davon,
+dass Sie auch speziell in der Fertigungstechnik eben auch eine Qualifikation haben
+und das ist eben auch als Einstellungskriterium nie verkehrt, noch sowas mitzubringen.
+Ich will das noch gar nicht beschönigen, Sie haben völlig recht, also die meisten, ich habe regelmäßig eben auch Leute da im Kurs, die auskämpfen, aber die meisten davon zahlen das nicht selber, sondern haben schon irgendeine Firma, die dann sagt, okay, wir zahlen das selbst.
+Aber meine Empfehlung wäre, ich habe den ja damals auch an der Uni gemacht, da sind
+damals deutlich günstiger wir haben auch alle unterlagen und so weiter und alle selber
+hergestellt aber heutzutage müssen sie schon irgendwie so im gedanken haben wenn sie so viel
+geld ausgeben was sie damit auch anstellen wollen also wenn sie sich darüber hinaus informieren
+wollen, immer gerne, wenn Sie auf mich zukommen,
+da kann ich Ihnen noch viel mehr dazu sagen.
+Hier soll es aber
+in der Vorlesung nur mal für Sie
+die Idee sein, die Wichtigkeit
+auch noch mal zu demonstrieren.
+Ja, das heißt eben auch,
+jetzt sind Sie wieder
+im Vertrieb unterwegs, später mal
+wir machen das und
+jetzt, tolle Geschichte,
+wir bringen
+irgendwelche Teile,
+sag ich mal, in der Luft- und Raumfahrt.
+Ja, dann kann es vielleicht sein, dass der Betrieb sagt, ja, mach ja sein, aber da ist was zu schweißen,
+habt ihr denn Leute, die das auch verantworten können?
+Das wäre dann wiederum Ihre Stunde, wenn Sie gleichzeitig sagen, ja, mach ich selber, das halte ich im Kreuz, ja, und so weiter.
+Ja, und deswegen sowas, um auch vielleicht mal so einen Einfluss davon zu geben, wie das Ganze auch strukturiert ist.
+Es gibt im Schweißbereich letztlich Prüfer und Schweißerinnen.
+Das heißt, das sind die Leute, die vor Ort eben das umsetzen.
+Dazu gehören aber auch Bediener.
+Das heißt, hier so eine Laseranlage, die da die Knöpfe drücken oder die Anlage einstellen,
+die brauchen auch schon eine Qualifikation.
+Die werden auch alle drei Jahre geprüft oder alle halbe Jahre mal ganz kurz geprüft,
+ob die das auch alles noch drauf haben, was sie da machen, jeden Tag.
+So, dann gibt es als erste Einheit sowas wie Schweißpraktiker und Meister.
+Das heißt, der Praktiker, da können Sie mit einer Lehre schon mal was machen
+und können so die unterste Stufe der Aufsichtsperson eben haben.
+Die Schweißmeister, das sind eben die, die eine Meisterausbildung haben
+und eine Zusatzqualifikation machen.
+dann gibt es eben die Technik
+also den Fachmann, Techniker
+und eben
+und für sie würde dann eben
+die oberste
+Entscheidungsebene eben zum Tragen kommen
+weil es gibt eben viele Ansätze
+ja, wo vielleicht
+hier so ein Schweißpraktiker reicht
+aber
+wie vielleicht auch als Schweißfragen
+wenn wir jemanden delegieren und sagen
+das macht mein Schweißpraktiker
+der kann da mal hingucken und so weiter
+aber letztlich das Ganze so strukturiert. Und das sind eben, wie gesagt, diese ganzen Verfahren dazu,
+wieder an sich, jetzt mal ein anderes Bild einfach, ein bisschen Schmelz und Festschweißen, und da gehen wir jetzt einfach mal durch.
+Aber bevor wir das tun, gucken wir uns jetzt einfach nochmal den technischen und wirtschaftlichen Teil an.
+fängt nämlich schon an, wenn sie einen Schweißprozess haben. Jeder für sich kann sich mal überlegen, was er gerne
+schweißen will und als nächstes geht es eben in die Prozessauswahl. Welchen Prozess nimmt man? Gucken Sie sich mal
+die Zähne dazu an. Und da gibt es technische und wirtschaftliche. Welcher wäre denn für Sie der
+wichtigste? Oder welche? Die Stückzahl? Die Stückzahl. Warum? Weil wenn es ein Stück ist,
+sag ich mal so ein Großwerk, dann ist es nicht so wichtig wie wenn es 10.000 sind. Also knallharter
+wirtschaftlicher Grund erstmal zu gucken, was habe ich überhaupt zu tun. Anforderungen wäre für mich
+das wichtigste erstmal. Ja. Um zu schauen, was braucht man überhaupt. Ja. Also da haben wir eigentlich schon mit die beiden
+wichtigsten. Ja, wie viel sind es und wie, was muss ich können. Ja. Ich würde sagen Wirtschaftlichkeit, weil man kann auch viel
+produzieren und auch dafür missen. Ja. Okay. Wirtschaftlichkeit steht tatsächlich nochmal analog ein bisschen zur Stückzahl.
+Das ist eigentlich miteinander zu verbinden. Das ist ein bisschen allgemein gewünscht. Natürlich, am Ende des Tages, wenn Sie,
+Gerade so, wenn sie technisch
+sehr basiert sind, kann es schon mal sein,
+ich habe das hingekriegt, super.
+Und dann sagen sie,
+ja, aber bezahlen kann das keiner,
+weil das ist viel zu teuer, was ich da gemacht habe.
+Also Wirtschaftlichkeit natürlich richtig.
+Aber was wäre
+eben auch katastrophal?
+Auch solche Kleinigkeiten
+wie, ja, sie haben was Tolles
+im CAD entwickelt. So klassische
+Anfänger viele. Sie haben was gebaut,
+ja, also virtuell.
+Ja, und dann geht das in die Werkstatt und dann heißt es, okay, das kommt wieder von dem und dem, hat wieder keine Ahnung gehabt, weil ich kann da in der Kugel gar nicht reingehen, also kann ich das Ganze nicht schweißen.
+Zugänglichkeit wäre so ein kleiner Gesichtspunkt, aber durchaus entscheidend, wenn ich da nicht hinkomme, egal mit welchem Verfahren, kann ich auch nicht schweißen.
+So, das heißt, oder natürlich auch unterschiedliche Schweißprozesse haben unterschiedliche Zugänglichkeiten.
+Und so kann man die Reise eigentlich weitermachen.
+Was halten Sie denn von Arbeitssicherheit?
+Ja, auch sehr wichtig.
+Klar. Sie insbesondere, und das ist jetzt nochmal der zweite Job von so einem Schweißrang-Junior,
+ist natürlich das Thema, dass sie auch noch mehr Verantwortung auch für ihre Leute hat.
+Das heißt, wenn sich dann jemand mit einem Schweißgerät umbringt und so weiter,
+wird der Staatsanwalt natürlich schon fragen, was sie da denn veranstaltet haben.
+Das heißt, Arbeitssicherheit ist gerade in Deutschland und Europa natürlich ein Riesenthema,
+Thema, aber natürlich auch weltweit. Keiner möchte, dass seine Leute sich irgendwie wehtun
+oder eben sich sogar umbringen an der Stelle. Natürlich, sie werden Schweißprozesse kennenlernen
+mit viel Kraft, mit Tonnen von Kräften, die tödlich sein können oder Finger quetschen
+oder irgendwelche anderen Sachen machen können. Sie werden Lichtbogenprozesse oder sowas,
+allein auch die
+Strahlemissionen, die er blinden lassen kann.
+Aber wir sind ja ganz normal in der Technik unterwegs.
+Das ist jetzt keine Besonderheit.
+Sie können sich mit der Drehbank umbringen, sie können sich überall
+letztlich entsprechend
+müssen sich entsprechend gut aufstellen.
+So, das heißt,
+das gilt es natürlich auch reinzugucken
+und das kann natürlich auch bedeuten,
+dass aus
+bestimmten Gründen das vielleicht nicht funktioniert,
+was Sie aus Zugänglichkeit und
+Anforderungen sich irgendwie überlegt hat. Also, Stückzeit, wie gesagt, liegt in der Automation und das
+Spiel muss ich mit Ihnen gleich spielen. Das heißt nichts anderes wie, das beste Schweißverfahren ist eben keins zu haben.
+Was meine ich damit?
+Wenn es sowieso aus einem Bauteil gefertigt werden kann, ist es eigentlich immer am besten.
+Richtig. So. Und das ist ja ingenieursmäßiges Denken.
+Immer kostengünstigstes und bestes Verfahren.
+Und da reden wir jetzt mal ganz allgemein von Fertigungsprozessen.
+Und das Spiel spielen wir jetzt gleich mal mit diesem Bauteil.
+Ich finde, man kann es daran sehr gut entdecken.
+Das wäre ein Turbinenläufer.
+Da kommen nachher irgendwelche Schaufelräder drauf.
+Das Ding ist 8 Meter lang, hat hier einen Durchmesser von 400, hier außen aber von 1200.
+Also viel größer der Flansch, wo es angeflanscht wird, wie da innen drin.
+Das Ganze ist aber noch hohl hier in der Mitte.
+So, wie stellen Sie es her?
+Wenn die ganz fröhlich sein können?
+Fräsen, also.
+Ein Bauteil.
+Können wir uns erstmal auf Span abheben?
+Ja, genau.
+Genau, okay, ja.
+Ja?
+Noch?
+Ne, also da drehen halt...
+Deswegen Dreh- und Fräsen. Das wäre jetzt erstmal natürlich die Idee.
+Jetzt, was könnte gegen Dreh- und Fräsen sprechen?
+Viel Masse herverschwenden.
+Viel Masse herverschwenden. Das heißt, jetzt kommt man nämlich dazu, dass das vielleicht ein sehr teurer Stahl ist,
+der auch speziell hergestellt werden muss
+und
+der vielleicht auch höher fest ist
+so
+das heißt wirtschaftlich gesehen
+viel Späne bedeutet
+dass wenn ich mir das mal 1,20
+auf 400, wenn Sie das hochrechnen
+sind 2 Drittel an Spänen weg
+auch, das nehme ich noch nach Holien in der Mitte
+das heißt wenn Sie das aus einem Stahlklotz
+eben herstellen, sind es noch mehr
+sind es eigentlich 70%
+würden Sie wegkriegen
+Das schmerzt schon, richtig. Aber ja. Ja und die Zeit. Die Zeit, genau. Da müssen Sie gucken,
+wie viele Tage Sie an sowas denn noch drehen. Weil ich habe Ihnen ja noch eine kleine Einschränkung
+gegeben. Hör fest. Ja, wenn Sie nach allen 20 Minuten den Drehmeißel ersetzen müssen,
+weil der wieder verschlissen ist und so weiter, kann das eine Neverending Story werden.
+So, das heißt, sehr wohl zu überlegen. Ich will gar nicht sagen, dass das nicht geht und dass das
+nicht auch eine gute Idee ist. Aber die Idee sollte eben auch tatsächlich erstmal sein, nicht an
+Schweißen zu denken, sondern erstmal genau da. Und dann machen Sie genau das so durch und sagen,
+okay, kann ich das Ding entsprechend irgendwie drehen? Völlig richtig. So, was wäre noch möglich,
+wenn man mal das Drehen schon mal als Warteposition hat? Ich würde sagen, man kann es auch ineinander
+stecken, oder nicht? Ja, aber dann sind wir bei zwei Teilen, dann müssen wir irgendwann
+mit Flügeltechnik machen. Das lassen wir erstmal vorweg. Aus und vor, da kommen wir aber gleich noch zu, natürlich.
+Also mit so einem Material geht es doch eher nicht mit Edelstahl, aber generell dann halt gießen immer, wenn es auf einem Bauchteil sein muss?
+Geht. Gießen. Das Material, also das würde schon funktionieren. Sie brauchen eine große Gussform, versteht sich, also relativ viel Aufwand, klar.
+Klar, Sie können das gießen, aber was ist das Problem beim Gießen?
+Das Spray.
+Ja, es ist letztlich minder fest, grobkörnig und so weiter.
+Also mit früher fest ist zwar der gleiche Werkstoff, aber gießtechnisch eben umgesetzt ist die Festigkeit nicht gut.
+Da müssen Sie sehr viel mit Lärmebehandlung nachgelagert machen, um das irgendwie hinzuzufügen.
+Gehen wir gleich beim nächsten Thema.
+Dann wird doch das Ganze mit Schmiedetechnik vielleicht so gemacht.
+Weil dann nehmen Sie einen Bus, Rohling, und den verfestigen Sie über einen Schmiedeprozess, über ein mechanisches Verfahren.
+Und siehe da, da sind wir tatsächlich auch bei dem Prozess, der für sowas auch sehr gerne angewendet wird, ist ein Schmieden.
+Einigermaßen schnell das Ganze, nein, einigermaßen schnell ist was anderes, sondern Gießen dauert lang und Schmieden brauchen die großen Werkzeuge.
+Stell dir mal vor, wie groß soll das Werkzeug sein, wenn es acht Meter lang ist.
+Da gibt es in Europa nicht so wahnsinnig viele Schmieden, die solche Bauteile überhaupt beherrschen können.
+Das muss ja in einem Gesenk letztlich passieren.
+So, was könnte jetzt gegen das Schmieden sprechen?
+Ich muss Ihnen gestehen, technisch treten wir nicht mehr ein.
+Schmieden ist tatsächlich auch technologisch gesehen eigentlich mit die beste Lösung.
+Aber der Aufwand ist doch ergreiflich. Jetzt muss man mal gucken, kostentechnisch könnte das schon schwer und teuer werden.
+Aber gar nicht so sehr, weil der Schmiedeprozess teuer ist, sondern wenn ich Ihnen sage, dass das nur zwei Schmieden können, an was denken Sie da sofort wieder?
+Eiskampf, ja. Die haben vielleicht aber auch Wartezeit. Also vor geraumer Zeit war das noch, ganz klar, zwei Jahre Lieferzeit.
+Können Sie sich überlegen, zwei Jahre. Sie müssen in einem Jahr liefern, also was fällt für Sie weg? Schmieden.
+Hätten Sie gerne, wäre vielleicht preislich interessant gewesen, Sie kriegen die Zeit aber nicht.
+Also, haben Sie noch?
+Ja, das wäre ja auch der Transport, also wenn es nun zwei Schmieden in Deutschland gibt, die...
+Europa, ja.
+...oder Europa sind, weil die das können, dann wäre es ja auch riesenmöglich, wenn das direkt neben der Firma wäre.
+Dann muss man ja so ein 8-Meter-Teil vermutlich eher durch ganz Europa machen.
+Genau, richtig. Aber wäre natürlich noch ein Nebeneffekt, ganz klar, gucken wo die sind.
+Und wenn die nebenan sind, dann haben sie vielleicht so gewonnen.
+Da können sie zum Kaffee trinken oder auch mal rübergehen und gucken, wie ihr Bord da läuft.
+Ja, wird auch schon schwierig, wenn es auf Sizilien oder sonst wo ist.
+Klar kann man dann auch noch weiter weggehen.
+Man kann vielleicht auch noch andere Schmieden weltweit irgendwie entdecken,
+aber dann wird der Transport natürlich noch weniger hoch steigen.
+So, also auch das wieder einfach mal die Idee, dass es solche Entscheidungen nicht ganz so einfach sind.
+So, wenn wir jetzt eben sagen, das wären die klassischen Verfahren, die sind wir jetzt durch,
+wir sagen, das Drehen, ah, das ist teuer, gibt es nicht was Günstigeres?
+So, und dann sind wir, so wie wir es auch gesagt haben, aus zwei Teilen das Ganze.
+Was wäre denn hier schon mal günstiger?
+Das Material, weil das Bauteil wäre quasi schon mit relativ wenig Bearbeitung,
+ich nehme eben eine dicke Bramme
+und mache da nur die Konturen rein
+und bin eigentlich schon fertig.
+Das Rohr
+kann ich vielleicht als Halbzeug kaufen.
+Das kriege ich schon fast fix
+und fertig genauso geliefert.
+Jetzt stecke ich die beiden zusammen
+und dann habe ich nur noch ein Problem,
+die miteinander zu verbinden.
+Und dann muss ich mir eben
+einen wie auch immer gearteten
+Schweifprozess aussuchen, der das kann.
+Und dann fangen wir wieder an.
+Was kann der technologisch? Vielleicht muss ich Schweißversuche machen, auch nicht zu unterschreiten.
+Ja, unterschätzen. Jetzt haben Sie speziell ein hochfestiges Material.
+Fragen Sie mal bei einer Firma an, die sowas macht. Was kriegen Sie als Antwort?
+Müssen wir probieren. Wir kennen den Stahl nicht.
+Es gibt ja tausende von Stahlsorten, die unterschiedliche Eigenschaften haben, unterschiedliche Schweiß-Eigenschaften.
+Da kann es dann schon mal sein, dass Sie sagen, wir brauchen erstmal ein paar Wochen für Schweißversuche.
+So, und dann kommt es eben auch an, welchen Schweißprozess Sie da denn hier einsetzen.
+Was würde denn jetzt mit diesem Teil passieren, wenn Sie jetzt hier schweißen?
+Also, gucken wir uns mal das Teil mal an. Das verdeckt jetzt das Wege hier hinter.
+Das heißt, der Flansch würde jetzt da drauf sitzen.
+Was fast nicht zu vermeiden ist, wäre eben, dass das Ganze sich so ein bisschen verzieht.
+Das Flansch zu hoher gewissen Winkel eingeht.
+Weil Sie ja mit Wärme da drauf gehen und das Ganze entsprechend heiß machen.
+Ja, auf die Länge, auf 8 Meter Länge, könnte es schon sein, dass da hinten, je nach Schweißverfahren, plötzlich irgendwie ein Zentimeter oder sowas anders ist.
+Der Rundlauf Ihrer Welle nicht mehr funktioniert.
+Ja, dann ist es schon wieder ein Problem.
+Das heißt, ja, kann man natürlich wieder lösen, das Problem, indem man sagt, ich mache doch ein bisschen dickeres Ohr, was ich nachher wieder exakt abdrehe, damit es wieder passt.
+dann verliere ich aber wieder Zeit und Geld, weil ich ja wieder einen größeren Drehprozent an der Stelle habe.
+Oder ich gucke mir wieder ein anderes Schweißverfahren an, was vielleicht nicht so viel dazu gehört.
+So, und deswegen hier nochmal die Tabelle dazu, was man so alles zu wahrsten hat, kostentechnisch.
+Ohne Schweißen brauchen Sie viel Material, das kostet.
+Wir müssen viel bearbeiten und gewisse Endbearbeitungen auch noch durchführen.
+Und der Unterschied zum Schweißen wäre eben, Halbzeuge, Vorprodukte, viel weniger Material,
+damit auch viel weniger Bearbeitung.
+Das ist aber neu, jetzt kommt ein Kostenblock, Schweißverfahren, das kostet das.
+Jetzt könnte aber auch noch ein Richtprozess, von dem ich gerade geredet habe,
+das Ding da gerade machen, dazukommen.
+So, und dann habe ich wiederum
+den Block hinbearbeitet dabei.
+Und das bedeutet
+für Sie die Entscheidung, wirtschaftlicher Art,
+nur wenn ich da eine
+Kostenersparung habe, will ich überhaupt
+Brustschweißen.
+Stimmt nicht, ne? Was habe ich denn gesagt?
+Wenn Sie das Board dann nicht anders herkriegen,
+dann will ich schon wieder Brustschweißen.
+Ja, wenn die Spiele nicht liefert,
+wann könnte ich es noch machen
+wenn es anderweitig technologisch
+oder beim Drehen einfach
+ein zu großes Problem darstellt
+zu viel Materialien abzuarbeiten
+und so weiter
+das heißt, hier spielt die Musik
+und dann können Sie immer noch hergehen
+zu überlegen, welches Prozess
+hier auch noch entsprechend
+noch irgendwas einsteigen kann
+diesen Graphen darf ich einfach
+auch noch mal ans Herz legen, ja, dass es sich dazu kann man eben auch rein betriebswirtschaftlich
+eigentlich wiederum diesen Einsatz gut begründen.
+Wir springen, wie gesagt, immer zwischen technisch und wirtschaftlich fertiggebracht.
+So, dann würde ich sagen, ich mache heute die Schweißbarkeit noch mal ein bisschen weiter. Danke.

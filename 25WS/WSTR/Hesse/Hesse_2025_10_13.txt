@@ -1,0 +1,1289 @@
+
+So dass die Wärmeleitfähigkeit, die kam vorhin schon mal als Begriff, gering ist,
+aber zum Beispiel die Strahlungsverluste können wir nicht unterbinden.
+Was allerdings jetzt unabhängig von diesem reinen Verständnis, was total wichtig ist
+und was ich Ihnen hoffentlich auch mitgeben kann, noch mit transportiert werden soll in dieser Vorlesung,
+sind auch die quantitative Dinge.
+Wir haben hier ein Beispiel, später kommt ein anderes mit Eier kochen.
+Mein heißer, warmer Kaffee, der da in dem Fall auf der offenen Tasse steht und die Umgebung wie 50 Grad kälter ist,
+der wird natürlich auskühlen und sich irgendwann angeeichen an die Umgebungstemperatur, das wissen wir alle.
+Nur spannende Fragen können auch sein, wie lange dauert das denn jetzt?
+Ja, und das zu berechnen ist Teil der Themen, die wir uns hier anschauen werden.
+Also nicht nur, dass es in diese Richtung geht und sich die Temperatur ausgleicht, sondern eben auch, wie lange dauert es.
+Und dann wieder mehr qualitativ die Fragen, wie kann ich es beschleunigen, wie kann ich es verlangsamen,
+wie kann ich es zum Beispiel beschleunigen, dass mein Tee oder Kaffee oder meine Suppe schnell abkühlt.
+Ja, klar, ich kann die Suppe rausstellen
+und dann wieder reinholen, klar
+aber noch mehr aus dem praktischen Leben
+ja, pusten, ganz genau
+ja, also das ist
+aus dem praktischen Leben, ich würde nur sagen
+noch häufiger verwendet
+weil es praktisch ist, weil Sie
+das Bordmittel da haben, Sie können drauf pusten
+und was machen Sie? Sie verändern
+von, in den Fachworten
+gesprochen, freier Konvektion
+Und in erzwungene Konvektion.
+Und diese Fachbegriffe will ich heute kurz aufdröseln.
+Falls Sie die noch nie gehört haben, dann bitte da aufpassen.
+Das ist also im Endeffekt eine andere Art des Wärmeabtransports, der da stattfindet.
+Und Sie können eben das beeinflussen.
+Und das ist ein ganz wichtiges Thema.
+Also sonst würde das mit Ihrem Pusten auf den Löffel oder was nicht funktionieren.
+und wir können sogar sagen, wie viel mal schneller kühlt die Suppe aus, wenn Sie draufpusten,
+dann wäre Ihre Bauchgefühl, wie viel können Sie beschleunigen, von welchem Faktor vielleicht.
+Wenn Sie da so händisch pusten, vielleicht ein Faktor zwei oder drei.
+wenn Sie da ein richtiges Gebläse einschalten
+und ordentlich drüber pusten
+mit den gleichen Temperaturniveaus
+Sie hatten ja gesagt, ich verändere die Basistemperaturniveaus
+total legitim
+aber mit den gleichen Temperaturniveaus
+von freier Konvektion auf erzwungene
+gleich ist mein Laptop
+macht im Moment ganz bewusst keine Lüftergeräusche
+weil er Strom sparen will
+und weil es stört, das Geräuschpegel
+aber jetzt da oben
+der Beamer, da ist der Lüfter an
+weil die Glühbirne ist brutal heiß
+und da muss ordentlich was wegtransportiert werden
+und da kann ich bis zu 10 mal mehr wegtransportieren,
+als wenn ich es nur so als freie Konvektur stehen lasse.
+Das sind also Themen, die wir uns anschauen.
+Um das aber gleich hier richtig zu klassifizieren,
+es gibt eben drei übergeordnete Arten des Wärmetransportes
+und die bezeigen wir als Wärmeleitung.
+Das kam vorhin auch schon von Ihrer Seite.
+Die Wärmeleitung ist in dem Feuerbeispiel hier, wo jemand eine Pfanne, einen Topf über ein Feuer hält, das Beispiel, dass der Topf selbst verbunden ist mit dem Griff und hier tritt Wärmeleitung auf.
+Das heißt, die Temperatur, die hier der Topfboden erreicht hat, aufgrund des heißen Feuers, die wird transportiert und Wärme ist hier in die Hand.
+Das kennen wir alle, das ist Wärmeleitung, die werden wir in dem ersten Teil der Vorlesung sehr detailliert uns anschauen und quantitativ anschauen.
+Dann gibt es den zweiten Teil, das ist die Konvektion.
+Die Konvektion tritt überall auf, wo sich was bewegt.
+Hier bewegen sich die Teilchen selber nicht.
+In dem Griff gibt es keinen Materialtransport von hier links nach hier rechts.
+Der Griff verformt sich hoffentlich nicht, sondern ist ein Feststoff.
+Aber trotzdem wird Wärme transportiert.
+Bei der Konvektion ist es anders, hier drinnen zum Beispiel im Topf finden Wirbelbewegungen statt, da tauscht sich was aus und den kann man dann wieder in die freie und die erzwungene Konvektion unterscheiden, dazu später mehr.
+Und der letzte Effekt, den werden wir uns erst am Ende der Vorlesung nochmal wieder ein bisschen anschauen,
+das ist die Wärmestrahlung, die häufig in der Größenordnung etwas weniger prominent ist,
+zumindest in diesen klassischen Beispielen, über die wir jetzt schon sprachen.
+Deswegen kann man sie oft vernachlässigen, aber in Wirklichkeit tut sie immer ihren Teil zum Spiel beitragen.
+Wenn Sie sagen, Wärmestrahlung ist gerade bei einem Feuer dann doch merklich oder wenn Sie mit dem Tages-Sonnenlicht arbeiten, dann sehen Sie, wie stark Wärmestrahlung sein kann. Da geht es darum, dass Wärme transportiert wird, ohne dass irgendwelches Material oder irgendein Feststoff in Beteiligung ist.
+Und wenn das Feuer hier in der Mitte bei der Glut vielleicht 500 Grad hat, dann wird über die Wärmesperrung auch direkt an sie eine wärmende Wirkung transportiert.
+Diese Effekte werden wir uns also anschauen und das ist jetzt hier einfach nur die Gliederung aufgedröselt von der entsprechenden Teil der Vorlesung,
+wo wir also diese Sachen
+Block für Block
+durcharbeiten
+die Begrifflichkeiten, die Definitionen
+und so weiter sind natürlich
+ganz ähnliche, deswegen schon gut
+wenn Sie dabei bleiben und
+immer
+mit Folgen, was wir hier tun
+auf der anderen Seite eben aber
+wie schon vorher haben wir erwähnt
+doch eine Möglichkeit
+in diesen Block
+wieder so ein bisschen neu einzusteigen
+gegenüber dem vorigen
+Und dann bei dem Konvektionsthema auch wieder zwei Blöcke, einmal entzwungen, einmal frei, die in sich eigene Rechnungen bedeuten.
+Das heißt, dass auch im Kontext einer Prüfung oder einer klassischen Fragestellung in der Wärmeübertragung eine ihrer ersten Aufgaben ist,
+Es ist fast immer, das ist ganz wichtig, herauszufinden, was ist es denn nun, was Sie da brauchen.
+Ein Beispiel aus irgendeiner früheren Klausur war, was fällt mir ein, ein Lastwagen transportiert irgendwie eine besonders kalte oder besonders warme Flüssigkeit,
+sagen wir mal, ein Kühllaster transportiert kalte Milch aus dem Allgäu in die nächste Prozessschritt
+und die Milch soll nicht zu warm werden und es geht darum, wie viel Wärme strahlt er jetzt unter welchen Bedingungen ab.
+Da müssen Sie sich überlegen am Anfang, ja was spielt denn hier eine große Rolle,
+wenn da kalte Milch transportiert wird durch die Umgebungsluft und ein Fahrzeug fährt,
+dann haben Sie wahrscheinlich erzwungene Konvektion und vielleicht spielt noch Wärmeleitung ein Stück eine Rolle,
+aber wahrscheinlich spielt die Wärmestrahlung in dem Falle keine Rolle.
+Warum genau, werden wir dann noch sehen.
+Und dann müssen Sie in den richtigen Block einsteigen und da mit dem richtigen Formelwerk, mit den richtigen Größen umgehen
+und dann halt in den Echern die Themen anwenden.
+So weit also die Idee. Es gibt dann noch zwei, oder ein sehr anwendungsorientiertes Thema, das ist die Wärmeübertrager, die in dem praktischen Leben eine extrem große Rolle spielen und bei denen sich vorgenannte Effekte kombinieren.
+Warum? Deshalb erkläre ich später Wärmestrahlung, wie gesagt, als letztes Kapitel.
+Ohne Wärmestrahlung könnten wir hier auf der Erde nicht leben, sonst würde keine Energie von der Sonne zu uns auf die Erde transportiert.
+Und wir werden an der Stelle auch die Basics davon mit erfahren.
+Ja, soweit vorneweg. Was verbindet aber all diese Themen der Wärmeübertragung? Ein paar Grundbegriffe, die wir immer wieder benötigen werden, die sind hier mal zusammengefasst.
+Einmal die Temperatur. Und da stehen zwei verschiedene Symbole für die Temperatur.
+Einmal dieses große T und einmal dieses Theta aus dem Griechischen.
+Ich versuche auch mal so ein Theta hier hin zu malen.
+Das sieht bei mir in etwa so aus.
+Und die Idee, die dahinter steckt, ist nichts anderes, als dass die Temperatur mit dem großen T,
+Temperatur in Kelvin ist
+und die
+mit dem Zeta
+mit diesem geschwungenen griechischen Buchstaben
+in Grad Celsius
+das wissen Sie alle
+Grad Celsius ist das womit wir
+normal arbeiten, hier so im täglichen Leben
+und
+Kelvin ist die Skala
+die eben geeicht ist auf den absoluten
+Nullpunkt
+der bei 200-273
+Grad Celsius
+Dazu kommt bei der Thermodynamik in der nächsten Stunde sowieso noch ein bisschen mehr.
+Deswegen halte ich das jetzt kurz.
+Wir benutzen beide Größen und Sie müssen höllisch aufpassen, wenn Sie in der Wärmeübertragung arbeiten,
+dass Sie dann, wenn es nötig ist, umrechnen auf die Kelvin-Skala.
+Und dann, wenn es nur um Temperaturunterschiede geht, da können Sie sehr wohl mit Celsius arbeiten.
+Weil, wenn ich sage, zwischen 20 Grad und 30 Grad sind nur mal ein Delta von 10,
+dann spielt das keine Rolle, ob das Delta 10 Kelvin oder Delta 10 Celsius ist.
+Die Skala ist ja nur ein Stück verschoben.
+Und bei ganz vielen Aufgaben geht es uns darum, wie warm ist hier drin, wie kalt ist da draußen, was ist der Unterschied?
+Und dann ist es egal, ob man mit Kelvin oder mit Celsius arbeitet.
+kommt anders
+am Schluss der Folge
+Wärme
+ist ein ganz zentrales
+Thema, ich hatte sie auch schon
+angesprochen mit diesem Buchstaben Q
+und die Wärme
+hat
+ja, könnte man als Quizformel
+formulieren können, die Einheit
+Joule
+genauso wie
+jegliche Arten von
+Energie, zum Beispiel
+kinetische Energie oder potenzielle Energie
+die die gleiche Einheit hat, kann man natürlich in Kilojoule schreiben für den Tausenderfaktor
+oder was für uns praktisch auch sehr relevant ist, in Kilowattstunden.
+Die Umrechnung kommt immer mal wieder.
+Das bedeutet aber auch, Wärme ist eigentlich nur eine Energieform
+und da sind wir letztes Mal in der Thermodynamik nicht ganz fertig geworden,
+beziehungsweise sind an der Stelle ziemlich genau stehen geblieben
+mit dieser Definition
+von Wärme als eine Energie
+vor Ort und neben der Arbeit
+wenn Sie das nächste Mal
+dabei sind am Freitag
+und der Herr Happig
+mit Ihnen startet, dann wird er ziemlich sicher
+in einer der ersten Minuten
+dieses Diagramm wieder auflegen
+wo es darum geht, dass man Energie
+das ist jetzt aus der Thermodynamik
+rauskopiert, unterteilt
+in Sachen
+die stecken da drin, innere Energie
+und die an die Umgebung übertragen werden, entweder kinetische oder potenzielle Energie.
+Die zwei kennen Sie, nur die Buchstaben sind vielleicht ein bisschen merkwürdig.
+Da werden Sie in der Thermodynamik wieder was zu hören.
+Und dann aber die übertragene Energie, das ist das, wo von außen was zugeführt wird oder abgeführt wird.
+Das ist einmal die Arbeit mit dem W und einmal die Wärme mit dem Q.
+und dadurch kommt der erste Hauptsatz der Thermodynamik aus,
+da geht es eigentlich immer darum, dass gegenüber dem,
+was Sie bisher aus der klassischen Mechanik kennen, eben noch die Wärme dazukommt.
+So, Wärme ist eine Größe, die immer zwischen zwei Systemen auftritt
+und zwar aufgrund von unterschiedlichen Temperaturen
+beziehungsweise bei Phasengängen gilt auch der Dichteüberschalt
+als Dichteunterschied als treibende Kraft,
+aber üblicherweise sind die Temperaturen unterschiedlich und deswegen passiert was.
+Hier drin ist es, weiß ich nicht, 25 Grad, da draußen ist es 10 Grad,
+deswegen fließt eine Wärme von hier drin nach da draußen.
+Wenn es hier drin ausgekühlt hat und nur noch 10 Grad hat und da draußen 10 Grad hat, fließt keine Wärme.
+Und das Ganze ist eine Prozessgröße, Prozessgröße kommt in der Thermodynamik nochmal, heißt aber im ungefähren,
+dass nur wenn wir vorgehen, wie das Ganze funktioniert, also zum Beispiel, ob ich hier das Fenster aufmache oder zulasse,
+Es wird ein ganz unterschiedlicher Wärmefluss von innen nach außen transportiert, nicht
+nur, dass das eine schneller geht als das andere, sondern dass vielleicht auch die Wärmemenge
+eine andere sein könnte.
+Viel deutlicher wird das Ganze bei den entsprechenden Prozessführungsthemen, bei denen Arbeit und
+Wärme eine Rolle spielt, nehmen wir wieder die Wärmepumpe, je nachdem wie die Betreiberin
+unterschiedliche Wärmemengen fließen und diese zwei Größen sind nicht ganz ohne,
+weil man sie nicht beliebig ineinander umwandeln kann und nicht in jedem Prozessschritt klar ist,
+welcher davon mit Ihnen zu tun hat und deswegen sehen Sie auch in den kommenden Beispielen,
+die hier aufgeführt sind, ein paar Zeichen, die so vielleicht noch nicht so bekannt waren.
+Nehmen wir neben der Wärme, die wir gerade schon eingeblendet hatten, auch den Wärmestrom dazu.
+Wir sehen da oben ist der Punkt drauf, den bitte nicht vergessen.
+Der Punkt bedeutet nichts anderes als eine zeitliche Änderung und diese zeitliche Änderung könnten wir ausdrücken,
+ausdrücken, machen wir es erst, vielleicht in dem Falle mal so, dass wir sagen, das ist
+Delta Q durch Delta T, das ist eigentlich relativ klar, also wie viel Wärme fließt
+pro Zeit, das ist ein Wärmestrom und was hat der Wärmestrom für eine Einheit?
+Ja, durch pro Sekunde, das sind Watt, also welche Leistung. Ihre Laptops, Ihre Tablets,
+Ihre Endgeräte da verbrauchen gerade Strom und fast alles, bis auf das bisschen, was da irgendwie im Display an visueller Thematik unterwegs ist, wird praktisch alles in Wärme umgesetzt.
+Und deswegen wird da ein kontinuierlicher Wärmefluss stattfinden von vielleicht 30 oder 50 Watt.
+Oder wenn Sie hier im Raum sitzen, wie viel Wärme geben Sie, während Sie hier sitzen, an den Raum ab?
+Wirklich eine Idee.
+Sie schütteln den Kopf, aber genau, vielleicht mit dem Käppi, ja?
+350 Watt.
+350 Watt, ja. Das wäre eine ordentliche Menge, wenn Sie sich überlegen,
+ein E-Bike, wenn ich das fahre im vollen Betriebsmodus, das sind etwa 350 Watt.
+Und da kann man sich eigentlich schon überlegen, als Spitzensportler kann es sein, dass Sie 350 Watt hier abgeben, ganz gut und auch kontinuierlich 350 Watt.
+Wahrscheinlich aber, wenn Sie jetzt nicht völlig am Anschlag sind bei dem, was ich hier eben erzähle, dann sind Sie wahrscheinlich eher etwas tiefer.
+Eher bei 100 Watt, vielleicht 150. Das ist so das, was wir normal verbrauchen.
+Das heißt aber auch im Umgekehrten, wie viel Energie müssen wir zuführen?
+Also wenn wir den ganzen Tag nur rumsitzen, müssen wir eine gewisse Menge an Nahrung zuführen.
+Da stecken ja auch die Kilojoules drin.
+Die können Sie ja hinten auf der Packung von Ihrem Vollkornbrot oder was weiß ich nachlesen.
+Aber wenn Sie jetzt Sport machen, und da gibt es hier ein Beispiel, wie viel Wärme gibt man an die Umgebung ab.
+Zwei tanzende Personen.
+Tanzen kommt jetzt aus diesem entsprechenden Fachbuch, aber nehmen Sie irgendwas.
+Sie machen irgendwie harten Sport, sagen wir einfach mal harten Sport, was beim Tanzen nicht immer der Fall sein muss, aber kann ja sein, wenn Sie in die Disco gehen und auf Blur Song 2, Poke spielen und was würden Sie dann an Wärme an die Umgebung abgeben?
+Sie hatten diese 350 Watt in dem Bereich genannt, ich habe es schon kommentiert, Sie können bis zu 600 Watt als normaler typischer Körper, wenn Sie nicht speziell darauf trainiert sind, an die Umgebung abgeben.
+Das heißt, ich kann hier reinschreiben, sowas wie, wenn es zwei Personen sind, 1,2.
+Jetzt ist es nichts anderes als Kilojoule pro Sekunde.
+Und das ist nichts anderes als, wenn man das umrechnet, 1,2 kW.
+Das in der Umrechnung nochmal bitte vor Augen führen.
+Ich muss jetzt hier mal ein bisschen was einstecken, sonst stürzt mir mein Telefon.
+Und warum wird das daneben gezeigt?
+Nochmal, was macht dann ein KW-Heizstrahler aus?
+Das ist ja so das, was wir vielleicht so noch kennen,
+wenn Sie irgendwie ein älteres Bad haben, was nicht gut beheizt ist,
+wo Sie vielleicht einen Heizstrahler noch zuschalten
+oder spätestens, wenn Sie ein Baby zu Hause haben,
+dann haben Sie wahrscheinlich irgendwie so eine Heizlampe,
+wo Sie sagen, oh gut, es muss jetzt heiß werden.
+oder Sie haben einen Toaster zu Hause stehen,
+als anderes Beispiel, Sie haben
+üblicherweise sowas wie eine Leistung von
+1 kW, da kommt schon ordentlicher Wärme raus.
+Ihr Backofen hat vielleicht sogar
+2 oder 3 kW. Das ist
+also eben nichts anderes als
+1,0
+Kilojoule pro Sekunde.
+Das heißt,
+zwei Personen,
+die sich hart anstrengen, können
+gleich
+oder gar ein bisschen mehr Wärme
+an die Umgebung abgeben als
+so ein klassisches elektrisches Gerät.
+Das ist schon ganz schön viel.
+Deswegen müssen wir auch ganz schön viel essen
+den ganzen Tag, damit wir
+irgendwie
+im Futter bleiben.
+Okay, das habe ich jetzt alles so ein bisschen
+definiert, wo ich
+hier noch ganz bewusst ein bisschen Platz
+gelassen habe und wo ich vorhin
+einen halben Satz eigentlich nicht fertig
+geführt habe, war die Definition
+mit dieser Wärme und der Zeit.
+Und ich werde jetzt ein Zeichen verwenden, was
+sie vielleicht so
+in diesem Zusammenhang noch nicht benutzt haben.
+Ich schreibe hier
+ein Del Q nach Del T.
+Das ist nichts anderes als das Delta.
+Und dieses Delta habe ich hier
+verwendet. Ich habe es da oben nochmal hingestellt.
+Weil
+was sie sicherlich kennen,
+sind irgendwelche Sachen
+wie
+wir könnten schreiben, wenn wir
+kinetische Energie
+machen, E-Kin
+und wir brauchen irgendwie, wie viel kinetische Energie wird übertragen,
+wenn wir gleichmäßig beschleunigen oder bremsen, dann haben wir nichts anderes als E-Kin-Punkt,
+dann ist das nichts anderes als Delta E-Kin durch T, Delta T,
+Das ist nichts anderes als D-E-Kin nach D-T und das ist nichts anderes als P, irgendeine Leistung.
+So kennen Sie das wahrscheinlich irgendwie aus dem Physikunterricht.
+Und hier stehen Ds.
+Und bei meinem W-Punkt habe ich gerade das gleiche geschrieben und dann habe ich hier aber ein Del oder Delta verwendet.
+Das soll W sein. Der Hintergrund ist, dass wir über eine Prozessgröße uns unterhalten, die eben nicht ganz klar ist, wie viel an Wärme den Dach fließt und wie viel Wärmeleistung ausgetauscht wird.
+Und warum ist das nicht klar?
+Weil eben wir eine Abhängigkeit davon haben, wie wir das Ganze tun.
+Unter hohem Druck, unter niedrigem Druck, unter bestimmten Randbedingungen.
+Und das wird Sie verfolgen für die gesamte Veranstaltungsreihe WSTR.
+dass Sie, wenn Sie über Wärme und Arbeit sich unterhalten, dass Sie diese Dales benutzen.
+Soweit an der Stelle. Was auch noch vielleicht da zu bemerken ist,
+praktischerweise hat man diesen Buchstaben P für die Leistung eingeführt in der klassischen Mechanik bei der Arbeitsthemen-Termin.
+Ich habe hier Unsinn geschrieben, es tut mir sehr leid, ich hätte eigentlich was zur Wärme und nicht zur Arbeit schreiben sollen.
+Funktioniert aber genauso, bei der Arbeit wäre es genauso gegangen, nur passt es nicht zu dem Text, den ich erzählt habe.
+Also hier wollte ich mich über die Fuß unterhalten, die entsprechende Wärmemenge, die da übertragen wird.
+Und bei dieser Werbemenge haben wir so eine praktische Größe, typischerweise nicht.
+Wir nutzen einfach immer die Definition, wie sie hier steht. Ich schreibe es deswegen nochmal rechts hin.
+Q-Punkt und das Synonym für eine Leistung in einem klassischen Arbeits- oder in der klassischen Mechanik ist hier eben ein Q-Punkt.
+eine übertragene Wärmemenge oder ein Wärmestrom.
+Was auch noch benutzt wird, ist die Wärmestromdichte.
+Das ist jetzt die Wärmestromdichte, nichts anderes als die Normierung auf eine bestimmte Fläche.
+Das heißt, wie viel Wärme fließt in einer bestimmten Zeit und über eine bestimmte Fläche.
+Das werden wir gleich nochmal an praktischen Beispielen auf der nächsten Folie sehen,
+wieso man das so macht.
+und wie das in der Praxis anwendet wird.
+Das ist ein kleines Q mit dem Punkt drüber.
+Hier sind extra noch Betragssprüche hingemalt und der Fettdruck verwendet.
+Der Fettdruck soll Ihnen anzeigen, dass es sich um einen Vektor handelt.
+Man kann genauso auch einen Vektorpfeil verwenden.
+Also ein Q mit einem Pfeilchen drüber.
+Das ist nichts anderes als ein fettgedrucktes Q.
+Nur Fettdruck ist nun mal in der Handschrift eher schwierig.
+Und hier durch die Betragszeichen sehen wir, dass es sich einfach nur um die Menge, um die Zahlenwerte handelt.
+Wir können aber immer, wenn Wärme auftritt, auch den Vektor qualifizieren.
+Denn ganz oft ist es jedoch so simpel und so klar für den Betrachter, dass es nicht unbedingt gemacht werden muss.
+Wo sind die Pfeile?
+Die Pfeile sind hier in alle Raumrichtungen gleichmäßig oder ziemlich gleichmäßig.
+Je nachdem, wenn die Personen vielleicht andere Kopfbedeckungen haben,
+dann wird eine andere Menge von Wärme in verschiedene Richtungen abgestrahlt.
+Bei so einem Heizlüfter wird auch in alle Raumrichtungen wahrscheinlich gleichmäßig abgestrahlt.
+Deswegen, also Wärmeströme haben einen Vektorpfeil und oft können wir die einfach vernachlässigen und uns einfach nur um die betragsmäßige Größe unterhalten und ganz oft sparen wir uns dann das ganze Fettdruck und dann wieder die Betragsstriche, dessen nehmen wir einfach den Normaldruck und haben dann die Richtung ausgeklappt.
+Soweit jetzt dazu. Jetzt gehen wir mal rein in die verschiedenen Beispiele hier.
+Hier geht es um meine Hauswand. Die hat eine bestimmte Größe, eine Höhe und eine Breite und eine Dicke.
+Und da geht ein Wärmestrom verloren. Also hier wieder mein Beispiel zum Fenster raus.
+Und da ist es auch bemaßt. Wir haben drei Meter und zwei Meter, also eine sechs Quadratmeter Fläche.
+Und in diesem Falle stehen noch Zahlenwerte zum Wärmestrom dabei.
+Das heißt, wir könnten jetzt hier drüben ausrechnen,
+unser, Entschuldigung, ich nehme eine andere Farbe,
+unser Q-Wärmestromdichte ist nichts anderes als der Wärmekransport,
+der oben mit Q-Punkt bezeichnet wird und ich habe jetzt keine Wechselpfeile mehr und das ist die 24 Watt pro und jetzt haben wir hier unten 6 Quadratmeter als Fläche und dann haben wir also ein Q-Punkt, was 4 Watt pro Quadratmeter ausmacht.
+Jetzt gucken wir mal, ob es noch kommt. Ja, gerade.
+Also das Dämpferdrehen wird sehr schlecht.
+Hoffentlich kriege ich das trotzdem gemanagt.
+Also 4 Watt pro Quadratmeter ist natürlich eine praktische, spezifische Größe,
+weil wenn es mir jetzt darum geht, im Baumarkt irgendwie ein gutes Isolationsmaterial zu kaufen,
+dann kann ich mit so einer Größe viel besser arbeiten,
+weil skanieren tut es dann, wie viele Quadratmeter ich von dem Zeug kaufe
+oder wie viele Quadratmeter die Wand hat.
+Ja, das ist einfach nur die spezifische Größe.
+Wenn ich jetzt sage, die Wand da draußen, die hat etwa 10 Quadratmeter und ich weiß, diese spezifische Größe, die viel mit der Wärmeleitfähigkeit zu tun haben wird, wenn wir gleich sehen,
+der hat meinetwegen 4 Watt pro Quadratmeter an Verlustleistung, 10 Quadratmeter Fläche, ja, da werden jetzt 40 Watt verloren.
+Wie würde ich das machen?
+Und diese 40 Watt, die muss ich kompensieren dadurch, dass ich innen nachheize oder es wird halt kühler.
+So kann man ganz schnell nachrechnen, was passieren wird.
+Und wo sich thermische Gleichgewichte einstellen.
+Soweit an der Stelle.
+Jetzt aber noch zu dem Thema, was wir vorhin auch schon angeschnitten hatten.
+Es geht nicht nur darum zu wissen, wie sind solche stationären Themen gelagert.
+Das heißt, hier haben wir oben in diesem Bild einen stationären Vorgang skizziert.
+Das heißt, innen ist 15 Grad, außen ist 7 Grad und da fließt eine Wärme, weil hier aber innen irgendwo, ich male hier nur die Kritze rein, so eine Glühbirne darstellen vielleicht oder irgendein Heizlüfter, zusätzlich wieder neue Wärme generiert wird, ist der Wärmesprung später immer noch, der Gag ist immer noch innen 15 Grad und außen 7 Grad, drei Stunden später am Tage.
+Das heißt, wir sind stationär.
+Drinnen bleibt das Temperaturniveau gleich, außen bleibt das Temperaturniveau gleich.
+Ganz häufig haben wir in der Praxis aber diesen unteren Themenbereich.
+Und da ist diese ganze Vorlesung jetzt entscheidend für, um sich auch anzugucken, was passiert denn,
+wenn hier drinnen kein Ding nicht nachgeheizt wird, sondern das ganze Thema auskühlt.
+und dafür brauchen wir
+die Temperaturleitfähigkeit, die kommt
+später noch im Rahmen
+der Vorlesung, bei uns im Deutschen
+mit A, im Englischen mit
+einem Alpha verzeichnet und ich muss mal gucken
+ob das funktioniert, um das Video
+zu zeigen und wir sehen, dass
+unterschiedliche Materialien unterschiedliche
+Temperaturleitfähigkeit haben
+das heißt, dass sich entweder
+die Temperatur ganz langsam
+im Material ausbreitet oder hier
+wie Sie sehen, schon viel schneller
+ausgebreitet hat
+Und das ist jetzt erstmal was, gut, können wir hinnehmen, können wir uns unterhalten, dass zum Beispiel Metalle sehr schnell die Temperatur durchleiten und andere Stoffe sehr viel weniger.
+Das deckt sich mit unserer Anschauung.
+Das ist sehr wichtig in beide Richtungen.
+Zum einen wollen wir wenig Temperaturleitfähigkeit, wenn es hier meinetwegen wieder in dem Beispiel nach draußen geht
+und die Temperatur in die Freiheit davon eher isoliert werden soll.
+Das ist andersherum sehr wichtig bei einer Bremsscheibe.
+Die soll möglichst schnell gleichmäßig heiß werden, um die Hitzeeintragung durch meine Bremsbacken möglichst schnell zu verteilen.
+Ähm, zum anderen fand ich das Video jetzt wichtig, Ihnen kurz zu zeigen, dass Sie immer damit konfrontiert sein werden,
+dass irgendwelche Dinge im Raum ein bestimmtes Volumen ausmachen,
+aber wir noch die dritte Dimension, oder eigentlich sogar noch zwei zusätzlich gebrauchen,
+wir haben irgendwas in der x-Richtung, in der y-Richtung, und wir haben jetzt eine Zeit, die abläuft,
+und zusätzlich haben wir auch noch eine Temperatur.
+Also hier haben Sie das über dieses Farbdiagramm dann einfach dargestellt, kein Problem, tue ich mich extrem schwer auf der Tafel oder auf meinem Beamer, wenn ich ein stehendes Bild mache.
+Deswegen müssen Sie darauf achten, dass wir immer wieder irgendwo Koordinatenachsen einführen, indem wir in unterschiedliche Raumrichtungen unterschiedliche Dinge auftragen.
+Und hier ist ein Beispiel dafür, es geht hier um das Thema, dass wir Wärmeleitungen mal uns angucken wollen zwischen zwei Körpern und ich trage auf dieser Achse hier oben, Achtung, eine Temperatur auf und hier in diese Richtung eine Raumrichtung.
+Was hat das zu bedeuten? Mein Körper, über den wir uns jetzt gleich unterhalten, der hat am Anfang, in der einzig wichtigen Raumrichtung, eine Temperatur Theta A und der andere Körper eine Temperatur Theta B.
+Was wäre es jetzt? Keine Ahnung, mein Wegen, der Taschenrechner und mein Handy, die beiden, die berühren sich.
+Mein Wegen, ich habe den vorher in den Ofen gelegt, der ist jetzt heiß und das Ding ist kalt und ich berühre die.
+Und wenn die zwei sich berühren, wird was passieren hier an der Städte.
+Später in der Vorlesung machen wir was, dass wir sagen, okay, eine heiße, gusseiserne Pfanne vom Ofen oder vom Herd stellen wir runter, einfach so auf den Holztisch.
+Was passiert? Der Holztisch geht kaputt.
+Es wird zu heiß da unten.
+Und zwar nicht, weil die Pfanne heiß ist, sondern weil das Holz heiß wird.
+Da wird Wärmeleitung stattfinden und es geht uns jetzt in dem Falle nicht darum, wie genau die Bauform der Pfanne ist oder wie genau irgendwas passiert an meinem Holztisch unten am Eck, an irgendwelchen Beinen, sondern es geht um diese Kontaktfläche und es geht um die einzige Koordinate, wenn ich die Pfanne drauf stelle, von oben nach unten da rein oder hier in dem Beispiel von links nach rechts.
+Deswegen habe ich nur die Raumrichtung X und in die andere Richtung male ich Temperaturen.
+Und was passiert jetzt, wenn ich die zwei an die Kontaktstelle bringe?
+Hier außen, weit weg, meinetwegen am Fuße meines Tisches oder ganz außen an der Ecke vom Taschenrechner und von meinem Handy,
+da ist die Temperatur noch unverändert.
+Tut mir leid, diese zwei skizzieren hier.
+Zeta B, Zeta A, aber da in der Mitte, wo die beiden sich berühren, da wird sich eine andere Temperatur einstellen.
+Und Sie werden noch sehen, ob und inwieweit oder unter welchen Voraussetzungen diese Temperatur genau das mittlere ist aus den beiden anderen Temperaturen.
+Und hier wird sich irgendwo so ein Diagramm ergeben, bei dem wir sehen, wie die Temperatur da über diese Grenzfläche hinaus sich denn bewegt.
+Was jetzt interessant ist in dem Kontext, ist zu sagen, es gibt nicht nur den Zustand Nummer 1, den ich gerade dargestellt habe,
+sondern ein bisschen später wird es dann halt so aussehen vielleicht.
+Und noch einmal ein bisschen später gehen wir in eine nächste Farbe und wir haben vielleicht sowas, um dann im allerletzten Zustand, das ist der Zustand hier unten, eine Temperatur zu haben, die überall gleich ist.
+Das ist dann dieses Theta K, meinetwegen, was konstant für alle Raumbereiche gilt,
+für den Körper A und den Körper B, so wie wenn Sie hier drinnen die Heizung ausgeschaltet haben
+und draußen eben eine konstante Temperatur vorliegt.
+Irgendwann ist es drinnen genauso kalt, wie es draußen ist.
+Sie haben es da draußen ein bisschen erwärmt, das ist die Klimaerwärmung,
+aber das werden Sie wahrscheinlich kaum messen können, zumindest nicht in normalen Messmethoden.
+nichtsdestotrotz gleichen sich die Temperaturen an und wir können hier noch festhalten, dass
+wir hier oben stationär sind. Also das heißt, am Anfang, wenn ich nichts in Berührung habe
+und mein ein Körper heiß hat, den anderen kalt, so weit ich das in der Voraussetzung
+so bestehen, dann habe ich eine Temperaturänderungsphase, die ist instationär und dann habe ich wieder
+einen Start zu nehmen vorwärts.
+Und
+hier ist Q-Punkt
+gleich 0,
+hier ist Q-Punkt ungleich
+0 und hier
+ist wieder Q-Punkt gleich 0.
+Das heißt, in dem mittleren
+Bild wird sich
+hier ein
+Wärmefluss einstellen und
+das ist das Q-Punkt
+Ja, also hier transportieren wir die Temperatur in die Flamme rüber und dann verändert sich eben der Essen.
+So, jetzt habe ich da noch ein paar Achsen nicht beschriftet, das ist aber eigentlich im Endeffekt nichts mehr Neues.
+Ich kann nur, dass ich eben hier immer die Temperatur nach oben abgetragen habe und hier die Koordinate x.
+Und hier kann ich vielleicht noch schreiben, T ist gleich 0.
+Das kann man kaum lesen.
+Ich versuche es nochmal.
+T ist größer als dieses T0. Also hier schafft mein Tablet das gar nicht. Das lasse ich jetzt
+einfach mal. Und unten geht T gegen unendlich. Vielleicht schafft es hier wieder. Okay,
+Okay, soweit dieses Spielchen. Ich gucke mal auf meinem XZ, was wir als nächstes haben.
+Ob, wie und warum und wann dieser Ausgleich von Temperaturen stattfindet, dazu werden wir uns auf den nächsten Folien unterhalten.
+Und ich versuche, werden Sie dann sehen, im Rahmen der Vorlesung, diese Farbverläufe mehr oder weniger immer gleich zu verwenden.
+dass ich von diesem dunklen Blauton irgendwie in Grün und dann in noch andere Regenbogenfarben übergehe,
+damit man so sieht, was kam da aneinander.
+Also in dem Fall ist dunkelblau das Erste und später sind es die anderen Farben.
+Das wird uns immer mal wieder hier beschäftigen.
+Haben Sie alle so grob mit skizziert, was Sie wollten? Fast.
+Dann würde ich mal weitermalen und nochmal hier was aufblenden zum Thema Konvektion.
+was uns beschäftigt, stellen wir uns vor, wir haben einen Raum, in dem Falle sind die Koordinaten
+wieder ein bisschen anders gewählt, nämlich einfach x und y, also hier sind wir wieder im
+normalen Bereich, den wir so im Diagramm kennen und wir haben hier einen Raum, da ist hier ein
+und hier die Decke. Ich muss unbedingt in der Pause meinen Rechner neu starten, denn
+der hat so eine Latenzzeit, dass ich kaum schreiben kann. Boden und Decke und die haben
+unterschiedliche Temperaturen, meinetwegen hier unten ist es kalt und da oben ist es warm.
+Und was passiert in dem Fall, wenn ich diese Temperaturniveaus richtig einstelle und hier
+den vergleich bringe zu dem anderen neben beispiel von sind da oben das kennen sie
+Sie, denke ich, alle, wenn Sie mal spätestens auf irgendeiner Berghütte waren, wo man dann einen schönen Heizofen hat in der Ecke und Sie sitzen am Tisch, Füße sind kalt, oben ist heiß, wenn Sie aufstehen oder wenn Sie sich mit der Hand hochheben.
+Das ist das, wo wir stationäre Zustände erreichen können, unten ist kalt, oben ist warm, liegt ein dichter Unterschied der Luft, bei verschiedenen Temperaturen kommen wir noch zu, im Rahmen von dieser Vorlesung und der Strömungstechnik gleichzeitig, also hier heißt es, die Luft ruht.
+zweites bild genaues gegenteil unten ist heiß oben ist kalt was wird passieren
+die luft von hier unten geht nach oben und die luft von da oben geht nach unten die eine sinkt
+Die andere steigt auf, aufgrund dieses Dichterunterschieds. Wie kann ich das erreichen? Ja, indem ich hier unten eine Fußbodenheizung habe.
+Und was habe ich als Effekt hier in der Mitte? Diese sogenannte freie Konvektion.
+Ich schreibe jetzt ganz bewusst nur K-O-N-V-Punkt hin, weil ich es sonst nicht hinkriege und die Schrift ist da echt schwierig.
+Freie Konvektion also.
+Und hier hinten habe ich noch ein anderes Beispiel.
+Ich glaube, da kommt jetzt gerne noch was eingeblendet.
+Ah, da waren die Teilchen schon drin.
+Vielleicht ist es doch nicht gemeint.
+Hier, meinetwegen, ein Lüfter soll es hier unten darstellen, der jetzt die ganze Luft in Bewegung setzt.
+Was passiert dann? Nehmen wir von mir aus den grünen Stift.
+Es wirbelt hier durch und es geht viel schneller, hatten wir vorhin schon gesagt.
+Das ist die erzwungene Konvektion.
+So kann ich also verschiedene Varianten durchspielen und je nachdem, wie viel Energie ich da reinstecken will,
+mit einem Lüfter zu arbeiten oder auch nicht, sind diese Dinge ausgeprägter und schneller oder langsamer.
+Wenn Sie eine Klimaanlage vielleicht haben oder irgendwo so eine Raumklimatisierungsangelegenheit haben,
+dann kennen Sie das wahrscheinlich sehr gut, dass die nicht nur die Luft kalt macht,
+sondern auch rauspustet die kalte Luft, damit es sich schnell verwirbelt, damit da wirklich was vorwärts geht,
+damit wir diesen Effekt haben, die erzwungene Konvektion, damit die kalte Luft schnell im Raum den Raum abkühlt.
+Ja, andersrum wird auf der Rückseite die Wärme sozusagen entzogen durch dieses Gerät und außerhalb des Gebäudes.
+Soweit, so gut. Wenn wir das Ganze jetzt quantitativ oder in Schaubildern genauer angucken, dann nehmen wir uns oft so ein Diagramm zur Hilfe, bei dem wir hier sehen, im linken Bereich, dass mein Innenraum ist.
+Dann haben wir eine Ziegelschicht und bei einem moderneren Gebäude außen drauf eine Isolationsschicht.
+Warum außen und nicht innen, kommen wir noch dazu.
+Und außen haben wir eine andere Temperatur, die ist niedriger.
+Und wenn wir das gleiche Bild hier rüber übertragen und hier sind die Achsen wieder,
+hier ist sozusagen die Raumrichtung XY und hier haben wir das Ganze wieder übertragen
+in so etwas, wo die Temperatur nach oben dargestellt ist und die Raumrichtung nach rechts,
+weil es nicht interessiert, ob es hier unten oder hier oben ist, sondern es geht nur um einmal einen Querschnitt zu machen durch das Material,
+dann können wir hier schön anzeigenen, wie die Temperaturniveaus ausfallen.
+Und zwar, meinetwegen haben wir hier dieses Theta A, das ist die warme Temperatur innen und hier unten das Theta B.
+Das ist die kalte Temperatur außen, in dem Falle sogar vielleicht eine Temperatur unter 0 Grad, minus 5 Grad Celsius, innen meinetwegen 25 Grad Celsius und dann sehen wir, wie der Temperaturverlauf hier stattfindet.
+weit weg außen
+von der Wand tut sich nichts
+und Sie werden dann sehen und im Rahmen der
+Vorlesung sehen, dass sich hier schon
+was tut, auf das
+Material hinzu, das ist nicht so
+eine kleine Krummung, darstellen,
+dann haben wir hier ein
+Theta-Kontakt
+oder Theta-Ziegel
+Theta-K1
+hier ist eben der Ziegel
+Hier die Isolation und hier unten haben Sie auf diesem unteren Temperaturniveau hin auch so eine kleine Verkrümmung, das zur Auswand hin ein bisschen wärmer ist.
+und dazwischen haben Sie die Effekte, mit denen wir uns in dem ersten Teil der Vorlesung jetzt stark befassen werden,
+nämlich die Wärmeleitungseffekte, die ich jetzt ganz bewusst in Rot immer da reinzeichne
+und warum ich sie dann so ziemlich gerade und dann doch in der ganz unteren Steilheit gezeichnet habe,
+das wird uns dann gleich beschäftigen, nämlich dass hier in dem Material die Temperatur nur langsam abfällt,
+Das heißt, wenn ich das jetzt einfach mal aufschlagen würde mit dem Hammer und in dem Ziegel dann messe, dann sehe ich, dass der Innen logischerweise noch ein bisschen wärmer ist und je weiter ich durch die Wand hindurch gehe, also von hier nach außen, ich will nicht zu nahe treten, aber hier haben wir 25 Grad und wenn ich hier den Querschnitt langgehe, habe ich halt hier 23, 20, was weiß ich, 17 Grad und dann, wenn ich hier von den 17 Grad meinetwegen in die Außenseite gehe, wo die Isolation ist,
+dann fällt es innerhalb von wenigen Zentimetern Temperatur massiv stärker ab
+und wir sind plötzlich bei Minusgraden, die dann draußen herrschen können.
+So ist das Spiel hier zu sehen.
+Was wir dazu noch einseitigen könnten auf dem linken Bild, ist, was findet in der eigenen Stadt.
+Hier wird Wärme transportiert, Q Punkt 1.
+und, boah, das kann kein Mensch lesen,
+weil es da aufeinander liegt
+mit dem durchgestrichenen
+Muster. Ich male es unten
+drunter.
+Punkt 1.
+Hier wird die Wärme
+weiter transportiert in der Isolation.
+Wie Sie dann sehen werden,
+genau die gleiche Menge an Wärme,
+die da durchgehen muss.
+Und dann haben wir innen drin
+wiederum
+die Wärme, die dann
+oder außen, Entschuldigung, die dann
+nach außen geht und
+vielleicht haben Sie hier noch irgendwo einen Bereich
+von, meinetwegen,
+Strahlungswärme
+und im Bereich
+auf die Wand
+hin von innen gibt es
+die gleichen Effekte
+auch.
+Q0, meinetwegen,
+Punkt
+als Wärmeleitung
+oder als Konvektion
+Und meinetwegen auch noch eine Wärmestrahlung, die hier stattfindet.
+Also da können Sie verschiedene solche Pfeile addieren und dann werden Sie sich schon vermutlich ein bisschen vorstellen können.
+und sind hoffentlich nicht zu erschrocken, wenn ich Ihnen sage,
+ja, es sieht ein bisschen aus wie bei den Stromgeschichten,
+die Sie von elektrischen Schaltungstechnik vielleicht irgendwo kennen.
+Da werden irgendwo Ströme addiert, da gibt es irgendwo eine Kirchhoffsche Regel
+und den ganzen Kladderadatsch, der wird uns hier auch beschäftigen.
+Weil wir nämlich Wärmeströme auch addieren können
+und weil wir Wärmeleitwiderstände nichts anderes sind wie elektrische Umschiff,
+Widerstände. Und genau damit
+werden wir also rechnen,
+lernen.
+Ich würde
+mir mal angucken, wie sie jetzt so von
+der Zeit unterwegs sind.
+Heute
+etwas
+weniger zügig, aber ich denke, ich mache das noch
+bis zu den
+Wärmekapazitäten, um dann in die Pause
+zu gehen. Ein bisschen
+hoffe ich, können sie noch durchhalten.
+Ja, schon. Das wäre etwa kurz nach 10 dann.
+Sie haben eine Frage?
+Ich würde noch mal fragen, was das so ist. Was soll das nochmal beschreiben?
+Das soll beschreiben, die Wärmeleitung, also den Temperaturverlauf innerhalb dieses Materials.
+Also Sie sind da sozusagen, oder?
+Da sehen wir, hier ist die Temperatur also höher, an der Stelle, ne?
+Und jetzt geht die langsam runter.
+und hier ist die Kontaktfläche zwischen
+dem Ziegel und der Isolation, die wird uns
+zum Beispiel dann bei Rechnungen beschäftigen.
+Sind sie über dem Taupunkt, sind sie unter dem Taupunkt,
+kann sich da Schimmel bilden? Klassische
+Frage. Und
+was ich also darstellen wollte in dem Roten
+ist, wie verläuft die Temperatur
+von innen nach außen?
+Und das ist das, was ein bisschen merkwürdig
+anmutet, weswegen ich das jetzt hier auch gemacht habe,
+ist, dass wir eben in die Richtung nicht Y
+geschrieben haben, also das ist ja Temperatur,
+sondern in keine Raumrichtung. Es geht mir also
+nicht darum, wie ist die Temperatur hier gegenüber
+wie ist sie hier, sondern es geht mir nur darum
+wie ist sie innen gegenüber außen
+und auf der Achse
+aufgrund der Darstellung auf meinem
+Papier, ich kann
+Temperatur schlecht darstellen, ja
+Könnten Sie vielleicht dann nochmal den Schwung
+die Temperatur K1 dann noch lernen
+Ah, ja, also das wäre jetzt
+eine Kontaktflächentemperatur
+wie ich in dem Fall es gezählt habe
+ich hätte hier genauso K2
+hinschreiben können und hier
+K3, ja, das sind alles irgendwo
+Kontakt flechten. Und
+da geht es also dann darum,
+dass wenn ich sage, hier drin ist 25 Grad,
+an der Wand
+haben wir vielleicht
+23,5 Grad.
+Interessanterweise ist es nicht genau
+die gleiche Temperatur wie hier drin.
+Es ist schon ein bisschen eine Temperatur, weil das merken Sie auch.
+Wenn Sie die Wand anfassen,
+diese hier in der Außenwand, haben Sie vielleicht
+ein bisschen eine andere Temperatur, als
+wenn Sie die Wand zum Nachbarhörsaal
+anfassen, die
+die auf der drüberen Seite hoffentlich die gleiche Temperatur ist.
+Da deckt sich auch das Temperaturgefühl mit dem, was hier in der Realität vorliegt.
+Und wenn Sie eine Wärmebildkamera nehmen, dann sehen Sie, alles ist schön rot hier drin oder gleichmäßig von der Farbe
+und hier ist nirgendwo, also eine andere Farbe, weil da eben ein Wärmesprung ist, die Kontaktfläche.
+Was ich nicht mit der Wärmebildkamera sehe, ist, wie sieht es da innen drin aus im Ziegel
+Und vor allem dann eben diese zweite Kontaktfläche, die ist eben oft sehr interessant, wo irgendwie Materialberührung stattfindet.
+Also nach dem Ziegel, da wo die Isolation kommt, andere Kontaktfläche und dann wieder außen an der Wand ist es wiederum ein bisschen wärmer als ganz in der Umgebung.
+Passt für Sie?
+soweit an der Stelle
+jetzt nochmal
+leider ein bisschen gesprungen, muss ich zugeben
+hätte man vorher
+ein bisschen die Reihenfolge der Folie noch geschickter
+machen können
+wieder nochmal so ein instationäres
+Beispiel, was aber
+denke ich ganz praxistauglich ist
+da oben steht die Frage, wie lang
+dauert es bis das Ei fertig ist
+ja gut, wer perfekt definiert
+ist, ist ja jedem
+seine eigene Sache, manche essen
+ihr Ei ganz hart, manche essen es ganz weich,
+ich mag überhaupt keine Eier gekocht.
+Nun sei es drum,
+es gibt viele Menschen, die sagen,
+ja, perfekt ist ein Ei,
+dann, wenn es außen
+hart ist und innen aber noch weich ist, oder?
+Kennt man so.
+Und so ein
+perfektes Ei
+ist gar nicht so leicht zu bekommen, weil
+wenn man dann da ein bisschen
+nach Recherchieren beendet, dann
+findet man raus, das ist ein bisschen blöd geschrieben hier,
+aber im Endeffekt
+Das Eiweiß wird bei 62 Grad an der Hand fest und bei 63 Grad ist dann das Eigelb schon dabei fest zu werden.
+Also es ist ein ganz kleiner Temperatursprung.
+Also ein Ei, perfekt zu machen, ist wirklich nicht so einfach.
+Weil ich muss es schaffen, dass hier in der Mitte von diesem Ei,
+meinetwegen, ob das jetzt der Eigelb und Eiweiß noch an zwei verschiedenen Ortspositionen stehen,
+Sei es bei uns egal, aber dass es hier drinnen mindestens 62 Grad hat, damit das Ei weiß, hart wird.
+Wohingegen soll es noch nicht 63 Grad sein, weil dann geht das ja mit dem Ei gelb los.
+Also irgendwie will ich im Übertragenen mehr oder weniger gut finden, diese Stelle, wann ist das Ei genau 62 oder beziehungsweise 63 Grad heiß.
+und ich male jetzt einfach mal diese 6,2 Grad Celsius hier rein, tut mir leid, ich habe schlampig geschwebt,
+aber es geht um diese interessante Temperatur und Achtung, hier sind die Achsen schon wieder anders belegt,
+hier steht die Zeit nach rechts und nach oben die Temperatur des Eis und das heißt also hier will ich jetzt dieses Zeta I
+untersuchen über die Zeit
+und wie mache ich das?
+Also sagen wir mal, im einfachsten Fall
+koche ich mein Wasser
+und halte es
+konstant bei einer Temperatur,
+die ziemlich sicher
+ganz nah an 100 Grad Celsius ist.
+Ob es jetzt gerade kälter
+oder Wärme, das spielt keine Rolle, hier unten
+heize ich, ja ich skizziere das jetzt einfach
+mal so, mein
+Weg war ich das, energetisch zwar nicht schön,
+aber mit einem offenen
+Topfdeckel, hab da 100 Grad
+Wasser, das kocht, das
+blubbert raus und ich heize bei 100 Grad
+und ich hab mein kaltes
+Ei, das hat am Anfang
+denke ich mal, vielleicht 25 Grad
+das male ich
+jetzt in einer anderen Farbe, das ist nur
+dieses Lila hier
+25 Grad Celsius
+und ich schmeiße das Ei
+zum Zeitpunkt T gleich 0
+hier rein, mit 25 Grad
+und was passiert? Es wird am Anfang
+es wird wärmer
+irgendwann, wenn ich nur
+lange genug warte, dann ist mein Ei
+komplett hart und viel
+zu heiß, nämlich wahrscheinlich ziemlich genau
+100 Grad heiß
+das ist da hinten
+und
+Und was passiert ist, dass das Ei irgendwie so einen Temperaturverlauf nehmen wird.
+Warum der jetzt genau so ist oder ob der nun graber oder schräger oder schiefer ist,
+darüber werden wir uns später im Rahmen der Vorlesung noch unterhalten.
+Wichtig ist mir, am Anfang ist 25 Grad und hier ist ein instationärer Vorgang.
+Die Temperatur verändert sich.
+Und eine Fragestellung, die wir mit der Vorlesung durch haben,
+beantworten können werden, ist, wie lange dauert es denn nun,
+bis wir genau diese 62 Grad hier heranbringen.
+Also das hier.
+Und wenn Sie es perfekt anwenden und die Materialkonstanten dann alle kennen am Ende der Vorlesung,
+dann können Sie mir hoffentlich sagen, dass ein Ei von dem Allgäuer Betrieb Nummer 1
+nach genau 5 Minuten und 33 Sekunden
+diesen Zustand erreicht hat
+und dass, wenn Sie das gleiche Spielchen machen
+am Mount Everest, das Ganze viel kürzer dauert.
+Warum? Unterhalten wir uns dann.
+Diese Spielereien sollen im Rahmen der Vorlesung
+möglich sein, quantitativ zu bearbeiten.
+Und wie macht man sowas?
+Ich weiß nicht, ob Sie noch etwas mitschreiben wollen.
+Aber ganz überhaupt ist es auch nicht wesentlich, ist ja nicht so in diesem Sinne qualitativ in die Bindung.
+Aber, dass wir diesen Vorgang beschreiben können, dafür werden wir sehr unschöne Fachvokabular verwenden.
+Die Bio-Zahl, die Fourier-Zahl, die dimensionslose Temperatur.
+Und in solchen Diagrammen, das ist allerdings wieder ganz herrlich und angenehm, über irgendwelche Sichtkontrollen und eingezeichnete Punkt- oder Stichdiagramme uns entsprechende Hilfsgrößen bestimmen, die dazu dienen, solche Sachen zu berechnen.
+Und warum machen wir das?
+Klar können heutzutage die Computer sowas machen, gar keine Frage, aber dieses anwendungsnahe Gefühl hilft uns sehr viel, erste Einschätzungen zu bringen und am Ende ist es denen wahrscheinlich auch egal, ob es 5 Minuten 33 oder 5 Minuten 37 herauskommt.
+Es geht darum, dass Sie in der Erstauslegung, in der Erstabschätzung,
+auch bei einem Klimakonfessor oder bei irgendeiner anderen Anlage sagen können,
+ja, brauche ich in etwa so viel und so lange, kann überhaupt bewerkstelligt werden mit meiner Anlage und der Gleichung.
+Also, so sind diese Diagramme zu verstehen.
+und um
+das Ganze noch mal
+in den Bezug zu setzen,
+hier habt ihr diese drei Fächer schon
+vorher gesagt,
+also Thermodynamik
+wird die Basis
+sein von allem und hier
+ist es aber so, dass wir uns
+Systeme anschauen, obwohl da
+Dynamik im Namen steht, die im
+Gleichgewicht sind.
+Das heißt,
+Dieses, was wir da gerade gemacht haben mit dem Eierkochen, das schauen wir uns in der Thermodynamik nicht mehr an, sondern da schauen wir uns nur an, wie viel Energie brauche ich oder habe ich am Ende ins Ei reingesteckt, um es auf diese und jene Temperatur zu erwerben.
+Aber diese zeitlichen Verläufe und wie kommen wir da hin in einer instationären Thematik, das sind genau die spannenden Fragestellungen in der Werbeübertragung, nämlich zeitlich aufgelöste Vorgänge, aber ebenso auch lokal aufgelöste, also an verschiedenen Orten.
+Wohingegen die Schwimmungsmechanik uns ganz viel von dem mitgibt, wie sind denn die Bewegungsformen.
+Sie erinnern sich an dieses Beispiel mit dem Blatt in der Illa.
+Wie bewegen sich denn die Fluidteilchen in irgendwelchen Röhren oder in irgendeinem Fluss weiter?
+So kann man, denke ich, schon ganz gut einsortieren, welche Fragestellungen aus dem praktischen Leben Sie in welchen von diesen drei Veranstaltungsteilen beantworten können und dennoch sind die immer wieder verzahnt.
+Ich nehme diese Diagramme noch mit,
+bevor wir dann direkt nach der Pause
+nochmal praktische Beispiele zusammenfassen
+und in die Rechenaufgaben eingehen können.
+Wir haben nochmal hier in blau gestehen
+Eine Frage, welcher Kochtopf gibt mehr Wärme ab? Bei Ihnen stand es noch, glaube ich, länger Wärme ab. Das ist in der Wortwahl, glaube ich, ein bisschen geschickter zu schreiben.
+Meerwärme. Ein Topf, der bei einer bestimmten Temperatur, sei es 80 Grad oder 100 Grad,
+spielt keine Rolle, der da steht und die Umgebung hat 25 Grad und es ist eine bestimmte Menge
+Flüssigkeit da drin, eine Masse. Oder der gleiche Topf mit der gleichen Menge Flüssigkeit,
+wo aber die bestimmte Anteil der Flüssigkeit in der Dampfform vorliegt. Der Rest ist in
+flüssigen Pfad. Welcher von den zwei Töpfen kann jetzt mehr Wärme an die Umgebung abgeben?
+Der, wo alles flüssig ist, oder der, wo ein Teil Gas drin ist?
+Wer wäre dafür, dass alles flüssig mehr Wärme abgibt?
+
+Wärme, spezifische Wärmekapazitätsthema, keine Sorge, das kommt nochmal im Detail.
+Was ich Ihnen eigentlich mitgeben wollte aus den letzten Folien, ist, dass wir mit Begrifflichkeiten arbeiten werden,
+die über das Thema Energie, kinetisch oder potenziell hinausgehen,
+über die Thematik aber auch einen Bezug haben mit der inneren Energie.
+Sie werden das in der Thermodynamik kennenlernen.
+Und dass es jetzt übertragende Wärmemengen gibt, dass da bestimmte Rahmenbedingungen stark zu beachten sind.
+Es ist also nicht immer nur so wie in den klassischen Mechanikaufgaben,
+ein Pumpenspeicherkraftwerk pumpt von unten nach oben irgendeine Menge von Wasser.
+wie viel Energie brauche ich dafür
+oder sowas, das sind ja so die Aufgaben
+mit denen Sie sich sonst im
+Physikthema vielleicht mal befassen mussten
+hier geht es
+oft eben darum
+dass die Phasen eine Rolle spielen
+und dass wir an diesen Übergängen
+verschiedene
+Nebenbedingungen
+noch mit klären müssen
+soweit aber erstmal dazu
+ich will nur kurz abschließend für diesen ersten Teil
+noch hier nochmal mitbringen. Wir hatten das letztes Mal schon gesehen, dass diese Wärmeübertragungsthematik
+eine große Rolle spielt im Bereich Fahrzeugtechnik, Elektroantriebe und Klimakreislauf für sowohl
+Wohlfühlen für den Innenraum als auch Wohlfühltemperatur für die Batterie. Ich hatte da schon ein bisschen
+etwas erwähnt, vielleicht ist es gar nicht so im Detail gesagt, wir haben eben diese
+Wohlfühltemperatur, die wir selber kennen, aber wir haben eben auch, dass die Batterie
+bei niedrigen Temperaturen nicht die Performance liefert, aber wenn sie zu heiß wird, dann
+altert sie besonders schnell, das heißt, wir haben auch irgendwo eine Wohlfühltemperatur,
+wir haben die Notwendigkeit, Wärmepumpen oder komplizierte Kreislaufsysteme einzubauen.
+Und wenn wir uns das mal anschauen, dann sehen wir, dass wir an so einem praktischen Beispiel bei einer technischen Anlage ganz schnell
+sehr viele Fragestellungen haben, die Wärmeübertragung betreffen, aber auch die Nachbargebiete mit.
+Denn wenn ich, ich habe das hier mal nochmal drin eingeblendet, mir das angucke,
+Dann habe ich Temperaturniveaus außen und innen und darüber diesen Gradienten
+und dann eine Wärmeübertragung in diesen Wärmetauscher hier oder in den Wärmetauscher da.
+Hier muss Luft gasförmig an ein Flüssigkeitsmedium übergeben werden.
+Da wird sowohl die Wärmeleitung als auch die Konvektion eine Rolle spielen.
+Wie baue ich jetzt diesen Wärmeübertrager perfekt?
+Da gibt es viele Fragen.
+Dann aber auch die Frage aus der Strömungstheorie, wie schnell soll jetzt die Flüssigkeit da durch?
+Hier irgendwo muss eine Pumpe drin sein, da oben ist sie, bei der Nummer 1 dargestellt.
+Diese Pumpe muss betrieben werden mit einer bestimmten Leistung, damit wir eine turbulente und keine laminare Strömung hier in diesem Flussnetzwerk haben.
+Und wir können dann noch weitere Sachen festmachen, wenn wir hier so in so einem Kreis arbeiten, zwischen der Pumpe und diesem Wärmeübertrager,
+dann haben wir hier typischerweise, das ist wahrscheinlich gar nicht so genau gezeigt,
+entweder der PT3 oder das ist einfach nur ein Temperaturventil,
+aber wahrscheinlich wird hier ein Expansionsventil irgendwo zu liegen kommen,
+bei dem sich die Drücke in diesem Rohrsystem stark ändern
+und dadurch auch die Eigenschaften dieses Kühlmittels oder Kältemittels ändern
+und dann entsprechend das Ganze in einen Kreisprozess münden.
+Und das ist ganz stark thermodynamisch.
+Also das ist so ein Klassikerbeispiel, wo diese ganzen Begriffe eine Rolle spielen.
+Sie haben verschiedene Temperaturniveaus, sie haben verschiedene Wärmefluss, der da stattfindet.
+Und gleichzeitig haben sie Arbeit.
+Arbeit in dem Fall ist das, was in der Pumpe gemacht werden muss.
+Die fügt dem System Arbeit hinzu.
+Und ja, das System ist nach einer gewissen Zeit im Gleichgewicht.
+Dann nämlich, wenn der Klimakompressor es schafft, mit der richtig eingestellten Leistung ihren Innenraum gleichmäßig bei Temperatur zu halten.
+Am Anfang, bei der Hochfahrphase oder beim Abschaltvorgang, haben Sie natürlich aber auch instationäre Vorgänge.
+Das sind jetzt alles viele Fachworte, die könnte man sich jetzt da alle hinschreiben.
+Ich habe sie da mal in Rot einfach nur so für mich zum Revue passieren hingeskizziert.
+Keine Sorge, Sie brauchen das nicht.
+Also Sie können das abfotografieren, Sie dürfen, gerne, aber es ist mehr so mein eigenes Handskepten.
+Es ging mir mehr darum zu sagen, dass so eine Maschine aus dem technischen Leben mit allen von diesen Themenbereichen zu tun hat.
+Und ich hoffe, es ist Ihnen jetzt mittlerweile ein bisschen klar geworden, dass das, was wir in der Rolle so durchleben,
+vielleicht nicht jeden Tag betrifft, aber doch irgendwie vielleicht schon,
+aber auch für viele Ingenieurinnen und Ingenieure im Berufsleben sehr wegbegleitend sein kann.
+Ich habe ein anderes Beispiel da aus meinem Forschungsbereich, um dazu nochmal eine Sekunde einen Ausflug zu bringen.
+Hier haben wir eine stationäre Batterie, die in dem Falle für Themen der Energiewende eine Frequenzstabilität bringt,
+eine Leistungsspitzenkappung und vielleicht noch eine Eigenverbrauchserhöhung.
+Da wird also viel Strom abgerufen und gefordert aus diesem Kasten.
+Dahinter stecken irgendwelche Batterien und auch hier gilt es wieder,
+die Batterien müssen auf die richtige Temperatur kommen.
+Man muss sich für solche Themen überlegen, wie temperiere ich das System passend,
+entweder passiv, so wie es bei vielen kleinen Batterien der Fall ist,
+Zum Beispiel mein Tablet hat keinen Lüfter, hier ist es wahrscheinlich auch nicht.
+Wenn aber da mehr Abwärme produziert wird, dann brauche ich einen Lüfter.
+Oder gar, wenn ich in den Bereich von etwas hochleistungsfähigeren Geräten gehe,
+oder auch im Fahrzeugbereich, wie wir es ja vorhin gesehen haben,
+dann bin ich ganz schnell dabei, dass ich auch Flüssigkühlung brauche.
+Und um das alles zu berechnen, da gilt es, diese Anwendungen, die wir hier nehmen,
+in die Tat, in dieses praktische Beispiel einzufügen.
+Und ich werde Sie wahrscheinlich an der einen oder anderen Stelle in der Werbeübertragung nochmal mit dem Bild konfrontieren,
+wo wir solche Auslegungs- und Betriebsrechnungen machen und sagen,
+welche von den Batterien, die da in orange dargestellt sind, haben hier in dem zeitlichen Verlauf,
+in dem Fall ist es so ein bisschen so ein 3D-Plot, welche erwartete Temperaturentwicklung
+und uns überlegen, wie und wann müssen wir die Temperierung oder die Kühlung anschauen.
+Das war jetzt also nur nochmal kurz zum Einsortieren.
+Wenn Sie diese Themen ein Stück weit auch interessieren, dann sind Sie nicht scheu, kommen Sie auch nicht zu, nach der Stunde in der Pause.
+Wir haben, wie gesagt, immer wieder studentische Arbeiten offen oder auch für Hilfswissenschaftlerinnen und Hilfswissenschaftler, denke ich, viele ganz praxistaugliche und spannende Themen im Hause.
+ein ganz anderes Beispiel
+aus einer ganz anderen Domäne
+ist hier gezeigt
+und hätten Sie mich gefragt
+vor 4, 5 Jahren
+bevor ich hier angefangen habe
+hätte ich Ihnen nicht sagen können
+was das ist
+aber vielleicht weiß es von Ihnen jemand
+es steht oben drüber Fallfilm, Verdampfer
+aber wofür braucht man so ein Ding
+Ich war auch dort, war für mich auch komplettes Neuland, ist auch ein Thema, womit ich sonst keine Berührungsfläche habe, aber es ist ganz interessant zu hören, dass diese Fallfilmverdampfer eingesetzt werden für unter anderem Fruchtsafterstellung,
+aber auch für verschiedene Limonaden oder solche Dinge wie, vielleicht kennt das jemand von Ihnen, Bionade, dieses Getränk, was man im Supermarkt bekommen kann.
+Solche Sachen, aber auch alle anderen Fruchtsäfte haben eine Herausforderung, dass sie die Safterstellung,
+Das eine Prozessschritt ist, und dann aber für den Transport von diesen Flüssigkeiten häufig es sich anbietet oder sogar erforderlich ist, eine Konzentration zu betreiben und zum Beispiel Nektar herzustellen und die Flüssigkeit, das Wasser als Trägermedium abzuscheiden und dann an anderer Stelle wieder zum Teil Flüssigkeit hinzuzufügen.
+Das hat zum einen mit der Transportfähigkeit zu tun, zum anderen aber auch mit der Konservierungsthematik,
+dass es dabei die Möglichkeit gibt, entsprechende Bakterien oder Keime aus diesen Säften oder aus diesen Flüssigkeiten herauszubekommen.
+Und was man machen will, ist nicht nur das Heißmachen, das kann jeder, man kann einen Topf nehmen und das kochen
+und dann blubbert die ganze Flüssigkeit weg und es bleibt unten im Konzentrat übrig,
+Aber die Problematik ist, dass wir, wenn wir das so kochen, wir typischerweise den Geschmack verändern und deutlich Einbußen haben bei der Qualität von dem, was wir da produzieren, weil das dann zu heiß und zu lange bei großen Temperaturen lagert, dieses Fruchtsaftkonzentrat.
+Und deswegen benutzt man diese doch recht technisch ausgefeilten Fallfilmverdampfer.
+Mal gucken, ob das Video startet.
+Dann können wir das mal ganz kurz anschauen.
+Dieses Video kommt ohne Ton und deswegen versuche ich das mal so knapp zu kommentieren.
+Man sieht hier oben, wie Flüssigkeit reinläuft in dieses Gerät.
+Das ist jetzt in dem Falle mein Fruchtsaft oder irgendwas, was noch nicht verdickt ist, sondern im Originalzustand.
+und es teilt sich da gleichmäßig auf und sitzt hier drin.
+Aber jetzt schauen wir eine Ebene tiefer.
+Es wird hier eingeleitet in ganz viele kleine Röhre.
+Und das passiert so, dass hier die Oberflächenspannung es darstellt,
+dass die Flüssigkeit genau den Rand gut benetzt.
+Und jetzt geht es wieder um innere Energie und n-Tal-P,
+weil an dieser Stelle bleibt eigentlich die Energie dieses Fluids gleich,
+Aber über das, dass wir die Oberflächenspannung hinzugefügt haben, haben wir einen anderen Wert der Enthalpie und die Möglichkeit, dass früher und einfacher verdunstet und verdampft.
+Hier wird jetzt heiße Luft außen, die kommt nicht wirklich dran an die Flüssigkeit, die geht nur außen vorbei, sehr schlechte Bildqualität, aber dennoch, Sie können es sich vielleicht vorstellen, Wärme wird übertragen von außen nach innen, aber eben nicht sehr viel.
+und am Innenwandel des Fluids, also unseres Fruchtsachts, wird Gasphase gebildet.
+Es kommt also unten raus aus diesem Fallfilmverdampfer Flüssigkeit, das ist das Konzentrat, aber auch Dampf.
+Und das ist jetzt Wasserdampf.
+Und dadurch, dass wir das nicht in einem Kochtopf gemacht haben, sondern in diesem Fallfilmverdampfer,
+kann das Ganze mit viel weniger Temperaturunterschied gemacht werden und auch mit einer viel größeren Prozessgeschwindigkeit.
+Also das heißt, dass dieses Fluid, der Fruchtsaft, viel kürzer nach hohen Temperatur ausgesetzt ist und viel weniger stark degradiert.
+Das heißt, das, was sich da unten sammelt, ist am Ende ein Fruchtsaftkonzentrat, was zum einen bakterienfrei ist und gut konservierbar ist und gut abfüllbar ist in Flaschen,
+als aber auch eben hoffentlich geschmacklich viel weniger sich verändert hat, als hätte ich das in dem großen Kochtopf der ganzen Zeit.
+an irgendeine technische Anlage
+und wenn Sie die jetzt
+bauen wollten oder verstehen
+oder damit umgehen müssen
+dann brauchen Sie diesen ganzen
+vielen Themenbereich
+mit dem wir uns hier befassen
+ich werde jetzt nicht alles von dem was ich da gerade kommentiert habe
+hier reinschreiben, aber ich schreibe mal
+ein paar ausgewählte Fachbegriffe
+noch mit rein
+ich denke
+was so Schlagworte waren
+mit denen ich gerade um mich geworfen habe
+ist diese Verdampfungsenthalpie, ich werde das gar nicht ausschreiben, ich schreibe hier nur Delta HFG rein,
+das war diese Verdampfungsenthalpie, mit der wir uns vorhin darüber unterhalten haben,
+dann haben wir Wärmeübertragungsthemen gehabt, also das ist ja klar, wir haben irgendwo diesen heißen Dampf außen gehabt,
+zu dieser Flüssigkeit, die hier innen benetzt.
+Ich warme, man kann es jetzt nur so mit meinen Strichlein vielleicht sehen.
+Dazwischen ist natürlich eine dünne Metallwand,
+die, also außen diese roten Pfeile hier,
+soll bedeuten, dass hier ein Wärmestrom,
+beziehungsweise in dem Falle gezeigt,
+eine Wärmestromdichte anliegt, konstant.
+Wir bedampfen das von außen mit heißer Luft oder einem heißen Flüssigdampf und das dient dazu, dass das hier gleichmäßig heiß ist.
+Man hätte jetzt hier vielleicht auch einwickeln können, irgendein Heizstab wäre ähnlich.
+Dann wird eine Wärmeleitung stattfinden über die Wand dieses entsprechenden Materials und dann gibt es hier drin wieder auf der Flüssigphase eine Wärmeübertragung.
+Und das ist jetzt gerade so, weil es eben darunter fällt, mit einer bestimmten Geschwindigkeit haben wir eine bestimmte Form, Strömungsform,
+vermutlich eine turbulente entsprechende Bewegung von meiner Flüssigkeit hier hinab.
+Und diese Flüssigfilm ist nun besonders gut geeignet dafür, wieder in die Dampfphase überzugehen.
+Und Sturmungsmechanik hatte ich gerade schon gesagt, das Turbulent und Laminar, immer so die Klassiker.
+Das heißt, hier oben ist die Sturmung wahrscheinlich laminar und da unten ist sie turbulent.
+Und da gelten dann ganz andere Gesetzmäßigkeiten.
+Ein weiterer Effekt ist die Oberflächenspannung, die eine große Rolle spielt.
+Nur dadurch funktioniert es, dass hier eben nur außen benetzt ist und in der Mitte eben eine Luft- oder Luftdampf-Gemisch dann später,
+wenn hier was übergeht, entsteht und wir entsprechend eben diese dünnen Flüssigkeiten machen.
+Ich denke, das konnte man so ein bisschen vielleicht nachvollziehen, um sich vor Augen zu führen, wie diese Themen auch miteinander interagieren.
+Wenn wir das Ganze dann uns angucken wollen und rechnen wollten, dann sehen Sie hier, sag ich mal, das größte Gespenst, was Sie sehen werden im Bereich der Werbeübertragungsvorlesung.
+Und Sie sehen hier eine Formel, die auch schon ganz bewusst ausgegraut ist, weil ich Sie nicht in der Klausur fragen werde, diese Formel zu nutzen.
+Nichtsdestotrotz, das was dahinter steckt, das sollten Sie schon den Verständnisfragen durchaus erklären können.
+Wie funktioniert es, dass hier dieser Flüssigkeitsfilm irgendeinen Temperaturverlauf nimmt,
+ich will Ihnen das nur mal so in der Darstellung zeigen, mit irgendwelchen Kontakttemperaturen zwischen der Flüssigphase und der Gasphase.
+Hier haben Sie die Erdanziehungskraft, die dazu führt, dass sich hier nach der Nüsserschen Wasserhauttheorie eine bestimmte Form ausbildet.
+In diesem entsprechenden Konstrukt müssen wir mit Phasenwechselzahlen, Galilei-Zahlen, charakteristischen Längen und Verdampfungsenergien arbeiten
+und die dann in irgendwelche relativ hässlichen Formelapparate einsetzen.
+Hier zum Glück ausgegraut, nichtsdestotrotz in der Grundidee, erlaubt uns die Wärmeübertragung solche verrückten Dinge zu rechnen.
+Damit werde ich es eigentlich belassen in diesem Einleitungsthema und sie hoffentlich
+ein viel längst ärmligere und praktischere, einfacher durchdringbare Gleichung heranzuführen,
+nämlich in der Wärmeleitung. Wir werden die Rest der Stunde uns hier ein bisschen mit befassen in
+der Wärmeleitung eben eine Platte.
+Das heißt, hier
+geht es jetzt wirklich ins
+Fachliche rein. Wir haben jetzt noch eine halbe Stunde
+und werden uns das Fourier'sche
+Wärmeleitungsgesetz gleich
+einmal ansehen.
+Und was bringt uns das Fourier'sche
+Wärmeleitungsgesetz? Genau das,
+dass wir dieses Beispiel, was wir jetzt schon
+mehr Zeit
+vor der Pause uns angeguckt haben,
+irgendwo in Gebäudetechnik,
+irgendwo ein Ziegel, vielleicht noch mal
+zweiter Art, Kohlziegel in dem Fall, und eine Isolationsschicht, hier sind ganz viele Pfeilchen
+drin reingezogen, so ein mehrschichtiges System berechnen können und sagen können, wo liegt
+welche Temperatur vor, wie viel Wärme geht von innen nach außen bei solchen Hauswärmen.
+Und dieses ist ein Thema, was die Menschen auf der Welt schon vor langer, langer Zeit
+beschäftigt hat, unter anderem, also man sieht es sehr deutlich an dieser langen Tafel da, dass
+Leute seit Fahrenheit von 1720 bis in die heutige Zeit immer wieder wichtige Entdeckungen und
+Überlegungen hatten zum Thema Wärmeübertragung und Wärmeleitungen im Spezifischen. Herausgehoben ist
+der Herr Fourier, und er ist ein französischer Landsmann, der hat sich mit dieser Theorie-Analytique
+des Caleurs befasst. Ich bin, wie Sie raushören können, nicht der französischen Sprache mächtig,
+aber der Herr hat sich damit befasst und hat gesagt, okay, wenn ich jetzt auf der einen Seite
+in dem Fall irgendwie mit einem Esbitbrenner, also irgendwie heiß mache,
+ein Metallstück oder irgendein Material und dann da hinten gucke, was passiert,
+dann merkt man, dass da am Anfang erstmal gar nichts passiert,
+aber nach irgendeiner Zeit wird es da auch warm.
+Und der Arzt ist damit beschäftigt, wie warm wird es da und wie lange dauert es.
+Aber nee, wie lange dauert es ist eigentlich gar nicht so wichtig,
+sondern wie warm wird es da unter verschiedenen Voraussetzungen von diesem Material.
+Und das ist genau das, was wir ganz kurz mal nachvollziehen wollen und uns überlegen wollen,
+wenn wir so ein Metallstück haben und es auf der einen Seite aufheizen,
+also hier ist jetzt meinetwegen die Flamme oder der Brenner, die Elektroheizung,
+dann wie überträgt sich das hier auf die kalte Seite?
+Kurze Frage an Sie, welche Einflussgrößen kann man denn festmachen, von denen das abhängt?
+Können Sie vielleicht mal kurz ein paar Ideen liefern, was könnte das beeinflussen?
+Ich fange gleich bei Ihnen voran an.
+Den Wärmeleitpult, wie heißt der?
+Ja, den werden wir wohl brauchen.
+Das ist also irgendeine materialspezifische Größe.
+Ich schaue, dass ich auf meinem Spickzettel gleich mit rausfinde, dass wir die richtigen Stellen nehmen.
+Genau, also das ist die Wärmeleitfähigkeit, die können wir hier gleich als erstes abtragen.
+Und wenn die Wärmeleitfähigkeit groß ist, dann geht die Wärme durch.
+Und wenn die Wärmeleitfähigkeit klein ist, dann geht wenig Wärme durch.
+Was macht noch einen Unterschied für die Menge an Wärme, die hier von warm nach kalt transportiert wird?
+Wahrscheinlich der Querschnitt auch, oder?
+Ja, der Querschnitt spielt eine große Rolle.
+Das heißt, die Fläche. Und wie würden Sie es... Nehmen wir einfach mal die Fläche. Doch, hier ist jetzt diese Halbfrage noch hinten dran. Wenn die Fläche größer wird, also meinetwegen doppelt so groß ist, wäre mehr oder weniger? Ja, logisch.
+Das ist auch genau proportional zueinander.
+Jetzt haben wir noch weitere Gedanken, vielleicht die Damen hier vorne.
+Irgendeine Idee? Sie dürfen gleich sein.
+Was könnte das noch beeinflussen, wie viel Wärme da durchgeht?
+Denken Sie mal daran, was würde passieren, wenn ich das in der Hälfte durchschneide.
+Geht dann mehr oder weniger Wärme durch oder hat das irgendwie gar keinen Einfluss?
+Temperaturdifferenz ist ein guter Punkt, nehmen wir erst den. Also hier die Temperaturdifferenz
+Delta Theta und wenn die Temperaturdifferenz größer ist, dann glauben Sie mir aber gar nicht
+auf, da wird mehr Wärme fließen. Zwischen 10 und 20 Grad oder 10 und 30 Grad, da geht mehr durch.
+Jetzt fehlen uns noch zwei, den einen habe ich gerade schon anskizziert, ist vielleicht ein
+bisschen weniger schnell intuitiv, aber wenn ich die gleichen Temperaturniveaus habe und das Material
+länger mache, dann dauert es nicht nur länger, sondern fließt auch weniger. Sie können es
+vielleicht aus einem anderen Beispiel sich besser noch überlegen, wenn Sie doppelt so viel Isolation
+auf Ihre Hauswand draufkleistern, dann kommt auch nur halb so viel Wärme raus. Deswegen bringt es was,
+wenn ich dick isoliere, oder? Wenn ich ganz dünn arbeite, ist es nicht so gut. Das heißt, die Einflussgröße hier ist das x und das m ist so, dass wenn ich die Wärme, die transportiert werden kann, hat eine Proportionalität,
+Das sollte nicht ist gleich sein, sondern eine Proportionalität zu 1 durch x.
+Warum ist es so, wie gesagt, doppelt so lange?
+Der Weg ging nur halb so viel durch an Wärme.
+Hoffentlich wird der Erklärung auch einigermaßen zu vertrauen.
+Und jetzt noch die letzte Preisfrage.
+Was ist die letzte Einflussgröße?
+Ja, die Zeit.
+Die Zeit, natürlich. Es dauert eine gewisse Zeit, bis Dinge bewegt werden oder akkumuliert über die Zeit.
+Bleibt in diesem Falle der Wärmestrom konstant, aber es sammelt sich auch, es wird mehr und mehr Wärme über die Zeit verloren.
+Deswegen macht es auch so viel aus, wenn ich mein Gebäude vernünftig isoliere,
+weil es nicht nur in dem Hier und Jetzt eine Rolle spielt, sondern akkumuliert über die Zeit.
+ich kontinuierlich vielleicht 100 Watt mehr oder weniger nach draußen verliere.
+Und da zählen schnell die Kilowattstunden, die Energiemengen herauf, die Sie an Energie
+verlieren und entsprechend hier eine Rolle spielen.
+Also, dann haben wir die gerade schon ein bisschen zusammengetragen.
+Ich habe die Proportionalitäten eigentlich schon genannt.
+Und wenn ich das alles, was ich hier oben habe, jetzt zusammenfasse in eine Gleichung,
+dieses hier und überall
+das mit dem Q ist proportional zu
+richtig zusammentragen
+dann kommt hier ein Lambda hin
+und eine Fläche hin
+und
+eine Temperaturdifferenz hin
+und
+eine zeitliche Differenz hin
+und
+hier habe ich
+1 durch X
+als Größe
+Oft wird das so ein bisschen anders noch zusammengefasst, ich werde es noch mal ein bisschen geschickter hier schreiben.
+Ich schreibe hier Delta T durch Delta X hin, ist aber in der Sache das Gleiche.
+Und man sieht jetzt hier schon so ein bisschen was ganz Nettes.
+Es geht immer um Delta und deswegen habe ich hier nicht ein großes T, sondern gleich ein Theta eingeschrieben, das spielt keine Rolle.
+muss zwischen 10 und 30 Grad
+oder sowas was arbeiten
+20 Grad oder 20 Kelvin
+Temperaturdifferenz
+und es geht darum, wie viel Wärme
+als Energie fließt
+über den Zeitpunkt
+vorher bis zum Zeitpunkt hinterher
+über eine Stelle
+heiß
+zu einer Stelle kalt
+und so kann ich das Ganze
+als Gleichungssystem
+verwenden und wir werden
+und hier nochmal ein bisschen angucken, wie sich das Ganze mit der Wärmeleitung entsprechend dann darstellen lässt.
+Also das haben wir gerade gesagt, ist in dem Fall nichts anderes als das Lambda mal der Fläche mal, Achtung hier oben ist der Punkt,
+Deswegen habe ich das Delta T gleich herausgenommen und nur noch ein Delta Theta durch Delta X.
+Und wir können zeitgleich auch sagen, das kennen wir von zuvor aus der Begriffsdefinitionsfolie noch,
+dass dieses Q-Punkt, nichts anderes als ein Delta Q durch ein Delta T,
+also die Veränderung der Wärme mit der Zeit,
+das war nichts anderes als ein Delta Q durch ein Delta T.
+So, wir haben entsprechend auch die Möglichkeit, hier unten das Ganze als Wärmefluss mit der
+spezifischen Größe zu schreiben, das heißt hier kürzen wir noch die Fläche mit raus,
+dann haben wir das als Delta Theta durch Delta X, Entschuldigung, schlecht geschrieben,
+also die spezifische Wärmeleitfähigkeit oder auch dieses QWL und jetzt wird es ein
+bisschen interessanter. Hier unten steht es in Schriftform schon drin, Wärme fließt immer von
+warm nach kalt. Das hatte ich versucht ab der ersten Minute in der Vorlesung Ihnen nochmal
+einzubläuen und es wird uns noch weiter beschäftigen. Es kommt insbesondere jetzt zum
+Tragen, wenn man sich überlegt, wie viel Wärme wird denn nun übertragen über eine bestimmte Zeit,
+über eine bestimmte normierte Fläche, dann sehe ich, glauben Sie mir hoffentlich,
+in den kommenden Folien werden Sie es auch in den Rechnungen noch wieder erfahren,
+dass ich, wenn ich das hier aufstelle als Gleichung, nicht nur das Lambda mal Delta Zeta durch Delta X glaube,
+was ich gerade motiviert hatte, sondern, ich male es hier mal ganz bewusst in Rot,
+dass hier ein Minuszeichen erforderlich ist.
+Das heißt, dass der Wärmestrom von warm nach kalt stattfindet auf einer Koordinate x.
+Und wenn die Koordinate x, wie es oft an der Karte sich vielleicht am besten darstellt,
+mein Ding von links nach rechts geht und ich hier meinen Stab habe,
+und der ist hier warm, Theta warm, und hier habe ich Theta kalt.
+und mir angucke, wie fließt denn nun die Wärme,
+dann sehen Sie hoffentlich, dass die Wärme in diese Richtung fließt,
+Q-Punkt und genauso auch Klein-Q-Punkt,
+das ist das Gleiche, nur auf diese spezifische Größe.
+Und Sie überlegen sich schnell, dass Zeta W minus Zeta K,
+einen positiven Vorzeichen hat,
+das ist also das Delta,
+das ist größer 0,
+und wenn Sie von 0
+auf einen großen
+Zahlenwert hier gehen,
+dann sehen Sie, dass das
+X hier einen größeren Zahlenwert hat
+als das X hier vorne.
+Wenn Sie dann die
+entsprechenden Anwendungen
+machen,
+müssen wir aufpassen, also
+der Fallstuhl gezeigt
+Delta Theta ist nichts anderes
+als das, was an der hinteren Stelle ist
+minus das an der vorderen Stelle
+ist Theta warm
+minus Theta kalt
+und das ist nichts anderes als irgendein
+Zahlenwert, der ist kleiner als
+ja, weil ich
+kalt
+Theta kalt minus Theta warm
+dann haben Sie
+also an der rechten Stelle
+minus die linke Stelle ist Zeta kalt
+minus Zeta warm
+ist kleiner als 0
+und wenn ich hier
+das Delta X habe, ist es die Stelle
+X2
+minus die Stelle X1
+das ist größer als 0
+und wenn Sie sich das zusammensetzen
+in der Gleichung, dann sehen Sie schnell
+dass für diese Wärmeleitungsgleichung
+hier dieses Virus erforderlich ist
+um zwischen diesem kalten und dem warmen
+Temperaturniveau richtig zu navigieren, um die Wärme von warm nach kalt fließen zu lassen.
+Also immer wieder werden Sie sehen, dass dieses Vorzeichen Silje beschäftigt.
+Nochmal kurz der Vorständigkeit halber ergänzt hier auf der rechten Seite die Einheiten,
+diese Wärmestromdichte, wie gesagt, Q-Punkt durch A und das ist nichts anderes als Watt
+pro Quadratmeter. Und das Lambda, das können wir uns jetzt ausrechnen oder überlegen. Das ist ja
+nichts anderes als das Q-Punkt durch A mal Zeta durch X von den Einheiten her. Und das ist nichts
+anderes als Watt pro Meter Quadrat mal Kelvin durch Meter. Das ist nichts anderes als Watt
+pro Meter mal Kelvin. Vielleicht etwas ungewohnt, aber wenn Sie schon mal im Baumarkt standen,
+da kriegen Sie K- und U-Werte und die haben nichts anderes als eigentlich im Verborgenen
+dieses Lambda, die Wärmeleitfähigkeit. Und da haben Sie vielleicht sogar schon mal diese
+Größe gesehen, so und so viel Watt pro Meter und Kelvin ist die entsprechende Wärmeleitfähigkeit.
+Ich weiß nicht, ob das zweimal steht, aber das ist im Endeffekt das, was wir brauchen.
+Entsprechend, vielleicht Ihnen noch eine Sekunde geben, das zu notieren.
+Ansonsten haben wir das hier auch noch mal zusammengefasst. Eindimensionale Wärmeleitgleichung
+haben wir uns gerade mehr oder weniger selber erarbeitet, so wie es der Herr Fouillet um 1700
+herum gemacht hat. Und sehen, dass es also irgendwie was mit dem Material zu tun hat,
+mit der Temperatur abhängig, Temperaturdifferenz und mit dem Ortsdifferenz, also wie weit was zu
+transportieren ist und man könnte, je nachdem wie die Materialien sind, unterschiedliche
+Temperaturverlaufe sich vorstellen, so was geschwungenes, wie es hier gezeigt ist. Das
+Es passiert aber nur unter ganz merkwürdigen Bedingungen, nämlich dass wir anisotrope Materialien haben.
+Wir werden sehen, dass es fast immer dann so sein wird, dass wir bei der Ärmeleitung komplett gerade Verläufe haben.
+Dazu sehen Sie in Kürze noch eine Herleitung dahinter.
+Nur hier als grau schraffierte Idee und Gedanke, wir müssen natürlich immer aufpassen, dass wir jetzt nicht aus den Augen verlieren, dass die Wärmeleitung eine vektorielle Größe ist, dass da mehrere Rahmenrichtungen eine Rolle spielen und dass wenn wir das richtig anwenden, dass wir eigentlich diese sogenannten gradienten Methoden brauchen.
+Das heißt, es geht nicht nur in die X-Richtung, sondern vielleicht auch in die Y- und die Z-Richtung.
+Für die meisten bei uns vorkommenden Rechenbeispiele reicht es aber aus, sich eine Ortsrichtung anzukommen.
+Und jetzt sehen wir hier mal verschiedene Wärmeleitfähigkeiten verschiedener Materialien,
+die mal so nebeneinander gestellt sind.
+Wir sehen hier unten sind, ja, Materialien wie Gase, hatten wir ja auch schon ganz kurz uns angeschaut, die Viskosität neulich von Gasen gegenüber Flüssigkeiten, das ist aber nochmal unabhängig von dem, wie die Wärmeleitfähigkeit ist.
+Man sieht, dass die Gase viel weniger die Wärme leiten als die Flüssigkeiten.
+Und das Praxisbeispiel, was ich Ihnen genannt hatte, war das,
+dass wenn Sie in den 15 Grad kalten Außenbereich gehen und dort rumspazieren,
+dass Sie das eine ganze Zeit aushalten.
+Aber wenn Sie in die 15 Grad kalten Niedersandhof in der See springen,
+dass Sie nach kürzester Zeit extrem unterkühlt sein werden.
+und dass da eine ganz andere Wärmeleitfähigkeit stattfindet, dass die Wärme innen aus dem Körper rausgezogen wird.
+Und das ist das Gleiche nochmal, stärker bei Feststoffen, Legierung, Metallen,
+ein Extremfall ist Silber, warum das so ist, kommt mir noch zu,
+aber diese Materialien hier leiten also extrem gut die Wärme
+und das hat auch viel eben in der Praxis dann zu tun.
+Wir sehen das Ganze an der Wärmeleitfähigkeit mit Lambda.
+Achtung, es wird eben auch verwendet, die Wärmeleitzahl als ein gewisser Metzibogwert,
+oder als Anhaltswert, K- und U-Werte werden Sie immer wieder sehen.
+Im Englischen wird der Sprachprogramm immer auf das K sich hier verlegen.
+Es gibt noch eine andere Sache, die Temperaturleitfähigkeit hatten wir vorhin schon gesehen.
+Das ist das, wenn es um die Geschwindigkeit der Auswertung geht.
+Das brauchen wir jetzt noch nicht.
+Aber wir hatten dieses Beispiel schon vorgezogen, angesprochen letztes Mal,
+als ich mit Ihnen Einleitungsbegriffe angeschaut habe und ich hatte gesagt,
+okay, es gibt einen Unterschied, wenn ich hier im Raum die metallischen Seilen anpasse,
+meinetwegen hier unten die Pfosten von Ihrem Tisch, machen Sie ruhig einfach mal,
+der fühlt sich kalt an und die Tischplatte fühlt sich nicht so kalt an.
+Und das hat von Ihnen im Raum auch schon jemand genau richtig erklärt.
+Die Weihrenleitfähigkeit von dem Metall ist groß,
+die Wärme wird gut übertragen von Ihrer Hand in das Metall rein,
+und wärmt dann das Metall auf, wohingegen die Wärmeleitfähigkeit vom Holz oder von diesem Plastiktisch ist schlecht.
+Dort gibt es eine gewisse Isolationswirkung, die Wärme wird an der Oberfläche verweilen
+und über die obersten Schichten überhaupt eintreten und ist auch viel weniger ausgeprägt,
+sodass dort es sich wärmer anfühlt, weniger starker Wärmeverlust.
+Und das ist natürlich ein Thema, was extrem eine Rolle spielt, wenn es darum geht, in der Bauphysik zu arbeiten und dass, wenn Sie zum Beispiel dieses Gebäude, ein Gussbeton verwenden, dass das von der thermischen Eigenschaft grauenhaft schlecht ist, dass Sie extrem stark nachheizen müssen, wenn Sie das unisoliert verwenden.
+und entsprechend hier hohe thermische Verluste haben.
+Wohingegen das Thema hier oben, ein Polyurethan-Harb-Schaum,
+das ist so ein klassisches Material, was gut geeignet ist als Isolationsmedium,
+dass das viel kleinere, um den Faktor bald 100 kleinere Wärmeleitfähigkeit hat.
+Das heißt, es reicht aus, wenige Zentimeter an Isolation auf die Außenbahn draufzubringen,
+um dann in der Summe eine ganz gute thermische Eigenschaft zu erarbeiten.
+Wie kann ich das Ganze genau messen und anschauen?
+Dazu gibt es hier ein Beispiel, wie so ein Messapparat aussehen könnte.
+Ich könnte gut isolieren, hinten hier elektrisch heizen und hier haben wir dieses W-Punkt, ich hatte es fälschlicherweise vorhin an die Tafel geschrieben, in dem Falle ist W-Punkt eben die Arbeit, die elektrische Arbeit, die ich reinstecke und ich heize hier auf und was passiert, ist, dass dieses blau schraffiert dargestellte Material mit einer gewissen Länge
+jetzt genau die Wärme
+abbekommt
+wie sie
+aus der elektrischen
+Heizleistung entstanden ist
+weil hinten ist hoffentlich so gut isoliert
+dass da nichts verloren geht
+und dann sehe ich schon
+hier ist der Temperaturerlaub von innen
+nach außen dargestellt
+es wird sich irgendwann
+wenn ich nur lange genug
+dieses Baustein da reinsetze
+und das Experiment laufen lasse
+eine stationäre Temperaturverteilung ausprobieren will.
+Innen ist es heiß, außen ist es kühl.
+Es geht eine konstante Wärmemenge verloren.
+Hier durch das Material nach außen, zwar genauso viel Wärme fließt hier durch,
+wie ich hier elektrisch zugeführt habe.
+Und das heißt, ich kann so auch die Wärmeleitfähigkeit messen,
+indem ich hier die Länge, die Fläche und den Temperaturunterschied mit zwei Sensoren messe.
+Und diese Größe kann ich dann durch meine elektrische Verbrauchsleistung ebenso messen oder festsetzen.
+Und so lässt sich also ein Lambda für verschiedenste Stoffe gut berechnen.
+So, jetzt habe ich hier ein Batterieproblem, aber das ist kein großes Problem mehr.
+Wir haben sowieso nur noch gut 5 Minuten, bis sich dann ein kurzes Zusammenfassungen ergeben wird.
+Soweit also zu dem Thema Messen.
+Jetzt hier nochmal ganz kurz zwei Beispiele aus der Praxis mit Zahlenwerten hinterlegt.
+Wir haben also Wärmeleitfähigkeiten von Kupfer und Silikon und wir kriegen Zahlenwerte hier heraus.
+Wenn ich hier diesen Wärmestrom dichte, also normiert auf die Fläche habe,
+Dann kann ich sehen, die Wärmeleitfähigkeit von Kupfer ist nichts anderes als 4,010 Watt pro Quadratmeter mal einen Meter, so dick ist nun mal dieses Material dargestellt,
+durch
+1 Quadratmeter
+Entschuldigung, der steht da schon drin
+mal
+10 Grad
+oder 10 Kelvin
+spielt keine Rolle
+weil es die Temperatur unterschied
+und dann kriege ich hier also raus
+das Lambda ist
+401
+Watt pro
+Meter mal Kelvin
+passt die Einheit
+und hoffentlich auch das Ergebnis
+und wenn ich das gleiche Spiel hier rechts mache
+habe ich halt ein Lambda von dem Silikon
+von 1,48 Watt
+pro Quadratmeter
+in der Kälte
+also die
+einfachste
+Rechnung mit diesen Größen
+reicht erstmal aus, um damit
+arbeiten zu können
+wir schauen uns
+jetzt noch als letzte Idee für diese Stunde die Wärmeleitfähigkeit über einer ebenen Wand an und
+da werde ich dann nächstes Mal genau wieder aufsetzen. Na gut, ist so mit der Zeit. Wir haben
+innen die Temperatur Theta 1. Hier gibt es immer wieder ein Problem mit dem Tablet, dass
+das an der Stelle nicht schreibt. Und wir wollen uns den Foyer nochmal anschauen. Also
+Q-Punkt ist nichts anderes als minus Lambda mal dZeta durch dx.
+Steht übrigens auch in Ihrer Formelsammlung drin, diese Formel.
+Keine Sorge. Q-Punkt ist nichts anderes als Q-Punkt mal a minus Lambda mal a mal Delta Zeta.
+So, jetzt habe ich ein bisschen unglücklich vorweggegriffen, ich mache mal diesen roten
+Strich hier links nochmal weg.
+Sie haben also eine Temperatur innen und eine außen.
+Sie haben hier im stationären Fall einen Wärmestrom q Punkt und der ist gleich.
+Und jetzt überlegen Sie sich kurz, was ist mit der Fläche los, über die wir hier arbeiten.
+Die wird auch sich nicht verändern, während ich mein Experiment oder meine Realität da beobachte.
+Meine Hausfläche ist normalerweise unverändert.
+Genauso unverändert sind diese Materialeigenschaften, dieses Lambda.
+Oder wenn ich ein homogenes Material nehme, zum Beispiel jetzt nur Beton oder nur Ziegel, dann habe ich da einen Wert und wenn ich mir das noch anschaue, dass ich die Änderung der Temperatur mir noch angucken will, dann gucke ich vielleicht noch was auf die andere Seite.
+Ich habe eben gerade gesagt, es ist stationär, das heißt, dass diese Wärme, die da rausgeht, soll gleich bleiben.
+Und was bedeutet das automatisch, dass ich auf dieser Seite der Gleichung, wenn ich hier was Konstantes habe und hier was Konstantes und hier was Konstantes,
+Da muss das letzte Thema auch konstant sein, das heißt, das dθ nach dx hat eine konstante Größe,
+das heißt, wenn wir Wärmeleitung beobachten in einem homogenen Material, bei dem die Wärmeleitfähigkeit
+den besten Zahlenwert hat und stationär arbeiten, dann wird auch diese Temperatur abfallen.
+sich genau linear darstellen und auch wenn es bei mir nicht immer ganz gut gelingt,
+aber im Idealfall hier wird mir lineal gezeigt.
+Sie müssen solche Temperaturleitfähigkeitsdiagramme oder überhaupt solche Temperatur-gegen-Orts-Diagramme
+mitunter durchaus in Aufgaben selber darstellen und da ist es sehr wichtig,
+Ist es eher gekrümmt oder ist es eher gerade? Nehmen Sie sich in den Jahren mit in die Klausur, dass Sie da klar arbeiten können.
+Ich würde da in der nächsten Stunde wieder einsetzen, würde es noch in der letzten Sekunde ganz knapp zusammenfassen.
+Wir hätten also gesehen, dass die Wärmeübertragung als Fach sich mit Dingen beschäftigt, die räumlich und zeitlich aufgelöst sind.
+Das zeitliche Aufgelöstbeispiel war das Kochen des Eis im Wasser, was übrigens auch schon zweimal in der Klausur gefragt wurde.
+Das ist einfach so die Fragestellung, was passiert da zu welcher Zeit und ist es nun ein stationärer oder instationärer Vorgang, dass man den Grundwegen beschreiben kann.
+Wir haben bei der Wärmeübertragung als solches kennengelernt, dass es sich in drei Untergebiete aufteilt.
+Und wir werden diese Stunde fortsetzen in der nächsten Woche, wenn ich es richtig informiert bin, oder erst in 14 Tagen.
+Und weiter Wärmeleitung machen, als Eigeneffekt, wo wir uns ganz viel mit diesen Hauswandsbeispielen und Isolationsschichten usw. beschäftigen.
+Es gibt aber auch die Konvektion, sowohl die freie als auch die elektronische, als auch die Wärmestrahlung, die uns später im Rahmen der Vorlesung dann stärker beschäftigt.
+Und wir haben das poesische Wärmedeitungsgesetz hier selbst kurz erarbeitet.
+Sie finden das in der Formelsammlung wieder und können damit ganz übliche Aufgaben rechnen.
+Wenn Sie schon jetzt wollen, können Sie in den Moodle-Kurs, wenn ich richtig informiert bin, unter Aufgabensammlung mal reinklicken.
+Da sehen Sie Aufgabensammlung, die sind zwar aus dem letzten Semester, aber ich habe sie glaube ich wirklich drinnen gelassen.
+Ansonsten schreiben Sie nochmal kurz ins Forum.
+Da kann man mal schon mal sehen, in was das münden wird.
+Ich werde Ihnen aber noch mal ganz explizit einen Trigger geben, wenn ich sage, ja jetzt ist es soweit, dass Sie das erste Übungsblatt komplett rechnen können.
+Und dann wissen Sie schon, jetzt haben Sie alles Handwerkszeug gelernt, dann können Sie da mal tiefer reingucken, um dann für diese Übungsstunden später mal gut vorbereitet zu sein.
+So weit, so gut von mir. Sie sehen mich diese Woche nicht nochmal, sondern dann den Herrn Habich am Freitag mit Thermodynamik da oben im S1-16.
+Alles Gute Ihnen, schöne Woche, bitte sehr.
