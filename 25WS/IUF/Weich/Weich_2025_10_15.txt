@@ -1,0 +1,1834 @@
+Das war's.
+Was dabei durchaus auch nicht einsparen als sollte, hergenommen werden kann, denken Sie daran, dass es gegebenenfalls um Investitionen geht in einen Maschinenpark.
+Es kommt eine zusätzliche Maschine hinzu.
+Was soll dann hier der am Markt so ermöglichte Umsatz sein?
+Das ist, oder der Gewinn, der sich darauf ergibt, das ist nicht klar festmachbar.
+Aber wir haben gegebenenfalls Rationalisierungseffekte und die sind sehr wohl bezifferbar.
+Gleich zum Schluss machen wir einfach, führen wir durch, eine Rentabilitätsvergleichsrechnung.
+Hatten wir das das letzte Mal schon angefangen?
+Nein.
+Ah, bis B berechnet steht er.
+Bis B haben wir es berechnet, jetzt sollten Sie C berechnen, wie hoch ist die Rentabilität.
+die Handhabilität der Maschinen
+zu berechnen, was brauchen wir dafür?
+Wir hatten festgestellt zunächst mal
+die Kapitalfindung war
+Kapitalfindung war
+das Ergebnis
+die 100.000 Euro
+also das war
+das waren die
+das war A0
+plus
+LN halbe
+Sie erinnern sich?
+B. Hatten wir herausgefunden, dass die kalkulatorische Abschaffung mit A-Fahrt ist nicht ganz korrekt.
+Und kostenlösung würde ich es nicht machen.
+Wir haben 33.333 Euro.
+Und jetzt sind wir bei C.
+Was ist denn bitte die Rentabilität?
+Wie hoch ist die Rentabilität?
+Ganz grob gesprochen, ist die Rentenbiete welche Relation?
+Der Ertrag durch den Einsatz, also die eingesetzten Mittel, die die aufgewöhnt haben.
+Was Sie sagen ist, Output durch Input, das wäre Produktivität.
+Rentabilität ist zwar auch eine Relation, aber nicht der Umsatz sozusagen,
+Ertragsareal oder Umsatz.
+Und was Sie eigentlich meinen, ist der Gewinn.
+Also der Gewinn, aber nicht zum Umsatz, sondern der Gewinn bezogen auf, tja, auf was?
+Das eingebarte Kapital.
+Genau, die Kapitalbindung.
+Dann nehmen wir wieder diesen Durchschnittswert, also wir haben hier die Kapitalbindung, siehe oben, siehe A.
+Jetzt wäre nur die Frage, ja was ist jetzt E?
+Und da haben wir alle Daten dafür gegeben.
+Also der Gewinn, was ist der Gewinn? Der Gewinn ist eben nicht der Ertrag oder Erlös oder sonst was, sondern der Gewinn ist der Erfolg.
+In der Kostenregelung haben Sie auch gesprochen, wie kurzfristig Erfolg sind.
+Das ist dann schon die Differenz aus Ertrag abzüglich Kosten oder Aufwand.
+Das kann ich jetzt hier genau machen.
+Angegeben, die Erlöse 210.000 Euro.
+210.000 Euro und von denen muss ich was abziehen?
+Dann komme ich auf den Gewinn.
+Perfekt, also es sind diese Abschreibungen, ich kürze das ein bisschen ab, 33,3 Tausend
+Euro.
+Sie hatten richtigerweise gesagt 50 Tausend Euro und wir hatten, Sie haben richtig gesagt,
+wie 120.000 Euro.
+Die sind ja alle gegeben.
+Das Ganze wird ins Verhältnis gesetzt zu der Kapitalbindung,
+zu der durchschnittlichen Kapitalbindung,
+die war bei 100.000 Euro.
+Und dann ergibt sich eine Rentabilität von 6,7%.
+Jetzt müssen Sie ein bisschen weiterdenken.
+Für Maschine B ergibt sich eine Rentabilität von 9%.
+Also das wäre jetzt die Vergleichs- oder die Alternativ-Investition.
+Welche Maschine ist nun vorzuziehen?
+Vielen Dank.
+D. Was ist jetzt besser einzuschätzen?
+Welche Maschine ist vorzuziehen?
+Also ja, 9% ist größer 6,7%, also Maschine B ist vorzuziehen.
+intern wird eine Verzinsung von 11% gefordert.
+Was bedeutet das für die Investition?
+Das ist jetzt schon ein bisschen ein Vorgriff auf das,
+was bei der dynamischen Investitionsrechnung passieren wird.
+Ein ganz wichtiges Datum der dynamischen Investitionsrechnung wird sein, der Vergleichszinssatz.
+Das heißt nichts anderes, als dass wir grundsätzlich davon ausgehen, dass ein Projekt, welche Art auch immer, ob das eine Maschineninvestition ist, ein neues Produkt etc.,
+dass es eine Mindestverzinsung hervorbringen muss.
+Das ist die Grundlage für die ganzen Rechnereien in der dynamischen Investitionsrechnung.
+Und das haben wir jetzt quasi schon hier angewandt.
+Intern wird eine Verzinsung von 11% gefordert.
+Was bedeutet das jetzt für die Investition?
+Auch für die Baumschule 100. Rast, eine total primitive Frage.
+Es lohnt sich gar nicht, weil beide unter 11 sind.
+Richtig. Beide, keine der Maschinen erfüllt die Forderung.
+Also?
+Die Investition ist nicht zu tätigen.
+Das ist das Outcome daraus, dass wir uns vergleichen oder einen Sollzins erreichen müssten von 11%.
+Gut, gibt es soweit Fragen?
+Vielen Dank.
+kurz noch einen Abriss zu der Rentabilitätsvergleichsrechnung. Wir haben, wie bei den ganzen Vergleichsrechnungen
+im statischen Bereich, es wird nur eine Durchschnittsperiode betrachtet. Also wie immer, wir haben vielleicht
+fünf Planperioden und trotzdem sagen wir, okay, wir nehmen den Durchschnitt daraus und
+das ist für uns die Entscheidungsgrundlage. Großes Problem dabei ist, wann welche Zahlungsstürme
+anfallen, ist völlig irrelevant.
+Wann welche Kosten entstehen, völlig irrelevant.
+Sind die eher am Anfang, eher später?
+Es interessiert uns nicht, in dem Fall.
+Und da ist ein Fehler
+schon impliziert.
+Dann, das hatten wir vorhin schon angesprochen,
+Erlöse.
+Eine Investition
+zuzuweisen, die irgendwo hinten drin
+in der Wirkung eines Unternehmens hängt,
+ist äußerst schwierig.
+Wie wollen Sie einen Erlös
+präzisieren?
+Das kann natürlich auch sein, das werden wir bei der Übung noch sehen, dass gegebenenfalls eine Maschine Produkte erzeugt, die höherwertiger sind als andere.
+Zum Beispiel durch Oberflächengenauigkeit.
+Und dann gibt es schon auch wiederum einen monetär auszudrückenden Vorteil.
+Oder dass eine Maschine mir eine zweite Aufspannung erspart.
+das ist ganz klar zu bewerten
+dritter Punkt
+wir haben ja gegebenenfalls
+unterschiedliche Anschaffungskosten
+aber das Ganze verbunden auch noch mit unterschiedlichen Nutzungszeiten
+und dann wird es einfach schwierig
+wie sollen wir damit umgehen
+wir bräuchten dann andere Ansätze
+das wäre dann zum Beispiel die Zusatz- oder Differenzinvestition
+Und das werden wir spätestens bekommen bei der dynamischen Investitionsrechnung, wo es dann einfach heißt, naja, die eine kostet mehr, die andere weniger.
+Also wenn ich die A mit der B vergleichen will, dann müsste ich quasi nochmal eine vergleichende Zusatzinvestition dazu packen, um eine richtige Bewertung treffen zu können.
+Okay, damit haben wir die drei Vergleichs-, also Kosten-, Gewinn- und Rentabilitätsvergleichsrechnungen hinter uns.
+Und jetzt schauen wir uns noch die Amortisationsrechnung an.
+Wer von Ihnen nutzt den Begriff, naja, das hat sich amortisiert?
+Mal in die Runde.
+Ist ja im täglichen Sprachgebrauch eigentlich drin, oder?
+Amortisiert sich das? Was verbinden Sie damit?
+Hat sich das amortisiert? Heißt so viel wie?
+Glatteiswagen.
+Ist der Break-In-Count erreicht?
+Also ist das...
+Hat man das Geld,
+was man reingestellt hat, wieder rausbekommen?
+Das ist die richtige Antwort.
+Oder ist das
+noch nicht mit drin
+in der Offizialzinsrechnung?
+Ohne die...
+Das kommt darauf an, ob wir Brutto- oder Netto-Rechten
+in der Zinsrechnung sehen.
+Also,
+die Antwort war richtig.
+Also eigentlich ist es hier glatt als Frage,
+weil manche
+würden antworten,
+naja, lohnt sich's oder lohnt sich's nicht.
+Und das ist falsch.
+Weil die Amortisation,
+die Amortisationsrechnung
+wird uns nichts dazu sagen,
+ob sich etwas rentiert oder nicht rentiert.
+Dazu trifft sie überhaupt keine Aussage.
+So wie Sie es beschrieben haben,
+ist es genau richtig.
+Heißt eigentlich, man hat sie sich selbst zurückbezahlt.
+Oder so wie Sie gesagt haben.
+Die Rückflüsse,
+die ich Ihnen zurechnen oder zuweisen kann, wann habe ich so viele Rückflüsse gehabt, dass die Anfangsinvestition zurückgezahlt ist.
+Also genau das steht hier da.
+Bis wann der ursprüngliche Kapitaleinsatz aus den künftigen Einzahlungsüberschüssen, also Einzahlung minus Auszahlung pro Periode, wann das wieder zurückgeflossen ist.
+Dieses Wann ist entscheidend. Und wenn ich verschiedene Investitionsalternativen vergleiche, dann ist besser diejenige, die die kürzere Pay-Off-Period, das ist das englische Wort dafür, für die Amortisationsdauer, was die kürzere Pay-Off-Period hat.
+Heißt aber, ich habe immer noch keine Aussage getroffen über die Rentabilität.
+Warum nutze ich es dann überhaupt nicht?
+Eine andere Entscheidungsregel kann sein, ich gebe vor, die Amortisationsdauer darf nicht länger sein als X.
+Sobald es darüber hinausgeht, ist das keine Investition, die ich machen will.
+Egal, ob es sich rechnerisch rentiert oder nicht.
+Jetzt gebe ich Ihnen Beispiele dazu.
+Da, wo ich ganz hart mit Vorgaben in der Amortisationsdauer gerechnet habe, das war im Bereich des Einkaufs, wenn es um Verlagerungen geht.
+Sie haben Produkte, Serienproduktionen und Sie möchten die verlagern auf einen anderen Lieferanten, um gewisse Kostenvorteile zu realisieren.
+Das ist häufig oder meist damit verbunden, dass Sie auch Investitionen in spezifisches Werkzeug machen, die dort dann bei dem Lieferanten anzuschaffen sind.
+Sie bezahlen für das Werkzeug.
+Und jetzt heißt es ganz klar,
+Werkzeug kann teuer sein.
+Wenn ich da von Werkzeug spreche,
+rede ich nicht von Wändeschneidplatten
+oder von irgendwelchen Standardbohrern,
+sondern es geht hier zum Beispiel um
+Stanzwerkzeuge, die spezifisch gestylt werden
+für Ihr Produkt, für Ihr Profil.
+Da sind wir ganz schnell im mehrere Hunderttausend Euro Bereich.
+oder ein beliebtes Beispiel
+für mich ist auch die, ich glaube,
+ich habe es schon mal genannt, die Räumnadel.
+Hat jemand das schon mal gesehen,
+so ein Prozess? Ich finde es total beeindruckend
+mit einem Hub.
+Ja, okay.
+Ein paar zigtausend Euro
+stecken dahinter und dann heißt es,
+okay, gerade bei solchem Werkzeug,
+wenn es für den Lieferanten angeschafft wird,
+dann muss die Amortisationszeit
+zwischen 12 und 15 Monaten
+muss das erledigt sein. Also 12 bis
+maximal 15 Monate,
+dann muss das amortisiert sein. Heißt,
+der Kostenvorteil, den wir versprechen,
+dadurch, dass ich da lagere
+auf den anderen Lieferanten,
+dieser Kostenvorteil muss,
+das kann ich eben dann hochrechnen
+mit der Stückzahl, muss
+für eine Amortisation in maximal
+15 Monaten gut sein.
+Nachvollzogen.
+So ganz allgemein, was ist denn da
+der Grund dahinter? Warum mache ich denn das?
+Warum sage ich das? Es muss in 15 Monaten erledigt sein, die Amortisation.
+Warum?
+Warum ist das so?
+Können Sie mir folgen?
+Warum limitiere ich die Amortisationszeit?
+Warum wird die limitiert?
+Um das Kapital nicht so lange unten zu fallen.
+Also das ist ein Risiko, wenn es länger dauert und die Maschine vorher ausleihen sollte,
+bevor sie sich auf die Maschine schützt.
+Okay, das wäre auch ein Thema, dass er ausfallen könnte.
+Also wenn wir jetzt gerade mal an das Einkaufsszenario denken, Risiko ist ein Thema, genau dieses Risiko.
+ich habe dann mein Kapital gebunden
+und jetzt habe ich verlagert
+und ich habe halt prognostiziert
+so und so viele Jahre mit Stückzahlen
+und auf einmal heißt es aber vom Vertrieb
+oh, das brauchen wir nicht
+und das kann eben im dritten, vierten, fünften Jahr
+leicht passieren
+dass diese Stückzahlen, mit denen ich mir die Sache richtig rechne
+dass die dann einfach nicht mehr zutreffen
+und das alles nur im Mund steckt
+es ist also ein Risiko der Kapitalvernichtung
+weil dann das Werkzeug wertlos ist
+und das möchte ich mit einer Einschränkung
+einer Limitierung der Amortisationszeit erreichen
+dass ich dieses Risiko
+der Kapitalvernichtung schlicht und einfach
+reduzieren
+also
+wir brauchen es um die Auswirkungen
+auf die Liquidität zu beurteilen
+und um das Risiko
+des Kapitalverlusts
+entweder zu beurteilen
+oder eben über Vorgaben
+zu limitieren.
+Weil ich einfach
+diese Prognosen in die Zukunft,
+die können sich als falsch herausstellen.
+Aber nochmal wichtig,
+keine Aussage
+über Rentabilität.
+So und jetzt gibt es zwei Arten, die wir rechnen, das klang jetzt gerade schon an, ach halt, das war ja bei Rentabilität, wir sind jetzt im Bereich Amortisation, aber auch da gibt es zwei, nämlich die Durchschnittsvertonen, das heißt, ich betrachte wieder nur ein Durchschnittsjahr und sage, okay, der Rückfluss des Durchschnittsjahres, der wird als allgemein oder für immer gültig anerkannt,
+und dieser Rückfluss wird berechnet als jährlicher Gewinn plus Abschreibung.
+Fragen Sie, warum plus Abschreibung?
+Warum wird der Rückfluss definiert als Gewinn plus Abschreibung?
+Und wenn Sie das verstanden haben, dann haben Sie den ersten Schritt zur ingeregten Cashflow-Berechnung gemacht.
+Warum ist der Rückfluss Gewinn plus Abschreibung?
+Dann versuche ich es hier zu heben.
+Eine Abschreibung ist erfolgswirksam, aber was ist sie nicht?
+Sie ist erfolgswirksam, sie taucht also in der Gewinn- und Verlustrechnung auf.
+Das ist Ihnen bewusst.
+Alle erfolgswirksamen Vorgänge kommen in die Gewinn- und Verlustrechnung.
+Eine Abschreibung, die Abschreibung kommt in die Gewinn- und Verlustrechnung,
+aber sie ist zwar erfolgswirksam, aber nicht...
+Erfolgswirksam heißt, sie hat Auswirkungen auf den Gewinn.
+Sie ist nicht zahlungswirksam.
+Nicht zahlungswirksam.
+Also erfolgswirksam, aber nicht zahlungswirksam.
+Das heißt, wenn ich den Gewinn hernehme, dann steckt da eine Komponente,
+mindestens eine Komponente drin, die den Gewinn geschmälert hat,
+aber gar keine Zahlung bedeutet.
+Also ist die Idee, wenn ich über die Rückflüsse,
+Also es geht darum, wann hat sich die Investition zurückgezahlt?
+Nicht, wann hat sie sich über die Gewinne erledigt, sondern wann hat sie sich zurückbezahlt?
+Dann muss ich logischerweise auf den Gewinn das zu rechnen, was meinen Gewinn geschmälert hat, aber nicht zahlungswechselnd.
+Das ist die Idee dahinter.
+Der Rückfluss, das ist eine sehr primitive, sehr vereinfachte Methode, um über einen Rückfluss zu reden.
+Rückfluss, Gewinn plus Abschaffung.
+und dann nehme ich wieder das Durchschnittsjahr
+und kann dann einfach rechnen
+Anschaffungswert geteilt
+durch diesen Rückfluss
+diesen Durchschnittsrückfluss
+und dann komme ich auf die Anzahl der Jahre
+das wäre die Durchschnittsmethode
+und dann gibt es die Totalrechnung
+oder Kumulationsmethode
+jetzt weiche ich ab von dieser
+Durchschnittswertbetrachtung
+und sage, ok, ich habe 5 Jahre, 6, 7 Jahre geplant
+mit sehr unterschiedlichen
+Rückflussszenarien
+und ich setze die jetzt eitel an
+Ich gehe zwar aus von dem Anschaffungswert,
+und jetzt gehe ich aber aus von diesen sehr unterschiedlichen Werten,
+die es pro Jahr gibt,
+weil ich da unterschiedliche Gewinne dann doch geplant habe.
+Jetzt könnten Sie sagen,
+ja, aber dann ist das ja nicht mehr diese Periode,
+diese Einperioden- oder Durchschnittsperioden-Betrachtung,
+aber Vorsicht, es ist trotzdem statisch.
+Es gehört trotzdem zu der statischen Rechnung.
+Warum?
+Weil wiederum die Zinseszinsrechnung nicht zum Ansatz kommt.
+Es ist mir also egal, nach wie vor,
+egal wann die Zahlung stattgefunden hat,
+im Sinne von, muss ich sie weniger hoch bewerten,
+als eine frühe Stadt hinbezahlen.
+Egal, wir schauen uns das auch immer an, weil wir die Namen nicht wissen.
+Also, ganz einfache Geschichte.
+Und zum ersten Hinweis, Gewinn plus Abschreibung ist sozusagen eine äußerst primitive Berechnung eines Cashflow.
+Das würden wir aber noch aufbohren gegen Ende des Jahres.
+Gut. So könnte dann die Totalrechnung aussehen. Jetzt hätte ich gegebenenfalls ein Beschäftigungsprogramm.
+Da würden Sie jetzt hier zwischen Wolf rechnen, aber Sie füttern Excel damit und da geht das ganz schnell.
+Die Frage wäre hier bei diesen gegebenen Gewinnen über die nächsten 10 Jahre. Sie haben zwei Investitionsalternativen.
+A. Was ist die Amortisationszeit für diese beiden Maschinen?
+Und B. Ja, das ist nur by the way, das ist ein Durchschnittsgewinn und wir können nicht mehr.
+Was ist zu tun?
+Zunächst müssen Sie sich feststellen, die Maschinen werden abgeschrieben über die nächsten 10 Jahre.
+Steht hier, Nutzungsdauer 10 Jahre.
+Wir gehen aus von der Linie an, Absteigung.
+Heißt, ich weiß von vornherein,
+was die kalkulatorische
+Abschreibung für die nächsten 10 Jahre sein wird.
+Nämlich,
+15.000 Euro.
+Genau, für Maschine A und für Maschine B
+22.000.
+Die tragen Sie einfach ein
+bei Abschreibung.
+Das ist der Wert, der zu der
+gewinnenden Zugehörigkeit muss.
+Dann kommen Sie auf den Rückfluss pro Jahr.
+Also ganz einfache Geschichte.
+Und jetzt müssen Sie diese Rückflüsse,
+die Sie errechnet haben, über die Jahre kumulieren.
+Das heißt, Sie haben dann das Jahr 1, das Jahr 1 plus 2, das Jahr 1 plus 2 plus 3 und so weiter.
+Und dann sehen Sie auf Basis dieser Kumulation, wann die Linie durchschlagen ist, diese Anfangsinvestition.
+Wann habe ich die 150.000 Euro erreicht oder wann habe ich die 200.000 Euro erreicht?
+Ich will Sie damit jetzt nicht
+beschäftigen, sinnloserweise
+ich hoffe, Sie können das einfach
+Ihnen ist klar, okay, ich brauche
+Gewinn, dann brauche ich die Abschreibung dazu
+habe ich mal so einen Rückfluss errechnet
+den Rückfluss kumuliere ich auf
+und dann sieht das Ganze so aus
+Sie können sich mal ein Eckdatum reinschreiben
+das wäre im
+im Jahr 5
+haben Sie
+für Maschine A
+die 150.000
+erschlagen
+und im Jahr
+7
+haben Sie die 200.000
+von der Maschine B erreicht.
+Heißt, der Wert muss irgendwo
+für Maschine A bei
+4, irgendwas liegen
+und für die Maschine B bei 6, irgendwas.
+Nommen wir es im siebten Jahr,
+das heißt 6, irgendwas.
+Ist Ihnen das klar mit der Kumulation,
+die letzten beiden Spalten
+und wie Sie es in EXI umsetzen würden,
+total primitiv,
+mit einem relativen Bezug?
+Oder da ein Absolutbezug sogar, Summe bis von, und dann rockieren Sie es runter, das ist total unnötig.
+Gut. Nachvollziehbar?
+Schauen wir uns das Ganze grafisch an.
+Grafisch sieht es dann so aus.
+Ich habe zwei Möglichkeiten. Entweder ich spiele mit der Null, die ich sage, okay, ich habe ein Anfangsinvest, das heißt eine Anfangsauszahlung.
+Hier fange ich damit an und sage, okay, ich beginne bei 0, gucke mir die Rückschlüsse an und schaue mir exakt die Linie A0 an, wann wird diese erreicht.
+Die ist einmal bei 150.000 und einmal bei 200.000.
+Ich kann hier eben abschließen, okay, das wird so bei 4,8 liegen und hier bei 6,5 vielleicht.
+Das ist die eine Darstellungsweise.
+Ich kann aber auch sagen, okay, ich habe eine Anfangsauszahlung und da fange ich an.
+Es geht also nicht um den Nullpunkt, sondern wie gesagt, die Investitionswährung und Rückflüsse lasse ich dann anfangen bei A0.
+Die Auszahlung wäre im Fall A minus 150.000, die Auszahlung im Fall D die 200.000.
+Und dann schaue ich mir an, wann ist die Nulllinie erreicht, das kommt genau dasselbe raus, das ist eine andere Darstellung.
+Auch hier wieder die gleichen Zeiträume.
+also wir hätten hier
+wenn wir es genauer anschauen
+wie gesagt eine 4,8
+und hier eine 6,5
+wir könnten es jetzt doch
+grafisch auflösen oder interpolieren
+also diese letzte
+Periode, wenn wir es genauestens
+haben wollten
+nein
+und was ich dann noch gemacht habe
+die
+Die Gewinne wurden als Durchschnittswerte errechnet.
+Das ist das, was man quasi macht, wenn man auf das Durchschnittsjahr geht.
+Und dann die dazugehörigen Renten.
+Gut. Problem bei dem Ganzen.
+Was ist das Problem?
+Immer und immer wieder, bitte machen Sie sich das ganz, ganz klar.
+Ich habe mit der Amortisationsrechnung überhaupt keine Aussage und keinen Hinweis darauf, ob sich etwas rentiert oder nicht rentiert.
+Ich kann eventuell eine Amortisationszeit haben, die weit über 10 Jahre hinausgeht und das kann ein hochrentables Projekt sein.
+Für den Privatinvestor sind das allerdings Zeiträume, die sein Gefühl für ein vertretbares Risiko übersteigen.
+Ein Beispiel, Sie kennen Groß-Wasserkraftprojekte, in Deutschland der Skoldistal zum Beispiel, also es gibt so Großprojekte, da rechnen Sie sehr wohl mit Amortisationszeiten, die extrem lang sind.
+Sie kennen vielleicht Three Gorges in China, das ist ein Großprojekt gewesen vor ein paar Jahren.
+Three Gorges, also drei Schluchten am Wasserkraftwerk.
+Kennen Sie? Nicht? Okay.
+Also ein riesiges Ding, wo Sie sogar zum Teil unterschiedliche Hersteller der Turbinen haben.
+Also, wenn Sie sich sowas anschauen, das würde ein Privatier nie angehen, auch ein privates Konsortium nie angehen.
+Sowas ist auch in Europa oder USA, war staatlich getrieben, solche Projekte.
+Jetzt hat es aber über die letzten, ja jetzt bald 30 Jahre, einen ganz klaren Trend gegeben zur Privatisierung.
+Fakt ist, dass solche Großprojekte nicht mehr stattfinden, nicht mehr in dem Maße, das heißt auch eine Umstellung der Industrie muss stattfinden.
+weil
+denen diese Langfrist
+also klar, da stecken hohe Rentabilitäten
+dahinter, ist klar, ist logisch
+hohe Rentabilitäten, aber sie brauchen
+den langen Atem und zu sagen
+Amortisationszeit braucht ewig
+aber für die gesamte Infrastruktur
+für die Fortentwicklung dieses Bereichs
+ist es eine ganz wichtige Geschichte
+und tatsächlich
+es rentiert sich
+auch für den Eigentümer
+aber er muss halt damit leben
+dass es sehr, sehr lange gebunden ist, sein Kapital.
+Und der Rückfluss ewig dauert.
+Deswegen haben Sie heutzutage eher kleinere Projekte, die in Abwicklung kommen.
+Also Punkt 1, wir haben keine Aussage zur Rentabilität.
+Punkt 2...
+Kann man da dann...
+Also, bei so großen Projekten, wenn das ein Privatunternehmen machen würde,
+wenn es sich Rückzahlungsdauer von 30 Jahren anwenden soll,
+dann dauert das eh nichts.
+Kann man das dann aus dem laufenden Betrieb ausfinanzieren und trotzdem zurückzahlen?
+Sie brauchen halt einen Mods-Anfangs-Hub,
+Sie brauchen quasi einen extrem langen laufenden Kredit
+oder Sie haben das als Einlage durch Eigentümer.
+Also da brauchen wir auch einen Spende-Kreditgeber,
+die das Vertrauen haben,
+dass Sie so lange auch wirklich solvent bleiben.
+Und das ist ja die nächste Geschichte,
+wie sonst niemand schickt.
+Gegenüber einem Staat, da gibt es ja mal Staatsanleihen.
+Da geht das leicht.
+Im Übrigen, dass das jetzt keine Luftnummer ist, schauen Sie sich mal Niagara-Fälle an.
+Da stecken, ich glaube, das sind Turbinen, die da drin sind von 1906 noch.
+Da sehen Sie, wie lang das Zeug läuft.
+Gewinnbringend.
+Aber das sind einfach andere Dimensionen.
+Und ja, in Anlagen brauchen Sie grundsätzlich dieses Problem.
+Grundsätzlich.
+dieser relativ langen Rückflusszeiten oder Amortisationszeiten.
+Aber gerade bei Kraftwerken oder insbesondere bei Wasserkraftwerken,
+da wird es halt richtig lang.
+Das ist zum Beispiel bei Gaskraftwerken noch nicht mal so groß, würde ich sagen.
+gut
+dann zweites Thema hier
+was nach der Amortisation ist
+wird hier keine Aussage getroffen
+es heißt nur bis dahin, dass es amortisiert und gut ist
+heißt
+dass ich, also wenn ich das als
+Absolutkriterium hernehme, die Amortisationsdauer
+dass ich grundsätzlich mal
+langfristige Investitionen
+benachteilige zugunsten
+aufgrund meiner sehr kurzfristigen
+Betrachtungsweise.
+Das muss man nur wissen.
+Aber deswegen habe ich immer und immer wieder,
+das kommt zum Schluss nochmal,
+die Amortisationsrechnung
+ist kein Entscheidungskriterium,
+das
+allein hier genommen werden darf.
+Das ist immer nur
+ein ergänzendes Hilfsmittel,
+eine Ergänzung,
+eine Rahmenbedingung,
+so wie ich vorhin sagte.
+Also eine gewisse Rentabilität muss sein und das Ganze aber verquickt mit einer maximalen Amortisationsdauer von zum Beispiel.
+Oder Sie vergleichen zwei in der Rentabilität ähnliche Projekte und dann entscheidet sie sich klar für das mit der kürzeren Amortisationsdauer.
+Tja, schwierig wird es eben bei unterschiedlichen Nutzungsdauern.
+Na klar, wenn ich quasi die Amortisationszeit, wenn die meine Gesamtnutzungsdauer schon fast verbraucht hat,
+ist blöd, wenn ich jetzt unterschiedliche Nutzungsdauern habe, von vornherein, wie soll ich es vergleichen?
+So, und der Hinweis, den hatte ich schon gegeben, auch wenn ich jetzt eine mehrperiodige Betrachtung mache,
+bei dieser Totalrechnung oder kumulativen Berechnung, dann bleibt es eine statische Berechnung.
+rechnen muss. Statisch deswegen,
+weil ich nicht dynamisiere.
+Dynamisieren würde bedeuten,
+dass ich diskontiere.
+Dass ich sage, okay, finde den
+6-Jahren-Stab, deswegen muss ich es auf heute
+diskontieren.
+Zeitpräferenz des Geldes
+spielt keine Rolle.
+So, und nochmal,
+ist nur ein Teilaspekt
+der Investitionsbeurteilung,
+nämlich Teilaspekt
+zeigten.
+Gut.
+Noch ein paar allgemeine Hinweise
+zu der statischen Investitionsrechnung.
+Was
+Sie im Hinterkopf
+verhalten sollen.
+Die statische
+Investitionsrechnung, weil grundsätzlich
+ist eher eine kurzfristige Betrachtungsweise,
+indem ich halt ein Durchschnittsjahr
+hernehme.
+Und dann
+auch nicht die Mühe gemacht habe,
+da betrachtet man die ersten drei Jahre bitte dann Durchschnitt und Kurs,
+wenn Sie an solche Wirtschaftlichkeitsberechnungen von Maschinen denken.
+Also genauso wie es hier steht, häufig hat man nur die Untersuchung der ersten Jahre nach Anschaffung,
+aber großer Vorteil, die Datenbeschaffung ist natürlich nicht so schwierig
+und die sind wohl auch sehr realistisch, die Daten, mit denen ich arbeite.
+Zweiter Punkt
+Sollte es irgendwelche Schwankungen geben
+im Zeitablauf
+finden die keine Rücksicht
+Es gibt sogar Schwankungen
+die ich eigentlich von vornherein weiß
+Gerade wenn ich
+wenn ich über ein
+ich weiß von vornherein
+bei einem Produkt
+wenn es um ein Projekt eines Neuproduktes geht
+hatte ich Ihnen ja schon mal gezeigt
+dann kenne ich grundsätzlich
+den Verlauf gemäß Lebenszyklus.
+Dann habe ich so einen Verlauf.
+Aber genau dieser Verlauf findet keine
+Berücksichtigung.
+Danke, das war für mich.
+Dann habe ich so einen Verlauf,
+was die Gewinnsituation angeht.
+Ich habe erst Aufwände oder Kosten
+und dann komme ich,
+dann fängt irgendwann der Umsatz hier an,
+aber der Gewinn kommt erst hier.
+Ich habe
+eigentlich verschiedene Phasen
+in dem Leben des Produktes
+die Nicht-Berücksichtigung finden.
+So, und jetzt kommt das Garstige.
+Wenn ich jetzt zwei Projekte miteinander vergleiche,
+dann können die komplett gleiche Rentabilität aufweisen.
+Und die haben aber gegebenenfalls
+gegenläufige Gewinnentwicklungen.
+Was meine ich damit?
+Stellen Sie sich vor, wir schauen die Gewinne an von A
+und die Gewinne von B.
+und über die Perioden 1, 2, 3, 4, 5 schaut das dann wie folgt aus.
+Die Entwicklung für A ist 200, 400, 600, 800, 1000
+und die Entwicklung für B ist, die kommen von den 1000 und es fällt über die Zeit nach unten.
+Der Durchschnittsgewinn ist für beide gleich.
+Nämlich, was ist der Durchschnittsgewinn?
+Ja, 600.
+So ist es, genau. 600.
+Also nach Rentabilitätsvergleichsrechnung würde ich hier rausgehen und sagen,
+die sind gleich, sind gleich gut.
+Aber was würden Sie jetzt aus dem Bauch heraus sagen,
+welche ist besser?
+Die A.
+Warum würden Sie so argumentieren?
+Weil es ja immer mehr Gewinnkunden
+in der Wirtschaft wird über die Jahre.
+Okay, Sie.
+Ich kann die Argumentation verstehen.
+Man könnte ja dann weiterrechnen,
+dass im 6. oder 7. Jahr
+Nein, ich finde es nachweihlich, theoretisch.
+Gibt es andere Aussagen?
+Ich habe eine Idee, zum Beispiel, wenn es nach drei Jahren das Produkt oder die Funktion begibt,
+dann habe ich eben schon ein wenig weniger Wach, quasi am Anfang sicherer.
+Der Witz ist, dass eine Zahlung, die im Jahr 1 stattfindet, und wenn es der gleiche Betrag ist,
+der ist viel höher zu bewerten, als eine Zahlung, die im 4. oder 5. Jahr stattfindet.
+Dazu kommen wir aber bei der dynamischen Investitionsrechnung.
+Genau darum geht es.
+Deswegen wäre nach dynamischer Investitionsrechnung ganz klar,
+das Ergebnis B ist viel besser als A.
+Wenn Sie sowas sagen, dann müsste man jetzt eigentlich ergänzen und sagen,
+der Betrachtungszeitraum reicht nicht.
+Wir möchten eine Entscheidung treffen auf Basis der nächsten 10 Jahre.
+Und jetzt muss ich mir überlegen, wie geht es dann weiter.
+Aber das ist dann ein anderes...
+Also auf Basis dieser Zahlen, auf der beurteile ich und dann ist ganz klar B besser.
+Und das kommt bei der statischen Investitionsrechnung nicht raus.
+Jetzt habe ich nur Bashing gemacht bezüglich der statischen Investitionsrechnung,
+möchte Ihnen aber nicht beantworten, ja natürlich ist es sehr leicht anzuwenden
+und das ist auch der Grund, warum es sehr oft und sehr häufig in der Praxis zur Anwendung kommt.
+Und es ist gut, dass es zur Anwendung kommt, weil es schon mal eine gute Entscheidungsgrundlage bringt.
+Es ist allemal besser, als darauf zu verzichten.
+Und in vielen Bereichen mag eine dynamische Investitionsrechnung vielleicht zu viel sein,
+Wobei es heute, ich kann von, also bei großen Firmen ist es Standard, bei irgendwelchen Projekten, dass sie dynamisieren.
+Irgendwelche Fragen soweit?
+Ja?
+Hängt das dann irgendwie auch von der Projektgröße oder sowas ab, dass man sagt, okay, das ist nicht 10.000 Euro, ist nicht wurscht, aber man tut es die statische oder taktische Art?
+Das können Regeln sein in den Unternehmen, in welcher Art zum Beispiel Wirtschaftlichkeitsberechnungen durchzuführen sind,
+in Abhängigkeit von der Höhe des Investitionsvolumens.
+Das ist durchaus denkbar.
+Völlig klar ist bei, also wenn es um die Beurteilung eines neuen Produkts geht,
+da wird in jedem Fall dynamisiert
+weil Sie da längere Zeiträume betrachten
+und weil Sie da diese sehr unterschiedlichen
+Sie haben keinen eingeschwungenen Zustand, der ständig bleibt
+sondern Sie sehen, dass es einen bestimmten Verlauf nimmt
+und dann müssen Sie dem Rechnung tragen
+Gut, wenn keine weiteren Fragen sind
+kurz vorweg
+Sie werden es dann
+das habe ich eigentlich mal geschaltet für nach der Übung
+ich werde Sie aber darauf nochmal hinweisen
+wenn wir diese Vergleichsrechnung machen
+da fangen wir an mit der Kostenvergleichsrechnung
+dann kommt die Gewinnvergleichsrechnung
+dann kommt vielleicht
+dann kommt die Gewinnvergleichsrechnung
+Und da könnte man versuchen zu sagen, okay, ich mache vielleicht eine Kosten-pro-Stück-Betrachtung,
+ich rechne runter, dann habe ich hier den Einzelpreis
+und ich habe dann die Differenz zwischen Preis und Kosten pro Stück.
+Und dann multipliziere ich mit der Kapazität, dann habe ich den Komplettgewinn.
+Das große Problem dabei ist, dass Sie mit Sicherheit, wenn ich größere Stückzahlen habe,
+große Verzerrungen wegen Rundungsfehler drin haben.
+also rechnen Sie lieber
+von den großen Werten ausgehend
+und rechnen Sie dann runter
+nur kurzer Hinweis
+Sie sehen es dann
+wir gehen rüber zur dynamischen Investitionsrechnung
+jetzt wird es endlich spannend
+jetzt kommt ein bisschen was
+mit höheren Anspruch
+wer von Ihnen hatte Finanzmathematik?
+Zinsrechnungen
+absolutes Neuland
+Okay, Sie hatten sich damit beschäftigt. Dann werden Sie das hier wiederfinden.
+Das Feine ist hier, Sie sehen drei Methoden, die Kapitalwertmethode, die interne Zinsflussmethode, die Annuitätenmethode und die bauen aufeinander auf.
+Das heißt, wenn ich mal grundsätzlich die Kapitalwertmethode begriffen habe, verstanden habe, dann ist es kein großer Schritt mehr zu den anderen Methoden.
+und gestrichelt am Schluss
+sehen Sie als vierte Methode, die ich Ihnen vorstelle
+die dynamisierte
+Amortisationsrechnung
+die ist ganz einfach
+da bringe ich einfach in diese
+Sie erinnern sich, in diese Totalrechnung
+die Dynamisierung mit rein
+das heißt, da werden schlicht und einfach
+die einzelnen Jahre diskontiert
+und dann entsprechend
+der Amortisationsverlauf
+berechnet
+so, warum das Ganze
+jetzt versuche ich es Ihnen ein bisschen näher zu bringen
+stellen Sie sich vor
+wir haben hier eine Zeitreihe
+eine Zeitreihe mit
+pro Periode genau der gleichen Zahlung
+wenn Sie sich daneben stellen
+dann sehen Sie von vorne
+ja, das ist ja alles gleich
+stellen Sie keinen Unterschied fest
+wenn Sie sich jetzt aber auf den Zeitstrahl stellen
+dann wie in der Schlange
+dann sehen Sie abnehmende Werte
+je weiter Sie nach vorne schauen
+und so müssen Sie sich das irgendwie vorstellen
+auf der Suche
+nach der Antwort auf die Frage
+zum Beispiel
+wie viel ist denn ein Betrag
+heute wert
+den ich schon vor zwei Jahren
+erhalten habe
+also das wäre die
+Jährungswärtsbetrachtung, Zahlung erfolgt in der Vergangenheit
+Was ist die eigentlich aus heutiger Sicht wert?
+Da ist es noch relativ einfach, denke ich.
+Sie können schon sagen, okay, hätte ich vor zwei Jahren auch in die Bank gegeben,
+da hat es ja noch tolle Verzinsungen gegeben, dann wäre das halt deutlich mehr wert.
+Die andere Frage, damit es vom Verstehen her schon ein bisschen abstrakter,
+wie viel ist ein Betrag heute wert, aus heutiger Sicht,
+den ich erst in vier Jahren erhalten werde?
+da können Sie natürlich auch mit so einem Medantenlösung
+naja
+wenn ich heute Geld anlege
+dann soll das in vier Jahren genau diesen Zahlungsbetrag
+ersetzen oder so hoch sein wie der
+das heißt er ist nominal kleiner
+da kriegen Sie dann schon das Gespür dafür
+ja also genau darum geht es
+Wir arbeiten mit der Verzinsung der Rückflüsse.
+Die dynamische Investitionsrechnung basiert ausschließlich auf Zahlungsflüssen.
+Wir hatten jetzt noch eine Durchmischung bei der statischen Investitionsrechnung.
+Sie erinnern sich, dass wir hier zum Teil mit Aufwänden gerechnet haben,
+aber nicht mit den eigenen Zahlungsflüssen durchgehen.
+Die Frage ist, wie viel Zins würde ich für mein Geld erhalten?
+Wir können schon mal so rechnen, oder hier eine einfache Aufgabe.
+Heute sollen 3.000 Euro investiert werden in ein Wertpapier mit drei Jahren Laufzeit.
+Das ist leicht denkbar.
+Gehen Sie mal, Sie legen an, in eine Anleihe, die Sie kaufen wollen über Ihre Bank.
+Anleihe von irgendeinem Unternehmen.
+Und Sie wissen heute schon, der Rückzahlungswert der Anleihe ist 4.000 Euro.
+Zinsen und Anfangsbetrag sind da mit drin.
+Das wäre zum Beispiel bei einem Zero-Bond.
+Sagt Ihnen das was?
+Zero-Bond ist ohne praktische Verzinsung,
+aber ich habe dann
+ein Regime bei der Rückzahlung
+bedeutet, über die
+Anfangszahlung hinausgeht.
+So, was ist
+die Verzinsung
+dieser Anlage?
+Heute 3.000, nach drei Jahren 4.000 Euro.
+Was ist
+die Verzinsung?
+Ich muss dann, also
+Was ist der große Unterschied? Wir haben jetzt bei der statischen Investitionsrechnung auch mit Zinsen gerechnet.
+Sie erinnern sich, auf Basis der durchschnittlichen Kapitalbindung haben wir einen alkoholatorischen Zins errechnet.
+Für ein Durchschnittsjahr, was wir dann verallgemeinern zur Anwendung gezahlt haben.
+Das wäre diese lineare Verzinsung, wo ich einfach sage, Jahr für Jahr, Jahr für Jahr, die gleiche Verzinsung.
+Jetzt, wenn ich aber in der Tat sehr näher auf den Zinswirts wieder Zinsen gebe,
+dann richte ich das ja an das Darstellungspunkt, diese exponentielle Verzinsung.
+Und das ist das, was in der dynamischen Demonstrationsrechnung zum Anlass kommt.
+Grundsätzlich werden die Zinserträge steigen, wenn sich sonst nichts verändert.
+Bei der Einfachen Verzinsung, durch die Kapitalzinsung, die Himmler Zinssatz, sind sie prägnant konstant.
+Jetzt kommen drei Definitionen, die Sie aus dem FF wissen müssen, weil Sie die brauchen für die Beurteilung und Herangehensweise an verschiedene Aufgabenstellen.
+Es geht um den Zeitpunkt der Zahlung und wann die Zahlung was wert ist.
+Der sogenannte Zeitwert ist genau der Wert einer Zahlung zum Zeitpunkt ihres Anfalls.
+Also wenn im fünften Jahr 1000 Euro gezahlt werden, dann sind im fünften Jahr diese 1000 Euro genau 1000 Euro wert.
+Aus Sicht des fünften Jahres.
+Das ist der sogenannte Zeitwert. Wenn Sie zurückgehen auf diese Darstellung der gleichmäßigen Zahlungen, dann wäre der Zeitwert der jeweiligen Zahlungen gleich.
+Jetzt kommt das Nächste. Der Endwert einer Zahlung ist der Wert einer Zahlung nach Aufzinsung über die Folgeperioden, die ich betrachte.
+Also ich habe heute eine Zahlung. Guck mir an, was ist die Zahlung in fünf Jahren wert bei Anwendung eines bestimmten Zinses.
+Da komme ich auf den sogenannten Endwert.
+Ich versuche das mal ganz kurz grafisch mitzuteilen.
+also wir haben
+heute eine Zahl
+und dann haben wir
+irgendwann das Jahr N
+erreicht und dann ist die
+so viel wert
+also die wächst an
+der Wert
+ohne dass ich irgendwas anderes tue
+einfach über Zinseszinsrechnung
+das wäre der Endwert
+die gleiche Frage
+kann ich natürlich auch andersrum stellen
+wenn ich in Tüchern diese Zahlung habe
+Was ist die aus heutiger Sicht Wert?
+Dann habe ich diesen Wert einer zukünftigen Zahlung nach Abzinsung.
+Das hier wäre der Endwert dieser Zahlung.
+Und das hier ist der sogenannte Barwert.
+Bezogen auf diese Zahlung.
+also während einer zukünftigen
+Zahlung nach abzinsen
+Fremdwort für Abzinsung
+ist die Diskontierung
+etwas zu
+diskontieren heißt nicht
+einfach abzinsen
+wir werden damit
+die ganzen nächsten Wochen
+spielen
+und da geht es immer um diese Begrifflichkeit
+Einfachste Geschichte
+den Endwert berechnen
+es geht jetzt nur um eine Aufzinsung
+ich will Zinsen wieder anlegen
+bei Wertpapiergeschäften hat man für das sogenannte
+Operation Blanche gesprochen
+und wenn Sie sich heute ETFs anschauen
+dann können Sie wählen, ist es ein Ausschüttender oder ein Tesaurierender
+also einer der seine Werte immer wieder zusätzlich mit anlegt
+dann haben Sie genau auf dem Thema
+hier geht es darum
+zu der Frage
+wie viel sind 100 Euro
+in 3 Jahren wert
+wenn ich die anlege
+zu einem Zins von 10%
+wie ist dann zu rechnen
+ganz einfach
+Geschichte
+der Endwert einer Zahlung
+ist dann einfach
+K0 mal
+1 plus den Zinssatz
+hoch N. Also hier
+wäre es 100 Euro
+mal 1 plus
+I. I ist 10%.
+Also kommt 1,1.
+Also 1 plus 0,1.
+Und das Ganze hoch 3. Fertig.
+Mehr ist es nicht. Das ist die Rechnung
+der Aufzinsung. Ganz einfache
+Geschichte.
+K0 ist der Anfangs.
+Die Anfangszahlung
+unter der Anlagebetrag.
+I ist der Zinssatz. N die Laufzeit.
+Und in dem Fall wäre das Ergebnis die 133,1 Euro.
+Das ist der Ende.
+Also was die Inflation wird jetzt da komplett erhöhen.
+Rein theoretisch, wenn ich jetzt was mit 2% Erzins und 2% Inflation suche,
+das ist ja eigentlich vielleicht viel mehr.
+Also was Sie ansprechen, ist die Kaufkraft.
+Sie können das natürlich
+dann ins Verhältnis setzen oder in Bezug setzen
+und sagen, naja, wenn wir jetzt eine durchschnittliche
+Verzinsung von 3% haben
+dann ist es vom Kaufkraftgewinn
+her, nun bezogen auf
+jetzt vielleicht, wenn wir Glück haben, eine Durchschnittsinflation
+von 2%, haben wir
+1%
+Das können Sie natürlich mit dem Ansatz
+nehmen, für sich selbst
+Das bedingt
+zum Beispiel auch die Mindestzinserwartung
+bei Projekten, das fließt dann natürlich
+mit rein diese betrachtung aber ja wir werden da jetzt nicht explizit das rein oder raus
+so der bar wird das ist gerade andersrum zu was ist zukünftiges kapital aus heutiger sicht werden
+wenn ich jetzt zum beispiel weiß ich habe ich werde nächstes jahr also in einiger 106 euro
+erhalten, bei einem Zinssatz von 6%,
+ganz einfache Geschichte, dann heißt das,
+ich habe anfangs 100 Euro
+investiert gehabt.
+Logischerweise. Ich habe 100 Euro
+investiert, ein Jahr liegen lassen,
+dann sind 6% draufgekommen, das gibt
+die 106. Die Rechnung,
+die dahintersteckt, ist schlicht und einfach die
+Umkehr dessen, was wir gerade gesehen haben.
+Also das K0
+ist das, wonach ich jetzt
+frage, und ich rechne mit
+kn als gegeben
+also habe ich dann
+kn ist dann
+kn durch
+1 plus i hoch n
+ganz einfache Geschichte
+und dieses
+1 plus i hoch n, das ist das
+Diskontieren
+hier in dem Fall
+war gefragt
+wenn ich nach
+acht Jahren diese 7.387
+Euro erhalte, bei einem
+Zinssatz von 5%,
+wie viel musste ich
+investieren, oder wie viel muss ich heute
+investieren?
+Da kommt eben raus,
+genau die
+5.000 Euro.
+Also gegeben war,
+das war gegeben,
+die Frage ist, was wäre heute zu investieren,
+um bei einem gegebenen Zinssatz
+diesen Wert zu erreichen,
+Und das ist das Ergebnis.
+Ist das für jeden nachvollziehbar? Verständlich?
+Gut. Einfache Geschichte.
+Jetzt machen wir es ein bisschen komplexer.
+Jetzt rechnet man bei gleichmäßigen, immer wieder gleich hoch stattfindenden Zahlungen.
+Dann rechnet man in Renten.
+Also das bezeichnet man als Renten.
+Da kommt auch dieser Begriff Rente hier.
+Dieser gleichmäßige Betrag, der Monat für Monat gezahlt wird, oder wir rechnen hier in Jahresperioden.
+Und dann stellt sich die Frage völlig neu.
+Wie hoch ist denn der Endwert, wenn ich jährlich einen bestimmten, und zwar immer den gleichen Betrag,
+Groß R, zu einem Zinssatz I anlege?
+Das wäre zum Beispiel Ihr Thema, wenn Sie einen Sparplan machen.
+Wenn Sie definieren, okay, ich möchte jetzt für die nächsten fünf Jahre pro Jahr 1.500 Euro anlegen,
+auch wenn das jetzt monatlich erfolgt,
+dann ist es genau diese Berechnung, was hätte das wert sein?
+Da kommt ja immer ein Betrag dazu, der wird auch selbstverzinst, etc.
+Jetzt muss ich mir die Welt erstmal ein bisschen vereinfachen,
+indem ich dieses 1 plus i, was immer wieder dabei sein wird,
+dieses 1 plus der Zinssatz
+das verkürze ich jetzt auf Q
+Q ist gleich 1 plus I
+das ist jetzt mal angenommen
+Q ist 1 plus I
+und jetzt weiß ich, okay, dieser
+Endwert, den ich errechnen muss
+der setzt sich zusammen
+aus der letzten Zahlung im letzten Jahr
+wird nicht vergrößert
+die Zahlung des vorletzten
+Jahres vor dem Ende
+wird mit
+mit Q multipliziert
+die aus dem vorvorletzten
+Q² und so weiter
+bis zu dem
+die erste Rate, also die Beute stattfinden würde
+da habe ich
+R mal Q hoch N
+minus 1
+und das Ganze kann ich dann
+umformen zu
+der Endwert
+ist dann R mal
+1 plus Q hoch 1 plus Q hoch 2
+plus Q hoch 3 und so weiter
+bis plus Q hoch N minus 1
+So, und jetzt kommt die wunderbare, das ist das Einzige, es gibt ein paar Formen, die müssen Sie einfach sich eintrichtern.
+Und das, was wir jetzt hier haben, ist eine sogenannte geometrische Reihe und die ist ganz einfach beschrieben mit q hoch n minus 1 durch q minus 1.
+Die brauchen wir immer und immer wieder.
+Diesen Wert, q hoch n minus 1 durch q minus 1.
+Das ist das, was man sich einfach merken muss.
+Und für den Endwert heißt es, ich muss das jetzt noch mit R,
+also mit dieser gleichmäßig stattfindenden Rentenzahlung, multiplizieren.
+Das heißt, der Endwert dieser Zahlungsreihe ist R mal Qn-1 durch Q-1.
+Also genau dieser.
+wir werden uns dazu nochmal was anschauen
+in der Übung, wie man das vielleicht nachweisen kann
+dass es auch wirklich stimmt
+diese Überleitung der geometrischen Reihe
+in diesen Bruch
+damit sie
+auch ein Gefühl der Sicherheit
+damit haben
+machen wir mal einen Versuch
+Sie dürfen mal rechnen, wenn wir jährlich 1.000 Euro anwenden,
+wir waren einmal über 20 Jahre, jetzt sind wir über 30 Jahre,
+was kommt dann als Endwert raus?
+Versuchen Sie es mal eben zu berechnen.
+Und denken Sie dann um 2%, das ist i.
+Sie rechnen aber mit q, q ist 1 plus i.
+Also müssen Sie mit 1,02 rechnen.
+Vielen Dank.
+Amen.
+Haben wir die Geräte?
+Vielen Dank.
+Vielen Dank.
+Übrigens ist die Übung dann auch hier, ab jetzt, provisierbar.
+Vielen Dank.
+Einfache Übung, das sollte dabei rauskommen.
+Richtig.
+Sie sehen also schon hier, sagen wir mal, die Streckung in zehn Jahren,
+was die im immensten Wertsteigerung bedeutet, bei nur zwei Prozent.
+Also es ist auch mal wichtig, sich das klar zu machen, dass zwei Prozent kein Vermögenszins ist.
+Wenn Sie sich feststellen, Sie haben Anleihen oder Rechnungen, dann wären Sie in dem Bereich drin, aber wenn Sie z.B. investieren, dann gehen Sie dazu, dass man eine ganze Handlung durchsetzen kann.
+Wie wäre das jetzt? Also eine Bremsenrechnung ist, wenn es ein praktischer Konzentratbetrag ist, der in die Handlung geht.
+Wäre jetzt der Betrag, also der Unterschied, dass man gleich jetzt die 20.000 oder die 30.000 Euro da angelegt hätte
+und dann die Zeit für den Autos hätte, oder wie lange jetzt?
+Dann hätte sich das genauso verzinst, das wäre einfach ein anderer Antragsbetrag gewesen,
+weil Sie haben immer diese Verzinsung über die Jahre.
+Also Sie nehmen an, dass eine Verzinsung von X möglich ist und mit der rechnen Sie.
+Also ein Unternehmen muss so rechnen.
+Ich bringe mal wieder dieses blöde Beispiel mit, Anleihen und Aktien und so.
+Das ist, um für Sie selbst Ihr eigenes Handeln auch nochmal sich klarzumachen.
+Ein Unternehmen muss darauf setzen, dass alle Projekte sich verzinsen.
+Sonst ist es Geldvernichtung.
+Es muss sich verzinsen.
+Und wir kommen dann nochmal darauf zurück, glaube ich.
+Ich hoffe, dass die Fragestellung für Sie geklärt wird mit dem nächsten.
+Aber fragen Sie gerne nochmal.
+Tja, jetzt haben wir den Endwert berechnet.
+Jetzt wollen wir den Barwert berechnen.
+Also ich mache es jetzt mal kurz grafisch klar, was wir gerade eben gemacht haben.
+Ganz kurz.
+Grafisch gesehen haben wir lauter gleichmäßige Renten gehabt über die Folgejahre.
+und wir haben uns groß gefragt,
+was ist das in Summe am Schluss wert?
+Das ist das, was wir uns gefragt haben.
+Das wäre jetzt, wie haben wir es genannt?
+Kn.
+Und jetzt kommt die Frage,
+na ja, was ist es aus heutiger Sicht wert,
+Wenn ich jetzt anfange, jedes Jahr so und so viel Euro oder so viel Geld anzulegen oder zu zahlen,
+was ist ein Zahlungsstrom von jährlich Wert?
+Und da machen wir uns jetzt das Leben einfach.
+Was wir jetzt nicht machen, ist, dass wir Wert für Wert hergehen und diskontieren.
+Das könnten wir auch. Wir könnten jetzt jeden Wert diskontieren und uns überlegen, was ist jetzt dazu die geometrische Reihe.
+Da wird es aber ein bisschen kompliziert, das ist unschön.
+Wir machen uns das Leben viel einfacher.
+Wir machen nämlich einfach einmal rein, wir berechnen den n-Wert und dann sagen wir in Summe,
+diskontieren wir das einfach in Summe und dann kommen wir auf den Wert, was es heute wäre.
+Das hier wäre b oder der Wahrwert.
+Nun, das ist das, was genau passiert.
+Wir wissen, k0 ist kn durch 1 plus i hoch n.
+das ist dieser Diskontfakt
+also durch 1 plus i hoch n
+das ist wie es zu diskontieren ist
+weil das findet ja im Jahr n statt
+das heißt in unserem letzten Beispiel
+wenn wir uns das ja anschauen
+für die 20 Jahre
+was ist dieser Zahlungsstrom
+über die folgenden 20 Jahre
+aus heutiger Sicht wert
+also immer wieder
+denken wir an den Zeitstrahl
+wo befinde ich mich
+ich befinde mich auf heute
+und das ist die Frage, was ist es aus heutiger Sicht
+wert, und dann komme ich genau auf dieses
+B ist gleich
+KN
+von den 20 Jahren geteilt
+durch Q hoch 20
+das ist dieses 1 plus 0,2
+in Klammern
+O20, ON
+Laufzeit
+und dann sehen wir, das Ergebnis ist
+16.351
+also zu Ihrer Frage
+zurückkommen, was
+hätten Sie anlegen müssen, um aufs Gleiche
+zu kommen, wie wenn Sie jetzt
+jährlich diese
+1.000 Euro
+angelegt hätten. Das jährliche
+Anlegen über 20 Jahre von 1.000 Euro
+hätten Sie sich sparen können, wenn Sie einfach
+gesagt hätten, ich hab's locker, ich nehm
+16.351 Euro
+und leg die hin. Und dann
+warte ich einfach auf die Endfälligkeit
+in 20 Jahren
+und dann krieg ich meine
+das wäre das korrespondieren zu diesen 24 297 das sehen sie auch hier
+also was wäre das ich habe natürlich der alternative ich kann den rechten rechnen
+ich kann den renten zahlen ich kann also das ist das was wir bei einem sparplan der
+Der Privatier macht das bei einem Sparplan, was sie typischerweise machen, weil der Passant sagt, das ist gut verkraftbar.
+Da kommen noch ein paar andere Effekte dazu bei so einem Sparplan.
+Ich habe ja verschiedene Bewertungen und ich kriege da einfach ein bisschen mit.
+Gut.
+Das führen wir jetzt ein bisschen weiter.
+Jetzt wissen wir, der Warnwert wird berechnet, indem ich hier einmal den Endwert berechne
+und dann diesen Endwert diskontiere wieder auf heute.
+Und das ist was ganz Wichtiges.
+Wenn ich sage auf heute, wir suchen unheimlich oft schlicht und einfach nach der Entscheidungsbasis
+für eine Entscheidung, die ich heute zu treffen habe.
+Wenn ich heute eine Entscheidung treffen muss, dann heißt es schlicht und einfach, ich muss die Werte so berechnen, wie sie für heute gelten.
+Das ist das, was in den Unternehmen stattfindet.
+Ich muss eine Entscheidung heute treffen, also muss ich das auf heute beziehen, heißt ich muss diskontieren die Zahlungen, die in der Zukunft stattfinden.
+So, mit dem, was wir jetzt gemacht haben, heißt es, B errechnet sich mit, genau wie es hier dasteht, B ist dann die Rente und dann kommt dieses Abdiskontieren, das ist einfach dieses 1 durch Q hoch N und dann die geometrische Reihe für den Endwert, das wäre das Aufzinsen, da habe ich Q hoch N minus 1 durch Q minus 1.
+also das ist dieses
+Diskontieren, das ist der Endwert
+und in Summe mit R
+mal genommen gibt es den Barwert für heute
+aus heutiger Sicht
+Barwert ist der Wert
+einer Zahlung
+heute
+so und genau dieser
+Anteil hier
+das ist der
+sogenannte Rentenbarwertfaktor
+hier ausgestimmt
+das ist der
+Und es ist viel schöner, sich das manuell zu errechnen, als wenn Sie jetzt zu einer Bank gehen, dann kriegen Sie solche Tabellen mit dem Barwertfaktor für die Jahre XY hingelegt.
+So wird es errechnet.
+Immer in Abhängigkeit natürlich von dem zur Berechnung hergenommenen Zinssatz.
+Der ist entscheidend.
+Gibt es Fragen soweit?
+Sonst machen wir ein Beispiel
+Sie investieren in eine Maschine
+die Ihnen jährlich
+2000 Euro bringt
+und das über einen Nutzungsdauer
+von 8 Jahren
+Der Diskontsatz, den Sie verwenden
+liegt bei 4%.
+Was ist der Barwert dieser Einzahlungsüberschüsse,
+die jährlich stattfinden?
+Was ist nur der Barwert dieser Einzahlungsüberschüsse?
+Berechnen Sie das mal.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Amen.
+Und? Gibt es mehr?
+Das heißt, dass diese 8 mal 2.000 Euro bezahlten Euro heute einen Wert haben,
+also die in der Zukunft stattfindenden Zahlungen haben heute einen Wert von 13.465 Euro.
+Das ist es, was uns diese Aussage bringt.
+Jetzt gibt es eine Besonderheit, ja.
+Ich weiß nicht, ob das relevant ist oder noch relevant wird, wenn wir den Zeitpunkt
+zum Beispiel, wieviel Leben zwei Jahren wert sind.
+Also das Gesamtvolumen praktisch, also dann das, was noch gezahlt wurde und was noch gezahlt wird,
+Ich weiß nicht, ob ich Sie richtig verstehe, aber es gibt eine ungemühte Aufgabe, die werden wir mal streiten.
+Da werden wir auch sagen, wo richtig ist, wie sie interpretierbar ist.
+Ich weiß nicht, ob ich Sie richtig verstehe, aber wir werden dieses, das werden wir so nicht beitragen.
+Sie müssen immer hart unterscheiden.
+Was ist der Zeitpunkt, für den ein Wert ausgesprochen werden soll?
+Sehr häufig für das Unternehmen meinten wir, es geht um das Heute und Jetzt.
+Sehr häufig.
+Ich möchte heute eine Entscheidung treffen, muss ich heute einen Wert beimessen.
+Das sind wir ganz oft mit dieser Diskutierung.
+natürlich gibt es bestimmte
+Fragestellungen, wo ich sage, ich brauche
+einen Betrag von x in 10 Jahren
+um, um das hier zu begleiten
+was muss ich tun, damit ich
+diesen Wert genau sage
+dann errechne ich den Endwert
+ja
+und das wird Ihre
+das wird Ihr
+Auftrag sein, das genau zu unterscheiden
+was ist denn gefragt, ist denn jetzt
+eine Entscheidungskontrolle für heute gefragt
+dann müssen Sie diskutieren
+den Wahrwert erheben, oder geht es darum
+den exakten Wert zu einem
+späteren Zeitpunkt zu errechnen,
+das wäre dann der Endwert.
+Das liegt an Ihnen, das genau zu interpretieren.
+Das ist, sagen wir mal, die größere
+Schwierigkeit dabei.
+Als Sonderloche bringe ich Ihnen
+jetzt noch, also wir sind immer noch
+bei diesem Rechnen in Renten, wir nehmen an,
+dass jedes Jahr gleichmäßig viel bezahlt wird,
+bis jetzt haben wir gesagt, für die nächsten 10 Jahre,
+8 Jahre, 20, 30 Jahre,
+aber es ist terminiert und dann ist es fertig.
+Jetzt gibt es was anderes,
+nämlich die sogenannte
+ewige Rente. Wir gehen davon aus,
+dieser Salopton
+geht ununterbrochen weiter.
+Stellen Sie sich einfach vor,
+das geht immer und immer weiter.
+Dann spricht man von
+der ewigen Rente.
+Wir haben zwar diese Berechnung
+B ist gleich R mal 1 durch Q
+mal Q hoch N minus 1
+durch Q minus 1. Das trifft aber
+für eine endliche
+Reihe zu, weil N
+ist dieser Endzellen.
+Jetzt wenn ich sage, endet nicht. Was machen wir dann? Dann gibt es eine ganz einfache Geschichte.
+Die Formel verschwindet und das Ganze wird ersetzt schlicht und einfach mit dieser Barwert der unendlichen Reihe ist R,
+also dieser jährliche Zahlung geteilt durch den Zinssatz, durch I. Ganz einfach.
+Jetzt können Sie sich fragen, ja wovon kommt sowas? Den brauchen wir tatsächlich.
+Tatsächlich, diese Berechnung ist immer wieder, also sagen wir mal für die 0815-Frage,
+wie viel müsste ich heute im Lotto gewinnen, um bei einer Entnahme von 30.000 Euro pro Jahr auf Ewigkeit beruhigt zu sein.
+Das heißt, der Kapitalstock soll nicht schrumpfen, wenn ich 30.000 Euro entnehme.
+Das wäre zum Beispiel die Frage, die dahinter steckt.
+genau das hätten wir hier
+Beispiel, wir gehen von einem Anlagezins
+von 2% aus
+und das ist genau dies, was müssten Sie
+jetzt im Lotto gewonnen haben
+und anlegen, damit Sie bei ehrlich 2%
+10.000 Euro entnehmen können, ohne
+dass der Kapitalstoff
+weniger wird, ohne dass der schrumpft
+und dann verändern Sie genau das, wie viel Wert
+wir müssen dazu den Barwert
+der ewigen Rente berechnen
+das ist also die Frage nach dem
+was ist es heute wert
+also was muss ich heute einzahlen
+wenn ich 10.000 Euro pro Jahr
+Der Wert, der hier dabei rauskommt,
+das sind die 500.000 Euro.
+Und jetzt kämen wir zu dem ersten der drei Methoden
+Also das ist alles, was ich Ihnen jetzt gezeigt habe
+Das waren Grundlagen
+Also von der Aufzinsung, um auf den Endwert zu kommen
+Über die Abzinsung, um auf den Barwert zu kommen
+Eine einzelne Singulärzahlung
+Dann das Rechnen mit Renten
+dann müsste ich insbesondere Q hoch n minus 1 durch Q minus 1 für den Endwert,
+ich multipliziere das Ganze nochmal mit, also ich diskontiere das, wenn ich auf die Fahrwert kommen will,
+dann mache ich mal 1 durch Q hoch n, Q ist immer einfach nur 1 plus i,
+also es ist total einfach, wirklich einfach.
+Und jetzt wenden wir es an, und die Kapitalwerte dazu.
+Was Sie hier brauchen, ist der sogenannte Vergleichszinssatz.
+Sie erinnern sich an die eine Aufgabe in der statischen Investitionsrechnung?
+Da war ja mal gesagt, verlangt wird ein Zins von, ich glaube es waren 11%, Sie erinnern sich.
+Das ist nichts anderes als dieser Vergleichszins.
+Vergleichszins oder Kalkulationszinssatz oder Abzinsungsfaktor oder Diskontierungszinssatz oder Diskontor.
+Das ist alles das Gleiche und heißt nichts anderes als, das ist die normale Verzinsung für ein Projekt in unserer Familie.
+So muss die Normverzinsung aussehen.
+Es ist die geforderte Mindestverzinsung.
+Und dann habe ich ganz klar eine Linie, entweder ich erreiche sie, dann ist es in Ordnung, dann können wir diese Investition tätigen,
+oder ich erreiche sie nicht, dann ist sie nicht vorteilhaft.
+Also man spricht hier davon, ist eine Investition vorteilhaft, ja oder nein.
+Also was ich tue, ist quasi, ich vergleiche die ganze Sache mit einer Alternativinvestition.
+Das ist das, was ich tue.
+Ich vergleiche das mit einer alternativen Investition.
+Auf der anderen Seite könnte das quasi ein Stück weit die Frage beantworten,
+was kriege ich denn sozusagen on top auf diese Nullverzinsung,
+wenn ich jetzt eine Investition in dieser Form durchführe.
+Aber das ist schon wieder schwierig.
+ja, wir kriegen einen Kapitalwert raus.
+Entscheidend bei dem Kapitalwert wird aber sein,
+ist dieser Kapitalwert größer 0, ja oder nein.
+Wenn der Kapitalwert größer 0 ist, heißt das,
+die Verzinsung ist höher als der geforderte Zins.
+Weil wir diskutieren mit diesem geforderten Zins.
+Kapitalwert größer gleich 0 heißt,
+Investitionsvorteil hat.
+Das ist die Hälfte der Entscheidungsregel,
+die dahintersteckt.
+Weil die gesamte Entscheidungsregel heißt,
+A ist der Kapitalwert
+größer 0 und B
+wenn es verschiedene Alternativen
+gibt, das kommt später noch, müssen wir nicht schreiben
+dann ist die nicht die bessere
+die in den Wohnungen verteilt wird
+was wird gemacht
+und jetzt, wir haben so wunderschön
+in Renten gerechnet
+die bringen wir jetzt erstmal gar nicht zur Anwendung
+sondern wir gehen ganz normal von dieser
+Diskontierung aus einzelner Zahlungsströme
+und zwar jeder Periode einzeln
+weil wir jetzt einfach wissen, naja
+jedes Jahr ist anders.
+Das heißt, ich packe
+das einzelne Jahr an, gucke mir an,
+was sind dann die Einzahlungsüberschüsse
+und diskontiere sie auf heute.
+Und dann addiere ich diese
+diskontierten Werte,
+das sind sozusagen die einzelnen
+Barwerte der verschiedenen Jahre,
+ich summe die auf und dann habe ich den
+Kapitalwert der Gesamtinvestition.
+Das ist das ganze Hexenwerk
+ein bisschen kompliziert dargestellt, als mathematische
+Formel. C0 ist
+die Summe aus allen
+Einzahlungsüberschüssen,
+also das ET minus AT,
+die jeweils diskontiert werden
+bezüglich dieses Jahres,
+in dem sie anfangen, also durch 1 plus I hoch T.
+Das hier ist nichts anderes
+als die obige Formel.
+Nichts anderes,
+wobei hier einfach nochmal explizit darauf hingewiesen wird,
+am Anfang haben wir A0,
+die Anfangsauszahlung
+für die Investition,
+die nicht diskontiert wird, weil sie zum Zeitpunkt
+T0 stattfindet, die findet jetzt statt
+also keine Verzintung
+nicht diskontiert
+oder auch keine Diskontierung
+und am Ende habe ich einen Liquidationserlös
+dieser Liquidationserlös
+wird natürlich
+verdiskontiert
+mit Blick auf den Zeitpunkt
+wo dieser Liquidationserlös stattfindet
+nämlich am Ende, also durch Q hoch N
+ich kann das aber ganz
+auch so darstellen, sagen wir mal
+okay, die Auszahlung findet statt,
+da habe ich halt ein T ist gleich 0
+und die Liquidation,
+der Liquidationserlös geht
+einfach dort hier mit rein in den
+Einzahlungsabschluss. Da habe ich halt
+die normale Einzahlung abzüglich der normalen
+Auszahlung plus den Liquidationserlös
+und das wird diskontiert.
+Also das ist tatsächlich
+überhaupt nicht schwierig
+und okay, jetzt gibt es Pause.
+Vielen Dank.
+Jetzt war hier die Zusatzaufgabe, was ist die kritische Menge gemäß der Kosten?
+Und dabei müssen wir einfach nochmal zurückgehen und zurückdenken an die Kostenverlaufsdiskussion,
+wo Sie einfach eine Aufkleidung im Kurs des Neujahrs machen.
+Wie ist es zu lösen, die kritische Menge, wie ist es zu lösen?
+Das war's für heute, bis zum nächsten Mal.
+So.
+Hat jemand eine Idee, wie es zu lösen ist?
+Vielen Dank.
+Was ist zu tun?
+Also was für Angaben haben wir denn?
+Wir haben diese Blöcke,
+Wir haben die fixen Kosten und wir haben die variablen Kosten.
+Was können wir damit anfangen?
+Wie ist denn die Kostenfunktion definiert?
+Kostenrechnung ganz am Anfang.
+Also die variablen Kosten mal x plus die fixen Kosten.
+ja, das sind aber nicht die Variablen
+sondern die Variablen des Stückkosten
+ja, genau
+also wir haben grundsätzlich gilt
+k
+klein k
+mal x
+plus
+kx
+so, und das müssen Sie gleichsetzen
+Sie haben alle
+Ingredienzien, die Sie brauchen für die
+Kostenfunktionen von a
+und von b
+Wir müssen die gleichsetzten und die dazugehörige Menge heraussuchen, wann es gleich ist.
+Was ist zu tun?
+Die Variablenkosten durch die Stückzahl, ne die Stück, ja, durch die Stückzahl, die dort angegeben ist,
+richtig? Dann bringen wir die Variablenkosten raus und die Blickkosten machen wir.
+Ja, und Sie müssen auch diese Blöcke erst errichten.
+Ja, genau. Also machen Sie mal.
+Haben wir noch die Gesamtvariablenkosten?
+Nein, das müssen Sie selbst errechnen.
+Das ist dieser Bereich hier.
+Und genauso auch die Fixenkosten müssen Sie auch noch errechnen.
+Das war's für heute.
+Amen.
+Vielen Dank.
+Dann muss ich mich entschärfen.
+War das wichtig, oder?
+Das war kein Thema.
+Kennen wir ihn nicht.
+Nein.
+Vielen Dank.
+Was bekommen Sie für die Variablen kostenlos für A3 10,5 Euro und 10,48 Euro oder wie viel?
+Wie viel? 10,49 Euro.
+So, und jetzt können Sie gleichsetzen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Amen.
+Hier kommen sie raus, Felix.
+Ja, Sie haben recht, da ist ein Problem, aber ich habe eine negative Zahl, also minus 7.132.
+Was bedeutet das?
+Das heißt, dass sich die negativen Kreuze belegen.
+Richtig, also wir haben einen Verlauf, der wie folgt aussieht.
+Das heißt, hier in der
+Die kritischen Mengen.
+Bei Minus.
+Bei Minus, bei einer Minuszahl.
+Heißt,
+B ist in jedem Fall besser.
+Und zwar unabhängig von der Menge.
+Das ist das Ergebnis daraus.
+So, das hätte man schon viel eher sehen können,
+schon bei der Aufstellung der Gleichungen
+hätten wir sehen müssen
+die Variablen
+in Stückkosten sind geringer
+und sogar die Fixkosten sind geringer
+wenn beide von vornherein geringer sind
+dann ist logisch
+dass
+egal wie viel wir produzieren
+A immer teurer produzieren wird als B
+Fragen soweit? Also das war ein kurzer Ausflug in die Kostenverlaufsdiskussion, brauchen wir aber auch da zum Teil.
+Und jetzt kommt die Frage nach der Gewinnvergleichsrechnung.
+Wir bekommen als zusätzliche Daten hier in den Block, hier mit rein, den Erlös.
+Und der ist für A 16 Euro pro Stück und für B ist er 14,35.
+Das ist das, was wir zusätzlich bekommen haben.
+Jetzt ist das zu multiplizieren mit den Kapazitäten und dann habe ich den Gesamterlös.
+Amen.
+Das heißt, wir haben in Summe
+Gesamterlösung pro Jahr
+Und 640.000 Euro für A und 717.000 Euro für B.
+Und jetzt wissen wir aus der Aufgabe A, Gesamtkosten, das wissen wir noch, die waren 598.700.
+Das sind 675.425 Euro.
+Und darauf ergibt sich dann ein Gewinn pro Jahr.
+Dann legt man einfach 41.300 Euro und 42.075 Euro.
+Das heißt, wir haben also hier einen klaren Vorteil von B.
+B wäre hier vorzuziehen.
+So, und jetzt geht es bei Aufgabe 3.
+Das ist Ihr Rundungsfehler.
+Das ist das, was ich bei der Vorlesung vorhin meinte.
+Wenn Sie über
+einfach Preis pro Stück minus Kosten
+pro Stück geben und das Hochmultiplizier
+haben Sie einen drastischen
+Ordnungsfehler drin.
+Weil wir haben hier Hunderttausender Werte.
+Also Sie kürzen ja da extrem ab.
+Wenn Sie das
+rechnen, also
+theoretisch kommt es aufs Gleiche,
+wenn Sie jetzt wirklich im Speicher drin lassen,
+die 15 Nachkommastellen,
+dann kommen Sie auf exakt das gleiche Ergebnis.
+Während der Füße
+ist es noch falsch.
+Also fürs
+Falsch ist es nicht, aber Sie haben einen gewaltigen Rundungsfehler.
+Das müssen Sie halt einfach wissen.
+Also grundsätzlich, um das bessere Ergebnis zu erzielen, ist halt der Weg.
+Was bringt das bessere Ergebnis? Das muss man halt hier wissen.
+Falsch ist es gegen Methodik nicht, aber Sie haben halt einen Rundungsfehler,
+Rundungsfehler, den Sie vermeiden könnten, wenn Sie tatsächlich mit den, was weiß ich,
+vier Nachbarständen arbeiten, dann haben Sie ihn auch annulliert.
+Jetzt kommen wir zum dritten Punkt, die Rentabilitätsvergleichsrechnung, die jetzt durchzuführen ist.
+Da gibt es zwei Unterschiede hier.
+Tja, dann rechnen Sie einfach mal.
+Netto und Brutto und Netto und Brutto und Netto.
+Ein paar Minuten.
+Vielen Dank.
+Das war's für heute.
+Sie ist brav
+Amen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Was ist zu tun?
+Zunächst mal, worauf bezieht sich die Rentabilitätsrechnung immer auf?
+Was kommt in den Prozent?
+Ja, das gewohnte Kapitalbindung.
+Genau, die durchschnittliche Kapitalbindung.
+Die hatten wir vorhin ausgerechnet, oder, ja, hatten wir ausgerechnet.
+Wir hatten das als Vorstufe für die Berechnung des kalkulatorischen Zinses erregt.
+Die Kapitalbindung ist für A 120.000 Euro und für B 122.000 Euro.
+So, und jetzt hatten wir vorhin auch den Gewinn ausgerechnet, den müssen wir dagegen stellen.
+Wir haben einmal den Gewinn pro Jahr, der war für A 41.300 und für B 42.075.
+Das ist für die eine Rentabilität, nämlich für die Netto-Rentabilität, und das andere, was wir brauchen, ist Gewinn plus Zinsen.
+Auch das hatten wir ausgehendert, CEA, das brauchen wir für die Brutto-Rentabilität.
+40.500 Euro
+und einmal 50.625 Euro.
+Also
+daraus ergibt sich jetzt eben
+R-Netto
+Was sind Ihre Ergebnisse?
+Also ich glaube, gefragt was anderes und erst Brutto-Bundlehrer ist egal.
+Sie müssen nur wissen, was was ist.
+Vielleicht frage ich nur nach einer, nach der Brutto-Rentabilität.
+Was ist Ihr Ergebnis?
+Amen.
+Vielen Dank.
+Vielen Dank.
+40,42% ist das richtig oder 40,4%? Jawohl. Und für B? 35,5%. Und die Netto-Rentabilität?
+34 Minuten.
+So, was stellen Sie jetzt hier fest?
+Was stellen Sie fest?
+Jetzt wäre die Maschine A wieder besser zu wenden, oder ist die Maschine A wieder
+anders?
+Das stimmt auch, ja, also nach dieser Rechnung, aber was fällt Ihnen noch auf bei dieser Gegenüberstellung der Zahlen?
+Wir haben hier tatsächlich eine Differenz von genau 6 Prozentpunkten.
+Sie kennen den Unterschied zwischen Prozent und Prozentpunkte.
+Und das gilt für beide, auch für diese Differenz.
+Also das heißt, zwischen Nettorentabilität und Bruttorentabilität liegt genau dieser
+Zinssatz, der angenommen wird für die Kapitaldienung, für die Verzinsung der Kapitaldienung.
+Das sind diese 6 Prozentpunkte, die hier dazwischen liegen.
+Dann kommen wir noch zum Schluss, zu Nummer 4, da geht es dann um die Amortisationsrechnung.
+und da geht es einmal um die durchschnittlich
+also um diese Durchschnittswertberechnung
+wie ist die zu berechnen
+also es geht immer aus
+von der Anfangszahlung
+A und B
+und da haben wir A0
+war gegeben mit
+einmal 240.000 Euro
+und einmal 270.000 Euro
+und worauf
+was ist jetzt zu berechnen
+Vielen Dank.
+Mit was, mit welchen Werten ist es zu rechnen?
+Ja, genau, wir haben einmal den Gewinn, das waren 41.300, hatten wir alles schon errechnet,
+und die 42.075.
+Und was noch?
+Das war der Stoff des heutigen Vordes.
+Erfolgswirksam, aber nicht zahlungswirksam.
+Für die Abschreibung.
+Genau, die Abschreibung.
+Das wird für uns nicht.
+Das sind 40.000 Euro gewesen.
+Das sind einmal 31.845.
+So, daraus resultiert dann eine Nahrungserziehungszeit.
+Amen.
+Hm?
+Das ist jetzt echt kein Hexenwerk, ne?
+Sie müssen Gewinn, Abschaffung zusammenziehen und beziehen das auf den Anschaffungswert.
+Und was bekommen Sie raus?
+Ja?
+6,95.
+Nein.
+Sie müssen Gewinn und Abschaffung zusammenzählen.
+2,95.
+Ja.
+Genau.
+einmal 2,95 Jahre
+und einmal 3,65 Jahre.
+Das heißt,
+die Amortisationsdauer von B ist länger.
+Also gemessen daran wäre A besser.
+Was haben wir vorher?
+A ist sogar rentabler, also insofern, ja,
+würde man sich wohl für A entscheiden.
+gibt es soweit Fragen
+sonst gehen wir zu der nächsten
+ja, die ist jetzt
+fast noch primitiver
+wenn Sie jetzt in Ihr
+in das Aufgabenblatt schauen
+sollen Sie auch noch die Totalrechnung machen
+das heißt, dass Sie jedes einzelne Jahr
+unter die Lupe nehmen
+ja und da
+müssen Sie jetzt auffüllen mit den Abscheibungen, die für jedes Jahr das gleiche sind.
+Daraus dann ableiten oder errechnen die Rückflüsse
+und in den letzten zwei Spalten dann die kumulierten Rückflüsse.
+Ich lasse Sie mal kurz anfangen, aber ich möchte es nicht über Gebührsstaat erzählen.
+Das können Sie auch in liebevoller Heimarbeit machen.
+Das ist wirklich, meinetwegen dürfen Sie auch daheim Excel zur Anwendung bringen.
+So etwas müsste man natürlich auch zu Fuß können, wenn Sie das machen.
+Was ist das?
+Amen.
+Amen.
+Amen.
+Amen.
+Amen.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Da ist es ja jetzt so, dass da die
+die sich früher amortisiert hat, weil die dann später weniger Einnahmen macht, oder?
+Ne, das kommt im Prinzip, das muss ich nachher, muss ich vielleicht, okay.
+Ah ja, in dem Fall würde sich B schneller amortisieren.
+Wir sehen jetzt aufgrund der Abfolge der Überschüsse
+und die jetzt halt dann doch sich anders darstellen
+als bei der einfachen Durchschnittsrechnung
+haben wir Rückflüsse, die dann eben für B bedeuten,
+dass die am Anfang relativ viel schon zurückerhält.
+Und dadurch haben wir eine Amortisationszeit,
+die kürzer ist als bei A.
+Also hier haben wir im Jahr 3,
+das heißt bei 2, irgendwas,
+haben wir die Amortisation?
+Die zwei Darstellungen
+sind ja entsprechend.
+Das eine ist, ich rechne von 0 hoch,
+bis ich den jeweiligen A0-Wert
+durchschlagen habe.
+Oder bei der rechten
+setze ich an
+bei dem jeweiligen
+A0-Wert,
+also minus 240.000
+für A, minus 270.000 für B
+und addiere dann
+die kumulierten Werte jeweils auf.
+Und komme eben zu dem gleichen Ergebnis.
+Also wichtig nochmal hier, durchbreche ich bei dieser Totalrechnung,
+oder Kumulativ- oder Kumulationsrechnung,
+da durchbreche ich diese Durchschnittsjahrbetrachtung
+und gehe jetzt tatsächlich ins Kalkül die unterschiedlichen Einzahlungsüberschlüsse,
+um die in der Abfolge zu betrachten.
+Aber, nochmal, Ausruferzeichen,
+das ist noch immer statisch
+das ist immer noch eine statische
+Investitionsrechnung
+weil wir nicht
+die Zeitpräferenz des Geldes mit in Betracht ziehen
+wir diskontieren nicht
+gut
+das war das
+das können Sie relativ leicht mit Excel daheim nachvollziehen
+das müssen Sie jetzt nicht weiter die Zeit kurzschlagen
+wir beginnen mit der Übung 3
+Das ist zum Teil jetzt einfach eine Wiederholung, das müssen wir heute gemacht haben.
+Welche Arten der dynamischen Investitionsrechnung kennen Sie?
+Da gehen Sie einfach ins Skript, schauen Sie sich das nochmal an.
+es sind 3 plus 1
+sozusagen
+3 Arten von dynamischer
+Investitionsrechnung kennen Sie
+Sie müssen das jetzt nicht
+alles abfinden
+beschreiben Sie sich einfach
+die Werte, die gelb unterlegt sind
+und dann können Sie das relativ leicht
+daheim nachvollziehen
+packen Sie das einfach in den Excel-Modell
+in Ordnung?
+Wie sieht das bis auf hinten mit dem Rundflussübertrieb eigentlich genauso aus, oder mit dem schlechteren
+Gesicht das so viel formativer?
+Ja, das darf man ein bisschen hochkriegen, das werden sie spätestens im Job dann brauchen
+oder so.
+Bei mir ist es so ein hässlicher Block, wo nichts daneben steht, also das ist dann nicht
+Welche Art der Dynamik der Investitionsrechnung?
+Dann haben wir die interne Zinsfußmethode.
+Das ist jetzt die Aufgabe 1.
+Und davon dann nochmal abgeleitet,
+also beide, also sowohl die interne Zinswurzmethode
+als auch die Annuitätmethode basieren auf der Kapitalwertmethode.
+Und jetzt ein bisschen davon abgekoppelt haben wir noch die dynamisierte Amortisationsrechnung.
+Und jetzt kommt die Frage der Fragen, die Sie immer im Schlaf beantworten können müssen.
+Definieren Sie bitte Zeitwert, Endwert und Wahrwert in Worten.
+das müssen wir wirklich
+geläufig sein
+wie gesagt, das ist die Grundlage
+für das Verstehen
+dieser unseligen Textaufgaben
+die wir mal wieder geben
+was ist der Zeitwert?
+Der Wert einer Zahlung
+zum Zeitpunkt
+der Zahlung
+Genau
+Der Wert einer Zahlung
+und zwar genau zum Zeitpunkt
+ihres Anfalls
+Dann haben wir den Endwert
+Im Übrigen könnte sich auch die Reihenfolge verändern
+Dann dürfen Sie nachlesen
+Was ist jetzt der Endwert?
+Wir haben eine Zahlung, Wert einer Zahlung und dann schauen wir uns an, was nach Aufzinsung
+über die Folgejahre. Das wäre es. Nach Aufzündung, über die Folgejahre. Und dann haben wir noch
+den Barwert.
+Das ist wirklich für alles
+entscheidend, was jetzt kommt.
+Der Barwert.
+Der aktuelle Wert
+einer Zahlung, die in der Zukunft
+gegeben wird.
+Ja, da fehlt mir aber ein entscheidendes Wort.
+Nach 18 Jahren.
+Also entweder Diskontierung oder Abziehung.
+Also ich unterstreiche gleich nochmal, worauf es mir ankommt.
+Also gegebenenfalls eben heutiger Wert.
+Eine entscheidende zukünftige Zahlung.
+nach Abzinsung.
+Worauf kommt es an?
+Nochmal Zeitpunkt des Anfalls,
+nach Aufzinsung,
+über Folgejahre,
+und hier zukünftige Zahnung nach Abzinsung.
+Ja, dann geht es schon mit Berechnungen los.
+Wenn Sie es heute verstanden haben, sollte es einfach sein.
+Wenn Sie beim derzeitigen gültigen Zinssatz von 3,5% Ihr Geld anlegen können,
+Wie hoch muss der Anfangsbetrag sein, um in fünf Jahren einen Entwurf von 10.000 Euro zu erhalten?
+So, jetzt sind Sie schon mitgegriffen in diesem Überlegen, was es fragt.
+Entweder war, wäre, was passiert.
+Was müssen Sie sich da machen?
+Ja, ich glaube, das ist eine gute Idee.
+Vielen Dank.
+Ich hoffe, es hat euch gefallen.
+Vielen Dank.
+Vielen Dank.
+Also, kurz hergeleitet, wir haben den Endwert, der definiert ist als Anfangswert mal 1 plus
+I hoch N. Daraus folgt wiederum, dass der Wahrwert, oder K0, der N-Wert ist, geteilt
+1 plus i hoch m
+heißt in unserem Fall
+kann
+ist gleich
+8.419,73
+Wie ist das jetzt in der Befugung?
+Da haben wir ja jetzt keine Unterlagen,
+weil ich muss jetzt eigentlich nur eine Unterlage einschalten,
+um das zu finden.
+Vielen Dank.
+Das ist jetzt, also gerade das ist ja, da müssen wir nichts lernen.
+Wo weiß man, wie viel wir brauchen.
+Die schwierigste ist noch diese Q hoch n minus 1 durch Q minus 1 und alles andere baut darauf auf.
+Aber ich glaube in der normalen Mathe-Provision hatten wir einmal kurz die Qualitäten-Probleme im ersten Semester und die haben wir auch überhaupt nicht verstanden.
+Ja, aber die leiten wir jetzt so hier, dass es verstehbar wird.
+der kommt über den Barleitfaktor
+und das ist diese geometrische Reihe
+Q hoch N minus 1
+und Q minus 1
+die wird diskutiert
+da kommt eben ein Mal 1 durch Q hoch N dazu
+und wenn Sie den Kehrbruch machen
+dann haben Sie schon den
+sogenannten Wiedergewinnungsfaktor
+für die Annuität
+das ist alles
+also das ist total einfach
+das müssen Sie sich nur klar machen
+aber ich werde das noch ein paar mal wiederholen
+das ist, wie ich sehe es
+anlernen
+dann kommt im Bereich Finanzierung noch viel mehr dazu.
+Also ja, das ist ein Fach,
+da muss man ein bisschen Stoff in sich aufnehmen oder verstehen.
+Gut, Nummer 4.
+Sie haben ein Sparbuch wiedergefunden,
+das Sie vor 8 Jahren mit einem Betrag von 500 Euro eröffnet haben.
+Die Banken teilen Ihnen mit, dass das Sparbuch heute ein Wert von 850,80 Euro ausweist.
+Wie hoch war die durchschnittliche Verzinsung?
+Machen Sie sich dazu mal Gedanken.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Ich weiß nicht, ob das Quatsch ist, aber ich glaube, das sind ungefähr 7% aus den letzten 9-9.
+Kein Quatsch. Kommen andere auch dahin?
+Also es ist denkbar. Einfach natürlich auch hier wieder durch Umformen.
+Das ist wie gesagt ein Ergebnis der Umformung.
+Die Ente-Wurzel aus Km durch K0 ist also minus 1.
+Dann folgt hier daraus, I ist gleich 7,90%.
+Jetzt kommt es dahin, wo man diese blöde geometrische Reihe gelandet haben muss.
+Sie zahlen ja nicht 500 Euro in Ihre Lebensversicherung.
+Der Versicherer garantiert Ihnen einen Zinssatz von 4 Prozent.
+In 20 Jahren werden Sie Ihre Lebensversicherung ausgezahlt bekommen.
+Wie hoch wird dieser Betrag sein?
+Das ist A und B.
+Wie viel ist dieser Betrag aus heutiger Sicht wert?
+Genau mit dem gleichen Zinssatz diskutieren.
+Vielen Dank.
+Vielen Dank.
+Danke.
+Wir suchen zunächst diesen Endwert.
+und der ist schlicht und einfach
+die Rente, die festgelegt wurde
+und dann haben wir dieses Q hoch
+N-1 durch Q-1 mit
+natürlich erklärt
+Q ist gleich
+1 plus
+Q
+dann haben wir einen Endwert
+haben Sie alles?
+14.800
+Das wäre I A. I B. 6.790.000 Sekunden.
+Der Barwert, Groß B, oder nennen Sie es K0, völlig egal, machen Sie sich da nicht entscheidend, dass Sie das Richtige rechnen, ist 6.795,16 Euro.
+So, und jetzt sehen Sie, haben Sie schon genau das gemacht, was man bei der direkten Barwertberechnung dieser Fremden machen würde.
+Sie haben jetzt in dem Freischrittverfahren genau das gemacht, nämlich B ist gleich 1, also Haltstock,
+natürlich immer das Rente mal 1 durch Q hoch N mal, also die Diskontierung, Q hoch N minus 1 durch Q hoch N.
+Und das hier ist genau dieser sogenannte Barwertfaktor.
+Und wenn Sie den Kehrdruck dazu wenden, haben Sie den Niedergewinnungsfaktor für die Annuität.
+Also es leitet sich alles relativ leicht her.
+Ah, Nummer 6.
+Da dürfen Sie jetzt mal ein bisschen knobeln.
+dass ich nicht nur Mist erzähle
+sondern dass es tatsächlich stimmt
+das wollen Sie jetzt mal beweisen
+zeigen Sie, dass die Aussage richtig ist
+und dann eben diese Formel für die geometrischen Reihen
+q hoch n minus 1 zu q minus 1
+dass es diesem 1 plus q plus q Quadrat
+bis q hoch n minus 1 entspricht
+versuchen Sie mal
+Vielen Dank.
+Wie gehen das nochmal, also ich glaube, das hat eine Matte, dann für Q plus N eingeben
+Nein, das ersetze ich noch. Aber es ist ziemlich primitiv, wie man es dann zeigt.
+Es ist jetzt kein illustrierter Beweis oder sonst was.
+Es ist ziemlich einfach zu zeigen, dass es passt.
+Es ist fast schon, es kann sogar gehen.
+Amen.
+Vielen Dank.
+Ich glaube, Sie multiplizieren nichts.
+Ich bin mir jetzt nicht sicher, aber in der Endberichtung geht es eigentlich.
+Ich spiele es mal einfach damit, den Term zu vereinfachen.
+Das heißt, was müsste man tun?
+Den Prozent rausnehmen. Wie schafft man das?
+Wenn Sie den Prozent rausholen wollen, wie machen Sie das?
+typischerweise, wenn Sie zwei Gleichungen haben, oder wenn Sie zwei Teilnehmer haben,
+die Sie vereinfachen wollen, wenn Sie beides multiplizieren.
+Amen.
+Wenn Sie das durchführen, probieren Sie das mal auf.
+Okay.
+Amen.
+Amen.
+Vielen Dank.
+Also wenn Sie das durchmultiplizieren,
+dann schauen Sie sich das mal an.
+Dann sehen wir hier oben, das geht weg, das geht weg, das geht weg, das geht weg und so weiter.
+Am Schluss geht auch noch das weg, und dann bleibt stehen.
+Minus 1 bleibt stehen, plus q hoch m, und das ist dann genau q hoch m.
+Und das bleibt am Ende stehen.
+Ist also korrekt diese Aussage, dass dieses 1 plus q hoch 1 plus q hoch 2 plus q hoch 3 und so weiter,
+dass es tatsächlich diesem q hoch n minus 1 durch q minus 1 entspricht?
+Kommt sowas in den Kuchen, Tom?
+Bitte nicht.
+Wichtig ist, dass wir
+das einfach verstanden haben, dass es nicht
+vom Himmel kommt, sondern dass es relativ
+die Richtigkeit
+dieses Terms relativ leicht
+zu erklären ist
+Also es gibt
+schlimmere Sachen, die dran kommen
+Also wenn wir irgendwann dann uns Gedanken
+machen über die
+Emission von Aktien und die Auswirkungen
+auf das Eigenkapital
+damit zu entspannen.
+Also, wie gesagt,
+wichtig ist für mich einfach nur,
+dass es hier nicht einfach nur
+eine von oben kommende Formel ist,
+sondern dass Sie wissen,
+ja, das passt.
+Also Sie müssen sich einfach genau
+das hier, dem müssen Sie sich einträgen.
+Dann gehen wir zu 7.
+Wenn man schon so im Flow ist.
+Sie schulden dem Nachbarn
+einen hörenden Tag.
+Und der bietet Ihnen jetzt
+zwei Wege der Rückzahlung an.
+Das ist total fair.
+Er sagt, entweder Sie zahlen in 8 Jahresraten
+zu je 1.000 oder
+in 12 Jahresraten
+zu je 800 Euro.
+Welche Rückzahlungsmethode
+Was bewählen Sie, wenn Sie von einem Zinssatz von 5% ausgehen?
+Sie müssen sich erst wieder bewusst machen, nach was ist jetzt gefragt.
+Zeitwert, Endwert, Fahrwert.
+Machen Sie es sich bewusst.
+Amen.
+Amen.
+Amen.
+Vielen Dank.
+Okay, wir werden das nicht schaffen.
+Sie dürfen das daheim vorbereiten, diese restlichen Aufgaben.
+Die letzte können Sie wahrscheinlich noch nicht,
+da sind wir ja gerade erst dabei bei der Kapitalwertmethode.
+Trotzdem, über die nächsten beiden können Sie sich auf jeden Fall schon mal Gedanken machen.
+Und dann ist es um.
+Gute Zeit.
