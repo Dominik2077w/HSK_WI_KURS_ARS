@@ -1,0 +1,1447 @@
+An einer oder anderen Stelle auch noch mal dazu, das wird man wieder sehen, das greift alles ineinander.
+Soweit vielleicht von vorne weg.
+Auch das erste, was ich mit habe als Diagramm hier, tolle Folien-Nummer sehe ich da unten dran,
+unabhängig davon, bei Ihnen auch Moodle, sind die Folien da?
+Passt, super, das ist schon mal gut.
+ich habe hier nur noch mal zusammen kopiert aus der letzten stunde ein paar bildchen rausgegriffen
+das war einfach mal wieder nochmal einkommen ich hatte mit ihnen angesehen so ein pt diagramm also
+druck gegen temperatur und da gibt es diese verschiedenen phasen in dem fall ist es für
+wasser dargestellt für andere stoffe kann man was ähnliches aufzeichnen und wir haben gesagt
+Okay, Festkörper werden wir uns jetzt nicht weiter damit befassen, in diesem Rahmen, in diesem Teil der Vorlesung, in der Strömungsregel, sondern mit Flüssig und Gas, mit dem Überbegriff, den Fluiden.
+Und bei den Fluiden, ja, da sind eben Flüssigkeiten und Gase eigentlich schon ziemlich unterschiedlich von dem, wie sie sich verhalten, aber man hat auch gewisse Gemeinsamkeiten und die Strömungstechnik deckt nun mal beide Bereiche ab.
+Heute werden wir, wie gesagt, in die Hydrostatik noch ein paar Rechnungen fortsetzen und ein paar Informationen liefern und dann wechseln wir zur Aerostatik, also von Flüssigkeit zu Gas und im weiteren Verlauf der Vorlesung geht es dann wieder auf die Flüssigkeiten in Bewegung.
+Und wir haben gesehen, dass da viele Sachen gleich sind, aber auf dieser Folie speziell rausgegriffen, was sind die Unterschiede zwischen den beiden.
+Zum Beispiel bei Flüssigkeiten gibt es Oberflächenspannung, bei Gasen eben nicht und so weiter und so fort.
+Und das ist, denke ich, doch recht wichtig, dass man sich nochmal im Hinterkopf behält, dass da nicht alles gleich ist.
+Ich überspringe die nächste Folie und gehe mal ganz kurz hierher, weil das ganz griffig ist, nochmal zum angucken, ist ja auch eine Folie aus der letzten Stunde, bei der wir gesagt haben, okay, auch so ein Fluidteilchen, sei es flüssig oder gas, aber nehmen wir mal vielleicht Flüssigkeit, das ist ein bisschen griffiger, da wirkt eine Schwerkraft drauf, das ist ja auch ein ganz vertrautes Thema.
+und dann haben wir aber noch zwei weitere Sachen
+und zwar einmal die Druckkräfte
+die das aufrecht erhalten
+dass das Flüssigkeitsteilchen nicht
+in sich zusammenfällt
+und nicht alles wie Lügen ausmacht
+sondern dass es eben aufeinander
+geschichtet werden kann
+und dazu kommen wir heute noch ein bisschen weiter
+und dann haben wir auch die Reibungskräfte
+und wir beschreiben die Reibung
+unter anderem mit der
+dynamischen Viskosität
+und die haben wir genau auf der Folie hier
+mal uns hergeleitet, dieses
+einfache Formelwerk, was auch in der
+Formelsammlung zu finden ist. Vielleicht mal
+einen Blick in den Raum. Hat schon jemand
+sich die Formelsammlung ausgedruckt?
+Ja?
+Okay. Gut.
+Ist wirklich hilfreich, jetzt heute
+je nach Zeit werden wir auf jeden Fall
+denke ich schon noch am Schluss
+in die eine oder andere Aufgabe
+reinschauen. Spätestens
+dann in, ich denke
+zwei Wochen steht
+mal Übung im Programm
+und bis dahin wäre es wirklich wichtig
+und gut und hilfreich für Sie, wenn Sie das Ding
+sich einmal ausdrücken, es ist wirklich nur
+zu Ihrem Besten, wenn Sie vorhaben,
+die Klausur mitzuschreiben, dann wissen Sie,
+ach, das steht ja da drauf,
+das muss ich mir jetzt nicht merken,
+da weiß ich dann, wo es steht
+und ich verspreche Ihnen,
+also das wird sich nicht wesentlich mehr
+ändern während der
+Vorlesung, es wäre nur, wenn Sie jetzt
+auf mich zukommen und sagen,
+oh, Herr Hessel, da ist ein Fehler drin,
+dann müsste ich irgendwas anpassen, aber ich gehe eigentlich davon aus, dass in der Struktur das Dokument bleibt gleich.
+Und da geht es am Anfang ja kurz um ein paar Variablen-Namen, das ist ganz praktisch vielleicht,
+und dann geht es um Thermodynamik und hier in der Mitte ist der Teil, da geht es zur Strömungstechnik.
+Sie dürfen das übrigens auch anders tackern, das ist vermutlich auch geschickt für Sie,
+das sind drei Heftchen abzutackern, das ist ja zu jedem Fachbereich ein Kim.
+und das ist einfach nur eine Doppelseite am Ende
+die eigentlich die wichtigen Formeln
+der Strömungstechnik ausmacht
+ich lasse noch ein Diagramm
+was vielleicht
+und da finden Sie
+diese Sachen also wieder
+soweit dazu nochmal abgeholt
+also kleine Hausaufgabe
+schreiben Sie sich auf
+drucken Sie mal die Formelsammlung aus
+sonst
+brauchen wir nicht viel drucken hoffentlich
+aber das wäre
+für das weitere Geschehen
+und dann haben wir uns gesagt, okay
+aufbauend auf
+jetzt eben nicht den Reibungskräften
+zu dem kommen wir später wieder
+aber auf dem Druckkraftthema
+da gibt es jetzt
+eben diese Hydrostatik
+und die Aerostatik, wo die Sachen in Ruhe sind
+und bei Schichtungen
+von Flüssigkeit einer Gasen
+bestimmte
+Druckverhältnisse nicht auf
+und der da drauf liegenden
+Also unten in einem Wasserbecken steckt ganz viel Wasser obendrauf und dadurch bildet sich ein Druck, ein Überdruck.
+Das hat man letztes Mal auch schon dazu Bezug genommen.
+Diejenigen von Ihnen, die schon mal tauchen waren oder zumindest schnorcheln waren und vielleicht zu einer spannenden Muschel runtergetaucht sind,
+Nase zu, zack, runter und dann merkt man, da herrscht ein größerer Druck.
+Und bei dem Luftthema kommen wir heute noch dazu.
+Wir haben am Schluss der Stunde noch diese eine recht verblüffend wirkende Quizaufgabe gehabt,
+das war die, wo es darum ging, wie viel Kraft wirkt jetzt auf den Boden von diesen drei Behältern
+und wir hatten gesehen, dass verblüffenderweise die Kräfte gleich sind,
+obwohl die Behälter ganz unterschiedlich viel Flüssigkeit obendrauf tragen,
+das ist eigentlich nur auf die Flüssigkeitssäule ankommen
+Und das werden wir gleich in wenigen Minuten wieder aufgreifen und darauf aufsetzen.
+Bevor ich das warne noch ganz kurz eingeschoben, eine Folie, die vielleicht hilfreich ist,
+an der einen oder anderen Stelle, die auch keinen Anspruch auf Vollständigkeit hat,
+aber nur mal so mit ein paar Begrifflichkeiten, mit denen wir uns jetzt schon befasst hatten,
+Also zum Beispiel diese dynamische Viskosität, so wie wir sie hier darstellen, diesen Eta als Zeichen.
+Bei mir sieht es etwas geschwungener aus, wenn ich es mit der Hand male.
+Oder dem Nü, was auch in vielen Fachbüchern sich wiederfindet, im amerikanischen oder englischen Sprachbereich allerdings oft andere Bezeichnungen verwendet werden.
+Das ist nun mal so, noch deutlicher sieht man es bei dem Thema Geschwindigkeit, wo wir sogar innerhalb der Vorlesung unterschiedliche Buchstaben verwenden.
+Das ist der Sache geschuldet, dass wir bei der Wärmeübertragung und Strömungstechnik das kleine u gut verwenden können,
+wohingegen bei der Thermodynamik dieser Buchstabe viel verwendet ist mit der spezifischen Energie.
+Bei Thermodynamik hingegen können wir das c als Geschwindigkeit nehmen,
+weil es selten nur in die spezifische Wärmekapazität geht und wenn dann ist sie gezeichnet mit diesem Index p oder v.
+Hier allerdings haben wir auch mit dem c als, Entschuldigung, dass ich ein bisschen Zeit brauche, das müsste ein kleines c sein.
+dieses C ist also anderweitig gelegt
+und so kommt es zustande
+dass die Variablenbezeichnungen
+zum Teil ein bisschen unterschiedlich
+und uneinheitlich sind
+ich werde schauen, dass ich das auch weiter
+ein Stück pflege
+während der Vorlesung
+erinnern Sie mich da auch gerne dran
+und sagen, oh da ist doch jetzt wieder was
+was sich irgendwie in verschiedenen Teilbereichen
+unterschiedlich anhört
+der Variablen-Name, dann kann ich das ergänzen
+und würde eben auch gerne versuchen
+um das später mal in Moodle abzulegen, einzeln.
+Schreibe ich mir mal selber auf.
+Dann werde ich das hoffentlich machen.
+Ich springe trotzdem noch mal ganz kurz zurück.
+Wir hatten also hier gesehen diese Druckgeschichte,
+die sich über die verschiedenen Tiefen in den Gefäßen aufbaut.
+Und dann hatten wir letztes Mal auch gerechnet,
+hier unten steht die Folienzahl nochmal drin
+also bei der Folie 42
+das war glaube ich das Ende der Stunde
+dann
+dass wir, genau da oben steht es auch
+dass wir die
+Kräfte
+nach dem Newton'schen
+Gesetz der
+entsprechenden
+sich aufhebenden Kräfte
+die Summe aller Kräfte muss 0 sein
+haben wir hier angesetzt
+dass wir eine Gewichtskraft haben, die drückt das Flüssigkeitsteilchen nach unten,
+in dem Fall ist es aus dieser Säule, und die Auftriebskraft, die dem entgegenwirkt,
+und das werden wir heute auch etwas nochmal sehen, da haben wir, wenn wir Auftrieb uns anschauen,
+dann nehmen wir einfach den Druck, der auf eine Fläche unten wirkt,
+und den Druck, der auf die Fläche oben wirkt, und bilden die Differenz,
+und dann sehen wir, wie viel zieht es nach oben.
+Das ist im Endeffekt das, was da zustande kommt.
+Und dann kommen wir auf diese schöne kompakte Formel, wo es darum geht, dass der Druck in einer bestimmten Tiefe,
+in dem Fall habe ich hier ein h, ist eine Variable, könnte man auch p von z schreiben,
+das ist also die entsprechende Höhe oder Tiefe, der was zu tun hat mit dem Umgebungsdruck,
+der bei uns an der Wasseroberfläche herrscht
+und dann noch diesem Anteil hier, der eben nur abhängt von der Tiefe
+nicht aber davon, ob hier jetzt vielleicht irgendwie ein anderes Material dazwischen liegt
+oder wie die Bauform von diesem entsprechenden Gefäß ist
+also Druck hängt nur von der Tiefe selbst ab
+soweit, nochmal abgeholt alles was wir letzte Stunde schon gemacht haben
+Jetzt gehen wir ein bisschen weiter und bauen darauf auf, greifen uns noch ein weiteres Mal dieses Beispiel und skizzieren was daneben.
+Wir hatten also ja schon gesehen, dass diese Kräfte hier unten gleich sind, das ist jetzt keine Überraschung mehr.
+Warum ist sie jetzt gleich? Ich will dazu nochmal kurz das sozusagen mathematisch schön abholen.
+Wir haben also hier unten die Bodenfläche A, A und A, die sind alle drei gleich.
+Und wir können immer ansetzen, dass F, die Kraft, und zwar jetzt ohne Vektorpfeil, einfach nur betragsmäßig, ist Druck mal Fläche.
+Und das ist also überall der gleiche Basisansatz, den wir an den drei Gefäßen bilden können.
+Jetzt geht es darum, wie ist denn der Druck an dieser Stelle, also P1, an der Stelle 2 oder an der Stelle 3.
+und wenn wir uns das kurz überlegen, nach dem, was wir gerade in der Formel gesehen haben,
+dann wird ein Stück weit auch klar, dass wenn wir hier die Höhe einzeichnen,
+wenn wir hier auf dieser Achse den Druck einzeichnen, nach rechts,
+dass hier oben ein Druck herrscht von P0,
+das ist also der Umgebungsdruck
+an der Oberfläche
+oben auf dem Wasser drauf
+und nach unten hin wird der Druck
+größer
+und wir können hier einen linearen Verlauf
+versuchen zu zeichnen
+und haben dann
+meinetwegen hier
+ein
+P
+meinetwegen ist das hier
+ein Meter
+von einem Meter, das wären dann ziemlich genau zwei Bar, wenn das Wasser ist. Und das gilt,
+wenn man sich das jetzt so anschaut, eben sowohl in dem Gefäß Nummer eins, als auch Nummer zwei,
+als auch Nummer drei, immer an dieser Stelle, an dieser Tiefe ist der Druck gleich hoch und
+Dadurch wird auch immer die entsprechende Kraftwirkung auf dem Boden gleich stark sein.
+So weit, einigermaßen einleuchtend.
+Okay, dann können wir uns eine weitere Anwendung anschauen.
+Ich gucke noch mal ganz kurz in den Raum, haben Sie es alle mitschreiben können oder sind Sie noch dran?
+Können Sie uns bitte melden, wenn Sie abgehängt sind.
+Wir werden heute auch einiges schreiben müssen, deswegen unbedingt aufmerksam machen, wenn ich zu schnell weiterklicke.
+Wir haben hier an dieser Stelle eine Anwendung, die durchaus in der früheren Zeit, aber sogar bis heute hin noch Verwendung findet.
+Und zwar nennt sich das Schlauchwaage. Man hat sich früher sehr stark gefragt, ich weiß nicht, vielleicht war jemand von Ihnen schon mal in Afrika, ich war nicht dort, aber da gibt es ja diese tollen Pyramiden von Gizeh und so weiter, ganz viele Pyramidenbauten.
+Und man hat sich sehr stark gefragt, wie ist es denn den Menschen damals gelungen, so exakte Bauwerke überhaupt zu konstruieren, so klar gerade Linien zu ziehen und dann auch hinterher stabile Konstruktionen, Pyramiden, okay, sind das eine, aber auch viele andere Bauwerke zu bauen.
+Auch später im römischen Bereich hat man ja sehr viele Aquädukte gebaut, die halt ganz leichte Neigung haben
+und dann das Wasser über viele, viele lange Strecken transportieren können.
+Und was hier verwendet wurde als eine Technik, ist die der Schlauchwaage.
+Was ist das? Das ist nichts anderes, als dass man ein Rohrsystem baut, was man mit Wasser füllt.
+Hier hat man so ein Comic-artiges Bild.
+Hier auf der einen Seite ist die Flüssigkeit drinnen und hat ein bestimmtes oberes Niveau.
+Und dann geht es hier durch, meinetwegen mal anskizziert hier in grün, hier unten durch,
+durch dieses komplizierte Rohrwerk, spielt eigentlich auch keine Rolle und kommt hier hinten wieder raus an der anderen Stelle.
+Und was gilt hier?
+Vermutlich ist hier der Druck P0 oben und auch hier wird der Druck P0 sein.
+Ich habe jetzt hier Pfeilchen hingemacht, bitte lassen Sie sich mit meinen Pfeilchen nicht verwirren.
+Der Druck hat keinen Vektorpfeil, das wollte ich nur anzeigen, dass an dieser Höhe, an dieser Stelle der Druck P0 gilt.
+Auch hier gilt der Druck P0 und dann haben wir das gleiche Spiel, wie wir es vorher gerade gesehen haben,
+dass eben, in dem Fall steht hier Z als Koordinate, dass in bestimmten Tiefen unterschiedliche Drücke herrschen,
+aber eben es keine Rolle spielt, ob ich jetzt hier oder dort bin oder hier oder auf der gleichen Höhe hier drüben.
+Der Druck wird immer gleich sein und damit wird auch das Wasserfüllniveau genau an die gleiche Stelle kommen.
+Das heißt, dass sich das ausgleicht, sodass hier oben an dieser Stelle wieder der Druck P0 herrscht, genauso wie wir es gerade gesehen haben.
+Und in der Tiefe sind es eben andere Druckwerte, die hier erreicht werden.
+Und das Ganze lässt sich also gut nutzen, um ein Nivellieren zu machen.
+Das heißt also, dass man die gleichen Niveaus finden kann an ganz anderen Stellen, auch mit sehr langer Schlauchverrohung.
+Achtung aber, zwei Hinweise.
+Zum einen gibt es auch sogenannte Kapillarkräfte.
+Das hat was mit der Oberflächenspannung hier zu tun.
+Das heißt, wenn man das Gerät besonders gut bauen will, dann nimmt man vielleicht nicht Wasser als Flüssigkeit,
+was sehr hohe und starke Kapillarkräfte hat, sondern vielleicht eine andere Flüssigkeit.
+Denn sonst wird es zum Beispiel einen sehr großen Unterschied machen,
+ob die Rohre eher einen großen Durchmesser haben oder eher schmal und schlank sind.
+Und es dauert auch eine gewisse Zeit, bis sich dieses Niveau ausgleicht.
+Und dann ist natürlich noch eine Frage, die aber in diesem Falle sicherlich zu bejahen ist,
+ist denn wirklich der Umgebungsdruck hier und dort gleich, wenn ich jetzt schlecht Wetterfront durchziehen hätte,
+dann würde man vermutlich sogar im Mikrometerbereich eine kleine Abweichung von diesem Niveau haben.
+In dem Falle also eine ganz gute Transferanwendungsverständnisaufgabe, die man auch so, sag ich mal gut, mal abfragen kann.
+Kam auch schon mal dran in der Klausur, wo man irgendwie erklären soll, wie funktioniert eine Schlauchwaage und worauf muss man achten.
+Dann hat man genau diese Aspekte, die man eben dort nochmal sich erinnern sollte.
+Soweit dazu. Jetzt können wir das Ganze auch in Rechnung anwenden.
+Und dazu gibt es hier in den nächsten zwei, drei Folien ein bisschen Zahlenwerk.
+es geht um ein U-Rohr-Manometer, vielleicht hat es der eine oder andere von Ihnen schon mal gesehen,
+so ein Gerät, bei dem man Drücke anzeigt.
+Im Endeffekt, heutzutage natürlich Geräte typischerweise digital, auch Ihre Uhr,
+vielleicht hat jemand von Ihnen mal eine Uhr besessen oder besitzt,
+Das ist eine, die für Bergläufer zum Beispiel ganz interessant sind, die ein elektrisches
+Parameter miteinander, das funktioniert genauso, da wird irgendein Metallplättchen verformt
+und aufgrund dieser Verformung kann man sehen, welcher Druck herrscht.
+Hier aber eben das eher, sag ich mal, klassische Instrument, was auch noch mehr Präzision verspricht,
+bei dem irgendein Volumenbereich eingeschlossen ist,
+in dem ist ein Gas drinnen
+und auf der anderen Seite ist die Umgebung.
+Und zwar haben wir also hier das Gas mit einer bestimmten Dichte.
+Das ist also ein Roh, eine Dichte für das Gas, die ich da zeichne.
+und hier außen haben wir wiederum die luft
+gewöhnungsbedürftig ist es passiert immer wieder dass mein tablet an diesen stellen
+hier links seit ich nicht gut schreibt also soll luft heißen hier ist die p0
+Sie sehen, es verschwindet sogar die Buchstaben wieder.
+Und wir können jetzt einfach mal uns ansehen, ein paar wichtige Stellen in dem Diagramm,
+vielleicht diese Stelle hier, die ich mal mit P1 bezeichne, diese Stelle hier mit P2
+und diese Stelle hier an dieser Höhe mit P3. Ich hoffe, man kann diese Stellen jetzt einigermaßen
+gut sehen. Die P0-Stelle sollte vielleicht ein bisschen tiefer gezogen werden, nämlich genau
+auf die Wasseroberfläche. Und jetzt gilt es, sich zu überlegen, welcher Druck herrscht denn wo. Und
+Und das können wir zum Beispiel für die Stelle P1 überlegen.
+P1 ist nichts anderes als das, was P0 ist, plus die Dichte der Flüssigkeit.
+Die habe ich noch nicht eingezeichnet. Das ist also hier die Dichte der Flüssigkeit.
+ein bisschen Wasser
+mal der Gewichtskraft
+mal Delta
+ZF
+und was ist Delta ZF?
+Das ist nichts anderes als dieses hier.
+Also was habe ich gemacht?
+Ich habe nichts anderes als die vorher gewandene
+Formel wieder angewendet und habe gesagt,
+okay, wenn hier der Druck P0 herrscht,
+dann wird hier bei P1
+im Druck herrschen die P0 plus
+Das, was die Flüssigkeit ausmacht, mal dessen Gewichtskraft, mal der entsprechenden Höhe dieser Flüssigkeitssäule.
+Das ist genau die Formel, die wir gerade gesehen haben.
+Und jetzt können wir uns anschauen, was denn noch wesentlich ist, wenn ich hier rübergehe Richtung P3.
+Warum will ich Richtung P3 gehen?
+Weil es mir darum geht, ein Verhältnis zwischen dem Druck hier drinnen und dem Druck hier außen aufzubauen.
+und dabei werden diese Höhen auftauchen und das ist für mich deswegen entscheidend,
+weil dieses Gerät funktioniert so, dass eben von hier außen die Luft hier reinkommt in dieses Gerät,
+das ist offen und das dient dazu, dass hier drauf gedrückt wird mit der Umgebungsluft
+und hier drinnen ist eben das Gas, wo ich jetzt hier rot sehr deutlich ausgebildet habe
+Und hier gibt es also einen Gegendruck im Gasvolumen, sodass sich hier eine bestimmte Höhe einstellt, zwischen der Stelle hier und der Stelle hier.
+Und dieses ist dieses Delta Z Flüssigkeit. In dem Fall wäre es ein negativer Wert, spielt aber überhaupt keine Rolle.
+Es geht also darum, wie stark ist diese Flüssigkeit verändert gegenüber dem Level, wo hier gegenüber steht.
+Und das wollen wir jetzt gleich in der Rechnung quantifizieren und das umrechnen in den Druck.
+Was wir dann machen mit so einem Gerät ist, wir lesen das ZF ab, um eine Info zu kriegen, wie hoch ist denn jetzt der Druck außen.
+Innendrin kann ich den Druck festhalten, wenn es ein Glasböhrchen ist, was hoffentlich sehr dicht ist,
+dann wird der entsprechende Flüssigkeitsvolumen des Gases sich nicht verändern,
+beziehungsweise die Anzahl der Teilchen da drin.
+Und dann gilt es als fester Behälter und reagiert auf den unterschiedlichen Außenbruch.
+Was wir jetzt machen können, ist uns anschauen zwischen P1 und P2.
+Wie sieht es denn da aus?
+Gleich, ne?
+Der gleiche Druck.
+Also ich schreibe es jetzt in der Farbe hin.
+P1 ist P2.
+und jetzt müssen wir uns wieder
+raufarbeiten
+sag ich mal
+zu dem Druck an der Stelle P3
+der ist nichts anderes als die Stelle P2
+minus in dem Fall
+ich könnte es auch andersrum hinschreiben
+also P2 ist P3 plus
+die Dichte des Gases
+mal der Gewichtskraft
+mal Delta
+Zg
+und
+Und entsprechend haben wir also wieder die gleiche Formel angewendet wie zuvor
+und können das Ganze zusammen einsetzen mit zwei Zeilen höher.
+Ja, bitte.
+Also was bedeutet das? Sie müssen wahrscheinlich mitschreiben, ich gehe trotzdem noch mal rein.
+Der Druck hier ist etwas niedriger als der Druck hier und das ist der gleiche Druck wie hier und
+Und dann addieren wir wieder drauf den Druck von der entsprechenden Säule der Luft.
+In der Flüssigkeit, die da oben drauf steht.
+Können wir das Ganze umstellen.
+Dann kommen wir raus auf PG ist gleich.
+P3, also das ist der Druck, der hier drin herrscht.
+Und der herrscht hier überall drin, in diesem entsprechenden Gasvolumen.
+Das ist P3.
+Das ist nichts anderes als P0. Ich schreibe noch ein bisschen anders, als es zuvor geschrieben war.
+Die letzte Zeile dürfen Sie sich auch sparen, die steht nämlich auf der nächsten Seite nochmal.
+So, haben wir eine gescheite Schreibarbeit und ich wollte es an der Stelle doch hier
+erwähnen, jetzt habe ich also die Dichte vom Gas und die Dichte von der Flüssigkeit,
+Ich hätte bei mir einfach eine kurze Halbe Rohgas genommen und Rohflüssigkeit.
+Und wenn das gilt, was hier unten steht, dass diese entsprechende Gasdichte viel kleiner ist als die Flüssigkeitsdichte.
+Und wir erinnern uns zurück an diese Tabelle, die ich gezeigt habe.
+Ich habe gesagt, Gase haben typischerweise um den Faktor 1000 weniger Dichte als Flüssigkeiten.
+Also das ist normalerweise bei uns gegeben.
+Dann sieht man schon, das hier ist ein Tausendstel von dem hier unten.
+Und die Niveaunterschiede zwischen dem, was es hier an Flüssigkeitslevel ausgemacht hat,
+gegenüber dem, was sich beim Gaslevel eingestellt hat,
+Das ist irgendwo im gleichen 10er-Potenzbereich, das heißt, das ist kein großer Unterschied,
+aber hier habe ich ein Tausendstel stehen, also 1 minus irgendwas, was ein Tausendstel in etwa ist,
+das ist ein sehr kleiner Zahlenwert, das heißt, wir können den ganzen hinteren Teil typischerweise mit gutem Gewissen wegschmeißen.
+Das heißt, der Gasgegendruck spielt keine Rolle gegenüber dem deutlich höheren Flüssigkeitsdruck.
+So einfach ist es.
+Und jetzt traue ich mich, oh, Sie haben das alles eh da schon eingeblendet gehabt,
+dann ist es für sie ein bisschen einfacher. Umso besser haben wir dieses Formelwerk rausbekommen.
+Manometermessung ist eigentlich eine schöne Sache, weil man ganz schnell zwischen dem Gasdruck und
+und dem entsprechenden Level dieser Flüssigkeitssäule und dem Umgebungsdruck einen Zusammenhang setzen kann.
+Das heißt aber im Umgekehrten auch, wenn man den Anfangsdruck des Gases kennt
+und die Flüssigkeitssäule mit einer Skala misst, dann kann man was aussagen um den Umgebungsdruck.
+Und ich denke, das hat vielleicht schon der eine oder andere von Ihnen mal gesehen,
+an einer Berghütte oder vielleicht haben Sie zu Hause so eine eher ältere Hydromessstation,
+dann sehen Sie dort eben angezeigt, welcher Luftdruck herrscht gerade.
+Und wenn der Luftdruck runter geht, dann wissen Sie schon, oh, da tut sich jetzt wahrscheinlich was im Wetter.
+Was ist allerdings ein bisschen ein Nachteil an der Messung, die ich da gerade gezeigt habe?
+Zum einen ist es so, dass dieses, was hier steht, mit den Dichtewerten, die hier eingezeichnet sind,
+aber auch die Dichte des Gases, die da intrinsisch mitverarbeitet ist, eigentlich abhängig ist von der entsprechenden Höhe.
+Also wenn ich das gleiche Gerät mit in die Berge nehme, zeigt es etwas anderes an, als wenn ich auf dem Basislevel bin.
+Und dann habe ich auch eine Temperaturabhängigkeit, weil sich auch Flüssigkeiten, die Dichte zum Beispiel ausdehnt in entsprechenden wärmeren Umgebungen oder noch deutlicher, was bei den Gasen passiert.
+und ich habe auch wieder Dämpfungsglieder, das heißt ich habe wieder durch diese entsprechenden dünnen Rohre irgendwelche Kapillareffekte.
+Entsprechend ist das Gerät nicht perfekt genau, aber wir können es nochmal anwenden in einer ganz schnellen Rechenaufgabe,
+die Sie sehr gerne mitnotieren oder wenn Sie das nicht möchten oder es hinterher in Ihrem Katalog genauso haben wollen wie ich,
+Dürfen Sie den natürlich auch mit dem Handy abfotografieren, aber jetzt nochmal hier für Sie gezeigt.
+Was haben wir hier für eine Rechnung?
+Es geht um die Messung Druck in einem Gasbehälter und es dürfen maximal 50 Millibar Überdruck herrschen.
+Das heißt, diese Wände hier zerbersten, gehen kaputt von diesem Glasgerät, was wir vorher abgebildet hatten, wenn da so ein Überdruck herrscht.
+Das heißt, der Druck, der hier drinnen herrscht, ist nichts anderes als der Gasdruck
+gleich dem Umgebungsdruck plus dem Pü.
+Übrigens etwas, was wir sehr häufig in der Stürmungstechnik bekommen,
+dass nicht über Absolutwerte beim Druck gesprochen wird, sondern über einen Überdruck.
+Wie viel mehr Druck habe ich als dem Umgebungsdruck?
+Das müssen Sie immer wieder mit umgehen.
+Wenn nichts weiter genau angegeben ist, dann gilt, dass in unserer Normalatmosphäre ein Druck herrscht von einem Bar.
+Und ein Bar können wir auch nochmal umrechnen in SI-Einheiten.
+Weiß jemand von Ihnen, was die SI-Einheiten wären und wie viel?
+Irgendeine Idee?
+Druck ist Kraft pro Fläche, oder?
+also Newton pro Quadratmeter
+sind die SI-Einheiten
+und wie viele sind es denn nun?
+Ein Bar
+in Newton je Quadratmeter
+Wir wissen es wahrscheinlich ganz hinten am Fenster
+100.000
+Ja genau, 10 hoch 5
+1 mal 10 hoch 5
+Das sind 100.000
+Da muss man mal aufpassen, dass man sich nicht
+vertut dabei
+und eine 0 zu viel
+oder zu wenig aufgreift ist mir selbst auch häufig schon passiert entsprechend bitte dort
+acht geben dann sind ganz schnell die rechnung sonst ganz durch so und jetzt haben wir also
+die frage manometer wird die flüssigkeit von der dichte so und so eingesetzt der gehirn differenz
+sich in den schenkeln ein maximal das jetzt dieses was hier an druck aus der flüssigkeit
+aufgebaut wird, genau den Überdruck ausmachen soll, der ja ganz klar angegeben ist hier mit
+den 50 Millibar. Das heißt, wir können also wieder durchnummerieren P0, P1, P2 und wir kennen aus dem
+Schlauchwagenprinzip, dass wir das hier etwa vernachlässigen dürfen. Also können wir auch
+aufschreiben. P1 ist D0 plus Hochflüssigkeit mal G mal Delta H. Hier haben wir dieses Delta H. Und
+Und P2 ist gleich P1 und wir wissen, dass P2 ungefähr gleich ist wie das P-Gas,
+weil wir gesagt haben, das Gas macht hier praktisch keinen Unterschied von dem Gegendruck.
+Das ist P0 plus P-Überdruck und jetzt kann man alles zusammensetzen.
+dann haben wir eine ganz einfache Rechenaufgabe, das heißt, T0 plus T-Überdruck ist 0 plus...
+Also Sie müssen da entscheiden, wie Sie damit umgehen, wenn ich hier so etwas an der Tafel entwickle oder am Tablet,
+Und ob Sie das alles mitschreiben oder ob Sie sagen, okay, jetzt lassen Sie den Herrn Hesse mal schreiben und Sie nehmen dann ein kurzes Foto.
+Wichtig ist mir, dass Sie ein bisschen mitverfolgen, was hier passiert, nämlich diesen Zusammenhang zwischen dieser Höhe aufzustellen zu diesen Druckniveaus.
+Und was man hier zum Beispiel eben sieht, ist, dass die entsprechende Umgebungsdruck keine Rolle spielt.
+und auch, dass wir dieses hier vernachlässigt haben.
+Weil eben der Druck des Gases typischerweise den Faktor 1000 weniger hat als der der Flüssigkeit
+und deswegen können wir also das ansetzen und ich wollte Ihnen ersparen,
+dass Sie mir lauter Zahlenwerte nachschreiben, deswegen habe ich die da jetzt hinein kopiert.
+Sie sehen also diese 50
+Millibar
+10 hoch minus 3
+und die 10 hoch 5
+weil es eben jetzt in SI-Einheiten
+dargestellt wird
+das ist der absolute Klassiker
+Sie werden in der Prüfungswendung sicherlich
+in der Klausur irgendwie
+diese Umrechnung machen müssen
+weil es geht immer darum, dass Drücke in Bar
+angegeben werden
+für irgendwelche Angaben
+oder Sie die am Schluss auch rechnen müssen
+und dass, wenn Sie damit rechnen, Sie nicht drumherum kommen, in Newton pro Quadratmeter zu rechnen,
+weil Sie dann mit den entsprechenden Erdbeschleunigungen oder irgendwelchen Dichtewerten arbeiten.
+Hier haben wir also Kilogramm pro Kubikmeter, 1,3, jetzt passen Sie auf, Kilogramm pro Liter steht da oben
+Und wir sollten uns also auch noch mal hinschreiben, ein Liter von einer Flüssigkeit entspricht hier 10 hoch minus 3 Kubikmeter.
+Also das sind da oben, das sind eigentlich die wichtigen Mitnahmebotschaften, die ich jetzt da in grün oben eingekastet habe,
+die notwendig sind, um Rechnungen zu beschreiben.
+So, und dann kann ich unten noch die Rechnung vollständig machen und den Zahlenwert hinschreiben.
+Das hier ist laut meiner Aufzeichnung 0,3921 Meter und das ist also nichts anderes als 39,21 Zentimeter.
+Das ist ja eine ganze Menge. Das heißt, obwohl es nur 50 Millibar klingt, nach sehr wenig, kann man da eine ganze Menge Flüssigkeit obendrauf füllen.
+40 Zentimeter und da kann ich also ein sehr großes Gerät bauen, bei dem ich sehr deutlich ablesen kann,
+wie viel Druckunterschied hat sich denn jetzt eingestellt, inwieweit ist der Druck denn außen verändert.
+150 Millibar ist ein Wert, der schon relativ viel Aussagekraft hat, wenn sich das Wetter ändert.
+Wenn ich 50 Millibar Druckveränderung habe, dann wird sich sicherlich sehr viel an Wetteränderung einstellen.
+Dafür ist das Gerät ja ursprünglich mal gemacht.
+Man kann das Gerät aber auch anders verwenden.
+Man kann damit auch bei gleichbleibendem Druck sehr gut Höhenunterschiede feststellen.
+So weit an der Stelle, ich gehe weiter. Das Ganze gibt es auch heute noch und zwar auch in sehr präzisen und recht stark digitalisierten Geräten. Das ist das sogenannte Betz-Manometer, was als Prinzip genauso funktioniert und wir werden es auch im Januar, habe ich jetzt bestätigt gekriegt, wenn wir drüben in die Strömungstechnik-Halle gehen und uns einmal anschauen,
+Da werden Sie dieses Gerät hier sehen. Dieser Kasten hier hat hier oben, vielleicht mache ich es doch mit dem Pointer besser, hier oben drauf einen Anschluss für ein Schläuchlein und auch hier einen Anschluss für einen Schlauch.
+Und diese zwei Anschlüsse führen dann hier hinten zu bestimmten Stellen an einem Strömungskanal, hier hinten in großem roten Pfeil gerade, wird Luft durchbeschleunigt und wird dann geblasen durch eine Öffnung.
+Da werden da verschiedene Experimente gemacht und man braucht ein Gerät, mit dem man die Druckunterschiede bestimmen kann, an zwei Stellen, um damit auch einen Hinweis zu kriegen, wie schnell ist denn die Luft.
+Das werden wir später noch sehen.
+Und man hat hier also eine Stelle, bei der der Druck hier oben gemessen wird und eine andere Stelle, die ist meinetwegen hier hinten, bei der der Druck hier vorne gemessen wird.
+Und damit hat man diese Niveaus P1 und P2, beziehungsweise den Unterschied der beiden Niveaus.
+Und das ganze Gerät funktioniert jetzt genauso, wie wir es vorher gezeigt haben,
+dass man hier einen entsprechenden Höhenunterschied sehen und messen kann.
+Sie sehen hier ist ein Stab durchgeführt, hier unten ist eine Lampe und ein entsprechender Bildschirm.
+und es kann aber durchaus auch digital funktionieren, um hier was abzulesen.
+Und man sieht also hier vielleicht eine Skala, die ich gerade versuche so ein bisschen zu skizzieren,
+bei der der Stab tiefer oder weniger tief hier in dieses Guckfenster hinein eingetaucht wird.
+Und das Ganze funktioniert jetzt noch besser, als wir es vorher bei dem letzten Bild gesehen haben.
+und daher uns auch noch in gewisser Weise ein Überhöhungsprinzip zu nutzen,
+dass hier der Druck P1 auf eine große Fläche A1 wirkt,
+wohingegen der Druck P2 auf eine kleine Fläche wirkt.
+Und wenn das Flächenverhältnis sehr unterschiedlich ist,
+dann werden auch schon kleine Druckunterschiede zwischen P2 und P1
+deutlich diesen entsprechenden Stab hier senken oder heben.
+Sie können sich vorstellen, wenn ich hier den Druck nur leicht erhöhe und das nur ein wenigen Zentimeter oder Millimeter hier nach unten gedrückt wird,
+dann wird dieser Stab gleich sehr deutlich nach oben herausgedrückt und genau diese Überhöhungseffekte macht man sich zu Nutze.
+Man kann hier mit Genauigkeiten von einem Pascal messen, das ist also ja nichts anderes wie 1 mal 10 hoch minus 5 bar oder auch 1 Newton pro Quadratmeter, das ist wirklich ein sehr feinfühliges Gerät und damit kann ich auch sehr genau dann Druckunterschiede messen und diese Druckunterschiede sagen wir auch sehr genau, wie hoch ist denn am Ende, werden wir sehen, die Geschwindigkeit.
+Von der Luft, die da durchfliegt.
+Soweit also an der Stelle die technische Anwendung.
+Okay.
+Wenn wir sie passen, würde ich jetzt noch einen Teil gerne mit Ihnen, einen Block, gerne durchnehmen.
+Bevor wir dann, oh ja, naja, da sind doch noch ein paar Teile.
+Bevor wir dann später in die Pause gehen.
+Ich gehe mit Ihnen durch das Thema die Kraftwirkung auf eine Staudammauer und hier ist es wieder eine reine Anwendung von dem, was wir gerade gesehen haben.
+Druck in der Tiefe hat eine bestimmte Schichtung, man sieht es hier mal skizziert über dieses Dreieck, das soll nur bedeuten, dass der Druck linear zunimmt und am Boden sehr hoch ist.
+Und es geht jetzt darum, zu überlegen, welche Kraft wirkt jetzt hier auf so einen Deckel oder eine Öffnung oder auf die gesamte Wand.
+Und zwar in Abhängigkeit von dem, wie steil es denn die Wand verkippt.
+und das ist eigentlich auch die Frage
+so ein bisschen an Sie
+denken Sie, die Kräfte
+werden deutlich höher, wenn ich den Winkel
+da kippe oder niedriger
+kann man ja mal so drüber nachdenken
+nicht groß abfragen
+aber um das zu berechnen
+wurde hier
+in dem Fachbuch
+einmal
+die Achse W eingeführt
+Das ist also das, wie diese Staudammauer hier im Raum steht, gegenüber dem Z, mit dem Winkel Alpha, verkippt.
+Und hier wurde eine sogenannte Spiegelschnittlinie gemacht.
+Das heißt, das, was hier als ein bisschen ovaler Kreis gezeichnet ist, ist nichts anderes als ein Schnittbild von dem, wie diese schwarze Fläche hier ist.
+Also das heißt, das wäre jetzt meinetwegen eine Rohröffnung und könnte jetzt kreisrund sein.
+Und in diesem kreisrunden Öffnungsstück kann man wiederum kleine Flächenelemente sich identifizieren
+und kann auch sagen, wo der Schwerpunkt oder irgendein Drehmittelpunkt liegt.
+Wir gucken uns an, was die Kräfte hier ausmacht.
+Jetzt muss ich kurz dahin navigieren.
+Also, die Kraftwirkung auf den Boden ist in dem Falle nichts anderes als ein Integral von 0 bis a,
+also über die ganze Fläche von p von z, d a.
+In diesem Falle geht es also in eine differenzielle Bezachtung,
+weil wir eben sagen, okay, ein kleines Flächenelement hier drin,
+auf das
+an der Stelle
+wirkt genau der Druck, der in der Tiefe Z
+herrscht
+und jetzt gehe ich über alle Flächenelemente drüber
+hier unten
+bin ich an der Stelle
+und habe einen höheren Druck
+und wenn ich jetzt über die ganze Fläche A
+integriere
+ich weiß nicht, wie gut Sie vertraut sind mit Flächenintegralen
+aber kriegen wir schon, glaube ich, zusammen gut hin
+dann
+soll ich die Lösung
+bekommen, nämlich dafür, was
+die gesamte Kraft ist. Also die Kraft ist ja
+nichts anderes als die Summe über all diese
+kleinen Kästchen hier
+in schwarz dargestellt
+von dieser Öffnung
+die ganzen kleinen
+Teile, die da so beitragen, dass
+kräftig wird.
+Und
+zugrunde liegt immer die Druckkraft.
+Jetzt können wir die Formel
+von zuvor nehmen.
+0 bis A
+K0 plus
+Rohflüssigkeit mal
+Gewichtskraft
+und Z
+Was ist das nur für Sie zum Nachvollziehen?
+Nichts anderes als die entsprechende
+Formelsammlung
+Ich habe es nur jetzt diesmal nochmal für Sie mit hingeschrieben.
+Also die Formel ist bekannt und liegt vor.
+Und jetzt kann ich das Integral schon fast bilden.
+Der Wert P0, Umgebungsdruck, hängt überhaupt nicht ab von der Fläche, kann nach draußen gezogen werden.
+und der hintere Teil hängt nur zum Teil ab.
+Das heißt, ich kann hier schreiben, das ist P0 mal, nachdem ich über die ganze Fläche gehe,
+A plus Hochflüssigkeit mal Gewichtskraft mal dem Integral von 0 bis A.
+Und jetzt habe ich das Problem, da steht jetzt dieses Z drinnen.
+und Z
+und die Fläche
+haben erstmal keinen direkten Bezug zueinander
+Sie sehen also hier
+wo über A gesprochen wird
+geht es auf die Koordinate W
+hier hingegen auf die Koordinate Z
+das heißt ich brauche einen Zusammenhang
+zwischen W und Z
+und da kann ich
+einmal das da einblenden
+was hier drüben steht
+Z
+als
+Horizontale
+entsprechend
+gegenüber dem W
+in dem Winkel Alpha, das liegt anders
+trigonometrisch als
+dieser Zusammenhang mit dem W mal Cosinus Alpha
+wenn Alpha gleich Null ist
+haben wir das Zeitbegleich
+die beiden Werte
+und das heißt, ich kann hier hinten
+übernehmen
+W mal
+Cosinus Alpha
+mal dA
+Und dieses kann man auf der folgenden Seite wiederfinden, als Formel und dann auch in der Rechnung benutzen.
+Ich bin jetzt so frei und schalte weiter.
+Sie finden genau diese Formel auf der nächsten Seite wieder.
+Und haben dann entsprechend noch den Kosinus rausgezogen.
+auch, müssen sich nur noch
+mit dem letzten Teil da befassen
+und das werden wir
+jetzt mal etwas hemmsärmlich
+als Integral
+durchführen
+wenn wir dieses
+0 bis a haben
+und über Flächen integrieren
+können wir das auch umschreiben
+als ein Integral von 0 bis b
+wobei jetzt
+b nichts anderes ist als die Breite
+und hier die Koordinate h, die nichts anderes ist als das entlang der Koordinate b.
+Das heißt also, Sie haben Ihre Fläche a umgewandelt in ein b mal h.
+Einfach nur die zwei Raumrichtungen der Fläche.
+Das heißt, ich habe hier noch ein Integral von 0 bis h.
+Und jetzt haben wir hier dann drin stehen, w mal dx mal dw.
+Also das heißt, ich habe dA umgewandelt in zwei Einzelkoordinaten.
+Hier geht die Koordinate x entlang.
+Hier sehen wir es, hier ist x als Koordinate und die andere Richtungskoordinate heißt w.
+Ich habe es da oben nochmal hingeschrieben.
+dA ist dx plus mal dW oder Fläche A ist b mal h.
+Für den Variablen haben wir vielleicht ein bisschen gewöhnungsbedürftig, aber hoffentlich für Sie machbar.
+Wenn ich dieses Integral ausführe, dann sehe ich schon, die b-Koordinate hat überhaupt keinen Bezug, die kann ich rausschreiben.
+b mal, dann habe ich das Integral von 0 bis h über ein w mal dw. Und was ist das Integral
+von 0 bis h über w mal dw, das ist w Quadrat halbe, an den Grenzen 0 bis h, auch da gibt
+es vielleicht verschiedene Schreibweisen, also ich tendiere dazu, Integrale so zu schreiben,
+von 0 bis h integriert
+obere Grenze eingesetzt
+das wäre also h²
+untere eingesetzt
+das wäre 0
+die 0er fliegen immer raus
+sehr praktisch
+und ich kriege also als Gesamt
+der Rechnung hier raus
+f ist nichts anderes als
+p0 mal a mal
+die Füllung plus
+wo Flüssigkeit
+mal der Gewichtskraft
+bis der ganze Kram, den ich vorher schon hatte
+mal 1,5
+mal h Quadrat
+und auch hier lässt sich wieder was
+vereinbaren
+denn h mal b
+ist nichts anderes als
+die Fläche a
+also dieses ganze hier hinten ist a mal h
+Ja, und jetzt lässt sich das Ganze noch ein Stück einfacher schreiben, denn wir haben noch die Definition, die, glaube ich, auf der nächsten Folie nochmal kommt, dass der Druck...
+Jetzt ganz kurz die Schwerpunkte noch mit einzahlen.
+jetzt vielleicht über dieses orange Diagramm, das ist hier nochmal die Höhe z und das halbe
+Dreieck, das ist ein halbes z und hier wieder ein halbes z und dann ist dieser Punkt, den
+ich da in der Mitte definiere, nichts anderes als der Schwerpunkt zs.
+Wollen wir das Orange einigermaßen lesen?
+Oh, geht schon.
+Okay.
+Hier drüben haben wir auf der gleichen Höhe die Höhe Ws.
+und jetzt ist es bei der Art
+so, dass es auch hier sich in Hälften
+aufteilt
+weil der Flächenzugewinn
+ist auf beiden Teilen
+der Strecke gleich
+beim Verkissen
+Und entsprechend kann ich hier unten, ich habe es in grün jetzt begonnen, PS festlegen, also nichts anderes als P0, das ist der Druck, der oben herrscht, plus O von meiner Flüssigkeit,
+dann bringt mal der Gewichtskraft mal der Höhe Zs.
+Das heißt, hier auf diesem Level herrscht der Druck Ps.
+Also soll heißen, wenn ich mir die Formel unten angucke,
+ich werde es jetzt ganz bewusst nicht nochmal was oben drüber schmieren,
+dann sehe ich da wieder, hier steht ein P0,
+Flüssigkeitsdichte, Gewichtskraft und da hinten haben wir im Prinzip ein halbes Höhenverhältnis,
+und es ist nichts anderes als Zs, ein halbes Z ist zum Schwerpunkt und also eine halbe Höhe ist nichts anderes als Zs
+und das heißt, wir können die Formel sehr, sehr kurz schreiben, als die Kraft ist der Druck an der Stelle Zs mal der entsprechenden Fläche, die eigentlich dort steht.
+Jetzt muss ich mal aufpassen.
+Also mit Zs ist Cosinus Alpha mal Ws.
+Hier haben wir den Winkel Alpha.
+So, da kommt nochmal irgendwas reingeblendet. Tut mir leid, haben wir ein bisschen überblendet.
+Also es geht darum, dass der Schwerpunkt, der gerade abgebildet wird über dieses Flächendreieck und entsprechend sich die Kraftwirkung hier an der Stelle genauso ergibt, als hätte man einfach nur eine Stelle genommen und dort den Druck bestimmt.
+Das ist aber eben nun genau die mittlere Stelle und das heißt, dass wir diesen entsprechenden Druck berechnen können als einen Schwerpunktdruck, der an der entsprechenden Schwerpunktstiefe liegt und dort die Kraftwirkung auf die Fläche multipliziert.
+Es hilft Ihnen also nichts, wenn Sie jetzt einen stärkeren Verkippungswinkel nutzen, um eine entsprechende Kräfteverteilung von der Staudammwand zu erreichen, denn der Druck wirkt unabhängig davon, wie stark Sie diesen Winkel jetzt hier verkippen.
+Man kann als letztes noch hinzufügen, steht da ganz bewusst mit Exkurs, die Frage, wo
+ist jetzt der Angriffspunkt der Fläche, im übertragenen Sinne könnte man auch fragen,
+wenn ich jetzt so eine entsprechende Klappe oder eine Stelle hier markiere, wo würde
+denn die entsprechende Kraft wirken, wo würde denn wahrscheinlich ein Bruch einer Staudamme
+Wand passieren und man sieht, dass es nicht genau die gleiche Stelle ist, dieser Schwerpunkt,
+sondern vielmehr ist es so, dass es ein kleines Stückchen nach unten verschoben ist, man
+sieht, dass der Angriffspunkt unterhalb ist, man kann sich das schon vorstellen, hier unten
+sind die Drücke größer, hier oben sind sie kleiner und das heißt, die Druckwirkung
+von hier unten und die Kraftwirkung hat einen Fall stärker ins Gewicht als die Kraftwirkung
+Und von dem oberen Teil, der Hauptangriffspunkt der Fläche, ist also unterhalb bei zwei Drittel, in dem Fall, alles ausgegraut.
+Da werde ich Sie nicht weiter dazu fragen. Es geht nur darum, dass wir jetzt das Handwerkszeug als solches haben,
+um Ingenieurinnen und Ingenieuren zu helfen, die möglichst stabile Staudämme bauen wollen und sich überlegen,
+wo muss denn mein Mauerwerk wie stark, wie gut ausgelegt sein.
+Da muss ich im Endeffekt immer nur diese Formeln machen.
+Man sieht in Fachbüchern, auch wieder als Exkurs gekennzeichnet,
+dass man das sehr weit treiben kann, verschiedene Flächenöffnungen sich angucken,
+rund, oval, irgendwelche anderen Formen und sich da jeweils ausrechnen kann,
+welche entsprechende Koordinate für diesen Schwerpunkt gilt.
+Und wir sehen hier eben, dass es in unserem einfachsten Fall genau die halbe Höhe ist, also genau die Mitte.
+Und das ist auch das, was, wenn Sie dazu gefragt werden, in der Klausur bei uns das Relevante ist.
+die anderen werde ich sie nicht mit konfrontieren. Das gilt glücklicherweise genauso für rund wie für
+eckig. Ich würde gerne noch einen Teil vor der Pause mit Ihnen ansprechen, das ist die Hydrostatik
+und zwar das Thema Auftrieb da drin, nachdem wir die anderen Teilbereiche eben schon angeschaut hatten.
+Der Auftrieb kam uns vorher auch schon als Größe.
+Ich will aber jetzt vielleicht zumindest bis zur Pause Ihnen so dieses Basisprinzip nochmal zeigen,
+wie wir eigentlich darauf kommen, dass wir bei Auftriebskräften genau passend ansetzen
+und nichts vernachlässigen in dem Kräftewirkung.
+Es geht also wieder darum, dass wir in der Hydrostatik ein Teilchen haben, was zunächst einmal in Ruhe ist.
+entweder einen Stein, den ich unter Wasser halte
+und jetzt erst loslasse
+und der dann absinken wird
+oder ich sag mal eine Boje, die ich unter Wasser tauche
+und loslasse, die dann auftauchen wird
+und es geht mir darum, zu rechnen, welche Kräfte herrschen
+und als erstes
+wenn wir sowas tun, sollten wir uns mal angucken
+was ist das für ein Körper, den wir da unter Wasser tauchen
+Der ist jetzt hier weiß skizziert und hat irgendeine beliebige Form.
+Und in dem sind mal ein paar Vektorpfeile eingezeichnet für Kräfte, die da wirken.
+Aber als erstes vorneweg die Überlegung, dass wenn wir uns anschauen, was wirken denn da für Kräfte quer zur Fahrtrichtung,
+Also so, FH1 und FH2, dann können wir uns, glaube ich, sehr gut überlegen, dass die sich aufheben.
+f Horizontal 1 ist minus f Horizontal 2, weil die Summe über alle f h ist 0. Das heißt, wenn ich so etwas mache, dann wird dieser Körper nicht nach links oder rechts wegtauchen, sondern er geht nach oben oder nach unten.
+Und das stimmt soweit, wenn Sie nicht irgendwelche Turbulenzen erzeugen, das ist dann was, was
+aus der Hydrodynamik wiederum herauskommen wird.
+Vielleicht kennen Sie das, wenn Sie ein Wasserbein, Kunststoffball unter Wasser tauchen und den
+auftauchen lassen, dass der irgendeine Zuckelbewegung macht, nach links und nach rechts und nicht
+gerade hochkommt. Und das hat was mit der Hydrodynamik oder der Aerodynamik zu tun,
+mit Turbulenz. Kommen wir in ein oder zwei Stunden zu. Aber der erste Moment, um den
+es uns jetzt hier geht, ist ein statischer und da wird die Kraft rein nach oben oder
+rein nach unten gehen. Beim Stein gerade nach unten. Beim luftgefüllten Ball gerade nach
+unten. Und wir können uns jetzt noch anschauen, wie die Kräftewirkung vertikal ist. Ich versuche
+mit Ihnen mal hier so zu skizzieren. In diesem mittleren Teil, ich nenne es mal ein Pommes-Scheibchen.
+Also dieses ist nichts anderes als ein Schnitt von einem kleinen Flächenbereich, so dick wie im Querschnitt vielleicht ein Pommes, von einer Kartoffel, das ist hier mein weißer Körper, der hat unten irgendeine schräge Fläche, die steht hier im Wasser, und oben irgendeine schräge Fläche mit einer anderen Größe, mit einem anderen Winkel.
+und von denen kann ich also einige hundert basteln aus einer Kartoffel
+und wenn ich all diese Pommes-Scheibchen zusammensetze,
+dann sollte ich die Kraft ermitteln, die für das gesamte Konstrukt gilt.
+Und ich muss jetzt mal kurz gucken,
+es stand alles schon drin, tut mir leid,
+wie die Kraftwirkungen hier sind.
+Wir können uns mal anschauen, die Kraftwirkung DFA, die hier als Auftrieb gezeichnet ist und nach oben zeigt, ist nichts anderes als die Subtraktion von den anderen beiden Komponenten UR.
+dF A ist also dF Vertikal 2 minus dF Vertikal 1, also Kraft von unten, wie man hier im Bild auch sehr gut sieht,
+ist in dem Falle größer als die von oben, das Ganze resultiert in einer verbleibenden Komponente, die nach oben zeigt,
+Geht logischerweise auch genau andersrum.
+Und das wollen wir jetzt eigentlich ausrechnen und uns angucken, wie groß ist denn jetzt der Auftrieb.
+Und um das zu berechnen, gehe ich eben auf das Pommes-Scheibchen darüber
+und ersetze die Kraft, die vertikal wirkt.
+Nehmen wir also meinetwegen hier oben.
+Dieses DFV1 durch die Kraft, die jetzt hier schräg auf diese entsprechende Oberfläche wirkt, DF1.
+Und schauen wir dabei auch noch an, dass ich zwei verschiedene Flächen habe, mit denen ich arbeiten muss.
+einmal habe ich die Fläche A1
+das ist die hier oben
+A1
+und hier unten habe ich die Fläche
+A
+das ist also genau diese Fläche
+die hier im Bild gezeigt ist
+von dem Schnitt
+und das heißt
+Ein wichtiger Zusammenhang hier ist, dass A nichts anderes ist als A1 mal Cosinus Alpha.
+Das heißt, dass die Fläche A1 durchaus deutlich größer werden kann, als das, was die Fläche A ausmacht.
+Deswegen steht es so rum da, also A1 ist nicht anders als A durch Cosinus Alpha.
+Und wenn wir uns jetzt auch noch diese Flächen anschauen, dann können wir hier die zweite wichtige Formel hinschreiben.
+Und zwar nämlich, dass dieses dFV1 ist nichts anderes als dF1 mal, und in dem Fall steht da Cosinus Alpha.
+Und jetzt setzen wir das ein. Das ist ein bisschen schreibaufwendig, aber an sich nichts besonders schwieriges.
+Ich fange jetzt mit der Serie 2 an. Achtung, da unten ist der Winkel Beta.
+Jetzt können wir uns noch als letztes überlegen, dass hier oben
+das nichts anderes ist als
+P1 mal A
+mal Cosinus Alpha
+ich hoffe man kann es da oben
+noch einigermaßen lesen
+ich habe also zwei einfache
+trigonometrische Sachen
+angewendet, die ich jetzt gerade hier in den Kasten gesetzt habe
+einmal was zu den Flächen
+zwischen der Fläche
+die irgendwie gerade im Raum steht
+und die beim Integrieren
+eine Rolle spielt, weil ich über alle Flächenelementsteile gehen will und dem, was die Fläche ist, auf
+die irgendeine schräge Kraft wirkt und dann habe ich mir angeguckt, was mit diesem schrägen
+Kraftthema ist, DF1, inwieweit das wieder zusammenhängt mit einem Druck und der entsprechenden Fläche
+und dem Verkippungswinkel. Und wie man sich wahrscheinlich schon vorstellen kann, ist,
+dass diese zwei Cosinus-Therme sich genau aufheben.
+Das heißt, ich werde jetzt in der nächsten Zeile genau das sehen.
+P2 mal dA Cosinus-Beta mal Cosinus-Beta.
+Da haben wir genau diesen Effekt.
+Ich schreibe das noch fertig und dann würde ich Sie in die Pause entlassen.
+Dann haben wir da das Bild stehen geblieben.
+Sie können sich das noch anschauen, wenn Sie noch möchten.
+Und man sieht, es geht um nichts anderes als um den Druckunterschied,
+der für Sie hier an der entsprechenden Stelle wirkt.
+Soweit, so gut. 9.58 Uhr.
+Ich würde mal jetzt Pause vorschlagen.
+das D verwende, dann kann ich da oben natürlich die Formel genauso schreiben, auch mit dA,
+ist dA1
+mal Cosinus Alpha
+und dann fügt sich hoffentlich
+wenn Sie das wirklich
+nachvollziehen wollen, das ist kurz zusammen
+wir gehen hier her
+Wert 1 mit Cosinus Alpha
+und ersetzen jetzt das zu
+P1 und eine
+oberste Zeile dA
+durch Cosinus Alpha, dieser Teil
+das ist also
+dA1 mal Cosinus Alpha
+und jetzt kürzt es sich raus und dann soll es passen
+Also da war ein bisschen Flüchtigkeit unterwegs bei mir und entsprechend gut, dass wir da Pause gemacht haben.
+Ich hoffe, so ist es nachvollziehbar und stimmig.
+Und genau, bitte nehmen Sie das Handy, fotografieren Sie es, dann haben Sie es in der Version, wie es in die Akten geht und hoffentlich auch passt.
+Am Ende ist es auch nicht unbedingt wahrscheinlich, dass ich Sie jetzt ausfragen werde in der Klausur,
+dass Sie jetzt genau diese Rechnung nochmal machen.
+Aber sehr wohl, das wichtige Verständnis, horizontale Kräfte heben sich auf,
+vertikale Kräfte heben sich nicht auf, aber haben was mit dem Druckunterschied zwischen unten und oben zu tun.
+Und jetzt gehen wir auf die folgende Folie.
+Jetzt nutzen wir die Informationen nämlich und sagen damit, was ist denn nun mit der gesamten Auftriebskraft?
+Die wurde ja hier gezeigt. Also in dem Falle die Auftriebskraft aus Pommesstückchen.
+Ich hoffe, Sie können mir einigermaßen folgen mit dieser Pommesanalogie.
+Aber es soll also heißen, hier dieses kleine Scheibchen, was ist da jetzt für eine gesamte Kraft drauf?
+Das ist nichts anderes als auf dieser Folie die Rohflüssigkeit, die hier mit den zwei Buchstaben abgekürzt ist.
+Das behalten wir jetzt so bei.
+OFL mal
+der Gewichtskraft
+mal
+Z2
+minus
+Z1
+mal DA
+Das ist hoffentlich gut nachvollziehbar,
+wenn man die zwei Zeilen drüber anschaut.
+Der Umgebungsdruck wiederum kürzt sich raus,
+wenn es uns nur um den Unterschied
+zwischen unten und oben geht.
+Egal welches Wetter oben herrscht, der Auftriebskraft ist immer die gleiche, egal welcher Umgebungsdruck ist.
+Es geht nur darum, wie viel Druck ist unten und wie viel Druck ist oben im Unterwasserzustand.
+Und wenn ich das zusammennehme, kann ich mir nochmal überlegen, dass ja aufgrund der Definition dieses Pommelstückchens,
+Es ist nichts anderes als dieses kleine Flächenelement und Z2 minus Z1 ist es nichts anderes als dV, das ist das Volumenelement.
+Und das bedeutet dann in der Summe, dass ich hier stehen habe, Rohflüssigkeit mal der Gewichtskraft mal dV.
+So, und damit kann ich auch FA schreiben als Integral über das ganze Volumen mit dem DFA, also mehrere Pommesstücke zusammen ergeben die ganze Kartoffel.
+Und ich habe also jetzt hier die Dichte mal der Gewichtskraft mal den Volumen.
+Klingt total banal, hat aber doch irgendwie einen eventuell verblüffenden Effekt.
+Hier in der Mitte ist ein Körper.
+Ja, meinetwegen eine Kartoffel oder aber auch der Wasserball, den ich unter Wasser gedruckt habe, der nach oben geht.
+Oder die Boje oder ein Stein, der wiederum nach unten geht.
+Und jetzt schauen wir uns an, was haben wir als resultierende Formel bekommen?
+Die Auftriebskraft hat was zu tun mit der Dichte der Flüssigkeit.
+Und nichts mit der Dichte des Körpers.
+Also das, was nach oben drückt, ist betragsmäßig gleich der Gewichtskraft der verdrängten Flüssigkeitsvolumens.
+Entschuldigung, das steht hier leider nicht drin, aber ich komme auf der nächsten Folie aufgeblendet.
+Also das heißt, so viel, wie ich an Kartoffel oder Boje oder was auch immer unter Wasser gedrückt habe,
+erzeugt das ein Auftrieb, wie die Flüssigkeit wiegen würde, die da normalerweise sein müsste,
+wenn ich da nicht meinen Ball oder was auch immer drin habe, mit der Gewichtskraft und dem Volumen.
+Und jetzt kommt der logische Schluss, die kommende Folie. Es geht mir natürlich jetzt darum,
+was ist denn im Kräftegleisgewicht, was passiert denn nun? Geht ein Körper unter oder taucht er
+Und um das zu beantworten, müssen wir nur noch diesen einen kurzen letzten Schluss ergänzen, nämlich, wir haben nach Newton'schen Gesetzen ja schon gesagt, die Summe aller Kräfte, die auf diesen Körper wirken, die sollen wir uns mal anschauen, um die resultierende Kraft zu berechnen.
+Da haben wir ein FA nach oben, in dem Fall ist es bei mir jetzt grün, ich glaube bei Ihnen ist es noch blau, spielt keine Rolle.
+Und ein FG nach unten und das heißt, wir haben hier die FG, die Gewichtskraft nach unten und die Auftriebskraft nach oben.
+Ob Sie das jetzt so rum oder andersrum vom Vorzeichen schreiben, hängt davon ab, ob
+Sie die Kräfte auf den Körper nach oben ansetzen oder nach unten.
+Bei mir ist sie nach oben angesetzt.
+Also das heißt, Auftriebskraft ist betragsmäßig positiv und Gewichtskraft entgegengesetzt negativ.
+Und wenn wir die Summe jetzt bilden, dann sehen wir, dass die Dichte der Flüssigkeit
+Flüssigkeit interessanterweise vorne ist, mal Gewichtskraft mal Volumen und Gewichtskräfte kennen wir, die wirken vom Körper aus und in der Summe heißt es nichts anderes als Dichte Flüssigkeit minus Dichte Körper mal G mal V und wir können auch nochmal was sagen,
+Im Gleichgewicht soll doch bitte gelten, dass die Summe aller Kräfte auf den Körper gleich 0 ist.
+Und damit muss automatisch die Dichte der Flüssigkeit gleich sein, der Dichte des Körpers.
+Aber das ist nicht immer der Fall.
+Das wäre jetzt bei einem sogenannten schwebenden Gegenstand der Fall.
+Wenn aber die Dichte des Körpers größer ist als die der Flüssigkeit, dann steht hier was Negatives, die Kraft ist negativ, das Teilchen geht nach unten, das deckt sich mit unserer Anschauung.
+Stein hat höhere Dichte als Wasser, der taucht ab, oder luftgefüllte Boje oder Wasserballe oder was auch immer hat kleinere Dichte als Wasser, was passiert mit dem unter Wasser, der geht nach oben, taucht auf.
+es ist nichts weiteres als das was wir hier gerade noch mal recht ausführlich
+gerechnet haben und womit wir dann in ein paar Folien steht es erst gezeigt ich springe da
+jetzt mal ganz bewusst hin diese sache entscheiden können wenn die Auftriebskraft kleiner als die
+die Gewichtskraft ist, dann sinkt was, wenn es andersrum ist, taucht es auf oder wenn es schwimmt oder schwebt,
+nennt sich das, dann ist es ein stationäres Thema, schweben ist unter Wasser im Körper oder schwimmen ist oben drauf
+und dann können wir eben genau diese Frage entscheiden, wenn wir uns einfach nur die Dichteunterschiede anschauen.
+Da gibt es noch sehr viele trigonometrische Themen dazu, die man sich überlegen kann,
+wenn man jetzt wissen will, ob und wie und wann Kippenkörper unter Wasser, das ist insbesondere wichtig,
+wenn man jetzt U-Boote baut oder irgendwie Hobbysegler ist oder Wingfoiler ist,
+dann können Sie sich anschauen, wann und wie halten diese Schwerpunkte und Verdrängungspunkte zusammen.
+Das machen wir aber jetzt nicht. Das will ich aussparen.
+Ich will Ihnen noch eine Sache zeigen, als Anwendung von den gleichen Gesetzmäßigkeiten.
+Ich habe aber ganz bewusst, zwei Folien weiter, alles was ich da im Text schreibe, schon eingeblendet.
+Können Sie das fotografieren oder Sie fragen mich danach im Forum, dann schicke ich Ihnen die eine Folie ausgefüllt.
+es geht mir um den sogenannten Archimedes-Test
+da geht es
+um eine Fragestellung
+kennt es jemand von Ihnen, ich habe mal gehört
+also
+am Ende
+die gedankliche
+Sache
+hier gibt es irgendeine
+Gedankendorf, meinetwegen eine Krone
+man weiß welches Volumen hat die Krone
+das ist alles in Ordnung
+aber man weiß nicht ob sie jetzt
+aus dem reinen Gold ist
+oder ob es irgendeine Legierung ist, ob da irgendwas anderes beigemischt ist.
+Zum Beispiel Silber statt Gold.
+Und diese Fragestellung ist gar nicht so abwegig, sich schnell mit Legierungen auseinanderzusetzen.
+Man kennt heutzutage natürlich genau die Zahlenwerte von Silber und von Gold, von der entsprechenden Dichte.
+Und Silber hat eine Dichte, die ist nur halb so groß wie die von Gold.
+Das heißt, Gold ist schwerer, sagt man so im Volksmund.
+Schwerer hat eine höhere Dichte.
+Und jetzt kann man sich überlegen, wie kann ich denn quantifizieren, wie viel Gold und wie viel Silber steckt da drin?
+Die Idee, die ich da verwende, ist die gleiche, wie wir sie gerade genannt haben.
+Also zunächst oben im Beispiel ein Aufbau, bei dem ich mir irgendeine Gewichtswirkung angucke
+und auf der anderen Seite die Krone, aber ich habe die Krone nicht in Luft,
+sondern ich setze sie ganz bewusst in die Flüssigkeit.
+Und zwar auch eine von bekannter Dichte, meinetwegen Wasser.
+Und jetzt hat die Gewichtskraft hier nach unten in der Flüssigkeit und der Auftrieb nach oben,
+In dem Fall auch sauber dargestellt, der Auftrieb ist kleiner, die Krone würde gerne abtauchen, sicherlich im Wasser.
+Das ist eine resultierende Gewichtskraft, die gemindert wurde um die Auftriebskraft.
+Also nenne ich das hier Fg scheinbar.
+Und Sie werden gleich meine eingeblendeten Notizen dazu sehen.
+Und es gibt eine zweite Idee, ich kann einfach so die Krone wiegen.
+das ist jetzt vielleicht der logisch
+erste Schritt, hier unten
+dargestellt, ich schaue mir einfach an, welche
+Gewichtskraft hat die Krone
+ohne Flüssigkeit
+und jetzt eingeblendet
+wie geht das Ganze formelmäßig
+daher, Sie können es fotografieren
+oder Sie haben mir im Chat
+oder im entsprechenden
+Forum ganz kurz
+eine Zeile, dann schicke ich Ihnen
+das
+die Gewichtskraft scheinbar, es ist nichts anderes als
+Gewichtskraft mit dem Auftrieb
+Das ist also hier die beiden Komponenten, die können wir umschreiben in den Auftrieb und der Auftrieb ist wiederum bekannt, Achtung eben, beim Auftrieb geht es um die Dichte der Flüssigkeit und nicht um die Dichte des Körpers, das ist ja das Verdrängte.
+Und dann können wir das umstellen aufs Volumen hin.
+Das ist ein bisschen Treibarbeit wieder, aber eigentlich nichts Großes.
+Und wenn wir hier also uns überlegen, wie das Volumen mit diesen ganzen Kräften und Dichteverhältnissen zusammenhängt,
+dann können wir hier unten auch in der zweiten Ansatzidee ebenso uns die Gewichtskraft anschauen.
+die hat natürlich wieder was zu tun mit dem Volumen des Körpers und dessen Gewichtskraft und der Dichte.
+Und jetzt setzen wir das zusammen und dann sehen wir interessanterweise,
+dass die Dichte des Körpers sich errechnen lässt durch irgendwelche Kräfte, die ich messen kann.
+Einmal diese Kraft hier unten, einmal diese Kraft hier oben, das sind die zwei Messungen, die ich gemacht habe.
+Und ich habe hier hinten noch diesen einen Terminus, das ist die entsprechende Dichte der Flüssigkeit, also eines Wassers.
+Und jetzt kann ich das Ganze mit den Zahlwerten einsetzen und kriege also raus, dass der Verdrängungseffekt einer gefälschten oder legierten Krone ein anderer ist,
+als das, wenn ich den Körper einfach nur als reines Material habe,
+weil aufgrund der unterschiedlichen Dichte unterschiedlicher Krafteffekte auftauchen.
+Und ich brauche dafür nicht einmal wissen, welches Volumen hat die Krone, sonstige Sachen mehr,
+sondern ich kann mich darauf beschränken, auf die drei Größen, die ich hier gezeigt habe.
+soweit eigentlich eine logische Anwendung
+des gleichen Spiels
+das hatte ich jetzt vorhin schon gesagt
+jetzt wollen wir zum
+letzten Teil in der Stunde
+uns in der Erostatik noch
+navigieren und ich gehe davon aus
+dass wir
+nicht mehr wirklich viel in den Rechnungen
+schaffen werden, das macht aber auch nichts
+ich habe hinten
+in dem relativ langen Foliensatz
+da noch einiges drin
+dazu gebe ich vielleicht
+am Abschluss der Stunde noch ein paar Kommentare.
+Aerostat.
+Gleiches Spiel, wie wir gerade gemacht haben,
+nur jetzt in der Luft.
+Und warum ist es wichtig?
+Weil es uns im täglichen
+Leben betrifft. Ich weiß nicht, wie die
+Wolkenwählung heute jetzt gerade ist.
+Wahrscheinlich nicht so.
+Aber solche Quellwolken
+zum Beispiel, kennen Sie
+bestimmt alle. Ich glaube, es gibt es sogar
+als Video mal eingeblendet.
+Funktioniert jetzt nicht, spielt keine Rolle.
+Sie kennen es aber vielleicht, dass unter anderem bei Wolkenschichtung verrückteste Dinge auftauchen.
+Hohe Türme, dicke Gewitterzellen, die sich auch heutzutage immer mehr noch drastischer auswirken durch den Klimawandel, weil die Wettergebiete fast stehen.
+Und man sieht auch sehr deutlich Anrisskanten, wie zum Beispiel hier, dass erst ab einer ganz bestimmten Höhe sich Wolken bilden, unterhalb nicht.
+Das haben Sie vielleicht schon auch mal irgendwo in der Natur so gesehen.
+Und das hat was mit den Dichterunterschieden in der Luft zu tun.
+Wir alle kennen das, ich hätte das schon mal, oder wir alle haben davon schon mal gehört,
+dass wenn man auf einen hohen Berg geht oder dass man auf dem Mount Everest keinen vernünftigen Sauerstoff mehr hat,
+dass man da nicht atmen kann.
+Das liegt daran, dass da die Dichte so viel niedriger ist und entsprechend weniger Luftmoleküle durch unsere Lunge.
+mit dem gleichen Atemvolumen
+durchgeschlossen.
+Man kann sich da extrem
+spannende, aufwendige
+Dinge angucken,
+solche Molken,
+gar nicht mal so lange, ja,
+die habe ich ja auch schon mal in der Gegend
+gesehen, die haben jetzt was
+dazu zu tun, dass da irgendwelche kalten
+Warmfronten aufeinandertreffen, aber alles,
+was hier an irgendwie gearteten
+Pfeilbewegungen drin ist, hängt
+mit dichter Unterschied zusammen.
+Irgendwo geht es immer darum.
+Und das bewegt die Wolken nach oben, nach unten, nach links und nach rechts, am Ende auch, und führt dazu, dass wir also verschiedenste Formationen darbekommen.
+Um die Basis dazu zu schaffen, wollen wir uns kurz die Aerostatik angucken und gleiches Spiel wie vorher machen.
+Wir sind ja in der Stimmungsträge, Fluide, alles was wir jetzt mit Flüssigkeit gemacht haben, keine Sorge, nicht in dem Detailgrad.
+Aber ein Stückchen davon machen wir auch wieder mit diesem Gasteilchen.
+Das hier soll also ein Luftteilchen sein und dem verpasse ich hier mal so eine Art Zielscheibe
+wieder, die nichts anderes als den Schwerpunkt darstellen soll und auch den wirkt der Gewichtskraft.
+Ich überleite, ob da ab und zu kleine oder auch große Buchstaben für den Gewichtskraft
+verwendet werden.
+Das kleine g und das macht auch Sinn, weil an dieser Folie g für Gas steht und g wird hier für die Gewichtskraft genutzt.
+Und dieses Teilchen hat also eine Gewichtskraft, die kann ich jetzt hier gleich mal reinschreiben,
+F kleines g ist, und jetzt geht es um die Dichte, und jetzt geht es aber hier um die Dichte des Gases.
+Die Dichte des Gases. Das Gas ist bei uns wahrscheinlich Luft mit bekannter Dichte.
+Steht übrigens auch bei jeder Formelsammlung. Das kommt später.
+Und wir können uns jetzt hier drin so einen richtigen schönen Würfel denken.
+Den habe ich jetzt hier nicht fertig gezeichnet.
+Der Würfel hat eine obere und eine untere Fläche A.
+Und auf diese Fläche wirken noch zusätzliche Kräfte, nämlich einmal die Kraft von unten und einmal die Kraft von oben.
+Das ist das gleiche Spiel, wie wir es jetzt vorher ziemlich detailliert durchgespielt haben.
+Dieses F unten ist nichts anderes als der Druck, der unten herrscht bei der Fläche.
+Und F oben ist P und dP mal A.
+Also wir haben eigentlich einfach die gleiche Spielerei angewendet, die wir schon kennen.
+Hier haben wir eine Höhe dH.
+Und hier unten haben wir den Druck P zu Null.
+Oder, ich stelle es besser, Entschuldigung, ich schreibe hier unten P hin als Druck.
+Und hier oben nehme ich P plus WP.
+Und hier haben wir bewusst das Vorzeichen so gewählt.
+So kennt man es ja aus dem vorigen Anschauen.
+Vielleicht, dass die entsprechenden Drücke sich aufaddieren.
+Und jetzt nehmen wir, die Summe über alle Kräfte, das ist immer das gleiche Spiel, ist 0.
+das heißt es
+ich will jetzt versuchen
+die Kräfte
+in die richtige Reihenfolge zu bringen
+F U zeigt nach oben
+F G zeigt nach unten
+und F O zeigt nach unten
+das heißt ich muss
+wenn ich zum Beispiel F U positiv ansetze
+die anderen beiden negativ ansetzen
+und wenn ich das einsetze
+ich mache hier mal so einen Kasten hin
+dann habe ich einen besseren Platz
+dann sieht es alles P mal A
+Minus
+So, ein bisschen knapp da vom Platz, ich hoffe, Sie kriegen das noch besser hin als
+Was habe ich gemacht? Ich habe einfach nur eingesetzt diese drei ganz simplen Formeln für die Kräfte.
+Eins, zwei, ich schreibe hier leider nicht, Entschuldigung, zwei und die drei.
+Und dann kann ich da drüben noch schreiben, dp ist also nichts anderes als, da kürzt sich fast alles raus, die Dichte des Gases mal der Gewichtskraft mal dh.
+Und man sieht, ich habe dp zunächst bewusst so angesetzt, dass es nach oben arbeitet, also hier der Druck p ist.
+Und hier, so steht es in meiner Zeichnung, ein Druck ist der p ergibt und noch ein dp obendrauf.
+Und logischerweise kommt das raus, was zu erwarten ist, nämlich auf dem Mount Everest ist der Druck nicht höher, sondern niedriger.
+Also dp ist minus Dichte der Luft mal Gewichtskraft mal Höhe von unserem Umgebungsdruck hier auf der Erdoberfläche.
+Wenn wir nach oben gehen, wird es immer weniger, weil wir immer weniger an entsprechender Luftschicht auf uns stehen haben.
+Wenn wir ins Weltraum hinweichen, dann gibt es keinen Druck, da steht keine Luftsäule
+oben drauf, aber dann kommen wir vom Weltraum runter auf die Erdoberfläche und der Druck
+wird immer höher, bis wir auf der Erde sind und dann wird er noch deutlich höher, wenn
+wir ins Wasser abtauchen.
+Dazu kommen wir hoffentlich am Ende der Spritze noch ganz kurz.
+Ich hoffe, das ist von der Logik einigermaßen nachvollziehbar.
+und wir können damit jetzt auch arbeiten und dinge rechnen und jetzt kommen wir zu der
+geschichte die wir nicht am anfang abgefragt habe ob sie in der thermodynamik mit den idealen gasen
+sich befasst haben weil luft gilt in erster näherung als ideales gas obwohl es gar kein
+eigentliches gas ein eigenes ist sondern luft ist ja ein gemisch aus sauerstoff und stickstoff
+und irgendwelchen Spurengasen und so weiter
+und CO2
+nichtsdestotrotz
+verhält sich das zum Glück einigermaßen ähnlich
+wie ein ideales Gas
+und wir wollen
+in diesem sogenannten
+Iso-Core-Modell
+Iso-Core steht hier für Druck
+Entschuldigung
+Iso-Core stimmt natürlich nicht
+Isobar wäre
+konstanter Druck
+Iso-Core heißt konstantes Volumen
+oder konstante Dichte und wir wollen jetzt mal anschauen bei so einer Messstation, das
+ist der klassische Druck, den wir hier auf der Erdoberfläche messen, das sind die Normalbedingungen
+bei 15 Grad, 1,013 Bar, also nicht 1 Bar, sondern ein bisschen mehr und wir wissen die
+Gaskonstante der Luft, mit den Gaskonstanten haben Sie sich in den Thermodynamikklümen
+befasst und wir sollen den Druck abschätzen auf Mount Everest, wenn wir das verwenden,
+was wir gerade gelernt haben, nämlich die barometrische Höhenformel.
+Und dann gucken wir mal, was da rauskommt.
+Ist relativ einfach von der entsprechenden Rechnung.
+Die Dichte der Luft ist nichts anderes als...
+...als...
+...als...
+Ja, ich schreibe sie vielleicht nochmal hin.
+Also die barometrische Höhlenformel,
+eine Gleitung ist P, T ist Rho, P mal T ist Rho mal R und das können wir umstellen zu
+dem, was ich hier unten schreibe, P0
+durch R11
+mal
+T
+Also PV aus
+MRST heißt
+Ihre Formel aus der Thermodynamik, tut mir leid, da oben habe ich geschnudert, also P mal V ist M mal R S mal T, das werden Sie so in der Thermodynamik kriegen, so, und dann, wenn Sie das umschreiben, dann können Sie daraus auch machen, P ist Rohluft mal R Luft mal Temperatur.
+Und dann passt die Formel unten, bitte um Entschuldigung, und jetzt können wir das einsetzen, 1,013 mal 10 hoch 5 Newton pro Quadratmeter, durch, und jetzt kommt dieser Wert hier, RL, 287 Joule je Kilogramm mal Kelvin.
+Und da kommt natürlich der klassische Effekt, wir müssen mit Kelvin arbeiten, das heißt T0 in Kelvin ist nichts anderes als 273,15 Kelvin plus 15 Grad Celsius.
+Das sind also 288,15 Kelvin, sonst haben Sie da ein Problem.
+Und da kommt raus, ist 1,225 Kilogramm pro Kubikmeter.
+Also, so viel wiegt Luft.
+Und jetzt können Sie mit der barometrischen Höhenformel arbeiten.
+P L von Z ist nichts anderes als P 0 minus 1.
+Mein Gewichtskraft, meine Höhe.
+Und das setzen Sie alles ein.
+Das ist jetzt einigermaßen, ich sag mal, stumpfsinnig, die Sachen abzuschreiben.
+Alle mal natürlich was, was Sie immer wieder brauchen, wenn Sie Menschenaufgaben bekommen.
+Ich hoffe, Sie können schnell schreiben, vielleicht schneller als ich.
+Und dann kriegen Sie was Schönes raus, nämlich minus 5.040 Newton pro Quadratmeter.
+Und was sagen Sie dazu?
+Ich weiß, ich habe jetzt da unten hingeschrieben, da kommt jetzt gleich noch was eingeblendet,
+das hilft jetzt nichts, aber ich lasse es deswegen nur so kurz stehen.
+In welcher Höhe h wäre der Druck gerade 0?
+Kann ich Ihnen auch noch die Antwort liefern?
+Das P von Z0 ist gleich 0, führt dazu, dass ihr ein H von 8430 Meter kriegt.
+Also soll heißen, ein Druck auf 0, kennen wir gerade,
+was heißt es denn mit meinem negativen Druck da oben?
+Negativer Druck ist Unfug. Es gibt keinen negativen Druck.
+Druck kann irgendwo Null sein, das ist im Vakuum, da gibt es gar keinen Druck und ich kann nur
+positive Werte erhalten.
+Ja, das hatten wir uns
+vor einer Stunde in der Strömungstraining
+auch per Definition
+mal so hingeworfen und haben gesagt,
+irgendwie drückt irgendwas auf das Flüssigkeitsteilchen
+von außen drauf.
+Ich kann natürlich bei Druck unterschieden
+negative Werte kriegen und kann sagen,
+der Druck hier drin ist kleiner
+als da draußen, minus so und so viel
+Millibar oder irgendwas.
+Aber ich kann keinen absoluten Wert von unter 0
+kriegen. Da stimmt was nicht.
+Da stimmt deswegen was nicht,
+weil ich eine Annahme gemacht habe, da oben, die nicht passt.
+Nämlich, dass wir konstante Dichte hätten, und das ist hier auch ausgerechnet worden,
+mit 1,225 Kilogramm pro Kubikmeter, das passt aber nicht.
+Weil die Dichte der Luft ist da oben nicht genauso wie hier unten.
+Also wenn ich jetzt behaupte, da steht die ganze Luft oben drauf,
+dann kommt da irgendwann Null raus, das ist aber Quatsch,
+weil da oben steht nicht so viel Luft, da oben sind weniger Luftteile.
+Das sollte Ihnen diese Seite, diese Folie verinnerlichen, dass man damit zwar rechnen kann,
+und dass es in Teilen auch gar nicht so schlecht ist, und zwar haben wir für die Vorlesung als Daumenschätzwert
+okay bis etwa 500 Meter, meine ich, ich müsste gleich nochmal nachschauen,
+Ich gucke auch gleich nach am Tablet. Habe ich, glaube ich, 500 Meter mal notiert.
+Also okay bis ungefähr 500 Meter über 0 Punkt.
+Wenn ich aber schon irgendwo hier auf dem Nebelhorn rumspaziere, dann wird da so stark eine Verzerrung auftreten,
+weil ich eine Annahme gemacht habe, die einfach nicht passt, nämlich Isochobos Modell, konstante Dichte,
+dass das hier, das stimmt aber eigentlich in der Wirklichkeit nicht.
+Schlechtes Modell, schlechtes Ergebnis. Für manche Höhen in Ordnung, für manche Höhen nicht in Ordnung.
+Und jetzt können wir uns davon abweichender mal angucken, was passiert, wenn wir andere Modelle ansetzen.
+Nämlich könnten wir als eine Verbesserung uns die Dichte unterschiedlicher anschauen, was ich gerade sehr deutlich motiviert habe.
+Wir können uns auch noch zusätzlich Temperaturunterschiede anschauen.
+Wir könnten uns auch noch anschauen, dass da oben die Erdanziehungskraft weniger stark ist und noch was.
+Kompliziert es mehr, dann wird das Modell genauer, dann wird die Rechnung komplizierter.
+Aber wir müssen halt aufpassen, und das ist das, was ich in den verbleibenden Minuten noch ein bisschen mitgeben soll,
+dass wir für verschiedene Fragestellungen uns unterschiedlich schweres Geschütz bei den Berechnungsmethoden brauchen
+oder unterschiedlich hemmsärmlich herangehen dürfen.
+Und wir werden uns jetzt in dem Fall 2 nochmal kurz angucken, was auf uns zukommt, wenn wir Dichterunterschiede mit berücksichtigen müssen.
+Das ist auch Thema des prüfbaren Stoffs, wohingegen wir dann abbiegen in etwas, was wir eher als Exkurs behandeln.
+Wir wollen das gleiche Spiel wie gerade nochmal nachvollziehen
+und setzen damit noch was mit an, was aus der idealen Gasgleichung herauskommt,
+nämlich, dass die Dichte mit dem Druck und der Gaskonstante der Temperatur zusammenhängt
+Und jetzt machen wir die Rechnung einmal etwas schlauer und setzen nicht die barometrische Höhenformel direkt an,
+sondern nutzen bei der Integration, die gleich auftreten wird, dann den wichtigen Hinweis, dass eben die Dichte von der Höhe abhängt.
+Also dieses wird uns jetzt gleich mit beschäftigen.
+Ich glaube, dass der Rest nicht aufgezeichnet ist auf Ihrer Folie.
+Ich gucke mal nach. Doch, das ist schon der Fall. Wir können also umstellen auf den Unterschied zwischen der Dichte an einer bestimmten Stelle und einer höheren Stelle. Das heißt, der Druckunterschied, wenn ich nach oben wandere, ist nichts anderes als der Dichteunterschied mal der Gewichtskraft und der Höhenunterschied.
+Und eben aufpassen, dieses hier hängt von der Höhe ab.
+Und wenn ich jetzt, kann ich noch umschreiben, hier mit der Formel 1, die Dichte ersetzen und Druck, Gaskonstante und Temperatur hier einsetzen,
+dann habe ich eine Gleichung.
+Hier steht ein P, hier steht ein P und hier steht ein H und das sind Differenziale links und rechts.
+Das schreit nach Trennung der Variablen.
+Eins muss auf die linke Seite von der Gleichung, eins muss auf die rechte Seite.
+Und das ist das, was hier durchgeführt wurde.
+Das P wird hier rübergeholt und das H steht auf der anderen Seite.
+Ich habe keine Abhängigkeiten mehr.
+Also ich habe jetzt erstmal den Ansatz, die Gewichtskraft ist nicht höhenabhängig
+und auch die Temperatur ist nicht höhenabhängig.
+Also Rest sind feste Werte.
+hier steht irgendeine Konstante, aber hier steht irgendwas, was sich im Differential auftaucht
+und hier steht etwas, was im Differential auftaucht.
+Was ist der logische nächste Schritt in dieser Rechnung?
+Ich muss mich mit einer Integration beschäftigen, ich muss hier ein Integral bilden und hier ein Integral bilden
+und zwar integriere ich hier einmal vom Druck der anderen Umgebung,
+also auf der Nulllinie herrscht
+auf der Erdoberfläche
+und
+bis zu einem Druck, der eben oben
+irgendwo herrscht, aus der Höhe H
+und ich gehe hier
+von der Ebene Null bis
+auf die Höhe H
+also ich habe hier an der Oberfläche Null
+den Druck P Null
+und ich gehe jetzt rauf
+und der Druck wird da oben niedriger
+bis zu dem Druck
+P von H
+Ich werde einfach nur noch mal ein Stück weit eingeteilt, ob diese Gerade, die ich da gerade skizziere, da oben richtig ist oder nicht.
+Ich werde mal dahingestellt, weil ich nur noch die Bezugspunkte nenne.
+Also von der Oberfläche bis hoch auf die Höhe A, vom Druck 0 auf einen Druck, der an der Höhe liegt.
+Und jetzt führen wir das Integral durch.
+Ich weiß nicht, ob das bei Ihnen eingeblendet ist.
+Nein?
+Dann werde ich das jetzt hier nicht schnell noch skizzieren.
+Was ist denn das Integral, was da auf der linken Seite steht?
+Der p, p integriert über p.
+Wer weiß es?
+Integral von 1 durch x dx.
+Ja, ja, nein, es ist LN. LN, ganz genau.
+LN von, in der Falle P und nicht X.
+Danke, dass Sie sich mit melden dazu, oder sich dazu zu Wort kommen.
+Und der Rest hier hinten ist ganz einfach.
+RL mal T
+mal
+klein h und wieder an den Grenzen.
+Also mit dieser eckigen Klammer
+außen, das weiß ich nicht, ob Sie das so
+aus Ihrem bisherigen Betrieb oder
+Schulbetrieb kennen, das ist nichts
+anderes, als dass ich die Grenzen da angehe.
+Mit verschiedenen Varianten,
+mit Strichen oder mit so einer Klammer,
+wie auch immer, obere und untere
+Grenze. Und dann müssen Sie sie halt einsetzen.
+Beim LN
+ist es so, dass Sie
+Hier Lnp minus Lnp0 bekommen und drüben ist es nichts anderes als obere Grenze eingesetzt.
+Achtung auf das Minuszeichen. Minus untere Grenze eingesetzt, hier unten ist 0.
+Also bleibt hier Minus stehen.
+G durch RL mal D.
+Und hier haben wir das große H. Das ist nämlich die Höhe.
+Sieht ja alles schon ganz schön aus.
+Jetzt, was ist denn der lnp minus der lnp0?
+Noch ein kleiner Ausflug in die Basis der Mathematik.
+Das kann ich anders aufschreiben als ein Quotient.
+lnp durch p0.
+Das hilft mir sehr, weil jetzt steht links nur noch irgendwas mit ln und rechts irgendwelches
+Zahlenwerk. Jetzt will ich den ln loswerden. Was mache ich? Exponenzieren. Alles eine Ebene
+nach oben. Das heißt, ich gehe oben drauf und markiere e hoch und hier habe ich e hoch. Und
+Und das heißt, was da rauskommt, ist nichts anderes als p durch p0, das ist das Argument von diesem, was da im ln stand,
+gleich e hoch minus g durch rl mal t mal a.
+Das ist der Vorfaktor, den ich versucht habe so zu skizzieren.
+Der Bruchstrich ist vielleicht nicht so besonders glücklich gewählt.
+Ich nehme mal doch lieber gerade ein Bruchspielchen, dass man es klarer sieht.
+Also, P durch P0 ist nichts anderes als irgendein E, oder P ist P0 mal irgendeine E-Funktion.
+Und man sieht schon, was ich da oben skizziert habe mit meinem hellblauen Farbton, passt so ganz nicht,
+weil da kommt irgendwie was mit einer E-Funktion hin.
+Das heißt, der Druck wird in der Höhe nicht so schnell abnehmen, wie ich es eigentlich gedacht habe.
+Und das macht auch die Sache mit unserem Mount Everest Beispiel deutlich besser.
+Da oben ist die Dichte kleiner und deswegen wächst der Druck langsam.
+Und deswegen kippt die Grafik dann nach oben.
+Warum kippt die jetzt nach oben?
+Das heißt, dass ich gegenüber was Linearem noch nicht so schnell den Druck anstehe.
+Ich brauche mehr Höhe, um auf die gleichen Druckabfall, damit ich einen Druckabfall bekomme.
+Diese Formel bedeutet nichts anderes als, Druckabfall ist weniger ausgeprägt als in dem linearen, vorigen, einfachen Modell.
+Haben Sie alle mitschreiben können?
+Das ist doch ein recht wichtiger Gedanke.
+Und Sie sehen, das Ganze hier rein skizziert ist ein bisschen geschmiert. Tut mir leid, das ist in früheren Vorlesungsaufzeichnungen noch.
+Das, was hier so etwas geschwungen ist, sollte eine Gerade sein. Das Grüne, das war unser erstes Modell, bei dem wir gemerkt hatten, dass irgendwann der Druck Null erreicht wird.
+und zwar an dieser Höhe von 8430 Metern, wenn ich das richtig noch im Kopf habe,
+wohingegen in Wirklichkeit wird der Druck, so wie es beim Roten dargestellt ist,
+weniger schnell abfallen und die Nullpunkt wird noch nicht erreicht werden.
+Wir sehen, dass für diesen entsprechenden Fall, diesen Punkt, wo der andere Grad Null ist,
+da haben wir hier 0,37 bar.
+Das heißt, wenn ich das jetzt hier einzeichnen will, in meiner Grafik meinetwegen, dann würde ich hier genau auf die Stelle kommen.
+Und hier könnte ich, wenn ich in dieser Achse ein p einzeichne, dann könnte ich hier sagen, das ist 0,37 bar.
+Wohingegen hier p0 an der Oberfläche 1 bar stehen würde, oder?
+Aber diese entsprechenden Darstellungen sind vielleicht ein bisschen gewöhnungsbedürftig,
+weil wir immer wieder die Beschriftung auf den Achsen recht schnell verändern,
+je nachdem, was wir halt gerade brauchen.
+Das haben Sie aber in der Werbeübertragung jetzt neulich auch schon so mitgenommen.
+Weitere Verbesserungen des Modells, was könnte ich machen?
+Ich hatte es vorhin schon erwähnt, dass die Erdanziehungskraft sich nicht stark verändert.
+Natürlich ist die dann irgendwann weniger, wenn ich nur weit genug von der Erde weggehe.
+Aber der Effekt ist nicht so ausgeprägt.
+Was viel ausgeprägter ist, ist, dass die eine Temperaturschichtung haben.
+Sie kennen das alle, oder? In den Bergen ist es kälter.
+Wer weiß, wie viel?
+Gibt es so Faustregeln, Daumenregeln?
+Pro 100 Meter, wie viel?
+Wer von Ihnen Skihochtouren geht, der sollte ein bisschen Blut haben.
+Also nicht ganzen Grad geht es auf 100 Meter.
+Also das heißt, auf der Zugspitze, weiß ich nicht, sind 2.500 über uns.
+Es sind eher 0,6 oder 0,7 Grad.
+Das heißt, da oben hat es vielleicht 15 Grad weniger als hier unten.
+Wenn wir hier jetzt gerade 15 Grad haben draußen, das könnte ganz gut passen,
+haben wir wahrscheinlich etwa 0 Grad auf der Zugspitze.
+Und dieser Effekt, der spiegelt sich natürlich auch wieder,
+in dem ganzen Spiel, was wir zuvor
+uns angeguckt haben
+und wenn wir diese Integration
+durchführen, die wir vorhin
+gemacht hatten, wir hatten diese Stelle
+wo irgendwo dp durch p stand
+und hier dh
+das hatte ich hier drüben
+hingestellt und die Gewichtskraft da hoch
+r und t
+wenn ich das t auch nicht konstant habe
+sondern das t eben auch wieder
+eine Abhängigkeit von der Höhe hat
+nämlich ein Anfangswert t0
+dann gilt hier auf meiner Erdoberfläche, meinetwegen sind es die 15 Grad,
+dann sehe ich schon, dass wenn ich in die Höhe gehe, dass die Temperatur auf 10 Kilometern schon gewaltig kalt ist,
+da bin ich bei minus 50 Grad und wenn ich jetzt auf den Malfeberist laufe,
+dann erwarte ich dort Temperaturen von unten, die minus 40 Grad, also brutale Kälte
+und diese entsprechende einfache Formel kann ich in die Integration auch noch reinnehmen
+und ich habe es ganz bewusst ausgegraut.
+Ich will Sie damit nicht konfrontieren.
+Es geht darum, dass Sie das gleiche Spielchen wieder machen,
+Sie müssen wieder den Logarithmus bilden
+und Sie haben aber hier das Problem, dass dann auch ein Logarithmus
+auf der anderen Seite der Gleichung mit reinkommt.
+Und auch hier können Sie exponentieren,
+Sie haben aber dann eine relativ unschöne Formel,
+bei der sich das nicht so auflöst
+da haben Sie ein e hoch
+und da ist wieder ein Logarithmus
+und der Effekt
+hier sehen Sie es 0,65
+also nicht ganzen Grad
+oder eher 0,6,5 Grad
+pro 100 Meter
+als
+entsprechende Größe
+was ist der entsprechende Effekt
+der sich dadurch ergibt
+nichts anderes als dass der Druck
+wieder einen anderen Zahlenwert annimmt
+und zwar
+ist der, jetzt hier nochmal gezeigt, die Temperatur verändert sich linear, der Druck verändert sich wieder anders.
+Wenn ich mich richtig entsinne, ist das als Zahlenwert etwas höher gewesen als das, was wir zuvor hatten.
+Ich muss jetzt selbst mal kontrollieren.
+Ja, 0,37, das tut mir leid, das ist etwas niedriger.
+Das heißt, unsere erste Korrektur vom Modell 1 aufs Modell 2 war zu deutlich, zu drastisch.
+Jetzt müssen wir wieder ein bisschen zurück korrigieren, weil dieses Modell 4, da haben wir eins ausgelassen,
+ist wieder ein bisschen weiter in eine andere Richtung verschoben.
+Der Druck, den wir vorher berechnet hatten, war noch steiler, jetzt wird es wieder ein bisschen flacher.
+Und was ist noch eine andere Variante? Ich meine, wir leben heutzutage in einer Welt von JetGPT und Co.
+Wenn Sie jetzt wissen wollen, wie hoch ist der Druck am Mark Everest, dann fragen Sie Ihren schönen KI-Assistenten, wie hoch ist jetzt der Druck?
+Und er sagt Ihnen ja, zack, da ist der Wert. Alles klar. Wie macht er das?
+Naja, am Ende steckt da nichts anderes dahinter, dass da eigentlich gar nicht viel berechnet wird, sondern es gibt katalogisierte Werte.
+Und die kann ich zwischen interpolieren, entweder grafisch, das machen wir so, wenn wir in der Klausur sind, weil ich lasse Sie leider kein Chat-Limitin nutzen, aber Sie dürfen sehr wohl dann solche Hilfsmittel nutzen, irgendwelche Grafiken, wo man schnell abliest, das machen wir jetzt gleich zusammen noch ganz kurz.
+oder in der Praxis werden Sie sich halt an solchen entsprechenden Tools bedienen,
+die aber auch als Input natürlich die entsprechende Basis brauchen.
+Ohne Daten ist die KI nichts wert.
+Sie muss auch die Sachen wissen.
+Sie kann die natürlich auch nachrechnen, aber in dem Fall ist das deutlich einfacher.
+Jetzt sehen wir hier ein Diagramm, das ziemlich überladen wirkt.
+Da geht es irgendwo um Temperatur in Rot.
+Da geht es irgendwo um Dichte in schwarz und da geht es in dem anderen Fall hier in rot, was eingezeichnet um verschiedene Höhen, die abgetragen werden.
+Und jetzt navigieren wir mal da drauf und gehen auf den entsprechenden Höhenwert hier unten und schauen Sie mal an, was ist der Katalogwert auf Mount Everest los.
+also 8.848 Meter, ist etwa hier zwischen 8.000 und 9.000. Da stehen hier Kilometer,
+deswegen mit der Skala so zu wählen. Und wir gehen auf das, was hier in Blau skizziert ist.
+Sie sehen dieses helle Blau hier, p zu p0.
+Und ich trage hier hoch zu p zu p0 und wir sehen hier, kommt man wahrscheinlich raus, irgendwie sowas.
+Dieser Wert, das ist also sowas wie p zu p0, ist ungefähr gleich 0,31.
+1, zu deutsch, p von dem Mount Everest, 8848 Meter, ist ungefähr gleich 0,31 mal den Druck,
+den wir hier unten auf der Normal-Ebene haben, ich schreibe jetzt einfach mal bar hin,
+wenn Sie es noch genauer wollten, dann müssten Sie mal 1,013 bar schreiben,
+weil hier steht nämlich P0 1,01325 bar.
+Also da ist der Normaldruck gegeben.
+Ich schreibe einfach mal 0,01325 P0.
+P0 ist ungefähr 0,31 bar.
+Das ist jetzt gar nicht genau.
+Okay.
+Wir haben also verschiedene Möglichkeiten, das Gleiche zu berechnen.
+Das war jetzt ein etwas längerer Exkurs in diese Richtung.
+Wir haben 11.06 Uhr, wir wollen in knapp 10 Minuten Schluss machen.
+Ich möchte Ihnen noch eine Grafik mitgeben, die das Ganze ein bisschen verdeutlicht und für uns extrem hilfreich ist.
+Sie sehen hier alles eingeblendet und das ist vielleicht auch gut, weil Sie sich dann hoffentlich ein bisschen konzentrieren können aufs Zuhören.
+Wir haben also gesehen, wenn hier ein hoher Berg ist, dann haben wir da oben irgendwelche Drücke, die wir berechnen können.
+Und wir haben hier eine Achse, die ist hier rüber aufgetragen auf dieser rechten Seite des Bildes.
+Da ist der Druck P, hier unten ist 1 bar oder 1,013.
+Und wir sehen diese rote Linie, wo herausgekommen wäre, wenn wir dieses einfache Modell nehmen,
+wo die Dichte konstant ist und die Temperatur konstant ist, dass das negative Werte ausmacht.
+Das macht keinen Sinn.
+Wir haben ein genaueres Modell kennengelernt, das war das Modell 2 oder Modell 3.
+2 war mit Dichte unterschieden und 3 auch noch mit Temperaturunterschied.
+Und wir sehen, dass das Vergebnis deutlich verändert, insbesondere bei so großen Höhen.
+Und in Oranges noch wird reingestrichelt, was passiert, wenn ich aus der Tabelle Werte rausnehme.
+Es kommt wieder ein bisschen was anderes raus, aber sowas ähnliches.
+Wir sehen aber auch, dass all diese entsprechenden Modelle in dem Bereich, in den Höhen bis zu etwa 500 Meter, ziemlich genau die gleichen Ergebnisse liefern.
+Und deswegen ist es für Sie absolut in Ordnung, im Vorlesungsbereich bis 500 Meter mit diesem Modell 1 zu arbeiten, was extrem praktisch, hemmsärmelig und auch in Ihrer Vorbeschreibung sauber dokumentiert ist.
+und das hier entsprechend als Formel, jetzt bin ich etwas, schaut hier, barometrische Höhenformel S2.5 darlegt.
+Wohingegen, wenn Sie mit sehr hohen Höhen konfrontiert sind, dann müssen Sie aus der Formelsammlung S2.6 verwenden,
+das ist die barometrische Druckverteilung in isothermer Atmosphäre,
+das ist also die entsprechend eine Modellstufe schwierigere Formel.
+Also das hier mündet in S2.5, ich schreibe das jetzt einfach mal nur so hin,
+dass wir das einfach noch griffbereit haben, wohingegen dieses, ein schwierigerer Modell,
+in S2.6 einmündet.
+Das sind zwei katalogisierte Formeln
+und Sie können natürlich immer mit S2.6 arbeiten,
+das ist überhaupt kein Problem.
+Stellen Sie sich immer gut auf,
+aber im Sinne von einer Klausur,
+wo die Zeit wahrscheinlich knapp ist,
+tun Sie gut daran, wenn Sie wissen,
+was Sie nutzen können.
+Was ist hier noch drauf auf dem Bild?
+die eine Sache, nämlich was passiert denn unter Wasser? Unter Wasser erinnert sich der Druck auch,
+und hier ist deutlich zu wenig, stark. Eingezeichnet auch, wie sich der Druck viel
+drastischer erhöht, mit nur etwas wenig Wassertiefe. Also nur 10 Meter drauf Wassertiefe
+bedeuten Druck von etwa 2 bar. 20 Meter sind 3 bar, 30 Meter 4 bar. Sie sehen also, da wird der
+Druck sehr schnell sehr viel größer. Wohingegen wir nach oben hin irgendwo immer Bereiche haben
+zwischen 1 bar und 0 bar, obwohl wir bis zu fast 10.000 Meter in die Höhe. Das ist also wieder der
+gleicher Effekt, den wir auch schon vorher behandelt hatten, dass nämlich hier oben hier die Dichte der Luft eine Rolle spielt und hier unten die Dichte des Wassers. Und die Dichte des Wassers ist eben tausendmal höher als die von der Luft. Deswegen passiert da ordentlich was, wenn ich nur wenig abtauche. Deswegen müssen Sie ordentlich Druckausgleich machen, wenn Sie unter Wasser irgendwas hochtauchen.
+Und hier gibt es auch nur ein Modell.
+Das stimmt nicht ganz.
+Die Temperaturabhängigkeit sollte man sich durchaus auch anschauen.
+Aber zumindest diese Dichteabhängigkeit schauen wir uns hier nicht an,
+weil Wasser ist nahezu inkompressiv.
+Das heißt, anders als in der Luft kann ich es eben nicht,
+wenn ich Luft in die Luftpumpe reinpacke und zusammendrücke,
+zusammendrücke, kann ich da schön das komprimieren.
+Wenn ich Wasser reintrage, da kann ich feste draufdrücken, da passiert gar nichts mit dem Wasser.
+Okay?
+Deswegen existiert zumindest keine Unterscheidung zwischen Modell 1 und Modell 2 unter Wasser.
+Soweit hatten wir jetzt hoffentlich da nochmal uns Zeit gelassen und es genau angeschaut,
+weil ich denke, es macht keinen großen Sinn, dass ich Sie jetzt in irgendwelche Aufgaben hineinstürze.
+Ich möchte aber mit Ihnen dieses Übungsblatt ansprechen.
+Und da auch vielleicht noch mal die Bitte für diejenigen von Ihnen, die gerade das Moodle griffbereit haben und Internetverbindung passt, dass Sie mal kurz gucken, ob Sie das finden können auf der entsprechenden Aufgabensammlung.
+Das ist da schon drin. Ansonsten müsste ich es noch nachtragen. Ja, kann man es finden?
+Ich glaube, dass in Moodle das hinterlegt sein sollte.
+Wir haben uns geeinigt, glaube ich, dass wir Ihnen alle, in Anführungsstrichen,
+das heißt natürlich nicht, dass es ein Korpendium der Welt ist,
+aber alle aus unserer Sicht wichtigen, vorbereitenden Aufgaben für die Klausur auf einmal hinstellen.
+Aber ich werde dann immer hinweisen, jetzt sind wir da.
+Und wir sind jetzt da, dass wir in der Strömungstechnik das, was auf dieser Folie hier ist, bearbeiten können.
+Sie brauchen nur an einer Stelle ein bisschen was auf der Thermodynamik, das sollten Sie aber jetzt auch haben.
+Nämlich genau diese entsprechenden barometrischen Totformeln.
+Oder beziehungsweise die ideale Gasgleichung, darum geht es mir.
+Und Sie sehen, die Aufgaben sind so aufgebaut, dass die kurzen Verständnisfragen haben.
+Wenn Sie da Fragen zu haben und die nicht verstehen, dann bitte unbedingt melden.
+Die werden wir nicht unbedingt alle durchnehmen.
+Und dann haben wir Übungsaufgaben.
+Und ich gebe Ihnen mal so die Idee mit.
+Ich werde ausgewählt von diesen Aufgaben hier im Raum rechnen.
+Keine Frage.
+Aber es ist nicht der Sinn, dass wir alle von diesen Aufgaben durchrechnen.
+Das schaffen wir auch zeitlich gar nicht.
+Vielmehr ist es so, dass es wahrscheinlich großen Sinn macht, Sie sind jetzt alle aus der WI und keine Fahrzeugtechnik-Leute dabei,
+unterhalten Sie sich mal untereinander und nehmen Sie sich ruhig mal die Möglichkeit,
+dass Sie sich in einer kleinen, mittleren oder großen Gruppe kurz zusammen über diese Aufgaben drüber gucken
+und schauen, ob Sie die Basisansätze davon einigermaßen verstehen und, wenn Sie sich da für die Klausur vorbereiten,
+die Lösungen, die sind immer alle mitbegeben, die Lösungswerte, ob Sie die errechnen können.
+Und wenn Sie Probleme haben, dann schreiben Sie ins Forum, dann greifen wir uns die Aufgabe
+raus, die da gebraucht wird. Wenn Sie natürlich ins Forum schreiben, erhesse bitte alle Aufgabenrechnung,
+weil ich kann nichts, dann bringt es auch nicht viel, weil ich komme von der Zeit her nicht
+durch, dann machen wir halt nur, also ich war ein bisschen getriggert durch Sie, wollte
+Die Aufgaben kann man hier auch jetzt im noch verbleibenden Aufgabenteil, der ist immer nur so dargestellt,
+vielleicht blende ich bei den nächsten Stunden da so ein bisschen was ein,
+kann man sich immer so angucken, hier steht irgendwas mit Minuten, das ist mehr oder weniger übertragen,
+das, was Sie in etwa an Punkten erwarten können.
+Also da vier Punkte ganz einfacher Viskositätsberechnung, hier fünf Punkte,
+Das nennt sich Swimmingpool. Da geht es um irgendwie Drücke unter Wasser. Da ist auch noch ein Bildchen mitgegeben, wo man sieht, dass der Druck an der verschiedenen Tiefe irgendwie unterschiedlich ist.
+Hier steht 16 Minuten. Sie sehen also, das ist ein bisschen eher eine schwergewichtige Aufgabe. Dann von dem Gewicht her schon etwa so, fast so, wie wir es in der Klausur ja erwarten.
+Weil wir haben ja gesagt, wir machen 90 Punkte über die drei Fächer, nicht wahr?
+Und das heißt, 30 Punkte etwa entfallen auf die Strömungstechnik.
+Und wenn Sie jetzt noch Verständnisaufgaben dazu haben,
+dann sollten Sie sich vielleicht erwarten, dass etwa 20 Punkte in der Rechneraufgabe kommen
+und 10 Punkte in der Verständnisaufgabe.
+Etwa.
+Das ist einfach nur mal so.
+Soweit dazu.
+Jetzt haben wir 11.16 Uhr.
+Da bleibt mir leider nicht mehr viel Zeit zur Zusammenfassung,
+Aber die habe ich ja eigentlich gegeben an der Stelle und eben, glaube ich, ganz gut nochmal dargestellt, was wir bisher gemacht haben.
+Wir werden uns dann nächstes Mal bei der Strömungstechnik in die bewegten Fluide hinein beschäftigen.
+Das heißt, das ist sozusagen das Endbild bei Hydrostatik, Aerostatik.
+Und Sie haben am Freitag wieder bei Herrn Happig, Kermodynamik.
+Und nächsten Montag bin ich wieder da mit Fernübertrag.
+Alles Gute.

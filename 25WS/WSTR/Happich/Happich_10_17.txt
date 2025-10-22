@@ -1,0 +1,1572 @@
+In der Vergangenheit, die Hochkriminelle, ich habe in Braunschweig studiert, vor vielen, vielen Jahren,
+tatsächlich mal angefangen als Wirtschaftsingenieur. Das sind alles Wirtschaftsingenieure, oder?
+Haben wir noch einen Fahrzeugtechniker dabei? Wir üben schon.
+Was sagen wir?
+Danke.
+Danke.
+Hervorragend.
+Also, vor vielen Jahren, mal als Wirtschaftsingenieur angefangen, ich habe dann irgendwann für mich beschließen können,
+dass ich lieber in den Rheinmaschinenbau gehe, rein spaziert, gleich üben, Achtung, ja, nein.
+Doch, doch, schon reden.
+Kann reden, super. Wir üben gerade so miteinander reden.
+Also, Herr Robst, das kann ich.
+Habe dann danach im Bereich Fahrzeugtechnik vertieft und auch im Bereich Landtechnik dann promoviert
+und bin dann, ich vermute, irgendwas hat das mit der EGP zu tun,
+die Möglichkeit beim Fendt in Magdeburg anzufangen als Systemingenieur in der Softwareentwicklung.
+Das heißt, ich habe die letzten zwölf Jahre Elektronik und Softwareentwicklung hinter mir, obwohl ich Maschinenbau bin.
+Also, Sie sind Wirtschaftsinventarier, Sie sind sowieso so ein bisschen Hybride, so rein per Definition.
+Kenne ich ganz gut, die finde ich auch gut.
+Was habe ich da gemacht? Ich habe in dem Bereich sehr viele Projekte gemacht.
+Ich habe relativ viel Fügung mitmachen dürfen.
+Ich habe relativ bald dann schon vor mittlerweile elf Jahren angefangen, ein Team aufzubauen.
+Erst bescheiden und dann irgendwann ab, ich glaube, 17 ging es los.
+Innerhalb von drei Jahren habe ich 14 Leute aufgebaut.
+Das war, glaube ich, die härteste Kurve, die Engineering jemals hatte in einer Abteilung.
+Und habe dann vor zwei Jahren hier angefangen.
+Denn was hat das mit der Thermodynamik zu tun?
+Es macht das gar nicht so viel mit der Technik.
+Aber ich sehe mich schon einfach auch als ausgebildeten Ingenieur,
+der diese Themen sicherlich, dadurch, dass man da nicht drum gearbeitet hat,
+nicht so tief nachvollziehen kann, wie jemand, der nur mal Motoren ausgelegt hat oder Turbinen ausgelegt hat.
+Aber ich glaube, ich habe ein ganz gutes Gespür dafür, was relevant ist in der Grundausbildung des Ingenieurs.
+Und deswegen sind wir hier zusammen.
+Bleibt die Frage vorne weg.
+Wir üben schon mal. Ja, nein, keine Frage.
+Wenn man sich einmal traut, ist es einfacher.
+Das ist der erste Schmerz und dann geht es einfach besser.
+So, der Kollege Hesse, vielleicht noch ganz kurz dann zur Aufteilung.
+Die Thermodynamik läuft komplett bei mir.
+Das wird von Herrn Hesse auch schon geklärt haben.
+Wir haben gewisse Überschneidungen.
+Überschneidung. Das ist der Grund, weswegen das
+nicht so en bloc läuft. Erst das eine, dann das
+nächste, dann das dritte, sondern dass wir
+das parallel fahren. Sie werden
+das wahrscheinlich
+nach der nächsten Vorlesung von mir
+schon erleben. Da wird nämlich auf einmal
+Herr Hesse das Thema Ideal darstellen,
+was wir heute schon vielleicht so weit
+kommen, wird er dann schon
+einfach weiterführen. Das heißt, das ist
+ein bisschen give and go.
+Ich kann das nachvollziehen, wenn das für
+Sie anders ist als
+Das ist eine Herausforderung. Da können Sie sich aber relativ sicher sein, dass der Kollege Hesse und meine Einer das schon auch sehen.
+Und es bedeutet leider eins, dass es relativ lang ist, in den Vorlesungen zu sitzen.
+War ein Verpassen, okay, weil Freitagmorgen, weil hier die Donnerstage sind, in Braunschweig waren die Donnerstage gefährlich.
+Muss ich zugeben. Also nicht die Donnerstage, die waren höchst erfrischend.
+Und der Freitag war dann halt gefährlich.
+Schauen Sie, dass Sie viel da sind.
+Tatsächlich ist das die beste Vorbereitung auf das, was dann irgendwann in die Prüfung kommt.
+Das macht Kollege Hesse auch so.
+Ich kann aber natürlich erst mal nur von mir sprechen.
+Ich bin jemand, der auch immer mal den einen oder anderen Hinweis fallen lässt.
+Ich werde jetzt nicht sagen, welche Aufgabe ich vorfahre.
+Vergessen Sie es.
+Aber durchaus so, das ist vielleicht mal relevant.
+und das ist vielleicht
+einfach dann auch zu mathematisch.
+Denn das, was wir hier nicht machen, ist
+höhere Mathematik. Das heißt aber auch
+in der Erwartungshaltung. Wer hier rausgeht,
+hat eine Grundlage für Thermodynamik
+verstanden.
+Ich will nicht böse sein, aber keiner von Ihnen wird wahrscheinlich
+unbös zu sein.
+Jemand, der sich da reinkniet, wird das können.
+Aber nur von dem, was ich zu erzählen habe,
+wird keiner danach in der Lage sein,
+eine hochkomplexe Thermomaschine
+auszulegen. Aber
+wir werden ein Gefühl dafür haben, was das eigentlich
+Das heißt, Prozessführung in thermodynamische Prozesse zu haben.
+Und dass thermodynamische Prozesse uns permanent umgeben,
+ich glaube, das hat Herr Hesse letztes Mal auch schon gesagt,
+wir reden jetzt mal miteinander, wo finden wir denn thermodynamische Prozesse?
+Gleich die erste Frage.
+Nein, Sie haben ja nicht mal die Frage gehört, alles gut.
+Setzen Sie sich erstmal hin.
+Wo finden wir die? Ganz klassisch.
+Jeder kennt sie.
+Auch das ist, ich formuliere es mal so, Thermodynamik hat ja den Dynamikanteil bei.
+Wärmevertragung, Thermodynamik, wir werden uns das tatsächlich angucken, wie sieht das eigentlich aus,
+wenn Druckabbau in bestimmten Systemen passiert. Im weitesten Sinne könnte man das auch wählen,
+hier jetzt Kohlen-Säure-Bremse, würde ich das Ding aufmachen, würde ich das machen,
+und auf einmal hätten wir Thermos-Bremse, im weitesten Sinne. Andere Vorschläge?
+Bis man zum Beispiel eine Kohle losnimmt, reinpustet und dann schaut man, was für eine
+Richtung, sehr wohl, das würde ich eher als mechanisch bezeichnen.
+Aber das ist tatsächlich Dynamik im Bereich auf Strömungs- und Impulsverhalten, auch nicht
+unbedingt so unserst.
+Sie erinnern sich mal, alle mündigen Bürger, zwei Jahre zurück, Riesendiskussionen, ein
+Herr Habeck hat sich hingestellt und bestimmte Dinge gesagt, die in anderen Lagern dieser
+der politischen Landtagsbericht ganz so gut angekommen sind,
+Sie erinnern sich, was es war?
+Das Thema Wärmepumpen-Diskussion.
+Wir werden uns angucken, warum eine Wärmepumpe...
+Sie sind Ingenieure.
+Ist es logisch, dass etwas einen Wirkungsgrad größer einsetzt?
+Nee, ne?
+Also wenn ich irgendwas wo reinstecke, kann ich nur genau so viel rauskriegen.
+Alles andere ist Perpetuum mobile.
+Das musste ich irgendwann mal so in der Schutzklasse lernen,
+dass diese tolle Idealvorstellung leider überhaupt nicht klappt. Seitdem mag ich Jim Knopf auch
+nicht mehr, weil der hat immer gesagt, dass das geht. Noch eine Idee? Entschuldigung,
+Wärmepumpe wird immer gesagt, hat mehr als eins. Wir werden hier lernen, warum. Also
+die Wärmepumpe hat nämlich keinen Effizienzwert größer als eins. Hat sie nicht von der Maschine
+her. Wir werden lernen, warum man trotzdem sagen kann, dass es ein Effizienzwert größer
+eins ist. Was haben wir noch für Maschinen? Sie kennen diese kleinen Türmchen, wo diese
+kleinen Kugelbalken, wo diese bösen, bösen Atome drin verarztet werden, dass sie ganz
+viel Energie kriegen. Und daneben stehen riesige Kühlschirme, das ist Thermodynamik. Die nehmen
+Energie, die der Prozess der Energieversorgung braucht, muss weckkühlen werden. Dieses Weckkühlen
+ist ein thermodynamischer Prozess. Gerne, ich bin jemand, der das mag, im Sommer meinen
+Kühlschrank auf, abends nehme ich natürlich mein alkoholfreies Bier aus meinem Kühlschrank.
+Nächstes Ding, Kühlschrank. Wie geht das? Wir haben draußen 25 Grad, aber einen guten Sommer hat auch mal mehr.
+Und im Kühlschrank haben wir 8 Grad. Erscheint irgendwie nicht logisch.
+Das ist auf der Mutter. Wir haben ganz einfache Dinge, wie aus irgendwelchen Gründen versuche ich mein Fahrrad auf 8,5 Bar aufzupumpen.
+Der Mantel von meinem Fahrrad kann das. Und pumpen, und pumpen, und pumpen, und pumpen, und irgendwann wird die Hand richtig heiß.
+Auch das ist eine gute Nachricht.
+Gut. Ich gebe Ihnen gleich noch eins vorne weg. Das ist immer so ein bisschen mein Start,
+um Ihnen klar zu machen, warum ich wie agiere über die nächsten Wochen.
+Ich muss das jetzt leider in drei unterschiedlichen Diagrammen machen.
+Also, wir werden relativ einfach anfangen.
+Ich werde Sie jetzt nicht komplett überladen.
+Wir werden mit Dingen einfach anfangen, die wir verstehen, die einfach sind, die augenfällig sind, die easy sind.
+Ganz am Ende haben wir auf einmal einen Dampfkraftwerkprozess.
+Mehrphasen, Wasser, Dampf geht ineinander über.
+Sie haben sich vielleicht mal gewundert, warum das eigentlich geht,
+dass ich auf so einem Herd, ich stecke da die ganze Zeit Energie rein, wie blöd,
+das Wasser erreicht 100 Grad und wie heiß wird es dann später?
+Wie heiß wird der Dampf?
+Der Dampf wird dann irgendwann mehr, aber warum wird das Wasser nicht mehr als 100 Grad?
+Obwohl ich die ganze Zeit Energie reinstecke.
+Da gibt es dieses komische Ding, das heißt Enthalpie. Auch da werden wir ein bisschen reingucken.
+Die Enthalpie beschreibt, zu welchem, ich setze jetzt mal einen Satz, Energie aufgebracht wird,
+um von einer Phase, Wasser, in eine andere Phase, Dampf, zu kommen.
+Die macht das berechenbar, dass ich da die ganze Zeit Energie reinstecken muss, ohne dass das Ding heißer wird.
+So, das werden wir uns ganz am Ende ansehen. Das heißt, wir haben eine leere Kurve von relativ easy auf relativ groß.
+Die Schwierigkeit, dem gegenüber wollen Sie natürlich eigentlich, ich kann jetzt ganz langsam anfangen und immer so den gleichen Inhalt bringen.
+und dann wird es am Ende des Semesters richtig viel, was pro Stunde reinkommt.
+Was Sie eigentlich wollen, ist ja eine Belastung über die Zeit,
+mehr oder weniger konstant.
+Es wird den einen Freitag geben, wo jeder keine Belastung haben will,
+da kann ich aber nichts dran ändern.
+Das bedeutet aber im Umkehrschluss fast,
+wenn ich das erreichen will,
+Wenn das da aber meine Schwierigkeitsstufe ist, was muss ich mit der Geschwindigkeit vom Stoff machen?
+V vom Stoff.
+Wie muss die aussehen?
+Wir haben was zu lernen, nämlich wie lesen wir Diagramme.
+Und tatsächlich werden uns Diagramme die nächsten bis zum Januar vielleicht so viel begleiten.
+Das da ist die Wunschvorstellung.
+Da wollen wir hin.
+Wenn der Stoff immer mehr wird, oder die Schwierigkeit immer mehr wird,
+muss natürlich die Geschwindigkeit der Stoff immer weniger werden.
+Wenn ich das mit dem multipliziere, komme ich ungefähr hier hin.
+Oder?
+Das ist mal nur qualitativ.
+Weiß der Deutsche das für Sie?
+Ich werde die nächsten drei bis vier Wochen nicht konstant für Acht geben.
+Heißt für Sie auch, bleiben Sie da dran.
+Ich sage das ganz bewusst, ich habe das ja auch schon ein paar Semester mitgenommen.
+Die nächsten Wochen sind kriegsentscheidend dafür, ob Sie das am Ende noch alles verstehen.
+Bleiben Sie dran. Das sind triviale Beispiele.
+Versuchen Sie sie trotzdem genau zu durchdenken, versuchen Sie sie trotzdem genau zu verstehen.
+Weil ich irgendwann anfange, diese einfachen kleinen Beispiele aufeinander aufzubauen.
+Und dann wird nachher gedacht, was wäre los.
+So, jetzt habe ich meine Bedienhilfe vergessen.
+Fragen von mir an mich.
+Ne, ja, nein, wir gehen noch. Alles gut.
+So, Kollege Hessel ist letztes Mal bei der Stelle, sagte er mir, stehen geblieben, wo es ein bisschen um Vorzeitenkonvektion geht.
+Da machen wir, wenn ich das irgendwann mal angemacht habe, in der Runde einfach weiter.
+Wir gucken jetzt rein, wie sieht eigentlich Energie aus, wenn wir das Ganze beschreiben.
+Ich habe eben schon mal so Worte fallen lassen wie System, thermodynamisches System.
+Und tatsächlich, das ist eine der wichtigsten Sachen, ich habe Ihnen ja schon gesagt, wir stecken da die ganze Zeit Energie rein.
+Energie ist etwas, was uns hier im Leben permanent begleiten wird.
+Wenn wir uns das mal ein bisschen systematisch angucken, haben wir einmal die Energie geteilt von einem System.
+Das bedeutet aber auch, dass in diesem System irgendwie Energie ist.
+Das ist ein Packend.
+Äußere kinetische Energie, äußere potenzielle Energie.
+Die beiden kennen sich.
+Technische Mechanik.
+In dem Moment, wo es ein bisschen über Statik geht,
+guckt man sich an, was ist eigentlich eine potenzielle Energie,
+wenn der Ball runterfällt, warum tut er das eigentlich
+und warum verliert er dabei seine Energie?
+Kinetische Energie, genau das Gleiche.
+Wenn sich etwas mit einer bestimmten Geschwindigkeit bewegt,
+ist da eine bestimmte Energieform drin.
+brauche Geschwindigkeit im Quadrat
+Energie
+um das Ding wieder abzubremsen
+das sind diese relativ stumpfen
+Geschleudigungen A und Geschwindigkeit V
+alles nichts Neues
+also hier
+1,5
+mc Quadrat
+potenzielle Energie
+auch bekannt
+m mal g mal der Höhe
+Warum kann ich hier einfach postulieren, dass etwas eine innere Energie hat?
+Ganz einfach. Wenn ich einen Luftballon nenne und der ist aufgepustet und ich mache den auf.
+Der bewegt sich nicht, er hat keine Geschwindigkeit v bzw. c.
+Er fällt nicht runter, da kommt keine Komponente z, die beiden sind 0.
+0. Trotzdem passiert mit dem irgendwas. Hier, jetzt sind wir bei dem Beispiel Tiamo, also
+ich hätte hier, ich habe total kaltes Wasser drin, aber hier ist jetzt einfach mal 100
+Grad heißer Tee, aus irgendwelchen Gründen mag ich nicht mal einen Tee trinken. Das Passierte,
+Wenn der abkühlt, der verliert Energie.
+Ich könnte diese 100 Grad nehmen und irgendwas anderes aufwärmen.
+Wärmeübertragung.
+Wärmeübertragung ist nichts anderes als Energieübertragung.
+Von einem System geht Wärmeenergie in das andere System.
+Hier steckt also irgendwie Energie drin.
+Und das ist die innere Energie.
+Dann gibt es noch die übertragene Energie.
+Da sind wir jetzt genau bei dem, wenn hier thermodynamische Energie drin ist,
+innere Energie, thermodynamische Energie, wenn hier innere Energie drin ist,
+so wie ich eben schon gesagt habe, die kann irgendwie übertragen werden.
+Und die kann einmal übertragen werden in Arbeit und einmal in Wärme.
+Wärme kann man nicht so viel Wärme übertragen und ein bisschen drum.
+Wir werden das hier eher von der theoretischen Seite,
+Vielleicht hat das auch Kollege Hesse gesagt, Lärmübertragung ist tatsächlich ziemlich viel beschrieben worden.
+Wir gucken uns eher das mathematisch Deterministische davon an.
+Da wo Modelle hinterstecken, auch da sind Modellvorstellungen, muss man ganz ehrlich sagen,
+aber es ist eher berechenbar, es ist eher handelbar und es hat weniger mit den Ähnlichkeitstheorien zu tun.
+Sie werden wahrscheinlich dann irgendwann so ab Dezember, werden Sie verstehen, was ich meine,
+da wird es dann nämlich genau in dem Bereich beim Herrn Hesse losgehen.
+So, was bedeutet jetzt Wärmeenergie?
+Wärmeenergie bedeutet, hier ist irgendwas drin, ich halte meine Hände dran, Weihnachtsmarkt,
+das ist jetzt keine Thermokanne, sondern eine schöne warme Tasse, und meine Hände werden warm.
+Dabei wird Wärme übertragen, das ist eine Energieform.
+Nächster Punkt, wir bleiben beim Glühwein, ein Monat hin, egal.
+halte so einen kleinen Propeller über meinen Glühwein. Was passiert mit dem? Der fängt an sich zu drehen.
+Damit wird Arbeit übertragen. Ich könnte, wenn ich jetzt einen ganz heißen Glühwein habe und mit ganz kaltem Luft
+und einem ganz effizienten Propeller, könnte ich dann mit einem kleinen Hebenmotor antreiben.
+Er wird Arbeit übertragen.
+Darum reite ich da so drauf rum.
+Wir haben drei Energieformen, die wir betrachten müssen, und zwar mathematisch ausgedrückt.
+Alles, was ich eben erklärt habe.
+Ich versuche immer so ein bisschen die Mathematik, oder die Physik eher, mit dem normalen Menschenverstand.
+Ich bin kein Physiker, deswegen traue ich mich, so etwas zu sagen, zu vereinen.
+Denn das, was ich gerade gesagt habe, wenn in der Thermospanne sich irgendwas ändert,
+die Änderung der inneren Energie ergibt sich immer aus der Summe der Änderung der Wärme
+und der Summe, also der Summe aus Änderung Wärme und Änderung Arbeit.
+Eigentlich relativ logisch, richtig?
+Ja, nein, alles gut.
+Relativ logisch.
+Kennt jeder.
+Der Reifen ist aufgepumpt, ich mache noch einen, zischt, brucht, pennt, ich kann daraus Arbeit machen, da kann Wärme entweichen, tatsächlich ist es nachher ein Massestrom, da kommen wir auch noch zu, dass sich die, ein System kann ihre Energie ändern, indem es mit Massestrom durchzogen wird, der seine Energie ändert.
+Aber erstmal ganz grundsätzlich, ein geschlossenes, gerade ein geschlossenes System.
+Die Änderung der inneren Energie ergibt sich aus der Änderung von Arbeit und Änderung von Lärm.
+Hier einfach nochmal zusammengeschrieben, wenn wir es uns genauer angucken.
+Kinetische und potenzielle Energie, das ist dann das Gesamtsystem.
+Da ist die kinetische Energie noch drin.
+Die beiden haben wir auch beschrieben eben schon.
+Thema Geschwindigkeit brauche ich nichts zu sagen.
+Das kennen Sie, das ist nicht an.
+Dennoch bleibt die innere Energie stehen.
+So, innere Energie ist natürlich auch eine Frage der Differenzbetrachtung.
+Jetzt gucke ich in ein System vorher und ein System nachher,
+also Thermoskanne kalt, Thermoskanne warm.
+Die Änderung der inneren Energie ergibt sich also aus
+der inneren Energie zum Zustand 2
+und der Energie zum Zustand 1.
+Das ist das, was hier drin steckt.
+Zustand 2, Zustand 1.
+Ich habe übrigens vergessen zu fragen, ob das mit dem Moodle-Download geklappt hat,
+aber wenn Sie sich nicht beschweren, dann wird es geklappt.
+Das ist etwas, was uns immer wieder überfallen wird.
+Bitte behalten Sie das in Hinterkopf.
+Wenn ich von Delta spreche, meine ich immer zwischen zwei Zuständen.
+Eigentlich liegt das in Delta drin.
+Ich weiß aber, dass die Mechanik schon ein paar Tage her ist und das gerne vergessen wird.
+Wir werden dann auch noch über kleines d und großes d sprechen, also in den Differenzialen.
+Hier Delta berechenbar, Einzelstand, zweiter Zustand.
+Gut.
+Wir werden jetzt ein bisschen eintauchen in Zustandsgrößen.
+Was sind Zustandsgrößen?
+Er hat geschrieben, er hat einen Zustand.
+Also Zustand, Donnerstagabend, lassen wir das, aber solche Zustände meinen wir nicht,
+sondern eher die Zustände, die für die Thermodynamik relevant sind.
+Hierbei gibt es eine Unterscheidung, das ist wichtig.
+Extensiv und intensiv.
+Extensiv, also das ist jetzt ein bisschen langweilig, bin ich mir darüber im Klaren,
+wir müssen trotzdem durch diese Grundlagen einfach mal durchfräsen,
+bevor es dann total spannend wird und wir Mathe und Physik machen.
+Also, extensiv heißt, wenn ich zweimal das Gleiche habe, dann verdoppelt sich die extensive Zustandsgröße.
+Intensiv ist nicht unbedingt zur Stoffmenge proportional.
+Dadurch dann auch nicht, wenn ich es addiere, also wenn ich es zusammenfüge, ist es nicht additiv.
+Beispiele dafür, haben Sie welche in Petto?
+Wahrscheinlich nicht, ne?
+Also, wenn ich die, also ich habe ein Kilo Wasser mit 15 Grad und ich habe ein Kilo Wasser mit 45 Grad.
+Wenn ich die zusammenfüge, was ist die Masse von den beiden?
+Es gibt jetzt übrigens nicht Ja und Nein, sondern es gibt jetzt Antwort.
+Also, 1 Kilo 15 Grad, 1 Kilo 45 Grad, was ist die Masse von beiden zusammen?
+Gut, menschenverstand, normale Erfahrungswerte, das war nicht korrekt, Entschuldigung.
+Also, ich verbuche das unter, wir müssen noch das mit der Kommunikation wissen, das sind 2 Kilo.
+Genauso heißt das aber auch, wenn ich 15°C und 45°C zusammenpacke, sind das 60°C.
+Also 15°C und 45°C sind 60°C, oder?
+Richtig.
+Masse, extensiv.
+Temperatur, intensiv.
+Okay?
+Dann gibt es noch eine Sonderform.
+Wir haben ein paar Aufgaben im Petto.
+Deswegen kommt das Molare auch mit rein.
+Wenn ich von extensiv spreche, gibt es doch das Spezifische und das Nullare.
+Spezifisch ist das, was, auch da, Sie werden Ingenieure sein, gehe ich von aus,
+wollen es zumindest, ich versuche Sie dabei zu unterstützen,
+spezifisch, das ist was Spezifisches, das ist irgendwie für uns auch greifbar.
+Aber zum Beispiel Masse, bezieht sich immer auf die Masse, also eine intensive Größe, auf die Massebeziehung ist eine spezifische Größe und das Ganze gibt es auch mal auf die Teilchenzahlbeziehung, eine monatelöse Größe.
+Was heißt das jetzt zum Beispiel? Sie alle kennen nämlich eine spezifische Zustandsgröße.
+eine Größe, die auf die Masse
+bezogen ist.
+Durchaus,
+wobei da eher die Beschleunigung
+gehen drin ist, deswegen ist die Masse
+dabei.
+Na ja, wenn wir das Gewicht, oder also, zum Beispiel kennen Sie, das ist der Kern der Dichte, Wasser hat, naja, ein Liter pro Kilogramm.
+Liter pro Kilogramm ist eine spezifische, ist eine spezifische, exklusive Größe.
+Kilogramm pro Liter, ja, dann die Dichte.
+Gut. So, wir gucken ein bisschen rein. Was heißt denn das eigentlich?
+Und das ist jetzt Vorgaben.
+Das Beispiel kennen wir. Das ist die Temperatur, die wir uns eben schon angeguckt haben.
+Das sind klassische Zustandsgrößen. Temperatur, Druckdichte. Das sind eher intensive.
+Auch so weit nach wie vor.
+Temperatur hatten wir eben schon, Druck natürlich genau das gleiche.
+Wenn ich einen Luftballon mit 15 Bar habe und den anderen Luftballon mit 5 Bar, dann ist das nicht zusammen 20 Bar.
+Ist relativ selbsterklärend.
+Gleiches bei der Dichte.
+Wenn ich ein sehr, sehr leichtes Gas habe, mit einer geringen Dichte und ein sehr, sehr schweres Gas mit einer schweren Dichte,
+ist die sich ergebende Dichte natürlich irgendwo in der Mitte und nicht beides zusammen.
+Dann haben wir hier unten Masse, innere Energie und Volumen.
+Sie sehen schon, hier so ein bisschen ausgegraut.
+Bitte nicht vergessen, aber wir werden es die nächsten Wochen noch nicht weiter betrachten.
+Entalpie, Entropie, Stoffmenge kommt immer mal wieder vor, aber gerade Entalpie, Entropie, die brauchen wir erst hier.
+Übrigens, interessanter Fakt, in meinem Wahlfach, obwohl, also ich meine, das ist klar, wo der Riemer ist,
+klappt es immer wieder, dass die Leute sich ganz, ganz doll ans Fenster klemmen,
+um dann irgendwie versuchen, aus 35 Grad, 45 Grad noch irgendwas zu lesen.
+Und das machen sie ganz geschickt. Also, fast.
+Abgestimmt?
+Auch hier, Vorgabe. Was gucken wir uns genau an?
+Spezifisches Volumen, spezifische Rohrwarnung, spezifische Innere Energie, spezifische Enthalpie, spezifische Entropie und die Dichte.
+Relativ, also zwei davon kennen wir schon.
+Aber jetzt gibt es genau diesen Punkt der spezifischen Inneren Energie, Enthalpie, Entropie.
+Die wird insofern relevant, weil wenn wir uns Prozesse angucken, haben wir zwei Möglichkeiten, das zu tun.
+Ich lasse Sie erstmal dabei steigen.
+Also, auch erklärend. Warum erzähle ich das? Wir haben zwei Möglichkeiten, uns Prozesse
+einzugucken. Entweder spezifisch. Spezifisch heißt an der Stelle etwas verallgemeinert,
+indem wir sagen, wenn ich 5 Kilo eines bestimmten Stoffes um 100 Grad erwärme, dann bezieht
+ich das exakt auf 5 Kilo. Dann gebe ich meine Energiemenge auf 5 Kilo bezogen aus. Wenn
+ich es aber allgemein beschreibe und sage, naja, ich weiß gar nicht, wie viel da jetzt
+der Durchsatz ist, aber ich kann beschreiben, wie viel Energie ich für ein Kilo brauche,
+dann habe ich die allgemeine Form. Und das werden wir in unseren Prozessen uns immer
+wieder angucken. Es wird Fragen geben wie, keine Ahnung, in dem Ballon sind 200 Liter.
+dann ist die Frage des Energiebedarfs auf dieses exakte Beispiel gerechnet.
+Wenn ich aber allgemein frage, von einem bestimmten Gas, wenn ich das um 50 Grad erhöhe,
+wie viel spezifische Energie muss ich reinstecken, dann ist das immer auf das Kilogramm bezogen.
+Jetzt sehen Sie noch eins, vielleicht den obersten und den untersten Wert, den kennen wir schon, oder?
+In der untersten Dichte, schauen Sie sich die Einheit mal an, das da, spezifisches Volumen und Dichte ist nichts anderes als der gegenwärtige Kehrwert.
+Habe ich Ihnen eben schon angeboten, ich mache manchmal so Hinweise, schreiben Sie sich das auch, wie man wieder gern gesehen hat, Trick in Aufgaben.
+ich gebe spezifisches Volumen
+und Sie haben eine Formel,
+in der steht Dichte.
+Daran denken.
+Okay?
+So.
+Wie heißt das jetzt beim Zusammenführen?
+Eigentlich haben wir uns das eben auch schon angeguckt.
+Wenn ich das eine Teilsystem
+und das andere Teilsystem zusammenbringe,
+komme ich nachher zu einem Teilsystem.
+Also ich verbinde die beiden.
+Mit einem Teilsystem gibt es da jetzt vier oder vierzehn Pfeile, das wird konkret gleich.
+Dann gibt es zwei unterschiedliche Dinge, die sich ergeben.
+Nämlich ein V1 plus, das hier ist jetzt ein V-Strich.
+Das gleiche gilt für die innere Energie.
+Das gleiche gilt für im Grunde alle Größen, die hier oben mit dabei sind.
+Masse wird auch verdoppelt, Teilchenmengen sind verdoppelt.
+Aber der Druck ergibt sich jetzt aus einem neuen P1 und einem neuen P2
+und die Temperatur, also unter der Prämisse, dass P1 und P2,
+Druck und Temperatur, Druck 1 und Temperatur 1, vielleicht Druck 2, vielleicht Druck 1 und Temperatur 2.
+Das wissen Sie jetzt selbst aus Ihrem normalen Leben.
+Haben die unterschiedliche Temperaturen, haben die unterschiedliche Drücke,
+ist das natürlich irgendeine Funktion von beiden.
+Ich sage bewusst irgendeine, weil Sie alle schon wissen, wie sich das verhält.
+Nämlich auf die Masse bezogen.
+Es ist dann meistens einfach das der Median, der Wert ist der Mittelwert.
+Das haben wir aber ja noch gar nicht bewiesen.
+Wir sind ja Physiker, ne?
+Hier, in dieser Vorleitung.
+Das muss ja erst alles mal theoretisch verweisen und dann wenden wir an und dann sagen,
+aha, jetzt haben wir die Welt verstanden.
+Eigentlich haben sie die schon verstanden.
+Gut, jetzt haben wir noch einen wichtigen Punkt.
+Und zwar homogene und heterogene Systeme.
+Also Netzverstandsgrößen, Haken.
+Jetzt gucken wir mal ein bisschen Richtung System.
+Ganz grundsätzlich, wir haben homogene Systeme, wir haben heterogene Systeme.
+Wenn ich ein homogenes System habe, habe ich immer genau eine Phase.
+Heterogene Systeme haben in aller Regel zwei oder mehr Phasen.
+So, das heißt aber auch für Sie, ich mache jetzt ein bisschen den Anwendertrick, hier
+kocht das Wasser.
+Da ist definitiv Wasser und Samen, das sind zwei Phasen, das ist also ein heterogenes
+System.
+Wenn ich das jetzt abkühlen lasse und es nicht mehr kocht, was ist es dann?
+Das ist eine Fangfrage, ich weiß es nicht.
+Ja, es ist jetzt wieder mal Ja und Nein, das Antwort ist nicht richtig.
+Also, wir lassen das ja abkühlen, ist das dann ein homogenes System oder ein heterogenes System?
+Es gibt hier kein Falsch bei mir.
+Also in der Prüfung gibt es dann leider Falsch.
+Aber hier sind ziemlich viele Fragenkonstrukte erlaubt.
+Ja, warum?
+Weil es gibt dann noch den flüssigen Zustand.
+Ja. Sehen das alle so?
+Gut. Die Fangfrage dabei ist, die richtige Antwort wäre gewesen, hab ich, ist da noch Luft drin?
+Denn wenn das Ding abkühlt, was passiert dann? In aller Wege, bei einem normalen Kopftopf.
+Das ist irgendwann nur noch Wasser. Und was ist im Rest vom Topf? Luft.
+Also haben wir dann doch, also das Blöde daran ist bei der Frage, sind beide Antworten richtig.
+Denn ist das Ding komplett abgeschlossen und es bildet sich keine Luft, was schwierig wird, weil dann das mit der Dichte nicht ganz funktioniert,
+dann wäre es nur noch eine Phase.
+Geht, ich müsste es extrem abkühlen.
+Werden wir uns angucken, werden wir merken.
+Wenn ich das als normalen Topf lasse, sind es wieder zwei Phasen, weil ja noch Luft dabei ist.
+Gut?
+So, Zustandsgrößen brauchen wir einrichten.
+Die sind hier natürlich dann, und das ist der Trick, die sind überall gleich.
+Wenn hier nur noch Wasser drin ist, das ist jetzt komplett bis oben hin mit Wasser gefüllt,
+dann ergibt sich die Frage nicht, ob da noch Luft drin ist oder nicht, okay?
+Dann ist das überall gleich, überall der gleiche Druck, überall das gleiche spezifische Volumen,
+überall die gleiche Temperatur.
+dann ist es homogen. Hier, die Temperatur tatsächlich könnte sogar noch überall gleich sein,
+was irgendwo dem Bereich des Dampfes nicht mehr ganz passen wird, aber kann gleich sein
+und kann mit technischen Mitteln respektive ich enge den Druck ein und schließe das Luftdicht ab,
+schaffe ich das, aber das Wasser und der Dampf haben definitiv unterschiedliche Dichte,
+haben definitiv unterschiedliches spezifisches Volumen, weil Dampf hat, ne, braucht deutlich mehr Dampf für ein Kilo als bei Wasser.
+Das heißt hier, in aller Regel, nicht überall gleich.
+Gut. Zustandsgrößen. Heterogenes, homogenes System. Gucken wir mal weiter. Gleichgewichtsänderung.
+Denn, Zustandsgrößen können sich ja ändern.
+Temperatur kann sich ändern, Druck kann sich ändern, Volumen kann sich natürlich auch ändern, wenn ich irgendwas verdichte.
+Masse kann sich auch ändern, wobei Masse meistens durch einen Wasserstrom verändert wird und dann ändere ich wieder mein System.
+Wir gucken jetzt auf ein geschlossenes System und einen Gleichgewichtszustand.
+Hier unten sei Luft drin und da oben ist ein Gewicht von 50 Gramm.
+Daraus ergibt sich ein bestimmter Druck und ein bestimmtes Volumen.
+Wir berechnen das jetzt nicht, wir gucken mal nur qualitativ drauf.
+Wenn ich aber jetzt aus dem, und das ist ja eine schöne Darstellung geworden,
+also das stellen Sie sich bitte weniger verpixelt vor,
+das passiert, wenn man 16 9 auf 4 zu 3 Formate tauscht,
+da kommt auf einmal sowas daraus.
+Wenn ich jetzt diese 50 Gramm entnehme und 5 Kilo draufnehme, was passiert?
+Genauso wie dargestellt, das Ding geht weiter rein.
+Nichtsdestotrotz, und das ist jetzt der wichtige Punkt, wir sprechen in beiden Fällen von einem Gleichgewichtszustand.
+Denn irgendwann, dieses Gewicht tue ich da drauf, wabbelt der Zylinder vielleicht so ein bisschen vor sich hin,
+Irgendwann steht der an. Relativ zügig. Je nach Fluid.
+Das ist ein Gleichgewichtszustand.
+Dieser Zustand wird ohne Änderung von außen einfach gleich bleiben.
+Kleiner Hint. Sie werden in der Wärmeübertragung lernen, dass es das nicht gibt.
+Weil Wärmeübertragung immer passiert.
+Wir sprechen hier also in der Thermodynamik ein bisschen von der abgeschreckten Version der Realität,
+weil wir zum Beispiel anleihen, es gibt keine Wärmeübertragung.
+Dann geht es. Dann sind wir in einem kompletten Gleichgewichtszustand.
+Das hier ist der Gleichgewichtszustand 1 und das hier ist der Gleichgewichtszustand 2.
+Und die große Frage ist jetzt eigentlich, was passiert hier zwischen?
+Und da sind wir bei dem, was ich ganz am Anfang schon gesagt habe.
+Wir sprechen von einem Prozess.
+Ein Prozess ist nichts anderes als eine Zustandsänderung. Von einem Gleichgewichtszustand zum nächsten Gleichgewichtszustand.
+Bitte merken Sie sich das. Das wird uns jetzt das gesamte Semester begleiten.
+Prozess, Zustandsänderung, das sind keine Äquivalente, aber Sie beschreiben etwas sehr Ähnliches.
+Weil wir uns eigentlich de facto den Prozess, wir werden da reingucken, dass der Prozess auch in bestimmter Art und Weise von uns vereinfacht wird.
+Aber es ist immer Zustandsgröße 1, Prozess, Zustandsgröße 2.
+Die stehen im direkten Zusammenhang.
+Wir werden unsere Prozesse beschreiben über die Änderung von Zustandsgrößen im Gleichgewicht.
+Und das ist jetzt der Physikertrick, dass man sich einfach sagt,
+okay, wir gucken uns mal einen ganz schönen Wort, infinitesimal kleinen Zeitpunkt,
+gucken wir uns das System an und dann ist es natürlich zu diesem infinitesimal kleinen Zeitpunkt,
+ist es stabil.
+Sie machen es sich manchmal ein bisschen eifrig.
+Dafür können Sie aber Dinge, die ich nicht kann. Das lassen wir aus.
+Fragen dazu?
+Relativ gut.
+Hier können wir uns die Frage stellen, was passiert zwischen dem einen Zustand und dem anderen Zustand.
+Zwischen dem einen Gleichgewicht und dem anderen Gleichgewicht.
+Das heißt, wenn wir einen Satz Zustandsgrößen haben, haben wir auch einen Zustand, der komplett festgelegt wird.
+Da werden auch Fragen kommen.
+Für einen bestimmten Zustand fehlen irgendwelche Informationen.
+Wir wissen das Volumen, wir wissen das Gas, wir wissen die Temperatur, aber wir wissen den Druck nicht.
+Wir werden lernen, wie man das ausrechnet.
+So kommt man zu einem vollständigen Satz von Zustandsbegleitung.
+Das ist etwas, was uns nachher in den Aufgaben immer wieder bleiben wird.
+Irgendwas fehlt und Sie müssen es bestimmen.
+Mit den Regeln, die wir hier lernen.
+Das ist also ein bisschen wie Mechanik.
+Und man sich auch fragt, naja, also, warum soll der Balken jetzt brechen?
+Achso, ja, ich muss ja ausrechnen.
+Ja, das ist vielleicht auch die gleiche Analogie.
+Ich meine, also, es waren so Geschwärze, wie man beharrte.
+Das wird dann, weil man sagt, wer zum Teufel kauft eigentlich 47 Melonen?
+Das ist bei uns ein bisschen ähnlich, nur vielleicht ein bisschen anspruchsvoller tatsächlich.
+Gut. Wir haben aber natürlich noch andere Sachen. Wenn wir uns zum Beispiel folgendes System angucken.
+Wir haben dieses System mit unterschiedlichen Drücken.
+10 Bar ist bekanntermaßen deutlich kleiner als 20 Bar.
+Nichtsdestotrotz haben wir hier einen Zustand, der ist im Gleichgewicht, weil diese Wand fixiert ist.
+Das heißt aber, ich habe zwei unterschiedliche Teilsysteme.
+Gucke ich mir also ein System an, ist es im Gleichgewicht, gucke ich mir das andere System an, ist es im Gleichgewicht, aber nur durch eine physische Fixierung.
+Nehme ich jetzt diese Fixierung weg, werden sich wahrscheinlich andere Drücke ergeben.
+Jetzt ist die Frage, was ist das gleiche Glas?
+Das hat die gleiche Temperatur.
+Welche Differenz haben nachher P3 und P4?
+in diesem System.
+Kolbenfläche auch auf beiden Seiten gleich.
+Ein bisschen Bayer-Mechanik.
+Das hier ergibt irgendwann einen Gleichgewichtszustand.
+Wie ist der Gleichgewichtszustand beschrieben?
+Dass ich von hier eine Kraft habe und von hier eine Kraft habe.
+Damit das Ding stehen bleibt, muss die Kraft gleich groß sein, richtig?
+Was heißt das, dass die Kraft gleich groß ist?
+Kraft ist Druck mal Fläche.
+Ist der Druck auch gleich groß?
+Ganz genau.
+Wir wissen aber noch was.
+Wir werden da nachher hingucken.
+Denn wir wissen auch, dass der Druck P3 mit hoher Wahrscheinlichkeit größer ist als P1.
+Wir wissen aber auch, dass P3 bzw. P4 wahrscheinlich kleiner ist als P2.
+Jetzt komme ich wieder so zu meinen Bedingungen, denn wir werden uns auch so etwas anrufen wie Randbedingungen.
+Randbedingungen sind tatsächlich ziemlich relevant, wenn wir bestimmte Prozesse beweisen wollen.
+Wenn wir etwas genauer beschreiben wollen.
+Also Randbedingungen, ich sage immer, die findet Nemo noch drin, ich hoffe, ich bin nicht alle viel zu jung, alle Fische sind Freunde.
+Randbedingungen sind auch unsere Freunde, weil sie das Leben einfach machen und weil sie das Ganze hier bestimmbar machen.
+Gut, wir verschieben die Volumen, wir haben eine Triebkraft, also die treibende Kraft,
+Und das ist jetzt auch der relevante Punkt.
+Die Differenz von diesen beiden Drücken sorgt dafür, dass dieser Prozess passiert.
+Das heißt, die Triebkraft dp ist für uns relevant.
+Auch hier, warum reite ich da jetzt drauf rum?
+Es gibt immer irgendeine Größe, die eine Prozessänderung verursacht.
+Ich habe eben gesagt, alles ist im Gleichgewicht,
+Raum, Chakra, wie auch immer.
+Ist es nun mal nicht, denn es gibt immer irgendetwas, was treibt.
+Entweder das ist der Druck, was meinen Sie noch,
+was sind klassische Stichkräfte für Prozessänderungen?
+Druck haben wir schon, was ist das Nächste?
+Habe ich schon genannt.
+Was könnte noch dafür sorgen, dass sich da ein Prozess ändert?
+Okay, wir lösen auch.
+Hier in meinem kalten Bereich, hier in meinem heißen Bereich. Wärmeleitende Wand. Was passiert?
+Das hier ist vermutlich als Gesamtsystem nicht im Gleichgewicht, sondern auf Strecke, also auf Zeit, werden sich diese beiden Temperaturen...
+Die Wärme wird geleitet, das heißt, das wissen Sie schon aus der Wärmeübertragung,
+die Wärmeenergie immer von heiß nach kalt, nicht andersrum.
+Auch das werden wir lernen, dass das in der Thermodynamik relevant ist.
+Es wird sich also eine Temperatur ergeben, die irgendwo in der Mitte ist.
+Hier haben wir keinen Volumetransfer, rein thermisch, und Delta T, also die T über diese Strecke.
+Temperaturausgleich ist immer da
+jetzt ist es so, dass sich hier wahrscheinlich auch noch weitere Zustandsgrößen ändern
+das hat was mit der Thermodynamik zu tun
+gerade der Druck
+Entropie, Entropie
+das lassen wir mal auf sich vor
+jetzt steht hier schon ein kleines D
+da wir heute noch nicht so auf Antwortkultur getrimmt sind
+ich hoffe, das wird im Semester ein bisschen besser
+da steht jetzt schon ein DT
+weil, wenn wir uns die Zustandsgröße, Zustandsgröße 1, Zustandsgröße 2,
+das ist messbar, was dazwischen ist.
+Wir haben 20 bar, wir haben 10 bar.
+Delta T sind 10 bar.
+Nur, Dp ist nicht 10 bar.
+Jetzt Frage für Sie, warum?
+Ich hoffe, dass Sie sich die Frage stellen,
+und nicht schon bei die, die, die, die, die, die angekommen sind.
+Das wird im Semester noch passieren, aber vielleicht heute noch nicht.
+Warum ist dt nicht 10 bar?
+Weil es den Prozess beschreibt.
+Hier haben wir, wir gehen davon aus, dass das eine lineare Veränderung ist.
+Von 10 bar nach 20 bar, und zwischen 10 und 10 bar.
+Aber wenn ich den Prozess mir angucke, der läuft ja über eine bestimmte Zeit,
+Sie erinnern sich vielleicht ganz, ganz grob an das Thema, wie ich ein Integral mir ankupple.
+Ein Integral ist meistens im Zeitbereich, von dem einen Zeitpunkt zum nächsten Zeitbereich.
+Wenn ich die Funktion weiß, kann ich dann irgendwie berechnen, was da an Fläche drunter ist.
+Hier ist es nichts anderes.
+Nur integrieren wir nicht über die Zeit, sondern wir integrieren über die Änderung von T.
+haben wir also
+ein System, das linear passiert,
+das ist trivial.
+Das ist dann einfach
+der Mittelwert zwischen den beiden.
+In aller Regel.
+Die Summe der Fäden.
+Haben wir eine irgendwie geartete,
+ich sage jetzt mal doppelt exponentielle Funktion,
+dann bildet sich das Integral anders.
+Aber wenn ich weiß,
+wenn ich eine Funktion t
+verlinke,
+dann weiß ich auch, wie ich es integrieren kann.
+Und wenn ich es integrieren kann,
+dann kann ich es aufrechnen.
+Das heißt, ich will sie hier nicht quälen,
+wenn ich von Antifraude und Differenzial spreche.
+Ich werde sie ein bisschen damit quälen müssen,
+aber es ist tatsächlich einfach ein geiles Hilfsmodell,
+weil ich auf einmal, wenn ich den Funktionsverlauf kenne,
+weiß ich, wie viel ich da reinstecken kann,
+wie viel ich reinstecken muss oder wie viel ich rauskriege.
+Wir sprachen eben von Effizienz von Wärmepumpen.
+Wenn ich weiß, wie der Prozess funktioniert,
+kann ich es auf einmal berechnen, wie viel Energie ich reinstecke,
+damit ich eine andere Energie rauskriege. Und das ist das, was einen Ingenieur nachher ziemlich cool macht.
+Dass er einfach Dinge kann. Ich finde es auf jeden Fall cool.
+Gut. Wir haben dann noch das Thema Zustandsänderung als solches.
+Also wir haben uns angeguckt, welche Zustandsgrößen haben wir, extensiv, intensiv, spezifisch.
+welche Systeme haben wir
+homogen, inhomogen
+wir sprechen tatsächlich jetzt erstmal
+ausschließlich von homogenen Systemen
+also ich wundere, dass es manchmal auch
+ein bisschen an der Realität vorbei
+weil wir ganz selten
+wirklich komplett homogene Systeme haben
+wir haben uns
+Zustandsänderung
+angeguckt
+und jetzt gibt es eine Nomenklatur
+auf die wir uns einigen müssen
+das ist einfach stundauswendig
+Wenn ein Zustand in der Binderung isothermisch, wie der Name schon sagt, thermisch isoliert,
+ändert sich die Temperatur nicht.
+Isobar, barometrisch isoliert, ändert sich der Druck nicht.
+Isovor, ändert sich das Volumen nicht.
+Die Dinger tatsächlich ganz stumpf lernen.
+Also, jetzt nicht unbedingt wie Latein in der 8. Klasse, ich weiß nicht, wer Latein gehabt hat, ich war so einer, so ein Depp, das ist super, man denkt sich so, hey cool, die Sprache muss ich nicht sprechen, das ist bestimmt so wie im Absatz, dann fällt man fest, scheiße, das ist definitiv was völlig anderes, so ging es mir.
+Die drei tatsächlich einfach lernen. Kommt in Frage vor, was passiert bei einer isothermen
+Prozessführung? Dann muss es schon sofort klingen, alles klar, super, ich brauche die Temperatur nicht
+ändern. Dann kann ich von Zustand 1 zu Zustand 2 einfach viel, viel einfacher rechnen. Es gibt
+dann noch ein paar andere, auf die ich später kommen werde, die sind hoch. Die anderen beiden
+können Sie nahezu vergessen,
+kommt noch
+Thema Dampfphase.
+Isovapore Prozessführung
+heißt, dass das Verhältnis aus
+Dampf und Flüssigkeit
+gleich bleibt.
+Das heißt, wir haben immer das gleiche Verhältnis
+auf 50% Dampf
+und 50% Wasser.
+Wir werden da ein bisschen einsteigen,
+aber tatsächlich dann erst so Richtung Dezember.
+Die beiden
+werden noch kommen.
+Gut.
+Hälst du das immer einmal zwischendurch, eine Pause?
+Was haben wir denn jetzt eigentlich?
+Danke, Ruhe.
+Stunde.
+Dann soll ich gerade mal gucken.
+Das machen wir noch.
+Das machen wir noch.
+Das machen wir noch.
+Alles klar.
+Ja.
+Viertelstunde noch und dann machen wir Viertelstunde Pause.
+Also wenn wir uns, jetzt sind wir, nee, haben wir das Thema, passt alles?
+Sie sprechen auf einmal, das ist nicht so.
+Aber das ist nicht so.
+Wir haben das homogene System, haben wir uns eben schon angeschaut,
+das heißt, irgendwo alle Zustandsgrenzen sind konstant,
+Das heißt, hier haben wir P1, hier haben wir P1, hier haben wir T1, hier haben wir T1.
+Hier haben wir auch V1, kleines V bitte.
+V1, überall gleich.
+Wenn ich jetzt ein hydrogenes System habe, nur noch mal, dass ich der Vollständigkeit habe.
+Aber wir wiederholen ein bisschen.
+Hier ist Gas, da ist Flüssig, also Gas mit Luft, das ist nicht Gas mit Luft, das wäre einfach.
+Die Phasen sind im Gleichgewicht.
+Trotzdem haben wir unterschiedliche Zustandsgrößen. Mindestens eine Zustandsgröße kennen wir, dass sie unterschiedlich ist.
+Das ist nämlich unser roher Gaszustand und unser roher flüssiger Zustand.
+Dichte flüssig, ungleich, dichte dampflos. Das ist auf jeden Fall, glaube ich, in allen klar.
+Spezifische Zustandsgrößen können keine treibenden Kräfte sein.
+Das ist ein ganz wichtiger Punkt.
+Ein spezifisches Volumen.
+Wenn ich das bei irgendwem sehe, auf die Frage, was sind treibende Zustandsgrößen, dann ist das leider falsch.
+Und ihr könnt euch gar nicht vorstellen, was für komische Ideen man manchmal kommt.
+das dann versucht wird
+irgendwie über das spezifische
+Geruch zu integrieren
+ist im Gleichgewicht tatsächlich schwierig
+spezifische Zustandsgrößen
+können keine treibenden Kräfte sein
+demgegenüber
+intensive Zustandsgrößen
+Druck, Temperatur
+die können das nicht aus
+nicht verwechseln mit
+extensiv, wir sprechen hier von
+spezifisch und intensiv
+Wir gucken jetzt in einen sogenannten 0-ten Hauptsatz.
+Hat hier jemand von den Physiker kam?
+Oder ist das dann...
+Man hört es mir an, dass ich das bayerische System...
+Ich kenne Eisen wieder in der Leistungskurve,
+also die P-Kurve, ich weiß es nicht mehr.
+Die P-Kurve ist besonders besonders.
+Ja, nein, vielleicht. Jetzt weiß ich es wirklich mal nicht.
+Also ich glaube, mittlerweile sind es wieder Leistungskurse.
+Ja.
+Aber wenn es um die 8 war, weiß ich gar nicht, was es so genau war.
+Also da hat man es halt entweder abgedreht gemacht oder nicht, hätte ich behauptet.
+Okay, also so ein Kurs halt. So ein Kurs, wo man mehr Stunden hatte als alle anderen.
+weil man hat sich halt einfach echt dumm vertan mit der Wahl seines Leistungskurses.
+Auch das soll ja passieren.
+So, irgendjemand dabei, der Physik hatte?
+Okay, das ist eigentlich schade, auf der anderen Seite ist es dann ganz gut,
+weil da kann ich mir erklären.
+Also, warum heißt das Ding multa Hauptsatz?
+Tatsächlich, es sind Fundamentalsätze,
+der erste, zweite, dritte Hauptsatz der Thermodynamik,
+die sind tatsächlich älter als der Nullte, weil der Nullte immer so angenommen wurde.
+Und irgendwann haben wir festgestellt, also das ist dann wahrscheinlich auch so eine physische Eigenart oder eine wissenschaftliche Eigenart.
+Es haben zwar alle schon längst verstanden, aber man muss es trotzdem nochmal gerade ziehen.
+Und ich kann es mittlerweile ein bisschen nachvollziehen und ich finde es dann auch in einer gewissen Logik logisch.
+Ja, natürlich, wenn irgendetwas angenommen wird, aber noch nie bewiesen wurde und noch nie mathematisch beschrieben wurde,
+dann kann man da kein Gebäude drauf bauen.
+Das ist so, wie wenn ich Matsch nehme und versuche, da ein Hochhaus drauf zu bauen.
+Ich kann das Hochhaus bauen, aber es bleibt trotzdem nicht sonderlich gut stehen.
+So, im 0. Hauptsatz geht es vor allem um die Temperatur.
+Hierzu gucken wir uns wieder mal ein relativ einfaches System an.
+wir haben System A und System B, die sind komplett isotherm, wie es so schön heißt, isoliert.
+Das hier ist isotherme Isolation.
+Ich glaube übrigens, dass das dann, da würde mich ein Physiker auch für sagen,
+es ist nicht wirklich richtig ausgedrückt, weil entweder das ist ein Therm oder isoliert.
+Also da kommt keine Wärme drüber.
+Das ist damit gemeint.
+Weder da noch da, alles gleich.
+Aber diese beiden werden zusammengeführt und es wird eine Wand herausgemacht.
+Was passiert also mit den beiden Systemen, das gucken wir uns gleich an.
+Wir haben T1 und wir haben T2.
+Unterschiedlich, gleiche Masse, etc. pp.
+Also gleiche Wärmeübergangskoeffiziente, das hast du auch so vor.
+Und wir haben ein T-Strich und ein T-Strich und das ist überall gleich.
+Das wussten wir schon, ne?
+So weit bekannt.
+Jetzt kommt aber ein relativ interessanter Aspekt, wo wir uns anschauen.
+Wir packen die beiden jetzt nicht zusammen.
+T-A und T-B.
+Was passiert, wenn wir TA mit dem dritten Körper verbinden?
+Ich mache das jetzt mal farblich anders.
+Wie bildet sich die Körpertemperatur aus?
+Die beiden gleichen sich aneinander an.
+Und die beiden gleichen sich aneinander an.
+Wir haben also nachher eine Temperatur T, C.
+Anderer Körper drauf.
+Das Ding kalt, das Ding heiß.
+Was passiert irgendwann über Zeit?
+ich muss meine Erklärung ein bisschen revidieren
+dieser Körper C hat natürlich
+seine eigene Temperatur
+also drei Temperaturen
+TA, TB und TC
+TA und TB sind nicht miteinander verbunden
+direkt
+aber sie sind beide mit dem Körper C verbunden
+Zeitpunkt 1
+sind die vielleicht noch unterschiedlich
+zu einem Zustand
+N
+haben wir aber auf einmal
+T A gleich
+T C gleich
+T B
+Das bedeutet, dA und dB sind jetzt gleich groß.
+Und wie gesagt, das ist trivial.
+Das wissen Sie alle, vermute ich.
+Weil das nun mal so ist.
+Das sind so Dinge, über die man nie nachgedacht hat.
+Da sind wir tatsächlich wieder in der technischen Physik.
+Das kann man formalisieren.
+Und zwar, wenn jemand sagt, zwei Systeme im thermischen Gleichgewicht
+Mit einem dritten, dann sind sie auch untereinander im Gleichgewicht.
+Jetzt steht da schon, warum das eigentlich so relevant ist.
+So messen wir Temperatur.
+Denn wie messt man normalerweise Temperatur?
+Also wie zeigt auch ein digitales Thermometer?
+Ich meine, da sieht man jetzt nicht mehr so viel, dass da auch Thermodynamik dahinter ist.
+Aber vielleicht erinnern Sie sich noch an diese komischen Glasstäbchen mit dieser roten Flüssigkeit drin.
+Ich hoffe, es war die rote und nicht die silberne.
+Das war immer so wunderschön, wenn man die kaputt gemacht hat.
+Da hatte man auch eine sehr unentspannte Eltern.
+Ich erinnere mich vage.
+Also Quecksilber war nicht so eine tolle Flüssigkeit als Werkstoff.
+Gut nutzbar für den Menschen, nicht so richtig geil.
+Das ist irgendwie, Bohr mag man auch als Werkzeug, aber trinken will ich es jetzt nicht.
+Das ist die Messung von Temperatur.
+Denn was bedeutet das?
+Wir werden es gleich auch nochmal hinmalen.
+Wenn ich dieses komische Städtchen habe,
+was skaliert ist,
+und ich halte es dem einen hin,
+und es geht genau bis zu einem Strich,
+und ich halte es dem anderen hin,
+und es geht auch bis zu dem gleichen Strich,
+dann haben diese beiden Personen
+verdammt nochmal einfach die gleiche Temperatur.
+Das steckt da drin.
+In dem Satz.
+Die Grundlage von Messung von Temperatur ist genau das.
+Zwei Systeme unter anderem im Gleichgewicht,
+also zwei Systeme, die gegenseitig mit einem dritten im Gleichgewicht sind,
+dann sind sie auch unter anderem im Gleichgewicht.
+So, wichtiger Satz.
+Der wurde tatsächlich erst relativ spät aufgestellt.
+Obwohl es, wie gesagt, wahrscheinlich jeder wusste,
+aber die Formalisierung wurde noch nicht gemacht.
+Und das Interessante ist, dass das wirklich eine ganz, ganz, ganz fundamentale Definition darstellt.
+Und natürlich heißt das auch, dass wenn wir Temperatursteilen haben,
+dass die immer genau darauf ausgelegt sind.
+Es gibt eine Referenztemperatur, die ist gleich, es gibt eine, das ist ja eine Lineare,
+es gibt eine zweite Referenztemperatur, die ist gleich,
+Ich habe, glaube ich, in meinem Foliensatz noch so einen kleinen Skalierungsfaktor.
+Die kennen Sie alle.
+Irgendwann im metrischen System hat man sich mal gedacht, dass 0 und 100 sich ganz cool anhört.
+Und für uns ist es nun mal das völlig Normalste.
+Referenztemperatur 0, Referenztemperatur 100.
+Irgendjemand hat mal gesagt, mach doch irgendwie, damit man was greifbar hat, auch was Einfaches.
+0 Grad, gefriert Wasser. 100 Grad, Kochmasse.
+Ich bin jetzt tatsächlich völlig unbewandert, was diese Thematik angeht im imperialen Raum,
+also was es da für eine Fahnenheit und sowas gibt.
+Ich lasse gleich eine Geschichte dazu nochmal los.
+Aber dann wird es genauso sein, als man sich überlegt, was ist der eine Punkt, was ist der andere Punkt und das dazwischen ist halt los.
+Sie schütteln gerade den Kopf wegen der integralen Einheiten.
+Ja, ich finde das Fahrenheit komisch.
+Ganz ehrlich, Fahrenheit mit diesem minus 25 durch 3, was auch immer,
+ich weiß nicht mehr, ich habe die Formel glaube ich dabei,
+das ist interessant, dass man das so umrechnen kann.
+aber mal weiter gedacht es gibt glaube ich sechs unterschiedliche offizielle größen für fuß es
+gibt drei unterschiedliche größe für soll es gibt völlig undefinierte größen wie zum beispiel
+buschel als jemand schon mal buschel gehört hat jemand schon mal buschel gehört okay ich
+habe musste erst mal tatsächlich musste so ich musste mich so zusammenreißen nicht zu lachen
+Hier in Europa kennt man, wenn man von Ernte spricht, Kilo pro Hektar, also in Tonne pro Hektar.
+Also ich fahre mit dem Mähdrescher übers Land und nachher messe ich, wieviel ich rausgekriegt habe.
+Ich habe 14 Hektar und dann kann ich das runterrechnen.
+Dann gibt es in den USA die Einheit Buschel per Acre.
+Jetzt muss man dazu sagen, es gibt auch vier unterschiedliche Rechenarten, wie der Acre berechnet wird.
+Also das deutsche A, was es nicht mehr gibt.
+Ich weiß das nicht.
+Genau, das muss man also wissen, wo man ist.
+Und dann, als ich das echt gesehen habe,
+habe ich gedacht, die haben sich verschrieben.
+Büsche pro Acker, was ist denn das für eine Einheit?
+Aber lass mal das außen vor.
+Also, es wird noch viel wilder als Fahrenheit.
+Das Beste war, tatsächlich, jetzt fange ich an zu strahlen.
+Egal.
+Ich habe eine Kollegin gehabt,
+Wir haben hier eingestellt, ich war vorher in der Industrieautomation unterwegs und dann haben wir uns, wir haben immer wieder das Problem gehabt, also ich habe viel HMI-Entwicklung gemacht, also das was man dann sieht, Terminal, da sieht man zum Beispiel den Ertrag, da sieht man zum Beispiel seine eigene Fahrleistung.
+Und die wird dann natürlich irgendwie gerechnet in pro Hektar.
+Irgendwas, was halt ganz gut so ins Dezimalsystem passt.
+Oder pro Tonne.
+Halt irgendwie sowas.
+Jetzt kommen die imperialen Einheiten dazu.
+Also halt Zoll, Fuß, Yard.
+Yard hat auch einen Unterschied.
+Also es ist auch nicht so unbedingt, dass man das gleichsetzen kann.
+Da gibt es auch irgendwelche Kontrastfaktoren.
+Und ich will ehrlich sagen, in die ich mich nie eingeschmischt habe, weil ich glücklicherweise gesagt habe, ich bin froh, dass ihr euer Problem habt und ich das nicht habe.
+Also weil es ist dann wirklich, wenn man das informatisch betrachtet, irgendwann schwierig.
+Weil ja auch alles, was irgendwie im Computer hin und her geschoben wird an Informationen, das braucht ja eine Basiseinheit.
+Aber wenn die Basiseinheit, also keine Ahnung, Kubikmilliliter, äh Quatsch, Milliliter, wenn die halt nicht messbar ist, dass ein Milliliter und eine, keine Ahnung, Milligallone, die treffen sich nie in die beiden.
+Also Erlone und Winter treffen sich tatsächlich eigentlich nie in den Basiseinheiten,
+die man irgendwie auf dem Kängurus kommuniziert.
+Weil so man wie so scheiß was umzurechnen, dann sagt meine Kollegin nachher,
+na, dann sagt man hier, ich habe jetzt eins echt nicht verstanden.
+Was haben denn diese ganzen Einheiten der Rechnung mit Star Wars zu tun?
+Dann habe ich gesagt, hey, naja, wegen der imperialen Einheiten.
+Also es gibt schon manchmal ganz schöne Sachen im Leben.
+Also ich sehe es schon, es ist gar nicht so angekommen.
+Also ich muss Ihnen allen aufgeben, mehr Star Wars zu gucken,
+Sie können auch durchaus Rouge gucken oder so, auch wenn das schlechte Folgen sind.
+Das ist mir völlig gleich.
+Es gibt da interiale Einheiten.
+Sie müssen ja auch schreiben, dass ich zu alt bin.
+Gut, also, Definition von Temperatur, da gehen wir jetzt gerade noch rein.
+Das ist ein Maß für den thermischen Zustand.
+Temperatur, thermischer Zustand.
+Das ist das, was ich eben gesagt habe.
+Bestreit eine Zustandsgröße, die Temperatur, ist also ein bestimmter thermischer Zustand.
+Wir können unterschiedliche thermische Zustände anhand dieser Temperatur unterscheiden.
+Im Gleichgewicht haben Sie die gleiche Temperatur,
+nicht im Gleichgewicht haben Sie unterschiedliche Temperaturen.
+Was heißt das jetzt? Ich habe sie nochmal aufgemalt.
+Eine Temperatur kalibriert auf einen spezifischen Punkt, nämlich Eiswasser.
+Das ist das, wo unser Celsius-System herkommt, 0 Grad.
+Und irgendein anderes System, wo gleich angezeigt wird, es hat nun mal den gleichen thermischen Zustand wie Eiswasser, 0 Grad.
+Und wie gesagt, in dem, wie man es dann nachher skaliert, hat man irgendwann gesagt, okay, wir messen das, wir kalibrieren auf 0 Grad, wir kalibrieren auf 100 Grad.
+Blöd ist natürlich, dass man irgendwann festgestellt hat, dass dieses kalibrierte 0 Grad leider doch nicht das richtige 0 Grad ist.
+Also das werden wir dann noch sehen, dass es eine ganz, ganz kleine Differenz gibt zwischen wann wendet sich wirklich Eis und dem, was mal als 0 Grad definiert ist und 100 Grad.
+Ich meine, da gibt es immer wieder diese blöden Eierfragen, warum kann ich ein Ei auf der Zugspitze nicht kochen?
+Vielleicht schon mal gehört, so eine komische, dumme Fangfrage.
+Tatsächlich kann man es kochen, aber es wird halt nie, es stockt halt nicht, weil der Druck so gering ist.
+Also auf der Zugspitze wird es wahrscheinlich nicht gehen.
+Ansonsten können Sie da kein Frühstück im Restaurant machen.
+Also bestimmt wird das da gehen.
+Aber irgendwann, wenn man hoch genug ist, kocht das Wasser einfach bei 70 Grad.
+Und wenn das Wasser bei 70 Grad kackt, dann kann ich das Ei da ziemlich lange reinlegen.
+Es wird einfach nie hart.
+Also, diese Temperatur, thermisches Gleichgewicht, bedeutet nur bei gleichem Druck.
+So, da habe ich das Ganze sogar noch mitgenommen.
+Kleiner Exkurs, wie nämlich diese unterschiedlichen Skalierungen sind.
+Gucken wir uns Celsius an. 0 Grad, 100 Grad und dazwischen 100 Schritte. So entsteht das Grad.
+Kelvin
+wer weiß es aus dem Kopf
+wie viel Kelvin
+sind
+0 Grad
+jetzt die Leute aus dem Physiker
+die Temperatur dürfen Sie sich auch gleich merken
+und irgendwo hinschreiben
+wegmerken
+273,15 Kelvin
+sind 0 Grad
+und 0 Kelvin
+sind dementsprechend
+minus
+203
+das ist 0 K
+sind 273,15
+Kelvin
+Ich hätte hier jetzt noch andere Dinge wie Fahrenheit, aber das lassen wir außen vor.
+Wir haben ja schon darüber gesprochen, dass das hochspannend ist, dass andere Personen, andere Kreise, andere Regionen das jetzt völlig normal erachten.
+Und dass das für uns total erhört wird.
+Wie gesagt, denken Sie an die Imperialheime, dann hat man wenigstens mal was zu gewinnen.
+Ein Wort dazu.
+Ich weiß tatsächlich nicht, warum Kelvin so definiert ist, wie es ist.
+Das muss ich ganz klar sagen.
+Ich vermute, dass es irgendwann in Richtung, wir hätten gerne einen absoluten Nullpunkt.
+Und tatsächlich brauchen wir nachher diese Kelvinberechnung auch für unsere thermischen Zustandsberechnungen.
+Gerade im Bereich, wir werden da hinkommen, ideale Gasgleichung.
+Wichtig für Sie, wenn gerechnet wird.
+Die Formeln sind nahezu alle übertragbar. Wenn ich eine Formel habe, in der ich eine Temperatur einsetzen muss,
+die Schrittgröße, und das ist das Wichtige, die Schrittgröße zwischen Kelvin und Celsius ist
+gleich groß. Bitte, bitte, bitte dran denken. Muss ich jetzt Kelvin oder muss ich Grad?
+Die Schrittgröße ist gleich groß. Was bedeutet das aber auch? Wenn wir in Differenzen sprechen.
+Schrittgröße 1, 2. Von da nach da. Von da nach da ist egal, ob ich das in Celsius oder
+Kälbigenamen. Aber ob ich da stehe oder ob ich hier stehe, ist relevant, ob meine Bezugsgröße
+die Wand da hinten ist oder die Außenwand vom Gebäude. Worauf will ich hinaus? Delta
+T, wenn wir von Differenzen der Temperatur sprechen. Es ist völlig egal, welche hier
+Da kann ich auch Grad nehmen, weil die Schrittweite gleich ist.
+Wenn ich von einer absoluten Temperatur spreche, da ist es irrelevant, ob ich auf anderthalb Meter oder auf 14 Meter stehe.
+Weil das die absolute Werte sind.
+Differenzen? Egal.
+Keine Differenzen, immer Kelvin.
+Hier immer Kelvin.
+Das heißt, deswegen merken Sie sich bitte die Zahlen.
+Das muss irgendwann aus dem FF kommen, dass man da nicht mehr lange drüber nachdenkt.
+Gut.
+Damit machen wir Pause.
+20 nach, reicht dir das?
+Bisschen knapp, also eine Stunde.
+Okay.
+Das ist überhaupt auch, was ist so die Thematik, in der wir wirklich drinstecken.
+Und ich werde jetzt, wie gesagt, mit so ein bisschen Schnelldurchlauf, eine der relevantesten Gleichungen herleiten, die wir haben werden.
+Das heißt, Thema Gesinnlichkeit, wir gehen heute schon gleich ins Eingemachte.
+Ideales Gas, thermische Zustandgleichung.
+Wir fangen erstmal an mit ein bisschen Definition, wenn wir von einem idealen Gas sprechen.
+Was macht das ideale Gas eigentlich aus?
+Wir haben keine Wechselwirkung der Gasmoleküle untereinander.
+Wir haben die Gasteilchen, von denen wir irgendwie aus der Chemie wissen, was die existieren.
+Die sind ausdehnungslos.
+Das heißt, die haben zwar einen gravimetrischen Schwerpunkt, aber der ist unendlich klein.
+Einfach so Nebengefickte, wie man kann das nicht kontrollieren.
+dann
+trotzdem
+haben wir das Thema
+Energieübertragung im Gas
+wir müssen diesen letzten Punkt trotzdem annehmen
+auch wenn die Teilchen nur auf keine Dimension haben
+und
+keine weitere
+Wechselwirkung haben
+müssen wir trotzdem damit
+in unserer Idealvorstellung
+das heißt ja ideales Gas
+müssen wir trotzdem sagen
+die bewegen sich untereinander
+und haben auch Kollisionen mit der Außenwand.
+Das hat ein bisschen was damit zu tun, wenn wir die Gasteilchen ohne diese Bedingungen setzen,
+ist es relativ schwierig, Energie zu erklären.
+Weil Energie im Mikroskopischen ist auch, also gerade innere Energie, wie wir gleich gucken werden,
+ist nichts anderes als die Geschwindigkeit von den Teilchen.
+Ich habe jetzt keinen Physikler dabei, ich schuldige als Katze, so eins,
+Irgendwann schon mal gehört, beziehungsweise überhaupt diese Unschärfe-Theorien, die dann heißen, wenn ich einen Punkt angucke, kann ich zwar sagen, wo er ist, aber nicht, wie schnell er ist.
+Oder ich kann sagen, wie schnell er ist, aber nicht, wo er ist.
+Klassisches Paradoxon.
+Hier brauchen wir diese Information auch, weil das die Aussage der Bewerber ist, wie viel Energie da ist.
+So, das ist auch durchaus okay.
+viele dieser idealen Gase bei geringem Druck. Wir werden nachher die Papelle haben, da steht auch ein paar davon drin.
+Ideales Gas ist zum Beispiel Esel, weil da tatsächlich relativ wenig Wechselwirkung untereinander ist.
+Wasserstoff, Sauerstoff und dann das für uns tatsächlich Relevante, Luft.
+Obwohl wir alle wissen, dass Luft eigentlich überhaupt nicht homogen ist,
+sondern ein Kugelnumerat aus den unterschiedlichsten Zusammensetzungen und in unterschiedlichen Geruchsrichtungen.
+Trotzdem können wir es ziemlich gut als ideales Gas betrachten.
+So, was heißt das jetzt? Und das ist ein bisschen relevant, wenn wir uns das Ganze anschauen.
+Hier ist eine sehr, sehr schöne Visualisierung, die einfach mal sagt,
+für die Anderen. Wir haben keine Wechselsituation, also keine Deformation von den Teilen. Die
+Teile sind dimensionslos, aber trotzdem sind sie da und können unter anderem da agieren.
+Eine sehr gute Darstellung von dem, was dann auch in der Modellvorstellung mittlerweile
+auch durchaus mit diesem passiert, wenn wir die Temperatur erhöhen. Und genau das ist
+das was jetzt passiert. Die Teile bewegen sich irgendwie. Schöne Sache das.
+Jetzt wird irgendwann die Temperatur mal ein bisschen erhöht. Von 200 K, also unter dem
+Gierpunkt, auf 2000 K, 1,75 Stunden, relativ knackig.
+Und das, was man vor allem sieht, ist, dass die Geschwindigkeit der Teile, also die Eigen-Kinematik,
+deutlich größer wird.
+Und das ist auch die Vorstellung, mit der wir hier weiterarbeiten.
+Energie wird reingesteckt, sie ändert das Verhalten vom idealen Gas, aber es gibt bestimmte
+Dinge, die gleich bleiben.
+Zum Beispiel die Anzahl der Teilchen. In dem Fall bleibt sogar das Volumen gleich, weil wir es uns gleich angucken.
+Diese Grundvorstellung ist eine, von der wir ausgehen müssen für die nächsten, ich nenne es mal Beweise.
+Wir machen nämlich jetzt in den nächsten Folien, wir werden übrigens gleich von dem einen Foliensatz auf den zweiten Foliensatz,
+nur so als kleiner Reminder, da müssen wir gleich mal bei Nudel reingucken und den zweiten Teil auch unterhaben.
+Wir werden jetzt noch ein bisschen Beweisführung machen.
+Gucken wir uns einfach mal am echten Leben an, wie man hält sich denn so ein ideales Gras,
+wenn ich einzelne Bestandteile festhalte und andere ändere.
+Und das coole daran ist, dass man mit solchen einfachen Betrachtungen und solchen Modellvorstellungen,
+wir halten einen Parameter fest und den anderen verändern wir.
+Wie verändert er sich denn?
+kann man relativ weit schon Formeln erstellen.
+Wie weit ist Kollege Hessel schon im Bereich der Wärmeübertragung,
+hat er schon die Fourier'sche Fundamentalgleichung gesetzt?
+Anscheinend nicht.
+Okay. Lambda, L, Beta, T, wie auch immer.
+Also im Grunde die Beschreibung hier, können sagen, wie sich Wärme durch einen Körper,
+welche Parameter verändern in welcher Art und Weise und kommen dann auf Fundamentalgleichung.
+Wir machen hier nichts anderes.
+Und zwar, erstens aber, das ist übrigens auch durchaus fein in jedem Takt,
+ich habe das Ganze vor vielen Jahren schon mal aufgestellt und bestimmte Gesetzmäßigkeiten aufgestellt.
+So, wenn das Ganze unten mit einem Föhn erwärmt wurde, das ist ja warm.
+Jetzt haben wir idealisiert einen Tropfen und lassen die Temperatur fallen.
+bzw. die Wärmezufuhr wird weggenommen.
+Die Temperatur fällt, fällt, fällt, fällt immer weiter.
+Und nähert sich irgendwann auch, das hier ist jetzt Warenheit, einem absoluten Nullpunkt an.
+Und Sie sehen schon in der Modellvorstellung, warum müssen diese Volumenteilchen jetzt dimensionslos sein.
+weil ich ansonsten gar nicht an den Nullpunkt rankomme.
+Das heißt aber auch, nur so als der Vollständigkeit,
+wir beschreiben jetzt etwas, von dem wir den einen Messpunkt, 0 Kelvin, gar nicht erreicht haben.
+Jetzt hatte tatsächlich ein Kollege von Ihnen schon mal die klare Frage,
+ja, aber kann doch nicht sein, dass wir hier vorher ja immer davon geredet haben,
+Wir kandidieren über zwei Punkte, wir können aber diesen einen Punkt überhaupt nicht erreichen.
+Wie können wir jetzt wissen, ob das wirklich so ist?
+Faktisch können wir das nicht wissen.
+Aber die Idealisierung reicht, dass alles, was oberhalb von dem Nullpunkt passiert, ziemlich gut funktioniert.
+Also nicht davon berühren lassen, dass wir diesen absoluten Nullpunkt eigentlich gar nicht erreichen können.
+Vielleicht geht es ja noch drunter.
+Das ist ein bisschen die Quantenmechanik.
+Also diejenigen, die versucht haben, sich damit anzusehen, ich habe mich mal versucht, damit auseinanderzusetzen, ich bin wirklich gescheitert.
+Das hat mich dann auch nicht so sehr interessiert.
+Ich wollte nur irgendwie ein bisschen Futter haben, um denjenigen Leuten zu begegnen,
+die mir mit viel zu viel Esoterik und Quantenmechanik argumentieren.
+Das sind Dinge, die nicht ganz zusammenpassen für mich als Wissenschaftler.
+Egal. Wir können ganz viel mit unserer klassischen Physik beschreiben.
+Wer mal in Chemie reingebohrt hat, wir können ganz viel mit den einfachen Bohrmodellen beschreiben.
+Aber irgendwann können wir es nicht mehr.
+Weil die Detailtiefe so hoch ist, dass das Modell in seiner Abstraktion nicht mehr reicht.
+Und das ist hier genau das Gleiche. In der Quantenmechanik ist das das Gleiche.
+Das ist aber der nächste Punkt. Warum kann ich Quantenmechanik nicht auf mein normales Leben transferieren?
+Weil mein normales Leben viel zu abstrakt ist, um diese Mikro, Mikro, Mikro, Nano, was auch immer, Zusammenhänge überhaupt relevant zu machen.
+Das, was in einem Mikrokosmos funktioniert, wird in einem Makrokosmos nicht funktionieren.
+Hat nachher was auf die statistische Beweisbarkeit zu tun, das würde jetzt aber zu weit gehen.
+Also daher brauchen wir diesen Zusammenhang.
+So, was machen wir jetzt?
+Wir gucken uns das jetzt mal einfach mal an.
+Mit der Fragestellung untersuchen wir die Abhängigkeit von Temperatur und Volumen bei konstantem Druck und Masse für ein Idealsgas.
+Das ist ja eigentlich das, was wir eben gesehen haben.
+Sieht wie folgt aus.
+Wir haben Volumen über Temperatur.
+hohe Temperatur, geringes Volumen, niedrige Temperatur, kein Volumen, ganz kein Volumen.
+Und jetzt sehen Sie schon, hier ist in der Mitte ein Strich, das hat einen guten Grund.
+Und zwar, wenn man sich das hier anguckt, wir haben ein Volumen bei einer Temperatur 0.
+Das hier ist ungefähr ein Kubikzentimeter bei der Temperatur 0 Grad Celsius.
+Wir haben eben im Video gesehen, eigentlich haben wir kein Volumen mehr bei 0 Kelvin.
+Und das ist das, was wir dann auch sehen.
+Wenn man sich diese Werte anguckt, die werden dann irgendwo hier so verteilt sein.
+Ich idealisiere sie jetzt.
+Die ergeben ziemlich genau eine Gerade zwischen dem obersten Messpunkt und dem untersten Messpunkt.
+Also hier, ich sag jetzt mal, das passt natürlich nicht ganz.
+Wenn wir diese Grade weiterführen, führt sie uns auf einen Punkt, nicht ganz getroffen, aber immerhin fast,
+der bei 273,15 Grad Celsius herauskommt.
+Hier haben wir 0 Grad Celsius.
+Und nach dieser Rechnung hätten wir dann 2,7, 210 Grad Celsius.
+Und wie gesagt, bitte auf die Skalierung nicht zu viel Wert legen.
+Das heißt, wenn man das jetzt mal in die Formel fasst,
+Zuerst haben wir einen linearen Zusammenhang zwischen dem Volumen und der Temperatur.
+Volumen und Temperatur sind irgendwie proportional.
+Wenn man das nämlich auf die Temperatur Grad Celsius ziehen würde, würde einfach nicht rausgehen, weil wir da auf deutschen Offset dran sind.
+So sieht das Ganze dann aus, wenn man es wirklich proportional zur Temperatur in Kelvin macht, aber der Vollständigkeit hat auch.
+Deswegen, absolute Werte, immer messen, absolutes Volumen, bitte Kälbchen rechnen, in der Proportionalität.
+Differenzvolumen, können Sie in Kälbchen rechnen, können Sie auch in Parzelsus rechnen.
+Genau. Das eine ist die Differenz, das andere ist das Absolute.
+So, jetzt gucken wir uns das Ganze nochmal an.
+Das ist jetzt eine Frage an Sie.
+Vielleicht klappt es sich noch mit beantworten. Denn wir wiederholen dieses Experiment, halten
+aber die Temperatur gleich und ändern den Druck. Wir haben V und wir haben T. Wir haben eben schon
+festgestellt, dass die gerade verlaufen. Ich idealisiere es irgendwie so.
+Wie wird das Ganze jetzt verlaufen, wenn ich den Druck erhöhe?
+Also ich habe einen höheren Druck und ich verändere von 0 Grad Celsius auf 100 Grad
+Wie gesagt, das Ganze ist komprimiert. Wie ändert sich das Volumen?
+Eigentlich habe ich es gerade schon, ja?
+Jetzt ist es in kleiner Zeit, ganz genau.
+Wollte ich mal sagen, das habe ich ja eigentlich schon vorgemacht.
+Der andere Fall ist, ich nehme eine bestimmte Temperatur, 0 Grad, und ich komprimiere diese Luft.
+Und er ist das, worum es geht bei Nährdruck.
+Das heißt, wir nehmen mal diese Farbe.
+Das ist ein P2 größer als P1.
+Auf Gegenfrage, ich expandiere das Ganze, habe also einen geringeren Druck.
+Der Verlauf bleibt gleich.
+Aber die Steigung wird sich ändern.
+Kleiner Zwischenschritt.
+Wir haben eine Proportionalität zwischen Volumen und Temperatur.
+Und wir haben eine Proportionalität in Bezug auf die Steigung,
+Das, was man im normalen Leben erlebt, sind wir in der Lage in einen mathematischen Zusammenhang zu bringen.
+Nämlich Proportionalität und Proportionalität zu steigern.
+Kleiner Wechsel der Präsentation.
+Gut.
+Sind alle noch d'accord, oder? Da waren wir schon.
+Jetzt machen wir Folgendes.
+Wir gucken uns an, was passiert denn bei gleicher Temperatur und gleichem Druck.
+Ah, das mit dem Druck klappt nicht ganz.
+Aber was passiert denn, wenn wir entweder das Volumen verändern oder die Masse verdoppeln?
+Gucken wir uns jetzt also dieses Beispiel mal an.
+Ersten Punkt, was passiert, wenn ich das Volumen halbiere?
+Zweite Frage, was passiert, wenn ich die Masse verdoppelte?
+So, dann gucken wir jetzt einfach mal ein bisschen rein.
+Erstmal, Masseverdoppelung.
+Eigentlich auch relativ selbsterklärend.
+Wenn ich, bleiben Sie mal bewusst, wenn ich die Masse verdoppelte,
+Was passiert mit dem Volumen?
+Muss sich gar nicht ändern.
+Kann ich gleich lassen.
+Was passiert aber dann mit dem Druck?
+Verdoppelt.
+Ja, hast du gemacht.
+Also auch, das ist logisch.
+Wenn ich doppelt so viel
+Zeug in die Tüte packe,
+dann ist da natürlich doppelt so viel Druck drin.
+Auch das können wir jetzt auf einmal mathematisch ausrichten.
+Hier haben wir also auch eine direkte Proportionalität zwischen den beiden.
+Genau wie Sie gerade hörten.
+Verdoppel ich die Masse, verdoppel ich den Druck.
+Beigleichen.
+Schreiben wir es ruhig hin.
+Wenn Masse verdoppelt wird,
+Das ist der Wert vom Druck.
+Linearer bzw. direkt proportionaler Zusammenhang.
+Das heißt aber mathematisch, wenn wir das mathematisch ausdrücken, haben wir die Proportionalität gegenüber Masse.
+Das ist aber nicht 1 zu 1, da kommt der Konjunkturfaktor dazu, und das ist der Konjunkturfaktor, der irgendwie vermutlich was mit der Temperatur und dem Volumen zu tun hat.
+Unter der Idealvorstellung, ich lasse das Ding gleich, Temperatur und Volumen lasse ich gleich, dann ist dieser Konjunkturfaktor immer genannt, das ist eine direkte Proportionalität.
+Ich habe kein Gleich, aber eine Proportionalität.
+Wir lernen uns weiterhin Sachen, die wir sehen, Sachen, die wir verstehen und die wir mathematisch aufschreiben können.
+Nächster Punkt.
+Wir gucken uns an, wie verhält sich der Druck gegenüber dem Volumen.
+Sehen wir schon, Volumen wird verkleinert.
+Druck geht in welche Richtung?
+Also, Zusammenhang klar, wenn Volumen kleiner, geht Druck irgendwie hoch.
+Jetzt natürlich die große Frage, ist das linear?
+Wir können auch mal gucken, also wir schauen mal mit welcher Geschwindigkeit der Druck
+ansteigt.
+Das da hinten dreht sich nahezu gleichmäßig, das heißt die Volumenverkleinerung ist linear.
+Linear. Was passiert mit der Drucksteigerung?
+Ein bisschen, ein bisschen, ein bisschen.
+Gerade am Ende, das ist relevant.
+Linear. Oder was für einen Zusammenhang haben wir?
+Gegenwärtig explodiert. Genau.
+Wenn wir es ausmessen würden, das machen wir jetzt nicht,
+aber wenn man sich das mal genauer angucken würde,
+würden wir Werte sehen, die ungefähr diesen Verlauf haben.
+Das heißt, je näher ich mit meinem Volumen Richtung Null gehe,
+desto exponentieller steigt mein Druck an.
+Mathematisch ist es das.
+p ist proportional zum Kehrwert von V.
+Auch das mathematisch, was passiert bei kleinem V?
+Druck geht Richtung unendlich.
+was passiert bei unendlich großem V, Druck geht gegen Null.
+Das sind dann die Widerstandsformen.
+Alles nichts Unbekanntes.
+Können wir also, das was wir jetzt schon gesehen haben, können wir in eine Seiteformen packen.
+Da sich das mit dem Kehrwert immer so ein bisschen auf der anderen Seite schlecht wechseln lässt,
+ist das Produkt aus Druck und Volumen.
+Bei einer bestimmten Temperatur, bei einer bestimmten Masse immer gleich.
+Es ist die gleiche Formel wie Lieder, nur um diesen konstanten Faktor erweitert.
+Alles noch? Sind alle noch dabei, oder? Ja, nein, ja, alles gut.
+Das klappt noch nicht so gut. Also ich hatte letzte Woche schon einen anderen zweiten Kurs,
+Sie haben noch Chancen, das ist ja das erste Mal, dass Sie hier sind.
+Anderer Kurs, die Woche das zweite Mal, die waren schon ganz gut.
+Ich habe ja schon Antworten gekriegt.
+So, Arm und Hose.
+Da hat sich folgende Frage gestellt, wie verhält sich denn Druck über Temperatur?
+Ist da auch ein Video dabei?
+Da ist auch ein Video dabei, sehr gut.
+Gucken wir mal hin.
+Temperatur geht hoch, Druck geht hoch.
+Schauen wir nochmal hin. Das sind die Anstiege, sind die exponentiellen, sind die gegenläufig.
+Ich lasse es nochmal laufen.
+Wir achten explizit darauf, die Gleichförmigkeit zu bewegen.
+Das ist ein bisschen schwierig, weil das eine digital ist und das andere analog.
+Aber das ist halt so ein Leben.
+Das kennt sich ja noch viel mehr als ich.
+Haben wir eine Idee?
+Wenn man das misst,
+da wird die Werbung eingetragen,
+sind wir irgendwie hier
+und wir sehen auch wieder
+eine Vulnerabilität.
+Und auch das ist eigentlich
+relativ logisch.
+Wenn ich
+meine Temperatur
+gegen Null laufen lasse.
+Denken Sie an das Volumen.
+Dann geht auch mein Druck gegen Null.
+Im anderen Fall würden wir
+keine Gleichgewichtsschleife
+mit den Energien von Klima V
+haben eine bestimmte konstante Wert
+bei gleicher Temperatur,
+bei gleicher Masse.
+Auch mit dem Zusammenhang
+Es ist also auch ein linearer Zusammenhang. Heißt, T ist T mal einer Konstanten.
+So, jetzt die große Frage, warum machen wir das alles? Ich löse auf.
+Ich löse mal wieder. So, ich löse auf.
+Also, das Erste, was wir hatten, P ist proportional zu 1 durch V und der Druck ist proportional zu T.
+Das heißt aber, wenn man das zusammenbringt,
+wir gucken uns jetzt mal noch was an, und zwar, wenn man es mathematisch korrekt sieht.
+Der Druck ist gleich der Masse mal einer spezifischen Konstante.
+Der Druck ist gleich 1 durch V mal einer spezifischen Konstante.
+und der Druck ist gleich
+der Temperatur
+bei der spezifischen Konstante
+die Konstante
+die Kälte
+kommt gleich zu
+denn
+Druck und Temperatur
+Wenn wir daraus jetzt eine Formel bilden, haben wir Konstante mal M mal C mal Tau.
+Da ging es auch nicht alle mit dran.
+Wir haben also irgendeine Konstante.
+Wenn wir die kennen, können wir für einen beliebigen Druck bei einer spezifischen Masse, bei einem spezifischen Volumen die absolute Temperatur bestimmen.
+Wenn wir diese Konstante kennen, können wir bei einer beliebigen Temperatur und einem beliebigen Druck bei gegebener Masse das Volumen bestimmen.
+und ich löse jetzt auf, das ist nämlich vielleicht etwas, was Sie schon kennen,
+das ist die sogenannte spezifische Gaskonstante.
+Hat den schönen Namen RAS.
+Da wir später sowieso blaue Kisten für irgendwelche Formeln haben,
+packe ich das jetzt mal in einen blauen Kasten,
+Daraus kommen wir nämlich auf unsere ziemlich fundamentale Gleichung T mal V ist gleich RS mal M mal T.
+Jetzt gebe ich noch einen zusätzlichen Hinweis.
+Nur um vielleicht so ein bisschen zu triggern, was man damit jetzt machen kann,
+auch mit den Informationen, die wir jetzt noch haben.
+Denn wir haben hier das Volumen drin und die Masse.
+Volumen und Masse, haben wir vorhin schon festgestellt,
+ist das spezifische Volumen, klein v.
+Und das spezifische Volumen, klein v, ist nichts anderes als der Querwert von Rho.
+Das heißt, selbst wenn wir die Masse und das Volumen gar nicht bestimmt haben,
+aber wir kennen die Dichte von dem Gas, können wir mit der Formel schon rechnen.
+Und die Dichte von Gas kriegt man aus jedem gut sortierten Tabellenbuch.
+Also Materialkonstanten.
+Das heißt, es wird dann da natürlich Gaskonstanten rausgegeben.
+Da müssen wir noch eins der Vollständigkeit halber machen, denn von welchen Einheiten sprechen wir eigentlich bei der Gaskonstante?
+Das ist ja ein ganz kurzer Exkurs.
+Physik, und ich glaube in besonderen technischen Physik, was wir hier ja machen, haben Sie ein Auge auf die Einheiten.
+Also, Herr Hesse hat wahrscheinlich schon was zur Klausur gesagt, wie das so abläuft, was man mitnehmen darf und so.
+Ja, ich kann Ihnen nur einfach den Tipp geben, machen Sie sich jetzt schon die Notizen für Ihre private Formel-Sendung.
+Und ich sage Ihnen auch, warum.
+Ich gebe meistens, ich versuche es immer so ein bisschen vorzugeben, was für Aufgaben drankommen.
+mal machen wir die hier gemeinsam
+mal gebe ich die einfach mit
+und mache sie dann nochmal nach
+gucken Sie schon
+welche Formeln sind auf der Formelsammlung
+die hier rauskommen
+welche Formeln müssen noch auf ihre private Formelsammlung
+und vielleicht so kleine Hints
+die ich hiermit gebe
+einfach mal draufschreiben
+löschen kann man immer machen
+vielleicht gar nicht so blöd
+denn
+Einheiten
+Denn ich kenne keine Klausur, in der ich mich mindestens fünfmal über Einheiten verzweifle.
+Weil man sich über Einheiten relativ gut reinholen kann, ob man richtig oder falsch liegt.
+Wenn die Einheiten für Leistung nachher ein Minutenmeter sind, dann hat man irgendwas vergessen.
+Wenn die Einheiten von Druck Kilo ist, dann hat man irgendwas vergessen.
+Und ich weiß, dass das Zeit zu kosten scheint, aber es ist ein super Mittel, um zu gucken, ob ich eigentlich auf dem richtigen Pfad bin.
+Nehmen Sie sie mit. Also, Einheiten.
+Die Einheit von der Gaskonstante.
+P mal V mal T, K durch T.
+Da sprechen wir also von Newton pro Quadratmeter, das ist der Druck, spezifisches Volumen, Kubikmeter pro Kilogramm, Temperatur 1 pro Kelvin
+Und damit haben wir nachher Newton pro Kilogramm Kelvin.
+Newtonmeter.
+Genau.
+Also hier unten durchgestrichen.
+Die Angabe, die Sie finden werden, ist ganz ordentlich.
+Das ist nämlich Joule pro Kilogramm Kelvin.
+Diese Einheit, Joule pro Kilogramm Kelvin, werden Sie immer sehen.
+Und wenn man sich das anschaut, Sie erinnern sich, dass etwas auf die Masse bezogen spezifisch sein könnte,
+dann ist hier durchaus auch die spezifische Energie drin.
+Und zum Nachdenken, die spezifische Energie pro Grad Celsius steckt da mit drin.
+Und das macht Sinn, dass eine Gaskonstante genau das mit reinbringt.
+Gut. Das ist übrigens dann keine Kurzfrage, oder? Viel zu technisch.
+Aber die Einheit, die werden wir nun wieder brauchen.
+Hier ein paar Werte, die brauchen Sie sich nicht merken.
+Ich werde in Klausuren, es gibt es ein paar Werte und Konstante, die ich voraussetze, dass man sie weiß.
+Das ist die Molare-Gaskonstante, die steht aber meiner Meinung nach eher auf der Formelsammlung.
+Das sind so Dinge wie Erdbeschleunigung, Entschuldigung, aber 9,81 kann man sich merken.
+Und das sind so Dinge wie Dichte von Wasser.
+Aber sonst, Materialwerte inklusive Gaskonstanten werden bei mir auf jeden Fall vorgegeben.
+Gut.
+Jetzt hatte ich eben schon dieses komische Molare-Wort in den Mund genommen.
+denn ich finde es gut
+dass man sich da auch mal so ein bisschen
+den Zusammenhang aufbaut
+wie bestimmte Dinge eigentlich miteinander
+in Zusammenhang stehen
+also Thema
+Gaskonstante
+das da
+das da
+ist die ideale Gasmöglichkeit
+ich schreibe das dazu
+mit ausgezeichnet
+Manchmal verliere ich dann das Schreiben auf dem Weg hierher.
+Und wenn ich etwas schon im Ausrufezeichen lege oder ich Kästchen drum mache, heißt
+das, dass das wichtig ist.
+So, wir gucken uns noch einen weiteren Tipp an, und zwar, wie hängen jetzt eigentlich Stoffmenge und Lagermasse-Teilchen, wie hängt das Ganze zusammen.
+Das ist ein bisschen ein Exkurs jetzt, der sich, glaube ich, auch erst übernächste Vorlesung wieder ein bisschen auflöst, wenn wir dann wirklich mal ins Rechte kommen.
+Ich habe vorhin ja schon gesagt, in der klassischen Thermodynamik passiert das viel mehr.
+Im Grunde Ihr Glück, das jetzt nicht als Vollfachlesen.
+Auf der anderen Seite habe ich Pech, weil Sie diese super komprimierte Form hier kriegen.
+Zur Übersicht, das ist etwas, was man sich einfach auch irgendwo hinbacken kann.
+Und dann, wenn Aufgaben im Bereich von Mon oder Ähnlichem kommen,
+weiß man, wie sie miteinander zusammenstehen.
+Denn zwischen Masse M und der Teilchenzahl N,
+Teilchenzahl, wie der Name schon sagt, das ist Einheiten groß,
+Da können wir es einfach mal umsuchen, das sind dann echte Zahlen.
+n mal n.
+Also das ist die Masse von einem Teilchen, also die molare Masse von einem Teilchen,
+mal der Anzahl der Teilchen ist dann das Gesamte.
+Vielleicht können Sie sich das so schreiben.
+Die molare Masse eines Teilchens.
+X-Zusammenhang
+Masse und Dichte
+da brauche ich nicht viel zu sagen
+das ergibt sich von selbst
+das Volumen ergibt sich
+wenn ich die Masse
+mit der Dichte
+multipliziere
+Dichte ergibt sich dadurch
+als Masse pro Volumeneinheit
+den Punkt verbuche ich unter Bekannt
+wenn wir jetzt nicht so tief einbleiben
+dann haben wir
+ganz kurz
+im Grunde die ungedrehte Frage
+wenn ich meine
+Masse habe
+und ich will wissen, wie viel
+meine Stoffmenge ist, also in Mon
+dann muss ich auch
+über die Monatmasse
+n mal n
+n durch n
+Jetzt gucken wir uns die anderen noch an.
+Arugano, Translante.
+Ich habe eben was dazu gesagt.
+Sie brauchen sich nicht bemerken.
+Wenn wir sie brauchen, wird sie vorgegeben.
+Da kann ich dann zwischen Teilchenzahl und Stoffmenge umrechnen.
+Das ist im Grunde die Umrechnung aus wieviel Teilchen in echt und wieviel Mol.
+Das ist die Mol-Konstante, wenn man sie will.
+Und dann noch das molare Volumen, das sich aus dem echten Volumen und der Stoffmenge ergibt.
+Damit man dann wie das Volumen von einem Mol aussieht.
+Also Mohl ist ja eine bestimmte Stoffmenge für die Avogadro-Konstante.
+Also im Zusammenhang, ich werde da nicht viel drauf umreiten, um nicht ehrlich zu sein,
+aber wenn die Aufgabe zu bekommen kommt und man ein bisschen nochmal nachschauen will, ist es nicht ganz falsch.
+Die meisten Teile werden sich eh darum gehen, dass es eine Menge von 5 Nolen eines bestimmten Gases gibt
+und dann muss irgendwas ausgerechnet werden, was das bedeutet.
+Das sind so die Klassiker.
+Ich werde es ein bisschen so halten, ich weiß nicht, was Herr Hesse dazu gesagt hat.
+Ich habe im Grunde drei Aufgabentypen in meinen Klausuren.
+Ich bin damit dann auch in den Klausurabstieg Thermodynamik.
+Ich habe richtige Rechnungaufgaben.
+Ich kann meistens einen größeren Aktienbereich machen.
+Ich habe Kurzfragen und in den Kurzfragen werde ich auch ein bisschen Rechnung lassen.
+Tatsächlich waren das in bisherigen Fragen immer so die Kinte garantiert, weil das die Kleinen aufgenommen haben.
+Oder so relativ stumpfe Zusammenhänge gefragt werden.
+Da können dann natürlich auch solche einfacheren Fragen, nur die Anwendung von Ideal-Gas-Gesetz,
+nur die Anwendung von irgendwelchen Kommunalitätsgleichungen oder so von Vorkommen,
+vielleicht auch sowas, was wir eben hatten.
+So, dann sprechen wir noch von der universellen Gaskonstante.
+Das da hatten wir eben, ne?
+Bekannt.
+P mal V, M mal R, R mal T, idealen Gasrechnung.
+Wenn wir das jetzt auf das spezifische Volumen beziehen, fällt natürlich die Masse raus.
+Jetzt können wir das Ganze aber auch noch auf die molare Gaskonstante umrechnen.
+Denn dieser Punkt, Masse, Volumen und die Konstante rs, können wir auch in molarer Masse und in mol-Anzahl und der molaren Gaskonstante ausdrücken.
+Wenn wir das tun, im Grunde machen wir jetzt gerade nur das mit, was eben in der Grammstunde passiert.
+die Stoffmenge m
+messen wir
+in m durch die
+Argon-Konstanten
+in molare Masse, auch einfach
+zur Definition, dass die Masse
+eines Mols, oder der Verbindung
+sie hat die Einheit Gramm pro Mol
+und die ist tatsächlich für jeden Stoff
+einfach unterschiedlich. Ist ja klar, wenn ich
+unterschiedliche atomare Zahlen habe, ist es
+meistens auch eine andere molare Masse.
+Passt.
+Ich mache das ein bisschen schneller drauf.
+Schauen Sie sich auf jeden Fall
+diese Definition an.
+Drucken Sie nochmal drauf.
+Ist das soweit verstanden?
+Drucken Sie nochmal den Weg zurück.
+Ist das im Diagramm dann verstanden?
+Denn
+als Kleines
+können wir folgendes machen.
+Das Ding nehmen
+und versuchen auf n aufzulösen.
+Mit den Formeln, die wir da haben.
+Vielleicht gar nicht so hoch, da mal ein bisschen was mit rumzuspielen.
+Gut, zwei Gleichungen, die man also merken kann.
+Das ist tatsächlich auch empirisch bewiesen.
+Diese universelle Gas-Konstante scheint zu klappen.
+wir haben hier eine Konstante
+die für alle
+oder nahezu alle idealen Gase
+geht so ein bisschen im statistischen Rausch
+hier runter
+funktioniert, dass diese monare Gaskonstante
+gleich ist
+deswegen wird sie auch
+wenn Sie das irgendwo in der Literatur haben
+der Begriff wird
+meinem Wissen nach auch einfach parallel genutzt
+universelle Gaskonstante, monare Gaskonstante
+ist das gleiche
+spezifische Gaskonstante
+das ist dann das, was für ein spezifisches Gas
+für ein spezifischer Stoff, für ein spezifisches Element gilt
+molare Gaskonstante, molare Gaskonstante.
+Wir haben also jetzt schon, nur über diese Herangehensweise,
+wie können wir das eigentlich miteinander umrechnen,
+haben wir die ideale Gaskonstante, wenn wir die spezifische Gaskonstante eines Gases kennen.
+Über das spezifische Volumen kommen wir sogar eigentlich drum herum,
+dass wir explizit die Masse wissen müssen und explizit das Volumen wissen müssen,
+weil wir im Grunde den empirischen Zusammenhang über die spezifische Glaskonstante schon herstellen können,
+zwischen zwei Zuständen.
+Haben wir die spezifische Glaskonstante nicht, können wir es zumindest auf Elementebene über Teilchenanzahlen lösen
+und haben auch rechnerische Möglichkeiten, uns die Grenzen zu lösen.
+Und ich sage ganz bewusst, und das sage ich sehr gerne, weil es hier einfach auch Ingenieure sind,
+für mich, da will ich einfach ganz ehrlich sein, ist das Thema Mulawe-Masse unglaublich schlecht greifbar.
+Ich gehe hier davon aus, dass es die Gucken alle so als würde ihnen das ähnlich gehen,
+das macht mich schon mal zufrieden, da bin ich nicht ganz so dumm.
+Das ist auch nicht trivial, weil es einfach schon relativ weit in die Chemie reingeht
+und man relativ weit so ein Grundverständnis dafür haben muss, wie Chemie funktioniert.
+Es ist aber trotzdem, Sie werden Ingenieur, man ist vor Chemie nicht befreit.
+Das kommt immer mal wieder.
+Und es ist tatsächlich, wir machen hier technische Physik.
+Thermodynamik, technische Physik.
+Es gibt eine Betrachtungsart der Thermodynamik, der geht dann eher in die technische Chemie.
+Ich will Sie nur vorwarnen, wenn Sie da Bock drauf haben.
+Da kann man sich dann richtig austoben.
+Und da ziehe ich dann auch einfach nur mein Buch, weil ich eben schon gesagt habe,
+die Hälfte nicht bestehen werde.
+Das ist aber tatsächlich nachher ein fließender Übergang.
+Wie lange kann ich etwas noch physikalisch beschreiben, ein bisschen makroskopischer,
+also ohne wirklich auf Atome zu gucken.
+Und wann muss ich eigentlich auf atomare Ebene, wann muss ich in die Chemie reingehen,
+um die Prozessführung auch genau zu beschreiben.
+Das ist eine andere Abstraktion.
+Das ist aber genauso richtig.
+Und es ist, wie gesagt, ein fließender Übergang.
+Darum auch ein Alaskan auf jeden Fall.
+Das Warum ist im Grunde eine kleine Zusatzerklärung aus der Physik.
+Es gibt die sogenannte Boltzmann-Konstante.
+Die beschreibt den kinetischen Zusammenhang zwischen Energie von unterschiedlichen Atomen,
+die miteinander kollidieren und die auch unterschiedliche Raumverdrängungen haben.
+Wenn man diese Boltzmann-Konstante, die sich ergibt,
+aus der Molaren-spezifischen, aus der Gas-Konstante, der Universären-Gas-Konstante und der Avogadro-Konstante.
+Ich brauche gerne kopieren und abschreiben und ausfällig lernen und nochmal natürlich reingelöstlich nachlesen.
+Das ist natürlich für mich eine beschreibungsgleiche, aber auch deutlich präziserer und deutlich,
+ja, tatsächlich für mich eher modellhafter Art und Weise, weil das ja alles auch Atommodelle sind.
+Gut. Es gibt aber noch einen anderen Aspekt. Und den finde ich eigentlich ganz spannend.
+Und da fangen wir jetzt gerade nochmal ein bisschen weiter. Denn hier, da oben,
+ich meine, das kennen Sie ja alle, das Präferiumssystem, ne?
+Hier steht oben rechts immer so eine Zahl.
+Und ich erinnere mich tatsächlich noch an, glaube ich, die 9. Klasse oder so.
+Habe ich mal gefragt, war so klar, dass mein Lehrer das gefragt hat, war nicht so die beste Idee,
+was denn das eigentlich für eine Zahl ist.
+Er hat gesagt, ja, das ist die Masse.
+Ich habe gesagt, aber das ist doch nicht die Masse.
+Kohlenstoff kommt doch daran an, wie viel es ist.
+Und musste dann der Lehrer etwas schlucken, bis es dann irgendwann bei ihm, glaube ich, noch wieder geputzelt ist.
+Und er hat gesagt, ja, das ist die Masse von einem Element, beziehungsweise von einem Mon.
+Das hier ist die monare Masse.
+Und wenn man jetzt mal hier ein bisschen rundet, kann man da relativ gut und einfach mit rechnen.
+Und damit Sie jetzt auch mal was tun, rechnen Sie mir mal bitte aus,
+was die monaren Massen von Sauerstoff, vom Sauerstoffmolekül und vom Kohlendioxid sind.
+Sie können gerne nochmal das Pyremon-System sich vornehmen.
+Wir haben fünf Minuten Zeit. Einfach mal so ein bisschen nicht nur zuhören, selber machen.
+Kurz mal ausrechnen.
+Vielen Dank.
+Vielen Dank.
+Dann schießt du.
+Sie sind soweit?
+Oder haben keine Lust mehr weiterzumachen?
+Ist auch okay.
+Passt.
+Wir lösen auf.
+Wie war das? Mini-Mädchen?
+Ob sie wirklich richtig stehen, sehen Sie, wenn das Licht angeht.
+Kennt das einer?
+Ich habe das als Bruchschüler gesehen.
+Ich war immer total neidisch.
+Vor allem, weil die Kinder noch nicht ganz schön viel wussten.
+Na ja, gibt es das noch?
+Ich glaube nicht, aber das gehen sie mal.
+Ich weiß aber auch gar nicht mehr.
+1, 2 oder 3, glaube ich.
+Da hüpfen wir alle rum wie die Weltmeister.
+Ich glaube, das sind alles ADS-Kinder, die einfach sich ganz viele Wege wussten.
+Gut, also.
+Molare Masse vom Sauerstoff.
+Ich habe Zeit.
+Ich habe Zeit.
+Ich habe sie eben schon gehört. Einfach mal laut sagen.
+Soll ich so die Hand davor halten, dann sieht's keiner.
+Wie viel Gramm pro Mol?
+Und es muss nicht die exakte Zahl sein, es reicht mir auch die ganze Zahl.
+Gerundet.
+Genau. Relativ stopp.
+Dann kommt man ins Periodensystem und rechnet irgendwie 10,9 oder so.
+16 Gramm Mohl.
+Dioxid, einfach, ist das Doppelte, sind also 32 Gramm von Mohl.
+So, und jetzt noch die Antwort.
+Wer kann drei Zahlen wichtig addieren?
+Kommt, Kohlendioxid, molare Masse von Kohlendioxid.
+Und danach ist es vorbei.
+48
+48? Was hatten Sie beim Kohlenstoff?
+Moment, wo sind wir jetzt?
+CO2
+CO2? Okay.
+Sagst du viel, sind viel.
+28
+CO2?
+Ich habe noch ein paar Folien hier hinterher.
+Das hier, bitte einfach mal zu Hause probieren.
+Wir sehen uns nächste Woche auch.
+Das hier wird ein Einstieg in die nächste Vorlesung.
+Das ist tatsächlich einfach mal so ein bisschen Vorbereitung von dem, was wir jetzt gemacht haben.
+Zeit ist aber durch. Ich bedanke mich bei Ihnen.
+Wir sehen uns die nächsten zwei Wochen.
+bin ich freitags mit Ihnen zusammen und wünsche bis dahin gute Restaurant und schöne Kampagne.

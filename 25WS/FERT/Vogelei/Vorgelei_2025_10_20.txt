@@ -1,0 +1,1017 @@
+Wir haben uns angeschaut, wann die Scheiße vernünftig ist und die Kriterien dafür sind.
+Sehr gut, ok. Perfekt. Können Sie auch nochmal so ein bisschen zusammenfassen, welche Kriterien da sein könnten?
+Also, Herr Graf hat gesagt, das Beste, was man machen kann, ist mitzuscheißen.
+Perfekt, ja, genau.
+Anschließend gibt es verschiedene Punkte, ob es die Kosten sind, das Material und darauf müssen wir machen.
+Was steckt hinter Kosten und Material?
+Je besser das Material ist, desto teurer ist es.
+Das muss nicht immer unbedingt sein, aber die Sichtweise darauf, ob es überhaupt schweißbar ist, das ist das Interessante dabei.
+Und Kosten sind so wirtschaftliche Aspekte, ob es nachher irgendjemand auch bezahlen mag, was sie da für ein Projekt haben.
+Genau, wunderbar, gut.
+So, gut, dann haben wir ja schon so ein bisschen Einführung auch gemacht, was Schweißen heißt und so und in welche Richtung das gehen kann.
+Deswegen jetzt nochmal neben diesem wirtschaftlichen Aspekt, gucken wir uns einfach mal diese Geschichte mit Schweißbarkeit an.
+Jede Menge Blech. Schauen Sie sich das einfach mal an.
+So, wir haben es eben schon gesagt, Werkstoff.
+Das kann eben Metall sein, das könnte auch nicht, oder ein Eisenwerkstoff, sprich Stahl,
+oder eben auch nicht
+Eisenwerkstoff sein, aber es könnte auch
+ein Kunststoff, es könnte eine Keramik,
+es könnte alles mögliche sein.
+Dann haben wir die Konstruktion.
+Ja, sie muss sich irgendwas hergeben,
+weil sie irgendwas bauen wollen.
+Und dann haben wir eben das passende Verfahren
+daraus zu wählen,
+um irgendwas
+auch tatsächlich
+umsetzen zu können, von den Gedanken,
+die sich jetzt zu Werkstoff und Konstruktion gemacht hat.
+Das heißt, die Schweißeignung, das sind diese Werkstoffeigenschaften,
+die Festigkeitseigenschaften, die stecken hier so zwischen Konstruktion und Werkstoff
+und hier unten die Schweißeignung, ob Sie das überhaupt machen können, was Sie da so vorhaben.
+Gut.
+Okay, danke.
+So, noch ein Teil, den haben wir hier dann noch mal weitergegeben.
+So, was haben Sie jetzt gesehen?
+Fangen wir mal mit der Analyse oben an.
+Fangen wir mal mit dem Werkstoff an.
+Was haben Sie gesehen?
+an Bauteilen, jetzt von mir.
+Ich glaube das war, das weiß ich jetzt leider nicht,
+aber eventuell war das große Bausteil, äh genau das,
+Pusseisen oder Baustein?
+Ja, das ist tatsächlich ein Baustein, klassischerweise, genau,
+mit einer gewissen Dicke.
+Weil, das wäre jetzt auch wieder so eine Geschichte
+zwischen Konstruktion und Werkstoff,
+dass man natürlich auch Werkstoffe in unterschiedlichen Ausprägungen, Dicken haben kann.
+Sie haben das ja auch gerade gesagt, auch Herstellmethodiken soll heißen,
+ein Gussmaterial oder ist es vielleicht doch lieber so ein Gewalzesprofil gewesen.
+In dem Fall ist es ein Gewalz, kann man auch so ein bisschen erkennen an der Oberfläche letztlich.
+So, und wenn ich ehrlich bin, eigentlich sind das alles Weißprodukte, die ich jetzt hier gezeigt habe.
+Und noch eine weitere Gemeinsamkeit, das waren eigentlich alles Stiele.
+Aber jetzt kommen wir in die Anwendung rein.
+Zumindest hatten wir hier zwei Stück gehabt, die irgendwie flach aussehen und zwei, die so aussehen.
+Und gerade zwischen diesen beiden gibt es hier wiederum auch einen verfahrenstechnischen Unterschied.
+Was könnte das sein?
+Die Konstruktion wäre eben, hier muss irgendjemand die Idee haben, die Kraft in die Richtung weiterzuleiten und hier ist nichts anderes, als die Kraft um 90 Grad weiterzuleiten.
+Das könnten beliebige Winkel sein, das Ding ist sogar ein bisschen schief, ob das jetzt Absicht ist oder ob das über das Verfahren entstanden ist, spielt in diesem Fall gar keine Rolle.
+Sondern jetzt geht es einfach nur darum, was wollen wir jetzt hier erreichen an der Stelle?
+Und welches ist das richtige Verfahren?
+Weil hier scheint das auch irgendwie dicker benaht gewesen zu sein.
+Hier sieht das ja noch grausamer aus eigentlich, also noch dicker.
+Und die beiden sehen irgendwie für gleiche Anwendung ganz anders aus.
+Viel schlanker, wenn ich mir die angucke, ist der zumindest relativ gerade.
+hier scheint irgendwas anderes schiefgegangen zu sein, dass es so schief ist im Bastel, okay.
+So, das heißt, gucken wir uns das mal im Detail an, gucken wir uns den Werkstoff an und dann haben
+wir hier eben sowas, Stahl. Was ist Stahl? Werkstoffkunde, erstes Semester, oder?
+Zwei Semester, ja. Was ist Stahl?
+Man könnte jetzt höher fest das Eisen dazu sagen.
+Was verbinden die mit Eisenwerkstoffen?
+Das ist ein Fe eben drin, also der Grundbestandteil Eisen, aber so als Konstruktionswerkstoff.
+Welche Festigkeit hat ein Eisen?
+Reines Eisen ohne Begleitelemente ist sehr sehr weich. Als Konstruktionswerkstoff wird
+sowas tatsächlich in Elektromotoren und so weiter eingebaut. Aber nicht als
+Konstruktionswerkstoff in Festigkeitseigenschaften, sondern eben um
+um jetzt irgendwelche Spulen usw. entsprechend umziehen zu können.
+So, also was macht aus Eisen Stahl?
+Irgendwelche Begleitelemente, die die Gittersstrukturen, von denen Sie ja schon mal gehört haben,
+so verspannen, dass plötzlich eine Festigkeit entsteht.
+Ich weiß nicht, ob man das macht.
+Und plötzlich können Sie so einen Tisch, ja, wenn der, wenn hier meine,
+obwohl das könnte doch ein normales Eisenprofil, also Stahlprofil sein,
+wenn das jetzt ein Eisen wäre und ich mich da massiv draufsetze,
+könnte es passieren, dass der schon umknickt, weil er eben viel zu weich wird.
+Mit begleitenden Menschen, wie zum Beispiel Kohlenstoff,
+siehe da, plötzlich verspannt das Gitter, plötzlich hat das Eisen eine Festigkeit
+und deswegen nehmen wir das Stahl.
+Das heißt wiederum, da gibt es noch so Gefügebestandteile, das nennen wir Martensit, wenn es zu Aufhärtungen geht.
+Eine Härte ist ja auch irgendwas, was einem größeren Widerstand irgendwelche Belastungen entgegensetzen kann.
+Also erstmal, als Eigenschaften selber und in der Umsetzung sind das durchaus positive Eigenschaften.
+Plötzlich funktioniert irgendwas, plötzlich kann ich das irgendwie ganz gut einsetzen.
+So, das heißt jetzt aber, jetzt kommt es so ein bisschen drauf an, was steckt denn da jetzt tatsächlich drin.
+Und wenn wir jetzt eben anfangen, wie hier dargestellt, mit diesen Teilen irgendwie zu schweißen oder sowas,
+dann kann es eben auch sein, dass was auch immer da drin steckt, plötzlich nicht mehr so verteilt ist, wie wir das für richtig halten.
+plötzlich ein Mechanismus, zum Beispiel Martensitz, der Aufhärten veranstaltet, ganz anders zum Tragen kommt, wie bei dem gewalzten Material.
+Wenn das als Malzprodukt rauskommt, ist das vielleicht immer noch relativ minder fest.
+Wenn wir es geschweißt haben, ist das plötzlich extrem fest auf der Oberfläche.
+Das heißt, da müssen wir uns ein bisschen mit auskennen.
+und das ist tatsächlich auch schon die große
+Kunst der Schweißtechnik
+zu wissen und jetzt
+unabhängig ob das Stahl, ob das
+Kupfer, Aluminium, was auch immer
+ist, wie verhält sich der
+Werkstoff, wenn man anfängt auf dem
+irgendwie mit Temperatur
+auflagen eben zu arbeiten
+so
+und das heißt
+das ist eben genau dieser eine
+Pfeiler der Schweißbarkeit, wie ich es gerade
+gezeigt habe, ja, da muss ich
+mich mit diesem Werkstoff eben auseinandersetzen, nicht nur wie er hergestellt wird, sondern was
+eben tatsächlich passiert, wenn ich auf dem weiß. Deswegen ist das sowas hier zum Beispiel für mich
+einfach ein sehr gutes Beispiel. Kennt sich mit Kochtöpfen aus? Ja, hat doch jeder mal eine Hand
+gehabt zum Kochtopf, oder? Ja, also vielleicht so einer mit Henkel noch dazu. Aus welchem
+Werkstoff ist denn der? Was ist denn da im Werkstoff drin?
+Ingenieursmäßige Herangehensweise, was muss ein Kochtopf können?
+Hitze beständig sein.
+Hitze beständig sein, okay. Wie sieht es mit Festigkeit aus?
+Ja, irgendwie, bis er aufgefüllt ist, muss er auch irgendwie halten, klar.
+Gerade, wenn Sie einen Griff dran haben, muss das irgendwie sein, okay, auch das, was muss
+er noch haben?
+Irgendwie dicht vielleicht sogar, damit nichts rausfällt, außer die hohe Öffnung versteht
+sich.
+Ja, das heißt, und was muss er noch können, wenn Sie den in den Geschirrspüler tun oder abwaschen und so weiter?
+Der kommt ja dann definitiv auch mit Wasser und auch mit sehr aktivem Wasser, wenn da Spülmittel drin ist und so weiter.
+Was muss der können?
+Ja, genau, Korrosionsbestände.
+Das heißt, wenn Sie den eben aus der Geschirrspüler nehmen und der ist rot, weil er eben so viele Korrosionsprodukte hat,
+dann haben Sie auch keinen Lust mehr mit dem weiterzukommen.
+Wir kennen sowas vielleicht aus Eisen, es gibt ja so Eisenpfannen oder sowas, die wegen Geschmacksaroma und so weiter,
+wenn Sie mit denen nicht richtig aufpassen und die länger am Rumpel liegen lassen, können die eben anfangen zu korrodieren.
+Unser normaler Topf kann das nicht.
+Gut, warum kann er das nicht?
+weil er eben, das steht hier gar nicht, hier in dieser Metallnorm, ja verbaut letztlich, da ist ein Chrom drin.
+Chrom ist als Lieferungsbestandteil dafür zuständig, dass ich korrosionsbeständig werde.
+Ja, aber das ist jetzt erstmal gar nicht so das Thema, weil wir müssten uns jetzt ja alle möglichen Bestandteile uns angucken.
+So was machen wir denn mal, wenn Sie da nähere Informationen haben wollen. Ich habe sowas wie
+vertiefte Schweißlehnen, da kümmert man sich ein bisschen darum, was tatsächlich jedes Begleiter
+mitmacht. Hier möchte ich mal einmal auf den Kohlenstoff und eben einmal auf den Schwefel
+eingehen. Der macht, wie gesagt, Festigkeit. So ein Schwefel macht was, dass der Stahl schnell
+zu bearbeiten ist. Der macht nämlich den Stahl ein bisschen spröde, sodass, wenn der Drehmaser
+darüber geht, das ganz schnell geht. Weil was möchte ich beim Drehen nicht haben? Wenn sich
+der Span letztlich so aufarbeitet und ganz lang wird, weil dann bin ich extrem genötigt,
+den immer mal wieder abzuscheren und das macht bei diesen Chronikgestehlen eigentlich keinen
+Spaß. Wenn ich da aber die Schwefel dazu tue, funktioniert das plötzlich. Plötzlich macht der
+kurzen Spar, obwohl so ganz wenig drin ist. Hier sehen Sie, 0,3 Prozent Schwefel reicht aus, um dem ein bisschen
+Spröde zu machen. Der ist immer noch brosionsbeständig, der ist immer noch dicht, der hat alle Eigenschaften, die
+Sie eigentlich haben wollen. Nur, dass Sie ihn plötzlich sehr schnell bearbeiten können. Wie wird ein Kochtau hergestellt?
+der wird tief gezogen.
+Das heißt, da kommt ein Werkzeug
+und presst aus dem Blech
+einfach die Form.
+So, das ist jetzt ja nicht
+Bestandteil jeder Vorlesung, sondern
+jetzt geht es eben da weiter.
+Dann muss ich da drüber drehen,
+damit ich eben eine gewisse Oberflächenstruktur
+habe. Ja, das wäre
+jetzt eben hilfreich mit dem Schwefel.
+Und jetzt kommt ja der Henkel
+noch dran. Das heißt, ich habe dann hier
+meinen Topf und der kommt hier an der Seite
+der Henkel. Weil da will ich anfassen. Ob das jetzt nur so ein kleiner Henkel ist oder so ein entsprechend
+langeres Henkelteil, spielt jetzt erstmal keine Rolle. Irgendwie muss der jetzt da dran.
+Und der Clou zum Beispiel bei dem Schwefel ist, dass das nicht funktioniert. Dass mit dem Schwefelgehalt von 0,3
+meine Naht dummerweise auch spröde wird, aber die wird dann so spröde, dass mir der Henkel sogar
+abfällt. Er fängt sofort an zu reißen, wenn ich daran mit Temperatur unterwegs bin.
+Was könnte jetzt eben das Problem sein? Ja, dass eben die Leute, die drehen, Schwefel
+haben wollen, die Leute, die schweißen, den nicht haben wollen.
+So, Sie sitzen jetzt in der Produktionsplanung und sollen entscheiden, was machen wir denn jetzt?
+Sind wir schnell unterwegs mit Schwefel beim Drehen, können das Ding aber gar nicht
+schweißen oder umgekehrt. Das will ich entscheidend fassen.
+Schauen wir mal, ob das eine alternative Möglichkeit gibt. Genau. Also ich kann auf beiden Seiten gucken, ob ich beim Drehprozess, ob ich den überhaupt brauche,
+vielleicht reicht auch das Tiefziehen schon. Ja, und wenn ich so ein bisschen drehe,
+könnte ich auch überlegen, ich muss nur irgendwie eine kleine Kante drehen, da ist das nicht so
+schlimm, wenn das so langsam geht. Und umgekehrt beim Schweißen könnte ich sagen, ich will das
+unbedingt mit dem Schwefel haben, vielleicht gibt es ja Schweißprozesse, die mit dem Schwefel irgendwie
+klarkommen. Sehen Sie? Und schon ist es eigentlich gar nicht mehr so trivial, so einen einfachen
+Kochtopf herzustellen, weil Sie müssen genau solche Entscheidungen an der Stelle treffen.
+So, und wie gesagt, der Clou an der Sache ist, was macht mir mein Kohlenstoff da oben,
+ja, ist der vielleicht überhaupt gar nicht drin, weil ich gar nicht so fest sein muss,
+dann habe ich auf der Seite vielleicht auch gar kein Problem, sondern nur auf der Schwefelseite.
+So, das sind zwei Legierungsbestandteile. Was macht mein Chrom, was macht der Nickel,
+der da auch noch drin ist. Und so weiter und so fort. Und schon haben Sie eine wilde Geschichte, um herzuleiten, ob das geht oder nicht.
+Von was wir eben im Schweißen, das sehe ich jetzt mal, diese Nahtmasse, die schneiden wir jetzt einfach in der Mitte durch und gucken einfach von der Seite drauf.
+Hier bei ein bisschen dickerem Blech ist das allerdings.
+Wenn wir von der Seite drauf gucken, sehen wir, dass das, und das war mal geschweißt,
+das ist eben die Schmelze gewesen, die jetzt erstarrt ist, und wir das Blech mit dem Blech verbinden.
+So, das Dumme ist eben nur, dass jetzt zum Beispiel der Schwefel,
+wenn der in so einem Bauteil vorhanden ist, gar keine Lust hat, zur gleichen Zeit zu erstarren wie der Rest.
+Von der Seite. Hier sehen Sie ja irgendwelche Zeichnungen.
+Das heißt, irgendwas passiert anscheinend während der Erstarrung.
+Das heißt, ich habe hier solche Rippenstrukturen in dieser Naht.
+Was könnte das sein?
+da erstarrt ja irgendwas.
+Und so eine Naht, egal was ich Ihnen jetzt auch gezeigt habe,
+das kann ja nicht auf einmal einfach von flüssig fest werden,
+sondern es erstarrt in dem Fall von den kalten Außenbereichen nach innen.
+Das heißt, das wächst quasi von da außen nach innen,
+bis es dann in der Mitte irgendwo zusammentrifft und dann eben komplett fest wird.
+So, und wenn jetzt Schwefel drin ist, dann hat er kein Luft dazu, das heißt, diese beiden
+Fronten, die wachsen hier aufeinander zu, schieben aber den Schwefel vor sich her und
+wenn der denn irgendwo zusammentrifft, gibt es schon wiederum Spannungen, die dann eben
+dafür sorgen, dass an einer Flüssigkeit in der Mitte gezogen wird.
+Und Flüssigkeit hat eben keine Festigkeit.
+Also ohne dass hier diese Mischung stattgefunden ist, wäre das nicht alles erstarrt. In dem Fall
+habe ich noch Flüssigkeit, es schrumpft und es reißt und das heißt, Ihre Naht geht plötzlich
+in der Mitte kaputt. Was soll ich sagen, das ist natürlich das Schlimmste, was Ihnen passieren
+kann. Sie haben da Mühe voll rumgeschweißt und dann reißt es und dann können Sie das
+Teil mit dem Henkel an Ihrem Topf trotzdem wegschmeißen, weil das wohl nicht funktioniert.
+Kann man das so verstehen? Hat was mit Werkstoff zu tun, hat was mit Spannung zu tun, hat aber eben genau diese Werkstoffwahl zufolge, weil sie eben vorher die Entscheidung getroffen haben, ich nehme das Schwefel mit rein und schneller drehen zu.
+So, jetzt mal ein Beispiel aus der Praxis. Jetzt haben sie eben gesagt,
+nein, die legen fest in der Arbeitsvorbereitung, so machen wir das nicht. Wir nehmen ganz wenig
+Schwefel nur oder möglichst gar keinen Schwefel. Das sind so die Sachen, die kriegen sie nicht
+ganz raus. Aber der Leistung, der stört mich auch nicht, wenn der jetzt eine Zehnerprozent weniger Grün hat.
+So, das haben sie alles festgelegt und jetzt sind ihre Mitarbeiter unterwegs auf Nachtschicht.
+Die drehen dann fleißig ihre Töpfe und stellen fest, mein Gott, ich bin viel zu langsam damit, ich muss ja fertig werden.
+Ich will vielleicht nach Hause oder sowas. Und dann gehen die eben ans Regal von den anderen Werkstoffen und nehmen sich den hin.
+Weil da wissen sie, aha, das fehlt mir drin, da bin ich viel schneller beim Drehen.
+Am nächsten Tag, auf der nächsten Schicht, kommt eben die Schweißerin, der Schweißer und siehe da, die Henkel fallen alle runter, weil das nicht funktioniert.
+Und das sind normale Storys, sage ich mal, dass es immer wieder passiert, dass ganze
+Chargen irgendwie ein Problem kriegen und keiner sagt, oh, da war ein Dreher oder ein
+Schweißer und dann wird eben hin und her überlegt, was dann passiert ist.
+Manchmal ist es auch einfach so, dass dann der Werkstofflieferant den falschen Werkstoff
+geliefert hat, dass das gar nicht Absicht war, sondern dass man einfach gedacht hat,
+man hätte den richtigen Werkstoff. Was macht man dagegen? Sie machen gleich tausend Töpfe in der
+Nachtschicht, die schmeißen alle weg. Oder sie testen eben vorher, was für einen Werkstoff
+ich auch tatsächlich da habe. Sie legen einfach fest, okay, wir müssen einmal gucken, ist es der
+richtige Werkstoff und erst dann geht man in die Produktion dieser Pfeiler. Gut, weil wir sowas eben nicht haben.
+Auch nur noch mal ein Bild, um zu zeigen, ja, in Abhängigkeit, jetzt haben wir hier Brom, Molybdenum, Silizium und so weiter, Titan und so, und hier auf der anderen Seite andere
+Das heißt, es gibt natürlich nicht nur Überlegungen, sondern klare Vorgaben.
+Man hat in den Jahrzehnten mit allen möglichen Werkstoffen schon rundexperimentiert und hat festgestellt, was da so passiert.
+Also, wenn ich die zusammenzähle und die zusammenzähle, kriege ich eben hier auf der x- und y-Achse irgendeinen Wert, lande hier irgendwo.
+Man kann sagen, das Material wird reißen, das heißt es, das wird grobe Körner bekommen, das kriegt ein Kaltriss und so weiter.
+Also ich kann schon mal vorhersagen, anhand der Werkstoffzusammensetzung, der tatsächlichen, auch komplexer Zusammensetzung, was der Werkstoff so macht.
+Und ob er schweißbar ist oder nicht.
+Weil das wollen wir ja irgendwie schon mal anwenden, schon mal wissen.
+Gut.
+Also, das wäre das Thema Werkstoff.
+Konstruktion, hatte ich ja gesagt.
+Wir haben einmal den sogenannten I-Stoß, da geht es irgendwie gerade weiter.
+Hier geht es um 90 Grad versetzt.
+Das heißt, irgendwie muss ich jetzt ja jedes Mal wiederum diese Verbindungsstelle erzeugen
+und mir vorher Gedanken machen, wie die Kraft jetzt da eben auch umgelenkt wird und weitergeführt wird.
+So, deswegen auch hier zu den beiden Teilen, die ich umgegeben habe, hier auch wiederum so ein Schliff.
+Da sehen Sie irgendwie eine Überhöhung, eine kleine Unterwölbung.
+Hier sehen Sie eben auch, dass sich hier so ein Dreieck bildet letztlich.
+So, das bedeutet wiederum, Kräfte können jetzt hier so umgelenkt werden.
+und ich muss mir Gedanken machen, bin ich jetzt vom Querschnitt her groß genug oder nicht.
+Wenn Sie die beiden mal angeguckt haben, haben Sie hier relativ viel Querschnitt, viel Material und hier war ganz wenig.
+Konstruktiv ist es aber genau das gleiche.
+Werkstoffmäßig ist das ein Pro-Nickel-Stahl, deswegen glänzt der so und das wäre jetzt ein Baustahl.
+Aber jetzt von der Herangehensweise könnte ich das Beides schon machen, aber es sind zwei unterschiedliche Verfahren.
+Warum mache ich das? Was könnte der Hintergrund sein?
+Die Abbausammlung?
+Genau. Was ich mit dem Teil machen will.
+Dummerweise sind jetzt im Anschauungsobjekt das einigermaßen gerade und das sieht so ein bisschen schief aus.
+Hier wurde aber tatsächlich nur beim Ausrichten gepusht, das Schweißverfahren selber, weil es so
+klein und schmal ist, hat er viel weniger Wärme und das bedeutet an der Stelle, dass ich eben
+viel weniger Verzug haben soll. Das sieht man so ein bisschen auch hier. Und Sie haben es in den
+Händen gehalten. Das ist das Ding hier. Das heißt, ist das gut oder nicht gut, ein Zirkus-Zelt.
+Ich habe noch Gedanken gemacht, wenn Sie ein Bauteil haben wollen, was eben eine Gerade
+haben muss, weil es eben ein Blech ist, was jetzt irgendwelche Kräfte übertragen soll,
+ist das schon, das sind ja mindestens 15 Grad oder sowas, was das Teil hier entsprechend
+auftreten. Und damit
+seine Funktion vielleicht nicht mehr tut.
+Und wir reden ja gerade von Konstruktion.
+Das heißt, wenn ich jetzt
+hier Design natürlich stelle
+und so weiter
+Steifigkeiten, Übertragungen
+und so weiter, Festigkeiten habe,
+kann das vielleicht schon zu viel sein.
+Und siehe da,
+da gibt es anscheinend ein Schweißverfahren, was das
+in sogar noch
+dickerer Variante viel gerader
+hinbekommt. Ohne dass es
+tatsächlich sich verzieht.
+Und das hat eben zur Folge, dass wir uns über die Verfahren Gedanken machen müssen, auch
+noch den Werkstoff und Konstruktion, was wir haben wollen, machen wir uns immer noch Gedanken
+dazu, welches Verfahren jetzt für welche Konstruktion und Anwendung und Anforderungen
+genau das Richtige ist.
+Weil das sind die klassischen Jobs, sage ich mal, so eine Arbeitsvorbereitung im Konstruktionsbereich,
+gepaart mit
+Einkaufstätigkeiten, dass man eben
+sich, oder Verkaufstätigkeiten
+überlegen muss, wiederum das
+Thema mit den Wirtschaftlichkeiten.
+Welches dieser Schweißverfahren kann ich
+mir leisten und was kann ich
+nachher auch verkaufen?
+So.
+Und
+wir haben eben
+Systeme, die brauchen jetzt
+für eine Nahttiefe,
+Hier mal angedeutet, das sind irgendwelche 25 Millimeter.
+Wir haben hier 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 Lagen.
+Das heißt, ich kriege das nicht auf einmal gefüllt, also schweiße ich hier, dann schweiße ich hier was
+und dann wächst das in dieser Schaufuge, wächst mein Material auf, natürlich bitte in die Längsrichtung.
+Hier nochmal zum Verständnis, das wäre wieder sowas, dass ich hier das in der Mitte geschnitten habe und dann reingucken kann ich nie nach.
+Wenn mir das eben zu viel ist und zu viel Wärme ist, wäre das ein Strahlprozess, Laser- oder Elektronenstrahl.
+Und siehe da, das ist das, was ich Ihnen gezeigt habe, das ist nämlich beides ein Laser, der das gemacht hat.
+gemacht hat. Viel schmaler und damit ein bisschen andere Eigenschaften. Das ist eine Spezialität übrigens, das ist ein Laser-Handschweiß. Das ist tatsächlich auch händisch gemacht, deswegen ist es doch wieder schief geworden, weil man da an der Stelle beim Einrichten, wie gesagt, einen Fehler gemacht hat. Aber man sieht ganz viel weniger Wärme, obwohl die Schweißtiefe, hier sieht man auch die 25, also das ist analog.
+Und trotzdem gibt es hier eine Verbindungsstufe.
+So, was sagen wir denn jetzt als Einkörper dazu?
+Ich würde Laser nehmen, weil man mehr Materialien spart und weil es präziser und besser wird.
+Also, da haben wir ganz wichtige und richtige Gründe. Das ist ein Verfahren, was, wie Sie es gesagt haben,
+entsprechend Einsparpotenzial hat. So, was könnte jetzt dagegen sprechen? Warum werden sie es gleich doch nicht machen?
+Wahrscheinlich kosten sie Geräte auch viel, oder? Genau. Also jetzt brauche ich eine Anlage, mal einen Vergleich. Die Anlage, die das hier schweißt, kostet so zwischen
+fünf und 15.000 Euro. Die Anlage kostet einige hunderttausend Euro.
+Auf Dauer spart man sich das Geld, oder? Ja, perfekt, völlig richtig. Wenn Sie langfristig denken und sagen,
+okay, ich kann mir hier entsprechend über viele Stückzahlen das entsprechend herleiten und kann
+sagen, über drei Jahre habe ich das ganze Thema wieder amortisiert, dann ist es sogar völlig egal, was das Gerät
+kostet, wenn Sie es nur über die Zeit und über die Stückzahl wieder reinholen. Aber die Gedanken müssen Sie auch
+erstmal machen. Ja, dass einfach klar ist, da scheint irgendwas teurer zu sein. So, jetzt mag es aber auch sein, dass
+solche Nähte noch eine andere Vorbereitung brauchen. Plötzlich muss ich viel sauberer arbeiten. Plötzlich reicht auch
+nicht mehr wie bei diesem Verfahren, dass ich da einfach mit einer Schlagschere oder so was das
+abschneide, sondern ich muss hochpräzise fräsen, damit die beiden Kanten auch super zueinander
+passen. Was bedeutet das wieder? In Ihrer Rechnung müssen Sie jetzt einfach wieder einkalkulieren,
+Moment mal, da gibt es ja auch vor- und nachgelagerte Prozesse. Wie teuer sind die denn
+jetzt? Und wann haben die sich wiederum amortisiert angestellt? Und deswegen ist es ja auch so
+schwierig, weil man muss immer die Technik sich anschauen und muss die Vorteile, die hier völlig
+auf der Hand liegen, eben entsprechend gegenrechnen gegen die Kosten und gegebenenfalls auch technische
+Nachteile, die da noch mit dabei sind. Und siehe da, das sind Schmelzprozesse, weil die Erzeugung
+sowas, und hier haben wir jetzt eine Spreifung, die sieht eigentlich ein bisschen ähnlich aus, ist aber
+von der Technik was ganz anderes,
+da wird nämlich einfach mechanisch
+nur das Material verrührt.
+Das wird nicht geschmolzen,
+sondern das wird einfach nur mechanisch
+so ineinander
+sag ich mal
+verrührt,
+ja, das ist ein besseres Begriff, finde ich,
+sondern das ist eben an der Stelle
+eine mechanische,
+beziehungsweise in dem Fall
+eine Festphase, nennt man das,
+Verbindung.
+Sie hat womöglich auch wieder Vorteile, noch geringere Temperaturen, noch geringerer Verzug
+wie das hier, kostentechnisch sind die so ein bisschen analog, auch sehr teuer, aber
+vielleicht wollen sie das hier nutzen.
+Bei diesem Verfahren muss man dann noch mehr hingucken, ob man die Technik überhaupt einsetzen
+kann.
+Weil deswegen habe ich gesagt, Mechanik und Kraft, hier kommt tatsächlich eine Mechanik,
+Hier wird irgendwie gepresst, hier wird echte Kraft eingeleitet ins Bauteil.
+Das dünne Blech, kann das das überhaupt?
+Oder geht das irgendwie unter diesem Druck schon kaputt?
+Das dicke kann das wohl.
+Heißt es, dass es wenig verschmolzen wird?
+Genau.
+Doch, wir machen mal was prinzipielles.
+Warum ist das Ding überhaupt krumm?
+Was kann hier passiert sein?
+Wahrscheinlich wird auf die Wärme eingezogen und verformt sich das Ganze, weil es hier so verteilt ist.
+Also machen wir es mal ganz allgemein. Wenn Sie irgendwas aufschmelzen, dann dehnt sich das aus.
+Und wenn Sie die Temperatur weg haben, zieht sich das wieder zusammen.
+Und das, was Sie hier sehen, ist, dass sich beim Zusammenziehen hier irgendwas anders bewegt an der Oberfläche wie da drunten.
+Und gut erkennen kann man das zum Beispiel hier an dem Teil.
+Das heißt, hier unten ist es ja relativ wenig, oder?
+Da oben ganz breit und viel.
+Das heißt, wenn das hier oben erstarrt, muss es ganz anders sein wie hier.
+Das heißt, genau das, wenn oben wer zieht an so einem Blech wie unten, kommt das zu einem Auftellern.
+Das heißt, er hebt die Füße hier in Basis des Wortes und wird schief.
+Bei den anderen Verfahren, auch der Laser wird dazu, der von oben bis unten fast parallel ist,
+habe ich oben die gleichen Verzüge fast wie hier unten und damit bleibt er mehr oder weniger in der Mitte.
+Das heißt, das Teil ist relativ kalt.
+So, und was hat das jetzt mit diesem Reibschweißen zu tun?
+Beim Reibschweißen komme ich erst gar nicht in die Temperatur.
+Ich schmelze ja nicht.
+Also Stahl schmilzt so bei 1500 Grad, ist das komplett geschmolzen.
+Wenn ich jetzt hier einen Prozess habe, der knapp so bei 1000 Grad liegt,
+Und das heißt wiederum, diese ganze Verzugsthematik wird bei viel niedrigeren Temperaturen auch viel weniger sein, wie bei hohen Temperaturen.
+Ja, wie ist es denn überhaupt möglich, wenn man es gar nicht schmelzen kann? Also wenn es 1200 Grad braucht, wie kann man das dann zusammennehmen?
+Sehr gute Frage. Das müsste sich tatsächlich vorstellen wie so ein Teig.
+Sie machen in ihren normalen Teig ein bisschen Schokopulver rein
+Wie machen sie das? Indem sie es einfach verrühren
+Und so funktioniert das tatsächlich auch mit Stahlwerkstoffen
+oder mit Aluminiumwerkstoffen
+dass sich die miteinander verrühren kann
+ohne dass die Schmelze tatsächlich erreicht sein muss
+Der lässt sich in diesen Teigen
+Sie müssen sich das mal von den Verbindungen vorstellen
+Die werden langsam locker
+aber im Schmelzbereich können die sich ja frei bewegen.
+Und wir sind jetzt da noch ein bisschen drunter, trotzdem sind die schon in der Lage, sich mechanisch da bewegen zu können.
+Wir gucken uns das auch nochmal genauer an.
+Aber am Ende des Tages hätte man ja Laser dran, oder nicht?
+Ne, das ist tatsächlich einfach, was ist Reibschweiß und was ist Reibschweiß?
+Ja, das heißt, wenn ich jetzt meine Handflächen verschweißen würde, müsste ich was machen?
+Kennen Sie alle, ja? Es entsteht Wärme. Ja gut, ob ich jetzt die Wärme hinkriege, dass meine
+Handoberflächen anfangen, sage ich mal, von den Molekülketten sich entsprechend aufzulösen,
+weil das passiert da. Aber was habe ich auf alle Fälle auch dabei? Ich habe ja immer diesen Druck.
+Ja, wenn ich so reibe, passiert nichts, weil ich ja nicht anpresse. Und so müssen ich das
+auf und ich muss richtig auf den Werkstoff drauf und dann mache ich über Reibung und Temperatur und
+über die Mechanik die entsprechende Verbindung. Es muss immer ein höher festerer sein, das ist völlig richtig.
+Das bringe ich auch alles mal mit, dass Sie mal die Werkzeuge dazu sehen, wie das funktioniert und an der
+Stelle einfach niedrige Temperatur, weniger Verzug. Wie garantiert man dann, dass sich das nicht verbiegt, weil von beiden Seiten Kraft kommt nicht, dass es dann...
+Auch wiederum total legitime Frage, indem ich es ganz fest, aber ganz nah an dieser Fügelstelle einspanne. Wenn ich diese beiden Bleche, die könnte ich, ich mach's mal mit dem anderen Blech,
+tatsächlich mit so einer Bewegung reiben und dann irgendwie zusammenquetschen.
+Das wäre Ihr Beispiel.
+Das heißt, dann muss ich ganz vorne anfassen, die beiden Seiten,
+sodass es sich nicht nach oben oder unten wegdrücken kann,
+sondern dass es ganz nah an dieser Flügelstelle auch geführt wird.
+Und dann kann ich es auch an der Stelle zusammenquetschen.
+Sonst hätte ich da keine Chance, würde ich nicht.
+Okay? So.
+Also hier da, auch darüber gibt es Unterschiede und die können uns wieder unterschiedliche Eigenschaften trainieren.
+So, machen wir mal das erste Beispiel.
+Ja, gut.
+Schade.
+Mein Bett macht ja wieder Ding.
+Heute noch morgen?
+Noch nicht.
+Boah, Stress.
+Was für Stress.
+Ja, ich muss endlich weiter arbeiten.
+So, ich bin kapiert.
+Ich muss ziehen, weil ich...
+Ah, ja.
+Ich bin gleich wieder her.
+Hm?
+Du hast mich auch schon gelassen.
+Ich weiß nicht, was ich machen soll.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Ich schaff.
+Du musst ja ein paar Speicherungen machen.
+Ja, das habe ich schon vergessen.
+Ja, das wird jetzt üben.
+Jede 20 Minuten.
+Das ist echt ein Jahr.
+Richtig.
+So, jetzt geht's los.
+Das war toll, letztes Mal.
+Tschüss.
+So, da haben wir es hin.
+Aber kann man erahnen, was das noch ist?
+Ein Messer.
+Ein Messer, ja.
+Was da hergestellt wird.
+Und kann man auch erahnen, was für ein Prozess das ist?
+Ja, also ich weiß nicht, was ein Prozess ist, aber es ist immer so lagig aufeinander.
+Genau.
+Ich weiß nicht was für ein Prozess das ist, aber es ist immer so lagig aufeinander.
+Da sehen wir die Ässe, also das Feuer, wir sehen einen schweren Armholz, wir sehen da schon mal einen Hammer.
+Das ist ein Pressschweißverfahren, weil ich mit dem Hammer, genauso wie ich es gesagt habe,
+zwei unterschiedliche Materialien miteinander verbinden kann. Also üblich, wenn wir an Schmieden
+denken, denken wir daran, dass wir irgendein Stück Eisen irgendwie heiß machen und das irgendwie
+verformen. Das ist auch so ähnlich. Aber der Unterschied ist einfach, warum nehmen wir das
+Schweißen aber zwei Bauteile miteinander verschmieden. Beim Schmieden ist es auch so,
+wie ich eben schon gesagt habe, dass ich jetzt nicht beide Seiten aufschmelze und dann irgendwie
+sondern ich mache die nur so wahnsinnig heiß, damit sie unter Druck sich tatsächlich miteinander verbindet.
+Da gab es gerade so ein Bild mit dem Messer. Könntest du das mal aufschreiben?
+Ich hätte da eine Frage zu.
+Gerne.
+Das ist gut gemacht, ja.
+Das war ja doch am Anfang, oder?
+Ähm, im Film, oder?
+Das war im Film, am Anfang, ja.
+Gut, guck mal hin.
+Das ist so im weißen Hintergrund.
+Weißen Hintergrund?
+Ja genau, genau da.
+Warst du da schon?
+Ja das war ja da, ohne weißen Hintergrund.
+Genau hier.
+Wie schafft man diese wellige Form rein?
+Ist es durch verschiedene Wärmetemperaturen oder wie ist das?
+Ne, aber das ist die zentrale Frage dabei, völlig richtig.
+Wer hat sowas zuhause so ein Messer?
+Kommt aus dem japanischen Damazener Stahl, genannt das ganze und hat auch eine Historie.
+Wer hat so einen Samurai-Stell zuhause?
+Leider nicht.
+Leider nicht?
+Ja, hätte ich auch gerne.
+Gehe ich zu.
+Aber vielleicht, wenn du so ein bisschen, ja Samurai war ja die Japan und so, die haben,
+sagen ich mal, wo wir noch im tiefsten Mittelalter unterwegs waren, sich was
+überlegt. Und das hat was mit so Schwertkunst zu tun. Was muss ein Schwert
+können? Schneiden. Was noch? Genau, das heißt, und das sind zwei
+gegenläufige Sachen, oder? Schneiden heißt, es muss richtig schön hart sein, damit es
+schön irgendwo durchgeht.
+Das habe ich jetzt nicht bewusst werden können.
+So, und
+aushalten heißt, wenn jetzt ein Schwert
+ans andere
+arbeitet, das kennen wir alle, wie das
+so funktioniert im Schwertkampf,
+dass es nicht gleich zerspringt, weil das würde es tun.
+Wenn es hart ist,
+würde es zwar gut schneiden, würde aber
+sofort kaputt gehen, wenn
+ein anderes Schwert da liegt.
+Was haben die jetzt also überlegt?
+Die haben überlegt,
+wenn ich die Kombination von beiden hätte. Das wäre das perfekte Schwert. Das heißt,
+wir haben es ja schon gesagt, ich nehme einen weichen Stahl, ich nehme einen harten Stahl,
+lege sie übereinander, dann nehme ich meinen Hammer und verbinde ihn miteinander. Dann fange
+ich wieder an, das was ich verbunden habe, wird ja auch automatisch wieder flacher. Dann schneide
+dann drehe ich das in der Mitte durch und klappe es wieder oben drauf und hämmere das wieder zusammen.
+Und das mache ich im Zweifelsfall 300 Mal.
+Und das haben Sie gerade in meinem Film. Ich weiß gar nicht, ob der das typisch schön macht, aber...
+Genau, weiter hinten hin.
+Gut, jetzt muss ich anscheinend was riskieren hier, wir gehen mal auf die, das hat jetzt
+gerade keinen Zweck mit meinem Filmchen hier.
+Ich habe aber hier im Skript ja auch ein Modell dazu.
+Gucken wir uns erstmal zumindest die Bilder dazu an.
+Das wäre dieser Überlapp. Ein Stahl weich, ein Stahl hart.
+Dann wird der Test gehalten und eben rot-blühend gemacht.
+Nicht geschmolzen, sondern nur rot-blühend und dann miteinander verbunden.
+Dann wird das geschnitten, das andere wieder draufgelegt und wieder miteinander verbunden.
+So, und das ist auch die Antwort auf Ihre Frage.
+Weil, wenn ich das jetzt miteinander verbinde, ist das nicht so scharfkantig, sondern es wird hier immer breit gehämmert.
+Und das bedeutet, diese einzelnen Weichen, die harten Phasen, die schwimmen hintereinander über.
+Und wenn ich jetzt das Ganze anbeizen, also sichtbar mache, dann wird eben der harte und der weiche unterschiedlich angebeizt.
+Der eine ist schwarz, der andere bleibt weiß.
+Und das ist genau das Bild, was Sie hier sehen.
+Was das Charakteristische ist, dass Sie eben die unterschiedlichen Stahlsorten immer noch sehen.
+Die aber in ihrer Mischung, hier vorne an der Kante, mal weich, mal hart, tatsächlich eine entsprechende Umsetzung ist.
+Das heißt, so ein Gerät wird ja auch geworben als unglaublich lange haltbar, was die Schnitthaftigkeit angeht,
+und unglaublich stabil. Wenn es mal runterfällt, sollte es auch nicht gleich kaputt gehen.
+Ist es die beste Messerart, die man bekommen kann?
+Oder? Würde ich so sehen, ja, genau.
+Heute sind wir natürlich auch in der Lage, wiederum über diese Werkstoffkunde,
+so ein Optimum versuchen, Überlegungsbestandteile hinzukriegen.
+Das war eben nicht nur ein harten und weichen, sondern das war so ein mittelharten, so mittelweichen Stahl eben der Zeug.
+So, das Dumme ist, auch der, bei dem könnte es sogar teilweise ein bisschen schwierig werden,
+dann muss sie ja immer noch auch korrosionsbeständig sein.
+Das erwarten wir ja heute von so Messern.
+Wenn wir das mit einem Geschirrspüler machen,
+soll das Zeug ja nicht auch wieder korrodieren.
+Da müssen Sie bei solchen Messern aufpassen.
+Die sind eigentlich auch zu schade.
+Genau aus dem Grund, sie irgendwie in den Geschirrspüler zu tun
+und wird da auch gescheit wieder abtrocknen,
+weil vielleicht diese Korrosionsbeständigkeit nicht so vorhanden ist.
+Kann man die Messer schärfen selber daheim?
+Das funktioniert schon auch, genau. Was Sie davon erwarten, wie gut Sie auch handwerklich unterwegs sind, das ist aber bei jedem besser letztlich eben auch so.
+Aber jetzt so harte Stahle testen.
+Ja, klar. Das ist schon auch nochmal eine andere Herausforderung, das sauber hinzukriegen, damit Sie nicht den weichen nur rausarbeiten und der harte stehen bleibt.
+So, aber das Thema wäre jetzt auch noch, jetzt haben wir das gesehen, jetzt machen wir da 150 Lagen, damit das so schön aussieht.
+Jetzt gibt es aber auch sowas hier. Das heißt, es gibt die billige Variante, die hier einfach nur wenige Lagen hat.
+Oder ich kann auch mal andersrum fragen. Es gab schon immer mal wieder bei Aldi,
+können Sie sowas auch kaufen. Wie kriegen die das hin? Was ist die günstigste Variante,
+um so ein Messer zu erzeugen? Ja. Ich glaube vielleicht mehrere Lagen aufeinander von billigem
+Stahl und die langsam fressen und nicht dieses Umklappen.
+Genau, also das wäre die zweitbilligste Variante.
+Was hat der Ali tatsächlich mal gemacht?
+Maschinen oder selber angemalt.
+Angemalt, tatsächlich. Man kann natürlich so ein Muster einfach mal
+so ein bisschen da auf die Oberfläche setzen und hat da drunter
+einfach so einen Stahl, der so einigermaßen gut ist.
+Und das, jetzt auch nochmal Ihre zweite Variante, ist natürlich genau das, dass ich einfach
+nicht 100 Schichten mache, sondern einfach nur 5 oder 6.
+Und dann mache ich das auch nicht nur so wie dargestellt, dass da jemand das händisch
+macht, sondern ich nehme Riesenplatten her und mit denen mache ich das so in der großen
+Presse.
+Allerdings wird denn doch schon auch umgeklappt.
+Das heißt, das wird großtechnisch einfach hergestellt.
+So dass tatsächlich, da war auch mal ein Angebot bei Aldi,
+den kostet so ein Gerät eben 25 Euro.
+Also das Angemalte hat 1,50 gekostet.
+Da sollte man skeptisch sein.
+25 Euro ist schon so eine großtechnische Sache,
+die schon ganz gute Eigenschaften hat.
+Ja, natürlich nicht vergleichbar mit so einem handgefertigten System.
+Ich habe jetzt im Internet geschaut,
+Aber woran erkennt man jetzt genau den Unterschied, also ich kann ja nicht einfach so die Klinge anschauen,
+wenn ich es über das Internet bestellen möchte zum Beispiel.
+Woran erkennt man das jetzt am besten? Über die Muster wahrscheinlich.
+Nur über die Muster, weil wenn ich es da oben vergleiche mit dem hier, da verschwimmt das kaum.
+Da kann man ja schon fast die Lage zählen.
+Hier unten ist es schon fast nicht mehr möglich.
+Ja, das heißt, es verschwimmt ineinander über.
+Es ist da nicht auf irgendein Weg reinzufallen, es ist gar nicht so einfach.
+Also gute Messer, die werden ja auch teilweise mit Japanisch beworben,
+aber im Internet eben schwierig eben tatsächlich herzubringen.
+Also irgendwelche Zertifikate, dass es eben tatsächlich so gemacht worden ist,
+aber wie gut die sind, brauche ich noch nicht erzählen.
+ist, kann eben auch schief gehen.
+Ist 140 Euro realistisch?
+Es gibt doch immer 600 Euro.
+Ja, ja, also 140 Euro muss auch schon
+ein Schnapper sein.
+Das ist schon sehr günstig.
+Also wenn das tatsächlich handgefertigt ist.
+Steht das dabei?
+20 Euro bei XSR.
+Bei XSR gibt es einen für 20 Euro.
+Ja, das ist definitiv
+maschinell hergestellt.
+Also ein gutes japanisches Messer sollte so um die 500 Euro kosten.
+Das sind ja Carbonfasern drin, oder?
+Ne.
+Wie steht das da mit Carbonfaser?
+Da steht, jeder Griff ist handgefertigt aus...
+Ja ok, über den haben wir ja gar nicht geredet. Ich habe ja die ganze Zeit nur über die Klinge geredet.
+Was für ein Griff da hinten dran ist, ja?
+49 Lagen, abgeschniedet, 625 Euro.
+Die Klingen sind aus hochwertigem Stahl geschmiedet und wurden mit Sorgfalt in einem eleganten Wellenmuster gehämmert.
+Ich rede noch mehr über deinen Griff anstatt über die Klinge.
+Ja genau, das war auch sehr verdächtig.
+Haben die so ein Messer daheim?
+Tatsächlich nicht.
+Ich will nur wissen, wie krass das ist.
+schon oft gesehen. Also ich habe das auch nur von irgendwelchen Spitzenköpfen, die da auch durchsperren oder so, aber ich bin da kein Spitzenkopf, von daher war es mir tatsächlich bis jetzt auch immer zu teuer, das Gerät. Aber es hat eine Fissfaszination. Aber wie das hier funktioniert, ist allen klar. Und jetzt aber tatsächlich auch, jetzt wieder die Schweißtechnik.
+Jetzt frage ich Sie mal einen Fachjargon. Welche Schweißparameter gibt es denn bei der Herstellung eines Dama-10er Messer, Schwert oder so gemacht?
+Was sind die Schweißparameter?
+Da unterscheiden die sich auch nochmal.
+Vielleicht die Schweißbarkeit?
+Das Schweißparameter ist das, was Sie einstellen, damit es funktioniert.
+Ich gebe Ihnen ein Beispiel.
+Also ich rede jetzt von dem Schweißparameter.
+Also beim Schmied, wenn ich es klopfe, ist es die Kraft.
+Das heißt, wenn ich jetzt hier zwei Fläche übereinander lege
+und hämmer da jetzt drauf,
+braucht es erstmal noch einen zweiten Schweißparameter.
+Wer ist das?
+Das war die Sache mit der Temperatur. Das heißt, das muss rot blühend sein.
+Es darf nicht zu heiß werden, dann fängt es schon an zu schmelzen, dann funktioniert es nicht.
+Es darf auch nicht zu kalt sein.
+Schweißparameter Wärme. Schweißparameter Druck heißt, wenn ich jetzt den Irrer da draufklopfe, wie bei Hau dem Lukas,
+kann es sein, dass mein Hammer gar nicht durchdringt quasi, sondern wieder abprallt.
+und dass die Kraft gar nicht in der Lage ist, zwischen den beiden Flächen zu arbeiten.
+Und siehe da, es funktioniert wieder nicht.
+Wenn ich da nur so hau den Lukas mache, ja, so mehr hingehaucht, ist die Kraft auch nicht ausreichend.
+Also das ist Handwerklichkeit in dem Fall, jetzt das in der richtigen Druckphase mit der richtigen Temperatur letztlich hinzuzufügen.
+Und wenn da eben, und die Gefahr beim Schweißen ist immer, dass ich so semi-okay bin, dass ich so gerade eben das hinkriege
+Und da gibt es eben auch einen Punkt, wo vielleicht so ein Messer kleine Probleme hat
+Also irgendwelche Lagen nicht sauber miteinander verbunden wurden
+Und was kann zwischen den Lagen auch noch sein?
+was passiert wenn ich diese beiden übereinander legen würde und dann also ja und dann einfach
+miteinander heiß machen jetzt habe ich ja gesagt schweißparameter heiß machen und kraft
+jetzt wird es hier verformen dann die andere Seite rechts oder links ja aber warum kriege ich
+Die stoppen keine Verbindungen.
+Richtige Kraft, richtige Temperatur, das war's.
+Die Materialien wahrscheinlich, oder?
+Ja, die sind sogar schmied- und schweißbar.
+Das hab ich noch vergessen.
+Ah, weil das unter uns oben liegen würde, wahrscheinlich.
+Hauptsache nicht. Egal, mach ich auch so.
+Gibt's auch.
+Das Ding ist sogar verzinkt, da es auf der Oberfläche war.
+Das ist vielleicht so leicht ankorrodiert, wenn ich da jetzt mit dem Schnurkelpapier drübergehe,
+kommt wieder die glänzende Oberfläche.
+Soll heißen, Stahlwerkstoffe, dafür nimmt man das ja in der Regel her, können korrodieren.
+Die können so leicht Oxidationsschichten bilden.
+Und wenn Sie jetzt zwei Oxidationsschichten übereinander legen und hämmern darauf rum,
+Dann hämmern sie eben auf den Oxidationsschichten rum, aber die werden sich nicht verbinden miteinander.
+Das heißt, sie müssen irgendwie gucken, ja das macht man auf chemischen Wegen, da gibt es so Pulverchen und so weiter,
+was dazwischen letztlich diese Oxidationsschicht angreift und den Sauerstoff auslöst.
+Das streut eben der Schmied einfach dazwischen.
+Sowas zum Beispiel.
+Oder, was genauso wichtig ist, erstmal auch die Oberfläche sauber machen.
+Wenn das schon halb korrosioniert, also wenn das schon braun ist, das Zeug, dann fängt keiner an, danach drauf rumzuschmieden, weil das nicht funktionieren wird.
+Weil Oxidationsschichten sind ja nochmal von der Schmelztemperatur viel höher.
+Die lüftet das nicht, wenn das heißt.
+Sie müssen die also anderweitig irgendwie entfernen.
+Und das nimmt man beim Schmieden eben so in speziellen chemischen Zusammensetzungen, die das eben entsprechend anbeizen und damit die Oberfläche säubern.
+Und das ist aber auch wiederum für mich so ein Beispiel, das ist bei allen Prozessen, auch bei den ganzen Teilen, die ich hier umliegen habe.
+Wenn Sie die nicht vorher ein bisschen sauber machen, wird das niemals funktionieren mit der Schweißerei.
+Weil alles, was da oben an Dreck und hier bei solchen feinen Sachen, wenn ich da mit meinen Fingerabdrücken draufgehe, hinterlasst eine Fettspur.
+Und die Fettspur heißt nichts anderes, als an der Stelle, wenn ich den selbst aufschmelze, wird das Fett ja irgendwie verdampfen und vielleicht eben als Poren in den Nähten wieder zu geben.
+Das heißt wiederum, das habe ich auch mit Vor- und Nachlageprozessen gemeint, einfach nur draufhämmern ist eben nicht angesagt, sondern ich muss mir dazu eben auch noch Gedanken machen.
+Okay.
+Machen wir mal ein neues Beispiel.
+Und da ist jetzt auch Rost oder nicht?
+Jetzt kommen wir zum Damazener, ist das soweit klar?
+Es ist ein Pressschweißverfahren, Schweißparameter, Wärme und Druck und dann eben auch die entsprechende Vorbereitung, die notwendig ist.
+Jetzt kommen wir zur anderen Vorbereitung.
+Ah, nicht mehr zu erkennen, was das ist, oder?
+Abgasanlage, oder?
+Abgasanlage.
+Der Klassiker in allen Studentenkreisen, alte Karre, ist schon ein bisschen in die Jahre gekommen, so korrigiert die am liebsten an den Ortgasanlagen.
+So, lassen wir den mal ein bisschen laufen hier, oder ich fange noch von vorne an.
+Das hat der da in seiner linken Hand, das ist so ein Werkstoff zum Schweißen, oder?
+Genau, richtig.
+Ja, das ist eben beim Schmieden.
+Beim Schmieden hat man das nicht gehabt, da war ja nur die Beine und fertig.
+Jetzt ist ein Schweißprozess, der einmal schmilzt und zum anderen sogar einen Zusatzwerkstoff braucht.
+So wie Löten, oder?
+Genau. Zum Beispiel, ja.
+Aber das müssen wir jetzt mal ein bisschen näher erklären, das Ganze.
+So, das ist mal ein gutes Beispiel. Ganz lustige Geschichte. Also fangen wir wieder von vorne an.
+Warum wird hier überhaupt irgendwas geschweißt?
+Weil das vorherige Metall vielleicht weg kollidiert ist.
+Genau. Hier scheint an der Stelle ein Loch zu sein.
+Abgase treten an der falschen Stelle aus, es stinkt und sie kommen nicht mehr durch den TÜV.
+Wenn sie es lange nicht machen, kann es sogar sein, dass sie sich selber schädigen, weil die Abgase in den Innenraum reingehen.
+Also das wäre der Anspruch.
+So, was wäre jetzt die entsprechende Herausforderung?
+Was für ein Werkstoff habe ich? Fangen wir mal an der Stelle an.
+Unlegierter Stahl? Genau. Das ist so ein Tiefziehstahl, nichts Besonderes.
+In dem Fall ist leicht noch so ein bisschen Temperaturbeständigkeit reingemacht, aber nichts Deutendes.
+Kann man in den Treppen schmeißen. Also Werkstoff, top.
+Konstruktion? Was könnte denn das sein? Gerade da, wo er da unterwegs ist. Ganz beliebtes Ding.
+Katalysator? Ja, das ist ein Endtopf. Aber wäre auch beim Katalysator so, ja.
+Genau, man muss wissen, ob man einen vorhandenen Metalldesign schweißt, oder ob man zusätzlich noch was entwickeln muss.
+Aber was ist jetzt die Konstruktion? Sie haben das normale Abgasrohr und dann kommt ein Schalldämpfer oder ein Katalysator, der ist irgendwie dicker.
+Das heißt, ich komme von dem Querschnitt auf den größeren Querschnitt.
+Das heißt, ganz automatisch, auch von meiner Konstruktion, habe ich nicht so eine Verbindung.
+Das wäre sowas, wenn ich ein Rohr mit dem anderen verbinde.
+Jetzt habe ich eher sowas, wo quasi nur umlaufend quasi so eine Kehlnaht erstellt werden muss,
+weil ja hier ist der Topf, hier ist mein Rohr, den muss ich einmal um das Rohr herum letztlich befestigen.
+So, also das wäre die Konstruktion.
+Und jetzt kommen wir zum dritten, zum Verfahren.
+Warum und was könnte das sein?
+Das ist sowas schon mal gesehen.
+Das ist wie so eine Art Klebstoff, also kann man so beschreiben, das ist halt ein Werk,
+also so, sagen wir mal, Metall und dann hält man das so dran und verklebt die beiden Seiten.
+Okay.
+Also so vom Prinzip her.
+Es ist vom Prinzip her wie beim Kleben auch so viel gesetzt.
+Nur bitte jetzt, wir sind im Schweißen und da reden wir nicht vom Kleben.
+Weil, aber doch, ich gehe gleich auf Sie ein. Warum nicht kleben? Warum wird der Topf nicht einfach geklebt, warum muss der, auch wenn ich da irgendwie rumgeschweißt werde?
+Wahrscheinlich wegen der Zugänglichkeit, oder?
+Ne, die wäre fürs Kleben genau das gleiche. Sie können da mit so einem Uhr-Plus da genauso hingehen oder sowas, oder sowas, ich nicht.
+Hat das was mit der Wärme zu tun?
+Ja, aber welche Wärme?
+Ja, in der Abgasanlage entsteht ja Wärme.
+Ja klar, richtig. Und Sie kennen alle Klebstoffe. Was ist denn das? Das ist ein Kunststoff. Der kann mal so 250, wenn es hochkommt 300 Grad, aber das war es.
+Und eine Abgasanlage, da runter ist heißer. So, das heißt, Klebstoff kommt da einfach nicht in Frage. Geht nicht.
+Das Prinzip, zwei Sachen zu verbinden, das haben Sie recht. Auch in dem Fall ein Zusatzmaterial.
+Zusatzmaterial, das hat er ja in seiner linken Hand da gerade, was er jetzt zuführt und
+der Zusatzwertmaterial und entsprechend mit dem Brenner eben auch das eigentliche Blech.
+Und warum Zusatzmaterial?
+Ja, hatten Sie eben schon gesagt, weil an der Stelle schon was wegkorridiert ist.
+Also muss ich da was hin tun.
+Okay.
+Gut.
+Lass mich mal noch ein bisschen schweißen.
+Ist doch ganz cool, was die beiden da machen, oder?
+Machen wir mal einen neuen Aspekt rein, sicherheitstechnisch.
+Keine Maske an, also Schweißmaske.
+Die Funken könnten auf sein Bad gehen, die drei Aden.
+Wenn er den Bad treffen würde, wäre okay, aber er ist verdammt nah dran, da haben Sie völlig recht.
+Das Wichtigste, was er aber richtig gemacht hat, ist die Brille.
+Tatsächlich, bei diesem Verfahren reicht so eine Schutzbrille aus.
+Warum könnte das ausreichend sein für den eigentlichen Prozess?
+Weil die Strahlung, das ist ein sogenanntes Gasschmelzschweißen, da wird also Gas verbrannt.
+Ich bringe demnächst mal den Brenner mit, damit Sie das alle mal in den Händen gehalten haben.
+Da wird Gas verbrannt und die Emission, das heißt die Strahlungsemission, die ist nicht so wahnsinnig schlimm für die Augen.
+So eine einfache Sonnenbrille, quasi so eine Schweißabbrille reicht da völlig aus.
+Wenn ich nachher über Laser rede, dann muss es genau die Wellenlänge des Lasers sein, sonst sind sie innerhalb von Sekunden blind.
+Weil die Rückstreusystematik dieser Photonen, die da auf sie zukommen, die zerstören ihre Zäpfchen da hinten im Auge.
+Sehr, sehr schnell.
+Also, Gefahrenpotenzial für die Augen ist erstmal da.
+Das hat er richtig gemacht.
+Aber, Sie haben völlig recht, was er nicht richtig gemacht hat ist, wenn da...
+Man sieht das doch auch hier in dem Film, ne?
+Da spritzt es immer mal wieder.
+Das ist 1500 Grad heißer Stahl, der da spritzt.
+Das ist so ein ganz kleines Spritzerchen.
+Aber die können natürlich dem Gesicht auch wehtun.
+Tatsächlich, jetzt vereinfacht an der Motorik, sind die Hände, die sind geschützt.
+Das ist schlimm.
+Warum ist das schlimm, wenn er sich da verbrennt?
+Dann lässt er es auf einmal los.
+Ja, weil trotzdem lässt er den los.
+Oder noch besser, zu seinem Kumpel da gegenüber,
+dann kriegt der das komplett und brennt an dir, weil er sich erschrocken hat.
+Oder was haben wir beim Auto auch noch Feines?
+Dahinter ist gleich der Sprittank.
+Vielleicht hält er gleich dahin und dann wird...
+Also die Sprittanks sind heute eigentlich alle aus Kunststoffen oder die meisten.
+Das heißt, das geht auch relativ schnell, dass er an der Stelle womöglich einen größeren Brand erzeugt.
+Was hätten Sie als Vorbereitung gemacht, wenn Sie wissen,
+Wenn Sie wissen, ist der Sprit-Tank eigentlich voll oder leer?
+Also wenn Sie schon basteln.
+Ich hätte irgendwas reingesteckt, um es über den Ölstand zu messen.
+Ja, und soll es voll sein oder nicht?
+Sie können ja vorher tanken. Sie können ja an den Tank gefahren und sagen, ich mach den ganz rand voll.
+Ich weiß nicht, ganz voll ist eigentlich auch, also beides ist schlecht, glaube ich, weil wenn es ganz leer ist, dann ist das Auto ja auch schwieriger, oder?
+Macht es dann was aus, wenn man schweißt?
+Nein, das nicht. Das macht nichts.
+Dann lieber leer.
+Dann lieber leer, okay.
+Alles für leer.
+Was passiert, wenn Sie in einen leeren Tank reinschweißen?
+Das ist ja kein Tank.
+Ja.
+Ja, wenn Sie aus Versehen gehen.
+Der ist eben nie ganz leer.
+Wenn da nur eine Pfütze drin ist, verdampft das immer und dann haben Sie Gas drin.
+Und das ist super gefährlich.
+Weil dann kann es eben zu Verpuffungen, zu Explosionen führen.
+Also schweißen Sie bitte an einem komplett gefüllten Tank.
+Dann brennt Ihnen zwar auch alles ab, aber es brennt nur.
+Das ist ja auch immer das Thema, warum hier bei Actionfilmen immer die Autos explodieren.
+Totaler Käse. Das passiert ja gar nicht.
+Ja, außer ich habe eben irgendwie ein zu großes Gasvolumen, weil das Zeug ist eben geschärft.
+Also meinetwegen haben die das auch richtig gemacht.
+Die haben den Sprittank vorher gefüllt.
+Was natürlich auch noch dazu kommt, ja, es ist Sommer, Jacke ist auf.
+Das heißt, der Schweißspritzer irgendwie im Kragen, genau das gleiche Thema, könnte entsprechend zu Problemen führen, weitergreifen.
+Gut, ansonsten alles richtig gemacht, die Schuhe sehen wir jetzt nicht, irgendwelche Samballatschen wären natürlich auch nicht gut.
+Das wäre jetzt erstmal die Grundausrüstung für den einfachsten Schweißprozess, den wir so machen.
+So, jetzt gehen wir wieder zu unseren Werkstoffgründen zurück.
+Was könnte werkstofftechnisch, wir hatten gesagt, eigentlich gut schweißbarer Stahl, welcher Teilaspekt müssen wir jetzt aber wieder angucken bei dieser Aufgabe?
+Das Ding ist doch korrodiert, das ist durchgerostet, um es mal klar zu sagen.
+Nicht nur, dass man noch frost, bis anscheinend es uns wieder abfällt.
+Also ich kann Ihnen garantieren, wenn Sie jemals auf die Idee kommen, zu sagen, okay,
+hey, ich will meine Kappe irgendwie noch kurz reparieren oder reparieren lassen,
+verkaufen Sie die Kappe so schnell es geht.
+Weil wenn Sie auch Ross auf Korrosionsprodukten rumschweißen,
+was durchaus von Werkstätten gemacht wird,
+dann sieht die nachher wieder top aus, darunter ist aber Ross
+und das heißt, die überlebt kein Winter mit ihrer Naht.
+Und das heißt wiederum auch, es ist eigentlich gar nicht mehr viel Blech da.
+Vielleicht müssen Sie sogar großumfänglich neues Blech da reinschweißen, damit Sie überhaupt wieder Material haben.
+Und da wird eben auch ganz gerne mal gepusht und irgendwie was zusammen gemacht.
+Ganz gerne genau an der Stelle, also auch umgekehrt, wenn Sie ein Auto kaufen und mal eine Auspuffanlage angucken,
+Sollten Sie eben genau hingucken, wenn da gerade mal frisch geschweißt ist,
+wissen Sie, aha, da soll ich jetzt eben nur noch meine Abnahme halten
+und dann weiß ich genau, im nächsten Frühjahr ist das Ding wieder runtergefallen.
+Warum? Das ist ja das, was wir uns jetzt unterlegen müssen.
+Bei Korrosionsprodukte ist die Vorbereitung an einem guten Naht, die müssen weg.
+Die haben da nichts zu suchen.
+Funktioniert beim Damazener Stahl, Pressschweißen nicht, das funktioniert hier genau.
+Gut, auch soweit klar.
+So, jetzt kriegen Sie nochmal ein Beispiel,
+was man vielleicht ein bisschen besser sieht, wäre genau das gleiche, da unter Zwangslage,
+das ist das Blech. Ja, das liegt jetzt hier und jetzt wird da hinten irgendwie angefangen und
+stellt ihr euch kennen, da scheint irgendwas heiß zu sein, das schmilzt sich an der Stelle
+auf und hier wird per Hand einfach der Zusatzdraht zugeführt.
+So, was wird jetzt gemacht?
+Fängt erst da vorne an und dann wieder da hinten hin.
+Warum?
+Das Bauteil zu fixieren.
+Genau.
+Das würde passieren, wenn ich einfach hier direkt anfange an der Stelle zu schweißen.
+Dann würde es so aufgehen?
+Richtig. Das Blech hier an der Stelle würde einfach so öffnen und nachher kriegen wir keine Verbindung mehr.
+Und das ist das, was man Heften nennt.
+Das heißt, hier hinten wird eben das zusammengebracht,
+sodass ich, wenn ich hier vorne loslege, da hinten das nicht mehr aufeinander kann.
+So, und wenn wir jetzt das mal so, auch so vom Ton her sehen, so ganz gemütlich das
+Ganze, im wahrsten Sinne des Wortes, also wirtschaftlich gesehen, ist das ein sehr langsamer
+Prozess.
+Was ist nochmal für ein Material, das man da verwendet?
+Wir haben das eben noch gar nicht, ich gebe das nochmal oben, das ist genau sowas, das
+zum klassischen Ausstattung zum Beispiel.
+Könnte aber auch
+Ihr Ausbruch...
+Ich meine, das zu verbinden.
+Auch wieder eine sehr gute Frage.
+Was könnte das sein?
+Das sollte natürlich
+irgendein Material sein,
+was so ein bisschen ähnlich ist wie das Material,
+was Sie auch verbinden wollen.
+Ich weiß nur, dass sich das schnell verflüssigt.
+Ich habe es auch schon mal gemacht.
+Verflüssigt nicht schnell.
+Das ist eher so Sehbar.
+Also so Chrom.
+Ah, okay, jetzt sind Sie beim Löten. Das ist Schweißen. Was ist der Unterschied beim Löten? Das Material, wie Sie gerade gesagt haben, schmilzt viel schneller auf.
+Das schmilzt sogar so schnell auf, damit Ihre eigentlich zu schweißenden Bleche oder zu fügenden Bleche eigentlich nur rot blühen werden, aber nicht schmelzen.
+Das ist der Unterschied beim Lösen.
+Deswegen geht das auch schneller mit dem Zusatz.
+Hier muss die heiße Flamme so heiß sein, dass auch der Zusatzwerkstoff mit aufgeschmolzen ist.
+Das kann man aber dann nicht mehr zurück...
+Bei Löten könnte man ja wieder rückgängig...
+Richtig, darum könnte ich nur den Lötwerkstoff wieder aufschmelzen
+und wenn ich das richtig mache, ohne großartig die eigentlichen Bleche kaputt zu machen.
+zu machen. Hier, no way, deswegen, gucken Sie sich das an, wenn Sie den wieder trennen wollen, was machen wir? Wir schneiden den wieder in der Mitte durch.
+Und dann haben wir aber auch schon die Performung, dann haben wir auch schon, ja, was haben Sie denn hier eigentlich gesehen?
+Da sehen Sie es auch im Film, ja, das ist diese wahnsinnig große Flamme, die auch links und rechts, das ist die Wärmeeinflusszone, die gigantisch groß ist.
+Das heißt auch nichts anderes, was sich hier verkärbt, ist nicht nur eine Verfärbung, sondern im Werkstoff selber ist auch schon was passiert.
+Würden Sie sagen, das ist gut geschweißt?
+Als Schweißung selber ist das für eine händische Naht...
+Was ist denn gut schweißen überhaupt?
+Ich sage, dass es nicht verformt, dass es eben ist.
+Genau. Also von der Ebenheit, Katastrophe.
+Geht aber mit dem Verfahren gar nicht anders.
+Weil ich ja diese wahnsinnige Energie einbringe.
+Und ob ich die trotzdem als gut bezifferte,
+da würde ich mir jetzt die Oberraufe anschauen, die Unterraufe.
+Es ist eine dichte, gleichmäßige Naht im händischen Bereich, ja, hier und da mal ein bisschen mehr oder weniger,
+aber das passiert, wenn ich eben vielleicht auch nicht ganz so müde bin an der Stelle.
+Aber ich muss hier wieder die Frage stellen, was will ich überhaupt?
+In dem Fall will ich vielleicht nur eine Blechverbindung und die muss keinen Schönheitspreis gewinnen.
+Wie ist das mit der Schönheit beim Schweißen?
+die ist nur interessant
+als Indiz dafür, dass
+wenn sie schön aussieht, ist sie in der Regel auch gut
+wenn sie schlecht aussieht
+also mit Berg und Tal
+und so weiter
+dann gehen sie mal zu Ikea
+und irgendwelche Kleiderbügel
+oder sowas, die geschweißt sind
+die sind manchmal richtig grottig
+die sehen richtig schrecklich aus
+wenn man da mal so ein bisschen fachspezifisch rauskommt
+so was
+der Kleiderbügel
+ist ja kein Gefahrenteil.
+Im Zweifelsfall fällt er eben ab.
+Dann fällt der Kittel runter.
+Also
+hat ein Ikea an der Stelle eben
+gesagt, das Zeug muss billig sein
+und wenn du ihn schön steißen kannst,
+ist mir dann auch egal.
+Warum auch noch?
+Weil die dann eben auch anfangen,
+da wird eben drüber lackiert noch.
+Oder womöglich auch noch
+mit irgendwelchen Füllmaterialien,
+dass man das Ding schön egalisiert.
+Deswegen ist es gar nicht so einfach zu sagen,
+was ist gut oder schlecht. Das muss eben den entsprechenden Anforderungen gelten.
+So, und selbst sieht man das hier nochmal auch in diesem Standbild ganz gut,
+es ist gigantisch viel Temperatur in dem System.
+und nur mal kurz erwähnt
+wie das Ganze funktioniert
+ich bringe ja wie gesagt den Brenner nochmal mit
+wir haben hier den Sauerstoff
+wir haben Acetylen
+das wird hier in so einen Mischer nach vorne geführt
+da kommt der Zusatzwerkstoff
+und dann wird hier an der Stelle
+so lange drauf gehalten
+auf Zusatzwerkstoff und Bauteil
+bis sie eben angeschmolzen
+und aufgeschmolzen sind
+und dann fließen die
+ineinander über
+so
+das wäre eben
+doch kennen Sie bestimmt
+aus irgendwelchen Unterrichten
+Physik oder sowas
+wo hat eine Kerze ihre heißeste Stelle
+So ähnlich wie hier auch. Das heißt, auch wenn da so eine riesen Flamme rauskommt, sehen Sie, hier vorne haben wir 1200 Grad, da kühlt die schon ab.
+Richtig heiß wird das hier an so einem Maximum in dem Bereich.
+Das ist einfach nur die Anweisung, ich muss die Flamme auch ein bisschen näher ranbringen, damit ich eben die Temperatur auch habe.
+Und dann braucht es eben irgendein Brenngas.
+Wenn wir jetzt nochmal aufs Löten gehen, könnte ich damit auch löten.
+Das heißt ja nichts anderes.
+Ich habe die gleiche Temperatur nicht so hoch.
+Ich könnte dann einfach ein Propan nehmen.
+Wenn so Heizungsinstallateure da unterwegs sind, wenn die hier irgendwelche Heizkörper reparieren,
+die nehmen auch gar keine Azithylen her.
+Die brauchen keine 3000 Grad, sondern die sind bei 2 Ohm waschen völlig glücklich.
+So, und so sieht der dann eben aus, der mischt das Ganze.
+Und jetzt haben wir eine letzte Idee zum, das kann man so falsch machen.
+Also, was wäre das Schlimmste bei der Werkstatt eigentlich gewesen, was der machen kann?
+Den Tank irgendwie aufschmelzen, oder?
+Ja, okay. Aber was könnte mit dem Schweißbrenner Falsches laufen?
+Nochmal zurück hier.
+So.
+Wenn ich hier zu halte, oder was heißt zu halten, wenn ich irgendwie aus Versehen hier drauf komme, erlischt die Flamme.
+Dann könnte die Flamme aber sagen, okay, da kommt mein Gas her, ich wandere hier lang und komme irgendwann hier hinten an.
+Und dann gibt es, die Flaschen sind ungefähr so groß, dann kriegen sie einen Raketenstart hin.
+Das heißt, die explodieren quasi, weil sie Flamme gesehen haben.
+jetzt ja das Gas jeweils unter Druck mit drin und das heißt, das darf Ihnen nie passieren.
+Das ist auch gar nicht vorgesehen, dass das passiert natürlich. Das heißt wiederum auch,
+das sieht man jetzt hier, einmal die Schläuche sind klar deklariert und es gibt sowas wie eine
+Rückschlagssperre. Das heißt, an Ihren Brettern und auch an der Flasche selber gibt es ein
+Ein Rückschlagventil, wenn die Samme kommt, kommt sie nicht weiter.
+Das ist ein Klimeteil, das man einfach zumacht, wenn da Temperatur kommt.
+Also sind sie da safe.
+Warum unterschiedliche Farben von den Schläuchen?
+Einmal für Sauerstoff, Acetylen, weil diese Gase chemische Produkte sind,
+die auch Kunststoffe unterschiedlich angreifen können.
+Wenn Sie da einen falschen Schlauch nehmen,
+wird der Acetylen vielleicht den blauen Sauerstoffschlauch kaputt fressen.
+Also einfach klare Regeln. So muss ich das zusammenbauen und dann passt das eh.
+Was können Sie jetzt machen in der Werkstatt des Vertrauens?
+Oh, mein Rückschlag-Metil ist kaputt gegangen. Will ich ein neues kaufen? Ja, ich habe eigentlich keine Lust drauf.
+Also wird das schon mal überbrückt, das Ganze.
+Jedes dieser Systeme, von Flasche bis Null, hat auch unterschiedliche Gewinde.
+Eigentlich können Sie nichts falsch machen. Sie können nur mit bösem Willen sagen,
+Ich habe das nicht, ich will das nicht und ich baue das trotzdem so zusammen, dass die Flamme da wieder zurückkommt.
+Alles schon vorgekommen.
+Das sind immer die super Zeitungsartikel, wenn wieder eine Kfz-Werkstatt abgeraucht ist.
+Das kann schon mal so was sein.
+In aller Regel sind es Fehlbedienungen.
+Indem ich einfach zusehe, technisch gesehen, ich weiß, dass es nicht gut ist,
+aber ich mache es aus wirtschaftlichen Gründen, weil ich eben das Zeug nicht habe oder nicht rauchen will oder was auch immer.
+Ansonsten sind diese Prozesse safe.
+So, ich habe irgendwelche Bleche, die ich dann eben bearbeiten kann.
+Und wir hatten ja das Teil, das war diese I-Stoße.
+Da ist eine gewisse Dicke und dann muss ich die Bleche so ein bisschen in Abstand halten,
+damit ich da eben auch meinen Zusatzwerkstoff reinbringe.
+Und wenn ich die direkt stoße, da passt ja kein Material mehr rein,
+Dann muss ich entweder das Zusatzmaterial weglassen und nur die Kanten aufschmelzen oder ich mache einen Haufen drauf.
+Also muss ich mir eben überlegen, wie ich den haben will.
+Und zum Schluss hier nochmal die Varianten dazu.
+Soll heißen, ich kann damit auch aufwärmen. Einfach den Brenner herlegen und irgendwas heiß machen.
+Vielleicht braucht es andere Prozesse vor Erwärmung.
+Oder ich kann Brennschneiden machen, da kommen wir ja auch noch zu, nämlich Bauteile nicht zusammenfügen, sondern sie trennen.
+Letztes Statement dazu.
+Dieser Prozess Schneiden ist absolut industrieller Standard.
+Das Schweißen ist eher so, jede Werkstatt hat es, auch wir im Labor haben das.
+Aber das hat mit Industrieanwendungen eigentlich relativ wenig zu tun.
+Warum? Weil es eben einfach ein endischer, sehr langsamer Prozess ist und der zu einem Überfluss noch alles drum und schief macht.
+Also, warum soll ich das noch im Minus-7-Umfang geben, tatsächlich nicht?
+Fragen?
+Dann danke ich euch.

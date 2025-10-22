@@ -1,0 +1,674 @@
+viel dünner und was wir jetzt in der einen in dem umschlag hier haben das hier das sind
+50.000 Filamente.
+50.000 Filamente.
+Und das, was hier
+drin ist,
+das ist die Basis.
+Das Gebet wird, das weiß ich nicht.
+Das ist genau das.
+Das sind
+zehn Schichten.
+Das sind zehn Schichten aufeinander
+abgelegt.
+Also
+so ein Strang
+der ist ein bisschen,
+das ist hier,
+Die sind jetzt so miteinander verbogen, so Gewebe, Strukturen.
+Die können Sie unterschiedlich aufbauen.
+Die können Sie unterschiedlich aufbauen, je nachdem, was Sie für eine Kraft haben.
+Es gibt, wenn Sie den Aufbau falsch machen, Sie schicken eine Zugkraft jetzt hier durch.
+Das heißt, was kann es sein, dass sich das verdreht?
+Sie ziehen dran und das Bauteil torpiert, das zeigt die Torsion.
+Das müssen Sie richtig machen und dann anpassen auf den vorhandenen Kraftstoff.
+Und das hier, Achtung, da ist ein Gummi dazwischen, Gummi, Dämpfung.
+Ja, gut.
+Und welches wird im Automobilbau genutzt?
+Das müsste ich lügen. Weiß ich nicht.
+Das sind jetzt so Beispielbauteile. Das hat die Firma Kybord gemacht.
+Kybord ist eher Hersteller von Gummi.
+Und die wollten mal zeigen, dass man das auch besser denken kann.
+Was ist das?
+Vielen Dank.
+Hier sieht man das teilweise auch, das war bei den Gewebestrukturen im Automobil auch,
+Die Fasern werden vernäht. Das hat zur Folge, wenn Sie eine Biegung haben, bei einer Biegung gibt es auch immer Schubkräfte innerhalb der Probe, wo die Schichten gegeneinander verschoben werden und dann kann es passieren, dass die sich lösen.
+Und dann macht man dann so ein...
+Wie kommt man von hier zum Weg zum Beispiel?
+Dieses Gewebe wird in das Werkzeug eingelegt.
+Und dann gibt es ein Harz und ein Hertha, die miteinander reagieren.
+Die werden injiziert in die Fasern.
+Die müssen dann die Fasern benetzen, gleichmäßig.
+Es darf keine Fehlstellen geben. So etwas wäre zum Beispiel überhaupt nicht.
+Durch Temperatur. Normalerweise sind die Pressen dann beheizt und dann findet diese chemische Reaktion statt.
+Das sind zwei Flüssigkeiten, die miteinander reagieren. Das Material ist ein Duroblast.
+Können Sie dann nur noch kleben. Sie können das nicht mehr schweißen, weil das nicht mehr schmelzbar ist.
+Ich fange heute mal etwas anders an als sonst.
+Und zwar haben wir hier einen kleinen Sprung, wir haben ja ein Skript abgelegt, die Grundlagen.
+Dann noch hingehen, wir fangen heute, im Gegensatz zu sonst, mal mit der Seite 81 an.
+Vielen Dank.
+Thema Gusseisen.
+Im Gusseisen gibt es verschiedene Varianten an Material.
+Ich weiß nicht, ob die Zahlen so aktuell sind.
+57% sind von dieser Gesamtmenge, die wir hier haben, Fusseisen mit Lamellen-Grafit.
+Wir werden jetzt gleich darauf eingehen, was die charakteristischen Unterschiede sind.
+Wir machen den Maschinenelemente, wir machen das nächste Mal diese Dauerfestigkeit.
+Und welcher Einfluss haben Kerben auf die Dauerfestigkeit?
+Und die Kerne, die wir hier haben, sind Kerne im Material, beim Lamellenkraftwerk.
+Das hat Einfluss auf die Schaffung.
+87% sind Gusseisen, die gegossen werden.
+Dann gibt es hier vom Gusseisen per sich Temperguss oder auch Stahlguss.
+Der ist hier Stahlguss.
+Gussstahl hat weniger als 2% Kohlenstoff, macht nur 5% der Funktion aus.
+Der Guss ist schwer zu gießen, der Stahl.
+Sie brauchen höhere Temperaturen, sie haben mehr Schwindung.
+Das gucken wir uns noch an, was ist das mit der Schwindung.
+Und das hat zur Folge, dass es zu viele Probleme gibt.
+Auch die Warmgussbildung ist ein Riesenthema beim Stahl.
+weshalb der Stahl typischerweise nicht gegossen wird.
+Was macht man mit Stahl?
+Was ist der Vorteil von Stahl,
+die wir über Guss eisen?
+Stahl ist umformbar.
+Stahl können Sie flachweizen,
+können Sie umformen,
+Sie können die Karosseriebauteile tiefziehen und dann schweißen.
+So kommen Sie zu Bauteilen.
+Stahl ist immer umformbar,
+kann entsprechend, ist aber schlecht gießbar.
+Deshalb geht man, wenn man Stahlbauteile herstellt,
+Sie machen zum Beispiel diese Doppel-T-Träger,
+um etwas besonders biegensteifes zu machen.
+Durch Umformen des Stahls.
+Das Gusseisen hat andere Eigenschaften.
+Es hat weniger Schwindung, es ist abkühlt,
+deshalb lässt es sich gut gießen.
+Lamellen-Grafitt 57, Kugel-Grafitt 30%.
+Das sind die charakteristischen Unterschiede.
+Dieser Temperguss als solches macht nur der 1% der Produktion aus.
+Nur 1%.
+Weil er auch technisch gesehen kaum Vorteile bringt.
+Hauptmaterial ist Lamellen-Grafitt und Kugel-Grafitt.
+inzwischen drin, so ein Vermicularkraffit.
+Nicht-Eisen-Gusswerkstoffe,
+da kommen wir nachher vielleicht noch kurz eine Statistik dazu an,
+Aluminium, Magnesium, Titan.
+Magnesium hat nochmal eine niedrigere Dichte als Aluminium,
+das sind Leichtbauwerkstoffe,
+diese Schwermetalle da unten.
+Hier haben wir diese Eisenbus-Werkstoffe unterteilt in das metastabile, in das stabile System.
+Wenn Sie hier bitte mal schauen, graues Busseisen hat 2,5 bis 5% Kohlenstoffgehalt, der als Graphit oder Perlit ausfällt.
+Und dann sind wir doch wieder mit dem Mammellen-Graphit.
+Und hier sieht man, wenn man Kugelgraffit machen möchte, gibt es einen kleinen Magnesiumzusatz,
+den man reinwirft in die Schmelze und dann formt sich das Lamellen-Graffit in das Kugelgraffit.
+Wir gucken gleich, wie die Auswirkungen dann sind und wie das ausschaut.
+Dieses metastabile System betrachten wir eigentlich jetzt gar nicht mit dem weißen Gusseisen oder Sondergusseisen.
+Wir gucken nach den zwei Varianten hier, weil sie wirtschaftlich von Bedeutung sind.
+Da werden über fast 90% der Materialien abgedeckt.
+Wenn Sie jetzt schauen, Seite 83, gute Gieß-Eigenschaften.
+Wenn Sie das bitte mitschreiben, gehen wir gute Gieß-Eigenschaften,
+Das heißt, eine geringe Temperaturbelastung des Formstoffes.
+Die Schmelztemperatur knackt bei 1200 Grad.
+Die Schmelze wird an die Position gefangen mit etwa 1400 Grad, 1450 Grad in der Pfanne.
+und wird dann in die Form laufen lassen, sodass eine geringere Temperaturbelastung des Formstoffes in der Regel Sand vonstatten geht.
+Es gibt eine saubere Oberfläche, eine hohe Maßgenauigkeit und das Fusseisen hat eine geringe Lunker- und Rissneigung.
+Das ist das Entscheidende gegenüber dem Stahl, dass diese Rissneigung deutlich weniger ausgeprägt ist.
+Ich mache da mal ein, zwei, drei Ausrufezeichen hier dran, um das nochmal ein bisschen besser zu signalisieren, zu bemerken.
+Damit haben Sie diese Probleme des Warnreisens, die man beim Stahlguss hätte, nicht.
+Und das Material hat eine gute Zerspannbarkeit, es dämpft sehr gut, Dämpfungsfähigkeit,
+die sattelte Kleid- und Notlauf-Eigenschaften.
+Achtung!
+Innere Kerben.
+Innere Kerben im Werkstoff schweißen nur bedingt möglich und wir haben eine reduzierte Festigkeit.
+Auch das muss ich mal hier in die Mitte rechnen.
+So, Omas.
+Da oben sind die Zerspannbarkeiten.
+Weil dieser Grafit, das ist ein Schmiermittel, der liegt da in, ich sag mal, konzentrierter Form vor, der löst sich.
+Was macht man in Türscharniere rein, wenn die quietschen? Grafik, nicht mir. Du spiel mit.
+Deshalb lässt sich das Höhen zersparen. Was war die Dämpfungsfähigkeit?
+Gegen Vibration halt, oder?
+Genau, wenn von außen eine Anregung kommt, wie lange braucht das Material, bis die Schwingung weggedämpft ist.
+Hat eine super Dämpfungsfähigkeit, ich hatte das erwähnt mit dieser Portalmaschine, die immer nachgeschwungen ist im Stahl.
+Das hat man hier nicht, deshalb diese Dämpfungsfähigkeit, die ist super für den Maschinenbau, für Maschinengestelle.
+Überall dort, wo Schwingungen auftreten, also Schwingungen werden gedämpft.
+Ich bringe das nächste Mal eine Tugprobe mit, wo man sieht, wo Ferrit aufwirkt und Perlit.
+Das Perlit ist so ein eher helles und weißes Material, das hat eine höhere Festigkeit,
+als wenn das Ferrit gebildet wird.
+Und das ist deshalb der Fall, weil eine dicke Probe oder ein dickes Bauteil außen schnell abkühlt und innen langsam.
+Das kann zur Folge haben, dass die Festigkeit reduziert ist und das müssen wir beachten.
+Gleit- und Notlauf, wenn Sie Motorgehäuse haben. Ich habe mal meinen schönen alten Audi Coupé diese
+Woche verkauft, 32 Jahre alt, mit einem Motor von 270.000 Kilometern, das ist ein Gusseisenmotor,
+Mit ja auch sehr guten Notlauf-Eigenschaften, wenn mal die Schmierung ausfallen sollte,
+schmiert das Grafit, was da noch vorhanden ist und bzw. in diese Hohlräume, die vorhanden sind,
+kann sich Öl niederschlagen und führt dazu, dass auch ohne Ölschmierung oder schlechter
+Ölschmierung dann dieser Gleitlauf noch gegeben ist. Fragen dazu? Wichtig, geringe
+Lunka- und Rissneigung. Weniger Lunka als bei Stahl. Hier sieht man das Gefüge, das typisch ist.
+Also wenn Sie das markieren möchten, machen Sie bitte A und D. Das ist für mich von Relevanz.
+Der Rest ist mir egal, weil das kommerziell keine Rolle spielt. Wenn Sie in die Eisengießerei nach
+Kempen gehen, ich habe letztes Jahr eine Exkursion gemacht, den Leuten das mal gezeigt. Ich zeige
+dann auch gleich ein paar Bilder aus der Projektion, wo man sieht, wie die Bauteile
+ausgossen werden. Frage nochmal, wie kommt man dahin? Das ist der gleiche Kohlenstoffgehalt,
+als Grafit mit ihren Kugeln vor und da oben in Lamellen. Eine Magnesiumbehandlung. Magnesium
+wird in der Schmelze zugesetzt und dadurch wird aus den Lamellen ein Kugelgrafit.
+Hier unten sieht man das noch mal.
+Wir haben einen Überschuss an Kohlenstoff, der in Grafikform hier ausfällt, weil er nicht in das Eisengitter eingebaut werden kann,
+in dieser hohen Konzentration zwischen 2,5 bis CC steht für die Konzentration von Kohlenstoff.
+Und links haben wir Lamellen-Graphit, da sieht man, das liegt so bändchenartig vor, da sind Spitzen, da sind kleine Ecken und Kanten, wo die Kraft umgeleitet werden muss.
+Und Gussteile mit Lamellen-Graphit haben ein Problem.
+Wir haben bei den Maschinenelementen gesagt, die Kräfte gehen in Linien durch das Bauteil hindurch.
+Wenn Sie diese Kräfte um die Kugeln herumleiten, ist das ein kleiner Weg und das funktioniert ganz
+gut. Wenn Sie das aber über die Lamellen machen möchten, dann gibt es Probleme. Das hat zur
+Folge, dass die Zugfestigkeit von so einem Lamellen-Graphit deutlich reduziert ist. Wir
+gucken uns gleich Kennwerte dazu an. Da unten nochmal, Magnesium macht Kugeln aus den Lamellen.
+Das hat zur Folge, hier ist der Kraftfluss aufgezeichnet, wenn Sie mal schauen möchten,
+Da sieht man, das sind die Kraftflusslinien.
+Die gehen hier einigermaßen sanft um die Kugeln herum.
+Die Konzentration der Spannungen ist deutlich geringer.
+Und hier, bei der Lamelle, ich habe jetzt mal einflüssig herausgezeichnet,
+die Kraftflusslinien müssen hier außenrum alle gemeinsam.
+Und hier gibt es eine Konzentration, eng beieinander liegende Kraftflusslinien.
+Flusslinien und damit hohe Spannungen.
+Kerben
+machen immer Spannungen.
+Ob die jetzt geometrisch bedingt
+sind, durch irgendein Abdrehen
+von einem Bauteil oder
+einer Welle.
+Diese
+Kerben machen immer diese
+Spannungskonfiguration.
+Was, wenn man in eine Spannung rein schlägt,
+zum Beispiel?
+Das ist jetzt natürlich
+bei einer schlagenden Beanspruchung noch zusätzlich.
+Ja, ich meine aber, also Linien gehen ja so runter, also was ist, wenn man genau so die Lamelle hat, dann wird es ja nicht stören, oder?
+Dann wird es nicht stören, aber jetzt gucken Sie mal, wie das Bild hier aussieht.
+Ja, ich verstehe.
+Komplett wirkt. Das ist jetzt nur ein Beispiel. Aber Sie haben recht, dann haben Sie wieder diese Richtungsabhängigkeit.
+Aber diese Lamellen liegen komplett wirr im Material und es gibt immer Konzentrationen von Kraftflusslinien und damit Spannungskonzentrationen.
+Und, ich weiß nicht, haben Sie das Bild hier, 86, da ist das Spannungsdehnungsdiagramm drin bei Ihnen, das sieht man da.
+Wenn ich das Bauteil auf Zug beanspruche, wenn ich jetzt ziehe an der Bauteilprobe, dann gibt es diese Spannungskonzentration, diese Zugbeanspruchung, die lässt den Riss ganz schnell aufgehen, wachsen und der läuft durch die Probe hindurch.
+Das Material hat kaum plastische Deformation. Das sieht man hier. Wir haben die Spannungsdehnungskurven
+gesehen vom Stahl. Streckgrenze geht nach oben bis zum Maximum. Und da haben Sie eine plastische
+Deformation von 40, 50 Prozent. Ein Gusseisen unter 1 Prozent. Das ist total spröde. Ich bringe nächste
+Wir haben eine Probe mit, zwei Stück Zugprobe, die sind aus einem Gusseisenwerk in Kempten.
+Wir haben ein Bauteil gegossen, haben eine Probe aus der Schmelze genommen, haben die
+abgegossen und haben sich nachher die Zugeigenschaften angeschaut, um zu wissen, was haben wir da
+für ein Material vergossen und was hat das für Eigenschaften.
+Hier sieht man, Anmerkung an der Stelle, hier eine Spannungsspitze durch die Kerbwirkung.
+Die Druckfestigkeit ist aus dem Grund etwa drei bis viermal größer als die Zugfestigkeit.
+Gussbauteile bitte immer auf Druck beanspruchen.
+Ich habe eine Frage. Bei diesen Kugeln, ist da überhaupt eine Kraftkonzentration, oder nicht? Von den Linien?
+Ja, deshalb ist auch keine Hochdehnung wie beim Stahl da.
+Also es ist auch schlecht.
+Beim Stahl ist der Kohlenstoff im Gitter eingebaut und Sie haben diese Kugeln auch nicht.
+es ist eine minder schlechte Lösung. Wir kommen gleich zu den Kennwerten. Dann können Sie noch
+mal gucken, wir hatten beim Stahl 30, 40, bei so einem Baustahl 30, 40 Prozent Bruchdehnung,
+wo Sie umformen können. Das können Sie mit dem Gusseisen vergessen. Umformen. Ist Gusseisen
+schwer in der Produktion. Nein, für den Guss ist es besser, weil sie weniger Schwindung haben und
+weniger Spannungen erzeugen. Deshalb werden Bauteile gegossen. Die Maschinengestelle von
+Deckel Maho zum Beispiel oder anderer Werkzeugmaschinen ist in der Regel das Gusseisen.
+Rostetguss-Eisen?
+Rostetguss-Eisen?
+Was heißt Rostetguss-Eisen?
+Ja, gute Frage.
+Ja.
+Nein.
+Das wird schon oft verwendet, finde ich.
+Also zum Beispiel die Bremskolben, nicht die Kolben an sich, sondern der Bremszylinder.
+Da hat man aber auch viel Messing als Werkstoff. Das ist Kupfer, Zink, Zinn.
+Fragen dazu?
+Jetzt gehen wir mal und gucken uns ein paar Werkstoffdaten dazu an.
+Und zwar von der Eisendieserei hier in Kempten.
+Und danach zeige ich Ihnen ein paar Bilder aus dieser Eisendieserei.
+Bruchdienungsstahl, irgendwas zwischen 20, 30, 40, 50 Prozent.
+Gusteisen.
+Hier unterschiedliche Materialkennwerte.
+Diese werden, ich will ein Wort dazu zeigen.
+Später füge ich es nochmal auf. Das ist die sogenannte Gattierung.
+Gattierung heißt, die schmeißen Reste von altem Material in den Ofen hinein, in den Schmelzofen,
+um eine Mischung herzustellen, die definiert ist und die bestimmte Eigenschaften aufweist.
+Material mit dem mindesten Kennwert ist das GG, die alte Normbezeichnung, GG-Graubus 15,
+war die minimale Zugfestigkeit von 150 Megapaskal.
+Ist das Bauteil dünner, kriegt man höhere Festigkeiten bis 250.
+Das ist die minimale Festigkeit GG20, hat 200 Megapaskal, GG25, GJL, bitte merken, es war schon mal eine Frage, was ist der Unterschied zwischen GJL und GJS?
+einer ist ein Graubuss
+mit Marmellengrafitt
+und der andere mit Kugelgrafitt
+in rot und dick gezeichnet
+sind die Bruchdehnungen angegeben
+die Bruchdehnungen sind auch immer ein Maß für die Zähigkeit
+und hier sieht man
+0,3 bis 0,8%
+eine Probe die 100mm Einspannlänge hat
+lässt sich 0,3mm dehnen
+dann ist Ende
+da können Sie nichts umformen
+ja, ist vorbei
+Wenn Sie jetzt ein dünnes Bauteil hätten, das können Sie nicht umfordern, weil keine Unformbarkeit vorhanden ist.
+In Form von Perlit ist die Festigkeit ein bisschen höher, die aber maximal 300 bis 400 Megapaskal.
+Wenn ich höherwertigere, höherfestere Materialien haben möchte, brauche ich andere Materialien.
+Und hier steigt gleichzeitig mit der Festigkeit die Bruchzähligkeit.
+Achtung, E-Modul.
+Deutlich niedriger als beim Stahl.
+Festigkeit RP01 oder RM.
+Hier die Kennwerte. Bei denen haben wir über den Maschinenelementen geredet.
+So greifen die hier ein bisschen ineinander.
+Und da macht man das Bauteil und Sie können daraus über die Dimensionierung dann bestimmen, wie groß die Wandstärke sein muss.
+Dichte. Warum ist die Dichte niedriger als beim Stahl?
+und was ist die Dichte bei Stahl?
+Dichte bei Stahl?
+Muss man sich merken,
+warum es nicht nachzuschlagen.
+Dichte von Stahl
+pro
+Stahl
+haben wir
+gestern aufgeschrieben.
+Dichte von Stahl,
+was wiegt ein Block?
+10 mal 10 mal 10
+ein Liter.
+7,85 Kilogramm pro Liter oder Gramm pro Kubikzentimeter.
+Was wiegt ein Glock? Ein Kubikmeter?
+7.850 Kilogramm pro Kubikmeter.
+Ja, also Einheiten.
+Das gleiche aus Polystyrol wiegt 50 Kilo oder 20 oder noch 7 Kilo.
+Dichte von Kusseilungen ist niedriger. Warum?
+Warum? Kann jemand googeln, was die Dichte von Grafitt ist?
+Wahrscheinlich irgendwas 1,87...
+Zwischen 2,09 und 2,23 Gramm pro Kubikzentimeter.
+Gut, okay.
+Die Carbonfaser hat eine Dichte von 1,7.
+Ja, wir haben diesen Leichtraum.
+Da ist nicht kein E-Modul, bitte nochmal schauen.
+Ebenfalls deutlich reduziert.
+Im Vergleich, durchdrehen.
+Dafür dämpft es besser.
+Jetzt haben wir hier eine Werksnorm für das Kugelkafé.
+Von der Tendenz her seht ihr da folgendes.
+Da oben ist die Festigkeitsklasse 350 bis 800.
+Und hinten dran als Kennzeichen gleichzeitig die Bruchdehnung. Zugfestigkeit und Bruchdehnung.
+E, M, G, J, S. Kugelgrafik, das ist fährlich.
+Steigende Festigkeit bis 800. Wenn die Festigkeit steigt, Achtung, geht die Bruchdehnung zurück.
+Dort, wo wir mit dem Lamellen-Grafitt aufhören, bei 350, 400 Megapaskal, fängt jetzt die verbesserte
+Festigkeit mit dem Kugel-Grafitt an, der deutlich bessere Felder zu liefern hat.
+Festigkeit RP02 ist ja auch angegeben.
+Das braucht der Konstrukteur, der eine Auslegung macht,
+im Bauteil dimensioniert.
+E-Modul 170.000.
+Immer noch nicht der von Stahl.
+Das ist ein anderes Deformation.
+Hat wahrscheinlich auch eine andere Wehrkontraktion.
+Und die Möderkurve, da unten habe ich jetzt den Hinweis,
+der ist nicht da.
+Da sieht man, haben wir gesagt, wenn wir Maschinenelemente berechnen, brauchen wir manchmal die dynamische Festigkeit, die ist deutlich reduziert.
+Faktor, ja, knapp 50, 60 Prozent.
+Fragen dazu?
+Das Busseisen hat weniger Schwindung und deshalb ist es bevorzugt in Busanwendungen drin.
+Im Maschinenbau ganz häufig für Maschinengestelle, dort wo Schwingungen gedämmt werden müssen.
+Hier ist mal so ein Beispiel, welche Elemente da noch vertreten sind.
+Das ist ein GOS 400, wo man verschiedene Materialien mal verglichen hat.
+Da ist Silizium, Mandan, Phosphor, Schwefel, Magnesium und Nickel mit drin, um bestimmte Eigenschaften einstellen zu können.
+Ich kann mir das hier kaum erklären.
+Ich kann mir einen Satz daraus bilden.
+Schauen wir uns mal an, was die Aussage da hinten sagt.
+Vielen Dank.
+Das sind die Mindestfestigkeitskennwerte, die man braucht, und ein GJL150 ist nur dann
+nur dann ein KJL 150 mit der Festigkeit 150, wenn die Mannstärke 40 mm unterschritten wird.
+Steigt die Mannstärke weiter, ist auch gar nicht mehr sichergestellt, dass das die 150 hat,
+sondern dann muss ich da hin, bin ich niedriger.
+Dann müsste ich, um 150 zu haben, eigentlich das Material nehmen.
+KJL 200.
+Mit anderen Worten, die Hauptaussage, die dahinter steht, ist, die Festigkeit ist stark von der Wandwege abhängig.
+Die Festigkeit ist stark von der Wandwege abhängig. Je dünner die Probe, desto größer die Festigkeit.
+Ursache, hat man schon gesagt, bei zunehmender Wandstärke wird das sogenannte Perlit umgewandelt in Perlit und das hat eine reduzierte Bedeutung zur Folge.
+Vielen Dank.
+Vielen Dank.
+Nein, kann ich nicht machen. Ich stelle auch andere Fragen. Es muss doch hier irgendeine Formelsammlung, eine Sammlung geben von alten Prüfungen. Ich verstehe das überhaupt nicht.
+Vielen Dank.
+Hier steigt die Wandstärke, die Neigung zur Bildung von Verliebt, was dazu führt, dass die Festigkeit abfällt.
+Das kann man hier ganz schön anschauen.
+Fragen? Das sind die Werkstoffe.
+Saugus, Himmelhügel und Lamellenblatt.
+Jetzt gehen wir nochmal in Seite 1 und klicken in zwei, drei Statistiken durch.
+Ich finde das ist nicht mehr so, ich fange nur mal an, um das bedeutsam zu machen.
+Buseisen-Werkstoffe, in Deutschland 6,5 Milliarden Euro, kann man sagen, naja, das ist ja wenig,
+Wenn man so sieht, dass wir Automobilindustrie und andere Industrien schaffen, aber es ist halt in der Regel dann Produktionsnaht eingesetzt, 34.000 Mitarbeiter, etwa 65.000 Mitarbeiter arbeiten in Kiesereien.
+Die Eisenkieserei in Kempten hat so 200 Mitarbeiter hier.
+Sehr hohe Stromkosten sieht man auch.
+Finanzkrise, das sind die produzierten Mengen, die da zurückgegangen sind.
+Und jetzt haben wir Energiekrise, die Zahlen werden dramatisch reduziert.
+Der Fendt hat, glaube ich, eine Firma übernommen, die Buszeile herstellt, weil die ansonsten keiner liefern kann.
+Und die starten vor der Inferenz.
+Also es ist ein Riesenthema. Deutschland in Europa mit Abstand führend in der Eisen- und Stahlbusbauteile, nicht Stahlhersteller, führend in der Welt, allerdings nur auf Platz 5, ganz, ganz weich und recht inaktiv.
+Warum?
+Das liegt an der Art und Weise, wie die geschmolzen wird.
+Sehr viel im Hochofen mit Koks, was für die Energiebilanz und für die CO2-Bilanz schlecht ist.
+Und daher hier eingesetzt wird.
+Und hier werden sehr viele Produktionssegmente angezogen.
+Angezogen. Indien auch, USA auch.
+Ganz wenige Unternehmen, größer, tausend Mitarbeiter, das sind alles sehr kleine, mittelständisch geprägte Unternehmen.
+Wir haben hier Eisenguss und hier Nicht-Eisenguss.
+Das sind die Mengen. 60% Grauguss, also Lamellikaphit, 33% Sperrunguss und der Rest ist Peanuts.
+Die zwei Varianten, da soll man wissen, worum es geht.
+Und wenn man von Nicht-Eisenmetallen spricht, in der Regel Aluminium-Bauteile.
+Die Motorenindustrie macht da sehr viel.
+Die machen teilweise Buss in Aluminium und Magnesium.
+Und die Kombination, ja, sehr stark geprägt durch Kaukuss.
+Abnehmerforschung, 76 Prozent Nicht-Eisenmetalle,
+Straßenfahrzeugbau
+64 Prozent Strahlung.
+Vielen Dank.
+Vielen Dank.
+Begriffe aus der Füßerei irgendwann mal nicht zuordnen können, kann man das sehr schön hier finden.
+Der Begriff Garantierung beschreibt also das folgende,
+entsprechend der gewünschten chemischen Zusammensetzung
+abgebogenen Chargen der erforderlichen teillichen Einsatzstoffe.
+Für Eisenpulslegierung besteht die Gattierung üblicherweise aus Rohreisen,
+Kreislaufmaterial, Stahlschrott.
+Wie genauer die Gattierung berechnet und zusammengestellt wird,
+müssen wir in der Falle später durch Schmelzkorrekturen oder Schmelzekorrekturen aus.
+Verteilung heißt, man macht eine definierte chemische Zusammensetzung, um einen definierten Werkstoff daraus zu machen.
+Ich weiß zum Beispiel, ob da jetzt ein GHL 200, 250 oder 300 rauskommt.
+Hier sind die ganzen Körper.
+Hier das Sand vom Bauteil angebrannt, typischer Feder, der auch treten kann.
+Hier hat man einen eigentlich schönen Ankopplung mit einem Dach gegriffen.
+Hier ist also die Kugel kaputt.
+Sollen wir das nochmal an, was da geschrieben steht?
+Vielen Dank.
+Vielen Dank.
+Das ist eine schöne Dokumentation, ein Beschreibung, ein Hinweis zu Normen, die einzuhalten sind, die da eingestellt wurden.
+Wer da ein bisschen was nachlesen will, der hat da eine schöne Option über dieses Gießereilexikon.
+Vielen Dank.
+die abgetrennt werden und dann wieder eingeschmolzen werden.
+Das nur vom Verstecklich, das Fertigen eines Körpers aus einem formlosen Stoff,
+beim Kunststoff kann das ein Kaminat sein, hier hat man in der Regel diese Masseteilchen,
+aus der Schmelze, Stoffteilchen, die aus der Schmelze kommen. Wenn man den flüssigen Zustand
+dort benutzt, nennt man das Gießen. Wenn man einen festen, karmigen, pulverfarbigen Zustand
+benutzt, nennt man das Pulvermetallurgie. Wer kennt ein Unternehmen der Pulvermetallurgie?
+Und was machen die?
+Zum Beispiel Ceratizid.
+Das ist ein großes Lager bei...
+...in der Oben oder was?
+Dieses große Lager an der Produktion in Bräute
+sind die bestbezahlten Unternehmen für Praktikanten.
+Die machen Hartmetallverbindungen.
+Diese Hartmetalle werden in der Regel nicht durch Schmelzen erreicht, sondern durch Diffusionsprozesse bei metallurgischen Prozessen, wo es noch ein bisschen angeschmolzen wird.
+Hartmetall verbindet sich mit Schneidern, Scheren, Messern.
+Ein Brustteil ist aus einem metallischen Werkstoff direkt auf der Schmelze hergestelltes endkonturnahes Bauteil.
+Wie werden Stahlbauteile hergestellt?
+Doppel-T-Träger, S235, S275, S355, für die Berechnung von Maschinenelementen.
+Der Stahl wird in der Regel durch einen Primärprozess mit Gießen hergestellt oder als Blech und dann tiefgezogen oder umgeformt.
+Diese Doppeltee-Träger werden gewalzt. Das können Sie mit dem Gusseisen vergessen.
+Gusseisen heißt, wir stellen Bauteile her, die entkonturnah sind.
+Entkonturnah heißt, ich kann keine Passungen erreichen, die ich brauche.
+Wenn ich Passungen machen möchte, muss ich das Ganze mechanisch nachbearbeiten.
+Weil die Toleranzen nicht erreichbar sind.
+Vielen Dank.
+Aufsägen, Rasen, Schleifen.
+Eine Nachbearbeitung ist in der Regel unbedingt erforderlich, um Toleranzen und Maßungen einstellen zu können.
+Sie können das nicht umformen, das als Hinweis, dass man jetzt sagt,
+wenn man aus dem Stahl, aus so einem Blech wälzt, wälzt man irgendwie einen Doppelteenträger.
+Das Buss-Bauteil ist endkontrollnah und wird immer an bestimmten Stellen, wo es erforderlich ist, nachbearbeitet.
+Irgendein Maschinengehäuse, Maschinengestell muss immer etwas größer gefertigt werden.
+Und dann Abtragung von Oberflächen, Löcher bohren, Gewinde reinschrauben, mechanische Nacharbeit.
+Das ist ein typisches Busbauteil, ein Großdieselmotor.
+Stellen Sie sich vor, Sie müssten das auf einem vollen herausarbeiten.
+Das funktioniert nicht.
+Sie brauchen riesengroße Formen.
+Sie kippen die schnellste dort rein,
+muss alles aus einem Bus sozusagen passieren.
+Das heißt, es ist immer endkonturnah,
+aber es wird dann im Nachgang, hier läuft eine Welle drin,
+gedreht, gebohrt, geträgt, geschliffen.
+um diese Oberfläche zu bearbeiten.
+Deshalb ist es auch sehr gut recycelbar.
+Brennstoff als Quelle, Koks
+oder Öl und Gas, also
+sehr stark auf Basis von
+Quellen. Hier der Begriff der Gattierung, habe ich auch
+schon mal gefragt, was ist Gattierung?
+Das war die Ergänzung hier.
+Da oben, letzte Reihe, so von der Geräuschkulisse, querreden.
+Dann haben wir das hier noch fertig, gehen wir rein.
+Das ist ein sogenannter Komponofen, Schachtofen.
+Da gibt es auch ein Video dazu, das Ende mit der Maus, auch das Hochofen.
+betrieben, in Deutschland immer mehr verbrannt, aufgrund der CO2-Emissionen, die man produzieren
+möchte, werden aber an anderen Stellen der Welt weiter betrieben. Hier wird Luft eingeblasen,
+um die Temperatur bei der Verbrennung zu steigern. Das Eisen schmilzt, geht über das
+Koksbett, was da unten sich befindet und fließt in ein Metallbad, ein Siphon, wo es abgestochen
+wird, wo die Schmelze dann den Gießpfannen zugeführt wird. Sehr stark koksbasiert,
+hat sehr, sehr hohe CO2-Emissionen zur Folge. Früher war das Rohrgebiet komplett schwarz
+auf Basis dessen, dass man die Abgase, diese Lichtgase, die dort entstanden sind, nicht abgezogen hat.
+Man kann es mit einem schwarzen Staub wieder starten.
+Nur wirklich auch von den vielen Öfen, die dort betrieben worden sind.
+Was man heute typischerweise findet und was energetisch wahrscheinlich auch günstiger ist,
+ist dieser Injektionsofen, ich zeige gleich mal ein Video von so einem Teil,
+der Eisendieserei hier in Kempten.
+Hier gibt es gewickelte Spulen, innerhalb derer ein Strom fließt, der ein magnetisches Wechselfeld induziert und dann das Schmelz aufgrund des inneren Widerstandes verschmilzt.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Da sieht man jetzt eine feste Station bei einer Maschinenform, wo diese Schmelze immer in der gleichen Position in eine leere Form hineinwirft.
+Da oben gibt es so einen Schlacker, die gebildet wird, die wird abgetrennt.
+Das ist ein gegossenes Bauteil mit einer Sandform.
+Die Sandform, die vorher hergestellt wird, kann ich euch noch zeigen.
+Heute wird hier so ein Gewährungseisen gegossen, das ist so ein Nebenprodukt, das gemacht wird.
+Hier fließt jetzt die 1430 Schmelze aus der Tanne heraus, wo die verschiedenen Stationen transportiert wird.
+Und dann hat man hier so ein Gewährungseisen gegossen.
+Das kann man dann einsetzen, um die Sandformen von innen her zu verstärken.
+Hier ist eine Pfanne, die Schmelze jetzt schon eingefüllt, um die Schlacke zu bilden.
+Die wird jetzt abgetragen, weil keine Unreinigungen mehr drin sind.
+Die Schmelze hat 1500 Grad. Wenn Sie da 5 Meter neben dran stehen, merken Sie diese unglaubliche Wärme, die wir haben.
+Es riecht auch relativ unangenehm in so einer Gießerei.
+Hier sieht man jetzt Formen, die aufgebaut worden sind.
+Diese Formen bestehen aus einem Unterkasten, einem Oberkasten.
+Da gibt es eine Stelle, wo die Schmelze reingegossen wird und sich gleichmäßig in den Wohlraum verteilt.
+Und das ist mein Bauteil.
+Dieser Hohlraum ist immer etwas größer als das spätere Bauteil,
+weil diese Schwingungsprozesse berücksichtigt werden müssen.
+Hier oben, das ist die Position, wo das Material in den Ofen reingeworfen wird.
+Das ist die sogenannte Gattierung.
+Da werden unterschiedliche Bestandteile reingebaut, um nachher einen Schmelzen zu haben.
+Jetzt wird so ein Bauteil abgebossen.
+Das ist ein Maschinenbestell für die Firma Deckel Marmo, 8 Tonnen schwer.
+Wird von zwei Seiten geschmelzt, lässt man reinfließen, fließt jetzt durch ein Kanalsystem in die Form und füllt die Form langsam von unten.
+Die Luft muss raus.
+Dort wird der Sand gebunden, dass der nicht auseinanderfällt.
+Dazu bedarf es entsprechender chemischer Komponenten, die jetzt mit der heißen Temperatur verbrennen.
+So ähnlich wie diese Binder, die Sie im Kunststoff haben, bei einem TSK, die binden den Sand.
+Der Sand ist hart, der ist fest, aber dieser chemische Binder, der verbrennt und es entstehen dann diese Verbrennungsgase.
+Immer mehr Schmerze wird nachlaufen gelassen, bis das Bauteil natürlich gefüllt ist.
+Vielen Dank.
+Vielen Dank.
+Das ist ein Ignitionsofen, der von der Eisengießerei getrieben wird.
+Wir haben Stromkosten, 1.000 Euro pro Mitarbeiter, 200.000, 300.000 Euro an Stromkosten in dieser großen Portion.
+Dieser Ofen hat diese Lektionsscheife und der wird nur in der Nacht getrieben,
+das heißt, nur in der Nacht geschmolzen wird.
+Wir haben also am Tag nicht ausreichend Energie zur Verfügung, in der Nacht wird das Material, die Schmelze, aufbereitet und am Morgen wird es vergossen, was man da hat und dann am Nachmittag oder am nächsten Tag, wenn man die Bauteile landet, geht es jetzt in die Pfanne rein.
+Die Pfanne hat so 4 Tonnen Material.
+Auf diesen Schmelzerofen kommt das mit 1500 Grad.
+Da wird die Temperatur gemessen.
+Das steht eine Zeit lang da rum.
+Wenn es zu kalt wird, wird diese Pfanne beheizt mit Heizgebläse.
+Hier Gasverbrannt.
+Also da ist immer Hitze da.
+In der Nacht wird geschmolzen, am Morgen früh werden die vorbereiteten Formen mit Schmelze erfüllt.
+Wodurch besteht die Frage denn eigentlich?
+Das ist das Schamott, also eine Art Stein.
+Die Löwen, die sind innen auch ausgekleidet,
+wie so ein Kachelofen.
+Ich höre die Glocke.
+Es gab vor zwei Jahren im Norden von Deutschland einen Unfall, wo man die beiden Werkzeughälften, den Ober- und den Unterkasten, nicht miteinander richtig verbunden hat.
+Dann ist der aufgesprungen und die heiße Schmelze ist ausgetreten und zwei Leute sind dort dran gestorben.
+Weil der Kasten aufgegangen ist und die Schmelze ist ausgetreten. 1500 Grad, da bleibt nicht mehr viel übrig.
+Wie lange dauert es, bis es abkühlt eigentlich?
+Das hängt von der Bauteilwanddicke ab. Je dicker, desto länger.
+Bis 2 bis 3 Wochen bei Prickmann im Bauteil.
+Wie jetzt zum Beispiel der Großkiesel da, der braucht minimum 2 Wochen, bis das fertig ist.
+Und dann die Flocke kieseln, das dauert auch eine bestimmte Woche, bis die fertig ist.
+Also bis es abkühlt oder fertig ist?
+bis Sie es auspacken können.
+Und dann packen Sie aus.
+Aber wieso?
+Ja, weil Sie, ansonsten, wenn Sie das jetzt auspacken und innen drin ist noch flüssige Schmelze,
+man macht einen Prozess, dass man sagt, was passiert, wenn das Bauteil abkühlt.
+Die Wand wird außen fest, innen haben Sie Schmelze.
+Diese Schmelze wird immer kleiner.
+und von oben muss durch das Gießsystem weiter Schmelze reinfließen,
+weil die sich abkühlen, Schmelze macht was, die zieht sich zusammen.
+Deshalb muss von oben immer Schmelze nachlaufen, bis das Bauteil komplett erstarrt ist.
+Wenn Sie das nicht machen, dann haben Sie dann nachher Lunker im Bauteil.
+Wenn Sie zu früh auspacken und die Schmelze nicht nachfließen kann, haben Sie Lunker im Bauteil.
+Oder hoher Eigenspannung.
+Also muss man ein bis zwei Wochen ganzheitlich Metall schmelzen?
+Das wird gar nichts.
+Muss man Metall schmelzen, meinst du? Ein bis zwei Wochen ganzheitlich?
+Ja, wenn die sehr dick waren, nicht.
+Nein, es wird eine Flüssigkeitssäule gebaut.
+Ich zeige nachher ein paar Bauteile oder nächste Woche, wo man das sieht.
+Das ist eine Flüssigkeitssäule und aus der wird sichergestellt, dass Schmelze nachfließen kann.
+Statisch.
+Ich zeige Ihnen mal so ein Bauteil.
+Das ist jetzt eingepackt in einen Sandkasten.
+Das sind Keramikleitungen für das sogenannte Gießsystem.
+Da fließt die Schmelze von oben rein, wird hier verteilt, geht über einen Anschnitt in das Bauteil.
+Das ist eine Seilwinde für einen Liebherrkran.
+gibt es in unterschiedlichen Größen und damit wird das Bauteil von außen nach innen abkühlt.
+Das ist meine Bauteilwandstärke und mit der Zeit wird diese Wand, die fest ist von außen immer
+dicker und innen ist außen ist es fest. Mit zunehmender Zeit wird diese Wandstärke immer
+von außen fest und innen ist noch Schmelze. Die Schmelze hat eine niedrigere Dichte. Wenn
+Wenn sie abkühlt, kommen die Teilchen aneinander, das Material zieht sich zusammen.
+Wenn Sie das nicht unterstützen, haben Sie nachher in der Mitte im Bauteil Blunker, Fehlstellen.
+Und deshalb wird es so gemacht, da oben zum Beispiel wird ein sogenannter Speiser draufgesetzt,
+das Ding da, das ist ein Reservevolumen an Schmelze.
+Das ist der größte Querschnitt und der wird als letztes fest.
+Und wenn Sie in diesem Restquerschnitt oder in diesem Speiser, wie man ihn nennt, die letzte Schmelze haben, dann kriegen Sie dort einen Lunker.
+Das interessiert Sie aber nicht, weil das wird abgeschnitten.
+Und das Gießsystem, was Sie haben, das hier, der Verteiler, der Querlauch, der Anschnitt, der wird ebenfalls nachher abgeschnitten.
+Das heißt, immer wenn Sie Sandguss haben, solche Sachen machen, wie Sandguss, haben Sie am Ende des Tages, sind das die Bauteile, das sind die Seilwinden.
+Da haben wir gesagt, wenn am Kran das Seil da aufgewickelt wird und ein Schlag kommt und eine Schwingung eintritt, dann ist das Ding in der Lage, diese Schwingung sehr schnell abzudämpfen.
+Deshalb nennt man hier Busseisen, in verschiedenen Größen, kleinere Seilbinde für den kleineren Kran, größerer Kran.
+Hier sieht man ein Bauteil, hier einen Speiser und von oben muss diese Schmelze so lange nachlaufen, bis die Bauteilwand komplett fest ist.
+Damit es keine Lunker gibt, Fehlstellen im Bauteil.
+Wenn Sie eine dicke Wand haben, dauert das lang.
+Dann fließt es auch extrem langsam, oder?
+Einfach durch Gravitation, ja.
+Wenn das Material innen abkühlt, saugt es die Schmelze von oben rein.
+Die fließt dann ab.
+Damit kann man die Schwindung ausgleichen.
+Ein Kunststoff, ein Spritzguss, können Sie das mit Druck machen.
+Es gibt auch Maschinen, die mit Druck arbeiten.
+Dann können Sie mit Druck, das nennt man Nachspeisung, machen, weil das Volumen sich verkleinert.
+Das ist eine physikalische Fragestellung, die wir uns noch anschauen werden.
+Deshalb sehen Guss-Teile immer anders aus, als zum Beispiel irgendwelche, das kann man das gleiche wie die Bauteile,
+oder hier, die Guss-Eisen-Konstruktion.
+Hier, immer wieder, das ist das Gieß, das ist das Bauteil, das ist das Gießsystem, das hier, da läuft die Schmelze rein von oben und das müssen Sie in Gesamtform einbauen.
+Das machen Sie typischerweise in zwei Kästen, die Sie zumachen, die öffnen Sie dann, holen Sie ein Modell raus und haben nachher einen Wohlraum drin.
+Das Modell ist aus Holz oder aus Kunststoff.
+Es ist etwas größer als das spätere Bauteil, weil sie eine Schwindung haben.
+Und sie haben dadurch, durch diese Schwindung, nur bestimmte Toleranzen, die sie einhalten können.
+Hier hat man so eine Decke von irgendeinem Getriebe wahrscheinlich oder von einem Maschinenelement.
+Und das sind nachher die abgeschnittenen Gießsysteme.
+Die werden nachher in den Ofen geworfen.
+Sie können wieder recycelt werden. Sie haben teilweise nur 70% Materialausnutzung. Der Rest ist hier, um das Kießen vernünftig ablaufen zu lassen.
+Bauteile, Bauteile, Bauteile. Das ist ein Maschinengestell oder Maschinentisch. Warum ist es so glänzend?
+Da werden in die Form Eisenbauteile eingebracht, um schneller zu kühlen.
+Kühleisen nennt man die.
+Wenn sie schneller kühlen, gibt es ein feineres Gefüge mit besserer Festigkeit.
+Also da weiß man sehr genau, was man tut.
+Und die Festigkeit braucht man, weil irgendwelche Nuten da jetzt reingefleßt werden,
+wo man nachher irgendwelche Bauteile fest schraubt.
+Das muss ja aber alles sehr teuer sein, oder?
+die ganzen, also wenn die es verkaufen,
+weil sie uns nützlich finanzieren.
+Das heißt mal, wir haben da massiven Druck.
+Ich sage mal, die Energiekosten
+lagen mal bei 5, 6%.
+Wenn die jetzt bei 10% sind
+und die Unternehmen
+kommen eine Marge von 5-8%
+maximal, dann frisst das
+ihre Marge auf.
+Und dann sind sie nicht mehr wettbewerbsfähig
+in Deutschland.
+Der Strom in Frankreich,
+der Atomstrom, ist mit Sicherheit
+signifikant günstiger als das, was hier
+an Strom produziert wird im Mix.
+Die sind ja anders aufgestellt.
+Und das heißt, da wird Produktion
+weiter abwandern, weil sie einfach
+per se hier nicht
+wettbewerbsfähig sind.
+Last but not least, das ist ein sogenannter Lichtbogenofen, damit wird Stahl geschmolzen.
+Kennt jemand die Firma SGL Carbon?
+Das ist eine Firma unter dem Dach der Frau Klatten.
+Wer kennt Klatten?
+Wer kennt die Familie Quandt?
+Quandt ist BMW-Eigentümerin, Tochter ist die Frau Klatten, der gehört BMW zu großen Anteilen.
+Die hat die Firma SGL Carbon in einen Joint-Venture gebracht, wo die die Carbonfasern machen.
+Und die haben ein anderes Geschäftsfeld, wo sie diese Kohle-Elektroden machen, um Stahl zu schmelzen.
+Da sind oben solche Kohle-Elektroden, die werden immer verbraucht, die werden immer nachgeführt.
+Die SGL Carbon hat drei Geschäftsfelder, einmal die Carbonfasern, einmal diese Kohle-Elektroden und dann noch irgendwas.
+ganz lang haben sie mit dem
+gutes Geld verdient, mit den Carbonfasern nicht
+haben wir die Carbonfasern
+im Minusgeschäft gemacht
+weil es mal Probleme mit der
+Flugzeugindustrie gab und man qualitativ
+ein Riesenthema hatte, da haben die
+Millionenverluste geschwiegen
+wir haben in einem Jahr
+bei einem Umsatz
+von 300 Millionen Euro
+80 Millionen Euro Wiese gemacht
+Und das ist eine Alternative. Das ist alles sehr energieintensiv, würde ich damit sagen.
+Und das bereitet Probleme, insbesondere am Standort hier in Deutschland.
+Dieser Kuponofen, das ist immer noch ein Riesenthema, hat jemand was gehört von grünem Stahl als Begriff?
+Nords Thema wird in Deutschland subventioniert mit Abermilliarden.
+Acor Mithal ist der größte Hersteller von Stahl, ein indisches Unternehmen vom Standort her.
+Wir haben gesagt, wir machen das nicht mit. Wir wollen die Subventionen von der deutschen Regierung nicht haben.
+Der Habeck hat bestimmt über 10 Milliarden in diese Stahlfirmen gegeben, die den grünen Stahl machen.
+ThyssenKrupp ist sukzessive ausgestiegen, immer mehr steigen aus, weil sie erkennen,
+dieser grüne Stahl, der wird mit Wasserstoff reduziert, mit dem gelingt es nicht zu wettbewerbsfähigen Preisen.
+Die Infrastruktur ist gar nicht da, die brauchen Strom, um den Wasserstoff zu erzeugen.
+In dieser Wertschöpfungskette haben Sie einen Wirkungsgrad von 15%.
+Das heißt, Sie müssen das sechs- bis siebenfache an Energie erzeugen, um diesen grünen Wasserstoff zu kriegen und dann daraus einen Stahl zu machen.
+Eigentlich ein Irrsinn, aber wird milliardenteuer subventioniert.
+Da haben Sie bei Saarstahl 14.000 Arbeitsplätze für 2,4 Milliarden Euro.
+Da können Sie sich ausrechnen, was das bedeutet.
+Das wäre eine schöne Rente für jeden von uns.
+Das können Sie morgen, da warst du gar nicht hier dran,
+das können Sie einpacken.
+Also, ich bin total versorgt.
+Ihr Sinn, was da passiert, wäre, in anderen Ländern
+die traditionelle Art und Weise, das zu betreiben,
+das Geschäft weiterhin zu stehlen.
+Da schneidet sich Deutschland ziemlich ins eigene Fleisch.
+Und ich finde auch, dass das in der medialen Gerichterstattung
+immer so dargestellt wird, wie innovativ das ist.
+Das sind viele Projekte, die sich, werden sich rein physikalisch nicht rechnen.
+Ich kann es nicht verstehen, wie man in einer Wertschöpfungskette mit einem Wirkungsgrad von 15 Prozent,
+also die brauchen Energie, um den grünen Wasserstoff herzustellen, um ihn zu transportieren,
+dann macht man aus Wasserstoff wieder Strom.
+Das ist der Wirkungsgrad 0,14 oder 0,15, 1,6 oder irgendwas.
+Das wird sich nicht rechnen.
+weil die anderen interessiert das nicht.
+Die machen ihren Stahl, die gehen auf den Markt, es gibt Wettbewerbspreise
+und im Zuge dessen wird Deutschland da jetzt an der Stelle an allen Stellen abgehängt.
+Fertigungsindustrie geht raus, da zieht weitere Fertigungsindustrie mit.
+Das ist immer so.
+Das ist hier die Primär- und Rohstoffbasis des Urformen als Prozess
+und das ist das erste, was wandert.
+Und dann werden weitere mitgegeben.
+Das werden wir sehen.
+Das ist zwar traurig, aber so funktioniert die Industrie halt.
+Was ist die Hauptmotivation eines Unternehmens?
+Das Gewinnmaximum.
+Und da geht man dahin, wo das am besten funktioniert.
+Vielen Dank für die Aufmerksamkeit.
+Untertitelung des ZDF für funk, 2017
+Das war's für heute.
