@@ -1,0 +1,873 @@
+Im Prinzip ist vieles, wie sagt man, selbstverständlich und man denkt nicht darüber nach.
+Es sei denn, man ist mit Produkten, die Konsumenten benutzen, konfrontiert,
+dann muss man sehr wohl nachdenken, weil man dann Produkte gestalten muss,
+die der Anwender auch mag. Wenn er diese Anwendung nicht gut findet, dann wird er sie nicht kaufen
+oder nicht benutzen. Im Prinzip in den letzten Jahren sind viele neue Technologien experimentiert
+Es sind viele neue digitale Techniken umgesetzt worden, aber im Moment ist es so, dass manche aus dem Gesichtspunkt der Ergonomie, was ein Teil der Arbeitswissenschaft ist, nicht komplett durchdacht worden sind.
+oder man ist dem Trend der Digitalisierung einfach gefolgt.
+Wenn man jetzt das Beispiel nimmt in der Autoindustrie, die Bedienung von Pkw,
+dann ist es so, dass vieles nach dem Trend mit der digitalen Oberfläche ausgestattet worden ist.
+Wenn man es aber aus ökonomischer Sicht betrachtet, dann ist es so, dass das Ganze mehr Konzentration in der Bedienung erfordert wie ein Drehknopf.
+Deshalb kommt auch die Autoindustrie wieder zu Bedienelementen zurück, die eigentlich der Vergangenheit angehören.
+Das heißt zum Beispiel, dass man die Klimaanlage nicht über Touch bedient, weil es unheimlich viel Konzentration während des Fahrens erfordert.
+Auch die anderen Bedienelemente erfordern einfach die Konzentration, dass ich hinschaue, wo ging ein Knopf, den kann ich eigentlich ertasten.
+Deshalb gibt es immer bestimmte Trends mit Vor- und Nachteilen.
+Die, die da wahrscheinlich am Werk waren, die wollten eigentlich neue Technologie umsetzen.
+Vielleicht ist es so, dass in zehn Jahren ganz andere Maßstäbe gelten
+und diese Bedienoberfläche gar keine Rolle mehr spielt.
+Weil ich die nächsten drei oder vier Jahre schon im Auto alles mit einer Sprachsteuerung versehen kann
+und ich brauche gar keine Knöpfe mehr.
+So, das ist also die andere Denkweise.
+Das heißt, Sie haben eigentlich immer viele Möglichkeiten,
+die Frage ist nur, wie nimmt es der Konsulent oder der Verbraucher an
+oder in der Fertigung, wie übernehme ich die Bedienung einer Maschine.
+So, auch da geht es eigentlich im Kern darum, was brauche ich an der Maschine und was kriege ich zur Verfügung.
+So, die praktische Umsetzung von der Arbeitswissenschaft oder der Industrie,
+Industrial Engineering, das ist eigentlich immer so ein Thema, was ich gesagt habe, das schwankt in den Unternehmen.
+Die Unternehmen investieren mal mehr Geld und mal weniger Geld in das Industrial Engineering.
+Grundsätzlich kann ich sagen, aus Erfahrung heraus, sie kommen heute ohne die Daten aus dem Industrial Engineering
+in keinem Unternehmen aus, wenn sie die Produktivität verfolgen wollen.
+Sie brauchen das einfach für jegliche Anwendung, ob das SAP ist oder andere Anwendungen,
+Sie brauchen die Daten, damit Sie Planen, Steuern kontrollieren können.
+Das ist eigentlich der operative Bereich.
+Wenn man sagt, es besteht eine Fabrik, dann gibt es eine Ist-Situation.
+wenn ich sage
+die Fabrik arbeitet schlecht
+oder die Fabrik arbeitet gut
+dann muss ich einen Maßstab haben
+den Maßstab
+bekomme ich entweder
+indem dass ich
+IS-Daten im Unternehmen habe
+und IS
+vergleiche mit dem
+wo ich hinwillen soll
+das andere ist
+ich vergleiche mich mit anderen Unternehmen
+So, oder anderen Branchen. Ist es einfach möglich? In den meisten Fällen ist, wie sagt man, vieles möglich, weil im Prinzip, Sie können Daten von Mitbewerbern kommen,
+alle die in der Börse
+orientiert sind, die liefern
+sowieso alle Kennzahlen
+und die nicht
+in der Börse
+gelistet sind
+die Informationen
+kriegt man über Ratingagenturen
+oder andere
+die
+Unternehmen bewerten
+im Prinzip die einfachste Methode
+ist auch über die Hausbank
+Die Hausbank hat auch eigentlich fast alle Informationen, es sei denn, sie verzichten ganz auf eine Fremdfinanzierung, dass die Bank keinen Einblick hat.
+Dann hat sie wenig Informationen.
+Aber sobald sie eine bestimmte Unternehmensgröße erreichen, dann müssen sie grundsätzlich Informationen liefern.
+Das ist in dem Unternehmensregister, das bundesweit gültig hat und da steht ja, welcher Unternehmensgröße man welche Daten liefern muss.
+Das heißt, eigentlich kann ich immer Informationen finden, wie es mit meinem Unternehmen ausschaut im Vergleich zu anderen Unternehmen.
+So sagt aber noch nichts aus über die Innovationsfähigkeit. Das ist ein anderer Maßstab. Ob sie innovativ sind, umweltfreundlich, zukunftsfähig und andere Dinge, das steht in der Bilanz eigentlich nicht drin.
+Aber es heben die Unternehmen grundsätzlich mit einem Geschäftsbericht hervor.
+Also da muss man bei Geschäftsberichten studieren und dann auch vergleichen, was andere machen,
+so dass man an diese Informationen reinkommt.
+Das heißt im Grunde beim Industrial Engineering geht es einmal um die Gestaltung von Produkten,
+es geht um die Gestaltung von Abläufen, Gestaltung von Arbeitsplätzen
+und um die Datenermittlung, die ich brauche, um an den Unternehmen zu führen oder zu verbessern.
+Bei den Daten ist es so, dass die meisten Daten in der Zukunft eigentlich über die Prozesse kommen sollen.
+Das heißt, die Maschinen am Arbeitsplatz oder der Mitarbeiter am Arbeitsplatz
+wird laufend Informationen in Systeme liefern, die eine Steuerung oder Prozesssichtbarkeit ermöglichen.
+Das heißt, es ist ja eigentlich die Herausforderung der Zukunft, dass wir möglichst viele Daten auf den digitalen Weg bekommen.
+Die Kehrseite der Materie ist, wenn man jetzt an den Mitarbeiter denkt, der Mitarbeiter wird komplett transparent.
+Auch wenn man meint, es ist nicht transparent, wenn ich jetzt zur Firma Maho gehe,
+Die Firma Maho ist so organisiert, dass ein Projektverantwortlicher ein Bearbeitungszentrum von A bis Z betreut.
+Das heißt, er kriegt einen Projektauftrag und er arbeitet diesen Projektauftrag ab.
+Kontrolliert man das, auch digital?
+es ist nicht jeder
+Arbeitsschritt, sage ich mal
+transparent, aber er
+kriegt auf seinen Arbeitsplatz
+sogenannte Arbeitspakete
+so und die muss er
+abarbeiten, so es laufen
+bestimmte
+Operationen automatisch
+dann, die laufen
+beziehungsweise der Test läuft über Nacht
+oder in 24 Stunden
+oder 48 Stunden
+aber mit dem Rückmelden
+von jeder Operation, die
+erledigt ist und die
+Operationen sind
+verfinstert, habe ich
+im Prinzip Transparenz.
+Auch wenn jede
+Maschine vielleicht unterschiedlich
+konfiguriert ist.
+Ich gewinne über das Jahr
+hinweg laufend Daten,
+die mir einen Vergleich ermöglichen,
+wenn ein Mitarbeiter
+zum Beispiel besonders lang braucht.
+Dann ist die Frage, warum
+Und wo scheitert es? Oder wo arbeite ich schlechter?
+Oder warum sind bei der Frühschicht die Maschinen grundsätzlich schneller fertig wie in der Spätschicht?
+Das heißt, es gibt grundsätzlich eigentlich immer verschiedene Ursachen,
+warum wir Schwankungen haben in der Produktivität.
+Die Produktivitätsanalyse soll uns eigentlich die Ursachen dafür liefern,
+dass wir möglichst einen konstanten Prozess mit konstanter Qualität und Output haben.
+Das ist eigentlich das, was wir wollen.
+Oder die meisten wollen, manche.
+Damit wir das durchführen können, müssen wir natürlich Daten aufbauen.
+Das geht nicht von heute auf morgen.
+Derzeit gibt es noch viele Unternehmen, die eine manuelle Montage haben.
+Die Frage ist, wie ich in der manuellen Montage die ganzen Daten bekomme.
+Im Grunde brauche ich sie.
+Ich brauche für die Unternehmenssteuerung einen Materialstamm.
+Der Materialstamm besteht in SAP aus diversen Sichten, vom Verkauf bis Dispo-Sichten 3,
+dann Lagersichten und so weiter, aber diese Parameter muss ich alle füllen.
+Dann brauche ich einen Arbeitsplan, der Arbeitsplan ist systematisch aufgebaut über die Schritte,
+die ich erledigen muss.
+Kleine Unternehmen werden die Schritte größer gestalten, große Unternehmen, die detaillieren
+das bis ins kleinste Schritte. Dann habe ich eine Stückliste. Über diese drei Dinge, Materialstamm,
+Stückliste, Arbeitsplan, kann ich eine SAP Produktionsplanung gut füttern. Wenn ich das
+nicht habe, angenommen die Zeiten im Arbeitsplan sind falsch, was hat das für Konsequenzen?
+im prinzip haben wir eine arbeitsteilung das heißt es wird zu jeder stufe das material
+bereitgestellt so wenn der arbeitsplan stimmt dann sind die zeiten für den durchlauf falsch
+entweder bekomme ich das material viel zu früh oder ich komme es viel zu spät das sind die
+Konsequenzen daraus.
+Und im Prinzip
+ist es so, wenn ich sage, es
+pflegen die Daten
+die Mitarbeiter
+oder die Unternehmen unterschiedlich,
+dann ist es so, es ist
+eine Zeit, wo man viel Geld
+investiert, dass man aktuelle Daten
+hat. So, dann lässt man das wieder
+schleifen. Das ist nicht mehr so wichtig.
+So, wie
+lang das man schleifen lassen kann, ist
+abhängig von dem, wie sich
+wie sich das Produktportfolio des Eherstellers verändert oder wie sich der Maschinenpark verändert
+oder das Material, das wir in der Fertigung für Produkte benutzen.
+Also im Prinzip, wir haben verschiedene Einflussfaktoren, die es uns einfacher machen,
+Wir müssen wenig Datenermittlung betreiben müssen oder wir müssen viel Datenermittlung betreiben.
+Das nächste ist, wenn man sagt, der praktischen Umsetzung.
+Es kommt immer darauf an, wie viele Produkte, die ich in Serie herstelle.
+Und in Serie herstelle meine ich jetzt, wenn ein Schreiner einen Schrank herstellt,
+in Einzelfertigung. Dann braucht er einen Plan für das Material und den groben Richtwert, wie lange er
+zum Beispiel für Boden, für Deckel, für Seitenwände, für Innen- und Türen und Rückwände braucht.
+Ich sage immer so, ein guter Techniker, ein guter Schreiner, der macht nicht nur die technische Fertigkeit perfekt, sondern auch die kaufmännische.
+Er muss wissen, wie lange er für den Schrank braucht, weil er muss ja vorher angeboten haben.
+Das Angebot beim Schreiner ist das eine Thema.
+Weil er macht ja nur einen Schrank.
+Wenn er dreimal hintereinander einen Schrank macht für den Kunden und er hat dreimal Geld draufgelegt, weil er es falsch kalkuliert hat, dann kann man sagen, es ist Dummheit.
+Weil beim dritten Mal müsste es kapiert haben, dass irgendwas nicht stimmt,
+entweder seine Materialkalkulation oder seine Stundenkalkulation nicht.
+Bei einem Serienverdiener, so wie Bosch, oder auch bei mir in dem AMA-Konzern,
+wenn Sie 5000 Paar Ski pro Tag machen, dann spielt die Minute hinter dem Komma eine Rolle.
+Weil 5.000 mal 0,1 Minuten erzeugt eine große Abweichung.
+Das heißt, ein Unternehmen, das serienfertiger ist,
+das muss einen ganz anderen Aufwand reinstecken, damit es aktuelle Daten hat.
+So in der Kalkulation vom Material und auch im Arbeitsplan,
+damit diese Zeiten einen richtigen Kalkulationswert geben.
+Jetzt ist es so, dass in der Praxis jeden Tag Abweichungen sind.
+Entweder es fehlt Personal, es fehlt Material oder Sie haben Maschinenprobleme.
+Es gibt jeden Tag Abweichungen.
+Die Frage ist immer, wie gehe ich mit den Abweichungen dann um?
+Sind die Abweichungen toleriert oder müssen wir was ändern?
+Wirtschaftlichkeit und Rentabilität, da sprechen wir jetzt die Arbeitswissenschaft oder das Drittengineering direkt an.
+Die Datenermittlung in Unternehmen, die kostet Geld.
+So, deshalb wollen die Unternehmen möglichst wenig Daten über das In-Datum-Engineering ermitteln.
+So, heute haben sie, wenn ich jetzt das System nehme, heute und vor zehn Jahren.
+Vor zehn Jahren sind die meisten Daten manuell ermittelt worden, über Stoppuhr, Leistungsgradbeurteilung,
+so dass man die zeit hat wie lange ein prozess dauert die datenermittlung war das eine was
+zeitfrist die auswertung das heißt die datenermittlung hat ungefähr genauso lang
+gedauert wie die datenauswertung dass sie statistisch gesicherte werte haben warum
+brauchen die statistisch gesicherten Werte, weil die Mitarbeiter keine Toleranzen akzeptieren.
+Das heißt, sie müssen logisch nachvollziehen, wie eine Entlohnung zustande kommt und nicht
+wie man glaubt. Da sind die Grenzen sehr eng. Das heißt, vor zehn Jahren manuelle Datenermittlung,
+mit Stoppuhr und aufschreiben und anschließend auswerten.
+Heute hat man elektronische Datenerfassung, das heißt, man kann sie benutzen,
+das sind sogenannte Tablets, man leitet aus dem SAP den Arbeitsplan aus,
+dann hat man sämtliche Schritte drin und kann dann mit diesem Datensatz
+die Zeitaufnahme oder die Datenerfassung durchführen.
+Der nächste Schritt ist eben, dass das automatisch kommt, also dass ich nichts mehr tun muss, außer dann die Daten ins richtige Format bringen, sodass ich damit was anfangen kann.
+Das heißt, auch die Rentabilität nicht nur in der Fertigung oder in der Dienstleistung spielt eine Rolle, sondern auch in den administrativen Bereichen.
+dass ich nicht unheimlich viel Personalressourcen verschwende, nur damit ich weiß, ob das produktiv
+oder weniger produktiv läuft. Das ist eigentlich der Grund. Deshalb, das Industrial Engineering
+schaut, wo kann ich Kosten einsparen, wie werde ich effizienter. Aber es soll nicht sein, dass das
+Industrial Engineering dann
+die ganzen Kosteneinsparungen
+aufrüstet, dann haben wir
+nichts gewonnen. Da brauchen wir es auch nicht machen.
+Das ist auch der Grund, warum
+in
+vielen jungen Unternehmen
+nichts gemacht wird.
+Unternehmen,
+die nicht wissen, wo ihr
+Geld
+versickert,
+Das ist die größte Problematik.
+Wenn ich zurückgehe bei meinem Start vom Unternehmen,
+ich hatte Daten aus der Schweiz, wie die Daten jetzt zu dem Zeitpunkt waren.
+Ich wusste aber auch, wenn ich nichts verändere, dann werde ich kein Geld verdienen.
+weil der Konzern hat es abgegeben, weil damit kein Geld verdient wurde.
+So, das Hauptgeld ist nicht in der Fertigung verbraten worden, auch,
+sondern in der Konzernadministration. Indirekte Kosten von Personal, die unter Umständen überhaupt
+nichts mit dem Produkt zu tun haben,
+aber die Kosten wurden verrechnet.
+So, und das ist das, was
+ausmacht,
+wenn man schaut,
+wo versickert
+mein Geld?
+Das heißt,
+der Industrial Engineering
+Aufwand sollte nicht
+den Nutzen übersteigen.
+So, in mittelständischen
+Unternehmen, sagen wir mal,
+300, 400 Mitarbeiter. Wer macht das? Das ist keine Industrie-Ingenieurin.
+Wer ist da zuständig?
+Sie haben eine Fertigung mit 300 Mann.
+Sie müssen jeden Tag bezahlen.
+Am Ende soll was rauskommen.
+Wer kontrolliert die?
+Klar, im Normalfall der Arbeitsplaner.
+Der Arbeitsplaner setzt die Arbeitspläne auf.
+Die Arbeitspläne kann er aufsetzen, wenn er weiß, welche Produkte wir herstellen.
+Wenn er weiß, wie viele Produkte wir in einem Jahr verkaufen
+und wie viel Zeitaufwand in die Produkte rein fließt, dann kann ich alles kalkulieren. Dann
+weiß ich was ich an Personal brauche. Das heißt der Arbeitsplaner der muss die Ressourcen sorgfältig
+planen und Ressourcen sind in erster Linie Material, Personal, Maschine. Dass ich überall
+das Optimum habe, brauche ich nicht erwarten. Aber ich muss wissen, wo die Hauptkosten in
+meinem Laden sind. So wie bei mir. Bei mir sind Hauptkosten Material. Über 50 Prozent der
+Gesamtkosten sind Material. Das heißt, ich muss schauen, dass die Mitarbeiter sorgfältig mit dem
+Material umgehen. Ich muss wissen, was geht an Material rein, was haben wir Ausschuss, was ist
+Verschwendung, weil die Planung schlecht ist. Es gibt viele Ursachen für diese Abweichung.
+So, das heißt der Arbeitsplaner schaut nach, wie kann ich dementsprechend optimal planen.
+So, viele Arbeitsplaner haben auch eine Ausbildung, entweder eine Briefausbildung oder eine MTM-Ausbildung und können dann auch die Daten ermitteln.
+In der Praxis ist es natürlich sehr hilfreich, wenn der Arbeitsplaner auch praktisch mal draußen war.
+Also die Abläufe von A bis Z kennt in einem Unternehmen, dann ist es sehr hilfreich.
+Meistens ist es so, dass Arbeitsplaner irgendwann von der Fertigung ins Büro wechseln.
+Wenn einer da gut ist und die Abläufe in- und auswendig kennt, dann weiß er auch schon,
+wie er Arbeitspläne aufsetzt und wie er an die Daten kommt. Und er kennt seine Schlaumeier in
+der Fertigung, die große Klappe haben, aber keine Leistung bringen. So, das ist der Standard.
+So, das heißt in Summe, mit an das Training oder ohne, es muss sich in Summe alles rechnen. Das
+Das ist A und O.
+Wenn Sie das rechnen können, dann ist das okay.
+Das heißt, ohne Industrial Engineering sind die Verluste in der Regel in größeren oder mittelständischen Unternehmen größer.
+Mindestens 10% größer.
+So, deshalb schaut man, dass man das möglichst aktuell hält.
+So, das hängt auch damit zusammen, dass in Deutschland grundsätzlich die Arbeitsproduktivität auch gemessen wird und verglichen wird.
+Also auch hier haben wir Standarddaten, die gehen über Industrien.
+Verschiedene Industrien haben unterschiedliche Werte.
+Aber die Produktivitätsentwicklung kann man grundsätzlich über Deutschland drüber stülpen.
+Und das ist dann so eine Statistik wie die hier.
+So, die ist jetzt nicht sonderlich aktuell.
+Ich habe jetzt da Statistisches Bundesamt, preisbereinigte Arbeitsproduktivität.
+So, und im Prinzip ist es so, dass die Arbeitsproduktivität eigentlich bei steigenden Lohnkosten nie sinken darf.
+Tut sie aber immer wieder.
+So, Schuld ist, ich würde sagen jetzt nicht Schuld, sondern es gibt verschiedene Einflussfaktoren von Inflation,
+von internationalen Konflikten und Rohstoffproblemen.
+Es gibt viele Ursachen. Aber grundsätzlich ist es so, dass die Arbeitsproduktivität eigentlich nicht da ist, wo sich das die Führungsleute erträumt haben vor drei oder fünf Jahren.
+Das kann man sehen. Das heißt, in Summe steigen die Lohnstückkosten.
+Also ich spüre es, ich habe die Woche ein großes Meeting gehabt mit meinen Schlusssekunden.
+Ich werde verglichen mit dem, was ich in Deutschland mache, mit dem, was in China passiert.
+Das ist unheimlich schwierig wettbewerbsfähig zu sein.
+Das ist einfach Fakt.
+haben wir das aber in vielen Bereichen. Sie brauchen nur in der Automobil reinschauen.
+Im Moment ist es so, dass die Automobilindustrie in Deutschland grundsätzlich zu teuer ist.
+Also für mich wird sich die nächsten fünf Jahre herausstellen, wie viele Fabriken wir
+in Deutschland noch zusperren. Aber wir werden keine aufmachen. Andere Segmente haben wir
+wir schon verloren. Also es gibt unheimlich viel Energie hier reinzustecken, dass wir
+wieder wettbewerbsfähiger werden im Vergleich zu den letzten Jahren. Das ist einfach non plus ultra.
+Aber, sind wir so schlecht? Nein, wir sind nicht schlecht, sondern wir sind bequem geworden in dem Wohlstand, den wir haben.
+Darum sage ich auch immer, wer Produkte entwickelt, für die Bequemheit der Menschen, der wird
+immer Erfolg haben, weil die können Sie immer verkaufen.
+Alles, was die Bequemlichkeit eines Menschen fördert, hilft, Sie können das überall anschauen,
+den Produkten, die es im Markt gibt.
+So, deshalb
+nachdenken, was man
+so bekennt.
+So, das heißt,
+wir waren beeinflusst von
+grundsätzlichen Megatrends.
+So, ein Kernproblem
+ist die Alterung der Belegschaft.
+Aber warum
+ist das ein Kernproblem?
+Also das betrifft Gott sei Dank
+nicht nur in Deutschland, es ist ein Begriff auch in Japan, es ist ein Begriff in China, es ist ein Begriff in Indien, es ist ein Begriff in alle Regionen auf der Welt.
+Die Wirtschaft, die arbeitet, altert. So, ein Problem ist für uns die Digitalisierung. Warum ist die ein Problem?
+weil viele nicht mehr mitkommen
+und viele fühlen sich ausgeschlossen
+und viele schalten einfach ab
+das hören Sie
+darum sage ich auch, wir sind bequem geworden
+wenn ich schaue
+in vielen Bereichen
+wie viele Leute das mit 60
+oder vor 60 in Pension gehen
+da fehlen genau 5 Jahre
+für ihre Rente
+Das ist so. So fünf Jahre, die nicht einbezahlt worden sind. Das heißt in Summe, die demografische
+Entwicklung verursacht in den nächsten Jahren noch eine Menge Probleme. Aber es ist nicht nur Deutschland,
+Wenn ich jetzt in Schweden nehme, dann werden sie mit 55 schon ausgemustert.
+Das sind doch viele Extremer.
+Bei uns denkt man darüber nach, dass man mit 70 arbeiten soll.
+Ich sage immer so, man soll mit 70 noch ins System einbezahlen, aber man kriegt nichts mehr raus.
+Das ist für mich ein Unterschied.
+Viele können mit 70 körperlich nicht mehr arbeiten.
+Ja, aber das ist einfach nicht möglich.
+So, und darum ist es illusorisch, da immer allein da eine Schraube zu drehen.
+Und unsere Nachbarn in der EU, so wie die Franzosen, die gehen immer recht frühzeitig in Rente und mit vielen in Rente.
+So, das ist das demokratische Problem.
+Das heißt, auch der sinkende Bestand an Fachkräften.
+Sie finden in verschiedenen Fertigungsbereichen einfach keine Leute mehr.
+Das wird sich die nächsten Jahre noch beschleunigen.
+Das heißt, auch hier in der Arbeitswissenschaft muss man nachdenken,
+wie kann ich Arbeitsplätze in der Zukunft besetzen, wenn ich keine Fachkräfte mehr bekomme.
+Unternehmen ist
+grundsätzlich, man kann unterscheiden
+zwischen Unternehmen, die
+Hochtechnologie sind und
+dementsprechend auch Spezialisten brauchen
+und Unternehmen, die
+eigentlich in der
+Großseelenfertigung
+sind oder in der Massenfertigung
+die müssen überlegen, wie man
+einen Prozess möglichst einfach
+gestaltet und den
+Arbeitsplatz mit einfachen
+Also im Prinzip sind wir im Moment im Digitalzeitalter, aber bei den Arbeitskräften ist es so wie
+beim Henry Ford.
+Was hat der Henry Ford gemacht?
+Er hat eine Fabrik gebaut, die zehn Kilometer lang war und hat die Arbeitsschritte so zerkleinert,
+dass ich eine Arbeitskraft innerhalb eines Tages für die Tätigkeit erlernen kann.
+Somit habe ich einen Haufen Leute beschäftigt für wenig Geld und ich habe meine Produkte bekommen.
+Das heißt, in jeder Firma gibt es andere Philosophien über das, was man mit dem Personal und den Produkten erreichen sollte.
+So, dann die technischen Entwicklungen, die gehen jetzt im Moment mit der künftigen Intelligenz rasant voran.
+Das heißt, es gibt in den nächsten fünf Jahren Veränderungen, die konnten wir uns nicht vorstellen.
+Veränderungen in der Form, weil Wissen zur Verfügung steht aus der Vergangenheit, das wir jetzt unheimlich schnell erschließen können.
+Aber was uns der künstlichen Intelligenz nicht hilft, wenn wir alles nehmen, was in der Vergangenheit gut war,
+und wir verbessern das noch ein bisschen,
+dann kommen wir trotzdem nicht an Innovationen heran.
+Innovationen, das kann die künstliche Intelligenz nicht liefern,
+sondern die liefert nur Ergebnisse aus der Vergangenheit.
+Deshalb ist es wichtig, dass man Leute ausbildet,
+dass man die künstliche Intelligenz nutzt,
+Aber nicht, dass man das als Nonplusultra betrachtet.
+Also für mich ist auch gesagt, dass sich die nächsten fünf Jahre enorm verändern.
+Jetzt kann man auch die nächsten fünf Jahre ins Gegenteil passieren.
+Es kann zum Crash kommen.
+Weil die Unternehmen, die uns das liefern, die machen solche hohen Versprechungen.
+Und die Börsen können so explodieren und dann ist die Frage, wenn es irgendwann mal knallt.
+So, Wissen und Informationsgesellschaft. Wir kommen auch an viele Informationen und Wissen
+dran, das vor zehn Jahren nicht möglich gewesen wäre. Möglich schon, aber mit viel Aufwand.
+haben. Das heißt, die Informationen stehen uns viel schneller zur Verfügung. Ich kann konzentriert
+antworten. Das ist so, wie wenn Sie Google benutzen und die künstliche Intelligenz. Google liefert Ihnen
+ein Moorloch und die künstliche Intelligenz, wenn Sie fragen zu gezielten Themen, dann kriegen Sie
+auch gezielte Antworten.
+So, das heißt, die
+Wissensgesellschaft, die wird sich
+das zu Nutze machen
+und die gesamte Gesellschaft
+wird verändert.
+Die Frage ist nur,
+kommen wir in 10 Jahren ohne
+so ein Gerät überhaupt nicht mehr
+raus? Können wir überhaupt noch
+ohne das Ding leben?
+Das ist die andere
+Frage.
+So, der weitere Punkt ist
+in Nachhaltigkeit
+das ist ja groß diskutiert
+auch
+in den großen Unternehmen
+aber
+wenn man schaut
+energieeffizient
+das war jetzt die letzten
+5 Jahre ein großes Thema
+weil die Energie unheimlich teuer
+ist
+so
+wirklich nachhaltig hat darüber
+davor niemand nachgedacht
+Strom kann man aus der Stiftung senden.
+Das war einfach generell so.
+Wenn das Produkt, das man benutzt, viel Geld kostet, dann denkt man darüber nach, wie man möglichst wenig einsetzt.
+Wenn ich Sie hier in meinem Laden beschäftigen würde, dann würde ich wahrscheinlich pleite gehen,
+weil Sie hier andere Anforderungen haben.
+vom Gehalt und so ist es mit der Energie, so ist es mit den Rohstoffen, es ist überall so.
+So Frauen, was sagen wir zu den Frauen? Was sagen die Frauen? Die fühlen sich ja die letzten Tage
+so angegriffen, vom Merz.
+So, haben Sie recht?
+Oder hat der Merz recht?
+Ich weiß es nicht.
+Im Prinzip blende ich
+im Moment die Dinge aus.
+Weil
+irgendwo
+gibt es auf jeder
+Seite Argumente,
+die es
+nicht vereinfachen. Das ist auch
+die ganze Diskussion,
+wenn man viele Argumente hat, man muss zu einem Nutzen finden.
+Ich sage grundsätzlich, der Staat hat in den letzten zehn Jahren unheimlich viel für die Bevölkerung geregelt.
+So, und ich sehe es heute so, dass der Staat nicht mehr in der Lage ist, in der Zukunft die Dinge zu gestalten, sondern der Mensch muss wieder selber kreativ werden.
+Wie das aussieht, keine Ahnung.
+So, gesellschaftliche Entwicklung ist ein weiteres Thema.
+So, was ist Wert?
+So, wenn ich hier reinschaue, was ist für Sie wertvoll?
+Wofür geben Sie Geld aus?
+So, wenn man junge Menschen in Berlin befragt, dann sagen sie, ich brauche kein Auto.
+weil der Nutzen ist
+wenig
+und die Kosten sind
+jeden Monat tot
+so auf dem Land haben sie wieder ein anderes
+Regierungen
+so drum ist ja die
+Philosophie vom Land
+und Stadtpolitik grundsätzlich
+zweifelnd
+aber
+man muss wie
+überall einen Nenner finden
+und in der Demokratie ist es
+unheimlich schwierig geworden, einen Konsens zu finden, dass uns das insgesamt weiterbringt und dass wir uns nicht
+gegenseitig nur blockieren und aufreimen. Es liegt auch daran, dass viele, wie soll ich sagen, keine Toleranzen haben.
+Sie akzeptieren nur ihre Meinung und das ist schwierig.
+Es ist auch in den Unternehmen, also gerade in dem Industrial Engineering, da brauchen Sie smarte Leute,
+die es mit der Produktion können, die es mit dem Marketing können und dem Vertrieb und, und, und.
+Sie sind in dem Industrial Engineering an einer Schnittstelle, wo Sie mit allen Bereichen zusammenarbeiten müssen,
+damit sie die Informationen bekommen, damit es in Summe produktivere, bessere wird.
+Das andere ist die menschliche Seite, die Humanität, Humanorientierung.
+Ich kann nicht sagen, in der Vergangenheit hat die letzten zehn Jahre die Humanorientierung nicht interessiert,
+sondern es hat nur die Profit-Seite organisiert oder interessiert.
+Und die Unternehmen haben alles getan, damit sie wachsen.
+Sie haben ihr Wissen verkauft, sie haben ihr Know-how verkauft
+und sie haben die Unternehmen verkauft.
+Das bringt uns jetzt im Moment in eine gefährliche Abhängigkeit.
+Das heißt, wir müssen wieder bestimmte Dinge ins Gleichgewicht bringen, damit es wieder funktioniert.
+Aber wenn wir an den Menschen in der Fabrik schauen, dann geht es in erster Linie darum, dass seine Arbeit ausführbar ist und schädigungslos.
+Also heute gibt es wenige Menschen, die mit ihrer Ausbildung, die sie am Beginn gemacht haben, bis zur Rente durchgekommen sind.
+Also jetzt derzeit gibt es noch Personen, die waren 45 Jahre im gleichen Unternehmen beschäftigt.
+Da hatten sie, sage ich mal, grundsätzlich Glück, dass sie im gleichen Unternehmen über 45 Jahre drin waren.
+Weil es gibt wenige Unternehmen, die 45 Jahre überstehen.
+So, das andere ist, es ist nicht unbedingt gut, wenn ich 45 Jahre im gleichen Unternehmen bleibe.
+weil dann bin ich in einer Schiene eingefahren
+so, früher
+wer kennt die
+Quelle noch
+Arkandor Konzern
+so wie die Quelle in Nürnberg und Fürth
+bleibten, da waren tausende
+Menschen arbeitslos
+die waren alle schlecht
+vermittelbar, weil sie nur bei der
+Quelle gearbeitet haben
+Das heißt im Prinzip, ich muss schauen, dass ich möglichst eine Arbeit finde, die ausführbar ist, also nicht meine Eigenschaften einschränkt, dass sie schädigungslos ist.
+So, da sind wir schon beim zweiten Kriterium.
+Interessiert es die Unternehmen, ob sie schädigungslos sind?
+Manche ja, manche weder. Im Prinzip derzeit interessiert sich das Unternehmen sehr wohl,
+weil das Nachfrage-Gleichgewicht derzeit nicht im Balance ist. Wenn es mehr Arbeitnehmer gibt,
+wie ist Jobangebote, dann interessiert das Zweite niemand.
+Wenn es weniger Arbeitnehmer gibt, die die Stellen versetzen können,
+dann interessiert das sehr wohl.
+Weil dann schauen die Unternehmen, wie kann ich denn an Personal kommen.
+So, schädigungslos hängt von vielen Faktoren ab.
+Also einmal von der Arbeit als Grundsätzliches, wenn ich an einer Baustelle arbeite, ist es etwas anderes, als wenn ich im Büro sitze.
+Aber auch die Büroarbeit kann insgesamt schädlich sein, wenn ich die ganze Zeit vor der Kiste sitze und in der Kiste arbeite,
+meine Augen leiden, meine Muskulatur leidet, weil sie nur einseitig beansprucht wird.
+So, und bei dem, der auf dem Bau arbeitet, das Fliesenleger zum Beispiel, der hat andere Probleme, weil seine Knie sind nach 20 Jahren kaputt.
+Weil die Fliesen legen sich ja nicht am Gewand, an der Augenhöhe, sondern sie müssen den Boden machen und viele unangenehme Dinge.
+So, Beeinträchtigungsfreiheit, diese zwei Punkte, die brauche ich, damit ich die Leistung der Mitarbeiter oder der Menschheit überhaupt erhalten kann.
+So, das andere sind Einflussfaktoren auf die Produktivität.
+Also wenn ich darauf schaue, dass der Mitarbeiter Weiterbildungen kriegt und seine Persönlichkeit gefördert wird,
+dann steigt die Produktivität, wenn das in seinem Interesse ist.
+Das heißt, es muss auch beeinträchtigungsfrei und zumutbar sein.
+Wann ist es nicht zumutbar?
+Da können wir jetzt wieder drüber streiten.
+Letzten Monat waren es in der süddeutschen Paradigme über einen Mann aus den ostlichen Bundesländern,
+der bezieht vom Staat seit 20 Jahren Geld.
+hat eine gute Ausbildung,
+lebt aber jeden Job ab.
+Die Arbeitsvermittlung hat ihn aufgegeben.
+So, das heißt,
+zumutbar.
+Er findet keinen Job,
+der für ihn passt.
+So, er findet sich auch,
+also es ist nicht so,
+dass er asozial gewirkt hat oder so, ganz normal, das ist gut gekleidet, wohnt im normalen Standard, aber er braucht jetzt auch ein bisschen Geld vom Staat.
+Das heißt, die Zumutbarkeit hängt auch davon ab, was ist an Geld da.
+So, wenn wir, so wie in der Diskussion in der Politik, in der Politik wird ja sehr zeitgefordert, dass mehr zugemutet werden kann, um einen Job anzunehmen.
+Die Frage ist umgekehrt, für die, die arbeiten, wie viel wollen sie bezahlen, für die, die nicht arbeiten?
+Weil das Arbeitslosengeld wird ja finanziert von der arbeitenden Bevölkerung.
+Wenn man jetzt das Gleichgewicht anschaut, worum die AfD so einen Zulauf hat, dann ist es genau solche Argumente.
+Das heißt, wir müssen selber schauen, dass das einigermaßen in der Demokratie ein Gleichgewicht ist.
+So und gefühlt von der Mehrheit der Menschen, dann haben wir auch kein Problem, das ist alles gut.
+So das heißt, in Summe können Sie ja ein Unternehmen viel gestalten, es gibt wirklich viele gute Unternehmen in Deutschland, die gut geführt sind und gute Produkte machen.
+Aber die schauen auch auf das ganzheitliche im Unternehmen.
+Die schauen nicht nur, dass unter dem Strich der Covid stimmt, sondern es gibt eine Menge Einflussfaktoren, wobei immer alle von unten kommen.
+Die Zeit, die die Mitarbeiter einsetzen für die Fertigung der Produkte.
+Die Kosten, Material, Maschinen, auch Mitarbeiter.
+Die Qualität, die wir erzeugen, spielt eine große Rolle.
+Und die wirtschaftliche Umwelt.
+Die wirtschaftliche Umwelt ist die Variabilität.
+und die habe ich als Unternehmen
+auch in der Hand
+in dem, dass ich
+nicht mit jedem Aufwand
+jeden Kundenwunsch erfülle
+wenn man 20 Jahre
+zurückgeht
+dann war Maho allein
+und es gab als Mitbewerber Deckel
+in München
+warum gibt es heute beide nicht mehr
+nicht mehr in der Form
+Der Maho ist in der Hildemeistergruppe auf dem Gang und gehört jetzt den Japanern, dem Mori-Konzern.
+So, mit den Japanern haben sie sich am Anfang bei Maho nicht verstanden, inzwischen verstehen sie sich ganz gut.
+Japaner sind Perfektionisten in der Qualität.
+So, und das kommt Maho insgesamt zugute.
+So, aber was spreche ich mit der Variabilität an? Deckel und Marmor sind beide pleite gegangen,
+weil sie jeden Kundenwunsch erfüllt haben. Und das zu so viel Mehraufwand geführt hat,
+sich unterstrichlich berechnet. So, was hat Maho verändert? Im Prinzip, Sie schauen, dass Sie auch die Kundenwünsche
+erfüllen können, aber Sie haben einen sogenannten Modulbaukasten, so wie bei VW auch ein Modulbaukasten existiert,
+eingeführt, der bestimmte Bereiche Standards ermöglicht,
+ohne dass ich jeden Kundenwunsch in der Fertigung setze.
+Das heißt, in Summe beim Industrial Engineering,
+es geht um die Prozessgestaltung, es geht um die Arbeitsplatz- und die Arbeitssystemgestaltung
+und um die ganzen Datenermittlungen, damit wir produzieren können.
+Das heißt, eine Produktionskontrolle ist möglich dann, wenn ich die Produktivität plane.
+So, dann dementsprechende Zielgrößen festlege und dann soll ich das Vergleiche durchführen.
+Dann habe ich eine Kontrolle.
+nützt nur damals
+wenn die Daten immer aktuell sind
+und ich auch diese Vergleiche
+möglichst
+in den Wochen
+durchführen kann
+dass ich schaue
+wie viele Minuten haben wir
+in der Fertigung verbraten
+für die Produkte
+im Ist und im Soll
+So, wenn wir das Thema auf die Wirtschaftlichkeit zurückführen, dann ist es so, dass wir im Unternehmen alles über Kennzahlen messen können.
+Die Frage ist, welche Kennzahlen brauche ich und welche brauche ich nicht.
+So, das muss man herausfinden.
+Ich war ja mal in dem SAP-Geschäft tätig und da kommen Sie zu verschiedenen Kunden.
+SAP bedeutet eine Software im Unternehmen einzuführen. Die meisten Unternehmen haben ja alte Software.
+So, dann müssen Sie als Berater überlegen, was von der alten Software in die neue Software soll
+und was in SAP anders ist und wie man vielleicht zu anderen Informationen kommt, wie im alten System.
+Die Mitarbeiter sind ja grundsätzlich so, das alte war gut und das neue ist schlecht.
+Ich hatte in einem Unternehmen, da ging es auch in der Produktion, Produktionsplanung grundsätzlich und Einkauf und dann die ganzen Kennzahlen.
+So, die hatten in dem alten EDV-System einen Haufen Reports.
+So, dann habe ich gesagt, wir haben jeden Report angeschaut,
+dann habe ich gesagt, wenn wir das im 1 zu 1 im SAP umsetzen, dann kostet das 150.000 Euro.
+Weil hier verschiedene Schnittstellen einfach programmiert sind.
+So, dann gibt es die Geschäftsleitung hoch und dann haben sie lange nichts mehr gehört.
+So, und ich habe gesagt, das sind die Mitarbeitenden, ich mache nichts, so lange ist es okay für die 150.000 Euro.
+Das kam nicht.
+So, nach zwei Monaten haben wir wieder so ein Meilenstein-Meeting gehabt.
+Dann habe ich gesagt, was braucht ihr denn jetzt von euren Reports für 150.000 Euro?
+Dann haben wir die ganzen Reports rausgezogen und 75% von den Reports kannten die meisten Mitarbeiter nicht.
+10% weitere, die haben sie nie angeschaut, so in Summe sind 5 oder 10 Reports übrig geblieben, wo man sagt, das hat Sinn gemacht, dass man das an das neue System verpasst.
+Weil im Prinzip, ich kann jede Menge Daten auswählen.
+Die Frage ist, verbessere ich mit den Daten was oder kontrolliere ich die Produktivität,
+dass wir besser werden. Wenn ich das nicht mache, dann brauche ich auch die Kennzahlen nicht.
+Im Prinzip, die Kennzahlen werden beeinflusst von den Menschen, von der menschlichen Arbeitszeit,
+das heißt, wie der Arbeitsplatz gestaltet ist und wie ich meine Arbeit erledigen kann.
+Von der Qualifikation, die sie mitbringen und von der Sicherheit und dem Arbeitsschutz,
+der an der Maschine oder an dem Arbeitsplatz vorrutscht.
+So, des Weiteren beeinflusst das Ganze die Technik. Maschine und Mensch. Wir haben in den meisten Fällen ein Arbeitssystem, das aus Mensch und Maschine besteht. Es gibt sehr wenige, die nur aus Maschinen bestehen oder nur aus Menschen.
+Das heißt, sie haben keine technische Unterstützung. Das ist vielleicht in manchen Pflegebereichen so.
+Selbst da ist es schon fragwürdig, ob ich die Pflege machen kann. Brauche ich ein Auto und so.
+So andere Dinge. Technik ist auch beeinflusst vom Datenschutz.
+So, da können wir jetzt auch drunter diskutieren, was Datenschutz bedeutet.
+So, Datenschutz in den USA ist etwas anderes als in Europa und in Asien.
+In den USA hat der Vorgänger von Trump Reglements, ähnlich wie in der EU, auf den Weg gebracht zu Datenschutz und Datensicherheit.
+Der Trump ist höriger auf die Megakonzerne, weil er da mit drinsteckt und hat alle Gesetze, die der Biden gemacht hat, in die Bühne gegeben.
+Das heißt, die, die wirklich das große Geld verdienen, wie Microsoft oder Google oder Alphabet-Konzern oder Amazon, ist egal wie.
+Die werden im Moment nur noch mehr gefüttert.
+Und die Jobs, die entstehen durch solche Konzerne, die werden immer prekärer.
+Wer weiß, wie viel Amazon für einen Händler verlangt, wenn er über Amazon seine Produkte verkauft?
+Bei Amazon bleiben von den Produkten mehr als 30% hängen.
+Darum sage ich normalerweise, du dürftest bei Amazon nichts kaufen.
+Es beherrschen nur wenige.
+Vernetzung und Automatisierung, das ist Vernetzung nach außen hin.
+Das hat in den letzten Jahren nur einen kleinen Schub genommen.
+Vernetzung bis zur Maschine, das ist sehr, sehr schwer.
+Weil auch viele Unternehmen Bedenken haben, wenn sie verletzt sind, dass sie dann auch lahmgelegt werden können.
+Weil, wie sagt man, die Leute sind erfinderisch, indem sie ihnen einen Schaden zufügen können.
+Auch wenn einer noch so sagt, dass er sicher ist, sicher ist nichts.
+So, und dann ist es noch eine Frage der Organisation, wie das Unternehmen organisiert ist, wie ich
+die Organisation von der Aufbaustruktur gestalte und von dem Ablauf, wie die Produkte hergestellt
+werden.
+Das heißt, wir können den Prozess gestalten, wir können die Organisation, die Hierarchien
+gestalten. Und die Produktivität und die Führungs- und Unternehmenskultur. Und da können
+Sie in der Kultur reinschauen, welche das gut sind und welche das schlecht sind. Grundsätzlich
+kann man sagen, ein Unternehmer wie der Herr Schulz von Magnetschulz, der denkt langfristig.
+Er denkt, 10 Jahre, 20 Jahre.
+Sein Vater hat das Unternehmen aufgebaut, in die Brüssel geführt, wie es heute ist.
+Er ist regional verwurzelt und er wird alles tun, damit er den Status behält.
+Das ist ein Hörsaal, der reichlich benannt ist.
+Das heißt, es ist eine Persönlichkeit.
+Familienunternehmen denken anders, wie in börsenorientierten Unternehmen.
+Weil an der Börse regieren die Manager und die Manager, die verkaufen, wie viel viel Geld.
+So, und Kleinunternehmen sind in der Regel auch regelmäßig verwurzelt.
+Im Grunde können wir es ganz einfach auf eine Formel bringen, die Produktivität ist die Leistung durch den Einsatz.
+So, und die Produktivität können wir in verschiedenen Kennzeichen machen, so wie Gesamtproduktivität.
+Das ist das, was wir ins Unternehmen reinstecken und was wir in Summe für die Produkte, die
+wir verkaufen, erlösen können.
+Die Arbeitsproduktivität ist das, was das Mitarbeiterkapital ist.
+Wie produktiv kann ich die einsetzen?
+Die Arbeitsproduktivität ist unterschiedlich, je nachdem die Branche.
+Also bei einem Autozulieferer ist die Arbeitsproduktivität eine andere, wie in dem VW-Konzern selber.
+Betriebsmittelproduktivität oder OEE kennt sich für Anlagen Gesamtrentabilität.
+Das ist immer das Frage, was interessiert.
+So, und Materialproduktivität ist das, was ich so in die Fertigung reingebe und was am Ende verkaufen kann.
+So, Energie ist in den letzten Jahren ein Thema geworden und der Informationsaufwand wird in den nächsten Jahren ein Thema.
+Weil die Information auch zu bauen kostet, nach wie vor viel Geld.
+Wenn man auch künstliche Intelligenz nimmt, wenn die Unternehmen, die die künstliche Intelligenz betreiben, die Ressourcen bezahlen müssen, die sie verschwenden, dann gäbe es heute keine künstliche Intelligenz.
+Weil ihre Rechenzentren brauchen so viel Wasser und so viel Energie, damit sie sie betreiben können, die die Allgemeinheit bezahlt, aber nicht die Unternehmen, die sie nutzen.
+Gut, das heißt, wir haben derzeit einen Wandel von Big Data, so Big Data bedeutet eigentlich
+Vernetzung weltweit über alle Unternehmen hinweg.
+So, wir haben einen Arbeitsplatz in der Arbeitssystemgestaltung.
+Wir haben das Thema der Cloud, was in den letzten Jahren viele Unternehmen noch gescheut haben.
+Aber mehr und mehr gehen über die Cloud.
+So, dann haben wir ein ganzheitliches Unternehmensnetzwerk.
+Was bedeutet das?
+Dass wir nicht mehrere Standorte haben als Unternehmen,
+so wie ich war vor zweitausend Jahren bei Talfinger in Österreich,
+12.000 Mitarbeiter weltweit, in allen Globus-Abteilen ansässig.
+So, dann muss man schauen, wie man die Daten zusammenfügt.
+So, wie Leistungsstandards gemessen werden.
+So, bei VW gab es ja auch mal irgendwann mal einen Prozess,
+weil sie ihre Mitarbeiter in Brasilien schlechter bezahlen wie die Mitarbeiter in Wolfsburg.
+So, und der Konzern hat die Thematik.
+Weil die Leute spüren überall rum, tauschen Informationen aus und somit, wie sagt man, auf dem elektronischen Weg geht es nur viel schneller.
+So, das heißt, wir bauen auch gesamte Unternehmensnetzwerke auf.
+So, Kürbner getragene Arbeitsgeräte, für was braucht man sowas?
+Im Prinzip, damit man die dynamische Muskelarbeit erleichtert.
+Das heißt, keine schweren Lasten mehr über das Skelett trägt und so weiter.
+Die anderen Dinge sind ja eigentlich weitgehend.
+Sensoren und Aktoren, was ist das für ein Thema?
+Was bedeuten Sensoren und Aktoren?
+Im Prinzip, wenn Sie in der Zukunft Daten automatisch erfassen können, dann müssen
+Sie Sensoren und Aktoren in allen Schnittstellen anbringen, damit Sie Daten erfassen können.
+Das heißt, alte Maschinen ist nichts mit einfach herausschmeißen und neu kaufen, weil die das, was sie brauchen, haben, sondern im Prinzip Investments zu klagen.
+Das heißt, sie schmeißen nicht einfach Maschinen raus, sondern sie müssen eher schauen, wie kann ich die Maschinen, die Abläufe digitalisieren,
+indem man sich an bestehenden Maschinenpartnern auch ausrichtet.
+Dort gibt es auch findige Unternehmen, die hier viel leisten.
+sondern Regens ist eines, das unheimlich viel unternimmt, dass man bestehenden Maschinenpark digitalisieren kann.
+So, zum Schluss vielleicht noch, die Frage ist immer, wie gestalte ich was?
+Egal welches Problem.
+Grundsätzlich haben wir den meisten in der Ausgangssituation.
+Im Ist-Zustand.
+Oder wir haben nichts.
+Das ist auch so.
+Und wir wollen wohin.
+Wir müssen Ziele festlegen.
+Wenn ich ein neues Produkt entwickle und sage, ich will das Produkt herstellen,
+dann brauche ich für das Ziel des Herstellens eine Angabe, zu welchem Preis ich welche Menge verkaufen will.
+Das heißt, Ziel festlegen bedeutet Menge, Kosten, Qualität.
+Zeit, Kosten, Qualität, dieser magische Streik.
+und jede Seite, wenn sie optimierend beeinflusst, die andere Seite.
+Man muss einen Lösungsweg finden.
+Groblösungen entwerfen heißt nichts anderes,
+als wenn ich eine Aufgabe stelle, dann habe ich hier 20 Lösungen.
+Jeder wird das Problem anders angehen.
+Vielleicht manche gleich, aber grundsätzlich ist es so, in einem Unternehmen müssen Sie unterschiedliche Personen fragen zu einem bestimmten Problem.
+Und dann kriegen Sie von diesen Personen drei oder fünf Vorschläge, je nachdem wie die Teamarbeit organisiert ist und wie die Ergebnisse herauskommen.
+So, und aus verschiedenen Ergebnissen von Teams können Sie dann eine Vorzugslösung definieren und die Vorzugslösung dann ausarbeiten und realisieren.
+Und dann am Ende schauen, haben wir unser Ziel erreicht.
+Das heißt, eine Planungssystematik mit diesen Schritten ist eigentlich von der Herangehensweise simpel und einfach.
+Aber wenn Sie das anwenden, dann nageln Sie alle fest, die mit dem Projekt vertraut sind.
+Dann werden Sie die richtigen Fakten am Anfang abfragen.
+So, abfragen heißt, wenn ein Verkaufsleiter sagt, wir entwickeln ein neues Produkt und können da 500.000 Einheiten verkaufen,
+sie richten einen Maschinenpark ein, stellen Personal ein und er verkauft dann nur 100.000, dann haben wir ein Big Burger.
+So, wenn Sie das aber nicht schriftlich haben, dann sagt der Verkaufsmensch, oh, wie gesagt,
+es ist möglich unter den und den und den Umständen. Und geschickte Verkäufer,
+die haben immer Ausreden. So, deshalb Ausgangssituation, wo sehen wir und wo wollen
+Und dann können wir dementsprechend operieren.
+Das heißt, Sie haben da einfach verschiedene Schritte drin, ob Sie das System oder ein anderes System nutzen.
+Es liegt bei denen, die die Arbeit gestalten oder die die Arbeit machen.
+Oder es liegt an Standardtools, die in einem Unternehmen auch verwendet werden.
+werden. Große Konzerne haben Standardtools, die das ganze auf Schiene bringen, so dass man unter Umständen auch vergleichen kann, wenn man eine Produktion in Deutschland aufbilden will und eine in Südamerika und eine in Asien.
+So, dann müssen Sie hier einen Rahmen vorgeben, damit Sie am Ende wissen, so baue ich jetzt meine Produktion in Deutschland auf oder in Südamerika oder China.
+Das heißt, es gibt einen Input, der dann standardisiert ist und eine bestimmte Vorgehensweise hat.
+Gut, künstliche Intelligenz als Chance für die Wirtschaft und Arbeitsgestaltung.
+Wenn man den Philosophen zuhört, dann sagen die, das ist das Ende der Menschheit.
+Weil wir im Gesamten von der Maschine abwachsen.
+In verschiedenen Bereichen wird es so sein, dass die Maschine in vergleichbarer Zeit schlauer ist als der Mensch.
+Aber die Frage ist, wie man das Ganze regelt.
+Darum sagen manche Philosophen, das ist das Ende.
+Wenn ich hier die Professoren habe, an der Hochschule in Kempten oder sonst wo, dann sagen sie, wenn sie die KI nicht nutzen, dann werden sie untergehen.
+So, die Frage ist, brauchen wir sie oder brauchen wir sie nicht?
+So, das muss jeder selber für sich ausmachen.
+Im Prinzip, es wird sich vieles ändern, vieles wird zum Vorteil sein und es wird auch Nachteile geben.
+Man braucht nicht schwarz oder weiß malen.
+Ich sage immer so, wenn der Habeck nicht schwarz oder weiß gemalt hätte, dann wäre er heute noch in der Politik.
+Aber er hat zu stark, er hat Kompromisse eingehen müssen, das ist das, was man in Unternehmen auch macht.
+Er hat Kompromisse tolerieren müssen, die vielleicht nicht in seinem Sinn waren.
+Oder nicht in der Grüne Partei oder wie auch immer.
+Es gibt nicht nur Schwarz und Weiß.
+Sondern es gibt immer das Thema, wo finde ich die Grafiken in meiner Lösung.
+So, KI-Anwendungen, die Unternehmen, die experimentieren derzeit sehr viel mit den KI-Anwendungen.
+Die Frage ist einfach, wenn ich eine KI nutze, wo ich die Daten speichere,
+Im Moment werden in Europa Server aufgebaut, wo ich die Daten in Europa lasse.
+Große Konzerne, die machen ihre eigenen Systeme und füttern die auch nur mit ihrem Wissen.
+Das hilft auch in verschiedenen Bereichen.
+Im Prinzip gibt es viele Themen, wo man diese künstliche Intelligenz einsetzt.
+Sie können selber darüber nachdenken, wo man sie überall nutzt und ob es vorteilhaft ist oder nachhaltig.
+In vielen Unternehmen ist es so, wenn Sie heute anrufen, haben Sie niemand mehr in der Leitung.
+Das ist eigentlich nicht der Weg, wo es hingehen sollte, sondern man muss dann schauen, wie
+man das gezielt regelt.
+Ich höre immer wieder von Unternehmen, die gut sind, dass das Sekretariat oder die Rezeption oder der Empfang am Telefon
+das Wichtigste überhaupt für Unternehmen ist.
+Weil wenn Sie eine kompetente Person haben, die charismatisch ist, dann haben Sie schon viel gewonnen auf der anderen Seite.
+Und wenn Sie nur abwürgen, ich hatte heute in einem Institut angerufen, es war da draußen, es ist Ende, ich wollte von denen was, ich wollte einen UV-Test von denen, die kriegen den nicht.
+weil die Behandlung am Telefon
+das hat mir schon ausgereicht
+sondern das sind Bürokraten
+ich bezahle für den Test
+so muss ich es sehen
+also erwarte ich eine Dienstleistung
+und Dienstleistung heißt Dienst an den Kunden
+und das verstehen manche nicht
+Deshalb muss man schauen, wie ist die Problemstellung, wo wird die KI eingesetzt und wie schauen Lösungen aus.
+Es gibt durchaus viele gute Lösungen.
+Wenn ich in die Medizintechnik schaue, dann ist es so, dass man heute sagt, dass man Radiologie eigentlich nicht mehr studieren muss,
+Der Computer mit der künstlichen Intelligenz kann viele Röntgenbilder viel schneller vergleichen
+und Lösungen finden für das Krankheitsproblem, als der Mensch jemals in seiner Lebensarbeitszeit anschauen kann.
+Das heißt, es gibt durchaus jede Menge Positives.
+Man muss nicht negativ sein.
+So, der KI im Unternehmen ist noch ein anderes Thema.
+Meinung von Experten, Beratern und Verbänden.
+Muss man schauen, was das Ganze bringt.
+Wenn Sie in die standardisierten Abläufe reingehen,
+sondern so wie in der Buchhaltung.
+Vor zehn Jahren habe ich zwar auch schon in Tatech die Belege hochgeladen,
+so und der Steuerberater hat sie dann auf diese Konten verbucht und gesplittet und so weiter.
+Heute ist es so, dass 95% der Belege automatisch verbucht werden.
+das heißt
+Sie sehen es schon in der Maske
+was das System erkennt
+wenn er einen Rechnungsbetrag
+nicht erkennt, weil die Rechnung
+schlecht gescannt ist oder wie auch immer
+oder er sie vielleicht
+nur einmal hat
+bei allen wiederkehrenden Dingen
+erkennt das System automatisch
+was da vor sich geht
+das ist
+sag ich mal gut
+Was ich da für schlecht finde, sind die Steuerberatungskosten deswegen gesunken?
+Nein, stimmt.
+Darum kann man darüber streiten, macht es Sinn oder macht es keinen Sinn.
+Ich sage mal, grundsätzlich macht es Sinn, weil es die Fehlerquote von falschen Kondierungen oder Buchungen reduziert.
+Heißt aber nicht, dass man nicht trotzdem drauf schauen muss, was da abläuft und hintergeht.
+Bei KI-Angeboten ist auf eine niedrige Eingriffsschwelle zu achten.
+Was heißt das?
+Im Prinzip, ich brauche wenig Hürden, damit ich die KI nutzen kann.
+Also nicht ein riesen Softwareaufwand, ein riesen Beratungsaufwand, sondern es muss einfach gehen.
+So, abschließend Finanziermöglichkeit und Finanzierbarkeit, das ist ein nächstes Thema.
+Große Unternehmen tun sich wie immer in den Punkten einfach leichter.
+Es ist aber auch das, was in der Vergangenheit gefördert wurde,
+dass die großen Unternehmen immer größer werden und die kleinen alle ausgehen.
+Also das ist ein Trend, der nicht unbedingt gesund ist.
+Wenn man jetzt zum Beispiel schaut in der Landwirtschaft, da finden Sie keine Leute mehr, die ihren Bauernhof betreiben und gleichzeitig sagt,
+Freistaat Bayern, es sind mindestens noch 40% Bauernhöfe zu viel.
+Die sagen es, weil die kleinteilig sind und dementsprechend Förderungen oder Kosten verursachen.
+Was in Argentinien ein Linderbauer auf 1000 Hektar macht, macht einer hier auf 10.
+Das heißt, die Möglichkeiten sind beschränkt und so ist die Frage immer,
+Was haben wir für Voraussetzungen und wie wollen wir das in der Zukunft auch gestalten?
+Das Institut für Arbeitswissenschaft hat dieses Schaubild mal interaktiv gestaltet.
+Es geht darum, was ist nachhaltig, was ist der Mensch, was haben wir in der Zukunft für Beschäftigungsformen, Flexibilität und Technik.
+Sie können bei dem Institut auf jeden Blick draufklicken und dann finden Sie weitere Anhaltspunkte für das ganze System.
+Im Grunde geht es um Steigerung, Steigerung, Steigerung, Steigerung.
+Ganz unten steht Entlastung der Beschäftigten und dann Steigerung der Flexibilität.
+Künstliche Intelligenz in der Arbeitswirtschaft oder in der Arbeitswelt haben sie auch so definiert.
+So, das ist nur eine Information. Es wird sich vieles verändern.
+Sie haben auch Anhaltspunkte, wie die KI diese Beschäftigungsverhältnisse verändert.
+Dass die Unternehmen das positiv oder negativ sehen, sind einfach keine Zahlen.
+zukünftiger Einsatz
+wir wollen uns ausführlich
+über die KI informieren
+ein Konzern
+macht ein Team
+mit 5 oder 10 Mitarbeitern
+und die beschäftigen sich mit nichts anderem
+bei mir bestellen wir mit 300 Leuten
+da können sie dann froh sein
+wenn sich einer damit beschäftigt
+So, dass die Großen dann schneller vorwärts kommen, das ist automatisch so.
+Verkürzung von Bearbeitungszeiten ist das Kernthema.
+So, und das beginnt im Büro.
+Wenn Sie die künstliche Intelligenz fragen, zur bestimmten Problemvorstellung, zur bestimmten Formulierung vom Brief,
+dann haben Sie heute ruckzuck eine Antwort.
+So, dann müssen Sie nur überlegen, muss ich die Antwort noch ändern, in kleinen Passagen, oder kann ich das so lassen.
+Das geht relativ schnell.
+Also Problemstellung sauber formuliert, führt automatisch in der künstlichen Intelligenz zu einem relativ guten Ergebnis.
+So, man will die Durchlaufzeiten verkürzen, die Arbeitsproduktivität steigern, die Personalkosten
+reduzieren.
+Das sind alles Dinge, die derzeit gefragt sind.
+Das heißt, in Summe ist die Kerninformation, ich muss Daten erheben, ich muss Daten verarbeiten,
+möglichst mit der KI, ich muss die Daten speichern und dann den Arbeitsprozess zuführen.
+Das ist das, was gefragt ist.
+Das heißt, ich habe Istmaß, Sollmaß, Verarbeitung, Anweisungen und dann komme ich in Summe durch.
+So, Stufe für Stufe kann ich Fortschritte erzielen.
+Es geht nicht von heute auf morgen.
+Ich muss wissen, wie ich das ganze Instrument einsetze und dann dementsprechend bis zum autonomen System bringe.
+So wie beim, wie sagt man, beim autonomen Autofahren.
+So, Sie alle haben gemeint, dass es ein Kinderspiel ist.
+Es ist kein Kinderspiel.
+Aber es wird, ich bin überzeugt, dass es irgendwann kommen wird, weil, wie sagt man, die Bequemlichkeit wird unterstützt.
+Daran kommt das automatische Fahren, dass ich nicht erst nach Hause muss, um meinen Feierabendbier zu genießen, sondern es schon unterwegs kommen kann.
+oder andere Dinge.
+Kann ich in der Produktion einfach
+einen Spektrum fertig
+geben?
+Ich gehe.
+So, das heißt,
+Sie haben
+eine Menge Schritte, die dahin
+erforderlich sind.
+So, Sie können sich das selber
+durchscrollen, ich brauche dazu nicht mehr
+sagen, ich brauche Schritt für
+Schritt Erklärung von der
+Datenerfassung nutzen kann.
+2,5 Jahre nach Projektbeginn.
+Bei Palfinger haben sie zum Beispiel
+den Digitalisierungsprozess 2022 aufgesetzt
+und sie sagen, das terminiert bis 2030.
+ohne die Datenbasis
+geht nichts
+und wenn wir in der Produktion
+und der Fertigung nicht weiterkommen
+dass wir die digitalen Daten haben
+dann wird nichts
+und das dauert alles lange
+die Folie ist bei Ihnen nicht drin
+weil die habe ich irgendwo anders rausgeklaut
+Das beschreibt das typische Problem. Ich habe einen Ist-Zustand für einen Informationsverarbeiter.
+Das heißt, ich habe eine SAP, Papierliste, Papierliste, SAP, Papierliste, Papierliste, SAP, bis der Prozess fertig ist.
+Das ist nur ein Prozess für eine Maschine, ein Produkt qualitätsmäßig zu prüfen.
+Soll-Zustand ist, dass ich alle Daten automatisch erfasse und automatisch ins System hineinnehme.
+Das heißt, man muss sich mit dem Thema sehr wohl auseinandersetzen, was passiert am Arbeitsplatz.
+So, und am Arbeitsplatz haben Sie jede Menge Abweichungen.
+So wie das hier ersichtlich ist.
+Damit ich nicht von der Zeit abweiche, werden wir jetzt aufkommen.
+Danke für das Kommen.
+Ich wünsche Ihnen einen schönen Abend.
+Vielen Dank.

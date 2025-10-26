@@ -1,0 +1,1459 @@
+Ich starte, ich und ich glaube, Holger macht es genau so, jedes Mal im Grunde mit einem kurzen Blick, was bisher geschah.
+Das ist zwar ein bisschen so wie, ich weiß ja auch nicht, hat er so was gegeben auf Jungs, wenn er mal da durchgekommen ist, aber ist es dem, der etwas sagt?
+Nein, das ist mir.
+Ich werde genau damit jetzt einmal anfangen.
+Also wir haben beim letzten Mal, nachdem die erste Vorlesung von Herrn Kollegen Hesse ein bisschen eingeseitigt wurde,
+Haben wir uns das Thema System noch einmal genauer angeguckt und vor allem, das sind ja die Überlegungen, die da von Holger, von Herrn Hesse,
+wir sind dann weitergegangen und haben vor allem auf die Zustandswirkung geguckt, was ist intensiv, was ist extensiv.
+Das ist tatsächlich ein Klassiker, den man sich genauer anschauen sollte.
+Nachher für die Rechnungen, möchte ich sagen, beinahe irrelevant, aber ein Gefühl dafür zu haben, was ist eigentlich intensiv, was ist extensiv,
+ist relevant, um nachher den Prozessverstand zu haben.
+weil nur manche davon können einen Prozess treiben und andere nicht.
+Masse in aller Regel kann zum Beispiel keinen thermodynamischen Prozess treiben.
+Temperatur, Jupp, Druck, Jupp, Phasenunterschiede, Jupp.
+Genau, dann sind wir reingegangen, was heißt denn das eigentlich?
+Das ist ein Gleichgewicht, was passiert, wenn ich Systeme zusammenführe
+und sind auch schon ganz schnell zum ersten Hauptsatz, zum dritten Hauptsatz,
+mit der eigentlich, so aus dem Bauch raus, relativ realen Information,
+denn zwei Systeme zu einem dritten System, die gleiche Temperatur haben,
+haben sie auch den gleichen Temperaturwert.
+Stellt hier anders dargestellt, zwei Systeme in einem thermischen Gleichgewicht,
+heißt ja nur, dass sie die gleiche Temperatur haben.
+Wir finden sich auch mit einem dritten System, wir finden sich auch unter einer Temperaturwert.
+Diesen Satz müssen Sie nicht auswendig lernen. Ich frage wirklich keinen Satz ab.
+Das halte ich für ziemlich sinnfrei. Was dahinter steckt, sollten Sie schon verstanden haben.
+Aber tatsächlich ist der jetzt auch noch der Einfachste.
+Wir sind dann weitergegangen, haben uns angeschaut, wie können wir denn,
+und das ist jetzt tatsächlich das Allereinfachste, was wir zu Anfang machen, nämlich ideales Gas.
+Das wird dann im Laufe der Zeit immer komplexer.
+Wir gehen also dann in Richtung Realgase.
+Wir werden immer wieder aufs ideale Gas zurückkommen und das als Vergleichspunkt sehen.
+Das heißt, hier auch echt ein bisschen reingucken und tatsächlich die Formeln verstehen.
+Das wäre schön, das wäre wünschenswert, Formeln anwenden können, das ist tatsächlich wichtiger.
+Aber das ist sowieso ein bisschen mein Credo, ich weiß nicht, ob ich das auch schon so gesagt habe.
+Wir sind ja, Sie werden, ich bin es schon, Ingenieur.
+Und ich bin der Meinung, dass eine unserer Hauptaufgaben darin liegt, auch relativ effizient zu sein.
+Und das beinhaltet manchmal, wenn schon 100 Leute bewiesen haben, dass ich eine Formel anwenden kann,
+dann muss ich es nicht nochmal beweisen.
+Dann kann ich sie einfach anwenden, weil dann bin ich effizient.
+Das ist so ein bisschen mein Kredit.
+Verstehen versuchen wir ja trotzdem zu einem gewissen Grad.
+Was haben wir gemacht? Wir haben uns im Grunde einfach an natürlichen Beispielen angeguckt,
+wie sich ein Gas verhalten könnte.
+Was ist die Idee hinter einem Gas, wenn es sich erwärmt, mit dieser Überlegung,
+wir haben dimensionslose Punkte, die aber trotzdem Massepunkte sind,
+die eine gewisse Interaktion untereinander haben,
+aber die sich nicht verformen, etc.
+Wenn wir diesem Modell folgen, dann können wir einfach mal schauen,
+und meine Luft kommt dem Ganzen relativ nah,
+deswegen ist es für Sie auch einfach verständlich gewesen,
+Was passiert denn, wenn ich Temperatur, Theta und mein Volumen miteinander mir anschaue,
+über die Variation vom Druck, wie ist insgesamt das Verhalten Temperatur entlang meines Drucks?
+Also das war die lineare, dann die einfache Frage, was passiert eigentlich bei mehr Druck und was passiert bei weniger Druck?
+Dann hier, das ist noch eine Folie, ich habe meine Folie aus der letzten Aufzählung nicht gefunden,
+deswegen müsste ich alles andere nehmen.
+mit der Fragestellung, was passiert denn, wenn ich das Volumen halbiere und die Masse verdoppel,
+wie sieht das Ganze eigentlich makroskopisch aus, um dann über unterschiedliche Gesetzmäßigkeiten,
+im Besonderen hier die Kehrwertsfunktion, einen ganz einfachen Weg zu finden, um diese Formel aufzustellen.
+V mal V ist Gaskonstante mal Masse mal Temperatur.
+Die steht auch in der Formelsammlung.
+Ich bin der Meinung, Sie sind da so gut aufgestellt, wenn Sie dafür die Formelsammlung nicht brauchen.
+So kompliziert ist sie nicht.
+Und tatsächlich, aus Erfahrung schon anderer Jahrgänge vor Ihnen, schauen Sie bitte genau hin, was in Aufgabenstellung steht.
+Wenn hier eine Masse und ein Volumen steht, ein V, dann ist das weder die Geschwindigkeit noch Theta,
+auch wenn es vielleicht ein bisschen so aussieht, die Temperatur, noch nü, was vielleicht auch ein
+bisschen so aussehen könnte. Bitte schauen Sie genau hin, welche Formel habe ich eigentlich welche,
+nicht nur welche Buchstaben, sondern was steckt dahinter. Und das meine ich genau so ernst,
+wie ich sage, weil ich habe jedes Mal Klausuren und Übungsrechnungen gesehen und habe mir gedacht,
+das ist jetzt aber nicht so ganz, wie ich mir das vorgestellt habe. Schauen Sie einfach rein,
+was da drin steht. Wir haben es hergeleitet.
+Deswegen nehme ich mir die Zeit, dass Sie hier nicht nur
+irgendwelche
+Abrakadabra-Formeln auswendig können,
+sondern auch wissen, wo das Ganze herkommt.
+Genau. Das Schöne daran ist,
+wir haben im Grunde eine
+erste von einer ganzen
+Reihe von Gleichungen, die wir brauchen
+für die Thermodynamik, haben wir relativ einfach
+schon mal hergeleitet. Und
+Frage an Sie, so
+wehtat es gar nicht, oder?
+Das waren alles relativ einfache Überlegungen.
+Das kann man nachvollziehen und das
+man da zusammenführt, klingt ein bisschen wie Magie, ist aber das, was dann in der Physik
+einfach passieren darf. Dann sind wir noch den Ausflug gegangen, was heißt das Ganze,
+wenn wir die ideale Gasgleichung nicht in Volumen und Masse haben, sondern in Null?
+Da kommt dann nämlich auf einmal zum Tragen, dass hier unser großer Freund die universelle
+Glaskonstante ins Spiel kommt. Warum das so ist, gibt es bestimmt Leute, die das erklären
+wollen, die das erklären können, ich nicht.
+Da bin ich dann der Freund von der Infizienz.
+Diese Gaskonstante
+darf man einfach hinnehmen, dass sie
+und da kommt jetzt ein bisschen der Trick,
+für nahezu alle Gase,
+gilt für ganz schwere Gase, glaube ich nicht,
+da bin ich dann aber auch, ich bin kein Physiker,
+aber im Grunde
+für alle Gase, die wir hier uns angucken,
+und das ist ja erstmal für Sie alle wahrscheinlich
+am allerwichtigsten, was wir uns hier angucken
+und wie man hier durch die Prüfung kommt,
+gilt die universelle
+Gaskonstante, aber auch
+hier. Die gilt nur, wenn ich überhaupt in Monat rechnen kann. Das heißt, wenn ich ein
+Gas, ein spezifisches Gas habe, dann muss ich mir das erst angucken, ob ich sie anwenden
+kann oder nicht. Denn wenn ich spezifisches Gas und Masse habe, aber ich weiß nicht,
+was für eine Gaszusammensetzung, dann werde ich nie auf die Teilchenanzahl kommen. Das
+immer ein bisschen im Hinterkopf behalten. Diese kleinen Indizes, das M und das S, die
+Wir haben das Ganze dann nochmal ein bisschen durchgerechnet, um reinzukommen.
+Und ich gebe Ihnen jetzt mal gerade, das haben wir, drei Minuten Zeit, hier durchzugehen.
+Gerne in Zweiergruppen, einfach mal draufdrucken.
+Kriegen Sie die alle zugeordnet?
+Und die Antwort ist natürlich ja.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Das ist ja schon mal ein bisschen lächerlich.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Gut. Wie weit sind Sie?
+Muss nicht vollständig sein.
+Kleiner Exkurs, kleiner Hinweis.
+Ich gehe davon aus, dass sich das auf Strecke des Semesters ein bisschen ändert.
+Ich habe das ja letzte Woche schon gesagt.
+Ja und Nein sind Antworten auf geschlossene Fragen.
+Fragen. Wenn ich eine offene Frage stelle, freue ich mich über eine Antwort. Das sind
+meistens Sätze. Hier geht es jetzt eigentlich nur um eine ganz einfache Sache, nämlich
+hier mal gucken, ob man das weiß. Ich weiß, dass Sie alle ein bisschen auch den Ehrgeiz
+haben zu gucken, wo man selber steht. Das ist für die Aufgabe egal. Für andere Aufgaben,
+Sie werden irgendwann in der Situation sein, dass Sie sich nicht ausdrücken können, mit
+Wenn Sie zusammenarbeiten, hier sitzen Sie noch einigermaßen so.
+Wenn ich meine, machen Sie das gemeinsam, dann machen Sie es ruhig gemeinsam.
+Hilft nämlich so auf Strecke fürs Leben.
+Da kommt man nämlich nachher nicht drauf hin.
+Gut, also, unterschiedlich in physikalischen Eigenschaften.
+Was ist das?
+Offene Frage, Achtung.
+Jawohl, das ist die 4.
+Einheitlich in allen Zustandsgrößen, genau der Gegenbeweis, richtig, homogen, unter geringen Abweichungen vom Gleichgewicht.
+Das hatten wir noch nicht, hat trotzdem irgendwer eine Idee, was es sein könnte?
+Okay, skippen wir. Wir machen das hier in Multiple Choice.
+Durch Messverfahren definiert.
+Empirische Verfahren.
+Empirisch ist die 1.
+Auf die Stoffmenge bezogen, das kennen wir auch.
+Molar.
+Zeitlich unverändert, das finde ich immer gut.
+Zeitlich unverändert, ja.
+Das ist tatsächlich etwas, was man sich immer wieder angucken wird.
+Wir werden gerade jetzt am Anfang der Vorlesung oft in stationären Systemen sprechen
+und den einen Zustand und den anderen stationären Zustand definieren.
+Es wird dann aber zusehend dahin gehen, dass wir die Übergänge von dem einen Zustand zu dem anderen Zustand uns genauer angucken.
+Tatsächlich fangen wir heute damit auch schon an.
+kann nicht von selbst umgekehrt werden.
+Vermutlich auch selbsterklärend, das ist das Irreversible.
+Auf die Masse bezogen, das hatten wir letzte Woche schon.
+Mengenartig, das finde ich sehr gut.
+Ja, eine Idee?
+Ich finde das Wort total schlimm.
+Aber was ist denn etwas, was mengenartig ist?
+Mengen kann man miteinander kombinieren und dann hat man eine sogenannte extensive Größe.
+Also die 3.
+Nach einer Vergrößerung des Volumens.
+Volumenvergrößerung ist eine Expansion, auch die hatten wir uns noch nicht angeguckt, aber natürlich ist es dann expandiert.
+gleichbleibendes Volumen. Hatten wir letzte Woche schon. Wer weiß es noch?
+Genau. Das vielleicht einfach mal so ein bisschen unter das Kissen legen. Wo ist denn
+Isochor? Öl. Danke.
+Isobar, Isotherm, Isochor. Einfach mehr. Es kommt dann noch Isentalp und Isentrop.
+Aber für jetzt, das was man so kennt, Iso-Var, gleicher Druck, Iso-Therm, gleiche Temperatur, steckt im Namen drin.
+Iso-Core brauchen Sie irgendeine andere Eselsbrücke.
+Gut.
+Mit der Temperatur zusammenhängend, das ist dann thermisch, da gibt es die 10, auch relativ selbsterklärend,
+kann wiederholt abgelaufen werden, das ist ein reproduzierbares Verfahren.
+14. Gleichbleibender Dampfgehalt hatten wir tatsächlich nicht.
+Wieso Vapor?
+Diejenigen, die
+irgendwann in Latein
+mal aufgepasst haben,
+kennen den Begriff
+Vapor, beziehungsweise Vapor
+in Englisch.
+Beziehungsweise,
+heißen nicht auch diese
+komischen Zigaretten-ähnlichen
+Dinger, heißen auch Vaporizer, oder?
+Also, jetzt wissen wir,
+wo es herkommt. Schön,
+weil man danach dampft.
+Okay. Ohne Wärmeübertragung, das ist ein wichtiges Wort. Adiabat. Adiabat auf jeden Fall merken. Wichtig, ich unterstreiche sie einfach mal. Tatsächlich, der Kollege hier, Adiabat, bitte merken, thermisch, Isokor, homogen und spezifisch.
+Spezifisch. Gerade tatsächlich Adiabat, Isocor, weil man es halt nicht so häufig hört im normalen Leben und spezifisch, weil die Fragen immer wieder in die Richtung gehen.
+Ich habe es letztes Mal schon gesagt, wenn wir einen bestimmten Prozess beschreiben, generisch, nehmen wir das meistens mit spezifisch, wenn wir absolut beschreiben wollen, keine Ahnung, 5 Kilo werden irgendwie erwärmt, dann ist es eben nicht spezifisch.
+Ja, gut.
+Kleine Aufgabe nochmal für Sie. Jetzt dürfen Sie sich definitiv zusammentun und schauen,
+wie Sie anfangen. Ich gebe ein, einfach schon vor, damit Sie nicht nachgrübeln müssen.
+Wir haben hier ein Mode. Wir haben eine bestimmte Temperatur. Vielleicht kommen wir hier schon so weit, dass wir es ausrechnen können.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Wenn es für Sie okay ist, ich muss ein bisschen auf die Zeit gucken. Wir machen es gemeinsam.
+Herangehensweise relativ einfach. Wir haben eine bestimmte Temperatur. Wo liegt die?
+Bei Null? Nein. T in Kelvin. Immer T in Kelvin.
+Jetzt ist hier wieder der Rüstung. Ganz wichtig. Kelvin.
+Das heißt, wir haben, die Temperatur sind 273,15 Kelvin, Druck ist angegeben, eine Atmosphäre, beziehungsweise 1,01 bar.
+wir werden uns gleich um die Umrechnung kümmern
+es ist mir
+ich habe das mit der Umrechnung letztes Mal gehört
+es ist total egal
+wann Sie da was umrechnen
+wenn wir hier von absoluten Werten sprechen
+bitte im Hinterkopf behalten
+war es nicht
+klassischerweise hat man ja immer
+irgendwie so hunderter oder tausender Systeme
+10 hoch 3, 10 hoch 6
+10 hoch 9, was auch immer
+war es leider
+ein bisschen schräg daneben
+weil es 10 hoch und 5 nöten druckbarer Wetter sind.
+Das steht nicht in der Formelsammlung.
+Schreiben Sie sich das auf Ihre private Sammlung.
+Auf jeden Fall.
+Ich wollte gerade sagen bitte, aber eigentlich nicht bitte,
+weil ich mag den Fehler einfach nicht.
+Weil er so einfach ist eigentlich.
+Also das ist ja ein geschenktes Ding.
+So, n, relativ stumpf, 1 Mol.
+Und dann haben wir noch die Gaskonstante, die hatten wir eben bei der Formelsammlung schon, 8,316 Joules pro Mol mal Kelvin.
+Relativ stumpf, wenn hier jetzt gefragt ist, was das Volumen sei, können wir einsetzen,
+V ist gleich molare Gaskonstante mal Wellen mal Temperatur durch Druck.
+Und jetzt machen wir mal den vollständigen Weg.
+Wir haben hier 8,316 Joule, mal KW, mal 1 Moule, mal 273,15 KW.
+Und wir haben 1,01325 Bar.
+Jetzt nehme ich mal eine andere Farbe, dass wir auch gucken können, ob das alles so sein passt.
+Mono und Mono fliegt raus.
+Kelvin und Kelvin fliegt raus.
+Jetzt haben wir hier unten 10,5 Minuten pro.
+Das heißt, hier haben wir auch, Joule ist Newtonmeter, wir kommen also nachher auf 1 Meter hoch 3.
+Wir kommen also auf ein Volumen von 22,4 zu 2.
+1,7 minus 3 Kubikmeter.
+Ich habe es beim letzten Mal schon gesagt, gerade jetzt, wo noch Zeit da ist, nutzen Sie ruhig die Überprüfung, die wir haben, indem wir einfach gucken können, ob das, was nachher dabei rauskommt, rein von den Inhalten, rein von den Werten passt.
+Ich habe schon die wildesten Dinge gesehen, die wahrscheinlich, wenn man einfach mal auf die Einheiten guckt, relativ schnell selbst erkennt werden.
+Weil wenn man hier statt dem V auf einmal irgendeine Einheit, weiß nicht was, in Newtonmeter pro Sekunde hat, dann wird es echt schwierig.
+Dann kommt man nicht auf ein Volumen. Ist einfach falsch von der Physik.
+Gut, hier zur Frage.
+Gut. Das war jetzt auch noch das Simpelste.
+Na, eins.
+Kommen noch ein paar.
+Gut. Ich habe Ihnen noch ein zweites mitgebracht,
+die einfach mal für Sie zur Übung.
+Brauchen Sie nicht jetzt machen, sollten Sie auch nicht jetzt machen,
+weil ich jetzt einfach weiter mache.
+Aber ich muss schauen, entweder ich hole Sie nochmal nach,
+oder ich mache Sie in der Übung, das weiß ich noch nicht genau.
+Gut.
+Hier das Gleiche nochmal im Grün.
+Schauen Sie sich das Ganze an.
+versuchen Sie ein bisschen ein Gefühl zu kriegen für die Aufgabenstellung.
+Das sind Aufgabenstellungen, ich habe ja gesagt, ich mache es so ein bisschen triomvirat.
+Wir haben richtige Rechenaufgaben, die dann auch länger aufeinander aufbauen.
+Wir haben echte Kurzfragen, extrem atomar.
+Und wir haben so Zwischenfragen, vielleicht auch mal so Detailrechnungen.
+Einfach mal die richtige Formel aussuchen und einsetzen, dass ich das auch mache.
+Dafür sind sie zu lang, aber es geht schon in die Richtung.
+Gut, worum geht es heute? Kommen wir zum Punkt.
+Vor allem um dieses erste Wort, Energie.
+Wir werden uns heute ziemlich genau angucken, was eigentlich damit gemeint ist,
+wenn ich sage, dass die Energie in einem System gleich bleibt.
+Wir haben uns da letzten Mal schon postuliert, tauchen trotzdem nochmal tiefer ein,
+gucken uns vor allem die unterschiedlichen Energieformen und die Umformungen an.
+Die kennen wir. Da brauche ich jetzt, glaube ich, nicht viel zu sagen.
+Potenzielle Energie, kinetische Energie, das ist tatsächlich Physik bzw. technische Mechanik, passt.
+Das sind Dinge, die natürlich in einem System, wenn sich da was bewegt,
+in einem System, das drunter fällt, wirken, ich mag aber gleich schon sagen,
+für das, was wir uns angucken, oft, ich sage bewusst oft, irrelevant.
+Wenn ich natürlich ein System habe, wo mein Fluid von 10 Meter Höhe auf 0 runter geht,
+dann ist das sicherlich auch potenzielle Energie.
+Gucken wir uns also ein System mal an.
+Und das ist im Grunde das Gedankenexperiment.
+Das mag ich auch relativ kurz machen, weil ich glaube, dass Sie das relativ klar auch selbst erklärend verstehen.
+Dieses System hat ja, neues Lieblingswort für uns alle, infinitesimal kleine Teilchen.
+das heißt, irgendwo ist ein Volumenteilchen
+das hat ja eine gewisse
+kinetische Energie
+äh, potenzielle Energie
+wir nehmen jetzt mal nur die potenzielle Energie an
+wenn sich das Ding bewegt, ist es natürlich das gleiche
+und so haben wir lauter Teilchen
+die irgendwo in der Gegend rumoxidieren
+ich mach den Pfeil bewusst kleiner
+Und das ist mein Teilchen 1 und das ist mein Teilchen 2.
+Jetzt ist es so, dass wenn wir, und das ist jetzt auch für Sie alle überhaupt nicht unbekannt meiner Meinung nach,
+aber ich möchte es nochmal wiederholen, wo diese Annahme herkommt,
+dass wir in einem System, was sich selber nicht bewegt, potenzielle und kinetische Energie eigentlich in einen Punkt zusammenfassen können.
+Denn wenn man sich das mal anschaut, hier in der Mitte ist ja auch ein Teilchen.
+Das sei jetzt wirklich genau in der Mitte. Und da ist der Pfeil ungefähr halb so.
+Kleiner als der, größer als der.
+Wenn wir jetzt die Differenzen, die sich bilden, aus dem da und dem da, alles in die Mitte packen,
+dann bleibt hier eine große resultierende übrig. Das heißt, die kinetische Energie, die hier oben
+mehr ist, ist hier unten weniger, in Bezug auf unseren Schwerpunkt. Jetzt stellen Sie sich vor,
+vor, das Ding dreht sich. Dann haben wir hier irgendwo, in einer anderen Farbe, haben wir
+irgendwie eine kinetische Energie. Wenn sich das Ding genau um seinen Schwerpunkt dreht,
+was passiert mit den kinetischen Energien, die heben sich komplett auf? Bis auf das,
+was im Grunde als Rotationsbeschleunigung da bleibt.
+Rotiert es eben nicht, ist die kinetische Energie, die hier drin steckt, dann dementsprechend nur.
+Warum brauche ich das?
+Weil es uns im Grunde bei der nächsten Annahme trifft.
+Hierfür sprechen wir eigentlich immer von mechanischer Arbeit.
+Ich mache heute auch die Unterscheidung, was ist eigentlich mechanische Arbeit und was ist thermische oder Prozessarbeit.
+Wenn sich die kinetische Energie, die potenzielle Energie ändert, das ist äußere Energie, dafür brauchen wir immer mechanische Arbeit.
+Wenn es auf die Schwerpunktlage bezogen wird und die Schwerpunktgeschwindigkeit, dann, dann, nur dann, also wenn sich der Schwerpunkt verändert,
+dann habe ich auch eine Änderung der äußeren, ich sage mal, mechanischen Energie.
+Wenn nicht, egal. So, jetzt aber das Wichtigste. Das machen wir in der Physik, das machen wir in der technischen Mechanik.
+Da kümmern wir uns um diese Dinge.
+In der technischen Thermodynamik, ich habe letztes Mal schon den Unterschied gemacht,
+technische Thermodynamik, chemische Thermodynamik.
+Wir machen nur technische Thermodynamik.
+Dann ist es nur relevant, wenn die Arbeiten von meinem System über die Systeme in der Klinik ausgehen.
+Heißt zum Beispiel, wenn ich einen Luftballon aufgelöstet habe und den aufmache und der treibt irgendwas an,
+dann ist das Arbeit, die von meinem einen System aus der Systemgrenze Luftballon rausgeht, in ein anderes System.
+Dann ist es für uns wieder wach.
+Da der Luftballon sich jetzt mit Erdbeschleunigung um sich selbst dreht, ist uns relativ egal.
+Weil dieser Kontext, Luftballon treibt etwas an, völlig egal ist, ob sich die Atmosphäre bewegt oder nicht.
+Okay? Gleiches für irgendwelche Lageränderungen.
+Interessiert uns an der Stelle nicht, außer es sorgt dafür, dass es über das System ganz hinter geht.
+Heißt aber auch, dem System zugeführte Arbeit, normalerweise Änderung der äußeren Energie.
+Wenn ich jetzt aber in mein System etwas reinbringe, ich rühre, aus irgendwelchen Gründen rühre ich jetzt mal mein Wasser, so ist es richtig geantwortet.
+Dann bringe ich natürlich äußere mechanische Arbeit in mein System.
+Das gilt dafür nicht.
+An der Stelle gilt nämlich weder potenzielle Energie noch kinetische Energie, sondern fast ausschließlich Thermomarke.
+Thermische Energie, Leibung, Dissipation, das sind dann die Sachen, die da reinstehen.
+Gut. Heißt für Sie vor allem, in den meisten Fällen ignorieren wir die Änderung, die von außen kommt, auf das Gesamtsystem.
+Wir in aller Regel ignorieren, was ist eigentlich mechanische Arbeit, was ist eigentlich...
+Entschuldigung, was ist eigentlich kinetische Energie, was ist eigentlich potenzielle Energie in einem System?
+Einen Ausweis, also eine Einschränkung gibt es in dem Moment, wir haben ein paar Aufgaben dabei,
+da geht es wirklich um durchströmte Systeme, wenn eine Strömung irgendwie, wie gesagt, von 10 Meter Höhe auf 0 geht,
+dann ist da natürlich auch eine Änderung der potenziellen Energie in aller Regel entweder ein N-Type,
+das machen wir in drei Vorlesungen
+oder ganz offensichtlich
+natürlich in kinetische Energie
+das werden Sie
+hatten Sie schon den Nullströmungsfaden
+bei Herrn Hesse
+ok, da kommt sowieso
+denken Sie dran
+was ich gesagt habe
+bei durchströmten Systemen auf jeden Fall
+wenn ich was von da oben runterkippe mit 0 kmh
+dann hat das da unten definitiv mehr kam
+gut
+nochmal von der Systematik
+nichts neues
+Das kennen wir schon.
+Die Energieerhaltung ergibt sich also einmal durch die Änderung.
+Das eine hat man schon mit der inneren Energie, jetzt kommt noch die äußere Energie dazu.
+Ich übersetze für auch mich als Nicht-Physiker.
+Was steht da jetzt eigentlich zu dem, was ich gerade gesagt habe?
+Der Hattinger hat doch gerade gesagt, dass wir die äußeren Energien verändern können.
+Das ist richtig.
+Nun überlegen Sie, was hier steht.
+Hier steht Änderung der inneren Energie und Änderung der äußeren Energie.
+Ergibt sich aus der Änderung aus Arbeit und Wärme.
+Hier steht Arbeit und Wärme.
+Heißt aber auch, ein System, was sich gleichbleibend mit 50 kmh in 400 Meter Höhe bewegt,
+da habe ich keine Änderung der äußeren Energie.
+Also, Delta, das im Hinterkopf behalten.
+Diese Formel ist nur vollständig das, was eben beschrieben wurde.
+Wenn sich mein System gleichbleibend verhält, habe ich keine Änderung der äußeren Energie.
+Das heißt, ich muss zusätzlich irgendwie Arbeit oder zusätzlich Wärme in mein System reinbringen, um die innere Energie zu erheben.
+Von selbst ändert sich innere Energie nicht.
+Okay?
+Was heißt das jetzt?
+Wir gucken jetzt in im Grunde genau diese beiden Punkte hier an.
+Das ist jetzt hier.
+Das ist das erste und das ist das zweite.
+Habe ich einfach mal so postuliert, Wärme und Arbeit sei irgendeine ähnliche Form.
+Wir gucken jetzt mal ein bisschen genauer rein, was das eigentlich heißt.
+Und zwar, wenn wir Wärme zuführen, was bedeutet das?
+Wir haben hier unten irgendwie ein paar Flämmchen.
+Ich bin ganz super am Flämmchen zeichnen.
+Also eine Flamme sei das jetzt.
+Was passiert mit dieser Flamme?
+Ich bringe thermische Energie in mein System.
+Und zwar wie viel?
+Das nehmen wir mal an.
+Was passiert denn dann in meinem System?
+Natürlich wird die Temperatur irgendwie mehr.
+Das ist die Änderung meiner Temperatur, Delta Theta.
+Was ist Delta Theta?
+Delta Theta beinhaltet auch Theta 2.
+Theta 2 ist größer als Theta 1.
+Was haben wir in dem Behältnis?
+Masse, Dichte, Druck, sei konstant.
+Jetzt haben wir ja schon was gelernt.
+Das gleiche Zeug, spezifische Gaskonstante, bleibt also gleich.
+Gleiche Masse, gleiche Dichte, gleicher Druck.
+Was muss also passieren, damit hier sich irgendwas tut?
+Es muss irgendwie mehr Energie rein.
+Und das ist jetzt genau der Punkt, hier mache ich etwas mit meinem System, indem ich Wärme, das hat er jetzt eben schon mal gemacht, oder?
+Ich verändere Wärme, ich packe Wärme in mein System und damit ändert sich auch meine innere Energie.
+So, denn, und das ist jetzt ein bisschen Nomenklatur, von 1 nach 2, dann nehmen wir immer hier den Index 1,2, ich schreibe gleich mal dazu, das ist natürlich die Änderung von Q und das ist nichts anderes als die Änderung der inneren Energie, die sich aus dem Energiezustand 2 und dem Energiezustand 1 entwickelt.
+Jetzt habe ich eben noch versprochen, ich schreibe noch was dazu.
+Das heißt, von Zustand 1 nach Zustand 2.
+Also, wenn ich sowas hinschreibe, bitte merken, das ist jetzt nicht eine 12, das ist irgendwas,
+sondern das ist einfach nur spezifisch die Änderung von zwei Zuständen.
+Soweit verstanden?
+Wir haben aus der Formel, die wir eben schon so schön aufgestellt haben,
+Delta U plus Delta E außen, Änderung Wärme plus Änderung von Arbeit.
+In diesem System haben wir keine Arbeit, die äußere Energie bleibt komplett gleich,
+aber ich packe Wärme rein und damit ändert sich linear meine innere Energie.
+Wie gesagt, das mag sich jetzt für den einen oder anderen noch total trivial anhören,
+bitte trotzdem verstehen.
+Gleiches haben wir nämlich, wenn wir mechanisch arbeiten.
+Hier haben wir also, wir haben die Berührer und irgendwie dreht er sich.
+Wie wird.
+Jetzt packe ich also von meinem Zustand 1 zu Zustand 2, mache ich irgendwas.
+Aber was passiert dann genau bei uns? Auch hier, nehmen wir wieder an, Masse, Dichte, Druck, vielleicht.
+Frage an Sie, was passiert mit meinem System? Es dreht sich, und jetzt?
+Das hat man jetzt im normalen Leben nicht so, weil man es mit der Hand schon echt sehr lange rühren muss, um irgendwas ein bisschen wärmer zu kriegen.
+Faktisch sorge ich aber ja hier für innere Reibung.
+Ich packe Energie in mein System hinein.
+Und es passiert genau das gleiche.
+Von meinem Zustand 1 zu meinem Zustand 2 ändert sich die Temperatur.
+Das heißt, auch hier habe ich irgendwie eine Änderung in meinem System.
+Ich habe eine Vergrößerung der inneren Energie.
+Ich kann das also genauso schreiben.
+Jetzt kommt der interessante Punkt.
+Jetzt habe ich, glaube ich, mich schön selber überschrieben.
+Ja, habe ich. Das ist klar.
+Ist das bei Ihnen noch mit abgedruckt?
+Ja.
+Gut, das heißt, Sie haben nicht drüber geschrieben, richtig?
+Richtig.
+Also, worauf will ich hinaus?
+Ich kann die gleiche Veränderung meines Systems, meiner inneren Energieerreichung,
+entweder mit Arbeit zufügen oder mit Wert zufügen.
+Was ja ein bisschen sein könnte, ich werde nochmal ein bisschen auf Umreiten gleich,
+Als Idee könnte man eventuell vermuten, dass Werbung und Arbeit als Energieform auch ineinander umgesetzt werden können.
+Und das kennen Sie alle. Jeder Motor macht genau das.
+Jede Luftpumpe macht genau das. Jeder Kompressor macht genau das.
+Irgendwas, was heiß wird, macht genau das.
+Gut, was heißt das jetzt?
+Wenn ich mir das Ganze in Energie angucke, ich habe Wärmezufuhr oder Wärmeerzeugung.
+Wie mache ich das? Ich mache das einmal wieder hier mit meiner schönen Kerze, die ich total verzeichnen kann.
+Was passiert, wenn ich das Ganze erhitze?
+Folgendes, Druck bleibt gleich und wenn ich die Wärme abführe, ich idealisiere jetzt nach unten,
+aber im Grunde ist es in alle Richtungen, wird eine Wärme Q abgeführt bzw. eine Wärme Q zugeführt.
+Und zwar sind wir genauer vom Zustand 1 nach 2 und vom Zustand 1 nach 2.
+Jetzt die Frage, was passiert hier?
+Das Ding sei gleich groß, das Ding sei gleich schwer.
+Und ich erhitze das.
+Was passiert mit meinem System, wenn der Druck gleich bleibt?
+Welcher Parameter ändert sich?
+Genau.
+Sicherlich auch irgendwo die Temperatur.
+Das sind aber tatsächlich Sekundäreffekte.
+Wenn ich es schaffe, die Temperatur gleichzuhalten, ändert sich das Volumen.
+Und was passiert, wenn sich das Volumen ändert?
+Was passiert mit dem Massepunkt da oben?
+Ja, nein, ich weiß, ich weite.
+Also was passiert mit dem Massepunkt?
+Also ich habe Zeit.
+Genau, der verschiebt sich nach oben.
+Und was bedeutet das, wenn der sich nach oben verschiebt?
+Ich verrichte Arbeit.
+Arbeit F mal S.
+Relativ klar.
+Und zwar bekomme ich dann eine Arbeit 1 nach 2.
+Das ist auch ein umgekehrter Fall, der ist jetzt zu sehr.
+Das heißt, auch andere Leute dürfen antworten.
+Wenn hier Wärme abgeführt wird, dieses Volumen wird immer kälter.
+Was passiert mit dem Volumen?
+Das grinst schon der eine oder andere.
+Du hast doch kurz davor was zu sagen.
+Damals du grinst.
+Richtig.
+Das war jetzt zu schnell.
+Die vorigen waren fast so.
+Was hast du kurz davor?
+Mann, verdammt nochmal.
+Genau.
+Das Volumen verklagert sich. Was heißt also, hier wird Arbeit dem System, also das heißt, es wird Arbeit produziert,
+aber im Grunde, dadurch, dass die Wärme rausgeht, geht die Arbeit ins System rein.
+Also, hier wird auch Arbeit verrichtet. Das ist das Wichtigste.
+Da sind wir dann auch genau bei diesem Zusammenhang. Arbeit kann in Wärme umgewandelt werden.
+Und im Umkehrschluss kann Wärme auch in Arbeit umgewandelt werden.
+Das heißt, das, was ich eben gesagt habe, hört sich schön an.
+Wir haben hier einen direkten Beweis, weil wir wissen, wie Arbeit definiert ist.
+Ich mach mal weg.
+Und wir sehen, dass es sich was tut.
+Es ist heiß und auf einmal tut sich was.
+Also, wir kommen in Arbeit.
+Heißt, wenn wir das nochmal mathematisch, und wie gesagt, da nicht verzweifeln.
+Es sind jetzt sehr oft die gleichen Buchstaben.
+sehr oft denkt man sich, das haben wir ja schon 23 mal gesagt
+es ist aber immer mathematisch
+ein bisschen ein Stück erweitert
+bisher haben wir nur vom mathematischen Delta gesprochen
+jetzt sprechen wir vom spezifischen Größen
+in dem wir sagen, dass der
+die Wärme
+Q1 nach 2
+und die Arbeit
+1 nach 2, die in Summe
+beschreiben
+die Änderung der Energie
+und wenn wir das spezifisch schreiben
+und das werden wir halt
+in den nächsten 2-3 Wochen nicht brauchen
+aber dann brauchen wir es irgendwann wieder
+haben wir das Ganze in Q
+kleines Q1,2
+plus kleines
+W1,2
+gleich E2
+minus E1
+und das ist relevant
+Und eines schreibe ich gleich schon dazu. Warum ist das relevant?
+Wenn wir von einem Kreisprozess sprechen, haben wir nichts anderes als die Summe aller zugefügten Wärme und die Summe aller zugefügten Arbeiten.
+ergibt sich in einem vollständigen Kreisprozess
+als Null.
+Delta E
+Das ist ein großes E.
+In dem Kreisprozess gilt,
+dass die Summe aller Energien Null ist.
+Dieser Teil hier hinten, das werden wir uns am Ende der Vorlesung angucken.
+Also nicht dieser Vorlesung, sondern am Ende der gesamten Vorlesung.
+Aber nur um das mal vollständig darzustellen.
+Und dieser Satz gewinnt nachher nochmal richtig Fahrt in dem Moment.
+Weil wir unseren Kreisprozess, unseren Automotor, unsere Wärmepumpe, was auch immer wir da haben,
+werden wir genauso beschreiben, dass wir nachher sagen, die Summe aller zugeführten und abgeführten Energien,
+also abgeführten und zugeführten Energien, gleichbedeutend mit Wärme und Arbeit, ist ein Kreisprozess.
+So, jetzt haben wir ein paar Sachen gemacht.
+Das Ding haben wir dementsprechend erweitert, denn die Änderung der Energie insgesamt,
+die Änderung der inneren Energie plus die Änderung der äußeren Energie,
+ist gleich, so war alles, Delta Q und Delta Arbeit.
+Spezifisch ausgedrückt, ach das hatte ich schon hingeschrieben, alles klar,
+spezifisch ausgedrückt mit den kleinen Buchstaben und auch hier gilt das Gleiche.
+Das sind jetzt, wie gesagt, alles nur mathematische Wiederholungen von dem, was wir gerade gesehen haben.
+Wir gucken uns immer ein System an und schauen uns dann an, was das in der Mathematik ist.
+Ich hoffe, das ist so langsam angekommen, wie ich hier so glaube.
+Wir gucken uns das System an, reden mal drüber, wie sich das so verhält.
+Und dann stellen wir fest, oh Mist, das können wir da auch noch ein bisschen cooler ausdrücken.
+Oder cooler, uncooler. Wir können es mathematisch formalisiert ausdrücken.
+Und das ist das, was wir hier machen.
+Ich mache jetzt nochmal einen kleinen Exkurs.
+Und zwar gucke ich in Arbeit insgesamt rein.
+Denn bisher haben wir Arbeit eben mal festgestellt, als so ein Gewicht geht hoch und runter.
+F mal S.
+Es gibt aber auch thermische Arbeit.
+Die schauen wir uns gleich mal an.
+Erstmal grundsätzlich, was für Arbeiten haben wir?
+Eben schon dargestellt, Volumenänderung.
+Wenn sich hier irgendwie das Volumen ändert, dann ist das meine Arbeit.
+Und zwar von, ich nenne es jetzt mal Volumen 1 nach Volumen 2.
+Die haben wir eben schon gesehen.
+Jetzt gibt es aber auch Arbeit, hier dargestellt relativ stumpf.
+Die Masse zieht diesen Rotor durch, was passiert mit dem Rotor?
+Der Rotor induziert einen Impuls, daraus reduziert irgendwann sich ein Massenschwung.
+Das heißt, hier haben wir Druckänderungsarbeit.
+Klassischerweise werden wir nämlich hier unten und hier oben unterschiedliche Drücke haben.
+Was hier jetzt so schön dargestellt wird, das ist nicht anders als das, was eine Pumpe macht.
+Es gibt unterschiedliche Konzepte. Ich finde jetzt ein Rotor per se einfach nicht so dolle,
+weil ich eher aus der Lüftung nahe komme, weil das ein anderer Punkt ist. Wir nehmen
+Arbeit und sehen, die ändert irgendwie den Druck, das ist Druckänderungsarbeit. Ganz
+kurzer Exkurs an der Stelle, wir werden Druckänderungsarbeit auch anschauen, den Hauptteil werden wir
+aber im Bereich der Volumenänderungsarbeit machen. Behalten Sie das aber bitte im Hinterkopf,
+denn es gibt genau einen Einsatzfall, wo Druckänderungsarbeit relevant ist und das ist genau hier beschrieben.
+Druckänderungsarbeit, vor allem
+in durchströmten Systemen, weil ich einen Druck
+am Anfang
+meines Systems
+und einen Druck am Ende
+meines Systems habe. Und das muss ich mir genauer
+anschauen. Da wird es relevant.
+Wenn durchströmte Systeme da sind,
+wenn irgendwelche induzierten
+Fließbewegungen, also ich knall ein Ventil auf
+oder so, dann habe ich auf einmal
+Druckänderungsarbeit. So, elektrische
+Arbeit der Vollständigkeit halber,
+auch das gibt es. Hier wird
+Arbeit in elektrische Arbeit
+umgemünzt, die kann nachher
+nochmal in thermische Arbeit umgemünzt werden.
+Das Wichtigste ist,
+dass wir hier sagen können,
+das Ganze,
+also Energieform Arbeit
+ist nur dann da, wenn sie über die Systemgrenzen
+tritt. In einem System,
+und das ist wichtig, dass wir das
+annehmen, natürlich haben
+wir im System auch Arbeit.
+Habe ich eben schon das eine oder andere Mal veranlasst.
+Dissipation ist so
+ein Wort. Dissipation
+beschreibt, die innere Reibung. Mal ganz grob vereinfacht. Wir gucken uns hier die innere
+Reibung anekdotisch an. Wir werden mal draufschauen, was das heißt für das System, aber eigentlich
+beachten wir es nicht. Dann gilt genau dieser Satz. Dann kann Arbeit nur so dargestellt
+werden, dass sie über die Systemgrenze geht. Energieform Arbeit nur in Erscheinung, wenn
+sie über die Systemgrenze geht. Hier sieht man außerhalb des Systems, hier außerhalb
+des Systems, hier außerhalb des Systems. Das heißt, an der Stelle ist es aber auch
+keine Zustandsgröße, sondern eine Prozessgröße. Was heißt das? Eine Prozessgröße beschreibt
+einen Prozess. Eine Zustandsgröße beschreibt eigentlich etwas im Gleichgewicht. Die Änderung
+einer Zustandsgröße könnte ein Prozess beschreiben. Aber die Zustandsgröße beschreibt
+Prozessgröße beschreibt, was ändert sich am System.
+Und tatsächlich wird es dann Eberaufgabe sein, auf Schrecke von dieser Vorlesung immer mehr Prozessgrößen zu bekommen
+und Änderungen von Zustandsgrößen daraus abzuleiten oder genau anzunehmen.
+Wie soll ich das jetzt zweimal?
+Achso, gut.
+Das ist mit abgedruckt.
+Ich denke, da brauchen wir keine große Erklärung zu.
+Fürs Nachlesen einfach nochmal schauen, ob alles verstanden wurde.
+Aber ich denke schon.
+Jetzt machen wir mal einen kleinen Exkurs.
+Und zwar Arbeit.
+Was ist das eigentlich?
+Und wie kann man es analog richtig anschauen?
+Das ist hier ein dunkler, dunkler, dunkler.
+Sehr gut.
+So.
+Wir schauen auf folgendes System.
+Einmal gucken wir uns die Einheit an, das ist Joule bzw. Newtonmeter, das ist nichts Neues.
+Joule pro Kilogramm, das sind die Definitionen, die wir haben.
+Leistung, Arbeit pro Zeit und damit in der Einheit Joule pro Sekunde.
+Das sollte Sie jetzt alle nicht überraschen und wenn Sie es überraschen, dann merken Sie es einfach.
+Wie könnte ich jetzt das hier beschreiben?
+So, dieses kleine Fahrzeug hat festgetackerte Rollen, das heißt, es reibt nur.
+Wenn ich jetzt dieses Ding hier rüber bewege, zum Beispiel mit einer Feder, was passiert da?
+Es reibt nur.
+Wir zeichnen es einfach mal hin.
+Guck mal, ja.
+Kriege ich das jetzt in der Kleidung? Gar nicht.
+Okay.
+Das ist ja schön.
+Feder, die sei jetzt eingedrückt. Hier ist unser S1, hier ist unser S2.
+Die Feder ist in der Lage, genau bis S2 zu schieben und dann ist sie voll ausgefahren.
+Jetzt wissen Sie alle, wie definiert sich die Kraft von einer Feder.
+Da haben wir D mal X, das ist die Standardformel, beziehungsweise hier für uns, wir haben S
+und wir haben irgendeine Konstante mal S.
+Heißt, wenn sich dieses gute Stück genau hier befindet, ist es wieder weiter ausgefahren
+über den Weg, den ich da gegangen bin,
+hat sich eine Verringerung meiner Federkraft,
+das ist eigentlich ein anderes Reminustest,
+aber das ist egal, ausgeführt.
+Wenn ich das jetzt mal an einem Diagramm auftrage,
+hier, Kraft, rüber, Strecke, liegt.
+Hier sei mal S1, hier sei mal S2.
+Wie verläuft die Kraft?
+Wie verläuft die Linearabfall?
+Ist das richtig? Ja, nein. Kraft ganz doll zusammen. Viel Kraft. Fehler ausgezeigt. Keine Kraft. Wie ist es dazwischen?
+Sehen Sie hier irgendeinen Quadrat oder ein 1 durch? Nein? Gut. Lineare Gleichung. nx mal plus b. Sie erinnern sich vielleicht.
+Ich glaube, das ist eine Klasse oder so. Also ich weiß, das ist ja einmal unter.
+Wir haben also eine Kraft an der Stelle 1 und wie groß ist die Kraft an der Stelle S2?
+Dann ist die Feder ausgefahren und ab da ist die Federkraft nicht mehr vorhanden.
+Das heißt also, wir haben ja einen Punkt hier oben, jetzt müssen wir ein bisschen auf
+Wir haben einen Punkt hier unten oben und wir haben einen Punkt hier unten und die Federkraft nimmt mehr.
+Jetzt die Frage an Sie. Sie erinnern sich an meine schuldige Diagramm aus der letzten Woche mit Geschwindigkeit über Stoffmenge, was Sie am besten Fall einigermaßen auslinearisieren.
+Wie berechne ich jetzt welche Arbeit?
+Respektive, wie kann ich das
+in dem Diagramm visualisieren
+genau, das ist die Integralfläche
+das heißt, das hier ist nichts anderes
+als die Arbeit
+die diese Feder verrichten kann
+schreiben wir es ruhig dazu
+das hier ist die Feder
+So, jetzt habe ich aber eben noch was anderes gesagt, nämlich, diese Kiste hier hat keine
+Reifen, sondern, ich hoffe, dass mir keiner wüsste, mein Sohn hat mir letztes Mal wieder
+so ein Witz erzählt und ich konnte nicht anders als lachen, was macht man mit einem
+Bein um die Runde, man zieht um die Häuser, passiert hier nichts anderes, die Reifen funktionieren
+halt nicht. Und war der total doof? Dann muss ich den noch ganz laut erzählen. Also, Comedy.
+Was macht man mit einem Hund ohne Beine? Man zieht mit ihm um die Häuser. Das ist hasseböse.
+Gut, der kommt ja nicht von mir. Ich gebe ja nur wieder, was die Jungs in der neuen
+Klasse so erzählen. Ich will ja nichts anderes erzählen. Lass mal das aufziehen vor, diese
+Details. Das Ding hat also auch noch eine Reibung. Jetzt die Frage vielleicht, jetzt haben wir keine
+Fahrzeugtechnik dabei, aber eigentlich wissen Sie das alle auch. Wie definiert sich denn Reibung?
+Reibung ergibt sich nur über die Normalkraft. Das heißt, unsere, ich nehme das Grün an,
+Reibkraft ist gleich der Normalkraft.
+Das ist jetzt übrigens hier nur für uns für jetzt.
+Es wird irgendwann noch ganz viele andere Cs geben.
+Es wird einfach nur was von unserem Reibbeiwert.
+So, was heißt das jetzt, wenn wir das über S auftragen?
+Auf dieser hält sich die Leibkraft über die Strecke von S1 nach S2.
+Die Kraft, Bodenwerk.
+die ist konstant
+die ist immer gleich
+egal wo ich bin auf meiner Strecke
+die Reibkraft ist immer gleich
+jetzt machen wir folgendes
+jetzt zeichnen wir das einfach auch mal an
+wir haben also über die Strecke
+eine konstante Reibkraft
+Und natürlich wird hier auch Arbeit verrichtet.
+Das worauf ich hinaus will kommt jetzt. Für dieses System, ich habe diesen Knopf, den ich mit dem Marketer nach vorne schieben würde.
+wird. Wie weit wird sie nach vorne geschoben? Wir können es am Diagramm lesen. Genau an
+der Stelle haben wir ein Gleichgewicht zwischen der Reibkraft und der Federkraft. Und was
+passiert, wenn im Gleichgewicht die Kiste steht? Lassen wir jetzt mal Massenbeschleunigung
+außen vor. Aber grundsätzlich, Ende Kraft, Stillstand. Das heißt, wir können hier nicht
+nur in dem System rauslesen, was ist unsere
+Federarbeit, was ist unsere Reifarbeit,
+sondern wir können auch rauslesen, was ist
+eigentlich die Nutzbarbarkeit.
+Weil hier hinter, wenn sich
+nichts mehr bewegt hat, war keine Nutzbarbarkeit.
+Zeichnen wir das also ruhig auch mit ein.
+Und das ist das, was wir eben schon gemacht haben.
+Wir können diese Arbeiten natürlich über das Integral der Kräfte definieren.
+Wurde ich eben schon mal antwortet, brauche ich eigentlich noch einen.
+Das ist etwas, auch hier klare Anforderungen,
+Stichstrich bitte, Stichstrich machen wir es halt.
+Verstehen.
+Das Verstehen und Mitnehmen.
+Warum habe ich hier, wenn ich unterschiedliche Arbeiten in ein Diagramm einseite, warum kann ich die Fakten sofort auslesen, was dabei dann die Nutzer haben?
+Genau das werden wir nämlich die nächsten Wochen, respektive bis in den Januar hinein, in meinem Fachstück immer wieder machen.
+Denn ich komme zwei Wochen später noch mal in Ordnung.
+Deswegen musste ich auf die Farben gucken.
+Das ist tatsächlich etwas, da auf jeden Fall hinterher gehen.
+Weil wir das immer wieder machen.
+Wir werden unsere Arbeiten bestimmen, indem wir auf Diagramme gucken.
+Wir werden unsere Nutzarbeiten bestimmen, indem wir auf Diagramme gucken.
+Wir werden unsere Wirkungsgrade bestimmen, indem wir auf Diagramme gucken.
+Wir werden in Kreisprozessen uns über Kreisdiagramme anschauen,
+was ist eigentlich nachher an zugefügter Arbeit in dem Gesamtprozess
+und was ist an zum Beispiel abgeführter Wärme.
+über den Gesamtprozess. Das jetzt erstmal nur kraftüberlegt, das ist das, um Arbeit darzustellen, nichts anderes.
+So, jetzt übersetzen wir das aber mal ein bisschen. Und zwar gucken wir uns dieses System an.
+Hier ist ein bestimmter Druck, ein Überdruck.
+Was passiert mit dem Kolben?
+Der Kolben wird von einer Stelle 1
+zu einer Stelle 2 wandern.
+Ich nehme jetzt einfach mal hier die untere Seite.
+Die können wir ja einfach mal gleich benamen.
+Und wenn wir uns die angucken, eigentlich relativ simpel, wir haben schon festgestellt,
+die Arbeit definiert sich als Integralkraft über die Strecke.
+Das haben wir eben gemacht. So haben wir gerade mechanische Arbeit mitgenommen angeguckt.
+Schauen wir mal rein.
+Die Kraft in diesem System, wie ist die definiert über den Druck und die Fläche?
+Heißt, wir haben eine Formel, die auf einmal lautet, Integral p mal a ds.
+So, jetzt aber die Frage. Eine Fläche über eine veränderte Strecke. Was ist das?
+Ich kann mir mal vorstellen, wir haben eine Fläche.
+Und diese Fläche, wenn die einigermaßen mal betrachtet wird, ist es eine Fläche.
+Wenn ich die jetzt über eine Strecke auffahre, was habe ich dann?
+Genau. Das heißt, ADS ist nicht nur eine Diagnose, Entschuldigung, das war jetzt ein Scheißscherz,
+sondern es ist auch eine Umformung von Integral-PDV.
+Den hatte ich noch nicht.
+Den hattest du jetzt vielleicht geschlagen, aber der ist mir eben gerade durch den Kopf gegangen.
+Es tut mir leid.
+Es gibt Menschen, die sagen, ich bin manchmal verrückt.
+Das ist das, was wir haben. Druck über Volumen.
+Und das ist, wenn man mal ein bisschen kurz nachdenkt, was heißt denn das eigentlich?
+Finden wir irgendwelche Analogien? Ja, wir finden Analogien.
+Und da bin ich wieder bei meinem schon geliebten Luftballon.
+Ich habe ein Volumen, das steht unter Druck und da ist eine bestimmte Energie drin.
+Wenn ich das Ding aufmache, dann entweicht die Energie, es weicht auf die Luft, aber vor allem entweicht einfach mal die Druckenergie.
+Wenn wir das jetzt einsetzen, kommen wir hier unten auf eine schlimme Zusammenführung, denn Änderung der Arbeit,
+und jetzt kommt eine Definition, die wir uns angucken müssen, was passiert denn mit der Arbeit in diesem System?
+Wird die ins System reingesteckt oder wird die aus dem System rausgeholt?
+Also ich sehe keinen, der da noch die Arbeit reinsteckt.
+Da rührt keiner, da packt keiner Strom dran oder so, sondern es ist einfach Druck da.
+Das Ding hat eine Expansion und während der Expansion wird Arbeit vom System abgegeben.
+Daher kommt diese Definition.
+Und das ist jetzt tatsächlich einfach nur Mathe.
+Das heißt, über eine Volumenvergrößerung, wenn ich das Vorzeichen nicht setzen würde,
+hätte ich auf einmal eine positive Arbeit, das kann nur falsch sein.
+Also die Arbeit wird abgegeben und dadurch dem System entzogen.
+Und daraus resultiert das Minus.
+Die anderen Zusammenhänge haben wir da oben schon dargestellt.
+Wo kommt das Ganze her?
+Das hier ist nichts anderes als dv.
+Und das können wir hier unten als z.
+Hierzu fragen.
+Passt, ne?
+Wir haben auf einmal eine Übersetzung von
+mechanischer Arbeit.
+mal S, Druckarbeit, Volumenänderungsarbeit, P-Faktor, P mal V. Wenn man sich das jetzt
+anguckt, wir machen einfach genau das gleiche, wie wir das eben schon hatten. Wir haben einen
+Druck 1, wir gucken einfach mal nur die Arbeit an P1 und jetzt passiert folgendes, wir haben
+ja hier in dem System eigentlich zwei Druckungen. Wir haben hier einen Druck, hier hinten einen
+Überdruck und hier haben wir natürlich einen normalen Umgebungsdruck. Hier haben wir also
+P0 und hier haben wir P1. Das heißt, wir gucken uns das System eigentlich nur an von
+P0 bis P1. Wir werden gleich sehen, warum das relevant ist. Eigentlich, wir kennen ja
+den Zusammenhang, den haben wir ja dargestellt, der sieht ungefähr so aus. Für unseren Band
+ist aber hier und heute nur dieser Bereich. Wenn ich darüber jetzt alles das Integral
+Dann bekomme ich natürlich das hier raus.
+Das wäre so nicht ganz richtig, vermute ich mal.
+Wir haben nämlich einmal die Arbeit, die als Volumenänderungsarbeit gemacht werden muss
+und wir haben die Arbeit, die von der Umgebung aufgenommen wird.
+Was heißt das jetzt? Wenn man sich das Ganze genauer anguckt, minus Integral pdv von 1 nach 2, der Druck ändert sich ja.
+Mein Außendruck über diese Grenze bleibt aber ja gleich. Also nur das hier ist ja mein v1 und das ist mein v2.
+Ich gucke mir das gleich an.
+Wie ist eigentlich meine Arbeit?
+Hier rüber.
+Auch das ist ja eine Arbeit, die gemacht werden muss.
+Schreiben wir das gleich mal zusammen.
+Ich denke, das ist auch
+jeden soweit einleuchtend.
+Danke.
+Eben soweit einleuchtend.
+Wenn ich das Integral,
+P0 bleibt gleich über das gesamte V,
+dann kann ich das natürlich einfach als
+normale, einfache
+Konstantin-Funktion schreiben.
+Was ist das für ein Anteil?
+Das ist im Grunde der gleiche Anteil,
+den wir eben bei der Werbung hatten, den können wir natürlich auch eins rechnen.
+P0, V1, V2, das hier ist jetzt unsere Umgebungsarbeit.
+Das Rote haben wir eben schon dargestellt.
+Das ist unsere Volumenänderungsarbeit.
+Und das, was ich rauskriege, das ist das hier und das kennen wir schon aus der Darstellung
+eben.
+Das ist unsere Nutzarbeit.
+Auch hier so weit der Korb, wenn sich dieser Kolben verschiebt, natürlich verschiebt er sich nicht bis ins Unendliche, sondern nur so weit, wie der Umgebungsdruck aus dem Inneren bleibt.
+Das heißt aber auch, bei unendlich hohem Druck habe ich trotzdem nur ein Delta P, was ich beschreibe.
+Sie sehen aber schon ein bisschen an der Kurve, vielleicht fällt Ihnen das auf.
+Volumenänderung und Druck verhalten sich so, dass sich bei kleineren Autos, also Delta-Frauen,
+Warum hat er so viel Vorhaut, und dann ist er weg?
+Das ist ein bisschen faszinierend.
+Wenn er so viel Vorhaut hat, dann ist er weg.
+Wenn er so viel Vorhaut hat, dann ist er weg.
+Wenn er so viel Vorhaut hat, dann ist er weg.
+Wenn Sie aber, keine Ahnung, in so einem Reagenzglas,
+das ist ja schon vor Ort, ich bin ja schon in der Prankgarde, ich bin schon in der Taufe, ich weiß nicht, wie man das macht.
+Das ist ja gut.
+Wir vergleichen, wie sieht das Ganze hier aus, f mal s, wie sieht das Ganze hier aus, minus pdv.
+Und jetzt kommt noch ein Punkt, wir sprechen natürlich auch von unterschiedlichen, ich habe das letzte Mal auch schon gesagt.
+Wir werden jetzt noch einen kleinen Exkurs in die normale Physik machen, was ist denn eigentlich ein inexaktes Differenzial, was ist ein exaktes Differenzial, was ist ein Delta.
+Hier steht ja mal ein inexaktes und mal ein exaktes Differenzial.
+Weiß einer von Ihnen, wo der Unterschied ist?
+Da darf man sich durchaus aufschreiben.
+Da gibt es nämlich noch eins zu, und das ist das Delta.
+Delta, na, wir fangen andersrum an.
+Dieses kleine d, das da.
+Kommt das eh auf der nächsten Folie? Das kommt eh auf der nächsten Folie, alles gut.
+Und was ist das hier?
+Mensch, spannend.
+Ah, weil ich es schon mal hingeschrieben habe.
+Alles schön.
+So.
+Die Volumenänderungsarbeit
+hängt vom Verlauf der Zustandsänderung an.
+Das heißt, ich habe irgendwie eine Richtungsabhängigkeit.
+Wenn ich das aber nicht weiß,
+wie sich die Richtung ändert,
+dann habe ich das vollständig inexakte Differenzial
+mit diesem chronischen D.
+Ganz wichtig ist das hier.
+Das heißt für C, die gleiche Formel gilt in die eine und die andere Richtung,
+aber mit dem Hintergrund, Sie haben wirklich noch überhaupt keine Ahnung.
+Das heißt auch ein Vorzeichen wäre an der Stelle komplett falsch.
+Wir vergleichen. Hier haben wir kein Vorzeichen.
+Weil in der mathematischen Definition inexakt, ich weiß noch überhaupt nicht,
+wie mein Arbeitsverlauf ist
+aber ich weiß schon, dass die Summe der Arbeiten
+äh, nein, dass die Änderung der Arbeit
+gleichbedeutend mit der Summe der Einzelarbeiten sind
+das andere steckt im Integral ja auch nicht drin
+nächster Schritt
+Fahrtabhängigkeit
+wenn ich jetzt den Pfad weiß
+ich weiß in welche Richtung ich gehe
+dann bin ich beim normalen D
+Schritt zurück
+hier weiß ich
+wie die Richtung verläuft
+nämlich Volumen wird größer
+die Pfadabhängigkeit
+mein V ist auf einmal bestimmt
+in der Richtung
+noch nicht im Wert
+nur in der Richtung
+es geht von kleiner nach größer
+dann kann ich auf einmal hier
+ein bestimmtes Differential nehmen
+mit dem D
+nicht mit dem Delta
+also mit dem
+Griechisches D
+ich weiß gar nicht, ob das ein eigener Buchstabe ist
+Ich glaube, es ist das griechische.
+Kleine Welter und das andere ist das große Welter.
+So.
+Im Grunde steht das dann so drin.
+Gucken Sie sich nochmal an.
+W ist keine Zustandsgröße, eine Prozessgröße.
+Auch das hat man schon gesagt.
+Aber auch deswegen, weil ich W erst dann bestimmen kann, wenn ich den Prozess kenne.
+Eine Zustandsgröße kann ich einfach so bestimmen, aus dem Offen.
+Eine Prozessgröße kann ich erst dann bestimmen und kann erst dann aus einem Inexakten ein exaktes Differenzial machen,
+wenn ich weiß, in welche Richtung sich mein Prozess bewegt.
+Hier auch nochmal visualisiert und dann nochmal ganz klar das Delta, großes Delta, wann benutzt sich das?
+naja, im Grunde ist es einfach nur
+eine geringer werdende Abstraktion
+dieses komische kleine Delta
+hier unser Ölfreund da
+wenn ich überhaupt nicht weiß
+in welche Richtung es geht
+wenn ich noch gar nichts davon weiß
+aber ich weiß, dass ein Zusammenhang besteht
+dann das D
+wenn ich den Pfad als Richtung kenne
+aber noch nicht mehr
+das Delta
+wenn ich die Werte kenne, über die ich integriere.
+Das heißt, in dem Moment, wo ich das hier auflöse,
+und weiß,
+und weiß, V1 ist gleich 1 Kubikmeter,
+und V2 ist 2 Kubikmeter,
+dann können wir auch
+Delta V bestimmen
+Delta V ist
+ein Kubikmeter
+aber erst dann
+bitte im Hinterkopf behalten
+weil ich die nächsten
+bis zum Ende des Kurses
+wird immer wieder
+mal diese Herangehensweise
+mal diese Herangehensweise
+und mal das Delta V
+weil ich nun mal
+entweder generisch beschreibe
+oder die Fahrtrichtung schon weiß
+und dann mit einem normalen D schreiben kann
+oder mit Werten rechnen.
+Und dann schreibe ich ein Delta.
+Auch das, Erfahrungsbericht,
+mitnehmen.
+Und wenn Sie danach noch eine Frage haben,
+ist auch gut.
+Ich würde den gerne weiter runter machen,
+aber dann geht es mir so zurück.
+Das tut mir leid.
+Gut.
+Viertel nach.
+Wir machen eine...
+Was haben wir denn?
+Wir rechnen die noch gemeinsam.
+Oder brauchen Sie gerade eine Pause? Zu viele Ds und Deltas und alles.
+Es wird nur dann heißen, dass wir gleich damit wieder einsteigen.
+Also ist es Ihre Entscheidung.
+Rechnen, nicht rechnen. Wer ist bei Team Rechner?
+Alles klar. Also alle bei Team Rechner.
+Ich mag Regels früher, die einfach sagen, was das ist.
+Also, wir haben folgendes Beispiel. Eine Fahrradgruppe.
+Und das müssen Sie jetzt leider ein bisschen verstehen.
+Ich finde die Aufgabenstellung nicht gründlich. Ich habe sie nicht verhindert.
+Man könnte sie vielleicht eindeutiger machen.
+Also die Fahrradpumpe ist mit Gas gefüllt, ein Bar drin, 300 K, also irgendwas um Raumtemperatur.
+Wir haben die spezifische Gaskonstante, die ist glücklicherweise gleich gegeben.
+Das ist sehr schön für uns.
+Und die Frage ist, das Radventil öffnet bei einem Druck von 1,5 Bar.
+Ich habe also diese Luftpumpe, die 1 bar drin hat.
+Ich schiebe die jetzt zusammen.
+Und ich gucke mir genau den Moment an, wenn die 1,5 bar erreicht wird.
+Das heißt, wir haben zwei Zustände. Zustand 1, 1 bar. Zustand 2, 1,5 bar.
+Wir hatten beim letzten Mal eine irre lange Diskussion, wie man das genau bestimmen kann.
+Wir sind hier in der technischen Physik.
+Hier muss man es nicht genau bestimmen, sondern man nimmt einfach an, dass genau dieser Fall da ist.
+Weil das ist jetzt so ein, wie exakt ist 1,5 bar? Lassen wir die Diskussion.
+Das sind also die beiden Zustände. Schreiben wir es ruhig dazu.
+P1 1 bar und P2 1,5 bar.
+Dann schaltet sich das Ding schon gleich weiter, das ist doch super.
+So, wie rechne ich das Ganze jetzt aus?
+dann nutzen wir im Grunde das, was wir uns schon alles schön beigebracht haben, nämlich
+wir können ja das Volumen in 1 bestimmen
+und wir können das Volumen in 2 bestimmen
+irgendwo steht auch noch Isotherm, hier steht auch noch Isotherm
+das ist die nächste wichtige Ansage
+das bedeutet nämlich nichts anderes als T1 ist gleich T2
+und wenn man sich das genauer anguckt
+können wir hier natürlich eine Verhältnismäßigkeit aufstellen.
+Wir setzen ins Verhältnis V1 zu V2, kommen zu V1 zu V2,
+mLs mal T mal P1 durch P2 und V1 genau der Kehrwert mit den anderen.
+Jetzt können wir aber glücklicherweise schon sagen,
+okay, geschlossene Systemmasse bleibt gleich.
+Ideales Gas, Gaskonstante bleibt gleich.
+Die Isotherm-Temperatur bleibt auch gleich.
+Das ist für Sie auch okay, wenn ich das dann einfach ausstreiche bei solchen Sachen.
+Also auch da hatte ich schon das eine oder andere.
+Gut, relativ selbsterklärend, das heißt, ich kriege vom Zusammenhang die beiden Volumina direkt über die beiden Drücke.
+Und das bedeutet natürlich nichts anderes als, wir haben 1 zu 1,5 mal 1 Liter, das ist nämlich das, was drin ist.
+So. Und das sind 0,06 Liter.
+Gehen alle mit? Der Weg ist relativ einfach. Was ist mein Zustand 1? Was ist mein Zustand 3?
+Und das ist tatsächlich, wieder Runde dazu aufzukönnen, das sind tatsächlich einfach die Klassiker.
+Das sind die Standardfragen. Wir haben Zustand 1, wir haben Zustand 2.
+Womit unterscheiden die sich überhaupt?
+Und das ist nicht ganz so schlimm wie Lückentext,
+aber in den Arbeitsanweisungen steht eigentlich immer alles drin.
+Also auch da schärfen Sie Ihre Sinne, hier rauszulesen, was da eigentlich steht.
+V1, also im Grunde eine Übersetzungstabelle aus Text zu Formeln.
+V1, P1, T1, R, S, P2, T2.
+Das ist das, was da alles sofort drin steht.
+Je schneller Sie da sind, desto besser kommen Sie nachher in den Aufgaben durch.
+So, Teil 2, welche Volumenänderungsarbeit, die haben wir jetzt schön hier entleitet, das ist das Gute,
+wird da umgesetzt
+wenn wir uns das genauer angucken
+p ist ja
+eine Funktion von v
+und zwar relativ einfach
+wir wissen nämlich wie p von v
+sich verhält
+weil wir ja für jeden Einzelzustand
+in unserem Integral
+über das wir integrieren
+darstellen können
+wie groß der Druck ist
+wenn ich das jetzt
+in dieses
+Integral einsetze,
+und jetzt wird es halt interessant,
+habe ich auf einmal die Möglichkeit,
+die drei
+sind ja für das Integral komplett irrelevant,
+kann ich rausziehen.
+Ich habe also ein 1 zu V dV
+und jetzt wird es ein bisschen cool
+weil ich das hier
+ja auch nochmal umformen kann
+das ist ja nichts anderes
+die sind ja genauso wie hier oben schon konstant gewesen
+ich habe also ein
+V1, V1, wofür ich alle Werte kenne
+das ist wieder die idealen Glasbleichen
+und habe auf einmal alle Werte zusammen, die ich brauche.
+Vielen Dank.
+zwischen wo schreibe ich selber und wann schreibe ich besser nicht mehr selber, denn Sauglamour
+gegenüber gutem Font. Hier wird es dann irgendwann erfahrungsgemäß etwas schwierig, meine Handschrift
+zu verlieren. Ist nicht Faulheit, sondern ist einfach ein, ich tausche an der Stelle
+das Konzept. Wenn ich jetzt diese Formel nehme und das Integral bilde, dann komme ich genau
+hier hin. Ich hoffe, auch das ist jedem soweit klar. Wenn nicht auch nicht, dann packen Sie
+in Ihre private Formel
+dann so ein paar Dinge dazu.
+Zum Beispiel Integral
+von Kern her.
+Also 1 durch x dx
+werden wir immer wieder brauchen.
+Da müssen Sie
+schnell sein.
+Da muss ich groß nachgucken,
+weil ich einfach immer wissen möchte,
+wann Sie das Ganze machen müssen.
+Irgendwann kommen auch so Dinge, wie ich multipliziere
+die Logarithmen.
+Gucken wir uns auf die Strecke an.
+So, wenn ich das also ausformuliere, komme ich auf relativ einfachen Zusammenhang.
+Wir setzen uns jetzt nämlich ein, minus 1 mal 10 hoch 5 mm hoch Quadraten, danke,
+hoch Quadraten, Volumen, mal 1 mal 10 minus 3 Kubikmeter.
+Dann habe ich den natürlichen Logo-Rhythmus von 2 Drittel und komme auf eine Arbeit von ungefähr 40,5 Joule.
+Auch hier relativ klar, was bleibt übrig?
+Newton bleibt übrig, 1,2 Meter bleibt übrig, Newton, Meter und Joule sind exkluverent.
+So, die folgende Frage ist jetzt vielleicht erstmal an Sie.
+Hier steht, welche Volumenänderungsarbeit verkehrt das Gas?
+Und dann, welche Arbeit müssen Sie dafür aufbringen?
+Wo ist denn da der Unterschied?
+Ja, haben wir uns eben bei der Herleitung angeguckt.
+Wir haben die Volumenänderungsarbeit und wir haben die Umgebungsarbeit.
+Natürlich ergibt sich das, was wir aufbringen, mit so etwas, was wir haben,
+oder eben mehr.
+So, heil also, unsere Nutzarbeit ist nicht einfach nur die Volumenänderungsarbeit.
+Das ist falsch.
+Sondern sie ergibt sich aus der Volumenänderungsarbeit und der Umgebungsarbeit.
+Das haben wir jetzt alles vorhin auch schon gemacht.
+Das hier? Das ist die Nutzarbeit und die ist nicht gleich der Volumenänderungsarbeit.
+Also ja, wir nutzen.
+Naja, das ist, Entschuldigung, das ist, wir rechnen es auf, die kannst du gerne nochmal machen.
+Das ist die große Frage.
+Also, wir haben hier die Volumenänderungsarbeit ausgerechnet.
+Also ich nehme meine Luftpumpe und schiebe das ein.
+Das ist die Volumenänderungsarbeit.
+Jetzt die Frage, ist die Nutzarbeit, also das, was ich wirklich an Arbeit aufbringen muss,
+ist das eher mehr als meine Volumenänderungsarbeit, weil ich dann die Umgebungsarbeit auch noch aufbringen muss?
+Oder ist das eher weniger als meine Volumenänderungsarbeit, weil mir ja die Umgebungsarbeit quasi hilft?
+Frage an die Lobby.
+Okay, Zeit für Pause und dann wieder Lobby.
+Nehmen Sie die Frage mal mit und wir lösen den Breitraum.
+In Anbetracht der Zeit wollen wir ein bisschen weniger machen und 10 Minuten mehr machen.
+Ein kleiner Lehrinhalt, kommt immer ein bisschen drauf an, wo ich eigentlich welche Prozessänderungen mache, die dann sehr viel Arbeit, wenig Arbeit, wie auch nichts.
+So, wir legen jetzt ein bisschen Gas zu, weil die nächsten Dinge relativ selbst erklärt.
+Das Thema Reversibilität, E-Reversibilität. In der Meinung, so vom Kurs, was ich bisher mitkriege, auch wenn das mit dem Sprechen, also da muss man verglichen sein,
+Natürlich haben wir bestimmte Drehbewegungen, die z.B. überhaupt arbeiten, die wahlweise reversibel oder irreversibel sind.
+Wenn ich ganz grundsätzlich etwas drehe, gebe ich natürlich eine Ausweisung mit einer Gleiterleistung mit rein.
+Eine Drehbewegung durch eine Vibration.
+Ich nehme den Fall, ich stecke ganz viel Arbeit rein, dann drehe ich das Ding, die Kursionsfeder geht auf den Anzug, lasse los, was passiert ist, ich drücke den Rollstuhl zurück.
+Dreh der Siedler vorwärts.
+Anders, wenn ich jetzt so einen Rührer rühre, ich rühre und rühre und rühre und rühre und rühre, dann lasse ich den Rührer los und der Rührer dreht einfach 100 Mal in die andere Richtung, richtig?
+Nein, das heißt, so etwas ist ein klassisches irreversibles Verfahren.
+Aber ist das relevant? Das ist vor allem im Bereich von Kreisprozessen relevant.
+Wenn ich nämlich die Energie, die ich in einem Prozessschritt in meinen Prozess stecke,
+nachher wieder rauskriege, ist das natürlich für eine Energiebilanz gleich Null hilfreich.
+Ein vollständig irreversibler Prozess ist da relativ wenig hilfreich.
+Kann auch genutzt werden, gerade im Bereich Wärmeübertragung passiert das immer wieder.
+Aber nur mal so zur Einschätzung. Es gibt irreversible, es gibt irreversible.
+Je nachdem, was ich machen will, ist das eine oder das andere relevant.
+Das Ganze gibt es natürlich auch noch elektrisch, da mache ich jetzt aber nur einen kurzen Ausflug hin.
+Wenn ich jetzt hier so eine Winde mit dem Motor habe und den irgendwie antreibe,
+Natürlich bringe ich dann hier eine Speicherung in meine Batterie.
+Ich habe also eine elektrische Energie, hier eine elektrische Arbeit, die ich hier aufbringe.
+Was passiert dann? Hier wird irgendwas aufgeladen an meiner Karte unter Anode.
+diese Ladung ist da, wenn ich jetzt diesen Motor nicht mehr runterziehe,
+was kann durchaus gemacht werden mit der Batteriespannung, ich kann das Ganze wieder
+auch hochziehen. Das heißt, hier ist durchaus eine Reversibilität zwischen innerer Energie
+und der Arbeit da. Wenn ich jetzt einen Heizstab nehme, zweites Beispiel, ja, das Blöde ist,
+wenn ich jetzt Energie aufwende, um mein Wasser heiß zu machen, macht das heiße Wasser nicht
+mein Batterie wieder voll.
+Auch deutsch.
+Deswegen, kleiner Hint, gibt es oft bei großen Maschinen diese riesigen Schwungräder,
+weil die sind einfach so schön träge, dass die ganze Energie, die da mal reingesteckt wurde,
+dann auch wieder abgegeben werden kann.
+Also hier haben wir deutlich elektrische Energie, die in Wärme umgewandelt wird.
+auch hier Vollständigkeit
+so, wir gucken uns jetzt noch
+einen Schritt zurück an
+wir haben jetzt erstmal nur das System gesprochen
+mathematisch haben wir aber immer noch
+die Formulierung vom Gesamtsystem
+inklusive kinetischer Energie, potenzieller Energie
+das ist kein Problem
+Das haben wir jetzt aufgestellt.
+Änderung der Energie von Zustand 2 zu Zustand 1, die ergibt sich aus den unterschiedlichen Arbeiten.
+Gut.
+Die Energie selber, hier, hier ergibt sich aber natürlich aus der Systemenergie.
+Also innere Energie und den potenziellen Energie.
+Heißt also nichts anderes, wo hier das kinematische Energieeinheit im Z-Quadrat und M2R-Bestrahlung mal Z.
+Das ist die kinetische Energie.
+Darum lebe ich da Wert drauf, dass beide, wenn wir das komplett zusammenfangen, als eine einheitliche Gleichung,
+Vielen Dank.
+Vielen Dank.
+Angst davor kriegt, dass die nächsten Stunden daraus bestehen, dass ich hier stehe und abgedruckte Folien mit Formeln zeige.
+Diese Vorlesung noch, nächste Vorlesung noch.
+Ich werde dann immer mehr, in Anführungsstrichen, so ein bisschen auf Lüppentext bauen,
+dass Sie nicht alle Formeln abschreiben müssen, aber ich bin schon immer noch der Meinung,
+dass man ein bisschen mitdenkt und ein bisschen schreiben, was schreibt, bleibt.
+Ich mag den Satz, auch wenn er unglaublich nach alten, weißen, grauherren Männern klingt.
+Ich bin immerhin alt und weiß, bin ja auch schlussendlich.
+Demnächst auch grauhaarig.
+Kleiner Hinweis, es wird ein bisschen weniger, aber ich werde Sie immer wieder auch mit Schreiben beglücken dürfen.
+So, warum brauche ich das? Das ist jetzt die große Frage.
+Wir haben hier nichts anderes stehen, als die mathematisch-fundamentale, centrale Beschreibung vom ersten Hauptsatz,
+nämlich Energieerhaltung.
+Der erste Hauptsatz ist der Energieerhaltungssatz.
+Und der beschreibt hier nichts anderes als unsere zugeführten Arbeiten, unsere zugeführten Energien, Wärme und Arbeit.
+Die finden sich wieder in der Änderung der inneren Energie von meinem System, der Änderung der kinetischen Energie von meinem System und die Änderung der potenziellen Energie von meinem System.
+Jetzt habe ich eben schon gesagt, naja, das mit potenzieller Energie und kinetischer Energie werden wir gar nicht so viel betrachten.
+Das stimmt auch.
+Denn, wenn wir ein System haben, was sich komplett gleichbleibend bewegt, in gleicher Höhe bleibt,
+dann werden wir natürlich diesen gesamten Fall raus.
+Das ist gleich 0 bei sogenannten ruhenden Koordinatensystemen.
+Das heißt nichts anderes als, in unserer relativen Betrachtung, wir schauen uns diese Änderung von potenzieller und klinischer Energie nicht an, weil sie sich nicht ändert.
+Natürlich ist diese Energieform da für das System, aber in unserer Betrachtung taucht sie nicht auf.
+Einfaches Beispiel, wenn ich einen Motor nehme und ich betreibe den auf 2000 Meter Höhe, dann hat er da seinen Energieumsatz.
+Wenn ich jetzt anfange, den Berg runterrollen zu lassen, dann hat er für sich immer noch seinen Energieumsatz.
+Das wird dem Motor auch nicht so gefallen, wenn er das tut.
+Aber darum geht es hier nicht.
+Es geht nicht darum, dass er da auf die, was haben wir hier, 700 Meter, wo man das denn dreht,
+dass er da die 1300 Meter an Energie gewinnt.
+Darum geht es nicht. Sonst geht es darum zu rechnen, was der Motor eigentlich tut.
+Gut, das heißt, für diesen Spezialfall haben wir dann das, was wir auch eben immer gesagt haben,
+Änderung der Arbeit und Änderung der äußeren Energien muss sich in der Änderung der inneren Energie widerspiegeln.
+Gut.
+Wir gehen jetzt noch in den Begriff der Wärme rein.
+Wir werden aber nicht mehr in den Begriff der Wärmekapazität und Entapir eingehen.
+Also was haben wir bisher gemacht? Wir haben uns vor allem die Arbeit angeschaut.
+Und jetzt schauen wir uns nochmal Wärme an.
+Im Grunde gleiche Herangehensweise, erstmal ganz grundsätzlich, was Wärme eigentlich ist.
+Und das muss ich auch immer wieder dazu sagen, es gibt, wir reden hier nicht von der Wärme, ist es warm oder ist es kalt.
+Wir reden nicht von Wärme, ich friere, sondern wir reden von Wärme als Energieform.
+und die gleiche Wärmemenge, die gleiche Energie kann bei minus 200 Grad Celsius zugefügt werden
+oder bei plus 200 Grad Celsius.
+Ich sage das auch so klar, weil die Fragen habe ich auch tatsächlich.
+Komm einfach manchmal, so ein Held, wieso kann da denn Wärme zugefügt werden, es ist doch kalt.
+Ja, das ist ja aber völlig scheißegal, es geht einfach um die zugeführte Wärme.
+Und die berechne ich einfach, das ist halt Joule.
+und ob ich jetzt 100 Joule bei minus 200 Grad Celsius nehme
+oder 500 Joule bei 1000 Grad plus,
+das ist die gleiche Wärmung,
+das ist die gleiche Energiegröße.
+So, das heißt aber, wir haben etwas, was sensibel ist,
+das können wir fühlen.
+Wir haben etwas, das ist latent
+und das können wir eben nicht fühlen.
+Was ist hier mit uns im Klima?
+Das eine war jetzt gerade,
+wir sprechen von Wärme als Energieform
+und nicht von Wärme als kalt oder warm.
+Kalt oder warm? Können wir messen. Thermische Energie, thermische Wärme, können wir also
+Delta T, können wir auch messen. In KW. Dafür nehmen wir Thermometer. Es gibt aber
+noch eine andere Wärme. Das habe ich in der letzten Woche auch schon erzählt. Das schöne
+Beispiel Kochtopf. Da wird die ganze Zeit Strom bei mich rum und es bleibt bei 100 Grad. Da wird also sehr viel
+Wärme, Energie umgesetzt, ohne dass ich ein einziges Grad messen kann. Und das ist mit der latenten Wärme
+gemeint. Das heißt, die ist nicht messbar am Thermometer, aber sie ist trotzdem da. Daher die Unterscheidung.
+Das eine ist messbar, das ist vielleicht auch fühlbar, das kann halt in warm oder kalt sich ausgehen.
+Aber wenn wir von Phasenübergängen sprechen, dann merken wir keine Änderung der Temperatur.
+Der Vollständigkeit halber, wie kann man das messen?
+wir haben, wer es weiß, die Kaliometrie oder natürlich auch wiegen. Ich kann ja dann die
+jeweiligen Gasanteile und die jeweiligen Phasenanteile wiegen. So, hier, also dann noch
+ganz kurz. Das darf? Also sowas frage ich nicht ab. Das ist mir zu schlimm. Okay, also es
+muss jetzt keiner auswendig werden, was Kalorimetrie ist. Ach, Kalorimetrie heißt es auch. Kalorie.
+So, noch schöner. Ich frage mich nochmal.
+So, jetzt haben wir aber, wenn wir sowas hier nehmen, die sensible, den sensiblen Prozess,
+also ich erhitze eine Flüssigkeit von Temperatur 20 Grad auf 100 Grad,
+Dann habe ich für solche sensible Wärmeüberführung eine treibende Kraft, die ist Delta T.
+Q ist proportional zur Änderung der Temperatur.
+Hier, was ist denn da?
+Die treibende Kraft in einem Phasenübergang.
+Da haben wir Q, ist in irgendeiner Art und Weise proportional zur Änderung der Dichte.
+Das werden wir uns im nächsten
+Blog angucken, wenn es um die
+NTHP geht. Also für heute
+akzeptieren wir die Lösung.
+So, schauen wir also ähnlich wie
+wir es eben mit der Arbeit gemacht haben, mal auf Wärme.
+Wenn ich Wärme einem System
+zuführe, was passiert dann?
+Dann passiert definitiv
+Arbeit. Hatten wir schon, also
+nichts Neues. Aber vor allem,
+wenn ich hier
+ein Gericht drauf lasse,
+ändert sich
+eine Temperatur.
+Wir haben eine Temperatur außen,
+wir haben eine Temperatur innen.
+Hier kann
+nur, also Temperatur außen ist jetzt
+übrigens das da, die Flamme.
+Wann wird Wärme
+in Energie übertragen?
+Wenn die Temperatur außen größer ist
+als die Temperatur innen.
+Ich denke, das ist für die meisten von Ihnen auch relativ klar.
+Jetzt ändert sich natürlich auch meine Innentemperatur in aller Regel.
+Das heißt, auch eine Temperatur innen 2 ist in aller Regel größer oder gleich der Temperatur innen 1.
+Also hier wird jetzt keine nötige Wärmearbeit, sondern die Wärme an sich bleibt da und das, was passiert, ist, dass die Temperatur sich ändert.
+Eigentlich auch selbstverständlich, das kennen wir aus dem normalen Leben.
+So, das gleiche gibt es jetzt auch in der Wärmeabfüllung. Das ist tatsächlich von der Nomenklatur, bitte merken.
+Wenn hier sowas kommt, das ist immer in, ich sage jetzt mal Thermodynamik-Darstellung,
+ist das immer ein sogenanntes Kältefeld.
+Das heißt, das ist irgendetwas, was nicht weiter, wir sind ja Physiker,
+wir können ja auf einmal Dinge definieren, die wir einfach mal annehmen.
+Das ist also irgendetwas, was dem System die Wärme punktuell entzieht und soll bis zu einem gewissen Grad.
+Klassischerweise ist das tatsächlich, wenn man mal von echten Systemen spricht, gibt es die Dinger da auch.
+Die heißen so dann anders. Die heißen so wie Kühlsysteme.
+Auch damit nichts anderes gemacht, als dass einfach Wärme abgezwungen wird.
+Warum hat so ein blödes Steuergerät unglaublich viele kühle Rippen?
+Weil da relativ viel Wärme weg ist.
+Gleiches.
+Heißt also, hier haben wir auch ein T-Außen und auch ein T-Innen.
+Die Wärmeabfuhr wird aber natürlich nicht anfunktionieren, wenn unser T innen größer ist als unser T außen.
+Tatsächlich gibt es ja noch die Benahmung von der Aktivierung des Delta-T, also wie viel Temperaturunterschied brauche ich überhaupt bis ein Wärmeübertragungsvorgang.
+dass der überhaupt startet, weil
+wenn Delta T die Treibende Kraft ist
+und die beiden sich immer näher annähern,
+dann hört einfach mal der Prozess auf.
+Aber das ist auch vermutlich selbst erklärbar.
+Auch hier haben wir natürlich ein
+T in dem 2
+ist die ganze Zeit über mindestens
+kleiner oder gleich
+weil hier die hohe Temperatur innen wird weniger. So, zwei Dinge, die wir uns angucken. Definition
+von Wärme. Energiemenge, die ohne Verrichtung von Arbeit übertragen wird, nennt man Wärme. Das heißt
+jetzt für dieses System übrigens auch, dass hier oben eigentlich keine Wärme, keine Arbeit
+stattfindet. Mein Fehler, ich habe das falsche Diagramm genommen. Keine Arbeit, wir stecken
+Energie rein, wenn es entsteht, keine Arbeit, dann habe ich Wärme. Auf der Seite hoffentlich
+relativ selbsterklärend, in dem Moment, wo dieses System Wärme abgibt, verändert es
+trotzdem keine Arbeit, verrichtet es trotzdem keine Arbeit. Also das ist die Wärme. Und
+Und dann ein wichtiges Wort, das hatten wir eben schon, ein adiabates System ist perfekt isoliert.
+Keine Lärmzubehör abgeführt.
+Das ist eine Vereinfachung, die wir machen.
+Muss man auch ganz klar sagen, natürlich gibt es das nicht.
+Kein System ist vollständig adiabat.
+Kein System ist vollständig isoliert.
+Es gibt Systeme, es gibt Stoffe, gerade so, wird wahrscheinlich dann auch ein Kollege in Hessen nochmal kommen,
+Es gibt so PT-Kunststoffe oder Schaumstoffe, Schaumgele, die haben wirklich unglaublich niedrige Durchgangskoeffizienz, aber auch die ertragen Wärme zu einem gewissen Grad.
+Also Adiabat ist ein Wort, das wir hier nutzen, immer im Hinterkopf, weil vollständig Adiabat gibt es eigentlich nicht.
+Jetzt gucken wir mal rein, Wärme ist jetzt ein bisschen befriedigend, wie verhält sich jetzt Wärme zu innerer Energie?
+Im Grunde das Gleiche, was wir eben schon gemacht haben.
+Wir haben ja schon bestimmt, Änderung der inneren Energie ist gleich Änderung der Arbeit und Änderung der Wärmemenge.
+Das heißt also dann, wenn wir das, wie gesagt, das ist jetzt alles nach Herleitung, wenn wir das annehmen, wir wissen jetzt, wie Arbeit liegen wird, wir wissen, wie Wärme definiert wird, wir wissen, dass sie gleich definiert werden kann, weil sie sich gleich untereinander umsetzbar ist.
+Das heißt, die Einheit von innerer Energie ist auch Joule.
+Die spezifische Einheit, kleines U, ist genauso, Joule pro Sekunde.
+Jetzt guckt man ein bisschen in die Abhängigkeiten, wie verändert sich die innere Energie.
+Das Beispiel eben, wir lassen den Freund hier oben wieder weg, wenn wir uns beide angucken, hier haben wir, der Kaku führt zu einer Änderung der inneren Arbeit, wenn ich etwas zufüge, ah, Entschuldigung, mein Fehler, das war jetzt anders gleichgesetzt.
+Hier gehe ich jetzt wirklich davon aus, das Ding erwärmt sich und der ist nicht festgesetzt.
+Das heißt, hier habe ich eine direkte Übersetzung von Wärme zur Arbeit.
+Haben wir schon? Jetzt haben wir schon. Wir haben uns Arbeit genauso angeguckt.
+Wärme kann in Arbeit übersetzt werden. Punkt 1.
+Wenn wir das Ding jetzt aber arretieren, haben wir einen Zusammenhang zwischen Wärme und innerer Energie.
+Worauf will ich hinaus?
+Die innere Energie ist also immer eine Funktion von der Temperatur, die sich ändert, und unserem Volumen, was sich ändert.
+Hier ändert sich die Temperatur, hier ändert sich das Volumen.
+Das ist ein V, kein W.
+Das ist richtig vom Verständnis.
+Denn wir wissen jetzt, innere Energie hat nicht nur was mit Arbeit und Wärme zu tun,
+sondern wir wissen auch, innere Energie beschreibt sich immer als eine Funktion aus Temperatur und dem Volumen.
+Die ist also eine Funktion von V und T.
+Und das Spezifische ist dann natürlich eine Funktion von spezifischem Volumen und T.
+Jetzt schreiben wir es noch mal dazu.
+das bedeutet aber auch
+und das werden wir nächste Stunde uns genauer angucken
+wenn ich die Annahme so treffe
+und ich will bestimmen
+wie sich meine innere Energie ändert
+dann kann ich das auch einmal
+indem ich ein doppeltes
+Konferenzial nehme
+einmal über das Volumen, was sich ändert
+und einmal über die Temperatur, was sich ändert
+und so langsam schließen sich die Kreise
+Wir haben angefangen, Arbeit zu beschreiben.
+Kommt aus der Mechanik.
+Wir haben dann Arbeit übersetzt in thermische Arbeit, in Verlum-Änderungsarbeit.
+Da taucht das Volumen auf.
+Dann haben wir einen weiteren Schritt kennengelernt.
+Was sind denn die treibenden Kräfte für zum Beispiel Wärmeübertragung, zum Beispiel Arbeit?
+und haben uns mal angeschaut, wie ändert sich das denn, wenn wir jetzt wirklich sagen können,
+die Änderung der inneren Energie ist damit gleichzusetzen,
+dann kommen wir auf nichts anderes und relativ Einfaches wie einen Zusammenhang.
+Die innere Energie von diesem System, ja, abhängig von Arbeit und Lernen.
+Aber ich kann sie auch anders beschreiben als Funktion von Volumen, ändert sich, kann man schon bestimmen,
+und Temperatur.
+für Temperatur haben wir auch schon was bestimmt
+es gibt nämlich diese ideale Gasgleichung
+einmal kann ich Dinge ineinander einsetzen
+und bin jetzt in der Lage
+noch nicht vollständig
+weil wir hier noch einen wichtigen Parameter
+und das ist die Wärmekapazität, noch nicht haben
+aber sobald wir die bestimmen können
+können wir auch sagen
+wie ändert sich die Temperatur
+und wenn ich diesen Teil der Funktion habe
+den Volumenteil der Funktion
+zack, den haben wir
+haben wir schon gemacht
+können wir schon integrieren.
+Jetzt brauchen wir noch den anderen Teil.
+Wie verhält sich die Funktion
+über die Temperatur?
+Einen kleinen Exkurs habe ich noch.
+Das stelle ich Ihnen
+schnell vor.
+Weil ich der Meinung bin,
+dass es eigentlich inhaltlich
+ein bisschen zu weit geht.
+Ich schlage immer mal wieder die Brücke
+zwischen technischer Thermodynamik
+und chemischer Thermodynamik.
+Es gibt nämlich durchaus eine Erklärung dafür, wenn wir die kinetische Goldfarbe haben.
+Ein Gas hat N Moleküle und jedes Molekül hat natürlich auch wieder eine bestimmte Energie.
+Aus, transnatorisch, rotatorisch, vibratorisch.
+Das ist jetzt nicht mehr das Große, wir haben auch sonst was.
+Sondern ein Atom hat keine Wärme.
+sondern ein Atom bzw. ein Molekül bewegt sich entweder unglaublich langsam und unglaublich wenig
+oder unglaublich schnell und unglaublich viel.
+Translation, Rotation, Vibration.
+Da gibt es dann tolle Beschreibungen dazu, da gibt es auch noch bestimmte,
+hier wieder Wolfsmann-Konstante, einer unserer großen Freunde,
+da will ich eigentlich gar nicht groß drauf ein.
+Nur dieses, ein Molekül hat ähnlich beschreibbar innere Energie.
+Und Sie werden sehen, bei unterschiedlichen Molekülen, dass diese Energie anders umgesetzt wird.
+Und da gucken wir jetzt mal drauf, das ist nämlich eigentlich insofern ein bisschen tricky,
+wenn wir uns jetzt ein einatomiges Gas am Publikum freiheitsfrei halten lassen.
+Ernsthaft? Sie sehen es? Drei.
+Alle drei Richtungen. Ob sich das dreht um sich selbst, scheißegal.
+Ob das in sich vibriert, eigentlich auch nicht egal, weil wenn es nicht nach rechts geht, wird es sich immer ausgleichen. Keine Frage.
+Anders sieht es aber aus, wenn ich ein Zwei-Atom-Effekt habe.
+Das kann sich nur nicht um die einzelnen Achsen jeweils drehen.
+Das heißt, hier aus drei Freiheitsgraden werden auf einmal sechs Freiheitsgrade.
+Das heißt, so ein großatomisches Molekül hat in aller Regel immer einen höheren Energieertragswert.
+Hier haben wir schön animiert, Animationen sind immer gut, habe ich mal gehört.
+Das Ding hat einmal dieses vibratorische, die können sich nämlich auch noch untereinander,
+voneinander entfernt etc.
+Und wir haben hier auf einmal einen Hintergrund, warum eigentlich großatomische Moleküle einen anderen Wärmeumsatz haben, einen anderen Umsatz für innere Energie, weil die ist komplett anders speichert.
+Kleiner Exkurs, wie gesagt, für mich ist das, was ich eben gesagt habe, einfach mal zum unterferner Riefen, zum Wissen, bis an jeden Freitagabend oder falls es jemanden wirklich interessiert, aber einfach tiefer abzusteigen.
+Und auch das ist nochmal eine klare Aussage von mir, das was ich hier Ihnen beibringe, das ist so das mit Ihnen.
+Das ist so das, was ich mit einigen Kollegen der Meinung bin, dass ein Ingenieur einfach mitnehmen muss.
+Und das hört sich, ich weiß, der Ruf von diesem Fach ist nicht unbedingt der beste.
+Es gibt Gründe dafür.
+Ich selbst habe tatsächlich die Hämmerung auch einfach nicht fanden.
+Ich fand es doof, als ich es lernen musste.
+Ich fand es dann nachher cool, als ich es bestanden hatte und anwenden konnte, weil dann macht es auf einmal, macht vieles auf einmal Sinn.
+Und so tragisch ist es eigentlich.
+Aber es ist halt viel technische Physik.
+Und eigentlich hat, man ist ja Ingenieur, wenn man kein Physiker ist.
+So ging es mir zumindest.
+Kein ganzes Nachvollziehen.
+Das, was ich hier beibringe, ist trotzdem so, dass der Minimum, das muss einfach sein.
+Das, was ich dann aber gerne als Ausblick gebe, ist, dass die Welt noch weiter geht.
+Also das Thema ist interessant.
+Da steckt unglaublich viel Musik drin. Wenn sie irgendwann mal in Richtung Kraftwerkstechnik gehen würden, wenn sie irgendwann mal in Richtung, ich meine, das ist mittlerweile auch irre relevant, also die wenigsten werden jetzt Dieselentwickler, vermute ich, aus gegebenen Gründen, wobei der Diesel wird noch länger laufen als der Benzin.
+Das ist mein persönliches Credo, weil einfach die großen Maschinen diese Leistung brauchen.
+Aber, kleine Anekdote, der Fendt hat vor einigen Jahren, ich glaube vor zwei Jahren,
+haben sie eine Wasserstoffstudie vorgestellt.
+Nur mal so zum Festhalten, der hat ungefähr, ich weiß die exakten Zahlen schon,
+aber ich weiß zu viel, da wusste ich zu viel.
+Sagen wir mal, der hat 200 kW Leistung.
+Da sind rund 10-15% Kühlleistung.
+Der braucht 15-20 Kg stehend, um den Wasserstoff zu kühlen.
+Unter Volllast bei 80°C, sagen wir mal 50°C Außentemperatur.
+Und das ist kein Scheiß, die hat man manchmal.
+Wenn man irgendwo in Kasachstan fährt und es knallt einfach bei 35°C die Sonne drauf,
+dann ist es echt heiß.
+Und das hält halt nicht bei, da sind wir wieder bei Wärme,
+Also das hält halt nicht bei 40 Grad an. Das wird richtig heiß. Wir haben eine Messung gemacht, oben im Kabinendach, 105 Grad. 105 Grad auf dem Steuergerät.
+Schön, wir haben uns mal gewundert, warum die Steuergeräte das nicht aushalten. Schwierig sein das.
+So, das ist ein Thema, das wird bleiben. Und das wird immer relevanter. Wie können wir effizient Kühlung gestalten?
+Weil wir bestimmte Prozesse an einem bestimmten Temperaturgiveau halten wollen, damit sie gut ablaufen.
+Also, da, spätestens da, ist die Erhöhung nicht relevant.
+So, Währung aus.
+Was haben wir uns heute angeguckt?
+Nicht weniger als der erste Hauptsatz.
+Letzte Woche erster, nullte, heute erste.
+Das heißt, wir sind in drei Wochen fertig, dann haben wir vier.
+Sorry.
+Einmal ganz kurz Hoffnung.
+Also, den kennen wir mittlerweile.
+Den müssen wir draufhaben.
+Dieses Gleichsetzen ist immanent, da kommt man nicht drum rum.
+Wie sieht das Ganze für ein instationäres System aus?
+Instationär ist auch etwas, was wir uns nächste Woche nochmal genauer angucken werden.
+Ne, das machen wir nächste Woche, da komme ich hoffentlich hin.
+Wir starten also nächste Woche nochmal mit einem instationären System,
+heißt, die kinetische Energie, potenzielle Energie, kann sich auf einmal verändern.
+Im stationären System relativ einfach, weil es dann immer das Gleiche ist.
+Keine Angst davor, große Buchstaben und kleine Buchstaben ist nicht auf einmal was völlig Neues.
+Entschuldigung, einfach nur, wir beziehen es auf die Masse.
+Oder wir beziehen es eben nicht auf die Masse.
+Keine Ängste mehr.
+Tatsächlich ist es manchmal, und das ist dann so ein bisschen,
+Regenungstechnik hatten Sie schon?
+Da gibt es dann so Dinge wie Fourier-Transformationen.
+Könnte man erst mal kaltkotzend aus dem Fenster springen, aber das Schöne ist an der Fourier-Transformation,
+wir sind in der Lage, Gleichungen zu lösen, die wir im normalen Bildbereich nicht haben.
+Also, wer sich da mal einlesen möchte, vorbereiten wir auch immer, oder Sie warten einfach, bis es dann rankommt.
+Da gibt es dann irgendwann diesen entscheidenden Punkt, wo man verstehen muss, stopp, es macht auf einmal Sinn,
+dass ich etwas aus dem Bildbereich in den Zeitbereich bringe.
+Das heißt, ich übersetze etwas in eine bestimmte Daseinsform, ich nehme es mal einfach so, wie es ist.
+Da kann ich dann normale Mathe machen und dann kann ich das Ganze wieder zurückübersetzen in das, was ich lösen will.
+Und wir machen hier nichts anderes.
+Wenn wir das da in absoluten Zahlen nicht lösen können, dann übersetzen wir es einfach in spezifische Größen,
+machen unsere thermodynamische Magie, machen wir dann auch die spezifischen Größen und übersetzen es danach wieder ins echte System.
+Das ist kein fieser Karate, sondern es ist tatsächlich ein einfaches Loch.
+Wir werden uns um das Thema Wärmekapazität und Enthalpien, das muss ich jetzt in die nächste Stunde schieben.
+Die nächste Stunde wird dann relativ zügig starten, weil ich da durch muss.
+Aber erstmal für heute bedankt für Ihre Aufmerksamkeit, für die Zeit.
+Und falls irgendwelche Fragen sind, einfach melden.
+Nächste Woche bin ich noch mal da.

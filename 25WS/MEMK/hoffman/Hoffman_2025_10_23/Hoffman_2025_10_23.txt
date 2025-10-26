@@ -1,0 +1,1454 @@
+Ich wollte mich kleiner nehmen, weil man so ein bisschen auf die Deskalierung achtet.
+was man jetzt hier macht
+das ist jetzt hier nochmal
+ein bisschen Stiegel
+Wir schauen uns jetzt mal an, welche Möglichkeiten es gibt, dieses Feld zu verlassen.
+Also alles, was sich innerhalb des Feldes bewegt, ist in Ordnung.
+Das ist sozusagen der Überlastungsfall 1. Der Überlastungsfall 1 hat eine konstante Mittelspannung zur Folge.
+Solange der Ausschlag innerhalb unserer dicken Linien hier sich befindet, in diesem Feld des Missdiagramms, ist die Dauerfestigkeit gegeben.
+Erhöhen wir diese Ausschlagspannung im Bauteil, dann steigt diese Ausschlagspannung und wir kommen hier an einen Punkt, wo jetzt die Mittelspannung weiterhin konstant ist.
+Diese Ausschlagspannung wird größer und das wäre jetzt sozusagen die Bauteilgestalt-Ausschlagstechnik am Bauteil gemessen.
+Erhöhen wir die Amplitude, wird das Bauteil unter Umständen nicht sofort kaputt gehen, aber in der Lebensdauer wird es dann nicht funktionieren.
+Weil wir dieses Feld, das zulässige Feld verlassen haben und die Ausschlagsspannung,
+die jetzt an der Stelle dahinten dargestellt ist, wie die dynamische Bahn aussieht, zu groß wird.
+Ja, kann man das verstehen?
+Ich habe eine konstante Mittelspannung, die Amplitude wird jetzt in diesem Überlastfall 1 immer größer,
+bis irgendwann das zulässige Feld verlassen wird.
+Kappa ist konstant an der Stelle, hier steigt das Spannungsverhältnis, die Mittelspannung
+steigt und gleichzeitig steigt auch die Amplitude.
+Das heißt, der erste Lastfall wäre der hier, Mittelspannung an der Stelle, Ausschlagspannung
+Aufschlagspannung an der Stelle, wir sind innerhalb des Feldes und was man dann macht, man verbindet um, wir werden das im Lastfall nachher dann auch uns anschauen, man verbindet hier den Nullpunkt mit der vorhandenen Mittelspannung plus Amplitude und vergrößert sozusagen dieses Verhältnis.
+Die Mittelspannung wandert beim nächsten Lastfall etwas nach oben und die Amplitude wird auch größer.
+Mit so einem Schmalsatz kann man das hier an der Stelle machen.
+Das heißt, das wäre jetzt wiederum die Bestall-Ausschlag-Festigkeit meines Bauteiles.
+Die Mittelspannung ist nach oben gerutscht und die Amplitude ist größer geworden.
+Ich befinde mich jetzt auf der Grenze dessen, was die Festigkeit dieses Bauteils betrifft.
+Erhöht man weiter dieses Verhältnis, die Mittelspannung geht nach oben, Ausschlag wird größer, verlassen wir das Feld.
+Wir haben jetzt sozusagen unsere zulässige Fläche im Swiss-Diagramm verlassen.
+Das würde bedeuten, das Bauteil ist nicht dauerfest.
+Das ist der Überlastungsfall 2.
+Da bleibt das Verhältnis, dieses Kappa, das ist das Verhältnis von Mittelspannung und Amplitude, bleibt konstant.
+Und wenn wir das hier mit dem Strahl konstruieren, würden wir uns nachher anschauen innerhalb der Übung.
+Und bei diesem Überlastfall 3 bleibt die Unterspannung konstant.
+Wir erhöhen jetzt, gehen nach rechts, haben jetzt hier den ersten Lastfall an der Stelle, Mittelspannung, Amplitude, wir sind ganz safe innerhalb der Grenzen und jetzt wird das Ganze nach rechts gezogen, die Unterspannung bleibt konstant, die Mittelspannung steigt, die Amplitude wird größer und das ist der Punkt, wo wir das Feld verlassen und sozusagen wiederum diese Gestalt ausschlagfestig bleibt vorhanden.
+Was man jetzt sagen muss zu diesen Dauerfestigkeiten, es gibt Unterschiede zwischen dem Material
+und dessen Bruchverhalten, bei eher spröden Werkstoffen kann immer so schlagartiges Versagen
+auftreten, bei Materialien, die duktil sind, die also zäh in der Energie sind und das
+kann man in der Regel am Hochverhalten dann sehen, weil von diesem Morgen bringe ich mal
+so zwei Zugstellen mit, da kann man sehr deutlich erkennen, den Unterschied, der Bauteil
+ist jeweils Gusseisen.
+Ein Gusseisen hat mehr Perlite, das andere hat weniger, das wird in Perlite.
+Hat auch diese ganz glatte gebrochene Fläche, aber es hat ein anderes überflächendes Scheinungsbild,
+was ein Maß dafür ist, die Festigkeit des Bauteils.
+Nichtsdestotrotz, Gusseisen ist immer mit Rückbruch drin.
+Während Stähle hohe Spannungsspitzen lokal abbauen können.
+Das kann sehr vorteilhaft sein, weil eine Stützwirkung vorhanden ist bei solchen Wehen.
+Und das sieht man jetzt hier im Wehbild.
+Wenn wir uns einen einfachen Zugstab anschauen, dann sieht man, hier kommt die Streckgrenze.
+Nach Überschreiten der Streckgrenze kommt die plastische Deformation, die Zugfestigkeit und dann geht das Auto da hinten kaputt.
+Und wenn wir jetzt aber hingehen und machen hier zum Beispiel so einen Bonus da rein oder ganz scharf da hinten eine Kerbe, ist jetzt hier reingetreten das Bauteil und dann stellen wir fest, dass sich das Werkstoffverhalten verändert.
+Ein Material, das an sich zäh ist, kann jetzt, wir hatten von den Kraftflusslinien gesprochen,
+die durch das Bauteil wie so eine Flüssigkeit durchlaufen,
+und dann würde man sehen, das läuft jetzt hier gleichmäßig homogen in das Bauteil rein,
+jetzt habe ich diese scharfe Kerbe, und es führt an dieser Stelle zu einer lokal erhöhten Spannung,
+Dort, wo diese Kerbe sind, in der Außenwirkung, gibt es diese Zuspannung.
+Und wenn ich jetzt ein sprödes Bauteil habe, dann geht das sofort kaputt.
+Die Festigkeit ist reduziert.
+Wenn ich ein Zells-Material habe, kann es diese Spannungen aufhebeln,
+es kann diese Spannungen abbauen und das Spannungsdehnungsdiagramm von B
+und dann der noch schärferen Kerbe führt letztendlich zu diesem Spannungsdehnungsverhalten von C.
+Was heißt das?
+Das ist jetzt plötzlich die Strenggrenze. Das Material kann eine höhere Last ertragen, im Zuge dessen, dass da jetzt eine Kerbe drin ist.
+Das kann man sich bei den Diagrammen zu Nutzen machen. Wir schauen uns das jetzt an.
+In diesem einfachen Lastfall, statisch, steigt jetzt die Festigkeit an, wenn ich eine Kerbe habe.
+diese lokale Spannung im Material ertragen werden kann,
+ohne dass es klappt und spröde bricht.
+Ich muss um Sie aufpassen, je nachdem, was Sie da haben.
+Da oben ist aufgetragen, die Schlagenergie, die eine Probe aufnehmen kann
+Und wie unterschiedlich notiert ist hier an der Stelle mit Mangan, wenn man kein Mangan drin hat, ist der Sprühübergang.
+Da unten ist das Material der weniger zäh.
+Und dann kommt schlagartig eine Temperatur, in dem Fall 125 Grad, wo das Material jetzt zäh wird.
+Hier liegt der Sprühübergang bei 50 Grad, bei dieser Variante, bei dieser Variante bei 25 Grad und hier im Minusbereich.
+Da muss man ein bisschen aufpassen, wenn wir von einem Zellenwerkstoff sprechen, das auch dieser Temperaturbereich gegeben ist.
+Und dann ist es möglich, aus einem Zählmaterial, die Streckgrenze, mit Zugfestigkeit, mit sehr großer Bruchdehnung, aufgrund einer Geometrie ein Material zu machen,
+was aufgrund der Umleitung der Kraftflusslinien spröder wird, was eine niedrigere Bruchdehnung bewirkt, aber was eine Bauchfestigkeit kriegt.
+Das ist ein Vorteil für sowas.
+Hier ist ein Beispiel jetzt für konstruktive Kerne und Kerne an Fügelstellen.
+Absätze, Muten, Gewinde, Bohrungen, Querschnittsübergänge sind konstruktiv bedingt.
+Bedingt, das was wir da jetzt eben gesehen haben, diese Nut, die ist in die Welle reingedreht, wird die Dauerfestigkeit jetzt auch beeinflussen.
+Aber wenn wir den statischen Lastfall haben, kann das unter Umständen sogar eine höhere Festigkeit besitzen, wenn das Material ist.
+Das ist Kerben an Fügelstellen, Schweißnähten, Löt- und Klebestellen, da wird ja auch die Kraft umgeleitet, Mietungen, Schraub- und Pressverbindungen.
+Dann haben wir aus den Kusseisen heraus gesagt, es gibt diese Kamellen, die praktisch beeinträchtigt sind, oder die Fügelform.
+Auch das ist eine typische Zählstelle.
+Rohre, Oberflächenfehler, Riefen, Anrisse, Oberflächenrauchigkeiten, Rauchheiten, Risse und Einschlüsse können Kerben im Material sein.
+Dann schauen wir uns mal an, wie das aussieht.
+als Zug oder als Biegeladen.
+Also ein Idealklattenbauteil, man muss sich das aus der Praxis auch in der Zugproben-Sicht anschauen.
+Immer gucken, dass es dort keine Fehlstellen an der Oberfläche gibt.
+wie der Betrieb durchtätig war und auch sehr viele Materialien, wo man Zugstäbe aus dem Bauteil herausgefräst hat
+und sich angeschaut hat, wie soll man die Kerne entfernen, weil die lokal zu dieser Spannungsspitze führen
+und damit den Kraftfluss verändern.
+Im Kunststoff wird dann das Bauteil mit einer Klinge abgezogen und so machen wir die Oberfläche schön glatt.
+Und so hat die Oberfläche Einfluss auf das mechanische Verhalten und besonders auf das dynamische Verhalten.
+Vielen Dank.
+Also all diese Dinge
+spüren den Kraftfluss
+durch eine Umleitung
+von Kraftflusslinien
+und dann zu
+Spannungsspitzen.
+Das ist ganz wichtig
+an Fehlstellen und an
+Hier sieht man jetzt einen ungestörten Kraftfluss. Im Fall oben ist es die reine Zugbeanspruchung und unten hat man eine Biegung.
+Hier sind so ein paar Beispiele, wo solche Kerne ausbieten können.
+Einzelkerne hier über eine...
+eine Nut, eine Bohrung, die vorhanden ist, hier über so ein Zahnrad, über die Lendenverzahnung,
+hier über eine Welleverbindung, wo die Welle so ein bisschen abgesetzt ist,
+das ist das Beispiel, was wir dann auch rechnen werden, die Welle mit zwei Durchmessern
+und einen Radius, der reduziert wird, und jetzt kommt hier zum Beispiel,
+ist ein Zahnrad aufgesetzt und dieses Zahnrad bringt jetzt eine Kraft in diese Welle rein
+oder überträgt einen Drehmoment, das Drehmoment führt zu einer Torsion und gleichzeitig kann
+zum Beispiel ein Biegmoment hier eingefragt werden. Damit haben wir einen Lastfall, der
+zusammengesetzt ist, der dazu führt, dass man berechnen können sollte, ob das Bauteil
+eine entsprechende Festigkeit besitzt, eine entsprechende Sicherheit, wie wir das jetzt
+in den statischen Lastfällen auch so ein bisschen gemacht haben.
+Das ist eine Kernreihe, das kann zum Beispiel der Fall sein, wenn man Lead-Verbindungen
+hat. Ich habe so ein kleines Kapitel mit Niedverbindungen drin, wo man ein bestimmtes Niedbild hat.
+Man könnte sich jetzt zum Beispiel vorstellen, das ist eine Lasche, da gibt es noch ein zweites
+Element, da hinten sitzt ein Biegebein oder sowas drauf und dann treten jetzt hier Kräfte
+auf, die auf diese Verbindung wirken und die dann zu berechnen. Ein Schweißnähten ist
+dass der Pfeil beispielsweise mit einem schreinlichen Fehler eingezeichnet wird.
+Der Fehler der vorzunehmend gestörten Kraftmuskulatur und Zugprobe hätte das Bedeutung,
+dass sich in den gesamten Querschnitt geleiteten Düsen die Pfeiler um die Festigkeit von 1,0.
+Teilweise sind die Schweißnähte dicker ausgewirkt und sogar eine höhere Festigkeit als das Grundmaterial.
+Aber die Vorteil hafterweise das Grundmaterial.
+Hier ist es mal dargestellt, ein gelohnungsfreier Kraftfluss, wie wir ihn vorhin gesehen haben.
+Und jetzt hier die Kraftlinienverdichtung im Zuge dessen, dass es unterschiedliche Kerbformen geben kann.
+Im Praktischen heißt das jetzt letztendlich, dass dort die Schärfe einer Kerbe dann auch initialisiert wird.
+Das heißt, in der Kerbform, im rechten Teil des Bildes, haben wir eine einfache Zugbeanspruchung,
+die mit dieser Dreieckskerbe, die wir hier haben, zu einer sehr hohen Spannungsspitze führt, weil diese Kerbe sehr scharf ist.
+Während mit dem Rechtecküberschnitt, den wir hier haben, mit dieser Rechtecknur, die Spannungsüberhöhung geringer ausfällt
+und mit so einem gleitenden Übergang, so einem Radius, die man hier hat, die Spannungsspitze noch mal etwas kleiner ausfällt
+Und die Abweichung von der eigentlichen Nominalspannung, die wir jetzt hier hätten,
+das ist die gestrichene Linie, das wäre Sigma ist F durch A.
+Stimmt aber nicht, weil dieser Querschnitt, den wir hier haben, das ist das A,
+ist ja entsprechend reduziert und je nachdem, wie die Kraftumleitung aussieht,
+sieht, ist die Höhe der Spannungspinsel. Das ist eine scharfe Kerbe, die ist minder scharf und dieses
+muss man evaluieren, um zu sehen, was habe ich für eine Geometrie und was ist die Folge daraus,
+wie scharf ist meine Kerbe. Das heißt, die Kerbform spielt eine entsprechende Rolle, die Kerbformzahl
+ist in zwei Größen abhängig,
+Form der Kerbe und die Art der Beanspruchung.
+Keine Abhängigkeit
+besteht bezüglich des
+Leichtstoffes, der Leichtstoffgröße,
+der Höhe
+der elastischen
+Beanspruchung.
+Die allgemeine Bild,
+ganz kritisch,
+ist natürlich wieder
+die Spannungsüberlegung
+bei Zug.
+Etwas niedriger ist diese Kerbformzahl bei der Biegung und dann letztendlich bei der Trosselung.
+Das Alpha ist diese Spannungsüberhöhung, die ich habe, 1,5 zum Beispiel und bezeichnet jetzt die eigentlich vorhandene Nominalspannung
+und die lokal verhandelnde maximale Spannung
+sieht man Max.
+Man kann das theoretisch als auch experimentell bestimmen.
+Ich hatte mal gezeigt,
+finite Elemente-Methode.
+Unter Methode legen Sie ein Netz in ein Bauteil rein
+und können jetzt mit einer mathematischen Formulierung
+schauen, wie groß sind die lokalen Spannungen.
+Es wird viel mit gemacht, mit Enses und FEM. Mein Eindruck ist immer der, es geht nur schön um die Bildchen, aber die richtige Interpretation ist immer sehr, sehr kritisch, dass das alles funktioniert.
+Man kann lokal Nebensatzstreifen applizieren und würde dann jeden Bereich einer Bohrung, einer Kerbe, einer abmessigen Welle, werden die Spannungen entsprechend höher und damit auch die lokalen Lehnungen, könnte man ja, also dann stimmen und messen.
+Also das ist jetzt nochmal hier der Punkt.
+Hier sieht man, das ist die Maximalspannung
+die ist überhöht
+und den Faktor X
+gegenüber der Nominalspannung
+bei der gestrichenen Linie
+und das hängt von der Kehrform ab
+und je größer das Alpha
+desto größer ist die Spannungsüberhöhung
+die muss ich berücksichtigen
+in der Auslegung meines Smith-Diagramms
+hier zum Beispiel
+für zwei unterschiedliche Geometrien.
+Rechts ist ein abgesetzter Rundstab.
+Da sieht man jetzt diese Kerbwirkungszahl,
+Alpha K, ist dargestellt als eine Frage dessen,
+wie groß ist das Verhältnis der beiden Durchmesser zueinander,
+D zu D.
+Hier mal 0,2.
+Dann haben wir ein D zu D,
+Also ein R zu D, dann ein D zu D, das heißt man geht von Ionen los, läuft auf einen Punkt für die vorhandene Geometrie
+und kann dann da vorne die Faktor-Kerpopus-Zahl ablesen.
+Das ist das, was wir dann nachher auch in diesem Diagramm der Übung gemeinsam dann mal machen werden.
+Just genau für den Fall.
+Was bedeutet das?
+Die gestrichelte Linie ist für den idealen, oder hier, für den Klappenprobe-Stab, der keine Kerle ist.
+Frage, kann mir jemand hier einen statischen Lastfall zeigen?
+Wie sieht in dem Diagramm ein statischer Lastfall aus?
+Irgendeiner. Irgendein statischer Lastfall.
+Das, was wir jetzt hier haben, diesen Punkt, das ist die Mittelspannung und um diese Mittelspannung habe ich jetzt diese dynamische Beanspruchung, die für diesen Lastfall an der Stelle mit der gestrichenen Linie zu einer höheren Amplitude führt.
+Wo ist ein statischer Lastfall? Im Diagramm. Gibt es das? Wie groß ist die Amplitude in einem statischen Lastfall? Null.
+und damit sieht man wo einen statischen Lastfall, immer wenn die Amplitude Null ist.
+Und die Mittelspannung, das ist die zunehmende Spannung, die jetzt hier dargestellt ist.
+Das wäre das, was aus dem Zugversuch kommt.
+Wenn ich im Zugversuch bin, bin ich auf meiner Hubschen gerade.
+Die Mittelspannung ist das, keine Ausschlagsspannung.
+Die Mittelspannung steigt, das ist alles noch in Ordnung.
+Und da oben, das ist dieser begrenzende Punkt, wo dieses RE erreicht wird.
+Das ist die Streckgrenze.
+Jetzt setzt plastische Deformation ein.
+Wenn Sie ein Bauteil erden, können Sie den statischen Lastfall, das Bauteil, stärker belasten.
+Die Festigkeit ist höher.
+Das war das Diagramm.
+Das hier.
+Machen Sie eine Kerbe im Material, geht die Festigkeit nach oben, die Strecke nach oben.
+Sie können das Bauteil stärker belasten, weil es in der Lage ist, lokale Spannungen abzuwerten.
+Das wirkt sich jetzt in meinem Diagramm aus. Man nennt das dann eigentlich Verkleinerung.
+Die Position hier, das ist meine Mittelspannung, kann das Bauteil aushalten.
+Das gekerbte Bauteil, sehen wir jetzt, hat eine erhöhte Streckgrenze.
+Deshalb ist das Feld da oben aus größer, wenn Kerben im Bauteil drin sind.
+Die Ausschlagspannung, die das Bauteil ertragen kann, also das hier, ist für die glatte Probe groß, für eine gekerbte Probe kleiner.
+Die dynamische Festigkeit wird ab, die statische Belastbarkeit wird größer.
+Das müssen Sie sich merken.
+Statische Belastbarkeit wird von Bauteilen bei Materialien, die duktil sind, größer,
+aber die dynamische Festigkeit nimmt ab.
+Deshalb wird das Feld von da nach da kleiner.
+Wir machen es nachher im Zuge dessen, dass wir eine Konstruktion des Mistes anschauen.
+Wie kommt man dazu? Wie kann man das konstruieren?
+Und das erwarte ich von Ihnen, ich lege Ihnen auch eine Übung ab, da können Sie es selber noch mal testen.
+Sie sollten für die Prüfung in der Lage sein, dieses Missdiagramm zu konstruieren, so ein festgesetztes Vorgehen.
+Wir machen hier ein Diagramm, Sie zeichnen die Mittellinie ein, Sie haben hier die Wechselfestigkeit, die Sie antragen, Sie tragen oben dann die entsprechenden Werte an im Diagramm, das ist festgehende, ablaufende Vorgehen, dass Sie das bitte erinnerlichen.
+Das will ich im allgemeinen Teil, wenn Sie in der Lage sind, mit vorhandenen Festlichkeitskennwerten
+dieses Diagramm zu konstruieren, im Lastfall reinzumachen.
+Gucken wir uns nachher an.
+Ich würde die Übung bzw. das ist eine Prüfungsaufgabe, die ich da mal bestellt habe.
+Das geht ganz gut.
+Das sollten Sie hin tun.
+Und hier im rechten Teil des Bildes sieht man jetzt nochmal, je nach Kerbform,
+kommt diese Spannungsüberhöhung im Bereich der Kerbe und diese Kerbenformzahl definiert dann auch,
+wie sich die Wechselfestigkeit in Relation zur Gestaltwechselfestigkeit benimmt. Die wird
+Und kleiner, da vorne ist dieser Traktor drin, ist der Wechselfestigkeit.
+Wenn die Plattenprobe hoch ist und die Kerbe drinnen, dann wird das Feld verkleinert.
+Das nennt man auch Verkleinerung.
+Die Kerbe wird in die Zahlwechselfestigkeit geklärt und dann diese sogenannte Spitzzahl.
+Ich gehe das jetzt gleich mal durch in die Kabellenform und dann können Sie das zuordnen.
+Diese Kerbwirkungszahlen mit der K zwischen 1,2 und 3 für so eine Not, für so eine Sicherungsregelung.
+Wir haben ein Verfahren nach dem Herrn Siebel. Wir sollen das Buch zum Licht anwenden und wir werden uns das an anderer Stelle anschauen.
+Hier unten aus dem schlechten Schienenverhältnis 1 und 2, Spannungsverhältnis, Kerbraumzahl, ich will da gar nicht drauf eingehen, aber Sie sehen es zum Beispiel, der Graubus, der liegt hier ganz oben, im Zuge dessen, dass der sehr kerbempfindlich ist.
+Das ist diese Stützziffer entsprechend hoch.
+Bei Materialien, die eher zäh sind, sieht es umgekehrt aus.
+Das sind diese Stützziffer entsprechend geringer.
+Das Diagramm, das ich Ihnen eben gezeigt habe, aus dem Graubus, sieht genau so aus.
+Hier ist jetzt aufgetragen das hoch beanspruchte Volumen, das ist der Größenfaktor,
+der vorhanden ist, eine zunehmende Bauteilgröße
+mit seiner abnehmenden Stillfestigkeit,
+die in der Abbildung zu sehen ist.
+Es gibt ja je nach Vorgehen und Typ
+ein bisschen unterschiedliche Darstellungen.
+Der Oberflächeneinfluss ist hier mal definiert,
+poliert, fein geschliffen, geschlichtet, geschrubbt mit Walzhaut, in Abhängigkeit von der Festigkeit wird dieser Oberflächenfaktor abgeben.
+Der führt zu einer Reduktion des vorhandenen Zelles. Das war diese Verkleinerung, die wir gesehen haben.
+Wir machen das jetzt gleich beim Beispiel der Oberflächeneinfluss.
+Hier steht es nochmal, im Gegensatz zu den statischen Festigkeitswerten,
+welche kaum zu der Oberflächenbeschaffenheit abhängen,
+lässt sich für eine schwingende Beanspruchung eine deutliche Abhängigkeit von der Oberflächenbeschaffenheit feststellen.
+Der Oberflächeneinfluss wird durch den Oberflächenfaktor C0 berücksichtigt.
+Je höher die Zugfestigkeit eines Materials, desto größer ist die Gefahr,
+dass Spannungsspitzen nicht mehr
+abgebaut werden
+warum war das so?
+wenn Sie Stahl haben
+und machen den Stahl
+zunehmend fester
+wird er immer
+entfindlicher
+gegen eine dynamische Beanspruchung
+zum Beispiel durch
+eine Oberfläche
+wenn ich den Stahl habe
+dann macht der hier sowas
+dann wird er kaputt
+Ja, in etwa. Wenn ich jetzt einen Stahl habe, der fest ist, dann läuft er auf dieser Kragen, macht da vorne vielleicht noch das und macht jetzt dann dieses Bild.
+Und wenn ich ihn noch weiter fest mache, dann macht er irgendwann das.
+Das sind diese Kurven, die wir da vorhin gesehen haben, die durch Kern entstehen können, die aber genauso in der Art und Weise entstehen können, wenn wir eine Oberflächendefekte haben.
+Und dieses Material hier, welches ist jetzt kärftempfindlicher, das hier mit der hohen Festigkeit, das hat keine geringe plastische Deformation und ist im Zuge dessen nicht in der Lage, diese Spannungsspitzen abzubauen.
+und wird früher flächendeckend in einer klassisch schwingenden Beanspruchung.
+Deshalb muss man Oberflächen möglichst, wenn es um eine dynamische Beanspruchung geht,
+eingestalten, damit es keine Risseinweichung vonstatten gibt.
+Fragen?
+Zähigkeit ist immer die Option, klassische Deformationen abzubauen.
+Wenn man Stahl fester macht, geht Zähigkeit weg und dann wird er kerbempfindlicher.
+Das kann man sich merken.
+Abnehmender Zähigkeit und zunehmender Festigkeit sind die Kerben M, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D, C, D
+Vielen Dank.
+Vielen Dank.
+Zumindest sollten Sie wissen, es ist auch mal eine Frage in der allgemeinen Prüfung gewesen, was ist der Anwendungsfaktor?
+Der beschreibt jetzt, ob bei einer Maschine im Zuge einer dynamischen Beanspruchung,
+wie haben wir Anfragen mit einer Anlaufkupplung, ohne Anlaufkupplung,
+da sehen Sie, das Drehmoment zeigt starke Schwankungen um einen Mittelwert herum
+Und wenn diese Schwankungen besonders stark sind, was weiß ich, die Welle von einem Aggregat, wo sich irgendwie Steine brechen, zwei Wellen drehen sich da, zwei Zahnräder, die gehen ineinander und wenn Steine da drin zusammen malen, an der Mühle oder so, dann sind die real vorhandenen Steine deutlich höher als der Mittelwert.
+Und das beschreibt jetzt dieser Anwendungsfaktor, dass tatsächlich vorhandene Moment entsprechend erhöht und wird über diesen Anwendungsfaktor Ka, den man auch als Dynamikfaktor bezeichnet, beschrieben und zeigt die Überhöhung der nominalen Last, der Nennlast.
+Es sieht dann so aus, gleichfarbig Umlauf und Bewegungen, elektrische Maschinen, Schleifmaschinen, Dampf- und Wasserturbinen, Umlauf und Ersichter,
+wo keine Stöße oder nur leichte Stöße kommen, ist dieser Anwendungsfaktor sehr gering zu wählen, bis hin zu Stößen, Spiegelpressen, hydraulische Spiegelpressen und Schläge kommen.
+Da wird diese dynamische Beanspruchung überhöht und man muss das auf der Belastungsseite berücksichtigen mit diesem Faktor, der zu einer Erhöhung des Drehmomentes führt.
+Steinbrecher, Hämmer, Walzwerke, Kaltscheren, Walzenständer, Becher, Mühle, wo Sie da jetzt zum Beispiel Steine reinwerfen, klein gemahlen werden, das sind starke Schläge, da wird der Anwendungsfaktor dann 2 oder 3 gesetzt.
+Sie wollen natürlich so eine Mühle dauerfest auslegen.
+Sie haben ja immer diese Rotationen, in jedem Moment was kommt.
+Sie haben einen Toss im ersten Moment.
+Und das würden Sie jetzt im Zuge dessen mit dem Anwendungsfaktor berücksichtigen,
+dass eine Überhöhung der Spannung da ist.
+Fragen dazu?
+Bis wohin geht das Skript?
+Bis zu welcher Seite?
+67, geht das hier ab?
+Ne, eins noch.
+Vielen Dank.
+Amen.
+Konstruktion Smith-Diagramm.
+Wir haben hier auf Basis dessen, ich springe jetzt nochmal ganz kurz in das Vorlesen ein.
+Amen.
+Das ist eine Papelle, Stahlauswahl für den allgemeinen Maschinenbau.
+Wir haben jetzt gesehen, wie es braun ist, die sind ja alle dargestellt.
+Die wurden jetzt sozusagen konstruiert auf Basis der hier vorhandenen Kennwerte.
+Die Kennwerte sind, zum Beispiel für das 235, die Streckgrenze von 35 Megafaskal, wir haben hier einen Zugdruck mit einer Wechselfestigkeit von 140, die Schwellfestigkeit ist hier nicht drin, das Ganze ist hier für Zugdruck, für U-Druck und für Version angegeben.
+Mit den beiden Kennwerten können wir jetzt das Smith-Diagramm konstruieren, beziehungsweise wir brauchen dann noch die Zugfestigkeit des RM über 360 Megahertz.
+Und damit können wir jetzt diese Konstruktion des Smith-Diagramms vorlegen.
+Das würden wir nachher mal in einer Übung gemeinsam machen und dann uns auch die entsprechenden Dinge aus Bauteilgröße, Oberflächenfaktor und Kerze-Präferenzen für eine bestimmte Geometrie, einfach mal ein Beispiel gerechnet zu haben.
+Sie bekommen von mir, ich lege das noch ab, eine Aufgabe,
+ich will das mal selber machen, vielleicht wollen Sie das auch nachhören,
+das Missdiagramm zu konstruieren auf Papier.
+Das möchte ich, dass Sie das können, in der Prüfung.
+Im allgemeinen Teil, ohne Hilfsmittel.
+Wenn Sie vorgehen, sollten Sie sich das jetzt merken.
+Das ist eine klare Anzeige, das wird kommen.
+Im allgemeinen Teil.
+die in der Lage sind, dieses Diagramm zu zeichnen.
+Und ich will Ihnen eine Aufgabenstellung geben, wie Sie das machen können.
+Das Diagramm noch mal stellt dar, im rechten Teil, das hier aufgetragen, die Mittelspannung.
+Und als Kenngrößen aus dem Diagramm haben wir oben das Rm, das ist die Zugfestigkeit,
+das ist die Maximalspannung, das hier.
+Das ist mein Rm, da vorne ist mein Re.
+Das trage ich jetzt auf und kann mit der sogenannten Sigma W,
+das ist die Wechselfestigkeit, bei einer dynamischen Beanspruchung.
+Sie liegt entsprechend niedriger im Vergleich zur Sprenggrenze und sie liegt niedriger im Vergleich zur Zugfestigkeit.
+Das ist meine Wechselfestigkeit. Die wird einmal nach oben abgetragen und einmal nach unten abgetragen.
+Jetzt gehen wir das mal durch.
+Immer die festen Kennwerte.
+Hier oben das Rm, hier das Re, hier die beiden Wechselfestigkeiten.
+Hier ist die Mittelspannung 0.
+Mittelspannung 0, Zugfestigkeit nach oben, keine Ausschlagspannung, dann nicht da hin.
+Das Ganze wird dann unter einer Hilfsgabe unter 45° abgetragen
+Und in dieses Diagramm wird eingezeichnet in der Art und Weise.
+Und das ist jetzt das, was Sie sich merken müssen.
+Das ist jetzt das Hilfsmittel.
+Sie nehmen diese Wechselfestigkeit da oben, dieses Sigma W halbe
+und tragen es dort, wo die Zugfestigkeit RM ist, nach links ab.
+Eine weitere Hilfsgrade wird reingezeichnet und verbinden den Endpunkt hier mit dem der Wechselfestigkeit.
+Nächster Punkt, das hier.
+Sie tragen das, was Sie hier aus dem Diagramm heraus für das Keo-Dreieck abgelesen haben, nach unten ab.
+Das ist dieser zweite Knick, der jetzt gleich kommt.
+Da sehen Sie jetzt, jetzt hat man das Ding schon fertig komponiert.
+Das ist jetzt sozusagen das Missdiagramm.
+Sie verbinden jetzt den Punkt mit dem und den mit dem hier unten und sind soweit fertig und das ist Ihr Feld.
+Und das ist Ihr Raum.
+Damit sind Sie fertig.
+Diese Türkisen 4.1 und 4.2, kommt hier her?
+Nochmal?
+Ja, diese Türkisen.
+Das hier?
+Ja.
+Wir haben hier ein Swiss-Diagramm, wenn man sich das anschaut.
+Das ist jetzt so ein empirisches Vorbild, sage ich jetzt mal.
+Wir lassen Sie immer an der Position raus.
+das muss man sich vielleicht merken, genau dort wo ist dieses RE, das ist RE,
+trifft es genau an der Stelle, diesen Punkt messen Sie zur Mittelspannung und tragen die gleiche Länge nach unten ab wie das 4.2.
+Sie messen diese Strecke und tragen sie nach unten ab und haben dann die Verbingerung, die diese Klinik ergibt.
+Wenn man dort unklassische Deformationen einsetzt, ist dann diese Klinik.
+Fragen dazu?
+Ich könnte mit einer Übung anfangen, dass ich das jetzt selber exerziere.
+Wir haben das jetzt hier noch als Punkt.
+Amen.
+Amen.
+Und hier
+Vielen Dank.
+Ich habe eine Frage.
+Wir brauchen eine Art Prüfung, Aufnahme, WG, Druck, 440, Augen runter, machen eine eigene Skalierung daraus.
+Der Wert der Schwellfestigkeit, das als Information, Schwellfestigkeit, das ist der Wert hier.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Wie war gestern?
+Wie war gestern?
+Wie war gestern?
+Aber es ist jetzt zu spät.
+Nein, nein, nein.
+Aber er weiß immer schon was.
+Er weiß immer schon was.
+Er weiß immer schon was.
+Er weiß immer schon was.
+Er weiß immer schon was.
+Er weiß immer schon was.
+Er weiß immer schon was.
+Er weiß immer schon was.
+Er weiß immer schon was.
+Aber du warst eigentlich als Neueinsteiger, ne?
+Ja.
+Als Neueinsteiger von uns.
+Ja.
+Wie war es da zu dritten, wie ich es mir reingekriegt habe?
+Ja.
+Wie war es da zu dritten, wie ich es mir reingekriegt habe?
+Wie heißt du?
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Franzi.
+Ich schau es dir, 85% schade.
+Geisteskrank.
+Geisteskrank.
+Aber es kommt nicht so krass über diese Ecken.
+Geisteskrank.
+Außer Gott sei Dank.
+Ja, ja, ja.
+6.000 Jahre.
+Da gab es doch ihre Blumen?
+Oder irgendwas?
+Nein, aber die ziehen alle so.
+Man kann doch nie auf Konzerte gehen.
+So, mein erster Mal.
+Echt?
+Ja.
+Hast du das gemacht?
+Wo?
+Geistern.
+Was für?
+Wo?
+In Nordrhein-Westfalen.
+Schön groß so.
+Ja, ja.
+Ja.
+Das ist ein großer Rutsch.
+Du hörst, ihr nervt sich.
+Keiner mit Händen.
+Und dann kommt so ein Blick.
+Bamm.
+Bamm.
+Rutsch.
+In der Sekunde.
+Du siehst.
+In der Sekunde, du siehst, du hast nicht mal ein Wasch gemacht.
+Hab ich mal ein Wasch gemacht?
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Nein.
+Das ist echt voll?
+Ja, ja.
+Vorher zeigte ich es euch.
+Das war dieser Typ hier.
+Aber der Gäste kann es nicht wissen.
+Boah, und Monet war auch da.
+Bei denen auch mal Frauen gegangen.
+Ja, ja.
+Monet ist bei uns nur Frau.
+Wo war er noch?
+In Zürich.
+Der war in Zürich.
+Dieses Jahr?
+Ja.
+Ich bin jetzt immer das Letzte geworden.
+Der kriegt gar nichts.
+Das ist auch bei Asyl und Ehrzeit bisher.
+65 Jahre.
+65 Jahre.
+Das war mein Beginn.
+Ich hab der Roman auf die Wüste.
+Man gab mal vor mit dem Mondschädel.
+Er macht 60K.
+Er macht alleine.
+Er macht nicht immer Dinge, dass du auch schaffst, vorwärts, oder wie er es so nennt, wie du es nennst, so Jamin, ich kenne Jamin, ich kenne ihn, ich weiß nicht, er kommt so rein, er hat bestimmt noch nie was von dir gehört, aber fügt mit und so.
+Wie war das denn, wie war der Volk?
+Er war schon mal Kind, so ist es jetzt nicht so, ganz scheiße.
+Und er hat gefilmt, nein, ne?
+Aber da hat er gefilmt.
+Nein, nein, er ist unbequem, gell, und wir haben so ein Glied da so gemacht.
+Er hat gefilmt.
+Nein, die waren nur bis dahin.
+Hey, meine Mutter hat mich auch gestern nachgemacht mit meinem Lachen.
+Schau mal.
+Soll ich sie mal crashen?
+Das war doch schon lange her.
+Einer hat sie einfach im Büro zugebracht.
+Wegen dem Crash?
+Ja.
+Geil, ist doch geil.
+Hast du jetzt auch noch einen Moment?
+Er hat geschockt.
+Ich hab ihn auch gekippt.
+Ich hab die Gala gesehen, hab sie auf dich gezippt, ich hab gewonnen.
+Ja, dann hast du gewonnen deinen Schein.
+Aber nicht den anderen.
+Hast du deinen Schein gewonnen?
+Ich hab 99 Euro reingezippt, 250 Euro rausgekriegt.
+90?
+Ja.
+Heute bräuchte ich 200 Euro reingezippt.
+Heute bräuchte ich 200 Euro reingezippt.
+Hast du gestern deinen Schein gewonnen?
+Wie meinst du?
+Achso, ja. Hab ich.
+Beide?
+Ja.
+Ich hab auch 20 Euro gebraucht, da habe ich diese beiden noch in der Rüstung gehabt.
+Okay, okay. Schau jetzt.
+Warte.
+Aber ab jetzt sag doch bitte nicht lachen.
+Er muss dann das nicht machen.
+Das ist jetzt auch nicht klar.
+Er hat ja noch Papier eigentlich, wenn ich fragen muss. Papier.
+Aber wer jetzt, wenn wir uns sehen, ab jetzt wenn wir uns sehen,
+Ich glaube, wir müssen jetzt alle rufen und sagen, hallo, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der, der,
+Was sollen wir alles reinnehmen?
+Aber ich habe den Punkt.
+Die Schwellfestigkeit.
+Das sieht man an der ZD-Szene.
+Genau, das ist die Schwellfestigkeit an der Stelle.
+Wir müssen nach rechts 700 abtragen, nach links 700.
+Und dann kommen wir auf den Punkt.
+Das ist jetzt ein Trick.
+Aber das ist jetzt...
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Wie groß ist dann die Mittelspannung?
+Wie groß ist die Mittelspannung?
+350.
+Das sind die 350.
+Das heißt, ich nehme hier Sigma-Schwellenhalbe, trage die 350 hier ab, die 700 nach oben.
+Und dann habe ich hier Punkt und hier.
+Machen wir das mal.
+Hier ist Sigma-Z-EW, Sigma-Z-Zugdruckwechselfestigkeit.
+Rfp 9.
+Ich habe jetzt hier eine Ermangelung der P02.
+Das ist jetzt nicht die exakte Konstruktion, die man bei dem anderen,
+Und der verbindet jetzt den da hin.
+Kommt das hin bei Ihnen?
+Das ist jetzt nicht ganz.
+Das ist jetzt die halbe.
+Das ist ganz hin.
+Jetzt kann man den Punkt, den kann man wieder nach unten abtragen.
+Ich weiß nicht, was können Sie denn jetzt hier an der Stelle so rausmessen?
+2,5 Zentimeter.
+2,5 nach unten.
+Ja, das habe ich jetzt auch.
+Da hin.
+Da kommt der Knie.
+Ja, eigentlich würdest du das jetzt hier drauflegen, aber du tust es nicht.
+Ich habe eine Frage.
+Ja.
+Ja, was steht da auf der Y-Achse?
+Ich kann es nicht.
+Na, das ist sozusagen die Spannung generell.
+Das ist dann Amplitude plus...
+Unter dem RP drücken, was heißt das?
+Ja.
+Und da unten, was steht da?
+Das.
+Das ist dieses Sigma ZdW, das ist die Wechselfestigkeit.
+Die beträgt 440, die wird einmal nach oben und einmal nach unten vom Nullpunkt ausgehen,
+abgetragen.
+Und hier sagst du, super, M.
+Wir können den Lastfall anfragen, wir können ihn einzeichnen.
+Amen.
+Vielen Dank.
+Und eine Ausschlagspannung von 200 in das Diagramm.
+Wenn Sie jetzt eine Mittelspannung antragen,
+Und im Lastfall, wie Sie das hier gemacht haben, diese 5 cm nach rechts,
+Das ist eine Skalierung von dem hier und kommt genau daraus.
+Das ist der Landfall in die Mittelspannung auf der Mittelspannungsachse.
+Das ist mein Sigma-N.
+Und wo kommt die Amplitude hin?
+Einmal rauf und einmal runter.
+Ist diese Konstruktion jetzt sicher?
+Ich bin innerhalb meines Feldes und das ist die maximale Spannung, die ich erreiche.
+Hier 500 plus minus plus minus die Amplitude und der Abstand zu dem hier.
+Jetzt soll nämlich die Sicherheit gegen Dauerbruch bei gleichbleibender Mittelspannung,
+Sie bleibt gleich und die Amplitude wird größer.
+Und das wäre jetzt die Sicherheit, die wir haben.
+wie groß ist in dem Fall
+was messen Sie daraus?
+da hinten
+unten viel weniger als oben
+unten viel weniger als oben
+ja
+das ist, weil dieser Krieg da ist
+dann ist das aber nach oben
+ich weiß nicht, ob die Konstruktion da nicht passt
+wir machen gleich nochmal eine zweite Übung
+wo wir uns einfach mal so ein Material rausholen
+und machen es ganz genau nach der Vorschrift von Ihnen.
+Ist der Knick, ist der bei dem 350?
+Nein, das habe ich jetzt hier nochmal gemessen von da nach da.
+Da links haben Sie es zu hoch gezeichnet.
+Nee, der liegt da, nach unten. Das war dieses 4.1 und 4.2, das wir eben hatten.
+Vielen Dank.
+Vielen Dank.
+Wir müssen jetzt sozusagen gucken, was ist in jedem Lastfall, wenn die Amplitude größer wird und diese Mittelspannung konstant bleibt,
+Ihre Festigkeitskennwerte, ich habe jetzt hier 800 gemessen.
+Maßstab 1.
+Wir machen gleich nochmal eine Übung.
+Einfach ausdehnen.
+Machen wir jetzt erstmal 20 Minuten Pause oder eine Viertelstunde, 20 Minuten?
+Ja? Genau, um 10 Uhr sind wir weiter.
+Ich suche noch eine andere Aufgabe raus,
+in der wir das gleich nochmal üben,
+damit Sie genau dieses Vorgehen,
+wie wir es gerade beschrieben haben,
+machen.
+Acht man den Schwerpunkt genau auf der Mitte,
+oder? Von der Linie?
+Bei der Diagonale?
+Genau auf der Mitte von der Linie, oder?
+Also nochmal,
+man sieht das jetzt an den Lastfällen,
+Also die Mittellinie ist die Mittelspannung, die hier unter 45 Grad, das ist meine Mittelspannung.
+Und um die herum mache ich die Aufschlagspannung.
+Und wenn die Amplitude größer wird, ist immer der Abstand, die Sicherheit ist der Abstand von dem vorhandenen Festlichkeitskennwert.
+Meine Amplitude war 200, meine Mittelspannung 500.
+Und da gehe ich um, das heißt, ich komme auf 700 Megapaskal.
+Und wenn ich den Abstand jetzt zu dem hier messe, oder gucke, wie groß das ist,
+dann liege ich hier bei 8 cm, 800 Megapaskal.
+Und damit ist der Abstand 800 zu 700 S ist 1,15.
+Aber woher wissen Sie die X-Achse, also wie weit Sie da weg müssen?
+Mittelspannung
+500 mm
+dahin
+5 cm
+5 cm hoch
+und dann liege ich genau bei dem Punkt
+bei der Mittelspannung
+die Mittelspannung von 400
+liegt bei 4 cm
+immer auf dem Punkt
+die Mittelspannung
+geht nach rechts nach oben
+unter 45° in dem Diagramm
+und die Amplitude
+ist die Abweichung von der Mittelspannung. Ja? Ja? Okay. Gehe ich jetzt nach links. Machen wir mal einen anderen Lastfall. Sigma M.
+300 MgA, Sigma A 100 MgA.
+Wie groß ist die Sicherheit?
+Wie groß ist die Sicherheit?
+Die tragen nach rechts, die 300 mm ab.
+Die landen immer auf dieser 45° Winkel.
+Das ist Ihre Mittelspannung für den Lastfall.
+Dann haben Sie eine Amplitude von einem Zentimeter, dann sind Sie hier, das ist Ihr Lastfall.
+Dann können Sie an der Stelle messen, wo dieser Punkt durchbrechen würde.
+Das messen Sie hier, wenn Sie das mal selber machen.
+Von mir ist das ein bisschen ungenauer geworden.
+660.
+660, ja ich habe 630, 660.
+Also Sigma-Lastfall maximal.
+Schauen wir mal die 660 hin.
+Die Sicherheit ist wie groß?
+660 durch die 400.
+660 durch 400 ist 660.
+MgA durch 400
+Megapaskal
+und raus
+1,
+1,6
+Vielen Dank.
+Das ist der Festigkeitskindwert.
+In der Präsentation.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Ich lasse aber keine plastische Deformation zu. Deshalb mache ich den Deckel da drauf.
+Da kommt der Deckel drauf. Mehr lasse ich nicht zu. Die Dauerfestigkeit ist größer, da tritt aber im Bauteil plastische Deformation auf.
+verformt sich, bleibend. Deshalb kommt der Deckel drauf. Fließgrenze, Schreckgrenze.
+So, jetzt machen wir folgendes. Die Dinger sind ja hier dargestellt. Wir machen jetzt
+Das ist das SMIS-Diagramm für S275.
+Wenn man auf die Seite 38 geht, sehen Sie diese Dinge.
+Wir haben Messwerte. Zugfestigkeit sind RM 430 Megapaskal.
+Wir haben RE 275 Megapaskal und wir machen das jetzt mal für Zugdruck.
+Wechselfestigkeit 170.
+Das müssen wir jetzt hinkriegen.
+Was macht man? Wo fängt man an?
+Ich versuche es mal mit dem Maßstab 1 zu machen.
+Also ich habe diese Skalierung zu Zentimeter, das heißt die 170 nach oben und nach unten abgetragen,
+Das sind 340, das wäre das hier, 680, das hier.
+Das ist mein Sigma Z, BW, Sigma Z, BW, die Wechselfestigkeit.
+Nochmal, weil die Frage aufkam, bitte mal schauen.
+Die Mittelspannung wird immer auf dieser Graben hier liegen, unter 45 Grad.
+Das ist meine Mittelspannung.
+Also ich trage jetzt diese drei Werte an.
+Dann habe ich das RE 275, das sind bei mir 5,5.
+Was ist der nächste Schritt von der Folge?
+Das ist mein RE.
+Was kann ich noch antragen?
+Das ist das RM.
+Wir sind jetzt hier oben bei 8,6 cm bei mir.
+Ähm, das ist die Zufestigkeit.
+Da lege ich auch noch rechts ab.
+Nächster Schritt.
+Vielen Dank.
+Als nächstes tragen wir dieses ZDW halbe da oben ab, nehmen das hier für 2,4,
+Während das hier so 1,7 cm liegt, aber hier im Maßstab.
+Also streckend herabtragen, richtig?
+Vielen Dank.
+Kannst du wehren?
+Ah, ja, ich kann es nicht mehr.
+Oder?
+Ja, ich kann es nicht mehr.
+Ja, so.
+Kriegst du es schon?
+Die Knie finden?
+So, da ist der Knick bei mir.
+Und das ist das, was wir in der Strecke messen.
+Das mit E.
+Und das mit D.
+Vielen Dank.
+Frage!
+Warum messen wir das im Skript nicht von da wo es sich mit E kreuzt?
+Du hast es falsch gemacht.
+Die da eingezeichnet und wir haben von da nach da gewusst.
+Oh! Das ist komplett falsch.
+Das ist mein Tier, sorry, hier, hier, hier, hier, hier, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da, da,
+Das ist Bullshit! Sorry!
+Was messen Sie hier? Was ist gerade der Wert von dem Punkt?
+Der hier, wie lang ist der?
+Also ich habe drei Zentimeter, was der Name ist.
+Dann geht er aber nach hinten durch, oder?
+Ja.
+Ich muss noch ein bisschen weiter gucken.
+Ja, also ich kriege das da nicht besser hin.
+Können Sie die Schwellfestigkeit ablesen im Diagramm?
+Vermutlich.
+Vermutlich.
+Wir haben da, wo die Füße sind, 5,5 cm.
+Vielen Dank.
+Vielen Dank.
+Sie können da unten mal versuchen, die Schwellfestigkeit abzulesen.
+Schwellfestigkeit ist der Punkt, wo die Unterspannung Null ist.
+Und Sie nach oben im Diagramm das Ganze ablesen.
+Wie sind Sie da hingekommen?
+Hier? Keine Ahnung.
+Das ist falsch.
+Von quasi da oben.
+Sie können das auch gerne reinmalen, wie ich es gemacht habe.
+Diese Linie einfach reinmalen, ganz genau das.
+Und damit kreuzt das an der Stelle den Punkt.
+Das Maß nehmen Sie jetzt nach unten, was Sie hier gemessen haben.
+haben, die rote Linie. Das messen Sie raus. Und diese rote Linie tragen Sie nach unten ab. Dann
+kommen Sie bis unterhalb der Linie. Haben Sie das? Ach, das ist die gleiche Länge. Das ist die gleiche
+von der mittellinie aus nach unten spiegeln
+Ist es immer so, dass die Schwellfestigkeit so hoch ist wie die RWE?
+Was man hier dann rüberspiegelt, da gibt es schon andere Diagramme.
+Also es ist wahrscheinlich bei diesen Stahlsorten, ist es wahrscheinlich so, dass man dann die plastische Deformation beschränken muss.
+Wenn Sie eher sprödere Materialien haben, wird es nicht erfreulich sein.
+Wenn er höher liegen würde, würde ich meine, die Schwellfestigkeit ist auf die Linie liegen.
+Noch mal, wir gehen jetzt noch mal in diese Konstruktion.
+Hier ist nochmal das Bild, ja, die Vorgehensweise.
+Wechselfestigkeit, RM, RE werden angetragen.
+Diese Hilfskrate unter 45 Grad, das ist immer die Mittelspannung, das ist immer der Lastfall.
+Als Mittelspannung steigt, geht nach oben.
+Ist hier aufgetragen, Mittelspannung 100, 200, 300, 400, 500.
+Wir tragen jetzt da oben dieses Sigma W halbe ab.
+Das ist der Punkt.
+Der wird verbunden mit dem hier und daraus kriege ich jetzt diese Linie.
+Nächster Punkt. Ich messe hier, oben kommt der Deckel drauf. Das ist die Fließgrenze. Das ist das RE.
+Das Maß wird nach unten abgetragen. Hier sieht man jetzt bei dem Bild,
+Und wo wäre jetzt hier die Schwellfestigkeit zu messen?
+Schwellfestigkeit heißt, das ist der gelbe Lastfall.
+Die Mittelspannung ist die halbe Spannung.
+Die Schwellfestigkeit ist hier oben.
+Die Unterspannung ist 0.
+Die Unterspannung ist hohe 0 an der Position.
+Da ist die Mittelspannung und das wäre die Schwellfässigkeit für dieses Diagramm.
+Mittelspannung, Unterspannung 0, das ist die Schwellfässigkeit.
+Das ist mein Diagramm.
+Hier sind die Werte nochmal angetragen.
+tragen, RE, RM, Sigma W, da oben die Hälfte der Wechselfestigkeit abtragen, die beiden
+Graden miteinander verbinden, oben kommt der Deckel drauf, der Deckel ist deshalb drauf,
+eigentlich hält das Bauteil das aus, es gibt aber eine plastische Deformation und die lasse
+ich als Maschinenbauer nicht zu. Deshalb kommt von oben diese Schreckgrenze drauf.
+Und den Lastfall trage ich immer an, Mittelspannung hier, Amplitude da,
+Abstand zum Feld ist dann gegeben. Fragen dazu?
+2 Kennwerte, 2 kommen aus dem Zugversuch, das und das und das hier aus dem
+Widerkurve. Zugdruckwechselfestigkeit, Liegewechselfestigkeit und Traktionsfestigkeit.
+Konstruktion ist immer identisch.
+Wir drücken hier mal einen Lastfall an.
+Sicherheit bei 7,1 gleich 150 Mga.
+Das ist der Ausschlag.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Wie ist die Sicherheit für den Lastfall, wenn die Amplitude steigt bei der Mittelspannung 150 MPa und 25 MPa?
+Wieder anfragen, gucken wie groß ist die Festigkeit lokal, das kommt bei Ihnen raus.
+Sie sind da schon voll im Plastischen oder was?
+Ne, ich habe es dann bis zu L gemacht.
+Ist er bei mir, habe ich den jetzt so 150 Cent?
+Die sind zu weit rechts, oder?
+Mittelspannung.
+Ist 150.
+Ja, das kommt schon da in das...
+Ja.
+Geht da schon auf die...
+Also die 275 zu 177.
+Haben Sie es?
+Haben Sie den Lastfall angetragen jetzt?
+Ist der richtig drin?
+Ich habe ja keinen Plan mehr mitgebracht.
+Also der Plan steht da.
+Das ist das Vorgehen.
+Das ist fix.
+das ist das, was zu reproduzieren ist. Und bei einer dynamischen Bauteilanalyse macht man das so,
+dass dieses MIS-Diagramm als Referenz dient, um zu gucken, ob das Bauteil fest ist oder nicht,
+und wir müssen den Lastfall antragen. Man muss das Diagramm konstruieren, aus Werten heraus,
+und dann kann man die sicher
+Rm, Re, Sigma-Wechsel
+und dann diese Hilfsgraden
+um ein V
+dann haben Sie das so bekommen
+ihr lasst halt
+diese kleine blaue da
+bei 150
+die Mittelspannung liegt immer auf dieser
+45°
+und in diese Grade
+herum die Ausschläge.
+Die Wechselfestigkeit macht
+den Ausschlag von oben nach unten
+mit einer Mittelspannung
+von Null.
+Mittelspannung Null
+macht diesen Ausschlag rauf und runter.
+Das ist die Wechselfestigkeit.
+Zug, Druck,
+Zug, Druck.
+Das sieht mal weh.
+Geht die Mittelspannung nach oben,
+wird die
+ertragbare Amplitude
+immer kleiner.
+Wenn die Schwellfestigkeit erreicht wird, ist die Unterspannung 0, das ist die Schwellfestigkeit, die lag bei 700, der Mittelwert liegt bei 350.
+Das ist der Wert hier, da wo das Ding durch den Nullpunkt geht.
+Das ist die Schwellfestigkeit. Unterspannung 0, Mittelspannung, ablesbare Schwellfestigkeit.
+In dem Fall waren es vorhin 700, in dem Fall haben wir, was war es, 285.
+Wenn das richtig konstruiert ist, sieht man das an der Stelle und das entspricht hier der Streikreiz.
+Dann würde ich quasi jetzt hier diesen Festigkeitskennwert ablesen, das heißt die Sicherheit S ist die
+Die lokale Festigkeit, die ich messe, im Vergleich zur vorrangigen Spannung, das waren hier
+265, 275, was war das? 1,57.
+Ich lese das hier ab, das sind die 150, die Mittelspannung,
+und das sind die 25 plus
+und 25 minus
+nach innen
+das ist mein maximaler Wert
+der wird da oben durch die Decke gegeben
+an der Stelle habe ich die Festigkeit
+von 275
+275 bis 145
+ist die Sicherheit
+1,7
+das ist die Anfrage
+des Lastfalles
+Amplitude ist die Amplitude
+größer, die Sicherheit kleiner
+Weil der Abstand zur begrenzenden Linie entsprechend kleiner ist.
+Und je näher ich an das äußere Feld komme, desto weniger ist die Sicherheit.
+Das kann ich alles mit diesen Abständen aus der grafischen Ermittlung heraus messen.
+Eins, zwei, drei, vier, Querverbindung, Querverbindung, siebmal halbe abtragen, Punkte verbinden, Kreuzung, oben kommt der Deckel drauf, diese Länge wird nach unten weggespiegelt.
+dann habe ich den Punkt
+und damit kriege ich das begrenzene Feld
+das ist immer das gleiche vorliegen
+das möchte ich, dass Sie das reproduzieren
+für die Lösung
+dass Sie sozusagen von mir
+drei Kennwerte kriegen
+das Diagramm konstruieren
+und einen Lastfall reinschreiben
+Das muss hingehen.
+Fragen dazu?
+Nach rechts die Nippelspannung, die liegt immer auf dieser 45° geraden und von da aus die Amplitude abgetragen.
+Die Nachstandmessungen sind vorhanden im lokalen Festigkeitskennwert, der meine Kunden beschränkt.
+Die sehe ich jetzt hier weiter unten, die sehe ich hier oben beispielsweise.
+Jetzt müssen wir die Lastfälle antragen, die Steilfestigkeit bestimmen und damit kann man die Sicherheiten berechnen.
+Klassisch für den statischen Lastfall.
+Das Ganze macht
+mit dynamischen Bauteilbeanspruchungen
+da ist, brauchen wir
+die passenden
+Festigkeitskennwerte, die wir
+aus dieser Konstruktion heraus
+bekommen.
+Das ist jetzt das reine
+Material und jetzt dann die
+Kenngrößen, Größe des
+Bauteiles, Oberflächenraulichkeit,
+Kerben eingebracht
+existieren und das ist
+sowieso komplizierter, aber das sollten wir uns auch
+anschauen.
+Dazu
+Ich habe eine Frage.
+Ja.
+Woher kommt so etwas von 70 unten?
+Das ist quasi, ich sage mal,
+der abgewesene Wert, da bin ich
+ja jetzt maximal dagegen.
+175.
+Und die Sicherheit ist sozusagen
+der Abstand da oben zu der,
+wann ich die Kurve verlasse.
+Bis man nach oben.
+Wenn ich den Lastfall hier unten
+habe, dann hätte ich
+sowas.
+Dann messe ich den Abstand
+von da, das ist die vorhandene
+Spannung, zur lokalen
+Festigkeit.
+Den Wert lese ich da ab, den lese ich da ab oder ich weise ihn halt.
+Und dann können Sie das in Relation setzen.
+S ist, ich sag mal hier, der Festigkeitskennwert zur vorhandenen B-Anspruchung.
+wenn ich irgendwo anders bin
+auf der Gerade, hier oben
+und habe eine große Amplitude
+und der Abstand wird immer kleiner
+dann nehme ich den Quotienten
+zu dem, der wird immer kleiner
+aber die Sicherheit ist immer noch größer 1
+wenn meine Amplitude größer wird
+als das hier
+was wird hier an der Stelle passieren
+und das ist mein Lastfall
+das hier
+Was passiert, wenn ich diesen Nassball habe, das ist meine Mittelspannung, das ist die Amplitude.
+Was wird passieren?
+An der Stelle, genau an der Stelle.
+Das baut halt das aus.
+Ich bin hier über die Sprenggrenze mit meinem Lastpfeil.
+Die vorhandene Spannung ist größer als die Grenze zur plastischen Deformation.
+Das Bauteil wird sich plastisch deformieren.
+dann verliert es in der Regel seine Funktion.
+Geht nicht.
+Ich muss immer innerhalb dieser Fläche bleiben mit meinen Lastfällen.
+Und dann kann ich mit Sicherheit rechnen.
+Und groß wird die Sicherheit in dem Fall kleiner 1.
+Der Wert der vorhandenen Spannung ist größer als die Festigkeit.
+Der Quotient ist kleiner 1.
+die Konstruktion funktioniert nicht
+das haben Sie rechnerisch nachgefunden
+alles was innerhalb dieser Kurve ist
+hier ist immer der Wert der Mittelspannung
+Mittelspannung, Mittelspannung
+Amplitude dazu
+hier ist jetzt mal eine große Amplitude
+der Abstand zum Festigkeitskennwert
+das ist der Lastfall
+das ist die Beanspruchung
+das ist der Festigkeitskennwert
+Das ist der Abstand, da wird der Prozent gebildet.
+Das ist meine Sicherheit.
+Festigkeitskennwert in Relation zum vorhandenen Spannungswert.
+Wenn der vorhandene Spannungswert größer ist,
+S kleiner 1, Konstruktion funktioniert.
+Aber bitte sich das nochmal anschauen,
+anschauen, dass Sie in der Lage sind, aus diesen
+Werten heraus diese Konstruktion
+zu machen, unter
+45 Grad.
+Sicherheit für den Lastfall, Mittelspannung 250, Amplitude 25 Megapaskal, das kommt raus.
+Die Mittelspannung plus die Amplitude sind wieder 275 Megapaskal.
+denn das ist genau die Frequenz.
+Sicherheit S1,0.
+Maschinenbau und Fischerweise nicht.
+Wenn es für Gefahr von Leid und Leben geht,
+weiß ich nicht, woher es 2,0 ist.
+Sie zeigen nur noch welche Werte,
+also woher weiß ich bei einem Auto, was das abkriegt.
+Das sind ja auch Annahmen, die wahrscheinlich auch wieder mit zu sich gehalten sind und das ist ja irgendwie alles.
+Also ich komme aus dem Kunststoffbereich, wo man Lagerkranz für Chemie bereitet.
+Die sind teilweise aus Vollkunststoff und Stahl angemacht.
+Da wird geschweißt. Das Schweißen mindert die Festigkeit.
+Es gibt zig Faktoren, mit denen der vorhandene Festigkeitskennwert so weit reduziert wird.
+Es gibt Langzeiteigenschaften, es gibt Kriechen vom Material.
+Man weiß am Ende des Tages nicht wirklich genau, wie die Sicherheit ist,
+Weil in den technischen Reserven, die man hat, mit Sicherheit noch sehr viele Möglichkeiten sind, Material zu reduzieren.
+Das wird aber nicht gemacht, weil man diesen Sicherheitsaspekt da in erster Linie nach vorne gestellt hat.
+In vielen Fällen, gerade aus der Kunststoffdecke, können Sie Sicherheit z.B. schön berechnen und determinieren.
+Sie haben auch generell die Pflicht, die Spannung so weit zu reduzieren, dass wenn Gefahr für Leib und Leben da ist, müssen Sie per se die Spannung mit Faktor 2 reduzieren.
+Es gibt weitere Abwitterungsfaktoren, die die zulässige Spannung reduzieren.
+Wie fern dann Ihre Konstruktion nicht mehr 2,0 der Sicherheit ist, sondern noch 3 oder 4 oder 5?
+Man hat aber immer das Worst-Case-Szenario vor dem Auge und sagt, das möchte ich berechnen.
+Das ist im Vielfältigen des Maschinenbaus eigentlich nicht gut.
+Das ist die Frage, wie gut ist mein Modell und wie gut sind meine Materialien?
+Und dann kommen Sie nahe an Konstruktionen, die funktionieren.
+Ungläubig?
+Ungläubig?
+Zu dem?
+Nein.
+Wo kommt die Ungläubigkeit her?
+Wenn du von mir was verstehst, es ist ja fest durch.
+Das hier, durch Beanspruchung oder?
+Warten.
+Ja, genau.
+Es ist Sigma-Festigkeit abgelesen aus dem Diagramm, lokal, gegenüber Sigma vorhanden.
+Das ist die Last, die lokale.
+Oder Beanspruchung.
+India wird angetragen, ein Lastfall und ich muss immer innerhalb der Fläche sein.
+Der Abstand zu dieser äußeren Begrenzung zeigt, ob eine Sicherheit da ist und wie groß die ist.
+Vielen Dank.
+Also bitte, das hier verinnerlichen, wie diese Konstruktion gemacht wird, dass wir das zeichnen können.
+Drei Kennwerte und halbes Hilfskragen und dann einmal dieses Notnachuntenfällen ist alles.
+Das wird eine Aufgabe sein und dann Lastfallantragen in dem allgemeinen Teil.
+Das werde ich machen.
+Gucken Sie vielleicht, üben Sie es nochmal zu Hause.
+nehmen Sie nochmal einen anderen Kennwert her,
+meinetwegen irgendwas nochmal aus dem Diagramm hier.
+Seite 38.
+Seite 38, da können Sie das nochmal üben.
+Das sind alle Werte da, die man braucht.
+RE, RM und die Wechselfestigkeit.
+Dann können Sie gucken, wie wir sie richtig konstruiert haben.
+Steht hier hinten die Schwellfestigkeit.
+Das ist der Wert, wo die untere begrenzende Einheit durch 0 geht.
+Das ist Sigma M.
+Und da oben lesen Sie die Schwellfestigkeit ab.
+Die ist hier genauso groß wie die Streckgrenze.
+Da haben wir die 275 und da die 355.
+Also dynamisch kann das Material eigentlich mehr, aber Sie begrenzen das durch die klassische Thermomation.
+Da lassen Sie einfach nicht mehr zu.
+Und wie diese Felder immer größer werden, mit Zunehmung der Festigkeit, steigt auch die Zugdruckwechsel-Festigkeit und das Feld wird immer größer.
+Damit ist ein Stahl mit einer höheren Festigkeit prinzipiell deutlich höher überlastet.
+Und jetzt machen wir dann noch, Sie schreiben da jetzt bitte mit,
+ich werde diese, wir haben jetzt noch eine weitere Aufgabe,
+und das ist jetzt, dass ich das, was bei mir da steht,
+ich mache das hier, das ist die Aufgabenstelle.
+Wir haben eine Welle, die Welle dreht sich, es ist ein Biegemoment da und es ist ein Torsionsmoment da.
+Wir haben eine Beanspruchung, eine Biegbeanspruchung, die liegt bei 200 Megapaskal plus minus 50 Newtonquadratmeter.
+Und wir haben eine Torsionsbeanspruchung dieser Welle von 100 plus minus 25.
+Also sowohl eine Biegung als auch eine Torsion.
+Und wir wollen jetzt berechnen, wie groß die Sicherheit unseres Materiales ist.
+Da gehen wir auf die Biegung.
+Die Bieggefestigkeit 840, das ist das Betrieb des Fließens, das ist die Zugfestigkeit 880,
+er hat eine Biegeschwellfestigkeit von 670
+und er hat eine Biegewechselfestigkeit von 400
+und das ist jetzt die Aufgabenstellung
+und Sie haben diese Präsentation
+haben Sie die alle jetzt zur Hand
+die können Sie runterladen
+haben Sie, haben alle
+wir gehen das jetzt gemeinsam durch
+ich zeige Ihnen jetzt, wie man sowas rechnet
+Ja?
+Das ist jetzt quasi nochmal sozusagen die Anwendung dessen, was wir eben gemacht haben.
+Wir gehen das gemeinsam durch.
+Man muss zunächst auf der rechten Seite das MIS-Diagramm konstruieren.
+Da gibt es jetzt noch zwei, drei Sachen zu beachten.
+Geht es jetzt einfach mal durch, damit Sie es gesehen haben.
+Ich überlege mir dann das drüben dann mal.
+Nochmal, RM, hier oben, nochmal, deshalb finde ich es wichtig, RM, RE, hier abgetragen nach oben und nach unten die Wechselfestigkeit.
+Da oben die Wechselfestigkeit zur Hälfte, nach links abgetragen, ergibt diesen Fixpunkt, der jetzt hier eine Verbindung zu dem hier findet.
+Dann kommt das Spiegeln des Kreuzungspunktes nach unten, dann werden diese drei Punkte miteinander verbunden und unser Diagramm ist fertig.
+Ja, das haben wir jetzt gemacht.
+Das haben wir jetzt safe.
+Was wir jetzt zusätzlich brauchen, die Maschinen brauchen.
+Ich habe gesagt, wenn es bei so einem Bauteil an der Oberfläche Kerne gibt, wird die Dauerfestigkeit reduziert.
+Wenn das Bauteil besonders dickwandig ist, wird die Festigkeit reduziert.
+Und wenn es scharfe Kerben gibt, wird die Festigkeit reduziert.
+Und dazu braucht man ein gesichertes Vorgehen im Maschinenbau.
+Und dabei macht man Folgendes.
+Wenn ich das Smith-Diagramm habe, und dann haben wir vorhin gesagt, was wird passieren mit dem Feld?
+Was wird mit meinem Feld passieren, mit dem hier?
+Das ist mein Feld, da spielt die Musik.
+Da wird der Lastfall angetragen und dann schaut man, funktioniert das oder funktioniert es nicht.
+Was passiert, wenn die Bauteilwandstärke größer wird mit der Festigkeit, mit der dynamischen Festigkeit mal generell?
+Das Bauteil größer wird, schon bei der statischen wird die kleiner, also wird auch bei der dynamischen Beanspruchung die Festigkeit kleiner.
+was heißt das für mein Feld, für das Smith-Diagramm? Es schrumpft. Es wird kleiner. Man nennt das Verkleinerung.
+Es gibt eine Reduktion. Es gibt eine Reduktion, die gehört an mit der Bauteilgröße, geht über die Oberfläche
+und es geht für das Bauteil, wenn es um eine Bauteilfestigkeit geht, auch über diese Kerbe.
+Das haben wir vorhin schon gesehen, bei dem anderen Bild.
+Da haben wir gesagt, die Zerrung, Kerbe, Material wird fester.
+Die Form verändert sich in einem Smith-Diagramm.
+Und zwar in der Art.
+In der Art.
+Das ist der glatte Oberkörper, an dem bisher gemessen wurde.
+Jetzt kommt eine Kerbe rein.
+Das Feld wird kleiner.
+Die Wechselfestigkeit wird reduziert.
+Mein Feld schrumpft.
+Die plastische Deformation geht nach oben.
+Die Festigkeit steigt, weil der Kerl drin ist, weil das Material diese plastische Deformation aufnehmen kann.
+Da oben, das interessiert uns mal erster Linie gar nicht.
+Das wird in der Praxis teilweise genutzt, indem man Bauteile in Plastik vordeformiert, um eine höhere dynamische Festigkeit zu bringen.
+Die anderen schießen die Kugeln auf die Oberfläche, um dort Spannungen reinzubringen.
+Generell wird das Feld kleiner.
+Wenn ich den Lastfall habe, der beim Klappenstab funktioniert, beim Bauteil funktioniert er nicht mehr.
+Die Kerbe reduziert die Festigkeit, sie macht das Feld kleiner.
+Das müssen wir rechnerisch berücksichtigen.
+Und das macht man so folgendermaßen.
+Mein ursprünglich glatter Prüfstab, idealisiert, an dem alle Messungen gemacht worden sind,
+wo wir jetzt sagen können, naja, können wir schon messen, nutzt mir alles nichts,
+ich muss auf der rechten Seite diese Kenngrößen mit berücksichtigen,
+die Dauerfestigkeit reduzieren, das Smith-Diagramm wird verkleinert.
+Das ist das, was wir jetzt machen.
+Und es gibt eine erste Reduktion über die Bauteilgröße.
+Dieses RP zu RP02', das hier, wird über die Bauteilgröße gemacht.
+Das Bauteil, wenn es dicker ist, hat eine niedrigere Festigkeit.
+Das lasse ich hier einfließen.
+Da gucke ich, wo ist der maximale Querschnitt, 60, 70, 80 mm und reduziere meine Festigkeit.
+Das Feld wird kleiner.
+Das macht er hier an dieser Stelle über das.
+Und die Wechselfestigkeit wird auch kleiner, wenn das Bauteil größer wird.
+Wir haben das vorhin gesehen.
+Bauteil Wanddicke nimmt zu, Festigkeit nimmt ab.
+Erste Reduktion.
+Aus dem großen Feld, das wir hatten,
+Da wird ein kleineres Feld. Der wird reduziert, der reduziert sich.
+Das ist mein neues Feld, in dem ich mich bewegen kann.
+Diese Strichlinie.
+Die Strichpunktlinie berücksichtigt jetzt nochmal die Kerbwirkung und die Oberfläche.
+Das ist eine Kombination.
+Da schaut man sich an, wie rau ist das Bauteil.
+Ist es besonders rau, wird die Festigkeit nochmal reduziert.
+Und wenn es Kerben hat, die scharf sind, passiert was?
+Scharfe Kerben reduzieren die Bauteilfestigkeit nochmal.
+Und deshalb gibt es dann eine zweite Reduktion über die Kerbwirkung und die Oberfläche.
+Dieses AK-Strich wird dann von oben übernommen und das Feld wird immer kleiner.
+Das Feld wird immer kleiner und meine Belastbarkeit entsprechend geringer.
+Aber so kann ich sicherstellen, dass eine Konstruktion funktioniert.
+Das machen wir jetzt mal an einem Beispiel, an dieser Welle.
+Diese Welle hat einen Durchmesser von 60 mm auf der einen und 90 mm auf der anderen Seite.
+Dazu gibt es einen Radius, der 12 Millimeter ist und ein RZ, die Oberflächenrauhigkeit von 4 µ.
+Die Faden- und Festigkeitskennwerte habe ich schon gesagt und diese Laständerung,
+Genau, diese Laständerung müssen wir auch berücksichtigen.
+Hier ist es so, das Verhältnis der Amplitude zur Mittelspannung bleibt konstant.
+Also die Mittelspannung steigt und die Amplitude steigt.
+Erster Schritt, man bildet eine Vergleisspannung.
+Diese Vergleisspannung berücksichtigt jetzt den Lastfall Biegung und dieser Lastfall berücksichtigt
+Die Torsion, und da sehen wir jetzt, wenn man eine Vergleichsspannung macht, Sigma V,
+nimmt man die Biegebeanspruchung und die Torsionsbeanspruchung und macht für die Mittelspannung eine Vergleichsspannung.
+Das geht folgendermaßen.
+Das ist dieses Sigma V, das haben Sie jetzt nicht, bitte mitschreiben.
+Die Vergleichsmittelspannung setzt sich zusammen aus der Biegung und aus der Torsion
+gemäß dieser, das ist die Gestalt-Änderungs-Energie-Hypothese für klassische Materialien
+Schreibe es bitte mit, dass es mal wirklich aufgeschrieben wird
+also Sie machen hier
+erst eine Vergleichsspannung
+für Sigma M
+das ist die Mittelspannung
+das sind die 200 Megapaskal
+zum Quadrat
+plus minus aus der Torsion
+die 100, 3 zum Quadrat
+wenn Sie es richtig ausrechnen
+was Sie bitte mal machen sollten
+gucken Sie es mal in den Rechner ein
+dass Sie die Werte richtig hinbekommen
+das ist auch eine Übungssache
+dann kommt da raus
+264 Newton
+pro Quadratmillimeter
+wenn Sie es richtig gemacht haben
+das gleiche
+für die Amplitude
+für die Biegung
+war die Amplitude plus minus 50
+aus der Biegung
+und plus minus 25
+aus der Torsion
+Hier wird eine Mittelspannung gebildet, aus Biegung und Torsion, aus einer dynamischen Beanspruchung, und jetzt wieder eine dynamische, mit 264 Megapaskal, Mittelspannung, plus minus 66.
+Das ist mein Lastgrad. Das ist die eine Seite der Waage. Jetzt müssen wir gucken, was man mit meinem Zwist hier erkannt hat.
+Jede zwei Verschiebungen hat zum Beispiel diese Aufgabe zu düngen und biegen und andere zum Beispiel zu kacken und biegen.
+Es gibt dann eine andere, die leicht spannen muss.
+Aber generell ist es so, man bildet eine Vergleichsspannung für die Mittelspannung und eine Vergleichsspannung für den Ausschlag.
+Die 264 liegen jetzt permanent an und machen einen Ausschlag von 66 plus minus.
+Das ist meine Amplitude.
+Und das habe ich jetzt mit dieser Gestaltänderungsenergiehypothese verrechnet.
+Ist das okay?
+Die Vergleichsspannung der Mittelwerte und die Vergleichsspannung der Amplitude werden berechnet.
+Weiter.
+Jetzt kommt das hier.
+Wir müssen diesen Korrekturfaktor richtig ermitteln.
+Und da geht man ingenieurmäßig vor, der Größenbeiwert, er hat jetzt B1 genannt, aber das ist eigentlich diese Bauteilgröße, CE, Bauteildurchmesser 60 mm, geht man hier oben auf diesen Wert, zieht ihn darüber und dann kommt dieses CE von 0,78 raus.
+Könnte es sein, wenn ich so eine Aufgabe mache, dass Sie mir sowas rechnen müssen, würden Sie die Diagramme zur Verfügung stellen?
+Was heißt denn das jetzt?
+Okay.
+Und diesen Faktor wird das Feld kleiner.
+Die Wechselfestigkeit wird kleiner, die Strecklösung wird kleiner.
+Das ist diese erste Reduktion.
+Wenn man da mal hinschaut, wir haben auf der einen Seite unsere Belastung, das ist die Mittelspannung und die Amplitude,
+und wir haben auf der anderen Seite unsere Festigkeit, das ist das Smith-Diagramm.
+Und im Zuge der ersten Reduktion über dieses Cd, über diesen Größenbeiwert, wird das Feld kleiner.
+Die Wechselfestigkeit ist nur noch 78%, die Sprechgrenze auch nur noch 78%.
+Einkommen so tief, das Feld wird kleiner.
+Die Belastbarkeit nimmt ab, Bauteilgröße nimmt zu.
+Haben Sie?
+Nächster Kennwert.
+Wir müssen jetzt schauen, wie dieser Oberflächenbeiwert aussieht.
+Da macht man folgendes.
+Da unten sehen Sie, da ist eine Bruchfestigkeit aufgetragen.
+Dann gibt es ein RZ, das die Oberfläche berücksichtigt, was man hier sehen kann.
+Je fester das Material, vom Prinzip her,
+je fester das Material, desto kleiner ist dieser Oberflächenbeiwert.
+Das heißt, die Reduktion wird immer größer.
+Das Feld, das ich habe,
+mein Smith-Digagramm, wird wieder kleiner.
+Angetragen,
+unsere Festigkeit war was?
+Pro Festigkeit, vorne in der
+Aufgabenstellung, Pro Festigkeit war
+RM
+880.
+Ich gehe da mal hin. Was war unsere
+Oberflächenrauchigkeit?
+Was war die Oberflächenrauchigkeit?
+rz war 4
+das heißt, suchen wir hier die 4
+ich gehe da hin
+rz ist 4
+das ist der Wert
+ok
+so wird hier systematisch vorgegangen
+dann
+zieht es nach rechts
+und ich habe jetzt abgelesen
+Oberflächenbeiwert
+0,88
+ja
+Ja, wie folgen wir?
+Das ist jetzt die Rauigkeit, die Festigkeit, die dazu führt, dass mein Bauteil meine Belastbarkeit als Missdiagramm kleiner wird.
+Das ist vorne der Aufgabensteller, also Sie müssen jetzt korrespondierende Rauchigkeit
+finden.
+Das ist eine sehr geringe Rauigkeit.
+Steigt die Rauigkeit an, dann hätte ich jetzt, wenn ich jetzt RZ10 hätte,
+müsste ich auf den Punkt gehen und dann würde ich vorne 0,78 anwesend.
+Das ist das systematische Vorgehen.
+Diese höhere Rauigkeit reduziert den Oberflächenbeiwert.
+Das Feld wird immer kleiner.
+Mein Smith-Diagramm wird immer kleiner.
+Die Belastbarkeit geringer.
+Je rauer die Oberfläche ist und generell je fester mein Material ist.
+Warum? Weil ein festeres Material ist immer eine schlechtere Zähigkeit.
+Und Zähigkeit brauche ich, um lokale Spannungen abzubauen.
+Das gelingt mir nicht mehr, wenn die Festigkeit entsprechend hoch ist.
+Ja?
+Zugversuch. Einfacher Zugversuch.
+Je fester das Material, desto geringer die Deformierbarkeit, desto geringer die Zähigkeit und deshalb geht dieser Wert zurück.
+Die dynamische Festigkeit geht auch zurück.
+Ja?
+Und dann gibt es die Diagramme.
+Das ist jetzt die Kehrtwirkung, die können Sie unterscheiden auf verschiedene Fälle.
+Wir haben jetzt, ich habe jetzt den Lastfall hier rausgesucht, das ist mein R, das ist das D, das ist das D.
+Wir müssen jetzt die richtigen Werte bilden.
+Der richtige Wert für diese Situation und Biegung, D, in etwa in dem Bereich, das war das unten, das ist das R zu D.
+R war 12, D ist 60. Das ist der beanspruchte Querschnitt.
+12 durch 60 sind ein Fünftel 0,2.
+0,2 fahre ich in den Festigkeitswert rein, spiegle das Ganze nach links und bekomme ein Eta K Torsion von 1,4.
+Ich zeige Ihnen das gleich, das ist ein bisschen verwirrend hier von der Darstellung, muss ich ehrlich zugeben.
+Das ist aber auch so ein entsprechendes Tabellenbuch.
+Das D zu D, also beansprucht ist der kleine Durchmesser, also ist der hier hergenommen.
+das d zu d ist 90
+zu 60
+ist 1,5
+wir gucken uns jetzt diese Hauptwahrnehmung
+und Biegung an der Stelle an
+und dann kommt ein Wert da vorne raus
+für dieses c
+von 0,75
+das sind jetzt zwei Werte
+die wir abgelesen haben
+und da unten
+kommt jetzt die Gleichung
+die das zu berechnen ist
+diese Kehrwirkung
+für die vorhandene Geometrie
+das ist das Beta KB
+plus C
+aus dem Diagramm
+aus dem Diagramm
+diese 0,75 durch 1
+durch Beta KT
+in E
+1,4
+2,0
+bekommen dann
+das haben Sie jetzt nicht da unten
+das müssen Sie mitschreiben
+Diese Gleichung ist nur mal ein exemplarisches Vorgehen, was der Maschinenbauer da so treibt.
+Das ist diese Gleichung mit den zwei Variablen, dem C und diesem Vetter K.
+Und damit kommt ein Wert raus von 1,54.
+Amen.
+Vielen Dank.
+Die Konstrukteure, die jetzt quasi dann Dimensionierung machen müssen von Bauteilen, sagen, jetzt haben wir das so und so gewählt.
+Wenn Sie jetzt Zwischenwerte haben, was macht man dann?
+Das ist jetzt alles sehr schön perfekt abgebildet, das Berechnungsbeispiel.
+Beispiel, wenn Sie 60 und 90 mm haben, sondern 75 und 90 mm in einem anderen Radius, dann
+müssen Sie approximieren. Man hat solche Tabellen, geht da rein und guckt, gibt es
+Zwischenwerte, kann ich ungefähr was Vernünftiges ablesen. Und was macht der Ingenieur dann?
+Er stellt sich auf die sichere Seite und sagt mal, naja, der sagt mir jetzt hier, der Wert
+0,75 ist dann entsprechend diese Verkleinerung, gehe ich vielleicht da noch etwas unter den Wert,
+um einfach auf der sicheren Seite zu sein, falls es Ungenauigkeiten gibt. Da können Sie am Schluss
+jetzt ein Foto machen. Das ist Sigma W, das ist die Streckgrenze, das ist das Diagramm,
+der hat jetzt auch die Schwellfestigkeit angegeben, und damit hat er eine Streckspannung,
+mit Fließgrenze Sigma BF
+mit dem
+größten Einflussfaktor Cg
+sind die 840 Nm
+pro Quadratmillimeter
+mit den 78%.
+Das Feld wird kleiner.
+Die Biegefestigkeit
+ist nur noch 655.
+Die Wechselfestigkeit
+ursprünglich 400 MPa
+wird ebenfalls kleiner.
+Reduziert nur noch 312.
+Das Ding. Neu. Das ist die erste Verkleinerung, weil das Bauteil dickwandig ist.
+Zweite Verkleinerung. Herdwirkung, Oberfläche, das waren die 0,88 durch 1,45.
+Jetzt sehen Sie, was die Geometrie macht aus diesem Bauteil.
+Aus dem ursprünglichen 400 Megapaskal Biegewechselfestigkeit am optimalen Hohenkörper wird jetzt noch eine Biegewechselfestigkeit in der Gestalt des Bauteils von 178.
+Das ist ein Faktor 2, über 2.
+der Wert hier wird wieder abgelesen
+und der wird ebenfalls
+in diesem Faktor 0,88
+durch 1,45 reduziert
+der hat jetzt hier
+260 rausgelesen
+das wird hier reduziert
+und damit kommt dieser Wert dann noch zusammen
+Wer malt mir den Lastpfeil an?
+Ich stehe vorne.
+Wir haben die Vergleichsspannung gemacht.
+Mittelwert und Amplitude.
+Mittelwert und Amplitude.
+Wo liegt der Mittelwert?
+264.
+Ich habe es gemerkt.
+264.
+Mittelspannung liegt hier.
+Amplitude.
+266
+liegt hier.
+Mittelspannung
+264
+Amplitude
+plus minus 66
+hier habe ich gesagt hier steht ja die amplitude würde immer größer
+Die Schwingungsamplitude.
+Die Mittelspannung bleibt gleich.
+Was mache ich jetzt?
+Wenn das Verhältnis
+immer gleich bleiben soll,
+das Verhältnis von der Mittelspannung
+zur Amplitude,
+dann nimmt man einfach
+einen Strahlsatz und macht folgendes.
+Er macht so, wenn die Mittelspannung im gleichen Verhältnis steigt wie die Amplitude, dann kann man das abbilden über so eine Gerade.
+Und wann durchstößt jetzt diese rote Linie meine Festigkeit?
+wenn gleichzeitig
+ein Versagen mit zunehmender
+Amplitude und zunehmender
+Mittelspannung im gleichen Verhältnis
+passiert, dann ist das genau auf diesem Strahl
+und da oben können wir den Punkt ablehnen
+das ist jetzt die Überlässigkeit
+es ist nicht mehr dieser Wert
+wenn wir gesagt haben, die Amplitude wird größer
+ist die Sicherheit geringer
+da ist der Abstand größer
+der Wert, den man da oben jetzt ablesen kann
+ist 580
+zu
+wie viel?
+Was ist die vorhandene Spannung?
+Der Festigkeitskennwert sind jetzt diese 580.
+Was ist die vorhandene Spannung?
+Der hier, wie groß war der?
+264 plus 66 plus 270 sind 330.
+580 zu 330.
+Sicherheit 1,7.
+Können wir mal zurückgehen?
+Ich lege die Präsentation ab.
+Sorry.
+Deshalb können Sie da nochmal durchblicken und vielleicht noch ein paar Stunden nachlesen.
+Man rennt hier das vorhandene Feld in das MIS-Diagramm,
+dessen Konstruktion Sie bitte im allgemeinen Teil auf die Reihe kriegen sollten.
+Sie kriegen drei Kennwerten, das müssen Sie üben.
+Wenn Sie es aber können, können Sie es.
+Und einen Lastfall antragen.
+Diese Swiss-Diagramme, die in der Praxis vorhanden sind,
+werden für ein Bauteil durch die vorhandene Größe des Bauteiles,
+die Oberflächenrauchigkeit und die vorhandene Geometrie reduziert.
+Und je nachdem, wie das Bauteil ausschaut, wird diese Reduktion und wie scharf die Kerben sind, entsprechend kleiner und Sie haben eine geringere Sicherheit Ihrer Konstruktion.
+Aber Sie können so berechnen.
+Die drei verschiedenen Überlastfälle sind in diesem Fall.
+In dem Fall, wo es steigt, die Mittelspannung, die Amplitude im Verhältnis.
+Dann machen Sie das über diese Linie.
+Das sind die Kreuzungspunkte da hinten und können somit die Sicherheit eines Bauteils bestimmen.
+Ganz oft mit einer entsprechenden Approximation verbunden.
+Dass Sie sagen, ich habe die Werte gar nicht, die ich eigentlich brauche,
+in den Diagrammen und Tabellen drin, aber Sie machen dann halt eine Approximation
+und sagen, ich setze mich da auf die sichere Seite, ich lege da kein Risiko,
+Ich hatte hier einen Student, der war im Aktivum, der hat da eine Ausübung von Fußbauteilen mit rumgemacht.
+Wir würden mit Sicherheit von 5 bis 6 berechnen.
+Diesen Fett überlegen Sie.
+Wobei bei Fußteilen, wenn es da an Veranspruchung kommt, das durchaus wieder ist.
+Das vielleicht nochmal zu Hause anschauen, durchlesen.
+Ich schreibe das gleich ab als PDF-Präsentation, weil wir uns das Ganze nochmal anschauen.
+Wenn es Fragen gibt, nächste Woche dann gerne.
+Danke für die Aufmerksamkeit.
