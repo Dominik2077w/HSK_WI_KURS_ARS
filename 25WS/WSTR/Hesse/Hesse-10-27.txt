@@ -1,0 +1,1542 @@
+Was wir da machen, als aufgeblendete Sachen von Zeige.
+Also das heißt, Sie sehen jetzt meine Handschriftnotizen relativ viel in Ihrem Skript.
+Ja, das ist vielleicht nicht ganz ideal, weil meine Handschrift, wie gesagt, nicht perfekt ist.
+Aber ich hoffe, es hilft Ihnen dann doch, ein bisschen besser noch mitzufolgen,
+was wir hier machen und entwickeln wollen.
+Und nicht nur in Spenoschreibarbeit zu gehen.
+Wir werden da so eine Kompromisslinie finden, das ist immer nicht ganz einfach, aber ich glaube hier hilft es der Sache, was wir machen wollen in dem Vorlesungskontext, sind theoretisch eine ganze Menge Sachen, je nachdem wie viel wir hier heute wirklich schaffen.
+Also nochmal ganz kurz das Anschauen von der letzten Stunde, die Grundlagen aus der Wärmeübertragung.
+Dann gehen wir rein in diese Geometrie von den Wänden.
+Es wird uns heute mehr oder weniger stark beschäftigen, wie eben vom Wärmetransport passiert,
+von zum Beispiel hier innen einem Raum nach da draußen, sagen wir mal draußen 10 Grad kälter als hier.
+Wie viel Wärme geht denn jetzt daraus verloren?
+Und da gibt es natürlich die Basis, die wir letztes Mal durchgenommen haben, nämlich die Wärmeleitung.
+Irgendwo geht es dadurch festes Material durch.
+Aber eben nicht nur ein Material, meinetwegen der Beton, sondern Beton und Isolation.
+Und sogar noch etwas aufwendiger, wir haben ja hier einen bestimmten Teil der Fläche, die ist mit Fenstern belegt.
+und einen bestimmten Teil, der ist eben mit Beton plus Isolation belegt.
+Also das heißt, wir haben irgendwie sowohl eine serielle Schaltung
+als auch eine parallele Schaltung von diesen entsprechenden Bausteinen.
+Also wenn man hier den Wärmestrom sich mal versucht zu visualisieren
+oder anschaulich in den Raum zu denken, dann geht von hier drinnen Wärme
+entweder eben dadurch oder dadurch
+und das teilt sich ein Stück auf
+das klingt schon alles sehr ähnlich
+wie die elektrischen Sachen
+und das werden wir dann heute auch so
+entsprechend sehen
+Guten Morgen
+Sie sehen also hier auch schon
+die entsprechenden Widerstände
+die da
+eine Rolle
+spielen werden
+das ist die Analogie zu dem elektrischen Strom
+und
+damit können wir dann auch eine ganze Menge rechnen
+am Ende der Vorlesungsfolien
+und das sind hier unten die 42
+bei mir, Vorhersage, die wir
+wahrscheinlich nicht ganz alle machen
+am Ende sind relativ viele Übungsaufgaben
+abgebildet
+und die sind aber dann
+eine gute Basis für Sachen, die wir
+in der kommenden Woche uns anschauen
+Soweit
+mal von vorne
+der Gedanke
+wir
+Wir hatten uns in der letzten Woche ein Stück weit damit beschäftigt, wir hatten abgegrenzt und haben gesagt,
+ja was machen wir denn in der Thermodynamik, bisschen merkwürdig, da steht Dynamik drin,
+aber eigentlich beschäftigen wir uns in diesem Fachteil bei Herrn Happig nur mit Gleichgewichtszuständen.
+Was war vorher, was ist nachher und auch wenn es um Kreisprozesse geht,
+was passiert an der Stelle 1, an der Stelle 2, 3 und 4, jeweils in stationären Bedingungen.
+Wohingegen wir in der Wärmeübertragung, also was wir jetzt gerade machen, uns wirklich mit dynamischen Vorgängen beschäftigen.
+Also nicht nur stationäre Sachen, sondern später, nicht in der heutigen Vorlesung, aber ab der kommenden, zunehmend auch mit Dingen, die sich über die Zeit verändern.
+wie schnell kühlt eine Tasse Kaffee ab, wie lange dauert es, bis das Ei gekocht mit der richtigen
+Temperatur ist und so weiter. Und bei der Schwimmungstechnik eben alles, wo Flüssigkeiten
+in Bewegung sind. Auch da kann man das stehen lassen ab der kommenden Stunde. Wir haben im
+Bereich der Wärmeübertragung uns ein paar Grundbegriffe mal angeguckt, die eine große
+Rolle spielen, ganz klar, die Temperatur in Kelvin oder Grad, die Wärme eben mit dem Symbol Q, die
+kommt die ganze Zeit in diesem Fach und das sollte man nochmal klar haben, dass Wärme, genauso wie
+Arbeit, genauso wie Energie, alles mit der gleichen Einheit belegt ist, das sind alles Energieformen
+und diese Wärme, man sieht es da, die kann halt dann produziert werden, dadurch, dass irgendwas
+dass elektrisch heizt oder dass Menschen mit dem Metabolismus einfach arbeiten, sich bewegen.
+Und wir haben gesehen, dann fließen Leistungen, nämlich Wärmeströme,
+die da entsprechend über eine bestimmte Zeit dann eben durch den Raum transportiert werden.
+Und dazu passt auch noch die Wärmestromdichte, die eben normiert ist auf die entsprechenden Dichten.
+Wir haben dann noch kurz eingeteilt in die drei Bereiche Wärmeleitung, Konvektion und Wärmestrahlung, an dem einfachen bildlichen Beispiel mal alle drei gezeigt.
+So treten die ein Stück weit auf und wenn Sie jetzt das transportieren hin zu Aufgaben, die Sie dann bearbeiten sollen, am Anfang ist es oft so, dass es heißt, berechnen Sie die Wärmeleitung von X oder Y oder die Konvektion von der Sache oder dieser Sache.
+Später sind die Aufgaben dann häufig mehr so, da gibt es irgendeine Fragestellung, die irgendwie in Textform kommt und sagt, was Sie da interessiert, irgendwie der Wärmefluss von Stelle A nach Stelle B und Sie müssen selber überlegen, was ist denn da jetzt relevant, ist es Wärmeleitung, Konvektion oder Strahlung, wie man das einteilt und sortiert, das kommt dann noch ein Stück dazu,
+aber es ist immer sinnvoll, so ein bisschen diese Anfangssortierung gut parat zu haben.
+Das hilft Ihnen dann auch zu navigieren, wenn Sie die Formelsammlung,
+wer hat sie mittlerweile ausgedrückt?
+Nächste Woche Montag brauchen Sie sie wirklich drinnen, mindestens heute die Hausaufgabe,
+weil da werden wir dann Übungen machen und Sie rechnen.
+Da drinnen dann eben gucken wollen, welche Formeln brauchen Sie gerade,
+dann müssen Sie eben richtig wissen, wo sind wir gerade, welches von diesen drei Teilbereichen ist relevant
+für die jeweilige Teilaufgabe oder gesamte Aufgabe.
+Wenn Sie sich da vertun, ist es sehr unangenehm, weil dann sind Sie halt gefangen in der falschen Richtung
+und dann ist es auch ganz schwer, da Punkte geltend zu machen,
+da irgendwelche Rechnungsschritte vernünftig anzuwenden.
+Also entsprechend das bitte aufpassen und immer als erstes überlegen, wo sind wir denn überhaupt.
+Hier sind Wärmeleitungsbeispiele gezeigt.
+Wir hatten uns dieses ganz simple Fourierische Wärmeleitungsgesetz nachgebildet.
+Bei Ihnen war es glaube ich in schwarzer Farbe, das kommt aus dem Jahr davor, das macht aber nichts.
+Die Gesetzmäßigkeit ist da nochmal zusammengefasst, steht eben auch in der Vorbesammlung drin
+und zeigt dem Mann, wie viel Wärme kann fließen, in welcher Zeit von der einen Stelle,
+von so einem Metallstab meinetwegen, zu der anderen Stelle, sieht fast aus wie mein Pointer,
+dieses Ding, dieser Stab, also wenn ich es hier heiß mache und hier hinten messe,
+dann wird es zwar eine Zeit dauern, aber irgendwann kommt hier hinten, wird es dann aufwachen
+Und diesen Wärmetransport, genau den können wir mit diesem Gesetz gut beschreiben.
+Wir haben dann auch gesehen, dass es verschiedenste Materialien gibt,
+die unterschiedlich starke Wärmeleitungseigenschaften haben
+und die entsprechende Größe, die dahinter steht, ist die Wärmeleitfähigkeit Lambda,
+die ganz oft gegeben bei Ihnen in irgendwelchen Textaufgaben.
+Es gibt aber durchaus auch die Frage, die wir vielleicht am Ende der Stunde oder in der nächsten Stunde nochmal aufgreifen wollen,
+die auch sehr detailliert in einem sehr guten Video nochmal beschrieben ist,
+wieso ist denn die Wärmeleitfähigkeit von Gasen so schlecht gegenüber der von Metallen?
+Da sind ja einige Größenordnungen dazwischen, wenn ich mir das hier anschaue, sind es also 10 hoch 5 in etwa,
+Also 10.000 Mal so schnell wird Wärme durch Metalle übertragen gegenüber den Gasen, die entstehen und in Ruhe sind.
+Da können ja auch Konvektionen auftreten bei Gasen, die bewegen sich ja.
+Wenn wir uns die reine Wärmeleitfähigkeit anschauen, also diese starke Spreizung und die Gründe, die dahinterstehen, die sollte man sich dann noch mal anschauen.
+Wir können mit dem, was wir bisher schon gemacht haben, aus dem ersten Übungsblatt diese ersten
+sechs Aufgaben gut beantworten. Das werde ich jetzt nicht machen. Wenn die Zeit reicht, machen wir es
+vielleicht am Abschluss der Stunde. Ansonsten gucken wir uns das nächste Woche mal an. Also
+da hoffe ich, können Sie ganz gut mitarbeiten. Das werden wir aber auf jeden Fall zur richtigen
+Zeit noch mal kurz Revue passieren lassen. Wir sind also stehen geblieben bei dieser Stelle
+und haben uns stationäre Wärmeleitung angeguckt in einer ebenen Wand mit diesem Fourier'schen
+Gesetz. Hier ist es jetzt spezifisch geschrieben, das heißt auf die Fläche normiert mit dem
+kleinen q und ich habe da unten den Index L hingemacht. Dieses L sollte nichts anderes
+andeuten, als dass es Wärmeleitung ist. Manchmal steht auch WL, um eben noch mal zu zeigen, dass es nur dieser
+Effekt ist und keine Konvektion und keine Strahlung. Wir sehen da in dem roten Pfeil die entsprechende
+Richtung der Wärmeleitung, die da drinnen steckt. Und ich habe hier auch noch mal skizziert, dass Essigung
+hier oben steht es in dem grünen Kasten, stationäre Wärmeleitung handeln soll.
+Das heißt, die Temperaturniveaus drinnen und draußen sind jetzt erstmal konstant.
+Nehmen wir mal hier dieses Hausbeispiel und haben da eine Betonwand.
+Und der Beton, der hat eine bestimmte Eigenschaft.
+Mit einem Lambda-Beton, das kommt später wieder.
+und innen Temperaturniveau hoch und draußen meinetwegen 10 Grad kälter.
+Das heißt, der Wärmestrom, wenn ich stationär arbeite, der ist auch konstant.
+Immer die gleiche Wärme, die hier verloren geht.
+Die Eigenschaften sind für uns üblicherweise auch als konstant gehalten.
+Also diese entsprechende Wärmeleitfähigkeit, wir sprechen jetzt nicht davon,
+dass der Beton innen anders zusammengesetzt ist als außen.
+Es ist ein homogenes Material, gleichmäßige Wärmeleitfähigkeit.
+Wir haben eine feste Bezugsfläche, auf der das arbeitet.
+Man könnte das hier auch versuchen, so dreidimensional zu skizzieren,
+nach hinten diese Wand, mit der entsprechenden Fläche,
+die da meinetwegen hier anzusetzen ist.
+Und was bedeutet das Ganze in Summe?
+Nichts anderes als, dass dieser letzte Teil ja auch, jetzt geht nichts mehr, entweder ist die Batterie jetzt genau alle, das scheint der Fall zu sein, ganz plötzlich, der Ausfall des Geräts.
+ich habe noch einen zweiten Stift, der ist nicht ganz so gut
+mal schauen, ob es mit dem geht
+das heißt, in der Summe, dass
+wir hier hinten
+dieses d Lambda nach dx
+auch als Konstant
+haben, weil vorne steht Konstant, Konstant, Konstant
+wenn Sie die Gleichung anschauen
+dann muss hier hinten auch was Konstantes stehen
+sonst passt was
+nicht zusammen
+das heißt, dass dieses d Zeta
+nach dx
+nichts anderes ist als
+eine Konstante
+CTE
+schreibe ich da jetzt mal
+und das bedeutet aber auch, dass
+Delta Theta nach
+Delta X
+wenn wir das jetzt
+ortsmäßig auflösen und hier oben mal
+die Länge S dran schreiben
+Sie haben es hoffentlich gesehen, ich habe ja hier unterwegs
+die Materialdicke
+mit S bezeichnet
+ich habe die Temperaturniveaus Theta 1 und Theta 2
+festgegeben, wenn ich es jetzt anwende
+auf dieses gesamte Konstrukt
+dann habe ich hier nichts anderes als
+Theta 2 minus Theta 1
+durch S
+und so
+ergeben sich
+verschiedene Dinge, zum einen kann ich
+klar daraus benennen
+wenn dieses hier gilt
+das ist ein bisschen vielfarbig, aber okay
+so ist es nun mal
+vielleicht mal hellblau
+dass
+dass sich, wenn sowas konstant ist, dieses Differenzial,
+dann heißt es nichts anderes, als dass dieses hier eine Gerade sein soll.
+Bei mir ist es nicht so richtig gut gelungen,
+aber Sie können das besser, hier einen geraden Strich reinzumalen,
+denn wenn das konstant ist, dann ist die Steigung konstant, oder?
+Damit habe ich im Prinzip diese Gesetzmäßigkeit gerade nochmal hergeleitet oder unterstützt.
+und dann
+kommt hier raus, dass
+Q Punkt L
+nichts anderes ist als
+ja, das kann man ja von oben schreiben
+das ist die Gleichung von da oben
+zwei Zeilen drüber
+minus Lambda mal
+A durch S
+Zeta 2 minus Zeta 1
+und das ist ja hier nichts anderes
+als das Zeta Theta
+so, dann
+steht da glaube ich bei Ihnen noch was eingeblendet
+naja, habe ich schon fast befürchtet
+da unten steht es
+lineare Abfall im homogenen Material
+ok, das haben wir gerade uns überlegt
+Hier unten steht auch noch was, das habe ich dann nur mal ergänzt, weil es in den nächsten zwei, drei Folien kommen wird.
+Und wenn Sie das nochmal zurückklettern, dann ist es sinnvoll, dass Sie das auf der gleichen Folie stehen haben.
+Hier steht was drin mit dem sogenannten thermischen Widerstand, der in einer Folie oder zwei definiert wird
+und der einen Zusammenhang gibt zwischen dem Temperaturunterschied, hier draußen, dem Wärmestrom und dem Wärmestrom.
+Das heißt, wenn der Widerstand der Wand groß ist, dann wird nur wenig Wärme fließen oder, andersrum gesprochen, dann können Sie einen hohen Temperaturunterschied aufbauen bei einem gegebenen Wärmepunkt.
+Dazu kommen wir gleich noch.
+Wir schauen uns genau das jetzt an. Aus dem elektrischen Bereich kennen Sie alle aus dem entsprechenden Schulunterricht oder ersten Semestervorlesung,
+dass wir uns den Strom anschauen und von der Zialdifferenz einen ohmischen Widerstand und dass, wenn wir dieses einfache Bild da haben,
+dann die Spannung über einen Widerstand fließt mit dem Strom und da hinten sich eine andere Spannung ergibt.
+Also ein Spannungsabfall über den Widerstand.
+Und da ist die Definition des ohmischen Widerstands.
+Und jetzt machen wir das gleiche Spiel einmal für die Wärmeleitung.
+Und zwar mit den entsprechenden passenden Größen.
+Wir haben hier gegenüber dem Strom den Wärmestrom.
+Das ist ein Q-Punkt, eben ein bisschen gewöhnungsbedürftig, dass wir da immer diesen Punkt mitziehen müssen.
+Aber das liegt in der natürlichen Sache.
+Dann haben wir die Temperaturdifferenz.
+Kann man das einigermaßen lesen?
+Und ich habe jetzt vorhin auch, bei der letzten Folie war ich kurz selber ein bisschen stutzig,
+das ist jetzt immer eine Frage, wie man jetzt diese Differenzen definiert.
+Also in dem Falle 1 minus 2 kann man natürlich genauso auch andersrum schreiben
+Und deswegen auch dieses Auftreten dieses Minuszeichens ist ein bisschen eine willkürliche Angelegenheit.
+Ich empfehle Ihnen, mit Ihrem logischen Verständnis bei Aufgaben dranzugehen und zu überlegen, von wo nach wo gehen denn die Wärmeströme, immer von warm nach kalt.
+Und dann können Sie das auch sehr gut an irgendeinem Bild einzeichnen.
+Und wenn Sie es am Bild richtig zeichnen, dann können Sie, so wie Sie kirchhoffische Gesetze kennen,
+auch sehr schnell überlegen, wo gibt es Minuszeichen und wo gibt es Pluszeichen.
+Wir wollten aber hier weitermachen.
+Wir haben also da links den ohmischen Widerstand und wir definieren hier rechts 0.
+Ich kann mal definieren.
+Das ist vielleicht zu klein, dass das keiner lesen kann.
+mit einem thermischen Widerstand, so ein Widerstand heißt es da hinten, mit einem R-Theta.
+So, was bedeutet das? Wir haben hier diese Wand und wir haben ein inneres Temperaturniveau Theta 1 und ein äußeres Temperaturniveau Theta 2 und wir haben dazwischen einen Wärmestrom.
+der geht hier rüber, das ist das Q-Punkt und wir können dem Ganzen als Synonym gegenüberstellen,
+das Grün, das kann man dann auch nicht lesen, ich mache es unten drunter, eine Sekunde, R-Theta.
+Und entsprechend diese Analogie fahren zu dem elektrischen Widerstand.
+Was bedeutet das, wenn wir jetzt unser Gesetz nehmen, so wie wir es von dem Foyer kennen und das Ganze hier in Analogie umsetzen wollen,
+dann muss dieses R Theta nichts anderes sein als Theta 1 minus Theta 2, um diesem Vorzeichenwechsel entgegenzutreten durch Q Punkt L.
+Wir haben hier noch eine Größe nicht notiert, das ist die Dicke der Wand, S und damit können
+wir eigentlich schon ganz gut arbeiten.
+Wir können auch, um dem Ganzen hier gerecht zu werden und die vorigen Gleichungen, die wir gesehen hatten, zu nutzen,
+schreiben, dass R Theta gleich ist wie S durch A mal Lambda.
+Okay, da habe ich Ihnen ein bisschen zu viel übereinander projiziert.
+Aber ich hoffe, Sie können es irgendwie ein Stück weit nachvollziehen und verfolgen.
+So leise Sie finden hier zwei Definitionen.
+Jedes R-Theta ist nichts anderes als der Temperaturunterschied durch das Q.
+So kennen Sie das hier auch beim Ohmschen-Gesetz.
+Und Sie können das Ganze aber auch auf die Materialeigenschaften projizieren.
+Ja, das wäre jetzt genauso wie wenn Sie hier die entsprechenden elektrischen Leiteigenschaften durch die Leitfähigkeit, ich glaube auch mit Sigma bezeichnet, sich anschauen und dann schauen, weiß ich nicht, wenn Sie so einen Längenpotentiostaten haben, wo Sie sagen, über einen bestimmten Weg fällt so und so viel Spannung ab.
+Und dann könnten Sie mit dem Abgriff schauen, wie viel Zentimeter gehen wir da entlang und wie viel entsprechenden Spannungsabfall haben wir schon gehabt.
+Also dieses findet auch hier eine Analogie, will ich jetzt nur nicht noch mal weiter ausformulieren.
+Soweit dieser Gedankengang.
+Der kann sehr hilfreich sein, wie Sie gleich jetzt auf den nächsten Folien sehen.
+Sie haben es alle mitgeschrieben?
+Passt.
+Dann spielen wir in die realitätsnäheren Ebenen.
+Wir haben hier, und das habe ich jetzt ganz bewusst eben sehr stark aufgeblendet,
+bitte schauen Sie mit hin, lauter Kuh-Punkts und wenn wir nur Wärmeleitungen betrachten,
+ist es relativ simpel.
+Die Wärme, die hier hineingeht in die Wand, die muss auch da irgendwie durchgehen durch die Wand
+und die muss auch hinten wieder rauskommen.
+Weil verschluckt werden kann sie nicht, solange sie stationär arbeiten.
+Wenn ich jetzt beginne und meine Wohnung einheize und die Wand ist kalt,
+dann absorbiert die Wand erstmal sehr, sehr viel Wärme.
+Dann sind sie nicht dort.
+Wenn sie aber mal so weit sind, dass ihre Wohnung durchgeheizt ist
+und sie schmeißen dann nochmal ein Holzstück in ihren Ofen oder was auch immer,
+wie sie wärmen und heizen,
+dann führt es dazu, dass genau dieser Wärmestrom gleichmäßig durch das Haus transportiert wird.
+Oder um die Temperatur innen aufrecht zu erhalten, müssen Sie nachheizen mit einer gewissen Wärme
+und genau dieser Strom fließt gleichmäßig danach raus.
+Das ist das, was in der ersten Zeile angezeigt ist.
+Hier oben, diese ganzen Qs sind eine Gleichungspunkt von 1 bis N
+und
+wir haben hier
+Werbeleiteigenschaften, die sind aber unterschiedlich
+der Putz hat eine andere Werbeleitung
+als der Ziegel, als die Dämmung
+und wir haben
+natürlich aber gleiche Flächen
+wieder, weil wir hier
+betrachten, dass
+diese Wand, durch die wir hier durchgehen
+genau parallel
+zueinander angeordnet ist und dann
+können wir damit arbeiten
+und im Späteren
+werden wir noch diese Zeile brauchen
+ich lasse mich gleich mal da stehen wir können uns als nächstes überlegen im
+letzten orangenen farbton
+grün sieht man besser da 1 ist meine innentemperatur und ich zeige hier außen
+mal an, dass die Temperatur
+gleichzeitig nach oben irgendwie
+skizziert werden soll. Also Theta 1
+ist innen und
+dann
+machen wir einfach ein Theta i,
+entschuldigen Sie,
+und hier außen haben wir
+eine andere Temperatur, Theta außen.
+Und
+wie verhält sich jetzt
+die Temperatur über diese
+Materialkombination, wenn ich
+da jetzt also einen Querschnitt machen würde
+und über einen Temperaturfühler reingehe, dann sehe ich, dass irgendeine Kombination sich ergibt.
+Innerhalb eines homogenen Materials sind wir immer linear.
+Dann haben wir vielleicht ein anderes Material, da fällt die Temperatur etwas stärker ab.
+Dann haben wir wieder ein Material, was meinetwegen besonders wenig Temperaturabfall bedeutet
+und dann eins, was besonders viel Temperaturabfall bedeutet.
+Irgendeine Kombination, das wir jetzt auch gar nicht detaillieren, wie die exakt aussieht,
+aber es ergeben sich lauter solche einzelnen Grenztemperaturen, die können wir jetzt durchnummerieren,
+Theta 1, Theta 2 und so weiter, bis zu einem Theta n und dann ein Theta außen.
+Sie sehen schon, dass, wenn ich solche Grenzflächen aufbaue, die Variablenbezeichnung recht wichtig ist.
+müssen wir uns noch ein bisschen mit beschäftigen
+und das scheint jetzt bei Ihnen
+erstaunlicherweise gerade nicht aufgeblendet
+muss ich es nachzeigen
+also jetzt können wir das Ganze analog ersetzen
+durch R1
+R2
+und dann mache ich hier
+Punkt, Punkt, Punkt
+Rn-1
+das kann man nicht lesen, weil es zu klein ist
+Rn-1
+bis
+Rn
+und wir haben hier wieder ein
+Theta
+innen
+und hier ein Theta außen
+so ähnlich wie Sie das kennen
+wenn Sie ganz einfache
+ohmische Gesetze machen und sagen
+da gibt es eine Spannung die liegt hier
+da haben Sie irgendeinen anderen Spannungswert
+und so weiter und so weiter
+und so weiter bis dahinten, aber was gilt für Ihr ganzes Netzwerk?
+Der Strom ist überall gleich, der da durchläuft.
+Und genau das machen wir hier auch.
+Also wir haben hier diesen Wärmestrom, der Q-Punkt ist
+und der ist genau der gleiche wie der, der hier hinten wieder rausfliegt.
+Da brauchen Sie keine Nummerierung, denn der Strom muss ja irgendwo durch.
+Also alles genau so, wie Sie Kirchhoffschen Gesetze kennen.
+Damit lässt sich dann arbeiten und auch gut rechnen.
+Und das werden wir auf der nächsten Folie machen.
+Dann haben wir hier eine Gleichung.
+Die erste habe ich noch nicht hingeschrieben, die zweite kommt dann aufgeblendet.
+Es geht darum, dass wir jetzt die entsprechende, spezifische Wärmeleitung über den spezifischen Wärmestrom bestimmen wollen.
+Dann nehmen wir uns wieder unser Fourier-Gesetz und das ist also dann nichts anderes als das, was mit den Lambda, mit den Eigenschaften der jeweiligen Materials zu tun hat.
+Gut möglich, dass wir heute ein bisschen früher Pausen machen müssen, weil ich mit meinem Stift hier etwas eingeschränkt bin.
+Zeta 1 minus Zeta 2.
+Und das kann man auch umschreiben in ein Zeta 1 minus Zeta 2.
+Jetzt muss ich Platz sparen.
+gleich
+S1 durch
+Lambda 1
+mal Q1
+Punkt
+also das ist eigentlich nur dieses gleiche
+selbst angewendet, wenn Sie
+das Ganze sich sparen wollen, können Sie es auch
+auf der zweiten Zeile anschauen
+interessant ist jetzt nochmal zu sehen
+klar, zweiter Wärmesprung
+im zweiten Material
+meinetwegen der Beton
+oder der Putz
+Ja, also erst Beton, dann Putz, also in Beton gilt das, in Putz gilt dieses, anderes Material, andere Dicke und die Temperaturniveaus zählen rauf und Sie sehen schon, bei der 2 kommt schon die Nummer 3, bei der 1 kam die Nummer 1 und 2 und so weiter umgestellt und jetzt stellen wir das alles so hin, das können wir natürlich jetzt zigmal machen, bis zur letzten Zeile passiert genau das gleiche, dazwischen könnten wir viele Punkte markieren.
+und sagen, da kommen noch einige weitere Gleichungen zwischen 2 und n, beliebig viele.
+Und jetzt kommt ja ein interessantes Schritt, dass wir sagen, okay, wir gucken uns diese Sachen hier mal an.
+Und wir wissen ja, dass diese, wie hier oben geschrieben ist, dass diese q-Punktgrößen alle gleich sind.
+und wir können jetzt
+da mal hinterher gehen und einfach
+eine Summe bilden
+Summe bilden
+und addieren
+die alle aufeinander, was kommt denn unten
+raus
+in der Summe
+wir schauen uns das an
+also diesen Teil ab hier
+Entschuldigung, jetzt nehme ich das mal weg
+die
+kann ich das
+Entschuldigung
+Entsprechende Größe ist Theta 1 minus Theta n plus 1
+Warum?
+Weil, wenn ich die erste Zeile mit der zweiten addiere, dann kürzt sich das hier genau raus
+Und so weiter, bis zu dem, wo sich hier was rauskürzt mit dem Theta n
+Also hier steht 1 minus 2 und hier steht 2 minus 3
+Wenn ich die aufeinander addiere, die linken Seiten hier
+dann wird alles was lila ist
+sich rauskürzen
+und es bleibt nur das übrig
+der erste Term
+und der letzte Term
+das ist genau das hier
+und auf der anderen Seite steht immer
+ein Quotient
+aus dem entsprechenden S mit dem Lambda
+also eine Summe
+über alle S und alle Lambdas
+und hinten stehen diese ganzen
+Q-Punkts, die sind aber alle gleich
+also
+Also die Summe über alle, jetzt kann man eine Laufvariable bestimmen, den i oder den nehmen wir lieber j, das ist ehrlich gesagt schöner, bis 1 bis, da gibt es jetzt entweder das kleine n oder man nimmt das große n, das kommt in den verschiedenen Lehrbüchern unterschiedlich vor,
+ist J durch
+Lambda J
+mal
+Q-Punkt.
+Alle Q-Punkte sind gleich.
+Und in jeder Summe steckt ein Q-Punkt drin.
+Soweit
+die Basis
+von dieser Stelle.
+Ich schreibe mal, dass ich den hier auseinandernehme.
+Ich nehme den Nachlass da.
+Dann können wir das Ganze in der Zusammenfassung nochmal anschauen.
+Wir haben gesehen, also an einer Wand gibt es so Wärmeströme, das ist jetzt nur grau
+geschrieben, weil wir das schon lange kennen.
+Wir haben uns jetzt relativ neu
+befasst mit diesem R-Theta.
+Hier wird es auch bezeichnet als
+R-Lambda. Warum?
+Kommt gleich rechts, glaube ich, aufgeblendet.
+Und da haben wir also was, was mit
+den Materialeigenschaften zu tun hat.
+Mit der Dicke, mit der Wärmeleitfähigkeit und der Fläche.
+Und das gleiche Spiel
+können wir auch noch machen.
+Ich vergleiche die ganze
+Elektrotechnik.
+Kirchhoff'sche Gesetze, dass wir in Analogie zu dem da oben was bauen, was die Wärmeleitfähigkeit von einer mehrschichtigen Wand bedeutet,
+bei dem die Fläche wieder eine Rolle spielt und der Temperaturunterschied von innen und außen,
+wenn wir uns aber nicht mehr anschauen müssen, welche Temperaturen sind innen drin,
+und aber alle Materialeigenschaften was zu tun haben.
+Und diese Formel ist ein bisschen unständlich,
+denn sie lässt sich ersetzen durch das Spiel mit den thermischen Widerständen.
+Wie sie hier gezeigt sind, können wir also das Q-Punkt auch als Temperaturdifferenz,
+innen und außen, geteilt durch die Summe von diesen ganzen Widerständen bilden.
+das ist nichts anderes als das, was da steht, ist in der Rechnung einfacher.
+Wir werden das relativ bald in Anwendungsbeispielen sehen.
+Nochmal ganz kurz abgeholt, warum steht da jetzt R-Theta und plötzlich auch noch ein R-Lambda?
+Das kennen wir schon, thermischer Widerstand, das ist das gleiche, Wärme-Neid-Widerstand.
+Und hier gibt es noch einen anderen Wärme-Übergangswiderstand,
+den werden wir im zweiten Teil der Vorlesung stärker uns anschauen,
+das ist, wenn Konvektion auch noch eine Rolle spielt.
+Praktischerweise können wir dieses Konzept nicht nur bei Wärmeleitung anwenden,
+sondern auch bei Konvektion.
+Und das heißt, hier übergedrückt sind irgendwelche R-Thetas,
+Index, damit wir uns nicht verwechseln mit elektrischen Widerständen.
+Und da gibt es aber entweder R-Lambda-Beiträge oder R-Alpha-Beiträge.
+Die werden Sie im Laufe der Stunde noch genauer kennenlernen.
+Wir wollen uns jetzt kurz anschauen, wie das Ganze bei einer entsprechenden...
+Entschuldigen Sie, vielleicht ergänze ich da noch kurz was, was ich nur gesagt hatte,
+dass es einfach auf der Folie nochmal draufsteht.
+Wir hatten nämlich gesehen, dass Q Punkt L nichts anderes ist als Delta.
+Theta durch Summe über alle R Lambda.
+Das ist genau das, was wir gesehen haben.
+In Analogie zu Ohmschen Widerständen, dass I gleich Delta U durch die Summe über alle R, ich mache jetzt nochmal bewusst ein Ohmzeichen dran, ja.
+Das ist genau unser Spiel, was wir nutzen, was wirklich sehr.
+Das ist ja griffig, das denke ich.
+Ja?
+Soweit an der Stelle?
+Ja, bitte.
+Passt.
+Dann, die Idee geht genauso auch für entsprechend parallele Wände.
+Und ich glaube, ich habe Ihnen relativ viel hier wieder aufgeblendet.
+Ich muss mal schauen, was passiert.
+Oh je.
+Da ist leider nicht alles aufgeblendet, was ich Ihnen gerne gezeigt hätte.
+Ja, nein, dann ist es halt so. Dann müssen wir es schnell hinstellen.
+Im Endeffekt ist es auch nicht schwierig.
+Wir haben hier dieses R Theta 1, das ist das gleiche, was wir vorher schon kennen.
+Und genauso wie das für den Pfad durch den ersten Material gilt,
+nehmen wir mal diesen Pfad hier,
+gilt das natürlich auch für den zweiten und dritten und vierten Pfad.
+Das heißt, auch hier gilt wieder, dass der Widerstand RZAM nichts anderes ist als R Lambda M.
+Und das ist auch wieder S durch AM mal Lambda M.
+Das heißt, die Größe S, die steht hier oben, ist immer die gleiche für alle meine parallel sitzenden Schichten, aber die entsprechenden Materialeigenschaften sind anders.
+Jetzt passt das Beispiel nicht ganz perfekt, aber man kann es sich vielleicht trotzdem zur Veranschaulichung nochmal hier an dieser Wand überlegen.
+Entweder geht die Wärme durch diese Schicht, durch das Beton, oder sie geht nebendran durchs Fenster.
+Passt nicht ganz perfekt, weil das Fenster ist in der Dicke, nicht ganz so dick wie die Wand.
+Aber Sie können sich trotzdem vorstellen, die Wärme zeigt sich auf, sie geht entweder durch das eine Material oder durch das andere Material.
+Und Sie kennen das Ganze, ich will mit Ihnen jetzt nicht lange wirig ohmische Gesetze wiederholen,
+aber es ist das gleiche Spiel.
+Wenn wir Strom aufteilen, der durch verschiedene elektrische Widerstände fließt,
+dann ist es so, dass ich da einen Ersatzwiderstand mir bauen kann
+und der hat was mit diesen Reziprobenwerten zu tun.
+Es ist also nicht so, dass ich die Widerstände von Material 1 und 2 aufteile,
+oder aufaddieren, Entschuldigung, aufaddieren,
+sondern sie teile ich eben der Wärmestrom auf.
+Das heißt, es ist nicht so, dass ich dadurch gewinne, wenn ich hier Fenster reinschlage
+und die Fenster eine bessere oder schlechtere Wärmeleitfähigkeit gegenüber der Wand haben,
+so dass sie alles, was durch die Fenster geht, aufaddieren im Widerstand zu dem, was die Wand macht.
+Nein, Sie müssen sich überlegen, die Wärme wird sich aufteilen.
+Ein Teil des Wärmestroms geht durch die Wand und ein Teil geht durchs Fenster.
+Logisch.
+Und was ergibt sich als Ersatzniederstand?
+Irgendwas, was, sagen wir mal, das Fenster ist besser als die Betonwand,
+ich weiß es nicht, das ist eher so eine andere Sache,
+was in der Mitte dazwischen ist.
+Und wie ist diese Mitte zu definieren?
+Durch das da.
+1 durch R Gesamt ist 1 durch R1, also bei uns,
+1 durch Wärmeleitwiderstand Gesamt ist 1 durch Widerstand der Betonwand plus 1 durch Widerstand des Fensters.
+Ein Teil geht da, ein Teil geht da.
+Und das können wir jetzt noch ganz knapp hier ergänzen.
+1 durch R Gesamt ist Summe über alle J gleich 1 bis N von 1 durch R.
+Theta J, also alle einzelnen Leitbilderstellen.
+Und der letzte Teil, den dann noch hinzuschreiben ist, ist Q Punkt L.
+ist wieder nur Wärmeleitung
+in einer parallel orientierten
+Schicht ist Theta innen
+minus Theta außen
+durch
+R gesamt.
+Allerdings
+diese Rechnungsformel
+funktioniert eben glücklicherweise immer,
+solange wir unsere Widerstände
+und Ersatzwiderstände gut gerechnet haben,
+können wir
+mit zwei Temperaturniveaus
+und einem Widerstandswert
+arbeiten.
+Ich muss mich jetzt mal wegräumen, sonst haut es mich noch irgendwann hin.
+So, weit so gut.
+Und können wir auch nicht weitergehen.
+Sind Sie zufrieden mit der Mütze?
+Passt.
+Ja, immerhin nicht, dass ich Sie abschneide, da haben Sie nicht mitkommen.
+Ansonsten bitte auch im Zweifelsfalle mal die Möglichkeit dazu ein Foto machen, wenn es Bedarf gibt.
+Also wir haben jetzt im Endeffekt nichts anderes gemacht, als das, was dieses Fachbuch auch macht,
+sondern wieder auf Englisch. Da haben wir hier die entsprechenden Längen mit L statt mit S.
+So ist es nun mal in den unterschiedlichen Büchern.
+Auch hier wird ein bisschen anders verwendet. Es gibt ein Theta unendlich.
+Das ist also weit weg außen und hier ein Theta 1 innen.
+Und man sieht, wenn man jetzt so eine Materialkombination hätte, dann teilt sich das eben auf.
+Ein bisschen Wärmestrom geht durch dieses Material und dann hier rein.
+Ein bisschen geht hier durch.
+Ganz klassische kirchhoffschen Regeln.
+Und hier hinten müssen aber dann wieder beide durch.
+Diese entsprechenden Pfade werden hier kombiniert mit diesem Material 3.
+Und hier steht noch was drin, was wir in Kürze auch noch im Text genauer hinterlegen werden.
+Also Konvektionswiderstand, der noch oben drauf kommt.
+Aber die Rechenarten, die dahinter stecken, sind, denke ich, gut bekannt.
+Jetzt können wir das Ganze mal einmal anwenden an eine reale Aufgabe,
+glaube, die mal in irgendeinem Kontext bei Klausuren drankam, bei der es geht um eine
+ebene Wand. Und Beton und Dämmung, da ist die Dicke des Betons, da ist die Dicke der
+Dämmung mit B und D, bei mir als abgekürzt. Und die haben zwei verschiedene Materialeigenschaften,
+Wärmeleitung Beton und Wärmeleitung der Dämmung. Und dann stehen da die Zahlenwerte,
+da steht dann hier noch was, Temperatur- und Wärmedämmung, Schaumstoffqualität minimal.
+Okay?
+Und die Temperaturniveaus sind gegeben, Theta innen und Theta außen.
+Also, das ist erstmal ganz praktisch, Theta innen und Theta außen.
+Und die Frage ist jetzt, wie viel Wärme geht da erstmal durch?
+Das ist die erste Teilaufgabe, also dieses Q-Punkt.
+Und um das zu berechnen, müssen wir als eine der ersten Fragen, ja wir können das Gesetz gleich aufschreiben, mache ich in Kürze, es ist glaube ich Ihnen allen schon klar, wir werden diese Materialeigenschaften brauchen.
+Die stehen auf der nächsten Folie in der Tabelle aufgeschlüsselt.
+Ich werde auch diese Folie ohnehin noch ein paar Mal zurückblenden.
+Ich zeige Ihnen das mal an.
+Das ist durchaus auch nicht unüblich, dass man sich mit so etwas konfrontiert.
+Irgendeine Tabelle, da stehen halt diese ganzen entsprechenden Materialeigenschaften drin.
+Dichte, spezifische Wärmekapazität und da hinten ist die Wärmeleitfähigkeit in Watt pro Meter Kelvin.
+Genau das, was wir brauchen. Und wir haben hier in unserem Fall relevant Beton.
+Jetzt weiß ich nicht, ob es Leichtbeton oder schwerer Beton war oder was.
+Muss ich gerne mal nachschauen.
+Also, das ist die Überkategorie Beton.
+Und das heißt, dieser Zahlenwert hier hinten spielt für uns jetzt eine Runde als Lambda B.
+Und dann haben wir Polyurethanscharmstoff, der steht hier.
+und da stand minimale Qualität.
+Was heißt das?
+Ist die Wärmeleitfähigkeit, soll ich dann den Zahlenwert oder den Zahlenwert nehmen?
+Ja?
+Da geht mehr Wärme durch, das heißt, da kommt der kleinere Widerstand dann raus
+Und da hätte ich immer kurz aufpassen. Vielen Dank für das Mitdenken.
+Und dieses können wir jetzt nutzen, um auf der nächsten Seite in die Rechnung zu gehen.
+Und zwar eine ganz simple Idee.
+Also nochmal unsere Grundgleichung, Q-Punkt mit der Wärmeleitung ist nichts anderes als Delta Theta durch Summe über alle R-Thetas und Delta Theta ist nichts anderes als, nehmen wir jetzt mal von innen nach außen,
+Gerät, was gerne gekühlt werden soll, und das gute Wärmeleitung angeboten bekommen soll.
+Vielleicht kennt es jemand von Ihnen noch aus dem Computerbereich,
+wenn Sie, achso, Desktop-PC oder dergleichen haben und da vielleicht auch noch irgendwo selber irgendjemand mit Hand anlegt,
+dass man versucht Wärme abzuführen mit Wärmeleitpasten.
+Ja, auch im Fahrzeugbereich gibt es das durchaus als Bremsen, dass da bestimmte Pasten verwendet werden.
+Es geht eigentlich auch immer darum, dass irgendwo Kontakte zwischen Materialien sind und man will versuchen, dass es wirklich gut,
+ich habe darüber geredet, dass möglichst wenig von dieser Delta-Theta-Spreizung hier in der Mitte entsteht.
+Und was kann man machen?
+Ja, man kann zum einen Wärmeleitpasten da reinbringen, die sind halt flüssige Stoffe, die aber sehr gute Wärmeleitfähigkeiten haben, meistens mit irgendwelchen Silberpartikeln, warum Silber ist wieder eines von den Materialien, das super leitet.
+die anderen Einflussfaktoren
+die man beachten sollte ist
+das liegt natürlich an den entsprechenden Materialien
+aber wenn man es zum Beispiel auch verändern und verbessern kann
+ist Anpressdruck
+und das ist vielleicht
+für die Bastler von Ihnen
+nochmal irgendwie bekannt
+dass man wenn man irgendwo einen Kühlkörper
+anbringt
+auf einen Computerchip
+dass man den dann mit
+Klemmen andresst
+andrückt, möglichst stark, damit möglichst wenig Spalt sich ergibt, möglichst viel Kontaktfläche,
+möglichst viel Möglichkeit, dass die da in blau skizzierte Wärmeübertragung stattfinden
+kann. Soweit dazu. Jetzt nochmal ganz kurz als Kommentar, bevor ich das am Ende der Stunde
+vielleicht keine Zeit
+mehr findet und dann
+in Vergessenheit gerät, wir haben
+nächste Woche wieder,
+also wir haben diese Woche, wir haben Freitag
+den Herrn Appig mit
+Thermodynamik 03.
+Und nächste Woche Montag
+sind wir uns wieder
+und da ist die Idee, dass wir
+eine Stunde, vermutlich
+am Montag, Übungsaufgaben
+uns ankochen von Thermodynamik,
+Werbeübertragung und Stürmungstechnik.
+Ich glaube, dass das
+eher Sinn macht, das hier im Raum zu machen.
+Ich werde darüber noch mal
+ein Stück nachdenken. Die andere Stunde
+ist
+eine Online-Vorlesung.
+Jetzt noch ganz kurz, was machen wir
+in dieser Übungsaufgabenstunde?
+Wir sind jetzt so weit, dass wir
+in den drei Fächern Thermodynamik,
+Thermodynamik und Übertragung und Strombeschleunigung
+jeweils das erste Arbeitsblatt
+vollständig bearbeiten können.
+Mit dem, was Sie gemacht haben.
+Und Ihre Aufgabe ist ein Stück weit,
+sich die Blätter zumindest mal in Moodle kurz anzuklicken, zu gucken, kommen sie da drauf, zu überfliegen
+und idealerweise, und zwar sehr gerne, in irgendeiner Art von Gruppen mal ganz kurz drüber gucken
+und überlegen, welche Aufgabe hat denn welche, mit welchen Gleichungen müsste ich denn da rangehen.
+Wenn Sie Fragen haben, sofort ins Forum schreiben, dann würden wir diese Aufgaben entsprechend fokussieren
+und nächste Stunde insbesondere machen, wenn ich keine Nachrichten kriege im Forum,
+dann werde ich einfach da so ein paar ausgewählte Aufgaben mit Ihnen hier durchschauen und durchexerzieren.
+Das war erstmal dazu.
+Die zweite Sache ist, dass mit der Online-Vorlesung, es gibt ja eben nächste Woche Freitag,
+Ein großer Terminkonflikt. Sowohl der Herr Hapig als auch ich sind auf entsprechenden Workshops bzw. Konferenzreisen unterwegs.
+Und entsprechend haben wir uns geeinigt, dass wir eine Online-Vorlesung machen am 4.11.
+Die geht um 10 Uhr los bis um 12.15 Uhr. Da machen wir auch wieder eine Viertelstunde Pause drin.
+Und wahrscheinlich werden wir uns wieder mit Wärmeübertragung befassen, weil die Strömungstechnik-Thema das nächste lebt davon, dass man sich das im Raum ein bisschen anschaut.
+synchron. Das heißt, ich werde den Raum in Zoom eröffnen. Sie kommen dazu, soweit Sie denn können
+und möchten. Und ich teile den Bildschirm und freue mich sehr, wenn es für Sie in Ordnung ist,
+wenn Sie auch Ihr Video einschalten. Ich schalte meins auf jeden Fall an, weil ich glaube, da kann
+man ein bisschen mehr transportieren. Sie überlegen, wie es für Sie in Ordnung und machbar ist. Wäre
+schön, den Link werde ich Ihnen zuschicken
+im Forum.
+Soweit in Ordnung?
+Oder gibt es dazu eine Frage?
+Ja?
+Dann sehen wir uns also nächste Woche
+zweimal
+zu diesem Zweiten.
+Ich würde jetzt gerne
+weitergehen im Kontext der Vorlesung.
+Wir haben uns jetzt lauter Dinge
+angeguckt an irgendwelchen ebenen
+Wänden mit Parallelschaltung
+und Serienschaltung.
+Rechnungsaufgaben.
+Bisschen ganz kurz angeschnitten, kommt noch viel, viel mehr.
+Es gibt aber sicherlich auch Aufgaben, die eher so oder so aussehen.
+Und in diesem Kontext könnte man zum Beispiel irgendwelche Rohre oder Kabel haben.
+Rohre sind ein ganz prominentes Beispiel.
+Irgendeine warme Flüssigkeit fließt durch ein Rohr und außenrum ist es kühl.
+Wie viel kühlt es jetzt ab?
+solche Geschichten
+Kugeln
+waren ja ehrlich gesagt typischerweise
+selten, gibt es aber natürlich auch
+Kugelspeicher, die irgendwie
+warme oder kalte Flüssigkeit
+speichern sollen
+ich werde mich auch im Rahmen der
+Vorlesung eigentlich auf das hier konzentrieren
+das hier machen wir nur noch als Exkurs mit
+nur
+die Symmetrien und die
+Basisverständnis
+Fragen dazu spielen durchaus
+und
+Und Sie sehen, dass da schon das eine Zeichen ist, dass wir hier natürlich mit dem Koordinatensystem x, y, z arbeiten,
+wohingegen das im Zylinder- und im Kugelsystem wenig Sinn macht,
+sondern da haben wir eben dann eine oder zwei Winkel, die für den Ort zur Beschreibung gehen.
+Und hier noch eine Längenskala, das werden wir jetzt machen.
+Also diese Zylinderkoordinaten, die haben jetzt da Relevanz.
+Sie wissen alle, dass die entsprechende Mantelfläche A hier gleich 2Pi mal der Radius mal der Länge ist.
+Das ist also jetzt diese Mantelfläche, nicht die Deckflächen oben und unten,
+aber um die wird es ganz viel gehen in den kommenden Folien, deswegen schreibe ich es dann nochmal drauf.
+Können Sie da abschreiben, können Sie auch lassen, Sie sehen es auf der nächsten Folie sowieso nochmal.
+Genau dort. Wir haben jetzt wieder die Aufgabe, meinetwegen dieses Kabel, das ist da im Querschnitt gezeigt, in der Innengeschichte ist meinetwegen eine Flüssigkeit und dann haben wir die Rohrwand, die da gezeichnet ist und dann im Außenbereich.
+und wir können uns jetzt mal angucken, was passiert mit der Wärme, wenn sie von hier innen kommt und hier durchgeht.
+Und die Gesetze, die wir vorher gelernt haben, die machen vor den anderen Koordinatensystemen keinen Halt.
+Wenn die Wärme nur durch Wärmeleitungen transportiert wird, dann sollten diese Q-Punkts hier alle gleich sein.
+Und wir haben aber jetzt die Eigenheit über dieses andere Koordinatensystem,
+dass zwar die Menge der Wärme, die ich nach außen transportiere, gleich ist, aber eben die Fläche nicht.
+Also dieser Mantel hier innen hat eine andere Größe als dieser hier.
+Nämlich diese Fläche ist radiusabhängig mit der entsprechenden Formel.
+Und wir haben ja die spezifische Wärmeleitung, die sich da ergibt, als dieses entsprechende Quotienten kennengelernt.
+und die Fourier-Gleichung
+müssen wir hier anwenden
+auf die spezifische Form
+das heißt, dass die
+Materialeigenschaften nach wie vor
+konstant sind
+und wir hier
+die Änderung der Temperatur mit dem Radius
+uns angucken wollen
+und das ist nichts anderes
+als das Q durch A
+jetzt können wir das Ganze aber umschreiben
+als ein Q-Punkt
+gleich minus
+Lambda mal 2P, mal eine Länge, mal den Radius, dTheta durch, okay, blendet es noch einiges auf, das macht es,
+Und da sehen Sie, wenn Sie ein gewisses geschultes Auge haben, schon folgendes.
+Das ist ja eigentlich nichts anderes als, oder wir lassen es so stehen, hier hinten haben Sie ein D-Theta und hier haben Sie ein R-D-R.
+Da haben Sie also eine gewöhnliche Differenzialgleichung.
+Und diese gewöhnliche Differenzialgleichung reicht ein Stück danach,
+dass Sie Trennung der Variablen und Integration betreiben.
+Genau das wird auf der nächsten Seite gemacht.
+Und ich werde dann nochmal zurückgehen hierher,
+um nochmal den Temperaturverlauf von innen nach außen mit innen zu skizzieren.
+Sie können sich schon vorstellen, dass es nicht mehr linear sein wird, so wie wir es aus dem vorigen Teil kennen mit der ebenen Wand,
+sondern dass hier irgendeine andere, wie auch immer geschwungene Form sich ergibt.
+Wie die aussieht, das schauen wir uns auf der nächsten Folie an.
+Und zwar ist das hier gemacht worden, diese gleiche, wie ich gerade gezeigt hatte, Übertragung und Trennung der Variablen.
+alles was Radius betrifft auf die linke Seite, alles was Temperaturen betrifft auf die rechte
+Seite und jetzt integrieren von innen nach außen und ich glaube, das wird bei Ihnen auch hier alles
+aufgeblendet, weil es einfach viel Schreibarbeit ist, will ich es Ihnen ersparen. Sie erinnern sich
+von der letzten Stunde und es kommt immer immer wieder, wir haben ja diese 1 durch x integriert
+Geschichten, hatten wir in der Strömungstechnik
+erst vorlich, und das ist nichts anderes
+als der Logarithmus.
+Und dann haben wir wieder ein Logarithmus,
+obere Grenze und untere Grenze,
+oben minus unten, ist nichts
+anderes als der Quotient,
+immer das gleiche.
+Und dann
+können wir hier die Temperatur da einsetzen,
+obere minus untere Temperatur,
+und jetzt passen Sie auf, hier steht
+ein Minuszeichen, ich mache das vielleicht,
+male ich das mal nach, in Farbe.
+hier steht ein Minuszeichen
+und hier steht plötzlich ein Pluszeichen
+warum?
+hier unten steht die 1 vorne
+hier hinten die 2 hinten
+und hier die 2 vorne und die 1 hinten
+also das macht Sinn
+und können Sie natürlich alles auch noch beliebig tauschen
+wenn Sie den Logarithmus die 2 tauschen
+kriegen Sie auch wieder ein Minuszeichen
+also Sie können das im Endeffekt drehen und wenden
+wie Sie wollen
+wichtig
+dass wir konsistent bleiben
+in unserer Rechnung
+hoffentlich hier alles richtig
+und wir haben also jetzt einen Term gefunden
+der zeigt wie
+der Wärmestrom
+in Abhängigkeit
+des Radiuses
+hier stattfindet
+das heißt, dass der Wärmestrom
+wenn ich ihn von innen
+an eine Innenwand übergebe
+mit einem bestimmten Term
+ist und die Außenwand ist ein anderer größter Term und dem trage ich Rechnung mit diesem
+Integration mit dem Logarithmus und kann hier eine Lösung finden, die eben für das gesamte
+Material gilt. Und bevor ich dieses hier mache, gehe ich jetzt nochmal zurück auf die letzte
+Folie und mal gucken, ob das funktioniert. Das heißt, was ich jetzt geschafft habe,
+ist nichts anderes als, ich versuche das jetzt mal mit dem Highlighter,
+dieses gelb skizzierte hier zu charakterisieren mit meiner entsprechenden Formel,
+das ist die da, oder auf der nächsten Seite dann das entsprechende integrierte Lösungskonzept.
+Und die daraus resultierende Geschichte ist dieser Logarithmus,
+und der Logarithmus zeigt sich hier unten, jetzt nehme ich mal wieder dieses interessante Lila,
+dass wir hier so einen Abfall bekommen.
+Die Temperatur fällt zunächst sehr steil ab und wird dann immer langsamer.
+Ich hoffe, ich habe es jetzt richtig gezeigt. Sollte richtig sein.
+Ja, also das wollte ich noch ergänzen.
+Kommt in den nächsten Folien nochmal, aber dann ist die Folie vollständig.
+Okay. Nächste Folie angeguckt. Jetzt passieren unschöne Dinge, weil das hier stehen bleibt. Das sollte nicht der Fall sein.
+Das wird wahrscheinlich gleich wieder kollabieren, das System. Wir werden sehen.
+Was können wir jetzt machen durch einen Vergleich von dem, was wir vorher schon kannten?
+jetzt nehme ich hier die grüne Farbe
+ist dieses
+Baustein hier
+oh jetzt verschwindet das Lila
+nichts anderes als
+1 durch R
+warum?
+wenn Sie sich zurück erinnern
+ich weiß nicht, ich glaube es wird hier gerade nicht aufgewertet
+Q ist Delta Theta
+durch R
+also gar nicht dieses Delta R
+dieses R, den Wert
+hier rausschreiben. Das ist zum Glück
+jetzt schon in schöner Schrift da gemacht.
+R Theta ist nichts anderes
+als ein R Lambda eines Zylinders
+und der hat eben diesen Logarithmus
+und da unten diesen Kern, der
+sehr viel mit der Mantelfläche zu tun hat.
+Soweit, so gut.
+Lässt sich damit also auch
+arbeiten und rechnen.
+Jetzt können wir
+das Spiel machen, wie wir es vorher gemacht haben
+und das will ich Ihnen dringend ersparen.
+Die viele Schreibarbeit
+Und natürlich geht das Ganze auch für einen mehrschichtigen Zylinder.
+Also, die klassischen Beispiele aus irgendwelchen Aufgaben ist, eine Fernwärmeleitung, in der heißes Wasser oder heißer Dampf transportiert wird,
+hat einen Stahlmantel und außen drum eine Isolation oder zwei Isolationsschichten oder was auch immer.
+und es geht darum, wie viel dieser Wärme geht nun von innen nach außen,
+verloren erst durch Stahl und dann durch Isolation 1 und Isolation 2, wie es jetzt empfiehlt wird.
+Das ist so die klassische Anwendung und das Spiel ist das gleiche.
+Die Wärmeströme sind immer gleich nach außen, aber eben scheußlicherweise diese Radiusabhängigkeit
+immer mit diesen Logarithmen und jetzt ist es nicht mehr so toll, wie es vorhin war,
+dass sich hier alles so fein rauskürzt und in Summen zusammenfasst.
+Was schon noch so ist, ist, dass Sie, wenn Sie das umstellen auf die Temperaturen
+und wieder aufaddieren, wenn Sie sich vielleicht noch erinnern,
+dass sich diese mittleren Temperaturen wegkürzen.
+Das heißt, wir werden am Schluss eine Lösung kriegen,
+ich werde Temperatur 1 und Temperatur, hier steht n plus 1,
+warum überhaupt n plus 1, zählen wir von innen durch.
+Das sind jetzt drei Materialien, wir haben eine 1, 2, 3.
+Wie viele Grenzflächen haben drei Materialien? 1, 2, 3, 4.
+Deswegen kommt da also ein N plus 1.
+Also Temperatur ganz innen und Temperatur ganz außen.
+Und daraus dann entsprechend dieser ziemlich unangenehme Term,
+der eben summiert über alle Materialien mit der jeweiligen Wärmeleitfähigkeit
+und jeweils der Radius, der außen ist, minus der Radius, der innen ist
+und so eigentlich eine ganz praktikable Lösung bringt,
+aber eben etwas anstrengend ist zum Rechnen.
+Und hier ist jetzt mal mit dem Computer gesetzt,
+in Latvisch die entsprechende Bezeichnung des Widerstands.
+Der Gesamtwiderstand, der sich ergibt aus der Summe der Einzelwiderstände.
+Jetzt bin ich ein bisschen am Stocken, weil ich das in der Darstellung mir nicht so ganz gefällt.
+Und zwar sehe ich keinen Grund für die reziproke Darstellung hier drinnen.
+Lassen Sie mich eine Sekunde auf dem Skript schauen.
+Das ist nicht Unsinn, Nick.
+Das ist einfach die Summe über alle R Lambda Pi's.
+Und nichts weiter als das.
+Also das ist dort schlicht falsch dargestellt.
+Hoffentlich muss ich das nicht wieder revidieren, aber es müsste eigentlich so passen.
+Wir summieren einfach über die Widerstände hinweg, die jeweils mit ihren logarithmischen Anteilen hier auftauchen.
+Das ist der Reziprokwerk 1 durch das Lambda.
+wir haben
+soweit eine Gleichung
+die für Zylinder funktioniert
+und jetzt kann man das Ganze
+auch noch für Kugeln machen
+und da
+wird es bis hier noch
+mit zu denken
+aber nichts mehr zu schreiben glaube ich
+wir haben hier
+bei der entsprechenden
+Wärmeleitung
+die gleiche Idee, wenn ich aus einer Kugel
+heraus Wärme transportiere
+in umnachbarte Kugelschalen
+dann gilt
+wieder dieses Gesetz wie zuvor
+jetzt ist
+die Fläche der Außenfläche der Kugel
+4 mal Pi mal R
+Quadrat
+und entsprechend können wir wieder
+das Spiel betreiben und Trennung der Variablen
+machen, jetzt steht hier 1 durch R
+Quadrat
+und wenn wir das anwenden ist die Integration
+R hoch minus 2
+integrieren
+minus
+1 mal 1 durch R hoch
+minus 1, also 1 durch R
+und dann kriegen wir hier
+da muss man ein bisschen aufpassen
+Reziprokwert, wie gibt es dieses Minuszeichen
+1 durch R1 minus 1 durch R2
+und so weiter
+kommt wieder diese Geschichte raus
+Temperatur innen minus Temperatur außen
+und hier unten
+dieser Quotient, in dem Falle mit der Radien
+statt Logarithmus
+kommen hier die 1 durch x
+größer
+man kann auch Kugeln in mehrschichtig
+machen
+das waren wir uns jetzt mal
+Sie haben es aber der Vollständigkeit
+in der Formelsammlung drinnen
+damit kann man
+dann, wenn nötig
+auch rechnen
+Wichtiger ist für uns
+nochmal zusammenzufassen
+wie äußert sich das
+in dieser
+Radienabhängigkeit und Sie werden
+sehen, dass das
+später in Textaufgaben
+ganz oft gefragt wird.
+Zeichnen Sie den Temperaturverlauf
+von Ihrem Problem.
+Hier drinnen Temperatur so und so,
+da draußen Temperatur so und so und jetzt
+dazwischen ein bisschen Konvektion und dann
+Wärmeleitung und dann ein bisschen was durch
+einen Zylinder oder durch ein gerades
+Element und dann lohnt
+es sich und bietet es sich an,
+Sie haben dieses Verständnis
+bei der ebenen Wand
+in grün
+gilt, dass wir also hier
+x2
+minus x1 haben
+einen linearen Temperaturverlauf
+den versuche ich da jetzt mal
+reinzuzeichnen
+oh
+das ist so einigermaßen gelungen
+dann
+die Geschichte hier mit dem
+Hohlzylinder, wir haben dort
+eine Proportionalität zu dem Logarithmus
+gehabt von R2
+durch R1. Also Sie sehen schon, hier ist die Temperatur und hier unten ist ein R oder ein X,
+das heißt also hier haben wir ein X2 oder aber auch ein R2 und hier haben wir ein X1 oder ein R1.
+Und wenn wir das jetzt anschauen für den Hohlzylinder, dann ergibt sich diese logarithmische Form.
+das ist jetzt ein weniger ausgeprägter
+Bauch nach unten
+und wenn wir die Kugel nehmen
+dann haben wir diesen 1 durch x Verlauf
+und wenn Sie das im Textbuch
+mal nachschlagen
+oder sich mit irgendeinem
+Plotting Tool anzeigen lassen
+oder kurz mit Zahlen durchspielen
+dann sehen Sie, dass der
+abfallende Verlauf
+hier deutlich steiler ist.
+Und
+was vielleicht noch ganz gut ist
+zu erwähnen
+Ja, ein bisschen aufpassen mit den Vorzeichen, ich finde das jetzt gar nicht zu sehr interessant,
+aber 1 durch A1 minus 1 durch A2, wenn Sie das richtig rum hinstellen,
+dann ist das im Vorzeichen negativ, weil das der entsprechend größere Zahlenwert im Quotienten ist
+und man könnte das auch genauso darstellen als minus 1 durch R2 minus 1 durch R1,
+dann sieht es wieder aus wie oben.
+Also hier steht R1 vorne, ich schreibe das mal nochmal dazu,
+ist gleich minus 1 durch R2 minus 1 durch R1,
+Aber das hier ist im Vorzeichen größer als 0, genauso ist das im Vorzeichen größer als 0, genauso ist das im Vorzeichen größer als 0.
+Kleiner als 0, Entschuldigung.
+Also so stimmen die Vorzeichen.
+Es ist nicht, dass man verwirrt ist, warum steht hier der 1 da vorne und hier oben der 2 da vorne.
+Okay, soweit diese Überlegung, die hilft so ein bisschen, sich zu verankern, wie sich eben Temperaturen in so Materialien verhalten.
+Und was wir jetzt machen können, ist uns noch einen zusätzlichen wichtigen Effekt anschauen,
+Nachdem wir die verschiedenen Geometrien jetzt ad acta gelegt haben, gehen wir zurück zu unserer Wand und bei unserer Wand, aber genauso auch bei den anderen Geometrien, sind wir noch nicht ganz fertig, weil wir haben eigentlich unterschlagen, dass am Ende auch noch Konvektion eine Rolle spielen wird.
+Das heißt, was wir normalerweise nicht unbedingt machen, ist hier sagen, die Temperatur, die wir hier jetzt genau an der Wandfläche gemessen haben und die Temperatur da draußen an der Wandfläche, sondern uns interessiert meistens die Fragestellung, die Temperatur hier drinnen in der Mitte des Raums und die Temperatur da draußen weit weg von der Wand.
+Und genau um dem Rechnung zu tragen, müssen wir uns noch eine zusätzliche Thematik ansehen,
+das ist die Konvektion. Und ich glaube, die wird dabei eben auch gleich aufgeblendet,
+hier in hellblau einmal dargestellt, auch wieder in diesem entsprechenden Verlauf. Das heißt,
+nach oben geht wieder die Temperatur auf diesem Diagramm. Und das mache ich mal lieber in blau.
+Die entsprechende Idee ist, dass wir hier eine Temperatur haben, die ist im Raum relativ konstant,
+aber nah an der Grenzfläche kippt die ab und berührt dann hier entsprechend bei einer anderen Kontakttemperatur an der Wand.
+Und da kommt meine Wärmeleitungsgleichung, hoffentlich ist das eine gerade,
+Und hier wieder so eine Verkippung. Wie genau dieser Winkel ist und wie das genau funktioniert, kommt erst in 2-3 Stunden.
+Aber wir brauchen es dennoch, um jetzt schon vernünftige Praxisbeispiele rechnen zu können.
+Das heißt, dass wir uns wieder eine Geschichte anschauen müssen.
+hier mit dem Wärmestrom
+der meinetwegen gilt
+an der Kontaktstelle 1
+also hier
+und der
+hat was zu tun mit einem neuen Parameter
+das ist das Alpha
+Wärmeübergangskompetenz kommt gleich
+der Fläche auf der das Ganze wirkt
+hier hinten
+und der Unterschied der Temperatur
+von ganz weit weg
+von der Grenzfläche
+deswegen steht da ein unendlich drin
+das ist nur ein unendlich Zeichen
+und der Stelle, die hier gilt, an der Kontaktfläche.
+Also hier Theta 1 unendlich oder unendlich 1, kann man stellen, wie man will,
+und den Theta 1 und wirkend auf die Fläche und jetzt hier mit diesem neuen Größe Alpha.
+Und auch hier kann man wieder sagen, es ist nichts anderes als ein Temperaturunterschied
+durch einen Wärmewiderstand und den werden wir jetzt dann als konvektionsspezifischen Wärmewiderstand kennenlernen.
+Wir haben diesen Wärmeübergangskoeffizienten, der wird gemessen in Watt je Quadratmeter Kelvin,
+Achtung, wir haben hier mal Watt je Meter Kelvin bei der Wärmeleitfähigkeit.
+Hier geht es auf Flächen, spezifische Größen, entsprechend ein leichter Unterschied.
+Der gesamte Wärmetransport ist natürlich wieder durch die ganzen Angelegenheiten gleich,
+das heißt durch QK1, dann geht es in QL und dann QK, also Konvektion 2.
+Und das Ganze können wir uns dann auch wieder mit beliebig vielen Schichten anschauen.
+Das ist schade, dass es in der Aufblendung nicht ganz so funktioniert, wie ich es mir erhofft hatte.
+Aber sei es drum.
+Die Idee war eigentlich, Ihnen im Grün erst einmal zu zeigen, was kannten Sie bisher schon.
+Also diesen ganzen Bereich der Wände.
+Da ist also die Wärmeleitung mit der Gesetzmäßigkeit, die Sie hier schon einmal kennengelernt haben,
+mit den entsprechenden Wärmeleitwiderständen
+und diesem Widerstandsnetzwerk
+hier unten und jetzt
+obendrauf, in diesem Fall
+in diesem orangenen Farbton,
+eine Gleichung für die Konvektion
+innen und eine Gleichung
+für die Konvektion außen
+und die zwei
+Widerstände, die addieren wir dazu
+und dann sind wir fertig.
+Das Schöne ist also,
+jetzt für unser Raumklima-Thema
+und die Wärmeisolation
+sondern draußen, dass aufgrund der nicht hundertprozentig perfekten Konvektion
+sich hier nah an der Wand eine etwas kältere Lage bilden wird,
+die da auch eher vor Ort stationär bleibt.
+Und wenn ich jetzt weiter weggehe, dann ist es hier ein bisschen wärmer.
+Das heißt, die Konvektionswiderstände, die wir da hier in orange notiert haben,
+Die helfen uns ein bisschen dabei, dass der Wärmeverlust nach draußen noch etwas weniger stark ist, als nur die reine Materialkombination.
+Das ganze Spiel können wir jetzt also bis zum Verrückten weiter treiben.
+Wir haben jetzt also hier die Gleichung, die da zeigt, wie der Wärmefluss nach außen geschieht.
+Und ich ergänze hier wieder in dem, meinetwegen, orangenen Farbton, oder erst in dem grünen Farbton,
+wir hatten also gesagt, das ist dieser Teil hier, mit dem R-Lambda.
+und ich ergänze noch mal
+in dem orangenen Farbton
+das hier
+und das hier
+das ist jetzt neu dazugekommen
+das ist nichts anderes als diese R-Alpha
+das bezieht sich auf
+diese beiden Bausteine
+und
+ich glaube
+das ist auch schon fast
+vielleicht nicht nur meine R-Alpha
+noch kurz detailliert
+Das passiert im Kontext der Vorlesung auch irgendwo, aber so ganz woanders.
+Was machen wir jetzt vielleicht?
+R-Alpha, 1 ist also nichts anderes als 1 durch Alpha 1 mal A.
+Das steht ja genau da oben in dem Kasten drin.
+R Alpha
+Komma 2 ist
+1 durch
+2 R
+Also
+wenn wir dieses
+Konzept der Widerstände
+anwenden und
+die einfacheren Formeln
+dafür
+begriffbereit haben
+ich verweise auf die Formelsammlung
+Sie müssen es nicht ausländisch lernen
+dann
+kann man
+ziemlich einfach
+damit rechnen.
+Ich würde Ihnen jetzt gerne noch ein
+praxistaugliches Beispiel
+dazu zeigen.
+Sie sind soweit einmaßen durch.
+Das praxistaugliche Beispiel
+ist die Qualität von Fenstern.
+Und da oben
+in blau steht
+eine Frage, können Sie gerne mal
+versuchen, versuchen wir gemeinsam zu schätzen,
+wie viel Wärmeleistung
+geht durch ein Fenster
+verloren. Wir haben
+einen Temperaturunterschied von innen nach außen
+von gerade mal 10 Kelvin, das ist nicht
+so besonders viel. Die haben wir heute
+bestimmt auch, da draußen ist wahrscheinlich
+wirklich 10 Grad kälter als hier drin.
+Und
+wir nehmen das
+Fenster, meinetwegen so ein Fenster wie
+dort, an als ein Quadratmeter
+groß. Das ist vielleicht ein bisschen mehr, aber
+sei es drum. Nehmen wir mal
+ein Quadratmeter, ein einziges Fenster.
+Und jetzt die Frage, wie viel
+geht da an Wärme durch so ein Fenster
+verloren?
+Wer hätte einen
+Zahlenwert zur Schätzung? Einfach mal
+irgendwas in den Raum.
+Ich bin vor allem auf die Einheit gespannt.
+Nicht so sehr auf den Zahlenwert.
+Ja?
+20,8.
+20,8, genau.
+20 Watt ist eine gute Schätzung, werden wir gleich sehen.
+Denkt jemand, es ist eher mehr und warum, oder eher weniger und warum?
+Okay, also wir nehmen diese 20 Watt und überlegen uns, was passiert.
+Es ist nichts anderes, als der, in dem Falle, sogenannte Wärmedurchgangskoeffizient,
+mit K bezeichnet und den werden wir
+gleich nochmal ins Verhältnis setzen zu dem, was wir
+bisher schon kennen. Wir sehen, dass der
+ganz viel zu tun hat mit den ganzen
+Größen, die wir alle schon
+errechnet haben.
+Und am Ende
+kann man ein Statement abgeben, ob nur die
+20 Watt gut oder nicht gut sind.
+Der Wärmedurchgangskoeffizient ist
+nichts anderes als 1 durch
+die Fläche
+mal dem
+Summe über alle
+Widerstände, die da so gelten.
+Bisschen zu wenig Platz.
+Und die Einheit
+ist wiederum Watt pro
+Quadratmeter mal Kelvin.
+Und das heißt, da oben
+die Formel macht Sinn,
+wenn ich das jetzt multipliziere
+mit der Fläche.
+meinetwegen ein Quadratmeter Fenster, dann habe ich macht pro Kelvin und die entsprechende Temperaturdifferenz spielt hier eine Rolle,
+dann kann ich den Wärmesprung berechnen.
+Das Ganze kann man anwenden mit den Gesetzmäßigkeiten, die wir vorher schon gesehen hatten.
+Dass wir also hier weiterschreiben, diese Gleichung ist K mal A mal Delta Zeta, also dieses K beinhaltet nichts anderes als dieses hier mit der Fläche.
+skaliert und ist ein Wert, der recht griffig ist, mit dem wir gut arbeiten können.
+Und jetzt sehen wir hier nochmal eingeblendet, was ist, wenn wir ein Fenster haben, das alt ist und einfach verglast ist,
+dann kriegen wir einen K-Wert, der übrigens, ich habe das nicht eingeblendet, in der Bautechnik oft als U-Wert,
+vielleicht haben Sie es schon mal im Baumarkt gesehen, bezeichnet wird, U-Werte finden Sie auch, wenn Sie ein Haus isolieren wollen
+und verschiedene Isolationsmaterialien zur Verfügung haben und eins kaufen wollen.
+Sie wollen das mit dem besten Wert dort erhalten.
+Und was heißt jetzt bester Wert? K und U sind Werte, die hier entsprechend mal angegeben sind.
+Für ein altes, schlechtes Fenster ist der Kabel jetzt sehr hoch, also ein wärmeleitender Wert, Watt pro Quadratmeter und Kelvin.
+Für ein moderneres, und das ist hier versucht zu zeichnen, mit zwei oder drei Glasscheiben, das sind also immer die Glasplatten,
+da haben wir bessere Werte, meinetwegen 1,5 Watt pro Quadratmeter und Kelvin.
+und für ein modernes, dreifach verglastes Glas haben wir vielleicht 0,8 Watt pro Quadratmeter und Kelvin.
+Und jetzt kommen wir zurück zu der Frage, die Sie hatten, oder die ich Ihnen gestellt habe.
+Da habe ich da oben diese Beispielzahlen genannt und wenn ich das da unten mit verwende,
+dann komme ich auf 30 Watt beim einfach verglasten, 15 Watt beim zweifach verglasten und 8 Watt beim dreifach verglasten.
+guten Fensterscheibe, also Sie waren da sehr gut gelegen, wenn Geistes hier hoffentlich mindestens
+zweifach, vielleicht auch dreifach verglaste Scheiben sind, also vielleicht sind wir ein
+bisschen besser, als was Sie beschätzt hatten. Aber Sie waren ganz in den richtigen Größenordnungen
+unterwegs. Wie viel Wärmeleistung, also jetzt verloren, geht durch verschiedene Materialien,
+Das ist eine sehr griffige Definition.
+Und warum geht da jetzt so viel weniger verloren durch zweifach und dreifach verglaste Wände?
+Da ist es durchaus so, dass es nicht nur auf die Materialdicke ankommt,
+sondern ganz im Gegenteil, die Dicke der Glasplatte
+Hier sollen wir mal konstant halten, soll heißen, dass obwohl Sie gleich dickes Glas entweder einmal in Stick verwenden
+oder, ich sag mal, es in der Mitte auseinanderschneiden und zwei dünne Glasplatten nehmen
+oder drei dünne Glasplatten nehmen,
+ist es doch so, dass das deutlich besser wird.
+Warum wird es besser?
+Weil Sie eben jetzt hier den Effekt haben,
+dass Sie hier Luft haben,
+dann haben Sie hier Glas,
+dann haben Sie hier wieder Luft,
+dann haben Sie hier wieder Luft,
+eingeschlossen,
+und damit haben Sie natürlich Widerstände,
+die Sie auch addieren.
+Also hier haben Sie einen RK,
+dann haben Sie ein R von Ihrem Glas, dann haben Sie wieder ein RK, dann haben Sie wieder einen Widerstand vom Glas und so weiter.
+Auf beiden Seiten haben wir Kontaktflächenwiderstände.
+Und durch diese vielen Kontaktwiderstände ergibt sich eine deutlich verstärkte Isolationswirkung
+im Fenster.
+Die eingeschlossene Luft in einem, oder die eingeschlossenen Gasvarianten in einem mehrfach
+von Lastenfenstern, die helfen eben genau, dass man sehr gut Isolationen erreicht.
+Was man macht heutzutage ist, diese Glasscheiben nicht nur mit Luft zu füllen,
+sondern teilweise zu evakuieren. Je weniger Luftteilchen da drin sind,
+desto besser ist die Isolationswirkung. Man kann sogar noch zusätzlich was machen,
+dass man hier in diesem Konvektionsbereich, der da drin herrscht,
+ja eben die freie Konvektion unterbindet, hatte ich gerade gesagt, oder auch die mit anderen Gasen füllt.
+Zum Teil ist in diesem Fenster Argon oder Krypton drin als weniger stark leitendes Gas.
+Dazu kommen wir aber an anderer Stelle.
+Jetzt haben wir also diese Basis einmal kennengelernt und wollen als Zusammenfassung nochmal zeigen,
+was wir in den letzten eineinhalb Stunden oder sowas in dem Dreh gesehen und gelernt hatten.
+Wir haben Innen- und Außenwärmeübergangsbedarfsstände,
+die was mit der Fläche und den Wärmeübertragungskoeffizienten zu tun haben.
+und mit diesem Alpha werden wir uns in den nächsten Stunden noch deutlich genauer befassen
+und überlegen, was den alles beeinflusst, diese Alpha-Werte.
+Bis jetzt fallen die einfach vom Himmel, kriegen sie irgendeinen Zahlenwert
+und wenn wir den Zahlenwert aber haben, dann können wir hier so ein Widerstands-Netzwerk aufbauen
+Bei den Wänden, je nachdem ob es eine oder mehrere Schichten ist, müssen wir dann diese Summe wählen und die Wärmedurchgangswiderstände kann man summieren auf den Bereich der Konvektion und der Wärmeleitung.
+Wir haben gerade den Wärmedurchgangskoeffizient mit dem K kennengelernt, der sich so ableitet und relativ gut in der Praxis dazu dient,
+für einen Baukörper, ein ganzes Fenster, was aus mehreren Schichten besteht, bei dem sowohl Konvektion als auch Wärmeleitung eine Rolle spielt,
+Diesen ganzen Körper zu beschreiben, oder auch eine Isolationsdämmmaterial, ein Dämmmaterial ist nichts anderes als eine Kombination, heutzutage von einem Feststoff, sagen wir mal Holzfaser, und eingelagert Luft.
+und je nachdem, wie gut Sie das machen, oder Styropor, das ist Plastik und Luft,
+und je nachdem, wie Sie die Schäumung machen, geben sich unterschiedliche K-Werte,
+da wollen Sie dann nicht mehr mit diesen ganzen Details hier arbeiten
+und alle zu den Konfektionen berechnen, sondern Sie wollen einen Wert,
+der Ihren ganzen, äh, ganze betreffende Materialkombination dann beschreibt.
+soweit an der stelle und dieses würde ich ihnen empfehlen so ein bisschen mehr
+zu verinnerlichen oder vielleicht ist es ein gutes thema was man auch seinen
+spickzettel sagen ich mal schreiben kann sie dürfen ja pro fach ein doppel seite
+sich selbst beschriften denn dagegen recht viele rechnungen mit
+Wir können das Ganze natürlich auch für Zylinder und Kugel spielen. Wir haben jetzt noch eine
+Ergänzung in der Definition mit dem Körper mit variablen Querschnittsflächen. Ich schratze ihn
+mal hin, aber ich muss sagen, ich habe gar nicht so viel davon, da zu sehr ins Detail
+zu gehen. Wir können diese K-Werte auch für andere Geometrien ableiten. Hier unten haben
+Sie jetzt ein K mit einem A12. Was heißt A12? Das ist eine entsprechende Bezugsfläche.
+Bei Wänden ist das ganz einfach. Da sind Flächen immer gleich Flächen. Da haben wir
+eine Wand, die Fläche A. Wenn wir einen Zylinder haben, dann müssen wir uns eben überlegen,
+dass der Zylinder ja eine Wandfläche hat. Also sind wir bei 2 Pi mal R mal L, das kennen
+wir jetzt schon. Und wenn wir eine Kugel haben, dann haben wir nichts anderes als 4 Pi mal
+R Quadrat
+und dann können wir wieder
+diese entsprechende
+Formel verwenden, um
+K-Werte
+zu ermitteln
+K-Werte, die dann auch übergeordnet
+für ganze Geometrien
+gelten, also unabhängig davon
+ob es jetzt durch die Wand geht oder
+im Zylinder irgendwie nach außen
+Warum halte ich nur bedingt viel davon?
+weil sie leider bei uns
+schon damit konfrontiert werden
+die Dinge nicht nur
+vom Himmelfall
+zu nehmen als ein K-Wert
+und ihn einzusetzen in diese Gleichung mit dem Q
+sondern typischerweise
+sind sie damit konfrontiert
+dass sie was rechnen müssen
+und das kommt auf der nächsten Folie nochmal
+ein Beispiel
+bei dem eben
+entsprechend
+die
+Problematik mal so
+in der Komplexität gezeigt ist,
+wie wir sie oft sehen.
+Wir haben innen meinetwegen
+einen Hohlraum,
+der ist gefüllt
+mit einer
+Flüssigkeit.
+Ich nehme wieder meinen
+Highlighter dran hier.
+Und hier drinnen
+idealerweise ist es vollständig
+ausgefüllt, haben wir
+eine Eigenschaft
+und zwar ist es
+dann
+schnell damit
+assoziiert, dass Sie da
+eine Wärmeleitfähigkeit
+einzeln
+eine Konvektion zuordnen
+an diesem Innenbereich
+und dann haben Sie
+wie sehen wir hier wieder
+einen Bereich
+der ist die Zylinderkoordinate von ihrer Materialkombination, die mache ich jetzt hier mal grün.
+Ein Stahlrohr mit einer Isolation, ein elektrisches Kabel mit einem Mantel und einer Mantelisolation,
+und das wendet sich in diesem mittleren Teil wieder.
+Und keine Sorge, Sie müssen das nicht auswendig lernen,
+sondern Sie sehen das in Ihrer Formelsammlung genau hier.
+Da oben ist es mal gezeigt.
+Hohlzylinder, mehrere Schichten.
+Das habe ich da also rauskopiert.
+Und da hinten haben wir nochmal einen Bereich,
+der die Außenhülle bezeichnet.
+Also das, was passiert, weil dieses Rohr außen wieder an, meinetwegen Umgebungsluft liegt und in dem rohrenden Bereich, der Richt, tritt wieder Konvektion auf und passend dazu, ich hoffe, ich habe es nicht zu sehr überkritzelt,
+Und kann man jetzt hier einen Versuch sehen, wie ein Temperaturverlauf von der Mitte bis nach außen gezeigt wird.
+Und man sieht, in der Mitte ist es meinetwegen heiße Flüssigkeit, die ich durch mein Rohr durchschicke.
+Ganz in der Mitte ist die Flüssigkeit besonders heiß.
+sagen wir, sie ist gerade am 7 bei 100 Grad. Am Rand ist die Flüssigkeit dann schon etwas abgekühlt.
+Wir haben an der Berührungsfläche mit dem Mantel meinetwegen 95 Grad.
+Dann haben wir einen Temperaturabfall von 95 Grad runter, innerhalb von meinetwegen einem Stahlrohr nur ganz wenig,
+bis auf 92 Grad
+und dann
+innerhalb von einer Isolation
+deutlich stärker den Temperaturabfall
+auf meinetwegen 20 Grad
+und dort dann
+angeschlossen das was zur Umgebung
+hingeht, die Umgebungsluft
+sei meinetwegen 15 Grad
+und jetzt können Sie mit diesem Spiel
+und dieser Visualisierung
+aber eben auch
+diesem Formelwerk
+rechnen
+wie viel Wärme
+geht nun in einer Fernwärmeleitung, die nahezu 100 Grad heißen Dampf oder Flüssigkeit transportiert,
+an die Umgebung. Wenn Sie wissen, wie lang das Rohr ist und wie diese ganzen Materialeigenschaften sind.
+Das ist zwar etwas umständlich, aber jetzt machbar. Jetzt spannen wir uns noch mal ganz kurz auf,
+was wir für Bezugsflächen haben
+dass uns das auf jeden Fall
+in Erinnerung bleibt
+die A1 ist nichts anderes als
+2P mal R mal L
+und zwar mit dem
+Einser hier
+und A1 plus 1 ist
+2P mal R
+außen oder R
+in
+plus 1 mal L
+Und da eben nochmal ganz kurz, so banal es ist, aber ziemlich häufig werden irgendwie in irgendwelchen Angaben Rohre mit irgendwelchen Durchmessern bezeichnet und hier tritt eben alles in Radien auf.
+Das heißt, es lohnt sich total, wenn Sie irgendeine Rohrproblematik haben, dass Sie sich das ganz knapp hinzeichnen und hier unten mitnotieren, was sind denn die Größenverhältnisse.
+Ja, also meinetwegen ist das irgendwie ein 10 cm Durchmesser Rohr hier und dann haben Sie hier halt 5 cm und dann haben Sie 1 cm Isolation drauf, dann zeichnen Sie sich hier hin, das ist jetzt 6 cm von der Mitte weg, dann haben Sie 5 cm Isolation wieder drauf, dann sind Sie meinetwegen bei 11 cm.
+also ich skizziere Ihnen das jetzt nur noch mal so hin, dass man, das machen Sie bitte in der Klausur,
+sonst werden Sie total durcheinander kommen.
+Dann wissen Sie, aha, R2 ist es, R3 ist es, R1 ist es, und dann haben Sie diese Zahlenwerte,
+die sind jetzt sehr geschmiert, das ist auch gut, weil die haben gar keine Relevanz, die konkreten Werte,
+aber dann kann man damit gut arbeiten.
+Und dann setzen Sie es in diesen grausamen Apparat ein und kriegen hoffentlich was Vernünftiges draus.
+Okay? Jetzt sind wir um kurz vor elf, wir haben noch bis elf vor fünfzehn. Es gibt noch ein ganz kurz anzugreifendes Thema, was an der Stelle nicht zu vernachlässigen ist.
+Und wir haben bei so einem Rohr, wenn es denn eine gewisse Länge hat, nicht unbedingt, den Fall, den ich Ihnen gerade so versucht habe zu skizzieren,
+dass das, was da reinfließt, 100 Grad, hinten auch mit 100 Grad rauskommt.
+Das stimmt ja nicht.
+In Wirklichkeit geht ja die ganze Zeit was nach außen verloren in der Wärme über die Kante.
+Und wir sind hier ganz klar nicht in der Fachvorlesung des Energietechnikmasters, bei dem wir uns vier Stunden mit Wärmeübertragung alleine oder sechs Stunden gar beschäftigen.
+Deswegen machen wir das hier jetzt sehr hemmsärmig und kurz.
+Und Sie sollen nur dieses Phänomen als solches verstehen, nicht aber im Detail rechnen.
+Aber am Ende geht es darum, hier fließt ein Massenstrom durch von einem Fluid,
+oft ist es eine Flüssigkeit, und die geht nach Theta innen, Eingang hinein.
+Und hier hinten fließt der gleiche Massenstrom raus, hoffentlich,
+Sonst ist irgendwas Merkwürdiges in meinem Ohr, eine Leckage oder was.
+Aber sie kommt eben nicht mit der gleichen Temperatur raus, sondern mit einer anderen Ausgangstemperatur.
+Wenn ich so ein Problem lösen will, dann schreit es wieder danach, dass ich eine differenzielle Betrachtung mache.
+Das war jetzt in der Kurvenbiegung nicht so gut.
+deutlich stärker biegen, indem ich dieses Rohr in lauter solche Scheibchen zerlege und da mir
+anschaue, wie die Temperatur innen an einer Stelle, meinetwegen am Eingang plus steht jetzt hier,
+hier könnte aber typischerweise dann negativer werden, Temperatur im Innenbereich in der Veränderung,
+also einem Differenzial, hier haben wir ein dx, das heißt, in jedem kleinen Rohrstück wird sich diese Temperatur
+stückchenweise verändern und immer wieder, dann stationär betrachtet,
+eine bestimmte Menge an Wärme nach außen verloren gehen.
+Und wenn man das rechnen will, dann malen wir hier vielleicht noch mal ganz kurz deutlich hin,
+dass hier ein Q-Punkt an jeder Stelle verloren geht.
+Und dann sieht man das auf der nächsten Folie, dass die Formeln gelten, die wir kennen,
+aber diese Temperaturunterschied nicht mehr konstant ist, sondern an jeder Stelle ein
+bisschen anders wird. Und wenn wir Fluide ansetzen, das ist jetzt wieder was, was Sie
+stark noch sich mit beschäftigen werden in der Thermodynamik, dann beschreibe ich die Fluide,
+später kommt es bei uns bei den Wärmetauschern auch ganz stark
+als Massenstrom
+mit der Wärmekapazität
+und dem entsprechenden
+Temperaturniveau
+also das heißt
+wenn ich Wärme reinstecke in ein Fluid
+dann erwärmt sich das
+um so und so viel Grad
+und dieser Zusammenhang geht über die Wärmekapazität
+in dem Falle nimmt man die so wahre Wärmekapazität
+dazu später mehr
+Dann kann man wieder Trennung der Variablen machen und dann kann man die Temperaturen auflösen und dann müssen wir wieder uns auseinandersetzen, dass wir einen Logarithmus bekommen, der irgendwo Temperaturen beschreibt, innen und außen und am Ende kommt hier die E-Funktion rein und ein ziemlich aufwendiger Term, der zeigt, wie ist die Temperatur am Ausgang gegenüber der Temperatur am Eingang.
+Da gibt es einen Temperaturverlust und das Einzige, was ich Ihnen abverlangen würde, ist, wie es hier steht, Rechnung und Formeln sind exkurs,
+aber Verständnis und Grafik, was Sie verstehen sollten, ist, dass man so eine Grafik daraus produzieren kann.
+Hätte ich doch darauf reagieren sollen.
+das wird jetzt kurz dauern
+die Grafik male ich Ihnen kurz an die Tafel
+dass
+eine
+ein Temperaturverlauf
+sich so ergibt
+dass
+Temperatur
+Theta I
+am Eingang
+einen hohen Wert hat
+Theta I
+also I steht immer für innen
+da wo das Rohr ist
+am Ausgang einen niedrigen Wert hat
+und das ist ihre Rohrlänge
+X, die lang ist
+und wie verläuft es?
+das verläuft wiederum so
+das ist also proportional
+das sollen proportionelle Felszeigen sein
+zu E hoch
+X
+und
+Und entsprechend haben Sie also so eine asymptotische Annäherung auf diese Temperatur.
+Kann man sich ein bisschen auch vorstellen, am Anfang ist die Innentemperatur besonders hoch.
+Da wird sehr viel Wärme verloren gehen.
+Und je weiter Sie im Rohr fortschreiten, desto niedriger wird die Temperatur geworden,
+desto weniger ausgeprägt ist die Differenz zwischen Ihrer Innentemperatur
+und meinetwegen eine Außentemperatur, die hier unten liegen möchte.
+Und je weniger stark diese Temperaturspreizung ist,
+desto weniger deutlich wird auch der Temperaturabfall pro weiteren Zentimeter hoher Ausfall.
+So, hier hat sich gar nichts mehr getan.
+Schauen wir mal, ob es sich jetzt wieder zum Leben erwagt.
+Wäre ganz gut, da könnten wir die letzten 10 Minuten noch ein bisschen gemeinsam
+auf die Bilder.
+Gibt es bis dahin noch Fragen?
+Jetzt habe ich heute ziemlich im Monolog hier geredet.
+Wir sind nicht abhängig.
+Oder wenn Sie andersrum sagen,
+es ist viel zu langsam.
+Gerne bereit, dass wir uns
+zügiger dadurch hangeln
+und stärker in den Rechnungen
+aufhalten.
+Da bin ich immer ein bisschen
+auf Sie angewiesen.
+Ich kann vielleicht in einer der nächsten Stunden
+auch mal gucken, dass ich nochmal so eine schnelle
+Mentimeter-Umfrage mache und sehe, wie Sie es so finden bisher, weil am Ende, wie gesagt,
+ich komme ja hierher, damit es für Sie was bringt, nicht damit es für mich was bringt.
+Ich habe den Stoff schon ein paar Mal angehört, entsprechend wäre das sicherlich Ziffer.
+Also diese Grafik haben wir gezeichnet, die meine ich jetzt nicht noch mal.
+Jetzt hier noch kurz, an der Stelle ist jetzt einfach in dem Vorlesungsverlaufskontext so drinnen und danach kommt eine Aufgabe, die können wir dann noch zum Schluss hin rechnen.
+Meine Empfehlung ist, dass Sie sich diese beiden Übungsblätter einmal anschauen, WÜ und STR.
+Ja, die Idee gilt sicherlich genauso für den Kollegen Happig.
+Fragen Sie ihn doch mal, was sein Hinweis ist.
+Es ist gut möglich, dass ich am nächsten Montag auch eine Thermodynamikaufgabe mit ihm rechne.
+Ich werde mit ihm mich noch mal kurz abstimmen.
+Oder wenn Sie schon den Hinweis haben, gerne auch übers Buchung, Thermodynamikaufgabe XY wäre gut,
+dann versuche ich das für Sie hier mitzubringen.
+So, dringende Aufgabe in ganz rot, drücken Sie einmal diese Formelsammlung aus.
+Ich bin auch kein großer Fan von viel Papier ausdrucken, aber Sie brauchen uns einfach für die Person.
+Alle Aufgaben einmal kurz durchsehen, das sind schon insgesamt gut 30 Stück.
+Das heißt nicht, dass man alles verstanden und gerechnet hat,
+aber vielleicht mal ganz grob hinschreibt an jeder Aufgabe, mit welcher Art von Formel würde ich das machen.
+Das wäre dieses hier.
+Und bitte gerne machen Sie das im Team.
+Es bringt überhaupt gar nichts, dass Sie sich da jetzt alleine zu sehr mit konfrontieren.
+Sie sehen sich, glaube ich, eh alle aus dem gleichen Studiengang häufiger.
+Da haben Sie vielleicht mal irgendwo eine Lücke, wo Sie sich das anschauen können.
+Und wenn Sie möchten, können Sie gerne schon was wirklich richtig durchrechnen
+und gerne dann ins Fachforum was reinschreiben, wenn Sie Fragen haben.
+Die Ergebnisse, die Lösungen stehen immer am Ende der Blätter mit drin.
+Soweit dazu.
+Dieses werde ich jetzt nicht durchspielen.
+Das ist wieder eines von den Werken von diesen Videos von dem englischen Kanal Efficient Engineer,
+der nochmal was zeigt zur Wärmeleitung und zur Konvektion.
+Ist ganz griffig.
+darin kommt auch
+deutlich detaillierter
+als ich das jetzt machen kann und will
+nochmal vor, warum
+Gaseflüssigkeiten und Feststoffe
+unterschiedliche Wärmeleitfähigkeiten haben
+bei Gasen wissen wir aus
+Thermodynamik und aus den ersten Stunden
+dass das so frei rumfliegende Teilchen sind
+die stoßen sich nur
+relativ selten und nur im Moment
+eines Stoßes kann Wärme
+übertragen werden
+im Sinne der Wärmeleitung
+und deswegen kann ich um die Wärmeleitung
+zu eliminieren
+die stark evakuiert
+und bei Flüssigkeiten
+gibt es stärkere
+Bindungen, deswegen auch
+stärkere Übertragung
+von der
+entsprechenden Wärme
+die Wärme können wir uns in diesem
+simplen Bild als eine Schwingung
+als ein Hin und Her fluktuieren
+von diesen Teilchen vorstellen
+Also dass in dieser Grundbewegung, die da übertragen wird, noch zusätzlich eine Art wie eine Schwingung stattfindet.
+Und zunächst bei den Festkörpern, wo wir die Wärmeleitung sehr ausgeprägt studieren, weil es keine Konvektionseffekte gibt.
+Also hier ist es ja so, dass das Teilchen, was eine bestimmte Schwingung und eine bestimmte Temperatur hat, durchaus auch hier drüben ankommen kann.
+Und dadurch einfach Wärme transportiert wird.
+Von links nach rechts.
+Nicht nur dadurch, dass gestoßen wird.
+wohingegen hier das Licht der Fall ist und hier sehen wir eben nochmal die Effekte,
+das einmal durch Gitterschwingungen übertragen wird und zum anderen durch die freien Elektronen
+und das ist der Grund, warum gerade Silber so eine extrem starke Wärmeleitfähigkeit hat,
+da sind sehr viele freie Elektronen, da haben wir einen sehr, sehr starken Effekt durch das in diesem Metall,
+da ist Silber und da gibt es noch etwas höher in Diamant, warum ist das?
+Diamanten haben perfekt geordnete Kristallstrukturen, deswegen ja auch so wertvoll, die entstehen nur unter extrem hohem Druck und diese extrem guten Gitter in der Ausrichtung erlauben extrem gute Übertragung von diesen entsprechenden phononischen Schwingungen, sagt man in der Physik, also im Endeffekt Anregungen dieses Gitters,
+transportieren von links nach rechts mehr oder weniger instantan in extrem guter und fast störungsfreier Art.
+Also Wärme geht extrem gut durch.
+Und hier sehen wir jetzt andere Beispiele, die uns entgegenkommen.
+Hier sind irgendwelche Quarzgläser, die vielleicht auch verwendet werden in Fensterscheiben.
+Die haben eben eine vergleichsweise schlechte Wärmeleitfähigkeit.
+Warum? Weil Glase sind amorphe Strukturen, da reden nicht in ein ganz gutes Gitter.
+Wir nehmen kein Diamant da. Das wäre nicht nur teuer, sondern auch sehr unpraktisch, weil es da in die Werbeleitung nicht so anders ist.
+Gut, soweit vielleicht nochmal da. Sonst Verweis auf das Video.
+Auch Verweis auf das Video, wieso und wie es ist mit so Rohrleitungen im Freien, wann und in welcher Art sich da Isolationsschichten einen Vorteil bringen.
+diese Frage werde ich mit Ihnen nächste Stunde aufgreifen
+und mir nochmal anschauen
+warum das nicht so ist
+und ich habe das jetzt so hingeführt
+und will aber kurz vor dem Ende der Stunde
+ich werde mit Ihnen jetzt nicht diese Rechnung im Detail durchgehen
+sondern das vielmehr in der nächsten Woche
+gemeinsam kurz anschneiden
+Aber das ist so ein einfaches Einstiegslevel aus der Klausur. Das sind genau die Temperaturniveaus,
+die wir vorher hatten. Da geht es um Isolationswirkung von der Wand. Als Zusammenfassung
+der Stunde, was haben wir heute gelernt und gesehen? Ich weiß gar nicht, ob das da hinten
+kommt. Ne, passt. Machen wir das mal aus. Wir haben gesehen, dass die Wärmeleitung an
+an einzelnen Schichten, Zurückblick, Foyergesetz gilt und dass wir das Gesetz anwenden können,
+auch wenn mehrere Schichten seriell hintereinander sind und sind relativ schnell darauf gekommen,
+dass das sich ganz ähnlich verhält wie bei elektrischen Widerständen.
+Das heißt, dass wir diese seriell aufeinanderfolgenden Schichten wie Betonwand plus Isolationsschicht plus Putz
+und so weiter, einfach in ihrer Wirkung aufeinander addieren, als entsprechende Wärmeleitwiderstände.
+Wir haben dann gesehen, dass das ganze Spiel auch in parallelen Schichten fortgesetzt werden kann,
+klassisches Beispiel, ein Teil ist Fenster, ein Teil ist Wand und dass ich da die Wärme aufteile,
+ein Teil geht durchs Fenster raus, ein Teil muss durch die Wand durch.
+Und in der Summe ergibt sich diese Reziprokwerte, die Sie alle aus den kirchhoffischen Gesetzen kennen.
+Das ist also der Ersatzwiderstand dieser Wand.
+Irgendwas ist was zwischen dem, wie das Fenster ist, und dem, wie die Wand ist, von ihrer Eigenschaft.
+Und wir haben da noch ergänzend gesehen, wenn gleich etwas vom Himmel fliehen,
+dass da noch Konvektion auch noch eine Rolle spielt.
+Das heißt, dass wir das ganze Spiel immer von innen ergänzen, um einen Konvektionsterm im Raum unendlich weit weg von der Wand,
+geht bis hin zur Wand mit kleiner Temperaturabfahrt und dann eine Leitung über eine Leitung irgendwie und außen wieder ein konvektionsbeschriebener Term.
+Und damit haben wir eigentlich ein Basiskonstrukt, um alle ebene Wandaufgaben zu rechnen.
+Wir haben dann noch ergänzt, dass das Ganze auch noch für solche Rohre gilt,
+in Zylindergeometrie, bei der wir diese scheußlichen Logarithmen überall bekommen,
+die aber zum Glück alle in der Formelsammlung dargestellt sind,
+und für die Kugeln im Prinzip auch, aber ich verspreche Ihnen schon jetzt,
+ich werde keine Kugelrechenaufgabe mit Ihnen als Klausur machen.
+Sie finden also hier in der Formelsammlung jetzt alles im Kapitel 1 stationäre Wärmeleitung, das haben wir heute abgeschlossen, ein Formelwerk, da sehen Sie, was ist bei einer ebenen Wand, was ist bei mehreren Schichten Wand, was ist bei parallelen Schichten Wand, was ist bei einem Hohlzylinder, eine Schicht oder mehrere Schichten, das können Sie sich schon fast sparen, das ist die Kugel.
+und dann sehen Sie hier drüben noch ein bisschen diese Rechenvorschriften
+mit dem k-Wert, den ich gerade durchgenommen habe.
+Das heißt, es lohnt sich da mal kurz drauf zu gucken
+und vielleicht ein Haken oder Gedankliches.
+Bitte Achtung, schreiben Sie nichts drauf auf diese Formel Sammlung.
+Wenn überhaupt mit Bleistift, sodass es wirklich notieren kann,
+weil ich muss im Sinne der Chancengleichheit von Ihnen verlangen,
+dass das Ding unbeschrieben ist.
+Wenn Sie was schreiben wollen und irgendwas zu den Formeln notieren wollen,
+die sind alle nummeriert, dann nehmen Sie Ihren Spickzettel.
+Soweit, das war jetzt noch ein kurzer Exkurs da,
+aber dann wünsche ich Ihnen eine schöne Woche
+und am Freitag sind Sie in der Rappi,
+am Montag bin ich wieder da.
+Alles Gute!

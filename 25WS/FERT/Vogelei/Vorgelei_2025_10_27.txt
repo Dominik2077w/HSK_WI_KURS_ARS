@@ -1,0 +1,919 @@
+Weil man mit vielen Beratern arbeiten kann.
+Mhm.
+Gutes Geld.
+Sehr gute Wörter, okay.
+Ja, ich eigentlich auch.
+Wir haben uns da auf einmal immer ein bisschen zerschleiert gewesen.
+Warum denn?
+Nur weil es mir zu langweilig gewesen ist.
+Den guten Kompromiss nicht schlecht.
+Okay.
+Gut.
+Wie ist das bei Ihnen?
+Sie haben ja schon in China angefangen, Wirtschaftsingenieurwesen zu studieren, richtig?
+Ja, richtig.
+Warum?
+Warum?
+Warum?
+Auf der einen Seite ist es ein Teil des Maschinenbaus und unser Programm hat einen Teil für Deutschland im Studium.
+Auf der anderen Seite möchte ich, wenn ich jünger werde, viel mit den industriellen Faktoren teilnehmen und die Prozesse schauen.
+Und ich glaube, das ist ja interessant.
+Das ist ja interessant, das Ganze. Alles klar.
+Gut. So, und deswegen
+nochmal, passt das ja auch
+in die Wiederholung
+meiner beiden Statements,
+dass so fügetechnisch, also
+scheißen wird viel kommen noch,
+aber dass das
+letztlich auch
+ich wette drauf,
+Sie können mich quasi, wenn Sie
+irgendwann mal in Ihren Jobs unterwegs sind,
+dass Sie immer auch genau mit solchen
+Themen auch zu tun haben werden. Und es ist völlig
+egal ob Vertrieb, Einkauf, Produktionsplanung oder diverse Dinge, diese ganze Universalität
+Ihrer Studium wird Sie mehr oder weniger dazu hinschicken. Deswegen immer meine Hinweise,
+Sie müssen eben auch beides können, das heißt technisches Verständnis bis zu einem
+gewissen Punkt und dann eben diese monetäre Bewertung. Was kann ich mir noch leisten,
+was kann ich verkaufen, was geht entsprechend überhaupt technisch und wirtschaftlich umsetzbar.
+Genau, deswegen waren wir jetzt mal bei der Technik, haben festgestellt, es war ja die
+Streikestunde mit Werkstoff, Konstruktion und entsprechend dann das richtige Verfahren bilden.
+Also die technische Aufgabe in der Produktionsplanung zum Beispiel, wenn Sie jetzt in der eigenen
+Fertigung irgendwas machen. Das machen letztlich auch viele im Bereich der Maschinenbeschaffung.
+Es gibt auch ein ganz klassisches Feld von Wirtschaftsingenieuren, die quasi den Einkauf,
+aber nicht von Teilen, sondern eben von Maschinentechnik durchführen. Okay, dann gucken wir uns das Ganze mal...
+Weiter an. Also wir hatten ja letztes Mal das Gas-Schnellschweißen gehabt.
+Ich habe hier zwei Brenner dabei, aber das machen wir auch das nächste Mal.
+Ich bringe die einfach nochmal mit, dass jeder die mal gesehen hat.
+Jetzt machen wir mal einen Unterpunkt, der...
+...ja doch, den haben wir ja letztes Mal auch schon angesprochen.
+Und das zeigt mir natürlich eines der Kernprobleme bei diesem Schweißen.
+Was hätte ich zu dem Teil gesagt?
+Die Verformung sieht so zusammen und dann so hoch.
+Was hat das für eine Konsequenz?
+Unsere reale Qualitätsfläche?
+Außer Sie wollen über jeden Blech haben, was so aussieht, klar.
+Aber in aller Regel will man ja, wenn man schon so ein Blech hat, irgendwie vielleicht eine Verbindung, die eben tatsächlich gerade ist oder eine Verblendung.
+Also wenn das jetzt quasi Ihr neues Auto wäre, irgendeine Seitenpartie und Sie würden sowas vorfinden, so eine riesen Delle da drin und dazu noch so eine, ja, selbst wenn die überlackiert würde oder noch irgendwie verspachtelt würde,
+wäre ja der Impact
+jetzt auch optisch gesehen
+gigantisch und Sie würden sagen
+was soll der Mist hier eigentlich
+warum könnt ihr das nicht
+gescheit machen
+und deswegen muss man sich so ein bisschen
+ja es ist auch schon
+ein paar Gedanken dazu machen
+was man da auch tatsächlich machen kann
+und deswegen
+gebe ich Ihnen jetzt mal
+ein kleines Beispiel dazu
+das Beispiel heißt
+weiß nicht ob man das schon erkennen kann, das könnte jetzt quasi der Adapter bei einem
+Tank sein.
+Man könnte sich vielleicht vorstellen, hier drunter wäre jetzt ein großer Tank, da schrauben
+Sie letztlich hier so ein Rundell auf, was um 90 Grad gekippt, hier noch ein Innenblech
+und darauf würden Sie den Deckel setzen, der einfach zuklammert.
+So weit verstanden, was das ist?
+Gut.
+Das Problem ist jetzt, Sie brauchen eine Aufkantung.
+Und wie würden Sie die herstellen?
+Lassen wir mal wieder beim Gründer und Hauptschweißer zu wollen.
+Also die Kante so?
+Ja, genau.
+Das ist genau so dick wie unten, oder nicht?
+Ne, also wenn Sie es mal auf der Seite sehen, würde ich sagen, das ist mindestens ein Zehner
+brech, also richtig dick, und das ist vielleicht nur anderthalb, zwei Millimeter.
+Deutlich dünner.
+Das ist jetzt eigentlich Schweiß, oder einfach...
+Ja, oder an was denken Sie zuerst vielleicht?
+Kann ich es auch ohne Schweißen machen?
+Ja, einklemmen halt wahrscheinlich.
+Man kennt das ja auch.
+Man kennt den Abstand der Geringheiten.
+Also den Unterschied, wenn man ihn einsetzt und dann so reinformt.
+Okay, fangen wir mal damit an.
+Einpressen würde ja bedeuten, ich habe einen dünnen, kleinen Zylinder, den ich da reinsetze.
+Das dumme ist eben nur, zwischen diesem Innenteil und dem Außenteil haben Sie dann erstmal keine Verbindung.
+Aber ein Blech zu pressen, das würde immer nachgeben können.
+Also im dümmsten Fall fällt das einfach runter.
+Wenn Sie es versuchen richtig da einzustemmen vielleicht noch, aber dicht kriegen Sie es eigentlich nie.
+Und wenn das jetzt ein Tank ist, meinetwegen ist da Sprit drin, wird das nicht funktionieren.
+Aber was spricht denn dagegen, das einfach aus dem Vollen zu bewegen?
+Wenn das 10 mm ist und die Kante nochmal 20, nehmen Sie ein 30er Blech und drehen das hier
+einfach raus.
+Ja, aber das sind doch unterschiedliche Maße, das sind ja zwei Bauteile, oder?
+Ja, das sind zwei Bauteile, aber vielleicht zeige ich es nochmal kurz.
+Vielen Dank.
+So, ich versuche es nochmal zu zeigen.
+Also letztlich ist das jetzt hier das eine Blech, und dann kommt da das andere.
+Kann man das mal erklären?
+Ja.
+So.
+Und das wäre jetzt der Klassiker, ja, da brauchen wir ja auch drauf hinaus, dass ich
+jetzt die Bleche hier an der Stelle verschweiße.
+So, aber wenn ich die nicht verschweißen will, könnte ich doch das Ganze letztlich einfach
+aus einem Teil drehen, indem ich das hier oben wegdrehe.
+Oder?
+Ja.
+Geht doch.
+Und Sie müssen sich jetzt einfach die Frage stellen, ja, sind die Kosten zum Drehen größer?
+Wenn das jetzt vielleicht ein Meter Durchmesser ist, 30er Platte, dann brauchen Sie schon eine große Drehbank.
+Die kostet auch pro Stunde.
+Und dann müssen Sie eben gucken, was für ein Werkstoff das ist und wie schnell Sie das Ganze abarbeiten.
+Beim Professor Gaber haben Sie ja das für eben phasen, richtig?
+So, und das heißt, das würden Sie dann kalkulieren und würden feststellen, dauert so eine Stunde x Euro.
+So, und umgekehrt müssen Sie dann eben sagen, wie kann ich das Ganze schweißen?
+Ja, das wäre jetzt ein ganz normales Schutzgas-Schweißen, meinetwegen.
+Ja, Sie haben die günstigen Varianten der beiden Bleche.
+Sie kaufen gleich das 10er Blech und das 2mm Blech und legen die aneinander.
+Oder? So klar.
+Das ist ja das, was ich immer wieder wahrnehmen will.
+Immer wieder das Beste ist eben nicht zu schweißen.
+Und wenn Sie in Ihrem Haus gehst, dann schweißt man eben das Ganze.
+Klar, wenn wir damit kostengünstig unterwegs sind.
+Was passiert aber, wenn ich jetzt da oben schweiße?
+Dann gibt es ja hier entsprechende... das ist alles flüssig, was ich jetzt hier so dick gemalt habe.
+Und das heißt, es wird hier zu Spannungen kommen in dem Bereich,
+dass sich hier Spannungen an der dicken Seite entsprechend größern.
+Im Innenbereich ein bisschen kleiner
+Auf dieser Seite gibt es eine ganz kleine Spannung.
+Wohin bewegt sich das ganze Teil?
+Also nochmal ein bisschen größer gezeichnet.
+Unbewegt sind sie.
+Jetzt dort herein.
+Das Kleidung ist dort herein.
+So.
+Sie haben ein Nachteil genommen.
+Also, das heißt, das wird sich in die Richtung bewegen und das wird sich in die Richtung bewegen.
+Also, die Pfeile waren ja hier, dass hier sich Strumpfspannungen, hier geht das rein
+und da auch.
+Das heißt, im gleichen Maße würde sich das Bauteil hier hingewegen.
+Genauso wie das versucht da irgendwie in die Richtung zu kommen, weil das einfach zusammengezogen
+wird.
+Das ist nichts anderes, wie bei einem geradeaus Blech, dass es sich einfach in diese Richtung
+bewegt.
+Und das bedeutet, ja, wenn ich hier eine Vorgabe habe, hier kommt jetzt der Tankdeckel, der
+hat auch diesen Überhang, der muss da richtig reinpassen und wenn sich das zusammenzieht,
+wird das nicht funktionieren.
+Okay, jetzt machen wir gleich mal die Auflösung. Das ist nicht nur das, sondern im Prinzip geht es auch noch darum...
+Vielen Dank.
+So, wo ist denn jetzt mein Winkel geblieben bei der ganzen Geschichte?
+Also eigentlich müsste das Bauteil so aussehen.
+So, mal übertrieben gezeichnet sieht der irgendwie so aus.
+Irgendwie hat sich das Ganze um diesen Winkel verschoben.
+So, was Sie hier aber sehen, sieht ja noch komischer aus, weil das ist ja nur eine Momentaufnahme,
+wenn ich hier so einen Schnitt durchmache. Das Ding ist letztlich das Gesamtkunstwerk,
+das gesamte Bauteil. Und das heißt, wenn sich da irgendetwas bewegt, dann ist es links
+und rechts ja noch fest. Versucht dagegen zu arbeiten, als quintessenz wird das ganze Ding
+irgendwie rumschiebt. Das Blöde an der ganzen Geschichte ist letztlich, wenn ich das nochmal
+schweiße, sieht es vielleicht wieder ein bisschen anders aus und es bewegt sich auch auf irgendeine
+andere Seite. Auf alle Fälle würde das Teil jetzt nicht mehr irgendwie passen.
+Also, was machen wir? Wir schweißen alles weg und lassen es schweißen, oder?
+Da haben wir noch Vorschläge, was wir da machen können.
+Was eigentlich, wenn man nicht mit so viel Hitze arbeitet, also nicht so in den Nöten.
+Perfekt.
+Langsamer schweißen mit zu viel Hitze vielleicht.
+Ist langsamer schweißen.
+Städterschweißen.
+Städterschweißen, genau.
+Völlig richtig, weniger Hitze.
+So, da haben wir ja ein ganzes Repertoire von Schweißverfahren, die gegebenenfalls
+auch das kälter machen.
+Völlig richtig.
+Richtig. Was kann ich machen, wenn ich jetzt nur den einen Schweißbrenner zur Verfügung habe?
+Dann die Schweißen so ran drehen.
+Ja, auch gut.
+Und die einzelnen Seiten, also man darf, ich würde sagen, es wäre besser, wenn man erstmal so diagonal immer schweißt.
+Wie beim Reifen anziehen.
+Auch schon eine fortgeschrittene Idee.
+Das heißt, ich schweife hier, ich schweife da und dann kann sich tatsächlich eine gewisse Spannung gegenseitig kontrolisieren.
+Das ist völlig wichtig.
+Das ist aber tatsächlich schon eine höhere Kunst.
+Das nennt sich Schweißfolgeplan.
+Man überlegt sich, in welche Richtung sich etwas bewegt und macht das.
+Was wäre noch eine einfache Methode tatsächlich?
+Können Sie auch festschrauben, oder?
+Ja, wir haben doch schon diese schönen Löcher.
+Bevor wir das Ding schweißen, ziehen wir das fest auf unseren Schweißtisch,
+dann schweißt man das Ganze und dann kann sich das ja erstmal nicht bewegen.
+Was passiert jetzt aber, wenn Sie das so machen?
+Was passiert, wenn Sie die Schrauben öffnen?
+Es kann sein, dass es zu Wölbungen kommt und es kann auch sein, dass die Schrauben festgeschmolzen sind.
+Okay, also in dem Abstand, da müsst ihr schon sehr böswillig unterwegs sein mit sehr viel Wärme, um die festzuschweißen.
+Was hier einfach das Thema ist, wenn ich die aufmache, wird sich das Ganze schon wieder verziehen,
+weil Schweißspannungen da drin sind.
+Also Temperatur heißt immer, ich bringe Spannung ein.
+Entweder die Spannungen können sich ausgleichen und dann ist das Ding verformt
+oder sie bleiben quasi gezwungen im Material.
+Das nennt man eine Eigenspannung.
+Die sehe ich nicht, die rieche ich nicht, die sind aber drin.
+Das heißt, diese Einspannung, sobald ich jetzt die Spannung selber weglasse,
+werden quasi wieder eine Verzug, die werden sich wieder versuchen auszugleichen,
+oder hätten wir uns das ja auch schenken können mit dem Festmachen,
+ne, nicht ganz, weil es wird nicht alles wieder in Verformung umgesetzt.
+Das heißt, als Resultat, wenn ich das vorher festschraube, was bleibt?
+Es bleibt ein weniger verzogenes Bauteil, vielleicht reicht mir das schon,
+weil es nur noch leicht verzogen ist, aber ich habe Eigenspannung.
+Das Thema heute in Eigenspannung muss man nochmal klären.
+Wenn Sie ein Bauteil haben, was keine Eigenspannung hat, können Sie hier dran ziehen
+und Sie haben alle in der Werkstoffkunde schon mal was von Zugfestigkeiten gehört.
+Das heißt, ein Baustahl hat jetzt irgendwelche 250 Nm pro mm² Zugfestigkeit.
+Also so und so viel Kilo, Tonnen oder was auch immer können Sie hier dranhängen, was mit dem Querschnitt zusammenhängt.
+Und das Dumme an diesen Eigenspannungen ist, manchmal helfen die, aber meistens können Sie die, ganz vereinfacht gesagt, einfach von ihrer Zufässigkeit abziehen.
+Das heißt, wenn Sie jetzt Eigenspannung von 200 Newton pro Kilometer Quadrat haben, hält Ihre Naht nur nach 50.
+Haben Sie 300 Newton pro Kilometer Quadrat, was haben Sie dann?
+Eine kaputte Naht, die reißt einfach, weil Sie mehr Einspannung haben wie Festigkeit.
+Das heißt, das könnte Ihnen auch noch passieren, wenn Sie das hier fest holen, Sie schweißen da,
+das kann sich nicht richtig bewegen, ja, und es bleibt Einspannung und Siehe da, plötzlich geht das Ganze kaputt.
+Das ist ein sehr wichtiger Aspekt. Ist das soweit verstanden?
+Weil das muss man jetzt auch noch irgendwie im Griff haben, nicht zu viel, nicht zu wenig.
+Und deswegen, es gibt noch eine weitere Variante, diese Spannungen, die da entstehen,
+die haben auch irgendwas mit dem Temperaturgradienten zu tun.
+Was heißt das jetzt schon wieder?
+Das Bauteil ist kalt, Raumtemperatur 20 Grad, unser Schweißbrenner macht da in der Mitte auf 1500 Grad.
+Der Gradient ist eben zwischen 1500 und 20 Grad.
+Wenn ich vorher das ganze Ding schon mal auf 300, 400 Grad vorwärme, ist der Gradient viel flacher
+und damit auch weniger Einspannung, weil letztlich die Differenz kleiner ist.
+Siehe da, ich könnte an der Stelle auch wiederum weniger Spannung und damit weniger Vertrug einbauen.
+In Summe, wenn wir es richtig machen wollen, könnten wir jetzt einspannen,
+wir könnten Ihre Methode anfangen, weniger Temperatur,
+vielleicht sogar mit einem ganz anderen Schweißverfahren mit weniger Temperatur.
+Wir könnten in Steps, das heißt Schweißfolge planen, wir könnten vorwärmen
+und wir könnten auch noch bei den Steps nicht nur von der Seite schweißen,
+sondern wir könnten ja auch vielleicht einfach von der Gegenseite schweißen.
+Nicht nämlich jetzt hier, von der Rückseite schweißen, zieht sich das wieder zurück.
+Also was will ich Ihnen da einfach mitteilen?
+Schweißen ist eben ein absolut komplexes Thema, aber immer in Abhängigkeit von dem, was Sie erreichen wollen.
+Beim Ikea-Kleiderhaken ist es vielleicht völlig egal. Auch die Eigenspannungen sind völlig egal. Warum?
+Weil, wenn ich so einen Türkleiderhaken kaufe, für ein paar Euro bei denen, den ich da oben an die Tür dran hänge,
+Ja, da wird letztlich der, es gibt die Variante einfach gebogen, also ohne Schweiß,
+es gibt auch die Variante, wo letztlich so ein kleiner Zylinder mit aufgeschweißt wird.
+Sieht ganz nett aus, aber wenn Sie sich die Schweißnähte teilweise angucken,
+so auf so einem Wühltisch von dem Zeug, grausam, ja.
+Also da wird sich nicht viel Mühe gegeben, da geht es nur um schnell, schnell, schnell und billig, billig, billig.
+Aber, was kann passieren, wenn der kleine Bügel kaputt geht oder der kleine Hakel?
+Richtig. Außer, auch das nochmal klar gesagt, vielleicht doch für Ikea, wenn die nämlich eine halbe Million von diesen Kleideteilen wieder zurückrufen müssen,
+ist das natürlich ein extrem, sage ich mal, wirtschaftlicher Lebensbedrohung. Ja, Ikea ist groß genug, die werden das schon irgendwie verkraften.
+aber einfach um Ihnen da ein Gefühl für zu geben
+monetär oder lebendig ist das eine
+aber auch für die Firmen
+die Mist gemacht haben
+und dann in den Regress gezogen werden
+kann es durchaus eben auch
+sagen wir es mal
+auch gefährlich für die Firmen werden
+und deswegen
+ist eben auch bei dieser Spalserei
+dieses Fachwissen möglich
+das entsprechend so hinzubekommen
+dass es den Anforderungen entspricht
+und ich mache mir jeden Gedanken vorher
+ist es lebensbedrohlich oder nicht
+ist es jetzt für mich irgendwie kritisch
+ja, und so eine Ikea-Naht
+an so einem
+Kleiderhaken, die ist
+x-mal überdimensioniert
+die sieht zwar vielleicht schlecht aus, aber die wird immer halten
+da passiert einfach nichts
+so, also das wäre
+erstmal das Thema
+mit dem Verzug
+aus dem entsprechenden
+Zug.
+Wir gucken uns das nochmal weiter an.
+Das ist es.
+Hier viel Wärme, da wenig Wärme, das heißt hier zieht sich weniger zusammen wie hier,
+es muss ohne Klickung weiter.
+Und das kann ich jetzt auch mit 60 und Liegerichtung machen.
+Aber auf alle Fälle finde ich, in Abhängigkeit des Einspargrates, das heißt nichts anderes,
+wie massiv ist es jetzt, da aufgeschraubt oder nicht,
+oder wenn dieser Klotz hier unten nicht 10, sondern 100 Millimeter wäre,
+ja, dann ist der so massiv, dann würde er letztlich, sage ich mal, zunehmend,
+das heißt, da bewegt sich nichts, weil so viel Masse vorhanden ist,
+aber viel Eigenspannung und wenn sich das dünne Blechlein eben einfach nur dahin legt,
+dann wird es viel dazu geben.
+Also dünne oder dicke Bleche kann man genau so sehen.
+Das heißt, wir ersparen das jetzt nicht, noch ein bisschen physikalische Grundlagen
+dazu.
+Was passiert denn, wenn Sie Metall aufheizen?
+Wieder auseinander, es dehnt sich aus.
+Richtig.
+Was passiert, wenn Sie die Flamme wegnehmen?
+Jetzt muss man den Unterschied feststellen, freie Ausdehnung, freier Schrumpf,
+das ist jetzt mal eine vereinfachte Darstellung. Was ist wichtig, es darf nicht zu Plastifizierung
+kommen, das heißt irgendeine Verformung. Also tatsächlich, wenn das Ding richtig kochend
+heiß ist, würde er aufgrund seiner Gewichtskraft hier vielleicht schon irgendwie durchhängen. Das
+Das wird jetzt in diesem Modell einfach mal vereinfacht, wird gesagt, da hängt nichts,
+vielleicht ist es sperrlos quasi, ja, das heißt an der Stelle würde sich das gleiche
+Bauteil wieder einstellen, weil ich keine plastische Verformung habe.
+Hat aber mit dem Schweißen tatsächlich nicht viel zu tun, aber das wäre jetzt erstmal
+beigeteilt.
+Wenn ich das Ausdehnen verhindere, dann kommt es eben zur Verformung.
+Wenn ich das Ganze wieder zusammenziehen lasse und dabei störe, kommt es auch zur Verformung.
+Und das Ganze hier heißt, da sind wir beim Schweißen unterwegs.
+Wollen Sie noch etwas beitragen?
+So, haben Sie einen interessanten Artikel da?
+Ja, ne.
+Warum ist das unten tatsächlich das Schweiß?
+Da haben wir in aller Regel Verformung und Eigenspannung.
+Und wenn die Eigenspannungen zu groß werden, sogar Risse.
+Da brauchen wir jetzt die Hitze, oder?
+Ja, genau. Erstmal haben wir die Hitze, denn ist irgendwie meistens auch das Blech irgendwie festgehalten.
+Warum? Weil wir das Blech eigentlich nicht komplett heiß machen, sondern nur an der Stelle, wo wir schweißen.
+in allen Spannungen, wenn man es dann eingeklemmt hat oder einge...
+Ja. Oder wenn es einfach nur dick genug ist.
+Wenn das Material so dick ist, dass es sich einfach nicht bewegen will.
+So, das heißt, mit dem haben wir immer zu tun.
+Und das soll doch einfach nur heißen, wir haben immer auszutabieren,
+damit das Teil nachher noch funktioniert.
+So, und dann haben wir noch das Thema wieder mit unserem Werkstoff.
+Ja, die sind eben unterschiedlich.
+So ein entsprechender Wärmeausdehnungskoeffizient, also wie sich das letztlich auch in Abhängigkeit der Temperatur verhält.
+Die Leitfähigkeit, wie diese Wärme auch weggeht.
+Und dann die spezifische Wärme.
+Die haben irgendwas allesamt mit Schrumpf und Verzug irgendwie zu tun.
+Irgendwie beeinflussen die das.
+Und jetzt haben wir zum Beispiel Aluminium und Stahl als klassische Konstruktionswerkstoffe
+Und Sie sehen, hier sind irgendwie die Werte komplett anders
+Die Wärmeausdehnung ist das Doppelte bei Aluminium
+Ja, und hier, siehe da, Wärmeleitung ist sogar das fast Fünffache
+Das hat Konsequenzen
+Das hat eben Konsequenz, hier auch die Kapazität
+Die Konsequenz heißt eben nichts anderes
+dass ein Aluminiumwerkstoff sich um den Faktor zwei, dreimal noch schlimmer verhält wie Stahl.
+Das heißt nichts anderes, dass ein Stahl, den ich Ihnen gegeben habe,
+wenn Sie das gleich in Aluminium schweißen, würde vielleicht das Zwei-, Dreifache sein.
+Also um das Zwei-, Dreifache noch schlimmer, schwieriger und überhaupt Aluminium.
+Warum wollen wir denn Aluminium überhaupt einsetzen?
+Ja, das hat auch eine Folge, ja, das ist aber Fertigungstechnik, aber warum ist es wenig?
+Es ist einfach ein Leichtbauwerkstoff. Es ist sogar der Leichtbauwerkstoff.
+Einigermaßen in den Herstellkosten, einigermaßen auch in den Festigkeiten.
+Aber Magnesium ist doch leichter, oder nicht?
+Ja, können wir auch gerne machen, Magnesium ist leichter.
+Sogar ein Faktor, fast zwei leichter wie Aluminium.
+Warum wird denn das nicht eingesetzt?
+Weil es zuerst teuer ist und es hält sehr wenig aus.
+Wobei, es ist nicht so hitzeresistent, oder?
+Achso, wo haben wir das Gerücht gehört?
+Ich denke nicht so.
+Magnesium, dem haftet es so an, wenn ich da ein Streichholz dran halte, brennt das.
+Also sowas war vielleicht gehört.
+So, ja es gibt schon Firmen, die Magnesium drehen.
+Denen ist schon häufiger mal, ja genau, denen ist nicht die Felge abgebrannt, sondern die Späne.
+Also wenn Magnesium eine große Oberfläche hat und Späne hätten jetzt eine große Oberfläche,
+dann kann es eben gefährlich werden, weil es dann eben auch zu chemischen Reaktionen
+kommt.
+Aber die können einen Magnesiumklotz irgendwo hinlegen, können den Schweißbrenner drauf
+halten, davor sieht nichts.
+Also es ist schweißbar, nur das mit dem Stäuben und Spähen, da müssen sie aufpassen.
+Gut, aber der Hauptgrund, weshalb man Magnesium nicht nimmt, ist, dass es eben genau diese
+Affinität auch zu Sauerstoff hat. Also es korrodiert gerne. Das heißt, so eine Felge muss
+speziell behandelt werden, damit sie eben nicht korrodiert. Und wenn Sie Magnesiumfelgen auf dem
+Auto haben, müssen Sie aufpassen. Ja, wenn Sie verkratzen, dann kann eben auch die Korrosion in
+den Kratzern weitergehen. Ja, wie man so bei Alufelgen schon mal sieht, man fährt so ein
+bisschen an Bordsteinen und so weiter, ist bei Magnesiumfelgen wirklich über die Dauer. Weil
+Weil dann an der Stelle eben korrosionsmäßig was passiert.
+Also, eine gute Idee, aber letztlich in der Umsetzung.
+Nicht so deutlich.
+Da haben wir Aluminium.
+Das ist so einer, der ist einigermaßen leicht.
+Faktor 3 bis 4 leichter wie Stahl.
+Gute Festigkeitseigenschaften, bildet eine Oxidationsschicht,
+letztlich eine Passivschicht und korrosionsmäßig kein Problem.
+So. Und deswegen setzen das gerne die Automobilbauer ein.
+Was ich Ihnen jetzt einfach von hiermit zeige ist, Aluminium, glaube ich im Taktor auch so zwei bis drei teurer wie Stahlwerkstoffe, vergleichbare Sachen.
+Aber 2 bis 3 Verzug heißt 2 bis 3 mal mehr Aufwand, vielleicht langsamer Speisen und so weiter.
+Also zum Stich können Sie sagen, der Aluminiumwerkstoff ist vom Werkstoff und von der Fertigung, Fertigungskosten deutlich teurer als Stahl.
+Und deswegen, wie viele Aluminiumkarosserien oder Autos sehen Sie denn so auf der Straße?
+Während die alten Autos hatten sowas, ne?
+Lassen Sie das die Automobilbauer nicht hören.
+Das wird immer mal wieder versucht. Es gibt Teilgeschichten, dass man mal so einen Vorderbau, also da wo der Motor drin hängt, letztlich aus Aluminium macht.
+macht, aber die ganze Karosserie, gab es ein paar Autos, aber das macht man bei hochpreisigen
+Sachen, da wo es letztlich auf die Herstellkosten und Werkstoffkosten nicht ganz so ankommt.
+Aber so ein Golf, so ein klassisches Massenprodukt wird eben entsprechend schwierig, weil es
+einfach zu viel Aufwand ist, zu viel kostet.
+Und bei den Magnesiumdingern, da war es ja noch schlimmer, dieses 3 Liter Auto, was es
+mal gehabt, dieser Lupo. Ja, der hatte Mangesium-Teile, aber die wollte nachher keiner bezahlen. Ja,
+und auch, ich gebe Ihnen mal was, ich würde es schon ein bisschen her mit dem, ich weiß
+nicht, ob Sie sich auch daran erinnern können, an den 3-Liter-Lupo. Haben Sie das mal gehört?
+Ja, aber es gab mal den 3-Liter. Der hat quasi nicht 3-Liter-Hubraum gehabt, sondern
+der hat eben unter 3 Liter tatsächlich im Schnitt verbraucht. Und das war schon 20
+Das war sensationell günstig, aber so ein Lupo zum damaligen Zeitpunkt hat vielleicht so unter 20.000 Euro gekostet.
+Herstellkosten? Über 30.000 Euro.
+Echt jetzt?
+Ja.
+Wir haben damit kein Gewinn gemacht, oder?
+Ne, ich würde mal sagen, eine einfache Rechnung für einen ziemlich heftigen Verlust.
+Das heißt, warum hat das VW gemacht? Das war damals so ein Hype-Thema.
+Ja, da war Elektromobilität ja noch überhaupt nicht das Thema.
+Und da war eben Leichtbau.
+Und VW hat gezeigt, dass man mit Magnesium, Kunststoffen, da war alles drin, ganz wenig Stahl drin war.
+Die Kiste war richtig leicht.
+Und damit eben verbrauchsgünstig.
+Die hatten auch am Motor ein bisschen gedreht, das war nur so ein 3-Zylinder-Diesel mit auch so Start-Stop.
+Heute ganz normal. Früher war das schon ein Highlight, sage ich mal.
+Also sie haben alles reingesteckt, was irgendwie geht.
+Ausstattungsmäßig gab es elektrische Fensterheber.
+Nein, es gab die Kurbel. Warum?
+Weil die deutlich leichter ist.
+Nicht zum Kurbeln, sondern als Elektromotor.
+Wir fahren ja heute in modernen Autos jede Menge Sachen umeinander, nur wegen unserem Luxus.
+Das ist Gewichten.
+Ja, wenn Sie mal für jede Tür eben irgendwelche 200, 300 Gramm, was so ein kleiner Elektromotor wiegt,
+ja, dann sind Sie bei ein paar Kilo nur, damit Sie nicht drehen müssen.
+Und das heißt, in dem Ding haben die alles vereint und dann haben sie gesagt,
+okay, wir sind die Ersten auf der Welt, die so ein Auto in Serie produzieren.
+ansonsten haben die aber keine Werbung gemacht
+weil die genau wussten
+dieser Auto warst du bei kaufen
+da lebst du rum drauf
+und das war
+eben tatsächlich nur die Show
+die haben dann auch irgendwann kleinheimlich
+die Produktion von dem auch wieder eingestellt
+und haben nur den normalen
+Blubur eben produziert
+so
+das sollte nun kein Einschub sein
+zu den Themen
+was da so alles passiert. Ja, und dann haben wir letztlich hier die Alternativen.
+Und da müssen wir uns jetzt einfach die nächsten paar Mal nochmal damit beschäftigen,
+was für Schweißverfahren gibt es. Ja, ich glaube, jetzt sind wir doch zu viert,
+denn die sind doch schon noch weiter. Was war das mit dem Gasschweiß? Einfach mal für Sie,
+Ja, Acetylen, Sauerstoff, gemengt, das Ganze schön in der Hand gehalten und hier vorne kommt die Hitze raus.
+Das ist das Verfahren, das jetzt gleich ankommt.
+Komplett anders.
+Ich meine, da fehlen jetzt die Schläuche, aber hier gibt es nur einen Schlauch und das
+ist auch noch ein Draht für Stromzuführung. Das heißt, wir reden von der Energiequelle
+Gasverbrennung und wir reden hier von der Energiequelle Strom umgewandelt in einen
+Lichtbogen. Warum mache ich das? Ja, das ist vielleicht ein bisschen so, früher gab es
+auch Gaslaternen irgendwie, redet heute kein Mensch mehr von. Heute haben wir letztlich
+natürlich stromgetriebene Laternen irgendwie auf den Straßen und eben modernste LEDs heutzutage
+etc. um Strom zu minimieren im Körperraum. So, so ein bisschen kann man das auch extrapolieren
+in diese Richtung. Wir haben nämlich hier zwischen Elektrode und Bauteil, das wäre
+jetzt hier wieder mein Bauteil, da seht ihr es ein bisschen auch. Ja, ich habe mein Blech,
+Da fahre ich jetzt mit meinen Brettern umeinander, hier fahre ich letztendlich mit der Elektrode hier drüber.
+Der Hauptunterschied.
+Der Hauptunterschied.
+Hier muss ich den Zusatzgrad per Hand zuführen und muss ihn immer wieder nachschieben.
+Das macht bei diesen Prozessen tatsächlich ein bisschen die Handwerklichkeit.
+Weil ich muss nicht nur eine gute rechte Hand haben, sondern auch eine gute linke.
+Und die müssen auch so koordiniert werden, dass sie zueinander passen.
+Also Handschweißen ist ein sehr hoher Anspruch an Handwerklichkeit.
+Das können letztlich über Auge-Hand-Koordination das hinzufügen.
+Es ändert sich nicht viel, aber das ändert sich.
+bei diesem Verfahren ist
+Werkstoff und
+Licht oder Energiequelle
+in einem, weil hier vorne
+brennt letztlich direkt die Energiequelle
+an meiner Elektrode
+schmilzt die letztlich auf
+das vereinfacht die Sache, also ich kann mir die linke
+Hand eben auf den Rücken binden und könnte
+jetzt nur mit einer Hand schweißen
+ob das jetzt Sinn macht, sei es dahingestellt
+aber einfach mal
+zum Verständnis, dass das
+jetzt eben auch nicht mehr zu
+Entkoppeln jetzt.
+Ich glaube zwei haben schon einen Aufsatz.
+Der hier?
+Also ich meine die Aufsätze, also das Gelbe.
+Das Gelbe, achso.
+Das ist mal was anderes.
+Da müssen wir gleich nochmal drauf kommen.
+Innen drin ist erstmal mein Stahlwerkstoff.
+Und den will ich jetzt.
+Weil den würde ich jetzt auch hier haben.
+Weil das Gelbe ist eine Umhüllung.
+Die bringt mir nachher mein Schutzgas.
+Beim Gasschmelzschweißen brauche ich das nicht.
+Das schmilzt ja auch mit, oder?
+Das schmilzt auch mit, ja.
+Aber hier schmilzt jetzt erstmal nur der Draht und den mache ich heiß, weil meine Flamme
+letztlich auch alles verbrennt, was an Sauerstoff in der Nähe ist, ist das auch geschützt.
+Das heißt beim Lichtbogen nicht.
+Das heißt, da braucht es noch ein zusätzliches Schutzgas und das ist eben genau dieser Umdruckswerkstoff,
+der verbrennt mit.
+Können Sie sich auch gleich mal angucken.
+Ausgeschnittenes Gold, wenn ich es nicht wollte, aber also, weil, weil, das ist die Spitze, was ausgeschnitten ist.
+Also, das ist einfach Kupfer und das ist Messing.
+Ist Messing auch für ihn ausgeschnitten?
+Ja, Messing ist ja eine Kupferlegierung.
+Ach so, okay.
+Ja, also, mit Zink letztlich mit dabei, ähm, temperaturtechnisch besser wie Aluminium, klar, aber nicht so gut wie Stahl.
+Ach so, Sie beziehen das so drauf, wenn da vorne die Flamme rauskommt.
+Ja, dann muss es sehr viel raus sein.
+Genau.
+Das Schöne an der Sache ist, die Flamme ist da draußen, das ist richtig,
+aber es wird ja permanent über den Gassprall gekühlt.
+Kühlt der?
+Ja, da kommt ja das kalte Gas rein.
+Und deswegen, erst da kommt die Hitze und davor, sonst würde das aber wegrennen.
+Ja, das ist völlig recht.
+Danke.
+So, gut. Ich bringe ihn nächstes Mal noch mal mit, schon noch mal gezeigt.
+Es gibt weitere Varianten, wo ein Draht koffeinwillig gefördert wird.
+Oder es gibt wieder eine Variante, wo wieder feststehender Lichtbogen ist
+und wo ich wieder meinen Zusatzwerkstoff manuell dazu tun muss.
+Aber da kommen wir heute nicht mehr zu.
+Jetzt gucken wir uns erstmal dieses Gerät an,
+um so ein bisschen Grundverständnis für unsere zweite Energiequelle, nämlich Lichtbogen, zu haben.
+Also, die Handschweißung ist, wie der Name schon sagt, erstmal nichts hochproduktives, sondern ein reiner Handprozess,
+der für verschiedenste Bauteile geeignet ist, Montage, Instandsetzung, für ein paar Spezialnähte,
+aber die eigentlichen Anwendungen sind so Behälter, Anlagenbau, Stahlbau, da fühlt er sich richtig zu Hause.
+Es wird vornehmlich kein Alu oder irgendwelches Kupferz und so weiter.
+Steht auch extra noch da.
+Also keine Nicht-Eisenmetalle. Ja, war ziemlich gut. Technisch wäre das machbar. Das Verfahren ist aber zu 99,9% für klassische Eisenwerkstoffe.
+Wie ist es wirklich, dass es wirklich Strom erhältst, oder?
+Irgendwie.
+Okay.
+Aber das ist ja Hochspannung, oder?
+Ja, wir kommen genau dazu.
+Verstehst du mich?
+Ne, Hochspannung ist es tatsächlich nicht.
+Also, wie erhältst du dich, sagen wir mal so, extrem herrlich?
+Es muss ja sehr warm werden.
+Genau.
+Wie erhältst du dich das?
+Indem ich viel Strom einsetze.
+Ja, elektrisch ein ganzes Schumann, ja, beliebtes Thema für Maschinenbauer, ja, oder?
+Stimmt mir doch zu.
+Alle schon gestanden, oder?
+Nee, ich noch nicht.
+Okay, ja, das ist so ein, wir machen auch nur so ein bisschen die Grundlage dazu, das soll heißen, Sie kennen ja URI, ne?
+Das heißt, das war ja Widerstand, Strom und Spannung, die haben wir im Musikverhältnis.
+Was haben wir? Wir haben großen Strom, weil Strom tatsächlich der Energiebringer ist.
+Das heißt, viel Strom heißt viel Wärme.
+Die Spannung, die hängt ja in den URI mit dabei, die soll niedrig sein.
+Warum? Ja, wenn ich mit dem Gerät unterwegs bin, ja, und 22 Volt habe, ja,
+Wer hat von Ihnen schon mal versucht, an einer Steckdose mit einem feinen Draht mal zu gucken, wie viel Spannung drauf ist?
+Ja, haben wir doch als Kinder alle verboten gekriegt zu machen, weil das könnte auch tödlich werden, das Ganze.
+So, jetzt sage ich Ihnen, da habe ich Strom drauf und jetzt hätte ich so hohe Voltzahlen, wäre für mich als Schweißer auch tödlich.
+Also das heißt, das ist auch noch ein Sicherheitsaspekt.
+Also so quasi eine Win-Win-Situation, viel Strom heißt viel Wärme,
+viel Wärme, kleine Spannung, wir reden hier von 20 Volt, ja, so einen kleinen Gewicht
+kriege ich schon, wenn ich da im Stromkreislauf bin, aber es ist auf alle Fälle jetzt für
+mich, für meinen Organismus jetzt nicht so kritisch anzusehen. Und wo ist der Widerstand?
+Der Widerstand ist eigentlich der gesamte Stromverlauf, aber insbesondere interessant
+ist das Ganze, weil der Lichtbogen, der brennt jetzt natürlich, ich lege das ja nicht drauf,
+Sonst würde der Strom ja reinfließen können, sondern der brennt jetzt quasi an einer Stelle frei, quasi in Luft.
+Erstmal ganz vereinfacht gesagt.
+Und je länger dieser Lichtbogen und damit diese Strecke ist, wo kein Kontakt oder kein festes Material ist,
+je größer wird auch der Widerstand.
+So, das heißt, dann würde gegebenenfalls auch Stromstärke oder Spannung entsprechend reduziert werden.
+Aber wir wollen das ja schon nochmal auflösen. Also das heißt, wenn da ein Lichtbogen dazwischen brennt,
+nennen wir das ganze Plasma
+weil es eben auch
+zu, also Atome
+die Elektroden
+werden aus den Atomen
+letztlich raus
+getrennt quasi und strömen
+Richtung positiven Pol
+und die
+verbindenden Ionen wandern
+Richtung negativen Pol
+das habe ich noch gar nicht gesagt
+bei diesem Stromverlauf gibt es ein Plus und Minus
+Das heißt, letztlich ist auch überall hier am Ende vielleicht Plus und auf der Gegenseite
+am Bauteil Minus.
+Kann man auch umgekehrt machen, aber auf alle Fälle ist das der normale Stromverlauf.
+So, das Ding weckt man dann eben entsprechend, wenn der Strom fließt.
+Lichtbogen, das kann über dieses ionisiertes Gas erfolgen und das heißt, irgendwo muss
+muss das, ja, Heeresmaterial,
+dieses ionisierte Gas,
+heißt ja nichts anderes, dass da Atome
+drin sind, die sich
+zwar spalten, also die nicht spalten,
+das ist völlig falsch, sondern die einfach
+die Elektronen abgeben, ja,
+aber das
+muss gefüttert werden, da muss
+jetzt nicht nur Luft sein,
+sondern da sollte Gas sein,
+da soll Metalldampf sein, da soll
+alles mögliche sein, was mir eben
+Atome liefert.
+Und als Beispiel bei unserem Gehandschweißen ist es eben die Elektrodenumhüllung.
+So, dann gibt es noch so, also von Ihnen hat man nie jemanden geschweißt, oder?
+Nein.
+Genau.
+Wir machen ja die entsprechende Laborbesichtigung und da werden Sie alle mal schweißen dürfen.
+Und jetzt das Verfahren nur am Simulator, aber da werden Sie sehen, dass das auch entsprechend
+anspruchsvoll ist.
+Da müssen Sie genau eben auch so ein bisschen in die Handwerklichkeit und die Sachen einladen.
+Also kein Risiko für Sie, das Grundwerk hat alles kein Problem, verbrennen kann man die
+auch nicht.
+Es ist alles original, nur der Lichtbogen nicht.
+Alles schon mal als Anklügel.
+Aber wir bleiben jetzt dabei, denn es geht ja darum, trotzdem irgendwo, hier ist doch
+Klar, hier mache ich Feuerzeug an und dann brennt das irgendwann.
+Wann brennt denn mein Licht um?
+Der brennt eben dann, wenn so das erste Plasma,
+wenn so die ersten Ionen, Elektronen umeinander fliegen.
+Und dafür braucht es letztlich gewisse Zündungsarten,
+die einfach so bei dem ist, man hält einfach aufs Blech.
+Was passiert, wenn ich aufs Blech draufhalte und Strom fließt?
+Es kommt zu einer Widerstandserhöhung.
+Das ist was anderes.
+Das heißt, der Widerstand zwischen Blech und Licht, zwischen Elektrode und Blech, macht das Ganze heiß, schmilzt es sogar auf und dann fangen eben an, irgendwelche Ionen, Elektroden, eine Wolke zu bilden.
+Und dann nehme ich das ab, dann kann ich ein bisschen auf Abstand gehen und sehe da, ein Plasma entsteht oder ist schon entstanden über die Widerstandserwärmung und dann brennt mein Licht.
+Das wäre jetzt die Vorgehensweise.
+Und dieser Lichtbogen, also beim, ich bin ein bisschen drüber weggegangen, das Gasschmelzspeisen
+schafft tatsächlich so im Flammbogen 3000 Grad.
+Beim Lichtbogen können wir aber auch über 20.000 Grad reden.
+Das ist ja der Clou an der Sache, dass ich mit dieser Energiequelle deutlich heißer
+werden kann.
+Was heißt denn das, wenn ich heißer bin?
+Ich kann schneller was aufschmelzen.
+Also auch wieder ein wirtschaftliches Thema.
+Siehe da, plötzlich bin ich in einem Verfahren, was schneller schweißen kann.
+Weil ich jetzt mehr Temperatur pro Zeit auch zurückfliegen kann.
+Gut. Und das wäre jetzt noch das Zünden, ok.
+Aber hier ist eben das Grundprinzip.
+Das ist hier mein Brenner. Der sitzt jetzt hier drin. Das ist der Stromkreislauf, der jetzt eben hier mein Stromlieferant ist, bei entsprechender Spannung.
+Und das ist jetzt der Lichtbogen. Und das ist der maßgebliche Widerstand in dem ganzen Stromkreislauf.
+Und das bedeutet, gehe ich höher, verändert sich irgendwas.
+Das muss auch irgendwie alles zu dem Schweißaggregat passen, um Ihnen mal einen Wert zu geben.
+Unser Schweißaggregat beim Schutzgasschweißen kann bis 300 Ampere.
+Das heißt, bei 20 Volt, das ist schon eine ganz anständige Leistung letztlich.
+Die muss zur Verfügung gestellt werden und die muss zu der Lichtbogenlänge dann auch
+wieder angepasst werden.
+Na gut, das macht kein Mensch mehr, sondern das macht quasi die Maschine selbstständig.
+Wenn Sie ein bisschen weiter weg sind, kann die das ausgleichen.
+Es gibt so interne Regelkreisläufe, dass die Strom und Spannung daneben anpassen,
+sodass Sie eigentlich mehr oder weniger immer die gleiche Temperatur haben,
+bis der Widerstand zu groß wird, bis Sie zu weit weg sind,
+und dann reißt der einfach ab und dann ist der Lichtbogen aus. Fertig.
+Beim Gasnetzschweißen können Sie nach wie vor Unfug machen.
+beim Lichtbogen braucht es eben einen gewissen Abstand. Wenn der so groß ist,
+wird nie ein Lichtbogen funktionieren.
+Kennen Sie alle Lichtbögen?
+Heizstrahler, das ist eigentlich eine Widerstandserwärmung in aller Regel, also dass da ein Lichtbogen
+ist, muss ich direkt mal überlegen, ist mir jetzt nicht so geläufig, kann aber auch sein,
+dass man da was einsetzt. Aber beim Heizstrahler ist es eigentlich eher so, dass die Drähte
+heiß machen und dann kommt ein Ventilator und schiebt Ihnen die warme Luft dann über die Drähte entgegen.
+Was ist denn, wenn ich einen Lichtschalter anmache oder ausmache?
+Das wäre eigentlich wieder ein Regulierungsbeispiel.
+Okay, das wäre die Basics. Es geht um Strom. Es geht um Stromkreislauf. Der Lichtschalter macht den Stromkreis ein, sodass Strom an der Burne ankommen kann und der gibt es eben entsprechend, je nach Technik, was da verbaut ist, gibt es den eben nicht.
+So. Im Schalter selber kann es eben sein, bevor der tatsächlich auf Kontakt geht, dass schon, ja, wiederum Ionen, Elektronen unterwegs sind und siehe da, plötzlich, Plasma, plötzlich nicht komisch.
+Also wenn Sie einen Schalter quasi so gerade so festhalten, dass er so minimal Kontakt
+eben nicht hat, sondern einen gewissen Abstand, können Sie gleich sogar einen stehenden Lichtbogen
+erzeugen.
+Weil der Strom will da schon rüber und es ist noch ein bisschen Abstand dazwischen und
+Sie sind da, was machen Sie?
+Sie fackeln Ihren Lichtschalter ab.
+Weil das natürlich eine Wärme ist, die Sie da nicht wollen.
+Deswegen passiert sowas eigentlich auch nur unabsichtlich, wenn in dieser Mechanik irgendwas nicht mehr ganz passt.
+Aber bei uns ist es Absicht.
+Wir wollen den Lichtbogen immer haben.
+Vielleicht haben Sie mal Bilder von Hochspannungswerken gesehen, wo richtig Hochstrom und Hochspannung umgesetzt wird.
+Wenn die irgendwelche Schalter schließen, dann gibt es immer einen Lichtbogen, weil immens viel Spannung letztlich auf dem System drauf ist.
+Oder wenn, das passiert auch ständig, wenn bei einer Elektro-Lok, wenn der Stromabnehmer pro Mann an die Stromfügung geht, gibt es immer einen kleinen Lichtbogen.
+So, also das sind Anwendungen, wo man den Lichtbogen eigentlich nicht haben will.
+Wir wollen ihn und wir müssen ihn konstant halten.
+Dafür brauchen wir aber auch die Umhüllung.
+Das sehen Sie jetzt hier.
+Weil die Umhüllung, die hat letztlich zwei Jobs.
+Einmal, wie gesagt, das Plasma aufrichterhalten.
+Man nennt das stabilisieren vom Lichtbogen.
+Liefert einfach Atome.
+Und das andere ist, Atome wie Sauerstoff haben da nichts zu suchen.
+Das heißt, das verbrennt und es gibt einen entsprechenden Dampfdruck
+und Sauerstoffmoleküle aus der Luft kommen da nicht hin.
+Und das ist eben fundamental wichtig.
+Wenn Sie eben mal eine alte Brücke sehen, aus dem Anfang 20. Jahrhundert, also 1900 irgendwas,
+die sehen Sie so gut wie nie mehr.
+Weil damals hat man ohne Umhüllung geschweißt.
+Da wusste man noch nicht so richtig, das gibt auch einen Lichtbogen, das brutzelt auch irgendwie vor sich hin.
+Aber wenn da Luft, Sauerstoff mit da reinkommt, kann es eben sein, dass es zu Poren, zu Problemen, zu Korrosion in der Naht kommen kann.
+Und irgendwann hat man das spitz gekriegt und hat dann eben festgestellt, okay, wir werden das irgendwie über Schutzgas lösen.
+Und dann hat man diesen Umhüllungswerkstoff, dieses gelbe, eben entwickelt und hat eben das parallel verbrennen lassen zum eigentlichen Werkstoff.
+So, jetzt gucken wir uns noch ein Beispiel an.
+Amen.
+So, das ist schon alles, das heißt, hier sehen Sie irgendwas an Werkstoff, hier kommt
+der Werkstoff von oben rein, als Nutzwerkstoff, und schmilzt hier am Lichtbogen auf der Seite
+an, aber auch hier unten wird dann geschmolzen, weil der Lichtbogen kann natürlich in alle
+Richtungen wirken, und das Ding nennt sich jetzt Kurzlichtbogen, weil er immer mal wieder
+zwischendurch einen Kurzschluss
+veranstalten.
+Gibt es den Wisch?
+Ah, besser.
+Deswegen Kurzschluss.
+Das ist
+absolut berechtigte Frage.
+Um
+den Materialtransport
+an der Stelle
+zu fixen.
+Stellen Sie sich mal vor,
+es ist ein anderer
+Beweggrund.
+Sie schweißen unter der Decke. Sie haben gerade gesehen, da muss irgendwie Material aufgeschmolzen
+werden und muss nach oben. So, was passiert aber, wenn ich über den Kopf schweiße? Da habe ich
+Schwerkraft. Das kann eben blöd laufen, dass mir die Schmelze wieder entgegenkommt. Was passiert
+da. Ich hefte die quasi
+da oben an, indem das Material
+eben nicht darüber fliegt.
+Es gibt auch Lichtbögen,
+es gibt Übergangslichtbögen
+oder lange Lichtbögen, die einfach
+permanent brennen und da muss das
+Material irgendwie
+transferiert werden und über Kopf
+funktioniert das nicht.
+Ich klebe quasi das Material da unten ab.
+Das ist ein Grund, vielleicht
+am besten
+verständlich. Der andere, viel wichtiger
+Grund jetzt im normalen Schweißbereich ist, einfach, ich bin kälter, weil ich zwischendurch gar keine Wärme habe.
+Und das ist ein bisschen das Thema in allen Lichtbögen. Ja, ich will ja sowas nicht haben.
+Ich möchte möglichst wenig Temperatur einsetzen. Und alle Welt, auch hier diese
+Lichtbögenarten, gerade der Kurzlichtbogen, da wird geforscht und gemacht, um den
+Lichtbogen so minimal in seiner Wärmeeinbringung zu kriegen. So habe ich es ja auch selber gesagt,
+Wie gesagt, wenig Temperatur. Das kann ich auch mit so einem Lichtbogen, mit dem ich mit so einem Kurzlichtbogen arbeite.
+Die Hälfte der Zeit ist er gar nicht an. Weil er in der Zeit Material verträgt. Das ist so.
+Du brauchst die Geschwindigkeit gleich an, also blieben wir dann über zum Beispiel so ein Bett?
+Also, so ein schnelles Blinken, oder?
+Ähm, ja, wie kann ich das visualisieren?
+Das kannst du gleich simulieren.
+Wie bitte?
+Das kannst du gleich simulieren.
+Das kann ich Ihnen zeigen.
+Das wäre eine Geschwindigkeit, die Sie hier normalerweise hätten.
+Sollst du nachher zeigen.
+Wie bitte?
+Sollst du jetzt nachher?
+Ja, wo die hübschen sind.
+Okay.
+Also ich wollte ja nur die Geschwindigkeit zeigen.
+Das wäre eine Geschwindigkeit, die Sie...
+Okay.
+Wir sind zur Zeit langsam, oder?
+Ja, eigentlich schon.
+Schon wieder im Hintergrund, dass der Prozess muss ja hier was abschmelzen, dann muss das
+darüber transferiert werden und das heißt, und dann muss ich ja auch noch mit meiner Hand das
+machen. Wenn ich jetzt eben unterwegs bin, vielleicht haben Sie es gerade verfolgt,
+so, ja, dann müssen Sie sehr kontinuierlich die Geschwindigkeit einhalten. Mal schneller,
+langsamer oder so, das würde immer wieder auf Änderung bedeuten.
+Und wie macht man dann die Wechselspannung? Ist dann automatisch oder?
+Also man muss ja kurz mal abbrechen.
+Warum muss ich abbrechen?
+Das ist von selber.
+Na klar.
+Aber was meinen Sie mit Wechselspannung?
+Also Sie haben es vorhin gezeigt, dass der Materialtransport halt erfolgt.
+Achso, das ist jetzt die Lichtbogenart letztlich.
+Das hat was mit Stromspannung zu tun, was das Aggregat ganz automatisch macht.
+Das ist bei der Maus so, oder?
+Ist bei der Maus so.
+Das ist ja nicht so.
+Da muss man ja auch eine Wechselspannung haben, oder nicht?
+Nicht verwechseln.
+Also ein Wechselstrom wäre das,
+indem ich Plus und Minus immer wieder wechseln lasse.
+Das gibt es auch.
+Ja, weil es unterschiedliche Eigenschaften
+auch tatsächlich hat.
+Also wäre jetzt wie viel auf welcher Seite
+abschmilzt oder nicht.
+Aber das würde jetzt einfach zu weit führen.
+Bleiben wir mal beim ganz normalen Gleichstrom.
+Strom ist letztlich das, was ich jetzt gerade in dem Film gezeigt habe, basiert letztlich auf dem Zuführen von relativ wenig Strom zu Spannung.
+Also das ganze Niveau ist sehr klein.
+Wenn ich das anhebe, ist immer viel zu viel Energie da, dann gibt es gar keinen Kurzschluss mehr, weil immer genügend Leistung vorhanden ist, um alles aufzuschmelzen, was da ist.
+So, also, was haben wir für Vorteile?
+Geringere Schaffungskosten.
+Das ist so endlich mal ein Gerät, was ich echt für unter 100 Euro im Baumarkt kaufen
+will.
+Ja, Baumarkt, vielleicht ein bisschen teurer. Gehen Sie zu Kaufland, Lidl oder wo auch immer.
+Gibt es immer mal wieder Schweißgeräte tatsächlich für fast nichts zu kaufen.
+Ja, aber ich sage es Ihnen gleich, zum Basteln, meinetwegen, sicherheitstechnisch wird es schon irgendwie sein.
+Aber richterdeutend ist es das nicht.
+Was kostet so ein Gerät? Im Profibereich gibt es diese Hirnschweißsachen tatsächlich noch.
+da reden wir schon von 2.000 bis 3.000 Euro, die Sie mindestens investieren müssen.
+Im Industrieumfeld ist das aber Peanuts, das ist eigentlich gar kein Geld.
+So, das heißt, sehr günstig das Ganze, es sind auch nur ganz kleine Schweißaggregate
+und Zusatzmaterial kriegen Sie eben, also dieses Material, von dem ich da gerade gesagt habe,
+Diese Stäbe, die kriegen Sie in solchen Packungen letztlich ganz gut gekauft, die gibt es natürlich auch im Bau.
+So, das heißt, trotzdem müssen Sie das gut draufhaben, das Ganze, wie das Anspruchsholz da dran ist.
+Das Gerät schmilzt ja weg. Das heißt, Sie müssen nicht nur so führen, sondern Sie müssen auch noch so führen, in beide Richtungen.
+Das ist bei anderen Verfahren, da haben Sie nur eine Stelle und müssen nur quasi
+x fahren, hier müssen Sie auch noch eine y legen. Das macht das ein bisschen schwieriger.
+Unfallgefahr, das ist jetzt mal bei allen Lichtbogenprozessen drin, weil es natürlich jetzt auch
+hohe Temperaturen hat und Sie sollten nicht Ihre Hand dazwischen haben, dass es sich
+dann entsprechend verbrennen. So, so sieht das Ganze dann mit Kabel aus. Das wären jetzt mal unterschiedliche
+Elektroden. Ja, und das heißt, die starke Elektrode ist der Zusatzwerkstoff und die Umhüllung liefert eben
+einen Schutz und lässt man nicht oben schön brennen. Eine Besonderheit, aber das müssen Sie einfach mal
+gesehen haben, wenn nachher im Labor ist, dass sich so eine Schlacke bildet, weil diese Umhüllung, die verpufft
+nicht nur, die vergaßt nicht nur, sondern die wird trotzdem noch ein gewisses
+Quantum an einer, sich mit ein bisschen Metall verbinden und es entsteht so eine
+Schlacke, die sich einfach über das Material überlegt. So, und das heißt, dann
+nützt mir das tatsächlich auch was, dass ich langsam abkühle, auch wenn das jetzt
+so ein bisschen aussieht, warum habe ich das überhaupt noch, hat das seine
+gerade auch wegen der Schlacke, weil die Qualität dadurch besser wird.
+Denn Naht, die schnell abkühlt, hat eben größere Probleme.
+So, da gibt es, und das ist ein bisschen was zur Lesbarkeit aller meiner entsprechenden Einwerfungen hier,
+das sind die Konstruktionen dieser jeweiligen Nähte.
+Und die zeichnet sich dann aus, dass ich gar nicht so dicke Nähte mache zum Beispiel.
+Aber, ob I-Stoß oder Kehlnaht, also quasi beliebige Konstruktionen sind hier machbar.
+Deswegen hier nochmal ein kurzer Einsatz.
+Wie gesagt, Sie sehen das alles. Ein Werkstattmeister wird Ihnen einfach mal vorschweißen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Wiederholung das nächste Mal. Jetzt machen wir noch die zwei Bilder hier und dann sind wir fertig für heute.
+Das Leben Microsoft. Gut. Also, es gibt, kurzer Hinweis noch, dass wir jede Menge was in der Falschlaufung haben,
+irgendwelche Einschlüsse, Gaseinschlüsse, Festkörpereinschlüsse oder unser beliebtes Thema,
+Das Thema, dass womöglich das Ganze auch noch reißt.
+Darum brauchen wir keine Risse in der Naht.
+Nicht nur Sinnsstabilität, sondern nach Riss kommt Bruch und das heißt, Sie haben zwei Teile in der Naht.
+Schlimmer geht's doch nicht.
+Also wenn Sie es zusammenbringen, woher denn der Schweiß?
+So, das heißt, oben oder sowas da oben ist auch schon ärgerlich, aber da haben Sie eher so die Instabilität,
+weil einfach Querschnitt fehlt, aber das heißt doch nicht, dass der vielleicht nicht doch irgendwie ausreicht.
+Und woher kommen die?
+Und das gibt es auch gemütlich, gemütlichartig von mir.
+Die kommen eigentlich zu 95% immer aus schlechter Reinigung.
+Und den Tipp kann ich Ihnen nur geben, wenn Sie jemals selber auch schweißen oder sowas,
+oder Leute beaufsichtigen, es geht immer darum, dass gepfuscht wurde in der Vorbereitung.
+Öle, Fette, irgendwas, selbst letztlich ein Fingerabdruck, wenn Sie vorher Butterbrot gegessen haben,
+kann dafür sorgen, dass der diese Systeme letztlich auch mit verdampfen
+und in dieser Dampfform sich in Ihren Näsen wiederfinden.
+Das heißt, lauber machen, wenig Wasser und das Ganze, also wenig Wasser ist gut,
+Gar kein Wasser, weil auch Wasser wird unter dem Lichtbogen entsprechend atomar gespalten.
+Es entsteht Sauerstoff und Wasserstoff.
+War eigentlich nicht wirklich witzig, weil ich das auch wieder danach wieder finde.
+So, das kommt das letzte Bild für heute.
+Was halten wir davon?
+Cool ist es, definitiv.
+Ist es ein Fake-Bild oder nicht?
+Ich habe Ihnen ja gerade was gesagt, kein Wasser und da passiert was.
+Das ist doch totaler Mist eigentlich.
+Ich würde es nicht denken.
+Ich habe damit eine sehr hohe Hitzegehalt.
+Ja.
+Ja.
+Ich habe ja
+fast schon 20.000 Grad gesagt. Das reicht schon aus.
+Also der Lichtbogen reicht aus.
+Die Gasflamme,
+die würde es nicht schaffen.
+Ja. Also,
+Sie haben völlig recht. Das sind die
+klassischen Anwendungen. Das heißt,
+im
+von irgendwelchen Bohrinseln und so weiter, aber das wäre jetzt auch ein Bild, wo einfach
+irgendwie ein Schleusentor repariert wird, wo ich das nicht einfach trockenlegen kann
+oder rausnehmen kann, dann muss ich eben runter.
+Man muss dann in entsprechender Tiefe das Ganze schweißen.
+So, wie geht das?
+So, jetzt kriegen Sie von mir eine Sicherheitseinweisung.
+Kommen Sie nicht auf die Idee zu sagen, Sie haben doch was gesehen, Sie kaufen sich
+Die kaufen sich für 100 Euro genau so ein Gerät,
+gehen dann zuhause in die Badewanne und fangen erstmal an, unser Wasser zu schweißen.
+Was will ich damit sagen?
+Ja, es ist ja keine Spannung.
+Bei diesem Gerät wird die Spannung sogar noch weiter reduziert.
+Aber trotzdem keine gute Idee. Warum?
+Weil das ganze Ding ja nicht isoliert ist.
+Diese speziellen Geräte sind hier komplett erstmal isoliert.
+Das heißt, nur wenn es hier vorne kommt, kommt überhaupt ein Kontakt, wenn überhaupt, eben mit der Atmosphäre, letztlich mit Wasser.
+Aber da habe ich ja meinen Lichtbogen, der expandiert und treibt mir mein Wasser weg.
+Also das heißt, mit der Badewanne zu Hause, das ist, wie gesagt, da Kontraprodukt, insbesondere wenn die Geräte das gar nicht können.
+So, warum, jetzt in dem Fall, warum kann der Taucher da trotzdem kein Problem kriegen?
+Aber Strom, Wasser, da wissen wir auch mal nicht, dass das eigentlich gefährlich ist.
+Auch wenn die Spannung niedrig ist, dann müsst ihr ja permanent da kleine Stromstärke kriegen.
+Dann soll ich sagen, ja, am Anfang ist das auch tatsächlich so, aber wie gesagt, kleine Rollstärken.
+Wenn der Lichtbogen erstmal brennt, ist das eben kein Kontakt mehr mit dem Wasser und damit eben auch kein dauerhafter Stromfluss im Wasser.
+Dafür muss sich auch noch diese Elektrode, so wie sie hier ist, die braucht eine Umhüllung.
+Die kriegt nämlich, die ist nochmal viel dicker, weil das ist nicht mehr Strom oder nicht mehr Hitze,
+sondern dickerer Umhüllungswerkstoff, der mehr Gas liefert beim Verbrennen.
+Damit noch mehr Expansion und damit noch mehr Wasserdruck entfernt wird.
+Und deswegen ist das kein Vergleich zu diesem Gerät, sondern es ist eben nur ein Spezialgerät.
+Ich würde zum Beispiel so einen Schweißer nehmen, also einen Normalschweißer.
+Also, wenn man mit dem Handel beginnt.
+Ja, hier weist der Druck nicht aus.
+Das heißt, die Flamme wird gar nicht entstehen können.
+Ja, wenn Sie die nämlich, meinetwegen auch an Atmosphäre, also an Luft, brennen lassen
+und tauchen die ins Wasser ein, ist sie trotzdem aus.
+Weil das Wasser wird einfach den Gegendruck zu hoch haben und wird einfach die Flamme erlöschen.
+Hier 20.000 Grad, entsprechend viel Schutzgas durch eine dicke Umhüllung, dann schafft er das.
+Das ist ein absolutes Highlight, also wenn Sie mal gar nichts mehr, wenn Sie mal richtig Geld verdienen wollen,
+Schweißerinnen und Schweißer unter Wasser kriegen richtig viel gezahlt.
+Die müssen eine Ausbildung haben im technischen Bereich, eine Tauchausbildung.
+Den gibt es in Hannover, eine Einschleife, eine Schweißlehrer-Versuchsanstalt.
+Die haben so ein Wasserbecken, da können sie ihr Spaß dazu machen.
+Ja, und dann werden sie aufschwollos gelassen.
+Kriegt man das nach Tauch?
+Ne, also eher fünfstellig.
+Echt?
+Ja, ich glaube so.
+Ne, ich glaube so.
+Perfekter Weg. Okay, dann danke dir.
