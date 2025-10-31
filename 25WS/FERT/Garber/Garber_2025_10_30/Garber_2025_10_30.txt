@@ -1,0 +1,1101 @@
+... aber das macht nichts. Wir fangen kümmern an. Wir haben letzte Woche das Drehen gemacht, wir haben eine Aufgabe gerechnet, weil wir das Ergebnis gesagt haben, aber die Rechnung war die gleiche wie vorher.
+und deswegen würde ich jetzt einfach mit dem nächsten weitermachen.
+Wir gehen mit Bohren, Gräsen, Räumen, Schleifen und machen mit dem Bohren weiter.
+Bohren ist auch noch ein einfacher Prozess.
+Ja, Bohren.
+Ach, da sieht nichts.
+Ich habe einen neuen Rechner, der darf noch nicht alles.
+Vielen Dank.
+So weit schaffst du das.
+Aber warum?
+Jetzt geht's.
+Er ist neuer Richter. Er muss alles erst noch einrichten.
+Jetzt noch nicht fertig.
+Aber gut. Also.
+Bohren. Bohren ist halt
+extrem wichtig. Bohren
+macht ungefähr 30 Prozent aller Zersparnungen aus.
+Was in Deutschland gefertigt wird, das wird gefräst, gedreht, gebohrt, bohren, ungefähr 30 Prozent.
+Einer der wichtigsten Prozesse.
+Und wenn man jetzt so eine Maschine anschaut, das wird eine Drehmaschine, eine große,
+hier eine Schreckbettdrehmaschine,
+hier kommen die Schienen drauf, die DDR-Führungen,
+wo dann später das Werkzeug hin und her fährt, da muss sie lauter Bohrungen machen.
+machen. Eine Bohrung neben der anderen. Und überall, dass Sie später die Schienen aufschrauben
+können. Sehr viele Bohrungen, alle 5 cm eine Bohrung. Dann immer ein Gewinde hineinschneiden.
+Wenn Sie etwas anschrauben wollen, müssen Sie bohren. Also bohren ist überall. Es gibt
+mehr Bohrungen, als man so denkt. Es gibt nicht mehr so viele Verbrennungsmotoren. Heute
+Wir haben ja die meisten Elektroautos, bei einem Verbrennungsmotor, wenn man hier mal reinschaut in so einen Motor, auch ein bisschen großgezogen, dann sieht man, hier ist gebohrt, gebohrt, gebohrt, gebohrt, gebohrt.
+In so einem Motor sind um die 200 Bohrungen drin.
+Überall, wo etwas rein muss, wird gebohrt.
+Also Bohren ist extrem wichtig.
+Das kommt in jedem Bauteil vor.
+Und deswegen beschäftigen wir uns damit.
+Ein, zwei Sachen vorweg.
+Wir haben beim Bohren verschiedene Varianten.
+Es gibt im Moodle-Kurs ein kleines Skript.
+Bohrverfahren.
+Das könnt ihr wieder selber anschauen.
+Da wird kurz gesagt, was Bohren ist.
+Das wissen Sie sowieso schon.
+Und da hatte die Beginner auch noch dazu.
+So, wir haben Bohren ins Volle und Aufbohren.
+Bohren ins Volle heißt, Sie haben hier eine Fläche, Sie setzen einen Bohrer an.
+Das ist der typische Bohrer hier.
+Sie setzen den an und legen los ins Volle.
+Aufbohren heißt, es gibt schon ein kleines Loch und Sie machen es größer.
+Dann müsst ihr mal aufbohren.
+Ich gebe Ihnen nachher,
+und ich möchte ein paar Sachen dazu sagen.
+Und dann später.
+Also, aufbohren heißt,
+es gibt schon ein Loch,
+bohren ist voller Eis, es gibt noch kein Loch.
+Und wenn man jetzt schaut, was man erreichen kann,
+dann sieht man, dass die Toleranz,
+die IT-Klasse, beim Bohren des Vollen
+sehr viel schlechter ist,
+als beim Aufbohren.
+Bohren ist vorne sehr viel ungenauer.
+Die Oberfläche, wie gut die Bohrung wird.
+Beim Aufbohren schaffen wir 4 Mikrometer, hier schaffen wir 40.
+Aufbohren ist sehr viel besser als das Bohren ins Volle.
+Haben Sie irgendeine Idee, warum?
+Warum es besser ist, erst ein kleines Loch zu bohren und dann ein größeres als direkt ein großes.
+Wenn Sie den Bohrer drehen, mit einer bestimmten Drehzahl, hat er außen eine hohe Geschwindigkeit,
+in der Mitte eine kleine Geschwindigkeit und genau in der Mitte gar keine Geschwindigkeit.
+Die Mitte, der Mittelpunkt, der steht und wenn Sie jetzt den Bohrer runterdrücken,
+in der Mitte aber gar nicht schneiden, dann drücken Sie das Material nur weg.
+Deswegen brauchen wir beim Aufbohren sehr viel Kraft.
+Und eine extreme Kraft, die Mitte schneidet nicht.
+Und deshalb ist die Genauigkeit schlechter beim Bohren ins Volle und die Oberfläche auch schlechter.
+Der ganze Prozess ist schlechter.
+Wenn wir eine gute Bohrung haben wollen, müssen wir hinterher senken.
+Wir müssen hinterher reiben.
+Reiben mit der Reibahne. Ich habe ein Bild dazu.
+Wenn die Bohrung schon fertig ist, macht eine sehr gute Bohrung daraus.
+Besserer Genauigkeit, bessere Oberfläche.
+Das ist ein eigener Prozess.
+Das Reiben, Senken, sehen wir uns auch noch an, das gehört dazu.
+Und diese drei hier, Bohren, Senken, Reiben, gehören zu dieser Hauptgruppe.
+Trennen, Spanen mit geometrischer Schneide.
+Und die werden immer zusammengefasst.
+Das gucken wir uns gleich noch mal an.
+Gut, dieses Teil hier ist eine Spiralrohre.
+das ist das üblichste Werkzeug.
+Ich sage ein paar Sachen dazu
+und dann gebe ich ihn hoch.
+Vielleicht eine andere von der Sorte?
+Nein.
+Dieser
+Ober hier
+hat einige Vorteile,
+so wie er gebaut ist.
+Wenn er vorne stumpf ist,
+wenn er verschlissen ist,
+dann gehe ich damit
+an den Schleifstein,
+drehe den einmal,
+schleifen ihn nach und dann ist er wieder scharf. Er hat immer den gleichen Durchmesser hier. Der
+Durchmesser ändert sich nicht. Er wird ein bisschen kürzer, das macht nichts. Also man kann ihn gut
+nachschleifen, man muss ihn nicht wegwerfen. Die Späne müssen ja auch raus. Wenn Sie in der Bohrung
+das Ganze drehen, müssen die Späne raus. Die Späne gehen durch diese Nuten raus. Das sind die
+Spanen buchen, dann können die Späne raus.
+Also wenn der sich jetzt schnell dreht,
+dann fliegen
+hierdurch die Späne nach außen.
+Das funktioniert
+hier ganz gut.
+Bei einem 2 Meter langen Bohrer funktioniert das
+nicht mehr gut, die Späne da alle
+so rauszubekommen.
+Dann muss man das anders machen.
+Gut.
+Gucken wir gleich
+hier rein.
+Wir haben hier hinten
+Den eigentlichen Bohrkörper. Der Durchmesser wird hier vorne gemessen. Hier sind die beiden gleichen.
+Spannmut, habe ich schon gesagt, also diese Vertiefung hier. Bis hier hin könnt ihr schneiden, auch logisch.
+Und hier hin ist mir das Ganze eingespannt. Weil irgendwie muss ich den Bohrer in die Maschine bekommen.
+Und dazu gehört ja dann eine entsprechende Einspannung, ich habe ein paar Bohrfutter mitgebracht.
+Das ist so ein Ding, das kann dann in die Maschine rein und hier kann ich vorne meinen Bohrer auswechseln.
+Wie bei der Bohrmaschine zuhause auch. Ich brauche meinen Spannfutter dazu.
+Ein Bohrfutter.
+Hier gibt es verschiedene Varianten. Das hier ist ein leichter Kegel oder es gibt ihn als Zylinder.
+Das hier ist für Zylinder.
+Der Morse-Kegel ist für Bohrmaschinen, die ohne Spannfutter auskommen.
+Es gibt so einfache Bohrmaschinen, da steckt man das Ding nur rein und dann reicht der Kegel.
+Aber meistens haben wir hier einen Zylinder-Stamm.
+Das ist das Normale.
+Gut.
+Und wenn das ein Bohrer ist, wo ist jetzt hier die Spanfläche und wo ist die Freifläche?
+Ich kann ja noch umgehen.
+Oder achten Sie doch mal drauf auf die Spitze.
+Ich gebe den gleich um.
+Die Spitze hat eine ganz eigene Geometrie hier vorne.
+So ein Dach, so eine Querscheide, sagt man, die vorne so angestiffen ist.
+Schauen Sie sich das einfach mal an.
+Und wo hier ist die Spanfläche und wo ist die Freifläche?
+Sehen Sie das?
+Und wo ist überhaupt die Schneide? Und wie rum dreht er sich überhaupt?
+Normalerweise dreht sich die Bohrer immer nach rechts.
+Das heißt, das lehre ich an hier.
+So, ja genau.
+Okay, der dreht sich so.
+Was ist dann für die Schneide?
+Die Schneide ist so.
+Machen wir es so.
+Genau das und jeweils hier der Kopf.
+Wir haben also zwei Steine, aber sie liegen hier nicht ganz richtig.
+Was ist die Spanfläche?
+Das hier als Fläche oder das als Fläche?
+Nein, auch nicht.
+Nein, der andere.
+Nein, das sind die Finger.
+Nein?
+Nein.
+Er dreht sich so rum.
+Der Mora.
+Das hier ist die Schneide.
+Das hier ist die Schneide.
+Diese Schneide hier,
+die geht hier durch unseren Metall.
+Und die Späne
+rutschen hier entlang, nach außen.
+Das heißt,
+Spanfläche, hier innen. Und dann ist dahinter die Freifläche. Diese Teil ist die Freifläche und wir
+haben dann hier noch eine zweite Schneide, hier hinten. Die andere Spanfläche ist dahinter, die
+sieht man nicht. Und das hier ist nochmal eine Freifläche. Das ist die Schneide mit Spanfläche,
+Freifläche. Wir nehmen jetzt noch mal eine Schneide mit Freifläche, Sparfläche dahinter.
+Zwei Schneiden, zweimal Sparfläche, zweimal Freifläche.
+Hier, was jetzt verwirrend war bei diesem Bohrer ist, dass man hier noch so ein Reih geschnitten hat.
+Man hat praktisch aus dem Bohrer hier noch mal was weggenommen. Dadurch entsteht hier noch eine Kante.
+Aber die Kante liegt mitten auf der Fläche. Das ist die eigentliche Schneide. Die schneidet ihr. Die liegt hier schon weiter oben drin, im Bohrer.
+Und warum man hier das besser macht, das ist ganz einfach. Man hat hier eine Ecke vorne in die Spitze reingemacht, dass die Spitze ein bisschen spitzer wird.
+Dass die Spitze nicht zu breit wird. Das hätten wir so für eine breite Fläche. Hier wird also praktisch die Spitze ein bisschen kleiner gemacht.
+So ein Bohrer sieht ja sehr massiv aus. Eigentlich ist er das nicht.
+Durch diese Sparnuten hier ist von diesem dicken Bohrer eigentlich nur die Mitte ziemlich klein.
+Die Mitte ist massiv. Das ist Vollmetall. Außenrum sind eigentlich sehr viele Nuten.
+Diese Mitte hier, der stabile, massive Teil meines Bohrers, das ist der Kern, der entscheidet darüber, wie stabil unser Bohrer ist.
+Er sollte möglichst groß sein, um einen stabilen Bohrer zu haben.
+Andererseits wollen wir hier Spanenruten haben, in denen die Späne gut abfließen können.
+Also sollen die Spanenruten groß sein, dann wird aber der Kern klein.
+Wir brauchen hier einen guten Kompromiss.
+Nicht zu groß den Kern, dann kommt die Sperre nicht mehr raus.
+Nicht zu klein, dann wird der Bohrer zu schwach.
+Vorne haben wir den Bohrer angespitzt.
+Das hier ist der Spitzenwinkel.
+Also das war jetzt nur der Kern.
+Und der Spitzenwinkel führt dazu, dass der Bohrer sich besser zentriert.
+Dass er hier nicht seitlich, rechts, links wegwackelt.
+Der zentriert sich in der Mitte meiner Bohrung.
+Auch bei den Spitzenwinkeln braucht man einen Kompromiss.
+Haben wir einen...
+Wenn wir ein Bauteil haben, wo wir eine Bohrung erzeugen wollen,
+Das heißt, wenn wir so einen Spitzenwinkel haben, je spitzer der wird, desto größer
+ist der Bereich, den wir gar nicht nutzen können, aber je spitzer er ist, desto besser
+zentriert er sich auch.
+Also auch hier bleibt gut ein Kompromiss drin.
+Spitz ist gut, zu zentrieren, zu viel ist halt ungünstig.
+Dann habt ihr hier unten einen Bereich, den brauchen Sie nicht.
+Also diese Bohrer landen, am Ende sehen die alle ungefähr so aus.
+Das ist dann ganz typisch.
+Oder so wie der, egal ob legal oder nicht.
+Jetzt muss ich um die Spitze kümmern.
+Die Spitze dreht sich, aber die Geschwindigkeit in der Mitte ist null.
+Und wenn wir hier unsere Runden reinfräsen, bleibt hier ein Bereich, der Kern praktisch,
+und da ist nichts. Das ist wie ein Dach von dem Rohr.
+Und deswegen wird hier noch ein bisschen angespitzt in der Mitte.
+Und das ist jetzt nicht für die Prüfung, es gibt ganz verschiedene Möglichkeiten.
+So würde es normalerweise aussehen, das ist das, was ich rumgegeben habe.
+Hier ist ein Bereich, der ist ziemlich massiv. Den kann man so ein bisschen wie ein Dach schleifen.
+Aber im Mittelland ist er trotzdem sehr massiv.
+Vielleicht kann man ein bisschen, das war das, was auf dem Bild war, hier ein bisschen wegnähen.
+Und hier ein bisschen wegnähen, dann wird es wieder mit der Spitze.
+Dann ist es nicht ganz so massiv. Dann fehlt hier ein bisschen was, da fehlt was, hier fehlt eine Spitze.
+Der Bohrer braucht weniger Kraft.
+Was kann man noch alles machen als Altschleifen? Man sieht diese Ecke hier, die ist gefährdet.
+Eine kleine filigrane Ecke, die ist schmal, die ist dünn und sie hat die höchste Geschwindigkeit außen.
+Hier ist der Verschleiß sicherlich am größten.
+Deswegen kann ich meine Schneide, das hier ist die Schneide, hier abrunden.
+Dann lege ich das hier noch an diesen Rundschleifer. Das schützt die Ecke.
+Aber dann habe ich am Ende hier eine Bohrung, die hier noch ein bisschen runter geht, rund ist.
+Also kann ich eben hier diesen Bereich nicht nutzen.
+Der wird auch ein bisschen größer. Das kann man machen.
+Oder Sie kennen vielleicht solche Bohrer für Holz, für Kunststoffe.
+Die sind ganz gut, wenn ich durchbohre, dass es unten nicht ausbricht.
+oder, also da gibt es
+ganz verschiedene Möglichkeiten, wie man den Bohrer noch
+verbessern kann. Das Bild habe ich
+irgendwo im Internet, ich weiß gar nicht mehr wo.
+Ich habe die Quelle irgendwann nicht mehr gefunden.
+Also
+von einem Hersteller, der bietet diese Bohrer
+in allen möglichen Varianten.
+Nur, dass Sie wissen, es gibt
+nicht auswendig lernen,
+nicht für den Ui-Book.
+Gut.
+Das ist der Vollbohrer.
+Sie haben einen kompletten Bohrer.
+Was Sie auch haben können, gerade bei sehr großen Werkzeugen, ist, dass Sie Wendesteigplatten einsetzen.
+Also Wendesteigplattenbohrer, große Bohrer, hier können Sie die Schneide auswechseln.
+Wenn die Schneide stumpft, dann einmal umdrehen oder auswechseln.
+Die gibt es hauptsächlich für diese großen Bohrer, 20-30 mm Durchmesser.
+Gibt es noch für ganz kleinste Bohrer, die ich gefunden habe, einen 12 mm Durchmesser mit Austauschparte Schneide.
+Das geht gerade noch so. Ein Bohrer mit Wendesteigplatten, den ich mitgebracht habe, ist so einer.
+Sie sehen vorne Goldfarben bei Beschichtung, Titan-Nitrit-Beschichtung, zwei Platten.
+Und wenn Sie den Bohrer so anschauen, sehen Sie, einer dieser Schneiden ist außen und eine Schneide geht bis in die Mitte.
+Das ist ein Vollbohrer, der kann von der Mitte mit der Schneide und außen mit der Schneide bohren.
+Meistens ist es so wie hier, die beiden Schneiden sind außen.
+Hier außen und da außen.
+Und dann kann man den nur fest aufbohren.
+Der schneidet nicht in der Mitte.
+Sie machen erst ein kleines Loch und dann mit so einem ein größeres Loch.
+Mit dem können Sie direkt ins massive Material rein.
+Der schneidet von Mitte bis Außen.
+Ich starte wieder hier. Sie müssen da nach hinten werfen.
+Dann habe ich gesagt, beim Bohren muss man das Senken noch mit dazu.
+Okay, wir können den hier nach vorne werfen.
+Wenn Sie gebohrt haben, dann kann man mit einem Senkwerkzeug, hier noch mal zum Beispiel,
+das ist so ein Werkzeug, hier noch eine Schräge drauf machen, mit einem Spitzsenker. Oder mit einem
+Zapfsenker hier noch eine Vergrößerung drauf machen. Die gibt es schon. Mit dem Werkzeug,
+dieser Teil hier, der geht in die Bohrung und der hier ist, meine ich, ein bisschen größer. Senken
+also zum Vergrößern der Bohrung, nur im oberen Bereich, hier und hier, um den Boden ein bisschen zu verbessern.
+Meistens für Schrauben, dass man hier etwas reinschrauben kann.
+Wenn hier ein Gewinde drin ist, dann habe ich entweder eine Schraube mit einem glatten Kopf oder so einen ganz schrägen Kopf.
+Also dafür ist das Senken mit einem offenen Anschluss an das Bohrung.
+Es gibt auch Formsenker, die zum Beispiel bei einer Stufenbohrung, wenn sie so etwas schon haben,
+hier eine Schräge haben, da eine Schräge haben, und die können beides gleichzeitig machen.
+Also der Schneider, der macht alles gleichzeitig. Das ist ein Spezialwerkzeug, das machen sie,
+wenn sie 20.000 mal die gleiche Bohrung machen müssen, immer wieder das gleiche machen,
+dann baut sie sich so ein Werkzeug. Und dann muss man nicht erst das hier ansenken und dann das ansenken und dann das machen.
+Dann nennt sich ein Profilsenker, der alles auf einmal macht.
+Ich habe da eine Frage. Habt ihr dann auch jeweils eine Schneide oder ist das dann auch nur durch die Eier?
+Ne, ne, alles durch die Eier. Hier sieht man es ein bisschen besser. Hier alles spiegelt ein bisschen.
+Hier ist eine Schneide vorne und noch eine Schneide. Das sind wichtige Schneiden.
+Hier sind die Steine an der Seite und unten und bei dem sieht man es nicht gut, weil es hier so aufgeschritten ist, dass es nicht so richtig gut dargestellt ist.
+Auch hier haben wir Schneiden an der Seite.
+Das ist das Wenden.
+Und die nächste Stufe nach oben und senken wäre das Reiten.
+Das Werkzeug, was hier abgewischt ist, ist eine Reitfahne.
+Also eine Reibhahle, das ist ein Präzisionswerkzeug. Bohren ist nicht sehr genau. Bohren ist nicht genau, weil die Mitte gar nicht schneidet.
+Wenn es eine genaue Bohrung werden soll, eine Passung, die hochgenau sein muss, dann muss man reiben.
+Reiben heißt, Sie geben diesem Werkzeug nochmal in die Bohrung und machen ganz perfekt die perfekte Oberfläche und den perfekten Durchmesser.
+Das ist wieder Präzisionswerkzeug.
+Und dann können Sie eben auch ein paar Mikrometer genauer die Bohrung haben.
+Auch für gute Oberflächen und für hohe Bedeutung.
+Was macht man? Man macht typischerweise 1, 2, 3, 10 Millimeter, wenn es noch zu klein ist.
+Und dann wird mit Reiben die perfekte Größe angestellt.
+Letzte Mikrometer, 10 Millimeter werden dann damit verbessert.
+Damit kann man die Formtoleranz verbessern.
+Nicht die Lage. Wenn Sie eine Bohrung hier mit so einem Werkzeug machen und haben hier schief gebohrt, schräg gebohrt, dann können Sie das mit so einem Werkzeug nicht mehr gerade machen.
+Die Lage-Toleranz, oder wenn Sie hier zwei Zehntel-Millimeter zu weit links sind, können Sie auch nicht korrigieren.
+Die Position kann man nicht korrigieren, Form und Oberfläche schon.
+Das sind die drei Paraden, die man immer zusammenfasst. Bohren, senken und eilen.
+Zu den Werkzeugen, den Karol hier schon gezeigt hat. So ein hier, ein Vollbohrer aus einem vollen Material.
+Eine Bändeschneidplatte, wenn Sie so große Bohrer brauchen.
+Einen mit 30 cm Durchmesser.
+Und die brauchen Sie einmal, dann wollen Sie kein Werkzeug kaufen.
+Das ist für 30 cm.
+Dann gibt es verstellbare Bohrer.
+Bohrer mit verstellbarem Durchmesser.
+Da sind wir bei ausgedrehtem Werkzeugpreis.
+Sie haben hier ein Werkzeug, hier vorne ist die Schneide dran und hier können Sie mit einer Schraube das Ganze nach rechts rüber schieben.
+Dann ist die Schneide auf einem größeren Durchmesser.
+Das heißt, Sie stellen den Durchmesser ein, den Sie haben wollen, können das Werkzeug benutzen und brauchen es dann vielleicht ein Jahr wieder.
+Sie wollen nicht so einen großen Ober haben für 50 Millimeter Durchmesser,
+sondern noch so einen großen Ober für 51, 51, 52, das lohnt sich nicht.
+Deswegen alles, was über 50 Millimeter Durchmesser ist, machen wir mit einem verstellbaren Ober.
+Oder man fräst die Ober.
+Also ein verstellbarer Ober funktioniert auch, wenn ich von außen etwas abdrehen will,
+oder wenn ich senken will
+oder wenn ich, wie hier,
+einen Nut
+irgendwo machen will.
+Ich kann jetzt hier in eine Fläche
+einen kreisförmigen Nut
+reinbohren.
+Zum Beispiel, wenn ich eine Dichtung
+einlegen möchte.
+Für Kunststoffdichtungen
+kann ich hier eine verstellbare
+Basis, das Ding hier raus schrauben,
+dann hier einen kreisförmigen Nut machen
+und dann kann ich hier Dichtungen einlegen.
+Also das sind Werkzeuge, die sind ganz gut. Ich habe ein paar Bilder dazu.
+Hier ist so ein Werkzeug, wenn Sie hier in der Schraube drehen, gehen diese beiden Steine auseinander, sozusagen.
+Der kann 20 bis fast 90 mm, also von so klein bis auch so groß aufgedreht werden.
+Der hier kann 120 bis 300 Millimeter.
+Irgendwelche Größen auseinander.
+30 Zentimeter ungefähr so.
+Und der auch.
+Der hat auch hier diese Schneiden, die man hier auseinander drücken kann.
+Nur keine Kleidung.
+Reicht mir ein Werkzeug in den Schrank und wie oft muss man sowas machen, das kommt einmal im Jahr vor, dann hole ich mir mein Werkzeug, stelle es ein und kann es wiederholen.
+Ein Ausdrehwerkzeug.
+Und da gibt es auch jede Menge andere Sachen.
+Profilwerkzeuge zum Beispiel hier zum Vorbohren.
+Das ist so ein genormter Bohrer. Den kann ich nehmen, um die Spitze einmal schnell hier rein zu machen.
+Kurze Spitze ansetzen und danach gehe ich ihn da rein.
+Gerade am Anfang ist der schlecht. Dann nehme ich so einen Zentrierbohrer zum Vorbohren.
+Einmal eine kleine Bohrung setzen und der hier zentriert sich dann in einer kleinen Bohrung.
+Oder, wenn Sie sich noch einmal erinnern an das Drehen.
+Beim Drehen kommt hier unser Werkstück.
+Das wird hier eingespannt.
+Das hier dreht sich.
+Das ist hier eine Drehbearbeitung.
+Die haben eine Welle, spannen die ein und drehen die.
+Sie werden auch von der anderen Seite abgestützt mit einem Reitstock.
+Der Reitstock hat hier eine Spitze und sitzt hier auf einem Splitten.
+Und den schiebe ich jetzt hier rüber.
+Damit das funktioniert, muss ein Bauteil hier eine kleine Spitze haben.
+Wenn Sie hier so eine Füße haben, dann können Sie das Drehbauteil hier abstützen mit dem Reitstoff.
+Also, die Aufnahme hier, Bohrfutter ungefähr 300 Euro, der Bohrer,
+in der Form
+vielleicht noch mal 200,
+150 und die schneiden
+dann.
+So ganz hoch.
+Der ist ein bisschen besser,
+der kostet um die 400 Euro.
+Und ich habe noch 100 Tage
+Zeit.
+Also, zum Drehen.
+Wenn Sie hier einen Drehhaushalt haben und
+wollen das mit der Spitze abstützen,
+Dann brauchen Sie hier so eine Bohrung und dafür gibt es auch diese hier.
+Die hat genau diese Form, dass Sie später mit einem Reifdoktor eingehen können.
+Das sind sogenannte Standardheben.
+Das ist auch ganz lustig.
+Wenn Sie mit so einem Tannenzapfenbohrer, wie er manchmal heißt, bohren, dann bohrt er erst vor.
+Dann legt er es noch ein bisschen weiter auf, dann legt er es noch ein bisschen weiter auf, dann legt er es noch ein bisschen weiter auf.
+und dann kann man sich halt durcharbeiten mit dem Material.
+Und jede Stufe bohren Sie ein bisschen weiter.
+Oder wenn Sie eine Bohrung brauchen mit zwei Stufen,
+die hier unten ein bisschen dünner ist, oben ein bisschen dicker,
+und Sie brauchen das ganz ganz oft, dann bauen Sie sich ein Spezialwerkzeug.
+Weil eigentlich könnten wir eine Stufenbohrung zweimal machen.
+Wenn Sie so eine Bohrung brauchen, dann müssten Sie einmal hier mit einem kleinen Bohrersohr bohren und dann mit einem großen Bohrer noch einmal bohren.
+Das dauert aber zu lange. Wenn Sie das 50.000 Mal machen wollen, dann bauen Sie sich einen passenden Stiefenbohrer.
+Der kann beide Bohren auf einmal machen.
+Die muss man sich dann in der richtigen Tiefe erzeugen.
+Gut, soweit zu Kamp.
+Das waren so ein bisschen Werkzeuge.
+Zum Bohren gehört auch das Gewindeschneiden.
+Das ist ein Gewindeschneidbohrer.
+Die haben also Außenschneiden,
+die so spiralförmig herumlaufen.
+und die schneiden dann ein Gewinde in die Bohre.
+Also immer erst bohren, dann die Gewinde schneiden.
+Das kann man von Hand machen.
+Wenn Sie so einen Bohrer haben, da gibt es welche, da können Sie von Hand dran drehen,
+dann haben Sie eine Bohrung, Gewinde statt Bohrer ansetzen, drehen,
+der schraubt sich selbst rein und schneidet sich selbst ein,
+dann drehen Sie wieder zurück und fertig ist das Gewinde.
+Wenn Sie jetzt so einen Bohrer haben, habe ich schon gesagt, der muss irgendwie in die Maschine.
+Große Bearbeitungszentren können solche abwenden, wo solche oder solche Aufnahmen reinpassen.
+Das hier ist ein Steilkegel. Das ist der Kühlschrank-Wohlstandskegel.
+Zwei Varianten. Manche Maschinen können diese einspannen, manche nicht.
+Für automatischen Werkzeugwechsel.
+Dann kommt der Werkzeugwechseler, nimmt das Teil raus, steckt das nächste wieder rein.
+Aber entweder diese Form oder diese Form. Das ist die moderne, das ist die alte.
+Hier braucht man halt diese Teile, damit man hier den Bohrer entsprechend reinstecken kann.
+Das ist die Werkzeugaufnahme.
+Oder ein Spannfutter.
+Eine Werkzeugaufnahme.
+Das hier ist zum Beispiel die einfachste Form.
+Das ist ungefähr sowas.
+Wir sehen hier, diese Seite ist für die Maschine.
+Und hier kommt der Bohrer rein.
+Da gibt es hier verschiedene Varianten.
+Entweder wir haben hier so eine Spannschraube.
+Hier ist eine Schraube.
+Ich stecke den Bohrer einfach hier rein.
+Schraube hinzu und fertig ist das Ganze.
+Das ist eine sehr billige Form, eine sehr kostengünstige Form.
+Das hat aber den Vorteil, wenn ich so von einer Seite drauf drücke, ist das nicht sehr genau.
+Ich habe die Schraube nur von einer Seite, nicht auf zwei Seiten.
+Wenn ich es nur von einer Seite schraube, ist das ein bisschen nicht sehr genau.
+Der Bohrer drückt ein bisschen nach rechts, links und es verliert da ein bisschen Genauigkeit.
+Aber es kostet nicht viel. Einfaches System.
+Besser wäre es doch, als so ein Bohrer von allen Seiten gleichmäßig zu spannen.
+Also wirklich von allen Seiten gleichmäßig das Ding einsprangen, nicht nur von einer Seite, wo er dann schräg steht.
+Das geht mit zwei Varianten.
+Das einfachste ist das Schrumpf-Futter.
+Das ist die Aufnahme.
+Also hier, so wie diese hier, auf der Seite ist wieder das, was die Maschine nimmt, hier, das ist diese Seite, hier greift die Maschine, hier kommt der Ober rein und hier habe ich eine Fläche, die ist eigentlich zu klein.
+Ich habe hier eine Aufnahme mit einem zu kleinen Durchmesser. Der Bohrwatt passt gar nicht so rein.
+Jetzt mache ich das sehr warm, erhitze das, das dehnt sich aus, dann stecke ich schnell den Bohrwatt rein, dann lasse ich es wieder abkühlen.
+Dann zieht es sich wieder zusammen und der Bohrwatt fest.
+Ein Schrumpf.
+Ein Schrumpf, also es wird kleiner.
+Und das Schöne ist, wenn ich den Rahmen mache, wird die Bohrung also größer.
+Wenn es sich abkühlt, wird es von allen Seiten gleichmäßig kleiner
+und spannt so ein Bohrer jetzt tatsächlich von allen Seiten gleichmäßig ein.
+Das ist viel genauer als das da oben.
+Der drückt nur von einer Seite auf den Bohrer, der greift dann oben sein.
+Das ist besser.
+Nachteil, Sie müssen halt zum Zusammenbauen
+das Ganze warm machen und abkühlen.
+Sie brauchen also, wenn Sie so Werkzeug
+Schrumpffutter nutzen,
+irgendwo einen Tisch
+mit einem kleinen Apparat,
+da kommt das Werkzeug rein und dann wird es warm gemacht
+und warm auch wieder abgekühlt.
+Schrumpffutter klar machen.
+Oder dann,
+wie der funktioniert,
+Wieso komme ich mein Werkzeug wieder raus?
+Was tue ich, um mein Werkzeug wieder raus zu bringen?
+Ich mache es warm und es dehnt sich aus.
+Ich stecke das Werkzeug rein, es zieht kühler ab, es geht hier zusammen.
+Aber wie kriege ich jetzt mein Werkzeug wieder da heraus?
+Irgendwie ein Ding?
+Wie könnte ich das Werkzeug wieder herausbekommen?
+Das heißt, ich mache es warm, es dehnt sich aus, dann passt mein Bohrer rein, ich kühle
+Das zieht sich zusammen und der Bohrer ist eingeschrumpft und wird fett.
+Dann kommt er wieder raus.
+Wenn man den Bohrer und das Bein warm macht,
+dann ziehen sie es gemeinsam aus.
+Dann ist er immer noch eingeschrumpft.
+Ich weiß nicht, ob es geht.
+Vielleicht den Bohrer kühlen, während man außen warm macht?
+Das wäre optimal, aber das ist sehr aufwendig.
+Also ich muss den Bohrer kalt lassen und außen warm machen.
+Das wäre im Original, meistens braucht man das nicht.
+Der Trick ist, dass ich von außen erwärme, aber so schnell, in 1-2 Sekunden, dass der Bohrer noch kalt ist, dass es wirklich ganz schnell rauszieht.
+Also sehr schnell warm machen, der geht nicht aus, der Bohrer ist noch kalt, die kann ich rausziehen.
+So kriege ich es wieder raus.
+Aber ich brauche dann wirklich bei mir ein Werkzeug, bei so einem kleinen Tisch, wo ich genau diesen Apparat habe, der das kann.
+Da werden wir es schnell auf Heißbohrer reinstecken, schnell auf Heißbohrer rausnehmen und auch wieder abkühlen.
+Meistens eine kleine Kühlmanschette, die tue ich drauf, die muss ich auch wieder anfassen können.
+Das ist schnellwerkreich, da muss ich keine verbrennen.
+Und wenn ich los bin, wollen wir nicht ausgehen?
+Weil dieses hier, dieses Loch hier, viel zu klein ist.
+Es ist sehr viel, es ist kleiner als der Bohrer.
+Der Bohrer ist so groß und passt nicht rein.
+Und wenn es sich jetzt ausdehnt, ich stecke den Bohrer rein und es kühlt wieder ab,
+Das Schöne an dem Schrumpfvorteil ist, dass es gleichmäßig von allen Seiten einspannt.
+Der Bohrer hat es sehr sehr genau in der Mitte gehalten.
+Anders als bei dem Doppel.
+Und jetzt gibt es noch eine Variante, eine halbe Tasche voller Aufnahmen, das ist das teuerste von allen, das Beste, eigentlich.
+Hier für kleine Bohrer, gibt es auch für ein bisschen größer, das ist ein Dehnspannfutter.
+Ich zeige dir erst, was es ist und dann gehe ich rum.
+Das ist das Futter, hier aufgesägt in der Darstellung.
+In die Mitte kommt unser Bohrer rein, hier außen haben wir so dünne Ringe, die sind wieder relativ dünn.
+Und hier sind Ölkammern. Hier ist Öl drin. Also in diesem Teil drin ist eine Ölschicht.
+Und wenn Sie jetzt mit dieser Schraube den Druck erhöhen, dann drücken Sie diese dünnen Bleche zusammen.
+dann wird der Bohrer auch schön gleichmäßig von allen Seiten eingespannt.
+Und nicht nur von einer Seite, sondern die Ölkammer geht ganz rundherum und der Bohrer sitzt sehr fest rein.
+Das Schöne an dem Ding ist erstens, es wird mittig gespannt, das ist sehr genau,
+und zweitens, das Öl dämpft Schwingungen weg.
+Werkzeug ist schwingend, dafür ist das Ding da.
+Da wird sehr schön eine genaue Oberfläche geben sollen.
+Fräsen wird das auch gerne genommen, nicht nur beim Tuch. Das ist so ein Dehnspannfutter.
+Sie können hier an der Schraube drehen, an der Seite, und wenn Sie die drehen, dann
+können Sie halt den Spann. Das ist genau so ein Dehnspannfutter. Dann an der Seite
+Vorteil sind die Genauigkeit und die Dämpfung.
+Dieses Bauteil kostet ungefähr 600 Euro.
+Und da hat er noch nicht mal ein Werkzeug für die Aufnahme.
+Und das ist eine kleine Aufnahme, eine kleine Werkzeuge.
+Gut, es gibt noch die Varianten der Spannzange, da gehe ich mal drüber.
+Also das Hydrogenspannfutter mit dem Öl, also die Variante gerade, die ist wirklich in allem gut.
+Man kann sich schnell austauschen, also einfach auf den Lauch stauben, Leute, wo man rein will, dazu stauben, das geht schnell.
+Präzision ist gut, man kann da alles Mögliche nutzen.
+Die Dämpfung ist noch dabei, die steht hier gar nicht drin, das ist das Beste und das Neuerste.
+Das Stromfutter ist auch in der Genauigkeit sehr gut. Die Handhabung ist ein bisschen umständlich.
+Mit dem Aufheizen und Abkühlen, das ist machen Arbeit und braucht eigene Geräte.
+Sonst ist es auch sehr gut. Und die einfache Festschraubung mit der Seite,
+sieht man da in der Genauigkeit nicht ganz so gut. Präzision vor allem.
+Und deswegen, ja, das ist die Kostenmünze. Man sieht schon, je mehr Geld man bezahlt, desto besser werden die Sachen.
+Gut, was haben wir noch zum Bohren?
+Kennen Sie das Begriff Tieflochbohren?
+Wollen wir gucken?
+Ja.
+Ja, ich muss gucken.
+Ja.
+Ach, warum?
+Wissen Sie, warum die Dinger auch hohl sind?
+Vielleicht, um die Wände abzuleiten?
+Nee.
+Das ist auch hohl.
+Ich kann nicht durchgucken.
+Kann ich was richtig Dummes sagen?
+Ja klar, das gibt nichts Dummes.
+Warum ist es, wenn ich durchschaue, sehe ich sie so richtig verkleinert, aber ich sehe schon um ihr ganzes Gesicht.
+Ich glaube, das ist falsch. Wenn Sie mit beiden Augen durchschauen und das eine da durch und das andere Auge trotzdem offen lassen,
+dann ist Ihre Hand davor. Wenn Sie mir mit beiden Augen angucken, einmal da durch und einmal nicht da durch, dann passt es wieder.
+Hier muss Kühlschmierstoff durch. Der Bohrer geht in die Maschine. Die Maschine kann Kühlschmierstoff
+hier durchpumpen. Und hier, das habe ich gerade gezeigt vorher, sind kleine Bohrungen an der
+Seite. Da kommt der Kühlschnellstoff direkt wieder raus. Ja, also wenn Sie hier Kühlschnellstoff
+reinpumpen, spritzt es hier wieder raus. Und das da genauso. Wenn Sie ein Werkzeug
+reinstecken, was in der Mitte hohl ist, dann können Sie hinten Kühlschnellstoff reinpumpen
+und vorher spritzt das an den Öffnungen wieder raus.
+Hier können Sie auch durchpumpen. Gleiche Strategie. Dann gebe ich den nochmal rum.
+Wir sehen hier in der Mitte so einen Anschluss für den Kühlschmierstoff.
+Wenn wir das in die Maschine stecken, dann wird hier angekuppelt.
+Da geht der Kühlschmierstoff rein und kommt dann vorne am Werkzeug wieder raus.
+So, wenn wir ein 2 Meter langes Loch machen wollen, dann reden wir von Tieflochbohren.
+Es gibt keine genaue Definition, was Tieflochbohren ist, ich habe meine eigene.
+Wenn Sie ein 2 Meter tiefes Loch haben, wie kommen die Späne dann da raus?
+Wenn das sogar ein 5 Meter langes Loch ist, weil die Späne da so rauszumachen, das verstopft die.
+Wenn das mit den Spänen ein Problem ist, dann reden wir von Tieflochbohrung.
+Das ist meine Definition.
+Andere sagen, wenn der Durchmesser zu Länge der Bohrung Faktor 10 ist oder manche sagen auch Faktor 5,
+Im Prinzip geht es immer nur darum, wenn Sie mit so einem langen Bohrer arbeiten, wie kommen die Späne raus aus so einer tiefen Bohrung.
+Und die Lösung ist immer die gleiche, man spült sie raus.
+Auch wenn Sie nach Öl bohren und ein Kilometer tief bohren, Sie pumpen die ganze Zeit Wasser rein und spülen die Späne, die Steinchen heraus.
+Hier auch Tiefloch bohren heißt, Sie drücken den Kühlschmierstoff in die Bohrung und die
+Späne werden mit dem Kühlschmierstoff rausgespült. Jetzt gehe ich ein bisschen drüber hinaus. Diesen
+Teil, der jetzt kommt, der ist für die Prüfung nicht wichtig und deswegen nehme ich auch nicht
+so genau drauf eingehen. Ich bringe nächstes Mal so einen Bohrer mit. Einen Tieflochbohrer wie diesen hier.
+Und man sieht, der hat gar nicht mehr so einen umlaufenden Mut, sondern nur noch einen geraden Mut.
+Dann gibt es weniger Reibung für die Stähle. Hier können die Späne einfach entlang rutschen.
+Das braucht weniger Reibung, als sich hier durchquetschen, bei sehr tiefen Bohrungen.
+Die Bohrer, die wir mitbringen, sind nicht mehr so lang und da geht das besser so.
+Also Tieflochbohrer sehen ein bisschen anders aus.
+Spült man die Stimme mit Kühlschmierstoff oder mit Wasser?
+Kühlschmierstoff. Wasser führt dazu, dass alles vergostet ist in der Maschine.
+Wir wollen kein Wasser in der Maschine haben.
+Kühlschmierstoff hat deswegen immer Ölanteile und Rostschutzmittel dabei.
+Was haben Sie mit Wasser gerade gesagt gehabt?
+Das ist, wenn Sie Tieflochbohren draußen im Granit, wenn Sie Fernwärme so oben machen.
+Dann müssen wir auch hunderte Meter tief bohren und dann nehmen wir Wasser.
+Und dann spülen die Steilchen alle da raus.
+Okay, die Varianten möchte ich jetzt nicht durchdeklinieren.
+Das ist relativ kompliziert und nicht so wichtig für uns.
+Okay?
+Tiefloch bohren, nicht prüfungsrelevant.
+Nicht für die Prüfung.
+Auch nicht für die Definition?
+Auch nicht.
+Tiefloch bohren, kommt nicht in der Prüfung dran.
+Dann sind wir fast durch mit den Bohren. Ganz schnell die Hauptzeit.
+Wie beim Drehen auch. Kommt Ihnen das bekannt vor?
+Die Hauptzeitberechnung ist genau die gleiche wie beim Drehen.
+Das ist die gleiche Formel, die Sie schon kennen.
+Hauptsache ich dränge mal I, die ist die Anzahl der Bohrungen.
+Fünf Bohrungen dauern fünfmal so lange wie eine Bohrung.
+Durch N mal F, Drehzahl und Vorschub sind die Vorschubgeschwindigkeit.
+Sie haben einen Bohrer, der hat eine bestimmte Geschwindigkeit.
+Die Zeit, die Sie brauchen, ist der Weg geteilt mit die Geschwindigkeit.
+Das kennen wir schon beim Drehen.
+Gleiche Sache.
+I ist jetzt die Anzahl der Bohrungen.
+Wenn Sie Zehnbohrungen machen, müssen Sie zehnmal diesen Weg zurücklegen.
+Ja, zehnfacher Weg, zehnmal die Bohrtiefe, das bedeutet die Geschwindigkeit.
+Die Vorschubgeschwindigkeit, die wir in der Oberfläche haben, verglichen mit der Zeit.
+Was Sie nicht rechnen, ist rausziehen, rüberfahren, bis kurz zur Oberfläche fahren.
+Das sind diese positionierten Bewegungen, die zählen Sie nicht.
+Aber da können Sie es wieder rechnen.
+Für das Rüberfahren macht jede Maschine so schnell sie kann, im Eingang.
+Manche sind schneller, manche weniger schnell.
+Aber den Vorschub, den habe ich programmiert im Wissen.
+Beispiel, schätzen wir mal.
+Sie haben ein Maschinenbrett.
+Sie wollen eine Drehmaschine bauen.
+Haben hier aus Gusseisen ein Maschinenbrett,
+von einem großen Klotz aus Gusseisen.
+Und Sie wollen 300 Löcher bauen.
+Alle Durchmesser 12 mm.
+Schnittgeschwindigkeit ausruhen 150 Meter pro Minute, 5 Zentimeter Tief, 50 Millimeter Tiefe für jede Bohrung.
+Man kann Bohrern mit zwei schneiden, also so einen, der wird zwei schneiden, ein rechter und ein linker.
+Und Zahnvorschub ist nur noch ein Millimeter.
+Zahnvorschub, den müssen wir noch angucken.
+Das hatten wir beim Drehwalle.
+Sie ziehen die Drehmeißel hier rüber, der Vorschub F, also nach einer Umdrehung steht
+der Drehmeister hier und das ist F. F ist der Weg pro Umdrehung. Der Weg, den ich in einer Umdrehung
+machen. Das ist der Vorschub beim Drehen, richtig? Beim Bohren ist es ein bisschen anders.
+Hier steckt mein Bohrer drin. Der ist jetzt nicht spitz, macht aber auch nichts. Hier
+ist auch ein Bohrer drin. Der ist nicht schön gesagt. Hat jetzt Spannmuten, kann man aber
+Nach einer Umdrehung ist der Vorhang ein bisschen weiter unten.
+Nach einer Umdrehung ist der Bohrer hier weiter unten.
+F ist nach 4, der Vortuch ist in einer Umdrehung.
+In einer Umdrehung wie weit fahren wir nach unten? Das ist F.
+Jetzt haben wir aber einen großen Unterschied zwischen dem und dem.
+Beim Drehen ist das hier die Spanungsfläche.
+Diesem roten Teil muss ich zerspanen.
+So viel Span entsteht hier vor dem Drehbeißen.
+Meine Zerspanungsmächte.
+Beim Bohren haben wir aber mehr als eine Schneide.
+Beim Bohren wäre ja eigentlich das hier das, was weg muss.
+Da unten, aber das teilen sich ja mehrere Schneiden.
+Also es muss gar nicht jede Schneide diesen kompletten Teil wegschneiden.
+Wir fahren bei dem einen hier negativ, aber bei zwei Schneiden teilen die sich gerade.
+Jede Schneide schneidet nur die Hälfte davon.
+Bei einer Umdrehung fahren zwei Schneiden hier vorbei.
+Die erste Schneide schneidet die erste Hälfte, die zweite Schneide die zweite Hälfte.
+Also das was bei einer Umdrehung zersprang wird, machen halt mehrere Schneidungen.
+Und deswegen definieren wir hier etwas anderes, nämlich den Zahnvorschub, FZ.
+Eigentlich ein schöner Schneidenvorschub, aber als er das definierte vor 80 Jahren hat er auch Zahnvorschub gemacht.
+Fz ist der Anteil, den praktisch eine Schneide schneidet.
+Und dann gilt beim Rohren Fz,
+ist F durch die Zahl der Schneiden.
+Also Z ist der Vorschub, F ist der Vorschub und Z ist die Anzahl der Schneiden.
+Dann bohren, kann ich sagen, bohren, drehen, wie tief will ich, und dann weiß ich, wo schneide, muss jede Schneide nur ein bisschen weniger machen.
+Ja, das ist der Zahnvorschub und der sagt mir, der Zahnvorschub, wie stark eine Schneide belastet wird.
+Ich mache einen Vorschub von 2 mm pro Umdrehung, aber bei so einem großen Ober-Sinnes-Szenen-Schneiden ist das nicht viel.
+Aber Zahnvorschub wird meistens angegeben, ich sage, so eine Schneide kann halt ein Zehntel bedienen.
+Und deswegen habe ich hier auch diese angegebene Zahnvorschub mit einem Bohrer von zwei Schneiden.
+Geschwindigkeit ist gegeben, zwölfer Durchmesser, 300 Löcher, wie lange dauert das Bohren?
+was schätzen sie haben so ein bauteil größen doppelt so groß wie diese beiden tische zusammen
+richtig großes bauteil sie wollen 300 löcher wie lange dauert das reden wir von fünf minuten
+oder fünf Stunden. Oder andersrum, wie lange dauert ein Loch? Was schätzt ihr? Eine Minute, eine Sekunde,
+so tief, so einfach. Eine Sekunde wird klar. Das schafft man nicht. Aber eine Minute brauchen
+Sie auch nicht. Heute die Bohrer, wenn Sie Gusseisen haben, nehmen Sie so einen Bohrer,
+Das ist ein bisschen weniger als die 12 mm.
+Sie fahren an und dann fahren Sie mit der Geschwindigkeit da rein.
+Und ziehen wieder raus.
+Nächste. 1, 2, 3, 4, raus.
+Nächste. 1, 2, 3, 4, raus.
+Das geht rasend schnell.
+Und, ähm, naja, rechnen Sie mal.
+Können wir wegnehmen für die Prüfung.
+Haben Sie schon die Rechnung in der letzten Woche gemacht?
+Nein, das Ergebnis hatte ich schon gesagt.
+Das war ja eigentlich die gleiche Rechnung nochmal, nur mit anderen Werten.
+Wir hatten B gemacht und C war die gleiche Rechnung nochmal.
+Vielleicht können wir uns kurz zusammen überlegen, wie man das rechnet.
+Wie gehen wir ran? Wie rechnen wir das?
+Es ist nicht alles gegeben.
+Die ersten Tipps schon am Taschenrechner.
+Wie rechnen wir das?
+Wir brauchen die Formel dazu.
+Wenn die Frage ist, wie lange dauert das,
+ist das immer die Formel.
+Wir brauchen L und I und N und F.
+Was haben wir, was haben wir nicht?
+Haben wir L?
+Was ist L?
+Die Tiefe.
+Wo ist die Tiefe?
+50.
+Haben wir I?
+Was ist I?
+Hier ist die Anzahl der Löcher.
+Haben wir auch 300 Löcher von der Bohrung.
+Wir haben also 300 mal 5 cm.
+15 Meter insgesamt.
+Haben wir N, die Drehzahl.
+Woher?
+Nein, das ist nicht n.
+Aber diesen können wir durch die Teilzweige machen.
+Ja, genau. n müssen wir noch ausrechnen.
+v ist n mal b.
+b in Deutsch ist mal b.
+Das heißt, v ist die gegebenen Schnittgeschwindigkeit.
+Hier, vc.
+Das ist vc.
+Pi kennen wir 3,1415 und weiter und den Durchmesser kennen wir auch.
+Durchmesser ist gegeben, Durchmesser wird gegeben.
+Also können wir für diese Formel kennen ausrechnen.
+Ist F gegeben?
+Auch nicht.
+Wie kriegen wir F?
+Wir haben den Zahnvorschub mal die Anzahl der Schleimhauten.
+So, F ist Fz mal Z. Fz ist gegeben und wird mal 1. Mal 2. Und hier oben können wir die Drehzahl ausrechnen.
+Wenn Sie die Geräte einsetzen, kommen Sie auf 3.979.
+Ich habe noch eine Frage.
+Bei mir würde noch eine Kommazahl rauskommen.
+Die reichen normalerweise 3 Stellen. 1, 2, 3. Ich habe die 9 noch mitgekriegt. 3 Ziffern reichen.
+Wenn Sie sagen, es ist gleich 3980, ist das auch richtig.
+Wenn ich sage, ich habe 0,25837, dann ist das ungefähr 0,258.
+0,0002578 ist dann 0,000, die muss ich jetzt alle mitnehmen, 0,258.
+Also Runden, dass wir drei Ziffern haben, die dann nicht 0 sind.
+Soweit zum Thema Runden.
+Wenn Sie aber in der Prüfung
+den Wert im Taschenrechner haben,
+dann lassen Sie ihn halt stehen.
+Dann müssen Sie nicht sagen,
+okay, ich kippe ihn gerundet nochmal ein.
+Das kann man ja auch ändern.
+Gerunden macht man ja
+die Schreibermeisterleinheit an.
+Das haben wir in der Prüfung.
+Gut.
+Wenn es gegeben,
+er ist es gegeben, alles andere ist auch gegeben.
+und die Zeit ist dann L mal I durch N mal F
+und jetzt ist alles gegeben
+wenn man alle Einheiten mitnimmt
+kommt dann 18,8 Minuten raus
+und wenn sie anders runden, dann kommt man neu
+je nachdem, ob sie das weiterrechnen
+So, dann wäre noch die Frage nach den Kosten.
+Was kostet das, wenn eine Stunde
+100 Euro kostet?
+Also die
+eine Stunde
+100 Euro
+80,8 Minuten
+kostet
+31 Euro.
+Das ist nicht viel. Sie haben ein großes Maschinenbett mit 300 Löchern, das kostet nur 31 Euro, das kann nicht sein.
+Das liegt jetzt daran, dass wir nur die Hauptzeit zählen. Aber Maschinenbett sind Einzelspiele.
+Das heißt, Sie bezahlen auch noch, dass dieses Teil mit dem kleinen Kran in die Maschine eingebracht werden muss,
+dass einer die richtigen Werkzeuge holt, dass Sie es wieder rausbringen,
+dass einer die Maschine sauber macht hinterher, die Werkzeuge rausnimmt, dass einer das Ding auf den Lastwagen hebt und verpackt,
+dass einer die Rechnung schreibt und so weiter.
+Und das heißt, wenn Sie das normalerweise machen, dann kann ein Maschinenbett,
+wenn Sie eine Firma fragen, ich brauche 300 Löcher, sagen Sie, 500 Euro für eine Arbeit anbieten.
+Da sind wir viele Stunden beschäftigt.
+also diese Rechnung
+hier mit dem Maschinenstuhlingsplatz
+ist eher für die Serienverhandlung
+dass Sie ein Bauteil haben
+und nachher nichts anderes als ein kleines Bauteil
+dann sind alle anderen Kosten wenig
+und dann ist das eine vernünftige Rechnung
+bei so einem großen Teil
+muss man das eigentlich gar nicht rechnen
+alles andere kostet mehr als diese 30 Euro
+Im Skript hattet ihr auch nur noch diese Seite, oder?
+Ja.
+Okay, ich habe das andere ein bisschen weggekürzt.
+Im letzten Jahr haben wir ein paar Sachen rausgenommen.
+Die gleiche Hauptseite berechnen wir nicht vor,
+auch für den Gewindeschneider.
+Das dreht sich.
+Dass es immer mal wieder was Neues gibt, zeigt dieses Verfahren.
+Gewindestreifen dauert lange.
+Sie müssen reinschneiden beim Vorschneider, vorsichtig, genau exakt wieder rausdrehen,
+dann einen Fertigschneider nehmen, genau rein drehen, genau richtig wieder rausdrehen.
+Also wenn Sie nur Löcher bohren in das Maschinenbett, 300 Stück, 20 Minuten.
+Wenn Sie aber die 300 Löcher, 300 Gewinde schneiden müssen, dann sind wir schon noch 2 Stunden beschäftigt.
+Das dauert viel länger, die Gewinde schneiden.
+Und jetzt habe ich vorhin gezeigt, bei einem Motor, dass da sehr, sehr viele Löcher drin sind und sehr viele Gewinde.
+Und die Autohersteller haben gesagt, das kann ja nicht sein, dass das so lange dauert.
+Wie können wir schneller ein Gewinde erzeugen, als reinschneiden und wieder rausschneiden.
+Und da haben wir ein neues Verfahren entwickelt.
+Das war ein Forschungsprojekt, das hieß, da waren Maschinenhersteller dabei, Werkzeughersteller,
+Die Automobilhersteller, die haben sich zusammengetan und gesagt, wir wollen schneller Gewinde erzeugen.
+Was kann man tun?
+Wir haben das Verfahren erst mal Punch-Tab genannt.
+Heute heißt es auch Helikal-Gewindeformen oder es gibt andere Bezeichnungen.
+Also jetzt findet man es unter unterschiedlichen Bezeichnungen auf dem Markt.
+Aber die Idee ist ganz einfach.
+Wir haben hier eine Art Gewindeschneider.
+Der hat vorne zwei Stähne.
+Mit diesen beiden Zähnen, diesen rechts und links davon, schlagen Sie den Bogen einfach rein in die Bohrung.
+Senkrecht, voll rein, bis nach unten runter.
+Dabei ist es bei diesem Werkzeug so gemacht, dass Sie sich ein bisschen drehen.
+ein kleines bisschen, aber sie schlagen das hier runter. Hier unten, wie gesagt, hier
+ist ein kleiner Zahn, hier ist ein Zahn, die machen hier eine Nut aus dem Bein. Dann schneiden
+hier links und rechts jeweils eine Nut in das Stanzbild. Diese Schneiden, die danach
+kommen, die könnten auch gerade sein. Die sind hier so ganz leicht versetzt angeordnet,
+Das heißt, wenn hier ein Nut reingeschlagen wird, können die ganzen Zähne einfach rein in der Nut fliegen.
+Das Ding schlagen wir rein, die ganzen Zähne wandern einfach rein in die Bohrung.
+Die ersten beiden haben es frei gerollt, diesen Nut. Da passen dann die ganzen Schneiden rein.
+Jetzt haben Sie also den Bohrer hier unten drin.
+Alle diese Schneiden, die hier sind, das kann man jetzt hier schnell darstellen,
+befinden sich in dieser Nut außen, in der Luft.
+Und jetzt drehen Sie den.
+Nachdem Sie da reingeschlagen haben, das Werkzeug, drehen Sie ihn
+und diese so spiralförmig angeordnet und drehen das eine halbe Umdrehung.
+Sie haben hier eine Nut reingeschlagen, hier eine Nut, und die Schneide wandert jetzt hier rüber.
+Alle diese Schneiden hier wandern gleichzeitig rüber.
+Alle diese Schneiden sind hier in der Nut drin, und die drehen sich jetzt so hier einmal rum.
+Nach einer halben Umdrehung sind diese Schneiden auf der anderen Seite, diese hier drüben,
+und alle Schneiden sind wieder in der Nut, in der gegenüberliegenden Nut gelandet.
+Und ihr zieht das Werkzeug einfach wieder raus.
+Und fertig ist das Gewinde.
+Reinschneiden. Einmal drehen.
+Oder so drehen hier. Alle schneiden, drehen.
+Macht das komplette Gewinde fertig. Und dann ziehen sie wieder raus.
+Am Ende haben wir allerdings ein Gewinde mit einer Nut.
+Das ist natürlich nicht so schön. Ein Vollgewinde ist ein bisschen schöner.
+unterbrochen. Aber Versuche haben gezeigt, dass die Festigkeit kaum leidet.
+Das ist auch kein richtiges Schneiden. Das ist ein Gewindeformer, der drückt dann ein Gewinde rein.
+Der schneidet gar nicht, sondern der drückt sich hier einfach rein. Da gibt es noch keine Späne.
+Also statt ein Gewinde hier weg zu kratzen, wird das Gewinde einfach durch reingedrückt.
+Also, reinschlagen, drehen, rausziehen, fertig.
+Perfekter, schneller Gewinde.
+Aber kann man das dann bei jedem Material so machen?
+Das muss ein Verfahren sein, das gut verformt. Ein sprödes Material würde nicht gehen.
+Das geht im Aluminium, das geht in weichen Städten.
+Und das Witzige ist halt, Gewinde schneiden kennt man seit 100 Jahren, dass es da doch immer etwas Neues erfunden wird.
+Es gibt immer wieder neue Erfindungen, um etwas noch besser zu machen.
+Also immer Augen offen halten, was kann man besser machen. Gibt es noch eine Idee?
+Es ist immer erstaunlich, dass es solche einfachen Sachen gibt, die es viel besser machen.
+Gut, das war nur zum Zeigen, wie sich etwas tut.
+Gibt es Fragen zu den Medikationsvorsachen?
+Dann haben wir noch ein bisschen Zeit.
+Und ich würde, da wir am Anfang viel Zeit haben, jetzt wäre eigentlich Fräsen dran.
+Fräsen ist Kapitel 5.
+Bitte schauen Sie sich dazu auch im Händelkurs wieder dieses kleine Skript Fräsverfahren an.
+Fräsverfahren, Bohrverfahren, Drehverfahren, das können Sie selber lesen.
+Ich würde aber eigentlich, weil wir jetzt nicht mehr so viel Zeit haben, einfach das Kapitel 6 kurz durchstellen.
+Das wäre das Räumen.
+Das ist ein kürzeres Kapitel.
+Das machen wir relativ schnell.
+Okay?
+Kleiner Wechsel in der Reihenfolge.
+Das Räumen.
+Kennen Sie das?
+Broaching.
+Sagen wir es auf Englisch.
+To broach.
+Okay.
+Ich zeig's.
+Das ist ein Video dazu.
+Eine Räumenmaschine.
+schnell starten. Das ist die Rollenmaschine. Hier ist das Werkzeug. Das ist ein ganz langes Werkzeug
+mit lauter Schneiden. Eine Schneide nach der anderen. Das ist alles ein Werkzeug.
+So, was machen wir mit dem Werkzeug? Zweite Teil von dem Video.
+Hier das Werkzeug. Werkzeug ansetzen. Das Werkzeug hat eine Bohrung. Das sieht man hier nicht.
+Und jetzt schieben wir das Werkzeug hier einfach durch.
+Und das ist so gebaut, dass jeder Schneider ein bisschen weiter schneidet als die davor.
+Jeder Schneider schneidet ein kleines bisschen weiter und am Ende ist hier eine Verzahnung reingekommen.
+Am Anfang war hier eine Bohrung und jetzt ist die erste Schneide von diesem
+Werkzeug noch rund. Die erste Schneide ist kreisrund, die nächste hat so leichte Wellen drauf.
+Bei der nächsten sieht man das schon ein bisschen deutlicher, diese Wellen.
+Und die letzte Schneide hat eine totale Verzahnung und ich kann nur sowas nicht zeichnen.
+Jede Schneide schneidet ein kleines bisschen weiter von diesem Werkzeug.
+Also nochmal zu sehen, die ersten Schneiden sind kreisrund.
+Und jetzt wird es immer mehr Richtung Zahn. Die 50. Schneide sieht dann wie ein Zahnrad aus.
+Man sieht den Unterschied aber kaum.
+Und jede Schneide macht ein bisschen mehr und zack haben Sie aus einer Bohrung
+Eine komplette Verzahnung in einem einzigen Durchgang. Schneller geht es nicht.
+Das ist gut. Das ist heute.
+Das lässt sich auch gut automatisieren.
+Bauteil rein, durchziehen, Bauteil raus, nächster Bauteil rein, durchziehen, das nächste.
+Und dann ist es rasend schnell, eine zu fertigen.
+Was ist der Nachteil des Werkzeugs?
+ist ein sehr teures, sehr komplexes Werkzeug. Aber Räumen wird gerade sehr modern.
+Altes Verfahren, neu entdeckt, weil es einfach unglaublich schwer ist.
+Also, wir schneiden gerade und typischerweise, dass man das Ding dabei dreht, ist die Ausnahme.
+Das macht man dann selber. Das mache ich dann, wenn ich einen Schrägfallstrauß haben möchte.
+Beispiel Reiförmige Form in der Bohrung.
+Ich habe keine Zuständung mehr, einfach nur durchziehen. Fertig steht das.
+Das ist super.
+Wenn Sie sich noch einmal erinnern, wir hatten die Hauptkurven am Anfang. Kennt ihr die noch?
+Ruhrform, Bumform, Trennen, Fügen, Geschichten, Stoffeigenschaften etc.
+Wir sind immer noch beim Trennen. Wir haben auch immer noch eine klare Schneide.
+Und da gibt es eine ganz eigene Unter- und Oberräume.
+Wo gibt es Räume noch? Hier ist ein Beispiel aus der Luftfahrtindustrie bei Flugzeugturbinen, Flugzeugantrieben.
+Haben Sie oft die Turbinen, die Flügel praktisch aus der Turbine, so eine Turbine, hier die Flügel drauf, die sitzen alle auf so einem Trägerrad.
+Sie machen nie eine Turbine in der Größe, weil alle Schaufeln aus einem Teil gefertigt sind,
+sondern Sie haben hier so eine Scheibe, ein Blisk, wie es manchmal heißt, und dann tun Sie die Turbinschaufel da rein.
+Und wenn eine Turbinschaufel kaputt ist, kann man die auch wechseln.
+Turbinschaufel rein, nächste wieder reintun.
+Und was man oft nimmt, ist dieses
+Profil. Also ein Tannenbaum-
+Profil, was hier wieder ein Tannenbaum ist.
+Und das gleiche fehlt hier.
+Das ist das Profil an der Scheibe
+und das gleiche Profil hat auch die
+eingeschobene
+Turbinschaufel.
+Die wird hier reingedrückt und dann hält die.
+Also ein schöner Wechselmechanismus.
+Nur das muss man fertigen.
+und wie erzeuge ich jetzt
+das hier
+ich kann es fräsen
+das gab aber jetzt vor 10 Jahren
+ein Forschungsprojekt, wo ich das auch nicht mit Räumen machen kann
+dass ich hier mit der Räumennadel
+einmal da durchgehe und fertig ist
+das alles hier
+diese ganze Form
+mit einem Mal durch
+ist nicht so einfach
+aber
+das wird tatsächlich
+heute teilweise gerollt, wird gemacht. War ein europäisches Forschungsprojekt, Rolls-Royce war da Marktführer, war ein Riesenhersteller von solchen Flugzeugturbinen, Antrieben und es lohnt sich.
+Diese, ich habe es so gerechnet, so ein Flugzeughersteller wie Rolls-Royce hat in so einer Scheibe, sagen wir mal 100 solcher,
+Hier sind es ein bisschen weniger. Das sind 72. 100 solcher Profile zu fertigen.
+In einem Antrieb sind 10 solcher Stufen.
+Da müssen wir schon 1000 von diesen Dingern fertigen. Pro Antrieb.
+Die rüsten 1000 Flugzeuge aus.
+Pro Flugzeug haben sie zweimal diese Antriebe.
+macht 2000 Antriebe im Jahr
+mal
+diese, was ich gerade gesagt habe,
+2000 mal 10, 20.000
+mal 100 sind 2 Millionen.
+2 Millionen Profile
+pro Jahr zu fertigen.
+Und wenn Sie noch 10 Jahre
+rechnen, sind es 20 Millionen.
+Controller rechnen nur noch 10 Jahre. Das klingt besser.
+Die Wertung höher.
+Also in 10 Jahren 20 Millionen malen
+müssen wir das hier erzeugen.
+Und dann lohnt es sich zu räumen.
+Und das hier, dein
+Das ist ein hochfester Stoff. Das ist nicht ein normaler Stahl. Das ist eine Mittellegierung, die extrem schwer zu zersparen ist.
+Und auch das Fräsen ist extrem teuer. Weil es eben so ein festes Material ist.
+Und wir haben deswegen bei dem Forschungsprojekt mitgemacht.
+Und dann lohnen sich diese teuren Räumnadeln, damit man das hier etwas produktiver machen kann.
+Wie sieht dann der Verschleiß bei den Räumen aus?
+Er verteilt sich natürlich auf viele, viele, viele Schneidzerschneiden.
+Und ich sage gleich noch etwas dazu.
+Das ist natürlich ein Thema.
+Und eine Räumenlade kostet auch einiges an Geld.
+Aber dafür bekommen Sie auch viele Schneiden.
+Beim Fräser machen Sie zwei von diesen Dingern und dann muss der Fräser tauschen.
+Es gibt verschiedene Arten von Räumen. Wir gucken uns eigentlich hier nur das Profilräumen an.
+Vielleicht noch ganz kurz das Planräumen. Das ist aber eine Technik, die ich immer weniger gebe.
+Sie haben eine Kette mit lauter Werkstücken und hier oben hängen die Schneiden.
+Und dann schieben Sie die Werkstücke alle hier rüber und alle Schneiden hier arbeiten sich an diesen Werkstücken ab.
+Das wäre Planräumen.
+Sie können mehrere Werkstücke gleichzeitig und jeweils auch mehrere Schneiden gleichzeitig hier durchschieben.
+Und wenn das Werkstück hier einmal durch alle Schneiden durchgegangen ist, kommt es hier fertig raus.
+Wird aber sehr, sehr selten gemacht.
+Deswegen nur, dass Sie es mal gesehen haben.
+Manche alten Maschinen laufen.
+Noch ein Sonderfall, Sie haben Werkzeuge, da können Sie eine Stange durchschieben.
+Stangenmaterial durchschieben, die Stange kommt erst an der Stelle vorbei, dann an der Stelle, dann am nächsten.
+Und wenn Sie die Stange durchgeschoben haben, kommt oben eine Stange mit Profil heraus.
+Rund, eckig, eierförmig, was auch immer.
+Rund nicht rund, kann man anders machen.
+Das wäre das Tubusräumen.
+eine Stange durch das Werkzeug hindurch.
+Für uns am wichtigsten
+ist das Innenräumen.
+Sie haben ein Bauteil,
+das Bauteil hat ein Loch,
+Sie brauchen immer eine Bohrung
+und Sie ziehen das Werkzeug in der Mitte durch.
+Wie in dem Video.
+Das ist Innenräumen.
+Und da können Sie zum Beispiel,
+wenn Sie hier das Loch haben,
+so etwas erzeugen.
+Nach 10 Schneiden sieht es so aus.
+Ja, dann so.
+Und nach der letzten Schneide
+haben Sie zum Beispiel hier so ein Profil in Ihr Bauteil hineingebracht.
+So das.
+Und das kann man gar nicht so einfach anders erzeugen.
+Sie können das auch nicht fräsen.
+Wie wollen Sie denn in einer Bohrung solche Vertiefungen fräsen?
+Wenn Sie hier mit einem runden Fräser reingehen, ist das, was Sie machen können, immer rund.
+also so eine eckige Vertiefung
+in einer Bohrung
+kann man nicht präsen, kann man nicht drehen
+kann man nicht bohren
+also zum Beispiel Räume
+einfach wahr
+für so eine Stimmung
+oder auch wenn Sie hier eine Verzahnung haben wollen
+hier eine zahnabförmige
+Form drauf bekommen wollen
+das Räumen ist perfekt
+einmal durchziehen, fertig
+Außenräumen wäre anders. Das wäre, wenn Sie das nur an einer Kante von dem Werkstück ansetzen und
+hier die Räumlage durchziehen und das Werkstück in diese Richtung ziehen. Dann können Sie hier
+vom Rand sich reinschneiden bis zur letzten Schneide. Erste Schneide bis zur letzten Schneide.
+Das wäre Außenräumen. Also nicht mit der Mitte durch eine Bohrung, sondern Sie setzen hier außen
+das Teil an, gehen hier runter mit dem Werkzeug und jede Steine steigt ein bisschen weiter.
+Innenräume, Außenräume. Und damit kann man zum Beispiel von außen solche Profile machen.
+Meint ihr? Also, ich habe es gefunden, ihr glaubt es fast nicht. Für Schlüssel, für
+Schlüsselzylinder. Wenn sie so ein Schloss haben, dass sie solche Vertiefungen machen,
+Da sagt einer, er würde das räumen.
+Hat mich bewundert.
+Okay, sage ich mal, das stimmt.
+Schraubenschlüssel, Werkzeuge werden normalerweise geschmiedet.
+Und hinterher muss man die Fläche hier fertig machen.
+Kann man räumen.
+Kann man auch fräsen, kann man auch anders machen.
+Räumen geht halt sehr schnell.
+Die nächsten lassen wir weg.
+Alte Verraten, die es heute nicht mehr gibt.
+Deswegen lassen wir Drehräume weg und lineare Drehräume gibt es eigentlich überhaupt nicht mehr.
+So, wir sind gleich durch, wir schaffen es noch.
+Das ist das Werkzeug.
+Wir haben hier, und jetzt die Frage Verschleiß, das war die Frage, wie ist das mit Verschleiß?
+Wir haben ein Werkstück mit einem Loch, mit einer Bohrung.
+Hier ist das Werkzeug ein bisschen kleiner. Wir können das hier in die Kurve hineinstecken.
+Wir haben hier einen Greifer für die Maschine, dass sie unten ziehen kann.
+Und wir haben eigentlich auch am Ende, das habe ich aber nicht gezeichnet, noch einen Teil, um es wieder hoch rauszuziehen.
+Um das Werkzeug einmal durchzuziehen und wieder hochzuheben, brauchen wir auf beiden Seiten einen,
+Ein Griff, mit dem die Maschine das gleiten kann.
+Hier am Anfang haben wir Schrubbzähne.
+Zähne, die viel Späne machen.
+Der letzte Zahn ist der Schlichtzahn.
+Der macht die schöne Oberfläche.
+Bis dahin ist alles egal.
+Hier wird einfach nur Späne gemacht.
+Der letzte muss sehr genau sein.
+Die Genauigkeit macht der letzte Zahn.
+Der letzte Schnitt, der Schlichtzahn, macht Genauigkeit und schöne Oberflächen.
+Und wenn der letzte Zahn verschlüsselt ist, muss er das ganze Reibchen wegwerfen.
+Ohne überarbeiten.
+Dann, wenn hier Vorderverschleiß auftritt, ist mir egal.
+Es muss nicht schön sein, hier der Schnitt.
+Hauptsache er schneidet überhaupt noch.
+Aber hier machen sie die Qualität.
+Und manche machen das so, die machen drei gleiche Schlichtzähne.
+Der erste schneidet, die nächsten nicht.
+Und wenn der erste verschlissen ist,
+weil man drei Schlichtzähne hat,
+wenn der kaputt ist, dann nehmen wir den weg.
+Wir fräsen den einmal weg, dann haben wir einen neuen Schlichtzahn.
+Und wenn der kaputt ist, nehmen wir den weg, dann haben wir noch einen neuen.
+Und wenn der kaputt ist, ist der Bergzeitverbruch.
+Dann muss es weg.
+So kann man die Lebensdauer ein bisschen verlängern.
+Wenn Sie jetzt so ein Werkzeug haben, dann ist es aber auch nicht das Gleiche, ob Sie das durch so eine dünne Platte hindurchziehen,
+also wenn hier eine Bohrung ist, ob Sie das durch so eine Tischplatte ziehen oder durch so ein dickes Bauteil.
+Wenn Sie so ein dickes Bauteil haben mit einer tiefen Bohrung, können Sie das ja auch durchziehen.
+Aber das gleiche Werkzeug kann das nicht, denn wenn das für Ihre Tischplatte gemacht ist,
+während Sie das Werkzeug, hier ist das Werkzeug, hier durch das Werkzeug durchziehen,
+können die Späne unterwegs nicht weg. Wohin mit den Spänen? Die Späne sammeln sich hier im Werkzeug
+und wenn Sie das Werkzeug durchgezogen haben, können die Späne ausfallen. Wenn die Spankammer
+voll ist
+und Sie sind mit der Schneide
+noch im Werkzeug, dann klemmt das hier.
+Dann kommen Sie nicht mehr weiter.
+Diese Löcher, diese Lücken
+im Werkzeug, die müssen groß genug sein,
+dass Sie, ja, die Schneide,
+die kommt hier an, die trifft
+hier auf und hier fängt
+die Spanbildung an, der Span sammelt sich,
+wird immer größer, immer größer.
+Ja, Sie müssen durchkommen.
+Es muss reinpassen.
+Und wenn Sie jetzt ein Werkzeug gemacht haben,
+was hier für
+solche Löcher gedacht ist, dann ist das halt groß genug gemacht worden, dass der Span da passt. Wenn
+Sie es durch so ein dickes Werkzeug durchfahren, durchschieben, dann wird es nicht so voll.
+Da muss ich also Gedanken machen. Nur ganz kurz, ich überziehe gerade zwei Minuten. Wir können fast alles räumen. Wir sind im Werkstoff nicht begrenzt. Es lässt sich
+alles räumen. Und das zweite
+nur ganz kurz von der Reihenfolge.
+Die Maschinen sind super automatisierbar.
+Sie haben Maschinen
+hier oben,
+das ist der Zubringerschlitten,
+der hebt die Nadel hoch,
+da sagt er, räum Nadel.
+Jetzt legen wir unser
+Werkstück rein,
+Nadel ist oben, Werkstück rein.
+Jetzt fahren wir hier unter,
+die Nadel geht hier in dieses
+Werkstück rein. Hier unten ist der Räumschlitten.
+Der Räumschlitten
+greift die Nadel und zieht sie unten durch. Der Schlitten fährt einfach nur mit. Der ist nur zu hochheben da.
+Der hat keine Kraft. Der fährt einfach locker mit. Jetzt lässt er oben los. Das Werkstück, die Nadel ist komplett
+hier unten drin. Wir können das Werkstück rausnehmen. Jetzt fährt er wieder hoch. Der oben greift wieder.
+zieht das ganze hoch, bis er ganz oben raus gefahren ist. Jetzt können wir den Wertschritt wieder einlegen.
+Also wir fahren immer unten ganz durch, Wertschritt raus, fahren wieder ganz hoch, Wertschritt rein.
+Fahren wieder ganz runter, in der Einfolge. Und was jetzt noch wichtig ist, und dann höre ich auf,
+Sie dürfen niemals drücken. Sie dürfen niemals eine Stange durch die Bohrung drücken.
+Immer ziehen. Von unten. Wenn Sie drücken und die Kraft ist zu groß, kann es sich verbiegen.
+Wenn Sie aber unten ziehen, bleibt das Werkzeug immer gerade. Dann ist die Genauigkeit besser.
+Deswegen, die Kraft wird immer von unten aufgebaut, nicht von oben.
+Wenn ich von oben drücke, auch die Position ist dann schwierig.
+Ja, es kann sich verbiegen, aber beim Ziehen bleibt es immer schön gerade.
+So, und den spannen wir aus.
+Das ist ein ganz schnelles Weg an das Gebäude.
+Das haben wir auch geschafft.
+Dann habe ich ein bisschen überzogen.
+Nächstes Mal schenke ich Ihnen ein Lüftung.
+Schönen Nachmittag und wir sehen uns
+nächstes Mal wieder.
+Tschüss.

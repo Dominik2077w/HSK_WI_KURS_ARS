@@ -1,0 +1,827 @@
+In-Production
+Das ist ein Begriff, der vom Toyota-System kommt,
+weltweit inzwischen angewendet wird.
+Brauchen tun wir es, weil nichts mehr konstant ist.
+Das heißt, wir haben ständige Neuplanung, schwankende Nachfrage, schwankende Lieferung, Störungen, große Losgrößen, feilende Teile, Defekte.
+Alle diese Ursachen gibt es grundsätzlich eigentlich in den meisten Unternehmen.
+Die, die das nicht haben, die können sich üblich schätzen.
+Das heißt, schwankende Kundenabrufe, das ist auch so bei mir.
+Die Bestellungen gehen von den Kunden bis Januar 2026, Februar 2026.
+So, aber das, was sie da traugen, das stimmt mit der Bestellung mit Sicherheit nicht mehr zusammen.
+Das heißt im Moment schwanken die Kundenabrufe, der Kunde reagiert schnell auf den Markt.
+So, ich bin gezwungen als Lieferant, dass ich ebenfalls schnell reagiere, weil sonst besteht die Gefahr,
+dass man, wie sagt man, auf eine zweite Quelle baut. Das heißt, schnelle Reaktionszeit ist heute
+das A und Ö. Das heißt, der Einkauf schickt mir jede Woche dann eine Prioritätenliste,
+was ich für die nächste Woche zu liefern habe. Unabhängig von den Bestellungen und den
+bestellt. Das heißt in Summe, wenn man unheimlich schnell auf diese Kundenwünsche reagieren kann,
+dann ist das grundsätzlich gut, weil man sich da in einer bestimmten Weise unersetzlich macht.
+Weil wenn er beim anderen Lieferanten zum Beispiel vier Wochen, sechs Wochen darauf warten muss,
+bis er das Material bekommt, dann kann er wiederum nicht so seine Kunden bedienen.
+So, das heißt permanente Umplanung und Komplexitätssteigerung.
+Das heißt auch die Komplexität wird immer komplizierter,
+weil Materialien nicht so geliefert werden, wie man sie braucht.
+die Kunden kurzfristig ändern, so muss man dementsprechend einfach reagieren.
+Störungen und Verfügbarkeitsprobleme von Fertigung, Betriebsmitteln, Material etc.
+Das heißt, wenn ich heute dringend was brauche, dann ist es eigentlich in den meisten Fällen nicht möglich.
+Also das hat sich in den letzten zwei, drei Jahren dramatisch gewandelt,
+dass Unternehmen einfach sagen, ich kann nicht mehr liefern, das kann ich ja bestimmt drei Monate liefern.
+Das ist eine Art und Weise, die ich nicht gut finde, weil sie eigentlich die Kunden, die das dringend brauchen, behindern oder das Wachstum hemmen.
+Ich weiß nicht, in erster Linie liegt es in den meisten Firmen an der Liquidität.
+Früher hat man darauf geschaut, dass man eine volle Auftragsbücher hat und dann noch Umsatz macht.
+Heute ist oberste Priorität Geld.
+Liquide muss man sein, dann kann man auf alles reagieren.
+Quantitativer, qualitativer Mangel an Personalkapazität, genauso wie an Materialqualität.
+Also wir sehen das jetzt in der Chipkrise, man kann nicht ohne weiteres wechseln.
+Also in bestimmten Bereichen ist es so, dass man einfach einen Lieferanten als Schlüssellieferanten hat und wenn der dann nicht liefern kann, dann ist es ein Problem.
+Aber wenn es zu einem Konzernproblem wird, so wie im Moment bei VW, dann muss der Beschaffungschef gehen.
+Weil dann hat er strategisch versagt.
+Bei denen geht es um sehr viele Arbeitsplätze und dann ist es umso dramatischer.
+Wie man gestern gesehen hat, hat VW einen Milliardenverlust ausgewiesen.
+Das heißt, die Lage ist durchaus nicht so berauschend.
+Ich sage mal so, ein Milliardenverlust in einem Jahr ist jetzt für VW nicht so ein Problem.
+Aber wenn sich das nicht dreht, dann ist es sehr wohl ein Problem.
+So, intransparente, instabile und unabgestimmte Prozesse, das heißt Prozessstörungen.
+Das heißt, die meisten Serienfertiger versuchen ja, dass sie einen fließenden Prozess haben,
+die Ware laufend reinkommt, entsprechend den Anforderungen und durch die Produktion durchfließt
+und dann ausgeliefert werden kann.
+Wenn man jetzt im Moment schaut bei Fendt, früher stand bei dem Wanderby 12 da kein Schlepper.
+Heute steht ein Millionenwert da. Das heißt, es läuft auch nicht fließend durch, weil die Absatzkanäle im Moment ein bisschen stoppen.
+Mangelhafte oder auch noch quantitativ instabile Prozesse.
+Es führt natürlich dazu, dass wenn ich das nicht bekomme zur rechten Zeit, dass ich dann auch beginne,
+Material im Vorrat zu kaufen. Das heißt, es ist eine zusätzliche Anforderung. Auch ich mache das
+in ähnlicher Weise
+ich horte Material
+weil
+wenn der nicht liefern kann, dann habe ich ein Problem
+so, andererseits ist es
+so, dass
+ich auch irgendwann das Lager voll habe
+und dann bestelle ich wieder nichts
+so, das heißt
+die ganze Prozesskette
+geht durcheinander
+wenn man nicht systematisch
+Einkauf
+Produktion und Verkauf in einer Prozesskette fließend hat. Mangelhafte
+oder fehlende Materialfluss- und Arbeitsorganisation. So etwas verstehen wir nun darunter. Mangelhafte Materialfluss-Organisation.
+Weil das Material nicht zum richtigen Ort, zur richtigen Zeit, in der richtigen Qualität
+ist.
+Genau.
+Nicht zum richtigen Ort und nicht zur richtigen Zeit.
+Also das ist speziell bei großen Firmen, die mehrere Standorte haben, an verschiedenen
+Standorten Fertigungsschritte ausführen und dann das Ganze, sagen wir mal, durcheinander
+kommt.
+Also ein typisches Beispiel ist Harvey in Kaufbeuren.
+Warum hat Harvey da in Kaufbeuren neu gebaut?
+Sie hängt in erster Linie mit dem internen Materialfluss zusammen.
+Harvey war vorher in München, hatte in München vier Standorte.
+Die wurden jetzt alle aufgelöst.
+So, in München war die Verkehrssituation katastrophal.
+Das heißt, der innerbetriebliche Transport von einem Werk zum anderen hat ewig lang gedauert und zusätzliche Kapazitäten gebraucht.
+So, jetzt haben Sie einen Standort und diese vier Gebäude, da läuft das Material vom Wareneingang bis zum Warenausgang im Kreis.
+Dementsprechend sind sie hier viel besser aufgestellt. Das heißt, Materialfluss kann
+man in der Fertigung sehen, in einem Firmengebäude. Man kann es aber auch
+übergreifend sehen, wenn man verschiedene Standorte hat.
+So, mangelnde Arbeitsorganisation. Was heißt denn das?
+Ja, dass die Arbeitslose zum Beispiel nicht standardisiert sind, dass die Leute Aufgaben erledigen, die sie nicht tun sollen und die Stellen nicht korrekt beschrieben sind.
+Ja, dass nichts koordiniert ist oder zu wenig koordiniert, dass es, sag ich mal, Defizite gibt, wenn man in Serienfertigung geht.
+Das heißt, die Informationen sind nicht geflossen, die Bereitstellung an dem Arbeitsplatz funktioniert dann dementsprechend nicht.
+Veraltete inkonsistente Daten, das ist auch ein Thema. Viele Firmen kommen langsam darauf,
+dass sie alle Daten digitalisiert haben. So, aber auch ich habe zum Beispiel diese Woche einen
+Saukopf für die Extrusionsanlage bestellt. So, der Hersteller hat keine Dokumentation für den
+alten, damit ich einen neuen bekomme. Das ist natürlich immer schlecht. Das heißt, veraltete
+Daten können auch ein Scheinargument sein, dass man das Neueste verkaufen will. Das ist das
+Grundthema. Aber im Prinzip, wenn Sie jetzt aktuelle Informationen anschauen aus China,
+so dann ist es so, dass früher gab es Hongkong, das war eine Insel, dann kommt hinter Hongkong
+Dann kommt Shenzhen und dann kommt die nächste große City.
+Also ich war in den 80ern das erste Mal drüben in Shenzhen.
+Da hatte Shenzhen ungefähr 50.000 Einwohner.
+Heute hat es 11 Millionen.
+Wir sind damals noch auf keinen befestigten Straßen gefahren,
+sondern da waren die Straßen noch nicht mal geteert.
+So, jetzt kommt die nächste City dahinter, 17 Millionen.
+So, da hatten sie eine Universität aufgesetzt, ein Ableger von Hongkong.
+So, jetzt dürfen Sie dreimal raten, wie viele Studenten da drin sind.
+Viele.
+17.000 Studenten.
+So und das Ziel von der chinesischen Regierung ist eigentlich die komplette Digitalisierung in den Fünf-Jahres-Plan für die nächsten fünf Jahre.
+Das heißt, man setzt nicht mehr auf bestehende Industrien, alles was da drin ist wird abgerissen, die Leute werden umgesiedelt, sie kriegen auch neue Wohnungen.
+Aber im Prinzip wird alles in der Region zukunftsträchtig ausgerechnet.
+Und zwar wird die Forschung, Entwicklung und die Industrie in einer Weise vernetzt, wie wir es bisher noch nicht hatten.
+So, das heißt, man setzt auf durchgängige Prozesse von der Uni bis zu den Unternehmen.
+Und man wird die Leute ausbilden, die man in den verschiedenen Bereichen braucht.
+So, das heißt, wir haben auch hier in Deutschland noch jede Menge zu tun,
+dass wir digital in den ganzen Ablauf werden.
+So, jetzt haben wir ja das Thema Lean Production.
+Lean heißt eigentlich nichts anderes wie,
+dass ich mit möglichst wenig Personal möglichst effektiv produziere.
+So, dieser Ono von dem Toyota-System sagt immer,
+produziere, nur was der Kunde fordert. Was steht dahinter? Im Prinzip heißt es, die richtige Menge,
+die richtige Teile, das richtige Moment, Qualität und Ort bereitzustellen, so wie man es für den
+Kundenauftrag braucht.
+Mehr oder weniger ist
+Verschwendung.
+Die Frage ist immer, wo sind die Grenzen?
+Also ich hatte ja auch das Thema,
+ich habe irgendwann 2008 die Firma gegründet,
+so, und dann haben Sie Produkte, die laufen in Großserie
+und in Mittelserie
+und dann haben Sie Produkte, die brauchen Sie
+nur drei oder viermal
+oder fünfmal im Jahr.
+So, die Frage ist,
+was machen Sie mit den Produkten?
+Produzieren Sie dann einmal
+im Jahr und den Jahresvorrat?
+Oder machen Sie nur das, was Sie
+brauchen für die Kundenaufträge?
+Im Prinzip hängt es von den Brüstkosten ab.
+Setupkosten sind das A und O.
+So, ich hatte am Anfang auch gemeint, ja, dann mache ich den Jahresvorgang oder den Halbjahresvorgang,
+je nachdem von wie viel das Material ist.
+Nach drei Jahren musste ich feststellen,
+Das Material liegt immer im Lager, weil sich die Kundenanforderungen geändert haben und somit war das umsonst.
+Also umsonst Kapazität belegt, umsonst personelle Ressourcen eingesetzt und umsonst Material verbleibt und hinterher verspätet.
+Deshalb sagt man in der In-Production möglichst nur die exakte Menge, die man braucht.
+Was ist die exakte Menge, die man braucht?
+In jeder Produktion gibt es Ausschuss.
+Kein Fehler.
+So, ist die exakte Menge, die der Kunde braucht, oder die exakte Menge, die wir für die Produktion brauchen?
+Am Ende muss der Lieferantrag erfüllt werden und eventuell noch ein kleiner Prober zu sein für eventuell eine Reclamation.
+Im Prinzip, in erster Linie muss ich darauf schauen, dass ich den Kundenauftrag erfüllen kann, mit seiner Menge.
+Alles andere, was dann im Endeffekt übrig bleibt, ist in dem Punkt schon wieder Verschwendung, weil ich Materialien verwalten muss.
+Ich kann die ja nicht mit dem Kundenauftrag ausliefern, sondern ich muss sie einlagern.
+Ich muss einen Lagerplatz haben, eine Lagernummer, ich habe eine Kapitalbindung, ich habe alles.
+Wenn Sie jetzt zu einem Pneumatikhersteller gehen, Bosch oder irgendwie, der Zylinder
+herstellt, wenn Sie heute ein Ersatzteil brauchen, Sie haben nur noch das Gängige, was einen
+hohen Lagerumschlag hat, vorrätig.
+Brauchen Sie einen Exoten, den werden Sie nicht unter sechs Wochen kriegen, unter acht Wochen.
+Weil es hält kein Mensch mehr diesem Lager vor.
+Die haben sich in manchen Punkten einfach, wie sagt man, schlank organisiert.
+Das hat auch Auswirkungen, zum Beispiel bei mir, ich muss vorausschauend denken,
+was könnte wann kaputt gehen und wie lange habe ich denn Beschaffungszeit?
+Ansonsten gibt es ein Problem. Also bestimmt bei Schlüsselkomponenten,
+ich bestelle einen Industrie-PC, den habe ich vor zwei Jahren bestellt,
+der wird jetzt dieses Jahr eingebaut. Lieferzeit für den Industrie-PC sechs
+Monat, neun Monat. Das ist Siemens, aber Siemens macht nichts mehr. Siemens schafft alles in China.
+So, das heißt, man muss dann schauen, was braucht man denn wirklich im Lager, damit es auch keine
+Verschwendung ist und auch nicht utopische Kosten sind. So, effizienter arbeiten. Hier wird von Wertschöpfung,
+Verschwendung gesprochen. In dem Toyota Produktionssystem gibt es drei Arten. Das heißt, wir haben einmal die
+Wertschöpfung. Die Wertschöpfung ist die Arbeit, die wir dem Kunden verkaufen. Sprich,
+auf der Maschine eine Prozesszeit für eine sparende Bearbeitung. So, die Mitarbeiterzeit,
+die wir brauchen für diese sparende Bearbeitung. So, das ist Wertschöpfung. So, dann haben
+den zweiten, verdeckte
+Verschwendung.
+Nicht wertschöpfend, aber
+notwendig.
+Wenn ich die Arbeitsschritte
+an einem Drehautomaten
+zerlege,
+dann ist es so,
+der Drehautomat, wo hunderte
+oder tausende Teile drüber laufen,
+der muss regelmäßig
+bestückt werden.
+Das heißt, damit ich
+drehen kann, die wertschöpfende Tätigkeit
+erfülle, muss ich vorher
+das Teil in die Maschine einlegen. Das heißt, ich muss die Teile bereitstellen. Das ist dann
+vor der Maschine und ich habe dann ein Handling an der Maschine. Das heißt, ich nehme die Teile
+aus der Kiste raus und lege die in die Drehmaschine ein. Wobei dieser Arbeitsgang nicht wertschöpfend
+Wenn Sie heute bei Fendt schauen, in der spanenden Fertigung, wo die Zahnräder für die Getriebe hergestellt werden und die Wellen, dann schaut man, dass man möglichst dafür kein Personal mehr braucht.
+Das heißt, der Lieferant muss so anliefern, in einem genormten Behälter,
+dass ich den Gehälter an dieses Fördersystem von der Fräsmaschine oder Drehmaschine beschicken kann.
+Der kann das automatisch streifen und bearbeiten und ablehnen.
+Das heißt, die verdeckte Verschwendung ist ein Punkt, wo ich noch ein Ratio-Potenzial finden kann,
+wenn ich noch nicht, wie sagt man, vollautomatisiert bin.
+Oder nicht überall die Roboter im Einsatz habe, aber auch die brauchst du.
+So, und dann haben wir noch den dritten Part, die offensichtliche Verschwendung.
+Das ist das, was man eigentlich abschaffen kann.
+So, und es gibt in sämtlichen Bereichen offensichtliche Verschwendung.
+So, das ist, wenn ich doppelte Arbeitsschritte habe, nichts digitalisiert habe,
+ein QS-Bericht schreibt
+und das dann wieder in
+Auftragssystemen übertragen wird
+und so weiter. Das heißt,
+ich habe die offensichtliche
+Verschwendung in den administrativen
+Bereichen und auch
+in den produktiven.
+So, das beginnt schon
+unter Umständen bei der Konstruktion
+von einem Betrug.
+So, was kann in der Konstruktion
+falsch stehen?
+man verwendet standardisierte
+Schraubengrößen
+Schraubenlängen
+ich muss die Mutter über einen Weg
+von 20 oder 30 mm aufschrauben
+das Aufschrauben kostet Zeit
+das heißt
+wenn ich eine kürzere Schraube verwende
+hätte ich weniger Zeit
+Die Frage ist immer, was ist in dem ganzen Prozess wichtiger?
+Standardisierte Produkte oder möglichst kurze Bearbeitungszeiten?
+Es hängt davon ab, wie viele Arbeitsgänge sich da wiederholen.
+Dementsprechend haben wir unterschiedliche Anforderungen.
+Das heißt, Wertschöpfung ist unser vordringliches Ziel, dass man möglichst viele Wertschöpfungsanteile hat.
+Die verdeckte Verschwendung lässt sich nicht vermeiden, aber sie lässt sich durchaus reduzieren.
+Es ist auch so, dass man viele Dinge automatisiert, indem man Nebentätigkeiten ausführt zu der Zeit,
+wo die Maschine zum Beispiel produktiv oder wertschöpfend tätig ist. Also wenn ich zu
+Dann ist es so, dass sie zum Beispiel raumhohe Räder fräsen, wo diese herstellen, wo diese ganzen Werkzeuge drin sind, damit sie über Nacht die Maschine belegen können, ohne dass ein Mitarbeiter dabei ist.
+ist. Bei kleineren Bearbeitungszentren ist es so, dass sie Wechseltische haben. Auf der einen Seite
+wird das Teil aufgespannt, auf der anderen Seite wird es bearbeitet. Früher gab es das nicht. Heute,
+die letzten zehn Jahre, ist das Thema verdeckte Verschwendung intensiv von den Unternehmen
+angegangen worden, weil man festgestellt hat, dass man durch Rüstzeiten, durch Nebentätigkeiten
+unheimlich viel Zeit von der produktiven Seite verliert.
+Das heißt, es ist immer der Fokus Mensch, Betriebsmittel, Material.
+Das was das teuerste ist, sind die Menschen in der Fertigung das teuerste oder das Betriebsmittel oder das Material.
+Das nehme ich als Priorität A in den Fokus, das teuerste.
+Weil da kann ich am meisten einsparen.
+Hauptziele von der Lean Production.
+Letzte Woche kam eine Studie heraus.
+Über die Qualität sind wir bei den Autos.
+Man hat untersucht, welche PKWs auf dem Markt 400.000 Kilometer laufen ohne Problem.
+Kein deutscher Hersteller dabei.
+So, das heißt, im Umkehrschluss, Toyota und seine Marken sind weltweit führend bei der Qualität.
+Das heißt, es ist durchaus 400.000 Kilometer möglich mit dem japanischen Auto.
+So, aber im Prinzip sagt es viel aus über das, wie das Unternehmen arbeitet.
+Im Prinzip geht es darum, dass man nicht kurzfristig, sag ich mal, Produkte ändert,
+Produkte während des Prozesses verbessert, das macht Toyota nicht.
+Toyota, wenn er ein Qualitätsproblem hat, dann wird das Problem gelöst,
+bevor das Auto weiter zusammengebaut wird.
+Das heißt, sie machen sich Gedanken über das Produktionssystem, über die Qualität
+und stellen die Mängel ab.
+Ich bin im Moment nicht auf dem Stand, was die deutschen Hersteller betrifft.
+Die deutschen Hersteller haben produziert mit den Fehlern und dann am Schluss die Nacharbeit gemacht für die fehlerhaften Fahrzeuge.
+Ich glaube auch, dass es im großen Teil jetzt noch so ist.
+Das heißt, die Nullfehler-Strategie, die Toyota betreibt, die ist eine langfristige Qualitätsstrategie.
+So, man muss schauen, was machen Sie denn anders im Vergleich zu anderen Herstellern?
+Warum sind Sie in der Qualität so viel besser?
+So, Hauptziele, Qualität, Zeitreduzierung, kurze Durchlaufzeiten, zuverlässige Prozesse.
+Das heißt, kurze Durchlaufzeit kann man unterschiedlich verstehen.
+Ich kann eine Durchlaufzeit betrachten von der Auftragserteilung vom Kunden bis zum Zahlungseingang des Kunden.
+Ich kann auch den Durchlaufzeit betrachten von meinem Entwicklungsteil, ich kann es von der Produktion betrachten und kann es von der gesamten Logistik betrachten.
+Im Prinzip klassisch in der Fertigung ist, dass man Fertigungsaufträge macht, so wie die SAP, die zum Fertigungsauftrag eröffnet.
+Wenn der Fertigungsauftrag eröffnet ist, dann kann ich Material aus dem Rohstofflager oder Halbfabrikatlager auf diesen Fertigungsauftrag draufbohren.
+Wertmäßig ist es so, dass das Rohstofflager in dieser Buchung entlastet wird und die Produktion belastet wird.
+Wenn das Teil durch ist, dann wird es ins Fertigwarenlager reingebucht, die Produktion wird entlastet und das Fertigwarenlager wird belastet.
+Jetzt kann ich da auch noch trotzdem viel falsch machen.
+Also wenn der Vertrieb zum Beispiel Prognosen abgibt, wir brauchen im nächsten Monat, was weiß ich, 100.000 Produkte und die Realität ist dann, es werden nur 20.000 verkauft, dann liegen 80.000 im Lager, bis sie irgendwann verkauft werden.
+So, das heißt auch hier kann ich strategisch rangehen, dass ich ja auch dem Vertrieb verpflichte, dass er seine Prognosen auch in realistische Zahlen umsetzt.
+So, weiter kann ich dann das Produktportfolio anschauen.
+So, es gibt immer, wie sagt man, die A-Produkte, die B-Produkte und die C-Produkte.
+A ist das, was das Geld für den Konzern einspielt oder für das Unternehmen.
+B-Produkte spielen auch ein Geld ein.
+Und C-Produkte mache ich eigentlich in der Regel nur,
+damit ich Kunden zufrieden stelle, die A-Produkte und B-Produkte in größerer Menge kaufen.
+So, sprich bei Atomic war das Thema bei der Skiherstellung, A-Produkte wollte man die Produktionsmenge steigern
+und C-Produkte wollte man runterfahren.
+So, aber jetzt gibt es ja ein Sortiment.
+Das Sortiment widerspricht der Strategie, weil wenn Sie keinen Kinderschuh herstellen, dann ist die Wahrscheinlichkeit, dass ein Kind in Erwachsenenalter diese Marke kauft, relativ gähn.
+So, das heißt, in Summe müssen Sie ausbalancieren, was sind Kosten, die man in Kauf nimmt.
+Also das C-Produkt der Kinderski sollte in Summe trotzdem kostendeckend sein,
+aber ich werde den nicht in übertriebenem Maße fördern.
+Das Gleiche können Sie nehmen für den Sprungski.
+Oberstdorf ist prädestiniert dafür.
+Wenn Sie heute die Sprungski sehen, dann sind andere Werbeträger drauf.
+In der Regel kein Skihersteller mehr.
+Weil ein Sprungski rechnet sich für einen Skihersteller nicht.
+Die, die in Oberstdorf oder weltweit gut in der Karriere springen, die kriegen ihre Schiebe geschenkt.
+Die Menge ist vernichtend.
+Und der Produktionsprozess ist ein Spezialprozess.
+Weil Sie brauchen für keine anderen Produkte Schiebe 2,80 Meter und 2,60 Meter.
+Also brauchen Sie einen speziellen Maschinenpark.
+Lange gab es die Firma Flüge.de in Seligenthal in Ostdeutschland, die haben nur Strutschi
+hergemacht.
+Finanziert worden sind sie nicht über die Schiene, sondern über die Webseite Flüge.de.
+Also jetzt gibt es das auch nicht mehr, weil flüge.de das Geschäft nicht mehr finanzieren wollte.
+Das heißt, Durchlaufzeiten vermeiden, Verschwendung vermeiden, das ist einmal das Thema im Prozess.
+Dann Kostenreduzierung, effiziente Wertschöpfung, Vermeiden von Gemeinkosten.
+Was sind denn Gemeinkosten?
+Was sind Gemeinkosten?
+Sie lassen sich nicht einem Produkt direkt zuverteilen,
+muss man quasi über Rechenverfahren die Produktion machen?
+Ja.
+Welche Abteilungen sprechen wir hier an?
+Produktion.
+Produktion.
+Produktion sind die geringsten Fertigungsgemeinkosten.
+Die Verwaltung, Entwicklung, Vertrieb, Marketing, Software, alles was dazugehört und eigentlich
+nichts mit dem Verkauf oder die Herstellung von dem Produkt zu tun hat.
+Das heißt, die Gemeinkosten sind im Moment in deutschen Unternehmen ein Riesenproblem.
+Wenn Sie schauen im Moment, was bauen die Konzerne ab?
+Gemeinkosten.
+Amazon streicht jetzt, glaube ich, 13.000 Jobs nur in der Verwaltung.
+Also die haben nichts mit dem Produkt zu tun, das Amazon an die Kunden liefert, sondern nur Verhaltung.
+Das heißt, die Gemeinkosten, wie komme ich denn an die Gemeinkosten in der Kostenrechnung?
+Im Prinzip haben wir normalerweise in der Kostenrechnung Kostenstellen, Kostenträger
+Das dritte sind die Kostenarten. Auf dieses System ist die Kostenrechnung ausgebaut.
+Kostenträger ist das Produkt, das der Kunde kauft.
+Die Kostenstellen muss ich schauen, die indirekten Kosten, Gemeinkosten, dass ich die auf die Produkte umlege.
+Normalerweise ist es so, in der Kalkulation, Sie haben in der Kalkulation diese Materialeinzelkosten.
+Dann haben Sie die Fertigungseinfüllkosten, das ist das alles, was in der Fertigung passiert.
+Und dann gibt es die Fertigungsgemeinkosten, das ist der Teamleader, dem wir kein Produkt
+zurechnen können. Dann haben wir Lagerkosten und so weiter. Die Fertigungsgemeinkosten,
+die sind relativ eindeutig, aber die Verwaltungsgemeinkosten,
+Vertriebsgemeinkosten und so weiter, die sind in den letzten Jahren unheimlich ausgeimpft.
+Das heißt, in den Unternehmen sind die Gemeinkosten explodiert und derzeit versucht
+man das wieder zu korrigieren, indem man Gemeinkosten reduziert.
+Wie kann ich das denn machen, dass ich weiß, was ist denn der richtige Maßstab?
+Wenn wir sagen, wir wollen nicht verschwenden, dann muss ich ja eine Maßeinheit finden,
+wie man das umlegen kann.
+Normalerweise haben wir eine traditionelle Kostenrechnung.
+Kostenarten, Kostenstellen, Kostenträger. So ist es für die meisten Unternehmen aufgebaut.
+Manche Unternehmen machen dann zusätzlich noch eine Prozesskostenrechnung.
+Da werden die internen Kosten auf die Prozesse aufgerechnet.
+So, das heißt, ich schaue in der Arbeitsvorbereitung, ich habe 10 Mann, was machen die 10 Mann in der Arbeitsvorbereitung den ganzen Tag?
+Was machen die 10 Mann im Vertrieb den ganzen Tag?
+Wenn sie nichts verkaufen.
+Das heißt, das ist jetzt der unangenehme Part bei dem, was derzeit passiert.
+weil es geht nicht um die Produktion mehr, weil da sind die Spiegelräume dünn, in den anderen Bereichen sind sie groß.
+So, und im Prinzip macht man nichts anderes, wie dass man schaut, wie viele Tätigkeiten können wir einem Prozess und somit einem Produkt zuordnen.
+und wie viele Tätigkeiten fallen direkt im Zusammenhang mit dem Prozess an
+und dann gibt es Tätigkeiten, die nur indirekt mit dem Prozess zu tun haben.
+Also wenn ich jetzt die Prozesskostenrechnung auf den Einkäufer anwende,
+dann macht der Einkäufer
+Rahmenvertragsverhandlungen
+Angebote einholen
+und so weiter
+und er macht auch ganz normale Serienbestellungen
+Serienbestellungen
+hängen direkt mit der Produktion zusammen
+Preisvergleiche
+oder Angebote
+haben mit der Produktion nichts zu tun
+aber es muss gemacht werden
+das heißt ich muss das Personal
+richtig bemessen
+für die Tätigkeiten
+die im Jahr oder im Monat einmal, zweimal, dreimal anfallen und die Tätigkeiten, die ich regelmäßig brauche.
+Also ein Arbeitsplaner wäre es zum Beispiel, er braucht Stücklisten, er braucht Arbeitspläne, er braucht Materialstämme,
+er muss kalkulieren, das sind alles Tätigkeiten, die direkt im Zusammenhang mit den Produkten sind.
+So, wenn wir dann eine Zeitwirtschaft haben und er noch Zeitdaten ermitteln muss, das
+muss er nicht für jedes Produkt machen, sondern nur das, was neu kommt.
+Das heißt, effektive Wertschöpfung können wir in vielen Bereichen im Unternehmen angehen.
+Und es kann keiner sagen, es gibt bei ihm keine Verschiebung.
+Aber das gibt es nicht.
+Abhängig ist das ganze System natürlich von den strategischen Zielen.
+Kommen wir zurück zum Toyota.
+Strategisches Ziel.
+Toyota arbeitet konsequent die Ziele aus.
+Und zwar strategisch.
+analysieren jeden Mitbewerber, der für Sie relevant ist,
+schauen die Vorteile an, die Nachteile an
+und schauen dann, wo Sie selber hinwollen.
+Ich könnte mal sagen, Toyota war jetzt nicht der,
+der das Elektroauto als erstes auf den Markt gebracht hat.
+Das heißt unter Umständen,
+Die Strategie, die das Elektroauto forciert, die war in dem Toyota-System nicht eingespeist.
+Aber dafür ein Hybrid-System.
+So, und mit dem Hybrid-System sind sie weltweit führend.
+So, das heißt, die Strategie ist Unternehmensführungsthema.
+So, und dann gibt es taktische Ziele.
+Was müssen wir in diesem Jahr erreichen?
+Das heißt, da geht es darum, was haben wir im nächsten Jahr verkauft?
+Können Sie runterbrechen auf die Produktgruppe?
+Und dann, wo wollen wir dieses Jahr hin?
+So, wenn Sie es auf dem Fenster runterbrechen,
+vor zwei Jahren war das Ziel,
+Da haben Sie 22.000 Einheiten produziert.
+Dann war die Zielvorgabe 28.000.
+Wenn Sie jetzt die Werkleitung hören, dann reiht sie um, dass Sie wahrscheinlich nicht mal 20.000 Einheiten zusammenbringen sollen.
+Strategisch war ein sattes Wachstum eingespeist.
+Taktisch geht es daneben, weil der Markt es einfach nicht hergibt.
+Das heißt, Sie haben trotzdem ein Ziel für dieses Jahr.
+Das Ziel wird ambitioniert sein.
+ich weiß nicht, ob das Ziel jetzt bei 20 oder 22 wieder liegt
+aber das Ziel ist mit Sicherheit höher
+wie das, was man vom Verkauf her sagt
+so, und dann gibt es die operativen Ziele
+so, was sind operative Ziele?
+im Prinzip brechen Sie den Jahresplan runter
+auf Monat, Woche, Part.
+Dann wissen Sie, was Sie operativ bringen müssen,
+damit Sie das verkaufen können.
+Unterscheiden tut sich das operative Ziel noch
+von dem, was Sie letztes Jahr auf Lager produziert haben.
+Weil das verringert die Produktionsmenü in diesem Jahr.
+Ziele smart formulieren.
+Im Grunde ist es immer wichtig, dass man die Ziele ausgibt.
+Wo wollen wir hin?
+Ziele müssen eindeutig definiert sein.
+So, was heißt das bei uns konkret?
+Was ist ein eindeutig definiertes Ziel?
+Ich will 10.000 Einheiten produzieren und verkaufen.
+10.000 Einheiten produzieren zu einem bestimmten, zu bestimmten Kosten und verkaufen auch zu einem bestimmten Preis.
+das wäre konkret
+formuliert, spezifisch
+das heißt
+aus dem Umsatz, den wir generieren
+müssen wir unsere Kosten
+decken können
+so, mit Menge
+allein ist es nicht getan
+die Frage ist
+was am Ende
+rauskommt
+so, dann muss das messbar sein
+Das heißt, ich muss entweder über Monatsreporting feststellen können, was haben wir denn jeden
+Monat verkauft im Stück und nach außen hin, wenn man jetzt zum Beispiel die PKW-Zulassungszahlen
+nimmt, dann kann man sehr wohl lesen, was der Markt hergibt und was wir als Marke dazu
+beigetragen haben.
+Wo werden die Zahlen im Moment
+unheimlich viel fälscht?
+Die Autohersteller lassen alle Autos
+auf sich zu.
+Das heißt, zugelassen ist es,
+aber verkauft ist es nicht.
+Das ist das andere.
+Das heißt aber intern ist es trotzdem das Thema, es muss messbar sein, das was wir an Leistung erbringen.
+Ausführbar, realistisch. Ausführbar und realistisch. Was verknüpfen wir damit?
+ich hatte mal einen Chef
+einen technischen Leiter
+ich war Einkaufsleiter
+so und der technische Leiter
+gibt Ziele raus
+was sie als Einkäufer
+im Endeffekt
+bringen müssen
+so das heißt
+der technische Leiter
+hat vorgegeben, die Preise müssen nächstes Jahr um 5% fallen, die Zahlungskonditionen
+werden von 30 Tage auf 60 Tage erweitert, das sind konkrete, ausführbare und realistische
+Er hat es zu dem Zeitpunkt gemacht, wo das nicht ausführbar war, weil die Lieferanten
+gesagt haben, wir verlängern uns das Zahlungsziel, nehmen wir ab, liefern wir nicht mehr.
+die Forderungen, realistisch 5% Rohstoff einsparen, bei steigenden Rohstoffkosten im Markt, waren
+auch realistisch. So, was habe ich gemacht? A-Lieferanten, drei Stück, habe ich den technischen
+Leute hingeknallt und gesagt, mach doch. Dann war er still sauer. Wieder die Erste, die
+voran gesagt hat, no, ein No-Go. Dann habe ich nach drei Monaten die Unterlagen wieder
+bekommen und die Sekretärin hat
+mitgeteilt, wie soll die Verträge
+verhandeln.
+Das heißt,
+ausführbar und realistisch,
+man muss sich schon irgendwo
+an dem orientieren, was
+in dem Markt passiert.
+So wie derzeit
+in sämtlichen Bereichen die Kosten steigen,
+die Fragen ist, ist das
+berechtigt oder ist es unberechtigt?
+Derzeit
+können Sie
+Preisreduktionen ohne weiteres
+durchdrücken, weil
+wie sagt man?
+fehlende Nachfrage
+in vielen Bereichen.
+So, das drückt
+auf den Preis.
+Terminiert.
+Das Ziel muss mit einem
+fixen Datum terminiert werden.
+Das heißt, wir haben einen Jahresplan, was es bei den meisten Unternehmen gibt.
+Und damit ist das klar, wir wollen in dem Jahr so und so viel Umsatz machen.
+Wir wollen so und so viele Produkte zu dem Preis herstellen.
+Und unter dem Strich bleiben bei Porsche im Moment die Hälfte.
+So, das haben sie sich auch anders vorgestellt.
+Schlüsselelemente von dem Lean, die 3M, Mura, Muri und Mura.
+Also das erste Thema ist die Verschwendung.
+Da konzentrieren sich die meisten Firmen drauf.
+Auf das Schwenken aufs Zimmer.
+Unzweckmäßigkeit, das ist schon untergeordnet.
+So, bei der Verschwendung wissen wir, um was es geht.
+Bei der Muri, bei der Unzweckmäßigkeit, Mensch und Betriebsmittel an der Belastungsgrenze.
+So, können Sie im Moment in vielen sozialen Bereichen nehmen, Krankenhäuser.
+Die Menschen, die da arbeiten, die arbeiten oftmals am Limit, weil es zu wenig Personal gibt.
+So, wenn Sie jetzt in Kempten schauen, ins Krankenhaus, da steht die oberste Luxusabteilung leer.
+Warum steht sie leer?
+Weil sie kein Personal hat.
+So, das ist das Thema.
+Das heißt, Mensch und Betriebsmittel an der Belastungsgrenze,
+auch dann, wenn ich ein Betriebsmittel einsetze und ich fahre,
+was das Betriebsmittel im Maximum leistet.
+Dann fahre ich, sagen wir mal, auf Verschleiß.
+Führt langfristig zu Ausfällen, Reklamationen und Reparaturen.
+Das heißt, aus der Auslastungsbereich nicht optimal.
+Vielfach Probleme bei Sicherheit und Qualität durch Maschinenausfälle.
+Jetzt können wir fragen, was ist Sicherheit? Was sind Probleme in der Qualität?
+Man kann im Internet vieles einkaufen. Sehr preiswert einkaufen.
+Die Frage ist immer, was ist in Realation zu einem, der vor Ort ist, vor Ort produziert?
+Und ist das, was es im Internet zu kaufen gibt, realistisch vom Preis her?
+Darüber muss ich mir immer Gedanken machen.
+Wenn ich nur auf den Preis schaue, dann fehlt es irgendwo anders.
+Also entweder haben wir billige Materialien eingesetzt oder ist es die Qualität auf einem anderen Level,
+weil andere Herstellungsweise und und und.
+Das heißt, Unzweckmäßigkeit ist ein Thema von den drei.
+ungleichmäßig
+Wechsel zwischen Überlast
+und Phasen der Verschwendung
+Das ist das, was wir
+derzeit in der Industrie haben
+Die letzten Jahre haben sie
+Personal geordnet
+weil jeder gesagt hat, du kriegst keins mehr
+So, und dann kam
+die Talfahrt
+und das Personal
+drehte durch
+So, ist nicht
+ausgelastet
+Das wird sich auch wieder ändern. Im Prinzip, Sie müssen nur so wie ich damals einfach selber beginnen.
+So, und dann müssen Sie schauen, was die Erforderung von 40 Euro Stundenlohn bedeutet.
+So, dann nehmen Sie zehn Mitarbeiter und dann schauen Sie, was Sie verkaufen müssen,
+damit Sie nur die Löhne bezahlen können.
+Also ich hatte auch Jahre, Jahre, da war es am Ende vom Monat so knapp,
+dass ich mir über Jahre nur einen Bruchteil von dem vereinbarten Lohn ausbezahlt habe.
+Weil in erster Linie, wenn sie die Mitarbeiter nicht sagen, was andere Firmen machen, dann
+haben sie ein anderes Problem.
+Also die erste Priorität war, Lieferanten müssen ihr Geld bekommen und Mitarbeiter
+müssen ihr Geld bekommen.
+Ansonsten ist es nicht solide.
+So und dann funktioniert es irgendwann schon.
+Wie sagt man, es gibt immer Durststrecken, so wie bei VW mit einem Milliardenverlust
+oder so.
+Okay, die werden das Ding schon wieder drehen.
+So, das heißt, bei Mura haben wir die sieben Arten der Verschwendung.
+Transport, Bestände, Bewegung, Warten, Überproduktion, Überverarbeitung, Ausschuss und Nacharbeit.
+Bei Mura haben wir unterschiedliche Prozesszeiten.
+In der gesamten Fertigungs- und Lieferkette, uneinheitliche Arbeitsweisen der Mitarbeiter
+bei gleichen Tätigkeiten.
+Und das letzte ist die Überbeanspruchung Mitarbeiter und Betriebsmitglieder.
+So, jetzt können Sie selber nachdenken, was läuft denn gut und was läuft schlecht.
+Wenn Sie später einen Job anfangen in einer Firma, dann können Sie genau darüber nachdenken, was läuft in dem Laden gut und was läuft schlecht.
+Das Problem ist, am Anfang bei der ersten Firma hat man keinen Vergleich.
+Deshalb rate ich immer, bleiben Sie nie beim jetzigen Arbeitgeber, es sei denn, Sie sind wirklich glücklich.
+Und glücklich heißt nicht viel Geld verdienen, sondern glücklich heißt, ich bin mit der Arbeit in Summe zufrieden.
+Dann ist alles okay.
+Vermeidung von der Verschwendung.
+Die Prozesskette geht von Lieferanten bis zum fertigen Produkt.
+Überall können Sie Bestände horten für das, was nicht gleichmäßig passiert,
+was man Ausfälle in der Produktion hat, was man Ausschuss hat und, und, und.
+Das heißt, am Informationsfluss, die Frage ist, beim Informationsfluss, wie schnell fliegt die Information vom Kunden bis zu unserem Lieferanten?
+Wir waren Skihersteller. Wir hatten dann ein strategisches Meeting.
+Zu einem strategischen Meeting wurde uns ein Computerhersteller als Number One präsentiert.
+Damals Dell. Dell Computer. So, und dann haben wir uns gefragt. Die meisten konnten sich nicht vorstellen, was hat Dell Computer mit Atomech zu tun?
+Was hat Dell damals gemacht? Sie konnten keinen Dell beim Media Markt kaufen. Blödsinn. Sie konnten einen Dell Computer im Internet bestellen.
+Das heißt, ich habe im Internet mein Produkt konfiguriert, so wie es heute bei Lenovo auch
+geht.
+Bei Lenovo, wenn Sie so ein Business Notebook konfigurieren, dann sind Sie schnell bei 2.000-2.500
+Euro.
+So, das ist nichts, was der Mediamarkt verkauft, aber langfristige Qualität.
+Beim Dell war das damals aus.
+So, das heißt in Summe, warum wir zum Dell gekommen sind.
+Sie haben den Computer konfiguriert.
+Dell hatte eine komplette Vernetzung von Kunden bis zum Lieferanten.
+Das heißt die Prozesskette war komplett. Der Lieferant wusste in dem Moment, wo er den Einkauf abgeschlossen hat, was er zu produzieren hat.
+Aber das war noch nicht das Maßstab.
+Das Problem war, bei Dell haben sie am Schluss, bevor sie die Bestellung abschließen,
+die Kreditkarte zücken müssen und bezahlen. Das heißt, Dell war unheimlich clever,
+weil der hatte das Geld in der Tasche, da ist noch nichts passiert. Und wir bei Atomic hatten
+sechs Monate und neun Monate Zahlungsziel. Nach Auslieferung. Und das war der Knackpunkt in dem
+ganzen strategischen Meeting. Das heißt im Prinzip ging es darum, wie kann man schneller an Geld
+ohne dass man den Kunden verkauft.
+Das war auch ein Branchenproblem, aber heute gibt es das auch nun mal.
+Wenn man schaut, ich hatte letzte Woche von Anta, Anta ist der Mitbewerber von Nike und Adidas
+und den anderen, das ist der chinesische Konzern, da gehört der AMA-Konzern heute dazu.
+So, und dann schauen Sie mal die strategischen, da gibt es so einen Investorentag.
+So, und dann schauen Sie mal, was Sie in dem Investorentag präsentieren, wie Sie vorgehen.
+Was Sie sagen? Respekt. Gut ab.
+So, das heißt, in Summe, der Informationsfluss ist heute über viele Bereiche entscheidend.
+Wie fließt die Information schnell zum Lieferanten, sodass wir das Material bekommen, das wir für die Kunden anbieten können.
+Arbeitsorganisation bedeutet im Prinzip, dass ich meine Produkte so aufbaue, dass ich sofort alle Informationen habe.
+Durchgängig habe.
+Materialfluss gibt es immer, wie soll ich sagen, es gibt in dem einen Jahr, wo ich den Materialfluss ideal aufgesetzt habe, einen idealen Materialfluss.
+Wenn sich dann die Technologie ändert, der Kundenstand sich verändert und die Produkte
+sich verändern, dann kann es sein, dass im nächsten Jahr der Materialschluss schon nicht
+mehr optimal ist. Das heißt, auch ich hatte die Situation bei Atomic, dass wir zu der Zeitpunkt,
+Und wo ich hingekommen bin, hat der Atomic 70% von den Low-End Produkten gefertigt.
+Und der neue Eigentümer hat gesagt, wir wollen einen Switch haben.
+Wir wollen 70% im High-End haben.
+High-End bedeutet eine ganz andere Fertigungstechnologie, ganz andere Fertigungsmaschinen.
+und somit der Materialfluss, der Bestand für die Mündung.
+Dann ist die Frage, wie richtet man den Materialfluss ideal aus?
+Auch das ist eine Herausforderung, weil die Frage ist, was können Sie von dem Gebäude verändern,
+was können Sie von der Infrastruktur im Gebäude verändern
+und was ist unverrückbar, weil es einfach unbürokratisch ist.
+Das heißt, man muss dann oftmals Kompromisse eingehen.
+Auch ich bei der Gründung von der Firma,
+den Prozess muss ich aufbauen von dem Gebäude, das ich mieten konnte.
+Dass es im Nachhinein nicht ideal war,
+aber das einzigste Gebäude, das ich bekommen habe.
+Das ist auch ein nächstes Thema.
+Die Frage ist, wie kann ich mit den Kompromissen,
+die man eingeht, die Kosten noch irgendwo überfallen.
+So, layout, Materialfluss, Fabrikstruktur.
+Also auch das ändert sich mit den Produkten,
+die wir herstellen und auch mit den Kunden.
+So, dann haben wir weiter das Kapazitätsangebot und Flexibilität.
+Was heißt Kapazitätsangebot?
+Im Prinzip des Kapazitätsangebots ist das, was wir zur Verfügung haben, also sprich unser Kapazitätsbestand.
+Wir haben einen Bestand an Personal, wir haben einen Bestand an Maschinen.
+So, und die wollen wir möglichst effizient nutzen oder Personal einsetzen.
+So, und damit müssen wir schauen, wie wir das am schicktesten machen.
+Das heißt, es richtet sich nach dem Markt, weil die Produkte, die wir verkaufen, haben
+bestimmten Kapazitätsbedarf.
+Und der steht
+gegenüber dem Bestand.
+Und das müssen wir ausbalancieren.
+Wie in der Hydraulik oder Pneumatik.
+Es muss sauber
+aufbalanciert sein, dann haben wir
+ideale Kosten. Ansonsten
+nicht.
+So,
+Flexibilität, das ist
+ein Thema,
+Von was wird die Flexibilität derzeit beeinflusst? Von Unternehmen,
+Verfügbarkeit von Chips, Verfügbarkeit von Material und Verfügbarkeit von Personal.
+So, wir müssen schauen, was haben wir und wie flexibel können wir das Ganze gestalten.
+Also auch bei mir, das Wintersportprodukte, das ist Berg- und Talfahrt.
+Ich habe nur Glück, dass ich europäische Kunden habe, asiatische Kunden.
+So, weil das atypisch läuft.
+deshalb ist die Talfahrt
+nicht so groß
+sondern es gibt leichte Rückgänge
+und es gibt leichte Piepsen
+aber ansonsten hält sich die Waage
+so aber Flexibilität
+ist grundsätzlich ein Thema
+das ist das was die Mitarbeiter
+nicht mögen
+sie mögen
+nicht einmal 48 Stunden
+arbeiten und das nächste Woche
+32
+das können sie kurzfristig
+für einen Monat machen
+Aber langfristig laufen immer die Leute davon, wenn sie es übertreiben.
+So, Prozesssicherheit, Maschinenverfügbarkeit.
+Prozesssicherheit, wann sind wir prozesssicher?
+Kann man Zipide und Zipidale bestimmen?
+Also man kann CT-Wert oder CT-Klarheit bestimmen, also Abweichung in der Qualität zum Beispiel und schauen, ob das was reingeht oder ob das was rauskommt.
+Im Prinzip ist es das auch. Im Prinzip Prozessstabilität heißt, ich kann jeden Tag die gleiche Menge produzieren.
+Der Prozess ist stabil, die Toleranzen von den Produkten sind in den vorgegebenen Bereichen, ich habe keinen Ausschuss, es läuft rund.
+Und dann bin ich prozesssicher und habe dementsprechend auch die Maschinenverfügbarkeit.
+Also ich nutze dann nicht Maschinen auf Maximumauslastung, sondern normale Auslastung,
+dass ich auch leichte Unheilheiten decken kann.
+Das ist das Ziel.
+So, das heißt, in der Produktion gibt es Transport, Bestände, Bewegung, Warten, Überproduktion.
+Falsche Technologie oder falsche Prozesse und Fehler.
+So, alle diese Fehler können in der Produktion in irgendeiner Weise zutreffen.
+Verwaltung.
+Auch hier Transport von den Dokumenten, möglichst in elektronischer Form, dass die laufen.
+Bestände, was sind die Verhaltensbestände, man hortet Dinge, die man nur ab und zu braucht,
+Unnötige Bestände, ungenutzte Arbeitsmittel
+Also es könnten einerseits Daten sein, die man nicht auswertet, sondern einfach nur pflegt
+über mehrere Systeme.
+Es kann aber auch, glaube ich, sein, dass wenn man Büroräume hat, die man gar nicht
+benutzt, also das ist ja auch Geld, was man da reinsteckt.
+Ja.
+Oder dass man eine Abteilung falsch auslegt, also einfach zu viele Leute da reinsetzt.
+Ja.
+Das ist ein gutes Beispiel.
+Passt.
+Alles verschwindet.
+So, Belegung, unnötige Wege, Laufwege auf der Suche nach Dokumenten, das ist dann, wenn Sie nicht eine digitale Workflow haben und dann in die Entwicklung laufen und dann sucht er dann die Dokumente raus und findet sie nicht.
+Aber auch das haben Sie im digitalen Workflow. Auch ein digitaler Workflow muss gut organisiert sein, damit ich da auch nichts suchen muss.
+Das heißt, ich muss ein Ablagesystem finden, wo die Personen zugreifen können, die die Dokumente brauchen.
+Es ist immer dann ein Thema, wenn mehrere Personen an dem gleichen arbeiten.
+Also wenn 3 Personen oder 4 Personen oder 5 Personen Arbeitspläne erstellen, dann ist
+die Frage, machen das diese 5 Personen alle nach dem gleichen Schema oder hat jeder andere
+Brauche ich einen Standard, den ich mir dann vorgehe?
+Ein typisches Beispiel und wie ich da bei dem AMA-Konzern begonnen habe, da waren diese
+Leute, die ihren Dienstwagen hatten, relativ begrenzt.
+Nach fünf Jahren hatten wir ungefähr 60 Autos im Fuhrpark und jeder hat Ansprüche gestellt.
+Dann gab es irgendwann Richtlinien, wer in welcher Position welches Auto fahren darf
+Und welche Kosten das abgerechnet werden und welche Kosten der Nutzer selber zu tragen hat.
+Das heißt, man schaut dann, wie man mit den Beständen umgeht.
+Heute haben sie oftmals keine fest zugeteilten Fahrzeuge mehr, sondern sie haben einen Pool.
+Und sie müssen dementsprechend vorausbuchen.
+Das ist natürlich kurzfristig oftmals nicht so einfach.
+Wartezeiten, Liegezeiten, Warten auf Entscheidungen, Rückgaben, Weitergaben, Anlaufzeiten und so weiter.
+Das heißt, in Summe gibt es da einen Haufen Beispiele für Wartezeiten.
+Überproduktion. Informationsfluss, mehr Informationen als der Kunde benötigt.
+Ich war ja im letzten Monat bei der Firma Palkinger, die digitalisieren das ganze Unternehmen,
+weltweit. Die Digitalisierung beginnt an der Maschine, in der Fertigung. So, man schaut,
+welche Informationen braucht der Mitarbeiter an der Maschine und wie kann ich die bereitstellen.
+Und dann ist der nächste Schritt, wie ich das nach oben hin verdichte.
+Aber im Prinzip ist die Frage bei der Information, wie stelle ich die Information bereit und
+in welchem Umfang.
+Damit er nicht, jetzt könnte ich jetzt aktuell vergleichen, Kugel und KI.
+Wenn Sie die gleichen Fragen an Google stellen, ohne KI, und an die KI.
+Bei der KI, weil Sie innerhalb Sekunden präzise, gezielte Vorschläge bekommen.
+Bei Google suchen Sie sich dort.
+Haben Sie fünf Suchergebnisse und immer noch kein Ergebnis, das Sie brauchen können.
+Bei der KI kann ich immer präziser formulieren, was ich wissen will.
+Da bekomme ich auch das.
+Also darum wird es schon ein entscheidender Punkt sein in der Zukunft,
+auch bei den Firmen, wie bereite ich die Daten auf.
+In einer KI, wenn ein großes Unternehmen besteht, so wie BMW oder Mercedes oder wie auch immer,
+die wollen ja nicht die KI von weltweit haben, sondern die KI von ihrem Unternehmen, ihrem Konzern.
+Und schauen, dass sie da möglichst schnell diese Informationen finden, die sie brauchen.
+Falsche Technologieprozesse.
+Nutzlose Tätigkeiten, ungelesene Berichte, Statistiken, Protokolle, gibt es alles.
+Schaut kein Mensch an, aber machen wir. So, wirklich ist noch wieder Papier vor.
+Das ist die Überproduktion. Perfekt. So, und Fehler gegebenenfalls entstanden durch Medienbrüche.
+Sie sind jung, haben Sie schon Praktikum gemacht? Ist der Medienbruch heute beseitigt? Also wie ich
+in Ihrem Alter war, gibt es jede Menge Medienbrüche. Medienbrüche in der Form von der EDV. Wir hatten
+im Konzern jedes Land hatte seine eigene EDV. Die Produktionsplanung hatte eine eigene EDV,
+eine eigene Software, die Lagerverwaltung hatte eine eigene Software, die Konstruktion,
+Von der Digitalisierung, das heißt Medienbrüche in der Form, dass ich einfach die Informationen zentral in sein System einspeise und für alle nutzbar mache, die das brauchen.
+Dann bin ich ohne Medienbrüche.
+Das heißt, auch hier gibt es viel zu arbeiten, wie wir in Zukunft die Informationen bereitstellen,
+so dass sie nicht fehlerhaft sind.
+So in SAP laufen viele Firmen von dem Transfer-System SAP R3 zu SAP HANA und da wird ja eine bestimmte
+Dichtung vorgenommen, nach bestimmten
+Kriterien, sodass ich
+schneller die Produkte
+finden kann.
+Weil in der Zukunft,
+da haben Sie noch viel mehr das Thema
+Unmenge an Daten.
+Ich hatte das vor 20 Jahren schon.
+Wir haben damals Siemens
+in München als SAP-Partner.
+Siemens
+wir mussten fünfmal die Hardware austauschen innerhalb von zwei Jahren, damit diese Datenmengen dann verarbeitet werden können.
+Wenn Sie jetzt schauen, im Moment ist Microsoft, glaube ich, die Firma, die in England ein riesen künstliches Intelligenzzenter aufmacht,
+damit man Daten
+nicht über den Atlantik transferiert
+sondern dass die Daten
+in Europa bleiben
+so, warum ist
+Überproduktion die schlimmste
+Art der Verschwendung
+ganz einfach, zusätzliche
+Handhabung, wir müssen es
+irgendwo verstauen
+zusätzlicher Raumbedarf
+wir müssen es irgendwo lagern
+wir bewegen
+die Betriebsmittel
+mit zusätzlicher Kapazität
+wo wir andere Tätigkeiten oder Aufträge nicht ausführen können.
+Wir bieten Personalkapazität und administrative Kosten einstehen auch.
+Wenn man das auf das Arbeitssystem herunterbricht,
+Arbeitssystem ist nichts anderes wie ein Arbeitsplatz,
+der besteht aus Mensch und Betriebsmitteln
+und ich habe Input an das Arbeitssystem für eine Arbeitsaufgabe.
+Zum Beispiel, was weiß ich, wir haben eine Drehmaschine, die Arbeitsaufgabe ist eine Welle nach Zeichnung zu drehen.
+Als Eingabe haben wir ein Material Rohling, als Ausgabe haben wir eine fertig gedrehte Zeichnung.
+So, was haben wir noch als Eingabe, Ausgabe?
+Eingabe müssen wir Informationen eingeben, also ohne Zeichnung macht man gar nichts.
+Unter Umständen brauchen wir ein CNC-Programm.
+Wenn wir sagen, wir wollen keine Verschwendung haben bei der Eingabe,
+dann muss ich alle Informationen und Produkte dementsprechend bereitstellen.
+So, das heißt Verschwendung kann auch der Transport sein dann, bei der Ausgabe auch.
+So, am Arbeitsplatz Bestände, weil im Prinzip hängt es davon ab, was ich für eine Losgröße
+desto größer die Losgröße
+desto größer die Liegezeiten
+vor und hinter der Maschine
+also ist gegen die Fließproduktion
+Mensch
+wenn ich einen Arbeitsplatz habe
+wo ich Material bereitstelle
+und wenn es fertig ist, abstelle
+dann ist die Frage
+wie ist der ganze Arbeitsplatz organisiert, dass der Mensch möglichst wenig Bewegung zurückwerfen muss.
+Weil Bewegung ist die Verschwendung.
+So, wenn wir die Informationen nicht bereitstellen, müssen wir warten auf die Informationen,
+wenn das Material nicht kommt, dann warten wir auf das Material.
+So, Arbeitsablauf, falsche Prozesse.
+Manche Prozesse gibt es nicht, doch an der Drehmaschine, wenn wir den Arbeitsplan aufnehmen,
+wir schrubben in einem Durchgang drei Millimeter runter oder was weiß ich für Stärke und haben
+danach eine Oberfeldenqualität, die nicht tolerierbar ist, dann ist das die falsche
+Also müssen wir schauen, dass wir die Prozesse so aufsetzen, dass die Qualität am Ende auch stimmt.
+Überproduktion ist dann, wenn wir mehr produzieren, was wir nicht brauchen. Fehler,
+wenn das ganze Produkt fertig ist, wenn wir das aus dem Arbeitsplatz heraus transferieren.
+So was heißt Prozessorientierung? Ganzheitliche Sicht. Es gibt zwei Extreme in der Industrie.
+Ich habe eine klassische Organisation mit Aufbau und Ablauf. In der Aufbauorganisation
+habe ich die verschiedenen Abteilungen und die verschiedenen Abteilungsleiter. Die Abteilungsleiter
+schauen, dass in ihrer Abteilung optimal produziert wird. Aber im Ablauf kann das unter Umständen
+bedeuten, dass das nicht fließt mehr. Das heißt, der Abteilungsleiter von Dreherei schaut, dass er möglichst
+wenig rüsten muss und die Losgrößen unter Umständen von mehreren Aufträgen zusammenfasst.
+Und danach stehen alle. Aufbau- und Ablauforganisation, das ist das eine System.
+das andere Extreme ist die Prozessorganisation. Ich richte die gesamte Fertigung an den Prozess
+aus vom Kunden bis zum Kunden. Ein Extremfall, ein Mitbewerber damals von Atomic, der hat sich
+auf die Fahne geschrieben, was damals auch modern war. Wir richten das ganze Unternehmen nach
+prozessen aus so sie haben dann damit sie es realisieren konnten
+produktmanager eingestellt
+das heißt der produktmanager muss herausfinden was ist die wünsche von kunden was ist die
+Wünsche vom Markt, die Produkte definieren, die Kosten ermitteln und für die Fertigung
+die Informationen bereitstellen.
+In Summe ging es dann los, dass jeder dieser Produktmanager für sein Produktfolio die
+Materialien definiert hat.
+Vorher haben wir von einer Produktgruppe ein Produkt gehabt, danach hatten wir acht Produkte.
+Irgendwann ging es so weit, dass sie sich dann nicht mehr darauf einigen konnten, ob die Maschine für jeden Produktmanager gut genug ist.
+Dann hat man mehrere Maschinen beschafft.
+Die Maschinen waren dann nicht ausgelastet.
+In Summe, das Spiel von der Umstellung von der hierarchischen Organisation in die Prozessorganisation hat zwei Jahre gedauert.
+In den dritten Jahren hat man dann die ersten Verluste geschrieben, weil sich ja jeder in der Kette ausgewandert hat.
+Das heißt, sowohl die klassische Organisation ist nicht das Optimum, wie die Prozessorganisation auch nicht das Optimum ist.
+Man muss Lösungen finden, wie die Information und das Produkt möglichst effizient hergestellt werden kann.
+Ich bedanke mich für's Kommen.
+Untertitelung des ZDF, 2020

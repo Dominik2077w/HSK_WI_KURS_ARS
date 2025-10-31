@@ -1,0 +1,1547 @@
+Dann haben wir gesagt, diese Verkleinerung, die führt, wenn man dezidiert nur eine Kerne in die Brunnen macht,
+zu einer Verkürzung bei der Sprechspannung, weil die Notrate wiederum die Notrate der Umstände führt zu einer effizienten Form dieses Tieres.
+Dann haben wir gesagt, dieser sogenannte Anwendungsfaktor,
+der in der Praxis nicht immer die absolut vorrangige Gleichform ist,
+dynamische Beanspruchung,
+sondern häufig auch Schläge.
+Wenn wir einen Hammer haben,
+der
+wird stark gerüttelt, dann sind das
+sehr stark Beanspruchungen.
+Hier zum Beispiel das Aufbringen
+eines Drehmomentes mit einer
+Anlaufkupplung und ohne
+eine Anlaufkupplung,
+dann gibt es einen relativ starken Schlag.
+Das heißt,
+da gibt es eine Überhöhung der
+vorhandenen Spannung aufgrund
+der Konstruktion,
+die dort gewählt worden ist.
+Um das richtig in den Einklang zu bringen
+und zu abzuschätzen,
+gibt es diese Anwendungsfaktoren,
+die zu einer Erhöhung der eigentlichen Spannung führen.
+Schlagartige Beanspruchungen
+haben wir dann einen Anwendungsfaktor von 2 bis 3,
+um einfach eine sichere Konstruktion zu machen.
+Neben dem Smith-Diagramm gibt es noch das Hay-Diagramm. Das Hay-Diagramm ist etwas anders aufgebaut.
+Auch hier sieht man, alles was sich in diesem Feld befindet, mit einer vorhandenen Mittelspannung, mit einer vorhandenen Art von Spude, ist bezogen auf eine Torsionsbeanspruchung so dargestellt, mit einer Zugdruckbeanspruchung so dargestellt.
+Man sieht, die Biegung ist in dem Fall die ungriffigste, weil die wenig Spannung tragen, die inneren Schichten bei einer Biegüberanspruchung eine höhere Belastung des Bauteils zulassen.
+Die gesamte Konstruktion hier, die kann man auch herleiten, des Diagramms.
+Es wird also abgelesen oder konstruiert und hat eine ähnliche Aussage wie das Swiss-Diagramm.
+Ich will darauf jetzt im Einzelnen gar nicht eingehen.
+Alles, was hier mit TV bezeichnet ist, ist das Tabellenbuch nach Olof Matek.
+Ich versuche, dass Sie nicht nur dieses Buch da jetzt haben müssen,
+sondern dass Sie entsprechende Aufgaben lösen können
+und stellen die entsprechenden Diagramme zu dieser Aufgabe hinzu.
+Was für den Maschinenbauer eigentlich dazugehört ist, dass er sich in solchen Büchern dann auskennt.
+Wenn er eine Konstruktion macht, ich mache jetzt mal einen Überschlag, eine Berechnung einer Welle, die ich habe,
+dann muss er auf diese Diagramme zugreifen, muss sie dann auch finden.
+Und das ist eine Frage der Übung sozusagen.
+Da ist jetzt noch bekannt, aus Versuchen ermittelte Dauerfestigkeitskenntnisse sind selten und streuen oft beträchtlich.
+Und die erhält als Nährung Rechenangaben für Dauerfestigkeitswerte, die in der folgenden Tabelle aufgelistet sind.
+Hier sind im Prinzip die Berechnungsgrößen für dieses H-Diagramm.
+Und hier Berechnung der Mittelspannungsempfindlichkeit.
+Das heißt, die Neigung der Graben, die sieht dieses H-Diagramm aus.
+Das kann man alles jetzt berechnen mit den Vorschlägen aus diesem Tabellenbuch.
+Da steht jetzt, differenziert das Ganze für Stahl.
+Und Sie sehen, GJL und GJS, das war unser Graubus und unser Ramellenbus, aus der Fertigungstechnik dann auch, liefert hier entsprechend andere Werte.
+Ich weiß nicht, ob Sie das gesehen haben.
+Ich habe ein neues Skript publiziert, können wir mal reingehen.
+Das heißt jetzt Kapitel 4 wäre jetzt mit Federn und elastischen Bauteilen verformt.
+Gibt es noch Fragen zu diesem Smith-Diagramm?
+Wir haben drei Möglichkeiten der Überlast.
+Solange wir uns in dem Feld befinden, ist es in Ordnung.
+Das Smith-Diagramm wird kleiner durch drei Faktoren.
+Das ist die Größe des Bauteils, die Geometrie durch Kerben
+und dann natürlich klar der Werkstoff des Materials als solches.
+Wenn wir das runterladen, geht das?
+Ja.
+Ich habe noch eine Frage.
+Ja, wenn wir außerhalb von dem Feld sind.
+Wir haben sicher im Feld ein weißes Bauchfeld, oder?
+Genau, es gibt ein lauer Bauchfeld.
+Da fällt diese Belastung eine bestimmte.
+Wir haben am Anfang gesagt,
+dann wird das damals bei den Eisenbahnschnüren festgestellt,
+bei den Eisenbahnenachsen oder bei den Wellen,
+bei den Achsen, die sind irgendwann gebrochen.
+Und wenn man sich ein typisches Werkstoffverhalten anschaut, das soll gerade sein, das ist sozusagen...
+Wir haben jetzt da ja unterschiedliche Laststände, zum Beispiel die Mittelspannung bei dem Smith-Diagramm.
+Da geht immer auf das Bildchen.
+Jetzt sind wir mal hier auf den Lastball, den wir da hatten, und die Mittelspannung nach
+unten gegangen ist mit den Amplitüden.
+Was die jetzt machen, ich habe hier Anzahl der Wechselspiele.
+Sie machen hier einen Zugverdruck und dann kommt die Festigkeit raus.
+Das ist eine Kurzzeitzugfestigkeit.
+Wenn Sie jetzt anfangen, Sie lösen die Anzahl der Lastwechsel.
+Das heißt, die Probe wird belastet, die Amplitude ist relativ hoch.
+Dann wird mit einer bestimmten Anzahl von Lastwechseln die Probe mit der Amplitude Sigma A
+zu einem Zeitpunkt, was weiß ich,
+das Ganze ist logarithmisch
+aufgetragen.
+Wenn wir jetzt mal hier
+nach 100 Zyklen kaputt gehen,
+wird die Amplitude kleiner,
+kann das Ding irgendwann
+mehr aushalten.
+Sagen wir jetzt mal hier
+100.000 Lastwechsel.
+Aber die Amplitude wird kleiner.
+Und irgendwann
+ist das Material dauerfest.
+Und jetzt dieser Punkt,
+bei den Städeln
+liegt er ungefähr bei 2 mal 10 hoch minus 6 bis 10 hoch 7.
+Das heißt, Sie können 2 Millionen Lastwechsel machen.
+Wenn Sie unterhalb dieser Amplitude bleiben,
+dann ist mein Sigma A, dann ist der Werkstoff Dauertest.
+Und dann können Sie auch 100 Millionen Mal das Ganze belasten.
+Das Ding ist Dauertest.
+Und das ist genau der Punkt.
+Wenn ich jetzt so einen Lastfall habe und ich habe genau diese Überlast,
+weil ich zum Beispiel die Kerbe nicht berücksichtigt habe,
+am glatten Bauteil habe ich die gestrichelte Kurve gemessen.
+Die ist zu reduzieren, wenn die Oberfläche rau ist.
+Warum? Weil der Rest schneller rein geht.
+Dann verlasse ich dieses Feld.
+Dann wird das Bauteil aber nicht da vorne bei der ersten Last kaputt gehen,
+sondern bei einer bestimmten Anzahl an Lastspielen wird irgendwann diese Grenze erreicht.
+Dann ist es nicht mehr dauerfest.
+Nur das, was innerhalb meiner Kurve hier liegt, innerhalb meiner Fläche, ist dauerfest.
+Und diese Dauerfestigkeitskennwerte, die hat man ermittelt.
+Ich sage mal, das ist so typischerweise die Amplitude.
+Die Amplitude sieht dann so aus, dass ich eine Mittelspannung von 0 habe.
+die schwankt hier immer
+in diesem Wert
+da ist meine Sigma U
+das ist die Unterspannung
+da ist die Oberspannung
+das ist die Mittelspannung
+das ist die sogenannte Wechselfestigkeit
+die wird gemessen
+und aus der Wechselfestigkeit
+aus diesen Versuchen da oben
+das ist die maximale Sigma A
+Amplitude
+bei einer Mittelspannung von 0
+Das ist die Wechselfestigkeit.
+Dieses Diagramm hier drin und daraus kommt eine Konstruktion.
+Macht dann die potenziellen Lastfälle, kann sie eintragen und sieht, ich bin dauerfest oder eben nicht.
+Wechselfestigkeit, das heißt, das hier ist meine, das ist jetzt hier die Amplitude.
+Sieht man das? Einmal nach oben und sieht man das nach unten.
+Können Sie bitte noch einmal nähern, was ist der Unterschied zwischen zweiter Biere und dritter Biere?
+Bitte?
+Ja, das ist der...
+Ja, hier haben Sie eine Biere.
+Und wir haben eine Ausschlagspannung.
+Und jetzt erhöhen Sie den Mittelwert.
+Und die Amplitude wird immer größer mit zunehmender Mittelspannung.
+Dieses Kappa, das ist das Verhältnis der Mittelspannung zur Amplitude.
+Das bleibt konstant.
+Das ist das Verhältnis der Mittelspannung zur Amplitude.
+Hier steigt der Strahlensatz, wenn Sie mal schauen, das ist wie so ein Strahlensatz.
+Hier steigt die Mittelspannung im gleichen Verhältnis zur Amplitude.
+Mittelspannung steigt im gleichen Verhältnis zur Amplitude.
+Das Kappa.
+Hier war es nochmal mit der Zugfestigkeit, der Zeitfestigkeit und der Dauerfestigkeit.
+Das Spannungsverhältnis hier ist angegeben als das Verhältnis der Unterspannung zur Oberspannung.
+Das ist konstant, wenn beide Verhältnisse durch den Oberspannungskreis gehen.
+Und bei dem Lastfall 3, wenn wir das gefragt haben, wenn ich hier Dauerfestigkeit untersuche und mache,
+mit der blauen Amplitude, die wir jetzt hier haben, diese blaue Amplitude, das funktioniert.
+Das ist aber nicht dauerfest.
+In dem Sinne, dass eine plastische Deformation eintritt, weil die Spannung bei der dynamischen
+Beanspruchung so groß ist, dass ich über die Streckgrenze komme.
+Und deshalb macht man hier oben dann irgendwie die Decke drauf und sagt, wenn die Streckgrenze
+erreicht ist, dann ist es zwar
+dauerfest so ein Bauteil unter Umständen,
+aber es gibt eine plastische Deformation,
+die lasse ich nicht zu.
+Die lasse ich als Maschinenbauer nicht zu.
+Wir kommen auf das Smith-Diagramm
+oben der Deckel drauf.
+Es könnte dynamisch funktionieren,
+aber es gibt
+unerlaubte plastische Deformationen.
+Denen das macht egal, das kann nicht.
+Dann sehen Sie hier,
+wenn Sie sich die unterschiedlichen Materialien anschauen, höhere Festigkeit im Material.
+Bei dem Stahl ist das die vorhandene Streckspannung.
+Das ist der Deckel da oben, 360, 335, 295.
+Und dieser Deckel ist sozusagen indiziert durch die Streckgrenze.
+Vielen Dank.
+Der Stahl lässt sich verborgen, der schnürt ein, der kann dann durch die klassischen Deformationen dann auch Spannungen verbrauchen.
+Das schafft zum Beispiel ein grünes Material.
+Und das schafft zum Beispiel ein grünes Material.
+Lastfall 2.
+Okay.
+Lastfall 3.
+Hier bleibt die untere Spannung immer konstant.
+Das ist der Unterschied.
+Sieht man O, die Unterspannung ist konstant.
+Also die zweite Birne, unsere Spannung ist auch unter, leicht.
+Ihre zweite Birne bleibt unter Spannung nicht.
+Nein, da sehen Sie, die Unterspannung wird in dem Fall durch größere Amplitude kleiner.
+Ah, okay.
+Ja?
+Okay, okay.
+Und hier bleibt die auf einer Kragen.
+Also ich sage es mal, wenn man irgendwas rechnen soll,
+so ähnlich, wie ich im Einfall
+in der Amtstude
+dass man sagt, was weiß ich
+Sie haben jetzt hier eine Oberspannung
+von 200 Megapaskal
+die Festigkeit lokal
+die Aufschlagfestigkeit
+300 Megapaskal
+die Sicherheit
+300
+200
+Was ist das?
+Okay.
+Okay, Rädern und elastische Bausteine, der ist hier jetzt die Kategorie.
+Ich möchte jetzt ein bisschen herleiten, warum das jetzt von den Leuten ist,
+wie sie folgendes betrachten.
+Also, was wir jetzt berechnen werden, sind immer elastische Beteiligungen,
+das ist ein Dienstdiagramm, immer auf der Fläche bleiben,
+damit wir diese Grenze der Kennwerte nicht verlassen.
+Und dazu brauchen wir die Achtungsweise, die man wieder beachten kann.
+Amen.
+Amen.
+Vielen Dank.
+Das ist ein Platz,
+Da liegen jetzt die gesamten Lasten des Bauteils auf dieser Feder.
+Der Kunststoff an sich.
+Das sind Ersatzbauteile für eine Plattfeder aus Metall.
+Was passiert, wenn so eine Plattfeder aus Metall auftritt?
+Das sind mehrere Stahlbauteile, die mit Reibung miteinander verbunden sind.
+Was passiert, wenn Reibung im Bauteil herrscht?
+Es dämpft. Es nimmt den Schlag, der da kommt, raus und hier sieht man das jetzt.
+Das ist ein alternativer Stahlbauteil mit Klappfeder, wo die Bauteile aneinander vorbeirutschen und somit eine Dämpfung machen.
+Das hat man besonders bei großen Lasten in solchen Bauteilen.
+Die Funktion ist es jetzt, einen Schlag, der auf die Karosserie wirkt, abzufangen und zu dämpfen.
+Wenn Sie mal ein Auto gesehen haben, wo der Dämpfer, das Fahrzeug kaputt ist, auf der Autobahn,
+wenn Sie da vorne an das Rad zu schwingen, da wird ein Schlaglok fährt, das hört nicht mehr auf.
+Wenn die Feder, wie verantwortlich ist, diesen Schlag ausnimmt, das geht, und der Dämpfer soll das abgänzen.
+Wenn wir das nicht machen, dann schwingt dieses System schon nicht mehr auf.
+Das sieht man manchmal, wenn auf der Autobahn Fahrzeuge unterwegs sind,
+So eine Bodenwelle durch und dann hat das Rad nicht mehr aufgeschrieben.
+Das ist natürlich für die Fahrzeugkarosserie eine einzige Katastrophe.
+Es ist schade, dass der Ton weg ist, weil er so ein paar schöne fachliche Begriffe sagt.
+Das kannst du ja auch nicht mal tun.
+Hier sieht man so eine typische Konstruktion.
+Das ist die Klappfeder, die ist vorne aufgehängt.
+Das ist die Achse, kommt ein Schlag von unten, nimmt das Bauteil mit der Formation auf und soll das dämpfen.
+Hier hat man zusätzlich das Ganze in einer sehr luxuriösen Variante ausgeführt,
+wie so ein Luftdämpfer, eine Luftfederung.
+Das ist ein Gummiball, der wird zusammengedrückt.
+Die Luft, die da drin ist, wird zusammengedrückt, komprimiert,
+Das ist die Bewegungskraft und es führt auch dazu, dass die Stimmung dort gedämpft wird.
+Dann haben Sie zusätzlich zu dieser Luftfederung noch eine Dämpfung drin.
+Und Sie können jetzt, indem Sie den Blasen, den Balg, diesen Gummibalg aufpusten mit Druck,
+die Federhärte einstellen.
+Und das ist so das Komfortabelste, was man machen kann, ist diese Luftfederung,
+weil die in der Lage ist, die Federsteifigkeit einzustellen.
+Hier sieht man das jetzt, ein Beispiel für das Kunststoffbauteil,
+typischerweise dann, normalerweise sind Stahlfeder das Vorteil für den Kunststoff,
+die Idee, warum macht man das?
+Was ist vom Werkstoffverhalten, hat das Material selbst eine Dämpfung?
+Wie ist die Lage, so eine Schwingung besser abzufedern und es schneller zu machen?
+Zum anderen ist es rostet nicht, da gibt es keine Gefahr der Korrosion, es ist sehr feuerfestes Material.
+Es bietet also die größten Vorteile wie nur die Hälfte.
+Die Plattfeder bietet 16 kg mit Grundfahrzeug.
+Und eine Stahlfeder ist in der Konstruktion 16 Kilo die Kutscherfeder und 32 Kilo die Klappfeder für den Stahl.
+Jetzt fragt sich man sich natürlich auch, was kann man über diese Form dieser Feder dann sagen.
+Wichtig ist, wenn wir jetzt Maschinenelemente machen, wenn wir Schraubverbindungen machen,
+wenn wir Mietverbindungen machen, wir wollen immer elastischen Bauteilverformungen,
+die wieder zurückgehen und die unter Umständen, wenn es eine dynamische Beanspruchung ist,
+ist, dann auch zu einer Dauerfestigkeit
+der Bauteile führt.
+Dazu braucht man das Verformungsverhalten.
+Und nicht alle Werkstoffe,
+wie die Stähne, reagieren
+mit
+einer Kraftwegänderung.
+Unterschiedliche
+Warnspurungsformen, die wir haben,
+Zugdruck, Biegung,
+wir haben als
+weiteren Lastfall
+die Torsionen. Wir müssen jetzt die Antwort
+des Materials messen.
+Die Antwort des Materials ist entweder
+eine Federkraft, meine Kollegen, wenn ich am Bauteil ziehe, dann messe ich den Performancewiderstand.
+Eine harte Feder hat zur Folge, dass das Vorhandensein einer Kraft zu einer geringen Deformation führt.
+Hier dieses F2, oder auch F1. Dabei befindet sich das jetzt in dem Fall auf einer Graben.
+Das ist klassisch der E-Modul, als Werkstoff kennen wir.
+Habe ich einen hohen E-Modul, habe ich eine harte Feder.
+Habe ich einen niedrigen E-Modul, habe ich eine weiche Feder.
+Und das Ganze wird auch genannt nach dem Bug, ein Bug.
+Und wird sehr häufig dann als Bugsche Feder getragen.
+Und die Feder.
+Dann kommt die Last, die führt zu einer elastischen Verformung und geht wieder zurück in den Ursprungszustand.
+Und...
+...mögliche Feder.
+Für den Hook haben wir gesagt, der E-Modul ist eine entsprechende Kenngröße.
+Wie kann man eine Feder auch hart machen?
+Mit einfachem Zugversuch.
+In dem Sinne, wie kann ich den Performungswiderstand erhöhen?
+Das war eine vorhandene Kraft, die Performung kleiner wird.
+Was müssen Sie tun?
+Schlechte Temperatur arbeiten.
+Temperatur sehr kompliziert.
+Durchmesser.
+Durchmesser. Probe, Probe, einfach dicker machen.
+Das heißt, wir brauchen jetzt Formeln und Kenngrößen, um die Steifigkeiten bestimmen zu können.
+Dann handelt es sich um dieses Weg oder Kraft-Verformungs-Technik hier oder eher wie.
+und das ist jetzt nichts anderes
+als die Steifigkeit
+C ist nichts anderes als F
+durch S
+der hat es jetzt hier als F gezeichnet
+und wenn wir eine Torsionsbeanspruchung haben
+das ist die Torsionssteifigkeit
+Jetzt zum Beispiel hier ein Zugversuch.
+C ist das Drehmoment, das vorhanden ist.
+M durch Phi, das ist die Igeländerung.
+Hier wird das auch oft bezeichnet, das ist das Moment.
+Zum Beispiel ein Drehmoment, das wir akzeptieren,
+Das ist ein Torsionsstab, der eine Anbindung von Torsionen vorhanden ist, den Bauteilen.
+Ja, das ist die Überlagerung. Wo ist denn eine Torsionsbeanspruchung?
+Die Vor- zum Beispiel, Antriebswelle, kriegt vielleicht aber auch ein bisschen Übung mit, aber ihr habt in der ersten Runde eine Antriebswelle und eine Portionsbahn.
+Und die Radnase auch.
+Radnase.
+Und da führt das Moment, was eingeleitet wird, zu einer Deformation, zu einer Portion.
+Wie kann man die Steifigkeit bei so einer Torsionsbeeinstellung erhöhen, damit es weniger
+Verformung gibt?
+Machen wir Durchmesser größer oder wir machen eine Hohlwelle.
+Haben wir am Anfang mal gesagt.
+Die Hohlwelle, da brauchen wir weniger Material und gehöre einem höheren Verformungsniveau
+Und da sieht man jetzt, wie würde man so ein Verhalten nennen?
+Das nennt sich progressiv.
+Können Sie das mal vielleicht dazuschreiben?
+Das nennt sich progressives Verhalten.
+Mit zunehmendem Federweg wird das Delta-F immer größer.
+Der Widerstand gegen die Verformung wird immer größer.
+Und das will ich zum Beispiel bei der Plattfeder haben.
+Bevor ihr an den Anschlag geht und eine große Amplitude kommt, möchte ich immer eine harte Gegenantwort haben.
+Bei einem leichten Schlag gibt es eine weiche Federung.
+Wird die Versorgung größer, dann muss das Ding hart reagieren.
+Ansonsten geht es gegen den Anschlag.
+Das ist immer noch so ein Ruhigstopfen, der als Anschlag dient und dann das Ergebnis.
+Am Anfang will man ein weiches Verhalten und dann, wenn große Deformationswege kommen,
+ein hartes Verhalten, das nennt man progressiv.
+Das will man zum Beispiel bei der Dachse haben.
+Sie können sie über die Geometrie erreichen. Zum einen über Werkstoffeigenschaften.
+Das ist das hier.
+Das ist die Ableitung, die wir mathematisch machen.
+hat kurz eine zunehmende
+Zeitung
+mit F
+und damit
+dieser Begriff
+abgedeckt zu einer Zeitung
+zunehmender
+Verformungsniveau erscheint.
+Das können Sie jetzt
+kontrollieren.
+Hier seht ihr, ich habe die Tangente hier mal angelegt bei niedriger Spannung, die Tangente steil.
+Bei höherer Spannung wird die hier rechts immer flacher.
+Ja, dann nimmt sozusagen die Steigung ab und die Grenze nennt sich dann die Kissen.
+Und je nachdem, was Sie haben wollen, wird es so eingestellt.
+Wenn wir jetzt zum Beispiel eine Schraubverbindung machen,
+wir kommen gleich ein paar Beispiele,
+warum diese Betrachtung von Federn durchaus legitim ist
+und wir deshalb dann auch so ein paar Federn berechnen werden.
+Fragen dazu?
+Vielen Dank.
+In dem Fall eine Steigung, der anfänglich steil war, wird geändert.
+Das ist progressiv.
+Wenn wir anfangen, eine kleine Steigung.
+Gehen Sie weiter zur Verformung, die Steigung wird immer steiler.
+Der Widerstand in der Verformung wird größer.
+Wenn wir jetzt diese Feder zusammendrücken, weil ein Schlag kommt von der Achse,
+dann wird der Widerstand immer stärker, je weiter es verformt wird.
+Wir können das nicht lesen.
+Wir können das nicht lesen.
+Was ist der Verformungswiderstand, wie viel er kann?
+Wo ist der Verformungswiderstand größer?
+Bei der harten oder bei der weichen Feder?
+F über S, diese Kraft F führt bei der harten Feder zur Deformation.
+S, das ist, und bei dieser weichen Feder, zu dieser Deformation, ja, Feder 1, Feder 2, S1, S2,
+welche Feder hat den höheren Verformungswiderstand?
+Der Verformungswiderstand heißt auch Widerstand gegen Verformung.
+Verformung ist S.
+Widerstand gegen Verformung ist die Steigung der Kragen.
+Ja.
+Die Steigung hier ist hoch, die Ableitung.
+Steigung gering.
+gering heißt weich
+steigung hoch heißt hart
+in dem Diagramm
+ist das die Steigung
+ist lokal anders
+am Anfang weich
+mit zunehmender Verformung
+wird die immer steiler
+die Steigung nimmt zu
+der Verformungswiderstand steigt
+mit zunehmender Verformung
+Der Verformungswiderstand von Materialverhalten ist der E-Modul.
+Wenn wir Kunststoffbauteile testen, haben wir ganz häufig Zonverformungsverhalten.
+Am Anfang ist der Kunststoff hart und wird mit der Zunehmung der Verformung immer weicher.
+Was wir verhindern müssen, sind plastische Bauteilreformationen.
+Das kann man zum Beispiel auch über Geometrie einstellen, ob das jetzt ein effizientes oder ein offizielles Verhalten ist.
+Fragen?
+Also, ja.
+Also, bei offiziell ist es erst gleich, dann wird es aber hart.
+Ja.
+Okay.
+Genau, die Steigung wird größer.
+Also der Verbauungswiderstand ist die Steigung der Graben.
+Und hier ist es halt jetzt keine Gerade, sondern der Tangente.
+Über den Anweg, mathematisch gesehen, die erste Ableitung.
+E-Modul war immer der Verbauungswiderstand als Materialentgrößerung.
+Über die Bauteile, über den Querschnitt können wir jetzt die Steifigkeit von unseren Bauteilen anpassen.
+Oder zum Beispiel beim Zugversuch die Einspannlänge.
+Wenn ich eine kurze Einspannlänge habe und habe eine Kraft, die Verlängerung L,
+habe ich eine große Einspannlänge, wird die Vergrößerung bei gleicher Kraft größer werden.
+Die Probenverlängerung, die Einspannlänge.
+Und deshalb werden wir daraus später mal so Steifigkeitskennwerte formulieren.
+Deshalb betrachtet man sehr häufig Bauteile bei den Maschinenelementen sozusagen als Feder.
+Wenn ich zwei Platten haue, rauche ich die zusammen oder vermiete die und bringe Kräfte rein und dann interagieren die Kräfte miteinander.
+Wie viel Kraft geht in so eine Nitreihe oder wie groß ist die Spannkraft, die ich erzeugt habe, wenn ich so eine Schraubverdeckung habe.
+Typischerweise haben wir jetzt hier Metallfeder im Blick, so eine Klappfeder, das ist jetzt hier so eine einseitige Biegung als Primärdeformation.
+Das ist die rundere Form, die sogenannte Spiralfeder. Wer weiß, wo Spiralfeder im Einsatz sind?
+Nur aufdrehen, da ist so ein Feder drin, die wird gespannt, die erzeugt eine Kraft.
+Sie speichert Energie und die sukzessive Atmung des Urhebers wird dann gedankt und die Zeit genäht.
+Soll ich das Raum federn?
+Oder als Zugfeder?
+Einsatz von Zugfedern?
+Seiner Waffen.
+Seiner Waffen.
+Okay, ich werde so sein Gedanken.
+Wenn Sie eine Masse aufhängen und etwas biegen, dann haben Sie typischerweise eine Zugfeder drin.
+Bei einer Waage, wo dann so eine Skalierung ausläuft, wie Sie sehen, 830 Gramm.
+Das ist alles mechanisch gemacht worden.
+Das ist elektronisch dann umgewandelt, aber dort sind Feder im Einsatz.
+Hier haben wir so eine Drehstabfeder, das wäre jetzt hier eine feste Einspannung.
+Der Drehmoment wird eingeleitet und es gibt eine Deformation.
+Dann gibt es nicht-zylindrische Schraubenfedern, sogenannte Tellerfedern.
+Das werden wir uns auch ein bisschen anschauen.
+Und das hier ist eine Ringfeder, weil sie mal so weit umeinsatzlich ist.
+Das sind spiralförmige Ringe, die ineinander gesteckt sind.
+Und hier zwischen diesen Ringfedern herrscht Kontakt.
+Das war wie bei der Plattfeder, die wir da hinten gesehen haben.
+Da kommt nachher noch ein Bild zu einer Plattfeder.
+Diese Ringfeder hat zur Folge, dass die Kraft dazu führt, dass der innere Ring aufgeht und der Widerstand von den Regeln kommt.
+Die Deformation wird übertragen durch Reibung.
+Das ist im Einsatz bei der Eisenbahn, wenn die Züge gekoppelt werden.
+Dort sind solche Ringfedern im Einsatz, die können die Deformation aufdehnen und die nehmen dann auch Schläge auf.
+Wenn jetzt die Bahn losfährt und dann Fläche entstehen oder dann beim Bremsen die Finger ineinander fahren, dann wird dort Reibung.
+Und diese Reibung führt dann dazu, dass der Stoß gedämpft wird.
+Fehlerverbindungen. Wie unterscheiden wir Verbindungen im Allgemeinen?
+Weil ich habe jetzt im Gegensatz zu den Amponen diesen Schwerpunkt möchte ich bei den Verbindungselementen setzen.
+Das, was man normalerweise in Maschinenelementen anfängt, dass man Verbindungen verletzend anmacht.
+Sie brauchen diese elastischen Verformungen.
+Zum Beispiel Verbindungen, die über Bild, über Beutel und Schrift gehören.
+Verzahnungen sind Beispiele.
+Passbilder zum Beispiel sind typische Verbindungen.
+Da kommen jetzt gleich ein paar Bilder, da möchte ich Ihnen das mal erläutern, warum das so wichtig ist und warum das so wichtig ist.
+Hier haben wir so formschlüssige Verbindungen, Mietverbindungen und Schraubenverbindungen über Formschlüsse.
+Wenn Sie ein Rad am Auto befestigen, dann drehen Sie fünf oder vier Schrauben rein und pressen jetzt die Fläche des Rades auf meine Antriebswelle, im besten Fall auf das Drehmoment, was dann abgetragen wird auf die Straße.
+Und das Drehmoment, hier gibt es eine kraftschlüsselige Verbindung, wo jetzt über Reibung,
+durch den Kontakt in der Fläche, durch das Anziehen der Schraube, dieses Drehmoment übertragbar wird.
+Hier wird die Schraube befestigt, typischerweise am Schluss, mit einem Drehmomentschlüssel,
+um eine definierte Kraft auswirken zu können, die dazu führt, dass dieses Drehmoment
+übertragen werden kann. Weiß jemand, wie hoch das Drehmoment ist?
+115 Meter.
+115 Meter.
+150?
+115.
+Achso, ja, ja, ja. 115 über 200.
+Typischerweise, genau.
+Der Drehmomentschlüssel, das erweicht das Drehmoment,
+fängt an zu knacken
+und diesen kleinen, kurzen Gärlauch, den man da hat, mit Kraft zu begrenzen.
+Die klassische elastische Bauteilreform, das können Sie eh nicht machen,
+weil die Kräfte, die übertragen werden, sind auch bei einer dynamischen Beanspruchung zu einer Dauertestung.
+Den Stoffschluss haben wir über Löten oder Kleben, über Schweißen,
+als Varianten mit einem Arteigenen Zusatzwerkstoff,
+Es handelt sich um Schweißverbindungen und an Fremden wäre das Kleben zu sehen oder das Löten.
+Arm- oder Weichlöten, wie wir sagen.
+Hier zum Beispiel befestigen wir die Schrauben dann als elastische Elemente betrachtet
+und spannen mit ihrer Spannkraft die beiden Bauteile gegeneinander, sodass Reibkräfte übertragen werden können.
+zu ermitteln
+überschließend Spannkraft
+einer nicht montierten Schraube
+verbreitet zwischen den Bauteilen
+Spannkraft und grober Näherung der Schraube
+mit der Festigkeitsklasse
+Spannkraft und grober Näherung
+bei den Schrauben
+gibt es immer
+Festigkeitsklassen
+wenn die dann wirklich ausgeführt sind
+hier ist zum Beispiel
+8.8 dargestellt
+also das gilt jetzt hier für die Schraube
+Wenn Sie jetzt hier unten die Mutterwerk draufsetzen, die Schraube drehen, dann führt das Drehmoment,
+was Sie hier auf die Schraube aufbringen, dazu, dass die Schraube gelenkt wird.
+Die wird länger.
+Wenn die länger wird, gibt es eine höhere Kraft.
+Die höhere Kraft drückt die Platten zusammen.
+Wir machen das so lange, bis das Bauteil da fest ist.
+Was macht man nach 50 Kilometern mit den Reifen?
+Warum lässt sie sie nach?
+Weil sie so auf Spannung wackelt?
+Sie haben jetzt 120 Nm. Da muss ja irgendwas passieren. Sie haben jetzt da, bringen erstmalig das Drehmoment raus, fahren 50 km.
+Was ist das, was man normalerweise sieht? Was passieren kann?
+Wenn Sie jetzt in diesem Fall die Mutter drehen, die Schraube wird gelenkt, in den Kontaktflächen herrscht Reibung, da entstehen auch Kräfte.
+Die Kräfte können dazu führen, dass die Oberfläche sich setzt, dass es zu kleinen Versorgungen kommt.
+Und wenn wir sonst so eine Unterlegscheibe haben, sowieso, die setzt sich.
+Wenn wir eine weiche Unterlegscheibe haben, ist das ganz kritisch, weil die am Ende des Tages zu einer plastischen Verformung führen kann.
+Macht man sich zunutze bei der Höhenablassschraube, da unten ist ein Kupferring drin, der ist sehr schön weich, der wird plastisch deformiert.
+Wir haben hier im Moment das Stück, das dann den Motor ab, damit das Höhen nicht auskommt.
+Ja, deshalb sollte man hier auch beim Ölwechsel mit wechseln, dass die dann kaputt geht oder reißt.
+Und dann gibt es eine Undichtigkeit, weil das Gewinde als solches nicht dicht ist.
+Da ist immer Harz, da ist Spiel, da kann das Gewinde ausliegen.
+Und im Zuge dessen hat das dann die Dichtigkeit zu setzen, das Setzen einer Verbindung.
+Und deshalb geht die Vorsprachkraft verloren.
+Jetzt muss man die Schraubverbindung nach so einer dynamischen Last dann nochmal nachziehen.
+Generell ist es so, die Spannkraft einer Schraube wird charakterisiert nach diesem 8,
+z.B. 800 ist die Zugfestigkeit der Schraube. Zugfestigkeit ist 800 Newton pro Quadratmetermeter.
+Hier kommt das gleich dahinten. Sorry, da sieht man es besser. Festigkeit der Festigkeitsklasse 8.8 ist 800 Newton pro Quadratmetermeter.
+Millimeter ist die erste Kennzahl, die Sprenggrenze, die wird immer dimensioniert, ist 80% der Festigkeit.
+Bei einer 10.9 habe ich 1000 Megapaskal und habe 90% dieser 1000 Megapaskal als Sprenggrenze,
+die 900er. Bei der hier waren das 640. Wenn man das für den Querschnitt betrachtet, bedeutet das,
+die maximale Vorspannkraft für so eine Schraube beträgt 9.000 Newton. 9.900 Kilogramm. 6 Millimeter
+Durchmesser, so als bildliche Vorstellung, das kann man sich ja jetzt vorstellen, hat eine maximale
+Die Spannkraft für 900 kg hängt in der Schraube in der Festigkeitsklasse von 900 kg.
+Ohne dass es zu einer gleichen Verformung kommt.
+Wir sind im elastischen Bereich.
+Das wollen wir auch bleiben für die Berechnung von Maschinen.
+N6, 8.8, 9.400, 13.700.
+Sie sehen, mit der höheren Festigkeitskennklasse, die individuelle Spannung drückt durch den teureren Gleichstoff, damit die Rechnung...
+Die Schraubverbindung soll jetzt hier über die Schraubverbindung eine Vorspannkraft erzeugt werden,
+die über die Kontaktierung der Flächen, die hier vorhanden sind, Reibung übertragen wird und Querkräfte zum Beispiel zu übertragen sind.
+Das wäre jetzt ein etwas anderer Lastfall.
+Zum Überschlag sollten maximal 35% der Vorspannung abgeschätzt werden.
+Genaue Berechnungen sind in der Praxis natürlich notwendig.
+Die Lastübertragung rechtwinklig zur Schraubenachse erfolgt reibschlüssig.
+Das heißt hier über Kontakt in den Flächen.
+Die Reibung ist dann entsprechend zu beübsichtigen.
+Da muss man gucken, Stahl und Stahl, Trocken, 0,15, Geschmier, 0,05 bis 0,1.
+Beispiel, zusammen mit Erdkraft und 4 Kilo Newton.
+Reitwert, Stahl, Stahl, 0,1.
+Sicherheit, die Durchrutsche, 2, 2 Schrauben, 2 Reitflächen, Bremskraft, die Schraube, M8, 10,9 Festigkeitsklasse, 20 Kilo Newton.
+Zum Beispiel, dass die Klärkraft hier erzeugt wird, weil die Schrauben und diese Klärkraft übertragen sind.
+Das heißt, das sind alles Dinge, die der Maschinenbauer da mit der Rechnung vermittelt hat.
+Das werden wir machen.
+Wir werden an Beispiele rechnen, wo Sie die Einbringung eines Drehmoments und Klemmverbindungen herstellen.
+Wo spielen Niedverbindungen eine Rolle in der Praxis?
+Hier gibt es einen Formschluss.
+Wir haben ein eigenes Kapitel zu Niedverbindungen.
+Da kann man sehr schön sprechen, die können dann betrachten.
+Meinetwegen, wenn Sie irgendeine Verbindung haben, wo spielen die Verbindungen eine Rolle?
+Bei Autos.
+Autos.
+Die zwei Blechteile, also die Blechteile laut der Zömmung.
+Wird der geschweißt, oder?
+Der Nied als solches, der Kopf, den sehen Sie ja dann nachher immer, der Kotflügel, der ist vorne angeschraubt, dass nichts genietet.
+Also ich sag mal, wo man häufiger nietet, ist es vielleicht, wenn man so Ausbesserungsarbeiten macht, wobei man da aber auch eher mit Schweißen tut.
+Einzel-Turm ist ein populäres Beispiel. Da werden einzelne Elemente, die werden gebohrt, dann wird der Lid da unten drauf gesetzt und dann schlägt ein Hammer den ursprünglich vorhandenen Kopf oben um.
+Und es kann kalt passieren oder auch warm.
+Wenn Sie größere Mieten haben, müssen Sie die erwärmen.
+Die kühlen dann ab. Was passiert beim Abkühlen?
+Die ziehen sich zusammen und erzeugen dann die notwendige Spannkraft.
+Das ist ein Format.
+In den Flächen wird gerne Kräfte übertragen.
+In den Flächen zur Übertragung der Kräfte sind zu berechnen,
+was brauche ich für Miet? Wie viel Miet brauche ich in der Summe?
+Und wie ordne ich diese Niete an?
+Ich möchte mal kurz langen Abstand zu dem Rand halten.
+Die Nieten sind ganz häufig die Brückenkonstruktionen.
+Ich weiß nicht, kennt ihr das, wie sie wahrscheinlich auch bei der Heisenbahn sieht man das sehr häufig,
+solche Nietkonstruktionen haben.
+Man muss dann auch berechnen, welche Kräfte geht durch das Baustein.
+Und wie werden die Kräfte durch die entsprechende Niedverbindung übertragen?
+Es wird heute häufig substituiert durch was? Durch Kleben.
+Also Nieten werden häufig substituiert durch Kleben.
+Nieten finden Sie im Flugzeugbau ganz viel.
+Also Flugzeuge werden genietet,
+da macht man das sogar bei den Carbonfaser-verstärkten Werkstoffen.
+Wenn Sie die Karbonfaser sehen, haben Sie vorher ein Loch da rein.
+Und die Flugzeugindustrie vertraut nicht zu 100% auf das Leben.
+Sie haben zusätzlich die Luft, die da drin ist.
+Die muss man überrechnen.
+Hier ist die Überschreitung der Kraft.
+Wenn Sie jetzt hier zum Beispiel so eine Schubbeanspruchung haben,
+da zieht etwas, dann wird diese Kraft da weitergeleitet,
+da hinten wird es festgehalten.
+In der Kontaktfläche gibt es Verformungen und in den Kontaktflächen werden Kräfte übertragen.
+Das nennt man dann auch Herzschüttkressung.
+Die sieht im Realfall so aus, dass die Kraft da hinten an dem Angriffspunkt maximal ist und hier vorne eigentlich null ist.
+Idealisiert macht jetzt wieder der Maschinenbauer eine lineare Spannung daraus,
+macht den vereinfachten Spannungsfall und sagt, ich gucke jetzt den Miet an, wie der verformt wird.
+Da brauche ich das Material, ich brauche die Eigenschaften, E-Modul und ich brauche jetzt hier eine Modellbildung,
+um das Ganze einer Rechnung zugegeben zu machen.
+S ist die technische, E ist der Durchmesser, Knoten, Herkfläche werden die Kräfte übertragen.
+Hier vorne herrscht Druck, da herrscht ebenfalls Druck.
+Wir machen eine idealisierte Spannungsverteilung.
+Aus der Erfahrung heraus, wenn man sich das real betrachtet,
+bedeutet das, dass im Mieten der Kontaktfläche, der unter Formschluss steht,
+in der Kontaktfläche die Kraft maximal ist.
+Das ist nämlich typischerweise eine Kehrwirkung.
+Es ist eine Kehrwirkung.
+Das wird aber nicht betrachtet, sondern wir machen das einer einigfachen Rechnung zugänglich.
+Das kommt bei gegebener Zeit, das machen wir hier zum Einnehmen über eine Scherspannung im Lid und eine Lochleibung.
+Lochleibungsdruck, das ist sozusagen hier diese idealisierte Spannung, Siegmach L, Lochleibung, wie ist das denn so?
+Gucken wir uns da noch näher an. Ich will nur mal herleiten, warum elastische Bauteilverformungen so von Bedeutung sind.
+Hier wird es dann gemacht, drei Liefen werden angebracht.
+Die Kräfte gehen hier rein, sie werden da hinten abgetragen, an der Stelle, da gehen sie rein.
+Und da sieht man, wenn man diese Auslastung nicht betrachtet, das Ganze wird als Feder betrachtet.
+Ich ziehe an meinem Blech oben, ich ziehe an meinem Blech unten und die Steifigkeiten, die Übertragung von Kräften geschieht über diese entsprechend elastischen Verformungen und die Verformungswiderstände, die man hat.
+In dem Fall ist es so, nur eine begrenzte Anzahl ist sinnvoll, weil man immer gegen die größte Kraft sozusagen auslegt und sagt, wenn ich jetzt drei Mieter habe, dann sind die beiden Äußerungen deutlich stärker belastet als der Innere.
+Die beiden Äußerungen müssen wieder stehen, damit der Innere das immer tut.
+Deshalb ist das hier ein Kurs mit einer Frage.
+und wir betrachten die Verformung als elastisch
+und gucken jetzt, dass wir gegen diese elastische Verformung den Lochleitungsdruck dimensionieren
+und wie kann man jetzt die Steifigkeit von so einem Limit erhöhen,
+also wie diese Federkonstante,
+F1, F3, die Belastbarkeit erhöhen, was wäre zu tun?
+Die Kräfte, die übertragen werden sollen, reichen nicht aus, weil das Material nicht
+ausreichend breit ist.
+Es gibt eine plastische Verformung, die will ich nicht zulassen.
+Was ist zu tun?
+Das wäre der Gedankengang.
+Ich könnte anderes Material verwenden.
+Anderes Material, also einen höher festen Lid.
+Ja, was noch?
+Ich könnte ein anderes Material verwenden.
+Ein höherfestes Lid, was noch?
+Ein dickes Anpassblech, wenn es möglich ist.
+Ich glaube, ich sage, bleib Kopfstand.
+Wir haben noch eine Option, um die Kontaktfläche zu vergrößern.
+Wir müssen den Durchmesser erhöhen.
+Wir werden solche Nied-Verbindungen berechnen. Wir werden sagen, minimale Durchmesser für so ein Nied ist, was weiß ich, 4,5 Millimeter.
+Und dann wählen Sie die Dicke höhere Durchmesser, sagen 4,5, 4,5 Millimeter.
+Und dann die Sicherheit zum Beispiel noch ausrechnen.
+Ich habe doch auch die Dicke erhöhen gesagt.
+Bitte?
+Ich habe doch auch die Dicke erhöhen gesagt, oder?
+Dicke erhöhen ginge auch.
+Aber Sie würden jetzt nicht das Plechtiger machen, um die Nied-Verbindungen...
+Nein, nein, ich meine schon die Nied...
+Ach, den Durchmesser.
+Ja, dick halt, ja.
+Sie kommt vom Fach.
+Ja, der ist ja kreisrund.
+Sie nennt den Fachmann, ich bin der Student.
+Auch hab ich kein Mikro.
+Die Dicke des Mieters.
+Okay, dann muss ich mich durch den Kopf gehen lassen.
+Aber den Unterschied kennen Sie ja.
+Wissen Sie den Unterschied?
+Hier vorne?
+Was ist der Unterschied?
+Was ist der Unterschied?
+Was ist der Unterschied?
+Was ist der Unterschied?
+Was ist der Unterschied?
+Artikel?
+Ja?
+Artikel?
+Was ist der Unterschied?
+Verstehen Sie das?
+Verstehen Sie das?
+Was sagt er?
+Was sagt er?
+Das ist ja scheiße.
+Also das eine
+gibt man beim losen
+das ist ein
+Maschinen-Element.
+Und das ist beim
+losen.
+Eine weitere Interpretation spare ich mir viel mehr Zeit.
+Der Film ist eine Ausruhe.
+Mache ich nicht, ich mache jetzt eine Pause.
+Boah, tschüss.
+20 Minuten.
+Klasse.
+Ja.
+...Bildverbindung, bleiben wir so ein kleines Kapitel machen.
+Wir sehen, wie Kräfte auf diese Blüte wirken,
+Die Klärkräfte, die Menschen, so die, die gebracht werden, wo wir dann auch so die Dimensionierung für die Technik der Technik vermitteln werden.
+Die Bauteile, eine Durchmesser-Zubereitung oder eine...
+Bei Schweiß geeigneten Stahlwerkstätten sehr häufig angewendet, benachbart.
+Was ist der Vorteil zu einer gelöbten Verdeckung im Rahmen von Stahlsträgern?
+Ich muss mal probieren, so etwas zu fahren.
+Ich habe hier die Alarm-Media-Wennwahl, ich habe hier vorne so eine Verbundgabel.
+Wenn Sie mit dem über eine sehr schlechte Straße fahren, ist die Dämpfung nahezu gleich null.
+Die Schläge gehen sofort in das Fahrwerk über, wenn Sie einen Stahlrohrrahmen haben,
+wo eine Muffe drauf gesteckt ist
+und das Ganze ist gelötet
+das hat ganz häufig zu folgen, dass die Dämpfung
+ganz ganz angenehm ist
+das kann der Stahlrahmen
+sehr gut machen mit dieser Lötverbindung
+und Schweißen ist das ein bisschen
+anders, die Qualität
+drängt ab und zählen
+auch von außen aufgebracht
+mit einer Strukturanforderung
+mit einer Situation
+weil dann spüren sich von außen diese Dinge rein
+der Strukturwerkstoff
+hat eine bestimmte Festigkeit, ein E-Modul, eine Schweißeignung oder ein Korrosionsverhalten,
+auf das hier aufgepasst werden muss.
+Ich bringe die Naht an, die sieht das Schweißverfahren aus, Zusatz, Lackstoff, Wildstoff.
+Das Schweißen machen wir bei dem Herrn Vogler.
+Grundsätzlich tragen Schweißdämpfer bei ruhenden Lasten deutlich mehr als bei exzellenten Lasten.
+Warum wäre jetzt, zum Beispiel sind das jetzt unterschiedliche konstruktive Ausführungen,
+Dinge, die man vermeiden soll und Dinge, die man eher anstreben soll.
+Zu vermeiden, dass wir wieder aufgesetzte Elemente, dass wir eine bessere Variante,
+das stimmt immer so, dieses Kraftflussprinzip, geschweißt haben,
+ist in der Regel eine von außen aufgebrachte Kerbe und hier ist ein Spannungsstift.
+Wenn wir unterschiedliche Materialien haben, in der Qualität, in der Steifigkeit,
+kann es zu Spannungskonzentrationen kommen.
+Deshalb soll man immer so ein bisschen spannungsausgleichend sozusagen konstituieren.
+Hier sind so ein paar Beispiele aufgezeigt.
+Vielen Dank.
+an dem Punkt
+da ist meistens ein Problem
+die beiden Bauteile
+die werden installiert
+die werden geschweißt
+müssen sie fixieren
+das Problem ist darunter
+die Naht durchzuschweißen
+wenn Sie dann mit so einer Kraft
+da drauf gehen
+Sie sind in der Punktzone
+dort wo jetzt der rote Punkt ist
+dort ist die Rissgefahr
+deutlich größer
+Können Sie reduzieren, wenn Sie die Naht umdrehen?
+Hier ist es so, da haben Sie einen Bereich, der kritisch ist.
+Und wenn Sie jetzt hier das Ganze in der Art belasten,
+Sie binden das Ganze nicht an, das sollte man ohnehin nicht machen.
+Wenn Sie so eine Zündnaht oder so ein Bauteil draufsetzen,
+sollte man auf beiden Seiten, sollte der sogenannte Kehlbelegter anbringen.
+die haben dann ein sogenanntes
+A-Maß mit 0,7 mal
+der Flächtige
+vielleicht hat der Kugel
+das schon gemacht
+oder halt durchgeschweißt
+wir sind so ein paar ungünstige
+Konstruktionen
+wo immer Spannungen in der Subzone
+zu Einrissen
+führen können
+wenn wir hier eine große Last drauf haben
+auf so einer Konstruktion
+dann wird die
+maximale Belastung der
+gegeneinander Einspannung sein.
+Wenn wir hier eine Schweißnaht draufsetzen,
+die relativ kurz ist,
+ist das der kritische Querschnitt.
+Wenn wir das aber so verbinden,
+wie das hier der Fall ist,
+dann haben wir da nicht mehr Fläche
+im Treppen.
+Da muss man, ich sag mal,
+im Spezialwissen generieren,
+wie ist die Belastbarkeit,
+eine grobe Daumenauslegung
+sagt, bis zur
+Sprechgrenze oder
+zu einer klassischen Deformation von 0,2 Prozent kann man 40 Prozent für eine statische Belastung
+als Festigkeitskennwert hernehmen, wenn ich eine dynamische Beanspruchung habe und nur
+noch 0,15. Das sind sehr häufig gestreifte Konstruktionen, dort wo dynamische Lasten
+Günstige Belastungsart ist immer Schub.
+Dann macht man das hier mit so einer Muffe.
+Zwei Rohrenden, die miteinander verbunden worden sind.
+Einmal mit einer Innenrufe, die da liegt.
+Das wären die Kräfte, typischerweise Zugkräfte.
+Oder wenn man jetzt den Innendruck hat,
+dadurch abgefangen, dass jetzt unterschiedliche Einträge stattfinden.
+Hier wird das Ganze jetzt abgetragen in eine Schubkomponente.
+Das Problem, was wir haben, wäre jetzt das hier,
+Ein sogenannter Stumpfsturz. Das ist super ungünstig. Die Fläche ist relativ klein, wenn die Kräfte übertragen werden.
+Eine reine Zugspannung ist auch ein Problem für so eine geklebte Verbindung. Da sollte man immer über den Schub gehen.
+Die Nachteile sind immer, dass wir Überlappungsflächen brauchen. In der Art und Weise werden aber auch dann die Beklebungen dimensioniert.
+Wir haben das gesehen bei der Karosserie von dem BMW i3, der da gebaut worden ist, wo sehr großflächig Bauteile miteinander verklebt worden sind.
+Und wir verzichten ja bei den Karun-Fahrern auch auf diese zusätzlichen Mietverbindungen, wie man im Flugzeugbau und dann auch im Hubschrauberbau, wo wir die Karun-Fahrer nehmen, dennoch zusätzlich nutzt, um Hefte einbringen zu können, übertragen zu können zwischen Bauteilen.
+Hier die Überlappung.
+Im Prinzip, da sind wir jetzt wieder bei den Werkstoffen, mit artfremden Werkstoffen, die sie zusammenführen.
+Manche Materialien leiden dazu, wenn sie sich unmittelbar ineinander verbinden,
+dass es eine Kontaktkorrosion geben kann.
+Aluminium und Stahl beispielsweise sind sehr ungünstig.
+Das können sie aber wunderbar verkleben.
+Wenn ihr Klebstoff mit guter Adhesion habt zu den beiden Fügewerkstoffen, ich sage jetzt mal, wenn man das auf molekularer Ebene betrachtet, dann sieht das so aus.
+Ich habe hier, das ist jetzt wahrscheinlich zu tief dimensioniert, hier hätte ich eben Klebstoff, ich brauche aber ein bisschen Fläche, um das entsprechend reinbringen zu können.
+Ich habe hier Werkstoff 1 und Werkstoff 2.
+Dann sind das typischerweise, ich sage mal so, wie die Materialien,
+mit denen man die Sande im Bambus ausstattet.
+Dann habe ich hier sozusagen eine Querverbindung.
+die in grün die Adhesion darstellt zu dem Werkstoff 1.
+Ich mache das andere Mal vielleicht mit dem Rot oder sowas.
+Werkstoff 2, da gibt es auch Kräfte, die übertragen werden.
+Und das, was in der Grenzfläche hier passiert, an der Stelle,
+Und dann zusätzlich an der Stelle, das ist die sogenannte Adhesion.
+Das sind molekulare Wechselwirkungen, die vorhanden sind.
+Da muss man gucken, passt mein Kleber für den jeweiligen Werkstoff.
+Was man tut, wenn das nicht so toll haftet, was man machen kann oder was in der Praxis passiert.
+Die Kräfte, die jetzt innerhalb des Werkstoffes wirken,
+Wie sind die jetzt charakterisiert, meine Kollegen, über so blaue Kräfte, da man jetzt typischerweise plastische Materialien, die miteinander Kräfte oder gemeinsame Elektroden haben, auch verlenzen.
+Das Blaue ist die sogenannte Kohäsion.
+Das ist quasi, wenn Sie nur am Werkstoff ziehen und der Werkstoff und Sie die Kleber einfach prüfen.
+Beide Komponenten sind wichtig und das Schlechtste der beiden Flieger wird hier immer versagen.
+Ich werde schon mal versuchen, etwas zu kleben, was gescheitert ist.
+Die Leute auf der Straße.
+Das klappt ja irgendwie ganz gut.
+Anderer Fall, irgendwas stehen wir auch.
+Oder Wind an.
+Dann nimmt man Sekundenkleber.
+Aber das klebt nicht immer, das klebt voll gut, aber man muss ja präzise sein.
+Also man braucht eine entsprechende Vorbereitung.
+Ja, aber Nägel kann man nicht mit dem Kleber machen.
+Auf jeden Fall ist es wahrscheinlich Adhesion, wenn wir vorher die Creme drauf geschmiert haben,
+dann gibt es keine Verbindung zwischen dem Kleber und dem Kunstmaterial.
+Die Adression ist meistens zu wenig.
+Die Kräfte, die im Kleber wirken,
+werden sehr hoch sein können.
+Man macht eine Verhandlung der Oberfläche,
+indem man zum Beispiel einen Primer aufbringt,
+um die Adression zu verbessern.
+Die Oberfläche vorbehalten.
+Zum Beispiel ein Primer oder mit den Lösungsmitteln darauf rummachen, um die Reststoffe zu entfernen.
+Ich habe eine Firma gehabt, die haben vom Schweißen Kunststoffoberflächen behandelt
+und die Psydon haltet die Mittel ganz, ganz unnötig.
+Das sind die Kräfte zwischen Fügelteilen und Krebsstoff.
+Die Kräfte innerhalb der Krebsstoffschicht sind die kohesiven Kräfte.
+Die sind normalerweise größer.
+Ich werde 30 Minuten ohne Skript machen und für die Berechnungen würde ich vorschlagen,
+dass Sie jetzt beginnen, wenn Sie Berechnungen und Übungen machen, dass Sie das auch auf
+Ihr schweigen.
+Nur die Übungen.
+Die Übungen und Unterlagen,
+die Sie in Papierform haben,
+das werden Sie nicht.
+Nein.
+Nein, wir geben einen Hinweis.
+Warum?
+Das verstehen wir alle nicht.
+Wir sind alle...
+Sie müssen da schon irgendwie
+der Abschlusszeug schon irgendwie was...
+Aber wir sind alle hier Ausländer.
+Wir haben hier...
+Also ich verstehe das Thema, muss ich sagen.
+Witzig, einmalig.
+Nee, nee, nee.
+Ich muss jetzt schon die gewisse Antwort verabschieden.
+Irgendwann kommt einer und fragt, was macht er?
+Es gibt einen Anteil, der ist 30 Minuten ohne Unterlagen.
+da hilft es, all meine Fragen zu beantworten
+und das habe ich das letzte Mal gesagt
+so in der Konstruktion
+eines Smith-Diagramms
+was ist der
+was ist der
+Obe
+Obe
+Obe
+Obe
+Obe
+Obe
+Das heißt, ich darf Übungen mitnehmen und Formeln mir selber anschreiben.
+Ich habe das wieder aufgemacht, das habe ich immer empfohlen.
+Ich habe mir hier so ein Übersichtsblatt gemacht mit den wichtigen Übungen, die sind nicht vollständig, aber ich sage jetzt mal, wenn man auch ein Kapitel heraus, wir werden dann mit dem überrechnen, den zuzufügen, wie wir anfangen, dass wir die wichtigsten Übungen auf dem Blatt haben.
+Und wie ist es damit, ich mache die Übungen, die wir jetzt hier machen, schreibe mir da die Formel raus, die wir brauchen, habe ich dann die für die Füllung oder steht dann immer ein?
+Für die Überrechnung, ja.
+Weil das war nämlich auch ein Problem von mir, dass irgendwo stand dann irgendwo noch irgendeine Formel, die man da halt nicht hatte, die man davor nicht gebraucht hat und dann kommt die Füllung nochmal hin.
+Also ich sage jetzt mal, Sie dürfen die auf Papier durchgeführten Berechnungen mitnehmen.
+Das hier mit Chat-GPT und so, das ist mir dann zu viel zu tun.
+Also ich sage jetzt mal, früher haben die Leute ja alles mitgeschrieben, da wurden Skripte ausgeteilt, die Skripte waren mitten behaftet, man hat ein bisschen mitgeschrieben.
+Und dann habe ich einen Prüfungsteil gemacht, allgemein, 30 Minuten ohne Unterlagen.
+Da geht es jetzt zum Beispiel davon, dass ein großer Anteil davon mit ihm um ein Drittel der Punkte des Smith-Diagramms funktioniert.
+Sollte man das können.
+Richtig, oder?
+Sollte man können.
+Dann gibt es ein paar allgemeine Fragen.
+Kann ich auch mal eine Beispielklausur noch mal zeigen, damit Sie wissen, auf was ich da zugreife.
+Und dann gibt es Berechnungen.
+Also Überschub beanspruchen. Ungünstig ist so ein Lastfall. Das wäre ein Schädeln. Sehr ungünstig.
+Es gibt Grundopftests, die in ähnlicher Art und Weise durchgeführt werden. Das ist eine sehr,
+sehr ungünstige Beanspruchungsart. Ich zeige da mal was. Wir haben in der Firma früher Tankplatten
+korexplodiert. Die bestehen aus einer Platte, siebeneinhalb Millimeter dick und es sind mehrere
+Schichten Material drin. Und im Kern ist eine Barriereschicht. Diese Barriereschicht hat keine
+Vergegnung zu den äußeren Schichten.
+Deshalb wird
+im Material
+eine koextribierte,
+eng anhaftende,
+sogenannte Haftvermittler.
+Der hat genau die Funktion, wenn zwei Materialien
+nicht verbreitlich sind bei der Klebung,
+zum Beispiel über eine Behandlung
+der Oberfläche eine bessere
+Verträglichkeit zu machen, um diese
+Adhesion zu erhöhen.
+Und jetzt wird die Kraft,
+der zieht jetzt hier an der Stelle,
+und über Schubkräfte wird die Kraft jetzt hier vorne reingebracht
+und abgeleitet in den Werkstoff 2, in die zweite Platte.
+Und hier werden oberflächennahe, das ist die Barriere-Schicht,
+das geht da hinten weiter, ich zeichne das jetzt nicht ein,
+gemacht und dann hat man, um zu testen, ob überall
+und, ich sag mal, ob mechanisch tragfähig dieser Haftvermittler da jetzt drin ist.
+Materialien sind nicht verträglich, sind wie Feuer und Wasser.
+Wenn Sie den Haftvermittler nicht haben, fällt die Platte auseinander.
+Haftvermittler.
+Und nochmal als Praxis, dann wird hier hinten ein Sägeschnitt gemacht.
+Man sägt hier an der Stelle rein und zieht dann die beiden Teile an der Stelle auseinander.
+Das ist eine super kritische Beanspruchung.
+Das entspricht ungefähr dem hier.
+Nur zieht man da jetzt diese Platte, die Enden werden umgebogen.
+Man zieht das jetzt auseinander und dann sehen Sie, das reißt, reißt, stoppt, reißt und dann sehen Sie über den Kraftverlauf, ob der Haftvermittler da drauf ist oder nicht.
+Und diese Adhesion, die brauchen Sie.
+Und das wird dann alles immer über Fläche gemacht.
+Auch so ein Stumpfstoß ist äußerst gut günstig über diese Zugbeanspruchung und Klebung.
+Im Rohrleitungsbau wird das typischerweise nicht geklebt.
+Bei den Muffen haben wir gesehen, wenn er feuchtig geschweißt, die Festigkeit solcher Schweißverbindungen im Kunststoffbereich ist 1,0 in der Regel.
+Das ist genauso fest wie das Grundmatrix.
+Das stellt keine systematische Versprechung dar.
+Dann solche Überlappstöße.
+Man kann jetzt entsprechend solche Verbindungen berechnen und über diese Überlappungsfläche, definiert hier als B mal Lü, können Sie jetzt die Kräfte übertragen.
+Die Kräfte müssen bekannt sein, dann können Sie diese Überlappungslänge definieren, damit die ertragbare Spannung für mein Bauteil hier gegeben ist.
+Da unten ist eine Welle-Narbe-Verbindung, das ist eine Welle, hier ist eine Narbe, Durchmesser D, da kann man in etwa dann auch über Klebstoff dann ein Drehmoment übertragen, über den Kreis.
+Schubfestigkeit von solchen Verbindungen allerdings nur 1 bis 3 Newton pro Quadratmillimeter.
+Das ist relativ wenig, deshalb brauchen wir sehr häufig große Überlappungslängen,
+was natürlich ungünstig ist für die Materialeffizienz.
+Da sieht man jetzt von der Formel, angebrachte Kraft, das ist B mal D, durch B mal D mal
+D, dann habe ich hier das G-Moment, was aufgetragen wird und über die Kreisfläche abgetragen
+Und dann kann man jetzt dann eine vorhandene Spannung berechnen und eine Dimensionierung betreiben.
+Wenn die Nahrungsverdienungen, gehen wir mal dahin, in bestimmten Anwendungsfällen müssen auch die Momente übertragen werden.
+Bei Schrägstirnrädern ist es beispielsweise der Fall, hier gibt es unterschiedliche Biologien.
+Als wir Studenten waren, haben wir, ich habe in Kaiserslautern studiert, da gab es ein gemeinsames Grundstudium in verschiedenen Fachrichtungen.
+Die klassischen Konstrukteure, die mussten immer so ein Evolettenverzahnung machen.
+An einem real vorhandenen Bauteil haben die dann immer da gestanden und mussten Radien zeichnen von 1,20 Meter oder sowas und haben diese Evolentenverzahnung da konstruieren müssen.
+Wir in der Fachrichtung Kunststoff wussten das nicht.
+Wenn Ihnen da jetzt Evolentenverzahnung über Rechnung irgendwo aufgedrückt worden ist, sowas ähnliches, weiß ich nicht,
+halte ich das
+für ein bisschen
+übertrieben, ja?
+Für die
+ich sag mal, das sind dann
+Formeln, die Sie brauchen und
+mit denen Sie umgehen können. Mir geht es
+um das Prinzip, wie
+funktionieren Maschinenelemente und wie können
+sie einer Berechnung zugänglich
+gemacht werden. Hier hat man so Keilwellen,
+hier hat man
+klassisch eine
+Stiftverbindung
+in der Welle Nabe.
+Hier wird ein Kontakt hergestellt.
+Hier ist ein inneres Moment, was herrscht,
+was übertragen wird nach außen
+und wird hier über eine Kontaktfläche gemacht.
+Das sind wieder Federn.
+Das sind elastische Bauteilverformungen
+und über die wird
+dann eine Dimensionierung
+zum Beispiel mit einer Passschlieder
+gemacht, die das Drehmoment
+überträgt, hier
+dargestellt.
+Der Formschluss ist in dem Moment vorhanden und das wird als elastisches Bauteil betrachtet, sodass dauerhaft die Bekleidung übertragen werden kann, wenn man die richtige Festigkeitskennwerte ansetzt.
+Das Prinzip, die Welle in einer Narbe zu verbinden,
+in Antriebswellen mit unterschiedlichen Möglichkeiten,
+ist einiger Formschluss zu machen.
+Die Verbindung wird durch eine bestimmte Formgebung,
+Keilwelle, Kerbverzahnung, Polygonprofile oder zusätzliche Elemente hergestellt.
+Ich habe in der Industrie gearbeitet über Extruder, ich drehe, diese Extruder werden teilweise individuell konfiguriert oder an Schneckelemente drauf gesteckt.
+Und da gibt es unterschiedliche Prinzipien. Das eine geht über so eine Fassfeder, die der Länge nach da reingeschoben wird.
+Oder dann auch beispielsweise über so eine Mehrwellenverzahnung.
+Wenn die Drehmomente größer oder kleiner sind, wird das manifestieren.
+Das ist immer auch eine Frage der Kosten.
+Reibschluss, durch reibschlüssiges Aufklemmen oder Aufpressen der Narbe auf die Welle, z.B. Achse, über Pressverbände, Kegelsitze oder Spannelemente.
+Das hatte ich in der letzten Praxis-Seminar-Studentin, die hat so eine Verbindung beim Fendt überprüft und hat geguckt, ob man automatisiert so eine Verbindung herstellen kann, um Mitarbeiterkosten einzusparen.
+Vorgespannte Formschlüsse verlegen oder halt jetzt über Stoffschluss kleben, schweißen oder löten.
+Wir haben ein paar Aufgaben dazu rechnen. Wir betrachten das Ganze immer dann als elastische Bauteilverformung.
+Vielen Dank.
+Nasenlänge, die typischerweise 1,5, 2,0 oder 1,0 bis 2,3 des Durchmessers der Verbindung betrachtet wird,
+weil wir haben auch einen Durchmesser dm für diese Richtungsform.
+Wir werden immer unmittelbar auf diese Dinge zurückgreifen für geeignete Wellen-Nasen-Verbindungen.
+Es gibt ganz unterschiedliche Anforderungen, das ist für mich dargestellt in einer vergleichenden Betrachtung, sowas würde ich jetzt mit Inhalt in einer Veranstaltung machen, wie das auch gar nicht hier ausartig ist.
+Wir haben bei der Rechnung der Festigkeiten der Welle, die wir gemacht haben, bei der dynamischen Belastbarkeit, ein paar Anlagen gemacht.
+Ich wollte Sie hier noch darauf hinweisen, das ist jetzt auch die Tabelle aus dem Olof Matek, das ist der W3L, der technologische Größeneinflussfaktor, Korrekturfaktor, KT oder also CW bezeichnet,
+je nach Reservatur, wie man das Ganze zieht.
+Generell ist es so, die Zugfestigkeit ist jetzt hier mal eins gesetzt.
+Wenn Sie keine anderen Werkstoffkennwerte haben, können Sie diese Tabelle nutzen,
+um das Ganze umzurechnen.
+Und typischerweise haben Sie immer die Zugfestigkeit.
+Beim Grauguss, Sphäroguss, ist die Druckfestigkeit hier angegeben in Klammern 1,3 mal so hoch wie die Zugfestigkeit.
+Beim Lamellen-Guss sogar 2,5 mal so hoch.
+Die Festigkeiten generell beim Grauguss, beim Sphäroguss sind ja viel höher als die vom Lamellen-Guss.
+Aber hier ist die Druckabhängigkeit und die Zugabhängigkeit der Eigenschaften noch mal deutlich ausgeprägter.
+Warum war das so? Warum ist dieser Unterschied bei den Grauguss, DJS und DJL-Namellen und hier in Kugeln so groß?
+Also diese Spannungskonzentration an den Lamellen haben im Zuge der Kehrwirkung, die entsteht.
+Wenn das Grafit in Kugeln drin liegt, ist diese Anfälligkeit deutlich geringer.
+Sie kriegen die Zugkräfte da besser durch das Material und sie kriegen nicht diese Spannungskonzentration.
+Das heißt jetzt was?
+Wenn Sie eine Schubfestigkeit haben, wird bei zähen Werkstoffen immer die Gestaltänderungsenergiehypothese verwendet.
+Und Sie können sagen, okay, wenn ich den Wert nicht habe, ist es negativ für einen Stahl,
+außer dem unter der Stern genannten, das in der Tabelle dann auch weiter aus sich führt,
+eine Schubfestigkeit, wenn Sie eine reine Schubbeanspruchung haben,
+an der Welle, die zum Beispiel
+importiert wird, können Sie
+58% setzen.
+Die Torsionsfestigkeit
+ist 58%
+die Torsionsfestigkeit.
+Die Wechselfestigkeit,
+die jetzt keine Werte haben,
+die brauchen eine dynamische
+Beanspruchung. Das ist ein Stahl.
+Und Sie wissen,
+je streckgrenzer des Materials,
+je wie Sie dimensionieren,
+dann können Sie hier
+ansetzen, die Wechselfestigkeit
+wird sich gleichzeitig der Zugdruck
+befestigt.
+Ja?
+Könnte zum Beispiel eine Aufgabe sein,
+wenn man sagt, ja,
+das müsste ja
+konstruiert werden,
+dann brauchen wir hier
+das Sigma-D nach oben,
+das Sigma-D nach unten.
+Wir haben hier
+eine Mittelspannung
+nach 45 Grad Hilfsgrade.
+Da oben wird angetragen die Zugfestigkeit RM, da unten ist die Streckgrenze RE, da oben haben wir jetzt die Wechselfestigkeit,
+wo das jetzt 1000 sind, Zugfestigkeit 40%, sind 400 Megapaskal nach oben und nach unten abgetragen.
+Und dann nehmen wir da oben die 200 rüber, verbinden die Punkte, die Abtragung, dieses Lot wird nach unten gefällt,
+Und dann ist das mein Missdiagramm.
+Was haben wir gemacht?
+Das können wir dann.
+Dann haben wir hier diesen 0,4 von der Zugfestigkeit.
+Die Ringen, die ich dimensioniere, Wechselfestigkeit und Wechselfestigkeit.
+Das ist hier mit einer Zugtruppenbelastung und das Tau ist bei einer Schubveranschiebung.
+Hier sind diese Kombinationen vorhanden.
+Sie sehen, Raufuss, GJS, GJL hat deutlich niedrigere Werte, liegen nur bei 0,3.
+Das liegt am Werkstoff, der ist nicht in der Lage, klassische Deformationen auszubauen und hat eine gewisse Empfindlichkeit bei Schwingungen.
+Hier sind ein paar Beispiele, jedenfalls aus einem Tabellenbuch heraus, wo der Maschinenbauer dann sagt, wenn ich sowas berechnen muss.
+Wir hatten gesagt, hinten drückt der Name das Feld, weil das Missdiagramm verkleinert durch sogenannte Kerbfaktoren, die immer größer 1 sind.
+die Kennwerte reduziert werden.
+Da gibt es so Parallelen,
+zwei Spiele dafür,
+die Relentenplanken 4 bis 1200,
+da gibt es diese Werte für eine Situation.
+Und wenn die überanführt werden,
+zwischen 1,2 zu 0 und 1,9 bis 2,6.
+Wir wollen das nicht in den Einzelheiten
+bis in das Letzte durchdeckten,
+aber das Konzept sollte verstanden sein.
+Und wir haben dazu ja eine Beispielaufgabe
+Hier dieser Größeneinflussfaktor, wo die Wandstärke bei vorhandener Festigkeit eines Materials und hier oben dann auch der entsprechende Zusammensetzung, zwei sind unsere Baustelle, da gibt es eine Funktion, die das Ganze befreit, oder hier den Wert Kt, Größeneinflussfaktor, wenn Sie die dann rausnehmen über die Wandstärke.
+ein Material, also eine Festigkeit von 235 Megapaskal hat,
+und Sie haben aber dann eine Wandstärke von 100 Millimeter,
+reduziert sich diese Festigkeit mit dem Faktor einfach um 86 Prozent oder so.
+85, 87, ja, das ist dann zahlenmäßig deutlich zu entdehnen.
+Hier gibt es für Kabel und unterschiedliche Kerbradien und Einflusskategorien,
+wo man jetzt über die Oberfläche den Kernfaktor zu einer Reduzierung dieses Miss-Diagramms kommt.
+Erste und zweite Verkleidung.
+Ich habe einen Studenten, der hat im Rahmen eines Praktikums ein Bauteil auslegen müssen für eine Maschinenbaufirma.
+Er musste da Spannungen betrachten und musste mit einer Sicherheit rechnen.
+Die Firma wollte gerechnet haben, dann traut es die Sicherheit von 5 bis 6.
+Das ist hoffnungslos überdimensioniert.
+Aber es ist vielleicht im Maschinenbau durchaus gängige Praxis.
+Das sind so Mindestlärsen, aber zu bestimmten Stellen werden wir nochmal zurückkommen.
+Fragen Sie hier.
+Das waren jetzt ein paar Beispiele.
+Bei all diesen Beispielen sehen Sie, wir reden über elastische Bauteilverformung.
+Das Bauteil geht nach der Wegnahme der Last wieder in den Ursprungszustand.
+eine plastische Verbrauchung geben.
+Deshalb geht man ganz häufig auf Streckgrenzen
+und die Auslegung von Bauteilen erfolgt dann über den Kontakt
+gegen herrschende Entspannungen und wie diese Kräfte, Entspannungen
+übertragen werden in ganz neue Bauteile.
+Da haben wir das Beispiel gesehen, Mut und Feder zur Übertragung von Kräften bei Wellen-Narben-Verbindungen ist durchaus ein relevantes Thema.
+Feder in ganz allgemeinen
+Vogelfeder, Schreibfeder
+Bandscheiben
+als Feder
+die auch zerbinden und dienen
+zwischen den
+Wirbeln einer Wirbelsäule
+Sportgeräte
+die federähnlich betätigt werden
+Gestaltungsparameter
+ist natürlich der Werkstoff
+die Form
+das Medium
+Vielen Dank.
+Dimensionierung dieser Parameter machen. Fragen dazu?
+Diese Flachfeder ist so ein schönes Beispiel aus dem LKW, das haben wir eben gesehen.
+Feder betrachten wir jetzt als elastische Verbindungselemente, wir gucken uns ein paar
+Wir haben jetzt gesehen, dass sogenannte Fehler kennengelernt werden, die werden eingestellt für bestimmte Belastungsfälle in Bauteilverformungen, die realisiert werden.
+Sogenannte Fehlerrate, also Fehlersteifigkeit, spielen dabei eine Rolle, Fehlerarbeit, Arbeitsvermögen.
+Es gibt sowas wie eine Musterese, das sind Energieverluste, die eingetragen werden im System.
+Diese zylindrische Feder vorhin, die wir gesehen haben, die hat die Aufgabe, Arbeit zu vernichten, möglichst viel über interne Reibung.
+Jetzt gucken wir uns ein paar Bauformen von Metallfedern an.
+Wir werden aus denen dann Formeln ableiten, wie man so eine Zug- oder Druckbeanspruchte Feder, also ein Zylinder, der gezogen wird,
+im Zugversuch, oder ein Rechteck-Querschnitt, der gezogen wird, torbiert wird oder auf Biegung beansprucht wird,
+Welche Spannen liegen davor? Was sind die konstruierenden Formen?
+Da geht es nochmal so in die Festigkeitslehre rein,
+sowie wie die beanspruchte Feder, um den Lastfall richtig zu betrachten
+und dann eine Dimensionierung entscheiden zu können.
+Das sind Dinge, die kommen immer wieder.
+Wenn Sie eine Welle haben, die kreisrund ist und es wird ein Drehmoment übertragen,
+dann brauchen Sie die entsprechenden Formen.
+Das kann man mit dem Formelstabler durchaus zusammenspielen.
+Werkstoffe für Metallfedern, Optimierung und ein bisschen Überrechnung von Schraubenfedern.
+Hier eine Feder, die auf Zug beansprucht wird, die zylindrisch hier gewickelt ist.
+Hier sitzen die Federringe press aufeinander.
+Das ist eine Feder, die wir von Fritzl kennen, die wir gar nicht hier oben kennen.
+Eine Feder aus der Esche-Klammer, die kennen Sie alle.
+Da oben ist jetzt eine kleine Klappfeder aus der Eisenbahn.
+Da sieht man, wenn jetzt ein Schlag kommt nach oben, dann wird das Ganze dekoriert.
+Hier werden dann die Metallelemente gegeneinander verschoben.
+Wenn die zurückrutschen, dann wird dieser Schlag abgedämpft.
+Damit möglichst schnell die Dämpfung eintritt.
+Hier ist es auch über so eine vorgespannte Biegelfeder gemacht worden.
+Da sieht man diese einzelnen Elemente, die bei einer Deformation, die von oben kommt,
+die Federn zusammendrückt, die Überbiegung, die rutschen dann aneinander vorbei
+und intern wird diese Reibung dann dazu, dass diese Schlagarbeit, die von außen kommt, vernichtet wird.
+So hat man das früher gemacht.
+Und diese Alternative, jetzt mit Glasfaser verstärkten Werkstoffen, ist beachtenswert.
+Wir haben das schon ein bisschen angiskutiert, das haben wir jetzt glaube ich nicht im Skript.
+Messung von Kräften sind typische Aufgaben von Federn bei der Federwaage.
+Überdrehmomentenschlüssel, Winkeländerung
+in der Folge eines
+Momentes
+können jetzt Kräfte
+auf meine Schraubverbindung
+aufgebracht werden.
+Wir haben die Aufgabe,
+schädliche Energien
+zu zerstören
+oder ich sag jetzt mal umzuwandeln
+ist der bessere Begriff
+über Dämpfung und Pufferfunktion
+bei der Uhr
+hat die Feder
+die Aufgabe Energie zu speichern
+die Kopplung von Feder
+Und Dämpfer wird beispielsweise genutzt, um definierte Schwingungsfrequenzen zu erzeugen.
+Und beim Rückler, was in Prima schon mal mit dem Betonieren an der Decke dabei gewesen ist,
+oder einer Wand, so wie man das da hinten sieht, da wird der Beton immer vertieft.
+Und wenn man einen Rückler, wenn man eine eigene Frequenz hat,
+das wird gemacht, sodass Feder und Dämpfer in Masse installiert werden.
+Beim Auto ist es genauso, wir haben die Aufhängung von Achse oder Hinterachse, Vorderachse über eine Feder,
+das ist eine Schraubenfeder, die die Schlagenergie aufnimmt und der Dämpfer, der setzt die durch interne Reibung dann um
+und vernichtet diese Schlagenergie.
+Wenn der Dämpfer defekt ist, dann fängt dieses System an zu schwingen.
+Der Ausschlag hält sehr lange an.
+Und die Dämpfung wird nicht so einig gewünscht.
+Okay, bei euch in der Maschinenwahl geht es immer um die Trage und den Übertrag.
+Haben Sie es?
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Das war zum einen die Klappfeder aus Glasfaser-verstärktem Material, aber oben waren auch Luftfedern drin.
+Das ist so die Luxusvariante. In einigen Fahrzeugen sieht man das auch.
+Da sind Sie in der Lage, über Luftdruck, in dem eine Gummifeder sozusagen diese Deformation aufnimmt,
+Es ist sehr, sehr wichtig, einstellen zu können, den Dämpfungskomfort über eine Konfession, die dort wirksam ist, und über den Luftdruck, der innerhalb dieser Fliegerung herrscht.
+Das sind Stofffedern, Gummifedern, rein aus dem Werkstoff her, der Gummi als solches, hat eine sehr, sehr gute Dämpfungswirkung.
+Wenn wir mal das Automobil beten, wenn wir Auto fahren, kriegen wir Schläge ab.
+Mit den Reifen geht das schon sehr, sehr viel.
+Es gibt Andämpfungen, umschlagartige Beanspruchungen, Abgefehler.
+Und dann haben wir die drei klassischen Lastfälle für metallische Federn.
+Torsion, Biegung, Zugdruck.
+Das waren die Ringfedern.
+Das war das hier.
+Die sogenannten Ringfeder.
+Das wird mit Kraft ausgewirkt auf den Ring.
+Die äußeren Ringe werden auseinandergezogen, die inneren werden kontrolliert und das Ganze wird über Reibung abgedreht.
+Dann haben wir da unten Beanspruchung auf Biegung.
+Das waren diese Biegfeder mit konstanten Querschnitt, geschichtete Plattfeder, Querschnitt nicht konstant.
+Da wird über Reibung, die intern zwischen den Federn herrscht, ebenfalls gedämmt.
+Und die Beanspruchung, die von außen kommt, ist absolviert und umgewandelt in Zuge dessen, dass dort Reibung herrscht.
+Bei einigen Werkstoffen findet das auch besser statt als beim Stahl.
+Symmetrische Schrauben, Bügelfedern, Tellerfedern, werden wir uns auch ein bisschen anschauen,
+die auf Biegung beansprucht werden und dann auf Torsion,
+in sogenannten Drehstabfedern, zylindrischen Raumfedern oder klinischen Federn.
+Das ist sozusagen, würde ich jetzt gar nicht abfragen,
+aber gucken uns mal so ein paar typische Fragen, die in einem allgemeinen Teil kommen, später dann auch an.
+Hier ist das Ganze in einer Wirkkörper- und Beanspruchungsart nochmal dargestellt für Bauteilgruppen,
+die über eine Kombination von Materialien verbunden ist.
+Ein gut beanspruchter Scheibenfeder.
+Ich sage mal, solche Verbindungen, wo hat man sowas?
+Das wird der Uni als Werkstoff sehr häufig eingesetzt.
+Im Maschinenbau.
+Im Maschinenbau.
+Das Federbein oder der Dämpfer im Auto ist ja oben in so einem Dom vertraut.
+Da haben Sie beispielsweise auch noch mal so einen Gummiverkstoff.
+Sie haben einen Gummiverkstoff, das ganz häufig sieht so aus wie das hier, bei der Aufhängung des Motors.
+Der Motor hat ja auch Schwingungsfrequenzen. Durch die herrschenden Hauf- und Abbewegungen der Kolben und die Drehbewegung gibt es da auch ein bestimmtes Schwingungsprofil und das sollte nicht weitergeleitet werden an die Karosserie.
+Ich weiß nicht, ob Sie mal im Auto gefahren sind, das ist in den Adels, wo dann diese Schwingungsdämpfung funktioniert und plötzlich das Fahrzeug in bestimmten Drehzahlbereichen anfängt und fängt an zu vibrieren.
+Das kommt ganz häufig dann vom Motor, weil die, ich habe einen Schaden in so einer Aufhängung gehabt,
+wo der Gummiwerkstoff defekt gewesen ist, man wird das quasi von Metall zu Metall da wieder weitergeleitet.
+Und dann haben Sie da ein Riesenthema mit der Schwingungsdämpfung.
+Also Gummiwerkstoffe beansprucht auf Zug, Druck, Schub oder Torsion,
+Kompressionen werden typischerweise genutzt, um Schwingungen zu dämpfen oder Schwingungen zu entkoppeln.
+Das, was an Schwingungen aus dem Motor kommt, möchten Sie nicht weitergeben an die Karosserie.
+Geräuschemissionen von Fahrzeugen kommen ganz häufig in die Schwingungen und müssen Sie isolieren, wie Sie sie rausholen.
+Ein schönes Beispiel, wo man dann auch was der Praxis kennt.
+Kunststoffbauteile haben in der Regel eine deutlich bessere Dämpfung und leisten einen Beitrag dazu, dass die Geräuschemission geringer ist.
+Man hat früher immer Ansaugkümmer bei den Verbrennungsmotoren aus Aluminium gemacht, die haben immer so eine Schmierungsneigung.
+Die können Sie rausnehmen, wenn Sie Kunststoffbauteile haben, was dazu einen Beitrag leistet, dass diese Motoren einfach dann leiser laufen.
+Wir werden uns jetzt erst einmal
+Feder-Kennlinien, Feder-Raten anschauen
+welche Arbeit wird dabei verrichtet
+und was bedeutet es, wenn man Federn
+hintereinander oder parallel schaltet
+Wir haben schon das Bild gehabt
+Bei einer linearen, reibungsfrei vorhandenen Federkennlinie
+laufen wir auf dem Kraftwegerinnerungsgraden auf einer Gerade.
+Das nochmal zur Erinnerung.
+Das war eine lineare Kennlinie.
+Die liegt auf einer Geraden, das wäre meine hübsche Feder.
+Bei härter, bei einer Progression,
+das sieht jetzt so aus, dass es am Anfang so geht,
+das ist diese progressive Kennlinie.
+Diese Plattfeder, die wir vorhin gesehen haben,
+die ist progressiv ausgelegt.
+Also die Steigung, der Widerstand gegen die Formation.
+Und wenn es etwas Dekressives habe,
+wie ausgleichsrichter Kugelfeder,
+die aufs Zubehör gebuckt wird,
+zeigt dann häufig so ein Verhalten,
+wie am Anfang reagiert und dann nachher immer weicher wird.
+Das würden wir als dekressiv bezeichnen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Also, wie ist jetzt diese Kennlinie charakterisiert?
+Das heißt, wenn wir die Kraft haben, ist die Entsteigung der Proportionalitätsfaktor F ist C mal S.
+Also Spannungs-Dehnungs-Diagramm sieht man, dass E mal F ist.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Die Hektlänge habe ich jetzt hier mal als S definiert.
+Die Steifigkeit C ist also nichts anderes als F durch S.
+Die vorhandene Spannung, sieht man, ist E mal Epsilon.
+Die Y ist gleich D mal Delta L durch L0.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Man fühlt sich selbst schon und sieht mal, die Spannung, das Kraftstoff pro Fläche für den Zugversuch,
+mal E durch Delta L durch L0.
+Mit anderen Worten, das Delta L ist die Probenverlängerung, das entspricht dem S und damit die Steifigkeit
+einer Zugfeder
+F durch S
+ist gleich E
+mal A durch L0
+Das sind jetzt unsere drei Stellschrauben, um die Federscheibigkeit zu erhöhen, den Verformungswiderstand.
+wenn ich das hier höher machen will
+in Steigung
+dann kann ich das über die Geometrie machen
+indem ich
+den Querschnitt dicker mache
+den A
+indem ich die Einspannlänge
+L0 kürzer mache
+ja
+damit es weniger
+Versorgung geben wird
+und ich kann es über den I-Modul machen
+Wichtige Formel, Steifigkeit, Erfahrungswiderstand einer Zugfeder ist F durch S, in dem Fall Delta L, gleich G mal A durch L0.
+Wenn Sie bei dem Professor Sanders Maschinenbau Prüfung gemacht hätten, die Maschinenelemente, zweites Semester,
+der hat verlangt, dass Sie alle Formeln auswendig kennen müssen.
+Das ist auch ein bisschen lustig, aber das sind so, für den Maschinenbauer, der konstruieren will, sind das so Dinge, das ist Basics.
+Das muss man schon verstanden haben.
+Das ist die Steifigkeit einer Zugfeder.
+Das heißt, ich kann, wenn ich hier dieses F über S habe, F über S oder Delta L, Weglängenänderung,
+die Steifigkeit meiner Geraden ist hier das Cz.
+Die Steigung entspricht der Steifigkeit.
+ob die jetzt progressiv, regressiv ist, ich kann die Steifigkeit erhöhen, indem ich die Einspannwege kürzer mache,
+den Querschnitt größer oder den G-Modul erhöhe.
+Wenn ich jetzt die Steifigkeit von dem Ding habe, zum Beispiel die Schraube, die mit dem Drehmoment beaufschlagt wird
+und wo dieses Drehmoment in eine Zugspannung dann überführt wird in diesem Zylinderschraube,
+dass ich dann eine Weglängenänderung meines elastischen Bauteils,
+meines elastischen Verfahrens habe.
+Vielen Dank.
+Fragen dazu? Wir kommen jetzt gleich dazu, wo die gespeicherte Energie ist.
+Weil wenn wir jetzt eine hübsche Feder haben und sagen, wir laufen auf dieser Kragen rauf und runter,
+dann wird da Energie aufgebracht in das System und die müssen wir dann auch in seiner Beurteilung entsprechend mit nutzen.
+Passionssteiglichkeit.
+Jetzt hatten wir Zugdruck-Beanspruchung, jetzt kommt die Passionssteiglichkeit, dieses ct.
+Wir bringen Drehmoment ein, wir kriegen eine Winkeländerung auf einen Kreisdrehrschnitt,
+der mit einem Durchmesser d versehen ist, der infolgedessen dann einen Flächendreckungsmoment mit Rohl besitzt.
+Da könnte man sagen, dieses ct, diese Steifigkeit, der Formungswiderstand ist mt durch, das ist der Buchstabe phi.
+Ich schreibe es mal hinterher, so wie sie aber klingen.
+Und phi wird hier mathematisch gesehen im Bogenmaß.
+durch eine Berechnung
+zugänglich.
+Wenn wir zurückblicken
+und wir müssen jetzt eine Korrelation machen,
+oben haben wir das gemacht,
+das Hubschraubgesetz,
+das Thema Epsilon,
+dann gilt für die Schubspannung
+im Zuge dessen
+mt ist gleich
+Im T tauche ich das polare Widerstandsmoment und das Blaue, die Schubspannung, ist gleich jeden Mal Gamma.
+die G als Schubmodul.
+Ich habe es auf einer Seite in der Formel,
+wo man eine Korrelation
+von dem aus der Zufahrung
+veranstalteten E-Modul
+auf den Schubmodul
+umrechnen kann.
+Wenn ich die beiden Dinge
+jetzt hier kombiniere,
+kommt dabei heraus,
+dass mt
+durch Wohlen
+ist gleich
+E
+mal
+Gamma.
+Diese Winkeländerung
+Gamma
+kann man aus einer geometrischen
+Betrachtung
+ermitteln.
+2 mal Gamma
+ist phi mal d halbe
+und daraus
+ergibt sich dann
+dass das Gamma gleich
+phi mal d
+durch
+2
+Das ist ein L.
+Also, Groß L mal Gamma.
+Das ist eine Über-Winkel-Betrachtung.
+L, also diese Umrechnung dieses Winkels in diesem Winkel,
+über die Länge betrachtet,
+Es geschieht über eine Relation L mal Gamma ist gleich V mal E halbe.
+Und daraus ergibt sich dann, dass das Gamma V mal E durch 2 L ist.
+Das kann ich jetzt hier einsetzen.
+Amen.
+Okay.
+Die Kopplung der Steifigkeit einer Stationsfeder
+über das eingetragene Moment,
+was zu dieser Winkeländerung
+Fie führt.
+Das ist die Proportionalität.
+Wo ja F mal S war,
+ist jetzt hier CT mal Fie.
+Die Kopplung hier geschieht jetzt bei den genetischen Kenngrößen.
+Das polare Flächenträgernmoment lässt sich das Widerstandsmoment und das polare Flächenträgernmoment umwandeln.
+mit der Information, dass E gleich 2 mal I Kohl durch E ist.
+Mit anderen Worten, die Steifigkeit von so einer Torsionsstabfeder an Zug E mal A durch L Null als Endlösung.
+Der Verbraucherswiderstand von so einer Passionsstabfeder ist G, das ist der Schubmodul, das ist der E-Modul bei einer Schubbeanspruchung und ist eine Frage des polaren Flächenschrägheitsmoments und der Länge.
+Je länger die Feder, desto geringer ist die Steifigkeit.
+Und ich kann das über dieses polare Flächenträgheitsmodell machen.
+Jetzt würde ich einfach mal eine kurze Koppelung machen.
+Vielen Dank.
+Wenn wir also jetzt im Maschinenbau diesen Lastfall Torsion haben, das war Seite 34,
+da waren wir in dieses polare Flächenträgwerksmoment in Bezug auf Torsion.
+Wenn ich jetzt eine Torsionbeanspruchung habe und einen möglichst hohen Widerstand gegen Verformung,
+im Zuge der Torsion haben möchte, würde ich dieses Querschnittsprofil wählen.
+Sie müssen die Masse nach außen bringen, durch den entsprechenden Abstand,
+und kriegen dann einen wunderbaren Widerstand in der Torsion.
+Wenn Sie solche offenen Profile haben, wie der Schlüssel nach hinten raus,
+und der Vollkreisquerschnitt ist eigentlich auch unbegünstigt.
+Wenn man eine Antriebswelle hat im Automobil, dann haben Sie eigentlich immer so gewickelte Wellen oder Wellen größeren Durchmessers, die wieder hohl sind und die nicht so einen Querschnitt haben.
+Hier wird das Material besser ausgenutzt. Die Frage ist, was sind das jetzt für höhere Fertigungskosten, wenn ich das im Vergleich zu so etwas habe.
+Aber das hat per se bezogen auf die gleiche Masse und damit den gleichen Querschnitt
+einen vierfach höheren Widerstand gegen Verformung, wenn das so angeordnet ist.
+Vielen Dank.
+Lastfall bis hier
+F1 fahren
+und damit zu S1 führt,
+die
+gespeicherte Arbeit
+im Prinzip
+nichts anderes als diese Fläche
+unter der Kurve.
+Wenn wir eine Zuchtbeanspruchung haben
+oder eine Druckbeanspruchung,
+setzt die sich dann jetzt zusammen als W, das fehlt Ihnen, ist gleich ein Halb mal F mal S-Max.
+Was hat er da jetzt gemacht?
+E ist gleich 1 halb mal F S max.
+Das ist die maximale Speicherenergie.
+Jetzt mal unabhängig davon, dass das eine Gerade oder keine Gerade ist.
+Die Fläche unter der Kurve ist die gespeicherte Energie.
+Und wenn ich das F jetzt ersetze, F ist C mal S,
+dann kommt da hinten raus, so wie er das jetzt berechnet hat,
+Das ist ein Halb-C mal S-Quadrat.
+Fragen dazu?
+Das Arbeitsvermögen einer Feder sagt nicht nur das reale Verhalten aus.
+Ich habe jetzt hier mal zwei Federn hingemalt, die haben im Prinzip eine unterschiedliche Steifigkeit.
+Das C1 ist größer als das C2, das F1 ist größer als das F2, das Maximalkraft, sage ich jetzt mal,
+und das S1 ist kleiner als das S2.
+Das sind jetzt
+zwei unterschiedliche
+Federn, die unter Umständen
+ein gleiches Arbeitsvermögen
+oder eine identische
+Verformungsarbeit machen,
+wo aber die Federkennlinien
+unterschiedlich sind.
+Die Fläche unter der Kurve ist identisch,
+aber
+ein komplett anderes
+Charakteristikum.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Das ist die Parallelschaltung von den Federn.
+Das würde dem Modell entsprechen.
+Der Gedanke dahinter, also eine Parallelschaltung, wäre es jetzt,
+ich habe zum Beispiel die Kraft, die hier unten angreift,
+und ich möchte berechnen, wie das S aussieht, die Federverlängerung.
+Wir haben jetzt drei Federn hintereinander gestaltet.
+Was passiert denn da?
+Das ist eine Parallelschaltung.
+Dazu machen wir das nächste Mal dann auch eine Übung.
+Das ist jetzt die Führung, das fängt nicht an zu wackeln.
+Die Kraft geht zentrisch durch, geht durch alle Federn.
+Was heißt das für die Kräfte?
+Die Kraft wird aufgeteilt auf F1, F2, F3.
+Was passiert mit dem Weg, wenn die Kraft angreift?
+Wir machen alle den gleichen Fehlerwege.
+Wenn wir so ein System haben, in dem die Fehler präsent drin sind,
+haben wir hier das Prinzip, dass die Kraft, die jetzt hier durchgeht,
+aufgeteilt wird auf die 3 Kräfte
+F1, F2, F3
+wenn wir Kräfte gleich gemischt machen
+und es findet statt
+eine Addition
+der Kräfte
+F
+F1
+plus F2
+plus F3
+S1
+ist gleich
+S2
+ist gleich S3
+Die Gesamtfederseitigkeit
+CS ist
+F
+durch S
+ist gleich
+F1 plus
+F2 plus
+F3
+durch S,
+dass der immer identisch ist.
+Und dann kriege ich hier F1
+durch S
+plus
+F2 durch S
+plus F3
+durch S.
+Und damit ist C Gesamt.
+Da hinten haben wir wieder
+Das ist das jeweilige C1 plus C2 plus C3.
+C ist F durch S und F ist C mal S.
+Und deshalb ist die Gesamtsteifigkeit bei einer Parallelschaltung C1 plus C2 plus C3.
+Okay?
+Kräfte werden aufgeteilt über die drei Komponenten.
+Der Weg ist immer identisch und die Gesamtsteifigkeit einer solchen Konstruktion
+ergibt sich aus den additiv miteinander verknüpften Einzelsteifigkeiten der Liga.
+Wenn Sie da jetzt 3 mal 200 hin machen, haben Sie 600.
+Newton pro Zentimeter.
+Parallelschaltung
+Parallelschaltung
+ab 4
+Steifigkeit
+Gesamtsteifigkeit
+Noch eine Trägerei
+Okay
+Vielen Dank.
+Ja, ja, ja.
+Wir können das auch als Druckfeder machen.
+Da kann man sich vielleicht besser vorstellen.
+Ich habe jetzt hier ein Element, hier ein Zwischenelement und ich habe jetzt hier diese Federn.
+Und da oben wird die Kraft F.
+Das ist jetzt, sorry, wir sind weiter.
+Das ist Seite 111.
+Das Ding macht S1, das ist C1, das ist C2 und das hier macht S2, das ist S1.
+Jetzt geht die Kraft von oben nach unten durch alle Federn hindurch.
+Die Kraft ist jetzt konstant.
+F ist gleich F1 ist gleich F2.
+Die ist konstant und geht durch alle Federn hindurch.
+Die Kraft, die da jetzt durchgeht, wird bei dem C1 ein S1 zur Folge haben und bei dem S2 ein S2.
+Das heißt, die Performancewege S1 plus S2 ist gleich S Gesamt.
+Die Steifigkeit C
+Gesamt
+ist gleich
+die große Kraft S
+durch die Gesamtdeformation S
+Gesamt
+Wenn wir weiter aufstellen, gehen wir dazu über und sagen, okay, wenn wir das jetzt hier nochmal aufteilen, ist das F, das große F, durch S gesamt, ist gleich S1 plus S2 aus der oberen Gleichung einfach entnommen.
+S1
+ist F
+durch C1
+und S2 ist F
+durch C2
+Wenn ich das hier einsetze
+C Gesamt ist gleich
+F durch
+1 durch C1 plus F durch C2.
+Jetzt kann ich das F da rauskürzen.
+1 durch 1 durch C1 plus 1 durch C2.
+Letzte Kette noch bilden.
+Und raus, C-Gesamt ist gleich 1 durch 1 durch C1 plus 1 durch C2.
+Die Kräfte gehen jetzt durch alle inneren Gleichmäßigen durch.
+Die Steifigkeit des Gesamtsystems wird bei Hintereinanderschaltung entsprechend geringer als die Einzelschleifigkeit.
+Das System wird weicher, weil die Kräfte durch alle Federn durchgehen und die Wege agiert werden.
+Wir sind hier in der Parallelschaltung.
+die Steifigkeit von 10 Nm pro Millimeter.
+10 Nm, 10 Nm.
+Dann haben Sie hierbei
+einmal hintereinander
+10 Nm sind 30 Nm pro Quadratmillimeter.
+Wie wird das hier aussehen?
+Dann haben Sie,
+wenn Sie eine Parallelschaltung haben
+und Sie haben genau die Steifigkeit
+von 10 Nm pro Millimeter.
+Wenn Sie hier 10 Newton pro Millimeter haben, dann haben Sie 1 durch 10 Newton pro Millimeter
+durch 1 Zehntel Newton pro Millimeter, ist wie viel?
+2 Zehntel Newton pro Millimeter, der Kehrwert davon ist die Gesamtsteifigkeit, sind 5 Newton pro Millimeter.
+Wir würden jetzt über Parallel- und Miteinanderschaltung von Federn eine bestimmte Position machen.
+Das würden wir uns dann das nächste Mal anschauen.
+Ein paar Rechenbeispiele, mal durchgehen, dann kommt noch eine Übung.
+Das ist die Steiglichkeit, die Verformung, die Kräfte, Spannungen, noch ein bisschen zu gestalten.
+Parallelschaltung erhöht die Schleifigkeit
+miteinander schalten und reduziert sie
+über der Einzelverhältnismäßigkeit.
+Okay?
+Dann wäre ich für heute durch.
+Vielen Dank.
+Untertitelung des ZDF, 2020
