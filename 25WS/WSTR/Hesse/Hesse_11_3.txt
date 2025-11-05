@@ -1,0 +1,1387 @@
+Zweiter Hinweis, drücken Sie sich Ihre Formelsammlung einmal aus, weil wenn ich dann auch online
+so vorwechne oder mit Ihnen das durchspreche, dann macht es Sinn, wenn Sie neben Ihrem Computer
+die Formelsammlung liegen haben und da einfach blättern können und sagen können, die Formel
+habe ich jetzt verwendet und das gebe ich hier rein oder das muss ich auswählen.
+Und vielleicht sogar auch noch einen Zettel mitnehmen, wo Sie als Notizen für Ihren späteren Spickzettel für die Klasse übernehmen.
+Gut, soweit dazu.
+Ja, bitte.
+Ist es möglich, dass Sie die Vorlesung dann vielleicht morgen aufnehmen? Ich schaffe es nämlich doch nicht heute.
+Ja, genau. Das hatte schon mal jemand gefragt.
+Und es ist ein wichtiger Punkt.
+Das hatten wir eigentlich auch so mal festgehalten.
+Das wollten wir gerne machen.
+Ich würde das auf Video aufnehmen und dann hinterher diesem geschlossenen Raum zur Verfügung stellen.
+Also soweit auch für Sie.
+Ja, ich weiß gar nicht.
+Der eine oder andere, dann erst recht nicht mein Video.
+Aber ich weiß gar nicht, ob in der Aufzeichnung, bin ich mir gar nicht so sicher.
+Ich glaube, da sehen Sie sowieso nur das eine Bild.
+Nämlich das, was ich zeige und nicht die Gesichter, die da mit dabei sind.
+Aber ja, ich würde es auch nehmen und entsprechend wird es dann bei uns im Nudelkurs mit verlängert sein.
+Das kann sein, dass es einen Tag oder zwei dauert, weil das dauert selbst von Zoom selber eine Zeit, bis die dieses Videofile überhaupt präzisieren.
+Und ich muss es eventuell noch nachbearbeiten, weil es vielleicht von der Größe her nicht geht.
+Also deswegen kann sein, dass da ein bisschen was erzählt wird.
+Gut, dann haben wir das hoffentlich soweit erstmal.
+Starten wir durch mit dem heutigen Thema.
+Wenn denn mein Gerät hier geht, ja.
+Ich wollte nochmal abholen, was wir in der Strömungstechnik gemacht haben.
+Wir haben keine 224 Folien gemacht und es ist auch nicht 2022.
+Aber sei es drum, es geht mehr um die Inhalte hier.
+Die sind vielleicht auch aus einem vorigen Jahr, spielt aber gar keine Rolle.
+Rolle. Es geht darum, dass wir uns mit Auftrieb beschäftigt haben, neben einigen anderen Themen
+und da der Hydrostatik uns angeguckt haben, wenn also irgendein Flüssigkeitsteilchen erstmal in
+Ruhe ist und aber unter Wasser ist, dass auf das zwei Kräfte wirken. Einmal die Gewichtskraft nach
+unten, das ist ja klar, und dann aber eben auch die Auftriebskraft und da haben wir gelernt,
+dass die Aufstiegskraft eben genau das ausmacht, was sie an Gewichtskraft des verdrängten Volumens
+erreichen. Und entsprechend können wir auch, wenn wir hier aufsummieren und uns das über
+eine bestimmte Höhendifferenz anschauen und diese zwei entsprechenden Deckflächen auf der
+unteren und auf der oberen Seite gegeneinander rechnen mit den Drücken, dann sehen wir,
+dass der Druck sich aufbaut als ein Basisdruck, der gilt an der Wasseroberfläche und dann
+noch dieser entsprechende Tern, der aber hier mit der Dichte der Flüssigkeit zu tun hat
+und nicht mit der Dichte des Körpers.
+Der Druck nach unten in der Tiefe, wenn sie tauchen gehen, wird immer höher und er steigt
+auch relativ drastisch an und der Druck vielleicht nochmal hier, dieses P0 kommt ja immer wieder,
+ist vielleicht gar nicht so deutlich im Vorlesungskontext bisher platziert worden, das ist der Normaldruck,
+das ist der der hier herrscht auf der Erdoberfläche unter Normalbedingungen, das ist 1,013 bar,
+Oft kann man auch mit 1 bar rechnen, der Einfachkeit halber, das ist das was wir hier auf der Erdoberfläche
+haben.
+Damit können wir rechnen mit dieser einfachen Gleichung und uns ausrechnen wieviel Druck
+herrscht hier irgendwo am Boden eines entsprechenden Wassergefäßes, wir können aber auch uns
+anschauen wieviel Druck und wieviel Kraft wird ausgeübt auf irgendeine seitlich stehende
+Öffnung und da haben wir gesehen, dass das was mit dieser ganzen Schwerpunktsthematik
+zu tun hat und wir so solche Basisinformationen haben.
+Wenn Sie in die Aufgabensammlung von der Sprungstechnik reinschauen, dann finden Sie einige Aufgaben,
+die in diese Richtung gehen.
+Da gibt es irgendwas mit einer Kräftewirkung auf den Boden eines Schwimmbeckens.
+Das werden wir, glaube ich, auch morgen, wenn es passt, rechnen und wir haben auch irgendwas,
+wo in einem Bio-Reaktor eine Kraftwirkung, auch so eine Öffnung berechnet werden muss.
+Das ist an der Stelle, eigentlich resultierend aus der ersten Folie, dann die Überlegung,
+wann geht ein Körper runter, wann taucht er auf?
+Da müssen wir uns die Dichteunterschiede anschauen, von der Dichte von dem Körper
+und dem Dichte von der verdrängten Flüssigkeit und je nachdem wie die zueinander stehen im Körper,
+entweder bleiben sie genau schweben, d.h. sie bewegen sich nicht nach oben oder unten,
+oder sie tauchen auf oder tauchen ab und dann hatten wir als Beispiel auch die Aufgabe dieser Archimedes-Test.
+Das war also das, wo man gesagt hat, man kann durch zweimal biegen, einmal im Wasser und einmal außerhalb,
+auch sich eine Info erhalten über die Dichte eines Körpers und dann vielleicht eine Legierung
+gegenüber einem reinen Material feststellen.
+Dann haben wir uns das gleiche Spiel angeguckt für, nicht die Hydrostatik, sondern die Aerostatik,
+also in der Luft.
+Was passiert da?
+Da gibt es ganz viele Phänomene, hatte ich schon gesagt, das ist sehr wichtig für unser
+ganzes Wetter geschehen und wir haben uns hergeleitet diese barometrische Höhenformel,
+interessanterweise hier dieses Minus drin, das liegt eben daran, dass wenn wir in die
+gleiche Richtung zählen und von unserer Erdoberfläche anfangen, dann gehen wir in die entgegengesetzte
+Richtung, nicht nach unten, wo der Druck immer höher wird, sondern nach oben wird der Druck
+immer kleiner, bis wir irgendwo ganz weit weg im Universum sind, wo der Druck dann gegen
+Null geht. Im Universum haben wir luftleeren Raum und im Vakuum keinen Druck.
+Und mit der Formel kann man erstmal arbeiten. Also das ist jetzt eine
+differenzial geschriebene Formel, ganz bewusst. Die lässt sich dann in
+verschiedenen Weisen in eine absolute Zahlenwert und eine rechenbare
+Vorschrift umwandeln, mit der man Zahlenwerte für Drücke in verschiedenen Höhen berechnen kann.
+Ein Beispiel, was wir gerechnet haben, war das, bei dem wir uns angeguckt haben mit der idealen Gasgleichung.
+Ich kenne aus der Thermodynamik, wie das hier sich akkumuliert mit den Drücken.
+drücken, da kriegen wir dann diese E hoch, einen bestimmten Argument, also eine exponentielle
+Formel.
+Wir hatten zuvor auch schon eine konstante Berechnung gesehen und wenn wir das Ganze
+zusammennehmen, dann haben wir am Ende der letzten Vorlesungsstunde, wenn ich mich richtig
+erinnere, ziemlich genau dieses Bild gezeichnet oder nochmal angesehen, das wollte ich noch
+einmal mit Ihnen anschauen.
+Hier sehen wir auf dieser Achse in rot den Druck, auf der anderen Achse die Höhe, da
+ist einmal markiert der Punkt des Mount Everest, weil er in diesen Aufgaben drankam und wir
+sehen eben, wenn wir dieses Modell in rot nehmen, was Dichte und Temperatur konstant
+annimmt.
+Das ist falsch, das wissen wir, aber dadurch lässt sich sehr einfach rechnen.
+Wenn wir das annehmen, dann kämen wir hier zu dem negativen Druck, das macht da oben
+überhaupt keinen Sinn, aber diese rote Formel ist eigentlich ganz in Ordnung für Bereiche
+bis, sagen wir mal 500 Meter.
+Wenn wir aber mehr als 500 Meter in die Höhe gehen, dann sollten wir nicht das rote Modell
+nehmen, da wird der Fehler dann zu groß und wir berechnen Unsinn, sondern wir sollten
+uns auf andere Modelle verlegen und das Modell, was wir jetzt hier im Vorlesungskontext hauptsächlich
+einsetzen können, ist dieses zweite Modell, das die Dichte von der Höhe abhängt
+eben und wie dieses, was ich gerade auf der letzten Folie hatte, dieses Integral da eine Rolle spielt.
+Temperatur wird aber im einfachsten Fall erstmal konstant gehalten,
+wohl wissend, dass auch das eine Vereinfachung ist, die nicht ganz stimmt.
+Dann kommen wir auf dieses Blaue hier, das ist aber deutlich näher dran, als das,
+was die Realität ist. Das liegt dann vielleicht da, wo das Grüne oder dieses Orogen ist, mit
+tabellierten Werten oder mit einem noch komplizierteren Modell. Können wir das berechnen? Also für Sie bis
+500 Meter Formel von Modell 1 nehmen, siehe Formelsammlung. Ab 500 Meter Formel, Modell 2
+nehmen, siehe Formelsammlung. Und wenn Sie ins Wasser hineingehen, dann sehen Sie schon hier,
+Hier steigt die Dichte mit einer deutlich höheren Steigung an und da haben wir nur das lineare Modell,
+denn Wasser bzw. Flüssigkeiten werden erstmals inkompressibel betrachtet.
+So weit an der Stelle das, was wir die letzte Stunde gemacht hatten, hoffentlich einigermaßen mit abgeholt.
+Wir haben dazu auch diese entsprechenden Aufgabenblätter, ich hatte gerade schon gesagt,
+hier Swimmingpool werden wir wahrscheinlich morgen rechnen. Die Taucherglücke wollen wir uns vielleicht kurz anschauen.
+Der Bioreaktor ist, glaube ich, ziemlich exakt das, was wir bei der Staudamm-Aufgabe haben.
+Also das sind genau solche Aufgaben. Hier geht es ein bisschen um Verdrängungsthematik,
+Schwimmen und Schweben, wo ein Holzbalken nur teilweise im Wasser ist.
+Und die weiter hinten liegenden Aufgaben werde ich ein Stück weit Ihnen erstmal überlassen.
+Vielleicht noch mal der Hinweis, dieses letzte hier hat relativ viel mit der einfachen Anwendung
+dieser Gleichung zu tun, die wir hier gerade gesehen haben.
+Soweit an der Stelle.
+Unten die Lösungen mitgegeben.
+Bei Fragen bitte gerne ins Forum schreiben.
+Ich will auch nicht zukommen.
+Wir wollen heute in das Thema Nummer 2 der gesamten Vorlesung, Summungstechnik, gehen.
+Wir hatten also jetzt Hydrostatik, Aerostatik, jetzt gehen wir in die Dynamik.
+Dinge bewegen sich, Flüssigkeiten oder Gase gleichermaßen und hier haben wir eine ganz
+simpel zusammengestellte Idee, bei der eine Flüssigkeit durch ein Rohr durchfließt
+von links hier nach rechts und die Frage ist, wie sieht es denn aus mit dem Druck an der
+Stelle 1 gegenüber dem Druck an der Stelle 2.
+Also das Rohr verjüngt sich, wird da schmaler und die Frage einfach mal als Quiz in den
+Raum, wenn Sie sagen, aha der Druck der fällt ab, also der wird kleiner sein hier der Druck,
+dann nehmen Sie mal die linke Hand, wenn Sie denken, ne der Druck das geht Ihnen gar nichts
+an, ob das Rohr je jünger wird, der bleibt gleich, bei keiner Hand heben oder rechter
+Hand, der Druck steigt an, wenn wir das da in diesem Rohr zusammenführen.
+Und ich überlasse Ihnen jetzt den Raum, Sie dürfen sich mal melden, links oder rechts
+oder keiner Hand.
+Okay, ich sehe von Ihnen aus, versuchen wir mal so zu interpretieren, also im Raum, so
+etwa 50 Prozent der Leute haben sich jetzt nicht gemeldet gehabt, weil sie entweder mitmachen wollen
+oder nur nicht wissen, oder doch schlafen. Und 50 Prozent haben die rechte Hand gewogen.
+Ich hoffe, ich habe das jetzt richtig interpretiert. Linke Hand kam nicht zu, genau?
+Gut, wir lassen es so im Raum stehen. Wir schauen uns nach der Pause die Lösung an.
+Wir werden dann auch sehen, wie und wieso. Und ich habe noch einen zweiten Gedanken dabei,
+der im Kontext der Vorlesung viel Rolle spielt.
+Jetzt gerade waren wir bei der Flüssigkeit, jetzt sind wir in der Luft.
+Wie entsteht der Auftrieb im Flugzeug?
+Und ich habe die Frage in der ersten Stunde schon mal gestellt,
+wenn ich mich richtig erinnere.
+Da hat auch jemand von Ihnen was zu gesagt.
+Wenn Sie wollen, dürfen Sie noch mal.
+Genau.
+Also, das ist der Effekt.
+Ich habe es gerade gesagt, ich transportiere es nochmal, vielleicht hat es jemand nicht hören können.
+Also oben über den Flügel drüber gibt es eine andere Strömungsgeschwindigkeit, eine höhere.
+Da hat die Luft einen längeren Weg zu tun, muss aber in der gleichen Zeit hinten wieder ankommen.
+Und deswegen muss die Luft da oben schneller drüber rauschen als hier unten durch.
+Und dadurch entsteht ein Druckunterschied und insgesamt eine Kraft nach oben.
+Am Ende ist dieser Effekt dafür verantwortlich, dass Flugzeuge fliegen, dass Vögel fliegen
+können, dass aber auch Dinge funktionieren wie Windräder, aber auch das Segeln oder
+Kitesurfen oder Wingfoiling oder was auch immer Sie da betreiben.
+Diese ganzen Dinge funktionieren aufgrund von diesem Auftriebsthema.
+Und das ist eigentlich ein zentraler Punkt, den wir uns heute mit anschauen werden, der
+zurückzuführen ist auf die sogenannte Bernoulli-Gleichung, die werden wir uns jetzt relativ im Staccato-Modus
+so runterdeklinieren.
+Um das zu machen, brauche ich so ein paar Grundlagen in der Fluidmechanik und dann geht
+ist um Anwendung und Sie werden sehen im Kontext der Vorlesung kommt ab dieser
+Stelle deutlich mehr in Anwendung, in Rechnung, in Umsetzung. Also bitte nicht
+erschrecken, wenn jetzt der erste Teil noch mal ein bisschen trocken ist bis zur
+Pause auf jeden Fall. Wir werden danach das dann mehr in die Tat, in die Praxis
+umsetzen und hoffentlich auch Ihnen allen ein gutes Verständnis dafür geben.
+Das ist so die Grundlage, wenn Sie diese Vorlesung gehört haben, dass Sie danach die Bernoulli-Gleichung
+können und verstehen und anwenden.
+Und ich würde auch sagen wollen, es gibt wahrscheinlich keine Klausur in der Strömungstechnik,
+bei der Sie keine Bernoulli-Gleichung brauchen.
+Das ist einfach ein ganz wichtiger zentraler Punkt.
+Wie funktioniert das Ganze?
+Wir hatten uns also vorhin im Rückblick nochmal angeguckt, was da alles der Fluidstatik ist,
+Das war also bis zur Vorlesung 2 und heute ab Vorlesung 3 geht es da rein.
+Ich gucke mal, ob mein Stift funktioniert heute.
+Das scheint der Fall zu sein.
+Hier haben wir Abforderung 3 und da werden wir uns, das werdet ihr sehen, bis auf eine
+letzte Vorlesung am Ende der Phase bis Ende Januar fast nur mit der Hydrodynamik befassen
+und dann einmal auf die Gase gehen.
+Wir nehmen das bei den Flüssigkeiten an, dass sie inkompressibel sind, also die Dichte ist
+konstant.
+Wohingegen, wenn wir uns mit der Gasdynamik, der Aero-Dynamik befassen, dann erinnern Sie
+sich vielleicht an die allererste Vorlesung, wo ich was mit Machtzahlen und einem Überschallflugzeug
+kurz gezeigt hat und dann diese Tabelle, wo wir eben die Herausforderung noch haben,
+dass je nachdem, wie schnell Gase sich bewegen, dass wir entweder in einen
+Bereich kommen, wo die auch nicht kompressibel angenommen werden oder eben,
+dass sie in den Bereich sind, wo die sich zusammenziehen können und auseinanderdrücken.
+Darf ich das Fenster schließen, wäre das für Sie okay? Dann tauche ich da bei Ihnen einmal durch.
+Entschuldigung, ich schließe das Fenster.
+So, sonst muss ich auch noch gegen diesen Laubbläser da anschreien.
+Wir haben dann in der Vorlesung 3 selbst genau diese reibungsfreien Fluide,
+womit wir die ganzen Grundlagen erklären können
+und eigentlich ab Vorlesung 4 werden wir uns dann mit der Realität auseinandersetzen
+dass die in Wirklichkeit eigentlich typischerweise
+immer Reibungskräfte auftreten und dann das Ganze auch nochmal
+ein ganzes Stückchen an Komplexität dazu gewinnt, nämlich in die Unterscheidung in Laminaren und Turbulentenstörungen
+Nichtsdestotrotz, die Grundlage für all dieses, was wir hier machen, sind eben diese Benutigreichungen
+und die gucken wir uns an.
+Um das zu tun, müssen wir uns bei Strömung erstmal überlegen, wie gehen wir damit um,
+wenn eine Flüssigkeit oder ein Luftstrom durch den Raum wandert, dann ist es ein Continuumsthema,
+Das heißt, jedes Teilchen, jeder Teil des Raums bewegt sich vielleicht ein bisschen
+unterschiedlich.
+Nichtsdestotrotz nehmen wir uns dieses Hilfsbild, dass wir da einfach mal so ein Würfel malen
+und sagen, okay, dieses Teilchen, wenn wir es nur klein genug machen, das betrachten
+wir mal so, dass es sich jetzt nicht verändert in seiner Form und in seiner Art, sondern
+durch den Raum durchwandert.
+Und wenn irgendwas wandert, dann können wir das beschreiben mit so einem Vektor und der
+entsprechend zeigt eben an, in welche Richtung hier dieses Teilchen geht, das ist der U-Vektor,
+Das ist also ein Geschwindigkeitsvektor, der ausgeht von diesem Orth, den dieses Zeichen hat.
+Das hat also einen Orthsvektor.
+Da steht dieses, ich sag jetzt mal Flüssigkeitsteilchen, kann aber genauso auch ein Luftteilchen sein oder was.
+Und das hat eine bestimmte Geschwindigkeit.
+Das hat aber auch noch andere Eigenschaften.
+wir jetzt mittlerweile zur Genüge, dass wir uns immer mit der Dichte und dem Druck befassen
+müssen.
+Das sind also weitere Eigenschaften, die dieses Teilchen jetzt hier in diesem Zustand
+mit dem großen, dicken Z geschrieben, hier hat.
+Und wenn wir uns eine stationäre Strömung anschauen, und das wird auch bei ihm im Forderungskontext
+glaube ich, durchweg so bleiben, dann heißt es, dass die ganzen Stromlinien und die Geschwindigkeitsvektoren
+konstant sind, also das heißt noch nicht, dass überall im Raum die Geschwindigkeit
+gleich ist.
+Sie hatten gerade dieses Rohr mit der Verjüngung, Sie können sich alle vorstellen, an der
+Stelle, wo das Rohr breit war, ist die Geschwindigkeit niedrig und da, wo das Rohr eng ist, ist die
+Geschwindigkeit hoch.
+Das ist durchaus erlaubt, aber Sie haben keine zeitliche Veränderung.
+Also wenn Sie an einer Stelle messen, dann werden Sie auch 5 Minuten später die gleichen Geschwindigkeiten messen.
+Das heißt stationär.
+Es passiert also die ganze Zeit das Gleiche.
+So, und was wir jetzt machen wollen und können, ist, dass wir uns Strömungsfelder angucken.
+Das haben Sie bestimmt schon mal an der einen oder anderen Stelle irgendwie gesehen.
+Hier ist ein Beispiel, das soll ein Schaufelrad darstellen.
+Hier sind irgendwelche Schaufelradblätter und zwischen diesen zwei Schaufelrädern,
+meinetwegen von einer Pumpe oder so, da läuft wahrscheinlich eine Flüssigkeit durch.
+Sie sehen hier vorne ganz lange Pfeile, die zeigen an, hier läuft es irgendwie schnell
+und hier sind die Pfeile eher klein, hier strömt was eher langsam.
+Und das Strömungsfeld ist genau dazu da, Ihnen das zu visualisieren.
+ansonsten brauche ich immer Videos, damit ich das irgendwie sichtbar machen kann.
+Und es gibt aber auch die andere Variante, sogenannte Stromlinien,
+und da ist die Idee, dass wir uns angucken, wie gehen denn einzelne Teiche durch den Raum.
+Ich erkläre da jetzt gar nicht mehr so viel mehr, schneiden sich nicht, werden wir gleich nochmal sehen.
+Wir wollen noch mal ganz kurz uns angucken, wie wir Stromlinien und Strömungsfelder voneinander unterscheiden.
+Und das ist vielleicht doch am einfachsten mit diesem Bild.
+Als erstes auf der linken Seite gezeigt, eine Bahnlinie.
+Was bedeutet das? Wir nehmen mal an, hier wäre ein Teilchen, 1.
+Das ist eben dieses Kästchen, was wir vorhin gemalt hatten, was irgendeinen Zustand hat.
+Und kurz später hat dieses Teilchen 1 in diesem Zustand, ist also an einer anderen
+Stelle angekommen.
+Und dann ist das Teilchen bei mir hier und jetzt hier hinten.
+Und so können wir uns angucken, wie geht dieses Teilchen hier durch den Raum, wenn
+wir es denn sauber verfolgen.
+Wirkt erstmal einleuchtend, mit Bahngenien zu arbeiten.
+Eine Alternative ist, mit Stromlinien zu arbeiten und bei den Stromlinien nehmen wir uns das
+ganze Ding als einen Zeitpunkt, t ist gleich konstant, t0, fix oder konstant, ich schaff
+Und was haben wir da? Wir haben die Stromlinien, das ist nichts anderes als, dass wir uns unterschiedliche
+Teilchen anschauen. Also zu einem bestimmten Zeitpunkt ist das Teilchen 1 meinetwegen hier
+und hier vorne ist irgendein Teilchen 2, das bewegt sich aber in eine andere Richtung mit
+den blauen Pfeilen durch den Vektor dargestellt und hier drüben ist meinetwegen das Teilchen
+und hier hinten ist das Teilchen 4.
+Also hier haben wir ein Teilchen verfolgt
+und hier haben wir verschiedene Teilchen
+zu einer Momentaufnahme,
+wie wenn ich ein Foto mache.
+Und Sie werden auch bei uns im Laborrundgang
+im Anfang Januar sehen,
+dass wir sowas technisch relativ gut machen können.
+Da wird Ihnen der Herr Ringholz
+dann einen Federballschläger
+Schläger mit lauter so kleinen Schnürchen dran zeigen, mit dem er in den Strömungskanal reingeht
+und dann sieht man genau, wie blasen diese Schnürchen innerhalb des Strömungskanals zur
+Seite und damit kann man für jeden Zeitpunkt so ein bisschen angucken, wo gehen die Teilchen gerade
+hin. In dem Falle die Luftströme. Interessant ist, dass man dieses hier kann man nicht so leicht
+visualisieren. Das aber bei einer stationären Strömung, bei der wir also über die ganze
+Zeit das gleiche an Situationen haben, Strom und Bahnlinien zusammenfallen. Die genaue
+Herleitung will ich Ihnen jetzt ersparen, aber wir werden im Vorlesungskontext von jetzt
+an uns nur noch Stromlinien anschauen. Also wir machen immer so eine Aufnahme, jetzt sieht
+Situation so aus und die Geschwindigkeiten sind so, so, so, so und wenn wir dem hier
+unten glauben, dann heißt es aber auch, dass das Teilchen 1 ein paar Sekunden
+später genau da sein wird, wo damals das Teilchen 2 war und genau diese gleiche
+Richtung erfahren wird und wird genau diese gleiche Bahn durchfahren, Strömungs-
+und Bahnlinie sind gleich. Dann stand auf der letzten Folie noch was, was ich hier
+vielleicht noch mal erwähnen will, aus dem Grund, dass der Druck nie negativ
+werden kann, kann man sich relativ schnell überlegen, dass sich Bahnen und
+auch Strömungslinien nie kreuzen dürfen. Wenn sie die zeichnen und die kreuzen sich
+versehentlich auf ihrem Blatt, man meint es am besten noch mal, die müssen immer
+irgendwo durch den Raum voneinander getrennt sein. Können sich beliebig nahe
+aber kreuzen tun sie sich nicht, sonst würde das ein chaotisches Bewegen heißen.
+Wenn sich nämlich zwei Linien kreuzen, heißt das auch, dass sie nicht wissen, auf welche Linie sie danach abbiegen.
+Und das heißt, dass sie irgendwann fallen.
+Wir können das Ganze dann zusammenfassen in sogenannte Stromfäden.
+Das ist nichts anderes, als dass Sie sich statt einem Teilchen jetzt mehrere auf einmal angucken
+und überlegen, wo geht denn diese ganze Schar an Teilchen hin.
+können sie sich aber eigentlich fast schon sparen, ist deswegen ausgegraut.
+Wichtiger ist die Stromröhre, die wiederum alles zusammenfasst, was durch
+irgendeine Geometrie geht und hier haben wir wieder ein Beispiel, ziemlich ähnlich
+wie am Anfang. Hier ist das Rohr breit, hier ist es eng und wir gucken uns die
+Gesamtheit aller einströmenden Teilchen, in dem Falle vermutlich Wasser, an. Hier
+Hier stehen Sie ein Geschwindigkeitsvektor, hier steht wieder W, weil es aus diesem Fachbuch
+üblicherweise so gemacht wird.
+Wir machen hier U1, hier haben wir ein U, hier steht U2, warum auch immer die in der
+Mitte keinen Index verwenden, aber so ist es dargestellt.
+Also hier ist ein Geschwindigkeitsfeld am Eingang, ein Geschwindigkeitsfeld am Ausgang
+und es deckt sich vielleicht mit Ihrer Vorstellung, hier ist die Geschwindigkeit eher klein, hier
+ist sie eher groß. Wir waren nicht nur hier breit und hier eng, sondern wir waren hier
+auch noch an einer anderen Ortskoordinate. Wir waren hier weit oben mit dem Wasser und
+hier sind wir weiter unten und dann entsprechend wird sich wahrscheinlich da eine höhere Geschwindigkeit
+einstellen. Und damit werden wir in der nächsten Zeit viel rechnen lernen. Wir können uns
+anschauen, wie solche reibungsfreien Strömungen jetzt sich verhalten. Wir können von reibungsfrei
+immer da ansprechen, wenn, wir kennen dieses Tau, das ist der Schubspannungsvektor, wenn
+diese Reibungskräfte sehr viel kleiner sind als das, was der Druck als Zahlenwert hergibt,
+Das heißt, dass diese Reibungskräfte gegenüber den Druckkräften zu vernachlässigen sind.
+Das ist leider in der Realität eher selten der Fall, manchmal bei Luftströmungen noch
+ganz okay, bei Flüssigkeitsströmungen werden Sie sehen, die Viskosität ist so hoch von
+Wasser, dass sie ganz häufig mit doch relativ großen Reibungskräften zu tun haben.
+Nichtsdestotrotz, wir nutzen das jetzt erstmal für diese einfache Herleitung und dann ab
+der kommenden Stunde geht es mit Viskosität und Reibungsthermen zur Sache, d.h. wir erinnern
+uns vielleicht an dieses einfache Beispiel, ich hatte gesagt, wenn Sie da unten an die
+Giller gehen und Blätter reinschmeißen, dann treiben die am Rande weniger schnell
+als sie in der Mitte treiben.
+Das liegt eben an diesen Haftbedingungen am Rand und an der Viskosität, an dem, dass
+der Fluss in der Mitte schneller vorwärts treibt oder im Rohr die Flüssigkeit schneller
+sich bewegt als am Rand.
+Wenn Sie dieses hier links nehmen, reibungsfreie Strömung, dann haben Sie sogenannte Propfenströmung,
+dann strömt das ganze Wasser in der Röhre gleich schnell.
+Und so sehen wir es jetzt auch auf den nächsten Folien.
+Ich habe hier z.B. wieder mit W geschrieben, ich nehme wieder das U und wir haben die Situation,
+dass auch am Rand im Gedankenspiel mal die Flüssigkeit sich gleich schnell bewegt, da
+und dort.
+Und dann können wir gleich mit diesen Kontinuitätsgleichungen rangehen, nehmen wir an, wir haben als erstes
+eben eine stationäre Strömung, die wollen wir immer haben, also hier kommt zu jeder
+Zeit gleich wie ein neues Wasser nach, ja, das ist nichts anderes als stationäre Strömung.
+Und wir haben keine Quellen oder Senken, also hier gibt es keinen Abzweiger oder irgendein
+Loch oder irgendwie neue Flüssigkeit, die mit reingeben wird durch irgendeinen Seitenarm
+des Flusses oder wo auch immer oder durch ein zusätzliches Rohrstück und jetzt haben
+wir eben diese Annahme in der Vorlesung 3 ohne Reibung, dass über den Querschnitt gestanzte
+Geschwindigkeit ist, hier außen auch, ist ein bisschen unrealistisch, glauben Sie, ja
+auch, finde ich auch, aber wir versuchen es trotzdem, dann gilt auf jeden Fall mal die
+Kontinuitätsgleichung, d.h. der Massenstrom, das was da reingeht, ist eben konstant und
+der ist nicht nur konstant, sondern den kann ich auch ausdrücken als diese Therme da,
+mit der Dichte usw., warum das so ist, das können wir uns vielleicht nochmal ganz kurz
+ein Stück weit überlegen, ich mach das vielleicht mal an der Stelle an der Tafel, wenn ich
+Massenstrom ab. Endpunkt, dann ist das nichts anderes, als dass ich eigentlich mir, ja ich
+gehe von der anderen Seite aus, schauen wir mal die Dichte an. Die Dichte ist nichts anderes
+als Masse pro Volumen, oder? Und dann habe ich da eine Geschwindigkeit als zweites Ding
+Also die Dichte, jetzt kommt die Geschwindigkeit, die Geschwindigkeit ist nichts anderes als
+irgendein Ortsvektor pro Zeit, also x Punkt, und dann habe ich da noch eine Fläche, oder,
+und das ist also nichts anderes als wenn ich, x und a kann ich zusammen nehmen, ist auch
+nichts anderes als ein Volumen, das ist V-Punkt, das heißt ich kann diese zwei durcheinander
+teilen und dann sehen Sie schon, es ist nichts anderes als M-Punkt, oder?
+Also es ist, wir machen das so, M mal V durch, V-Punkt durch V, das ist nichts anderes als
+M-Punkt.
+Das heißt man kann das sozusagen so ein bisschen rückwärts nochmal herleiten, wieso passt
+das zusammen?
+Der Massenstrom ist nichts anderes als die Dichte mal die Geschwindigkeit mal die Fläche.
+Und wenn die jetzt diese Formel konstant ist, dann gilt sie an jeder Stelle, deswegen steht
+hier alles mit Index 1, wie auch mit Index 2, das heißt, dass hier das Gesetz gilt,
+genauso wie es hier gilt.
+Und jetzt kommt noch die dritte wichtige Annahme dazu, wir arbeiten inkompressibel, das heißt,
+dass ρ gleich konstant ist. ρ1 ist gleich ρ2, ist gleich konstant.
+Und dann bekommen wir die oft als Kontinuitätsgleichung bezeichnete
+Einfachere Formel aus U1 mal A1 ist U2 mal A2
+und das ist eigentlich nichts anderes als ein Volumenstrom
+und Sie werden im Rahmen der Vorlesung noch sehen, dass das als Q bezeichnet wird, später.
+Aber ich schreibe es da gleich schon mal hin.
+Dieses Q ist nichts anderes als eine Volumendurchstürmung, wenn Sie mit Pumpen arbeiten, werden Sie
+immer wieder mit diesem Q konfrontiert.
+Also, ganz einfache Formel, das heißt, wenn hier die Fläche breit ist, ist die Geschwindigkeit
+klein und wenn dann hier die Fläche auf den Faktor 2 reduziert wird, von hier nach da,
+dann wird die Geschwindigkeit im Ergebnis doppelt so hoch sein.
+Bei Flächen müssen wir natürlich immer aufpassen.
+Wenn wir den Radius halbieren, hat das eine andere Auswirkung auf die Geschwindigkeit,
+weil er in der Fläche das Quadrat hat.
+Okay, dann jetzt die zentrale Idee mit der Brenouillegleichung.
+Die Brenouillegleichung ist nichts anderes als eine Energiebilanzierungsgleichung.
+Das heißt, wir nehmen wieder dieses Beispiel von vorhin und sagen, an der Stelle muss
+ja eigentlich die Energie genauso sein, wie sie hier ist, oder wie sie auch hier hinten
+ist.
+Denn ich habe keine Reibungskräfte, also kann keine Energie, und auch keine Quellen
+und Senken, kann keine Energie rein oder rauskommen aus dem System.
+Das heißt, alle Energie, die in der Flüssigkeit hier drin steckt, muss da unten immer noch
+drinstecken.
+Und wie kann sich Energie äußern?
+Ja, ich kann sie entweder in Form von Höhenenergie, Lageenergie, haben oder in der Form von Bewegungsenergie,
+also kinetischer Energie, oder, und das ist die letzte und in dem Falle vielleicht für Sie neue,
+Energieform, mit der wir uns hier beschäftigen müssen, das ist der Druck.
+Der Druck als Energieform, mit dem wir in den Flüssigkeiten oder in bewegten Fluiden im Allgemeinen
+eine Möglichkeit haben, Energie zu speichern und auch Energie zu übertragen,
+weil der Druck sich auf die Nachbarteilchen übertragen lässt.
+Wir haben schon gesagt, wir vernachlässigen irgendwelche Dissipationseffekte.
+Wir könnten das Ganze nur machen, wenn die Strömungsgeschwindigkeit deutlich niedriger ist als die Schallgeschwindigkeit,
+sonst haben wir diese Inkompressibilitätsthematik nicht mehr in der Realität
+Und es geht nur, wenn wir keine großen Dichterunterschiede erfahren, das hat eigentlich mehr oder weniger mit dem Thema drüber zu tun.
+Wir können uns also jetzt anschauen, wie ein Teilchen von dem Zustand 1 in den Zustand 2 kommt.
+Wir werden es nur machen, wenn die Sturmröhre vollständig gefüllt ist, also wenn ich den
+Wasserstand hier nur 3 Viertel treffe, da geht es nicht, und ja, das sind also alles
+ganz viele Einschränkungen, die nochmal wichtig sind im Hinterkopf zu behalten, die auch oft
+gerne nochmal nachgefragt werden wird, sonst passt das mit dem Benoy nicht.
+Ich darf natürlich da jetzt auch nicht mit irgendwelchen Rührern, Turbinen oder irgendwelchen
+anderen Bauteilen reingehen, also wenn ich jetzt hier eine Pumpe reinsetze, dann habe
+ich nicht mehr so ein einfaches Benui-System, weil dann plötzlich noch zusätzliche Geschwindigkeit
+entsteht oder wenn ich dann einen Generator anschließe im Pumpspeit oder im Wasserkraftwerk,
+dann wird auch was anderes passieren.
+Geschwindigkeiten sind homogen, hatten wir schon gesagt, auch am Rand und es darf keine
+Flüssigkeit verloren gehen oder dazukommen.
+Jetzt aber, wenn wir das alles glauben und das so ist, dann können wir uns diese Energiegleichung einmal aufstellen.
+Wir können uns vorstellen, dass die Energie vorher und hinterher gleich sind.
+Und wir müssen uns mit diesen drei Energieformen beschäftigen, die wir, denke ich, einfach nochmal zusammenfassen können.
+Energie potenziell ist nichts anderes als m mal g mal h, bzw. in dem Fall heißt es z, die Koordinate nach oben.
+Und kinetische Energie, das kennen Sie alle, ein halb m, Achtung nicht v, sondern u², wir haben ja hier u als Geschwindigkeit.
+Und jetzt kommt die Druckenergie. Weiß es von Ihnen jemand, wie man die Druckenergie ausführen könnte?
+Die Druckenergie steigt an, wenn der Druck ansteigt. Da ist irgendwie ein P drin.
+Und die Druckenergie hat auch was damit zu tun, wie viel Volumen wir denn unter einem
+bestimmten Druck haben.
+Und damit sind wir auch schon fertig.
+P mal V oder V mal P.
+Und wenn wir das umschreiben, dann sehen wir, das ist nichts anderes als die Fläche, die
+da durchströmt wird, mal P mal die Koordinate in die Richtung X.
+Und das, wenn wir uns nochmal anschauen, ist nichts anderes als die Masse durch die Dichte,
+das ist nämlich ein Volumen, mal den Druck.
+Also Sie kommen vielleicht am ehesten oder am einfachsten von P mal V zu dem hier unten.
+Masse durch Dichte ist nichts anderes als Volumen.
+So, und jetzt können wir die Energiegleichung aufstellen, wir haben schon gesagt, es gibt
+die drei Formen Energie, Lage, Bewegung, Druck und dann addieren wir sie einfach zusammen
+und das mache ich jetzt mal erst aufgeblendet, danach ist es einfacher zu beschreiben, ich
+Ihnen da ein bisschen was ersparen. Bei mir schreibt es ohnehin auf der Seite leider nicht.
+E pot 1 plus E kin 1 plus E p 1 und dann da drüben das gleiche für die Stelle 2,
+das ist eben Energieinhalt an der Stelle 1 gleich dem an der Stelle 2 ist und das können
+Sie jetzt im Prinzip von rechts herunterschreiben, das ist m mal g mal z1, ich habe es nur ganz
+bewusst einmal mit Ihnen hier durchdekliniert, ein halb m mal u1 Quadrat und Masse durch
+Dichte ist meistens eine gute Schreibweise, gegenüber dem anderen mal P1 und dann haben
+sich hier die zwei Seiten, vorher wie hinterher und als letztes können Sie das Ganze auch
+noch beliebig umformen, hier ist eine Variante, es wurde durch die Masse geteilt, also wenn
+ich jetzt hier alle Massen durchteile, dann komme ich auf das, was in der letzten Zeile
+dargestellt ist, das ist dann vielleicht ein bisschen ungewöhnlicher, weil es dann nicht
+mehr als Energieform darsteht. E mal Z, 1, U1 Quadrat halbe, dann steht das ja einfach nur
+Und wir sehen schon, roh ist jetzt immer konstant, also wir haben angenommen, dass die Dichte
+überall in unserer Röhre konstant ist, auch wenn wir vielleicht wissen, dass Dichte zum
+Beispiel, gerade wenn wir jetzt in die Luft gehen, auch ölenabhängig werden oder vielleicht
+Wenn Sie das Ganze so einmal mitnehmen, dann haben Sie die Bernoulli-Gleichung vor sich
+stehen.
+Die werden wir jetzt noch in ein paar verschiedenen Formen wiederfinden, aber das ist nichts anderes
+als das, was Sie in der Formelsammlung als Strömungstechnik 3.3-Formel, Formelsatz vor
+sich haben.
+Und das werden wir uns in den nächsten Folien noch genauer angucken.
+Da gibt es verschiedene Formen, die 3.3a, das ist die Bernoulli-Gleichung, so wie wir
+sie gerade uns hergeleitet haben.
+Und nichts anderes als die Gedanke, die Energie in einem Fluid ist an allen Stellen gleich
+Und sie setzt sich zusammen durch einen kinetischen, einen höhenbezogenen und einen druckbezogenen
+Tern.
+Oder hier eben nochmal so geschrieben, wie wir es zuvor gesehen haben, als Energie.
+Eigentlich im Endeffekt das, was ich gerade, glaube ich, gesagt habe, nur bei stationärer
+Stellung, nur wenn es inkompressibel ist und keine Viskositäten betrachtet werden.
+Und was können wir damit jetzt machen?
+Wir können es sogar noch einmal umformen.
+Ich mache das nochmal mit Ihnen gemeinsam,
+dass wir das sehr schnell griffbereit haben.
+Wenn Sie später in Aufgaben arbeiten,
+ist es ein Stück weit für Sie eine Erleichterung,
+wenn Sie sich gleich mit der richtigen der drei Varianten orientieren.
+Sie finden alle drei in der Formelsammlung.
+Sie können aber auch immer irgendeine Beliebige nehmen,
+dann müssen sie halt ein bisschen mehr teilen und multiplizieren.
+Wir nehmen die erste Variante und nehmen hier meinetwegen die entsprechende Dichte hinein
+multipliziert und kommen auf den Term, das wäre hier, ich schreibe es mal lieber in
+blau, dann sieht es ein bisschen wild aus, Dichte mal U², es schadet nichts, das ruhig
+öfters zu schreiben, dann prägt man sich vielleicht gut ein, wie das Ganze aussehen kann.
+Also hier haben wir ja, wie wir gerade gesehen haben, die Dichte hinein multipliziert.
+Dann haben wir statt Energieformen, die hier oben, das ist im Prinzip eine spezifische Energie,
+dass die Masse schon heraus multipliziert. Auch die Variante, dass wir hier anschauen,
+wie die Drücke sich verhalten. Also hier haben wir einen einfachen Druck als Zahlenwert und dafür
+müssen wir das, was geodetischer Anteil, also das was ein Höhenanteil ist, ein bisschen merkwürdig
+schreiben mit dieser Formel und auch das was an geschwindigkeitsrelevanten Termen heißt,
+müssen wir auch wieder merklich schreiben.
+Diese Gleichung wird Ihnen sehr oft noch widerfahren
+in dem nächsten Teil der heutigen Vorlesung
+und in den nächsten Stunden,
+weil wir uns oft anschauen, was ist der dynamische Anteil des Drucks
+oder was ist der geodätische Anteil des Drucks.
+Das sind genau diese zwei hier notierten Terme.
+Oder wir können das Ganze auch als Fügengleichung uns angucken.
+Das kriegen wir hin, indem wir von der oberen Zeile
+Nehmen wir mal von hier da runter gehen, indem wir geteilt durch g schreiben, d.h. die Gewichtskraft
+haben wir rausdividiert, dann sehen Sie schon hier, wenn Sie von diesem g mal z arbeiten,
+dann kommen Sie genau auf das z und dann haben Sie hier halt u² durch 2g und hier hinten
+steht dann P durch O und G. Also all das, was hier steht, finden Sie auch auf der Formelsammlung
+und so einfach diese Variablen hier auf der Seite auch sein mögen, so häufig werden
+damit jetzt konfrontiert in Rechnung. Wir wollen uns das Ganze einmal an einer
+Stelle anschauen, wo ich selber sagen muss, das hat mir damals beim ersten
+Hören der Benudegleichung sehr geholfen. Es ist zwar ein uraltes Fachbuch, aber ich denke
+eine Darstellung, die sehr hilfreich sein kann. Wir haben wieder ein ganz
+ähnliches Problem aufgezeichnet. Hier eine Propfenstürmung durch einen breiten Kanal.
+Dann wird der Kanal jünger, also enger. Da muss die gleiche Flüssigkeitsmenge durch.
+Vermutlich wird die Geschwindigkeit höher sein. Und dann geht es mit der Röhre nach
+oben auf eine andere Stelle und da oben soll die gleiche Flüssigkeit durchtransportiert
+Jetzt überlegen Sie kurz selbst, hier ist die Geschwindigkeit niedrig, hier hatte ich
+schon gesagt, wird die Geschwindigkeit wahrscheinlich deutlich höher sein.
+Was passiert hier mit der Geschwindigkeit von dem Fluid?
+Nachdem das Rohr kein Loch hat, muss die Geschwindigkeit zwischen hier und hier gleich schnell sein,
+nicht wahr?
+Irgendwo muss die Flüssigkeit ja hin.
+Und jetzt schauen Sie sich an, was im Endeffekt die Antwort ist zu der Quizfrage, die ich
+Ihnen gezeigt habe.
+Sehen wir gleich noch die Überleitung.
+Hier am Anfang, oder hier in diesem Bild, hier unten, wird Energie dargestellt.
+Die gesamte Energie teilt sich in drei Thermen auf.
+Einmal das, was die Höhenenergie ausmacht.
+ist am Anfang gering und am Schluss dieses ganzen Spiels bei den letzten Punkten ist
+sie hoch. Dann haben wir kinetische Energie, die ist am Anfang niedrig, dann wird das Rohr
+eng, dann muss die kinetische Energie steigen, mehr Geschwindigkeit, und die bleibt dann
+aber gleich da oben. Und jetzt kommt der noch übrig bleibende Term, das ist das, was übrig
+ist für den Druck. Und jetzt kommt das Verblüffende. Der Druck ist an dieser Stelle, wo das Rohr
+dick ist, hoch. Und dann wird der Druck niedriger an der Stelle, wo es eng wird im Rohr. Und
+Sie haben alle im Raum falsch geantwortet. Es hat kein einziger sich auf der richtigen
+Seite gemeldet. Der Druck sinkt. Bei schneller Strömung durch ein enges Rohr ist der Druck
+Und dann geht der Druck nochmal runter, das kann man sich, glaube ich, nochmal ganz gut
+vorstellen.
+Wenn es nach oben geht, dann ist der Druck niedriger.
+Aber die verblüffende Frage ist immer wieder, was passiert, wenn ich so ein Rohr habe, was
+sich verjüngt, was enger wird, und an der Stelle, was ist dann mit dem Druck los?
+Und genau diesen Gedanken möchte ich Ihnen nochmal einmal in dem englischen Lehrvideo
+ganz gerne zeigen, bei dem wir genau dieses noch mal sehen werden, diese
+Beispieleaufgabe, die ich ja vorher fotografiert habe. Ich habe das da noch
+mal ganz gut in der Zusammenfassung, denke ich, und vielleicht eine gute Basis, um dann
+heute etwas früher in eine Pause zu gehen. Ich muss mal schauen, ob das funktioniert.
+Ich habe jetzt relativ monologartig gesprochen, gab es noch eine Frage?
+Tut mir leid, wenn ich so in meinem Folienmodus gefangen bin, dann bitte mich auch da raus
+holen, wenn Sie irgendwo nicht folgen können oder was an Rückfragen besteht.
+Jetzt dauert es leider ein bisschen länger auf meinem System, das ist ein relativ großes
+Video, deswegen kann es durchaus sein, dass das hier etwas stockt, aber ich hoffe wir
+Wir bekommen das hin. Ich probiere jetzt hier mal hier.
+Und vielleicht kann ich den Inhalt verstehen.
+Bitte...
+Okay.
+... ist ein einfaches, aber unglaublich wichtiges Äquationen in Physik und Ingenieurwissen,
+das uns viel über den Fluss von Flüssigkeiten in der Welt um uns herum verständigen kann.
+Es beschreibt im Grunde die Beziehung zwischen der Pressur, der Geschwindigkeit und der Höhe eines fließenden Flüssens.
+Es hat viele Möglichkeiten.
+Wir können es benutzen, um zu erklären, wie Flugzeuge Luft generieren,
+oder um zu kalkulieren, wie schnell Flüssigkeit aus einem Container ausfällt, zum Beispiel.
+Wir werden diese Möglichkeiten und ein paar weitere später untersuchen.
+Aber lasst uns zuerst die Equation selbst prüfen.
+Sie wurde zuerst von dem schweizerischen Physikern Daniel Bernoulli in 1738 veröffentlicht.
+Und sie sieht so aus.
+Die Geschwindigkeit, die wir da haben, ist v.
+Die Equation zeigt, dass die Summe dieser drei Begriffe konstant auf der Flüssigkeitslinie bleibt.
+Jede der Begriffe ist eine Pressur.
+Der erste Begriff ist die statische Pressur, welche nur die Pressur P der Flüssigkeit ist.
+Dann haben wir die dynamische Pressur, welche eine Funktion der Flüssigkeitsdensity, Rho, und der Geschwindigkeit, V, ist
+und die flüssige kinetische Energie pro Volumenunit bezeichnet.
+Und der letzte Begriff ist die hydrostatische Pressur, welche die Pressur der Flüssigkeit durch die Gravitation erzeugt.
+G ist die gravitationale Beschleunigung, und h ist die Höhe der Flüssigkeit, die genau diese Höhe über einem Referenzniveau ist.
+Dies ist die Druckform der Äquation, aber sie kann auch in der Hauptform und in der Energieform präsentiert werden.
+Wir können die Bernoullis-Äquation als Statement der Konservation der Energie denken.
+Es steht, dass die Summe der Druckenergie, der kinetischen Energie und der potenziellen Energie in einem Streamline konstant bleibt.
+Dies ist wirklich wertvolle Informationen, die uns helfen, eine ganze Reihe von Flüssigflächenproblemen zu analysieren.
+Problemen. Die Äquation hat ein paar Veränderungen, die ich später in dem Video beispielsweise
+beantworte. Aber für jetzt ist es wichtig zu erkennen, dass sie nur auf eine Strömung
+gelöst werden kann. Wir können eine Strömung auf einem steilen Fluss bezeichnen, als die
+Strecke, die durch ein einzelnes Partikel in der Flüssigkeit getragen wird.
+Oder technisch gesehen, als eine Kurve, die an allen Punkten tangent zum Partikel-Velocität-Vektor
+der Partikel-Velocität-Vektor.
+Schauen wir uns ein Beispiel an, in dem wir Bernoullis-Equation
+durch einen Pfeil fließen, der einen Veränderungsdiameter hat.
+Wir wollen die Equation benutzen, um zu sehen, wie die Pressur verändert,
+indem der Fluss von der größeren zu der kleineren Diameter übergeht.
+Die Bernoullis-Equation wird meistens benutzt, um den Fluss
+an zwei verschiedenen Orten zu vergleichen.
+So können wir es so nachlesen,
+mit Punkten 1 und 2 auf derselben Strahlinie.
+Es gibt keinen signifikanten Veränderung der Höhe zwischen Punkten 1 und 2,
+sodass die potenziellen Energietermine einander ausgelöst werden.
+Und wenn wir alle statischen Drucktermine auf einer Seite legen,
+bekommen wir diese Äquation für den Veränderungsdruck.
+Wenn wir beachten, dass die Flüssigkeit unumfassbar ist,
+Die Masse-Fluh-Rate bei Punkten 1 und 2 muss gleich sein.
+Das ergibt uns das, was die Kontinuität-Equation genannt wird,
+was nur ein Statement der Konservation der Masse ist.
+Die Masse-Fluh-Rate ist gleich das Produkt der Flüssigkeitsdensity,
+der Pi-Krosssektional-Area und der Flüssigkeitsgeschwindigkeit.
+So können wir die Kontinuität-Equation wiederherstellen,
+um eine Equation für die Geschwindigkeit bei Punkt 2 zu erzielen.
+Der Krosssektionsbereich A2 ist kleiner als A1, was bedeutet, dass die Geschwindigkeit des Flusses erhöht wird,
+sobald es in den kleineren Diameterpfeil passt.
+Dies ist ziemlich intuitiv.
+Wenn wir diese Equation für V2 in Bernoullis' Equation verwenden,
+können wir sehen, dass, da die Geschwindigkeit zwischen Punkten 1 und 2 erhöht ist,
+die Druck zwischen beiden Punkten muss reduziert werden.
+This concept, that for horizontal flow an increase in fluid velocity must be accompanied
+by a decrease in pressure, is one way of formulating what we call Bernoulli's principle.
+It can seem counterintuitive, because people often expect an increase in velocity to result
+in a corresponding increase in pressure, but it makes sense if we think about the conservation
+of energy.
+Die Energie, die benötigt wird, um die Flüssigkeitsgeschwindigkeit zu erhöhen, kommt an die Kosten der statischen Druckenergie.
+Bernoullis Prinzip erscheint in vielen verschiedenen Orten.
+Wir können ihn benutzen, um zu erklären, wie Fliegeflügel Höhe generieren.
+Flüssigkeit, die über ein Luftfeuerzeug fliegt, fliegt schneller, als Flüssigkeit, die unter dem Flugzeug fliegt.
+According to Bernoulli's Principle, this creates an area of low pressure above the airfoil and an area of high pressure below it.
+And it's this pressure difference that generates lift.
+I'll cover lift and drag forces in more detail in a separate video.
+Bernoulli's Principle also explains how Bunsenburners work.
+Ja, Bunsenbrenner, kennen Sie wahrscheinlich auch nicht, schönes Wort.
+ist opened, gas flows into the barrel at high velocity. Following Bernoulli's principle,
+this high velocity creates an area of low pressure in the barrel, which draws air in
+through the air regulator, allowing for more complete combustion of the gas.
+Several different flow measurement devices rely on Bernoulli's equation to determine
+und die Stabilität von einem fließenden Flüsschen.
+Das Pito-Statik-Tube ist ein solches Gerät.
+Es kann auch in einem Flugzeug genutzt werden, um die Luftgeschwindigkeit zu messen.
+Hier ist, wie es funktioniert.
+Wenn wir ein Flüsschen in ein fließendes Flüsschen einlegen, wie dieses hier,
+und wir einen Pressure-Meter am Ende des Flüsschens anziehen,
+wird der Meter die Pressur am Ende des Flüsschens messen.
+An diesem Punkt wird der Flüsschen-Velocität von 0 reduziert.
+Das nennt sich der Stagnations-Punkt.
+und der Pressur in Measur 5 m, ist die Stagnationspressur genannt.
+Wir können die Newly's-Equation zwischen einem höchsten Punkt und einem Stagnationspunkt
+verwenden und zeigen, dass die Stagnationspressur
+die Summe der statischen Pressur und der dynamischen Pressur-Termine gleich ist.
+All die kinetische Energie wird grundsätzlich in Pressure-Energie
+bei der Stagnationspressur verwendet.
+Wenn wir ein äußeres Tube hinzufügen, das am Ende geschlossen ist,
+aber weiter unten Höhlen hat,
+wird der Zahntube die statische Pressur der Flüssigkeit
+statt der Stagnationspressur messen.
+Diese zwei Pressurmeasuren geben uns all die Informationen,
+die wir brauchen, um die Geschwindigkeit des Flusses zu bestimmen.
+Ein weiteres Flussmessungsgerät, das Bernoullis-Equation benutzt,
+ist der Venturi-Meter,
+ein Instrument, das die Flüssigkeit durch einen Pfeiler bestimmt.
+It works by measuring the pressure drop across a converging section of pipe, say we want
+to determine the flow rate, q, which is the velocity multiplied by the pipe cross-sectional
+area at point 1.
+We can easily rearrange the pressure drop equation we derived earlier when we looked
+at a change in diameter to get this equation for flow rate.
+Alles, was wir wissen müssen, sind die Dimensionen des Ventilators, die Flüssigkeit und die Druckmengen P1 und P2,
+und das erlaubt uns, die Flüssigkeit zu kalkulieren.
+Der Ventilator hat keine beweglichen Teile und ist eine sehr einfache und vertrauenswerte Art,
+die Flüssigkeit durch einen Pfeiler zu messen.
+Die Diversion-Sektion ist länger als die Konversion-Sektion,
+um die Wahrscheinlichkeit der Flüssigkeitsabhängigkeit zu reduzieren und Energieverluste zu halten.
+Let's look at one more example where we can apply Bernoulli's equation.
+Say we have a beer keg and we want to calculate how fast beer will drain when we first open
+the tap at the bottom.
+All we need to do is define our two points along a streamline and apply Bernoulli's
+equation.
+It's a gravity-fed keg with a vent at the top, meaning that it's not pressurized.
+Der Druck an beiden Punkten wird atmosphärisch sein, sodass die statischen Druckdrehzüge
+einander ausgelöst werden.
+Wir können auch beurteilen, dass der Keg groß genug ist, dass die Flüssigkeitsgeschwindigkeit
+bei Punkt 1 nahe 0 ist.
+Wenn wir Bernoullis-Equation wiederholen und die Höhe zwischen dem Bier-Level und dem
+Tappen als h definieren, bekommen wir diese Equation für die Flüssigkeitsgeschwindigkeit
+aus dem Tappen.
+Das waren ein paar Beispiele von Fällen, in denen wir Bernoullis-Equationen nutzen können, um wertvolle Informationen zu bekommen oder ein Problem zu lösen.
+Aber um es richtig zu benutzen, ist es wichtig, ein Verständnis der Begrenzungen der Equationen zu haben, die aufgrund dessen herrschen, wie sie hergestellt werden.
+Es gibt mehrere verschiedene Arten, wie die Bernoullis-Equation hergestellt werden kann.
+Sie kann aufgrund der Konservation der Energie hergestellt werden, indem man beachtet, dass das Arbeiten auf der Flüssigkeit ihre kinetische Energie erhöht.
+oder es kann mit Newton's zweiten Law ausgewertet werden,
+das betrifft, dass die Kräfte auf einem flüssigen Partikel betroffen sind,
+und F eignet sich für Ma.
+Obwohl ich hier weder Derivation noch Derivation ansprechen werde,
+machen sie beide einige Voraussetzungen, die wir beachten müssen,
+weil sie begrenzen, wie wir die Äquation auswerten können.
+Erstens, die Derivation von Bernoullis' Äquation
+Assumtion assumt, dass der Fluss Laminar ist und dass er steil ist, d.h. dass er nicht mit der Zeit verändert wird, wie das hier.
+Nächster Assumtion assumt, dass der Fluss invisibler ist, d.h. dass Schwerkräfte wegen des flüssigen Viscosity negligible sind.
+Diese Assumtion ist nötig, weil Viscosity in einem disziplinierten Strom mit seiner inneren Energie erfolgt.
+Und so würde die Idee, dass Energie auf einer Strömungsebene konserviert wird, nicht mehr erfolgen.
+Und letztlich, die Derivation von Bernoullis-Equation verweist darauf, dass das Flüssigste behauptet, als ob es nicht kompressibel wäre.
+Dies ist meistens für Flüssigkeiten verfügbar, kann aber nicht für Gase mit hohen Geschwindigkeiten sein.
+Alle drei dieser Voraussetzungen müssen verfügbar sein, wenn Sie Bernoullis-Equation verwenden wollen.
+Verwendbare Versionen der Equation, die zu unstetigen und kompressiblen Flüssigkeiten verfügen können, existieren,
+Obwohl sie ein bisschen komplizierter sind.
+Um zu erkennen, wann Bernoullis-Prinzip ein Spiel ist,
+oder wann Bernoullis-Equation ein Problem lösen kann,
+ist ein starkes Werkzeug in jedem Arsenal der Ingenieure.
+So, also das wollen wir jetzt nicht anschauen, da geht es dann um öffentliche Werbung von
+dem entsprechenden Kanal, nichtsdestotrotz habe ich Ihnen ganz bewusst das Ganze nochmal
+gezeigt und Sie werden sehen, es ist fast schon spiegelbildlich das gleiche, wie was
+wir hier gerade in der Stunde teilweise schon gemacht haben und was wir im zweiten Teil
+der Stunde machen werden, nämlich genau uns diese piezo-static-tubes anschauen, also diese
+Druckmessung an verschiedenen Stellen und wie man daraus Geschwindigkeiten rausbekommen
+kann.
+Es zeigt aber vielleicht nochmal, wie wichtig dieses Thema ist und wie zentral es ist, damit
+umgehen zu können.
+Und wenn Sie das Gefühl haben, wollen Sie vielleicht noch einmal, ein drittes Mal hören
+und vielleicht mit deutscher Sprache, dann schauen Sie sich dieses YouTube-Video ruhig
+nochmal an.
+Das ist, glaube ich, sehr instruktiv und sehr eingängig so und lässt sich, wie gesagt,
+wenn man es auf dem YouTube-Kanal klickt, auch ohne weiteres mit deutschen Untertiteln
+einspielen.
+Soweit so gut, ich würde jetzt Pause machen und zwar, ich glaube es ist 9.50 Uhr in etwa.
+Ja, 9.50 Uhr, also machen wir bis 10.05 Uhr nach Hause und starten dann durch mit diesen Aufgaben, die...
+Ich habe Ihnen die Zeile schon mal hingeschrieben bzw. kopiert aus dem letzten Jahr.
+Da ist es hoffentlich so, dass man es lesen kann.
+Es geht um, im Video war es ein Bierfass.
+Hier ist es etwas, sagen wir mal, politisch korrekter als Wassereimer oder Behälter dargestellt,
+Flüssigkeit unten raus fließt, nur aufgrund der entsprechenden Schwerkraft, die darauf wirkt und
+dieser Flüssigkeitssäule. Und schauen wir uns das Ganze mal an. Wir können Benoit ansetzen mit
+mit dem Gedanken, dass wir an zwei Stellen das festhalten und zwar hier oben die Stelle,
+wo dieser große Durchmesser gilt, die der Umgebungsdruck oben auf die Stelle A wirkt
+Und da unten bei der Stelle b mache ich jetzt auch noch die 2 hin, ob man nur mit a und b arbeitet oder mit 1 und 2 ist völlig egal.
+Hier im entsprechenden Gleichungswerk ist auch wieder a und b genannt, vielleicht entsprechend passe ich das oben nochmal an.
+Also hier die Stellen a und b, hier ist die Stelle klein a, hier die Stelle klein b, die bei diesem Ausfluss gilt.
+Und wir können eine Benulligleichung einsetzen, Druck an der einen Stelle,
+H mal G mal A, H, und die entsprechende Gleichung auf der anderen Seite und so weiter hier drüben.
+Das soll die entsprechende Gleichheit erhalten.
+Ich bin gerade noch ganz kurz am schauen.
+Ich glaube sogar, dass da ein Schreibfehler in der alten Version drin ist, der sich später eh rauskürzt.
+auskürzen, geben Sie mir eine Sekunde, da steht irgendwie noch ein M durch, so würde
+würde ich sagen, das ist gerade in rot, passt. So, einerlei, denn was passiert jetzt im nächsten
+Schritt? Wir sagen, dass der Druck an der Stelle 1 hier oben und der Druck hier unten
+der gleiche sei oder ist. Wieso dürfen wir das machen? Weil wir über einen Behälter
+sprechen, der im Bereich zwischen wenigen Zentimetern und bis vielleicht einigen Metern
+Der Druck an der Stelle A soll ungefähr gleich sein dem, was der Druck an der Stelle B ist.
+Und dann können wir direkt hier diesen Term, den ich da gerade nochmal ein bisschen erweitert habe, herauskürzen.
+Was kann man noch herausnehmen? Das sind die Dichtenennungen auf der Seite links und auf der Seite rechts.
+Seite rechts um ist gleich. Ich mach das jetzt hier mal ganz radikal. Ich hoffe, man kann
+es trotzdem noch lesen. Und was übrig bleibt, ist irgendein Term, der was mit der Geschwindigkeit
+zu tun hat und was mit den Höhen zu tun hat. Und jetzt stellen wir das mal auf die richtige
+Seite, damit ich mich nicht vertue. Ich schaue ja ein bisschen auf meinen Spickzettel. Und
+Es sollte herauskommen, g mal h a, das ist nichts anderes als g mal h b, plus u b quadrat
+Ich habe mir dabei auch noch zur Hilfe genommen, dass die Geschwindigkeit von dem UA vernachlässigbar
+ist.
+Ich zeige Ihnen auch das noch.
+Dieser Term hier steht oben in der Aufgabe, in der Angabe, ermitteln Sie die Formel zur
+Abschätzung der Geschwindigkeit uB bei Vernachlässigung von uA. Das Ding soll also ungefähr gleich
+0 sein. Und entsprechend wird die Formel so einfach wie sie gerade da steht. Dann kann
+ich noch daneben notieren, dass Delta H zu definieren ist als hB minus hA. So muss ich
+sich mal an von den Vorzeichen, wenn Sie sich da oben im Bildschirm anschauen, passt das
+zusammen hoffentlich und dann kriegen Sie heraus, dass als Formel UB gleich ist wie
+die Wurzel aus 2 mal G mal Delta H. Und hier rechts oben ist eine solche Formel sein, hier
+Hier rechts oben sehen Sie eingeblendet eine Tabelle, die dann diese Formel benutzt und
+sagt, was passiert bei welchen Höhenunterschieden.
+Wenn der Höhenunterschied gerade bei 10 cm ist, dann haben Sie eine Ausflussgeschwindigkeit
+von immerhin 1,4 m pro Sekunde, also schon sowas wie 5 kmh in etwa.
+Wenn Sie einen Meter Unterschied haben, also ein großes Bierfass oder dergleichen mehr,
+dann sind Sie schon bei 4,4 m pro Sekunde, also doch schon einen Wert zwischen 10 und 20 km h.
+Wenn Sie 10 m haben, haben Sie 14, hier und bei 100 wären es 44.
+Einfach nur mal noch ein gewisses Gefühl für diese Zahlen zu kriegen.
+Sie sehen also, da kann es dann durchaus zu sehr hohen Ausströmgeschwindigkeiten kommen,
+wenn Sie nur genügend Flüssigkeitssäule haben, die oben draufsteht.
+Das ist ja nichts anderes, als das hier als Term hat, was mit der Flüssigkeitssäule zu tun, die hier oben drauf steht.
+Soweit an der Stelle. Jetzt können wir das Ganze mal ausrechnen.
+Wenn Sie Geschwindigkeit ua würde sich ergeben bei folgenden Rahmendaten.
+Jetzt haben Sie also Zahlenwerte gegeben.
+die Geschwindigkeit an der Stelle b, das dA und das dB und diesmal soll uA nicht
+vernachlässigt werden, wir sollen also ermitteln, wie groß ist denn die Geschwindigkeit
+hier oben beim sinken der Flüssigkeitsstand sich einstellt, wenn diese
+Zahlenwerte gelten. Um die Aufgabe zu beantworten, müssen wir gleich in die
+Die Kontinuität, der Massenstrom an der Stelle 1 ist gleich der Massenstrom an der Stelle
+2.
+Das heißt A.
+Das ist ein bisschen unangenehm mit dem kleinen Index A, das kommt im generellen Buchstandwerk.
+Ich schreibe es nochmal ganz allgemein, ganz vollständig, die Dichte ist logischerweise
+an der Stelle A und B gleich, fliegt heraus und mit der Gleichung können wir dann arbeiten
+und sagen U A hat was zu tun mit dem Flächenverhältnis A an der Stelle B und dem A an der Stelle A
+und der Geschwindigkeit an der Stelle B
+und dann können wir das da einsetzen, das ist dann einfach Schreibarbeit
+Pi Quadrat Viertel mal d b Quadrat
+Bitte diese trigonometrischen einfachen Sachen verinnerlichen
+oder auf Ihren Spickzettel schreiben, wenn Sie das Gefühl haben, da kommen Sie durcheinander in der Klausur,
+dass Sie wissen, was sind Kreisflächen, was sind Kreisumfang, was sind Mantelflächen,
+diesen ganzen Kram, den man aus der Schulmathematik gut kennt,
+der ist dann doch immer ganz gut, wenn man ihn in den Griff bereit hat.
+Und das setze ich ein, das ist also 0,5.
+Boah, jetzt mag der Schlüssel nicht mehr, warum auch immer.
+So, also jetzt haben wir da was ausgerechnet, mit einer Geschwindigkeit, die es rausfließt,
+6 m pro Sekunde, schon einigermaßen gute Geschwindigkeit, das heißt wahrscheinlich
+war der Höhenunterschied, nicht nur wahrscheinlich, sondern der Höhenunterschied war irgendwo
+war wahrscheinlich etwa zwei Metern, so etwas um den Dreh wird es gewesen sein, um diese
+Ausflussgeschwindigkeit zu erhalten mit der Formel oben und wir haben jetzt angegeben
+gekriegt, dass das Gefäß immerhin schon einen halben Meter als entsprechender Durchmesser
+oben ist.
+Das ist ja doch schon einigermaßen groß und unten das Ausflussloch war mit zwei Zentimeter
+einigermaßen klein und wir sehen also im Resultat haben wir eine winzige
+Sinkgeschwindigkeit. Das deckt sich ja auch mit unserer Einschätzung, wenn wir so einen Fass aufmachen,
+dann dauert es relativ lange und es geht ganz langsam durch den Füllstand nach oben.
+Entsprechend machen wir auch keinen großen Fehler, wenn wir in der Aufgabe A
+diese Geschwindigkeit da vernachlässigen. Nichtsdestotrotz ist auf einer der
+nächsten Folien mal gezeigt, wie groß ist denn so ein Fehler. Das ist eine
+klassische Fehlerrechnung ist jetzt nicht unser zentraler Gegenstand in dieser
+Vorlesung, aber um das dann zu rechnen, schalte ich hier noch mal ganz kurz rein,
+dass wenn wir das richtig waren, dann haben wir ein UB Strich und das ist
+nichts anderes als 2G mal Delta H plus UA Quadrat. Ich hoffe man kann es noch lesen,
+Obwohl ich da sehr... Oh Gott, in hellgrün, das war nicht so eine schlaue Idee.
+Ich hoffe, Sie konnten es trotzdem lesen.
+Also hier steht ein UB Strich, ist die Wurzel aus 2G Delta A, genauso wie hier.
+Das Einzige, was ich da noch ergänzen musste, war, dass die Wurzel noch das UA Quadrat mitbetrifft, hier hinten.
+Also ich habe hier an dieser Stelle ein qA² noch als additiven Term mit dazu gemodelt,
+dann haben Sie diese Formel ergänzt und auf der nächsten Seite werden Sie dann, glaube
+ich, aufdekliniert sehen oder ich werde es Ihnen sonst aufblenden, was das bedeutet.
+Sie haben es notiert oder Sie fotografieren, bitte gerne, kein Problem, 1, 2, 3, Fotos
+sind gut geworden. Ja, sieh mal an. So, alles dabei? Gut. Also, jetzt haben wir das und
+jetzt kommt diese Aufgabe B, meine ist auch eingeblendet. Hier steht es nochmal, hier
+war unser UB ausgerechnet für jetzt dieser Höhenunterschied, der sich entsprechend ergibt
+bei den Angaben, die bei dem UB relevant sind. Jetzt sollte ich mal auswendig bekommen, diese
+Sie sehen schon, ich blende Ihnen das auf, weil ich will nicht, dass Sie das jetzt alles
+mit viel Zeit nachrechnen.
+Dann bekommen Sie hier einen Term mit 14, ein bisschen was, Meter pro Sekunde an der
+Stelle b, als Ausschwimmungsgeschwindigkeit, angenommen wurde wohl, das weiß ich jetzt
+So, nehmen wir den zweiten Term, schauen wir da rein, wenn wir dieses UA mitziehen, dann
+kommt noch diese kleine Geschwindigkeit, die wir gerade in der letzten Teilaufgabe ausgerechnet
+haben dazu, die wird auch noch quadriert und nachdem das hier viele Nuller hat und dann
+quadriert wird, ist der Effekt dieser Geschwindigkeit sehr gering, dann folgen hier noch mehr Nuller
+in der Wurzel, dann haben wir diesen Term der korrigierten Geschwindigkeit ausgerechnet,
+also so wäre die entsprechende Geschwindigkeit an dieser Stelle wirklich, nicht die 14,00
+bisschen was, sondern, Sie sehen aber, das unterscheidet sich erst ganz weit hinten hinterm
+Komma und dann, ich glaube, ist vorne auch eingeblendet in dem Folienwerk, wie würde
+die Rechnung weitergehen, dann kriegen wir einen relativen Fehler raus.
+Der ist der Unterschied dieser zwei Geschwindigkeiten, die unter Vernachlässigung und die Mithilfenzunahme
+von dieser Zahl, und dann kommt dann entsprechend die Normierung auf die Geschwindigkeit, die
+es richtig halten müsste, da haben Sie dann die Term 10 auf minus 6 und den teilen Sie
+auch noch durch 14, dann sind sie schon bei 10 auf minus 7 und also entsprechend
+haben sie einen Fehler, der dort extrem gering ist. Hier ist, das können Sie getrost
+streichen, von damals eine Fragestellung gewesen, ob da nicht eine andere Zahl
+mehr herauskommen müsste. Beziehungsweise, ja, das steht eine
+Zeit drüber, können Sie das stehen lassen. Das ist dieses Delta um B, sind dieser
+Geschwindigkeitsunterschied, der hier eingesetzt wird.
+Also, lange Rede, kurzer Sinn, Sie können damit ganz gut leben, wenn die Unterschiede
+von diesen Durchmessern nur groß genug sind, dann brauchen Sie diese obere Geschwindigkeit
+nicht zu berücksichtigen.
+Wenn ich eine Klausuraufgabe Ihnen stelle, dann werde ich Sie entsprechend aber auch
+briefen und sagen, Sie dürfen die Geschwindigkeit vernachlässigen.
+Mit welcher Geschwindigkeit würde das Wasser ausströmen, wenn das Endstück nach oben
+zeigt?
+Also hier steigt das Endstück nach vorne, was wäre jetzt, wenn ich das Ganze stattdessen
+irgendwie in ein Rohr anflansche, was meinetwegen etwa so aussieht, und Sie haben jetzt hier
+den Ausfluss der Flüssigkeit in alle Richtungen, ich hoffe man kann es einigermaßen erkennen,
+Die Idee meines lila gezeichneten Rohrstücks ist, dass es an der Stelle B anflanscht und
+wieder genau auf die Höhe von B geht, bis die Geschwindigkeit dann von dem rauskommenden
+Flüssigkeit...
+Ja, da geht nichts verloren, da kommt nichts dazu, wir haben ja keine Reibung, Sie haben
+genau recht.
+Da wird sich nichts verändern an der Geschwindigkeit und das sehen wir auch hier aus dem Fachbuch
+Da ist es jetzt wieder ein bisschen anders in dem Bild gezeigt, aber irgendeine Flüssigkeitssäule,
+die steht da drauf, da fließt die Flüssigkeit nach unten mit einer Geschwindigkeit, hier
+nach darüber mit der gleichen Geschwindigkeit, oder hier nach oben, immer die gleiche Geschwindigkeit,
+keine Unterschiede.
+Und noch eine vielleicht doch verblüffende Thematik, die habe ich ganz schnell unterschlagen,
+eigentlich mit diesen Druckverhältnissen oder bzw. die Frage, wo setze ich meinen Benui
+an.
+In unserem Fall hatten wir ja gesehen, dass wir hier die Stellen A hier gewählt haben
+und die Stelle B genau hier gewählt hatten.
+Also die waren jetzt in kleinen Buchstaben, aber sei es so.
+Diese Stellen wurden ja vorher gewählt und man fragt sich, also hier ist vielleicht einleuchtend,
+ist der Druck der Umgebung, der herrscht, aber an dieser Stelle, wo die Flüssigkeit
+genau das Rohrstück verlässt, ist es erstmal vielleicht nicht so leicht, sich vorzustellen,
+dass genau hier wieder der Umgebungsdruck herrscht.
+Es steht da nochmal im Text da, es geht darum, dass die Flüssigkeit, die in diesem Gefäß
+eingeschnürt sitzt und unterschiedlichen Druck auf unterschiedlichen Lagen innerhalb dieser
+Flüssigkeit hat, mit einem Druck konfrontiert ist, aber sobald wir das Rohr verlassen, sehen wir als
+Flüssigkeitsteilchen genau den Umgebungsrohr. Und deswegen ist es in Ordnung, ist es passend,
+diese Stelle zu nennen an dieser Einschnürung, um da genau wieder mit dem Umgebungsdruck zu arbeiten,
+und dann lässt sich der Benoy halt einfach rechnen.
+Wir brauchen also jetzt keine barometrische, also keine, ja nicht barometrische Höhenformel,
+sondern vielmehr keine hydrostatische Druckberechnung hier irgendwo im Gefäß.
+Das interessiert uns alles nicht, wir gehen einfach an diese Endstelle.
+Das ist ein bisschen Gewinnerfühl.
+Die Aufgabe hatten wir gerade eben im Video schon gesehen, ist genau das gleiche in grün
+und auch die haben sich diese Vereinbarung dort zunutze gemacht, dass dieser obere Durchmesser
+groß genug war, sodass man diese Geschwindigkeit da oben vernachlässigt hat.
+Wir haben noch einen weiteren Hinweis an der Stelle, der wichtig ist, denn in der Realität
+haben wir, wenn wir ein Rohr nehmen, ich zeichne mal ganz kurz an der Tafel, und so einen Ausflussquerschnitt
+haben, also hier sei meinetwegen meine Flüssigkeit mit dem Niveau und hier soll die Flüssigkeit
+herausströmen und ich hier so gescharfen Kanten habe, dann wird die Flüssigkeit nicht
+direkt an den Ecken benetzen, sondern ich glaube das ist auch ganz gut mit der Vorstellung,
+die Flüssigkeit wird hier so ein Abriss bilden und stärker in die Mitte hineinströmen.
+Im Außenbereich hier ist keine Flüssigkeit, wenn die da rausströmt.
+Und das ist nichts anderes als das, was da im Bild gezeigt ist, wo es heißt, bei scharfkettigen
+austreten, können der Strahlquerschnitt nicht ganz die Originalformen nachempfinden, also
+hier ist in gelb diese scharfen Kanten gezeichnet und AL, meinetwegen, ist das Ganze, sodass
+dann das ASTR, der Strahl, in lila einen etwas kleineren Durchmesser ausmacht, als das ist
+bei AL der Fall gewesen wäre.
+Zur Schonung meiner Kniescheibe schiebe ich das da rüber.
+Also A-Strahl durch AL ist ein Verhältnis,
+das kann man mit Alpha bezeichnen,
+und das nennt sich Kontraktionszahl.
+Und wenn die Kontraktionszahl 1 wäre,
+dann gibt es keine Kontraktion,
+dann füllt das das komplett aus.
+Wenn dieses Alpha ein bisschen
+Zahlmärte zwischen 0 und 1 hat,
+und in der Praxis sieht man,
+Bei solchen scharfkantigen Ausflüssen, oft 0,6 bis 0,8, dann wird sich also das Fluid,
+was dann rausschwimmt, noch enger einschnüren und noch schneller rauskommen, als man es
+vielleicht erst mal erwartet hat.
+Müssen Sie jetzt nicht zu sehr ins Detail gehen, würde mir dann, wie Sie sehen, in
+Ihnen Werte von meiner Seite aus geliefert werden oder Sie müssten nur in Verständnisaufgaben
+sagen, dass es sein kann, dass die Geschwindigkeit höher ist aufgrund der Kontraktion.
+Nehmen wir eine zweite Aufgabe, die wirkt extrem einfach von dem, was da im Text überhaupt
+steht.
+Sie sollen die Ausflussgeschwindigkeit U2 da oben berechnen und den Volumenstrom auch
+für ein Benzineinspruchsrohr, also meinetwegen, das ist jetzt irgendein altes Verbrennungsfahrzeug
+und da wird Benzin oder Diesel oder was auch immer eingespritzt.
+Hier ist der Durchmesser dick, da vorne ist die Düse, da ist es ganz dünn, an der Stelle
+1 und 2 unterschiedliche Durchmesser und man hat hier schon einen einigermaßen
+hohen Druck bei Verbrennungskraftfahrzeugen und da oben wird der Druck dann nochmal
+anders sein. Das werden wir gleich ausrechnen und wir haben noch dazu ein
+bisschen einen Höhenterm, weil die Stelle hier ist weiter unten 20 cm als da oben
+wo reingespretzt wird, wir haben auch noch die Dichte von Benzin gegeben.
+So, rechnen wir aus, die entsprechende Spielerei, ich bin nämlich ganz sicher, ob bei Ihnen
+was aufgeblendet wird, das ist der Fall.
+Sie haben das auch in Ihren Notizen?
+Ja?
+Können Sie mich übrigens immer gleich anhalten, wenn Sie sagen, Herr Hesse, da steht schon
+was.
+Sonst schreibe ich oft das Gleiche hin, was schon dasteht.
+Also, der Überdruck 4 bar, was bedeutet das Überdruck?
+Da steht ein Ü, das ist jetzt sehr knapp in der Angabe, ich würde es in der Klausur
+schon ein bisschen sauberer darstellen, aber dieses Ü bezieht sich auf einen Überdruck
+und Überdruck heißt nichts anderes als, dass da der Umgebungsdruck auch noch ist,
+also sind wir eigentlich bei 5 bar.
+Dann Benui-Ansätzen, genauso wie wir es vorher gemacht haben.
+Welche der drei Varianten der Benui-Gleichung Sie nehmen, ist Ihnen überlassen.
+Hier ist wohl diese Variante recht geschickt, weil wir an der Stelle direkt die Drücke haben.
+Wir könnten auch die Variante nehmen, wo das mit dem Roh nochmal durchgeteilt ist oder durchmultifiziert wird.
+In jedem Falle aber wollen wir relativ gut auf diese Drückwerte zugreifen, damit wir
+ja bestimmt gar nicht, wir müssen relativ schnell auf die Geschwindigkeiten zugreifen,
+damit wir die Aufgabe beantworten können, welch Geschwindigkeit Punkt 2 herrscht.
+Jetzt bei Benoît bitte gucken, was können wir vernachlässigen, ist eigentlich der Klassiker,
+dass irgendwo irgendwas Null ist, und zwar in diesem Fall gilt, dass dieser Wert hier
+genommen werden kann, ist gleich Null.
+Warum?
+Hier oben herrscht nichts anderes als der Umgebungsdruck, P2 ist gleich P Null, also
+kein Überdruck.
+In dem Fall hätten Sie sich dieses Ganze hier oben mehr oder weniger schon sparen können.
+Sie sehen, in der Formel wird wieder nur mit Überdruck gearbeitet, es ist einfach einfacher.
+Können Sie auch mitziehen und dann hinterher rausschmeißen.
+So, jetzt haben Sie die Geschwindigkeiten und die Kontinuitätsgleichung ist wieder
+sehr passend und hilfreich und in dieser Gleichung, die Sie hier sehen, in der Bernoulli-Gleichung,
+Termen mit dem U1 zu ersetzen. U1 hat nämlich diese Beziehung über die
+Kontinuitätsgleichung und wie in der Kontinuitätsgleichung immer können Sie
+die Dichte hier wegschmeißen. Und entsprechend gehen Sie auf den
+Termen. Das schreibe ich in diesem Orangeton weiter. U1 ist nichts anderes als U2 mal A2 durch A1 und
+Das können wir alles jetzt zusammen einsetzen, dann kommen wir auf was U2 ist gleich.
+Jetzt pausiert sie auf, es kommt ein Riesenkerl.
+So, der Term ist unangenehm, die Rechnung ist Sisyphus-Arbeit an Ihrem Taschenrechner,
+Aber Sie sehen, es ist möglich, diese Geschwindigkeit an der Stelle 2 auszudrücken, als war es,
+was was zu tun hat mit dem Verhältnis von diesen zwei Flächen.
+Das ist dann das Spiel, was zurück sich bezieht auf die Kontinuitätsgleichung, ist eigentlich
+relativ klar.
+Die Geschwindigkeit da oben ist größer als hier unten aufgrund der Kontinuitätsgleichung,
+Aber Sie haben eine extrem geringe Korrektur, die Sie auch mitziehen aufgrund der Höhe.
+Da oben ist 20 cm höher.
+Und Sie haben nochmal, und die ist gar nicht so zu vernachlässigen, einen Korrekturturm,
+weil Sie hier unten einen Überdruck haben und da oben an der Stelle 2 herrscht der Umkehrungsdruck.
+Und entsprechend ist die Geschwindigkeit U2 nicht nur durch dieses Verhältnis der zwei Durchmesser bestimmt,
+sondern eben sehr wohl auch stark mit dem Druckunterschied zu belegen.
+Und es kommen 32 Std. jetzt Meter pro Sekunde.
+Achtung, ich habe mir erlaubt, hier für den Vorlesungszweck die Nachkommastellen nicht zu berechnen.
+Ich schreibe hier mal ein Dreieck hin, Achtung, nur zweigültige Ziffern, ja, Achtung, zwei.
+Wenn Sie in der Klausur arbeiten, empfehle ich Ihnen sehr, immer mit viergültigen Ziffern zu rechnen.
+Wenn die Zeit unglaublich knapp ist und Sie überhaupt noch irgendwas aufs Papier bringen wollen,
+Dann können Sie auch zweigürtige Ziffern hinschreiben, im Zweifelsfalle gibt es einen halben Punkt Abzug.
+Das wird jetzt nicht Ihnen das Genick brechen, aber Geschichte ist die Ziels mit.
+So, letzter Teil der Aufgabe. Da oben ist noch gefragt nach dem Volumenstrom.
+Ich schreibe mal den Lima. Der Volumenstrom ist nichts anderes als U2 mal A2.
+Und das ist also nichts anderes als 1 mal 10 hoch minus 4 Kubikmeter pro Sekunde.
+Das ist aber nichts anderes als 0,1 Milliliter pro Millisekunde,
+Ne, pro Meter und Sekunde, da muss man jetzt aufpassen.
+Millisekunde ist richtig, der Kubikmeter wird umgerechnet in 1 Meter hoch 3 ist nichts anderes.
+Der Kubikmeter wird umgerechnet in 1 Meter hoch 3 ist nichts anderes als
+1 mal 10 hoch 3 Liter logischerweise, das heißt Milliliter pro Millisekunde,
+Aber wichtig ist vorher zu sagen, es ist nichts anderes als 0,1 Liter pro Sekunde.
+Ich hoffe das ist jetzt korrekt.
+Ja, so sollte es passen.
+Ja, so weit, so gut, Sie haben es mit notieren können, wir sind zufrieden damit, passt, machen
+wir weiter.
+Jetzt geht es um diese Aufgabenteile mit den Druckmessen im Verhältnis zu Geschwindigkeiten.
+Wollen wir mal ganz kurz, wir haben das F of 15, korrekt?
+Wir haben hier in dieser Geometrie nochmal was gezeigt.
+Mal wieder mit W statt mit U, aber das sei es drum.
+Eine Durchstürmung in diesem Rohr, die uns interessiert und wir haben zwei Gerätschaften
+hier angeschlossen.
+Einmal so ein Rohrstück, was hier genau in die Stürmungsrichtung zeigt, bei dem wir
+hier so ein Rohrflank angeschlossen haben und sehen, dass es die Flüssigkeit nach oben
+drückt.
+An der Stelle so eine Füllstandsanzeige, die hat einen relativ hohen Druck, weil wir hier
+durch die Geschwindigkeit einen zusätzlichen Druck aufbauen und hier haben wir eine Bohrung
+in der Seitenwand des Rohrs und dort steigen wir einen deutlich niedrigeren Druck ab.
+Auch hier gilt bei diesen verschiedenen Sonden bzw. Pitot, Prantl und Venturi-Rohr-Aufbauten,
+dass wir immer wieder mit der Bernouille-Gleichung arbeiten und welches Wording für welche entsprechende
+Aufbau gilt kommt gleich, wir haben in diesem Falle keine Höhenänderung, warum haben wir
+keine Höhenänderung?
+Weil wir behaupten, dass die Stelle hier und die Stelle hier nicht weit von der Höhe auseinander
+liegen.
+So nah beieinander liegen, dass wir das nicht weiter berücksichtigen wollen.
+Also dieses Delta Z, das wären diese zwei Stellen, ist so gering, dass wir es einfach
+herausschmeißen. Das wird man in der technischen Anwendung in wenigen Sekunden auch nochmal
+sehen, warum das so klein ist und nicht berücksichtigt werden muss.
+Das war hier nur die richtige Folie. Das heißt aber auch, dass in diesem Falle hier oben
+dieser ganze Term rausfliegt und wir haben dann nur noch das was hier steht
+und das ergänzen wir jetzt mal und nennen es p-statisch, ja das geht leider gerade bei meinem Tablet wieder nicht, das schreibt die Sache nicht.
+Es ist sehr ärgerlich.
+Also hier drüben geht es, p-statisch plus die Dichte halbe mal u-Quadrat und das nennen
+wir p-dynamisch.
+Das heißt nichts anderes als, das von hier ist dieser Term, das von hier ist dieser Term.
+Ist gar nichts Neues.
+Und jetzt können wir hier nochmal aus dem Text lesen, p-statisch ist der statische Druck,
+Der dynamische ist der dynamische Druck, der hat was mit dieser Geschwindigkeit zu tun
+und der gesamte Druck, Pt, ist nichts anderes als der statische und der dynamische, kombiniert.
+So, jetzt sollten wir mal angucken, wo ist welcher Druck hier in der Anzeige.
+Wenn wir hier seitlich reinbohren, dann sehen wir an der Rohröffnung nichts anderes als
+den statischen Druck.
+Das heißt, der Druck, der hier drin herrscht in der Flüssigkeit, der lässt sich messen,
+wenn ich hier seitlich bohre.
+Da sehen wir den Füllstands-Anzeiger an dieser Stelle.
+Hier haben wir einen höheren entsprechenden Füllstand, weil wir nicht nur den statischen
+Druck messen, der irgendwo in der Flüssigkeit gemessen werden könnte, sondern zusätzlich
+noch den Effekt haben, dass wir diesen Staupunkt produzieren, hier vorne, und die Geschwindigkeit
+des Fluids an dieser Stelle auf Null bremsen, hier aus diesem kleinen Rohrstück, da fließt
+ja nichts raus, das steht ja fest da oben, an der Endstelle, d.h. hier ist die Geschwindigkeit
+U nicht mehr der Zahlenwert, der diesen roten Pfeil entspricht, sondern genau Null.
+Und dieses Mehr an Energie zeigt sich an in diesem sogenannten Pitot-Rohr oder auch der
+Totaldrucksonde.
+Das ist das, was hier gerade definiert ist, also Pitot-Rohr oder Totaldrucksonde ist nichts
+anderes als das, was man misst, wenn man genau gegen die Geschwindigkeitsvektor seine Messvorrichtung
+aufbaut.
+Und dazwischen, sehen Sie in der Gleichung, ergibt sich eine Differenz und das ist nichts
+anderes als dieser dynamische Druck P dünn.
+Ich habe da oben jetzt in rot reingeschmiert, weil ich mit dem Ws nicht so glücklich bin.
+Ich habe also hier nochmal gezeigt, dass dieser dynamische Druck nichts anderes als dichterhalbe
+mal U² ist.
+Das ist genau das, was wir hier gesehen haben.
+Das ist also dieser Differenzdruck, und wenn ich jetzt das Ganze hier, die Flüssigkeit
+hier stoppe, was passiert dann, dann wird diese Flüssigkeitsröhre genauso hoch stehen
+und diese hier wird im Füllstand abfallen und der Differenzdruck ist 0.
+Also dieses Delta, dieser Druckunterschied zwischen diesen zwei Röhren, der gibt mir
+an, wie schnell fließt die Flüssigkeit.
+Man muss nur zweimal Druck messen, einmal so und einmal so.
+Und das gleiche kann man ja beim Flugzeug eben auch machen, da hatten wir das vorhin
+schon gesehen, vielleicht noch ganz kurz zum Wording.
+Dieses quer gesporte Rohr, das nennt sich das Piezo-Rohr.
+Piezo-Rohr und Pitot-Rohr in der Kombination werden verwendet im sogenannten Prantelrohr,
+ist das, was diese zwei Sachen auf einmal ist. Und das ist genau das, was hier gezeigt wird,
+was Sie auch vielleicht schon mal gesehen haben, wirklich an einem Verkehrsflugzeug,
+wenn Sie mal irgendwo am Flügel gesessen sind, in der Nähe, typischerweise dort wird auch in der
+heutigen Zeit, wo man alles mögliche mit GPS messen kann, man macht immer Resonanzen bei
+Flugzeugen, um bei Ausfällen noch eine gute Navigationsfähigkeit zu haben. Da wird gemessen,
+wie hoch ist der Druck, der hier vorne, das ist nichts anderes als der Staupunkt gegen die Strömung,
+hier vorne gemessen, für den Druck erzeugt. Und hier seitlich eine Bohrung, hier irgendwo ist ein
+Loch drin gebohrt, das sieht man jetzt vielleicht nicht so gut, oder hier, oder es ist nochmal am
+Flügel separat. So ein Bauteil sehen Sie hier, Static Port, haben Sie vielleicht schon
+mal gelesen beim Flugzeug. Das sind nichts anderes als solche Bohrungen, die an der Seite
+sind, die hier den statischen Druck messen. Das ist genau das. Und dann haben Sie hier
+diesen Anzeigeunterschied. Hier sieht man es wie so eine Quecksilbersäule, die an der
+den einen Druck und dann den anderen Druck entsprechend misst.
+Also das Pantelrohr ist nichts anderes als Pitot und Piezo-Rohr in einem.
+Gut, soweit dieses entsprechende Bauteil.
+Wir hatten es auch im Video gesehen, genau diese Idee, und jetzt kann man es umwandeln
+und daraus die Geschwindigkeit errechnen.
+Ein bisschen unglücklich, dass man im Angelsächsischen Raum hier große Buchstaben verwendet, bei
+uns sind es nur mal kleine Druckbuchstaben, kleine P's, aber ansonsten eigentlich eine
+klare Sache.
+Man kann noch einen Schritt weiter gehen und das Ganze mit dem Venturi-Rohr machen.
+Das Venturi-Rohr hatten wir ja auch im Video schon gesehen, ist noch einmal ein Gerät,
+was mit zwei Druckmessungen eine Abschätzung der Geschwindigkeit erlaubt und was uns eigentlich
+interessiert ist die Strömung im uneingenommenen Bauteil, das heißt also außerhalb von dieser
+Messeinrichtung. Hier steht V1, bei uns heißt es U1. Diese Geschwindigkeit an dieser Stelle ist das,
+was wir hinterher bekommen wollen und was wir angezeigt kriegen mit dem Gerät. In dem Fall
+Da haben wir zweimal so ein Piezo-Rohr, wir bohren hier einmal rein und messen den Druck
+vor der Engstelle und wir bauen extra eine Engstelle ein.
+Das ist natürlich ein bisschen unangenehm, weil die Engstelle wird einen Gegendruck erzeugen
+und wird entsprechend die Stürmung ein bisschen stören von den Flüssigkeiten.
+Nichtsdestotrotz können wir mit diesen zwei Bohrlöchern und den zwei Druckbestimmungen
+eine Höhendifferenz feststellen, hier ist in Lila mal gezeigt, wie die Flüssigkeit
+steht und das ist hier die Dichte von diesem Messfluid, da ist die Dichte von dem Fluid,
+was wir durchsprühen beim Wasser, hier ist es vielleicht ein Öl und wir sehen hier,
+dass die Formeln relativ umständlich sind, deswegen haben sie ihn mal hinkopiert, das
+Das ist nichts anderes als eine Bernoulli-Gleichung ohne Höhenterm, das ist die Kontinuitätsgleichung.
+Kontinuitätsgleichung umgeschrieben, man hat sich hier zur Hilfe genommen, dass man
+A1 durch A2 als ein F substituiert.
+Dann bastelt man das Ganze zusammen mit den oben den Gleichungen, schaut sich den Druckunterschied
+an und den entsprechenden Höhenunterschied, der Höhenunterschied ist ja hier, der Druckunterschied
+Und dadurch, dass man den Druckunterschied als Höhenunterschied plötzlich ausdrücken
+kann, kann man auch das Ganze in die Anfangsgleichung wieder einsetzen und bekommt am Ende raus,
+dass die Geschwindigkeit 1, das ist die ungestörte Strömungsgeschwindigkeit in meinem Rohr,
+was zu tun hat mit der Dichte von dieser Flüssigkeit, die habe ich hoffentlich katalogisiert und
+ist mir bekannt.
+Ebenso wissen muss ich die Dichte von der Flüssigkeit, die ich da durchschicke, also
+wenn das Gerät funktioniert mit Wasser, dann ist das gut, dann kann ich es mit Wasser gut
+verwenden, wenn ich eine andere Flüssigkeit durchschicke, Alkohol oder was, dann wird
+sich diese Dichte ändern, dann ist die Messansage nicht mehr die gleiche, aber gut, die zwei
+Sachen brauche ich, den Höhenunterschied kann ich ganz einfach messen, das ist wieder
+die Dichte von dem Fluid, und als letztes hier dieses F, das ist nichts anderes als
+dieser Geometriefaktor, also wie ist meine Venturidüse gebaut, hier ist sie dick und
+hier ist sie dünn und das steht auf diesen Venturidüsen als Zahlenwert drauf, wie hoch
+dieser F-Faktor ist.
+Also damit lässt sich Geschwindigkeit bestimmen und das ist extrem stark in der technischen
+Anwendung, eigentlich bei allen möglichen Rohraufbauten von, ich sag mal, diesen Fruchtsaftherstellungen,
+wir mal als Anfangsbeispiel hatten, oder hier bei uns im Strömungskanal, da gibt es Luftgeschwindigkeiten,
+da wird mit dem Getzmanometer, hatten wir an anderer Stelle schon gesehen, dann immer
+diese Geschwindigkeit gestürmt und man konzentriert sich darauf, die Geschwindigkeiten eben durch
+diese Druckunterschiede zu messen.
+So lässt sich das Ganze machen, hier sehen wir nochmal den entsprechenden Durchfluss
+an den verschiedenen Stellen und wir sehen auch, das hatte ich schon im Video angemerkt,
+dass der Druckanzeiger eben hier den hohen Wert anzeigt und hier den niedrigen Wert
+anzeigt.
+Das heißt, wenn Sie ein Rohr jetzt auslegen, es würde hier bersten und kaputt gehen, nicht
+aber hier kaputt gehen.
+An der Stelle ist praktisch gar kein Druck auf der Außenwand.
+Wir können uns dann noch ein bisschen anschauen, wie das ganze strömungstechnisch sich verhält.
+Das hat dann auch was zu tun mit dem, was wir in den nächsten Stunden noch stärker machen werden.
+Wir haben hier einmal so eine Schemaskizze, so einen Durchschnitt durch das Rohr
+Und meinetwegen in so einem Blauton hier diese verschiedenen Stromlinien, die sich jetzt
+da hindurch bewegen müssen.
+Und es ist mir jetzt zum Mittelgut gelungen, aber ich versuche also zu zeigen, dass da
+keine Stromlinien sich kreuzen.
+Wir haben gesehen, dass wir vorne den Druck P1 haben und in der Mitte den Druck P2 haben.
+Zeichnen wir es also in diesem Diagramm hier unten mal hin.
+Hier ist der Druck P1 und der herrscht vor der Einbauten,
+und bei uns, weil wir keine Reibung betrachten, bisher auch konstant,
+bis an die Stelle, an der hier die Düse kommt,
+Und an der Stelle 2 ist der Druck, wie wir gelernt haben, niedriger.
+Wie geht der Druck dahin ab?
+Wir würden hier einen Abfall beschreiben und normalisiert sich dann zurück auf den
+Wert des Anfangsbereichs.
+Vielleicht noch ein bisschen kleiner.
+Um dann an der Stelle wieder den Normaldruck zu erreichen, der hier nach der Strömung
+geht.
+Das ist die reibungsfreie Situation.
+Und als Vorgriff zu den nächsten Stunden die Realität, die sieht ein bisschen anders
+aus.
+In Wirklichkeit erzeugt es Reibung, ich male hier so Kringelchen rein, in lila, die sollen
+nichts anderes als dass da Verwirbelungen auftreten, wir drücken die Flüssigkeit zusammen
+und dann lassen wir sie wieder nach draußen und dabei ist die Tendenz dazu sehr stark,
+dass Wirbelbildung auftritt, dass Turbulenzen auftreten, dass eben Reibung stattfindet und
+Entsprechend wird sich in der Realität hier eine etwas kleinere Drucksituation am Ende
+einstellen und die Flüssigkeit, Arbeitsfähigkeit verloren haben.
+Arbeitsfähigkeit kann man hier entweder durch Geschwindigkeit versuchen auszudrücken, das
+kann aber hier nicht sein. Das Rohr ist hinterher genauso dick wie es vorher war. Und irgendwo
+ist aber trotzdem Energie verloren gegangen. Wenn das Rohr genauso dick ist, muss gleich
+die Geschwindigkeitsflüssigkeit durchgehen. Also muss irgendwo die Energie verloren gehen.
+In dem Falle geht die Drohung verloren. Also für uns, wenn wir irgendwie mit diesen Benoy-Gleichungen
+arbeiten in solchen Rohrsystemen, ist es immer geschickt sich zu überlegen, was passiert
+Was passiert genetisch, was passiert geodätisch, also was passiert mit der Höhenenergie, was
+passiert mit der Bewegungsenergie, das ist absolut anschaulich, das kann jeder von Ihnen.
+Und dann, das was noch übrig bleibt, das muss der Druck machen.
+Okay, soweit jetzt diese Aufgaben, jetzt gibt es eine relativ komplizierte Rechenaufgabe,
+die ich glaube ich zum ganz großen Teil Ihnen hinkopiert habe, weil ich nicht so viel davon
+halten, dass Sie jetzt wahnsinnig viel schreiben, sondern wir eher uns ein bisschen darauf konzentrieren
+sollten, das Verständnis zu erlangen.
+Die Idee ist die, Sie können die Aufgabe sich auch ganz in Ruhe in einem Youtube-Video
+anschauen.
+Es ist sehr lustig von einem schweizerischen Dialekt, aber ich glaube ich ganz gut erklärt.
+Es geht um das Venturi-Rohr und das Prandl-Rohr, hier ist das Prandl-Rohr gezeigt nochmal,
+und die Idee, wie misst man hier Geschwindigkeiten, und das Venturi-Rohr, wie misst man da Geschwindigkeiten.
+Und das was da steht ist nichts anderes als das Gerät, ist für kleine Geschwindigkeiten
+besser geeignet als das Gerät.
+Und warum ist das so?
+Das liegt ein Stück weit daran, dass man, wenn man die gleiche bauliche Präzision hat
+und hier die Durchmesser auf eine bestimmte Größe verändern kann oder verjüngen kann
+gegenüber hier und hier mit gleichen baulichen Möglichkeiten arbeitet, dass man hier deutlich
+mehr wirklich kleinere Druckunterschiede schon gut messen kann.
+Und das Ganze ist hier mal gezeigt, ich versuche sie da so ein bisschen durchzuführen.
+Wir haben einmal diese Variante hier, jetzt wieder ein bisschen im Bild anders, aber das
+gleiche Gerät gezeigt, das ist also dieses Prantelrohr, an dem wir hier einmal am Staupunkt
+messen und hier hinten an dem Punkt in der ungestörten Strömung und also das 1 geht
+genau an diese Stelle und die 2 geht genau an diese Stelle, ja?
+Und wir können also hier mit der Situation 1, das ist hier vor dem Ist-Gleich und der
+Situation 2, das ist hinter dem Ist-Gleich, einen Vergleich ziehen, 1 und 2.
+Und dann können wir unsere Rechnung machen, das haben wir jetzt vorhin schon zur Genüge
+getan.
+Der Druckunterschied, der D-Höhentherm fällt mal wieder weg.
+Dann haben Sie einen entsprechenden Rechenteil in dieser Aufgabe noch, wie
+Wie groß ist der Überdruck beim Stauro, also in Natur, wenn die Flugzeug mit einer Geschwindigkeit von 180 kmh gegenüber der Luft bewegt?
+Wir haben also dieses Delta P.
+Das ist der dynamische Druck, das ist nichts anderes als die Dichte halbe bei einer Geschwindigkeit 2 Quadrat.
+Also 2, das ist ja die Stelle der ungestörten Strömung.
+150 Newton, 1.500 Newton pro Quadratmeter, 1.500 Newton pro Quadratmeter ist deutlich
+unter dem Pascal, 10.000 sind, Entschuldigung, deutlich unter dem Bar, 10.000 sind ein Bar.
+Und jetzt haben wir die Aufgabe Teil B, um welchen Prozentsatz muss sich der Querschnitt
+bei einem Venturierohr verändern, damit ich den Unterdruck dort gleich groß wie der Überdruck
+beim Staubholz.
+Also ich würde den gleichen Druckunterschied messen und wie stark muss ich jetzt zwischen
+der und der Stelle den Durchmesser verändern.
+Und jetzt aufpassen, hier ist die Stelle 1 die ungestörte Strömung, hier ist ungestört
+und hier ist ungestört.
+Und an der 2 wird die Fluid ein bisschen schneller durchsausen.
+Wie schnell und wie die Druckverhältnisse sind, können wir wieder mit einem zweiten
+neuen Ansatz von Bernoulli machen.
+Hier ist der Höhenterm bereits eliminiert worden, wir schauen den Druck und Geschwindigkeit
+auf beiden Seiten an. Einmal an dieser Stelle und einmal an dieser Stelle. Hier ist die
+Bestbaurichtung nicht so genau gezeichnet. Wir sehen, dass der Druckunterschied, was
+mit dem Geschwindigkeitsunterschied zu tun hat, wir können diesen Geometriefaktor über
+die Kontinuitätsgleichung mit reinbringen. Also wir haben einfach uns zu Hilfe gemacht,
+dass die Geschwindigkeit 1 und die Geschwindigkeit 2 zueinander im Verhältnis stehen, sowie
+die Flächen im Verhältnis stehen. Und wir haben hier die U2 eliminiert durch ein Flächenverhältnis.
+Und das sind jetzt U1 mit reingepackt. Das ist jetzt hier alles in einem Schritt schnell
+gerechnet worden. Ich hoffe, Sie können das soweit nachvollziehen und mir glauben. Und
+Dann der Schritt, der jetzt wesentlich noch folgt, ist, dass Sie einen Vergleich ziehen können
+zwischen dem, was hier oben steht,
+jetzt war ja eine Farbe, die ich noch nicht verwendet habe, dieses dunkle Grün vielleicht,
+Wenn Sie einfach mal vergleichen, Sie haben hier einen Therm stehen und hier oben den
+gleichen Therm, dies und dies ist genau identisch, Achtung, da unten ist U1 die ungestörte Strömung,
+da oben ist U2 die ungestörte Strömung, das wäre in diesem Falle hier der grüne
+abtun. Und wir sehen also, dass es jetzt am Ende, wenn man diese Frage da oben nochmal
+sich auf der Zunge zergehen lässt, darum geht, was ist denn jetzt mit diesem Term,
+der hier überstand. Also das ist genau der Druckabfall und jetzt geht es um diese Flächenverhältnisse
+Und wir haben jetzt nichts anderes, als wenn ich hier oben da 1 ergänze, mal 1, also wenn
+ich jetzt das Ganze vergleiche, dann sage ich, dieser Teil soll gleich sein wie dieser
+Teil, also dieses hier soll gleich sein wie 1, das ist das was da steht, dann geht es
+um dieses Verhältnis dieser zwei entsprechenden Aufbauten, entweder mit dem Venturierohr,
+Das ist das mit den Flächen, und das andere ist das mit der 1, das ist das, was aus dem
+Brand hervorkommt.
+Ich hoffe, so kann man es nachvollziehen.
+Sie haben das alles in Ihren Formen stehen, oder?
+Ja?
+Gut.
+Okay.
+Also dann, ansonsten, im Tragensfalle bitte gerne nochmal in das Video reinklicken.
+Oder gerne auch nicht unterbrechen und fragen, das ist durchaus auch legitim.
+Wenn ich das jetzt auf die andere Seite bringe, Minus 1 und 1, dann ist das 2, dann habe ich
+dieses Flächenverhältnis.
+Und dann wird hier unten so rumgeformt, das ist etwas umständlich, aber wenn Sie es am
+Ende sehen, dann kommt da raus, dass dieses A1 minus A2 nichts anderes sein muss als,
+So, da haben wir den Term, und das heißt, dass A2 am Ende des A1 mal 0,29 ist.
+Das heißt, wenn Sie mit dem Venturierohr arbeiten, müssen Sie die Fläche gerade mal
+um 29% einschränken, das ist nicht viel, und können den gleichen Druckunterschied
+messen wie hier, nämlich diese 1500 Newton je Quadratmeter, und es ist mit dem Venturierohr
+ohne weiteres auch möglich, mehr als 29% einzuschränken, ohne dass Sie ein bauliches
+Limit haben.
+Also wenn Sie das Venturierohr nur genug rastig bauen, dickes Rohr und dann sehr dünn
+eingeschnitten, also mehr als 29%, dann messen Sie deutlich höhere Druckunterschiedswerte
+als sie das beim Krantelrohr tun und je höher der Druckunterschied ist, desto leichter lässt
+er sich messen, desto genauer können sie auch einen Druckunterschied oder auch eine
+Geschwindigkeit messen.
+Und das ist eigentlich eine ganz angenehme Messvorrichtung, die in der Praxis große Rolle
+spielt.
+Wenn Sie mit Flüssigkeiten arbeiten, wird praktisch immer mit Venturierohren oder dann
+auch, wie Sie sehen, werden mit Normblenden gearbeitet, weil man da viel präziser und
+schneller solche Geschwindigkeitsunterschiede messen kann.
+Bei Luftstürmung ist es ein bisschen anders, da liegt es dann aber eher an Problemen der
+Verwirbelung, die Ihnen bei dem Venturi-Rohr abverlangen würden, das wäre ein sehr, sehr
+langen Messaufbaubahn, deswegen kann man bei Luftströmungen durch Gas ausdrucken.
+Soweit einmal an der Stelle diese Aufgabe als Verständnis genutzt und nicht so sehr
+zum Zahlenrechnen, aber hoffentlich doch hilfreich.
+Ich will Ihnen noch etwas weiteres zeigen, ich weiß nicht, ob das Video jetzt funktioniert.
+Es ist das sogenannte hydrodynamische Paradoxon und das hydrodynamische Paradoxon ist etwas,
+was Sie vielleicht am ehesten, ich bin mir nicht sicher, ob es jemand von Ihnen schon
+mal gehört hat, aber am ehesten ist es im Volksmund bekannt als das, wo man sagt, Sie
+gehen nach München, fahren U-Bahn oder Sie gehen hier raus an den Bahnsteig beim Bahnhof
+Und es heißt immer wieder, stellen Sie sich nicht zu nahe an den Zug, der da rein oder raus fährt.
+Warum nicht? Nicht nur, weil Sie nicht stolpern sollten, sondern weil ein Sog entsteht, der Sie hinzieht.
+Das ist zumindest das, was man immer wieder hört. Ich hoffe, Sie haben es noch nie getestet.
+Aber dieses Anziehen hin zu der Sache, die sich schnell bewegt, das gibt es hier auch als Effekt.
+Mit dem kann man auch technisch arbeiten, kann man auch Saugpumpen zum Beispiel mit
+betreiben, wie wir gleich sehen werden.
+Der Herr stürmt hier Luft durch.
+Man sieht zunächst mal, dass er wirklich wegbläst, dass er wirklich etwas da hat.
+Jetzt nehme ich den Ping-Pong-Ball, der passt schön da drauf und versuche ihn da in die Strömung hineinzuhalten.
+Wir sehen, dass er überhaupt nicht weggeblasen ist. Er bleibt da lustigerweise an Ort.
+Obwohl die Strömung noch da ist, werde ich den Ping-Pong-Ball etwas wegbewegen.
+und dann sieht man, dass die Strömung tatsächlich noch da war, sie ist nämlich weggeflogen.
+Die Frage ist, warum ist das so möglich, warum wird der Ping-Pong-Ball nicht weggespritzt, wenn der Nagel nahe genug ist?
+Der Grund liegt eben im Bernoulli-Effekt, der besagt, wenn da eine sehr dünne Spalte ist, wo die Strömung nur raus kann,
+da wird die Strömung schneller, wegen des Protonitätsgesetzes.
+Sie muss dann hier schneller durchgehen und bei höheren Strömungsgeschwindigkeiten gibt es immer einen Unterdruck
+im Vergleich mit dem Aussendruck, d.h. mit der richtigen Dimensionierung dieses Spaltes
+wird tatsächlich der Ping-Pong-Ball nicht weggeblasen, obwohl der Druck schon da ist,
+sondern aufgrund des Saug-Effekts nach Bernoulli tatsächlich dann zurückbehalten oder zurückgesaugt.
+Erst wenn der Abstand grösser ist, kann der Bernoulli-Effekt nicht mehr wirksam sein und dann fliegt der Ping-Pong-Ball weg.
+Ein weiteres Beispiel zum Bernoulli-Effekt sehen wir hier.
+Das ist eine Pressluftflasche auf der linken Seite,
+die einfach Pressluft hier über ein Rohr nach unten bläst.
+Ohne weitere Ventile. Ich mache einfach auf
+und drücke dann diese Luft mit hoher Geschwindigkeit nach unten.
+Das klingt dann auch sehr laut. Ich habe den Ton jetzt hier abgestellt.
+Wenn man diese Sache dann laufen lässt
+und die Luft hier ausströmt, dann kann man hier eine schmale Verengung machen
+und erhält danach, wie in der nochmals vergrösserten Strömungsgeschwindigkeit der Windwelten nach der Nulli,
+einen Saugeffekt, also einen Unterdruck, statischen Unterdruck.
+Das ist jetzt hier so gemacht.
+Ich mache jetzt hier also ein Gewicht dran.
+Und das Gewicht über ein Haken und diesen Flansch hier sollte normalerweise nach landläufiger Idee
+weggeblasen werden durch diesen Druck.
+Aber wie man hier sieht, ist dieser Flansch nahe angesaugt.
+Es fällt nicht nach unten, es bewegt sich ein wenig nachher, wenn ich es wieder laufen lasse.
+Und wenn ich dann die Luft abstelle, dann fällt es erst runter.
+Jetzt gibt man das noch in Betrieb und erstellt die Luft ab.
+Und jetzt fällt es runter.
+Also ein ganz interessanter Effekt.
+Letztendlich ist dieser Saug-Effekt ja auch der Grund dafür, warum z.B. ein Flugzeug fliegt.
+Ein Flugzeug hat ja an der Oberseite sein Flügelprofil.
+ist auch eine höhere Strömungsgeschwindigkeit, deshalb ein statischer Unterdruck,
+deshalb dieser dynamische Auftritt, der dann die Gewichtskraft kompensiert und dann übersteigt.
+Gut, soweit dazu. Also wir haben es hoffentlich so ein bisschen sehen können.
+Das ist natürlich bei weitem nicht so anschaulich, wenn man irgendwelche Experimente hier macht,
+aber es hat wirklich einen praktischen Grund, warum man sich nicht nah an einen einfahrenden Zug stellen sollte,
+da nämlich genau diese erhöhten Strömungsgeschwindigkeiten zu einem Unterdruck führen, der sie ransaugt
+an das einfahrende Fahrzeug oder eben hier, genau wie es im Video gerade gezeigt ist,
+ein Rohr, wo von oben mit einer bestimmten Geschwindigkeit innen durch das Rohr etwas
+einfließt. In dem Fall geht es um Luft, die da eingestürmt wird und außen an dieser
+Mantelfläche, die ich jetzt versuche hier gerade zu skizzieren, dann Luft, die nach
+außen weggedrückt wird mit einem UA, also außen. Und wir haben hier in dieser Geometrie
+Jetzt noch als Indikatoren die Höhe A und die entweder eine Mandelfläche, A ist nichts
+anderes als zwei, ich muss jetzt das Ding wieder drunter packen, Sie haben die Folie
+auch bei sich drin, ne?
+Ja.
+Zwei Pi mal R mal H und jetzt können wir uns das mal auf der rechten Seite anschauen,
+nichts anderes als ein Querschnitt durch diese Geometrie. Hier ist mal wieder der Buchstabe
+U und W anzupassen für uns. Und wir haben also hier diese Änderung der Geschwindigkeit.
+Wir sollten uns den mittleren Punkt nochmal markieren als den Punkt innen. Und hier diesen
+genau an der Mantelkante als den Punkt außen und jetzt machen wir immer das
+gleiche. Wir nehmen wieder den Bernoulli als Gleichung. Da haben wir also P innen
+plus Rho halbe. Ich werde die Aufgabe noch kurz fertig rechnen und sie dann in die
+Freiheit entlassen. Vielleicht brauchen wir heute eine Minute oder zwei gar
+länger. Ich hoffe aber, ihr kriegt es noch gut abgeschlossen.
+So, dann kann man den Druckunterschied von innen nach außen darstellen und es ist nichts
+Anders als.
+Jetzt kommen noch zwei Geheimdienste, die sehr wichtig sind.
+Und keine Sorge, ich werde das in der nächsten Strömungstechnikstunde nochmal aufblenden.
+Nicht, dass Sie jetzt sagen, Herr Hess, das ist immer genau das Wichtigste, immer genau
+am Schluss.
+Okay, einiges an Schreibarbeit, naja, 5 Minuten bleiben uns noch, die reichen uns noch aus,
+damit kriegen wir es gar nicht abgeschlossen.
+Ich habe, ganz wichtig, auf dieser Folie hier oben was hingeschrieben und ich glaube es
+steht nicht in Ihrer Formelsammlung, aber es ist eine sehr grundlegende Gleichung, wie
+vielleicht auch Ihr Spickzettelchen gehört.
+Die Geschwindigkeit ist nichts anderes als der Volumenstrom durch die Fläche oder andersrum
+gesprochen, Volumenstrom ist Geschwindigkeit mal Fläche.
+hatten wir auch schon heute. Die Geschichte brauchen wir immer wieder.
+Wir haben in der folgenden Zeile dann die Herleitung der Geschwindigkeit über
+Volumenströme und die entsprechenden Höhe, die hier anzusetzen ist. Bei solch
+einer Aufgabe ist es typisch so, dass wir hier einen Volumenstrom gegeben haben,
+mit dem wir arbeiten müssen und die Geschwindigkeit ist dann unsere Aufgabe, die zu berechnen und in
+Abhängigkeit von diesem Volumenstrom, der da einfließt, bekommen wir ein Verhältnis dieser
+Drücke innen und außen und in unserem Fall sieht dieses Verhältnis so aus, dass das hier ein Zahlenwert ist.
+Das alles ist, würde ich denken, können Sie mir gut folgen, alles größer als Null.
+Das sind irgendwelche Dichte-Werte, Volumenstrom-Werte und Höhen, also Abstandswerte.
+Und hier hinten haben Sie zwei Terme.
+Einmal was mit dem Radius außen und einmal den Radius innen.
+R innen ist an dieser Stelle dieses, also ein ganz kleiner Zahlenwert, in dem Fall können
+Sie nicht auf die Null gehen, weil Sie in der Mitte einen Schlauchzulauf haben, also
+hier ist beim Vignier R innen und geht dann nach außen hin und Sie wollen jetzt angucken,
+der Druckunterschied in Abhängigkeit von dem, wie weit Sie von innen nach außen wandern.
+Und Sie sehen, so ein Wert größer als der, das heißt aber, das ist eine Reziproke, das
+heißt, dass dieses 1 durch großer Zahlwert minus 1 durch kleiner Zahlwert ist kleiner
+als 0.
+Ich hoffe, das kann jeder von Ihnen nachvollziehen.
+Und wenn das kleiner als Null ist, dann heißt das nichts anderes, dass der Druck innen kleiner
+ist als der Druck außen und Sie sehen das an dieser Stelle eingeblendet in der entsprechenden
+Darstellung aus dem Fachbuch.
+Man sieht, dass der Druck auf der Außenfläche immer gleich ist, aber innen drin, es geht
+jetzt um diese untere Platte, die wurde hier runter projiziert, der Druck hier, oder die
+Auftriebskräfte, der Druck an der Innenstelle ist an der Außenkante genau gleich, und je
+weiter sie Richtung Mittelteil des Rohrs gehen, desto kleiner ist der Druck, und da geht aufgrund
+dieser entsprechenden Unterschiede eine Auftriebskraft und die saugt in die Platte nach oben hin
+zu meinetwegen ihrer entsprechenden Überdruckflasche.
+Ich hoffe man konnte das ein Stück weit nachvollziehen.
+Fotografieren Sie es uns gerne.
+Also das ist ein Effekt, der da eine große Rolle spielt.
+Wir wollen abschließen die Stunde nur einmal, das hier als technisches Beispiel, das werde
+ich Ihnen logischerweise nächste Vorlesung in der Strömungstraining zeigen, das vermutlich
+erst in zwei Wochen der Fall, da kann man es technisch nutzen in der Strahlpumpe, so
+ähnlich wie im Bunsenbrenner, wo man Flüssigkeiten von unten aussaugt und jetzt, Zusammenfassung
+der Stunde, geben Sie mir noch eine Minute, was haben wir heute gelernt und gesehen?
+Wir haben uns also mit der Hydrodynamik befasst und die Themen, die überhaupt eine Rolle spielen,
+sind eigentlich immer wieder zwei Gleichungen.
+Einmal die Kontinuitätsgleichung, die Flüssigkeit, die reinfließt, muss aber auch irgendwie wieder raus.
+Und die andere Sache ist die Benoît-Gleichung, die eben auf drei Energieformen abzielt.
+Geschwindigkeitsbasierte Energie, also energetische Energie, Höhen-, Lageenergie-basierte Energie,
+also potenzielle Energie und dann eben diese Druckenergie und die verblüffenden Sachen,
+die zustande kommen, sind die, die Sie zum einen im Video sehr gut gezeigt bekommen haben
+und ich denke, für eine Anschauung würde ich Ihnen sehr empfehlen, mir dieses Bildchen
+noch mal Revue passieren zu lassen und noch mal ein bisschen mitzunehmen,
+weil da steht, finde ich, das Benui-System doch sehr gut erklärt,
+an diesem praxistauglichen Bild, zu sagen, okay,
+irgendwo muss die Energie hin,
+in kinetische Energie, in potenzieller Energie oder in Druckenergie,
+und es kommt das raus, wo Sie alle verwundert waren,
+dass eben an dieser Stelle der Druck kleiner ist.
+Das ist die Klassiker-Aufgabe zum Einstieg in der Klausur.
+Hier gibt es logischerweise auch andersherum gedreht, diese Rohraufgabe,
+wo man sich dann überlegen muss, was ist denn, wenn ich von einem dünnen Rohrstück ins dicke Rohr gehe.
+Aber da können Sie sich vielleicht kurz im Nachgang mal Gedanken zu machen.
+Ich werde Sie morgen im Zoom-Raum sehen, all diejenigen, die möchten.
+Ich werde die Videoaufnahme starten, für diejenigen, die das nicht in Ordnung ist.
+Müssten Sie sich dann im Nachgang das Video angucken, aber ich hoffe, Sie sind da dabei
+und stellen vielleicht trotzdem die eine oder andere Frage und wir gucken uns ein paar Übungsaufgaben
+an.
+Nehmen Sie die Übungsblätter zumindest mit, nehmen Sie sie hin oder haben Sie einen zweiten
+Bildschirm, um ein bisschen zu navigieren.
+Alles Gute, bis morgen!

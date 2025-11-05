@@ -1,0 +1,900 @@
+...hintereinander war ich so halb in der Vorlesung und dann wieder in der Konsumphase kam irgendwas dazwischen.
+Aber dieses Semester ist nichts, was gewichtig wird.
+Ja, irgendwann müssen wir es wieder machen, ne?
+Genau. Dieses Semester.
+Ja, das Wintersemester immer, ne?
+So, wieviel sind sie denn in der Regel hier?
+Fünf, sechs, sieben.
+Ich bin fast gedacht, dass ich hier aufbeigehen muss, wenn ich hier reinlaufe von der Stelle.
+Ja.
+Ich weiß ja, was ich mache.
+So, dann warten wir noch einen kleinen Augenblick.
+Ihr kennt das.
+Dazu habe ich einen Positionbereich vorbereitet.
+Möchten wir mal passieren.
+Aber auch fast nicht.
+Hören wir mal, was das ist!
+Versuchen Sie es doch einfach mal.
+Erkennen Sie mir doch, was Sie das letzte Mal gemacht haben.
+Genau, ich greif, hier rein.
+Die Schweißverzug und Eigenspannung.
+Ah ja, okay, damit haben wir angefangen.
+Da hast du recht, genau.
+Das als größtes Problem beim Schweißen ist letztlich, dass Temperatur Materialien beeinflusst
+und sie dazu bringt, ihre Form zu ändern.
+Außer sie tun es nicht, aber dann haben wir es mit Eigenspannung zu tun.
+Beides kann eben auch schlecht sein.
+Welche Verfahren haben wir denn noch kennengelernt?
+Das sind Lichtbogen, ja. Da hat man zwei unterschiedliche mit Lichtbogen.
+Gegen- und Rückseitenschweißung.
+Gegenseitenschweißung und Rückseitenschweißung.
+Okay, mit welchen Verfahren aber?
+Das war was mit Elektro- oder Handschweiß.
+Wenn wir schweißen, wird die Spannung in die Elektrode geschoben.
+Wenn wir nicht schweißen, wird die Spannung in die Elektrode geschoben.
+Also einmal, wie gesagt, das Problem mit der Verformung oder der Einspannung, das andere,
+dass wir mit diesem Elektrode-Handschweißen ein Verfahren durchgelernt haben, was relativ
+viel Wärme einbringt und diese Wärme eben viel Verzug und viel Einspannung eben bringt,
+Aber es trotzdem eben, hallo, trotzdem eben damit eine Gewandtis hat, weil dieses Verfahren eben sehr schnell und gut einsetzbar ist,
+auch sehr günstig ist und sogar unter Wasser funktioniert.
+Da sind wir letztendlich irgendwie über das Verbrennen der entsprechenden Umhüllungswerkstoffe
+dieses Schutzgas weg.
+Deswegen ist dieses Vergleichen mit dem Wasser nicht schlecht, weil wer Wasser verdrängen kann,
+kann ja selbst Luft verdrängen.
+Können Sie sich noch daran ändern?
+Ich war ja immer in verschiedenen Semestern, in verschiedenen Zeitpunkten mal da, also ich sehe dann immer, ob ich mitgeschrieben habe oder nicht.
+So, jetzt wollen wir uns nochmal über das Hauptverfahren unterhalten.
+Das nennt sich nämlich MSG schweißen, Metallschutzglas schweißen.
+Das wäre die klassische Schweißverbindung für eine klassische Stahlgeschichte, könnte
+auch letztlich hier an unseren Tischen verbaut sein, das Ganze, dieses Schweißverfahren
+ist mit so das universellste und weitverbreitetste überhaupt.
+Deswegen auch hier nochmal so einen Schweißbrenner, der schon ein bisschen aufwendiger gestaltet ist.
+Im Baumarkt wird es ein bisschen günstiger, weil hier sind ja auch noch Schläuche für Wasserkühlung dabei.
+Wasserkühlung ist eben für das Verfahren etwas, was es ermöglicht, dass ich hier vorne noch schneller,
+nicht nur schneller, sondern eben auch länger schweißen kann, weil natürlich auch hier Temperatur entsteht.
+Schauen Sie sich den Turm an. Der Draht ist ein bisschen verrutscht hier, aber der kommt eben koaxial hier durch.
+Und da gibt es noch einen Einschalter, einen Ausschalter.
+Und das Ganze bringt dann eben hier kontinuierlich mein Draht.
+Und das ist der Unterschied zu mir Handschweißen.
+Da war eben eine Elektrode, die hat abgeschmolzen.
+Und wenn die fertig war, musste ich die wieder ändern.
+Hier kontinuierlich.
+Schauen Sie sich das entsprechende Fallergebnis dazu an.
+Schon ein bisschen weniger breite Nähte, wie das letzte Mal, was ich da gezeigt habe.
+Letztendlich...
+Doch.
+Mal genau angucken,
+wie das Rohr so ein bisschen schiebt,
+sieht es gleich auch aus.
+So, nochmal als Hinweis,
+können Sie gerne noch ein Foto davon machen,
+weil das sind die Innereien.
+Natürlich ist der Trenner sonst geschlossen,
+Für Sie als Merker, endlose Drahtelektrode, da könnte auch so ein 200-Liter-Fässchen
+dahinter stehen, was letztlich Kilometer um Kilometer diesen Draht fördern kann.
+Es ist aber auch letztlich ein klitzekleiner Nachteil dabei, auch hierbei ist es natürlich
+so wie bei mir Handschweißen, es wird an der Stelle immer Zusatzdraht geben.
+Weil der Lichtbogen, der brennt eben ganz zum Schluss an den Drahten.
+Und dann müssen wir eben noch ein bisschen unterscheiden, was für Schutzgas wir einsetzen,
+weil jetzt haben wir ja nicht mehr diese Umhüllung,
+sondern jetzt haben wir reines Gas, was da koaxial durchgeht.
+Eine der Leitungen wird jetzt eben auch die Gasleitung an der Stelle sein.
+So, und da wird eben unterschieden, ob das Ganze aktiv oder letztlich inert abläuft.
+Haben Sie irgendeine Vorstellung, wozu inert oder aktiv gut sein kann?
+Was heißt denn inert überhaupt?
+Inert heißt also, dass es ein Gas ist, das nicht mit anderen Gasen verbunden ist.
+Das heißt also, dass es ein Gas ist, das nicht mit anderen Gasen reagiert, sondern rein, letztlich
+Schutzgas, also letztlich eine Rüllung darstellt, wo Sauerstoff nicht durchkommt, aber nicht
+eine entsprechende aktive Verbrennung fördert.
+Aktives Gas wäre genau das Umgekehrte, da scheint es irgendwie eine Förderung zu geben
+des aktiven Brennens.
+Also das heißt, wenn jetzt ein Lichtbogen eine gewisse Energie hat über den Strom,
+liefert das aktive Gas nochmal zusätzliche Energie, indem es auch selber verbrennt.
+Das war es eigentlich schon.
+Also Inertgas verblendet nicht?
+Das reagiert nicht, das ist der richtige Begriff dafür.
+Es reagiert letztlich nicht mit meinem Bergstoff,
+dass es eine zusätzliche Energie abgibt.
+Gut, wenn Sie es genau wissen wollen, wollen Sie sich eine Vereinfachung merken.
+Es gibt natürlich schon eine gewisse Reaktion, aber die ist nicht vergleichbar mit aktivem Gas,
+wo es eben einen richtigen Schub gibt und ich tatsächlich deutlich tiefer rein komme.
+oder deutlich schneller schweißen kann.
+So, hier unten haben wir es wieder voll mechanisch und automatisiert.
+Das geht in die Wirtschaftlichkeit.
+Jetzt haben wir ein Verfahren im Gegensatz zum Gehandschweißen,
+was eben auch tatsächlich viel wirtschaftlicher ist.
+Klar, wenn der Draht jetzt einfach kontinuierlich fließt,
+ohne dass ich den großartig noch wechseln muss,
+dann ist es eben ein hochproduktives Verkauf.
+So, also weit verbreitet im Stahlbaubereich, eigentlich überall, wo irgendwas geschweißt werden muss,
+große Wandbereiche, niedriger, was hatte ich letztes Mal gesagt, die Halsschweißen war eher niedrig legierte Stähle,
+so grob dicke war da schon gar nicht mehr mit dabei, erst recht nicht Eisenmetalle,
+Hier im Verfahren, was eigentlich die gesamte Bandbreite aller Metalle erledigt.
+Noch so eine komische Eintrüge, aber doch...
+Ja, ich pack sie einfach mal.
+Warum geht Kunststoff nicht zum Schweißen beim Lichtbogen?
+Ich hab letztes Mal auch ein bisschen erklärt, was Lichtbogenrock ist.
+Es ist ein elektrischer Strom, der fließt.
+Und was kann Kunststoff nicht?
+Kunststoff kann in der Regel nicht Strom leiten.
+Und deshalb, die Wärme könnte gar nicht entstehen, weil der Lichtbogen gar nicht brennen kann.
+Das ist alles.
+Und deswegen bezieht sich ein Lichtbogenprozess immer auf leitende Materialien.
+Aber da ist es ziemlich egal, ob das jetzt Aluminium oder Stahl ist.
+Und deswegen auch hier die ganze Art weiterer Reihe kann man eigentlich nur endlich weiterführen.
+Hier ist das Ganze aufgebaut. Es gibt eben den besagten Stromkreislauf.
+Es gibt zusätzlich die Zuführung von Rad und Zuführung von Schutzgas. Fertig.
+Und das Ganze landet dann hier ganz vorne in dem Bereich, wo wir unterwegs waren.
+So, also, das ist das Bild dazu.
+Da kommt jetzt der Draht raus.
+Und der lässt jetzt den Lichtbogen hier an der Stelle brennen.
+Und der Lichtbogen brennt jetzt zwischen dem Draht und meinem Bauteil, schmilzt das auf, schmilzt das auf.
+Und der Clou ist jetzt einfach, das muss da hin.
+Das ist alles.
+Die Übertragung von diesem entsprechenden Material bedingt letztlich...
+Das ist ein extrem schlechter Begriff, weil es eine ganz andere Technik ist.
+Aber erstmal, dass das Material jetzt hier an der Stelle entsprechend aufhängt.
+Haben Sie eigentlich noch irgendwelche anderen Veranstaltungen vorweg, oder?
+Das ist leider nicht so zukünftig.
+Wir sind gerade im Schutzgasbereich, haben jetzt eben den nächsten Set.
+Ich bringe auch gleich nochmal hier den entsprechenden Brenner.
+Aber jetzt einfach nochmal, darum geht es.
+Das muss darüber, das muss aufgeschmolzen werden.
+werden. Und das ist tatsächlich die Wissenschaft, tatsächlich geht es hier darum, diesen Bereich
+abzulösen und in Richtung Bauteile zu beschleunigen. Weil das ist nicht ganz so trivial, weil wir
+haben ja eigentlich unterschiedliche Ansprüche noch. Vielleicht fangen wir damit mal an.
+Was wäre denn jetzt Ihr Anspruch, wenn ich sage, Material wird aufgeschmolzen, viel Material
+viel aufgeschmolzen, heißt eben wieder viel Verzug und viel Einspannung.
+Was heißt das?
+Was möchte ich als Entwickler einer Schweißanlage denn erzielen?
+Wenig Einspannung, wenig Verzug und das geht eben nur über wenig Temperatur.
+Und da sind wir wieder bei dem Thema, weil das sieht so einheitlich aus,
+aber ich kann mir unterschiedliche Abläufe überlegen.
+diesen Tropfen so kalt wie möglich hier zu übertragen.
+Heiß, wie es eben notwendig ist, um aufzuschmelzen,
+aber da gibt es eben auch wiederum Varianten drin
+und da wird Schweiß entwickelt.
+Das heißt, alle Schweißmaschinenhersteller an der Stelle
+haben Schweißlabore und versuchen Stromspannungskennlinien
+oder den Draht so zu schieben, zu ziehen oder wieder zurückzuholen,
+dass das hier entsprechend möglichst kalt abläuft, oder möglichst effizient abläuft.
+Und Sie sehen jetzt, was da alles passiert.
+Da ist verdampfende Schmelze, da sind elektromagnetische Fehler,
+Kräfte am Wirken, da ist Oberflächenspannung, Dampfdruck.
+Wir haben irgendein Plasma, weil das war ja der Lichtbogen,
+Das heißt, das ist ionisiertes Plasma, welches ionisiertes Gas, was letztlich ein Plasma ist.
+Und Schwerkraft haben wir natürlich auch noch, außer wir schweißen irgendwie auf der ISS im Weltall.
+So, und daraus präsentiert letztlich, dass unterschiedlichste Lichtbogen entwickelt worden sind,
+um das letztlich irgendwie hinzukriegen.
+um irgendwie mit diesen physikalischen Gegebenheiten beizutragen.
+Den Film habe ich ja schon mal ganz kurz gezeigt, das habe ich dazu gesagt, einfach noch mal
+eine Wiederholung dazu.
+Hier seht ihr irgendwas, da geht was aus, geht wieder an, das nennt man ein Kurzlichtbogen.
+Das heißt, das ist ein Kurzschluss dahinter.
+Der Strom wird kurze Zeit nicht mehr über den Lichtbogen, sondern einfach direkt über Material übertragen.
+Und wenn Sie sich daran erinnern, ich habe ja gesagt, wenn man so über Kopf schweißt,
+dann will ich ja nicht, dass da irgendwas sprüht, weil mir das ja dann sonst wieder auf den Kopf fällt.
+Kann ich ja auch mal zeigen, so würde ein anderer Lichtbogen letztlich aussehen.
+Wollen wir?
+.
+Also hier sieht man nochmal diesen Tropfen, der da irgendwie, da wendet ein Lichtbogen
+drum herum, der brennt ja auch die ganze Zeit diesmal, das ist der Unterschied zu diesem
+Kurzlichtbogen.
+Das ist ein sogenannter Spüllichtbogen, weil permanenter Material am fließen ist.
+Das ist diese Übertragung vom Draht Richtung Bauteil.
+hat natürlich eine schöne Konsequenz, dass ich hier ganz viel Material pro Zeit, also
+sehr sehr wirtschaftlich unterwegs bin.
+Wenn ich den jetzt aber über Kopf machen würde, oder nur seitlich, dann wäre eben
+die Schwerkraft ganz anders in der Lage, mir den Tropfen quasi runterzuziehen.
+Und das will ich ja nicht, der soll ja gefälligst da landen, hier in meinen Nähten und so weiter,
+da wo sie letztlich eben auch hin soll.
+Damit ich sowas tatsächlich nicht dem Zufall oder der Schwerkraft überlasse, gibt es noch
+solche Varianten wie in einem Kurzlichtbogen, auch das haben wir kurz gezeigt.
+Was macht der jetzt, man sieht zwischendurch, das ist auch so eine Tropfenübernahme, aber
+Aber zwischendurch wird es kurz hell.
+Das ist nichts anderes, wie beim normalen Lichtbogen wird nochmal ein kurzer Impuls
+von Strom überlagert, der nichts anderes ist, wie eine Stromschere.
+Ihr schneidet aufgrund des kurzen Sprungimpulses einfach den entsprechenden Tropfen ab.
+Warum kann dieser jetzt plötzlich viel kälter sein?
+Warum ist ein Impulslichtbogen per se kälter?
+Draht, Bauteil.
+So viel Energie, bis dieser Tropfen endlich so heiß geworden ist, dass er runterfällt.
+Wenn ich den nicht ganz so heiß mache, fällt er nicht runter.
+Aber wenn ich ihm einen Impuls gebe und ihn abschneide, dann fällt er auch.
+Und das ist das, was ihr hier gesehen habt.
+Also mit dieser Technik der Hintergrund eben kälter und damit verzugsärmer zu schweißen.
+So, jetzt haben wir nochmal das Thema Schutzglas, wie gesagt, aktive Anteile bringen mehr Wirtschaftlichkeit
+Und entsprechend auch hier nochmal bitte ins Skript reingucken.
+Entschuldigung, irritiert.
+Habe ich es geändert oder nicht?
+Schauen wir uns nochmal in die Skript.
+Ja, schon.
+Hier steht es ja. Steht schon wohl da, oder?
+Achso, das Liedli steht da gar nicht mehr.
+Dann passt es eh nicht.
+Das heißt...
+Was soll da stehen? Liedli oder...
+Das war ganz kurz.
+Ja, okay, das bitte durchsprechen wollen, weil das steht ja auch schon oben.
+Ja, das ist jetzt ein bisschen scheinbärige Sichtweise, aber irgendwie kann ich das am
+besten Ihnen schildern.
+Also das ist nochmal der aktive Teil.
+Den brauche ich in minimaler Ausführung, hier sollte jetzt hochstehen, um das auch
+hier auf Warnnummer zu beantworten, damit der Prozess überhaupt funktioniert.
+Aber es darf nicht viel sein und es bringt auch keine zusätzliche Wirtschaftlichkeit.
+weil dann sind nur 2-3% von diesem aktiven Gas mit dabei, um den Lichtbogen zu stabilisieren.
+Deswegen wird eigentlich auch ein reines inertes Gas nur genommen, wenn ich im Bereich irgendwelcher Nicht-Eisenmetalle unterwegs bin.
+Aber diese eigentliche wirtschaftliche Kluft, dass ich damit einfach schneller oder tiefer
+schweißen kann, den hat er eben auch bei Hochligieren nicht.
+Das ist verwirrend, gebe ich zu.
+Aber wenn Sie das einfach so korrigieren, wie ich es gerade gesagt habe, dann passt
+das doch zum Nachschluss.
+Und Sie sind immer auf der sicheren Seite, wenn Sie hier die Nicht-Eismetalle, was war
+das, Aluminium, Kupfer, all diese Geschichten.
+Das ist reines inertes Gas.
+Und wie gesagt, wie immer, das sind die beiden Extrempunkte.
+Und klassischerweise wird eigentlich immer mit so einem Mischgas gearbeitet,
+wo ein bisschen was auch noch vom aktiven Teil, wie gesagt, verletzt.
+So, und jetzt einfach nochmal den wichtigen Aspekt.
+Wie gesagt, es gibt so einen Nebenaspekt, dass der Lichtbogen anständig brennen soll,
+Aber der eigentliche Sinn und Zweck von Schutzgas, wie der Name schon sagt, ist zu schützen.
+Und das kann man am besten letztlich sehen, wenn man hier eine Schweißung sieht.
+Bei der Laborbesichtigung werde ich Ihnen nochmal die Originale dazu zeigen.
+Man sieht aber hier, hier ist kein Schutzgas und die Naht selber, ja, wird entsprechend.
+Brauchen wir eigentlich das Licht?
+Vielleicht sieht man es jetzt ein bisschen besser, das nennt man im Fachstadion auch Blumenkohl.
+Er weiß, wie Blumenkohl aussieht, so ein wildes Gewächs, und irgendwo ist jede Menge Luft
+dazwischen.
+Und so müssen Sie sich das auch vorstellen, die Naht selber fängt an zu kochen, warum?
+Weil sie geschmolzen ist und der Sauerstoff drauf trifft und es kommt eben zu chemischen
+Reaktionen.
+Wenn ich gescheit Schutzgasse zutue, passiert das nicht.
+Das ist die gleiche Einstellung, aber dann gibt es keine Reaktion.
+Und wenn ich die eben nicht genug habe, dann gibt es so eine halbe Reaktion.
+Und das ist sogar noch viel kritischer, weil wenn ich sowas hier sehe,
+dann weiß ich, das ist Mist, wir müssen nur noch von vorne anfangen.
+Wenn das so halbwegs richtig ist,
+weiß ich ja erstmal nicht, ob das jetzt hält oder nicht.
+Ist da jetzt eine Probe drin oder nicht? Ist mein Querschnitt überhaupt vorhanden oder nicht?
+Und deswegen gibt es ja auch für solche Fälle jede Menge Prüftechniken wieder.
+Das heißt, jetzt brauche ich einen Querschnitt.
+Ich brauche Material, was mir Kraft übertragen kann.
+Ich kann sicherstellen, produktionstechnisch, und das sollte mal das Ziel sein,
+wenn es irgendwie nicht geklappt hat.
+Hier sehe ich von außen direkt, hier müsste ich nochmal prüfen,
+Ultraschall mit Lönken oder solchen Themen, um festzustellen, ob das auch möglich ist.
+Vorteile dieses Verfahrens sind die hohe Produktivität.
+Eigentlich dürfen Sie, wenn Sie in der Arbeitsvorbereitung unterwegs sind, immer zuerst an diesen Prozess denken.
+Klassischerweise hat so gut wie jeder Betrieb sowas, ja, und ausreichend gute Nahtqualität,
+produktiv, was will man eigentlich mehr.
+So, gibt sogar noch geringere Anforderungen, ist tatsächlich ein Stück weit auch einfacher,
+wie das Ehandschweiß, was man das letzte Mal gezeigt hat.
+Ich kann es automatisieren, und ich kann auch, ja, zwangslagend war ja diese Geschichte
+Geschichte nicht überkommt, dann nehme ich jemanden an der Lichtbrücke her.
+Einschaffungskosten sind sogar auch noch einigermaßen gering.
+Die Anlage, wie Sie denn bei mir im Labor sehen,
+die würde jetzt ohne Hochschulrabatt fast 20.000 Euro kosten.
+Kann man sagen, teuer.
+Ja, wenn Sie aber eine Million für Laser ausgeben,
+dann ist das relativ günstig, oder?
+So, Anschaffungskosten für ein paar tausend Euro, also für zwei, drei tausend Euro,
+kriegen Sie schon was einigermaßen gestaltetes.
+So ein Industriestandard wäre eher so bei sieben bis zehn tausend.
+Baumarktwesig wieder kann das Ganze unter tausend sein.
+Bei entsprechenden Systemen, wenn so ein Kaufland wieder irgendwelche Aktionen hat oder so was,
+Dann kriegen Sie eben auch für um die 100 Euro sowas.
+Ob Sie damit klarkommen oder ob das sicherheitstechnisch, das sind CE-Ketzer eben auch, klar.
+Aber das ist in keinster Weise das, was man auch für eine professionelle Dauerlösung geben darf.
+So, Nachteil. Es kann natürlich auch was schief gehen, dass sich irgendein Bindefehler ist,
+oder die Zugluft, und das ist nochmal das Thema mit diesem Gas, und das ist auch einer
+der Nachteile eben, ja, bei der Elektrode konnte ich sogar unter Wasser schweißen.
+Das heißt, eine Zugluft hat da auch kaum eine Chance, weil ich so nah dran bin.
+Hier kommt eben der Gasstrom, und wenn da seitlich ein bisschen Luft kommt, ich stehe
+hier irgendwo auf dem Hofhaus, auf einer Baustelle, schweiße da an irgendwelchen Trägern, und
+Wenn es weht ordentlich, dann kann ich das mit dem vergessen.
+Warum?
+Weil das könnte auch so was sein, dass zwar Gas da gewesen ist, aber es wurde weggeweht
+und damit wieder Sauerstoff dazugekommen ist.
+So, ja, und dann können wir beliebig viel drüber philosophieren, wie halten wir jetzt
+Das heißt, das wäre stechend, in diese Richtung, das wäre schleppend, wenn ich in diese Richtung
+gehe.
+Und neutral wäre irgendwie in der Mitte, so laufen zu lassen.
+Hat unterschiedliche Effekte, was ist das jetzt schon wieder, von Interesse, die Schweißer
+und der Schweißer wissen, was er da tut.
+Das Problem ist jetzt eben einfach nur,
+wenn Sie unterm Schweißen an komplizierten Teilen
+mal stechend schleppen
+oder den Linkshänder
+und dann sieht es eben genau wieder andersrum aus.
+Man muss sich darüber bewusst sein,
+dass Schweißen eben nicht gleich Speißen ist,
+sondern alle möglichen, in diesem Fall
+geometrischen Verhältnisse
+von der Schweißerhaltung her
+schon ein komplett anderes Ergebnis bringen.
+Es kann sein,
+dass der hier 2 mm tief ist und der hier 4 mm tief.
+Und damit hier vielleicht den Querschnitt erwischt und hier viel zu wenig.
+Lichtbogen sieht zu ähnlich aus.
+Also muss man sowas auch noch mitbehalten.
+Noch viel wilder wird das hier unten.
+Wenn Sie sich das noch einmal anschauen.
+Hier haben wir auch wieder eine Variante.
+Das heißt, hier bin ich anderthalb mal so tief wie bei dem hier.
+Weshalb?
+Könnte sein, aber ist da tatsächlich nicht maßgeblich.
+Kleiner Tipp steht auch überall.
+Warum ist das ein Unterschied, wenn ich einen Spalt habe?
+Aber es besser reinkommen?
+Ja, ganz absolut.
+Das heißt, hier fehlt ja was.
+Und das Material, was da jetzt reintropft, kann natürlich tiefer rein, weil da schon Luft ist.
+Das ist ganz nett.
+Ich bin plötzlich tiefer drin, obwohl ich Spalt habe.
+Und hier nicht.
+Das ist aber das Problem dahinter.
+Das ist unsere Fertigungstoleranz.
+Stellen Sie sich mal ein Auto vor, oder ein großes Teil,
+was letztlich über eine Länge von 1, 2, 3 Metern gefertigt wird.
+Machen Sie mal ein Blech und noch ein anderes Blech und schneiden das mal 3 Meter lang.
+Sie haben eine Toleranz.
+Das heißt, selbst wenn Sie versuchen, das exakt nicht,
+sondern Sie werden vielleicht 1, 2, 10, vielleicht sogar 1 mm auf die Länge Spalt haben.
+Und das ist wieder das Problem, wenn über eine gewisse Distanz sich die Eigenschaften
+oder die Voraussetzungen ändern.
+Sie sind mit einem guten Glauben, ich schweiße da ja ganz nett, ich habe jetzt auch immer
+Stechen oder Schleppen, was auch immer.
+Ich ändere das gar nicht.
+Trotzdem passiert das, weil Ihr Bauteil sich ändert.
+Weil der Spalt mal größer, mal kleiner ist.
+Also auch hier nochmal die Problematik, dass Sie auf all diese Sachen Antworten haben müssen.
+Und dieses, hast du gut geschweißt oder hast du schlecht geschweißt, eben auch mit solchen
+Dingen eben zusammenhängen.
+Absichtlich mit Spaltschweißen tue ich nicht, oder?
+Extrem kritisch, weil, wie halte ich denn den Spalt tatsächlich so konstant?
+Das ist ein bisschen einfacher.
+Das könnte ich vielleicht hinkriegen, indem ich jetzt zusätzlich nochmal drücke.
+eben eine Vorrichtung hat, die das eben besser zusammenhält.
+Das würde ich ja, sage ich mal, über diese Vorrichtung durchschweißen müssen, genau,
+die das auseinanderhält.
+So, es gibt noch Varianten, ich kann das nur punktuell,
+Ganz prinzipiell, was ist MSG-Löten?
+Der Teil Schutzgas-Löten.
+Ist nicht Schweißen.
+Was war der Unterschied zwischen Schweißen und Löten?
+Die Bauteile werden nicht aufgeschmolzen, sondern nur das Lot.
+Da sind wir eigentlich quasi beim Kleben.
+Beim Klebstoff auch genau das Gleiche.
+Das können Sie sich ja vorstellen, wenn Sie die zwei Dinge miteinander verkleben, kommt
+ja keiner auf die Idee, wenn ich jetzt zwei Stahlteile miteinander verklebe, dass ich
+mit dem Klebstoff das irgendwie aufschmelze.
+Und beim Löten ist es ähnlich, obwohl ich Metall habe, habe ich aber niederschmelzendes
+Lot.
+Das hat immer noch einen Unterschied von 400 Grad zu den Teilen, die ich eigentlich verlöte.
+Und deswegen passiert denen auch wieder nichts.
+Und in beiden Fällen reden wir eben von Adhesion und Kohäsion, also von vergleichbaren Sachen.
+Heben und löten ist natürlich identisch.
+Löten hierfür heißt nichts anderes, Sie schmeißen Ihren normalen Schweißdraht raus,
+nämlich den hier, das ist nämlich Stahl, und ersetzen den durch den Lotwerkstoff.
+Sie drehen das Protein ein bisschen runter, ein bisschen weniger Leistung, weil der schmilzt
+ja auch viel schneller.
+Und Sie da mit dem gleichen Gerät können Sie auch lösen.
+So, dann geht es natürlich wie immer um Wirtschaftlichkeit.
+Sie können mehrere Drähte in so einem Thema haben, dass Sie mehrere gleichzeitig zuführen,
+dass Sie das womöglich noch kombinieren mit anderen Schweißverfahren.
+So wie hier dargestellt, eine Doppeldrahteinheit mit Laser, alles zusammen in diesem Bereich.
+Hohe Wirtschaftlichkeit bei gleichzeitigem tiefen Einschweißen.
+So, Sie koordinieren jetzt Ihre Fertigung. Würden Sie sich sowas zutrauen oder nicht?
+Also wir haben jetzt eine Firma da, ihr sagt, ihr warst mal aufgeräumt, das ist total genial.
+Also mit Doppeldraht und dem sind ihre Teile, ja, zwei-, dreimal schneller geschweißt.
+Das ist doch das, was sie wollen, oder?
+Sie wollen doch ein hochproduktives Verfahren haben.
+Was könnte jetzt der Haken an der Nummer sein?
+Höhere Komplexität?
+Absolut.
+Allein schon dieser Doppeldraht, der muss ja irgendwie da auch passen.
+Jetzt haben Sie es doch hier bei meinem Bauteil gesehen.
+Der Draht war ja auch ein bisschen verbogen.
+Der wird zwar versucht zu richten hier drin, aber wenn der dann eben mal einen Millimeter
+geschwankt, würde der den anderen nicht mehr treffen.
+Und jetzt habe ich noch einen Laser dazu, der muss ja auch wieder da reinpassen.
+Das heißt, irgendein kleiner Schweißspritzer hier an der Stelle würde auch das Schutzgas
+wieder irgendwie verrücken.
+Eigentlich habe ich hier drei Prozesse, die ich im Griff haben muss.
+Und das war so ein bisschen das Problem.
+Jetzt auch wieder, wenn Sie jetzt die Verkäuferin, der Verkäufer sind,
+eigentlich, oh super, kann ich Geld sparen, mein Produkt wird günstiger, machen wir.
+So, die Fertigung auf der anderen Seite muss sowas auch im Griff haben, weil wenn sie nämlich
+jetzt wiederum Ausschlussquoten haben, ja, das funktioniert auf Nachtschicht schon mal
+dreimal nicht und irgendwann sind sie so mit der Aufsicht und ja mit dem Drumherum beschäftigt,
+dass sie von Produktivität schon wieder gar nicht reden können.
+Also, es gibt diese Varianten in einer Vielzahl.
+Wir müssen aber auch das Fachpersonal dafür haben, solche Prozesse auch dauerhaft im Griff zu behalten.
+Warum habe ich jetzt gerade von Nachtschicht geredet?
+Was ist auf Nachtschicht anders als am Tag?
+Wenn Sie so müde sind.
+Ja, also Sie als Mensch funktionieren nicht mehr so sauber am Abend.
+Vielleicht habe ich das mal...
+Nein, nein, nein.
+Nein, nein, ist schon okay.
+Ja, also meine Leistungsfähigkeit als Mensch ist nicht so gut in der Nacht.
+Gar keine Frage.
+Aber was habe ich noch nicht?
+Wenn ich da Anlagenbediener bin?
+Technischen Support oder so?
+Ja, technischen Support oder meinetwegen die Städtetage.
+Das heißt, Sie als Ingenieur, Sie schlafen nämlich nachts und Ihre Leute müssen arbeiten.
+Und wenn dann eben Probleme auftreten, und das ist ein ganz beliebtes Thema, nachts,
+wenn kein technischer Support da ist, sind keine Leute da, die das problemlässig lösen.
+Außer die Leute sind so gut, dass sie es selber mitkriegen können.
+Und deswegen, in Umkehrung, habe ich das immer so gesehen, wenn ich einen neuen Prozess eingeführt habe,
+und der auf Nachtschicht ohne Probleme funktioniert, dann ist er richtig safe, dann ist er richtig gut.
+Wenn Sie den nur am Tage mit viel Aufsicht machen, und das passiert tatsächlich, wenn Sie Neuentwicklung haben,
+Sie haben neue Werkstoffe, sie haben Mischverbindungen.
+Dann basteln sie sich da irgendwas zu rechnen.
+Und zum Schluss müssen sie massiv hingucken, damit es überhaupt funktioniert.
+Aber irgendwann haben sie die Erfahrung.
+Irgendwann wissen sie, was alles schiefgehen kann.
+Und irgendwann funktioniert es ja nicht mehr, was macht schief.
+Also das wäre auch die Kehrseite.
+Wir können ja nicht einfach sagen, in der Technik ist mir zu risikovoll,
+will ich nicht machen.
+Und auf der anderen Seite verkaufen Sie Ihr Produkt nicht, weil es zu teuer ist.
+Wir müssen sowas machen. Wir müssen optimieren, wir müssen hinschauen.
+Ich will Sie nur sensibilisieren, dass das nicht einfach ist.
+Aber den Weg muss man letztlich gehen.
+So, das heißt, das triviale Schutzgasschweißen ist immer noch Mittel der Wahl.
+Ja, aber schon mit neuen Lichtbögen, mit neuen Tropfenabbildungen usw.
+Neuentwicklung von den ganzen Herstellern.
+Die betreten sich ja auch neu an.
+Gehen sie zu irgendeiner Schweinehandschweißer, die vor 20 Jahren super gewesen ist, mal einen neuen Brenner in die Hand.
+Ist vielleicht ein bisschen was anderes.
+So, deswegen dieser Sondersystem an dieser Stelle.
+Wenn wir uns das jetzt mal anschauen.
+Jetzt einfach mal vergleichen mit dem, was wir das letzte Mal gesehen haben.
+MIG steht als Abkürzung für Metal Inert Gas und bedeutet im Prinzip, dass das austretende
+Gas während des Schweißvorgangs das Schmelzbad vor dem Einfluss von Sauerstoff und somit
+vor der Oxidation schützt.
+MAG verweist auf die Verwendung eines aktiven Gases hin.
+Was würde allerdings passieren, wenn man das inerte Gas vergisst?
+Fehlt das Gas, bildet sich ein Schweißpunkt mit einer sichtbaren Blasenbildung in der
+Schmelze, die sich mit dem Sauerstoff aus der Luft verbindet.
+Der Punkt wird extrem spröde und brüchig. Im Zentrum dieses Schweißpunktes beginnt der Punkt auf lauer Feuchtigkeit anzureichen und damit zu rosten.
+Übrigens wische ich dies auch bei zu wenig Gas zu tur.
+Bei den Schutzgasschweißverfahren, so umgangssprachlich der Begriff für das Milchschweißen, wird ein feiner Draht über eine Motorsteuerung durch einen flexiblen Schlauch zu den Schweißbrennern geführt.
+An das Werkstück wird ein Massekabel angelegt und der Lichtbogen über eine Kontaktsimmung mittels des Innendrahtes gezündet.
+Der Draht dient also als Drahtelektrode.
+Es entsteht ein Magnetfeld mit einer induktiven Spannung.
+Es entsteht zwischen den beiden Polen, dem Blech als Masse und dem Draht als Pluspol,
+ein Austausch von Ionen in Richtung Masse und Elektroden in Richtung des Schweißdrahtes.
+An der Spitze des Schweißdrahtes steht durch die Einschnücke auf ein Lichtbogen und die Schmelze für den Schweißvorgang.
+Der Unterschied zwischen MIG- und Mag-Schweißen liegt lediglich in der Verwendung des Gases und dem einzusetzenden Draht.
+Das Gerät ist in der Regel für beide Verfahren geeignet.
+Für beide Schutzgase geeignet. Ist ja auch egal, mach einmal die eine Flasche und einmal die andere Flasche rein.
+Beim aktiven Gas, den ich dann reinmache, auch hier nochmal das Wege der Brenner dafür,
+weil er eben auch diese zusätzliche Energie, die jetzt hier auch über wärme Strahlung
+da vorne ankommt, über Wasserkühlung wieder wegkriegt.
+Wenn Sie da den Billigen aus dem Baumarkt nehmen und aktiv schweißen, könnte sein,
+dass hier vorne auch irgendwann zu heiß wird und kaputt geht.
+So, schauen wir uns das mal an.
+Kann man erkennen, das Rote ist die Schweißung. Was ist da passiert?
+Das haben sich Bohrungen gebildet.
+Genau. Aber niemand lebt. Warum?
+Weil da höchstwahrscheinlich zu wenig Flux rauskommt.
+Das wäre ein Beispiel, ja.
+Aber was ist viel, viel häufiger?
+Und das ist das, was Sie sich definitiv merken können.
+Also Fehler, ungünstige Zugluft, ja, alles richtig.
+Aber es geht letztlich hier um Beschichtung, Verschmutzung.
+Klassischerweise, auch das sieht man hier so ein bisschen,
+vielleicht ist das Bauteil schmutzig gewesen und das war sauber.
+Was heißt schmutzig überhaupt?
+Feinste Filme können zum Beispiel sein wie ihr Fingerabbruch.
+Was macht ihr Finger? Was macht ihre Hand?
+Das ist ja ein gewisser Fettfilm.
+Wenn sie Butter im Mund essen, wird es noch schlimmer.
+Aber darum geht es, wenn sie zum Beispiel hier vorher auf die Kühlefläche gefasst haben
+Und sie sehen das gar nicht, aber trotzdem ist da eine entsprechende Vagina drauf.
+Dann kann es gegebenenfalls unter dem Lichtbogen zum Verdampfen dieses Fettes führen.
+Und dann haben sie eben so einen Blick.
+Oder, ja, Kerben. Das sind so Einstellungsfragen.
+Was sind Kerben? Kerben sind nichts anderes, als dass der Querschnitt an der Stelle nicht mehr da ist.
+Ihr Blech wird einfach dünner.
+Oh, nicht gut.
+Was ist das?
+Das ist der Unterarm von meinem Werkstattmeister.
+Einmal eine kleine Einweisung.
+Für Ihre Vorsichtigkeit.
+Was ist ihm passiert?
+Er hat ein paar kleine Mädchen geschweißt.
+Nicht viele.
+Ein paar hundert Millimeter.
+Und irgendwie war Sommer, es war sowieso warm, und da ist der Schutzmantel ein bisschen gescheitert.
+Dann schweißen.
+Das ist nicht anders wie Sonnenbrand, den wir da sehen.
+Das muss noch mal allen bewusst werden, dass man Lichtverbot und Verbot nicht im Blick hat.
+Es entstehen letztlich ultraviolette und Infrarotstrahlung.
+Die Infrarotstrahlung macht schön warm, aber das Ultraviolette, wie bei der Sonne eben auch,
+zu lange bedingt eben, und hier gehen wir ja nur von noch nicht mal einer Minute aus.
+Und die Intensität ja von so einem Lichtbogen ist deutlich höher wie normale Sonnenanstrahlung.
+Also müssen wir uns vom Körper, aber natürlich ganz wichtig vom Gesicht und den Augen schützen.
+Ich hatte das ja beim Gas-Schmelz-Schweißen gezeigt.
+Diese Brille reicht nicht mehr.
+Es braucht den Vollschutz und es braucht ganz andere Gläser.
+Auch bei den Gas-Schmelzen konnten wir nicht durchgucken, aber bei denen ist komplett zu.
+Und erst wenn diese hohe Intensität kommt,
+die schafft es eben auch da durchzukommen.
+Würden Sie sagen, das ist das beste Schweißverfahren, was möglich ist?
+Ja.
+Aber wieso macht es dann kaum jemand?
+Nein, genau umgekehrt.
+Einmal ist es das weitverbreitetste und universellste.
+Und das machen die allermeisten letztlich.
+Also die Verbreitung ist locker bei 70, 80 Prozent, wenn man alle Speiseprofahren sich anschaut.
+Also das ist ja, der Draht wird kontinuierlich dazugeführt.
+Und der schmilzt hier vorne von hier, die kommt immer wieder nach, also ist da eine Feder drin.
+Ja? Ne, ist keine Feder, sondern sie war am Anfang nicht dabei.
+Also, hier ist eine Drahtspule.
+Oder Sie müssen sich so ein großes Fass vorstellen, wo jede Menge Kilometer an Draht drin sind.
+Und dann gibt es einen Motor, der schiebt permanent das da rein.
+Und deswegen nochmal, das ist endloser Draht und damit eine endlose Elektrode, quasi weil
+eben sehr viele Kilometer an etwas dran hängen.
+Das lehnen die Gefahren aufgrund der Intensität.
+Okay, nächstes Thema.
+Noch ein anderer Lichtbogen, wir können lichtschweißen.
+Das ist das Gas, was nicht reagiert großartig und Wolfram ist jetzt in dem Fall die Elektrode.
+Hier erstmal das Thema, sieht so ein bisschen aus wie das Gerät, was wir alle schon gesehen
+nur dass jetzt hier an der Stelle kein Draht mehr kontinuierlich endlos läuft,
+sondern hier eine feststehende Elektrode aus Wolfram ist
+und der Draht händisch oder eben auch automatisiert zugeführt wird.
+Also die beiden sind einfach getrennt und das ist der Unterschied.
+Was heißt das für Ihre Produktivität?
+Deutlich schlechter.
+Dieser Prozess läuft viel langsamer und auch mit dem Zusatzdraht viel definierter.
+Kann man die Spitze eigentlich anpassen, wenn man z.B. in größeren Spalten unterwegs ist?
+Die Spitze bei welchem Verfahren?
+Bei dem.
+Also, hier gibt es von 0,6 bis 1,5 Quadratmeter, also unterschiedlich dicke Drähte, die Sie
+hier einsetzen können.
+Und das ist das, was Sie da machen.
+Je dicker der wird, je schlechter können Sie natürlich auch aufspulen.
+Das funktioniert dann irgendwann nicht mehr so sauber.
+Irgendwann kann ehrlich, händisch, Sie werden bei der Laborbesichtigung alle mal in den
+Schweißsimulator gehen, da sehen Sie, wie schwierig das ist.
+Je weniger der wird, desto schwieriger wird es,
+auch irgendwo mit so viel Material auf den Platz zu kommen.
+Da braucht es schon einen automatisierten Prozess,
+der das eben kontinuierlich festhält.
+Wir Menschen können gut sein,
+Schweißerinnen und Schweißer machen das auch,
+also Profis sind da super unterwegs,
+aber ein Roboter,
+der kennt eben
+keine Pause,
+und der kennt eben auch keine Varianz,
+was Geschwindigkeit angeht.
+Und das braucht es für so ein Verfahren genauso eben wie für sowas.
+Aber weil der jetzt dieses getrennte Werkstoff zu Lichtbogen hat,
+kann jetzt der Schweißer und Schweißer das eben auch sehr sehr präzise gestalten davon.
+Und das heißt wiederum, hier geht es eigentlich nicht um Produktivität,
+sondern am feinsten Nägel.
+Hohe Qualität.
+Und Sie sehen das auch,
+hier geht es nicht um dicke Materialien,
+sondern eher um dünne Materialien.
+Weil ich den Lichtbogen auch entsprechend
+fein gestalten kann.
+Und Sie sehen hier,
+gutes Beispiel,
+das ist klassisch,
+wenn die Produktivität fehlt,
+du musst mal gucken, wer Geld hat,
+Für mich sind immer Luft- und Raubfahrer, Feinwerktechnik, Wagenwerke, aber auch noch,
+ja, da geht es mir um Qualität.
+Dann benutzt man hier noch so Reaktortechnik und so weiter, Energietechnik.
+Da, wo es, da darf nichts passieren, da wird sowas eingesetzt.
+Sie werden einen Dickschweißprozess so gut wie nie in der Automobilindustrie sehen.
+Weil der einfach nicht produktiv genug ist.
+So, wie gesagt, hier nicht abschmelzen.
+Die bleibt eben stehen.
+Das heißt, ich habe trotzdem natürlich wieder Bedarf.
+Irgendwas schmelzt sich ja doch auf, nämlich mein Werkstoff, meine Bauteile.
+Und da braucht es wieder Schutzgas.
+Das ist aber inert, weil ein aktives Gas neben meinem feststehenden Elektronen wieder kaputt machen würde.
+Und den Werkstoff setze ich eben separat ein.
+So, es ist extrem sauer das Ganze, kaum Spritzer, hochqualitativ.
+Das Ganze sieht trotzdem wieder so ein bisschen wehnig aus, auch der Brenner.
+Nur, dass eben kein Draht da kommt, sondern hier in dieser Elektrode feststehend ist.
+Und hier wieder der Stromkreislauf, ohne Zuführung vom Draht, Schutzgas haben wir aber trotzdem
+wieder.
+Also, wenn man nicht gescheit hinguckt, könnte man meinen, die sehen gleich aus, sind sie
+aber nicht.
+So, den bringen wir nächstes Mal nochmal mit.
+Da sehen Sie, dass diese Spitze hier vorne sitzt.
+Wie könnte ich jetzt einen noch feineren Lichtbogen erzeugen?
+Mit geringerer Spannung?
+Ja, ich kann darüber sprechen.
+Aber kann ich auch mechanisch etwas ändern?
+Richtig, weil das ist genau der Punkt hier, dass diese Spitze, die hier vorne rausschaut,
+hier haben wir so ein 0,8er Draht.
+Das ist definiert, dass das meine Spitze quasi ist.
+Die wird nicht schmaler wie 0,8.
+Sie kennen das alle vom Bleistift.
+Wenn Sie den Bleistift anspitzen, kriegen Sie noch eine deutlich feinere Spitze vorne.
+Und so müssen Sie das hier auch bei diesen Elektroden sehen.
+Die werden sehr fein angespitzt.
+Sie kennen aber auf der anderen Seite alles, was mit Ihrem Bleistift passiert.
+Sie wollen sehr fein unterwegs sein.
+Was passiert?
+Verschleiß extrem schnell, weil die Spitze zu fein ist.
+Diesen Verschleiß müssen Sie sich auch vorstellen.
+Beim Wickschweißen macht man das vielleicht, um sehr fein unterwegs zu sein,
+man hasst es aber, weil es genauso verschleißt wie der Bleistift.
+Und wenn meine Spitze eben wieder breiter wird,
+dann wird mein Lichtbogen wieder breiter, die Wärme ändert sich und so weiter.
+Das heißt, hier das inerte Gas, damit meine Elektrode nicht noch zusätzlich Energie und
+damit noch schneller abschmilzt, und trotzdem gibt es jetzt beim inerten Gas auch sowas
+Wirkung eben als Gas, super teuer, aber auch noch mit einer gewissen Zusatzenergie versehen, das Ganze.
+Das heißt, wenn Sie sich sowas hier mal anschauen, können Sie mit einem richtigen Argon,
+was überhaupt keine Werkzone hervorruft, sodass wir eben so tief schweißen.
+Und mit dem Helium an der Stelle sehen Sie, dass das deutlich tiefer reingeht.
+Trotzdem spricht man von den inerten Gas, obwohl da so eine gewisse Zusatzenergie dabei ist.
+Aber üblich sind eher auch solche Sachen, dass nur ganz wenig Prozent da drin ist.
+Das wieder so mit Stabilisierten und so weiter von den Dichtbogen und so ein bisschen was
+dazubringen.
+Also ich muss eigentlich immer so die Waage zwischen Verschleiß und Wirtschaftlichkeit,
+weil wenn ich alle 5 Minuten die Elektrode wechseln muss, bin ich auch nicht wirtschaftlich.
+Das steckt dahinter.
+Diese Prozesse, gerade in der Luft- und Raumfahrt, brauchen natürlich eine Qualifikation.
+Es kann sein, dass jahrelang Versuche mit dem TÜV usw. absolviert werden, bis ein Prozess sauber definiert und steht.
+Und dann läuft der in der Luftfahrt teilweise 10 Jahre und mehr.
+Ja, und dann müssen wir wieder gucken, was kann denn noch bei so einer Sache passieren.
+Wir sehen hier unterschiedliche Polungen.
+Haben wir ja noch gar nicht gesagt, Strom muss fließen, der fließt von Plus nach Minus.
+Ja, aber da haben wir Elektronen, da haben wir Ionen, und die haben jetzt unterschiedliche
+Eigenschaften.
+Siehe da, wenn der Strom in diese Richtung unterwegs ist, also die Elektronen, dann komme
+ich tiefer rein.
+Wenn sie andersrum unterwegs sind, ja, weniger tief.
+Das ist das eine.
+Aber meine Elektrode sieht viel mehr Temperatur, und meine schöne Spitze geht noch schneller
+kaputt.
+Das Beispiel wäre jetzt, warum mache ich es trotzdem andersrum, weil z.B. eine Oxidschicht
+in Aluminium diese schweren Ionen braucht, um kaputt geschlagen zu werden, im wahrsten
+Sinne des Wortes.
+Das ist hier die Lösung, steht hier gar nicht mehr, weil ich das vielleicht schonen will
+und trotzdem das Schlagen haben will, mache ich einen Wechselstroh, dass ich mal viel
+Energie habe, in der nächsten Halbwelle wieder weniger Energie, aber meine Oberfläche zertrümmere
+und das Ebene entsprechend wechseln muss.
+Nochmal zurück zu dem Thema Schutzgas.
+Der Fachbegriff lautet Anlaufrahmen.
+Was sind Anlaufrahmen?
+Farben oder Farben?
+Farben. Das sind echte Farben.
+Sieht doch bunt aus, oder?
+Ja.
+Ist doch schön.
+Ist es schön?
+Wahrscheinlich ist es ein enger Braucher nicht.
+Was ist hier passiert?
+Wahrscheinlich ist es ein hoher Wärmeunterschied.
+Ich kann nur verraten, hier außen ist weniger Schutzgas gewesen als hier innen.
+Es ist dunkler außen als innen.
+Es ist Oxidation, ja, es ist Korrosion letztlich.
+Das heißt, ein gewisser Anteil von hier außen noch mehr,
+aber auch hier innen ein bisschen Sauerstoff kommt durch
+und verbindet sich dann mit der Oberfläche vom Metall.
+Und es entsteht eine Oxidschicht.
+Und in Abhängigkeit der Dicke, wenn die ganz dünn ist,
+so wie hier dargestellt,
+ja, dann wird das Licht anders gebrochen.
+Es ist eben nur irgendwelche Mythen.
+Wenn die dicker wird, wird es umso dunkler dargestellt.
+So, was machen wir jetzt dagegen?
+Weil, wenn das jetzt ein Krumm-Nickel-Stahl ist, macht nicht was, ne?
+Chromstähle sind nicht nur bei Töpfen, sondern überall, wo es nicht korrodieren darf, unterwegs.
+Wenn Sie so eine Schicht da drauf haben, so eine kleine Oxidationsschicht, ist diese Passivierungswirkung weg.
+Das heißt, Ihr Kochtopf, an der Stelle so geschweißt, mit schönen Anlauffarben,
+Sieht am Anfang nett aus, wird aber relativ zügig an der Stelle kaputt gehen, weil der
+eben nicht mehr kokosnussbeständig ist, das frisst sich einfach rein.
+Also muss ich nach dem Schweißen sowas immer entfernen, mechanisch mit der Bürste oder
+mit einer Säure, mit Weizen, damit ich an der Stelle wieder blankes Metall habe.
+Wenn ich blankes Metall habe, kann das Ganze wieder eine Passivschicht bilden.
+So, aber am besten, dass eben jetzt gar nichts passiert.
+Deswegen Schutzgas.
+Aufpassen, dass wiederum auch bei dem Verfahren nicht irgendwelche Luft Ihr Schutzgas wegbläst.
+Aber oben ist ja nur die halbe Wahrheit.
+Jetzt ist hier Brenner von oben, jetzt schweißen die da irgendwas, vielleicht haben sie da unten eine Wurzel.
+Dann muss da auch Schutzgas sein.
+Die Raumfahrer bringen alles komplett in eine Schutzgasatmosphäre.
+Die haben tatsächlich, vielleicht haben sie mal so eine Frühchenstation gesehen.
+Wie geht das? Das ist eine entsprechende Atmosphäre, damit da keine Bakterien reingehen.
+Bei Ihnen müssen Sie sich das auch vorstellen, das Bauteil ist da eben drin, Sie gehen mit Handschuhen da rein und das ist alles mit Schutzgas gefüllt einfach, und dann können Sie da drin gespeist werden.
+So präzise muss das schon mal sein, bei einem Raubwagen zum Beispiel.
+Und deswegen, wenn das nicht komplett zu fluten ist, braucht es eben auch eine Gegenlage.
+Oder bei so einem Rohr, noch einfacher, den müssen wir links und rechts einfach zumachen
+und fluten diesen Raum dann in den Bereich mit Schutz.
+Einfach gesagt nochmal, was ist der Hauptvorteil?
+Ich kann ihn eben separat zuführen, den Zusatz.
+Und das Ganze kann ich dann auch noch entsprechend spezifizieren.
+Und kann ganz tolle Wurzellagen oder solche Sachen machen, also überall da, wo es anspruchsvoll
+wird, aber nicht unbedingt die Wirtschaftlichkeit benötigt wird.
+Deswegen nochmal, Luft- und Raumfahrer sind es, Ferntechnik auch, aber immer wieder die
+Produktivität leidet.
+Ein paar konstruktive Hinweise, dünne Materialien sind eben das Thema, weiterer Hinweis, Verfahrensvarianten.
+Was ist ein Heißdraht?
+Ich kann ein bisschen produktiver werden, indem der zugeführte Draht schon eine gewisse Temperatur hat.
+Ich brauche den nicht mit dem Lichtbogen aufzuschmelzen.
+Beziehungsweise brauche ich nur noch eine Restenergie, um das Ding aufzuschmelzen.
+Oder auch hier wieder Pulstechniken, wie ich es beim Schutzgasschweißer gezeigt habe,
+die eben wieder diesen Lichtbogen entsprechend manipulieren,
+mit dem einen Ziel wieder entsprechend kalt unterwegs zu sein.
+Ich will keine Poren haben.
+Wie gesagt, bitte als Hauptargument merken,
+nicht irgendwelche Einstellungen, sondern das Hauptargument ist,
+reinigen, reinigen, reinigen.
+Und jetzt machen wir gleich den Unterschied, eben haben Sie ja den Schutz der Schweißen
+gesehen.
+Um hochwertige Schweißnähte zu erreichen, empfiehlt sich das Mixschweißverfahren anzuwenden.
+Bei diesem Schweißverfahren sind die Schweißverbindungen sehr gleichmäßig und sauber.
+Während des Schweißens entsteht kaum ein Schweißspritzer.
+Gerade im Bereich Aluminiumumformarbeiten ist das Mixschweißverfahren sehr zu empfehlen.
+Mixschiffe wollen von Inertgas schweißen.
+Während des Schweißvorgangs brennt ein Lichtbogen zwischen einer nicht abzuschmelzenden Wolfram-Elektrode und dem zu schmelzenden Werkstück.
+Das Erdgas dient dazu, das Schmelzbad und die Wolfram-Elektrode vor Sauerstoff und damit vor einer Oxidation zu schützen.
+Eine Keramikdüse bildet eine Gasglocke über dem Lichtbogen.
+Das meistverwendete Gas ist ein veredeltes Argon-Gas.
+Auch soweit klar, feiner Lichtproben, keine Produktivität.
+Oder die Riemen aufholen.
+So, noch ein weiteres Verfahren, auch nur kurz erwähnt, und Sie können sich auch gerne
+gleich zurücklegen, weil das würde ja nicht in der Prüfung vorkommen.
+Trotzdem nur zwei Worte dazu, wenn ich ein Wildschweißen habe, mit geringer Produktivität,
+aber mit tollen Eigenschaften, was wollen Sie haben?
+Das will ich genau die gleichen Eigenschaften mit der höheren Produktivität.
+Ist doch klar, oder?
+So und das wäre jetzt die Antwort auf diese drängende Frage der Produktivität.
+als Plasmaschweißer. Das sieht so ein bisschen ähnlich aus. Auch hier wieder Lichtbogen
+und irgendwie Schutzgas. Wie gesagt, nur kurz. Da gibt es noch eine weitere Gaszuführung,
+das nennt man Plasmagas, was anders entzündet wird und damit tatsächlich einen schlanken,
+kleinen Plasmastrahl erzeugt. Deswegen heißt es auch Plasmaschweißer. Ist eigentlich aber
+Das ist aber nichts anderes als ein gerichteter Lichtbogen.
+So.
+Wie gesagt, es will eigentlich nur weggehen.
+Da sehen Sie den Unterschied.
+Das wäre dick, irgendwie doch ein bisschen breiter
+und kann deutlich schmäler und gezielter und jetzt noch krass mal werden.
+Was ist der Haken an der Geschichte?
+Der Prozess ist schwerer zu beherrschen.
+Also wenn, ganz allgemein gesagt, wenn alles besser ist, gibt es doch keinen Grund mehr für das Wegschweißen.
+Und der einzige Grund, weshalb Plasma nicht komplett ersetzt hat,
+ist, dass der Prozess eben nicht großartig teurer, sondern eben einfach schwerer zu beherrschen ist.
+Weil die Geschichte hier mit Plasmaerzeugung und auch mit Abständen alles ein bisschen schwieriger ist.
+Also Quintessenz für die Leute, die das eben einsetzen, denen auch wieder das wegschweißen.
+Es gibt aber ein paar Prozesse und deswegen gleich die Hinleitung dazu.
+Dazu, heute wird ja ganz viel über Lasertechnik geredet und diese Lasertechnik wäre ein teurer Prozess, da kommen wir jetzt auch gleich zu,
+aber Plasma wäre noch so ein gewisser Zwitter zwischen eigentlich günstiger Lichtbogen, hoher Wirtschaftlichkeit und trotzdem in gewissen Bereichen tolle Eigenschaften.
+Wenn dann nicht dieses Beherrschbarkeit noch so ein bisschen reinsprucken.
+Doch.
+Leser kommt doch heute nicht mehr, sondern jetzt haben wir noch ein letztes Verfahren.
+Hinführung zum Thema.
+Gasmeldschweißen.
+Produktivität?
+Nein, günstig.
+geht so, weil Flaschentechnik eigentlich ganz teuer ist, aber, sage ich mal, von jeder Frau
+und jedem Mann irgendwie ganz gut einsetzbar. E-Schweißen, bessere Intensität, aber auch
+keine wirkliche Produktivität. Schutzgasschweißen, viel höhere Produktivität, etablierte Geschichte,
+ein bisschen teurer wie die anderen beiden Verfahren, aber universell einsetzbar. Das
+Das ganze WIG-Schweißen wiederum präziser wie das Schutzgas-Schweißen, aber mit entsprechenden
+Problemen in der Produktivität.
+Plasma-Verbesserung, aber Beherrschbarkeit.
+Das letzte Lichtbogenverfahren, das ich Ihnen zeige, ist das Unterpulverschweißen.
+mit einem Wort höchste Produktivität bei gleichzeitig höchster Wärmeeinbringung.
+Wie das gehen kann, zeige ich Ihnen jetzt gleich.
+Das heißt, wenn ich viel wärme und entsprechend produktiv bin,
+funktioniert das tatsächlich nur sauber für Bauteile, die diese Wärme ertragen können
+und eben auch einfach in der entsprechenden Nachführung sind.
+Also viel dickere Materialien.
+Schiffbau, also hier ist weit und breit keine Rede von Luft- und Raumfahrttechnik.
+Das ist ein Verfahren, das ist mehr oder weniger brachial unterwegs,
+mit viel Leistung, mit viel Wärme.
+Und das ist eben eher so ein Schiffbau, ein Brückenbau.
+Also überall da, wo richtig massiv Material geschweißt werden muss.
+So, was ist das?
+Draht kommt wieder endlos, so wie beim Schutzglas schweißen.
+Nur, dass ich hier kein Gas habe, sondern wieder das Pulver von meiner Draht von meinem E-Handschweißen nehme.
+Das Pulver, Sie können sich an das Teil noch erinnern, das war ein Draht, umbacken mit so einem Pulver, mit so einem grauen Stoff.
+Hier wird ja erstmal gar nicht mehr um die Elektrode gepackt, sondern einfach direkt
+als Pulver oben draufgepackt.
+Und das reichen jetzt auch, um sinnvollestens das Glas mal anzuschauen.
+Gut, dann seh ich mich mal um.
+So, ein bisschen unspektakulär das Ganze, im Vergleich zu dem, was wir zuletzt gezeigt
+hatten.
+Das ist das Pulver, das ist der Brenner und da pinselt ab und zu mal ein Lichtbogen durch.
+Das funktioniert aber, wie gesagt, tatsächlich unter dieser Pulverschicht.
+Komplett verdeckt.
+Und das heißt, Pulver, was nicht verbrannt wird, was nicht in dem Prozess mit irgendwie
+auch wiederum diese Schutzgaswirkungen eben darstellt, wird hier mit dem Staubsauger
+wieder aufgefangen und wird koaxial.
+Es kommt hier Koaxial, da ist der Lichtbogen, da ist der Draht, es kommt alles hier aus der Düse inklusive, das sieht man auch ganz gut, dass hier das Pulver immer dazukommt.
+Was hat das jetzt zur Folge? Weil das alles unter diesem Pulvermantel abläuft, kann ich auch richtig dicke Materialien nehmen.
+Also, wir reden jetzt nicht mehr von 0,8 mm, sondern wir reden mal von 2,3 und noch mehr
+Materialien, die wir hier abschmelzen.
+Die sind safe, weil sie unter diesem Pulver eben unterwegs sind und damit eben auch vier
+Querschnitt zur Zeit eben schweißen können.
+Es sieht so gemütlich aus, aber Sie müssen sich nicht vorstellen, dass da jetzt irgendwelche
+drei, vier Millimeter dicken Gräte verschweißt werden.
+Ich versuche gerade zu verstehen, also das vordere, was man da sieht, das ist der, da
+wird geschweißt und da hinten, das ist das, was aufgesetzt wird.
+Das ist nur der Staubsauger.
+Da holt man den Staub.
+Und hier sehen Sie auch, jetzt steht hier so eine Schlacke, das war wie beim, die Handschweißen
+Das heißt, das ist so ein Mix zwischen Pulver und Metall.
+Relativ leicht das Ganze.
+Und darunter entsteht und erscheint dann eben erst die eigentliche Nacht.
+Noch irgendwann?
+Ich verstehe gerade noch nicht so ganz.
+Sie haben gesagt, es ist nicht sonderlich präzise,
+weil da sind wir jetzt auf keinen Fall in Luft- und Raumfahrt.
+Genau.
+Aber das sieht eigentlich aus, als könnte man das sehr präzise
+Die Dimension ist, dass das so breit ist, 2-3 cm breit, das heißt, wenn Sie 3-3 cm in
+der Tiefe haben, haben Sie ein Riesenschweißvolumen mit entsprechend massiven Zug-Eingespannungen.
+Das Bauteil, was Sie da gerade sehen, ist ein riesiger Behälter mit richtiger Wandstärke.
+Der ist in der Lage, diese ganze Temperatur zu ertragen.
+Wenn man es danach sieht, gibt es solche Querschnitte einfach gar nicht.
+Wer will denn da in die Luft gehen?
+Das hat einfach durch die Dicke, das ist halt einfach ziemlich massive Materialien.
+Und es gibt jetzt eben keine Vorteile, wenn Sie jetzt nur, es geht zwar auch mit 5 mm,
+aber das wäre viel, viel zu wenig.
+Warum kann ich das nicht mit kleinen Saften darunter machen?
+Nur weil ich da jetzt einen Pulver obendrüber habe, heißt das ja nicht,
+dass ich unten drunter nicht präzise arbeiten kann, oder?
+Ich kann das schon, aber warum?
+Andere Verfahren sind auch dafür den kleinen Querschnitt viel schneller unterwegs.
+Ohne dieses Pulverkram und so weiter und ohne diesen Aufwand.
+Das ist einfach so eine Abwägung.
+Deswegen, in meinem Skript steht ja auch noch sowas, dass es schon nach fünf Millimeter geht.
+Aber das macht eigentlich keiner, weil wenn ich diesen apparativen Aufwand mache,
+dann mache ich das, wenn der Querschnitt dick genug ist.
+Das nützt mir das, wenn ich nach fünf Minuten wieder fertig bin.
+Aber zwei Stunden einrichten, bis das überhaupt losgeht.
+Mein Schutzgasbrenner leg ich an und ich bin fertig.
+Das ist eigentlich alles.
+Aber der Schutzgasbrenner geht nicht für dicke, also große Umfänge,
+weil dann das Schutzgas nicht vernünftig abdichten kann?
+Ne, weil ich diesen Draht nicht so beherrschen kann an der Stelle.
+Und das Schutzgas, die Wirkung.
+Ja, abdichten hat auch was anderes zu tun.
+Ich müsste massiv mehr Schutzgas eben auch in den Kurs setzen.
+Und das macht es dann ineffizient, weil das Schutzgas teurer ist?
+Nee, hat nix mit dem Schutzgas zu tun, sondern mit dem Gesamtprozess,
+dass ich den nicht stabil genug hinkriege.
+Das ist unser Pulver anders.
+Ist nicht so ganz klar, warum ich diesen Schutzgasprozess nicht einfach
+provisorisch direkt mache.
+Kann man auch schwer verstehen, gebe ich zu.
+Aber das sind eben diese dynamischen Prozesse da drin,
+die eben über noch mehr Schutzglas auch wiederum meinen Lichtbogen ganz anders beeinflussen würden.
+Plötzlich schiebe ich mir das Schutzglas vielleicht auch mit in die Naht rein,
+obwohl das da gar nichts zu suchen hat.
+Also es geht um Stabilität des Prozesses, der in irgendeinem Moment nicht mehr funktioniert.
+Also die Naht ist ja ungleichmäßig.
+Genau, dann wäre auch die Nachhineinweisung, und das will ich ja erst recht nicht haben.
+So, dann gehen wir mal kurz zurück.
+Das sind eben Pulver, Elektrode, endlos abgeschüttet, bis fünf Kilometer.
+Das sind die Dicken. Das Pulver selber ist das gleiche Material wie bei der Elektrode Hand.
+Solche massiven Nähte entstehen dabei. Ich kann auch hier wieder die Produktivität steigern,
+indem noch mehr von diesen Elektroden hintereinander geschaltet werden.
+Dann wird das ein riesen Schmelzpulver. Aber dann ist meinetwegen der Behälter einen halben Meter dick.
+Dafür brauche ich eben auch hochproduktive Systeme, weil mit dem Schutzgas würde ich Jahre brauchen,
+Deswegen hohe Geschwindigkeiten, hohe Produktivität, Nachteile, hohe Wärmeeinbringung.
+Das ist eigentlich zusammengefasst das Thema.
+Überzuktive Hinweise zeigen einfach nur sehr dicke Querschnitte.
+Und es gibt noch natürlich wieder Verfahrensvarianten,
+dass ich versuche, einen engeren Spalt zu haben, um noch ein bisschen Material zu sparen.
+Das steckt jetzt nicht dahinter, aber das ist auch wieder, wie bei fast allen Varianten,
+wieder mehr Aufwand, mehr Know-how, um sowas eben auch beherrschen zu können.
+Gut.
+Damit sind wir eigentlich am Ende auch von der Lichtbogentechnik.
+So, das Ranking, was ich gerade schon gemacht habe, machen wir nächstes Mal nochmal als Wiederholung.
+Danke für Ihre Aufmerksamkeit.

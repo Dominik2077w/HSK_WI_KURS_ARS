@@ -1,0 +1,1061 @@
+Ich habe das ganze Buch veröffentlicht.
+Ich habe das ganze Buch veröffentlicht.
+Wie findet die Abgabe statt?
+Ganz einfach.
+Es ist eine Rückungsleistung.
+Die braucht eine
+dementsprechende
+Form und die dementsprechende Form
+ist natürlich einmal
+das Deckblatt auszufüllen mit Namen und Unterschriften.
+Das haben wir letzte Woche ja schon angefangen.
+Das heißt, es sind drei Namen drauf
+und dementsprechend haben wir dann halt
+alle einander die Grobheiten.
+Und auf der anderen Seite zu und
+leicht und leicht.
+Und dann wirkt uns das Ganze aus, als ob ihr es jetzt machen wollt.
+Das heißt, es wird in gedruckter Form stattfinden und natürlich jetzt die Datei,
+das ist jetzt ja nur die betreffend, die das CRD machen,
+da brauche ich die Datei nicht mehr.
+Das heißt, Sie geben an sich das Ganze in gedruckter Form an.
+Und zwar was alles, dann ist es noch ein Dienstag, wenn er Dienstag ist.
+Genau, das ist immer an diesem Übungstag, da sind wir einfach gleich dabei,
+dass wir sagen, hier 11. November, ganz genau, an diesem Tag,
+und am Ende natürlich diese drei Sachen, also vier Sachen,
+die Marktanalyse an die Seite, die Beamtenschaften,
+die Anforderungsliste mit allen Auslegungs- und Schnittstelldaten,
+für die Sammlung an der Datenblattmaschine und auch diese Zeichnungserstellung dazu.
+Dann haben wir die Patentanalyse gemacht, auch dementsprechend zwei- bis dreiseitige Ausarbeitung.
+Und dann haben wir die Modellanalyse und diese technische Zeichnung.
+Hier sozusagen braucht man letztendlich einmal den Ausdruck,
+Da kann ich was korrigieren, welches A3-Format ist hier maßstäblich abzugeben.
+Ja, der dritte Ziel oder Zielstück, da können wir bremsend rüberschrauben.
+Wir lassen es so ein bisschen in die Richtung kommen.
+Ich zeige Ihnen, wir können auch was haben mit den Pederasten wahrscheinlich, oder?
+Wo Sie noch Fragen haben, sodass wir diesen Stand auch so weit haben.
+Bertz, bei Ihnen zeichnet schon. Zeichnen und tragen können.
+Bei Ihnen eine Gruppe, technische Zeichnung, das hier vorne, Modellanalyse.
+Den Koffer, haben Sie den noch?
+Nächste Woche werde ich wieder abgeben, dann muss ich weitergeben an die anderen.
+Wenn das fertig ist, dann haben wir die Modellanalyse beendet.
+Sie bräuchten auch wieder eine Entdeckung, dann kannst du die Maschinenbausteine entdecken.
+Welche Maschinenbausteine?
+Welche Maschinenbausteine?
+Der Basis am besten.
+Genau, das heißt gedruckte Form, sodass wir hier alles ineinander haben.
+Und dann ist es ja so, ich korrigiere das und ich würde allen nochmal ein paar Anregungen geben,
+wie man das nochmal verbessern kann.
+Das heißt, es dient im Prinzip dazu, dass Sie a. nicht alles am Ende haben,
+das wäre in dieser Prüfungsstudienarbeit oftmals schon am Ende eine Riesenabgabe,
+da kommt alles zusammen, so haben wir eine schöne Struktur drin
+und Sie bekommen von mir eine Rückmeldung, sodass Sie sich inhaltlich und am Ende von der Note her verbessern können.
+Ich persönlich sage, hier soll jeder mit einer vernünftigen Note herauskommen.
+Und das ist eigentlich auch machbar.
+Dementsprechend schauen wir, dass wir das etwas voranbauen,
+sodass alle am Ende sagen, dass es passt.
+So, für diese Modellanalyse gibt es einen Macher, den haben wir gleich erklärt.
+Und dann haben wir am Ende diese zwei Gruppen, die sind jetzt im Prinzip aus, die bleiben so,
+haben wir alles dabei und da brauchen wir noch einen Namen.
+Die Gruppe zwei, wenn man so möchte, da stehen jetzt bei mir nur zwei Namen.
+Wir sind aber zum dritten heute, das heißt der dritte Mann, den brauchen wir noch.
+Merkst du es? Der fällt da in der Gruppe.
+Schauen Sie mal, in dieser Gruppe fehlt noch ein Name, das ist Ihr Name.
+Schreiben Sie Ihren Namen entweder auf den Zettel oder Sie tippen ihn da vorne ein.
+Kommen Sie mit vor.
+Da seht ihr, das ist Ihre Namenleitstellung.
+Okay, dann können wir... Ja, was ist da in der Hand?
+Ah, so, dann haben wir das. Okay, vielen Dank.
+Ja, was ist da? Ein Sack?
+Ja.
+Diese zwei, drei Überlegungen, die sollten wir uns noch mit Skizzenhaft definieren, das heißt, wir dürfen jetzt natürlich nur die Zeichnung machen.
+Wir haben uns ja letzte Woche schon mit dem Messprotokoll beschäftigt.
+Das Messprotokoll selber kann jetzt in dieser Form ausschauen, das habe ich Ihnen da reingestellt.
+Wir haben Planlauf-Toleranz, wir haben Rundlauf-Toleranzen, hier auch noch ein Lernungslauf.
+Was ist das überhaupt? Die eigene geometrische Toleranz, heißt es hier, raussuchen.
+Und das ganze Toleranzfeld hier, das eben einen bestimmten Bereich hat, dem müssen wir Toleranz zuordnen.
+Das ist sinnvoll, logischerweise.
+Genau wie das den Auszug aus dem Modellbuch mit reinkopiert,
+sodass man hier eigentlich schon das Nutzen, was halt die Technik auch am einfachsten ist.
+Also genau das, was man braucht.
+So, und dann führt es irgendwo zu so einem System,
+dass man sagt, ja man überlegt sich an jeder Funktionsfläche eine geeignete Toleranz.
+Plus, Minus.
+Oder eben eine Abweichung, jetzt hier, Rundlauf-Toleranzen, wenn man das so möchte,
+für die Anlagenflächen radial und axial.
+Und da haben wir eben diese Bremsscheibe, das habe ich jetzt mal grün und blau markiert.
+oder in der Felge, die kommt dann vorne drauf und da haben wir natürlich auch diese Lauf-Toleranzen.
+Gesamtlauf radialer Richtung, Gesamtlauf axialer Richtung und hier natürlich immer mit einem Bezug.
+Ich schaue jetzt hier das Mal G hinein, das nennt sich natürlich nicht jedes Mal G,
+es gibt den Bezug A zum Beispiel, B, C, D, wie auch immer, idealerweise fängt man mit A an.
+Und dann haben wir eben diese einzelnen Bezüge und der Bezug jetzt hier,
+was jetzt nicht G bezeichnet ist, der gehört zur Achsmitte, der ist ein Achsbezug.
+Die Drehmitte ist hier das Bezugselement.
+Und das Bezugselement müssen wir halt an dem entsprechenden Winterstelzen,
+mit diesen drei Toleranzen, auf diese Fläche hier.
+Dann haben wir das Hitzemetall,
+die diesen Schnitt nochmal sauber definiert.
+Die Vorderansicht dieser Nabel und die Vorderansicht, die legen so bitte, dass dieser Schnitt entsteht.
+So sollte die Nabel liegen am Ende.
+So wie es skizziert wurde, nämlich auf der Sechzehntel-Zugschiene, beachte Schnitt durch die Gewindebohrung hin.
+Das heißt, die Herzschläge an sich wäre genau so, von vorne.
+Dann haben wir eine Gewindebohrung, eine Gewindebohrung hier, da und da.
+Und diese Bohrung hier unten, dann haben wir gesagt, die untergeordnete.
+Das ist ja auch keine Funktionsfläche.
+Das heißt, die Bohrung hier und die fünf Bohrungen sind eigentlich nur,
+wir haben bei uns einen Zylinder und bohren uns da so Löcher rein.
+Ja genau, die Korrosion jetzt mal zu vermindern, weil selbstständig kommt man ja immer an
+die Anlagefläche, diese Passungsrostbildung, und je größer die Anlagefläche ist, desto
+mehr Rost verkeilt sich da, d.h. das reduziert und das ist natürlich auch ein Stück leichter,
+also die zwei Gründe haben wir selbstständig.
+Aber für die Funktion selber braucht man genau diese Ansicht, Voransicht, mit diesem
+Deswegen orientiert sich bitte an dieser Skizze.
+Und dann haben wir eben den Schnitt AA, Sie sehen es schon,
+die Ansichtsschnitt AA, das wäre jetzt die Blickrichtung in dieser Richtung,
+wird also in diese Richtung geblickt und dann drehen wir das Ding rüber.
+Das heißt, dieser Schnitt wird letztendlich so ausgeführt,
+Das bedeutet, dass wir diese Kontur gebracht haben und diese Kontur ist dann die gedrehte Ansicht, wenn man sagt, das wäre die Ansicht.
+Also hätten wir diese Ansicht hier und diese Ansicht. Diese zwei Ansichten brauchen wir auch.
+Genau so wird hier der Schnitt ausgeprägt.
+Das wäre genau das, was wir hier natürlich auch in der Vorlage haben.
+Es gibt einen Grundsatz noch in der geometrischen Toleranz,
+nämlich überall, wo eine geometrische Toleranz die Lage eindeutig definiert,
+braucht man keine weitere Toleranz in der Dimension.
+Das heißt, hier haben wir noch eine klare Dimension, 112 mm ist das Ding breit, also
+Durchmesser.
+Das heißt, der Durchmesser 112 mm steht in einem eckigen Rahmen, das kommt in 100.000
+Euro frage ich, was bedeutet der eckige Rahmen?
+in einer theoretischen Toleranz.
+Ja, da müssen Sie sich zurückerinnern an das technische Zeichnen.
+Da hat man es vielleicht mal gehört.
+Das heißt, das Maß wäre eine sogenannte theoretisch exakte,
+ein theoretisch exaktes Maß auf TID, theoretical exact dimension.
+Das ist nur in der Theorie so.
+Ja, in etwa 112, theoretisches Maß, genau so haben wir hier den Bohrungskopfschaden,
+diesen Lochkreis 112, der Lochkreis selber sagt ja aus, dass eben die einzelnen Bohrungen
+auf der theoretischen Kreisrundenlinie mit der Durchmesser von 112 Millimeter liegen.
+Und weiter ist es ja hier oben beschrieben, dass eben dann einzelne Bohrung eben von dieser
+exakten Mitte diese 0,2 Millimeter abweichen darf.
+Und das macht man halt so, dass man dann sagt, ja gut, 0,2, das heißt dann Cz, also die
+Kommen wir in den Zoom, da haben wir auch eine neue Norm, das heißt für alle gilt das,
+weil ich habe das GVT-Element in 1, 2, 3, 4, 5 malen.
+Also es gilt für alle 5 Bohrungen, das heißt dieses Cz.
+Und es hat dann einen Bezug zur Mitte der Achse, also hier irgendwo bei A und bei B.
+So, was steht jetzt da oben drüber noch, was habe ich da noch dazu geschrieben, also fünf
+mal, ja klar, weil fünf Bohrungen sind, das Ganze ist eine M14 mal 1,5 Gewinde Bohrung,
+also da ist ja Gewinde drin, M14 mal 1,5, das hat eine Toleranzklasse von 7H, da muss
+Ich muss hier jetzt gerade noch mal nachschauen, aber ja, das ist das Sieben,
+die Sünder-Toleranzgruppe, die kann sein, dass es sich damit ändert,
+was nämlich hier in der aktuellen Tabelle steht.
+Und es korrespondiert mit diesem M.
+Diese zwei M's im Kreis heißt nichts anderes als,
+dass letztendlich die Bohrung 0,2 mm abweichen darf,
+Wenn eben hier oben das Maximum an Material in Anspruch genommen wird, nämlich wenn die
+Gewindebohrung oben minimal wird, also kleinstmöglich, Herr Dortmeister. Wenn die Gewindebohrung oben
+etwas größer wird, dann darf auch die Ortsverleihung größer werden. Die zwei korrespondieren miteinander.
+Und das nehmen wir natürlich so geneigt, das ist der aktuellen, wenn nicht die richtige Lösung.
+Und dann haben wir noch, genauso wie hier, natürlich bestimmt diese 5 mal 72 Grad.
+Das sind die Abstände der Bohrung und so weiter.
+Das muss ich natürlich einmal definieren.
+Und dann haben wir 5 mal 72, die 72 Grad sind auch wieder theoretisch.
+Dann wird die Lage der Bohrung durch eine Geometrie-Toleranz festgelegt.
+Wir sind gerade auf dem Punkt des Toleranzes und so machen wir es in ein theoretisches Eckstück rein.
+Das heißt, dieses Viereck außen herum definiert dieses theoretische Maß.
+Unter dem gilt dann natürlich auch keine Formulatur für einen Allgemein-Toleranz.
+Das heißt, das wäre eben diese zwei Grundsätze, die wir hier umsetzen können, wo wir dann
+gar nicht mehr so passieren.
+Und dann brauchen wir natürlich einen ganzen Haufen allgemeiner Angaben, die in dieser
+Zeichnung stehen.
+Allgemeine Angaben heißt, wir sprechen den Toleranzgrundsatz der 1815er aus.
+Das heißt, die Tolerierung erfolgt nach diesem Unabhängigkeitsprinzip.
+Wir definieren die Allgemeintoleranz nach gegen diesen zwei genannten Normen.
+von Symbol 81 ISO und die DIN 1769.
+Da kann man hinzuschreiben, lineare Größenmaße,
+plus, minus, für BRT2 beispielsweise,
+Winkelgrößenmaße, plus, minus, für BRT3,
+und Kanten, nach alter Angabe, das ist schon ein bisschen
+aus dem Innsgemmer, und das Einzige, was ich noch sagen will,
+ist natürlich die Oberflächengeschaffenheit.
+Hier kann man einfach die Oberfläche definieren,
+Die ist letztendlich fast überall mit einer A-Wert von 3,2 oder habe ich einfach nochmal so festgelegt, über den Daumen.
+Und Sie sehen auch hier, und da achten Sie bitte darauf, dass natürlich nach der neuen Norm dieses Oberflächenzeichen,
+das R-Symbol, mit dieser Linie versehen ist.
+Das ist die neue Norm.
+gilt allgemein, dass hier die profilhafte Oberfläche vorliegt und das müssen wir hier mit dieser Linie kernzeichnen.
+Das heißt, das ist im Prinzip alles, sodass wir an der Stelle die Arbeit abschließen können,
+Dann haben wir das nächste Woche, dann drucken Sie es aus und geben Sie es soweit.
+Dann halt in die jeweiligen Rahmen Anforderungsliste, wird ja schon erstellt.
+Wunderbar, genau, dass wir ja alles beieinander aufbauen.
+Aufgaben sind verteilt, oder?
+Genau, es verschiebt sich immer ein Patent.
+Dies zeichnen wir noch, wunderbar.
+Ich habe ein Zeichen, das ich ja noch nie gesehen habe.
+Ja, also Sie können über das IPC suchen, aber was wollen Sie genau finden?
+Achso, da kommt noch gar nichts zurück.
+Ah, da müssen wir jetzt irgendwann mal suchen.
+Das wäre ja ganz normal.
+Ich glaube, wir haben das letztes Mal mit diesem neuartigen Dörr-Hacky, oder wie auch immer das heißt, aus den Begriffen, das ist noch mal so, aber das ist was ganz Neues.
+SKF, wo diese Integration stattfindet zwischen dem, was wir als Radnaven-Einheit haben,
+plus noch zusätzlich eine Anbringungseinheit in Richtung Fahrer.
+Die durch den Klang der Entwickler fährt auch, gell?
+So, von der haben wir herausgefunden, das ist ja ein sehr interessantes Patent zur Ausarbeitung.
+Jetzt sind wir da relativ weit vorne, da hoffe ich doch mal, dass das nachgeht.
+Das probieren wir mal.
+Es kann schon sein, dass es im Patent nicht der Begriff verwendet wird.
+Aber ja, auch in diesem Fall an Erinnerungen, die man doch als Erweiterung nehmen kann.
+Das wird kein Geld, finde ich, das Geld.
+Knapp die Modulen SKF oder so, müssen wir einfach mal reinschauen.
+Achs, Schenkel, Leichtmetall, Außenring, Gewichtssituation.
+Das ist dann schon die Begründung, Modul, Radlager.
+Habt ihr das gleich gefunden, ob es da was gibt?
+Aber so ungefähr funktioniert das.
+Sie haben schon ein schönes Patent, oder?
+Haben Sie ein chinesisches Patent?
+Haben Sie Ihr Patent schon in der Analyse?
+Wer macht Patente an den Homs T-Shirt jetzt, genau?
+Nicht schon.
+Hat er chinesisches Patent?
+Und nicht?
+Also Sie können da auswählen, was Sie wollen.
+Es muss halt zum Thema passen.
+Radlager einhalten, Radlager.
+Sehr schön.
+Das kann er zeigen, weil wir brauchen die kleinen, also die kleinen Windebohrungen, die fällt jetzt noch.
+Und sie müssen halt dadurch die Windebohrung in die Achse gehen.
+Das ist nicht der Stammtumschnitt herrscht.
+Wenn ein Stammtumschnitt hier aufwärmt, wird es nicht so gut.
+Sonst machen wir es lieber als Erste in der Achskarte.
+Das würde ich Ihnen empfehlen.
+Das ist aber von der Darstellung her nicht so wichtig.
+Das würde ich Ihnen empfehlen, also das ist von der Darstellung her, die Funktion.
+Das heißt, Sie brauchen jetzt hier, in dem Schnitt, so ein kleines Gerät.
+Sie können ja die hier jetzt auch nutzen.
+Schauen wir, das wäre jetzt bei Ihnen die Achse.
+Schauen Sie, da liegen wir jetzt, das ist eine Stelle, wo die Achse oben ist.
+Die Achse oben kann man machen, das ist genau so, wie es sich hinten stört.
+So legen wir es nachher an.
+Dann fangen wir mit denen an.
+Das ist der Schölock-Kreis, der gegebenen 100.000.000.
+Der 100.000.000.
+Der 100.000.000.
+Der 100.000.000.
+Da haben wir die 70 Grad Abstand, oder?
+Und dann legen die zwei mal in der Stimmung.
+Dann haben wir hier...
+Das war wahnsinnig.
+Die haben die nicht, weil die sind so doll.
+Da ist ja keiner Abstand.
+Der Abstand hier stimmt.
+Die haben natürlich den Bau in sich.
+Wenn ich einen gewissen Abstand habe, der wird jetzt hier z.B.
+Wenn der da liegt, der ist da, dann liegt der da.
+Aber auch nicht genauso.
+Das lässt sich frei.
+Letztendlich können Sie das Veränderungsmaß.
+Aber das Maß, das muss fassen.
+Das ist genau hier in der Mitte, 70°.
+Und das beim Bremen oder zwischen.
+Muskeln einfach bremen.
+Der liegt jetzt bei mir da links auf einem Kreis, den müssen wir einmal am Eisbett einpacken.
+Ich habe es jetzt so, Sie können sich an dem orientieren und an dem, was Sie jetzt als Zeichnung und Bild behaupten.
+Wie Sie das dann drehen, das spielt keine Rolle.
+Das kann jetzt so sein und dann wird das sozusagen geschnitten.
+Die Bohrung hier, so habt ihr das ausgerechnet.
+Aber das spielt eigentlich keine Rolle.
+Ich wollte es fast so machen.
+Wenn Sie jetzt noch mal neu anfangen, dann legen Sie so die Lichter rein.
+Dann haben Sie gleich rechts hier das eine kleine Bohrung.
+Und da sehen Sie, das wäre der aktuelle Zeitungsname.
+Obwohl die natürlich auch nicht wie vorher erhalten werden.
+So, lass mal sehen, da geht es beieinander um.
+Wo ist jetzt noch eine? Hier.
+Na, da ist eine kleine Bohrung drin.
+Aber wenn Sie jetzt nach links die 72 Grad bemaßen,
+dann geht nach rechts die Bohrung los.
+Und da nach rechts wohl mal.
+Und der Rest ist dann die 72, dann geht es einmal im Kreis.
+Und dann wählen sie halt wirklich die Lage der Wohnung und so, dass die halt hier einigermaßen
+in der Wahrscheinlichkeit nicht mal was anderes bastelt.
+So, wer das will, reinkömmen, die das macht, hat keine Funktionalität.
+Da müssen wir auf Chinesisch eingehen.
+Es gibt ja auch Schutzrechte weltweit, da gibt es natürlich auch chinesische Patente.
+Oder eben der SKF, der das auch chinesisch sich erlässt.
+Du hast es gesehen, oder?
+Ja, ich weiß es.
+Es ist schon ein bisschen, oder?
+Es ist festgelegt, oder?
+Es ist so draufgelegt, oder?
+Es ist festgelegt, oder?
+Ich würde es mir schnell herstellen, es gibt eine Million Patente wahrscheinlich.
+Nein.
+Es ist schon festgelegt.
+Es gibt es.
+Das heißt, was haben Sie jetzt da für einen Freitag?
+Geben Sie es einmal zurück.
+T-Shirt? Nein, nein, SKF ist der Hersteller, der Anmelder, Erfinder.
+Der Anmelder, Erfinder ist das.
+Das ist nicht die SKF.
+Möglichst, das weiß ich.
+Da könnte man SKF als Hersteller oder Erfinder
+Oder irgendwas mit Radnaben.
+Dann könnte man vielleicht auch die Radnaben-Einheit eingeben oder den Begriff, der eben da mit dabei stand.
+Modul irgendwas. Radnaben-Modul ist es, glaube ich, wie man das nennt, oder?
+Und dann kommen wir noch in diese Richtung. Radnaben-Modul.
+Sie sind jetzt im Bereich Hauptmodul oder sowas in der Art.
+Wir haben Unity Assembly. Schauen Sie es sich mal an, das kommt jetzt vielleicht gar nicht so schlecht.
+Ah, jetzt ist alles in Ruhe, alles anders, gell.
+Kommt er nie zurück?
+Doch, doch, da kommt er schon zurück, oder?
+Ja, ja, da. Der muss raus, der muss raus.
+Der öffnet sich an einem Fenster, gell.
+Wielhafen oder sowas, gell, das seh ich auch noch.
+Untertitelung aufgrund der Audioqualität nicht möglich.
+mein Herr.
+Father?
+Können Sie mir wieder erklären, wie ist der gesamte Prozess für Patentanalyse?
+Ja, natürlich.
+Der gesamte Prozess der Patentanalyse, das finden wir jetzt hier im Bildschirm.
+So, jetzt sind wir in Brasilien.
+Ich habe es doch gefunden, wir müssen Achs-Schenkel eingeben, oder ist keiner da?
+Achs-Schenkel, okay.
+Das machen wir gleich, oder? Genau.
+Also hier steht die Patentanalyse.
+So, ganz kurz.
+Achs-Schenkel. Und das haben Sie tatsächlich, das Patent gefunden, oder nicht?
+Achs-Schenkel, okay.
+Wie schaut das aus, ist das denn?
+Aber ob das jetzt hier so was in der Art, ja gut, okay, das kann ich mir schon vorstellen.
+vorstellen. Das wäre etwas geeignetes für die Analyse.
+Das heißt, wir dokumentieren jetzt die Patentnummer alles und dann kommt es genau in diese Richtung.
+Das erinnert mich auch noch daran, dass Sie bei der Neustadt daran arbeiten.
+Also Patent suchen, das ist das Erste.
+Da gehen wir, hier drauf, dann öffnet sich diese Seite, dann gehen wir hier auf Basis,
+dann gehen wir hier ein, Titel, beispielsweise, Radnabeneinheit, oder Sie haben gesagt Achsschenkel,
+Schauen wir selber. Ich sage jetzt mal Radnabeneinheit.
+Radnabeneinheit.
+Was sind da Radnaben?
+5, 6 Begriffe, da kommt dann etwas.
+So, dann gehen wir auf Suche starten. Radnabeneinheit.
+Wollen Sie mich SKF eingeben?
+Ja, von mir aus, genau.
+SKF wäre dann der Erfinder.
+Und dann schauen wir mal, was da kommt.
+Übertragen Sie ein Rad, dann ein Übertragungsrechnung.
+Ah, genau, das schauen wir mal an.
+Deutsches Patent, deutsches Patent, europäisches Patent.
+Und da können Sie auch mal...
+Jetzt gehe ich nochmal...
+Jetzt war die Mühle wahr?
+Jetzt geht es locker.
+Das ist aber komisch.
+Weil er macht es jetzt nicht in der...
+Wenn man beide rumschiebt, ich könnte mich wieder auf eine Stärke drücken.
+Da, links.
+Links eine Stärke.
+Und Basis.
+Ah, sehr gut. Hier kommt es wieder.
+Ja, gut, schön.
+Wie, ah, W, H, D, L, oder?
+Wie, H.
+So, alles klappt auf Englisch, gell?
+Dann, zack, suchen wir mal.
+Europäisches Patent ist gefunden, ok.
+Das heißt, Basel ist wieder.
+Dann gehen wir mal da rein und sagen Recherche erstatten.
+Wielhardt Drive Unit. Schauen Sie mal her, was ich jetzt gefunden habe.
+Pure Electric Wielhardt Drive Axle Unit. Zack!
+So, das können Sie lesen, ich kann es nicht lesen.
+Gucken Sie, das ist es doch jetzt hier.
+Das ist jetzt hier die Einheit,
+chinesisches Patent, da ist irgendwas drin,
+da ist nochmal was drin, hier, da.
+So, okay, gehen wir nochmal zurück.
+Nächstes Ding.
+Ah, jetzt ist das mit dem Drücken, das geht doch nicht so richtig gut.
+Front-Wheel-Hub-Assembly, Arrangement of a Roadway-Digit, super, chinesisches Patent, Gesamtdokument.
+Da ist was drin, aha, hier, Text, Text, Text.
+Und dann steht da noch was drin, aber das ist keine Radlager-Einheit, das ist kein Radlager-Verbau.
+Das ist nicht geeignet, das muss ein Lager sein, ein Radlager.
+Das heißt, da gehen wir mal raus, dann sind wir hier nächstes.
+Low floor, was? Wie lautet das? Floor?
+Na ja, das ist vielleicht nicht unbedingt.
+Nein.
+Type, we have the doctor.
+Da haben wir auch...
+Doctor, das schauen wir uns mal an.
+Also, faktisch hier haben wir irgendwie jetzt ein Patent.
+Immer noch in dieses rein. Das hat eine Patentnummer, hier oben,
+die hat Erfinder, stehen hier wahrscheinlich, Konzern,
+der Konzern, also die Firma, die das entwickelt hat.
+Kennen Sie die Firma?
+Ja.
+Ja, genau. Ich kenne sie nicht, ich kann sie nicht lesen. Wie heißt die?
+Ich kann nur die Chinesische lesen, aber ich kenne die Firma nicht.
+Das ist keine chinesische bekannte Firma. SKF, Bosch. Das sind bekannte Firmen, klar, in Deutschland.
+Aber hier, wer über das macht, spielt ja keine Rolle. Sie machen diese Analyse und schreiben dann.
+Und jetzt gehen wir in den Prozess der Ausarbeitung.
+Jetzt sind wir wieder hier, nämlich da drinnen, genau, auch ein Stück, hier sind wir, genau,
+und da haben wir jetzt irgendwas recherchiert.
+Das ist hier die Zeichnung davon.
+Und diese Zeichnung wollen wir jetzt überführen in eine Präsentation.
+Das wäre jetzt sozusagen so, wie man das an einem Bild präsentieren würde, da stehen Begriffe dran,
+Drehungen, Kraftverläufe. Dann sind hier explizit die Elemente markiert, farbig markiert,
+die eben die Funktion übernehmen, die Funktionsflächen. Dann heißt es hier geschlossener
+Kraft durch Vorspannung. Dann haben wir hier irgendwelche Anlageflächen, das sind die
+Funktionsflächen und die Funktion von diesem Patent. Das ist die Analyse. Das heißt, sie
+nehmen das Bild aus dem Patent und machen das farbig, sodass man es schön präsentieren kann.
+Farbe. Farbe, Farbe, Blaupfarbe, Deutsch, das markieren Sie.
+So, und dann, beispielsweise hier, das hier, das ist irgendwas, und das war's dann auch schon.
+Das heißt, Sie schreiben was dazu, die Patentanalyse beinhaltet Patent Ihrer Wahl,
+Beschreiben Sie grafisch und durch kurze Wortbegriffe
+deren Ausführungen und Ansprüche sowie die technischen Einzelfunktionen.
+Markieren Sie die entscheidenden Werkflächen
+und stellen Sie die jeweiligen Bewegungsmöglichkeiten,
+also wenn sich da was bewegt oder wenn sich da was verschieben lässt,
+eben so dar, dass das einer kennt.
+Können Sie bitte ganz kurz, ich hab ein paar Tänke gefunden. Können Sie da mal eben zoomen, bitte?
+Ob das ist passend oder nicht?
+Also, geben wir jenen einen neuen Parköffner.
+Was haben wir da?
+Ich hab die Nummer.
+Ja, von mir aus.
+D, also D, E.
+D, I.
+10.
+C.
+2019.
+2, 11.
+Wo 11?
+6, 3, 5.
+So jetzt nex tun wir zweihalb, zwanzig à soezimmer 5, 11, 6, 5, 6, 7, 8, 9, 10, 11, 12, 11, ...
+Scheiten!
+Wie lag die Noterie aus?
+Klar,cification starten, das ist es.
+Das ist so eine Methode das Gewicht zu sparen.
+Das ist der Achsträger, da ist ja kein Lager drin, da ist gar nichts drin.
+Es muss ein Lager drin sein.
+Ganz am Ende, ich glaube, wollen wir die Radlage Einheit definieren und ich sehe jetzt
+da wirklich diese Einheit.
+Also da finden wir andere Sachen, die doch wesentlich besser passen.
+Also wenn du auch eine Lage findest, dann ist es eigentlich auch eine Lagereinheit.
+Wir wollen jetzt ja doch eine Achtschenkel machen.
+Das wäre jetzt ein Teil, wo eben diese Achtschenkel ersetzen könnte.
+Leichtgewichtiger Aufhängungsträger oder Achtschenkel.
+Was ist das für eine Patente?
+Die Patenten dort sind normalerweise schon vielschichtiger.
+Da gibt es sehr viele.
+Wenn Sie diese Radlager einhalten ohne SKF, das muss ja kein SKF-Radlager sein.
+Warum denn? Die Radleiterei ist doch frei sozusagen vom Hersteller.
+Ich habe nur dieses SKF mit reingekommen, weil ich der Meinung bin, dass wir vielleicht
+sogar dieses Knacki-Modul da finden. Das ist von SKF, klar. Aber sonst sind wir da ziemlich
+Das spielt eine große Rolle, das chinesische Patent ist sicher jetzt vom SKF.
+So, jetzt kommen sie rein, diese Bohrungen. Sehr schön.
+Jetzt können sie sich sozusagen betätigen und diese großen Bohrungen noch irgendwo platzieren.
+Oder jetzt waren sie die Kleinen, oder?
+Das sind ja eigentlich die Teile schon, oder?
+Die ganz Kleinen.
+Die würde jetzt zuerst die Kleinen machen.
+Die Kleine hat natürlich einen Bezug.
+Die muss exakt liegen.
+Sonst können sie es nicht montieren.
+Das heißt, da kommt so ein Maß.
+Jetzt abweichen, von hier nach da,
+Hier zum Beispiel.
+Den müssen wir alle ausmessen.
+Mal schauen, wie wir das im Protokoll noch drin haben.
+An solchen Stellen lässt man einfach raus, sodass man festlegen kann.
+Jetzt können wir, sie sind ja tätig, machen wir es vollermaßen, dass der Abstand hier,
+den können wir noch sauber ausnutzen, wenn wir jetzt zwölf Kilometer, dann gehen wir
+noch einmal aus.
+Das heißt, hier auch noch zwei Kilometer, Abstand dieser zwei Bohrungen, die Bohrung
+selbst.
+Und hier ist natürlich jetzt 7, hier ist 7, da ist noch eine 3a dazu, und hier haben wir die M14, da ist Innendurchmesser, da sind wir 14er Bohrer, das haben Sie ja auch so beschrieben, oder?
+Also M14, das haben wir gesagt, M14, genau.
+Also können wir ja sagen, dass sich der Bohrungsdurchmesser schon anzieht, das haben sie ja so bestätigt.
+Und der kleine Bohrungsdurchmesser, das ist dann halt der M8 wahrscheinlich, oder?
+Dann schauen Sie es sich mal ganz einfach an, da können wir uns letztendlich behelfen
+und da nehmen wir sozusagen nur die jeweilige Schraube dazu.
+Die muss man wegnehmen, das heißt, das ist die kleine, die fixiert ja nur die beiden Scherben.
+Und die haben jetzt ein Außendurchmesser 8-M8, die M8, das heißt, da hätten wir jetzt ein 4er-Radius,
+Und beim anderen wäre der Radius eben 7, oder?
+Oder immer so?
+Das ist ja 16, oder?
+14, ja genau, also 7, genau.
+Radius 7.
+Und dann haben wir eben diesen Abstand, der sich beim STD hinschiebt.
+Der wäre jetzt bei mir.
+Würde ich den jetzt mal ändern?
+Das wäre jetzt 12 Millimeter.
+Dann kommt man von da nach da, hier den Pfeil machen und hier den Pfeil.
+Von da nach da, genau.
+Und dann können wir das eigentlich ganz gut so definieren.
+Und dann ergibt sich ein Winkel.
+Und der Winkel, wenn jetzt 20,25° ist, dann kann man den Winkel der Schmaß geben.
+Jetzt können wir das mal so komplizieren, dass wir mit der Bohrung hier hinkommen und dann schauen wir den Winkel an, den wir umbauen können.
+Wie heißt das Geschehen?
+Antwort auf das Geschehen.
+Funktion, Leistung, Drehzeit, Wartezeit, Lebensdauer.
+Wo sind wir jetzt gerade?
+Ja, hier ist dann der
+körperliche Mindestangriff
+von vorhin zum Beispiel.
+Und
+ein bisschen
+Angriff.
+Ja, ich zeige Ihnen das.
+Ich zeige Ihnen das, das ist nicht der VW jetzt, das ist ein Modell der Mercedes B-Klasse,
+Typ W 235, das ist das Fahrzeug, Mercedes, das ist das Fahrzeug.
+Und gucken Sie mal, ich habe Ihnen hier alle Daten reingestellt, die dieses Fahrzeug betreffen.
+Nämlich, wenn wir jetzt hier uns das anschauen alle in diesem, dieser Mitschrift.
+Ab hier geht es ja los. Das ist die Anforderungsliste.
+So soll die ausschaffen. Das sind sie ja gerade dran.
+So und jetzt schauen wir uns an.
+Schnittstellen, Pastoren, irgendwelche Datenblätter.
+Dann haben wir hier, das ist das Modell, schauen Sie mal, das ist Mercedes, da steht Drehzahl,
+das brauchen wir kaputt, können wir mit reinnehmen. Da stehen hier die Traglasten, dann haben wir hier
+was recherchiert, dann haben wir die empfohlene Lebensdauer, das müssen wir hier alles natürlich
+ableiten aus dieser Vorgabe. Da ist es nochmal, Traglasten, schauen Sie mal, das sind alles
+Gewichte, Leergewicht, Gesamtsgewicht, Achslasten und das war es dann eigentlich schon.
+Das heißt, das sind alles Auslegungsdaten, wie hier Fragezeichen, Schnittstelle, Radnabe,
+Gelenkquelle, Normen, Recherchen. Da oben ist das Modell, das ist das hier.
+Und dann haben wir eben so Datenblätter wie hier, das ist nur ein Beispiel.
+Das kommt da rein.
+Okay?
+Ja.
+Gut.
+So, können wir was trinken?
+Ein Radnabelmotor wäre möglich, oder?
+Radnabelmotor?
+Ja.
+Warum?
+Ich glaube, das wäre auch voll das Meinungen, oder?
+Also eine Laufbahn mit einem Motor,
+Elektromotor.
+Gibt es sowas?
+Ja, anscheinend schon.
+Ja, aber das ist ja nicht unser Thema, oder?
+Ja, das geht ja um die Laufbahn, oder?
+Lassen Sie mal sehen, wie es aussieht.
+Ich zeige Ihnen das mal.
+Ja, das ist sicher gar kein Thema.
+Das ist sicher abstrakt.
+Selbstlernend.
+Aha, macht er was.
+Hat kein Messer dabei.
+Nein, leider nicht.
+Naja, gehen wir.
+Wenn man das sieht, das hat keinen Wert.
+Einen Motor brauchen wir sowieso nicht.
+Ein Rad haben wir sowieso nicht.
+Also lieber haben wir sowas zu,
+was wir jetzt auch gehabt haben.
+Weil Sie können
+das da noch mal
+diese
+reine Suche so gestalten.
+Schauen Sie mal, wie ich das gemacht habe.
+Da ist ja eh schon was da.
+Da sind wir doch jetzt hier
+und das wäre doch schon mal was.
+Sowas in der Art.
+Das ist doch genau ein großer Thema, oder?
+Radnabe,
+Lager,
+Verbindungseinheit. Und dann da hinten
+und da vorne, die zwei Sachen
+müssen wir nur beachten.
+Also die haben zum Beispiel halt
+diese Spezialkonstruktion
+aus dieser
+Verformungsflächen
+Da haben sie letztendlich hier noch eine Unterlegscheibe, die sich im Verbau durch diese Vorspannkraft eben verformt
+und das Ganze dann eben anpresst.
+Also sowas in der Art. So hier, das da werden wir da holen. Das wird passen.
+Sie wissen nicht, was Sie damals gesucht haben, oder?
+Doch, die Nummer. Ah, das weiß ich noch mal.
+Das ist rein zufällig. Irgendwas habe ich heute gesucht.
+Radnabeneinheit, gehen wir nochmal da drauf, neuen Hub, und dann gehen wir hier nochmal auf Recherche, Basis, dann alle raus, Titel,
+Was ist das? B-Cup? Radnabeneinheit?
+Nein, Radnabeneinheit vielleicht.
+Bist du schon zu?
+Ja.
+Das war's.
+Das ist die Gersche.
+Das war das doch, oder? Der zweite Treffer ist der Rathen-Abend-Einheit, den hätten wir doch ausgeschöpft.
+We have you met, da schreibt er das jetzt dazu.
+Dann haben wir schon den nächsten Suchbegriff.
+Dann haben wir GKN.
+Wow, schauen Sie mal her. Ist das eine tolle Erfindung.
+Das kann ich jetzt verwenden, oder?
+Ja, das ist genau unser Thema.
+Das wäre das, genau das Ding.
+So wäre es.
+Da macht er irgendwas.
+Wie finde ich heraus, wie die Kräfte da gehen?
+Weil das steht ja normal nicht drin.
+Das steht drin, das ist wie die Analyse.
+Weil faktisch ja ganz klar,
+jetzt hat er hier, der will jetzt uns was sagen.
+Der zeichnet den einen Teil mit Y und den anderen Teil mit Z.
+Das heißt, ich fange hier oben an und sage,
+Wo läuft denn die Kraft hier durch?
+Das heißt, irgendwo kommt doch hier die Antriebskraft rein.
+Das haben wir hier eigentlich ganz gut dargestellt.
+Eigentlich ist es ja fast identisch, wenn man so will, mit dem Ausarbeitungsteil hier.
+Einleitung, Antriebsmoment, Antriebskraft, oder?
+So, und dann verteilt sich sozusagen die Kraft auf diesen Querschnitt.
+Und sie muss da durch.
+Die ganze Kraft wird hier übertragen.
+Und dann geht sie nach außen erst.
+Das heißt, die Kraft fließt hier rein.
+Das spricht ja vom Kraftfluss.
+Das heißt, wenn sich ein Querschnitt verringert,
+dann muss da die ganze Kraft durch.
+Und genau das hätten wir hier.
+Querschnittsverringerung, das Ganze geht über diesen Querschnitt durch, geht hier rein.
+Die Kraftübertragung findet hier über diese Zahnflanken statt.
+Da wird die Kraft übertragen.
+Und erst dann geht es in diese Einheit.
+Und dann wird es wahrscheinlich so sein, dass eigentlich nur der Kraftbesitz, das sind die grünen Linien,
+die gehen jetzt praktisch hier rüber und oben wird es ausgeleitet.
+Das ist letztendlich die Verschraubungsfläche und da geht es ins Rad rein und dann fährt das Rad voran.
+So ungefähr ist das aufgebaut und so können Sie das eigentlich direkt auch machen,
+dass man sich überlegt, wo müssen die Kräfte durch, wo werden sie zentralisiert, wo werden sie drübergeleitet
+und ganz am Ende sind ja nur die vier Schrauben letztendlich für die Kraftübertragung zuständig.
+Und die Anpressung natürlich durch diese Schraubenkraft.
+So ungefähr ist das im Aufbau.
+Dann die Nummer von dem Körpern.
+Also die da war es jetzt, das wäre die.
+Deutsches Patent, Kruge war nein.
+Könnte ich noch bei Ihrem Messer haben?
+Ja, selbstverständlich. Aber mit 20 Stück davon.
+Dankeschön.
+Das ist die Schichtstelle für das Fahrzeug.
+Für das Fahrzeug wollen wir das Rad haben. Nur das.
+Nur das Fahrzeug, genau. Das sind die Randbedingungen.
+Die Randbedingungen beziehen sich auf ein Fahrzeug, da haben wir eine Achslasche,
+da haben wir ein Gesamtgewicht, und aus dem Gesamtgewicht haben wir dann diese Achslasche.
+Die Vorderachse, die Vorderachslasche, durch zwei geteilt, und dann auch die einzelne Radlasche.
+Und die Radlasche beispielsweise, die wäre jetzt ein Kriterium in der Antwort.
+Bravla heißt es.
+Okay.
+Irgendwo haben wir eine Skizze gehabt.
+Na ja, gerade ganz kurz überlegen.
+Wo haben wir denn die gekennt?
+Ah, da.
+Es liegt nichts da.
+Das wäre dann das Innere von meiner Tatnahme, oder?
+Das hier?
+Das ist jetzt die offizielle Repeat-Aufgabe.
+Ja, genau.
+Ja, das wäre es.
+Also das wäre jetzt die Falschfahndung.
+Nö, das ist das Neue, das ist das Neue.
+Aber eigentlich ist uns immer das Innere eben klar.
+Das ist jetzt hier mit diesen einzelnen Aufschnitten,
+das sehen Sie, das da zum Beispiel,
+das will er, will das ja erklären, am Patent.
+Das ist ja der Gegenstand.
+Dann müssen wir schauen, was soll denn die Figur 7 uns erklären?
+Das hättet ihr eben gar nicht gewusst.
+Das ist die Analyse.
+Dass man sagt, er beschreibt jetzt hier oben,
+das ist eine allgemeine Formulierung,
+hier dieses Element,
+und insbesondere diese kleinen Dinger da drin,
+das Ding, was mit Z-Einzelheit gekennzeichnet ist,
+das will er patentiert haben.
+Z und Y oder Null?
+Null und Y vielleicht.
+Ja, das weiß ich nicht, wie das genau zusammenhängt,
+aber er sagt auf jeden Fall,
+Z und Y sind hier im Besonderen zu beachten.
+Sonst hätte es nicht als Einzelheit herausgezogen.
+So explizit hier vorne diese Anordnung definiert.
+Das würde sich sehr gut eignen.
+Untertitel der Amara.org-Community
+passt entsprechend oder kein lager ist der lager drin
+also lesen wir es mal von vorne noch mal da haben wir jetzt hirschvogel
+umformtechnik denklingen okay möller schon partner das ist jetzt hier auch
+zum Beispiel Radnabe, insbesondere geschmiedete Radnabe, Radnabe-Welle-Anordnung.
+Das ist nur die Nabe, Sie sehen es, da ist kein Lager drin.
+Wir brauchen immer die Kombination Radnabe-Lager-Einheit.
+Also wir wollen immer das hier, ich zeige es Ihnen mal.
+Das hier wäre das Bastard zum Beispiel, das ist die Nabe, das hier, dann oben ist das Lager.
+Das immer als eine.
+Muss ich eine andere suchen.
+Was macht das, wie weit sie machen, ja, das wird schlecht ausgehen.
+Ja, genau so. Und was sonst jetzt von Winkler tatsächlich?
+Ja, aber jetzt im CAD, denn die wollen ja am Ende die Bemaßung, ja,
+und am Ende braucht man die Bemaßung, im CAD ein modellisches Vorstand aus der Winkler.
+Aber sie reiten ja sozusagen später das Maß ja in die Zeichnung ab.
+Und in dem Moment braucht man natürlich wieder Mimik.
+Gehen Sie aber noch mal in die Skizze, wo Sie der Maß haben.
+Ja, nein, das machen wir nicht.
+Jetzt gehen Sie mal doch auf eine Linie.
+Linien-Element, genau, Linie, Mittellinie, momentan, dann gehen wir da rein und gehen wir raus.
+So, gerade muss aber genau rein. Nicht finden, beziehungsweise raus.
+Und jetzt bemaßt man von der Mitte aus die eigene Winkel.
+Also, Bemaßung, und dann, wie immer, einmal das Element.
+Und dann eine Achse dazu, hier einen Winkel brauchen wir, der macht, wir brauchen Winkelbemaßung, jetzt hat er was, gell?
+Kannst du mal aufprobieren, was er nimmt?
+Ich habe eine gefunden, aber sie besteht aus nur einer Radnabe, keine Lager.
+Also ich suche nach einer Radnabe mit Lager.
+Findest du nicht?
+Sieht man das nicht?
+Ich glaube, das passt.
+Ich glaube schon.
+Sie wissen schon, wie ich meine, dass ich hier eine Achse habe und dass ich da den Winkel haben darf.
+Da kommt man dann irgendwie raus bis raus.
+Das ist mit dem Motor, glaube ich.
+Gehen wir ganz hoch.
+Gehen wir ganz hoch.
+Wir haben hier eine Linie.
+Runter.
+Das ist der enge Link.
+Der macht das schon immer relativ automatisch.
+Ja, aber ich habe früher ganz anders aufgenommen.
+Ja, ihr weißt schon, jedes Jahr machen sie da Abdeck, gell?
+Und trotzdem muss ja irgendwo eine Linie zu einer zweiten Linie und eine Linie...
+Ich mache es auch so, dass ich die Linie jetzt mal frei definiere, ohne weiteren Bezug.
+Es kann schon sein, dass die wieder einen Bezug hat, dann lässt sie sich auf jeden Fall nicht mehr verändern.
+Fahren wir die linke Linie noch mal raus.
+Hier?
+Ja, genau.
+Wollen wir noch mal rausnehmen.
+Und jetzt machen wir es noch mit einer Linie.
+Ah, okay.
+Genau.
+Und dann nur da in der Mitte.
+Und jetzt fahren wir es da her.
+Ganz raus.
+Fertig.
+So.
+Jetzt habt ihr normal keinen weiteren Bezug.
+Genau.
+So.
+Und jetzt müsste man doch die hier...
+Das ist gut, glaube ich.
+Das wäre gut.
+Was?
+Wo du das aufgemacht hast.
+War das das?
+Von gerade eben.
+Ich glaube, das ist gut.
+Ich glaube, das ist gut.
+Passt das?
+Das muss ich schon lesen.
+Das ist gut.
+Der zweite Bezug muss die Achse sein.
+Bist du mit drin?
+Herr Arger, weißt du das noch?
+Was?
+Das wäre jetzt meine Empfehlung.
+Wenn wir das hier definieren, dann übernimmt es automatisch, wenn Sie Seitenungsableitungen machen.
+Wenn das jetzt dann 15 Grad sind, dann werden die 15 Grad ja auch später so hart sein.
+Darf man das selbe Patent verwenden?
+Weil er findet auch nichts, also ob er das auch verwenden darf?
+Da finden wir jetzt nicht nochmal ein weiteres Patent.
+Super, ich kann diesen nutzen, oder?
+Das wollen Sie nutzen? Ja, dann machen Sie das doch.
+Ja, das ist gut, das Patent. Super.
+Das finden Sie. Sie haben auch das, oder?
+Ja, aber ich finde es auch nicht.
+Also machen wir das, das ist nicht ganz gut.
+Du musst dann die Nummer, du weißt, wie es geht, oder?
+Die Nummer müssen wir dann eingeben.
+Die Nummer finden Sie auf jeden Fall.
+Jetzt haben wir natürlich mehrere Hintergründe auf,
+Und was so interessant ist, ist natürlich auch diese Funktion dieser Zahnmutter hier,
+nenne ich das jetzt mal, die lässt letztendlich eine Verstellung suchen und eine Vorspannung.
+Die Kräfte müssen aber nach außen wirken oder so?
+Die Kräfte gehen immer am Ende seitlich über die Bohrungen raus.
+Das heißt, wir haben hier die Bohrungen, das wäre jetzt die Bohrung,
+Die Bohrungskräfte sind mitteckig gezeichnet, aber das wäre die Ausleitung der Kräfte.
+Einmal in diese Richtung, das ist ein Halbschnitt, dann geht die Kraft natürlich auch raus.
+Gibt es hier auch Axial, also so?
+Nein, Axial wird nicht so übertragen.
+Axial haben wir hier, die haben nur die Kraft übertragen über diese Bohrung.
+Bohrungen, die nach außen hinweg gehen.
+Das ist bei allen so.
+Und dazwischen läufst du halt irgendwo drüber.
+Das heißt, es ist tatsächlich fast die eine oder andere Kraft.
+Da kann man sich ja vorstellen, dieser Fluss, der verzweigt sich mal und dann kommt er wieder zusammen.
+Und diese Verzweigung, die ist entweder vielschichtig, so gehen die Kräfte außen vorbei,
+und dann muss man eben schauen, gibt es an einer eigenen Stelle, sagen wir, einen sehr dünnwandigen Kraftübergang.
+Das wäre dann auch so etwas, wo man halt in so einer Schwachstellenanalyse ein genaues Augenmerk drauflegt,
+Hier lassen wir das sozusagen noch mit irgendjemandem überschauen, FDN-Berechnung oder sowas, genau in dieser Stelle.
+Was wäre, wenn wir es am Dienstag abgeben, was falsch wäre? Darf man es dann noch mal überarbeiten?
+Ja, genau. Das ist ja das Ziel, dass wir das nochmal durchschauen, dass es am Dienstag einmal fertig ist.
+Und ich sage Ihnen dann halt dann, wo wir nochmal ansetzen können.
+So, dass wir dann alle nochmal einen Schritt nach vorne kommen.
+Ich hab's.
+Jetzt haben Sie es.
+Ich hab's.
+Jetzt ist die Idee bestimmt auch wieder da.
+Ja, genau. Das war es.
+Und jetzt gehen wir in etwa dorthin, wo die Mitte ist.
+Also du musst hier zum Beispiel erklären, dieses Patent macht irgendwas aus.
+Du musst diese Zahlen gucken.
+Dann musst du so schreiben, was an diesem Patent besonders ist.
+Wie es funktioniert.
+Ja, aber dieses Patent ist was besonders.
+Weißt du?
+Irgendwas ist besonders an diesem Patent und das musst du erklären.
+Ich zeichne die Person des Konzenters auf den Mittelpunkt drauf.
+Ja, die Linien musst du einzeichnen.
+Da haben wir die 750°.
+Und das ist für uns okay.
+Dann hat das Ding einen Lochkreis.
+Das müssen wir jetzt auch noch mal schauen.
+Wo ist der Lochkreis?
+Und die 750° ist fixiert.
+Es hätte auch sein können, dass ich das jetzt hier gemacht hätte.
+Nein, der Abstand dort, den haben Sie vorher schon gesehen.
+Der muss ja nachgekommen sein, bis zum Abstand.
+Ah, ok, ja.
+Wir haben es jetzt bloß, das ist ungefähr...
+Ah, die Wartezeit muss raus.
+Ungefähr 750 Grad. Jetzt haben wir es exakt.
+Ja, genau da.
+Ja, genau. Wir haben es ungefähr 750 Grad, aber jetzt haben wir es gerade.
+Du musst einmal das hier machen, so und das hier, das genau so machen und erklären.
+Also, du musst einzeichnen wie die Kräfte, du siehst ja hier die Kräfte, dann fließen
+so, das ist bei dem auch so, das musst du einzeichnen, also so wie hier musst du machen,
+das musst du erklären.
+Dann guck, das Besondere ist ja hier, weil das ist das Besondere, das musst du so erklären,
+warum es so besonders ist. Verstehst du?
+Was soll ich sagen?
+Es ist besonders über das Patent.
+Sie können es auf Deutsch erklären.
+Du musst erklären, was bei diesem Patent besonders ist,
+also was Patent ausmacht.
+Ein Lochkreis, also ein Hilfskreis, wenn man so möchte, ist es die zweite Masche?
+Ist dieser und dieser gleich?
+Ja, aber du musst einmal so die Kräfte einzeichnen.
+Die Kraft hier, die geht ja so.
+Und du musst erklären, warum das so besonders ist.
+Also, was das Patent ausmacht.
+Ist dieser Bild auch eine...
+Kannst du auch noch extra machen.
+Du musst dann erklären, was was ist.
+Das wäre dann hier.
+Ich muss dann hier erklären, was was ist.
+Was das ist, was...
+Ich muss hier, genau hier erklären.
+Die Kräfte einzeichnen und erklären, was besonders ist.
+Wie auf dem Weltbild.
+Genau so machen.
+Stehst du so, musst du erklären.
+Zum Beispiel Gummimetallelement, Loophammer und so musst du erklären.
+Also, dieses Bild ist für die Kräfte und die Bauteile eingezeichnet.
+Genau, beschreiben.
+Und das erste Bild ist für die Kräfte und das zweite Bild ist für die Bauteile.
+Genau, und du musst erklären, was dieses Bild hier besonders macht.
+Also, das ist dann...
+Hier, was es besonders macht, du musst dann 23, 34 lesen, schau, dann liest du hier die
+Zahlen.
+Okay, dann liest du hier so durch, 33, weißt du was ich meine?
+Hier, die Zahlen anschauen, dann lesen, was es besonders macht, dann musst du hier, also
+Dann musst du hier, das ist ja das dann, guck, erklären.
+Reformungsfläche, Anlagefläche.
+Also die Patent sagt...
+Was besonders ist, was ausmacht.
+Was ist daran besonders?
+speculative as
+Es ist nur dort die Person ist.
+Was uns anzutun, was wir uns nicht sagen müssen?
+Eigentlich schon, ja. Normalerweise schon.
+Aber wenn du Dienstag fertig machst, bis Dienstag, dann hilft dir nochmal zusammen anschauen.
+Nächste Woche, dort?
+Ja, genau. Dienstag. Schaut damit dir das an.
+Und bis dann fertig machst.
+Dann kannst du nochmal ändern. Verbessern.
+Ich würde sagen 120°.
+Jetzt stellt ihr das hier auf.
+Ich bin bei 19.000.
+Das ist bei 120° gestanden.
+Das ist ein sauberes Maß, ein sauberer Lochkreis.
+Auf dem Lochkreis 120 befindet sich diese Bohrung, zur Mitte hin auf 57° versetzt.
+Dann ist das 100% definiert.
+Und mehr Maße brauchen wir nicht.
+Und dann wissen wir, ein Durchmesser 7 ist das sicher.
+Haben wir nicht 8 gesagt?
+Nicht mehr zu wundern.
+M8.
+M8 ist es.
+Also M8, wenn man so möchte, also das Gewinde definieren, das müssen wir auch später machen,
+das ist mir egal.
+Jetzt hauen wir es mal an.
+Jetzt passt es.
+So, dann haben wir den festgestellten, für uns am Ende die funktionswichtigen Maße.
+Weil wir wollen diese Schnittstelle, die wollen wir definieren.
+Alles andere hinten rum spielt keine Rolle, die großen Bohrungen spielen auch keine Rolle,
+aber das sind funktionswichtige Masse.
+Die brauchen wir, jetzt wurden wir sauber definiert.
+Ah stimmt, kann ich doch mal...
+Ja natürlich, was fehlt jetzt noch?
+Meinst du nochmal noch da?
+Nein, nein, nein, den brauchen wir nicht.
+Aber ich kann das sonst nicht so...
+Das ist voll definiert.
+Also mit dem Abstand und mit dem Durchmesser, dann liegt der Kreis nicht, dann ist er nicht verbunden.
+Dann sind die Bedingungen nicht vollständig verbunden.
+Die Mittellinie muss hier, der Kreis muss in der Mitte da drauf sitzen.
+Können Sie das Spielzeug speichern?
+Ja, ich kann es doch jetzt löschen.
+Ja, aber nein, nein, nein, nein, nein.
+Wenn es auf dem Kopf steht, steht es auf dem Kopf.
+Wenn Sie das Spielzeug ziehen, ist das Kompromiss als Bedingung definiert.
+Ich schwöre, es geht davor nicht.
+Es geht nur in der Lebensschicht.
+Das ist nicht definiert, oder?
+Nein, immer noch nicht.
+Gucken wir mal, was da steht.
+Ah, da ist da oben noch was. Schauen wir mal, das da, das ist ja geil.
+Also, wir müssen weiter machen, wir müssen weiter.
+Das heißt, die sagen uns, sie wollen heim, oder?
+Ja, wunderbar.
+Aber da sind wir dann schon in der Richtung, wo wir hinwollen, okay?
+So, dementsprechend...
+Schönen Nachmittag miteinander und wir sehen uns nächste Woche wieder, okay?
+Gleichfalls, ja.
+Professor, ich habe eine Frage.
+Ja?
+Können wir das zusammenbauen hier?
+Wenn das runterfällt, das wäre total...
+Was haben Sie noch für eine Frage?
+Wenn ich mich frage, kann ich die Skizze...
+Ja, die Skizze, das hat nichts mit dem Fahrzeug zu tun. Das ist ganz was anderes. Das ist Fahrrad.
+Das ist in etwa sowas wie hier die Schnittstelle.
+Wieso muss ich die Haare...
+Das ist die Skizze, die macht ja einer von euch. Das ist die Zeichnung, die die Frau macht.
+Und ich weiß, wir sollen in die zwei Teile die Schnitze stellen, die Definition.
+Das ist das, was sie macht da vorne. Das ist die Schnitzstellen-Skizze.
+Aber es ist in zwei Teile auch die Schnitzstellen-Skizze.
+Ja doch, das gehört dann hier mit rein.
+Das heißt dann, die Anführungsliste definieren Sie sozusagen aufgrund dieser Daten.
+Das ist nur diese Scheibe, aber soll ich die Schnitte schnittstelle?
+Das ist keine Schnittstelle, die wir benötigen. Das ist nur ein Beispiel einer Schnittstelle.
+Und die exakte Schnittstelle ist das da vorne. Das ist die Schnittstelle, das was Sie hier zeichnen.
+Das ist die Schnittstelle zur Aufgangsstelle.
+Ja, so ist nur dieses Diagramm.
+Dieses Diagramm gehört auch nicht, nein, das ist nur ein Beispiel der Toleranzfindung.
+Ja.
+Also auch hier haben wir sozusagen, dann haben wir wieder dieses Thema, gell?
+Ja, ich nur wissen, soll ich die, wie zum Beispiel dieses Diagramm auf...
+Nö, das Diagramm muss da nicht rein, das kommt da nur rein, H7, S6, das kommt da rein.
+Oh, ja.
+Okay, okay.
+Er meint, man muss nur...
+Nein, er meint, man muss nur das ausbilden.
+Zum Beispiel, hier ist eine Eingangsliste.
+Dann muss hier eine Eingangsliste ausgebildet werden.
+Zum Beispiel, er nutzt diese Eingangsliste.
+Ich verstehe das nicht.
+Das hier ist die Eingangsliste.
+Das hier ist die Eingangsliste für W245 oder W254.
+habe.
+Also haben wir eine Schicht.
+Ja, diese Schicht ist mit Daten geeignet.
+In dem Schichtfeld ist so etwa Daten.
+Ja, Daten.
+Ansonsten sind es aus den Tagen, in denen wir das letzte Mal drüber geredet haben, 8.0.
+Das heißt, wenn man das gemacht hat, dann wird es etwas besser.
+Es ist ja praktisch das Gleiche.
+Es ist das Gleiche.
+Es ist nichts Gleiches getan, kann ich Ihnen jetzt schon sagen.
+Das dritte Verstaat ist ganz einfach.
+Das dritte Verstaat ist ganz einfach.
+Das dritte Verstaat ist ganz einfach.
+Du musst hier oben machen, oder?
+Ja.
+Ey, diese Röhren, weißt du, ob sie bewegt sind?
+Ja.
+Dann schick sie mir doch mal an.
+Schick mir die Röhren an.
+Ich schau mal.
+Ich habe sie alle in der Ware gesammelt.
+In der Recherche, oder?
+Ja, in der Ware.
+Ja, in der Zange.
+Das nächste Buchengeld, tschau, bis zum nächsten Mal.
+Tschau.
+Tschau.
+Bei Ihnen lag nichts mehr rum, oder von mir?
+Alles gut, ne?
+Wir haben noch eine kurze Frage.
+Ja, ich muss, ich hoppe weiter, was wichtig ist.
+Ja, also muss sie die Schnittstelle, muss sie das so machen, wie hier?
+Das ist das Datenblatt, das ist eine Zeichnung dieser Schnittstelle.
+Das ist eine Zeichnung von dieser Schnittstelle aus der Aufgabenstellung Rad, Fahrradantrieb.
+Das ist nur ein Beispiel. Das ist die Zeichnung, die sie gerade erstellt.
+Also Sie müssen es nicht machen, oder?
+Nein, ich mache es nicht.
+Sie machen es doch gar nicht.
+Es ist nur dann hier, dass bei Ihnen drin steht,
+Lochkreis,
+dieser Lochkreis, der kann bei Ihnen auftauchen,
+dieser Lochkreis kann bei Ihnen auftauchen,
+als Wert.
+Ins Datenblatt ist das hier.
+So ungefähr ist es gedacht.
+Es ist überhaupt mal festgelegt, welche
+Daten hier drin sind,
+Messzellenzahlen, diese Radien,
+und die sind in der Anforderungsliste
+Das heißt, der wird nichts anderes machen, als sagen,
+Schnittstelle zum Abtrieb nach Isis Drive, siehe Datenblatt.
+Das steht bei Ihnen drin. Siehe Datenblatt.
+Mehr oder weniger, okay?
+Also, jede Sprengung...
+...ist eine Ausübung.
+Du musst nur so machen.
+Du musst nur so machen.
+Wir haben in der Gruppe gespielt, schau dir das mal an.
+Ich mache genau so.
+Ja, so.
+Ja, genau. Eins und zwei.
+Das mache ich.
+Ja.
+Und das macht sie.
+Modellanalyse macht sie.
+Was mache ich?
+Modellanalyse.
+Sie muss eins und zwei machen.
+Also wie ein Foto.
+Ja, ich habe das schon gemacht.
+Wir müssen abdrucken, oder?
+Das ist ausdrucken.
+Du musst ausdrucken auf das normale Blatt.
+Kopieren und dann drucken.
+Nächste Woche musst du dann mitnehmen.
+Okay.
+Ich muss gehen.
+In die Tasche.
+Ich habe schon einen Schlüssel erfahren.
+es ist nochmal zu höhe
+Hol ihn mir wieder, wenn ich mir eine Bier aufmache.
+Du hast schon gemacht.
+Jakob, ich packe rein.
+Stunde Buch.
+...
+Du weißt, was es gibt, oder?
+Boah, das ist mal neu für dich.
+Es war doch schon mal hier, fünf Fläche, sie haben doch keinen Gewinn in dieser Runde gemacht.
+Die Bedeutung, dass die Hersteller mit Followern ihre Einstellung geschenkt machen, reizt die Region deiner Spielkommunikation.
+Ich habe ein Gürtz-Handy.
+Ich denke, wir brauchen es gleich.
+Wir müssen es direkt zum vierten Teil finden.
+Ja, wir müssen es direkt zum vierten Teil finden.
+Gürtz-Handy, ein von euch.
+Das Handy.
+Das ist dein Handy.
+Ja.
+Tschau.
+Tschau.
+Tschau.
+Tschau.
+Tschau.
+Tschau.
+Ciao!
