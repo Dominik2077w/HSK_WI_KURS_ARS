@@ -1,0 +1,1119 @@
+Das brauchen wir, wenn wir solche Bauelemente im Wechselwirkungspunkt nutzen, z.B. bei der Schraube, die angezogen wird und den Zug abzieht und dann zwei Platten zusammengedrückt werden.
+Das ist ein bisschen die große Formel, die wir auftreten.
+Und dazu braucht es dann die jeweiligen Steifigkeiten der Bauteile, die jetzt gemäß diesen Formeln entstehen.
+Die Steifigkeit einer Zugfeder ist E mal A durch L, mit L der Einspannlänge, A die Querschnittlänge und E die Bewegungsmessung.
+Bei einer Torsionsfeder, da ist mir jetzt irgendwie so ein Ding reingerutscht, geht das irgendwie nicht hin gerade.
+Bei wo das Fragezeichen steht, steht eigentlich das Gamma und das ist im Verhältnis betrachtet
+der Regel viel im Bogenmaß bezogen auf die Länge d halber bezieht sich das auf die Einspannlänge
+wo der gleiche Weg dort zur Wehr wird, bezogen auf die Länge L zu d halber.
+Und wenn man das in die Gleichung einsetzt, ergibt sich dann, dass die Steifigkeit einer
+die Polarausgleichenträgheitsmoment durch die Länge L ist, also je größer der Querschnitt
+oder desto höher die Steifigkeit, je länger die Feder, desto größer die Steifigkeit.
+Ich weiß nicht, ob ich das jetzt vollständig jetzt mal nachlesen kann.
+Was heißt das?
+Die Biegelfeder kommt noch, ja?
+Das ist die Torsion, ct ist mt durch phi, tau ist mt durch w pol und g mal gamma punkt.
+Was sie nicht haben, können sie das ergänzen?
+Was haben wir da unten, dieses CT rausbekommen?
+Ich empfehle, wenn Sie die Übungen machen, immer natürlich das Tablet oder Handy dabei
+Papier mitzubringen.
+Hier unten habe ich einmal
+das Papier mitgebracht,
+das Papier mitgebracht.
+Das ist nicht so
+ohne weiteres einfach,
+weil wir müssen dann später dann auch
+rechnen. Wir berechnen
+zum Beispiel für so einen Drehstab
+Feder, das ist nichts anderes als
+ein Schraubenfeder, der zusammengedrückt
+wird. Da gibt es gleich noch Formeln
+dazu, wie das ausschaut.
+Für so einen Drehstab
+Feder an die erforderlichen Durchmesser und die Länge der Feder und an den Punkt,
+gleichzeitig ansteuern zu können.
+Und das sind die Grundformeln dazu, auf die werden wir immer wieder zurückgreifen müssen.
+Und hier drehe ich jetzt grade formelläßig das Gamma nicht rein,
+weil das nur die Formel ist.
+Mal gucken, ob das so deutlich wird.
+Und dieses Verhältnis der Differenzierten Vogelmaß und Verhältnis der Halbwerte, das
+treffe uns jetzt in den Kommentaren.
+Wir kommen jetzt zu der Berechnung der Energiefehler bezogen auf die Schleifigkeit,
+dass man die Energieverdichtung nachfragt.
+Die Verformung S, die hier vorne gemessen wird,
+diese Tragbarkeit, die Geschlechtseinkämpfung, die Kraft F, die Länge des Kettenbetreibers,
+die D-Modul, das internationale Technik-Frequenz-Element,
+und dann kommt hier die Formel raus, F zu S, C, D, bis 3 mal A,
+Svab,
+Magie,
+du stellst.
+Magie,
+du stellst.
+Magie,
+du stellst.
+Magie,
+du stellst.
+Steifigkeit ist eine Frage
+des Gehechens,
+die wir studieren.
+Je größer der Kreis,
+desto größer ist das Gehechens.
+Und die größere Nähe, das ist die Linie, die Streitigkeit, die folgt deswegen durch die größere Nähe.
+Die Fläche unter der Kurve, die hier reingesteckt wird, ist ja auch schon, wenn die Systemfreirung
+funktioniert.
+Unter Umständen anders sein, geht wiederum von der Steifigkeit ab.
+Die Energie kann identisch sein, wie in dem Fall G1 und G2,
+wobei es hier unterschiedliche Steifigkeiten, unterschiedliche Kräfte und Wege gibt.
+Da muss man ein bisschen aufpassen.
+Dann hatten wir die Berechnung einer Parallelschaltung von Federn gemacht,
+wo sich die Einzelschleifigkeiten agieren. Das haben Sie, richtig?
+Da unten steht, die Nachgiebigkeit ist eine Summe der Kehrwerte der Schleifigkeiten.
+durch C1 plus 1 durch C2 plus 1 durch C3, wenn wir jetzt drei Fehlern machen, durch denen die Kraft durchgeht.
+Die Nachgiebigkeit als Summe der einzelnen Nachgiebigkeiten, die wir formeln, finde ich immer noch schuldig, richtig?
+Und mit dem Hinweis, diese Nachgiebigkeit ist der Kehrwert der Steifigkeit, weil man
+ist nicht der Kehrwert der Streifigkeit, weil man bei den Schrauben mit Nachwichtigkeit
+Hier haben wir gesehen, solange die Kraft nur durch die Feder C1 geht,
+Wenn ich mit dem Abstand A diese Deformation hier aufsetzen kann, geht mal nichts, oder?
+Versuchen wir bitte mal, das S ist sozusagen die Deformation meiner oberen Platte nach
+Unterschied, wie diese Federsteiglichkeit ausschaut im FS-Diagramm.
+Wie sind die resultierenden Kellenwerte aus, beziehungsweise die Kraft-Wegkurve?
+Wie man im Vorschlag.
+Wir machen jetzt einfach eine Übung, die ist ein bisschen komplizierter, aber da müssen wir uns ein wenig reingehen.
+120 Newton pro Millimeter oder so was wäre ein Kennwert.
+Die Zählerschleiflichkeit C1, charakterisiert durch die Steigung.
+C1 und die läuft mit dieser Federkonstante bis zu dem Punkt, dass die Strecke A überwunden ist.
+Wir machen jetzt so eine segmentweise Betrachtung und dann sehen wir, die Feder wird zusammengedrückt bis zu dem Punkt.
+Und jetzt liegen alle drei Federn an. Was habe ich dann für eine Federsteifigkeit?
+Jetzt haben wir drei Parallelschaltungen und die Fehlersteifigkeiten werden abgegeben.
+Ab dem Punkt A habe ich dreimal C, d.h. wenn ich hier 1 cm drüber habe, dann habe ich jetzt hier 1, 2, 3 und die Federsteifigkeit wäre 3 C.
+Ja?
+Ja?
+Sobald die da drauf ist,
+und dann habe ich eine progressive
+Bewegung.
+Ein anderes Beispiel, hier sind die Federn noch angebunden,
+Wir brauchen eine Umgebung, in der das Ganze als Druckfeder geschrieben wird.
+Das Loch ist hier drin.
+Die Feder wird zusammengedrückt.
+dass die Wanderungsrechnung geschieht mit diesem Wert E auf all den Seiten.
+Und die, die da vorne ist, ist das 13, oder?
+Ja, das ist das 13.
+Ich glaube, das war gut.
+Das ist jetzt einfach die Steigung, die können Sie anheben, wenn Sie jetzt sagen, das ist
+Kraft in Newton, meinetwegen, ja, das ist die Auslenkung in A, dann sagen wir mal Liefersteifigkeit
+C1, 20 Newton pro Millimeter, das ist die Steigung.
+Dann wäre ich hier bei 20 Newton und hier bei 1 Millimeter.
+Wenn ich das 3xC habe, dann habe ich 3xC1 sogar mit 60 Nm, d.h. ab dem Punkt habe ich dann 2 Nm mit der 3x30 Zeit dahinten bei 80 raus.
+Also es ist immer ein Additiv, wenn jetzt eine Feder rein geht oder raus geht, verändert sich das System.
+Nach der Heben, wenn die Schleifigkeit verarbeitet ist, wird sie verformen.
+Und jetzt haben wir da unten so einen Fall. Das ist jetzt hier eine fest eingebauten Feder.
+Das ist eine Druckfeder, kann jetzt den Block nach links oder rechts bewegen.
+Was ist die Federsteifigkeit?
+Die Feder als solches reagiert auf Zug und Druck, das ist ein Zug- und Druckfeder.
+Wenn ich mir das Diagramm anschaue, geht das folgendermaßen.
+Ich habe auch hier das S und das F.
+Wir machen ja gleich zwei, drei Übungen dazu.
+Ich muss richtig nachdenken, wie ist die Fehlerscheinlichkeit momentan?
+Es ist so eine Frage, wie bewegt, wie groß ist die Fehlerscheinlichkeit?
+Dabei tragen beide einen.
+Und wenn ich mir das betrachte, ist so eine Frage, wie?
+Da würde sich was ändern, was würde sich da ändern?
+Wenn ich jetzt hier.
+Jedes Anschauung wird die eine Feder oder der Element nach links oder nach rechts
+bewege, solange ein Druck dabei, das ist die entlastete Feder.
+Wenn diese Länge erreicht wird, greift die Feder nicht mehr ein.
+Wenn ich das jetzt nach links bewege und die Feder geht mit ihrer Ausgangslänge und ich bewege das mit dem Betrager B nach außen, wird diese Feder nicht mehr greifen.
+Bis dahin greift die Feder ein.
+Beide Federn, quasi wie eine Parallelschaltung, greifen wir jetzt ein, die eine als Zug, die andere als Hubfeder und damit habe ich dieses 2C.
+Wenn ich den Betrag B erreicht habe, habe ich nur noch eine Feder, die als Hubfeder wirkt.
+Die andere hat keine Kraft mehr auf das System, die wirkt locker und dann halbiert sich sozusagen die
+Deformation, die Steifigkeit.
+Ich habe hier nur noch ein C.
+Es gibt eine eklessive Schaltung.
+Stehen wir skeptisch?
+Und wie diese Feder nach rechts schieben, wird wie gedrückt und wie wird gezogen.
+Wenn die Feder wieder in der Ursprungsmenge erreicht hat,
+und das ist in dem Fragment zusammengeklebt,
+dann ist diese Feder frei, die kann nicht mehr rein.
+Die geht nur noch locker darum und wird mitgezogen.
+Und dann kriegt nur noch ein Druckfeder rechts oder ein Druckfeder links.
+Deshalb ergibt sich dann auf den Kontext hier die Gesamtschleifigkeit 2c bis zum Erreichen des zentralen d und dann hat nur noch eine Fliegerungsdrucksamkeit und jetzt wird der Kasten gesperrt.
+Das ist das hier bei der Hintereinanderschaltung, bei unten angegebenen Markenübergreifen der
+Einzelfilter als Summe der Einzelmarkenübergreifung.
+Die Steifigkeit ist der Kehrwert der Nachgiebigkeit und umgekehrt.
+Dann haben wir hier unten die Liniebeschaltung gemacht.
+Wie hier das.
+Das heißt Bruder hält.
+Dann haben wir hier die Progressiveschaltung.
+In diesem Fall gibt es nur eine Federausdrückung im Bereich des Weges A, der Wegstrecke B und der Wegstrecke A, die die Schalligkeit nicht verbreitbart, weil jetzt drei Federn angreifen.
+Hier ist ein anderes Beispiel. Zwei vorgespannte Federn werden in eine Zwangsdeformation gebracht,
+Wenn sich eine Federmasse nach links, nach rechts bewegt, greift die andere Feder nicht mehr ein.
+Wir haben dann keine Wirksamkeit mehr.
+Und dann ist das eine eklige Funktion, die wir hier haben.
+Ich fange hier oben mal an, drei Schrauben sind unterschiedlicher Steifigkeit, wenn
+wenn man die folgenden beiden Anordnungen zusammengeschneidet.
+C1, C2, C3.
+Hier haben wir einmal eine Parallelschaltung,
+die ist gekoppelt mit C1 als Untereinanderschaltung.
+Da oben ist es umgekehrt.
+Angegeben sind die C1, C2, C3
+und die sollen berechnen, wie die Zusammensteigungssteiger
+das linke und rechte System auslösen.
+Es ist egal, ob erst zwei oder eine Feder kommt, also ob es umgeklebt ist.
+Ja gut, die haben jetzt unterschiedliche Beträge, sage ich jetzt mal, aber von der Luft her ist das eigentlich egal.
+Und daher ist es ja nicht mal gut, wenn da jetzt eine späerexperte Zahl stehen würde.
+Ich sage mal, wenn wir hier C2 und C3 haben und wir hätten hier oben C2 und C3 und hier C1,
+dann bleibt sich das gleich.
+Also wir müssen jetzt erst die Wiederschaltigkeit für dieses C2, C1 ausrechnen
+und dann die Kürze einander schalten.
+Wenn ich rauskomme von hier, steige ich wieder aus.
+Das haben die so im Mutus, ne?
+4,3 schreiben oder 4,4 oder 4,36, dann passt das.
+Das ist ja eine Periode, da sind wir dran.
+Also ich weiß nicht, Federstreifigkeit in der dritten Nacht, wenn man so etwas macht.
+Einverstanden?
+Hat das geklappt?
+Dann hätten wir da unten die folgende Fragestellung, eine Schraubenzugfeder hat eine lineare Schleifigkeit
+Die Festigkeit des Federsystems optimal auszudrücken, soll die Belastung aller Federn gleich sein.
+Skizzieren Sie, wie zwei Federn zusammengeschaltet werden müssen, damit eine Gesamtsteifigkeit von 400 Nm entsteht.
+Der A zwei Parallel, die Gesamtheit D 600, drei Parallel, die Gesamtheit D 600, drei Parallel,
+Wir fahren 18 mal.
+C?
+Kann ich auch noch schalten?
+Wie viele?
+Ich glaube zwei.
+Ich auch schon.
+Wo?
+Was da jetzt passiert ist, die Kraft geht durch diese Schraubenfeder hier durch, und
+Je höher die Feder, desto höher ist die Deformation, die wir jetzt messen.
+So werden Federn dann auch ausgelegt, dass man über den Außendurchmesser,
+den Durchmesser des Grates, die bestimmte Steifigkeit einstellt.
+Man muss beachten, dass die Festigkeit ausreichend ist, dass der Lastfall gerechnet wird.
+Und dann wird über die Anzahl der Federbedingungen, über den Durchmesser der Schraubenzugfeder
+und den Durchmesser des Kraters dann später die Zweifigkeit gemacht.
+Bei den Kräften haben wir das ohne Kehrwertberechnungskampf richtig herausgefunden, woran liegt das.
+Also wir haben C2 plus C3 gemacht, da kamen 16 Newtonmeter raus, dann haben wir 16 mal 6 gemacht
+und 16 plus 6 unten, dann kommen auch 4,36 los.
+Wissen Sie, ob das stimmt, vielleicht?
+Der Wert stimmt, ja.
+Also geht's auch anscheinend, oder?
+Die haben die ja agiert.
+Dann haben wir die mit dem Sedan in Reihe.
+Und es wird dann das rauskommen.
+Die Sonne von dem.
+Wie geht das normalerweise?
+Ja, so wie wir es da gerade gemacht haben.
+Wir machen 1 durch C Gesamt.
+Das ist eine Parallelschaltung von C2 und C3, das sind ein Sechstel plus ein Sechstel.
+Wenn wir jetzt hier in die nächste Aufgabe reingehen, dann sehen wir das nochmal.
+Zwei hintereinander.
+Feder 1, also ist nicht da irgendwie nur ein Federblock dazwischen.
+Feder 2, C1, C1.
+Parallel heißt das hier, da gehen immer die kräftigen Speidefedern hindurch.
+Die Deformation ist identisch, dann habe ich hier die 400 und hier habe ich 100.
+Das ist die Parallelschaltung, also höhere Steifigkeit wie eine reduzierte Steifigkeit.
+Dann sind wir schon bei D.
+Skizzieren Sie, die vier Federn zusammengeschaltet werden müssen, um 50 zu kriegen, vier hintereinander.
+Sechs Federn, um 300 zu kriegen, wie geht das?
+Was ist das für ein Nummer?
+Das steht im Titel.
+Warum sind es 2 oder 3?
+Das steht im Titel.
+300 oder?
+Ja.
+Wir sind noch nicht bei den 100.
+Nein, nein.
+Ja, das sind 600.
+Haben Sie es?
+Was muss ich denn jetzt machen, wenn ich so einen Block habe und will daraus 300 machen?
+Halbieren.
+Hä?
+Halbieren.
+Hättest du durchschneiden, oder was?
+Kann ich...
+beschreiben. Ja, das sind jetzt drei Parallelen, das sind 600.
+Wenn ich zweimal 600 hintereinander falsche, wird es halbiert.
+Dreimal parallel, zweimal hintereinander.
+Von 1 durch 600 plus 1 durch 600, von 2 durch 600,
+der Wert C, gesamt ist 600 durch 2 Newton pro Millimeter,
+Ich habe jetzt hier eine Parallelschweifung, ich kann einfach all die Tiefen abknüpfen,
+Das Gesamtsystem hat jetzt 1 durch 400 plus 1 durch 400 die Nachwichtigkeiten zu addieren.
+und jetzt hier werden die Kehrwerte durcheinander zeigen.
+Wir fangen mal an und wir müssen ja nur zeichnen, am besten auf dem Papier, weil das auch in
+der Prüfung gemacht wird.
+die das jetzt zum Papier bringen würden, mit einer entsprechenden Skalierung.
+Zum einen das ganze Auftragenanlage,
+zum anderen die zwei Drittel einer DIN-A4-Seite für das Diagramm.
+Skalierung f, ein Zentimeter, sprich 10 Newton,
+s, ein Zentimeter, sprich 1 Newtonmeter.
+Wir haben jetzt zwei unterschiedliche Konstruktionen.
+Hier sieht man, in diesem Fall geht die Kraft zunächst nur durch die Feder 1, die dann
+bei Erreichen der Höhe h1 zwei Federn eingreifen.
+Was wäre das in dem Fall, wenn zwei Federn eingreifen, also der Weg h1 gemacht wurde?
+Was passiert mit der Steifigkeit im Wegfall?
+Also, wir haben hier die Kraft, die wird immer größer bis der Punkt H1 erreicht ist und
+der Deckel hier, der hier, drückt dann auf die zweite Feder.
+Wie sind die beiden Federn gestaltet?
+Was ist das für eine Schaltung?
+Eine Parallelschaltung.
+Das heißt, die Steifigkeit ist dann C1 plus C2.
+Wenn H2 erreicht wird, was ist das für eine Steifigkeit?
+Dann kommt die dritte Feder noch dazu.
+Die Steifigkeiten sind angegeben. 10, 20, 30 Nuten pro Meter, sie sind Nuten pro Millimeter.
+Die Träte werden immer dicker, dadurch wird die Steifigkeit größer.
+Und Sie sollen jetzt das Kraft-Verformungsdiagramm bezeichnen.
+Zunächst einmal für das Linear.
+Ich möchte jetzt von innen...
+Das ist ja Zauber.
+Zauber, Zauber.
+Ja.
+Jetzt kommt die Wunde raus.
+Wunde raus?
+Ja.
+Ja.
+Bis jetzt ist alles wie älter.
+18, schnittweise begraben.
+Was dann nachher da kommt, ist nicht ganz so einfach.
+Ja.
+Ja.
+Ja.
+Rechnen und dann lasst die Grenze rechnen.
+Und für die zweite Bild.
+Sie sind schon weiter?
+Ja.
+Okay, das heißt im unteren Abschnitt haben Sie was für eine Steifigkeit?
+Wie ist der Punkt? Was ist das für eine Kraft?
+Zwölf Newton. Warum?
+Ne, das sind 20 Nuten, sollen das sein, richtig, und 2 mm, und das ist die Steifigkeit, das
+ist die Steife.
+Den Abschnitt kriegt man relativ einfach, oder?
+Was ist denn das jetzt? Das ist jetzt erstmal eine einzelne Feder, genau?
+Wenn Sie jetzt H1, mit welcher Kraft brauchen Sie, um die Feder, die 1 zusammenzudrücken,
+damit Sie H1 erreichen?
+10 Minuten haben, haben wir wieviele Verbrauchungen?
+F ist C mal S.
+Wenn wir das S ausrechnen wollen,
+wenn wir das S ausrechnen wollen,
+und das S zwei Minimeter sein soll,
+und C ist 20 oder 10,
+was brauchen Sie für eine Grafik, um die zwei Minimeter zu erreichen?
+C ist 10, C1 ist 20 Minuten, dann ist dieses H1 überprüft und jetzt müssen wir durch beide diese Federn parallel gestalten.
+Dann gibt es eine neue Steifigkeit.
+Haben Sie es?
+Ich habe eine Frage.
+Bei der Aufgabe oben, sind die Federn parallel oder sind die eine Reihe?
+Das sind 400, das ist diese Parallelschaltung von 2, 2 sind parallel und dann 3 Pakete hintereinander.
+Und deshalb werden die Kehrwerte addiert von den 1 durch 400, 1 durch 400, 1 durch 400.
+Das ist 3 durch 400, der Kehrwert ist 400 durch 3, da sind dann die 133.
+Also, malen wir das mal, wir haben den ersten Abschnitt gemacht, den zweiten auch schon.
+S ist ein Millimeter, das wäre ein Zwei, ich versuche das einigermaßen nachvollziehbar
+zu machen.
+Dann hätte ich hier, mit Erreichen der zwei Millimeter, das ist ja mein H1, Kraftbedarf
+von 20 Newton.
+Richtig?
+Was kommt jetzt? Für mich noch nicht für das erste Bild, ich noch überlegen.
+Das hier wird ein bisschen schwieriger, das müssen wir reden.
+Aber was kommt jetzt für Zweiter?
+Ja, jetzt haben wir eine neue Steifigkeit.
+Wie sieht die jetzt aus?
+Warum anfangen 20 Stunden nicht zu ziehen?
+Warum anfangen bis 2 Millimeter?
+Die Steifigkeit ist die Steigung, die ist hier, das ist C1, C1 ist 10 Nm pro mm, ja.
+Die muss ich 2 mm dehnen, dann habe ich 20 Nm.
+Jetzt greift die zweite Feder ein, wie ist die Federsteifigkeit?
+ab. Größer H1, kleiner H2. Das ist jetzt C für diesen Abschnitt. Die Gesamt für diesen Abschnitt
+ist C1 plus C2. Die sind jetzt parallel geschaltet. C1,2 ist dann 10 plus 20. C1,2 sind 30 Newton
+Das kann ich antragen als Steigung, der Abschnitt geht bis 4 mm, ich kann es aber auch rechnen,
+wie groß muss die Kraft sein, F, damit ich hier mit dem C1-2 im Abschnitt jetzt bis auf
+Wenn ich in 4 mm komme, in 2 mm muss das zusätzlich zusammengedrängt werden, das brauche ich da.
+60.
+Gesamtkraft ist dann wie viel?
+80.
+Dann macht F1,2 statt, das ist 10 mal S, das ist 30 Newton pro Millimeter mal 2 Millimeter,
+Wenn ich das HH4 brauche, dann ist F1,2 60 Newton auf diese 2 mm.
+Ich versuche das mal.
+80.
+Dann kommen wir bei 80 Newton raus.
+Das wäre der Punkt hier.
+Und damit ist das jetzt hier die dreifache Steigung.
+Das ist C1-2.
+Und immer im Abschnitt betrachten und additiv miteinander verknüpfen.
+Was ist die letzte Steigung?
+C, 1, 2, 3, wenn alle eingreifen.
+Dann haben wir nicht mehr 30.
+Dann haben wir 60 Newton pro Millimeter.
+Fragen.
+Noch was anderes?
+Ja.
+Ja.
+Ich habe noch drei
+Körner, die hier auf der Seite sind.
+Ich habe auch nicht genug.
+Ihr zwei, drei, zwei bitte.
+200 Euro.
+Egal.
+1 rüber.
+1
+2
+3
+4
+5
+Prost.
+Ok, relativ einfach, Parallel-Schaltung, zunehmend Federweg, halten die Fingern ein,
+Geht das da weiter?
+C 60 Newton pro Millimeter.
+Und nach rechts 1, oder?
+Naja, also Steigung ist da hier bei den 10.
+2 rüber, 20 hoch.
+Dann haben wir Steigung C 1, 2.
+Das sind die 30 Nuten pro Millimeter und dann rechts die 60.
+Da können Sie quasi abwägen, was bei einer bestimmten Kraft für den Federweg haben wird.
+Das hier ist eine progressive Kennung.
+Machen wir eine Pause, eine Viertelstunde, reicht das?
+Und machen dann mit der Aufgabe weiter.
+Je komplizierter, desto mehr.
+Wie das System funktioniert, wenn man das so analysiert.
+Die Kraft, die wir jetzt hier haben, die geht durch alle drei Federn hindurch.
+Wenn man das formal richtig betrachtet, folgt der Hinweis.
+Ich habe drei hintereinander gestaltete Federn, die bis zu einem gewissen Grade und Punkt
+Zunächst einmal geht die Kraft durch die Feder 1, sie geht dann über den Topf durch die Feder 2 und diesen Topf durch die Feder 3.
+Ich bin auf dem direkten Weg, d.h. ich habe hier am Anfang eine Hintereinanderschaltung.
+Die Gesamtsteifigkeit bis zu dem Punkt, wo dieser Deckel hier aufliegt, ist gegeben.
+Und dann sind nur noch zwei Federn, sozusagen.
+Achtung!
+Einfach eine Modellrechnung haben wir vorhin gemacht.
+Hintereinander Schaltung von Federn.
+Wenn ich 3 habe, ist die Steifigkeit zum Beispiel 100 Newton pro Millimeter, 1, 2, 3 mal, 3 mal, 1 durch 100.
+Bei dreigeschalteten Federn wäre die Steifigkeit zum Beispiel 33 Newton pro Millimeter,
+Komma 3, ja, fertig, oder?
+Wenn ich zwei habe, das heißt, eine rausnehme, macht die Steifigkeit was?
+Sie geht hoch, 50 Newton pro Millimeter.
+Und wenn ich am Schluss nur noch eine habe und der Topf und der Deckel drauf ist,
+Auf dem Zweiten hätte ich dann da unten ein 100, dann habe ich wieder 100.
+Was heißt das? Von der Kurvenform, prinzipiell,
+oder von der Geraden, die ist genauso wie bei der anderen auch,
+das ist eine progressive Kurve.
+Das ist eine progressive Kurve.
+Normalerweise erwartet man bei Hintereinander-Schaltung,
+wenn ich mehr mache, eine Dekreation.
+Hier ist es so, ich nehme da oben irgendwann die Fehler raus
+und habe eine andere Gesamtscheitigkeit.
+Und das wollen wir uns jetzt mal ein bisschen anschauen
+und, ich sage jetzt mal, durchrechnen.
+Also vom Prinzip wissen Sie jetzt, was Sie erwartet.
+Die Frage ist jetzt die, wann wird dieser Punkt erreicht,
+wenn H1 erreicht ist, weil dann kommt eine Veränderung, H1, Fragezeichen.
+H1, wissen wir, ist 2 mm.
+Wie wird aber die Gesamtdeformation sein, wenn Sie oben mit einer Kraft drücken?
+Was heißt das für die Gesamtdeformation?
+Die Feder drückt sich zusammen, die drückt sich zusammen und die drückt sich zusammen.
+Und jede macht einen einzelnen Weg bei dieser durchstehenden Kraft.
+Die Frage ist jetzt, bei welcher Kraft, F, wird dieses K1 erreicht?
+Und wie groß ist dann die Gesamtdeformation in diesem Bereich?
+Also, ich mach's mal hier hin, Bereich 1, bis 20 mm, bis S1, gleich H1, gleich 20 mm.
+Für diesen Bereich gilt, dass dieses F, dieses S1, wird dann erreicht, wenn S1 gleich H1 ist.
+ist. Und das gilt wann. Wann haben wir das erreicht. Bei welcher Kraft. Welche Kraft
+ist erforderlich, um diese Feder in zwei Millimeter zusammenzudrücken.
+20 Newton pro Millimeter genau und das haben wir jetzt im Prinzip F ist gleich C mal S1
+S1 oder H1 ist gleich, da haben wir da oben eine Federstreifigkeit von 10 Newton pro
+Millimeter mal zwei Millimeter, hat er richtig gesagt, sind 20 Newton.
+Super. Was heißt das für die Gesamtdeformation?
+Diese 20 Newton geht durch Feder 1, durch Feder 2 und Feder 3.
+Was ist mit den Federwegen?
+S, gesamt, für diesen Bereich 1 ist gleich der Feder 1, 20 mm, plus S2, plus S3.
+Kraft geht durch alle durch, ist gleich F durch C1 plus F durch C2 plus F durch C3.
+D.h. es ist gleich für diesen Bereich, kann ich jetzt ausrechnen, die 20 Minuten durch
+10 Newton pro Millimeter plus wiederum 20 Newton durch 20 Newton pro Millimeter plus 20 Newton durch 30 Newton pro Millimeter sind gleich 2 Millimeter.
+Plus ein Millimeter, also 3,67 Millimeter, gleich 3,67 Millimeter.
+Also S-Gesamt gleich 3,6 Millimeter.
+Alle Kräfte gehen durch drei Federn hindurch.
+Die Federwege sind additiv miteinander verknüpft
+Damit haben wir den ersten Punkt erreicht, wo die Feder abtaucht.
+10, 20, 7, 1, 2, 3, 4 mm, 3,67, Steifigkeit 4.
+Durch diese Feder geht jetzt keine Kraft mehr durch, weil die hier oben aufliegt, die ist
+rausgenommen.
+Wer kann mir sagen, wie man die Steiligkeit berechnet, das Ding gesammelt?
+Für diesen Bereich 1 ist 20 mm für S1.
+Das kommt raus.
+Haben Sie mal welche?
+Korrekt.
+Oh, nicht ganz.
+Nicht ganz.
+Nicht ganz.
+Was haben wir da?
+Zwei.
+Sechzig.
+Was kommt da raus, Steifigkeit, in diese Parallelschaltung?
+Das müsste die Steigerung hier sein, die nachlässigen Wortmeldungen, ja, okay.
+Wo war der Fehler? Haben Sie gefunden?
+Die K60 durch 11, das stimmt.
+Aber wie komme ich jetzt hier auf 12?
+Ach, die Nächste, sorry!
+Da war ich schon weiter, Entschuldigung.
+Sehr gut.
+Zweiter Schmack als Steigungsabschnitt.
+Im Prinzip kann man das jetzt auch ausrechnen.
+Der Testsgesamt ist gleich diese 20 Minuten durch T gesamt, da wäre man auch hingekommen,
+20 Minuten durch 5,45 Minuten pro Millimeter, da sind wir bei 3,67 Millimeter.
+Es gibt verschiedene Wege, die uns dahin führen, wo wir hinwollen.
+Jetzt für Bereich 2, C1 liegt auf, Mock, C1 liegt auf, Mock, C1 liegt auf, Mock, C1 liegt
+F gleich Null.
+Keine weitere Information.
+A2 ist gleich S2 ist gleich 4 mm, dort endet dieser Bereich.
+Die Verformung im Bereich 1 war wie groß?
+Tür, Feder, zwei.
+Das geht durch alle Beiden durch.
+Die Groß war die Verformung im Bereich von Feder 2.
+Nach 20 Minuten verknüpfe ich die Feder 2 um 1 mm zusammen.
+Wir suchen jetzt sozusagen die S10 Millimeter. Davon ist ein Millimeter jetzt schon weg in dem Bereich.
+Wir haben jetzt hier gerechnet, 1 durch C2 plus 1 durch C3 ist gleich 1 durch 2.
+ist gleich 1 durch 20 plus 1 durch 30 Millimeter pro Minuten plus 5 durch 60 Millimeter pro Minuten.
+Das heißt, C2-3 in die Bereihe 2 ist 0,5 Nm pro Millimeter.
+Kein weiterer Deformation.
+Schade jetzt.
+Dann kommen wir jetzt zu dem nächsten Punkt.
+Wann gibt diese Feder auf?
+Wann hat diese Feder, diese zwei Millimeter zusätzlich gemacht?
+Dann nehm ich ja grau.
+Das ist auch der Kraft-Panel C1?
+C1 ist das Deckel-Panel.
+Da liegt das Deckel oben drauf.
+Da geht keine Kraft mehr durch.
+Die geht jetzt durch das Gehäuse.
+Jetzt sind nur noch zwei Federn da.
+Diese zwei Federn haben durch die Wiedereinanderscheißung
+diese Steifigkeit von 12 Newtonen pro Millimeter.
+Die Frage ist jetzt, welche Kraft ist zusätzlich erforderlich,
+Das Ding ist schon ein Millimeter zusammengezogen.
+Das heißt, da fehlt noch ein Millimeter.
+24, oder?
+Genau.
+Es fehlt noch ein Millimeter.
+Es fehlt noch ein Millimeter.
+um Fehler 2 aufwiegend zu lassen.
+Ich habe noch mal eine Frage.
+Bei der 1 durch C gesamt, oder 2C durch 2C,
+wie sind Sie dann am Ende auf die 65 gekommen?
+Wenn ich das jetzt auf 60 umnehme,
+Ach so, Sie haben, ja.
+2 sechzigsten, 2 sechzigsten.
+Ah, Sie haben gleich mit.
+Ja?
+Okay.
+Von Gedanken her,
+zwei Millimeter zusammengedrückt,
+ein Millimeter zusammengedrückt,
+9,67 Millimeter sind 3,67.
+Bis das jetzt auf Glock ist, müssen wir die Feder betrachten, die dort erforderlich ist,
+das ist dieses C2.
+Und damit ergibt sich die zusätzliche Kraft
+um Feder 2,1 mm zusammen zu zeugen.
+Und wie groß ist denn die?
+Wie groß ist die?
+Ist doppelt wie groß.
+Bitte?
+Wie groß?
+Zusätzliche Kraft für F2 ist C2 mal S2, wenn da ein Millimeter steht.
+Federkonstante ist was? 20, oder?
+Der Konzepte S2, haben wir gesagt, ist ein Millimeter, C2 ist 20 Newton pro Millimeter,
+Das heißt, zusätzlich ist gleich 20 Minuten pro Millimeter plus ein Millimeter.
+Das heißt, es gibt eine Kraft, die erfreulich ist von 20 Newton.
+Wie haben Sie die Deformation ausgerechnet für diesen Bereich?
+Wo sind die Begrenzungen?
+Ja, der Punkt da oben. Wie haben Sie den ausgerechnet?
+Wir haben ja die 20, die 40 Newton und dazu gehört eine Deformation.
+Wissen Sie, der hat ja auch hier unten einen Abschnitt.
+Ja, der muss ja passen.
+Ich kann berechnen.
+Ja, machen Sie mal.
+Es fehlt noch ein Millimeter, um Feder 2 aufliegen zu lassen.
+Das heißt, wir haben dann jetzt immer diese abschnittsweise Betrachtung, 20 Newton zusätzlich.
+Das heißt, wir sind dann hier oben bei 20, 30, 40 Newton.
+Ich brauche jetzt noch den Gesamtreformationsweg.
+Und zwar ausgehend von dem Punkt hier.
+Wie verformt sich jetzt dieses Konstrukt, dieses C1-2-Gesamt, die beiden parallel geschalteten Federn des S-Gesamt,
+Das Gesamt, was ich hier habe, immer additiv miteinander verknüpft, ist das F-Gesamt.
+Und diese zusätzliche Kraft, die ich habe, durch das C-Gesamt in diesem Abschnitt,
+sind die 20 Nm durch die Steifigkeit 12 Nm bis gleich noch mal 1,67 mm.
+Dabei macht die Feder 1 noch mal 1 mm
+und die Feder 2, die bei den ersten auch schon 0,67 mm hat mit ihrer Steifigkeit.
+D.h. die hat sich dann um 2 mm zusammengedrückt, die um 0,67 x 2 und von oben die ist rausgesammelt.
+Ähm, Gesamtweg...
+Ich schreibe das hier mal um.
+Zusätzlich...
+Zusätzlich...
+Und das hier ist C...
+Ich schreibe es jetzt mal so zusammen.
+Der zusätzliche Weg ist gleich F zusätzlich,
+die Kraft mit 20 Newton durch S, C, 2, 3,
+die Kraft mit 20 Newton durch 12 Newton Kilometer
+1,67 Millimeter.
+Wir gehen auf die
+letzten Zahlen bis zu dem Punkt, das waren die 3,67 Millimeter
+plus 1,67 Millimeter
+Der Gesamtkraft reicht 40 Nm.
+Bei 40 Nm macht oben die Feder 2 mm.
+Die macht 2 mm, dann liegt sie auf und dann müssen wir noch die Feder 3 hochschrauben.
+Ich habe eine Frage. Bei F zusätzlich haben Sie 20 Nm pro mm plus 1 mm gemacht.
+Das ist 20 Nm, also oben.
+Ja genau. Das müsste ja mal sein, damit sich das auflöst.
+Oder?
+Wir sind jetzt bei 40 Nm, die macht 1,35 mm, die macht 2 mm und oben die macht auch 2 mm.
+und das ergibt dann in der Summe diese 5,34 Milliliter.
+Kann ich jetzt hier reinmalen?
+3,674,5, 6 Millimeter, 40 Newton, 3,5,3,4,
+das ist ungefähr hier.
+Ja, das ist die Periode, ich habe da 3,4 draus gemacht.
+Also Feder von oben, 20 Nm, liegt auf, die ist zusammengedrückt mit den Zehen, bei 20 Nm macht die C2 1 mm, C3 0,67, liegt der Deckel hier drauf, wird weitergedrückt,
+mit der Kraft, die zunehmend ist. Ich brauche nochmal 20 Newton, um die in der Gesamtplatte
+aufliegen zu lassen, um diese Differenz hier zu überdrücken und das ist dann der Fall
+jetzt hier bei 40 Newton und einem Weg von 5,34 Millimeter, 40 Newton.
+Und dann? Was ist dann los?
+Was haben wir am Schluss für eine Steifigkeit?
+Ab dem Punkt?
+6
+Dann kommen die dazu.
+Da wäre die Steifigkeit geringer. Jetzt haben wir ja 12.
+Hier war 10.
+5,43, jetzt wenn zwei Federn einkalken, c ist 12, was kommt dann?
+Muss man die multiplizieren?
+Die Hintereinander-Schaltung.
+Wir haben gesagt, wenn wir die Hintereinander-Schaltung machen, nochmal, ich habe drei Federn hintereinander geschaltet.
+Wenn einer rausgenommen wird, aufgrund der Geometrie, die wir jetzt haben.
+Ich habe drei Federn hintereinander. Jeder hat 100.
+100, 100.
+Hätte ich das auch mit 10 machen können. Egal.
+Dann weise ich die 1 durch 10 zusammen.
+Das Gesamt ist dieses Hundertstel, dieses Hundertstel, dieses Hundertstel.
+Und wenn wir bei einer Hintereinanderschaltung sich das jetzt betrachten,
+dann haben wir 2 durch 200, 200 durch 3, das Gesamt ist 33 Newton pro Millimeter.
+Nehme ich eine raus.
+Siehe gesammt, eine rausgenommen, ist wie groß.
+Ich nehme zwei raus, bleib bei 100, Steifigkeit nimmt zu, Steilung der Kurve nimmt zu, beziehungsweise der Kran.
+So, wie groß ist meine Federkonstante am Schluss, was ist noch da, C3, 30, ist der
+Bereich 3, für H2 größer 4 mm, gleich 30 Newton pro Millimeter, die Steigung dramatisch nach oben.
+Wenn ich jetzt sage 50, 60, 70, sind 30, dann geht das hier so.
+Ein Millimeter, 5,34, 6,34 und dann geht es 30 und 10, parallel, und dann geht es 30
+die Steifigkeit nach oben. Warum? Kraft geht durch alle Felder hindurch und verformt jede
+Feder. Heißt das, wenn eine Feder länger wird, mehr Windungen hat, passiert was mit
+der Steifigkeit?
+Wenn Sie jetzt so wie hier, da oben im Bett,
+Sie haben jetzt so eine Feder.
+Sie haben eine bestimmte Länge.
+Sie haben mehr Federbewindungen.
+Was passiert mit der Steifigkeit?
+Wenn Sie mehr Fehler gewinnen, wenn Sie beim Abstand die Länge kürzer machen, was passiert mit der Steifigkeit?
+Wenn Sie bei der Drehstabfeder die Länge größer machen, was passiert mit der Steifigkeit?
+Die Feder länger machen und die Steifigkeit ab.
+Wenn Sie mehr fliegernde Windungen haben und die Kraft geht durch jede Windung hindurch,
+durchführen. Jede Windung zu einer zusätzlichen Deformation.
+Steifigkeit nimmt ab mit der Anzahl der fehlenden Windungen, also
+einer Schraubenfeder.
+Stellen Steifigkeit der Feder ein über die Anzahl fehlenden Windungen.
+Das ist genau das, was wir hier machen.
+Irgendwann nehmen wir die raus.
+Das wäre jetzt die Anzahl der fehlenden Windungen, die entsprechend länger ist.
+Sie haben alle die gleiche Steifigkeit, wenn die Feder kürzer wird, weniger Windungen, Steifigkeit geht nach oben.
+Bei einer parallelen Schaketeinanderschaltung radieren sich die Verformungswege und die
+Steifigkeit wird mit zunehmender Anzahl an Bindungen reduziert.
+So etwas habe ich bei einer Übung oder bei einer Prüfung abgefragt.
+nachgefragt.
+Warum kommt das S2 für einen in die 2?
+Nochmal?
+Diese S2 geht in die 2?
+Ja, wenn wir S2 versuchen, ist es C2 mal.
+Das ja.
+Warum wir S2 sagen.
+Naja, vielleicht nochmal zum Verständnis.
+Die Kraft geht durch alle durch.
+Wenn ich 20 Nuten habe, liegt der hier auf.
+Und die zusätzliche Kraft, um das hier um 2 mm zu deformieren, ist wie groß.
+Also die liegt irgendwann auf, unabhängig davon.
+Wenn ich diese Feder um zwei Millimeter zusammendrücke insgesamt,
+welche Kraft brauche ich?
+Ich brauche die Kraft.
+Ich habe das jetzt hier zusätzlich ausgerechnet.
+Die ist ja schon ein Millimeter zusammengedrückt.
+Um zusätzlich ein Millimeter zu machen,
+bei einer Federkonstante von 20,
+brauche ich zusätzliche Kraft von 20 Millimetern.
+Um die Feder um zwei Millimeter insgesamt zusammen zu drücken,
+Dann brauche ich 40 Newton und das ist der Punkt hier oben.
+Hier verschwindet die Feder 1, hier verschwindet die Feder 2 und dann ist die Streifigkeit
+Und diese Feder 2, das hier, das sind 2 mm, das sind 2 mm, das sind 2 mm, richtig?
+Um die Feder 2, 2 mm zusammenzudrücken, brauchen Sie welche Kraft?
+Das kann man auch auf das Gesamtbild machen.
+Welche Kraft ist erforderlich?
+Und Feder 2, 2 Millimeter zu drücken.
+Welche Kraft ist das?
+Wie können Sie die berechnen?
+Antwort, in dem Sie sagen, betrachte nur diese Feder, F2 ist gleich C2 mal S2.
+Kann ich gesamt machen, ja.
+Jetzt können wir das ausrechnen, um die 2 mm zu drücken,
+ist S gleich C durch F.
+Um die zwei Millimeter zusammenzudrücken, ist die Kraft erforderlich.
+Jetzt kann ich an dem Punkt ausrechnen, bei 40 Nm macht oben die Feder 2mm, dann ist Schluss,
+Die macht 2 mm, das sind 4 mm und die macht 1,34 mm.
+Wir können die Kraft wirklich genau auf die eine Feder beziehen.
+Solange der Topf nicht drauf ist.
+Das heißt, ich muss einfach nur jeden einzelnen Fehler angucken.
+mit der Kraft, wie viel Kraft bräuchte ich, um 2 mm zu bewegen,
+und dann rechne ich heraus, wie viel die untere gemacht hat.
+Die untere gemacht hat, und die obere maximal 2.
+Das heißt, ich kann wirklich, wenn ich da mit einem Stück Kraft drauf drücke,
+sagen, die Feder bewegt eben so und so viel.
+Genau.
+Die Wege aktieren sich, solange die Kraft durch alle durchgeht.
+Hier ist der Deckel drauf bei 2 mm,
+dann ist dieser Punkt 20 Minuten erreicht, die ist, da ist der Deckel drauf, bei 40 Minuten.
+Dann müssen Sie die Gesamtdeckung mal zurechnen.
+2, 2, 1, 3, 4. 40 Minuten durch 30, Federkonstante 1,3.
+Ja? Eine schöne Aufgabe.
+Man denkt jetzt Parallelschaltung, aber wenn man aus der Parallelschaltung
+Die Steigerung wird größer und wir haben das jetzt mal nach ein paar Kriterien verrechnet.
+Die Hände schütteln....
+O.K....
+Okay, dann machen wir so etwas wie eine Vorlesung.
+Ich bin nächste Woche nicht da.
+Die Frage ist, ich würde Ihnen ein paar Aufgaben geben wollen.
+Wir machen jetzt eine Vorlesung.
+Ich würde Ihnen ein paar Aufgaben geben wollen.
+Die können Sie zu Hause mal probieren.
+nachrechnen und uns die Lösungen anschauen. Es geht jetzt darum, dass wir uns die Schraubenfedern anschauen und überrechnen.
+Da haben wir jetzt schon gesehen, wenn die Feder länger wird, gleiche Konstante, sozusagen hier 1, 2, 3 Federn gleicher Länge hintereinander,
+dann wird die Steiglichkeit geringer. Das macht man bei Schraubenfedern so.
+Da wird dimensioniert über den Durchmesser der Windung und über den Durchmesser des Drahtes.
+Wenn die zu eng gewunden ist, werden die Kräfte zu groß und dann muss man dimensionieren.
+Man dimensioniert zunächst die maximale Spannung, macht daraus einen Durchmesser für den Draht
+und über die Länge der Anzahl der Federbewindungen kann man die Steifigkeit eignen.
+Je mehr Federbewindungen, desto mehr performt der Weg die Steifigkeit.
+Das würden wir uns jetzt mal als nächstes anschauen.
+Da würde ich Ihnen ein paar Aufgaben geben.
+Da haben Sie vielleicht mal ein, zwei Stunden so ein bisschen was zu tun.
+Wir müssen sich da echt hinsetzen, nehmen den Rechner in die Hand, wir müssen jetzt
+mit den Einheiten aufpassen, dann kommen wir hier irgendwann in einen Konflikt.
+Da muss man jetzt wirklich aufpassen.
+Und in dem Kontext haben wir jetzt hier so noch ein paar Formeln, die ich Ihnen dann
+mitgebe und dann versuchen Sie mal, das ganze System anzuwenden.
+Wenn ich jetzt hier die Federmaske habe, die um einigen Stunden lebt, mit ihrem Reibungsarm aufgelegt und ausgelenkt wird, dann wird sich hier die Schwingung anstellen.
+Ich habe sozusagen eine freie Schwingung, die dazu führt, dass hier so eine Auslenkung
+stattfindet.
+Die wird dann in Schwingung abgebunden.
+Dann gibt es hier eine Auslenkung in den Weg S.
+Und dann gibt es eine Klingung, die hat eine entsprechende Frequenz.
+Und was wir jetzt hier machen können, wir können die kinetische Energie gleich der potenziellen setzen.
+Die kinetische Energie, wie das System sagt, ist ein Halbsquadrat.
+Und die potenzielle Energie, die jetzt in der Feder steckt, ist die 10 mal S-Quadrathalbe.
+Wenn die Feder gespannt ist, dann eine maximale potenzielle Energie, lasse ich das Ding los,
+wird gewandelt, kinetische Energie, die potenzielle Energie, wenn die Feder gespannt oder gedrückt
+ist, um diese Nulllage herum von S, dann gibt es diese Schwingung und ich kann jetzt formulieren,
+Das ist die maximale Geschwindigkeit, quasi im Zentrum der Bewegung, wo die maximale potenzielle
+Energie der Feder entspannt ist.
+Geht hier um die Nullagerung, wenn die Feder schon wieder zusammengedrückt sind, geht
+die Geschwindigkeit ab und dann habe ich hier sozusagen eine Schwingung.
+Wenn man eine Schwingung machen will, muss die Schreibung reduzieren.
+V2max² durch s² ist gleich c durch m.
+Das Vmax zu S, das ist die unische Wurzelziele, wird daraus Wurzel C durch M.
+Dieses Wurzel C durch M haben Sie vielleicht schon mal gehört, ist Omega 0, das ist die
+Die Eigenfrequenz hängt jetzt davon ab, wo ist die Federscheidung falsch, im Verhältnis zur Masse.
+Haben die das?
+Die müssen das jetzt entscheiden.
+Das ist sozusagen die unbekämpfte Freie Stellung und jedes System, was aus einer Umlage ausgelagert
+wird, hat eine Eigenfrequenz, die Wurzel C durch M ist.
+Wurzel C durch M. Das heißt, ich kann diese Eigenfrequenz, die Höhe der Tonlage, verändern,
+indem ich Masse erhöhe.
+So kann man dann auch Schwimmungen dämpfen, indem man im Prinzip Masse erhöht.
+Für einen Drehschwinger ist V die Auslenkung Punkt mal R die Winkelgeschwindigkeit.
+Ich habe jetzt hier so einen Stab, habe hier die Massen angebracht und der Abstand R.
+Die rotatorische Energie, die nun in der Klimaeffektion steckt, ist Cp halber mal Pi grad A.
+Und die Nebenstelle, die ist ein Teil der V-Maxis.
+Und noch hier steht in der Rüpfe die Gleichlichkeit meiner Konstruktionen und die stehende Masse.
+Die Kreisfrequenz ist Omega.
+Omega, das weiß ich, ist p mal n durch 30.
+Das kommt daraus, Omega ist 2P durch T, T ist die Flavionendauer,
+...und...
+...einer...
+...vier...
+...fünf...
+...zwei...
+...drei...
+Okay, ich will jetzt gleich ein Foto machen und das Foto-Clip hier.
+Sind Sie nur am Donnerstag oder am Freitag?
+Freitag und Dienstag.
+Ich schicke noch mal eine Info über den Immun-Kurs.
+Das ist jetzt treibungsfrei.
+Hier gibt es eine freie, ungedämpfte Schwingung,
+die eine Eigenfrequenz besitzt und nur von der Steifigkeit der Konstruktion und der Masse abhängt.
+Wir können jetzt diese Eigenfrequenz erhöhen, wenn wir die Masse erhüten.
+Die Steifigkeit erhöhen. Steifigkeit erhöhen heißt z.B.
+wenn wir eine freie Fläche haben, über zwei Festpunkte hinweg,
+dann wird diese Eigenfrequenz bei einer anderen Funktion liegen,
+als wenn sie sehr enge Abstände haben und Festpunkte haben und die Fläche nicht schwingen kann.
+Das werden sie nicht machen.
+Das machen wir dann quasi in der Schwingungstechnik.
+Da ist das quasi eine Rolle.
+Achtung, Reibung.
+Was macht man mit Reibung?
+Mit Reibung kann man die Schwingung dämpfen.
+Eine Aufhängung eines Rades.
+Da sind Sie immer mit einer Feder dabei.
+Die Feder wird zusammengedrückt, eine Schraubenfeder.
+Und sie dämpfen die Schwingung, können wir jetzt abschottetragen hier und dann erdämpfen diese.
+Wir können Foto machen.
+Sind Sie in der Lage, über Reibung solche Schwingungen zu dämpfen?
+Ich weiß nicht, ob jemand mal auf der Autobahn ein Fahrzeug gesehen hat,
+wo der Radkasten und das Rad so macht und nicht mehr aufhört.
+Da wird die Dämpfer kaputt.
+Da wird die Schwingung nicht gedämpft.
+Dann macht sie im Prinzip vorne die Radaufhängung, genau das, was wir hier sehen.
+Die Amplitude wird nicht kleiner, da wird nur ganz langsam gedämpft.
+Was hier jetzt das Ziel ist, ist Überweigung von einer Wegverschiebung zum System in Flüchtern zu bringen.
+Feder kann die schlagende Energie aufnehmen.
+Hier liegt eine Masse, die auf dieser Reibfläche drückt, wo Mühe, eine Haftung ist.
+Um diese Haftung zu überwinden, müssen Sie die Reibkraft überwinden, die erforderlich ist.
+Das heißt, die müssen Sie erst einmal bringen, aus dem Stillstand heraus ist diese Kraft erforderlich.
+Und wenn Sie jetzt weiter nach rechts das ganze System bewegen, wird eine zusätzliche Kraft erforderlich.
+Die Steilheit dieser Funktion hängt davon ab, wie steil Ihre Feder ist.
+Ist sie steifer, ist sie steiler, ansonsten ist sie flacher.
+Sie bringen das System irgendwann bei c zum Erniegen.
+Jetzt geht diese Leitkraft wieder zurück zu dem Punkt,
+Wenn wir das System nach rechts bewegen wollen, müssen wir die Reitkraft nach unten aufbringen
+und bewegen das System nach unten.
+Wenn wir an der Position irgendwann ankommen, wird sich nichts weiter bewegen.
+Sie brauchen zusätzliche Energie, um das System wieder in den Ursprungszustand zurück zu bewegen.
+Aus der Nulllage kommen Sie wieder zurück, in dem Moment, wo diese zusätzliche Reitkraft wieder übernimmt.
+Das heißt, sie stecken die in dieser vorhandenen Fläche in ihre Systembewegung hinein und sie bringen das da unten,
+das bringen sie nur raus.
+Was passiert mit dem Rest?
+Man nennt das Ganze auch da oben die Hysterese.
+Wer erinnert sich an den Begriff, wenn er ehrlich ist?
+Eigentlich kennt man es aus der Elektrotechnik, hier wird es genutzt, um Schwingungen zu finden.
+Die innere Weibung führt zu was?
+Zur Entfernung des Werkstoffes.
+Diese Energie, die bleibt im System stecken, sozusagen.
+Gummiwerkstoff belastet, entlastet. Fläche zwischen der Belastungs- und Entlastungskurve
+ist Reibung, innere Reibung. Und das wird genutzt, um Schwingungen zu dämpfen. Beim
+Gummiwerkstoff machen wir das aus der Eigenschaft des Gummis heraus. Hier machen wir es über
+Und damit können Sie über Federn Kräfte aufnehmen und über Dämpfer das Ganze über Weibung, die Schwingung dämpfen.
+Sehr wichtig im Maschinenbau, hier wird es über die Bewegung von Öl gemacht in so einem Dämpfer.
+Ich habe es im Büro geteilt.
+Sie können ganz unterschiedliche Kraft- und Bremswegcharakteristika haben.
+A schlägt sofort an, ist sehr steif.
+Wir hatten das jetzt auch gesehen bei der Blattfeder, die durchgebogen wird.
+Da hat die Kunststofffeder eine andere Dämpfung als das Metall.
+Bei dem Metall reiben zum Beispiel Metallflächen aufeinander, um diese Schwingung zu dämpfen.
+Das kann ich über Elektronik machen, ich kann das über den Luftdruck machen.
+Also Reiben sind im Abbau von Schwingungen.
+Wir haben hier diese Ringfeder andeutungsweise gesehen, das ist das, was bei der Eisenbahn bei den Koppel-Elementen passiert.
+Dort sind Ringe, die ineinander gesteckt sind.
+Wenn eine Kraft kommt in diese Richtung, reiben sich die Oberflächen aufeinander und verpflichten die Stoßenergie.
+Das ist das Ziel.
+Hier gibt es unterschiedliche Systeme.
+Biegelfedern, B- oder Spiralfedern, Schenkelfedern.
+Hier gibt es Tellerfeder, cylindrische Schaumfeder.
+Die werden wir noch im Berechnungsband anschauen.
+Wir haben hier verschiedenste Systeme.
+Drehstabfeder wird sehr viel im Automobil genutzt.
+Hier haben wir so einen Schraubenfeder.
+Da ist die letzte Bindung flach geschliffen.
+Hier oben auch. Das ist typischerweise das, was man in der Aufhängung beim Automobil hat.
+Die Feder wird auch so veransprucht, wenn jetzt ein Schlag kommt, wird diese potenzielle Energie in die Feder eingebracht und vom Dämpfer dann umgesetzt in Reibungswärme.
+Der vernichtet sozusagen die vorhandene Energie und setzt in Wärme um, nennt man auch die Situation.
+Können können wir diese diese viele Fotografien
+Nehmen die Lösung Ja,
+das Mal Kendra Tat entragen
+Und auch weiter danach.
+Nicht?
+Ich?
+Nein.
+Das hier?
+Ja.
+Du bist gut.
+Danke.
+Das Bild haben Sie nicht. Können Sie gerne auch fotografieren.
+Das Bild ist drin. Das hier, der Graf.
+Die Tellerfedern sind gewogen, zum Beispiel hier so Hübschstofftellerfeder, das ist hier
+so sämtlich.
+Das ist eine einzelne Tellerfeder, wenn Sie die beanspruchen, haben Sie eine bestimmte
+Steifigkeit.
+Hier ist das F über S, das ist die Biegung, die jetzt hier ausgebiegen wird.
+Und bis maximal S können Sie die deformieren und dann biegt die aus.
+Wenn ich jetzt in dem Fall drei, diese zwei Federn übereinander lege,
+muss ich die Reibung überwinden zwischen den Kontaktflächen.
+Deshalb ist diese Kraft, die hier eingebracht wird, etwas größer als die reine 1.
+Das ist diese Reibung, die ich aufbringen muss.
+Und wenn ich die Feder wieder entlaste, muss ich diese Reibung nochmals überwachen.
+Und dann läuft die auf dieser Kragen zurück.
+Das ist doppelte Steifigkeit, aber zusätzlich Reibung drinnen.
+Jetzt kann ich mehrere solcher Federn parallel und hintereinander schalten.
+Das ist genau das, was wir jetzt hier machen an der Stelle.
+Wir sind zwei parallel geschaltet und dann 1, 2, 3, 4 hintereinander.
+Und das gibt ebenfalls eine charakteristische Verformungskurve.
+Position 4, 1, 2, 3, 4 Pakete, die parallel geschaltet sind, die relativ wenig Reibung brauchen per se.
+Per se in der Gesamtschreitigkeit dann eine Reduktion zur Folge.
+Wir haben ursprünglich die Analogie zu 4.3 gelaufen, werden aber dann
+durch die Hintergangs- oder Hintergangs-Schaltung.
+So können Sie eine Federkennlinie durch den Aufbau mit solchen
+Tellerfedern erreichen, mit einem maximalen Verformungsweg, um das Durchschlagen zu vermeiden.
+In solchen Paketen sollten wir eine maximale Deformation von 0,75 mal S,
+das ist eine Gesamtdeformation, zulassen.
+Sie schlägt durch und dann fliegt sie rum und liegt auf der anderen Seite.
+Das ist eine ursprüngliche Hinterlanderschaltung, eine Freilichtschaltung.
+Das kann man jetzt einstellen, das ist jetzt nur ein Hinweis, es gibt es auch im Nutzdruck Varianten, die machen flache Federkennlinien, die kann man jetzt im Prinzip sehr, sehr schön einstellen mit solchen Kellerfedern.
+Optimierung von Federn durch Faktoren in der Werkstoffauswahl über Festlichkeit, Kennlinien, Verlauf, also Streitigkeit, Formgebung, Platzbedarf, Gewicht,
+Es fehlt ihm jetzt, wenn ich das aufmerksam machen darf, Korrosionsbeständigkeit und
+Wärmeformbeständigkeit.
+Dabei sind Optimierungsziele Funktion, Masse, ganz wichtig, der Einbauraum, der muss definiert
+die erforderliche Federarbeit, Werkstoffausnutzung.
+Hier sieht man relativ hohe Festigkeiten, mit denen diese Federstäbe hergestellt werden.
+Das sind die neuen Bezeichnungen, die wir hier haben und hier sind die Zugfestigkeiten
+registriert bei teilweise sehr hoher Bruchregelung.
+Das ist nicht üblich.
+Eine Baustelle haben wir gesagt hat 235, 275, 330 Newton pro Quadratmillimeter.
+Drehgrenze in der Regel, hier sind die deutlich höher in Festlichkeiten.
+Also so feste Federsteine werden typischerweise eingesetzt,
+Durch Eisenmetalle, häufig wird schwer durch Dämpfung auch über Gummis gemacht oder über Gase und Flüssigkeiten, wenn es um Dämpfung geht.
+GFK, haben wir in diesem Beispiel gesehen, über Plattfeder beim kleinen LKW, Urteil des Faktoren Federarbeit, Federvolumen im Verhältnis zum Einbauvolumen,
+Hier haben wir typische Stoßdämpfer, die unterschiedliche Funktionen haben können wie z.B. D, die eine Progression zunimmt, um das Federungs- und Dämpfungsverhalten eines schwingenden Systems im eigenen Sinne beeinflussen zu können.
+Hier kann man dann zum Industriestoßdämpfer über Deformationsweg oder Geschwindigkeit und Zeit
+unterschiedliche Parameter einstellen und kann auch den Druck variieren, um dieses System zu optimieren.
+Ich würde jetzt nochmal 10 Minuten Pause machen und dann gucken wir uns noch ein paar Formeln an.
+Wir können uns mitschreiben, aber die brauchen wir dann in den Übungen.
+Also machen wir bis 11 Uhr eine kurze Pause für Toilette und dann machen wir noch ein paar Übungen.
+Er muss erstmal auf Sekunden und Sekunden nach hinein gehen, bis er da ist und nicht ab und nach noch im Training sein muss.
+In der nächsten Sekunde kommen sie trotzdem Altkörper bilden und finishingen mit Prozessen und wir müssen damit den Coach mit den geldbaren Fristungen befragen.
+Und das ist alles, damit wir die D depression und damit sie geben können, dass wir dieatory aus der Testung gezielt haben und gerecht werden.
+Ich glaube ich überziehe, wir haben hier verschiedene Umfäden, die es auch in einem Rechteck-Querschnitt gibt,
+nicht nur, sondern die Vorteile des Gegenübers eines Kreis-Querschnitts.
+Wir hatten gesagt, wenn wir eine Passionsbehandlung haben, dann ist insbesondere der Geistgeschwindigkeitsvorteil,
+da sind wir jetzt gleich dazu kommen, warum.
+Das ist nicht so, dass ich Vorteile habe für die sehende Berechnung,
+aber für ihn, 2090 ist er möglich.
+Hier haben wir auch so Federn, die kommen vielleicht aus Ihrer Praxis heraus,
+Wir haben hier die Ringfeder-Säule, wo wir gesagt haben, da kommt jetzt eine Kraft von oben oder unten, die dann dazu führt, dass eine Zugspannung in den Federn hier aufgebracht wird und über Reibung dann die Deformation in diese Kontaktflächen übertragen wird.
+Dabei gibt es dann Reibung und so ein typischer Kernwert,
+hier haben wir so einen Durchmesser 18 bis 400 Millimeter,
+Geometrie ist definiert,
+einen entsprechenden Reibungswinkel.
+Generell ist es so, die Kennlinie ist linear
+und es entsteht bei Entlastung bis zur Entlastungskraft
+ein Stillstand.
+Zwei Drittel gehen als Reibverlust, als Wärme verloren.
+Federn sind als solches nicht genormt und werden nach Herstellerangaben berechnet.
+Wenn die hier die Feder belasten, das ist jetzt hier, ich sag mal, rechts aufgetragen,
+man kann das auch drehen, Federweg nach unten abgetragen und die Kraft nach rechts.
+Sie haben das Licht, Sie können ein Foto machen von dem Bild.
+Dann nehmen wir die Fläche unter der Kurve und drehen sie weg.
+Die Dissipation ist die Größe der eingeschlossenen Fläche der Entlastungs- und Bebelastungspiste.
+Kurve, hier ist es genau so, das ist sozusagen die Energie, die in das System reingesteckt
+wird, das wäre die Gesamtfläche, hier muss diese Reibung überrunden werden, damit das
+wieder sich in den Rückwärtsgang bewegt.
+Das hier ist sozusagen dieses WL, ist die Reibarbeit, die vom System aufgenommen wird
+und die dazu führt, dass eine Dämpfung stattfindet.
+Fragen dazu. Reibung wird über diese Kontaktflächen der einzelnen Elemente durchgeführt.
+Krebsbeführung dazu, dass der innere Ring aufgeweitet wird, der äußere ebenfalls.
+Wir haben in der Regel eine sehr hohe Steifigkeit und etwa zwei Drittel der Energie,
+die jetzt dort in diesen Feder eingesteckt wird, kommt nicht mehr zurück.
+Es ist keine Hubschuh-Feder, die die Belastung rauf- und runter geht auf der Hubschuh-Gerade.
+Es ist auch eine Gerade, und sie ist linear, weil die Gummileiste da ist.
+Gehen wir zu diesem Thema noch.
+Das sind jetzt die Schraubenfedern,
+die eine spiralförmige Bindung besitzen, die einen Durchmesser besitzen,
+was die Bindung antrifft und einen Durchmesser, was den Federdraht antrifft.
+Wenn wir uns jetzt diese Feder vorstellen, dann sieht man,
+hier wird mit einem Hebelarm der Länge d halbe eine Kraft in den Kern eingefahren
+Und der wird dann so, dass letztendlich eine Torsionsbeanspruchung vorhanden ist.
+Den Schraubenfehler wird zwar zusammengedrückt, aber die Materialbeanspruchung ist eine über
+einen Torsionsmoment, eine Kraft, die über den Hebelarm g halber eingetragen wird und
+der Windungsabstand proportional ist.
+Und dann kriegen wir einen Torsionsmoment, was diese Schraube beansprucht.
+Das müssen wir jetzt in einer Berechnung sozusagen zugänglich machen.
+Dann haben wir die Parameter, die Kraft, die wirkt über ein Nebelarm, die Deformation S, die auftritt,
+das vorhandene Moment, das in dieser, in diesem Torsionsstab sozusagen wirkt.
+Also das müssen wir in Einklang bringen und so wie wir den Formen benutzen.
+Das hier, Steiglichkeit einer zylindrischen Modellflieger ist das, was wir letzte Woche gemacht haben.
+Eigentlich nochmal eine Wiederholung.
+Das ist ebenfalls für die Steiglichkeit einer zylindrischen Modellfeder für Torsionen das gleiche wie für Bilou.
+Wir kommen jetzt zur Berechnung von Schraubenfedern mit Kreisesperrschnitt unter Zug und Druck.
+Das andere würde ich unter Umständen, das ist nicht so komplex, ich würde die Formel da nochmal aufstellen und einstellen,
+Dann würde ich Ihnen das so zur Verfügung stellen, dass Sie das heute oder nachher nicht machen.
+Belastbarkeit von Schraubenfedern.
+Wir haben jetzt hier ein MT, wirksam.
+Das ist das Moment, was eingebracht wird, einer Kraft F über den Hebelarm,
+haben die halbe, das ist der halbe Durchmesser meiner Windung.
+Die vorhandene Schubspannung Tau T ist mT durch dPol.
+Ich habe hier einen Schrägheitsmoment I mal B, Durchmesser des Drahtes, hoch 3, 16.
+Das kann ich ansetzen.
+Tau t ist 16 mal mt, manchmal steht man in den Formen dann noch bis T, das ist das Jungsproblem,
+Pi mal b über 3.
+Das Moment, wenn man das hier oben rausnimmt, als f mal b halber einsetzt, kommt ein Indiz
+Hier ist die Belastungssituation etwas nachgezeichnet.
+Das ist der Federdraht, das ist die Kraft, die im Zentrum der Feder wirkt.
+Hier über den Hebelarm, EM halbe, das ist Groß-D, das ist Klein-D, das ist der Durchmesser eines Drahtes.
+Und da sieht man, es gibt eine sogenannte Spannungsüberhöhung, das ist dieses K, das jetzt hier.
+vorhanden ist, das berücksichtigt sozusagen jetzt diesen Querkraftschub, wenn ich das
+reine torsionale Moment habe, liegt es so, und dann gibt es über den Querkraftschub
+hier eine Erhöhung. Und das müssen wir mechanisch berücksichtigen, das heißt,
+das wäre jetzt hier der Fall reiner Beanspruchung aus dem Torsionsmoment.
+Das ist nicht ausreichend.
+Deshalb müssen wir zu einem Tau-Max gehen.
+Das ist gleich Tau-T aus dem Torsionsmoment mal K,
+was diese Spannungsüberhöhung berücksichtigt.
+Wenn wir das da oben jetzt einsetzen, kommt da im Prinzip 8Fd
+durch Pi mal D hoch 3.
+Wir müssen dann, wie die Aufgaben später rechnen, immer schön auf die Einheiten aufpassen.
+Das eine ist ein Millimeter, das andere ein Meter, Nutenmeter, das Extremmoment,
+dass Sie die richtige Umwandlung der Einheiten in den Griff kriegen.
+Für bestimmte Geometrien ist diese Spannungsüberhöhung unterschiedlich.
+Das ist jetzt, ich sag mal, aus experimentellen Begründen entsprechend ermittelt worden.
+und hängt ab von dem Verhältnis des Durchmessers des Drahtes Klein d und des Durchmessers der Rindung.
+Was ist der Wickelverhältnis, das ist das Verhältnis, der hat das jetzt hier als gm bezeichnet,
+Groß D ist der Durchmesser der Schraube, der Spirale, und D ist der Durchmesser des Drahtes.
+Je enger die gewickelt ist, desto größer der Durchmesser, desto höher ist die Spannungsüberhöhung.
+Abgebildet hier über das Wickelverhältnis größerer Durchmesser des Drahtes, kleinerer Durchmesser der Riegelung, erhöht die Spannungsüberhöhung.
+Ja?
+Durch 4.
+Also, Hebel, Arm und Nacken.
+Nächste Seite.
+F-max
+ist also
+Pi
+mal
+Minimum frei
+8 A E mal Tau zulässig.
+In der Regel ist es so, dass die Belastung, die kommt,
+mit Max als gegeben gegeben werden kann.
+Deshalb geht man dazu über, eine Anpassung von P um D zu machen und damit eine Dimensionierung zu machen.
+Dabei geht man dazu über, den Minimaldurchmesser zu formulieren.
+Den können wir da oben jetzt formelmäßig in den vorhandenen Spannungsartikeln
+Max mal K mal 8 mal D ist K, die Spannungsüberhöhung aus dem Sicherheitsverhältnis Pi mal Tau
+Oder man guckt sich den maximalen Durchmesser der Hinsen an und hat gleich 4 mal g hoch
+Durch Draht mal 8, durch Bergmachs mal 12, zulässig Anmerkungen.
+Anfänglich zur Konditionierung,
+Das ist das Verhältnis E zu D, das ist das Verhältnis E zu B, das ist das Verhältnis
+Manchmal ist das aufgrund der Geometrie auch vorgegeben, aber sie brauchen dann eine bestimmte Steifigkeit.
+Wir haben eine Portion solcher Schraubenzieher, die auf Druck oder Zug beansprucht wird.
+Jetzt müssen wir bestimmen, um eine bestimmte Steifigkeit der Konstruktion einzustellen,
+welchen Durchmesser wir hier des Drahtes und welcher Durchmesser der Wicklung haben.
+mal 8, mal 20.
+Iterativ ermitteln.
+Man fängt mit der 1 an und dann wird man immer genauer.
+So, das war jetzt die Seite.
+Dann kommt jetzt hier nochmal ein Hinweis.
+Hier sieht man das jetzt mal, dieses Verhältnis mit enger werdender Rindung, mit größer
+währenden Durchmesser steigt dieser Spannungsfaktor an bis zu maximal zwei.
+Die muss man nachher aus solchen Metallen rausnehmen oder berechnen.
+Hier sieht man nochmal dieses Wickelverhältnis und die vorhandene Spannungsüberhöhung.
+Das ist aufgrund des Querkraftzuges, der dort herrscht, ist da jetzt auch nicht eine lineare Spannungsverteilung gegeben, sondern es gibt eine Spannungsüberhöhung und die müssen wir formal gesehen bei der Berechnung berücksichtigen.
+Die Steifigkeit, das ist jetzt hier falsch, das ist jetzt hier bei Seite 146, da geht es um die Steifigkeit der Feder.
+ZT bar MT im Moment durch viel ist gleich G mal Polygon durch Länge.
+Der ist drehstabil.
+Wir können mal formelmäßig das zusammendrehen und mal spezifizieren.
+Das ist hier gleich die 1.
+Wir wissen mit den Polaren, der steht drehkreismoment,
+die Pole ist Pi mal P O 4 32.
+S ist die Verformung von Pi mal die Halbe.
+Das Ganze in der Mitte für die Pi ist gleich die Suche.
+2S durch g, die Suche in 1 einsetzen.
+Die Anzahl der fehlenden Bindungen, auch das können wir in eins einsetzen, kommt dabei
+F mal E halbe, so haben wir das auch noch formal hergeleitet,
+wissen muss man das nicht, durch 2S,
+Aber man muss es ja anwenden in der Folge.
+Ich habe eine Frage.
+An der dritten Zelle steht L ist gleich Pi mal D mal IW.
+I ist B und Index unten.
+In dem Bereich ist die Anzahl der fehlenden Bindungen.
+Perfekt.
+Wie mehr Bindungen ich habe, desto länger ist die Schraube Pi mal D.
+In einer Bindung sozusagen.
+Es ist eine Bindung sozusagen, das Ganze mal d, die Anzahl der Bindungen.
+Und jetzt haben wir hier unten das, ich sag mal, perfekt ausformuliert.
+Wir sind noch nicht fertig, ich bin hier gerade noch ein Foto gemacht.
+Gehe ich auch aus dem Bild.
+Unser C ist F durch S.
+Remember, heute eine andere alte Veranstaltung, die C, die Steifigkeit einer Schraubenfeder
+ist F, durch S ist gleich, die anderen beiden bringe ich noch auf die andere Seite und habe
+Ich habe dann meine wunderbare Formel E, das ist der Schubmodul des Materials.
+Pi mal e hoch 4 durch 8 mal e hoch 3 mal Iw mit der Anmerkung,
+Die Anzahl der Federbewindungen ist I gesamt, die W plus zwei nicht-Federbewindungen, das sind die Ausbindungen.
+Die Steifigkeit wird über das Wickelverhältnis d zu d eingerechnet.
+D2D-eigengestellt. Das ist ein Zusammenspiel zwischen der maximal erreichbaren Schubspannung, die
+eine Schubspannungsüberhöhung ist, die wiederum abhängig vom Mittelverhältnis ist.
+Deshalb gibt es ein Zusammenspiel zwischen Belastbarkeit und Steifigkeit.
+Das ist die Zahl der fehlenden Bindungen, 1, 2, 3, 80 fehlende Bindungen.
+Je länger, desto mehr Bindungen Sie haben.
+Der Durchmesser der Schraubenfeder wird kleiner, Steifigkeit geht runter, Gewicht wird größer, Steifigkeit geht hoch.
+Wir haben jetzt ein Zusammenspiel von Belastbarkeit und Steifigkeit.
+Das ist jetzt Gegenstand dessen, was da nächste Woche ein bisschen gerechnet werden soll.
+Und das sehen wir im Skript, vielleicht machen wir das dann nächste Woche online zusammen,
+Seite 153, das ist auf der einen Seite den minimal erforderlichen Durchmesser meiner,
+Die Spannungsüberhöhung mal E durch Tief mal Tau zulässig, hier die Wahl des Werkstoffes.
+Wer verweist, das ist die Seite, sorry, das ist 155.
+Da kann man jetzt das Vorgehen sehen.
+Was man jetzt hier macht, man macht ein Equipment, das ist der minimale Durchmesser des Atomates,
+auch von der Festigkeit, dritte Wurzel raus, und wir haben jetzt hier Anhang gehabt,
+die Kraft, die vorhanden ist, ist 15 Newton, maximale Kraft, die ist gegeben.
+Können wir hier einsetzen. 15 Newton Kraft mal K gleich einsetzen anfänglich 1 mal 8 mal D durch Pi mal
+Und es steht da hinten noch ein Term, 1K gleich 1,6.
+Dritte Wurzel, Tau zuwässig.
+Das ist jetzt ein Zusammenspiel,
+das ich Ihnen gerne jetzt hier zeigen möchte.
+Man hat jetzt hier zum Beispiel die Festigkeit, die Schubspannungsfestigkeit des Materials
+und kann aus diesem G-Min heraus den erforderlichen Windungsdurchmesser, der jetzt hier vorgegeben ist, selektieren.
+Ich stelle jetzt in Kombination mit dem vorhandenen Durchmesser der Bindung die Schleifigkeit ein.
+Und zwar in der Art, dass wir das nachher entsprechend berechnen können.
+Da unten, das kann man rechnen.
+Hier ist es beispielhaft gemacht für eine Zahl,
+Bei der Berechnung ist es zum Beispiel so, für Durchmesser 5 mm und Durchmesser 10 mm°.
+und dann mal ein klein d ist das gibt sich die steifigkeit oben haben wir gesehen c ist e mal
+Pi d hoch 4 durch 8 gegen 3 mal Pi w, die Anzahl der Windungen.
+Und daraus kann ich, wenn ich d und g habe, jetzt die erforderliche Anzahl der Windungen
+aus der Kennengröße g, das ist g minus 4, durch 8 mal 2g pro 3 mal c.
+Das ist hier eine ordentliche Steifeleinheit.
+C ist hier 0,2 Newton pro Millimeter für den Fall, die Anzahl der fädelnden Windungen, die kann man jetzt ausrechnen und das hat man jetzt hier gemacht, und zwar folgendermaßen.
+Zulässige Zugspannung ist 500 K zulässig, das ist die Formel.
+Jetzt mache ich aus der Steifigkeit, die ich brauche, und Belastbarkeit eine Rechnung, die läuft folgendermaßen.
+Der rechnet jetzt hier für den Drahtdurchmesser 5 mm aus.
+Ein D Minimum von 0,725 für 5 mm Windung.
+Ist die Windung größer, ist der Hebelarm länger.
+Die Spannungsüberhöhung ist geringer.
+Und ich kann einen höheren Durchmesser wählen.
+Mit den 10 Millimetern gehe ich jetzt sozusagen darüber und berechne dieses Iw durch die Gleichung.
+Das ist nichts anderes als beim Stahl immer 70.000 Newton pro Millimeter Quadrat.
+mal e hoch 4 aus diesem Mittelverhältnis heraus, 8 mal e hoch 3, mal 0,2 Newton pro
+Millimeter.
+Es gibt jetzt immer eine Unterabhängigkeit.
+Ich habe Groß d und Klein d.
+Jetzt ist hier Groß d gegeben, entweder 5 oder 10.
+Und ich möchte eine Gesamtsteifigkeit von 0,2 bei der vorhandenen Festigkeit, gehe
+ich darüber, für den von 5 mm berechne ich, das kommt da jetzt raus, wenn Sie das rechnen,
+wir machen das natürlich schon, Sie können das gerne überprüfen, dann kommt hier raus,
+Steifigkeit 0,2, Schubmodul 70.000, kriegen Sie bei d festgegeben, können Sie hier dann
+dann das Klein d ausrechnen, das liegt bei 0,725 und 0,914, das ist die Steifigkeitskennlinie
+über die Anzahl der federnden Winderungen, da sieht man die zugehende Anzahl der federnden
+Winderungen, desto weicher wird die Feder und wir brauchen hier um diese Steifigkeit
+0,2 einzustellen, beim Durchmesser 5 mm, 94 Windungen, der ist enger gewickelt, ist ihm
+weiter gewickelt, steigt geringer und wir brauchen nur 30 Meter Bewegungskraft.
+Und so kommt man über das Verhältnis B zu E, über das Gewickelverhältnis, zur Belastbarkeit
+einer Schraube, gehört zur Passionsbeanspruchung und hier der Spannung durch diese Schubbeanspruchung,
+was berücksichtigt wird mit diesem Spannungsbein der K, den wir jetzt ja anlässlich 1 gesetzt
+haben. Dazu machen wir ein paar Übungen, die müssen wir jetzt durchdefinieren. Die
+Formeln sind vorhanden, die muss nur zugekriegt werden, die Diagramme sind auch da, weiterführende Erläuterungen, die machen wir in der nächsten Planungsleitung, ich will das jetzt nicht weiter überziehen, aber das ist jetzt das schöne Beispiel, das ist eine definierte Logiksteifigkeit einzustellen, man kann das jetzt hier formelmäßig verrechnen, hier sind mal die Diagramme dargestellt, wie das Ganze zusammenspielt, wie es funktioniert,
+Ist die Feder enger gewickelt, ist die Spannungsüberhöhung größer,
+wenn es die Lästigkeit, die wir nehmen, geht die Auseinander,
+dann wird die Steifigkeit entsprechend geringer,
+dieser Wickeldurchmesser entsprechend größer wird die Steifigkeit.
+Eine kurze Frage, bei C ist gleich W mal Pi D,
+Das ist der mittlere Durchmesser, E, M, R, und ganz rechts 1 durch, Wurzel, Tau, Zulässig.
+Mit rechts ganz rechts ist es eins durch Wurzel, drei und dann, was ist das?
+Warum?
+Dritte Wurzel, das hier, die Tau zulässig.
+Das ist hier unten rausgezogen.
+Und ich sag mal, das ist das, was Sie da oben einsetzen.
+Das ist das Tau zulässig.
+Sie haben das Fmax, die 15 Newton.
+Und Sie können jetzt da oben an diesen erforderlichen Tragdurchmesser berechnen,
+rechnen. Für 5 mm kommt das drauf, für 10 mm, Sie können das ja mal reintippen, ob Sie auf die
+Eingänge gekommen sind. Das stimmt von den Einheiten. Dann lege ich ein paar Übungen ab und
+die würden wir uns dann nächste Woche anordnen. Nicht darin, wie wir das dann formal abwickeln,
+Ja, dann sorry für das Überziehen, aber nächste Woche möchte ich nicht mehr da sein.

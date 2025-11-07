@@ -1,0 +1,1385 @@
+Die 10 Minuten mal 400 plus die 15 Minuten mal 28, das heißt wir brauchen eigentlich 43.000 Minuten.
+Damit sehen wir schon mal, wir schaffen es gar nicht alles hier zu bringen.
+Wir müssen also irgendwas weglassen.
+13.000 Minuten können wir nicht produzieren, sondern in der Endphase 30.000.
+Wäre das jetzt ein beständiges Problem, hätten wir also immer so einen riesen Engpass.
+Da ist natürlich die Frage, können wir diesen Engpass durch eine Kapazitätserhöhung irgendwie optimieren.
+Also durch eine zusätzliche Schicht, durch eine Änderung der Produktionsauslastung an sich, durch eine zusätzliche Maschine.
+aber das ist jetzt hier nicht die Frage. Sondern die Frage ist, was können wir mit diesen 30.000
+Minuten am besten und am optimalsten produzieren.
+So, dann schauen wir uns das Ganze mal etwas genauer an. Also wir müssen erstmal nach der
+Rangfolge produzieren.
+Die Rangfolge ist C, B und A.
+Das ist die Rangfolge, an der wir produzieren sollten.
+Als erstes und lukrativst ist C, dann kommt B, dann A.
+Dann gucken wir noch mal ganz kurz die Nachfragemenge an.
+Und die ist in Stück gegeben.
+Dann haben wir hier, sollen wir, 800 Stück.
+Hier sind es 400 und hier sind es 300.
+Dann nochmal zum Überblick die Engpasszeit.
+Die ist gegeben in Minuten.
+Das waren 15, 10 und 19.
+Dann haben wir die Produktionszeit.
+Wir haben alles ebenfalls in der Logik.
+Das kann ich ausrechnen, ganz einfach.
+haben wir oben schon indirekt gemacht, also das in Summe ausgerechnet 12.000, 4.000 und
+27.000. Damit hätten wir die Summe von 43.000.
+So jetzt, was können wir tatsächlich produzieren?
+Was ist die Produktionsmenge?
+Und zwar ist die jetzt wieder ein Stück ausgedrückt.
+Erstmal produzieren wir hier die 12.000.
+Dann ist der Kapazitätsbedarf.
+in Minuten nichts anderes als die 800 mal die Engpasszeit, also 12.000. Damit habe ich eine
+Restkapazität, noch eine Minute zur Verfügung, und zwar habe ich ja diese 30.000 minus diese
+12.000. Das heißt, Sie haben so 18.000 Ressorten zitiert.
+Und jetzt ist jetzt die Frage, was können wir hier noch machen?
+Aber haben Sie schon richtig gesagt, wir können jetzt hier diese 400 Stück machen.
+Da ist der Bedarf dann 400 mal 10 und dann hätten wir hier als Restkapazität 18.000
+minus die 4.000, also einfach noch 14.000.
+Und jetzt ist die Frage, wie viel kann ich mit den 14.000 machen, indem ich ganz einfach
+sage, ich nehme 14.000, teile die durch die 90, kommen auf 155,5, geht aber nicht.
+Das heißt, ich kann halt maximal 155 machen.
+Und das heißt, hier kann ich jetzt sagen, ich habe 13.059 Minuten und damit habe ich
+jetzt theoretisch noch eine Restkapazität von 50 Minuten.
+Okay?
+Jetzt kann ich einfach mal versuchen, wenn ich das so mache, was ist mein Gewinn?
+Also hier, das ist mein Gewinn, also ich mache 800 Stück und ich mache einen Deckungsbeitrag
+bei C von 1 Euro, also 800 Euro.
+Dann habe ich hier meine 400 Stück, hier mache ich einen Deckungsbeitrag von 50 Cent,
+Also 200 Euro und hier mache ich 55 Stück und hier mache ich einen Beitrag von 300.
+Das heißt, wenn ich jetzt meine Varianten Kosten abziehe.
+Minus die variablen Kosten von 1.000 Euro, die den Keks gegeben sind.
+Das heißt, wir haben hier einen Gewinn von
+465, oder? Das ist das, was Sie machen.
+Schaut jetzt schon mal so, wie schlecht aus.
+So, ist das das letzte Wort?
+Das ist ganz klar, wenn der Professor so fragt.
+Also, das Thema ist jetzt folgendes.
+Wir wissen, dass wir mit dem Engpass mit jeder Minute, die wir arbeiten, theoretisch Geld machen.
+Würden wir jetzt mehr von diesem Produkt 10 verkaufen können,
+Also das sind 800 Stück. Dann würden wir in diesen 50 Minuten hier theoretisch noch dreimal von dem Wasser bewegen können, oder?
+Das heißt, wir hätten noch drei Euro mehr.
+Problem ist, da sind wir schon an der Decke. Geht nicht mehr.
+Da sind wir auch schon an der Decke. Da können wir auch nichts mehr machen. Da können wir nicht fünfmal, also wir können hier 400 Stück von dem herstellen.
+Das Einzige, was wir machen können, hier könnten wir theoretisch eins mehr verkaufen.
+Und die Logik dahinter ist, solange die Maschine läuft, produziere ich etwas, weil immer wenn
+ich etwas produziere, kriege ich auch Deckungsbeitrag.
+Und jetzt macht man eine Optimierung.
+Und sie schaut dann wie folgt auf.
+Das heißt, wir machen jetzt eine Neuproduktionsmenge.
+Es wäre jetzt genauso, wenn Sie jetzt sagen würden, Sie haben zwei Jobs.
+Der erste Job ist Barkeeper, wo Sie, keine Ahnung, 25 Euro die Stunde kriegen.
+Allerdings sind Sie da nur vier Stunden am Tag.
+Das heißt, Sie haben ja locker noch vier Stunden, wo Sie was anderes arbeiten können.
+Und dann sagen sie vielleicht, ja, dann suchen wir da einen anderen Job, da kriege ich vielleicht nur 17 Euro die Stunde, aber 17 Euro sind besser als 0 Euro.
+Hauptsache, ich habe meine Arbeitszeit ausgestattet.
+So, jetzt machen wir das Ganze nochmal.
+Ich kann hier weiter meine 800 Stück machen, um meine Kapazitätsbedarf neu.
+Das ist natürlich hier genau das gleiche, 800 mal die Zeit hier.
+So, und jetzt versuche ich...
+der
+hier diese 30.000 minus die 12.000, so jetzt habe ich 18.000 Minuten übrig und diese 18.000
+Minuten versuche ich jetzt so zu verteilen, dass tatsächlich Null auskommt.
+Wie kann ich das machen?
+Indem ich ganz einfach sage, ich mache jetzt nicht hier 400 und 150, sondern wenn ich jetzt
+Wenn ich hier 1 weniger mache, also wenn ich hier 399 mache, dann habe ich hier 10 Minuten
+freiwillig.
+Statt 400 mache ich jetzt 399, dann brauche ich nicht 14.000 Minuten, sondern 13.990.
+Und dann hätte ich hier 60 gegeben.
+Und wenn ich jetzt hier 4 weniger mache, wenn ich jetzt nicht 400, sondern 396 mache, dann
+brauche ich hier eben nur 3.960 Milliliter.
+Damit hätte ich eine Restkapazität von 314.040 und mit dieser Restkapazität kann ich plötzlich
+156 Stück machen. Und der Vorteil von diesen 156 Stück ist, dass dann eben keine einzige
+Minute übrig bleibt. Damit habe ich Restkapazität Null. Okay? Lineare Optimierung nennt sich
+Wird vor allem bei Losgrößen angewendet, wo ich Kapazitätsgrenze habe.
+So, und jetzt kann ich nochmal ausrechnen, was mein Gewinn ist.
+Also hier habe ich 800 mal den Euro, hier habe ich 396 mal die 50 Cent und hier habe
+Dann ziehe ich wieder meine Variablen Kosten ab.
+Dann kann ich wieder mein Gewinn berechnen und wäre es
+und wäre es 460.
+Also damit könnte ich jetzt noch mehr Gewicht machen.
+Und das ist für uns das optimale Funktionsprogramm.
+Also ich gebe keine Minute von einer Maschine auf, die mir Geld bringen kann.
+Das ist genauso, wenn Sie einen Fußballer haben, der viel Geld hat, dann muss der doch auch spielen.
+Jetzt setzt er doch hier auf die Bank.
+Okay, bei Ihnen macht es anders, aber letztendlich, wenn Sie teures Equipment haben, und das ist
+dann auch noch Schultern hier im Engpass, da muss das Arbeiten.
+Okay.
+Also die optimale Antwort hier ist 466.
+Beziehungsweise das Produktionsprogramm, 800 Stück von C, 396 von B und 156 von D.
+So, damit es nicht so langweilig wird, gehen Sie mal kurz auf die Hügel.
+Jetzt wird sich das auch bei Ihnen einbrennen.
+Und jetzt gehen Sie einmal auf die Punkte 1, Aufgabe 2 und jetzt machen wir das gleiche
+Wiederholen Sie das. Aufgabe ist, den höchsten Deckungsbeinlag auszuholen.
+Sie dürfen es gerne mit Ihrem Nachbarn machen.
+Und machen Sie es jetzt.
+Weil diese Aufgabe frustriert mich jedes Mal wieder.
+Das sind geschenkte 10 Punkte.
+Und ich bin jedes Mal stinksauer, dass 50% der Studierenden diese geschenkten 10 Punkte nicht mitnehmen.
+Also, geben wir mal so 10 Minuten bis eine Stunde und dann machen wir es einmal gemeinsam.
+Sophia, jetzt wollen wir dich an die Karte.
+Ich würde dir aber nicht schwören.
+Sophia, ich würde dir aber nicht schwören.
+Wir können nicht schwören.
+Wir sind es.
+Ich werde dir aber nicht schwören.
+Ich werde dir aber nicht schwören.
+Wir können nicht schwören.
+Wir sind es.
+Wenn ich da stehe, fühle ich mich voll wie Sonne.
+Das ist so blöd.
+Einen Spitzer.
+Einen Spitzer.
+Anschließend –
+Silvan.
+Siebenpunkt.
+Und da again.
+Bewege den Pfeil auf den Ort, den du bewegen möchtest, und drücke den Bewegungsknopf.
+Bewege den Pfeil auf den Ort, den du besuchen möchtest, und drücke den Klicken auf den
+Also im ersten Schritt einfach mal die Leute dazwischen haben, das ist das Thema, dass sie aufzeichnen, was ist der relative Deckungsniveau, was sind die einzelnen Produkte und die eigenen Produkte.
+Und zwar ist das Produkt B das lukrativste, das wird gegen 6,66 Euro gehen, dann kommt Produkt B A A mit 6,43 Euro und dann Produkt C, auf Basis dessen, haben Sie es?
+Was ist Ihr Lösungsvorschlag, was würden Sie produzieren, wieviel von A, wieviel von B, wieviel von C?
+Was wollen Sie von A, B und C machen?
+Was wollen Sie von A, B und C machen?
+440 Stimmen.
+Von A 440?
+Und wie viel haben wir jetzt tatsächlich?
+Da stehen jetzt die Überschriften länger nicht drauf.
+Also hier können Sie von A machen und von B wie von C.
+Also A,320 ist Max.
+Also das Maximalste, was man machen könnte, wäre 320.
+Hier wären es 120 und hier wären es 100.
+Und wie viel machen Sie real mit dem optimalen Werkzeugungsbeitrag?
+Hier 318.
+Hier?
+120.
+Und von 10?
+63.
+So, schauen wir mal.
+Das erste Schritt, was ich mache, ist natürlich erstmal hier die Fertigungszeiten und so weiter, Bedarf und Angebot.
+Wir sehen, der Bedarf wäre bei 27.000, das Angebot haben wir bei 24.000 und jetzt könnte man sagen, was habe ich?
+Ich kann alles von B produzieren, mach eben die 120 und dann habe ich eine Restkapazität von 16.200.
+Und jetzt ist es, wenn ich die tatsächlich 320 mache, dann habe ich hier unten die Restkapazität
+von 11.200, dann fehlen mir natürlich hier 5.000, dann könnte ich hier gar nicht so
+viel machen.
+Dann bin ich hier irgendwo bei 60 vermutlich, 62, 62 könnte ich sagen.
+Und jetzt habe ich hier 40 Restkapazität.
+Und jetzt ist die Frage, was kann ich machen, damit ich hier mehr hinbekomme.
+Und jetzt muss ich halt einfach so lange von dem Produkt A Produkte abziehen, bis sich
+ein vollwertiges oder zwei vollwertige Produkte ziehen können.
+Und das Ganze führt dann tatsächlich zu einem höheren Entdeckungsbeitrag, nämlich
+dann von 156.000 und einem Gewinn von 106.000 Euro.
+Die waren zuvor relativ schwer die Aufgabe, weil man nicht ein oder zwei abziehen musste,
+sondern man musste tatsächlich acht von Produkt B wegnehmen oder von Produkt A wegnehmen,
+damit man hier von Produkt C weniger machen kann.
+Damit es auch auf Null aufgeht.
+Man kann ja keine Gleichung aufstellen.
+Doch, man kann es auch nicht theoretisch rechnen.
+Kein Thema.
+Habe ich früher alles in der Vorlesung gemacht.
+Die Studenten sind immer auf die Decke gestiegen.
+Dann dachte ich, okay, dann lassen wir es.
+Aber Sie können es auch leichter beschlüssen.
+Sie stellen einfach die Kleidung auf und lösen es nach Höhe aus.
+Sie können es auch sehr schön klar beschlüssen.
+Und da wir schon dabei sind, wissen wir, was jetzt kommt.
+Probeprüfung 2, Aufgabe 1.
+Versuchen Sie nochmal Ihr Glück.
+Ja, weil wenn Sie es jetzt haben und dann nochmal wiederholen, dann wette ich mit Ihnen,
+dass Sie in der Prüfung diese 10 Punkte erwarten.
+Also, Sie lachen.
+Also, selbe Aufgabe nochmal.
+Genau immer der gleiche Typ.
+Erstens, relativen Deckungsbeitrag ermitteln.
+Zweitens, Reihenfolge aufstellen.
+Drittens, Engpass berechnen.
+Viertens, optimieren.
+Okay?
+Okay, nochmal zehn Minuten.
+Also damals hatten Sie 13 Minuten Zeit für die Aufgabe.
+Jeder Punkt eine Minute.
+Sie dürfen noch mit Ihrem Nachbarn arbeiten.
+Das Schöne ist, in der Prüfungsvorbereitung haben Sie die Aufgaben alle wieder vergessen.
+Dann sind sie wieder wieder weg.
+Ja.
+Das ist die Genauze.
+Hier heißt es Jack.
+Ich weiss nicht wie viele Juniors das Essen gelernt haben.
+Ich habe nicht gesagt, was ich meine A, B, C, D bedeutet.
+Ja, ich habe nur A, B, C.
+Ist das auch in Ordnung?
+Das ist das, was ich meine.
+Was meinst du für uns?
+Ich meine für diese Firma.
+Wir diskutieren über ein Thema, nicht über uns.
+So ist es.
+Ja, wir diskutieren über ein Thema.
+Okay.
+Drei.
+Vier.
+Fünf.
+Six.
+Seven.
+Eight.
+Nine.
+Ten.
+Eleven.
+Erster Punkt ist natürlich, wie immer, wieder mal den Engpass auszurechnen bzw. den relativen
+Deckungsleiter auszurechnen.
+Das Produkt C, das lukrativste, da verdienen wir 3,30 Euro pro Minute.
+Dann Produkt B, die 2,92 Euro.
+Produkt A, die 2,60 Euro.
+Und Produkteben 2.0.1.1.
+Kann das?
+In der Prüfung kriegt auch jemand das nicht mit.
+Er wechselt zwar die richtigen relativen Deckungsbeiträge aus,
+aber aus irgendeinem Grund, ich weiß nicht, ob es die Aufregung ist,
+oder keine Ahnung, ein Stück die Reihenfolge.
+Und jetzt habe ich hier einmal den Zwischenschritt gemacht
+und habe einfach mal nicht das optimale Produktionsprogramm ausgerechnet.
+Das heißt, Bedarf, das ist hier Bedarf beim Engpass, das ist die Menge,
+Bedarf beim Engpass, dann ist hier, wir brauchen eigentlich 26.870 Minuten.
+So, und jetzt machen wir von C 95 Stück, dauert 4.516 Minuten,
+Havaresse Kapazität 14.640, dann kann ich vom B noch 152 machen, dauert 14.592 Minuten,
+haben noch 48 Minuten und jetzt kann ich noch vier von A machen, 40 Minuten haben ich noch
+8 Minuten übrig. Also in der Realität würde ich sagen, 8 Minuten auf so einen großen Engpass,
+das ist nicht schlecht. Könnte man fast stehen lassen. Oder?
+Ja, das ist ein Problembereich, wo wir damals nicht ausgelastet haben.
+Das ist einmal der Mitarbeiter schneuzt oder das ist einmal zu langer Betonung,
+da haben Sie die absoluten Tauben.
+Nein, aber im Sinne von der wissenschaftlichen Optimierung
+können wir folgendes mal machen.
+Also hier hätten wir Entdeckungsfeinheit von 56.914 Euro.
+So, jetzt machen wir es allerdings mal optimal, und zwar schauen wir uns C und W an.
+Jetzt machen wir nur noch 94 von C und 153 von W.
+Damit habe ich keine Restkapazität mehr und ich habe auch einen höheren Deckungspreis.
+Optimale Ausnutzung der Ressourcen.
+Für die ganz klaren Lösungen steht hier schon ein Maß.
+Es sind die Engpass-Maschinen, die haben in der Regel nur eine Engpass-Maschine.
+Es ist ganz selten so, dass sie drei Engpass-Maschinen haben.
+Wenn sie ein Engpass gelöst haben, haben sie einen anderen, da müssen sie einen Navigauf-Tiefen haben.
+Aber Sie können eigentlich sagen, immer umruhen, wie das hier heißt, das weiß der Chef immer.
+Und es ist ganz klar, sobald Sie diesen Engpass lösen, haben Sie es woanders.
+Falls Sie das nicht hätten, dann hätten Sie eine Überkapazität in Ihrem Firma und dann hätten Sie ein ganz anderes Problem.
+Da haben Sie zu viel investiert und zu viel abverdient.
+Also per se ein Engpass ist nicht schlecht, Sie müssen halt diesen Engpass managen.
+Sie haben hier im Unternehmen auch einen Engpass, Zeit vermutlich.
+Und wenn sie dann älter werden, ist ja Engpass-Zeit.
+Und wenn sie dann ganz alt sind, ist ja Engpass-Gesundheit.
+Also Engpass-Brasilien ist nicht schlecht, aber sie müssen halt mit ihren Engpass-Ressourcen,
+In unserem Fall ist es jetzt eine Maschine mit Minuten, die optimal umgeht.
+Natürlich könnte jetzt die Engpass-Ressource auch ein Chip sein.
+Also wie sie zum Beispiel bei Volkswagen ist, denen gehen die Chips aus.
+Deswegen überlegen die sich, wo bauen wir die Chips ein,
+dass sie am meisten Deckungsbeitrag bekommen.
+Und die Antwort wird nicht der VW Golf sein.
+Genauso wie es damals 2022 bei BMW die Antwort nicht der 1er BMW war.
+Sondern die haben als Vorzugsweise die Autos gebaut, die den größten Deckungsbeitrag
+auf Bezug ihrer Produktionszeit und auf Einsatz der Chips gebracht haben.
+Okay? Gut. Also, wie gesagt, die Lösung zu der Aufgabe finden Sie auch hier bei...
+Ach, ich bin mir gar nicht so zugemacht. Also, auf Google. Das sind die Aufgaben.
+Aber, wie gesagt, machen Sie es dann nochmal im Januar und dann hat sich die Aufgabe hoffentlich gefestigt.
+Das ist der Denkungsbereich.
+So, dann haben wir die Aufgabe erledigt. Dann können wir schon zum nächsten gehen.
+Der Materialstamm.
+So, der Materialstamm ist ein wesentliches Informationsdatum,
+das wir in einer Firma brauchen.
+Firmen unterscheiden ganz grob zwischen Stammdaten und Bewegungsdaten.
+Was ist der Unterschied?
+Stammdaten haben eine längerfristige Gültigkeit,
+während Bewegungsdaten für eine bestimmte Zeit eine Gültigkeit haben,
+veralten und dann nicht mehr gebraucht werden.
+Was sind ganz klassische Stammdaten?
+Also fangen wir mal mit den einfachen an,
+und zwar Lieferanten und Kunden.
+Sie haben garantiert schon mal den Begriff Stammlieferant oder Stammkunde gehört.
+Firmen suchen nicht jeden Tag neue Lieferanten oder neue Kunden.
+Sie gehen auch nicht jeden Tag in den neuen Bäcker und sagen, wow, ich brauche jeden Tag einen neuen Bäcker.
+Irgendwann sind sie bei einem Bäcker Stammkunde und er ist für sie Stammlieferant.
+Das heißt, sowas bleibt.
+Genauso der Personalstamm.
+Jedenfalls das Personal, das eine Firma beschäftigt, ist ein Stammdatum.
+Sie stellen nicht jeden Tag alle Mitarbeiter voll ein, sondern Sie haben zweifelsogar Mitarbeiter, die vielleicht schon 45 Jahre dabei sind.
+Also zwischendurch seltener, aber wenn Sie eine Ausbildung machen mit fünf Jugendlichen und dann bis 60 arbeiten, haben Sie die 45 Jahre voll.
+Insofern, Klasse nach Stand.
+Was gehört doch dazu?
+Teilliche Beziehung Sachverhaltebehandlung.
+Damit ist ganz einfach Teile gemeint.
+Jetzt ganz kurz. Hat jeder von Ihnen schon mal Muffins gebacken?
+Muffins? Also, Sie alle kennen das Standard Muffins Rezept, oder?
+Schokomuffins.
+Okay? Was brauchen Sie für Schokomuffins? Ein Rezept.
+Einerseits brauchen wir 100 Gramm Lehm, 100 Gramm Joghurt, 80 Milliliter Öl, 2 Eier, 100 Gramm Zucker, 50 Gramm Schokolade,
+Wir brauchen ein Däckchen Backpulver, eine Prise Salz, ein Waffelöl, dann in der Regel
+haben wir ganz häufig ein Bild von einem Waffel hier, wenn wir so umgehen wollen.
+Und dann kommt hier die Zubereitung.
+Oh, hier haben wir noch eine Zubereitung.
+Erstens, trockene Zutaten mischen.
+Zweitens, nasse Zutaten mischen.
+Drittens, alles mischen.
+Viertens, Ofen backen.
+180°C, 20 Minuten.
+Okay?
+So, haben wir Muffins.
+Jetzt, große Frage.
+Ihre Mama, Ihr WG-Mitbewohner, was weiß ich, Sie machen jetzt diese Muffins.
+Und Sie stellen plötzlich fest, wenn Sie in den Kühlschrank schauen, Eier sind leer.
+Jetzt schicken Sie jemandem Eier kaufen.
+Was bringt denn Ihnen mit?
+Das ist eine ganz dumme Frage.
+Was bringt der Ihnen mit, wenn Sie sagen, bitte kaufen Sie mir Eier?
+Bitte kaufen Sie mir Eier.
+Und wenn die Mama sagt, bringen Sie mir Eier mit.
+Was machen Sie dann?
+Genau.
+Jetzt sagen Sie schon wieder implizit was, was wir hier grundsätzlich machen, wenn wir über Eier reden.
+Was für Eier?
+Rauchereier?
+Wachteleier?
+Fischereier?
+Ja, Hühnereier, oder?
+Also für uns ist es so, wenn wir so ein Rezept lesen, dann lesen wir hier in der Regel Hühnerei
+Größe M, oder?
+Sowas lesen wir im Prinzip.
+Und das ist etwas ganz Wichtiges, wo wir uns in der Industrie klar machen müssen.
+Die Industrie, die kauft keine Schraube.
+Sondern bei einer Industrie muss die Schraube definiert sein, oder?
+Also eine Schraube kann alles sein, von M6 Normalgewinde, Kreuzschlitz, bis hin zu Schiffsschraube, oder?
+Das heißt, in der Regel gibt es da ganz häufig die Teilenummer 17, 38, 38, 15 oder 12.
+Und dann gehen Sie in die Datei rein und dann sehen Sie ganz häufig eine Zeitung sogar hinterlegen,
+eine ISO-Nummer, eine DIN-Nummer, einen Lieferanten für das Bauteil.
+Das heißt, wenn ich in der Industrie mit Teilen zu tun habe, müssen die ordentlich
+spezifiziert sein.
+Wir als Privatverbraucher haben ganz häufig implizite Vorstellungen, was sich dahinter
+verbirgt.
+So, und jetzt kommt es raus, wer schon öfter mal gebacken hat, was ist denn da für ein
+Öl gemeint?
+Was würden Sie für ein Öl nehmen?
+Sie schon?
+Also man könnte Erdnapsöl nehmen, man könnte Sonnenblumenöl nehmen, was würden Sie nicht
+nehmen?
+Olivenöl oder auch Kürbiskernöl.
+Würde wahrscheinlich richtig an den Händen losgehen.
+Also das heißt, wir gehen in der Regel als Privatpersonen, wenn man mit so etwas zu tun hat,
+implizit raus, zum Beispiel auch das Mehl. Waren Sie schon mal am Mehlregal?
+Da gibt es auch jede Menge.
+Da kann man sich auch ganz schön vergleichen, wenn man das verkehrt gesehen hat.
+So, und das ist genau das Thema mit dieser Teilidentifizierung Sachmarktmaler.
+Man muss sehr genau in der Industrie beschreiben, was meine ich denn damit.
+Und da gibt es zu jedem Sachverhalt mal eine Beschreibung der Hintergrunde.
+Also das heißt, es gibt einen sogenannten Materialstamm.
+Das heißt, es ist das Gut oder der Gegenstand, das eine Geschäftstätigkeit ist.
+Das kann sowohl das Verkaufsgut sein, als auch ein Einkaufsgut.
+Und es wird in Stammdaten angezeigt. Ich zeige das jetzt Ihnen beispielsweise an SAP.
+SAP gibt es eine Transaktion, die heißt MM03.
+SAP arbeitet inzwischen auch mit Apps, aber man kann auch mit diesen Transaktionsnummern arbeiten.
+Das heißt, zeige mir den Materialstatensatz zu einem gewissen Material.
+0,3 heißt nur angucken, 0,1 heißt anlegen, 0,2 heißt ändern.
+Wenn 0,2 ist, ist es was zum ändern, 0,1 ist anlegen, 0,3 ist nur angucken.
+Das heißt, wenn Sie irgendwo mal in der Firma sind, dann bekommen Sie meistens nur Rechte zum Anschauen.
+Das heißt, bei Ihnen funktioniert nur Transaktionen, die hinten tatsächlich eine 3 haben.
+So, dann, wenn man das anschaut, dann muss man hier erst mal sagen, was will ich angucken?
+Ich will das Material M-2100 anschauen und dann kann man sich deshalb ausführen, was interessiert mich denn genau.
+Ist es ein Material, das wir verkaufen, dann ist es natürlich ein Vertriebstext, mit dem ich mich interessiere.
+Oder ist es ein Material, das wir einkaufen?
+Es ist ja ein Unterschied, ob Sie das Auto verkaufen oder die Schrauben des Autos einkaufen wollen.
+Aber alles hat den Material.
+Und jetzt zeigt man das so an.
+Materialien müssen definiert werden.
+Erstmal sind es Stück, Meter, Kilogramm, Quadratzentimeter, Liter und so weiter und so fort.
+Also erst mal muss ich die Einheit definieren.
+Dann muss ich auch definieren, wie ich sage, was sind die Gewichte, der Volumen.
+Aber wenn ich jetzt eine kleine Insektsstaube kaufe, ist es ein Unterschied, als wenn ich eine Schiffsstaube kaufe.
+Deswegen sollte so ein Materialstand definiert sein, was das ist.
+Also die Sichtnähe, Grunddaten, dann Betrieb und so weiter, jetzt die Materialnummer angegeben, das Erzeugnis, die Mengeneinheiten,
+ich kann Warengruppen bilden, zum Beispiel alle Kleinteile zusammen, alle Bleche zusammen, alle Baugruppen zusammen und so weiter,
+eine Elektronik-Teile, eine Hydraulik-Teile und so weiter und so fort.
+Dann hier die wichtigen Blumen, das sind die Blumen, die wir erst versenden.
+Das ist ja selber der Unterschied, ob ich jetzt ein Gärner-Gerüst einkaufe
+oder ob ich jetzt einen Pappkarton zum Basteln einkaufe.
+Es wird alles anders verschieden.
+Dann kann ich mir zum Beispiel beim Einkauf anschauen, was ist die Basismengen-Einheit?
+Dann, wann werden Mahnungen verschickt, als Beispiel, also es ist beim Einkauf, wann kommen die Mahnungen?
+Dann hier zum Beispiel auch, was ist die Bearbeitungszeit im Wareneingang?
+Wenn es zum Beispiel ein kritisches Material ist und ich muss es erst prüfen,
+BQM, dann kann ich sagen, hängt zwei Tage Wareneingang.
+Dann wird das automatisch auch berücksichtigt in der Planung.
+Dann die Disposition, wie wird es disponiert, zum Beispiel kann ich sagen, manuell, planisch oder stochastisch, das hatten wir schon, wann und wie disponiere ich etwas.
+Dann gibt es einen Weltbestand, den kann ich eintragen, also wenn jetzt zum Beispiel mein Lagers unter 10 fällt, dann wird es hier angezeigt.
+Und dann auch, wie wird es disponiert. Wird es über das Tag, also wird es beim Ausbuchen
+verrechnet oder erst, wenn das Material fertig ist. Das kann ich alles eintragen.
+Also wird es schon verrechnet, wenn ich es aus dem Lagerregal rausnehme.
+Oder wird es erst verrechnet, wenn ein Bauteil schon gebaut ist.
+Das kann ich über SAP zum Beispiel aussteuern.
+Dann, Disposition 2, was ich geschaffen habe.
+Das ist Einkaufen, also Eigenfertigung und es ist fertig geschaffen.
+Das kann ich eingeben.
+Dann, wie ist die Eigenpratikumszeit?
+Wie ist die Planlieferzeit?
+All sowas kann ich eintragen.
+Um eben die Zeitplanung über SAP zu steuern.
+Also ich habe hier unendliche Möglichkeiten,
+wie ich etwas machen kann.
+Beziehungsweise einladen.
+Und all das bietet mir etwas.
+Dann hier für die Buchhaltung.
+Was ist der Durchschnittspreis
+oder Standardspreis für die Kalkulation?
+Das kann ich auch angeben.
+Also wird zum Beispiel bei Sinoval
+Sino-Ware immer Durchschnittspreis gemacht, oder kann ich sagen, ich kaufe es vielleicht
+günstig ein, aber ich möchte, dass im Verkaufspreis ein Standardpreis gerechnet wird.
+Sowas kann ich hier zum Beispiel hinterlegen.
+Und dann halt auch zum Beispiel die Gewichte hier nochmal, die Verfügbarkeitsprüfung,
+wie wird es transportiert, auf Paletten, in Gitterboxen, in Kartons, ist es vielleicht
+Wenn ich dann so ein Materialstamm habe, kann ich dann daraus Stiftlisten generieren.
+Stiftlist ist das, was in dem Rezept hier als Auflistung ist, was ich einkaufen muss.
+Und dann brauche ich noch Arbeitspläne, das ist die Zubereitungsart.
+So, die Betriebsmittel sind auch Standard.
+Das sind die Maschinen, die ich zur Verfügung habe.
+Die ändert sich auch nicht jedes Jahr, sondern die habe ich in der Regel 2, 5, 10, 20 oder sogar 50 Jahre.
+Je nachdem, was ich für Betriebsmittel habe.
+Und was sich auch nicht ändert, sind meine Kapazitätsplandaten.
+Weil das Jahr hat in der Regel 365 Tage und ich kümmerte mich als Firma um die fünf oder sechs Tage.
+Das heißt, da wird sich auch nicht viel ändern.
+Und das macht 24 Stunden.
+Ich werde auch nicht jeden Tag mein Schiffmodell ändern.
+Das heißt, das sind alles Standard.
+Zu den Bewegungstagen zählt Auftrag und Bestellung.
+Auftrag ist, was der Kunde zu mir gibt.
+Bestellung ist das, was ich zum Lieferanten gebe.
+Und das wird abgearbeitet und dann veraltet.
+Bewegungstag.
+Bewegungsdaten. Genauso Beständnisse in Bewegungsdaten, die ändern sich täglich, stündlich,
+minütlich, weil halt immer irgendwas verbraucht wird.
+Rohwiss, Betriebsstoffe, weil die zu unfertig erzeugt sind und weil die dann zu fertig waren.
+Und dann natürlich die Kapazitätsverfügbarkeit ändert sich.
+Das ist ein Unterschied zum Thema Planer.
+Der Tag hat 24 Stunden.
+Verfügbar an diesem Tag sind vielleicht nur 8 Stunden, weil nur eine Schicht anwesend ist.
+Oder sogar nur 6, weil ich so eine Krankheit habe usw.
+Also das heißt, die theoretische Verfügbarkeit bleibt gleich, was praktisch tatsächlich da ist, dass es verändert sich.
+So, und jetzt schauen wir auf die Stückliste.
+Wenn ich jetzt also den Materialstamm ordentlich definiert habe, kann ich Stückliste machen.
+So, eine Stückliste gibt an, aus welchen Baugruppen und Einzelteilen ein Produkt besteht
+und wie viele Mengeneinheiten dieser Baugruppe oder Einzelteile benötigt waren und eine Mengeneinheit
+des Endproduktes.
+Da gibt es ein ganz, ganz wichtiges Wort, und zwar eine Mengeneinheit.
+Eine Stückliste bezieht sich erstmal immer nur auf eins, außer es ist alles spezifiziert.
+Und da haben wir jetzt hier den Unterschied zum klassischen Rezept.
+Die Macke wird für zwölf Stück gemacht.
+Die Pizza für vier Personen.
+Okay?
+Und die Industrie wird erstmal für eins gemacht.
+Es ist ein Auto, es ist ein Sitz, es ist ein Ventil.
+Es gibt jedoch Ausnahmen, und zwar, wenn Ihr Produkt so klein ist, dass es sich nicht lohnt oder es ganz
+schwierig ist, so klein zu rechnen.
+Ein Beispiel Pins, also wenn Sie zum Beispiel so Elektronik-Pins von
+Wenn Sie zum Beispiel solche Elektronik-Pins nehmen, die werden in tausend Stück gerechnet.
+In der Lebensmittelindustrie, Sie alle kennen den Dosenfisch, der wird in hundert Stück gerechnet,
+weil der auch in der Mengenherstellung und Handling so kleinteilig geworden ist,
+dass man da auch in hundert Stück gerechnet hat.
+Und die Kabel auf Rollen werden häufig in 100 Metern gerechnet.
+Das ist die Ausnahme. Aber prinzipiell, wenn nichts angegeben ist,
+bezieht sich eine Stückliste immer auf ein Teil.
+Okay. Ein einziger Teil ist jedes noch so komplexe Teil,
+dass das Ganze fremdbezogen wird.
+Das heißt, SAP-technisch ist es egal, ob Sie einen Sitz vom Große kaufen
+oder eine kleine Staube vom Hoffmann. Beides wird als Einzelteil gemacht.
+Die Baugruppe gibt es erst dann, wenn im Unternehmen Einzelteile und andere Baugruppen zusammen montiert werden.
+Dann hat man die Baugruppe.
+Also das heißt, ein Sitz, den Sie zukaufen, ist ein Einzelteil.
+Ein Sitz, den Sie selber montieren, ist die Baugruppe.
+Es ist also immer Ihr Standpunkt, ob etwas Einzelteil oder Baugrube ist.
+So, die Stückliste wird erstmal in der Produktentwicklung erstellt.
+Grundlage dafür ist Arbeitsplanung und Zeichnung.
+Also in der Regel gibt es eine Zeichnung.
+Aus der Zeichnung wird dann eine Stückliste abgeleitet.
+Aber klar muss der Konstrukteur auch ungefähr wissen, was ist make or buy, was kann ich zukaufen, was kann ich selber machen.
+Ganz viele CAD-Programme können automatisch Stücklisten generieren.
+Sobald ich ein Produkt anpasse oder ändere, muss ich auch die Stückliste ändern.
+Sonst habe ich Planungsprobleme.
+Ein ganz großes Problem in der Industrie, ich komme aus der Automobilindustrie, wir haben sehr viele Änderungsstellen zu tun.
+Und da war es immer das Problem, dass die konstrukteurisch sehr faul waren, die Stückliste anzupassen.
+Und wenn Sie halt eine Schraube wegfallen lassen und eine Stückliste stehen für fünf Schrauben,
+Sie brauchen aber dann nur noch vier.
+Dann können Sie ausrechnen, wie schnell irgendwann Sie feststellen, oh mein Gott, das sind so viele Schrauben.
+Stücklassen lassen sich unterschiedlich darstellen.
+Am bekanntesten ist tatsächlich der Strukturbau.
+Mit dem fangen wir jetzt auch gleich noch an.
+Aber es gibt auch ganz viele tabellarische Darstellungen, die braucht eben SAP und diese ganzen Verwaltungsprogramme, die in der Tabelle verarbeiten.
+Damit werden Veranstaltungsverordnungen zum Baugrund und die Baugrundverordnungen zum Endprodukt deutlich.
+Aus der Stückliste abgeleitet, der Strukturplan zeigt, welche Erzeugungsbestandteile zu einer Stückzahl und andere Erzeugungsbestandteile eingehen, bis man am Ende das komplette Erzeugnis hat.
+Und dann die Stückliste hilft halt dann auch für die Mengenbestimmung, also im Prinzip die Einkaufsliste.
+Es ist genauso, wenn Sie drei verschiedene Kekssorten backen und Sie wollen dann einkaufen,
+dann rechnen Sie auch am Ende zusammen, wie viel Mehl Sie brauchen und kaufen nicht drei
+Mal Mehl ein, sondern einmal die große Menge.
+Aus der Stückliste kann ich verschiedenste Unterlagen ableiten.
+Einmal, was muss ich verdicken?
+Die Verdickungsstückliste.
+Zweitens, was muss ich montieren?
+Die Montagestückliste.
+Drittens, die Einkaufsstückliste. Was muss ich einkaufen?
+Dann eine Verwendungsnahweise machen.
+Also welche Bauteile sind wo eingegangen.
+Das ist vor allem für die Rückverfolgbarkeit und für Chargenbedingungen wichtig.
+Dann Mengengerüste kann ich aufbauen.
+Das heißt, die kann ich dann kalkulieren.
+Und ich kann auch aus den Stücklisten Arbeitspläne arbeiten.
+Einer der wichtigsten Folien, machen Sie da ein Ausrufezeichen hin, ein Pfeil, ein Blitz,
+färben Sie die rot ein, pink.
+Früher hätte ich gesagt, machen Sie ein Post-it hin.
+Jetzt machen Sie ein Lesezeichen hin.
+So, was wir hier haben, ist eine Erzeugungsstruktur, okay?
+Wir haben hier das Endprodukt E1.
+Das ist unser Endprodukt und es steht nicht dran, aber es ist immer einmal, okay?
+E1 ist einmal, wenn wir einmal haben, schreiben wir das nicht extra hin, sondern wir wissen
+es.
+Einmal E1.
+Dieses E1 besteht aus Baugruppen und Einzelteilen, also die erste Baugruppe, aus der es steht,
+ist das E1.
+Auch einmal steht keine Zahl dran, damit ist einmal E1 für einmal E1.
+Dann haben wir zweimal T1.
+Man könnte jetzt hier Malzeiten einsetzen.
+Aber dann sparen wir uns mal ein bisschen.
+Zweimal T1 ist eine Erleichterung.
+Dann besteht es aus der Baugruppe G2.
+Und zu guter Letzt aus T3.
+Und jetzt sieht man schon an der Nomenklatur hier, D ist eine Kuppel, T ist ein Eisenteil.
+In der Industrie gibt es das nicht ganz so einfach.
+Da muss man tatsächlich einen Stamm reinfugen, ob es ein Bauteil ist oder ein Eisenteil.
+Aber früher hat man sich schon in Mühe gemacht, Einzelteile anders zu benennen als Bauteile.
+Das ist aber über die Jahrzehnte verloren gegangen, weil so viel Melkerei gemacht worden ist.
+Die G1 besteht aus zwei Bauteilen, einmal aus 4xT1 und aus 1xT2.
+Und dann haben wir das G2, das G2 ist ein bisschen komplexer, das besteht aus G1, aber
+ganz wichtig, zweimal. Also ich brauche zwei G1 für einmal G2 aus T1 und aus T4. Und das G1,
+da brauchen wir jetzt nicht auf den Projektor schauen, das habe ich hier schon geschrieben,
+viermal T1 und einmal T2. Und ganz wichtig ist, das hier ist immer für einmal, das heißt ich
+Ich schreibe jetzt hier unten nicht 8 mal T1, sondern für einmal T1 brauche ich 4 mal T1.
+Das heißt für 2 mal brauche ich in Summe dann 8.
+Und wenn ich jetzt theoretisch die Baugruppe ändern muss, dann muss ich hier nur schreiben 3,
+die muss ich übrigens korrigieren. Das ist der Vorteil, wenn ich das so schreibe.
+Und das ist die Erzeugungsstruktur. Der Vorteil, für uns Menschen super einfach zu lesen.
+Der Nachteil, Maschinentechnik schwieriger zu verarbeiten, aufgrund von Datensamuellen usw.
+Aber das ist das, wie wir Stücklisten kennen. Und noch eine weitere Sache, Prozesse steigern von links nach rechts, Stücklisten von oben nach unten.
+Das heißt, eine Stückliste wird immer so geschrieben, von oben nach unten, nicht von
+links nach rechts.
+So, und jetzt kann man aus der Stückliste andere Darstellungsarten machen.
+Zum Beispiel eine Strukturstückliste.
+Eine Strukturstückliste war die erste wirklich gut maschinenlesbare Darstellungsweise für
+Rechner.
+Wie wird die gemacht?
+Das heißt, ich brauche hier als erstes eine Position, dann die Stufe, dann kommt als nächstes
+die Bezeichnung und dann die Menge.
+Was bedeutet die Stufe?
+Ich mache hier imaginär Stufenreihe.
+Das ist die Stufe 0, das ist die Stufe 1, das ist die Stufe 2, das ist die Stufe 3.
+Und jetzt müssen Sie wirklich ganz stupide und dumm von oben nach unten arbeiten.
+Das geht unter das E1, das wird nicht aufgeführt, weil das ist ja E1.
+Und jetzt laufen wir wie im Labyrinth hier runter.
+Also jetzt laufen wir wie im Labyrinth hier ab.
+Das heißt, ich laufe als erstes diesen Weg.
+Das Erste, was ich finde, auf der Stufe 1, ist die Bezeichnung G1 mit der Menge 1.
+So, dann laufe ich weiter.
+Auf der Stufe 2 finde ich das T1 mit 4.
+Ich bin am Ende. Ich laufe zurück.
+Ich bin hier. Es ist immer noch Stufe 2, T2 mit 1.
+Das Ende reicht.
+Damit habe ich den ersten Ast abgelaufen.
+Jetzt muss ich schauen, wo ich noch nicht war. Jetzt laufe ich wieder zurück, da war ich noch nicht.
+Auf der Stufe 1 T1 zweimal.
+Dann kommen wir hier.
+Auf der Stufe 1 G2 einmal.
+Auf der Stufe 2 G1 zweimal.
+Auf der Stufe 3 T1 viermal.
+Auf der Stufe 3 T2 einmal.
+Auf der Stufe 2, dann gehen wir zurück.
+T1 einmal.
+Auf der Stufe 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Und damit habe ich es dargestellt.
+Das ist also hier die Stufe-Schwitze.
+Und jetzt ist es ja wichtig, dass diese Stufen nicht durcheinander kommen, weil die Informationswerte haben.
+Deswegen muss ich hier Positionen drüber geben.
+Ich kann aus einer Strukturschriftliste eine Erzeugungsstruktur machen und aus einer Strukturschriftliste eine Strukturschrift.
+Beides sind gleichwertige Darstellungen, je nachdem wie gewachsen.
+Manchmal wird die Stufe nicht mit 1, 2 und 3 gekennzeichnet, sondern 1x, 2x, 1x, 1x, 1x, 2x, 3x.
+Also es gibt mehrere Darstellungsweisen.
+Also es gibt mehrere Darstellungsweisen, wie man diese Stufen benennt.
+Das ist das, was hier steht.
+So, ähnlich effizient ist die sogenannte Baukasten-Darstellung.
+Das ist meine Lieblingsstückliste.
+Die Baukassenstückliste, die schaut immer nur auf die nächste Stufe.
+Sie schaut immer nur auf die Stufe.
+Ich schaue mir erst mal diese Stufe hier an.
+E1 besteht aus 10 aus 4 Positionen,
+und zwar aus G1, T1, G2 und T3,
+und zwar hier 1, 2, 3, 1.
+Dann schauen wir G1 an,
+Aber jedes G1 besteht aus zwei Positionen, und zwar aus T1 und T2, mit 4 und 1.
+Und jetzt brauche ich nur noch G2.
+G2 besteht aus drei Positionen.
+Und damit habe ich das Ganze aufgezeichnet.
+Und das geht auch in beide Richtungen.
+Also die Baukassenstruktur geht auch in beide Richtungen.
+Die Auskleidung ist auch ganz schön.
+Das heißt, hier die zwei Genenbeilegungen.
+Und dann gibt es noch die Mengenübersichtstückliste, das ist die Shopping-Liste, das ist die Zusammenfassung
+der Liste, die wird sortiert hier nach einer Logik, in der Regel Alphabet oder Numerisch,
+also hier Baugruppen und dann Bauteile und dann wird hier aussummiert. Und dann ist halt hier
+wichtig, dass das hier nun eine Richtung geht. Sie können die Übersichtsstückliste nicht
+wieder zurücktransferiert in ihre Baukastenstücke, weil es Informationen gibt, die wir brauchen.
+So, bevor wir die Übung machen, möchtest du einmal eine Pause machen, oder?
+Pause bis Treffern und danach machen wir eine kleine Übung.
+Dann machen wir die Übung. Jetzt machen wir eine Pause bis drei Viertel.
+Kaffee für euch.
+Alles Gute.
+Maginia, also wenn man hier
+Ich denke, dass ich Ihnen das mal vorstellen möchte.
+Eins, zwei und drei.
+Und dann muss man einfach von oben nach unten durchgehen.
+Das heißt, ich gehe jetzt hier auf den 2A, das ist der hier,
+dann auf den B, das ist der hier,
+Dann noch den C hier, dann noch den kleinen C da, dann noch den kleinen C hier, dann noch
+den W hier, dann noch den E, C und A und dann noch den 4A mit den jeweiligen Strukturschritte.
+Damit nichts verloren geht, die Position verweigern.
+So, und der zweite Teil ist die Mengen-Übersicht-Stückliste, dann haben wir hier die Mengen-Übersicht-Stückliste,
+Ganz wichtig, die ist sortiert, das heißt hier haben wir die Sortierung, also in der Regel,
+wie gesagt, Alphabet, primärisch, die Positionsnummer ist deswegen nicht ganz so wichtig, wird aber
+auch ganz häufig auch mitgezogen und hier haben wir dann die aufwartierenden Mengen
+anrechnen.
+Also das heißt hier haben wir die 2A, hier, zweimal für 1,4,1, dann brauchen wir B dreimal
+Und jetzt für Groß-C. Für ein Groß-A brauchen wir drei Groß-C, d.h. für zwei Groß-A brauchen wir sechs.
+Also die Rechnung hier ist 2 mal 3.
+Für klein A sind wir hier 4x3 und hier 1x4.
+Also wir haben hier 8, klein A, 1xB braucht 4A, d.h. wenn ich 3xB mache, habe ich hier 12.
+und hier nochmal die 4, das sind die 16. Dann für b, klein b, ich brauche für ein
+Groß A 2, also für zwei Groß A 4. Dann für die kleinen c, 3 x 3 hier und hier 2 x 3 x 2.
+2 x 3 x 2, das sind 6 x 12, plus 3 x 3 x 9, das sind meine 21.
+Und für die kleinen D 3x3x2 und dann für die kleinen D 3x3.
+So und jetzt brauchen wir das ganze mal 300, das sind eben die produzierten Mengen-Einheiten.
+Dann hätten wir jetzt hier 600, 900, 1.800, dann hätten wir auch 3.600, hier haben wir 1.200, hier 21 mal 300 sind 6.100,
+Dann 18 x 7400 und hier unten haben wir mal Minus des Lager.
+Lager ist angegeben mit 1200.
+Hier sind 7.000 und hier sind es 15.000.
+Das heißt, hier hinten der Bedarf sind also 600, 900 und 1.800.
+Die müssen wir montieren, weil das ja Bauprozesse sind.
+Die müssen wir montieren, das hier ist eben das, was wir einkaufen müssen, das heißt hier 16 x 4.800, hier haben wir 3.600, hier müssen wir die 1.200 und hier ist es 0.
+Weil wir geben ja nichts zurück.
+Also wenn Sie einkaufen und Sie haben Nudeln übrig, laufen Sie ja nicht in den Laden zurück und geben die restlichen Nudeln zurück, oder?
+Das heißt, wir bedarfen Null.
+Und nicht den Nudelstrahl.
+So, sehen wir mal, heute wird es eine übungslastige Stunde, das ist gut für meine Stimme, machen
+wir das Ganze nochmal, obwohl es schwieriger war.
+Also nächste Übung, wenn Sie die haben können, die Übung.
+Wir haben jetzt hier zwei Bauteile, E1 und E2, in Strukturstücklisten.
+Strukturstücklisten.
+Worauf erkennt man Strukturstücklisten?
+Strukturstücklisten sieht man im Prinzip immer an diesen Stufen.
+Da sehe ich, dass es eine Strukturstückliste ist.
+Also ich habe hier eine Strukturstückliste, zwei Stück, E1 und E2.
+Erste Aufgabe ist Verzeugungsstruktur zu zeigen.
+Also zeigen Sie erstmal diesen Strukturbau.
+Das Zweite ist dann, machen Sie eine Mengenübersichtstückliste und berechnen Sie den Bedarf für die einzelnen
+Monate.
+Monat 1, Monat 2, Monat 3, Monat 4, Monat 5, Monat 6, Monat 7, Monat 8, Monat 9, Monat
+10, Monat 11, Monat 12, Monat 13, Monat 14, Monat 15, Monat 16, Monat 17, Monat 18, Monat
+zwei Stück G1 und G2. Erste Aufgabe ist Verzeugungsstruktur zu zeichnen. Also zeigen Sie erstmal diesen Strukturbau.
+Das zweite ist dann, machen Sie eine Mengenübersichtstückliste und berechnen Sie den Bedarf für die einzelnen Monate.
+Monat 1, Monat 2, Monat 3. Okay, das heißt es gibt drei Spalten, für jeden Monat den Bedarf berechnen, was Sie an G1, G2
+und an T3 und T1, T2, T3 und T4 bauen.
+Und wenn Sie dann noch Zeit haben, korrigieren Sie es um den Lagerbestand.
+Geben Sie es hin, können Sie mal zu zweit machen und dann machen wir es gemeinsam.
+Ich gebe Ihnen jetzt, weil es ein bisschen eine größere Aufgabe ist, 10 Minuten.
+Da mache ich Ihnen die Strukturzulisten hin, also die Zäune-Strukturen.
+Und dann machen wir die Weisung weiter.
+Ich finde es sehr faszinierend, dass Sie gar nicht hinstanden.
+Verlassen.
+Nicht schlecht.
+Wie funktioniert so etwas?
+3 in 1.
+Schnell.
+Ach, Christus.
+Ich würde mich freuen, wenn ihr mir ein Abo und ein Kommentar da seht.
+Das würde mich sehr freuen.
+Ich freue mich, wenn ihr mir ein Abo und ein Kommentar da seht.
+Ich freue mich, wenn ihr mir ein Abo und ein Kommentar da seht.
+Also das ist die Strukturstückliste, den Strukturwohnungen wollten Sie haben.
+Jetzt wollen Sie zum Ausschauen.
+Ich habe hier unten die Fleischaufgabe noch gemacht.
+So schaut es aus, wenn es die Baukastenstückliste ist.
+Es war jetzt nicht Teil der Aufgabe, sondern einfach, dass man aussieht,
+wie kompakt eigentlich die Baukastenstückliste ist.
+Versuchen Sie die Mengen mit den entsprechenden Mengen abzuleiten.
+Und wir beenden jetzt die ersten beiden Fragen.
+Ich hoffe, das Video hat euch gefallen, wenn ja, dann lasst mir ein Abo da und abonnieren und abonniert meinen Kanal, um mehr Videos zu sehen.
+Bewege den Pfeil auf den Ort, den du besuchen möchtest, und drücke den Pfeil wieder auf.
+So, dann schauen wir mal, also wieviel von die 1 Frauen sind in der Messe E1 produziert?
+Also, wieviel von G1 brauchen wir?
+Das heißt, wo ist überall G1 drin?
+Einmal ist 4G1, einmal und dann haben wir hier für 1G3 brauchen wir 2G1.
+Das heißt für 3G3 brauchen wir dann 6G1 und dann müssen wir noch 2G2 brauchen, dann sind wir bei 12.
+Das heißt bei G1 brauchen wir allein schon 13 Mal G1.
+Bei G2 spinnen Sie zweimal.
+So, G2.
+Und hier ist es relativ einfach.
+Bei G3.
+Wie viele T3 brauchen Sie?
+Sechsmal, genau.
+Und dann T1, das ist China.
+Genau, 41.
+Haben Sie T2 auch noch?
+Das ist das Erste, was wir machen müssen, d.h. wir haben jetzt erstmal die Stückzahlen
+für die Einzelnen.
+So, und jetzt rechnen wir noch für die Monate.
+So, was wissen wir jetzt hier?
+Zurück. Wir wissen, dass wir im Monat 1 20 mal E1 produzieren und 20 mal E2.
+Das heißt, wir brauchen 20 mal 3 Xen, das sind 260, und 20 mal 2 sind 40, das heißt
+hier müssen wir 300 produzieren bzw. 300 montieren, das ist eine Baureihe.
+Dann, also wir können hier die 1 gleich 20 und die 2 gleich 20.
+So, dann haben wir hier 40.
+Hier haben wir 6 mal 20 sind 120.
+41 mal 20 sind 820.
+Plus 6 mal 20 sind 120.
+Das heißt, wir haben hier 940.
+32 mal 20 sind 640 und 4 mal 20 sind 80, sind 725.
+Hier haben wir 80 und hier haben wir 325.
+Also man könnte z.B. so eine imaginäre Linie durchziehen.
+Die Baugruppen sind, was wir montieren, die Teile sind, was wir kaufen.
+auf. Monat zwei produzieren wir von E1 über E15 Stück und von E2 über E25 Stück.
+Also hier haben wir dann 245, also 13 mal 15 plus 2 mal 25,
+Dann haben wir hier 2x15 sind 30 und 6x15 sind 20.
+Dann 41x15 plus 6x25 sind 765.
+32x15 plus 4x25 sind 418.
+4x15 sind 16 und dann haben wir hier noch 13x15 und 3x25 sind 2x25.
+Ich zeige Ihnen dann mal, warum ich da noch Platz lasse.
+Und dann nehme ich auch noch Platz.
+So, und hier haben wir dann die 1-Parma-Zimmer und die 2-Produktion-Zimmer.
+Das heißt, wir haben 130 plus 30 sind dann 116.
+2 x 10 sind 20, 6 x 10 sind 60,
+dann 41 x 10 sind 410, plus 6 x 15, dann haben wir auch 500.
+320 plus 60 sind 380,
+dann haben wir hier 40,
+Das sind die roten Sekundären Karten.
+So, jetzt haben wir hier eine Baugruppe auf Lager.
+Wenn man Baugruppen auf Lager hat, dann muss man auch die Zukaufsteile reduzieren.
+Das ist genauso, wenn Sie beschließen, Sie wollen Pizza machen.
+Wenn Sie Pizza in Basis machen, dann müssen Sie Mehl und Tomaten kaufen.
+Wenn Sie eine Tiefkühlpizza haben, brauchen Sie keine Begegnung, keine Tomaten, oder?
+Das heißt, ich muss jetzt hierher gehen und sagen, aus was besteht dieses G1?
+Und zwar ein G1 besteht aus drei T1 und aus zwei T2.
+Das heißt, wenn ich 100 G1 habe, dann sind das automatisch auch 300 T1 und 200 T2, oder?
+Und das heißt, ich muss hier korrigieren, einmal minus 100, das heißt, hier muss ich
+nur 200 einkaufen. Dann muss ich T1 korrigieren, minus 300 sind dann nur 640 und hier muss
+ich minus 250 rechnen, weil ich 50 hier habe und 200 hier. Und dann komme ich hier auf
+400 und 70.
+Ähnliche Berechnung hier, minus 100, das sind dann hier 60.
+Dann minus eben die 300 für
+Und da habe ich dann eben die 200, die ich abziehe, und nochmal 200, das heißt hier
+muss ich 400 abziehen.
+Und das sind dann Null wieder als Bedarf.
+Okay?
+Also ich schreibe hier nicht Minus 20, sondern ich schreibe hier einfach 0, kein Gedanke.
+Wenn Sie Baugruppen auf Lager haben, dann brauchen Sie auch die Bauteile nicht kaufen.
+Nein, nicht zurückbauen, das heißt, da müssen wir weniger notieren, ich habe hier eine Montage abgezogen und die habe ich hier im Einkauf aufgezogen, das heißt ja nicht, dass sie sich zurückbauen, sondern ich brauche die Baugruppe ja hier im Einkauf.
+Was sie ja nicht machen können, ist, sie können jetzt nicht sagen, hier bei der T1, dass sie sich für was anderes verwenden, die sind schon verbaut.
+Es hat nichts mit dem Baum zu tun, es hat nur mit Ihrem Einkaufsstück zu tun.
+Wenn Sie schon Tiefkrieg bezahlen, müssen Sie in den KW kaufen.
+Das heißt aber nicht, dass sie Viren haben zuhause.
+So.
+Alle abgeschüttet?
+Ja.
+So.
+Alle abgeschüttet?
+Alles klar, vielleicht.
+Na gut.
+Ja, das war's.
+Ich hoffe, es hat euch gefallen.
+Wenn ja, dann lasst uns ein Abo da.
+Und wenn ihr noch mehr Videos sehen wollt, dann klickt hier unten.
+Und dann sehen wir uns beim nächsten Mal wieder.
+Bis dahin, bis zum nächsten Mal.
+Diese Aufgabe ist mehr oder weniger auch in der Tiefenvorbereitung drin, also Sie sehen
+So langsam kommen Sie in die Bereiche, in denen Sie die Typen verbessern können.
+Und zwar, wenn Sie hier auf die Typen 2 gehen.
+Da ist eine Aufgabe dabei.
+Aufgabe 3, und zwar haben Sie hier die Baukassenstückliste, die Main-Übersicht-Stückliste usw.
+Da ist dann auch erstmal die Erzeugungsstruktur zu zeichnen und dann auch hier die monatsgenauen
+notwendigen Baupunkte G3 und G4.
+Das ist jetzt hier bei Aufgabe 3, Nummer 2 können Sie jetzt auch schon machen, falls Sie mal dabei sein wollen.
+Gut.
+Diese Stücklisten, das ist, wie gesagt, ein formal aufgebautes Verzeichnis für den Gegenstand mit allen zugehörigen Bestandteilen, Menge, Einheit und Bezeichnung.
+Und SAP macht das sehr viel automatisch, hilft halt nicht, man muss halt verstehen, was da drin steht.
+Wenn Sie sich eine Stückliste bei SAP anschauen wollen, dann brauchen Sie die Transaktion CS03, also Stückliste Anzeige von 03 zur Transaktionsquote.
+Wir wollen jetzt die Stückliste von M21 mal anschauen und dann sieht man jetzt hier bei SAP, die schaut dann so aus.
+Also Fussteil, Stahl ergibt die Gruppe zwölf.
+Das ist hier so dieses, aus was das Ganze besteht.
+Dann, Moment, sieht man das, also die Materialstücklisten, was da drin ist, was da verbaut wird und die Stücklisten-Auflösung ist eben der Bedarf, den man braucht.
+Die Einkaufsliste, die der Disponent erzeugt und einen Einkauf schickt, was dann auch tatsächlich eingekauft werden muss.
+Das ist, wenn die bedarfsgenaue Steuerung ist.
+Wenn es allerdings aus dem Lager ist, dann kann ich damit einen schönen Vorkass machen.
+Also genauso wie wenn Sie jetzt sagen, Sie wollen jetzt für den Party oder irgendein Essen was planen, machen Sie auch eine
+Schnittliste in Einkaufszettel, wird halt hier dargestellt.
+Ein Beispiel ist zum Beispiel hier diese Auflösung hier, das sehen Sie hier, die Stufen, und das ist eine Stücklisten-Auflösung mit Stufen.
+Und wem die Darstellung nicht gefällt, der kann sich, wenn er möchte, auch bei SAP so eine Struktur anzeigen lassen.
+Das macht SAP auch als Grafik, also sozusagen Dienstleistung am Menschen, dass der Mensch auch sieht, wie so eine Struktur ausschaut.
+Aber damit arbeitet SAP nicht.
+Also SAP arbeitet halt mit dem hier.
+Oder, was man sich in SAP natürlich auch anzeigen lassen kann,
+das ist eine Baukassenstückliste.
+Hier, sowas ist die Baukassenstückliste von dem.
+Also SAP bietet all diese Darstellungsmöglichkeiten an
+und man muss halt nur wissen, wie man sich das anzeigen lässt.
+Also CS11, CS03, CS-Ding oder S-Grafik.
+Das kann man sich alles anzeigen lassen.
+So, und damit haben wir schon zwei wesentliche Bestandteile der Produktionssteuermöglichkeiten gelernt.
+Erstmal der Materialstamm, in dem wir definieren, was ist unser Grundmaterial, wie wird es definiert, wie werden wir es lagern, was sind die Größen usw. usf.
+Und dann eben, dieser Materialstamm wird aufgebaut zu sogenannten Stücklisten.
+Die wird unterschiedlichen Darstellungsweisen.
+Damit wir jetzt daran produzieren können, brauchen wir jetzt noch die Arbeitsplanung.
+Okay? Und das ist jetzt das nächste Kapitel, die Arbeitsplanung. Was macht die? Wir waren
+über Vorgabezeiten reden, wir waren über Zeiten in Werkstattfertigung und in Fließfertigung.
+Der Arbeitsplan ist Ergebnis der Arbeitsplanung. An jeder Firma brauche ich jemanden, der den
+Link herstellt, die Verbindung zwischen ich habe eine Zeichnung und das ist mein fertiges
+Produkt. Frage, wenn ich Ihnen die Zutaten für eine Schwarzwälder Kirschtorte hinlegen würde,
+wer von Ihnen könnte eine Schwarzwälder Kirschtorte tatsächlich backen?
+Sie bräuchten einen Arbeitsplan dazu, oder? Und es muss also Leute geben,
+die diese Arbeitspläne entscheiden. Und das ist die Arbeitsplane. Wenn ich jetzt in der
+Serienfertigung. Dann wird das einmal zu Beginn dieser Serienfertigung gemacht. Dann wird der Arbeitsplan geschrieben und der wird dann immer wieder wiederholt.
+Wenn ich in der Projektfertigung bin, dann wird es schon schwieriger. Da brauchen sie eben Leute, die jeden Tag sich fragen, wie produziert werden die Produkte.
+Also ein Beispiel, wo ich gearbeitet habe, das ist die Firma Goldhofer. Die bauen ja immer wieder neue Produkte.
+Da ist ja selten ein Fahrzeug so wie das andere und da muss der Arbeitsplaner für jedes Produkt den neuen Arbeitsplan schaffen.
+Der muss sich überlegen, wie mache ich denn das überhaupt? Wie überlege ich denn die Hydraulikleitung?
+Mache ich das als erstes oder als zweites?
+Welche Standspezialität brauche ich denn da? Wie muss es gebogen werden? In welcher Reihenfolge montiere ich denn das Ganze?
+Das heißt, ich brauche jemanden, der dieses Bindeglied macht zwischen dem Einzelteil und dem Rohmaterial zu dem, was es tatsächlich dann sein soll.
+sein soll. Und das ist eben ein entscheidendes Bauteil oder ein entscheidendes Bestandteil,
+wie ich produziere. Der Arbeitsplan wird generiert aus Zeichnung und Stückliste. Also im Prinzip
+zeige ich einem Arbeitsplaner die schwarz-weiße Kirschfotter und die Zutatenliste und der macht
+draus die Zubereitungsweise. So, für was brauche ich denn den Arbeitsplan? Ohne Arbeitsplan geht
+Arbeitsplan ist ein extrem wichtiges Dokument in jeder Firma.
+Erstens braucht es für die Herstellung von Produkten Bauprodukte.
+Einfach die Anweisung, wie was gemacht wird.
+Dann steht auch drin, wie Material eingestellt werden soll.
+Dann hilft es mit dem Puffer zu planen.
+Denn Arbeitsplan steht in der Regel wie immer eine Stückzahl drauf.
+Und wenn da 30 draufsteht, dann weiß ich natürlich, ich muss das alles mal 30 machen.
+Ich brauche die Materialien mal 30.
+Dann, für Betriebsmittel, da steht auch immer drin, z.B. das soll ich auf einem Drehzentrum machen.
+Das soll ich auf einer Säge machen.
+Das heißt, da steht immer ein Betriebsmittel drauf.
+Vielleicht haben Sie schon mal ein Rezept aufgeschlagen und da steht drin,
+jetzt brauchen Sie einen Dampfgare und Sie denken, den habe ich gar nicht.
+Klassisch, wenn Sie Sushi machen wollen.
+Jetzt nehmen Sie die Sushi-Rolli, habe ich nicht, als Beispiel.
+Also das ist so das große Problem, wo man halt das immer hat.
+Man muss natürlich in so einem Arbeitsplan auch die Maschinen verwenden,
+die man in der Firma hat.
+Und dann auch Materialflussplanen.
+Dann wird das verwendet für die Standardisierung und Produktoptimierung.
+Weil wenn jetzt zum Beispiel ein Entwickler sieht,
+ach, da muss ich noch eine Phase machen oder so weiter.
+Das dauert ja zehn Minuten.
+Vielleicht kann ich mir die Phase irgendwie sparen.
+Dann kann ich Schichtplanung, Betriebsmittelbestand, Invektionsplanung machen, weil ich Zeiten
+da drin stehen habe, da komme ich später noch drauf.
+Ich kann auf Basis dessen kalkulieren und das ist auch der Grund, warum man Arbeitspläne
+selten online findet.
+Also jedes Mal, wenn ich nur so mal gucke, alle Jahre, Arbeitsplan bei Google oder sonst
+was, ich finde keine Arbeitspläne.
+Warum?
+Weil nämlich ich mir zum Arbeitsplan Kosten ausrechnen kann.
+Ich kann Stundensätze hinterlegen und dann weiß ich, wie lang das kostet.
+Dann kann ich, wie gesagt, Kalkulationen machen, Preise gestalten.
+Ich kann Wirtschaftlichkeitsrechnungen machen.
+Ich kann Verliebungsaufträge zum Arbeitsplan bestellen.
+Terminierungen machen, weil ich ja plötzlich Zeiten habe.
+Transporte, Steuer und Material bereitstellen.
+Also das ist mal so ein typischer Arbeitsplan.
+Absegenplan B, Zweite-Seite-Plan B, Ansätze zwischen Spitzenlampe B und Vierkant-Gesenkraten-Koord.
+Was steht drin? Welcher Maschinenraum muss? In der Regel, welches Werkzeug ich brauche.
+Dann, was die Rohlenge sind. Dann steht die Stückzahl in der Regel drin.
+Die Zeichnungsnummer, die dazugehören. Was denn tatsächlich für ein Bauteil ist.
+Und hier die Bearbeitungsdauer.
+Da gibt es zwei wesentliche Unterscheidungen, TR und TE.
+Warum brauche ich das? TR ist die Rüstzeit.
+Die bezieht sich immer auf den Auftrag.
+Und TE ist die Einzelzeit.
+Die bezieht sich immer auf ein Bauteil.
+Das heißt, wenn ich wissen will, wie lange diese Arbeit schon dauert,
+muss ich eben mal schauen, Rüsten 10 Minuten,
+plus 1,5 mal 30.
+Das ist dann die Dauer für diesen Arbeitsgang.
+Also 45 Minuten hier.
+Das hier sind 45 Minuten.
+Und das da und das da.
+Und plus 10, das heißt der Arbeitsgang dauert 45 Minuten.
+Und jetzt sieht man auch schon, wo man sehr viel komplizieren kann.
+Je größer die Stückzahl wird,
+Umso weniger fällt die Rüstzeit pro Teil ins Gewicht.
+Das heißt für mich als Arbeitsplaner sind große Stückzahlen toll,
+weil dann muss ich nicht aufs Rüsten aufpassen.
+Allerdings belege ich dann die Maschine eine Stunde,
+zwei Stunden, drei Stunden, vier Stunden und bin dann weniger flexibel.
+Wo die Zeit herkommt, da kommen wir später noch drauf.
+So, was macht die Arbeitsplanung, was macht die Arbeitssteuerung?
+Die Arbeitsplanung, die überlegt das mal, was machen wir denn hier eigentlich?
+Was ist make or buy?
+Womit macht man das?
+Wie macht man das?
+Sie wissen alles selber.
+Ich kann auf unterschiedlichsten Arten bestimmte Produkte herstellen.
+Ich kann das Stand bieten.
+Ich kann was ausfräsen.
+Ich kann aus unterschiedlichsten Materialien herstellen und habe eben unterschiedliche Bearbeitungsvorgänge.
+Aber die Arbeitsplanung sagt was.
+Und dann habe ich einen Arbeitsplan.
+Und sobald ich Termine hinterlege, habe ich einen Verdienungsauftrag.
+Ein Arbeitsplan mit Terminen ist ein Verdienungsauftrag.
+Das heißt, wenn man das genau nimmt, ist das eigentlich ein Verdienungsauftrag,
+weil nicht da ein Termin drinsteht.
+Okay?
+Was macht die Arbeitsplanung?
+Ich habe mir so ein paar Stellenanzeigen ausgesucht.
+Das Problem mit der Arbeitsplanung ist, die hat keinen festen definierten Begriff.
+Das heißt, es gibt keiner, der sagt Arbeitsplanung muss immer Arbeitsplanung heißen.
+Die gibt es in den geschriebenen Namen.
+Wann heißt eine Arbeitsplanung ein Verlegungsplan?
+Was ist die Aufgabe?
+Konzepterstellung und Planung von komplexen Fertigungsanlagen, Termin- und Kostenüberwachung,
+Leitung der Anlaufbetreuung, Entwicklung und Planung von automatisierungsgerechten Verpackungen
+und dann Mitarbeit im Arbeitsablauf und Arbeitsplatzgestalt.
+Oder, hier heißt es Prozestechnologie, dann hier Fertigungskonzept der Arbeit, Fertigungsmaschinen
+Erstellung von Arbeits- und Pflegeplänen, Fertigungskontrolle,
+noch eine Stellanzeige, Arbeitsvorbereitung, Pflege von Standard,
+Neuplanung, Arbeitsgänge und Arbeitsfolge, Ermittlung von Vorlagezeiten,
+noch eins, genau, Arbeitsplanung hier, Planung von Arbeitsfolge,
+Geduldsmittel, Zeitrahmen, Prämisse, Zeichnung, Festlegung von
+Arbeitsgängen unter Berücksichtigung von Fertigungs- und Montagetechnische
+und Pflegeschaftlicher Erkenntnisse, Erstellung von Pflegeplänen,
+Führung von Arbeitsplänen auf Verbesserungspotenzial, Ausarbeitung zur
+vergebungsgerechten und tagegerechten Steigerung von Bauteilen, Unterstützung von Mitarbeiterinnen und Mitarbeitern, das waren alle.
+Das heißt, die Aufgaben sind eigentlich sehr breit gerecht.
+In der Regel arbeiten in der Arbeitsplanung Leute, die Vergebungsverfahren haben.
+Weil die ja wissen, wie man was herstellt.
+Arbeitspläne erstellen, Stückliste erstellen, Auftragszentralesignierungen machen,
+das heißt, ich mache einfach Termin-Schienen, wo noch kein Datum dahintersteht.
+Machen wir später auch. Dann Fertigungszellen planen.
+Dann Arbeitsvorgänge, machen wir da ein kleines Beispiel dazu.
+KVP-Projekte. Dann Vorgabezeichen ermöglichen.
+Konstruktion von Sonderfertigungshilfen.
+Das ist, wenn ich dann zum Beispiel eine Aufnahme brauche,
+wenn ich was bohren muss, dass ein Bauteil nicht abhaut,
+Da muss ja irgendjemand diese Aufnahmen planen.
+Lagerortplanung, Lager- und Sortenplanung, dann Planung von Anlagen, Entwicklung von
+Fertigungsmethoden, Entwicklung von Planungsmethoden und so weiter, Fortkalkulationen machen wir
+und so weiter, Qualitätsplanung, das heißt, ganz, ganz viele Arbeitsplanung und, wie
+gesagt, ganz viele Synonyme für diesen Arbeitsgang.
+Keine Firma ist verpflichtet, es immer Arbeitsplanung zu machen, das heißt, wenn Sie so einen
+wollen, sind das so Synonyme, nach denen Sie es benutzen.
+Okay? Also, falls Sie immer sagen, Arbeitsbedarf ist ein toller Arbeitsbereich, dann sind das
+die Synonyme. So, was jetzt zum Beispiel hier ist, ist die Arbeitsfolge-Eröffnung.
+Ich möchte jetzt Ihnen ganz kurz zeigen, wie das funktioniert.
+Also, das heißt, Sie haben eine Zeichnung und eine Stücke.
+Geben Sie gleich eine Zeichnung und eine Stücke.
+Was muss man als erstes machen?
+Man muss erst einmal überlegen, was ist mein Auswärtsmaterial?
+Sie können es ganz einfach machen und sagen, ich kaufe alles zu.
+Aber wenn Sie jetzt so ein Foto von einer Pizza haben und Sie haben die Stückliste, aus was die Pizza sein sollte,
+also in dem Fall Teig oder Mehl, Wasser, Hefe, Tomaten, dann können Sie sich schon ganz klassisch definieren, was passieren muss.
+Also erst einmal, was ist das Rohmaterial? Dann überlegen Sie sich, welches Arbeitsgebiet dahinter steht.
+Dann überlegen sie sich, in welcher Weichenfolge sie das machen müssen und dann überlegen sie sich, auf welchen Betriebsmitteln sie das machen müssen.
+Dann überlegen sie sich, wie lange das dauert und dann vielleicht noch, was für eine Art von Mitarbeitern sie machen.
+Wir machen das jetzt einmal am Beispiel.
+Haben wir hier in den englischen Zeiten möglich gemacht.
+Und sie wissen, sie bekommen eine Stange als Rohmaterial.
+Jetzt überlegen Sie mal, wie Sie von der Stange zu diesem Boll zu kommen.
+Zu kaufen.
+Gibt es mehr Möglichkeiten?
+Und jetzt sagt man schon, es hängt massiv davon ab, was in Ihrer Fertigung steht.
+Wenn Sie ein Bearbeitungszentrum mit der automatischen Zuführung haben, dann machen Sie das alles
+auf dem Bearbeitungszentrum.
+Wenn Sie eine kleine Werkstatt sind, die einfach nur eine Säge hat, eine Bohrmaschine und
+eine Drillmaschine, dann müssen Sie mehrere Schritte machen.
+Ich habe hier mal zum Beispiel, das erste, was ich mache, ich säe es ab auf die entsprechende
+Länge.
+Das zweite, was ich mache, ich drehe die entsprechenden Dicken ab, die entsprechenden Durchmesser.
+Dann bohre ich das Loch und zu guter Letzt schleife ich noch hier, weil das eine besondere
+Feinheit braucht.
+Aber vielleicht haben Sie auch eine Maschine, die das direkt schafft.
+Und es ist auch nicht kräftiger zu bohren, bevor Sie gedreht haben, oder?
+Trinkt nix.
+Genauso wie Sie den Teig backen, bevor Sie ihn gedreht haben.
+Ich meine, rein logisch ist es ja nicht, dass ich lackiere ganz am Anfang, dass ich Karosse ganz am Anfang lackiere.
+Warum?
+Kann ich über den Montageprozess verkratzen.
+Aber es ist technisch notwendig, weil Sie den Motor nicht mitlackieren können.
+Sie können ja den Motor nicht in die Tau-Lackierung bringen.
+Dann ist sofort ein kaputter Motor.
+Deswegen muss man sich immer überlegen, was es die richtigen Reihenfolge gibt.
+Und das hängt halt mit dem Verbau zusammen, mit der Zugänglichkeit, mit den Fertigungsmitteln,
+also vom dreckigen ins saubere, nicht andersrum, vom groben ins feine.
+Aber es gibt ja nach Hessen auch, wie gesagt, nach Kiel, nach Antwerpen.
+Und das ist etwas, was man halt machen muss.
+Und das ist ja ein ganz einfaches Beispiel.
+Da gibt es dann auch ein einigeres komplexeres Beispiel.
+Beispiel. So ein Arbeitsplan, wie gesagt, auch wieder
+SAP, Transaktionsnummer CA03, hat eben unterschiedlichste
+Ausprägungen. Hier ist zum Beispiel so ein Arbeitsplan,
+da steht jetzt drin, Endmontage 1, Endmontage 2, Prüfung, Packung.
+Und dann bleiben da Zeiten hinterlegt. Bei der Montage braucht man
+in der Regel keine Hilfszeiten, aber da hat man dann Einzelzeiten.
+ist dann ein Prozess wie z.B. hier, Drehen, Fläsen, Streifen, Lackieren, Trocknen.
+Prozesse von links nach rechts, Stückwissen von oben nach unten.
+Und die Aufgabe der Produktionsplanung ist dann erstmal mit der Kapazitätsmengenbezogen
+Planung und Steuerung der Partikelmontagegröße.
+Also es ist einfach die Projektleitung im kleinen, im täglichen Sinne.
+Es ist nicht, ich mache ein großes Projekt, sondern ich mache viele kleine Aufträge, die ich kombiniere.
+Und im Rahmen einer Fließfertigung baue ich halt einmal eine Fließfertigung auf und hoffe, dass die läuft.
+Im Rahmen einer Werkstattfertigung, da wird es natürlich schon schwieriger, weil ich viele kleine Aufträge zeitlich abstellen muss.
+Während die Produktionsplanung den Inhalt und die Einzelprozesse der Fertigung und der Montage zu gestalten hat,
+regelt die Produktionssteuerung den Ablauf der Tätigkeiten in der Fertigung im Rahmen der Auftragsentwicklung.
+Dabei regelt die Produktionssteuerung, wann unter Berücksichtigung der Vorgaben der Produktionsplanung,
+einerseits der vorgegebenen logistischen Zielgrößen,
+andererseits wenn Teilprozesse, wenn Leitfolge, wenn Produktionsfaktoren anspruchen.
+Das heißt, ich muss planen, wann muss jetzt dieser Auftrag auf die Fräsmaschine, wann muss dieser Auftrag auf die Bohrmaschine, wann muss dieser Auftrag in die Endmontage?
+Und das muss nacheinander geplant werden.
+Das ist die Aufgabe der Steuerung.
+Und Ziel ist natürlich, dass Termine eingehalten werden, hohe Termintreue, dann eben, dass alle Kapazitätseinheiten Arbeit haben.
+Also wenn ich einen Mitarbeiter habe, der an der Drehmaschine steht, der soll natürlich auch arbeiten und nicht für das Umstehen bezahlt werden.
+Dann soll natürlich alles so schnell wie möglich durchlaufen.
+Also ich möchte ja nicht auf einen Auftrag 30 Tage warten.
+Ich möchte wenig Bestände bei mir haben und ich möchte eine hohe Flexibilität.
+Und das sind immer so ein bisschen die Schwierigkeiten, die wir haben.
+Da kommen wir später nochmal drauf, wenn man genau über Termine geht.
+So, jetzt habe ich etwas bisher immer außen vor gelassen, was ganz wichtig ist.
+Wenn ich in den Arbeitsplan schaue, stehen hier Vorrangzeiten.
+Wo kommt die her?
+Was glauben Sie, warum steht jetzt hier bei Born 2 Minuten 30?
+Wo kommt die Zeit her?
+Erfahrungswerte?
+Erfahrungswerte, genau.
+Was noch?
+Das ist eine Fließmaschine, die nicht um die Oberhaube drückt,
+sondern sehr klein um die Geschwindigkeit.
+Genau, da kann ich die Verbrauchsheit auswählen.
+Was noch?
+Das ist eng.
+Einfach um die Geschwindigkeit.
+Also sobald ich hier um Maschinen was habe, tue ich mir relativ leicht, ich kann tatsächlich
+die Zeit an der Maschine stoppen, auslesen über das Programm oder halt dann sagen, ja,
+ich weiß einfach aus meiner Erfahrung, ich kann mit dem Vorschub etwas reinbohren.
+Sobald ich jedoch hier Menschen habe, z.B. von Hand, tue ich mir schon schwer, bei Menschen
+Menschen arbeiten unterschiedlich schnell und da habe ich damit kein Problem.
+Und deswegen hat sich über die Zeit ein sehr großes Regelwerk über diese Vorgabenzeiten
+geübt.
+Was ist die Vorgabenzeit?
+Vorgabenzeiten sind Sollzeiten, die Arbeitskräften und Betriebsmitteln zur Verfügung gestellt
+werden, Arbeitsaufgaben an Arbeitsobjekten durchzuführen.
+Also wenn Sie ein Rezeptbuch aufschlagen, da steht dann auch drin, keine Ahnung, Sie
+machen Gulasch, 3 Stunden bei so und so viel Grad kochen.
+Macht Ihnen jemand für den Pulled Pork?
+Irgendjemand zum Smoker-Mensch?
+Was für Zapfelzeiten haben Sie da?
+Dann kommt es dann sehr stark auf die Temperatur an, oder?
+Also man kann sagen, ich mache 8 Stunden bei 150 Grad oder was weiß ich, keine Ahnung,
+Oder Sie lassen es 24 Stunden bei 100 Grad, oder?
+Das heißt, da gibt es Erfahrungswerte.
+Aber was ist die solche Zeit?
+Was ist eine sinnvolle Zeit?
+Das ist tatsächlich, wo man das Optimum herausfinden muss.
+Das ist dann die Vorgabezeit.
+Kann man Versuche machen, vor allem wenn es im technischen Bereich geht.
+Bei Menschen hat man sich irgendwann mal darauf geeinigt,
+es gibt eine sogenannte 100%-Leitung.
+Also man hat im Prinzip gesagt, Menschen sind in der Lage, eine 100%-Leistung zu erbringen.
+Das ist der sogenannte Durchschnittsmatch.
+Ich brauche die Vorgabezeit für die unterschiedlichsten Sachen, einerseits um den Betriebsmittel zu
+planen.
+Wenn Sie die Vorgabezeit verkehrt annehmen, dann planen Sie auch den Betriebsmittelverkehr.
+Also angenommen, wie lange braucht man noch von Kempten nach München ganz grob mit dem Auto?
+Ja, eine Stunde und 40 Minuten ungefähr.
+Zum einfachen Rechnen sagen wir jetzt einfach mal zwei Stunden.
+Das heißt, wenn Sie einen Acht-Stunden-Tag hätten, dann könnten Sie zweimal nach München fahren und zurück, oder?
+Wenn jetzt diese Vorgabezeit verkehrt angenommen wird,
+wir sagen jetzt nicht, wir gehen vor zwei Stunden aus, sondern vor vier Stunden,
+dann hätten wir nur noch einmal in München umzugehen.
+Und deswegen ist Vorgabezeit so wichtig.
+Würde ich sagen, also, zwei Stunden, das sind Sie ja eine lange Enze, ich finde, Sie können eine Stunde in München sein,
+dann müssten Sie ja meiner Rechnung viermal nach München fahren umzugehen, oder?
+Deswegen ist Vorgabezeit so wichtig.
+Die Vorgabezeit sagt an, wie oft wir etwas schaffen können.
+Und ich als Firmenchef möchte natürlich eine möglichst kurze Vorgabezeit haben,
+Das ist mein Produkt-Schneller-Friend.
+Das heißt, wenn es an mir gehen würde, als Firmenchef,
+würde ich dafür sorgen, dass in diesen Arbeitszählen
+so eine geringe Zeit wie möglich drinsteht.
+Sie als Mitarbeiter, was hätten Sie dann für eine Zeit?
+So lange wie möglich, oder?
+Und das aber mit einem Interessenskonflikt.
+Damit dieser Interessenskonflikt nicht aufbricht,
+hat man hier Methoden gefunden,
+dass man Fährezeiten einsteigt.
+Für was braucht man noch Vorgabezeiten?
+Kapazitätsbedarfsverwendung für die Entlohnung, damit es fair ist.
+Und eben für die Terminplanung.
+So, und Vorgabezeiten kann man einerseits auf die Mitarbeiter beziehen,
+aber andererseits auch auf die Maschinen.
+Wie komme ich jetzt zu fairen Vorgabezeiten?
+Zwei Möglichkeiten.
+Erstens, ich schaue mir die tatsächliche Fristzeit an.
+Der Prozess steht schon.
+und dann gehe ich mit einer Stoppuhr hin und stoppe die Zeit.
+Das Problem ist, der Mitarbeiter, der das macht, das muss auch ein durchschnittlicher
+Mensch sein.
+Da kann ich nicht den hochmotivierten 18-Jährigen nehmen, der noch super Knie hat, total ausgeschlafen
+ist und absolut hochmotiviert ist.
+Weil der wird zu schnell sein.
+Ich kann aber auch nicht meinen athetischen 66-jährigen Kollegen nehmen, der ein Körper
+hat.
+Der wird tröten, oder?
+Sondern ich brauche einen Mittelweg.
+Ich kann auch nicht den 18-jährigen Hangover-Guy haben, der ein Körper auf dem Schrank hat.
+Dem gibt es genauso.
+Also ich brauche einen entfernten 100%-Menschen.
+Und darauf hat sich das sogenannte REFA gemittelt.
+Refa trainiert Menschen, die 100% Leistung zu erkennen haben.
+Wenn Sie einen Refa-Workshop machen, dann lernen Sie erstmal, wie man mit einer Stoffe umgeht.
+Und gleichzeitig lernen Sie festzulegen oder zu bestimmen, ob ein Mensch in einer 100% Leistung arbeitet.
+Das ist die Aufgabe von Refa.
+Der Nachteil ist, der Prozess muss da sein, sonst können Sie ja nicht stoppen.
+Das heißt, Reva funktioniert nur, wenn tatsächlich die Ist-Zeit da ist.
+Sie können natürlich auch, wenn die Ist-Zeit da ist, einfach manuell die Zeit verfassen,
+oder sie können statistisch verfassen, oder sie können auch die Leute einfach befragen
+und sagen, schreibe es doch auf, muss halt fair sein.
+Das macht man häufig im Projektgeschäft.
+Im Projektgeschäft sagt man, bitte protokolliere die Zeit, mit wie lange du was gebraucht hast.
+Ganz normal.
+Oder was sie natürlich auch machen kann, ist, sie kann damit das Arbeitsmittelbuch, das Ganze mit, blocken.
+Das hat eine gewisse Art von Überwachung, muss man festhalten.
+Die zweite Möglichkeit, die sie haben, ist, sie schätzen einfach, also es ist noch nicht da,
+Aber Sie schätzen aufgrund der Vergangenheit, was war.
+Jetzt haben Sie wieder ein ähnliches Projekt.
+Und Sie wissen, das letzte Mal haben Sie nach München eine Stunde 40 gebraucht.
+Jetzt müssen Sie ein bisschen hinter München fahren.
+Jetzt gehen Sie von einer Stunde 50 aus.
+Sie können natürlich auch berechnen.
+Das funktioniert vor allem dann, wenn Sie mit Maschinen arbeiten.
+Oder Sie können ein Verfahren anwenden, das nennt sich MTM.
+Das ist Soll-Zeit-Ermittlung mittels einer synthetischen Methode, mittels vorbestimmter
+Zeit.
+Und diese zwei Methoden, die bringe ich jetzt Ihnen ein bisschen näher, einmal MTM und
+einmal REFA.
+Der Vorteil von REFA ist, der Prozess muss nicht da sein, sondern Sie können sich diesen
+Prozess auch einfach vorstellen und dann kann man mittels REFA auch Zeit ermitteln.
+Der Vorteil von diesem System vor bestimmter Zeit ist, dass Sie Arbeitsmethoden und Erzeugnisse besser planen können.
+Sie können Zeichnungen machen und Sie können aus den MTM-Methoden auch einfach arbeiten.
+So, ich habe das jetzt Ihnen hier illegalerweise reingehaupt.
+Wenn Sie später schauen, auch die Folien 96 und 97 sind hier ein bisschen größer.
+Sowohl für MCM als auch REFA kann man einen einwöchigen Kurs besuchen, einen einwöchigen
+Grundkurs.
+Der Preis für diesen Grundkurs liegt irgendwo zwischen 2.000 und 3.000 Euro.
+Okay?
+Viele Studierende denken sich, oh mein Gott, USP, ich will so einen Kurs besuchen, dann
+muss mich die Firma einstellen.
+Die Frage ist, müssen Sie so einen Kurs für 2.000 bis 3.000 Euro belegen, wenn Sie gar
+wissen, ob sie den in der Firma brauchen, weil da ist jetzt so eine Philosophie dazwischen.
+Es gibt Firmen, die verwenden MTM und andere Firmen verwenden Reva.
+Jetzt machen sie einen MTM Kurs und dann lassen sie eine Firma den Reva machen.
+Schluss mit dem.
+Also das heißt, wenn Sie bei einer Firma anfangen und die belegten Wissenswerten auch
+weiterbilden, dann können Sie sagen, ich hätte gern als ersten Kurs so einen MTM oder Reva Kurs,
+je nachdem, was die verwenden.
+Die haben ganz häufig auch Kontingente, d.h. die müssen im Jahr 10 Mitarbeiter zur
+Schulung hinschicken und dann würden sie das auch noch bezahlen können.
+Also wenn sie das wirklich brauchen, ist das eine ganz tolle Erste-Weiter-Wohnung.
+So, wie funktioniert das MTM?
+MTM ist wie Lego.
+MTM hat gesagt, es gibt 19 Grundbewegungen.
+Mit diesen 19 Grundbewegungen kann ich über 95% aller Bewegungen darstellen.
+Und das reicht nur für jede Achtermontage oder Verteidigung.
+Die ersten 5 Elementarbewegungen, mit denen ich 80% aller Montagebewegungen darstellen kann, sind
+Hinlangen, greifen, bewegen, rufen, drücken, dann das Körper biegen und loslassen.
+Damit haben Sie 80% anerkanntere Bewegungen gemacht.
+Und dann kommen noch 14 dazu.
+Drücken, trennen, drehen.
+Das ist alles, was ich mit Hand oder Hand mache.
+Dann haben sie ab und zu mal noch die Augen.
+Das heißt, sie müssen auf etwas fokussieren, sie müssen etwas ablesen.
+Oder sie müssen ihren Blick irgendwo püfen, schweigen lassen.
+Verschieden. Okay?
+Das sind die zwei Blickfunktionen.
+Und jetzt gibt es etwas, was man laut MCM, wenn es geht, irgendwie vermeiden sollte.
+Das sind schon ganz andere Zeiten wieder.
+Und jetzt kommt eine Schwierigkeit für jeden Allbäuer.
+Fuß, Bein, Fuß- und Beinbewegungen, also Fußbewegung oder Beinbewegung.
+Dann haben wir Seitenstritt, Körperdrehung oder Gehen.
+Das kann ich also auch definieren.
+Und dann eben Bäume aufrichten, Bücken aufrichten, Knien oder Sätzen aufrichten.
+Das sind alles Zweikleinheiten, die sehr anstrengend sind.
+Schauen wir uns gleich etwas näher an.
+Die Grundbewegungen sind hier nochmal dargestellt.
+Also Hinlage, Grasp, also Reach, Grasp, Move, Tune in Position und dann Release.
+Und damit so eine Bewegung ordentlich beschrieben wird, hat sie meistens drei Elemente.
+Manchmal vier, manchmal nur zwei, aber in der Regel drei Elemente.
+Schauen wir uns mal den Hinlage genauer an.
+Also R heißt Reach.
+Über 40 Zentimeter Bewegungslänge pro Zentimeter und dann gibt es Bewegungsfälle, die sind
+genauer beschrieben.
+Schauen wir uns die mal genauer an.
+Also Bewegungsfälle hier in grünen Stücken.
+A, hinlangen zu einem alleinstehenden Gegenstand, der sich immer an einem genau bestimmten Ort
+befindet, in der anderen Hand liegt oder auch der anderen Hand nimmt.
+Bei den Beispielern zu einem, immer zum gleichen Ort hinlangen, z.B. eine Lüftgröße, der
+steht immer am gleichen Ort drin.
+Oder Sie haben eine Bereitstellung, wo die nächste Flexion immer so hinkugeln, damit
+Sie es immer noch daraus nehmen müssen.
+Eine Separierung.
+Zweitens, Hinnahmen zu einem einstehenden Gegenstand, der sich an einem Arbeitswerk zu alles ganz veränderndem Ort befindet.
+Was könnte das sein?
+Oder Sie müssen eine Kugelscheibe aufnehmen, weil Sie irgendwie was markieren müssen oder so weiter.
+Aber der liegt ganz oft irgendwo anders.
+Drittens, Hinnahmen zu einem Gegenstand, der mit gleicher oder ähnlichen Gegenständen aufgemischt ist, dass er ausgewählt werden muss. Beispiel.
+Wenn sie eine Schraube irgendwo aus dem Behälter nehmen müssen, dann zählen sie zu einem Gegenstand,
+der klein ist und man sehr genau mit Vorsicht gegriffen werden muss.
+Zum Beispiel so einen kleinen Chip oder so eine kleine Minischraube.
+Und E ist verlegen der Hand in eine bestimmte Lage zur Erlangen des Gleichgewichts usw.
+oder um die Bewegung zu machen.
+Und dann kann man hier den Bewegungsfall auswählen, alles auf aller Prinzip.
+B, hier, und dann kommt man auf etwas, das nennt sich TMU.
+Was ist ein TMU?
+Dadurch, dass die Elementarbewegungen sinken, ist eine Sekunde zu lange.
+Weil das passiert ja innerhalb einer Hälfte der Sekunde.
+Deswegen haben die die sogenannten TMUs eingeführt.
+Was sind TMUs?
+Das ist das hier.
+Eine TMU sind 0,036 Sekunden.
+Warum so schlecht?
+Weil es eine hundertstel Stunde ist.
+Eine hundertstel Stunde ist eine TMU.
+Und das ist das, mit dem die rechnen.
+Und dann haben die eben diese TMUs eingeführt.
+Hier sind die TMUs.
+Eine 100er Stunde ist eine TMU.
+Oder 0,036 Sekunden.
+Oder eine Sekunde ist 27,8.
+TMU.
+Und damit kann ich alle Grundbewegungen definieren.
+So.
+Wie kommen die jetzt darauf, dass
+Gehirn 15 TMUs sind?
+Die haben ganz einfach tausend Leute für eine Videoaufnahme gemacht, die Schnitte gezählt
+und die Zeit ausgewertet.
+Und das war der Durchschnitt.
+Und das war der Durchschnitt.
+Die haben 1.000 Leute rund gemischt genommen, junge Leute, alte Leute, mit kurzen Füßen,
+mit langen Füßen und so weiter und so fort, dicke Leute, dünne Leute, alles Mögliche,
+und haben dann gesagt, 15 TAU ist ein Schritt.
+Oder, anders gesprochen, 1 TAU bei wie viel nochmal?
+0,036 Sekunden.
+Oder?
+Das heißt, 15 TH sind wieviel Sekunden?
+Wenn ich mich direkt mit den 0,5 hier habe, kann das sein?
+Also 1 TH sind 0,036.
+Dann sind das 0,54 Sekunden.
+Das heißt, ein Schritt braucht im Schnitt, ganz grob, wenn Sie mal überschlagen müssen,
+eine halbe Sekunde.
+Also wenn Sie zwei Schritte in Ihrem Leben machen, haben Sie eine Sekunde verbraucht.
+Und das ist eine sehr gute Messgröße.
+Wenn Sie also feststellen, da ist ein Regal 50 Schritte vom Arbeitsplatz weg, 50 Schritte
+In- und zurück, das heißt der Mitarbeiter braucht 50 Sekunden, um zu diesem Regal zu
+kommen und wieder zurück zu gehen.
+Und da hilft mir eben MTM sehr stark.
+Machen wir noch ein anderes Beispiel.
+Wollen Sie mal Ihr Glück probieren, probieren Sie mal hier diese MTM Übungen.
+Das sind die fünf Rundbewegungen.
+Reach, Grasp, Move.
+Dann noch Fübien, Position und loslassen.
+Schauen Sie mal, welche Bewegung Sie nehmen würden.
+Würden Sie gerne mit dem Nachbarn machen.
+Geben Sie den Zeitwert an.
+Dann machen wir gemeinsam.
+Ich eröffne die Ausschussberatung und eröffne die Ausschussberatung.
+Bewegungslänge 40 cm, Kreuzenlieb vermischt mit anderer Ecke.
+Das heißt, wir müssen uns erstmal schauen, was das ist, also Bewegungsdenkel 40 cm, Bolzen
+die 5,5 cm, dann sind wir bei R40C mit 16,8 cm.
+Abmessungen des Bolzens, Durchmesser 8 x 12 mm,
+Wir haben einen Auswehlgriff hier und wir sind mit der Größe hier, G für B 9,1.
+Also wir haben weder leichtfassenden, alleinliegenden Gegenstand, wir haben keinen sehr kleinen
+Gegenstand, wir haben keine Hindernisse hier, wir haben kein Nachgreifen, wir haben keinen
+Übergabegriff, wir haben auch keinen Berührungsgriff, sondern wir sind hier wirklich bei G4 und
+das hier ist die Größe G4b 9,1cm.
+So, dann Bewegungslänge 40 cm, das ist also der Move, Bewegungslänge 40 cm, und jetzt
+ist die Frage, genaue bestimmte Lage, muss wahrscheinlich in die Liste schauen, was eben
+hier beim Move ist, genaue bestimmte Lage ist also C, also M40C, gehen wir in die Liste
+Dann haben wir Fügen des Bolzens, also Position, enge Fügetoleranz, symmetrisch, Handhabung
+einfach.
+Das finde ich ist immer der schwierigste Codierer, wenn man da so viele hat.
+Also wir sind schon bei B2, bei N und jetzt ist es symmetrisch und dann ist es noch easy
+or difficult, das ist dann auch hier definiert und dann sind wir bei P2SG.
+Und die Zeit ist 16,2 Sekunden.
+Dann Loslassen des Bolzens durch die Öffnung des Fingers, also Release, durch die Öffnung
+des Fingerrings, 1, 2 Komma 0.
+So, jetzt müssen wir das Ganze zusammenrechnen und das sind die Sekunden.
+Also es ist sehr aufwendig so eine kurze Zeit zu organisieren, das ist der große Nachteil
+von der MTL.
+Der Vorteil ist, dass es immer 100% ist, es ist immer Normalleistung, was sie organisiert.
+Wenn Sie so eine Schulung machen, dann wird Ihnen natürlich im Einzelfall jeder Bewegungsfall
+vorgestellt.
+Sie machen da Übungen dazu.
+Sie müssen erkennen, ist das ein schwieriger Fall oder ein weniger schwieriger Fall, was
+kann man besser machen, ist das ein Nachgreifen oder ist das kein Nachgreifen.
+Also all solche Themen werden da durchgesprochen.
+durchgesprochen. Wie gesagt, genauso mit diesen Körperdrehungen, mit den Fußbewegungen, mit den
+Aufrichten bzw. mit dem Gehen, da wird dann genau analysiert. Und dann, was ist einfach, was ist
+schwierig, zum Beispiel kann man hinlangen und fügen, gemeinsam machen in bestimmten
+Bewegungsfällen, wird also in dieser Kante genau definiert.
+Das MTM, das ist also hier die Mengenfertigung, macht dabei sehr kurzzyklische Wiederholungen,
+wird aber immer weiter veraltet, weil das Ganze lässt man ja auch immer mehr Roboter machen.
+Das heißt, wenn ich so kleine, feine hier Wiederholungen habe, die mit so definierten
+sind, dann spricht ja nichts dagegen, das zu automatisieren und so weiter hinzustellen.
+Das heißt, es wird die Bewegungsfolge analysiert und, wie gesagt, die Arbeitsweise, wie das
+steuert, ist extrem minimal.
+Das hat NTM auch erkannt und deswegen gibt es da Aufbaukurse.
+Also das heißt, diese Grundbewegung ist ja immer sehr ähnlich und die haben dann einfach
+einfach so Baukästen geschaffen, die lernt man dann beim UAS kennen, beim Universell
+Analysier-System. Das ist der Fortschrittskurs für MTM, Teil 2, also nochmal eine Hochrechnung,
+kostet dadurch 5.000 Euro pro Klasse. Und wenn man dann sagt, hey, ich finde MTM so toll,
+dann kann man auch MTM für Einzel- und Kleinserienfertigung machen, MEK,
+kurz kostet 7.000 bis 10.000 Euro, das ist dann wirklich die Königsklasse, da kann man dann
+und dann diese komplett aufträglichen Mittel des MTM analysieren.
+Also das ist dann etwas, wo man dann vielfältige Übungen braucht,
+aber letztendlich laufen sie dann durchs Leben und sagen,
+hey, das dauert 15 Sekunden, so viel in der TMU und so weiter und so fort.
+Also die Leute, die das tatsächlich gemacht haben,
+das ist echt beeindruckend, wie gut die Arbeitserfolge analysieren können.
+Der Vorteil von MTM ist, wie gesagt, man erkennt sehr schnell,
+wenn überflüssige Arbeitsbewegungen da sind, weil man halt sehr schnell erkennt, habe ich
+einen Bewegungsablauf von 40 cm, warum mache ich den nicht auf 20? Weil wenn ich nämlich
+die Reichweite reduziere von 40 auf 20, dann habe ich hier schon mal knapp 5 TMU eingespart.
+Und wenn ich das ganz oft mache, ist das auch nicht Zeitersparnis. Wenn ich einen Bewegungsfall
+von schwierig zu einfach hinbekommen, dann habe ich Tempo gespart.
+Und damit hilft MCM Bewegungsformen effizienter zu machen.
+Das ist der große Vorteil von MCM.
+Und wie gesagt, wenn Sie die Chance haben und Sie lernen in der Firma MCM zu verwenden,
+fragen Sie, ob Sie eine Schulung kriegen, die erste Schulung, die macht auch noch richtig Spaß,
+die zweite und die dritte geht es.
+Anstrengend.
+Es gibt eine ähnliche Art, das nennt sich Work-Faktor, das kommt aus dem amerikanischen Bereich,
+hat sich in Deutschland nie durchgesetzt.
+Das ist nur eine Vollständigkeitshalbe hier.
+Und natürlich gibt es auch so Planzeitenkatalogi, was auch Firmen an sich irgendwann mal aufstellt.
+sagen wir jetzt einfach, die Standardbearbeitung in der Lackieranlage sind bei uns 30 Minuten.
+Oder wir haben hier eine Formel, um auszurechnen, was Prozesszeiten sind.
+Das geht auch in diese Richtung von MTM, dass man Zollzeiten ermittelt.
+Der Vorteil ist hier natürlich, dass wir immer diese 100% haben.
+Gut, das war Marie-Francois-Lötscher-Antrag.
+Dadurch, dass man eine kleine Kuppe ist und du kommst auch schneller, zeigt sich das alles
+an.
+Aber passt soweit, oder?
+Gut.
+Dann machen wir das nächste Mal hier bei Refa weiter.
+Da werden wir dann anschauen, ob was Refa-Zeiten passiert.
+Okay?
+Dann wünsche ich Ihnen eine schöne Restwoche.
+Dann wünsche ich Ihnen noch eine schöne Restwoche.
+und wir sehen uns nächsten Dienstag wieder. Auf Wiedersehen!
