@@ -1,0 +1,1198 @@
+Ich würde nur kurz gucken, dass der Browser hier weg geht, sonst kann ich meine Bedienung nicht mehr starten.
+Sie hatten netterweise auch diejenigen, die online-synchron die Möglichkeit hatten, kurz Feedback gegeben.
+mal das Licht aus. Ist das okay, so vom Licht?
+Ist das okay?
+Sie melden sich kurz bevor Sie einschlagen. Wir haben kurz abgefragt, ob es irgendwie ganz grob vom
+Stimmungsbild zusammenpasst, dass sie die Zusammenhänge mitkriegen, dass sie das
+Folienmaterial und Formelsammlung damit arbeiten können. Es freut mich zu sehen,
+dass das überwiegend positiv beurteilt wurde und das weiß natürlich trotzdem, dass es
+kein vollständiger Blick ist. Manche Leute sagen vielleicht, die Veranstaltung ist so schlecht,
+ich möchte da gar nicht hin. Deswegen gebe ich dann auch gar keine Feedback ab, weil da werde
+ich ja gar nicht mehr da sein. Aber in jedem Falle, wenn sie dazu noch hier vielleicht auch
+die Ausreißer, wo sie sagen, oh, ist noch nicht ganz so, wie sie sich das vorstellen,
+dann lassen sie es nicht wissen, weil sonst kann man es auch nicht berücksichtigen bei
+dem weiteren Material. Wir haben auch kurz gefragt, wie es aussieht mit den Teilbereichen
+Strömungstechnik, Wärmeübertragung, Thermodynamik. Ich teile das auch mit dem
+aber es sieht ja auch sehr ähnlich vom Bild aus, in gewisser Weise steht da die
+Stoffmenge in der Thermodynamik scheint etwas schneller und vielleicht noch
+etwas fordernder da zu wirken, das deckt sich in zweierlei Hinsicht, zum einen ist
+die Thermodynamik von den drei Fächern wahrscheinlich wirklich das was am
+herausforderndsten ist, was am meisten neue Dinge mitbringt, ein bisschen auch
+Rechnung getragen, dass wir in den Veranstaltungsstunden ein bisschen mehr Thermodynamikstunden haben
+als die anderen zwei Fächer.
+Es ist aber auch ein Stück weit so, dass der Jörg Habich mir auch schon von vorne
+weg gesagt hat, ja, es ist eine gute Idee, vergleichsweise schnell in den Stoff zu erarbeiten,
+wohl wissend, dass das nicht immer einfach ist, das alles zu verstehen, aber er will
+sich dann noch mehr Zeit nehmen mit ihnen in die Aufgaben, in die konkreten
+Beispiele zu gehen. Also ich hoffe, dass das wieder gut eingefangen ist und wir
+dann in einem vernünftigen Modus gemeinsam arbeiten können.
+Wenn eben nicht so wäre, bitte melden, sonst ist es auch wieder schwierig. Und dann hatten wir noch ganz kurz
+geschaut auf die Vorlesungsvorbereitungszeit und bisher nur der
+Hinweis. Credits werden vergeben für etwa die entsprechenden SWS-Einsatz. Und wenn Sie das
+vom Modulhandbuch nochmal nachschlagen, dann sehen Sie, dass diese Veranstaltung,
+sowie die meisten anderen übrigens auch, etwa so viel Eingestudium wie Studium hier im
+Vorlesungssaal als Idee haben. Das heißt, die Idee sollte sein, dass Sie am Ende noch eine
+gar nicht so geringe Zeit sich mit den Sachen im Nachgang oder in der Vorbereitung befassen und
+das ist sicherlich was, was gerade wenn jetzt Übungsaufgaben mehr diskutiert werden, schon
+Sinn macht. Wenn Sie dafür Zeit finden, ich würde Sie nochmal animieren an der Stelle, nutzen Sie
+die Möglichkeit, Sie sind alle aus einem Studiengang, finden Sie sich zusammen in
+irgendwelchen Gruppen und schauen sich die Sachen gemeinsam an und diskutieren
+nochmal drüber, weil das ist sicherlich die beste Vorbereitung, um da gut
+darzustellen. So weit, so gut. Jetzt möchte ich reingehen in die
+Inhalte. Wir haben heute einiges vor. Gut möglich, dass ich nicht alles das
+erledige und durchkomme soweit, gerade eben mit der Stimme. Ist auch ein bisschen
+anspruchsvoller für mich, aber die Idee ist, wir wollen also die Wärmeleitung stationär,
+noch abschließend stationär, Sie erinnern sich, ich hatte immer wieder dieses Beispiel
+gedacht, hier mit der Wand, hier drinnen ist es warm, da draußen ist es kalt und dann
+gibt es diese Temperaturverläufe über die Wand, einmal Wärmeleitung und dann auch Konvektion,
+kommt gleich noch, aber eben stationär heißt immer, es bleiben die jeweiligen Temperaturniveaus
+Hier innen ist es warm und zwar gleich warm über die Zeit und draußen ist es kalt und gleich kalt über die Zeit.
+Das ist natürlich ein bisschen eine unrealistische Einschränkung und deswegen werden wir uns im zweiten Teil
+dann sehr stark mit der instationären Wärmeleitung befassen.
+Ich will da gleich noch sechs Schlüsselworte draufschreiben auf die Folie, nur damit wir sie schon mal gehört haben.
+Dazwischen noch ein kleiner Anmerkung. Wir werden uns in der ersten, wahrscheinlich etwa Viertelstunde noch
+oder kurzen Zeitbereich auf jeden Fall mit der Erweiterung von eindimensionalen hin zu dreidimensionalen Problemen befassen.
+Wir hatten also eindimensional, in dem Sinne kennen wir diese Wände, ganz klar, innen, außen.
+Danach haben wir eine Koordinate x, die wir von innen nach außen definieren.
+Wir hatten aber auch irgendwelche Kabel oder Rohre kennengelernt mit Kreiskoordinaten.
+Das ist aber das Gleiche.
+Da geht es von innen entlang des Radiuses nach außen.
+Der Rest ist eine Spiegelsymmetrie.
+Das heißt, wir haben eigentlich nur eine Dimension, die uns interessiert.
+Man kann es auch komplizierter machen.
+Wir werden es gleich angucken.
+Aber es ist zum Glück nicht weiter viel in Rechenaufgaben angefragt.
+Soweit so gut. Welche Begriffe werden uns jetzt heute wahrscheinlich um die Ohren fliegen?
+Das sind einmal Dinge, wie schnell breitet sich denn ein neues Temperaturfeld in ein Medium aus?
+Da geht es um eine Kombination aus den Sachen, die wir aus der Wärmeleitung kennen und aus Geschwindigkeit.
+Und dafür brauchen wir die Temperaturleitfähigkeit, Temperaturleitfähigkeit, ein neuer Term,
+der eben nicht zu verwechseln ist mit der Wärmeleitung und dem Lambda,
+sondern hier haben wir die Temperaturleitfähigkeit mit dem kleinen a,
+auf Englisch wird es mit Alpha abgekürzt oder als Variablenname bereitet
+Und wir werden dann gleich sehen, wie unterschiedliche Temperaturleitfähigkeit sich auswirkt auf das Ausbreiten von neuen aufgeprägten Wärmeströmen.
+Dazu kommt auch im Video hoffentlich ein ganz gutes Beispiel, wo eine Bremse sich überhitzt, Sie werden es dann wieder auf Englisch hören.
+Und man sieht, wie schnell sich das Temperaturfeld in dem Metall, also in der Bremsscheibe, dann ausbreitet.
+Das ist soweit vorne weg.
+Geht aber natürlich übertragen auch auf alle möglichen anderen Beispiele.
+Wir hatten mal in der allerersten Vorlesung erwähnt, ein Ei ins heiße Wasser, in kochendes Wasser zu tun,
+zu schweißen und zu gucken, wie lange dauert es, bis jetzt das Ei gerade stockt.
+stockt. Solche Spielereien da machen. Lösung für halbunendliche Körper. Sie werden sehen,
+dass dieses sehr merkwürdig anmutende Wort halbunendlicher Körper uns jetzt etwas stärker
+verfolgen wird. Es geht darum, dass was genug groß ist, damit bestimmte Dinge passieren
+oder nicht passieren. Und in diesem Kontext werden wir vom Himmel fallend in der Stunde
+Ich würde uns mit der Error-Funktion, also mit der Fehler-Funktion, fassen, die vermutlich
+noch kein von Ihnen Begriff ist, mag mich täuschen, also auf Deutsch könnte man auch
+Fehler-Funktion sagen, nichtsdestotrotz, ich fasse dieses amerikanische Durchgesetz, IRF
+von Z. Irgendein Argument, das wird Sie in den nächsten paar Stunden in der Wärmeleitung
+Instationär verfolgen. Es geht um eine Funktion, die eine ganz spezielle Form hat und die tabellarisch
+auch bei Ihnen in der Formelsammlung abgebildet ist, die aber auch hinterlegt ist in jedem
+Excel, Matlab, Python und so weiter Programm-Tool, die immer wieder hilfreich ist. Wie und wieso
+So kommt dann noch, dann haben wir noch halb unendliche Körper, wieder wie hier, aber
+dann durchaus auch die Frage, wenn zwei solcher Körper sich berühren, wir werden das Beispiel
+rechnen und uns angucken, dass wenn ich eine heiße Pfanne auf einen kalten Tisch stelle,
+was passiert dann mit der Kontakttemperatur und wie verändern sich diese Temperatureindringkoeffizienten
+Und dabei werden wir den Wärme-Eindring-Koeffizienten anschauen.
+Und das ist mit einem kleinen b bezeichnet.
+Also ein a, Temperaturleitfähigkeit und Wärmeeinbringhäufig ein b.
+Der ist nicht zeitlich variabel, sondern zeigt so ein bisschen an, wie weit wird sich etwas
+in einem anderen Material fortsetzen.
+Sondern heißen, wenn sie eine heiße Pfanne hier oben auf den Tisch drauf stellen, dann
+dann werden Sie alle wahrscheinlich so aus der langläufigen Gefühl sagen, ja dann wird
+auch der Tisch oben drauf heiß, aber unten drunter wird er eher nicht heiß, oder?
+Da tut sich irgendwas an der Oberfläche.
+Und das ist was, was wir mit diesem komischen neuen Variablen namens B uns angucken werden.
+Und dann werden wir vermutlich eher nicht mehr heute, aber bei den nächsten Stunden
+uns dann mit einer doch ganz charmanten allgemeineren Lösungsvariante für
+einfache Geometrien befassen, mit der wir aus solchen Tabellen sehr schnell
+ziemlich gute Schätzwerte ableiten können und die reichen im Sinne ihrer
+weiteren Vorlösung und dann Klausur ganz überwiegend auch aus. Diese
+Diese Facts-Werte reichen aus und dafür brauchen Sie aber drei wiederum neue Variablen-Namen.
+Das ist die Fourier-Zahl, die Biot-Zahl und die dimensionslose Temperatur.
+Und ich schmeiße Ihnen das jetzt eben alles einfach mal hin, dass Sie es schon mal gehört haben
+und hoffentlich nicht ganz verloren sind.
+verloren sind, vielleicht dient Ihnen diese kurze Folie
+einfach zur Wiederholung oder zur Sortierung dieser Begriffe.
+Zumindest in 14 Tagen sollten Sie hoffentlich, wenn Sie die Folie aufblättern,
+sagen können, ah ja, das verwende ich da, das da und dieses hier.
+Gut, soweit. Lasse ich das noch kurz stehen.
+Das ist also das, was uns beschäftigen wird.
+Und
+wenn Sie was nicht lesen können, bitte melden oder sagen.
+Also, sechs Begriffe und ich gebe ganz ehrlich zu, bevor ich mich mit der Materie selbst
+befasst habe, fand ich das auch ein bisschen unangenehm, aber ich hoffe, es gelingt.
+So, wir hatten also jetzt in diesem Rückblick zur Wärmeleitung stationär diese klassische
+Wandgeschichte gesehen. Wir haben gesehen, da fällt die Temperatur linear ab.
+Wir haben hier einen Konvektionstherm und hier einen konvektionsbestimmten Therm
+und diese Temperaturniveaus vorgegeben. Die Wand hat eine Dicke
+im typischen Sprachgebrauch hier als S bezeichnet.
+Und wir können uns überlegen, dass da lauter Wärmeleitwiderstände,
+in dem Fall ist nur ein einziger gezeigt, nämlich nur eine Wand,
+aber könnten ja noch Isolationsschichten drauf kommen.
+Diese hier normalisch stehen und hier drüben haben wir die Wärmeübergangswiderstände mit den entsprechenden Koeffizienten
+die dann hier als Wärmeübergangswiderstände mit eignen
+Dann haben wir die Summe-Bildung gesehen, das ist wie das Kirchhoffsche Gesetz, dass Sie die einfach addieren können,
+wenn Sie seriell geschaltet sind, parallel gibt es genau analog.
+Und wir haben uns ein bisschen noch angeschaut, wie diese Wärmedurchgangskoeffizienten über die Bezugsflächen ein Stück weit hilfreich sein können,
+um schneller, z.B. bei Fensterscheiben mit mehrfach Vergasung, Ihnen hier entsprechend zu zeigen
+wieviel Widerstand bietet so ein Stapel aus diesen verschiedenen beitragenden Elementen
+Wärmeleitung durch Wände und Konvexionsteile
+Und das Ganze kriegen wir gut in die Anwendung, wir hatten dieses in dem Video lesen, letzte Woche.
+Nochmal, finden Sie das auch mit drin, vertont, wir hatten ziemlich genau dieses Beispiel,
+also ich sage ziemlich genau, wir hatten exakt dieses Beispiel angeschaut, aber wir hatten ziemlich genau diese Folie,
+die ist glaube ich aus einem Jahr zuvor, aber die gleiche Information,
+dass wir hier drin eine hohe Temperatur haben, draußen die niedrige Temperatur
+Und wir haben uns genau angeguckt, welche Temperaturen entstehen und werden denn an
+verschiedenen Kontaktstellen, an verschiedenen wichtigen Punkten hier auftreten.
+Und das ist ein Beispiel, was in der Vorlesung schon deutlich früher schon mal kam, aber
+damals noch ohne Konvektion.
+Neu dazu kamen eben diese Wärmeübergangskoeffizienten, die doch durchaus noch mal gewissen Einfluss
+haben.
+insbesondere M, können Sie im Video nachsehen, diese zwei Temperaturen jetzt noch mal zusätzlich
+berechnet. Und das heißt die Aufgabe B ist hier eigentlich schon fertig, skizzieren Sie den
+Temperaturabfall im Diagramm rechts auf dieser Seite und das ist auch so ein gewisser Klassiker,
+den wir Ihnen anbieten als Klausuraufgabe sehr häufig, um einen Schritt weit reinzukommen,
+dass man solche Skizzen erstellt, dass man ein bisschen weiß, okay, was ist jetzt wo relevant.
+Das hilft denke ich schon auch, um dann die richtigen Gleichungen aufzustellen.
+Und da ist die Rechnung, die mache ich jetzt nicht noch mal komplett durch,
+aber Sie müssen halt diese ganzen Widerstände da aufaddieren,
+die da irgendwie auch schon aus dem noch früheren Teil aus der Vorlesung
+zusammengestellt wurden und diese Konvektionstherme damit aufaddieren.
+Da kriegen sie den gesamten Wärmestrom, der ist gegenüber dem Beispiel ohne die
+Konvektion um etwa 10 Watt niedriger, das heißt da gibt es dann zusätzliche
+entsprechende isolierende Wirkung und da können sie die Innentemperatur
+berechnen indem sie von dem was an dieser Temperatur vorgegeben ist in
+diesen Konvektionstherm hier mit einfließen lassen und da kommen sie auf
+16,17 Grad also knappe 2 Grad und auf der anderen Seite können sie das gleiche
+Spiel von außen wegrechnen und haben statt minus 15 Grad hier minus 13,85.
+Ich hoffe, dass es soweit ist.
+Dann eine Frage, die ich einfach mal in den Raum stelle und die ich nicht im Detail mit Ihnen durchspielen werde,
+aber vielleicht auch mal ganz interessant.
+Eine oder andere von Ihnen kennt es vielleicht, weil man es gerade auch in dieser Zeit viel rumliegen sieht,
+weil hier in Kempten sehr viel Fernwärmeleitungen gerade neu nachgerüstet werden.
+Dieses ist also so ein Rohr, in dem in der Mitte heißer Dampf oder heiße Flüssigkeit,
+je nachdem, transportiert wird und das wird später dann in die Erde vergraben,
+kann aber auch im Freileitungsbereich liegen und hier außen sehen wir also eine Isolationsschicht,
+relativ klar und dann wieder nochmal eine Mantelschicht. Und das ist ja auch so ein Spiel, was wir von uns angeguckt haben,
+dass das mit der Zylinderkoordinaten genauso gespielt werden kann und man jetzt hier diesen Widerstand berechnen kann.
+Und jetzt steht sich die Frage, naja, was bringen denn jetzt diese Isolationsschichten, wenn ich in dem Fall
+freiverlegtes Rohr zusätzlich isolieren. Also ich meine, wenn ich ab dieses Rohr, so wie es hier steht,
+und packe jetzt außen nochmal eine Mantelschicht drumherum, wird die Isolationswirkung immer steigen
+oder ist es gar nicht so unbedingt klar und hat irgendwie vielleicht einen anderen Einfluss
+oder kann die Isolationswirkung des Rohrs gar sogar abschließen.
+Vielleicht mal ganz kurz in den Raum gefragt, wer von Ihnen meinte, dass entweder B oder
+C richtig ist, also A ist jetzt mal langläufig relativ naheliegend, wenn ich mehr Isolation
+drauf packe, dann wird die Isolationswirkung auch steigen, so mache ich das mit den Wänden.
+Wer meint, dass es bei Rohren anders ist?
+Vielleicht sehe ich da so im Raum eine einzige Person. Könnten Sie sagen, warum Sie einen blauen Pulli anhaben?
+Weil sich die Oberfläche wichtig macht.
+Genau. Also das ist im Prinzip auch ein Witz. Das ist exakt richtig.
+Man kann es hier so ein bisschen auch schon erahnen.
+Man sieht hier diesen blauen Mantel.
+Und anders als bei der Wandaufgabe, die wir da haben, verändern sie nicht nur die Durchtrittslänge,
+also dieses, was hier als S bezeichnet wurde, durch zusätzliche Schichten und addieren
+mehr bei Widerstand drauf, sondern bei den Zylinderkoordinaten haben sie eben immer
+die Herausforderung, dass sie auch gleichzeitig die Oberfläche hier erhöhen, wenn sie jetzt
+auf das Blaue noch was draufpacken, haben Sie eine größere Außenoberfläche und wenn
+Sie jetzt frei verlegtes Rohr haben, natürliche Konvektion, dann strahlt über die größere
+Oberfläche, haben Sie auch mehr Kontaktfläche in die Umgebung und dann dadurch auch eine
+eventuell erhöhte Abstrahlung.
+Und wir werden das Beispiel nochmal darauf verweisen, aber Sie sehen es in dem Videomaterial,
+ich hinterlege, dann auch nochmal genau, wie man sich dem Problem nähern kann und dass
+es durchaus möglich ist, dass hier B oder gar C als richtige Lösung angegeben werden
+muss.
+Das heißt, es bringt nicht unbedingt was, hier einfach zusätzliche Schichten drauf
+zu packen.
+Macht das Ganze etwas komplizierter.
+Man kann das Thema der Wärmeleitung noch sehr viel weiter treiben, nicht nur die Geometrie die wir gerade angesprochen haben, die wir nur qualitativ verstehen wollen und dann in der Rechnung auch uns irgendwann davon verabschieden,
+Hier kann man sogar quantitativ genau sich überlegen, wie sind denn optimierte Kühlungsgeometrien zu bauen.
+Wir sehen hier Beispiele von linker Seite, dem technischen Bereich, wo Kühlkörper so designt sind,
+dass sie möglichst genau die richtigen Abstände zwischen irgendwelchen Kühlrippen haben.
+Und hier ein guter Kompromiss gefunden wird zwischen dem, was wir gerade gesagt hatten,
+maximiere die Oberfläche, also möglichst viel Metall zu verbauen, um möglichst viel
+Wärme nach außen abzustrahlen, aber gleichzeitig den richtigen Abstand zwischen diesen Metallplatten
+oder Metallfinnen zu finden, um dann auch natürliche Konvektionsbewegungen zu maximieren.
+Das wird uns später noch ein bisschen beschärfen, fassen, aber wir wollen nicht in die Details der Rechnung gehen.
+Und vielleicht nur noch mal als Analogie und wichtige Gedanke dazu,
+auch in der Biologie haben sich über die evolutionsgeschichtlichen Vorgänge ganz ähnliche Sachen herausgebildet.
+Ein Beispiel, dass man sieht, dass der Toucan-Vogel einen entsprechenden Schnabel hat, der es
+ihm erlaubt, dass er dort besonders viel Wärme abstrahlt und das dient ihm wieder dazu, dass
+er damit bestimmte Anlockungseigenschaften hat oder hier ein Dilisaurier, der eine bestimmte
+in seinem Panzer hat, um möglichst wärmegeschickt abzuführen, weil er ansonsten die Wohlfühl-Temperaturen
+nicht halten kann, so also im Prinzip die Prozesse, die auch die Bulimie da gefunden hat.
+Soweit an der Stelle diese Gedanken, was in der Wärmeleitung möglich ist.
+Wir werden das auch nochmal greifen gleich im Video, ich habe mich jetzt entschieden
+das nicht zu sehr selber zu vertonen, deswegen springe ich mal drüber, über die drei Möglichkeiten
+der Wärmeleitfähigkeit.
+Ich will mit Ihnen gemeinsam jetzt noch in dieses dreidimensionale einsteigen.
+Wir haben vorhin dieses Wandbeispiel gesehen, wir haben gesagt, okay, die Wärmeleitung
+kann in eine Richtung jetzt gut berechnet werden, also nehmen wir hier die X-Richtung
+und hier die Überlegung, dass hier Wärme reingeht und hier auf der drüberen Seite
+wieder Wärme abgestrahlt wird. Das ist das, was wir jetzt die letzten Stunden immer gemacht
+haben. Und was uns ein Stück weit beschäftigen wird in der nächsten Zeit ist, dass wir nicht
+nur Wärme rein geben von innen und Wärme wieder raus geben in diese Richtung, sondern
+dass hier drinnen auch noch die Wärmespeicherung jetzt zunehmend eine Rolle spielt. Das ist
+nämlich gerade dann relevant, wenn wir was Instationäres haben. Also wenn die Menge,
+die hier zum Beispiel reingeht an der Energie, nicht dem gleicht, was an Wärmemenge hinten
+wieder raus geht. Siehe mein Rechenbeispiel vorhin, 91, bisschen was Watt gehen da rein
+und gehen aber hinten auch raus.
+Wenn die beiden sich unterscheiden,
+dann, sagen wir mal es geht mehr rein,
+dann wird sich das Material erwärmen
+und dann sind wir beim instationären Vorgang
+und dann wird hier die spezifische Wärmekapazität des Materials eine Rolle spielen
+und dann haben wir eine sehr starke Brücke zu dem,
+was Sie gerade in der Thermodynamik machen.
+Das werden wir gleich sehen.
+Zusätzlich kann noch erschwerend hinzukommen,
+dass wir das Ganze eben nicht nur eindimensional machen,
+sondern ich mache jetzt mal hier mit meinem Weg grün noch zusätzlich die Möglichkeit,
+dass wir in die Raumrichtung Y arbeiten und hier hinten wird der Wärmestrom gleich oder
+oder in veränderter Größe auch wieder herausgehen und das gleiche Spielgerät auch in der Z-Richtung spielen.
+Okay, also das Spiel im Endeffekt einfach nur in drei Raumrichtungen und wir werden
+jetzt in einem etwas anskizzierten Rechenmodus uns herleiten, wie die sogenannte allgemeine
+Armeleitungsgleichung abgeleitet wird, um die dann in den kommenden Beispielen auch
+als Basisgleichung zu verwenden, um all diese instationellen Vorgänge zu berechnen.
+Ich hoffe, Sie konnten es so einigermaßen mitschreiben, Sie finden das gleiche Bildchen
+auch hier oben nochmal anskizziert. Einziger, was dann noch dazu ist, da steht noch so ein
+E.0. Das habe ich mir gleich gespart. Worum handelt es sich da? Das wäre, wenn ich zusätzlich
+eine Quelle oder eine Senke von Energie habe. Stellen wir uns vor, wir haben eine Problemstellung
+man wegen einem Rohr in einem Gebäudebereich, einem Raumzimmer und in dem wird nicht nur
+Wärme eingegeben von der, sag ich mal, Türseite und hinten wieder rausgegeben, sondern zusätzlich
+auch noch innen drin geheizt durch einen elektrischen Heizlüfter, dann hätte ich hier noch zusätzlich
+dieses E als zusätzliche Energie, die eingetragt wird oder eine Senke wäre, wenn ich jetzt
+meinetwegen hier eine Klimaanlage habe und die entsprechend Energie oder Wärme abführen
+kann.
+Soweit an der Stelle, was wir jetzt machen wollen ist uns wieder zurück entlang der
+X-Koordinate, die ist da in gelb, nochmal skizziert, den zeitlichen Verlauf mit anzugucken
+Und das ist im Endeffekt
+Ja, hier sind die Folien verloren
+Ich versuch das mal so
+Nichts anderes als die Änderung...
+Haben Sie ganz kurz, ja.
+Gut, das Super-Himmel-Material gibt es leider gerade nicht her, was ich Ihnen zeigen wollte.
+Jetzt nehmen wir mal ein bisschen die eigene Variante hier unten.
+Also U-Punkt ist die Energie, die hier drin gespeichert ist.
+Sie sehen also oben, ich habe sie nochmal einskizziert, das ist nichts anderes als die
+die Änderung der inneren Energie über die Zeit. Und das ist ja nichts anderes als das,
+was ich eben ein- und austretend habe an den Energiemengen. Minus, austretend, Minus oder
+Plus, das was ich hier generiere. Das hat man oben gesehen. Und gleichzeitig kann ich
+Ich kann ja auch sagen, dass die Änderung der Energiemenge mit der Zeit dU nach dT
+was zu tun hat mit dem Fourier'schen Gesetz.
+Das ist nichts anderes als die entsprechende, dieses große U,
+nichts anderes als die Masse mal dem kleinen U, also dem spezifischen inneren Energie
+Und das wiederum kann ich umschreiben, wenn ich weiß, dass hier oben steht es, CV, Lärmekapazität,
+ist nichts anderes als die innere Energie gegenüber der Änderung mit der Temperatur,
+Sie haben das gelernt. Wie viel Energie brauche ich, um ein Medium um ein Grad zu erhöhen?
+Ich denke, das ist genau, was Sie in der Thermodynamik noch mal kurz Review passiert hatten.
+Und das ist nichts anderes als das, was in diesem CV drin steckt.
+Und jetzt können Sie, wenn Sie hier du nach dt hätten, die Theta hätten,
+könnten Sie das wunderbar ersetzen durch die Wärmekapazität.
+Das heißt, wenn wir jetzt dU nach dΘ schreiben, dann ist es nichts anderes als dU nach dΘ
+mal dΘ nach dt.
+Und das wollen wir hier machen und schreiben also, das ist cV mal, ich schreibe das mal
+hier hinten hin, dΘ nach dt.
+Und jetzt müssen wir noch diese entsprechenden Volumentermen uns anschauen.
+Die Massentermen dm nach dt.
+Das ist nichts anderes als die Dichte mal den Volumen.
+Hier schreibe ich gleich jetzt so mal dy mal dz.
+So und vielleicht unten drunter, dass man es hoffentlich dann nachvollziehen kann.
+Das hier ist nichts anderes als ein dv.
+Und wenn ich eine Dichte mal ein Volumen nehme, dann ist es nichts anderes als ein dm.
+und jetzt gibt es hoffentlich einen gewissen Wiedererkennungswert dm und u. dm steht hier
+Cv mal dTheta nach dt, das ist genau ein du, also ich kann das hier umdrehen, du ist Cv
+mal dTheta. Und dann haben wir das im Endeffekt hier eingesetzt. Nettes Spiel, was bringt
+bringt uns das, bringt uns das, dass der, jetzt noch eine weitere Gleichung, die steht hier
+Hier oben ist die Foyers-Wärmeleitungsgleichung, hier die Gleichung Nummer zwei, mit dem Q-Punkt
+arbeiten und uns anschauen, dass Q-Punkt nichts anderes ist als minus Lambda mal A d Theta
+nach dx. Dann haben wir hier nichts anderes als ein D-Theta nach mal dx. Jetzt komme ich
+natürlich leider doch etwas durcheinander. Hier müssen wir, Entschuldigung, müssen
+wir hier rüber gehen. Die Quelle, die Wärmestrom, der reingeht, gegen den Wärmestrom, der raus
+geht und das kann man auf der linken Seite ersetzen durch dieses d Theta durch dx. Etwas
+das ist unangenehm, dass ich diese Zeile gerade nicht drauf habe. Lässt sich einsetzen.
+Okay, also ich muss ja etwas, Sie sehen schon, Sie hören schon, ich improvisiere etwas,
+weil ich mir gerade auch schwer tue, was zusammenzufassen, wenn wir das auf jeden Fall hoffentlich
+nachliefern, das mache ich nächste Woche, tut mir leid, komme ich darauf, dass ich hier
+die Theta nach der T gegenüber dem Lambda, was hier oben drin steht, mal der Dichte,
+die hier vorne schon mitkamen, mal der spezifischen Wärmekapazität del quadrat zetra durch del
+x quadrat schreiben können.
+Bitte um Entschuldigung, das war jetzt in der Überleitung nicht ganz klar zu verstehen.
+aber sie können sich zumindest etwa vorstellen, dass ich einmal hier über die zeitliche Ableitung
+spreche und einmal über die Ortsableitung gesprochen habe, die dann mit dem Einsetzen
+dieser Gleichung zu einer zweiten Ortsableitung führt. Ich werde die Folie nächsten Morgen nochmal
+auflegen und vernünftig nachziehen. Wir fehlen an der Stelle auch die Notizen, sonst kann
+man es hier oben direkt auch rein projizieren. Das mache ich vielleicht auch direkt nach
+der Pause, wenn es irgendwie geht. Und was wir erhalten ist also eine Gleichung, ein
+Verhältnis zwischen der Temperatur und ihrem zeitlichen Verlauf und der Temperatur und
+im örtlichen Verlauf. Das heißt, dass sich Temperatur beeinflusst wird, sowohl darüber,
+dass wir einen unterschiedlichen Ort wählen, als aber auch, dass wir einen unterschiedlichen
+Zeitpunkt wählen. Und genau das kommt gleich nochmal im Videobespiel gezeigt, was das bedeutet
+Und wie wir damit auch arbeiten können, wie gesagt, Herleitung in wenigen Minuten nachgerührt.
+Das ist die Partiellifferenz-Equation, aber sie ist nicht so komplex, wie es aussieht.
+Sie ist wirklich nur eine einfache Energiegrenze.
+Sehen Sie sich einen einzigen Punkt in einem größeren Körper an, den wir als kleinen Volumen
+bezeichnen.
+Die Bezeichnungen auf der linken Seite bezeichnen den Nettoffset des Thermal-Energie-Ausgangs
+in das Volumen.
+und der Begriff auf der rechten Seite bezeichnet die Anzahl der Veränderung der Energie, die darin vorhanden ist.
+Wenn mehr Energie ins Volumen fließt, als aus dem Volumen fließt,
+wird die Thermalenergie, die sie vorhanden hat, erhöht,
+was die Temperatur zu diesem Punkt erhöht.
+Durch das Rearrangieren der Equation, um alle materiellen Eigenschaften zusammenzusammeln,
+können wir sehen, dass die Veränderung der Temperatur an einem einzigen Punkt über Zeit
+Die Zeit hängt davon ab, wie die Temperatur um diesen Punkt verbreitet wird,
+und an einer Proportionalitätskonstanz, die auf die Eigenschaften des Materiales hängt.
+Ihr dürft euch vielleicht fragen, warum die Bewegung auf zweite partielle Derivative hängt.
+Um das zu illustrieren, schauen wir uns eine einfache Funktion an, T, die die Temperatur über eine Distanz, x, bezeichnet.
+Differentiieren wir T mit Respekt zu x, das gibt uns die Länge einer Linie tangent zu der Kurve.
+Wo die Temperatur plötzlich erhöht wird, ist die Derivative groß.
+Und wo die Kurve Richtung ändert, ist die Derivative 0.
+Die zweite Derivative gibt uns die Länge einer Linie tangent zu der ersten Derivative.
+This means that positive values of the second derivative correspond to convex areas of
+the temperature curve, and negative values correspond to concave areas.
+The heat equation is saying that heat will flow away from the concave areas of higher
+temperature, where the second derivative is a negative value, and towards the convex areas
+of lower temperature, where it's a positive value.
+The same idea applies in three dimensions.
+An area where the sum of second partial derivatives is negative is an area of high temperature
+relative to its surroundings, so there will be a flow of thermal energy out of that area
+und in die umliegenden Bereiche der niedrigeren Temperatur.
+Weil die Summe der zweiten partialen Derivate ist ziemlich lange zu schreiben,
+ist die Temperatur-Equation oft mit dem Laplace-Operator geschrieben.
+Die drei Material-Equationen in der Temperatur-Equation sind die Thermokonduktivität K,
+die Material-Density Rho und die spezifische Temperatur-Kapazität Cp.
+Die spezifische Hitzkapazität ist die Energie, die von einer Masse von einem Material abgenutzt werden muss, um seine Temperatur zu 1 Kelvin zu erhöhen.
+Multiplieren wir Cp durch die Materialdensity, ergibt uns die volumetrische Hitzkapazität, die per Unit Volumen, statt per Unit Masse, bezeichnet wird.
+Verteilen wir die Thermokonduktivität durch die volumetrische Heizkapazität,
+gibt uns eine nützliche Parameter, die die Möglichkeit eines Materials darstellt, Heizkonduktion zu verursachen,
+versus die Möglichkeit, sie zu besorgen.
+Diese Parameter wird mit dem Begriff Alpha genannt und heißt Thermal-Diffusivität.
+Wenn ein Material eine hohe Thermal-Diffusivität hat, weil es sehr konduktiv ist,
+oder weil es eine niedrige spezifische Heizkapazität hat,
+Der Herd wird durch das Körper viel schneller diffusiert als ein Material mit einem niedrigeren Wert an Thermal-Diffusivität.
+Nur eine kleine Proportion der Energie, die durch den Herd fließt, muss die Temperatur erhöhen.
+So sieht die Herd-Equation aus, wenn Rho, Cp und K mit Alpha verwendet werden.
+In manchen Fällen ist das Material selbst eine Anleitung für Heizung.
+Dies kann z.B. bei Stromkabeln passieren, wo die Elektromagnete, die durch das Kabel fließen, Heizung generieren.
+Dieser zusätzliche Energieinput muss in der Energiebalanze aufgenommen werden.
+Und wir tun dies, indem wir einen Termin zur Anleitung einlegen.
+Dieser zusätzliche Energieinput muss in der Energiebalanze aufgenommen werden, und das tun wir, indem wir einen Term in die Equation hinzufügen.
+Nun, dass wir eine generalisierte Form der Heidequation haben, können wir sie zu den Bedürfnissen der bestimmten Situation simulieren.
+Wenn wir z.B. einen steilen Zustand analysieren, verändert sich die Temperaturdistribution nicht mit dem Zeitraum,
+So the transient term is equal to zero.
+If there is no internal heat generation, we can remove that term too.
+And if it's a two-dimensional case, for example, the Z-term can also be removed.
+Wie können wir Probleme mit der Heidequation lösen?
+Schauen wir uns das Beispiel der Konduktion durch eine Wälder an, das wir zu Beginn
+des Videos gesehen haben.
+Okay, dieses Beispiel ist an anderer Stelle noch mal drin, das werde ich eben gleich noch
+mit dem vorherigen Material projizieren.
+Bitte an der Stelle wirklich um Entschuldigung, ich hatte in meinen Aufzeichnungen da eine
+Ich hoffe, dass das Video ein Stück weit ein erstes Verständnis gegeben hat, wie räumliche
+und örtliche Temperaturfelder die Wärmeleitung beeinflussen.
+Wenn es an einer Stelle heiß ist am Anfang, dann diffundiert diese entsprechende Wärme
+in die benachbarten Regionen.
+Da kommt diese zweite Ableitung zum Tragen von der Logik her, um Gradienten auszugleichen
+und dass wir eben auch in diesem zeitlichen Verlauf das Akkumulieren von Wärme hin zu
+einer erhöhten Temperatur sehen, wie wir auch später in dem zweiten Videoschnipsel
+nochmal ganz schön illustriert bekommen.
+Soweit zu dem hoffentlich einigermaßen eingängigen Gedankenspiel dazu.
+Sonst muss ich das wohl schließen.
+Bitte geben Sie mir eine Sekunde.
+Ich will aber jetzt nachliefern das, was ich gerade eben nicht erreicht hatte,
+nämlich diese Gleichung hier sauber zusammenzutragen.
+Also nochmal eine Folie zurück.
+Und da noch kurz Infos, die ich vergessen hatte, ich nehme jetzt mal den lilaren Stift und dann sehen Sie vielleicht, wo ich gerade arbeite.
+Dieses, was hier oben in der schon vornotierten Kleidung steht, ist nichts anderes als, was uns interessiert, ist die Veränderung der Wärmemenge zu einer bestimmten Zeit.
+Und das ist ja, klar, dQ nach dT, das ist nun mal die gleiche Größe und jetzt können
+wir uns überlegen, dass wenn wir eben keine Quellen haben, also dieses E dort oben Null
+ist, dann ist die innere Energie, ich schreibe es hier oben nochmal hin, Q-Punkt ist gleich
+Hupunkt. Also es heißt, hier handelt es sich um nichts anderes als um eine Veränderung
+der inneren Energie mit der Zeit durch die Wärme. Und das ist jetzt was, was wir hier
+unten in dieser etwas aufgeblähten Zwischengeheichelung mal erarbeitet haben. Und jetzt gilt es, diese
+Informationen da oben hineinzubringen, also im Endeffekt haben wir da nichts anderes stehen
+als Rho mal Delta V, das ist da unten, oder dV, je nachdem wie Sie es schreiben, dV mal
+C, hier ist eine Wärmekapazität gemeint, ich schreibe jetzt das Index V noch hin,
+Wenn es aber um Festkörper geht, ist Cv gleich Cp gleich C, gibt es keine Unterscheidung.
+Und wir können da unten noch diesen Term übernehmen, der da eben stand,
+Del Theta nach Del T.
+Warum kommen jetzt irgendwie gemischt diese Del Zeichen und die D Zeichen,
+vielleicht auch zu einer gewissen Verwunderung geführt,
+Immer dann, wenn wir im Gleichungssystem kombinieren, Ableitungen nach verschiedenen Größen,
+also in die Ortsrichtung X, in die Ortsrichtung Y, Z, aber auch noch in die zeitliche Richtung,
+macht es Sinn, anzuzeigen, dass wir ableiten nur nach einer bestimmten Richtung, nicht in alle Richtungen.
+Und deswegen hier also jetzt ein Stück weit, sag ich mal, spielerisch entwickelt in diesen Gleichungen die Idee, dass wir hier nur noch der Zeit ableiten.
+Wir gehen also auf die zeitliche Veränderung der Temperatur, die hat was mit der Wärmekapazität zu tun.
+Ich denke, das ist soweit in Ordnung.
+Jetzt gehen wir auf den zweiten Term.
+Der sagt, ja, wie verändert sich denn der Wärmestrom mit einem Ort?
+Und da nehmen wir diesen orangenen, skizzierten Tasten, der sagt nichts anderes als Wärme, die reingeht und Wärme, die rausgeht.
+Das ist das hier.
+Und, ähm, das ist ein Fehler hier unten.
+Das ist der, da geht es um den Ortsbereich.
+Hier muss ein X stehen an dieser Stelle.
+Es geht also um das, was sich über den Ort verändert und jetzt können wir an der Stelle
+die Gleichung verwenden, die hier geschrieben ist, also das mit dem Lambda mal der Fläche
+mal diesem entsprechenden Ortsbereich und wenn wir das jetzt einsetzen hier, dann haben
+wir hier ein del nach del x und da haben wir jetzt diese Quadrierung mit dabei. Also wir
+setzen hier diese Gleichung 2 in das hier ein und wir bekommen hier die Fläche mal
+So, und wenn Sie jetzt die zwei Gleichungen hier oben zusammenfassen, also die Idee, was
+passiert denn mit dem Wärmestrom über die Zeit und was passiert mit dem Wärmestrom,
+wenn ich den Ort verändere, also, orangener Kasten, was geht rein, was geht raus in diesem
+Ort und das Ganze in die drei Dimensionen sich vorstellen, in die Y- und in die Z-Achse,
+erhalten Sie eben diese Korrelation zwischen der zeitlichen Ableitung und der Ortsableitung.
+Das ist das, was mir vorhin ein Stück weit gefehlt hat.
+Wenn Sie es jetzt in eindimensionaler Schreibweise machen, können Sie hier zusammenfassen.
+Das ist nämlich die letzte Farbe, vielleicht hier grün.
+Del Theta nach Del T.
+Also eine zeitliche Ableitung vom Temperaturwert ist
+Und dann kommen genau diese Terme, die vorhin angeschnitten wurden.
+Lambda, rho und c, beziehungsweise cv.
+Der Quadrat x nach der x².
+Was haben wir jetzt bekommen?
+Das ist genau die gleiche, die vorher im Video genannt wurde,
+Allgemeine Fourier-Wärmeleitungsgleichung. In dem Falle nur mit einer Koordinate
+geschrieben. Wir können hier noch Y und Z dazunehmen und wir sehen, dass es eine
+Differentialgleichung ist, die hier eine Ableitung hat und hier zwei Ableitungen
+hat. Und wenn wir mit einer dreifachen Ableitung in einer Differentialgleichung
+zu tun haben, dann erinnern Sie sich vielleicht aus Ihren Mathekursen, dass Sie dann auch
+diese Gleichung überlösen können, wenn Sie drei Konstanten, drei Startwerte, Anfangsbedingungen
+oder Randbedingungen haben, indem Sie das Problem genauer definieren, nur dann können
+Sie eine vollständige Lösung errechnen.
+Und genau mit so einer Lösung zu finden werden wir uns jetzt gleich noch vor der Pause kurz
+beschäftigen.
+Wir werden uns angucken, wie kann ich denn diese Gleichung, die jetzt hier entwickelt
+wurde oder sagen wir mal so ein Stück weit motiviert wurde zumindest, wie kann ich die
+denn lösen?
+Für dieses einfachste Beispiel, im Video kam es gerade schon angeschwemmt.
+Haben Sie Frage?
+Okay, wie kann ich die da lösen?
+Für diesen Fall, und das ist jetzt was, was wir ja schon im Rahmen der Vorlesung ganz oft
+uns angeguckt haben, klassisches Beispiel, hier ist die Wand, da ist der Anfangspunkt,
+die Wand auf der Seitenaußenseite und die Temperaturgradienten da angucke und was ich
+dort mache ist nichts anderes als diese Temperaturgradienten lösen, also ich kann hier notieren, nichts
+anderes als dieser Term, hier ist das A, wenn die Temperatur leicht fällt, A mal del quadrat
+Theta nach del x quadrat und wir wissen, dass in dem Fall, es steht hier stationär im Titel,
+Also ist Del Zeta nach Del T gleich Null.
+Was ist das? Das ist nichts anderes als eine Anfangsbedingung.
+Sie ist also eine Randwirkung.
+Sonst geht der Stift immer.
+Also das geht noch.
+Das scheint das Problem zu sein.
+zu sein. Probieren wir es mal mit diesem langen System. So, also jetzt habe ich da zwei Gleichungen.
+Das ist die Gleichung Nummer 1, hier. Und hier oben ist die Gleichung Nummer 2. Naja,
+gut, ich setze sie ineinander ein. Es ist ziemlich simpel. Da kommt also raus, dass
+dieses hier a mal del Quadrat Theta nach del x Quadrat ist nichts anderes als 0. Und das
+Und das heißt auch, dass ich mir hier das A gleich sparen kann, das kann ich rausschmeißen
+und jetzt habe ich die Aufgabe eine Lösung zu finden.
+Ich will wissen, wie ist denn der Temperaturverlauf in der Wand an irgendeiner Stelle.
+Wohlwissend, dass wir es in der Vorlesung schon behandelt haben, aber ich möchte jetzt
+diese etwas aufwändigere Gleichung zur Berechnung verwenden und ich gebe an der Stelle zwei
+Also zwei Randbedingungen vor, das da oben ist die Anfangsbedingung, ich gebe zwei Randbedingungen
+vor.
+Hier ist 150°, hier ist 70°.
+Okay, wenn ich das vorgebe, dann gehe ich vor.
+Das ist einfach nur ein Durchgespräch, weil es fällt aus, wenn ich da, wenn ich da, wenn
+wenn ich da die Nullsetzung mit habe auf der Gleichung.
+Das war die Idee, ja genau.
+Ich kann doch mit den Fingern schreiben, oh je, oh je, gut, also was haben wir dann, wir
+haben jetzt Integrale, die wir einführen müssen, weil wir die Temperatur selber wissen
+wollen, also zweimal integrieren über x gegenüber dem was wir da gerade haben, del theta durch
+del x, Quadrat, gleich Null, was passiert wenn wir jetzt da integrieren, erstes integrieren
+ist nichts anderes, als dass wir herausbekommen, das Integral von 0 bis x, del zeta nach del
+x ist gleich, so, was ist das, was ist das Integral von 0, über 0 integrieren ist was?
+1, 100, 1000, x, y, z, integral von 0 ist, wie Sie hoffentlich bekannt, es ist nichts
+anderes als eine Konstante. Wenn ich andersrum, wenn ich ableite von der Konstante, kommt
+0 raus. Also das heißt, hier kommt irgendeine Konstante raus, ich nenne die jetzt c1, und
+Und wenn ich das zweite Integral durchführe von hier,
+musste leider nach rechts schreiben, weil das System hat es nicht funktioniert,
+jetzt integriere ich nochmal über eine Konstante.
+Was ist das Integral über eine Konstante?
+Dann habe ich nichts anderes raus als Theta ist,
+wieder diese Konstante c1 mal x, das ist die erste Integrationvariable
+und hier hinten habe ich eine zweite Konstante.
+Also gehen wir andersrum vor, leiten das ab.
+Wenn ich das hier einmal ableite, dann bekomme ich hier C1 raus, das ist genau das, was ich
+hier habe.
+Und jetzt leite ich noch einmal ab, dann kommt hier 0 raus.
+Oder eben hochintegriert von 0 auf C1 und von C1 hochintegriert x mal C1 plus C2.
+Das ist nichts anderes als eine Geradengleichung.
+Und wenn Sie sich die jetzt hier angucken, an der Stelle, bleiben wir eben hier mal in
+dem Koordinatensystem eingefasst.
+sind diese 150° und hier drüben stelle ich jetzt mal 70° weiter unten hin. Dann bekomme
+ich was raus, was hier so ein gerader Abfall ist zwischen diesen zwei Größen und die
+Die Steigung ist nichts anderes M gleich minus 80 Grad durch die Größe L und Grad Celsius
+müsste das da hinten heißen.
+Das bedeutet, dass wir, wenn wir diese Sachen hier einsetzen wollen, dass das C1, in dem
+Falle minus 80 Grad Celsius durch L ist. Und das C2 hier hinten wird dann 150 Grad Celsius
+bedeuten. Das heißt, wenn ich jetzt x gleich 0 einsetze, kommt hier genau 150 Grad raus.
+Wenn ich x gleich L einsetze, die Entfernung bis hier an die Ende der Wand, dann habe
+ich L durch L, das ist 1, minus 80 Grad hier stehen, plus die 150 Grad, minus 80 plus 150
+sind genau 70 Grad.
+Das ist im Endeffekt eine ganz banale Anwendung dieser ziemlich klobig oder unangenehm wirkenden
+oberen Differentialgleichung und wenn wir, wie in diesem Beispiel auf der Folie gezeigt,
+drei Sachen wissen, nämlich hier oben diese Geschichte, dass die Anfangsbedingung gilt,
+dass die entsprechende zeitliche Bedingung hier konstant ist und wir zusätzlich noch
+zwei weitere Informationen haben, die uns später bei der Integration wichtig sind,
+Nämlich Anfangsbedingungen, das ist die Randbedingung da oben, wenn wir diese Randbedingungen haben
+und hier diese beiden Anfangsbedingungen haben, am Anfang war es hier 150 Grad und hier draußen
+70 Grad, dann wird, weil diese Randbedingung gilt und sich das Zeitlicht sowieso nicht
+verändert, dass nach wie vor diese Temperaturen sein und die Integration liefert uns, wie
+ist der Temperaturverlauf zwischen den zwei betrachteten Stellen, nämlich genau linear
+nach unten fällt. Das ist im Prinzip das, was wir am Anfang schon mit dem Fourier-Gesetz
+einmal gesehen hatten. Wir haben aber jetzt mit dieser aufwändigen Gleichung eine Möglichkeit,
+das noch für viele andere und viel schwierigere Probleme zu verwenden, nämlich Probleme,
+bei denen wir nicht stationär arbeiten und das Ganze hier vorne Null ist, mit der Temperaturänderung
+sondern irgendwelche anderen zeitlichen Verläufe sind.
+Und genau das werden wir uns jetzt im zweiten Teil der Vorlesung dann auch anschauen.
+Bevor ich das mache hier noch kurz angemerkt, dass man das gleiche Spiel, was wir gerade
+gemacht haben mit diesem Block und der Durchströmung in eine Richtung natürlich eben auch für
+die anderen zwei Raumrichtungen mitziehen kann.
+Da ist auch nochmal der gesamte Formelapparat mitgezeigt, wieder mit der Wärmekapazität,
+der Dichte und dann diesen Ortsableitungen nach X, Y und Z und eben diesen Quell- oder
+Senkenterm.
+Ich hatte ihn E0 genannt, hier ist er als E³ überzeichnet, um dann genau diese Gleichung
+zu erreichen.
+Und ich würde sagen, wir lassen es an der Stelle dabei erstmal und gehen kurz in die
+Pause.
+Dann hoffentlich etwas sortierter wieder einfangen, wir haben jetzt 9.53 Uhr, was machen wir?
+15 Minuten, ich glaube ich mache noch eine Pause, 10 Uhr.
+Es gab diese zwei Gleichungen, hier steht auch schon Exkurs drauf, also Sie brauchen sich keine Panik machen,
+das wird Ihnen nicht abgeprüft, aber für das Verständnis ist es trotzdem schön, wenn Sie mir ein bisschen folgen können.
+Die obere Idee ist das, was sich über die Zeit verändert.
+Und da haben wir gesehen, mit der gleichen habe ich Ihnen ein bisschen ausführlicher hingekriezt,
+dass da die Wärmekapazität eine Sache mit zu tun hat.
+Ja, das ist aber, denke ich, für Sie alle einig.
+Das mit der Wärmekapazität.
+Da kommt auch noch die Dichte rein und dieses Volumen.
+Das haben Sie auf Ihren Notizen ein bisschen detaillierter.
+Da habe ich mich aber dann etwas verheddert.
+Nichtsdestotrotz, hier gibt es eine Gleichung, die was darüber sagt, wie sich die Temperatur mit der Zeit verändert.
+Und dabei geht es darum, dass wir später, wenn wir dann das Integrieren machen und die Lösung für die Temperatur haben wollen,
+das ist das, was uns alles interessiert, am Ende interessiert uns immer diese Temperatur da drin,
+dass wir diese Lösung über eine sogenannte Anfangsbedingung uns konstruieren und dann
+auch rechnen können.
+In dem Beispiel in der Wand, was vorher kam, noch kurz vor der Pause, ist die Anfangsbedingung
+ganz einfach, die heißt nämlich, das ganze System ist über die Zeit konstant, so wie
+es am Anfang aussieht, sieht es auch am Ende aus.
+Diese Anfangsbedingung hilft uns bei der Lösung ganz ungemein.
+Die zweite Variante ist die, dass man hier anguckt, wieviel geht rein und wieviel geht
+raus und das ist hier nur in orange gezeigt, in diesen Ortsrichtung X, das kann man natürlich
+aber auch in die anderen beiden Raumrichtungen zeigen und wenn man das macht und an der Stelle
+hier wieder richtig ein Minuszeichen wählt und dann wieder die Fourier-Schrift stationäre
+Wärmeleitungsgleichung nimmt, das kennen Sie, das ist in Ihrer Vorbeisammlung drin.
+Dann sieht man, dass sich hier aufgrund dieses Kastens einmal eine örtliche Ableitung ergibt.
+Was ist links, was ist rechts und aufgrund der Gleichung nochmal eine örtliche Ableitung ergibt.
+Quadratisch abgeleitet und was bedeutet das, dass wir am Ende, wenn wir Lösungen finden wollen,
+hier ein Beispiel mit der Wand, dass wir zwei Randbedingungen haben.
+Also eine Anfangsbedingung, zwei Randbedingungen und dann können wir mit dieser Gleichung arbeiten.
+Die Gleichung als solches, nach meinem Wissensstand auch bei Ihnen in der Formelsammlung,
+habe ich sogar mit notiert, in jedem Fall aber ist die Grundlage für die ganzen Dinge,
+die später, nee, ist so nicht notiert, stimmt nicht,
+die ist aber Grundlage für die ganzen Dinge, die sich später dann mit Formelwerk berechnen.
+Das werden wir im Detail jetzt noch ein bisschen heute kennenlernen, im größten Teil dann
+in der nächsten Stunde.
+Bevor ich das aber mache, zeige ich Ihnen noch einmal ein Video, wo man das nochmal
+sehr plastisch sieht, wo man auch dieses mit dem A, dieser Temperaturleitfähigkeit,
+nochmal entwickelt bekommen, eben den Beispiel hatte ich schon mehrfach angesprochen mit
+dieser Bremsscheibe, die aufgeheizt wird.
+Beachten Sie, im Video steht hier eben Alpha statt A, so ist es im Eingangssexus nicht wahr, genau.
+Jetzt hoffe ich, dass das Video geht.
+Das ist das, was wir vorhin schon gesehen haben, da passt das Video, glaube ich, nicht ganz,
+ganz, so wie es bei mir eingestellt sein sollte. Hier ist das Richtige, hoffentlich jetzt.
+Zack. Probieren wir das. Ja.
+Video.
+Wenn irgendein Objekt angeheizt wird, wie z.B. der Rotor in einem Fahrrad, der heiß wird, wegen der Friktion,
+verändert sich die Temperatur innerhalb des Körpers, indem die Thermalenergie von heißeren zu kälteren Bereichen fließt.
+Diese Redistribution der Thermalenergie nennt sich Thermalkonduktion.
+Es ist einer der drei Arten, in denen Heizung möglich ist, zusammen mit Konvektion und Radiation.
+Verständnis von Kondition ist wirklich wichtig für so viele Ingenieur-Applikationen.
+Lass uns also mehr darüber lernen.
+Auf der molekularen Ebene ist Thermal-Energie wirklich nur die randome Bewegung der Atome und Moleküle, die ein Objekt herstellen.
+Je höher die Temperatur ist, desto größer wird die Bewegung,
+und nahe dem absoluten Null gibt es kaum eine Bewegung.
+Denn die Atome eines Materials verbinden sich von sich selbst durch Böden und formen eine Lattenzstruktur.
+Die Vibrationen der Atome reisen durch die Latten, was in der Thermalenergie auslöst,
+von Bereichen mit höherer Energie zu Bereichen mit niedrigerer Energie.
+Dies ist das Mechanismus, durch das die Heizkonduktion passiert.
+Je stiffer die atomischen Böden sind, desto mehr regulär ist die Lattenzstruktur.
+desto leichter wird die Energie zwischen den Atomen durch diese Vibrationen getransferiert.
+Ein zweites Mechanismus, um Heizung zu verarbeiten, besteht aus metallischen Materialien,
+weil sie freie Elektronen enthalten, die durch den Lattiz fliegen können,
+mit anderen Partikeln zusammenfallen und Energie in der Prozesse wiederverteilen.
+Die Präsenz dieser freien Elektronen erklärt, warum Metall so gute Thermal-Konduktoren sind.
+Sie benötigen den gemeinsamen Effekt des Bewegens freier Elektronen und der Vibrationen des atomischen Atoms.
+In Gasen und Flüssigkeiten erfolgt die Bewegung meistens durch Kollisionen von Atomen und Molekülen.
+Im Studium der Bewegung interessieren wir uns meistens darauf, wie hoch der Hitzeausstieg ist,
+das ist die Menge Energie, die pro Sekunde durch eine bestimmte Umgebung eines Objekts fließt.
+Es wird mit dem Buchstaben Q bezeichnet und hat Units von Joule pro Sekunde, oder Watt.
+Wir beginnen, indem wir den einfachen Fall des Heiztransfers durch eine Wälder anschauen,
+die einen Bereich A und eine Dichte L hat, und einen heißen Raum von der kühlen Außenseite trennt.
+Wir nehmen an, dass die Wälder-Surface in der Wälder ist bei einer Temperatur T1,
+und dass die Außenseite bei einer Temperatur T2 ist.
+Thermal energy always flows from higher to lower temperatures, so heat transfer will occur from the hot side of the wall to the cold side.
+If the rate of heat transfer is large, a lot of energy will be lost through the wall.
+We can calculate the heat transfer rate, Q, using Fourier's law.
+Wenn kaltes Material von höheren zu hohen Temperaturen fließt,
+ist die Größe für eine hohe Temperatur von Fourier's Law erhoben.
+Anstatt uns die Temperatur in Watt zu verändern,
+ergibt Fourier's Law in dieser Form die Temperatur in Watt pro m2.
+Fourier's Law ist keine grundlegende Equation,
+die aus ersten Prinzipien hergestellt werden kann,
+aber es ist wirklich nur so, wie die Thermalkonduktivität definiert wird.
+Da K experimentell für unterschiedliche Materialien getestet wird,
+sind alle Komplexitäten, die mit dem unterliegenden Mechanismus der Konduktion verbunden sind,
+wie zum Beispiel die Vibrationen der Ladestruktur, abstrakt,
+und müssen nicht in der Ingenieuranalyse betrachtet werden.
+Gase und nonmetallische Flüssigkeiten haben oft sehr niedrige Thermalkonduktivität,
+weil die große Umgebung zwischen Molekülen bedeutet, dass die Thermalenergie weniger leicht transportiert wird.
+Nonmetallische Soliden kommen als Nächstes, folgt von Alloyen und puren Metallen,
+die sehr hohe Thermalbedürfnisse haben, weil sie drei Elektronen enthalten.
+Der Diamant ist ein interessantes Material.
+Er hat eine sehr hohe Thermalbedürfnisse, obwohl er nicht metallisch ist.
+Das ist, weil ihre sehr regelrechte kristalline Latte und starke atomische Bomben
+Lattensvibrationen sehr effizient durchführen können.
+Auf der anderen Seite des Spektrums gibt es Materialien wie Aerogel,
+die mit extrem niedrigen Thermal-Konduktivitäten eingenommen werden.
+Hier ist, wie sie sich mit ein paar anderen gemeinsamen Materialien vergleichen.
+Dies sind die Thermal-Konduktivitäten bei Raumtemperatur.
+Und obwohl die Leitungsfähigkeit mit der Temperatur verändert ist,
+können bei vielen Thermalanalysen konstante Werte erwähnt werden.
+Bis jetzt haben wir nur einen eindimensionalen Fall angesehen,
+in dem der Heizverlust in einer einzigen Richtung passiert.
+Der Temperaturfeld T ist eine Funktion der x-Koordinaten.
+Aber es gibt auch zweidimensionale Fälle,
+in denen die Temperatur eine Funktion der x- und y-Koordinaten ist.
+oder dreidimensionalen Fällen, in denen es eine Funktion von x, y und z gibt.
+Um zu verstehen, wie wir Fourier's Law zu diesen Fällen verwenden können,
+müssen wir zuerst verstehen, wie Heizung in zwei- und dreidimensionalen Fällen fließt.
+Kondition ist immer von einer Temperaturverschiebung ausgedrückt,
+was bedeutet, dass keine Heizung über Isothermien fließt,
+die Linien einer konstanten Temperatur in zweidimensionalen Fällen
+oder Oberflächen von konstanter Temperatur in dreidimensionalen.
+Da es kein Komponent des Heizfluxvektors sein kann, der mit den Isothermen verbunden ist,
+in isotropischen Materialien muss der Heizfluss immer perpendikulär zu den Isothermen fließen.
+Wenn wir n als das Normale zu den Isothermen an einem bestimmten Punkt definieren,
+dann kann in der Masse ein Faktorfeld T getestet werden.
+Zum Beispiel...
+Video hat wahrscheinlich jetzt auch nicht den neuesten Durchbruch gebracht,
+man hat wahrscheinlich noch ein paar Sachen im Rückblick zu den Wärmeleitungsideen,
+die wir vorher studiert hatten, auch mit den anderen Materialien.
+Wir wollen uns aber jetzt wirklich darauf konzentrieren,
+diesen zeitlichen Verlauf anzugucken, der mit dieser jetzt vorhin erarbeiteten Gleichung
+der entsprechend uns in diese verschiedenen Geometrien führt.
+Häuser, Kühlrippen, alles schön und gut.
+Wände, aber jetzt geht es um Dinge, wo man sieht,
+was passiert über die Zeit, wie schnell erwärmt sich
+ein Steak oder ein anderer Körper in einem Ofen.
+Und wenn wir das jetzt machen, dann werden wir uns anschauen, wie so eine Temperaturausdehnung
+oder beziehungsweise eine Temperaturausbreitung innerhalb eines Materials stattfindet.
+Und hier soll mal ein Beispiel genannt sein.
+Oben einen Kupferball oder noch extremer wäre eine Kugel, die rein aus dem Material Silber ist,
+Bei der die Größe A, A ist ja nichts anderes als dieses hier, diese Temperaturleitfähigkeit
+extrem groß ist, warum ist die bei Silber so groß, wir hatten im Video gesehen, bei
+Silber haben wir freie Elektronen, wir haben sehr gute Gitterstrukturen, deswegen ist die
+Wärmeleitfähigkeit als solches schon mal hoch und steht deutlich heraus gegenüber
+was die spezifische Wärmekapazität von dem entsprechenden Material ist.
+Also hier ist A sehr groß. Ich hoffe, das funktioniert jetzt.
+Ich schaue, wie es gleich unterwegs ist.
+Also hier wird A sehr viel größer als 1.
+Und wir haben dann andere Materialien, die zum Beispiel hier unten
+jetzt in dem Falle dargestellt ist ein Roast Bee, wie auch immer ein Körper, der in dem Falle sehr viel Fett enthält
+und darin entsprechend Material, was sehr inhomogen ist, was sehr amorph ist
+und diese amorphen Materialien, die haben eben nicht so gute Wärmeleitfähigkeitseigenschaften
+Gleichzeitig haben wir aber eine hohe spezifische Wärmekapazität, im Endeffekt ist das nichts anderes als
+Nahe an Wasser, diese ganzen Flüssigkeiten in irgendeinem Wegfleischstück und dann entsprechende Dichtetherme,
+die damit eintreten. Hier bekommen wir in diesem Fall, und wir sehen, dass wenn wir die beiden Objekte
+Objekte jetzt irgendeiner äußeren Temperatur aussetzen, meinetwegen hier steht 70°C,
+dann wird das ganz schnell überall im Körper die gleiche Temperatur haben.
+Wohingegen hier das Beispiel zeigt, dass außen das Material schon stark erhitzt ist
+und in der Mitte ist es aber noch ganz kalt und es dauert sehr lange bis es sich fortsetzt.
+Wenn wir das Ganze jetzt visualisieren wollen, haben wir immer die Schwierigkeit,
+dass ich das an der Tafel nicht so leicht machen kann.
+Wir haben unterschiedliche Zeitpunkte und gleichzeitig noch eine Ortskoordinate, in
+dem Falle hier gezeigt nach rechts und eine Temperaturkoordinate, die ist gezeigt nach
+oben.
+Und ich habe mir jetzt erlaubt, das gleich einzublenden, Sie können es hoffentlich dann
+kurz entweder mit skizzieren oder ein Foto nehmen, ich kann es im 2-Bit-Verlauf im Nachgang
+nochmal einstellen.
+Es geht darum, dass wir jetzt über den zeitlichen Verlauf uns angucken, wie zum Beispiel ein
+aufgeprägter Wärmestrom in einem Material sie verhält. Also sie stellt sich vor, hier
+linker Rand, das ist mein Ding, innen im Gebäude, rechter Hand ist außen vom Gebäude und wir
+prägen auf von innen hier Q Punkt, also ein Wärmestrom und am Anfang lila gezeigt sehen
+wir die Temperatur an jedem Ort und zu der entsprechenden Zeit, nämlich der Zeitpunkt
+T0 am Anfang, ist eine Konstante. Überall ist meine Wand meinetwegen 25 Grad warm. Oder
+nehmen wir 0 Grad kalt. Und jetzt fange ich an und heize von innen in meiner Berghütte,
+die ausgekühlt war, herauf und ich bekomme den blauen Temperaturverlauf ganz innen.
+Es ist ein bisschen wärmer, aber innerhalb der Wand verschwindet dieser Temperaturanstieg schnell
+und ich bin wieder bei dem, was ich ursprünglich hatte.
+Und dann, über den zeitlichen Verlauf, sehen Sie, wie sie sich langsam dahin entwickelt
+und bei Tee unendlich.
+Das heißt, wenn Sie lange genug geheizt haben, dann sind Sie bei der Situation,
+Wie Sie die ganze Zeit mit der Wärmeleitung kennengelernt haben,
+nämlich ein konstantes und stabiles Temperaturprofil,
+innen warm, außen kalt, linearer Temperaturabfall.
+Das haben wir uns jetzt schon ganz, ganz oft angehört.
+Jetzt nehmen wir den zweiten Fall, der ist ein bisschen anders.
+Der ist nicht so, dass ich hier sage,
+ich heize die ganze Zeit nach.
+Sie sehen auch, dass dieses Grüne hier sich immer noch nach oben versetzt hat gegenüber
+dem früheren Zeitpunkt.
+So, dann hier nämlich den zweiten Fall, ich gebe eine feste Temperatur von außen vor
+und gucke dann, wie verändert sich die Temperatur da drin.
+Nicht wie kommt eine feste Wärme, Strom, sondern eine feste Temperatur.
+Da passt jetzt sehr gut das Beispiel, da habe ich nicht verdampft und kondensiert, aber
+auch das Ei ins Wasser schmeißen. Sie schmeißen ihr kaltes Ei ins kochende Wasser. Nahezu
+unmittelbar wird die Kalkschale des Eis nahe bei 100 Grad sein. Aber die Mitte vom Ei
+noch lange nicht. Und es gibt überhaupt keinen Grund, warum die Kalkschale noch heißer werden
+würde als die umgebende Temperatur. Nein, sie wird sich natürlich genau an dieser Temperatur
+orientiert und wird dann langsam ins Innere des Materials, oder hier in dem Fall an der
+Wand, sich fortsetzen.
+Mir fehlen jetzt ein paar Farben, die kann ich versuchen noch nachzuliefern, vielleicht
+gelingt das.
+Also hier wäre doch irgendwie so ein Heldenraum mit einzeln sein, nicht wahr?
+Ich krieg's ja nicht.
+Ich hoffe, die Darstellung ist einigermaßen verständlich für Sie.
+Und die Unterscheidung dieser zwei Fälle auch ein bisschen rausgekommen.
+Also bei dem einen heizen wir immer weiter und wir erhalten auch immer weiter ansteigende
+Temperaturen hier am Innenpunkt, wohingegen hier haben wir die Temperatur festgehalten.
+Nächster Beispiel, das werden wir uns noch anschauen, also das werden wir uns gar nicht
+anschauen.
+Die haben wir isoliert, nur vielleicht ganz kurz, hier draußen das Gestriche, da ist nichts
+anderes als hier haben sie eine perfekte Isolation von der Wärme, lasse ich aber jetzt stehen.
+Ganz ähnlich, aber viel mehr in der Relevanz zentral ist diese Idee, wir stellen zwei Körper
+aneinander, wir lassen was berühren und das Beispiel würde sein, wir stellen eine heiße
+Eisenpfanne oder einen Topf oder sowas auf den kalten Tisch und schauen uns an, was passiert
+an dieser Schnittstelle.
+Am Anfang ist der eine Körper heiß, meinetwegen der Topf und der andere Körper kalt, der
+Tisch und dann sehen wir, wie über die Zeit sich langsam die Temperatur angleicht, bis
+beim grünen Fall dann alles lauwarm ist.
+Der gesamte Tisch und der gesamte Topf.
+Sie dürfen das gerne so mitnehmen, da haben Sie es einigermaßen leserlich hoffentlich
+in den Untergang.
+Ich kann es im Nachgang, wie gesagt, auch nochmal einstellen.
+Es ging jetzt also darum, diese Idee des zeitlichen Verlaufs mitzuschneiden.
+Ich habe diesen Regenbogen da verwendet, den versuche ich auch durchzuziehen in den nächsten
+Folgen.
+Gut.
+Sind Sie soweit?
+Einigermaßen?
+Ja?
+Passt.
+Dann nächstes Spiel.
+Wir wollen jetzt nochmal uns Revue passieren lassen, was passiert bei verschiedenen Geschwindigkeitsregelungen.
+Geschwindigkeitsverläufe und die gerade skizziert über genau diese Temperaturleitfähigkeit,
+wenn die Temperaturleitfähigkeit klein ist, reiten sich Dinge viel langsamer aus als wenn
+sie groß ist, das heißt, wir nehmen jetzt diesen einen vorgenannten Fall, hier ist die
+die Temperatur 0 und dies beim anderen Beispiel genauso. Schmeißen Sie ein Ei ins Wasser
+oder schmeißen Sie eine Kupfer- oder gar Silberkugel ins Wasser. Beide kriegen an der
+Oberfläche sofort diese äußere Temperatur, aber über die Ortskoordinate wird der Temperaturverlauf
+ganz anders aussehen in der Zeit. Wenn ich jetzt den dunklen blauen Farbton habe, dann
+ist der Körper am Anfang auch genau in der Ausgangstemperatur. Das ist gleich. Und sobald
+ich das ganze Spiel laufen lasse, wird sich das hier ganz langsam bewegen. Das ist mein
+Das ist mein weniges Ei.
+Und bei diesem Beispiel habe ich schon nach sehr kurzer Zeit einiges an Wirkung.
+Während ich dann über die nächsten Farbverläufe nicht mehr so entlanghangeln kann.
+Jetzt hat er meine ganze Aufzeichnung gelöscht.
+Okay, also Sie hatten es hoffentlich gesehen, ich hatte also hier die Anfangstemperatur
+versucht zu skizzieren, jetzt muss ich es einfach nochmal knapp aufversorgen.
+Und ich mache jetzt nur noch zwei Farbbilden, einmal den dunklen Farbton, weil eben das
+schneller gehen und aber bei einem, wenn wir bis ins unendliche gehen, wenn dieses
+Tetraunendlich sehr weit weg geht, dann haben wir hier,
+nehmen wir mal den dunkelgrünen Farbton, vielleicht besser, kurz vor dem unendlich fallen,
+so ein Temperaturversorgungsmodell, der hier schon stark stationär ist. Also Sie haben es hoffentlich ein
+Stück weit vorhin mitstellen können, leider ist die Arbeit mit dem Stift nicht ganz
+Ohne, am Ende, eine Art breitet sich schnell aus, das andere langsam.
+Man spricht auch in Deutschland manchmal über Wärmediffusivität,
+also das, wie schnell Temperaturen sich im Material verändern
+und wie schnell sie da ein- und dringend- und weiterkommen.
+Leider war der Videoschnipsel genau abgeschnitten, was ich Ihnen so gerne gezeigt hätte.
+Man kann an solchen Farbbildern eigentlich ganz gut sehen, wie sich dann innerhalb von Materialien sowas fortsetzt.
+Soweit an der Stelle die Idee, die dahintersteckt.
+hier nochmal katalogisiert für verschiedene Materialien, wie jetzt schon mehrfach gesagt
+bei Silber besonders hohe Werte, passen Sie auf, die Zahlenwerte sind wirklich außerordentlich
+groß, wir haben hier immer mit 10 hoch 6 als Vorfaktor zu tun in Quadratmeter pro Sekunde,
+das ist also eine Flächengeschwindigkeit, so schnell schreitet diese Temperaturfront
+innerhalb des Materials voran. Daher kommt ein Stück weit motiviert diese Einheit und
+Sie sehen, das Ganze setzt sich dann zusammen aus nichts anderem als der Wärmeleitfähigkeit,
+die genau den gleichen Trend hier folgt. Also typischerweise sind Materialien, die hohe
+Wärmeleitfähigkeit haben, haben auch eine hohe Temperaturleitfähigkeit. Nichtsdestotrotz
+werden die korrigiert um die spezifische Wärmekapazität und um die Dichte der jeweiligen Materialien,
+Welt schon mehrfach gesehen. Da sind aber auch haufenweise andere Körper in Textbüchern
+verzeichnet, in dem Falle sind es lauter, ja, sage ich mal, biologische Materialien
+oder irgendwelche Lebensmittel, also für die Physik-Spezialistinnen und Spezialisten
+unter Ihnen, die können künftig ihr Kochbuch durch die entsprechenden Berechnungsgrundlagen
+von der Temperaturleitfähigkeit erweitern und sagen, wie lange wird es genau dauern,
+bis mein Brot in der Mitte genau richtig gebacken ist, dass das Eiweiß stockt oder wie auch immer.
+Am Ende also ein Thema, was eine gewisse praktische Relevanz hat
+und was wir jetzt aber noch für verschiedene Geometrien anwenden wollen.
+Ihr jetzt mal in dem Falle mit dem sogenannten halb-unendlichen Körper, das wird jetzt nochmal
+bestimmter Viertelstunde etwas, naja sag ich mal, theoretisch und dann bringen wir das
+Ganze in ein Rechenbeispiel.
+Wir nehmen als vorhin schon genannt, Anfangsbedingungen, die wir hier setzen müssen, damit wir was
+lösen können. Mal an, wir hätten ein Problem, was zu einem Zeitpunkt T gleich Null, also
+am Anfang, eine bestimmte aber nicht unbedingt Null seiende Temperaturverteilung, also T
+Theta von x, t ist gleich 0, ist Theta A.
+Ja, was bedeutet das?
+Das heißt im Endeffekt, wir beginnen das Problem damit, dass mein Ei oder meine Kupferkugel,
+die ich ins Wasser schmeiße, am Anfang genau die gleiche Temperatur überall hat und nicht
+starten mit irgendeiner komischen Temperaturverteilung. In der WSTR-Vorlesung werden wir generell
+immer so starten. Also wir haben immer Körper, die vollständig homogen durchwärmt sind
+und entweder kalt oder warm sind und dann bringen wir sie in Kontakt und dann gucken
+passiert an der Schnittstelle, an der Oberfläche, an der Berührungsfläche.
+Und dann haben wir noch zwei weitere Randbedingungen, die wir definieren müssen und jetzt in den
+ersten Folien schauen wir uns dann insbesondere diesen ersten Fall an, hier oben, dass die
+Temperatur in der Oberfläche vorgegeben ist, also Theta OF, Oberfläche, ist Theta 0 von
+T. Das ist eben durchaus nicht unbedingt dann zeitlich konstant, aber wir haben eine Oberflächentemperaturvorgabe.
+Auch hier gilt in der WSTR, dass wir Konstant annehmen, Thetanol konstant, okay, Sie werden
+es dann noch sehen.
+Dann haben wir den zweiten Fall, der uns beschäftigt, dass wir den Wärmestrom aufprägen.
+Sie haben es vorhin in der Grafik vielleicht schon gesehen, man sieht, dass es dann gleichungsmäßig
+schon ein bisschen komplizierter, aber es bedeutet auch nichts anderes, als dass der
+Wärmestrom vorgegeben ist genau an der Stelle da, wo ich mein x gleich 0 definiere, da wo
+ich mich dann für interessiere. Also es wird von außen in die Wand hineingeheizt und ich
+habe hier meine Heizung stehen und die erwärmt hier die Wand und das nehme ich als x gleich
+0 und nehme die x-Koordinate nach draußen und gucke mir jetzt an, wie verändert sich
+das. Da spielt wieder mal die Wärmeleitfähigkeit eine zentrale Rolle in dieser Randbedingungsvorgabe
+Und ich kann aber auch noch diese Sache spielen, dass ich mit anderen Materialien in Kontakt trete.
+Da gibt es wieder zwei Varianten.
+Die erste ist, dass ich es in die Flüssigkeit gebe und mir beide Temperaturverläufe mit anschaue.
+Dann sieht es so aus, dass sich die Temperatur an dem Ort gegenüber der Temperatur ganz in unendlich weiter Entfernung verändert.
+Es ist ganz ähnlich wie das, was eine Falt drüber steht, nur mit den Konvektionstermen.
+Und beim Festkörper erspeichern wir jetzt mal die Gleichung, aber umso mehr wird es
+bald dann wichtig sein.
+Da sind Körper 1 und Körper 2, die in Kontakt stehen und wir schauen uns dann zwei Koordinaten
+im Prinzip an.
+Also hier gibt es ein X1, das läuft nach da hin und ein X2, das läuft in die andere
+Richtung.
+Also wir müssen uns angucken, wie das hier an dieser Grenzfläche sich verhält.
+So, mehrere unterschiedliche Aufgabentypen, die aber eben immer gemeinsam haben, dass
+sie sich um diese Gleichung drehen, eine Handwerksbedingung, den Oben- und zwei Randbedingungen, da gibt
+es jetzt verschiedene Fälle, definieren und wir werden in dieser Vorlesung diese entsprechende
+Gleichung nicht lösen. Ich erspare Ihnen die harte Differenzialgleichungs-Mathematik,
+die Sie in der Mathekurs sehr stark durchdeklinieren, denn die Aufgabentypen, die wir hier anwählen,
+sind sehr kompliziert, sehr aufwendig und am Ende entscheidend für Sie, denke ich im
+Sinne des Wirtschaftsingenieurstudiums, ist nicht, dass Sie jetzt diese Differenzialgleichung
+in der Klausur dann reproduzieren, sondern dass sie damit rechnen und arbeiten können
+in der Anwendung.
+Und genau das wollen wir machen.
+Wir nehmen also jetzt diesen Fall 1, gucken uns an, wie ist der Temperaturverlauf über
+die Zeit.
+Hier ist es jetzt nicht so schön in Regenbogenfarben, aber die Idee ist die gleiche, am Anfang ist
+links, Temperaturverhältnis geht dann da rein und haben genau diese Gleichung, wieder das was wir
+gerade hatten, also Theta von x,t gleich 0 ist Theta A, das ist die Anfangstemperatur, Sie sehen
+sie hier im Bild. Ich nehme vielleicht eine andere Farbe. Also hier Theta A, das ist vorgegeben
+am Anfang. Dann haben wir die zwei Randbedingungen, die wir geben müssen. Zu jeder Zeit, also
+t ist größer 0, an der Stelle x0, ja das ist nichts anderes als das, was wir hier haben,
+Theta von x ist Null und zwar an jeder Zeit, nämlich genau Theta Null, auch hier kurz
+farblich hinterlegt, also wir gehen uns um dieses Ding, dass diese Temperatur vorgegeben
+ist. Und der dritte Punkt, die zweite Randbedingung, dass wir, Theta von x geht gegen unendlich,
+es kommt eine halb unendliche Körper zum Spielen und zu tragen, das heißt, wenn ich
+nur weit genug weg gehe, hier rüber, dann habe ich immer noch eine Bedingung, so wie
+wir sie vom Anfang aus kannten. Also heißt, wenn ich mein Ei ins Wasser schmeiße, dann
+wird das, was jetzt gleich als Lösung kommt, nur funktionieren, solange zumindest die Ei-Mitte
+immer noch genau so kalt ist, wie sie am Anfang war, 25 Grad meinetwegen. Ich schmeiße das
+Ei ins 100 Grad heiße Wasser und wir finden jetzt eine Lösung, die fällt gleich vom
+gleich vom Himmel, die nur dann gilt, wenn Sie sich das äußere Teil des Eis, also die
+Schale, angucken wollen und aber sichergestellt ist, dass das Ei in der Mitte immer noch 25
+Grad hat, sonst gilt das Ganze gar nicht.
+Also wir haben da immer noch die Ausgangstemperatur, nehmen wir es in Orange reinlegen und das
+ist nichts anderes als diese Stelle, was?
+Also einmal hier, einmal hier und einmal hier festgemacht, wobei dieses anfangs, das grüne
+ist nicht so anders als eigentlich die gesamte gestrichelte Linie, wenn man es so ergänzt.
+Und was kommt dann raus, es ist eine Differenzialgleichung zweiter Ordnung mit eben diesen drei Barrieren,
+und die Lösung dieser Differenzialgehaltung ist nichts anderes als, dass wir die Ausgangstemperatur nehmen
+plus Zeta A minus Zeta 0 mal
+und jetzt kommt diese sehr merkwürdige Lösungsfunktion, nämlich die Error Function
+Und da steht jetzt noch was drin, x durch 2 mal Wurzel aus a mal t.
+Fällt alles vom Himmel.
+Steht aber auch in Ihrem Vorbesatzung drin.
+Und vielleicht noch ganz kurz, dieses Ganze hier ist nichts anderes als ihr Z, also der
+entsprechende Term, gerade wo ich das finde, in ihrer Form ist er im Prinzip verband mit
+W211. So, was bedeutet das Ganze? Wir haben plötzlich eine Funktion genutzt, als Lösungsfunktion.
+Wenn wir die einsetzen und dann differenzieren oder integrieren, dann passiert grad das Wichtige.
+Es soll nicht unsere Aufgabe sein, diese Funktionen genauer zu erklären, was wir aber schon brauchen,
+ist zu wissen, wie verläuft diese Funktion.
+Das kommt auf der nächsten Folie nochmal.
+Ich zähle das jetzt bloß hier nochmal, während Sie vielleicht noch fertig notieren.
+Oder auf einer der nächsten Folien.
+Wir schauen uns diesen Verlauf noch genauer an.
+Aber er geht auf jeden Fall von 0 bis 1, unabhängig davon, welche Zahlenwerte wir einrechnen.
+Also die Errorfunktion gibt immer irgendwas zwischen 0 und 1.
+Was bedeutet das auch?
+Wir versuchen das Ganze jetzt noch ein bisschen weiter zu generalisieren.
+Ich habe diesen Term hier so geschrieben gerade und ich hatte das in den Temperaturen ein
+anders hingestellt, aber wenn Sie das vergleichen, ich gehe nochmal einmal zurück, dann haben Sie hier
+nichts anderes als Theta von xt minus Theta 0, wenn ich das auf die linke Seite ziehe, nicht wahr?
+Und dann haben Sie dieses Funktions, also diesen multiplizierenden Beitrag,
+dieser Unterschied der Temperaturen, das ist übrigens nichts anderes,
+als die Abstand zwischen diesen zwei Temperaturen hier,
+Diese Streizung multipliziert mit der Error-Funktion, die immer zwischen 0 und 1 ergibt.
+Also Temperatur an dem Ort xt, das ist das, was vorher links stand, minus das andere, durch diese 2.
+Und das nennen wir jetzt neu auch noch dimensionslose Temperatur.
+Auf der rechten Seite dieses Teil, was vom Himmel fiel, wie gesagt.
+Was auch nochmal eine spezielle Größe hat, ist a mal t, kann man auch noch als Fourierzahl umschreiben, wenn man es über diese entsprechende Ortslänge nimmt.
+Lassen Sie es einfach mal so im Raum stehen, Sie werden es gleich noch, hoffentlich, besser in die Anwendung bekommen.
+Das Ganze, wenn wir das so machen, ist eine Nährungslösung, das stimmt nicht perfekt,
+weil das Ei bleibt in der Mitte nicht 25 Grad kalt, wenn wir es ins kochende Wasser schmeißen.
+Es gilt auch nur unter Nährungsbedingungen und ist aber sehr hilfreich, um Dinge abzuschätzen.
+Und hier steht es nochmal mit den Einschränkungen ein bisschen genauer, das müssen Sie jetzt
+aber nicht zu sehr sich im Detail anschauen, aber am Ende gilt das Ganze für kleine Formulierzahlen.
+Das heißt, dass genau eben niemals komplett durchwärmt werden darf, das heißt eben,
+dass das Ei in der Mitte noch acht bleibt.
+Und das kann man sich auch nochmal mit so einer Formel hier genauer anschauen, das ist
+Das ist aber nicht ihre Aufgabe, das zu tun, nur dass sie es wissen.
+Was mir wichtiger ist, dass sie jetzt mitschreiben, was bedeutet dieses Funktionsargument für
+zwei Randfälle.
+Und zwar werde ich mit Ihnen angucken, die beiden Extremfälle, nämlich wenn ich die
+Temperaturanschau genau am Anfang, beziehungsweise ganz genau an der Koordinate x gleich 0 und
+an der Koordinate x gleich unendlich, also wir schauen uns hier an, dieses Theta-Stern,
+Ich schreibe jetzt von der Gleichung, die da oben steht, mal um und hol mir dieses Funktionsargument
+hier wieder rüber.
+Zeta A minus Zeta Null, das ist nichts anderes als eine Seite drüber.
+Jetzt stellen wir wiederum, das ist genau das, was wir zuvor als Fragestellung hatten.
+Wir wollen ja wissen, wie ist die Temperaturverteilung an einer Stelle x und t.
+Das ist genau diese Temperatur, die irgendwo im Raum ist und hier mit diesen roten Linien gezeigt ist.
+Aber ich will es halt jetzt quantitativ haben.
+Ich will hier drin für verschiedene Orte x und verschiedene Zeiten t Zahlenwerte bekommen.
+Und genau das kann ich durch Umstellen erreichen.
+Dann kriege ich wieder dieses komische Theta-Stern, ein großes Theta, dieses O mit den Strichen
+in der Mitte drin.
+Und dort bekomme ich das Argument, was ich auf der anderen Seite stehen hatte, plus Theta
+Null.
+Ich glaube, die Umformung ist jetzt nicht weiter kompliziert.
+Einfach nur von da der linke Teil der Gleichung ein bisschen hin und her gespielt.
+So, und jetzt können wir uns angucken, ich hatte vorhin schon verraten, die Errorfunktion,
+die ja hier auf der anderen Seite steht, kann Zahlenwerte zwischen 0 und 1 erreichen.
+Ist genau das gleiche wie diese entsprechende dimensionslose Temperatur.
+Dieses hier kann also irgendwas zwischen 0 und 1 werden.
+Und jetzt schreiben wir uns die zwei Fälle mal auf, bei Theta Stern ist meinetwegen Null
+als erstes, ist gleich Null, dann folgt, setzen wir ein, Null hier eingesetzt, dann ist dieses
+das Theta von xt ganz genau das Theta 0. Okay, Theta von x, t ist gleich Theta 0. Was ist
+das? Das ist nichts anderes als dieser Punkt. Ja, das macht jetzt total Sinn, denn die dimensionslose
+Temperatur, wie wir hier drin sehen, der Errorfunktion steht an x im Zähler und im Nenner irgendwas
+anderes.
+Wenn ich den Zähler 0 setze, ist dieses Funktionsargument 0, Errorfunktion von 0, ich hatte es vorhin
+schon kurz angeschrieben, Sie werden es gleich nochmal genauer sehen, ist eben auch gleich
+wieder 0.
+Das heißt, nichts anderes als, wenn ich den Ort hier auf 0 setze, kriege ich genau diese
+Anfangstemperatur wieder heraus. Das ist logisch. Zweiter Fall, ich gehe auf Tetrastern ist 1 und
+das passiert immer dann, wenn ich nur weit genug in der Koordinate X weg gehe und dann kriege ich
+heraus, Theta von X, T, jetzt muss ich aufpassen, dass der Computer nicht in die Knie geht,
+der ist fast alle, ist nichts anderes als Theta A. Warum ist das so? Ja, wenn Sie hier
+1 einsetzen, dann kommt hier raus 1, Theta A minus Theta 0 plus Theta 0, das ist also
+nichts anderes als dieses Argument Theta A, die zwei hier, werden sich genau aufheben,
+die beiden Termine. Also, wenn ich nur weit genug weggehe, dann bin ich schon hier hinten,
+das heißt dieses Argument X ist ganz weit, halb unendlicher Körper, dann bin ich auf
+jeden Fall bei dieser Anfangstemperatur. Passt also einigermaßen zusammen, wie der
+genauer Funktionsverlauf ist von diesem Theta-Stern, ja, das ist eben noch nicht so ganz geklärt,
+das kann man eben sich dann anhand von Computerprogrammen ausgeben lassen mit der R-Funktion, oder
+so machen wir es, man nimmt sich Tabellen, die einem da einen Hinweis geben.
+Wollt ihr es einigermaßen skizzieren, was ihr wolltet?
+Also, hier ist die Funktion nur mal genau gezeigt.
+Wir sehen, das nenne ich in diesem Funktionsargument Z.
+Das ist nichts anderes als das, was innen drin stand.
+Hier steht Z.
+Wir hatten auf der Folie vorher gesehen, es war X durch Wurzel aus A und T.
+noch drauf. Z ist gleich x durch 2 mal Wurzeln aus a mal t. Genau unsere Formel, die wir
+vom Himmel fallen lassen, aber genau dieses hier unten haben, wenn z null ist, dann kommt
+für die Errorfunktion genau null raus, wenn ich große Zahlenwerte einsetze, kommt was
+anderes raus.
+Jetzt legen wir hier die entsprechende Variante, dass wir uns ja mal angucken, wie kann man
+die berechnen.
+sagt Excel, Matlab, Python, diese entsprechenden Funktionen sind dort immerhin hinterlegt.
+Sie können heutzutage natürlich auch Objectivity fragen und sagen, ja, gebt mir mal hier für
+das entsprechende Funktionsargument aus, was die Errorfunktion ist.
+Das ist alles, wie gesagt, keine Hexerei.
+Es gibt auch eine analytische Beschreibung.
+Das ist so ein relativ merkwürdiger Integralausdruck, der dort zur Berechnung geht.
+Bei uns war mir das relativ simpel, wir nehmen Tabellwerte oder im Zweifelsfalle auch Diagrammdarstellungen.
+Die Tabellwerte, die finden Sie in der Formelsammlung, da haben Sie diese komplette Arrow-Function-Tabelle mit abgebildet.
+Ich habe die von der Formelsammlung dabei, da unten ist so eine Tabelle drin und die finden Sie auch hier.
+Es ist nur ein bisschen anders gesetzt, aber es ist die gleiche Idee und wenn Sie jetzt
+arbeiten müssen mit so einer Tabelle, dann eben ganz simpel sagen wir, Sie berechnen
+in Ihrer entsprechenden Aufgabe, Z ist gleich 0,48, dann nehmen Sie dieses Funktionsargument
+Hier steht Z, 0,48, hier steht Z, 0,48 ist hier, ist super klein, aber wenn ich mich
+hier ganz nahe hinstelle an den Beamer, dann finde ich die 0,48 und dann kriege ich raus,
+die Error-Function von Z ist nichts anderes als 0,50275 und das ist dann der Zahlenwert,
+mit dem ich eben weiterarbeite, also wenn ich hier 0,48 eingebe, dann komme ich hier
+0,5 irgendwas. 0,5. 0,2. Irgendwie ist es dieser Wert hier.
+Okay, kann man so spielen und damit arbeiten. Übrigens eben ganz angenehm für Sie.
+Sie müssen hier nicht interpolieren im Zusammenhang mit einer Klausur solche Fragen stehen,
+sondern Sie müssen nur die entsprechenden Funktionswerte der nächstgelegenen Lösung hier präsentieren.
+Sie sehen, dass die Abtastrate dieser entsprechenden Funktion auch sehr unterschiedlich ist,
+damit man mit einer ganz vernünftigen Genauigkeit in verschiedenen Zahlenwerten arbeiten kann.
+Wir werden jetzt endlich dazu gehen, dass wir eine Aufgabe machen, aber ich möchte
+sie ehrlich gesagt gerne mit Ihnen gemeinsam durchgehen und nicht im Team.
+Die nächsten Aufgaben dürfen Sie dann gerne gemeinsam untereinander machen.
+Die Idee ist, dass wir eine ernährungsweise halb-unendliche Körper mit Ausgangstemperatur
+so und so haben.
+Der ist kalt, 20 Grad, und jetzt wird dem 100 Grad aufgeprägt.
+Also die reale, praxisbezogene Aufgabe, die dem nahekommt, ist, es gibt zum Beispiel Metalle,
+die müssen abgeschreckt werden mit einer bestimmten hohen Temperatur, damit die Legierung
+besonders gut hält und roststabil wird oder dergleichen mehr.
+Und deswegen wird in der Technik zum Teil ein entsprechendes Metall in heißes Wasser
+geschmissen.
+20 Grad.
+Und jetzt schmeißen wir es in 100 Grad heißes Wasser oder in irgendein Flüssigkeitsbad
+und außen stellen wir sicher, dass die 100 Grad fest behalten werden.
+Und jetzt nach welcher Zeit wird im Körper von einer Tiefe von 5 mm genau gerade 60 Grad
+erreicht.
+Und das sollen wir jetzt rechnen.
+Wir rechnen es für die Aufgabe 1, die Aufgabe 2 dürfen Sie dann gerne einzeln selbst durchführen.
+Vielleicht bevor ich es mache, für welches Material geht es schneller?
+Die Frage an Sie, wird es schneller sein, dass diese 60° erreicht sind im Holz oder
+im Gusseisen?
+Sie haben eben in den Metallen die hohen Temperaturleitfähigkeit, vielleicht die Zahlen werden schon angegeben,
+bei dem anderen müssen wir das schnell noch ausrechnen.
+Vielen Dank.
+Wir können also bei der Aufgabe A uns jetzt schnell ausspielen, wie der Holzwert, in dem
+Falle aussieht, ist nichts anderes als Lambda durch Rho und C und das können wir einsetzen,
+0,17 Watt pro Meter Kelvin, durch.
+Okay, das ist ein bisschen Schreibarbeit und wenn ich mich damals nicht vertippt habe,
+kommt da 0,13 mal 10 hoch minus 6. Ich hatte davor schon darauf hingewiesen, hier habe ich es ein bisschen verwirrend dargestellt.
+Es ist hoch minus 6, also extrem kleine Zahlen, das macht ja Sinn. Hier haben wir 0, bisschen was, hier haben wir 500, hier haben wir über 2000.
+Wenn ich also jetzt 10 auf minus 1 mal 10 auf minus 3 und nochmal mal 10 auf minus 4
+multipliziere, dann kommen Sie eben auf durchaus dann einen relativ großen negativen Exponenten
+bei der Zeta-Potenz, also ein ganz kleiner Zahlenwert, aber es geht also in diese Richtung,
+dass die Einheit passt, Quadratmeter pro Sekunde an Ausdehnung und wir sehen jetzt nochmal
+einen Indikator, dass das also etwa auf den Faktor 100 der Unterschied sein wird.
+Ergänzt zu dem, was wir gerade gefragt hatten, wo geht es schneller, es geht 100 mal schneller
+in dem Eisen gegenüber dem Holz und jetzt geht es darum die Berechnung zu machen und
+Das ist jetzt etwas interessanter, wir müssen bei dieser Aufgabe uns als erstes dieses Theta-Stern ermitteln,
+also diese dimensionslose Temperatur, und die ist nichts anderes als Theta von x,t
+minus Theta Null durch Theta Anfang minus Theta Null.
+Das Ganze finden Sie auch in der Formelsammlung, das ist die W211, ich hatte das schon mal
+genutzt.
+Gute Arbeiten, und jetzt nehmen wir die Temperaturen, ich mach jetzt das gleich mal ohne Einheiten
+zusammen, das sind 60 Grad, die am Schluss erreicht sein soll, an dem vorgegebenen Ort,
+minus 100 Grad, in die wir es reingeschmissen haben, und 20 durch minus 100 sind die beiden
+Extremtemperaturen, die bekannt sind, die vom Anfang und die von der Umwärmung.
+Und wenn wir das ausrechnen, kommt da genau 0,5 raus.
+Und jetzt haben wir exakt die Situation, die wir hier brauchen.
+Also die Error-Function von x durch 2ac
+So, also gleichzeitig 0,5. Was habe ich jetzt gezaubert?
+Das ist nichts anderes als auch wieder die Gleichung W211 angewendet.
+Da steht nicht nur dieser Teil, wie das Thetastern sich verhält,
+sondern eben auch der Teil, dass dieses das Funktionsargument ist, also das genau dem
+Zahlen gleich sein muss. Und jetzt gehen wir zurück in die Tabelle und ich hatte das
+vorhin schon anskizziert, in dem Fall hat es genau andersrum gezeigt. Ich werde das
+jetzt noch mal machen. Ich gehe zurück. Wir wollten in diesem Falle, ich lösche das hier mal
+noch mal alles weg. Das ist vielleicht ein bisschen einfacher. Wir haben hier gegeben,
+dass 0,5 rauskommen soll für die Error Function. Wir müssen hier rüber gehen und uns anschauen,
+was ist hier der Wert. Und ich gehe da rein, indem ich, ich glaube das könnte hier funktionieren,
+0,50275, das ist am nächsten dran, 0,5 die 0,49 etwas wert ist weiter entfernt als dieser
+Zahlenwert und deswegen darf ich hier rüber gehen und miss interpretieren als 0,48 als
+Zahlenwert des Z.
+Das heißt, die erf von Z soll gleich sein 0,5 ist gleich bedeutend damit, dass Z gleich
+0,48 ungefähr sein soll, ja?
+So kann ich es hoffentlich stehen lassen.
+Und jetzt gehe ich wieder auf die nächste Folie, wenn Sie es mir nicht verlieben, und
+nehme das und sage das hier soll jetzt 0,48 werden.
+So, das machen wir mit der Tabelle.
+Also 0,48 ist gleich x durch Wurzel aus 2 mal Wurzel aus a mal t.
+Also kann ich dann umskalen und sagen t ist 1 durch a mal
+und jetzt kommen die Quadrate da mit rein, x, 2, 0,48, da kann man das einigermaßen lesen.
+Und wenn ich das einsetze, dann kommt heraus, T ist gleich 207 Sekunden und ich notiere
+in einer weiteren Farbe.
+Für Gusseisen...
+Können Sie es lesen?
+Für Gusseisen...
+T, ich habe hier noch Eisen, ist gleich 1,9 Sekunden, das habe ich jetzt ohne Rechnung
+Ihnen einfach mal hingeworfen, also ich hoffe Sie konnten einigermaßen mitnehmen, dass
+Die Idee ist, wir haben irgendwelche Level von Temperaturen hier gezeigt gekriegt und
+gefragt wurde in dem Fall nach der Zeit, es gibt logischerweise die Aufgabe auch umgedreht,
+dass Sie sagen nach so und so langer Zeit, sollen Sie bitte sagen wie heiß oder kalt
+ist es an einer Stelle und die Idee ist, dass Sie diese entsprechende passende Formel nutzen
+Die sagt nichts anderes als Thetastert ist dieses, aber auch dieses und das eine Argument,
+die eine Gleichungsseite in dem Falle lösen kann, den absoluten Zahlenwert, die andere
+über die Tabelle, das Funktionsargument ermitteln, es kommt raus, es dauert 200 oder gut 200
+Sekunden, das sind also etwas mehr als drei Minuten, bis diese Temperatur von 100 Grad
+es erreicht hat, dass wir immerhin mal 40 Grad Erwärmung in 5 mm innerhalb bekommen
+haben.
+Es sind natürlich auch Fragestellungen, die in der Lebensmittelindustrie eine extrem große
+Rolle spielen.
+muss ich irgendwas aufheizen, damit ich irgendwelche Bakterien zerstöre oder sowas.
+Das sind genau die Fragestellungen, die man sich dort für Produktionsabläufe stellt
+und sagt, um, weiß ich nicht, durch eine Plastikverpackung hindurch
+irgendeinen Homogenisierungsprozess oder was zu erreichen
+oder einen Ultrahocherhitzungsprozess oder sonst was
+Da brauche ich so und so lange Exposition in diese Temperatur und wir sehen, dass es
+extrem materialabhängig ist, das ist logisch, also hier bei dem Eisen dauert es gerade mal
+zwei Sekunden bis das da innen drin warm geworden ist.
+Soweit die Idee. Ich werde jetzt mit Ihnen, glaube ich, nicht mehr diesen Teil neu durchdeklinieren.
+In gleicher Detailschärfe.
+Lassen Sie mich das Bär so ein bisschen aufblättern, das gleiche Spiel wie wir gerade gemacht haben
+können wir jetzt auch mit Wärmeströmen formulieren, ein paar mal ist es schon gesagt
+worden, eben nicht wir schweißen es in eine bestimmte Temperatur, sondern wir heizen
+meinetwegen hier mit einem Heizlüfter mit 1 kW und gucken dann, was für den Temperaturniveaus
+ist und das hat sich gar nicht verändert, das ist immer die gleiche Anfangsbedingung,
+wir haben am Anfang den Körper bei der kalten Temperatur, meinetwegen, und schmeißen ihn
+jetzt entweder ins Heiße oder wir heizen von außen, aber jetzt sind die Randbedingungen
+Hier haben wir eben die Anwendung, dass an der Stelle mit der Kontaktfläche wird geheizt.
+Dann wird das Material konfrontiert mit diesem Wärmesprung, mit der Wärmesprungdichte.
+Und weit weg ist wieder das, was wir vorher hatten schon, ist diese Anfangstemperatur.
+Und die Lösung ist eine, die noch viel unangenehmer ist, als was wir vorhin gesehen haben.
+Nämlich, irgendwas, ich habe es ganz bewusst, ausgegraut.
+Ich will Sie damit nicht weiter konfrontieren.
+Es reicht aus, wenn wir die Gleichung, die ich vorhin gezeigt habe, mit den vorgegebenen
+Temperaturniveaus, anwenden können.
+In der Idee ist es genau das gleiche.
+Es ist wieder eine Funktion, wo diese Error-Function vorkommt, aber dann kommt nochmal das Funktionsargument
+der Error-Function mit nach vorne gestellt.
+Dadurch wird der Formelapparat einfach nur unangenehmer, da kommt noch eine E-Funktion
+mit drauf.
+Es ist einfach nur ein langer Formelapparat.
+Was uns aber beschäftigen wird, ein Stück weit, ist das, was denn mit der Temperatur
+passiert, die hier auch in hellblau eingezeichnet ist, nämlich diese Temperatur, diese Temperatur,
+die an dieser Kontaktstelle steht und das heißt die einzige Aufgabentyp, den ich Ihnen
+abverlange ist in so einer Angelegenheit, hier drinnen wird geheizt mit 1 KW, draußen
+hat es eine feste konstante Temperatur, die Wand hat am Anfang auch eine feste konstante
+Temperatur. Wie verändert sich die Oberflächentemperatur genau an dieser
+einen Stelle, nämlich hier an dem Berührungspunkt zwischen innen und außen, über die Zeit und das
+Interessante ist eben, das haben wir vorhin schon gesagt, die steigen über alle Grenzen hinweg.
+Es ist eben nicht so, dass dies in irgendeiner Temperatur stoppt, weil wir ja von ihr immer
+weiter heizen und uns einen Körper anschauen, der groß genug ist, dass er hier hinten diese
+Temperatur nie erreicht. Also Sie sehen, dass dieses hier was zu tun hat mit dem Wärmestrom,
+den ich von außen reingebe, mit der Temperaturleitfähigkeit, die wiederum dazu führt, dass hier die Temperatur
+abgefördert, abgeführt wird, mit der Wärmekapazität und den gleichen materialspezifischen Konstanten,
+mit der Wärmeleitfähigkeit, gleiches Thema, wo geht das hin, und mit der Zeit. Aber das
+Das heißt, wenn Sie die Zeit nur beliebig erhöhen, dann wird die Temperatur, Theta
+B, diese Kontaktstellen-Temperatur, auch immer weiter anwachsen.
+Auch dazu gibt es später noch Aufgaben.
+Jetzt ist es 11.12 Uhr, ich würde an der Stelle ganz gerne schließen.
+Was haben wir geschafft, was haben wir uns angeguckt?
+Ich würde vielleicht noch mal kurz auf diese Anfangsfolie gehen von der Vorlesung.
+Wir haben uns nochmal ein bisschen stationäre Werbeleitungen angeguckt mit Konvektionen.
+Ja, ich war einfach nur rückblickend aus der Videovorlesung.
+Falls Sie die noch nicht angeguckt haben, empfehle ich Ihnen, diese Videolisten sich
+einfach nochmal in einer ruhigen Minute anzugucken.
+Wenn Sie dazu Fragen haben, bitte unbedingt ins Forum schreiben, sonst weiß ich auch nicht,
+wo sie vielleicht harken.
+Und dann habe ich versucht, Ihnen die Wärmegleitungsgleichung einmal in allgemeiner Form im eindimensionalen
+herzuleiten.
+Da habe ich mich ziemlich verarspelt, das möchte ich an der Stelle nochmals entschuldigen.
+Ich hoffe, wir konnten es dann wieder aufholen.
+Wir haben am Ende diese Gleichung gesehen.
+Und die Herleitung wird Ihnen auch niemand abverlangen, aber wichtig ist, dass Sie eben
+verstehen, dass, wenn sich das über die Zeit verändern kann, dass Sie eine Anfangsbedingung
+und zwei Endbedingungen haben, dann können Sie das lösen und wir machen diese Lösung
+nicht selber, so wie in analytischer Mathematik, in vielleicht anderen Kursen, sondern in unserem
+Fall gucken wir uns an, um welche Geometrie handelt es sich denn, wir haben uns heute
+nur angeguckt diesen halbunendlichen Körper mit aufgeprägter Temperatur und ganz am Schluss
+noch aufgeprägter Wärmestrom.
+Die danach folgenden Dinge haben wir nicht mehr genau angeschaut, wenngleich diese eine
+entsprechende Definition so ein bisschen vermisst waren, wird aber in der nächsten Stunde deutlich
+Wir haben gesehen, dass wir dafür ein Funktionskonstrukt brauchen, die Errorfunktion, die wiederum
+bei Ihnen in der Formelsammlung katalogisiert ist und ich empfehle Ihnen das im Nachgang
+nochmal kurz nachzurechnen, wie das mit dem Gusseisen ist, dass Sie das einmal anwenden
+mit der Errorfunktion.
+Wir werden darauf aufbaut, in den nächsten Stunden dann den Kontakt von zwei Materialien
+anschauen, heiße Eisenpfanne auf kaltem Tisch, da kommt dann noch diese weitere Variablengröße,
+die aber von der Idee her ganz ähnlich gestrickt ist und uns dann angucken, wie wir das auf
+solche rein grafischen Lösungen übertragen können, das ist sehr charmant, das spart
+sehr viel Rechenarbeit. Dazu aber dann in der nächsten Stunde.
+Soweit so gut für heute. Am Freitag haben Sie, wenn ich mich richtig entsinne,
+wieder Thermodynamik beim Herrn Haffig. Ich hoffe, nächste Woche Montag habe ich wieder eine
+gescheite Stimme und bin auch fit, um Ihnen dann wieder gescheite Inhalte mitzugeben.
+Dann machen wir das schon los.
+Herzlichen Dank.

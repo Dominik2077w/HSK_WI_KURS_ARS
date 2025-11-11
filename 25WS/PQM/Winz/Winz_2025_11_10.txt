@@ -1,0 +1,2719 @@
+Auf dem Moodle-Kurs finden Sie zwei Unterlagen.
+Das Buch hier finden Sie als PDF, das ist das Vorlesungsskript.
+Die Folien, die ich mache, kennen Sie nicht, sondern Sie finden auch das, was da drin steht.
+Und dann haben wir noch Zusatzmaterial.
+Da ist noch ein PDF drin, Zusatzmaterial.
+Da sind jetzt noch Übungsaufgaben,
+Wiederholfragen und so weiter.
+Und da müssen sich die Zeit
+mal geben lassen.
+So.
+Vielen Dank.
+Das hat man schon gemacht, ne?
+Wo sind wir eigentlich?
+Ich weiß gar nicht, wo sind wir denn?
+Das hat man nicht gemacht.
+Ah, das hat man gemacht.
+Okay.
+Gut.
+Also Standardabweichung S haben Sie sicherlich in der Magnetikvorlesung gelernt.
+Spannweite R ist ja der größte Wert minus der kleinste Wert einer Stichprobe,
+kennen Sie vielleicht nicht.
+Stichproben größer, kleiner, n ist bekannt und das arithmetische Mittel x².
+Gut, es gibt auch noch ein Media, da hatten wir uns ja letzte Woche drüber unterhalten.
+Und jetzt schauen wir uns mal folgende Grafik an.
+Stellen Sie sich mal vor, wir haben hier ein Diagramm.
+Hier ist eine Zeitachse. Hier ist irgendeine Skala.
+Es wird hier ein Qualitätsmerkmal gemessen.
+Das Grunde sind die Messpunkte. Das heißt, wir haben jetzt hier,
+um eine bestimmte Zeit wurde also 1, 2, 3, 4, 5.
+Fünf grüne Punkte wurden als eine Stichprobe von fünf Teilen aus der Fertigung entnommen.
+Also die Fertigung läuft durch.
+Und es wurden fünf Teile entnommen.
+Okay, das sind die fünf grünen Punkte.
+Dann kann man die Mittelwelt sehen, dann hat man hier den blauen Punkt,
+dann hat man ein Stück später wieder fünf Teile entnommen und so weiter und so fort.
+Diese grünen Punkte sind dann die Urwerte, also die Originalwerte,
+die ursprünglichen Werte, und jetzt kann man die grünen Umstände in einem Band sich befinden,
+das ist also eine Klasse, die kann man jetzt zusammenzählen.
+Man hat jetzt in diesem Zeitraum hier so und so viele grüne Messwellen gehabt,
+die in diesem Band waren, so und so viele, so und so, und so weiter und so fort.
+Könnten Sie mir folgen, wo die grünen Punkte herkommen?
+Also nochmal, genau.
+Also, die haben sich fertig vorgehaben,
+die Fließbande brauchen Produkte drauf.
+Und jetzt kommt der Bediener und er nimmt dort fünf Teile.
+Warum?
+Naja, er macht eine Stichprobe und will diese fünf Teile durchmessen.
+Alle messen kann er nicht.
+Also er sagt, eine Stichprobe reicht mir aus.
+Wir sind ja hier beim Statistischen Prozesskontrollen.
+Und jetzt wird das Teil vermessen,
+dann kriegen wir also fünf grüne Punkte,
+weil die Stichprobe hat gerade fünf Teile.
+Dann kriegen wir fünf Messwerte.
+Okay?
+Wie gesagt, ab und zu, wenn ich was holen kann.
+Und wenn man jetzt mal innerhalb so eines Bandes hier, diese Messgabe ist auch geteilt in bestimmte Klassen,
+dann können Sie hier die grünen Punkte übereinander stapeln und dann kriegen Sie hier so eine Verteilung.
+Also das hier ist das Histogramm, diese Türmchen hier, in dem Fall sind es dann Balken.
+Das ist dann das Histogramm und wenn man dann so eine Ausgleichslinie drüber legt, dann wäre das die Verteilung.
+Das kann man jetzt für die grünen Punkte und auch für die blauen Punkte machen.
+Also das Histogramm ist ein Säulen-Diagramm, in diesem Fall habe ich es hier mal als Beifahrer aufgezeichnet,
+ein Säulen-Diagramm, wenn wir runtergehen, das aus Messdaten revidiert und diese in diesen Wändern hier in den Klassen zusammenfasst.
+Zusammenfassend, es gibt also einen visuellen Eindruck über die Häufigkeitsverteilung großer Datenmengen.
+Kennt jemand diese Art von Verteilung, wie sie sich hier jetzt ergeben hat?
+Bernoulli.
+Nein, Bernoulli ist Wahrscheinlichkeitsrechnung.
+Das ist jetzt der...
+Normalförderung.
+Normalförderung, der Gauss.
+Der Gauss, ja.
+So, hier haben wir verschiedene Verteilungen. Das ist der Gauss, der ist glockenförmig und normal verteilt.
+Da gibt es leider bereits verschiedene Begriffe für, das ist immer eine Sendung gemeint.
+Das ist hier so, dass der so in einem Schmalgipfel liegt. Hier haben wir was mit mehreren Gipfeln.
+Hier haben wir was mit zwei Gipfeln, hier haben wir was mit einer Ladewangenverteilung.
+wir haben auch was exponentiell abfallendes
+wir benutzen in den Qualitätsmärkten
+gerne diese Normalverteilung
+auch Gausche, Glocken, Kuchen
+weil
+wenn sie
+bei den meisten Verteilungen
+tatsächlich normal verteilt sind
+es sei denn es gibt jetzt ganz
+schwere Abweichungen
+wenn dann bei der Zufall
+die Messwelle beherrscht
+dann sind das eher normal verbleibend.
+Und jetzt zeige ich Ihnen mal den Gauss.
+Das ist der Herr Gauss.
+Also Vorurzeiten, das haben Sie nicht mitbekommen.
+Gab es mal die D-Mark noch?
+Kennt noch jemand die D-Mark?
+Nee, aus der Geschichte sind wir da nicht.
+Aber wir schießen richtig.
+In Dänemark, wissen Sie eigentlich, wir hatten ganz früher, mal vor dem Euro,
+hatten wir, hat jedes Land in Europa eine eigene Währung.
+Und bei uns war es die Deutsche Mark.
+DM, Dänemark.
+Und da war also auf den Scheinen immer irgendeine bekannte deutsche Persönlichkeit.
+Wissen Sie, was heute auf den Euro-Scheinen drauf ist?
+Da ist ja auch was drauf.
+Hier haben wir irgendwie so einen kleinen Abendsaft drauf, da haben wir auch irgendwas römisches, sieht nach einem Kirchenfenster aus.
+Wissen Sie, wo das herkommt, die Abbildungen?
+Gibt es die Sachen, die hier drauf gezeigt sind?
+Oder sind das reale Bauwerke?
+Vermutung ist nicht korrekt.
+Bei der D-Mark war die Vermutung korrekt,
+beim Euro nicht, weil dann hätte man sich darauf einigen müssen,
+wer da welches Bauwerk aus welchem Land auf welchen Schein draufzieht.
+Hätte nur Ärger gegeben.
+Das ist eine reine Fantasiegeschichte.
+Bei Münzen ist es auch so.
+Einfach eine Münze.
+Die Münzen sind auch echt...
+Wir haben nur noch ein paar Münzen.
+Bei Schein ist es tatsächlich...
+Münze könnte sein,
+weil man hat ja immer seine eigene Münze.
+Wollen wir sehen?
+Müssen wir nächstens vor der Pause machen
+oder in der Mitte von der Pause?
+Sonst, Sebastian, was ist denn jetzt?
+Gut, also,
+Das ist der Herr Gauß. Hier steht auch drauf, der Herr Gauß hat von 1777 bis 1855, Karl Friedrich Gauß,
+meine Meinung her, gelebt. Also der ist ziemlich alt geworden, wie damals gezeigt.
+Aber gut, der hat ja auch mal einen Schreibtisch gesessen und nachgedacht.
+Und der hat dann hier auch, hier sieht man das,
+hat er die Normalverleihung
+und die Normalverleihung hat auch eine Formel,
+die sieht ziemlich kompliziert aus,
+diese Formel.
+Hier wird sie nochmal ausgeschrieben,
+die sogenannte Dichtefunktion.
+Dichtefunktion, die werden wir vermutlich
+hier im Leben nicht gebrauchen.
+Diese Formel hat der Herr Gauss erfunden,
+das ist die Dichtefunktion,
+das ist also die exakte Verteilung
+können Sie damit modellieren
+das brauchen wir gar nicht
+im Qualitätsmanagement
+wir ziehen nur zwei Werte raus
+nämlich dieses Sigma
+das Sigma und das x-quer
+das brauchen wir
+wir nehmen
+hier dieses Sigma
+das Sigma
+und dann hier dieses µ
+Sigma kennen Sie aus der Mathematik
+und das µ
+kennen Sie vielleicht auch
+das ist der Mittelwert
+ok
+Die Normalverkleidung spielt in der statistischen Qualität eine zentrale Rolle,
+weil eine zuverlässige Variable schon der recht schwachen Voraussetzungen
+annähernd, approximativ annähernd, dieser Verteilung überrauscht.
+Also wir interessieren uns für dieses kleine Sigma und dieses µ.
+Und jetzt wird es interessant.
+Hier haben wir das µ, den Mittelwert, die Last von Sigma, die Standardabweichung.
+Und das bezieht sich also auf alle, also auf die Grundgesamtheit.
+Dann benutzt man µ und Sigma.
+und wenn Sie eine Stichprobe
+nehmen
+und wir machen im Qualitätsmanagement
+meistens Stichproben
+dann benutzt man andere Buchstaben
+meint aber das gleiche Bild, dann sagt man nicht
+µ, sondern nennt man x²
+das heißt, wenn Sie x² sehen, dann wissen Sie
+dieser Wert stammt
+aus einer Stichprobe
+wenn Sie µ sehen, dann wissen Sie
+da wurden alle Teile betrachtet
+so ist das mit dem S
+Also die Standardweichung wird in einer Stichprobe S genannt, in der Grundgesamtheit Sigma.
+Also an der Stelle setzen wir die Leute auf, weil sie dann irgendwie verstehen, warum Sigma mal S nichts wäre.
+Also Sie wissen jetzt, das eine ist die Stichprobe und das andere auch die Grundgesamtheit.
+Und jetzt haben wir diese Normalverteilung in seiner Schönheit.
+Und das ist der Mittelwert µ, genau der Mittelwert, ja.
+Das ist µ, und wir können sogar das Signal sehen.
+Wir sehen an dieser Normalverteilung das Signal.
+Weiß noch jemand aus dem Mathematikunterricht, wo man das Signal sehen kann?
+Wo kann man das abfragen?
+Das ist von µ bis zum Wendepunkt, bis zu diesem Wendepunkt.
+Der diese Geschichte hat ja genau einen Wendepunkt, der ist hier vorne.
+Also man hat das so umdefiniert, man hat das bis zum Wendepunkt.
+Richtig, richtig.
+Das ist µ.
+Genau das, also der von µ bis zum Wendepunkt ist ein µ.
+gehen Sie vom linken Wendepunkt zum rechten Wendepunkt, haben Sie zwei, Entschuldigung,
+ein Sigma, gehen Sie von links bis rechts, haben Sie zwei Sigma.
+Okay, also das ist ein Sigma und das sind noch ein Sigma.
+Das heißt, von da nach da sind zwei Sigma.
+Und jetzt können Sie sich nochmal an dieses Bild erinnern,
+was ist denn unter dieser Fläche?
+Unter dieser Fläche sind die ganzen Messpunkte.
+Ja?
+Das heißt also,
+in dieser Fläche
+befinden sich Messpunkte.
+Und zwar 68%
+aller Messpunkte,
+aller Messpunkte hier, also von dieser Fläche,
+68% von dieser Fläche
+ist im Bereich
+plus minus 1, minus 1,
+minus 1, minus 1, minus 2.
+Gut, ne?
+Ich habe mich schon immer gefragt, warum das so eine komische Kurbelzahl ist, 68,2.
+Ja, ja, genau, weil, wie Sie es immer kannten, man hat das an dem Wendepunkt festgemacht.
+Und dann hat man ausgezählt, 68,2, 60%.
+Das heißt also, wenn wir jetzt von 4 sieht man recht, 2 da links, 2 da rechts,
+dann haben wir quasi 95%, 95,44%.
+Und jetzt ist es interessant, wir benutzen sehr oft 6 Sigma.
+Wir gehen also von hier bis hier.
+Warum 6 Sigma?
+Weil dann haben wir fast alle Messpunkte, 99,73% tatsächlich wären da drin enthalten.
+Wie geht's?
+Jetzt.
+Also gerade nochmal zur Normalverteilung.
+Die hat ja einen Mittelwert µ und hat also einen Sigma, das wäre jetzt hier die Standardabweichung.
+Wenn man sich alle Teile anguckt, alle, die Grundgesamtheit, dann redet man von µ und Sigma.
+Da wir am meisten Stichproben nehmen, im Collective Management machen wir das so kenntlich,
+dass wir sagen, wir sagen x-quer, also wenn Sie x-quer sehen, dann wissen Sie,
+Mittelwert, eine Stichprobe. Nehmen Sie SC, wissen Sie, Standardabweichung, eine Stichprobe.
+So, hier nochmal die Normalverteilung mit dem Mittelwert µ, also wissen Sie, dass diese Probe ist,
+also dass man alle, alle Teile betrachtet. Und dann haben wir den Abstand vom Mittelwert,
+der ist ein Wendepunkt, das ist dann ein Sigma, ein Sigma. Gehen wir noch hier zu der Rechts,
+haben wir 2 Sigma,
+da hilft dann 68,2 Sigma.
+Ich hatte schon mal
+eine klare Voraufgabe gefragt.
+Wie viel
+Prozent liegen
+im Bereich 6 Sigma?
+Plus, minus 3 Sigma.
+Da gehe ich an,
+und wir machen dann schon mal die 3.
+Die einen.
+Nur die einen.
+Gut. Hier nochmal die gleiche Grafik, habe ich nichts verändert.
+Hier nochmal zur Erinnerung. Jetzt haben wir also den Mittelwert oder den Erwartungswert µ.
+Der ist also hier vornermaßen definiert.
+Also alle Einzelwerte aufgeteilt durch die Anzahl der Einzelwerte.
+Und dann haben wir hier die Standardabweichung.
+Nein, Sie geben das ja alles ein paar Sprechen ein.
+Aber im Prinzip ist die Form nicht vereinfacht.
+Guten Tag!
+Entschuldigung, Sie verstehen das.
+Aber ich habe eine Zeit für es.
+Jetzt müssen Sie beißen. Was haben Sie eigentlich gemacht?
+Ich bin ein Internet-Motor.
+Sehr schön. Wo kann man hin, wenn man nicht mehr wundert?
+Einmal in der Kamera.
+Um heute 8 Uhr.
+Wie hieß der?
+Wie hieß der?
+Halber TV
+Halber TV?
+Interessant
+Ok, da haben wir eine gute Auslegung
+Sie haben noch einen Beiseiten dazu bekommen
+mit einem Arsch
+mit einem Arsch, da finden Sie gleich ganz einen
+Spitzensportler, einen Obersau
+Was für ein Sport?
+Curling
+Curling
+Erklären Sie meine Pausen.
+Und Sie wissen ja, Leistungssport machen.
+Ich?
+Nein, Sie wissen doch.
+Leistungssport, Leistung.
+Nicht Ablenkung, Leistung.
+Ich bin auch Leistungssportler.
+Ja, das machen Sie dann schön.
+Tonen, schön.
+Das heißt also, dann machen wir ab jetzt so, der Herr Arsch gibt jetzt mal das Tempo vor.
+Wir orientieren uns jetzt am schnellsten an jedem Ton.
+Wissen Sie auch als Leistungsturnerin?
+Stimmt, sie hat ja schon mal einen Handstand vorgemacht.
+Gut, also. Sie haben etwas Wichtiges verpasst, dann zähle ich nochmal zum dritten Mal.
+Ich weiß nicht, ob Ausrede mal gut ist.
+Oder wer erklärt denn jetzt mal den Kommilitonen?
+Herr Weiser, sind Sie fit genug, mir einen zu erklären,
+was wir da noch sehen?
+Ja, ich kann es versuchen.
+Ja, ja, machen Sie das.
+Natürlich nicht so wie Sie, aber ich bin ein Bestes.
+die da auf dem Diagramm gesehen sind, das sind Stichproben von einer, sagen wir,
+sagen wir ein Produkt läuft über eine Förderbank.
+Und der Arbeiter möchte Stichproben daraus entziehen.
+Natürlich kann er nicht jedes Produkt benutzen.
+Deswegen gibt es diese Stichproben.
+Also nicht jedes Teil, ausgewählte Teile zu untersuchen der gesamten Produktion.
+Und das Resultat aus diesen einzelnen Stichproben sehen wir da drin auf der rechten Seite.
+Wo kommen die grünen Punkte her?
+Grünpunkt ist das Resultat aus dem Gesamtpunkt auf der linken Seite.
+Das sind die ganzen Abweichungen.
+Wenn Sie mal gucken, genau wie gesagt, hier ist ein Punkt, weil wir in diesem Band haben wir genau, in dieser Klasse haben wir einen Punkt.
+Hier haben wir auch noch einen Punkt, hier haben wir 1, 2, 3, 4, 4 grüne Punkte.
+Und auf der rechten Seite gibt es dann das Gauss-Schirr-Normalverhalten.
+Fragen?
+Vielen Dank.
+Also wie gesagt, wir haben hier im Camping, die Schulen machen das auch, wenn wir da abgeben in irgendeine Box oder ausmachen.
+Ich habe mich da erkundigt.
+Und dann stattdessen aufpacken.
+Also, richtig.
+So, das ist die Normalverteilung.
+Wir haben uns ja unterhalten, es kommt von dem alten Herrn Gauss, Mathematiker.
+Hat jemand Gauss noch? Kennt jemand Gauss?
+Gut, dann, richtig, jetzt.
+Herr Hasch, Sie erklären mal die Parallelen.
+Das ist jetzt die Gauss-Verteilung, nur halt, aber nur, dass ich gerade gedreht.
+Und was wir letztendlich hier wissen müssen, ist, dass es sind diese paar Buchstaben auf der rechten Seite.
+Und zwar haben wir den Mittelwert µ, das ist halt da, wo die meisten Lichtprobenwerte dann letztendlich lang, also das, wo wir eigentlich sein wollen.
+Die Standardabweichung sieht man. Die Standardabweichung ist definiert als die Distanz zwischen dem Wendepunkt der gaussischen Normalverteilung und dem Mittelwert µ.
+und da sind dann eben 34,13% in dem Bereich drin,
+beziehungsweise wenn wir die andere Seite machen, sind es 68,36%.
+Was für uns sehr wichtig ist, ist, dass X-Strich, wie hat es sich genannt?
+X-Quer, ja.
+X-Quer und S, das sind andere Buchstaben, die werden immer verwendet,
+wenn eine Stichprobe verwendet wird und die Buchstaben µ und sichtbar werden verwendet,
+Wenn die Grundgesamtheit gemeint ist, also alle Teile auf der Förderwand und die Stichprobe sind nur die, die ich rausnehme,
+damit man da nicht durcheinander kommt bei den Buchstaben,
+aber das ist eigentlich der relevante Punkt, den wir da raus haben.
+Und die wichtigste, ja, Abstand zum Mittelwert ist 6 Sigma, also plus minus 3 Sigma da unten.
+Das wird in der Qualitätsmanagement meistens verwendet,
+was man wissen möchte, wie weit, wie groß muss die Toleranz sein, damit 99,73% aller Teile innerhalb dieser Toleranz.
+Genau, also man nimmt dieses 6 Sigma, weil da haben wir fast alle Teile drin, 99,73.
+Jetzt würden Sie sich vielleicht fragen, was dreht denn noch von Teilen, von Teilen, von Proben.
+Wenn Sie sich mal an das Histogramm hier erinnern, hier liegen ja einzelne Messwerte,
+Einzelte Teile wurden hier gemessen und nur hier dann die Annäherungsgröße,
+die lasse ich ja dann mal in der Gaufe bleiben, das heißt, die liegen ja jetzt hier Messwerte drunter.
+Das heißt, die Fläche sind Messwerte.
+Und ich habe in dieser Fläche von dieser Fläche mit dieser Fläche
+und mit dem 3 Sigma habe ich also 99,73% aller Messwerte sind in dieser Fläche zu diesem Bereich.
+Von da nach da drin.
+Okay, also hier der Mittelwert x² ist klar,
+dann haben wir die Standardabweichung S,
+die ist im Prinzip
+ich weiß nicht, ob Sie das in Excel rechnen
+oder in den Fangen rechnen, das ist auch ganz einfach
+Sie haben ja den Mittelwert ausgerechnet
+den kennen wir
+und jetzt nehmen Sie jeden
+Einzelwert
+und bilden die Differenz
+zum Mittelwert
+der kann ja positiv oder negativ sein
+was da rauskommt, richtig?
+Sind wir uns einig?
+Also wenn Sie diese Differenz bilden, kommt da eine Zahl raus, die kann positiv sein oder negativ.
+Und dann sehen wir, ob der Wettwert hier ist, wenn es negativ wird,
+das minus dem ist negativ, wenn der hier ist, haben wir das minus dem für positiv wird.
+Und da man nur positive haben möchte, quadriert man das Ganze.
+Richtig?
+Und dann addieren wir das Ganze.
+Also, jeder einzelne Wert, der Abstand zum Mittelwert, wird aufregiert.
+Wir haben da hier die Nummer.
+Und dann teilen wir das durch n-1.
+Das ist ja ein vernünftiger Grund für, außer irgendwie die Mathe kommt raus.
+Genau, also das n kann ich Ihnen erklären, das minus 1 kann ich Ihnen nicht erklären,
+dann muss man tatsächlich einen Mathematiker fragen.
+Ich habe dann da auch aufgehört, ich bin kein Mathematiker.
+Ich könnte mich da noch mal reinfuchsen, wenn ich wollte.
+Also das ist tatsächlich so.
+Hätte ich jetzt inklusiv auch nicht hingemacht.
+Und dann ziehen wir noch mal die Wurzel daraus, legen den da und dann haben wir also dieses S.
+Beziehungsweise dieses Sigma.
+Und das ist für uns wichtig. Das ist entscheidend.
+Wir rennen also von dieser Kurve hier, von dieser Dollen-Dichten-Funktion,
+relativ kompensiert ist, wo man sieht man auch, wie es müde ist, also S- und X-quere in Wirklichkeit.
+Das heißt, wir können jetzt niemals die genauen Formen, weil wo ist ja die Form, wie hoch ist das Ding,
+da kriegen wir alles nicht hin, aber wir kriegen die beiden wichtigsten Kennwerte der Gauss-Verteilung,
+die haben wir dann. So, jetzt machen Sie mal hier Folgendes. Sie haben hier so ein paar Werte.
+Sie haben 10 einzelne Messwerte, man sagt auch diskrete Messwerte, 10 diskrete Messwerte, die haben wir nicht gesehen.
+Jetzt zeichnen Sie mal das Histogramm.
+Das Histogramm ist ja das hier.
+Das ist das Histogramm.
+Wir drehen das jetzt um, ja.
+Dann berechnen Sie den arithmetischen Mittelwert x, die Spannweite r und die Spannweite s.
+Sie können es gerne handschriftlich oder Sie können mit dem gleichen Taschenrechner oder Excel benutzen.
+Das heißt also, jetzt kriegen wir nochmal sowas hier raus.
+Also wir haben jetzt
+1, 2, 3, 4, 5, 6
+Genau, jetzt zählen wir hier alle Einsen
+Jetzt zählen wir alle Zweigen, alle Dreien, alle Vieren
+Das ist nun wirklich ungefähr eine Normalverteilung aus
+Ja.
+Ich hatte gehofft, sie fragen, ob sie meine Fotos haben.
+Ja.
+Vielen Dank.
+Vielen Dank.
+Sie können das auch für die Zusatzmaterialien auswählen.
+Vielen Dank.
+ohne Tauschenrechner. Versuchen Sie es mal anzuschauen.
+Das ist nicht so. Das Ganze ist nicht so.
+Aber 0,1 ist Quadrat, 0,9 ist Quadrat.
+Sie in den Grundschrank. Rechnen Sie.
+Das ist ja die Formelmaschine.
+Und dann verhafte ich hin.
+Und dann rechne ich bis nach unten.
+Ah, hier ist was.
+Das war's auch schon.
+Wir sehen uns.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Wenn man es handschriftlich machen würde, dann würde man das auch...
+Ja, haben Sie auch schon gemacht.
+Ja, sehr gut.
+Sie haben beide Zeilen, also...
+Kann ich mit der Bank umgehen?
+Das sind drei, vier...
+Jawohl.
+Aber ich meine, das war ja nicht so viel Spaß.
+Das ist ja klar, wir gehen zu einer echten Prüfung.
+Nein, wir fahren zur Prüfung.
+so sieht das dann aus
+das heißt also
+wir haben dann hier die 4,9
+für x quer und die 1,197
+für s
+und r haben wir gesagt
+größte Wert minus kleinste Wert
+7-3 ist also 4
+Dann haben Sie auch hier, ich hoffe, Sie haben das Histogramm auch mit diesen Balken.
+Die 3 haben wir einmal.
+Die 4 haben wir dreimal.
+Die 5 haben wir auch dreimal.
+Die 6 haben wir zweimal.
+und die 7 einmal.
+Da könnte man jetzt hier so eine
+7-Kammer da
+irgendwie mit so einem Normalverteil
+überlegen.
+Die Form genau wissen wir nicht.
+Die haben doch 4,9 im Mittelwert.
+und wir haben das S ist ja 1,2
+4,9 minus 1,2
+ist 3,7
+dann ist hier ungefähr
+das heißt also
+wir haben hier in diesem Bereich
+6,8%
+Und die überreiche ich mal jetzt.
+Und minus 3,
+die muss ich jetzt auswählen.
+So, was soll ich jetzt machen?
+2,5
+4,9
+2,6
+1,3
+4,9 plus 3,5.
+Ja, du könntest vorstellen, ja.
+Also wir haben hier das S zu 1,2, das heißt 4,9 minus 1,2.
+3,6, 1,3.
+Das ist 1,3.
+Okay.
+4,9 ist 4,9 minus 1 mal S.
+Genau.
+Dieser Punkt hier,
+dieser Punkt ist 4,9 minus 1 mal S.
+Der Anstand ist 4,9 minus 1,2.
+Vielleicht 3,7, oder?
+Den höchsten, den können wir nicht berechnen.
+Wir können nur die Mittel berechnen.
+Das hätte auch so gebraucht werden können, weiß ich nicht.
+Dann brauchen wir nur minus 1 und erst dann können wir...
+Richtig.
+Dann brauchen wir minus 2 und minus 3.
+Minus 3 haben wir auch.
+Ja, okay.
+Was sagen Sie, meine drei Leute?
+Was sagen Sie?
+Warum ist 68,26% über 6,24%?
+Wo?
+68.
+Ja, 68,26.
+Von da nach da ist 68,26.
+Ich glaube, es ist nur 68.
+Und nur 68?
+Nein, 68,26.
+Ja, und das Ganze hier ist also dieses Verlangen.
+Da hier ist die ganze Fläche.
+Fragen dazu?
+Sonst geht es weiter.
+Herr Reiser?
+dann diese Aufgabe
+mache ich als Hauptaufgabe
+für den nächsten Mal
+ok
+Ah, der Median.
+Median.
+Sehen Sie sich in der letzten Stunde?
+Haben wir den Median gemacht.
+Mittelwert.
+Genau.
+Und Sie hätten dann hier eine, Moment, gucken wir mal da hin.
+Hier kommt eine 15,8.
+14,8, nur mal so als.
+14,8.
+So, jetzt gehen wir mal, nachdem wir so ein bisschen Statistik gemacht haben, jetzt mal in diese statistische Prozessregelung.
+Die Abkürzung SPC kommt aber von englischen Statistical Process Control.
+Wieder so ein Herren hier, den wollte ich nicht vorenthalten, der Herr Schiebert, US-Amerikaner,
+Er hat also diese Qualitätsregelkarten-Technik entwickelt und sogar eine Kartenart wurde
+in die Schiebert-Karte genannt.
+Die gucken wir uns aber nicht an.
+So, und Herr Schiebert hat im Prinzip eine ganz grundsätzliche Überlegung angestellt.
+Der sagt also, naja, wo kommt denn diese ganze Steuerung her? Warum ist das so?
+Warum ist mal ein Messwert hier, mal ein Messwert da, mal ein Messwert dort?
+Und er hat gesagt, na, das ist also so, es gibt Einflüsse, die also ein Messwert verändern können.
+Und wenn man diese Einflüsse alle übereinander legt, die Summe der Einflüsse ist also dann der Einfluss, das Messergebnis.
+Wie gesagt, die Qualität des Einflusses ist also eine Kombination, ich habe hier dann Summe, der Streuung dieser Einzelparameter.
+Okay, das ist ja soweit noch nachvollziehbar, oder?
+Ich glaube, das gibt es bei keiner anderen Modul, Vorschubgeschwindigkeit, Materialeigenschaften.
+Ist mein Werkzeug verschlissen oder nicht?
+Irgendwie, das Ganze überlagert sich
+und das führt dazu,
+dass wir dann etwas messen.
+Dann sagt er,
+okay, jetzt kann man es entscheiden.
+Dann kann man zwei Sachen unterscheiden.
+Allgemeine, zufällige Abweichungen.
+Steuerung aufgrund von allgemeinen
+Ursachen.
+Eine zufällige Abweichung
+im Mittelwert, die sich einfach
+ergeben,
+in der Physik prägt man ja auch schon mal vom Rauschen,
+Und dann sagt er, eine Streuung aufgrund von besonderen Ursachen, also das sind also meine, die ich jetzt auch nicht weiter verändern kann, aber jetzt kommt nochmal was Besonderes dazu, das kann sein, Materialfehler, Werkzeugverschleiß, Konstruktionsfehler etc.
+Und er sagt, ich brauche nur zu unterscheiden, was ist noch normal, also was ist hier also meine Streuung und wann ist sie nicht mehr normal.
+Dann habe ich hier besondere Ursachen vorliegen und dann muss ich diese besonderen Ursachen herausfinden.
+Also, wir wollen gar nicht allgemeine Ursachen finden, sondern die besonderen, wenn es welche gibt.
+Dann gibt es einen kleinen Regelkreis, der sagt, ich habe hier einen Sollwert, das ist
+die Toleranz, die ich vielleicht da im Sollwert habe, dann habe ich hier auch einen Prozess,
+also einen Fertigungsprozess, wie gesagt vielleicht ein Fließband oder irgendwelche Maschinen,
+die Teile ausschrubben und die arbeiten so vor sich hin und jetzt gibt es irgendwie eine
+Störungen, also wie gesagt, Verschleiß oder Temperatur steigt an oder fällt ab.
+Und jetzt nehme ich da also Stichproben, messe das Merkmal, an den Produkten, die ich da
+rausgenommen habe, das Messglied und trage die Messwerte in meine Karte ein und gucke
+dann, anhand der Eingriffsgrenzen muss ich irgendetwas nachstellen.
+Also letztendlich wenden wir hier Mathematik und Stochastik an.
+Jetzt werden wieder Stichproben entnommen.
+Und die Stichproben werden gemessen und das Ganze wird dann wieder eingetragen.
+Das wollen wir gleich auch mal machen.
+So mal die allgemeine Vorgängsweise.
+Das heißt also, ich nehme auf einen Prozess eine Stichprobe,
+Ich fesse das ganze Tage eine Qualitätsregelung ein und kann dann anhand von Grenzen erkennen, ob ich etwas nachstellen muss oder nicht.
+Die Qualitätsregelung ist nichts anderes als das, was wir...
+Ja, im Prinzip, wir haben zwei Achsen, wir haben hier eine Achse, wo das Merkmal aufgetragen ist,
+und hier haben wir dann irgendwie eine Zeitachse, und dann haben wir hier die blauen Punkte,
+die Mittelwerte der Stichproben, dann sehen wir hier, aha, hier ist also der Wert in Square aufgetragen worden,
+hier ist R aufgetragen worden, das verändert sich, und dann kann man was von diesen Karten auslesen.
+So, man braucht also lieber Stichproben, die mindestens einen Umfang haben von 5 oder mehr.
+Und um eine Regelkarte nutzen zu können, brauchen Sie 20 Stichproben hintereinander,
+mit jeweils 5 Teilen. Das heißt also, Sie brauchen mindestens 100 Teile,
+um dann aus einer Qualitätsregelkarte so eine Aussage ziehen zu können.
+Und die Stichproben müssen zufällig entnommen sein, das haben wir schon gesagt.
+Okay, jetzt gucken wir uns mal sowas an.
+Also, wie sieht das aus?
+Wir haben jetzt hier wieder
+den Stichbogen.
+1, 2, 3, 4, 5.
+Wieder 5, wieder 5, wieder 5.
+Wir haben nicht 20. Keine Ahnung, geht noch weiter.
+Und dann haben wir
+zwei rote Linien.
+Also den Ober- und den Unter-Eingriffstrend.
+Ich würde mir vorstellen, hier das Ende der Karte
+ist quasi die Zollerbremse.
+O-Soleranzgrenze, Kindungs-Soleranzgrenze.
+Wie fragen?
+Fangen Sie ruhig auf.
+Kein Pharaon.
+Kein Pharaon.
+Ist die HTG?
+Achso, das ist UTG.
+UTG.
+UTG.
+Manche sagen auch OSG,
+das ist also die untere
+Toleranzgrenze,
+die untere Spezifikationsgrenze.
+Wir gehen wahrscheinlich mal
+in die Toleranz.
+H9 ist ja auch eine Toleranz
+man kann die Tabelle ablesen
+und die Toleranzkünder ablesen
+die beiden Werte
+H9 in der Fassung, wir haben A9
+wenn wir unsere Toleranz kennen, unsere Toleranz kann man ablesen
+aber es gibt ja auch noch andere Industrien
+als nur den Maschinenbau
+dann regelt man eine Meinung von Spezifikationsgrenzen
+So, jetzt gucken wir mal, jetzt hat man zwei Ringkappen, eine so eine Gemüselenkappe, die
+Vielen Dank.
+Gibt hier den Zielwert und hier wird also das Siegpunkt bzw. das Reich aufgefangen.
+Okay, jetzt gucken wir mal.
+Wenn sich mal diese fünf Punkte anpuppen,
+und wir sehen hier den Mittelwert im Kopf.
+Wo ungefähr liegt denn der Mittelwert?
+Ungefähr da, wo die blaue strechelte Linie ist, ne?
+Genau.
+Wenn Sie sich den Mittelwert anschauen. Wo liegt der Mittelwert von dieser Stichprobe?
+3 Werte drunter, 2 drüber, vermutlich auch leicht drunter.
+gleich drunter. Da ist er.
+Da würde man sich vermutlich die beiden Punkte am Kopf sagen,
+nein, die müssen ja wohl gleich sein, die Stichproben.
+Sind sie aber nicht.
+Wir haben einen riesigen Unterschied.
+Wo ist der Unterschied zwischen diesen beiden Stichproben?
+Der Mittelfeld ist zwar gleich, aber...
+Ich muss unsere drei Leute hier haben, sonst ist es zu spät.
+Ich kann es nicht erklären, weil es auf der selben Höhe ist.
+Ja, aber hier möchte ich mal die angucken.
+Wie sie sich angucken und wie.
+Also rein optisch, wo ist der Unterschied zwischen diesen beiden Stichproben?
+Ja, die Zweiten sind viel näher aneinander.
+Richtig. Hier sind die Punkte viel näher aneinander und hier sind sie viel weiter auseinander.
+Was wollen wir haben im Qualitätsmanagement? Beide auseinander oder nah zusammen?
+Nah.
+Nah zusammen, in der Nähe von diesem Zielwert.
+So, was haben wir für einen Wert? Was für eine Größe haben wir, um beide auseinander oder nah aneinander anzugeben?
+Den Abschalt vom Mittelwert. Was haben wir da gerade für einen Wert benutzt?
+Das Sigma bis hin zu das S. Richtig?
+Da haben wir also hier ein großes S und hier haben wir ein kleines.
+Und da haben wir, sehen wir hier auch, hier ist ein großes S, hier ist ein kleines S.
+Also wenn man nur hier drauf guckt, würde man sagen, die müssen ziemlich ähnlich sein.
+Wenn man hier sitzt, sieht man ganz klar, die sind doch sehr unterschiedlich.
+So, jetzt gucken wir uns den an, den da.
+Der ist ja noch, der ist als S ja noch größer. Sehen Sie direkt großes S.
+Hier sehen Sie kleines S, aber leider nicht mehr so schön wie hier um die blaue Linie,
+sondern ziemlich weit nach oben verschoben.
+Wollen wir nicht.
+Hier sehen wir direkt, der Mittelwert springt nach oben, zwar ein kleines S, hier haben wir noch ein kleineres S, aber der Mittelwert ist...
+Ich glaube, den Punkt habe ich nicht ganz korrekt angesprochen.
+Ja, ich will ja den Prozess über eine gewisse Zeitspanne betrachten.
+Ich will das Verhalten des Prozesses sehen über einen Zeitraum.
+Ich meine, sind nicht fünf Werte für so eine Berechnung von einem Sieg wahr?
+Ja, ja, korrekt. Wir sehen gleich, was passiert.
+Wir werden gleich sehen, warum wir eine Zeitreihe brauchen.
+So, jetzt, so könnte zum Beispiel hier so eine Prozesskarte, Rechnungskarte aussehen.
+Wir haben gerade hier oben, wir haben die Zeitachse laufen, wir haben den x-Quer, wir haben den r, wir haben die Einzelwerte.
+Hier haben wir ein paar Messwerte, die hier drin sind, da haben wir noch eine Formel, da sage ich Ihnen gleich noch etwas zu.
+Normalerweise wird das alles heute elektronisch nachgezeichnet, hier sehen Sie also gleich so schöne Histogramme mit Verteilungen drübergelegt.
+Hier sehen Sie diese Rohwerte noch als Quantile.
+Okay, so jetzt haben wir mal eine Zeitreihe vorliegen.
+Jetzt kommen wir zu ihrem Punkt.
+Wir haben jetzt hier Werte drin, also Mittelwerte von Stiefbogen, wir haben eine untere Eingriffsgrenze und eine hohe Eingriffsgrenze.
+Jetzt die Frage, wann sollen wir eingreifen?
+Richtig, haben Sie eine Lehre gemacht?
+Haben Sie eine Ausbildung gemacht?
+Ja.
+Wo?
+Welche Arbeit?
+Konstruktionsmechaniker.
+Was macht ein Konstruktionsmechaniker?
+Alles was zu bearbeiten.
+Eingeschweißen, wiegen, stanzen.
+Okay.
+Gut.
+Das heißt, bei wem haben Sie gelernt?
+Von der Firma Collina.
+Collina.
+Das heißt, bei wem haben Sie gelernt?
+Bei Kolina.
+In Haarau, neben mir.
+Ah, okay.
+Gut, haben wir jetzt Konditionsmechaniker?
+Ich wollte schon mal hier.
+Bei wem war Service?
+Und der Kollege vom Baumarktfehler?
+Okay, gut.
+Richtig, also hier haben wir ja einen Eingriffsgrenzen,
+die ist verletzt worden, das heißt, hier muss man eingreifen.
+Hier muss man eingreifen, sonst hätte man Angst, dass vielleicht ein Nächster hier ausreicht.
+Gibt es denn noch einen Punkt, wo man eingreifen könnte?
+Vielleicht das Nächste an der oberen Grenze, also der Punkt, der am nächsten an der oberen Grenze ist?
+Ja, kann man machen. Dann wäre schon der das und dann der hier oder der da.
+Ja, der Einer und der Bein.
+Die Frage ist nur, was heißt das Nächste?
+So viel ist das nächste, oder es ist dann so viel das nächste, das ist unklar.
+Ja, in der Spanne, die man betrachtet.
+Achso, okay.
+Du hast halt von den ganzen Punkten am nächsten zur oberen Grenze.
+Das Problem ist nur, wenn Sie an der Stelle sind, haben Sie die Werte noch nicht.
+Ja, ich sag ja, die Spanne, die man gehabt hat.
+Gut, also die Frage, wo sind die Nächste?
+Wenn Sie jetzt hier vorne sind, Sie kennen hier hinten nicht, dann ist das ja nix, Sie wissen ja nicht, was da nachkommt.
+Vielleicht geht es ja noch weiter.
+Das ist ja ein grauer Eingriff.
+Deswegen würden wir uns dringend daran erinnern, zumindest was und da muss eingegriffen werden.
+Warum? Ich würde es mal vermuten, wenn wir in 2, 4, 6, 7 hintereinander sich Richtung der oberen Eingriffsgrenze drehen.
+Ja, ja, genau.
+Und zwar, die Frage ist jetzt, ist das Zufall, sondern eigentlich ist das kein Zufall mehr.
+Da kann man sich ganz einfach nur überlegen, wie hoch ist die Wahrscheinlichkeit, dass dieser Punkt hier,
+dieser, über dem da liegt oder unter dem, über oder unter dem, wie hoch ist die Wahrscheinlichkeit, dass er oben drüber liegt.
+Rein statistisch gesehen.
+Ich will nur den Zufall der Rolle spielen.
+Wie hoch ist die Wahrscheinlichkeit, dass der nächste Punkt noch einmal drüber liegt?
+Wie hoch ist die Wahrscheinlichkeit, dass die beiden Punkte noch einmal drüber liegen?
+Also reden Sie von Überzielwert?
+Ne, also
+so, also
+die Wahrscheinlichkeit, dass dieser
+Übergang liegt, ist 50%.
+Die Wahrscheinlichkeit, dass dieser
+Übergang liegt, wenn es Zufall ist,
+ist wieder 50%.
+Warum?
+Weil, also
+man kann wahrscheinlich meinen Logikern dann falsch,
+aber mein Logikern ist, dass es mehr als 50% sein müssen,
+weil ich mich ja gerade unter dem angenommenen Mittelwert befinde.
+Ja, den Betrag wissen wir nicht.
+Eigentlich wollen wir nur wissen, Sie haben rot oder schwarz.
+Okay, dann muss dieser dabei...
+Genau, ich sage mal, Sie haben rot.
+Wir müssen wahrscheinlich, dass die nächste Kugel wieder rot ist.
+Ja, 50%.
+Na, wieder 50, wieder 50.
+Weil ich kenne, der Zufall, wenn es wirklich Zufall wäre, der kennt keine Vergangenheit.
+Der Zufall kennt keine Vergangenheit.
+Denn jedes Mal ist der Zufall wieder von Neuem.
+Aber ich gehe davon aus, dass hier noch Gauss verteilt ist, oder?
+Bis ich persönlich an der Stelle bin.
+Aber wie sehe ich dann die Eingriffsgrenzen fest?
+Weil das sind ja immer die 6 Sigma.
+Ja, da kommen wir gleich zu.
+Die sind ja festgelegt.
+Die sind voraus.
+Die Eingriffsgrenzen werden eine ganz gute Formel festgelegt.
+Die zeige ich Ihnen gleich noch.
+Aber jetzt mal rein Zufall.
+Wenn es reiner Zufall wäre, Schieber hat ja gesagt,
+Wir müssen Zufall von Systematik unterscheiden.
+Wenn es eine Zufall wäre, ist die Wahrscheinlichkeit 0,5 mal 0,5.
+In der Unsicherheit steigen wir wieder 0,5.
+Wieder 0,5, wieder 0,5, wieder 0,5.
+Das heißt also,
+d gleich 0,5 hoch,
+muss ich durchzählen,
+1, 2, 3, 4, 5, 6.
+Ich kann runter noch mitzählen, ist egal.
+Was kommt da raus?
+0,56.
+Also die Wahrscheinlichkeit, dass es wirklich Zufall war, sechs Stück in einer Reihe, von
+von den Startpunkten aus die Zeit setzt in einer Reihe, ist 1,6 oder 1,7 Prozent.
+Ungefähr, wenn Sie 200 Mal machen, dann kommt ungefähr 3 Mal der Zufall.
+Was sagt Ihnen das? Würden Sie sagen, es ist Zufall oder würden Sie sagen, es ist ein systematischer Einfluss?
+Nein.
+Nein, was?
+Es ist, also es hat nichts mit Zufall zu tun.
+Also, wir müssen alle zugeben, es ist schon so unwahrscheinlich, dass das einer Zufall ist.
+Es ist wahrscheinlich kein Zufall.
+Ziemlich wahrscheinlich ist dazu kein Zufall.
+Es ist wahrscheinlich eine Zufallschreie.
+Das heißt, was würden wir jetzt erwarten, wenn wir sagen, es ist kein Zufall mehr?
+Ja, auch mal oben.
+Richtig. Und dann wieder nach oben, wieder nach oben und dann bumm.
+Eingriffsgrenze verletzt.
+Und dann irgendwann Toleranzgrenze verletzt.
+Das heißt, im Prinzip hätte ich hier ungefähr schon sagen können, naja, eigentlich ist es kein Zugang mehr.
+Also hier muss man eigentlich ziemlich sicher sagen, am sechsten, hier in einer Reihe, also in einer Reihe von sieben, es ist kein Zugang mehr.
+Und dann muss ich was tun, weil ich nichts tue, läuft er dagegen.
+Jetzt sagen Sie mal, Sie sind Systemmechaniker, was könnte dann das für ein Grund, ein systematischer Einfluss sein?
+Dass so ein Trend entsteht.
+Jetzt rein hypothetisch, so ganz typische Geschichten in der mechanischen Verlegung.
+Ich nehme mal an, wir sind jetzt gerade bei einer Bearbeitung, Sparabhebende Bearbeitung.
+Präsen wir die Lupe?
+Oder ein Verschleiß?
+Von?
+Vielleicht, wenn man fräst, vom Fräskopf.
+Richtig.
+Also typischerweise ist es ein Verschleiß.
+Der Werkzeug ist verschließen und der wird auch nicht mehr besser.
+Ihr verschleißt weiter zu und dann jungen wir ein Haus raus.
+Oder, den Brett hoch.
+Die Maschine erwärmt sich und dadurch dehnt sich irgendetwas aus.
+Ihr wärmt immer weiter.
+Das sind so typische Gründe.
+Hier muss man tatsächlich, ich mache noch einen Satz zu Ende, dann machen wir eine Pause.
+Es gibt noch einen zweiten Bereich, wo man auch sagen würde, kann man eingreifen.
+Und zwar, hier ist man, eigentlich, wenn man sich diese Punkte anwenden,
+die Unterhaltsprinzip erheben, macht man ähnliche Überlegungen wie hier mit der Wahrscheinlichkeit 0,5, 0,5.
+Wenn es rein der Zufall ist, müsste die Wahrscheinlichkeit, dass man drunter liegt, 50% sein,
+die Wahrscheinlichkeit, dass man drüber liegt, die andere 50%.
+Und jetzt haben wir aber hier eine ganze Reihe von Punkten, wieder 1, 2, 3, 4, 5, 6, die liegen drunter,
+also 7 in einer Reihe.
+Und da würde man sagen, das ist auch, kein Zufall mehr, das ist Systematik, vielleicht irgendein Referenzpunkt ist falsch gesetzt, das heißt die ganze Maschine orientiert sich an einem falschen Referenzpunkt,
+der ist nicht ganz so schlimm wie so ein Trend, das nennt man Run, wenn nicht ganz so schlimm, weil der Trend scheint zu stabilisieren, aber der Abstand zur Eingriffsgrenze ist verkleinert, das hat man nicht gern.
+Man muss dann die Maschine wieder neu zentrieren. Also sowas bedeutet auch für die Maschine, sie ist nicht mehr mitgezentriert.
+Eine Frage. Und zwar, ich habe gerade nachgerechnet, 0,5 bis 6. Da kam 1,5 bis 6 raus. Ist das schlimm?
+Ich habe nur die Zahl abgeschrieben, die Sie übergeben haben. 1,5 bis 6.
+Nicht, dass Sie mir sagen.
+Ja, wollen wir.
+Genau, also hier sehen wir jetzt, das ist also hier ein, da müssen wir eingreifen, verpflichten, weil die Eingriffsgrenze ist verletzt worden.
+Dann haben wir hier so einen Trend, die Sprachgrenze drüber und hier unten haben wir so einen Run, das heißt also auch hier können wir eingreifen.
+Also hier und hier kann man eingreifen, auch genau hier ist das nicht gut.
+Dann machen wir an der Stelle gleich weiter, eine halbe Stunde Pause.
+13.18 Uhr haben wir jetzt.
+Der Wettbewerb ist schon früh geblieben.
+Oder doch?
+Das wird es nur dann.
+Ja.
+Nee, nee, nee.
+Da machen wir weiter, oder?
+Am besten wird auch hier schon gemacht.
+Machen wir schnell weiter.
+Jetzt.
+Ähm.
+Ich bin ein Bronzel.
+Was sehen wir denn hier bei diesem Beispiel?
+Sehen wir hier auch irgendwas zum Eingreifen?
+Eine Telefonuhr hier.
+Hat jemand eine Idee, wo man eingreifen müsste?
+Ich frage mal, ja, Sie hier, genau.
+Ja, ist relativ nah dran, kann man, kann man.
+Also man kann eigentlich immer fahren.
+Den Wohnwohnraum macht nochmal Sinn einzugreifen.
+Dann würde man jetzt die Maschine stoppen oder in der laufenden Maschine irgendeinen
+Maschinenparameter verändern.
+Also man weiß aber dann in dem Fall nicht, was falsch läuft.
+Der geübte Maschinenbediener, wenn Sie jetzt jeden Tag vor der Maschine stehen, wissen Sie hundertprozentig was Sie machen müssen.
+Also wissen Sie, mein Werkzeug ist verschlissen. Oder Sie wissen dies oder das, Sie haben ja auch Geräusche, Sie sehen vielleicht noch die Späne oder sonst was.
+Also der geübte Maschinenbediener weiß Bescheid. Jetzt gibt es ja auch komplexe Anlagen, da müssen Sie einen Ingenieur holen.
+Aber der ganz geliebte Maschinenbediener, der braucht solche Karten nicht, der hält das.
+Den alten Maschinenkontrollen, der macht das natürlich.
+Okay, wir haben noch eine Stelle.
+Wir haben gesagt, hier könnte man, da muss man, wo kann man noch?
+Gegen Ende, da ist ja alles unterm Ziel.
+Richtig, dieser Run, den man auch irgendwo trennt.
+Ja, kurz davor.
+Hier. Genau.
+Ja, relativ klein. Aber auch nach unten. Ja, Vierer, Vierer.
+Also würde mich das noch nicht so stören, wir wissen nicht was passiert ist,
+vielleicht ist ein Eingriff vor und vielleicht war es nur wirklich Zufall.
+12% der Felder wird das passieren.
+Gehen wir noch woanders in die Rente?
+Ja.
+Hier.
+Das ist ja klar.
+Da ist irgendwas faul, das würde weitergehen.
+Frau Muni wurde eingegriffen,
+die geht wieder runter, runter, stabilisiert sich.
+Wo fehlt noch was? Keine Ahnung.
+Schneide gebrochen.
+Und was?
+Genau, ich habe jetzt mal drei genannt, also hier muss man eingreifen, hier kann man eingreifen,
+beziehungsweise kann man hier auch eingreifen, wenn man so nah dran ist wie hier.
+So, jetzt machen wir mal eine Übung.
+Sie haben einen Fertigungsprozess vorliegen und dazu soll also eine Regelkarte gemacht werden.
+Sie haben die Tischproben genommen um 6 Uhr, 7 Uhr, 8 Uhr und 10 Uhr.
+Wir waren wieder geizig, sparsam, wir haben immer nur 5 Teile ausgenommen.
+Das heißt, wir haben 7.05 Uhr Messmittel vorliegen, dann die 9.30 Uhr Spannung und dann auch die 10.30 Uhr Spannung auch.
+Und jetzt soll also das Ganze mal berechnet werden.
+Das heißt, Sie rechnen den X-Quer aus, Sie rechnen den R aus.
+Wenn Sie diese Werte alle haben, rechnen Sie den Mittelwert der Mittelwerte aus, den X-Quer.
+Sie rechnen den Mittelwert von R aus.
+So weit kommen Sie mir noch wollen.
+Und jetzt kommen drei Werte, OEG, UEG, OEG, R.
+Und da bitte ich Sie jetzt mal auf dieses Blatt zu schauen.
+Das ist in Ihrem Zusatzmaterial.
+Und dann nehmen wir also hier OEG, haben eine V-Millen, die wenden Sie an.
+Und A2, das ist 0,58.
+Und hier fehlt OEGV in D4 ist 2,1.
+Warum? Weil wir Stichpunkten von 5 haben.
+Und dann zeichnen Sie das alles mal hier ein.
+Inzwischen läuft es wahnsinnig gut.
+Also 10 Minuten können Sie mal arbeiten.
+Dann können Sie mir mal erzählen, was der Alkohol-DV und D4 sind.
+Ich bin freundlich.
+Wir dürfen nicht speichern.
+Mediathekbezug vielleicht.
+Bleibst du immer auf Mediathek?
+Was redest du denn?
+Auf welcher Mediathek?
+Auf der Albert-TV-Mediathek.
+Habt ihr da eine Mediathek?
+Ja, die kenn ich, die kenn ich auch.
+Ja, die hat auch ihre kleine Seite.
+Ich sah nicht mal perfekt aus, Maren.
+Nicht perfekt?
+Ja, ich hab da noch mal genommen und es war noch schöner.
+Ich hab auch ein bisschen nervt von dir.
+Immer noch.
+Und du musst mich fragen, wie toll denn die ist für den Dach?
+Erzähl, wie du gestottert hast.
+Erzähl, wie du gestottert hast.
+Ich hab gar nicht gestottert.
+Nein, die haben irgendwas gesagt.
+sind sie weg
+der studiert soziale arbeit
+Der Mann, der vorhin war, war in der Klinik.
+Ja, ich habe gehört, dass die beiden jetzt da sind.
+Warum?
+Ich weiß es nicht.
+Als sie da rein kamen, hatte ich das Gefühl, dass es ein bisschen ungewöhnlich war.
+Er hat mir gesagt, dass ich ein zweiter Mann bin.
+Er wollte mit mir ein paar Fragen beantworten.
+Aber ich habe es nicht gehört.
+Ja, das meine ich, das ist ein Excel, da konnten wir nicht reingehen.
+Nein, das ist ein Deckel.
+Da geht er aber rein, ja.
+Hätte der, wenn der gewollt hätte, hätte er in der Wohnung nur gescheitert müssen,
+der hätte da geblieben, hätte nicht so.
+Nein, er meinte vielleicht, wir sollten sie fragen, wenn wir da reingehen.
+Ja, ja, da gibt es Geheimnisse von denen.
+Die machen noch Werbung, die wollen auch da ihren Namen geben.
+Ich meine, wir dürfen nicht rein, weil sie es nicht wollen.
+Nein, ich habe mich da auch immer angeguckt.
+Die wollen nicht rein, weil sie eine schöne Maschine haben.
+Das ist ja eigenes Leben.
+Aber die haben auch gute Maschinen, die haben super Maschinen.
+Wie hieß nochmal der Komponent?
+Der Grob.
+Grob.
+Grob, die Maschine haben wir auch gesehen.
+Ja, die war gut, die ging gut.
+Dann standen sie, der Grob, der hätte sich gelungen,
+Der haut da immer ab, wenn man das mal gesehen hat.
+Boah, so eine Konkurrenz, da wollen wir auch uns an die Stelle fassen zu mir.
+Welcher ist besser, was soll ich sagen?
+Das würde ich so nicht sagen.
+Hat jeder gesagt, nee.
+Weil die sind unterschiedlich anwendungsfähig.
+Und die jetzt, die ich habe, das sind sogenannte Universalmaschinen.
+Besonders Universalmaschinen, die können große Mengen machen,
+spähen, spähen, spähen.
+Hier können wir hochpräzise arbeiten, auf wenige Millimeter genau.
+Das ist quasi das Besondere an der Technik.
+Was seht ihr für Transition da?
+Vielleicht sogar nächste Woche schon.
+Heute nicht mehr?
+Heute ist der Lagrange, der hat die Messtechnik.
+Wie ist denn der?
+Der ist ja der Meister.
+Ist er auch bei uns dabei?
+Nächste Woche dürfen wir dann selber auch noch was probieren und sehen, wie es geht.
+Hat er gesagt?
+Ja.
+Komm, dann schauen wir mal.
+Cool.
+Bin ich mal gespannt, wie das alles funktioniert.
+Boah.
+Nicht so einfach.
+Noch nicht.
+Hätten wir ein bisschen Ausdrückung genommen, ja?
+Ja, also, wie wir das mal gemacht haben, wir haben es ausprobiert.
+So ein Hefter.
+Wir müssen das abheben.
+Und keine genauer machen.
+Keine Klammer, keine Hefter.
+Also nur... also... wie heißt das so?
+Schnellhefter.
+Ja, genau, ein Schnellhefter.
+Aber keine Klammer.
+Wir brauchen keine Hefter.
+Tackerhabe.
+Ja, genau, Tackerhabe.
+Ah, also Löcher.
+Ja, genau, dann halt ein Schnellhefter.
+Ja, du musst nur ausdrücken, dann ist es nicht mehr...
+Bitte, bitte.
+Ja, ja.
+Ich nehme auch Schilderl.
+Nein.
+Nein, da ist er.
+Da ist der Wagen.
+Wir waren, wir mussten...
+abgehen von Pretender.
+Nein, keine Inhalts...
+keine Inhalts... wir hatten keine Inhaltsangabe.
+Wir hatten keine.
+Wir hatten Deckblatt,
+aber keine Inhaltsangabe.
+Ja, warum...
+Aber Deckblatt haben wir jedes Mal neu gemacht.
+Weil jedes Mal ein neuer Stand und dann...
+Da steht drin, dass man Agenda machen muss.
+Nein, das steht nicht drin. Wir haben ja auch keine Glauben.
+Wir haben ja auch keine Glauben.
+Ja, machen wir nicht.
+Das war's für heute, wir sehen uns beim nächsten Mal, Tschüss!
+Also, nein, das sagt niemand. Was willst du? Zwei gibt es weder hier noch da.
+Nein, also, es gibt ein Mann und Frau.
+Also zwei.
+Ja, zwei.
+Gut, sagen Sie.
+Es gibt nur zwei.
+Ich sage es mal.
+Also ich bin jetzt nicht dafür, dass es irgendwie so non-binär und so.
+Ich frage mich, woher zieht man sich das Ganze aus?
+Das ist doch auf der Toilette.
+Ich glaube, dass sie die Ökoschale spielen.
+Ich bin mir nicht sicher, ob Adi oder Lina das gesagt hat.
+Ich frage mich, ob wir die Ökoschale spielen oder nicht.
+Ich habe gehört, dass unser Mann da war.
+Richtig.
+Er wollte bei der Frau.
+Aber das war nicht so gut.
+Hat es nicht funktioniert?
+Doch, das ist ein Thema, jetzt halb vollkommen.
+Aber das ist eine Zeltstrafe.
+Zeltstrafe.
+Das ist jetzt nicht so eine...
+Das war jetzt nicht das Fall.
+Ich glaube schon.
+Sie haben ja auch in den Parlamenten in Berlin
+bei den Grünen einen
+biologisch gesehenen Mann,
+der hatte als Frau mit hier alles und Kleidung, er hat dann da Regen gehalten, dann wurde er angegriffen, dann hat die dann diese 45er Grünen an den Regen geschwungen und das wäre ja rassistisch und so weiter.
+Der Typ, der ist am Garnabazin, der hat sich davon verkleidet.
+Ich glaube man kann dafür, also angenommen, die Person ist beleidigt als Mann, das ist eine Straftat, oder? Wenn ich ihn jetzt als Mann empfehlen würde.
+Ich weiß nicht, in welcher Sendung es war.
+Ja, das ist alles schon ziemlich banal.
+Genau, diese Gender-Einheit.
+Genau, das ist ja auch die Frau.
+Ich kenne die, die sagen,
+alle sind scheiße mit dem Gender.
+Hey, da ist eine.
+Die hat ein bisschen.
+Die hat ein bisschen.
+Wow, kalt.
+Das ist ja ein bisschen ein Gott.
+Also, ich weiß ja nicht, was sie machen.
+Aber wir an der Hochschule haben ja
+international auch...
+Was ist das für ein Wort?
+Tobi, Tobi.
+Kommt ihr zum International Dinner?
+Heute?
+Nein.
+Kommende Woche.
+Nächste Woche.
+Weiß nicht.
+Wir lieben zu.
+Hm?
+Super.
+Ich erinnere sie nochmal dran.
+Zu entfernen.
+Ach.
+Kann man mit dem Bus vielleicht kommen?
+Ja.
+Ja.
+Aber sie müssen was zu essen.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Aber Sie müssen was zu essen mitbringen.
+Ja, ich weiß.
+Wo kommt Ihre Freundin, die vom letzten Semester?
+Kommt sie?
+Sie kommt nicht hier.
+Warum?
+Sie kommt nicht hier.
+Doch, sie ist in der Mensa.
+So weit?
+Ja, sie muss weit fahren.
+Wo wohnst du?
+Ja, ich wohne
+in Ludwigstraße.
+Denk mal.
+Wieso nicht von hier?
+Ah, näher.
+Näher dem, in der Stadt.
+Ja, ja.
+Richtig.
+Doch, doch, doch.
+Nicht zu schnell.
+Ja, wir haben gepackert, nur alleine.
+Ohne Schlepp.
+Stimmt, ja.
+Das ist doch ein Professor hier.
+Maschinelemente im Prinzip, ja.
+So, wie hat er das gemacht?
+Also nur Taka.
+Nur Taka.
+Das haben wir letztes Jahr schon gemacht.
+Durch meinen CRD auch Taka.
+Du musst diese D-Dings falten.
+Guck mal, Jack war oben und der ist unten drunter.
+Der ist jetzt nicht neu.
+Das ist Maschinelementeübung.
+Meine Übung hat noch vor zwei Semestern Professor Bohm gemacht und das hat dann...
+Aber das ist Blattchen im Kopf halt, oder?
+Nee, Bohm ist im Hüttchen.
+Echt? Hochschule-Hüttchen?
+Aber der hat doch was mit seinen Rücken, oder?
+Aber wenn ich meine Leder falsch gesangt habe, hätte sie das hier auch.
+Doch, das ist ja diese DIN-Norm.
+Deswegen muss es ja so.
+Und wenn ich von einer DIN-Norm falle, dann könnte es trotzdem so.
+Scheiße.
+Wir haben es dir gesagt, mach das mit uns.
+Es gibt so eine Anleitung, steht 21 Sekunden.
+Wir haben früher DIN A0, nach DIN A und Falle lösen.
+Da haben wir auch gelöst.
+Wie sieht die Hälfte aus?
+Ja, wissen wir immer.
+Ja, das ist nicht schwer.
+Immer.
+Ich höre, es ist wirklich nicht schwer.
+Das kann man so.
+Immer auf YouTube?
+Ja, auf YouTube.
+Ich muss mir jetzt eine Karte holen, sonst gehe ich hier reingehen.
+Okay.
+Ich muss jetzt eine Karte holen, sonst gehe ich hier reingehen.
+Hast du damit wieder kein Geld drauf?
+Glaubt ihr, dass sie noch eine solche Übung haben?
+Nein, sie sagen, dass sie diese Partei noch nicht haben.
+Wenn es eine Verteilung gibt, ist es gut.
+Die Verteilung ist im hinteren PPT.
+Denn die Leute von R&D sagen, dass sie noch nicht haben.
+Wird es später eine Präsentation geben?
+Ja.
+Dann ist es gut, wenn es jemanden gibt.
+Ja.
+Jetzt schauen wir mal, was das Köln hat, ne?
+Du hast gesehen, dass die U-Bahn dabei ist, ne?
+Ich habe gerade gesagt, dass ich in den Köln gehen will.
+Nächste Woche.
+Wann soll ich abends gehen?
+Ich muss mit den Sachen gehen.
+Mit dem Essen.
+Ich wollte gerade sagen, dass ich nicht gehen will.
+Aber ich habe gesagt, dass ich dich kenne.
+Und dann habe ich gesagt, dass ich es nicht wusste.
+Das war wie ein Spielzeug.
+Du warst so weit weg.
+Ich habe gesagt, dass ich dich kenne.
+Hast du deine Nase gehackt?
+Nein.
+Hast du eine neue Nase?
+Nein, hier.
+Hast du noch eine?
+Ja.
+Warum hast du sie nicht gehackt?
+Warum hast du sie nicht gehackt?
+Warum ist es so kalt?
+Und du bist nicht da.
+Warum nicht?
+Ich bin zu früh gestochen.
+Ich habe nicht das Wasser getrunken.
+Ja, ich weiß, dass du nicht aufhören kannst.
+Ja, ich habe es gut gemacht.
+Aber wenn es so ist, dann muss ich auch ein bisschen aufhören.
+Es ist auch ein bisschen schwer, aber es ist ein Stück.
+Ja, ich schäle.
+Ja, ich habe es nicht.
+Ich habe es nicht.
+Ich habe es nicht.
+Bist du schon fertig?
+Ja, ich habe schon den Dreh.
+Zeig mal.
+Ich kann nur diese Viren, aber nicht so viel.
+Ich glaube, dass ich nicht sehr debilitätswürdig bin.
+Keine Ahnung.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja, ich druck auch heute übermorgen.
+Durch.
+Du würdest selbst schreiben, gell?
+Ja, aber dann dürfte ich ja nicht Eier kleben.
+Hast du was?
+Ich wollte gar nicht.
+Ich auch nicht.
+Er kommt zu mir und fragt, ob ich ihm gefolgt habe.
+Ich sage, ja, er zeigt mir, dass ich gekommen bin.
+Der Video beitragt heute ab 20 Uhr.
+Ich dachte um 18 Uhr.
+Die haben aber 18 Uhr gesagt.
+Wie gefolgt haben.
+Warten wir mal.
+Da ist er.
+Sehen wir mal, was da steht.
+Nein, ich schaue nochmal.
+Nein, nein, ich schaue nochmal.
+Oh, so ein Schmuck ist ja auch ein guter, geistiger Mann.
+So ein Schmuck.
+Was?
+Was?
+Keine Ahnung.
+Keine Ahnung.
+Ich höre, dass du mich nennst.
+Was?
+Du nennst mich.
+Ich höre, dass du mich nennst.
+Oh, ich habe schon Schmerzen.
+Schau, schau, schau.
+Hast du dich erschrocken?
+Das schätze ich auch bei allen, gell?
+Ich will nicht mehr folgen, gell?
+Ich will nicht mehr folgen, gell?
+Ich nicht.
+Er nicht folgen.
+Achso, schon du.
+Ich will nicht mehr folgen, gell?
+Nein, nein, nein.
+Zögerung, Zögerung, Zögerung.
+Auch jetzt schon.
+Du willst nicht gehen, gell?
+Bist du blöd?
+Ja, der sieht das eh nicht.
+Was glaubt ihr jetzt?
+Er wird sagen, gell?
+Alter.
+Wo ist der andere?
+Ist es um zwölf?
+Nein.
+Haben Sie eine Praktikums-Empfehlung?
+Ich weiß, Sie sind alle sehr zurückhaltig.
+Ja.
+Hi.
+Schon seitdem ich ein Jahr alt bin, studiere ich noch.
+Ah, der Eitel auf die Faust.
+Ich kann dir mal zeigen, gerade hier.
+Ja, das habe ich gesehen.
+Über was geht es heute?
+Über Vielfalt und so.
+18.20 Uhr. Vergiss nicht, ich muss aufschauen, okay?
+Entschuldigung, es ist so schwer, hier zu bleiben. Ich habe Angst.
+Entschuldigung, es ist so schwer, hier zu bleiben. Ich habe Angst.
+Was machen?
+Dann haben sie gesagt, dass es keine Probleme gibt.
+Kind of problem ist kein Problem.
+Alles in Ordnung.
+Alles in Ordnung.
+Das ist so seltsam.
+In der Sprache ist es immer das gleiche Wort.
+Kein Problem.
+Kein Problem.
+Alles gut.
+Alles gut.
+Kein Problem.
+Alles in Ordnung.
+Alles in Ordnung.
+Kind of problem.
+Kind of problem ist Kind of problem.
+Ja, aber er kann es nicht.
+Wenn ich das Kugelkopf nicht drücke, dann fühle ich mich, als wäre es nicht nötig.
+Ich weiß es nicht. Dann kann ich nur zu Xiang Ge und ihm einen Kugelkopf geben.
+Hast du das gehört? Ich habe eine neue Art von Wunsch.
+Wie?
+Wunsch?
+Wunsch?
+Warum willst du einen Zauber?
+Weiß ich nicht.
+Ich denke, wir können jetzt weg.
+Ich denke, wir können jetzt weg.
+Warum?
+Weil die Deutschen hinter mir weg sind.
+Woher kommst du denn?
+Ich bin weg.
+Mein Freund ist weg.
+Wo ist dein Freund?
+Mein Ex.
+Er muss da jetzt nicht reinziehen.
+Pass an.
+Schatz, kann ich ab? Kann ich ab?
+Ja.
+Wie scheiße ist das?
+Ich hab an den Beinen,
+aber seitdem ich kein Fussball mehr spiele,
+ich hatte eine Hose hier, die hat mir nicht gepasst.
+Ich hab zugekommen.
+Oh, das gibt's wieder.
+Die alte Gefolge.
+Ich krieg die Hose auch nicht mehr.
+Der ist auch nett.
+Ist auch nett, aber jetzt.
+Ich krieg die Hose auch schon mal ein.
+Jede Person hat einen Namen.
+Du kannst nicht nur einen Springer nennen.
+Das heißt, es gibt zwei Menschen.
+Das ist nicht möglich.
+Warum nicht?
+Es gibt nur ein paar Wörter.
+Das ist nicht möglich.
+Das ist nicht möglich.
+Ich habe keine Ahnung.
+Tunnel.
+In welchem Umfang?
+Also leistungssportmäßig?
+Der Video von Gerhard.
+Wo ist er noch?
+Also im ersten Jahr hat er die Weltmeisterschaft verpasst.
+Ich war deutscher Meister.
+Meisterin.
+In Ihrer Altersklasse?
+Ja.
+Ich wurde Sparkassenmeister.
+Also ohne Sparkassen.
+Super.
+Das finde ich aber gut.
+Ich habe ein Problem. Ich habe ein Problem.
+Haben Sie jetzt Druck oder müssen Sie irgendwas erreichen?
+Nein, ich mache dann...
+Hobbymessung.
+Seid ihr in der Schule oder wie fängt das an?
+Nee, im Verein.
+Achso, okay. Wo ist das denn?
+Das muss ja ein super Verein sein.
+Das ist ein Verein.
+Nein, nein, ich laufe.
+Achso, nee.
+Ich wohne da.
+Ich habe gar nichts gezeigt, aber ich höre ein bisschen was.
+Ich wollte es dir erzählen.
+Ich laufe weiter.
+Ach, okay.
+Also, wer das sagt, der weiß es nicht.
+Okay, ist okay.
+Die sind schlecht.
+Ja, sie unterschätzen mich.
+Ja, ja, total.
+Also, ich mag Leute, die sportlich sind.
+Ich mag das.
+Ah, hier mit Weidenhofen.
+Aber gegen Weidenhofen.
+Nein, nein, nicht gegen Weidenhofen.
+Nein, nein, auch nicht gegen Weidenhofen.
+Das war in meinem Fußballverein.
+Sehr gut, hier im Regenspiel.
+Das macht richtig Spaß.
+Wir machen noch einen Teil Fitness.
+Schauen Sie mal, ich habe einen Spar-Kasten.
+Aber das sieht man nicht.
+Nike, ne?
+Adidas-Schuhe sind besser als Nike.
+Nike hat nachgelassen, ne?
+Nein, Nike ist eigentlich gut. Aber was Fußballschuhe angeht,
+Adidas ist viel besser.
+Ich laufe nur die Berge.
+Das kann ich Ihnen auch zeigen.
+Ich kann Ihnen auch ein bisschen was zeigen.
+Ich habe auch Tennis gespielt.
+Ich auch.
+Ich will Tennis spielen.
+Das sehe ich die ganze Zeit.
+Becken haben wir auch gespielt.
+Becken haben wir auch gespielt.
+Aber nicht Schlüssel.
+Das ist mein Sport.
+Ich spiele gut Sport mit jungen Leuten.
+Ich bin nicht gut.
+Wo ist München?
+Sollen wir mal spielen gehen?
+Ich wäre schon dabei bei Paddle.
+Ich auch.
+Das ist mein eigenes Penis.
+Schauen Sie.
+Das ist so ein kleiner Platz.
+Und das ist so mit einer Bande.
+Ah, ok, man darf über Bande spielen.
+Mit Bande darf man spielen.
+Wo ist die Bande? Die sehe ich jetzt nicht.
+Hier, dieses Glas hier.
+Ich zeige Ihnen etwas.
+Wow, das ist Glas.
+Ich zeige Ihnen nochmal was.
+Penis, Penis.
+Ja, da muss ich schon gut festhalten, da bin ich schon ganz übel hier, ne?
+Das war mein Kollege.
+Dein Kollege, der geht schon ganz schnell.
+Aber sie sind jetzt nicht angesagt, sie halten dich an die Fresse.
+Wo war das?
+Das war hier in Oberstdorf.
+Wo war das?
+Ratskirchen.
+Rubyhorn!
+Ah, Rubyhorn ist doch klasse.
+Rubihorn! Ah, Rubihorn ist auch Klassiker.
+Das war relativ spät, die haben ein bisschen Ruhe.
+Rubihorn kenn ich auch, da geh ich auch so ein, zwei Meter mehr einwandfrei.
+Waren sie da oben, oder?
+Jetzt heulen wir diese Woche, ist schönes Wetter.
+Das war bloß ein bisschen problematisch,
+weil wir uns ein bisschen mit der Zeit verschätzt haben.
+Dann mussten wir nachts wieder rüberlaufen.
+Man braucht drei Stunden hoch.
+Ich hab auch ganz gut drauf in zweieinhalb.
+Wir sind nicht nur hoch oder runter, sondern wir sind auch durch die Bergfreude durch.
+Am Geyseralpsee wieder runter.
+Also am Ende 25 Kilometer.
+Boah.
+Ich höre an, wir sollen mal.
+Also mit irgendjemandem nicht gehen.
+Nein, ich meine den Peddeln.
+Sollen wir?
+Ne, klasse, dass ihr so...
+Das ist richtig gut.
+Wenn man ein Tor sieht.
+Sind Torwart oder was?
+Nein.
+Wo sind sie?
+Kopf war ungeheuer.
+Ich habe sie nicht erkannt.
+Erstmal schwarz.
+Nicht schwarz oder rot?
+Schwarz.
+Wo bin ich denn?
+Die Vier.
+Boah!
+Dann waren wir in die Ecke.
+Aber an den Pfosten haben wir richtig gesessen.
+Da haben wir reingesprungen.
+Hast du euch auch so damit gemeldet?
+Nein, kann man nicht.
+Wissen Sie, was die witzigste Wandertour
+die ich je gemacht habe war?
+Die war in Reutte.
+Da ist man gelaufen
+auf Schnee
+und teilweise ist man dann eingesackt
+und dann steht man bis hier.
+Scheiße.
+Ich muss immer wieder rauskommen, ne?
+Nee, ohne eine zweite Person wär's sogar fast nicht ausgekommen.
+Einfach, wenn du durch die Schneefälle reinkommst, ist es blöd.
+Ich hab aber ein echt gutes Bild da rausgeschlossen.
+Ach, da mit so einem Holzstock. Na ja!
+Wie so ein Zeug von der Hütte.
+Ja, ja, ja. Der Hirt. Der Alp-Hirt.
+Ja, genau, der Hirt.
+Ja, müssen wir mal posten auf Alp-Ingenieure.
+Ja, dann muss man extra...
+Ja, doch, sie ist unser Interview.
+Ja.
+Ah, schau, das war hier.
+Alleine.
+Das war das.
+Ich glaube, wir hatten exakt dasselbe.
+Ja.
+Wir hatten exakt dasselbe. Ich habe nur ein paar Maßzahlen.
+Schau, hier habe ich auch ganz klar.
+Das ist eine sehr schwierige Stelle, die ich mir vorgestellt habe, die ich mir vorgestellt habe, die ich mir vorgestellt habe.
+Vereinigte Königreich, ruf mich an, was soll das?
+Ich gebe es nur, ich kann das gar nicht machen.
+Das bin ich, der Herr.
+Mit der Schachtel.
+Nein, ohne.
+Oh mein Gott, oh mein Gott.
+Ah, die hat ohne die Schachtel.
+Ja, ohne die Schachtel.
+Ja, okay.
+Das ist er.
+Das ist er.
+Haha.
+Das gibt es nicht.
+Dann kannst du es in der Handlung kaufen.
+Du willst Jumis kaufen?
+Ja.
+Ich konnte nur denken, dass jemand schon eingestellt hat und ich ihm gesagt habe, dass ich Jumis kaufen will und es nötig ist.
+Und das hier ist kostenlos. Man kann es direkt kaufen.
+Muss ich es kaufen?
+Ja.
+Wenn du es nicht kaufst, wie soll man deine Webseite besuchen?
+Ich erinnere mich an eine Freundin von mir.
+Eine Freundin von mir.
+Aber das hier ist...
+...ein bisschen günstiger.
+Ja, es ist nicht so teuer.
+Das ist .com. .com ist eher teuer. In China ist CN eher günstig.
+CN ist in China ein Spektrum.
+Das sollte CN sein.
+.com
+CN
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+.com
+Wenn wir die Gespräche hören werden, werden wir sie in der ganze Welt erhalten.
+Eigentlich habe ich das nicht gehört, ich habe es gehört.
+Ich habe es in die Geschichte eingezogen.
+Dann werden wir sie in der ganzen Welt erhalten.
+Sie brauchen keinen großen Schmerz.
+Sie brauchen keinen großen Schmerz.
+Ein großer Schmerz.
+Ich glaube, wir können nach Hause gehen und ihnen ein Buch lesen.
+Sie sprechen sehr neugierig.
+Das ist eigentlich eine sehr einfache Sprache.
+Ja, es sollte eine Sprache sein.
+Ich weiß nicht, wann und wo ich sie benutze.
+Ich habe schon 40 Minuten gedauert.
+Ich habe schon 40 Minuten gedauert.
+Das ist nicht gut.
+Ich habe gerade mit ihnen geredet und sie sind weg.
+Ist das gut?
+Ja, das ist gut.
+Dann gehen wir.
+Wir müssen sie nach Hause holen.
+Ich habe sie noch nie gesehen.
+Hast du sie noch nie gesehen?
+Nein.
+Dann hören wir nichts.
+Wir müssen unsere Karoake sehen.
+Dann hören wir nichts.
+Wollen Sie mal unsere Karoake sehen?
+Ja, alles.
+Das war mitten im Trag, das war mitten im Trag.
+Boah, vor der Menge hier.
+Da oben ging's noch, also ich weiß nicht, ob du's gesehen hast.
+Respekt.
+Aber das war Gesangslage 1a.
+Schauen Sie mal.
+Guck, das ist auch ein Park, wie hier, ne?
+Nein, das ist eine Türkei-Schanze, das war meine.
+Ah, du hast das mir erzählt.
+Okay, jetzt schauen Sie, was ich gemacht habe.
+Wir konnten alle singen und wir sind zum Spaß haltend drauf, okay?
+Ich bin die in schwarz.
+Ja, genau.
+Nein, Sie sind die Linke jetzt.
+Ja, eben wollte ich gerade sagen, das ist doch die.
+Ah, sehr gut.
+Das war doch die Star.
+Wir haben alle so gelacht am nächsten Tag.
+Und das war unser Lieblings-Animateur-Clip, das ist der Sean Mayer.
+Er ist so cool!
+Das ist unser Insider, unser Animateur.
+Sehr gut. Also ich finde, singen ist gut, Show ist das Beste eigentlich.
+Ja. Ich war am nächsten Tag so unangenehm.
+auf mich kamen Leute zu, die haben mich erkannt.
+Das war so schnell.
+Die sind nicht überhaupt...
+Aber diese Welle da, das ist schon krass.
+Also ganze Hotelkasse.
+Mein Motto war, nach neun Tagen,
+kommt uns eh keiner mehr.
+Genau das Gegenteil.
+Ist der Ruf erstmal ruiniert,
+wird es sich ganz ungeniert.
+Nein, ich hab immer den gesagt,
+mich hat nie interessiert, was die anderen dachten,
+weil ich manchmal nach neun Tagen...
+Ach so, ja, das ist richtig.
+Was ist mit Karaoke in China?
+Was?
+Ja.
+Auch Karaoke, ne?
+Ja.
+Viel, ne?
+Viel zu viel.
+Viel zu viel, sehr gut.
+Und sehr günstig.
+Sehr günstig.
+Sehr günstig, ja?
+Toll, toll.
+Vielleicht 50 RMB.
+50 RMB.
+Okay, okay.
+Eine Stunde.
+Eine Stunde.
+Das heißt, 50 R&B, 15 R&B, eine Stunde.
+Eine Stunde, ok, Karaoke.
+Dann in einem eigenen Raum, ne? Karaoke in einem eigenen, separierten Raum.
+Ja, ja, ja.
+Wer ist...
+Aktiv...
+...
+...
+Aktivität, Aktivität.
+Sehr gut. Singt ihr auch Karaoke?
+Ja, gerne.
+Jeder in China macht Karaoke?
+Ja.
+Jede zwei Wochen.
+Alle zwei Wochen Karaoke, ja?
+Hier in Kempten?
+Nein.
+In Hangzhou.
+Ah, in Hangzhou.
+Ja, ja, ja.
+Sie zwei.
+Sie zwei.
+Mit uns kombiniert.
+Okay, okay. Cool, cool.
+Gibt es Karaoke in Kempten?
+Nein.
+Ich wüsste nicht.
+Fragen wir mal hier. Gibt es Karaoke in Kempten?
+Wir kommen nicht aus Chemnitz, also ich weiß es nicht.
+Gibt es in Kaufbeuren?
+In Kaufbeuren gibt es ab und zu, ja.
+In Chemnitz auch?
+Ja, wir wollen das wissen.
+Aber es ist nicht jedes Wochenende.
+Ich glaube die ersten zwei oder so.
+Hast du nichts los?
+So, hallo!
+Wenn ich mal Aktivität habe, dann höre ich Aktivität.
+Wenn ich mal Aktivität höre, dann höre ich das.
+Das kannst du in der Südenkarte machen.
+Ja, sogar im Künstlerhaus.
+Ach, okay. Künstlerhaus.
+In der Einkaufsstraße.
+Verschiedene Karten.
+Künstlerhaus.
+Das ist genau, gell?
+Wir müssen ja mal gemeinsam.
+Wo sind wir?
+Hey, sollen wir mal?
+Ja, sollen wir?
+Ich habe hier noch einen.
+Warte, ich schaue mal.
+Am Mittwoch, jetzt am Mittwoch ist International Dinner?
+Nein, nicht diese Woche ist nicht.
+Nächste Woche?
+Wir haben den 10.11.
+Nächste Woche? Mittwoch?
+Das ist montags immer.
+Am 15.12.
+Am 15. Dezember erst.
+Aber es gibt noch irgendwo.
+International Dinner ist jetzt am Mittwoch, in zwei Tagen.
+Am 12.
+Dezember?
+Nein, November.
+Übermorgen.
+Übermorgen im National Dinner.
+Übermorgen?
+Ja, ja, hängt da draußen.
+Sie sind auch da?
+Ich bin auch da.
+Wo ist das?
+Neun Uhr geht das da.
+Oh Gott, das ist nie was.
+Ich muss hier arbeiten.
+Abends arbeiten.
+Ich arbeite bis 20 Uhr.
+Mittwoch ist das.
+Ich habe Nachtschicht.
+Bei der Post?
+Ja.
+Wozu brauchen Sie so viel Geld?
+Klamotten.
+Was denn?
+Muss man als Studentin so viel Klamotten?
+Was war die Frage?
+Warum Sie so viel Geld brauchen?
+Um die teuren iPhones zu bezahlen, ja?
+Nein, Klamotten oder so.
+Ich habe eine kleine Form zu.
+Einen reichen Mann haben.
+Aber ich will nicht mal einen armen Mann.
+Ich will nicht mal einen armen Mann.
+Sie wollen keinen Armen?
+Nein, ich finde nicht mal einen Armen, wenn ich solch einen reichlich sehen will.
+Der Bammat ist ja angeblich verheiratet.
+Wann ist er verheiratet, der Bammat?
+Ich weiß nicht, ob er verheiratet ist.
+Ich weiß nicht, was es bei ihm war.
+Ich weiß es gar nicht.
+Aber was würden Sie sagen?
+Dann müssen Sie entscheiden, kann ich oder nicht entscheiden.
+Hauptsächlich.
+Klar, warum nicht?
+Kochen Sie gerne?
+Nein, ich kann nicht kochen.
+Ich koche.
+Ja?
+Ich glaube, wenn ich alleine wohnen würde, würde ich jeden Tag kochen.
+Aber ich esse gerne.
+Das ist
+gewesen eine
+Nudel mit
+Das ist das Hähnchenfleisch.
+Das sind Zwiebeln, das ist eine Sauce.
+Oh, lecker.
+Schöne Sauce. Käsesauce.
+Ja, so eine Käse-Cremesauce.
+Schauen Sie mal, was ich gemacht habe.
+In Deutschland, ja.
+Ah, okay.
+Immer mit Meilen.
+Ja, da sind noch so kleine Zwiebeln drin.
+Echt?
+So, jetzt weiter geht's.
+Also, Sie berechnen jetzt mal die bekannten Gelder hier.
+Dann diese zwei Werte und dann diese drei.
+Und die drei Werte, da gehen Sie in dieses Zusatzmaterial rein.
+Und da finden Sie die beiden Formen.
+Vielen Dank.
+Vielen Dank.
+Ja, jetzt machen Sie erst einmal eine Mithilfe der statistischen Größen, also diese ganzen
+Werte hier.
+Wenn Sie das haben, zeigen Sie die Lösen und dann fangen Sie an, die Punkte in die
+Karte einzuzeichnen.
+Das war's.
+Was machst du hier?
+Amen.
+Amen.
+Amen.
+Amen.
+Amen.
+Ja, nur die Sachen, die wir jetzt hier machen.
+Ja, also, wenn wir die Handverteilung wissen, dann noch gleich mal zwei Minuten.
+Ja, wegen dieser Definition von oberen Eingriffskennseln, drei Eingriffskennseln.
+Und die Formel für obere Eingriffskennsel und untere Eingriffskennsel, die würde ich angeben.
+Ah, okay, also auch so die Formel für die, der Sigma, der RS-Sigma.
+Ja, das geht mit dem Taschenrechner ein.
+Ah, also die Formel muss man nicht wissen, weil man, das ist eine spezielle Funktion,
+die man mit dem Taschenrechner einnimmt.
+Ja, ja, ja.
+Okay.
+Also wir müssen eigentlich, wir nehmen nur eine Jahre lang und wissen,
+um zwei Formeln, die gleich noch kommen.
+Okay.
+Insgesamt, also für die ganze Kür von Modell 1 bis 5.
+Ja, gut, für die gesamte Formel.
+Ah, also nur drei Stück.
+Das ist ja doch auswendig, Christi.
+Also, wenn nicht.
+Frühstück.
+Frühstück.
+Frühstück.
+Das ist ja noch mal.
+Haben Sie schon mal Tofu gegessen?
+Weiß gegessen? Tofu. Tofu? Tofu.
+Tofu, meint sie. Tofu.
+Tofu kennen wir alle.
+Schminkere.
+Ich fasse mich nur wegen der Zeit jetzt an.
+Schau, wenn ich hier scheibe, das macht er nicht hier.
+Tofu, Tofu.
+Schau.
+Ach, nicht Tofu.
+Tofu.
+Tofu.
+Tofu.
+Indisch kann das sein?
+Nein.
+Sie dürfen euch die Lösung zeigen.
+Ja, das stimmt auch noch.
+Das ist 17,86.
+Das ist besser als ein 2er-Spieler.
+Sie ist schon fertig hier, aber noch nicht mit der Grafik, ne?
+Wenn wir uns konzentrieren, so sind wir schnell.
+Sie hat es aber auch schon fertig.
+Nein.
+Zeichnen.
+Jetzt die Zeichnung noch.
+Zeichnen.
+Jetzt hier.
+Genau.
+Jetzt müssen Sie sich selber was überlegen.
+In der Skala, ja?
+Ja, ja, ja.
+Können Sie mal das Zusatz noch sehen.
+Vielen Dank.
+Ja, sehr viel.
+Ja, ja, klar.
+Wenn ich aber was mitbringe, dann wird es aber kalt.
+Können Sie auch gleich mal mit in die Koffer, Gips oder so.
+Das ist lecker.
+Da kommt viel mit.
+Ja, da kommt viel mit.
+Es ist lecker.
+Jeder bringt was mit.
+Ich hoffe unsere chinesischen
+Kombinatoren kommen auch.
+Ich muss ja noch mal denken.
+Nehmen Sie was mit?
+Nehmen Sie was mit?
+Ja, muss ich ja.
+Was nehmen Sie mit?
+Verrate ich nicht.
+Das ist nur wer kommt.
+Aber erwarten Sie mal nicht zu viel von mir.
+Ja, ich muss eh arbeiten.
+Ich kann das auch.
+Vielen Dank.
+Das war's für heute.
+Wir üben das Gleiche.
+So, kommen Sie zurecht mit der Regelkarte.
+Regelkarte?
+Sie müssen jetzt einzeichnen, die Punkte.
+Achso, das fehlt noch hier.
+Und jetzt müssen Sie hier
+quasi hier in das nächste Blatt
+das alles einzeichnen.
+Da. Da rein. Ja, genau. Haben Sie schon mal. Ja, haben Sie schon. Ja, gut.
+Dann müssen Sie die Punkte noch einzeichnen. Ah, ja.
+Und dann das Gleiche hierfür.
+Nur ein. Nur ein.
+Ne, hier diese Punkte. Diese Werte hier.
+Ja, ja, ja.
+Kann ich nochmal ein anderes nehmen?
+Ja, ja, ja.
+Vielen Dank.
+Warum gibt es die Krähe?
+Es gibt S-Quer, wo kann man...
+Nein, S-Quer, nicht S-Quer. Wieso S-Quer?
+S-Quer?
+Achso, S-Quer.
+Ich will keine S-Quer.
+Ja, es ist S-Quer, so.
+Also hier so.
+Also jetzt der Mittel, der der Standardanzeige wird.
+Jetzt quer ist der Mittel, der der Standardanzeige wird.
+Und dann geht er da hin.
+Ja.
+Ja, das auch mal.
+Das ist nicht nur, das ist kein Licht.
+Achso.
+Sehr gut.
+Ja, läuft was.
+Ja, ja, ja.
+Seid ihr froh?
+Vielen Dank.
+Amen.
+Amen.
+Amen.
+Amen.
+Brauchen Sie noch Zeit?
+Oder sind Sie schon durch?
+Okay, dann lege ich mal die Lösung auf.
+Sieht das hier eben auch so aus.
+Die Frage ist jetzt, wo muss man eingreifen?
+Ich glaube, was ich gesehen habe, sah eigentlich ganz gut aus, was Sie hatten.
+Wenn wir es um 8 Uhr spalten wollen, dann machen wir es so, weil...
+Um 8 Uhr? Warum 8 Uhr?
+Die Treffen nach unten dann wirklich.
+Aber nur 2 auf einmal, nicht 6 miteinander.
+Achso, ja, aber trotzdem so zwischen 6 und 8 Uhr.
+Also ich meine, weil es so stark runter geht?
+Genau.
+Gut, die Wahrscheinlichkeit ist 0,5 und 0,5, also in 25% der Fälle ist es auch noch zufällig.
+Im 12. Jahrhundert berühren Sie die Pflanze.
+Was sehen wir hier? Gibt es hier Probleme?
+Eine Preisfrage. Es gibt ja hier eine obere Eingriffsgrenze.
+Warum gibt es keine untere?
+Das ist eine Empfangsfrage. Warum gibt es keine untere?
+Herr Hasch, Sie lösen auf.
+Die Range bezeichnet ja die maximale Ableitung.
+Und wenn nach unten, ist es ja besser.
+Also wenn ich jetzt bei Null wäre, dann wäre jeder Wert exakt gleich gewesen.
+Also umso kleiner, umso besser. Deswegen gibt es keine...
+Verstanden?
+Können Sie es auch mit Nachnamen nennen?
+Ich heiße Bandorellos.
+Bando...
+Bandorellos.
+Eros.
+Bandoeros.
+Bansarellos.
+Ja, so viel zu schwer.
+Bandorellos.
+Okay, noch jemand?
+Nee, wirklich nicht.
+Bei mir ist es ein bisschen zu schnell.
+Frau, wann du reihst?
+Das ist ja eine spanische Nachname.
+Ist das türkisch?
+Nein, das ist also
+von meiner Mutter Nachname.
+Ihre Mutter ist?
+Türkei.
+Das ist ein türkischer Nachname.
+Nee, ich glaube, spanisch.
+Ich weiß es gar nicht genau.
+Es ist ihr davoriger Nachname gewesen.
+Mädchenname.
+Ach so, dann ist sie aber keine Türkin geblieben.
+Doch.
+Auch.
+Aber ich glaube, Vorfahren sind weiblich genannt.
+Aber ich schätze.
+Ich muss mal checken.
+Soll ich mal schauen?
+Aber die lenken uns wieder zu stark ab.
+Und die schaffen es mir natürlich mit abzulenken.
+Da wird sie drehen.
+Wann du wärst.
+Stammt mit hoher Wahrscheinlichkeit nicht aus der Wirklichkeit, wenn ich das richtig beschrieben habe.
+Ne, genau.
+Schenken Sie mal die Annotation.
+So, jetzt geht es weiter. Fragen dazu?
+Jetzt nennen wir einen Begriff, einen Führer, der wichtig ist im Qualitätsmanagement, und zwar die Prozessfähigkeit.
+Also ein Prozess ist fähig, capable, um Qualität herzustellen.
+Er ist fähig, Qualität herzustellen.
+So, dann müssen wir uns das gerade mal ein bisschen anschauen.
+Wo kommt das her?
+Das muss man grundsätzlich verstehen und dann können wir das mal noch berechnen.
+also wenn Sie
+wenn ein Prozess
+keine systematischen
+Einflüsse hat
+und wir ihn steuern können
+wir wissen wie wir ihn verändern können
+wie wir ihn verändern können
+und wir können ihn auch in der Mitte zentrieren
+dann ist dieser Prozess beherrscht
+wenn er noch zusätzlich
+innerhalb der Toleranz liegt
+dann wäre er fähig
+Prozessfähigkeit
+Das heißt also, wir brauchen erst einen beherrschenden Prozess und dann einen fähigen Prozess und dann können wir den noch weiter verbessern und dann können wir den mit Qualitätsregelkraften regeln.
+Aber erstmal müssen wir das hier erzeugen.
+Die Frage ist, ist ein Prozess fähig?
+Jetzt mal bildlich.
+Sie haben an dieser Stelle drei Stichproben, um 8, 12 und 17 Uhr, und die sind alle normal verteilt, aber der liegt total links und der liegt total rechts und zielt rechts.
+Dann wäre dieser Prozess nicht beherrscht.
+Wenn Sie den Prozess jetzt hier zentrieren können, dann wäre er beherrscht.
+Und wenn wir jetzt dann noch diese hohe Toleranzgrenze einzeichnen,
+dann seht ihr, leider geht immer wieder ein Teil der Messwertlinie außerhalb.
+Das heißt, dieser Prozess ist beherrscht, aber leider immer noch nicht fähig.
+und das. Und wenn wir
+die wieder so verändern, dass dahintersteht
+sogar die Tobi, die nach
+der Toleranzgrenze liegt, dann
+ist der noch zusätzlich fähig.
+Das ist also ein fähiger
+Prozess.
+Haben wir genau
+so im Buch, die Abbildungen.
+Also,
+das wäre ein Tegel, also
+nochmal, der Prozess
+muss beherrscht sein, das heißt, wir müssen
+frei zentrieren können,
+dann, wenn er nach der Toleranzgrenze liegt,
+wäre er herbstfähig,
+und dann würde man
+die Streusel weiter verringern,
+dass ich Abstand kriege von Toleranz-Planzen,
+und dann kann ich ihn mit der Regelkarte
+regeln, das heißt,
+erkennen können, wo sind
+systematische Einflüsse.
+Das war jetzt mal die ganze Sache verbal,
+und jetzt kommen wir zu einer
+Formel. Ich würde mir vorstellen,
+man will da immer eine Formel haben
+und die Prozessfähigkeit
+als Kennzahl ausdrücken
+können.
+Und
+jetzt schauen wir uns mal diesen Prozess an.
+Diesen Prozess.
+Dieser Prozess hat einen unteren
+Grenzwert und einen oberen
+und der liegt genau in der Mitte
+von diesem Toleranzfeld
+und hat links und rechts schön Abstand zu
+den
+grenzwertig.
+Das heißt, dieser Prozess ist
+rein optisch gesehen fähig.
+Weil die Toleranzweite
+ist größer als
+6 Sigma, als diese Prozessstreuung.
+Jetzt kann ich also hier
+eine Kennzahl machen.
+CP
+T steht für Capability und T für Prozess.
+Also Capability des Prozesses.
+Capability des Prozesses von der Hand frei und von der Hand voll.
+Das heißt, die Zahl ist größer oder kleiner als 1?
+Kleiner.
+Umso kleiner, umso...
+Genauer.
+Umso besser, ne?
+Ja.
+Umso genauer, richtig.
+Frage an Sie, verstanden?
+Also, das ist ein guter Prozess, der ist fähig, der hat viel Abstand.
+Wenn ich sage, Toleranzfreude, begleit durch Prozessstreuung, kriege ich ein Wert,
+kleiner 1.
+Wenn der Wert genau 1 ist, was wäre dann?
+Was wäre dann?
+Dann wäre diese Kurve, diese Linie, würde genau da drauf liegen.
+Also, umso kleiner das hier ist, umso größer das hier ist, umso besser.
+Und wenn es genau eins ist, dann liegt es drauf, und wenn es kleiner ist, dann liegt es sogar links oder rechts drüber.
+So, jetzt sind wir alle wieder wach.
+So, also der RCP-Wert ist also ein Maß für das Verhältnis zwischen breiter Prozessstreuung und breiter Toleranz.
+So, jetzt wollen wir das mal in Zahlen gießen.
+Also die Formel, wenn Sie mal gucken, Toleranzbreite ist klar, ist O g g minus U g g, das ist die Toleranz.
+Und dann die Prozessstreuung, da haben wir uns drauf geeinigt, 6 mal Sigma oder, wenn wir den Stichpunkt betrachten, 6 mal S.
+Okay?
+Sie nicken, gut.
+Und wenn ich mir jetzt mal dieses Bild anschaue und schaue mir an, das ist die untere Grenze, das obere, ich liege mit dem 3x7x links und 3x7x rechts genau hier drauf, dann ist der CD-Wert was?
+Machen Sie weiter.
+Die Hände ist wieder nicht, ich habe vergessen die Hände wegzulegen und schon ist das Fenster abgelehnt. Das ist der Beweis.
+Er hat keine Hände.
+Sondern?
+Nicht.
+Zerkele Hände.
+Ich sehe auch.
+Das ist die Handysucht.
+Man kann sich gar nicht gegen die Sucht wehren lassen.
+Deswegen sage ich immer weg zu genau den Südlichkeiten.
+Ich sage immer, ich will keine Südlichkeiten.
+Guck mal in den Arm.
+Der Mensch lässt sich nur in Versuchung führen.
+Okay, was für ein CP-Wert haben wir in diesem Fall hier?
+Die Frage, was für ein CP-Wert habe ich, wenn der Sechstigma genau hier so breit ist wie diese Toleranzwelt?
+Eins.
+Eins, sehr gut.
+So, und jetzt kommen wir mit dem Konzentrationskopf auf den springenden Punkt, wo viele wegschalten.
+Wenn wir uns dieses Bild drunter angucken, dann sehen wir UGB und UGB liegt genau auf Nicht-Verändern.
+Richtig?
+So, was hat sich verändert?
+Irgendjemand hat am Prozess gedreht und den Fertigungsprozess verbessert.
+Was hat er verbessert?
+Viele Leute setzen jetzt an der Stelle aus.
+Was hat er verbessert?
+Also an der UGW haben wir nichts verändert.
+Aber was haben wir hier verändert?
+Richtig.
+Weil der Ländepunkt ist näher heran gedrückt.
+Und was ich jetzt hier in dem Bild nicht ganz korrekt habe,
+die Fläche hier müsste genauso groß sein wie die Fläche hier.
+Ich hätte das höher ziehen können.
+Ich habe ja genau das von den Messpunkten vorgehalten.
+Aber da wäre das ja gar nicht so gut.
+Okay, das heißt also, der Abstand 6 Sigma,
+dieser Abstand ist kleiner geworden.
+Weil der Sigma wurde kleiner.
+Jemand hat die Prozessstreuung verringert, also verbessert.
+So, und was habe ich dann hier für einen CDP, wenn ich mir diese Form ansehe?
+Steht auch drauf, ne? Aber ist eigentlich klar, dass es zwei ist, oder?
+Ich bekomme das Ding hier einmal rein, zweimal rein.
+Okay? Also der Abstand hier kriege ich zweimal in das Vorderhandwerk.
+Das heißt, das O-Gewinne in das O-Gewinne in das Vorderhandwerk geteilt ist 6 mal Sigma, ist zweimal Prozent.
+So, ist das jetzt verstanden oder sind wir da noch unsicher?
+Haben Sie den Geselligen gesteuert?
+Da hat jemand jetzt in den Fertigungsprozess eingegriffen und ihn verbessert.
+Die Messwerte sind enger zusammen.
+Die Streuung ist geringer.
+Steuern.
+Nein, davor nicht.
+Nicht steuern, aber irgendwas anderes.
+Streuung.
+Nein, nicht steuern.
+Streuung verringert.
+Hast du nicht irgendwas anderes gesagt?
+Nein, davor.
+So, jetzt sind wir bei diesem Beispiel von dem Optimalfallausgang,
+dass diese ganze Geschichte hier genau in der Mitte zentriert ist.
+Das muss ja gar nicht sein.
+Das muss ja gar nicht sein.
+Deshalb brauchen wir noch einen zweiten Kennwert,
+der ja nicht nur das Sigma betrachtet, sondern auch noch das µ.
+Wo liegt das µ?
+In dem Fall ist ja das µ genau in der Mitte des Toleranzfeldes.
+Das heißt, wir sind optimal zentriert.
+Jetzt brauchen wir dafür noch einen zweiten Kennwert.
+Wir sehen also hier, wir haben wieder genau die gleiche super Verteilung, diese schmale Verteilung.
+Wir haben nichts verändert, außer, das war vorher in der Mitte, und jetzt ist es verschoben.
+Das Müll war vorher in der Mitte, jetzt ist das Müll hier am Rand ein bisschen mehr rechts verschoben.
+Also dezentriert, der Prozess ist dezentriert.
+Und was passiert jetzt?
+Ein Teil der Messpunkte ist außerhalb der oberen Eingriffsgrenze.
+Das heißt, dieser Prozess ist gut oder schlecht.
+Ich frage mal hier, was meinen Sie?
+Ist dieser Prozess gut oder schlecht?
+Also wir haben jetzt genau diese Kurve genommen, vorher lag sie genau in der Mitte, dann haben
+wir sie nach da geschoben.
+Hier liegt sie genau in der Mitte, dann haben wir sie nach da geschoben, ganz an den Rand
+und sehen jetzt ein Teil der Messwerte ist außerhalb der Toleranz.
+Ist das gut oder schlecht?
+Schlecht.
+Sehr schlecht.
+Genau. Sehr schlecht.
+Das heißt also, obwohl wir die gute, der Sigma ist super gut,
+nach wie vor super gut, aber da wir jetzt am Rand liegen,
+ist leider die Prognose schlecht.
+Das heißt, wir brauchen noch einen zweiten Wert,
+der die Lage der Verteilung, die Lage,
+sehr stark dezentriert
+berücksichtigt
+und das ist der CPK-Wert
+also der Kritikprozess
+K für kritisch
+so
+und wenn man mal guckt
+was ist denn kritisch
+ist der Abstand voneinander da kritisch
+oder der Abstand voneinander da
+dann ist es ja der rechte Abstand
+Das ist der kritische Abstand.
+Das heißt also, wir müssen überlegen,
+ist das hier kleiner oder das ist kleiner?
+Wenn man versteht, das ist kleiner,
+zu der Seite hin hätte auch noch nichts dezentriert sein können.
+Das haben wir jetzt hier zur oberen, zur OGB dezentriert.
+Jetzt, genau, das ist jetzt hier die Abbildung 4.1.5.
+der hat gesagt, er hat einen Fehler in dem Ding drin,
+jetzt hat mir leider der Verlag
+gerade irgendwas vertauscht,
+dann müssen Sie dieses Bild nehmen,
+also die Abdeckung 4.1.5
+ist nicht die im O,
+sondern die, die hier ist.
+So, und
+da haben wir also die Formel,
+C' ist gleich,
+Z'
+geteilt durch,
+jetzt nehmen wir nicht mehr 6'
+Der Begriff ist der kleinere Abstand zur Toleranzgrenze, also von jetzt quer quer zur Toleranzgrenze.
+Okay, also das hier ist ja eine tolle Geschichte, wird genau in der Mitte zentriert.
+Die 6 Sigma packt zweimal da rein, das heißt Cp ist 2, wir sind genau in der Mitte präpariert, können Sie die Zahlen mal einsetzen,
+selbstverständlich ist die Halbzolleranzgröße, die 3 Sigma ist auch 2, dann sehen Sie schon, CpK kann gar nicht besser werden als Cp.
+Wenn CpK identisch ist zu Cp, dann ist es genau in der Mitte zentriert.
+und jetzt sind wir verrutscht
+in dem unteren Bild
+und zwar nach links
+und zwar
+der Abstand hier ist
+verringert
+und zwar so, die Vertragung stößt
+genau hier an die untere Grenze an
+cpk ist gleich 1
+cpk hat sich nicht verändert
+also die
+Sigma ist identisch geblieben
+nur die Lüge hat sich verändert,
+der Mittelwert Lüge ist quer
+und da liegen wir jetzt genau dran.
+Also hier sehen wir uns nochmal alles auf einen Blick.
+Also das ist die Formel,
+das ist wie bei einem Beispiel.
+Also die CT berücksichtigt
+die Lage der, CPK berücksichtigt
+die Lage der Verteilung.
+Der CPK
+wird so definiert, dass er
+genau gleich CP ist,
+wenn er absolut in der Toleranz
+zentriert ist, wäre
+der Optimalfall. Jede Abweichung
+dazu führt also, dass
+der CPK-Wert
+kleiner ist als der CP-Wert.
+Also weil sie nicht mehr in der Mitte zentriert sind,
+egal ob mal links oder rechts, sie werden
+und etwa kleiner als Cp.
+So, wie ist der CpK-Wert?
+Also ist Cp größer als CpK,
+ist CpK kleiner als CpK,
+kann ich durch eine Zentrierung
+den Prozessfähig machen.
+Und es gibt so eine Regel,
+Cp soll größer oder gleich 1,33 sein
+und CpK genauso.
+Ich kann euch später mal erklären,
+warum 1,33 und warum nicht 1,0.
+Das war jetzt sehr viel Know-how.
+Ich frage unsere chinesischen Studierenden, konnten sie das alles so toll sehen?
+Ja, ich kann nur sagen, ungefähr den Themenbereich kann ich sagen.
+Ich weiß es selber noch nicht.
+Was sieht das hier aus?
+Was haben Sie zu diesem Thema?
+Ich komme da nicht vor.
+Ich komme da nicht vor.
+Ich komme da nicht vor.
+Ich habe mir auch so eine Vorbilder-Moment.
+Da habe ich ja reingesteckt.
+Kommt da rein.
+Also, Sie müssen die zwei Vorbilder, die hier,
+und die hier.
+Danach können Sie es auch wieder vergessen.
+Die müssen wir können.
+Ja, auswendig.
+Kriegen Sie noch Punkte, wenn Sie die richtig hinschreiben.
+Kriegen Sie Punkte.
+Wie viele Punkte brauche ich für eine 4?
+Für eine 4?
+Für eine 1, dachte ich jetzt.
+Mich hast du erhört, oder?
+Für eine 2?
+4.
+Nein, nicht bei Ihnen.
+Aber was für eine 2?
+Ich will nur wissen.
+Also es gibt 90 Punkte und Sie brauchen 80 oder mehr für eine 1.
+70.
+Alles andere wird bei Ihnen abgewertet zu 5, damit Sie das nächste Mal noch mal antreten können.
+Nee, 50.
+50?
+50.
+Hä, warum?
+Ich habe 50 Prozent gerade.
+Bei mir nicht.
+Warum?
+Ich glaub's auch gar nicht.
+Nee.
+Ich würde das hier mit zwei schweigen.
+Und Sie auch?
+Ich meine, es sollten die anderen...
+Die anderen?
+Ja, ich...
+Und wir obendrein drei schweigen.
+Oder auch nur zwei, oder eins.
+Warum geht das jetzt schon?
+Hm?
+Also, ich bin 50 schon viel.
+Also, ich hab die jetzt so gestellt, aber auch gar nicht, weil sie eigentlich jeder
+jeder genießt.
+Wir scheitern halt nur an Prüfungen,
+wenn wir so etwas studieren.
+Das ist, genau, das ist die Challenge für Ihnen eigentlich.
+Und Sie haben, glaube ich,
+die letzte Prüfung,
+das wird die letzte sein in Ihrer Reihe,
+und dann wird keiner anfangen, KQM zu lernen,
+sondern am Wochenende, ich glaube,
+ich bin montags dran, ist schon wenig,
+nur ein Wochenende lernen.
+Wie?
+Ja, ich bin die letzte Prüfung.
+Sie haben ja den ganzen schweren Sammler vor.
+Ach so, ja.
+Nein, nein, Sie haben auch keine Glückwünsche, ich habe keine.
+Aber wie geht es Ihnen jetzt hier?
+Das kann ich nur alles verschieben.
+Aber ungefähr?
+Ja, da müsste ich jetzt reingucken.
+Ja, das wäre gut.
+Können Sie es mir nächstes Mal sagen?
+Ich kann es Ihnen nächstes Mal sagen, ja.
+Aber das ist unverbindlich, weil da gibt es immer wieder Sachen, die verschieben sich,
+und mit einem Schlag verschiebt sich auch bei mir was.
+Ja, nur ungefähr.
+Ja, crazy, weil wir haben ja schon weniger, also 45 Minuten.
+Also wenn ich jetzt sehr viele Fünfen habe, dann bin ich auch überrascht, um 49 oder 48 runterzugehen.
+Wenn Sie mal gesehen haben, dass ich wirklich knapp bin, bitte gönnen Sie.
+Ich habe eh nur zwei Erlebnisse.
+Alena ist der Vorname.
+Alena Ansen gibt es auch im Studium.
+Aber wir schreiben Alena.
+Alina Anselm oder Alina Anselm?
+Alina.
+Alina Anselm.
+Ja, ich sitze da.
+Die hatte mal großes Pech,
+aber ich brauche nichts dafür.
+Ne?
+Die hat nicht hochgefilmt oder so.
+Ne, der hat weggearbeitet.
+Ich habe noch eine Frage.
+Bei dem Krankensemester muss man nicht auf die Prüfung irgendwas auf...
+Da muss man sich ja bei den Anwälten die Prüfung auch als Anwälte vermitteln, oder?
+Ja, ja.
+Muss ich das jetzt dieses Semester machen oder das letzte ab?
+Wann machen wir denn das Praxis-Semester?
+Soll ich es jetzt machen?
+Bis zum 3. oder?
+Ja, ja, dann müssen wir es jetzt machen.
+Ja, wenn es jetzt am 8. machen,
+muss ich mich jetzt anmelden?
+Also ein Semester vorher?
+Eigentlich nicht.
+Frau Weber weiß das.
+Ich mache auch nächsten Sommer
+das Praxis-Semester, aber
+soweit ich im Kopf habe,
+habe ich irgendwie einen
+Termin vor dem
+vor, also am Anfang des Semesters
+vor dem Freitagsemester machen und dann am Ende.
+Ja.
+So habe ich es mir in Erinnerung gemacht.
+Das hast du dir ja schon angemeldet.
+Nee.
+Ja, das wollte ich jetzt in Erinnerung machen.
+Du hast ja seit einer Woche im Semester
+das letzte Monat angefangen
+und ich will
+dieses Semester zu beschäftigen.
+Ja, okay.
+Ich habe keine Ahnung.
+Du machst nächstes Semester
+dein Tagsemester.
+Vielleicht guck ich jetzt aber dein Praxis-Technik an, nicht als Niederländischer.
+Ich kann Frau Weber fragen, fragen Sie mir mal runter.
+Ja, und Sie haben heute noch Englisch nachgefragt.
+Ja, das war mit diesem, mit diesem, wie lange Sie studieren dürfen.
+Das habe ich durch den Nachgucken nicht gefunden, ich muss Sie überlegen fragen.
+Verstehen Sie, warum Sie nicht gefunden haben?
+Ich finde, dass wir so ein Schwachsinn, ohne Spaß, man muss irgendwie immer alles raussuchen, man findet gar nichts.
+Aber das geht mir genauso gut.
+Mir liegt jetzt allgemein so auf dem Praxisseminar, mir hat einer geschrieben, dass ich mich jetzt schon anmelden soll, ich bin im Semester.
+Aber das weiß er also, woher soll ich das wissen?
+Es müsste eigentlich im Infopoint stehen.
+Nee, ich stehe im Semester.
+Dann kann ich ihn anmelden.
+Im Infopoint haben wir extra ein paar Praxissemester.
+Ich bin leider nicht online, sonst könnte ich da auch mal...
+Ich finde das so umständlich.
+Das ist dieser umständliche Preis.
+Wir haben es mal einfach mal abgeschaltet.
+Eine damalige Freundin, auch hier studiert, die meinte, Katastrophe, die ist jetzt in Ulm.
+Nein, nein, die kennst du nicht.
+Du hast hier ein Infopoint, was du bei Praxissemester, Bachelorarbeit, hast du drei Dokumente,
+ein Felsvoraussetzung, du brauchst eine Anforderung, Termin, Ablaufsabgabe.
+Wenn Sie eine Praktikumstelle gefunden haben,
+dann ist das Praktikum im Wintersemester
+bis zum 2. Praktikum und im Sommersemester
+bis zum 15.
+Aber ich muss mich ja,
+wenn die Prüfungen,
+vielleicht leise ich noch lange,
+glaube ich, jetzt nirgends wieder übernommen,
+beziehungsweise ein Praxis-Seminar schon.
+Praxis-Seminar 1 vor dem Praktikum.
+Liebig in den ersten Studiensemestern,
+möglichst vor dem Praktikum.
+Online auf Moodle, Selbstanschreibung,
+Word für Bericht, Inhalte sind Word für Bericht
+und Abschlussarbeiten, wissenschaftliches Schreiben
+und Leistungen durch Arbeiten der Online-Kurse
+mit Abgabe als bearbeitete Word-Dokument
+und Auswertung in der Lebens- und Ende-der-Semester-Ferie.
+Und du kannst dich da auch gut anmelden.
+Während des Praktikums musst du ein paar Sachen machen, steht auch alles.
+Du machst immer Praxis-Seminar 2 bis am Ende des Praktikums,
+der innerhalb der letzten zwei Wochen pro Semester beginnt,
+also das ist dann bis Ende September nächstes Jahr.
+Und da Anmeldung zur Prüfung auf dem Mein Campus während des Anmeldezeitraums,
+also nächstes Sommersemester während des Prüfungs-Anmeldezeitraums,
+Ich habe es so verstanden, wenn Sie sich in den Sommerzeitplan machen, dann müssen Sie sich anmelden.
+Erstens, zweitens.
+Das ist irgendwie komisch, wenn man praktisch so passiert.
+Es ist sehr, sehr früh, aber es ist möglich.
+Ja, aber diese Prüfungsgänge sind doch noch da.
+Das ist ja auch nicht so.
+Also, lesen wir mal durch.
+Okay, und noch eine Frage.
+War es nicht motivierend?
+Ich habe ihn gefragt, ob ich
+Flügel von Münster einbände.
+Ja, warum nicht?
+Aber ich habe ihn nur so angemeldet.
+Er ist einfach eine ohne Kennenlernung.
+Doch, doch.
+Also,
+man muss sagen...
+Also jetzt für dieses Semester?
+Ja, ich habe mich für die Prüfung
+zwar angemeldet, aber ich habe mich nicht eingefragen,
+wo man sich doch hier...
+Ja, das heißt nicht, also
+solange die Dozenten
+nicht zur Prüfung...
+Welche sind denn?
+Welche sind denn?
+Energie und mehr oder weniger.
+Das gleiche habe ich hier nicht angemeldet.
+Dieses Semester schreibe ich dort
+für mich.
+Ich glaube schon.
+Wer? Der Dozent.
+Ja, dann machen wir es doch.
+Aber wenn du da eine Frage hast,
+im T-Gebäude
+200 irgendwas,
+Also wenn du die Treppen hochläufst, links, da ist dieses Sekretariat und da steht die Baufakultät, da kannst du alles fragen.
+Und die können dich auch im Zweifel noch nachträglich da reinsteigen.
+Aber wenn der Kollege, wer ist denn der Kollege, Herr Meier oder wer?
+Ich weiß es nicht, war einmal im Bild.
+Wie sieht er aus?
+Ein älterer Mann.
+Ein älterer Mann.
+Ja.
+Aber ein netter Kerl, wenn der.
+Ich hätte dann Nein gesagt, wenn ich den nur einmal gesehen hätte.
+Ich glaube, nee.
+Ja, ich bin ja vor zwei Wochen das erste Mal rein gefahren, dann bin ich nie wieder rein.
+Schlecht.
+Ja, ich geh wieder zurück.
+Ja, das machen drei Gebäude-Energie-Technik-Türen.
+Da braucht man, da braucht man die Vorlesung anscheinend nicht für.
+Das ist doch so.
+Okay.
+Also, wurde mir auch von anderen gesagt.
+War auch nur letzte Woche.
+Weiß nicht, wer das ist, ja.
+Der macht das halt so aus Interesse...
+Bei den israelischen Dozenten, also in diesem...
+Ja, der kommt aus dem Land, wo wir angefangen haben.
+Ja, ich gehe voll früh in die Reihe.
+Also bei Dingen, es gibt schon so drei Dinge, wo ich die drin mache.
+Okay, machen wir mal weiter.
+Genau, warum jetzt 1,33 und nicht genau 1, das sage ich Ihnen mal später.
+Jetzt mal vielleicht etwas, was Sie einmal gehört haben sollten,
+wenn Sie sich ausdrücklich lernen.
+Wir haben ja jetzt hier drüber geredet.
+Das ist die sogenannte Langzeitprozessfähigkeit, CP, CPK.
+Es gibt auch noch so eine vorläufige Prozentsfähigkeit, d.h. Sie haben diese 20 Fertigungsfragen nicht zusammen,
+haben so eine Vorläufige, weil Sie müssen ja in den ersten 20 Tagen auch was machen.
+Gleiche Formel, geht mit P, PP und PDK.
+Und damit Sie es einmal gehört haben, es gibt auch noch eine Maschinenfähigkeit.
+Also Sie kaufen eine Maschine, die wird mit aufgebaut in der Firma und dann wollen Sie das Geld erst bezahlen, wenn die Maschine fähig ist, Ihren Prozess zu fahren.
+Und dann lässt man sich auch eine Maschinenfähigkeit machen mit mindestens 50 Teilen und dann wird CM und CMK berechnet.
+Gleiche Formel, ja?
+Können Sie sich wieder vergessen.
+Nur es gibt auch eine Maschinenfähigkeit.
+Es gibt jetzt nicht nur Prozessfähigkeit, es gibt auch Vorläufe und Hinweisfähigkeit.
+Und was wir noch machen werden später, ist eine Fähigkeit für Messmittel.
+Da sehen die Formeln etwas anders aus.
+Das brauchen Sie nicht ausmerzen.
+CD, CDK, CD für Borsch.
+Borsch ist Werkzeug oder Messmittel.
+So, wir sind also jetzt hier.
+Wir machen also hier die Langzeitprozessfähigkeit.
+Deswegen brauchen wir auch 20 Fertigungsdaten.
+Jetzt ist leider hier unser Kollege weg, der Herr Weiser, jetzt hätte ich ihn gebraucht, jetzt ist er mir weggelaufen.
+Sowas Blödes.
+Ich kann auch Frau Norell aus dem Allgemeinen.
+Ja, ich frage Frau Norell aus, genau.
+Also, was kann dann alles Einfluss nehmen auf die Fähigkeit eines Verletzungsprozesses und auf die Fähigkeit der Untersuchung?
+Naja, fangen wir mit dem Menschen an.
+Es kann sein, der eine oder andere Mensch kann die Maschine besser bedienen als der andere.
+Vielleicht gibt es unterschiedliche Arbeitsbedingungen.
+Wenn Sie wenig Licht haben, drücken Sie vielleicht den falschen Knöpfe.
+Übung und Disposition, kennen Sie den Begriff Disposition?
+Wenn Sie jetzt in dem Fall auf Menschen bezogen sind, Sie sind schlecht disponiert, weil Sie gleich am Wochenende besorgen haben und am Montag schon kommen.
+Dann sind Sie schlecht disponiert, machen Sie vielleicht mehr Fehler.
+Oder je nachdem, wie Sie Informationen kriegen, Ihren Fahrmanagement, kriegen Sie das Papier, kriegen Sie das Bildschirm, können Sie schnell lesen, brauchen Sie langsam und so weiter und so fort.
+Also das heißt, der Bediener, der Mensch, dann haben wir die Methode, also wir haben den Werkzeugverschleiß schon mal erwähnt, der weiß dann, was Aufbauschneidenbildung ist.
+Was Aufbau?
+Aufbauschneidenbildung.
+Für die Fällungstechniker. Wir haben auch wieder Führung mit so.
+Was ist denn eine Aufbauschneidung?
+Wege?
+Aufbauschneidung.
+Lassen Sie mich mal eine Aufbauschneide vorführen, wenn Sie die Maschine anstellen.
+Also nehmen wir an, Sie haben hier eine Welle.
+So, Sie drehen jetzt diese Welle hier mit einem... drehen Sie ab.
+Also die Welle, das Werkzeug, hier ist die Schneide, dann sollte was passieren, dann
+sollte hier Span abgetragen werden, dann sollte der Span heruntersaugen, so der Span wird
+sondern vom Kühlschmierstoff, wird der also abtransportiert.
+Ein Aufbauschneider wäre das hier.
+Der bricht nicht ab, sondern es wird immer länger und verstopft.
+Quasi hier, das ist ein Werkstück, und schneiden einen, der verstopft, der den Spalt.
+Stimmt.
+Ach, stimmt, woher haben Sie das gelernt?
+Ich hatte das nicht.
+Sehen Sie?
+Bei einer Gabel, ja.
+Und wenn das passiert, also ich könnte mir vorstellen, wenn mich da jetzt hier der Spahn verknüllt,
+was passiert denn hier mit dem Prozess?
+Das ändert doch den Prozess, die Prozessparameter.
+Wenn ich vermute, auch die Qualitätsgenachfrage.
+Also Aufbauschleimhöhlung ist nicht gut.
+Dann gibt es insgesamt alle Prozessparameter. Was haben wir denn für Prozessparameter hier bei so einem Drehprozess?
+Denken Sie mal an den Gabler zurück, der hat doch auch Performance gemacht.
+Was hat denn der Gabler im Netz hier? Welche Parameter sind wichtig?
+Und was verbarmen wir überhaupt an so einem Gerät?
+Die Geschwindigkeitsreize oder die Schnellkreuzwege?
+Der Vorschub.
+Genau, das können Sie einstellen.
+In der Maschine können Sie sagen, Vorschub, Drehzahl, dann haben Sie auch hier Anpresskräfte, in diese Richtung und in diese Richtung.
+Das ist Fz, und dann sehen wir noch, der Eingriffstiefel.
+Es gibt auch die Geometrie, wie das Bauteil, ja, ja, richtig, die Geometrie, beziehungsweise der Inkel hier, die Schneide, die Geometrie, spielt alles eine Rolle.
+Also es ist immer die Frage, wie viel sparen will man, also wie viel Vorschub hat man pro Umdrehung, und das hat direkt Einfluss auf die Kräfte.
+Weil wenn Sie sagen, ich mache ganz viele Vorschubwogendrehungen, dann muss ja das alles hier ganz andere Kräfte aushalten und ganz andere Temperaturen entstehen.
+Okay, Tool-Offset bei Werkzeugwechsel haben wir normalerweise nicht mehr.
+Das gab es früher, heute wird das alles automatisch eingeschleppt von der Maschine.
+Ja, Maßabweichung, das stimmt, das gibt es.
+Das Werkzeug kaufen sie auch ein und die hat ja auch wieder Toleranz.
+Die Maschine, die ich im Labor habe, die hat das jetzt nicht mehr, aber die, die der Fortisch hatte,
+die hatte noch so einen Laser drin, der fuhr auf das Werkzeug. Die Spinne hat also das Werkzeug
+aufgenommen, dann fuhr das Werkzeug einmal durch den Laser, durch den Blutlaser hieß das, und wurde in dem Augenblick vermessen.
+Da konnte man auch erkennen, ist das Werkzeug schon mal benutzt worden oder nicht benutzt worden.
+Wie viel ist benutzt worden, hat die Maschine das automatisch nachgeregelt.
+Bei der Grundmaschine ist so ein Stützwerk rausgefahren, ist es dann da nicht so?
+Nein, da gibt es noch anderes. Der vermisst aber nicht das Werkzeug.
+Er misst die Länge, wie das Werkstück, äh, nicht das Werkstück, das Werkstück.
+Genau, er misst das Werkstück.
+So, dann, das Material kann natürlich auch unterschiedlich Qualität haben.
+Also immer dann, wenn Sie einen Chargenwechsel haben, also ein anderes Los, was Sie vom Lieferanten bekommen,
+haben Sie, habe ich mal gelernt, einen Eigenspannungszustand.
+haben Sie es gelernt in der Werkstoffkunde?
+Über einen eigenen Spannungszustand.
+Die werden ja normalerweise bei solcher Wärme,
+bei solcher Wärme entspannt.
+Sie haben ja durch die Erhitzung und den Abkühmprozess
+bekommen Sie das Gefüge, je nachdem, was Sie da wollen,
+aber das Gefüge ist immer unter Spannung.
+Und um diese Spannung auszuholen,
+dann müssen Sie das erstmal erlernen,
+für den mittleren Wert,
+und dann Zeit lang ruhen lassen.
+Dann entspannt sich das.
+Dann gibt es physikalisch wieder ein paar Atomungen.
+Dann haben wir vielleicht Materialzusammensetzung.
+Das haben Sie vielleicht auch noch gelernt.
+Die sind ja, keine Ahnung,
+Stahl mit irgendwas, Chrom, Nickel.
+Dann sind das so und so viel Prozent Chrom,
+so und so viel Prozent Nickel.
+Das heißt aber nicht, dass genau diese Zahl drin ist, sondern da gibt es immer eine ziemlich große Toleranz.
+Dann haben wir, klar die Rohlinge können auch Aufwachsabweichungen haben,
+oder sie sind schon bearbeitet worden von einer Vormaschine, also auch da gibt es dann wieder Abweichungen.
+Gleiche Maschine, Drehmaschine, Pressmaschine, je nachdem wie sie gewartet.
+Dann die Nachtiefigkeit, das heißt also, wenn sie mit sehr großen Kräften fahren,
+die rechten Fahnen, muss ja die Kraft von der Spindel aufgenommen werden und die Spindel
+muss ja die Kraft weitergeben. Die gibt das also ins Maschinenbett. Und wenn, je nachdem,
+wenn das jetzt nicht stabil ist, dann gibt ja die Spindel ein bisschen nach, das Maschinenbett
+gibt ein bisschen nach und dann haben Sie also hier insgesamt eine Nachgiebigkeit der
+gesamten Maschine. Wenn wir im Mühlenmeterbereich arbeiten wollen, dann machen wenige Mühlenmeter,
+verändern natürlich eher
+die eben
+eher qualitätsverantwortlich sind.
+Danke für den Drift.
+Das ist
+enorm, ich bin da selbst erstaunt,
+was man da für einen Aufwand treibt.
+Man möchte
+diese Prozesse bei 20 Grad fahren
+und die Maschine auch bei 20 Grad
+haben, weil die Maschine
+besteht ja aus Metall
+und Sie wissen ja, Metall ist ja extremst
+Temperatur
+Anfällig, legt sich ja gerne aus bei Temperaturen.
+Ich hatte mein Labor vorher draußen in der Sauerer Alma.
+Kennen Sie das Gelände Sauerer Alma? Das wird jetzt neu gebaut, da entsteht ein neues Stadtviertel.
+Wie heißt das? Sauerer Alma.
+Wo ist das? Das ist am Schumacher-Ding.
+Können Sie es mal zeigen? Ne, ne, ne. Am Schumacher-Ding, so.
+Und da haben wir eine alte Halle gehabt, die wurde umgebaut.
+Und natürlich, wenn man denen geht, die das alles gemacht hat, die das alles bezahlt hat, dann haben die also nochmal eine Zwischentüre eingebaut.
+Das heißt also, die Eingangstüre wurde durch eine große Zwischentüre abgebrannt.
+Und da habe ich gedacht, so als sparsamer Mensch, das ist doch alles Unsinn, warum machen Sie das?
+Ich habe gesagt, ja, das wollen Sie so machen, dass wenn im Winter einer die Türe aufmacht,
+dann darf die kalte Luft nur bis zur Zwischentüre kommen und wird dann bestopft.
+Wenn da keine Zwischentüre ist, würde die kalte Luft in die Halle kommen, die kalte Luft ist immer am Boden und würde dann gegen das Maschinenbett laufen, das würde sich sofort verziehen.
+Und dann sind die Toleranzen, die Sie hier versprechen, können dann nicht mehr eingehalten werden.
+Die Toleranzen sind bei den 5 mm.
+In welcher Luft?
+Das ist bei jeder Firma.
+Ja, genau in dem Fall.
+Das heißt, die haben tatsächlich eine Zwischentüre eingebaut, falls im Winter jemand reinkommt mit minus 5 Grad und die Maschine läuft, das dann also bei uns einzubauen wird.
+Aber klar, ein Millimeter, was ist ein Millimeter? 1000 Millimeter. Nicht viel.
+Okay, also das Thema Tammischer Drift, natürlich die Maschinen erwärmen sich ja selber auch.
+heute können die Maschinen das selber nachstellen, aber es ist ein Riesenthema nach wie vor, weil es ist immer die Frage, wo messen sie denn die Maschinen, messen sie oben, messen sie oben, messen sie an der Spinkel und so weiter, also das ist ein Riesenthema,
+Der Herr Gabor sagt mir, der Herr Gabor ist ja der Fachmann, der kommt übrigens von BWG,
+der sagt mir, das ist eines der größten Themen, die ich in der Nachricht für uns haben möchte.
+Sprünge, Steigungsfehler gibt es nicht mehr, umkehrspannend ist es nicht mehr,
+Lagerspiele gibt es nicht mehr, Schwingungen gibt es auch noch nicht.
+Also, Schwingungen haben Sie vielleicht auch schon gelernt.
+Eine Schwingung.
+Wir haben die Stanzmaschine, haben wir angeschaut und da war eine Münze drin,
+die hat sich bewegt.
+Die Stanzmaschine ist wirklich der Loch der Masse, bei Pressen noch mehr.
+Und diese Kräfte werden ja dann durch die Maschine abgeleitet, gehen auf den Boden, auf den Hallenboden.
+Und wenn daneben jetzt eine Fräsmaschine steht, die auf 5 mm genau arbeiten soll,
+dann haben sie jedes Mal, wenn die Stanze runterfährt, keine 5 mm mehr.
+Das heißt also, diese Pressen, die sind aus dem Mittelwerk, die Karosserie wird auch erzeugt durch eine Korrosion, durch eine Presse, also die Karosserietalle wird ja gepresst.
+Das sind also dann 5 Tonnen oder 15 Tonnen Pressen und die stehen normalerweise immer in anderen Hallen.
+Die sind also dann eben, die stehen in Hallen, die weit abseits sind von den anderen Maschinen.
+Also beispielsweise diese Maschine, eine saure Eimer, das war ja keine Lageralme, da hat man also den Boden ausgehoben, da wo die Maschine draufsteht,
+und ausgehoben einen riesen Betonflott mit schwerer Armierung da reingegossen und da hat man die Maschine draufgestellt.
+Also erstmal wegen dem Gewicht, und natürlich weil die mit dir dann von Schwingungen wirklich absolviert ist.
+Das andere Thema ist, die Maschine selber kann ja auch schwingen und erzeugen.
+Insbesondere wenn Sie in die Eigenfrequenz kommen, jedes Bautag, jedes Bautag, jedes Bautag, egal welchen Material, groß oder klein, kann ja in eine Eigenfrequenz kommen.
+So, dann gibt es ja auch die Auswertung statistischer Unsicherheiten.
+Da haben wir schon drüber gesprochen, Statistik ist immer mit Unsicherheiten.
+belegt
+Anzahl Stichproben
+umso höher die Anzahl
+umso größer
+umso geringer die statistische Unsicherheit
+betrachten Sie
+den Prozess über kurze Zeitperioden
+oder lange Zeitperioden
+dann im Prinzip
+bei der Messung
+kommt das gleiche
+welche Strategie messen wir
+welche Messmittel
+was wir messen
+Unsicherheit und so weiter und so fort, Randbedingungen, Umwelt, Achtung,
+der Fehler ist zum Beispiel, wir haben ein Messmittel, das hat eine andere Temperatur wie das Werkstück, was Sie messen müssen.
+Klappt wahrscheinlich nicht. Also Werkstück und Messmittel müssten laut Norm 20 Grad haben.
+So können Sie gescheite Messungen durchführen.
+Dann der Bediener. Ist der Bediener in der Lage, ein Messmittel aufrichtig zu bedienen?
+Ist das Messmittel, kann das überhaupt den richtigen Wert anzeigen? Vielleicht hat das jemand vor, für den du Boden planen hast.
+Mit welchen, die fremderen Schwingungen, also das war das Beispiel, Schwingungen, die von außen kommen.
+jetzt Presse zum Beispiel, die auch in der gleichen Halle steht, Hallentemperatur, Haare,
+wer war bei Haare schon? Besuch. Ich meine, in der Haarekauffrau. Also Haare zum Beispiel,
+Das weiß ich nicht, ob es so gut funktioniert.
+Das habe ich nicht gut gehört.
+Es soll vielleicht klimatisiert sein.
+Wir haben eine spezielle Klimatisierung.
+Wir wollen die Tische nach außen nehmen.
+Ich denke, ich auch schon.
+Bei denen geht es immer 20 Grad.
+Gut, aber beide Tüte sind klimatisiert.
+Wenn die Sonne drauf scheint, plus die Maschine, dann hat es 30 Grad.
+Temperaturdifferenz zwischen Maschine, Werkstatt und Prüfmittel, das ist entscheidend, das werden wir nochmal extra betrachten.
+Die Schwankungen der Energieversorgung haben wir in Deutschland eigentlich nicht.
+Also haben wir schon, aber nicht so, dass die Maschinen deswegen anders arbeiten würden.
+Aber in anderen Ländern kann das durchaus sein.
+Das heißt, das sind alles Themen, die also die Fähigkeit eines Prozesses beeinflussen.
+Das sind alles auch Gründe, die nicht nur die Zufälle, sondern auch die systematischen Fehler können da reinkommen.
+Gut.
+Dann würde ich sagen, machen wir an der Stelle einen Cut, weil danach käme die Übungsaufgabe.
+Da brauche ich ein bisschen mehr Zeit.
+Ich erinnere Sie nochmal an die Übungsaufgaben, die Sie zuhause machen können.
+Ich habe jetzt nochmal einen Rudel rein.
+Ich habe ein schlechteres Gedächtnis wie Sie.
+Also Sie müssen sich noch daran erinnern, wenn Sie sagen, ich schreibe den Rudel rein,
+ist die Wahrscheinlichkeit, dass ich nicht reinschreibe, relativ hoch.
+Also wenn ihr auch Aufgaben macht, den Preis gibt es nicht zu gewinnen, braucht ihr eine gute Notiz vielleicht.
+Ja.
+Ich kann mich erinnern, welche wir uns aufhaben.
+Ja.
+Ansonsten sehen wir uns Mittwochabend.
+Mittwochabend.
+International Dinner.
+Vielleicht kaufe ich es.
+Vielleicht.
+International Dinner?
+Vielleicht.
+Sehr gut.
+Wir bringen etwas Leckeres mit zum Essen.
+Weiß nicht.
+Ich werde zwei Tage vorher Hunger bringen.
+Jede Menschen soll ein Gericht.
+Kann Vorspeise sein, Hauptspeise, Mahlspeise.
+In diesem Gebäude?
+In der Mensa.
+Viel Spaß!
+Das, was er gesagt hat, ist nicht, dass er das nicht will, sondern dass er das nicht will.
+Er ist so glücklich.
+Er hat das, was er gesagt hat, mit ihnen diskutiert.
+Ich höre, dass er das nicht will.
+Er hat das nicht gesagt, dass er das nicht will, sondern dass er das nicht will.
+Wir haben einen Master, wo wir sehr viele Autos haben, ein paar hundert sogar.
+Könnt ihr auch kämpfen?
+Ich habe eine Frage, seit ihr auf Camping gekommen seid.
+Ich sage, warum kämpfen?
+Warum?
+Wir haben ein Programm mit Campen.
+Ähm, so, wie ihr das wisst.
+Ja, es ist die halbe Wahrheit.
+Also diese große Hochschule, die ZUST, Z-U-S-T.
+Wo ist die bei Ihnen?
+In Hangzhou, dieser wunderschönen Stadt Hangzhou, wo Sie auch studieren können.
+Richtig?
+Ja.
+Wir kommen zu Hannover.
+Wieder zu Hannover, wieder zu Dresden.
+Richtig.
+Hannover, Dresden sind ganz große Partner, wir sind kleiner Partner.
+Und wie viel kostet so etwas ungefähr?
+Ich glaube nichts.
+Hilfst du jetzt?
+Kostet?
+Ja.
+Ah ja?
+Ja.
+Ah.
+Also ein Semester halt.
+Ne, es gibt keine Gebühren.
+Den Rest müsst ihr selber zahlen.
+Ja, Mann.
+So.
+Flug und Lebenserhaltung.
+So.
+Okay.
+Hey, wie sollen wir?
+Inklusive Miete?
+Ne, natürlich.
+Miete?
+Ja.
+Miete.
+Also.
+Wohnen.
+Cool.
+Mit Studium.
+Ja.
+Mit Studium.
+Ich werde das machen als Student.
+Es gibt eine eigene Abteilung, die nur für Sie, für Outgoing, Sie gehen herauf.
+Dann kommen Sie mal auf, da ist ein netter Kerl dabei, ist da an dem Mittwochabend, der gut Englisch spricht,
+dann sind Sie mein Boyfriend, dann können Sie einfach mal in Englisch sprechen.
+Tschüss!
+Vielen Dank.

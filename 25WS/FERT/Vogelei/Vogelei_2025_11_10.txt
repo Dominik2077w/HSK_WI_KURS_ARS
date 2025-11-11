@@ -1,0 +1,1196 @@
+... für kleine oder für Einzelteile.
+Also auch da, Wissenschaftlichkeitsbegriff ist immer auch relativ zu sehen.
+Aber auf alle Fälle, was Qualität angeht oder auch Verbreitung angeht,
+also auch technische Themen, hatten wir das Wichsschweißen letztes Mal noch gehabt,
+als Fortführung von diesem MSG-Schweißen.
+MSG war da lateral kontinuierlich geführt, der war gleichzeitig die Elektrode.
+beim Wegschmeißen entkoppelt, Zusatzdraht wird separat zugeführt, da hat man eben diese
+Wolfram-Elektrode, dann habe ich ganz kurz noch was über Plasma gesagt, da war wieder
+das Bestreben, was zu entwickeln, was tolle Qualität und trotzdem wirtschaftlich ist,
+mit dem kleinen Haken, dass es noch nicht so richtig beherrschbar ist, beziehungsweise
+Also ja, es ist schwer zu beherrschen dieses hochproduzierte Plastikschweißen.
+Einfacher, oft tot gesagt, aber immer doch für richtig Masse,
+ist der Pulverschweiß, was man zuletzt sagt.
+Wo ich eigentlich auch wieder Drahtkontrolle zuführe,
+weil das aber so mächtig dicke Drähte sind, bis 5 mm,
+das sind schon echte kleine Ofenrohre quasi,
+da muss letztlich ein Schutzgas über Pulver her,
+her, weil ich das sonst mit Gas alleine gar nicht beherrschen könnte. Und damit aber hochproduktiv,
+zwar unglaublich viel an Material, aber es geht um Schwermaschinenbau oder Brückenbau,
+also da wo dann eben tatsächlich Masse verarbeitet werden muss. Jetzt komme ich
+Jetzt komme ich gleich noch mal zu einem weiteren Beispiel, wo Masse verarbeitet wird.
+Das bedeutet, das ist ein ziemlich besonderes Verfahren, gebe ich zu, aber spektakulär ist es trotzdem.
+Das Ganze heißt Aliminothermisches Verfahren, also Chemie-Schweiß in Abkürzung.
+Und das gucken wir uns am besten einfach gleich mal an.
+So, bevor es tatsächlich losgeht, es geht um Schienenstöße schweißen.
+Als kurze Info, weltweit gibt es natürlich Schienenverkehr und das heißt, wir müssen
+irgendwelche Verbindungsstellen haben.
+Schienenstöße selber, wenn Sie mal so alte Dampflokzüge oder so alte Strecken sehen,
+da sind die einfach nur verschraubt gewesen, d.h. zwischen den einzelnen Schienenstößen
+gab es dann immer so einen Ruckel bzw. ein kleiner Schlag, der dann bis zu Ihnen, bis
+an den Sitz eben spürbar ist, wenn Sie solche alten Strecken fahren, natürlich IC usw.
+Ich kann kein Thema mehr. Das muss kontinuierlich sein, auch aus Verschleißgründen bei den hohen Geschwindigkeiten gar nicht mehr machbar.
+Also muss ich das Ganze schweißen. Wie lang kann so eine Schiene sein?
+Die kann so vielleicht 200 Meter sein, aber dann muss sie eben weiter verbunden werden mit der nächsten Schiene.
+Ein Stück 200 Meter? Ja.
+Wie bringt man das da hin?
+Sehr gute Frage.
+Wie ginge sowas?
+Vermutlich
+erstmal will man natürlich
+versuchen möglichst wenig Schweißung zu haben,
+deswegen wäre das ein Ding.
+Es gibt so ganz witzige Aufnahmen, wo
+das natürlich nur auf Schiene
+transportiert wird auch,
+weil die Radien müssen natürlich auch dazu
+passen und dann wird diese 200 Meter
+Schiene quasi auch
+Wogen, wenn die in der Kurve fährt, die macht das letztlich über diese Strecke tatsächlich mit.
+Okay. Ja, das ist auch der Standard. Das könnten auch kürzer sein, je nachdem in welchen Regionen
+ich tatsächlich unterwegs bin. Das heißt, wie auch immer, ich muss mehr oder weniger aufgeben,
+schweißen. Dafür gibt es klassischerweise einen Abwärtsstumpfschweiß. Das gucken wir uns auch
+nochmal an, was das Ganze tatsächlich Stück für Stück macht. Das heißt, einmal wird
+festgehalten, das andere wird über die Kugel gedrückt. Bei sowas, was Sie hier sehen, ist
+das vielleicht nicht möglich, wenn nämlich die Schienestrecken schon liegen, so wie
+da, und Sie keine Seite mehr schieben. 200 Meter, wer schiebt denn da? Wer wird schieben
+an sowas noch? Das ist ja richtig viel Gewicht. Das heißt, das ist ein Schweißprozess nach
+Urformprinzip, das heißt, es ist eigentlich ein Gießprozess.
+Dieses ominöse Teil hier ist letztlich mit Schamott ausgestattetes kleiner Reaktor letztlich.
+Da ist ein bisschen Alu, ein bisschen Stahl drin und Sie sehen gleich, da reicht eine
+kleine Wunderkerze, um einen chemischen Prozess loszutreten, der das Metall da drin eben aufschmilzt.
+Und dann fließt aus diesem Behälter in eine vorher präparierte Form das Ganze ein.
+Das war's.
+So, und wenn Sie da vorher gesehen haben, wenn Sie so gießtechnisch eine Form selber, wird auch vorher warm gemacht.
+Das war vorhin der Brenner, der da kurz drauf geheißen hat.
+Der hat auch nichts mit dem Schweißen zu tun, sondern der soll das Ganze schön warm machen.
+und wenn wir jetzt nochmal das Los starten hier, da hat er jetzt eine kleine Schleimhaut
+reingeschmissen und dieser chemische Prozess läuft rasend schnell ab, wir sehen auch was
+für Temperaturen, da entstehen eben über 1000 bis 100 Grad, wenn es schmerzflüssig
+ist, geht es zum Stopfen auf und jetzt ist der Schweißprozess am Gange, das heißt jetzt
+fließt das da rein, überschüssiges Material, kommt über die Steige auf die Seite wieder raus,
+fertig. Also, 20 Sekunden und dann ist so ein kompletter Schienenstoß geschweißt.
+Und der Rest ist einfach nur wahnsinnig lange Nacharbeit.
+Das heißt, wenn wir uns das hier anschauen, dann muss das irgendwie abgeschlagen werden,
+Das ganze Zeug wird noch getrennt.
+Aber was hat das für einen Hintergrund, wenn Sie, Sie kennen eine Schiene, die Schiene
+Die Schiene ist oben schmal, den hat sie im Steg und dann wird sie unten ein bisschen breiter, damit sie sich dann im Bett richtig massiv verschrauben kann.
+So, wenn das jetzt mal die Schiene wäre, oben dünn und unten dick, wie sollte man das sonst schweißen?
+Wir könnten natürlich mit dem Schweißbrenner, den wir bis jetzt kennengelernt haben, irgendwie versuchen darum zu gehen.
+Aber wer hebt denn die Schiene hoch, damit die von unten dahin kommt?
+Ja, und ich würde ja auch, weil das ja sehr viel dicker wie dünn ist, auch gar nicht überall direkt hinkommen.
+Das muss ja eine ganze Menge Kraft übertragen, muss auch oben verschleißfest sein,
+also das heißt, ich kann mir da auch keinen Fehler leisten, jede Menge Ansprüche da dran.
+Und obwohl das so ein gigantischer Aufwand ist, und vorher muss ich ja auch noch diese Form da drumherum bauen,
+20 Sekunden Schweißzeit und 2 Sekunden Vor- und Nachbereitung.
+Gigantisch.
+Das ist ein gutes Beispiel auch, was auch vor Nachbereitung beim Schweißen heißen kann.
+Hier eben die Notwendigkeit, so einen Schienenstoß eben tatsächlich so zu machen,
+ohne dass sich denn die Schienen bewegen.
+Was war das mit dem Schweißverzug, was wir schon mal besprochen hatten?
+Das muss eben tatsächlich über die Kilometer so auskariert sein,
+damit, wenn die Sonne scheint, dehnt sich das ja aus, im Winter zieht sich das zusammen
+und das muss tatsächlich in der Schweißspannung gehalten werden.
+Wenn das nämlich nicht der Fall ist, wenn Sie da nicht hier diese Verschraubung gescheit machen,
+dann kann die Schiene ausbrechen im Sommer, jetzt geht es immer mal wieder,
+dass dann plötzlich so eine Delle im Schienbett ist, weil irgendwas nicht gehalten hat.
+Es sind unglaubliche Spannungen drin, aufgrund der Wärmeausdehnung im Sommer oder das Zusammenziehen im Winter.
+Und trotzdem muss ich das so berechnen, dass es im Mittel so funktioniert.
+Deswegen einfach mal ein schönes Beispiel, wie komplex sowas auch sein kann.
+Und hier nur kurz nochmal.
+Das ist mein Schienenstoß, jetzt mal als Schnitt gesehen.
+Da fließt es eben hier hinten rein.
+und füllt mir den Zwischenraum.
+Und wir nennen das so Gießen oder Urformen,
+weil ich ja nur wieder zwei Sachen miteinander verbinde
+und nicht das ganze Teil da gieße.
+Das ist eigentlich schon alles.
+Die Schiele selber wird im Strangguss,
+also in einem Gießverfahren, hergestellt.
+Aber wie gesagt, ich kriege natürlich so eine gigantische Anlage
+nicht direkt auf die Strecke,
+dass ich die Schiele direkt dann dahin gießen kann,
+sondern deswegen wird natürlich weiterhin geschweißt.
+Jetzt hören wir mal auf mit diesen raffialen Schweißereien und jetzt gebe ich ihn einfach
+Das ist ein Gerät, was Sie hier oben einhängen können und dann können Sie hier heute Matten dranhängen.
+Ein bisschen aufwendig gemacht, gebe ich zu. Schauen Sie sich das einfach mal an.
+Das ist nämlich aus fünf Teilen besteht das Ganze.
+Was für Anforderungen würden Sie denn an das Gerät stellen?
+Dass es eine Jacke haben kann.
+Ja, super.
+Ist das viel für einen Stahl?
+Sollte funktionieren, genau.
+Was für Sicherheitsanforderungen stellen Sie an das Teil an?
+Teil?
+Ja. Aber jetzt nochmal genau aufgepasst. Das falsche habe ich ja schon mal genannt.
+Keine, was tatsächlich die Gefährdung, das kann runterfallen, das kann auf den Zeh fallen, okay.
+Ja, das wäre aber schon alles. Nach aller normaler Einschätzung wird niemand davon sterben.
+Das wäre erstmal die erste Sicherheitsgeschichte.
+Wenn Sie davon aber 500.000 Teile produzieren als Kleinbetrieb und 500.000 Teile Mist gemacht haben
+und das Ding nicht verbraucht wird,
+kann es sie wie Existenz kosten.
+Kann es nicht sicherheitstechnisch,
+aber letztlich wirtschaftlich sicherheitstechnisch
+für sie die Katastrophe sein.
+Und deswegen
+ist das immer relativ
+zu sehen mit der Sicherheit.
+Sie müssen eben auch gucken, dass sie ihre
+Bauteile, die sie da
+produzieren, eben
+auch qualitativ so bewerten,
+dass sie ihre Funktion erfüllen.
+Die Funktion war, wenn wir die Klamotten halten,
+nicht allzu schwer, also große Ansprüche daran nicht. Aber rein technisch gehen wir doch noch mal hin,
+vielleicht haben Sie es sich angeguckt, damit das da oben hält, darf das natürlich nicht
+kommen und schief sein. Wenn ich mit dem klassischen Schweißverfahren hier drauf gehen würde bei den dünnen Blechen,
+würde das vielleicht so weit aufgehen, weil es sich so verbiegt letztlich, verzieht, dass es da oben
+natürlich hält. Also war hier die Idee, wie würden sie es denn ursprünglich überhaupt machen?
+Wie würden sie so ein Teil herstellen?
+Also mach mal nicht lange, das ist nur ein Anschauungsmuster. Kein Mensch würde auf die Idee kommen, dass
+das Ding tatsächlich geschweißt ist. Aber es ist eben als Anschauungsmuster, wenn ich,
+Hier wäre ja als Funktion vielleicht, weil ich ihn da trage, ein Querschnitt, der relativ dick ist,
+ob ich den für die Jacke brauche, eigentlich nicht.
+Aber, wie gesagt, es soll zeigen, dass sich unterschiedliche Dicken miteinander verbinden und die sehr verzugsarm.
+Vielleicht ein bisschen besseres Beispiel, das ist ein Getrieberad.
+Getriebe heißt letztlich, hier wird hier unten ein Antriebsrad an so eine Wange geschweißt,
+Das Ganze zur Erklärung von oben axial, hier könnt ihr auf der Seite quasi wieder den Schliff durch die Naht ziehen.
+Was sind hier die Ansprüche?
+Einfach ein sehr gutes Beispiel ist, vielleicht haben Sie mal die Gelegenheit gehabt, so ein altes Auto, so einen alten Käfer zu fahren.
+Die ganz alten hatten sogar noch eine Zwischengas, also das heißt, die Getriebe waren so mehr oder weniger locker verbunden,
+soll heißen, Spiel war extrem und das heißt auch Lautstärke, die ganze Mechanik war gut hörbar.
+So, heute in normalen Autos, wenn da geschaltet wird, ist da wenig vermisst.
+Das hat eben auch den Grund, dass innerhalb eines Getriebes, sage ich mal, die Toleranzen so ausgereift sind,
+dass hier Zahnräder sehr eng ineinander abwickeln.
+Und das heißt, Geräuschemission aufgrund fehlender Spalte letztlich gleich Null.
+So, damit ich das aber hinkriege und wenn ich jetzt hier so eine Verbindung habe und diese hier wieder irgendwie sich festziehen würde,
+würde ja automatisch wieder irgendwie das Gegenstück mit dem Spalt entstehen und das wäre nicht gut.
+Also braucht es letztlich hier auch wieder Schweißverfahren, die in höheren Toleranzen unterwegs sind.
+Schauen Sie sich dann das mal an.
+Und ich hatte ja in einer der ersten Vorlesungen mal ein Blech mitgebracht, um das auch nochmal
+zu demonstrieren.
+Das ist ein Blech, 3 mm dick irgendwas, hat jetzt auch eine Naht in der Mitte, ein kleines
+Problemchen haben wir hier auch, da können wir auch nochmal drüber reden, aber auf alle
+Fälle ist das sehr sehr gerade für das, dass ich hier 3 mm miteinander verbinde.
+Wenn Sie sich an meine Gasschmiedschweißung erinnern, das war so eine Wanne.
+Hier passiert eigentlich nichts.
+Warum kommt es darauf, dass das gehen könnte?
+Ja, genau, richtig, ja, okay
+Da oben muss es nun recht geben
+Also, könnt ihr mal gegen das Licht halten
+Dann sieht man eigentlich ganz gut, dass da
+kaum eine Verbindung ist, ne?
+Und wenn das alles so wäre
+dann hätten sie recht, dann könnte man das
+vielleicht auch durch ein Biegen noch tatsächlich
+kaputt machen
+So, jetzt haben wir aber im unteren Bereich jede Menge Nähte, ja, das heißt, also das
+da unten sieht ziemlich nach kompletten 3 Millimetern aus, würden Sie 3 Millimeter,
+ich werde mal versuchen, ob Sie 3 Millimeter biegen können, ja, das ist schon, da geht
+Das wäre oben das gleiche, aber unten nicht.
+Lieber nicht ausprobieren, außer sie gehen da unten hin.
+Da können sie sich nicht ausprobieren. Da passiert nichts.
+Weshalb trage ich Ihnen das? Weil ich natürlich das Urvertrauen zu dieser Naht habe.
+Weil ich genau weiß, dass die entsprechend auch gut ist, zumindest davor.
+Hier oben ist was passiert, ich habe nur mit hier angefangen zu schweißen und irgendwann ist der hier hinten einfach aufgegangen.
+Das sind diese Schweißspannungen.
+Und ich hätte das eben vorher heften sollen, aber das ist natürlich genau das Anschauungsmuster, um zu zeigen, was passiert, wenn ich vorher hier Lichtfestkreis an der Stelle.
+So. Aber was ich natürlich zeigen will ist, extrem schmale kleine Naht.
+Und das ist ihr Urvertrauen, eben nur so eine dicke Fette naht, sieht nach mehr Masse aus und sieht eben stabiler aus.
+Die ist aber mindestens genauso stabil, wenn nicht sogar noch stabiler.
+Weil ich viel weniger Wärme einbringe und deswegen viel weniger mit dem Werkstoff mache.
+So.
+So, drei weitere Sachen noch.
+Diskutieren wir den mal.
+Hier sieht man das noch ein bisschen schöner,
+das ist diese schmale Naht.
+Und hier ist was Besonderes.
+Was für Werkstoffe sind denn das?
+Also das ist ein Stahl mit einer Bronze Was hat Bronze für einen Schmelzpunkt?
+Sagen wir mal ein kleiner 1000° Was hat Stahl für einen Schmelzpunkt?
+1500° Also haben wir eine Schmelzpunktdifferenz
+Bei den beiden kommt das auch gerade.
+Warum kann ich sie trotzdem miteinander verbinden?
+Sehen wir mal, warum ich meinen Schweißbrenner jetzt immer dabei hatte.
+Sie halten mit einem normalen Schweißbrenner auf Bronze und Stahl.
+Der Lichtbogen überträgt über Wärmeleitungen nicht raus.
+Bronze hat nicht nur einen geringen Schmelzpunkt, sondern auch eine viel bessere Wärmeleitung.
+Das heißt, da geht doppelt Wärme in das Material, die Bronze schmelzt weg und der Stahl wird zwar rot blühen,
+aber von Verbindung ist noch nicht zu sehen, weil die Energie gar nicht ausreicht,
+weil die komplett wegfließt und eigentlich mehr die Bronze heiß macht.
+So, das heißt, wenn wir so eine Verbindung haben wollen, brauchen wir einen sehr schnellen
+Prozess, der sehr schnell heiß macht, ohne dass über Wärmeleitungen oder auch über
+unterschiedliche Schmelzpunkte quasi das gar nicht möglich ist.
+Deswegen zwei Verfahren, die ich gleich zeige.
+Hier nur nochmal zur Ergänzung, um auch nochmal diesen Winkel, den ich immer mit hatte, zu
+Das ist eine Handschweißung mit so einer kleinen feinen Naht.
+Das ist das krasse Gegenteil dazu. 150 Millimeter von oben reingeschweißt in einer Länge.
+Also die Naht geht so. Die geht in diese Richtung. Also nicht hier auf dem Teil, sondern die läuft in dicken Richtung.
+Und was haben wir jetzt für ein Verfahren?
+Wir brauchen einen Strahl.
+Ich hatte das letztes Mal beim Plasmaschweißen so ein bisschen eingedeutet.
+Ich kann noch einfach mal hinlegen.
+Danke.
+Also ein Strahl, das war das Plasma, das gebündelte Gerät.
+Aber es geht noch viel besser, indem ich Protonen bündle oder Elektronen bündle.
+Ich werde von Ihnen gleich noch eine klassische Wendel geben.
+Nicht von LEDs, sondern eben von diesen alten Geräten, die so Wärme erzeugt haben, wie Licht.
+So, ich weiß gar nicht, ob Sie das überhaupt kaufen. Ich glaube, das kann man gar nicht mehr kaufen.
+Aber, das bleibt in alten... Ja, aber nicht in Deutschland. Ich glaube, da gibt es schon auch so...
+Seite über Amazon, dass man das auch irgendwo herkriegt, das Zeug. Aber, wie auch immer.
+Können Sie mit so einer Glühbirne schweißen? Ja, wenn Sie irgendein Plastikteil dranhalten, kann das schon wegschmoren, weil es so heiß wird, das Ganze.
+Das ist aber hier gar nicht mit gemeint, sondern eine klassische Glühbirne leuchtet letztlich in alle Richtungen, divergiert in alle Richtungen und hat das gesamte Farbspektrum.
+Und das heißt wiederum, von ultraviolett bis infrarot, ja, und der ganze sichtbare Bereich natürlich, für uns im Auge, wird das Ganze weiß, weil hier das gesamte steckt.
+Und der Q ist jetzt, wenn ich tatsächlich nachdenke, dass ich mir da letztlich eine entsprechende Wellenlänge hole.
+Das Ganze, also monochromatisch heißt eine Wellenlänge, dann läuft das Ganze entsprechend in eine Richtung.
+und das Ganze parallel.
+Das war's.
+So, wie funktioniert das jetzt?
+Lichtspiele mit Laser.
+Aber wie wird normales Licht zum Laserstrahl?
+Man braucht eine geeignete lichtdurchlässige Substanz,
+wie ein Rubin-Kristallschirm und Lichtblitze.
+Wenn Lichtteilchen wie Photonen auf die Atomenkristalle drücken,
+Können Sie diese anregen?
+Die Energie des Photons katapultiert ein Elektron auf eine höhere Umlaufbahn um den Atomkern.
+Nach einiger Zeit fällt das Elektron auf seine Ursprungsbahn zurück und gibt wieder Energie in Form eines Photons ab.
+Der Weg des frei werdenden Photons ist dabei zufällig.
+Trifft aber ein Photon auf ein bereits angeregtes Atom, dann sendet das getroffene Elektron ein zusätzliches Photon aus,
+das jetzt die gleiche Richtung und Frequenz wie das Geschoss hat.
+Diesen Effekt nutzt man im Laser.
+Die Energie der Lichtblitze ist exakt so dosiert, dass damit ein Elektron nicht nur eine, sondern zwei Bahnen höher gehoben wird.
+Von dort fällt es zwar eine Bahn tiefer, doch das Taktum...
+So, zusammenfassend.
+Es geht um diese Photon, dieser Bestandteil, der eben entsteht,
+wenn ein Elektron eines Atoms von einer höheren Energiebahn auf die niedrige Höhe wieder zurückfällt.
+Und so schiebe ich Energie rein, damit die überhaupt hoch geht.
+Das ist alles, was da in diesem Atom letztlich passiert.
+Und der Clou ist jetzt, dass dieses Photon, was da rauskommt,
+das ist nämlich nichts anderes wie der hier
+das ist auch ein Laser, ja
+was hat der?
+der hat rotes Licht
+und das ist letztlich
+ein spezielles Kristall, was da drin ist
+was genau das Atom hat
+was rotes Licht erzeugt
+es gibt sowas für Grün
+für Ultraviolett, für Infrarot
+in den verschiedensten Spektren
+es gibt auch die unterschiedlichsten Möglichkeiten
+Bis hin zu, es gibt Laser, die werden von einem anderen Laser angewägt, damit das hier mit diesem Elektronenbohren runter passiert.
+Und quasi geschichtlich vom Laser ist es eben so gewesen, dass am Anfang diese Lasergeräte unglaublich schlechte Wirkungsgrade hatten.
+Ein Laser, Anschlussleistung, ein Kilowatt, davon sind vielleicht, schätzen Sie wie viel
+von einem Kilowatt vorne angekommen sind, also Steckdosen, ich schiebe ein Kilowatt
+rein, wie viel kommt hinten raus?
+Schlappe 3 Prozent, vielleicht sogar nur 2 oder 1 Prozent, so gut wie nichts.
+Und trotzdem war das irgendwie die Idee, dass diese Eigenschaften, die ich gerade gezeigt habe,
+Verzugsarmut, irgendwelche Mischverbindungen zu machen oder eben dicke Bleche auch sehr verzugsarm zusammenzuschweißen, funktioniert.
+In den 90ern hat VW 1000 Laser bestellt, obwohl ein ganz schlechter Wirkungsgrad vorhanden war.
+Die haben davon wieder 500 abgestellt. Warum? Weil sie die Energie gar nicht hergebracht haben. Weil
+sie plötzlich festgestellt haben, das ist ja so ineffizient letztlich, dass wir das nur dafür
+einsetzen, Getrieberad wäre das Beispiel, da wo wir es unbedingt müssen. Das sind genau die Sachen,
+die mit dem Laser letztlich eben auch mit diesen entsprechenden Eigenschaften hergestellt werden
+können. So, jetzt gucken wir uns das mal zu Ende an.
+Bleibt angeregt. Trifft nun ein Photon auf ein angeregtes Atom, gibt dieses ein zusätzliches
+So, und hier ist die Begründung, warum die damals schlechter waren.
+Weil dieses Parallele nicht so 100% funktioniert.
+Das funktioniert bis heute nicht so 100%.
+Weil immer mal wieder welche in eine andere Richtung unterwegs sind.
+Und wenn die das tun, wenn die in diese Richtung unterwegs sind, gehen die verloren.
+muss die Energie weggekühlt werden und Sie können ein wenig Ihre Hand damit reißen.
+Aber das ist natürlich nicht Sinn und Zweck.
+In meinem früheren Betrieb hat man das tatsächlich im Winter wohl nicht warm gehabt,
+weil eben alles über die Kühlleistung verschwunden ist von der Gläser.
+Also im Sommer hat man das Problem, dass man sich mit der Gläser eigentlich nichts anschauen kann.
+gleiche Ausrichtung und Wellenlänge und werden so zum energiereichen Lichtstrahl, der durch
+einen teilbefessigen Spiegel als Laserstrahl austritt.
+Moderne Lasertechnik hat ihren Platz in den unterschiedlichsten Einwendungsbereichen gefunden.
+Kunst, um traumhafte Riesengilder in den Raum zu projizieren.
+Industrie, das Schneiden oder Schweißen von Blechen.
+Medizin, zum Beispiel bei Augenoperationen.
+Und wir retten für exakte Erkernungsmessungen über kleine und große Distanz.
+Jo. Also, natürlich.
+Laser kennen Sie doch. Also ich würde mal sagen, Sie kennen Laser mehr wie Schutzglas-Schweiß.
+Oder Lichtbögen.
+Obwohl ich da ja auch gesagt hatte, auch beim Lichtbogen ist es ja so, in irgendwelchen Schaltern überall ist sowas vorhanden.
+Also deswegen ist es eigentlich auch immer in der Umwelt mit unterwegs.
+Aber Laser hat eben seine Anwendungen, insbesondere natürlich auch in der Materialbearbeitung und davon wollen wir jetzt ein bisschen weitergehen.
+Also wir haben irgendwie die Quelle und das was da vorne steht ist natürlich noch die Bedingung,
+wenn ich da jetzt irgendwelche Photonen hin und her sausen lasse, muss irgendwo ein Auskoppelfenster
+sein, damit auch mein Teil davon raus kann, den ich nutze und den nutze ich genauso wie so ein
+Bremsglas mit der Sonne, den muss ich dann nochmal auf zehntel Millimeter fokussieren,
+dann kann er eben, was ich da rumgezeigt habe, tiefe schwarze Nähte.
+So, deswegen sind das diese fokussierten Geschichten. Der Hauptgrund ist natürlich
+der Laser, wenn wir jetzt nur über den Laser reden, der muss irgendwie ins Material rein.
+Dieses Photon muss eine Wechselwirkung mit dem Material machen, damit es seine
+Energie quasi ins Material überträgt und damit das Material aufheizt, warm macht,
+aufschmilzt und dann kann ich mit schweißen, schneiden oder was auch immer mitmachen.
+So, Albert Einstein hat das schon ganz früh entdeckt, dass es so sein sollte,
+aber wir sehen das hier erst in den 60ern, Industrieeinsatz 70er, das ist gerade mal
+Maschlappe, 55 Jahre her. Und das waren die Schleifanwendungen, die eben getrennt haben.
+Ja, Schweißen kam erst in den 80ern irgendwie auf. Und dann ging es eben in weitere Entwicklungen.
+Das, was ich mit den Farben gesagt habe, geht jetzt eben auch in Richtung Effizienz. Von
+diesen 2-3% ist man heute auf fast 40% Energieeffizienz, also Wirkungsgrade, hochgeschnemmt. Vielmehr
+kann man aber gar nicht gehen an der Stelle.
+Das hat so ein bisschen physikalische Bedingungen.
+So.
+Also, unterschiedliche
+Lasertypen für unterschiedliche Aufgaben
+mit unterschiedlichem
+Geld.
+Also, wenn Sie mal
+im Einkauf landen vielleicht,
+da geht es eben
+darum,
+Lasertechnik wurde in den
+80ern massiv auch in Deutschland
+gefördert. Resultat waren jede Menge Firmen, die in dem Bereich unterwegs waren. Mittlerweile wie
+in vielen Techniken geht es nur noch viel um Preis. Das heißt auch aus dem asiatischen Markt
+wird eben massiv da eben auch mitentwickelt, weiterentwickelt und natürlich auch kostentechnisch
+deutliche Preisvorteile generiert. Was hatte ich beim Schutzglas schweißen gedacht? Eine ganze Anlage hat
+vielleicht 20.000 Euro gekostet, wenn sie super gut waren. Die Lasertechnik hat mal ein Kilowatt
+Laserleistung. Also ein Kilowatt, um das mal zu verdeutlichen, kann vielleicht ein Millimeter mit
+entsprechender Geschwindigkeit schweißt. Bei dem 3 mm Teil brauche ich einen 3 Kilowatt und jedes
+Kilowatt hat 50.000 Euro gekostet. Gute Frage, 90.000. Dieser Preis ging kontinuierlich runter,
+wir sind heute eigentlich so bei Kosten von 10.000 bis 15.000, aber besagte auch Dumpingpreise im
+im Markt rufen heute schon Preise um die 5.000 und niedriger auf.
+Pro Kilowatt.
+Pro Kilowatt.
+Ich muss es immer relativieren, weil es ist nicht so wie beim Lichtbogen, ich habe da
+gewisse Leistungen, ja, aber Kilowatt ist eben hier entscheidend, eben auch für die
+entsprechenden Tiefen und da ist immer noch dieses Verhältnis 1 zu 1 Millimeter gleich
+entsprechend Kilowatt.
+So, wenn ich eben dieses, hier unten das tiefe Teil da hinten, und wenn Sie hier eben 150 mm haben,
+dann wäre jetzt meine Rechnung, dass es 150 sind, Kilowatt, ja, und auch mal 5000 Euro ist auch noch ein bisschen Geld.
+Das heißt, wir haben eben das Hauptthema in diesen Strahltechniken ist, dass sie deutlich teurer sind, was die Anlagentechnik angeht.
+Als Einkäuferin, Einkäufer werden Sie jetzt eben in der Lage, oh Mist, das ist mir zu teuer.
+Aber Sie können über Geschwindigkeiten und tiefe Nähte beim Schutzgas schweißen, müsste ich bei 3 mm ja schon fast mit 2 x 2 Lagen schweißen.
+Wäre ich also noch mal doppelt so langsam unterwegs wie der Laser, heißt, darüber müssen Sie das wieder amortisieren.
+Die Marketingabteilung, und jetzt gehen wir mal so in die 2000er rein, da war das totaler Trend.
+Also jeder Betrieb musste irgendwo einen Laser haben, das war völlig klar.
+Das hieß letztlich, wir brauchen einen Laser und wir suchen uns eine Anwendung dafür.
+Also eben zur Folge, dass teilweise andere dabei waren, die totaler Gese waren.
+Ja, aber quasi gesponsert, man musste zeigen, dass man moderne Technik in seinen Betrieben hat.
+Das ist absolut der richtige Vergleich. Ja, das war in der Schweißtechnik so totaler Hype.
+Heute sind wir natürlich eher so in einem Bereich, dass wir von solchen Dingen nicht mehr viel halten,
+sondern heute geht es eher um steilharte Zahlen.
+Kriege ich die höheren Kosten amortisiert über die entsprechende Anwendung.
+Es gibt nur eine weitere Idee natürlich, wie bei diesen Mischverbindungen,
+wenn es nicht anders geht, muss ich auch den teuren Preis nehmen, ganz einfach.
+Oder das teure Verfahren.
+Aber, wie gesagt, die Entwicklung geht ja weiter.
+Und hier wird natürlich auch deutlich mehr investiert
+in Wirkungsgrade
+und in neue Wellenlängen.
+Also gefühlt kommt
+alle Monat mal eine neue Wellenlänge
+wieder zum Vorschein, da wurde wieder
+irgendwie experimentiert, die hat wieder ein bisschen andere
+Eigenschaften und siehe da
+irgendwelche Begründungen,
+um vielleicht noch
+günstiger oder besser zu werden.
+Das heißt,
+hier nochmal das Grundprinzip,
+eigentlich jeder Leser, auch das Gerät
+hier, was ich in den Händen halte,
+hat irgendwie ein laseraktives
+Medium, was entsprechend
+angelegt werden muss über
+eine Energiequelle, das kann
+eine Blitzkante sein oder ein anderer Laser,
+dann braucht es letztlich
+hier irgendwie diesen Raum,
+der über Spiegel
+gesättigt ist, quasi der
+hier dieses, wie im Film dargestellt,
+dieses, man nennt das
+Invasion, das heißt diesen permanenten
+Energieeintrag in das
+Atom zu realisieren,
+auf der Seite
+100%, auf der anderen Seite
+geht es eben teilweglässig raus
+und da hinten kann ich es nutzen, dann muss ich
+das Ganze, wie gesagt, auf einen Punkt fokussieren
+sehr kleinen Punkt
+damit die Energiedichte nochmal
+drastisch wird
+und fertig ist mein System
+aber noch nicht ganz
+wie gesagt, jede Menge
+Photonen rühren sich auch auf den Weg
+dahin und die werden
+über entsprechende Kühlleistung
+weggebracht
+Interessanterweise ist eine Idee gewesen, besser zu kühlen.
+Vielleicht mal eine technische Frage an Sie.
+Warum könnte Kühlleistung, also effizienter kühlen, ein Vorteil sein?
+Was meinen Sie mit effizienter Kühlung?
+Also ich habe ja eine Menge an Energie, die wegfließt und die muss ich kühlen.
+Genau, aber wenn ich das Kühlen näher oder das Ganze hier schmaler habe,
+denn auch bei den falschen Photonen ist das ja so, dass eins das andere anregt
+und bis da hinten raus eben mehr an Leistung verloren geht,
+weil die sich auf die andere Seite nicht in die falsche Richtung bewegen.
+Das, was ich eben in der richtigen Richtung gesehen habe, geht jetzt auch in die Richtung.
+Und wenn ich jetzt quasi rechtzeitig kühle, das heißt, die haben als Einrichtungsschritt nicht so einen großen Breite gehabt,
+sondern haben das Ganze sehr schmal gemacht.
+Und damit war natürlich der Weg für alle, die falsch unterwegs waren, kürzer und hatten weniger Atome dazwischen,
+die sie in die falsche Richtung gewegt haben.
+Das heißt, wenn ich die Spiegel weiter auseinander ziehe und dafür schmalere Wellen habe, werde ich effizienter.
+Richtig.
+Oder auch nicht.
+Doch, das war so.
+Genau.
+Und jetzt nicht mehr.
+Doch, es ist immer noch so.
+Aber das hat man natürlich erkannt und deswegen, es gibt heute Systeme, die nennen sich Fasernäher.
+Glasfaser kennen Sie?
+Ja.
+Die ist lang und müllig.
+Genau das Prinzip ist es.
+Kann die Faser möglicherweise nicht irgendwie so legen, weil dann habe ich einen Umkehrpunkt?
+Nein, glaube ich nicht.
+Ich muss natürlich noch Kühlleistung haben, klar, aber das geht.
+Die werden heute in diesen Wicklungen letztlich tatsächlich gelegt,
+weil heute sind die 100 Meter lang und länger.
+Die kann ich natürlich nicht 100 Meter lang auf einer Schiene machen,
+Sondern die muss ich letztlich dann eben auch wickeln, damit sie eben so funktioniert.
+Aber die Breite bleibt ja klar.
+Aber warum erzeugt das keine Probleme in der Drehung?
+Ja, weil das Licht, was da drinne ja läuft, bis zu einem gewissen Radiusgrad eben auch weiter läuft.
+Weil es an den Flächen, an den Innenflächen auch weiter reflektiert wird und laufen kann.
+Das geht natürlich nicht um 90 Grad, da haben wir natürlich recht.
+Also ich kann es jetzt nicht so legen.
+Nein, genau. Das muss in großen Schleifen sitzen.
+Das muss in großen Schleifen sitzen.
+Genau.
+So.
+Also. Und dann, neben dieser ganzen Erzeugerei, geht es eben noch darum, dass ein Laserlicht absorbiert.
+Das heißt, das muss ins Material rein.
+So, wenn ich jetzt hier meinen Laser in der Hand halte und den hier drauf setze, was passiert?
+Haben wir mal gemacht.
+Ich merke nichts.
+Warum nicht? Weil die Leistung einfach nicht ausreißt.
+Aber prinzipiell wird das Licht, ja, nee, stimmt schon gar nicht.
+Was passiert trotzdem mit dem Licht?
+Wird es alles absorbiert?
+Wenn es alles absorbiert, würden Sie nicht sehen.
+Das heißt, wir haben auch noch eine Reflexion.
+In dem Fall nutze ich nur die Reflexion, die Absorption imposiert mich nicht.
+Für die Materialbearbeitung will ich eigentlich Maximum an Absorption haben, um möglichst wenig Reflexion und tendenziell natürlich auch keine Transmission.
+Das heißt, dieses Laserlicht hat ja gewisse Wellenlänge.
+Und wenn die Wellenlänge zu meinem Bauteil so passt, dass die Wellenlänge da einfach durchmarschiert, dann habe ich Transmission.
+und dafür gibt es jetzt eben die unterschiedlichen Wellenlängen
+die diese drei Sachen unterschiedlich machen
+es gibt eben diese Festkörperlaser
+es gibt Gase, die ich anregen kann
+also die ganze Welt der Atome wird rauf und runter überlegt
+die anzuregen und entsprechende Photonen zu erzeugen
+deswegen wäre das hier das Spektrum
+Das wäre ja nur dieser kleine Bereich des sichtbaren Lichts, aber die meisten sind eigentlich eher auch unsichtbar im Bereich ultraviolettes oder eklerotes Licht.
+Und hier einfach mal ein kleines Beispiel dafür.
+Das sind alles Lasertypen, die Sie jetzt hier sehen, die in unterschiedlichen Regionen unterwegs sind für unterschiedliche Anwendungen.
+Auch weiter ergänzt, ja.
+Das heißt, ob das jetzt Festkörper- oder Gasförmige Laser sind, gibt es in der Industrie unterschiedliche Anforderungen.
+Anwendung. Es gibt auch diese Unterschiede, das ist ein bisschen verbogen, vielleicht muss ich es dann noch kurz erklären.
+Hier, vergessen Sie mal diese Skala, es geht darum, in welchem Material welche Wellenlänge am besten absorbiert.
+Das heißt, hier unten, dieser Strang heißt relativ wenig, schon eine Verdopplung heißt, doppelt so gut, dass es absorbiert.
+Und das heißt, hier die ersten Laser, das waren diese Gaslaser, CO2-Laser, die konnten Kupfer gar nicht schweißen.
+Die haben sogar Kupfer genommen, um als Umlenkspiegel den Strahl irgendwo anders hinzubringen.
+Aber die konnten schon ganz anständig Stahl schweißen.
+Und irgendwann hat man eben Wellenlängen hier um dieses eine Mühmeter entwickelt, die plötzlich auch eine gewisse Absorption im Kupfer hatten.
+und so geht das weiter
+heute sind die Entwicklungsschritte genau in diesem Bereich
+da streitet man sich
+darum, ob ein grünes oder blaues
+Licht besser ist
+um zum Beispiel auch solche
+Buntmetalle, also Kupfer zu schweißen
+so, ganz aktuell
+will ich jetzt auch dieses Jahr auf der Messe machen
+mit welchen geredet, ja der blaue Laser
+ist heute total, also
+noch wieder ein bisschen kürzer, Sie sehen
+hier geht es hoch, also ein bisschen bessere Absorption
+Also, warum gibt es überhaupt noch den grünen Laser?
+Ja, das muss man eben wieder verstehen, wenn man jetzt hier mal Anlagentechniken sieht,
+die jetzt unterschiedlich, hier haben wir unseren Faserleser, also Schreibenleser oder Festkörperleser,
+die müssen ja erstmal gebaut und entwickelt werden.
+Und jeder Lasertyp fängt bei kleinen Leistungen irgendwann an, im Labor wird irgendwas gebastelt
+und dann versucht man, das Großtechnische auf immer mehr Kilowatt zu geben.
+weil Absorption ist das eine
+aber Kilowatt ist wie gesagt auch das andere
+dass ich mit Leistung natürlich auch
+die Ölquerschnitte schweißen kann
+so und wenn das Kilowatt
+ich hatte gerade gesagt
+eigentlich kann man schon heute
+so um die 5000 Euro
+für klassische
+so ein Nanometer
+Millimeter bekommen
+aber der blaue Laser der ist immer noch
+bei 40.000 Euro
+weil er entwicklungstechnisch noch nicht so weit ist
+dass er großtechnisch umgesetzt wurde.
+Kann man das verstehen, dass diese Entwicklung quasi immer parallel abläuft,
+bis eben ein Laser-Typ sich seinen Marktplatz, also seine Berechtigung im Markt,
+aufgrund seiner technischen Eigenschaften erzeugt hat.
+Und dann muss eben so ein Laserhersteller gucken, ob er weiterentwickelt und den Prozess günstiger macht
+oder sagt, nee, so viel Kupfer wird ja dann doch nicht geschweißt,
+Ich lasse das mal dabei.
+Das heißt, der heutige Marktlage
+wäre zum Beispiel auch, weil es den grünen
+Laser, der gibt es schon im Multikilowatt,
+der gibt es schon mit 10 kW.
+Und das bisschen, was der blaue besser
+kann, wird einfach gar nicht weiterentwickelt.
+So, also eigentlich ist
+jede Anlagentechnik irgendwo
+gleich.
+Bis auf das, was ich Ihnen gerade
+Das kleine Ding, das ist tatsächlich ein Laser in die Hand nehmen, durchaus mit 100 Kilowatt Leistung, so ein Gerät war das,
+und dann wird einfach wie mit so einem Schweißbrenner da drüber gefahren.
+Das ist zur Zeit im Schweißbereich auch wieder so ein Hype-Thema.
+Das wird schon wieder durchs Dorf getrieben, das ist so eine Leistung, jeder muss unbedingt so ein Laser-Hand-Schweiß-Gerät haben.
+Das ganze Gerät selber kostet auch gar nicht mehr so viel, vielleicht 30.000 bis 40.000 Euro.
+Also mit so einem Kilowatt-Reißloch.
+Das ist eigentlich für einen Laser relativ günstig.
+Wir sind ja mit vorhin von 10.000 Euro...
+Ne, jetzt das Gesamtgerät.
+Mit Brennern, also mit...
+Ich habe ja immer nur von den Kilowatt-Erzeugungen geredet, für eine 5000.
+Wenn Sie nachher ein Portalsystem dran haben,
+dann kostet natürlich der gesamte Maschinenbau dazu,
+der kann nochmal ein paar hunderttausend dazu kosten.
+Es ist nur die Strahlquelle, die günstiger wird.
+Der Maschinenbauer, die tendenziell eher teurer.
+Und Sie brauchen, auch das vielleicht nochmal...
+Wenn wir hier hinhaben, müssen wir uns das lösen.
+Richtig. Die Investitionskosten, also Laser ist toll.
+Ich kann das, wie gesagt, auch hier irgendwie halbwerferhand letztlich lösen.
+So, das heißt, aber klassischerweise, wenn ich auf einen Zehntelmillimeter fokussiere,
+muss eine Halterung oder
+eine XYZ-Geschichte
+ja mindestens in Größenordnung
+besser, also im Hundertstel-Bereich genau
+unterwegs sein. Das heißt, dieser Maschinenbau
+dazu, der diesen Strahl
+sehr exakt über das Bauteil bewegt,
+der kostet Geld.
+Und wenn ich dreidimensional
+unterwegs bin, wenn ich dann auch noch irgendwie
+wild im Raum unterwegs bin damit,
+weil ich dreidimensionale Teile irgendwie bearbeiten
+will, würde das eben nochmal dauern.
+So.
+Und das heißt,
+tendenziell
+sind das immer noch
+Prozesse, weil sie
+die Genauigkeit und damit
+auch schmale Nähte erzeugen, wie auf der
+anderen Seite, aber eben auch im Maschinenbau
+die Genauigkeit brauchen.
+Und das passiert.
+So.
+Wie gesagt, das wären
+solche programmierbaren
+Maschinenbaugeräte.
+Dann
+könnte sich natürlich, ich habe es ja eigentlich schon
+vorgemacht, überlegen
+wird der Strahl bewegt
+wird das Bauteil unter dem Strahl
+bewegt oder bewegen sich beide relativ
+gegeneinander
+das macht eben auch wieder einen Unterschied
+hier gibt es eben auch wieder
+heute
+Geräte, sehr komplexe
+kleine Einheiten, wo der Strahl
+selber über das
+Teilzonenlängsspiegel auf so einer Walze
+in alle möglichen Richtungen sehr schnell
+bewegt werden kann
+Und so ein kleines Kompakt ist so groß wie das hier, was eben als remote, als ferngesteuerter
+Laser gilt, kann aber auch mal wieder 20-30.000 Euro kosten, wie dieser kleine Spiegelpaket,
+weil es feinste Feinmechanik ist, die da drinnen verbraucht ist.
+Und es geht eben immer wieder darum, schnelle Bearbeitung umzusetzen.
+Kleinigkeit noch, ja, eigentlich haben wir trotzdem Schmelzspeisen, wir sind ja noch auf einer Achse auf Schmelzspeisen, wir brauchen auch wieder Schutzgas.
+Genau das gleiche, nur wir sind viel kleiner.
+So, was machen wir jetzt als Entwicklungingenieurinnen und Ingenieure?
+Sie fragen sich doch jetzt hoffentlich, Schutzgas kostet Geld, kostet noch dazu, das habe ich schon so viel investiert.
+Was macht man also heute?
+Man überlegt, ob ich vielleicht weglasse.
+Was passiert, wenn ich weglasse?
+Haben Sie alle gelernt schon.
+Oxidation.
+Was sage ich als Entwicklungsingenieur oder getrieben durch meinen Verkauf,
+der mir auf dem Hacken steht und sagt, das muss billiger werden?
+Ja, Oxidation ja, vielleicht auch ein bisschen Porengehalt ja,
+aber weil die Naht zu schmal und klein und tief ist,
+kommt das gar nicht so weit in die Tiefe, die Obszillation, und ich kann damit leben.
+Und das ist eben vielleicht auch noch eine, ja, Sie kennen diesen Spruch, das Pferd springt nur so hoch, wie es sein muss, ja.
+Was ist damit gemeint? Sie entwickeln einen Prozess nur so gut, wie es sein muss.
+Mein Kleiderhaken muss nicht die Top-Qualität haben, außer Sie stellen noch Ansprüche an Optik, meinetwegen.
+Aber rein mechanisch eben wenig.
+Das kostet wieder viel Geld.
+Also, es hängt unmittelbar natürlich mit zusammen, was Sie hier letztlich haben.
+Es sind nur Centbeträge pro Naht.
+Bei so einer Naht verbrauchen Sie vielleicht irgendwie 10, 20 Cent jeder Schutzgras.
+Okay.
+So, wenn Sie aber nur für, also je nachdem, wie viel Erd- und Brenngrossel und nur zum Beispiel so ein Argon nehmen, dann nehmen wir vielleicht ein Fünftel.
+Wenn Sie aber das ganze Produkt nachher in der Massenfertigung nur für 50 Cent verkaufen, dann ist das schon 10 Prozent.
+Also eigentlich gibt es keine lokale Aussage, sondern man muss immer wieder gucken, was man braucht.
+und ihm gesagt hat, ob ich diese Leitungsabwehr klasse.
+Klingt einfach nicht.
+Ich bin präsent, aber ich weiß das vielleicht schon.
+Ja, danke.
+Aber ich denke alles an die,
+wie ich oder die, die so ein Ding schweißen kann,
+vor Zeitanteil, das ist ja der Unterschied.
+Absolut.
+Also ist Stuttgart da mehr oder weniger abhängig
+Nein. Also tatsächlich ist der größte Anteil tatsächlich der Invest. Das hängt quasi allen Strahlverfahren hinten ran, dass ich eben Anlagentechnik und wir reden trotzdem, wenn ich im Multikilowattbereich bin, eben auch von vielen hunderttausend Euro, die so eine Gesamtanlage nachher denn doch kostet.
+und die muss ich über Stückzahl
+amortisieren
+und Laseranwendungen
+nur einschichtig tun
+schon echt weh, die überhaupt zu amortisieren
+wenn ich
+in Großbetrieben zwei, drei
+Schichten unterwegs bin, geht
+das über Stückzahl
+und dann spielt eben Verbraucher
+selbst der Stromverbrauch
+selbst bei den drei Prozent
+hat tatsächlich der Stromverbrauch
+keine Rolle gespielt, also keine
+so tragende Rolle wie der Invest in so seiner Weise.
+Also der Stromverbrauch, das Stromverbrauch hat ja selbstständig Gas?
+Ja.
+Wie ist Gas?
+Es hat was, ähm, Sie müssen jetzt mal umrechnen auf,
+das getriebene Teil hat eine Schweißzeit irgendwie von 8 Sekunden.
+Um nur 8 Sekunden ist der Strom an.
+Also deswegen, wir müssen das pro Teil natürlich sehen.
+Wir müssen unseren Strompreis letztlich sehen.
+Vielleicht auch mal ein Vergleich dazu.
+Die Zahlen habe ich jetzt nicht exakt, aber ich kann Ihnen sagen, dass
+die Wirkungsgrade in Japan eine viel größere Rolle spielen.
+Ich glaube, der Strompreis bei denen ist nochmal deutlich höher als in Deutschland.
+Da guckt man dann plötzlich hin, weil er doppelt so hoch ist und damit doppelt so relevant ist.
+Bei uns ist er eigentlich für diese kurzen Anwendungen noch viel zu günstig.
+Weil ich zeige selbst diese gerne.
+Richtig, genau.
+Aber daran sehen Sie, dass Verbräuche das eine sind und Effizienz das andere.
+Und jetzt mal wieder ein bisschen auf Ihr Jobbild gerichtet.
+weshalb ich dann auch so ein bisschen
+diskutierlich gesagt habe,
+ganz oft, es gibt ja
+den Job, dass sie Maschinenbeschaffer
+sind. Sie sind bei
+Volkswagen, bei Bosch, bei wo auch immer
+und sollen Einkaufen von
+Maschinen eben erledigen.
+Da kann es eben schon mal passieren,
+dass sie sich gar nicht für die
+Verbräuche der Anlage interessieren, weil das muss ja
+die Fertigung erledigen,
+sondern die gucken nur nach dem Index.
+Ich zeige Ihnen
+heute gleich noch ein Verfahren, das heißt
+Elektronenstrahl schmeißen, da reden wir nicht von
+30-40% Wirkungsgrad, sondern
+von 70-80% Wirkungsgrad.
+Also doppelt
+quasi, also oder
+halbieren der Stromkosten.
+Im Wettbewerbsbereich
+völlig uninteressant.
+Weil die Elektronenstrahlanlage vielleicht
+auch wieder vom Investor war.
+So, um das auch nochmal
+zu zeigen. Wenn es natürlich
+technisch machbar ist, lasse ich es weg, aber es gibt auch die andere Version, wenn ich es
+technisch brauche, dass ich sogar ins Vakuum gehe, also ins beste Schutzgras, was es gibt.
+Vakuum ist nämlich, wo nichts ist, kann auch nichts passieren.
+So, und Vakuumerzeugung ist eben deutlich aufregend.
+So, eine technische Sache müssen wir noch klären, warum kann ich mit diesem Verfahren
+tiefer schweißen. Warum? Kann super funktionieren. Einfach mal gezeigt, das wäre jetzt Ihr Bild.
+Da oben kommt jetzt der Strahl rein, würde das Ganze hier aufschmelzen.
+verständlich, dass es hier zwei Sachen sind. Längs gesehen so sieht das hier aus. Ein normaler
+Lichtbogenprozess kann nicht tiefer wie breit, weil er über Wärmeleitungen geht. Das heißt,
+das sehen Sie hier, genauso tief wie breit das Ganze. Die Wärme geht in alle Richtungen.
+Bei so einem Strahlverfahren ist es so, dass Sie so viel Energie auf so einem kleinen Punkt
+haben, dass die Energie gar nicht schnell genug zu den Seiten weg kann, auch bei Aluminium
+nicht, das war ja ein Aluminiumteil, sondern Sie bringen quasi immer tiefer in das Material
+ein.
+Und in Abhängigkeit der Vorschubstätigkeit, also je schneller Sie natürlich vorankommen,
+je mehr Leistung brauchen wir dafür.
+Und da sind wir wieder bei den Kilowatts.
+Das heißt, wenn Sie doppelt schnell sein wollen, brauchen Sie doppelte Kilowattzahl, um das eben auch hinzuzufügen.
+So, und das wäre jetzt eine Einschweißung, oder Sie können eben auch durchschweißen an der Stelle, je nachdem, was Sie brauchen.
+Und wenn man uns das von oben anguckt, dann wäre das jetzt hier der Strahl.
+Das Ganze nennt man auch Dampfkanal oder Dampfkapillare, die da jetzt irgendwelche Materialien drinstehen.
+Und ich mache nochmal ein Verständnisspiel mit Ihnen.
+Wie würden Sie zwei Butter-Sclips hier miteinander verschweißen?
+Also Butter, die gute Butter jetzt.
+Wie würden Sie sie miteinander verbinden?
+So sieht es aus.
+Ja, Reitprozess, sehr gut.
+Kommt gerade aus dem Kühlschrank. Wie gut funktioniert das?
+Mäßig.
+Die würde eher zusammengröseln wie alles andere.
+Also, ja, die Idee nicht schlecht, aber irgendwie passt das zu dem Werkstoff gut oder nicht?
+Was technisch die Idee ist.
+Schmelzen.
+Schmelzen, wie?
+Wie würden Sie die schmelzen?
+Auf den Topf.
+Also auf den Topf legen oder wollen Sie es komplett aufschmelzen?
+Entweder ich würde sie nur anschmelzen.
+Ja.
+Oder auch zusammenleiten vielleicht.
+Okay, also Sie würden das vielleicht in den Topf oder auf eine Kante drücken,
+denn schnell genug hoch und zusammenrücken, richtig?
+Okay, ob Sie das tatsächlich in der Geschwindigkeit schaffen, sei dahingestellt, aber das wäre es.
+Wenn man das nicht klappt, würde ich es komplett schmelzen.
+Okay, das wäre tatsächlich das Urform, das Gießen an sich, aufschmelzen und wieder zusammenbringen.
+Nur, probiert es mal aus, Geschmacksverlust. Also das mit der Butter, das funktioniert so nicht.
+Aber jetzt nochmal zu dem Thema, wenn ich jetzt schon von Geschmacksverlust davon rede,
+wäre das ja vielleicht auch in dieser Flügelzone wieder das Thema,
+je größer, je mehr aufgeschmolzen, je schlechter an der Stelle der Geschmack.
+Machen wir das im Vergleich.
+Also was hätte ich als Bestreben?
+Ich bräuchte irgendein Verfahren, was mir das möglichst mit einer kleinen zierlichen Naht so verbindet,
+damit die geschmacklich nicht mehr ins Gewicht fällt.
+Können Sie mir noch folgen? Also, wie machen wir das?
+Ja?
+Irgendwas in Erinnerung, dass du mit irgendeinem heißen Messer auf die Ecke kamst.
+Genau. Ja, genau das.
+Von der Verständnis ist klar, wir nehmen ein Messer.
+Das machen wir vorher heiß.
+Und dann fahren wir jetzt genau exakt an dieser Kante zwischen diesen beiden Unterhälften.
+im Übrigen Konstruktionshinweis dazu.
+Die sind nicht irgendwie mit so einer
+V-Fuge oder sonst was, sondern die sind ja
+glatt geschnitten
+und dann, also Sie müssen
+die, wenn Sie die vorher, wie auch immer
+gestaltet hatten, müssen Sie die sauber
+abschneiden, damit Sie zwei Flügelflächen
+zusammenbekommen, weil sonst funktioniert es ja auch nicht.
+Wenn da irgendwelche Ritter drin sind,
+ist es nicht verbunden. Sie wollen ja auch
+nicht mit Zusatzbrutter arbeiten.
+Das wird jetzt kurz langsam.
+Aber gut. Das heißt,
+Sie nehmen ein heißes Messer, fahren das da durch.
+Was sind denn Ihre Schweißparameter bei der Butter?
+Temperatur Ihres Messers, Vorschubbewegung Ihres Messers,
+Temperatur der Butter, was noch?
+Dicke des Messers?
+Ja, dicke spielt auch noch eine Rolle,
+Was ist denn das hier? Die beiden durchschweißen und einschweißen.
+Kraft, stecke ich das Messer durch oder stecke ich es nur bis zur Hälfte?
+So, und diese Analogie können Sie sich merken.
+Kann man sich ja vorstellen, mit so einem Messer funktioniert.
+Funktioniert natürlich dummerweise nur, wenn Sie jetzt da in die Mutter reinfahren,
+die kommt gerade aus dem Kühlschrank, wird das Messer kalt und irgendwann bleiben Sie stecken.
+Das heißt, Sie bauen aus Ihrem Auto die Autobatterie raus, stecken die noch mit drauf,
+sodass Sie kontinuierlich Energie ins Messer kriegen und die Temperatur halten, versteht sich.
+Und dann ist das heiße Messer dieser Punkt, ist dieses, diese Dampfkapillare Ihr Messer
+und jetzt wissen Sie, Sie schieben das da durch und was macht denn jetzt Ihre Butter,
+schmelztechnisch gesehen?
+Vor dem heißen Messer schmilzt es auf, es rennt nicht durch das Messer durch,
+also fließt es um das heiße Messer herum und dann startet es auf der Rückseite.
+Und das ist genau das, was hier gut gemacht wird.
+Und je mehr Leistung, je mehr Kraft,
+je tiefer kommen sie rein.
+Das ist alles.
+Das ist streitig.
+Das ist ja jetzt nichts physisches.
+Das Wasser ist physisch.
+Der Laser ist ja kein physisches Teil.
+Doch, auch.
+Das ist ja kein Feststoff, es ist Gas, es ist tatsächlich ein Plasma, was dazwischen ist.
+Das heißt, es hat auch eine Druckwirkung und schiebt auch zur Seite raus.
+Das heißt, der Innendruck in so einer Kapillare ist größer und schiebt eben nach außen,
+wo das eben das Material nicht rein kann, sondern um diese Kapillare herum fließen muss.
+Wie schießt man Photonen da raus?
+In der Einkopplung ins Bauteil werden aus den Photonen letztlich Plasman.
+Und das ist dann das, was energietechnisch die Energie runter ist.
+Ja, ähm, im Detail ist es doch wieder noch ein bisschen kompletter, der Prozess.
+Aber an der Stelle möchte ich einfach nur darauf hinweisen,
+Beispielsweise das mit dem Messer, da sind Sie deutlich schneller unterwegs, dass Sie diese Energiezelle eben einfach damit verbinden.
+Und dann können Sie eben auf die Suche gehen nach irgendwelchen Aufgaben, weil, wie gesagt, da ist noch lange nicht ausgeschöpft, was man mit dem alles machen kann.
+Heute haben wir eben Querschnitte, wir haben das Fügen, das Schneiden und wir schweißen eigentlich Bauteile, die nachher nicht bearbeitet werden können.
+Bei diesen Getriebeteilen ist es eben so, sie kriegen nachher diese Getriebe-Zahnräder nicht mehr nachgeschliffen.
+Weil das so verbaut ist, dass das nicht mehr funktioniert.
+Also können sie sich einfach diesen Verzug nicht leisten.
+Und deswegen investieren die da in entsprechende Techniken.
+So, letztlich ist es denn die hohe Geschwindigkeit versus Invest.
+Und dann mache ich meine schmalen Nähte, die eben entsprechend umsetzbar sind.
+Üblicherweise ist es automatisiert. Wie gesagt, zur Zeit wieder so ein Thema, dass man versucht, das auch händisch zu machen.
+Anwendung sei dahingestellt. Als der Juwelier des Vertrauens, also der macht das schon viele Jahre,
+dass viele kleine Laser haben, um irgendwelche Diamantfassungen oder sowas irgendwie zu schweißen.
+So, dann haben wir eben Getriebeteile, der Hinweis ist aber auch jetzt, das mit dem Futon
+funktioniert aber auch in nichtleitenden Materialien, wie Kunststoffen zum Beispiel.
+Ich muss ja nun die Leistung da irgendwie rein kriegen, absolut.
+Also kann ich Lasertechnik auch nehmen, um Kunststoffe miteinander zu verschweißen.
+Warum ist das wirtschaftlich gesehen vielleicht auch wieder keine gute Idee?
+Richtig, weil letztlich, das kennen Sie alle, so eine Plastiktüte können Sie mit einem
+Siegel balken.
+Sie machen nur ein Stück Draht, ein bisschen heiß und schon geht es auch mit dem Schweißen.
+Wozu denn noch so aufwendig mit Gläser herkommen?
+Es muss technisch wieder eine Bewandtnis haben, damit sie sehr gezielt, es werden so kleine Kunststoffgeräute und so Paneele,
+beim Bosch zum Beispiel, werden lasergeschweißt, weil diese Geometrie mit so einem Siegelbalken nicht anders abbildbar ist.
+Also es gibt so Spezialanwendungen in dem Bereich.
+Aber die große Masse, ja, die Laserhersteller wollen das natürlich immer gerne, aber sei da nicht.
+So, also hier nochmal zusammengefasst, schmale parallele Nähte, geringe Nacharbeit und wenig
+Temperatur und der Nachteil ist eben Aufwertung, ein bisschen Spaltüberbrückungsthema, nicht jede
+Geometrie, aber nach wie vor dieses Thema hier, dass wir eigentlich als Gesamtsumme immer noch
+in diesen Hunderttausendern unterwegs sind. Was für eine klassische Anwendung 5-6 Kilowatt
+eben tatsächlich immer noch fertig ist. So, ich kann damit schneiden. Werden wir auch noch
+uns angucken. Ich kann auch Oberflächen heiß machen und abkühlen lassen. So genanntes Härten
+oder Auftragen, Regieren. Wäre jetzt eben so eine Unterkopierung, dass ich eben auch eine
+Beschichtung machen kann. So, was soll der Wahnsinn hier schon wieder? Mit so einer kleinen Energiequelle was
+heiß machen, damit ich irgendeine Härtung erzeuge. Da muss ich mechanisch schon einen verdammt großen
+Druck haben, um kleinste Flächen so zu bearbeiten. Weil, wenn so ein Einsatzhärten, also im Ofen
+rausholen, abkühlen, funktioniert, wird kein Mensch auf die Idee kommen, so toll einen Laser herzulegen.
+Sondern es geht hier eher darum, Sie haben ein Bauteil, wollen Sie nur so eine kleine Ecke härten,
+dann macht es keinen Sinn, den in den Ofen zu legen, weil dann würden Sie ja alles härten.
+Und da, für solche Spezialanwendungen, nimmt man dann eben tatsächlich Sprache.
+Sie können auch Löcher bohren, Sie können löten, Sie können beschriften,
+ah, beschriften, riesen Anwendungsbereich, kennen Sie, denke ich, auch alle. So Laser-
+Beschriftungsgeräte, die kosten auch tatsächlich auch nicht mehr so viel,
+die kriegen Sie auch schon für ein paar tausend Euro, je nach Qualität. Reinigen,
+ja gut, das sind Spezialsachen, noch ein kurzer Hinweis in Richtung, wie sieht es jetzt mit der Vorbereitung aus,
+nicht das, was ich bis jetzt bei den anderen Prozessen gesagt habe, sondern quasi keinen Spalt.
+Ich bringe ja auch kein Material dazu. Auch das ist ohne Spalt geschweißt und ohne Platzmaterial.
+Wo kommt denn das Material, das hatten Sie eben gesagt, wo kommt denn das Material da oben her?
+es ist kein Zusatz dabei. Ja, wenn Sie Metall heiß machen, schmelzen, dehnt sich das aus. Das heißt,
+unter dem Schmelzprozess, jetzt ist das da in einem Spalt alles schön schmelzflüssig, wo soll es denn
+hin, wenn es sich ausdehnt? Das kann zu den Seiten nicht weg, also geht es auch oben nach unten. Es
+Es bleibt aber kein Loch zurück, sondern das Ganze wird einfach beim Abkühlen wieder zusammengezogen und Ihr Bauteil wird kürzer an der Stelle.
+Und in dem Fall ist es genau das Material, was Sie nutzen können, bevor ein eventuell doch vorhandener Spalt zu einem Einfall führt.
+Nochmal, wenn der Spalt zu groß ist und diese Wärmeausdehnung das nicht kompensieren kann,
+haben Sie nicht eine komplette Naht, nicht einen kompletten Querschnitt.
+Und wir reden hier von Spalten, auch bei so einer Tiefe, vielleicht von 0,5 mm, nicht
+mehr.
+Und bei klassischen 6 mm reden wir vielleicht von 0,05 mm, die zulässig sind, bevor wir
+was passiert, eben Material
+nicht nach außen raus geht, sondern nach innen
+wegfällt. Und dann heißt es,
+wenn ich daran ziehe, reicht mir der
+Querschnitt nicht aus und das Ding geht kaputt.
+Also das ist
+nämlich ein weiterer, neben dem Invest,
+ein Riesenthema, dass ich
+in der Vorbereitung bei den
+Strahlverfahren viel genauer sein muss.
+Viel besser und viel mehr Geld
+investiere, damit
+die Kanten auch tatsächlich so sind, wie sie sind.
+Und deswegen ist dieses Bild hier auch komplett anders als das, was ich bis jetzt gezeigt
+habe, weil ich hier eben keine Spalte mehr toleriere an diesen Stellen.
+Gut, so weit klar?
+Dann machen wir nochmal wieder ein kleines Beispiel aus dem Marketingbereich.
+Das ist schon ein bisschen her, aber Marketingaktion, was würden Sie machen, wenn Sie im Marketing
+bei der Firma Trumpf in Ditzingen, die bestellen Laser her.
+Die haben also gesagt, okay, in welchen Branchen können wir noch wachsen?
+A, da gibt es Bereiche, die bauen Gehäuse aus Edelstahl.
+Da gibt es gerade im Schwäbischen immer noch jede Menge Betriebe, Keimbetriebe, Mittelständler,
+die bauen nichts anderes wie Maschinengehäuse oder sowas.
+Das sind also Abdeckungen, dünnes Material, irgendwas.
+So, vielleicht als Beispiel, stellen Sie sich einen Schuhkartondeckel vor.
+Sie haben Blech, das müssen Sie an vier Kanten umbiegen und dann haben Sie noch links, also
+an vier Stellen, ja die Notwendigkeit, den zuzuschweißen.
+Das heißt, wenn wir uns jetzt mal die Abwicklung anschauen,
+Sie schneiden Ihre Platine aus, Sie kanten das Ganze ab und Sie schweißen das Ganze.
+Wir sind aber eher hier erstmal bei diesen Schutzgasprozessen, Wichsschweißprozessen,
+der Vergleich heißt, ich brauche eine deutlich längere Schweißzeit, die
+Die Lichtbögen können langsamer fahren, damit sie das hinkriegen.
+Das Dumme ist jetzt, Lichtbogen hat trotzdem mehr Energie.
+Das heißt, jetzt fangen diese Hersteller an, diesen Deckel, der sich denn doch verzogen hat, wieder zu richten.
+Die machen den dann wieder gezählt warm, damit der Deckel nachher schön gerade ist.
+Weil auf ihrer Maschine soll der ja anständig aussehen.
+So, was hat jetzt die Marketingabteilung gesagt von Trumpf?
+Wir sind deutlich schneller unterwegs.
+Aber hier, wir brauchen gar keine Nacharbeit, weil wir so schmale Kanten und schmale Nähte haben,
+dass unser Bauteil sich gar nicht verzieht.
+Wir mussten nicht mehr 24 Minuten, um das Ding wieder zu richten, sondern das lässt einfach so wie es ist.
+So, wie viel Erfolg hatten die mit ihrer Marketingaktion?
+Wir hatten so von 20 Betrieben, hatten die zwei davon überzeugt, Maroneso einzusetzen.
+Das war's.
+Was haben die anderen gemacht?
+Oh, klassische Technik, ich weiß, was ich tue.
+Ich habe auch meine Leute, wenn ich das automatisiert mache, muss ich auch meine Leute entlassen.
+Ist vielleicht heute ein anderes Thema, heute habe ich die Leute gar nicht mehr.
+Vielleicht muss ich das so machen.
+Ganz andere Motivation an der Stelle.
+So.
+Was hier natürlich auch fehlt, ist geschickt gemacht, ne?
+weil hier werden nur Minuten aufgezählt, aber hier ist ja von Invest nicht zu reden.
+Und das war das Hauptproblem, dass damals eben auch diese Leseranlagen deutlich teurer waren.
+Und damit eben von einem Invest jetzt für diese kleinen Betriebe auch einfach gar nicht machbar war.
+Das verschiebt sich aber, wie gesagt, gerade.
+Es kann, auch wenn Sie fertig sind, immer interessanter werden,
+tatsächlich solche Leseranlagen einzusetzen.
+Sicherheitstechnik. Wir haben plötzlich eine ganz andere Intensität. Das heißt, wir müssen uns noch besser vor der Strahlung schützen.
+Laseranlagen sind immer entsprechend abgesichert. Und wenn Sie da reinschauen, gibt es ein entsprechendes Glas.
+Glas, auch es gibt Schutzbrillen zum
+Lederstrandschweißen, die haben aber
+immer eine Relevanz
+zu ihrer Wellenlänge.
+Warum?
+Die müssen nämlich immer
+eigentlich 100% absorbieren.
+Nur wenn sie absorbieren, dann schützen sie ihr Auge.
+Wenn sie transmitieren, dann geht es ja durch.
+Macht ja keinen Sinn. Also braucht
+es letztlich da immer eine Zuordnung.
+Also bitte daran denken, wenn Sie mal
+mit Laser zu tun haben, oh, da liegt eine Laserbrille,
+die muss zu Ihrem Laser passen.
+Sonst
+laufen Sie in Gefahr, dass es nicht funktioniert.
+Oder
+Sie nichts mehr sehen danach.
+Also wir
+reden hier auch tatsächlich von Laserleistungen,
+auch als Strollstrahlung, die innerhalb von
+Sekunden Ihre Augen zerstören.
+Einfach mal ganz klar,
+wenn Sie in so einen Lichtbogenprozess
+mal ein paar Sekunden reingucken
+mit Schmerzen in Ihre Augen, ist auch
+nicht gesund, aber sie sucht gleich Wind. Hier sieht die Sache anders aus.
+Eine viel höhere Intensität und damit eine viel höhere Gefahrenbeschärfung.
+So, dann haben wir frei werdende, wie baue ich meine Anlage.
+Ja, wenn hier mein Bauteil ist, da kommt mein Laser.
+10 Kilowatt, ja, jede Menge Leistung.
+Dann kommt das nächste Bauteil, Schweiß.
+Oh, das kommt nicht an, das macht ihr Laser.
+Die stehen da hinten.
+Also 10 Kilowatt reißt aus, um wie bei Raumschiff Enterprise sie erheblich zu verletzen.
+Ja, der absorbiert bei Ihnen und der brennt Ihnen ein Loch innen.
+Also, das ist eine Frage der Zeit. Wenn Sie stehen bleiben, sind Sie tot.
+Also, was machen wir? Sie werden eigentlich in jeder Anlage erstmal, auch wenn Sie das so rum haben, hier einen Schamottstein finden.
+Das heißt, das sind letztlich feuerfeste Materialien, die so einem 10 Kilowatt Laser vielleicht eine halbe Minute, bis die auch durchverschmort sind, widerstehen.
+Einziger Vorteil, das qualmt und stinkt wie wahnsinnig.
+Das heißt, wenn Sie dahinter stehen und das nicht mitkriegen, dann kann ich Sie auch nicht melden.
+Weil irgendwann ist der da auch durch und dann sind Sie auch tot.
+Um es mal so zu sagen.
+So viel passiert aber nicht, weil, jetzt nochmal der ultimative Trick an der ganzen Geschichte,
+Sie konstruieren das so, dass er jetzt gar nicht in irgendwelchen Hallen unterwegs ist,
+sondern das Ganze eben nach unten.
+Hier ist Ihr Bauteil, und so sind die allermeisten Anwendungen eben auch so konzipiert.
+Auf die ganze Welt.
+Wird der Laser nicht mit der Erinnerung mehr aus draußen beklemmen?
+Wie angefangen?
+Also ich sehe das, wenn das Teil nicht da ist, dass der Laser dann kurz aus ist, dann aus.
+Ja, aber den Laser interessiert das nicht.
+Das macht man natürlich schon über eine andere Sensorik.
+Dass man Platzhalter-Sensoriken hat, die eben feststellen, da ist ein Teil noch nicht.
+Und die den Laser freischalten. Natürlich kann ich das auch so machen.
+Aber der Sensor ist kaputt, das Bauteil ist nicht da und schon passiert es doch wieder.
+Das ist der Hintergrund.
+Aber es gibt keine technischen Ideen, quasi laufen zu lassen, weil es ein Auslaufprozess ist?
+Nein, nein. Also es ist nicht so eine Hochspannung, wie die Hoch- und Runterfahren,
+sondern vielleicht doch die Hochspannung selber, die müssen Sie einmal hochfahren.
+Und dann läuft er. Aber Sie können den Laser auch schotten.
+Sie können das kaltenlässige Spiel einfach zumachen.
+Dann läuft trotzdem der Prozess weiter.
+Und wenn Sie wieder aufmachen, dann kommt wieder der Laser raus.
+Hier einfach mal so ein besagtes Gehäuse, ja, dünnes Blech, das ist eine automatisch
+betriebene, also CNC-gesteuerte XY-Portalanlage, die schweißt jetzt eben nach so einem Schweißfolgeplan
+hier mal auf der Seite, dann wieder auf der anderen Seite.
+So, war der Programmierer irgendwie besoffen oder?
+Ja?
+Da geht es ja auch mal darum, den Verzug zu verbringen.
+Richtig.
+Wir haben sehr wenig Verzug, aber wir haben Verzug.
+Und wenn ich schweißvoll geflogen bin, heißt es eben hier und da schweißen, damit sich die Verzüge wieder gegenseitig verliehen.
+So, aber einfach mal um zu sehen, Intensität, aber auch die ganze Schmelze deutlich bleiben.
+Und hier auch nochmal aus Star Wars. Warum geht das nicht mit dem Schwert?
+Genau, das ist der Hintergrund. Der geht eben weiter.
+weiter. Ich müsste gleichzeitig einen Spiegel ausfahren, der dann quasi da wieder reflektiert
+und dann müsste ich aber zusehen, dass der nicht wieder reinkommt, weil der würde ja mein Lasermeter
+zerstören. Also das ist einer der Gründe, weshalb das mit diesen Laserschwertern noch nicht funktioniert.
+Der andere Grund ist die Leistung, ja, wir reden hier, damit sich Photonen auch abstoßen,
+das ist so eine physikalische Geschichte, brauchen die eine entsprechende Leistung und
+sie brauchen die Megawatt, also ein kleines Kernkraftwerk quasi, in dem Spiel, damit sie
+diese Leistung auch generiert bekommen.
+sonst haben sie nämlich nur Licht
+und wenn sie normalen 5 kW
+Laserleistung, die können sie ineinander
+verschränken, dann passiert gar nichts
+und deswegen
+gibt es das auch nicht
+und als letzten Punkt nochmal
+warum gewinnen die mit grün immer
+weil die, sage ich mal
+von ihrer
+Energie gehalten her
+die die höchsten haben
+das heißt, das Laserschwert
+ist schärfer als das rote
+Aber so weit sind wir wie gesagt noch nicht. Gut, fangen wir gleich noch, fangen wir nochmal
+den Elektronenstrahl an oder ergänzen ihn einfach noch. Eine viel etabliertere Technik,
+vielleicht Ihnen auch noch bekannt von irgendwelchen Bildröhren, aber eigentlich
+auch das Gleiche, deswegen die gleichen Teile. Das, was ich Ihnen jetzt rumgegeben habe,
+könnte Laser wie Elektronenstrahl machen.
+Wobei das ganz Tiefe aufgrund des Wirkungsstrahls
+ist eher so wie Elektronenstrahl.
+Soll heißen, da kommt der Strahl,
+der trifft auf die Oberfläche
+und jetzt setzt er das nicht in Plasma rum,
+sondern jetzt geben wir tatsächlich von kinetischer Energie.
+Wir haben also kein Photon mehr,
+sondern wir beschleunigen echte Elektronen.
+Die sind zwar verdammt klein,
+aber wenn ich ein paar Millionen davon nehme,
+dann habe ich trotzdem eine Masse.
+Und das heißt, wenn die jetzt auf die Oberfläche treffen,
+setzen sie ihre kinetische Energierung und dann wird es heiß.
+Und das ist deutlich effizienter,
+wie das Photon in ein Plasma zu überführen
+und dann versuchen, irgendwie mit der Reflektion und so weiter klar zu kommen.
+Es gibt natürlich auch so ein bisschen Reflektion,
+allerdings ist das eher eine Strahlung,
+die wir alle nicht so mögen, Röntgenstrahlung,
+weil das wäre für mich als Mensch
+jetzt natürlich wieder gefährlich
+es gibt aber auch sekundär
+oder auch rückgestreute Elektronen
+das könnte Ihnen was sagen
+wenn Sie mal mit so einem ganzen Elektronenmikroskop
+oder sowas
+also diese Elektronenmikroskopie
+die eben sehr hohe Auflösung hat
+die funktioniert am gleichen Prinzip
+dann nehme ich aber
+quasi nicht den Hauptstrahl
+das ist eher eine Sache, die ich gar nicht haben will
+sondern ich nutze nur die Elektronen
+selber ein Röntgenstrahltelefon um Bilder zu erzeugen.
+Ja?
+Das wird mit einer Röntgenstrahlung gemacht und nicht mit einem Röntgenstrahlung?
+Richtig.
+Das ist eine Röntgenstrahlung.
+Mhm.
+Ähm, es gibt Röntgen, also Röntgen wird ja, es ist ja ein Prinzip, dass man Röntgenstrahlung
+benutzt.
+Nein, Röntgen ist, die Röntgenstrahlung wird auch für Bilder hergenommen, aber das
+ist eine Durchstrahlung.
+Das ist nicht nur ein Oberflächenbild, sondern ein In-Material-Scheinwerk.
+Das ist denn doch richtig, was Sie aufgeschrieben haben, nur zwei unterschiedliche Arten von Bildern.
+Sie können doch alle Röntgen strahlen, wenn Sie zum Arzt gehen.
+Sie werden durchleuchtet und auf der Rückseite ist der Röntgenfilm und dann wird eben geguckt.
+Das können Sie beim Elektronenschalter tatsächlich auch nutzen.
+der uns eigentlich eher gefährdet als ein Mensch, aber der würde uns auch ermöglichen,
+wenn Sie hier unten schweißen und hier den Röntgenfilm hinlegen,
+dann sehen Sie tatsächlich wieder durchs Material, durch was Sie gerade geschweißt haben.
+So, aber der Rest ist eigentlich gleich wie beim MESA, bis auf die, wie gesagt, beschleunigte Energie,
+die kinetische Energie, habe ich auch wieder einen Rennpunkt um die Zehntelkilometer.
+So, also nochmal, wenn ich jetzt schon, ich bleibe mal bei mir, ein Elektron ist ja sehr, sehr klein.
+Wenn ich ein Elektron von hier losschieße, wird es irgendwann auf Luftgefühle getroffen und wird reflektiert.
+Und da kann ich Millionen von Elektronen in die Richtung schießen, die kommen einfach nicht durch dieses dicke Luftmoleküle durch.
+Für uns ist das nix, aber für so ein Elektron ist das jede Menge.
+Das heißt, dieses Verfahren funktioniert eigentlich nur, wenn die Luft viel dünner wird, sprich im Vakuum.
+Beispiel, es wird ja immer über Laser im Weltraum und so weiter geredet
+Elektronschall wäre viel effizienter
+Besserer Wirkungsgrad
+Und da oben habe ich ja Vakuum
+Also kann das Elektron auch super fliegen
+Bei Rauschen-Enderbreiten wäre noch nie aufgefallen, dass sie mit Elektronen schießen oder so
+Sondern die schießen immer nur mit ihrem Laser
+Gut, aber erstmal zur Funktion
+Also das muss evakuiert sein
+und wenn ich Röntgenstrahlung und sowas habe
+in Abhängigkeit der Leistung
+ja Herr Röntgen, dann baue ich sowieso
+eine Kammer, weil Vakuum
+kann ich ja nicht komplett haben
+und dann baue ich eben das Ganze
+aus dem Stahl oder sogar aus dem Bleimantel
+damit auch die Röntgenstrahlung in der Kammer
+bleibt und ich nicht angezündet werde
+also Röntgenbau, Maschinenbau
+das ist genau der Unterschied
+dass darum letztlich eben
+auch im Anlagenbau
+ja vielleicht eben deutlich teurer wird
+was die
+Effizienz, jetzt sind wir wieder beim Strom
+was wir eben schon hatten
+70% ist eben deutlich
+mehr als 30%
+und trotzdem ist der Invest
+in vielen vielen
+Fällen eben ausschlaggebend
+außer, das wäre jetzt wiederum das
+Pelletier, es wird umso dicker
+je interessanter wird der Elektronenstrahl
+weil
+Laser brauche ich ja immer jeden Millimeter
+1 Kilowatt, wird immer teurer
+und die Beherrschbarkeit
+wird auch irgendwann schlechter,
+kann man ja nicht grundschweigen,
+es geht Schweißung
+halber Meter und mehr.
+Wir brauchen nur die entsprechende Leistung.
+So, also das sind
+dann letztlich
+irgendwelche Leistungszahlen
+jetzt hier, die Steunerungsspannung, die da eine Rolle
+spielen.
+Und hier sehen Sie einfach mal,
+das sind die Wurzelzahlen
+von Leser, das wäre das jetzt
+vom Elektronenstrahl
+und jetzt nochmal absichtlich
+auch gleich dazu gesprochen
+ich kann nicht ohne Vakuum
+also ist bei 70%
+Vakuum erzeugende Pumpe schon mit dabei
+schrumpfig
+weil der eigentliche Elektronenstrahl
+der liegt über 90%
+und deswegen
+ist der auch
+wenigstens dafür im Weltall
+unterwegs zu sein
+also
+Also, auf Weltraumstationen wird mit einem Elektronenstrahl geschweißt.
+Ja, da geht ja jede Menge kaputt, haben Sie mitbekommen.
+Auch die chinesische Raumkapsel hat da ein Problem.
+Da ist irgendwas eingeschlagen.
+Da ist jede Menge Weltraumschrott da unterwegs.
+Und wenn das passiert, müssen Sie ja wieder zuschweißen.
+Dann kriegen Sie ja keine Luft, quasi.
+Auch die ISS, die ist in verschiedenen Segmenten. Das heißt, wenn es irgendwo einschlägt, können die die zumachen und dann müssen sie das Ding aber wieder reparieren.
+Und dafür, weil eh da oben zu wenig Strom ist, weil da sind die Kilowatts richtig wertvoll da oben,
+da ist das natürlich totaler Käse mit Gläser, das zu versuchen mit einem schlechteren Luftdruck.
+Es gibt entsprechenden Einfluss auf die Qualität von dem Vakuum, aber das ist auch wieder so eine Wirtschaftlichkeitsrechnung.
+Auf alle Fälle können Sie sich merken, die Klasse ist deutlich viel älter.
+Das können Sie im Deutschen Museum noch sehen, so was.
+aber natürlich heute auch trotzdem auf modernere Anlagen, das ist ja nur ein geschichtlicher Überblick,
+und das wäre der Astronaut dazu, der tatsächlich früher so gemacht hat,
+heute macht man das eben der Brauer tatsächlich.
+Und das wäre noch das Pendant dazu, auch die Bildröhre, klassischer Art und Weise,
+die Sie wahrscheinlich alle gar nicht mehr so kennen, ja, das ist nichts anderes wie ein Elektronscheinanlagen.
+Sie haben eine kleine Kathode, Sie haben eine Anode, dazwischen ist die Hochspannung und dann beschleunigen Sie die Elektronen Richtung Bauteil.
+Und das ist alles. Alles, was Sie dazwischen haben, sind eher so Fokussiereinheiten und Sachen, die das schön rund machen.
+Das heißt, der Ablenker, das ist in der Ebene, der Fernseher hat das früher 50 Mal in der Sekunde, ist der von innen an die Mattscheibe gegangen und hat dann das Bild erzeugt.
+Das war so ein fluoreszierendes Material und wenn Sie von der Gegenseite geguckt haben,
+ja, dann entstand letztlich ein Bild für Sie.
+Und dieser Effekt, hier unten eben mit dem Ablenker dargestellt, das ist das, was wir
+eben heute nutzen, um, sag ich mal, effizient Materialbearbeitung zu betreiben.
+Gut, dann lange dauern.

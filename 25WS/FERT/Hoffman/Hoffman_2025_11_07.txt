@@ -1,0 +1,769 @@
+eine Aktivierungsenergie entnommen, die dazu führt, dass stabile Keime gebildet werden.
+Stabile Keime werden dann gebildet, wenn diese Aktivierungsenergie, dieses Delta-G, der Schmelzer entzogen wird,
+das ist die Pustenkugel, die er oben hingetragen hat,
+und diese Aktivierungsenergie dazu führt, dass ein stabiler Keim gebildet wird,
+Diese reine durch Temperaturentzug entstehende Keimbildung nennt man auch homogen, weil sie
+nur thermisch geschieht.
+Ist das Keim zu klein, weil die Aktivierungsenergie, die wir aufbringen, nicht ausreichend ist,
+weil wir nicht ausreichend abkühlen, dann zerfällt der Keim wieder.
+hat er die kritische Größe erreicht, wurden ausreichend Keime gebildet.
+Und die Anzahl der gebildeten Keime ist eine Frage der Unterkühlung, der Abkühlgeschwindigkeit.
+Höhere Abkühlgeschwindigkeit, mehr Keime, bis zu einem Punkt, wo wir dann hinkommen
+und sagen, naja, wenn wir zu hoch unterkühlen, das passiert normalerweise in technischen
+Prozessen nicht, dann gibt es gar keine Keime mehr, dann erstarrt eine Schmelze amorph
+in einem ungeordneten Zustand, es werden also keine Kristalle gebildet,
+diese geordneten Strukturen, wo Atome auf bestimmten Gitterplätzen sitzen
+und räumliche Strukturen entstehen.
+Es entstehen auch keine Spherolithe oder Überstrukturen
+und das Korn als solches bildet keine Überstrukturen.
+Wir können zusätzlich eine Kornfeinung durchführen, also ein feineres Korn, nicht nur durch höhere Abkühlgeschwindigkeit,
+wie wir das jetzt hier in diesem Bild gemacht haben. Wenn Sie wollen, können Sie sich davon ein Bild machen.
+Kommen Sie aber am besten wahrscheinlich rum, das würde uns nicht schrecken.
+Dass bei einer sehr schnellen Abkühlgeschwindigkeit, der Kardient entsprechend hoch ist,
+dass eine hohe Unterkühlung stattfindet, dass die Schmelze nochmal erwärmt wird,
+durch die frei werdende Wärme im Zuge der Abkühlung durch Kristallisation auftritt,
+Die gesamte Produktbeauftragung hat zur Folge eine schnellere Abkühlung, höhere Unterkühlung, mehr Keime.
+Mehr Keime auch durch Kornfeinung, das sogenannte Impfen, dass in Fremdstoffe der Schmelze gezielt hinzugegeben werden,
+um dieses feinere Korn entstehen zu lassen.
+Und hier sind wir auf den Maschinenelementen der größten Einflussfaktor spielt eine Rolle bei der Herstellung des Primärgefüges.
+In den Maschinen-Elementen wird es berücksichtigt, dass dickbandigere Bauteile,
+dort wo Materialanläufungen sind,
+dickbandigere Materialien eine niedrigere Festigkeit haben.
+Wir haben das auch in dem Diagramm gesehen,
+was irgendwie auf Seite 80 da irgendwie folgen blieb.
+Im Zunehmen der Wanddicke fällt die Festigkeit eines Produktes ab
+und ich muss das bei der Berechnung berücksichtigen,
+Das grobe Korn, das bei dickbandigen Bauteilen entsteht,
+dazu führt, dass die Festigkeit reduziert wird.
+Habe ich einen Kokilln-Guss,
+also eine metallische Oberfläche im Werkzeug,
+habe ich hohe Abkühl...
+habe ich hohe Abkühlraten,
+Eine hohe Unterkühlung, Wehrkeime und in der Regel ein verteileres Korn.
+Viel schneller anzupacken, die Wärme schneller abzudecken.
+Die Unterkühlung, das heißt die Abkühlgeschwindigkeit,
+bestimmt die Aktivierungsenergie, die der Schmelze entzogen wird.
+habe ich eine hohe Unterkühlung, gibt es mehr Keime, das hat man hier in dem Diagramm gesehen.
+Das hier, hohe Unterkühlung, mehr Keime, ein einiges Gefühl bis zu dem Punkt, der technisch
+typischerweise nicht erreicht wird, wo keine Keime mehr gebildet werden und die Schmelze
+Das führt dazu, dass offenbar eine Wanddickenabhängigkeit besteht für die Kornbildung und man deshalb
+bei Gussbauteilen immer ähnliche oder kaum variierende Wanddickensprünge oder Wanddickensprünge
+Hier ist es so dargestellt, die Fußstücke sollten eine gleiche Wandstärke aufhalten.
+Kickemann in Kern, oberes, drüberes Gefüge, ist hier dargestellt, an dem Bild, das ist
+Das Ergebnis hier links ist z.B. ein sehr grobes Gefüge, rechts kleinere Kornfäungen
+durch eine entsprechende Kornfeinung.
+Hier auch unterschiedliche Kornfeinungen.
+Betrieben links mit Titan und Bohr und rechts mit Bohr.
+Unterschiedliches Gefüge, unterschiedlich feine Kammer, unterschiedliche Strukturen und Eigenschaften.
+Dieses Heterogen als Keimbildung heißt, die Keime entsprechen nicht der Zusammensetzung
+des Gusswerkstoffes und das ist der Betrag, der ich bei einer Homogenen-Kleinbildung brauche,
+um Aktivierungsenergie und stabile Keime zu machen.
+Dieser Betrag, das ist jetzt so wie man das Phänomen erklärt,
+ist bei einer heterogenen Keimbildung, wo das von artfremden heterogenen Keimen rausgeht,
+deutlich niedriger.
+Das heißt, wenn man diese Fremdkeime in der Schmelze hat und genauso schnell abkühlt,
+arbeitet eine niedrigere Aktivierungsenergie und im Zuge dessen
+mehr stabile Keime, ein feineres Gefüge, so erklärt man sich das mittels dieser Zugabe von Impfmitteln,
+wird diese Aktivierungsenergie reduziert und damit feineres Gefüge erzeugt durch mehr stabile Keime.
+Das kann auch z.B. an den Wänden der Gussform passieren, wenn man die Kokillen reingießt,
+wird sehr häufig Wasser an dem oberflächlichen Spritz, die Verseifenlaube,
+um sozusagen so eine Schlichte zu erzeugen, damit die Schmelze da nicht haften bleibt.
+Im Zuge dessen wirkt diese Verunreinigung dem heterogenen Keimbild nach.
+Zusätzliche Keime eines Geflügel an der Oberfläche.
+Also durch Absenkung der Aktivierungsenergie wird bei gleicher Abkühlung ein heterogener
+Das wird immer durch Phänomene umgemacht, da muss man herausfinden, was wird, als Keimchen gemacht und das sind gezielte Verunreinigungen, die in die Schmelze eingebracht werden, um das Gefüge zu feinen und damit bessere Eigenschaften zu erzeugen.
+Kornfeinung, da hinten links und rechts im Bild, deutlich feinerer Ausbildung.
+Hier nennt man Titanbohr, das Beispiel haben wir vorher gesehen, oder das reine Bohr,
+als erzielte Verunreinigung der Schmelze beim Primärsilizium,
+über eukalyptischen Aluminium-Siliziumregierungen, zum Beispiel durch Phosphor.
+Da kann man Nachdrehungen hinzugehen bei Aluminium-Silicium-Regierungen, also das ist eine Frage des Verkehrs,
+was man da reintut, eine gezielte Verunreinigung um eine Zerrüge zu erzeugen.
+Also Absenkung der Aktivierungsenergie, um mehr stabile Keime zu erzeugen und ein feineres Gefüge.
+Dabei müssen Sie jetzt mal gucken, das Bild haben Sie jetzt so, passt das?
+Das ist genauso.
+Da sieht man, wenn ein gleichmäßiges Abkühlen in alle Raumrichtungen passiert,
+gibt es kreisrunde Partikel, Körner, wenn eine bevorzugte Wärmerichtung vorhanden ist,
+zum Beispiel dieses Q, dann sind diese Körner so länglich gestreckt.
+Und das ist ein Nachteil.
+Das passiert stets bei mittlerer Abkühlgeschwindigkeit.
+Und diese Nadel- oder Spengelkristalle haben quer zur Beanspruchungs- oder Wachstumsrichtung,
+hier wird die Wärme stärker weggenommen.
+Und es ist eine mittlere Abkühlgeschwindigkeit, kommt gleich noch.
+Dann entstehen solche orientierten Kristalle, solche Körner.
+Die sind schlecht, weil die quer zur Richtung immer diese Korngrenzen haben.
+Solange man in die nahe Richtung zieht, ist das alles noch in Ordnung, aber an den Grenzflächen
+gibt es oft die Risse und die sind ungleichmäßig verteilt.
+Im Querzug Richtung Ziegen haben sie schlechtere Eigenschaften, sehr sehr ungünstig.
+Man spricht auch bei dieser bevorzugten Wärmeabfuhr je nach Erstarrungstyp von einer endogenen,
+das ist links im Bild, oder exogenen Erstarrung.
+Links im Bild sieht man, wie diese Körner nach innen wachsen.
+Nach außen geht die Wärme weg, Q, nach innen haben wir noch die heiße Schmelze,
+sodass mit zunehmender Zeit T, diese Kristallisationsfront, immer mehr in den Kern gerät.
+Das geht jetzt nur um zwei unterschiedliche Arten, das ist jetzt nicht simultan auftretend.
+Das soll nur das darstellen, wenn ich eine globular- oder spherolithische Struktur habe,
+ist das sehr vorteilhaft, die sind nicht gerichtet, die haben eine glattende und ebene Erstarrungsform.
+Und diese Erstarrungsform läuft in das Material, bis irgendwann der Kern dann auch kristallisiert ist.
+Was passiert? Die Schmelze, wir haben ja die Schwindung, das sich Zusammenziehen des Materiales,
+Diese Schwindung wird ausgeglichen, indem in dem Westquerschnitt hier vorne immer noch
+Schmelze nachfließen kann und diese Schwindung ausgleicht.
+Das ist hier schwierig, weil wenn Sie solche Stengelkristalle haben oder da oben solche
+dendritische Strukturen, die wie so ein Tannenbaum in das Material einwachsen, dann kann die
+Schmelze nicht nachfließen.
+Und weil die Schmelze nicht nachfließen kann, können hier in den Restquerschnitten kleine
+Luker entstehen.
+Und Luker sind Fehlstelle, keine Luft, sondern sind Fehlstelle aufgrund nicht kompensierter
+Schwindung.
+Bei einer Erstarrung haben wir den Volumensprung, das Volumen verkleinert sich, die Moleküle,
+Die Atome kommen näher aneinander, sie gehen auf die Gitterplätze und dabei tritt makroskopisch gesehen eine Volumenschwindung auf.
+Wenn wir die nicht ausgleichen, ist das Ergebnis ein Lunker.
+Deshalb ist das hier für die Strukturbildung schlecht.
+Das ist Antisotrop, das hat richtungsabhängige Eigenschaften.
+Und es besteht die Gefahr, dass Blöcke gebildet werden.
+Den Begriff sollte man kennen. Isotrop heißt was?
+Was heißt Isotrop?
+Warte ich einen Moment.
+Jetzt kommt Chat.
+Ja, ja, ja.
+Ich weiß nicht Chinesisch, aber ich will...
+Ja, ja gut. Aber du musst uns in Deutsch alles beantworten. Ich kann das nicht jedes Stück gesehen.
+Isoprop heißt?
+Warte ich einen Moment.
+Ja, ja.
+Willst du siehst?
+Die Werkstoffe hängen die Materialien nicht von der Richtung ab.
+In alle Richtungen gleich.
+ISO gleich, DROP Richtung.
+Eigenschaften?
+Das Gegenteil davon ist was?
+Eigenschaften in alle Richtungen gleich. Das ist bei so einer Kugelstruktur der Fall.
+Isotrop, anisotrop, dann ist das nicht mehr der Fall. Das Gegenteil.
+Dann sind die Eigenschaften von der Richtung abhängig. Rechts das ist anisotrop.
+Ja? Wegen dieser Orientierung in den Körner drin.
+Schreibt man hier noch ein Wort dazu?
+Dann kommt das jetzt hier noch mal ein bisschen besser durch.
+Ungerichtet heißt keine Richtung, endogen, exogen ist die gerichtete, ungerichtete Verstammung.
+Und dieses Exogen, diese gerichtete Erstarrung mit einer Orientierung drin, ist immer schlecht
+für die Eigenschaften.
+Wegen der Primärkristalle und der Gefahr, dass Lunka drin sind.
+Ich hoffe, das passt so.
+Frage dazu.
+Da besteht die Gefahr, dass keine Schmelze nachfließen kann.
+Bei dem dendritischen, prismaticen, gerichteten, exogenen Erschaffungstyp
+Gefahr von Lunger und Anisotrope eigentlich.
+Dann gibt es Mischtypen.
+Die erstarren an der Wand.
+Im Gussquerschnitt können beide Typen vorkommen.
+An der Wand und am Rand eine exogene Erstarrung in Kugelform und dann in einem Übergangsbereich eine exogene Erstarrung.
+Diese exogene Erstarrung passiert bei mittleren Abkühlgeschwindigkeiten.
+An der Kokirin-Wand haben wir starke Unterkühlung.
+Da kühlt die Schmelze sehr schnell ab.
+Es gibt sehr viele Keime.
+Die ist feinkörnig und endogen.
+In einer Übergangszone, säulenförmig, da haben wir jetzt die exogene Erstarrung.
+Fremdkeime werden von dieser dann unter Umständen in den Kern mitgeschoben.
+Dort findet eine Keimanreichterung statt.
+Und in der Mitte ist es wiederum Endo-Gen.
+Mir fehlt hier was.
+Ich weiß jetzt nicht, ob das noch kommt.
+Irgendwo steht es, ich schätze aber gerne auch hier drin, diese exogene Keimbildung.
+die passiert bei mittleren Abkühlgeschwindigkeiten.
+Deshalb passiert das da in so einem Übergangsbereich und führt letztendlich dazu, dass wir über
+den Querschnitt solche unterschiedlichen Gefühle haben.
+Gussstücke und deren Oberflächen weisen wegen gerichteter Erstarrung oder Ausbildung von Erstarrungsmichttypen
+oft anisotrope Eigenschaften auf.
+Um isotrope Eigenschaften einzustellen, gibt es entsprechende Wärmebehandlungen, Nachglühen.
+Und was man zusätzlich macht, ist das Einglühen durch Druckeigenspannungen, durch eine Stahlkugelbehandlung.
+Die werden an der Oberfläche mit Stahlpummel beschossen, da wird das Gefüge verdichtet
+und es entstehen lokal Druck-Eigenspannungen.
+Wenn Sie das Bauteil auf Zug beanspruchen, müssen Sie erst die Druck-Eigenspannung wegmachen,
+um auf Null zu kommen.
+Das heißt, die Belastbarkeit des Bauteils wird höher.
+Das macht man insbesondere, um die dynamischen Eigenschaften zu verbessern, von Guss-Bauteilen
+aus Brauguss. Egal, ob das jetzt Lamellenguss ist oder Sphäroguss. Die hier in Kempten
+machen das mit jedem Bauteil. Da kommt so ein Raub rein und da wird die Oberfläche
+verschlossen mit Stahlkugeln, um das zu verfestigen.
+Mach mal ein kleines Anmerken da hinten vorne.
+...
+...
+...
+...
+...
+...
+...
+Bei Zug geht der Riss, wenn ich ziehe, Zugbeanspruchung hat, geht der Riss eher auf, mit einer Druckbeanspruchung
+muss ich erst einmal die Druckspannung diversifizieren, dass ich im Null-Bereich bin und somit kriege
+ich nominal höhere Spannungen hin, was die dynamische Festigkeit von Brustbauteilen verbessert.
+Dieses normale Kühlen ist eine Wärmebehandlung, um diese quasi isotopen Eigenschaften einstellen zu können.
+Ja, jetzt haben wir hier so einen Bauteil-Querschnitt, der unterschiedlich ausgeführt ist.
+Hier zum Beispiel so ein Flansch im rechten Teil des Bildes, der da unterschiedliche Querschnitte besitzt.
+Links hat man einen zu kleinen Radius, da werden Stengelkristalle erzeugt,
+durch ungleichmäßige, gerichtete Abkühlung.
+Rechts größerer Radius, gleichmäßiges, ungerichtetes Abkühlen, Globulite.
+Das heißt, man nimmt auch Einfluss auf die Geometrie,
+um die Dinger funktionieren zu machen.
+der Konstruktion von zu gießenden Bauteilen müssen Effekte des Gieß- und
+Erstahnungsprozesses berücksichtigt werden.
+Ich meine, das kann man hier den Leuten im Studium nicht alles aufbürden,
+aber wenn sie ein Gussbauteil haben und jetzt zu einer Gießerei gehen,
+dann werden die sagen, der Radius passt nicht, der muss anders sein.
+Es wird ein Bauteil unter Umständen umkonstruiert, damit es überhaupt gegossen werden kann.
+Sie brauchen Formteilschrägen, sie müssen diese Masseanhäufungen verbreiten.
+Um diesen zu können, müssen die Bauteile unter Umständen anders aussehen,
+als wenn Sie einen Stahlbauteil durch Schweißen zusammenfügen.
+Was jetzt hier nicht vermieden werden kann,
+wenn man sich die Wandstärke anschaut, da oben, hier,
+da fließt ja die Schmelze von oben nach.
+Jetzt habe ich aber hier einen größeren Querschnitt, hier genauso, guck mal, das ist eine viel dickere Wand.
+Und diese Wand hat zur Folge, hier geht die Erstarrung von statt, der dünnere Querschnitt ist früher fest.
+Und wenn der fest ist, kann in dem Bereich, wo eine Schmelze ist, keine Schmelze mehr nachfließen von oben.
+Da ist ein Schmelzenest, wenn dieses Schmelzenest abkühlt, macht es was, die Schmelze zieht
+sich zusammen.
+Und wenn von oben nichts mehr nachfließt, haben Sie an der Stelle einen Lunker, an Masseanholfungen,
+Masseanholfungen, Materialanholfungen haben Sie immer Lunkergefahr, die müssen Sie vermeiden.
+Es geht nicht immer, aber manchmal ist so ein Luker gar nicht so das Problem.
+Hängt auch von der Belastung danach ab.
+Die Säufeln aber vermieden werden, weil sie zu einer inneren Kehrwirkung führen.
+Spannungserhöhung.
+Da geht keine Spannung durch.
+eine Spannungserhöhung und haben eine potenzielle Fehlstelle im Bauteil.
+Okay?
+Machen wir weiter.
+Globulare Kristalle,
+durch gleiche Erstaunungsgeschwindigkeiten in allen Richtungen
+Und das führt zu Globuliten und Sphärboliten.
+Und zwar nicht nur auf die Primärstruktur.
+Hier haben wir das sogar auf das Grafitt gemacht.
+Grafitt erstarrt in Kugelform.
+Weiß noch jemand, wie man das macht?
+Dass man das in Kugeln bringt?
+Eine Schmelzebehandlung über Magnesium, man gibt der Eisenschmelze einen bestimmten Anteil
+Magnesium hinzu und dann wird aus dem Lamellen-Grafik ein Kugelgrafik, mit dem Vorteil bessere Gießeigenschaften,
+bessere Festigkeit. Graphit kennen Sie? Ich mach mal die Tür weiter, damit ihr nicht quietscht.
+Das sind Schmiermittel, das ist ganz weich, das ist Kohlenstoff, das geht zwischen den
+Händen, geht das durch. Eine monomolekulare Schicht von Graphit ist Graphen, und das ist
+ein ganz interessanter Füllstoff. Das haben Sie da drin, das führt zur Schmierung. Wenn
+Motor aus Gusseisen haben, da gibt es immer so kleine Fehlstellen drin, da kann sich das Öl breit machen, da ist das Graphit drin, das hat so eine Schmierung zur Folge.
+Die Kräfte gehen auch ganz einfach besser durch, um diese Kugeln herum führen die nicht zu einer Verdichtung von Kraftflusslinien, weil das so ein weicher Füllstoff ist, das schwarze.
+Chlorophyt. Chlorophytische Gefügen zeigen sehr gute Festigkeits- und Zähigkeitseigenschaften.
+Wir haben gesagt, dort wo die Festigkeit von dem Lamellenguss aufhört, da fängt die Festigkeit von dem Spheroguss ein.
+viel höher. Bei 400-350 Megapaskal ist Schluss beim Graukuss, dann kommt der Sphärurguss.
+Der hat ab 400 Megapaskal dann Festigkeit. Viel, viel besser als beim Lamellengraphit.
+Das hier ist ein Lamellen-Grafik. Dünnwandig gegossen, großes Erstarbungsintervall, Gefahr von Skannenbaumkristallen.
+Hier haben wir zusätzlich ein dendritisches Gefüge und das führt immer zu schlechten Festigkeits- und Zähligkeitseigenschaften.
+Wenn es geht, muss das vermieden werden.
+merken.
+Und fühlen Sie sich
+nicht
+Problematisch.
+Frage dazu.
+Das gilt es zu vermeiden,
+durch die zu berücksichtigende Erstarrung der Bauteile.
+Hier haben wir ebenfalls so einen Gussblock,
+Indem sowohl Stengelkristalle bei mittlerer Abflügelschwindigkeit
+außen feinkörnige Randzone ähnlich vorhin wie diese gemischte exogene
+gerichtete Erstarrung und Endo-Gel im Kern und an der Randzone.
+Hier haben wir Zink.
+Fragen dazu? Bitte fragen Sie, wenn etwas nicht klar ist.
+Wir hatten bei der Erstarrung einer reinen Schmelze drei Bereiche.
+Die Volumenverkleinerung in der Schmelze, die Volumenverkleinerung durch Erstarrung
+und die Volumenkleinerung, Verkleinerung im Festkörper.
+Volumen war aufgetragen, klein v, das spezifische Volumen über der Temperatur, da waren wir
+flüssig, da waren wir flüssig und fest und da unten sind wir fest.
+Dieses Integral von der Gießtemperatur bis zur Entformung haben wir Lukerung genannt.
+Je größer dieses Intervall ist, desto größer ist die Gefahr, dass Luker gebildet werden.
+Und wenn man sagt 3 bis 4 Prozent, zieht sich diese Schnelze zusammen beim Abkühlen.
+Wir müssen das kompensieren.
+Und wenn wir einen einfachen Gussblock haben, haben wir da oben bei Gießtemperatur die Schmelze.
+Das ist das hier. Da ist Gießtemperatur.
+Und das ist die Volumenverkleinerung, die in der flüssigen Phase stattfindet. Das ist von A nach B.
+Warte, ich habe ein Problem. Warum wird das an Flüssigkeit, die Volumen kleiner ist?
+Weil die Temperatur in der Richtung nach links kleiner wird.
+Ah, okay.
+Dann geht das Volumen zurück.
+An dem Punkt da, an dem.
+Da sitzt jetzt...
+Warte, wo?
+Herr Stachel.
+Aber wir können dann nicht schauen.
+Da setzt Erstarrung ein an dem Punkt.
+Dann verkleinert sich das Volumen bei gleicher Temperatur schlagartig.
+Das ist die Erstarrung.
+Von A nach B, das Volumen wird kleiner.
+Je höher die Gießtemperatur,
+je höher die Gießtemperatur,
+schauen Sie,
+bitte schauen,
+das ist diese flüssige Erstarrung,
+erhöhe ich die Gießtemperatur
+und gehe dahin,
+dann habe ich hier ein größeres Intervall.
+Das ist die Volumenverkleinerung,
+die läuft hier entlang der Temperatur
+und trifft dann auf den Punkt, wo die Kristallisation einsetzt.
+Und die setzt immer an von außen nach innen.
+Außen geht die Wärme weg, im Kern wird sie langsamer weggeführt,
+da habe ich eine Restschmelze.
+Da gibt es zwei Varianten.
+Der Außen-Lukas, der im oberen Teil des Bildes entsteht,
+gerichtet durch die Wärmeabfuhr, die Wärme geht auch nach oben in den Bauteilen,
+bleibt diese Restschmelze, das hier ist der flüssige Zustand noch,
+flüssig, flüssig, der muss noch erstarren.
+Und wenn der durch dieses Erstarrungsintervall läuft,
+oder durch diese Erstarrungspunkttemperatur,
+kriegen wir diese Erstarrungsschwindung, Schlagradung.
+verkleinert sich das Volumen und wir können das lösen, in dem von oben Schmelze nachfließt.
+Im Kern, wo noch Schmelze ist. Wenn das nicht der Fall ist, dann entstehen Lunker. Dort,
+wo die letzte Teilmenge Schmelze erstarrt. Vorhin haben wir gesehen, an dem Querschnitt
+von dem Flansch, der dicker war, Restschmelze, erstarrt zuletzt Lunker, weil von oben nichts
+mehr nachfließen kann.
+Deshalb muss nach oben hin der Querschnitt immer größer werden, um Gerichte oben zu
+erstarren und zum Beispiel so einen Außenlunker zu machen.
+Wenn Sie einen Außenlunker haben, schneiden Sie bei XX, bei der Linie da oben, schneiden
+sie ab. Der Lunker ist nicht mehr im Bauteil. Das kann man versuchen zu erreichen. Wichtig
+ist der Begriff, die letzte Teilmenge schmelze, die zuletzt erstarrt, das ist das thermische
+Zentrum. Und jetzt können wir durch Maßnahmen dieses thermische Zentrum weg aus dem Bauteil.
+Da haben Sie nachher einen Lucker drin.
+Sie müssen das in das Reservevolumen, was Sie nachher abtrennen, bringen.
+Und das ist ein sogenannter Speiser.
+Der gleicht die Volumenkontraktion aus, alles, was passiert in der flüssig-festen und flüssig-unfesten
+Phase bei der Erstachung, diese Volumenverkleinerung, beim Eisen 3 bis 4 Prozent.
+So viel Material muss von oben nachlaufen und wir müssen Vorteilschrägen anbringen,
+damit diese Schmelze gerichtet erstarrt.
+Wie man das nicht macht, werden wir gleich sehen.
+Also das thermische Zentrum liegt im Speiser.
+Die Schmelze im Speiser muss später erstarren als das Gutsstück.
+Und damit können wir die Erstarrungsrichtung steuern.
+Umsetzung geschieht über eine kontinuierliche Vergrößerung der Brustteil-Querschnitte zum
+Speiser hin, also nach oben in der Form.
+Dieser sogenannte Speiser in der Form oben aufgesetzt wird und der erstarrt zuletzt.
+Den kann ich über ein exothermisches Gemisch zusätzlich heißer machen, damit erstarrt
+kriegt er eine höhere Temperatur, er starrt zuletzt, oder man kann ihn mit einem wärmenden Material versehen.
+Beispiel 1, so geht es nicht. Warum? Warum entsteht der Lung KB?
+Dort ist ein thermisches Zentrum.
+Da unten ist ein thermisches Zentrum.
+Der Querschnitt, hier muss die Schmelze nachfließen,
+der ist dünner als der.
+Hier wird im Kern ein thermisches Zentrum sein,
+hier entsteht ein Lunger.
+Der Querschnitt ist größer als der.
+Der Querschnitt ist kleiner als der Querschnitt.
+Da haben sie eine Restschmelze, das gibt ein Dunkel.
+Und rechts im Bild sieht man, wie das besser ausgeführt ist.
+Hier werden nach oben hin Querschnitte immer größer.
+Das heißt, größer, größer, größer, größer, größer, das gibt eine gerichtete
+Da ist nachher oben so ein Schmelze-Pool drin, Material kristallisiert und ganz oben, irgendwo
+da an der Einfallstelle, da ist ein Außenlunker.
+Und da wird das Bauteil aber abgetrennt.
+Meinetwegen hier an dieser Linie hier oben.
+Da.
+Da.
+Da wird quer abgeschnitten, der Lunker ist außerhalb meines Bauteiles.
+Das nennt man gerichtete Erstarrung.
+Man steuert die Erstarrung und legt den größten Querschnitt in den Speiser.
+Das thermische Zentrum ist ein Speiser und dort ist dann der Lunker.
+Das Ganze nennt man gerichtete Erstarrung.
+Man macht die Kreisquerschnitte immer größer.
+Die Bauteile werden dicker.
+Was hat das zur Folge?
+Sie müssen, dass das Produkt lunkerfrei ist, den Querschnitt immer größer machen.
+Nicht, wie Sie mechanisch das Ganze auslegen würden, sondern Sie müssen aus dem Prozess heraus
+den Querschnitt immer größer machen, um diese gerichtete Erschaffen durchzuführen.
+Das ist für Leichtbau, auf Deutsch gesagt, scheiße.
+Sie müssen Material da drauf geben.
+Stahl, wenn Sie ein Blech haben, ziehen das tief, schweißen das irgendwo dran,
+können Sie auf die dünne Wand stärken.
+Hier müssen sie prozessbedingt so eine Zunahme des Querschnittes machen.
+Je nachdem wie viel ihr Material schwindet, der Stahl schwindet sehr viel.
+Und deshalb braucht er ja eine größere Formteilschräge, um diese gerichtete Erstattung machen zu können.
+Das Ganze wird mit dieser sogenannten Holgerschen Kreis-Methode gemacht.
+Das, was vom Anguss oder vom Speiser am weitesten weg ist, hat den kleinsten Querschnitt.
+Der Querschnitt wird kontinuierlich vergrößert zum Speiser hin.
+Und Sie machen das als Materialaufschlag.
+Hier ist das dargestellt in dem Bild.
+Links.
+Das, was vom Anguss am weitesten weg ist, ist der kleinste Querschnitt.
+Das ist das, was Sie vielleicht mechanisch brauchen, dieses A1.
+Und hin zum Speiser wird der Querschnitt immer größer, sehen Sie das?
+Das heißt, wenn das jetzt erstarrt, das Bauteil, ich sage jetzt mal als Funktion der Zeit,
+Sie haben so ein Ding da, dann ist das der erste Querschnitt, der komplett fest ist.
+Mit Funktion der Zeit wird das dann so aussehen.
+Hier wird diese Erstarrung immer weiter nach rechts laufen.
+Irgendwann ist der Querschnitt hier, so, und dann sieht man, da kann immer noch von oben her,
+auch bei dem Querschnitt, der sehr weit weg ist, von dem letzten, da kann immer noch Schmelze nachlaufen,
+weil der Querschnitt kontinuierlich größer wird.
+Ja, so läuft die Erstarrung in das Material hinein und Schmelze kann nachlaufen,
+Das Bauteil ist lunkerfrei. Das führt dazu, dass es für den Leichtbau eigentlich uninteressant ist.
+Und diese Lunker kann man auch gar nicht fixen?
+Sie sind immer dort, wo der maximale Querschnitt ist.
+Wo eine Restschmelze ist, wo nichts nachlaufen kann. Was kann man jetzt machen?
+Man kann zum Beispiel, prozessechnisch kann man schon was machen,
+bei dieser Querschnitt, das ist der tiefste Querschnitt in dem Bauteil,
+was kann man tun?
+Man kann schneller abkühlen, indem man zum Beispiel hier ein Kühleisen reinsetzt.
+Sie ziehen die Wärme schneller ab, dann geht die Kristallisation schneller rein.
+Also man kann prozesstechnisch durch Kühleisen lokal schneller kühlen, weil man weiß, da
+besteht eine Lungagefahr, weil eine Massenanhäufung da ist.
+Also man kann schon entgegenwirken, man muss es aber wissen, man muss es sehen, man muss
+es in die Form einbauen.
+Wie gesagt, hier macht man den Querschnitt kontinuierlich größer, in Sachen Leichtbau
+Aber es ist nicht sonderlich hilfreich.
+Das Gusseisen hat ein Räubersfaktor von 1,1.
+Das heißt, die zunehmende Wanddicke ist relativ gering.
+1,1 bis 1,2, beim Stahl bis 1,5.
+Deshalb ist Stahl wirklich total unbedeutend als Gussmaterial.
+macht nur 5% aus, weil er viele Probleme im Gießprozess mit sich bringt.
+Weil er viel stärker schwindet als das Gusseisen.
+Und dieser zusätzliche Kohlenstoff.
+Hier haben wir auch ein Beispiel.
+Also das bildet im Prinzip die Rahmenbedingungen ab.
+Bei einem Stahl, der viel schwindet, der braucht einen höheren Häubersfaktor.
+Das heißt, hier wird die Wand zum Anguss hin immer dicker.
+Das ist nicht besonders effizient. Das ist nichts des Taugungs.
+Deshalb ist Stahlguss relativ unbedeutend.
+Hier im linken und rechten Teil des Bildes
+die Gewichte der Erstarrung eines Gussteiles.
+Es ist grau, dunkelgrau schraffiert, das ist der Bereich, der für das Bauteil nachher gilt.
+Sie sehen hier die Massezunahme, die man macht, damit das Bauteil als solches nun erweitert ist.
+Das Ganze kann man berechnen, die Materialausnutzung, MA, ist ein wichtiger Faktor.
+Das ist die Masse des Gussteiles im Vergleich zu den Hilfsmassen, die in Form eines Gießsystems
+eines Gießsystems und eines Speisersystems angebracht werden.
+Das Gießsystem wird entfernt und der Speiser wird entfernt.
+Oh, sorry, da oben leuchtet der Punkt rein.
+Heißt das, für den Sandguss, wo man sehr viele Speiser einbringt,
+wo das Gießsystem nachher abgetrennt wird, beträgt die Materialausnutzung
+oder die Gusteilausbringung 70%. 30% sind Speiser, sind Gießsystem,
+die werden abgetrennt, das müssen Sie wieder aufschmelzen.
+Das heißt, das ist sehr schlecht für den Prozess und für die Kostensituation.
+Beim Druckguss haben Sie eine Materialausnutzung von 95%.
+Warum ist die Höhe beim Druckguss?
+Beim Druckguss wird das Volumen ausgeglichen durch Druck.
+Wir haben einen Stempel, der Schmelze in die Form nachdrückt.
+Deshalb ist die Gussteilausbringung beim Druckguss, die Nachspeisung wird durch Druck gemacht.
+Nicht durch diese vergrößerten, das auch, größeren Querschnitte, aber in erster Linie durch Druck,
+indem Sie die Schmelze durch den inneren Kanal weiter in die Form reindrücken.
+Einverstanden?
+Ja, das hat die Bilder gezeigt,
+wo man das ganze Gießsystem und die Schweißer auf dem Bauteil drauf hat,
+das wird nachher abgeschoben und entfernt und dann wird die Kugelschrei in der Oberfläche durchgeführt.
+Haben Sie es?
+Warte ich einen Moment, das ist ja...
+Ja, okay, fertig.
+Dann haben wir ein Beispiel, wie wird die Materialausnutzung beim Gießen bestimmt.
+Ich brauche mal eine Prüfungfrage.
+Dann habe ich, wie groß ist die Materialausnutzung, wenn gleichzeitig zwei Bauteile gegossen werden?
+Also 2 mal 20 Kilo. Die Masse des Gussteils ist 40 Kilo.
+Für ein Bauteil jeweils ein Schweißer benötigt wird, MS ist 5 Kilo, GS ist das Gießsystem.
+Das Gießsystem, das Angusssystem wiegt 5 Kilo.
+Wie groß ist die Materialaufnutzung?
+80%.
+80%?
+Ja.
+Das sind zwei Beurteile, die muss man einfach lesen, verstehen und kurz schnell rechnen.
+By the way, wenn eine Prüfungsfrage kommt, ist das das einzige, was gerechnet wird bei mir.
+Ja, deshalb brauchen sie auch keinen Rechner.
+Okay. Brauchen keine Rechner?
+Nee, nicht. Aber er ist zugelassen.
+Nicht programmierbar. Ich glaube, der Gaber lässt etwas rechnen.
+Oder?
+Ja, haben wir viele.
+Und ja, hier hat man das eigentlich auch ein bisschen falsch rum gemacht.
+Die Erstarrung läuft ja nach oben und oben wird der Querschnitt kleiner.
+Ungünstig. Normalerweise müsste das wie so ein V aufgebaut sein.
+Nach oben muss der Querschnitt größer werden.
+Und dann haben wir irgendwie einen Außenlunker, aber hier geht der Lunker in das Bauteil hinein.
+Weil der Querschnitt nach unten hin größer wird, ist die Luka-Gefahr entsprechend größer.
+Und Luka machen immer innere Kerben.
+Jetzt ist das Gusseisen sowieso schon total spröde, 1% Bruchdehnung, 0,8%.
+Wenn wir zusätzlich innere Kerben haben, das Material kann so eine Spannungskonzentration nicht abbauen.
+Führt zu einer erhöhten Spannung und dann zu schneller Risseinleitung und Rissewachstum und zum schnellen Bauteilversagen.
+Lunker vermeiden.
+This one.
+Niedrige Gießtemperatur.
+Hohe Gießtemperatur
+wird die flüssige Schwindung immer größer.
+Immer möglichst
+nah an dem Kristallisationspunkt.
+Das Gusseisen
+in der Eisengießerei
+das hat so irgendwas
+1400 Grad.
+Kommt in eine Pfanne rein,
+steht da noch rum, kühlt noch ein bisschen ab, man ist relativ nah, versucht man an der
+Erstarrungstemperatur zu bleiben, muss aber immer noch flüssig genug sein, dass es fließt.
+Konstruktive Maßnahmen, eine Nachspeisung und locker außerhalb leben, das ist jetzt
+Da springen wir jetzt mal zurück.
+Weitere Probleme sind sogenannte Warnrisse.
+Das ist so ein Beispiel, was wir haben.
+Da habe ich ein Schmelze-Netz.
+Da ist der Querschnitt am größten, wo jetzt der rote Punkt ist.
+Und das führt dazu, dass in dem Querschnitt hier,
+Da, wo diese Pfeile sind, wo die Schwindkraft entsteht.
+Was wird dieser Schwindkraft entgegen?
+Die Form.
+Und deshalb steht die Form hier und die verhindert, dass das Bauteil da reingeht.
+Und deshalb können Warnrisse entstehen aufgrund zu hoher Schwindung.
+Dem kann man so ein bisschen entgegenwirken, indem man im Bauteil so genannte Reißrücken macht.
+Dann werden die Risse nach außen verlegt und diese Reißrücken werden entfernt.
+Oder man legt ein Kühleisen an, dass der Querschnitt schneller erstarrt und wir nicht
+dieses Restvolumen haben an Schmelze, wo Lücke entstehen kann und wo die Warnrissneigung
+bezahlt wird.
+Das ist im Übrigen das Riesenproblem beim Stahl, der hat ein großes Erstarrungsintervall,
+der hat eine hohe Schmelztemperatur, die sie brauchen und deshalb hat der eine Warnrissneigung
+und führt zu vielen Problemen im Gießprozess, deshalb wird Stahl selten gegossen.
+Immer wieder das Ganze vor diesem Hintergrund.
+Die drei Schwindungsarten flüssige, feste, Dammungsschwindung, wo das Material flüssig und fest ist,
+und da unten diese Festkörperschwindung.
+Das müssen wir auch berücksichtigen mit einem kleinen Aufmaß auf unser Bauteil.
+Warmrisse, Kaltrisse können ebenfalls entstehen.
+Warmrissempfindliche Gusswerkstoffe, da ist der Stahlguss, Zetterhagguss, Aluminium, Magnesium und einige Kupferlegierungen.
+Um starre Dauerformen, eine Kukille aus Stahl, die ist stabil, die Sandform, die wird es wegdrückend machen.
+Die hat wenig Widerstand, die steigern eben die Rahmenwisseneigung bei Druckwissformen oder Kukillen.
+Und entsprechend nicht warten, bis das Bauteil auf Raumtemperatur runter ist, weil es sich immer weiter zusammenzieht,
+sondern wenn das Bauteil ausreichend erstarrt ist, entformen, raus aus der Form, damit keine Risse entstehen.
+Das haben wir ja gesagt, die Beschwindung ist auch von der Geometrie abhängig.
+Anschließend wird geputzt, maschinell.
+Hier hat man so einen Keramikschleifkörper.
+Die kommen mit in so eine Taubemaschine oder so eine Art Waschmaschine,
+wo die Bauteile gedreht werden.
+Oder es wird halt hier bestrahlt.
+Dieses Putzen, das Abtrennen der Angüsse, das Abtrennen der Speiser kann bis zu 30 Prozent der Herstellkosten ausmachen.
+Also das ist sehr lohnintensiv.
+Maschinelles Putzen, hier haben wir die Schleifkapper drin, die Bauteile, das harte Material, da wird die Oberfläche dann abgetragen, die Krate werden entfernt.
+Manchmal entsteht zwischen Ober- und Unterkasten so ein Druck, der geht ein bisschen auf und dann gibt es so ein Grad, der entsteht, wo da Schmelze reinfließt.
+Das wird damit entfernt.
+Geziefte Veränderungen des Werkstoffzustandes und damit seiner Eigenschaften durch Temperaturzeit folgen als definierte Wärmeverhandlung.
+Wir haben vorhin gesagt, dass Spannungsarmen glühen, z.B. im Abbau von Eigenspannung.
+Achtung.
+Ich habe einen Gussblock.
+Das ist ein Querschnitt von einem Bauteil.
+Der erstarrt ja in alle Richtungen. Im Kern ist so ein Schmelzenest vorhanden.
+Die Schmelze, da hinten ist zum Beispiel dann das Gießsystem, sitzt da hinten drauf.
+Und da kann von oben noch Schmelze nachfließen. Im Kern.
+Ich schaue mir jetzt den Querschnitt an.
+Was passiert, dass sie jetzt fest, den Kern machen wir rot, weil er flüssig ist und heiß.
+Was passiert in diesem Querschnitt?
+Denn diese Schmelze, die noch flüssig ist, hier oben ist die Gießtemperatur und die erstarrt noch und zieht sich soweit zusammen.
+Der äußere Rad ist fest, der ist kalt.
+Was passiert, wenn der Kern, diese flüssige Schmelze, sich zusammenzieht?
+Was passiert mit den äußeren Schichten?
+Die Stimmrisse in der äußeren Schicht.
+Was passiert denn an Spannungen?
+Extrem hohe Spannungen.
+Welche Spannungen?
+Eigenspannungen im Körper.
+Ja, Eigenspannungen sind richtig.
+Spannungen, die im Bauteil vorliegen, ohne dass von außen Kräfte oder Momente wirken.
+Aber welches Vorzeichen hat die Kraft, die außen wirkt, wenn der Kern sich zusammenziehen will?
+Er versucht die äußere Haut mitzunehmen.
+Was wird mit den äußeren Schichten passieren?
+Was passiert mit der äußeren Schicht, wenn der Kern sich zusammenzieht?
+Die schrumpfen.
+Wir haben Druck-Eigenspannung.
+Die äußeren Schichten werden zusammengezogen.
+Der Kern will das machen.
+Unter Umständen schafft er es gar nicht.
+Nimmt die äußeren Schichten gar nicht so richtig mit.
+Das heißt, außen entsteht eine Druck-Eigenspannung, weil die Schichten zusammengezogen werden.
+Außen entsteht Druck-Eigenspannung und im Kern, da wo die Schmelze sich zusammenziehen
+Der äußere Rand will das verhindern, entsteht im Kern Zug-Eigenspannung.
+Zug-Eigenspannung, die steht im inneren Gleichgewicht.
+Außen Druck, innen Zug.
+Wenn Sie das ausgleichen möchten, machen Sie ein Spannungsarmklön bei 250 Grad.
+Da wird der Querschnitt noch mal erwärmt, dann führen Sie die Temperatur ganz langsam
+ab, damit kein großer Gradient an Temperatur unterscheidet.
+Da haben Sie außen vielleicht schon 70, 80, 100 Grad, im Kern noch, was weiß ich, beim
+Aluminium 700, 800 Grad, da ist der Temperaturgradient entscheidend, zwischen außen und innen.
+Außen kühlen Sie schneller, der Rand ist Schicht, die Randschicht ist da, der Kern
+Er zieht sich zusammen, will den Rand mitnehmen und es gelingt ihm unbedingt.
+Ja, außen Druck, innen Zug, so können sich Spannungen reduzieren.
+Sie können das normal grünen, um diese mechanischen Eigenschaften zu vergleichen.
+Das sind Härten und nachfolgendes Anlassen zur Verbesserung der mechanischen Eigenschaften
+So arbeiten wir hier bei den Metallmaßnahmen zur Qualitätssicherung, Stichproben, Endkontrolle.
+Lassen wir mal weg.
+Hier sind typische Fehler aufgetreten.
+Fehler in der Zusammenstellung, die auftreten kann.
+Hier ist ein Kernversatz.
+Warum kann der Kern sich versetzen?
+Das könnte Ursache sein.
+Wenn Sie die Schmelze füllen, das Bauteil, die Schmelze fließt an den niedrigsten Punkt,
+da ist der Anschritt, jetzt geht die Schmelze nach oben und die Schmelze umschließt den Kern,
+die innere Bauteilkontur, da sitzt so ein Kern drin.
+Was ist mit dem Kern, wenn der in der Schmelze drin ist?
+Der kriegt einen Auftrieb, weil die Dichte niedriger ist.
+Das ist wie wenn Sie einen Sarg versuchen, in Wasser nach unten zu drücken,
+der verdrängt das Flüssigkeitsvolumen und hat eine niedrigere Dichte.
+Hier ist die Dichte hier niedriger, des Kernes, und der schwimmt nach oben.
+Das heißt, er kann versetzt werden, wenn der kein Widerstand da ist.
+Dann gibt es so einen Kernversatz, dann ist das Ding unruhig.
+Aufgeschwommener, loser Sand.
+Wenn Sie einen Anschnitt machen, Schmelze fließt von oben rein,
+dann haben sie so einen Anschnitt, da bildet sich unter Umständen ein Freistrahl.
+Der Freistrahl schießt auf der anderen Seite in den Sand rein.
+Der Sand wird gelöst und schwimmt nachher in der Schmelze nach oben.
+Das sind diese sogenannten Schlattenstellen, die nennt man auch Schülken
+oder wenn es so längliche Risse sind, Rattenschwänze.
+Das heißt, da hat sich die Form aufgelöst aus dem Sand.
+Da wird nicht Sand gelöst, weil die Schmelze zu aggressiv, zu schnell, mit zu hohem Druck
+da rein gegossen wurde.
+Das sind so typische Stellen, schlecht verdichtet, schlechte Oberfläche, typische Fehler.
+Sand und Schlacke ist leichter als Fusseisen, schwimmt nach oben auf.
+Der Kernversatz führt dann zur ungleichen Wanddicke.
+Meistens geht der Kern nach oben, mitunter muss man den Kern gegen dieses Aufschwimmen stabilisieren.
+Schilpen, Rattenschwänze überall auf der Oberfläche, innen und außen,
+möglich, schlecht verdichtete Stellen, besonders an formhäftigen einragenden Lenden,
+die schlechten Figuren, Sandausdehnungsfehler, Formstofftrennung sehr heißen Stellen in der Hand.
+Dieser Sandausdehnungsfehler, ergänzend hier noch als Rattenschwänze bezeichnet,
+Schmelze tritt in die Oberfläche ein, von der Form.
+Die Oberfläche wird dann rausgelöst und nachher haben sie so einen Knubbel auf der Oberfläche
+und von ihrem Bauteil drauf, da wo der Sand weggegangen ist.
+Der Sand selbst schwimmt dann in der Schmelze nach oben und liegt dann nachher im Bauteil vor.
+Um hier an seine Seite zu schauen
+war das schonn ein guter Punkt.
+昔
+Ich bin noch nicht fertig.
+Was willst du machen, aber es geht.
+Auf diese Weise många Forderungen.
+Jetzt ist es nur noch die Frucht.
+Es ist natürlich nicht nur eine Akropa
+Große Frage, Sie haben das hier komplett, Sie haben noch eine Frage?
+Nein, keine.
+Alles gut.
+Ja, genau, das Rote fehlt immer, das ist so ein bisschen ein kleiner Hinweis, was fehlt.
+Okay, dann, das haben Sie, die Bilder, ja, ungünstige Ausführung links, links oben
+Masseanhäufung, bei dem V dort Masseanhäufung, bei dieser Sternsverwippung Masseanhäufung.
+Was passiert hier bei dem Bauteil? Das hat man jetzt ausgekehrt, so wie hier.
+Dann ist es nicht so dramatisch, jetzt haben Sie überall gleiche Wandstärke.
+Wenn Sie so eine Masseanhäufung haben, das zieht in die Richtung, das zieht in die Richtung,
+in die Richtung, das gibt so dermaßen Spannung und Bauteilverzug.
+Und das ist ja normalerweise nur eine ausgebrachte Rippenstruktur,
+da liegt ja auf der anderen Seite noch eine Wandstärke.
+Man macht die Rippen zur Verstärkung, zur Strukturversteifung,
+führt aber dazu, dass ungleichmäßige Schwindung jetzt hier herrscht,
+wenn Sie diese Kerneinlage nicht haben,
+gibt es noch Spannungen in der Richtung,
+im Querschnitt gibt es Einspannungen, die vorhanden sind,
+sind und dann verzieht sich das Bauteil komplett in der Fläche.
+Gibt eine Torsion, gibt Zug, gibt Brüsse, funktioniert nicht.
+Da muss man so einen Kern einlegen. Was besser ist, ist diese hexagonale,
+eins, zwei, drei, vier, fünf Hexagon, sechs Ecken.
+Das ist diese Wabenstruktur, die eine ziemlich gleichmäßige Wandstärke
+in dem gesamten Bereich hat.
+Weiß jemand, wo das Prinzip herkommt, diesen hexagonalen Dingen?
+Wenn Sie im Flugzeugbau unterwegs sind, werden sehr häufig Materialien gemacht, zwei Deckschichten
+und im Kern gibt es dann so eine Honigwabe, so eine Honigwabenskulptur.
+Das ist eine ideale Leichtbau-Kombination von Materialien, die auf Biegung beansprucht
+werden. Kompakte Deckschichten und im Kern so eine Papierwabe, die wird dann imprägniert
+Imprägniert dann mit einem Epoxidharz zum Beispiel.
+So was. Das ist die Honigfarbe. Da kommen Deckschichten drauf. Hier sind die Dinger.
+So wird im Flugzeugbau eingesetzt. Damit können Sie den Abstand der Deckschichten erhöhen
+und Sie kriegen eine Biegestreife, leichte Konstruktion, insbesondere bei Biegung von
+von Interesse. Hier sieht man die Dinger. Hier ist ein Aramidkern, Aluminium, kann man das auch machen.
+Wie sieht man diese Struktur, wenn sie dann so ausgeschnitten ist?
+Leicht schwarze PP.
+Kernmix.
+Das ist so ein Kern aus Polypropylene.
+Die haben, um die Spannung gut reinzubringen, in die Oberflächen schicht und intern die Spannung reduziert zu halten,
+diese klassische Sechseck-Konfiguration.
+Hier ist ein älteres Bild hier.
+Schütz, der macht so Honigwagenstrukturen für Windkrafträder, das sind solche Geschichten.
+Da kommen Speckschichten drauf und damit haben sie eine schöne Leichtbaukonstruktion.
+Wir waren aber beim Gießen, hier nutzt man das, um möglichst niedrige Geschwindigkeitsmöglichkeiten zu machen.
+Es gibt eine entsprechende Norm, wie man Gussbauteile zu konstruieren hat.
+Da werden solche Vorschläge gemacht, wie wir sie jetzt hier sehen.
+Oben, ganz kurz, sieht man, da ist so eine Einbuchtung im Material.
+Um die Mannstärke konstant zu halten, um diese Masseanhäufung zu verhindern,
+um so eine Masseanhäufung zu verhindern, auch hier ein reduzierter Querschnitt.
+Damit geht die Erstarrung über die gesamte Mannstärke nahezu identisch vonstatten
+und ich habe die Gefahr von Lungerbildung reduziert.
+Es gibt, wie gesagt, so eine Norm, wo man, das Bild haben Sie nicht?
+Wir haben tatsächlich nur das Bild.
+Das hier, das andere nicht?
+Das andere nicht.
+Ah, das ist ein Fehler, machen Sie hier ein Foto.
+Dann noch ein Foto, ergänzen Sie das, das ist mir wichtiger, eigentlich, als das andere Bild.
+Das ist mir bei der Präsentation da drüber gerutscht.
+Ich hätte das da rausnehmen müssen oder die Seite doppelt machen.
+Hier sehen Sie aber auch die Olpersche Kreismethode, Masseanwälfung, Katastrophe, Gefahr von Lunkerbildung,
+Eigenspannungen sind hoch, Bauteilverzug ist eine Gefahr, rechts ist eine günstige Variante,
+Kleinerer Querschnitt, maximal 1,2.
+Sie sind wahrscheinlich auch mit Masseanwölfung, aber vielleicht kommen Sie mit dem Dunkelherum.
+Was kann man noch machen, vom Prozess her, von der Form?
+Kühleisen.
+Da ein Kühleisen hin, geht die Kristallisation schneller rein, Dunkelwilferie.
+Ja?
+Rechts das Ding, das haben Sie, das sieht genau so aus.
+Schauen Sie, größere Radius angebracht oder in die Kreisquerschnitte reingegangen.
+Besser, um Lukas zu vermeiden.
+Könnten wir das auch fotografieren?
+Haben Sie das auch nicht?
+Ja, auch nicht.
+Das haben Sie, oder?
+Nein, nicht, nur diese.
+Bei Ihnen ist es andersrum.
+Sie haben die alte Präsentation, stimmt's? Aus dem letzten Jahr.
+Ja, ja, er hat die alte Präsentation. Da ist noch das Dreieck drin, das fehlt da unten.
+Ich habe das umgestellt. Das ist neu. Und die anderen Präsentationen werden jetzt auch neu.
+Dann allerdings das nächste Mal, falls Sie wieder da sein sollten.
+Klappe zu, auf das Boot, schönes Wochenende.
+Okay.
+Dankeschön.
+Danke.
+Warte ich einen Moment, Professor.
+Ja.
+Habe ich jetzt kurz Zeit?
+Ja.
+Ich habe zwei Probleme.
+Am ersten ist viel, viel, viel, viel.
+Wenn die Kugel kühl ist und innen keine Festigkeit ist, aber auch keine Flüssigkeit, dann würde die Kugel lukewarm sein.
+Aber Sie haben schon gesagt, dass die Kugeln die beste Form sind, aber Ihnen haben Kugeln, wie kann man das absolvieren?
+Die Kugeln, wir haben beim Gusseisen mehr Kohlenstoff, der Kohlenstoff fällt als Graphit aus, im Stahl ist der Kohlenstoff im Gitter.
+Und wir haben aber mehr Kohlenstoff drin, deshalb fällt der Kohlenstoff entweder als
+Lamelle an, beim Grauguss, beim Lamellen-Graphit, und wenn ich eine Schmelzebehandlung mache
+mit Magnesium, dann liegt der als Kugelform vor.
+Das ist besser für die Spannungen und das ist auch besser für die Schwindung.
+Ja?
+Ja, okay, ich verstehe.
+Und für andere Probleme, aber das war nicht die Fertigung.
+Hoi!
+Ja, ja, ja, jetzt, Achtung.
+Gestern habe ich das
+auch geführt,
+ach so, gestern habe ich schon gesagt,
+aber ich verstehe diese nicht,
+warum diese...
+Das ist zusätzlich.
+Zusätzlich?
+Additional.
+Von da,
+Wenn ich da, in dem Punkt, wieviel ist die Feder 1 eingedrückt bis dahin, die Feder 1, bei 20 Newton, 2 Millimeter, die zweite ist 1 Millimeter, die Kraft geht durch alle hindurch?
+Ja, aber das erste Mal haben wir die 3,76 mm Stärke.
+Ja, 2 mm, 1 mm und die dritte, also hier, 2 mm.
+Ja, warum? Diese ist 1 mm und diese ist 0,67 mm.
+Steifigkeit.
+Steifigkeit.
+S1, S2, S3, S1, S2, S3, S1, 1mm, S2, 1mm, S3, 0,76, 2, 1, 0,76, 3,67, geht durch alle hindurch.
+Jetzt ist der Deckel da oben drauf, keine Verformung mehr.
+Ab dem zweiten Prozess höhere Steifigkeit, weil die eine Feder ist raus, eins ist weg, keine Verformung mehr und jetzt gibt es noch ein Millimeter für zwei.
+Hier ist schon ein Millimeter nach unten, da noch ein Millimeter, legt ihr auch auf.
+Und das ist dann bei 40 Newton Gesamtkraft oder von hier aus zusätzlich 20 Newton zusätzlich, von 20 auf 40.
+40, ja.
+Ah, okay, dann ich weiß, wenn ich schlafe, wenn ich was nicht mache.
+Das war ein Millimeter, das war zwei Millimeter.
+Okay, aber bei 40 Newton, bei 40 Newton, F ist C mal S, 40 Newton, S ist F durch C, 40 Newton durch C2, 20 Newton pro Millimeter,
+Das sind 2 mm. 40 Newton Gesamtkraft.
+Achso, am gestern, ich habe auch eine Frage für Chalichi.
+Aber Chalichi sagte, dieser war ca. 8 mm.
+Ja, das jetzt. Gut. Danke.
+Danke, danke, danke.
+Tschüss. Schöne Wochenende.
+Das ist ein 1mm Schraubenzieher, das ist für das Garlice da drüben.
+Okay, tschüss.
+Ah, ich bin so müde.
+Du gehst jetzt ins Fitnessstudio?
+Ich gehe jetzt ins Fitnessstudio.
+Du gehst jetzt ins Fitnessstudio?
+Ich gehe jetzt ins Fitnessstudio.
+Ich esse jetzt das Brot.
+Es ist ein bisschen zu spät.
+Okay.
+12.

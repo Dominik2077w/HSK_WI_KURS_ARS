@@ -1,0 +1,676 @@
+Ich habe das Ding geschrieben, schau.
+Wieso geht es nicht?
+Aber er sagt, es ist eh nur nicht Note.
+Er schaut sich an, es ist noch keine Note.
+Note ist ganz am Ende.
+Du darfst es nochmal überarbeiten.
+Du kannst es verbessern nochmal.
+Es ist nur, er guckt es nicht.
+Diese Abgabe soll immer eigentlich zur Verbesserung dienen, sodass wir nicht alles am Ende abgeben müssen und dass wir zwischendurch sagen können, ja an der und an der und an der Stelle kann man das Ganze nochmal verbessern.
+Insbesondere halt jetzt gerade das, was wir jetzt die ersten Wochen gemacht haben,
+dass wir das so mal eintüten und in die Form bringen,
+wo man sagt, das würde so am Ende dann ja auch so abzugeben sein.
+Das heißt, geben Sie mir das in die Hand, ich dokumentiere dann letztendlich auch diese Gruppen,
+das ist dann im Prinzip einmal diese Abgabe, deswegen heißt es hier,
+mit der ersten Abgabe, da gilt die PSA als angetreten,
+Ja, also dann müssen wir sozusagen beim nächsten Mal auch noch diese Prüfungsanmeldung dokumentieren.
+Und dann läuft das Ganze.
+So, dann können wir das direkt machen.
+Jetzt läuft es kurz mal aus.
+Wir haben ja den Tag, die Stunde und die Zeit, sodass wir hier alles beieinander haben am Ende des Tages.
+Den Weckblatt brauchen wir, sodass wir hier alles beieinander haben.
+Oder habe ich mir den Weckblatt letztes Mal überlassen?
+Ich habe doch den Weckblatt ja schon ausgeholt.
+Kommt sie noch?
+Aber sie hat doch noch den Namen draufgeschrieben.
+Ja, wir haben es auch nicht mehr.
+Ihr schaut, schaut irgendwo, wann die sind.
+Kommt sie noch jetzt was in der Abgabe, was sie verändern oder drucken oder ist es jetzt schon fertig?
+Es ist fertig.
+Sehr gut.
+Bei mir sind Parteienanalyse als Gipfel zufällig zu beherrschen.
+Ja, genau, das machen wir.
+Sie geben es heute ab, und dann können Sie das zukünftig noch verbessern, was mir dann auffällt.
+Ja, Deckblatt.
+Was wollen Sie jetzt noch machen?
+Ich denke, zum Beispiel, wir müssen es anders machen, Notizen, Musik, genau, zum Beispiel.
+Wollen Sie es jetzt noch verbessern oder? Jetzt gleich noch verbessern?
+Bis wann?
+Bis Ende der Stunde, sage ich mal. Ende der Stunde.
+Also wenn Sie jetzt sagen, Sie nutzen den Zeitrahmen heute noch.
+Also ich sage mal hier, am Termin, der Termin ist heute 12 bis 13.30 Uhr.
+Also wenn Sie das um 13.30 Uhr fertig haben, ist das in Ordnung. Sonst nämlich so.
+Heute haben wir andere Aufgaben für die nächste Bestellung.
+Ja, genau, das kommt jetzt dann gleich, wenn Sie hier fertig sind.
+Ansonsten können Sie an dem nur weiterarbeiten und ich zeige Ihnen gleich das Weitere.
+Genau.
+Wollen Sie es abgeben? Genau, das müssen wir überlassen.
+Ende der Stunde, zack.
+Geht ja für Sie genauso, wenn Sie jetzt sagen, hier, wollen Sie noch etwas aufsuchen,
+oder vielleicht noch ein bisschen mehr.
+Ja, genau.
+Verstanden, das haben wir jetzt geschrieben.
+Du bist schon verrückt.
+Was machst du jetzt?
+Was machst du jetzt?
+Ich muss mal messen.
+Du musst mit deinem Witz nicht mit uns zusammenarbeiten.
+Ja, ich schreibe es so auf der Liste.
+Ich habe dir zu Beginn gesagt, dass es 1.2 oder 1.3 ist.
+Dann ändere es.
+1.2 oder 1.3.
+Verändere nicht 3.1, sondern 1.3.
+Dann schreibe ich es so auf der Liste.
+Dann schreibst du es auf deiner eigenen Liste.
+Sonst...
+Kann man das...
+Kann man das...
+Kann man das...
+Verändern?
+Oder...
+Ich schreibe es so auf der Liste?
+So.
+Er sagt, dass das gut ist.
+Ich habe nicht gefragt.
+So, was machen wir hier?
+Ada, hast du noch ein paar Dinge, die du verweigern kannst?
+Ich kann das nicht.
+Ich mache es jetzt noch einmal.
+Schreib es mir bitte.
+Wir machen es noch einmal.
+Okay.
+Ich mache es noch einmal.
+Wir machen es noch einmal.
+Das war nicht notwendig.
+Ich kann das noch einmal.
+Das ist gut.
+Wir machen es noch einmal.
+Ich schreibe es noch einmal.
+Ich schreibe es noch einmal.
+Ich stelle Ihnen ein paar Sachen wieder ins Netz, und zwar die Anleitungen zu dieser methodischen Konstruktion.
+Die geht im Prinzip hier los mit der Konstruktionssynthese.
+Und diese Konstruktionssynthese, die hat ein paar Inhalte, die man halt so ausformulieren, wenn man so möchte.
+Das heißt, ab jetzt geht es letztendlich in die Ausarbeitung, in die Ideenfindung
+Das heißt, ab jetzt müssen wir uns überlegen, was machen wir jetzt an dem System neu
+und wo ist dieser neuartige Ansatz
+Und beginnen tut das Ganze mit einer Funktionsstruktur, dass man letztendlich die Funktionen zusammenfasst
+Die Funktionsstruktur basiert eben auf der jeweiligen Grundfunktion, die eben ein Element ausführen muss.
+Wenn wir uns jetzt hier diese Radnabe zeichnet haben, das ist schon mal sehr, sehr schön,
+dann haben wir ja in dieser Radnabe hier vorne beispielsweise Funktionen, die sind ja schon definiert.
+Jetzt wollen wir dann sehen, was wir hier, über was für ein Programm haben Sie das eigentlich gemacht?
+Was ist das für ein Programm? Ist das so blau?
+Das soll nicht works?
+Ja, das ist CREO.
+CREO, ach CREO ist das.
+Ah, okay, gut.
+Dann machen wir das mal blau.
+CREO.
+Das war nochmal die
+original
+Ja gut, dann schauen wir uns das an.
+Wir haben das gemacht, dann steht das
+dabei, Name,
+wer das erstellt.
+hier, das ist so komisch vom Druck her, das schaut so komisch aus, wir haben das erstellt, hier, also schreibt bitte den Namen drauf, erstellt, oder im Original dann, genau,
+Das nehmen wir damit. Das heißt, vorne haben wir die Funktionen definiert, die sind aber hier noch sichtbar.
+Dann müssen wir dann noch mal schauen, was hier passiert.
+Was ist das? 66,96.
+Dann machen wir das diskret und so.
+Normalerweise steht ja diese Angabe so.
+Das ist eine komische Darstellung. Ich weiß nicht, warum das Kreo das so darstellt.
+Hier, das müssen wir noch mal schauen.
+Das sind überall.
+Haben Sie das Dokument da? Können Sie das öffnen?
+Ja, aber nicht hier. Das ist an meiner Karte.
+Weil da müssen wir einige Einstellungen verändern, damit es diese Radien hier nicht in dieser Form anzeigt.
+Also die Einstellung, das gehört im Prinzip in dieses So.
+Also So ist eigentlich der Durchmesser.
+Durchmesser 66 und dann kommt da irgendwas dahinter noch.
+Die Enttoleranz.
+Also ich mag die doch nicht.
+Das müssen wir vielleicht noch überarbeiten.
+Genauso wie hier zum Beispiel, das macht man mit dem Zipfel, wenn das hier steht.
+Das tut man in der Kategorie.
+Und dann haben wir hier noch die Rechnung, das bringt uns alles so in die Form, dass es zusammenhängt.
+Das war's für heute, bis zum nächsten Mal, tschüss!
+Hier kann es auch sein.
+Wir brauchen ja in dieser These ein Ziel, das wir verfolgen.
+Das Ziel ist immer ein neuartiger Ansatz, ein neuartiger Entwicklungsansatz.
+Das heißt, ausgehend von dem, was wir jetzt haben, müssen wir dann irgendwann einmal etwas Neues machen.
+Da gibt es verschiedene Ansätze, die habe ich Ihnen hier in der Ruhe mal zusammengestellt.
+Das könnte man quasi so zusammenfassen, dass man sagt, konzeptionell neue Ansätze, das
+Das sollte es hier wahrscheinlich nicht geben, weil es eine Rahmenlageeinheit ist, die besteht halt schon ein paar Jahre.
+Physikalisch-technisch neuer Ansatz, beruhend auf neuen Berechnungsmethoden, CRE, FEM, Simulation.
+Das könnte man sich sicherlich vorstellen, dass man im Prinzip neue Werkstoffe verwendet.
+Man braucht mal das Ganze, dass man hier natürlich irgendwo das Ganze digitalisiert.
+Das hat man natürlich auch, wenn Sie da vorne mal schauen, in dieser Einheit ist bei mir schon ein Sensor verbaut.
+Und da vorne hängt er drin. Das heißt, er greift irgendwo ein und misst letztendlich die Drehzahl.
+Zukünftig könnte man natürlich auch sagen, diese Sensoren, die werden immer größer,
+er misst beispielsweise auch das Antriebsdrehmoment oder das Bremsmoment.
+Also auch hier ist immer so eine Integrationslösung möglich, dass man sagt, dieser zweite Punkt, die physikalisch-technische Erneuerung.
+Technisch-mechanisch wäre der dritte Punkt.
+Inluvenz hat Professor technologische Eigenschaften.
+Das wären so spezielle Schmierstoffe zum Beispiel.
+Wenn man einen neuen Schmierstoff entwickelt hat, dann könnte man den hier natürlich mit integrieren und sagen, dadurch wird der Verschleiß vermindert.
+Dann haben wir neue wissenschaftliche Ansätze, dann haben wir auch neue wissenschaftliche Erkenntnisse basierend auf der Entwicklung.
+Und dann haben wir einen Punkt, der sehr interessant ist, aktuell gesetzgeberisch.
+Auf einer aktuellen Gesetzesänderung basierend auf der Entwicklung.
+Da komme ich gleich dazu, aber das wäre ein schönes Beispiel für Sie.
+Dann haben wir synergetisch
+eine Kombination aus verschiedenen
+Marken mit positiven Auswirkungen
+auf das Produkt. Beispielsweise
+Leichtbau, Beispielsweise Energiefahrer.
+Diese zwei Kombinationen
+passen natürlich immer zusammen.
+Dann haben wir
+das No-Ho-Transfer,
+das habe ich eben transferisch bezeichnet.
+No-Ho-Transfer
+aus einem bereits bestehenden Ansatz.
+Das ist das, was wir machen.
+Kriegen Sie das ausgedruckt jetzt noch oder ist das schwierig?
+Wir haben ein Deckblatt.
+Deckblatt, ja genau.
+Dann drucken Sie das noch aus und dann soll ich nur so lange warten, bis Sie fertig sind und ausdrucken.
+Ja gut, dann warte ich noch so lange.
+Ich muss auch noch drucken, oder?
+Ja, wir müssen auch noch drucken.
+Ja, ja, genau. Das ist so. Wir drucken alle noch und dann hauen wir alles beieinander.
+Dann haben wir jetzt eine Zahntasche. Sie sind auch fertig, oder?
+Sie müssen selber drucken.
+Sie sind wenigstens, genau, noch was.
+Ich möchte drucken.
+Und dann, hä, so weit.
+Dann machen wir das dabei.
+Und K, ne?
+Und K, ne?
+Und K, ne?
+Und K, ne?
+Ja, das zeige ich Ihnen aber beim nächsten Mal, ich gebe Ihnen das wieder zurück, beim
+nächsten Mal können Sie das dann verbessern, ich sage, Sie bekommen das wieder korrigiert.
+So ungefähr ist der Ablauf, gell?
+Aber an diesen Stunden werden Sie diese erneut benotten?
+Nein, nein, am Ende wird es benotten, am Ende.
+Sie bekommen es zurück, können es überarbeiten und am Ende ist ja die Abgabe.
+So machen wir das, gell?
+Am Ende dieses Semesters.
+Am Ende von diesem Semester.
+Und die Abgabe ist ja hier schon definiert.
+Also wenn wir jetzt hier rausgehen, Schatz,
+dann ist ja hier nochmal diese gesamte Aufgabe.
+Jetzt sind wir hier.
+Dann jetzt sind wir hier.
+Elfter, Elfter.
+Jetzt kommt dieser Teil, dann kommt die Präsentation.
+Dann kommt der Teil 3.
+am Ende ist die Abgabe hier. Hier ist die Abgabe. Und dann wird alles benotet am Ende.
+Dann am Ende wird es benotet. Und hier ist es sozusagen nur einmal die Korrektur, dass
+die wissen, okay, hier und da variieren. Zeichnerkorrektur, das was Sieg macht beispielsweise,
+so dass wir alle ein bisschen nach vorne kommen. Ja? Okay?
+Wir können das jetzt so abgeben.
+Und am Ende dann,
+kriegen Sie von mir dann ein paar Sachen verbessert.
+So machen Sie es.
+Das heißt,
+jetzt ist der Fall,
+er hat etwas geändert,
+und er kann es noch mal ändern.
+So, ich nehme Ihnen das so an und dann lege ich das fest und dann ist das dann fertig.
+Deckblatt, Deckblatt, wo ist das?
+Ja, da, da steht alles da.
+wenn es in dieser form sein soll wenn ich das alles
+liegt man ist immer so rein dass man das am anfang so lesen kann hier ist
+Hier ist es von unten lesbar. Hier ist es von unten lesbar.
+So. Und dann das da. Kommt so rein.
+Dann ist es von rechts lesbar.
+Von hier unten und rechts. Und das da.
+3, 2, 3, 2, 3.
+Genau. Dann könnte es so. So. Dann haben wir das schon.
+So. Dann haben wir hier ein
+Reckblatt von der Zeichnung.
+Das nimmt man so.
+Dann nimmt man hier das Format, geht hier rüber und macht so einen Schlag da drauf.
+Sehen Sie, dann ist das wieder auf das Format A4 zurückgeführt.
+Etwa so. Sehen Sie, das ist schon die Zeichnung.
+Dann haben wir hier beide gefalten. Jetzt können wir es auseinander nehmen.
+Können sagen, gut, das ist die erste und das ist die zweite.
+Sehen Sie, jetzt haben wir hier den Namen stehen und eigentlich gleich sichtbar wird es gemacht.
+So wollen wir das und dann machen wir das beieinander.
+Das einmal so und dann können wir das tackern und dann ist die Aufgabe fertig.
+So machen wir das.
+Und ich kann jetzt durchgehen hier, du kannst es ausblättern, hier, da, hier und dann kann ich das korrigieren.
+So machen wir das.
+Okay, vielen Dank.
+Aufgabe Teil 1.
+Genau, das ist die Aufgabe Teil 1.
+Dann komme ich zu dir, dann den Tanker, den Koffer nehme ich auch mit.
+Das heißt, da haben wir die Organisationssachen schon erledigt soweit.
+Ist das gegangen? Genau, mit dem Ausmessen.
+Da kann man so ein bisschen rumspielen auch.
+Ja, so eine Mikrometerschraube mal in die Hand nehmen.
+Dafür haben wir...
+Das schreibe ich dann.
+Sonst schreibe ich es auch gar nicht.
+Klasse.
+Sollpunktzeit können Sie schon draufschreiben.
+Das stimmt schon.
+Sollpunktzeit können Sie draufschreiben.
+Ich komme gleich noch weg.
+Das heißt, dass...
+Und hier im Koffer dementsprechend auch.
+So, haben Sie das Blatt noch norm gefaltet, das DIN A3 Blatt?
+Wunderbar, schauen Sie mal her. So, so machen wir das jetzt.
+Norm.
+Gut.
+Schön.
+Schön zu messen, ausmessen, gut.
+Ja, klar.
+Ich habe noch Fragen. Wir kommen jetzt unten in die Gruppe.
+Haben wir eine gewonnene Uhr? Sind wir?
+Aber passt das so an?
+Da habe ich nichts dagegen, dann ziehe ich das so hinein.
+Allerdings wäre es schön, wenn man das rausziehen würde,
+dass nicht die Masseslinie hier die Titel kreist.
+Das ist genau das, was ich gekommen habe.
+Aber sonst schaut es nicht schlecht aus.
+Gut, das ist gut gemacht.
+Und das kann ich hier reinmachen.
+Das kann man so machen.
+Das ist ein Original, das stört mich nicht.
+Das ist schön gemacht.
+Schau es mal an, okay?
+Du darfst es antacken.
+Dann nehmen wir das mit.
+Perfekt.
+So.
+Also, dann schauen wir uns ein paar Sachen noch an.
+Ich habe Ihnen ein interessantes Beispiel dargestellt.
+Und zwar sind wir ja stehen geblieben bei diesem gesetzgeberischen Ansatz.
+Da kommen wir gleich dazu. Wie ist denn das mit wirtschaftlich-fertigungstechnisch? Das Produkt wird durch eine effiziente Fertigung oder in einer neuartigen Fertigungsmethode hergestellt. Und das hätten wir ja genau hier.
+Die Fertigungsmethode hier ist ja dieser Weltsnitbund. Das heißt, da hinten sehen Sie an dem Grünen, das haben wir ja schon angeschaut, das wird doch hier massiv umgebürtelt, das ganze hintere Teil.
+Und da hat man eine eigene Produktionsstraße mit mehreren Stufen gebraucht, um letztendlich diese ganze Radnaht, das ist ja ein bisschen Material, was da hinten umgeformt wird, das sind ja locker mal 4 mm, massiver Bund, der da hinten umgeformt wird.
+Das ist eine neuartige Fertigungsmethode. Die haben die sich ja auch patentieren lassen.
+Und durch diese Fertigungsmethode haben sie diese gesamte Einheit herstellen können.
+Wo sind die Sensoren eigentlich drin?
+Da ist schon kein Sensor drin.
+Das Ding ist nur so, da gab es noch keinen Sensor.
+Also von dem her haben sie jetzt natürlich nach und nach mit eingebracht,
+aber hier sehe ich jetzt auch in dieser Einheit noch keine Sensorik.
+Ich habe sie da ja drin und das Nachfolgemodell, klar, das ist ein Prototyp, ja, das Modell selber haben sie es natürlich dann schon drin.
+Was ist der Unterschied zwischen Wellen- und Stirnverzahnung?
+Also Stirnverzahnung, da spricht man eigentlich davon, wenn die in dieser Richtung ausgeführt ist, wenn da hinten drauf die Verzahnung ist.
+Und wenn sie da drin ist, ja, dann ist es die Wellenverzahnung, so nennt sie das.
+Ich habe meinen Begriff ein bisschen anders, ja.
+Ich habe eine andere Verzahnung bei meinem Patent gehabt, ich hatte eine Wellenverzahnung oder so.
+Ja gut, das macht ja nichts. Die kann man ja letztendlich so rausnehmen und direkt umsetzen, wie man es braucht.
+Was wir hier natürlich haben, wäre diese Passverzahnung. Da spricht man von der Verbindung hier unten, das wäre eine Passverzahnung.
+Der Hauttransfer wirtschaftlich, fertigungstechnisch, ergonomisch.
+Besseres Laufverhalten, Verhalten im Design, Handhabung, Bedienbarkeit, Wartungshintervalle.
+Das Ding hat man deswegen entwickelt, damit man es mit 1, 2, 3, der oberen Schnaublerschraube,
+4 Schrauben aus dem Fahrzeug rausbringt, die neue Einheit einbauen kann und dann war es das.
+Da müssen Sie keine Lage einpressen, gar nichts verschmeißen, man bezieht das alte Ding weg,
+bauen Sie das neue Ei.
+Das ist ein riesengroßer Handhabungsvorteil von dem, der das ins Fahrzeug einbaut
+und dann der, der das natürlich dann im Wartungsintervall,
+beziehungsweise irgendwann, wenn es verschlissen ist, austauschen muss.
+Deswegen hat man diese Einheit gemacht.
+Das heißt, ich persönlich sehe jetzt hier in dieser Entwicklung zwei Methoden,
+die so umgesetzt haben, wirtschaftlich-fertigungstechnisch
+und ergonomisch-Geräuschentwicklung handhabbar mit Lieferkeit.
+Diese zwei Methoden sind hier umgesetzt.
+Alles andere sehe ich jetzt eigentlich nicht unbedingt.
+Neue Wissenschaft ist sicher nicht, Technik ist mir hart, ich verwende ja auch nichts.
+KI passiert jetzt schon, das ist auch nichts.
+Und ganzheitlich neuartig wäre eigentlich auch etwas.
+So in der Art gab es das vorher auch schon.
+Also diese zwei Methoden sind da verankert.
+Und ich hätte am Ende, wenn Sie fertig sind mit Ihrer Arbeit, gerne hier zwei Methoden gefunden, wo Ihr Ansatz angreift.
+Wo Sie sich sehen, sozusagen, in Ihrer Neuentwicklung.
+Das heißt, wir werden niemals ein bestehendes Bauteil komplett neu entwickeln, sondern wir werden immer bloß Teilmodule verbessern, verändern.
+Und diese Teilmodule sind hier eigentlich ganz gut aufgelistet.
+Das ist ziemlich ganzheitlich, da fällt mir sonst fast nichts mehr ein dazu.
+Das heißt, ein oder zwei Elemente von dieser Liste müssen es halt am Ende dann so argumentieren,
+dass es genau das und das ist.
+Das sind die Methoden, die diese Neuartigkeit ausmachen.
+So, und warum gibt es eben diese Methodik aktuell gesetzgeberisch?
+Was ist da momentan? Klar, dass man sagt, Verbrenner aus, Elektromobilität oder wir sagen, ein Heizungsgesetz kommt und alle bauen auf einmal irgendwelche Wärmepumpen. Das ist aktuell gesetzgeberisch.
+Und da habe ich ein sehr gutes Beispiel aus der Region. Das basiert auf dieser aktuellen gesetzgeberischen Änderung der Führerschein Klasse A1.
+Wer hat die Führerschein Klasse A1?
+Sie heute? Ja, niemand? Also die Führerschein Klasse A1 ist im Prinzip das leichte Motorrad, das 125er.
+Während es war damals eben so, dass man es 2013 geändert hat.
+Und da auch mal zum ursprünglichen Text noch hier die dreiregenden Kraftfahrzeuge mit aufgenommen.
+Diese dreiregenden Kraftfahrzeuge, symmetrisch angehörten Räder,
+mit Bauern mit innerrückgeschwindigkeit von mehr als 45 km leistet,
+Bis zu 15 KW. Würde jetzt theoretisch heißen, ich darf alles fahren mit drei Rädern und darf nicht mehr als 15 KW haben.
+Und das hat letztendlich ein findiger Tüftler aus der Region auch so umgesetzt und hat gesagt, na gut,
+Aber theoretisch fällt dir da rein, das ist jetzt eine Fotomontage aus der Auto-Zeitung.
+Das holt sich ja keiner, oder? Mit 16,7er BMW.
+Ja, cool wär's schon.
+Und mein Geld hat's gekostet.
+Ja, natürlich wär's. Aber, und das kennen uns alle, das Fahrzeug, am Ende ist halt das dabei rausgekommen.
+Der Kleinwagen, jetzt Fiat 500, mit symmetrisch angeordneten Achsen, das schon sagt er, Umbaupflicht, das heißt, was war Pfick, kommt der da angewandt und das ist letztendlich im Patent sauber zu sehen, die Patentschrift, da seht ihr schon, wer es angemeldet hat, Erfinder, der Wenzels aus Ellenriede, aus Düsingen, bei Hofbeuer.
+Und er hat folgendes gesagt, er wusste, dass es in Deutschland ein Gesetz gibt,
+in der Straßenverkehrszulassungsordnung, dass zwei Räder in einem Abstand,
+einem Mittelabstand von 46,5 cm immer bloß ein Rad sind.
+Also wir werden das ein Rad betrachten.
+Das heißt, Sie können entweder ein breites Rad machen oder zwei schmale.
+Und genau das macht er.
+Was macht der?
+Der fährt aus Kaufbeuren, oder wie?
+Das ist ein Räder aus Dösinen bei Kaufbeuren.
+Da müssen keine 5 Kilometer von Kaufbeuren weg, oder?
+Der ist jetzt Millionär, oder?
+Das ist eine Frage, ich weiß es nicht.
+Faktisch halt ist, dieses Fahrzeug sieht man auf der Straße.
+Haben Sie das schon gesehen, oder?
+Oft.
+Oft, ja logisch.
+Ja, ich sage mal so, das ist eine Entwicklung, die einfach durch diesen Gesetzestext entstanden ist.
+Der hat den Gesetzestext durchgelesen, der wurde dann veröffentlicht, wenn der verabschiedet wurde.
+Und dann hat er sich überlegt, Mensch, da kann man doch sowas bauen.
+Und ich zeige Ihnen ganz kurz, was der sich überlegt hat.
+Und zwar, das wäre jetzt das Fahrzeug und das wäre die Hinterachse.
+Die Hinterachse geht dann nach außen, die haben das Vorderachse und der fährt dann so.
+Dann hat er gesagt, na gut, ich nehme sozusagen innen die Aufnahmepunkte,
+ich verwende alles von der Radaufhängung und drehe das ganze Ding nur spiegelsymmetrisch nach innen.
+Und dann kommt das Rad nämlich da. Und das andere Rad kommt da.
+Und genau so macht er das.
+Das heißt, Sie sehen das hier auch schon im Attent.
+Er hat die Achse nach innen versetzt, die Radaufhängungspunkte sind dann sozusagen
+spiegelsymmetrisch nach innen verschoben und er kann alles verwenden.
+Das Rad, Achsaufhängung, ABS-Sensoren, Radlager, alles beinahe.
+Das ist schon raus, kommt ja fertig, vom Fiat kommt das Ding ja bei ihm auf den Hof.
+Und dann zerlegt er hinter alles, trennt die ganze Achse raus,
+schneidet natürlich auch einiges frei, was er in seinen Kofferraum holt,
+das gibt es da nicht mehr, dann baut er sich so zwei Module rein
+und dann hängt er die alten Komponenten wieder hin
+und dann verkauft er das Auto.
+Ist da dann eine Bremse verbaut?
+Zwei Bremsen, der braucht zwei Bremsen, der will
+zwei Drehzahlsignale, das ABS-Signal
+muss von beiden Rädern kommen,
+die Bremse muss auf beide Räder wirken.
+Sonst muss er das ganze ABS-System umbauen.
+Der will ja so wenig wie möglich
+ans Fahrzeug, an die Elektronik,
+an das Gehirn vom Fahrzeug ran,
+nämlich an das Steuergerät,
+weil das kann er nicht umprogrammieren.
+Er will das Fahrzeug eigentlich nur technisch so umrüsten, dass er alles nutzen kann
+und dass es nach wie vor genauso als Fahrzeug, so wie es im Auslieferungszustand war, auch verwendet werden kann.
+Und das ist ihm gelungen, genau nach diesem Trick.
+Wenn Sie sagen, so ein Auto rutscht mehr?
+Das Kippachse ist hier deutlich verschlechtert, das ist eine ganz einfache Überlegung.
+Wenn man sich diese Linie hier anschaut, dann ist diese Linie das, wo der Schwerpunkt am Ende drüber kippt.
+Das heißt, das Fahrzeug hat mehr Kippneigung, als wenn natürlich die vier Räder da sind.
+Aber das ist bei jedem drei dazu. Das ist dem Gesetzgeber egal.
+Weil er sagt, der Gesetzgeber hat ja diese drei Räder, die gibt es ja auch.
+Die APS zum Beispiel. Die wollten wir da mit reinnehmen.
+Und das ist letztendlich dann eine Sache, die der Fahrer mit beeinflussen kann.
+Die AP schmeißt mal um, wenn er schon in den Käufer reinfährt und hier ist ja genau das Gleiche.
+Der Trick bzw. die Lücke im Gesetz ist hier, dass die A1 Klasse, die A2 Radklasse ist.
+Das heißt, wenn sie die Klasse A1 machen, dann machen sie im Prinzip Führerschein, Ausbildung und Prüfung auf dem Moped.
+Und danach können sie faktisch Auto fahren.
+Das ist so der Knackpunkt an der Sache. Ausbildung, Prüfung.
+Aber nichtsdestotrotz, die Fahrzeuge gibt es. Sie sagen ja, häufig sieht man die.
+Ja, 16 Jahre, mit Berufsschule oder sowas, wenn sie rübergehen, da sieht man die auf dem Hofstand.
+Schauen Sie mal unten rein, da können Sie genau dieses System erkennen.
+Zwei Räder nebeneinander in diesem Achs am Stand.
+Da sehen Sie, dass es noch richtig teuer ist.
+Genau, aber das ist natürlich ein Grundstück teurer als der normale 500er.
+Weil er natürlich noch mal ins neue Fahrzeug, noch mal eine Zeit hineinsteckt, die wir dann natürlich zahlen kriegen.
+Der verwendet natürlich viele Komponenten, aber klar, am Ende entscheidet sich der Kunde, wenn er den Preis zahlt, dann ist es ja zu.
+Natürlich auch so, dass man relativ lange auch noch warten muss und dass man auch den Wertverlust, der ist nahezu null.
+Also ich habe einen Maschinenbau jemanden gehabt, die machen da so ein Produktentwickler und da kommt das auf.
+Und da sagt einer, der hat das gehabt und hat dann praktisch für das Gleiche verkauft.
+Er ist zwei Jahre gefahren und hat das gleiche Geld verkauft.
+Also der Bärte hat von denen einen schwarzen Ego, weil es natürlich keinen gibt auf dem Markt.
+Da hat er ziemlich aufgebaut, also auch natürlich Fertigungshallen haben wir dazu genommen.
+Und Leute eingestellt, also aufgrund von dieser Idee.
+Also eigentlich, ich finde es ein sehr, sehr gutes Beispiel, wie man halt auch als KZ-Meister,
+Das ist ein Betrieb, wo man sagt, wir haben da auch einen Vorwärtsabwärtsgang.
+Aber glauben Sie, er hat es verkauft?
+Nein, er macht es selber.
+Es ist noch kein Hersteller auf das eingestiegen.
+Es hätte ja auch sein können, dass jetzt irgendjemand den Markt in Deutschland oder den Markt europäisch sieht.
+Bei chinesischen Herstellern gibt es ja Dreiradfahrzeuge bei Ihnen.
+Schon, aber auf dem deutschen Markt, auf dem europäischen habe ich auch nichts gesehen.
+Das ist so ein bisschen regional.
+16 Jahre darf man das hier fahren.
+Mit 16.
+Also, vielleicht kommt das ja mal.
+Dass man sagt, ja, weil jetzt sehen Sie ja ganz viel
+diese 45er-Fahrzeuge.
+Die kommen auch alle irgendwo aus dem
+chinesischen Markt oder asiatischen
+Markt, sind sehr günstig
+zu erwerben und fahren halt
+45 kmh. Aber das ist ja
+eine Verkehrsbehandlung eigentlich.
+Und diese Lücke, sagen wir mal, da dazwischen,
+das sollte ja schließen. Weil das
+Fahrzeug ist ja vollwertig,
+also man fährt ja wie ein Auto.
+Und die Sicherheit ist natürlich auch wie beim Auto.
+Das ist eigentlich der Vorteil.
+Und deswegen hat er eigentlich gesagt,
+wollte er das Fahrzeug so umbauen.
+Damit es bloß so eine kleine Blechkiste für 45 kmh,
+wenn du die andere abschießt, ist fertig.
+Das Fahrzeug hat alle Sicherheitsmethoden
+oder Maßnahmen, die eben hier sicher sind,
+die verbaut sind aktuell.
+ABS, ASR und alle Airwags, die halt notwendig sind.
+Da muss ein Crashtest bestehen und das Ganze zulassen, also von dem her ist es ein vollwertiges Faktor.
+Vor allem 2014, das hätte ich auch niemals gedacht.
+Ja genau, er hat das 14 angemeldet, das Patent.
+Ja, und passiert das ja, ich weiß nicht wann, ich glaube die Ende war 13, ja, jetzt.
+Ähm, 19. Januar 13 hat er den Gesetzesrecht geändert.
+Und dann hat er das eigentlich bis 1712, bis 1714 hat er das sich selber überlegt.
+Vielleicht war die Gesetzesänderung ja, wurde beschlossen an dem Tag und das braucht der Dauerzeit,
+und dann hat er das so umgesetzt, dass zu dieser Methode neuartige Entwicklungsansätze
+aufgrund einer gesetzgeberischen Änderung, kommt dann immer wieder vor.
+So, dann so schaut das Fahrzeug aus und wir wollen jetzt ja am Endeffekt dann eine Funktionsstruktur erstellen und die Funktionsstruktur,
+habe ich auch schon das Beispiel, dass wir hier die Funktion definieren und zwar als
+Teilfunktion. Stellen Sie die einzelne Funktion ein mögliches Ausdruck in einer Funktionsstruktur
+dar. Das heißt, in der Funktionsstruktur wird die Gesamtfunktion eines technischen
+Systems in mehrere Teilfunktionen, Einzelfunktionen untergliedert und miteinander verknüpft.
+die Verknüpfung, die brauchen natürlich
+die jeweiligen
+Teillösungen sowie die Verknüpfungen
+zwischen den einzelnen Teillösungen werden
+dabei oftmals durch technische Wörter
+mit einer
+lösungsoffenen Formulierung
+beschrieben. Das heißt,
+ich habe eigentlich immer
+das Ziel,
+ein konkretes
+Bauteil möglichst abstrakt
+darzustellen.
+Das ist die Grundidee.
+Was haben wir
+Das Bauteil rechts, wie schaut das aus?
+Das war ursprünglich mal ein Ploid.
+Und links wird das Bauteil A sein.
+Das könnte man theoretisch als Platte ausformen.
+Oder ganz links eben nur noch als Verbindungslinie.
+Und man könnte man links eben nur einen Begriff geben, wie beispielsweise Verbindungselement.
+Ich brauche jetzt Verbindungselement zwischen den Bauteilen C und B.
+Und das wäre das Abstrakte.
+Und genau auf diese Richtung und in diese Richtung müssen wir dann gehen, dass wir die Bauteile oder einzelne Systeme eben abstrakt definieren.
+Und zwar nach ihrer, so ist es geschrieben, Funktionalität.
+Und die Funktionalität ist immer ein technisches Verb, was die Funktion definiert.
+Was ist da? Was ist das da Ding?
+Das ist meine Kante.
+Ne, ne, hier, was ist das da? Das Element, was jetzt hier das Idee hoch- und runterfahren kann?
+Was ist die Funktion von dem
+Modul?
+Ne, das Ganze da.
+Was das macht, ist...
+Ja, Display machst du.
+Was ist die Funktion von dem?
+Bildwiedergabe.
+Bildwiedergabe. Also definieren Sie
+Bildwiedergabe, ja, oder Anzeige,
+hätte man sagen. Wie auch immer. Genau, also das ist die
+Grundfunktion. Ist die
+Anzeige- oder Wiedergabe-
+Funktion. Und wie
+sie das dann aufbaut, dass es am Endeffekt so wird, schon untergeordnet. Das heißt,
+jetzt haben Sie eigentlich das verstanden, und zwar ist immer das technische Wort, was
+tut irgendwas, wo ist die Grundfunktion, und dann brauchen wir beispielsweise immer noch
+seinen Überbegriff dazu. Ich habe jetzt hier gesagt, das könnte jetzt das System sein,
+das Anzeigesystem. Das heißt, wir gehen weg von dieser klassischen Bezeichnung, die wir
+momentan im Kopf haben.
+Wir bilden hier diese
+Doppelbegriffe aus
+technischem Verb und Überbegriff.
+Ganz einfach, Dichtungselement
+ist das genannt. Die Dichtfunktion ist
+hier die Zentralfunktion.
+Kühlsystem,
+spricht man, Grundfunktion
+ist das Kühlen.
+Wandler, Grundfunktion ist Wandeln.
+Messen, Messeinrichtung.
+Steuern, Steuerungsmodul.
+Ventil, Block,
+beispielsweise sagt man dazu,
+Da haben wir im Prinzip diese einzelnen Funktionen und die haben bestimmte Anforderungen und das sind eben Funktionsflächen, da werden wir dann später dazu kommen, dass man natürlich auch die Flächen dazu dementsprechend definiert.
+Hier haben wir aus dieser Quelle eine Übersicht aller technischen Wörter, also eine Übersicht von viel Zeit an technischer Wörter von A bis Z aufgelistet.
+Ja und das ist eben die Grundfunktion. Das technische Wörter ist die Grundfunktion jeder Funktionalität.
+Und da muss man sozusagen dann eben diese Gesamtkonstruktion, die Sie jetzt ja irgendwo im Kopf haben, aufteilen und dieses Aufteilen erfolgt halt jetzt gedanklich.
+Tja, wir können jetzt das Ding dann zerlegen, könnte man theoretisch, klar, da haben wir Teile davon und als Beispiel, wie man das machen kann, haben wir Ihnen das hier vorgegeben.
+Das heißt, wir haben letztendlich genau diesen Vadeggang, wir haben eine gesamte Konstruktion
+und die verteilen wir sozusagen jetzt in Einzelfunktionen, Funktionsgruppen auch genannt.
+Und dieser Funktionsgruppe geben wir jeweils einen Überbegriff.
+Und dann ist das, was jetzt hier augenscheinlich als Getriebe ausgeführt ist,
+Das ist kein Getriebe mehr, sondern was ist die Funktion von dem Getriebe?
+So ein Zahnrad, das muss ja auch drehen, oder?
+Das Zahnrad dreht, genau, das Getriebe ist eine Kombination zu zwei Zahnrädern, also Getriebe A0.
+Übertragung von Kräften.
+Genau, also ist das Übertragen die Grundfunktion und dann nehmen sie noch irgendwo einen Wert, einen Überbegriff mit rein.
+dann haben wir ein Übertragungsmodul, Übertragungseinheit.
+Das heißt, hier drüben würde anhand der Zuordnung eben sagen,
+das wäre eine Übertragungseinheit.
+Und hier haben wir zum Beispiel aus diesem E-Bike-Motor
+diesen tatsächlichen Läufer rausgenommen.
+Und der macht nichts anderes als eine Drehzahl und einen Drehmoment erzeugen.
+Also Energieerzeugungseinheit wäre das beispielsweise.
+Das nimmt man hier hinein.
+Und das Ganze stellt es dann so zusammen, wie hier in dieser Funktionsstruktur,
+da kann sich jeder gleich damit beschäftigen,
+letztendlich sind hier übergeordnete Begriffe,
+sind es Kraftunterbrechungseinrichtungen oder sowas,
+oder hier Messeinheit, Übersetzungseinheit.
+Da steht kein Begriff mehr dran, der tatsächlich in der Ausführung dann irgendwas beschreibt.
+Sondern es sind im Prinzip immer diese Überbegriffe.
+Das brauchen wir hier, sodass wir auch dann später diesem Überbegriff dann eine jeweilige Lösung zuordnen können.
+Also können Sie letztendlich hier mal alles patentanalysiert, Patentanalyse, Marktanalyse und dann eben jetzt überlegen, gedanklich das Bauteil zerlegen und dann mal schauen, was gibt es hier für Überbegriffe.
+und man kann es natürlich auch gerne
+auch noch mit hier einen Blick drauf schmeißen
+was sind hier
+die tatsächlichen
+Funktionen von diesem Gesamtding
+das heißt
+das wäre die
+Funktionsstruktur für den nächsten
+Ausarbeitungsprozess
+gut
+gibt es da auch Fragen von Ihrer Seite
+ja
+ansonsten würde ich sagen, nächste Woche machen wir dann
+mit den morphologischen Taschen weiter.
+Das heißt, hier würde sie
+schon gleich tätig sein.
+Die Funktion schon für die Basis
+von allem, was wir jetzt machen.
+Das heißt, überlegen Sie sich im Team
+diese Einzelfunktionen,
+schreiben Sie die gleich sozusagen irgendwo
+auf Papier, dass alle
+darüber diskutieren können, sodass
+wir dann im Prinzip diese Einzelfunktionen
+sauber zusammenfinden können.
+Genau.
+Gibt es da noch Fragen von Ihrer Seite?
+Funktionsstruktur erstellen, technische Wörter definieren können.
+Genau, so können wir an der Stelle genau so weitermachen.
+Das heißt, aufteilen wir wieder die Arbeit, dann schauen wir ja nichts mehr, oder?
+Also definieren wir letztendlich die Funktionen miteinander und dann kann einer sozusagen das in dieser Form überführen.
+Genau, dann hier, der Linie ist wieder ins Netz, dann können wir das direkt darauf zugreifen
+und haben das Ganze definiert.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Ich kann nicht sehen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+dieser und dieser Technologie
+oder unser Produkt ist
+hier auch neue technische
+mechanische Lösungen
+weil es das und das gibt
+und hieraus sehen wir uns verwirklichen
+das wäre
+am Ende natürlich dann
+in der Präsentation auch meine Frage
+welche Methode Sie hier
+umgesetzt haben
+genau
+das heißt, so weit sind wir
+bis hierher
+und dann
+Das ist so weit, okay.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Das ist schon mal gut.
+Habt ihr euch schon mit den Blüten gemeldet?
+Habt ihr euch schon mit den Küsten gemeldet?
+Auch mit Übungen?
+Auch mit Übungen, okay.
+Das müssen wir nicht.
+Doch, das müssen wir nicht.
+Meine Eltern und ich, ja.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Das war's für heute.
+Ja, das ist gut.
+Ich habe Angst, dass ich dich nicht sehen kann.
+Das war's für heute. Bis zum nächsten Mal.
+Untertitelung des ZDF, 2020
+Das war die Sehenswürde.
+Vielen Dank.
+Vielen Dank.
+Was redest du?
+Hier, in die Bozeritsche.
+Ja.
+So.
+Wie oft zeigst du es am Tag?
+Ja, wenn ich einmal keinen Bock habe,
+ist es ein bisschen komisch.
+Das ist auch ein bisschen komisch.
+Ich muss ja nicht aufgeben hier.
+Ah, mit Genie.
+Viermal lebt jetzt schon das Dach nicht so.
+Wenn Sie kurz vor Ort zu mir kommen, dann kann ich das auch erklären.
+Ja.
+Gut.
+Genau, also so weit.
+Das schaut jetzt nicht schlecht aus.
+Hier ist das Sturmverzieh, dieses Sturmverkehr, so aufgebaut, dass man halt sagt, das ist jetzt hier 1, 1, 1 und dann kommt dann hier 1, 2.
+Das ist natürlich nicht 1, 2.
+Das war's für heute. Wir sehen uns beim nächsten Mal. Tschüss!
