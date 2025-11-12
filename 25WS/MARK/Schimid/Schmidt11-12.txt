@@ -1,0 +1,2253 @@
+Ich habe, bei welchem Kollegen haben wir uns getroffen?
+Bei Frank Reuter, ja.
+Also es gibt nicht nur mich, also es gibt nicht nur mich, es gibt nicht nur mich.
+Also ich bin nicht der Einzige, der hier Marketing unterrichtet,
+an der Hochschule, sondern in der Fakultät BWL,
+in der Fakultät auch, und Elektrotechnik und Tourismus.
+Und ich habe, wir haben den Kollegen, den Marketingkollegen,
+wir tauschen uns immer so ein bisschen aus und so.
+Und dann hat der Frank Reuter, der ist quasi der Marketingprovinz,
+Professor für die Fakultät BWL, hat mir irgendwas erzählt von einer KI-Influencerin
+oder etc. Cool. Also es gibt wohl KI, durch KI erstellte Influencer und Influencerinnen.
+Ich habe da schon gehört und habe gesagt, der Patrick Berkenhüller, der schafft in
+der Fakultät BWL, der hat da jemanden erschaffen und so, der funktioniert. Ich habe gesagt,
+das ist super interessant und deswegen habe ich den Patrick angesprochen und wir machen heute im
+ersten Teil wieder mal ein Teil live aus der Praxis. Letzte Woche war ja der Patrick Steenberg
+von Siemens, das war ja eher so aus dieser großen Unternehmenswelt und mit Regeln hier und Regeln
+da und jetzt begehen wir uns ein bisschen in den wilden Westen, da wo es neu ist, da wo Sachen
+ausprobiert werden. Und Patrick, ich übergebe dich, du sagst dann so ein bisschen was, wie du auf die Idee gekommen bist
+und ich werde fleißig mitschreiben und bin gespannt, weil das wirklich neu ist und weil das sehr spannend ist.
+Also da sind wir jetzt, wir haben im Marketing diese 4Ps und so gemacht, was wir seit Jahrzehnten schon versuchen
+beizubringen, aber jetzt sind wir in einem Bereich, der wirklich brandaktuell neu ist und insofern freue ich mich,
+dass der Patrick da ist und du machst einfach weiter.
+Ja, wir sitzen drin und der Markus Petzold von der Fakultät Dekanat Maschinenbau ist auch da, findet das auch interessant und ich bin Gast in meiner eigenen Vorlesung.
+Vielen Dank, kannst du damit sein.
+Dann vielen Dank, erst mal ein Hallo von mir an alle.
+Ja, heute geht es um KI-Influencer im Allgemeinen, aber wir schauen uns auch ein bisschen so die KI an, die generische KI und dann auch so ein bisschen die Zukunft dahinter.
+Kurz zu mir, Patrick Dörkmüller, wir haben es schon gehört, ich arbeite in der Fakultät BW, bin dort Referent für Marketing und Kommunikation,
+habe hier auch in der Hochschule studiert, Tourismusmanagement, bin dann danach über verschiedene touristische Unternehmen,
+unter anderem AutoActive, der Sonnenalpen, der Big Box, Aygoy, unterwegs gewesen, immer als digitaler Marketingmanager.
+In der Sonnenalpen, der Big Box, war noch mehr mein Schwerpunkt auch auf den Influencern gelegen und aber auch auf den audiovisuellen Medien.
+Ich habe ungefähr mit 18 damals eine eigene Firma gegründet, eine Filmproduktionsfirma.
+Ich habe da für verschiedene Unternehmen, Oktoberfest, für Promis, für DJs, alles mögliche filmen dürfen und durfte das natürlich dann gerade im Rahmen der Big Box, die ja für Events bekannt ist, dann auch mit einbringen und dort dann auch noch übernehmen.
+Auch lag da noch das Thema Künstlermanagement mit drunter, also neue Künstler ins Allgäu holen, mit denen reden, die Managements ansprechen, all das war dann noch mit drin.
+Und danach, also bevor ich hier angefangen habe, war ich dann noch für die CSU tätig,
+als Bundeswahlkreis-Geschäftsführer für das IWOL und gleichzeitig auch im Deutschen Bundestag
+als wissenschaftlicher Mitarbeiter für eine Abgeordnete.
+Und dann sind die Wege wieder zurückgegangen zur Hochschule und jetzt nebenzu studiere ich
+aktuell noch meinen Master an der IU, also jetzt in Vollzeit zu hier zu der Arbeit.
+Genau, soviel zu mir, damit man einfach weiß, woher ich komme.
+Servus.
+Servus.
+Und mein Background einfach mal kurz gehört.
+Ja, mal ganz kurz grundlegend zur KI.
+Ich meine, das ist natürlich, wir hören das jetzt ganz oft als Frage,
+aber was ist KI?
+Für uns KI, wenn man es nach der Zitat von Rastel-Norik gibt,
+beschreibt es Systeme, die auf Grundlage von Daten
+eigenständige Entscheidungen treffen
+und vor allem kreative Handlungen ausführen,
+die den Menschen oder seine menschlichen Intelligenzfunktionen lernen.
+Heißt, KI ist natürlich für uns nichts anderes,
+als dass wir den Menschen versuchen,
+mehr oder weniger in seiner Form, in seinen Taten, aber später auch in seinen Emotionen nachzuschauen.
+Wir haben dann vier grundlegende Arten, das kann man auch so ein bisschen als Zeitstrahl sehen.
+Früher hatten wir die reaktiven Systeme, das heißt, wir haben wirklich eine Eingabe,
+wir haben einen PC zum Beispiel angegeben und der PC hat direkt darauf reagiert.
+Das kann man sich wie in so einer Excel-Liste vorstellen.
+Das System zieht sich auf ein bestimmtes Triggerwort und zieht sich dann aus dieser Liste,
+wie bei einem S-Verweis, sozusagen die Daten, die sich dann ausspielen.
+Wenn man den Schachcomputer zum Beispiel, den IBM D-Clue.
+Heutzutage befinden wir uns in der KI mit begrenztem Gedächtnis.
+Das bedeutet, dass historische Daten genutzt werden, um dann eben die Antwortmöglichkeiten zu verbessern.
+Wir nennen es auch oft das System Lernen.
+Aber auch für einen sehr begrenzten Rahmen.
+Also wenn ihr das Beispiel jetzt hier wieder einhabt oder Alexa oder ihr habt ChatGPT genutzt,
+dann seht ihr immer, dass diese begrenzte Rahmen zum Beispiel in Chat ist
+oder bei einer bestimmten Zeit die Information einfach abgeboten werden kann.
+Ja, wie sieht die Zukunft des Ganzen aus?
+Die ersten Schritte gehen schon Richtung Theorie des Geistes.
+weil wir versuchen, emotional die KI zu steuern.
+Das bedeutet, die KI kann anhand unserer Stimme oder unserer Gesichtswahrnehmung erkennen,
+welche Emotionen wir ausspielen.
+Und diese Emotionen kann sie natürlich dementsprechend triggern oder auch verwenden.
+Und das Ganze wird dann nochmal ein Stück komplexer, wenn es um die sozialen Systeme geht.
+Also wirklich in der Pflege zum Beispiel oder im Bildungswesen,
+die sozialen Systeme zwischen Menschen oder auch Einheiten zu verstehen und dann auch anzuwenden.
+Und ja, die Zukunft, wenn man ganz weit blickt, ist es die selbstbewusste KI.
+Wir kennen es ein bisschen aus Filmen, dass die KI wirklich ein eigenes Bewusstsein über sein eigenes Dasein entwickelt.
+Also sich selbst verbessern kann, sich selbst steuern kann und einfach selbst auch wachsen kann.
+Bislang gibt es jetzt hier noch keine empirischen oder technischen Ansätze, aber das Ganze wird sicherlich in Zukunft kommen.
+Ja, wie gesagt, von mir geht es jetzt mehr um die Bild- und Videogenerierung, also wirklich die generative KI.
+Das ist aber gar nicht mal so ein altes Thema. Wenn wir jetzt nach 2014 zurückblicken, da sehen wir die erste generative KI, die für sehr wenig Leute noch zugänglich war.
+Das Ganze war sehr, sehr teuer und hat sehr hohe Rechenleistungen benötigt.
+Hat sich dann bis 2019 wirklich relativ schrittweise nur entwickelt, aber ab dem Corona-Zeitalter, sage ich immer, so 20 bis 23, ist wirklich da einfach ein extremer Sprint reingekommen.
+Wir haben verschiedene Diffusionsmodelle, die den Markt betreten haben, unter anderem Stable Diffusion, Dolly, ComfyUI,
+etwas verschiedene zu nennen, und damit war natürlich das massentauglich.
+Das Produkt war auf einmal zugänglich für jeden, es war bezahlbar und wir konnten es auch an unseren Rechenleistungen abrufen.
+Heute befinden wir uns immer mehr in der Video-KE, also dass wir wirklich ein Bild, das wir erstellt haben,
+dann auch video-generisch nutzen können.
+Und in Zukunft, das ist jetzt auch aktuell schon der erste Schritt in diese Richtung gegeben hat,
+gegeben hat, geht es mehr in Richtung Echtzeitgenerierung. Also ich habe jetzt wirklich eine Livestream,
+ich habe eine Person, die irgendwo abgefilmt wird und diese Person kann dann direkt in
+Livestreaming als KI gezeigt werden. Als Beispiel, wir haben jetzt ja noch eine Person,
+eine Luisa. Ich würde jetzt reden vor der Kamera, mit euch zum Beispiel, die halt daheim
+hocken und ich würde auch nicht als Patrick zu sehen sein, sondern als Luisa. Also jeder
+meiner Bewegungen wäre in Echtzeit imitiert und würde dann dementsprechend ausgespielt
+Das funktioniert auch ohne mich, ich kann das auch vorher aufgenommen haben, aber in dem Fall wäre das die exekutive Regierung.
+Das heißt, ich könnte mich ersetzen durch Luisa?
+Genau, komplett. Oder durch jede andere Person, Donald Trump. Das könnt ihr ganz frei machen.
+Das gibt ja richtig neue Möglichkeiten für dich. Aber gut, es geht natürlich nur, wenn die Leute am Stream sind.
+Das wäre jetzt halt das Livestreaming-Beispiel. Ich kann das jetzt schon machen, theoretisch ohne live zu streamen.
+Also ich könnte jetzt ein Video von mir aufnehmen und das dann sozusagen nachstellen.
+Und ich könnte natürlich jeden anderen auch, von mir könnte ich, Entschuldigung, bleibt unter uns,
+könnte ich auch meine Vorlesungen komplett selber scripten und durch mich machen lassen,
+also dass ich die gar nicht mehr halten muss.
+Genau. Man könnte theoretisch alles machen, man könnte es natürlich auch anderen Personen einfach was machen lassen, also Deepfaken.
+Ab in die Berge, würde ich sagen.
+Alles ist möglich.
+Es ist vollkommen verrückt.
+Ja, ich meine, ein Stück weit wird das jetzt schon noch eingesetzt bei Hollywood.
+Also wir sehen jetzt bei Hollywood schon Szenen, Szenarien,
+quasi ein Thema Greenscreen, wo das Ganze genutzt wird.
+Also gerade jetzt, wenn wir über historische Filme reden,
+wir wollen ja nicht nur so zum zweiten Welten, was im Mittelalter darstellen,
+ist natürlich KI da unglaublich gut, den Greenscreen dann auch darzustellen.
+Ja, und das so, nennst du mal jetzt gerade, wenn man dann in dem Bereich arbeitet,
+so ein schönes Ziel ist das multimodale System, heißt aktuell,
+wenn ich es gewohnt, ich habe fünf, sechs, sieben Programme,
+gebe jedes Mal dort meinen Prompt, meinen Code ein,
+und dann kommt am Ende irgendein Inhalt raus.
+Und das Ziel wäre natürlich, dass man ein System hat
+und in dieses eine System einen Befehl eingibt
+und dieser eine Befehl alles auslöst, was damit zusammenhängt.
+Bild, Video, Sprache, was auch immer.
+Das ist so ein bisschen die Zukunft, da bewegen wir uns gerade hin.
+Ja, warum Virtual Influencer?
+Weil wie gesagt, ich habe ja in meiner,
+in so einer Karriere, in meiner Karriere jetzt,
+mit Influencern schon arbeiten dürfen,
+dementsprechend fand ich es immer ganz spannend,
+mit denen sich einfach auszutauschen,
+auch viele von meinen Freunden sind in dem Bereich tätig.
+Und da dachte ich mir, wieso nicht mal virtuell aufbauen, einfach mal gucken, wie funktioniert
+sowas.
+Und gerade wenn man da jetzt einen Blick reinwirft, auch eben der Bedeutung für Unternehmen,
+also aus Unternehmenssicht, merkt man, dass man damit natürlich stark die Personalkosten,
+aber auch die Produktionskosten reduzieren kann.
+Ich kann natürlich statt einer Person, die ich bezahle, bezahle ich eine Person, die
+aber fünf Influencer aufbaut.
+Also ich habe vier Personen, die ich böse gesagt nicht bezahlen muss.
+Auch kann ich natürlich viel schneller Content erstellen, anstatt jetzt zu überlegen, okay,
+Shooting, jetzt brauchen wir den und den, dann muss noch
+das Produktionsteam kommen, die und die Rechte müssen
+noch angefragt werden, kann ich das alles in meinem Büro
+machen. Geht natürlich um einige
+Schnelle. Und ich kann
+mich natürlich global sichtbar darstellen.
+Ich kann sagen, die Person setzt sich jetzt auf den amerikanischen
+Markt, auf den indischen, auf den türkischen,
+wo auch immer.
+Zudem für Marken natürlich total
+interessant ist, dass sie diesen KI-Avatar
+auch besitzen. Sie können ihn steuern,
+Sie müssen ihn nicht mit anderen Unternehmen teilen, mit
+anderen Marken, sondern Sie können wirklich sagen,
+hey, das ist mein Avatar, ich steuere den in die Richtung, in die ich sie haben möchte
+und gleichzeitig verhindere ich natürlich so auch Skandale.
+Wenn jetzt irgendwo diese Person, der Promi, mit dem ihr arbeitet,
+irgendeinen Skandal hat oder getrunken ist nach irgendeiner Party oder was auch immer,
+das passiert natürlich bei einem KI-Avatar nun einfach nicht.
+Jetzt für die Mode- und Lifestyle-Branchen,
+da ich mich dann stark befunden hatte,
+da habe ich mal mit vielen Chefs gesprochen und einfach mal gesagt,
+hey, wie ist denn das, wenn ich jetzt einen virtuellen Influencer habe,
+Beispiel Hugo Boss, wollt ihr sowas überhaupt, unterstützt ihr sowas?
+Und dann hieß es, ja, bei Ihnen ist es egal, ob das jetzt virtuell oder echt ist.
+Es muss natürlich echt ausschauen, es gibt ja die virtuellen Influencer, die sehen sehr generisch aus,
+sehr computertechnisch, animiemäßig.
+Aber wenn das jetzt wirklich gut ausschaut, dann ist Ihnen das egal,
+weil am Ende wie die Note fällt, ist das, was zählt und nicht, wie die Person dann im Endeffekt ausschaut.
+Und für Sie ermöglicht das natürlich, die klassischen Shootings zu ersetzen,
+Und zu sagen, hey, ich fahre heute die Luisa in Vietnam, in New York und in Deutschland zusammen,
+die hat an allen drei Standorten ein Shooting, kann sie dort in verschiedenste Kleidung,
+verschiedenste Szenarien setzen und zahle natürlich keine Logistikkosten,
+zahle keine Kosten für Hotels, zahle keine Kosten für einen Anflug,
+für sonstige Managements, die dahinter stecken.
+Und damit bin ich natürlich um einiges schneller und um einiges besser verfügbar.
+Und finanzielle Vorteile, wenn wir so davon sprechen, so offizielle Zahlen gibt es da noch keine,
+aber man geht davon aus, dass 60 bis 80 Prozent an finanzieller Einsparung für Unternehmen bestehen.
+60 per Nacht?
+Genau. Wie gesagt, eben auch ohne die wiederkehrenden verschiedenen Honorare, Reise- oder Produktionskosten.
+Aber es gibt natürlich auch Risiken, wenn wir über KI sprechen.
+Zum einen, gerade für Marken, es fehlt die Authentizität.
+Klar, ich habe eine KI-Person, die ich darstelle, aber sie hat ja keinen Bezug zum Unternehmen im Normalfall.
+Also es ist nicht so wie ein Influencer, der im früheren Sinne des Influencers,
+Heute hat sich das ja auch ein bisschen verschwommen, aber der wirklich sagt,
+hey, dieses Produkt, das gefällt mir, das traut mir, dafür möchte ich werben, das schmeckt gut,
+da kann ich super Sportergebnisse erzielen.
+Das ist natürlich, sobald das rauskommt, dass es eine KI vom Unternehmen ist,
+nicht mehr so wirklich authentisch.
+Gleichzeitig, wir verlieren an Glaubwürdigkeit und natürlich an Reputation,
+weil die Leute heutzutage, das wird jetzt mit den One-Generationen ein bisschen besser,
+aber sehr kritisch eingestellt sind natürlich auf Influencer im Allgemeinen
+und dann vor allem noch das Thema KI und die ganzen Risiken, die die KI mit sich bringt.
+Auch für das Unternehmen wichtig ist die Transparenzpflicht.
+In Deutschland ist es nicht so einfach, einfach mal eine KI zu erstellen,
+sondern die muss auch ganz klar transparent dargestellt werden,
+dass jeder weiß, dass es sich um die KI handelt.
+Und natürlich, so ein Tool ermöglicht ja viele neue Chancen, man versättigt schnell.
+Also man hat ja noch einmal in seinem Instagram-Feed nur noch KI-Bilder,
+nehmen wir mal an, hier von der Hochschule.
+Am Ende kommst du hin als Student und denkst dir, das sieht ja gar nicht so aus.
+Und das ist natürlich dann auch immer schwierig, wenn man sich dann schnell in diese kreative Welt ziehen lässt.
+Und natürlich das wichtigste Thema, die ethische Frage.
+Wenn wir über KI reden, reden wir über Schönheitsnormen.
+Auch jetzt meine KI, die ich erstellt habe, möchte ich sagen, das entspricht natürlich absolut einer Schönheitsnorm.
+Das ist mir auch bewusst, da werden jetzt vielleicht viele Feministinnen sagen,
+aber mein Ziel war es ja auch zu sagen, wo ich die Marktanalyse gemacht habe,
+okay, was zieht am meisten, wo kriege ich die meisten Effekte mit raus.
+Und am Ende ist halt im Marketing oft immer noch das Thema Sex sells.
+Und genau das habe ich am Ende bedient, um einfach herauszufinden, wie es funktioniert.
+Man kann natürlich trotzdem in die Nischenmärkte gehen, das werde auch ich machen,
+wenn ich jetzt weitere KI-Influencer aufbaue, mir das anzuschauen,
+aber im ersten großen Ganzen ging es mir darum, so viele Effekte wie möglich zu erzielen.
+Und natürlich, wenn jetzt jedes Unternehmen nur mit dieser Schönheitsnorm arbeitet,
+dann wird das Ganze natürlich ziemlich verwerflich für den Markt werden.
+Gleichzeitig das Thema Deepfakes.
+Deepfakes ist nicht nur, dass ich auf irgendeinen Kopf eine Art Person setze,
+zu sagen ist, sondern natürlich auch in den ganzen
+Kontext, wenn es in Richtung erotische Themen
+und Co. geht, wo natürlich im
+pornografischen Bereich leider sehr, sehr viel passiert,
+wo natürlich jetzt auch ganz viele prominente
+Influencer, aber auch normale
+Persönlichkeiten abbekommen.
+Wie sieht es jetzt in der Zukunft aus?
+Klar, es ist abhängig von der technologischen Entwicklung.
+Wie gesagt, wir haben die echtzeitgenerativen
+Avatare, die jetzt auf den Markt kommen.
+Wir haben die Emotionserkennung, die voranschreitet.
+Wir haben
+im Marketing, ja,
+hast du die
+die Rechte gesichert an, also die Namensrechte etc.
+Oder könnte ich jetzt hingehen in der KI und sagen,
+hier, das ist das Bild von Luisa,
+ich nehme jetzt einen Kanal, wo zum Beispiel das Instagram,
+ich mache jetzt irgendeinen anderen, könnte ich das machen?
+Aber sie sind noch nicht wirklich sicherbar,
+weil in dem AI-Act, der aktuell von der Europäischen Union ausgegeben ist,
+Gedankengut in der Form noch nicht gesichert werden kann.
+Das zählt noch nicht als Produkt, sondern mehr als das Gedankengut.
+Und das ist relativ schwierig, weil wir natürlich,
+ich habe eine Firma, eine Filmfirma, die hat mich umgeschrieben,
+habe das Ganze da integriert, heißt da ist die Person schon festgehalten,
+aber ich sage mal, wenn man sich jetzt da hart drauf anlegen würde,
+könnte ich die Person jetzt so nicht halten, dann könnte man sich jetzt auch nicht sichern,
+weil man kann sie ja noch nicht sichern, aber man könnte sie benutzen.
+Im Marketing kommt oft die Frage, wird das Marketing jetzt komplett durch KI ersetzt werden?
+Ich persönlich sage nein, weil ich glaube, es ist immer noch eine Schnittstelle zwischen real und virtuell.
+Also wir haben immer dieses Symbiose, dass wir es in beiden Bereichen erstmal haben,
+In bestimmten Bereichen werden wir mehr zu virtuell tendieren, in anderen mehr zu medialen.
+Aber wir werden immer noch diese Schnittstelle haben, weil wir die Generationen dafür noch haben,
+die das Verständnis haben, dass eine reine KI oder eine reine virtuelle Marketingwelt besteht.
+Und gesellschaftlich, klar, unser Authentizitätsbegriff, der wird sich wandeln, einerseits.
+Andererseits aber werden sich auch neue Berufsbilder ergeben, wie zum Beispiel ein Virtual Personality Designer.
+Also da werden wir neue Berufsbilder sehen, aber das haben wir immer gesehen,
+wenn es technologische Entwicklungen gab, ob es beim Rad damals, wo sich dann Jobs wieder verlieren,
+andere Jobs entstehen, das gehört einfach mal zum Wandel dazu.
+Ja, soviel jetzt mal zu dem theoretischen Teil. Schauen wir da mal ein bisschen genauer rein.
+Wieso habe ich das Ganze aufgebaut? Ganz einfach, ich kam aus dem Marketing,
+ich wollte einfach nur ein wenig verstehen, was passiert da heutzutage mit der KI,
+wohin geht die Reise der KI? Und dementsprechend wollte ich mich da einfach mal ein bisschen so reinfuchsen
+und mal gucken, was kann man da mitnehmen?
+Klar, irgendwo auch das Ziel, eine Pionierstellung im KI-Marketing hier in Deutschland einzunehmen,
+weil in Deutschland dieses ganze Thema noch nicht wirklich weit ausgebreitet ist.
+In anderen Ländern, in Spanien, in China ist das Ganze schon vorangeschritten.
+Hier ist noch eine sehr große Marktlücke.
+Zudem natürlich Networking-Kooperationen nutzen, mit Unternehmen ins Gespräch kommen, mit anderen Influencern,
+mit Prominenten, mit allen möglichen, um da einfach sich nochmal auszutauschen.
+Und natürlich auch das Thema Rechtskonformität einfach nochmal für einen persönlich detaillierter sich ansehen zu können.
+Also wie ist es, wenn ich jetzt mal auf irgendwelche fiktiven Inhalte treffe, wie erkenne auch ich diese Inhalte?
+Klar, auch die Einnahmequelle wird es nutzen.
+Es wird oft gesagt, dass man mit KI viel Geld verdienen kann, deswegen habe ich mir gedacht, das schaue ich mir jetzt mal genauer an.
+Und klar, irgendwas ist dann auch zu einem Hobby geworden.
+Wie bin ich da jetzt vorgegangen?
+Zum einen natürlich, mein erster Step war, den Markt zu analysieren.
+Zu sehen, wer ist dort auf dem Markt.
+Wir haben jetzt hier, ich hoffe, ihr seht bei mir aus, oder?
+Die Aitana Lopez, von dem spanischen Designerstudio, von den drei gemacht, mit denen auch viel gesprochen, sehr erfolgreich, die hat jetzt aktuell 382.000 Follower und arbeitet mit sehr vielen großen Prominenten zusammen, wird also in dieses Bild eingesetzt.
+Die existiert ja nicht, die ist nicht vor Ort, sondern wird dann ein Foto von dem Promi gemacht, der dann zum Beispiel den Arm so draußen hat, und dann wird er so eingesetzt.
+Hier unten haben wir den James Corden, der hat die sogenannte Shoebook-Ramp, ich zeige es euch mal ganz kurz, hier die aus der linken Seite erstellt.
+Shurugram ist ein bisschen in anderen Bereichen unterwegs, wie jetzt hier die Aitana.
+Die Aitana ist mehr so ein Alltags-Influencer-Livestream unterwegs.
+Shurugram ist im absoluten Fashion-High-Editorial-Bereich unterwegs, also die Vogue am Schuppen und Co.
+Also die verdient auch sehr, sehr viel Geld damit.
+Und die ist in diesem Bereich da auch schon sehr stark verletzt.
+Natürlich für mich dann überlegt, wen finden die Deutschen am schönsten?
+Das eben Schwedinnen, blonde Haare, das war dann so die andere Seite der Analyse,
+damit ich so ein bisschen meine Persona dann auch zusammenstellen kann.
+Jetzt gibt es hier auch noch andere am Markt, hier die Miquela zum Beispiel oder die Luisa,
+die für mich natürlich sehr stark nach KI ausschauen. Das ist immer so eine persönliche
+Einstellung. Komischerweise ziehen die am Markt am allermeisten, die haben über Millionen
+different Follower. Ich weiß auch nicht warum, kann ich mir jetzt manchmal auch nicht erklären,
+ich finde jetzt die Darstellung, wenn ihr euch das in meinem Instagram anschaut, auch nicht wirklich
+gut, aber das ist halt ja, das ist auch nicht im Einzelhandel, ich glaube im Prinzip ist das
+pushbar, aber trotzdem funktioniert es scheinbar. Ja, im nächsten Schritt bin ich auf die
+die Programme angangen. Ich habe mir natürlich überlegt, jetzt mit YouTube, mit ChatGDT, mit Reddit, erstmal versucht,
+Informationen zu holen. Welche Programme gibt es denn? Wie funktionieren die Programme? Im deutschsprachigen Raum ist hier leider sehr, sehr wenig
+Informationen am Markt. Dementsprechend ist es hauptsächlich auf den amerikanisch-englischen Markt gerichtet. Und bin dann irgendwann auf dieses
+Civic AI gekommen. Ein Civic AI bietet die Möglichkeit, dass so eine Verteilerplattform, mehr oder weniger, wo ich alle meine Chatpoints,
+heißt es, Checkpoints ist wie ein Modell,
+meine Modelle habe, die ich benutzen kann,
+für dann später meine Tools.
+Jetzt ist ein Modell zum Beispiel hier
+ein Realistic Pony Modell, heißt eine realistische
+Darstellung. Erstelle ich über dieses Modell Bilder,
+werden die immer in diesem realistischen
+Hintergrund sein.
+Wenn ich jetzt hier auf Furry gehe oder in diesen Anime-Bereich
+und ich erstelle mit dem gleichen Code,
+dem gleichen Prompt ein Bild, werde ich nicht dieses realistische Bild
+bekommen, sondern eben in diesem Furry oder diesem Anime-Bereich.
+Das ist also die Grundlage, die ich
+meinem Modell gebe, wie soll mein Bild ausschauen.
+Heißt,
+zeige ich das schon gesagt, ich habe einen Code, einen sogenannten Prompt. Der Prompt ist das,
+was ich definiere über meine Person. Wir haben hier drei Farben geteilt, blau, rot und grün.
+Der blaue Teil ist der konstante Teil. Dieser Teil bestimmt meine Person. Er muss immer gleich sein,
+damit das Programm weiß, das ist die Person Luisa. Also die sieht so aus, die hat blaue Augen,
+das ist genau die Person. Im zweiten Teil, im roten Teil, habe ich einen veränderbaren Bereich,
+einen Variablen. Da kommt die Kleidung rein, da kommt rein, an welchem Setting ist sie,
+welche Uhrzeit haben wir, da sind all diese Themen drin. Und im dritten Bereich habe ich die Einstellung
+für das Bild. Ist das Bild scharf? Ist es Ultra HD? Gibt es einen gewissen Lichteinfall? Die Sachen kommen in den dritten
+Bereich. Wichtig ist, Prompting funktioniert immer von vorne nach hinten. Heißt also, ganz vorne, das erste,
+was dran steht, ist das, was mit höchster Relevanz bewertet wird. Dementsprechend, das wird immer
+dargestellt. Umso größer der Prompt wird und wie überladen, desto irgendwann wird das Programm sagen, das
+interessiert mich nicht mehr, was da hinten kommt. Ich interessiere mich wirklich nur für die
+die hauptwesentlichen Bestandteile.
+Ich kann das Ganze beim Wissen nochmal dann auch verfeinern,
+indem ich den negativen Prompt hier unten nehme.
+Da sage ich ihm, hey, das soll auf keinen Fall in meinem Bild vorkommen.
+Also Animi oder 5 Arme oder 6 Augen, das ist alles.
+Wenn man generiert, passiert alles, da sieht man alle möglichen Dinge.
+Aber das kann ich da eben theoretisch ausschließen,
+wenn ich merke, mein Programm geht in irgendeine Richtung, die mir da nicht gefällt.
+Ja, das Ganze habe ich jetzt hier, kann man vielleicht nicht so gut lesen,
+aber festgehalten in Hexel, dass ich einfach für jede meiner Lebenslagen, die ich mit
+ihr erstelle, einen vordefinierten Prompt habe. Beispiel, sie sitzt auf dem Sofa, sie
+ist am Golfplatz, was auch immer. Dass halt immer dieser Prompt stimmig ist. Ja, dann
+habe ich am Ende mir ein Tool gesucht. Ich habe sehr viele Tools durchprobiert. Es gibt
+ja dann doch entschieden viele am Markt und leider kostet auch jedes dieser Tools. Das
+heißt, man muss immer erst mal ein Abo zahlen. Aber ich bin am Ende auf diesem Tool hängen
+geblieben. Mage.space heißt das. Ich habe hier die Möglichkeit, oben mir meinen Checkpoint
+auszuwählen. Ich habe hier High Dream Full genutzt.
+Dann habe ich hier eine Aspect Ratio.
+Das ist mehr oder weniger, wie groß soll das Bild sein?
+16 zu 9? Soll es 1 zu 1 sein?
+Dann gebe ich die Steps
+und die Guidance Scale an.
+Steps bedeutet, wie perfekt soll
+das Bild werden? Also umso mehr Steps
+ich wähle, umso perfekter wird das Bild.
+Jetzt denkt jeder natürlich, hey,
+wenn man hier voll die Steps, dann wird das Bild ja super.
+Nee, dann wird es irgendwann zu perfekt.
+Also man merkt dann, dass die Haut nicht mehr stimmig ist
+oder dass die Augen auf einmal hinter der Haut verschwinden,
+weil natürlich das zu perfekt ist.
+dass wir dann jede Haut so perfekt darstellen.
+Und die Guidance Scale sagt, wie stark soll ich mich an dem Prompt orientieren.
+Soll ich total kreativ werden und soll ich irgendwas machen?
+Oder soll ich, hey, genau das, was dran steht und kein bisschen anders?
+Dann musst du aber sehr gut schreiben können, dass das dann auch dementsprechend zutrifft.
+Ja, und am Ende habe ich hier eben meinen Prompt, meinen Negative Prompt.
+Und dann kommt am Ende hier die Luisa heraus.
+Da seht ihr es ja einmal, wie gesagt, Deutsch-Schweden.
+Habe ich dann auch noch ein Logo erstellt.
+22 Jahre alt, aus München, kommt ursprünglich aus Schweden, Modeler-Influencerin, studiert in München
+und ist für die Bereiche Modeling, Travelling und Lifestyle verantwortlich.
+Ja, was habe ich jetzt, ich habe das so circa einen Monat lang gemacht, also wirklich aktiv getrieben,
+das war Ende Juni bis ungefähr Anfang August.
+In der Zeit hatte ich jetzt knapp 2000 Follower auf Instagram generieren können,
+das hört sich jetzt erstmal gar nicht so viel an, ist aber jetzt für diesen einen Monat
+und bei dem Algorithmus der KI-Influencer relativ stark gewesen,
+hatte knapp 350.000 Reichweite, also Menschen, die ich erreichen konnte mit meinen Inhalten
+und habe sehr viele Unternehmen auf mich aufmerksam machen können und meine Platzierung da auch über Werbeanzeigen.
+War auf Instagram, Twitter, jetzt ja Ex, YouTube, TikTok, Pinterest und Fanfam unterwegs
+und habe dort natürlich für Kooperationen und Co. geworben.
+Jetzt wie gesagt, in den letzten zwei, drei Monaten habe ich da fast keine Zeit mehr rein investiert,
+dementsprechend gehen natürlich die Followerzahlen auch zurück, genauso auch die Gesamtreichweite.
+ich möchte das Ganze jetzt dann umbauen, neu aufbauen, das zeige ich euch dann nachher noch.
+Ja, jetzt habe ich mal irgendwann dieses Bild erstellt aus diesem Mage,
+da kommt dann dieses Foto hier als Beispiel raus,
+und das war für mich jetzt aber irgendwie noch zu unecht.
+Ich bin ein sehr perfektionistischer Mensch, das bricht einem oft auch das Genick in den Bereich,
+wenn man einfach sehr lang an einem Bild hockt.
+Andere, mit denen ich mich connectet habe, die haben gesagt, du hast auch kein Problem,
+hau einfach so raus, das kriegt keiner mit.
+Stimmt auch, die meisten schauen da gar nicht drauf, die achten dann nicht auf Hintergrund,
+ob der immer genau gleich ausschaut und alles.
+Ich bin da sehr perfektionistisch und habe das versucht zu optimieren.
+Da gibt es ein Tool, das heißt Magnific AI, das nennt sich Upscaler-Tool.
+Heißt, ich verschärfe das Bild und zwar realistisch.
+Dementsprechend sehe ich zum Beispiel, vielleicht könnt ihr das erkennen,
+hier an den Armen, an den Adern, am Brustbein, aber auch hier am Gesicht,
+die ganzen Falten, die jetzt dazukommen.
+Also wo er wirklich jetzt da die verschiedenen typisch menschlichen Bereiche nochmal rauszeichnet.
+Das kann auch manchmal zu viel sein, das sehen wir hier an den Adern, da muss man eine Beleidigung nochmal haben,
+mit Photoshop muss man das Ganze nochmal abändern, aber im Normalfall wird das immer ziemlich gut.
+Wir sehen es jetzt hier nochmal, wir sehen jetzt auch die Lichteinfälle nochmal anders,
+gerade hier im Handbereich sieht man stark, dass da einfach ein Unterschied vorliegt
+und dadurch wird das Bild natürlich schon mal entschieden realistischer und vielleicht dementsprechend weniger auf, dass es KI ist.
+Dann war bei mir noch so ein bisschen der Knackpunkt der Hintergrund,
+wir haben hier immer einen relativ verschwommenen, einen tiefen, unscharfen Hintergrund,
+habe mir dann dafür das Tool mit Journey, das kennt ihr vielleicht, das ist ein bisschen bekannter, zu nutzen gemacht
+und habe hier einfach geguckt, dass ich hier die Hintergründe, jetzt geht es nicht um die Person vorne,
+die sieht ähnlich, aber nicht gleich aus, die Hintergründe einfach übernehmen kann,
+weil die einfach unfassbar gut aussehen, unfassbar scharf, unfassbar realistisch.
+Gleichzeitig habe ich auch hier natürlich verschiedene Hintergrundstrainings gemacht,
+also das immer gleiche Wohnzimmer, aber man sieht, es ist immer ganz leicht verändert.
+Das ist das, was mich noch gestört hat, weil ich möchte ja, dass es wirklich konsistent ist.
+Und da sieht man jetzt mal den Unterschied, wenn man hier den Hintergrund von Midjourney hat oder eben von Mage.
+Und dann geht es am Ende darum, die Person auszuschneiden, in den Hintergrund einzufügen,
+die Lichtverhältnisse über Photoshop wieder nachzubearbeiten und das Ganze dann zu einer Komposition wieder zusammenzubringen.
+Ja, es gibt andere Tools am Markt. Das sind so die Marktführer, die ich euch jetzt zeigen werde.
+Das ist einerseits Stable Diffusion. Ich habe versucht, mit dem Tool zu arbeiten.
+Mein PC ist in die Knie gegangen. Der wollte dann vier Wochen lang für ein Bild laden, 24 Stunden am Tag.
+Tag. Da kommt man glaube ich nicht so weit, unabhängig der Stromrechnung jetzt mal gesehen.
+Ist ein super Tool, damit kannst du alles machen, ist kostenfrei, das kann jeder nutzen dieses Tool,
+muss aber beim Download über Python programmiert werden. Also es ist nicht ganz so einfach zu
+herunterladen, gibt es aber Tutorials auf YouTube und so, also wenn man das ausprobieren möchte,
+gerne einfach machen. Hier seht ihr auch nochmal diese Steps, die ich vorhin angesprochen hatte,
+von eher einem animi-lastigen, fast einen Seilentrick-artigen Bild hin zu einem realistischen, realistischen Bild.
+Genau, und das Tool, mit dem ich jetzt arbeite, an dem ich gerade dran bin, das heißt Comfy UI,
+das ist so der aktuelle Marktführer, eigentlich die Nummer 1, dort kann ich alles machen.
+Also alles, was ihr euch vorstellen könnt, ist damit darstellbar, kostet auch nichts.
+Ich habe diese Linien, die hier miteinander in den einzelnen Punkten verbunden sind
+und diese Linien beschreiben genau, wie eben mein Prompting dem Weg folgen soll, bis hin zum endgültigen Bild.
+Also ich kann zum Beispiel sagen, ich habe hier ein Ausgangsbild, das kann jetzt die Luisa sein,
+ich mache irgendeine Klimasse selber und diese Person soll am Ende die Klimasse darstellen.
+Das ist möglich und mit diesem Tool, und das wird auch in der Echtzeit generativen KI dann sein,
+wird alles in Echtzeit über diese Linien laufen, die ich dann verändern kann.
+Zudem hat es ein sogenanntes Control-Net- und Line-Up-Programm.
+Das bedeutet, ich habe ein Ausgangsbild, also ich mache jetzt irgendeine Pose, ich klatsche in die Hände, wie auch immer,
+und kann dann dieses Bild als vereinfachte Knochenstruktur darstellen, das ist dieses zweite Bild,
+und dann eben über einen Liner, das ist dann wie so ein Bleistiftprogramm, das nachzuzeichnen für meine Person
+und die Person eins zu eins in der gleichen Pose darzustellen.
+Macht das natürlich schwierig, wenn wir jetzt überreden, biometrische Daten,
+wenn wir überreden, ob man irgendwelche bestimmten Positionen nach dem Ausreißen oder irgendwelche Sachen als Verifizierung machen muss.
+Ich kann alles theoretisch darstellen.
+Und es kann mir keiner nachweisen, dass ich es am Ende war oder dass es die Personen echt nicht war.
+Genau, nach diesem ganzen wie entstehen da überhaupt die Bilder, bin ich dann in den Videobereich eingetaucht,
+weil klar, auf Instagram und Social Media ziehen natürlich Videos mehr, bekommen mehr algorithmische Aufmerksamkeit.
+Dementsprechend habe ich mir das Ganze nochmal ein bisschen tiefer angeschaut.
+Dafür gibt es CleanAI, das ist eine chinesische Plattform, habe dort dann mein Ausgangsbild genommen
+und in diesen Videotool eingebaut und über CapCut dann noch verfeinert und geschnitten.
+jetzt mal ein Beispiel, wie hoch der Ton geht. Da seht ihr auch noch, wie das Ganze ausschauen kann in Bewegung.
+Also auch den Ton übernimmt das direkt aus den Bildern, sagt, okay, die Person lacht, also nehme ich da einen Tonbild rein.
+Und so kann eben, um einmal zu zeigen, das Ganze ausschauen. Und was ich sehr gut finde, wo die KI jetzt hineingeht,
+ist die Spiegelung hinten durch den Spiegel, dass sie die erkennt und eins zu eins auch schafft, abzuzeichnen.
+Woran erkennen wir jetzt hier noch, dass es KI ist? Wenn man genau hinschaut, natürlich an den Haarstrukturen.
+Also die Haare sind einfach, wie sie manchmal sich bewegen, fallen nicht ganz realistisch.
+Und das gleiche Thema ist auch immer in den Händen.
+Das sind so die zwei Knackpunkte der Knie, Hände und Haare, wo sie sich sehr, sehr schwer tun.
+Ja, auch hier gibt es sowas wie Control-Net.
+Also heutzutage kann ich zum Beispiel sagen, ich habe die Person, dann stelle ich die da wie so eine Statue sozusagen
+und kann ihre Arme, ihre Beine, was auch immer, bewegen, so wie ich das möchte,
+und sie zum Beispiel einen TikTok-Kanz setzen.
+Also sie sollte einen TikTok-Kanz nahe machen und soll dadurch Viralität erzeugen.
+funktioniert. Ihr seht hier außen auch Beispiele für verschiedene Tänze, aber ich kann auch
+ein eigenes Video, also ich kann mich selbst beim Tanzen filmen und kann das dann da reinladen
+und die Person macht dann genau das. Und dann gab es jetzt noch ein neues Tool, oder ein
+neu-altes Tool, aber das jetzt sehr groß auf Schlagzeilen geschlagen hatte, das war
+Google Gemini VO3. Unfassbar teures Tool, also wir reden davon über 1000 Euro pro Monat.
+Das ist sehr, sehr teuer. Ich habe mir damals einen kleinen, wenn es mal Heck bedient, dass
+dass ich mich über eine amerikanische Uni angemeldet habe für ein Tutorium
+und dort dann eine kostenlose Zugangsdatei hatte, um über den VPN-Server dann da drauf zuzugreifen
+und habe dann dort mal meine Person erstellt, weil das ist in Europa noch nicht eingebunden, dieses Tool,
+aber in Amerika ist es eben in der Testphase und habe dann nach den Prüfungen im Juni, Juli,
+einfach mal die Luisa sprechen lassen.
+Hi guys, I am now at home relaxing after my study exams. Hope you are doing well. See you soon.
+Aber in dem Moment hat es mir jeder geglaubt.
+Also ich habe keine einzige Person, die auf meinen Social Medias geschrieben hat,
+also es ist KI oder AI, wo man es oft sieht zu uns, Instagram, dass da tausend Leute kommentieren.
+Ich hätte gar niemanden. Und die Leute haben mir dann auch nur geschrieben, DMs und was weiß ich alles.
+Und auch Promis haben mir geschrieben, auch Fußballer, die zu Dates und sowas eingeladen haben.
+Das hat wirklich keiner gecheckt. Also es war für mich so, ich hatte es ja sogar oben drinnen stehen,
+so hier, virtual model und so, da habe ich mir gewiesen, die Leute nicht.
+Genau, in jedem Hashtag war es drin. Ich war sehr, sehr transparent.
+Aber ja, spätestens wo die Person gesprochen hat, hat es die meisten Leute irgendwie verwirrt, abgeholt, ich weiß es nicht.
+Und weil dann eben so eine Nachrichtenflut kam, habe ich mich ManyChat bedient.
+ManyChat ist ein Social Media Tool, das für mich KI-optimiert arbeitet.
+Das bedeutet, wenn irgendjemand mir einen Kommentar auf mein Bild oder auf mein Video schreibt,
+dann haut ManyChat das raus, was ich möchte.
+Jetzt hier mal ein Beispiel. Ich konnte hier oben auslösen, ob das für alle Bilder oder
+alle Videos zutritt oder nur für einzelne. Konnte dann angeben, bei welchem Board das
+reagieren soll. Ich habe es bei Anyword gemacht, der soll einfach nur kommentieren. Und schickt
+dann der Person, die mir kommentiert hat, eine directe Direct Message mit Link.
+Ja, du hast eine virtuellen Influencerin kreiert, die ein Video hat, woraufhin eine KI mit einem prominenten Fußballer...
+Also unter anderem.
+Unter anderem, ich übertreibe es jetzt erstmal, ich stelle mir das vollkommen skurril vor, dass...
+Ja, ich bin an verschiedenen Gruppen auch vernetzt und dann lernt man natürlich immer dazu und wie könnte man noch besser lernen als Müller oder Ege.
+Ja, aber irgendeiner, der da ist, ist vollkommen irre.
+Genau, und dann mehr oder weniger hat meine Karriere darauf reagiert, hat mir eine Nachricht geschickt,
+hey, wie geht's dir, keine Ahnung, und hier ist mein Link, weil ich wollte mir jetzt eine Bezahlsache bringen,
+damit ich die Geld ausgenehme, die ich ja Geld damit verdiene.
+Und ich habe das dann nach einer Woche wieder gestoppt, weil ich schnell gemerkt habe, das ist ja auch nicht persönlich,
+also das bekommt jeder das Gleiche, wenn jetzt eine Person, so mein riesen Fan ist,
+unter jedem meiner Bilder fünfmal kommentiert, bekommt er fünfmal die gleiche Nachricht rausgeschnitten.
+Und da dachte ich mir, weiß nicht, ob das jetzt noch so glaubwürdig dann am Ende ist,
+dementsprechend habe ich es dann irgendwann gestoppt und dann einfach persönlich übernommen.
+Aber ja, es gibt auch komische Menschen, die da schreiben, von dem her ist nicht immer ganz so schön.
+Ich kann ja auch schon was machen.
+Welche Bilder haben wir da?
+Man sieht alles. Ich füge mit jeder Frau mit, die auf Social Media unterwegs ist, weil ich habe das aus der First Person Perspektive gesehen.
+Was ich dann auch noch gemacht habe, weil mir sehr viele Leute geschrieben haben, sie wollen mir Geld schicken.
+Also sie wollen mich unterstützen, sie wollen mir Geld schicken.
+Da dachte ich mir, gut, meine Bankdaten gebe ich da jetzt ja nicht an, was mache ich denn jetzt?
+jetzt? Dementsprechend habe ich dann ein Kryptokonto aufgebaut, damit ich mir halt über Krypto
+Geld schicken kann. Kann ich mich null aus, muss ich mich erstmal einlernen, bis das dann
+mal funktioniert. Kam dann aber auch genügend Geld, das ist nicht mein echtes Konto, nicht
+wundern, also ich habe keine 10.000 US, USTC da eingenommen, aber mehr oder weniger wurde
+ja da ein Kryptokonto überlegt. Komme ich aber nahe nochmal dazu. Ja, jetzt reden wir
+über Geld. Wenn wir über Geld reden, reden wir in Deutschland immer über Steuer. Dementsprechend
+musste ich natürlich mein Unternehmen auch umformieren und bin dann zu Gemeindegang gekommen
+aus Durach. War relativ interessant, ne? So eine konservative
+allweilige Gemeinde, und du kommst da jetzt mit einer
+Karriere, die du dir angeschaut hast, die wissen gar nicht, was ich will.
+Und dann hat der formuliert mir das jetzt, dass das Finanzamt das versteht.
+Und dann haben wir das über Ecken versucht, irgendwie zu formulieren,
+was wir denn da machen und wie das Geld generiert wird. Und dann habe ich ein paar Tage später
+einen Anruf vom Finanzamt bekommen, die sagen, so was gibt's? So was gibt's
+wirklich? Ich sage, ich weiß auch nicht, wie ihr das jetzt
+einkategorisieren könnt, aber das funktioniert. Und am Ende
+hat es halt irgendwann geklappt und dann habe ich einfach das Unternehmen umbenannt, habe
+das Ganze ein bisschen versteckt gehalten. In Deutschland haben wir eine Impressumspflicht,
+wenn wir als Unternehmen auftreten, dementsprechend muss ich eine Impressum führen. Das ist aber
+natürlich nicht auf der First-Ebene gleich angegeben, weil es gibt halt einfach Leute,
+die, wenn sie dann darauf kommen, dass es KI ist, dann eine sehr aggressive Grundeinstellung
+haben können und am Ende erst die Person vor deiner Haustür stehen. Und das ist ein
+Thema natürlich, wie offensiv werbe ich damit. Gleichzeitig kannst du dich natürlich auch
+ein Stück weit als Management darstellen. Du musst ja nicht direkt sagen, das ist jetzt
+Es ist gewerbesteuerpflichtig, ein Gewerbe, keine Freiteruflichkeit, ich glaube, okay.
+Dann ging es mir darum, sich noch zu verbessern. Jetzt hatten wir Bilder, jetzt hatten wir Videos,
+aber wie bekomme ich jetzt noch mehr Konsistenz auf das Gesicht?
+Dafür gibt es, was es nennt, Laura. Das ist eine Laura-Partei.
+Das ist eine Partei, die ich erstelle auf Basis von mindestens 100 verschiedenen Bildern.
+Also ich muss meine Person, wie ihr es hier seht, in 100 verschiedenen Szenarien darstellen.
+darstellen, die müssen natürlich erstmal generiert werden, das ist sehr viel Arbeit,
+und dann kann ich aufgrund von dieser Basis die Datei erstellen, die ich dann nutze für
+jedes Programm, um zu sagen, egal was ich da jetzt eingebe, keine Ahnung, sie fliegt
+im Flugzeug, dann ist sie sofort perfekt mit Gesicht, Körper, alles eins zu eins dargestellt,
+wie ich sie definiert habe ursprünglich.
+Habe ich jetzt hier gemacht, als Beispiel mal, immer nur frontale Bilder in verschiedenen
+schwarzen Kleidern, am besten mit einem einfachen Hintergrund, zum Beispiel weiß, und das Kleid
+Dann haben wir es aus anderen Perspektiven gemacht. Sie schaut auf die Seite, manuell ihren Körper, Kussmund, seitlich, von hinten.
+Also einfach verschiedenste Möglichkeiten erschaffen, um einer Leute zu sagen, nutze das.
+Jetzt habe ich das auf meinem PC auch wieder probiert. Mein PC ist nicht so alt, aber irgendwie kam dann auch ein Jahr lang Lade-Lauer.
+Dann dachte ich mir, gut, das Jahr habe ich jetzt eindeutig nicht.
+Dann habe ich es versucht über das Mimik-PC.
+Da kann ich zugreifen auf serverbasierte, gute PCs und dort einfach arbeiten lassen.
+Aber das kostet mich pro Minute 2-3 Euro.
+war dann auch nicht so wirklich erfreulich. Ich habe dann ein paar Lösungen rausgekommen, die haben nicht gut ausgesehen, da war dann das eine Auge hier, das andere Auge war da.
+Dann dachte ich mir, ich weiß nicht woran es liegt, habe dann mit vielen Leuten geschrieben und am Ende kam raus, dass mein Checkpoint, das High Dream Full, das ich genutzt habe, dafür nicht so optimal ist.
+Es gibt bessere Checkpoints, das sind die SDXL Checkpoints, also von Stable Diffusion, die sind halt perfekt für den Roller geeignet, meiner war es halt einfach nicht.
+Dementsprechend habe ich dann irgendwann gesagt, okay, wenn ich mit Duisac weiterkommen möchte, dann muss ich sie neu aufbauen, weil ich komme nicht so rum.
+Aber, das war ja später, am Anfang habe ich noch für Sie eine Marketing-Strategie entwickelt.
+Also Kanäle aufgebaut, Logos aufgebaut, Schriftarten aufgebaut, alles was man normalerweise in
+einem Branding für Unternehmen auch macht, habe das einfach nur adaptiert für Sie, alles
+gleich geschrieben mit Punkt, war dann so eine typische Darstellung von Dir und habe
+das Ganze dann aufgebaut.
+Gleichzeitig eine Webseite für Sie aufgesetzt, wo natürlich dann auch Unternehmen drauf
+konnten, wo sie gerade sich befindet, was sie anbietet auf dem Markt, mit Impressum und
+und natürlich das auseinander zu finden ist, habe dann hier eine Kooperation, die war sehr cool,
+das war eine, vielleicht kennt ihr das auch, eine amerikanische Modemarke, eine Luxus-Unternehmen-Marke,
+die auf mich aufmerksam geworden ist und mir gesagt hat, hey, wir wollen das mal,
+probieren mit KI-Influencen zu arbeiten, haben mir dann dieses Bild und dieses Set geschickt
+und gesagt, hey, wir wollen, dass das Luisa anhat.
+Ihr habt jetzt hier den Prozess so ein bisschen, ich habe das Endbild nicht dabei,
+weil ich es offiziell nicht zeigen darf, das ist natürlich, also ich habe meine Lizenz ja geschützt,
+aber für diesen Auftrag 2.500 Euro bekommen, was natürlich ziemlich cool ist.
+Du machst das jetzt erst seit einem Monat und kannst natürlich so auch darstellen.
+Und die haben das Ganze dann natürlich in ihren marktlichen Zwecken dann auch benutzt.
+Also die Luisa in dieser Wäsche auf ihrer Webseite gehabt und kein Kamm.
+Und das war natürlich ziemlich cool.
+Genau, und dann natürlich die weiteren Kanäle aufgebaut.
+Das ist TikTok gewesen, Pinterest, Instagram, hier natürlich noch eine Weiterleitungsseite,
+wo wir auf Fanview und auf Wishlist kommen, hier unten ist auch die Webseite etabliert.
+Und natürlich auch mal hier mit diesem Created by AI, dass man einfach sieht,
+hey, es geht hier um eine virtuelle Influencerin.
+Jetzt zu den zwei Punkten Fanview und Wishlist.
+Natürlich wollte ich das komplette Spektrum kennenlernen, was es da am Markt gibt.
+Fanview ist nichts anderes wie OnlyFans, nur für AI-Creators.
+Also mehr oder weniger genau die gleiche Sache, nur man weiß, wenn man sich darauf befindet,
+es ist halt am Ende die OnlyFans.
+Warum? Ich meine, OnlyFans ist heutzutage eine der größten Medien, die wir im Markt haben,
+wo unfassbar viel Umsatz generiert wird. Und ich habe mir natürlich gedacht, hey,
+wenn du diese InfluencerInnen hast und damit viel Geld verdienen könntest, dann probieren wir doch
+mal, ob das auch in diesem Rahmen funktioniert. Gleichzeitig habe ich mir eine Wishlist angeregt,
+weil mich sehr viele Leute gefragt haben, die wollen mir nur mal schenken, schicken,
+aber nicht Geld, sondern was Materielles. Da habe ich mir erholt, mache eine Wishlist,
+habe ein paar Sachen drauf. Irgendwann muss ich sagen, dass meine Freundin stark davon profitiert
+weil er kann alle möglichen Designerkleidungen, die Richtung Flosses sind, aber ja, das klappt auch schon mal.
+Das kann man als Geldwertervorteil versteuern.
+Ja, genau, das muss man alles angeben.
+Wir haben eigentlich eine andere Vorlesung, Unternehmensplanung, Organisation, kommt später,
+aber selbst dann, ab dem Moment, wenn Sie irgendwelche Sachen geschenkt bekommen, dann muss alles angegeben werden.
+Kein Dubai-Influencer, Patrick ist ein ehrlicher.
+Richtig.
+Ja, es hat die Ausnahme, also es muss die Ausnahme kennenlernen, dass man das wirklich alles so angeben muss,
+Du musst immer den Originalwert angeben, am besten sogar noch mit dem Bestelldatum ein.
+Also es ist schon relativ aufwendig, vor allem, wenn es eine amerikanische Ware ist,
+wo dann natürlich noch die Zoll- und Steuerkode drin ist.
+Genau, dann hatte ich eben, wie gesagt, hier, das war die Wishlist-Seite, das war die Fanview-Seite.
+Funktioniert eben wie Onlyfans, du kannst eine Subscription kaufen,
+wo du dann 4 EUR pro Minute für Steuern zahlst, pro Monat,
+um auf eine bestimmte Anzahl von Bildern, also 10% der Bilder ungefähr, zugreifen zu können.
+Die anderen 90%, die im Feed sind, kannst du kaufen, gegen Geld.
+Das kostet dann halt nochmal, auch wenn du eine Subscription hast.
+Und das meiste Geld machst du aber in den private Chats.
+Also im Chat selber, dass du den Personen ein Bild zur Verfügung stellst, die sie dann
+Beispiel, einer hat von mir ein Bild, das zeige ich euch jetzt hier, dass er das Bild
+für 100 Euro gekauft hat.
+Funktioniert.
+Funktioniert.
+Männer sind echt, also...
+Super einfach gestrickt, in dem Fall.
+Dass Männer ausgestorben sind, das ist...
+Absolut.
+Und natürlich ist alles darstellbar.
+Du könntest die Person natürlich auch ausziehen, was ich eigentlich, glaube ich, nur einmal
+einmal gemacht habe, weil ich sagte, ich möchte jetzt auf die Ebene, ich will das ja auch als Model mehr halten.
+Und da war es auch nur obenrum und von hinten, also das war jetzt nicht direkt sichtbar.
+Es geht mit den Tools, ich habe es ausprobiert, aber das ist natürlich dann schon so ein Thema,
+wo ich auch gesagt habe, klar, dafür könntest du jetzt 500, 600 Euro für so ein Bild verlangen,
+das reicht glaube ich gar nicht, ich kann die Welt ja nicht mehr halten, weil 1000 verdient ihr nicht.
+Aber ich wollte meine Marke nicht verwässern, weil ich noch...
+Du hast doch einen Komponenten, oder?
+Ja, ich muss sagen, man lebt so zwei Leben irgendwie.
+Das eine Leben ist dein eigenes, das andere ist lustiger auf der Welt und keine Ahnung,
+und ich dachte mir, nee, ich will nicht in diesen Kooperationsbereich,
+wenn diese Bilder dann irgendwie die ganze Zeit öffentlich kommen,
+dann habe ich auch nichts davon.
+Man war dann, sie sind ja im Verswitchen,
+was mache ich jetzt, was mache ich jetzt nicht.
+Genau.
+Ja, das Ganze habe ich dann für mich in der Ex-Liste festgehalten,
+weil es natürlich in meiner Strategie wichtig war,
+welche Märkte bediene ich.
+Also hier oben sehen wir USA im Osten, USA im Westen und Deutschland.
+Zu welchen Tageszeiten sind die Leute aktiv?
+Wann ist der meiste Traffic?
+Welche Inhalte kommen da?
+Was suchen die Leute?
+Ich habe das alles einmal detailliert durchgeschaut, um dann eine klare Strategie davon ableiten zu können.
+Und dann natürlich, wir hatten das Thema Rechtskonformität.
+Die Tools selber bieten ja Möglichkeiten, um zu kennzeichnen, dass es AI ist.
+Wichtig, Meta braucht eine Kennzeichnung nur bei Videos und bei Sprachnachrichten oder Musik, nicht bei Bildern.
+Das heißt, theoretisch könnte ich jedes Bild ohne irgendwie einen Kommentar versehen.
+Ich habe es dann aber irgendwann gemacht, weil ich gesagt habe, komm, das ist egal.
+Das ist egal, nur am Anfang war ich mit diesem Label ziemlich vorsichtig,
+weil das natürlich den Algorithmus auch stark vermindert.
+Also sobald du das einstellst, merkt du, Algorithmus, hey, das ist AI,
+interessiert mich jetzt gerade noch weniger.
+Genau, das Ganze geht hier bei Instagram eben mit dem KI-Label beim Posten,
+kommt dann hier oben oder in der Information.
+Und bei TikTok geht das Gleiche, das kommt dann hier unten links beim Video,
+falls es euch mal interessiert, wenn ihr das sehen solltet.
+Und wie gesagt, ich habe es oben in meiner BIOS Virtual Model für als KI-Influencerin gebrandet,
+gebrandet, haben sie mir dann auch gesagt, hier
+die Kollegen, mit denen ich im Chat war,
+nehmen das KI raus, das reduziert nur die
+Algorithmus-Reichweite, wird im Modell
+vollkommen aus, um da rechtskonform zu sein.
+Rechtskonformität
+ist natürlich auch abhängig von dem Artificial
+Intelligence Act, der auch von der
+Europäischen Union rausgegeben wurde, da kann man sich
+einlesen, wie denn das alles so ist, was man alles
+kennzeichnen muss oder nicht. Das ist aber mehr
+auf Unternehmensebene bezogen und auf Tools,
+die genutzt werden, wie jetzt auf Influencer, da ist dieses
+ganze Act ein bisschen hinterher.
+Ja, jetzt haben wir die Person, jetzt haben wir viel von der Person gesehen, jetzt ging
+es aber für mich hier auch noch um Räumlichkeiten zu kreieren.
+Also wo ist die Person?
+Auf dem Golfplatz zum Beispiel.
+Wie kann ich Marken kreieren?
+Da muss ich leider zu sagen, Marken sind ganz, ganz schwierig, weil wenn Nike jetzt rausbekommt,
+dass ich hier eine Golftasche erstellt habe, die sie gar nicht in ihren Produktionen führen,
+dann wird das natürlich relativ teuer für mich werden.
+Und das gleiche auch bei dem Bike jetzt hier von Pew.
+Also da muss man schon schauen, wenn man das dann auch veröffentlicht, inwieweit kann
+kann ich das mit den Markenrechten auch vertreten. Aber so habe ich eben für mich
+Räumlichkeiten erstellt. Ihr seht jetzt hier auch, wenn man mal das Bett mit der Lichterkette
+hier nimmt und man geht jetzt da gerade zurück, dann seht ihr hier das Bett mit der Lichterkette auch.
+Das ist nicht 100% perfekt. Wenn ihr das genau nebeneinander legt, seht ihr immer noch Unterschiede.
+Aber für den schnellen Nutzer, der irgendwie mal kurz drüber schaut, über dem Feed fällt,
+das ist ja kein Problem. Und das gleiche natürlich auch für Speisen und Getränke.
+Also wenn ich jetzt gerade nicht in New York war, um da irgendwas zu essen,
+habe ich sie natürlich dann irgendwie darstellen müssen und dementsprechend habe ich dann die
+Speisengedränke auch erstellt. Man sieht, wenn man ganz genau hinschaut hier so im Spiegel,
+das sieht nicht ganz so aus im Spiegeleil, aber beim Rest ist es schon sehr, sehr gut gelungen.
+Ja und dann habe ich auch ein Stück weit meine Freunde mitgenutzt, weil ich einfach gesagt habe,
+ich mache die Symbiose aus virtuell und analog, weil das verwirrt natürlich die Leute noch viel
+mehr, weil auf einmal die Personen bei analogen Veranstaltungen, wir waren zum Beispiel beim
+World Club Dome eingeladen, VIP oder auch bei Moe, waren in Kroatien eingeladen und du zeigst
+dann dort die ganzen Sachen, dann schauen dich auf einmal alle an und denkst dir so,
+hä, die ist ja da wirklich, ne, dann schreiben dir auf einmal die Leute auf dem Festival,
+ja, können wir uns treffen. Und das ist natürlich dann noch viel mehr Nähe, die du erzeugst,
+wenn du die Leute abholen kannst. Oder eine Chiago-Konzertation zum Beispiel. Und das
+ist dann sehr interessant zu sehen, wie dann die Menschen eben drauf reagieren. Und was
+dann eben auch noch wichtig war, und jetzt für mich in Zukunft, wenn ich es neu aufbaue,
+noch wichtiger wird, war einfach die Vernetzung und Viralität. Das sind jetzt alles Leute,
+mit denen ich schon gearbeitet habe, oder die ich jetzt persönlich und freundlich gut
+kenne. Genau, Dennis.
+Den hätte ich auch gedacht, die Vorlesung
+einzuladen, aber das machen wir nochmal.
+Das kannst du auf jeden Fall machen, da können wir dann auch nochmal zusammen.
+Ja, okay, weil er im Fitnessstudio ist, glaube ich.
+Genau, ja. Okay, gut.
+Mit dem einen waren wir dann im Kontakt, haben uns auch mal
+ausgetauscht, getroffen, gesprochen, gesagt, hey, wie können
+wir dann noch besser werden?
+Wie könnte das noch besser funktionieren?
+Wie ist auch das Thema Kali-Influenza
+für eine echte Influenza? Also wenn es sich den Gefahren
+macht. Jetzt bei Lisa zum Beispiel,
+für sie ist das ihr jetzt weiterhängen, weil sie kommt
+ja offiziell aus dem Sportbereich, in dem her
+Die KI-Influencer wird jetzt nicht nur Olympioniken ersetzen, aber gleichzeitig natürlich im Bereich von der Pamela Reif, wo die YouTube-Videos zum Beispiel erstellt werden,
+im Sportbereich kann sowas natürlich mit Control-Net und Co. einfach ersetzt werden.
+Und so geht es eben durch die verschiedenen Bereiche und auch die Influencer fürchten da natürlich stark, dass ihr Bereich ersetzt werden könnte.
+Also die Wahrscheinlichkeit, dass Pamela und Alisa auch eine KI für diese WhatsApp-Chats ist relativ hoch, oder?
+Oder sagt, nein, keine Nachrichten.
+Die Stadt selber, bei Camilla ist es das Management, wo dahinter steht,
+aber die machen jetzt keine KI-Dinger.
+Die haben da eh Blogger drin, dass die ganzen Nachrichten einfach nicht durchgehen.
+Okay.
+Die meisten.
+Aber die könnten eigentlich, wenn sie so eine KI draufsetzen,
+könnten sie natürlich ihre Reichweite und ihre Aktionen
+und vom Sales-Funnel dann auf die Seite können,
+die das Sales-Funnel erhöhen, ja.
+Natürlich, ich meine, bei Camilla und der Lisa sind die Einnahmen so gut,
+dass sie jetzt auch sagen, was bringt mir das jetzt,
+unpersönlicher zu werden, also auch das Management,
+um dann da noch mehr Sales-Funnel zu erhöhen.
+Und ihre Haupteinnahmequenz
+ist natürlich immer die Frage, woher kommen die?
+Wenn die für Marken werden und sowas, haben die natürlich auch bestimmte
+Berechtigungen, nur die sie damit auch machen dürfen.
+Aber möglich wäre es,
+sie könnten es alle einbinden, sie könnten
+alle damit natürlich ihr Instagram, ihr Sales-Funnel
+verstärken.
+Aber bisher, so von denen, die
+jetzt hier aufgeführt ist, weiß ich, dass es keiner
+tut. Das ist alles entweder über das Management oder
+persönlich geschehen.
+Genau, da habe ich ja mal kurz was mitgebracht. Real oder fiktiv? Vielleicht habt ihr das
+ein oder andere Bild schon mal gesehen, dass man einfach mal sieht, wie schwierig es auch
+ist, da real von fiktiv zu trennen. Jetzt hier oben zum Beispiel die LGBTQ-Demo vom
+Bundestag ist natürlich fiktiv gewesen. Hier auch der Donald Trump, der von den Polizisten
+niedergerungen wird. Auch das Fischsterben der Speicherstadt, das war zum 9-Euro-Ticket
+oder 7 Euro Ticket, oder was war das nochmal?
+Der Massenanlauf.
+Diese Band hier, komplett digital,
+alle Songs, die komplette Bandbranding,
+die kompletten Auftritte, die Musikvideos,
+alles digital. Und dann noch hier
+Obama mit Merkel. Und wir sehen
+aber in der gleichen Zeit auch eben, dass
+die Anzahl an Deepfake-Videos im Internet
+sich jede 6 Monate verdoppelt.
+Also wir haben immer mehr Deepfake-Videos, nicht nur
+von Prominenten, sondern eben auch von
+ganz normalen Menschen.
+Und wenn man das auf Länderebene runter bricht, vor allem
+in den Election Years, also in den Wahljahren
+2024, dann sehen wir, dass gerade
+in den asiatischen Märkten, China, Hongkong
+und Co., aber auch Brasilien und Türkei
+den unglaublichen Anstieg haben von
+T-Face. Also gerade in Bayern.
+Also das heißt, ich noch mal
+Entschuldigung, das heißt, ich meine, das ist jetzt mit der
+Luisa, die ist ja ganz nett und die macht aber nichts
+kaputt, aber wenn ich da
+mal ein Koran
+verbrennen lasse oder sowas,
+dann weiß ich, dass
+das Propagandamedium, wo wir
+Friedrich Merz, ich übertreibe
+jetzt verbrennten Koran und so. Da weiß ich aber, was abgeht da. Also das ist, das ist genau das
+Diebfeld, von dem wir hier sprechen, das natürlich jetzt hier auf München ist. Deswegen, also da muss man schon, ganz klar, das ist schwierig.
+Ich weiß es selber, wenn man auf Instagram oder so geht, es ist sehr, sehr schwierig, das wirklich zu erkennen, ist das jetzt effektiv oder ist das jetzt real.
+Wenn du da jetzt nicht selber nach Quellen gehst, dann wird das schwierig.
+Und auch in Chat-GBTs, da kann ich gut die Quelle lesen.
+Am Ende ein Sprachmodell ist mal nichts anderes, wie Informationen aus dem Internet auswerten.
+Aber auch ich kann Chat-GBT erzielen.
+Also wenn ich dir nur 200 Mal schreibe in einem Chat,
+als Beispiel Albert Einstein und Fernando Cleopatra haben Kaffee getrunken zusammen,
+dann wird er zu mir jedes Mal sagen, das stimmt nicht.
+Aber nach 200 Mal wird er irgendwann sagen, ach ja stimmt, klar,
+in einem Tag haben wir Kaffee getrunken.
+Und das ist das, wo wir aufpassen müssen, woher ziehen wir uns Informationen.
+Also, das ist ein Lekt von Luisa, aber das ist allgemein natürlich jetzt auch bei kritischen Themen, die wir im Alltag hören oder sehen.
+Ja, dann zu meiner Ausgabe und Einnahme.
+Man sieht es hier ganz klein, klar, wir hatten Werbeausgaben, das waren jetzt ungefähr so 150 Euro,
+ich habe verschiedene Zielmärkte mit wenig Geld einfach getargetet,
+also wie gesagt, 5 Euro auf Indien, 20 Euro auf USA, 20 Euro auf Deutschland,
+einfach zu schauen, wie reagiert der Markt auf KD, wie reagieren die Personen auf KD.
+Klar, in Indien mit 5 Euro, da erreichst du gefühlt schon mal eine ganze Stadt.
+Das ist in Deutschland nicht der Fall.
+Aber da muss man einfach gucken, wo verteilen sich denn da auch die Vorlieben, die Muster,
+um da einfach dann aufspielbar mehr lernen zu können.
+Dann natürlich die verschiedenen Tools.
+Ihr seht jetzt hier sehr viele.
+Wie gesagt, ich habe sehr viele durchprobiert.
+Man hat immer dieses Monats-PC, das man jetzt hier rechnen muss, weil es war immer ein Monat
+und ich habe es hier angetestet.
+Hinten einfach mal hochgerechnet als Jahresbudget und da kamen dann noch ein paar Tools dazu.
+Aber da sehen wir jetzt auf der linken Seite die, die jetzt wirklich eigentlich aktiv genutzt
+und CapCut und die Rechten dann eigentlich weniger bis gar nicht genau und dann haben wir natürlich
+die Ausgaben nochmal zusammengestellt heißt wir waren da in diesem Monat wo ich das gemacht habe
+ungefähr 620 Euro was ich in die Hand genommen habe um das zu verstehen und um das wirklich
+voranzutreiben es wäre jetzt im Jahr wenn das so bleiben würde knapp 7500 Euro aber wie ich
+Wie gesagt, es gibt Tools, die sind kostenlos, die sind besser.
+Da muss man sich einlernen, da muss man programmieren können und Co. dafür.
+Und dann kann man das Ganze natürlich auch reduzieren.
+Ja, und auf der Einnahmenseite, über die Subscriptions bei Fan-Fuhr,
+habe ich knapp 72 Euro gemacht.
+Die Posts und Texte, also im Text, was verkauft, ein Bild zum Beispiel,
+da habe ich 300 Euro damit generiert.
+Über Krypto, also geschickt bekommen als Trinkgeld,
+habe ich 240 Euro ungefähr.
+Kooperationen, das waren Kleinkooperationen,
+wo ich nur mal in einer Szene für ein Hotel irgendwas durchgeschickt habe,
+oder so waren es 150 Euro, Fashion 2.500 und auf der Wishlist waren es 363 Euro.
+Heißt, im Großen und Ganzen sind es 3.600 Euro gewesen in diesem einen Monat,
+wo ich das betrieben habe, neben der Hochschule, hier meistens dann abends und nachts,
+weil es natürlich der amerikanische Markt war, und im Großen und Ganzen sind dann 3.000 Euro davon ungefähr hängen geblieben.
+Also es lohnt sich, wie man sieht, man kann schon noch mehr rausholen und noch viel mehr machen,
+wenn man noch mehr Zeit investiert, aber das Ganze steckt nicht mehr ganz in den Kinderschuhen,
+aber jetzt in Deutschland haben wir eben noch die Möglichkeit, den Markt dann auch noch wirklich als Pionier zu betreten.
+Ja, wie geht das jetzt für mich weiter?
+Wie gesagt, ich möchte günstiger werden und natürlich noch konsistenter.
+Deswegen auch dieses Control-Letters, das Comfy UI natürlich nutzen und ausbauen.
+Ich will weg von diesem ganzen jetzt mal erotischen Content kommen,
+rein zum Influencing, also wirklich für Kooperationen zu arbeiten, auf Kooperationen zu setzen,
+weil da fließt natürlich entschieden mehr Geld und wir entschieden bessere Reputationen.
+Und ich möchte natürlich die Person jetzt zum Beispiel auch mit dem Produkt ausstatten,
+zum Beispiel eine Bulldose, oder ich möchte sie in ein Hotel setzen,
+und sie läuft dann durch diesen Gang durch und war in dem Hotel, und ich kann da die Kooperation annehmen.
+Und natürlich, falls irgendjemand von Ihnen Interesse hat,
+immer offen da Leute anzunehmen, die sagen, sie wollen da eintauchen,
+die wollen mir da helfen, mich unterstützen,
+dürfen sich gerne bei mir melden, und da kann man auch gerne gemeinsam schauen,
+wohin da die Reise geht.
+Hier auf dem Bild seht ihr jetzt eine Person, die war ganz bekannt durch Ründelten,
+die war dort vor Ort, also der Creator hat da mal den näheren Platz fotografiert und hat sie dann eingefügt und das ging dann überall durch alle Medien und Co.
+Das war mit Abstand einer der größten Influencerinnen am Markt.
+Problem, sie war nicht gekennzeichnet.
+Heißt, sie ist heute, ich weiß nicht, ob sie wieder auffindbar ist auf Instagram,
+aber sie war, wo ich geschaut habe, ist sie mal nicht mehr auffindbar,
+man hat sie komplett von allen Tools runtergenommen und das ist natürlich schmerzhaft,
+wenn man viel Geld investiert hat, Kooperationsverpflichtungen, die Verträge sind knüppelhart,
+also ich sage mal nicht, ja gut, dann gibt sie ja nicht mehr, kein Problem, sondern das wird teuer.
+Aber sie war so mehr oder weniger aus meinen Augen das Nonplusultramarkt von allem.
+Also von Konsistenz, von Schärfe, von dem, wie sie eigentlich sein sollte.
+Was ich jetzt noch gemacht habe in den letzten Wochen, das ist jetzt recht frisch, das ist eine Premiere, die hat noch niemand gehört.
+Ich habe meine Luisa in den Musikbereich eingeführt.
+Also ich habe jetzt hier ein Lied singen lassen und einfach gedacht, ich war jetzt am Wochenende auf einem Konzert von Benson Boone
+und dachte mir, ach cool, komm, wir machen das einfach im gleichen Stil, das wird schon irgendwie.
+und haben gedacht, vielleicht ist das ja auch mal eine zukünftige Ausrichtung, die sie einnehmen könnte, um auf Spotify die Charts zu holen.
+Gerade heute hat eine amerikanische Band, oder ein Singer, glaube ich, ein Singer-Songwriter, K.B. erstellt,
+die Country Charts in Amerika zum Billboard-Platz 1.
+Die Country Charts sind ein bisschen einfacher zu holen, als die Pop-Charts, können wir darüber streiten, aber es funktioniert.
+Ich habe das jetzt einfach mal mitgebracht, ich hoffe, es funktioniert.
+Ich könnte mal reinhören, oder sehe ich keinen?
+Den Text habe ich auch mal hier draufgepackt. Ich habe einfach mal einen Text über Kempten geschrieben.
+Das passt jetzt ganz gut.
+Untertitelung des ZDF, 2020
+Oh, Captain, you're my melody, where every heartbeat speaks to me, through the echoes of your history, more than just a place to be.
+Musik
+... Musik ...
+Untertitelung des ZDF für funk, 2017
+... von den Sternen.
+Und wenn ich weg bin, fühle ich den Lauf.
+Ihr Rhythm lebt in jedem Lauf.
+Keine Distanz zieht mich aus.
+Ich liebe euch in meinem Herzen.
+Oh, Captain, du bist meine Melodie.
+Du bist der Geräusch, von dem ich sein werde, durch die Heimat und die Erinnerung, oh, ewig, oh, Captain, in meinem Herzen, du warst mit mir von Anfang an.
+mal veröffentlichen. Das ist eben jetzt dazu, wie gesagt, ein anderes Projekt, wo ich jetzt
+ein bisschen versuche einzufinden, weil das natürlich auch nochmal Möglichkeiten bietet,
+wenn man jetzt hier auf diesen Musikmarkt geht. Da einfach mal zu versuchen, kommt man
+dann wirklich in die Charts,
+wie schwer ist es, in die Charts zu kommen.
+Von ein paar Freunden weiß ich,
+es funktioniert. Am Anfang zählt nur die Teilung
+bei Spotify, wie oft das Ganze in der
+kurzen Zeit von 2-3 Stunden angeschaut wird.
+Und dann ist man schon in den Top 10 Charts drin.
+Aber ob das mit KI auch so funktioniert
+und so einfach, das weiß ich nicht.
+Das wird dann die Zukunft zeigen.
+Ja, dann noch hier zum Ende mein Kontakt,
+falls jemand wirklich Interesse haben sollte,
+da mal in die Tiefe zu schauen.
+Ansonsten kann ich mich auch immer in der Fakultät BW
+einfach ansprechen oder in der Mensa oder wo auch immer.
+Und dann bleibt mir eigentlich nicht mehr viel zu sagen. Stillstand ist Rückstand, sage ich nur.
+Geht mit der KI. Ich meine, am Ende, wir werden es nicht aufhalten können.
+Es wäre auch vermessen, das zu tun. Wir müssen umgehen, wir müssen die Risiken kennen.
+Wir müssen positiv das mitnehmen, was wir daraus ziehen können.
+Und umso früher wir anfangen, das war eben ja auch mein Grund,
+die Generationen, die nach uns kommen, die werden uns abhängen auf dem Weg,
+weil sie einfach viel, viel weiter sind.
+Und da gibt es auf jeden Fall Sinn, da mal hinter die Fassaden zu gucken.
+Vielen Dank für die Aufmerksamkeit.
+Wenn ihr Fragen habt, so fragen wir. Ich habe auch einige.
+Danke.
+Ja, okay. Also du wirst dann da, also das mit dem Moe oder was du da jetzt hattest,
+also wird dann die Luise da quasi eingeladen, dann gehst du mit deiner Freundin dahin und gönnst dir das?
+Ja. Also gönnen ist natürlich, du hast Arbeit, du musst das vor Ort halt dann irgendwie fertig machen,
+du hast kein Laptop oder was, also ein Handy.
+Aber genau, du bekommst eine Einladung, die meist Unternehmen merken oder wissen, dass es KI ist.
+Auf der Basis schreibst du auch und dann sagst du natürlich, ey, du wirst deine Freundin mitbringen,
+weil das ist die dann für die analogen Zähne verantwortlich ist und ich meine, das kannst du natürlich digital.
+Und dann kannst du da hingehen, genau.
+Dann bekommst du da, so wie eine normale Influencer,
+alles das Schöne ist, dich kennt kein Mensch.
+Du läufst halt so und denkst dir so, du hast eine komplette Ruhe.
+Und genau.
+Du lernst dann dort aber halt auch viele Leute kennen
+und natürlich am Ende networken ist alles nah.
+Also wenn du gut vernetzt bist, dann bist du da auch ganz gut dabei.
+Ja.
+Hat meine Frage geantwortet?
+Ja, also wie reagieren, also wenn du dann da andere Leute kennenlernst,
+sagen wir mal richtige Influencer,
+wie reagieren die dann darauf, wenn du sagst, du machst das ja bloß,
+also du bist ja gar nicht,
+Du wirbst nicht mit deinem Gesicht, sondern mit wem virtuell?
+Also bisher habe ich es eigentlich immer positiv erlebt,
+weil ich natürlich schon auch eher so ein wissbegieriger Mensch bin
+und halt nachfrage so, hey, wie seht ihr denn das überhaupt?
+Ich meine, ich mache das ja nicht, um euch jetzt vom Turm zu schmeißen,
+sondern ich möchte ja auch wissen, wie nimmt ihr das an,
+wie kann man das auch als Symbiose verbinden, was kann da ein Influencer mit tun?
+Und ich glaube, die meisten sind eher sehr überrascht gewesen,
+dass sowas schon geht, also eher so ein bisschen Angst um sich selbst,
+so hey, wow, das kann man sehr ersetzen, und was machen die Unternehmen in Zukunft?
+Aber es war immer ein sehr guter Austausch und du kommst relativ schnell an Kontakte,
+weil die einfach merken, hey, da passiert irgendwas, was sie noch nicht verstehen,
+wovon sie aber profitieren könnten, wenn sie jetzt halt aufspringen.
+Also bis jetzt war es eigentlich immer äußerst positiv.
+Okay.
+Weil viele, die jetzt auch größer sind, die wünschen sich das manchmal auch,
+dass sie dann halt einfach Privatsphäre haben.
+Ja klar, mich kennt jetzt in Kempten kein Mensch, was schön ist.
+Aber wenn das immer nur reduziert werden würde auf deine Persönlichkeit als Prominenter,
+dann ist es natürlich auch manchmal schwierig.
+So schön solche Einladungen auch sein können.
+Okay.
+Weitere Fragen?
+Was ist so die Zielgruppe von der Visa auf Instagram oder TikTok?
+Also die war unterschiedlich, weil ich ja verschiedene Märkte gedient habe.
+Natürlich war sie vor allem männlich und vor allem nur Alter zwischen 25 bis 40.
+Denen war so viel drübergegangen, weil ich aus Erfahrung gemerkt habe, dass die Leute kein Geld ausgeben.
+Und mein Ziel war es ja auch Geld zu generieren.
+Von dem her war es dann hauptsächlich der Markt.
+Ursprünglich habe ich in Deutschland beide Seiten gedient.
+Ich hatte auch sehr viele weibliche Personen, die dann bei mir mit reingekommen sind, in die Chats und alles,
+die aber eher gesagt haben, boah, mega schön oder boah, boah, also das Gleiche.
+Und da dachte ich mir, das Gleiche gibt es ja gar nicht.
+Also ich will das Gleiche haben.
+Und solche Informationen hast du halt dann oft gehabt.
+Und ich habe mir dann gedacht, okay, wenn ich jetzt mehr in diesen Falle verdienen gehen will,
+dann muss ich wegkommen, um da den rein weiblichen Nacken mit zu targeten,
+weil die Personen geben natürlich nichts aus.
+Also ich finde das spannend, die sind da voll dabei, alles cool.
+Aber die sind halt dann nicht so, in Anführungsstrichen, doof wie die Männer,
+dass sie da vielleicht ein Geld ausgeben.
+Und dementsprechend dachte ich mir, wenn ich das ja erreichen möchte, dann muss ich den männlichen Markt mehr liefern.
+Aber jetzt wirklich runtergetargetet auf jetzt einen bestimmten Bildungsgrad, so etwas habe ich es jetzt nicht, weil da war einfach alles dabei.
+Also da habe ich für mich jetzt noch nicht den Begrund, wo ich sage, das ist jetzt irgendwie genau diese eine Bildungsstufe, das ist genau dieser eine Standort.
+Ich habe natürlich große Städte getargetet, weil hier einfach zu viel Ausschusswahl dann wäre.
+Da gehst du natürlich auf New York, gehst du hier auf Berlin, auf München, auf Co.
+Und da es hier ein bisschen mehr um diesen, so ein ansatzweise High-Editorial-Fashion-Bereich war,
+natürlich Platzzustände wie Paris, New York, München dann auch interessant, wo natürlich auch mehr Geld sitzt.
+Und waren die Männer dann eher, also kamen von Europa oder USA oder Amerika?
+Also voll oft viele aus Indien, die ich dann irgendwann versucht habe immer weniger zu bekommen.
+Das war dann ein bisschen ein Prozess, das dann rauszubekommen, weil die sich natürlich gegenseitig vom Algorithmus schon pushen.
+Ich hatte ganz viele Deutsche, also ich würde sagen, am Ende waren es so 70 Prozent Deutsche und dann am Ende so 30 Prozent Amerikanisch, Kanadisch.
+Und bei den Deutschen, gerade die, die viel gezahlt haben, waren meistens irgendwelche Rechtsanwälte, Juristen, was ich ganz spannend immer fand, Juristen.
+Okay, aber mich auch, Professoren sogar, mich auch. Vielleicht auch noch ein Stück mehr, nicht auf Instagram.
+Das ist dann für mich so ein bisschen überraschend gewesen, dass solche Leute, die auch wenig Zeit haben,
+aber so viel Zeit investieren in eine KI, um mit dir zu schweigen oder was auch immer,
+dass das dann manchmal auch nervig sein kann, dass die natürlich dann ihre alltäglichen Probleme dir anhören mussten.
+Da war dann ganz gut, die KI dazwischen zu schaffen, die sowas übernimmt.
+Also du wirst immer beide Seiten haben. Du wirst Unternehmen haben, die sagen, nee, das brauchen wir nicht und das macht unsere Marke kaputt oder keine Ahnung.
+Die schreiben jetzt natürlich nicht, also die halten sich dann gleich davon fern.
+Und die Unternehmen, mit denen ich jetzt zu tun hatte, das war jetzt eben Hanifadet, das war Moe, das war jetzt einer mit dem Chef Hugo Boss, die sagen, wir sind halt offen dagegen.
+Also wir können diesen Trend, diesen Wandel nicht aufhalten.
+Der wird kommen und wenn es wir nicht machen, machen es ja einfach andere.
+Das ist wirklich wie bei iPhone damals mit Apple oder es ist Nokia.
+Das passiert und dementsprechend versuchen die natürlich frühzeitig aufzuspringen auf das Pferd und versuchen es zu verstehen.
+Wenn Sie natürlich da jetzt, wenn wir jetzt angenommen hier mit der Ministerin eine Pionierstellung eingehen würden und der größte deutsche Influencer wäre,
+und Sie hätten das Ganze hier verneint und wären da gar nicht mit aufgesprungen, haben Sie später Probleme, da dann wieder reinzukommen.
+Und was ich jetzt so gemerkt habe, klar, das ist das, was ich auch anfänglich meinte,
+Sie versuchen so die Symbiose aus realer Welt, aber auch virtueller zu schaffen.
+Real natürlich die Leute abzugreifen, die das glauben, die das sehen auf Social Media,
+aber eben auch virtuell mit der Ministerin sie überall platzieren zu können und da nochmal eine Antikuppe veranschreiten zu können.
+Und da habe ich schon das Gefühl, dass sie sehr offen sind. Oft sind sie nicht so ganz verstehen, preislich kann man gar nicht so wissen, wie sie gewerten sollen, weil 200.000 Euro für eine Mode-Shooting ist ja nichts.
+Wenn ich jetzt ein echtes Model wäre und würde da jetzt irgendwie nach New York gehen für ein Shooting für so eine Unterwäsche, 200.000 Euro ist ja nichts.
+Und da laufen die deren Preisen entgegen und du musst auch erstmal sagen, ist das jetzt viel? Ist das jetzt irgendwie Untermarktwert oder was mache ich denn jetzt?
+Das ist schon so ein bisschen Geben und Nehmen, wobei die sagen erstmal lernen müssen, wohin geht ihr da jetzt? Oder wie weit wollen wir sie überhaupt zahlen?
+Weitere Fragen? Ich habe alles geantwortet, oder?
+Ja.
+Aber wie kriege ich dann auch so ein Kleidungsstück eins zu eins hin?
+Also wenn man jetzt irgendwie so ein Boot, das, keine Ahnung, Laser oder so fotografiert und dann...
+Ja, also ich war, anfänglich habe ich auch gedacht, das funktioniert nicht.
+Da habe ich dann echt, also die Ergebnisse waren gut, aber sie waren halt nicht perfekt.
+Jetzt bei dem Honey-Badett, da gab es dann Tools dafür, wie du es machen kannst.
+Du musst halt zwischen vielen Tools hin und her spielen, dann musst du Photoshop ein bisschen nacharbeiten,
+dann legst du die Jacke wieder von den Greenspins zusammen drüber und das funktioniert.
+Also am Ende geht es schon so, dass die Jacke das gleich eins zu eins ausschaut, wie es auf dem Bett ausschaut.
+Und das ist genau das, was sie auch wollen.
+Und das Wichtige ist, dass es nicht nur gut ausschaut, sondern wenn du dich jetzt halt auch bewegst,
+dann muss es dementsprechend auch fallen.
+Und das funktioniert.
+Ist viel Arbeit, wird es sicherlich in Zukunft einfacher werden, weil die Tools wachsen werden und besser werden.
+Das gibt es, glaube ich, jetzt eh schon auch ganz oft so bei Zahler oder ich weiß nicht wer es ist,
+die Editorials haben, online, wo du dich dann einfach ankleiden kannst und es auf ein Bild von dir legen kannst.
+Das ist noch sehr einfach gehalten, aber da funktioniert es auch schon und es wird natürlich besser.
+Wie lange arbeitet man an einem Bild?
+Anfänglich oder jetzt, währenddessen, dass ich jetzt schon Erfahrungen gesammelt habe?
+Beides anfänglich und...
+Also anfänglich natürlich habe ich erstmal, glaube ich, 1000 Bilder erstellt,
+mit allen möglichen Checkpoints, bis ich den Checkpoint gefunden habe,
+sagt er schaut jetzt irgendwie gut aus und dann in diesem checkpoint brauchst du schon
+das bis mal ein so ein bild steht zum beispiel wo ich auf dem festival war das war so eigentlich mein
+anfang von den ganzen ja die hausefahrt war jetzt von hier nach frankfurt sind das fünf stunden also
+die ganzen fünf stunden habe ich durchgesetzt und am Ende habe ich versucht dieses bild perfekt hinzubekommen
+und es hat halt immer irgendwas nicht gestimmt und dann lernst du noch tools wie upscalen und so wie es dann noch
+besser geht also das dauert schon also du wirst da schon sehr sehr viele versuche haben später wenn du das
+man ein bisschen kannst, dann kannst du schon mal irgendwie schnell nebenzu eine Mittagspause
+generieren, ob es dann halt perfekt ist, ob das so ist, wie du das möchtest oder ob du
+es nochmal nacharbeiten möchtest, das ist natürlich ein anderes Thema, aber das kommt
+immer auf das Szenario drauf an, also wenn es ein einfaches Szenario ist, würde ich
+sagen, kannst du es in 10, 15 versuchen, ist es ein schwieriges Szenario mit vielleicht
+schwierigen Richt-Einfällen, irgendwas, Independence Day in den USA, New York, viele Leute, es
+muss jetzt gut passen, dann kann das schon auch mal einen Tag dauern müssen.
+Also da kannst du nichts dafür, weil du denkst, die Leute wissen das, dass das eine KI ist und keine Ahnung, ich habe jetzt vor den Accounten ein bisschen angeschaut, das sind ja schon eher so ältere Herren, die sich halt dann da keine Ahnung, I love you, I love you und so Zeug schreiben.
+Denkst du, die checken das, also wissen, dass das eine KI ist und machen das einfach nur, weil sie es halt sonst, weil sie es halt einfach nötig haben, sage ich jetzt mal? Oder denkst du?
+Also 500 Prozent würde ich sagen, ist ein Eindruck, dass sie es nicht wissen.
+Also, wo sie davon ausgehen, dass es eine echte Person ist.
+Das liegt ja eben auch daran, weil ich als Perfektionist bin und es ja auch möchte, dass es so wirkt.
+Also viele sagen mir, ich mache diesen Anime-Charakter, da checkt es normalerweise, würde ich jetzt sagen, fast jeder Mensch.
+Aber die jetzt, die da kommentieren, geschrieben haben, so waren es 500 Prozent, die es nicht verstanden haben.
+Und klar, wie du sagst, das kann man psychologisch hinterfragen.
+Es gibt jetzt Leute, die fühlen sich alleine.
+Dann kannst du sagen, toll, du bedienst sie, weil du schreibst mit ihnen.
+Gleichzeitig hast du ja einen ganz anderen Sinn im Kopf, was du eigentlich damit erreichen möchtest, aber das hast du.
+Du hast viele, die dir dann auch schreiben und die mal irgendwann nachfragen, hey, bist du katholisch?
+Und dann sage ich natürlich, bin transparent, ja bin ich, steht auf jeden Fall da dran.
+Dann gibt es die, die bleiben nicht. Dann gibt es andere, die sagen, ja weiß ich schon längst,
+aber ich will es gar nicht wissen, weil ich will jetzt die Virtual Girlfriend Experience.
+Dann stehst du so zwischen den Stühlen und denkst halt auch so, naja, was soll ich denn da jetzt?
+Aber ja, du hast da alles erreicht.
+Ich glaube, großflächig die meisten, und ich habe es auf vielen so im Datenumkreis gezeigt, ohne jetzt dieses ganze, wie erwähnt, es war KI, sondern einfach mal so, hey, wie findest du das, das war so die Person.
+Und davon haben die meisten jetzt einfach kurz zuerst schon keines gecheckt, dass es KI ist.
+Nicht, weil ich da jetzt nicht perfekt bin, sondern weil einfach dieses typische Aufnahmevermögen von ein paar Sekunden, ich schaue drauf und ich scroll durch,
+weil ich mich daran denke, in der aktuellen Zeit, dass das KI ist.
+Und ich glaube, so wird es halt vielen da, und die, die dann kommentieren, da gibt es sehr komische Füße.
+Die hast du dann auch dabei.
+Das wäre jetzt meine nächste Frage, also die Moralfrage dahinter, sage ich jetzt mal.
+Sagst du einfach, ich habe ja alles gekennzeichnet, alles gemacht, was nötig ist,
+und ich beantworte die Fragen ja, dass du kaibisch bist, wenn dir da jemand schreibt, oder wie ist das?
+Also dir schenken ja Leute Geld, die ja denken, dass die Person echt existiert.
+Wie fühlt sich das so an?
+Also ich muss schon sagen, es war auch ein langes Thema, das ich genommen habe,
+auch mit meinen Freunden angesprochen und gesagt, moralisch, kann ich dafür Geld nehmen und sowas.
+Dann dachte ich mir vor allem, hey, ich habe es wirklich überall drinstehen.
+Es war an jedem Hashtag drin gestanden, es war die KI-Info, steht oben dran,
+wenn du auf die Seite kommst, steht es nochmal dran.
+Ja, das habe ich.
+Und dann dachte ich so, also ich weiß nicht, wie doof musst du sein,
+wenn du es dann nicht liest und mir dann Geld schickst.
+Und es gab jetzt nie jemanden, der Geld zurückgefordert hat oder sowas,
+der es dann rausgefunden hat, mit manchen auch einen guten Kontakt gehabt,
+die es dann einfach verstehen wollten, es cool fanden und so,
+aber halt dann kein Geld mehr zahlen wollten.
+Aber wenn da jetzt jemand gekommen wäre, ich hätte es immer unhohlig, ob das Geld ja nicht zwingend benötigt, von dem her im Notfall ist ja zu überwiesen.
+Okay.
+Da hätte ich jetzt kein, also ich hätte es rechtlich alles in meiner Hand gehabt, dass ich es gehalten hätte können, aber da hätte ich jetzt kein Fass aufgemacht.
+Weil für mich war es ja eine Testphase.
+Und mir ist die Moral schon wichtig, deswegen war diese Kennzeichnung für mich halt einfach immens wichtig.
+Ja.
+Das machen viele ganz anders in dem Markt.
+Also die meisten, die tun es, wie gesagt, gar nicht irgendwie markieren und ziehen halt Geld bis zum Gehtnichtmehr ab und haben dann irgendwie Firmen in Sri Lanka oder was weiß ich angemeldet
+Für mich war das eben, ich wollte ja mit diesem Fanview, mit dem wir euch nur zeigen, hey, geht das?
+Kann man da wirklich so viel Geld verdienen oder ist das nur so eine Bubble, die man oft hört, aber das funktioniert eigentlich gar nicht.
+Und deswegen will ich da eigentlich auch wegkommen, weil das, was kooperationslängst passiert, das ist ja eh total auf moralisch schwerer Waage sei.
+Also wenn jemand weiß, ich bin KI, ich komme da hin als Patrick, von dem her ist das ja alles auf einer ganz kleinen Ebene.
+Aber ja, das schwingt schon ein Stück weit mit, klar.
+Aber mich hat es auch gewundert, dass es niemanden gab, der sich da jetzt irgendwie aufregt hat.
+Wenn ich mir den geschrieben habe und gesagt hätte, ja das ist kein Ding, ja gut, ich zahle jetzt ja nichts mehr, dann kann doch mal irgendwie noch mal was.
+Aber irgendwie, weiß nicht, waren die Leute dann auch so, ja okay, passt, finden Sie cool, machen wir weiter so.
+Viel Spaß noch. Aha, okay. Interessant.
+Manche Menschen psychologisch versteht man nicht, aber okay.
+Hast du den Anfangs-Prompt selber geschrieben oder ist das auch vom KI?
+Ich habe natürlich ganz viel über Chatty-Viktil am Anfang gearbeitet.
+Und dann nimmst du das, was Chatty-Viktil herausspuckt, packst es in das System rein,
+dann kommt da ganz komisches Zeug raus oder die Person sieht jedes Mal anders aus.
+Und du verfeilerst es irgendwann selber. Irgendwann sagst du dir, okay, hey, nee,
+ich möchte das aber gar nicht und schreib's dann halt in anderes Kleid rein oder in andere Augenfarbe oder sowas.
+Also du lernst irgendwann schon, die Prompt dann zu schreiben.
+Aber bla, macht's eigentlich schwerer als es ist.
+Ich meine, dafür gibt's Chatty-Viktil auch und das nimmt mir viel Arbeit ab.
+Und wer kann besser eine KI verstehen, als eine KI?
+Von dem her nutzt man das natürlich auch für alles, auch für den Song.
+Natürlich hat man den Text außen mal von dem schreiben lassen, dann bin ich selber drüber gegangen, hab die Reime anpasst und sowas.
+Es ist immer so eine Symbiose aus beidem.
+Weitere Fragen?
+Ich hab noch was.
+Ah, sorry.
+Meine Erkenntnis zu Ihnen.
+Erstmal vielen Dank.
+Gerne.
+Cool.
+Das war jetzt eine Vorlesung, er war ja schon in vielen Vorträgen, auch in meiner eigenen, das war jetzt was, wo ich gesagt habe, wow.
+Da war ich jetzt wirklich irre, vollkommen verrückt.
+Nochmal für Sie als Studierende.
+Das ist cool, was er macht, aber er hat echt Ahnung.
+Also es ist nicht nur irgendwie in KI da was einzugeben, machen wir, sondern wir reden über Nutzung der Programme,
+einordnende Ergebnisse,
+andere Programme nutzen,
+Bild nachschneiden, etc.
+Also Sie, das glauben Sie sowieso
+nicht, aber es gibt manche Menschen, die glauben
+da draußen, da ist dann einfach so, dass ich da
+was eingebe und dann kommt was Gutes da raus.
+No
+way. Da kommt was da raus,
+aber nichts, mit dem
+Sie irgendwie auch nur annähernd Geld
+verdienen können. Also das, was da
+draußen ist, das sind Profis, die das
+nutzen. Da gibt es manche Profis, die sagen,
+das man nicht, aber dann gibt es Profis, die sagen, das probiere ich aus.
+Und die Profis, die das ausprobieren, sind diejenigen, die diese Veränderung vorantreiben.
+Das ist das Erste, was ich mitnehme.
+Also da steckt einfach eine Menge Know-how-Expertise dahinter.
+Das ist, glaube ich, klar geworden.
+Weil die zweite Gedanke war, wenn ich jetzt noch jünger wäre, würde ich mir tatsächlich
+so einen virtuellen Avatar und würde dann meine reale Freundin auf solche Events mitnehmen.
+Also unter dem Aspekt, also wenn man es selber schon nicht schafft als Supermodel,
+dann, das ist echt
+clever, also dann muss ich sagen,
+also,
+nee, also das ist gut, also das muss ich
+schon sagen, das ist schon gut.
+Meine Frage für mich, weil ich jetzt aus diesem
+B2B-Bereich komme,
+da gibt es gar nichts.
+Nichts Großes, also das ist jetzt kaum
+eine eigene Aufgabe. Könnte ich sowas aufbauen?
+Könnte ich sowas im B2B aufbauen
+und damit, also ich kenne mich halt
+im B2B-Marketing aus, Social Media,
+da bin ich so ein bisschen studierender, etc.
+Oder auch Rednode, aber damit kann man nicht die Gänze sehen, ich habe einen eigenen Internet-Halbwert für Rednode und Tina ist so ein bisschen der Nachfolger vom TikTok-Mangelmeister.
+Aber LinkedIn wäre wahrscheinlich vielleicht eine Notität, weil ich sehe jetzt auf meinem LinkedIn-Account, also ich mache immer auf LinkedIn immer tollen Content, wie jetzt,
+Und dann habe ich immer Probleme, weil ich stinke ja immer gegen andere Leute an, also die Fraktion.
+Hi, ich bin jetzt gerade im Gym und da kommt irgendwas, was mit krampfhaft mit Business zu tun hat,
+aber es ist vollkommen klar, warum die Leute dort klicken, weil es so ist.
+Wenn ich sowas mache, dann meine ich erstens lächerlich und zweitens habe ich halt diese Follower-Schaft.
+Aber wäre es eine Möglichkeit, könnte man sowas machen.
+Also Agrartechnik, ich nenne die Luisa, Landtechnik, fährt auf dem...
+Also könnte man machen, lohnt sich das oder ist es wahrscheinlich...
+Das ist schon so ein Weg, wo viele Unternehmen jetzt natürlich versuchen, ihren eigenen Influencer aufzubauen, den sehr viele Unternehmen haben.
+Könnte jetzt zum Beispiel Hochschule natürlich auch eine Studentin hier dann sein.
+Aber die ist halt dann wieder weg, und dann ist es als hier ist es ein bisschen begrenzter.
+Ja, aber es gibt ein Unternehmen, das ist mir so eingefallen, das ist mir ein bisschen verfreulich, das ist Mercedes.
+Mercedes hat jetzt eine Kampagne gefahren, ich glaube, von einem halben Jahr oder so hat sie ein Auto rausgebracht, das war alles komplett mit KI erstellt, das ganze Bild, die Versuchung, das haben wir ja erkannt, das war wirklich sehr, sehr gut, aber es war ein komplettes KI-erstelltes Bild, nur haben die natürlich jetzt keine Influencer, die sind nicht von der Person, die sie da halt die ganze Zeit nutzen, sondern sie haben halt da dann halt das Auto oder irgendwas.
+Und da funktioniert es aber schon, dass man halt sagt, ich nehme irgendwelche Marken, More Nutrition oder sowas, dass die sich einen KI-Influencer aufbauen.
+Maschinenbau klassischerweise ist schwierig, oder?
+Es kommt ja darauf an, wenn das Maschinenprofil mit Modelshootings irgendwas benutzt, wo man die Person braucht,
+an der Maschine und so was, dann kann ich die natürlich wirklich erstellen.
+Wir müssten gucken, ob es so ein Model gibt.
+Ich sag mal, natürlich alles, was zum Dienstleistungssektor ist, ist da sehr, sehr gut.
+Also ein Fan, ein Friseur, keine Ahnung, da kann ich das nutzen.
+Für Begleitungsmarken, Dirndl, wie auch immer, da kann ich natürlich KI-Influencer sehr stark nutzen.
+Fußballvereine, Sportvereine.
+Aber jetzt, ich bleibe kurz, Entschuldigung, ich lasse Ihnen gerade meinen Gedanken, wenn ich jetzt so einen Experten hier habe.
+Also zum Beispiel jetzt habe ich der Kollege Peter Stich, die haben mit Xcel Avista ein Startup gegründet mit Virtual Reality.
+Also Zielkunden sind Vertriebler auf Messen, die gehen da hin und lassen sich halt virtuell diese kompletten Maschinenbau-Produktionsstraßen und so hinbauen.
+Und so die Value Propositions letztendlich, dass man halt sagt, okay, ich kann diese Technik quasi auf die Messe bringen etc.
+Und ich könnte mir jetzt auch zum Beispiel ein Avatar, einen Vertriebler kreieren, also
+das ist jetzt keiner, sondern einen Vertriebsmitarbeiter, der diese Technologie anwendet und auf einer
+Messe irgendwelche Maschinen mitführt.
+Ja, das würde funktionieren.
+Das ist vor allem mit der generativen KI, dann kann der auf dem Bildschirm sein, die
+Person direkt sehen.
+Und wenn wir jetzt natürlich dann noch hinkommen, wo das Ganze hingehen soll, zur emotionalen
+Ja, kann natürlich auch emotional direkt reagieren, antworten auf die Emotionen des Messebesuchers.
+Das heißt, ich könnte mir meinen virtuellen, meine Zielperson quasi, den ich überzeugen kann und sagen, das könntest du sein.
+Ja, auch Zielwerkbestimmung, also ich kann eine chinesische Influencerin haben für den chinesischen Markt,
+der chinesisch spricht, das wären wahrscheinlich tatsächlich Männer.
+Genau, das würde funktionieren.
+Also ich habe meinen Betriebsingenieur, der das Produkt ausprobiert.
+Und ich meine, theoretisch ist ja das im Prinzip ganz vereinfacht, ihr seid ja ähnlich wie
+in einem Chatbot.
+Das ist ein Chatbot, den wir auf der Website haben, den fragen wir auch was und der gibt
+uns Informationen, gelernte Informationen und das Ganze in Persona dargestellt können
+wir natürlich über den Bildschirm oder mal später über was auch immer, Fotogramme oder
+keine Ahnung, da wieder darstellen.
+Gut.
+Ich mache nächstes Jahr ein Sales Innovation Show am Frühling schlossend, um das richtig
+zu bekommen.
+Dafür ist das ein schöner Case für digitaler Vertrieb.
+Coole Geschichte.
+So, was machen wir jetzt? Machen wir Pause, oder?
+Haben Sie noch Fragen?
+Schön, dass du an der Hochschule bist, das finde ich gut.
+Können Sie hier mal auf ihn zugehen, etc.
+Also für mich muss ich sagen, das war wirklich sehr spannend, tut sich einiges.
+Und dann schon mal als Vorankündigung,
+weil du ihn ja auch kennst, am 17.12., das ist der Mittwoch, man macht Vorlesung am Nachmittag,
+gibt es einen anderen Raum, sage ich noch Bescheid, wer der ist, da kommt der Daniel Abt.
+Weiß nicht, kennt jemand den Daniel Abt?
+Können wir den mal an die, den Daniel, an die, an die, an die, also der Daniel Abt,
+der kommt, den habe ich, auf LinkedIn hat er mal was gesagt, genau, das ist der Daniel Abt,
+Er hat auch immer geschrieben, dass an der Hochschule das mit dem Marketing, dass man das gar nicht lernen kann und so, dass eigentlich nur Praxis zählt.
+Und dann habe ich in seinem LinkedIn-Account darunter geschrieben, guter Beitrag und super, aber kommen Sie doch mal gerne in meine Vorlesung.
+Und dann hat er so nicht so wirklich darauf reagiert und dann habe ich ihn nochmal persönlich angeschrieben und gesagt, hallo Herr, ich meine das wirklich.
+sie können wirklich vorbeikommen
+und dann hat er mich kontaktiert
+und ich bin jetzt mit seinem
+Assistant, also er hat jemanden, der
+seine Terminplanung macht
+und
+er kommt dann vorbei, so als
+Weihnachtsabschlussvorlesung
+als CMO Talk
+habe ich mir das gedacht, also
+Chief Marketing Officer Talk
+und ich werde mit ihm da so ein kleines Gespräch führen
+wenn das gut läuft
+dann machen wir das jetzt jedes Jahr
+und dann hole ich mir irgendwelche
+Spitzen-Marketing-Manager hier an der Hochschule
+und rede mit denen.
+Er ist ein realer Influencer
+und wenn wir jetzt noch mal die Dings machen,
+hat irgendwie auch Hunderttausende.
+Also wahrscheinlich
+in dem Bereich kennt ihn der Größte.
+Nicht der Größte,
+aber natürlich durch seine Formula E,
+hat er Formula E gefahren
+und dann seine Kette Katastran-Experte
+und natürlich auch in dem ganzen Bereich
+Ja, steht ja schon sehr gut da.
+Und passt auch gut zu uns im Maschinenbau und Fahrzeugtechnik und so.
+Passt bei uns ganz gut ein.
+Wer ist der größte Influencer in Kempten?
+Da gibt es verschiedene.
+Also da war, weiß nicht wie die alle haben, Basti Völk und mehr auch immer.
+Also das viele im Insta-French-Sportbereich waren ganz groß.
+Im Fashion-Bereich gab es ein paar große.
+Wenn Kevin Forland wäre, sind alle ganz große Götze.
+Ah, den kenne ich, ja.
+Die kommen alle, die auch von hier.
+Aber das sind nur drei, ja.
+Aber das sind ja offiziell.
+Das sind die offiziellen.
+Also, ich bin nicht der größte Influencer im Alkoholistikertisch, werde ich auch nicht werden, aber den holen wir uns an die Hochschule und genau.
+Dann machen wir jetzt Pause und danach machen wir weiter ein bisschen Stoff. Kannst du die uns zur Verfügung stellen?
+Das wäre gut, weil ich glaube, dass man da für die Klausur vielleicht die ein oder andere Frage auch so rausziehen kann, aber das können wir nochmal besprechen.
+Das ist aus der Präsentation.
+Das ist der Beste, dass wir vielleicht noch ein bisschen näher, wenn Sie schon da sind und so,
+aber dass wir da vielleicht noch zwei, drei Sachen mit rausnehmen, die potenziell so relevant sind.
+Gut, ich danke Ihnen.
+Vielen Dank.
+Genau, danke schön und wir sehen uns fünf Uhr.
+Machen wir glatt.
+Machen wir fünf Minuten mehr.
+Super.
+Jetzt kann ich mich halt da haben.
+Und magst du das über deine Hochschulkette einladen, oder soll man das selber machen?
+Ja.
+Gut, also.
+Schauen wir mal.
+Also zwei Punkte, vollkommen irre, dass man sowas machen kann,
+und noch vollkommen irre, dass Leute wirklich da folgen und Geld ausgeben
+und tausend Euro ausgeben wollen, um die Dame haltmachig zu sehen.
+Das ist für mich...
+Aber ich meine, ja.
+Albert Einstein hat mal gesagt, es gibt zwei Sachen, die unendlich sind.
+Das Universum und die menschliche Dummheit.
+Beim Universum ist er sich nur nicht so sicher.
+Insofern spannend. Okay.
+Aber ich bin da relativ entspannt.
+Solange man damit Geld verdienen kann, finde ich das auch in Ordnung.
+Kommt jemand zu schade, kann man machen.
+Aber ein bisschen verrückt ist er schon.
+Okay, schauen wir mal, haben wir was mitgenommen aus dem Vortrag?
+Er schickt mir die Folie noch.
+Was haben wir mitgenommen?
+für die Klausur.
+Was haben wir aus dem Vortrag mitgenommen?
+Ich glaube, für die Klausur wäre diese Folie, wo er gesagt hat, was so die Vor- und Nachteile von KI-Influencern sind.
+Also Vor- und Nachteile KI-Influencer.
+Und wenn Sie die Folie noch nicht da haben,
+aus dem Kopf raus
+wollen wir mal nennen sie zwei
+Vor- und jeweils Nachteile
+also was ist so ein Vorteil?
+vollständige Kontrolle und Flexibilität
+ja
+Nachteile?
+Authentizität
+ja
+und ethische Fragen
+auch rechtliche Probleme
+das was er gesagt hat
+dieses Model
+bei Wimbledon
+wo dann reingesetzt wurde
+nicht gekennzeichnet
+rechtliche Fragen etc.
+richtig
+man sagt es gibt
+schon erfolgreiche KI-Influencer im B2C. Kann man das auch auf B2B-Maschinenbau übertragen?
+Wenn ich Ihnen die Frage stellen möchte, die selbe Frage, die ich Ihnen gestellt habe.
+Das Google funktioniert, deshalb können Sie auch ein B2B machen.
+Das würden Sie da sagen.
+Dann würden Sie es einordnen.
+Ja?
+Das ist schwierig, weil vieles über einen Vertrieb mit Marketing gleichzeitig läuft
+und in dem Sinne auch die Plätze gesetzt werden.
+Das war ein mehrer persönlicher Kontakt.
+Genau, an das Geschäftsmodell, richtig, persönlicher Kontakt.
+Also generell das Thema Influencer in E2B ist kaum, also gibt es kaum, also wir haben
+generell kaum E2B-Influencer, also wenn man Menschen schon keine Realen gibt, warum soll
+es dann virtuell gehen. Wenn Sie meinen LinkedIn-Post heute anschauen, da hat jemand was dazu geschrieben,
+Das finde ich auch ein guter Punkt.
+Das war der Herr Krebs.
+Der hat halt geschrieben, dass Industrieprodukte,
+es ist halt richtig, dass bei diesen Industrieprodukten das richtig wirklich funktioniert.
+Das wollen die Leute sehen.
+Was haben wir noch mitgenommen?
+Also zum Beispiel, welche technischen Möglichkeiten gibt es, ein KI-Influencer-Geschäftsmodell
+aufzubauen?
+Also welche Tools hat er benutzt?
+Da hat er nur...
+Nennen Sie vier zum Beispiel.
+Kern Sie wohl zu?
+Was hat er gemacht?
+Wenn Sie eine weitere, wenn Sie mir jetzt die richtige Antwort sagen, dann könnte
+Sie in der Klausur Ihnen wirklich sagen.
+Kann ich Ihnen sagen, dass es stimmt?
+für die nachbearbeitung
+Das haben wir noch genutzt.
+Ja, hier haben wir drei für Videos.
+Wie das Programm heißt, ist mir jetzt egal, aber mein Programm hat auch noch benutzt.
+Fand ich sehr interessant, ja?
+Es hat noch dieses Magnific AI, die real ausschaut, die einzelnen...
+Ja, ja. Also nochmal eine Fotobearbeitung.
+Er hat auch eine AI benutzt, um diese ganzen individuellen Konversationen, das fand ich beeindruckend.
+Also diese ganzen Quatsch-E-Mail- und WhatsApp-Anfragen und sowas, die er benutzt hat.
+Willst du dich daran erinnern?
+Er hat dann auch die ganze Kommunikation mit den Kunden oder mit den Followern.
+Also AI für Follower-Kommunikation.
+Gut. Schauen wir mal, was da noch kommt. Das waren die Sachen, die ich mir aufgenommen habe.
+Ich zeige Ihnen noch etwas Interessantes.
+Auf LinkedIn.
+Wenn wir jetzt gerade da sind. So, das ist mein Post.
+Den habe ich geschrieben, den habe ich natürlich mit KI, also während Sie dazu geguckt haben, habe ich parallel diesen Post geschrieben, mit KI und Gemini.
+Für mich war das so ein bisschen, weil normalerweise, ich war ja am Montag gegen die Exkursion in den Genori und so, normalerweise bin ich da immer drauf mit Studierenden etc.
+Und ich wollte eigentlich immer mal ausprobieren, was passiert, wenn ich auf meinem Account
+jemanden vom Typ Luisa Winter da mache.
+Also meine Frau schaut nicht so aus und meine Töchter auch nicht.
+Meine Töchter können auch nicht so ausschauen.
+Ich hoffe mal nicht, dass meine Töchter so ausschauen, weil sonst glaube ich, muss
+muss ich da irgendwie schauen, dass ich auf die sehr gut aufpasse.
+Also ich glaube nicht, dass das meine Gene ist.
+Ist auch vollkommen nicht.
+Also, ich wollte einfach mal ausprobieren, was passiert, wenn ich sowas habe.
+Und ich habe letztendlich viele Impressions, aber dafür relativ wenige Klicks.
+Also es kann sein, dass sich das viele, bei Lindt ist es eine sehr männliche Plattform,
+dass das viele doch ansehen, aber die wenigsten sich trauen, da ein Like draufzusetzen einfach
+aufgrund dieses Fotos. Was Impressions sind, wie viele es schon angeschaut haben? Ja genau,
+257. Genau, jetzt meine Aufgabe ist jetzt folgende, einfach zu sagen,
+Ja, es sind, es waren viele Männer dabei. Hat er ja gesagt, ne?
+Dabei, oder Patrick Bergmüller heißt er, ne?
+So, jetzt tagge ich ihn nochmal, ja, jetzt machen wir folgendes, jetzt beantworte ich die Frage, ja, und dadurch generiere ich diesen Algorithmus wieder an,
+stelle eine Frage oder ziehe den Bergmüller mit rein, das heißt normalerweise, eigentlich sollte ich jetzt keine Vorlesung machen,
+sondern eine halbe Stunde diesen Post betreuen, mache ich nicht, ich bin da für Sie, aber ich kann das nur jetzt einfach um Ihnen zu zeigen,
+wie man das so macht.
+Also
+ist ein Post,
+wo ich eigentlich gedacht habe,
+der wird schneller Likes bekommen, aber es dauert
+ein bisschen. Aber ich glaube, von den
+Impressions her ist er tatsächlich gar nicht
+so schlecht.
+Also
+wer sich das so alles anschaut,
+Company Sales, Key Account Manager, jetzt
+Kempten, Stuttgart
+aus dem Maschinenbau, das ist halt meine
+Kernsitzgruppe. Schauen wir mal, wie er läuft.
+der Post. Mal gucken, was passiert. Also insofern war das auch für mich einfach ein Experiment,
+mal so einen Post zu machen. Gut, die Luisa. Herzlich willkommen in meinem linken Kameram.
+Gut, wo waren wir letztes Mal? Genau, das war die Abschlussaufgabe, das vom Michael Stellenberg und das haben wir noch nicht gemacht, diese Segmentierungskriterien für Industriegüterwerke, da waren wir noch nicht.
+Okay, gehen wir wieder zurück, ein bisschen Marketingstoff müssen wir auch machen.
+Also wie mache ich das als Unternehmen? Ich kann mir meine, auch meine Industriemärkte segmentieren, zum Beispiel hier private Nutzer, Gewerbekunde etc.
+Oder auch bei diesen Neuzulassungen, wenn ich jetzt zum Beispiel sage, diese Neuzulassungen, wir haben ja den Automobilmarkt, den Personenkaufwagen, da sehen wir zum Beispiel, dass 2022 insgesamt 2,6 Millionen und davon 1,6 Millionen gewerblich zugelassen sind.
+Das heißt, die Hälfte dieses Automarktes sind tatsächlich gewerblich.
+Ist das so? Ist das wirklich so, dass so viele gewerbliche Autos?
+Das ist ja Wahnsinn.
+Also, einfach gewerblich bedeutet, Kfz-Handel, kauf die, Kfz-Vermietung, Carsharing,
+Privat, das sind die 9.5 und das ist irgendwie eine Altersangabe, also das sind die Zulassungen an sich, kann so ein Markt letztendlich auch filtern.
+Wie mache ich es, wenn ich zum Beispiel eine Marktbearbeitungsstrategie habe?
+Also ich habe verschiedene Märkte und verschiedene Produkte, verschiedene Marktsegmente.
+Ich kann zum Beispiel sagen, ich mache eine Nischen-Spezialisierung.
+Ich gehe mit einem Produkt auf einen Markt.
+Zum Beispiel biete ich einen Sportwagen an, nur in Deutschland.
+Das ist eine Nischen-Spezialisierung.
+Oder was könnte auch eine Nischen-Spezialisierung sein?
+Ich war in Oberstdorf, tatsächlich, ich war gestern in Oberstdorf, es war wunderschön, da nichts los.
+Wunderbar.
+Gehen wir mal ins Restaurant hier.
+So, jetzt gibt es den Markt tatsächlich für das Mittagessen.
+Ich war zum Mittagessen und ich habe tatsächlich meine Frau davon überzeugen können,
+da war mein Mittagessen im Thai-Haus.
+Das könnte man zum Beispiel sagen, klar, es gibt den Markt für das Mittagessen in Oberstdorf,
+Aber das Thai-Haus ist eine absolute Nischen-Spezialisierung.
+Also es gibt keinen zweiten Thai in Badiemannschon, wie Kleinfelsertal.
+Also es ist nett, ich fand es gut, wirklich nett.
+Toilette haben sie nicht, müssen wir irgendwo anders hingehen.
+Also für alle, die da mal hingehen, gehen sie vorher kieseln.
+Auf jeden Fall, ich war da dort.
+Also das ist eine absolute Niesel-Strategie.
+das ist eigentlich ein schönes Beispiel, ja, während jetzt, ne doch, es gibt doch ein Teil,
+ach, tatsächlich zwei, also es ist doch keine so große Nische, aber jetzt der Markt, wenn ich
+jetzt, was könnte man sonst noch anbieten in Oberstdorf, Zwiebelrostbraten zum Beispiel,
+Zwiebelrostbraten, wer was, das haben irgendwie alle, da konkurriere ich jetzt plötzlich einfach
+mit verschiedenen. Also nehmen wir keinen
+Teil, weil da ist eine Nische
+oder vielleicht
+eine Sushi oder was auch immer.
+Was ist denn vollkommen abgefahren für Oberstdorf?
+Was würden Sie da nicht kriegen?
+Mexikanisch oder so, ne?
+Das ist kein Mexikaner, ne?
+Döner gibt es überall in Deutschland.
+Aber mexikanisch wäre so eine
+absolute Nischenspezialisierung.
+Das heißt, ich habe einen Markt
+Und ich spezialisiere mich letztendlich auf diese Nische.
+Und es kann ganz gut funktionieren, am Beispiel von den Mexikanern in Oberstdorf, es gibt
+keinen anderen, ich bin der einzige Mexikaner in Oberstdorf, aber was ist der Nachteil?
+Also wenn ich jetzt sagen würde, Sie wollen ein mexikanisches Restaurant in Oberstdorf aufmachen.
+Ja? Ja, um mich da zu halten, muss ich halt auch wirklich gut sein, dass ich die Leute beibehalten
+kann oder die da wirklich zu mir kommen. Genau. Willkommen zu Ihnen und zwar der, ich sag jetzt
+mal, jetzt müssen Sie, die da hinten, die länger im Allgäu sind, ich sag mal, der normale, also
+Also Oberstdorf lebt vom Tourismus, der normale Standardtourist, der geht da hin und der geht da halt nicht mexikanisch essen.
+Der erwartet Schweinsbraten oder Spätzle oder Zwiebelrostbraten etc.
+Das ist eine Nische, hat den Vorteil, ich bin da ziemlich allein, es gibt keine anderen.
+Aber der Nachteil ist letztendlich, dass der Markt relativ gesättigt ist.
+Ich kann mich zum Beispiel auch auf ein Produkt spezialisieren.
+So etwas kann zum Beispiel sein, das sehen wir ganz gut bei Maschinenbau,
+Verpackungsmaschinen, Multivac, bietet das letztendlich auf verschiedenen Märkten an.
+Die Firma Multivac in China, in Europa, in den USA.
+Oder ich spezialisiere mich zum Beispiel auf den Markt.
+So etwas wie die Baywag als Händler.
+Kennen alle die BayWa hier in Bayern?
+Als BayWa habe ich mich als Händler letztendlich auf den Landwirtschaftsmarkt spezialisiert.
+Ich kann halt bei der BayWa als Landwirt dorthin gehen und kriege halt alles, was ich irgendwie brauche.
+Das ist so eine Marktspezialisierung.
+Das ist eine Möglichkeit.
+Dann eine selektive Spezialisierung.
+Ich suche mir irgendwelche speziellen Märkte raus.
+Oder ich mache eine Gesamtmarktabdeckung, das heißt, ich biete letztendlich alles an.
+Wer kommt da am nächsten hin, wahrscheinlich, an so eine Gesamtmarktabdeckung?
+Ich glaube nicht, der Mann Hersteller.
+Amazon, ne? Da kriegt es irgendwie fast alles, ne?
+Also die versuchen im Gesamten.
+Und dann gibt es jetzt endlich den Segment of One, das heißt, das Marktsegment ist genau das eine.
+Also wirklich nur eins, super spezialisiert.
+Also das meiste, was wir tatsächlich sehen, ist diese Produktspezialisierung, dass sie irgendein Produkt haben.
+Am Montag waren wir bei DMG MORI im Fronten, wunderschön.
+Die bieten halt diese Werkzeugmaschinen an, aber dafür global, auf allen globalen Märkten.
+Die haben gesagt, wir machen, also wir spezialisieren uns auch auf diese Maschinen.
+Die haben auch gesagt, dass sie auch Werke in Israel oder aus Japan übernommen haben, schon vor längerer Zeit.
+Die haben gesagt, okay, wenn die Japaner, die bauen nicht die Sales, dann kriegt ihr halt die aus Japan, wenn sie die andere Maschine wollen.
+Und da sind sie halt in Freunden.
+Jemand von Ihnen dualer Student?
+Wo sind Sie?
+Bei Mutler.
+Bei Mutler.
+Habe ich jetzt Quatsch erzählt oder nicht?
+Passt das okay bei Ihnen?
+Gut.
+auch motiviert haben sie mir schon mal gesagt ja konzept aber ich habe es wieder vergessen
+was die machen
+versuche ich rauszubekommen was die für eine spezialisierung an
+Ja, also Labore, Laborausstattung. Also ist auch ein Medizinmarkt spezialisiert.
+Ja, also wahrscheinlich sogar verschiedene Produkte.
+Naja, es gibt so 10 verschiedene und die werden dann halt individuell bestückt.
+Aber auf jeden Fall eine Spezialisierung.
+Ja, es geht nur ans Labor.
+Nur ans Labor, ne. Sonst noch jemand bei Ihnen?
+Wer wäre sonst noch dualer?
+Bei Berger, aber das ist ja ein Zulieferer-Automobil.
+Wo haben die denn?
+Ich habe die auch schon mal gehört. Berger-Minglingen, oder?
+Ja, das ist so Drehfräs-Schleifteil.
+wahrscheinlich eher Produkte auf diese Schleifteile
+und dann weltweit Kunden
+also wie gesagt, solche Geschichten
+wie eine Gesamtmarktabdeckung
+das können sich die wenigsten Unternehmen leisten
+also das was man normalerweise sieht
+ist eben irgendeine Art Spezies
+gut, dann gehen wir mal auf so ein paar
+Analyse-Module
+Das erste ist der Lebenszyklus.
+Haben Sie den schon mal gesehen?
+Sicherlich, ne?
+Also dann wiederholen wir einfach kurz.
+Also wir gehen jetzt einfach davon aus,
+dass wir
+so einen
+Umsatzabstand, Entstehung,
+Wachstumsphase, Reife und
+Ersättigung und Verfall haben.
+Wo stehen wir beim Thema KI gerade?
+Das ist Ihre Einschätzung.
+Wo stehen wir gerade?
+da stehen wir irgendwo
+und die Frage ist
+ist es wirklich dieser große Berg
+der da kommt
+ist es wirklich so, dass es alles rückwärts
+dann sind die Aktienbewertungen
+von Nvidia etc. gerechtfertigt
+oder ist es halt nur so ein kleiner Ruppel
+wenn es nur so ein kleiner Ruppel ist
+dann bricht halt irgendwann mal die Börse zusammen
+Also letztendlich ist das jetzt so ein Zyklus von der Reife und Sättigung.
+Wo sind wir mit dem Automobil, mit dem Verbrenner?
+Das ist die Frage, oder?
+Also es gibt so dieses doppelte S-Kurvenkonzept,
+dass man einfach sagt, es gibt eine gewisse Technologie,
+Der Lebenszyklus, zum Beispiel der Verbrenner, und dann kommt der Elektromotor, also Elektroautos, und dann kommt dieser neue.
+und das ist jetzt letztendlich die Frage
+also erstens mal ist das wirklich
+das Elektroauto
+die Technologie, die den Verbrenner ersetzen wird
+und wo genau
+auf diesem Zyklus sehen wir uns
+wenn jetzt der Verbrenner
+noch lang läuft, kann es sein, dass man
+in diese Technologie investieren kann
+oder man sagt
+nee, wird nichts
+dann investiere ich in den Elektro
+in China ist
+Elektro
+Alles Elektroautos. Da ist die Entscheidung schon längst gefallen.
+Ist natürlich jetzt nochmal als kleiner Exkurs, wenn ich irgendwo in den Markt reingehe,
+dann kann ich natürlich zum Beispiel als chinesischer Hersteller versuchen,
+irgendwie so gute Verbrennermotoren zu bauen wie BMW oder Mercedes.
+Das ist schwierig einfach, weil die 20, 30, 40, 50 Jahre Markterfahrung haben.
+Oder ich sage, okay, ich setze gleich bei der neuen Technologie an und überhole dann.
+Wo kommt es beim Elektroauto an? Was ist da die Kerntechnologie?
+Ja, der Akku, die Batterien.
+Und deswegen haben die Gewissenshersteller massiv in die Entwicklung von Batterietechnik investiert
+und sind da der deutschen längst einfach.
+Das ist das Thema Lebensstil.
+Dann, den mag ich immer ganz gern, aus der Customer Lifetime, das ist schon älter, aber das macht nichts.
+Wie sind Sie zum Beispiel als Kunde relevant während Ihres Lebenszyklus?
+Sie sparen und haben irgendwie Kindergeld, dann haben Sie Ihr erstes Girokonto,
+Dann machen Sie Darlehen, irgendwie ein Auto etc., Handyverträge oder Sie brauchen ein Studium.
+Dann kommen so die ersten Geldanlagen, die erste Vorsorge zwischen 24 und 30.
+Dann plötzlich kippen Sie komplett ins Minus.
+Dann finanzieren Sie sich Ihre erste Immobilie, tragen über Jahre, Jahrzehnte die Schulden ab,
+irgendwann mal mit 61 ist es schuldenfrei
+und dann machen sie noch ein paar Jahre
+und dann ist es halt vorbei
+so denken halt
+so denken
+diese ganzen
+Banken und Versicherungskonzerne
+also ich weiß nicht, ob sie das noch gemacht haben
+irgendwie so Sparwochen oder sowas
+gab es das bei ihnen noch
+mit seinen kleinen
+da gab es eben ein Geschenk
+natürlich ein riesen Verlustgeschäft für die Banken
+dass Sie da mit Ihren 5,60 Euro da hinkommen.
+Aber letztendlich geht es darum, um Sie da zu cashen,
+damit Sie dann hier hinten über Ihre Baufinanzierung,
+da macht dann die Bank richtig Kohle mit Ihnen.
+Also nicht mit Ihrem Kleinen.
+Das Zweite ist, ich weiß nicht, ob Sie irgendwo schon mal bei MLP oder sowas waren,
+ob Sie irgendwas sagen, an der Hochschule.
+Also die MNP sponsern die studentischen Vereine, dafür kommen die MNPler und machen die Karriereberatung und Steueroptimierung etc.
+Dann gehen Sie dahin, dann überlassen Sie Ihre Daten da und irgendwann später machen Sie vielleicht dort einen Abschluss.
+Und dann hat sich das schon wieder gelohnt.
+MLE kommt immer ganz gerne. Zu welchen Fächergruppen kommen die gerne?
+Wo sind die immer ganz gerne auf dem Campus?
+Bei welchen Fakultäten sind die gerne?
+Maschinenbau, Wirtschaftsingenieurwesen.
+Genau, Maschinenbau, Wirtschaftsingenieurwesen und wer noch?
+meine Frau hat immer komplette Bücher von denen geschenkt bekommen
+Medizin
+also das heißt, die gehen daher
+um letztendlich
+um letztendlich ihren Kontakt zu haben
+dann schließen sie dort irgendeine Versicherung ab, irgendein
+Sparprodukt
+also wenn sie irgendeine fondsgebundene Rentenversicherung oder irgendetwas abschließen
+Dann zahlen sie halt über die Jahre Zehntausende von Euro und dann hat sich das wieder verhängt.
+Also für Sie bitte den Hinweis, aufpassen bei Finanzanlage etc.
+Also das ist so was typisches.
+Ich bin jetzt vollkommen anders, weil ich diesen Schritt nicht gemacht habe.
+Also ich bin jetzt nicht mit 24 bis 35 mir irgendwo ein Haus gekauft.
+Also ich bin da raus, deswegen schaut meine persönliche Finanzplanung aus.
+Aber ich weiß, dass viele von Ihnen das so als Ideal haben.
+Also irgendwie arbeiten, dann ansparen, Haus kaufen und dann hier über die Jahrzehnte.
+Wobei bei den jungen Menschen so das Thema Haus kaufen immer so groß ist.
+Also habe ich es mir zum 1.2. nicht leisten können und zum 2.3. sehen, dass es mir finanziell zumindest eine schlechte Rechnung ist.
+Fragen dazu noch?
+Wie haben Sie das gemacht? Also mit dem Hauskauf?
+Jetzt? Ich wohne zur Miete.
+Also ich habe meine erste Aktie mit 16 gekauft.
+und dann habe ich den einen und dann das andere ist, ich habe mein erstes Praktikum bei so einem Finanzvermittler gemacht,
+das war gut, das waren drei Wochen, da habe ich doch mal hinter die Kulissen geschaut,
+Danach habe ich mir geschworen, an mein Geld kommt nie ein Finanzvermittler, weil ich das
+von innen gesehen habe.
+Das war ein Geschäft, wo ich mir gedacht habe, das heißt, ich habe mich immer um meine
+Finanzen selbst gekümmert.
+Also meine grüne Linie ist da irgendwo, da in, ja das sind ja tausend Euro, das ist da irgendwo da oben.
+Also wenn es 20.000 Euro sind, dann ist meine grüne Linie jetzt im Stockwerk.
+also ich bin da raus
+ich bin für eine normale Bank
+bin ich
+ein sehr interessanter Kunde
+aber ich schließe halt bei denen nichts ab
+ich habe seit Jahren keine Bankfiliale mehr betreten
+ich wüsste nicht, was ich da machen soll
+außer zum Geld erheben
+also an mir verdienen die halt nichts
+Ja, ich denke, die sind auf Kriegsfluss, aber das ist meine persönliche Meinung.
+Also Banken und Versicherungsvermittler, da bin ich, sind meine, die, wir werden keine Freunde mehr, sagt man sich.
+Ich mach das alles selber.
+Okay, das ist der Kasten mal eintanken.
+Okay.
+Ja, deswegen für Sie aufpassen hier, Sie sind jetzt hier, ja, Sie sind ja noch relativ entspannt,
+Aber sobald natürlich das erste Gehalt kommt, versuchen die Banken und die Versicherungsvermittler alle sie zu fördern.
+Und bei dem Moment passen sie einfach rauf, weil wenn sie da was unterschreiben, kann es einfach sehr teuer werden über die Jahre.
+Ich sage nicht, dass sie nichts unterschreiben sollen, aber da müssen sie echt aufpassen.
+Ich mache halt einen Unterschied.
+Ob sie mit 50 aufhören können oder nicht.
+Gut, also das sind die Kasten, die wir in der Praxis haben.
+Gut, also Positionierungsanalysen. Hier ist so eine Analyse zur Segmentierung von Märkten.
+Also als Beispiel, ich kann zum Beispiel so eine Positionierung haben für Fluglinien.
+Ich habe zum Beispiel einen geringen Preis, hohe Servicequalität, begrenztes Streckennetz oder breites Streckennetz.
+Du hast mit einem geringen Netz und einem relativ breiten Netz, das ist zum Beispiel Ryanair.
+Hat jemand schon mal mit Ryanair geflogen ab Memmingen?
+Wie lange haben Sie gebraucht für die Buchung?
+Das weiß ich nicht, die haben das anders gemacht.
+Hat jemand anders gemacht? Wie lange haben Sie gebraucht?
+Das dauert nicht lang. Da gibt es dann irgendwie vier Optionen gepackt oder nicht.
+Und dann wird das einmal teurer und dann kommt es durch.
+Ja, ich habe zwei Stunden gebraucht.
+Echt?
+Ja.
+Also bei mir ging das extrem schnell.
+Also ich habe, wahrscheinlich bin ich zu doof, ich habe natürlich für mich, für meine Frau und für zwei Kinder gebucht.
+Ja, das ist vielleicht einfacher, aber für Kinder mit Hin und Drück und Einbruch und so, also das war sehr aufwendig.
+Die Preise haben sich auch immer geändert, dann habe ich immer meine Frau gefragt, ob das so richtig ist oder nicht und dann wurde ich wieder ausgedacht.
+Der Prüfungsprozess hat bei mir lange gedauert, aber das ist ein relativ geringer Preis.
+Also ich flieg jetzt im Februar nach Malta mit der Familie für 400, 500 Euro plus Minus.
+Dann hier auch geringer Preis, bisher Eurowings, aber begrenztes Steckennetz, das sind vor allem die amerikanischen Airlines.
+Und dann gibt es welche mit einer sehr hohen Servicequalität und sehr breiten Sprechgrößen
+wie Singapur, Emirates, Thai Air, etc.
+Also so können Sie das letztendlich auch einfach positionieren.
+Portfolio-Analysen heißt, wenn ich jetzt zum Beispiel verschiedene Produkte habe,
+zum Beispiel diese BCG-Matrix, die Sie auch kennen, kann ich zum Beispiel gucken,
+Habe ich einen niedrigen Markenanteil, einen hohen Relativen oder niedrig oder hoch?
+Im Wachwachstum schaue ich mir das an, wie positioniere ich letztendlich mein Produkt.
+Gut, dann machen wir mal eine kleine Transferaufgabe.
+Habe ich die mit Ihnen schon gemacht oder nicht?
+Nein, die ist neu.
+Also, probieren Sie das mal zur BCG-Matrix.
+Einfach mal eine kleine Aufgabe.
+Ich mache mal so die Aufgabenstellung.
+Müsste man jetzt eigentlich nur drauf machen.
+Das ist jetzt natürlich auf einer Folie.
+Also machen wir das mal.
+So.
+So.
+das. Am besten machen wir ein Word-Dokument auf und das ist das hier.
+So, kriegen Sie das hin einigermaßen?
+Ja, ich erkläre mal von Ihnen, ich mache jetzt ein Foto.
+Probieren Sie mal.
+Also, probieren Sie das mal.
+Okay, probieren wir das mal.
+Geht es vom Lesen, kann man es noch ein bisschen größer machen?
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+In der Vorlesung haben Sie das Wort.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Schaut es bei Ihnen aus, wenn Sie schon rausgehen?
+Wollen wir besprechen die Ergebnisse?
+Pausen Sie ein bisschen.
+Dann gebe ich Ihnen einen kleinen Hinweis.
+Amen.
+So, gut.
+Gut.
+Kann vielleicht jemand von Ihnen mal das Ergebnis zeigen?
+Vielen Dank.
+Amen.
+Vielen Dank.
+Also, in der Klausur.
+Möchte mir jemand sein Ding schicken, seine...
+Kann man nicht lesen.
+Wollen wir es trotzdem probieren?
+Wollen Sie es mir mal schicken? Geht das vorhin?
+Ich kann es schon schicken.
+Können Sie es mir einfach mal schicken. Ich meine, es ist ja super.
+Schicken Sie es mir mal gern.
+gerne. Einfacher Philipp Schmid. Passiert ja nichts. Dann kriegt sie direkt Feedback.
+Nicht mehr das in der Klausur wünsche oder nicht.
+Vielen Dank.
+Jetzt möchte ich nochmal reflektieren.
+Sehr gut.
+Ah ja, ist sehr gut.
+Ihr merkt schon. Super.
+Also, dann zeige ich das mal.
+Also.
+Hänge ich das mal hinten rüber.
+Gut.
+So.
+Machen wir das klein aus.
+Also gut.
+Also, wie?
+Also wenn ich was von der BCG-Matrix schreibe, dann malen Sie mir alle die BCG-Matrix hin, oder?
+Haben Sie das soweit?
+Man erlebt ja immer die komischsten Sachen.
+Also immer wenn ich in so einer Klausuraufgabe von einer Portfolioanalyse oder eben einem Spot oder Modell oder Five Horses, dann malen Sie mir das hin.
+Dann ist schon mal gut, dass Sie die Achsen beschriften.
+Vergiss der eine oder andere.
+Haben Sie alle die Achsen beschriftet?
+Haben Sie noch gelernt, dass der Schüler immer die Achsen beschrifft?
+Das ist schon mal gut.
+So, und dann müssen Sie letztendlich einfach nur aus dem Text das hinlesen und dahin machen.
+Also, ob Sie das jetzt da oben hinmalen oder da oder da in die Mitte setzen, Sie kriegen überall einen Punkt.
+Also, ich erwarte jetzt nicht von Ihnen, dass es genau in diese Kästchen, aber worauf kommt es mir an?
+Sie haben das Modell verstanden, Sie haben den Text verstanden und haben verstanden, dass Sie die einzelnen Datenpunkte da einsetzen.
+Soweit klar bei Ihnen?
+Haben Sie das alle?
+So, das ist das eine.
+Das zweite, da haben wir schon diesen ersten Punkt, ordnen Sie die ein.
+Begründen Sie, okay, kann man noch was dazu schreiben, aber letztendlich ist das aus der DIN-Grunde.
+strategische Handlungsempfehlungen
+genau das ist die Begründung
+Offensivstrategie
+also auch bei dieser Begründung
+solange das jetzt nicht
+vollkommen quer ist
+kriegen sie den Punkt
+und es ist halt so, dass wir in dieser
+Portfolio Matrix
+einfach ein paar Standardempfehlungen haben
+Question Markets abwandeln, hier ist Abschöpfen, Wachstumsstrategie und bei Ventur-Docs muss man halt sagen, das ist Investition.
+Das sind die Standardstrategien in der BCG-Matrix.
+Mögliche externe Einflussfaktoren, das haben wir da.
+Regulation, Nachfrage der Konsumenten, wissenschaftliche Verbote, Datenschutz etc.
+So was schreiben Sie mir dann so in zwei, drei Punkte und dann haben Sie das gelesen.
+Okay? Also generell bei diesen Transferaufgaben.
+Ich werde jetzt nicht Ihnen genau dieselbe, aber dann kann ich Ihnen halt auch was aus dem Automobilbereich oder aus dem Lampenmaschinenbereich etc.
+Mache ich Ihnen einfach noch als Studie.
+Gut.
+Gut. Dann gehen wir zu den abnehmergerichtlichen Strategien.
+also so ein langfristiger
+Verhaltensplan, wie ich diese
+Wettbewerbsvorteile
+wahrnehme
+und da gibt es halt verschiedene Sachen
+zum Beispiel Qualitätsführerschaft, Kostenführerschaft
+selektive Qualitätsführerschaft
+selektive Kostenführerschaft
+also ich kann zum Beispiel
+ich bin immer wieder bei dieser Gesamtmarktabdeckung
+ich kann eine Gesamtmarktabdeckung
+haben von der Strategie
+der Qualitätsführerschaft
+also dass ich versuche auf dem Gesamtmarkt
+überall qualitativ
+der höchstwertigste zu sein.
+Aus meiner Sicht,
+wenn man Amazon anguckt,
+ist es gut.
+Also jetzt nicht die Produkte von Amazon,
+aber der Kundenservice von Amazon
+ist tatsächlich sensationell gut.
+Sie rufen da an,
+Kunden freuen sich,
+sie kriegen die,
+sie kriegen die,
+sie kriegen das erstattet.
+Die Strategie
+der aggressiven Kosten
+Führerschaft, auch mit einer
+Gesamtabdeckung. Wer greift zurzeit
+Amazon massiv an?
+Wo geht es noch günstiger
+als auf Amazon?
+Ja?
+Temo.
+Genau.
+Ja?
+Also,
+Also TEMO ist natürlich vollkommen gültig.
+Also da kriegst du dasselbe wie zum Beispiel bei Amazon.
+Machen wir mal eine Handyhalterung.
+10 Euro, das kostet auf TEMO.
+Also insofern kann man hier schon, also hier kriegen Sie keine unter 10, oder?
+Doch, hier 8, 10, aber eigentlich günstiger wird es nicht.
+Das Teil hier, das schaut doch fast gleich aus, oder?
+Also das ist jetzt hier so eine Gesamtmarktabdeckung, ich kriege das alles, aber es wird noch günstiger.
+Jemand schon mal bei Ihnen bei Chemo gekauft?
+Er hat es mal ausprobiert.
+Überschaubar.
+Aber es ist schon eigentlich verrückt.
+Sie müssen sich das mal überlegen.
+3,77 Euro wird es gefertigt, da ist deutsche Mehrwertsteuer drauf,
+das wird dann nach Deutschland geschickt und wird bei mir in die Heidegger Straße geliefert.
+Das ist vollkommen verrückt eigentlich.
+also geht nur wenn sie wenn sie wirklich super günstig produzieren können und ja
+es kommt alles aus der volksrepublik china und sonst vollkommen gerade ist
+versandt unglaublich. Anyway.
+Was sind die meisterkaufenden Artikel?
+Aha.
+Wow.
+Also auch hier
+zum Thema K.I. generiert.
+Aber ihr könnt da stundenlang
+verbringen. Meinet?
+Aber das ist letztendlich das Idee.
+Bitte?
+Und was kommt für sich?
+Das ist ein Samsung-Bilder-Angebot.
+Das ist interessant.
+Das ist ein Original-Bilder-Angebot.
+Aber da kann es sein, dass sie tatsächlich das hier jetzt, das kann sein, dass das hier
+Also es kann sein, dass jetzt hier ein ähnliches System wie Amazon auch, Sie können sich als
+Händler in gewisser Provision einfach auf diesem Marktplatz bedienen.
+Viele Sachen verdienen, die Sie auf Amazon ja bekommen, wenn Sie sich über Amazon versammeln,
+sondern über einen Händler.
+Und genauso wie sich dieser Händler auf Amazon einkaufen kann, kann er sich auch auf Google
+einkaufen.
+das ist die Linie dahinter
+also das ist das hier
+Qualitätsfürschung
+aggressive Kostenfürschung
+auch jetzt
+jetzt so
+so ein
+Aldi zum Beispiel
+der eine aggressive Kosten
+beim Aldi kriegen sie auch nicht alles
+also gerade der Aldi als er angefangen hat
+hat
+letztendlich ein begrenztes
+Sortiment gehabt, das heißt
+Teilmarktabdeckung
+oder diese Teilmarkthaltung
+mit Strategie der selektiven
+Qualitätsführerschaft.
+Auch das zum Beispiel, also wir haben bei Multivac
+etc., das ist nicht der gesamte
+Markt, sondern ein gewisser Markt
+und dort versucht man letztendlich qualitativ
+der Beste zu sein.
+Also in Deutschland
+versuchen wir tatsächlich
+immer in diesen selektiven
+Qualitätsführerschaften zu sein.
+Also dieser Teilmarkt,
+aber dann auch diesen Teilmarkt
+letztendlich der beste.
+Dann gibt es sowas wie
+konkurrenzgerichtete Strategien.
+Also die zielen
+auf die Realisierung eines
+Kundennutzens gegenüber dem Wettbewerber
+ab. Also wie grenze ich
+mich letztendlich
+gegenüber diesem Hauptkonkurrenten ab?
+Also diesen Kundennutzen
+gegenüber.
+Und das, was ich jetzt habe, sind halt
+jetzt endlich strategische Wettbewerbsvorteile.
+Jetzt machen wir mal
+Samsung versus Apple.
+Wo hat Samsung
+oder Apple den Vorteil gegeben
+über Samsung?
+Ja, das geschlossene
+Betriebssystem.
+Das ist das eine. Das andere ist Design,
+wobei das Design ist auch ein bisschen
+eine andere Sache.
+Apple?
+Apple?
+Oh, zu viel.
+Aber vom Preis her
+ist es gar keine große Unterschätzung.
+Es gibt sich fast nichts.
+Also der Vorteil ist natürlich,
+wenn Sie jetzt
+einmal in diesem Apple-System
+gefangen sind,
+dann kaufen Sie sich
+mit hoher Wahrscheinlichkeit
+einfach das nächste Apple.
+Einfach weil diese ganzen
+Sie halten es nebeneinander,
+die sprechen miteinander
+Deswegen ist letztendlich dieser Vorteil, das nennt sich Lock-In-Effekt, dass viele diese Software schon benutzen.
+Selbe Teil mit Windows oder auch mit OpenAI.
+Ich darf jetzt, weil ich einen Wettbewerb gewonnen habe, Gemini nutzen in der Bezahlversion.
+Wenn ich jetzt bei CGPT zum Beispiel, das ist die Fachstudienberatung Wirtschaftsingenieurwesen.
+Wenn jemand von Ihnen mir eine komische E-Mail schreibt, dann beantworte ich die natürlich nicht selbst, sondern die beantworte ich die KMU.
+Also nur eine ganz einfache, es gibt ja so, wie soll ich sagen, das ist mein Fach, erzählen Sie es bitte nicht meinen Kollegen,
+der andere Professor der Fachstudiengruppe, die schreiben E-Mails und ich habe dem Kollegen gesagt, der hat eine Stunde gebraucht für die E-Mail.
+Also wenn Sie jetzt zum Beispiel eine Mail schreiben, welche Fristen gelten für die Bachelorarbeit,
+wenn Sie mir jetzt irgendwie
+schreiben, der Herr Schmid
+wie lange brauche ich, welche Fristen
+gibt es für die Bachelorarbeit etc.
+dann nehme ich diese Mail, nehme den Namen raus
+kopiere die hier rein
+und dann finden Sie von mir
+die Antwort
+ich gucke dann nochmal nach, ob das stimmt
+aber Sie könnten letztendlich
+auch, Sie könnten das selber recherchieren oder
+einen eigenen KI, aber Sie können auch
+mir eine Mail schreiben.
+Innerhalb kürzester Zeit, wenn Sie
+von mir
+die Antwort zurückkriegen.
+Das steht
+nicht. Da muss ich nochmal gucken,
+steht nicht alles.
+Der Sicherheitshinweis ist
+tatsächlich, ich habe
+in den Einstellungen bei mir
+Ich habe das so gemacht, dass er mir für alle seine Antworten sagt, wie sicher er sich ist.
+Der ist trotzdem falsch, weil da gibt es eine Sonderregelung, aber wenn da eben 5 und 10 sind, dann weiß ich, hat er sich ausgedacht.
+Was brauche ich denn auszuordnen?
+Und wenn ich das jetzt hier quasi für mich komplett aufgesetzt habe,
+für meine ganze Arbeit,
+dann wäre ich sehr schwer jetzt einfach zu Gemini umwechseln,
+auch wenn das vielleicht das bessere System mittlerweile ist von oben.
+Das sind diese Lock-In-Effekte.
+Das ist übrigens auch der Grund, warum diese KD-Anbieter so schnell wachsen wollen.
+Die wollen, dass sie einmal mit ihrem System arbeiten,
+weil sie danach wahrscheinlich nicht mehr wechseln.
+Das ist ja wirklich für Windows.
+Also das sind so strategische Wettbewerbsvorteile gegenüber den Hauptkonkurrenten.
+Selber ist es wie WhatsApp. Wenn WhatsApp, wenn sie viele Kunden haben, die auf WhatsApp sind und sie haben einen neuen anderen Kanal,
+ich weiß nicht, Telekom oder Signal oder so, ich weiß nicht, ob Sie das alle kennen,
+dann denken Ihre ganzen Freunde auf WhatsApp, sie nennen das auch WhatsApp.
+Also so ein strategischer Wettbewerbsvorteil kann letztendlich sein, dass es viele Kunden dort schon haben.
+Und dann ist die Frage, wie gehen Sie mit diesen anderen um?
+Also Sie können eine Konfliktstrategie machen, das heißt Sie gehen aggressiv gegen andere vor, eine Kooperationsstrategie.
+Sie arbeiten mit den anderen zusammen, eine Ausweichstrategie, eine Anpassungsstrategie, je nachdem was Sie mit dem Konkurrenten machen.
+Und dann gibt es sowas wie den Marktführer, also ich bin vorne, Marktfolger, ich folge dem Marktführer, Marktnischen, ich ziehe mich in eine sichere Nische zurück.
+Ein gutes Beispiel jetzt noch zum Ende ist das Thema Tanken.
+und zwar
+beim Thema Preissetzung.
+Habe ich es Ihnen schon erklärt,
+wie der Preissetzung in der
+Unterschrift ist?
+Also, es gibt ja Leute, die sagen,
+das Tanten ist ja Abzocke
+oder die haben irgendwie ein Kartell,
+die sprechen sich ab.
+Das machen die nicht, die werden ja blöd.
+Brauchen sie gar nicht.
+ich nehme jetzt mal blau
+wer ist immer der teuerste
+wo kann ich am teuersten tanken
+bei Harald Tankstelle
+also die Harald Tankstelle
+die setzt jetzt den Preis für
+1,76
+dann setzen die um 2-3 Cent runter
+dann früh am Morgen, wenn alle wieder tanken müssen
+Und dann gibt es andere, wie zum Beispiel eine Jet, die Jet ist immer, wieviel Cent günstiger
+als die Aral, plus minus
+drei, vier Cent, sowas, ne?
+Also das ist die Jet
+und das ist Aral
+So
+Wenn Jet merkt, Aral
+setzt auf 1,74
+dann macht halt
+Jet
+1,70
+Also so folgt die dem quasi immer nach.
+Also wir haben einen Marktführer, das ist der Aral oder vielleicht auch die OMV.
+Und der Jet und Ran oder wie sie alle heißen, die folgen immer nach.
+Die müssen sich gar nicht absprechen.
+Das ist ja Quatsch.
+Also der Jet ruft nicht beim Aral ran und sagt, hey, was verlangt dein...
+Das ist ja Quatsch, wo ist der Aral?
+Wie kriegt der das raus, was der Aral verlangt?
+Früher ist er noch selber vorbeigefahren, hat aufs Ding geschaut.
+Wie kriegt das heute mittlerweile?
+Da gibt es ja lauter Apps etc.
+Wer guckt rein, das macht er nicht einmal zentral hier in Kempten,
+sondern das wird irgendwo in der Zentrale gesteuert.
+Also das heißt, wir haben einen Marktführer, der ist vorne
+und der Marktfolger folgt immer,
+sodass einfach dieser Preisabstand letztendlich immer gleich bleibt.
+Das ist so ein typisches Marktverhalten. Gibt es auch bei anderen. Ist Multivac der Marktführer?
+Ist die Nummer 1? Wer ist der Wettbewerber?
+Kommt immer auf die Beute, doch man hat auch Multimedikamenten.
+Ja, auch gut.
+Ich bin aus Deutschland.
+Okay. Auch aus Deutschland?
+Das weiß ich nicht. Also wir haben die Konkurrenz in unseren Teilen.
+Nehmen wir mal an, die sind der Marktführer. Nehmen wir mal einen anderen, der auch ein Marktführer ist.
+Gehen wir nochmal nach Fendt. Also Fendt ist immer die teuersten und die besten.
+Also behaupten Fendt-Leute. Also das ist so ein Fendt, so ein Traktor.
+Also, was kostet der?
+Eine Million?
+Kostet der Spaß?
+Ach, Schnäppchen.
+Also, eine halbe Million kostet der.
+Fendi ist so ein typischer
+Marktführer. Hat eine sehr starke
+Marke, sehr gutes Branding,
+sehr hohe Qualität, so ein bisschen wie der
+Branche. Das heißt, wenn die was machen, dann orientieren sich die anderen sowohl preislich
+als auch was Innovationen etc. Das ist ein typischer Marktführer. Also Marktführer
+ist immer jemand, der im Markt die Preise setzen kann, der als Marktführer letztendlich
+Und das andere sind Marktfolger. In dem Falle wäre Amazon der Marktführer, unbestritten im Bereich, es gibt keinen, der größer ist als Amazon, zumindest nicht in der westlichen Welt.
+Und Temo wäre dann der Marktfolger. Und wie versucht Temo das zu machen, im Amazon was abzunutzen, das ist die Strategie dahinter.
+Ja? Dumpingpreise. Einfach günstiger. Richtig. Dumpingpreise. Also das Gratisversand machen sie auch. So wie Ding. Und dann ist die Idee Dumpingpreise. Und was machen sie noch?
+ziemlich clever
+hat jemand schon
+ja?
+das ist alles direkt aus Asien verschickt
+richtig, das ist so die Struktur
+aber im Marketing
+immer so Gewinnspiele
+solche Geschichten
+Meisterkauf
+Sie kriegen Black Friday
+Sie können die App nie aufmachen
+ohne dass Sie ein Gewinnspiel
+jetzt noch kaufen
+das heißt, Sie versuchen einfach
+noch stärker an die Instinkte zu appellieren,
+dass sie letztendlich jetzt kaufen.
+Das ist die Idee von den Marktfreunden.
+Wird Temo erfolgreich sein?
+Man weiß es nicht, die Europäische Union
+ist da gerade ein bisschen dahinter,
+von wegen Zoll etc.,
+dass das nicht geht, müssen wir mal gucken.
+Aber es ist schon echt verrückt.
+Ich sollte da mal wieder was kaufen.
+Ich brauche... Dinosaurier. Dinosaurier, ja. Ich brauche Ski.
+Aber würde ich mit diesen Dingern wirklich...
+Das ist eine Skibegleitung, ne?
+So echte Ski gibt es nicht, ne? Scheint es nicht zu geben.
+Ich glaube, die werden lebenskernig. Ja, lebenskernig, oder?
+Die sollen ja auch geliefert werden, so Dinger.
+Ich meine, die liefern diese Dinosaurier auch.
+An deiner Größe?
+AliExpress.
+Also wenn Sie mich dann sehen.
+AliExpress.
+Was ist da?
+Was ist da?
+Was ist da?
+Was ist da?
+Was ist da?
+Was ist da?
+Lebensgründe.
+Was will ich mit dem Teil?
+AliExpress.
+gar nicht, machen wir mal Ski.
+Nee, also
+gibt's auch nicht. Siehst du mal,
+Pre-Koller gibt's alles, aber keine
+Diener für die Kette.
+Also auch AliExpress kann ich nicht, ist auch
+so ein Folger, das ist so eine typische
+Folgerstrategie.
+Ja, bitte was?
+Ich habe schicke Helme.
+Ist das so?
+Ja, aber ich bin da echt sorgend,
+muss ich schon sagen.
+7,69 Euro.
+Bin mir nicht sicher, aber
+ob das so sicher ist
+keine Ahnung
+aber
+ist schon schick
+also Zeug gibt es nicht
+also diese
+Konfliktstrategie bedeutet nochmal
+ich agiere gegen die anderen
+BMW wäre das Mercedes, Kooperationsstrategie
+ich arbeite mit einem zusammen
+ausreichend gegen Konflikt
+ich mache es wie die anderen
+Konfliktstrategie, das machen wir am Ende
+weil es einfach so schön ist
+diesen Markt in Oberstdorf
+einfach weil ich gestern da war
+und weil ich Oberstdorf eigentlich ganz nett finde
+Dorf, Restaurant
+das ist eigentlich eine schöne
+Klausuraufgabe, wobei es jetzt halt nicht
+also, so
+machen wir es mal durch
+so
+was ist eine Kooperationsstrategie
+in den Markt für Mittagessen
+in
+in
+in Oberstdorf
+ich gehe irgendwo hin
+und biete was an
+mache eine Kooperation
+ein bisschen schwierig
+was ist eine Konfliktstrategie
+in Oberstdorf
+bezüglich auf die Konkurrenz
+was ist eine Konfliktstrategie
+Genau, ich gehe da hin
+und sage, gehe da durch
+schaue mir an, was kostet der
+Zwiebelrostbraten
+und sage dann hier
+einfach, biete es einfach 3-4
+Euro günstiger an, pro Gericht
+und mache halt massiv werden
+Das wäre die Konfliktstrategie
+Richtig
+Was wäre eine
+Ausweichstrategie
+Genau, anderer Standort
+Ich gehe gar nicht nach Bad Oberstdorf
+Ich gehe zum Beispiel, wo gibt es überhaupt
+Ja, da gibt es überall was
+Aber
+Ja, das ist ein bisschen schlecht
+Wir finden hier keinen
+Ort, wo es kein Restaurant gibt
+Ich zeige Ihnen, wo es das gibt
+Ja und was wäre eine Ausweichstrategie? Andere Ruhetage, richtig, jetzt der Nebensaison oder ich
+mache ein mexikanisches Restaurant. Oder eine Ausweichstrategie könnte zum Beispiel sein,
+nicht überall ist es so schön wie bei uns. Also jetzt gehen wir mal dahin. Kommt jemand
+die aus Ostdeutschland von Ihnen?
+Also wenn ich jetzt zum Beispiel
+in Schmölln
+Ich war noch nie in Schmölln, aber
+Ja, okay, da gibt es auch, aber deutlich weniger.
+Gehen wir noch hier weiter hoch, Richtung
+Lückenwalde da oben, da Mecklenburg-Vorpommern oder so, also da wird schon, in Jakobshagen
+oder so, hier Pferderuf, ich mache da irgendwo ein Restaurant auf, ich gehe einfach raus,
+da muss keine Hotels, ich gehe da hin, wo es quasi keine anderen Restaurants sind, da
+habe ich keine Konkurrenz, aber was habe ich da auch nicht?
+Ich habe da auch keine Kunden.
+Also wenn ich jetzt nach Oberstdorf ein Restaurant aufmache,
+kann ich ziemlich sicher sein, dass es dort einen Markt gibt,
+weil es gibt dort viele andere auch, es muss einen Markt geben,
+aber ich muss halt versuchen, wie ich dort ein Stück vom Markt bekomme.
+Ich gehe da hin, mache dasselbe Produkt und mache es vielleicht günstiger
+oder ich weiche aus oder mache etwas anderes Innovatives.
+Als letztes Beispiel aus dem Bereich Ding,
+Da ist diese Kaffeekette, die so günstig ist, wo die Berliner sich immer einschmeißen.
+LAP, ne? LAP-Kaffee?
+Lab-Kaffee?
+Danke.
+Lab-Kaffee-News?
+Ja?
+Also Berlin, ja?
+Ja?
+Also Farbanschläge. Was macht
+LabCafé? LabCafé hat sich halt
+gesagt, sie machen einen Kaffee
+und sie bieten den irgendwie nicht für 3,90
+oder sowas an, was sie zahlen, sondern
+irgendwie 2 Euro oder sowas.
+Also die haben gesagt, wir machen den mit existierenden
+Markt für Kaffee
+und bieten das letztendlich
+günstig an, weil die
+Entschuldigung, weil die Berliner hat
+Marktwirtschaft nicht, sie verstehen
+es einfach nicht.
+Nichts gegen die Berliner, aber
+also deswegen
+kriegen die halt
+viel Ärger und
+wird irgendwie beschmutzt etc.
+Also das ist so eine typische
+Innovation und das heißt
+die versuchen letztendlich
+über die Masse günstigen Kaffee zu verkaufen
+dasselbe Produkt
+und das wäre jetzt was, was eine klare
+Konfliktstrategie
+Okay, soweit so gut?
+Schauen wir mal, wer nächste Woche
+kommt, wenn jemand wieder kommt, ich glaube nächste Woche
+ist sie nochmal allein, das ist ja richtig langweilig
+Aber es geht mal hin.
+Nächste Woche haben wir probiert.
+Ich wünsche Ihnen eine schöne Woche.
+Machen Sie es gut und danke für Ihr Interesse.
