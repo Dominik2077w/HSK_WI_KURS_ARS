@@ -1,0 +1,1495 @@
+Nervt es wenigstens, weil es die ganze Zeit irgendwie summt oder so?
+Schade.
+Also mich nervt es tatsächlich, weil ab und zu ruft man hin und da weiß man, dass man egal ist.
+Ich habe uns das Ganze vor allem mal von der mathematisch erklärenden Seite angeguckt.
+Wichtig dabei für Sie ist, es dreht sich dann irgendwie wieder auf.
+Es mag irgendwie kompliziert erscheinen, aber im Grunde das, was wir hier lernen,
+Das, was wir mit relativ einfachen Betrachtungsweisen uns angucken können, sind Grunddefinitionen, die wir später brauchen werden.
+Gerade wenn es um die Nase geht.
+Wir haben uns das Ganze noch ein bisschen näher angeguckt und mal gegen erklärt.
+Wir haben uns das Ganze für idealer Nase angeschaut und auch nochmal für hergeleitet.
+Warum ist das denn eigentlich, wenn wir von Festkörpern sprechen, warum ist das ein Unterschied,
+weil es da einfach keine Unterscheidung mehr gibt, weil Druck und Volumen relativ konstant miteinander liegen.
+Entschuldigung.
+Nächster Punkt, erster Hauptsatz für die schlossenen Systeme, das gucken wir uns gleich noch ein bisschen an.
+Herleitung aus der Energietechnik, Herleitung für die eigentliche Hauptformel.
+Wer von Ihnen hat die Formelsammlung dabei?
+sehr gut, es geht in die richtige Richtung,
+die brauchen wir nämlich gleich.
+Wie steht da drin?
+Wie steht da soweit drin?
+Sie müssen aber selber dafür sorgen,
+dass Sie es benutzen können.
+Also einfach, immer mal wieder machen,
+immer mal wieder üben.
+Durchflossene Systeme sind eigentlich einfach,
+solange sich der Massestrom konstant verhält.
+Wenn das nicht mehr so ist, ist doof.
+Das Gute für Sie, bis auf eine Aufgabe, bei der ich noch nicht weiß, ob ich sie annehme,
+habe ich nur Aufgaben, wo der Massesturm gleich bleibt.
+Also stationär systematisch.
+Was wir uns da noch angeschaut haben, ist das Thema Prozessführung.
+Das wird tatsächlich vor allem in den nächsten Vorlesungen relevant.
+Wichtig dabei vor allem, wenn wir von Prozessführung sprechen,
+sprechen wir fast ausschließlich von quasi-statischen Prozessführung.
+Das heißt, jeder dieser Punkte ist berechenbar.
+Und bei jedem dieser Punkte befindet sich das System im Gleichgewicht.
+Immer im Hinterkopfbehalt, und das ist natürlich idealisiert.
+Beziehungsweise über Statistik herleitbar.
+Zwei wichtige Dinge.
+Erstens, das was wir da betrachten, sind Kurven, die sind statistisch eindeutig,
+aber die sind nie genauso wie es ist.
+Das ist so ein bisschen wie Unschärftheorie, Heisenberg, Schrödingers Katze, das sind alles so Dinge, die man nicht so richtig klargreifen kann, zumindest ist es mir so, und ich bin dann auch nicht genug Physiker, geht in die gleiche Richtung.
+Wichtig aber auch, wenn ich, wie hier dargestellt, einen Prozess zwischen zwei Punkten beschreiben will, sind die beiden Punkte klar definiert, die sind im Gleichgewicht.
+Aber wie ich den Prozess fahre, das entscheidet darüber, was da passiert.
+Denn Sie erinnern sich dran, was sehe ich denn hier im Integral über PVDN an?
+Arbeit.
+Und Sie sehen, wenn Sie hier ein Integral über diese Fläche bilden oder über die Gesamtfläche,
+komplett andere Arbeit.
+Das im Hinterkopf behalten, da werden wir im nächsten Vordesign auf jeden Fall nochmal reingehen.
+Deswegen zwei Punkte im Gleichgewicht. Da gibt es nichts dran zu witteln, die kann man ganz klar bestimmen.
+Der Weg zwischen zwei Punkten, der ist relevant für die Prozessgrößen Arbeit und Werbung.
+So, wir kommen ein bisschen, Herr Heser, den kann ich anfangen, richtig? Sehr gut.
+Das freut mich. Dann machen wir nämlich ein kleines Experiment.
+Und zwar, wir fangen mal gemeinsam an und schauen uns das Ganze an und ich übergebe Ihnen dann, dass Sie das Ganze weiterrechnen.
+Tut mir leid, ich muss mir ein bisschen Hilfe machen, sonst fliege ich mir kurz.
+Ich war gerade vier Tage auf der Messe, davor zwei Tage auf Tagung, davor zwei Tage auf Meeting, ich bin ein bisschen gerade.
+Das stehen alle, wie gesagt.
+Also, zeichnen Sie ein Anlage-Schema.
+Warum ist das wichtig? Um einfach mal ein Verständnis dafür zu haben, wie sieht eigentlich unser System aus?
+Wie sehen eventuelle Wärmeströme aus? Wie sehen eventuelle Arbeiten in oder aus meinem System aus?
+Was weiß ich über das System?
+Manchmal hilft es, das extrem zu visualisieren.
+Sie sind alles in der Nähe. Ich glaube, Sie sollten gut darin werden, das zu visualisieren.
+Gut. Ein Wärmeübertrager.
+Da haben wir hier 3, irgendwas Kilogramm pro Sekunde.
+Hier haben wir einen Massenstrom. Wir haben Flüssigkeiten mit bestimmten Parametern.
+Wir haben eine Eintrittstemperatur. Und wir haben eine Austrittstemperatur.
+Wir haben eine mittlere Störungsbeständigkeit am Eintritt. Das ist wichtig.
+Das heißt, hier haben wir C1 und wir haben einen Druck P1.
+Das sind jetzt ein bisschen viele Pfeile, aber ich hoffe, dass ihr das trotzdem so weit klar tut.
+P1, Druck, nicht Leistung.
+Ausdrückt haben wir eine bestimmte Geschwindigkeit.
+Das ist C2.
+Und wir haben eine Druckhilfe, das heißt, irgendwie kann man wahrscheinlich dann ausrechnen, was denn der Druck an der Stelle 2 aussieht.
+So, Anlagenschema. Wir nehmen an, dass der Maskenstrom in diese Richtung geht.
+Da gibt es übrigens kein richtig oder falsch. Wenn ich da so zwei Röntgen hinzeige und sage Anlagenschema,
+dann ist das komplett Ihnen überlassen, ob Sie links oder rechts in die Gruppe setzen. Vollkommen gleich.
+Das ist unser Massenstrom.
+Jetzt haben wir zwischen, ah genau, was sehen wir noch?
+Wir haben einen Wärmeübertrager, der wird von warm auf kalt.
+Das heißt, wir haben einen Wärmestrom, der aus dem System rausfällt.
+Unsere Systemgrenze, malen wir hier mal auch da ein, das ist unsere Systemgrenze.
+Kleiner Hinweis, auch bei so einer Fragestellung, wenn ich sage, Anlagenschema, da gebe ich relativ viele Freiheiten.
+Wenn ich keine Freiheiten lassen möchte, dann sage ich explizit, was ich sehen möchte.
+Möchte ich das System sehen, nur dass es soweit klar ist.
+Hier haben wir keinen Wärmesprung, der abgeht aus diesem System.
+Dann haben wir hier die relativ größten, die wir so kennen.
+Wir haben C1 und Theta1, C2, Theta2.
+Und wir haben noch Brücke, Theta1 und Theta6.
+P2 müssen wir ausrechnen
+1, 2, 4, 1
+und Delta P
+Jetzt ist noch die Frage
+warum sage ich das von unten nach oben
+ein bisschen schief
+weil ich natürlich sage
+dass hier noch der Ausfluss
+oberhalb von mir aus ist
+Das heißt eine Angabe habe ich Ihnen vorhin
+so ein bisschen verschrieben
+die steckt da im Text drin
+Das ist unser Delta Z
+Gut, jetzt die Frage, welcher Wärmestrom wird vom Kühlmedium aufgenommen, also dieser Seite, dieser Wärmestrom da, wenn der austritt, 5,6 Meter über dem Eintritt.
+Da fangen wir jetzt relativ einfach an und nehmen uns genau die Formel mal vor, die wir für durchströmte Systeme kennen.
+Amen.
+So, das ist bis jetzt einfach nur aus der Formel von der Aufgestellung.
+Müssen wir natürlich noch bestimmen, was ist jetzt 1 und 2.
+E ist die 1, A ist die 2.
+Das klären wir soweit.
+Und jetzt brauchen wir noch etwas, da ist ein E.
+Das sieht echt komisch aus.
+Das tragen wir soweit ein. Können wir gleich schon irgendwelche Sachen aus dieser Gleichung rausholen?
+Vielen Dank.
+Das hätte ich dann angeben müssen, dass es ignoriert werden soll, wenn ich es genau so angebe, also auch das verstehen, Aufgaben und so.
+Wenn ich extra sage, da ist Delta Z vorhanden, dann ist die Antwort praktisch nicht richtig, trotzdem okay, weil es ist nicht viel, wenn man sich das mal genau anschaut.
+Aber an der Stelle gebe ich es extra an, Delta Z ist vorhanden, muss eingesetzt werden.
+Also, Delta-Z haben wir, Geschwindigkeitsunterschied haben wir auch, Enthalpy, schwierig zu greifen,
+müssen wir uns gleich mal genauer angucken, wie wir die bestimmen können. Leistung, die
+ins System reingeht, ist da was, was verwirbelt, ist da was, was antreibt, ist da irgendwas,
+was drückt oder tut. Keine mechanische Leistung. Das heißt, das Ding können wir getrost raus
+abwägen. Das hier können wir einsetzen, das da können wir einsetzen. Ich mache das
+jetzt mal so ein bisschen. Hierfür haben wir alle Werte, hierfür haben wir alle Werte.
+Interessiert uns also, was machen wir aus der N-Type?
+Wer kennt es aus dem Stehwerk?
+Definition von Enthalpie, aus welchen beiden Konstanten
+setzen sich zusammen?
+Elementen?
+Merken?
+Merken, merken, merken, merken?
+Enthalpie, innere Energie
+und Volumenänderungsarbeit.
+Also U plus BV.
+PV, okay, da müssen wir wissen, ob wir nachher eventuell Ds Volumen kennen.
+Oder vielleicht fällt es ja raus, weil es ja wieder in beiden drin steckt.
+Wir werden sehen.
+Nicht verzweifelt angestellt, weil das sind jetzt wieder drin.
+Okay, ich weiß die innere Energie nicht und ich weiß den Volumen-N-Ausarbeit nicht oder den Druck-N-Ausarbeit.
+Gucken wir aber nochmal weiter rein.
+Die innere Energie eines Gases können wir nämlich beschreiben.
+Beziehungsweise wir können sagen, Delta U ist gleich Cv Delta T.
+Jetzt haben wir eine Flüssigkeit. Was wissen wir über Flüssigkeiten?
+Cv können wir mit Trost das V wegschmeißen.
+Wir haben nur eine, wir haben eine Kapazität.
+Daraus ergibt sich also Delta U ist gleich C mal Delta T.
+Damit haben wir da auch eine Hakenhüter.
+Delta U kennen wir.
+Jetzt müssen wir uns also noch anschauen, wie können wir den Teil P mal V rausnehmen.
+Wir nehmen uns jetzt mal nur das Ding hier hinten vor.
+Das ist nichts anderes als ein Delta-H, nichts anderes als ein Delta-U plus Delta-P.
+Warum kann ich das jetzt einfach so angehen?
+Weil ich von einer Flüssigkeit spreche.
+Auch da, spezifische Volumen der Flüssigkeit bleiben gleich.
+Spezifische Volumen von Gasen bleiben nicht gleich.
+Immer mit Beleg.
+Spezifisches Volumen Gase kann ich damit zusammendrücken, alles schön, alles gut.
+Also ändert sich mein spezifisches Volumen.
+Spezifisches Volumen von Flüssigkeit kann ich nicht so einfach zusammendrücken,
+außer ich gebe es explizit an, dann müssen wir uns das Ganze angucken.
+Gilt, solange wir, vielleicht eine Frage an Sie, wie lange gilt das?
+Ich habe jetzt so eine Flüssigkeit, die erwärme ich wie auch.
+Wie lange ist das spezifische Volumen gleich?
+In unserer schönen, idealisierten Welt.
+Bis es kommt.
+Genau, bis es kommt.
+Also, alles was ich gerade gesagt habe, genauso merken, in dem Moment, wo wir einen Phasenwechsel haben, ganz toll aufpassen.
+Weil da ändert sich alles. Da ändert sich die Energie, da ändert sich der spezifische Volumen.
+Kommen wir später zu. Aber dass Sie das im Hinterkopf behalten, wenn Sie über eine solche Aufgabe streuten,
+es ist kein Phasenübergang dabei, es ist eine Flüssigkeit dabei, spezifisches Volumen, das gleiche.
+So, gucken wir also rein. Wie kriegen wir das Ganze zusammen?
+Delta U haben wir eben schon dargestellt.
+Plus spezifisches Volumen.
+Nächster Punkt, spezifisches Volumen.
+Haben wir den Menschen einen Wert, der uns da weiterhilft?
+Zweite Vorlesung, Kehrwert.
+Kehrwert vom spezifischen Volumen ist die Dichte.
+Das ist übrigens ein ganz, ganz heißer Kandidat für die Reihentormsammlung, wenn man mal so nebenbei.
+Weil das kommt immer wieder, dass solche Fragestellungen da stehen,
+in denen man genau das im Hinterkopf erhalten muss.
+Wenn man da nicht drauf kommt, ist man leider relativ kurzfristig und mit Holzgewehren auch nicht.
+So, das heißt, aber wenn wir das einsetzen können, dann haben wir eigentlich alles zusammen.
+Dann fahren wir nämlich auf ein Q-Punkt.
+Gleich.
+Vielen Dank.
+Kilogramm pro Quadratmeter, da haben wir wieder Kilogramm, da haben wir Kelvin.
+Das ist alles kein Problem, da haben wir auch wieder Kilogramm, aber wir haben hier solche Freunde wie 1, irgendwas da.
+Wenn Sie das umrechnen, 5 Minuten pro Quadratmillimeter, bzw. 5 Minuten pro Quadratmeter, ist dann das, was man brauchen muss.
+Da passieren aber gerne Fehler.
+Deswegen einmal bitte zu Hause nachrechnen und probieren.
+Und einmal mit dem Ergebnis hier.
+Erkennbar oder nur zu weit unten?
+Ich glaube, ich muss mir doch beim nächsten Mal wünschen, dass Sie ein paar Minuten...
+Ich wollte gerade sagen, Terrassenförmigen, die mit der Treppe halten, die ihr so ein bisschen habt.
+Gut.
+Rekapitulieren.
+Und wie gesagt, das ist jetzt tatsächlich einfach was für Sie, für Ihre eigene Formel sammeln.
+Für, wie gehe ich an solche Aufgabenstellungen ran?
+Erstens, es ist ein durchschlossenes System.
+Das muss sofort klingeln.
+Dann muss sofort klar sein, alles klar, auf Seite 3 von meiner Kommissarin habe ich die Formel stehen.
+Dann schreibe ich die hin.
+Dann schaue ich in die Aufgabenstellung, was davon habe ich alles.
+Delta Z, fertig. Delta C, fertig.
+Leistung raus, fertig.
+Eine Gleichung wird auf einmal viel, viel überschaubarer.
+Dann N-Talpi. Es gibt zwei Möglichkeiten, wie ich N-Talpi bestimme.
+Entweder ich bestimme es direkt, wenn ich je nach Formel, Quatsch, je nach Gasform direkt hier rüber gehen kann,
+weil ich keine Volumenänderungsarbeit habe, beziehungsweise Druckänderungsarbeit.
+Hier habe ich Druckänderungsarbeit.
+Das ist klar. Da sind zwei unterschiedliche Drücke.
+Auch das, das muss klingeln.
+Da sind zwei unterschiedliche Drücke.
+Okay, dann habe ich in meiner Enthalpie einen von diesen beiden Bestandteilen, der ändert sich.
+Der andere auch noch, aber das ist ein anderer Punkt.
+Also, dann zur Acrylis haben wir das Ding, innere Energie und Druckänderungsarbeit.
+Druckänderungsarbeit können wir bestimmen, innere Energie, immer Temperatur.
+Das heißt an der Stelle vor allem sukzessive durchgucken, was sind die Formeln, die aufeinander verweisen.
+Ich hatte früher tatsächlich, ich habe mir mal so ein komisches Baudiagramm, wie ich das nennen will,
+eigentlich was er so ein Netz
+bezeichnet, welche Formel
+ich eigentlich machen will, wie Herr oder.
+Das hilft.
+Machen Sie das ruhig bei sich einfach mal.
+Sie haben jetzt noch die Zeit, sich darauf vorzubereiten.
+Und wenn das Ding nur etwas unübersichtlich wird,
+dann macht man es vor der Klausur halt nochmal richtig.
+Okay? Gut.
+Ah, ich hatte noch eine Seite mehr.
+Gut.
+Zur Thematik
+Entertil, Wärme,
+Kapazität,
+gleich vor mir weg, wenn man mich fragt.
+Dann gehen wir weiter. Wir machen jetzt ziemlich das gleiche wie bei der Entropie. Wir definieren erstmal, was Entropie eigentlich ist und vor allem wofür wir sie benutzen und gucken dann auch ein bisschen, was wir mit solchen Erklärungen erreichen können.
+Daher vorneweg, ich frage an Sie, wir haben unterschiedliche Systeme.
+Welche von diesen Systemen sind nahezu irreversibel, äh, nahezu reversibel?
+Fast wieder in den gleichen Zustand zurück, da hatten wir das letzte Mal bei den Prozessen.
+Und welche davon können eigentlich definitiv nicht durchwärts laufen?
+Hier haben wir irgendeine Art Zylinder. Da ist eine Masse drin. Die Masse wird hochgezogen, zum Beispiel, wenn hier Druck anliegt.
+Noch keine Antwort darauf, wie es weitergeht.
+Hier haben wir eine Masse, die treibt diesen Rotor an. Der Rotor bringt die innere Energie ins Ungleichgewicht.
+Schönes Wort. Was passiert, wenn dieser Prozess abgelaufen ist?
+Hier haben wir Drucktemperatur auf der einen Seite, evakuiert auf der anderen Seite, Ventil wird aufgemacht, ist das Ganze reversibel oder nicht?
+Und diese Kugelvergutung kennen Sie wahrscheinlich alle.
+Ich bin wohl gleich am Ende der Klasse, glaube ich.
+Ich bin zu alt, ich weiß, was ich mache.
+Egal.
+Also welche von denen oder wie viele von denen sind reversibel?
+Wir können das ja relativ einfach machen, jeder hat, ich hoffe, keiner ist diskriminiert,
+also jeder hat 4 plus Daumen, 4 Finger und Daumen an der Hand, das ist prima jetzt, 0,
+1, 2, 3, 4, und mit 3 genau so machen, das freut mich, machen die auch immer so, die
+drei noch ein bisschen komplett gleich. Also, wie viele haben wir? Wie viele sind nahezu
+oder sind nicht? Okay, das ist schwer. Das ist weder Ja noch Nein noch offene Antwort.
+Aber es ist fast offene Antwort. Also, wie viele haben wir?
+Wir sind hier nicht in der Klausur. Es gibt zwar Falsche, aber nicht Schlimme.
+Okay? Einer?
+Zwei?
+Zwei.
+Zwei? Zwei oder drei?
+Drei.
+Zwei.
+Zwei.
+Zwei.
+Es gibt...
+Komm.
+Also, richtige Antworten sind definitiv zwei.
+Warum?
+Wenn das hier sich ausgeglichen hat, haben wir wieder einen vollständigen Gleichgewichtszuscheid.
+Auf beiden Seiten vermutlich gleicher Druck, vermutlich gleicher Druck.
+Keine treibende Kraft mehr.
+Hier wird kinematische Energie in Arbeit umgewandelt, aber dieses Medium hat keine Möglichkeit, diese Arbeit wieder zurückzubringen.
+Keine Relevabilität.
+Hier ist es tatsächlich ein bisschen schwierig, ab wann Reversibilität anfängt.
+Denn natürlich, wenn ich das Ganze hochdrehe und dann loslasse, wird dieses Volumen verkleinert.
+Es entsteht also Druck. Der Druck treibt aber nachher auch das Gewicht wieder in diese Richtung hoch.
+Das wird nicht ewig laufen, außer es sind perfekte Immobile, von denen ich nicht so viel kenne und erhalte.
+Also auch eher reversibel, wie wir da unten über die Pulserhaltung auch reden.
+So, warum erzähle ich das jetzt?
+Weil nur von dem, was wir bisher gelernt haben, mit den Gleichungen, die wir jetzt kennen,
+können wir nicht sagen, ab wann so ein Prozess in die eine oder in die andere Richtung läuft.
+Ich gebe Ihnen noch ein Beispiel.
+Wir haben hier diesen Wärmeausdeutsch. Zwei Festkörper werden aneinander gehalten.
+Kennen Sie auch aus der Wärmeübertragung.
+Normalerweise gleicht sich das ein bisschen an.
+Vor allem können Sie aber berechnen, das hier hat 60 Grad, der hier hat 20 Grad.
+Das ist ein Gleichgewichtszustand.
+Und der andere Gleichgewichtszustand, da ist B bei 10 Grad.
+Tja, jetzt ist die Frage, wie groß ist es?
+Die Temperatur auf der anderen Seite, können wir einfach mal rechnen.
+Erster Hauptsatz, U1 nach 2 plus Arbeit, U1 nach 2, ist die Änderung der inneren Energie.
+Von dem Gesamtsystem, Änderung der inneren Energie, gleich 0.
+Was heißt aber, wenn ich mir jetzt die inneren Energieänderungen von A und B genauer angucke, ist es ja trotzdem Null, ne?
+Änderung der gesamten inneren Energie zum Zustand 2.
+Gesamtinnere Energie beim Zustand 1.
+So, jetzt können wir glücklicherweise schon die innere Energie.
+Also hier dementsprechend umgestellt, eingesetzt, alles gut, soll weiterhin Null sein.
+Können wir wieder so ein paar schöne Dinge rauskürzen.
+Bleibt also
+Theta 2 A minus Theta 3 A plus
+Und Theta 2b minus Theta 1b gleich 0.
+Jetzt ist es schön, wenn wir das zusammensetzen, kriegen wir raus.
+Theta 2a sind 70 Grad z.
+So, jetzt hat er fast gerechnet, was irgendwie von vorne her passt.
+wo Sie mir wahrscheinlich alle recht geben, wenn ich sage, aus diesem Zustand, dass das System freiwillig, ohne dass man irgendwas dazu tut, in diesem Zustand 70 Grad und 10 Grad geht, nicht so wahrscheinlich, oder?
+Wir brauchen also irgendein Maß, irgendeine Definition, um sagen zu können, wohin bewegt sich ein System.
+Ablaufrichtung nicht klar.
+Ich kenne auch das Diagramm,
+da war mein Herr Hesse schon da.
+Also das lehrt sich immer an,
+aber das funktioniert andersrum nicht.
+Das kennen Sie alle.
+Trotzdem haben wir jetzt
+den ganzen Weg vorne gekriegt.
+Keiner kann das an vorne darlegen,
+warum das so ist.
+Und da kommt jetzt die Entropie rein.
+Und wie ich Ihnen schon sagte, nachher ist mir hier für diese Vorlesung,
+es mag bei anderen Vorlesungen anders sein, die Definition relativ egal,
+Maß für Unordnung eines Systems, Quantifizierbarkeit von Irreversibilität,
+da wird es schon ein bisschen interessanter.
+Vor allem aber finde ich diese Sätze hier richtig.
+die Entropie ermöglichen, zu bestimmen, in welche Richtung sich ein System verändert.
+Das erlaubt eine klare Unterscheidung zwischen, was ist eigentlich Wärme aus Reibung, das ist die Displation, und übertragener Wärme.
+Denn das wissen Sie auch alle. Wo Reibung ist, ist auch Wärme. De facto stimmt das.
+Und das kennen Sie alle. Wir können Sie aber bisher nicht beschreiben. Bisher können wir nicht nur sagen, es wird übertragen.
+Das Blöde ist, dass das nicht stimmt. Das stimmt nur bis zu einem gewissen Prozentsatz.
+Es gibt Prozesse, da ist sehr, sehr wenig Wärmeverlust dabei.
+Es gibt aber keinen Prozess, der vollständig so reversibel ist, dass gar kein Wärmeverlust da ist.
+Keine Zustandsgröße, extensiv.
+Das heißt, wir können einen kompletten Zustand beschreiben,
+keinen Prozess.
+Das heißt aber, um den Prozess zu beschreiben,
+brauchen wir die Änderung der Entropie.
+Das ist wichtig.
+Mit der Entropie beschreiben wir die Richtung eines Prozesses,
+aber nicht über die Entropie selber,
+sondern nur über die Änderung der Entropie.
+und das ist mir gerade für die Vorlesung
+nicht richtig, weil wir die absolute Entropie
+nicht bestimmen können
+wir werden nur die Differenz bestimmen
+und je nachdem, ob die kleiner oder größer
+also das können wir sagen, was hier passiert
+ok
+extensiv, das heißt
+Entropie plus Entropie
+ist Doppelentropie
+so, jetzt gucken wir ein bisschen in die Definition
+an
+Wolfmann-Konstante
+Entschuldigung, damit Sie es mal gehört haben, Wolfsmaul von Stampe gucken wir uns überhaupt nicht an.
+Man kann es also auch durchaus bestimmen.
+Dann, Änderung der Entropie ist immer größer als die Änderung der reversiblen Wärmeübertragung bezogen auf die Temperatur.
+Das ist einfach mal eine Definition, die gucken wir uns gleich noch ein bisschen genauer an, warum die uns auf einmal hilft.
+Im jetzigen Zeitpunkt, Haken hinter, akzeptieren.
+Dies kennen wir schon, das hier ist natürlich neu.
+Aber, wenn Sie sich diese Definition angucken, und diese Definition, sehen Sie hoffentlich gewisse Ähnlichkeiten.
+Bedeutet nämlich nichts anderes, dass ich die Wärme beschreiben kann, über die Temperatur,
+bei einer sich verändernden
+Entropie.
+Jetzt wissen wir hiervon,
+dass wir die Arbeit beschreiben können.
+In einem PV-Diagramm.
+Sie erinnern sich.
+PV-Diagramm Arbeit.
+Das heißt, hier kann ich
+in einem TS-Diagramm
+Lärm bestimmen.
+Auch das
+braucht Ihre Privatformulierung.
+PV-Diagramm Arbeit, TS-Diagramm Wärme.
+Und ich habe jetzt auf einmal so ein paar Werkzeuge an der Hand.
+Ich habe jetzt das Werkzeug, wenn ich weiß, wie meine Entropie verläuft,
+und das gucken wir uns jetzt ein bisschen an,
+mit welcher Funktion ich meine Entropie beschreiben kann,
+dann kann ich auch das Integral bilden.
+Und dann kann ich auch die Wärme bestimmen.
+Das, was ich am Anfang gesagt habe, mit den Prozessabläufen.
+Bisher hatten wir Integral, Prozessablauf, ich kann nur Arbeit bestimmen.
+Jetzt haben Sie hier ein Werkzeug, Prozessablauf, Integral, ich kann auch die Wärme bestimmen, zumindest die Übertragung.
+Wir wissen, wie die innere Energie aufgeteilt ist, das heißt aber, wir haben hier auch eine Definition PDV.
+So, wir gucken jetzt ein bisschen, wo uns das hilft, um genau das, was ich eben gesagt habe,
+wenn wir jetzt ein bisschen was wissen über den Verlauf von Entropie, über unterschiedliche andere Größen,
+die wir uns schon angeschaut haben. Zum Beispiel so etwas wie die Temperatur. Wenn wir dahin
+kommen, dann sind wir in der Lage, das hier mit genau dem gleichen Werkzeug benutzen zu
+können, wie die Arbeit. So, und genau das schauen wir uns mal genauer an. Wie können
+wir uns das aneignen? Das gleiche System wie eben, einmal kalt, einmal heiß. Wir wissen
+jetzt schon, in welche Richtung es sich bewegt, nämlich, dass die beiden im Gleichgewicht
+sind, das heißt, gleicher Druck, gleiche Wärme.
+Wenn das zwei Festkörper sind,
+ist es so, genau, dann ist die
+Dichte sowieso egal.
+Was wissen wir?
+Das haben wir eben definiert.
+Und wir haben auch definiert,
+dass
+die beiden miteinander beschreibbar sind.
+Das heißt, oder wir wissen dann auch,
+aus diesem Zusammenhang,
+können wir auch sagen, die innere Energie, hier ist ja keine Arbeit, die verrichtet wird,
+das sollte man vielleicht auch dazu packen, das Ding fällt raus,
+haben wir auf jeden Fall eine Proportionalität zwischen innerer Energie und der Ente.
+So, was genau heißt das jetzt, wenn wir sagen, wir haben da eine Vergleichbarkeit?
+Das heißt vor allem, die innere Energie hier und die innere Energie hier vom Gesamtsystem sollte gleich groß sein.
+Setzt sich zusammen aus den beiden Teilen und natürlich auch die Entropie.
+Die sind irgendwie proportional.
+Das heißt, die Entropie bei Zustand 1 setzt sich aus aus den Teilentropien dieser beiden Körper.
+Entropie ist extensiv, das heißt, ich kann die addieren.
+Wir wissen aber auch zum Zustand 1, und das ist glaube ich ein bisschen falsch, das muss ich gleich mal schauen.
+Was habe ich denn da?
+Das hier müssen wir einmal rausnehmen.
+Das sind natürlich die beiden inneren Elemente.
+Denn ich tue ja nichts am System.
+Das heißt, die innere Energie zum Zustand 1 und die innere Energie zum Zustand 2 ist gleich.
+Was hierbei rausfällt, Entschuldigung, ist also auch, dass mein U1A plus U1B plus U2A plus U2A plus U2A plus U2A plus U2A plus U2A plus U2A plus U2A.
+Wenn man sich das jetzt mal anschaut, hier haben wir die innere Energie und wir gucken jetzt auf den Körper B.
+Entschuldigung, wir gucken über das A.
+Was passiert mit meiner inneren Energie, die bis erstes das Ding kalt,
+dann ist es irgendwann da.
+Wir wissen, dass wir hier eine Zunahme der inneren Energie haben.
+Zehnmal der Quartier.
+Das heißt, wir hätten hier ein U1
+und hier ein U2.
+Ich muss an meinem Skript ein bisschen arbeiten.
+Das hat nichts mit dem Skript zu tun.
+Das hat nichts mit dem Skript zu tun.
+Das hat nichts mit dem Skript zu tun.
+Hier ist U2A.
+Gleichzeitig haben wir aber die Veränderung von unserem Körper B.
+Der kommt nämlich von U1B und wird ja dementsprechend weniger.
+Und am Ende, das ist jetzt idealisiert, weil wir sagen, dass beide Körper einfach die gleichen Eigenschaften haben,
+nehmen wir jetzt an, dass U2a und U2b gleich groß sind.
+Das, was vorher ein bisschen weniger drin war, kriegt der andere weniger.
+und das, was der andere mehr braucht, kriegt er halt mehr.
+Beide haben jetzt die gleiche innere Energie.
+Jetzt die große Frage, was heißt denn das eigentlich dann für unsere Entropie?
+Denn wir haben ja gesagt, die Entropie ist immer größer.
+Die wird immer größer.
+Fragen wir es mal auf.
+Für unseren Zustand 1
+und unseren Zustand 2
+kann ich die Entropie bestimmen.
+Die sind proportional.
+Hier und hier wird übrigens genau.
+Das heißt, hier ist
+Wie gesagt, von der Zustandsgröße her kann ich das so bestimmen.
+Trotzdem muss ich die Aussage treffen, S2 ist immer größer.
+Wie geht das jetzt zusammen?
+Und das geht relativ einfach zusammen, denn um das zu erreichen, S1a ist immer größer als S2a,
+das geht nur, indem ich eine Form annehme, und jetzt macht das Ganze ein bisschen größer,
+von diesem Punkt, also hier ist S1 und hier ist S2, indem ich das Ganze so ansetze.
+Und das mache ich nochmal ein bisschen höher.
+Das ist nämlich eigentlich eine saubere Konkretion.
+Denn das, was ich hier jetzt erreiche, ist, dass ich für diesen Zustand, da ist S1, dementsprechend größer.
+Wenn ich das beschreiben kann, dass ich sagen kann, es zwei muss größer werden, dann weiß
+ich, wie sich die Richtung ergibt. Weil ich eine konvexe Kurve, das habe ich dazu geschrieben,
+S über U, ist konkav. Hätte ich hier eine konvexe Linie, dann wäre hier das Ding umgedreht.
+Und Sie kennen das aus der Wärmeübertragung. Wärmeübertragung besteht immer aus zwei Dingen.
+Ich habe einen Zustand und ich habe Randbedingungen.
+Und im Grunde ist das hier genau das gleiche.
+Ich habe einen Zustand oder zwei Zustände und ich habe eine Randbedingung,
+dass in der Transformation die Entropie immer größer wird.
+Und zwar nicht stetig, sondern konkret an der Stelle.
+Das Schöne ist, dass wenn etwas konkret ist, kann ich das bei Ihnen abgedruckt?
+Ich würde dann auf jeden Fall mitschreiben, denn kompakt heißt, ich kann es beschreiben und das ist einfach über die zweite Ableitung.
+Vielen Dank.
+hänge, uns genauer anzuschauen und leiten her, wie sich die innere Energie und die Entropie
+gegeneinander verhalten. Jetzt habe ich eben schon was gesagt. Wir wollen die Wärmemenge
+bestimmen und zwar aus TDS, nicht aus SDU. Das heißt auch für Sie, selbst wenn Sie
+jetzt sagen, es ist ja alles schön und unterhaltlich,
+aber was zum Teufel muss ich denn jetzt hier verstehen?
+Wenn Sie das verstehen,
+ist es ein schönes Mitgebsel von mir
+und wenn Sie sagen, jetzt mach einfach weiter,
+ich will das um die Tee und Essig zusammenhalten,
+dann ist das für Sie auch okay.
+Und die Übersetzung von wie viel Prüfungsrelevanz
+hat genau diese Folie, die müssen Sie sich jetzt herausfinden.
+Bis auf diese Aussage,
+die vielleicht doch noch merken.
+Okay?
+Denn, und jetzt gucken wir mal ein bisschen rein,
+Und wenn wir diese Beschreibung so setzen können, können wir eventuell auch die Verhältnisse,
+ich muss jetzt hier leider ummachen, da sind die Rücken und so, ich mache es aber gleich wieder um,
+wissen wir ja noch ein paar andere Sachen.
+Nämlich, innere Energie verhält sich, TDS, GDV, alles klar, alles schön.
+Das heißt aber auch, die innere Energie, wenn wir hier nichts haben, ist ja genau das gleiche wie eben,
+Dann haben wir eine genau gleiche, eine ähnliche Proportionalität in der Energie, C mal MADT.
+Warum brauchen wir das?
+Weil wir dann auch aus einer Aussage treffen können, TDS, C mal MADT.
+Und jetzt haben wir auch einmal etwas, was man ineinander setzen kann.
+So, das kann ich ineinander umformen.
+Habe also Änderung der Entropie.
+Änderung der Entropie ergibt sich aus irgendeiner Konstante, 1 durch TdT.
+Und Einzel-PDT, das dürfen Sie sich tatsächlich auch merken, oder in Ihre private Formensammlung, weil das kommt immer mal wieder vor.
+Ich musste tatsächlich nach 15 Jahren das mal wieder nachschlagen.
+Dann kann ich natürlich auch das absolute Delta der Entropie bestellen.
+Konstanter Faktor und der natürliche Logarithmus aus den zwei Temperaturen.
+Und die Formen in etwas veränderter Form.
+Und was ist noch ganz schön an der Formel? Sie können es auf einmal einzeichnen.
+Das hier kann man einzeichnen. Natürlich, der Logarithmus in so einem Graphen, auf einmal geht es.
+Und auf einmal können Sie es berechnen und auf einmal können Sie es integrieren.
+Also alles von der Formel vorher, davor. Nette Herleitung, um das zu verstehen, was jetzt noch dazu kommt.
+denn wir können die beiden auch wirklich übereinander legen,
+indem wir sagen, wir haben die Entropie,
+wir haben von 20 Grad nach 60 Grad,
+zu 63 Grad nach 20 Grad.
+Ich glaube, das ist das Ganze.
+So, die beiden Karten sind fertig.
+Und jetzt können wir auch was ausmachen, nämlich an der Stelle, hier hätte ich einen Gleichgewichtszustand, der wäre auf der Kurve.
+Das markiere ich jetzt mal. Wir haben der Punkt ist fix, der Punkt ist fix und hier wäre mein Gleichgewichtszustand.
+Jetzt weiß ich aber auch da, es wird immer größer.
+Das heißt auch hier sehe ich einen Verlauf, der ungefähr so sein wird.
+damit hier an der Stelle, also T2, den beide Körper erreichen, nachher eine größere Entropie herrscht.
+Also das wäre jetzt gemittelt, 1, 2, und das ist das, was ich nachher kriege.
+Und mit diesem Verlauf, jetzt schließt sich der Kreis, das ist völlig okay, sind die nicht in Mathe,
+mit diesem Verlauf erreiche ich genau diese Form.
+Jetzt fällt mir gerade auch so, wie ich es hier geschrieben habe, der ist sogar gar nicht so falsch.
+Wenn wir nämlich uns von der einen Körperseite das Ganze angucken und sagen, die sind beide gleich groß,
+ist das hier rechnerisch S1 halbe und das hier rechnerisch S2 halbe.
+Ich habe aber immer nur auf einen Körper geguckt, wenn man in die Richtung schaut.
+Also nur so zur Vollständigkeit.
+Merken, innere Energie und Entropie haben irgendwas miteinander zu sagen.
+Verlauf davon, Erklärung davon, ja, konkret dürfen Sie wissen.
+Wichtig aber, wenn wir das so definieren, sehen wir in unserem TS-Diagramm auf einmal ein klar berechnetes Erlaubnis über den natürlichen Nullbefluss.
+Und genau dem brauchen wir hier schon.
+was wir jetzt nämlich auch machen könnten
+wenn wir jetzt sagen, dass das zum Beispiel
+unser Gesamtbereich hier wäre
+wir haben eben festgestellt
+innere Energie ergibt sich nur aus dt
+das heißt, wir hätten auch sowas
+Das sind beide Profis, ich habe doch eben von Wärme gesprochen,
+wie beschreibt man da jetzt innere Energie hin, weil wir einen Festkörper haben.
+Noch keine Volumen-Änderungsarbeit, keine Druckänderungsarbeit.
+Könnte auch gleichgesetzt werden mit der Lange.
+All das hier, der nichts anderes ist als die Lange.
+Ich schreibe das durch dazu.
+Das entspricht Delta Q.
+Gilt nur für Festkörper, in dem Moment wo ich das habe, gilt der Zusammenhang immer noch.
+Das hier, da ändert sich nichts dran.
+Da kann ich aber nicht innere Energie und Wärme gleichsetzen.
+Und das muss ich mir dann noch genauer anschauen.
+Das gilt wirklich nur, weil Festkörper.
+wir haben es ja noch gleich geschafft
+dann können wir nochmal kurz rechnen
+also ich weiß, dass das
+war für mich glaube ich so mit
+der heftigste Tobak
+ganz viele Leute sagen
+dass das was dann im Kreisprozess ist
+der heftigste Tobak
+ich finde das da am schlimmsten
+weil es super lange braucht
+also ich bin jemand der will
+Sachen immer ganz viel verstehen.
+Deswegen musste ich irgendwann das mit der Physik aufgeben,
+weil ich gemerkt habe, ich verstehe es halt nicht.
+Das war ein bisschen doof,
+aber so ist es.
+Hier habe ich lange gebraucht,
+um sagen zu können,
+das ist das, was ich an Erklärung brauche,
+um das mitzunehmen.
+Suchen Sie sich Ihre Erklärung, Option 1.
+Finden Sie eine Erklärung, das ist die bessere Option.
+Option 3, akzeptieren Sie es.
+Das sind die Verläufe,
+die wir jetzt auch wissen.
+Wir können gleich sehen, dass wir damit relativ viel
+erklären können.
+Denn wenn man sich das Ganze mal anschaut,
+wir haben bestimmte
+Energiebilanzen.
+Das ist Q1 nach Q2.
+Das können wir natürlich
+auch schreiben.
+Und damit kommen wir natürlich dann auch auf die Berechnung von der gesamten Änderung.
+Wenn man merkt, die Bewegungen sind ruhig, entweder bei der Temperaturänderung weiß oder bei der Energieänderung weiß,
+und es geht nur ums Delta, es geht nicht um die absolute Zahl, es geht nur ums Delta,
+dann bin ich auch in der Lage, hier die Bewegungen gut zu beschreiben.
+Daher nochmal die Analogie. Wir haben die Analogie Volumenänderung VdV
+Entschuldigung, und wir haben die Analyse wieder zur Wärme, TDS.
+Wir werden da, gucken Sie da bitte ein bisschen genauer hin,
+wenn das jetzt alles noch ein bisschen nach Spaghetti-Kopf anfühlt, alles gut,
+gucken Sie da genauer hin, wir werden da keine große Pause machen,
+wenn es in die Berechnung geht.
+Spätestens in der übernächsten Vorlesung werden wir da reingehen in Kreisprozesse.
+Wir werden da reingehen, dass wir sagen, okay, was passiert in diesem Prozess?
+Habe ich eine Volumenänderung, habe ich eine Druckänderung, habe ich eine Änderung der Entropie oder Delta-T?
+Das ist nachher völlig gleich.
+Da werden wir nicht mehr reingucken und nochmal fragen, wie ist denn das jetzt und warum ist denn die Analogie da so
+und wie kann ich das Ganze bestimmen?
+Dafür habe ich tatsächlich leider nicht die Zeit.
+Daher, nehmen Sie es mit.
+wir werden es dann im Rechnen anwenden
+und nachher tatsächlich geht es in der Prüfung
+daran, dass wir es anwenden können
+ok
+gut
+das habe ich noch schön angeschrieben
+so was heißt das jetzt
+machen wir es mal konkret
+wenn wir diese beiden Behälter haben
+so wie wir sie eben gesehen haben
+und wir wollen jetzt
+mit dem Wissen, dass Entropie größer wird
+bestimmen
+wie sich diese beiden
+Temperaturen ergeben
+Erste Randbedingung, Entropie wird immer größer.
+Zweite Randbedingung, am Ende haben beide die gleiche Temperatur.
+Ich denke, auf die beiden Randbedingungen können wir uns einigen, zumindest die zweite.
+Und die erste müssen wir einfach akzeptieren.
+Ja, nein, nein.
+Also, das heißt, Änderung der inneren Energie.
+TdS minus PdV.
+Wissen wir schon, brauchen wir nicht, können wir nicht. Alles gut.
+Indere Energie können wir bestimmen.
+Das heißt, ich kann auch die Änderung meiner Entropie bestimmen.
+Daraus bin ich dann natürlich mit dem Integral.
+Das ist jetzt für beide Körper gleich.
+Jetzt schauen wir uns das Ganze aber ein bisschen genauer an und stellen fest für Entropieänderungen
+Von Körper 1, äh, von Körper A.
+Gut, M, C, L, M, T2 ist ja gleich, T1, A.
+Wir haben hier nachher ein Minus, 0,259 Kilogramm pro Kelvin.
+Für unseren Körper 2, Entschuldigung, B, da ist die Temperatur 2 ja gleichbleibend,
+habe ich eine Entropie von plus 0,276.
+Das heißt aber auch, wenn man sich jetzt die Gesamtbilanz anguckt,
+Wir werden das kaum benutzen.
+Das sage ich gleich vorneweg.
+Ein bisschen was will ich hier in der Ziffernassur breite geben, neben irgendwie, dass das gut ist, wenn es gut ist.
+Hier haben wir eine Gleichung aufgestellt, beziehungsweise eine Verhältnismäßigkeit aufgestellt,
+mit der Sie, sollte vielleicht aus irgendwelchen Gründen Thermodynamik total interessant sein, was ja sein kann,
+Also es sind einfach viele Leute, die damit sehr, sehr, sehr, sehr gute Arbeit leisten können.
+Sie haben ein Werkzeug an der Hand, in dem Sie bestimmen können, ob meine Prozessrechnung überhaupt Sinn macht.
+Dann kommen Sie in einem Prozess, eine negative Entropie-Bilanz aus.
+Wissen Sie, da war irgendwie Scheiße, da habe ich irgendwas verdreht.
+Das steckt da drin.
+wie gesagt, wir werden die absolute Entropie
+ich habe zwei, drei Übersaufgaben
+da rechnet man sie mal aus
+in aller Regel ist das für mich nicht relevant
+ob man die absolute Entropie
+für irgendwelche Teilzustände berechnen muss
+aber ich will sie trotzdem nochmal mitgeben
+Sie haben hier ein Werkzeug
+um bestimmen zu können
+ob Ihre Prozessanlage stimmt
+und das ist ziemlich viel wert
+dann nenne ich einen Verbrennungs-Kampfprozess
+keine Ahnung
+mit 16 Gigawatt auslegen.
+Und ich habe mich im Vorzeichen verzahnt,
+dass das nicht nur peinlich ist,
+sondern eventuell auch scheiße und gefährlich.
+Okay?
+Gut.
+Auch das wenden wir noch einmal ganz kurz an.
+Aber das kennen Sie jetzt eigentlich schon,
+wie sehen die Verhältnismäßigkeiten aus.
+Wir haben S1, B.
+Wir haben S2.
+Die Temperatur wird hier nicht mehr, sondern wird weniger.
+Und dann habe ich einen Verlauf, der so aussieht.
+Und wie gesagt, kann ich hier jetzt auch die beiden Wärmemengen direkt verstimmen.
+Das ist Delta QA.
+Warum? Weil wir jetzt über die Entropie nichts anderes gemacht haben als herzuleiten.
+Mit dieser Annahme kommen wir auf diese Integralform, kommen wir auf diese Darstellung.
+Jetzt kurz abschließend Quizfrage.
+Wir wissen die Entropien, wie die sich verhalten.
+Wie verhalten sich denn diese beiden Rüste zueinander?
+Wärmemenge von dem einen Körper und Wärmemenge von dem anderen Körper.
+Sind die unterschiedlich?
+Da ist auch Wärmemenge B, die sieht größer aus als Wärmemenge A.
+Wie sehen Sie das?
+Haben wir hier irgendwelche Abwärmen angenommen?
+Nein.
+Haben wir irgendwelche Arbeiten angenommen?
+Nein.
+Wie verhält sich also der Wärmestrom vom einen Körper zum anderen,
+beziehungsweise vom anderen Körper zum einen?
+Wir sind genau im Gegenteil.
+ist. Das, was der eine Körper an Wärme abgibt, muss der andere Körper aufnehmen. Für den
+reversiblen Fall. Wir haben hier nur eine Bestimmung der Richtung. Also nicht verwirren,
+auch wenn sich die Absolutmenge von meiner Entropie ändert über den Prozess. Das, was
+wir vorher gesagt haben bezüglich der Wärmemenge, das ist immer noch gleich. Das heißt, von
+Betrag her, beziehungsweise vom absoluten Wert her, Delta Q A, ist immer noch gleich
+Delta Q B. Egal, ob Sie jetzt das eine in die Richtung oder das andere in die Richtung
+Das ist immer noch Wärmemenge, Leistung.
+Wenn ich nichts anderes sage, dann bleibt die gleich.
+Das ist natürlich die Radierratenprozesse.
+Aber das lassen wir mal bis jetzt ausgefroren.
+Bis jetzt bleibt diese Wärmemenge einfach gleich.
+Wenn nichts an Leistung, nichts an Nonstromie,
+die Durchströmung ist, bleibt der Wärmestrom einfach konstant.
+Passt.
+Das ist jetzt ein interessanter Punkt.
+Die Wärmemenge führt nämlich bei einer niedrigen Systemtemperatur zu einer größeren Entropieänderung als bei höheren Systemtemperaturen.
+Das dürfen Sie sich durchaus erinnern.
+Ist jetzt, wie gesagt, für den...
+Man könnte daraus auch Aufgaben stricken.
+Im Grunde sagt das auch nichts anderes aus als Entropieänderung.
+Ich habe damals immer gedacht, ja, irgendwie hat man da jetzt so einen Wert und wenn der immer größer wird,
+also ich habe dann gemerkt, dass doch mein Kopf irgendwie ein bisschen limitiert ist,
+weil wenn ich irgendwo was so reintue, dann so wird man, dann wird der immer größer.
+Und nochmal ein Platz da, wo der ist halt voll.
+Entropie ist da so ein bisschen fies, weil das existiert da nicht so.
+Das heißt mit der Annahme, Entropie wird größer, können wir die ganze Menge beweisen.
+Die andere Seite von diesem Modell, intrusive immer mehr, wo geht denn die hin?
+Ich bin kein Philosoph, die Frage kann ich Ihnen nicht beantworten.
+Wir machen eine kurze Pause, wir beruhigen uns für eine Nacht und gucken dann noch hier einmal weiter.
+Meiner Meinung nach, mir hat es damals geholfen, wenn wir uns bei drei unterschiedlichen Prozessarten antworten,
+Das heißt, vollständig irreversibel, was passiert eigentlich mit unserer Arbeit und was passiert eigentlich mit unserer Wärme?
+Irreversibel, was passiert eigentlich mit unserer Arbeit, was passiert eigentlich mit unserer Wärme?
+Und im Grunde Abfuhr von Arbeit und trotzdem Irreversibilität.
+Das, was wir jetzt mal machen, ist, dass wir uns so eine Art, wie ist es eigentlich schon dargestellt,
+Wir haben ein Ressort Entropie und wir haben ein Ressort Vorraum, das heißt im Grunde ein Volumen, wenn man so will.
+Wir stecken Arbeit rein und wir stecken Wärme rein.
+Jetzt passiert folgendes, wenn wir uns einfach mal den komplett irreversiblen Vorgang zunächst anschauen.
+Wir stecken Arbeit ins System, haben wir schon definiert, das heißt da ändert sich irgendwie
+Ich stecke Arbeit in mein System, da ändert sich etwas an meiner Vulvenbewegbarkeit.
+Was heißt das von der Vornenseite her?
+Wir haben eine Änderung, reversible Wärme, Änderung, reversible Arbeit.
+Wie können wir beide beschreiben?
+Und hier haben wir den Fall, dass die resultierende Änderung der Entropie sich im Grunde nur über die Arbeiten gestalten lässt.
+Das haben wir eben schon gesagt, und das steht im Endeffekt der Fall, Delta S direkt im Zusammenhang gleich diversierter Arbeiten zu tun.
+Das heißt, die kann ich gleichsetzen, da ist also nichts, was sich verändert.
+Hier haben wir den nächsten Fall, wenn wir uns das anschauen, was passiert.
+Und wie gesagt, ich fand das ganz griffig, zu sagen, ok, ein Teil der Arbeit geht in mein System,
+aber nicht alles geht in mein Ressort Lügenänderungsarbeit.
+Sondern ein Teil davon geht auch in mein Ressort Enddruck.
+Das heißt, hier haben wir irgendwo einen Anteil der Dissipation,
+der dafür sorgt, dass ein bisschen was von dem in der Dissipation landet.
+Das heißt, das können wir auch beschreiben.
+Wir haben die reversible Arbeit, das ist das, was da drin kommt, und wir haben die Dissipation, Entschuldigung, die reversible Wärme, das ist das, was direkt reinhaut, und wir haben die Dissipation, das, was aus der Arbeit entsteht, Abwärme de facto, das landet auch in diesem Ressort.
+Das heißt, an der Stelle haben wir auch ein ds, das bleibt ja gleich,
+mit reversiver Arbeit zur Temperatur, aber auch die Situation zur Temperatur.
+Das heißt, wir haben immer ein Fall, das ds eine Summe von zwei Stunden ist.
+Das war relativ blöd.
+Das da, das was hier reingelaufen ist,
+Das kann ja ein System verbleiben, oder wieder abgegeben werden.
+Demgegenüber liegt die Situation, die bleibt auf jeden Fall im System.
+Vielen Dank.
+Diese Energie verbleibt.
+Ich habe schon ein bisschen Bidzi.
+Ich weiß nicht, was ich sagen soll.
+Bleibt.
+Ich schreibe jetzt bewusst in Hecht und Relative,
+weil es ja sowieso auch Arbeit ist, die das System verletzt.
+Rein von unserer Herangehensweise gucken wir der Manu ins System, kann es auch wieder raus, hier verlässt es das System, Vorzeichen, egal.
+So, aus diesem Zusammenhang, das was wir hier gesehen haben, wir haben einen reversiblen Prozess und wir haben einen irreversiblen Prozess.
+Das kennen Sie. Das ist dieses Arbeit in Wärme, geht immer. Wärme in Arbeit geht nicht immer.
+Also bei der Übersetzung, Wärme in etwas, Arbeit in etwas hinein.
+Immer eine gewisse Dissertation verlieren. Das kennen Sie.
+Wenn wir das beziehen auf sowas wie Entropie, kommen wir auf genau diesen Zusammenhang, wie wir es da angefangen haben.
+Und ein Zusammenhang, Änderung der Entropie, ist die Änderung der Wärme, der reversiblen Wärme.
+Änderung der Entropie ist gleich der Änderung der reversiblen Wärme, wenn es um die Temperatur geht.
+Ich habe jetzt hier noch mal ein Beispiel mitgebracht.
+De facto gibt es nur noch mal wieder Wanken, das Reversible Sein und das Nichts.
+Wir haben hier ein Ventil und wir haben hier einen Turbinenlauf.
+hat. Relativ klar, in dem Moment, wo ich einen Druckausgleich habe, ist reversibel überhaupt
+nicht möglich. Ich habe eine irreversible Änderung, das heißt, ich kann das Ganze
+in diese Änderung verschieben, aber es gibt keinen Anteil der Wärmenlänge, der Entropieänderung,
+der dazu führt, dass das Ganze übertragen wird.
+Anders ist es bei diesem Fall.
+Hier kann ich das Ganze über das Turbinenlaufwerk,
+kann ich Arbeit abgeben.
+Da geht dann noch Arbeit raus.
+Und in dem Moment, wo ich Arbeit wieder reinstecke,
+kann ich den Zustand der Siedlung gestalten.
+Sie werden auch in dem Bezug bei Herrn Messer die Störungsmechanik,
+da wird er auch nochmal drauf eingehen, gerade in Bezug auf Drossel,
+dass wir hier eigentlich diese Charakteristik, dass es nicht veränderbar ist, auch berücksichtigen.
+Ist nicht so sehr Thema hier von uns, aber, und das ist ein wichtiger Punkt hier,
+wir werden in den Prozessen, gerade in den Preisprozessen, werden wir zwei Bauteile uns angucken.
+Das eine ist eine Turbine und das andere ist eine Trosse.
+Beide machen das Gleiche. Sie entspannen nämlich ein Medium. Sie machen aber nicht das Gleiche,
+weil sich bei dem einen die Entropie nicht ändert und bei dem anderen, und das ist dann hier der Punkt,
+die Enthalpie nicht ändert. Kommen wir dann aber dazu. Nur schon mal als Vorwarnung, hier Turbine,
+hier Drossel, das ist tatsächlich in der Thermodynamik, sind das zwei komplett
+unterschiedliche Herangehensweisen.
+Denn eine vollständig
+reversible Entspannung,
+das bringt mir so ein schönes Wort,
+das ich für die Zukunft schon merken würde,
+zumindest bei mir,
+Isentrop,
+vollständig adiabat,
+Isentrop heißt, ich habe eine vollständig
+reversible Entspannung.
+Hier,
+nicht Isentrop.
+Drossel ist nicht Isentrop,
+es ist vollständig Isental.
+Das heißt, bei gleicher
+n Teil Pi, gleiche
+innere Arbeit, also
+gleicher Index,
+also gleiche Größenabworten
+aus innerer Arbeit
+und Nulländerungsarbeit. Das bleibt
+gleich. Das sind die zwei
+vollständig unterschiedliche Prozesse.
+Werden wir
+ganz am Ende der Vorlesung
+noch einmal.
+So, zu merken, das sind jetzt aber
+tatsächlich einfach Sachen für Sie.
+Ich bin kein Freund davon, irgendwelche
+Nützesachen auszulösen.
+werden zu lassen. Es hängt an Ihnen,
+ob Sie das verstehen, ob Sie das verstehen wollen.
+Ich glaube auch, ohne dass man die Sätze
+auswendig kann, kann man
+ganz gut durch die Prüfung kommen.
+Wir nehmen sie uns trotzdem nochmal vor. Was ist wichtig?
+Wir können bestimmen, in welche Richtung
+sich ein System verändert und
+wir können unterscheiden zwischen
+übertragener reversibler Wärme
+und im System
+verbleibender Dissipationsenergie.
+Entropie steigt
+immer, wenn irgendwie Wärme
+an das System übertragen wird, wenn sie abgegeben
+wird, und zwar nicht wieder erledigt.
+Aber grundsätzlich, in dem Moment, wo ich Wärme dazu
+packe, wird auch immer die Entropie
+mehr.
+Wenn irreversible Systeme
+im System vorgehen, das heißt
+komplett geschlossenes Ding, ich habe gerade trotzdem
+irgendwelche irreversiblen Vorgänge,
+auch dann ändert sich
+definitiv die Entropie
+und natürlich erinnert sich die Masse zu uns,
+weil es extensiv ist.
+Hier nochmal zu diesem Satz,
+Der zweite, irreversible Prozesse im System.
+Das ist das, womit wir heute angefangen haben.
+Wenn ich mir angeschaut habe, wieso kann, wenn diese Masse da runterkommt, irgendwie dieses Drehrad anfangen,
+warum ist das nicht reversibel?
+Erstens, weil es die Logik überhaupt nicht erlaubt.
+Zweitens, weil die Logik nicht erlaubt wird, weil die Logik nicht erlaubt wird, wenn wir das nicht erlauben.
+Zweitens, weil die Logik überhaupt nicht erlaubt wird, wenn wir das nicht erlaubt wird.
+Und zwar massiv, weil ich die Reversible Vorgänge habe in meinem System.
+Auf einmal haben wir hier wieder einen Zusammenhang, es ist etwas berechenbar mit komischen Angaben,
+die komische Physikerisierung am Ausdruck haben.
+Ich bin immer so ein bisschen der einfach gestrickte Ingenieur, der sagt, naja, wenn es hilft, dann kann der schnell helfen.
+Gut. Jetzt kommen wir noch zu einem vielleicht etwas unerfreulichen Aspekt, der uns aber auch wieder hilft.
+Wir haben jetzt das Ideal über Astens angeguckt, mit den jeweiligen Zustandsgleichungen,
+wir haben uns kalorische Gleichungen angeguckt, ein bisschen in die Verhältnismäßigkeiten Temperatur, Wärme, Temperatur, Kapazität etc.
+Wir kommen jetzt auf die gipschen fundamentalen Gleichungen.
+Tatsächlich ist das so die dritte Variante von Dingen, die wir brauchen, um unsere Vorzustände völlig zu erschlagen.
+Das heißt, die gucken wir uns jetzt genau an.
+Das Schöne ist, wenn wir die haben, haben wir im Grunde von den Hauptgleichungen, die wir in der Thermodynamik brauchen,
+haben wir so ziemlich alles durch.
+Ab dann ist es nur noch Anwendung.
+Das ist eigentlich immer ein bisschen komplizierter.
+Aber eigentlich ist es nur noch Anwendung.
+Gut.
+Folge Anna.
+Das kennen wir schon, oder? Haben wir gesagt? Inversible Vorgänge gegen irreversible Vorgänge.
+Wenn man sich das Ganze ein bisschen anguckt, haben wir natürlich auch Wärme-Austausch-Systemgrenze, Entropie nach außen, Entropie-Zunahme im Inneren.
+Das haben wir uns auch angeschaut.
+Jetzt können wir aber auch Aussagen darüber treffen. Was heißt das denn in diesen Bestandteilen?
+Haben wir Wärmeaustausch über die Systemgrenze und die Entropie ist größer 0, Wärmezufuhr kleiner 0, Wärmeabfuhr, jetzt kommt der Punkt, gleich 0, dann haben wir ja absolut keine Wärmeflüssigkeit, keine Änderung der äußeren Entropie.
+das ist dann vollständig adiabat
+deswegen auch
+ganz ganz kurz dieser Hinweis
+ich sage es immer auch gerne zum Merken
+schreiben Sie sich irgendwo hin
+wo Sie es sehen können
+wenn in irgendeiner Aufgabe Isentrop steht
+ist damit immer auch vollständig adiabat
+gemeint
+wenn irgendwo steht
+vollständig adiabat entspannt
+dann ist damit immer
+Isentrop gemeint
+Und auch ich berufe mich oft auf irgendwelche Fachbücher und suche mir da meine Aufgaben zusammen.
+Die sind genauso bestellt.
+Dann haben wir aber das Thema mit der inneren Entropie-Zunahme.
+Na gut, wenn die größer ist als 0, das hatten wir jetzt schon ein paar Mal gesagt,
+natürlich ist das dann ein irreversibler Prozess.
+Wenn sie gleich 0 ist, dann ist sie irreversibel.
+Und wenn sie kleiner ist als 0, dann haben sie sich ziemlich verrückt.
+Es gibt jetzt hier noch zwei Definitionen, die gehen exklusiv auf den zweiten Hauptsatz.
+Der zweite Hauptsatz sagt nämlich heraus, dass es keine Zustandsänderung gibt,
+bei der die Energieübertragung im Körper kleiner wird.
+Es gibt auch die Definition von Clausius, keine Zustandsänderung,
+Ihr einziges Ergebnis war das Übertragen von Wärme, von einem niedrigen Körperaufhörung, also niedriger Energieaufhörung von Energie.
+Funktioniert nicht.
+Lord Kelvin war das, genau.
+Lord Kelvin, eine periodisch arbeitende Maschine zu konstruieren, nichts weiter zurück als eben eine Last und Abkühlung eines Hörers oder sowas.
+Das ist genau das, was wir eben auch schon hier gemacht haben.
+Und das ist etwas, das kennen Sie alle.
+Arbeit und Wärme? Klar. Wärme in Arbeit? Klar. Aber nicht 100%. Das ist der Grund, weswegen die Motorheißluft, das ist der Grund, weswegen die Kühlerheißluft, das ist der Grund, weswegen bei unterschiedlichsten Prozessen immer irgendwo auch Abwärme existiert.
+Wir gucken uns die Bilanzierung an, die ist nämlich insofern noch interessant, weil wir ja nachher auch Strömungen streichen wollen.
+Wir hatten jetzt schon die Strömung durch ein System in Bezug auf die Enthalpie.
+Jetzt gucken wir mal auf Entropieströmung.
+Eigentlich nichts mehr.
+Wir haben dieses System, wir haben da irgendwie ein Volumen, was wir reinschieben, wir haben ein Volumen, was wir rausschieben, das kennen wir alles schon.
+Wir haben jetzt aber auch die Information, wir haben entzwungene Entropie, Entropiestrom aus dem System, Entropiestrom in das System.
+Irgendwas passiert da.
+Das Sternenzus ist genauso vorgebracht,
+wie das in unserem Strömchen-System.
+Da war es die Enthalpie.
+Enthalpie im Massenstern.
+Das ist alles, was Massentransport ist.
+Das heißt, wir haben ein gewisses Massentransport
+und wir haben eine Entropie
+zum Zustand,
+zum Zustand Bein.
+Die Masse, Strom und Entropie am Ausgang, das ist ja auch relativ klar, wir haben irgendwo gesagt, Entropie hat was mit innerer Energie zu tun, Entropie hat was mit Lärm zu tun.
+Und auch hier, wenn sich die Entropie über dieses System verändert, kann ich sagen, was wird mit der Masse überhaupt eingeschoben und was wird mit der Masse rausgegeben.
+Die anderen beiden Punkte, die kennen wir. Das ist der Entropie-Strom.
+Was habe ich da oben vergessen hinzuschreiben? Masse-Transport.
+Gucken wir uns die Entropieströme im Zweiklinik an.
+Das ist also das, was irgendwie passiert, weil ich eine bestimmte Wärmemenge habe.
+Das ist also die übertragene Wärme.
+Bitte verzeihen wir jetzt, dass ich den Pfeil ausgemacht habe, oder ist das total egal?
+Und dann haben wir den letzten Punkt, das ist die Irreversibilität, das ist diese erzwungene Entropie-Ströme.
+Bei entschlossenen Systemen merken Sie sich immer diese drei Ströme an.
+Wir haben die Entropie-Ströme, die durch die Masse transportiert werden.
+Die sind in den meisten Aufgabenstellungen glatte.
+Aber in dem Moment, wo wir Prozesse angucken, in denen wir nicht-isentrope Massenströme haben,
+also jeder gleich glatte Massenströme nicht-isentrop ist, dann sind wir hier relativ schnell entstanden.
+Wärmemenge, die übertragen wird, ist nichts Unbekanntes.
+und dann haben wir diesen Punkt der erzwungenen Entropie.
+Das ist de facto das, was wir vorhin gesehen haben,
+als wir auf einmal diese Mehrentropie gesehen haben.
+Wir hatten die beiden Körper, haben uns ausgerechnet,
+was verliert der eine, was gewinnt der andere
+und auf einmal hatten wir ein Delta, was nicht gleich war.
+Das ist de facto der erzwungene Entropiestand.
+Das heißt aber, den hier kennen wir auch, wo der herkommt, ne?
+So, jetzt wieder die Frage, was macht der da?
+Warum stellt er das auf?
+Vor allem, um ein paar Dinge zu vereinfachen.
+Die auf der nächsten Seite haben wir nicht.
+Haben Sie es soweit abgestimmt?
+Entschuldigung.
+Passt.
+Wir fahren einfach mal zusammen, wenn wir nämlich einen, einfach mal so zu schauen, was sind für den zweiten Hauptsatz die Gleichungen, die für uns eigentlich relevant sind.
+Vorhin erste Aufgabe, ein Schaubild machen, gucken, was das System eigentlich macht.
+Haben wir ein geschlossenes System, haben wir ein geschlossenes System, was adiabat-reversibel ist, keine Entropieänderung.
+Haben wir ein geschlossenes System, was adiabat, aber nicht reversibel ist, dann haben wir eine Entropieänderung.
+Aber die ist gleichzusetzen mit der erzwungenen Energie.
+Was logisch ist. Keine Massefirmung. Keine Massefirmung.
+Es ist immer noch adiabat. Adiabat heißt, keine Werbeübertragung von außen oder nach außen.
+So, geschlossenes System, nicht adiabat, Änderung der Entropie, ergibt sich aus der Änderung der übertragenen Wärme bei einem reversiblen System.
+Und bei einem irreversiblen System, Änderung der übertragenen Wärme, ist die Änderung der Entropie.
+Haben wir offene Systeme, stationäre Systeme, Fließprozesse also, und sie sind adiabat,
+dann können wir schon mal sagen, die Summe der beiden, wir haben keine übertragene Energie,
+wir haben keine übertragene Wärme, wir haben keine erzwungene Entropie,
+bleibt also, dass dieser Bestandteil Null sein muss.
+haben wir auch noch ein bisschen Verluste.
+Der Term aus den Energiethemen über die Masse transportierte Entropien
+und der erzwungenen Entropie muss gleich sein.
+Nicht-adiabat, damit ein bisschen vollständiger.
+Es kommt noch der Bestandteil der Lärmübertragung dazu,
+weil es nicht-adiabat ist.
+Und nicht-reversibel, nicht-adiabat, offenes System,
+in diesem Prozess, dann gilt die Gleichung genauso wie in der Sache.
+Bitte auch da erinnern an das, was wir ganz im Anfang gemacht haben.
+Nehmen wir uns eine riesen Formel, gucken uns das System an und streichen die sukzessive zusammen.
+Das ist tatsächlich in, nicht in allen, aber in den meisten Aufgaben, die wir stellen, ist das der erste Trick.
+Nehmen wir die große Formel, was schmeiße ich alles raus?
+Und dann wird es auf einmal überschrauben.
+So, jetzt habe ich es euch vorgewarnt, geht schon fundamental gleich.
+Und das war jetzt ja noch überhaupt nicht kompliziert.
+Jetzt wird es ein bisschen anders.
+Wir machen wieder ein bisschen Mathe.
+Und zwar, was passiert eigentlich im Bereich Entropie?
+Was passiert im Bereich Entropie?
+Entropie, vollständig variabel, wir wenden.
+Das ist dann das Thema. Wir haben eine Turbine, Entropie, wir haben eine Drossel.
+Die kennt man, ne? Das ist alles zusammengefahren, nichts Neues.
+Das da haben wir jetzt auch schon zusammengestellt.
+Wo wollen wir eigentlich hin?
+Hier wissen wir, die innere Energie ist nichts anderes als eine Funktion von der Entropie.
+und den Volumen.
+Wenn wir das jetzt mal mathematisch schreiben,
+sagen wir, wir wollen die Änderung der inneren Energie
+über die beiden Varianten
+entropieren, Volumen uns angucken,
+das machen wir, Klassiker,
+wir halten immer einen von beiden fest
+und entgegenbringen über den anderen.
+Das heißt, das kommt von da
+und das kommt von da.
+Vielen Dank.
+Die UdV bei gleichem S ist nichts anderes als die Definition von unseren Zustandsgrößen.
+Die UdS bei gleichem V, also Änderung der inneren Energie zu Änderung der Entropie bei gleichbleibendem Volumen,
+das ist die Temperatur.
+Das kommt tatsächlich aus der idealen Gasgleichung.
+Hier noch viel mehr, Änderung der inneren Energie, Änderung des Volumens bei gleicher Entropie, das ist vollständig mehr der Riegel, das ist der Druck.
+Ne, leuchtet ein. Wir nehmen uns die Funktion, wir integrieren auf beide Seiten raus und stellen fest, hoppala, ist dem gar nicht so unähnlich.
+Jetzt machen wir das bei der N-Type mal auch.
+Kennen wir auch.
+Wir formen es nach U um.
+Auch hier setzen wir das Ganze als Funktion auf.
+DH, PDV, VDP.
+Jetzt kriegen wir schon ein paar Bilder davon und dann wissen wir ja, wie sich die innere
+Energie ändert.
+TDS-PDV kommt von da und der Bestandteil wird ja komplett nach da drüben vererbt.
+Und natürlich fallen hier jetzt auch wieder Bestandteile raus.
+Wir kommen auf den Zusammenhang für unsere Entropie.
+Änderung der Entropie, also CDS und der Druckänderungsarbeit.
+Das war's für heute. Bis zum nächsten Mal.
+Ich glaube, dass ich nicht gut am Spielen bin.
+Ich bin nicht gut am Spielen.
+Ich spiele auch nicht so gut.
+Was ist denn mit deinen Kinder?
+Ich weiß es nicht.
+Ich weiß es auch nicht.
+Was spielst du in deiner Kindheit?
+Ich habe es vergessen.
+Ich weiß nicht, warum ich immer so lange lebe.
+Ich glaube, es ist Zeit, alle zu schlafen.
+Ich habe mir gedacht, dass ich heute Abend nicht mehr schlafen kann, aber ich werde heute Abend nicht mehr schlafen.
+Ich habe heute Abend einen Hörsaal gegrillt.
+Das ist ein Hörsaal.
+Das sind Zwiebeln.
+Und da habe ich einen Hörsaal.
+Schaut euch das Video an und sagt, dass es ziemlich schwer ist.
+Ich wollte es mal probieren.
+Ich habe vor ein paar Tagen einen großen Teig gekauft.
+Das ist ein Teig aus Weißwein.
+Ich habe es in einem Kühlschrank gebraten.
+Dann habe ich es in den Teig gebraten.
+Dann habe ich es mit Wasser und Teig gebraten.
+Ich habe es mit Wasser gebraten.
+Wenn ich dich kennenlernen würde, wäre ich so.
+Aber wir können uns einig sein.
+Du kannst mit mir Skatebüten spielen.
+Das wäre gut.
+Du kannst mich mit dir spielen.
+Das wäre gut.
+Ich kann dir zwei Schuhe geben.
+Danke.
+Du kannst mir ein paar Schuhe geben.
+Danke.
+Meine Schuhe sind sehr süß.
+Und dann habe ich es mit meinem Handtuch geschnitten.
+Das Wasser ist ziemlich sauer.
+Ja, alles ist gut.
+Dann sind wir schon auf der Schule.
+Wenn wir jetzt auf der Schule sind, werde ich mit dir essen.
+Wenn wir jetzt auf der Schule sind, werde ich wirklich mit dir essen.
+Dann habe ich gesagt, ich bringe sie zurück und dann gehe ich auf einen Kuss.
+Ich liebe dich.
+Ich liebe dich nicht.
+Ich finde es sehr süß, wenn du auf einen Kuss gehst.
+Wenn nicht, dann gehst du nach Hause und liegst am Schlafzimmer.
+Wenn du das tust, würde ich dich verletzen.
+Ich würde dich nicht verletzen.
+Ich würde dich nicht verletzen.
+Der Grund ist, dass sie jedes Jahr eine blöde Blase trägt. Ich weiß nicht, ob sie das im Ausland tut, oder wie ihr es macht.
+Im E-Mail-Bereich ist es nur die E-Mail-Bechäfte.
+Es ist im E-Mail-Bereich, wenn du genug Basis hast, dann ist das nichts anderes als außerhalb.
+Aber wenn ich nach der E-Mail-Bechäfte studiere, kann ich die E-Mail-Bechäfte zusammenfassen.
+Wenn ich jetzt Englisch spreche, kann ich ein bisschen Englisch sprechen, aber Englisch kann ich nicht.
+Ich weiß nicht, warum ich jetzt so spreche.
+Ich habe die Wörter zusammengefasst.
+Ich habe die Wörter zusammengefasst.
+Ich habe die Wörter am Ende aufgefasst.
+Das ist eine sehr furchtbare Sache.
+Vielen Dank.
+Wir müssen uns den da vorne angucken, denn wir wollen ja eigentlich zu den Fundamentallgleichungen.
+die ergeben sich jetzt nämlich
+wenn wir, wir kennen ja Beschreibung
+für innere Energie, für Enthalgie
+wir machen jetzt genau das gleiche wie wir es schon kennen
+und werden feststellen, dass wir auf einmal
+noch ein paar mehr Berechnungsmöglichkeiten
+kriegen, nämlich
+eine Karte
+das sind die Dinger, die wir eben gerade
+aufgestellt haben
+dort und dort
+wenn man die sich jetzt mal genauer anguckt
+Können wir? Das Gleiche können wir bei der Enthropie ja genauso machen.
+Das heißt aber, wenn man das mal versucht, die Änderung der Entropierung zu schreiben,
+dann kommen wir auf Folgendes.
+Die Entropie lässt sich jetzt auf einmal beschreiben, PDVDT, das lassen wir stehen, aber CVDT, das wird auf einmal in Dauer eingesetzt und wir lösen das zu diesem ds auf.
+Alles klar? Jetzt sehen wir vielleicht noch einen kleinen Zusammenhang und zwar hier P und T, Druck und Temperatur.
+Wir hatten da ganz am Anfang eine Formel, die uns Druck und Temperatur darstellt. Ideale Gaskonstante und so.
+p zu t ist gleich bau zu rs das heißt wir haben auf einmal die möglichkeit das ganze
+Wir bleiben immer noch. Zeit und Temperatur sind die beiden, über die wir jetzt erklären.
+Das sind die Veränderungen, die wir uns anschauen. Alle anderen werden aber interessanterweise immer mehr konstant.
+Das schöne ist, wir haben das gleich schon richtig sortiert.
+Und wenn wir das jetzt ausrechnen wollen, das d ist, dann integrieren wir 1dT dt, 1dV dV.
+Jetzt habe ich sie Ihnen schon vorgewarnt.
+Merken, nur ein paar Regeln
+um natürliche Logarithmen.
+Da sind sie eigentlich näher an der Mathe als ich.
+Nichtsdestotrotz, wie setzt sich das auf?
+Ich kann jetzt das Ganze aufzeichnen
+oder aufschreiben als
+Delta S, CV, natürlicher Logarithmus
+aus den beiden Temperaturen.
+R S war der natürliche Logarithmus
+aus den beiden Volumina.
+Vielen Dank.
+Jetzt machen wir das Ganze bei der Interfee auch noch.
+Das ist natürlich gleich noch falsch geschrieben.
+Das ist natürlich die H.
+Ach ne, Entschuldigung, das ist ja deine Aufgabe.
+Alles gut.
+Das ist mein Fehler, entschuldigen Sie.
+Die habe ich eingesetzt, dort.
+Und wir nehmen die Formel da oben und setzen sie dementsprechend um.
+Auch hier gilt natürlich wieder die lineare Gasgleichung.
+Das heißt, auch hier können wir dort uns anschauen, dass die Menschen ein bisschen besser zusammenkriegen.
+Wir machen also de facto einfach genau den gleichen Weg.
+Soll ich da gehen?
+Soll ich da gehen?
+So, mal zusammenschauen, ob das funktioniert.
+Nur halt mit Cp und nicht Cv.
+Vielen Dank.
+Vielen Dank.
+Und auch hierzu eine kurze Erklärung. Warum? Was hilft uns das jetzt?
+Naja, wir haben hier auf einmal für einen Prozessübergang zwei Möglichkeiten, die Entropieänderung zu beschreiben.
+Vermutlich heißen wir deswegen Fundamentalgleichung, weil irgendwer dazu fundamental eilt,
+Dann, hier haben wir jetzt die Möglichkeit, wenn wir das Verhältnis der Volumina und das Verhältnis der Temperaturen in einem Prozess kennen,
+dann können wir die Änderung der Entropie beschreiben.
+Wenn wir die Änderung der Temperatur und die Änderung des Druckes kennen, dann können wir die Entropieänderung beschreiben.
+Heißt aber auch, wenn wir bestimmte Prozessfolgen haben, zum Beispiel eine Entropie, also eine Isentropie, Entschuldigung, ein Isentropieprozess, Klammer auf Turbine, Klammer zu,
+Sie haben es ja vorhin gehört, dann fällt hier auf einmal raus, dann ist nämlich die Entropieänderung los und auf einmal kann ich anfangen, die Sachen richtig vollständig zu beschreiben.
+Okay, die beiden Gleichungen, das hier, das sind die beiden Fundamentalgleichungen.
+Ich habe jetzt hier zwei Aufgaben dazu gepackt.
+In Anbetracht der Zeit, die ich hier bitte mal vorbereite, bis auf die letzte Frage, eigentlich vor allem wieder oben.
+Also nehmen Sie sich die Sachen von heute vor und versuchen Sie das Ganze mal zu durchdenken und einfach nachzuprozieren.
+Dann gehen Sie nächste Woche nochmal kurz durch, aber wirklich nur kurz.
+Das hier tatsächlich einfach, ich weiß, dass das hier heute Tumor ist, also Entropie und alles, was dazu gehört, ist dann zum Witz schon fundamental gleich.
+Und die ja nur daraus resultieren, wenn man vorher das Thema Entropie einfach so durchdekliniert hat, wie man es definiert hat.
+Da gerne nochmal nachgucken.
+Das ist natürlich ein bisschen kindgerechtes Video, wobei ich habe das mal versucht, meinen Kindern zu zeigen, aber das ist nicht verstanden.
+Auch das machen wir Anfang nächster Woche noch.
+Sie können sich ja schon mal überlegen, wie es aussieht.
+Ein Adiabates-Ventil, das war eine Drucksäure reduziert, welche der Aussagen sind eigentlich richtig, können Sie gerne nochmal angucken.
+So, ich würde jetzt trotzdem einmal ganz kurz einen Exkurs in die nächsten Unterlagen machen.
+Die sollten schon auf der Website sein.
+Dann wird die da schon im Niveau.
+Denn, man sieht schon an der Begabung,
+da wird das Ganze ja schon in Punkt 2 geklappt.
+So, die Wiederholung brauchen wir nicht machen.
+Wir waren im Grunde ja mit dem zweiten Hauptsatz durch.
+Warum es mir jetzt wichtig ist, dass ich diesen Punkt noch mache, weil bis hierhin haben wir nur meiner Meinung nach de facto Formeln gesammelt.
+Formeln sammeln, Formeln sammeln, Formeln sammeln. Wir haben aber immer noch relativ viel Zeit damit verbracht, alles zum Beispiel auf die ideale Glasgleichung wieder anzuwenden.
+zu wenden. Es wäre doch viel hilfreicher, wenn man, und das ist bei Ihnen auch in der
+Formelsammlung vorhanden, eigentlich mal so eine Formelsammlung hat. Dass man eben nicht
+mehr sich alles irgendwie selbst zusammenbaut, sondern dass man sagen kann, ich habe eine
+bestimmte Prozessänderung. Welche Formel will ich haben? Die nächsten Folien gehen
+genau dahin. Dafür aber eine kleine Einleitung. Das ist für Sie, aber funktioniert das Ding?
+Nein, das funktioniert nicht.
+Dann müssen wir es von Hand machen.
+Also, wir haben einen Sporthorchert, der atmet die Luft ein.
+So weit, so gut.
+Jetzt die große Frage.
+30 Meter hat er 3 Liter Luft drin.
+Jetzt die Frage, welches Volumen würde theoretisch diese Luft, diese 3 Liter auf 30 Meter,
+welches Volumen würde die einnehmen, wenn der Taufer ohne Ausatmen an die Ohrfläche steigt?
+Ich gebe ein bisschen was vor, ein Liter, drei Liter, neun Liter oder zwölf Liter.
+Wir machen wieder einen guten alten Handtest.
+Wer glaubt, das sind 3 Liter? Einfänger.
+Wer glaubt, das sind 3 Liter? Zweifänger.
+Das ist schwierig, aber 2 ist 3.
+Also 2 Fänger sind 3 Liter.
+3 Neumeter.
+4 Viertel.
+Diese 9 Liter.
+Noch eine andere Meinung?
+Okay.
+Die müssen wir einfach mal rein.
+Delta P ist gegeben.
+Und jetzt können wir einfach die Gasgleiche, also haben wir ein Delta T, ist nicht angegeben, also gibt es kein Delta T.
+Delta T ist gleich 0.
+Delta V, ja, irgendwie wahrscheinlich eine Volumenänderung, wenn man nach einem Volumen gefragt wird.
+die einzelnen Formeln mitgehen
+und gleich die erste Formel hilft uns,
+weil man sagt, wir haben ja jetzt zwei Zustände,
+in denen jeweils der Druck bekannt ist.
+Bei dem einen ist ein Volumen gegeben,
+könnte eine ideale Gasgleichung gesucht sein.
+Jetzt wissen wir auch noch,
+je 10 Meter
+ungefähr ein Bar.
+Das heißt, bei 30 Metern haben wir ungefähr 30 Wasser.
+Entschuldigung, 3 Wasser.
+Das passiert aber folgendes.
+Das ist ja der Überdruck.
+Deswegen haben alle von denen, die jetzt eben 3 gesagt haben, richtig gedacht.
+Aber den Überdruck leider noch vergessen.
+Denn V2 ist gleich V1, P1, P2, das heißt für uns 3 Liter, 3 Bar plus 1 Bar durch 1 Bar und das sind 40 Liter.
+Wir haben hier einen isothermen Prozess.
+Die Temperatur bleibt gleich.
+Was ist die Formel, die wir eigentlich brauchen?
+Das wäre schön, wenn man sich die nicht immer zusammensuchen muss,
+sondern wenn man das weiß.
+Isothermer Vorgang, was ist meine Formel?
+So.
+Es gibt jetzt unterschiedliche, die gehen wir gerade mal kurz durch,
+auch wenn wir die alle schon hatten.
+Diese Zustandsänderung,
+Isotherm,
+Delta T gleich 0,
+Isobar,
+Delta P gleich 0,
+Isochor,
+Delta V gleich 0,
+und Isentrop-Delta-S-Pleite.
+Polytrop lassen wir uns nun vor.
+Gucken wir einmal ganz kurz durch.
+Das werden wir uns aber eigentlich nicht weiter anschauen.
+Das heißt, wir haben zwei Zustände.
+Wir suchen entweder aus dem ersten oder aus dem zweiten Zustand etwas
+und wir wissen etwas über die Zustandsänderung.
+Zum Beispiel, seht es sich so an.
+Dann brauchen wir dafür die richtige Form.
+Das ist im Grunde genau der Rechenweg, dass wir aus den Zustandsgrößen und dem Prozess,
+das heißt, das hier ist unsere erste Information, das hier ist die zweite Information,
+kommt dann irgendwann die dritte Information für das, was wir suchen.
+Ganz kurz, nichts anderes ist das, was wir dann bei den Berechnungen von Kreisprozessen,
+Kreisprozesse sind immer so ein bisschen entgegnerniert,
+was wir bei Kreisprozessen machen.
+Es sind immer zwei Zustände, was passiert dazwischen?
+Man muss mal so rumdenken, man muss mal so rumdenken,
+aber es ist immer irgendwas gegeben von dem einen oder dem anderen
+und ich habe eine Zustandserhöhung.
+Und das hier suchen wir jetzt, was das eigentlich in Formen heißen könnte.
+So sieht das Ganze dann aus.
+Und jetzt nicht wundern, ich gehe jetzt wirklich sukzessive einfach mal durch die Reihe einer bestimmten Zustandsänderung.
+Wie kann ich meine Verhältnismöglichkeiten aufstellen?
+Zum Beispiel, wir haben einen isobaren Prozess.
+Was wissen wir beim isobaren Prozess?
+Zustand 1 und Zustand 2 sind bekannt.
+Wir haben irgendeinen Druck, wir haben irgendeine Temperatur.
+Und im Prozess wissen wir, wie so wahr, p fällt raus, p ist nämlich gleich,
+haben also immer diese Zusammenhänge.
+Daraus kommt nichts anderes, als dass wir t berechnen können, weil p ja immer gleich ist.
+Soweit so gut.
+Heißt, t ist gesucht, bei der mesobarben Prozess, das ist jetzt die Formel, die ich brauche.
+Ja, dem hat man Isotherm.
+Kommt nachher, das bleibt so.
+So, jetzt wissen wir aber noch so ein paar andere Dinge.
+Nämlich, zum Beispiel können wir unsere Arbeit beschreiben.
+Arbeit,
+Minus P, die V,
+ist nichts anderes als Minus P
+mal Delta, die V.
+Auch das ist nicht anders.
+Die so war, heißt an der Stelle nicht auch,
+wir haben keine Druckveränderung.
+Dadurch noch keine Druckerhöhung.
+Bleibt also genauso bestehen.
+Jetzt wissen wir noch was, die innere Energie, können wir über die Temperatur beschreiben.
+Auch das ist bekannt.
+Wenn wir uns jetzt die Wärme angucken wollen, haben wir Änderung der inneren Energie,
+Änderung der Arbeit, ist definiert aus CVC-T und Änderung der Arbeit.
+Jetzt haben wir noch ein paar Vereinfachungen.
+Und zwar wissen wir auch bei der Entropie,
+die Formeldinger, die sind alle eingetragen auf ihre Vorderhand, oder?
+Gut, sehr schön.
+Wissen wir auch, ne?
+Cp mal ln, der Taktik, also T1 zu T2, T2 zu T1, T2 zu T1.
+Wenn wir jetzt hier unten mal reinschauen, das kommt von hier.
+Änderung der Entropie können wir bestimmen über eine der beiden Fundamentalgleichungen und bei der zweiten sehen wir schon,
+aha, es wird ein Zufall, der Tapir ist raus, wenn hier oben und unten das Gleiche draufsteht, fällt der ganze Teil.
+Das kommt also von hier und jetzt interessiert uns auch die N-Type, die können wir hier
+rüber wieder bestimmen.
+Td ist Vdp, wir haben keine Änderung von Druck und damit wissen wir auch die N-Type.
+So, heißt jetzt auch, für unsere eine Zeile, isobarer Prozess.
+Das ist kurz, hier, isobarer Prozess, wie kann ich die Einzelnen ausrechnen, genau nach dieser Formel.
+Ich habe jetzt noch etwas aufgeführt, und zwar, wie verhält sich denn in einem PV-Diagramm,
+wir werden das in Folge brauchen, wie verhält sich denn in einem PV-Diagramm ein isobarer Prozess von 1 nach 2?
+das ist mein
+P
+Isobar heißt ja, dass er komplett gleich bleibt
+das wird also mein Prozess sein
+von meinem Punkt 1
+zu meinem Punkt 2
+vergessen Sie die Punkte da drunter
+Und das Schöne ist, dass wir jetzt noch zwei Dinge sehen, und zwar in diesem Prozess, was
+passiert, in diesem Prozess wird Arbeit umgesetzt.
+Ich habe nämlich eine Fläche in meinem PV-Irker.
+Und da wir wissen, dass wir auch eine bestimmte Beschreibung für unsere Wärme haben,
+wird die Wärme dann diesem Prozess zugefügt.
+Und das ist was, was wir kennen. Beispiel mit der Pumpe.
+Im Moment, wo wir etwas verdichten, Arbeit rein, Wärme raus.
+Das gucken wir uns nachher eh nochmal an, wie die Verläufe da sind, bei isolaren Prozessführungen.
+Das hier sind die Verläufe der Temperatur.
+Auch da erinnern wir uns auf die zweite Formel.
+Das sieht das eigentlich aus in einem PV-Diagramm.
+Wenn ich die Temperatur verändere, so sind wir auf die ideale Gasgleichung gekommen.
+Das heißt, hier können wir auf einmal diese Verhältnismäßigkeiten auch beziffern und in einem Diagramm darstellen.
+So, machen wir weiter.
+Das Ganze, wie sieht das Ganze dann aus?
+Das ist letztendlich das, was Sie dann nachher nach Hause anziehen.
+Okay?
+Das machen wir jetzt für alle anderen auch.
+Wir gucken uns einen Isothermen-Prozess an.
+Isothermer-Prozess, relativ viele Sachen, die wir kennen.
+Die Temperaturen sind gleich.
+Daraus ergibt sich für den Prozess,
+Ein relativ einfacher Zusammenhang. Wir haben, ja, ist eigentlich egal, welches ich mir vornehme, ich nehme das hier vor.
+Das beschreibt den Zusammenhang aus dem Illumina und dem Drücken.
+Wichtig ist vielleicht noch der hier, denn wir haben auch eine Beschreibung, wie sich das Ganze verhält.
+Wir merken schon, dass so komisch da hingeschrieben ist, gut könnte was mit einer Volumenänderungsarbeit zu tun haben, oder Druckänderungsarbeit zu tun haben.
+Hier ist es eine Volumenänderungsarbeit.
+So, was weiß ich auch? Änderung der inneren Energie. Wir haben keine Temperaturänderung.
+Isotherm ist also 0. Was wissen wir noch? Ich kenne die Definition der Änderung der
+Aras. Minus PV. Und jetzt ist das Schöne, dass wir das natürlich hinschreiben können.
+p1, pv1, das ist das, was wir vorhin schon hatten, das ist k1, v1 und Änderung des Volumens über das Volumen.
+Hier, hier, so, nichts anderes gemacht.
+Schön ist nur, wenn wir das machen, können wir das wieder auch einfach rechnen und das darstellen über den natürlichen Volumerythmus.
+Und die Stützstelle fährt so voran.
+So, wenn jetzt die Änderung der inneren Energie,
+okay, das kann man natürlich hier auch noch gleichsetzen,
+einmal in diese Richtung, einmal in diese Richtung.
+Das ist insofern wichtig, weil wir beide Richtungen auflösen können.
+Haben wir die Drücke gegeben, kommen wir auf die Volumina.
+Und mit der Volumina gegeben, kommen wir auf die Drücke.
+solange wir die Arbeit kennen.
+Q ist gleich minus W, auch das relativ klar, weil die Änderung der inneren Energie nicht existiert.
+Also gilt der erste Hauptsatz, Änderung der inneren Energie, Änderung der Arbeit, Änderung der zugeführten Wärme.
+Und auch hier können wir relativ stumpf auf eine Möglichkeit darstellen, uns das S anzugucken.
+warum? Die fallen beide raus. Bleibt also die Möglichkeit, Entropie entweder über den
+ersten Teil, hier die Lumina darzustellen, oder über den zweiten Teil, hier über die
+drücke. Für eine Isotherme im PV-Diagramm, Sie sehen es hier schon dargestellt, die hat
+diesen Verlauf, den kennen wir. Heißt das also, dass unser Druck und unser Volumen am
+ersten Punkt, das ist das Ganze am zweiten Punkt. Wir haben den Prozess, wie wir ihn
+Durchbahn entlang dieser Linie.
+Ich nehme es mal so an.
+Und wir können auch hier darstellen, wie das Ganze als Acht ist.
+Ganz kurz als Hinweis, ich habe das hier noch von vor zwei Jahren als Video.
+Das werde ich nach der Vorlesung einmal einstellen.
+Das sind exakt nur die ersten Jahre.
+Genau, die haben wir uns also auch angeschaut, Isochorach-Prozess,
+ihr merkt es schon, wir machen es einfach die ganze Zeit gleich, wir schauen, welche Zusammenhänge wir schon haben.
+Passt?
+Gut.
+Diesen Cora-Prozess, wir haben jetzt hier die Volumina, die gleich sind.
+Wir kommen auf diesen Anteil der Fundamentalgleichung.
+So ein paar Sachen, die jetzt ganz schön werden, zum Beispiel folgendes.
+Arbeit ist definiert über dV, da wir einen Isochore-Prozessor haben, ist der Null.
+Änderung der inneren Energie dadurch auch relativ einfach.
+Wir haben nur noch Zitidit.
+Das tragen wir ein und können darüber auch dann direkt die Wärme bestimmen.
+Bei Wärme und Änderung der inneren Energie die wir jetzt machen.
+So, nächste Fragestellung, wie immer, wie verhält sich jetzt die Änderung der Entropie,
+und Sie kennen jetzt schon so ein bisschen das Vorgehen, jetzt gucken wir einmal wieder in die Fundamentalgleichung,
+was sehen wir da, wir sehen zum Beispiel, dass dieser Bestandteil rausfällt,
+Und damit können wir auch die Entropien darstellen als CVLN und in kurzer Zeit wieder Tänker.
+So, jetzt natürlich die aller, aller einfachste Darstellung.
+einen Isochorenprozess
+in einem PV-Diagramm
+im DV-Diagramm
+das ist das
+Mephaktor
+von einem
+Druck 1
+Isochor
+zu einem Druck 2
+heißt an der Stelle aber auch
+und das ist jetzt ein bisschen witzig
+Denn wir sehen, dass die Arbeit nur ist. Wir sehen es in dem Diagramm, weil wir keine Fette haben.
+Das heißt, wir haben hier nur eine Wärmeenergie.
+Haben wir noch fünf Minuten? Dann würde ich den Isentropen auch noch gut dazusetzen.
+Wie sieht es bei Ihnen aus?
+Okay, dann habe ich heute, das haben wir fünf Minuten, war mir gut.
+Also, Isentropaprozess. Was heißt Isentrop an der Stelle? Ganz wichtig.
+Diese beiden Leitungen.
+Was heißt das jetzt für die anderen Zustände, die ich so sehe?
+Erstmal gucke ich auf meinen Prozess.
+Und zwar ein bisschen anders, als wir uns das bisher angeschaut haben.
+Die hier und die hier kommen aus den beiden.
+Die S gleich 0, das heißt CVM Quotient T und der SLM Quotient V, die sind gleich groß.
+Nichts anderes steht da, nichts anderes steht da.
+Jetzt machen wir folgendes, wir setzen das mal ein.
+Und kommen auf sowas Unschönes.
+CP, R1, das bleibt alles soweit stehen.
+Kommen auf den Zusammenhang zwischen unseren Volumina und dem Drücken.
+Das ist jetzt das Schöne, dass man das mathematische bei den natürlichen Logarithmen auch ein bisschen anders ausdrücken kann.
+Denn in dem Moment, wo ich einen Quotienten mit einem natürlichen Logarithmus mal nehme,
+kann ich auf den natürlichen Logarithmus den Quotienten in die Elektro besetzen.
+Das ist soweit klar, das ist soweit auch klar.
+Und jetzt gibt es so eine schöne Definition.
+Wenn wir das da definieren, haben wir natürlich auch einmal so eine Schreibweise.
+Und die können wir jetzt auch wieder auseinanderklammern.
+Dadurch, dass das hier auch dann rausziehbar ist, haben wir P1 mal V1 Kappa, das ist gleich
+P2 V2 Kappa.
+Das gilt aber dann auch, heißt P mal V hoch Kappa ist immer gleich groß.
+Das sind die zwei fundamentalen Dinge, die man aus der Reihe anbieten kann.
+Das steht hier drin.
+Hätten wir so bisher, mit unserem bisherigen Wissen, wären wir nie darauf gekommen,
+dass wir uns diese fundamentalen Rechnungen klären.
+Das heißt, wir können hier den Prozess, wird tatsächlich nicht ganz easy zu beschreiben,
+aber wir haben eine Formel, in der wir sagen können, alles klar.
+Habe ich meinen Druck, habe ich ein Volumen, habe ich ein zweites Volumen und den zweiten Druck nicht,
+aber ich weiß meinen Exponenten, dann kann ich rechnen.
+Jetzt das Schöne an diesem Exponenten, Cp und Cv sind Materialwerte.
+Wir müssen sie nicht verstehen, wir müssen sie nicht kennen, wir müssen aber wissen, in welchem Tabletten sie stehen.
+Das heißt, die kann man nachgucken. Und dann wird das Ganze beherrschbar.
+Eigene Erfahrung, man denkt sich, oh Gott, oh Gott, oh Gott, jetzt noch 14 andere griechische Buchstaben.
+Bitte relativ entspannt bleiben.
+Die da kann man sich bestimmen und in keinem späteren, nein, mehrere Kanten,
+ich sag jetzt mal Standard, nicht Thermodynamik,
+muss man die irgendwie bestimmen.
+Weil Materialwerte sind da.
+Die hat irgendwer anders
+vielleicht schon mal rausgefunden.
+Wenn sie gut sind, wollen sie auch noch wissen,
+wie man die rausfinden kann,
+damit sie das dann selber noch weiter teilen können.
+Aber erstmal, Materialwerte sind da.
+Gut.
+Soweit so gut.
+Wenn ich jetzt diese Informationen habe,
+kann ich auch meinen Zustand 2
+relativ gut beschreiben.
+Nämlich P2 ist gleich P1 mal Lungenquotienten, Exponent Kappa und das Ganze für die Hand.
+Das ergibt sich also beides, nehme ich jetzt eine andere Farbe, ergibt sich beides daraus.
+Soweit. Interessant wird jetzt das Ganze sich nochmal anzugucken für die Arbeit.
+Das erspare ich Ihnen aber.
+Also, wenn Sie das Ganze einsetzen, PV, PV, das ist das, was wir hier haben, können wir genauso, wie wir es hier vorhin schon gemacht haben,
+zwei Projekte zuvor, das da, können wir hier natürlich dann genauso umsetzen, um die Arbeit zu beschreiben.
+Das können wir umformen über den Prozienten, damit können wir ganz viel Mathematik machen,
+kommen dann auf diese Darstellung,
+die wird dann das erste Mal wieder so was wie lesbar
+und kommen auf
+diese Gesamtformel.
+Wie gesagt,
+wenn es wirklich ist,
+diese Herleitung gerne mal machen.
+Können also gerne auch noch mal so
+irgendwie durchspecken, aber eigentlich mag ich sie
+nicht so, weil ich stark damit langweil,
+weil das da ist tatsächlich nur noch mal.
+Das ist nichts mehr mit Verstehen, das ist Anwenden
+von irgendwelchen Regeln.
+Aber,
+und das ist das Wichtige,
+Wir können jetzt unsere Arbeit damit bestreiten.
+Das ist übrigens die komplizierteste Formelisierung, die in der V-Werbe funktioniert.
+So, einen Punkt brauchen wir aber noch, und zwar, wie sieht das Ganze dann eigentlich in unserem Diagramm aus?
+Wir haben einen Zusammenhang, das ist dann der Isentrop.
+Der ergibt sich, oder eine andere Frage.
+So, der ergibt sich zum Beispiel so, ich habe einen Druck P1, der ist relativ gering.
+Ich habe dabei einen Volumen, das ist ein bisschen höher.
+Und ich komme auf einen hohen Druck bei einer weiteren Temperatur.
+Und ich kann das Volumen bestimmen.
+und an diesem Zusammenhang
+da steckt das Kappa
+bzw. 1 durch Kappa drin
+das diese überhöhte Form ergibt
+und das ist
+so etwas hier
+das sieht mir jetzt persönlich
+ein bisschen zu gerade aus
+deswegen mache ich hier mal neu
+und das Schöne ist auch hier
+kann ich jetzt eine Arbeit
+bestimmen.
+Und wir haben keine Angst davor,
+dass das jetzt irgendwie komplizierter aussieht.
+Nachher gibt es in unseren Taschen
+sehr viel Hilfestellung, wenn wir
+einen nachfülligen Logarithmus ausrechnen wollen.
+Das ist unsere Arbeit.
+Und wie wir es jetzt schon ein paar Mal hatten,
+sehen wir,
+zumindest vom Verlauf her,
+sehen wir auch,
+wie zugekriegt wir sind.
+So, ganz kurz, damit haben wir alle für uns Relevanten gesprochen.
+Ich sage bloß für uns Relevanten, denn das hier oben ist Kappa bzw. 1 durch Kappa.
+Das gilt bei Isotropen, wenn wir von Polytropenprozessen sprechen.
+Dann haben wir ein Null an Kappa.
+Wie gesagt, Polytropen werden wir nicht rechnen.
+Es ist von der Herleitung exakt das Gleiche.
+Es ist ein Zusammenhang, den wir finden, der sich dann hier raus ergibt, aus einer anderen Beschreibbarkeit.
+Weil wir hier mehrere gleichzeitig verlaufende Prozesse haben.
+Heißt aber auch, dass wir über einen Polytropenexponenten, wenn der bekannt ist,
+das wird bei mir nicht passieren, aber wenn der bekannt ist, können Sie die Prozesse genauer verarbeiten.
+Gut, dann noch mal die Zusammenfassung, dann fange ich beim nächsten Mal bei Ihnen an.
+Ich bedanke mich bei Ihnen für Ihre Geduld.
+Das Telefonat kam hier vom Klettertisch.
+Wir sehen uns nächste Woche ganz aktuell noch mal.
+Fragen zwischendurch, gerne einfach fragen.
+Es wird jetzt zunehmend ein bisschen komplexer.
+Machen Sie an, das Forum zu nutzen.
+Man kann ja auch direkt fragen, aber einfacher ist es,

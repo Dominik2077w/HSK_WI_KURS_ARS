@@ -1,0 +1,631 @@
+Ja, gehst du mit der Fahrradfahrt raus?
+Das wird vom Urlaub von 5 Stunden.
+Machen Sie mal mit dem runterladen.
+Ich habe es gerade gesehen.
+Das stimmt.
+Hm.
+Das habe ich mir nicht abgelehnt.
+Hm.
+Wie ist denn das?
+Das dauert eine Minute.
+Das ist gut.
+Okay.
+Amen.
+Vielen Dank.
+So, jetzt diesen Verfahren.
+Ja, so.
+Geht?
+Ja.
+Wir haben jetzt die theoretischen Grundlagen erarbeitet zum Gießen und würden jetzt zu den Verfahren kommen.
+Kern-Einteilung, welche Formverfahren gibt es, Kerneherstellung. Dazu mal links dieses Bild. Sie kommen an einer Werkstückszeichnung. Da ist unter Umständen noch das Gießen nicht berücksichtigt.
+Man geht dann sozusagen zu einer Gießerei und die macht daraus eine gießbare Konstruktion.
+Wir müssen zum Beispiel darauf achten, dass die Bauteile wieder aus dem Sand herausgenommen werden können.
+Hier geht es sozusagen um das Sandgießen.
+Da oben ist ein Modell, das Modell ist zweiteilig.
+Der Konstrukteur legt fest, wo eine Trenn-Ebene ist, wo dieses Bauteil geteilt wird.
+Da kommt dann auch gleich die Zeichnung dazu, die einzelnen Prozessschritte.
+Hier wird ein Unterkasten eingeformt, hier ist das Modell, dann wird das obere Modell,
+die unsere Modellhälfte in Prä aufgesetzt und mit Sandhüterform zu einem Gießsystem angebracht.
+Es werden Speiser platziert, die Bauteile gegossen, es erstarrt, die Schwingungsprozesse setzen ein
+und am Ende des Prozesses haben wir dann noch einen Kern, der vor dem Gießen eingelegt wird,
+der formt die inneren Bauteilkonturen und der Abguss hier im Gelb ergibt dann da unten dieses Bauteil
+mit dem Lauf des Gießsystems, Querlauf, mit dem Einguss, mit den Speisern,
+die innen auf das Bauteil aufgesetzt wird und der Kerne.
+Das Ganze wird dann ausgeformt und ist unser fertiges Bauteil bei dem Sandgießen.
+Das werden wir uns ein bisschen näher anschauen, dieses Sandgießen.
+Dann dazu fein gießen und so eine Lost-Form und Vollform gießen, was sehr ähnlich ist.
+Und dann, das sind alles Varianten, wo danach die Form verloren ist.
+Bei einem Coquille-Gluss bleibt die Form erhalten und Sie kriegen mehrere Abküsse.
+In dieser Formmachung, Coquille ist ein französischer Begriff für Halbschale.
+Wenn Sie quasi zwei sich öffnende Werkzeuge helfen, die immer wieder öffnen und schließen, schmelzen wird eingegossen, Bauteil wird abgeformt, Bauteil pro Kühle wird geöffnet, Bauteil wird genommen.
+und dieser Informbarkeit achten.
+Mit diesem sogenannten Niedertrupp-Helmholtz,
+mit diesem Trupp-Holz und Schleuder-Helmholtz und so weiter.
+Generell, was hier droht, ist,
+dass es nicht viel nimmt,
+es ist sozusagen ein diskontinuierliches Dienstverfahren.
+Dieses Diskontinuierlich heißt,
+dass der Prozess in Schritten immer unterholt wird.
+Es bildet sich quasi ein kontinuierliches Verfahren, dauerhaft läuft.
+Im rechten Teil des Bildes sieht man oben aufgesetzt eine Haube, der Luka, der oben entsteht, das ist das, was zuletzt erstarrt, weil die Hitze auch so nach oben steigt.
+Die metallische Halbschale ist für die Herstellung des Bauteils zuständig.
+Bei einem Strangguss haben wir ein kontinuierlich vorliegendes Schmelzgefäß.
+Hier ist umlaufend Wasser, das sich in Kontakt befindet mit meinem Bauteil.
+Vorteil, Schmelze läuft hier kontinuierlich nach, durch dieses Wasser wird die Schmelze hier konsolidiert
+und in einem Prozess wird hier über einen Abzug kontinuierlich das weggezogen.
+Und das Verhältnis, wie diese Schmelze nachläuft, um das Nuncafrei herzustellen,
+wie es abkühlt und wie die Schwingung ausgeglichen wird, hängt davon ab,
+dieser Prozess eingestellt ist, die Geschwindigkeit, Abzugsgeschwindigkeit und das ganze lokal frei zu machen.
+Hier sieht man, das ist ein Rechenteil des Bildes, eine sogenannte Klammer.
+Vorstufe von irgendwelchen Stahlflächen, die dann nachher noch gewalzt werden im Walzwerk.
+So ein kleines Video auch dazu, Sendung mit der Maus, ich glaube, Sie sehen die Bilder dann dort zu sehen.
+Wir müssen den Stahl entsprechend dann düngen, walzen und er bekommt die gewünschten Eigenschaften.
+Es ist dann ein kontinuierlicher Prozess, wie ein anderes diskontinuierlicher.
+Die Einteilung der Gießverfahren erfolgt auch nach der Art der Formfüllung.
+In einem statischen Gießen kann das geschehen.
+Mit verlorenen Formen oder Dauerformen war eine davon interessant.
+Können Sie das nicht abschreiben?
+Ich habe kein iPad.
+Das ist schlecht.
+Ich möchte nicht, dass das die gesamte Vorlesung abfotografiert wird.
+Verstehe.
+Es ist jetzt wirklich nicht viel, was sich in der Vorlesung abfotografiert wird,
+wenn man da digital aufschaut.
+Die Formfüllung heißt links statisches Gießen, rechts dynamisches.
+Dynamisch heißt, es wird entweder mit Druck oder durch eine Bewegung der Form die Schmelze zu einer starrenden Phase.
+Sie sehen da unten die Varianten, Schleudergießen, Sturzgießen oder das Druckgießen.
+Das Niedersturzgießen ist vielleicht auch noch hier, hier wird das Gießmaterial auch bewegt.
+Das können Sie sich da mal so durchlesen, da lege ich kein Problem mehr drauf, weil das im Einzelnen jetzt erwähnt wird.
+Kokillen als solches, das sind Dauerformen.
+Die Dauerformen, da muss man darauf achten, dass eine entsprechende Entformbarkeit gegeben ist.
+Sie werden sehr stark beansprucht durch Temperaturwechsel.
+Es kommt immer wieder die heiße Schmelze.
+Das kühlt dann ab.
+Das Bauteil, die Form wird dann auch warm.
+Man kann die Form dann auch aktiv kühlen.
+aber wir haben immer diesen Temperaturquadrant zwischen der Kühlung und der heißen Schmelze.
+Bei diesem Druckbus sind keine Kerne möglich auf Sand, deshalb braucht man sogenannte Kernschieber.
+Hier zum Beispiel müsste man das Bauteil nach oben hinformen, bestünde allerdings die Gefahr,
+wie man bei dem Bild, können wir gleich noch diskutieren, wie man das sieht.
+Varianten wären niedrig oder hochlegiertes Gusseisen für eine Form oder Hitze- und zunderbeständige Stähle.
+Was wäre aus Ihrer Sicht ein Problem, was jetzt hier auftreten kann?
+Das Graue ist die Form, das Orangefarbene ist der Guss.
+Was könnte hier passieren, wenn die Schmelze abkühlt? Darum geht es.
+Man kann sagen, es tritt ja Schwindung auf.
+Der Bauteil kühlt ab, zieht sich zusammen, es gibt die flüssige Schwindung,
+es gibt die Erklärungsschwindung, die besonders groß ist, und es gibt dann noch die Festkörperschwindung.
+Die Gefahr, die jetzt hier zum Beispiel besteht, ist,
+dass wenn das orangefarbene Material von der hohen Kiste abkühlt, dass es sich so stark zusammenzieht, dass es auf diesen Kern aufschrumpft und Sie das gar nicht mehr runterkriegen.
+Und deshalb muss man bei den Enformen auf Enformbarkeit achten.
+Den kann man ziehen, aber man muss darauf achten, dass es nicht zu stark darauf stündet.
+Im rechten Teil des Bildes, bei dem Sandkern ist es egal, weil der nachher zerfällt.
+Wenn man zum Beispiel einen Niederschrub-Kirnbus macht, also eine Dauerform aus Metall, aber einen Kern aus Sand,
+dann können Sie auch Hinterschneidungen machen.
+Das ist ein wichtiger Begriff, der jetzt hier, war nicht genannt, ist.
+Amen.
+Der Begriff einer Unterschneidung.
+Ein hervorstehendes Element, was nicht unmittelbar entformt werden kann.
+Wenn Sie jetzt einen Metallkern hätten, der gezogen werden muss,
+dann müssen Sie sich Gedanken machen, wie Sie das machen können.
+Das ist das Bauteil, grau sind meine Halbschalen, die Halbschalen würden öffnen,
+das Bauteil wird ausgeworfen, der Sandzerfeller geht kaputt, fällt auseinander.
+Ihre innere Bauteilkontur wird freigegeben.
+Wenn Sie das anders machen wollen, dann brauchen Sie andere Ideen,
+also um so eine Hinterschneidung zu realisieren.
+Ich zeige Ihnen dazu mal ein kleines Filmchen, das so ähnlich ist wie dieses Bauteil hier.
+Auch da gibt es Hinterschneidungen.
+Das ist allerdings auch ein Kunststoffspritzguss, was eigentlich nichts anderes ist.
+Also die Schmelzetemperaturen bei den Kunststoffen sind in der Regel niedriger.
+Und diese niedrigeren Schmelzetemperaturen werden aber auch in metallische Formen gespritzt.
+Hier wird so ein Abzweig hergestellt. Das ist eine Kunststoff-Spritzdurchmaschine.
+Sie haben jetzt eine Metallform und Sie haben eine Hinterschneidung.
+Diese Hinterschneidung sagt, Sie können das Bauteil nicht unmittelbar aus der Form entnehmen, weil ein hervorstehendes Element vorhanden ist, was stört.
+Im rechten Teil des Bildes wird die Schmelze hergestellt.
+Das ist ein Spritzkolben, ein Extruder, der dreht. Der macht da vorne ein Schmelzenkolster.
+Fährt dann zu, dichtet das System nach hinten ab. Es wird ein sehr hoher Druck aufgebaut.
+Der Druck führt dazu, dass die Schmelze in die Kapazität getrennt wird.
+Und dort abkühlt und schwindet.
+Zieht sich zusammen.
+Und wir müssen uns Gedanken machen, wie wir das zusammenziehen.
+Wir brauchen größere Formen, etwa 1-1,5% um diese Schwingung zu berücksichtigen.
+Hier ist die Form geöffnet, hier ist das Bauchlein noch drin.
+Hier sieht man aber auch, es gibt eine Relativbewegung.
+Es wird ein Schieber gezogen.
+Hier hat man eine sehr aufwändige Mechanik dafür gemacht.
+Ich werde das gleich sehen.
+Das Bauteil öffnet, wird jetzt gegriffen von einem Greifer und diese Schieber öffnen.
+Und nun ist die Bauteilkultur frei.
+Der Kern muss raus, muss gezogen werden.
+Wir können da keine Samtkerne einsetzen beim Kunststoffspritzbus.
+Der Samt wird dann später zerfällt.
+Sie haben hier sehr, sehr hohe Drücke, mehrere hundert Bar im Werkzeug rücksam.
+Da können Sie sowas nicht einsetzen, außer im Metall.
+Wir sehen jetzt gleich, wie dieser Schieber öffnet, dieser Metallschieber.
+Achtung, Bauteil öffnet.
+Das ist ein Verteiler, der hat drei Abgänge.
+Und hier sehen Sie einen Metallkern, der fällt nachher zusammen und wird wieder geöffnet, wenn das Bauteil zusammenfährt oder das Werkzeug zusammenfährt.
+Bevor das Bauteil entnommen werden kann und dieser Schieber gezogen wird, fällt dieser Kern in sich zusammen, damit diese Relativbewegung gemacht werden kann.
+So, man sieht das jetzt gleich. Der Greifer kommt jetzt, der erste Schieber geht auf, der zweite geht auf, der dritte geht auf und hier ist so ein Metallring.
+Der fährt gleich wieder raus, wenn das Bauteil dieses Werkzeugs wieder zuführt.
+Achtung! Haben Sie das gesehen? Da oben, der Ring, der ist aufgegangen.
+Mit Zusammenfahren dieses Schiebers geht der auf.
+Und bevor das Bauteil bzw. der Schieber nach oben fährt, muss diese Hinterschneidung weg sein.
+Deshalb gibt es einen sogenannten Kern, der hier zusammenfällt.
+Ich zeige das jetzt nochmal.
+Ich hoffe, das ist sichtbar.
+Also bitte hier oben mal drauf achten.
+Wenn wir diesen Schieber ziehen wollen, geht das nur, wenn dieser Ring hier verschwunden ist
+und der Durchmesser kleiner wird.
+Das ist eine Wetterstruktur.
+Jetzt fährt es auf.
+Ihr seht, dieser Ring ist zusammengefallen
+und jetzt beim Reinfahren
+wird er wieder raus.
+Zack, zack.
+Die anderen Ringe auch.
+Da wird nachher, das ist ein Abzweig,
+der wahrscheinlich in der Dichtungstechnik
+eingesetzt wird,
+respektive in Abwasserleitungen.
+Da wird ein Rohrende reingesteckt
+und dann kommt eine Dichtung in diese Hinterschneidung, in diese Nut hinein.
+Das ist jetzt wieder eine maschinelle Nachbearbeitung.
+Das ist eine Hinterschneidung.
+Wenn Sie eine Sandform haben, ist das relativ egal, weil die Sandform zerfällt.
+Wenn Sie eine Metallform haben, müssen Sie darauf achten, dass Hinterschneidungen entformt werden.
+Sie müssen diese Kerne sehr aufwendig ziehen.
+Der Kunststoff kühlt ab.
+es kann sein, dass er auch diese Form aufschwindet.
+Deshalb muss man auch nicht warten, bis es Raumtemperatur hat,
+weil das Maß dann immer kleiner wird.
+Und hier, das hier, das Ding, das wäre dann der Zahn.
+Und, naja, jetzt sieht man ihn nicht mehr,
+aber man sieht die Verschneidung.
+Auffallen, auffallen, weg, raus.
+Und jetzt gehen diese Ringe dann wieder auf.
+Auf, auf, da, da.
+Kann man verstehen, oder?
+Das ist eine Hinterschneidung und das muss man bei der Konstruktion der Formen berücksichtigen.
+Der Pfeil, der jetzt hier drauf steht, der besagt, bei einem Sandkern ist es eigentlich egal,
+aber wenn ich mit einem Metallkerk das Ganze mache, wird es sehr aufregend und dann wird es auch teuer.
+Dauerformen sind sehr, sehr teuer. Diese Kunststoffformen, die Sie da gesehen haben, die kosten schon 300.000, 400.000 Euro.
+Fragen dazu?
+Das wäre der Begriff der Hinterschneidung. Dann haben wir hier klassisch den Produktentstehungsprozess.
+Normalerweise kommt ein Konstrukteur daher und sagt, naja, ich hätte gerne ein Bauteil, das hat eine gewisse Funktion,
+Das ist meine Auswahl an Materialien und meine Fertigungstechnologie.
+Häufig ist es so, wenn man ein Fußbauteil haben möchte, dann sagt Ihnen die Gießerei, wir machen das mit der und jener Technologie.
+Wir brauchen bestimmte Aufmaße und zum Beispiel Vorteilschlägungen.
+Wir brauchen, um Schrumpfung und Schwindung zu berücksichtigen, bestimmte Ausmaße bei Ihrem Modell.
+Dann entscheidet man, wie man das macht, die Dauermodelle, beispielsweise Harz, Holz oder Metall.
+Und kann zwei Modellheften herstellen, die Teilungsebene, einen Verlauf der Modellteilung.
+Das ist ein bisschen abstrakt jetzt, weil es hier verschiedene Fertigungstechnologien sind.
+Wenn ich also so zwei Modellhälften habe, wie in dem Bild ganz am Anfang,
+geht er nochmal zurück,
+dann muss man darauf achten, dass man diese Modelle da auch wieder rausbringt.
+Hier das hier zum Beispiel. Da oben, das Modell ist zweiteilig. Die eine Hälfte wird in den Unterkasten eingeformt, dann wird die zweite Modellhälfte aufgesetzt und man macht den Oberkasten.
+Da muss man darauf achten, wenn man nachher die beiden Hälften öffnet, dann öffnet man hier an der Teilungssebene und in dieser Richtung muss das Bauteil raus und das andere nach oben.
+Die werden dann getrieben und nach oben gebraucht. Dann haben Sie da eine Vorteilstelle, die Sie anwenden müssen. Sie müssen die zereitechnischen Prozesse berücksichtigen, die Schwingung und das Aufmaß, was Sie haben und diese Bearbeitungszugaben.
+Hier fällt jetzt der Begriff, die Teilungsebene und die Modelle müssen Konizität haben.
+Wenn das Modell verloren geht, ist die Entformbarkeit kein Problem.
+zum Beispiel so einen Feinguss machen, dann sind die Hinterschneidungen ebenfalls kein Problem,
+weil die Form zerstört wird. Bei Sandguss, bei Feindüsen sind die Modelle anschließend verloren.
+Die können Hinterschneidungen werden hier, bei den Metallen können sie das auch, aber das wird sehr aufwendig.
+Der weitere Vorteil ist ein geringerer Aufwand zur Nachverarbeitung und eine größere Nähe zur Endkultur.
+Ja, wie ist es dann mit der Wirtschaftlichkeit von Sam, macht man das dann nur bei einzelnen
+Teilen?
+Es gibt auch Maschinen, also man nennt das eine der Gesamthartformen, wenn das, ich sage mal, eine kleine Stückzahl hat.
+Es gibt aber auch Maschinenformen, wo an verschiedenen Prozessstufen immer das Gleiche gemacht wird.
+Da wird zum Beispiel vorne die obere Niederhälfte immer gleich eingefordert, dann wird die Form zusammengesetzt,
+das läuft durch, an einer bestimmten Position wird gegossen.
+Weil da werden Kerne eingelegt kommen, Nacherbilder, wo man das sieht, sodass das Maschinenformen produktiver ist.
+Sie haben in der Regel beim Graubus ganz oft Gusseisen, dann Sandformen.
+Und dann ist es trotzdem produktiv.
+Große Bauteile werden ausschließlich in Sand gekostet. Ein Bauteil, das man da gesehen hat,
+dieses Schiffsgehäuse, was weiß ich, Klocken, große Klocken, das wird alles in einem Sandbus
+hergestellt. Deshalb ist es immer ein wichtiges Verfahren. Die Firma hier, die Eisendieserei,
+campen, die man ausschließlich Sand misst. Das ist also berechtigte Technologie. Die großen
+Formen in Metall herzustellen wäre gar nicht möglich, weil sie brauchen solche Bauteile.
+Die Maschinengehäuse haben, das ist ein Video, das ich gezeigt habe, da werden 8 Tonnen Eisen
+gegossen. Und das kriegen sie effizient mit dem Sand hin. Also da sind sie auch recht bewerbsfähig.
+Das geht gar nicht anders. Technologisch. Deshalb ist das immer noch eine Sache, das sieht aus wie im 18. Jahrhundert oder im 19. Jahrhundert, aber es gibt es immer noch.
+Letzte Woche da bei Kaiserslautern unterwegs gewesen, das ist auch eine eigene Wieserei, ein riesengroßes Werk, die machen glaube ich auch nur ausschließlich Sandwurst.
+Das geht nicht anders. Technologisch hat das immer noch Relevanz.
+Für den Begriff Hinterschneidung, das ist ein Konstruktionselement, das frei hervorsteht.
+Das ist ein wichtiger Begriff.
+Die Schneidung verhindert, dass...
+Entnehmen, ohne Form zu bewegen.
+Im Sandguss geht das nicht, dass Sie das so in einer äußeren Hälfte einformen.
+Beim Kern ist es kein Problem.
+Man muss bei dem Modell darauf achten, dass es aus dem Sand in beiden Formhälften entnommen werden kann.
+Dann können Sie keine Hinterschneidung machen.
+Dann gehen Sie nicht raus.
+Hier habe ich es rot eingezeichnet, da sieht man den Teilungsgrad, den sehen Sie beim Metallbauteil
+immer, den sehen Sie aber auch teilweise beim Kunststoffspritzguss, diese Formteilung, an
+mit dem man die beiden Formhälften zusammenfügt, wird als Trenngegner bezeichnet.
+Und im Ergebnis entsteht dann hier so ein Teilungsgrad.
+Da sieht man so eine kleine Linie.
+Also bei dem Fußstück ist darauf zu achten, dass es entformt werden kann.
+und dass man
+Unterschneidungen in der äußeren
+Geometrie verhindert.
+Im Kern kann man sie abbilden.
+Okay, gehen wir mal durch so ein Projekt durch, wie das ungefähr aussehen kann und wie man
+Und daraus Informationen gewinnt, wie so eine Gießerei sozusagen vorgeht.
+Da oben ist ein Deckel, der hergestellt werden soll.
+Der ist jetzt daraus zu überprüfen, wie man ihn gestaltet.
+Hier sind bearbeitete Oberflächen angezeichnet.
+Dieses Zeichen, dieses Zeichen, bearbeitete Oberflächen.
+Wenn Sie so ein Bauteil auf dem Vollen herstellen, zum Beispiel durch einen Fräs- und Drehprozess,
+würden Sie was machen?
+Sie würden das wahrscheinlich hier oben irgendwo spannen und dann entweder mit dem Felser drüber gehen
+oder mit dem Kreislinger abdrehen.
+Und Sie würden nie im Leben hier eine Formteilschräge anbringen.
+oder hier eine Formteilstelle gibt,
+weil das keinen Sinn macht.
+Wir würden diese Fläche gerade eben abdrehen nach außen,
+oder fräsen.
+Dann haben Sie einen rechten Winkel.
+Beim Gießen muss man darauf achten,
+dass dieses Modell, das hergestellt wird,
+dieses Modell eine Entformbarkeit besitzt,
+weshalb es in dieser Richtung Formteilstellen hat.
+Wenn ich den oberen Formteilkasten abnehme, muss ich ja das Bauteil, die Form und das Modell entnehmen.
+Und deshalb braucht dieses Modell diese Formteilschrägen.
+Und jetzt achten Sie darauf, wenn das Modell mit dieser Oberkasten abgehoben wird, brauche ich die Formteilschräge.
+Wenn nachher das Modell aus der Form entnommen wird, brauche ich hier diese Schräge und diese Schräge und diese Schräge.
+Diese Schrägen werden zusätzlich angebracht, um das Modell entformen zu können.
+Das ist unnötiges Material im eigentlichen Sinne.
+Es geht aber nicht ohne dieses unnötige Material im Anführungszeichen im Fertigungsprozess.
+Hier hat man das gemacht mit einem sogenannten hängenden Ballen, Formteilschräge in der Richtung.
+Und die dreht sich da unten, damit man nachher als Modell entnehmen kann, wenn man den Oberkasten entnommen hat.
+Wird das dann extra dazugerechnet und dem Nachhinein dann weggeschnitten?
+Oder muss man dann damit leben, dass das so ist?
+Richtig. Man lebt in der Regel damit, dass es so ist.
+Deshalb ist es beim Leichtbau mitunter ein Problem, weil Sie Formteilschrägen brauchen.
+Sie brauchen ja auch die Maßzulage für die Schwindung, diese 1%,
+die das Bauteil sich dann später noch zusammenzieht, bis es maßhaltig ist.
+Das bedingt, dass die Fertigungstoleranzen im Prozess schlecht sind.
+Sie könnten jetzt da im Prozess auch diese Bohrungen da anformen,
+wird aber ein riesen Aufwand. Deshalb geht man dazu über, dass man zwar Endkontur nahe ist,
+aber Fertigung, um die Fertigung überhaupt zu ermöglichen, diese Formteilschrägen drauf und
+die werden dann in der Regel nicht weggenommen, weil das ja ein zusätzlicher Prozess ist. Dann
+müssen sie ja auch, hier ist es egal, die hier, die wird ja bearbeitet, da wird die
+Klamm eben gedreht und diese Oberfläche ebenfalls. Aber die wird nicht weggenommen, die wird
+nicht, das wäre ein zusätzlicher Bearbeitungsschritt. Das kostet wieder Geld. Macht man dann in
+der Regel nicht. Sie sehen dann ein Bauteil, was gebrochen ist, ich bringe da nächste
+Woche mal ein paar Muster mit. Da können Sie sich mal anschauen, immer diese Formteilstellen
+und dann kann man sich vorstellen, wie das in der Form drin gesessen ist, das Modell.
+So, wie das Bauteil hergestellt wurde.
+Das war jetzt diese Überlegung, das so zu erleben.
+Dann werden da noch die Speiser angesetzt, die Speiser als größter Querschnitt,
+damit Material nachwiesen kann, um die Schwindung auszugleichen.
+Also Speiser oder Steiger, ein Füllkörper, welcher die Erstarrungsschwindung nachspeisen soll,
+um die Volumenkontraktion auszugleichen und damit die Junker zu vermeiden,
+beziehungsweise die Speiser haben nachher die Junker.
+Haben Sie den Einbruchspflichter da stehen?
+Wen?
+Einbruchspflichter?
+Den hat es ein bisschen verrückt.
+Nein.
+Das ist jetzt Seite 15.
+Da muss ich noch ergänzen, Einbruchspflichter.
+Weil letzte Woche die Präsentation ein bisschen vom Format her angepasst,
+Hier hat man das jetzt anders gelöst, auch hier wieder diese Formteile,
+und die relativen Bewegungen zum Öffnen und Abheben des Oberkastens
+sowie zur Entnahme des Formteiles brauchen diese Formteilschrägen.
+Hier sieht man das jetzt.
+Hier wird der Kern eingelegt, hier sind die Formteilschrägen,
+hier ist die Formteilschräge, hier, hier, hier.
+Und an der Stelle kann man jetzt zwei Bauteile formen
+mit dem eingelegten Kern auf der gleichen Fläche.
+Damit kann man zum Beispiel die Produktivität steigern.
+Nur ein Beispiel, dass am Ende des Tages viele Wege nach Rom führen.
+So ein Kern ist natürlich entsprechend teurer, aber wenn man seine Produktivität steigert,
+können die Kosten pro Stück dann unter Umständen reduziert werden.
+uns gleich mal so einen Daumenkino an, wie das Ganze ausschaut und ich hoffe, die Präsentation
+funktioniert auch. Hier ist so ein Bauteil. Die machen jetzt alle Fertigungszulagen für
+den Fertigungsprozess. Man muss dann gucken, welche Flächen müssen bearbeitet werden.
+Wenn Sie Passungen haben im Maschinenbau, müssen Sie die Fläche immer bearbeiten.
+Das kriegen sie in Gießen nicht hin. Hier sieht man das jetzt. Das ist ein Bauteil, das ist ein Modell, hinten dran ist jetzt das Gussteil.
+Um die inneren Bauteilkonturen abbilden zu können, muss hier der Kern da sein.
+Der Kern, das ist das Fertigteil mit Hohlräumen.
+Und da hinten ist das Modell.
+Bei dem Modell werden Kernlager, dort wo der Kern unterstützt und eingelegt wird, ebenfalls eingeformt.
+Das heißt, es sieht immer ein bisschen anders aus.
+Hier sieht man das Bauteil, hier die Formteil-Trennebene.
+Da sehen Sie das.
+Das hier ist der Teilungsgrad. Das ist der Punkt, wo Ober- und Unterkasten aufeinander sitzen.
+Und hier folgt dann so eine Konstruktion, da oben Speiser aufgesetzt, das ist das Modell für den Unterkasten, das für den Oberkasten, Angussystem wird platziert.
+Damit ist das so fertig und wird eingeformt. Jetzt hat man hier eine Dauerform aus dem Kunststoff, glaube ich könnte das sein.
+Das ist GF Georg Fischer, also große Gießerei. Da machen wir auch Kunststoff-Sachen, beispielsweise.
+Und das wird jetzt in den Sand eingeformt. Und man muss darauf achten, dass es in Form werden kann.
+Da sind die Speiser zu erkennen.
+Eins, zwei, drei, vier Stück.
+Dann kommt das Gießsystem, was angeformt wird.
+Das kommt in den Oberkasten zur Hälfte.
+Gießprozess, Temperaturen 200 bis 2000 Grad, das heißt es sind sehr hohe Anforderungen,
+aber dieser Sand muss das Modell konturgetreu abbilden und muss diesen Beanspruchungen beim
+diesen Stand halten und die sind divers. Das ist ein metallostatischer Druck aus der Schmelze.
+Dieser Druck ist immer eine Frage der Flüssigkeitshöhe und der Dichte der Schmelze. Die Dichte der
+Schmelze, der Metallschmelze ist sehr hoch. So dass zum Beispiel, wenn Sie so einen Sandkern
+haben, der in der Schmelze liegt, kriegt der immer Auftrieb. Er wird nach oben gedrückt,
+weil er niedrigere Dichter hat, der will schwimmen in dieser Schmelze.
+Er darf aber nicht zusammenbrechen oder reißen oder auseinanderfallen.
+Erst dann, wenn das Produkt fertig ist und die Schmelze erstarrt.
+Deshalb Anforderungen an den Reformstoff.
+Temperaturbeständigkeit 200 bis 2000 Grad Celsius.
+Temperaturbeständigkeit.
+Er soll möglichst wenig Reaktionen mit der Schmelze zeigen.
+Um dieses Inert zu machen und herzustellen, werden Sandformen ganz häufig mit einer Schlichte überzogen.
+Vielen Dank.
+Gasdurchlässig bei Gasbildung während des Gießens.
+Gute Zerfallseigenschaften nach dem Gießen und möglichst Schadstoffe.
+Was meint man mit Schlichte, also ist das dann so eine Schicht, die so drauf gesprüht
+wird, aber auch bei einer Sandfrau, die zerfällt ja trotzdem.
+Der Sand, der muss gebunden werden, dass er nicht auseinanderfällt.
+Man kann das mit Wasser machen und einem Bindemittel oder chemisch mit Harz und Härter.
+Dann hält der länger. Die Kerne werden zum Beispiel alle mit solchen chemischen Hilfsmitteln gehärtet.
+Und diese chemischen Hilfsmittel sind sehr häufig Dumpfstoffe, Formen, Furanharze, die während des Gießprozesses dann zerfallen und verpellen.
+Und danach zerfällt der Sand.
+Und diese Schlichte, das ist wie ein keramischer Überzug, auch der zerfällt nachher und wird aufgebracht.
+Der ist ganz häufig alkoholbasiert.
+Ich zeige Ihnen noch mal ein Video.
+Wenn Sie durch die Gießerei gehen, riechen Sie den Alkohol.
+Da steht ein Bad da, wo die Kerne geschlichtet werden.
+Links ist der Sandkern und rechts ist der braune.
+Der wird jetzt in eine Form eingelegt.
+Und da ist die Schichte drauf.
+Und die Schichte befindet sich in einem Bart.
+Hier sind die Kerne aus Sand.
+Die werden alle geschmissen.
+Damit die Oberfläche weniger empfindlich ist und angreifbar für die fließende Metallschmelze.
+Da ist diese Flüssigkeit.
+Und das wird auch teilweise, nicht immer, auf die Sandformen aufgebracht, weil dann passiert Folgendes.
+Die Schlichte ist alkoholrasiert.
+Da ist eine Schlichte drauf, da wird die Flüssigkeit auf die Form aufgebracht, um die Oberfläche
+zu schützen, um diesen In-Earth-Zustand herzustellen. Und jetzt kommt Feuer und der Alkohol verdampft
+dann, wie ein Verbrenner. Das geht dann schneller. Und dann haben sie diese Schutzschicht drauf.
+Keramik. Irgendwie so eine Keramik. Wir haben dann gesagt, wir machen das erste, wir schneiden
+Und trotzdem verfällt das nachher damit, dass am besten vorhanden ist, dass die Oberfläche
+sich nicht abgelassen wird.
+Es dauert da so eine Minute oder so, bis es abfällt.
+Dann steht der Dach im Streitkreuz, schmeißt das da hin und hat einen Gaudi gehabt.
+Dann gucken wir uns noch mal dieses Daumenkino an, wie der Prozess als solches aussieht.
+Seite 50 folgende.
+Das sind Präsentationen, die muss ich neu machen.
+Da sind ein paar Unterkasten, in denen wird ein Modell eingesetzt.
+Das liegt jetzt hier.
+Die Rundung ist kein Problem, die geht raus später.
+Jetzt sind die Kernlager da, hier, da zu erkennen, sorry, Kernlager, der andere liegt hier in der Ebene, da wird der Kern eingelegt, der bildet die inneren Bauteile von oben.
+Jetzt kommt ein feinkörniger Modellsand, der wird unmittelbar an die Form angedrückt.
+Dann kommt ein Hinterfüllsand, der wird da drauf gedrückt, der wird verdichtet, bis die gesamte Modelloberfläche abgedeckt ist.
+Und dann wird er oben abgezogen.
+Abgezogen, gedreht, jetzt sitzt diese untere Hälfte hier, das ist der Unterkasten, jetzt fertig und das obere Modell wird aufgesetzt.
+Dann kommt der zweite Kasten, der Form-Oberkasten, da kommt der Modellsand, dann kommt der Hinterfüllsand.
+Das Ding ist jetzt angeformt, wird oben abgestrichen.
+Was kommt jetzt als nächstes?
+Die Hälften werden geöffnet und die Bauteile, die Modellhälften entnommen.
+Tasten werden gedreht, werden geöffnet, Modelle werden entnommen.
+Deshalb muss man, bitte hinschauen, in der jeweiligen Entnahmerichtung die richtigen Formteilschläge anbringen.
+Wenn die Formteilschläge falsch rum sind, kriegen Sie die Dinger nicht raus, dann haben Sie eine Hinterschneidung.
+Also wenn Sie jetzt die Formteilschläge zum Beispiel hier so, wenn Sie die so machen würden, kriegen Sie es nicht raus.
+aus. Dann machen Sie Ihre Form kaputt. Das geht nicht. In den Außenkonturen Ihrer Modellhälften
+muss man Formteilschrägen anbringen und auf Entformbarkeit achten. Die werden dann so leicht
+angeklopft und lösen die sich und kommen aus der Form raus. Jetzt könnte man zum Beispiel die
+Schmichte noch aufbringen. Feuerzeug drauf, Fackel ab, die Formen sind geschmichtet. Was
+uns fehlt, sind die Kerne. Der Kern wird in einem anderen Prozess hergestellt, geschossen
+und wird dann in die Kapazität eingelegt, in den späteren Hohlraum. Die Formteilhälften
+werden ausgeblasen, der Sandkern wurde unter Umständen auch schon geschmichtet. Bauteil,
+Die Formteilhälften werden geschlossen, Schmelze wird eingefüllt, Schmelze gefüllt in statischer Guss, rein durch Gravitation fließt das ins Bauteil hinein.
+Wenn wir jetzt Schlacke haben, also irgendeine Sandablösung, schwimmen normalerweise dann im Bauteil oben drauf.
+Befinden sich hier dann zum Beispiel Speiser oder sowas, wenn es Abplatzungen gibt, haben wir dann aber nachher einen Fehler im Bauteil.
+Bauteil kühlt ab, zieht sich zusammen und die Kerne zerfallen dann.
+Und dann werden am Schluss die Speiser hier oben in diese Nachschlinge machen.
+Das Gießsystem wird dann abgetrennt und dann haben wir unser Bauteil.
+Einverstanden? Handform.
+Das Ganze gibt es auch als Maschinenformen, allerdings auch ist die Form hier nachher verloren.
+Der Sand fällt wieder raus.
+Hier macht man Festlegung der Teilungsebene.
+Man macht eine Modellplatte für den Oberkasten und für den Unterkasten.
+Hier ist der Unterkasten, hier ist der Oberkasten.
+Wir laufen auf einem Transportsystem in den Kreis und wir umhandformen, oben und unten jeweils offen und unten gegen Formflächen gefahren.
+Jetzt werden die beiden Muster eingelegt. Dann legt man hier die Speiser drauf oder macht einfach nur einen entsprechenden Raum für den Speiser.
+Hier ist ein Filter noch eingesetzt, damit irgendwas an Verunreinigungen aus der Schmelze, nicht nur das Bauteil, gelangt.
+Dann zusätzlich sieht diese Speise halt so aus.
+Das ist dieses Eisenoxid mit Aluminium, das reagiert und entwickelt dann Wärme.
+Zusätzliche Wärme führt dazu, dass die Schmelze hier in dem Bereich des späteren Speisers nochmal heißer wird und dann entnommen werden kann.
+Hier sieht man den Bauteil, hier ist die Teilungsebene, hier ist ein Kern eingelegt später, wahrscheinlich auch da unten irgendwie, ein relativ komplizierter Kern.
+Die Formbarkeit ist zu beachten und hier oben wird der Speiser aufgesetzt.
+Hier sind typische Filter. So einen habe ich auch im Büro im Einsatz bei meiner Eisenwieserei.
+So, hier wird ein Füllrahmen aufgesetzt, jetzt wird der Sand da reingeschossen.
+Immer an der gleichen Position. Es ist wie ein Fließband.
+Jetzt fällt der Prozesseinstieg weiter, dann kommt eine Verdichtung der ganzen Masse, um die Festigkeit herzustellen.
+Es kann im Nassguss oder im Trockengussverfahren gemacht werden.
+Es wird abgestritten, die Kästen werden rausgefahren, die Formen fahren wieder zurück zum Einsatz.
+Der Formkastengreifer nimmt die beiden Formteilhälften, legt sie an, der untere Kasten wird gedreht,
+Die beiden Kästen werden aufeinander gesetzt bzw. erst noch die Kerne eingelegt.
+Wenn man dann den Kern eingelegt hat, den Kasten schließt, die Bohrung ist angebracht,
+Bauteil wird gefüllt, Schmelze wird eingetragen, dann schwimmt dieser Kern ja nach oben.
+Der hat eine Aufwärtsbewegung, die er machen will.
+Dazu kann man zum Beispiel jetzt die Kerne abstützen.
+Da habe ich ein Bildchen dazu.
+Eine, zwei Frauen müssen wir sehen.
+Hier sieht man nochmal eine schlichtere Hühne, zusätzlich auf den gebundenen Sand.
+Der Sand ist jetzt hier schwarz, das ist wahrscheinlich ein Binder, der im Einsatz ist.
+Wie sieht man das?
+Die Kraten, wo so ein Material, das da reingeflossen ist, hier ist das Material auch in die Formteil-Trenn-Ebene reingegangen.
+Da die beiden Kästen sich natürlich auseinanderdrücken, wenn die Schmelze da drin ist und der Tiefstdruck vorhanden ist,
+über die Flüssigkeitssäule, die dort herrscht, diese Krater werden entfernt nachher.
+Das muss alles abgeputzt werden.
+Amen.
+Egal. Sie können hier an der Position hier oben, können Sie ein Kernlager, der stabilisiert den Kern gegen den Aufstieg.
+Das ist ein Metall, das nachher mit eingeschmolzen wird, um diesen Auftrieb zu stabilisieren, damit der Kern nicht bricht, weil der dann auch eine Beanspruchung durch den Gießdruck bekommt.
+Jetzt kommt die Schmelze, wird abgelösen, kühlt aus, zieht sich zusammen.
+Dann kommt eine Position, wo die beiden Formkästen sich öffnen und der Sand gerüttelt wird.
+Der fällt dann auch aus dem Kern raus.
+Diese Führung, weil er Eisengießerei gemacht hat, sie müssen auch auf die Formbarkeit des Kernes achten.
+Dann kommen sie nachher den Sand, der im Bauch hat, nicht mehr raus.
+Die Firma Mercedes hat ein Patent, ich weiß nicht, ob das aktuell noch geschützt ist, die machen Salzkernkerne.
+Da werden Kerne aus Salz hergestellt, in hoher Temperaturstimmigkeit.
+Danach wird das Bauteil in Wasser gelegt und das Salz löst sich auf.
+Und man sieht auch einen Kreislauf, den man draußen machen kann.
+Entnahme, Entfernung von Speiser und Gießsystem.
+Hier ist ein Bild von so einer Formanlage, wo die verschiedenen Stationen dargestellt sind.
+Hier werden über mehrere Stationen hinweg die Kerne eingelegt.
+Hier sieht man das auch.
+Kerne werden eingelegt, Gießsystem ist platziert.
+Das ist der Unterkasten, da liegen Kerne drin, da kommt nachher der Deckel drauf.
+Oberkasten und dann kann man die verschiedenen Stationen hier nochmal darstellen.
+Das ist klassisch ein Fließband.
+An einer Position hier.
+Hier wird immer gegossen.
+Hier wird immer gegossen.
+Hier wird der Eingussrichter immer gebohrt.
+Hier werden gefüllt und verdichtet.
+Ober- und Unterkasten.
+Hier gibt es einen Kernnagel, an dem die Kerne eingegeben werden.
+Dann wird zugelegt und nachher ist das Bauteil fertig.
+Es gibt mehrere Stationen, über die hinweg die Bauteile dann abkühlen, dann in Form.
+Die Kästen laufen permanent umeinander im Kreis.
+In der Regel gibt es einen Binder, der den Sand mit Wasser zu einem bildsamen Formsand macht.
+Sand, Ton, das Bentonit, so ein typisches Material, Katzenstreu, ein Beispiel für Bentonit,
+Das ist ein Schichtsindikat. Katzenstreu nimmt sehr viel Feuchtigkeit auf und nagert das in den Schicht-Sindikaten ein.
+Das heißt, es ist ein Kreislauf, der näher oder hinterher geschlossen ist.
+Gegenüber dem Sandbus, okay, das wäre noch das Sandgießen.
+Wagen dazu.
+Formteil schlägen, auf Entformbarkeit achten, Kerne einlegen, Kerne ausweichen, stabilisiert,
+Schlichte ist aufgebracht und die Anforderungen an diesen Zahn sind sehr wichtig.
+Werden die Kerne reingelegt oder werden sie dann festgehalten?
+Sie haben Kernlage. Sie sehen das hier im Bild.
+Sie können natürlich nicht freiwillig schwimmen. Sie müssen stabil gelagert sein. Schauen Sie,
+das ist das Formteil. Da ist die Trenn-Ebene, die läuft da so rum. Da liegt der Kern drin,
+der kommt da raus und der kommt da raus. Und das Modell, was ich habe, da sind ja diese Kernlager
+schon angeformt. Jetzt wird der Kern von oben in die untere Modellhälfte eingelegt, von oben kommt
+der Kasten drauf und damit sind das hier die späteren Kernlager. Da liegt der Sand in der
+Ober- und Unterhälfte und formt dann die innere Bauteilkonstruktion.
+Also liegt es da sozusagen drinnen?
+Es liegt drinnen in den beiden Hälften und wird vom Ober- und Unterkasten mit festgehalten.
+Und was man zusätzlich machen kann, das ist ein Bild, das ich zeigen wollte,
+weil das hier, das könnte ja trotzdem aufschwimmen nach oben, weil da ist ein Freiraum.
+Da legt man so einen metallischen Abstandshalter rein, der stabilisiert ihn,
+Wenn der jetzt die Schmelze nur bis zur Hälfte gefüllt ist, will der ja trotzdem nach oben.
+Dann haben sie so ein metallisches Lager da oben, was den runter hält, damit der Kern sich nicht
+nach oben aufschwimmen kann. Ich wollte das jetzt zeigen. Ich habe das Muster da, kann ich das nächste
+Mal mitbringen, zeige ich Ihnen das nochmal. Kann man da aber nicht irgendwas reinlegen, was dann
+mit der Schmelze? Genau, das ist so ein metallisches Bauteil, das nachher eingeschmolzen wird. Das muss
+Nur so lange wirksam sein, solange von oben her nicht die Schmelze da komplett diesen Kern entgibt.
+Weil er nach oben gedrückt wird.
+Wenn er dann komplett umschlossen ist, will er zwar auch nach oben,
+aber dann ist in der Regel schon der Prozess stabiler.
+Ich suche das jetzt nochmal raus.
+Vielen Dank.
+Hier ist der Kern gelagert, das ist der Flächenraum, der entsteht, das ist dann nachher der Durchgang
+Im Bauteil, im Loch, der Kern zerfällt und das sind diese Unterstützungslager.
+Da wird dann nachher der Oberkasten draufgesetzt, der umschließt das hier genauso.
+Hier ist dann der Hohlraum, wo die Schmelze reinfließt.
+Dieser Kern will nach oben aufstürmen und deshalb hat man diese Kernlager und drücken gegen die darüberliegende Form.
+Den Oberkasten und die Sandform.
+Dann bleibt der so lange stabil, bis das Erstaffen fertig ist.
+Das machen Sie mit dem Rezept, mit den Harzen, die das System dann zum Aushärten bringen.
+Und dann zerfällt das auch super.
+Sie können den Rand wieder verwenden.
+Hier wird ein Ring abgedichtet, falls dann doch Schmelze in diese Quellebene reinläuft.
+Sie haben vorhin diese Krate gesehen.
+Das passiert, wenn der Oberkasten ein bisschen aufgewogen wird.
+Dann läuft hier Schmelzer rein, damit die hier nicht austritt, wird zusätzlich abgedichtet.
+Weil da kann es schwere Unfälle geben, das wird zusätzlich verhakt und verkantet, damit das geschlossen bleibt und diesen Gießdruck standhalten kann.
+Hier könnte man das auch machen, dass man quasi den Kern stabilisiert mit so einem Abstandshalter.
+Das hängt dann vom Bauteil ab.
+Hier wird darauf eingegangen, wie das Ganze umgesetzt wird bezüglich der Chemie.
+Wir haben also Formstoffe, die aus verschiedenen Komponenten bestehen.
+Diese Komponenten, hier vorne die Sander, die eingesetzt werden und hier die Formstoffbindemittel.
+Das ist das, was typischerweise gemacht wird.
+Das ist Ton.
+Das ist ein Material, das den Sand aufnimmt
+und sozusagen den Sand mit Feuchtigkeit verklebt.
+Wie die Sandkurven, die man am Strand baut.
+Nur ein bisschen fester und formbarer.
+Und wenn da durch die Hitze des Gießens das Wasser rausgeht,
+zerfällt der Sand.
+Wie die Sandkurven dann später in der Sonne.
+Das sind unterschiedliche Verfahren.
+Silikate sind am üblichsten, also diese Tonsacken.
+Und Kunstharze, insbesondere Furanharze, sind auch beliebt,
+weil da können Sie die Mischung so einstellen,
+wie die Temperaturbelastung durch die Schmelze stattfinden wird.
+Diese Silikate unter 1, die machen eine physikalische Bindung,
+die ist reversibel.
+Und bei den Kunstharzen werden diese Harze, die hier diese Reaktion ausmachen, die werden im Prozess verbrannt.
+Die werden also chemisch abgebaut und sind dann auch sozusagen reversibel.
+Hier haben wir so ein zusätzliches Nassguss-Formverfahren oder Vertischung.
+Hier die Chemie, zum Beispiel Gips, Form und Kern, werden in einer kalt- oder heißherrnbühnen Variante gebacken.
+Diese chemische Bindung, die ist zusätzlich viel stabiler, weil sie ähnlich einem Chloroplast agiert.
+Das sind physikal-chemische Verknüpfungen.
+Falls der Begriff irgendwie schon mal gehört wurde, das sind sogenannte Taubvalenzen.
+Die sind chemisch viel stabiler als die Nebenvalenzen.
+Taubvalenzen sind chemisch.
+Nebenvalenzen sind viel kleinere Kräfte.
+Die sind physikalisch.
+Und diese Foranharze sind sehr, sehr viel stabiler.
+Hier ist ein zusätzliches Bild mit verschiedenen Varianten.
+Verkrüftungsverfahren, die eine physikalische Bindung haben.
+Ein Beispiel dafür wird das gleiche betrachtet, das sind die sogenannten Formstoffe auf Basis Sand und einem Ton Wasser gemischt und zusätzliche Zusatzstoffe, die die Verarbeitung erleichtern.
+Und der Prozess, über den diese Bindungen stattfinden, sind sogenannte Binderbrücken, die spezifikalisch sind.
+Haben Sie das alles?
+Ich kann ja mal ein bisschen Arbeit machen.
+Amen.
+Amen.
+Der Formstoff muss verdichtet werden.
+rütteln, fressen, vibratieren, über Luftdruck oder Warten um, kommt ins gleiche Beispiel,
+sodass diese Sandkörner besser aneinander haften. Gehen wir das nächste Mal so ein paar
+Kerne mit, dann können Sie mal sehen, wie stabil das Ganze ist. Diese Stabilität muss
+nur temporär sein, weil wenn das Gießen abgeschlossen ist, soll das auch wiederum zerfallen.
+Hier ist ein Beispiel mit einer Fertigungsfolie. Ich habe ein Modell. Das Modell kann zum Beispiel aus einem Kunststoff sein. Hier ist eine Folie.
+Diese Folie wird warm gemacht und lässt sich verformen. Sie wird über diese Form gelegt und über einen Vakuum legt sich diese Folie genau in der Kontur dieser Form an.
+Wenn man das Vakuum dann wegnimmt, bzw. wegnimmt, bleibt die Folie, die jetzt kalt ist, an dieser Oberfläche haften.
+Jetzt füllen Sie hier einen Sand ein.
+Sie haben die abdichtende Folie nach unten.
+Sie haben eine Deckfolie da oben drauf und können über den Oberkasten jetzt die Luft rausziehen.
+Was heißt das?
+Diese Sandkörner kommen näher aneinander und werden verdichtet.
+Jetzt kriegt der Sand die Festigkeit, die er braucht.
+Jetzt brauchen Sie hier kein Wasser und kein Ton als Bindemittel, sozusagen als Klebstoff,
+sondern Sie ziehen in dem Verfahren die Luft zwischen dem Sand heraus.
+Der verdichtet sich, bringt eine hohe Festigkeit mit sich und damit haben Sie dann zum Beispiel hier einen Oberkasten,
+später einen Unterkasten oder umgekehrt und können da rein gießen.
+Die Folie verbrennt.
+Der Sand wird in dem Moment, wenn das Vakuum weg ist, instabil und zerfällt.
+Und kann wieder verbrennen.
+Diese kleinen Verbrennungsreste der dünnen Tiefziehschule, die kann man in Kaufen tragen.
+Das ist nur ein Beispiel.
+Wir werden beim EPS, beim Schaumguss, beim Gießen von extravierten Kohlen-Styrol,
+werden die Modelle in der Form verbrannt.
+Wir sind ein Kunststoffmodell, es wird in einen Sand eingelegt.
+Der Sand wird dort durch Rütteln nur verdichtet.
+Und die Luft dann auch aus. Während des Füllprozesses rüttelt und wackelt diese Form.
+Und damit kriegt man diese temporäre Festigkeit in dieser Form hin.
+Das war das Beispiel Fluoranharz.
+Härter und Harz werden in flüssiger Form dem Ganzen hinzugesetzt und das härtet bei Raumtemperatur aus.
+Mittels eines Katalysators. Das kann zum Beispiel ein Gas sein.
+oder mit organischen Bindemitteln, Keramik, Traumverfahren.
+Letzte Folie, ich muss vielleicht noch kurz mitschreiben.
+Das ist immer wieder auch eine Frage, erläutert sie den Unterschied zwischen einer kalbherrnenden und heißherrnenden?
+Form, sogenannte Hotbox-Verfahren, Formbox mit organischen Binder wird in heiße Formkästen geschossen und temperaturgesteuert verfestigt.
+Sie schießen den heißen Sand in eine Form, wo ein organischer Binder eine Reaktion mit sich bringt.
+Vielen Dank.
+Vielen Dank.
+Also wichtig, die Bindung, die wir jetzt hier haben, ist temporär, egal ob das chemisch
+oder physikalisch ist. Wenn ich eine hohe Temperaturbelastung habe, geht man eher auf
+die stabilere chemische Bindung, geht man auf Hauptbalenzen, die länger halten und
+Nebenbalenzen, die sind sogenannte Binderrücken, die physikalischer Natur sind. Wenn das Wasser
+verdampft, dann zerfällt der Sand. Und die Binde mit der Funktion von dem Ton ist nicht
+mehr gegeben. Das ist das, was man haben möchte, eine temporäre Festigkeit und die Anforderungen an den Sand, die wir hier vorne anfänglich definiert haben.
+Das ist auch immer mal gefragt bei der Prüfung, die Anforderungen an einen Farnsack.
+Und die sind dann, wir werden nächste Woche dann uns die Anforderungen für die Kerne anschauen.
+Die sind ähnlich.
+Die Art und Weise, wie man da rumkommt, ist in der Regel ein bisschen unentschuldlich,
+gibt aber keine große Rolle.
+Achtung.
+Dann danke für die Aufmerksamkeit und darf ein schönes Wochenende wünschen.
+Das war's.
+Vielen Dank.

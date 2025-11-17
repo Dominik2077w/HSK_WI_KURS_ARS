@@ -1,0 +1,987 @@
+Ich möchte nochmal ein bisschen, wie funktioniert Lasertechnik überhaupt?
+Ja, das würde nicht perfekt sein.
+Genau als ich erinnere, gab es dieses Bild mit den beiden Spiegeln auf beiden Seiten,
+wo die...
+...hergeschlossen werden.
+Die stoßen dann die ganze Zeit gegen irgendwelche Atome und dadurch wird mehr Energie frei.
+und einer der Spiegel
+ist teildurchlässig
+und daraus kommt
+dann der Leberstrahl.
+Der wird dann nochmal gebündelt
+und produziert,
+damit er möglichst
+präzise auf den Punkt kommt,
+den wir haben wollen.
+Und dafür braucht es halt Energie.
+Sehr gut, okay.
+Dann lösen wir nur noch kurz
+den Anfang so ein bisschen auf.
+Elektronen, ja, aber die sollen
+Fall nur im Atom auf eine höhere
+Energieebene runterfallen
+und dann sind es die Photonen.
+Also, die Energiequelle,
+die wir
+am Leber nutzen, ist ein Photon,
+was, genauso wie Sie es beschrieben
+haben, entsprechend gerichtet
+in so einem sogenannten
+Renmonator entsteht und
+als solches dann über
+weitere Energiezuführungen
+dieser ganzen Prozess immer weiter
+energetisch hochgepumpt
+wird, so nennt man das tatsächlich auch,
+um dann an der Stelle möglichst viele Kilowatt auf der anderen Seite da rauszubekommen.
+So, das ist ein bisschen der Unterschied, der wird in sowieso bestimmt mal fokussiert.
+Und das ist eben genau der Clou an der Sache nochmal,
+dass da so wahnsinnig viel Energie tatsächlich an einem kleinen Punkt rauskommen kann.
+Und das ist eben der Unterschied zum klassischen Radbogen,
+der seine Energie ja durchaus im Millimeterbereich quasi verspreut.
+und damit im Vergleich zum Photon, was eben auf ein Zehntel Millimeter fokussiert wird,
+eine ganz andere Ausrichtung letztlich hat.
+So, dann muss ich das am Bauteil, letztlich dieses Photon, einkoppeln,
+was üblicherweise in diesem entsprechenden Metall auch irgendwie passiert, was dann auch verdampft.
+Und wir nennen das sogar auch Plasma.
+Das war so ähnlich wie das beim Lichtbogen, nur das Plasma.
+ist letztlich auch wieder so ein ionisiertes Gas,
+was aber in dem Fall meine Photonen wieder aufnimmt.
+So, also das war die Entstehung.
+Und was sind die Anwendungen?
+Was machen wir mit den schönen Teilen?
+Wir können eben sehr präzise schweißen.
+Das hat man ja gesagt, Schweißen ist das Thema.
+Wir können aber auch schneiden, bohren, härten.
+Wir können alle möglichen anderen Materialbearbeitungsgeschichten auch machen.
+Bleiben wir mal ruhig beim Schweißen.
+Hier geht es eben darum, das sind so Getriebeteile mitgebracht, eben sehr effizient quasi, was Verzüge angeht, hier unterwegs zu sein, indem ich eben sehr kleine, feine Nähte habe.
+Das war das Getrieberad, wenn das eben klassisch geschweißt worden wäre, würde es im Getriebe einfach entsprechend scheppern, weil es eben die Verwandten nicht erbricht.
+Genau, Sie haben da auch das Bild gerade noch gezeigt, es ging eben bei den ganzen Lasertechniken auch darum, dass ich in diesen monösen Plasma-Dampfwolke auch tatsächlich tiefer schweißen kann, wie breit.
+Jeder Lichtbogen, irgendwie Energie auf der Oberfläche heißt, die Energie geht zu beiden Seiten, also auch an der Oberfläche zur Seite und eben in die Tiefe, aber dann habe ich eben eine Naht, die eben in beide Richtungen gleich dick ist und Laser kann einfach tiefer schweißen.
+Und das wäre der Merker gewesen und dann sind wir vom Laser nochmal geswitcht auf den Elektronenstrahl.
+Das war einfach gesagt, auch nichts anderes.
+Und für Sie dann eben auch wieder von der wirtschaftlichen Ebene gesehen,
+die beiden sind von ihren Eigenschaften in vielen, vielen Dingen vergleichbar.
+Im Detail, denn haben Sie natürlich hier und da Alleinstellungsmerkmale,
+ein paar darf man zeigen, das zeige ich Ihnen auch gleich nochmal,
+aber letztlich steht im Wettbewerb,
+wir müssen beim Maschineneinkauf immer gegeneinander antreten.
+Also wenn ein VW, ein BMW oder wer auch immer wieder irgendwelche Getriebeteile machen will,
+gucken die eben, welches von diesen beiden Verfahren da vielleicht angesagt ist und welches nicht.
+Und vielleicht kann ich mich auch noch daran erinnern, ich habe beim Leser gesagt,
+das war, genauso wie der Elektronenstrahl, eigentlich immer ein sehr teurer Prozess.
+Weil Kilowatt, die konnten mal 100.000 kosten, dann haben sie 50.000 gekostet,
+Jetzt kostet es irgendwie 30.000 das Kilowatt und so eine ganze Schutzgasanlage, die war ja gerade mal so 10.000, 15.000 Euro teuer.
+Also schon mal, und da habe ich nur ein Kilowatt, da habe ich noch nicht irgendeine Maschine drumherum.
+Das heißt, man redet ja bei Laseranlagen immer davon, dass sogar Millionenbeträge für Anlagentechniken ausgegeben werden mussten,
+weil ich auch Präzision und all diese Dinge noch mit drin hatte.
+Ja, und deswegen im Anlagenkauf natürlich auch nett, wenn ich noch einen Elektronenstrahl habe, wenn ich irgendwie noch gewisse Vergleiche habe, weil technologisch gesehen wird das Ganze eben sonst schwierig.
+Wie sieht denn das überhaupt aus, wenn Sie so eine Anlage verkaufen wollen? Machen wir doch mal das Spielchen andersrum.
+Sie sind jetzt Anlagenverkäufer für Lasertechnik. Wie würden Sie dem VW jetzt sagen, es muss jetzt Ihre Laser sein und nicht der Elektronenstrahl von der Nachbarabteilung?
+Gut, Schnelligkeit würde ich jetzt tatsächlich, jetzt wieder an das Einkaufen sagen, die sind
+eigentlich beide ziemlich identisch.
+Die sind beide viel schneller als die klassischen Lichtbogentechniken, ja, aber für mein Produkt
+nehmen die sich nichts.
+Haben Sie noch ein paar andere Argumente für Ihren Leser?
+Präziser?
+Präziser tatsächlich auch nicht.
+Sogar der Elektronschall vielleicht ein bisschen besser.
+Haben Sie nicht immer noch nicht.
+Kleine Naht?
+Wie?
+Die kleine Naht?
+Die kleine Naht, sehr identisch, Elektronschall wieder besser.
+Ja, dann muss der Wiederverkaufswert verrichten.
+Oh, Wiederverkaufswert.
+Auch ein nettes Thema, ist aber tatsächlich so, dass eine Elektronenstrahlanlage fast unkaputtbar ist, ein Laserschon.
+Das heißt, auch da würde ich eher die Punkte beim Elektronenstrahl sehen.
+Was könnte Ihnen denn noch vereinfachen?
+Wenn Sie sich mal an die Theorie beim Elektronenstrahl erinnern, wo ich letztes Mal mit angefangen habe,
+Da hat sie nun ja hier die Bildröhre gezeigt, so ein Fernseher, beziehungsweise, dass das Ganze natürlich vom Aufbau her,
+sag ich mal, erstmal komplex aussieht, aber tatsächlich in seinen Magnetlinsen sowas könnte austauschen, auch sowas.
+Also, das ist jetzt rein von der Physik her kein großes Hexenwerk, aber was hatte ich dazu gesagt, was der Elektronenstreit unten braucht?
+Das war die Theorie. Elektronenstrahl war das Thema, keine Photon zu haben, sondern jetzt noch ein Elektron, was als Masseteilchen genutzt würde, um seine kinetische Energie, also seine Beschleunigungsenergie quasi in Darmung zu nutzen.
+Also physikalisch unterscheiden die sich, obwohl die Wirkung ja schon ziemlich vergleichbar ist.
+Das heißt, dass ein Elektron hier auf mein Bauteil fliegen kann, steht jedes Luftmolekül im Weg.
+Das heißt, da können Sie hunderttausende von Elektroden draufschießen, die kommen auch gar nicht ein, weil sie über Luft schon abgelenkt werden.
+Also braucht das Verfahren eine Vakuumanlage.
+Es braucht Vakuum, damit das Elektron überhaupt mal ein Bauteil erreicht.
+So, und Sie als Dächerverkäufer würden auch ganz automatisch sagen,
+ja, ich habe das mit meinem Photon nicht das Problem,
+die Elektronenstrahleute hätten jetzt auch das Problem mit dem Vakuum.
+Das wäre jetzt ein technisches Argument.
+Wie würden Sie das technische Argument vielleicht auch kommerziell oder wirtschaftlich
+Das heißt, da braucht es ja entsprechend Anklagentechnik, jetzt widerspreche ich genau
+wieder, Anklagentechnik brauche ich, aber tatsächlich ist das Vakuumherstellen, also
+der Strompreis für das Vakuum, weniger wie ihr Schutzgrad beim Laser kostet.
+Man braucht auch aus- und umzeigliche Stützfülle in der Dichtung, was das Waffen nicht braucht.
+Und man kann nicht unendlich große Bauteile verwenden.
+Genau, also das ist für ein Wiederverkaufsnetz vielleicht doch ein Thema, weil wenn ich die denn woanders einsetzen will, vielleicht in der Firma, dann passen die nicht mehr rein, weil sie zu klein sind.
+Ja, völlig richtig. Aber das würden wir das tatsächlich auch anführen.
+Jetzt komme ich aber wieder aus der Elektronenschall-Seite und sage, ja, macht ja sein, aber mein Wirkungsgrad ist deutlich besser, wie Ihr Leser hat.
+Das heißt, mein effektiver Stromverbrauch für die gleiche Aufgabenstellung ist deutlich niedriger, obwohl ich pumpe.
+Ich habe mein Elektronenschall-Wartungssystem, ist damit eigentlich mit bezahlt.
+Unterm Strich verbrauche ich weniger Strom, wie Sie mit Ihrem Leser.
+So, was wollt Ihr noch ein?
+Geben Sie es schon auf oder noch nicht?
+Dann müssen wir vielleicht doch mal wirtschaftlich rechnen und müssen überlegen, was kostet Ihnen jetzt der Elektronenstrahl und was kostet Ihre Jesa?
+Da habe ich ja eben schon angesetzt, diese Kilowatt-Teile sind mittlerweile am Sturzflug.
+Man kann es gar nicht anders sagen, jetzt wird sie heute in der Branche schon von 5.000 Euro oder sowas geregelt.
+Und wenn ihr jetzt ihre Aufgabenstelle vielleicht nur 3-4 Kilowatt braucht,
+reden wir dann eben auch nur noch von 20.000-30.000 Euro für die entsprechende Lasererzeugung.
+Gut, Anlagentechnik brauchen sie auch, aber die braucht der Elektronenschall letztlich auch.
+Das heißt, unterm Strich verschiebt sich dieses Thema Investkosten zumindest schon mal ganz klar zugunsten der Lasertechnik.
+Und dann ist eben die Frage bei den heutigen Strompreisen, ob das besser an Verbrauch, also an Wirkungsgrad, dann überhaupt mal eine Rolle spielt.
+Soweit klar, ein kleines Planspielchen, was man klassischerweise, sage ich mal, in dieser Wettbewerbssituation entweder argumentiert
+und versucht irgendwie, seine Verfahren, was man eben selber verkauft, muss natürlich besser sein,
+weil sonst klingt es nicht verkauft an der Stelle.
+Aber tatsächlich ist das eben die große Kunst,
+sage ich mal, eben auch tatsächlich für den Kunden,
+für das jeweilige Bauteil, genau die Nuance zu finden,
+die eben fix entscheidet an der Stelle.
+Die eben ihr Gegenüber dazu nötigt,
+eben ganz klar hier zu ihren Gunsten zu entscheiden.
+Gut, bleiben wir auch schon einfach beim Elektronenstrahlen.
+also das war ja die Geschichte
+Herstellung ja
+aber wir brauchen dann eben
+irgendeine Kamera, weil wir ja ein Vakuum haben
+wir hatten ja auch festgestellt
+da ist ja nicht nur so ein Elektronenstrahl
+sondern wenn der Elektronenstrahl
+gehen wir noch einmal zurück
+wenn der hier irgendwie
+auf unsere Oberfläche trifft
+So, wenn er da eben drauf trifft, dann entstehen eben nochmal Röntgenstrahlung zum Beispiel.
+Es entstehen rückgestreute Elektronen, das hat man ja auch schon mal gesagt, das war ganz am Anfang hier.
+Das heißt, wenn der irgendwo draufsteht, Röntgenstrahlung.
+Und wir wissen alle, wir als Menschen finden das zwar nicht nett,
+aber vielleicht gebrauchstätig, wenn wir uns vor Knarren röntgen lassen,
+aber wir wollen nicht permanent als Anlagenbediener vor so einer Anlage gestrahlt werden.
+Also braucht es schon mal einen entsprechenden Schutz an der Stelle,
+damit ich, wenn ich hier neben stehe, eben nicht diese Röntgenstrahlung derzeit abbekomme.
+Und diese Sekundär- oder eigentlich die rückgestreuten Elektronen, das sind letztlich Elektronen, die ich zum Bild erzeugen nehmen kann.
+Und die kennen Sie aus dem Raster Elektronenmikroskop oder so.
+So.
+Ich mache mal da schnell weiter.
+Also wir brauchen eine Anlagentechnik, wir müssen das alles einbauen.
+Wir brauchen die Vakuumpunkten, wir brauchen eine Hochspannung, ja, Vakuumleser auch übrigens, und dann brauche ich eben letztlich hier auch eine entsprechende Steuerung.
+So, jetzt komme ich nochmal zurück auf unser kleines Verkaufsgespräch eben.
+Sie hatten ja angedeutet, Vakuum, ja, das ist teuer und so weiter, das ist ein Problem.
+dann könnte ich jetzt eben als Elektronschweifvertreter sagen,
+ja, das wäre ja auch das Thema, wenn ich hier irgendwo so eine Kammer habe,
+weil das ist ja das Thema, ich muss ja das Bauteil da reinkriegen,
+also mache ich eine Tür auf, fahre wieder runter, wenn ich das Bauteil drin ist
+und das dauert eben Zeit, bis auch noch das Vakuum da ist.
+Deswegen gibt es solche Kammersysteme, die können sich auch zu Hause auf den Schreibtisch stellen
+und können zu Hause mit so Geräten arbeiten,
+wenn sie so kleinere Teile haben.
+Ist tatsächlich auch so im asiatischen Bereich ein Thema.
+Das heißt, ich kenne solche Anlagen aus Amerika oder China, Japan, Korea.
+Da gibt es so Hausmanufakturen, die sowas in Lohn zu Hause machen.
+Da wird Oma, Opa engagiert und macht sowas dann eben im Homeoffice.
+Gibt es in Deutschland tatsächlich, oder gab es in Deutschland auch mal, da finde ich auch einen, der letztlich sowas genutzt hat.
+Weil, das wäre ja ein Argument, ich brauche ja mal eine gewisse Zeit und in der Zeit könnte ich vielleicht eine andere Anlage bedienen
+oder eben irgendwelche anderen Tätigkeiten machen, das wäre jetzt nur der Hintergrund.
+Es gibt in dem Bereich auch tatsächlich riesengroße Anlagen,
+die eben riesengroße Kammeranlagen, die für große Bauteile irgendwie gedacht sind,
+wo auch der Speilerzeuger irgendwie mit dem Roboterportalsystem rumgefahren wird.
+Und wenn wir uns das Teil hier angucken, ist das einfach nochmal auch eine super Story,
+weil das Gerät gehört eben zur Ariane-Rakete.
+Das ist letztlich der Tankdeckel der Ariane von einem mittelgroßen Tank.
+Das ist nicht der ganz große.
+So, und wenn wir uns jetzt die Fertigungstechnik dazu angucken,
+kann man das Spiel eben auch tatsächlich nochmal wiederholen,
+was wir ganz am Anfang gemacht haben.
+Wie würden Sie das Halbzeug, um nachher diese Glocke,
+kann man das erkennen, dass das eine runde Glocke ist letztlich,
+Da steckt dann der Tank mit drauf und das wird dann angeflanscht und diese Glocke, die braucht eine gewisse Festigkeit.
+Da steckt nachher Druck drin, wenn da eben quasi dann die Antriebsfluid mit in der Ariane verbaut ist.
+Und das heißt, wie kriege ich ein solches Teil letztlich hin?
+Ich brauche an der Stelle, nochmal, dass ich das so hinkriege, tatsächlich eine entsprechende,
+ach, das wird zu schwierig, ja, doch, man kann es vielleicht erahnen, das sollte es nicht so sein,
+Was kann das sein? Das ist eine Rippe. Das könnte sein, dass jetzt hier irgendwo an dieser
+Oberfläche eine entsprechende Verdeckung ist. Die sehen Sie übrigens hier. Auf dem ganzen Umfang
+sind solche Verdickungen drauf, weil eine entsprechende, das weiß ich nicht, das funktioniert nicht so richtig.
+So, also wenn ich da einschalte,
+Ein Bauteil wie dieser, was innen drin unter Druck ist, braucht Festigkeit, wie gesagt.
+Und die Festigkeit kann ich erreichen, indem ich in dem Fall 60 mm dickes Aluminium nehme
+und das als Tankhaut letztlich hier habe.
+Was wiegen 70 mm, wie 6 m im Durchmesser würden.
+Wenn Sie mal so von 5 Tonnen ausgehen, das ist fast die gesamte Nutzlast der Ariane-Rakete.
+Also keine guten Ideen.
+Aber was will ich hinaus? Also braucht es nicht einen Massivbau, sondern es braucht einen Leichtbau.
+Und der Leichtbau heißt dann nichts anderes, dass von diesem Querschnitt, ja den brauche ich,
+aber den brauche ich eben nur partiell, das heißt nur in so einer gewissen Verrippung.
+Jetzt kann ich natürlich hergehen, mir hier entsprechende Rippen aufschweißen, oder was machen die?
+Die nehmen das Vollmaterial und fräsen hier die Rippen raus aus dem Material.
+Und das heißt, nachher bleibt hier hinten nur 2,8 mm als Wandung stehen von den 70, viel mehr nicht.
+Das Ding wiegt ja noch nur 300 kg, das ist ganz wenig an der Stelle.
+Ja, weil natürlich die 5 Tonnen, das wäre ja quasi meine Nutzlast, wie gesagt.
+Aber, das heißt letztlich wieder, dass mein System an der Stelle auch irgendwie erstmal hergestellt wird.
+Und das meine ich mit Halbzeug.
+Eine 6 Meter im Durchmesser dicke Ronde, 70 Millimeter dick, die stellt man hierher in einem Walzwerk.
+Gibt es so ein Walzwerk? Ja, die gibt es, aber dummerweise nur bis 3 Meter im Querschnitt.
+So, wenn ich 6 Meter haben will, sehe da, muss ich schweißen und muss ich fügen.
+Muss ich die beiden irgendwie zusammenbringen, weil dieser Prozess, der nachher hier das Ding entstehen lässt,
+der braucht eben diese 6 Meter Rolle.
+Und das machen wir, indem wir an der Stelle eben zusammenschweißen.
+Und das ist hier mit dem Querschnitt wieder gemeint und man sieht eben die Naht, die läuft hier an der Stelle da eben auch entsprechend durch.
+Und die muss einfach gut sein, weil wenn nachher von diesen 70 mm im meisten Bereich nur 2,8 mm stehen bleiben,
+dann muss die Naht eben, die darf nicht diese Bogen haben.
+Wenn Sie nämlich normalerweise schweißen, wäre eine Toleranz von 2,5 aufwärts sogar erlaubt für ein normales Schweißverfahren.
+Wir brauchen ja immer irgendwelche Toleranzen und bei so dickem Aluminium ist das durchaus sinnvoll.
+Das heißt aber auch, das Verfahren, ich brauche ein Verfahren, was das besser kann, das wäre jetzt der Elektronensteuer.
+So, jetzt sind Sie fertig. Was sagen Sie mir jetzt als Leser-Verkäufer wieder? Können Sie das auch?
+Ich gehe davon aus Schlumpf und frage gerne, wenn Sie es vorzuverachten.
+Genau, super. Genau das. Wir bräuchten eben diese gigantische Anlage nicht, die im Übrigen so 6 Millionen Euro kostet.
+Also das ist schon eine ganz anständige Ausnummer.
+Nur die Wachkupferanlage?
+Ne, die ganze Anlage und wir haben eine Pumpe davon, kann man auch mal kurz zeigen, die wäre hier irgendwo an der Stelle, da, da hinten sieht man das ein bisschen, da sieht man nicht, also das ist so ein Einlass, der ist einen Meter in Durchmesser, dahinter steht eine Rutschpumpe, die ist mindestens, ja, die geht hier bis hier hin, die ist genauso groß.
+Jede dieser zwei Stück davon, allein die Punkten kosten eine Million Euro.
+Also die sind extremer Aufwand, haben Sie ja gerade gesagt, die wir nicht haben.
+Und das heißt, Sie können jetzt mit dem Laser das entsprechend besser machen vielleicht.
+Jetzt komme ich aber wieder, wie gesagt, pro Millimeter Speisnaht brauchen Sie ein Kilowatt.
+Das heißt, für 70 Millimeter brauchen Sie 70 Kilowatt.
+Es kommt eben drauf an, wie viele Kilowatt Sie letztlich zahlen pro Kilowatt.
+Und das kann dann eben auch da an der Stelle wieder in Millionenbeträge gehen.
+Tatsächlich ist es auch so, dass hier noch was anderes dazu kommt.
+Und diese Technik in diesen Größenordnungen ist immer schwerer zu beherrschen.
+Also klassische sind so 3, 4, 5 Kilowatt und jetzt geht es noch von 70 Kilowatt.
+Das sind also gigantische Anlagen letztlich, denn doch irgendwie, also ehrlich, die gibt es gar nicht am Markt zu kaufen.
+Die müssten sich speziell dafür entwickeln und das heißt, da werden Wechselbehörden nicht reichen, wenn sie das so haben wollen an der Stelle.
+Weil der Markt auch nicht so groß ist.
+Beim Elektronenstrahl, und auch hier nochmal als Erinnerung, da hat man gesagt, ja, dann kostet kein Kilowatt mehr, sondern der kostet eben Grundpreis.
+und
+das heißt, jedes Kilowatt mehr
+kostet nur noch ein paar Euro.
+Das macht eben tatsächlich
+keinen großen Unterschied mehr.
+So.
+Also, das zweite Thema ist,
+für kleinere Teile haben sich
+dann irgendwann mal die Leute überlegt, das mit dem
+Vakuum in die Nebenzahl zu packen,
+indem ich hier an der Stelle
+eben tatsächlich mit einer Schleuse
+Das ist auch so ein Bild dazu, das ist so eine vertaktete Anlage.
+Das heißt, ich stecke jetzt hier mein Bauteil durch die erste Tür rein,
+dann geht die Tür zu und dann kommt die zweite Tür, die dann aufmacht, sobald das Vakuum erreicht ist.
+Der Clou ist aber, dass in der Zwischenzeit das Teil hier letztlich bearbeitet werden kann.
+Als Draufsicht fahren die dann nebeneinander her.
+Das heißt, das Teil kann neben dem parken und kann, also als Draufsicht fahren die so aneinander vorbei.
+Das ist eine Draufschicht gemeint.
+Das ist die Anlagentechnik, die Sie hier sehen.
+Das ist die Strahlerzeuger, der ist jetzt mal rund gekennzeichnet.
+Und das heißt, das Bauteil steht jetzt hier vorne auf der Palette, fährt hier die erste Tür rein und dann fährt es in die nächste Tür rein.
+Und auf der Gegenseite fährt das Bauteil wieder raus.
+und zwischendurch kann es hier
+in X- und in Y-Richtung
+bewegt werden
+unter dem Strahl
+das heißt, das Teil hat jetzt eine Bewegungsrichtung
+der Strahl bleibt immer stehen
+und wie gesagt, wenn er hier fertig ist
+dann fährt er auf der Rückseite
+wieder raus
+siehe da, plötzlich haben wir gar keinen Stress
+mehr mit dem entsprechenden Vakuum
+weil, wenn das geschieht
+genug gemacht ist, ist nur noch das Tür auf
+und zu machen
+Ich nutze das tatsächlich, sage ich mal, die entsprechende Technik aus, um das beste Schutzgrad überhaupt zu haben.
+Also technologisch gesehen ist das die beste Art und Kilowatt kostet nichts.
+jetzt habe ich eine ganze Menge Argumente
+eigentlich auf meiner Seite plötzlich,
+weil das System
+ja doch kein Problem
+mit Wagen hat.
+So, fällt Ihnen jetzt
+wieder was ein? Jetzt müssen Sie mal wieder
+ein bisschen Gas geben, weil sonst haben Sie den Auftrag
+verloren und geht das nicht.
+Was könnten jetzt noch ein Argument
+auf Ihrer Seite sein?
+Wenn wir jetzt ein Bauteil haben, was doppelt so groß ist?
+Genau, dann würde das nicht funktionieren.
+Richtig, ja. Das heißt,
+jetzt sage ich aber, nee, ich will aber nur das und das
+will ich jetzt fünf, sechs Jahre auch tatsächlich produzieren. So, das passt da rein.
+Verschleißt?
+Verschleißt, ja. Das heißt, ein gutes Argument letztlich, weil natürlich Vakuum auch eine
+technisch sehr anspruchsvolle Geschichte ist. Das müssen Sie sehr gut abdichten, damit
+das Ganze funktioniert. Das kennen Sie vielleicht, wenn Sie so zu Hause so Vakuumbeutel oder
+oder sowas haben.
+Oder irgendwelche Behälter gibt es ja
+von Zwillingen oder sowas, wo man
+irgendwelche Sachen einvakuumieren
+kann.
+Wenn da mal irgendein Krümelchen zwischen ist
+und so weiter, funktioniert das nicht mehr gescheit.
+Manchmal muss man diese Tüten wieder wegschmeißen,
+weil es einfach nicht mehr richtig
+dicht wird. Und da haben Sie völlig recht.
+Das könnte hier auch ein Klima sein.
+So.
+Ich gebe Ihnen aber einen Servicevertrag.
+Das garantiert Ihnen,
+dass das Ding immer wieder funktioniert.
+Also tatsächlich ist es so, dass auch dieses Auf und Zumachen und dieser Transport ja wieder eine Nebenzeit ist.
+Da reden wir zwar nur noch um Sekunden irgendwo, die dann noch vertan sind,
+aber vielleicht sagt der Lesertechniker an der Stelle, ich bin da einfach nochmal ein bisschen schneller
+und kann mehr Bauteile, wo Zeit letztlich auch tatsächlich rauskommt.
+So, ob das ein schlagendes Argument wird, muss man eben wieder spezifisch auf das Bauteil sehen, an die Ansprüche, an das, was da letztendlich rausgekommen war.
+Und ich kann Ihnen so an der Stelle auch tatsächlich mal sagen, so ein VW hat auf der linken Seite für Getrieberäder Elektronenstrahllehnen, auf der rechten Laserdichtung.
+Warum ist das so? Ja, weil einmal der Maschinenbeschaffer ein Fan von Elektronenstrahltechnik ist und einmal der Maschinenbeschaffer eher die Lasertechnik voranzieht.
+Der eine kalkuliert mehr mit, was kostet mich das nachher auch im Betrieb und der andere kalkuliert mehr, was kostet mich das am Anfang und der Betrieb interessiert mich nachher nicht, das sollen denn die vom Betrieb damit zahlen oder sowas.
+Also, das wäre jetzt eine klassische Herangehensweise.
+Gut. Gehen wir einfach nochmal einen Schritt weiter.
+Es gibt hier auch noch, wie gesagt, das wäre mein Mikroskop eingebaut.
+Nein, nicht eingebaut, sondern einfach auch in der Schweißmaschine kann ich rückgestreute Elektronen aufnehmen.
+Die erzeugen mir ein Bild. Das ist nicht lichtoptisch aufgenommen, das sind elektronenoptisch aufgenommen.
+Das ist ein ganz anderer Kontrast und entsprechende Auflösung, die es mir ermöglicht, noch genauer Oberflächen zu detektieren.
+Ich kann auch solche Sachen machen. Auf einem Elektronenstrahl drei machen.
+Sieht aus wie ein kleiner Hexenkranz, also erstmal das ist ein Bauteil, was an der Stelle
+so eine axiale Naht braucht.
+Also an der Stelle soll jetzt hier, ich weiß, der Fluss jetzt einfach, ja?
+Okay, ich weiß nur schon, was Sie sagen werden.
+Ja, den sagst du schon.
+Also ich habe gesehen, dass es ein Laser ist, aber es sind auch die drei Laser.
+Gut.
+Äh, Elektronenstrahl, sorry.
+Genau, es sind die Elektronenstrahl-Sachen, genau.
+Es ist immer einer, der einfach schnell springt.
+Das was Sie, Sie können das aber nicht sehen, Sie haben es auch aufgeschrieben.
+Ja, das ist 2000 Hertz.
+2000 Hertz, genau.
+Und das heißt, was heißt 2000 Hertz, was können wir als Mensch auflösen?
+So unter 60 Hertz, da kommen wir so langsam mit, dass da irgendwas flimmert.
+Bei 2000 Hertz keine Chance.
+Das heißt, der Strahl springt tatsächlich immer auf diese Position, bleibt da ein bisschen länger stehen.
+Deswegen sehen wir da so eine Leuchterscheinung und deswegen funktioniert das auch so.
+Gut. Was haben Sie mit der Lasertechnik? Haben Sie da irgendetwas gegenzuhalten?
+Jetzt sage ich Ihnen nämlich, ich bin dreimal schneller, weil ich ja meinen Strahl entsprechend splitte.
+Und wer hat das Vakuum, wo das erste Zeug landet?
+Schleuse. In dem Fall funktioniert das wunderbar. Ich habe mehrere Bauteile gleichzeitig drauf.
+auch dieses Schleuse-Auf-und-Zu hat eigentlich auch gar kein Problem mehr.
+Sie können einfach sagen, nein, habe ich auch.
+Der Laser hat sogenannte Scanner-Optiken, das hatte ich mal kurz gezeigt.
+Das sind letztlich Spiegeloptiken, da kommt der Strahl drauf und wird auch in mehrere Richtungen gleichzeitig vertreiben.
+Können Sie mithalten.
+Das Ding kostet zwar auch wieder richtig viel Geld, aber in Summe gibt es ganz oft in Taktzeiten, dass das viel mehr wert ist, wie letztlich ein höherer Invest.
+Also so eine Schicht kostet jetzt 50.000 Euro, aber da lachen wir uns nur über, wenn wir über sechs Jahre im Vierschichtbetrieb dann letztlich das Ganze entsprechend auch einsetzen können.
+So.
+Also fällt es mir schon wieder schwer, hier zu argumentieren.
+Schauen wir mal weiter, ob ich noch irgendwelche Ideen habe
+Ja, jetzt sage ich natürlich noch irgendwas
+Ich kann tiefer schweißen
+Wenn Sie die Tiefe nicht brauchen
+Pari
+Ja, dann ist der Laser genauso gut wie der
+entsprechende
+Elektronenstrahl
+Und das, was ich jetzt hier als
+weitere Vorteile sehe
+können Sie eins zu eins beim Laser eben aufsetzen.
+So.
+Die Geschichte
+mit den Wanderwerkstoffen ist ein bisschen
+special, weil
+die eben besonders gerne mit Luftsauerstoff
+reagieren oder auch mit anderen Gasen.
+Da ist Vakuum eine tolle Geschichte.
+Aber, können Sie
+wieder argumentieren, ich kann auch einen Laser
+in Vakuum packen.
+Das, was ich letztes Mal gesagt habe,
+dass ich auch Mischverbindungen machen kann.
+Dann kann der Elektronenstrahl auch vielleicht ein zacken präziser, um das auch nochmal zu sagen, in den ganzen Bereichen von Luftfahrt bis Großforschungsprojekte setzen die meisten eben auf Elektronenstrahlen.
+Warum? Weil er eben im technischen Bereich überall ein bisschen besser ist.
+Bisschen präziser, bisschen weniger Wärme und so weiter.
+Automotive
+Massenfertigung ist das
+ziemlich egal
+weil da ist dieses Quäntchen, was das besser kann
+nicht so relevant
+und wird als solches
+dann eben in diesem
+kleinen Wettbewerb, was wir jetzt hier parallel
+veranstalten, eben auch nicht als Argument
+anerkannt
+So, und wie gesagt, das könnten auch alles Bauteile sein, die Sie auch im Bereich Laser
+Ich habe Ihnen nochmal genau dafür dieses Bauteil mitgebracht, das könnte das sein.
+Haben Sie es auch notiert?
+Nein.
+Das ist so eine Standardrohrmaschine, oder?
+Oh, ne.
+Das ist ein Dämpfer, ja?
+Mit dem Out könntest du es...
+Achso, so.
+Also, Stoßdämpfer, da sitzen die drauf. Das ist noch eine Spezialität, also das ist die Innenführung letztlich, hier Federbein mit drauf, aber hier wird noch so ein Gehäuse gebraucht, weil hier nochmal Elektronik drin ist, die sowas auch hier wie Bremsfunktionen, also hier wird letztlich alles mögliche gemessen, auch irgendwelche Neigungswinkel,
+damit der Stoßdämpfer an sich nachgeregelt wird,
+zu welchen härter oder weicher.
+Das heißt, eigentlich das Spannende ist drumherum,
+das Ding ist jetzt letztlich nur dafür da, das Rad zu halten.
+Sicherheitstechnisch natürlich, wenn ich da irgendwas dran baue
+und hier geht quasi die Kraft weiter, hier geht irgendwas kaputt,
+dann fliegen sie gegen den nächsten Baum, weil eben das Rad wegfliegt.
+Also sicherheitstechnisch ist schon ein Thema für sich.
+So, dann gibt es hier noch die Geschichte, dass das irgendwo auch eingesetzt werden muss in Ihrem Schuhsaal.
+Das heißt, irgendwo braucht es eben auch Toleranzen.
+Hier gibt es eben nur maximal zwei Zehntel von da nach da rund auf Ungenauigkeit.
+Mehr ist da gar nicht zulässig.
+Und trotzdem müssen Sie viel Kraft, das heißt über sechs Millimeter Schweißtiefe, hier einmal radial rumgespannt.
+So, das wäre jetzt mal der technische Aspekt.
+Jetzt kommen wir wiederum zum kaufmännischen Aspekt.
+Das heißt, in dem Fall hatten die eben auch jede Menge Probleme mit den Bauteilen,
+weil sie das technologisch, restlichkeitsmäßig mit dem Laser nicht hingekriegt haben.
+Dann wurde das Ganze mit einem Elektronenstrahl geschweißt.
+Der Elektronenstrahl konnte das in der entsprechenden Perfektion machen.
+Trotzdem wurde nach ein paar Jahren wieder zurück auf den Laser umgezwitscht, weil er mit dem Laser eben ein paar Cent geringere Kosten hat.
+Bis heute wird das Laser geschweißt mit einer schlechteren Qualität wie der Elektronenstrahl, aber es hält und darauf kommt es an.
+Machen wir es nochmal kurz. Automotive, was heißt halten? Was steckt eigentlich in so einem Zyklus halten im Automobilbereich?
+Also Bauträger, richtig.
+Ja, das heißt, Prüfstandsnachweis, Dauerfestigkeitsnachweise bis hin zu ihrem Erdkönig oder entsprechende Fahrzeuge, Testfahrzeuge,
+wo das eben auch nochmal gecheckt wird, ob es auch im normalen Betrieb entsprechend gut hält.
+Das heißt, dieses Qualifizieren ist im Automobilbereich von sicherheitsrelevanten Teilen gar nicht so einfach.
+Kostet auch richtig viel.
+Das heißt, wenn Sie als Lieferant sagen, ihr macht Elektronen, ich will jetzt aber euch zeigen, Laser ist günstiger,
+dann kann es eben sein, dass Sie erstmal 100.000 Euro für diese ganzen Tests ausgeben müssen,
+bis Sie entsprechend diese Qualifikation haben.
+Und dann können Sie quasi demonstrieren, dass Sie pro Bauteil so viel Cent sparen.
+Das geht dann eben über eine gewisse Laufzeit, dass wir irgendwie da reinzuholen.
+Okay. Gut.
+Schenken Sie das zum Schmauen?
+Das wird bei einem 40.000 Euro oder so Neuwagen,
+50.000 Euro übers Set drehen.
+Ja.
+Das ist aber so typisch für Automobilindustrie letztlich, natürlich.
+Dass ich in diesen Massenproduktionen,
+in diesen Wettbewerbsvergleichen da entsprechend
+Auch sehr aktiv ist als Einkäufer unterwegs bin, um da was rauszuholen.
+Ist so.
+Für einen Endverbraucher, aber wie viel verdient er?
+Fürs Endverbraucher hat er die Zeit.
+Da reden wir eben nicht über das Geld, was da verdient wird.
+Gut.
+Ja, über ITER und solche Themen haben wir ja schon geredet.
+Das Ding, genauso wie beim Laser, Tiefschweiß-Effekt.
+physikalisch tatsächlich ein bisschen anders
+aber uns interessiert ja die Wirkung
+und die ist gleich
+und auch das
+alles gleich
+bis auf dieses Thema hier
+mit dem
+Schutz der Schmelze im Vakuum
+ja da wird
+der Nachteil
+zum Vorteil deklariert
+ich als Eingreifer würde Ihnen das als Vorteil verkaufen
+obwohl ich genau weiß, eigentlich ist es ein Nachteil
+So, aber der ganze Rest ist wieder absolut identisch wie beim Meter.
+Und das mit den Anschauungskosten habe ich Ihnen ja schon auseinandergelegt, das kommt
+seitdem aber auch an. Dann noch mal so ein bisschen die Idee in Richtung, was kann ich
+da noch mitmachen. Das wäre hier einfach mal ein Beispiel. Ich kann damit härten. Das ist eine Nocke,
+die wird einfach sehr präzise einmal umfangen und das kann man anhand des Schliffbildes sehen,
+dass da diese Einhärtung sehr, sehr konstant ist. Was ist das Problem? Nocke sagt ja noch was. Das
+ist da entsprechend ein Ventiltrieb. Das heißt, das Problem ist, wenn ich härten will, dass ich,
+wenn ich das Teil komplett härte, ja hier andere Wärmebedingungen habe wie da hinten. Also wenn
+ich das in den Ofen lege und abstecke, dann würde das hier vorne ganz anders aussehen wie da hinten,
+weil es ja unterschiedlich dick ist.
+Und deswegen, ich brauche das aber verschleißtechnisch so, genauso wie es hier ist,
+ich brauche es außen hart und innen duktier, damit es seine Funktion erfüllen kann
+und seine 400.000 Kilometer rutscht hin.
+Noch ein Beispiel, der da hinten, sehen Sie den, hoffe nicht, jetzt wird es blutig, das
+Das ist ein Knochennagel. Das heißt, wenn Sie einen Oberschenkel-Halsbruch haben, kriegen Sie den da rein operiert.
+Ja, genau. Jetzt müssen wir mal ganz kurz überlegen, was braucht es, damit Sie so ein Geschoss entsprechend herstellen.
+Vielleicht füllen Sie einfach mal, das ist auch ein schöner Leichtbau. So schwer ist das Ding gar nicht.
+Das ist auch so ein Pro-Nickel-Stahl, also nicht rosten, versteht sich, und kann hier entsprechend auch hohe Kräfte übertragen.
+So, was sagen Sie? Wie geht das? Was macht man da überhaupt?
+Hast du hier geschweißt?
+Auch vorne so ein bisschen was. Aber das geht gar nicht ums Schweißen jetzt gerade.
+Das geht ums Härten. Oder in dem Fall geht es ums Weichmachen, ums Glühen.
+um es zu blühen.
+Ja?
+Ja, also den paar Dreh,
+also ich verwirre das nicht nur
+mit Elektronenstrahlen machen.
+Ja.
+Dann gehen wir wieder.
+Dann zeige ich das mal kurz.
+Also die Funktion, hatte ich ja gerade gesagt,
+die geht ja irgendwo in den Knochen.
+Wie würden Sie das als Apparatur machen?
+Sie nehmen das Teil, hauen den Lukas, Hammer und dann ordentlich rein, oder?
+Also da dann die Winde ist, wird wahrscheinlich irgendwas geschraubt.
+Ne, tatsächlich. Das ist schon der Anschluss, aber hier kommt das Gelenk noch genau da oben drauf.
+So, das ist es jetzt nicht, sondern tatsächlich wird das nicht brachial in ein vorher gebohrtes Loch gemacht,
+sondern das Teil wird kleiner im Durchmesser gemacht.
+Und wie geht das? Indem ich das vorher verdrehe.
+und dann schiebt er das ins Loch rein
+und dann wird es wieder aufgepumpt
+und dann schnappt er es wieder zurück
+und dann sitzt es fest im Knopf
+so war die Funktion
+damit das aber mit dem Verdrehen funktioniert
+und jetzt soll es ja auch fest und hart sein
+das Ganze
+sonst würde mein Gelenk ja da rumwackeln
+also braucht es
+quasi eine
+Doppelfunktion
+es muss weich sein, damit ich es verdrehen kann
+es muss aber auch hart sein, damit es fest ist
+wie machen wir das jetzt?
+Ich brauche einen Werkstoff, der bei einer Hitze, die ich im Körper nicht kriege, weich wird.
+Und bei einer Hitze mit Temperatur, die im Körper fährt, hart ist.
+Ja, das wäre eine Innovation, die hört sich patentverdächtig an,
+die muss ich jetzt nur dem Werkstoff finden, der tatsächlich so unterwegs ist.
+In dem Fall ist es tatsächlich so, dass man sagt, ich brauche jetzt nicht das ganze Teil hart,
+sondern das waren nur diese Stege, die müssen entsprechend hart sein.
+Und damit ich das verdrehen kann, wird dazwischen weich gemacht.
+Das heißt nachher, die Funktion in meinem Körper ist letztlich, dass hier vier Stege fest sind und dazwischen was weich.
+Und da kann ich das eben verdrehen, in diesen weichen Bereich einsetzen und dann wieder aufpumpen.
+Und dann habe ich immer noch die festen Stege stehen.
+Deswegen wird mit einem Elektronenstrahl vier Bahnen gefahren, die hier mitten drinnen diesen Werkstoff,
+Das sieht man da von einer Härte von 350 eben auch unter 200 letztlich runterbringen.
+So ist alles.
+Und das da vorne ist noch so ein kleines Add-on, dass diese Spitze bei der gleichen Gelegenheit einfach mit reingeschweißt wird.
+Das optimiert nochmal meine entsprechende Bauteileffizienz.
+So, jetzt könnt ihr es auch nochmal nach hinten geben.
+Ja, konstruktiv, wie gesagt, das gleiche wie beim Laser. Gleiche Sachen zu beachten. Auch diese
+Sachen mit dem Spalt. Fertigungstechnisch gesehen Nullspalt. Technischer Nullspalt heißt, ich muss
+da meistens sogar eine Nacharbeit machen, damit meine Bauteile schön auf Stoß auch stehen können.
+So, jetzt kommt noch mal ein letztes Filmchen zu dem Bauteil, was wir jetzt alle gesehen haben,
+nämlich zu dieser Kolbenstange, die letztlich entsprechend hier
+Amen.
+Amen.
+Versuchen Sie schon mal zu gucken, was das sein kann, was ich Ihnen da zeige.
+Haben Sie das schon?
+Nee.
+Was haben Sie gesehen?
+Er war mit sehr dem gemacht.
+Ja, haben Sie ihn überhaupt hier beobachtet?
+Die ist hier vorne.
+Tatsächlich auch sehr schwer zu identifizieren.
+Da ist so eine Gravur drin.
+Das schwarze ist übrigens nur so ein Schutz, weil das so ein Vorführobjekt ist, damit man die Klingerabdrücke nicht so doll sieht, aber letztlich ist hier eine Gravur drin.
+Ja, richtig. Was haben Sie noch gesehen?
+Was ist denn das?
+Komische Linien mit irgendwelchen Kreuzen drin.
+Das ist besagte Filterzeugung.
+Das heißt, das Bauteil wird gedreht, der Elektronenstrahl trifft da drauf, schweißt aber gar nicht, sondern diese rückgestreuten Elektronen erzeugen Bild.
+Wenn das gerade, also 360 Grad Abwicklung ist das.
+Also Bild, Bild, Bild, Bild, dann sehen Sie, Bild, Bild, Bild, Bild.
+Also diese 360 Grad als Abwicklung ein Strich.
+Wenn das Bauteil nicht, wenn das so drin stehen würde, wäre das ein S, weil es ein Taubengeschlag drin ist, dann würde das Ding ja gar nicht schweißen.
+So, aber um was geht's? Es geht darum, dem Strahl, der schweißt, zu sagen, da wo die grünen Kreuze sind, da musst du schweißen.
+So, die letzten 120 mm quasi den Strahl gesagt.
+So, dann kommen unterschiedliche Leuchteffekte, da wird sehr schnell geschweißt, aber vorher
+wird geheftet, das heißt, vielleicht nur so 5-10 mm eine Umdrehung, damit die schon
+mal ein bisschen zusammenpassen und erst dann in die Tiefe.
+Wissen Sie noch warum sowas sein muss, mit Heften?
+Das ist ja auch das Gleiche wie damit verziehen, wenn ich sofort anfangen würde mit 6 mm
+würde mit 6 mm da durch zu schweißen, würde der Rundlauf nicht mehr passen. Also erst mal heften,
+dann schweißen. So, und wie Sie schon gesehen haben, zum Schluss noch mal eine Gravur. Das ist
+nämlich auch nichts anderes, wie wiederum ein Zehntel tiefer Schweißloch. Und das ist qualitativ
+eine tolle Geschichte. Das macht man heute auch mit der Laser-Elektronenstahl vergleichbar,
+obwohl, gut der Laser braucht einen eigenen Laserstrahl, weil wenn der 5 Kilowatt hat,
+kann er nicht nur zwei Zehntel gleichzeitig schweißen. Das beides geht nicht. Der Elektronenstrahl,
+der kann eben ganz wenig und ganz viel schweißen in einer Anlage. Das ist völlig irrelevant an der
+Stelle. Aber qualitativ ist natürlich nett, wenn ich an jedem Bauteil gleich weiß, wer das geschweißt
+geschweißt hat, wann es geschweißt worden ist, ja, und wenn Sie jetzt Ihren Forscher
+denn irgendwie vom Baumkach kratzen und feststellen wollen, was ist jetzt kaputt gegangen, Sie
+kennen ja diese Storys, ja, wo man dann eben schaut, ach, oh, die Naht ist kaputt gegangen,
+dann sehe ich eben gleich anhand der Nummer, okay, dann wurde das da hergestellt und dann
+kann ich das komplett eben nachvollziehen. Für sicherheitsrelevante Zweite eben eine
+Eine wichtige Geschichte.
+Okay, soweit der Grundstrahl.
+Noch Fragen von Ihrer Seite?
+Dann machen wir noch eine weitere Thematik.
+Den hatte ich ja schon mal mitgehabt, oder?
+Da hat man über uns unterhalten, dass hier oben am Rand irgendwie eine Wörgelung stattfindet.
+Dass eben mechanisch hier auch der Deckel hier unten so eingepasst wird.
+Könnt ihr euch noch daran erinnern? Ich habe ja gesagt, dieser schwarze Strich, das ist auch eine Schweißnaht.
+Gucken Sie sich gleich nochmal an, das Ganze. Aber was für eine Schweißnaht ist denn das?
+Jetzt müssen Sie wieder anspringen. Können Sie das Laserstrahl schweißen?
+Da gibt es schon kleinere Laser. Also, wie gesagt, nicht irritieren lassen von dem, was ich gerade gesagt habe.
+Wenn Sie einen kleinen Laser haben, können Sie auch kleine Nägel machen. Das ist keine Frage.
+So, also das geht nicht. Überhaupt gar nicht so teuer, weil das Blech ja auch nur ein paar Zehntel dick ist.
+Aber unterm Strich doch viel zu teuer, der ganze Spaß.
+Spaß. Und auch von der Qualität her
+vielleicht nicht das, was Sie haben wollen.
+Können Sie mir mal verraten,
+was für Ansprüche, also wenn wir jetzt
+mal wieder ein Verkaufsgespräch haben,
+was für Ansprüche stelle ich
+denn als Kunde an
+eine Dose? Ob das jetzt
+Nussdose oder Konservendose,
+alle gleich gespaßt.
+Was für Ansprüche stellen Sie?
+Was für Anforderungen stellen Sie denn an die
+Dichtzeit?
+Das ist das allererste.
+Erdnüsse,
+Ein gutes Beispiel, wenn die nicht dicht wäre, oxidieren die, schmecken die nicht mehr.
+Dichtigkeit Nummer eins, was noch?
+Muss fest sein, damit die auch geht.
+Ja, genau, gut, in dem Fall haben wir aber keinen großartigen Druck dahinter.
+Wenn man den runterfällt.
+Ja, okay, das muss es halten, dann soll ich, ja, okay.
+Was noch?
+Das kann ja jetzt nicht komplett dick sein, das sieht ja komplett mobil aus für den Kunden, wenn da jetzt richtig zentimeterdicke Schweißsaal ist.
+Okay, richtig. Also wenn die optisch nicht ansprechend ist, gucken Sie sich gleich das Teil nochmal an, die ist sehr optisch ansprechend.
+Sieht sehr kontinuierlich aus. Obwohl ein Kompromiss als Dosenhersteller muss jetzt schon gehen,
+weil Sie sehen das auch, das sehen Sie bei jeder Dose, dass da so eine Aussparung ist.
+Obwohl wir jetzt gleich eine andere Energiequelle haben, reden wir immer noch davon,
+dass Verschmutzung und Lack von dieser Dosenbeschriftung, ist auch eine Verschmutzung, die hat da nichts zu suchen.
+Dieser Strich ist deshalb so freigespart, damit eben die Naht sauber wird, qualitativ hochwertig.
+Aber ich kann doch da Naht zu sagen.
+Das gibt es auch. Also die Dosen, die das nicht haben, die sind normal noch mit Papier umgegeben.
+Dann ist es weg. Wenn Sie das Papier abmachen, sehen Sie wieder die nach.
+Achso, weil das Ding lackiert wird, bevor es zusammengeschweißt wird.
+Das können wir auch kurz diskutieren. Natürlich könnte ich jetzt auch das Bedrucken nachträglich machen.
+Dann würde das von unten interessant sein an der Stelle.
+Obwohl auch schon, wenn Sie das überdrucken, das würden Sie vielleicht auch schon nicht mehr gescheit lesen können an der Stelle.
+Aber unser Bestand ist einfach zu teuer. Das Recht wird heute 2D gedruckt.
+Das läuft wie durch den Kopierer letztlich durch.
+Hier müssen Sie ja dreidimensional schon wieder irgendwie das Ding da bedrucken.
+Das ist viel zu große Aufwand. Das macht man nicht.
+Also dafür brauche ich es. Die Naht verträgt keinen Dreck, also muss das weg.
+Aber wir haben noch einen wichtigen Anspruch an die Naht.
+Hygienisch? Ja, insbesondere innen. Das heißt, das können Sie auch mal angucken. Innen muss die
+auch qualitativ hochwertig sein. Da darf eben auch wieder sich nicht irgendwas festsetzen können und
+so weiter. Wenn man das irgendwie da abhebt, wenn man da diese, wenn man das da schweißen muss,
+dass dann das Material rauskommt,
+weil die Drogen zum Beispiel ablösen.
+Schlacke.
+Schlacke.
+Genau, also das müsste mindestens abzunehmen sein.
+In dem Fall habe ich gar keine Berufsart.
+Das sieht zwar schwarz aus,
+das scheint auch irgendwie oxidiert zu sein.
+Die ist aber lebensmittelecht, sage ich mal.
+Das ist der Punkt nochmal.
+Weil, wenn, also die muss im wahrsten Sinne des Wortes kindersicher sein.
+Wenn Menschen, die in die Hand nehmen und sich an dieser Naht, und ich habe Ihnen ja reichlich Nähte gezeigt,
+wenn sie sich daran verletzen, schauen Sie sich mal hier an dem Beispiel,
+das ist jetzt zwar tiefer, aber gucken Sie sich die Oberfläche an.
+Ja, die ist jetzt einigermaßen, aber die könnte auch scharfkantiger sein und schon haben sie sich geschnitten.
+Was meinst du, was für Millionen Klagen
+auf so einen Hersteller kommt,
+wenn man sich hier dran schneiden würde?
+Jetzt könnte ich das einfach mal angucken.
+Da passiert nichts.
+So.
+Also.
+Jetzt haben wir eigentlich die wichtigsten Anforderungen
+an diese Naht uns überlegt.
+Jetzt suchen wir eben ein Schweißverfahren.
+Wir hatten schon Lichtbogen und so weiter
+ausgeschlossen. Laser war mir zu teuer
+an der Stelle.
+Also braucht es
+was anderes. Braucht es was, was
+sowas
+extrem schnell
+und qualitativ hochwertig
+bearbeiten kann.
+Und jetzt sind wir bei einem neuen Verfahren.
+Wir sind jetzt auch
+nicht mehr im Schmelzbereich.
+Also
+Laser-Elektronen-Schall waren jetzt die letzten
+Prozesse, die
+einen Schweißprozess
+der Schmelzschweißung sind, sondern jetzt gehen wir in den Pressschweißverband. Pressschweißen,
+was war das nochmal? Das war irgendwas mit Kraft. Also die Dosen haben maßgeblich irgendwas mit
+Kraft zu tun. So, aber nicht nur Kraft, sonst wären wir ja wieder in diesen mechanischen Böckel
+und so weiter unterwegs, sondern wir sind jetzt über eine entsprechende Wärmemenge, die wir jetzt
+hier reinbringen, um
+eine Temperaturveränderung zu bekommen.
+Und diese
+entsprechende Wärmemenge
+So,
+So, die hat was wiederum mit Strom zu tun und wieder maßgeblich, je mehr Strom,
+je besser. Alles, was in so einer Formel im Quadrat eingeht, kann ja nur gut sein.
+Der Widerstand, was könnte der Widerstand bei der Dose sein?
+Das ist das Blech selber, also wenn da Strom durch das Blech fließt, habe ich auch Widerstand.
+Und da hinten kommt eben noch die Zeit rein, wie lange ich darauf halte. Und da hatten wir uns ja eben schon drauf geeinigt,
+Das ist immer wieder im Cent-Bereich. Also so eine Naht darf vielleicht 2-3 Cent kosten und das war's.
+Weil andere Leute die Euros verdienen wollen an der Geschichte.
+So, fangen wir mit dem Verfahren an, nennt sich Widerstand-Kurbschleife.
+Jetzt mache ich erstmal zwei Bleche, lege sie übereinander.
+Ich hatte das mal kurz beim Nieten gehabt, da hat man ja so eine Nietverbindung dazwischen gehabt.
+Jetzt wollen wir nicht mehr nieten, jetzt wollen wir schweißen.
+Das heißt, es gibt eine Elektrode, die passt da, die hat so ein Plateau, passt da genau drauf
+und es müsste jetzt eine zweite Elektrode von der Unterseite dagegen drücken.
+Dann fließt durch das gesamte System hoher Strom
+und der Strom sorgt eben dafür, dass zwischen diesen beiden Blechen ordentlich Temperatur ist.
+Das Maßgebliche an der Stelle ist aber, dass nicht nur Temperatur, sondern eben auch diese beiden Elektronen zusammengedrückt werden
+und über den Druck eben diese Schmelze zusammengequetscht wird.
+So, aber was ist gleich das Problem?
+Links und rechts vom Punkt sind wir unsichtbar, das heißt, für die Dose sind wir noch nicht richtig unterwegs.
+Das Widerstandspunkt schweißen, das müssen wir jetzt aber kurz drauf lösen, wäre eben das, dass, so wie ich das gerade gezeigt habe, hier letztlich der entsprechende Angriffspunkt ist.
+Und hier fließt der Strom, ein bisschen hier, da gibt es eben auch einen Widerstand, hier im Blech gibt es überall einen Widerstand.
+Und der sollte maßgeblich sein, dass mein Material auch schmilzt.
+Was ist denn hier mit diesem Widerstand und diesem Widerstand? Die sehen doch irgendwie so ähnlich aus.
+Entsteht hier auch eine Temperatur? Ja.
+Was machen wir damit? Wir wollen doch die Elektrode, ich habe sie ja umgegeben, die soll ja nicht da ans Blech angeschweißt werden.
+Würde aber auch passieren, weil da ist ja auch Widerstand und damit Strom.
+Kombination mit der Wärme.
+Ja?
+Das muss irgendwo unter den Mossikabeln wieder angebracht werden, oder?
+Ah, nee, das ist es nicht.
+Da kann man nichts gegen tun, weil wenn ich da Masse dran mache,
+dann fließt ja mein Strom nicht mehr, dann macht er ja eine Umlenkung.
+Dann ist es einfach schnell in der Elektrizierung.
+Richtig.
+Weil die Dinger sind alle wassergekühlt.
+Das heißt, die Elektroden selber, die werden warm, aber die sehe ich eben so vor,
+deswegen ist das auch ein Kupferteil, was ich da gerade in den Händen gehalten habe,
+dass die Wärme da schnell verschwindet.
+Das ist Verlust, ja, aber mir geht es einzeln und allein um diesen Widerstand an der Stelle.
+Und wenn die Bleche ein bisschen wärmer werden, weil die auch einen Widerstand haben,
+ist das nicht schlimm, weil das hilft mir ja quasi auch schon mal in dem Wärmehaushalt
+noch ein paar Grad mehr zu haben.
+Soweit klar? Sie gucken noch skeptisch?
+Ich kühle die Elektroden, damit sie nicht anschweißen.
+Richtig.
+Gut.
+So.
+Aber wie gesagt, wir haben nur eine punktuelle Verbindung.
+So, es geht um viel Energie dabei.
+Es geht darum, ja klar muss ich je nachdem wie dick meine Bleche sind, da geht ja dann auch wieder Widerstand verloren, muss ich wieder noch mehr Energie haben, wieder strukturisieren.
+Deswegen geht es auch nochmal darum, dass die Beziehung jetzt gut ist.
+Und das Ganze, wenn Sie das genau beobachtet haben, haben Sie auch gesehen, dass dieser kleine Punkt sogar eine kleine Eindellung hat.
+weil eben durch das Zusammendrücken an diesem Plateau ich das Material nicht nur stauche,
+sondern es ist ja auch flüssig darunter, das wird dann einfach so ein bisschen zusammengecrashed.
+So, es gibt, und das wäre jetzt ein bisschen die Superlatio bei diesem Verfahren,
+je mehr Strom, je besser. Das heißt, wir transformieren das Ganze jetzt hoch auf 40.000
+Wir haben diese Anlage, Sie werden sie auch bei der entsprechenden Laborführung sehen,
+da bereist man das vor. Ganz nebenbei, ich müsste den Gretel jetzt auch nochmal in Moodle schreiben,
+übernächstes Mal würde ich gerne Laborführungen mit ihm machen. Vielleicht die nächsten beiden
+Male sogar, dass wir uns mal richtig ausgucken im Labor. Hat natürlich zu bewandt ist, dass auch
+alle da sind und auch nicht zu spät kommen und so weiter. Das wäre jetzt meine Eingangsbedingungen an der Stelle.
+Gibt es noch, die sind jetzt ja da, aber gibt es noch irgendwelche Kollisionen mit irgendwas anderem oder mit,
+dass wir da eben pünktlich anfangen. Das wäre für mich eben die Voraussetzung.
+Weil sich auch halt irgendwie vorher alles ganz dritt vorausschieben hat.
+Also wir werden schon ein Zug werden.
+Oder wir fangen später an, da habe ich auch keinen Stress mehr für das.
+Ich schreibe das nochmal rein, weil das will ich Ihnen auch vorführen, damit Sie ihn einfach sehen.
+Es ist tatsächlich auch so, dass für diese kleine Schweißmaschine unten ein Trafo direkt unter dem Labor letztlich steht.
+Wir haben für die ganze Hochschule einen Trafo und nur für die Maschine haben wir auch einen.
+Warum? Weil wir eben für das Schweißverfahren so wahnsinnig hohe Ströme brauchen, damit das sauer funktionieren kann.
+So, es gibt auch noch sowas hier, auch mit den entsprechenden Frequenzen, aber das soll euch wohl nicht interessieren, sondern es geht darum, dass ein gewisser Ablauf passiert.
+Und der heißt eben, ich quetsche die letztlich erstmal zusammen, dann kommt der Strom dazu, dann halte ich das Ganze und Strom wieder aus und dann ist eben die Schweichung erfolgt.
+Die Anlagentechnik sieht so aus.
+An dem Gerät werden wir, wie gesagt, arbeiten, dass wir hier eben zwischen den beiden Elektronen unsere Bleche halten.
+Ich habe mal eine große hier dargestellt, dass wir hier eben reinnehmen.
+So, was könnte jetzt das Problem von diesem Verfahren sein?
+Sie haben jetzt alle diese Elektroden mal in den Händen gehalten.
+Das Plateau ist natürlich wichtig.
+Das heißt, das war jetzt ja irgendwie ein paar Millimeter.
+Wir haben welche 30 Millimeter als Plateau.
+Wenn wir da tausendmal drauf gedrückt haben, verschleißt das und das Plateau wird größer.
+Was heißt denn das?
+wo es geflächelt, wo es aber widerstand und ihr ganzer Schweißparameter verändert sich.
+Das heißt, dass sowas weiß man und deswegen wird sowas permanent gewechselt,
+rechtzeitig gewechselt, weil sich ja sonst wie gesagt die Parameter ändern.
+Und wenn wir uns jetzt mal so ein Beispiel anschauen,
+Dann habe ich nebenan eine Autokarosserie, das ist das beste Beispiel, weil diese Schweißung selber,
+und jetzt muss ich gleich auf das Bild gehen, das ist eben das, was sie in Händen gehalten haben.
+So sieht das aus. Deswegen sieht man auch die Hände da oben, aber man sieht eben einen schönen Querschnitt,
+sehr groß aufgenommen. Das sind jetzt auch nur diese drei, vier Millimeter. Aber in der
+Automobilkarosserie ist das völlig okay. Wenn Sie ein paar tausend von solchen Nähten haben,
+Punktnähten, kriegen Sie eben komplett die Kräfte übertragen. Die sind nicht dicht,
+da müssen wir wieder gucken, ob wir das abdichten oder eben ein anderes Verfahren nehmen. Aber dafür
+ist das sehr schnell, sehr kostengünstig, sehr gut automatisierbar und damit eine der wichtigsten
+Schweißprozesse gerade in der Automobilindustrie. An was könnt ihr euch erinnern? Wir fangen mit den
+Werkstoffen an, wir haben plötzlich Aluminium, dann funktioniert das alles nicht mehr, dann
+müssen wir wieder mit irgendwelchen Nieten arbeiten. Aber das Ganze funktioniert eben
+tadellos bei dünnen Blechen, im Überlappstoß, in der Feinwerkstatt nicht überall, letztendlich zu
+zu Hause. Und ich will das mal zeigen.
+Das ist jetzt eine klassische Automobilkarosserie.
+So, dann haben wir jetzt hier unterschiedliche Roboter. Ein paar sind zum Handling da.
+Sie positionieren jetzt also die entsprechenden Bauteile und der ganze Rest hat jetzt diese Zange,
+die Sie gerade als Stationäranlage gesehen haben, jetzt eben als transportable Zangeanlage.
+So, also erstmal, ja, ich brauche Kräfte, ich brauche Strom, aber insbesondere die Kräfte
+und damit wird das Ganze schon mal relativ groß.
+Also, Sie sehen das so ein bisschen auch angedeutet, das sind schon relativ große Roboter, die Sie dafür preisen, weil das Ding müssen Sie irgendwie halten.
+So, und jetzt fangen wir den Verrückten auch noch an, so viele von diesen Robotern da einzuholen zu setzen.
+Warum? Warum gibt es plötzlich, es kann doch eigentlich auch ein Roboter erledigen, das Thema.
+Das geht doch schon so wahnsinnig schnell.
+Wir haben jetzt vielleicht 10 Sekunden gebraucht, einer will 2 Minuten.
+Richtig. Also die Taktzeit ist vorgegeben und dann brauche ich eben analog zu meiner Schweißzeit so und so viel Schweißaggregate und damit Roboter, um eben diese Taktzeit zu erreichen.
+Also einfach ganz klar.
+Also, wie gesagt, eine sehr beliebte Anwendung in dem Bereich.
+Sowas gibt es auch in der Mikrotechnik. Auf alle Fälle, obwohl ich so hohe Ströme habe,
+da habe ich schon irgendwie Verluste, aber weil der Prozessor gar nicht so stark ist,
+bin ich auch nicht so justifizierend. Hohe Produktivität, Automatisierbarkeit,
+alles was die Automobilindustrie haben will. Aber es ist eben nicht nur Automobil,
+sondern auch Ihre Waschmaschine kann so gefertigt werden und so weiter. Immer wenn es um Dünne geht.
+Aber unser Hauptthema ist natürlich, das ist keine durchgängige Naht und damit nicht dicht.
+Ich habe auch noch ein anderes Thema, was die Effizienz angeht. Es geht ja um Stromfluss.
+Wenn wir uns das hier mal anschauen, das Teil ist schon hergestellt, jetzt kommt der nächste Punkt.
+Siehe da, der Strom will einfach den geringsten Weg des Widerstandes haben.
+Was machen wir dagegen?
+Das kann man nicht aufhalten. Das heißt, wenn der Strom andere Richtungen sucht, wird er das tun, aber wenn wir genügend Strom anbieten, wird auch ausreichend Strom diesen Weg nehmen und das wieder erledigen.
+Das heißt, je näher wir zusammenkommen, desto mehr Verluste haben wir. Das zeigt das eigentlich.
+Und jetzt habe ich ja davon, was kann man nämlich machen, um aus sowas eine Dichtung in Art zu machen, indem dieser und dieser Punkt sogar überlappen.
+Heißt auch nichts anderes, ich muss noch mehr Strom haben, weil hier der Weg für den Strom noch kürzer ist.
+So, es gibt auch Mehrfachsysteme und so weiter, die sind jetzt nicht so wirklich relevant.
+Das wäre nochmal kurz relevant, auch jetzt im Hinblick auf unsere Laborbesichtigung.
+Spritzer
+Sie haben es gerade im Film gesehen
+Das ist Metall, was das umeinander spritzt
+Aber, kann die tun
+Also, entsprechende Abstande, passt das
+Wir haben eine kleine Schubso-Richtung, kann nichts passieren
+So, was noch?
+Das ist besonders lustig
+Ja, die Hände haben nichts zwischen den Elektronen zu suchen
+Weil sonst quetschen sie die, ganz einfach
+Man kennt es, das Warnzeichen auch? Herzschrittmacher. Also ich hoffe nicht, dass Sie sowas haben. Wenn Sie sowas haben, dürfen Sie nicht an diese Maschine.
+Diese 40.000 Ampere machen ein derartig hohes, hochbequemtes Feld, Magnetfeld, dass es den Herzschrittmacher stören kann.
+Und als kleine Nebenstory wieder dazu. Wenn Sie mal später in Ihren Betrieben sind und vielleicht irgendwie mit Kunden zu tun haben und die durch Ihre Betriebe voller Stolz hören, was Sie da alles Tolles machen.
+Vielleicht haben Sie auch andere Anlagentechnik. Es ist nicht nur bei so einem Pumpschweißer, sondern vielleicht auch bei anderen so, dass da so ein Schild ist. Nehmen Sie sowas ernst.
+Sehen Sie zu, dass Ihre Leute nicht irgendwie sich selber in Gefahr bringen, weil sie das Schild nicht sehen.
+Sowas müssen Sie einfach draufhaben, wenn Sie in Ihrem Betrieb unterwegs sind.
+Wie ist sowas eben tatsächlich mal passiert?
+Wenn ich eine Gruppe hatte bei so einer Anlage und dann so Scherze hatte, das waren ganz alle jungen Leute,
+aber einer davon hatte eben schon ein Herzschritt nach.
+Und der ist dann erst mal zwei Meter zurück gesprungen, als ich das dann so erklärt hatte.
+So flapsig eigentlich, nur weil ich nicht gedacht hätte, dass da überhaupt jemand dabei ist.
+Aber da muss man rechnen und muss eben auch einfach fragen.
+So, das wären die Gefahrenpunkte. Jetzt gehen wir auch wieder zurück zu unserer Technik.
+Wenn wir sowas haben wollen wie die Dose, dann müssen wir überlappen. Das ist nichts anderes.
+wie viel Spaß macht das, jetzt so eine Elektrode im Auge zuzumachen? Dauert ja Zeit. Also ist der
+Hauptunterschied jetzt beim Rollen am Schmeißen, wie der Name schon sagt, das ist immer noch genau
+das gleiche Thema. Nur, dass meine Elektrode nicht mehr so eindimensional ist, sondern dass
+die abrollt. Das heißt, über das Rollen muss ich nicht mehr aufmachen, ich habe permanent Kontakt
+und schiebe jetzt aber
+quasi in einer gewissen Frequenz
+meinen Strom da durch.
+Und in Abhängigkeit, wann ich
+meinen Strom hier durchschicke, die Kraft ist auch
+gleich die ganze Zeit, aber
+wenn ich hier den Strom letztlich
+durchschicke, gibt es eben einen Punkt
+und wenn der so schnell kommt,
+dass er überlappt, dann habe ich eben einen überlappenden
+Arm. Und so macht
+man das bei aller Dosenherstellung.
+So sieht das Ganze letztlich aus.
+Es fährt jetzt eben
+das Bauteil entweder durch diese
+Elektroden oder die Elektroden
+fahren da drüber.
+Wie kann das jetzt bei der Dose
+funktionieren?
+So, jetzt muss ich da ja auch
+unten rein, richtig?
+Das funktioniert tatsächlich.
+Bei dem gibt es eben nur ein kleines Rad,
+was wir reversieren.
+Die fahren rein und fahren wieder raus.
+Natürlich ist noch kein Deckel drin.
+Das heißt, das ist die erste Naht, die hier gemacht wird, indem eben das Blech selber rolliert wird und dann dazwischen durch entsprechend diese Naht bekommt.
+Und das extrem schnell.
+Das sind die Taktzeiten von einer Sekunde?
+Ja, genau.
+So ein realisierter Prozess ist das.
+Also Schweißzeit, eine Sekunde
+und dann eben nochmal eine halbe Sekunde
+zurückfahren und das gleiche wieder.
+Dann dauert das Wechsel der Dose länger
+wie der eigentliche Schweißprozess.
+Ja, ist ja klar.
+Hier sind Milliarden von Dosen, keine Nährgestellung.
+Das ist ja gigantisch, was da weltweit passiert.
+Und das heißt auch,
+in dem Fall,
+also die ganze
+Branche, da gibt es eben Anlagenhersteller,
+ich zeige euch ein paar andere
+Beispiel, aber das ist eigentlich die Hauptanwendung. Wir machen nichts anderes wie für Dosen oder
+Sättelstift. So, hier ein bisschen kleinere Querschnitte. Warum? Weil ich bei gleichem
+Strom eben weniger Querschnitt schweißen kann. Aber bei den Dosen ja auch gar kein
+Problem. Wo wird es schon schwieriger? Das wäre die Anwendung hier. Ihr kleines Fünf-Liter-Fästchen,
+wie hier. Gucken Sie, hat den gleichen Strick. Sieht genauso. Und die Wandstärke ist ein bisschen
+dicker, wie bei meiner Dose. Warum? Weil Druck drauf ist. Da muss eben auch eine höhere Festigkeit
+Das ist, wie gesagt, das Thema. Es gibt auch noch ein paar andere Sachen, aber das Hauptthema bleibt und ist eben diese Thematik.
+So sehen die Anlagentechniken aus. Dann muss ich eben durch.
+Und tatsächlich, unsere Punktschweißanlage kann ich auch umbauen zur Rollenanschweißanlage.
+Ich muss ja nur die Elektronen messen.
+Jetzt kommen wir aber noch zu einem Clou, das war ja, wenn Sie das so machen wie hier,
+könnten Sie sich ja an dem Teil da verletzen. Das ist nicht gut.
+Und deswegen gibt es hier eine Unterrubrik, das nennt sich, wo haben wir sie, die Quetschnaht.
+Das heißt, da wird der Überlapp so klein gemacht, dass ich gerade noch so ein bisschen was habe.
+Wir können bei jeder Dose ja immer noch ein bisschen fühlen.
+Wenn Sie da ganz nah hingucken, ja, da ist noch ein bisschen Überlapp da,
+aber der soll möglichst eingehebnet sein und eben nicht überstehen.
+Wenn jetzt die genannte Blechstärke überstehen sollte, hätten Sie sich wieder schneiden können.
+Und so wird das da reingepresst.
+Gut, aber das zeugt hier auch noch davon, auch diese Elektrodenwerkstoffe, die verschleißen wieder.
+Es gibt auch sowas wie negative Verschleife, wenn ich wieder mit Aluminium anfange zu schweißen, dann macht das wieder keinen Spaß, weil dann Aluminium auch mal eine Elektrode ist und dann verändern sich wieder die Eigenschaften.
+Deswegen gibt es sowas wie da hinten, dass ich einfach ein Draht gleich mitfahre, der dann nochmal zwischen Elektrode und Blech ist und dieses Aluminium dann aufnimmt zum Beispiel.
+Ja, völlig richtig. Aber das Problem an der Stelle, und das muss ich jetzt nicht falsch bezeichnen erstmal, ist, ich habe ja wieder dieses Eindrücken.
+Das heißt, da fehlt mir wieder ein Färschnitt.
+Ja, dann würde das ja hier so eine Eindellung bedeuten und würde was fehlen.
+Die Idee hier dahinter, das steht da auch, ist eine Folie, das heißt, da wird Zusatzmaterial
+wieder eingebracht und das kostet wieder Geld.
+Und deswegen hat man da schon wieder keine Nutzung.
+Aber soweit erstmal klar, so wie bei der Punktnaht, da haben Sie es gesehen, da ist eine Delle
+drin.
+Und dann muss ich die gesamte Dose dicker machen, damit sie die Festigkeit hat und das
+würde ich auch machen.
+Okay?
+So, jetzt haben wir noch das Thema zum Schluss, das ist der Verschleißschluss beim Punktschweißen.
+Ich hatte ja gerade gesagt, die Elektrode kann verschleißen, wenn ich die Funktion der Elektrode mechanisch gesehen,
+ist ja auch eine punktuelle Kraftübertragung zu haben.
+Wenn ich den Punkt direkt ins Bauteil setze oder ans Bauteil setze,
+Das ist eine Mutter, die an vier Ecken einfach so ein bisschen gestaucht wurde und damit auf vier Stelzen quasi hier drauf gesetzt wurde.
+Vier punktuelle Verbindungen, Strom durchfließt, ich quetsche drauf und habe wieder mal eine Verbindung.
+So zu heißen, wenn ich, die Elektrode ist flach und bringt nur noch den Strom und die Kraft, aber nicht mehr den Punkt,
+Und wenn ich beim Umformprozess vorher hier ins Blech so eine punktuelle Wurzel, beziehungsweise nicht Wurzel ist es nicht, sondern so eine Warze heißt das Ding sogar, das heißt so eine kleine Erhebung eingedellt habe, kann hierüber wiederum ein punktueller Strom laufen.
+Die Naht selber sieht nachher genauso aus. Man erkennt es nur daran, dass über den Umformprozess vorher, weil hier wurde ein Umformwerkzeug in einem Vorprozess angesetzt, um das so ein bisschen einzudämmen.
+Und dann ist das Ganze aber nicht mehr entsprechend verschleißmäßig bei der Elektrode, sondern im Blech selber und da imposieren wir das nicht, weil da schweiß ich ja eh.
+Was ist der Vorteil davon?
+Der einzige Vorteil ist tatsächlich, dass meine Elektrode online arbeiten kann.
+Die geht nicht mehr kaputt.
+Weil hier jetzt ja meine punktuelle Geschichte ist.
+Nachteil, ich muss den Punkt einbauen. Ich habe einen Vorprozess.
+Ich habe vielleicht hier nochmal gezeigt.
+Da ist ein Tiefziehwerkzeug, was das hier eindellt, damit es sich hier unten so aufbaut.
+Manchmal ist es aber so, wenn ich sowieso ein Bauteil tiefziehe, weil ich so eine Form haben will,
+dann mache ich ins Tiefziehwerkzeug so ein paar Punkten einfach da, wo ich nachher schweißen will,
+eben nochmal eine kleine Ausdehnung rein, ins Werkzeug.
+Also das mache ich nur, wenn ich sowieso...
+Wenn ich sowieso mache, weil der Aufwand nur, damit ich diese Warzen dann irgendwo habe,
+im Umfang merkt man, dass der auch zu viel ist.
+Oder ein anderes Beispiel, wenn ich z.B. zwei Drähte übereinander lege, wie ist denn die Fläche, die denn entsteht, wenn Sie zwei Runddrähte aufeinander legen?
+Punkt. Also, zwei Drähte, da brauche ich gar nichts machen, kein Tiefzuwärts oder nichts,
+sondern die bringen einfach über die Überlappung schon die punktförmige Verbindung mit. Dann
+quetsche ich die beiden zusammen, Strom durch, fertig, man kann die wunderbar mit der Nase
+verschweißen. So, anlagentechnisch sieht es schon wieder so aus wie eben bei den anderen beiden,
+nur dass meine Kohle einfach nur noch so eine Platte ist.
+So, und das wäre jetzt das Beispiel, da habe ich mal kurz drauf geschaut, von meiner Mutter.
+Hier sieht man zwei, dahinter sind jetzt nochmal zwei, die man in vier Stellen gleichzeitig so eine Punktnaht erzeugt.
+Nichts anderes ist da.
+Okay.
+Ein.
+Hast du was?
+Gut, nächstes Mal machen wir noch das Reitschweißen und dann sind wir auf Trennungsschweißen.
+Danach würde ich das Ganze dann auch mit Laborbesichtung eben weiterführen.
+Dann sind wir aber doch erst übernächstes Mal in Laborbesichtung.
+Genau, also nächstes Mal bringen wir noch das Reitschweißen zu Ende.
+Okay.
+Gut, dann danke.
+Vielen Dank.
+Dann zwei miteinander, korrekt?
+Ja.
+Ja, danke.
+Vielen Dank.
