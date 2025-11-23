@@ -1,0 +1,1247 @@
+...
+Vielen Dank.
+Vielen Dank.
+Das heißt, wir haben nur eine Feder.
+Noch eine wieder wirksam, sobald die Auslegung erfolgt.
+Und das heißt, die Steifigkeit ist dann 10 Minuten pro Millimeter.
+Im zweiten Fall soll angenommen werden, dass diese Feder dann jeweils Zug- und Druckkräfte aufnehmen kann.
+Sie hat jeweils eine Länge von 200 Millimetern.
+Sie hat eine Steifigkeit jeweils von 10 Minuten pro Quadratmillimeter.
+Das heißt, die machen alle gleicher Federweg.
+Beide Federn.
+Durch eine Parallelstrahlung.
+25 mm.
+Der Verhaltenspunktfehler wird hier eingefragt.
+Das heißt, die wird jeweils vorgespannt, um eine Auslängerung von 20 mm zusammengedrückt.
+Die Maximalauslenkung ist 20 Millimeter.
+Es sagt also, diese Hochfedern sind beide immer im Einsatz.
+Und auch da ist dann 20 Millimeter, sozusagen die korrespondierte Gesamtsteifigkeit des Systems.
+Das war's.
+Nächste Woche war nichts zu hören.
+Nächste Woche war nichts zu hören.
+Vielen Dank.
+Elastische Bauteil-Performen für die gespeicherte Energie bei einer rotatorischen Beanspruchung einer Drehstabfeder.
+Bei der Zugstabung an dieser B, die Arbeit ist ein halb mal S-Max, ist ein halb mal C-S-Quadrat, wo man das ersetzt, ist F, ist C mal S.
+Für diese Rotation eines Drehstabes gelten die beiden Formen da oben.
+Diese M-Rot.
+Wenn wir das noch ergänzen, das ist Seite 108 des GRIPFEDER, das ist diese gespeicherte
+Energie bei einer Drehstabfeder gleich m durch 2 mal ct, die Steifigkeit der Stabfeder betrifft,
+das wird hier ct halbe mal 4 Quadrat.
+Das brauchen wir noch, das ist mir irgendwie durch die Lappen gegangen, das da rein zu schenken.
+Wir werden jetzt ein paar Rechnungen machen zu Schraubenschlägen und deren Auslegung.
+Und dazu gibt es jetzt sozusagen eine Beispielrechnung, die ist in dem Skript auch drin, in dem Team-Moment.
+Und das können wir uns jetzt mal anschauen.
+Haben Sie das?
+Wenn man das ergänzt.
+Sie?
+Haben Sie das?
+Was?
+Die Formel da unten.
+Seite 108 im Skript.
+Das müssen Sie ergänzen.
+Das ist die Federarbeit oder das Arbeitsvermögen einer Drehstabfeder.
+Wir würden gleich mal berechnen.
+Vorab.
+Vielen Dank.
+Und bei der ZU12 haben Sie sozusagen die Lösung jetzt in die Falle mit angegeben.
+Es ist eine Schraubenzugfeder, bei der Variation von Steifigkeit und Belastbarkeit vorgenommen werden soll.
+Wir haben A, einen Ausgangsfall, ich schreibe jetzt mal die Formeln mit, die gehen dazu, also da bitte mal wirklich sich hinsetzen und eine Formel dann noch machen,
+die wir hier abgelaufen sind. Der Ausgangsfall, der Fall A, 4 m², 2 mm, 18 mm Bindungsdurchmesser und die Anzahl der Kugeln in den Bindungen beträgt 22.
+Und in diesem Detail A ist die Ausgangsstellung A jetzt zum nächsten Mal.
+Zunächst wird die Feder A mit 2 mm Federtragdurchmesser, 18 mm mittlerer Wiedungsdurchmesser und 22 mm Wiedungsdurchmesser ausgeführt.
+Ausgangsfall ist nun im Schema.
+Rechnen Sie zunächst Steifigkeit, Belastbarkeit, speicherbare Arbeit und die Masse dieser Feder.
+Da vollständigen wir also die widmere Spalte.
+Die Widmung der Federmassenbrücke sind nur die Anzahl der federnden Windungen.
+Und diese Aufgabenstellung A ist jetzt hier gelöst.
+Und das können wir jetzt mal ganz kurz miteinander durchgehen.
+Zu den korrespondierenden Formeln, die wir jetzt festzuhalten,
+Die Steifigkeit ist d mal d, das ist der Tragungsmesser, hoch 4 mal durch 8 mal dm hoch 3 mal iw.
+Die Kleinheiten sind hier alle in Millimeter respektive Newton, sodass auch eine Steifigkeit pro Millimeter rauskommt.
+der Punkt ist jetzt der, dass wir gesagt haben,
+es gibt eine Spannungsüberhöhung,
+die wird mit diesem Faktor
+K berücksichtigt.
+Damit ergibt sich eine Belastbarkeit.
+Und dieses K
+ist eine Frage
+des
+Windungsdurchmessers und des Durchmessers
+des Drahtes und entspricht
+dieser Formel. Das heißt, Sie müssen
+jetzt, und machen Sie das
+bitte mal, ob Sie da zu den
+richtigen Ergebnissen kommen,
+für das K
+das Ganze ausrechnen.
+Machen Sie das mal, bitte.
+Dass Sie das
+hinbekommen.
+Ich sage es mal, mitmaßlich wird es so eine ähnliche
+Aufgabe, welche
+wahrscheinlich auch in der Prüfung stellen.
+Ich spiele mal ein bisschen rum.
+Wir haben jetzt eine feste Vorgabe, 18 mm Bindungsdurchmesser, 2 mm Raddurchmesser, Parameter waren angegeben.
+Wissen Sie, was ich machen soll?
+Also das K, jetzt mal hier so ausrechnen, ob Sie da hinten auf das richtige Ergebnis kommen, auf die 1, 1, 5, 1.
+Das ist die Aufgabe 2, 12.
+Ganz unten.
+Weite Richtung. Ganz runter.
+Ganz unten.
+Noch weiter.
+Haben Sie es?
+Ja.
+Da steht die Lösung.
+Die habe ich Ihnen da mit angegeben, weil das ein schönes Beispiel ist, wie das Ganze gerechnet wird.
+Und das bitte ich jetzt mal nach.
+Ich habe die Fehler 2.12 so in den Rechner reintippen, wie Sie das in der Prüfung machen würden müssen und auch da bekommen.
+Die Steifigkeit dieser Feder ergibt sich auch aus diesem Bindungsverhältnis.
+Das heißt, klein d und dm oder groß d, wie man es einfacherweise bezeichnet,
+und wird hier jetzt berechnet 1,09 Newton pro Millimeter.
+Ja?
+Haben Sie keinen Taschenrechner dabei?
+Ja.
+Ja, aber Sie müssen das dann nachher in der Prüfung ohne das Teil machen.
+In der Prüfung gilt nur ein nicht programmierbarer Taschenrechner.
+Ja, nur Stift.
+Ja, genau. Ein nicht programmierbarer Taschenrechner.
+Kann man nicht die Taschenrechner benutzen?
+Doch, aber darf nicht programmierbar sein.
+Ah, okay.
+Ich sage jetzt mal, es gibt auch für die ganzen Schraubenberechnungsprogramme entsprechende Tools,
+Excel-Tabellen, da hauen Sie Ihre Sachen rein, kommen Sie hinten raus,
+aber Sie sollten das ja mal prinzipiell hier verstanden haben.
+Das ist so eher meine Intention.
+Haben Sie es hingekriegt?
+Passt, ja.
+ist klar
+da steht also ein Beitrag
+das ist so ein Korrekturfaktor
+der sagt, wie hoch ist die Spannungsüberhöhung
+nochmal aus der Vorlesung heraus
+Wenn der Drahtdurchmesser immer dicker wird und der Windungsdurchmesser kleiner, wird dieses Wickelverhältnis immer kleiner.
+Damit gibt es eine Abweichung von der Spannungsverrechnung und das ist dieser Faktor K.
+Der gibt an, wie hoch die nominale Spannungsüberhöhung ist, der real vorhandenen Entspannung im Verhältnis zu dieser Formel, die wir haben.
+Das macht jetzt dieser Korrekturfaktor K.
+und
+je kleiner der Durchmesser der Wicklung
+je dicker der Draht
+desto höher ist das K
+damit wird die real vorhandene Spannung
+berücksichtigt
+ja
+und
+dieser, nennt man auch Überhöhungsfaktor
+und den können wir jetzt
+mit dieser Formel berechnen
+haben wir gemacht
+und der fließt auch ein
+Und die Fmax ist die zulässige Schubspannung, weil das Material auf Klausuren beansprucht wird.
+Pi mal D hoch 3 durch K mal 8 mal dm.
+Dann kommt dann die maximale Kraft raus und 60,65 N, wenn ich das richtig gerechnet habe.
+Die Arbeit ist jetzt Quadrat max durch 2 mal c.
+Wir haben die beiden Werte, die wir vorher eingerechnet haben, oder berechnet haben, einzurechnen.
+Und dann kommt eine Arbeit aus von 1,687 Minuten mal Meter.
+Das haben wir jetzt die Einheit gekriegt.
+Haben wir am Ende Formverhandlungen zu unterschrieben?
+Ja, können Sie machen.
+An verschiedene Formen machen?
+Ja, können Sie machen.
+Ich bin noch am überlegen, ob Sie auch gerechnete Aufgaben nehmen dürfen.
+gerechnete Aufgaben
+in dem Sinne, dass die Hand geschieden sind
+ich weiß nicht, ob das praktikabel ist
+ich möchte aber nicht, dass wir mit dem
+Päckchen da
+anscheinend
+Das war vor fünf Jahren noch nicht so ganz gängig, da hat das erst angefangen, dass die
+Leute die Skripte im Tablet bearbeitet haben. Vor zehn Jahren gab es alles noch als Ausdruck.
+Dann hat man alles auf Papier gemacht. Dann durften die Leute den Umdruck aus der Vorlesung
+mitnehmen. Ich habe auch eine Online-Prüfung gemacht, wo die Leute zu Hause alles benutzen
+durften. Das muss ich mir nochmal überlegen. Dann habe ich aber mehr Aufgaben gestellt,
+erstmal lösen konnte, also um Bedrohungen irgendwie zu vermeiden.
+Fragen Sie es hier her.
+Das ist jetzt eine Dimensionierung, das ist die maximale Belastbarkeit auf Max 60,65
+und darauf ergibt sich die speicherbare Arbeit.
+Die Masse der Feder M ist das Volumen mal das spezifische Gewicht M ist Rho mal V.
+Um das Volumen auszurechnen, braucht man die Kehrschnittsfläche des Federtrades, mal die Federtraglänge, mal den spezifischen Gewicht.
+ist der Umfang einer Windung mal Anzahl der Windungen und das Ganze miteinander multipliziert,
+da kommt dann diese Formel raus, Pi mal d², klein d ist der Durchmesser, mal d mal Pi,
+Dieses hier, dieser Ausdruck, das ist die eine Windung, Pi mal D, einmal die Kreiswindung des Filterdrahtes, mal die Anzahl der Windungen, mal die Dichte.
+Die Dichte, da oben 7,84 angegeben, da oben 7,84, zu der Sehnsuchtspannung 400 Newton pro Quadratmillimeter und damit ergibt sich dann eine Fehlermasse von 30,6 kW.
+Die Belastbarkeit dargestellt und die konstruierten Werte hier,
+die speicherbare Arbeit und die Belastbarkeit.
+Steifigkeit war gegeben durch die beiden Parameter D und D.
+Was ist das W? W ist F, das ist die speicherbare Arbeit. Das ist Fs halbe, das könnte man auch rechnen.
+Vielleicht jetzt hier das S ersetzt.
+Jetzt kommt die Überlegung, Fall B, sind wir bei der Überlegung, dass wir die Überlegung
+Eine weitere Feder B soll unter Beibehaltung der Werkstoffparameter VO2 mit doppelter Streifigkeit ausgeführt werden,
+wobei der Federtragdurchmesser beizubehalten ist und die zusätzliche Schubspannung vollständig ausgenutzt wird.
+Dann ermitteln Sie sämtliche dazu erforderlichen Federraten oder Federdaten.
+So, dann gehen wir mal runter, wie der sich gelöst hat.
+Gleiche Belastbarkeit ist Max, bleibt also erhalten.
+Das bedeutet, dass wenn der Federdrahtdurchmesser behalten werden soll,
+Das war die Maßgabe.
+Dann dürfen wir auch an den Bindungsdurchmesser nichts verändern.
+Für den Fall D oder Fall C, den ich vorgelegt habe, ist es genau umgekehrt.
+Da schreibt man, der Bindungsdurchmesser muss beibehalten werden.
+Dadurch hat man ein fest vorgegebenes Verhältnis K,
+was sich auf Fmax in der Formel auswirkt, wie wir vorhin hatten.
+Das hier.
+Verlassbarkeit soll erhalten bleiben.
+Man muss auch das K, das D, das D, Groß-D und Klein-D gleich bleiben.
+Und wie stellt er jetzt die Steifigkeit ein?
+In dem C, B und C doppelte Steifigkeit haben sollen.
+Die Steifigkeit wird verdoppelt durch Halbierung der Anzahl der federnden Windungen.
+Ganz einfach.
+Wenn das hier konstant bleibt, habe ich nun die Eingriffsgröße IW.
+Je mehr Windungen ich habe, desto kleiner ist die Federrate.
+Weil das quasi eine Hintereinanderschaltung der federnden Windungen ist.
+Wenn ich dort also 20 habe oder 22, wie in unserem Fall,
+Ich möchte doppelte Steifigkeit haben, Anzahl der drehenden Bindungen wird halbiert auf 11.
+Ich schließe vorne, B, speicherbare Arbeit, F Quadrat, Achtung, F Quadrat, Belastbarkeit,
+die Steifigkeit nicht ändern, nur eine vierfache Energiespeicherung, ja.
+Frage dazu, also die Steifigkeit in so einer Schraubenzugfeder wird eingestellt durch die
+Durch die Anzahl der fehlenden Bindungen und das Verhältnis von G und D,
+wo das konstant bleiben muss, aufgrund der Belastbarkeit, wird es so gerechnet.
+Also soweit klar. Eine weitere Feder D soll über den Ausgangsfall die doppelte Belastbarkeit aufweiten.
+Wo gehen wir da jetzt hin? Auf welche Formel? Das ist das Fmax.
+Wobei der Federtragdurchmesser beibehalten wird. Da bleiben wir bei den 2 mm.
+Ermitteln Sie sämtliche dazu erforderlichen Fehlerdaten und füllen Sie die Spalte D vollständig aus.
+Jetzt kommt das zum Tragen, wie dieses System funktioniert.
+Achtung!
+Verdoppelung der Belastbarkeit, Fmax für den Fall D ist 2 mal Fmax A.
+Ich hoffe, dass bei beibehaltenem Friedertrahtdurchmesser der Linusdurchmesser aus Festigkeitsgründen neu dimensioniert werden muss.
+Was wir jetzt hier machen, ist Fmax, das ist tau zulässig, Pi mal 0,3 K, 8 dm.
+Und dm, daraus berechnen wir unter der Maßgabe, dass wir ja jetzt hier zwei Unbekannte haben.
+Das ist im Prinzip das dm und das K. K ist eine Funktion von klein d und groß dm.
+Und jetzt brauchen wir einen iterativen Prozess, um das Ganze steuern zu können.
+Das K ist selbst eine Funktion von dm.
+Deshalb müssen wir jetzt eine Annahme machen.
+Und wir nehmen aus der Annahme, aus dem ersten Experiment oder der ersten Berechnung,
+hatten wir k berechnet
+mit 1,15
+sagen wir mal
+wir haben da jetzt eine Veränderung vorzunehmen
+und wir müssen uns diesem Prozess
+dieser Berechnung von k
+iterativ lehren
+um eine vernünftige Auslegung machen zu können
+wenn wir jetzt
+k 1,15
+1 einsetzen
+und die anderen Parameter
+tau
+klein d
+Und da unten das Fmax, das war ja die doppelte Belastbarkeit, 60,65 mal 2.
+Weil er gar nicht ausgerechnet hat, hat er direkt hier eingetragen, kommt ein Windungsdurchmesser von 9 mm aus.
+Jetzt können Sie sagen, ich bin fertig. Funktioniert aber nicht.
+Weil sich das Verhältnis D zu D verändert hat, müssen wir das K iterativ annähern und in einem zweiten Prozess neu berechnen.
+Das heißt, wir gehen jetzt mit dem ermittelten Gm, 9 mm, neu in die Überrechnung,
+vorher waren es 18, kommen dann auf ein K von 1,332.
+Das wiederum wird in die Formel mit dem dm eingesetzt, hier unten in 1,332.
+Und erst dann, wenn sich bei dem K da unten keine Veränderungen mehr ergeben,
+das sind mehrere Iterationsstufen, die hier gemacht werden,
+1,369, 1,42, 1,429, erst dann sind wir fertig und haben, ich sage mal, die Aufgabe gelöst in dem Moment, wo bis K sich da hinten für die Nachkommastelle nicht mehr ändert.
+Wir kommen von den 9 auf 778, 7,42, 7,295, 7,25 mm.
+Da sind wir bei 7,25 mm, sind wir schon in der zweiten Nachkommastelle.
+Spannungsüberhöhung ist eine Frage des Fitnessverhältnisses.
+Über dieses iterative Näherungsverfahren sind wir jetzt in der Lage, dieses K und das DL,
+also die gegenseitige Abhängigkeit, zu verknüpfen und sich anzunehmen.
+Einverstanden?
+Ja.
+Das ist jetzt viel Arbeit in dem Beispiel, weil es über vier Integrationsstufen hinweg geht.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Die Belastbarkeit verdoppelt und die 60,2 auf die 121,3 Steifigkeit wird erhalten,
+die speicherbare Arbeit
+verpilfert.
+Er ermittelt dann jetzt hier
+das W, wird umgestellt
+nach W
+für die Steifigkeit.
+Die Steifigkeit C wird eingestellt
+in die Anzahl der Flieger in die Linie 0,
+die 1,09 bleibt konstant.
+Der Durchmesser,
+den wir jetzt hier durch die Iteration
+bekommen haben, ist die 7,25
+Millimeter 70 Tauben mal 2 Millimeter hoch 4 und dann kommen wir auf 337 Millimeter.
+Fragen dazu?
+Das ist jetzt ein iteratives Verfahren, wo man die Co-Abhängigkeit von D und K hat, egal welches D es ist.
+Und dann wird hier ab und zu das Vorgehen beschrieben.
+Masse ist Querschnitt mal Länge der Feder, 2 zum Quadrat, Pi mal D, mal 7,25, mal Pi, mal Anzahl der Federn in der Länge, mal Dichte.
+Diese Feder mit einer doppelten Belastbarkeit, ist jetzt viel enger gewickelt, 7,25 mm, hat über der Prämisse dann 337 mm.
+Bei einer identischen Zeit ist es falsch.
+Ausgangsfall 2.18, Korrektur, doppelte Belastbarkeit, gleiche Steifigkeit, weiterhin 2 mm, korrigiert 7,2 oder 7,25, Anzahl der Federmine 337, Steifigkeit bleibt im Fall erhalten, Belastbarkeit wird verdoppelt,
+Die speicherbare Arbeit wird vervielfacht mit b gleich f² und Federmasse 189.
+Das sind die Federn mit einer doppelten Belastbarkeit, gleiche Steiglichkeit, sechstache Masse.
+Nächster Fall, da hat er die Gewinnungsdurchmesser beibehalten und jetzt müssen wir den Fägerdurchmesser berechnen.
+Die Gewinnung bleibt gleich, die Steifigkeit soll gleich bleiben.
+Steifigkeit wird über die Anzahl der Fäger in den Windungen eingestellt.
+Auch hier wird diese Iteration und die Annahme, Verdoppelung der Belastbarkeit bedeutet, dass bei beibehaltenen Windungsdurchmesser der Drahtdurchmesser aus Festigkeitsgründen neu dimensioniert werden muss.
+Fmax wird jetzt umgestellt. Da kommt der doppelte Wert hin. Die unbekannte ist jetzt dm und jetzt wiederum das k.
+k ist weiterhin unbekannt. Deshalb nehmen wir die Annahme. Wir nehmen jetzt mal dieses k 1,429 rein aus der vorherigen Rechnung.
+Nehmen das da oben rein und dann kommen wir jetzt plötzlich auf 2,708 mm.
+als Wert und die 18 mm im Vergleich gehen jetzt wieder in diese Iterationsschleife und sehen, naja, der Abfall dahinten, der ist, die Differenz bei den K-Berechnungen ist da von Anfang an relativ klein,
+Bei dem 1,98 tut sich da gar nichts mehr und dann kommt, ja das ist jetzt hier noch ein bisschen weiter ausgeführt und ich sehe jetzt gerade 2,554, 2,554.
+Sie müssen das mal in den Rechner eingetippt haben.
+Die Anzahl der federnden Bindungen wird jetzt eingestellt über IW, G mal W hoch 4, Bindungsdurchmesser
+Damit haben wir eine Verdopflung der Belastbarkeit mit einer Belieferarbeit, die speicherbar ist.
+Das ist das F2max-Papier durch 2 mal 10.
+Die Dichte für die Masse der Feder ist N mal O.
+Masse, Querschnitt, Länge der fehlenden Bindungen, Anzahl der fehlenden Bindungen, 58,5, die 18 mm, 132,7 g raus.
+Die Aufgaben 2, 8
+sind im Grunde genommen 2, 7 bis
+2,7 bis
+das sind jetzt alle ähnlich
+immer wieder der gleiche Rechnung
+k ist eine Funktion
+von d und d
+Sie müssen die Iteration rechnen, Sie haben Ihre Festigkeitskennwerte, Sie müssen über die Anzahl der fehlenden Bindungen die Steifigkeit einstellen und über das Verhältnis K, das Wickelverhältnis, D zu D wird die maximale Belastbarkeit über Tau eingestellt.
+Ja, nun wird dimensioniert.
+Belastbarkeit, Fmax, in Frage der Schubspannung, Verhältnis K, D und D.
+Hier ist so eine Vorgabe gemacht, das ist im Prinzip ein ähnlicher Rechengang, Aufgabe 2.10.
+Das können Sie gerne exerzieren, mal durchführen, selber rechnen und gucken, ob Sie zu den Erlebnissen kommen.
+Wir könnten das jetzt als kleine Aufgabe, ich sag mal, vorne fängt das so an, dass
+Sie das jetzt mal selber machen.
+Ja, mit den vorhandenen Formeln erstmal durchrechnen.
+Ich sage jetzt mal, ich laufe ein bisschen rum, gucke, was ich da vielleicht hinkriege.
+Das ist der Drahtdurchmesser, das kann man abwählen, oder?
+Wir haben Aufgabe und Wirkung für Aufgabe, aber für mich gibt es keinen Unterschied
+zwischen diesen zwei Aufgaben.
+Sollen wir das jetzt mal verrechnen?
+Wie kann man die Ende-Lösung lesen?
+Für z.B. die Aufgabe 2,7 bis 2,7?
+Wir machen jetzt 2,7 und die anderen Sachen stelle ich irgendwann online.
+Sie sollen das mal selber probieren.
+eine Hausaufgabe auch, dass Sie die Aufgaben zwei, acht bis zehn Mal rechnen und sich nicht
+einfach hinsetzen. Es werden typischerweise mit gleichen Fehler gemacht. Fehler bei den
+Einheiten, in der Umrechnung, es wird falsch eingetippt. Sie bekommen von mir noch die
+Lösung dazu, zu den anderen Aufgaben. Ich will aber noch ein bisschen warten. Ich werde
+heute auch online noch einen Kommentar reinschreiben, dass Sie bitte die Aufgaben 2.8 bis 2.11
+selbst erst einmal berechnen,
+wie wir dann
+die Lösung veröffentlichen.
+Und diese
+eigentliche Aufgabe
+ist es sicher
+in unserem Beispiel.
+Was man sagt,
+gegen so eine
+Schraubenzugfeder,
+was definitiv auch kommen wird, sind
+Schrauben.
+Das ist noch ein Kapitel, was wir noch machen.
+Jetzt machen wir noch ein bisschen
+Vielen Dank.
+Amen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Amen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Machen Sie das jetzt?
+Warum nicht?
+Doch, ich bin jetzt nicht so ganz sicher.
+Das mache ich vielleicht langsam, aber...
+Sollen wir nochmal, was verstehen Sie jetzt nicht?
+Doch, ganz systematisch.
+Wo sind die Begriffe dahinter?
+So, schwer zu sagen, aber wenn ich über diese Regelrechnung aufgabe, die nicht eine systematische...
+Sonst gehen wir nochmal auf die Formel, gehen wir nochmal auf die Rechnung.
+Zunächst einmal, also jetzt bei A, ne?
+Die Steifigkeit bei einer Schraubenfeder.
+wird eingestellt über das Verhältnis
+über das Streifenspeich
+wird eingestellt
+über D
+zu D
+dieses Wicklungsverhältnis
+das ist jetzt hier vorgegeben
+18 mm
+und 2 mm
+bei der anderen Aufgabe
+ist jetzt noch weiter
+Und da das eine Torsionsbeanspruchung ist, die wir in erster Linie haben, die Feder wird auf Zug beansprucht, das Material in sich, aber tortiert.
+Das kommt dann zu Formen zustande und die Steifigkeit bei so einer Feder wird eingestellt in der Regel über die Anzahl der federnden Windungen.
+Das sind 22, auch das ist vorgegeben.
+Und da kommt eine Steifigkeit raus von 1,09.
+Wenn ich mit einem 1,09 Newton an der Feder ziehe, lenkt sie sich um einen Millimeter.
+Das ist die Steifigkeit.
+F ist C mal S.
+Ich frage bitte, wie groß ist die N?
+Ich mache es gleich.
+Das N?
+Also die erste Rechnung.
+Was muss man machen, um das f zu berechnen, wer hat es geschafft, haben Sie es da hinten
+mal probiert?
+f max, was kommt raus?
+Ja, ich probiere.
+Das sind im Prinzip genau die gleichen Formeln, die wir vorher hatten.
+Belastbarkeit Fmax ist G.
+Und da oben Fmax ist Pi mal D hoch 3 K durch 8 dm mal Tau zulässig.
+Für das K suche ich mir jetzt erst mal irgendwas aus.
+Was machen wir mit dem K?
+In der Vorlesung steht, man soll mit 1 anfangen und dann eben das Iterieren machen.
+Ja, aber wir haben hier festgegebene, vorgegebene Werte.
+Also es gab eine Formel zur Berechnung von K.
+Welche Formel war das?
+1 plus 5 Viertel mal d durch d plus 7 Achtel.
+Genau, deswegen selbst ausgerechnet a ist gleich 1 plus 5 durch 4 d zu d plus 7 Achtel
+D zu D
+Das ist das Vertrag, oder?
+Plus
+D durch D
+hoch 3
+Können Sie noch einmal erklären,
+was bedeutet diese K?
+Ja.
+Wenn Sie eine Belastbarkeit
+berechnen möchten,
+Dann müssen Sie berücksichtigen, dass bei einer Schraubenfeder, die gezogen wird,
+die wird auch mit einem Moment beansprucht, die Feder wird gezogen und die kriegt einen Moment.
+Wenn wir jetzt 1,09 Newton haben, ist die Verlängerung ein Millimeter.
+Das heißt, ich habe hier eine Torsionsbeanspruchung in dem Material.
+Das Material ist torsiert.
+Deshalb ist die Schubfestigkeit, die Schubspannung, die maximale von Bedeutung.
+Tau, zulässig, ist 400 oder 500 Newton pro Quadratmeter.
+Das ist die zulässige Festigkeit.
+Die ist angegeben. Oben noch ein bisschen höher.
+Was haben wir da? Ist Tau zulässig?
+Ne, ne, ne. Wir machen die Aufgabenstellung.
+Die Aufgaben, die Aufgaben, die Übungsaufgaben.
+Tau zulässig ist 400 Newton. Das ist die zulässige Schubspannung.
+So, wenn Sie jetzt einen Drahtdurchmesser haben, einen Windungsdurchmesser, und Sie haben einen Durchmesser des Drahtes, wann wird die Spannung höher?
+Wenn der Windungsdurchmesser kleiner wird, wenn Sie die gleiche Verformung machen, oder Sie den Draht dicker machen.
+Und das wird beschrieben durch das Verhältnis D zu D.
+was dazu führt
+dass die real verhandelnde Spannung
+in einer Schraubenfeder
+da haben sie das Drehmoment
+und die Querkraft
+wenn der Windungsdurchmesser
+groß ist
+ist diese Spannungsüberhöhung gering
+wenn sie den Windungsdurchmesser
+kleiner machen
+und das Verhältnis D zu D
+das Wickelverhältnis
+wenn das weit auseinander ist
+dann gibt es kaum
+eine Schubspannungserhöhung
+wenn Sie die enger machen
+die Feder
+dann wird das Verhältnis
+schauen Sie mal bitte hier
+das K ist nicht so etwas abstraktes
+sondern es zeigt
+hier
+je größer dieser Wert
+desto höher ist die Belastbarkeit
+Und sie zeigt diese Spannungsüberhöhung mit dem vorhandenen Wickelverhältnis.
+Und deshalb muss man das berechnen.
+Es gibt eine Erhöhung der Spannung durch die Geometrie des Verhältnisses.
+Je geringer dieses Wickelverhältnis, desto größer wird das K.
+Das läuft hier formelmäßig dann damit rein.
+Hier sieht man das, das ist sozusagen eine Wahnspruchung, die rein rechnerisch vorliegt.
+Da ist das auf der Zug- und Trugseite, auf dieser Seite identisch und hier kommt noch eine Querkraft dazu.
+Die führt dazu, dass bei kleiner werdendem Wickelverhältnis dieser Spannungsbeiwert, diese Spannungsüberhöhung größer wird.
+Durch die Geometrie.
+Und das berücksichtigen wir mit der Formel K.
+Das ist eine erhöhte Spannung.
+Und die ist eine Frage von D zu D.
+Was haben wir jetzt? 18 zu 1.
+Nein, 1 zu 18.
+Also die kleine D ist 1.
+Ja, das wäre dann hier irgendwo.
+1,07 oder 1,03? Ja genau, 1,0723. 1,07? Ja. Wenn man jetzt vorher in die anderen Verhältnisse reinschaut, weiß man ungefähr, man muss die Situation kriegen.
+Für das C brauche ich ja das I, die Windungsanzahl. Muss ich die zählen oder kann ich das irgendwie über die...
+Zählen wir mal.
+Durch zählen, ja.
+Der drückt bei der Sache.
+Und sagen Sie mir, was rauskommt.
+Ja, also.
+Ich würde es nicht darauf verlassen, ehrlich gesagt.
+Ich habe da auch probiert.
+sind die Formeln jetzt klar
+wie das funktioniert
+die Steifigkeit
+also maximale Belastbarkeit
+ist eine Frage
+d hoch 3
+dm
+k
+k ist diese Formel
+und zeigt die Spannungsüberhöhung an
+wenn wir jetzt mal hier hingehen
+da wäre 18
+18 zu 1
+da sind wir bei den 1,07
+Das ist relativ weit auseinander, das Verhältnis ist gering.
+Üblich ist hier sowas, da wird zwischen 1,15 bis 1,3 zur Plausibilität.
+Was kommt raus für eine maximale Belastbarkeit?
+9,36.
+6,9,3,6,2,1, richtig, ja, nächster Schritt, die größte Steifigkeit dieser Feder,
+Jetzt können Sie die Belastbarkeit erhöhen, indem Sie z.B. eine höhere zunäherige Festigkeit
+haben, indem Sie den Durchmesser der Bindung größer machen, da ist weniger Spannung da,
+und wenn Sie den Bindungsdurchmesser größer machen.
+Genau das haben wir vorhin auch gemacht, wie ist die Steifigkeit, C, was haben Sie für
+eine Formel?
+T, aber ich schaue die N nicht zu, ich kann das nicht hören.
+Jetzt ist es da.
+Sie meint das Fmax?
+Nein, nicht Fmax.
+Das ist N.
+N, ja.
+Was ist N?
+Anzahl der Windungen, oder was meinen Sie?
+Naja, zeigen Sie es uns mal.
+das heißt die anzahl der kindern bindungen
+Die Anzahl.
+Ich habe ein bisschen was anderes.
+Ich habe 15 Minuten.
+Im Augenblick.
+Ja, ja.
+Die letzte halbe Windung
+wird nicht gerechnet.
+Also gehen Sie auf 15.
+Also wir haben alle 15 gezählt.
+Ah, okay.
+Dann muss ich meine Rechnung
+gar nicht umstellen.
+Ist das für Sie klar, was wir da jetzt gemacht haben?
+Ich versuche zu verstehen mit der Hilfe der GPT.
+Aber da hat er eine ganz andere Formel da. Was ist das denn?
+Vielen Dank.
+Hier mit dem Korrekturfaktor K, der diese Spannungsüberhöhung berücksichtigt, Spannungsbeiwert und daraus eine maximale Belastbarkeit.
+Da kommen wir jetzt auf 9,362.
+Anzahl der federnden Windungen, abgelesen 15.
+Ein Millimeter hoch 4, Millimeter hoch 4 durch 8 mal 18 Millimeter hoch 3 mal 15, da kommt
+ein Schleifstreit raus von 0,12 Newton pro Millimeter.
+Die hat jetzt 18 Millimeter Durchmesser, 1 Millimeter Federtrag, sie ziehen dann an
+mit 0,12 Newton
+Verlängerung 1 mm.
+Nächste Formel,
+die kommen wir zu dem Smax.
+Das ist der maximale
+Federweg.
+Ne, das Tau haben wir schon drin.
+Wir haben jetzt die Feder dimensioniert.
+Wir haben die Steifigkeit,
+die ist eingestellt worden,
+über die Anzahl der Federn in den Windungen.
+Jetzt ziehen wir an der Feder
+und die Maximalkraft,
+die auftritt,
+ist die Kraft,
+wo jetzt das anfängt zu fließen.
+Und das sind die 9,362 N.
+Jetzt kann ich über F bis C mal S alles ausrechnen, was der Markt soll.
+Ich habe das hier jetzt gemacht.
+Der maximale Federweg Smax liegt natürlich bei der maximalen Federkraft vor.
+Das sind meine 9,36 Nm pro Quadratmillimeter durch 0,12 Steifigkeit.
+Das ist 77,1 Millimeter.
+18 Millimeter Durchmesser, 1 Millimeter Draht können Sie um 77,1 Millimeter auseinanderziehen.
+Dann ist die Kraft 9,362 Newton.
+Wenn Sie da drüber gehen, dann lenkt sich Ihre Schraube.
+Wer hat schon mal so eine Achsfeder gesehen, die gebrochen ist im Auto?
+Die geht immer auf der letzten Bindung kaputt, die, die aufliegt.
+Ich habe das mal gehabt.
+schon später und rief er ins Auto
+und schien da vorne nach oben
+und 14 Tage später hat immer das
+schön geklappt.
+Die letzte Bildung ist durchgebrochen
+und ist unten
+in so einer Metallkonstruktion
+immer hin und her geöffnet.
+Und dann wird ein Schlag aufgefahren
+und es wird mit einem Hammer hinten geklopft.
+Und dann sind wir zu der Frage dazu.
+Das ist die Wege.
+Das müssen Sie zählen jetzt in dem Fall.
+Ja, Sie müssen die beiden letzten halben Windungen, die liegen auf,
+die zählt man nicht, oder wird die nicht mitgezählt.
+Also das wäre ein Fehler, den hätte ich akzeptiert,
+wenn Sie sagen, ich habe 16 gezählt, dann wäre das okay.
+Was passiert jetzt, wenn Sie die Anzahl der Bindungen verdoppeln mit der Steifigkeit?
+Wir lassen alles gleich, verdoppeln die Anzahl der Bindungen, machen jetzt 30, was passiert
+Was passiert mit der Steifigkeit?
+Rein formal, was passiert mit der Steifigkeit, wenn ich die Anzahl der Windungen verdoppel?
+Die erhöht sich.
+Wenn Sie jetzt hier statt 15, 30 einsetzen,
+doppelte Anzahl an Bindungen. Die Schraubenzugfeder wird länger, die Steifigkeit auf die Hälfte zurück.
+Wenn Sie statt 15 30 einsetzen, kommt da 0,06 0,05 raus. So das Verhältnis. Die Steifigkeit
+in einer Schraubenzugfeder wird über das Verhältnis g zu g eingestellt und über die
+Anzahl der federnden Binden. Wenn man die Anzahl der Binden verdoppelt, kann man als zwei Bleichfeder
+Das ist eine Hintereinanderschaltung zweier Federn gleicher Steifigkeit,
+somit die Federrate haltiert. Das ist dann 1 durch C Gesamt ist gleich 1 durch C1 plus 1 durch C2,
+Wenn das jetzt jeweils ein Zehntel ist, dann ist 1 durch C Gesamt zum Beispiel 1 durch 10 plus 1 durch 10 ist gleich 1 durch 5 und C Gesamt ist dann 5.
+Das ist genau das, was da passiert.
+Hingeeinanderschaltung zweier gleicher Fehler, identischer Steifigkeit und die Steifigkeit halbiert.
+Weiterhin, maximal speicherbare Energie, gibt es mehrere Varianten das auszurechnen, Fmax mal Smax, halbe, da kommen keine 62 Newton Millimeter raus.
+Ja, nur mal ein kurzes Komma beistellen, verrückt. 0,362 oder? Einfach 262. 1 Millimeter. 1 Millimeter.
+Leute, ihr müsst auf die Einheiten aufpassen. Das ist der Gaudi bei der ganzen Sache.
+Wenn wir Kesselberechnung machen, wird das noch mal schlimmer.
+Da sind die Angaben nicht ganz unterschiedlich.
+Da muss man auf die Einheiten aufpassen.
+Haben Sie das jetzt?
+Gut.
+Ja?
+Ja?
+Das ist ein fest vorgegebenes Verfahren.
+Und Sie rechnen jetzt diese 2,8 und 2,9 bitte mal aus.
+Dann müssen Sie immer, wie wir das vorher gemacht haben, das K bestimmen, iterativ, und daraus dann die Variable entweder den Durchmesser des Grates oder den Durchmesser der Windung bestimmen.
+C ist F durch S, wenn jetzt 6 N vorgegeben sind, bei der Steifigkeit ergibt sich ein
+Verformungsweg von 49,6 mm.
+Das ist ja das, was maximal an Kraft eingebracht werden soll.
+Gehe ich über diesen Weg drüber, gibt es eine plastische Verformung.
+Das ist alles noch ein Bereich, der okay ist und wenn ich sage, okay, 50 Millimeter Verformung,
+da bin ich ein bisschen höher als bei 0,6, 0,5.
+Warum heißt das jetzt eigentlich bei denen Fmax für den Weg?
+Ich habe das in den Unterlagen, habe ich das geändert, der hat für den Weg F gemacht.
+Das ist einfach unser S, also aus dieser Formel da, W ist ein Halb F mal S Max.
+Ja, sorry. Das hat er im Umdruck so gemacht. Ich finde es ein bisschen unglücklich, warum er das F ansetzt.
+Anhand vom Text kann man es ja eigentlich ganz gut sehen.
+Dann machen wir jetzt eine kleine Pause.
+Ansonsten habe ich das Skript nochmal hochgeladen.
+Verbindungselemente.
+Verbindungselemente.
+Nochmal zum Verständnis bitte.
+Ich mache noch eine kurze Info über Moodle, dass Sie bis nächste Woche versuchen, bitte mal die Aufgaben zu rechnen, die jetzt noch verbunden sind.
+Und es ist immer das gleiche Verfahren.
+K wird bestimmt auf dem Verhältnis
+Groß-D zu Klein-D
+iterativ so lange, bis sich nichts mehr ändert
+und wir diesen Wert
+für das gegebene Verhältnis
+da können Sie auch reinschauen in dieses Bild.
+Das muss rauskommen.
+Die erste, was hatten die für ein
+das was wir bei der 2.12 hatten?
+Aufgabe 2, 12, das waren 18 und 2 mm, oder?
+18 und 2, das ist das Windungsverhältnis 9.
+Also nochmal, Aufgabe 2, 12.
+Gehen wir nochmal in die Lösung rein.
+Da steht K, wenn man berechnet, mit 1,15.
+Wo sind der Kurs hier?
+In G mit I.
+Das ist das Minusverhältnis.
+Das ist das Minusverhältnis 9,1,1,5, noch was, ja?
+Da können Sie gucken, ob Sie diese berechneten Werte, ob das ungefähr stimmt.
+Dann kam nachher diese 1,07, das waren die 18.
+Dann hat er ein Mittelverhältnis von 1,42.
+Vielen Dank.
+Vielen Dank.
+Ganz kurz nochmal, die Lösung der Aufgabe 2.4, ich will Ihnen nochmal was zeigen, damit Sie ein Gefühl dafür kriegen, wenn Sie in dieses Bild reinschauen, wie Ihr K liegt.
+Also ich sage jetzt mal so, die Übung, das hier, 212, da hinten der Verrechnungsweg nochmal, Beispiel, Aufgabe D,
+Die Steifigkeit, die jetzt angepasst wurde, beziehungsweise die Belastbarkeit verdoppelt und der Drahtdurchmesser angepasst wurde, beziehungsweise der Nulldurchmesser gm.
+Da sind wir rausgekommen, 9 mm, 7,78, 7,42, 7,295.
+und haben diese Iteration gemacht
+bis hin dann zu der 7,25 mm
+wenn ich die 7,25 hier einsetze
+und das d weiterhin 2 mm ist
+das dm
+dann ist das w
+3,625
+Der berechnende Wert ist 1,43. Das sehen wir auch hier in der Tabelle.
+Wenn ich da ungefähr auf diese 3,6 hingehe, das Mittelverhältnis, da sind wir jetzt bei 3,36.
+Da kommen wir genau da irgendwo auf den Punkt auf der Karte.
+Also das, was wir jetzt hier berechnen, iterativ, das kann man sich auch an der Stelle anschauen.
+Ob man plausibel in einem vernünftigen Wert liegt.
+Das ist das klein d, 2 mm, bei der Fall d, der ist 7,25 mm, der Bindungsdurchmesser.
+Damit ergibt sich ein Wert von 3,65 irgendwas und dann liegen wir hier bei den 1,43.
+Das beschreibt die Spannungsüberhöhung, die wir haben.
+und bei bestimmter Geometrie, weil wir da zwei Unbekannte haben, K und DM.
+Dann machen wir das interaktiv.
+Und die anderen Aufgaben sind ähnlich.
+Bitte die mal selber durchrechnen, damit das Verfahren stimmt, dass wir das jetzt hinziehen.
+Wir machen jetzt Pause.
+15 Minuten reicht das.
+Dann können wir uns ein früherer Schluss machen.
+Vielen Dank.
+Vielen Dank.
+Die Federlehne 282 mm.
+Für diese Schubsteuerung, Schubmodul, Dichte sind angegeben.
+Ich rechne Ihnen das jetzt einfach mal ein bisschen vor.
+Wir haben hier den Ausgangsfall A, wo wir jetzt die entsprechend konstruierenden Parameter verrechnen sollen.
+Der Ausgangspfeil ist jetzt gefragt nach der Steifigkeit, ct.
+Für einen Torsionsstab war das gleich g mal pi,
+wohl durch die Länge des Stabes ist es gleich,
+Das war D mal I mal D und 4 zum Dreißigsten mal L.
+D ist bekannt, D ist bekannt, L ist bekannt.
+Was kommt denn denn da raus für C, D?
+Wir können das Dipol erhöhen, das ist über den Durchmesser, um die Steiglichkeit zu erhöhen.
+oder die Länge
+kürzer machen.
+Da vorne können wir nichts tun.
+Was kommt da raus in der Berechnung?
+Amen.
+Vielen Dank.
+Keine Zugfeder oder eine Druckfeder mit Bündel.
+Ein einfacher Schlaf, der wird torbiert.
+Torsion.
+MT wird eingebracht.
+Das ist der Fall der einfachen Torsion.
+Ja?
+Amen.
+Das ist hier negativ.
+2.560 Newtonmeter.
+ungefähr
+ich nur die formel anwenden
+3 Kommastellen zurück, über die Millimeter, haben Sie es?
+Ja, 2,2.
+Wenn Sie eintragen, haben wir berechnet, dass MT Max, sagen wir hier die Plasmos-Beanspruchung,
+hier rechnet sich über Tau zulässig, mal den Polaren wieder,
+Der Versandmoment ist gleich auf zusätzlich mal 4, 16, 3, 4, 3.
+Das ist ein Pfeil.
+Es ist die Pi durch 16.
+Vielen Dank.
+Kommt raus.
+Tipp, Tipp.
+Wie viel?
+Kein Zauberwerk.
+732,8
+Hier der Master, der gibt mir die Formel.
+Das war's für heute.
+Amen.
+Das sind Gramm pro Kubikzentimeter, ja, für die Einheit 7,84.
+Da oben habe ich jetzt überall Millimeter drin.
+Da sind es Quadrat, da sind es Millimeter.
+Und wenn Sie sich da hinten mal herausrechnen,
+wie viel ist das im Gramm pro Millimeter?
+Das brauche ich da.
+Ein Kubikzentimeter sind wieviel Kubikmillimeter?
+10 hoch 3, das brauchen wir oben als Konjunktur, 10 hoch 3 mal Millimeter hoch 3, dann kürzt
+Dann kürze ich das raus.
+Dann kann man das da rein tippen, rechnen und machen.
+Valadala.
+Es gab 18 mm Durchmesser.
+Das ist eine Länge 562 g.
+Richtig?
+Nicht so schwer, oder?
+Was heißt zunächst einmal gleiche Belastbarkeit?
+E. Eine weitere Fehler, die wir mit der Beibehaltung der Werkstattparameter und der Außen- und der Kulissen-Zugwarnung, gleiche Belastbarkeit, doppelte Leichtigkeit.
+Von der Berechnung, von der Idee, was müssen wir jetzt machen?
+Vielen Dank.
+Ich habe von dem Text her, vom Verständnis noch mal,
+ein weiteres Fiel, also unter Beibehaltung der Werkstoffparameter
+und unter Ausnutzung der zulässigen Schubspannung
+mit doppelter Steifigkeit ausgeführt werden.
+Hier können Sie die gesamten ökologischen Fehler darstellen und hier können Sie die Lebensspalte vollständig aus.
+Was heißt das?
+Was kann ich jetzt hier variieren?
+Beibehaltung und Belastbarkeit.
+Wenn die Belastbarkeit gleich bleiben soll, darf ich bei der Drehstabfieber den Durchmesser nicht ändern.
+Der bleibt gleich.
+Gleiche Belastbarkeit, denn Tmax bleibt gleich.
+Ja, und was heißt das auf Deutsch?
+Einen Schritt weiter gesagt.
+Wenn die Belastbarkeit von dem Drehstab gleich bleiben soll, darf ich nichts am Durchmesser machen.
+D gleich 18 mm.
+Ja?
+Das soll jetzt die doppelte Steifigkeit machen.
+Wo können wir hingehen mit unserer Formel zur Steifigkeit?
+Wer beantwortet O-Klein?
+Darum.
+CT ist G mal Pi E hoch 4, 32, L.
+D gleich.
+Gleich. Wenn ich die Steifigkeit verdoppeln will, was kann ich da noch machen?
+Wie viel? Halbe Länge. Genau.
+Fehlerlänge.
+Halbiert.
+Vielen Dank.
+Das sind 733 Quadrat.
+Durch die Wiederscheinigkeit 2478 mm.
+Durch die Wiederscheinigkeit 2478 mm.
+So, durch, so, so, so, so, so, so, so, so.
+Was passiert mit der speicherbaren Arbeit, wenn die Steifigkeit doch nicht so hoch ist?
+Die Länge halbiert wird.
+dass der Durchmesser gleich bleibt, was passiert mit der Masse?
+Dann kommen eigentlich die Formeln zu der Masse und dem Lösern her.
+Also, das ist der Querschnitt A mal L, das ist das Volumen, mal Dichte.
+Rho ist M durch V.
+Wenn ich das auflöse, M ist Rho mal V.
+Das Volumen ist A mal L.
+der schnitt, pt viertel, pt quadrat, pt quadrat viertel mal l, länge, ja, und das, das drüber
+Es ist wichtig, sich jetzt die Sachen mal alle auf ein Papier zu bringen und alle Formeln, die wir jetzt schon gemacht haben, mal aufzuschreiben.
+Ich selbst habe das auch schon gemacht.
+So kann ich das auch zur Verfügung stellen.
+Aber Sie müssen das...
+Ja, ja, also maximale Klosionsbeanspruchung ist,
+dass man auch zusätzlich mal die hohe Bewegung haben kann.
+Nächste Rechnung. Das ist verstanden, ja?
+Die Steifigkeit eines Klosionsablöses wird eingestellt in den Durchmesser.
+die Länge
+der Feder
+E
+sagt jetzt
+doppelte
+Belastbarkeit
+das heißt was
+mt max
+wird
+verdoppelt.
+Über was macht man das jetzt?
+Warum?
+Wenn T Max
+V zusätzlich mal
+so
+und Max
+ist gleich
+V
+zusätzlich mal
+wie voll
+Das ist das polare Widerkantmoment in der Torsion.
+Das ist dieses Pi, Pi und Pi, das man in Kreisflächen hat.
+Ja, also normalerweise hat man eine Portion, dann hat man ein Kreisflächen.
+Damit Portionsspannungen schön in Kreise laufen können.
+Kein Rechteckprofil oder sowas gibt es auch, kann man auch machen.
+Wenn wir zum Beispiel jetzt eine Klebung machen, dann meistens so eine Rechteckfläche.
+Und jetzt haben wir einen Hebelarm und wir beanspruchen das.
+Dann gibt es eine Portion auf einer Rechteckfläche.
+Und dann brauchen wir bestimmte Parameter, um das zu berechnen.
+Das machen wir auch noch bei einer Kräbung, die auf Portion beantwortet wird.
+Und Scherung sozusagen.
+Das ist das polare Widerschreitmoment.
+Wir gehen mal ganz am Anfang.
+Diese Einführung.
+Ein bisschen fest.
+Das hat sie ja schon gemacht.
+Da brauche ich das Sigma B, das eingetragene Moment, Mb, da können wir jetzt auch hin, bitte mal schauen, Mb durch Bb.
+Welche Achse ich gerade biege, ist jetzt hier dh² sechstelig.
+Dann brauche ich die Situation, dass hier tau, die herrschende Schubspannung,
+Und das WT, der ist jetzt offen hier, da haben wir jetzt einen rechten Querschnitt.
+Wenn der auf Torsion beansprucht wird, dann wird das so mit diesen Formeln hierher geleitet
+und es gibt so einen Korrekturpaktor, mit dem das gemacht wird.
+Auf die werden wir später auch noch zurückhalten.
+Bei dem DT, hier, ist es 1G0.
+Und dann ist es Pi mal Dino3.
+Ich denke, der Punkt ist da, oder?
+Ja.
+Das war ein bisschen schräg, ja, geht nicht zu hoch.
+Das ist ein bisschen schräg, ja.
+Es fehlt jetzt hier, das sehe ich auch gerade.
+Ich nehme die Lüge mal.
+Also der Vollkreis B hat ein polares Widerstandsmoment B,
+sorry, P mal D hoch 3, das ist jetzt 10 km.
+Ja, doppelte Belastbarkeit, MTmax ist tau zulässig mal Wpol, das heißt, das soll doppelt
+zu groß werden, das wird dann doppelt so groß, wenn Wpol C gleich 2 mal Wpol 1 ist.
+Oder A. Auf den Fall A. Wie machen wir das jetzt?
+Du brauchst jetzt das Verhältnis der Durchmesser.
+Pi mal p, p hoch 3, 16, ist gleich 2 mal pi, ea, 16,
+Und dann kommt er raus.
+Die C ist also die dritte Wurzel aus 2 mal dA.
+Dritte Kurze 2 x 18 mm, das muss ich im Kopf haben, 22,6 mm.
+Doppelte Belastbarkeit.
+Weiter im Text ist zu finden, das Ding soll weiterhin gleiche Steifigkeit besitzen.
+Was heißt das?
+Ziti bleibt 2.558 Newtonmeter.
+Was werden wir jetzt machen müssen?
+Wenn wir eine höhere Belastbarkeit haben, eine gleiche Steifigkeit, dann würden wir diesen Draht kassieren.
+Der muss länger werden.
+Genau, und das wollen wir jetzt ausrechnen.
+Der muss also länger werden.
+Das heißt, das ist E mal I wohl A.
+durch LC ist gleich G mal I Pol aus A zu L A.
+Das war das Symbol, das war hier oben, die Pi mal d hoch 4, 32, 11.
+Das hier kürze ich weg.
+I mal DC hoch 4 durch 32 mal LC ist gleich I mal DA hoch 4 durch 32 mal LA.
+Das ist sozusagen nach Lc ausgewertet und daraus PcO4 durch PaO4 mal LcA.
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+22,684 Einheiten kürzen sich weg.
+Vielen Dank.
+Vielen Dank.
+Was habt ihr hier für eine Masse?
+Und was hat er für eine speicherbare Arbeit gemacht?
+Vielen Dank.
+Das ist Q mal W, Quartal 4 mal L mal O, dann komme ich auf 420 Newtonmeter und die speicherbare Arbeit von 420 Newtonmeter und die Masse.
+Noch mal, doppelte Belastbarkeit heißt, das MT Max ist doppelt so groß, in anderen Worten,
+Durchmesser muss angepasst werden, die Steifigkeit soll gleich bleiben, für eine entsprechende
+längere Träger mit einem größeren Durchmesser heißt das, die muss viel länger werden.
+Und dann kommen wir hier in die Formel zum Faktor von 2, noch was, 0,5 ungefähr, dass
+Wenn die Belastbarkeit des Inflationsstabs größer wird, wird eine verdoppelte Belastbarkeit
+der Belastbarkeit, eine Zertifizierung der speicherbaren Arbeit.
+Das sind so ein paar Prinzipien der Zusammenhänge.
+Das sollten Sie bitte an den anderen Aufgaben jetzt auch nehmen.
+Ich glaube, das kommt nicht mehr, aber diese Traumfeder kommt noch.
+Drei Aufgaben.
+Ja.
+Gut.
+Fragen noch dazu?
+Dann gehen wir mal auf die Vorlesung.
+Ich habe eine gesehene Übergabe vom Wohnwagen, wo sieht denn gar nichts kommen, oder?
+So ganz kurz, dass es die gibt, ungefähr.
+Aber ich sag mal, mit dem kann man jetzt genau das machen, was wir die ganze Zeit gemacht haben.
+Da treten jetzt Bauteile in Kontakt, Flächenträger in Kontakt und es gibt elastische Verformungen und Steigigkeiten.
+Wir brauchen das später dann auch für die Schraubverlegung.
+Das heißt, es ist wichtig, und ich finde, es ist so vom Element her,
+Bolzen, Knieken, Stifte, die sind jetzt zu berechnen,
+das hat man ganz oft im Maschinenbau.
+Und was man ebenfalls hat, die Schraube kriegt ein eigenes Perfekt,
+das Kleben und das Löten.
+Und das finden wir jetzt als neuer Skript sozusagen.
+Wir werden hier mal so ein paar Sachen verrechnen.
+Wir sind einig über die Formierung dargestellt.
+Dabei unterscheidet man zwischen einem Formschluss, wo jetzt dann auch Kräfte überfahren werden, wo Reibung herrscht,
+oder über einen Kraftschluss, den wir aufbringen, oder Stoffschluss, wo wir ein zusätzliches Material oder ein Acheigensmaterial zum Einsatz bringen,
+um Bauteile herunterzuverwenden.
+Es geht jetzt darum, Bauteile miteinander zu verbinden und Berechnungsmöglichkeiten zu finden, zum Beispiel eine Passionsbeanspruch mit Lebeschicht zu berechnen oder eine Lötung zu berechnen, wie groß sind die auftretenden Kräfte, was sind die herrschenden Spannungen und damit zu gucken, wie kann ich dimensionieren.
+Wenn Sie eine Verklebung machen, machen Sie das über die unterregelte Klebefläche.
+Sie muss größer sein, um die Fläche zu übertragen.
+Oder Sie gucken, was man mit dem Material machen kann.
+Das ist die Schale.
+Vielen Dank.
+das ist ja mal ein Student hier gewesen, manchmal sind wir gesichert, was die jetzt hier machen.
+Die haben eine Verbindung hergestellt, die beiden Metallbauteile, diese Bolzen aufeinander,
+um den Weltrekord herzustellen, zu erheben eines Gewichtes.
+Und zwar hängen die in LKW 18 Tonnen an der Klebefläche und zwischen den beiden Klebeflächen sind drei Gramm Klebestoff eingefahren, die jetzt quasi diese Kette übertragen und aufnehmen.
+Die ist jetzt natürlich äußeren Einflüssen ausgesetzt, Temperaturen, Feuchtigkeit, Umgebungsbedingungen,
+Das ist ein typischerweise alter Zugriff dann auch und kann auch mit der Zeit seine Eigenschaften verändern.
+Die haben den LTV 18 Tonnen da hochgehoben und haben sich das angeschaut.
+Da oben haben wir eine zusätzliche Bolzensicherung, der fährt jetzt wahrscheinlich nicht den Meter nach unten.
+Und wir haben es dann geschafft, das zu machen.
+Ich habe hier einen Absolvent, der dagegen auch eine Anwendungstechnik an seinen ersten Stellen hatte.
+Und diese drei Gramm nahmen den LKW knapp eine Stunde über die Erde.
+Was ist Kleben? Da gibt es ja auch immer Weiterentwicklungen, was die Materialien betrifft.
+Das ist ein aktueller Trend, das mehr geprägt wird und dass man auch andere Verbindungstechnologien verzichtet.
+Im Flugzeugbau ist das Liegen immer noch ein Riesenthema.
+Da werden viele verschiedene Bauteile miteinander in Verbindung gebracht.
+Und was es früher nicht gab, wir werden das beim Schweißen sehen, Eisenbahnbrücken der Deutschen Bahn wurden erst ab den 80er Jahren geschweißt, weil der Nachweis für die Schweißung nicht so richtig gelungen ist.
+Da gibt es auch eine Story, die Amerikaner haben im zweiten Weltkrieg die Schweißen eingeführt, weil es um das Fertigen viel schneller geht als das Mieten.
+Ich nehme jetzt hier Bauteile, Eiffelturm ist ein schönes Beispiel, wenn die Mieten da drin unterzockt worden sind.
+Wir haben jetzt mehrere Elemente. Ich war vor einem Ort im Sida-Fest, da haben wir das auch gesehen.
+Eine ganz alte Brücke, 150 Jahre alt, da ist alles geblieben.
+Das sind mehrere Elemente, die werden zusammengesteckt, zusammengesetzt, überlacht über Fläche, werden gebohrt und dann wird sie nie aufgebracht und in die Lichtverbindung hergestellt.
+Es gibt sehr, sehr viele Brücken, die sehr lange und sehr ständig in die Lichtverbindung kommen müssen.
+Ursprung lasse ich im Behälter- und Kesselbau und wird heute aber mit vielen Teilen situiert durch Schweißen, Kleben oder wenn man dann eine Verbindung wieder lösen möchte, durch Schrauben.
+Und im Leichtbau gibt es so ein Trend, Hybridisierung. Die Flugzeugindustrie verlässt sich nicht auf das reine Kleben.
+Ich hatte das am Anfang gezeigt, eine Farkas-Zelle beim U3, die ist nur geklebt.
+Die ganze Struktur, die dort depuriert wird, beim Fahren, das ist eine reine Klebekonstruktion, die man gemacht hat.
+Die Industrie macht einen Stil, das ist ein paradox.
+Wir haben Carbonfasern, die dann gebrut werden.
+Und die Kräfte gehen ja durch die Faser hindurch.
+Und wir wissen ja alles, was eine Bohrung verursacht oder den Kastus führt, ist nicht sonderlich frei, wenn es um die Materialien geht.
+Wir haben jetzt zwei paar Punkte, die müssen Sie nachfragen.
+Ich hoffe, das verschwindet jetzt hier.
+Vor- und Nachteile, die können unkaltartige Werkstoffe miteinander verbinden und können unnützige Werkstoffbeeinflussungen,
+wie man zum Beispiel Gefühleumwandlungen beim Schweißen registriert oder einen Verzug bei dünnen Brechen, wenn Sie die schweißen.
+Wenn Sie eine Schweißverbindung haben, wird sehr häufig bei beginnender Schweißung so eine Eintrankerbe registriert.
+Diese Eintrankerbe müssen Sie bei der Berechnung wegnehmen, vernachlässigen.
+Das ist also ein Nachteil auf Basis der Prozessrechnung.
+Nachteile?
+Sprechung der Bauteile durch Niedlöcher und dann ist es kostenlos, die wir als Schmeißen brauchen, die überlachen und das ist nicht faderlich, eigentlich um Leichtbau zu machen.
+in der Flugzeugindustrie ist es dennoch
+sehr, sehr wichtig.
+Bei der Dichtwirkung muss man aufpassen,
+weil sich diese Köpfe setzen
+oder auch lösen können
+und die Korrosionsgefahr
+besteht.
+Vorteil, wir können unterschiedliche Werkstoffe mit unterschiedlichen Dicken zueinander verbinden.
+Das war's für heute.
+Das war's für heute.
+Vielen Dank.
+Und die schon in diesem Gerät lange gefolgt sind, die sollen in der Ausstrahlung.
+Ich bin gespannt, weil wir nicht wissen, wann der Donnerstag ist.
+Ich werde dann mal noch mit dem Spiegel, das ist ein guter Spiegel, aber das ist ein guter Spiegel.
+Vielen Dank.
+Vielen Dank.
+So, hier haben wir so unterschiedliche Mieten, die wir praktisch vorgegeben haben.
+Wir haben hier die Variante A als Halbrundmiet gesehen,
+das ist ein Vollmaterial, das eingesetzt wird.
+Da unten ist ein Gegenhalter, der gegen die Beine zu verbindenden Flächen drückt.
+Da oben sind die Schwerpunkte, die Kopfzunge und die Beine.
+Da unten sind die Schwerpunkte, die Kopfzunge und die Beine.
+Vielen Dank.
+Wie ist das, wenn wir beim Wagen arbeiten, der zieht sich zusammen und drückt sie zu berücksichtigenden Flächen aufeinander, sodass wir Reibung übertragen können?
+Diese Reibung wird bei uns in Rechnung nicht berücksichtigt.
+Es geht darum, ein Bild davon zu machen, wie das prinzipiell funktioniert.
+Es kommt gleich ein Bild dazu, ein kaltes und warmes Bild.
+So ab 8 bis 10 Millimeter Durchmesser werden die Mütze rechtzeitig verbergen.
+Die Frage ist jetzt, wie wir diesen Bild sehen, das ist eine Kaltbildung, hier ist die Galit,
+dass hier die beiden Platten verbunden worden sind.
+Der rechte Teil ist bei der Warnmeldung,
+wo sozusagen das Lied sich beim Abkühlen zusammenzieht,
+wird in dieser Reißfläche zusätzlich diese Reibung übertragen.
+Und das ist eigentlich zu grüßig.
+Weil die Kräfte, die jetzt auftreten,
+zunächst einmal durch diese Reibung überwunden werden müssen.
+Im linken Teil der Betrachtung machen wir das nicht.
+Also bis 8-10 mm Stahl, so wie in der Skulptur im Aluminium, werden halb gemietet und hier wird keine Reifen übertragen.
+Als erstes gehen wir unmittelbar über die Bauteile.
+Die Bauteile betrachten wir jetzt als elastische Bauteile, als Federn, die Verformungen erfahren, in den kontaktierenden Flächen.
+Hier ist mal ein Hohlnied dargestellt, der nachher die Bauteile verbindet.
+Da kommt gleich auch ein Bild, wie man sieht, wie das Ganze durchgeführt wird.
+Dieser Stift kann von oben durch das Bauteil durchgeführt werden
+und wird dann mit einem anderen Sägen zum Hohlnied aufgetragen,
+so wie man an der Dornen ist.
+Die Schubspannungsbelastung auf so einem Miet ist jetzt sozusagen die wirksame Scherkraft, die wir haben.
+Ich versuche, diese Fläche hier des Mietes abzuscheren, Kraft für den Mieter,
+durch das Raushalt, die Kraftentlängung statt, und hier in dieser Fläche sozusagen,
+rot ist es eingezeichnet, also ein bisschen korrekter dargestellt,
+wird versucht, den Miet abzuscheren.
+Und diese Liebkraft, Tau Q, oder Spannung, ist gleich die Kraft, die dort durchgeht, über den Querschnitt, durch A.
+Und das ist eine Schubbeansprung.
+Das ist eine Zufallungsbelastung bei einer einschnittigen Verbindung.
+Der Lieb wird abgeschert.
+Die Kraft, die wirkt, die Scherung, wird über die Fläche verteilt.
+Wenn der Knie jetzt unterdimensioniert ist vom Durchmesser, muss ich den Querschnitt größer machen, die Fläche größer machen, um größere Kräfte übertragen zu können.
+Und die vorhandene Schubspannung beantworten muss kleiner sein als die zulässige Schubfestigkeit des Materials.
+Zusätzlich müssen wir die Sicherheit lenken.
+Sicherheit, die zulässige Spannung durch die vorhandene Spannung,
+die maximal zulässige Spannung durch die vorhandene Spannung.
+Oder man berücksichtigt es direkt bei der Rechnung und sagt,
+ich will eine zulässige Sicherheit von 2 haben.
+Was macht man dann?
+Dann reduziert man die zulässige Spannung.
+Und dann haben wir 400 Megapaskal durch 2 auf 200.
+Und so kann man dann dimensionieren.
+Dann kommt ein Durchmesser raus und den Durchmesser, den wir dann nachher bestimmen.
+Wir müssen jetzt gucken, wie die Grässe sind, die auf die Gemüse.
+Schubspannungsbelastung
+bei zweiklickiger Verbindung
+und jetzt zwei Breche
+das geht über zwei
+und dann machen wir das unten weg
+da habe ich jetzt doppelte Breche
+an der Stelle
+hier da unten die zwei
+und die vorhandene Spannung
+ist entsprechend kleiner
+aber die brechen über zwei
+und das muss man sich vorher mal anschauen
+das muss man sich vorher berechnen
+Der Schub eines kaltgeschlagenen Nieds ist also Tau gleich F Nied durch A.
+Das müssen wir nicht merken.
+Also der Nied wird auf Schub vereinstrukt und die Kontaktflächen
+Die Kontaktflächen erhalten eine Flächenpressung.
+Das sind die vielen Maschinenbauelemente der Fall, dass man Kräfte überträgt über Kontakte, die über Flächenpressung funktionieren.
+Das beprachten wir immer als unsere elastische Bauteilverformung.
+Wenn Sie eine Klebebeanspruchung bekommen, werden die Kräfte auch über Schub übertragen.
+Die Kräfte werden in diese Richtung übertragen, sodass eine Schubbeanspruchung für eine Klebeverbindung da ist oder auch für eine Nötverbindung.
+Wenn wir uns jetzt mal diese Verteilung der Kräfte anschauen, das wäre jetzt hier der kritische Querschnitt.
+Bei welchem Bauteil, bei welcher Platte wäre jetzt die Spannung hier höher?
+Hier muss man zusehen, dass die maximal wirksame Spannung, die wird vereinfacht dargestellt.
+Man hat also quasi auf der einen Seite die Kontaktfläche, die Kraft geht nach unten,
+kontaktiert das Bauchseil hier, die geht die Kraft nach oben und macht hier den Kontakt über das Flächenbein.
+Und die in der Mitte übertragene Reibung wird hier nicht berücksichtigt.
+Nennt man auch Lochleibungsdruck.
+Die Annahme, dass das gleichmäßig ist, ist eine vereinfachtete Annahme.
+In der Praxis sieht das etwas anders aus, man kann sich vorstellen, dass die Krümmungen, die da rumstehen, nicht perfekt sind.
+Das sind einfach nur andere Nebeneffekte, auch die Kühlung und die Spannung, die man verursachen kann.
+Hier zur Berechnung nochmal.
+Der Bergkraftschub für den Mieter gilt also, Tau Q ist erzielt durch Pi B Quadrat Viertel,
+das heißt die Fläche verteilt über den Bergkraftschub,
+dazu ist die Werkstoffbelastung, lässt sich daraus berücksichtigen
+und wir haben jetzt hier zum Beispiel dann entsprechende Mietsicherheiten,
+es liegt, wo wir die Festigkeit entsprechend realisieren.
+Was ist das hier?
+Wie heißt die Grenze, bevor beim Stahl fließen beginnt?
+Fließgrenze.
+Fließgrenze.
+Das geht auch?
+Ja.
+Streckgrenze.
+Das geht auch, ja. Streckgrenze.
+Obere und obere Streckgrenze hat der Stahlmensch, glaube ich. Fließgrenze sagt man auch.
+Streckgrenze oder, ja, genau.
+Wo kommt die Streckgrenze her? Aus welchem Experiment?
+Und was ist das hier für eine Beanspruchung?
+Klärung.
+Querkraftschub.
+Deshalb ist der Festigkeitskollegreif, der in einer Schubbeanspruchung ist, kleiner.
+Deshalb 1 durch Wurzeltrei.
+Ich muss gerade rechnen.
+Vielen Dank.
+Wir werden am Anfang ja die Festlichkeitskennwerte uns mal so ein bisschen näher anschauen.
+und deren Verknüpfung, da bin ich jetzt noch einmal drin,
+und sagen, der Festigkeitsjahre, wenn Sie da reinschauen,
+wenn ich jetzt ein 5-mal Belal habe,
+und habe auf dem Datenblatt vielleicht keinen Festigkeitskennwert,
+dann bieten vielleicht das hier nicht.
+Da kann man es sehen, bei Portionslieferante gibt es hier so Vorfaktoren, R, E, F, T.
+Ah, ich habe das wahrscheinlich dann auch nicht hier drin.
+Da ist es.
+Amen.
+Also bei 10 Werkstoffen, um die es sich handelt, ist typischerweise Tau die zusätzliche Schubspannung gleich 0,58 mal Sigma zulässig aus dem Schubverdruck.
+Wenn Sie dann Torsionsveranspruchungen haben oder das Abfären, ist das ein typischer Vorfaktor, den man hat.
+Ich füge den jetzt nicht ab, da hinten ist eine Stelle da, ich füge das nochmal aus.
+Das ist dieser typische Festigkeitskennwert für Materialien, die nach der Zeitänderung in die Mikrotose berechnet werden.
+1 durch Wurzel 3, das ist die reduzierte Festigkeit, die bei einer Superansprachung vorhanden ist.
+Deshalb müssen wir die Dimensionieren und dann im Lied entsprechend noch mit zusätzlichen Sicherheiten hier 1,5 versehen,
+wo wir dann sukzessive die Festigkeitswerte reduzieren.
+Häufig hat man keine Schub- oder zulässigen Zugspannungen für solche Materialien.
+Diese Ärzte sind sicherer.
+Sicherer, genau.
+Da wird die Sprechgrenze noch mal kleiner gemacht.
+Also wenn Sie jetzt hier einen Zugversuch S-235 haben,
+235 durch Wurzel 3
+sind dann noch
+220
+wenn man das Ganze dann durch
+1,5 noch macht
+sind das noch 150
+also sukzessive Reduktion
+um entsprechende Sicherheit zu haben.
+Beim Lochleitungsdruck wird die Fläche gerechnet, die wird idealisiert dargestellt,
+das ist sozusagen eine produzierte Fläche, die man hat, der Miet, hat die Kraft und die Fläche,
+die Fläche ist D mal 3, das sind dann die Durchmesser, die Fläche ist die Kicke des Fläches mit einer Sicherheit von 1,2.
+Das ist eine Druckbeeinspruchung. Normalerweise reagiert das Material unter Druck etwas anders als unter Zug.
+Das wird hier aber nicht so.
+Aufpassen muss man, dass die Löcher einen größeren Abstand haben.
+Sind zu nah aufeinander gesetzt, ist diese Spannungsüberhöhung.
+Wir haben ja gesagt, wenn jetzt die Kraftflusslinien, bitte mal schauen, durch das Bauteil hindurch gehen, werden die umgeleitet.
+Die Kraft wird über die gesamte Fläche als Spannung abgetragen.
+Die Kraftflusslinien, die hier sind, müssen sich in diese Richtung aufteilen und führen zu einer Spannungskonzentration im Bereich der Bohrung.
+Die Kraftflusslinien laufen so rein, laufen drumherum, verbinden sich.
+Hier ist eine erhöhte Kraftflussdichte, dass wir zu Spannungsspitzen, die nominal größer sind, als das, was wir eigentlich verrechnen.
+Da braucht man entsprechende Abstände.
+Und wenn man sich das jetzt hier mal so anschaut, bei mehreren Mietteilen, bei der Kraftübertragung eine unterschiedliche Verteilung der Übertragungsplatte.
+Wir müssen das jetzt herausfinden, wie groß sind die Kräfte, die jetzt an dieser Stelle übertragen werden.
+Und ich habe jetzt hier oben stellvertretend so ein Bild,
+deshalb habe ich auch was gemacht mit den Federn, mit den elastischen Bauteilverformungen.
+Die Kraft geht jetzt, da oben wird sie abgetragen in der Richtung, nach links,
+und unten wird sie nach rechts getragen.
+Und wir machen uns jetzt ein Bild.
+Wir machen ein stellvertretendes Bild, wie sind die Ausdehnenden verformt.
+Es gibt sozusagen dann meine Miete, die als Federn dargestellt sind.
+Es gibt die Fläche, die als Federn dargestellt sind.
+Und die treten in Kontakt miteinander.
+Und wenn man das jetzt hier richtig analysiert,
+dann ist die Kraftübertragung in die Miete 1 und 2 größer als in 2.
+Weil trotzdem sozusagen der Kraftfluss stärker gerichtet in die Miete.
+Und das muss man jetzt in der Berechnung betrachten.
+Und im einfachsten Fall sieht das jetzt zum Beispiel so aus.
+Ich habe hier Liebverbindungen, das sind Kräfte, die hier auftreten.
+Hier sind 1, 2, 3, 4 Liebverbindungen.
+Wir machen nächste Woche in der Vorlesung auch eine kleine Übung,
+wie wir diese Kräfte antragen, wie wir diese Kräfte bewerten
+und die daraus eine Spannung berechnen wird.
+Ich habe jetzt hier
+meinetwegen eine Kraft,
+die geht durch den Schwerpunkt
+der Verbindung. Was ist ihr Schwerpunkt
+der Verbindung?
+Der Schwerpunkt
+der Verbindung.
+Wenn ich Liten habe,
+die jetzt hier auf so einem Rechteck sitzen,
+sowas, sowas,
+sowas, sowas,
+wo ist der Schwerpunkt?
+Genau im Zentrum.
+Ganz genau.
+Das ist mein Blech, meinetwegen.
+So, jetzt bringt hier noch ein Blech dran.
+Da. Und hier greift jetzt eine Kraft an.
+Ja? Ihr greift eine Kraft an. Die Kraft an ist nicht zentrisch.
+Wenn die Kraft durch den Schwerpunkt geht, wenn man mal die Kraft 1 kreist hier an,
+wie wird diese Kraft abgestützt?
+Sie wird als Schwerpunkt, sie wird als Schwerkraft eine Reaktion hervorrufen,
+in dem Lied, in der Richtung, in dem Lied, in der Richtung, einfach aufgrund dieser Schwerkraft.
+Sie wird dann abstützen.
+Und jetzt weiß ich, wie groß die Kräfte sind, die gehen durch meinen Lied.
+Ich kann über diese Liedkräfte berechnen.
+wie groß sind die Spannungen im Lid durch Abscherung und wie groß sind die Flächenpressungen, die wir auswählen.
+Wenn ich jetzt hier so ein Video-Moment habe, das hier noch dreht, wie wird das abgestützt?
+dieses Moment, diese Kraft, die eingeleitet wird.
+Das ist eine Wehrkraftkomponente, die müssen wir berücksichtigen.
+Und um den Schwerpunkt der Verbindung, an dem Punkt,
+um diese Schwerpunktverbindung wird diese Kraft eingebracht,
+die hat einen Hebelarm und die stützt sich auf den Mieten ab.
+Auf den Mieten wird diese Kraft abgestützt.
+Das ist ein Moment, was sich da reinbringt.
+Und das hier, diese Kraft, die macht einen Moment.
+Dieses Moment wird aufgeteilt.
+Das Moment dreht in die Richtung.
+Die Abstützung erfolgt immer auf einer senkrechten zum Schwerpunkt.
+Und damit ergeben sich dann Kräfte, das dreht so rein.
+Wir drehen dagegen, einmal in die Richtung, einmal in die Richtung.
+Einmal in die Richtung und einmal in die Richtung.
+Da sind wir in rechter Richtung.
+Da, da, da.
+So wird dieses Moment von den Nieten aufgenommen und abgestürzt.
+Und jetzt sehen wir was.
+Wenn hier eine Querkraft kommt und ein Drehmoment,
+machen wir eine vektorielle Addition der Kräfte, um die richtige Kraft zu finden.
+Ein Niet wird mehr Kraft abkriegen, der andere weniger.
+Und hier haben wir vier gleiche Mieten, viermal gleiche Steifigkeit, viermal gleiche Performance.
+Das ist der einfachste Fall. Das wird aber nie ausrechnen.
+Wenn wir eine Brücke haben, wird immer über so einen Hebelarm eine Kraft eingebracht.
+Es wird ein Moment entstehen.
+Und wenn wir den entsprechend berücksichtigen wollen, hier machen wir das relativ einfach.
+Das können wir gleich noch hinschreiben und dann machen wir Schluss für heute.
+Ich weiß nicht, ob das C1 gleich C2 gleich C3 ist.
+Die Kraft geht durch den Schwerpunkt und erzeugt eine Gegenkraft,
+eine abgestimmte Kraft, eine Reaktion in meinen vier Militärn, die vorhanden sind.
+Die Steiglichkeiten sind überall gleich.
+Die Verformungen sind überall gleich.
+wenn wir alle gleiche Dimensionierung besitzen.
+Was heißt das jetzt für die Kräfte?
+Wie wird diese Querkraft aufgeteilt?
+Die Gesamtkraft geht nach unten.
+und vier Lagern abgestützt.
+Können auch acht machen oder zehn.
+Was passiert mit der resultierenden Kraft auf einem einzelnen Miet?
+Je mehr Mieten ich habe, desto weniger Kraft im Miet.
+Das zeigt sich alles gleichmäßig auf.
+Die eingeleitete Kraft geht an der Stelle durch den Schwerpunkt
+Und die jeweils vorhandene Querkraft im Miet ist ein Viertel der Gesamtkraft.
+Die Querkraft teilt sich anteilmäßig, gleichmäßig auf dem einzelnen Miet auf.
+Solange die Kraft durch den Schwerpunkt geht.
+Trägt jeder Miet ein Viertel.
+Geht die Kraft nicht mehr durch den Schwerpunkt.
+Und ich habe so einen hässlichen Hebelarm, dann muss ich die Kräfte, die von diesem Moment kommen, grün wäre die Querkraftkomponente, die teile ich wieder auf vier auf, aber es wird ein zusätzliches Moment, ein Moment eingeleitet über den Hebelarm, der hier so groß ist.
+das ist der Hebelarm, mit dem ich jetzt drücke, da sind meine vier Niete, und diese vier Niete haben zur Folge, dass das eingeleitete Moment über diesen Hebelarm in den Lid abgestützt wird.
+Und das sieht man jetzt. Hier sind die Kräfte gegengerichtet. Die Reaktionskraft da oben wird relativ gering sein.
+Da hinten geht es auch in eine ordentliche Richtung. Und wenn man die jetzt vektoriell addiert, kriege ich die wahren vorhandenen Kräfte im Einzelnen.
+Und da muss ich mir mal den anschauen, wo die Kraft am größten ist.
+Wenn ich jetzt einen da hinbringe, der da vorne abstützt, dann kriegt der noch mehr Kraft ab.
+Und so wird jetzt, ich sage mal so, ein bisschen was Schönes berechenbar in solchen Modellen.
+Solange wir jetzt nur die Wirklichkeit bewegen, ist es noch einfacher.
+Aber dann wird das Ganze abgestützt.
+Wir könnten zum Beispiel so eine Verwigung machen.
+Achtfach, achtfach, achtfach.
+Dann wird der Miet hier vorne, gibt er mehr Kraft ab oder weniger als die hinten?
+Unter Umständen mehr ab.
+Und das muss man jetzt dimensionieren.
+Die Frage dessen, wie weit ist der Miet von der Schwerpunkt der Verbindung weg,
+leistet einen Beitrag darüber, wie groß dessen ausgenommener Kraftanteil das Miet ist.
+Jetzt machen wir hier diesen Abstand zum Schwerpunkt.
+Machen wir das nächste Mal, gucken wir uns an, machen wir eine Beispielrechnung dazu,
+wie man das, was da weggebrochen ist, aktuiert, vektoriell berechnet
+und dann eine Dimensionierung der Niedgerichtung macht.
+Ich finde, das ist ein schönes Beispiel, wo man dann sieht, da sind jetzt Kräfte,
+Wir machen ein Modell, wir machen dann eine Berechnung, wie diese Kräfte aufgeteilt werden und können dann die Dimensionen ummachen.
+Das ist, was der Maschinenbauer eigentlich macht.
+Ein bisschen komplizierter, wie auch bei der Feder, Spannungsüberhöhung, Windung, Durchmesser des Drahtes wird berücksichtigt mit einer Korrekturformel.
+Wer die ermittelt hat, weiß ich nicht.
+Aber das Ding funktioniert.
+Und so würden wir uns den TMA nähern und sehen, wie man das mit der Rechenbahn macht.
+Wir könnten das auch kleben.
+Wir könnten sagen, das ist eine Überlappung, da ist meine Klebeschicht, die wird genauso abgeschert.
+Da wird jetzt hier ein Moment eingeleitet.
+Das Moment hat die Intuition hier zur Folge, wie groß sind die Spannungen in der Klebeschicht.
+Das ist ein Modell gemacht.
+Dann braucht man das polare Widerschatzmoment, das Moment, was reingebracht wird, und dann finde ich die Spannung.
+Und das wollen wir jetzt noch so ein bisschen machen bei Verbindungstechnologien.
+Noch Fragen? Ich mache einen kleinen Hinweis, versuchen Sie wirklich die Aufgaben mal zu rechnen.
+Wir hatten ja letzte Woche den Ausfall, dass Sie da mal sich zwei Stunden hinsetzen und diese Aufgaben rechnen, dass Sie das können.
+Das ist wichtig. Also ich sage mal, versprochen, es kommt so eine Aufgabe von der Feder dran.
+dass das Groß-D, Klein-D, K-Berechnen,
+Iteration der Lösung immer näher kommt,
+passt und funktioniert.
+In Anlehnung an das, was wir hier in der Übung machen.
+Dann wäre es das von meiner Seite.
+Ich danke für die Aufmerksamkeit.
+Vielen Dank.

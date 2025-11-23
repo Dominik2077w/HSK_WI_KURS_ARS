@@ -1,0 +1,637 @@
+Wir haben jetzt hier die Kerne, die aus Sand hergestellt worden sind und die Anforderungen
+erfüllen müssen. Ich kann euch kurz hier so ein Bild zeigen. Das ist so ein Sandkern, der so ein Buster hier,
+die aus wie einem Zylinderkopf mit Kühlleitungen in die Form eingebracht wird. Hier sieht man die Kerbenlager,
+die in den Ober- und Unterkasten dann eingebaut werden.
+Rechts die innere Bauteilkontur und links das Bauteil von außen.
+Jetzt muss ich anfangen.
+Dann haben wir hier bei den Anforderungen an Kerne, die im Druck der Schmelze widerstehen müssen und anschließend dann zerfallen sollen.
+Das war das Bild dazu. Oh, hier hat es das Bild zerrissen. Das muss ich nochmal abwenden, damit es nicht konfrontierend passiert.
+Vielen Dank.
+Haben Sie das Bild in der Schweiz gemacht?
+Nein, an der Grenze zur Schweiz.
+Das ist die italienische Seite vom Kilsterjoch.
+Schon sehr cool.
+Da fahren dann Fahrradfahrer hoch.
+Echt jetzt?
+Da kam eben eine Gang mit Lamborghinis da hoch.
+Die hat man unten schon aus dem Tal heraus.
+Das ist der höchste Fahrerplatz in den Alpen.
+Es ist schwer so hoch zu fahren, oder?
+Da gibt es Videos, wo die Motorradfahrer in der Spitzkehre da wieder unten sitzen.
+Die fallen reichenweise um.
+Echt? Leben die so weit rein, oder?
+Wenn sie da rein fahren, müssen sie außen anfahren und dann da reinstechen.
+Wenn wir zu eng fahren, ist die Straße so überhöht, dass man mit dem Bein nicht mehr aufs Boden kommt.
+Ich bin mal jede Strecke hochgefahren und bin ganz bewusst außen gefahren und der Busfahrer war schon auf der linken Seite.
+Sonst kann der gar nicht fahren, da fährt man Busse hoch.
+Das heißt, er muss auf der linken Seite anfahren und außen dann rumfahren.
+Ich komme aus der Kurve, aus der Spitzkehre raus, der Busfahrer steht auf meiner Seite.
+Da bin ich links an dem vorbeigefahren.
+Also, das ist schon spannend.
+Hier, jetzt hat sich mein Powerpoint verabschiedet.
+Haben Sie mal einen Unfall gebaut?
+Ich bin mit 15 in ein Auto reingefahren, mit 50, der stand quer auf der Straße, also
+der kam von der Seitenstraße, guckt mich an, fährt los und bleibt so stehen, direkt
+auf der Straße, 45 Grad Regen, da bin ich vorne im Kotflügel rein, mit 50, über das
+Auto. Auto vorwärts. Da hat sich da Knie eingequetscht. War nicht so angenehm. Ansonsten
+nicht. Also haben Sie ja viel Geld bekommen, oder? Das war in den 80er Jahren. Das Motorrad
+war total schade, war komplett kaputt.
+Das Geld bringt auch nichts mehr ins Kind.
+Das Geld bringt mir nichts mehr, wenn man dauerhaft, aber es war nicht schlimm.
+Ich habe dann einen Futterbus im Kind gehabt.
+Die haben mich da ewig lang im Krankenhaus behalten.
+14 Tage später habe ich wieder Fußball gespielt.
+Aber das Kind hat mich auch so viel blockiert.
+Mehr gegen mich.
+Egal, ich war 17.
+Welche Liga haben Sie gespielt?
+Hm?
+In welcher Liga?
+Das war damals dritte, oder?
+Nee, nee, nee.
+Da gab es damals schon Landesliga und Verbandsliga und Oberliga.
+Und in dem Spiel hau ich mir irgendwo das Knie an und denk, boah, jetzt ist es wieder beweglich.
+Ich seh die Wunde auf der Hand und der Puderguss ist da.
+Alter, meh.
+Sie war bestimmt 6, oder?
+Ja, ja, stimmt!
+Sehr klar!
+Das merkt man.
+Die Maus ist weg.
+Ah, das geht nicht.
+Die Maus ist weg.
+Okay, hier ist so ein Beispiel von einem Paket von Übelkernen, wie man damit auch Bauteile formen kann.
+Die Frage, die es jetzt wäre, wenn man bei Dauerformen irgendwelche Hinterschneidungen hat, braucht man Schieber und Kernzüge wiederum im Bild.
+Die Frage, die sich jetzt stellt, bei dem Bild hier, also wir haben gesagt, Hinterschneidung ist ein vorstehendes Element, was nicht unmittelbar entformt werden kann.
+Bei Sanktformen kann ich das in die Außenform nicht einbauen, bei Kernen schon.
+Wie würden Sie jetzt diese Kokille hier entformen?
+Hier.
+Wir haben hier die beiden Schalen von außen.
+Wir haben hier einen Kernzug, der gezogen werden muss.
+Und oben den Einguss in diese Kokille.
+Schmelze fließt von oben rein.
+Hier ist auch Entformbarkeit geachtet durch die Neigung.
+und hier läuft dann ein Schmelzer rein.
+Was muss man machen?
+Was passiert, wenn dieses Bauteil,
+dieses Werkstück, das abknüllt?
+Es schrumpft.
+Es zieht sich zusammen.
+Es schwindelt auf diesen Kern drauf.
+Wenn ich jetzt diese Kokille öffne,
+dann ist dieses Bauteil
+auf diesen Kern aufgezogen worden.
+Sie kriegen das wahrscheinlich nicht mehr runter.
+Deshalb muss man zuerst jetzt an der Stelle den Kern, der hier, der muss nach oben,
+der Kern muss nach oben gezogen werden, damit das Bauteil entformt werden kann.
+Weil dann entsteht hier ein Widerstand, das Werkstück bleibt dann noch in der Form.
+Sie müssen zuerst den Kern ziehen. Wenn Sie den Kern als zweites ziehen, dann schrumpft das Bauteil drauf und Sie kriegen es nicht mehr runter.
+Aber verschmilzt es nicht zusammen?
+Nein, weil die Wärme so schnell abgeführt wird.
+Man nimmt aber auch kein Gusseisen dafür, sondern bei Kokillen typischerweise Aluminium.
+Das hat einen Schmelzpunkt von
+670 Grad
+und der Stahl natürlich deutlich höher.
+Ja?
+Also das ist keine Gefahr.
+Meistens auch in den Warmarbeitsstädten
+wenn ich mal einsetze.
+Gefahr wäre es unter Umständen,
+wenn man ein dickwandiges Bauteil hat
+und hat eine Dauerform.
+Oder ich sag mal sowas,
+in den Dimensionen, das wird alles in Sand gebaut.
+Für Eisenbus.
+Warum baut man das nicht direkt in den Sand?
+Könnte man auch machen, aber ich sag jetzt mal, hier kriegt man unter Umständen höhere Stückzahlen hin,
+die Abkühlung geht schneller in der Metallform und wahrscheinlich Produktivität.
+Sie können dann eine Art Position immer schön bauen und formen in einer Maschine.
+Diese Verfahren stehen halt immer im Wettbewerb.
+Das hängt dann von der Stückzahl ab, die Sie liefern müssen, wenn Sie in den Kunden alles einbauen müssen.
+Das ist auch sehr aufwendig.
+Wo steht es denn mit Coquille da?
+Warmarbeitsstahl.
+Also kommen wir gleich noch dazu, aus welchem Material hier die gebaut werden.
+Hier habe ich jetzt so einen Kern, der sogenannten Coldbox verfahren.
+Da oben ist immer mal wieder eine Frage, was ist der Unterschied zwischen einer Coldbox und einer Hotbox?
+schießen, entlüften, Luft geht raus, das Ding ist jetzt da drin, der Sand ist da reingeschossen.
+Mit einer Begasung mit Amin kann die Auswertezeit auf wenige Sekunden reduziert werden.
+Da fällt jetzt die Platte rein, das wird begast.
+Und das ist das Hotbox-Verfahren, da ist die Form beheizt.
+Und Sie haben da eine Chemie drin in dem Sand, die zu einer chemischen Vernetzung führt.
+Sie können unterschiedlichste Bauteilkonturen herstellen.
+Vorne sind Ansaggrümmer, Kühlkreislauf von 15 Liter Motor, Schwungscheibe da unten, Kühlkreisläufe.
+Das wird alles in den Guss eingelegt und wenn Sie einen niedrigen Druck haben, beim Kopieren muss zum Beispiel, geht das noch, dann können Sie diese Sandformen einbauen.
+Hier sieht man das jetzt mal aus der Praxis, Kernkästen für vier Kerne.
+Der Sand wird reingeschossen. Hier steht jetzt gar nicht, ob das Hotbox oder Coldbox ist.
+Dann fährt man quasi dann hier das Coldbox mit dieser Begabungsplatte rein, schickt das Gas rüber und der Sand vernetzt.
+Dann hat er einen richtig schönen Festig.
+Und kann im Gussverfahren eingesetzt werden.
+Achtung, da unten, Toleranzen.
+2 bis 5 Prozent.
+Das ist für den Maschinenbau eine Katastrophe, auf deutsch gesagt.
+Nichtsdestotrotz kommt man von diesen Bauteilen nicht weg.
+Das Handformen ist geeignet für kleinere Stückzahlen, kleinere Serien oder sogar Einzelteile, die man fertigen kann.
+Das Ganze ist aufgebaut in einem Kreislauf, der geschlossen ist, mehr oder weniger.
+Links habe ich die Modellmacherei. Das sind Leute, die die Kernkästen herstellen, die die Modelle herstellen, die dann nachher in den Sand eingebaut werden.
+Hier ist das Formstofflager. Da werden die Formstoffe aufbereitet im Nassguss oder mit der Chemie entsprechend gemischt und werden dann hier sozusagen verheiratet.
+hier werden Kerne gemacht, hier wird geformt, das Ganze wird zusammengebracht.
+Auf der anderen Seite ist hier rechts das Materiallager.
+Ich gucke mal, ob Sie das Wort noch erkennen.
+Ich hatte das mal ganz am Anfang genannt.
+Vielleicht frage ich es auch mal bei der Prüfung.
+Das war eine Gattierung. Weiß das noch jemand?
+Gattierung.
+Wahrscheinlich zu welcher Art das kommt, der gehört. Zu welcher Gatte etwas gehört, oder?
+Zu welcher?
+Gatte.
+Nein. Gattierung heißt, wie ständig die Schmelzen zusammen.
+Welche Komponenten kommen da rein?
+Dass nachher zum Beispiel auch dann das entsprechende Material da hinten rauskommt.
+Gattierung ist die Zusammenstellung der Schmelze.
+Zusammenstellung, Anpassung der Schmelze.
+Das muss man nachher auch überprüfen, wenn Sie da nachher die falsche Mischung drin haben.
+Dann zum Beispiel, dass sie ein JS oder ein JL machen, Lamellguss oder ein Sparrowguss.
+Das wird hier in der Schmelzerei gemacht, dort wird das Material erschmolzen,
+typischerweise in der Nacht, wenn der Strom da ist, wenn wir tagsüber morgens um 7 Uhr anfangen wollen,
+wenn alle Leute aufstehen und dann Strom brauchen, die schalten die Lichter an,
+da wird dann der Ofen eingestellt, da ist der Strombedarf, geht dann schlagartig nach oben
+und dann müssen die fertig sein mit dem Schmelzen.
+Und abgegossen wird dann um 8 oder 9 Uhr.
+Ich habe einen Kollegen, der macht eine Exkursion in die Eisengießerei.
+Wenn Sie sich das anschauen möchten, bitte melden.
+Das ist total spannend.
+Das ist dann das Abgießen der Formen.
+Da kommt eine Abkühl- und Ausleerstation, Putzerei, Kernwertentfernung, Putzen der Gussteile,
+Gewärmeverhandlung wird unter Umständen auch durchgeführt.
+Vorab nochmal die Kontrolle der Gussteilqualität.
+Das ist sozusagen der Sandguss, der als Ausbauform sozusagen die Maschinenform noch als Variante kennt,
+mit dem man dann relativ mit einer höheren Produktivität aufteilt.
+Hier mal nochmal die Bilder von dieser Maschinenform, wo immer die Gusskästen hier transportiert werden,
+irgendwann die dann aufeinandergesetzt und die Bauteile abgegossen und das Ganze läuft dann in einem kontinuierlichen,
+Wir möchten jetzt Bauteile hier nach dem Feingießen herstellen.
+Hier werden jetzt ebenfalls verlorene Formen hergestellt und verlorene Modelle.
+Das Pfeilgießen ist in der Praxis auch ein Wachs-Ausschmelzverfahren bekannt.
+Und hier sieht man das, da wird ein Bauteil gegossen in eine eisige Keramikform.
+Das ist so ein erster Eindruck, den man jetzt hier gewinnt.
+Rechts im Bild ist das erstellte Bauteil.
+Das Bauteil an sich hat jetzt eine Hinterschneidung, die dargestellt werden kann.
+Und das Bauteil als solches wurde zunächst hergestellt als Wachsmodell.
+Wie die einzelnen Prozesse aussehen, schauen wir uns jetzt mal an.
+Wir haben hier ein Spritzgusswerkzeug.
+Wir können im Spritzguss jetzt das Wachsmodell herstellen.
+Das Wachsmodell braucht das Aufmaß, das wir immer haben, im Vergleich zu dem späteren Bauteil.
+Ein Prozent größer.
+Jetzt wird dieses Wachsmodell mit Filzguss in diese Form hineingedrückt.
+Die Form öffnet sich.
+Wir müssen auf Hinterschneidungen achten.
+Das Modell wird ausgeworfen.
+Das wird jetzt hier von unserem Roboterarm übernommen.
+und wird auf diese Trauer aufgetragen.
+Hier werden jetzt gleichzeitig mehrere,
+weil es in der Regel, ich sag mal, ein Feindiesen ist
+und sehr feine Bauteile hergestellt werden können,
+weil das Fließ- und Formfüllungsvermögen sehr gut ist.
+Warum ist das so?
+kann ich sehr raumfüllungsvermögen. Das ist sehr sehr gut bei dem Verfahren. Warum? Wenn
+Sie in eine heiße Form hinein gießen, kommt es nicht unmittelbar zu Erstarrungsprozessen. Die
+Schmelze fließt in diese 1000 Grad warme Form hinein und ist damit wenig behindert. Es kommt
+Nicht zur Erstarrung an der Außenwand, wie bei einer Kokille, die kalt ist.
+Also sehr gutes Fließ- und Formfüllungsvermögen.
+Das ist jetzt das Wachsmodell.
+Das besteht aus dieser Eingusshaube und da werden diese Bauteile da jetzt aufgeschmolzen.
+Wie macht man das?
+Der Wachs wird nur ganz kurz heiß gemacht und dann wird so ein Schweißprozess gemacht.
+Dann wird das da drauf gesetzt.
+Dann haftet es.
+Jetzt taucht man das Ganze ein in einen Keramikschlicker.
+Diese Traube wird in einen Keramikschlicker eingetaucht.
+Das ist eine Suspension aus Wasser, Keramikpartikeln, Benetzungs- und Entmischungsmitteln.
+Der erste Schritt ist hier von besonderer Bedeutung.
+Die Korngröße bildet sich nämlich auf einem Puststück ab.
+Wenn das Korn sehr fein ist, kriege ich auch eine sehr feine Oberfläche des Bauteils.
+Das brauche ich unter Umständen. Jetzt wird das Ganze in eine Bindersuspension eingetaucht und dann
+besandet. Der Sand wird mit auf die Oberfläche aufgebracht und wir haben jetzt, wenn man eine
+Schnittdarstellung hat, die Form, die noch mit Wachs gefüllt ist. Der Wachs muss jetzt raus.
+Diese Schicht wird in mehreren Schichten aufgebaut und wird wie eine Keramik gebrannt, aber vorher
+muss der Wachs raus. Wieso schmilzt der eigentlich nicht, also das Wachs? Wenn Sie jetzt hier heiße
+Schmelze drauf dringen, wird es verbrennen. Ist nicht heiß oder wie? Momentan ist alles kalt,
+Diese Keramikschieber werden aufgetragen, dann die Bindersubvention, dann wird es besandet in mehreren Schritten.
+Man macht eine Wachsfibung und dann kommt Sand rein?
+Genau, der Sand wird dann überzogen.
+Und hier hat man den Wachs jetzt aber ausgeschmolzen. Hier ist der Name, Wachsausschmelzverfahren.
+Aber ist da jetzt Sand drin?
+Nein, hier ist nichts drin.
+Da kommt ja flüssiges Eisen rein.
+Das ist noch nicht fertig, meine Form. Meine Form ist noch nicht fertig. Die Form muss gebrannt werden.
+Und der Wachs muss raus.
+So, jetzt macht man das Ganze und hat das Problem, dass man das Ganze in einem Dampfautoklaven macht.
+Das steht unter Überdruck, dieser Autoklav, da ist Druck drauf.
+Warum? Wenn sich der Wachs ausdehnt, kann er die Form zum Reißen bringen. Die hat keine Festigkeit.
+Wenn der Wachs aber raus ist, kann die Form zugepflanzt werden. Das macht er. Der Wachs,
+man könnte hier gerne ergänzen, das Alpha-Wachs, also die Längenausdehnung beim Erwärmen,
+Nennt man auch Alpha. Alpha Wachs ist viel viel größer als Alpha der Keramik.
+beim Erwärmen besteht die Gefahr, Keramikform kann reißen. Keramikform kann beim Erwärmen
+In den Dampfautokladen herrscht ein Druck und es wird Wasserdampf eingesetzt, damit
+die erste Wachsschicht schnell, die Wärmeleitung besser ist und die erste Wachsschicht sehr
+schnell weiß schmilzt wasserdampf plus druck verhindern das reißen der form
+Dann schmilzt das aus, Wachs läuft raus, Wachs ist wie so ein Kerzenwachs und die Form ist dann nur noch mit kleineren Resten an Wachs versehen
+und wird dann gebrannt, bei über 1000 Grad im Ofen.
+Verstehen Sie das? Der Wasserdampf, der macht eine bessere Wärmeleitfähigkeit.
+Wärme, Leitung und der Druck verhindert das Reißen der Form, die von außen wirkt.
+Läuft der Wachs raus, ist die Form fertig und wird dann gebrannt.
+In diese heiße Form wird unmittelbar die Schmelze eingegossen und dann wird diese Keramikform zerstört.
+und es kann eine nachträgliche Bauteilbearbeitung werden. Hier ist so ein Modell aus Wachs. Das ist
+ein Werkzeug aus dem Spritzguss. Das Werkzeug ist jetzt hier geöffnet, das ist auseinandergenommen.
+Hier sieht man so die Führungsschlüsse, da, da, die tauchen da an der Stelle ein.
+Das ist die Öffnungsbewegung, das ist in der Spritzgussmaschine drin.
+Öffnet, schließt und dann wird über Druck die Schmelze wahrscheinlich hier von der Position irgendwo in die Kapazität eingedrückt, schließt da rein.
+Dass das Bauteil hier rauskommen muss, brauche ich die Schieber hier.
+Die Schieber öffnen zur Seite, dann kann ich das Bauteil entnehmen.
+Da kann man Hinterschneidungen machen.
+Da oben sehen Sie den Bolzen, der geht da hin.
+Der Schieber öffnet, das Bauteil kann entnommen werden.
+Dann wird es aufgebracht auf diese Gießgraube, da sieht man das.
+Das ist jetzt geschmolzen und dann drauf geschweißt worden an der Oberfläche.
+Hier werden diese Schlicker und Keramik-Suspensionen aufgebracht, sukzessive links und rechts besandet.
+Das ist meine Form. Da ist der Wachs noch drin. Jetzt gibt es in den Autoglasen Wasserdampf und Druck und die Form darf nicht reißen.
+Die Form darf nicht reißen.
+Jetzt habe ich die Temperaturzufuhr über Wasserdampf, Wärmeleitfähigkeit gegeben.
+Dann geht das in den Ofen. Dort wird die Keramik getankt bei 1000 Grad.
+Jetzt wird die heiße Schmelze eingefüllt. Bauteile sind fertig.
+Solche Dinge macht man damit. Sehr feine, sehr feine Modelle mit einer relativ guten Maßhaltigkeit.
+Das Vlies- und Formführungsvermögen ist sehr, sehr gut.
+Deshalb kann man feine Bauteile herstellen mit geringer Wandstärke.
+Das kann man im Sandfuß vergessen, das kann man in der Kokille dann teilweise nachstellen, indem man sehr schnell und über Druck das Ganze gießt.
+Und da oben haben Sie jetzt, ich weiß nicht was das ist, was ist das?
+Was ist das? Eine Idee?
+Das ist eine Hüftgelenkprothese, das ist oben die Schale von der Hüfte und das hier, was Sie hier sehen, ist der Kopf, das Gelenk.
+Da wird der Knochen abgeschnitten und der Schaft, den Sie da sehen, das hier, wird in den Knochen eingesetzt.
+Das ist ein Metallbauteil und auf der anderen Seite der Kugel kommt ebenfalls ein anderes Bauteil zum Einsatz, der ist typischerweise mit einem Kunststoff.
+Dann haben Sie ein neues Rüstbeleg.
+Wird im Gussverfahren hergestellt, wird heute aber auch 3D gedruckt.
+Und hier so feinere Elemente für den Maschinenbau werden in der Art und Weise hergestellt.
+Fragen dazu?
+Wichtig ist der Schritt, dass der Wachs ausgeschmolzen wird.
+Was ich jetzt noch zu machen hätte, wäre diese Seite hier.
+Wenn ich frage, was sind die Prozessschritte zum Feingießen, dann sind das meistens neun
+Punkte. 1, 2, 3, 4, 5, 6, 7, 8, 9. Und den zehnten Punkt, den gibt es für die Aussage
+verlorene
+Form
+und
+verlorenes
+Modell.
+Ja?
+Wachsmodell herstellen
+im Kunststoffspritzguss,
+Modelltraube montieren,
+in keramischen Schlickertrauben,
+feinkörniges, feuerfestes Material
+in mehreren Schichten auftragen,
+Modellwachs und Dampfautoklaven
+ausschmelzen,
+Wasserdampf verbessert die Wärmeleichtfähigkeit
+und der Druck verhindern das Reißen
+der Form, Modellwachs
+und Dampf ausschmelzen,
+Keramikform im Ofenbrennen, in vorgeheizten
+Formen gießen, Schmelze erstarrt
+zum Gussteil
+und das Gießen in die heiße Form hat zur Folge,
+dass ein sehr gutes Gieß- und Formfüllungsvermögen
+gegeben ist
+und schnelles Zerstören der Form
+um Schwindungsrisse zu vermeiden.
+Fertig?
+Das Feingießen gehört wie das Druck- und Kokylengießen zu den Präzisionsgießverfahren
+und hat den Vorteil, dass auch Stahl und andere Markstoffe vergossen werden können.
+Ein Kennzeichen für das Verfahren ist die aus der einteiligen Keramikstalle bestehende Gussform.
+Wir können jetzt hier wieder Schneidungen machen, das ist kein Problem.
+Weil die Form nachher zerstört wird.
+Es wird eine gute Formstabilität des Wachses,
+ausreichende Temperaturgeständigkeit,
+er soll möglichst gering schwindeln.
+Das heißt, wenn er mehr Temperatur kriegt,
+ist auch die Ausdehnung geringer,
+günstiges Ausdehnungsverhalten und rückstandsloses.
+Das sind die Anforderungen in den Wachs.
+Fragen von der Seite?
+Wenn wir uns jetzt die Toleranzen anschauen, hier gilt Genauigkeitsgrad 1, 2 und 3.
+Hier sieht man jetzt mal, wenn man 100 mm hat, ist das Toleranzfeld 0,7 mm.
+Das heißt, wir haben eine Toleranz drin von plus minus 0,7 mm.
+Und es ist hier angegeben, der Kokainbrust macht die Toleranz im Optimalfall 0,3 bis 0,6%.
+Und wenn Sie irgendwas genau bemaßt haben wollen, dann müssen Sie nachbearbeiten.
+Sie machen das Maß dann größer und müssen Oberflächen präsen, bohren, sägen, sägen eher nicht, aber dann eher schleifen oder präsen.
+Maschinenform, was wir da vorhin gesehen haben, liegt bei 1-3%, Handform 2-5% und das gleich folgende Vollform, die ist im 3-5% Toleranzfeld.
+Ich mache halt Spaß.
+Ja, wir sind hier kurz hinterzu, die Kokillen und ja, die Bomben.
+Wenn die Kokille heiß ist, wird sie größer, ja.
+Aber wenn man es viele Mal gemacht hat, wird die Kochtemperatur nicht zu einer gewohnten
+Klautheizung.
+Also die Kokille wird nachher zerschlagen.
+Sie wird kaputt gemacht.
+Sie dürfen auch nicht zu lange warten, sonst gibt es Risse, Bauteile reißen, weil die Keramik will sich nicht verformen.
+Sie hat eine andere Ausdehnung. Sie dehnt sich weniger aus und schwindet weniger als das sich abkühlende Bauteil.
+Deshalb wird das zerstört, da wird die Keramik zerstört.
+Die Form ist nach dem Guss verloren.
+Das Wachsmodell auch.
+Das ist eine verlorene Form und ein verlorenes Modell.
+Wir haben hier jetzt ein Gießverfahren, das genutzt wird, um sehr große Bauteile herzustellen
+oder auch in Großserien Bauteile herstellen zu können.
+Das sogenannte Lost Foam Verband.
+Lost Foam.
+Ich zeige dazu ein kleines Video.
+Das ist mein Modell, das ist geschäumtes Polystyrol, das kennen wir alle aus der Verpackung.
+So weiches, relativ weiches Material, so Körnchen, die geschäumt werden.
+Und hier sieht man den Prozess, der dem zugrunde liegt.
+Das ist ein Zwei-Zylinder-Motor, der einmal die Herstellung des Modells betritt.
+Wir haben jetzt hier, das ist Polystyrol.
+In diesem Kunststoffgranulat ist ein Gas drin.
+Wenn wir den Kunststoff jetzt warm machen, wird er weich.
+Das Gas kriegt mehr Druck, expandiert.
+Und dadurch werden diese Körnchen miteinander verschmolzen.
+Die gehen auf, die werden weich und verschmelzen.
+Da kommt jetzt Wasserdampf. Der Wasserdampf führt zu einer Erwärmung des Kunststoffes und die Kunststoffplätzchen explodieren.
+Hier sieht man die ganze Infrastruktur, die diesbezüglich erforderlich ist. Hier sieht man Bauteile.
+Das ist geschäumter Kunststoff, das hier auch, ja, dieser geschäumte Kunststoff wird
+jetzt ebenfalls mit einer keramischen Schicht überzogen, dann können wir die heiße Schmelze
+da reinließen.
+Das kann in mehreren Schichten aufgebaut werden.
+Vorteil von dem Verfahren, ich kann auch hier Hinterformungen,
+Hinterschneidungen machen. Hier werden Bauteile hergestellt und
+die werden dann in verschiedenen Schichten miteinander verklebt.
+Hier ist eine keramische Schicht aufgebracht.
+Trocknet dann und dann wird das Ganze nur in einen losen, aufgeschütteten Sand eingepackt.
+Hier sieht man jetzt die Trocknung der Modelle.
+Was passiert mit dem Kunststoff?
+Was passiert mit dem Kunststoff? Der verbrennt.
+Er hat eine relativ niedrige Dichte. Wenn da die heiße Schmelze drauf geht, verbrennt er relativ schnell.
+Hier sieht man jetzt, es ist jetzt eingebaut. Der Sand wird reingefahren und gleichzeitig rüttelt unten der Boden von der Form, sodass der Sand gut komprimiert wird.
+Das geht viel schneller anstatt eigentlich das Bauteil zu füllen mit Sand und dann ist das Guss bereit.
+Das geht natürlich alles viel schneller. Der Kunststoff, wenn der 300-400 Grad kriegt, verbrennt er sofort.
+Die Gase gehen durch diese kleine Schicht außen in den Sand hinein.
+Die Verbrennungsgase.
+Die muss man nachher bei dem Sand noch rausnehmen.
+Da sieht man jetzt, die Bauteile werden ausgeschüttet, der Sand hat die Wärme abbekommen, das Bauteil ist fertig.
+Da muss jetzt noch nachbearbeitet werden, ganz konventionell.
+Aber ob der Typ hier keinen Mundschutz auf hat, kann ich ihm nicht sagen, weil die ganze Verbrennungsdase rauskommt.
+Normalerweise sind die Amis im Prinzip nicht arbeitsschützt, ich sag mal fast hypnotisiert davon.
+Da ist Sicherheit sehr, sehr groß geschrieben. Hier oben ist so ein Verteilernetz und hier fallen jetzt die Bauteile ab.
+Das ist das, was man damit machen kann. Unterschiedlichste Bauteile mit Unterschneidungen.
+wichtiges Kernelement, das ist ein Kernelement der Kunststofftechnik,
+diese Schaummodelle herstellen zu können.
+Das ist auch in mehreren Schichten geklebt, das sind nur die Klebeschichten,
+auch das alles verbrennt später.
+Weil Sie dieses Modell in einem Schuss nicht herstellen können,
+brauchen Sie mehrere Schichten, um das machen zu können.
+Dann war der Drahm aufgegossen, nicht so lange.
+Es gibt unterschiedliche Möglichkeiten. Wir werden beim Löten sehen, klassischen Stahlfahrräder, die sind gelötet.
+Da haben sie eine Uffe, einen größeren Durchmesser, das Rohr geht rein und dann wird in der Grenzschicht ein Lot eingebracht und dann wird das gelötet.
+Man schweißt auch, die Fahrräder werden auch geschweißt, aber das Gelöten...
+Sie müssen mal so ein Stahlfahrrad fahren, das gelötet ist.
+Die Absorption von Schlägen und Schwingungen ist bei diesen Stahlfahrrädern mit gelötetem Rahmen sensationell.
+Also das ist, da fahren Sie über die Bordsteinkanten, Sie merken gar nichts, wenn Sie mit einem Aluminiumrahmen fahren, der geschweißt ist, dann haut es Ihnen die Schultern weg.
+Da geht der Schlag, also die Dämpfung ist viel, viel schlechter. Aber Aluminium ist leichter als Stahl.
+Dann sind auch die Aluminiumrahmen, die sind ja meistens größer, da macht man größere Durchmesser, damit die Verbindungssteifigkeit besser ist.
+ist. Aluminium hat ein Drittel vom E-Modul vom Stahl. Also ich sage mal so, vom Stadtfahrrad
+gelötet aus Stahl ist was Feines. Ja, muss über Bordsteinkanten gehen, schlechte Wege,
+das schluckt die Stöße, ja. Wenn es einen Berg hoch geht, dann halt Aluminium oder
+Carbon. Und das ist dann wieder, man merkt aber auch, wenn man mit so einem Carbonrad
+fährt, das was sie da rein treten, geht nach vorne. Wenn sie ein Damenfahrrad haben mit
+so einem offenen Stahlrahmen, da merkt man, wenn man berghoch fährt, die ganze Energie
+kommt ja gar nicht an. Da verformt sich der Rahmen. Das ist wirklich so. Ich habe ein
+Carbonbike gekauft und habe sofort drei Kilometer im Schnitt Geschwindigkeit zugelegt.
+Das ist jetzt ein Bike-Geweben, Vollkabel, Rennrad mit elektrischer Schaltung und Drehmomentmesser in der Radnabe drin.
+Aber es macht auch Spaß.
+Das ist schon kaputt oder?
+Das will ich nicht wissen.
+Nicht wirklich.
+Hier sieht man die Schmelze.
+geht auch ins IPS. IPS heißt nochmal Lost Foam, ist der verlorene Schaum. Und IPS heißt
+expandiertes
+Polystyrol.
+Wo geht das hin meistens?
+Außenfassade
+bei Häusern.
+Thermische Isolation.
+Brennkiesau.
+Ich weiß nicht,
+das war nur in Asien,
+da ist so eine Außenfassade abgestackelt.
+Und unten drunter ist das Polystyrol abgebrannt.
+Katastrophal brennt das.
+Gut.
+Hier die einzelnen Prozessschritte.
+Modelltraube, ein paar kleine Schlichte, trocknen, dann wird das in den Sand eingebaut.
+Der Sand hat kein Bindemittel.
+Der ist bindemittelfrei.
+Kein Ton, kein Kunststoffbinder. Bindemittelfrei, abgegossen, ausgeschüttet, abgeschreckt, im Wasser, das ist die Prozesskette.
+Vorteil, die Durchlaufzeiten sind sehr gering von dem Lost-Form-Verfahren.
+Sie kriegen eine höhere Produktivität, geringere Wandstärke.
+Und Achtung, das hier sind reduzierte Entformschräge.
+Wenn ich eine Sandform habe, brauche ich die Entformungsschräge, um das Modell aus dem Sand rauszuholen.
+Und das brauche ich hier nicht. Deshalb bin ich eher dazu geneigt oder überzeugt, zu sagen, dass es gut für den Leitbrauch, die Funktion des Fußgewichtes, die Böderung von der Physik, das ist ein essentielles Handtuch.
+Das wäre jetzt auch mal eine schöne Frage, um zu sagen, was sind die Vorteile des Lost-Foam-Verfahrens.
+Ich denke, wir haben fünf Bauteile.
+Aber machen wir dann noch.
+Hier ist das geschäumte Polystyren.
+Hier ist das Bauteil.
+Das kann man jetzt auch mit großen Formen machen, für das Umformen.
+Zum Beispiel hier so eine Umschneidestempel für eine Maschine.
+Gewicht 2,3 Tonnen links.
+IJL ist ein Kabelmachtkapitel für eine Zahnarztdruckmaschine.
+Gewicht 4 Tonnen.
+Ach, das ist lustig.
+Jetzt will ich gerade mal was sehen.
+Guten Abend.
+Ja.
+Jetzt können wir mal gucken, hier ist so eine einfach ausgebaute Form.
+Das ist die Firma Hegerbus, die vor 14 Tagen zufällig vorbeigefahren ist.
+das bild was man da sieht hier sieht man große erfahrungskräfte 10.000 grübel gehäuse das
+sind so modelle die werden auf dem schaum hergestellt der schaum wird geschnitten
+zusammengeklebt und damit kann man sehr große modelle machen es gibt zahl 1
+das ist deren Technologie. Schade, dass man keine Modelle sieht oder den Film aus dem Prozess.
+Da muss man vielleicht nochmal schauen.
+Ganz interessant, hier ist das Bild. Das ist ja auf der Homepage drauf.
+Der Hegerguss ist ein Pumpengehäuse aus GJS, 400, 400 zu Festigkeit, Gewicht 8,2 Tonnen.
+Wird in Polystyrol als Modell hergestellt, in Sand eingebettet und verbrennt dann im Sand.
+Gehen wir zum Kokilnbus.
+Wir haben eine Dauerform aus Metall.
+und im Schwerkraftguss fließt die Schmelze wie beim Sandguss auch über einen Speiser in die Form hinein
+und wir sehen die Teilungsebenen.
+Rechts und links haben wir hier diese stuffenden Kokillen,
+oben fließt die Schmelze rein, verteilt sich hier,
+Der Kokel eröffnet, Bauteil kann entnommen werden, nachdem das ausreichend lange erstarrt ist.
+So ähnlich wie wir das im Spritzguss machen mit anderen Materialien,
+geschieht das dann auch hier mit dem Schwerkraftkokelmus.
+Hier haben wir dann noch die Inga-Kokelmus, eine besondere Variante.
+Wir haben das rote auf dem Platz hier, Seite 137.
+Das ist alles da. Sehr schön. Wir können hier eine Gelenkerstauung machen. Jetzt gucken wir uns mal die einzelnen Prozessschritte an.
+Ich habe oben die Form, die Kopille, die geöffnet ist. Unten ist ein Warmhalteofen, in dem die Schmelze sich befindet.
+und zum Beispiel Aluminium.
+Jetzt können wir hier bei Bedarf noch Sandkerne einlegen,
+weil der Druck sehr niedrig ist.
+Der Druck wird hier auf den Warmhalterofen gegeben,
+sodass in dem Steigrohr die Schmelze nach oben gedrückt wird
+und dann in der Kokille auskühlt.
+und zur Formgebung es kommt.
+Dann fließt die Restschmelze wieder zurück in diesem heißen Ofenrohr.
+Der Bauteil kann nach Öffnen der Form entnommen werden.
+Wir müssen darauf achten, dass es nicht zu sehr auf die Form aufschwindet
+und kann dann als Bauteil entnommen werden.
+Hinterschneidungen können wir realisieren in Form, dass wir Schieber anbringen.
+Fragen dazu?
+Bei diesem Niederdruck-Kokirnbus habe ich nur eine geringe Druckbeaufschlagung von 0,2 bis 0,5 bar Überdruck, um die Schmelze da rein zu bringen.
+Das fließt Turbulenz ab, es ist eine gelenkte Erstarrung.
+Die Sandkerne können Verwendung finden und die Kokirnen machen ein sehr schnell abgehöhltes Gefüge, was zu einer erhöhten Festigkeit und Steifigkeit führt.
+zum Beispiel für Aluminium, Schwenklager, Räder, Felgen, Zylinderkopf,
+das sind alles Bauteile, die in diesen Niedertruppenfilmen bisher gestellt werden können.
+Was man hier ebenfalls noch hat, es ist ausgeschlossen sozusagen,
+dass eine Verunreinigung in das Bauteil gebracht wird,
+weil hier keine Verunreinigung hinkommen kann an diese Schmelze-Versorgungsleitung.
+Wenn eine Verunreinigung da ist, dann wird sie hier oben schwimmen und kann entfernt werden.
+Oder so sollte eigentlich gar nichts mehr passieren.
+Niederdruck, Kokillenguss, wie so ein Aluminiumrad.
+Sie sehen die Unterschneidungen, die Bauteile fahren auseinander.
+um das Formpad auseinander und die Bauteile freigegeben zu können.
+Kurbelgehäuse von Aluminiumlegierungen, Druckguss, Geringe, auch bei Magnesiumlegierungen.
+Im Druckguss haben wir jetzt im Gegensatz zum Niederdruckkokillen, wo es einen sehr, sehr hohen Druck, was geeignet ist,
+die Bauteile sehr schnell füllen zu können, eine sehr schnelle Füllzeit von 5 bis 200 Millisekunden.
+Diese Schmelze ist auch relativ dünnflüssig im Vergleich zum Kunststoff, dennoch ist der Gießdruck
+extrem hoch, 1500 bis 1200 Bar. Schließen Sie die Schmelze in den Hohlraum, in diese Kapazität
+Stückmasse unter 40 Kilo, Wandtiege 1 bis 25 Millimeter. Die Formen sind in der Regel
+Warmarbeitsstahl, gut bearbeitbar, anlassbeständig, warmfest und verschleißbeständig bezüglich
+Erosion und nicht warmwissanfällig, weil im Prinzip die heiße Schmelze immer wieder reingeht,
+das Bauteil, die Form kühlt ab, heiß, kalt, heiß, kalt, an der produktberührenden Wand,
+Werkzeug sehr heiß, nach hinten ein Temperaturabfall, das heißt, die haben noch eine bestimmte
+Lebenssauer da unten, bei Aluminium-Regierung 200.000 Schuss. Wenn Sie ein Bauteil machen,
+was weiß ich, 300 Gramm Aluminium, da haben Sie einen Materialpreis von vielleicht 6-7
+Euro. Wenn Sie nur 200.000 oder 50.000 Schuss machen können, 50.000 Schuss, das Werkzeug
+kostet 300.000 Euro. Dann haben Sie 6 Euro pro Schuss Werkzeugkosten. Im Vergleich zum Material
+sehr, sehr viel. Deshalb muss man das immer berücksichtigen, dass diese Veränderungen,
+weil diese Kosten umgelegt werden auf das Bauteil.
+Manchmal kann man auch nur die Werkzeugeinsätze austauschen,
+die ungelebar in Kontakt sind mit dem Aluminium.
+Sehr korrosiv sind auch die Kupferlegierungen.
+Wenn Sie da irgendwas im Topos herstellen möchten, haben Sie ein Problem.
+Typischerweise sollte man deshalb das System kühlen, aber an der produktberührenden Oberfläche haben sie immer eine hohe Temperatur.
+Man unterscheidet, Achtung, auch immer wieder eine Frage, was ist der Unterschied zwischen einem Kaltkammer- und einem Warmkammerverfahren.
+Antwort, beim Kaltkammerverfahren ist der Dosierofen nicht unmittelbar an die Gießkammer angeflanscht, geeignet für Aluminium, Magnesium und diese korrosiven Kupferlegierungen durch chemischen Angriff der Gießtemperatur.
+Die warme Kammer, das heißt das ist unmittelbar eine heiße Kammer, wo die Schmelze sich darin befindet, an den Warmhalteofen angeflanscht.
+Also so ein Warmhaltetiegel. Hier sieht man das. Links der Warmkammertiegel, der verbunden ist.
+Das Werkzeug ist leicht gedeiht. Die Schmelze wird in die Form gedrückt. Die Schmelze erstarrt in der Form und fließt dann wieder in den Ofen zurück.
+wo man nach und nach immer die Schmelze nachfüllt, um sicherzustellen, dass ausreichend Material da ist, um den Prozess ablaufen zu lassen.
+Bei der kalten Kammer haben wir hier diesen separaten Vorlagekanal, sehen Sie das?
+Da wird die Schmelze eingefüllt, ein Kolben drückt auf die Schmelze und drückt sie in die Formel ein.
+Bauteile, wie so ein Linderkopf, ich weiß nicht, warum die immer fünf Zylinder vorhanden sind,
+die werden schon ewig nicht mehr gebaut, das kenne ich bereits, weil sie zu teuer sind.
+Druckguss läuft also dann auch ewig ab, von dem wir gerade jetzt gesehen haben, vom Formalen her.
+Form schließen, Kerne einfahren, entlüften oder vakuumen, damit keine Luft drin bleibt.
+Wenn Luft drin ist und Sie mit hohem Druck die Schmelzer reinfüllen, kann Gegendruck entstehen.
+Die Luft wird komponiert, Bauteile sind nicht gefüllt, deshalb entlüften oder warten oben.
+Dann wird reingeschossen, halten und nachdrücken.
+Das Nachdrücken macht man warum?
+Das macht man beim Nachdrücken, Schwindung ausgleichen.
+Bei Abkühlung der Schmelze einsetzen wir Erstarrung ausgleichen.
+Erstarrung ist Schwingung ausgleichen durch Nachdrücken von Material mit Druck, dann ist
+das Bauteil fertig, Kerne ausfahren, Form öffnen, Bauteil entnehmen.
+Schauen wir uns mal an.
+Die Form ist geöffnet in der Position.
+Die Schmelze wird eingefüllt.
+Dann schießt dieser Kolben die Schmelze in die Kapazität.
+In 30 bis 50 Millisekunden wird die Form gefüllt.
+Übergangslos wird dann auf den zweiten Druckspeicher geschaltet.
+In der dritten Phase unter diesem Druck erstarrt das Bauteil.
+Wenn die Erstarrung abgeschlossen ist, öffnet sich die bewegliche Formhälfte, wobei der Gießkolben den Angruß mit nach vorn drückt.
+Der Bauteil geht auf der linken Seite mit. Warum? Könnte auch rechts hängen bleiben.
+Geht deshalb nach links mit, weil man dort entsprechende Formpeilschrägen angebracht hat, die sicherstellen, dass das Bauteil links mitgenommen werden kann.
+Dann gehen die Schieber nach vorne, das Bauteil wird ausgeworfen.
+Hier ist das mal dargestellt.
+Das müssten Sie auch haben.
+Seite 157.
+Wo sind noch die alten Unterlagen?
+Ne, wir reden gerade drüber.
+Sie hatten ja auch geschrieben, 10 Punkte, was in der Typenbank kommt.
+Ja.
+Das war...
+Wenn es zum Beispiel beim Feind hießen, ne?
+Das war dieses Lost-Form-Bees-Verfahren, oder?
+Nein, das war Feindeesen.
+Feindeesen sind es genau neun Punkte.
+Die Tabelle, oder?
+Ja, bei Lost-Form ist es die Tabelle. Das sind die einzelnen Prozessschritte.
+Und beim Feind, nein, das sind die Vorteile.
+Das sind Beispiele.
+Das sind die Prozessschritte.
+Zum Beispiel, ja. Und für das Feingießen...
+Ich glaube, das kriegt der Waage fast.
+Es ist nichts anderes drin, großartig, aber ich weiß nicht, was wir diese Folie in den Klingels da drin haben.
+Das ist die 157.
+Man muss alle kennen, oder nur möchte.
+Ja, ich kann das.
+Wie alle Verfahrensschriften.
+Diese Tabelle müssen wir bieten.
+Es steht ja gar nichts drin.
+Wir haben ja nur Beispiele gegeben.
+Es gibt dann, was vielleicht noch gefragt werden kann, sind halt die Vorteile von Fein-Dienst-Verfahren.
+Das ist auch eine Tabelle.
+Aber...
+Das sind die relevanten Prozessschritte.
+Frage
+Hier haben wir 1,3 Grad.
+Formteil schräge. Auf der anderen Seite hier 2°. Wo wird das Bauteil mitgenommen?
+Hier irgendwo ist die Trennebene. Da oder da. Wahrscheinlich da ist die Trennebene.
+Schmelze wird reingedrückt. Auf welcher Seite wird das Bauteil mitgenommen?
+auf der beweglichen Seite
+oder auf der festen?
+Wo ist mehr Reibung?
+Wo ist mehr Kontakt?
+Das ist beweglich, oder?
+Weil, warum?
+Weil das Ganze bewegt wird.
+Weil das hier eine längere Fläche ist
+und weil die Entformungsschränkung kleiner ist.
+Das sind zwei Grad.
+Das geht weiter auf.
+Das lässt sich leichter entformen.
+Und damit wird es auf der beweglichen Seite mitgenommen.
+Hier ist das Beispiel.
+Hier wird es auch auf der beweglichen Seite mitgenommen.
+Und dann gibt es diese Auswerferstifte, die es ausformen.
+So.
+Ja.
+Aber da brauche ich auch eine Formteilschräge, um das rauszubringen.
+1,3 Grad.
+Das ist jetzt hier ein Beispiel.
+Das Bauteil ist fertig.
+Was macht der hier?
+Oh, in dem macht er gar nichts mehr.
+Das ist nicht so schön.
+Da hat es mir die Präsentation zerschossen.
+Mal gucken, ob ich das so lassen kann.
+Vielen Dank.
+Jesus Christus.
+Das wird da reingespritzt in die Form, das ist ein Wasser- und Wachs-Gemisch, um die
+die Kühlung zu verbessern, um bessere Ausformergebnisse zu bekommen.
+Das ist eine Emulsion, was man da hat.
+Das Paraffin, also dieser Wachs, bleibt an der Oberfläche zurück,
+bildet einen kleinen Trennfilm und damit lässt sich die Form besser füllen.
+Das ist jetzt so eine Warnkammer-Maschine, der Warmhalter oben ist hier direkt angeklatscht,
+im Unterschied dazu schmelzt er immer nach.
+Hier sieht man so ein Steigrohr, ein Steigkanal, das ist jetzt hier oben dran, schmelzt es
+Die ist dann da oben rein und kann umgekehrt wieder zurücklaufen ins Bauteil.
+Typischerweise solche Bauteile hier.
+Mehr Zillinder, 18, 19, 12 Zillinder Motor.
+Getriebegehäuse, klassisch hier im Maschinenbau angewendet.
+Hier ist das Druckbus 10, 10 Zillinder.
+Hier sind die Bauteile, hier ist ein Schleuderguss für Großdieseln.
+Das passiert in dem Fall, dass man die Schmelze einfüllt, die Schmelze unter Rotation der Form eingefüllt wird und das wird man auch als dynamisches Gießen bezeichnen.
+Das führt dazu, dass die Schmelze durch die Zentrifugalkraft einen entsprechenden Druck kriegt und damit ein sehr schönes, feines Gefüge erzeugt wird.
+Der Killer ist unmittelbar wassergekühlt, drehbar und auf einem Schlitten gelagert.
+Und über diese Rotation wird dieses wunderbare Ergebnis erzeugt.
+Das Video hat es mitgenommen.
+Der Druck in der Gießwerkstatt ist 30 mal höher als beim normalen Schwerkraftbus.
+Da ist ordentlich Geschwindigkeit drin.
+Ich werde gegenüber dem alten Skript da auch Anpassungen vornehmen, das mache ich wahrscheinlich
+Da gibt es noch Fahnen von der anderen Seite.
+Und dann geht es weiter.

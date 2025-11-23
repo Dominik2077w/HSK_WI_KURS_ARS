@@ -1,0 +1,1253 @@
+Stürmungssysteme schneller und dann haben wir das was noch übrig ist an Energie, weil wir
+fügen ja an der Stelle keine Energie hinzu oder nehmen keine raus. Zumindest haben wir das als
+erstes mal so als reibungsfreies Rohr betrachtet und dann müssen wir hier bei der Druckseite das
+kompensieren und dann ist weniger Energie übrig für das Thema Druck, es ist also ein Druckabfall.
+Und das haben wir dann auch in den Gleichungen gesehen. Ich muss jetzt heute ein bisschen hier händisch klickern erstmal. Mal gucken, ob der später wieder funktioniert, der Pointer.
+Wir haben also diese drei Varianten kennengelernt, die sich anwenden lassen. Energiegleichung, Druckgleichung, Höhengleichung finden Sie genauso auch in Ihrer entsprechenden Formelsammlung.
+und wir können eine beliebige davon wählen, um dann bestimmte Rechenaufgaben zu bestreiten.
+Zum Beispiel nehmen wir hier einen Punkt 1, hier einen Punkt 2 und parametrieren das für den Punkt 1
+und bei dem Ist-Gleichzeichen auf der anderen Seite für den Punkt 2
+und dann können wir eben genau solche Sachen ausrechnen.
+Wie rechnen wir in der Durchführung?
+Ein Beispiel war diese Torricelli-Aufgaben. Das ist also hier derjenige Herr, der sich diese Thematik erstmals genauer angeguckt hat.
+Und es war nichts anderes als die Überlegung, dass man sagt, okay, wenn wir an dem Umgebungsdrucksystem arbeiten und mit Höhenunterschied arbeiten,
+wo der Druck hier und da oben in etwa gleich ist, dann haben wir doch einen Unterschied aufgrund der kinetischen Energien
+oder beziehungsweise aufgrund der Wassersäule, die hier draufsteht und können links- und rechtsseitig ansetzen.
+Und dann kommen wir auf diese Ausflussgeschwindigkeit, da steht ein Ungefährzeichen, weil wir vernachlässigt haben,
+dass hier oben das Wasser auch mit einer gewissen Geschwindigkeit abseht.
+Ich hoffe, das war soweit, dass Sie verstehen möchten.
+Eine zweite Anwendung, die wir gesehen hatten, war zum einen in dem Video, aber dann später
+auch in Rechnungen und mit Folien, dass wir Geschwindigkeiten schätzen oder ermitteln
+können über eine doppelte Druckmessung, einmal in dem Pitot-Rohr und einmal in dem Piezo-Rohr,
+Die eine Rohrkrümmung ist hier auf die Strömungsrichtung zugewandt,
+die andere ist eine seitliche Bohrung.
+Und dieser Druckunterschied, den wir da messen werden,
+der lässt sich kombinieren in das sogenannte Brandenrohr
+und dient dazu zum Beispiel in Flugzeugen, unabhängig von GPS-Koordinaten,
+eine Geschwindigkeitsmessung vornehmen zu können, allein über den Druckunterschied.
+Das hatten wir uns ein Stück angeguckt.
+Als letztes Beispiel möchte ich da noch das Venturi-Rohr nennen.
+Wir haben sogar am Schluss der Stunde ein bisschen verglichen, Pitot und Venturi-Rohr,
+bei dem in der Grundlage ein ähnliches Phänomen vorliegt und wir Geschwindigkeiten vor und in einer Engstelle haben,
+die unterschiedlich sind, weil die Durchmesser unterschiedlich sind.
+Und was wir machen wollen, ist diese Geschwindigkeit vor der Engstelle,
+also in der ungespürten Strömung, die Geschwindigkeit berechnen.
+Und wir machen das einfach wieder durch zwei Druckmessungen.
+Einmal Druck an der Engstelle und Sie sehen, da ist der Druck kleiner und nicht größer.
+Ich vergleiche letzte Folie.
+Und dieser Druckunterschied oder diese Höhendifferenz, die sich da ergibt,
+die hat was damit zu tun, wie die Geschwindigkeit von dem Fluid ist.
+Also durch Druckmessung kann man Geschwindigkeiten ermitteln, ohne dass man da jetzt irgendeinen Propeller oder irgendwas anderes reinsetzt in dieses Rohr und somit kann man reibungsfrei oder reibungsarm und vor allem berührungsfrei und wartungsarm Geschwindigkeiten messen.
+Das hatten wir alles gesehen letzte Stunde, wir hatten dann relativ am Schluss noch das hydrodynamische Paradoxon angeguckt, vielleicht nochmal ganz kurz an der Stelle wiederholt.
+Es ging darum, dass Luft oder ein anderes Fluid einströmt durch dieses Rohr, von oben in dem Falle, und dann herausgepresst wird in diese Pfeilrichtung, die dann mit Blau skizziert sind.
+Also stellen wir uns vor, von oben ein Rohr und dann eine Platte, die diese entsprechende Strömung nach außen lenkt und man sieht, dass über den größeren Querschnitt, der sich hier ergibt, je weiter wir an die Platte rausgehen, auch ein Unterschied in der entsprechenden Ausströmungsgeschwindigkeit ergibt.
+Und im Kontext kriegen wir eine unterschiedliche Druckwirkung.
+Da oben haben wir einen Querschnitt skizziert.
+Ich glaube, der Stift sollte funktionieren. Warten Sie mal.
+Naja, damit kann ich zumindest Ihnen was zeigen.
+Also hier oben ist diese entsprechende Ausschwirmung.
+Dieses ist hier die hohe Ausschwirmungsgeschwindigkeit an der Mantelfläche.
+und wir können dann wieder mit Benui uns diese Stelle angucken,
+bei der wir hier genau im Zentrum sitzen und hier die Außenstelle.
+Und wenn wir das machen, dann sehen wir, dass der Druckunterschied existiert.
+Hier unten ist es gerechnet im unteren Teil der Folie und wir sehen,
+wenn wir diese Terme uns mal angucken, der ist größer 0, der ist kleiner 0 insgesamt multipliziert.
+kleiner 0, das heißt, der Druck hier in der Mitte ist kleiner als der Druck hier außen,
+das heißt, es gibt eine Sogwirkung, Sie sehen hier, F zeigt nach oben, diese untere Platte
+wird nach oben angesaugt, vielleicht ein bisschen kontraintuitiv, man hatte das in diesem qualitativ
+nicht so hochwertigen Video auch kurz gesehen, da gab es so einen Ping-Pong-Ball und der
+wird mal angesaugt oder irgendwas mit in einer Stahlplatte.
+Das Ganze kennen wir ein Stück weit vielleicht aus Hinweisen.
+Gehen Sie nicht zu nah ran am Bahnsteig, wenn eine U-Bahn einfährt,
+wenn Sie in München sind oder wo.
+Denn dort entsteht eine ähnliche Sogwirkung.
+Aufgrund hoher vorbeifahrender Geschwindigkeit würden Sie eher zu dem Fahrzeug hingezogen.
+Ich hoffe, Sie mussten es noch nie so erleben.
+So weit. Wir hatten am Ende nur aufgeblendet, ohne es zu rechnen, wenn ich mich richtig erinnere, noch den Gedanken hier der Strahlpumpe und keine Sorge, ich will Sie jetzt auch nicht mit einer sehr langen Rechnung da konfrontieren,
+Aber ich möchte Ihnen ein ganz kurzes Verständnis mitgeben, wie so eine Strahlpumpe funktioniert.
+Und die ist jetzt hier mal so skizziert.
+Was hier oben gezeigt ist, ist nichts anderes als ein Einlaufohr,
+was sich darum kümmert, dass die Wasseroberfläche hier oben immer gleich bleibt.
+Also am Ende hier einfach ein beliebig großes Reservoir
+mit einer bestimmten Wasserhöhe und jetzt nehmen Sie hier durch den Schlauch Flüssigkeit ab,
+drücken das durch eine Engstelle und lassen die Flüssigkeit hier unten ausfließen.
+Alles gut soweit.
+und die idee ist aber das ganze diesen diese energie die dabei eingebracht wird durch dieses
+fluid was hier abfließt von dem hohen koordinate von der hohen lage in den unteren ausfluss das
+zu nutzen mit der übertragung dieser engstelle hier um eine sohn wirkung zu erreichen und die
+Die kann sehr deutlich und sehr ausgeprägt sein.
+Und die Idee ist, dass wir hier also eine zweite Flüssigkeit haben.
+Das ist die Flüssigkeit, die wir pumpen wollen.
+Zum Beispiel bei Kanalreinigungsarbeiten wird sowas oft eingesetzt.
+Eine sehr dreckige, unangenehme Flüssigkeit, die jetzt abgepumpt werden soll,
+rausgesaugt werden soll aus irgendeinem Behälter und die kann aufgrund dieser Druckunterschiede,
+wie wir gleich nochmal uns genauer angucken werden, aber Sie kennen das ja jetzt schon,
+Venturirohr, hier ist die Engstelle, hier ist der Unterdruck, das heißt hier saugt es an
+und Sie sehen hier, in dem Falle bei dem Fachbuch, wieder mit W, bei uns mit U, US,
+Diese Geschwindigkeit treibt nach oben, hier ist ein Unterdruck, es wird hier Flüssigkeit nach oben angesagt und beigemengt zu der anderen Flüssigkeit, die von oben abfließt.
+Das heißt, ich kann es erreichen, ähnlich wie das Prinzip des Bunsenbretters, der an anderer Stelle mal gezeigt wurde,
+dass ich durch ein Fluid, was hier durchströmt, ein anderes fördere und ansage.
+Und was ist jetzt im Sinne der Pumpen besonders wichtig an diesem System?
+Hier ist kein einziges mechanisches Teil drin.
+Da kann, auch wenn ich das dreckigste Fluid transportiere, sich kaum was an mechanischen Teilen kaputt gehen.
+Vielleicht muss man sicherstellen, dass die Dimensionierung der Engstellen und so weiter richtig gemacht wird.
+Aber wenn das alles sauber gearbeitet ist und das Konzept als solches stimmt, dann lässt sich hier also verschleißfrei arbeiten und beliebig viel auch kontaminiertes Fluid absaugen.
+Soweit die Idee. Lassen Sie uns das ganz kurz noch von dem Konzept angucken, wie man sowas rechnen kann.
+und die Sisyphusarbeit erspare ich Ihnen, wie gesagt.
+So, wir haben hier ein Benui gezeigt und dieser Benui ist angesetzt an zwei Stellen
+und zwar einmal hier oben, die Stelle 1
+und dann haben sie hier auf der anderen seite eine gleichung ist die stelle 2
+und das ist jetzt so gewählt da hinten mit dem hd und dem nuller das also die koordinate der
+der, typischerweise die Z-Koordinate, die Höhenkoordinate, hier die Null hat und hier eben He.
+Und jetzt können wir uns als zweites noch angucken, dass nicht nur dieser Benui funktionieren muss,
+bei dem ich die Drücke hier ins Verhältnis setze, sondern, weil ich mit den Geschwindigkeiten später gar nicht unbedingt arbeiten will,
+weil ich hier jetzt nicht messen will, wie hoch ist die Geschwindigkeit genau,
+sondern eigentlich alleine ich durch den Konstruktionsaufbau wissen möchte,
+wie viel Ansagdruck erreiche ich jetzt, kann ich mit Kontinuitätsgleichungen arbeiten.
+Die hatten wir ja auch schon kennengelernt.
+Und bei den Kontinuitätsgleichungen nehmen wir jetzt einmal die Variante,
+ich male es mal in orange.
+Ich nehme hier genau die Kontinuitätskleidung an diesen zwei Stellen, die wir gerade genannt hatten.
+Also auch hier 1 und 2.
+1 zu 2.
+Also geht es darum, dass Sie schauen, wie ist der Durchmesser des Rohrs an dieser Stelle und wie ist die Fläche hier oben.
+Und dadurch haben Sie entsprechend den Überhöhungsfaktor der entsprechenden Geschwindigkeit,
+also die Abflussgeschwindigkeit hier gegenüber der Geschwindigkeit, die sich hier ergibt.
+Und das gleiche Spiel können wir nochmal spielen mit der Kontinuitätsgleichung, die sich ergibt.
+Dann nehmen wir jetzt hier mal die Stelle 3, meinetwegen.
+und hier oben wieder die 1 zwischen hier oben der gleichen Stelle und hier unten der Stelle.
+1 zu 3.
+Das hilft uns, um noch mit rein zu parametrieren,
+dass hier unten der Ausfluss auch eine bestimmte Rohrdicke hat.
+Sie können sich vermutlich vorstellen, dass wenn das Rohr hier besonders schmal ist,
+ich dann noch stärkere Überhöhungsfaktoren erreiche,
+weil hier die Geschwindigkeit des Fluids dann noch höher sein wird.
+Bei den entsprechenden Gleichungen ist jetzt noch wichtig,
+dass mit einfließt diese jeweiligen Arbeitshöhen,
+diese Höhe h hier und diese Höhe he.
+und wenn Sie das Ganze durchspielen, dann kommt unten was raus.
+Ich glaube, Sie haben das alles aufgeblendet, oder?
+Ja, die Buchstaben, nicht, dass Sie das alles abschreiben müssen.
+Es geht mir mehr ums Verständnis.
+Wie gesagt, der Druckunterschied, es geht also um den Druck, der hier ist, Umgebung,
+zu dem Druck, der Unterdruck, den Sie hier erzeugen.
+Und der hat jetzt was zu tun mit der Dichte des Fluids,
+mit der Erdbeschleunigung und mit dem Unterschied des Durchmessers an der Ausflussstelle,
+also hier am Ende, gegenüber dem Durchmesser an der Engstelle.
+Und je stärker ich dieses Verhältnis verändere, also die Engstelle stärker einschnüre,
+desto stärker ist der Unterdruck, den ich hier erreiche.
+und auf der anderen Seite geht es auch noch um die Höhen.
+Wenn ich eine möglichst große Fallhöhe insgesamt habe, kann ich stärkere Saugwirkung erreichen
+und wenn ich die Engstelle möglichst weit nach oben platziere,
+dann geht noch ein ganz langes Stück an entsprechendem Fallrohr darauf in der Bilanz
+und führt dazu, dass die Ansaugwirkung stärker ist.
+Ich hoffe, man kann sich so ein Stück weit motivieren, dass diese Terme da eine Rolle spielen.
+Und wir sehen, dass also in dieser Formulierung Geschwindigkeiten keine Rolle spielen.
+Die brauchen Sie nicht messen, die brauchen Sie nicht wissen,
+sondern Sie müssen eigentlich nur die Geometrie von Ihrem Rohrsystem oder von Ihrer Pumpe kennen
+und schon können Sie sagen, wie viel Druckunterschied kann ich erreichen mit dieser entsprechenden Pumpe.
+Und das ist das, was ein Stück weit jetzt wie gesagt beim Kanalreinigungslastwagen benutzt wird, der da irgendwo vielleicht irgendwelche Gullideckel auspumpt.
+Es gibt aber natürlich auch andere solche entsprechenden Konstruktionen, zum Beispiel auch in Ländern, die netzfern sind, die keine gute Stromversorgung haben, werden zum Beispiel solche Strahlpumpen benutzt, um aus irgendwelchen Brunnensystemen was rauszupumpen, wenn oben über ein kontinuierlicher Flusslauf entsprechend die Förderung ist.
+Gut, soweit an der Stelle. Es gibt hier so ein bisschen aufgeblendet noch, und das würde ich gar nicht als Video zeigen, wäre nur noch für diejenigen, die interessiert sind, noch ein Video verlinkt, wo es um die Benui-Thematik geht im Kontext des Fliegens.
+wie genau entsteht dieser Unterdruck auf der Flügelunterseite
+die eine Auftriebskraft erzeugt
+aber auch die Thematik, die diejenigen von Ihnen, die mal im Flugzeug saßen
+neben dem Flügel sicherlich kennen
+dass so ein Flügel zum Beispiel zum Start und zur Landung
+die entsprechenden Flügelstellungen verändert
+um ein anderes Profil zu erzeugen
+oder aber auch Themen wie Flügel konstruiert werden müssen, wenn Sie vielleicht im Kunstflug auf der verkehrt rum Seite fliegen wollen
+und dergleichen mehr. Schauen Sie sich das Video an, wenn Sie das interessiert.
+Es ist kein Prüfungsstoff, es geht nur darum, dass man nochmal zeigt, dass es in verschiedenen Weisen bei uns ein wichtiges Thema ist.
+Wir wollen aber jetzt an der Stelle so ein bisschen fortschreiten und diese Basisbenullthematik, die wird uns weiter beschäftigen in verschiedensten Aufgaben,
+aber in der Realität haben wir ganz häufig damit zu tun, dass zusätzlich zu diesen Höhenunterschieden und Durchmesserunterschieden auch noch Reibung
+oder auch verschiedene kraftübertragende Elemente eine Rolle spielen.
+Und genau das wollen wir uns jetzt mal angucken in der erweiterten Renouillegleichung.
+Wir wollen uns Arbeits- und Verlustglieder in Rohrleitungen anschauen.
+Das heißt, in der Realität sind wir mit noch ein bisschen was zusätzlichem konfrontiert.
+Ich hatte gerade schon was genannt.
+Einmal müssen wir uns bei der Verlustseite mit Reibung anfreunden.
+Was fällt Ihnen noch ein? Vielleicht irgendwelche anderen Themen, warum ein Fluid in der Wirklichkeit nicht genau diese Kraft übertragen kann, wie ich es aus dieser einfachen Benullgleichung gezeigt habe.
+Also Reibung wäre jetzt ein Thema, vielleicht noch ein anderer Gedanke.
+Wir hatten letzte Stunde sogar schon mal am Rande was angesprochen im Kontext vom Venturi-Rohr.
+Warum kann ich nicht alle Kraft, die ich nach meinen Venturi-Rechnungen habe, nutzen?
+Ja, Sie erinnern sich vielleicht mit dem Juhi-Rohr. Ich hatte aber irgendwie gezeichnet, da ist irgendwie das Rohr hier breit und dann wird es eng und dann wieder breit.
+Und dann hatten wir hier gesagt, da fließt was durch und hier hinten bilden sich irgendwelche Wirbel, oder?
+Ich glaube, so in etwa hatten wir das gezeichnet.
+Und es geht darum, dass bei diesem Einbauten, bei dieser Engstelle, aber auch bei allen möglichen anderen Sachen, entsprechend Dissipation auftritt.
+Was passiert? Hier haben Sie ganz viel Kraft in Form von Energie, in Form von Strömung, von Fluid.
+Hier haben Sie immer noch eine Menge solcher Energie, aber etwas Dissipation, etwas ist in Wärme umgewandelt worden.
+und ein bisschen was ist nicht mehr in dem Fluid.
+Und das heißt, was wir hier reinstellen können, das sind typischerweise Knick- und Engstellen.
+Also jeder Kurvenradius, den Sie verwenden, führt zu einem Stück weit Verlusten,
+zu Verwirbelung und aber auch alle anderen Einbauten. Also zum Beispiel Drosseln, Ventile
+oder Schaufelräder steht jetzt hier, möchte ich jetzt nicht noch dazu schreiben. Ich glaube,
+Das ist soweit eigentlich klar. Alles, was irgendwie diese ungestörte Strömung eben ablenkt und verwirrt.
+Was sind Arbeitsglieder? Wie können wir Energie hinzufügen?
+Energie dazu, ja, punkten, wunderbar, nähen gleich, also so eine Idee, wie heißen denn
+die entsprechenden Bauteile, wenn sie nicht in Flüssigkeit arbeiten, sondern in Gasen?
+Was hängt unten am Flugzeug dran, das sind Turbinen, Turbinen sind das Pendant im Prinzip.
+Hier steht noch Ventilatoren.
+Und das ist mehr eigentlich in der Sprachweise, in Nuancen, dann für das Schaufelradblatt nochmal unterschiedlich,
+aber am Ende geht es, genau wie Sie richtig gesagt haben, um Punkten, die entweder Flüssigkeit befördern
+oder ein Pendant dazu, die Turbine, die eben Gase befördert.
+Beides werden wir uns kurz angucken und ich habe eigentlich eben schon gesagt,
+was passiert mit der Energie bei Abfuhr von Arbeit, also wenn ich so Verlustglieder habe,
+irgendwas geht verloren, ich habe es gerade gesagt, kommt aber häufig in Klausuren auch dran,
+deswegen frage ich Sie nochmal, wo geht die Energie hin, wenn ich irgendein Verlustglied eingebaut habe?
+In Wärme.
+Ganz genau, sie geht in Wärme, das ist komplett richtig,
+Aber in der Sturmungstechnik, die wir hier behandeln, schauen wir uns das nicht mehr weiter an.
+Also die Wirkung dieser Wärmeerzeugung vernachlässigen wir.
+Warum machen wir das?
+Wir machen ganz überwiegend Flüssigkeiten.
+Und die Flüssigkeiten haben eine sehr hohe Düchte und eine sehr hohe spezifische Wärmekapazität.
+Sie müssen sehr, sehr viel Dissipationsenergie einsetzen, um ein Fluid, also um eine Flüssigkeit in dem Falle, um einen Grad zu erwerben.
+dementsprechend können wir uns in der ersten vereinfachung an der stelle damit beschränken
+die dichte zum beispiel von dem fluid auf der seite und auf der seite so zu tun als
+als wären die gleich, obwohl es in Wirklichkeit nicht ganz stimmt.
+Weil hier haben wir irgendein Delta T oder Delta Theta meinetwegen,
+also eine gewisse Temperaturerhöhung aufgrund von diesen Verwirbelungen.
+Also auch da bitte mitdenken, die Begründung ist diese extrem hohe Wärmekapazität,
+die wir bei den Fluiden haben.
+So, jetzt haben wir dann noch eine ganze Menge Bildchen, erneutete Benui-Gleichung hier oben und unten und ganz kurz einfach mal für jeden zu mitdenken, oberes Bild und unteres Bild, wo wäre jetzt die Verluste im Sinne von einem Rohrreibungsverlust höher?
+Bei diesem Rohr oder bei diesem Rohr, ich glaube es ist jedem von Ihnen relativ klar, dass so ein ausgeglicheneres, langsameres Krümmungsstück weniger Verwirbelung erzeugt und dadurch auch weniger Reimung erzeugt in diesem entsprechenden Rohrstück als solche kantigen Profile, wie wir sie da oben sehen.
+Also das ist eine Verbesserungsmaßnahme, die hier getroffen wurde, um den Druckverlust in irgendeiner Fabrik oder Firma zu reduzieren und das spielt durchaus eine große Rolle in der Technik, wo man es auch vielleicht kennt für diejenigen von Ihnen, die sich mit Verbrennungskraftmaschinen auseinandersetzen.
+Was ist das? Das kommt irgendwo aus dem Auto. Das ist ein Abgasstrang, Teilstück, wo es um die Turboverdichtung geht.
+Da sind an der Stelle die Rohre extra so gekrümmt, dass sich bestimmte Druckunterschiede und bestimmte Reibungsverluste absichtlich ergeben, damit ein Gegendruck sich aufbaut, damit im Motorenraum ein höherer Druck entsprechend aufgebaut werden kann.
+und dadurch in den Verbrennungsvorgang eben höhere PS-Stärken, höhere Kräfte aufgebaut werden können.
+Ich denke, das ist jedem von Ihnen ein Stück weit bekannt, dass ein Turbo zu einer Verdichtung führt.
+Anderes Beispiel, hier geht es um irgendwelche Punkten, irgendwelche riesigen stehenden Punkten,
+die sind hier in blau in dem Bildchen, die fügen jetzt diesem Fluid entsprechend Arbeit hinzu
+und dienen vielleicht dazu, dass, sag ich mal hier, Frischwasser, was aus irgendeinem Brunnen gezogen wird,
+dann in die Trinkwasserleitung gebracht wird.
+Oder hier eine Anlage, die ein Stück weit in ähnlicher Form auch hier bei uns im Keller-MS-Gebäude ist,
+bei der Luftströme entsprechend hier beeinflusst werden.
+So, jetzt kennen wir ja alle diese Benui-Gleichung aus der letzten Stunde und die habe ich da nochmal hingekopiert und jetzt sollten wir uns mal überlegen, was passiert jetzt mit der Benui-Gleichung, wenn wir eben die Realität, der Realität ins Auge blicken und hier Reibung und entsprechende Arbeitsglieder dazu haben.
+Und wir nehmen jetzt hier einfach mal dieses Beispiel einer Pumpe.
+Die soll hier skizziert sein durch dieses Schaufelrad.
+Und diese Pumpe fügt dem System Arbeit hinzu.
+Und was machen Sie?
+Ja, das ist nichts anderes, als dass Sie, wenn Sie jetzt dieses hier als...
+Entschuldigung, ich nehme mal gleich durch die schwarze Fahne.
+Die Seite 1 haben, die ist hier.
+und hier drüben die Seite 2, das ist hier,
+dann haben Sie irgendwo im Verlauf durch diese Pumpe mehr Energie erhalten
+und die fügen Sie hier einfach hinzu.
+Und hier oben sehen wir in der Legende,
+Hier oft wird das mit dem A als Buchstaben abgekürzt.
+Es geht um die sogenannten Arbeitsglieder.
+Also wir sehen A, E, A, Arbeitsglieder, die hier Energie hinzufügen.
+Und wir können aber, wie wir ja wissen, die Benullegleichung nicht nur so verwenden, als Energiegleichung,
+sondern auch so, wir sehen hier ist der Druck, also das ist hier die Druckgleichung,
+Das ist entsprechend umgeformuliert, sodass wir uns um Druckunterschiede entsprechend hier kümmern wollen.
+Und hier können wir sehen, dass das Gleiche auch ein Druckgewinn durch eine Arbeitsplätze ist.
+Das steht da unten jetzt ausgegraut, weil es eher selten ist, dass Sie von einem Pumpenhersteller eine Anlage kriegen,
+wie viel Druckgewinn Sie durch seine Pumpe bekommen.
+Was Sie durchaus aber bekommen, ist eine Information, wie viel elektrische Energie diese Pumpe verbraucht
+und dann, wenn Sie die Verluste dann noch einberechnen, wie viel Energie diese Pumpe dem Fluid hinzufügen kann.
+Was Sie auch kriegen, häufig, ist eine Angabe über die sogenannte Förderhöhe.
+Das ist eigentlich nichts anderes als das Pendant zur Energie, wenn Sie entsprechend hier Masse und Gewichtskraft herausdividieren und entsprechend in dieser Höhengleichung arbeiten.
+Also Stelle Z1, so viel höher lag das Rohr vielleicht als am Endstück und zusätzlich kann meine Pumpe noch im Fluid eine Energie hinzufügen, die dem entspricht, als wäre es, was weiß ich, meinetwegen 50 Meter weitere Fallhöhe.
+Oder andersrum gesprochen, wenn Sie eine Pumpe hier auf meinem Basisniveau installieren und Sie wollen oben im dritten, vierten, fünften Stock Wasser zapfen,
+dann können Sie sich überlegen, welche Förderhöhe benötige ich für meine Pumpe, damit Sie da oben im vierten, fünften Stock gerade noch das Fluid mit gleicher Geschwindigkeit und gleicher Kraft wieder bereitstellen können.
+Also deswegen sind Förderhöhenangaben recht häufig und wir können das Ganze im entsprechenden Kontext auch nochmal umschreiben.
+Hier wird oft in der technischen Bereich eine sogenannte Stutzenarbeit verwendet, dieses Y.
+Das werden wir später nochmal sehen, M mal Y.
+dass also die Masse nur herausdefiniert und hier unten, das wird auch oft mit einem großen Buchstaben
+HA abgegriffen, Förderhöhe der Pumpe. So, gleiches Spiel. In der Realität haben wir eben leider nicht
+dieses Idealbild, sondern wir haben mindestens einmal irgendwie Reibungstherme und ich mal es
+aber außen hin an das Rohr, denn an der Rohrwand, da tritt die Reibung auf.
+Und diese Reibungsverluste, die schauen wir uns im zweiten Teil der Stunde noch deutlich genauer an,
+die führen dazu, dass Energie vernichtet wird oder hier verloren wird.
+Die führt dazu, dass ein Druckverlust auftritt und die führt dazu, dass ein Höhenverlust auftritt.
+Manchmal wird hier das Delta auch einfach weggelassen und man spricht bei dem Ganzen nur von einem HV.
+Das ist ein bisschen inkonsistent eigentlich mit der Terminologie, aber dass Sie es mal gesehen haben.
+Also das sind die Terme, die uns beschäftigen.
+Grün, wir geben Energie dazu auf der linken Seite, auf der Eingangsseite, rechte Seite, Ausgangsseite.
+Wir haben weniger Energie, als wir ursprünglich gedacht hatten, weil eben Rohrreibung, aber auch Einbauten oder Knicke oder was auch immer unseren Fluidenergie entzogen hat.
+Nein, Sie hatten es richtig gesagt, sie wird nicht wirklich entzogen, sondern sie wird wärmer umgewandelt, aber die beschäftigt uns nicht mehr weiter.
+Okay? Ich hoffe, Sie hatten alle Zeit, das einmal zu notieren.
+Das ist ganz wichtig, steht aber so auch in der Formelsammlung.
+wir wollen uns jetzt mal ein bisschen anschauen was passiert denn wenn reibung auftritt also die
+punkten werden wir eigentlich erst in der kommenden stunde wieder genauer angucken diese stunde den
+ganzen rest geht es um reibung und wir haben die klarheit dass wenn ich jetzt hier in so
+ein Rohr hineingehe mit einer Anfangsgeschwindigkeit. Ich nehme jetzt mal da den roten Stift. Hier
+oben geht es rein, hier hinten geht es raus und hier in der Mitte ist irgendwie Reibung,
+ja. Ja, was ist mit der Geschwindigkeit? Auch wenn ich es vielleicht in meinem Bildchen
+nicht perfekt gezeichnet habe, ist echt klar, dass wenn ich die Flüssigkeitsmenge hier
+reinstecke, dann muss die gleiche Flüssigkeitsmenge hinten auch wieder rauskommen, das heißt
+die Geschwindigkeit ist nicht beeinflusst, dadurch dass Reibung da ist. Das klingt jetzt
+vielleicht erst mal ein bisschen verwirrend, ich sehe so ein bisschen Stirnrunze, aber
+wenn Sie vorgeben, ein Rohr, bei dem eine bestimmte Durchflussgeschwindigkeit ist, und
+wir stellen uns jetzt einfach mal vor, Sie schalten jetzt die Reibung zu, dann wird sich
+das, was da hinten rausfließt, nicht langsamer herauskommen als die Spoiler der Fiber. Wir können
+auch nicht die geodätische Höhe beeinflussen, das heißt, das Fluid kommt auf der gleichen Stelle
+wieder raus, wie wenn Sie keine Reibung hätten, aber der einzige Ventil sozusagen, um Energie
+die hinzuzufügen oder herauszunehmen, ist am Ende, dass der Druck sich verändert.
+Also es wird ein sogenannter Druckverlust in dem Fall auftreten, das ist das, was wir klassischerweise haben,
+auch wenn Sie auf der vorigen Folie hier was über Höhenverluste notiert haben,
+dann heißt es dennoch, dass wenn Sie in der Geometrie festgelegt sind und die Höhe von Einfluss und Ausfluss vorgegeben ist,
+Da muss die Energie irgendwo anders herkommen, dann kommt es ja aus dem Druckverlust.
+Rechnerisch können Sie trotzdem über die Höhegleichung arbeiten.
+Anschaulich macht das keinen Sinn.
+Es geht darum, dass hier Druck verloren wird.
+Und Sie haben also an der Stelle 1, meinetwegen den hohen Druck.
+Das ist, denke ich, jetzt ganz gut anschaulich.
+Entschuldigung, hier muss ich P1 notieren.
+und an der Stelle 2 hier hinten haben Sie einen niedrigeren Druck.
+Das heißt, wenn Ihr Gartenschlauch eben nicht perfekt ist und viele Knicke und Biegungen hat,
+dann müssen Sie vorne die Pumpe oder den Hahn weit aufdrehen,
+damit genug Druck da ist, damit hinten überhaupt was rauskommt.
+Und genau das können wir also jetzt als diesen Druckverlust bezeichnen
+und dafür benutzen wir einen neuen Buchstaben, das ist das CETA.
+Und ich werde das CETA vielleicht am besten mal an der Tafel noch mal versuchen.
+Etwa so male ich mein CETA, wie Sie es malen,
+Das ist Ihre Entscheidung.
+Solange es irgendwie eine Schlange ist, die von oben nach unten geht,
+werde ich es hoffentlich auch bei Ihren Klausuraufgaben erkennen können.
+Aber dieser Korrekturfaktor Zeta, der wird Sie jetzt sehr viel beschäftigen,
+der sagt nichts anderes aus, als wie stark ist denn jetzt diese Reibungswirkung.
+Und der ist normiert auf einen Geschwindigkeitsquadrat.
+Das werden wir gleich noch sehen, warum das Sinn macht.
+und die Dichte spielt immer eine Rolle vom Fluid, das ist recht eingängig.
+Wir können jetzt an der Stelle noch hinzufügen den gleichen Gedanken,
+wenn wir nicht nur Reibung haben durch das, was ich gerade an Rohrreibung habe,
+sondern ich mache hier meinetwegen noch eine Engstelle, dieses Lila, also irgendeine Einbauten.
+Und diese Engstelle führt jetzt dazu, dass der Druck an dieser Stelle nochmal schlagartig abfällt.
+Sie haben gesehen, hier ist es linear, über das Rohr war gleichmäßig die Reibung
+Und hier versuche ich jetzt parallel versetzt an der Stelle, wo die Einbauten sind, nochmal einen zusätzlichen Druckverlust zu skizzieren.
+Und in Wirklichkeit wird es hier wahrscheinlich solche Überschwinger geben, die ich hier unten dran male.
+Sie sehen das ohnehin auf der nächsten Folie digital vom Profi aus dem Fachbuch.
+Aber ich wollte es Ihnen nochmal motivieren.
+An der Stelle fällt also der Druck schlagartig ab.
+Das heißt, der Druck links von der Engstelle ist höher als rechts von der Engstelle.
+Das ist, denke ich, ganz eingängig.
+Hier hoher Druck, hier etwas niedrigerer Druck.
+Und in der Mitte ganz niedriger Druck.
+Also wenn Sie jetzt die Frage kriegen, auch das in der Klausur bei sowas,
+hier Stelle 1, 2 und 3
+und Sie sollen jetzt die Drücke ins Verhältnis setzen
+klar kommt immer ein bisschen drauf an
+wie gut oder schlecht das Ding geformt ist
+aber wenn man das einigermaßen
+in einen sauberen Kontext bringt
+dann würde man sagen
+P1 ist der höchste Druck
+dann folgt P3
+und dann folgt P2
+die Engstelle hat den niedrigsten Druck
+ist das verständlich?
+und lesbar?
+ohne Tafellicht
+ich mach das da mal hinten an
+so, also soweit zum Hut
+was können wir da noch machen
+wir können jetzt diese Formel
+die wir da gerade kennengelernt haben
+mit dem Verlust
+wieder genauso
+uns auch anschauen
+für den Verlust dieser
+Einbauten alleine
+PV-Einbauten
+Und das ist nichts anderes als wieder irgendein Zeta-Wert von den Einbauten mal dem Rho mal U² durch 2.
+Und das Schöne ist jetzt, dass wir den Gesamtverlust an Druck, der sich bei meinem Rohr von der Stelle 1 zur Stelle 2 ergibt,
+aufgrund von Rohrreibung und Einbauten zusammen, nichts anderes ist, als, Sie können sich das anschauen,
+die Gleichung links und die Gleichung rechts
+nichts anderes als am Ende die Summe
+über alle
+Zeta-Werte
+diesmal ist es sowieso weniger
+ausgeprägt, meine Zacken
+die Summe über alle Zeta-Werte
+mal
+Gedichte mal
+U² durch 2
+das bedeutet für Sie
+wenn es Ihnen gelingt
+und alle Zeta-Werte zu errechnen oder aus der Angabe oder sonst woher zu bekommen,
+dann können Sie den Druckverlust quantifizieren und wieder Ihr altes Benulli-Spielchen machen.
+Also wenn ich Ihnen jetzt sage, ja, da gibt es so eine Aufgabe mit einer Strahlpumpe
+und von oben bis unten ist so und so ein Rohr verwendet,
+was diesen und jenen Zeta-Wert hat aufgrund seiner Rohrreibung
+Und da sind noch irgendwie zwei Knicke drin und eine Engstelle.
+Der Knick hat einen Zeta-Wert 3 und eine Engstelle hat einen Zeta-Wert 5.
+Dann können Sie das alles aufaddieren, alle Zetas zusammenpacken und den Druckverlust berechnen.
+Und mit dem Druckverlust können Sie wieder in Ihr altes Plenum gespiegelt.
+Es wird im Endeffekt vier Tecke Brot werden in der nächsten Zeit in der Strömungstheke.
+Ich hoffe, ich habe Sie alle einigermaßen gut mitgenommen.
+Jetzt steht hier nochmal das Gleiche, was wir gerade haben, deswegen ist alles grau.
+Und hier drüben das Bild, ein bisschen professioneller, aus dem Fachbuch.
+Wie so oft haben wir hier Ws statt Us, aber ansonsten genau das, was wir wollten.
+Und wir sehen, dass wir uns schwer tun werden, was genau ist zu erzählen über den Druck im Bereich dieser Engstelle.
+und auch kurz danach, aber außerhalb von dieser roten, kurzen Verwirbelungsstrecke
+kommen wir wieder in den bekannten und für uns gut quantifizierbaren Bereich,
+in dem wir die Druckverluste über Zeta-Werte rechnen können.
+Und Sie sehen hier noch andere Formen, die werden wir in den nächsten Folien noch anschauen.
+Am Ende versuche ich es wieder auf diesem Tafelbild zu machen. Wir haben also jetzt
+hier hinten wieder ein ungestörtes Rohr und diese Verwirbelungen, die ich hier eingezeichnet habe,
+die führen dazu, dass der Druck irgendwelche für uns schwer berechenbaren Zahlenwerte annimmt,
+aber wenn wir dann nur weit genug weggehen, dann ist die Rohrströmung wieder so,
+So wie wir sie uns vorstellen, dass also in den Strömungslinien hier wieder eine relativ ungespürte, freie Strömung ist.
+Und nichtsdestotrotz, ich sollte also jetzt die Stelle 3 nicht hier hinmalen, sondern lieber hier hinten hin.
+Nichtsdestotrotz haben wir hier hinten eben weniger Druck als hier vorne weit vor der entsprechenden Engstelle.
+Ja, ich hoffe, Sie können damit leben, dass ich da ein bisschen rumgeschmiert habe, aber ein Stück weit vielleicht dieses Bild nochmal dastehen lassen, um Ihnen zu erlauben, das parallel zu sehen.
+Rohr und Einbautenrohr, das heißt immer Rohrreibung. Also wenn es um Cetarohr geht, das ist die Rohrreibung.
+Dann haben wir hier auf der Folie einmal irgendwelche Beispielkonfigurationen von Rohren und Sie sehen, die technisch durchgespielten Konfigurationen sind unzählig viele.
+Es gibt entsprechende Stellen, die wir uns anschauen, wo es von einem dicken Rohr in ein dünnes Rohr geht.
+Das könnte entweder schlagartig passieren oder hier über so einen Trichter, so eine Einmündung.
+Man kann sich schon vorstellen, Zeta-Werte in so einem Einmündungsbereich werden weniger hohe Zahlenwerte,
+Das heißt, weniger Reibungsverluste ausüben als so eine plötzliche Verengung.
+Sie müssen sich immer vor Augen halten, was passiert mit dem Fluid.
+Und je mehr Verwirbelungen auftreten, desto höher zittern wir.
+Und da gibt es also irgendwelche Krümmungsstrecken oder Knickstrecken oder Abzweigungen.
+Und sogar da oben Dinge wie Einlauf- und Auslaufstellen, also wo ein Rohr plötzlich endet, auch da tritt eine gewisse Verwirbelung auf und man muss, wenn man sauber rechnet, dann Rohrende auch nochmal einen zusätzlichen Zeta-Wert berechnen.
+Wir sehen hier mal rauskopiert, und bitte keine Sorge, Sie müssen hier keinen einzigen Zahlenwert auswendig lernen,
+aber solche Tabellen sind durchaus üblich, dass man sie mit konfrontiert,
+dass Sie dann für eine bestimmte Geometrie den Zeta-Wert ermitteln müssen.
+Und Sie sehen auch schon, Zeta hat keine Einheit, ist ein reiner Zahlenwert.
+Wenn Sie sich das anschauen, der Druck, Geschwindigkeitsquadrat und Dichte,
+Wenn Sie sich ein bisschen zurückerinnern, das passt genau von den Einheiten, sodass Sie dort Newton pro Quadratmeter, also Pascal, bekommen und Sie haben diesen Zahlenwert, der in dem Falle bei dem Dichterunterschied von innen nach außen, und da gibt es halt verschiedene entsprechende katalogisierte Werte, dann einen solchen oder solchen Zahlenwert annimmt.
+Für Sie auch Usus bei uns in Rechenaufgaben.
+Ich habe nicht vor, Sie mit irgendwelchen Interpolationsfragestellungen zu konfrontieren,
+aber Sie können sich vorstellen, dass wenn hier 0,5 und hier 0,75 steht
+und Sie haben in der entsprechenden Berechnung, würden jetzt mit 0,6 oder was rauskommen,
+dass Sie halt einen Zahlenwert etwa interpoliert dazwischen benutzen.
+Wir wollen uns rein darauf beschränken, den richtigen Zeta-Wert aus irgendwelchen Tabellen rauszuknüpfen.
+um dann einzusetzen, damit weiterzurechnen.
+So weit, so gut.
+Es gibt also, wie gerade schon erwähnt, verschiedenste Angaben.
+Es geht hier zum Beispiel auch um den entsprechenden Neigungswinkel zwischen diesem Knicken,
+der angegeben sein kann.
+Und oft wird auch noch in zwei Kategorien unterschieden, Zeta glatt und Zeta rau.
+Da geht es jetzt darum, dass es einen kombinierten Effekt ergibt, ob dieses Rohr hier besonders niedrige Rauigkeit hat und als glatt eingestuft werden darf oder ob hier deutlich stärkere Rauigkeit vorliegt, dann treten häufig zusätzliche Verwirbelungen auf.
+Wann und wie man darunter unterscheidet, werden wir noch sehen.
+Wir springen jetzt mal direkt in so einem Anwendungsbeispiel, was doch relativ kompliziert ist und schauen uns mal an, was ist denn mit unserer schönen Venturi-Düse los, wenn wir die Reibung berechnen.
+Und das passt ja genau zu meinem Tafelbild links.
+Hier ist jetzt die Rohrreibung nicht, aber eben die Reibung dieser Einbauten, dieser Venturi-Düse mit,
+mal als zusätzlicher Term gegeben.
+Man sieht hier auch so ein entsprechendes Bauteil, wie es von einem Hersteller angeboten wird,
+mit den zwei Druckmessstellen, einmal vor der Engstelle und einmal an der Engstelle.
+Also die Engstelle wird wahrscheinlich etwa hier sein.
+Und man sieht eine klare Durchflussrichtungsangabe.
+Das ist deswegen der Fall, weil typischerweise die Einengung hier zügiger, schneller verläuft.
+Und hier im Ausflussbereich, man versucht durch eine lange Nachlaufstrecke die Verwirbelung an diesen Stellen möglichst gering zu halten.
+Jetzt kann man die erweiterte Benui-Gleichung aufstellen.
+Es gibt keine entsprechenden Arbeitsglieder, das heißt die linke Seite ist ungestört.
+Einfach der Druck, Geschwindigkeit und Höhenangabe und auf der rechten Seite haben wir wieder die Ergebniszahlen und müssen aber zusätzlich berücksichtigen, dass hier dieser Zeta-Wert mit der entsprechenden Geschwindigkeit ist.
+Und Achtung, hier steht U1 und nicht U2. Warum ist das so? Typischerweise werden alle Einbauten bezogen auf die Einlaufgeschwindigkeit.
+Also, nichts anderes als das hier links und das Ganze hier hinten.
+jetzt können wir darüber eine gewisse rechnung
+und anschauen und ich glaube dass einiges aufgeblendet ich muss jetzt
+ein bisschen Spicken zugegeben mit den Aufblendungen und alles Händeschwaden, weil der Pointer
+nicht funktioniert, aber Sie sehen, die Z-Werte können wir schon mal rausschmeißen, denn
+die Höhe dieser Düse ist jetzt so orientiert, dass der Einlauf und der Auslauf auf gleicher
+Höhe ist. Das kennen wir zur Genüge bei solchen Aufgaben. Fliegt raus und dann habe
+ich schon umgestellt, weil es auch eigentlich nur Schreibarbeit ist, die beiden Drucktherme
+auf die linke seite und dichte therme auf der rechte seite dichte geschwindigkeit einmal
+ungestört noch mal ungestört und einmal diese düse die sich noch dazu eben aufaddieren lässt
+nächster gedanke ist die kontinuität gleichung die wir schon kennen und die wird auch durch
+die Rohrreibung oder Einbauten nicht beeinflusst. Das heißt, es muss immer noch gelten, dass die
+Geschwindigkeit mit der Fläche an verschiedenen Stellen im Rohr gleich ist. Das ist genau das,
+was 2-3 Folien vorher noch mal erwähnt waren. Die Geschwindigkeit kann sich nicht einfach ändern,
+deswegen bei der Reibung haben. Und jetzt stellen wir das um, nutzen das, dass wir das u2 Quadrat
+hier entsprechend über ein u1 Quadrat und eine Fläche ausdrücken können und das setzen wir hier
+ein, weil wir am Ende nur noch Druckunterschiede anschauen wollen und nicht mehr Geschwindigkeit.
+Und dann nochmal ein wichtiger Term, den hatten wir, glaube ich, an anderer Stelle auch schon öfters gesehen, kommt immer wieder.
+Wir haben den Volumenstrom, der ist nichts anderes als die Geschwindigkeit mal die Fläche.
+Dieser Volumenstrom erlaubt es uns hier nochmal ein bisschen zu vereinfachen und über Volumenströme auszudrücken.
+Ein Volumenstrom ist typischerweise eine Angabe, die wir in unserer Berechnungsaufgabe von der Angabenseite aus kriegen oder die eingestellt wird über eine entsprechend starke Pumpe.
+Es ist deutlich häufiger als eine Geschwindigkeit.
+Werden Sie auch sehen, wenn wir in die Rechnungsaufgaben gehen.
+Also haben wir jetzt das alles eingesetzt, Druckunterschied, vorher zu nachher, bei meinem Bildchen an der Tafel sind die Stellstellen 1 und 3, nee, das stimmt nicht, 1 und 2 ist schon richtig, aber eben an der Stelle 2 zusätzlich mit Verlust behaftet.
+Und wir sehen, es ergibt sich ein Term, der was zunächst mit der Anfangsgeschwindigkeit und den Flächen und der Düse zu tun hat.
+Und wenn wir dann noch den Volumenstrom integrieren, dann sehen wir, dass wir jetzt was bekommen, was einen gewissen Charme hat.
+Na ja, gut, auf der nächsten Folie wird noch gewaltig umgeformt damit.
+Aber wir sind schon recht gut vorangeschritten.
+Wir haben nämlich jetzt den Volumenstrom, den wir typischerweise über die Angabe haben und den Druckverlust, den wir berechnen wollen.
+Dichte haben wir auch aus einer Angabe, aus einem Wissen, welches Fluid wird hier durchgetrieben.
+Ist es Wasser oder vielleicht doch eine andere Flüssigkeit?
+Und das da alles kann man noch ein bisschen umformen, das sehen Sie jetzt auf der kommenden Folie.
+Das will ich aber gar nicht zu sehr ins Detail gehen.
+Da gibt es noch eine weitere Definition von diesem entsprechenden Term, der was über das Flächenverhältnis aussagt und der steht oft auf so einem Venturi-Düsen, die Sie kaufen, drauf, ein m²-Wert.
+und jetzt machen wir da lange
+Spielereien und dann sehen wir
+dass wir
+entweder den Druckdifferenz
+ausrechnen können, was ich gerade behauptet hatte
+oder das Ganze umstellen
+und den Volumenstrom ausrechnen können
+das ist
+das ist ja das, wozu die Venturi-Düse
+ursprünglich
+eingesetzt werden soll
+also ich will wissen, wie viel Fluid fließt
+jetzt hier durch
+Und jetzt habe ich eigentlich eine Gleichung, wenn ich das so umgeformt habe, die zeigt, dass Sie hier über diesen Flächen am Einlauf, die wissen Sie, die steht auf der Venturi-Dose drauf, arbeiten.
+Genauso auch diese zwei Terme, das Alpha steht hier noch ausgeschrieben, diese Durchflusszahl
+der Düse und der M-Wert, das sind also Angaben vom Hersteller und eigentlich die wesentliche
+Größe ist hier hinten. Sie messen diesen Druckunterschied und hier unten kann man auch
+wieder wissen, den Schaden, die entsprechende Dichte. Das heißt, es ist mit dieser Formel
+möglich, den Volumenstrom zu berechnen, allein aufgrund der Druckdifferenzen, die ich messe
+und einigen Angaben, die sich ohne weiteres im Vorfeld klären lassen.
+Und das gilt jetzt eben auch für ein reales Bauteil, also wohlwissend, dass meine Venturidüse nicht perfekt ist.
+Und genau das wird zum Beispiel bei uns in dem entsprechenden Laborrundgang,
+Wenn wir Anfang Januar da drüben hingehen, ich kann von hier rüber schauen in die Sturmungstechnik-Halle oder die Energietechnik-Halle,
+da sehen Sie dann solche entsprechenden Bauteile, wie das von vor zwei Folien,
+mit denen man eben Durchflussgeschwindigkeiten aufgrund von Duktdifferenzmischungen zwischen dem roten und dem grünen Flanschen gut und sehr genau durchführt.
+Es gibt noch andere solche Bauteile, nicht nur die Venturi-Düse, wie sie jetzt hier mal gezeigt ist im Querschnitt,
+sondern auch eine sogenannte Normdüse oder gar eine Normblende.
+Was ist der Vorteil? Von rechts nach links, die werden immer kleiner.
+Also das hier braucht ein ganzes Stück Raum, das hier lässt sich auch nachträglich vielleicht noch in irgendein bestehendes Rohrsystem, wenn ich mal den Fluidstrom abschalte, einbauen.
+Dann setze ich im Prinzip nur eine Lochblende rein, ein kleines Stück und an dieser Lochblende muss ich vor und nach der Lochblende die entsprechenden Drücke messen.
+Aber was könnte der Nachteil sein von diesem Aufbau gegenüber dem Aufbau?
+Der Nachteil ist sicherlich, dass ich hier viel mehr Reibung mit erzeuge, viel mehr Verwirbelung mit erzeuge.
+Wenn ich da so eine Lochplatte rein stelle, dann sprudelt es danach ganz gewaltig.
+und entsprechend muss ich da abwägen, was am Ende Sinn macht.
+All die Bausteine gibt es. Hier sehen wir auch, dass das Thema man durchaus noch ein ganzes Stück weiter treiben kann.
+Das ist ein Versuchsaufbau, den wir mal kurz sehen, bei dem hier durch verschiedene Hähne der Fluidstrom abgesperrt oder freigelassen werden kann
+Und es gibt dann Druckmessungen an verschiedensten Stellen. Hier sind überall so goldene Kupfer- oder Messing-Schnittstellen aufgesetzt, bei denen Druckmessungen stattfinden können.
+Und man kann also jetzt untersuchen, durch welchen Fluss hierdurch oder meinetwegen hierdurch ergibt sich welcher Druckunterschied,
+wenn wir da eine feste Pumpe anschließen und dann Drücke messen.
+Und was wir damit herauskriegen, ist im Endeffekt nichts anderes als die Zeta-Werte.
+den Zeta-Wert von dieser Art von Rohr gegenüber dem Zeta-Wert von diesem Rohr.
+Oder wenn ich dazwischen noch irgendwelche Messstellen habe, dann kann ich das noch quantifizieren,
+wie viel haben jetzt diese zwei Knicke ausgemacht und solche Rundstellen.
+Also Sie können sich gar nicht vorstellen, dass es technisch gut möglich ist,
+alle möglichen Rohreinbauten zu vermessen.
+einfach durch diese Druckmessung. Ganz ähnlich ist dort auch aufgebaut ein Messstand, bei dem
+hier von der Seite, ich zeige das jetzt nur heute, weil das passt jetzt sehr gut dazu und Sie erinnern
+sich hoffentlich ein Stück wieder, wenn wir im Labor sind, hier kommt ein Fluid rein, also
+meinetwegen Wasser oder ich glaube in dem Fall ist es sogar Druckluft gespeist, geht ja genauso. Und
+Hier ist eine Venturi-Düse verbaut, auch wenn wir sie jetzt vielleicht nicht so gut sehen können, sieht es dort im Querschnitt in diesem System in etwa so aus.
+Hier ist die Engstelle und hier oben sind dann unsere Schläuche eingesetzt und die sind jetzt vor der Düse, an der Düse und hinter der Düse.
+Und Sie können noch mal hoffentlich live sehen und erleben, dass der Druckmesser,
+der ist nichts anderes als hier so ein Propfen, vor der Engstelle hoch ist,
+an der Engstelle extrem niedrig ist und nach der Engstelle dann wieder irgendwo in der Mitte zu liegen kommt.
+Das ist im Endeffekt das, was wir jetzt zehnmal gesprochen haben.
+Okay?
+Wir können uns jetzt noch die Pumpen anschauen, ganz kurz, bevor wir, denke ich, dann ganz
+gut einen Schnitt machen können und eine kurze Pause vertragen.
+Bei den Pumpen, hatten wir gesagt, geht es darum, dass da Energie hinzugefügt wird und
+auch wenn Pumpen erst in ein oder zwei Wochen genauer angeguckt werden,
+welcher Pumpentyp kann was,
+Streitpumpe hatten wir heute schon kurz angesprochen,
+aber es gibt einen Haufen andere,
+werden wir uns trotzdem heute kurz anschauen,
+wie kann man diese Energie quantifizieren
+und es ist oft sinnvoll, die hydraulische Leistung als Basisgröße zu nehmen.
+Das heißt, wie viel Leistung kann eine Pumpe an das Fluid übertragen?
+Also meinetwegen, ich habe eine Pumpe, die zieht 1 kW Strom, 1 kW an Leistung
+und hat einen Wirkungsgrad von, sagen wir mal, 90%, dann werden 900 Watt an Leistung an das Fluid übergeben.
+Und das kann man jetzt umrechnen und sich überlegen, wie viel Höhe kann ich damit für mein Fluid generieren
+oder wie viel Druckverlust kann ich damit ausgleichen oder, naja, wie viel Energie ist das denn eben?
+Wie viel Energie ist es? Ich glaube, das kann jeder von Ihnen schnell nachvollziehen.
+Da geht es um nichts anderes als dieses Ea, das ist Energie des Arbeitsblitzes, durch die Zeit.
+Also Leistung mal Zeit ist Energie.
+Das weiß hoffentlich jeder von Ihnen aus dem FF.
+Wir haben das Ganze umgeschrieben als Stutzenarbeit.
+Yp mal m durch t.
+Das klingt etwas ungewohnt.
+Die Stutzenarbeit steht hier unten, die Einheit.
+Das ist ein Joule pro Kilogramm.
+Also das ist ein Energiewert pro Masse.
+Kommt aber doch immer wieder mal vor in Angaben.
+Und dann können wir das Ganze aber auch umschreiben als Delta pt
+durch O mal M Punkt, Achtung, das ist der Massenstrom,
+oder einmal umschlagen, HP mal G mal M Punkt.
+Das heißt, HA oder HP heißt, sei einmal dahingestellt, hier steht jetzt HP,
+Und da steht auch HA ist HP. Das ist die Förderhöhe in Metern. Also so viele Meter kann ich nach oben schaufeln, bei gegebener Gewichtskraft und gegebenem Massenstrom, den ich transportiere.
+Und das Ganze lässt sich jetzt vielleicht nochmal ganz gut, nehmen wir den hellblauen Faktor, mit den Einheiten angucken.
+Wenn wir uns das hier hinten anschauen, dann sehen wir nochmal, ob das jetzt alles passt, was ich da gerade hingeschrieben habe.
+Dann habe ich eine HP, das ist nichts anderes als eine Höhe in Metern, als Einheit.
+Dann haben wir eine Erdverschleunigung, Meter pro Sekunde Quadrat.
+Dann haben wir einen Massenstrom, Massenstrom ist nichts anderes als Kilogramm pro Sekunde.
+Und wenn wir das zusammenfassen, ist das nichts anderes als Kilogramm mal Meter Quadrat durch Sekunden Quadrat mal Sekunde.
+Und das ist nichts anderes als Newton Meter pro Sekunde.
+Und das ist nichts anderes als Watt.
+Ich hoffe, Sie können das so nachvollziehen.
+vollziehen. Hier sollte noch eine Ecke geklammert zu sein. Es geht also nur um Einheiten. Ich wollte
+nur überprüfen, dass wir mit den Einheiten wieder auf die Watt kommen, die wir hier vorne haben.
+Das gleiche Spielchen können wir hier auch einmal spielen. Einfach der Vollständigkeit
+halber, dass wir mit den Einheiten gut unterwegs sind. Da haben wir nichts anderes als Newton pro
+Quadratmeter oder Pascal, das ist der Druck da oben, mal Kilogramm je Kubikmeter ist die Dichte,
+Also steigen wir auf den gleichen Bruch, Kubikmeter pro Kilogramm, weil da steht 1 durch Rho und dann habe ich hier hinten noch Massenstrom, sind wieder Kilogramm pro Sekunde und das ist nichts anderes als Joule pro Sekunde und das ist nichts anderes als Watt.
+ich hoffe das ist so weit klar mir ging es nur darum dass noch mal diese umrechnung ein
+bisschen motiviert wird weil er doch etwas vom himmel fiel noch mal rein in ihrer formel sammlung
+haben Sie was ähnliches in der S6.3 Formel stehen. Nicht ganz das, vielleicht lohnt es sich hier,
+ich schreibe mal Vergleiche Formelsammlung, vielleicht lohnt es sich das auf Ihrem
+Spickzettel zu schreiben, was wir da gerade haben. Es ist einfach griffig, wenn Sie schnell sagen,
+das eine pumpe was brauche ich denn ja es geht mir um stutzen arbeit es geht mir um druck oder
+es geht mehr um höhe und dann haben sie halt einfach die richtige formel zu handeln okay
+so jetzt erste teile stunde noch wichtiges zusammenfassendes bild ich darf oder sie
+brauchen noch kurz es geht mir darum einfach noch mal zusammen zu passen wie sieht das ganze jetzt
+in der realität aus sie erinnern sich ja dieses diagramm von vorher gut gefallen ich habe es
+schon mehrfach verwendet es ging darum wie ist die energie vor irgendeiner problemstellung und
+wie ist die Energie nach der Rohrproblemstellung und man sieht jetzt den Versuch, der ist vielleicht etwas komplizierter,
+aber für Sie jetzt hoffentlich doch ein bisschen nachvollziehbar, dass die Energie am Anfang in Lagerenergie,
+kinetische Energie, Druckenergie vorlag, dann sind Sie durch irgendein Rohrsystem gegangen und hier oben grau schraffiert
+oder schwarz schraffiert ist was was an verlusten aufgetreten ist ev die gesamten verluste und diese
+verluste die gehen einmal so ein stück weit linear zunehmend aufgrund von ihrem rohr die
+können aber auch steiler zunehmen weil hier eine bestimmte vor verengung ist oder weil hier
+vielleicht eine klickstelle ist da sehen sie wurde ein stückchen der verlustenergie zugeschlagen
+genau an diesen entsprechenden Knitten.
+Wir können das Ganze dann rechnen über Zeta-Werte.
+Dann haben wir die kinetische Energie, die sich da eben verändert,
+weil das Rohr dünner oder dicker wird
+und entsprechend kinetische Energie freigesetzt wird,
+oder anders vorliegt.
+Wir haben die Druckenergie, die das nimmt, was übrig ist.
+Und wir haben hier eine wichtige Thematik noch mal drin.
+Da ist diese Pumpe mit der entsprechenden Stutzenarbeit auf der entsprechenden Masse, m mal y, und die fügt dem System plötzlich Energie hinzu.
+Wir hatten vorher eine Eingangsenergie minus die Verluste und jetzt haben wir eine Zusatzenergie bekommen,
+die vielleicht durch die Pumpe gerade das Ausgleich, sodass am Schluss entweder gleiche oder niedrigere oder höhere Endenergiewerte wieder nutzbar sind
+und aufteilweisen im Druck kinetische Lage-Energien.
+In ihren Aufgaben ist es mitunter sinnvoll, sich anzugucken zunächst, was liegt hier am Eingang vor,
+dann mit der Lageenergie und kinetischen Energie Rechnungen durchzuführen oder beziehungsweise zu quantifizieren.
+Das ist, denke ich, einfach, diese Terme hier auch am Ausgang zu bestimmen,
+dann die entsprechenden Verluste zu quantifizieren und abzuziehen
+und dann die Pumpe als Energiezuwachs mit zu quantifizieren
+Und das, was übrig bleibt, ist dann das, was hier entsprechend an Druck am Ausgang vorliegt.
+Also so ein bisschen vom Vorgehen.
+Den Druck können Sie typischerweise nicht so schnell ermitteln.
+Die anderen Terme häufig eher Ausnahmen bestätigen die Regel.
+Man kann natürlich Ihnen auch eine Aufgabe stellen und sagen, es gibt eine Druckmessung hier und eine hier und Sie sollen jetzt rückwärts die Aufgabe drehen und sagen, wie viel Leistung hatte denn Ihre Pumpe oder sowas.
+Also Sie können aber hoffentlich mit dem Diagramm so ein bisschen folgen, wie wir es machen.
+So, letztes Bild, dann gehen wir in die Pause. Da steht eine Zeit aus irgendeinem früheren Semester, aber wir wollen genau auch hier wieder heute die Pause machen.
+Wir haben also gesehen, da sind Energie hinzufügende Glieder, da sind Arbeitsglieder, da sind Verlustglieder und damit starte ich wieder nach der Pause mit dem Bildchen und dann gucken wir uns an, wie das in den Rohren genau funktioniert.
+Wir haben 10.01 Uhr, um 10.16 Uhr würde ich wieder weitermachen und Sie nochmal an dem Bildchen abholen. Bis gleich.
+Im ersten Teil durchgenommen wurde hier nochmal eben dieses entstandene Bild mit den Arbeitsgliedern
+und den Verlustgliedern und unten so ein bisschen die zentralen zwei Formeln, die wir dafür
+brauchen, die uns in den nächsten Wochen in der Strömungstechnik dann auch ganz gut
+auslasten werden, weil wenn man sich das jetzt anguckt, ja das ist zwar keine Hexerei, was wir
+da gemacht haben bisher, aber was man damit an Aufgaben erschließen kann, ist ja doch eine ganze
+Menge. Und genau darum wird es dann auch gehen, aber bevor ich das mache, vielleicht noch kurz
+eben der gedanke erweiterte benullgleichung was wir jetzt brauchen werden ist insbesondere noch
+gedanken dazu wie komme ich denn jetzt auf dieses zetra von den zahlen werden ja ich kann bei
+irgendwelchen knickstellen messungen machen mit druck unterschieden aber ich kann eben auch vorne
+weg für irgendeinen Rohrtypus, sagen wir mal so ein Trinkwassersystem von diesem Haus hier. Wir überlegen, wie viel Druckverluste werde ich denn in etwa haben, weil ich so und so lange Rohre habe, die aus einem bestimmten Material sind und zusätzlich ein paar Klickstellen und so weiter und mir allein aus der Geometrie heraus das berechnen.
+Das werden wir in der nächsten Zeit tun.
+Bevor wir das aber jetzt machen, werde ich Ihnen gleich mal so ein Video zeigen.
+Wir werden uns anschauen, ein Stück weit, wie sehen denn unterschiedliche Strömungsformen aus.
+Zum Beispiel, das ist ja auch ein Fluid hier, der Rauch, der aus dem Schornstein rauskommt.
+Also hier die Geschwindigkeit von dieser verdreckten Luft, meinetwegen.
+Oder auch nur mit Wasserpartikeln beladenen Dampf.
+der hier eine bestimmte, ja doch eigenwillige Form annimmt, das kennen Sie alle, wenn so entsprechende Fluide ausströmen aus irgendwelchen Rohren oder ganz anderer Baustein, Blutströmung, wie findet die statt?
+Und die Frage, die uns dann immer beschäftigt wird, ist, was ist laminar, was ist turbulent und wie sieht es aus hinter einem Fahrzeug?
+Und genau, das sind mal drei Beispiele, um die es unter anderem geht. Ich hoffe, das funktioniert jetzt.
+for fluid flow in the world around us.
+Here we have an example of the laminar flow regime.
+It's characterized by smooth, even flow.
+The fluid is moving horizontally in layers,
+and there is a minimal amount of mixing between layers.
+As we increase the flow velocity,
+we begin to see some bursts of random motion.
+This is the start of the transition
+between the laminar and turbulent regimes.
+If we continue increasing the velocity,
+enden wir mit vollständig turbulentem Fluss.
+Turbulenter Fluss ist charakterisiert von chaotischem Bewegung
+und enthält schweigende Regionen, die Eddys nennen.
+Der chaotische Bewegung und Eddys erzeugen eine signifikante Verbindung des Fluids.
+Wenn wir die Velocität an einem einzigen Punkt in steigendem langen Fluss recordieren,
+bekommen wir Daten, die so aussehen.
+Es gibt keine randomen Velocity-Flexionen,
+Und so in general, Lander-Flow is fairly easy to analyze.
+For turbulent flow, we'll get data that looks like this.
+This flow is much more complicated.
+We can think of the velocity as being made up of a time-average component and a fluctuating component.
+The larger the fluctuating component, the more turbulent the flow.
+Because of its chaotic nature, analysis of turbulent flow is very complex.
+Since laminar and turbulent flow are so different and need to be analyzed in different ways,
+we need to be able to predict which flow regime is likely to be produced by a particular set of flow conditions.
+We can do this using a parameter which was defined by Osborne Reynolds in 1883.
+Reynolds hat extensive Tests gemacht, um die Parameter zu identifizieren, die den Flussregime beeinflussen, und hat diesen nondimensionalen Parameter erzeugt, den wir Reynolds-Nummer nennen.
+Er wird benutzt, um zu präsentieren, ob Fluss laminar oder turbulent ist.
+Rho ist die Fluiddensität, U ist die Velocität, L ist die charakteristische Länge-Dimension und U ist die Fluiddynamik-Viskosität.
+The equation is sometimes written as a function of the kinematic viscosity instead,
+which is just the dynamic viscosity divided by the fluid density.
+The characteristic length L will depend on the type of flow we are analyzing.
+For flow past a cylinder, it will be the cylinder diameter.
+For flow past an airfoil, it will be the chord length.
+And for flow through a pipe, it will be the pipe diameter.
+Reynolds' Number is useful because it tells us the relative importance of the inertial forces and the viscous forces.
+Inertial forces are related to the momentum of the fluid, and so are essentially the forces which cause the fluid to move.
+Viscous forces are the frictional shear forces which develop between layers of the fluid due to its viscosity.
+If viscous forces dominate flow, it is more likely to be laminar,
+because the frictional forces within the fluid will dampen out any initial turbulent disturbances in random motion.
+This is why Renlund's number can be used to predict if flow will be laminar or turbulent.
+If inertial forces dominate, flow is more likely to be turbulent.
+And so smaller values of Renlund's number indicate that flow will be laminar.
+The Reynolds-Number at which the transition to the turbulent regime occurs will vary depending on the type of flow we are dealing with.
+These are the ranges usually quoted for flow through a pipe, for example.
+Under very controlled conditions in a lab, the onset of turbulence can be delayed until much larger Reynolds-Numbers.
+Most flows in the world around us are turbulent.
+The flow of smoke out of a chimney is usually turbulent.
+Und so ist der Fluss des Lufts hinter einem Auto, der auf hoher Geschwindigkeit reist.
+Der Fluss des Bluts durch Vesseln, auf der anderen Seite, ist meistens langweilig,
+weil die charakteristischen Länge und Velocity klein sind.
+This is fortunate, because if it were turbulent, the heart would have to work much harder to pump blood around the body
+To understand why this is, let's look at how the flow regime affects flow through a circular pipe
+The flow velocity right at the pipe wall is always zero
+This is called the no-slip condition
+For fully developed laminar flow, the velocity then increases to reach the maximum velocity at the center of the pipe
+The velocity profile is parabolic.
+For turbulent flow, the profile is quite different.
+We still have the no-slip condition, but the average velocity profile is much flatter away from the wall.
+This is because turbulence introduces a lot of mixing between the different layers of flow,
+and this momentum transfer tends to homogenize the flow velocity across the pipe diameter.
+Note that I have shown the time-averaged velocity here.
+Das Instantaneous Velocity Profile wird so aussehen.
+In Pipeflow, eine Sache, in der wir uns besonders interessieren, ist die Druckdraht.
+Über jede Länge der Pipe wird eine Druckdraht in der Druckdraht,
+wegen der friktionellen Scherzkräfte, die im Fluid auftreten.
+Die Druckdraht in turbulentem Fluss ist viel größer als in laminarem Fluss,
+Das erklärt, warum das Herz stärker arbeiten muss, wenn das Blutfluss meistens turbulent ist.
+Wir können Delta P auf der Pipe kalkulieren, mit der Darcy-Weisbach-Equation, die auf die average Flussflüssigkeit, die Fluiddensität und den Frischungsfaktor F abhängt.
+Für den Laminarfluss kann der Frischungsfaktor einfach kalkuliert werden. Es ist nur eine Funktion des Reynolds-Nummerns.
+Wenn wir diese beiden Equationen kombinieren, können wir sehen, dass der Druckdruck proportional zu der Flusswelle ist.
+Aber für turbulenten Fluss, kalkulieren wir F, ist es komplizierter.
+Es wird von der Kohlbrook-Equation definiert.
+F scheint auf beiden Seiten der Equation zu sein, also muss es iterativ geschlossen werden.
+Anders als der Landmeerfluss, für den der Druckdruck proportional zu der Flusswelle ist,
+ist es so, dass für turbulenten Fluss es proportional zu der Flusswelle ist,
+und es hängt auch vom Ruhigkeitsverlust des Pipe-Rufens ab.
+Epsilon ist die Höhe des Pipe-Rufens,
+und der Begriff Epsilon über D ist der relative Ruhigkeitsverlust.
+Ruhigkeitsverlust ist wichtig für turbulenten Fluss,
+weil er Verluste in den Fluss einbringt,
+die verhungert werden und eine weitere Turbulenz erzeugen kann.
+Für den Landmeerfluss hat es keinen signifikanten Effekt,
+weil diese Verluste mehr leicht durch die viskose Kräfte verdampft werden.
+Das werden wir machen.
+So we know that if Reynolds' number is large, inertial forces dominate, and the flow is turbulent.
+But even for turbulent flow, viscous forces can be significant in the boundary layers that develop at solid walls.
+Because of the no-slip condition, shear stresses are large close to a wall.
+This means that in a turbulent boundary layer, there remains a very thin area close to the wall where viscous forces dominate and flow is essentially laminar.
+We call this the laminar or viscous sublayer.
+Its thickness decreases as Reynolds' number increases.
+Above the laminar sublayer, there is the buffer layer, where both viscous and turbulent effects are significant.
+And above the buffer layer, turbulent effects are dominant.
+If the roughness of a surface is contained entirely within the thickness of the laminar
+sublayer, the surface is said to be hydraulically smooth, because the roughness has no effect
+on the turbulent flow above the sublayer.
+This is important in pipe flow because, as can be seen from the Moody Diagram, flow
+in smooth pipe has a lower friction factor, and so smaller pressure drop than flow in
+rough pipe.
+We can see that for a given roughness, the friction factors converge to a constant value to the right of this dashed line,
+meaning that at high Reynolds number, the friction depends only on the relative roughness.
+At these high Reynolds numbers, the thickness of the laminar sublayer is extremely thin,
+and so the effect of the surface roughness is governing.
+Modeling turbulent flow through a pipe is fairly simple,
+Aber die meisten Szenarien sind viel komplexer.
+Es ist wert, mehr darüber zu sprechen, warum die Analyse eines turbulenten Flusses so kompliziert ist.
+Und vieles hat mit den turbulenten Eddys, die wir am Anfang des Videos gesehen haben, zu tun.
+Die großen Eddys enthalten viel energetische Energie.
+Über die Zeit, die Energie in diesen großen Eddys,
+fügt die Erstellung von prognostizierter kleineren Eddys,
+bis an der kleinen Skala die turbulenten Energie in minuskule Eddys
+We can think of the energy in the flow as cascading from the largest to the smallest eddies.
+And so this concept is called the energy cascade.
+The energy cascade was summarized in a very elegant way by the physicist Louis Fry Richardson,
+who wrote that big worlds have little worlds that feed on their velocity,
+and little worlds have lesser worlds, and so on to viscosity.
+Because of this behavior, turbulence involves a huge range of length and time scales.
+This makes analysis of turbulent flow very complex, to the point that it is probably the most significant challenge facing the field of fluid mechanics.
+For complex scenarios like flow past an airfoil, we can't accurately describe the fluid behavior using simple equations.
+So, to analyze the flow, we have to use either experimentation or numerical methods.
+or a combination of the two.
+Modeling flow using numerical methods
+is the field of computational fluid dynamics.
+It essentially involves using computational power
+to solve the Navier-Stokes equations,
+which is a system of partial differential equations
+that describes the behavior of fluids,
+but is difficult to solve.
+To do this, we model the...
+Okay, da geht es jetzt noch ein ganzes Stück weiter theoretisch,
+wie man Fluid-Dynamik-Berechnungen durchführt. Ein riesiges Thema für die Ingenieurinnen und
+Ingenieure, die zum Beispiel im Flugzeugbau unterwegs sind oder neue Schaufelräder für
+irgendwelche Turbinen bauen oder dergleichen mehr. Für Sie wollen wir hier einen Punkt setzen. Wir
+Wir wollen mit einigen Begriffen, die jetzt aus dem Video gerade kamen, weiterarbeiten.
+Aber bevor ich das tue, muss ich ganz kurz noch mal eine kleine Korrekturschleife einlegen,
+weil in dem PDF-Satz, der Ihnen vorliegt, ist ein bisschen Unstimmigkeit drin.
+Jetzt muss ich mal ganz kurz einen zweiminütigen Break einlegen.
+Sie können so lange mal nachdenken, was im Video kam und welche von den Strömungen,
+die wir angeguckt haben, welche turbulent sind.
+Okay, also da, geben Sie mir bitte noch eine kurze Sekunde,
+ich muss die Präsentation nochmal neu öffnen.
+da wäre es gewesen okay ich lag ihm noch mal neu ein foliensatz hoch bis hierhin alles gut aber
+bitte nach möglichkeit umschalten sie kriegen in wenigen sekunden den foliensatz mit der nummer
+2 sollte bei ihnen jetzt da drin sein und der hat hoffentlich so wie es passen sollte an dieser
+stelle eine tabelle die noch keine vorausbildung hat aber dann hoffentlich auch die richtigen
+sagen wenn sie jetzt in ihrer bestehenden folien satz den sie gerade noch offen hatten gucken dann
+steht da schon was drin aber da bitte aufpassen dass wir durcheinander kommen tut mir leid ich
+Ich werde schauen, dass ich am Schluss nochmal einen Hinweis gebe, dass Sie bitte ab der Mitte des Foliensatzes darüber hüpfen müssen.
+Wenn Sie die alten Notizen mitverwenden wollen, ist das auch in Ordnung, da ist nichts Grundfalsches drin,
+aber für unsere Mitarbeit macht es total Sinn, wenn Sie wechseln auf diesen Satz Folien,
+dann kommen Sie so in der Geschwindigkeit mit, wie ich das gerne mit Ihnen entwickeln will
+und haben dann auch die passenden Infos.
+Deswegen schließe ich jetzt auch mein PowerPoint noch einmal und öffne neu den anderen Satz.
+Es ist doch immer wieder verblüffend, wie ein Computer so kleine Nebenherausforderungen gibt,
+wenn die Präsentation da irgendwie korrumpiert und kollabiert.
+Dadurch also diesen heute früh noch nicht dagewesenen Foliensatz
+und dann von meiner Seite leider der nicht ganz passende Foliensatz hochgeladen.
+Jetzt ein paar Sekunden noch, dann müsste ich wieder dabei sein.
+Frage an Sie, Sie hatten es in der Folie vorher gesehen,
+da ging es um, welche Strömung ist nur turbulent, welche ist laminar.
+Vielleicht ganz kurz von Ihnen, da gab es den Schornstein,
+da gab es das Hintermauto, da gab es die Blutströmung.
+Habe ich die Damen in der ersten Reihe fragen?
+Wie sie mit zugehört?
+Auf Englisch vielleicht oder Deutsch lieber?
+Laminar in turbulent flow. Which one is laminar, which one is turbulent?
+The smoke out of a chimney is what?
+Do you have an idea?
+Ich habe eine Idee.
+Er fragt dich, was Duanliu ist.
+Ich weiß es nicht.
+Ich weiß es nicht.
+Ich weiß es nicht.
+Hast du eine Idee?
+Was ist Duanliu?
+Ich weiß es nicht.
+Ich weiß es nicht.
+Anyone who could help out?
+No, it's not about Geschwindigkeit, it's not about speed and velocity,
+but it's about the flow regime.
+How is it? Is it turbulent or laminar?
+This one.
+So you have a 50-50 chance.
+This is turbulent, very true.
+And then, how about this one?
+Das ist Lamina. Das ist Lamina, richtig. Und das macht physischen Sinn, weil was du tun willst, wenn dein Herz gepumpt ist, ja, sehr gut, du hast es gemacht.
+Also wenn dir das Herz jetzt das Blut transportieren muss, dann hätte es durchaus eine große Herausforderung, wenn eine Zungelarme, wenn das Flussregime vorliegen würde.
+Und wenn man genauer reinguckt, dann haben diese Blutplättchen, die so flach sind, einen durchaus starken Einfluss auf die Durchflussart und führen dazu, dass das laminare Regime bei Blutströmung extrem lange aufrechterhalten bleibt.
+anders als bei Flüssigkeiten ohne solche Blutpartikel drin.
+Und es hilft uns, dass unser biologischer Metabolismus überhaupt so funktioniert.
+Beim Auto, hinterm Fahrzeug, ich glaube, wir brauchen nicht groß drüber reden, klar, turbulent dahinten.
+Und das Video werde ich jetzt natürlich nicht nochmal zeigen, aber was ich mit Ihnen durchgehen will,
+Sie haben jetzt hoffentlich alle diesen Pro-Hinsatz vor sich, wo die entdeckende Tabelle noch nicht geblüht ist.
+Sie können natürlich aber auch den anderen nehmen oder ihn hinterher als Spickzettel oder Vergleich nehmen.
+Ich werde jetzt auf jeden Fall an der Stelle weiterarbeiten und dann auch hoffentlich alle Inhalte so bringen,
+wie ich sie später auch im Sinne der Prüfung mitbringe.
+Es geht darum, nochmal zu sagen, was sind die Charakteristik dieser Strömungsformen.
+Wir haben auf jeden Fall hier parallele Schichten.
+und
+in dem Turbulenten
+haben wir eben diese Verwirbelung
+und diese Verwirbelung
+das war ja jetzt am Schluss auch nochmal gezeigt, machen das Ganze auch extrem viel komplizierter.
+Wir haben Geschwindigkeitsverteilung im Kontext der Vorlesung kennengelernt als erstes, ganz am Anfang der Vorlesung,
+ja, Propfenströmung. Da geht Flüssigkeit rein, die darf überall in der Mitte und am Rand gleich schnell gehen.
+Dann haben wir aber schnell schon gesehen, nee, das passt so nicht.
+Wir haben am Rand eine Haftbedingung und in der Mitte von dieser Haftbedingung abweichen zu einem Flussprofil.
+Ich hatte damals gesagt, wenn Sie jetzt Blätter in die Illa reinschmeißen und sich angucken, dann am Rand schwimmen die fast nicht.
+In der Mitte ist die Flussgeschwindigkeit sehr hoch, vielleicht ist das ein bisschen nicht ganz ideal vom Bild.
+und was uns ja jetzt in dem Fall interessiert, ist hier außen, dass da auch irgendwelche Reibung vorliegt,
+das ist auch hier der Fall, bei einem Turbulenten, aber jetzt haben wir eben ein anderes Geschwindigkeitsprofil,
+wenn wir turbulent arbeiten, dann sind wir wieder deutlich näher an der Propfenstimmung.
+Das ist auch noch keine perfekte Propfenstimmung, aber irgendwas dazwischen.
+Und diese charakteristische Beschreibung ist hier eigentlich eine Parabel,
+Und hier haben wir es flacher in der Mitte.
+Also flacher in der Mitte und am Rand schneller.
+So, und wenn wir uns jetzt noch mal anschauen, was macht denn jetzt eigentlich diese Rohrreibung in dem jeweiligen Fall,
+dann wird sie, naja, immer einen Druckverlust ausüben und der ist eben sehr unterschiedlich.
+Hier, wenn wir das Turbulente anschauen und uns noch mal erinnern, dann hatten wir da dieses Moody-Diagramm am Schluss.
+kennengelernt und hier können wir es analytisch arbeiten.
+Also der Druckverlust, Delta P, der ist hier unabhängig von der Rohrreibung.
+Und auf der anderen Seite hat eben durchaus die Rohrreibung einen Einfluss auf das, was da passiert.
+Warum ist das so? Schauen wir nochmal da hin.
+Hier haben wir eine Reibung, die hält hier außen die Flüssigkeit ein Stück weit fest
+und wird beeinflussen natürlich schon den Bereich, der hier mit Rot skizziert ist.
+Gleich gering.
+Die Flüssigkeiten in der Mitte aber, die Flüssigkeitslagen, die, wie wir sagen, parallele Schichten sind,
+ich mache das jetzt mal mit Grün mit rein,
+Ja, die sind parallel und vergleichsweise unabhängig voneinander.
+Das ist nicht ganz unabhängig.
+Viskosität beeinflusst immer die Nachbarlage.
+Aber es ist ein aufgebauter Stapel und die Einfluss von hier unten, von der Reibung,
+geht in Richtung der Mitte des Rohrs, wenn es nur groß genug ist, von oben.
+Das spielt keine Rolle.
+Wohingegen, wenn wir beim Turbulenten arbeiten, haben wir hier Sprudel.
+und ich glaube, dass es dann
+hoffentlich nochmal im Bildlichen auch klar wird
+wenn wir diese Verwirbelung haben
+dass diese Wirbel auch in das Rote
+hineinfallen können
+und hier
+eine Querwirkung
+entsteht zwischen dem
+was hier in der Reibung
+am äußeren Bereich ist
+und dem was die Strömung in der Mitte ausmacht
+weil eben alles durchgemixt wird
+soweit hoffe ich
+ein Stück weit an der Tabelle noch mal zu erklären oder Sie haben es im Video ohnehin gut mitgeschnitten oder eben noch nicht,
+dann schauen Sie sich das Video vielleicht noch mal an, und zwar gerne auch mit Untertext oder mit automatisch synchronisiertem Ton.
+Das geht heutzutage sicherlich auch schon gut mit den KIT-Techniken.
+Also, dann haben wir eine Zeitabhängigkeit von der Strömungsgeschwindigkeit.
+Und das Interessante ist, hier sind wir konstant unterwegs.
+Und zwar, u heißt ja bei uns die Geschwindigkeit, ist kein u von t und hier haben wir das Variabel.
+Und wenn wir über Geschwindigkeiten schreiben, dann ist es ein u mittleres gleich u von t.
+aber also die geschwindigkeit ist zeitabhängig und wenn wir aber in irgendwelchen rechnungen
+arbeiten dann nehmen wir auf den mittelwert der geschwindigkeit darf man aber nicht verwechselt
+und dann haben wir noch mal gesehen wann passiert da haben wir diese interessante
+Reynolds-Zahlen kennengelernt und da gibt es jetzt irgendwelche Zahlenwerte, die sind
+katalogisiert. Ein Stück weit können wir uns diese Sprungstellen drin etwa merken.
+Es ist aber eben nicht genau festgelegt, weil es darauf ankommt, wie Sie es aufbauen. Bei
+Reynolds-Zahlen, die deutlich unter 2000 sind, kein Problem, sind Sie sicherlich laminar.
+Bei Reynolds-Zahlen oberhalb von 4000 sind Sie sicherlich turbulent. Was ist dazwischen?
+Denn, kommt drauf an, wenn Sie aus dem Laminaren kommen und langsam die Geschwindigkeit erhöhen, können Sie eventuell noch bis zu Reynolds-Zahlen 3000, 4000 hin, turbulenztreie Strömung laminar behalten.
+wenn sie allerdings einmal irgendwo eine unruhe reinbringen dann bilden sich wirbel aus und die
+bleiben dann auch bestehen oder andersrum gesagt wenn sie diese art strömung vorliegen haben und
+sie jetzt langsam bremsen damit der rückumschlag wahrscheinlich erst unterhalb von reynolds zeit
+2000 stattfinden für die fachleute unter ihnen ist eine art hysterese die dort unterwegs ist
+Und das ist mal so ein Thema. Und jetzt noch ein ganz wichtiger Punkt hier. Was ist denn mit dem Druckverlust? Der Druckverlust hier ist proportional zur Geschwindigkeit, der Druckverlust hier ist proportional zum Geschwindigkeitsquadrat.
+Das heißt, die Geschwindigkeit hat hier einen viel dramatischeren Einfluss, wenn Sie turbulent unterwegs sind. Hier hingegen hat sie einen weniger starken Einfluss und da sind wir wieder bei unserem Thema Blutströmung.
+Man kann also Blutströmung durch die dicken Arterien und Venen oder auch die kleinen Äderchen, die in die Finger hineingehen,
+über sehr große Geschwindigkeitsbereiche mit überschaubar starkem Einfluss auf den Druckverlust händeln.
+Deswegen können wir ja alle leben und haben nicht einen Herzinfarkt, weil unser Herz es eben schafft, diese Geschwindigkeiten zu managen.
+Wohingegen wir bei Turbulenz schnell in Probleme kommen, weil dann die Druckverluste extrem hoch werden, da wo schnell was fließen muss.
+Also, es hat wirklich einen biologisch wichtigen Hintergrund.
+Aber auch ganz viele technische Sachen, hier sehen wir das nochmal schön aus dem Video rausgeschnitten, wie also so ein laminarer Fluss stattfindet.
+Hier ist also einfach nur angefärbt verschiedene Schichten und man sieht, wie die jetzt sich da relativ wenig vermixen mit den Nachbarschichten, wohingegen hier das komplett anders ist und hier sich so ein Wirbel mal anskizziert ist, der diese Strömung charakterisiert.
+Was können wir dann noch anstelle hier ein bisschen uns notieren und das ist wirklich was, kommt aber an mehreren Stellen noch im Vorlesungskontext, was uns bedeuten wird, ist die sogenannte charakteristische Länge und das ist in dem Falle der Durchmesser, wenn wir ein Rohr haben.
+Ja, hier ist ein Rohr und da ist dieser Durchmesser wichtig und ich mache das vielleicht nochmal unten drunter, L charakteristisch ist gleich D, ja, und wenn wir also das jetzt schmaler machen, was passiert dann?
+dann ist der Einfluss der Nachbarschichten wichtiger, oder andersrum gesprochen, wenn wir es deutlich weiter auseinanderziehen,
+dann hat die Reibung am Rand und auch sonstige Effekte wenig Einfluss auf die Mitte.
+Das heißt, der Durchmesser ist drinnen in der entsprechenden Reynolds-Zahl.
+Wenn wir die Geschwindigkeit des Durchflusses erhöhen, was passiert dann?
+Dann haben wir stärkere Verwirbelung, die wird also hier mit Eingehen auch charakteristisch.
+Vielleicht hatte ich es gerade nicht ganz ideal dargestellt.
+Wenn wir ganz schmal sind in unserem Rohr, dann haben wir einhängende Effekte,
+dann haben wir einen Viskositätsübertrag, dann haben wir eine eher gleichmäßige Stoffe.
+Und je weiter das Rohr auseinander geht, desto stärker können Verwirbelungen auftreten.
+Also deswegen, die Geschwindigkeit hat einen positiven Effekt auf die Vier-Nolz-Zahl.
+Wir kommen schneller in den Vier-Tausender-Regime und hohe Zahlenwerte heißt eher turbulent.
+Und hier hinten kommt noch ein Term mit rein und das ist nämlich die Dichte.
+Wenn die Dichte hoch ist, dann reißen wir die Nachbarteilchen eher mit.
+Und deswegen wird das hier auch einen Einfluss haben.
+Und dem gegenüber steht der Effekt, dass wir ausgleichen und dämpfend wirken.
+Dämpfen wirken wir, im Video war das mit dem Buchstaben Müh, bei uns im deutschen Sprachgebrauch Eta.
+Da geht es darum, dass wir Viskosität haben, die bremst und die hat eine Interaktion von benachbarten Lagen.
+und dämpft das, was hier unten passiert, aus gegenüber dem, was hier oben passiert.
+Und entsprechend haben wir in unserer Reynolds-Zahl das im Nenner stehen.
+So, dann haben wir die Reynolds-Zahl auch schon fertig.
+Und wenn wir uns das gleich anschauen, dann sehen wir, die Einheiten kürzen sich alle raus von diesen entsprechenden Größen.
+Es geht eben um den entsprechenden Übertrag von Momentum, also von Impulsen.
+Die wird immer größer, wenn diese Sachen hier oben größer werden.
+Starker Impuls, hohe Dichte, breites Rohr oder bei anderen Geometrien Länge eines Flügels oder sowas.
+Und hohe Geschwindigkeit.
+und hier unten sind es dämpfende Kräfte, die sind charakterisiert durch die Viskosität.
+Das haben wir gehört und gesehen, da ist es nochmal aus dem Video rausgeschnitten,
+da steht nochmal diese Haftbedingung, also die No-Slip-Condition hier unten am Rand,
+da bleibt es stehen, das Fluid, das gilt hier genauso, auch hier gilt No-Slip-Condition,
+also auch Haftbedingungen, nichtsdestotrotz ist die Geschwindigkeit hier schon viel früher beeinflusst.
+Ich glaube, das kommt in dem nächsten Bild noch besser.
+Da sieht man es also, hier ist es eher ein moderates Übertragen,
+wo es geprägt ist von der Viskosität, die Schicht gestickt größere Geschwindigkeiten zulässt bis zur Mitte
+und dann wieder abnehmend, wohingegen hier durch die Wirbel
+sich sehr schnell schon ein hohes Geschwindigkeitsprofil ausmacht.
+Und dann nochmal der Hinweis, dass wir hier eben eigentlich nur eine Momentaufnahme angucken können
+und die Geschwindigkeit eben jetzt je nachdem, ob da gerade ein Wirbel durchläuft
+oder woanders durchläuft, unterschiedliche lokale Geschwindigkeiten sich ergeben.
+Sie können sich ja vorstellen, wenn jetzt hier meinetwegen ein Wirbel wäre,
+dass je nach Richtung dieses Wirbels das Geschwindigkeitsprofil entweder gebremst ist oder beschleunigt ist.
+Soweit dazu, dann diese kurze Beschreibung nochmal zu dieser Energiekaskade,
+Wie dort schon angemerkt wurde, ein bis heute extrem wichtiger Punkt, der die Optimierung von zum Beispiel Flugzeugflügeln oder dergleichen mehr schwierig gestaltet, weil man sich sehr große Längenskalen anschauen muss.
+nicht nur direkt am Flügel dran, sondern auch ein ganzes Stück weiter weg
+und weil man sich zeitlich und örtlich in Simulationen und Modellierungsrechnungen eine Querwirkung besteht.
+Soweit an der Stelle. Ich glaube, hier steht bei allen schon eingeblendet, hoffe ich, diese gleiche Information.
+Wir haben also hier nochmal aufgegliedert, wenn wir Länge, und das heißt jetzt charakteristische Länge, in unserem Falle bei Rohren ein Durchmesser, haben wir jetzt in Metern, wir haben eine Dichte, Kilogramm pro Kubikmeter, wir haben eine Geschwindigkeit, Meter pro Sekunde,
+Und wir haben den Viskositäts-Term, die Viskosität ist in Quadratmeter pro...
+Jetzt bin ich ein bisschen erstaunt, ist das richtig?
+Müsste aber passen, Sekunde.
+also dynamische Viskosität
+Quadratmeter pro Newton und Sekunde
+und wenn man das einsetzt
+dann haben sie Kilogramm Quadratmeter
+Sekundenquadrat und
+es kürzt sich alles aus
+wir können die Reynolds-Zahl
+auch mit der kinematischen
+Viskosität
+schreiben, da ist im Endeffekt
+einfach dieser Dichteterm
+hier noch mit rausgesprichen, denn
+die generische Viskosität
+ETA durch Rho,
+das ist genau dieses Nü,
+da steht es
+und funktioniert auch, ist aber
+eher selten so
+in den Angaben und Aufgaben zu finden.
+So, dann
+nochmal die
+leichte
+Information,
+die jetzt schon mehrfach kam, aber immer wieder
+da oben steht es auch in Rot eingeblendet
+in Klausuraufgaben. Ein typischer Fehler, eine typische Herausforderung ist, was ist denn nun
+eigentlich dieses L hier beim Berechnen von Reynolds-Zahlen? Und wenn Sie natürlich jetzt
+eine Aufgabe haben, wo es heißt, durch irgendein Rohr von der Länge 10 Meter und dem Durchmesser
+5 Zentimeter wird irgendwas durchgepumpt und Sie sollen jetzt in der ersten Teilaufgabe
+sich überlegen, ist es nun
+Laminar oder Turbulent,
+was naheliegend ist,
+weil sonst können Sie nicht gut weiterrechnen,
+dann gehen Sie
+mit der Formel ran, das machen alle
+wahrscheinlich hervorragend richtig,
+schreiben diese Formel ab und fangen
+an mit L zu rechnen und nehmen die
+Länge Ihres Rohrs, 10 Meter,
+100 Meter und Sie werden irgendwo
+versacken. Also bitte aufpassen,
+es geht darum, wenn Sie
+einen Durchfluss
+durch eine gegebene geometrie haben dann geht es um die ein engen punkte um die no slip condition
+also die haftbedingungen und um den durchmesser also hier charakteristisch ist d und das ist das
+was sie in 95 prozent der fälle brauchen in der wärme übertragen werden wir sehen machen wir
+relativ viel dann auch solche und solche geometrien kommen alle noch als als nebeneffekt aber hier in
+der Stürmungstechnik ist dieses L meistens D. L charakteristisch vom Rohr ist gleich
+D. Jetzt habe ich es nochmal deutlich unterstrichen, ich hoffe es gelingt Ihnen allen, die Sie
+hier sind, das sauber umzusetzen. Dann diese Zahlbereiche hatte ich genannt, unter 2000
+Sommerlaminar, Ober 4000 eher turbulent, dazwischen ist so ein Übergangsbereich, ist immer nicht ganz
+leicht, im Moody-Diagramm sehen wir den Bereich, der ist da so ein bisschen ausgegraut, dazu kommen
+wir aber erst in der kommenden Stunde, da steht es auch nochmal drin, dass das nicht so ganz einfach
+ist, in dem Übergangsbereich
+zu ermitteln.
+Dann
+hier auch noch mal
+das gezeigt, aus dem Video rausgeschnitten
+Reynolds-Zahl kann sich verschieben.
+Keine neue Information.
+Jetzt vielleicht ein bisschen interessanter
+und wichtiger, wie sieht es jetzt
+im realen Rohr aus?
+Also wir haben da zwei
+verschiedene Bildchen.
+Einmal eins oben
+mit einer niedrigen Reynolds-Zahl
+und einmal eins unten mit einer hohen Reynolds-Zahl.
+Und es gibt in diesem laminaren Fall
+ein paar Charakteristika,
+die werden wir uns in der nächsten Folie anschauen
+und ein paar Folien später dann,
+welche die sind
+für den unteren Bereich wichtig.
+Zum einen wird zum Teil über Einlaufstrecken gesprochen.
+Wir sehen schon, beim Navi-Nahen dauert es ziemlich lange, bis ein Einfluss von dem Rand hier,
+wenn jetzt hier die Flüssigkeit einspringt, sieht man bei diesem kleinen schwarzen Pfeilchen in diesem alten Textbuch,
+aber hier soll die Geschwindigkeit vorgegeben sein, es fließt Flüssigkeit ein in dieses Rohr von einem großen Behälter,
+Und man sieht hier unten gibt sich also ein langsam ausprägender Grenzschichtbereich, der geprägt ist von dem, wie diese Rohrbeschaffenheit ist, dass hier eine Haftbedingung vorliegt als solches.
+Das dauert lang und während diesem Einfluss ist es noch keine laminare Strömung.
+Die sieht jetzt ein bisschen ähnlicher aus, wie das, was wir hier unten angucken, hat aber damit nichts zu tun.
+Es ist einfach eine teillaminare Schwirmung und eine teilunbeeinflusste Tropfenschwirmung in der Mitte.
+Und erst hier hat sich die volle laminare Schwirmung ausgebildet.
+Leider lebt mein Pointer nicht, deswegen stehe ich da jetzt immer an der Tafel rum.
+Und hier haben wir es deutlich schneller, dass dieser Einfluss reinkommt und dann eben diese entsprechende Turbulenz-Tropfschwirmung.
+Okay, dann, mal kurz gucken, dass ich da nicht irgendwas vergessen habe.
+Dieser Teilbereich hier vorne, das wird sich vor allem in der Wärmeübertragung beschäftigen,
+diese Einlaufstrecken, wir werden uns das jetzt, glaube ich, gar nicht mehr weiter anschauen.
+Das könnt ihr dann bald rausnehmen, wir schauen uns dann nur noch die ausgeprägten Strömungen an.
+Gut, wir haben jetzt hier mal für Laminar gezeigt, in diesem linken Bild, das Strömungsprofil, die Parabel.
+Es ist nichts Neues, dass es eine Parabel ist.
+Wie charakterisiert man eine Parabel?
+Ich glaube, da kommt noch was aufgeblendet.
+Eine Parabel kann man charakterisieren dadurch, dass man die höchste Geschwindigkeit in blau hier gezeigt, sich anguckt.
+Und dann haben wir hier einen Term, der ist 1 minus dem, was der Abweichung des aktuellen Radiuses gegenüber dem Inneren ist.
+Also wenn es dieses kleine r, das ist dieser Abweichungsterm hier gegenüber dem Zentrum, wenn der 0 ist, dann haben wir 1 minus 0, dann haben wir die Maximalgeschwindigkeit.
+Das ist klar, das ist das hellblaue. Und je weiter wir mit diesem kleinen R Richtung Groß-R, das ist das gesamte Rohr,
+interessant in dem Bild ist es R0, aber das hier ist Groß-R, gehen und das hier oben ist Klein-R.
+Da kann man sehen, ich nehme das wieder weg, ich glaube, es ist besser sichtbar, wenn Sie es bei sich in den Folien angucken,
+das kleine R, große R, dann haben Sie hier, wenn Sie nach außen gehen, haben Sie R durch R, haben Sie 1,
+also dann haben Sie Geschwindigkeit 0, dann sind Sie bei der Haftbedingung, ganz außen.
+Und das ist also das entsprechende Geschwindigkeitsprofil.
+So, das sieht man auch hier nochmal in einer anderen Art Querschnitt, das heißt, dass der Radius R durch R,
+0 in der Mitte von der Strömungsgeschwindigkeit, außen ganz langsam.
+rechte Seite gezeigt, die turbulente Variante, also hier kann man nochmal oben drüber schreiben,
+in blau, Laminar und in rot, Turbulent. Und wie genau dieses Geschwindigkeitsprofil aussieht
+bei Turbulent, das ist ein bisschen kompliziert. Was wir machen können, ist beim Laminar die
+die Gaiten recht gut auflösen
+die mittlere Geschwindigkeit
+ist Umax halbe
+das lässt sich schnell
+nachweisen, wenn man
+diese Formel einsetzt und integriert
+über alle Radien
+ich glaube, Sie können es mir auch so glauben
+also die Geschwindigkeit geht hier
+in dem Falle in dem Bildchen von 0 bis 2
+in der Mitte haben Sie
+die Geschwindigkeit
+U gegenüber U
+mittlere auf doppelt so hoch
+und im Durchschnitt haben Sie genau die mittlere Geschwindigkeit,
+halb so schnell wie im Zentrum des Rohrs.
+Bei dem roten Fall ist es anders.
+Die Geschwindigkeit ist ausgegraut, ganz bewusst, mit einem anderen Term zu versehen.
+Hier sieht man es nochmal, es gibt auch noch Unterschiede,
+Je nachdem, welche Reynolds-Zahlen wir haben, haben wir unterschiedlich steil ausgeprägte Geschwindigkeitsprofile.
+Und am Ende kommt raus, dass die mittlere Geschwindigkeit vielleicht so etwas wie 0,8 bis 0,85 ist, glaube ich, heutzutage eine landläufige Meinung dieses Maximalprofils.
+Sie sehen also insgesamt fließt das Fluid hier etwas schneller durch und es führt auch dazu,
+dass wenn Sie nur die Umgebungsbedingungen entsprechend verändern, dann kriegen Sie
+jede Strömung durch Erhöhung der Geschwindigkeit oder des Druckaufbaus am Eingang dazu, dass sie
+turbulent wird. Sie bringen mehr Inertial rein, also sie bringen mehr Kraft rein und haben dann
+auch eine Möglichkeit ein bisschen mehr Fluid dadurch zu transportieren. Wenngleich sie da viele
+Diese entsprechenden Gleichungen kann man sich hier nochmal angucken.
+Wir können hier uns einfach mal den ersten Teil rausschmeißen.
+Wir wollen nicht diese Einlaufstrecke anschauen, sondern uns interessiert der Druck an dieser Stelle P1,
+wo das ausgeprägte, ausgebildete Sturmprofil vorliegt, bis hin zu einer Stelle P2.
+Und hier haben wir jetzt eine Länge, und das ist jetzt wirklich L-Rohr.
+Achtung, dieses L-Rohr hat nichts mit dem zu tun, was wir in der Reynolds-Zahl-Ermittlung suchen.
+Sondern hier geht es darum, dass sich aufgrund einer langen Rohrstrecke bei fester Reynolds-Zahl
+die Druckthematik wieder spiegeln wird, dass der Druck abfällt.
+Ich glaube, der kommt hier unten noch rechts eingeblendet.
+Und wir gucken genau, dieser Druckverlust, der von der Stelle 1 zur Stelle 2 stattfindet und linear in der Beschaffenheit ist,
+und der hat natürlich was zu tun mit dieser Länge des Rohrs, das ist dieses L.
+Und das können wir berechnen.
+Die Geschwindigkeit hat was mit dem Druckunterschied zu tun und dem entquächenden Durchmesser des Rohrs,
+in dem Falle der Radius als charakteristische Größe.
+Und interessanterweise kommt da nochmal eine Halbierung des Radius, das liegt jetzt an dieser mittleren Geschwindigkeit,
+die da vorliegt bei R halbe.
+und wenn man das alles ausformuliert
+kommen da also haufenweise
+Zahlenwerte zusammen
+insbesondere hier diese
+doch ziemlich hohe Wert von 32
+irgendein Zahlenwert
+das liegt an den Quadrieren und nochmal mal 2
+und wenn man das jetzt
+zusammensetzt
+mit dem Darcy Weisbach
+den wir
+im Video gesehen hatten
+der unabhängig davon gilt
+ob sie
+Nun, ob sie nun turbulent oder laminar sind, kann man den mal hier hin.
+Lambda mal L, O durch D, mal O mal, das ist jetzt bei der Darcy-Weichbach für beides gilt,
+sowohl für Turbolichter als auch für Laminat,
+nehme ich da diese mittlere Geschwindigkeit.
+Kastenbiss nochmal ein, das ist Darcy Weisbach.
+Für sie fällt die Formel vom Himmel.
+Und das hier oben nochmal angucken.
+Die Formel von hier.
+Das ist jetzt schwierig gerade, weil ich vorher da nicht mehr arbeitete.
+Dann bekommen Sie heraus,
+oh, da schreit es überhaupt nicht, leider das Gerät.
+da drüben gar nichts dran
+Delta P ist 32
+32 durch mal U mittlere
+mal Eta mal L
+durch D Quadrat
+Okay, also lange Formel. Am Ende geht es darum, dass Sie, wenn Sie diesem hier Glauben schenken und diese mittlere Geschwindigkeit und den Druckverlust ansetzen, dass Sie herausbekommen können, wie sieht es um den Druckverlust aus bei labinarer Strömung, ausgeprägter Rohrströmung.
+grüner Fall hier, mit diesem halben Geschwindigkeit im Durchschnitt, an dieser Stelle auch aufzufinden,
+dass Sie durch Vergleich von dem und dem diese beiden Gleichungen rausbekommen können,
+dass am Ende dieses Lambda, das ist hier ein neuer Zahlwert, der Rohrreibungsbeiwert,
+nichts anderes ist als 64 durch die Reynolds-Zahlen, mit der Reynolds-Zahl, wie wir sie kennen,
+als dichte Geschwindigkeit mal Durchmesser, hier ist jetzt, das ist hier gemein,
+ist keine D verwendet, ist der Durchmesser und der entsprechenden Viskosität.
+Also man kann das ausrechnen, für Sie wichtig, dass was da als Zahlenwert rauskommt,
+das ist katalogisiert und lässt sich bei laminarer Sprüngung schnell anwenden,
+machen wir in der kommenden Stunde.
+Gleiches Spiel für Turbulent
+es wird extrem
+schwierig, wir gehen in die
+Colebroke Equations
+also in die Gleichung
+nach Colebroke
+die ein Verhältnis
+versuchen zwischen dem
+was Geschwindigkeit ist
+an verschiedenen Stellen
+die aber nur gemittelt
+gerechnet werden kann
+und dem was
+entsprechend an Druckverlust auftritt
+und wir haben gesehen, dass
+nun
+in diesem Kontext
+die Rohrrauchigkeit
+kann und muss
+aber nicht, aber teilweise
+einen starken Einfluss hat auf das, was
+da in der Mitte passiert.
+Und wie entscheiden
+wir das, wenn wir in der Turbulenz
+unterwegs sind? Wir müssen uns
+angucken, wie
+groß und wie weit ausgeprägt ist die laminare Unterschicht, die hier mit der Viskosität
+überwiegt oder inwieweit ist es so, dass die Rauigkeit auch in Raumbereiche reingeht,
+in denen Wirbel vorliegen und diese Wirbel dann die Rauigkeit des Rohrs in die Mitte
+und auch in die Druckabfall mit übertragen.
+Genau diesen Entschluss, den hat man so ein bisschen versucht im Video Ihnen mitzugeben und das sehen wir in der nächsten Folie nochmal kurz zusammengeschnitten.
+Da spielt dann das Moody-Diagramm mit rein. Wir haben also entweder den Fall, dass wir
+sogenannt hydraulisch glatt arbeiten, wenn die laminare Unterschicht, das was da mit diesem
+Delta L bezeichnet ist, hier so groß ist, dass alle diese Traurigkeitshügel, die mit K
+charakterisiert werden, überdeckt sind, verdeckt sind. Oder aber irgendwo im Übergangsbereich,
+wo diese ersten Spitzen hier reingehen und die turbulente Strömung mit den Verwirbelungen diese
+Spitzen in Anführungsstrichen sieht, ein Stück weit. Oder aber noch deutlicher, wo die laminare
+Unterschied, komplett untergeht und die turbulente Strömung sehr deutlich damit konfrontiert wird,
+dass hier Rauigkeit vorliegt. Ich glaube, so ein bisschen lässt sich aus den drei Bildern
+hoffentlich erklären und erkennen. Und es gibt jetzt verschiedenste Formelwerke,
+die in verschiedenen Bereichen gelten und mit denen man auch sehr genau rechnen kann,
+wenn es denn benötigt wird, wenn Sie in den Flugzeugbau gehen, ja, bitte, unbedingt.
+Wenn Sie bei uns in der Vorlesung bleiben und damit das Thema in erster rauer Analyse
+sich angucken wollen, dann reicht es aus, sich mit diesem Diagramm,
+was wir uns in der nächsten Störungstechnik schon genauer angucken werden, zu befassen,
+indem mit zwei einfachen Angaben sich ermitteln lässt und abschätzen lässt,
+wie stark ist jetzt der entsprechende Rohrreibungsbeiwert.
+Das ist nichts anderes als dieses Lambda hier.
+Und mit dem, wenn Sie genau vergleichen, ist das nichts anderes als der Zeta-Wert,
+die Kombination von dem Lambda L durch D.
+Und dann können Sie sehr zügig aus dem Diagramm den Druckabfall berechnen oder abschätzen.
+Sagen wir lieber abschätzen.
+So, letzter Hinweis hier, was passiert, wenn wir eine steigende Reynolds-Zahl haben mit der laminaren Unterschicht?
+Wenn Reynolds größer wird, haben wir mehr Impuls, der transportiert wird und die laminare Unterschicht wird zurückgedrängt.
+Was gibt es noch für Einfluss? Am Ende geht es genau darum noch, wie rau ist dann das entsprechende Rohr und inwieweit ist jetzt diese laminare Unterschicht zurückgedrängt hier runter oder eben Einflussgeber.
+Und da werden wir in der nächsten Stunde noch sehen, da gibt es also katalogisierte typische Werte und daraus lässt sich das entscheiden.
+Ich möchte an der Stelle eigentlich ganz gerne die Stunde zusammenfassen, wo wir abrunden, was haben wir gesehen heute im ersten Teilbereich der Vorlesung ging es um Arbeitsglieder und Verlustglieder.
+Wir hatten also gesagt, dass wir Pumpen oder Turbinen nutzen können, um Energie hinzuzufügen zur Bernoulli-Gleichung
+und dass wir bei der Verlustseite mit entsprechender Reibung durch entweder irgendwelche Einbauten konfrontiert werden
+Und diese Einbauten haben dann einen Zeta-Wert, der Ihnen zeigt, wie deutlich wird der Druck an dieser Stelle reduziert und abfallen, bzw. wie deutlich ist der Druck danach beeinflusst, dadurch, dass Sie hier eben Verwirbelung und Energiedissipation hatten.
+und dann haben wir uns angeguckt
+als zweiten Faktor
+Reibung in
+Rohren
+und diese Rohre
+da müssen wir jetzt wieder unterscheiden
+in laminare Rohre oder
+in laminare Strömung in Rohren
+oder turbulente Strömung
+bei laminaren Strömungen können wir das berechnen
+und den Zeta-Wert
+mit diesem
+Lambda gleich 64
+der Reynolds-Zahl und so weiter
+ausrechnen, alles bestimmen
+wunderbare Sache
+bei turbulenter Strömung
+ist es schwierig, da müssen wir uns die
+Rauigkeit angucken
+die am Rand des Rohrs vorliegt
+und dann
+eben auch die
+Reynolds-Zahlen und
+entsprechend je nach
+Regime unterschiedliche
+sind wir mit unterschiedlichen
+Zahlenwerten konfrontiert und wir
+werden die in der nächsten Stunde in der Sturmungstechnik über das Moody-Diagramm ermitteln.
+Das heißt, genauso werden wir dann auch beginnen in der kommenden Stunde,
+wie funktioniert das Moody-Diagramm und dann werden wir mehrere, und zwar einige Aufgaben machen,
+bei denen Sie Hands-on Druckverluste berechnen für solche Bauteile oder für Rohre mit Laminaren und Turbulenten Stürmung.
+So weit, so gut. Diese Grundlage, die wir jetzt hier gelernt haben, werden wir, wenn ich richtig entsinne, auch schon in der nächsten Stunde oder spätestens übernächsten in der Werbeübertragung auch bekommen und wird sich mehr oder weniger bis zum Ende der Vorlesung durchziehen.
+Weil das ist nämlich das Arbeitspferd, mit dem wir Fluidströmungen in der Realität betrachten und beobachten.
+Und Sie werden sehen, leider kommen wir fast nie drum herum, turbulente Strömungen anzugucken.
+Weil bis auf wenige Ausnahmen ist das eigentlich das, was uns beschäftigt.
+Auch wenn wir hier den Wasserhahn aufdrehen und Flüssigkeit rausholen, dann sind wir immer mit Turbulenz komfortabel.
+So weit, so gut? Dann wünsche ich Ihnen eine schöne Restwoche und sehe Sie nächste Woche Montag zur Werner-Übertragung.
+Am Freitag ist der Hapig im anderen Hörsaal und macht dann wieder. Alles Gute!

@@ -1,0 +1,1032 @@
+...
+Nachher, wie sieht es aus mit der Fertigungstechnik da beim Labor? Sie haben einen Termin, ich glaube, die waren heute dran, oder?
+Ich habe es mir aufgeschrieben, aber da sind zwei von uns jetzt krank, also entweder kommen
+zwei von der anderen Gruppe zu uns rüber und die anderen zwei gehen dann nächste Woche
+Oder wir verschieben komplett die Gruppen.
+Wie ist es bei Ihnen?
+Haben Sie Zeit heute?
+Hören Sie das Drehen an der Maschine?
+Würde es bei Ihnen heute gehen?
+Ja.
+Auch?
+Das ist bei Ihnen nächste Woche auch okay?
+Zu einer Gangzeit.
+Zu einer Gangzeit.
+Zu einer Gangzeit.
+Wie lange dauert es ungefähr für eine Versuchung?
+Eineinhalb Stunden.
+Eineinhalb Stunden?
+Durchschnitts.
+Guck dir das mal an.
+Passt das bei dir?
+Ja, das passt.
+Welche Uhrzeit hatten Sie abgemacht?
+Es war 14.00 Uhr geplant.
+Okay, 14.00 Uhr.
+Also nach der Vorlesung eine halbe Stunde danach.
+Gut.
+Dann legen wir los.
+Ganz kurz im Moodle-Kurs.
+Ich mache das Thema Schleifen.
+Und da gibt es hier so ein Schleifverfahren, eine PDF-Farbei, die können Sie wieder selbst anschauen.
+Das muss ich nicht vorlesen.
+Da steht drin, was es für Schleifverfahren gibt, der Vollständigkeit halber.
+Ja, das bitte selbst anschauen.
+Das Skript gehen wir jetzt hier durch.
+Außerdem noch ein paar Videos eingebunden, ja, Kugelwellenschleifen, Spitzenlustschleifen, Rutschschleifen und so weiter.
+Ein bisschen was zum Angucken.
+Und das kann ich jetzt mal selbst machen.
+Und hier sind Daten im Skript zum Thema Schleimhintergrund.
+So.
+Und auch fange ich hier mit ein paar Videos an.
+Das sind zum größten Teil die Rudelkurse, die Videos.
+Also Schleifen, eine Scheibe habe ich mal mitgebracht, heißt halt, bearbeiten zum Schluss mit so einer Scheibe,
+die sich sehr schwer dreht und das Ganze für eine gute Oberfläche.
+Wenn es Werkstück ist, der sehr genau sein soll, dann ist es eine sehr gute Oberfläche.
+Und als Einstimmung ein paar kleine Videos.
+Das ist Rudelwerbeschleifen.
+Hier hinten ist die Steifscheibe. Hier ist die Kurbelwelle. Die dreht sich um sich selbst wie eine Drehmaschine.
+Aber die Drehachse ist nicht in der Mitte, sondern so ein bisschen außermittig.
+Und dann können wir eine Kurbelwelle schneiden.
+Mit diesen versetzten Stellen, die geschnitten werden müssen.
+Der muss geschliffen werden, der hier, hier in die Stelle, da wo später die Lager drauf kommen.
+Und genau, geschliffen wird eben typischerweise mit einer runden Scheibe, wie dieser hier.
+Oder wir machen Rundschleifen, als Beispiel.
+Dieses Bauteil soll geschliffen werden.
+Hier ist die Schleifscheibe.
+und
+dann
+geht es los
+die Steifscheibe fährt hier dran entlang
+hier sind über die Funken
+die auftreten
+also die Steifscheibe
+dreht sich sehr sehr schnell
+und dadurch geht es
+in den Funkenflug
+hier über den Weg
+manchmal sieht man auch so einzelne Funken dazwischen
+das Ganze für eine gute Oberfläche.
+Ziel ist immer eine gute Oberfläche.
+Oder Planschleifen, andere Richtung,
+eine glatte Oberfläche, das war eben Rundschleifen,
+also eine zylindrische Oberfläche.
+Beim Planschleifen wollen wir eine ebene Oberfläche machen,
+zum Beispiel hier kommt so ein Motor,
+da versteckt sich die Schleifscheibe hier unten,
+Schleifen wir die jetzt so rum, horizontal angeordnet, fährt hier rüber und dann mit zwei, dreimal der Rüberfahne ist die gesamte Oberfläche fertig.
+Man sieht hier auch den Funkenflug, wie die Funken rausfliegen.
+Also, das ist ein Planstein für eine plane oder ebene Oberfläche.
+Oder wenn Sie solche Teile schleifen wollen, das ist ein bisschen schwieriger, die können Sie ja
+irgendwo einschleifen, jedes einzelne, dann haben wir spitzenloses Schleifen. Spitzen heißt
+normalerweise, gehen wir hier auf das Grundschleifen, normalerweise ist das wie bei der Drehmaschine. Das
+Bauteil ist an den Spitzen, an den Enden eingespannt und dreht sich. Bauteil langsam, Schleifscheibe schnell. An den Spitzen
+eingespannt. Das haben wir bei vielen kleinen Bauteilen hier nicht. Die können wir nicht jedes
+einzelne einspannen. Das dauert viel zu lange. Das macht man anders. Die schmeißt man alle in einen großen Topf.
+Dann werden die ganzen Stücke hier durchgeleitet, werden gar nicht eingespannt und kommen einfach
+hier zwischen zwei Scheiben, eine Scheibe, eine zweite Scheibe, werden die einfach hier
+durchgeschoben. Hier vereinzelt, hier komplett hoch und am Ende fallen sie hier fertig geschliffen raus.
+Sie werden nie eingespannt oder festgehalten, sondern einfach nur durchgeschoben. Das geht in der Massenproduktion nicht anders.
+Alles andere wird zu lange dauern. Was haben wir noch? Wir können auch innen streifen, also nicht nur außen
+zylindrisch, sondern hier das
+Werkzeug wird innen geschliffen.
+Hier ist eine kleine Schleifscheibe.
+Diese hier
+geht ran. Und wir
+schleifen jetzt die Innenseite
+von dem Werkzeug.
+Innen-rund-schleifen.
+Rund-schleifen heißt zylindrische
+Oberfläche, aber eben nicht
+außenrund, sondern
+innen-rund-schleifen.
+Und beim letzten
+Eindruck,
+Und wenn Sie Werkzeuge machen, Bohrer aus Hartmetall, die können Sie nicht fräsen, die müssen geschliffen werden.
+Und da gibt es extra Werkzeugschleifmaschinen, mit denen Sie wiederum Werkzeuge machen können.
+Das ist einfach ein Hartmetallstamm, ein Zylinder.
+Da soll mal ein Bohrer draus werden.
+Der Fräsen kann man hier nicht.
+Also, da wird erst angetastet.
+Und dann holt sich die Maschine die richtige Steifscheibe.
+Und dann geht's los.
+Hier ist der Hartmetallkörper, der später mal ein Rohr oder Fräser werden soll.
+Und dann wird er dann da rumgeschliffen.
+Wir sehen, das dauert alles ziemlich lange.
+Beim Schleifen hat man wenig Materialabtrag, es dauert etwas.
+Aber fräsen kann man Hartmetall nicht, da ist Hartmetall zu hart.
+So, ganz andere Schleifschleife.
+Und so weiter.
+Das heißt, man schleift ziemlich lange.
+Wenn es weicher wäre, würde man es schnell fräsen, das geht viel schneller.
+Aber das Schleifen nimmt nur ganz wenig Sparen an.
+Und deswegen dauert es immer.
+Gut, also, Schleifen, ja, der hat sich rausgeworfen.
+Der neue Versuch.
+Der ist 14.
+Also, wir haben live, das ist Spanien mit geometrisch unbestimmten
+Schneide. Wenn Sie sich erinnern, ganz am Anfang, ich lege es nochmal auf, haben wir über die Fertigungsverfahren gesprochen.
+Erste Stunde hier, da hatten wir die Fertigungsverfahren nach dieser Norm 78580, unterteilt nur von
+Umformen, Trennen, Fügen, Geschichten und so weiter.
+Wir hier machen
+Umformen und Trennen.
+Das Trennen ist wieder unterteilt
+in Spanien mit geometrisch
+bestimmter Schneide und
+Spanien mit geometrisch unbestimmter Schneide.
+Geometrisch bestimmte Schneide
+heißt, die haben eine feste
+Schneide, ein Schneidkeil,
+Bohren, Fräsen, Drehen und so weiter.
+Geometrisch unbestimmte Schneide
+heißt, es gibt nicht diese
+eine Schneide. Auch hiermit
+wird zerspannt, aber es gibt hier eine Schneide nicht.
+Sie drehen hier einfach
+tausende von Körnern und irgendeines
+wird schon treffen. Das ist mehr
+Statistik, wo ein Korn vorbeigeht
+und wo nicht. In anderen Worten,
+Schleifen
+gehört zum Zerspannen mit
+theoretisch unbestimmter Schneide.
+Keine feste Schneide.
+Definiert mit die Form,
+irgendwo die große Anzahl an Schneiden.
+Und
+das ist also
+neu.
+Das Werkzeug macht die Schnittgeschwindigkeit.
+Das heißt, die eigentliche Arbeit macht die Schleifscheibe und die dreht sich sehr schnell.
+Die dreht sich, jetzt weiß ich noch nicht, welche Zahl ich da am besten eintrage.
+Die Schnittgeschwindigkeit ist ca. 20 mal größer als beim Drehen.
+Je nachdem, wie schnell Sie drehen.
+Manchmal aber auch 100 mal größer als beim Drehen.
+drehen. Also sehr, sehr, sehr
+hohe Schleifgeschwindigkeiten
+beim Schneiden.
+Die Schleifmittel sind einzelne Körner.
+Hier
+typischerweise
+meistens keramische Körner.
+Keramik ist
+Lithiumnitrit, Aluminiumoxid,
+also Keramik.
+Das sind die
+harten Körner, die die auch hohe Thermatur abkönnen.
+Und jedes
+einzelne Korn ist eigentlich eine
+schneide. Jedes einzelne Korn kratzt ein Span weg. Und von diesen vielen Körnern hier kommen
+halt sehr, sehr, sehr viele. Aber die Späne sind halt sehr, sehr, sehr klein. Jetzt gebe
+ich die einfach mal rum. Man hört das hier, dass eine keramische Scheibe so klingt. Einfach
+zu lang geklebte Körner.
+Das ist die
+Schleifscheibe.
+Wir haben
+ganz besondere
+Schnittbedingungen.
+Dazu
+wenn sie schneiden ist die schnittgeschwindigkeit
+ein bisschen ein bisschen verbrannt
+wir haben sehr lange
+sehr kleine schneiden jedes korn seine kleine schneide sehr klein und das heißt wir haben
+Hier haben wir auch sehr kleine Späne.
+Das war das eine.
+Nächste Besonderheit, wir haben eine sehr hohe Schnittgeschwindigkeit.
+Vc, die Schnittgeschwindigkeit, ist sehr hoch.
+Was heißt das für die Leistung?
+Leistung ist Kraft mal Geschwindigkeit.
+Geschwindigkeit hoch. Das heißt, wir haben deshalb eine hohe Leistung. Bei sehr kleinen Spänen ist
+aber die Kraft klein und wir haben eine kleine Leistung. Weil die Späne so klein sind, wird die
+Leistung eigentlich klein, die Kraft sinkt. Wegen der hohen Schnittgeschwindigkeit geht die
+Das eine verringert die Leistung, muss ich vielleicht so sagen, und das andere erhöht die Leistung.
+Wir haben sehr sehr viele Schneiden, die alle gleichzeitig schneiden.
+Viele Körner schneiden gleichzeitig.
+Das erhöht wieder die Leistung.
+Ich mache jetzt das andersrum. Ich schreibe nicht hohe Leistung, sondern Leistung geht deshalb wieder hoch.
+Und weil die Schnittgeschwindigkeit so hoch ist, geht die Leistung hoch.
+Und weil die Späne klein sind, geht die Leistung runter.
+Aber ich halte mal so auf.
+Ich habe ein bisschen geändert diesen Rundschlag.
+So, und da ist der Bildschirmschoner schon wieder.
+Aber das macht jetzt nichts.
+So, viele Körner gleichzeitig.
+Die Fündigkeit ist hoch, das ist schlecht für die Leistung, uns rettet, dass es so
+kleine Späne sind, sonst wäre die Leistung sehr sehr hoch.
+Wir haben noch eine Frage.
+Ich habe noch eine Frage.
+Wie ist es dann mit dem Druck?
+Auch hoch.
+Ja, das kommt jetzt als nächstes.
+Wir haben Schneiden oder Körner mit negativen Spannwinkeln.
+Warum?
+Wenn wir eine Schleifschneidung haben und darin sitzt ein Korn, eins von vielen, und es dreht sich,
+dann ist das hier ein negativer Spannwinkel.
+Die Schneide, die schneidet gar nicht richtig, wie ein Messer, wo es nur umgeht, sondern ist eigentlich falsch.
+Das ist keine Schneide, die man sich schneidet. Kein Schneidkeil, der die richtige Richtung zeigt,
+sondern hier so einen Korn. Das schneidet nicht, das schiebt man ein bisschen Span weg.
+Wenn Sie eine Säge haben, eine Greifsäge, dann sind die Sägezähne anders angeordnet.
+Dann sehen die so aus.
+Und dann haben wir, was wäre die Säge?
+Oder Sägen?
+Und was wäre das Schneiden?
+Größer Null oder einfach gleich Null, aber nicht so wie hier.
+Das ist eigentlich überhaupt keine gute Schneide.
+Und weil es keine gute Schneide ist, heißt das, wir haben eine Kraft, die wieder rauf geht.
+Das ist schlecht für die Kraft. Ein scharfes Messer schneidet besser, als wenn ich so einen komischen, ja,
+einen Schleifkorn irgendwo hinnehme. Ja, und das führt dazu, dass die Leistung P schon wieder hochgeht.
+Und das Ding drückt sich einfach weg von dem Werkzeug.
+Sie müssen sehr stark hier gegen drücken, dass die Körner wirklich reingehen in das Werkzeug.
+Deswegen der hohe Druck, die hohe Kraft.
+Und das führt zu Leistung hoch, das führt zu Leistung hoch, das führt zu Leistung hoch.
+Naja, die kleinen Späne retten uns ein bisschen da oben.
+Aber wir haben beim Schleifen immer eine sehr hohe Leistung.
+Und das auf so kleine Späne bezogen, führt zu einer großen Problematik der Temperatur.
+Bei hoher Leistung, bei geringem Spanquerschnitt, und das Ganze führt zu einer hohen Temperatur.
+Das ist unser großes Problem beim Schleifen, das einzige Problem beim Schleifen, dass wir
+dort eine zu hohe Temperatur bekommen.
+Im Video waren manchmal die Funken zu sehen, das Feuer da drin, ja es wird dann wirklich
+sehr heiß und typischerweise zu heiß.
+So, und weil der hier nicht wieder raus wird, nehmen wir das Kabel.
+Das heißt eben hier, das ist das, womit wir beim Schleifen kämpfen.
+Ganz eigene Schnittbedingungen und alle sind ungünstig, außer dass die Späne klein werden.
+Für zu hohe Temperaturen.
+Das Schöne bei Schneiden ist, wir bekommen eine sehr glatte Oberfläche und können sehr genau arbeiten.
+Wenn wir auf 1-2 Mikrometer genau arbeiten wollen, dann können wir nicht mehr fräsen, dann müssen wir schneiden.
+Und das ist auch die Hauptanwendung von Schneiden, wenn es genau sein soll oder als Nacharbeit für die gute Oberfläche.
+Oft wird erst gedreht oder gefräst und dann geschnitten.
+Fräsen und Drehen geht viel viel viel viel schneller, aber es ist nicht so genau.
+Also mache ich erst das Fräsen und Drehen und dann mache ich das Schleifen hinterher als Nachbearbeitung.
+Für die hohe Genauigkeit, für die gute Oberfläche.
+Die Schnittgeschwindigkeit ist ungefähr 100 m pro Sekunde.
+Beim Drehen haben wir 100 m pro Minute.
+Schnittgeschwindigkeit also drastisch viel höher.
+Beim Hochgeschwindigkeitsschleifen sind wir auch schon fast bei Schleifgeschwindigkeit.
+200, 300 Meter pro Sekunde.
+Wie sieht dann da der Verschleiß aus?
+Hoch.
+Aber das ist schon klar.
+Aber lohnt es sich dann?
+Das kommt noch einmal gewollt.
+Manchmal.
+Da schiebe ich noch kurz die Antwort.
+Hochgeschwindigkeit ist sehr, sehr speziell.
+Und das machen nicht viele.
+Sie können sich das gleich vorstellen.
+Ich hole mal die Schleifscheibe wieder.
+Dennoch habe ich gesehen.
+Wenn die Scheibe sich hier außen mit 100 m pro Sekunde Geschwindigkeit bewegt, das sind
+360 kmh, und die Scheibe zerbricht, das ist eine relativ spröde Scheibe, wenn die runterfallen
+lassen, dann haben wir drei Scheiben auf dem Boden.
+Wenn die Scheibe bricht und so ein Bruchstück fliegt mit 360 Stundenkilometern durch die Maschine,
+dann ist die Gefahr groß, dass das Stück durch die Maschine durchgeht und den Bediener tötet, der daneben steht.
+Das ist ein großes Sicherheitsthema, wenn ich mit so hohen Geschwindigkeiten arbeite.
+Also da muss man bei der Maschine darauf achten, dass die das abkannet.
+Hier wäre ja dann die Aussage, die Sie letzte Woche gezeigt haben, richtig.
+Mit dem fast wie einem Projekt-T-Shirt.
+Heißt, die Cutting war das?
+Ja, weil hier fliegt ein Bruchteil von einer Scheibe.
+Und die ist wirklich schwer.
+Und wir haben 100-fache Geschwindigkeit.
+Und die Energie ist ein Halb-MV-Quadrat.
+ja, 10.000-fach mehr Energie
+als bei Felsen.
+Ja, also hier wird es wirklich gefährlich,
+wenn das gut geht.
+Bei der Geschwindigkeit.
+Gut, wir haben also ein Problem
+mit der Temperatur.
+Das Gute ist, wenn wir hier
+einen Bauteil haben,
+ups, das ist nicht schön rund,
+egal, das macht nichts.
+Hier ein Bauteil, hier die Schleifschale, dann ist der Kontakt hier sehr kurz. Kurzer Kontakt,
+das Korn trifft hier auf und hat eine Umdrehungszeit wieder abzukühlen. Dann trifft es wieder auf,
+wird sehr heiß und hier kühlt es wieder ab. Wir haben eine sehr kurze Kontaktzeit, also hier
+eine kurze Kontaktzeit und das hilft uns gegen die Temperatur.
+Das Korn kann dann wieder abkühlen.
+Das heißt aber auch, eine lange Kontaktzeit ist kritisch.
+Lange Kontaktzeit heißt, das Korn wird viel zu heiß.
+Wir haben hier einfach eine zu hohe Leistung
+und wenn der Kontakt zu groß wird,
+dann ist die Zeit zu lang
+das Korn wird zu heiß
+weshalb
+nehmen wir hier
+auch nur
+wirklich
+naja ich sag mal
+typischerweise 0,1 Millimeter
+das ist eigentlich
+ganz kleines bisschen was wir hier abschneiden
+ja damit wir eben hier
+Das war nur ein ganz kurzes Material, das wir dann wieder abkühlen.
+Das macht aber das Innenrundschleifen so kritisch.
+Das Innenrundschleifen heißt, Sie haben eine Schleifscheibe.
+Sie sind im Inneren eines zylindrischen Bauteils und schleifen hier die Innenseite.
+Sieht Ihnen gleich an, dass wir hier eine relativ lange Kontaktzeit haben.
+Insbesondere, wenn die Scheibe zu groß ist, die Schleifscheibe.
+Deswegen ist das so kritisch. Das geht gar nicht.
+Eine lange Kontaktzeit führt einfach zu einer zu großen Wärme.
+Das heißt, der Durchmesser der Schleifscheibe muss kleiner sein,
+deutlich kleiner sein, als der Durchmesser von unserem Bauteil.
+Es reicht nicht, wenn der hier 0,9 mal ein bisschen kleiner ist.
+Es geht um diese Kontaktlänge.
+Und deswegen sagt man, die Schleifscheibe darf höchstens 0,6 bis 0,8 mal so groß sein, wie der Durchmesser des Werkstücks.
+0,8 ist schon sehr viel.
+Je kleiner die Schleifscheibe, desto besser.
+Desto kürzer die Kontaktmengen.
+Kleine Schleifscheibe, hohe Geschwindigkeit, ist aber hohe Drehzahl.
+Die Drehzahl kann halt die Maschine bis begrenzt, was die Kahn hat gesagt.
+Ja? Also, merken, Innenrundschleifen ist kritisch, wegen der langen Kontaktlänge.
+Und deswegen braucht man da die möglichst kleine Streifscheibe.
+Beim Außenrundschleifen haben wir das nicht. Wenn wir Außenrundschleifen machen,
+haben wir hier das Werkstück. Ws für Werkstück.
+Hier unsere Schleifscheibe, die kann kleiner sein, die kann größer sein, Schleifwerkzeug und unser Kontakt ist immer kurz.
+Also beim Außenrundschleifen haben wir das Problem nicht, nur beim Innenrundschleifen, wenn wir hier diese Anschmiedung haben.
+Wenn wir dieses Außen-Rund-Schleifen machen, also das Werkstück dreht sich ganz langsam,
+die Schleifscheibe dreht sich sehr schnell, also der Werkstück langsam, Schleifscheibe sehr schnell,
+dann machen wir das so, dass wir das Bauteil haben
+und wir fahren mit der Schleifscheibe an den Bauteil entlang
+hin und her
+und jetzt habe ich gesagt
+wir brauchen eine große Kraft, die hier wirkt
+damit die Körner überhaupt in das Bauteil eintreten
+Ja, hier wirkt beim Schleifen eine sehr große Kraft zwischen den Beinen.
+Wenn wir jetzt hier rüber fahren, bis dahin, dann wirkt diese Kraft auf, nur diese Ecke.
+Dann würde diese Ecke zu viel schleifen.
+Deswegen fahren wir nicht ganz rüber und wieder zurück, sondern nur bis ungefähr dahin und dann schon wieder zurück.
+Wenn wir etwa hier sind mit der Schleifscheibe, schneiden wir hier zu viel.
+Wenn wir nur bis dahin fahren und wieder zurück, schneiden wir hier zu wenig, weil wir nur ganz kurz sind.
+Da sind wir schon wieder weg, dann kriegt jeder nicht genug Bearbeitung an.
+Deswegen, typischerweise fährt man nur ein Drittel von der Schleifscheibe drüber hinaus.
+Ein Überlaufweg, das kennen Sie schon vom Drehen. Ein bisschen zu weit, klar.
+Dann passt das. Ungefähr ein Drittel der Gleitsteinzeit brauchen wir dazu.
+Wenn wir dann hier rüber gefahren sind und dann, man geht an, vielleicht manchmal nur 20 Mikrometer tief sind.
+20 Mikrometer, dann 20 Mikrometer weiter rein, wieder rüber fahren, nochmal 20 Mikrometer und jetzt sind wir fertig.
+Wenn wir das geschafft haben, dann kommt der letzte Schritt, das sogenannte Ausfeuer.
+Nachdem wir also hier schon drüber gefahren sind und denken, wir sind fertig,
+kommt dieser Schritt, in dem wir nicht mehr weiter zustellen, sondern einfach noch ein paar Mal hin und her fahren, ohne weiter zuzustellen.
+Das Ausfeuer ist ein ganz alter Begriff.
+beim Schleifen entstehen ja die Funken
+man sieht die Funken, die fliegen
+und jetzt fährt man so lange hin und her
+bis keine Funken mehr fliegen
+das heißt das Ausbeutung
+das heißt
+erst wenn man hier dran entlang fährt
+und sich wirklich keine Funken mehr bilden
+und kein Span mehr abgenommen wird
+dann haben wir wirklich die perfekte Oberfläche erreicht.
+Deswegen ganz zum Schluss noch ausfeuern, dann kriegen wir eine richtige Oberflächenqualität und auch das genauere Maß.
+Also eigentlich nicht nur die Oberflächenqualität, sondern auch noch die genaue Qualität.
+Das würde auch damit erst mal reichen.
+Die perfekte Genauigkeit und die perfekte Oberfläche.
+Dazu fahren wir hier einfach so lange immer mit der Schleifstabilität, ohne zweite Dazustellung, bis kein Punkt gewerbt wird.
+Das Ausbauen erfeuert also relativ wichtig.
+Gut, ein, zwei Sachen noch.
+die Notizen.
+Danke.
+Ein, zwei Sachen noch.
+Wenn Sie eine Schleifscheibe haben,
+Sie können, normalerweise
+schleift man so.
+Wenn ich hier den Tisch schleifen will,
+dann dreht die Schleifscheibe so.
+Ich schleife mit der Außenseite,
+mit der Umfangseite.
+Ich könnte auch die Schleifscheibe hinlegen
+und so schleifen.
+Liegend.
+Mit der Seitenfläche.
+Da habe ich Seiten muss ich schleifen.
+Aber das ist zum Beispiel
+eine ganz schlechte Lösung.
+Das macht man nicht, denn
+jetzt sind die Körner hier unter
+dauerhaftem Einsatz, um die Kühle zu heilen.
+Lange Kontakt haben.
+Und wie soll der Kühlschmierstoff
+hier runterkommen? Geht auch nicht.
+Also das macht man gar nicht.
+Zu hohe Belastung,
+die Späne kommen auch nicht weg,
+ohne dass die Späne hier rauskommen.
+Geht nicht, das ist die bessere Lösung.
+Die Späne können hier rausfliegen,
+werden kurze Kontaktzeit,
+Kühlschmierstoff kann ich direkt einschmeißen.
+Knallschleifen, fast immer so und so gut wie nie so.
+Wann braucht man denn das machen?
+Oder wann geht das nicht?
+Wenn man vielleicht von oben nicht rankommt.
+Wenn Sie ein Bauteil haben mit einer Vertiefung drin
+und Sie wollen den Boden unten schleifen.
+Dann kommen sie mit der Schleifsteige da unten nicht gut rein.
+Dann müsst ihr eventuell eine kleine Schleifsteige hinlegen und den Boden dann so schleifen.
+Obwohl es eigentlich nicht gut ist, weil das ist nicht gut.
+Was man dann macht, ist, dass man die Schleifsteige ein kleines bisschen kippt und dann den Boden schleift.
+Dann haben wir wieder kurze Kontaktlänge, Kühlschmierstoff kann hier rein, spänen kann raus.
+Aber schön ist das nicht. Nur im Notfall, das kann nicht anders sein.
+Also ich bin durch Sturz, Sturz halt, Streckstellen wieder.
+Hat nichts mit runterfallen zu tun.
+Dann gucken wir auch hier, dass wir nur eine ganz kleine Zuerntiefe haben.
+Damit die Kontaktzeit kurz ist. Das ist ungünstig.
+Das Korn ist hier viel wird, wenn ich so hier meine Bahnen fahre, sehr tief und so schmal,
+dann schleife ich eigentlich mit der Seite und nicht mit der Umfangsseite.
+Und dann bekommst du eine seitliche Kraft auf die Scheibe, das ist nicht gut.
+Schlecht? Gut, günstig. Auch wegen der kurzen Kontaktzeit. Hier geht das Korn rein, da geht es schon wieder raus, hier lange Kontaktzeit bis ich unten durch bin und Gefahr, dass das zu heiß wird.
+Was man dann noch angucken muss, wenn Sie eine kleine Welle schleifen wollen, dann fahren Sie nicht so viel nach vorne.
+Wieder mal zurück. Also das hier machen Sie bei langen Wellen. Wenn Sie ein langes Bauteil haben, fahren Sie einfach gerade entlang.
+Wenn Sie aber nur ein kleines Bauteil haben, wie hier, dann fahren Sie gar nicht gerade entlang.
+Dann drehen Sie das Bauteil langsam und fahren einmal drauf, bis Sie Kontakt haben, warten eine Weile und fahren wieder hoch, fertig.
+Dann brauchen Sie nicht nach rechts oder links zu fahren.
+Sie schaffen das als Querschlag, also Querfahren und nicht in der Strecke.
+Und das kann man eben auch machen bei einem nicht ganz so langen Bauteil, dass Sie einmal runterfahren, nochmal runterfahren, fertig.
+Also da geht das ungefähr.
+Wobei die maximalen Schleifscheiben, die Sie normalerweise kaufen können,
+ungefähr 100 Millimeter klein sind. Ja, also so weit bekommen Sie Ihre Schleifscheiben. Mehr
+Wenn wir zu breit werden, werden wir zu schwer. Wenn dann etwas bricht, ist es ein zu schweres Stück, was durch die Gegend fliegt.
+mit 100 Metern pro Sekunde.
+Das ist zu viel.
+Gut.
+Wir machen noch ein paar Schleifverfahren durch.
+Wir haben das spitzenlose Schleifen.
+Das war das, bei dem die vielen kleinen Bauteile
+alle in einer Reihe
+an einer Schleifscheibe
+vorbeigeschoben werden.
+Da machen wir das so,
+dass die Bauteile hier,
+also die kommen hier auf der Ebene raus,
+eins nach dem anderen,
+typischerweise in diese kleinen Bauteile
+zwischen zwei Scheiben
+durchgeschoben werden.
+Das eine ist die Steifscheibe.
+Die dreht sich hier sehr, sehr schnell.
+Und das andere ist eine Regelscheibe,
+die typischerweise
+hat eine Gummibeschichtung.
+Und die dreht hier
+das Werkstück. Dadurch, dass die sich langsam
+dreht, dreht sie das Werkstück
+hier langsam, diese kleinen Teile.
+Das sind immer nur diese kleinen Teile,
+die hier einer nach dem anderen durchgeschoben werden.
+Und dann drehen die sich
+die langsam, während hier die Schleifscheibe sehr schnell vorbeifährt und das Ganze schleift.
+Ganz einfaches Verfahren. Mit den beiden Scheiben machen Sie alles fertig.
+Da können Sie hier die kompletten Bauteile schleifen, ohne sie an den Spitzen festhalten zu müssen.
+Deswegen spitzenloses Schleifen.
+Und das macht man nur in der Serienfertigung, wenn Sie wirklich tausende gleiche Teile haben, die alle geschnitten werden müssen.
+So, was haben wir noch?
+Ich habe es schon ein paar Mal gesagt, die Hauptschwierigkeit beim Schleifen ist die Temperatur, die hohe Temperatur.
+und wenn das Ganze zu heiß wird, das Bauteil, dann bekommt es Schleifbrand.
+Wenn Sie Stahl sehen, Stahl, wenn er zu heiß wird, wird bunt, bekommt Farben, wird blau oder grau
+und dann ist er zu heiß geworden.
+Schleifbrand heißt, das Werkstück ist beschädigt bis zu hoher Temperatur.
+und deswegen muss man eigentlich
+immer beim Schleifen
+Kühlschmierstoff einsetzen
+Sie können nicht trocken
+mit Schleifen
+Das geht einfach nicht
+Wir haben sowieso schon ein Temperaturproblem
+Schleifen immer mit Kühlschmierstoff
+Trotzdem, wenn man draufpasst
+kann es Schleifbrand geben
+Zum Beispiel, wenn die Schleifscheibe stumpf ist
+Wenn die Körner zu glatt werden
+zu stumpf werden
+Aber wenn die Schleiferung zu alt ist, dann steigen die Kräfte.
+Das Strukturwerkzeug hat höhere Kräfte, noch mehr Leistung, noch mehr Temperatur und dann können wir das Werkstück schädigen.
+Oder wir haben eine zu geringe Schnittgeschwindigkeit, dann ist die Leistung auch zu hoch.
+Oder die Kühlung ist zu wenig.
+Das kann alles ein Grund sein, warum wir Schleifbranden bekommen, eine Schädigung des Werkstücks.
+Also, was tun? Umfangsgeschwindigkeit runter, langsamer schleifen, abrichten, Druck bei dem Rand, also scharfe Werkzeuge verwenden und mal noch kühlen.
+So, wir fühlen hier, wenn wir...
+Wie fühlen wir diese Stelle?
+Aber wenn man es richtig macht, dann muss man, wenn die Steilfläche sich hier dreht,
+nochmal mit 300 Stunden, sehr, sehr, sehr schnell, wenn Sie da einfach den spritzen, das prallt ab.
+Wenn Sie hier mit dem Kühlschrank draufspritzen, wird die Fliehkraft einfach nicht in die Stelle hineinkommen.
+Was man also macht ist, dass man hier den Kühlschmierstoff an der Stelle hinein spritzt, KSS, Kühlschmierstoff, wenn ich das so umdrehe, dass man hier rein spritzt und die Steifschärfe und die Körner an den Kühlschmierstoff hier mitziehen und hier mit reinziehen in die Schmierstelle.
+Wir sehen immer von der Seite und nicht von der Seite. Das geht nicht.
+Wenn die Schleifstange sich so umdreht und wir schnürzen hier rein, dann schießt das Ganze wieder aus.
+Wir müssen genau praktisch in diesen Spalt so hineinschießen mit dem Kühlschwerstoff,
+dass das Ganze auch mitgezogen wird in die Schnittkerne. Dann kühlt es weg.
+Wenn wir zu hohe Geschwindigkeit fahren, dann bekommen wir diesen Schleifbrand.
+Diese rote Linie ist die Grenze, da wo wir den Schleifbrand bekommen.
+Hier unten ist die Schnittgeschwindigkeit.
+Wenn die zu groß ist, geht es nicht.
+Dieses Feld hier ist normales Schleifen, konventionelles Schleifen.
+Das heißt, wir haben Geschwindigkeiten bis zu 80 Meter pro Sekunde.
+100 ist ja fast ein bisschen viel.
+Also 80 Meter pro Sekunde.
+Bis dahin können wir gut schleifen ohne Schleifbrauch.
+Wenn wir noch schneller werden irgendwann, dann schlägen wir das Werkzeug.
+Das ist die Grenze.
+Und das andere ist die Tiefe, mit der wir arbeiten.
+Wie tief können wir denn schleifen?
+wenn wir zu tief schleifen
+ja
+ein Millimeter
+zum Beispiel
+dann ist das Korn zu lange im Eingriff
+und es wird auch zu heiß
+dann haben wir auch Schleifkorn
+wir dürfen also nicht so tief zustellen
+und wir dürfen nicht zu schnell werden
+dann haben wir normales Schleifen
+kommen wir an die Grenzen
+geht es nicht
+jetzt hat sich in der Forschung
+aber einiges getan
+Und zwar geht es um, das ist doch eigentlich blöd, wenn ich erst einmal fräsen muss, weil es schneller geht,
+und dann von der Fräsmaschine auf die Schleifmaschine gehe und dann das Schleifen mache.
+Dann habe ich zwischendurch einen Umstand, ich habe Logistik, Transport, ich brauche zwei Maschinen.
+Das heißt, die Schleifer hätten manchmal es lieber, wenn sie das Fräsen nicht machen,
+sondern leicht auf Maß schneiden. Na ja gut, dann stelle ich halt fünf Millimeter zu,
+fünf Millimeter tief, mache das alles auf einmal, schleife hier und schrabe mir das Fräse. Also
+Schleifen nicht als Nacharbeit,
+sondern wirklich als
+echtes bearbeitetes Verfahren.
+Und nicht als Gehoffene.
+Der Nachteil ist,
+wenn wir so tief schleifen,
+das Korn ist zu lange im Eingriff mit dem Schleifband,
+die Forschung versucht,
+hier rauszukommen.
+Dieser Bereich heißt dann Tiefschleifen.
+Das ist
+eher in Verbindung
+mit einer hohen Geschwindigkeit
+ein Thema,
+wenn wir unten
+ist die Forschung genauso dran
+und macht ihr das
+Hochgeschwindigkeits- oder
+Qualitätsschleifen.
+Da gibt es zwei Namen dafür.
+Ich schreibe sie mal dazu.
+Ups.
+Das war es.
+Hoch
+Geh
+hin
+Das ist das Gleiche.
+Die Idee ist,
+hier einfach noch schneller zu werden.
+bei kleiner Zustellung.
+Hochgeschwindigkeit bei Qualitätsschleifen
+ist das gleiche.
+Das macht man für eine bessere Oberfläche.
+Und da ist man heute dran,
+wir sehen 250 Meter pro Sekunde.
+Das ist schon fast Steigeschwindigkeit.
+Also das sind ganz, ganz heftige Geschwindigkeiten.
+Ein Dr. Vesari ist in Deutschland führend
+in diesem Bereich, in der Forschung
+hier
+von dieser
+ja
+den Versuch, diese
+Steifbrandbarriere zu überwinden
+um höher zu kommen
+und dann gibt es die ganz
+Verrückten, die machen beides, die wollen
+so schnell
+und auch noch tief arbeiten
+dann sind wir beim Hochleistung
+schleifen
+oder beim
+High Efficiency Deep Grinding
+Das Hochgeschwindigkeitsschleifen macht man für eine bessere Oberfläche.
+Ganz schnell noch, bevor ich gerade sage, wo das Problem liegt, wie funktionieren überhaupt die Spanbilder?
+Das müssen wir jetzt zuerst nachgucken.
+Die Schneide, ein Korn, das ist die Schleifschneide.
+Das ist ein einziges Korn davon, also ein rotes Korn.
+Das kommt jetzt hier außen an, dreht sich, trifft auf das Werkzeug.
+Ganz am Anfang haben wir ganz, ganz kurz eine elastische Verformung.
+Hörverlachlässig.
+Ja, natürlich, das Werkstück kann sich elastisch minimal verformen.
+Jetzt fängt das Korn an und drückt sich hinein in das Werkstück.
+Es zieht eine Furche, eine Bahn, eine Nut, aber macht noch keinen Spahn.
+Am Anfang dringt das Korn ein ins Werkstück und das Material wird zur Seite verdrängt.
+Der erste Mikrometer hier gibt es keinen Span.
+Das Material, das Korn kratzt an der Oberfläche, das Material wird verdrängt zur Seite.
+Wenn wir dann tief genug sind hier, kommt irgendwann hier ein Punkt, da ist das Korn so tief drin, das Material wird nicht mehr zur Seite verdrängt,
+sondern es sammelt sich vor dem Korn, es bildet sich ein Span, das Korn schießt hier raus, der Span fliegt weg.
+Interessant ist dieser Punkt, diese Phase. In dieser Phase bringt das Korn ein, es gibt eine Umformung.
+Der wird verformt. Wir machen keinen Abtrag, keinen Spar. Hier wird sehr viel Wärme erzeugt, ohne Zersparnung.
+Das hier wollen wir wirklich nicht haben. Wenn also hier das Korn zu klein ist an der Oberfläche,
+nur ein Mikrometer tief eindringen, gibt es keinen Span, aber große Wärme.
+Das heißt, wir müssen gucken, dass wir das Korn mal mindestens 5-6 Mikrometer tief ins Material bekommen.
+Das ist wirklich ein Span.
+Und das hier, diesen Bereich, diese plastische Verformung, die müssen wir vermeiden.
+Hier entsteht, wenn der Span zu klein ist.
+Wenn hier diese Tiefe nicht reicht, dann haben wir das Problem.
+Das ist gut, hier steht ein Span, hier steht wirklich ein Span.
+Also, ein zu kleiner Span ist nicht gut.
+Das ist wichtig sich zu merken, denn, jetzt gehe ich nochmal zurück,
+Wenn wir hier bei der Scheibe die Geschwindigkeit erhöhen,
+also ich habe hier meine Scheibe, die dreht sich und gleichzeitig bewege ich sie vorwärts,
+dann ergibt sich eine bestimmte Spanngröße.
+Wenn ich sie jetzt doppelt so schnell drehe und mit gleicher Geschwindigkeit vorwärts schiebe,
+habe ich nur halb so große Späne.
+Einfach nur schneller machen, die Umfangsgeschwindigkeit, die Drehzahl der Scheibe, einfach nur schneller drehen, ist nicht gut.
+Die Späne werden sehr klein, wenn wir hier rüber gehen, die Späne werden sehr klein, wir bekommen einfach hier,
+Wenn ich die Schnittgeschwindigkeit einfach nur erhöhe und die Vorschussgeschwindigkeit
+gleich lasse, werden die Späne deutlich kleiner.
+Wenn die Späne kleiner werden, werden eigentlich die Kräfte kleiner.
+Wenn die Geschwindigkeit rauf geht und die Kraft runter geht, bleibt die Leistung gleich.
+Die Leistung ist Kraft mal Geschwindigkeit.
+In der Summe bleibt man mehr gleich.
+Wenn ich genauso schnell fahre, bin ich auch genauso schnell fertig.
+Die Bearbeitungsdauer bleibt auch gleich, aber die Oberfläche wird besser.
+Wenn ich ihn doppelt so schnell drehe, dann wird dieses Stückchen Fläche auch von doppelt so vielen Körnern geklettet.
+Das ist die Idee.
+Das Problematische ist dabei, dieser Anteil wird größer.
+Hier, dieser Bereich, das habe ich hier nicht im Strip, das nennen manche auch Furchen, das heißt einfach nur eine Bahn ziehen, aber kein Span abheben.
+So heißt das manchmal und das ist schlecht, ganz schlecht, weil es führt zu hoher Temperatur.
+und jetzt nochmal auf die nächste Seite
+dass die Spalengröße runter geht
+führt halt hier zu Furchen
+Furchen ist so eine Vertiefung
+die entsteht
+und das ist halt ganz unglücklich
+das führt zu einer höheren Temperatur
+das heißt hohe Temperatur
+das ist das Problem
+Deswegen macht man das ganz selten, da braucht man einen Spezialisten, der genau weiß wie
+das geht und typischerweise macht man den Vorschub etwas größer, wenn schon sehr schnell
+dann auch den Vorschub etwas größer, dann werden die Späne nicht zu klein, dafür steigt
+der Spanenquerschnitt und man hat hier weniger Temperaturentwicklung, aber mehr Temperaturentwicklung
+mit dem größeren Spanenquerschnitt. Es ist alles schwierig. Es wird immer schwierig,
+aber da muss man halt den richtigen Kompromiss finden. Also, Furchen und Flüssigkeit. Zu
+kleine Späne gibt es nicht. Wenn ich zu klein reingehe, gibt es gar keinen Spanen. Dann kratze
+sich an der Oberfläche. Es bildet sich eine Furche, ein Kratzer, aber kein Schmarrn.
+Qualitätsschleifen hat auf jeden Fall das Ziel, eine bessere Oberfläche zu erzeugen.
+Und das Hochleistungsschleifen geht hier zurück. Also hier schneller und tiefer schleifen und mehr
+Vorschub, also größere Späne machen. Das hat das Ziel, mehr Produktivität, schneller fertig
+werden. Ich nehme die Schnittgeschwindigkeit hoch, ich nehme den Vorschub hoch, dann bleibt die Spanngröße
+gleich, die Kräfte bleiben eigentlich auch gleich, die Leistung geht aber raus, weil die Schnittgeschwindigkeit hochgeht,
+die Überarbeitungszeit geht runter, die Qualität wird nicht besser.
+Also tiefer, schneller ist das Ziel hier beim Hochleistungsschleifen.
+Bessere Oberfläche ist das Ziel beim Hochgeschwindigkeitsschleifen oder Qualitätsschleifen.
+Also hier merken, das hier macht man dafür, Hochwertungsschleifen macht man dafür.
+Gut, Kühlschmierstoff, das habe ich vorhin schon gesagt.
+was wir kühlen müssen, weil es sonst zu heiß wird.
+Ich wusste nicht, ob die Kuh hier drin ist, aber ich dachte, die habe ich rausgemacht.
+Ja, kühlt das Wärme, hat auch noch einen Vorteil.
+Der ganze Schleifstau, diese Späne, die sind nur Mikrometer groß, das ist wie Stau,
+der langt in den Kühlschmierstoffen und wird weggespült.
+Irgendwo muss er hin.
+Und wenn Funken entstehen, dann wird er gleich noch gelöscht, dass er nichts brennt.
+Diese ganz, ganz feinen Späne können übrigens brennen.
+Ja, die sind so klein von der Oberfläche her, dass sie brennbar sind.
+Da würde auch Eisen brennen.
+Mit so keinem Pulver.
+Na gut.
+Es gibt das Ganze als Öl.
+Meistens wird mit Öl geschnitten.
+manchmal mit Wasser-Öl-Bemischung
+in der Immersion.
+Beides funktioniert.
+Gut, genauer will ich da nicht drauf eingehen.
+Hier habe ich aus einem Handbuch
+eine Tabelle.
+Die sollen Sie nicht auswendig
+lernen können.
+Ich werde ein paar Sachen zeigen.
+Also, nehmen wir hier mal irgendein Schleifen.
+Das heißt nicht flach schleifen.
+Das ist gleich wie Flanschleifen.
+Was man hier hinten eine raue Tiefe bekommt, größer um 3 Mikrometer,
+beim spitzenlosen Schleifen bis 2 Mikrometer, das ist so die raue Tiefe, RT.
+Der Z ist dann schon unter 1 Mikrometer.
+Was sich hier da wirklich hinauszieht, wenn Sie etwas erst fräsen und dann schleifen,
+Dann müssen Sie beim Fräsen noch etwas Material übrig lassen.
+Und das ist das Verarbeitungsaufmaß.
+Beim Fräsen lassen Sie 2 Zehntel, 1 Zehntel, so ganz grob mal 1, 2, vielleicht 3 Zehntel Millimeter zu viel.
+Was Sie dann beim Schleifen nach ihr abnehmen.
+Das ist also ganz typisch.
+Ganz grob. 1, 2, 3 Zehntel Millimeter muss stehen bleiben beim Fräsen.
+fräsen. Das wird dann zum Schluss geschliffen. Das wollte ich noch zeigen. Die Farbe, das Aufmaß und
+die Genauigkeit, die man erreichen kann nach den Toleranzreihen IT4. Das heißt,
+Sie können auf 2, 3, 4, 5 Mikrometer genau schleifen.
+Fräsen, drehen auf 15 bis 20 Mikrometer.
+Also Genauigkeit ist deutlich besser, Oberfläche sowieso.
+Okay, bis dahin hat er Fragen, die ganze Zeit voll durchgeredet.
+Okay, dann gucken wir uns mal an, wie so eine Scheibe aufgebaut ist, das ist auch ganz wichtig.
+Wir wünschen uns von so einer Scheibe, dass sie eine hohe Warmhärte hat.
+Die muss die hohe Temperatur vergraden.
+Sie muss gut schneiden, also scharfkantig sein, chemisch beständig sein, zäh wäre auch gut, dass sie nicht bricht, wenn sie runterfällt.
+Aber wenn jetzt die Körner stumpf sind, sie schneiden eine Beine und diese obersten Körner werden stumpf und schneiden nicht mehr.
+Was passiert dann? Dann steigt die Kraft. Ein stumpfes Korn, wenn sie das Material drückt, erhöht die Kraft.
+Und dann brechen die Körner aus.
+Dann kann eben so ein Korn hier einfach abbrechen aus der Scheibe.
+Das macht gar nichts, das soll sogar so sein.
+Da unter sind die nächsten scharfen Körner.
+Da warten schon die nächsten scharfen Körner.
+Diese Scheibe wird beim Schleifen immer kleiner.
+Die stumpfen Körner brechen weg und sie haben immer scharfe Körner außen.
+Das ist die Idee.
+So wünschen wir es uns.
+Das ist der Selbstschärfeffekt.
+Also, ja, die äußersten stumpfen Körner sollen wegbrechen und neue Körner sollen dann zum Vorschein bringen.
+Das sind also die Wünsche an unser Werkzeug.
+Und wir gucken uns jetzt mal an, wie so ein Werkzeug aufgebaut ist.
+Das können wir ziemlich schnell machen, das kennen Sie nämlich alles schon.
+Das ist das Gleiche wie beim Fräsen, Drehen, Bohren auch.
+Wir haben hier verschiedene Möglichkeiten, woraus die Körner bestehen.
+Korund und Siliziumcarbid sind Keramiken.
+Das ist eine härtere Angabe.
+Wenn Sie noch härtere Körner haben wollen, nehmen Sie kubisches Bohrgetriebe oder Diamantkörner.
+Die haben Sie zur Auswahl, die sind noch härter.
+Also entweder Keramik, Diamant oder Kulturgetriebe. Wir brauchen einfach diese Härte.
+Korund, das eine Bezeichnung für Aluminium aussieht.
+Die Schleiferregel war von Korund.
+Und da gibt es unterschiedliche Sorten.
+Sorten. Normal-Korund hat eine Reinheit von 95%, Halbedel-Korund von 98%, Edel-Korund von 99,9%
+Aluminiumoxid. Das sind dann die teuren Sorten. Je höher der Aluminiumoxidanteil, desto härter.
+Und desto teurer. Oft braucht man das ja gar nicht.
+Ich kann da eine Schleifschaltung machen mit einfachen Körnern.
+95% Aluminiumoxid, die reicht völlig aus.
+Siliziumcarbid ist ein Tick härter.
+Weniger als 28 zu 20.
+Also ein Keramik, der noch ein bisschen härter ist.
+Wohngedreht noch härter, Diamant, dann steigen wir auf.
+Für bestimmte Ansätze.
+Also, Sie kaufen sich, wenn Sie eine Schneidschale machen, eine Tüte voll Körner.
+Keramikkörner, Diamantkörner, etc.
+Und die sortieren Sie nach Größe.
+Das wird angegeben mit der Körnung.
+Und zwar haben wir hier die Körnung, dann gibt es hier eine Zahl angegeben.
+Die Korngröße 10 hat z.B. Körner zwischen 2 mm und 2,4 mm.
+Richtig große Körner haben Körnung 10.
+Wenn Sie Schwirbelpapier kaufen im Baumarkt, da steht auch eine Körnung drauf.
+Da steht auf der Rückseite Körnung 400.
+Wissen Sie, was diese 400 bedeutet?
+400 was?
+Je höher die Zahl ist, desto feiner ist es.
+Das stimmt. Und was genau 400 ist das? 400 was?
+Ich weiß nicht ganz genau, wie ich es sagen soll, aber es ist einfach die Feinheit.
+Das ist schon richtig, ja genau. Die Zahl ist ganz konkret etwas.
+Und zwar, wenn Sie jetzt diese Körner erzeugen,
+Meine Diamantkörner. Sie erzeugen in großen Diamantkörnern, die sind alle unterschiedlich groß.
+Dann schieben sie durch ein Sieb. Ein sehr feines Sieb, da fallen einfach die feinen durch.
+Dann ein etwas groberes Sieb, da fallen die nächsten feinen durch und so weiter.
+Und dann schiebe ich meine ganzen Diamantkörner über die Siebe und dann am Ende fallen die ganz großen Diamanten durch.
+Also sind alle nichts wert, keine schönen Diamanten.
+Und diese Siebe, also das wäre ungefähr so, ich habe da Maschen, Draht, Sieb und Körnung 10 heißt, dass auf 1 Zoll oder 1 Inch 10 Maschen sind.
+Da kommt das her, ganz alte Bezeichnung.
+Also Körnung 10 heißt in diesem Sieb, da sind dann alle Schörner, die hier durchfallen, durch ein Sieb mit 10 Maschen auf 1 Zoll.
+Das kann man hier nochmal kurz nachchecken.
+1 Zoll sind 2,5 Zentimeter oder 25 Millimeter.
+1 Zoll.
+10 heißt, ich habe 2,5 Millimeter Maschenbreite.
+Und da fallen dann Körner durch die 2,4 x 2,0 Millimeter breit sind.
+Das ist schon plausibel.
+Und dann gibt es hier diese ganzen verschiedenen Sorten hier.
+Maschen 80, Maschen pro Zoll kann man ausrechnen.
+Ja, das ist dann nur noch 2 Zehntel Millimeter, was da durchfällt.
+Oder die ganz, ganz, ganz, ganz feinen 800 Maschen auf diese Länge, da fallen dann typischerweise Diamanten durch, die 3, 4, 5 Mikrometer dick sind.
+Die fallen dann da durch.
+Mit bloßem Auge sieht man ja nicht mehr.
+Da soll keiner daneben stehen und alle kräftig miesen, wenn man Diamanten mit 3, 4 Mikrometer vorhanden ist.
+Ja, die Körnung hier gibt an, wie groß die Körner sind.
+Und das hier zum Beispiel ist Körnung 80.
+80er Körnung.
+Was meinen Sie, ist das eine Scheibe zum Schuppen oder zum Schlichten?
+Das macht die gute Oberfläche, das ist eine Schlichtscheibe oder eine Schruppscheibe.
+Das ist eine grobe Schleifscheibe oder eine Scheibe.
+Ich würde sagen, die Scheibe der Grob- oder die gute Oberfläche.
+Vielen Dank.
+Das sind 80, dann sind wir qualiert. Hier steht aber schon Fein. Die ist gar nicht so schlecht und vor allem, für viele Anwendungen reicht es zum Feinschneiden.
+Für die allerfeinsten reicht es nicht. Das sind mittlere. Da kann man schon mit schlichten, aber nicht für die höchsten Anforderungen.
+Ich habe eine Masterarbeit betreut bei Daimler, also beim Bau des Mercedes, in der Motorenfertigung bzw. Kurbelwellenfertigung.
+Die Kurbelwellen werden geschliffen. Die brauchen eine Rautiefe von unter 2 Mikrometer.
+Die haben sich alle Mühe gegeben, dass sie die besten Mohrwerke machen und dann geht es mit der Scheibe gar nicht mehr.
+Die sind eben dort bei den ganz feinen Geräten, wobei wir in den 280er Scheiben, die reichen.
+Das geht zwar noch mehr, die hat noch keinen Diamanten, die hat ein kubisches Rohrnitrit,
+Aber das ist dann auch Korngrößen, 30 Mikrometer, das ist ja eigentlich winzig.
+Und dann kommt man eben auf ganz, ganz, ganz feine Oberflächen.
+Das hier ist so eine normale Scheibe.
+80er Körnung ist die allernormalste Scheibe, die am weitesten verbreitet ist.
+Oder hier nochmal die Körnung.
+bis 36
+sagt man ins Schrubbschleifen
+also wenn wir richtig kräftig erstmal
+etwas wegschleifen wollen
+bis 80
+das Feinschleifen
+und alles was dann drüber kommt
+das ist das ganz Feine
+das ist dann auch keine Keramik mehr
+da haben wir einen Diamant oder
+so kleine Keramik können wir kriegen sie gar nicht mehr
+ein kubisches Bollentrieb
+und das sind nicht nur
+diese Körner werden produziert
+die Diamantkörner, aber nicht nur für
+Schleifscheiben. Wenn Sie so Körner
+kaufen, können Sie auch polieren
+oder lecken oder holen oder was anderes
+machen.
+Aber die Schleifscheiben herstellen
+das aller, aller
+feinste Schleifen.
+Aber 80 ist eigentlich
+schon schlicht.
+Das ist schon eine sehr feine Scheibe.
+Im Keramik geht es nicht viel
+feiner.
+Noch feiner werden wollen,
+Wenn Sie so eine Scheibe anschauen unter Mikroskop, dann sehen Sie Körner und die sind zusammengeklebt mit einem Bindemittel.
+Da gibt es verschiedene Bindemittel.
+Aber irgendwie müssen die Körner jetzt zusammenkleben, dass das Ganze eine feste Scheibe wird.
+Und sie brauchen Bohleräume, sogenannte Poren.
+Das ist nicht komplett voll mit Klebstoff, sondern man guckt, dass immer ein gewisser Anteil an Poren ist.
+Poren haben den Vorteil, wenn hier Lücken sind, dass die Späne da reinkönnen.
+Wenn das Korn an Spanen wegschiebt, sammelt sich hier der Span und fliegt dann hinterher weg.
+Mit Bohren sammeln sich Kühlschmierstoff und Späne. Dafür sind die Bohren gut.
+Und je mehr Bohren es gibt, desto weniger Platz ist für Klebstoff.
+Je mehr Klebstoff drin ist, oder Bindemittel, desto weniger Bohren.
+Jetzt braucht man diese Bohren, dass die Späne da rein können und dass Kühlschmierstoff da rein kann.
+Das bedeutet aber, wenn Sie viele Poren haben, dass die Körner nicht so fest miteinander verpflegt werden.
+Das fehlt Ihnen dann an Klebstoff, an Bindemitteln.
+Deswegen muss das ein Kompromiss sein.
+Wie viele Poren und wie viele Bindemittel nimmt man denn jetzt?
+Da gibt es unterschiedliche Steinscheiben. Manche mit mehr und manche mit weniger Bindemitteln.
+Wir geben zwei Sachen an. Einmal die Struktur, wie viele Körner haben wir, Anteil des Korns.
+Wenn wir 80% Körner haben, so wie hier ungefähr, dann sieht man das Bindemittel gar nicht.
+Man sieht die Lücken dazwischen, aber hier ist wenig Bindemittel drin.
+Also wir haben die Kornmenge, das ist die Struktur, und die Porosität gibt an diese Poren drin.
+Und Porosität heißt viel Poren.
+Und da gibt es hier für die Beschreibung der Porosität eine Klassifizierung.
+Wir geben hier von sehr dichter bis sehr offener Struktur, das wird in der Zahl beschrieben, von 1 bis 14.
+1 heißt fast gar keine Poren, 14 heißt sehr viel Poren.
+Jede Schleifscheibe kriegt ein paar Daten, mit denen sie beschrieben wird.
+Das sind die Körner, was für Körner.
+Welche Körnung, wie groß sind die Körner?
+Wie dicht ist das Ganze?
+Die Proposität wird beschrieben mit einer Zahl, 1 bis 14.
+Als nächstes die Härte, von sehr weich bis sehr hart, da haben wir die Buchstaben von A bis Z.
+Und jetzt Achtung, das ist gemein, weil Härte meint nicht die Härte des Korns.
+Es ist nicht so, dass eine Diamantscheibe härter ist als eine Keramikscheibe.
+Die Härte bei Schleifscheiben meint etwas anderes.
+Nämlich, wie fest und zusammengeklebt sind die Körner.
+Oder es ist der Anteil des Bindemittels.
+Wie viel Bindemittel haben Sie drin?
+Haben Sie viel Bindemittel?
+Dann haben Sie wenig Poren.
+Und die Körner sind sehr fest miteinander verklebt.
+Dann reden wir von einer harten Scheibe.
+Haben wir mehr Porosität, haben wir weniger Bindemittel,
+dann sind die Körner nicht so fest miteinander verklebt, dann reden wir von einer Weichenscheibe.
+Was wollen wir? Weiche oder harte Scheiben?
+Kommt noch mal eine mögliche Antwort. Das Schöne an der Weichenscheibe ist,
+wenn so ein Korn dann mal stumpf wird,
+wenn es lange geschnitten hat
+und das Korn ist stumpf
+und die Kraft steigt,
+wann immer Werkzeuge stumpf werden,
+steigt die Zerspankraft.
+Wenn die Kraft steigt und die Scheibe ist weich,
+dann bricht das Korn weg.
+Und dann haben Sie wieder
+die stumpfen Körner weg,
+darunter sind wieder scharfe Körner.
+Sie können ewig schleifen
+und haben immer scharfe Körner.
+Bei einer weichen Scheibe,
+bei einer harten Scheibe,
+brechen die Körner nicht weg.
+Die sind so fest eingeklebt,
+dass die Körner bleiben.
+Die Stumpfen.
+Und dann bleibt immer Stumpf.
+Und jetzt muss man gucken, was man möchte.
+Eine weiche Scheibe hat diesen
+selbststärksten Fett.
+Stumpfe Körner brechen aus.
+Bei einer harten Scheibe
+müssen wir dann ab und zu mal
+alle 10 Minuten
+die oberste Schicht
+wegbrechen
+durch sogenanntes Abrichten.
+Dann fahre ich mit der Schleifscheibe
+zum Abrichten
+und breche einfach die oberste Schicht weg.
+Dann habe ich auch wieder Schachbefragung.
+Aber ich muss es manuell machen.
+Beim Selbstschärfeffekt brechen die Scheine
+von alleine weg.
+Das ist natürlich viel bequemer.
+Dafür ist der Verschleiß der Scheibe höher.
+Die wird immer kleiner.
+Gut, also.
+Je härter, desto weniger Verschleiß, die Körner brechen einfach nicht weg.
+Dafür arbeite ich an den stumpfen Körnern.
+Je weicher, desto höher der Verschleiß, die Körner brechen schneller weg.
+Ich habe immer scharfe Körner.
+Und ich muss ja immer den richtigen Kompromiss aussuchen.
+Das wäre dann A bis Z und weich bis sehr hart.
+Dann kommt es auch darauf an, woraus besteht das Bindemittel.
+ist das ein Ton, ist das eine gummiartige Verbindung, was nehme ich als Bindemittel?
+Da will ich gar nicht so sehr drauf eingehen.
+Es gibt die mineralischen Bindungen, die Keramik, das ist sehr beliebt, als Klebstoff, Keramik,
+das hält an den hohen Temperaturen aus.
+Sie können auch Harz oder Gummi nehmen, aber dann nicht bei hohen Temperaturen,
+da wir sind doch empfindlicher, was hohe Temperaturen angeht,
+das ist eher Richtung
+polieren oder
+so ein Feinschleifen.
+Wenn Sie mit Gewalt schleifen wollen, wie hier,
+dann hat man hier eine keramische Bindung
+und das ist eigentlich das, was man
+meistens hat.
+Also hier, keramisch ist das
+nicht normal.
+Gut,
+ich will da mal nicht so weit rein.
+Und dann noch zwei Seiten.
+Zwei, zwei, drei,
+das ist die Normalscheibe.
+Von der Seite
+gesehen, ist das diese hier. Ja, die gerade Scheibe. Es gibt ganz viele Scheiben, nicht zum auswendig lernen, ich will nur
+erschrecken mit dieser Folie. Es, die sind alle genormt. Es gibt welche, da fehlt halt in der Mitte was, da
+möchte ich wieder beitschleifen. Hier haben wir die Zellerscheibe, Zellerscheibscheibe der anderen Form,
+kegelige Scheibe, Dreizylindertopfscheibe und so weiter. Es gibt sehr, sehr viele verschiedene
+Und sie sind alle genau an jedes Gesamtzweck. So eine Topfschleifscheibe, wie die hier unten,
+nehmen Sie zum Beispiel auch zum Planschleifen her. Das wäre, auch wenn man es nicht gesehen hat,
+das ist das, was sich hier unter versteckt.
+Unter diesem Topf versteckt sich so eine Scheibe.
+Das ist also keine Scheibe wie Ida, sondern eine, die so runter geht und sich dann so dreht.
+Und dann eigentlich nur im Kreis herum dreht.
+Dann nimmt man halt dafür so eine.
+Oder es können auch Kegelige sein.
+Aber nicht so eine Steinscheibe wie wir. Das hatten wir schon.
+Die sind dauer-einkräftiger zu heiß.
+Da gibt es für jede Anwendung eine eigene definierte Schleifscheibe.
+Die meisten aber sind dann einfach diese hier.
+Die Graben.
+So, und nachdem wir jetzt die ganzen Eigenschaften durchgegangen sind, machen wir nur noch diese Seite hier.
+Es gibt nicht wie eine Schleifscheibe.
+Wir brauchen verschiedene.
+Eine Schleifscheibe kann man nutzen.
+Hier ist zum Beispiel oben eine, die besteht aus Normalkorum. Normalkorum ist eine billige, der nicht ganz so reine Aluminiumoxid-Keramik-Korn, die Scheibe.
+Also kostengünstig, Normalkorum. Die Krönung ist sehr, sehr grob. Das ist wirklich eine Scheibe zum Schwuppen.
+Sehr grobes, großes Korn.
+Die Härte ist, das ist ein Lieferant.
+Ich habe bei einem Lieferanten geschaut, was er liefern kann.
+Liefert er D, E oder F?
+Jetzt gehen wir noch mal kurz zurück.
+Wir sind hier bei einer sehr weichen Scheibe.
+Die Schmuckscheibe bekommt eine sehr weiche Härte.
+Warum?
+Ja, weil, das heißt, wenn Sie schon schrumpfen mit großer Leistung, dann wollen Sie wenigstens scharfe Körner haben, dass die Kraft nicht zu groß wird.
+Und scharfe Körner haben wir, wenn wir schrumpfen, schnell wegbrechen und das haben wir hier, wenn die Härte gering ist.
+Kleine Härte heißt scharfe Körner und das brauchen wir, wenn wir mit großer Leistung schrumpfen.
+Der Flügel ist dicht, also viele Körner, keramische Bindung für hohe Temperatur.
+Das wäre eine typische Struckscheibe.
+Auf der anderen Seite schauen wir uns die noch an.
+Eine Diamantscheibe hat er im Angebot.
+Aus Diamantkörnern, extrem fein.
+280 bis 600er Körner.
+Eine extrem feine Schleifscheibe.
+Für die besten Oberflächen, da hat er als Härte, bietet er an, der Hersteller YZ, das Allerhärteste.
+Warum? Die Diamantkörner sind so teuer, dass sie nicht von alleine wegbrechen sollen.
+Das muss er natürlich manuell machen.
+Da will man, dass die möglichst lange halten, dass sie nicht so teuer sind.
+Also Diamant, große Härte.
+Das Ganze ist für sehr hohe Schnittgeschwindigkeiten, deswegen ist es auch porös, dass man gut mit Kühlschmierstoff reinkommt.
+Diamanten muss man auch gut kühlen. Sie erinnern sich an den Diffusionsverschleiß.
+Wenn Sie gehärteten Stahl mit einer Diamantscheibe bearbeiten, ist die Gefahr von Diffusionsverschleiß.
+Hier ist das Ganze relativ porös, dass viel Kühlschmierstoff reinkommt, viele Nücken drin sind, viele Proben.
+Und dann haben wir alle Scheiben
+dazwischen. Die 80er Scheibe
+wäre hier,
+also
+normal, nicht der,
+da steht gar nichts.
+Nehmen wir,
+mit der Größenordnung,
+die normale Schlichtscheibe,
+so wie unsere, bietet er dann an
+in seiner mittleren Härte.
+Eher ein bisschen härter.
+Und je teurer und feiner
+Wenn man das Ganze rührt, desto härter wird die Steinscheibe.
+Gut, dann machen wir Schluss für heute.
+Ich schreibe es nochmal.
+Nächstes Mal 5 Minuten nach 12.
+Und dann haben wir es alle nicht so eilig in den Werft.
+Dann heute, wir tauschen die Gruppen, Sie vier gehen zum Drehen.
+Sie machen nächstes Mal, sagen einander Bescheid.
+Ich hoffe, Sie können nächstes Mal, obwohl Sie können heute eh nicht.
+Da wünsche ich viel Spaß nachher.
+Ja, das ist gut.
+Er hat gesagt, dass er um 2 Uhr da ist.
