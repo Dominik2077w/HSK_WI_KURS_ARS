@@ -1,0 +1,886 @@
+...Temperatur oder Energie sein, die die beiden Bauteile vor dem Zusammendrücken heiß gemacht wird.
+Entweder eine Reibung.
+Eine Reibung, okay. Deswegen hatte ich das schon gezeigt.
+Wenn ich reibe, kriege ich aber eine kontinuierliche Temperatur über den ganzen Querschnitt ganz gut hin.
+Und tatsächlich sieht ein zusammengedrücktes Bauteil im Reibprozess immer sehr schön aus, was diesen Wulst angeht.
+Den gucken Sie sich hier doch schon mal an.
+Das ist schon ein Unterschied zu dem Gerät hier.
+Hier tut man sich ja fast weh dran und da ist es letztlich an der Stelle schon ein sehr ansinnlicher und eben auch nicht verletzungswürdiger Wulst.
+Gut, das mit dem, was Sie gerade gemacht haben, können Sie gerne mal probieren, ob Sie das kaputt kriegen, das Ganze.
+Also da...
+Danke.
+...definitiv nicht.
+So, also, reiben halt mal jetzt, das ist ein anderer Prozess. Was könnte es noch sein?
+Ich kann ja irgendwie von der Seite Temperatur reinbringen, aber da habe ich das Problem, dass zum einen ich auch die Stellen heiß, gut, das mache ich sowieso, die Stellen heiß mache, die ich eigentlich nicht schweißen möchte und dadurch halt irgendwie Verbiegungen kriegen kann.
+Ich müsste halt die Temperatur außen über die ganze...
+Genau. Und was für Energiequellen? Das haben wir alles schon kennengelernt.
+Was gäbe es denn alles an Energiequellen?
+Das war so in der ersten Vorlesung mit dabei.
+Ich könnte einfach mit einem Gasbrenner hier drauf geben.
+Und das wäre natürlich jetzt nicht das, was ich Ihnen gezeigt habe, so ein einseitiger, sondern so ein Ringbrenner,
+Der einfach ringförmig verschiedene Auslässe hat, der würde das auf dem Ring heiß machen und wenn es dann tatsächlich fast anfängt zu schmelzen, drücke ich es zusammen.
+Ich muss Platz lassen, da haben Sie völlig recht.
+Sonst, wenn ich die schon vorher zusammendrücke, wird es ein bisschen schwieriger, da die Temperatur reinzutreten.
+Aber würde tatsächlich auch funktionieren.
+So, aber dann haben wir alles andere.
+Wir könnten Lichtbogen nehmen, wir können Photon, wir können alles mögliche machen.
+Was wir auch zum normalen Schweißen nehmen, könnten wir hier als Temperaturquelle nehmen, damit das Bauteil so temperiert ist, dass ich es zusammenrücken kann.
+Und tatsächlich reden wir hier vom Abbrennstumpfschweißen.
+Und das heißt nichts anderes, dass jetzt ein Strom zwischen diesen beiden Parteien fließt, der hier zwischen letztlich einen Lichtbogen erzeugt.
+Also wenn die beiden Bauteile, so müssen Sie sich das natürlich vorstellen, noch getrennt sind, zünde ich nicht jetzt extern, sondern einfach zwischen den Bauteilen einen Lichtbogen.
+Der brennt, der schmilzt mir meine Bauteile eben an und dann drücke ich sie zusammen.
+Was könnte aber das Problem sein?
+Also ich mache den Zwischenraum heiß quasi.
+Ja genau, ich mache einfach den Zwischenraum heiß.
+Und da brennt ein Lichtbogen.
+Und das mit dem Lichtbogen, weil ich brauche ja eine Stromquelle.
+Ich brauche hochamperig, also irgendwie ein paar hundert Ampere, die eben Temperatur über den Stromfluss bringen.
+Aber wir haben keine Widerstandserwärmung, sondern wir lassen Platz dazwischen,
+dass gerade so dieses Plasma eines Lichtbogen entstehen kann und der brennt dazwischen und dann drücke ich das Ganze zusammen.
+Das geht bis Querschnitte, bis diese Dimensionen.
+So.
+Wie soll denn der Lichtbogen aussehen, wenn ich so eine Dimension habe?
+Das ist immer ein Star Wars Bereich.
+Ja, genau. Das...
+...funktioniert nicht. Kriegen wir zumindest noch nicht hin.
+Also gibt es einen ganz einfachen Trick.
+Egal welche Oberfläche. Wenn Sie sich jetzt einfach die Oberfläche
+zum Beispiel anschauen. Die ist irgendwie geschliffen,
+gedreht. Das heißt,
+Wenn Sie die jetzt mal ganz genau angucken, ist die nicht plan eben, sondern so eine Berg- und Talbahn.
+Das gleiche gilt auch für die Gegenseite. Die ist auch mehr oder weniger gerade.
+Und das heißt, wenn ich die beiden jetzt auf Abstand zusammenbringe, gibt es immer die Berge von beiden Teilen, die näher aneinander sind.
+Und genau da brennt nur der Lichtbogen.
+Und wenn der brennt, dann brennt er die Berge ab und dann kommen andere Berge, die plötzlich höher sind.
+Dann springt der Lichtbogen zu der Seite und schmilzt die auf.
+Sodass auch große Querschnitte in diesem Sprungfunktionen plötzlich die Lichtbögen quasi über das ganze Bauteil rennen,
+bis eben tatsächlich alles angeschmolzen ist und dann drückt es das Ganze entsprechend zusammen.
+Wie weit sind die dann auseinander?
+Wir reden hier nur von irgendwelchen Zehntel Millimetern.
+Achso, weil ich habe mich schon gefragt, weil die Luft ja brutalen Widerstand hat.
+Selbstverständlich, genau. Also das darf man sich tatsächlich auch wieder nicht so vorstellen.
+Ich bin schon am Drücken tatsächlich, weil sobald die ersten Berge, die kriegen schon eine Verbindung, so nah bin ich zusammen.
+Aber es gibt ja immer noch die Täler, die quasi immer noch Luft dazwischen haben und da brennt dann als nächstes der Licht.
+Und warum bringe ich die dann nicht gleich ganz auseinander?
+Weil die Energie sonst nicht ausreicht, um es anzuschmelzen.
+Weil man dann plötzlich den ganzen Bereich aufwärmt?
+Und das haben wir ja gerade festgestellt, à la Star Wars, ich kriege keinen Lichtbogen, der so einen dicken Querschnitt eben auf einmal heiß machen kann.
+Okay.
+So, also der heißt, der muss jetzt über diese Fläche sich kontinuierlich aufbauen.
+So, und das heißt, das habe ich jetzt gar nicht dabei, aber was für ein Bauteil können sich denn jetzt,
+Und jetzt, also erst mal das baut er, um das mal aufzuklären, das war nur ein Versuchsteil zwischen letztlich einem Krumm-Nickel-Stahl und eben so einem Betonstahl.
+Das Ganze hier, diese Rüfflung letztlich, aber zum Beispiel die Hilti, wenn die Bohrer machen, ja, dann gibt es den Schaft des Bohrers und den Schnellarbeitsstahl hier vorne und die schweißen im Sekunden.
+Also, ich glaube, Schweifzeit liegt bei zwei Sekunden, weil Sie müssen sich jetzt diese Lichtbogenspringerei extrem schnell auch noch vorstellen.
+Das heißt, der ganze Querschnitt wird innerhalb von wenigen Sekunden komplett aufgeschmolzen und dann wird das Ganze zusammengedrückt.
+Fast nicht sichtbar.
+Aber was wir jetzt hier letztlich sehen, ist dadurch, dass ich quasi so verschiedenartig aufschmelze und dann zusammendrücke,
+sehen Sie, was passiert. Das ist jetzt nicht ein Wulst, sondern das irgendwie spritzt das, macht das in alle möglichen Richtungen.
+Aber dadurch, dass ich doch am Ende des Tages alles heiß gemacht habe, gibt es auch eine sehr gute Verbindung.
+Das können Sie sich vorstellen, eine Bohrmaschine oder ein Schaft, der jetzt irgendwelche,
+Hilti verbinde ich immer so mit den ganz großen Bohrsystemen, die auch richtig Drehmoment haben.
+Das muss natürlich auch eine entsprechende Festigkeit haben.
+der Stelle. So. Passiert irgendwas mit dem, also mit den Stellen auf beiden Seiten? Passiert quasi
+nichts? Sie werden kaum heiß? Das kommt nämlich auch noch dazu. Das Schöne an der ganzen Geschichte
+ist, auch gerade bei sensiblen Stählen, dass das so schnell passiert, dass über Wärmeleitungen auch
+kaum was verloren geht. Ein bisschen schon, das sieht man hier auch, das wird schon ein bisschen
+bisschen heiß. Anfassen können sie es danach trotzdem nicht, aber im Vergleich zu einem
+Lichtbogenprozess, der ja sowieso die Mühe, also ein Schweißbrenner, sage ich mal, wenn
+ich da drum herum fahre, der hätte ja sowieso erstmal das Problem, dass er auch in die Mitte
+rein muss. Wenn ich von außen nur die Temperatur aufbringe, ist es ganz schwer, da überhaupt
+in die Mitte reinzukommen. Aber dadurch, dass der Lichtbogen innen brennt und entsprechend
+wechselt, habe ich da keinen Stress. Nur weil ja die, also der Strom wird ja durch beide
+Enden durchgeleitet werden. Aber das interessiert den Stahl nicht bis zu der Verbindung und da wird
+dann plötzlich heiß. Ja, also wenn man es ganz genau wissen will, auch der Stromfluss im Metall
+hat immer einen Widerstand. Das heißt, auch über den Strom ist ein Widerstand und damit eben auch
+ein Verlust und eine gewisse Aufwärmung. Aber nichts im Vergleich zu dem, was hier im Lichtbogen
+glitzert. Weil die Luft dazwischen ist und die Luft halt den hohen Widerstand erzeugt. Genau.
+Widerstand lassen wir mal weg
+als Begrifflichkeit an der Stelle
+ja, das gibt es auch
+aber eigentlich, weil da der Lichtbogen plötzlich brennen kann
+und der Lichtbogen erzeugt
+meine Temperatur
+ok
+was könnte denn jetzt
+eines der Hauptanwendungen
+neben Bohrerspitzen oder so weiter sein
+haben Sie
+eine Fahrradkette zu Hause
+also richtig mit
+Kettengliedern so, das ist die Geschichte
+meinte ich, Ketten kennen Sie doch alle
+also nicht die Fahrradkette
+zum Antrieb, sondern jetzt die Kettenglieder
+zum Sicherheitssystem
+oder die Ankerkette beim Schiff
+wie können Sie
+Sie wissen alle, das sind letztlich
+solche ovalen Profile
+wie werden die hergestellt
+wie kriege ich denn ein Glied ins nächste
+ein Stab
+ich muss tatsächlich so ein Stab nehmen
+muss den biegen und dann
+ja, dummerweise, ich muss ihn schweißen, oder?
+und ich muss ihn erst dann schweißen
+wenn das eine Kettenglied in das andere
+überführt ist, wenn die sich verhaken
+ja, sonst kriege ich
+das ja nicht rein, also schweiße ich
+genau sowas und genau auch
+mit diesem Verfahren danach, weil
+Sie können sich das vielleicht vorstellen
+wenn das ist meine Oberseite, das ist
+meine Unterseite vom Kettenglied und
+links und rechts ist ja zu
+und wenn ich jetzt anfange hier mit dem
+Schweißbrenner oder mit dem Laser irgendwas zu machen, spätestens von da unten komme ich nicht dran.
+Jetzt nochmal wieder mit meinem Lichtbogen, der jetzt kontinuierlich da drinnen brennt,
+den juckt das nicht, dass hier unten quasi zu ist.
+So, das heißt, hier haben wir jetzt die Methode, wie sämtliche Ketten geschweißt werden.
+Und das zu solchen Dimensionen, also auch die Supertanker-Ankerkette wird genauso hergestellt.
+Einmal verbunden, nie wieder getrennt.
+Das ist so.
+Aber vielleicht können Sie das zu Hause mal nachvollziehen.
+Wenn ich jetzt so eine Naht habe, dann würde sich ja jeder an so einer Fahrradkette, Sicherheitskette verletzen.
+Das würde ja nichts anderes bedeuten wie, ja, geht nicht.
+Das heißt, wenn Sie sich das genau anschauen, die Kettenglieder, mache ich einen mechanischen
+Stanzprozess und schiebe mechanisch nochmal bis auf einen ganz kleinen Wulst, der stehen
+bleibt.
+Das Material wird abgeschert, damit ich mich eben nicht verletzen kann.
+Und jede Kette hat diesen kleinen Wulst, aber sehr flach, weil ich mechanisch das Ding eben
+weggebracht habe.
+Wenn ich das Ganze reibtechnisch machen würde, wie bei dem Teil, wäre das natürlich viel schöner,
+müsste ich vielleicht auch gar nicht den Wulst wegarbeiten.
+Das Blöde ist eben nur, ich kann ja nicht separat drehen, ich bin ja unten verbunden.
+Ja, also wenn ich jetzt diese Kette, wieso soll ich die denn gegeneinander drehen, das geht natürlich nicht.
+Okay? Gut.
+So sieht so eine Maschine aus, ja das Kettenglied könnte jetzt quasi hier auch rumlaufen, das würde
+überhaupt nicht stören. So und wenn Sie sich eben sowas anschauen, dann brennt hier eben der
+Lichtbogen und das spritzelt und das macht und das Spritzeln ist nichts anderes wie das. Schauen Sie
+sich das mal an, was da passiert.
+So sieht das Ganze aus.
+Weil ja diese ganzen Berge so schnell
+eben aufgeschmolzen werden und die
+ersten, die kriegen so viel Temperatur,
+dass sie dann eben auch einfach rausgetrieben
+werden. Sodass
+ich Ihnen nicht empfehlen kann,
+neben so einer Maschine zu nahe zu stehen,
+weil das eben immer genau so eine Konsequenz
+hat, wie hier dargestellt.
+So, und wir haben
+hier auch noch ein weiteres
+Thema, dass wir hier mit Schienenstößen
+schweißen können.
+Weil das ist zwar ein Grundprofil, was ich Ihnen gezeigt habe, aber auch beliebige Profile kann ich so miteinander verbinden.
+Und Sie wissen, Schienenprofil, oben dick, dann ein schmaler Steg, unten wieder dick.
+Die genauso aneinandergelegt, der Lichtbogen springt jetzt wieder und dann drücke ich das zusammen.
+Aber der Clou, wir hatten ja auch dieses Thermikschweißen gehabt bis jetzt,
+dass jetzt an der Stelle, an dieser, man sieht es vielleicht hier noch besser,
+da sehen Sie es auch wieder hier, dass es da so spritzt.
+Aber diese Mechanismen müssen natürlich immer eine Schiene auch hinholen.
+Das heißt, die ziehen eine gegen die andere.
+Und das funktioniert nur, wenn diese Schiene eben auch beweglich ist.
+Wenn ich jetzt nur eine Reparatur mache und links und rechts fest ist,
+dann kann ich mit dem Verfahren nichts machen.
+Aber ist es nicht auch bei einer Mobil...
+Also selbst so eine Schiene ist ja schon so unfassbar schwer.
+Ja, da muss ich anständig Kraft haben, um die auch tatsächlich ziehen zu können.
+Und das ist immer noch besser als das Terminschmeißen?
+Das ist natürlich viel, viel schneller, viel, viel effizienter und alles.
+Und bei Neuverlegungen wird man natürlich vorzugsweise genau damit umgehen.
+Es gibt ja 20 solcher Züge, die haben Sie vielleicht mal gesehen, diese Reparaturzüge, diese gelben,
+die da manchmal auf dem Gleise stehen, die machen alles im Personal.
+Da wird das Gleisbett neu gemacht, neue Schotter rein, neue Schwellen und dann kommt zum Schluss die Schiene.
+Und dann kommt ganz zum Schluss eben der Schweißapparat, der den Schienenstrang dagegen stößt.
+Das ist echt eine interessante Geschichte auch.
+So, und hier nochmal, das wäre das Kettenglied und das sind diese kleinen Wurzeln, die dann an jedem Kettenglied letztlich dran sind.
+So, dann können wir uns, bevor wir tatsächlich wieder zum Reitschweißen zurückkommen, machen
+wir mal kurz eine weitere Idee, die jetzt nichts mit solchen Profilen zu tun hat, sondern
+die haben was damit zu tun, wenn ich dick an dünn schweißen will.
+Unschwer zu erkennen, was das ist, oder?
+Das ist irgendwie ein Gewindestift.
+Und das heißt nichts anderes, wenn ich ein Funktionselement,
+ein Innengewinde, Außengewinde, ich habe Ihnen auch nochmal was anderes mitgebracht,
+einfach eine Mutter, wenn ich die irgendwo an irgendwas dran brauche,
+kann ich jetzt mit diesem Verfahren tatsächlich einfach, sage ich mal, eine Mutter irgendwo anschweißen.
+So, springen wir erstmal da rein, schauen sich den mal an, schauen sich das mit der Mutter an.
+Das ist abgefallen, ja genau, meine Frage. Was ist denn da passiert?
+Ja, aber schauen Sie sich mal genau die Fügelverbindung an.
+Ja, unten ist gut, aber ist es tatsächlich am ganzen Umfang irgendwie, hat das da geklappt?
+Ist das so ein bisschen angeschmolzen?
+Also tatsächlich hat das die Verwandtschaft zu diesem...
+Also wir müssen jetzt ins nächste Skript nachdenken.
+Also wir reden jetzt...
+Oder so, genau. Alles klar.
+Geht auch.
+So.
+So, wir reden hier bei dem Verfahren auch wieder von einem Lichtbogen, das wollte ich eigentlich sagen.
+Nur dass jetzt nicht nur rotationssymmetrische Sachen oder irgendwelche Rundprofile, sondern alles mögliche, also eckig, rund, dick, noch dicker, irgendwelche dicken Bolzen, die hier irgendwo aufgesetzt werden können.
+Ich gebe mal das dazu. Das klären wir gleich, wozu das gut sein soll.
+Und was habe ich noch? Ach, den habe ich noch. So, Test.
+Noch ein kleiner Bolzen. Wozu soll der gut sein?
+Wozu könnte ich so einen Bolzen auf so einem Blech vertragen?
+Also das Ding ist jetzt, das wäre gerade. Das ist einfach nur mal getestet.
+Es ist gewogen, ob es hält. Hat aber gehalten. Gar nicht schlecht.
+gar nicht schlecht. Was mache ich mit so einem Bolzen auf der Oberfläche?
+Ja, irgendwie als Verbindungsselement.
+Ja, genau. Habe ich Ihnen noch mitgebracht.
+Wenn Sie sich den mal anschauen, das ist so ein Clip-Element.
+Letztlich so ein Plastikteil, was wieder so eine Schiene,
+was irgendwie wieder in eine andere Richtung verbunden werden kann.
+Und das kann ganz einfach hier aufgeschoben werden
+und dann ist es auch gefixt.
+Lässt sich auch sogar drehen.
+Das ist jetzt so ein Klick-Element letztlich, was aber nur funktioniert, weil auf dem Stahl selber eben so ein kleiner Bolzen aufgebracht worden ist.
+Das können Sie sich mal durchgucken.
+Okay.
+Also haben wir jetzt die Aufgabenstellung, dick auf dünn irgendwie aufzubringen.
+Und das heißt wiederum, da muss ich jetzt irgendwie drauf.
+Also das Verfahren heißt Lichtbogen, da gehen wir jetzt mal drüber, bringt auf uns wieder
+Hier nochmal diese Auflistung in den Bereich hinten rein, der die Presspreisung ist.
+Das lassen wir mal weg, dann gucken wir uns direkt das mal mit diesem Bild an.
+Sie sehen, wenn Sie sich diese Teile anschauen, da ist ein Bolzen,
+Da brauche ich einen Abstand und den drücke ich, sobald das hier unten entsprechend heiß geworden ist,
+sogar angeschmolzen ist, drücke ich den einfach mit Macht da rein.
+Da brauche ich mich nur noch darüber unterhalten, wie mache ich das mit dem Lichtbogen,
+wie lange lasse ich den brennen und Thema, wie wir es auch beim Lichtbogen schweißen hatten,
+deswegen auch hier diese entsprechende Keramikhülse.
+Die braucht es letztlich, um es schön gemütlich für den Lichtbogen zu machen, weil jetzt anders heißen, dass von außen wieder mein Luftsauerstoff da nicht hin kann und mir meine Naht irgendwie kaputt macht.
+Das heißt, wenn der Lichtbogen brennt, wird ja der gesamte Sauerstoff, der jetzt hier in diesem Bereich unterwegs ist, mitverbrannt.
+Das ist nicht dicht, das ist klar, aber trotzdem sorgt es dafür, dass in dieser Atmosphäre sehr wenig Sauerstoff unterwegs ist.
+Und damit, wenn ich den zusammendrücke, ich eben gute Ergebnisse erzielen kann.
+So, solche Clips oder eben solche Gewinde, wo findet man die?
+Schrauben Sie Ihre Waschmaschine zu Hause auf, innen drinnen jede Menge solcher Anbau.
+So, und wenn Sie sich das eine Blech nochmal anschauen mit den drei Pins drauf, das da,
+das ist zwar ein bisschen leicht korrodiert, wenn Sie jetzt aber mal von der Rückseite
+aufgucken, sehen Sie da irgendwas? Neben Korrosion. Und das ist jetzt nämlich genau der Clou.
+Wenn Sie versuchen, diese Bolzen mit einem anderen Verfahren zu machen, würden Sie auf
+der Rückseite das auch sehen. Gehen Sie mal in Ihre Waschmaschine zu Hause oder Geschirrspüler
+oder Kühlschrank, spielt gar keine Rolle. Dünne Bleche außen und trotzdem eben irgendwie
+eine Möglichkeit, um Verkabelung irgendwie anzuschrauben. Und wenn Sie da quasi viel
+Temperatur hätten, würden sie im Lack, also ihre Kühlschrankwand würde so perforiert
+aussehen. Überall solche Stellen, wo Temperatur auf den Lack hätte, quasi anders aussehen
+lassen, wie an der Stelle, wo eben nicht geschweißt worden ist. Und das ist eben bei dieser Temperatur
+wieder gezielt schnell, extrem schneller Prozess und damit eben auch, sage ich mal, nur das
+Bauteil angeschmolzen und nicht das ganze Blech irgendwie kaputt gemacht.
+Okay und deswegen hier diese Umhausung. Können Sie auch noch mal nach hinten geben.
+Jetzt müssen wir uns nur noch darüber Gedanken machen. Da gibt es jetzt einmal zu
+diesen dicken Bolzen, ein kleines Filmchen, um zu zeigen
+So, also so sieht jetzt sowas in Action aus.
+Das wäre dieser Bolzen der Dicke, den wir da sehen, sogar noch ein bisschen dicker.
+So, dann werden diese Krummhausungen da aufgestellt.
+So, so geht das jetzt dahinten.
+Wozu könnte der Bolzen gut sein? Also andere Dimensionen, viel größer auf diesen Doppel-T-Träger.
+Das ist natürlich der Klassiker im Brückenbau. Das heißt, große Brücken, aber Fußgängerbrücken,
+die jetzt einen großen Träger haben, kriegen solche Bolzen aufgeschweißt, damit ich danach
+mein Holzpanel da quasi entsprechend einbauen kann und die wieder fest mit der Untergrundverbindung
+oder die Straßengelege oder sowas werden so entsprechend fixiert.
+So, das haben wir immer noch nicht geklärt.
+Gucken wir uns jetzt mal, das sieht ja relativ klassisch aus,
+das ist auch ein ganz klassischer Prozess.
+Lichtbogen, es gibt sowas mit Kondensatoreinladung,
+Entladung, das heißt sehr schnell Strom rein und über eine kleine Spitze ins Bauteil, alles geht
+sehr sehr fix, das wäre dieser Bolzen da hinten. Bei größeren Dimensionen funktioniert das so
+schnell nicht mehr, da wird letztlich über eine längere Zeit ein Lichtbogen gezündet, so wie
+Sie es gerade im Film gesehen haben. Das heißt länger, das waren ja auch nur ein paar Sekunden an der Stelle. Gut. So, was kann man jetzt
+zu entwickeln? Was würden Sie jetzt, jetzt frage ich Sie mal als Chefentwickler, jetzt kennen Sie
+solche Prozesse, die gibt es schon viele Jahre, was machen wir jetzt? Was würden Sie verbessern?
+Was würden Sie wirtschaftlicher machen an diesem Prozess? Ja?
+Also ich bekannte das Kaleden war ja irgendwas, was man vielleicht auch automatisieren kann,
+Wir geben das dem Roboter in die Hand, dann könnte der das genauso machen.
+Wir müssen natürlich beim Bolzen irgendwie das nachladen.
+Wir müssen irgendwie so eine Revolver-Geschichte machen oder so eine Magazinsache,
+dass der Roboter kontinuierlich eben seine Bolzen dazu bekommt.
+Okay, was noch?
+Man könnte ja diese Keramikhülse an das Werkzeug dran machen,
+dass man da nicht die ganze Zeit manuell...
+Auch gut, sehr gut. Ja, okay.
+Ja, aber, ähm...
+Nee, hab ich den nur zu Ende fahren lassen?
+Wozu brauche ich denn eigentlich diese...
+Gucken wir mal, ob er das auch gleich noch macht.
+Wenn das Thema jetzt erledigt ist...
+So, das wollte ich zeigen.
+Siehe da.
+Gucken wir mal über den Hammer hinweg.
+Da sehen wir die Schweißung, die da erfolgt ist.
+Die jetzt wieder konnte ich nicht über den gesamten Querschnitt.
+Das ist ja wieder dieser Lichtbogen.
+So, und das heißt, wozu war jetzt die Keramikdüse, die sollte die Luftsauerstoff quasi ein bisschen fernhalten,
+aber gleichzeitig hat es auch hier meine Naht eingeformt, weil wenn die schmelze, wollte sie wegspritzen, konnte sie aber nicht, weil es gegen die Keramikdüse eben sich bewegt hat.
+Und das heißt wiederum, meine Schweißung, das sehen Sie da ja auch an diesen Bauteilen,
+gibt auch einen gewissen Wulst wieder und damit eine Kontinuität.
+So, also jetzt sind wir nochmal bei der Entwicklung.
+Jetzt haben wir festgestellt, wir können automatisieren.
+Ja, wir könnten auch mit dieser Keramik was machen.
+Gibt es aber nicht eine bessere Lösung noch, statt Keramik irgendwas zu machen?
+Wie kann ich den Luftsauerstoff noch wegbringen?
+Ja?
+Also ein Schutzgas, das ist der Süße mit dabei, oder?
+Ja, ich kann genau bei dem Verfahren einfach sagen, ich will das nicht haben,
+ich bringe Schutzgas mit rein, dann habe ich den gleichen Schutz.
+Vielleicht sogar noch besser.
+Aber wie mache ich das mit der Einformung, damit eben mein Material nicht einfach zu den Seiten wegspritzt
+und eine schöne Wulst erzeugt?
+Magnetfeld. Das heißt, die Neuentwicklungen sagen nichts anderes. Da kommt ein eingeschränktes Magnetfeld, was gegen nur die Aufgabe hat, die Schmelze festzuhalten, bis er erstarrt ist.
+Und da steht es drauf, dieses SMR, das sind letztlich eine Entwicklung von der Firma Sauer, die haben vor Jahren genau das entwickelt.
+So, und deswegen, ein nettes Gimmick ist hier dieser kleine Werbefilm, um mal konventionelle Bolzenschweißtechnik mit dem neuen Verfahren mal zu vergleichen.
+Also so stellt man sich doch eine klassische Schweißbude vor.
+Und das ist auch ein klassischer Schweißer, oder?
+Eine Schutzeinrichtung.
+Schutzeinrichtung, jawohl.
+Ein massives Teil, massive Bolzen.
+Jetzt kommt der Schutzring mit drauf.
+So, Sachen gemacht.
+Der Rahmen ging weg.
+So, jetzt kommt die Qualitätssicherung, schaut, ob das alles funktioniert.
+So, jetzt kommen Sie jung und dynamisch mit dem neuen Schweißverfahren daher.
+Fertig.
+Sehen Sie den Bolzen an. Selbst der ist nicht großartig.
+Kontaminiert und nichts.
+Das ist die konventionelle Art und das ist eben dieses neue Verfahren.
+Hallo.
+Hallo.
+So, und was sagen Sie, was hätten Sie denn gerne, welche zu fahren?
+Das Neue.
+Das Neue, ja, okay. Jetzt müssen wir mal so ein bisschen reingucken, also technisch gesehen eine tolle Geschichte.
+Ich war dieses Jahr auf so einer Leitmesse zum Schweißen
+und dann habe ich auch ein paar andere Hersteller gefragt, die das nicht haben.
+Was haben die denn gesagt zu ihrem Wettbewerber, der so ein tolles Verfahren entwickelt hat?
+Ja, vielleicht, dass es zu teuer ist.
+Ja, genau. Das wäre ein Argument.
+Jetzt kommt aber Sawyer und sagt, nee.
+Also allein das Einsparen so nach einem halben Jahr über das Einsparen von den Keramikringen ist das Geld schon wieder drin, was das mehr kostet.
+Was kann man noch sagen?
+Jetzt können Sie doch anzweifeln, dass Ihr Wettbewerber, Sie sagen, ja, ob das aber so hält, ob das auch so gut ist wie unseres.
+und bei uns ist das irgendwie eine andere Schmelze und einfach eine andere Festigkeit.
+Vielleicht noch mal die Therapie, ob das magnetisch...
+Wunderbar, ja natürlich, das kommt natürlich auch noch mit rein, ob das auch überall funktioniert,
+auch zu welcher Größenordnung das funktioniert, also bis zu welcher Schmelze kann ich denn das überhaupt einsetzen?
+Irgendwann schafft das vielleicht auch das Magnetfeld nicht mehr, das zusammenzuhalten.
+Ja, das ist ein guter Argument. Okay, was noch?
+Jetzt habe ich gerade das Beispiel genannt, Brückenbau.
+Brückenbau gehört in Deutschland, Europa zu einer abnahmepflichtigen Bauteilangelegenheit.
+Das heißt, Sie können hier nicht einfach beliebig drauf rumbrutzeln mit irgendeinem Schweißverfahren,
+sondern der Gesetzgeber sagt, wenn du eine Brücke baust, wo Menschen drüber fahren und wo eben auch einstürzen kann
+oder irgendwelche Belege nicht funktionieren, muss jemand hingucken.
+Klassischerweise wäre das auch ein Job für eine Schweißfachingenieurin, für einen Schweißfachingenieur,
+das Thema sich genau anzugucken.
+Jetzt wiederholen wir nochmal, wie funktioniert das?
+nicht nur anzugucken, sondern sogar auch den Schweißprozess selber zu qualifizieren.
+Für die Geometrie, für die Belastung, für den Werkstoff.
+Das heißt, Sie, wenn Sie jetzt diese Schweißaufsichtsperson des S&I werden,
+der Schweißfahndingenieur, Sie würden dann hergehen und sagen,
+okay, das ist meine Aufgabenstellung, Sie machen eine Probeschweißung,
+gucken mal, ob das den Anforderungen genügt.
+Sie haben ja in der CAD-Simulation vielleicht irgendwie rausgekriegt,
+das und das muss Kraft übertragen werden, oh gut, das passt, dann holen sie den TÜV mit dazu und sagen dem TÜV,
+pass mal auf, ich habe das jetzt gemacht, wir machen jetzt nochmal Zugversuche oder was auch immer
+und dann sagt der TÜV irgendwann, jo, das passt auch, gibt ihnen ihren Stempel und dann dürfen sie tatsächlich das Bauteil machen.
+So läuft das.
+So.
+Was könnte jetzt schief gehen?
+Was könnte jetzt ein Problem sein bei diesem ganzen Ablauf?
+Das ist auch mit dem Mammetfeld und ohne Mammetfeld genau der gleiche Prozess.
+Richtig, ja und nein. Was braucht denn der TÜV, damit er Ihnen den Stempel gibt?
+Ja, aber nach welchen Kriterien bewertet der denn jetzt, ob das gut oder schlecht ist?
+Ja, sie sagen dem auch, das und das muss das halten und so, das sagen sie ihm, aber das reicht
+dem TÜV noch nicht. Ja, macht er alles, ja. Jetzt hat er da irgendwelche
+Werte, da kommt doch irgendwas raus. Was macht er denn jetzt mit den Werten?
+Testen geht. Vergleichen mit den Werten, die wir schon haben.
+Aber das ist ja eine neue Brücke, da haben wir gar nichts.
+Von alten Schweißverfahren auf die dann... Ja, jetzt kommt man schon langsam in die Richtung.
+Und wie macht man das? Zigaretten? Ne, auch das... Ich muss ja irgendeine Unterlage haben, wo ich
+mich darauf beziehen kann. Ganz einfach. Das nennt man die Normen. Das heißt, der TÜV
+kommt mit der entsprechenden Norm, Bolzen schweißen. Wie funktioniert das dann mal
+mit den Normen? Wie werden Normen hergestellt oder wie werden die geschrieben? Warum gibt
+es die überhaupt? Also das habe ich ja gerade gesagt, weil der TÜV letztlich irgendwas
+was ich beziehen muss.
+Der hat ja keine Ahnung vom Bolzenschweißen,
+also muss er die Norm zum Bolzenschweißen hernehmen,
+die wer gemacht hat?
+Die Fachleute, die sich damit auskennen.
+Die Normen oder Isonormen oder wie auch immer,
+basieren darauf, dass Anlagenhersteller, Anlagennutzer,
+also auch beim Bolzenschweißen steckt da eben
+ein Miele Siemens, die Kühlschränke herstellen, mit dabei
+und die sagen, so ein Bolzen muss das und das können.
+So, und dann kommt irgendwann, kommt man zusammen, das und das kann schief gehen, das und das muss an Festigkeiten und irgendwann schmeißen alle ihre Fachwissen zusammen und dann entsteht eben so eine Norm.
+Die wiederum allgemeingültig als Stand der Technik für den TÜV zur Verfügung stellt, um Vergleiche zu machen.
+Und das Magnetding ist nicht...
+Sie ahnen das, ja?
+Jetzt, schon vor Jahren, jetzt mit stolz geschwellter Wurst hat diese Firma Sawyer,
+ist jetzt in den Normausschuss, da waren die auch schon immer, die haben ja auch immer das andere gemacht,
+haben gesagt, wir haben was Neues entwickelt, wir sind jetzt richtig gut.
+So, und haben das entsprechend vorgestellt, haben natürlich Versuche gemacht,
+haben eben festgestellt, so wie in den Werbefilmen so ein bisschen rüberkommt,
+tolles Verfahren, einmalige Geschichte.
+Was schätzen Sie denn jetzt in dem Normausschuss, was der Wettbewerb dazu sagt?
+Wenn die das nicht normieren, ist es ein Vorteil für die, weil die es so ja ein Patent drauf hat?
+Richtig, jetzt fangen die nämlich an, so ganz klare Sache
+Ja, man muss sich das mal vorstellen, ob das richtig ist, dann müssen wir selber erstmal verstehen, ob das auch so gut ist
+und dann wird verglichen mit denen, wie Sie es gerade so machen,
+vielleicht haben die ja auch irgendwas Ähnliches irgendwie unterwegs,
+aber jetzt hat der Säuer die Patente.
+Und das ist so ein bisschen das Plädoyer,
+dass manchmal kann Ihnen so ein Patent auch total auf die Füße fallen,
+weil alle wählen, die das Patent nicht hat
+und der Wettbewerb müsste jetzt teuer bei Ihnen einkaufen,
+um das Gleiche zu machen.
+Das heißt, da sind erstmal alle auf Parallel gewürstet,
+versuchen alle, ihr Verfahren irgendwie in dieser Normwelt abzusichern.
+Das läuft jetzt schon über viele Jahre letztlich.
+Das ist für mich immer so ein Präzedenzfall letztlich,
+um auch einfach zu verstehen, wie diese Sache mit Patenten und so weiter wirkt.
+Diese Besonderheit beim Schweißen ist eben diese Abnahmepflichtigkeit.
+Wenn Sie natürlich für KEA Ihr Kleiderhaken wieder machen,
+wo Sie Bolzen reinsetzen, dann können Sie gerne das Verfahren nehmen.
+Das interessiert keinen Menschen. Aber sobald es eben in relevante sicherheitstechnische Sachen geht und ein Auto wäre dann schon sowas, bei Kühlschränken kann man natürlich überlegen, ob man sich doch durchkriegt, aber so eine große Firma wie Siemens oder Miele oder so, die sind natürlich auch wieder unterwegs und sagen, kann ich das Risiko, sieht toll aus, alles klar, aber gehe ich jetzt das Risiko ein, tatsächlich gegen die Normwelt quasi sowas eben zu machen.
+zu machen.
+So.
+Okay, also
+das ist ein Problem mit der
+Anreizstruktur bei Normen.
+Ja.
+Wie kommt überhaupt dann eine Norm zustande?
+Weil das Problem ist doch eigentlich bei jeder
+neuen Technologie, oder?
+Ja, in dem natürlich, so eine Firma,
+jetzt sagt man es mal auch, Freunde, so geht das nicht.
+Das ist ein geniales Verfahren
+und die natürlich
+entsprechend nachschieben.
+Die schieben nach mit entsprechenden Untersuchungen
+und sagen, das hält, das geht und das funktioniert.
+Und die können natürlich jetzt nicht ewig dazu sagen, warum.
+Weil natürlich auf der anderen Seite, deswegen ist so eine Normgruppe natürlich auch so heterogen,
+da sitzen ja nicht nur die Wettbewerber drin, sondern auch die Nutzer.
+Denn sagt ein BMW, oh super, genial, das will ich haben.
+Und die sagen natürlich auch den anderen, das ist mir scheißegal, ob ihr das nicht habt oder nicht.
+Ich als Anwender möchte gerne das Verfahren.
+Und da ich es auch in der Normwelt abgebildet haben möchte,
+sehen wir mir jetzt mal zu, dass es auch funktioniert.
+Das heißt, dieses Aufhalten funktioniert nur eine gewisse Zeit.
+Okay. Und wie lange gibt es das Verfahren schon?
+Das gibt es schon 5, 6 Jahre.
+Und wir sind immer noch nicht 100% in der Normwelt angekommen.
+Also wir reden tatsächlich über Zeithorizonte.
+Ist das jetzt ein außergewöhnliches Beispiel, oder ist das immer so?
+Tendenziell ist es tatsächlich immer so.
+und deswegen, warum erzähle ich Ihnen das auch nochmal
+um Ihnen nochmal auch klar zu sagen
+der Klassiker wäre eben
+Sie haben eine super geniale Idee
+ja, machen Ihr Startup
+ja
+Sie gehen rein, sagen alles super
+Sie haben Ihre Marktanalyse
+Sie haben Ihre Technikanalyse
+und juhu, ich habe auch mein Patent
+so
+und
+dann kann Ihnen genau sowas eben auch
+passieren, dass erstmal alle
+die eben das Patent nicht haben, gegen sie sind
+im günstigsten Fall, vielleicht wissen Sie das ja auch
+kommt eine große Firma und sagt, super genial, will ich haben
+und sie werden dann komplett von der geschluckt und aufgekauft
+weil die natürlich, wenn jetzt so ein Siemens zum Beispiel
+die hätten auch die Power, das auch in die Normwelt zu drücken
+und eben auch entsprechend umzusetzen
+es gibt aber auch tatsächlich in der Wirtschaft hier und da
+wenn das nicht so offensichtlich ist wie hier
+auch eine Philosophie bei sehr komplexen
+Systemen zu sagen, ich patentiere das
+gar nicht mehr.
+Ich gehe sogar aggressiver
+vor und
+publiziere das. Nämlich sobald
+Sie sowas publizieren, also
+irgendwo in der Zeitschrift taucht das auf,
+dass das Verfahren funktioniert so und so,
+dann ist es durch.
+Dann können Sie das auch nicht mehr patentieren.
+Weil es quasi veröffentlicht ist.
+Und Sie müssen sich nur sicher
+sein, wenn Sie diesen Weg gehen, dass
+keiner das so ohne weiteres nachbauen kann
+und das genauso hinkriegt.
+Ich würde aber sagen, Sie
+können sowas ja schon auch entwickeln.
+Ja, aber vielleicht, wenn Sie
+jetzt da fünf Jahre hinentwickelt haben, bis
+Sie irgendwas hingekriegt haben,
+dann haben Sie ja einen Entwicklungsvorschlag.
+Aber damit Sie in den Markt
+reinkommen und dieses hinderliche
+Patent nicht haben,
+was Geld kostet, was
+letztlich aber auch
+gegen Sie verwendet werden kann, weil es eben
+so eine große Firma wie Siemens
+wird nur ganz zum Schluss auf sie springen
+wenn es gar nicht mehr anders geht, weil die auch sagen
+das Patent
+ich will einfach nicht so abhängig
+von ihnen sein
+die fangen natürlich, wenn es sehr interessant ist an
+zu gucken, wie kann ich das Patent umgehen
+und natürlich ist auch beim Bolzenschweißen
+hat mittlerweile jeder irgendwas
+in so eine ähnliche Richtung
+wo die das eben mit einer anderen Technik
+eben versuchen irgendwie
+vergleichbar hinzukriegen
+Und das ist tatsächlich ganz normal in der technischen Welt.
+Aber wenn man das Patent nicht hat, dann wird es auch in der Normierung nicht blockiert,
+weil wenn sie es nicht nachbauen können, haben die ja immer noch einen Anreiz zu blockieren.
+Das ist wohl wahr, aber es ist trotzdem erstmal einfacher,
+wie einfach muss man im Detail natürlich nachhersehen.
+Da natürlich auch völlig recht.
+Aber wenn die diesen Mehrwert letztlich sehen, ist es für die Anwender zumindest erstmal einfacher zu sagen,
+ich kann es zwar jetzt noch nicht nachbauen, das wird aber gehen,
+aber ich habe nicht für 20 Jahre ein Patent, was mir da irgendwie im Nacken ist
+und ich nicht weiß, was damit passiert.
+Das ist schon noch eine andere Dimension.
+Ja, gut.
+So, also das wäre einfach mal diese Produktstory zu dem Thema Bolzenschweiß.
+So, wie gesagt, da gibt es eine Hubzündung, da gibt es eine Spitzenzündung.
+Es geht aber immer darum, das habe ich doch mal kurz gezeigt,
+ich setze hier irgendwo an, dann brennt ein Lichtbogen und sobald das geschmolzen ist, drücke ich das runter.
+Jetzt bin ich schon an dem Punkt, um Ihnen nochmal klar zu sagen,
+das werden Sie nächste Woche alle selber machen.
+Weil ich hatte ja letztes Mal schon angekündigt, ich schreibe es immer noch mal in Moodle oder auch in Infopoint,
+nächste Woche möchte ich mit Ihnen das Schweißpraktikum machen.
+Ist das soweit okay?
+Dann eben auch noch gleich die Bitte, da pünktlich zu sein, damit wir eben Sicherheitsbelehrungen machen können, dass das eben losgeht.
+Wäre das okay? Passt mal, ne?
+Ja.
+Gut. Weil mein Werkstattmeister wird den verschiedensten Programmen mit Ihnen einfach mal live machen
+und ein paar davon wird er dann eben auch selber machen.
+So dass wir dann die ganze Zeit einfach im Labor sind und uns das...
+Ist das nächste Woche oder die nächsten zwei Wochen?
+Die nächsten zwei Wochen.
+Normal, wenn der Vorlesungszeit jetzt...
+Genau, ganz normal.
+Wo? Müssen wir direkt dorthin kommen oder hier?
+Nein, wir treffen uns drüben, direkt vor dem Labor.
+Okay? Schreibe ich Ihnen aber auch alles nochmal ein.
+So, und wie gesagt, dann kommt genau das Verfahren hier.
+So, also, verschiedenste Dicken, aber immer das Pendant kann auch dünn sein, das ist Ihnen der Clou an der Sache.
+Gut, so jetzt springen wir wieder zum Anfang der Vorlesung, wo wir gesagt haben, wir haben
+irgendwelche Querschnitte, die wir irgendwie verbinden wollen.
+Den können Sie sich auch nochmal anschauen.
+Das ist Reibschweißteil.
+Was ist das denn eigentlich?
+Das habe ich hier.
+Können Sie auch nochmal nach hinten gehen, bitte.
+So.
+So, wie war das jetzt nochmal, wenn ich keine Temperatur habe?
+So, wir hatten das ja eben gehabt, wenn ich zwei Bauteile gegeneinander presse, ja, muss
+ich nah genug anfassen, weil wenn die so lang wären, würden die irgendwie wegknicken.
+Und das heißt, das sieht man hier ganz gut, hier ist ein Kupferbauteil, hier ist ein Aluminiumbauteil,
+sehr eng gefasst, und dann werden die einfach, und das Kaltpressschweißen heißt nichts
+Die sind kalte Bauteile, kein Lichtbogen, kein Gas, kein nix, sondern einfach gnadenlos aufeinanderpressen.
+Und dann wird das Material nach außen ausgetrieben.
+Dann wird wieder aufgemacht, weil ich bin ja so nah dran.
+Wenn ich jetzt einmal gepresst, reicht meistens nicht, weil da ist vielleicht auch in irgendeinem Bereich noch gar nicht richtig verbunden,
+wird wieder aufgemacht und nochmal wieder geschoben und das kann vier, fünf Mal wiederholt werden, damit das eben entsprechend funktioniert.
+So, jetzt gibt es eigentlich nur eine Frage, mit was funktioniert sowas?
+Funktioniert das mit diesem Stahlteil, was ich da gerade rumgegeben habe?
+Wahrscheinlich muss der Schmelzpunkt niedrig genug sein, oder?
+Oder andersrum formuliert, das Material muss bei Raumtemperatur einigermaßen duktil, verformbar sein.
+So ein Stahl ist bei 20 Grad, also Raumtemperatur, sehr spröde.
+Und wenn Sie den einfach kalt aufeinander bringen, würde der sich auch ein bisschen verformen, aber er würde maßgeblich einfach brechen.
+Der bröselt eben einfach auseinander, um es mal so zu formulieren.
+Das heißt, das funktioniert nur mit duktilen Werkstoffen wie einem weichen Aluminium oder weichem Kupfer zum Beispiel.
+So, und jetzt gucken wir uns das Verfahren an.
+Das hat nichts mit Militärtechnik zu tun, Explosionsschweiß.
+Hier geht es darum, dass ich zwei Materialien verbinden will.
+Jetzt aber tatsächlich nicht mehr irgendwelche Profile oder was auch immer,
+sondern einfach zwei Bleche aufeinander legen und miteinander verbinden.
+Wozu könnte das gut sein?
+Eine Beschichtung.
+Wenn nämlich aus diesem Blech nachher ein Behälter wird, der vielleicht irgendeine chemische Ferkelei hat, wo ein normaler Baustahl kaputt gehen würde, Behälterbau,
+dann brauche ich innen ein Material, was das kann, was mit dieser Chemikalie umgehen kann, also ein korrosionsbeständiger Stahl.
+Außen wäre aber dieser korrosionsbeständige Stahl gar nicht so fest.
+Also ein Chromnickelstahl hat nämlich eine hohe Festigkeit und wenn jetzt dieser Behälter auch noch unter Druck wäre,
+würde jetzt einmal, Chromnickel ist sehr teuer, das heißt der ganze Behälter wäre extrem teuer
+und auf der anderen Seite würde der gar nicht mechanisch so gut sein.
+Also gibt es diese Mischverbindung.
+Dann brauche ich ein Chromnickel verbunden mit einem normalen Baustahl.
+Und daraus baue ich mir dann nachher meinen Behälter.
+Oder Pipeline-Bau oder Rohrleitungen. Wenn sowas eben ist, brauche ich hier entsprechend das Material.
+Das sehen Sie jetzt hier. Es gibt so einen Plattierungswerkstoff, der muss da unten drauf.
+Damit er das schafft, gebe ich hier einfach Sprengstoff oben drauf, zünde den Sprengstoff an oder bringe ihn zur Explosion.
+und über die Druckwelle des Sprengstoffs wird das Ganze miteinander verbunden.
+Musik
+Amen.
+Amen.
+Vielen Dank.
+Sehen wir uns jetzt den Jörg.
+Ganz ohne Bild ist klar, um was es geht, oder?
+Fire in the hole!
+With a strength measured at millions of pounds per square inch,
+explosion welding can accomplish what no other welding method can.
+Join nearly every kind of metal combination, no matter the type or composition.
+To create an explosion weld, two large pieces of metal are stacked atop one another,
+then covered with a high-powered explosive.
+When detonated, the downward force of the explosion welds the two pieces together
+through a combination of intense force and remarkable physics.
+Also, gute Oberflächen, damit sie eben auch in den Explosionsbereich zu beiden Hälften
+auf sich hin danach gewinnen wollen.
+Wir wollen natürlich Abstand. Wenn ich etwas beschleunigen will, brauche ich eine Wegstrecke, die drüben liegt.
+Und dafür ist das Beufelschweiß mehr genommen, nur meine Abstandsleiter werden noch einfacher.
+Die Spacer werden eine Gap zwischen der Rückseite und der zweiten Platte behalten, die auf dem Topf befestigt wird.
+Diese zweite Platte ist dicker als die Rückseite und nennt sich die Kladder.
+Die Standaufgapte zwischen der Rückseite und der Kladder ist weniger als einen Inch in Höhe,
+aber ohne sie wäre die Explosion-Welte unmöglich.
+DMC benutzt eine Explosivpaste, die ein proprietäres Blende von gemeinsamen und einzigartigen Explosiv-Chemikalien ist.
+The amount and exact formulation is always matched to the types of metals involved.
+Once the pack is set, the explosion is initiated at one end of the clatter
+and moves across the upper level of the pack at a uniform speed.
+This explosive front progressively drives the clatter plate downward toward the batter
+at the slight collision angle caused by the scale.
+Ich glaube, einmal, wenn man von einer Seite startet, wird das in Bruchteilen von Sekunden hellig.
+Auch die Wolken fliegen einfach raus, obwohl es angeschweißt ist.
+As the backer and clatter collide, the weld is created nearly instantaneously across the entire surface of the plate.
+Not surprisingly, the power of the explosion can cause significant deformation.
+Therefore, upon its return to the processing facilities, the clad undergoes a final series of corrections.
+These include heating the clad in an oven, which causes the welds to soften quickly.
+This relieves stress from the blunt force of the explosion's impact.
+Any bowing or misshapen curves are flattened out by either a 3-billion-pound press
+or, for theater-clad, by a series of rollers, known as levelers.
+Finally, before the plates are shipped, stringent testing is conducted to ensure a solid weld between the two plates.
+Once the plates have been tested to meet exacting the specs, it's ready to force of the explosion's impact.
+Any bowing or misshapen curves are flattened out by either a 3-billion-pound press
+or for theater-clad by a series of rollers known as levelers.
+Finally, before the plates...
+So, und an dem Bild, das haben Sie auch im Skript, sieht man jetzt, was da eigentlich passiert.
+Das Material wird extrem schnell auf das andere drauf beschleunigt.
+Das ist es. Und wie kommt denn jetzt diese Welle hier zustande?
+Weil es extrem schnell funktioniert, obwohl es eigentlich kalt ist,
+wird unter diesem immensen Druck das Material untereinander verformt.
+Es fließt, obwohl es kalt ist.
+Das hat nur was mit dem Druck zu tun, weil der immens hoch ist.
+Und deswegen kommt neben einer Atomaren, also auch in diesen ganzen Bereichen,
+verbinden sich auf den Oberflächen die Atomketten miteinander,
+kommt es noch zusätzlich zu einer Einformung.
+Das heißt, wenn ich jetzt hier an dieser Stelle gegeneinander abscheren würde, würde das Material das auch festhalten.
+Also ein Formschluss wäre hier auch noch mit dabei.
+Also rein technisch gesehen extrem aufwendig, das Resultat aber extrem gut.
+Ja?
+Ich verstehe nicht ganz, sind das drei verschiedene Materialien, die miteinander verbunden sind?
+Das ist immer die Sache, wenn ich, das ist ja nur ein Bild, wenn man sich, ich gehe mal ins Skript wieder zurück, da sehen wir das Bild noch ein bisschen besser.
+Hier sieht man das nochmal. Das sind nur zwei Materialien. Das hat ein bisschen getäuscht.
+Das heißt, die beiden formen ineinander über und das bedeutet hier die entsprechende Verbindung in entsprechender Güte.
+Was für ein Aufwand, oder? Der Aufwand, das Material da oben, aber Sie können das ja auch
+mit anderen Schweißverfahren, einfach Naht für Naht für Naht. Sie haben die Größenordnung gesehen,
+das sind Riesenbleche, da sind Sie ja Tage beschäftigt, wenn Sie diesen Verschleißschutz
+oder diesen Korrosionsschutz da aufbringen wollen. Es ist eben diese Größenordnung und natürlich auch
+diese Explodiererei. Das heißt nichts anderes, in Deutschland, Europa wird sowas schwierig,
+das ist irgendwo in Nevada. Das interessiert überhaupt keinen, wenn da entsprechend permanent
+ungeballert wird an der Stelle. Aber das ist trotzdem kostengünstiger und damit eben durchaus
+auch im Wettbewerb zu anderen Verfahren für diese Anwendung. Ich brauche irgendwie, sage ich mal,
+wie Metall, was zwei Eigenschaften hat. So weit klar? So, es gibt sowas auch noch, dass Sie im
+Rohrleitungsbau von innen nach außen sprengen. Das heißt, hier strengen Sie letztlich das Innenrohr
+gegen das Außenrohr von innen und haben damit letztlich wiederum auch genau die
+gleiche Verbindung, weil das auch wiederum
+genauso schnell funktioniert.
+Das können Sie
+auch ohne
+Sprengstoff machen.
+Jetzt sind wir wieder beim Thema Magnetfeld.
+Das heißt,
+das Grundprinzip geht letztlich
+dahin,
+dass Sie hier an der Stelle
+bei so einem Rohrleitungsbau nicht von innen nach
+sondern hier bringen Sie ein Magnetfeld auf, was sehr schnell über dieses Rohr gefahren wird
+und dieses Magnetfeld drückt mir das Außenrohr aufs Innenrohr.
+Das ist im Endeffekt das gleiche, Sie müssen es nur entsprechend konvektionieren an der Stelle.
+Und damit natürlich vom Aufwand, vom Handling ist natürlich ein Magnetfeld deutlich einfacher,
+wie ein Sprengstoff das umgehen zu haben.
+Also diese Budelein USA, die muss natürlich auch einen Sprengmeister haben, der mit Sprengstoff umgehen kann.
+Sie sind also Schweißfahrengenieur und Sprechenmeister in allem.
+So, und wenn wir uns das eben entsprechend angucken,
+dann gibt es jetzt noch ein paar weitere Varianten.
+Und die erste Variante heißt nichts anderes, dass ich diesen Prozess der Verformung weglasse, das auch gar nicht mehr so schnell mache, aber diese atomare Bindung irgendwie haben muss.
+Und das heißt, hier sehen Sie das, wenn atomare Austauschprozesse stattfinden, nennen wir das ganze Diffusionsprozesse.
+und wenn zwischen zwei Oberflächen Atome wechseln können
+und sich gegenseitig quasi in ihren metallischen Bindungen ergänzen,
+kriege ich auch wieder eine Verbindung.
+Und da sind wir bei einem Prozess, der heißt Diffusionsschweißen,
+der funktioniert interessanterweise auch mit ein bisschen Druck,
+mit ein bisschen Temperatur und mit jeder Menge Zeit.
+Das ist eigentlich schon die ganze Erklärung.
+Das heißt, jetzt sind wir wieder bei unseren Bauteilen, die irgendwie aufeinander gedrückt werden.
+Nur jetzt gibt es hier keinen Lichtbogen, kein Gas, kein gar nichts, sondern ich mache einfach das ganze Bauteil so ein bisschen warm.
+Also die Hälfte der Schmelztemperatur wird aufgeheizt.
+Ich habe einen Ofen und weil ich ja mit Atomen händle, also das heißt, die sollen sich ja irgendwie austauschen,
+ist immer ganz gut, wenn das Ganze unter Vakuum stattfindet.
+Temperatur, Vakuum, Druck, jetzt haben wir eigentlich alles, was auch Geld kostet.
+Das heißt, wir haben jetzt hier auch einen Schweißprozess, der einen hohen Invest hat.
+Und das ist jetzt das Problem an diesen Diffusionsprozessen, die brauchen unglaublich viel Zeit.
+Wenn wir jetzt nämlich unsere Bauteile haben oder ganze Bleche haben,
+Es gibt auch beliebige Formen letztlich. Ich muss super Oberflächen haben, schön sauber.
+Und dann brauche ich eben vielleicht Minuten, ich brauche vielleicht eine Stunde, bis die entsprechenden Atome sich ausgeglichen haben.
+Haben Sie schon mal mit Messinstrumenten, mit Endmaßen gearbeitet? Sagt Ihnen das was?
+Das sind kleine Klötzchen, die exakt geschliffen sind auf ein gewisses Maß.
+Und die können Sie, wenn Sie jetzt zum Beispiel eine Schieblehre, wenn Sie die kalibrieren wollen, brauchen Sie ja irgendeine Referenz, die Ihnen sagt, wenn Sie jetzt dazu machen, muss die ja sehr, sehr genau sein, damit Sie damit wiederum andere Messinstrumente kalibrieren können.
+Und deswegen, wenn Sie denn ein spezielles Maß haben wollen, legen Sie mehrere dieser Endmaße,
+also dieser kleinen Klötzchen aufeinander und können dann die darauf stehenden Maße addieren
+und dann wissen Sie, so und so viel Millimeter hat das jetzt.
+Nicht nur Millimeter, sondern Komma, also sogar Zehntel und so weiter können so abgewählt werden.
+Das Dumme ist eben nur, das funktioniert nur im Zehntel-Hundertstel-Bereich, wenn die sehr, sehr exakt sind.
+Das heißt, die Oberflächen sind geschliffen und sehr, sehr fein.
+Siehe da, das ist schon mal eine gute Voraussetzung zum Diffusionsschweiß.
+Wenn Sie die Teile jetzt übereinander legen, kriegen Sie die auch nur wieder runter, indem Sie die so aneinander abschieben.
+Die kriegen Sie gar nicht mehr so abgehoben.
+Und wenn Sie die jetzt in diesem Zustand in der Box liegen lassen und sagen, jetzt mal Feierabend, morgen geht es weiter,
+kann es eben sein, dass über die Zeit, obwohl die gar nicht gedrückt werden,
+aber schon so nah aneinander liegen, dass sich entsprechend Diffusion einstellt,
+Atome sich austauschen und sie eine Kallschweißung, also eine Diffusionsschweißung haben
+und die Dinger können sie dann wegschmeißen danach.
+So, und das heißt, auch nochmal einfach ein Beispiel für,
+wie exakt und genau dieser Schweißprozess letztlich abläuft.
+Und der Clou an der Sache ist eben auch noch, dass so ein System nachher, Sie finden die Naht nicht wieder.
+Weil die Naht hier atomar sich ausgetauscht hat, bei dem Beispiel sind es nur zufällig, weil die nicht exakt übereinander gelegen haben.
+Deswegen sind sie am Ende so in keinen kleinen Kantenversatz.
+Also für Sie einfach Diffusionsschweißen mit das Teuerste vom Invest und von der Taktzeit,
+sprich viel teurer können Sie eigentlich gar nicht schweißen. Sie bekommen dafür aber einen Prozess,
+der das, da habe ich in der ersten Vorlesung gesagt, was will ich beim Schweißen haben,
+ich möchte möglichst den Grundwerkstoff nicht verändern. Da es kalt ist, passiert
+dem Gefüge nichts, also links und rechts ist Grundwerkstoff, da ist nichts passiert und tatsächlich auch in der Naht selber ist mehr oder weniger Grundwerkstoff.
+Und damit qualitativ geht nicht besser.
+Aber, wie gesagt, vom Preis her geht es auch eigentlich nicht billiger.
+Nicht noch teurer.
+Auch klar?
+Gut, einfach mal so eine kleine Superlative noch eingebaut.
+damit Sie das entsprechend beurteilen können.
+So, jetzt gehen wir in diese letzte Kategorie der Pressschweißverbindung,
+das ist das Reibschweißen.
+Da hinten haben wir schon das eine Beispiel.
+Wenn Sie mir das nochmal nach vorne geben, diesen Sechskant.
+Den hier?
+Den da, genau.
+Und das Einfache an der ganzen Geschichte ist,
+ich habe zwei Bauteile und Reibschweißen.
+Reibschweißen, was heißt Reibschweißen überhaupt? Das ist Reibschweißen.
+Warum funktioniert das, was wir alle im Winter gerade machen?
+Es ist lausig kalt draußen, also machen wir ganz automatisch den hier.
+Warum funktioniert das? Und was passiert?
+Reibung, das ist der Föhren.
+Ja. Was sind die Voraussetzungen?
+Ich brauche Druck.
+Ja, genau. Ich brauche Muskelkraft, wenn ich so reibe, passiert nichts.
+Ja, und ich brauche Geschwindigkeit.
+Ja. Hilft auch noch mal, wenn ich ein bisschen Hornhaut habe oder nicht eingecremt bin oder so was?
+Ja.
+Ja.
+Wollen wir nicht zu viel zu...
+Also auch Oberfläche darf man mehr haben.
+Oberfläche spielt auch eine gewisse Rolle, wird aber auch das Eincremen würde spätestens, wenn ich lang genug reibe, auch keine Rolle mehr spielen.
+Also es geht um Reibung und Druck.
+und das Ganze jetzt bei meinen Händen, wenn ich nur lange noch reiben würde,
+viel Temperatur hätte, könnte ich auch meine Hände miteinander verschweißen.
+Rein theoretisch würde das nicht funktionieren,
+weil der Stoff, den wir da eben haben, unsere Haut, das eigentlich so nicht mitmacht.
+Aber das Grundprinzip ist doch klar.
+Und das heißt, die Grundprinzipien beim Schweißen sind Relativbewegung.
+Das ist eine Relativbewegung.
+Die Relativbewegung kann jetzt rotierend sein, die kann linear sein,
+Die kann orbital sein, indem ich eben über den Umfang letztlich irgendwas reibe, das wären jetzt eben die entsprechenden Philosophien.
+Jetzt kommt noch was weiteres dazu, nämlich jetzt im Kapitel haben wir nämlich hier ein Ultraschallschweißen, auch nichts anderes wie ein Reibschweißen,
+nur, dass ich jetzt extrem schnell diese Bewegung mache, Sie sehen das, Kilohertzbereich, kann ich natürlich nicht mehr auflösen, das Ganze,
+Und wenn ich schnell mich bewege, ist auch die Amplitude nur noch sehr, sehr klein.
+Da reden wir jetzt von irgendwelchen Zehntel Millimeter Amplitude,
+die zwei Bleche in ihrer Verbindungszone erfahren,
+indem oben und unten ein Bauteil sehr schnell darüber fährt und Reibung erzeugt.
+Also das wäre jetzt ein Extrempunkt. Wir gehen gleich in das klassische Rotationsreibschweißen.
+Das ist nämlich der technisch richtige Begriff und das ist genau dieses Bauteil. Rotationsreibschweißen
+ist das mal verbreitetste, heißt nichts anderes. Diese Relativbewegung ist eine Rotation und ist
+in aller Regel auch für rotationssymmetrische Bauteile gedacht. Ausnahmen gibt es immer,
+aber rotationssymmetrisch heißt eben nichts anderes. Da sehen wir es. Letztlich hier,
+wir haben zwei Wellen, die eingespannt werden. Eine Seite dreht, die andere Seite drückt.
+Wenn das lang genug erfolgt ist, schieben die beiden Teilen zusammen und ich bekomme
+eine entsprechende Schweißnaht. Das können wir uns jetzt auch gleich mal anschauen.
+Amen.
+So, schauen Sie sich den mal an, schon vorbei, schauen Sie mal hin, wer dreht und wer schiebt,
+welche Seite?
+Die linke Seite schiebt.
+Die linke Seite schiebt, wunderbar, das heißt die rechte muss sich drehen.
+Warum kann ich nicht beides nehmen? Auf einer Seite?
+Geht auch. Wird auch teilweise gemacht. Nur rein, wenn ich eine Drehachse habe, die ich auch schieben muss,
+dann ist das konstruktiv aufwendiger, wie einfach die beiden Sachen zu trennen und eine macht das eine und die andere das andere.
+Das ist der Hintergrund. Es gibt auch die Variante, dass beide drehen, gegenläufig drehen sogar.
+habe ich ja noch mehr Reibung, wenn ich eben nicht nur stehe, sondern eben auch tatsächlich
+so eine Bewegung mache. Also, Varianten gibt es. Das, was Sie hier sehen, ist aber die meist
+verbreitete Anwendung. So läuft das Ganze. Und Sie haben auch gerade im Film gesehen,
+so schnell geht das Ganze. Aufsetzen, drehen, paar Sekunden, fertig ist das Ganze. Vollflächige
+Anwendung. Große Querschnitte sind genauso machbar.
+So kann ich auch, jetzt kommt der wichtigste Part, technisch anspruchsvollste
+Idee dahinter ist, weil ich bei dem Drehen nicht unbedingt in die Schmelze muss, kann
+ich Materialien wie Aluminium-Stahl miteinander verbinden, die sich in der Schmelze nicht
+verstehen würden.
+Wenn ich Aluminium und Stahl zusammenbringe und sie schmelzen, mit dem Laser, mit dem
+Wasser, fließen sie hintereinander, es entstehen intermetallische Phasen, die sehr hart sind
+und dann ist das Ganze eben nichts wert und funktioniert nicht,
+weil es würde sofort zerstört, wenn sie irgendwie mechanisch belastet wären.
+Wenn ich nicht in die Schmelze gehe, entstehen keine intermetallischen Phasen.
+Siehe da, ich habe eine feste Verbindung, aber eine entsprechende duktile Verbindung.
+Und das ist der Clou, dass eben genau diese Temperatur nicht erreicht wird.
+Deswegen geht sowas, Aluminium-Stahl, deswegen geht Kupfer, eigentlich sehr, sehr viele Verbindungen genauso machen.
+Hohlprofile funktionieren auch, geht eben auch ein bisschen Wurz in das Hohlprofil rein.
+Anwendungen sind im Bereich Maschinenbau jede Menge vorhanden, Luftfahrt.
+Und siehe da, selbst im Luftfahrtbereich wird das ein oder andere Bauteil genauso geschweißt.
+Weil die Luftfahrer insbesondere keine Lust auf Risse haben.
+Und Risse entstehen eigentlich so gut wie nie, wenn ich nicht schmelze.
+So sehen die Ergebnisse aus.
+Und hier mal ein Beispiel, was alles um Autos los ist.
+Klassischerweise von irgendwelchen Rädern bis letztlichen Kontaktierungen,
+Irgendwelche Wellen, so gut wie alle Wellen, werden irgendwie doch in aller Regel reibgeschweißt.
+Und damit habe ich einen Prozess, der reproduzierbar ist, diese Schmelzstemperatur eben entsprechend gar nicht erreicht
+und damit in der Lage ist, auch Mischverbindungen zu erstellen.
+Nachteil, das Ganze muss ja irgendwie gegeneinander zu bewegen sein.
+der Wulst entsteht, den muss ich wieder
+abarbeiten.
+Was passiert jetzt mit dem Bauteil?
+Wenn da ein Wulst entsteht, wird es kürzer.
+Also ich muss von vornherein ein bisschen mehr Material
+geben, Vorsicht.
+Und zum Schluss, so eine Anlage
+auch als Faustwert kostet
+genauso viel wie Elektronen, Strahlen und Laser.
+Die stehen auch im Wettbewerb zueinander.
+Genau aus dem Grund,
+sie haben tolle Eigenschaften,
+aber
+auf der anderen Seite haben die
+allesamt eben mit die
+teuersten Schweißprozesse, die wir so kennen.
+Weil Sie können das mal
+nachvollziehen, das wäre jetzt das letzte
+Statement für heute, Sie können auf der Drehbank
+das auch mal versuchen, machen Sie es aber nicht,
+weil natürlich erstmal die
+Kräfte gar nicht da sind, wenn Sie den Reitstock
+da so versuchen irgendwie gegenzudrücken
+und dann fliegt Ihnen das irgendwie um die Ohren.
+Deswegen, die Maschinen
+selber sehen aus wie Drehbänke,
+sind es aber nicht, sind deutlich steifer
+und massiver. Und sicherheitstechnisch
+natürlich auch so ausgelegt, dass wenn
+mal irgendwas wegknicken sollte,
+es eben entsprechend auch aufgefangen
+wird. Und dieses steifer
+und massiver, das macht eben so eine Anlage
+wieder so teuer.
+Fragen?
+Dann danke.
+Und daran denken, nächste Woche
+ins Labor. Okay, danke.
+Vielen Dank.

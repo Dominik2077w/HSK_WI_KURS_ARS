@@ -1,0 +1,1571 @@
+Seht das jetzt, schaut es sich an. Hat aber sonst nichts mit WSDR zu tun.
+Nicht, dass sie dort meiner Meinung nach eine wichtige Sache im Rahmen des Studiums die Chancen sich anzugucken.
+Ich glaube, es sprechen da ein paar Leute, die selber ins Ausland gegangen sind.
+Und ich glaube, es sind auch Leute da, die eben aus dem Ausland gerade bei uns hier an der Hochschule gingen.
+Soweit dazu, ganz kurz.
+Dann würde ich rein starten in unser Themenfeld und noch mal kurz abtragen, also Wärmeübertragung
+machen wir heute. Vielleicht, dass sie auf der gleichen Seite sind. Ich sehe schon,
+eine oder andere hat schon was am Tablet. Sollte es WB04 sein und ich glaube auch eine V2 oder so
+was. Das sieht so aus, als hätten sie das gleiche Material wie ich, auch wenn das Datum auf der
+ersten Seite falsch ist, das habe ich gerade eben hier noch eingepasst. Genau, was ist
+die Idee? Auch das haben Sie, glaube ich, noch nicht in Ihrem frühen Satz, deswegen
+dürfen Sie mal kurz nach vorne gucken. Wir machen heute Werbeübertragung, so ist die
+Idee und etwas abweichend von dem, was aktuell noch in Moodle steht. Ich werde es aber heute
+Nachmittag soweit bilden, die Zeit nicht möglich noch anfassen, auch dort und vielleicht auch
+Ich würde empfehlen, dass wir am Freitag, diese Woche Freitag, nicht die Übung Nummer 2 machen, sondern Strömungstechnik machen.
+Das passt zum einen zum fachlichen Abschluss ganz gut, weil in der Strömungstechnik haben wir uns mit Rohrreibung beschäftigt.
+Vielleicht erinnern Sie sich noch ein letztes Mal so ein bisschen.
+Und das könnte man sehr gut dann abschließen, um dann eine gute Voraussetzung auch zu haben,
+sich kommende Woche Montag hier in dem Raum mit dem Übung 2 zu befassen.
+Das heißt, es wäre die Idee, dass ich keinen neuen Stoff bringe,
+sondern stattdessen drei Übungsblätter mit Ihnen ansehe.
+Wenn Sie auf dem Ruf gucken, dann finden Sie ja pro Fach immer diese Übungsblätter.
+Die sollten eigentlich auch alle da drin stehen.
+Wir haben uns vor drei, vier Wochen mit dem ersten Übungsblatt ein bisschen befasst.
+Da ging es mehr so um grundlegendes Verständnis und ganz einfache Rechnungsaufgaben.
+Sie werden sehen, wenn Sie diese Blätter Nummer 2,
+wer hat sich die Blätter Nummer 2 schon mal angeschaut?
+Deswegen vielleicht auch ganz früh, wenn wir das nächste Montag machen,
+schauen Sie sich die im Laufe dieser Woche einmal an.
+Und anschauen heißt für mich nicht, Sie müssen bis jetzt alles rechnen.
+Sondern die wichtigste Aufgabe ist eigentlich aus meiner Sicht immer,
+Sie gucken sich so eine Aufgabe an und notieren sich in zwei, drei Stichpunkten zu der Aufgabe,
+was ist denn die Kategorie, was muss ich machen?
+Also klar, ich benutze die Wärmeübertragung und Thermodynamik, das steht oben drüber.
+Aber es geht darum, bei einer Aufgabe aus der Wärmeübertragung zum Beispiel zu sagen,
+ah ja, ein halb unendlicher Körper oder irgendwie sowas.
+Oder sich einfach kurz zu überlegen, geht es um Wärmeleitung oder Konvektion.
+Und dann ganz knapp das vielleicht in ein, zwei Punkten jeweils zu notieren.
+Und wenn Sie das Gefühl haben, kann ich entweder überhaupt nicht einsortieren
+oder kommt er aber Spanisch vor, was da gefragt ist, dann bitte gerne einfach Fragen ins Forum reinschicken.
+Klar, wenn Sie ein bisschen das Momentum gerade haben und sagen, das klappt bei Ihnen vor dem Weihnachtsfestzeit,
+dass Sie sogar richtig in die Rechnung einsteigen, die Lösungen sind ja immer alle gegeben zu den Übungsblättern,
+dann starten Sie gerne voll durch, denn wir haben am Ende in jedem Fach drei Übungsblätter,
+also neun solche Blätter
+mit
+in Summe pro Fachbereich
+irgend sowas wie 20 Aufgaben
+dann haben Sie am Ende sowas wie 60
+Aufgaben, würde ich denken
+über die drei Fächer hinweg
+und das ist gleich auch ein guter Fundus
+mit dem Sie also in die Klausur starten können
+also ich würde Ihnen auf jeden Fall ein Gewiss zur Klausur
+all diese Aufgaben
+die bei diesen Blättern kommen, einmal
+durchgespielt zu haben
+dann sind Sie glaube ich auch ziemlich gut vor Ort
+Ob Sie das alles am Schluss machen und dann bulimieartig das alles ausspucken, das ist mir egal, oder ob Sie es jetzt schon mal, das können Sie sich überlegen.
+Genau, also das wäre die Idee, nächste Woche Montag dann eben diese Übungsgeschichte.
+Jetzt inhaltlich durchgestartet, was wollen wir heute machen?
+Dann zum einen haben wir in der letzten Stunde was begonnen, was ich nicht ganz zu Ende geführt habe.
+Das würde ich gerne mit Ihnen noch wieder aufgreifen.
+Halb unähnliche Körper, da ging es um so Temperaturen in der instationären Wärmeleitung, wie die dann aussehen.
+Das werden wir gleich nochmal zeichnen, dieses Bild, und das ein bisschen genauer anschauen.
+Dazu gibt es dann bei dem Kontakt von zwei Körpern auch mal endlich eine Aufgabe, die wir hier bearbeiten können.
+Wer von Ihnen hat die Formelsammlung dabei?
+Gute Voraussetzung, wunderbar, dann sind Sie gut aufgestellt.
+Die können Sie schon mal rausnehmen, weil ich lasse Sie das ein bisschen machen beim Rechnen.
+Dann als zweites werden wir uns also mit dem einfachen körperkonvektiven Erwärmeübergang beschäftigen.
+Da gibt es nochmal aufgegriffen diese Wörter, Bio und Fouillet-Zeit, die hatte ich beim letzten Mal noch nicht erklärt.
+Und dann diese Diagramme, die sehen etwa so aus wie das hier rechts, mit denen wir grafische Lösungen finden können.
+Das machen wir einmal zusammen und einmal gebe ich Ihnen das als Hausaufgabe mit.
+Vermutlich ist das eine Aufgabe, die wir nächste Woche Montag uns gemeinsam dann angucken werden.
+und als dritten Blog werden wir einsteigen in die Konvektion, mal gucken, wie weit wir kommen.
+Ich sage mal, Qualität vor Quantität, es ist nicht unbedingt erforderlich, dass ich dort alles runterspule,
+wenn Sie das Gefühl haben, das geht Ihnen zu schnell oder es ist irgendwo eine Rückfrage,
+dann bitte äußern Sie sich und reißen mich auch hier raus, wenn ich da gerade so viel schreibe,
+dass ich Sie alle abhänge, davon haben wir auch nichts.
+Genau, wir hatten letztes Mal, oder ich hatte mich ziemlich verheddert bei dieser eigentlich nicht so schwierigen Kehrleitung,
+die aber eine sehr zentrale Gleichung hervorbringt.
+Das ist die instationäre Wärmeleitungsgleichung, in dem Falle in einer Dimension, da steht es mit dem x im Quadrat.
+Hier vorne steht was über die zeitliche Anleitung und dazwischen noch ein paar in solche materialspezifischen Konstanten,
+die man zusammenfassen kann in die Temperaturleitfähigkeit.
+Sieht eigentlich ziemlich harmlos aus.
+Also es geht um die Temperatur, wie die sich zeitlich verändert und die Temperatur, wie die sich mit einem Ort verändert.
+und wenn wir das Ding lösen können, können wir eigentlich jede Fragestellung zu Temperaturveränderungen
+und Temperaturfeldern in irgendwelchen Räumen lösen.
+Tolle Sache, aber der Teufel liegt im Detail, weil es ist eben eine Differenzialgleichung zweiter Ordnung
+mit zwei verschiedenen Variablen, Zeit und Ort.
+Und wenn wir die lösen wollen, dann müssen wir das integrieren und das doppelt integrieren
+und das heißt, dann kommen erst mal zum einen lauter konstanten oder unklare Randbedingungen mit rein,
+bei jeder Integration eine, eine Anfangsbedingung hier, zwei Randbedingungen dort
+und die Lösung dieser Gleichung ist für allgemeine komplizierte Probleme nicht ohne weiteres zu berechnen.
+Deswegen helfen wir uns mit verschiedenen Teillösungen, die dann immer wieder für Sie vom Himmel fallen oder später mit diesen grafischen Lösungen.
+Wir sind noch gefangen in den Bereich der Teillösungen, bei denen der Lösungsansatz für diese entsprechende Gleichung vom Himmel fällt.
+Wir haben uns den aufgeprägten Wärmestrom mit entsprechend fester Temperatur mal angeguckt.
+Man kann aber auch mit aufgeprägten Wärmestrom anschauen.
+Und wir werden uns jetzt an den Kontakt von 2,3 sehen.
+Das hatten wir, glaube ich, hier durchgespielt mit Gusseisen versus Holz mit Temperatureindringen in bestimmte Lagen.
+wie schnell da geht das, bis da die Temperatur sich an eine bestimmte Stelle so und so weit erhöht hat.
+Ich würde jetzt Sie nochmal ganz kurz abholen mit 3 Minuten Video,
+weil ich einfach das Gefühl habe, das ist schon gut und wichtig,
+wenn Sie nochmal sehen und verstehen, was wir da machen.
+Ich bin gar nicht ganz sicher, ob ich das Video vorher schon angespielt habe
+und selbst wenn ich es gemacht habe, dann nehmen Sie es nochmal mit.
+Ich habe es ein bisschen noch mal gekürzt auf die, denke ich, wichtigsten Teil.
+Drei Minuten. Können Sie sich zurücklehnen.
+Also ist das gleich ein Ding?
+Aber jetzt mit drei Dimensionen. Wir haben nur ein großes T statt einem Täter.
+S, differentiating T with respect to S, gives us the slope of a line tangent to the curve.
+Where the temperature increases suddenly, the derivative is large.
+And where the curve changes direction, the derivative is zero.
+The second derivative gives us the slope of a line tangent to the first derivative curve.
+Das ist mir einfach wichtig, das zu verstehen.
+Wie sich Temperatur und Gleichheit im V-Pausen gehalten haben.
+Also wenn ich hier irgendwo eine heiße Stelle habe im Raum, dann muss ich das in die Nachricht stellen, oder?
+Kein Problem.
+Gut, das können Sie vergessen, den Laplace-Operator brauchen wir nicht, aber...
+ist die Energie, die von einer Masse eines Materials
+um eine Temperatur von 1 Kelvin erhöht werden muss.
+Zählen wir CP bei der Materialdensität,
+gibt es die Volumetrische Heizkapazität,
+die per Unitvolumen, anstatt per Unitmasse, ausgeführt wird.
+Die Dividierung der Thermalkonduktivität
+durch die Volumetrische Heizkapazität
+gibt uns eine nützliche Parameter,
+die die Fähigkeit des Materials,
+die Heizkapazität zu erzeugen,
+und die Fähigkeit, sie zu erzeugen.
+Bei uns ist es A.
+Also das waren wir im Gepäck, unser Gusseisen und das ist das Holz.
+und wir hatten uns angeguckt, was passiert nach ein paar Sekunden oder Minuten
+oder wann wird es hier 40 Grad heiß sein an dieser Stelle.
+Und man hat ja eben gesehen, dass beim Busseis es viel schneller geht als beim Holz.
+Das war so in etwa das, was wir die letzten Male gemacht haben.
+Das werden wir nochmal mitbringen, dass wir wieder auf dem gleichen Level sind.
+So, ich hoffe, das war soweit einigermaßen verständlich.
+und also wir haben das für uns halt
+ich muss das leider eben grafisch
+ein bisschen simpler fassen, als es die Videos
+können, irgendwie
+versucht hier über diese verschiedenen Temperaturen
+über die Zeiten zu skalieren
+ich hatte Ihnen heutzutage, das ist aus einem
+früheren Jahrgang, das schon
+in so einem Regenbogenspektrum versucht zu präsentieren
+das haben wir alles gesehen
+und hier war diese entsprechende
+Lösungsfunktion
+die eben dieser
+Differenzialgleichung genügt, wenn ich
+eine aufgeprägte Oberterritentemperatur habe. Also das ist entsprechend einer dieser Fälle. Ich habe
+jetzt gerade gesehen, die Nummerierung dieser Fälle ist zwei Freunde früher andersrum gewesen,
+da war das Fall 2. Das spielt aber keine Rolle, es geht um die Information, die hier unten steht,
+nämlich die Idee, dass man diese Temperatur an beliebigen Orten in diesem Körper abschätzen
+oder sogar wirklich berechnen kann, soweit nur der Körper groß genug ist.
+Und das hat was zu tun mit der Temperatur, die wir am Anfang hatten und dann noch ein paar weiteren Geschichten.
+Und diese Error-Funktion, diese Fehler-Funktion, wir hatten eine Aufgabe eben durchgehend,
+das ist die, die ich gerade ein paar Mal schon referenziert habe, wo ich gesehen habe,
+dass es eine bestimmte Zeit dauert, hier beim Holz 207 Sekunden bis, wenn ich 100 Grad aufpräge, also hier oben starte ich, jetzt nehme ich den anderen Pointer,
+hier starte ich mit 100 Grad in meinen Körper rein, der am Anfang als Ausgangstemperatur hier unten 20 Grad hat,
+Also ich will diese 80 Grad Temperatur an der Oberfläche, an Temperatur Delta, an der Oberfläche drauf geben und wenn ich diese 80 Grad zusätzlich da aufbringe, weil ich einen heißen Topf oder was auf das Holz stelle, dann wird es eben 5 mm Eindringtiefe, 60 Grad erreichen nach, bei Holz 207 Sekunden, siehe Video, dauert etwas länger.
+die Temperatur da eindringt, wohingegen bei Eisen es ganz schnell geht. Es ist eigentlich, glaube ich, logisch.
+Können Sie über den Tisch drüber schauen? Gut, und es ist aber eben in der Rechnung so ein bisschen merkwürdig,
+weil wir, naja gut, wir setzen dann ein paar solche Formeln ein, rechnen uns dieses A aus, Temperaturleitfähigkeit,
+für die Materialien
+und gehen aber dann
+in diese
+Funktion
+mit rein
+bei der wir eben einmal uns das
+Funktionsargument Z anschauen müssen
+und dann über
+aufgreifen
+in dem Falle von dieser Lookup Table
+von dieser Wertetabelle
+umschalten können
+zwischen dem Funktionsinneren Wert
+und dem Ergebnis dieser Funktion
+Grün, der Funktionswert, Entschuldigung, das Argument und Error Function von Z, blau, hier das Ergebnis.
+Da kommen wir also in beide Richtungen schon hier, je nachdem wie die Aufgabe gestellt ist.
+Und diese Tabelle, die haben Sie in Ihrer Formelsammlung mit drin und ist durchaus sehr realistisch,
+dass es im Bereich von Klausuraufgaben genau solche Haarausforderungen für Sie dabei sind.
+Dann haben wir das gleiche Spiel für aufgeprägte Oberflächen.
+Wir haben einen Spurm, den habe ich dann nicht ganz so detailliert gemacht,
+da habe ich keine Aufgabe gerechnet, es ist aber von der Basisidee genau das gleiche.
+Es ist eine allerdings noch viel scheußlichere Funktion, die man bei der Lösung rauskriegt,
+wo es noch einigermaßen verdaubar ist, ist die Berechnung alleinig von dieser Temperatur, hier oben ist sie in hellblau gezeigt.
+Wir haben also hier eine andere Situation, wir meinen, wir haben wieder diesen Körper 20 Grad und wir stellen ihn nicht in Berührung mit einem 100 Grad heißen Wärmereservoir,
+was immer bei 100 Grad bleibt, sondern wir haben eigentlich sogar die in der Praxis
+häufigere Situation, wir stellen, vielleicht hoffentlich nicht Holz,
+sondern vielleicht Metall auf den Herd und heizen.
+Wir heizen immer weiter mit 1 kW, meinetwegen, mit meinem Elektroherd.
+Und ich starte bei 20 Grad und gucke mir an, wie wird sich jetzt die Temperatur
+meiner Pfanne verändern, und zwar direkt an der Kontaktfläche.
+Am Anfang sind es 20 Grad und wenn ich immer weiter heize mit 1 kW und die Wärmeverluste von der Pfanne an der Beklebung mal erstmal vernachlässige, dann wird es auch immer heißer hier.
+Und das ist diese Temperatur Theta B, die können wir also berechnen, wie heiß wird jetzt mein Pfannenboden.
+Ich habe das aber an der Stelle abgekürzt, weil eine andere Aufgabe deutlich häufiger
+in der Praxis dann bearbeitet wird und die greift auf das zurück, dass da ein Wärmespromausgleich
+zwischen zwei Medien stattfinden kann.
+Und jetzt zu meinem neuen Stoff eigentlich, ich male hier mal hin, dass wir einen Körper
+der hat am Anfang Theta 1 und hier ein Körper, der hat am Anfang Theta 2 und nehmen wir mal an,
+Theta 1 ist größer als Theta 2 und was passiert dann? Ja logisch, ein Wärmestrom wird hier über
+diese Grenzfläche rüber gehen. Also heißer Topf auf kalten Tisch, werden wir gleich machen und
+Und dieser entsprechende Verlauf, der sich da einstellt, den kann man auch wieder natürlich in so einem Regenbogenartigen Farbdiagramm sich angucken.
+In jedem Falle hatte ich früher wohl mit Dunkelblau angefangen als Zeitpunkt 1.
+Da haben wir jetzt wieder nach oben hin skaliert die Temperatur.
+Ja? Und also die Idee ist, der eine Körper ist heiß, der andere Körper ist kalt.
+Nach oben gibt es die Temperatur und dieses ist die sinnvolle, reale Koordinate.
+Das ist meinetwegen jetzt vom Topf in den Tisch hinein.
+Hier sind wir weit weg von der Oberfläche im Topf und kommen immer näher ran.
+Hier ist die Grenzfläche, da berühren sich Topf und Tisch und hier gehen wir immer weiter in den Tisch hinein.
+Und also am Anfang diese klare Unterscheidung, zwei unterschiedliche Temperaturen, so starten wir in das Spiel, aber jeweils konstante Temperaturen.
+Und dann können wir über die verschiedenen Farben hier angucken, wie sich das verändern wird und Sie können sich vorstellen, dass es irgendwie etwa so aussieht.
+Ja, also die Temperatur wird hier nah an der Grenzfläche ein bisschen absinken, wohingegen sich das hier schon ein bisschen aufgewärmt hat und das gleiche Spiel können wir fortsetzen mit entsprechenden Verlauf, der dann irgendwie so aussieht.
+Und Achtung, interessanterweise wird diese Kontakttemperatur, das ist eigentlich eines der etwas verblüffenden Ergebnisse, diese Kontakttemperatur muss nicht unbedingt, leider ist es in meinem Bild jetzt etwas so, genau in der Mitte zwischen den Zweien sein, aber interessanterweise verändert die sich über die Zeit nicht.
+Also ganz am Anfang, klar, haben wir keine definierte Kontakttemperatur, sondern eins ist heiß, eins ist kalt.
+Aber schon nach wenigen Millisekunden wird sich hier eine bestimmte Kontakttemperatur ausbilden.
+Und Sie werden sehen, dass die Kontakttemperatur, die hier schon zeitlich konstant ist,
+also das heißt, dieses Theta K ist keine Funktion von der Zeit.
+ich würde gerne zeigen ungleich so jetzt bin ich kein zeichen genie insbesondere nicht mit
+meinem tablet auf der nächsten folie kommt es deshalb noch mal reinkopiert wo ich aber
+dahin gehen noch mal ganz kurz hier wieder mal vom himmel fallen aber mit verblüffender
+in der Ähnlichkeit zu etwas, was Sie früher gesehen hatten,
+wieder diese Gleichung, wo ich welche Temperatur erwarte.
+Diese Formel, die hier unten ist,
+jetzt lassen Sie mich vielleicht mal so ganz verrückt mit diesem Highlighting-Pen arbeiten,
+also das hier, das gilt eigentlich für diesen ganzen Raumbereich.
+Also was ich jetzt in gelb einmarkiert habe, ist,
+im Körper 1
+meinetwegen
+mein Topf
+oder meine Pfanne oder was auch immer
+mein Metallblock
+der heiß ist
+da kann ich
+an allen möglichen Orten
+zu allen möglichen Zeiten
+diese Temperatur
+berechnen, also ich könnte mir
+jeden beliebigen Punkt hier drin nehmen
+ich nehme jetzt mal wieder
+den normalen Stift und eine Farbe Rot
+nur dass man das zeigt
+Also ich könnte hier oder hier oder hier zu jeder Zeit mit der Lösung dieser Gleichung,
+die wieder diese merkwürdige Fehlerfunktion hat, Lösungen finden.
+Wann ist es wo, wie heiß.
+Und hier drüben ist das gleiche Spiel mit der Gleichung, die praktisch parallel genauso aussieht,
+nur eben alles sich auf den Körper 2 bezieht.
+So, das heißt,
+dieses ist ein geschlossen lösbares Problem.
+Soweit verdaubar?
+Wir werden es jetzt gleich anwenden
+und Sie sollen es anwenden, nicht ich.
+Das heißt, Sie können sich, wie gesagt,
+gleich bereit machen. Eine Zwischenfolie habe ich noch,
+ich lasse sie aber noch ein bisschen abmalen,
+falls Sie das wollen, aber
+es ging da eigentlich hauptsächlich darum,
+dass Sie das hier im Raum mal einmal wirken lassen.
+Wir hatten diese Kontakttemperatur gerade erwähnt,
+auf der letzten Frühgestellung noch gar nicht drauf,
+und diese Kontakttemperatur hat was zu tun mit der Anfangstemperatur auf der einen Seite,
+der Anfangstemperatur auf der anderen Seite und noch ganz vielen komischen Bs.
+Und diese Bs sind jetzt nun schon wieder eine neue Definition,
+Also wir hatten die Wärmeleitfähigkeit und, Entschuldigung, ich muss aufpassen, Wärmeleitfähigkeit ist Lambda, das ist ganz klar.
+Also das ist die Wärmeleitfähigkeit, das ist die Temperaturleitfähigkeit.
+ja, können Sie es jetzt nur haben
+wir haben das ja in Ihrem Skripto
+und jetzt kommt plötzlich nochmal was Neues dazu
+ein B
+und dieses B heißt
+Wärmeeindringkoeffizient
+und wenn Sie sich das einmal anschauen
+dann hat das schon eine sehr merkwürdige Struktur
+da steht wieder ein Lambda
+und ein rohes C drin, die kennen wir alle
+also Dichte, die Wärmeleitfähigkeit
+Und die spezifische Wärmekapazität, nachdem es nur um Festkörper geht, steht ja nicht CP oder CB, aber jetzt steht da eine Wurzel drüber.
+Und wenn Sie sich angucken, dass die Einheit von dem, was Sie da berechnen, Watt pro Wurzelsekunden pro Quadratmeter und Kelvin ist,
+dann würden Sie wahrscheinlich, wenn Sie es nicht vorher schon mal gesehen hätten, wie jetzt hier in diesem Moment in der Klausur sagen, Mist, ich habe nicht berechnet.
+Ja, es kommt irgendwas mit Wurzelsekunden raus, das kann ja jetzt nicht sein, aber es ist so.
+Das ist ein sehr merkwürdig anmutender Term, der in vielen Konstellationen in Multiplikationen auftritt
+und dadurch kann diese Wurzelsekunde sich wieder herauskürzen,
+beziehungsweise zu verdaubaren klassischen Einheiten gehen.
+Also, das heißt, ich schreibe das jetzt hier auch nochmal einfach nur hin,
+dass wir uns da vollständig haben.
+Lambda mal O mal C.
+Es sind die gleichen Geschichten wie bei der Temperaturleitfähigkeit.
+Für die Wärme eindringen.
+So, eindringen-Koeffizient.
+Das können Sie also von da an nehmen.
+also deswegen
+nur noch mal dieser Hinweis
+so und jetzt haben wir das was
+das war auf der Vorrechenfolie schon drauf
+das brauchen wir nicht noch weiter
+und hier hat das Kollege nochmal
+deutlich schöner und sehr
+sauber
+gemalt, da sieht man diese Kontakttemperatur
+da sieht man das Material in schwarz
+das ist dieses
+da sieht man das Material in rot
+das ist das zweite
+und beide von diesen Körpern die da in Kontakt treten
+haben einen ganzen Haufen
+wichtige
+Materialeigenschaften, das ist das Lambda,
+das ist das Rho, das ist das C,
+das A hätte ich da jetzt nicht explizit
+aufgehört, weil A ist nichts anderes
+als eine Kombination von
+Lambda, Rho und C.
+Das ist einfach eine Materialeigenschaft,
+die die anderen drei
+zusammenfasst.
+Und jetzt
+können wir das Ganze vielleicht einfach mal spielen.
+Ich würde Ihnen fünf Minuten geben.
+Die Zeit darf man uns, glaube ich, einfach mal gönnen.
+Bis 9.19 Uhr ist es dann, um diese, oder 9.20 Uhr machen wir, ich lese die Aufgabe noch ganz kurz vor.
+Sie dürfen gerne mit Ihrer Nachbarin oder Nachbarn zusammenarbeiten und einfach mal da rein starten.
+Es geht dran, 180 Grad heiße Pfanne, 20 Grad bei heißer Tisch und am Ende ist es natürlich de facto ganz viel vom Geldstil mit dem Taschenrechner.
+Wer hat von Ihnen einen Taschenrechner dabei?
+Ja, das ist gut.
+Diejenigen alle auf der Seite keine Taschenrechner?
+Dann müssen Sie sich im Notfall irgendwie da rüber setzen oder irgendwie anders vernetzen.
+Umdrehen, hinlaufen, machen Sie das.
+Dann kommen Sie vorwärts oder nehmen Sie Ihr Handy.
+Das geht auf dem Notfall auch.
+Viel Spaß, viel Erfolg.
+Wer die Aufgabe A gelöst hat, kann gerne in die Aufgabe B gehen.
+Aufgabe A wäre die Erwartungshaltung von der Klausurzeit, dass Sie es schaffen, in fünf Minuten.
+Sie dürfen es jetzt zusammen machen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Da muss ich ja ganz kurz mal meine Präsentation beantworten.
+Okay.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+So, wer hat denn schon irgendwas gerechnet?
+Was berechnet für die Arme?
+Noch nicht?
+Ja, Sie haben was rausgebracht.
+Wollen Sie es mal sagen?
+175,2 Grad.
+Schön.
+Die habe ich auch.
+Wenn jemand noch vielleicht den halben Zeiler abschließen.
+Ansonsten würde ich Sie jetzt wieder einfangen.
+Sie dürfen gleich hier mit herschauen.
+Wie haben Sie das gemacht?
+Vielleicht erklären Sie es ganz kurz mit zwei Sätzen.
+Ja gut, ich habe erstmal die Formel für die Kontakttemperatur aufgestellt.
+Genau, dieses Ding.
+Dann habe ich D1 und D2 ausgerechnet.
+Richtig.
+Und dann eingesetzt.
+Genau.
+So, jetzt noch mal ganz kurz für alle im Raum, keine Sorge, auf der nächsten Folie steht
+die Lösung und die können Sie sich auch gerne fotografieren, ich zeige es Ihnen gleich.
+Aber schauen Sie bitte noch mal ganz kurz mit her, für diejenigen, die es vom Verständnis noch mal kurz nachvollziehen wollen.
+Kalter Tisch, 20 Grad, Körper 1 ist Holz.
+Zweites, Pfanne aus Eisen, 180 Grad.
+Ja, das ist meine Hilfsskizze.
+Soweit ist das Spiel.
+Und wie der Herr von Ihnen gerade gesagt hat,
+Ups, das war jetzt nicht so geschickt.
+Ich kann das wieder rausnehmen.
+Es geht um die Kontakttemperatur, die sich hier einstellt, wenn die Pfanne da drauf steht
+und ihre Koordinate x ist am Ende diese hier und wir werden herausbekommen, das sind 175
+Grad Celsius, 175,2, wie Sie richtig gesagt haben, hier ist die Lösung.
+Bitte gerne Foto machen, falls Sie das Gefühl haben, Sie würden es gerne nochmal so vorgerechnet
+die Zahlen sehen, aber es ist genauso,
+was Sie gesagt haben, zweimal diese
+B-Werte ausrechnen und dann
+einsetzen. Es ist keine
+hohe Hexerei.
+Jetzt kommt die Aufgabe B, die wird
+jetzt schon ein bisschen schwieriger.
+Da geht es nämlich darum, wie weit
+oder Entschuldigung, bis zu
+welcher Einbringtiefe
+hier ist die Einbringtiefe
+in den Holztisch hinein
+ist 5 Sekunden
+nach dem Aufstellen der Pfanne eine Temperatur von größer 40 Grad. Also stellen wir uns
+vor, Sie machen was völlig anderes und das ist in der Technik durchaus wichtig. Zum Beispiel
+bei Galvanostatik, Sie wollen irgendwo was abscheiden oder Sie wollen ein Metall abschrecken
+in der Technik und Sie müssen sich überlegen, ja gut, wie lange muss ich denn jetzt mein
+Autoteil, was da lackiert wird
+in irgendein
+Trocknungssystem, in irgendeine
+Hitze exponieren
+damit
+die Farbe klebt
+und irgendwie irgendwas
+polymerisiert oder irgendwelche Dinge
+sich einstellen, das sind ganz oft diese Fragen
+sie wollen in irgendeine
+also sie wollen
+die Zeit
+vielleicht vorgeben
+und sagen, wie weit kann ich denn jetzt
+polymerisieren, wenn es bei 40 Grad
+stattfindet, in mein Material
+herein. Oder, das Spiel kann man
+natürlich auch andersrum spielen, man kann sagen,
+wie lange muss ich denn warten,
+bis ich in der und der
+Tiefe eine so und so hohe Temperatur
+erreicht habe. Das ist logisch, das geht
+genauso. Also, dieses Spiel
+und wir werden das
+auf der nächsten Folie kurz gemeinsam
+rechnen, weil es ein bisschen
+umständlicher ist, aber auch nicht
+die Hexerei. Wir hatten das gelöst
+vorhin. Wir haben auf der vorigen Folie, Entschuldigung, das habe ich gar nicht im Detail
+ausgerechnet, aber es ist keine Hexerei, neben dem B auch das A zu berechnen für die jeweiligen
+Materialien und in diesem Falle brauchen wir das A Holz. Warum brauchen wir das? Weil wir
+bei dieser Teilaufgabe
+am Ende
+uns für die
+Lösung der Differenzialgleichung
+interessieren
+hier steht es im Körper 1
+ja das ist das
+Metall
+und hier ist der Körper 2, das ist das Holz
+also das muss ich mir angucken
+diese Gleichung
+und die nutze ich jetzt
+und sage hier
+Theta Holz, nichts anderes, Entschuldigung, muss ich natürlich jetzt alles richtig stellen.
+Theta Holz von X Holz, das war also diese Eindringtiefe und T ist 5 Sekunden minus Theta Kontakttemperatur,
+die habe ich ja zum Glück in der vorigen Aufgabe schon gerechnet.
+Theta A, das ist die Anfangstemperatur vom Holz.
+Das ist natürlich wieder schwierig mit dem Schriftbild, tut mir leid.
+Wenn irgendwas gar nicht lesbar ist, bitte gerne einfach reinrufen,
+dass wir ziemlich Hieroglyphen entziffern, sondern hoffentlich mit Folgen.
+So, also es ist im Endeffekt abgeschrieben diese Formel da, alles gut, und jetzt setzen
+wir ein und spielen los.
+Wir hatten diese Anfangstemperaturen, die liegen bei 20 Grad hier unten, wir haben die
+Kontakttemperatur 175,2 Grad, ich erlaube mir die jeden Einheiten auf der linken Seite
+komplett wegzulassen, nachdem die sich alle mal alle herauskürzen. Wir haben hier einen Bruch von lauter
+Temperaturen. Das sind die Werte, die uns da links beschäftigen und hier drüben haben wir diese
+Error-Funktion und das linksseitig hat einen Zahlenwert von 0,87, wenn ich das
+richtig gesetzt habe und wenn ich 0,87 auf die Error-Funktion loslasse, dann muss ich
+mal angucken, wo muss ich schauen? Also, Error-Funktion von irgendwas soll gleich 0,87 sein. Das heißt,
+ich muss also gucken, hier bei der Zahl der Error-Funktion, hier sind irgendwelche kleinen
+Zahlwerte, hier bin ich in der richtigen Umgebung. 0,866, 0,8733, das ist ziemlich gleich weit.
+jetzt muss ich mal selber überlegen
+von 6
+das ist ein bisschen weiter, also es wird dieses hier sein
+das ist der nächstgelegene
+Wert von 0,87
+falls das hier lauter Nuller sind
+ich habe es jetzt zugegeben gar nicht genau
+ausgeschrieben
+von meinen Zahlenwerten
+hier, aber es ist
+wohl
+dieses, was wir bekommen
+und dann nehme ich mal
+eine andere Farbe, meinetwegen Rot
+der Zahlenwert, den ich habe, das ist das, was hier das z ergibt. Also ich schreibe jetzt ganz
+frech hier oben auf der Folie weiter, z ist gleich 1,08 ist aber auch gleich der Eindringstiefe xh
+durch wurzel aus zweimal im holz mal der zeit und das holz habe ich hier bereits ihn hingeworfen das
+ist wieder sehr hengst ärmliche simple einsätze arbeit mit diesen werten die sie da oben haben
+ich habe jetzt da den Index
+in dem Fall vergessen, es wäre geschickt
+da überall noch Holz dran zu schreiben
+dann haben wir also diesen Zahlenwert
+den setze ich da oben ein, ich stelle es um
+nach xh und dann kann ich das
+lösen, also
+xh
+ist gleich
+zweimal in Wurzel
+jetzt schaue ich mal, wie das aussieht
+wenn ich gerade verwundere, da sieht man es schon
+Ah ja, da habe ich mich verschrieben an einer Stelle.
+Hier ist die Wurzel nicht über die 2.
+2 mal AH.
+2 AH mal, und das sind 5 Sekunden.
+Und wenn Sie den A-Wert sehen, der ist Quadratmeter pro Sekunden.
+wenn Sie den mit 5 Sekunden multiplizieren, dann haben Sie Quadratmeter,
+dann kommt immer noch diese deutlich wirkungsvolle 10 hoch minus 6 Exponent,
+das heißt, es ist also wirklich ein winziger Zahlenwert,
+dann nehmen Sie die Wurzel, dadurch wird das um den Faktor 2 geringer, der Exponent,
+das heißt, das sind dann 10 hoch minus 3 Quadratmeter,
+Das sind nichtsdestotrotz bei Weitem keine Meter, sondern eher Millimeter bis Zentimeter.
+Was rauskommt hier ist 0,017 Meter oder umgerechnet 1,017 Meter.
+Das sind 1,7 Millimeter.
+Tut mir leid für die Platzeinteilung, da war ich ein bisschen zu breit unterwegs hier.
+Ich hoffe, man kann es aber jetzt lesen.
+Also die Antwort zu der Aufgabe B, bis zu welcher Eindringtiefe bis 5 Sekunden nach dem Aufstellen der Platze liegt das Holz größer als 40 Grad?
+Ja, gerade mal 1,7 mm.
+Das heißt, es geht wirklich nur um die obersten Schichten.
+Ja, es deckt sich vielleicht auch so ein bisschen mit Ihrer Einschätzung, falls es wirklich mal passiert ist und man was viel zu heißes auf irgendein Brettchen oder irgendwas draufgestellt hat,
+ist es nicht so, dass die Mitte vom Brettchen auch noch verpult und verschmiert ist, sondern es ist nur die oberste Schicht, die was abgekriegt hat.
+Das geht nicht so schnell da rein.
+Ja, in fünf Sekunden, da merken Sie schon, es fängt an zu stinken, aber es ist eben noch nicht so, dass das Holz in der Mitte irgendwie irgendwas abbekommt.
+Okay?
+Ja, ich habe zumindest nicken gesehen. Dann mache ich weiter.
+Jetzt gibt es in dem nächsten Teil der Vorlösung ein paar neue Termini, die wir bearbeiten.
+Also wir machen hier so einen gewissen Bruch.
+Wir haben diese exakten Lösungen für halbunendliche Körper angestellt mit zwei Aufgaben und drei verschiedenen Fällen.
+Jetzt geht es darum, eine Lösung für sogenannte einfache Geometrien zu finden, die deutlich schneller ist,
+weil das, was wir gerade gemacht haben, dauert schon ziemlich lang, das alles rauszufummeln, diese ganzen Formeln und so weiter.
+Wir werden jetzt mit grafischen Lösungen zu tun kriegen und dafür brauchen wir noch zwei wichtige Definitionen,
+einmal die Biozahl und einmal die Fourierzahl.
+Die Bionzahl ist nichts anderes als ein Gedanke des Verhältnisses zwischen dem, was an Wärmeleitung stattfindet und dem, was an Konvektion stattfindet.
+Nehmen wir an, wir hätten eine heiße Metallplatte in umgebender Luft und diese heiße Metallplatte wird wenige Sekunden nachdem wir sie vielleicht aus einem Hochofen herausgeholt haben, sich abkühlen, ist ganz klar und die Luft drumherum wird sich erwerben.
+Ganz am Anfang ist die Platte heiß, Temperatur ist nach oben eingezeichnet auf dieser Skala, Sie werden das aber ohnehin auf den nächsten Seiten nochmal sehen.
+Und dann wird die Platte sich abkühlen, entweder so oder so oder so.
+Das heißt, entweder bleibt die Platte etwa gleich warm, überall im Materialkörper und an der Oberfläche und macht nur so eine ganz leichte Wellenbewegung.
+Oder aber man sieht hier an diesem Körper, dass der Außen sehr viel stärker abgekühlt wird und die Mitte noch extrem heiß ist.
+Sie kennen das, Sie essen eine heiße Kartoffel und Sie verbrennen sich den Mund.
+oder eine heiße tomate oder irgendwas auf ihrer pizza oder solche dinge ja außen ist es schon
+einigermaßen kühl sie denken alles gut ich weiß rein und überraschung in der mitte ist es brutal
+heiß das ist immer dann besonders der fall wenn die bio zahl viel größer 1 ist dass sie sich den
+mund verbrennen wenn die bio zahl viel kleiner 1 ist dann haben sie so was das ist homogen überall
+gleich warm ist. Also das heißt, wenn Sie es außen anfangen, sind Sie dann irgendwie so, okay, passt, kann ich essen und dann taucht es auch in.
+Nahrungsmittel haben typischerweise eine sehr hohe Biozahl, da passiert das ziemlich heftig.
+So, dieses ist diese entsprechende Größe und die taucht dann wieder auf, wenn wir uns jetzt gleich mit diesen grafischen Lösungen befassen.
+Da werden wir nämlich wieder die dimensionslose Temperatur, die hatten wir mal anders schon mal, nutzen und eine Funktion, die von Fourier und Biozahl abhängt.
+Fourierzahl kommt in wenigen Folien.
+Und was wir dann machen können, ist die Lösung statt, wie ich es gerade gemacht habe, über sehr aufwendige Rechnungen und diese Tabellenwerte mit der Error-Funktion,
+auch grafische Mittel, in denen wir auf einer Achse die Dimensionen, also Temperatur, auf einer Achse die Biozahl
+oder auf einem hier dargestellten Regenbogenplot oder wie man es sagen will, also mehrere Graphen hier drin,
+die Fourierzahl dargestellt haben und dadurch Korrelationen zwischen denen finden können.
+Und diese jeweiligen Diagramme, die finden Sie auch in Ihrer Formbesammlung, die gelten immer für bestimmte Geometrien.
+Und dieses Vorgehen wollen wir uns jetzt noch ein bisschen genauer anschauen. Ich habe das gerade ja schon eigentlich ziemlich detailliert durchdekliniert. Nichtsdestotrotz soll das hier nochmal gemacht werden.
+Vielleicht noch dieser Hinweis, der ganz hilfreich ist, wenn man jetzt hier sagt,
+okay, ich nehme wieder meinen Highlighting-Pen.
+Ne, das mache ich nicht, das ist zu eng.
+Ich nehme mal hier den Gedanken, dass es in der Mitte von diesem Material,
+meinetwegen in Lila ist.
+dann habe ich hier das entsprechende diagramm der platten mitte das wäre dieses und wenn ich
+allerdings die außen seiten anschauen will das ist hier und hier dann brauche ich das diagramm
+und das diagramm was rechts es geht für zylinder ist aber immer die gleiche idee das heißt ich
+muss immer das richtige diagramm später finden jetzt zum dahinter liegenden mathematik die wir
+nicht im Detail uns angucken, aber eben doch ganz kurz. Nach oben hier die Temperatur. Entschuldigung,
+falsche Farbe. Sie sehen das, hier steht es, nach oben steht die Temperatur. Und wir haben meinetwegen
+am Anfang eine Basissituation, dass der Körper heiß ist. Das hatten wir gerade gesagt. Das ist Theta A.
+Und dann haben wir als nächstes die Situation, dass jetzt nochmal so eine mittlere Biozahl eben die Temperatur sich so abfällt.
+Und außenrum, um das Material herum, da gibt es so eine Knickbewegung.
+Warum? Ja, das ist Konvektion.
+Die hatten wir jetzt auch schon oft irgendwie mitbekommen, dass die eine Rolle spielt.
+und dann geht dieser entsprechende Verlauf hier so herunter.
+Gut, und am Ende haben Sie irgendwie ein relativ gesehen kaltes Material.
+Ich kann das ja jetzt nicht so extrem gut zeichnen,
+aber ich hoffe, man kann sich das etwa nachvollziehen.
+Dann, was passiert denn eigentlich?
+Ja, am Ende geht die Wärme, Q-Punkt, die Wärmesprungdichte,
+die Wärme ist grob als solches, von der Mitte, da wo es am heißesten ist, raus in beide Richtungen.
+Wir erinnern uns, es gibt stationäre Wärmeleitung vorhin, das Video.
+Von da, wo es heiß ist, geht es in die Umgebung, in alle Raumrichtungen.
+Hier haben wir eine hohe Symmetrieachse, weil es geht ja um eine Platte, die unendlich lang ist.
+Und diese Wärme wird dann hier übergeben an den Außenbereich, bei dem logischerweise es eine große Rolle spielt,
+wie groß denn Alpha, die entsprechende Konvektionsthematik bei Ihnen vorliegt.
+wir haben den Übergangskoeffizient
+und die Temperaturleitfähigkeit
+Lambda spielt innerhalb
+dieses Materials eine große Rolle
+jetzt haben Sie noch die letzte wichtige Info
+hier, ich mal das mal mit
+schwarz da rein, hier oben steht es
+aber auch schon im Groben und Ganzen
+wir können hier noch eine Koordinate festlegen
+die Koordinate X
+und die ist nur in der Mitte hier
+von der Platte genau bei S halbe und hier ist sie bei S. Das heißt, es ist nichts anderes, als eigentlich was
+einzeln drunter steht. Das ist die Breite, die Platte hat S als Dicke. Wir fangen bei 0 an, S halbe ist die Mitte
+und S ist das Außen. So, jetzt haben wir folgende Bedingungen, die für Sie eine Rolle spielen.
+Zum einen, Anfangsbedingungen haben wir gegeben, das ist dieses hier. Klar, am Anfang haben wir die
+Starttemperatur. Als zweites haben wir eine entgleichende Randbedingung für das, wie der
+Wärmestrom sich nach außen hin verändert und der hat was mit dem Konvektionsthema zu tun. Wie warm
+war es am Anfang, hier Tether unendlich, ganz weit weg von ihrer Platte und wie ist die Temperatur
+an der entsprechenden
+Kontaktstelle
+mit der Zeit
+und aber da gibt es
+eine entsprechende Bedingung
+die hier gelten muss
+nämlich diese Übergangstemperatur
+zwischen diesen zwei Punkten
+die ist
+immer konstant
+die ist stetig
+das heißt
+da geht es mit der gleichen Temperatur
+weiter auf der Konvektionsseite
+wie es da auf der Wärmeleitungsseite geht.
+Und das ist genau das, was in dieser Gleichung mit drin steht,
+die Sie nicht auswendig lernen müssen.
+Ich wollte Ihnen nur nochmal mitgeben,
+dass wir mit zwei Anfangsbedingungen,
+in einer Anfangsbedingung und zwei Randbedingungen arbeiten,
+und hier ist die zweite Randbedingung,
+dass wir wissen, dass bei S halbe,
+das ist genau in der Mitte hier,
+das sind diese Punkte,
+dass wir dort einen Delta Theta nach Delta X gleich 0 haben. Das heißt, am Ende ist die Ableitung hier
+immer 0. Das heißt, hier fällt die Temperatur in beide Richtungen gleich stark ab. Das ist eine
+Symmetrieachse. Der Körper ist links wie rechts gleich. Okay, Sie haben also drei Dinge. Einmal
+Anfangsbedingungen, zwar bei Randbedingungen.
+Und immer wenn wir das haben,
+können wir das Teil lösen.
+Dieses instationäre Wärmeleitungsgleichungs-
+Ding. Und genau das
+wird jetzt auf den nächsten Folien stattfinden.
+Ich würde jetzt weiter blättern.
+Dann
+können wir nämlich für die
+Platte, die wir gerade uns angeguckt
+haben, sagen,
+dass dieser Spiegelsymmetrie-
+Faktor
+genau
+S halbe ist.
+das hatten wir gerade uns angeschaut, wenn wir stattdessen eine Platte haben, die auf der einen Seite isoliert ist
+und nur auf der anderen Seite die Konvektion stattfindet,
+anders als bei dem Problem, was ich auf der vorigen Seite gehabt habe,
+dann können Sie sich vorstellen, dass die entsprechende X-Koordinate, die eine Rolle spielt,
+mit der gesamten Plattenlänge zu tun hat,
+weil wenn Sie hier hinten isoliert haben,
+geht da keine Wärme verloren.
+Es geht nur Wärme hier vorne verloren,
+deswegen müssen Sie die ganze Platte angucken
+und nicht nur die Hälfte der Platte.
+Und wenn Sie einen Zylinder haben,
+der hoffentlich nicht isoliert ist,
+sonst macht es keinen Sinn,
+dann spielt natürlich der Radius
+die entscheidende Rolle für diese Koordinate.
+Bei der Kugel, der ist auch der Radius, das können Sie sich aber ersparen.
+Ich werde mit Ihnen keine Kugelaufgaben rechnen.
+Und hier oben sehen Sie jetzt, wie die Biozahl definiert ist.
+Die hat was mit der Werbeleitfähigkeit zu tun, die hat was mit der Konvektion zu tun.
+Das ist genau das, was ich gesagt habe.
+Die Biozahl ist nichts anderes als das Verhältnis zwischen Konvektion und Werbeleitung.
+Es ist nämlich so, dass wenn die Werbeleitung sehr gut ist, dann ist Ihr Material, nehmen wir die Kartoffeln, überall gleich heiß.
+Innen und außen, wie die Umgebung.
+Das stimmt aber nicht, das passiert eher, wenn Sie eine Metallkugel in den Ofen legen.
+Die werden Sie merken, oben ist es immer noch ziemlich heiß, außen, aber die ist dann auch in der Mitte genauso heiß.
+wohingegen, wenn Sie die Kartoffeln nehmen
+dann haben Sie eben das
+dass die Konvektion
+doch relativ groß ist
+im Gegensatz zu dem
+was die Wärmeleitfähigkeit von innen nach außen schaufelt
+das heißt, die Oberfläche wird kalt
+aber die Mitte ist noch heiß
+ich hoffe, diese Anschauung war einigermaßen
+erträglich
+und dieses Delta X kommt in dieser Formel mit vor
+naja, das hat eben was damit zu tun
+wie Ihre Problemstellung ist.
+Müssen Sie mit einer Platte arbeiten, mit einer isolierten Platte oder mit einem Zylinder.
+Interessant, bei mir war hier noch mehr.
+Den hatte ich mit da reingemacht, den Mittelpunkt dieses Zylinders.
+Soweit.
+Jetzt haben wir hier nochmal zwei Bilder, die das auch nochmal ganz kurz zeigen.
+Und vielleicht hier so ein Körper, der eben mit einer ganz hohen Biozahl konfrontiert ist,
+noch extremer ist ein sehr fethaltiges Gewebe und zwar zum Beispiel, falls Sie Krustenbraten
+in Ihrem Backofen machen, da haben Sie also eine Fettschicht, die ist eher kalt außen
+und in der Mitte ist Ihr entsprechender Fleisch oder was, das ist dann besonders heiß, wohingegen
+dieses hier, bei dem das gleichmäßig
+ist, wenn ich da jetzt meinetwegen immer
+die gleiche Temperatur reinschalbe,
+50 Grad, egal wo,
+wäre jetzt nur das Pendant
+zu der Grafik unten, wo es ja in der Mitte
+auf 130 Grad hochgeht und außen
+sehr kalt ist, das ist über 20 Grad,
+egal, das wäre jetzt der Fall
+bei kleiner Biozahl,
+bei meinetwegen einer Metallkugel.
+Soweit dieses Ding,
+Das hatten wir gerade schon gesehen. Jetzt kommen wir noch zur Foyerzahl.
+Die Foyerzahl ist nichts anderes als die Wärmeleitung durch die Wärmespeicherung.
+Was bedeutet das? Dafür ist dieser Kasten, den er gemalt hat, vielleicht ganz gut.
+Man guckt sich an, wie lange dauert es denn, bis Wärme, die von hier in einen Körper reingegeben wird,
+hier hinten auch wieder herauskommt.
+es geht also um irgendwie
+was wie eine Zeit
+hier steht auf dimensionslose Zeit
+wenn man sich das genau anschaut
+kürzen sich diese ganzen Einheiten hier raus
+und
+am Ende beeinflussen wird es
+wie groß und wie gut
+ist die Wärmeleitung
+wenn die Wärmeleitung gut ist, geht es hier schnell durch
+aber
+in Konkurrenz dazu steht
+wie viel Wärme kann dieser Körper
+selber speichern
+Also da ist es jetzt vielleicht so, wenn ich den metallischen Körper nehme, dann kann ich den aufheizen und der schluckt erstmal die ganze Wärme, bevor sie dann hinten wieder rausgegeben wird, auf der anderen Seite.
+Das ist nur so die ganz knappe Anschauung und entsprechend sind hier drin wieder diese Temperaturleitfähigkeit.
+was mit der Wärmeleitfähigkeit zu tun ist
+nochmal ein bisschen normiert
+auf dem Zähler
+die Zeit selbst
+die Zeit selbst spielt eine Rolle
+und hier unten
+als x²
+dieser entsprechende
+Ortsfaktor
+wobei hier eben die Wärmekapazität
+kommt über den A
+Zahlenwert wieder rein
+wenn Sie sich das Ganze ausgegraut
+ankommt, dann sehen Sie, dass man das umformen kann, wo es um die Wärmeleitfähigkeit, die Fläche und irgendeine Temperaturdifferenz über den Ort geht,
+gegenüber dem, wo Sie den entsprechenden Massenwert mit der Wärmeleitfähigkeit und der Temperatur haben.
+Also am Ende, nehmen Sie die Formel bitte aus der Formelsammlung, nutzen Sie, um diese Dinge zu berechnen und dann haben wir, wenn wir diesem jetzt folgen, eine Möglichkeit vorher, numerisch am Computer, Dinge zu berechnen.
+Das kann man natürlich auch über Computerprogramme machen, aber diese grafische Lösung gibt einem sehr schnell eine sehr gute Indikation,
+wie ist die Temperatur, an welcher Stelle, nach welcher Zeit.
+Und das werden wir in Kürze in einer Rechenaufgabe machen.
+Jetzt bin ich gerade am überlegen, vielleicht ist es gar nicht schlecht, ich mache diese Aufgabe noch und würde sie dann in die Pause entlassen,
+sodass wir dann nach der Pause ein bisschen darauf reflektieren können.
+Ich gehe also rein in einen Aufgabenbereich, der sagt, aha, wir haben so eine Platte 50 mm dick,
+die ist aus Metall, aus Edelstahl und am Anfang 100 Grad heiß, die kommt also aus irgendeinem
+Vielleicht Schmelzofen hat aber schon eine gewisse Abkühlung hinter sich oder wurde aufgeheizt, um jetzt beschichtet zu werden oder sowas.
+Und sie wird abgekühlt mit kaltem Gas von außen.
+Und das, nehmen wir das an der Stelle mal so, da ist eine Platte mit eingezeichnet, also da ist die, das ist meine Metallplatte.
+hier ist 100 Grad und drumherum ist 0 Grad, Theta A, Anfangstemperatur, schwierig zu lesen da jetzt, vielleicht, Theta A und hier haben wir die Umgebungstemperatur, Theta unendlich, die ist also viel niedriger
+und Wärmeübergangskoeffizient, den haben wir jetzt einfach gegeben gekriegt.
+Das heißt, wir haben eine Info, wie schnell geht es hier mit der Konvektion der Wärmeabtransport in die Umgebung.
+Die Platte ist auf beiden Seiten dieser 0 Grad kalten Temperatur ausgesetzt
+Und wir haben hier drin noch zwei weitere Größen schnell gegeben,
+die Wärmeleitfähigkeit und aber auch die Temperaturleitfähigkeit.
+Und jetzt, wann erreicht die oberflächliche Temperatur Grad mal 30 Grad?
+Also das heißt, die Frage, ich mache es mal in Rot, ist, wann ist hier 30 Grad?
+T ist gleich Fragezeichen.
+Das ist die Oberflächentemperatur.
+So, und wie gehen wir vor?
+Wir müssen uns drei Sachen anschauen.
+Dimensionslose Temperatur, Biozahl, Folienzahl.
+Können wir eigentlich gleich schon hinschreiben.
+Zeta Stern an der Oberfläche.
+die Dimensionslose Temperatur können wir berechnen, das steht hier im Prinzip, wir
+wollen eine Temperatur haben genau an der Oberfläche, Theta Oberfläche von Zeit minus
+Zeta unendlich durch Zeta Anfang minus Zeta unendlich.
+Jetzt ist es sehr schön, weil ich 0 und 100 Grad habe.
+Und da kommt die 30 Grad als abschließende Temperatur, also 30 minus 0 durch 100 minus 0.
+Und dann kommt da 0,3 raus.
+Also, Ihre dimensionslose Temperatur ist nichts anderes als,
+wo will ich denn rauskommen am Ende zwischen der Starttemperatur, 100 Grad, und der zweiten Referenztemperatur, nämlich das Gas, 0 Grad.
+Also ich will bei 30% von dieser Temperaturspreizung herauskommen.
+Ich bin relativ nah an dem, was die Umgebung sagt und schon ein ganzes Stück weiter weg von dem, was die 100 Grad sind.
+In dem Sinne ist meine rote Klingel hätte vielleicht eher auf der zweiten oder auf der dritten von diesen Temperaturzeitverläufen eingezeichnet werden.
+Das ist ja nichts anderes, das heißt, das ist die Anfangsbedingung, so starten wir, das ist vielleicht nach einer Sekunde, zwei Sekunden, drei Sekunden, irgendwie sowas.
+Ob die Zeit jetzt stimmt, das werden wir gleich sehen.
+Dann, als zweites müssen wir die Biozahl berechnen.
+Das ist nichts anderes als dieses Alpha mal Delta X durch Lambda.
+Also Alpha mal S halbe bei unserer Geometrie durch Lambda.
+Das hatten wir gesagt, das ist hier das mit dem S.
+Nachdem die auf beider Seiten kalt wird, die entsprechende Platte müssen wir so arbeiten.
+Das sind 700 Watt pro Meter Quadrat Kelvin, das ist einfach nur aus der Angabe, mal S halbe sind 0,025, das sind also 2,5 Zentimeter und nicht die 5 Watt pro Meter Kelvin.
+Und wenn ich das ausrechne, kommt da 1,167 raus.
+Okay.
+Wenn ich die Foliezahl berechnen will, ist es nichts anderes als a mal t durch Delta x².
+Und dann merke ich gleich, aha, jetzt habe ich erstmal mehr oder weniger sozusagen ein Problem,
+weil dieses t ist eigentlich genau, was ich suche.
+Das ist nicht so, dass ich die Fourier-Zahl jetzt mit 1,6 Stunden bestimmen kann.
+Das sind mal ein paar Sekunden Zeit.
+Soweit eingemacht und klar, oder?
+Also das mit dem Foyerzahl kann ich jetzt so ohne weiteres nicht bestimmen.
+Wie gehe ich vor?
+Eine Idee von Ihnen?
+Ich warte mal, bis jemand eine Idee äußert, solange lasse ich ihn einfach Zeit.
+Ja, genau, so nehmen wir den Grafen.
+Alle dabei? Ich blätter um.
+Ich komme da auf die Folie wieder zurück.
+Ich muss nur einmal zurückblättern, weil wir müssen nämlich jetzt in dem Grafen arbeiten.
+Und zwar, wie Sie richtig gefragt haben, ist also die Idee, jetzt die Werte, die ich habe, im Graphen einzuzeichnen und dann hier die Fourier-Zahl aus dem Graphen herauszubekommen.
+Und genau das mache ich jetzt, ich habe diese 0,3 als Zeta-Stern gehabt damals und ich habe
+eine, was war das jetzt,
+die Bio-Zahl, wenn ich es richtig habe,
+1,16 oder sowas.
+Bio 1,16.
+Wollen wir ganz kurz ein bisschen schauen,
+mal ganz kurz.
+Ob das, ha, okay,
+da habe ich mich jetzt getäuscht.
+Gehen Sie mal nicht auf die Seite
+vor, sondern
+zurück, sondern gehen Sie vor.
+Da ist die Grafik nochmal drin.
+Und da macht es ein bisschen mehr Sinn. Ich werde da noch mal kurz zurückgehen auf die Folie.
+So, 0,3. Jetzt Biozahl. Wir wollen, ich schlage das jetzt heute alles rein, schade, nix.
+Irgendwo zwischen der Temperatur der Oberfläche, oder ja, Temperatur, endlich, so muss man sagen,
+Das ist in unserem Fall der 0 Grad und hier die Temperatur der Platte.
+Navigieren, das ist Zeta Anfang.
+Und dazwischen läuft unser Spiel, bei uns 0,3.
+Nächste ist die Bio-Zahl, 1,1 bisschen was.
+Also hier sehen Sie eine logarithmische Skala, Achtung immer bitte mit den logarithmischen Skalen,
+aufpassen, hier ist 1, hier ist 10, wir sind irgendwo zwischen 1 und 10, hier ist 1, hier ist 2, 3, 4 und so weiter,
+also 1,1, ja da habe ich vielleicht ein bisschen zu weit nach rechts gezeichnet, kann ich eher ein bisschen weiter nach links gehen,
+aber es ist irgendwo hier, ja, und da, wenn Sie in der Klausur oder in Aufgaben sowas vor sich haben,
+Schreiben Sie das bitte rein, dass das alles klar vermerkt ist. 1,167. Das nutze ich mit dieser Geschichte. Und jetzt navigieren wir hier rüber. Und die Aufgabe ist in dem Falle, sage ich mal, gut gestellt.
+Das ist nicht Eigenlob, hat ein Kollege gemacht damals. Und wir können jetzt hier, ich nehme es jetzt mal in lila ablesen, was ist die Biozahl? Äh, die Foyerzahl.
+Irgendwie ist das verblüffend, weil es bei mir irgendwie anders eingesehen ist.
+So, FO ist ungefähr gleich 1.
+Und jetzt gehen wir mit dieser Information zurück und rechnen weiter.
+Foliezahl aus Graph, ich mache jetzt den auf die Lidern im Kasten drum, ist gleich 1.
+Also kann ich weiterrechnen und umstellen und sagen, okay, T ist ja nichts anderes als Oje mal Delta X Quadrat durch A.
+Und dann ist wieder Einsetzerei.
+Ich bereite einmal 0,025 zum Quadrat.
+Meter zum Quadrat.
+vielleicht ist der zu eng,
+da habe ich nicht gut
+vom Platz Einteilung
+bekommen.
+10 hoch minus 6
+Quadratmeter pro Sekunde
+und Sie sehen schon, also wenn
+Sie es noch lesen können, hoffentlich,
+das sind 0,25
+Meter und dann wird
+er quadriert hinterher
+mit dem entsprechenden Zahlenwert,
+das heißt wir haben hier Quadratmeter, hier haben wir Quadratmeter
+pro Sekunde, die Sekunde
+geht aus dem Doppelbogen
+nach oben und es kommt raus, T ist ungefähr gleich 159,0 Sekunden. Das ist die Antwort auf diese
+Aufgabe A. Nach welcher Zeit erreicht die Oberflächentemperatur 30 Grad? Nach knapp 160
+Sekunden, nach etwas
+mehr als zweieinhalb Minuten
+ist diese
+Platte
+an der Oberfläche auf
+30 Grad abgekühlt.
+Okay?
+Letzte
+Teilaufgabe, bevor wir uns wirklich in die
+Pause bewegen. Ich mache die B auch noch, weil
+sie einfach jetzt ganz flüssig runter geht.
+Das gleiche Spiel nochmal. Welche
+Temperatur hat denn die Plattenmitte?
+Ja, die Pause hätte ich jetzt nicht in zwei
+das mache ich jetzt
+ne, wir machen das wirklich so
+ich mache eine Netzpause und Sie machen das danach
+wir gehen von 10 bis 10.15 Uhr
+in die Pause
+und ich sehe Sie dann
+gleich wieder hier
+ich glaube, dass das schnell rechnen ist
+aber eine ziemlich banale Geschichte
+mit der entsprechenden Frage
+bis gleich
+Vielen Dank.
+Vielen Dank.
+Das hört sich gut an, was ich da so höre, von hier.
+Da bleibt vieles gleich und dann geht es mir auch ziemlich einfach.
+Irgendjemand schon?
+Lösungsvorschlag?
+Vielen Dank.
+Ja, Sie haben eine Idee. Gut.
+Wollen Sie es sagen, direkt?
+Also 0,51 oder so.
+0,51, genau, das ist dann die dimensionslose Temperatur.
+Und was wird das bedeuten für die real absolute Temperatur?
+Und wenn Sie das mit 0° und 100° einsetzen, dann werden Sie genau 51% zwischen 0° und 100° haben.
+Das sind dann 51° oder 50° oder was auch immer.
+Ich hoffe, dass viele von Ihnen auf dem Weg schon ein Stück weit was gemacht haben
+und sich die Ideen etwa so finden.
+Die Biozahl hat sich nicht verändert, weil die Biozahl hat was mit dieser Geometrie zu tun und dem, wie die Konvektion außen ist und die Wärmeleitfähigkeit innen ist.
+Das sind aber Materialkonstanten und wenn ich jetzt, ob ich jetzt an der Oberfläche oder in der Mitte mache, spielt keine Rolle.
+Und auch dieser Geometriefaktor hier ist gleich.
+Also habe ich das gleich wie vorher.
+Die Fourierzahl, gleiches Spiel, weil es ist ja jetzt diese gleiche Zeit gemeint gewesen.
+Die 5 Sekunden, die wir vorhin gerechnet hatten, 159 Sekunden, Unsinn für 5 Sekunden, 159 Sekunden.
+Aber nach dieser entsprechenden Zeit ist ja jetzt gefragt, was mit der Plattenmitte los ist.
+Und jetzt können wir das Zeta M aus dem Diagramm rausschauen.
+Sie müssen also immer kurz überlegen, welches Diagramm brauche ich gerade.
+Wir hatten gesagt, es ist dieses und es funktioniert so, Sie sagen, wir haben eine Bionzahl so wie vorhin.
+Ja, ich habe sie vielleicht wirklich ein bisschen zu weit links oder rechts eingedrängt.
+Das spielt aber in der Klausur auch keine Rolle, solange Sie da gerade klar indizieren, was Sie machen dürfen.
+dann haben Sie hier notiert, idealerweise, was Sie da für einen Zahlenwert reintragen,
+wo Sie damit hinkommen und wenn Sie sich da irgendwo verrechnet haben,
+dann kann ich hoffentlich auch gut interpretieren, ob Sie trotzdem die richtige Strategie hatten.
+Die Fourierzahl dann hier mit eingetragen, das ist die 1.
+Manchmal ist es ein bisschen unglücklich, da trifft die Fourierzahl nicht genau zwei solche Graphen,
+da wird es natürlich dann ein bisschen klampert, das da reinzufinden,
+aber so ein bisschen, was kann man trotzdem machen und hier ableiten, ich habe jetzt 0,5 gemacht, Sie hatten 0,51, okay,
+haben Sie vielleicht noch ein bisschen genauer gearbeitet als ich und dann habe ich gleich behauptet, es sind 50 Grad,
+wie ich das berechnen darf mit den 50 Grad, da kommen wir, ich spiele mal ganz kurz zurück, eigentlich genau über dieses hier drauf,
+Wenn ich das Theta 0, also O, an der Oberfläche habe, dann hat es genau mit diesen Termen zu tun.
+Und wenn ich das 50 hier rauskomme und ich die Oberflächentemperatur nicht weiß, oder 0,5,
+dann wird sich das durch Umstellen, das können Sie sich ganz schnell anschauen,
+dann sind es genau die Temperaturen in Grad Celsius.
+Weil ich auf dem Kreis zwischen hier 0 Grad und hier 100 Grad arbeite,
+dann ist natürlich diese Skala genau justiert, so dass ich das umgängen kann mit dem Faktor 100 auf
+Radsäß. Soweit die Idee. Ich möchte jetzt noch mal ganz frech bewusst zurückgehen. Wenn Sie
+irgendwas fotografieren wollten von den Lösungen, ich glaube, es ist ja. Ja, ich gehe noch mal da hin, da hin.
+Ja, da müssen Sie so noch kurz was abschreiben. Es ist ja wirklich nicht viel Text. Zum Glück
+das ist eben der Charme
+an diesen grafischen Lösungen
+sie kommen mit ziemlich wenig Rechnerei aus
+und das will ich ja eigentlich Ihnen auch nahe bringen
+ich möchte jetzt noch eine Sache
+zum Verständnis machen
+die
+vielleicht doch ganz schön ist
+noch nachzutragen
+und zwar gibt es bei Ihnen glaube ich
+auf der Folie 14 noch mal so ein Diagramm
+was noch nicht verkritzelt ist
+und das nutze ich jetzt und verkritze
+und
+Und ich werde dort nochmal reinschreiben, also wir haben hier nochmal die Temperatur am Anfang und die Temperatur am Anfang ist oben und Temperatur unendlich ist außen.
+es gibt das Ganze auch anders
+bei uns war jetzt immer die Anfangstemperatur
+des Metalls oder des Materials
+in der Mitte heiß und das andere kalt
+Sie können das Spielchen aber auch umdrehen
+Wir haben
+hier rechts nochmal reingeblendet
+diese drei verschiedenen Fälle
+der Biozahl
+und die würde ich ganz gerne mit Ihnen nochmal versuchen
+so zu übertragen in dieses Diagramm
+Wir nehmen mal den Fall grün
+das ist eine mittlere Biozahl
+die ist nämlich 1
+Wenn ich die mittlere Biozahl habe, dann bin ich einfach immer auf dieser Achse hier unterwegs.
+Und ich nehme die anderen beiden Fälle auch noch.
+Ich nehme mal den Fall, mein Ding in Lila, dass die Biozahl ganz klein ist.
+Dann bin ich irgendwo mein Ding hier.
+Wo genau, kommt natürlich darauf an, welcher Zahlenwert ist.
+Und ich habe auch noch die Variante, dass ich die Biozahl ganz groß habe, irgendwo mein Ding hier drüben.
+und Sie sehen jetzt schon
+wie sich da das verhält
+auf der rechten Seite
+dieses Diagramms
+hier
+wird die Temperatur sich einigermaßen
+zügig, es geht ja jetzt im Moment
+auf der Oberfläche
+also immer an diesen Außenkanten
+die wird sich relativ zügig absinken
+und dann geht sie weiter runter
+wohingegen hier dauert es ein ganzes Stück
+länger bis die Temperatur
+hier an der Oberfläche absinkt
+Das passt gut zu unserem Diagramm, wenn wir uns angucken, und das mache ich jetzt in der letzten Farbe,
+dass die dimensionslose Zeit, die Fourier-Zahl, nichts anderes ist als das hier.
+Das ist ihr Zeitverlauf.
+Das heißt, sie kommen mit der Zeit ganz am Anfang von einer Fourier-Zahl winzig klein bis hin zu Fourier-Zahlen ganz groß.
+Das ist die Zeitverlauf.
+Ja, und jetzt lassen Sie uns kurz überlegen, wir nehmen den, meinetwegen den lilanen Fall hier,
+das ist ja nämlich ungeschickt, dass ich das nochmal mit lilanen bitte, ich nehme mal andere Farben.
+Ähm, ich habe nicht so viele Farben.
+Nehmen wir dieses orange hier.
+So, jetzt nehmen wir den lilanen Fall, also hier, die Biozahl ganz klein,
+Das heißt, die Konvektion macht nicht viel aus, aber die Wärmeleitung macht viel aus.
+Dann sehen Sie, dass am Anfang die Temperatur sich noch fast gar nicht ändert.
+Und es dauert eine ganze Zeit, bis dann die Temperatur aber dann noch relativ gravierend in diesen späteren Zeitfolgen,
+das ist aber ja hier auch nicht eklig, dass das nach unten abfällt,
+bis die Temperatur dann irgendwann sich endlich mal angleicht an die Umgebung.
+Hat aber lang gedauert.
+Jetzt nehmen wir den extremen Andersrumfall, hellblau, Biozahl ist riesig.
+Schon nach sehr, sehr kurzer Zeit, Fourierzahl ist winzig,
+ist die Oberfläche dieses Körpers schon massiv abgefallen in der Temperatur.
+Und wir sind schon fast da, wo die Umgebungstemperatur ist.
+Es ist für Sie einigermaßen verständlich, nochmal dieses Diagramm auch zu interpretieren.
+also es geht einfach um den Bezug
+zwischen Temperatur
+mit einer komischen dimensionslosen Temperatur
+Zeit
+mit einer komischen
+dimensionslosen Zeit
+und einer Materialeigenschaft
+die da in dieser
+Biozahl drin steckt
+ok
+soweit hoffentlich
+ein Stück eine Hilfe
+und um es vielleicht nochmal zu verinnerlichen
+würde ich Ihnen nahelegen
+sich die entsprechende Aufgabe hier mal anzugucken zu Hause, bis nächste Woche Montag, da wollen wir die ganz kurz aufblenden,
+da werde ich aber wirklich nicht viel Zeit drauf verschwenden, dass Sie hier schauen, welche Temperatur stellen sich ein bei,
+und in dem Falle, es nennt sich wieder Wurst, ja, für mich egal, ob das jetzt irgendeine Wurst ist oder irgendein hoffentlich vegetarischer Körper,
+der irgendwie von außen geheizt wird und, okay, wird in heißes Wasser geschmissen und dann geht es darum,
+wann ist es wo in diesem entsprechenden Körper, in diesem Zylinder, wie heiß.
+Temperatur in der Mitte kommt raus für die Aufgabe A, 41 Grad, oberflächende Temperatur 78 Grad.
+Ich habe Ihnen also die Ergebnisse hier gerade hingeschmissen, Sie können sich das kurz mitnehmen,
+ich glaube, es steht bei Ihnen aber auch drin,
+dann haben Sie also die Ergebnisse einfach da,
+und dann kann man einfach mal kurz probieren,
+ob man das kann, und Sie müssen
+die Diagramme nehmen, die bei Ihnen in der Formelsammlung
+sind, aber nehmen Sie die richtigen.
+Das ist aber auch
+keine Riesen-
+Herausforderung.
+Nichtsdestotrotz, das ist durchaus so das Level,
+was wir
+in der Klausur, denke ich, im FF
+erledigen können sollen.
+Hier steht auch noch mal die restliche
+Aufgaben, da habe ich jetzt mal
+reingeschrieben, bei der Arbeit wird vorgesehen
+bis 27.11.
+Ich habe es ein bisschen weniger drakonisch
+von der Zeit jetzt vorhin formuliert.
+Wenn Sie mir bis Donnerstag,
+das ist glaube ich der 28.
+Donnerstag, 28.11.
+12 Uhr
+irgendwas
+an Feedback schreiben und sagen,
+zu dieser, jener oder solcher
+Aufgabe haben Sie irgendwie
+eine Frage oder haben Sie das Gefühl, das passt
+irgendwie nicht.
+Dann schreiben Sie es da rein, ins Boden, dann werde ich versuchen, dass wir die Aufgaben, die Sie interessieren, unbedingt bearbeiten.
+Und ansonsten mache ich einfach mein Standardprogramm und gehe mit Ihnen beliebige Aufgaben mehr oder weniger durch.
+auch das vielleicht noch es wird im laufe der nächsten wochen in zunehmend auch material
+freigeschaltet mit videobearbeitung von aufgaben und ich alle aber ein so dass sie sich auch wenn
+sie sagen das ist jetzt alles schön und gut aber ich war bei der wichtigsten stunde verhindert dass
+dann nicht wie das nachsehen haben ich hoffe trotzdem dass der raum hier ganz gut was an
+informationen transportiert aber wenn sie über die weihnachtsferien sagen ja da habe ich jetzt
+endlich mal zeit damit ich das mir mal angucken oder genau nicht mal anders dann sollen sie das
+bitte auch machen so weiter wir kommen jetzt zu dem nächsten thema wir haben also diese
+instationäre Wärmeleitung abgehakt und wir werden uns in den nächsten vielen Stunden damit
+beschäftigen, was das denn eigentlich mit diesem Alpha auf sich hat. Wir haben immer mal wieder von
+Himmel fallen irgendwelche Werte für diese entsprechenden Konvektionsgeschwindigkeiten
+bekommen, aber wir wollen das Ganze in den nächsten Stunden noch deutlich genauer kennenlernen,
+warum, unter welchen Bedingungen ist Konvektion groß oder klein und nur um ganz kurz nochmal so
+einen interessanten Anwendungen zu sehen, kann ich Ihnen auch gerne einmal rumgeben. Das ist was?
+Da unten kommt wahrscheinlich ein extrem heiß werdender Computerchip drauf und der
+wird mit Wärmeleitpaste angebunden, damit möglichst wenig Kontaktwiderstand auftritt.
+Sie erinnern sich vielleicht an eine der Stunden. Und damit gute Wärmeübertragung stattfindet von dem heiß werdenden Computerchip auf die Kupferplatte.
+Kupfer ist ein super Wärmeleiter, deswegen sind da Kupferrohre hier verbaut.
+Und diese Kupferrohre gehen in diesen Aluminiumkörper, der wiederum was Schönes aufweist?
+sehr viele Oberflächen.
+Der hat da so Abstände,
+die sind auch nicht irgendwie beliebig gewählt,
+weil das ein guter Kompromiss ist
+aus dem, dass wir viel Oberfläche haben
+und auf der anderen Seite
+auch viel Plattenfläche
+auf einem geringen Raum verarbeiten.
+Also je weiter ich die Platten auseinander mache,
+desto weniger Platten kann ich unterbringen.
+Und das gleiche Spiel geht
+im Endeffekt beim Fahrzeug auch.
+Der Fahrzeugfrontkühler ist
+ein Stück weit auch ein ähnliches Spiel.
+Und jetzt kann ich das Ding passiv oder aktiv betreiben. Was bedeutet das?
+Entweder ich blase da Luft durch und beschleunige das, dass die Hitze weggeht.
+Da oben der Beamer hat ja nichts anderes. Der hat noch eine altmodische Nicht-LED-Birne
+und diese Leuchtröhre wird brutal heiß und wir brauchen den Lüfter,
+an den Lüfter, damit wir die Hitze sauber
+an die Umgebung weg transportieren können.
+Hier ist das gleiche Spiel.
+Wenn Sie wollen, können Sie sich das
+einmal durchgeben.
+Das war am Ende nicht
+besonders wertvoll, aber man sieht
+eben das mal ganz gut.
+Achtung, nicht die Finger schneiden,
+so ein bisschen scharf, Sie können es einfach mal so durchgeben,
+dass man es mal gesehen hat.
+Das spielt im Endeffekt bei allen möglichen Bauteilen
+eine Rolle. Selbst die Mobiltelefone
+sind heutzutage so gebaut, dass die
+an den Oberflächen hinten
+das ganze Casing aus einem bestimmten Material verwendet wird,
+damit der Chip, der da drin steckt, möglichst eine große Oberfläche abgibt.
+Man kommt aber ohne Lüfter aus.
+Und so weiter und so fort.
+Mein Laptop versucht natürlich auch, mit möglichst wenig Lüfter zu arbeiten.
+Einmal ist der Lärm total störend, zum anderen ist es ein zusätzlicher Stromverbraucher.
+Und das hat technisch durchaus Relevanz.
+Und wie groß die Relevanz ist, kann man ja mal so gemütlich sehen,
+wenn man irgendwo auf Wikipedia rumblättert, wo man sieht, wo spielt denn Konvektion überhaupt eine Rolle.
+Und das sind ja wohl nicht brutal viele Sachen.
+Ein Beispiel, was man gerade, wer von Ihnen die Presse liest und sich mit dem Klimawandel beschäftigt,
+viel lesen, ist, dass der Golfstrom vielleicht sich verändert.
+Das ist nämlich auch eine Konvektionsbewegung, wo salzhaltiges oder weniger salzhaltiges Wasser in irgendeine Zirkulation kommt.
+Wir haben das Ganze bei Wolken, Regen, also bei dem ganzen Meteorologie-Thema.
+Wir haben das Ganze in Konsolidation bei Winden.
+Wir haben das Ganze aber auch bei Sternen und Planeten, die irgendwelche Materialien von innen nach außen bringen.
+Wir haben das Ganze sehr technisch bei irgendwelchen Heizungssystemen, bei denen also irgendwie die Temperatur von A nach B muss und so weiter und so fort.
+Also Sie können sich vorstellen, dass das Ganze deswegen viel Rolle spielt und wir diesem Alpha, was wir vorher vom Himmel fallen lassen, eigentlich noch ein bisschen mehr Bedeutung schenken müssen.
+Hier ist das Beispiel, deswegen fand ich das ganz passend, dass ich diesen Computerlüfter da gesehen und bekommen habe,
+dass heutzutage man drehzahlgeregelte Lüfter baut und nicht immer mit Vollgas ventiliert, weil es Strom verbraucht und weil es laut ist,
+sondern dass man halt dann, wenn besonders viel Kühlungsbedarf da ist, den Lüfter besonders schnell drehen lässt, damit er halt besonders viel wegspringt.
+Und damit haben wir eigentlich auch schon in der Logik eine Sache gerade bearbeitet, nämlich, dass so aktive Belüftungssysteme was bringen,
+dass Konvektion aber auch funktioniert, wenn ich keine Lüftung aktiv habe.
+Und das ist im Endeffekt hier auch nochmal gezeigt. Wir haben da irgendein Beispiel, wo draußen der Wind stark bläst und von der Gebäudehöhle die schöne Wärme, die drinnen im Haus produziert wird, stark weggetrieben wird.
+Klar, wenn es außen große Winde hat, dann müssen sie stärker heizen.
+Im Flugzeug haben wir die gleiche Thematik.
+Oder hier ist es mal gezeigt, Sie blasen ein heißes Ei an oder auf den Frontfoil mal gezeigt,
+irgendjemand hat Essen und das kennen Sie alle, man pustet, damit es schneller kalt wird, damit es schneller essen kann.
+Und am Ende ist es nichts anderes als erzwungene Konvektion, Sie blasen drauf und das Ei wird kalt.
+Aber ich kann das ganze Spiel auch spielen, dass ich das Ei einfach in die Umgebung hinlege
+und wenn ich nur lang genug warte, oder mein Tee oder was auch immer, wird er auch kühl.
+Und das Ganze kann man nochmal ganz gut sehen an diesen schlieren Videos,
+die kommen aber glaube ich auf den nächsten Folien nochmal.
+Das hatte ich am Anfang der Vorlesung schon mal gezeigt, wie solche Umgebungsbewegungen sind.
+Und Sie sehen schon, es hat recht viel von dem Bild damit zu tun,
+wie, da ist jetzt ein bisschen
+erzwungene Konvektion, weil die Frau
+bläst aus der Nase aus, aber
+um sie herum strahlt sie Wärme ab
+an die Umgebung vor allem nach oben
+und das sieht sehr ähnlich aus wie
+Turbulenz
+also jetzt spielt sich wieder so ein Kreis
+zwischen Strömungstechnik und
+Wärmeübertragung, da ist es noch mal
+das Video
+ich werde es vielleicht
+nicht ganz zeigen, aber man sieht eben doch
+sehr deutlich, Wärme steigt
+oben auf und natürliche konvektion in dem falle ist es eine umgebung gewesen
+bei der die umgebung wärmer war als der körper deswegen ging es nach unten hier wird ein
+feuerzeug ausgestrahlt und die luft die aus dem feuerzeug ausstrahlt wenn man es nicht zündet
+die ist kalt und dann ging es nach unten jetzt wurde angezündet und es geht brutal nach oben
+Und man sieht also diese verschiedenen Bewegungen.
+Das haben wir uns schon mal angeguckt.
+Wir erinnern uns auch an das Video zu laminarem und turbulentem Fluss.
+Und das Geigespiel sollten wir uns ja auch anschauen.
+Denn am Ende geht es immer darum, wie kommt Temperatur von A nach B, von einer Stelle zur anderen.
+Und das ist jetzt vielleicht erstmal ein bisschen weniger intuitiv.
+Aber wir werden uns eine ganze Zeit lang beschäftigen mit Oberflächen und Rohrdurchströmung.
+Aber es geht uns typischerweise darum, dass wir irgendwo von hier nach hier kommen wollen.
+Manchmal auch von hier nach hier.
+Also entlang des Großen.
+Was hierbei relevant ist, werde ich Ihnen zeigen.
+Bei den Wänden gehen wir von hier nach hier.
+Und bei Rohren gehen wir von hier nach hier.
+Und was hier gezeigt werden sollte eigentlich auf der Folie, jetzt mache ich mal das ganze ordnende Zeug wieder weg,
+ist, dass wenn ich einen Laminarinfluss habe und ich da jetzt meinetwegen Farbstoff eingebe,
+dass der dann in geraden Linien da durchläuft, wohingegen wenn ich Turbulenz habe, der dann verwirbelt sich.
+Wir hatten das ja alles besprochen. Das ist jetzt nichts Neues.
+So, was hat das für eine Bedeutung?
+Okay, das ist jetzt noch das Video, wo man hier so einen Farbstreifen sieht, der sich nicht verwirbelt.
+Und hier sieht man, dass er sich deutlich stärker verwirbelt.
+Da tut sich was, und Sie sehen jetzt hier, reißt es völlig auseinander.
+Und man sieht, dass das, was da mit Farbe eingegeben wurde, in diesem turbulenten Strömung,
+das durchmischt sich vollkommen in dem Rohr.
+Wohingegen hier es gelungen ist, dass dieser Farbstreifen sogar noch hinten beim Ausfluss aus dem Rohr gleichmäßig wieder rauskommt.
+Das ist eigentlich nur nochmal so eine Wiederholung von Sturz.
+Was wird uns interessieren? Die Auswirkungen der Schwulmungsform auf die Wärmeübertragung.
+Und uns interessiert, und das steht ja hier sogar noch mal schön drin,
+dass wenn die Wärme von unten eingegeben wird, wie schnell und wie gut kommt die da oben durch?
+Bei Laminar oder bei Turbulent?
+Wer meint, dass es bei Laminar schneller geht, die Wärme da durch zu transportieren,
+bitte melden, als bei Turbulent.
+Okay und wer meint, dass es bei Turbulenz schneller geht? Okay, zwei Drittel des Raums meinen, es spielt keine Rolle, aber es war etwa hälftig-hälftig aufgeteilt.
+Vielleicht, wenn jemand sagen will, warum ihr oder sie denkt, dass es bei Laminar schneller geht.
+schneller geht, oder? Einer traut sich. Ich frage gerade nach, ob es das Gleiche bei der anderen Variante ist.
+Darf ich fragen, Sie könnten sich da ein bisschen melden, wenn ich mich richtig erinnere.
+Ja, also ich meine, dass wenn es halt direkt ohne sehr viel Reibung geht, dass die Wärme dann auch dementsprechend schneller...
+Ja, legitime Frage, nur noch mal ganz kurz, um es zu zeigen, also es geht uns eben um den Wärmetransport von hier nach hier, ja, also es geht nicht darum, dass es hier entlang geht, sondern es geht nach quer durch, ja, und jetzt ganz kurz mal die Gegenposition, ich weiß nicht mehr, wer sich gemeldet hat, ich glaube in der letzten Reihe waren es ja die beiden Herren, vielleicht sind sie ganz am liebsten, es hat heute noch nicht.
+Genau, wenn wir das hier anschauen, dann hätten Sie hier die Partikel sozusagen oder die
+Strömungsteilchen und die werden hier durchgestrudelt, ja, also so hoffe ich noch mal zum Revue passieren
+lassen dass also entsprechend ein teilchen was hier unten ist ein fluid gedachtes fluid teilchen
+mit hier oben praktisch keinen direkten austausch hat sondern nur über die wärmeleitung ja weil das
+das bringt da ja nicht durch wohingegen hier der materialtransport geben das ganze unterstützt ja
+Durch die Verwirbelung nehme ich die warme untere Geschichte mit und springe sie nach oben.
+Ich hoffe, das ist soweit in dem Falle klar.
+Das heißt, im Endeffekt wird es bei turbulent schneller gehen.
+Und das wollen wir uns jetzt in der nächsten Zeit nochmal genauer anschauen.
+Wir machen aber jetzt plötzlich einen Sprung und gehen nicht mehr, so wie ich es gerade gesagt habe, durchs Rohr durch,
+sondern gehen auch am Rohr entlang.
+Der Effekt ist aber trotzdem ein ähnlicher, wie wir gleich sehen werden.
+Da ist es vielleicht sogar fast noch verblüffender.
+Also hier in lila skizziert, nehmen wir einfach mal die untere Rohrrand, schneiden den aus und sagen, das ist jetzt eine Wand.
+Und da oben bläst was drüber, meinetwegen ein Ventilator.
+So, und das Spielchen machen wir jetzt so, dass wir uns einmal angucken, solche entsprechenden Geometrien,
+Ich muss jetzt nur ganz kurz zeichnen und gucken, wie das kommt.
+Kommt eher aufgebläht.
+Richtig.
+Also wir haben jetzt hier einmal eine Momentaufnahme an der vordersten Kante dieser entsprechenden Platte, über die wir drüber sprühen.
+Stellen wir uns vor, hier ist ein Ventilator.
+Ich mache das jetzt mal in schwarz.
+der bläst hier rein
+von der Seite
+und ganz vorne an der Platte
+warum, werden wir gleich nochmal sehen
+wird sich de facto eigentlich immer
+eine laminare Strömung ergeben
+ich kann es eigentlich auch vorweg nehmen
+wir hatten es auch im Video gerade gesehen
+auch bei dem Fall, wo die Turbulenz da auftrat
+trat die nicht gleich am Anfang auf
+da war der Fadstoff drin
+und am Anfang hat man den Strich noch gesehen
+und dann irgendwann wurde es verwirrt
+und das gleiche Phänomen haben wir hier auch
+Hier soll man sehen, dieses Bild ist wahnsinnig schlecht, es ist uralt, so graue Lieren, die so über eine Oberfläche drüber gehen und gleichmäßig gehen.
+Und hier, wenn man, hoffentlich ist die Qualität bei Ihnen am Tablet besser, da sehen Sie so leichte Aufwerfungen, wie bei so Wolken, die so ein bisschen ausfliegen.
+Und hier sieht man es sehr deutlich, dann an der Stelle weit weg, über diese Länge, da flattert es auseinander.
+Übergang von laminarer in turbulenter
+Strömung.
+In dem Fall so ein bisschen
+ähnlich wie bei Strömungstechnik,
+Einströmung ins Rohr, die wir uns nicht so richtig gut
+angeschaut haben, ganz bewusst, weil
+die nämlich nochmal ganz viel unangenehme
+Komplexität mit reinbringt.
+Und was jetzt gemein ist, an dem Thema,
+wenn wir Wärmeübertragung machen
+und uns mit laminaren
+Turbulenz unterhalten, dass wir zwei
+Dinge beachten müssen. Einmal,
+wie ist die Geschwindigkeit von
+was hier oben drüber bläst. Da fliegt ja was drüber. Und zum anderen, die Temperaturverteilung,
+die erste Mal, die haben schon was miteinander zu tun, wie wir ja gerade aus meiner Frage im Raum
+nochmal rausgeschnitten haben. Wenn ich viel Verwirbelung habe, geht viel Material, also mit
+der Geschwindigkeit durch den Raum und trägt damit automatisch mit, verschiedene Temperaturen,
+Aber wenn ich eben den Raum stehen lasse, dann gibt es immer noch eine Temperaturverteilung an die Nachbarteiche und das ist eigentlich die Wärmeleitung.
+So und genau das hier kann man es auch nochmal gut sehen, Beispiel aus der Praxis.
+Ja, Sie haben eine Kerze, wenn man die unter bestimmten Bedingungen brennen lässt, dann raucht die ein bisschen und dann sieht man erst, es ist ein gerader Rauch und dann kommt erst die Turbulenz.
+Das ist ähnlich wie das, was wir hier sehen.
+Und jetzt werden wir uns mal ganz kurz angucken, wie extrem, einfach nur in der Tabelle, diese Unterschiede ausfallen können.
+Ich schaue mir diesen Werbeübergangskoeffizient an und wie es sich die ganze Zeit in den nächsten Stunden gehen wird.
+Und zwar an verschiedenen Geometrien oder unter verschiedenen Umständen.
+Wir gucken mal an, wie die freie Konvektion läuft in Luft und Wasser und was wir herausbekommen werden, sind Zahlenwerte, die sind irgendwo zwischen 1 und 10 hier, also eher klein und zwischen 10 und 1000 hier.
+Was bedeutet das? Wenn Sie bei 15 Grad da draußen an die Luft gehen, dann ist es okay, das können Sie die ganze Zeit aushalten, auch wenn Sie meinetwegen keine Kleidung am Körper tragen würden.
+Wenn Sie aber in den See springen bei 15 Grad, dann haben Sie in einem verkürzten Zeitraum ein Problem.
+Nichts anderes als das, weil, wie man hier sieht, die Wärmeübergang von Ihrem noch warmen Körper in die kalte Umgebung hier um Faktor etwa 100 stärker ist.
+Also das heißt, Sie halten es 100 Mal so lange aus, vielleicht hier in der Luft, wie da in dem kalten See.
+nehmen wir noch viel extremer, 0 Grad
+und dann springen Sie bitte in den See
+das bringen Sie bitte nicht rein
+das wird nicht gut
+und das ist bei freier Konvektion
+und das Ganze, wenn ich bei Zwungen arbeite
+wenn ich also jetzt hier
+bei starkem Wind
+nach draußen gehe und es kalt draußen ist
+dann merke ich auch, dann kann es bis zu
+in dem Fall steht da, übertragen
+10 mal schneller
+mir kalt werden
+also es macht wirklich viel aus
+Deswegen, ich glaube heutzutage wird es gar nicht mehr so viel gemacht, aber früher hat man es viel gemacht, dass man gefühlte Temperaturen irgendwo angegeben hat, auch beim Wetterbericht.
+Fühlt sich so an wie so und so kalt.
+Das ist nichts anderes als die Idee, dass man überträgt von, das ist die gleiche Wirkung auf meinen Körper, wie wenn es die Luft stillstehen würde,
+aber ich den Effekt des Windes übertrage in irgendein Temperaturempfinden.
+Wir haben eigentlich überhaupt, das macht gar keinen Sinn, weil wir können eigentlich gar nicht mit den Temperaturen reden, sondern wir müssen eigentlich über Wärmeströme reden.
+Das macht aber nun mal keiner in der Praxis.
+So, und im Wasser oder in der Flüssigkeit ist das Ganze ähnlich, deutlich höher.
+Das heißt, wenn wir was kühlen müssen, und zwar so richtig ordentlich kühlen, dann nehmen wir am besten Flüssigkeit und pumpen sie irgendwo vorbei.
+Das ist genau das, was Ihr Fahrzeugmotor macht.
+Da wird schön Flüssigkeit genommen und an einem Motorblock vorbeigefunden.
+Oder auch heutzutage Lithium-Ionen-Batterien werden flüssig gekühlt, sogar flüssig immersionsgekühlt.
+Das heißt, man schmeißt die Batterien in ein Thermolight-Öl und lässt da möglichst schnell Flüssigkeit drumherum entlang arbeiten.
+So, dann kann ich verdampfen im Behälter.
+Und jetzt kommen vielleicht nochmal ein bisschen Verblüffende sein.
+Man kann doch viel schneller kühlen, als was wir gerade gesehen haben.
+Und das hat in der Praxis auch ganz große Bedeutung.
+Hier kommen wir auf Werte bis 35.000 und in Rohren, das ist wiederum in der Anlagentechnik ein bisschen vorbehalten,
+aber da kommen wir auf Werte bis 100.000.
+Sie sehen, es sind riesige Dimensionen zwischen dem, wie was frei an Luft abkühlen und dem, wie ich was erzwungen durch einen Verdampfungsprozess in einem Rohr abkühlen oder aufheizen kann.
+Hier kann ich extrem stark Wärme übertragen.
+Und das hat vielleicht sozusagen nochmal so ein bisschen gleiches Bezug, wie ich gerade gesagt habe.
+Man kann mit Kältemitteln, mit Kühlmitteln oder mit Kältemitteln arbeiten.
+Und zum Beispiel in der Batterietechnik für die Elektrofahrzeuge wird heutzutage eigentlich fast immer mit Kältemitteln gearbeitet.
+Das heißt, es gibt irgendwo einen Klimakompressor, der transportiert in dem Falle eine Flüssigkeit hin zu einer Stelle, wo Wärmeübertragung stattfinden soll, und dann verdampft die.
+Gleiches Spiel in Ihrem Kühlschrank, gleiches Spiel in der Wärmepumpe, überall.
+Der Witz ist, dass Sie da viel schneller Wärme an die Umgebung in die eine oder in die andere Richtung transportieren können.
+Herbstkondensation, Kondensation fehlt mir.
+Ich kenne die Zahlenwerte hier, es ist irgendwas dazwischen 6.000 bis 25.000.
+Also beim Rückwärtsvorgang verdampfen und kondensieren, wir werden ja zusammen,
+Die werden wir uns in ein oder zwei Stunden angucken.
+Wir werden jetzt in dieser Stunde nur noch hier oben uns ein bisschen aufhalten.
+Und das ist auch gar nicht mehr so lang, wir haben gerade mal noch 20 Minuten.
+Jetzt kommt ein Gedanke, wie gehen wir damit um, wenn wir später damit rechnen wollen und müssen.
+Einmal ganz kurz dieses, was da oben grau steht.
+Wenn ich den Wärmeübergangskoeffizienten bestimmen will, ja gut, das Einfachste ist ehrlich gesagt, ich bin gar nicht da, er fällt vom Himmel.
+So hat es nämlich bisher immer gemacht, wenn ich mit Ihnen in der Aufgabe irgendwas mit Wärmeübergang mache.
+Zweite Aufgabe, man kann die analytische Lösung von Differenzialgleichungen machen.
+Das ist ziemlich heftig, wir werden da ganz kurz irgendwie am Rande ein bisschen was mitbekommen, aber das ist in der Praxis eigentlich nicht gut haltbar.
+Was man macht in der Praxis ist eine numerische Lösung mit Differentialgleichung.
+Das funktioniert so, dass Sie am Ende ein Raumgitter malen und sagen,
+okay, meinetwegen mich interessiert die Temperatur von irgendeinem Flugzeugflügel,
+wenn der jetzt in die kalte Luft kommt, die Täterumgebung ist irgendwie kalt
+und hier geht es mir um die Temperatur an der Oberfläche,
+weil ich vielleicht, wenn ich ein Flugzeug baue, Angst habe, dass sich da Eis bildet und dann die Flugzeugoberfläche kaputt geht oder die Flugeigenschaften sich verändern.
+Das ist sicherlich relevant.
+Was machen die Kollegen, die solche schwierigen Aufgaben haben?
+Die müssen den Raum in irgendeinem Gitter zerlegen und das müssen sie möglichst vereinbar schick machen.
+Und dieses Gitter führt dazu, dass Sie an jeder Stelle immer die instationäre Wärmeleitungsgleichung versuchen zu lösen
+und immer sich überlegen, wie stark ist denn der Austausch mit Ihren Nachbarpartikeln.
+Plus, nachgelagert dazu, überlegen, was ist denn zum Zeitschnitt T plus 1, zum einer hat sich die Temperatur verändert,
+Zum anderen aber haben Sie auch noch das, dass sich irgendwelche Teilchen, die jetzt gleich hier saßen, nach hier drüben versetzt haben.
+Computational Fluid Dynamics.
+Damit können Sie mehr oder weniger jeden Computer sprengen.
+Weil, wenn Sie das nur genau genug machen wollen, ist es so kompliziert, dass es wird extrem aufwendig.
+Und deswegen ist das bis heute eigentlich eines der einzigen Themen, was in den Berechnungssoftwaren fast nicht zu klappen ist.
+Und weshalb man sich viel damit beschäftigt, irgendwelche Näherungen zu machen,
+dass man auch wirklich noch heute in so Labore geht und irgendwas mit irgendwelchen Sensoren nachmessen muss.
+weil das kriege ich so ein weiteres nicht berechnet. Und deswegen hier
+experimentell kann man da viel machen und dann, was übrigens hier noch erschwerend
+hinzu kommt, ist ja, dass hier auch noch das Thema Turbulenz reinspringt. Also dieses
+Teilchen bewegt sich auf irgendeiner chaotischen Bahn zwischen hier und dort.
+Deswegen kann ich das gar nicht so ohne weiteres nachvollziehen. Was man aber auch machen kann, ist mit der
+sogenannten Ähnlichkeitszimmeltheorie
+arbeiten und dimensionslosen Kett zeigen.
+Und das ist das, was wir hier in der Vorlesung machen werden.
+Da geht es darum, dass man
+und das würde ich Ihnen einfach so mitgeben,
+einem Kochrezept folgt
+und
+über bestimmte
+einigermaßen verdaubare
+Kleidungssysteme
+dann trotzdem
+gute Schätzungen für dieses Alpha
+bringen kann. Wie funktioniert das?
+Als erstes muss ich
+die Materialeigenschaften wissen.
+Bei Ihnen geht das über eine Angabe. Oder aber auch aus Tabellen, die zum Beispiel in der Formel sind.
+Also, ich brauche solche Sachen wie dieses hier.
+Das da, das da, das da. Lauter solche Geschichten.
+Da gibt es noch ein paar mehr.
+Dann muss ich mir entscheiden, und das ist die klassische Startaufgabe, wenn Sie so etwas in der Klausur haben,
+oder ist es eine Aufgabe aus einem Übungsblatt.
+Ich muss mich entscheiden,
+was ist denn das für eine Art Konvektion?
+Also erstmal, ist es überhaupt Konvektion?
+Aber wenn es Konvektion ist, ist sie erzwungen oder frei?
+Sie erinnern sich?
+Ist der Ventilator an oder ist er aus?
+Ja?
+Und erzwungen,
+komm mal frei.
+Was man noch malen kann,
+ist das Thema mit den Phasenübergängen.
+Ich stelle mich da jetzt mal auf die gleiche Basis, weil dann müssen Sie nochmal ein bisschen anders abbiegen, wenn Sie die haben.
+Aber solange kein Phasenübergang stattfindet und Sie nicht zwischen flüssig und gasförmig hin und her schalten bei Ihrem Kühlmittel,
+Kältemittel, dann können Sie da und da schon arbeiten.
+Dann die Geometrie. Ja klar, die spielt natürlich eine riesengroße Rolle und das Einzige, was wir hier lösen können werden oder uns anschauen werden, sind ganz einfache Sachen. Eine Platte, ein Rohr oder das ganze Rohr können wir auch noch machen mit innen und außen.
+Und wenn Sie jetzt, wo ist der Lüfter hin? Wenn Sie sich sowas anschauen, dann wird es natürlich
+schwierig. Das ist nicht nur eine Platte, sondern die Nachbarplatten, die beeinflussen sich
+gegenseitig da drin. Und wenn ich da jetzt reinblase, da passiert irgendwas, dann sind Sie hier,
+computational fluid dynamics. Oder Sie müssen halt ganz viele Sensoren überall hinkleben und
+das Ding einfach mal probieren und testen im Labor. Dann Strömungsform, Laminar oder Turbolett wird uns beschäftigen.
+Und Sie werden dazu kennenlernen, wieder, ne, das kennen Sie schon, die Reynolds-Zahl, aber Sie werden noch kennenlernen die Grashoff-Zahl.
+Die Grashoff-Zahl ist das Pendant zur Reynolds-Zahl, aber für freie Konvektion.
+Könnte man vielleicht sogar an der Stelle mal sich erlauben, direkt so zu machen, dass man das vielleicht später mal, wenn Sie das Kochrezept, und das würde ich Ihnen dringend empfehlen, auf Ihre persönliche Formesammlung zu schreiben, ja, Sie dürfen hier zwei Spickzettelseiten mitnehmen.
+Das könnten Sie hier mit einem Ausdruck bezeichnen, vermerken, das Ding brauchen Sie.
+Dann, als letzter Schritt, wie kommen Sie da weiter?
+Sie möchten dann den Wärmeübergang selber berechnen.
+Und das machen Sie noch über einen komischen Umweg.
+Sie berechnen die Nusselzahl.
+Und wie tun Sie das?
+Indem Sie viele verrückte Formeln benutzen und dafür relevant ist auch noch die Prantenzahl.
+Sie sehen also es wird maximal unangenehm mit ganz viel solchen
+neuem Vokabular und irgendwelchen vom Himmel fallenden Zahlen und dann kommt
+unten raus einfach berechnen. Ich hoffe, Sie können in Ihrem Schriftbild, also erstmal, Sie können meins lesen und melden Sie sich bitte,
+weil sonst sind Sie ein bisschen schlecht dran, wenn Sie diese Information nicht auf Ihrem Spickzettel haben.
+Zum anderen, Sie haben das so von der Platzeinteilung irgendwie hingekriegt, dass das da hinpasst alles.
+dieses Kochrezept, es kommt aber später
+in der Vorlesung auch nochmal
+kopiert, aber ich wollte es mit Ihnen einmal
+erarbeiten
+es kommt nicht in der Formel, sondern es kommt
+im Vorlesungskontext
+dieses Schema
+brauchen wir immer, wenn wir mit
+diesem Konvektionsähnlichkeitstheorie
+arbeiten
+haben Sie alle?
+jetzt müssen wir ganz kurz
+klären, was ist denn diese Nusselzahl? Die Nusselzahl ist eigentlich nichts anderes als
+ein Vergleich zwischen dem, wie gut geht das mit der Konvektion, gegenüber dem, wie es
+wäre, wenn es nur Wärmeleitung wäre. Und wenn Sie sich kurz überlegen, wir nehmen
+dieses Beispiel, hier wäre Wachs, das ist fest, und hier ist Wachs flüssig. Wo ist
+die Wärmeübertragung besser. Nehmen wir an, es gibt irgendein Wachs, was bei 50 Grad schmilzt
+und Sie haben hier Wärme, die reingegeben wird und das Wachs ist zunächst bei 40 Grad
+und Sie wollen die Wärme da durchtransportieren oder Sie machen das Ganze mit dem Wachs, wenn
+Wenn es flüssig ist, ja wir hatten ja gerade schon festgestellt, dass wenn Materialtransport stattfindet beim flüssigen Wachs,
+dann kann ich zusätzlich eben Konvektionsbewegungen haben und dann habe ich nicht nur Wärmeleitungen, die habe ich sowieso,
+sondern noch einen zusätzlichen Effekt, dass das Material da auch noch rüberwandern darf.
+Und das beschleunigt das ganze Spielchen.
+Und hier ist ein Beispiel gezeigt, hier gehen 10 Watt durch und hier gehen 30 Watt durch,
+Sie werden immer hier bei entsprechender Flüssigkeitsbewegung oder bei überhaupt irgendeiner Art von Teilchenbewegung
+immer höhere Wärmeleitungen feststellen als bei reiner Wärmetransport,
+einen höheren Wärmetransport stattfinden als bei reiner Wärmeleitung.
+Sobald Konvektion eine Rolle spielt, kriegen Sie bessere Wärmeübertragung statt.
+Eigenschaften und die Nusselzahl ist nichts anderes als die Wärmeübertragung dieser realen Körpers gegenüber dem, wenn es nur Wärmeleitung gewesen wäre.
+Also ein Überhöhungsfaktor.
+Und in diesem Fall, was wäre denn jetzt Nusselt?
+Da sind es 30 Watt, da sind es 10 Watt, ja dann ist Nusselt nichts anderes als 3.
+Ja?
+Steht hier glaube ich auch noch mal drin.
+Hier oben steht es. Nusseln ist 3. Die effektive Wärmeleitung sozusagen ist dreimal so, wie es vorher war.
+Okay, ich glaube das kann man hoffentlich so stehen lassen und dann wollen wir als nächstes
+uns das noch ein bisschen mit ein paar Formeln anschauen.
+Überfrachtet, aber versuchen wir es trotzdem.
+Wärmeleitung, freie Konvektion, erzwungene Konvektion, da oben sind diese drei Fälle
+nochmal genannt und wir erinnern
+uns, wie es die
+entsprechende Reihenfolge
+des Alpha, wenn wir
+erzwungene Konvektionen machen,
+ist auf jeden Fall höher als
+dann das Alpha, wenn es freie Konvektion ist
+und es höher als
+ja, das ist eigentlich kein Alpha,
+da müsste eigentlich Lambda stehen,
+wenn es Wärmeleitung ist. Also
+schreiben wir mal Lambda gleich
+Alpha Wärmeleitung.
+Das wäre der Base Case.
+Es gibt kein
+keine Konvektion. Das kann ich erzeugen,
+indem ich Vakuum mache.
+Und das ist das, was ich in meinen Fensterscheiben mache.
+Haben wir auch schon mal drüber geredet,
+kurz, dass wenn ich mehrfach
+Verglasung habe hier,
+dass es zum einen schön ist, weil ich
+mit den verschiedenen Gläsern
+immer wieder
+Wärmeleitung, dann Konvektion, dann wieder Wärmeleitung
+versuche, den Materialtransport
+von innen nach außen zu
+unterbinden. Zum anderen
+kann ich, und das macht man heutzutage,
+ich weiß nicht, ob es bei den Scheiben schon so ist, in der Mitte versuchen, das zu evakuieren.
+Nicht komplett, weil sonst zerbast.
+Unsere Glasscheibe ist klar, weil sonst reißt es sich zusammen,
+aber da ist ein Unterdruck typischerweise in der Mitte von Glasscheiben.
+Damit weniger Teilchen von innen nach außen hin und her fliegen können.
+Und dann habe ich ein Stück weit solche Situationen.
+Oder, und das kommt übrigens auch, kann man auch mal dran in einer, neulich vor ein paar Jahren in einer Klausurfrage,
+was passiert denn im Universum, im Weltraum?
+Da gibt es keine Werbeleitung.
+Äh, keine Konvektion, Entschuldigung.
+Da steht die Luft.
+Okay, lange Rede, kurzer Sinn, jetzt machen wir diese Geschichte hier noch.
+Hier soll jetzt entlang irgendeines Körpers, hier haben wir nochmal wieder diesen Festkörper, Wachsfest,
+und hier geht die Temperatur 1 rein
+und Temperatur 2 ist hier drüben
+naja, es geht keine Temperatur rein und raus
+Sie haben Temperaturen, das ist ein Wärmesprung, der da rein und raus geht
+aber Sie haben zwei unterschiedliche Temperaturen auf den beiden Seiten
+und hier in der Mitte ist meinetwegen
+dieser Körper von der Länge L
+und was haben wir dann, wenn wir diesen oberen Fall anschauen
+Die Wärmestrom, der hier mit den roten Pfeilchen skizziert ist, der ist nichts anderes als Lambda mal Delta Theta, also Temperatur innen und außen, durch L.
+Das ist länger zurück schon wieder in den ersten Vorlesungen bei uns der Stoff gewesen, wo wir die Wärmeleitung gemacht haben.
+Und jetzt machen wir das gleiche Spiel mit Konvektion.
+Und nehmen wir den gleichen Körper, der ist jetzt blöd gemalt hier mit meinem L, das mache ich mal da weg.
+Und hier ist der Körper jetzt.
+Und ich male hier so Wellen rein, das soll nichts anderes heißen, als dass das Wachs flüssig ist.
+Und jetzt machen wir hier die Länge L hin.
+und hier geht wieder Temperatur zu beobachten auf der einen und auf der anderen Seite und
+entsprechend in den Wärmestrom und dieser Konvektionswärmestrom ist nichts anderes
+als Alpha mal Beta Theta. Jetzt schauen wir uns die Nusselzahl an. Ja, was ist die Nusselzahl?
+Zahl, nichts anderes als Q Punkt K durch Q Punkt Wärmeleitung. Manchmal wird auch WK
+geschrieben, also es ist nichts anderes als das, wo die Konvektion dabei ist und da, wo
+nur die Wärmeleitung war. Und dann können wir sehen, das ist eigentlich nichts anderes,
+wenn ich da oben die Gleichung anschaue, die zwei, die da oben drüber sind, diese beiden
+hier. Das ist Alpha mal L durch Lambda. Und schon haben wir gelöst, was eigentlich die
+Nusselzahl in der Formel ist. Die ist ein Verhältnis zwischen der Konvektion und der
+Wärmeleitfähigkeit, aber sie hat eine Normierung auf die entsprechende Länge, über die diese
+zwei Effekte eine Rolle spielen. Da steht nochmal kurz, was die Wärmeleitwiderstände
+ausmachen, das ist aber jetzt an der Fälle
+ja, doch, daraus kann man es auch
+nehmen, Sie können auch die entsprechenden
+Widerstandswerte nehmen
+S oder L ist hier das gleiche
+der entsprechende Ortsparameter
+und dann sehen Sie kurz, sich das mit der Fläche
+genau raus, weil Sie auf der gleichen
+Bezugsfläche hier arbeiten
+am Ende ist mir wichtig
+dass Sie jetzt mitgenommen haben, was ist
+dieses Nusse
+und nachdem alles was jetzt kommt
+relativ
+aufwendig ist
+und in sich bündig ist
+würde ich Ihnen das glaube ich fast
+ersparen, dass wir das heute mal
+sondern ich würde jetzt dann versuchen
+noch ein bisschen
+mir Zeit zu nehmen
+um nochmal
+die Stunde abzuschließen
+lassen Sie mich mal ganz kurz gucken
+Okay, ich gönne Ihnen noch eine Folie und dann machen wir es.
+Was passiert jetzt, wenn ich hier drüber ströme?
+Ich fange aber da an der nächsten Stunde an.
+Da steht jetzt Q unendlich.
+Warum unendlich?
+Nicht, weil es unendlich schnell ist, sondern weil es unendlich weit weg ist von dieser Platte.
+Wenn ich da jetzt drüberblase, dann wird sich was ergeben, so wie es hier im Video gezeigt ist.
+Es sieht ein bisschen komisch aus in dem Video.
+Es sieht so aus, als würde jemand hier einen Stab reinstecken.
+Das ist aber nicht der Fall.
+Sondern was der Fall ist, ist, dass die Kamera mitläuft mit einem hier in weiß skizzierten Nebel,
+der von hier da drauf geblasen wird.
+also es geht darum, wie dieser Nebel
+über diese Platte sich verteilt
+und schwarz
+ist die umgebende Luft
+die jetzt nicht farblich indiziert wurde
+hier ist eine Platte drin
+und wenn ich das Ganze jetzt laufen lasse
+mal gucken, ob das funktioniert
+das machen wir gleich
+nö, das funktioniert nicht
+vielleicht kann ich das am Schluss
+wenn ich es einmal anspielen, dieses Video
+Da sehen Sie es vielleicht, es ist ziemlich klein, aber Sie sehen, wie sich der Nebel in einer bestimmten Konfiguration über diese Platte drüber gewunden hat.
+An der Platte selbst gelten die Haftbedingungen, die Geschwindigkeit ist praktisch Null.
+Und je weiter ich weggehe von der Platte, desto stärker ist die Geschwindigkeit beeinflusst.
+Und ich denke, damit lasse ich es jetzt wirklich auf, diese Geschwindigkeitsfelder und dann auch Temperaturfelder werden wir uns das nächste Mal anschauen.
+In der Zusammenfassung haben wir heute hoffentlich es so gemacht, dass Sie mitgekommen sind, wir hatten uns nochmal beschäftigt mit dieser instationären Wärmeleitungsgleichung.
+Hier also keine Detailbeobachtung von Konvektionen, sondern es ging wirklich um Werbeleitungen von irgendwelchen festen Stoffen.
+Und in dem Fall ist es auf einem Raum.
+Und dabei haben wir verschiedene Fälle kennengelernt.
+Entweder kann ich auf der Heizplatte immer weiter heizen, da habe ich gar nicht zu gerechnet.
+Da ist insbesondere ganz interessant, wie sich diese Temperatur an der Oberfläche verhält.
+Oder ich kann mit einer festen Temperatur irgendeinen Körper belegen,
+das heißt, ich schmeiße ihn in kochendes Wasser zum Beispiel
+und gucke dann an, wie ist in meinem Festkörper die entsprechende Temperaturentwicklung.
+Und da gehört das Beispiel dazu, was ich aus der Anfang der Vorlesung hatte.
+Wir wollen ein Ei perfekt kochen. Wie lange dauert es?
+Das war genau dieser Gedanke. Es ist am Anfang kalt.
+Ich schmeiße es ins kochende Wasser. In der Mitte, Geometrie, spezieller Körper, in der Mitte, will ich, weiß ich nicht mehr, 37 Grad erreichen, damit das Ei stockt und nicht 36, aber auch nicht 39, damit es nicht irgendwie überall durch ist, sondern das Eigelb soll ja noch nicht durch sein, das Ei weiß schon.
+Genau dieses Spiel hier kann ich da rechnen.
+Wir haben uns angeguckt, auch das gleiche Spiel mit den zwei Körpern, die sich berühren,
+in unserem Falle heiße Platte, kalter Tisch, und haben da gesehen, wie lange dauert es,
+bis wie viel Temperaturerhöhung an welcher Stelle im Tisch angekommen ist.
+Das lässt sich alles errechnen, ist aber mitunter doch recht aufwendig,
+weil wir mit dieser Errorfunktion und relativ großen Formelwerken konfrontiert sind.
+Die Alternative sind bei einfachen Geometrien diese entsprechenden bildchenartigen Lösungen.
+Also wenn wir mit Platten oder mit Zylindern, theoretisch geht auch Kugel, mache ich aber nicht,
+es zu tun haben, dann können Sie hier relativ hemmsärmelig und einfach Lösungen finden.
+indem Sie Foliezahl, Biozahl und dimensionslose Temperatur nutzen.
+Wir hatten die WU11 hier berechnet, teilweise WI und teilweise ICH.
+Die WU12 wäre in Analyse für die Hausaufgabe, die ist ja drin im Foliensatz, die können Sie sich anschauen.
+Und das, was wir jetzt zur Konvektion noch gemacht haben im letzten Teil der Stunde,
+spielt und zielt darauf ab, das ist hier sozusagen jetzt der Vorgriff,
+dass wir uns angucken, wie ist denn sein Geschwindigkeitswert bei Konvektion über
+einer Platte und wie kann ich dann die Nusselzahl und so weiter ausrechnen. Und warum mache ich das,
+hatte ich gesagt, weil dieses hier brutal kompliziert ist, weil ich entsprechend,
+wenn ich mit Konvektion zu tun habe, sehr viele Dinge beachten muss. Materialtransport und
+Wärmeleitungsgleichung zeitlich überlagert und da bekomme ich bei wirklich komplizierteren
+Geometrien schnell ins Straucheln, bei den einfachen Geometrien kann ich über die sogenannte
+Ähnlichkeitstheorie dann irgendwelche Gleichungen verwenden, die bei Ihnen immer vom Himmel
+fallen werden, die aber alle in der Formel sammeln sind.
+Und damit wenigstens abschätzen, wie schnell kühlt bei einem Milchlaster oder erhitzt sich bei einem Milchlaster, der kalte Milch transportiert, die Milch auf irgendeine Temperatur, wo sie vielleicht schlecht wird.
+Oder wie schnell geht es das, wie stark muss ich irgendeinen Computerchip anblasen,
+damit ich sicherstellen kann, dass der nicht in die thermische Überlast geht.
+So weit, so gut?
+Jetzt habe ich genug gequatscht, dass die Zünde doch vorbei ist.
+Und ich wünsche Ihnen eine schöne Restwoche, wir sehen uns wieder am Freitag.
+Wir würden ein Strömungstechnik machen.
+Alles Gute!
