@@ -1,0 +1,1105 @@
+...heraus, die aus einem Schmerzschlag kommt,
+die wirfen kann und einem Fliegemoment verfolgen kann.
+Also, ich habe das jetzt spezifizierend und recht originell kapiert.
+Und dann gibt es die Zulassung für den Schmerzschlag,
+Das ist ein Werkstoff für den Miet, der sich daraus entwickelt, dass für uns auch die Sichtberechtigung und für das Blech ein Lochleitungsdruck definiert werden müssen, weil die Mieter in der Verbindung wirksam sind.
+Wir haben jetzt hier zwei Niete mit dem kleinen Abstand und zwei Niete mit dem großen Abstand.
+Und im Zuge dessen ist es jetzt ein großes Thema, die Kraft selbst geht durch den Schwerpunkt und hat damit kein Liegemoment zur Folge.
+Die Kraft nicht durch den Schwerpunkt muss man überprüfen, ob eine Liegelbelastung da ist.
+Wir haben jetzt hier formal gesehen als Feder vier gleiche Nieten.
+Die sind viermal gleich groß, haben also gleiche Streitigkeiten und würden viermal die gleiche Performung bringen.
+Wenn man das da unten mal so als Modell darstellt, dann hat man so eine Platte hier.
+Unten sind die Federn, die Kräfte, die jetzt wirksam sind, werden alle gleichmäßig auf die Niete vertreibt.
+Dadurch, dass sie durch den Schwerpunkt geht und folgt sozusagen dieser Formel.
+Ich weiß nicht, ob Sie das schon mitgeschrieben haben oder ob Sie das haben.
+Das ist der Fall, in dem die eingeleitete Kraft durch den Schwerpunkt geht.
+Also die Gesamtkraft, die angreifend ist, wie hier, das ist die angreifende Kraft und das ist die Reaktion der entsprechenden Miete.
+Ja, geht jetzt, kann jetzt hier in den Schwerpunkt verschoben werden, die hat jetzt keinen Moment zur Folge.
+Das ist eine reine Querkraft-Beanspruchung, weil der Abstand der beiden Kräfte, die jetzt hier wirksam sind, genau gleich groß ist und hat nur eine Querkraft zur Folge, die auf den Blut wirkt.
+Und wir setzen nachher, das werden Sie vielleicht sehen,
+gucken wir uns diese momentenbelastete Verbindung an.
+Und wenn Sie sich das vorstellen können, das ist jetzt ein vereinfachtes Modell
+unter der Annahme, dass alle Miete gleiche Durchmesser haben,
+gleiche Steifigkeiten besitzen.
+Dann können wir das so formulieren und die Kräfte, diese Querkraft, die wirksam ist,
+wird aufgeteilt
+auf alle
+vier Winkel
+F-Gesamt
+durch 4
+F-Gesamt durch 4
+aufgeteilt
+auf 2 mal
+den halben
+F-Gesamt halber
+und hat jeweils diesen
+Abstand, wir können
+diese Kraft, ohne dass ein Moment
+dabei entsteht, in den Schwerpunkt
+So dass es hier keine, ich muss jetzt nur so ein bisschen ein Modell machen, das ist das, was ich am Anfang gesagt habe, es geht darum, Modelle zu entwickeln und ein Trendbild dafür zu entwickeln, wie dieses Modell mechanisch abgebildet werden kann.
+Dafür müssen wir ein paar Vereinfachungen machen.
+Ich will jetzt hier die Stichzeiten, die Stichzeiten, die Stichzeiten, die Stichzeiten, die Stichzeiten.
+Die Kräfte dann hier, die Querkräfte, die sind vier geteilt, die sind alle gleich.
+Jetzt haben wir die eine Kraft da unten umgedreht.
+Jetzt können wir diese Querkräfte entstehen.
+Schauen Sie mal bitte, wenn ich jetzt dieses F-Gesamthalbe, das oben angreift und das F-Gesamt unten das angreift, anbetrachte, wie groß ist die Querkraftkomponente?
+Das ist der Schwerpunkt.
+Da ist der Linke 1, da ist der Linke 2, da ist der Linke 3.
+Wenn Sie diese Querkräfte sich betrachten und dieses F, Gesamthalbe, aufteilen, das Grüne,
+oder hier das Blaue.
+Dann kann durch Verschiebung in den Schwerpunkt ein Moment entwickelt werden
+und die Querkärfte teilen sich ja wieder auf ein Viertel.
+Und wenn ich jetzt, ich sag mal, skaliere und der Größe nach aufzeichne,
+Dann würden die sich so verteilen, dass diese grüne Kraft, jetzt habe ich nicht das Reaktio angezeichnet, sorry, spielt keine große Rolle.
+Wenn man diese Inhalte vektoriell addiert, dann findet man, die heben sich gegenseitig auf.
+Die Querkraftkomponente bei dieser Beanspruchung ist Null.
+Das Ding hier ist querkraftfrei.
+Kann man das verstehen?
+Jetzt hat aber diese Verschiebung dieser beiden umgreifenden Kräfte einen Moment zur Folge.
+Ein Moment.
+Und dieses Moment wird abgestimmt von den Nieten.
+Wir drehen ja daran.
+Es gibt einen Drehmoment.
+Wie groß ist dieses Drehmoment, das hier eingebracht wird?
+Ja, also F, die Grüne macht ein F Gesamthalbe, M ist F Gesamthalbe mal,
+Das sind die Regen. Und das ist? H. Groß H. Genau. Und wie ist das Gesamtmoment? Zweimal so groß.
+Ja? Also das ist mein Moment, was ich einleite. Und dieses Moment stützt sich jetzt auf den Mieten ab.
+Diese Verbindung wird hier gedreht und die Kräfte gehen in den Mieter.
+Jetzt kann man das berechnen.
+Haben Sie das im Skript, das was hier steht?
+Dann bitte abschreiben.
+Wir leiten jetzt eine Formel her, für diesen beispielhaften Fall.
+Und nachher machen wir mal eine Berechnung, wenn Querkräfte auftreten, wenn das Moment auftritt, welche Kräfte wirken auf welchen Weg.
+Wir haben ja unterschiedliche Abstände zu der Verbindung.
+Das erste, was wir machen, ist die Verschärfung der Verbindung.
+Wenn wir keine Elementenbelastung haben, sieht es so aus.
+2 kürzlich weg
+das Moment, was eingeleitet wird
+F Gesamt mal H
+unterstützt sich ab
+durch
+die Kräfte, die auf dem jeweiligen
+M1
+wirken, mal
+dessen Abstand H1
+ich bringe nochmal ganz kurz zurück
+H1 hat den Abstand H1, der hier, vom Schwerpunkt, der Lied 4 hat den Abstand H4.
+Der jeweilige Lied hat einen Abstand vom Schwerpunkt.
+Welcher Lied wird mutmaßlich die größte Kraft ausleben?
+Nachdenken, wenn dieses Moment eingeleitet wird, kann man hier erkennen, der mit dem größten Hebelarm, mit dem größten Abstand vom Schwerpunkt, wenn ich einen vernünftigen Lieb noch platzieren will, was mache ich?
+Ich würde einen noch weiter außen ansetzen, der kann noch mehr Moment aufnehmen oder ich würde mit größerem Abstand mehrere Liebten setzen, die dieses Moment besser verteilen.
+Ich habe jetzt hier vier Verbindungen und man sieht das hier auf der einen Seite, so kann man sich das vorstellen, das Moment wird eingeleitet, es wird abgestützt, die Feder außen, C1, ist stärker deformiert als die Feder C2 und C3 und C4, mit dem identischen Abstand, trägt genauso viel vom Moment.
+Und wir müssen jetzt gucken, wie das Moment da drauf steht.
+Das Moment steht immer senkrecht, die Kraft dazu, immer senkrecht zur Mittelpunkt-Krage.
+Ich glaube, ich habe das letzte Mal dieses Beispiel gezeigt.
+Machen wir mal so eine Mietverbindung, wir werden das auch als Übung dann mal rechnen.
+ich leite jetzt hier irgendeinen
+Moment ein
+M eingeleitet
+sieht jetzt so aus
+über einen Hebelarm
+zum Beispiel
+Abstand F
+das ist mein H
+hier wird jetzt ein Trimoment eingeleitet
+wie stehen
+die Kräfte, die auf den Nied wirken
+von der Richtung her
+auf diesen Nied
+so eingeleitet ja in der richtung die abstützung steht
+hier eingeleitet über die stärken das heißt die abstützung
+das eingeleitete Moment wird entsprechend abgestützt
+und es sozusagen steht immer senkrecht
+auf der
+Vielen Dank.
+Okay, versteht man das?
+Den Moment wird so eingefragt und die abstützende Kraft, Autonomie, steht senkrecht dazu.
+Wie wäre jetzt die Querkraft anzutragen?
+Wir haben jetzt hier noch eine Querkraftkomponente.
+Wenn das jetzt mal formal, wenn man die Länge hier so fassen würde,
+dann steht die Querkraft als Reaktion senkrecht dazu.
+Senkrecht dazu.
+Senkrecht dazu.
+Und senkrecht dazu.
+Ja, kann man das verstehen?
+Wir haben zwei Komponenten, eine aus der Querkraft, wenn sie auftritt,
+und wir haben eine Komponente aus dem Moment.
+Und je nach Mietverbindung, das sieht das unterschiedlich aus.
+Hier haben wir jetzt vier Miete in einer Richtung,
+hier liegen die in so einer Rechteckkonfiguration vor,
+und dann spitzen die sich anders ab.
+Und wir müssen jetzt Winkelbeziehungen,
+beziehungsweise die Geometrie finden,
+die korrekt ist,
+um die dafür berechnen zu können.
+Sie addieren sich jetzt sozusagen
+vektoriell.
+Nehmen wir das mal hier raus.
+Wo wird die Kraft am größten sein?
+Wo sie, ich sag mal,
+mutmaßlich in beide Richtungen dreht.
+Das wäre das hier.
+Oder das da oben.
+Nehmen wir das mal raus.
+Dann ist sozusagen
+Der wird hier, das Moment wird an der Stelle, das heißt die vektorielle Addition sieht dann so aus, dass wir quasi den blauen Pfeil da oben noch dranhängen und dann sozusagen berechnen müssen, wie diese Mietkraft aussieht.
+Es wäre mein Elf.
+Nied.
+Ja.
+Und je nachdem, wie diese Querkräfte
+und diese Momenten eingeleitet werden,
+führt das zu einer Reduktion
+oder einer Verstärkung der entsprechenden Kräfte.
+Ja.
+Sie schauen skeptisch.
+Ich habe hier die Kraft, die greift hier außen irgendwo an.
+Die leitet einen Moment in diese Verbindung.
+Wenn ich einen Moment habe und habe diese vier Punkte,
+könnten auch Schweißpunkte sein, hingesetzt,
+dann wird dieses Moment abgestimmt durch diese Schweißpunkte
+oder durch den Miet. Das Moment, was eingeleitet wird, ist F mal H. Und es wird abgestützt auf einer, das ist hier immer ein rechter Winkel, auf der Abstandsgeraden, auf dieser Abstandsgeraden steht die resultierende Kraft, die auf den Miet wirkt durch einen Moment, immer senkrecht.
+Immer senkrecht, hier immer senkrecht.
+Und halte ich jetzt auf 4 Liter auf.
+Hier zeigt es sich auf, das eingeleitete Moment F gesamt mal H
+sind das abgestimmte Moment Fm1 mal H1, Fm2 mal H2.
+Das ist der jeweilige Abstand, der ist jetzt hier identisch.
+Der ist viermal gleich groß, deshalb wird das Moment, was eingeleitet wird, viermal gleich groß abgeschnitzt durch diese senkrechte Kraft, die auf der Abstandskrabenzüge schwer kommt.
+Und das wird hier genauso sein.
+Je größer der Abstand, desto größer ist dann das absichtliche Moment als Komponente.
+Jetzt haben wir gesagt, C1 ist C2 ist gleich C3, das heißt, das Fm1 wird um den Weg S1 deformiert, weil der Achdarm entsprechend größer ist.
+Das Fm gleich F2 ist die jeweilige Kraft und der vorhandene Abstand zum Schwerpunkt.
+Die Geometrie, die jetzt dahinter steht,
+Das ist dieser Winkel, ich gehe gleich nochmal zurück, der 4 ist im Verhältnis des S1 zum H1.
+Je größer der Abstand ist von der Fertigungsgeraden, desto größer ist die Deformation, desto größer ist die Kraft.
+S1 ist gleich Phi mal H1.
+S2 ist Phi mal A1.
+Das ist die Auslenkung des Biegenballgängers.
+Das Drehmoment wird eingeleitet.
+Der Weg S1, der hier, und die Deformation, die wir haben, ist das Pi mal S2.
+S1 in dem Fall, oder S2 in dem Fall.
+Das hier ist der S4, das entspricht dem S1, weil der Abstand zu diesem eingeleiteten Moment proportional ist.
+Dann können wir das jetzt weiter.
+Wir können das einsetzen.
+Und dann Fm1, wir können das hier mal A1, A2, A3, A4 einsetzen.
+Wir können das hier rauskürzen.
+Eine Relation FM1 zu H1, FM2 zu H2, FM3 zu H3 und H4 zu H4.
+Okay.
+Fragen Sie es hier her.
+Haben Sie es?
+Die von einem einzelnen Miet aufzunehmende Kraft verhält sich also proportional zu seinem Abstand vom Schwerpunkt der Mietverbindung.
+Wenn man das jetzt einsetzt und schafft auf den Linien 1, 2, 3 und 4,
+dann kommt hier raus, Fm1 durch H1 mal H1², Fm1 durch H1 mal H2².
+dann lässt sich die Kraft auf allen einzelnen Niedern im Zusammenhang ermitteln
+und zwar als FM1 in dem Fall
+das ist die Kraft, die auf den Nied Nummer 1 wirkt
+mit Proportionale
+den Abstand, den er hat
+und die Abstandsumme der Abstandsquadrate aller Nieder
+das heißt, wenn ich jetzt hier 4 Liter habe
+1, 2, 3, 4
+wir haben alle den gleichen Abstand
+dann nochmal das hier 100
+zum Quadrat
+plus 100 zum Quadrat
+plus 100 zum Quadrat
+plus 100 zum Quadrat
+und der Abstand selbst
+der ist ebenfalls 100
+Ich stütze das hier auf ein entsprechendes
+Viertel ab, wir rechnen das jetzt gleich mal.
+Die Formel ist jetzt so angegeben, das haben wir jetzt, oder?
+Das ist Fmn, das ist Hn, das ist der Abstand des jeweiligen Mietes
+und die Summe der Abstandsquadrate zum eingeleiteten Moment.
+Das machen wir jetzt mal.
+Die Momentbelastbarkeit einer Mietverbindung soll gesteigert werden.
+Was ist zu tun?
+zusätzliche Miete mit hohem Abstand zum Schwerpunkt anbringen.
+Wenn ich das jetzt mache und sage, okay, ich mache jetzt so eine Verbindung.
+Wo ist der Schwerpunkt der Verbindung?
+Das ist der Schwerpunkt.
+Und dann brauche ich, wenn ich hier ein reines Moment habe, was ich eindringe,
+zum Beispiel, weil jetzt hier die Kraft F halbe oder F gesamthalbe wirkt,
+da wird dieses Moment mit dem Abstand da hinten, der vorhanden ist,
+vorhanden ist, die will ich jetzt gar nicht bezeichnen, F, Gesamthalbe, dann heißt das
+was? Das abgestützte Moment steht immer, da wird es jetzt hier schnell deutlich komplizierter,
+weil ich muss geometrische Bedienungen finden. Ich habe hier diese Abstandsdinger, die hier
+Hier als senkrechte und auf der steht wiederum das abgestützte Moment mit einem rechten Winkel.
+Das sieht man einmal da.
+Die Kräfte hier drinnen sind kleiner, weil da weniger Abstand ist.
+Das geht in die Richtung.
+da draußen die sind etwas größer. So, immer dieser rechte Winkel hier, auf dem die Dinger jetzt draufstehen.
+So wird dieses Moment, das jetzt hier eingeleitet wird, abgestützt.
+Und je größer der Abstand ist eines Miets vom Schwerpunkt, desto größer ist die Kraft, die er abkühlt.
+Das ist ein vereinfachtes Modell, was man macht, aber so funktionieren Schienenbauten.
+Aber am Ende des Tages, dass man sich Modelle macht und versucht, die richtig zu interpretieren.
+Das Moment wird also abgestützt durch die Summe der Abstandsquadrate von Schwerpunkt.
+Vielen Dank.
+Das sind jetzt schöne Übungen, die man da rechnen kann.
+Die sind schön exemplarisch und noch nicht so kompliziert.
+Man muss jetzt die entsprechenden geometrischen Verhältnisse suchen und finden.
+Wenn wir uns das Bild hier noch anschauen,
+das ist jetzt hier eine angreifende Gesamtkraft,
+die als Moment angreift
+und den Schwerpunkt der Verbindung,
+den Schwerpunkt der Verbindung,
+wir haben diese Gesamtkraft,
+wir können das jetzt, ich sage jetzt mal auch grafisch lösen,
+das Problem, indem wir sagen,
+Ich habe einen Maßstab für meine Kräfte, die angreifen.
+Diese Querkraft FQ1 bis FQ4 ist ein Viertel von F-Gesamt.
+Und das Moment, was dann geleistet wird,
+geht so um, und das Abwischenstil, das ist andersrum,
+Und immer die Kraft Fm3, Fm4 als Senkrechte auf der Schwerpunktskarte.
+Deshalb ist das ein schönes, weil es einfach frei steht.
+Hier sind die Querkräfte, die abgestützt sind.
+Und das Moment, das eingeleitet wird, geht so rum aus, die Reaktionskraft entgeht entgegen.
+Und dann sind die Kräfte, die auf den Mieten außen wirken, aufgrund der Höhe des Moments und der Vorzeichen außen am größten, 2 und 3, sind entsprechend kleiner.
+Das ist jetzt diese vektorielle Addition.
+Die Vereinfachungen, unvertriebliche Nutzung der kraftübertragenden Elemente,
+das heißt unterschiedliche Steifigkeiten, das machen wir nicht.
+Wir haben alle Nutzung gleich groß.
+Wir müssen nicht unterschiedliche Steifigkeiten setzen,
+Das sind nur die Rahmenbedingungen, auf die will ich gar nicht so wirklich eingehen, sondern wir machen jetzt einfach mal diese Vereinfachung und versuchen ein paar Sachen zu rechnen.
+Wenn man nicht linear ist, wird es natürlich schwierig, die Wachanleitung zu melden.
+Damit kann man aber Bolzenverbindungen, Stiftverbindungen, Traubverbindungen berechnen.
+Und diese Vereinfachungen, die wir machen, führen zu Einschränkungen bezüglich der Bündlichkeit.
+Ich würde Sie bitten, genau dieses Ding, Seite 25, diesen Lastfall, mal zu rechnen.
+A, können Sie es grafisch lösen, wenn Sie maßstabsgetreu das Ganze machen.
+B, das mit den Werten anzunehmen.
+Die Kraft, die eingeladet wird, F-Gesamt, ist 20.000 Newton.
+Das H1, H4 ist 200 Millimeter.
+H2, H3 ist 100 Millimeter.
+Und der Abstand ist unter D.
+Also es zählt Seite 25 jetzt berechnen.
+Deshalb habe ich Sie da nicht befriedigt, ob es überall ankommt.
+Wir müssen bald ein Blatt Papier mitbringen und das hier mal selbst exekutieren.
+mit dem beschriebenen Weg.
+Das ist der Weg.
+Wir teilen auf.
+Die Verschiebung, wenn es einfach wird,
+ist sehr gut.
+Das heißt, die Bewehrkräfte werden aufgeteilt
+gleichmäßig auf die Anzahl der Liter,
+das Fq,
+und das Moment wird eingeleitet
+für den jeweiligen Liter
+über seinen Abstand
+über den Abstand im Verhältnis zur Summe der Abstandsquadrate
+und steht senkrecht auf dem Hebelarm.
+Jetzt bitte mal das Bild berechnen unter den Geometriebedingungen,
+die ich Ihnen genannt habe.
+Wir müssen jetzt hier Rechteckpapier nehmen,
+einen Maßstab einführen
+und das Ganze mal durchführen.
+Kleine Übung.
+Ich mache das auch.
+Ich habe das auch mal gemacht,
+aber das hat nicht gepasst.
+Sie können grafisch überprüfen, ob Ihre Rechnung passt.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+... Musik ...
+Geometrieverhältnisse richtig
+einzeichnen
+und
+die Vektoren
+auf Mars schließlich anklängen
+können wir auch grafisch
+in die Kurve machen
+das ist eine Vorstellung
+im Nachgang
+mit den Geometrieverhältnissen
+ausrechnen
+haben Sie schon was gefunden?
+Okay, also dass man nicht so mit der Abschnitte betrachtet.
+Ja.
+Okay.
+Das sind quasi die Momente und die Schmerzverschümmelungen, die wir jetzt verarbeiten.
+Wir füllen sie aber doch quasi auf.
+Kommen sie auf?
+Das sind quasi die Momente, die wir jetzt verarbeiten.
+Okay, ja.
+Und dann haben wir ja nach oben die Berggröße.
+Jawohl.
+Ich weiß nicht, ob die hier passieren, aber das ist ein Geotherm, der Aroman, oder?
+Der hier macht dann ein geometrisches Feierabend.
+Über die Wien-Überziehung oder hier über den Herrn.
+Vielleicht der Herr.
+Achso, der Herr.
+Der Tagowas.
+Der Tagowas, genau.
+Er hat es schon gemacht, schauen Sie mal.
+Ich habe es geometrisch hier so als Vorstellung schon mal angemalt.
+Der Maßstab hat leider nicht so ganz funktioniert.
+Er hat das Blatt Papier, Sie müssen es nicht so genau machen,
+aber ich sage jetzt mal, um ein Bild davon zu bekommen,
+das Moment, wo wir da unten eingeleitet,
+das eingeleitete Moment ist 4 mal 10 auf 6 Minuten mal 1.
+Ich habe hier den Maßstab 5.000 mm, sind bei mir hier 2 cm.
+Ist aber egal, wie viel das jetzt wird.
+Die Summe der Abstandsquadrate ist 100 zum Quadrat plus 200 zum Quadrat plus 200 zum Quadrat plus 100 zum Quadrat
+Das ist gleich 10 auf 5 Millimeter.
+Vielen Dank.
+Vielen Dank.
+Die Kraft auf dem Einzellid ist der Abstand zum eingeleiteten Moment über die Summe der Abstandsquadrate.
+Das heißt, hier kommt dann die FM1 und FM4, diese 200 mm durch 10 hoch 5 mm² mal im eingeleiteten
+Moment, 4 mal 10 hoch 6 Newton Millimeter Quadrat und damit kommt eine Kraft raus von 8000 Newton für das FM2.
+ist gleich fm3
+ist gleich
+die 100
+10 auf 100 Millimeter
+10 auf 5 Millimeter
+Quadrat
+mal 4 mal
+10 auf 6
+Newton
+mal
+dann kommt es auf
+4000
+Sie brauchen den Maßstab.
+Also Sie brauchen die Summe der Abstandsquadrate und Sie brauchen den individuellen Abstand.
+Und die müssen Sie dann auch senkrecht auf die Schwerpunkte tragen.
+Wenn Sie sich das anschauen, haben Sie da auch andere Längen.
+Sie müssen erst mal die Hebelarme ausrechnen.
+Aber das geht dann in dem Fall auch über den Tabu-Rast.
+Ja? Da müssen Sie die wirklich ziehen.
+Dann kann ich mal gucken, ob das hier stimmt, was ich da gezeichnet habe.
+wo ist jetzt der dritte Glied, den kann ich mir jetzt auswählen, ich gehe nicht hin und
+gucke mir die zwei oder drei an, da weiß ich, die sind hier unter der Tisch, wo ist
+Ich gehe hier und nehme hier, also ich bin hier identisch und dieses F-Niveau hier,
+Wir haben hier die Wurzel aus dem FM1-4.
+4 zu Quadrat plus q1, 4 zu Quadrat, da auch ziehen wir die Wurzel.
+Das kommt raus.
+Ich habe dann den Maßstab erledigt.
+Bei mir sind 5.000 Nm, das ist 1,6 cm.
+Bei mir 1,6 cm.
+Vielen Dank.
+Entschuldigung.
+Es gibt dazu zwei, drei Übungen, da muss ich nochmal reinschauen, ich habe die Übungen
+glaube ich alle schon gelöscht, die würde ich auch aneinstellen.
+Da geht es am Ende darum, genau um dieses Prinzip, das ist jetzt ein sehr einfaches Beispiel, sage ich jetzt mal, wie dieses Moment eingepackt wird, wie diese Querkräfte eingepackt werden.
+Und man kann sich mit einer maßstäblichen Skizze wirklich ein Bild davon machen, ob man von das Verhältnis her das Ganze richtig gerechnet hat.
+Und man muss jetzt diese Winkel- und Geometrie-Nationen finden.
+Da unten diese Kraft über den Pythagoras, das ist eine häufigste Frage.
+Da würde ich jetzt mal 10 Minuten Pause machen und dann noch mal weiter, ja?
+Eine kleine Pause, versuchen Sie sich das noch mal zu überlegen, ob Sie das gut verstanden
+haben.
+Das ist das Prinzip, was hier herrscht.
+Die Gesamtkraft, die als Moment eingeleitet wird, über einen Hebelarm,
+teilt sich auf in eine Querkraftkomponente und über die Summe der Abstandsvertragung
+des jeweiligen Abstands des Miets zur Verbindung als entsprechende Mietkraft.
+Sowas kann man auch schön in einer Prüfung rechnen.
+Ich gucke mir jetzt mal die Übungen an, die ich in meiner Zeit mit den Leuten gemacht habe.
+Ich bin unter der Woche nicht dazu gekommen, ich habe zwei Tage lang auch eine Tage einen Vortrag gehalten.
+halten, fachlich mal was ganz anderes in dem, was ich eigentlich so in der Industrie gemacht
+habe und immer noch mache. Dann machen wir 10 Minuten Pause. Für Sie da hinten ist das
+okay? Ja. Ja? Bisschen einlegen, meinetwegen. Ja, Sie müssen jetzt diese Methode verstehen,
+Ja, das Prinzip ist es, dass man dann diese vektorielle Addition hat.
+Das ist in der Mathematik.
+Aber da ist man schon guckend, ob wir heute noch ein Beispiel rechnen und das vielleicht nächste Woche.
+Okay, krass.
+Ja.
+Also machen wir mal 10, 15 Minuten Pause und ich gucke mir mal die Übungen an.
+Vielleicht können wir das direkt im Anschluss machen und das nochmal tun.
+Ja.
+Das war's für heute.
+Das orientiert sich jetzt bei dieser Aufgabenstellung.
+In diesem Schema gibt es eine Querkraft, die wird sich aufgeteilt und gibt es potenziell einen Moment.
+man muss gucken, wo ist der Schwerpunkt der Verbindung
+und wird diese Kraft durch den Schwerpunkt
+oder kann sie dorthin
+im Anflusszeichen verschoben werden
+und können wir daran
+darüber verarbeiten
+Das war's für heute.
+Vielen Dank.
+Das war's für heute.
+Okay.
+Vielen Dank.
+Amen.
+Ja, ja, ja.
+Was ist im Fall A?
+Also zunächst einmal, wo ist der Schwerpunkt der Verbiegung?
+Wo ist der Schwerpunkt der Verbiegung?
+Wo ist das?
+Da, wo ich dachte, A und B reingehen.
+Groß ist jetzt dann die Kraft, wenn wir bei A quasi im Schwerpunkt mit der Kraft A 20.000 Minuten angreifen.
+Die Groß ist die Kraft auf 1 und 2.
+20.000 durch 2 ist eine reine Querkraft, die dort jetzt vorhanden ist.
+Und damit kommen wir da auf 10.000 Newton, die sich aufteilen auf Lied 1 und Lied 2.
+Halle B geht voll durch den Schwerpunkt, ist absolut identisch.
+10.000
+10.000
+Und verzehre.
+Oder ich sag mal so, wo haben wir denn noch Kräfte, die durch den Schwerpunkt gehen und
+Keinerlei Moment bringen in die Verbindung.
+Nö.
+A, B, ja.
+Genau. Noch einer.
+In alle Richtungen durch.
+Ja, A, B.
+Nö.
+E genauso.
+nur E.
+Wir hatten eigentlich nur noch Fall
+C und Fall
+Das wäre der Verbindung der Linie FQ.
+auf jeden Fall ziehen
+Sie müssen sich klar sein, tragen Sie Aktion oder Reaktion an, das freie ist möglich.
+Wenn die Kraft C nach links wirkt, haben wir nach rechts die Reaktion.
+Gleich 27.000 Minuten wieder.
+Durch 2, FQ1.
+Das ist gleich FQ2 ist wieder 10.000 Newton.
+Welches Moment entsteht?
+20.000 mal den Newton.
+Also M eingeleitet ist gleich 20.000 Newton mal 100 Millimeter.
+Ich nehme das mal geometrisch in die Aufzeichnung, das müssen wir jetzt nicht machen an der Stellung.
+Dann zeige ich jetzt mal, das ist meine Querkraft Fq.
+wo kommt jetzt das Moment rein
+So rein.
+Die Komponente steht zeltrecht auf der Schwerpunktskragen, wird eingeleitet, in der anderen Richtung abgestürzt.
+groß ist das im moment wir haben beide die 18 quadrate sind
+Die Summe h² ist gleich 100 mm² plus 100 mm².
+Dann habe ich dann 20.000 mm² unter jeweiligem Einzelabstand f, der ist gleich groß,
+F1,2
+bis A1,2
+durch die Summe
+der Abstandsquadrate
+mal M1
+geleitet
+F1
+kommt da raus
+haben Sie das auch gerechnet?
+Einsetzen, mal 10 hoch 6, da die 20.000, dann kommen da jeweils für F1, F2 diese 10.000
+Und unten raus.
+Das heißt, wenn ich die hier
+vektoriell
+addiere,
+Da hin, da hin, das kommt raus.
+Die müssen jetzt gleich groß sein, weil der Abstand identisch ist.
+Und das f mit 1, 2 ist dann 2 mal 10.000.
+Das ist jetzt wieder Pythagoras, ne?
+Wie soll es hier aussehen?
+2.
+10.000 plus 10.000.
+So, jetzt als kleine Strategielösung der Wert für f, was kommt da raus?
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Also wir haben hier eine Klärkraft, die wirksam ist.
+Diese 20.000 Minuten, die ist wiederum auf zwei Anteile verteilt, pro 10.000 Minuten, stützt sich jeder Bild jeweils ab.
+Das Moment, das wirksam ist, ist der Gipfel A hier.
+Der hier.
+20.000 Minuten mal 200 Meter sind 4 mal 5,6 Minuten.
+Wenn das Drehmoment so eingetragen wird, dann wird es mit dem Schwerpunkt herum das eine in die Richtung gehen und das andere in die andere Richtung.
+Das FM ist hier einfach zu ermitteln.
+Also nochmal, ich frage jetzt nicht das eingeleitete Moment an, sondern eine Reaktion.
+Und damit wird das für FM1.
+abgestützt
+auf den Schwerpunkt
+an der Stelle.
+Wie liegt die Kraft
+in dem abgestützten Moment?
+Wie müssen wir die jetzt antragen?
+Man muss aufpassen.
+Ich habe jetzt hier angefangen,
+die Reaktionen darzustellen.
+Die Kraft geht nach unten,
+die Reaktion geht nach oben.
+Das heißt, ich muss auch die Reaktion des Momentes da reinbringen.
+Wie liegt das jetzt?
+Links geht es nach oben.
+Links geht es nach oben.
+Jetzt mal von dem Vorzeichen her.
+Jawohl, nach oben.
+Und rechts geht es nach unten.
+Und wie groß ist es?
+Ist ja wieder gleich groß, weil es den gleichen Schwerpunktabstand hat.
+Und teilt sich auch auf zwei.
+fm1 ist gleich fm2 und das sind dann jetzt wieder die 20.000 Minuten nach oben.
+Das heißt, links gehen 20.000 Minuten nach oben,
+2 cm, da unten gehen die nach unten.
+Und ich habe hier im rechten Teil des Bildes die Konfiguration und im linken Teil ist er wieder zurück.
+Da sieht man jetzt vorne, der trägt drei Mausofil.
+Der hat F1, der hat 30.000 Newton F2.
+Nochmal bitte zuhören.
+Entweder tragen Sie in Ihrer Zeichnung jeweils die Reaktion an
+oder Sie zeichnen das eingeleitete Modell.
+Dann sieht man, wenn Moment und Querkraft eingeleitet werden, das ist der höchstbelastete Fall.
+Und betrachten Sie für die höchste Belastung für einen einzelnen Mieter aus dem vorangegangenen Aufgabenteil,
+Welche Schubspannung und welcher Lochleitungsdruck erfährt der Miet?
+Das ist dann Miet 1 mit 30.000 Newton.
+Und das war jetzt die Formel über Daten.
+Und der Lid wird abgeschert.
+FV durch Pi mal E Quadrat Hefe 30.000 Newton.
+1.000 Kilo I mal I
+durch 4, 20 zum Quadrat Millimeter Quadrat
+runter raus
+Vielen Dank.
+Okay.
+Was kommt raus?
+97 aus.
+Vielen Dank.
+Vielen Dank.
+Und der Lochneigungsdruck, E1 ist der Knie, durch D mal S.
+Und das S, Eul.
+Sieht man das?
+Die da drin?
+Ne, rüber, also über Seite 5 hin zum Bild.
+Wenn es 10 und 20 ist, dann nehmen Sie die 10, dann wird die Flächenpressung der 10er
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Machen wir die Nummer dann noch als Übung.
+Das ist klar?
+Ja.
+Ja.
+oder die Lochleibungen entsprechend höher.
+Gucken wir uns mal diese Verbindungen an.
+Zwei Verbindungen sind separat zu betrachten, eine linke und eine rechte Verbindung.
+Beide Verbindungen werden hier hergestellt über unterschiedliche Geologien.
+In Verbindung mit einem Hebelarm wird das Ganze gedreht durch die Querkraft, belastet die auch im Moment, in dem es sich dreht.
+Können Sie mal, wenn Sie möchten, deshalb habe ich gesagt, bringen Sie heute mal ein entsprechendes Papier mit,
+auftragen, wie diese Kräfte jetzt eingeleitet werden, in meine linke und meine rechte Verbindung.
+dahingehend, dass sich die Geometrie unterscheidet, ja?
+Querkräfte einzeichnen, Moment eingeleitet oder, ich sag mal, als Reaktion entsprechend richtig auftragen,
+konsequent die geometrischen Verhältnisse berücksichtigen und dann die resultierenden Kräfte auftragen.
+Sie gucken sich diese Komponente an, wo dann das Moment eingeleitet wird.
+Und einmal wird es auf diese Verbindung, da ist der Schwerpunkt da, da ist der Schwerpunkt in der Mitte, der Abstand der Hinverbindung ist 40.
+Und jetzt bitte antragen, die Querkräfte, die vorhanden sind, ebenso wie das eingeleitete Moment.
+entweder als Aktion oder Reaktion.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Wir machen das jetzt nicht mit der Reaktion, sondern der Einleitung.
+Wie werden die Kräfte eingeleitet?
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Der Schwerpunkt der Verbindung ist hier. Wir haben alle Miete, gleichen Abstand. Wie teilt sich das Moment auf?
+Die Querkraft auf vier Miete und zwei gleiche Miete. Nur mit unterschiedlicher Richtung.
+Und hier genau das gleiche, die habe ich im Abstand 20. Bei dem anderen müssen Sie jetzt erst den Abstand ausrechnen.
+Das ist eine solide Verbindung.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Und da lebt doch quasi im Ursaal jemand.
+Also für das linke Bild.
+Die gleiche Farbe nach links.
+Also ich habe ja...
+Also ich habe ja zahlreiche Linien.
+Ich habe den linken weg.
+Und die linke geht nach links.
+Ich lege dich da so rum.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Entweder müssen Sie die Abstützung zeichnen oder die Einleitung.
+Er macht jetzt die Einleitung. Ich mache es gern mit der Reaktion.
+Er hat jetzt aber da eine vorgeschlagene Lösung, deshalb wollen wir das auch so machen, die Einleitung.
+Wie wird das Moment hier eingeleitet?
+Wo ist der Schwerpunkt?
+Nein, nein, nein, Sie müssen das separat berechnen.
+Einmal das und einmal das.
+Sorry, also Sie müssen die Verbindung links,
+rechts sind eigentlich zwei aufgaben links ist jetzt diese lasche und das
+jetzt hier rausdrehen aus der Verbindung, dann dreht das im Uhrzeigersinn und damit
+im Uhrzeigersinn dreht das hier rein, ja, in dieses eingeleitete Moment und die Kräfte
+dann näher links hin und drehen rechts herum und das ist hier so ein Spiegel, geht das
+Einen nach links, ja, von der Darstellung.
+Und ein anderer im rechten Teil des Bildes.
+Wenn Sie das nach links klappen, geht die Kraft nach rechts im Bild.
+Und damit ist die Querkraft positiv, links im Bild ist die Querkraft negativ.
+Wir müssen jetzt hier die Vorzeichen beachten und können die einzelnen Komponenten hier oben dann jeweils auftragen.
+In dem Bild ist es so dargestellt, linken Verbindungen, rechte Verbindungen, die werden separat berechnet.
+Ich habe es hier mal gemacht. Schauen Sie mal. Die linke Verbindung. Wir betrachten die Einleitung der Kraft und behalten dann die Vorzeichen auch noch vor.
+Die Querkraft Fq teilt sich im linken Teil der Verbindung 1.800 durch 4 N.
+Das sind 450 N.
+Und wenn das Bild nach rechts klappt, ist das ein negatives Vorzeichen.
+Die habe ich hier unten angetragen.
+Ich habe das maßgeblich gezeichnet.
+Und wenn man das Drehmoment, das eingeleitete Moment jetzt betrachtet,
+dreht das hier im Uhrzeigersinn.
+Und die Kräfte stehen im Uhrzeigersinn auf der Schwerpunktkragen.
+Das hier ist mein Schwerpunkt der Verbindung.
+Diese vier Mieter.
+Das eingeleitete Moment ist 1800 mal 68,5 mm, sind 123.300 Newton Millimeter.
+Der Hebel am Haar ist der Abstand, der grüne da, vom Schwerpunkt.
+Und aus der Zeichnung heraus kann man ablesen, dass das hier jeweils 20 und 20 Millimeter
+sind, 20 zum Quadrat,
+20 zum Quadrat,
+die Wurzel daraus
+gezogen, aus der Summe
+der Kratel
+liegt
+der
+Weg bei 28,8
+zu 8.
+Das Moment,
+was wir haben,
+was die Einleitung ist,
+ist ja auf 1, 2, 3, 4
+gleich im Abstand verteilt
+also wird das Moment
+geviertelt
+zu einer Kraft von
+1090 Newton
+das sind die blauen
+wir müssen die blauen aber
+unterteilen in eine
+x
+und eine Psylog-Komponente.
+Soweit dürfte es noch keiner sein.
+Da haben Sie das schon, diese vektorelle Einführung.
+Da muss ich ja noch die Kontrolle machen und die Einführung einladen, oder?
+Ja, die kann ich mir noch gestalten.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Verstehen Sie das?
+Kraft wird so, Drehmoment wird so eingeleitet, ja, und wir zeigen die eingehende Kraft und
+das eingeleitete Moment, wir zeigen nicht die Reaktion, wir zeigen, wie das Moment
+eingeleitet wird, Kraft wird so eingeleitet, nach links, die führt um den Schwerpunkt
+dann zu einem Moment, was so eingeleitet wird.
+Dann ist das Vorzeichen gegeben.
+Hier bringe ich so rein, die Querkraft, und das Moment wird so eingeleitet, in der Richtung.
+Geht so rum.
+Der andere Moment geht so rum, auf der Ebene, und die Querkräfte stehen nach rechts.
+Ja?
+Ja!
+Also hier sind alle FQ gleich minus 450 Newton.
+hat hier jemand
+was erreicht
+fx, fy
+Ich kann ja auch den Winkel ausrechnen, über den Kurs muss man aber auch immer heileinstimmen.
+Nein, mit dem Winkel kann man es nicht.
+Wie groß ist der Winkel in einem gleichstelligen Dreieck?
+Den kann ich ja ausrechnen, oder?
+Wie groß ist der?
+Ich weiß nicht, wie groß der ist.
+Wie groß ist der Winkel?
+Die Summe ist...
+Ich meine es anders.
+Ich habe gerade die andere Linie.
+Also Sie müssen...
+Sie müssen es anders bezeichnen.
+Wie heißt das?
+Ich kann natürlich jetzt von beiden Teilen
+x und y ausrechnen.
+Ja, genau.
+Ich kann natürlich auch über die beiden
+den Winkel ausrechnen und den Winkel
+Von welchen Winkeln haben Sie das gemacht?
+Wenn ich den Winkel berechnen kann, über den Handelssitz in dem Fall,
+die Regenkathete zu Amt-Kathete, die haben ja beide die Menge,
+dann stehe ich auf den Winkel, der sehr kleine da drin,
+und mit dem Winkel kann ich dann wieder, ich suche den Winkel,
+und ich habe Regenkathete oder Amt-Kathete, und kann dann die Hypotenie übernehmen.
+Was kommt da raus?
+Oder sagen wir X-Lüftung.
+Wir haben jetzt hier ein Vorzeichen, im oberen Fall ist es so, blau, das ist das eingeleitete Moment, grün ist die Querkraft, das führt jetzt endlich dazu, dass die Querkraft in die andere Richtung geht, so müssen Sie sich schon ein bisschen mit dem Vorzeichen auseinandersetzen.
+Das ist einfach eine vektorielle Addition.
+Und dann machen wir nämlich am Schluss folgendes.
+Die Mietkraft Fm ist gleich die Wurzel aus Fqx plus Fmx zum Quadrat plus Fqy.
+Plus F M Y zum Quadrat.
+Aber wie groß ist denn der Winkel hier?
+Sieht das niemand?
+Der hier am gleichständigen Dreieck.
+45.
+Dann können Sie da um die Größe hinweisen.
+Oder Sie machen es wieder über die Wurzel 2.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Deshalb, wenn Sie da Maßstäbe verwenden, kriegen Sie ein Gefühl dafür, was in der Rechnung rauskommen kann.
+Deshalb bin ich immer ein Freund dafür, das auch mal grafisch anzutragen.
+Vielen Dank.
+Amen.
+Ich löse das jetzt mal. Ich zeige jetzt ganz kurz die Lösung und würde das dann publizieren.
+Sie können sich das nicht müssen, Sie können sich das noch mal anschauen.
+Was kommt da jetzt dabei raus?
+Wenn Sie sich solche Mietverbindungen betrachten, was ist denn jetzt, wenn Sie auf einer Brücke stehen, so üblich?
+Wenn so eine Lasche hier befestigt wird, ist das eher so ein Bild oder eher so ein Bild?
+Man sieht eigentlich immer solche Bilder.
+Dass das in Rechtecken angeordnet ist und nicht, dass das in so einem eingeleiteten Drehmoment da steht.
+Das hat man sehr häufig. Warum?
+Sie haben vier Nieten, gleich groß, unterschiedlich platziert, kommt im linken Bild raus.
+Folgendes, hier ist es mit Vorzeichen mal dargestellt, da unten sind die Lösungen angegeben.
+Im rechten Teil des Bildes, diese Verbindung, und da wird das sehr schön so platziert in diesem Bild, damit man sieht, was da passiert.
+Im rechten Teil des Bildes gehen die Querkräfte nach rechts zum Positiv.
+450, 450.
+Eine Y-Komponente ist jeweils 0, auch hier Fq überall minus 450.
+Und das Moment, was da jetzt draufsteht, sind hier 1090.
+Das Moment, was hier draufsteht, ist 1540.
+Warum ist das Moment hier größer?
+Von der Idee her.
+Wir haben hier überall 1540.
+Wir haben hier 1090.
+Warum? Das Moment, was eingeleitet wird, ist identisch.
+Die Kräfte, die auf den Mietwürden sind, aber links viel kleiner. Warum?
+Der Abstand zum Mittelpunkt ist größer.
+Der Abstand zum Mittelpunkt ist größer.
+Wenn Sie was vernünftig abstützen wollen, brauchen Sie einen größeren Abstand vom Schwerpunkt der Verbindung.
+Je enger diese Verbindung genietet ist, hier sind es 20 mm Abstand, da haben Sie Wurzel 2 mal 20 mm.
+Gibt es hier ein größeres Moment und mit der Überlagerung, haben Sie hier unten einmal 14,44, 14,44, da sind es 800.
+Da unten, dort wo das Moment eingeleitet wird, wird am besten, am stärksten abgestützt.
+Hier unten wird das Moment eingeleitet und wenn Sie da unten nur ein Lid haben, kriegt Ihr was auf die Nase.
+durch den geringeren Abstand
+ist das Moment größer
+und je näher Sie an der Krafteinleitung sind
+respektive an der Momenteneinleitung
+wird hier stärker abgestützt
+und das ist am stärksten belastet
+wir werden dann unten noch
+in Analogie zu den Formeln
+die wir besprochen haben
+umgestellt
+Es wird der Mietdurchmesser, der erforderliche, berechnet für die Winkelabbildung 3,2, für die Rechte 3,8.
+Die Lösung kriegen Sie von mir.
+Wir sind jetzt nur mal da, dass wir das hier so dargestellt haben.
+und Sie sollten das wirklich mal im Einzelnen durchrechnen.
+Wenn Sie da noch Bedarf haben und Fragen haben,
+bitte machen Sie das,
+dass Sie mit den Zahlen und Formeln und Einheiten zurechtkommen.
+Hier nochmal, diese Mietkraft wird berechnet,
+indem man die x-Komponenten addiert,
+die y-Komponenten der Kraft
+und dann das Ganze mektoriell addiert
+über den Herrn Pythagoras.
+In dem oberen Fall
+wird dann die Gliedkraft kleiner,
+weil die Querkraft in dem Moment partiell wirkt,
+in der x-Komponente hier.
+Unten wird es größer,
+das kann man an diesem Bildchen erkennen.
+Und machen Sie sich eine Skizze.
+Und das hilft, zu sehen, ob man auf dem richtigen Weg ist.
+Er hat es hier mit dem eingeleiteten Moment, mit der eingeleiteten Querkraft, Vorzeichen richtig angetragen.
+Sehr, sehr wichtig.
+Ich würde dann nochmal 10 Minuten Pause machen.
+Ja?
+10 Minuten Pause und dann machen wir das Beute.
+Okay.
+Dann nochmal als vorläufiger Hinweis, die anderen Sachen kriegen Sie noch von mir, sollten Sie sich auch unbedingt anzahlen.
+Genau richtig kommen, 10 Minuten brauchen wir.
+Guten Morgen.
+Guten Morgen.
+Was machst du? Warum bist du täglich so müde?
+Ich dachte, du hättest noch ein bisschen mehr.
+Ich habe noch ein bisschen mehr.
+Ich fühle mich, als würde ich noch mehr lernen.
+Ich weiß nicht, warum.
+Ich weiß nicht, warum.
+Ich weiß, warum.
+um Bauteile, die insbesondere separat hergestellt werden, in Verbindung zu bringen.
+Eine Alternative zu den Mieten, beziehungsweise teilweise auch eine Kombination,
+wäre das Kleben da.
+Kleben heißt, ich sage es einmal final, was nicht löslich,
+zwei Bauteile, die auch unterschiedlicher in der Natur sein können, in Verbindung zu bringen.
+Dabei haben wir jetzt hier auf dem A das Beispiel von Aggression und Koalition auf einer schiefen Ebene dargestellt.
+Man macht solche Sachen, die klingen auch drauf hin, auf Oberflächen, um zu gucken, wie diese Randwinkel sind,
+um die Oberflächenhaftung der Flüssigkeit auf dem Grundmaterial beschreiben zu können.
+Wenn ein Material gute Haftungseigenschaften hat, dann ist dieser Handwinkel relativ gering und man sagt, das Material spreitet auf der Oberfläche.
+Das ist das, was man haben möchte, weil das typischerweise die Schwachstelle ist, die Schwachstelle, die man die Verbindung zwischen den unterschiedlichen Materialien,
+Das bezeichnet man, wenn diese Kräfte über eine Grenzfläche zweier unterschiedlicher Materialien hinweg wirken, als Kohäsion.
+Typischerweise ist die Kohäsion in einem Material immer größer als die Adhäsion zwischen unterschiedlichen Materialien.
+Die Gründe dafür können zum Beispiel sein, dass es sehr stark unebele Oberflächen habe
+und das Material, das als Dekor eingesetzt werden muss oder möchte,
+hat eine unterschiedliche Affinität chemisch und physikalisch zu den jeweiligen Grundmaterialien,
+die hier als Dekor 1 und Dekor 2 bezeichnet sind, häufig, die das in der Grenzfläche benutzt,
+weil dort nicht immer die sogenannten Hauptvalenzkräfte sind.
+Die sind viel größer.
+Das kateriale Innern hat solche Hauptvalenzkräfte.
+Nach außen hin hat es normalerweise Nebenvalenzkräfte.
+Die sind unter Umständen je nach Affinität zu dem übrigen Material deutlich geringer bis zu Faktor C.
+Also Kohäsion in einem Material, Adhäsion zwischen zwei verschiedenen Materialien
+Und bei Adhesionskräften haben wir in der Regel sehr stark vertreten, die deutlich schwächeren Nebenbalanzkräfte.
+Da habe ich Ihnen anfänglich in der Fertigungstechnik ein Video gezeigt, wo man diese Karbonfaser verstärkt,
+Die Kunststoffe verklebt, das Kleben im Automobil wird immer wichtiger.
+Hier ist mal dargestellt, wie elektrisch elektronisch die Ziege fließt.
+Wo man sagt, diese Zuwächse zu erwarten, Materialien, die entsprechend so selbsthaftend sind, sind auf ein großes Interesse.
+Also das Kleben gewinnt technologisch gesehen an Bedeutung.
+Diese Klebstoffhersteller sind mit mir ja auch sehr innovativ und es gibt sehr viele Vorteile.
+Sie können gleiche und verschiedene Werkstoffe miteinander verbinden.
+Nochmals, die Verbindung als solches ist dauerhaft nicht lösbar.
+Wir müssen da irgendwie dann das Material kaputt machen.
+Keine ungünstige Werkstoffbeeinflussung durch Aushärten, Kühlen, Oxidationen, die Schweißen und Wärme reinbringen oder auch beim Löten Temperaturen in eine Probe bringen können sich ungünstige Werkstoffbeeinflussungen ergeben.
+Eine dichte, spaltfreie, isolierende Verbindung, keine Scherzschnitzel unterbogen, da ist ein Rechtschaltfehler drin, die Kontaktkorrosion ist falsch gestiegen.
+Sie können Gewicht ersparen, die Fehler sind relativ niedrig von der Dichte.
+Man kann eine sogenannte Sandwich-Bauweise realisieren, hat man zum Beispiel sehr starken Gleichbau,
+kann ganz unterschiedliche Materialien in Verbindung kriegen.
+Aluminium, Stahl ist immer ein Riesenthema.
+Wenn Sie die beiden Dinge verbinden, dass es eine Kontaktkorrosion geben kann.
+Und das kann man vermeiden, wenn man isolierende Kunststoffschichten zum Kleben dazwischen bringt.
+Die Nachteile sind, wir brauchen immer eine Überlappungslänge.
+Das heißt, zwei Bauteile werden in der Regel durch eine Zugschere-Beanspruchung, unter Schere-Beanspruchung verklebt.
+Beim Automobil führt, ich weiß nicht wie es heute ist, bei den sehr schweren Elektrofahrzeugen,
+aber bei sehr leichten Autos führt das Einkleben der Frontscheiben zu einer Versteifung der Karosserie.
+Also da sind viele Verbindungen drin, die gezielt genutzt werden, um positive Effekte auch in der Gesamtkonstruktion ausüben zu können.
+Man hat allerdings eine sehr aufwendige Oberflächenbehandlung, das werden wir gleich sehen.
+Die abdehnenden Zeiten, bis das Material weiterverwendet werden kann, sind sehr lang.
+Die betragen hier zum Beispiel bei diesem BMW, wo diese Karosserie, diese karbonwasserverstärkten Bauteile verfügt werden, 90 Sekunden.
+Wenn Sie sehen, wie schnell geschweißt wird, das geht deutlich schneller und ist sofort den 15-Tag-Krieg in Verbindung.
+Was ist eine Kriechneigung?
+Um den Griff her, was heißt kriechen, das sollte der Maschinenbauer wissen, machen wir nicht alle Kunststoffe,
+aber jetzt zum Beispiel bei dieser Tagung, wo es zwei Tage war, hat einer einen Vortrag verhalten,
+in Rohrleitungen werden Flammverbindungen hergestellt, die werden entspannt und Schrauben,
+die angezogen werden und den Thermoplast, der kriecht und dann verliert die Flanschverbindung,
+die Schraubverbindung an Vorspannkraft durchs Kriechen.
+Was heißt kriechen nochmal?
+Das heißt, dass ich ein Bauteil unter gleichbleibender Belastung zusätzlich verformt
+Oder, dass Spannungen, die irgendwo aufgebaut worden sind, abgebaut werden.
+Wenn wir eine Uniklichtung haben, in einem Flammsystem,
+haben wir auch zusätzlich eine Kupfstoffbetonung.
+Dann können wir die Verbindung so fortfangen,
+dass sie, weil wir auch mit einem Nachverlust rechnen,
+müssen wir auch das Relationärnis des Kriegeneigens besitzen
+und eine Uniklichtung aufsetzen können.
+Das muss man wissen, die sind zeitabhängig, zunehmende Deformation.
+Im Kunststoff ist es Zeit, Temperatur, abhängig, zunehmende Deformation.
+bei konstanter Spannung
+oder ein Spannungsabbau,
+der stattfindet, weil das Material dieser Belastung auf den Weg geht.
+Das heißt, Eigenschaften sind etwas anders als bei den Metallen,
+wo man dieses Kühlchen eigentlich nur bei entsprechend höheren Temperaturen, bei sehr hohen Temperaturen,
+Hier ist jetzt mal dargestellt, was man an Oberflächenbehandlungen machen muss.
+Teilweise wird da die Oberfläche angeätzt, teilweise werden sehr aggressiv wirkliche Mekanien eingesetzt.
+Es ist im Entfetten sicherzustellen, dass keine Fettrückstände, also organische Rückstände, auf den Proben sind.
+Wir hatten verschiedene Materialien, unterschiedliche Verhandlungsvarianten.
+Das ist dann im Entfetten mit organischen Lösungsmitteln.
+Die gesetzlichen Schutzvorschlüsse überatmen, als kleiner Hinweis.
+Das sind in der Regel Symbole.
+Ich habe mal bei einer Firma gearbeitet, die hat Kunststoffe verschweißt.
+Da müssen Sie das nicht machen, da gibt es eine sogenannte Oxidschicht, die muss entfernt werden.
+Das sind so ein paar Zetel, die weggekratzt werden.
+Die kommen eigentlich aus der Metallverarbeitung, dann haben wir da die Kunststoffe aufgemacht und haben dann mit Lösungsmitteln die Kunststoffe angemischt.
+Das ist eine einzige Katastrophe, die uns streist und die uns zu einem Kunststoff wird.
+Organische Lösungswerte, die Symbole sich beim Kühlschrank gelösen,
+dann zu sehr negativen Auswirkungen,
+die sich in den Schweißergebnissen verursachen.
+Gusshaut entfernen, aufrauen, Füllungsflächen bearbeiten,
+sehr, sehr aufwendige Prozessfolge,
+allerdings dann mit recht guten Ergebnissen.
+Niedrige Zugscherfestigkeit,
+Wir haben jetzt bei den Materialien, bei den Baustellen Zugfestigkeiten 235 Mega-Pascal, teilweise noch größer und kriegen jetzt hier Zugfestigkeiten angeboten von 10 Newton pro Quadratmillimeter.
+Das heißt, wenn man dort Kräfte aufbringen will, braucht man entsprechend hohe Überlappungsflächen, um Kräfte übertragen zu können.
+Diese Klebstoffarten können nach dem Abwinde-Mechanismus dargestellt werden.
+Das Rote müsste Ihnen fehlen.
+Das können Sie vielleicht bitte nachtragen.
+Das ist ein Vorschlag von VDI. Lösungs- oder Displations-Kriegstoffe.
+Bevorzugt bei porösen Werkstoffen. Das Lösungsmittel muss sich verpflichtigen, teilweise durch chemische Reaktionen unterstützt.
+Das heißt, wenn Sie große Flächen haben und haben so einen Lösungskriegstoff, muss sichergestellt sein, dass diese Lösungsmittel da auch wieder rauskommen.
+Nicht ganz einfach, wenn Sie einen Metallreffekt geben, die sind in der Regel nicht infusionsoffen und lassen das Lösungsmittel nicht durch.
+Dann muss das bei großen Kriegelflächen.
+Ich habe mal eine Nachschlussarbeit bei Bosch betreut, die verkleben Kunststoffbauteile mit Silikon.
+Das Silikon, was dort eingesetzt wird, ist vernetzt unter dem Vorhandensein von Luftfeuchtigkeit.
+Es geht irgendeinen bestimmten Weg in das Material ein und dann stoppt diese chemische Reaktion, die zieht nicht weiter.
+Das heißt, wenn man 10 mm in breites Band verkleben will, kann sein, dass es nur 8 mm geklebt hat.
+Ich habe diese breiten Klebenspuren bei dem Bosch damals gemacht und nach der Nachschussarbeit, die ich da betreut habe,
+festgestellt, dass eine Riesenanzahl von Bauteilen nicht die ausreichende Festigkeit ist,
+dass diese Durchwertung gar nicht stattgefunden hat.
+Da kann man sich eigentlich manchmal auch wundern, was so in so einer Organisation alles runtergeht.
+Wir haben dann zusätzlich noch sogenannte Kontakt- und Schmelzklebstoffe.
+Schmelzklebstoffe hat jeder vielleicht selber schon mal mit agiert.
+Kann man im Do-it-yourself-Bereich auch ganz gut anwenden.
+Plastisole, das sind die Substationen von PVC, die werden heute noch sehr viel eingesetzt im Automobil, um es abzudichten.
+Wie gesagt, sind wärmeempfindlich, haben eine Kriechneigung, eine geringe Lösungsmittelbeständigkeit,
+sind physikalisch abhängig vom Verfahren.
+Chemisch gesehen gibt es noch Varianten, also Kunstharze werden chemisch vernetzt,
+Da sind die Epoxidharze relativ bekannt und bedeutend.
+Meistens werden zwei Komponenten eingesetzt, die werden zusammengerührt,
+wie so ein Harz und ein Härter.
+Ein Härter ist der Katalysator und kann diese Reaktion beschleunigen.
+Da gibt es bestimmte Zockzeiten, wie so ein Material reagiert.
+Und die ganzen unterscheiden sich über das Verfahren.
+die typischen Aufbau-Reaktionen für Polymere und Polymere sind auch die Vertreter der Klebstoffe.
+Das sind Kunststoffe. Ohne Kunststoffe kriegen wir sie gar nicht.
+Ich habe meine Abschlussarbeit beim Daimler betreut, in der Motorsparte, in der Rennsparte, die die haben, ich glaube gerade ein D-Wert ist.
+Und da haben wir vorhin so ein Dreiecks-Bauteil austauschen, eine Versteigung der Karosse B.
+Das sind Gustteile und Aluminium-Bauteile, die dort eingesetzt werden.
+Und da sollte ein Kunststoffbauteil rein, was der Typ, der das zu entscheiden hatte, nicht wusste.
+Also er wollte das nicht ausklaugen gegen so ein Kunststoff-Carbonfaser-Bauteil.
+Mit dem Grund, dass er da keinen Kunststoff haben will.
+Dabei waren Gustteile aus Aluminium drin.
+Aluminium-Stangen,
+die miteinander verklebt
+geblieben sind. Das ist eine ganze Konstruktion.
+Bestand so ohnehin
+auf
+Kunststoffmaterialien,
+das ist eigentlich nicht gewusst
+und noch nicht verstanden.
+Haben Sie es?
+Dann haben wir noch
+die wichtige Beanspruchungsart.
+Wir haben
+jetzt hier im Falle A eine
+Zug- oder Kugelbeanspruchung,
+Das ist das Gleiche, was wir in den Grundlagen zur Festigkeitslehre gemacht haben.
+Wir haben eine Scherbeanspruchung oder im Falle C, und das ist sehr, sehr ungünstig, eine Scherbeanspruchung.
+Diese Kategorien, die Sie sehen vorhin, 10, 15, hier sind Medierungen von Aluminium, Magnesium, Aluminium und Kupfermagnesium drin.
+Wir stellen fest, dass diese Abschertfestigkeit in einem Aluminium 5 Minuten pro Quadratmillimeter beträgt.
+So enorm versuchen wir es zu machen.
+21 Millimeter breiter Streifen, wird auf einer Gesamtlänge überlappend,
+auf einer Überlappungslänge von 10 Millimetern verklebt.
+Die Gesamtlänge der Einzelelemente ist hier zu erkennen.
+Einspannlänge 160 mm, dann geben sich solche Festigkeiten.
+Diese Einflüsse der Festigkeit sind Alterung, Bewitterung, Temperatur, Wasser.
+Das ist kein Maschinenbauelement, aber die ganzen Wanderspiele, die sind mit Klebern, Kondensationsklebern versehen,
+die neigen dazu zu neutralisieren.
+Manchmal hat man spontan, dass sich bei einem Bergschuh die Sohle ablöst.
+Da hat sich der Kleber in der Regel ausgelöst, der Hydrolyse.
+Deshalb kann Wasser auch Einflüsse ausüben.
+Die Umdehnungsbedingungen, eine dynamische Belastung, wie bei den Metallen auch.
+Eine dynamische Belastung reduziert die Festigkeit.
+Wir haben dann eine wechselnde Schubfestigkeit, die etwa bei 0,2 bis 0,4, so ähnlich wie bei den Metallen auch, im Vergleich zum Zugversuch eine gute Festigkeit aufweist.
+Wie das Ganze schwellend beansprucht wird, schwellend, wie muss man nochmal schwellen?
+Wechselfestigkeit
+Wir sind einmal im Zug- und Druckbereich
+und eine Schwellfestigkeit
+Das ist hier immer ein positiver Bereich.
+Mit der Unterspannung 0, da sieht man, da ist der Wert deutlich höher.
+Also eine reine Zugbeanspruchung ist das, was wir haben möchten, nicht ein Wechsel von Zug und Druck.
+Hier sind diese erreichbaren Festigkeiten, dann auf Basis verschiedener Materialien
+und verschiedener Kleber mal dargestellt, Zugscherfestigkeit, das ist gerade die Grundfestigkeit,
+und wenn man in dynamische Veranspruchungen kommt, die sind jetzt 13 und 27, oder 25 Megapaskal oder Newton pro Quadratmillimeter.
+Hier ist das Ganze nach einer VDI-Richtlinie,
+die vorhin schon mal gezeigt worden ist, dargestellt, die Werte variieren von was man hier sehen kann.
+Wenn da Temperatur ins Spiel kommt, fallen diese Festigkeit nicht, ich sag mal, bei bestimmten Temperaturen teilweise radikal ab.
+Das hängt an den Koalitions- und Aggressionsmechanismen, die wir haben, und an dem inneren Aufbau des Materials.
+Die Schellbeanspruchung ist genau das, was man nicht haben möchte.
+Ich ziehe den Test, wo man Bauteile mit einer Schellbeanspruchung aufschlagt.
+dass hier, das möchte man überhaupt nicht haben, da ist eine Schälbeanspruchung, da haben Sie immer so ein rundartiges Aufreißen der Verbindung, die Tragfähigkeit geht immer runter,
+Bei dieser Schälbeanspruchung haben wir in der Krafteinleitung bei A, ich sage mal per se, so eine Art Kerbe, die zu einer Spannungserhöhung führt, nominal in der Krafteinleitung.
+Deshalb reißt das immer schlagartig auf bei so einer Prüfung.
+Und diese Belastungsart, genauso wie die Bietenbelastung und eine erfreuliche Schälung, das sollte man unbedingt vermeiden.
+Wenn Sie mal gucken, hier sind so kleine Bildchen, die fehlen, die vielleicht können Sie ergänzen.
+Hier ist der Kraftfluss nicht sonderlich günstig und auch so ein Stumpfstoß sollte man nicht in der Art und Weise vorbereiten und kleben, sondern man sollte hier so eine Schrägung vornehmen.
+Im Falle 2, zu kleine Klebeflächen bei Stumpfstößen, Schäftung ist besser, aber teurer, da jetzt der rote Punkt liegt und Überlappungsverbindungen sollte man bevorzugen.
+Warum man hier das hier macht, eine auslaufende Schräge bei dieser Klebung, das werden wir uns gleich noch anschauen, das hat mechanische...
+Hier unten haben wir nochmal diese Schälbeanspruchung, so was, das ist super ungewiss, wenn man jetzt hier eine Kraft zieht, dann hat der Kleber jetzt hier wieder diese Schälung beansprucht, das ist äußerst ungewiss.
+Da kriegen Sie eine Spannungsspitze davor und dann haben wir hier die Verbindungen zusätzlich.
+Es ist hier ein wichtiges Problem, die Beschäftigung ist deutlich besser.
+Hier ungünstig, das gibt auch wieder eine Schäbeansprung, der Helfer, der unter Innendruck steht,
+Es ist günstiger, einen separaten Boden innen oder außen aufzusetzen.
+Dann hat man damit Kräfte und deutlich bessere, schwerere Anspruchungen, wie man sie sich wünscht.
+Auch hier die Stoßverbindung äußerst ungünstig, wenn wir das Ganze einsetzen.
+Ich komme jetzt zu den entsprechenden Formen, das Ganze zu berechnen.
+Hier haben wir so eine Stumpfnaht, auch wenn man die so nicht machen sollte.
+Bezüglich der Berechnung, da gehe ich hier gut mal erst durch A.
+Das ist am einfachsten.
+Und dann habe ich diese Überlappung mit einer bestimmten Breite der verklebten Schicht und einer Überlappungslänge.
+Und dieses Lü ist das, was man typischerweise dimensioniert, um zu schauen,
+naja, hier kriege ich jetzt eine reine Kraft rein, Erdkraft.
+die zu einer Scherung führt
+ich soll aber auch vorstellen
+dass man einen Drehmoment reinbringt
+das ist so eine Verbindung
+wenn die Kraft 90 Grad gedreht ist
+und
+ich sag mal
+ein Moment rein
+dann muss man wieder die Kraft
+überlagern
+und betrachten wie groß sind denn jetzt
+die Spannungen
+die Schubspannungen in einer Schicht
+um die Geometrie
+der Verklebung sicherzustellen
+Das ist genauso wie hier eine Welle, die in so einen Bauteil eingesetzt ist.
+Diese Rundklebung, die im Intersektor belastet ist.
+Was muss ich da dimensionieren, wenn man sich die Formeln anschaut?
+Das sieht man jetzt durch A.
+Die Fläche ist B mal T.
+Das muss kleiner sein als die Bindefestigkeit des Materials.
+Wobei hier die Zugfestigkeit angegeben ist, hier ist die Scherfestigkeit, glaube ich, dass die Zugfestigkeit größer ist, wo oben steht es, Tau Kb ist ungefähr Sigma Kb.
+Bei Materialien, Grundmaterialien, die wir haben, zwischen Zugfestigkeit wird es hier bei der Schwerfestigkeit und Zugfestigkeit nahezu identisch sein.
+Man wählt S 1,5 bis 2,5.
+Der Tagung hat eine Sonderzulassung für ein Aramidseil gezeigt, das bei fliegenden Bauten eingesetzt wird,
+z.B. bei Riesenwäldern, und da wird dimensioniert eine Sicherheit von 3,5.
+Wir legen dann aber eine grauaufsichtliche Zulassung und das wird immer dimensioniert mit entsprechenden Sicherheiten, wie 1,5 bis 2,5.
+Okay, dann haben wir hier die zulässige Spannung F durch A und wird bestimmt durch die entsprechende Überlappungslänge,
+die kleiner sein soll als die Zugfestigkeit, die Kehrfestigkeit, in dem Fall umgekehrt durch die vorhandene Sicherheit.
+Das nutzt man zur Dimensionierung.
+Welche hohe Zugkraft kann die Klebeverbindung zweier Aluminiumrohre mit einem Außendurchmesser von 30 mm L und einer Überlappungslänge von 40 mm aufnehmen?
+Der Klebstoff hat nach Herstellerangaben die Überlappungslänge eine Windfestigkeit auf Kb und 14 Nm pro Quadratminimum.
+Die Längskraft bildet F ist kleiner gleich B mal Nü mal Kb durch S.
+Das Ganze dann hier betrachtet mit dem Kreisring, das ist die Breite der Verbindung Pi mal E, das ist der Umfang, sozusagen Li, also Überwachungsringe, mit einer gewählten Sicherheit fest, 1,5, Einflussgrößenreiz berücksichtigt,
+Welche Besuchung ist Zucker? F ist Pi mal 30 mal 40 mal 50 Milliliter pro Quadratkilometer durch 1,35 Kilowatt.
+Kann man die Frage aber umgekehrt stellen, wenn man Zucker verbraucht, wie groß muss die Überlappungslänge sein?
+Ein Zahnrad aus Stahl mit einer Breite von 30 mm und einem wellenzapften,
+wo ein Kaltklebstoff mit einer Windefestigkeit von 20 mV vorgesehen ist und ein schwellend wirkendes Drehmoment T gleich 12 Nm an das Wurfsverhältnis ist,
+Das ist ein Anwendungsfaktor K1,3 zu berücksichtigen, weil es noch jemand weiß, was der Anwendungsfaktor war.
+Einleitung, Seite 80.
+Was war der Anwendungsfaktor?
+Da kommen wir wieder gerne eine Frage bei den allgemeinen Fragen, was ist der Anwendungsfaktor?
+Wenn ich eine dynamische Last habe und diese Last nicht rein dinusförmig ist, also schlagende Beanspruchungen kommen können, wird das mit dem Anwendungsfaktor berücksichtigt.
+Da wird die nominal vorhandene Spannung um diesen Anwendungsfaktor erhöht.
+Bei sehr stark schlagenden Beanspruchungen kann das bis 2 oder 3 gehen, um die Dynamik bei dieser Belastung zu berücksichtigen.
+Die Sicherheit in Dauerbruch kann aus dem umgeformten Planeten 5 abgelesen werden.
+Das ist jetzt wieder das Tau Kb mal Pi mal D² halbe mal B durch TdQ mit der dynamischen Bindefestigkeit.
+0,8 einer steilenden Beanspruchung wird reduziert von 20 auf 80 Prozent, 16 Minuten pro Quadratmeter.
+Das Ganze wird in die Gleichung eingesetzt, weil es die Nebelverbindung einer rechnerischen Sicherheit von 19 gegen Dauer hoch aufnimmt.
+Haben Sie das fotografiert?
+Ja.
+Hier gab es mal ein Weltkrieg.
+Problem bei diesen Überlachungen, bei denen man vorgehen muss, wenn hier oben die Kräfte einbringen,
+Bitte schauen Sie sich das mal an. Dann ist die obere Schicht, die obere Lasche, die untere Lasche und da ist ein Kleberkugel dazwischen.
+Jetzt fange ich an und deformiere das. Dann ist durchaus klar, dass hier vorne eine Kraftkonzentration stattfindet,
+dann geht das durch den Kleber durch und die Kräfte werden hier hinten verstärkt übertragen.
+Das heißt, die äußeren Schichten oder die randnahen Schichten werden nicht so stark deformiert.
+Das heißt, die Mengenänderung hier vorne ist größer als hier hinten oder in der Mitte des Bauteiles, was zu einer Spannungsüberhöhung führt in der Krafteinleitung und der Kraftausleitung der Überlastungslänge, weil die Elemente an sich geringer belastet werden.
+Sie kriegen weniger Dänen.
+Und da schauen, je näher Sie an der Kraftumleitungsstelle sind,
+desto größer wird die Deformation sein.
+Das ist hier mal so ein bisschen dargestellt mit Delta L,
+das ist 9 mal, 8 mal, 7 mal, 6 mal.
+Delta L, die Verzerrung, wird nach vorne größer, nach hinten größer.
+Aber hier oben, in dem Bauteil, das oben liegt, wird die Kraft außen hin schlecht übertragen und unten jedenfalls nach außen hin,
+was zu einer, ich sag mal, verraten und verbauten Entspannungserhöhung nach außen führt.
+Deshalb ist das jetzt wahrscheinlich auch ein bisschen gewünscht.
+Die Verjüngung der Überlappungslänge des Bauteils kommt ins Bauteil und hinten raus, das ist in der Hülle.
+Das führt zu einer besseren homogenen Übertragung der Spannungen in der Krebsstelle.
+Keine Fragen mehr gibt, würde ich jetzt an der Stelle schließen und wir machen nächste Woche dann mal mit dieser Berechnung weiter.
+wo man so eine Überlappungslänge hat.
+Wir haben einen Rechteckquerschnitt
+und der wird jetzt auf eine
+Trasslose und eine Querkraft
+beansprucht.
+Wir schauen jetzt mal in die
+Berechnung.
+Danke für die Aufmerksamkeit.
+Ich wünsche noch einen schönen Tag.

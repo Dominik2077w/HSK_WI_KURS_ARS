@@ -1,0 +1,1474 @@
+Was wir gerade an Inhalten durchnehmen, die Aufgabe benötigt auch, glaube ich, die eine oder andere Kleinigkeit, die wir heute sogar erst so richtig durchnehmen.
+Deswegen, das passt schon voraus, einen der Gehorsam für die oder denjenigen, der es gerechnet hat.
+Nur der kleine Hinweis, wenn Sie Fragen haben zu Aufgaben oder zu Themen,
+schauen Sie am besten nicht an die persönliche Nachricht über das Moodle-System,
+sondern idealerweise in das Forum rein, dann können sie alle lesen, dann sind alle auf dem
+gleichen Stand und dann vermeiden irgendwie doppelt die gleichen Einrichtungen. Nichtsdestotrotz,
+ich freue mich, wenn Nachrichten kommen, wenn Fragen sind, wenn sie irgendwo sagen,
+da hakt's, dann nicht irgendwie zur Seite schmeißen und sagen, das funktioniert nicht,
+sondern gerne einfach schreiben. So, bei mir scheint Powerpoint schon so ein Stück weit zu
+öffnen, aber es braucht noch ein paar Sekunden vielleicht. Ich nehme mal hier aus dem Tablet
+raus. Das sieht doch gar nicht so schlecht aus. 28.11. könnte passen. Ah, jetzt schreibt
+auch mein Stift. Vorhin war das nicht der Fall. Das ist gut, das hat sich gelohnt mit
+im Neustart. Dann, genau, lege ich los. Sie sagen Bescheid, wenn irgendwo was nicht stimmt.
+Ich würde die Tür zumachen, oder sonst schreiben wir uns das auch gegenseitig.
+Ja, wir haben uns letztes Mal gefasst mit diesem Thema. Das war die Idee, dass man sich
+in der erweiterten Benui-Gleichung nicht nur
+anschaut, wie sind diese Energiewerte
+von hier nach hier
+überhaupt, das kennen wir
+schon länger, das Benui-Thema, was uns ja
+die ganze Zeit verfolgt hier in der
+Sturmungstechnik und auch bis zum Ende der Vorlesung
+ein Stück weit erhalten bleibt.
+Aber wir haben uns noch diese Erweiterung
+angeguckt, die grünen Dinge, wo
+wir Energie dazuführen auf der einen Seite
+und die roten Dinge, wo wir Energie
+wieder
+disziplieren, also das heißt in Wärme
+umwandeln, aber die Wärme interessiert uns nicht mehr weiter
+in der Sturmzündung, also wo Energie
+in allen möglichen verloren geht.
+Und ich habe gesagt, jetzt diese
+Dinge, noch mal
+kurz Revue passieren,
+Sie können entweder die
+oder die oder die Gleichung nehmen,
+äquivalent, das heißt, es ist nur
+ein Thema, was auf der linken Seite dazu
+kommt, wahlweise dieses,
+dieses oder dieses und ein
+Ding, was verloren geht,
+wahlweise eines von diesen drei Termen,
+je nachdem, welche von den gleichen Sie als
+Dazu kommen wir aber zum Glück noch ein ganzes Stück mehr in der Anwendung.
+Dann ist es hoffentlich auch beständig.
+Morgen.
+Genau.
+Wir werden uns das Ganze auch ein bisschen mal anschauen.
+Das ist jetzt hier Beispiel Venturi-Düse, was wir später gemacht haben, mit unserem kleinen Labor-Rundgang.
+Da steht 8.1.25, das ist auf jeden Fall nicht richtig.
+wenn überhaupt, wäre es 8.1.1926
+und ich glaube, es ist es auch
+die erste Stunde, die wir im neuen Jahr haben
+ist
+so, dass wir uns hier
+im ganz normalen Vorlesungsraum treffen
+so wie man es immer macht
+dann werden wir eine kurze Vorlesungseinheit machen
+und dann gehen wir rüber ins Labor
+das ist da einmal über die Straße rüber
+oder über den Parkplatz rüber
+und da gibt es
+ein paar kleinere Experimente
+die aufgebaut sind, unter anderem
+ein bisschen mit der Venturi, die sieht man zwar, kann man sich besser vielleicht vorstellen, auch
+sonst ein bisschen was am Strömungskanal. So, letzter Teil hierzu, genau dieses, diese Aufgabe
+mit dem, was angefragt wurde, die wollen wir dann am Montag uns genauer anschauen. Vielleicht lohnt
+es sich auch für alle im Raum einmal diese Aufgabe kurz anzusehen, soweit es die Zeit noch
+erlaubt, zwischen heute
+Nachmittag und Montag
+in der Früh, wo wir uns ja schon wiedersehen
+und es dann gemeinsam auch ansehen.
+Ein paar weitere Gedanken,
+die ich noch rechnen würde gerne,
+wäre die
+SDA Nummer 20
+und bei der WÜ die Nummer 3
+und die Nummer 8. Ich habe jetzt die
+nicht mehr genau auswendig, ich habe es mir aber vorher rausgeguckt.
+Das sind also Aufgaben, die ich mal anfangen werde.
+Und bei der TD habe ich jetzt gerade vom GER noch gekriegt, TD10 werde ich mit Ihnen rechnen.
+Das ist nur, dass Sie es einfach vorneweg wissen.
+Das sind die Aufgaben, die ich mir wohl am Montag mit Ihnen gerne gemeinsam anschauen werde.
+Je nach Zeit können wir da auch noch mehr dazu nehmen oder müssen irgendwo uns etwas kürzer halten.
+Das kann man schon vorhin gerade gesehen, das ist also dieser zentrale Gedanke.
+Das finden Sie aber ja auch auf Ihrer Formelsammlung ganz prominent wieder.
+Das ist hier dieses 4.1-Thema, da stehen also genau diese drei Gleichungen, wie Sie sie hier im Buch befinden.
+Einziges ist, dass ich hier bei der Kopie, ist sogar ein Fehler drin, das ist aber bei Ihnen in der Formelsammlung nicht so,
+hier müssten U's stehen und keine W's, wir haben uns ja schon ein paar Mal darüber geteilt,
+dass das je nach Fachbuchunterschied nicht gemacht wird.
+Das ist also eine alte Aufzeichnung.
+aber für sie kein problem in der formel sammlung ist es genauso notiert wie westen dann haben wir
+uns unterhalten über diesen verlust haben im detail wir haben uns angeschaut dass verschiedene
+dinge vorliegen können erst mal wenn in rohren irgendein fluid flüssigkeit insbesondere sich
+bewegt entweder laminar oder turbulent das hatten wir jetzt auch in der übertragung wieder mit
+diesen Eigenschaften, das halte ich für recht geschickt, diese Tabelle sich ein Stück weit
+zu verinnerlichen, sind halt einfach so ganz entspannte Basisfragen, die man im Verständnis
+gerne beinahe tragen kann, weil es einfach nochmal klar auf den Punkt bringt, dass das
+zwei sehr unterschiedliche Regime sind, wo sich unterschiedliche Dinge tun bei den Strömungen.
+Und wir haben dann in dem Kontext auch die Reynolds-Zahl kennengelernt, die ja dazu dient, dass wir einschätzen können, ob was laminar oder eben turbulent ist, mit diesem Umschlagpunkt bei um die 2300 oder diesen zwei Zahlen, weil es so ein geschildertes Hysterese hat.
+Dann haben wir uns angeguckt, wie die laminare und turbulente Krümmung von dem Krümmungsprofil ausschaut und noch weiter ins Detail gegangen, wie das Informelwerk dann ausguckt mit dem Druckverlust, den wir bekommen.
+Also es geht ja immer dann darum, durch irgendein Rohr, irgendeine Leitung, fließt ein Fluid und da gibt es einen Druckabfall.
+Am Anfang der Leitung ist der Druck noch hoch und aufgrund der Reibung fällt der Druck ab
+und ich kann an der Entnahmestelle auf der drüben Seite nicht mehr den gleichen Druck aufrechterhalten, wie ich ihn am Anfang habe.
+oder andersrum, ich muss durch eine Pumpe hier einen Überdruck erzeugen,
+damit ich durch eine Leitung hindurch was transportieren kann.
+Das ist ja ein ganz klassisch notwendiges Thema, wenn ich irgendwelche technischen Aufgaben habe.
+Und die zentrale Gleichung da drin ist, das ist Darcy-Weisbach, das gilt bei Laminar und bei Turbulenz,
+sehen wir gleich nochmal, bei Laminar kann ich dann das Ganze auflösen und die Formel,
+Das haben wir nur so ganz knapp angerissen, aber es läuft alles darauf hinaus auf so eine ganz einfache Form.
+Dieser Rohrreibungsbeiwert ist irgendein Zahlenwert durch die Reynoldszahl
+und der Rohrreibungsbeiwert, der kann dann direkt wieder in den Druckverlust umgerechnet werden.
+Das sehen wir hier im Prinzip da.
+Der Druckverlust mit dem Zeta-Wert, der Zeta-Wert ist nichts anderes als das Lambda durch L durch D.
+Das heißt, auch dieser Zeta-Wert lässt sich ganz einfach zahlenmäßig beschreiben.
+Kann man da drüber gucken oder sind Sie da hinten abgehängt?
+So geht es jetzt.
+Jetzt ist es besser, oder?
+Ja.
+Sag ich doch.
+Gut, okay.
+Dann haben wir das Ganze für Turbulent auch angeschaut.
+Ich hatte das Video an der Stelle gezeigt.
+Und die Idee war ja die, dass nur in dem Fall von Turbulenz,
+das eine durchaus wichtige Rolle spielen kann, wie rau ein Rohr ist.
+Hier sieht man so ein bisschen in Grau so eine Struktur reingezeichnet.
+Warum ist das so? Hier steht es noch ein bisschen genauer.
+Wenn wir turbulente Strömungen haben, dann haben wir diese Wirbel, die Wirbel vermengen das Fluid,
+die Flüssigkeit meistens, von der mittleren, zentralen Region, wo viel transportiert wird,
+in die Randregion hinein und dann gibt es also eine bestimmte Wechselwirkung zwischen dem,
+was hier an Rauigkeit ist und dem, was in der Mitte des Kurses ist. Das ist bei Laminar nicht
+der Fall. Hier haben wir diese schönen Lagen, in der Mitte geht es gut durch und ob ich hier am
+Anfang am Rand irgendwelche Rauigkeit drin habe oder nicht, spielt keinen großen Rolle. Hier ist
+ist eben nicht so. Ich habe da verschiedenste Bereiche und da gibt es extrem aufwendige
+Formelwerke, die dann genau zeigen, wie das funktioniert. Und damit bin ich in der heutigen
+Stunde angekommen. Ein unglaublich kompliziertes Formelwerk, naja, es sieht noch irgendwie
+verdaubar aus, ist eigentlich dieses, aber das ist dieser Friction Factor, also der Reibungsfaktor,
+nur mal so ganz kurz gesagt. Und das ist die Lösung. Irgendwie die Reibung ist irgendwas
+Das wird ein Logarithmus und das Grauenhafte ist, hier kommt der Reibungsfaktor auf der anderen Seite wieder vor.
+Das ist eine transzendente Gleichung, die können Sie nicht lösen.
+Irgendwas ist eine Funktion von irgendwas.
+Das kann man nicht lösen.
+Das kann man nur numerisch irgendwie nähern.
+und deswegen will ich Ihnen die Sache da eigentlich ein Stück weit einfangen
+und jetzt nicht verschiedene Nährungslösungen mit Ihnen durchnehmen,
+die da heißen Kohlbrock-Formel, Nicoridase-Diagramme und so weiter und so fort,
+sondern wir nehmen ein einziges Ding, das ist ein Moody-Diagramm,
+ich spring mal über die Folie drüber,
+Und das Moody-Diagramm gibt eben eine Möglichkeit, grafisch, zwischen der Reynolds-Zahl, also ist es laminar oder extrem turbulent,
+und dem Rauigkeitswert an der Rand ihres Rohrs und einem Reibungsfaktor bzw. dem Rohrreibungsbeiwert.
+Auf Deutsch ist dieses, was da nach links kommt, das Lambda.
+Schauen wir mal, ob ich das hier hinmalen kann.
+Also da spielt ihr Lambda.
+Und dieses Lambda hat eine direkte Verknüpfung zu dem, wie viel Druckverlust kriegen Sie.
+Und das heißt, dieses Diagramm verarbeiten wir von unten nach rechts, nach links.
+Machen wir gleich dann gemeinsam.
+und um jetzt noch vielleicht eben hier eine gewisse bedeutung zu geben hier steht relative
+rauigkeit rauigkeit und da springe ich jetzt diese folie zurück hier gibt es also rauigkeitswerte die
+finden sie normalen irgendwelchen tabellenwerken bei ihnen wenn sie in die klausur gehen oder
+irgendwelche übungsaufgaben dann wird es so sein dass es heißt ja das ist ein rohr aus irgendeinem
+Material und da ist der K-Wert
+gleich irgendwas. Also Sie kriegen das
+gegeben.
+Und Sie sehen, also diese K-Werte sind
+doch ziemlich unterschiedlich. Zwischen
+10 hoch minus 3 hin
+zu Zahlenwerten 2,
+3, 4. Also wirklich mehrere
+Millimeter. Also ein stark
+verkrustetes, gebrauchtes
+Stahlrohr, was vielleicht in einem
+40 Jahre alten Wohnhaus
+ist. Das hat halt eine unglaubliche
+Keilablagerung. Und da ist die
+große Reibung drin. Da brauche ich eine starke
+oder dass ich halt merke, irgendwann kommt oben im dritten Stock, nach der langen Leitung,
+nicht mehr so viel Wasser mit der Geschwindigkeit raus, wie ich gedacht habe, oder?
+Das ist ja im Endeffekt nichts anderes.
+Also diese Rauligkeit macht halt was aus, weil Wasserströmung ist typischerweise turbulent
+und da verwirbelt das und dann macht das was aus, ob das außen verkrustet ist.
+So weit dazu.
+dann jetzt die idee noch mal ganz kurz vielleicht gemeinsam diese bereiche in dem moody diagramm
+weil es beschäftigt uns doch einige zeit müssen häufig ich würde sogar behaupten wollen ich will
+noch meine hand nicht ins feuer legen ich sage es im januar dann noch mal dürfen mich noch mal
+fragen aber ich würde behaupten wollen sie kommen in der störungstechnik klausurenaufgaben nicht
+hin ohne ein Moody-Diagramm.
+Und deswegen
+ich will jetzt einfach mit Ihnen nochmal durchgehen,
+was da gemacht wird. Wir hatten also gesagt,
+hier unten ist diese Reynolds-Zahl.
+Also Re.
+Und die wird natürlich
+größer nach rechts. Ist klar, Achtung!
+Moody-Diagramme sind
+klassischerweise immer
+im logarithmischen Maßstab.
+Also da werden wir uns
+nochmal mit befassen.
+Das muss ich zugeben, es geht mir auch selbst
+immer mal wieder so, dass man da
+mit der Zehnerpotenz irgendwie durcheinander kommt
+und das ist sehr unangenehm, weil dann ist man
+natürlich hier in einem falschen Bereich
+und macht vielleicht
+eine andere Ergebnisfindung.
+Dann haben wir hier dieses,
+ich nehme jetzt nur noch die Abkürzung rein,
+K durch D, also es ist nicht nur
+diese Rohrrauhigkeit, sondern es geht um
+das Verhältnis der Rauhigkeit
+gegenüber dem Durchmesser ihres Brusts.
+Dann, manchmal wird auch das Invers gemacht, zum Teil auch D durch K.
+Entschuldigung, jetzt muss man auch bitte Kleinstuhl nehmen.
+Gut, das spielt aber eigentlich keine Rolle, es hat ja reziproke Wert.
+Und dann haben wir hier drüben eben das Lambda, der hohe Reibungsbeiwert.
+Dann haben wir einen Bereich hier links, wo ein einziger Strich nach unten geht bis zu
+einer gestrichenen Linie, das ist nämlich die kritische Reynolds-Zahl und alles was
+links davon ist da gibt es nur eine einzige strichartige lösung ist der laminare bereich
+und jetzt aber noch ein wichtiger hinweis in diesem laminaren bereich ist das diagramm zwar
+soweit valide vielleicht zur überprüfung aber hier gibt es auch eine exakte formel
+das war diese mit dem 64 und so weiter
+und die Formel ist jetzt
+griffig
+von einfach und gibt natürlich noch
+stärkere oder genauere Werte
+als wenn Sie diesen Bereich so
+aus der Grafik herauslesen würden
+deswegen
+klarer Fall
+Sie sollten, wenn Aufgaben kommen
+und Sie im nominalen Bereich sind
+nicht das Moody-Diagramm nehmen
+um die Zahlenwerte zu bestimmen, sondern eben die Formel.
+Wenn Sie aber im turbulenten Bereich sind, da entfaltet sich das ganze Spiel.
+Dann haben Sie da wieder drei unterschiedliche Subbereiche.
+Wir haben also hier turbulent und dann aber hydraulisch glatt.
+Hier haben Sie turbulent und hydraulisch rau und hier haben Sie turbulent und übergab.
+Ich hoffe, Sie konnten entweder zuhören oder können es etwa entziffern, was ich da mache.
+Das ist nicht so ganz ideal.
+Ich gebe es zu.
+Warum ist das so?
+Hier unten haben wir diese vielen Nuller.
+Also diese K durch D-Werte.
+Hier ist K im Nenner.
+Also die Zahlenwerte winzig klein.
+Das heißt, die Rauigkeit macht praktisch nichts aus.
+Hier oben sind wir extrem rau.
+Also dieser Zahlenwert bedeutet am Ende, dass immerhin schon 5% von der gesamten Rohrdurchmesser durch Rauchigkeit belegt ist.
+Das ist schon gewaltig.
+Da ist der mittlere Teil stark affektiert.
+und entsprechend gibt es hier so Hilfslinien, die sind hier in schwarz eingezeichnet, mit denen
+kann man gleich dann navigieren. Ich glaube aber, das mache ich im Kontext ja einer Übungsaufgabe
+dann am besten und was da noch fehlt, ist diese eine Info, gerade hatte ich schon jemanden
+fotografieren sehen, sie sind aber auch ganz gut bedient, selbst ohne diese Kleinigkeit. Hier steht
+REK durch D ist gleich 1300.
+Die Zahlen werden Sie sich bitte nicht auswählen, wenn ich merke, es geht nur darum,
+dass Sie sehen hier hinten, bestimmt, und das ist dieser ganze hydraulisch-raue Bereich,
+bestimmt die Rauigkeit ganz extrem, wie viel Reibung Sie haben werden.
+Und in diesem Übergangsbereich, das ist eigentlich der besonders, ich sag mal, spannende,
+da gibt es so eine Mischung.
+Teilweise geht es um die Rauigkeit, teilweise aber auch geht es um die Turbulenz und die Strömungsform.
+Und deswegen kippen diese Geraden, oder Linien, hier nach oben auf eine andere Zielrichtung zu.
+Und es gilt dann für uns, grafisch herauszufinden, wo bin ich in etwa und was kann ich für einen Rohrreibungsbeiwert ablesen.
+Soweit vom Gedanken. Ich glaube, jeder konnte alles mitschreiben.
+Wir gehen weiter, hier sind nochmal diese Bildchen reingemalt, also hier diese extreme Rauhigkeit, hier die recht glatte, oder dieser Übergangsbereich, Entschuldigung in dem Fall, und hier unten.
+Soweit, da sehen Sie nochmal Exkurs gekennzeichnet, da oben bitte nicht auswendig lernen, wie das ganze Spielchen sich mit irgendwelchen genaueren Zahlenformelwerken verhält.
+Das sparen wir uns, wir machen hier Moody-Diagramm.
+Das sind auch diese ganzen komplizierten Rechnungsformeln, die können Sie sich alles sparen.
+Das Einzige, was hier vielleicht nochmal wichtig ist, aus der Wolle, hatte ich vorhin auch schon im Raum gesagt,
+wenn die Strömung laminar ist, die Rechnungszahl kleiner 2300, dann nehmen Sie bitte diese Formel,
+die ist auf der Seite gar nicht drauf
+das ist die mit dem 64
+und wenn sie aber größer ist
+dann nehmen Sie bitte das Moody-D
+jetzt gucken wir uns das Ganze mal
+in der Zusammenfassung an
+wir haben diese Darcy-Weisbach-Gleichung
+hatte ich vorher schon gesagt, die gilt immer
+und was Sie machen müssen
+jetzt ist wieder so ein Versuch eines Kochrezepts
+was vielleicht auch ganz gut
+für Sie auch
+auf irgendeinem Notizenzettel
+hilfreich sein kann.
+Sie müssen sich am Anfang
+ganz oft
+kriegen Sie einen Volumenstrom gegeben,
+Sie müssen sich die Fläche angucken,
+die ein Rohr hat,
+aufgrund des Radiuses oder Durchmessers,
+und damit kriegen Sie die mittlere
+Geschwindigkeit erstmal raus. Also wenn ich einen Volumenstrom
+habe, kann ich umrechnen in die Geschwindigkeit,
+die meine Flüssigkeit oder
+mein Gas strömt.
+Und dann habe ich diese entsprechende Geschwindigkeitswerte,
+das ist schön, die Dichte kriege ich auch irgendwo
+gegeben, den Durchmesser, da unten habe ich
+auch, da oben die
+entsprechende Rohrlänge habe ich auch gegeben
+und jetzt kommt noch dieses Lambda. Das ist am Ende
+das, was sich ermitteln
+ist. Und jetzt müssen Sie als
+zweites eigentlich sich immer angucken,
+wie ist denn die Reynolds-Zahl?
+Das ist jetzt hier
+die Schreibweise mit der
+kinematischen
+Viskosität
+und es gibt auch die
+Schreibweise mit der dynamischen Viskosität.
+Das spielt keine Rolle, ob Sie hier
+wie ist es mit dem Nynim oder entsprechend mit Eta.
+Und dann das entsprechende Teilen, die entsprechende Formel haben wir vorne in der Formelsammlung.
+Ich ergänze es nur noch mal ganz kurz da, weil vielleicht der eine oder andere sagt,
+ja, das übernehme ich gleich in meine Notizen.
+Also ich habe hier im Prinzip Eta mal A, also Länge mal oder Durchmesser mal Rho und
+mit der Geschwindigkeit.
+So, also das ist die Formel für die Reynolds-Zahl, nichts Neues an der Stelle.
+Dann der Fall Laminar, ganz einfach, dieses Lambda, was da drin gebraucht wird,
+um den Druckverlust zu berechnen, kann man mit dieser einfachen Formel holen
+und lässt sich direkt nutzen.
+Rohrreibung ist nicht wesentlich im technischen Bereich, aber leider eher selten.
+Warum ist das so?
+Ja, weil ganz häufig geht es darum, dass Sie mit Wasser oder irgendwelchen Flüssigkeiten,
+die ähnlich sich verhalten wie Wasser, zu tun haben.
+Und Wasser ist schon ab extrem geringen Flussgeschwindigkeiten, hat den Unklag von Laminar enttoben.
+Ich sage die Zahlenwerte nicht auswendig, muss ich zugeben, aber es ist irgendwas im Bereich von eher unter einem kmH, Wasserflussgeschwindigkeit, das schon einen Umschlag bringt.
+Das habe ich sogar deutlich gehört.
+Die andere Variante ist, dass Sie Gasströmungen haben, irgendwelche Luft oder Sauerstoff, und da ist es ganz ähnlich, auch schon bei relativ geringen Werten der Umschlag.
+Dann turbulent, diese drei Bereiche, die können Sie jetzt, und das ist extra ausgegraut, auch noch bestimmen und sagen,
+ja bin ich gerade hydraulisch glatt oder im Übergangsbereich oder im hydraulisch-grauen Bereich, das ist nett,
+aber am Ende reicht es Ihnen eigentlich aus, ins Moody-Diagramm zu schauen und damit Lambda-Schätzung aus dem Diagramm abzuleiten.
+dann können Sie den Drückverlust nach Darcy Weisbach machen, also oben die Formel und dann noch kurz der Hinweis,
+eben die Ohrreibung hat zum Teil einen sehr starken Einfluss, kommt eben darauf an, ob Sie hier oder hier sind und entsprechend den Drucker fallen.
+Ich hoffe, das fasst es ganz gut zusammen, was wir jetzt eigentlich alles so ein Stück weit in der letzten Zeit uns angeguckt haben.
+Hier noch so ein bisschen der Hinweis, ich habe es aber auch als Exkurs gekennzeichnet, weil ich es nicht unnötig mit extra Sachen konfrontiert werde, aber natürlich kann man sich noch ableiten, dass bei nicht runden Rohren, sondern zum Beispiel bei einer Fluidtransport nur in so einem Mantel, außen das Graue ist hier gemeint,
+oder in irgendwelchen eckigen oder dreieckigen, viereckigen Konfigurationen oder wo irgendwelche Aussparungen drin sind,
+da strömt natürlich nicht unbedingt der Druckverlust bezogen auf den entsprechenden Durchmesser dieser Konfiguration,
+sondern Sie müssen den hydraulischen Querschnitt als Ersatzgröße berechnen.
+Das ist nichts anderes als im Endeffekt so, wie der Durchmesser wäre, wenn ich es umschalte auf ein kreisrundes Rohr.
+Das heißt, wenn ich dieses hier zum Beispiel habe, dann ist der hydraulische Durchmesser ein bisschen kleiner,
+dann muss ich das mit der Fläche und dem entsprechenden benetzten Umfang durcheinander teilen.
+Jetzt machen wir aber mal hier wirklich praxisorientierte Aufgaben,
+Wir schauen uns eine Geschichte an, die würde ich, glaube ich, wenn ich mich nicht entsinne, ja, vielleicht einfach mal Ihnen 5 Minuten geben, das können Sie, glaube ich, mit Ihren Nachbarinnen oder Nachbarn kurz machen, bis 9.18 Uhr, einfach mal probieren, rechnen.
+Nach dem Kochrezept, was zwei Seiten vorher steht, sich überlegen, also Sie haben den länger gegeben, ich male jetzt mal einfach in den nächsten Minuten nur noch hin,
+Da ist irgend so ein Lastwagen, der hat da eine Ölbefüllung, vielleicht von irgendeinem alten Wohnhaus oder was, hoffentlich nicht mehr so oft, aber da wird jetzt das Öl durchgepumpt.
+Wir haben den Rohrdurchmesser und die Idee ist, Sie sollen den Druckunterschied bestimmen.
+Viel Erfolg!
+Kinematische Zähigkeit ist nichts anderes als das Nü.
+Vielen Dank.
+Ein bisschen wenig Platz vielleicht für Sie zum Verhandlern.
+Ich bin gleich zurück mit der Folie.
+Drei Sekunden.
+Also Sie dürfen gerne kurz mit Nachbarn über Nachbarn reden, Taschenräder raus und hinschreiben, was Sie hinkriegen in den paar Minuten.
+Ich glaube, es ist 20.
+Ich glaube, es hat noch mehr geblieben.
+Vielen Dank.
+Für diejenigen, die vielleicht mal nicht ganz mitgekriegt haben,
+das hier ist alles ein Volumenstrom.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielleicht, falls jemand ganz verloren ist,
+wir haben ein Volumenstrom am Anfang, oder?
+Was brauchen wir, um etwas zu ermitteln?
+Das wird irgendwann mit der Reynolds-Zeit okay.
+Vielen Dank.
+Wenn Sie ganz kurz versuchen, einfach einzufahren. Ich frage mal ganz kurz eine Idee, wie wären Sie denn vorgegangen?
+Also irgendeine Geschwindigkeit, oft nur eine mittlere Geschwindigkeit ist, die ich mit dem Strich klassifiziere, oder eine absolute, das werden wir eh noch sehen, spielt keine Rolle.
+Und wie kriegen wir das raus, wissen Sie, wie es vorgegangen ist?
+Durch V-Punkt durch A.
+Und ich sage, den Kommandant bitte unbedingt merken.
+Gut, dann?
+Eine Idee?
+Das können wir ja mal andere Leute machen.
+Das können wir ja mal andere Leute machen.
+Genau, dann die Damen vielleicht hinter Ihnen.
+Haben Sie eine Idee?
+Sie beide?
+Any ideas, wie geht es weiter?
+So, we have velocity, die Geschwindigkeit.
+Und was ist der nächste Punkt?
+Der nächste Punkt steht schon an der Tafel eigentlich.
+Ein bisschen Zeit.
+Ein bisschen Zeit, okay, Sie brauchen mehr Zeit.
+So, vielleicht jemand anders, der eine Idee hat, wie macht man weiter an der Stelle?
+Darf ich die Damen dahinter einfach fragen, ganz kurz?
+Die Reynolds-Zahl.
+Ja, sind Sie soweit schon gekommen? Haben Sie eine Reynolds-Zahl ermittelt?
+Ja.
+noch nicht, danke
+also das ist richtig, die Reynolds-Zahl
+dann nehmen wir die Formel, in dem Fall
+nehmen wir wieder die
+die die kinematische Viskosität hat
+weil die steht dann nur in der Formel
+also in der Angabe drin
+hat jemand von Ihnen eine Reynolds-Zahl
+gerechnet, gehabt schon?
+ups, jetzt geht der Beam raus
+ja, ja
+35,5 mal 7,6
+oha, das ist eine ganze Menge
+das liegt daran
+ja, das passiert
+Und ich habe das immer wieder in den Klausuren, deswegen ist es super, dass wir das jetzt endlich auch wirklich mal machen.
+Das passiert, weil Sie wahrscheinlich hier L reingeschrieben haben.
+Das ist der Grund.
+Vielleicht eine Reihe weiter hinten, Sie haben da was anderes reingeschrieben, nämlich D, die Durchmesser und nicht die Länge.
+1768.
+Also da kommt hier irgendwas mit 10 hoch 6 oder sowas raus, mit einer Riesenzahl, und Sie haben 1768.
+Und ganz kurz sozusagen mit der Glühbirne mitgedacht, es geht um ein Öl, Heißöl,
+und um was, wo wir jetzt auch sehen, dass es Lamina ist, die nächste konsequente Sturzfolgerung,
+ist kleiner als 2300, also laminar, und dieser Gedanke, der kommt immer wieder, es ist auch wirklich unangenehm,
+weil in ganz vielen Stellen wird hier einfach nur L geschrieben, oder charakteristische Länge.
+Was ist denn nun die charakteristische Länge?
+Und in der Strömungstechnik befassen wir uns eigentlich ja immer mit dem Durchtransport durch irgendwelche Rohre und Leitungen,
+und dann geht es immer um den Durchmessen.
+Also sehr gut, dass Sie es hier gesagt haben.
+Und ich hoffe, es bleibt allen hier
+sich die Zeit nehmen und heute mit da sind.
+In Erinnerung,
+nehmen Sie da in der Stürmungstechnik
+nicht die Länge. Achtung,
+in der Wärmeübertragung gibt es durchaus
+diese Aufwand.
+Wo es heißt,
+in der Konvektion, irgendwas wird
+an einem langen Wand entlang,
+ich sag mal, wie hier an der Tafel entlang,
+gibt es irgendeine Auftriebsbewegung.
+Haben wir noch nicht, kommt nächstes Mal.
+Und dann geht es durchaus um die Länge der Tafel.
+Okay, jetzt haben wir das.
+Was machen wir dann als nächstes strategisch?
+Ich weiß nicht, ob jemand es geschafft hat.
+Nächster Schritt, was würden Sie machen?
+Sie hatten vorhin was gesagt.
+Ganz lange ausrechnen.
+Genau, ganz lange.
+Haben Sie es auch schon geschafft?
+Waren Sie zu weit gekommen?
+0,0362.
+Ja, genau.
+Das deckt sich mit meiner Eingrenzung.
+Also Sie nehmen jetzt diese einfache Formel 64 durch Reynolds-Zahl
+und keine Sorge
+ich schalte da gleich auf
+die komplette Lösung der Aufgabe
+und Sie können schon mal Ihr Handy zücken
+und das dann gleich abfotografieren
+aber ich möchte es jetzt ganz kurz mit Ihnen hier entwickeln
+dann haben wir also Lambda Reynolds
+64 Grad Reynolds
+und das ist 0,0318
+so und letzter Teil der Aufgabe
+was wollen wir dann machen
+Druckverlust berechnen
+und das geht
+über diese Formel Delta PV
+Und das ist nichts anderes als das Lambda mal L durch D.
+Und jetzt kommt die Länge rein.
+Hier ist dann wirklich die Länge in einem Kilometer.
+Und die müssen Sie natürlich in Meter umregeln.
+Und da kommt noch was weiteres.
+Ich habe es noch nicht fertig geschrieben.
+Mal Rho halbe mal U mittlere Quadrat.
+Das ist nichts anderes als der Darcy-Weisbach.
+Das ist immer diese gleiche Formel.
+Und die ist ein bisschen umständlich.
+Und um das Ganze jetzt zu ersparen, es ist ja extrem viel an den Tafelschreibern, es ist alles abskizziert,
+zeige ich es Ihnen hier.
+Auch nochmal ganz kurz, ich hoffe, dass sich die Angaben, ja, das sind die 10 auf minus 6,
+die waren nur in der älteren Kopie nicht drin.
+Ich habe mal versucht, kopieren Sie das alle, haben Sie genug Platz?
+Wenn Sie es möchten.
+Kann man es lesen auf Ihrem Endgerät?
+Gut, also, es geht ja wirklich gar nicht so sehr um die Zahlenwerte, sondern ganz besonders um die Strategien.
+Und das sehen Sie auch, wo ich mal versucht habe, mit Rot so ein bisschen hinzumalen, wo ich in etwa in der Klausur wieder Punkte geben würde.
+Wenn Sie auf die Idee gekommen sind, A, wir trauen die Geschwindigkeit mit dem Volumensturm durch Fläche, allein das, das gibt Punkt.
+Da ein bisschen Rechnerei und vielleicht hinten noch mal das Ergebnis.
+Aber das ist nicht das, was die Hauptpunktzahl bringt.
+Okay, dann Reynolds-Zahl, in dem Fall mit der kinematischen Viskosität und das Ergebnis.
+Und die Schlussfolgerung, bitte schreiben Sie es hin, immer.
+Ist es nur Laminar oder Turbulent?
+Dann Lambda-Wert berechnen mit dem Zahlwert.
+Dann, und das ist natürlich ein bisschen, ich sag mal Sisyphus-Arbeit, Druckverlust berechnen.
+Sie müssen halt den Kilometer in 1000 Metern und den Durchmesser in 0,05 Metern umschreiben.
+Und dann haben Sie hier noch entsprechend einfach mal in orange notiert die Einheiten,
+dass man guckt, dass das alles sauber ist.
+Und dann kommen Sie unten auf den Zahlenwert, der ist in Newton pro Quadratmeter.
+Und Newton pro Quadratmeter ist nichts anderes als Pascal.
+Und die Pascal, und das ist immer so der letzte noch ideale Schritt, wenn die Zeit reicht, bitte kurz in Bar umrechnen.
+10 hoch 5 Pascal ist 1 Bar, das heißt 5 Stellen nach vorne, dann sind Sie bei 6 Komma und so weiter.
+Also Sie sehen, 6 Bar gehen verloren, wenn ich 1 Kilometer lang Öl durch eine Leitung pumpen muss.
+6 Bar ist eine ganze Menge, ich brauche eine sehr starke Pumpe.
+ok ich mache weiter zweite aufgabe ganz ähnlich aber sie können sich vorstellen dass wir jetzt
+vielleicht ein bisschen den anderen aufgaben typ abbiegen und die mache ich jetzt mit ihnen
+gemeinsam ich glaube da haben wir am meisten davon ich muss die tafel bis hoch holen wenn
+sie auf der seite hier ganz abgeschnitten sind jetzt dann müssten sich im notfall
+vielleicht umsetzen oder so wird,
+wir kommen da schon einigermaßen rüber.
+Gut.
+Aber sonst kriege ich einen Rückenschaden,
+wenn ich das da unten mache.
+Also,
+jetzt haben wir wieder so eine Aufgabe,
+eigentlich ganz ähnlich,
+und die Basisidee ist nichts anderes
+als zuvor.
+Wir wollen in diesem
+zwei Kilometer langen Rohr
+mit wieder einem ganz ähnlichen
+die brauchen wir wieder, so eine Formel
+natürlich mit dem mittleren Geschwindigkeit
+des Volumenstrom durch Fläche
+das haben wir schon gesagt
+das ist in dem Falle 1200 Kubikmeter
+in der Stunde
+die Stunde ist nichts anderes als 3600 Sekunden
+mal 0,1968, wie komme ich denn da drauf?
+6,4 ist es, Entschuldigung.
+Ich habe da oben noch die Fläche ausgerechnet, das mache ich hier oben in die Ecke.
+a ist d² mal Pi durch 4 und da kommt eben das raus.
+Ne, 1,964.
+Und dann haben wir eine Geschwindigkeit in Meter pro Sekunde, 1,698.
+Also 1,6 Meter pro Sekunde, das ist jetzt um die 5 km h.
+5 km h schnell bewegt sich wasser durch ein stahlrohr 50 zentimeter durchmesser
+wie gut ist der entstehende druckverlust wenn die rauigkeit kam mit 0,1 angegeben ist naja
+Also wenn Sie diesen Indikator schon in der Angabe haben, könnte ich mir vorstellen, dass es relevant sein wird, dass Turbulente-Stürmung eine Rolle spielt.
+Aber wir nehmen es mal formell hin und ermitteln erst mal Reynolds-Zahl.
+Die brauchen wir ohnehin später nochmal.
+U, A, Nü. Das ist genau das, was ich gerade gemacht habe in der Aufgabe, die ich nur aufgeblendet habe.
+Jetzt haben Sie eine, wo Sie es richtig schön mitschreiben dürfen.
+Das ist der Zahlenwert aus der Angabe.
+Und da kommt raus 7,5 mal 10 hoch 5.
+Und was schließen wir da draus mit 7,5 mal 10 hoch 5?
+Dann haben wir da auch der Turbulent.
+Deutlich Turbulent, ne?
+Wenn es turbulent ist, dann müssen Sie abbiegen in den Teilbereich des Booty-Dialogs, wie besprochen.
+Und das ist auf der nächsten Seite bei Ihnen in dem folgenden Kontext auch mit eingeblendet nochmal,
+dass man direkt auch malen kann.
+Und das ist auch genau das, was ich Ihnen mitgeben möchte für entsprechende Aufgaben in den Übungen und aber auch in der Klausur.
+Wenn ein Moody-Diagramm zu haben ist, dann zeichnen Sie da drauf.
+Wenn keins da ist, hier ist eins drin in der Formelsammlung.
+Dann geben Sie am Schluss die Formelsammlung mit A.
+Da gibt es ein Moody-Diagramm und es ist genau Ihre Aufgabe, diese Geschichten damit reinzuzeichnen,
+wie Sie jetzt dann einen Lambda-Wert bestimmen werden.
+Einen Teil, den wir machen werden, und nachdem ich, ja doch, ich springe einfach mal darüber,
+das ist, glaube ich, besser, in dem Falle, wir gehen auf die Reynolds-Zahl, die ja hier unten ist,
+und versuchen, den richtigen Zahlenwert da einzutragen.
+Wir waren bei 7,5 mal 10 hoch 5, das ist von mir nicht ganz ideal,
+da sollten eigentlich noch ein paar nach, also vier mögliche Ziffern sein, die habe ich jetzt auf die Stelle nicht zur Hand,
+aber es geht mir jetzt erstmal darum zu überlegen, wo sind wir.
+Hier ist 10 hoch 3, also 1000, hier ist 10 hoch 4, 10.000, hier ist 10 hoch 5, 100.000.
+Also muss ich mich bei 7,5 mal 10 hoch 5 dahin bewegen, dass ich von dem 10 hoch 5 losgehe und dann 7,5 hier etwa hin, nicht wahr?
+Da bin ich.
+Das ist wirklich wichtig, das da richtig zu navigieren, wenn Sie die Zahl ausgeschrieben haben, nochmal kurz kontrollieren, dass Sie da im richtigen Zehnerpotenz sind, sonst sind Sie oft gleich in einem ganz anderen Regime, dann kommen Sie.
+Da kommt sie ganz falsch raus.
+Also 7,5 mal 10 hoch 5, Reynolds-Zeit.
+Jetzt, in diesem Falle, D durch K und nicht K durch D,
+hatten wir auch schon mal gesprochen, diese Rohrreitig-Rauigkeitsgeschichte.
+Jetzt müssen wir die spezifische Rauigkeit ermitteln.
+Die haben wir nicht in der Angabe.
+Die schreibe ich mal hier hin.
+Das ist in dem Falle mit D durch K.
+Die zwei Zahlenwerte haben wir aber.
+D durch K ist nichts anderes als der Durchmesser, das sind 0,5 Meter durch 0,1 Millimeter.
+Und das ist nichts anderes, wenn Sie das durcheinander teilen, dann kommt da 5000 raus.
+Was natürlich schön ist, weil der Zahlenwert 5000 hier verzeichnet ist.
+Nächste wichtige Info.
+Also, wenn der Zahlenwert, den Sie brauchen, da nicht verzeichnet ist, dann geht das Sprühchen trotzdem.
+Dann müssen Sie halt zwischen zwei Werten irgendwo in etwa die richtige Hilfslinie finden.
+Und dann können Sie auch beim Ableiten irgendwo dazwischen in etwa eine gedachte neue Linie einzeichnen.
+Ja?
+In meinem Fall ist es einfach.
+Ich bin auf der 5000er Linie.
+Und die geht hier hoch.
+Es ist etwas schwer, die perfekt da rein zu malen, aber in etwa so verläuft die, oder?
+Und jetzt ist die Sache eigentlich hier recht einfach.
+Ich muss eben den Schnittpunkt ermitteln von meiner Reynolds-Zahl auf diese entsprechende Diagramm.
+Man sieht, es ist also nicht mehr ganz genau da, wo die Hilfslinie beginnt, sondern es ist leicht nach oben verknüpft.
+Und damit kann ich jetzt ableiten, ich mache jetzt ganz bewusst nochmal in der dritten Farbe, hoffentlich nicht so verknickt, wie es bei mir gefallen ist, wirklich gerade hier rüber, was ist denn mein Lambda?
+Und da sehe ich irgendwie einen Zahlenwert, der ist zwischen 0,014 und 0,016, also ich würde 0,015 nennen.
+Alle mitgeschrieben? Alle notiert?
+Springt zurück auf die Folie vorher und berechnet weiter.
+Wir haben also jetzt aus dem Moody-Diagramm,
+schreiben Sie es ruhig auch so hin, wenn Sie es in der Klausur sehen,
+Moody Doppelpunkt Lambda ist
+und dann haben Sie halt hier
+entsprechenden Zahlenwert. Ich mache mal
+ungefähr hin, das ist auch
+da gibt es nicht unbedingt richtig
+oder falsch, wenn Sie da ein ganz kleines
+bisschen daneben interpoliert haben,
+dann ist das auch kein Schaden.
+Jetzt gehen wir
+weiter aus der Formelsammlung, können wir
+direkt übernehmen, wieder die Darcy
+Weisbach, ich schreibe einfach nur
+DW und
+Und das ist es mit dem Delta PV.
+Ich schaue auch für Sie nochmal nach, welche Formelnummer der Darcy Weisbach hat.
+Da ist es.
+S 5.1.
+So heißt diese Formel bei mir in der Formelsammlung.
+Dann haben wir das.
+Das ist Lambda mal L durch D und O halbe und U Quadrat.
+Und das kann man einsetzen. Ja gut, das ist ein bisschen länglich, aber gut, hilft ja nichts.
+So, jetzt kommt ein wichtiger Punkt.
+Die Dichte von Wasser wird klassischerweise nicht extra angegeben.
+Also ich schreibe es Ihnen extra nochmal hin. Das sollten Sie wissen oder sich auf die Formelsammlung schreiben. Dichte von Wasser ist 1000 Kilogramm pro Kubikmeter.
+Ein Kubikdezimeter wiegt ein Kilo. Etwa so viel wie so ein Milchkarton oder genauso viel wie so ein Milchkarton. Das ist 10 Zentimeter in jede Richtung.
+Die sind ein bisschen anders geformt, aber das ist ein Kilo, 1000 Kilo auf dem Kubikmeter.
+Bitte die Dichte von Wasser im Hinterkopf.
+Dann kann ich damit arbeiten und das hier einschränken, 1000 Kilogramm pro Kubikmeter.
+Und hier haben wir noch ein Halbzeichen und ich muss da noch die Geschwindigkeit drauf multiplizieren.
+Die ist abhandengekommen, die passt da auch kaum mehr hin.
+Bitte entschuldigen Sie, die Platzeinteilung ist nicht ideal gewesen.
+Wenn ich diese ausrechne, kommt da 86.496 raus und es sind wieder Newton pro Quadratmeter, wie sich das ergeben sollte.
+Und jetzt, wichtiger Schritt, wie viel Bar sind das?
+86.496 Newton pro Quadratmeter sind Pascal
+also das ist 10 hoch minus 5
+1, 2, 3, 4, 5 stellen nach vorne
+nach vorne ist eine 0
+das heißt es ist 0,86
+damit diese Aufgabe
+soweit berechnet
+ja
+also wir haben de facto
+bei Rohrhaltung
+Vermüssenberechnung
+genau die zwei Typen
+Aufgabe 18 war das
+der laminare Fall
+noch deutlich einfacher
+Oder dieser turbulente Fall, auch keine Hexerei, es sind drei, vier Formeln und dieses Spielchen mit dem Moody Diagram.
+Soweit für Sie? Verständlich? Joa, passt.
+Dann würde ich weitermachen und mir mit Ihnen noch einen zusätzlichen Aspekt ein bisschen anschauen.
+kurz mit einer Formel angerissen wird, aber dann mehr ums Verständnis eigentlich geht.
+Und zwar geht es darum, dass Sie, wenn Sie jetzt ein Rohrsystem bauen oder auslegen sollen
+und sagen sollen, wie dick soll ich denn jetzt mein Rohr machen,
+dass Sie sich schnell, wenn Sie der Technik unterwegs sind, damit befassen müssen, was ist denn wirtschaftlich.
+Also was habe ich denn für Kosten und Nutzen in welchem Rohrdurchmesser.
+Wenn ich das Tor sehr breit mache, dann habe ich wahrscheinlich sehr wenig Reibung, oder?
+Und auf der anderen Seite habe ich ziemlich hohe Materialkosten, weil ich halt viel Stahlmantel brauche und natürlich auch viel Platzverbrauch und so weiter.
+Da gibt es sicherlich noch viele Einschränkungen.
+Aber allein so aus diesem, wie viel Material muss ich vergießen, zu dem, wie viel Druckverlust habe ich denn, wenn ich das Rohr eher klein mache,
+Klar spare ich mir viel Material und Gewicht und auf der anderen Seite habe ich einen hohen Druck.
+Das schauen wir uns jetzt nochmal an, wie das skaliert zueinander und unter welchen Umständen ein Rohr eher dick oder dünn ausgelegt werden muss.
+Das ist die Formel, die uns immer beschäftigt. Das ist der Darcy-Weisbach.
+und
+die andere Sache ist, dass wir ja wissen
+dass die Geschwindigkeit nichts anderes ist
+als der Volumenstrom
+der typischerweise in solchen Aufgaben
+eine Rolle spielt durch die Fläche
+und das ist also nichts anderes als
+der Volumenstrom durch
+Pi
+Viertel mal
+D Quadrat
+es wird fast nie der Radius angegeben
+sondern immer der Durchmesser
+und jetzt setzen wir die zwei Sachen hier zusammen
+und dann haben wir dann den Volumenstrom, der ist Lambda, das ist ja der Rohrreibungsbeiwert, den wir überlegt hatten,
+der natürlich auch abhängig ist von der ganzen Rohrführung, aber noch viel deutlicher kommen die Einflüsse hier hinten,
+wenn Sie jetzt sehen, dass der Volumenstrom und hier kommt der Durchmesser in Quadrat, Pi Viertel,
+und jetzt quadrieren Sie das Ganze wieder.
+Ja, hier stand U², da haben Sie ein D² in dem U.
+Das heißt also, hier kommt am Ende D²², das ist D hoch 4.
+Und hier vorne ist noch ein D, D hoch 5.
+Das ist also eine relativ starke Abhängigkeit des Druckverlustes von dieser Durchmesser des Rohrs.
+Andersrum gesprochen, wenn Sie Druckverlustproblem haben in irgendeiner Aufgabe oder in irgendeiner technischen Anwendung,
+dann ist es vermutlich eine gute Idee, sich zu überlegen, ob man den Durchmesser von Ihren Rohren ein bisschen größer auslegt.
+Und das ist eben falsch, was ich da gerade schreibe. D hoch 5 muss hier stehen.
+Bei dem Volumenstrom zum Quadrat.
+und jetzt können Sie
+da unten in der Grafik
+sich ein paar Sachen anschauen
+ich glaube es wird eingeblendet
+bei Ihnen mit auch
+also hier kann ich mir angucken, wie ist es denn mit dem Volumenstrom
+oder fangen wir einfach mal an
+wir fangen mit der Länge an
+und wenn ich jetzt sage
+wie skaliert denn der Druckverlust
+wenn ich die Länge meines Kurses
+nicht 1 km sondern 2 km lang habe
+oder 2m statt 1m, und dabei aber den Volumenstrom und die Rohrreibungsbeizigungsleitwerte gleich lasse
+und auch den Durchmesser nicht verändere, dann habe ich nichts anderes, als dass ich hier oben in diese Formel reingucke,
+da steht das L linear drin, das heißt der Druckverlust wird halt so skaliert, oder?
+Eine Gerade.
+Doppelte Lohrlänge, doppelter Druckverlust.
+Wenn ich das Spiel mache mit dem Volumenstrumpf, haben wir den mal als zweites, dann habe ich was, was so funktioniert, weil es ist proportional zu V-Punkt-Quadrat.
+Also das heißt, wenn ich jetzt doppelt so viel Flüssigkeit durchpumpe, dann habe ich nicht doppelt so viel Druckverlust, sondern viermal so viel Druckverlust.
+Das heißt, das gibt einen deutlichen Einfluss.
+Und dann kommt noch das extreme Beispiel, wenn ich jetzt die entsprechende Rohrdicke verändere,
+dann habe ich hier 1 durch d hoch 5, das heißt, dass das eine ganz steile Geschichte ist.
+Das heißt, wenn ich hier zu sehr in zu schmale Rohre gehe,
+Wenn ich mein Tor hoher Querschnitt von 10 cm auf 5 cm halbiere, habe ich gleich den Faktor hoch 5.
+Also das heißt in dem Falle über 1000 stärkere Druckverluste.
+Das ist extrem hohe Proportionalität.
+Wenn mal jemand von Ihnen ganz kurz in den Taschenrechner eintrifft, was ist ein 5 hoch 5?
+Ich habe es nicht auswendig.
+Ja, sehen Sie, das ist mehr als 1.000. Das war so die ganz grobe Daumenschätzung.
+Das ist ja schon extrem. Ich habe ein Rohr, 10 cm Durchmesser,
+oder sagen wir mal andersrum. Ich habe ein Rohr,
+Wir nehmen es so.
+10 cm Durchmesser und irgendjemand sagt,
+Sparmaßnahme, wir bauen hier Rohre ein, die sind nur halb so dick.
+Wenn der Druckverlust doppelt so hoch wäre, kein Problem.
+Der Druckverlust ist 3000 mal so hoch.
+Also Sie haben ein ernsthaftes Problem.
+Es ist alles ein bisschen hemmtgabelig,
+weil ganz stimmen tut es nicht,
+weil Sie eine Querwirkung haben auf das Lambda.
+Wenn Sie die Dicke verändern,
+dann kommen Sie von Laminare in turbulente Strömung usw.
+und haben plötzlich einen anderen Einfluss der Rohrrausigkeit und so weiter,
+deswegen ist das nicht ganz fair.
+Nichtsdestotrotz, ein wichtiger Punkt, man will trotzdem nicht riesige, dicke Rohre verlegen
+und deswegen kann man sich nochmal ganz kurz ableiten,
+wie sind denn die Investitionskosten von so einem Rohr,
+und das ist jetzt sehr ernstärmlich, ich glaube, das können Sie als Wirtschaftsingenieurinnen
+und Wirtschaftsingenieure viel besser als ich,
+Aber am Ende kann man behaupten, dass so eine Investitionsrechnung von irgendeinem Rohr irgendeinen
+vielleicht Basiswert hat, K0, und irgendwas Spezifisches über die Länge des Rohrs.
+Ich habe ein kleines K verwendet, mal den Durchmesser. Es geht nicht um die Länge,
+tut mir leid, es geht um den Durchmesser. K-spezifisch mal den Durchmesser mal Pi. Also
+sagen wir hier, Sie haben diesen Durchmesser oder diesen Radius hier, Durchmesser nehmen wir,
+und hier außen haben Sie Ihr Rohrmaterial, meinetwegen Stahl oder so, und je größer
+der Durchmesser ist, desto mehr Material müssen Sie verwenden und entsprechend das mit einbeziehen.
+Wenn Sie die Energiekosten für den Stofftransport nehmen, dann haben Sie Energiekosten, die sich hier ableiten,
+das ist dann abhängig von dem, was Ihre Pumpe machen muss, 1 durch d hoch 5, schreibe ich da proportional.
+Naja, aber Ihr Druckverlust ist proportional zu P-Pumpe, also das ist die Leistung der Pumpe und die Energie.
+Und wenn Sie gleich lang transportieren, P-Pumpe, und das ist proportional zu dem Druckverlust.
+und das ist proportional zu 1 durch d hoch 5, also extrem starker Einfluss, wenn der Durchmesser klein wird
+und die Gesamtkosten können wir mal ganz grob abschätzen, also die Investitionskosten plus die Energiekosten
+kommt natürlich darauf an, wie lange sie den Betrieb führen.
+Wir können jetzt also die Gesamtkosten so mal ganz grob skizzieren,
+gegenüber der Dicke, dass die sich so in etwa skalieren.
+Hier haben wir K0, irgendwelche Investitionskosten.
+Und wir haben diese Energiekosten, die, wenn wir eine bestimmte Menge transportieren müssen,
+sich ableiten lässt über diese 1 durch d hoch 5 Formel.
+Und wenn ich das kombiniere, dann kriege ich irgendwie sowas.
+Das heißt, ich habe irgendwo ein Kostenoptimum bei irgendeinem Durchmesser.
+Und wie gesagt, es ist hier sehr hemmsern.
+Nehmen Sie bitte nicht die Rechnung perfekt, weil hier steht die Zeit nicht drin, die Transportmenge.
+Ich habe mich nicht weiter mit irgendwelchen Details befasst.
+Ich will nur motivieren, dass es, wenn Sie diese Rechnung machen, hier ein D-Opt gibt.
+Also einen optimalen Durchmesser.
+Und der ist ziemlich scharf von dem Schnittpunkt.
+Das heißt, wenn Sie zu weit links gehen, wird es richtig extrem.
+Also wenn Sie zu schmale Bohrer auslegen, haben Sie ein richtiges Kostenproblem.
+Und wenn Sie zu weit nach oben gehen, ist es nicht unerheblich, dass Sie Geld verschwenden.
+Und in diesem Gedanken geht so ein Stück weit auch in katalogisierten Tabellen,
+die Sie finden im Netz, dass man sagt, okay, bei welchem Durchmesser kann ich ein Fluid,
+mit welcher Viskosität, das spielt natürlich eine Rolle, ja, also besonders gut fließende Stoffe
+lassen sich mit kleinerem Durchmesser wirtschaftlich transportieren, wohingegen Sachen, die sehr zäh sind,
+die brauche ich einen höheren Durchmesser und hier steht die wirtschaftliche Geschwindigkeit.
+Das heißt, dass es zum Beispiel am wirtschaftlichen ist, ein CS-Fluid mit einem eher kleinen Durchmesser hier durchzutreiben,
+wohingegen ein sehr gut fließendes Stoff, meinetwegen Wasser, kann ich schon in dünnen Rohren gut transportieren,
+wohingegen ich jetzt Heizöl, was eine hohe Viskosität hat, dann mit eher großen Durchwässern transportieren muss, um die gleiche Menge durchzukriegen.
+Ja? Das ist, denke ich, eine Grundidee.
+Logisch, und dann kann ich mir also ableiten für, weiß ich nicht, meinen beliebigen Stoff,
+der diese Diskursität hat, wie kann ich denn hier, also wie viel darf ich zum Beispiel,
+so könnte man es lesen, wenn ich einen Rohrdurchmesser habe von,
+von hier 10 cm, dann wie viel kann ich denn maximal sinnvoll mit so einem Rohr transportieren?
+Und da sehe ich, dass die Geschwindigkeit ist irgendwo zwischen 1 und 2 m pro Sekunde.
+Das sind also etwa diese 5 kmh, die wir jetzt vorhin gesprochen haben.
+Und wenn ich schneller durchtreibe, dann habe ich eben diesen extremen Rückstau-Effekt.
+dann muss ich extrem stark in die Pumpe investieren und habe dann am Ende keine gute Endsituation.
+So überträgt sich das in die technische Anwendung, wenn man eine Fabrikplanung macht.
+Wir haben jetzt vielleicht nochmal einen wichtigen Schritt,
+dass wir eigentlich das ganze Formelwerk für diesen Druckabfall in Rohren fertig haben,
+abgeschlossen haben und wir wollen uns jetzt nochmal ganz kurz überlegen,
+dass in unserem Geheimsystem, wo Druckunterschiede und mit der Renullengleichung Energiebilanzen interessant sind,
+da müssen wir nochmal zurück uns erinnern, da gibt es ja durchaus auch noch die Einbauten,
+Einbauten oder irgendwelche Klicke, ja, also meine Rohre, das ist nicht unbedingt gerade einen Kilometer lang
+und hat deswegen irgendeinen Druckabfall, sondern wir haben ja vielleicht auch irgendwelche Klickstellen
+und das erinnern wir uns zurück, da hatten wir ja gesehen, dass wir diesen Zeta-Wert brauchen
+und da gibt es was ganz ähnliches wie Darcy-Weisbach und hier drüben haben wir den Darcy-Weisbach,
+Wir sehen also, die ganze rechte Zahl ist gleich und durch Vergleich können wir auch dieses hier in einen Zeta-Wert schreiben.
+Das ist an anderer Stelle auch schon erfolgt.
+Das ist also mein Zeta-Rohr und hier unten steht die Formel.
+Zeta-Rohr ist nichts anderes als Lambda mal L durch D.
+Das ist natürlich sehr praktisch, weil jetzt kann man alles zusammenbauen.
+Jetzt steht es hier als so meiner Meinung nach eher umständliche und sperrige Formel.
+Das bietet sich ja eigentlich an, jetzt weiter zu schreiben.
+Delta PV ist gleich Summe über alle Zeta mal Rho U Quadrat durch 2.
+Und diese Zetas ist Zeta Rho.
+Ich schreibe es anders. Tut mir leid.
+Ganz kurz, ich habe hier eine Summe, so, Zeta-Rohr plus die Summe über Zeta-Einbau.
+Ich hoffe, so ist es verständlich, leider ist der grüne Farbton da jetzt nicht geschickt gewählt.
+Also es ist nichts anderes, als einfach alle Zeta-Werte aufaddiert und dann multipliziert mit diesen Kleinigkeiten.
+Das steht auch in der Formelsammlung.
+Nichtsdestotrotz, Sie müssen irgendwann über das Lambda gehen,
+wenn Sie im klassischen Fall mit turbulenter Strömung zu tun haben,
+weil das ist nur das, was im Moody-Diagramm katalogisiert ist.
+Sie können das mit R durch D multiplizieren und dann sind Sie hier beim Zeta.
+alles auf addieren
+und dann hier multiplizieren
+und schon haben Sie den Gesamtverlust
+ich gehe zur nächsten
+Entschuldigung, unten nochmal ganz kurz
+ja da steht noch ein Hinweis
+hier eingebauten Begleichen
+selbst die Strömungsform
+ich weiß nicht, ob ich es an anderer Stelle nochmal
+ja doch, ich glaube ich habe es letzte Stunde schon mal gesagt
+also es ist schon so
+dass wenn Sie da jetzt irgendwie
+ein Rohr haben und da ist eine Knickstelle
+oder irgendeine Engstelle
+dass es schon einen Unterschied macht, ob das jetzt die Flüssigkeit dadurch laminar oder turbulent fließt.
+Aber bei uns wird typischerweise das nicht mehr speziell unterteilt.
+Wenn denn so wäre, dann würden Sie unterschiedliche Zeta-Werte, diese Einbauten für turbulent oder laminar, in der Angabe bekommen.
+Genau, wir können Einlaufbereiche abschätzen mit zusätzlichen Beiwerten.
+Das ist das in der Praxis.
+Sie haben das gesehen am Anfang der Vorlesung, kam das in der Wiederholung nochmal drin.
+So ein Rohr, wenn es beginnt, hat ja, was weiß ich, vielleicht hier ist irgendwie ein Becken
+und dann geht hier so ein Rohr rein.
+Hier haben wir ein Becken mit gefüllt und hier ist mein Rohr.
+Und jetzt haben wir ja diesen Effekt, dass wenn die Strömung hier so reingeht, sich eben so eine Art Abrisshaut bildet und erst ab hier wird sich dann die außen geprägte Strömungsform bilden, sei es laminar oder turbulent.
+wir nehmen jetzt mal den klassischen Fall Turbulent, aber dieser obere Bereich, da sind es noch zusätzliche Effekte aufgrund dieser Ausbildung, dieser Benetzungsform.
+Und das kann man wieder zusätzlich in irgendeinen Zeta-Wert packen.
+Das ist also ein Zeta-Einlauf.
+Und so finden Sie es in den typischen Aufgaben.
+Da steht dann einfach, ja, das ist irgendwie ein Rohrsystem und Sie sollen berücksichtigen Zeta-Einlauf, Zeta-Knicke, Zeta irgendeine Engstelle und einen Zeta-Auslauf, da geht es genauso.
+Und dann müssen Sie den Rohrzeta noch dazu nehmen und schon haben Sie den ganzen Druckverlust und dann können Sie damit arbeiten.
+Jetzt nochmal ganz nett aus einem relativ alten Textbuch hier rein kopiert und auch leicht manipuliert.
+Sie sehen, hier habe ich überschrieben, wie da irgendwelche U´s und W´s, aber da steht nochmal alles drin, auch richtig beschriftet, wie sie auf die Geschwindigkeit kommen mit dem Volumenstrom und so weiter, da wäre noch, ja genau, mit Durchmesser direkt auf diese Formel.
+Dann haben wir hier noch den Gedanken, dass eventuell, Sie noch konfrontiert sind mit dem Problem,
+kommt ab der nächsten Stunde, dass ein Rohr auf der einen Seite vielleicht dick ist,
+dann kommt eine Pumpe und dann ist das Rohr dünn.
+Und deswegen kann man zum Teil, muss man umrechnen, zwischen den Geschwindigkeiten,
+die in der einen Hälfte des Rohrsystems ist und auf der anderen Seite des Rohrsystems,
+wenn diese zwei Durchmesser unterschiedlich sind.
+Das kommt dann später noch, Volumenstrom, Massenstrom kann man auch nehmen,
+Stromungsverschnitt und so weiter, die ganzen Gleichungen,
+Zeta-Werte, Länge und das Moody-Diagramm,
+was Ihnen hilft, um den Lambda-Wert zu bestimmen,
+oder aber, wenn Sie eben in dem einfachen Fall sind, dass es Laminas ist,
+die Formel verwenden.
+Das ist die Formel mit der 64.
+Soweit, so gut.
+Ich habe jetzt 10 Uhr.
+Ich würde noch eine Folie nur zeigen
+und dann in die Pause gehen.
+Eine Aufgabe, die genau das macht,
+ist die Aufgabe Nummer 20.
+Da steht Hausaufgabe.
+Mir ist bewusst,
+dass Sie am Wochenende auch andere Dinge tun
+wollen, werden,
+als sich Sturmungstechnik-Aufgaben
+durchzurechnen. Nichtsdestotrotz
+kann ich es Ihnen empfehlen, sich das mal kurz anzugucken
+und vielleicht mal zu probieren.
+Diese Aufgabe greife ich auf
+in der nächsten Stunde am Montag.
+Hier hinten sind meine Ergebnisswerte.
+Das ist genau das Thema,
+wo wir uns
+eben mit
+dem Ganzen, was wir bisher behandelt haben,
+beschäftigen werden. So weit, so gut.
+Wir machen Pause. 10.01 Uhr,
+10.16 Uhr geht es weiter.
+Bis gleich.
+Wir haben so ziemlich bis zum Ende der Sturmungstechnik Vorlesungsinhalte, dass wir jetzt diese Kombination noch oben draufhalten und uns angucken, wie kann ich jetzt insbesondere für Pumpe Energie hinzufügen.
+Es kommt aber auch kurz im Nebenaspekt noch der Aspekt, wie kann ich denn einem Fluid Energie entziehen.
+Und das ist jetzt ein prominentes Beispiel, was uns auf der Energieseite bewegt, sind Windkraftanlagen,
+wo wir nichts anderes haben als eine Strömung von Luft und dann nehmen wir die Energie weg.
+Also der Wind hat danach weniger entsprechende Arbeitsfähigkeit, wenn wir mit der Windkraftanlage da abschöpfen.
+Jetzt aber also Pumpen für diese und insbesondere auch die nächste Stunde kurz nochmal einsortiert.
+Das Ganze fasst man zusammen mit Strömungsmaschinen.
+Das sind einmal in der Arbeitsmaschine, da fügen Sie Energie hinzu.
+Die Pumpen, aber auch irgendwelche Verdichter, die sie in irgendwelchen Kühlschränken haben,
+die auch ein bisschen anders vom Arbeitsprinzip zum Teil sind,
+oder irgendwelche Propeller, bei den Propellern ist es relativ klar, da geht es dann darum,
+dass die in Luft herumschaufeln und meinetwegen ihr Propellerflugzeug zum Fliegen bringen.
+Oder bei Kraftmaschinen sprechen wir über Turbinen oder Generatoren.
+Zum Teil kann es auch mit der gleichen Baugruppe gemacht werden.
+Ein klassisches Beispiel ist ein Pumpspeicher, Kraftwerk, was irgendwo ein Schaufelrad hat,
+wo zwischen einem Oberbecken und einem Unterbecken Wasser hin und her transportiert wird.
+Das werden wir genau am Montag und Sommer anschauen.
+Und da kann ich entweder im Pumpbetrieb Energie dazufügen, indem ich vom Unterbecken nach oben pumpe,
+oder im Generatorbetrieb von oben das Wasser runterlassen und dann drunter drauf.
+Und das also nur mal ganz kurz als Eingruppierung.
+Zum Teil ist es aber auch so, dass man bei solchen Bauwerken oder bei anderen Fragestellungen
+zwei getrennte Baugruppen macht.
+Einmal nur Pumpen und einmal nur Generator.
+Das hat bestimmte Formen.
+Dann gehen wir jetzt rein in die Idee, wie man sich mit Pumpen auseinandersetzt, wenn
+man Dürrungstechnik betreibt und die Pumpe auslegen muss, herausfinden muss, wie groß
+muss denn jetzt meine Pumpe sein und welche Pumpe nutze ich überhaupt?
+Und dafür gibt es wieder so ein Kochrezept.
+Als erstes gucke ich mir das Problem an. Ich muss also irgendwie überlegen, was gilt es zu tun.
+Von hoh nach hoh muss ich irgendwas schaufeln. Am besten skizziere ich mir das, wo ich den Höhenunterschied skizziert habe,
+aber auch eine Klarheit habe, wie die Rohre verlaufen. Und dann muss ich mir die richtige Pumpe ausruhen.
+Das werden wir jetzt gleich in den nächsten 10 Minuten, Viertelstunde ein bisschen anschauen, was da dahinter steckt, welche Pumpentypen es überhaupt gibt.
+Und dann geht es ein bisschen diese Stunde noch vielleicht hier rein, aber nicht mehr sehr weit.
+Aber Sie sehen, da kommt dann noch einiges mehr.
+Wir müssen uns nämlich mit der Auslegung und dem Betrieb beschäftigen und dann da so ein bisschen einige Punkte abarbeiten,
+die alle für sich genommen keine Hexerei sind und die zum Teil aber auch auf Sachen wieder zugreifen,
+die wir schon aus der Vorlesung gut kennen, zum Beispiel die Benui-Gleichung und so weiter.
+Also Sie sehen, in der Pumpenauslegungs-Fragestellung kombiniert sich sehr viel, was wir bisher durchgenommen haben.
+Pumpentypen, jetzt mal reingegangen.
+Ja, Pumpen sieht man alle möglichen auf der Welt, von sehr historischen Bauwerken wie diesem hier,
+zu sowas, was auch bis heute noch zum Teil in Betrieb ist und bestimmte Vorteile bringt.
+Das sind so Pferdekopfpumpen, die insbesondere für Ölförderung gut sind.
+Die sind rücklaufsicher und haben bestimmte andere Reihen.
+In der Technik sehen wir aber heutzutage meistens sowas, oder?
+Irgendwelche von außen einmal recht schlicht und einheitlich wirkenden Geräte, die halt schaufeln und pumpen.
+Und das sind klassische Schwimmungspumpen.
+Es gibt aber auch Verdrängerpumpen und den Unterschied davon und weitere Fragestellungen, die werden wir uns gleich mal ein bisschen angucken.
+Hier sehen Sie mal irgendwelche Beispiele, die sind jetzt einfach von Wikipedia runterkopiert,
+die irgendwelche Leute mal skizziert haben, wo man sieht, wie so eine Pumpe funktionieren kann.
+Diese Pumpe zum Beispiel schaufelt außenrum verrückterweise die Flüssigkeit, bis sie dann hier hinten wieder raus darf
+und kann bestimmte Vorteile haben oder auch Nachteile haben.
+Da sieht es ein bisschen ähnlich aus.
+Auch hier so etwas ein bisschen, hier haben wir so eine Schnecke, die dreht sich.
+Hier wird ein Rohr zusammengedrückt und der Inhalt, so entsprechend wie man es hier in dem hellen Farbton sieht,
+weitertransportiert.
+Hier haben wir irgendwas, was sich rauf und runter hebt.
+So etwas kennen wir vielleicht auch aus einer ganz einfachen Hebelpumpe, oder?
+dann ist man an irgendwelchen früheren Spielplätzen oder was,
+wenn ich mit meinen Kindern da bin, dann pumpt man da so,
+und dann kommt da halt irgendwann das Wasser raus, das ist meistens etwa so gelöst.
+Frage an Sie, warum so viele Pumpentypen?
+Irgendwie machen die nicht alle das Gleiche, ja?
+Es gibt ja auch verschiedene Anforderungen, Temperatur, Viskosität oder Schlauchgruppe zum Beispiel,
+für Medizin, dass da kein Kontakt besteht.
+Ja, genau.
+Also, genau, das sind ganz gute Aspekte.
+Ganz klar, es geht um ganz viele verschiedene Kriterien,
+die da aufgeblättert sind.
+Das steht jetzt bei Ihnen in der Folie nicht so drin,
+aber es macht nichts, wir sehen es auf der nächsten Seite,
+oder auf einer der nächsten Seiten dann eh.
+Korrekt.
+Was hatten Sie jetzt nochmal für Punkte genannt?
+Mal, dass ich es nochmal revue-passiere.
+Wie lange fangen Sie nochmal an?
+Temperatur, Viskosität.
+Ja, also Temperatur gefällt mir als Aspekt.
+Viskosität, genau.
+funktioniert nicht unbedingt immer für alle
+Sachen gleich.
+Ich schreibe das jetzt einfach mal nur so
+schlampernd hin. Dann hatten Sie gesagt, ob ich
+da mit den Medien in Berührung komme
+oder nicht.
+Also, deswegen sage ich
+mal, vielleicht
+gibt es natürlich auch die entsprechenden
+Fragkräfte. Also, Medienkontakt
+machen wir einfach.
+Das kann in alle Richtungen gehen, das kann dahin gehen, dass ich übrigens Abwasser pumpen muss,
+wo ich irgendwie dann eher ein Problem habe, dass die Pumpe kaputt geht. Da ist sowas zum
+Beispiel sehr gut geeignet, weil diese Fördermaschine, die berührt das Zeug normalerweise
+gar nicht, sondern das wird da nur eingequetscht in einem flexiblen Schlauch. Oder andere Pumpformen.
+Was man noch sicherlich oft mitnotiert, ist die Effizienz.
+Jetzt hatte ich hier Eta geschrieben, hier war das Eta im Sinne von Viskosität.
+So soll man aufpassen, auch wichtig ist die Effizienz, die wird oft auch mit Eta abgekürzt.
+Eta-Pumpe nenne ich das jetzt mal.
+Und dergleichen mehr.
+Wir sehen auf der nächsten Seite noch einiges.
+Einen Aspekt will ich vielleicht nochmal wichtig herausstellen, ich gehe mal ganz kurz zurück.
+Es gibt bestimmte Pumpen, die können Flüssigkeiten oder Medien nur transportieren, wenn das mit Flüssigkeit gefüllt ist und dann durchdrehen, was vorwärts bringt.
+Oder es gibt andere, die können, das nennt sich selbst ansaugend, auch starten zu beginnen, wenn hier am Anfang Luft tritt.
+Das ist die klassische Variante, wenn ich meine Hebelpumpe am Spielplatz habe, die kann ich bedienen, auch wenn sie mal leer gelaufen ist.
+Wohingegen so eine Pumpe, wenn sie leer gelaufen ist, die dreht in der Luft und die bringt nichts mehr fort.
+Das ist ein großes Problem und da gibt es noch ein paar Nebenaspekte, die wir gleich sehen werden, die so ähnlich sind.
+Hier ist eine Tabelle und ich will Sie jetzt nicht damit konfrontieren, dass Sie die jetzt zum Detail ausfüllen.
+Sie haben die zwei Tonnen weiter hinten. Aber wir sehen also, wir haben gerade Arbeitsmedien, hatten wir gesehen,
+aggressive Medien, medizinische Sachen, hatten Sie gesagt, hohe Feststoffbeladung und so weiter.
+Und da finden wir, dass diese Pumpen sehr unterschiedlich performant sind.
+Und hier ist jetzt einfach mal so eine Zusammenstellung aus einem sehr alten Textbuch,
+beziehungsweise aus einer Firma, die solche Pumpen da herstellt und man sieht, also die haben so ein bisschen nochmal zusammengefasst, was welche Pumpe gut kann und wie wir hiermit in diesen Performance-Kursen, in diesen KPIs bestimmt unterwegs sind.
+Also, Kreiselpumpen sind im Übrigen ein sehr gutes, klassisches Standardbeispiel, mit dem wir uns in Zukunft auch sehr befassen werden, die relativ viel können und relativ günstig zu bringen sind.
+Aber, was wir ja gerade gesehen hatten, eine auszuliefernde Kolbenpumpe hat ein bisschen andere Charakteristika, kann eben zum Beispiel selbst ansaugen und ist auch dosierfähig.
+Dosierfähig ist auch eine interessante Variante, dass man also sagt, ich kann genau bestimmen,
+wie viel Flüssigkeitsmenge wird denn jetzt transportiert.
+Dadurch, dass ich hier den Kolben nur ein bisschen weiter oder weniger weit zurückziehe,
+weiß ich genau, welches Volumen habe ich hier an Flüssigkeit eingeströmt und dann aber auch wieder ausgeströmt.
+Auf der Ausflussseite, Saugseite und Druckseite und auf der Druckseite dann bereitgestellt,
+wohingegen ich bei so einer Pumpe durch die Drehzahl nicht unbedingt einfach sagen kann,
+wie viel Flüssigkeit wird denn transportiert.
+Es gibt weitere Beispiele, die da gezeigt sind und ich will nicht, dass Sie die alle auswendig können.
+Vielmehr will ich, dass Sie diese Grundidee gleich mitnehmen.
+Es gibt sehr viele Pumpen, die unterschiedliche Charakteristika haben
+und wir haben für bestimmte Herausforderungen passende Pumpensysteme.
+Es reicht mir aus, wenn Sie sich, ich sag mal, drei von diesen Pumpentypen herausgreifen
+und ein bisschen fähig sind, in einem Vergleich was anzugeben zu diesen Pumpen.
+Und wie gehen Sie da ran? Indem Sie gar nicht unbedingt irgendwelche Absolutwerte auswendig lernen,
+sondern dass Sie wissen, dass ein bestimmter Art Pumpentyp Dosierfähigkeit hat.
+Also nennen Sie eine dosierfähige Pumpe, ja das wäre gut, wenn Sie das können,
+oder eine selbstansaugende Pumpe, oder eine, die umkehrbar ist.
+Was Sie aber nicht wissen müssen, sind irgendwelche Zahlwerte. Das bringt sowieso nichts, weil jede
+Pumpe ist ja in ihrer genauen Auslegung ein bisschen unterschiedlich. Was man machen kann,
+und das ist wichtig, ist eben diese Unterscheidung in die Strömungspumpen und die Verdrängerpumpen.
+Das hatte ich ja gerade schon gesagt. Die einen können eben im Stillstand wieder rückwärts
+durchströmt werden. Das kann zum Teil gut sein, aber auch zum Teil schlecht. Das heißt,
+Wenn ich die Pumpe anhalte, dann läuft die Flüssigkeit wieder raus.
+Und die sind nicht selbstansaugend.
+Das heißt, wenn die einmal Luft gezogen haben, dann haben die ein Problem.
+Zum Teil kann ich die durch eine andere Pumpe unterstützen
+und dann erst die Ansaugung durch eine Verdrängerpumpe herbeiführen.
+Die Verdrängerpumpen hingegen haben kein Rückströmen bei Stillstand.
+Das heißt, wenn ich die ausschalte, bleibt die Flüssigkeit an der Stelle.
+Die Folie mit den Kriterien ist ein bisschen verseckt. Könnten Sie die vielleicht nochmal einstellen ohne?
+Ja, das mache ich. Tut mir leid.
+Wenn Sie mir einen Riesen gefallen tun, schreiben Sie ein Wort in das Forum.
+Ja? Punkt. Das reicht klar. Oder Bildpunkt. Dann merkt es sich.
+Am Ende steht es alles da drin, aber Sie haben recht, es ist natürlich kompakter und griffiger, aber es ist so.
+Was ich Ihnen gerne mitgebe und dann sage ich jetzt wirklich als Hausaufgabe ist,
+schauen Sie sich, ungeachtet dessen, dass Sie das Bildchen von mir kriegen,
+an, welche von den hier unten genannten Pumpen sind denn Strömungspumpen
+und welche sind denn Verdrängungspumpen als Typ.
+Das wäre gut, wenn Sie zuordnen können und da sagen, welche Pumpe ist welche.
+Ich greife das in einer der kommenden Stunden wieder auf.
+Dann stellen wir sicher, dass Sie da alle den gleichen Wissensstand haben, aber das
+gebe ich Ihnen mal mit.
+Wenn wir uns jetzt angeguckt haben, welche Pumpe ist für uns eigentlich die richtige,
+Dann müssen wir reingehen in die Betriebsfragestellung.
+Wir kommen zu diesem Punktentyp Selektieren nochmal zurück.
+Ja, das klang jetzt so ein bisschen unbeantwortet.
+Jetzt habe ich Ihnen ganz viele Punkten gezeigt, aber irgendwie noch nicht so richtig, warum nehme ich jetzt welche.
+Das macht Sinn, wenn wir uns erstmal angucken, wie mache ich hier diese ganze Rechnerei.
+Und am Ende werde ich nochmal dazu zurückkommen.
+Als erstes gilt es, eine Anlagenanalyse zum An- und Strömungsnetzwerk aufzubauen.
+Und das ist hier mal beispielhaft klimatisch gezeigt.
+In diesem Aufgabenbereich ist es so ähnlich wie bei einem Pumpspeicher, dass ich irgendwo unten ein Becken habe.
+Hier habe ich irgendwie die Flüssigkeit, die hat einen Druck an der Einlangsseite und eine bestimmte Höhe.
+Also mein unteres Becken ist normalerweise an Luft, also hat es ein Bar Umgebungsdruck.
+Und hier habe ich irgendwie eine bestimmte Höhe und ich will es da hochpumpen auf das andere Becken.
+Und da oben hat es wieder einen anderen Druck.
+Kann natürlich sein, dass es in einen geschlossenen Behälter reinpumpe und da ein Überdruck entsteht.
+Muss aber nicht.
+Und was muss ich jetzt berücksichtigen?
+Also einmal die Querschnitte der Saug- und Druckseite.
+Die stehen hier. Die Pumpe hat nicht unbedingt beim Einlauf im Rohrdurchschnitt die gleichen Querschnitte wie im Auslauf.
+Das ist die Saug- und die Druckseite.
+Und das will ich vielleicht nochmal wichtig hier notieren.
+Also Saug ist das S und die Druckseite ist, das hat aber keinen D abgekürzt, also haben wir AS und AD.
+Okay, warum das so ist, Schlagwort Kavitation, werden wir in der nächsten Stunde behandeln,
+warum man nicht unbedingt hier und hier den gleichen Durchmesser verwendet.
+Höhe, Ein- und Auslauf brauchen wir, also wir müssen uns angucken, wo sind wir denn von der Position bei diesem Level hier und bei diesem Level hier
+und hier zwischen haben wir irgendwo ein Delta-H.
+Ja, da steht es hier vorne, tut mir leid, ich habe es nicht gesehen gehabt, das war schon eingesegnet.
+Also dieses H-Geo ist die geodätische Höhe.
+Und es hat was in dem Falle hier, ich schreibe da nur hier drauf,
+es muss nicht immer genau so sein, Z-A minus Z-E.
+Also Z-Eingangsseite oder Saugseite und Z-Ausgangsseite oder Druckseite.
+Man verwendet hier typischerweise diese Buchleitungen.
+Einlauf und Auslauf.
+Und jetzt habe ich noch einen Druck auf der Ein- und Auslaufseite.
+Das hatte ich vorhin schon gesagt.
+Oft ist es entspannt und wir haben hier die Umgebungsluft auf beiden Seiten.
+Aber es ist möglich, dass PE und PA nicht unbedingt ganz genau das gleiche sind.
+Und als letztes habe ich noch einen Aspekt, den wir uns in den letzten Stunden sehr stark angeguckt haben.
+Das ist das, dass wir hier Verluste haben.
+Zeta von irgendwelchen Knickstellen.
+Wir nehmen mal hier Zeta-Krümmer und aber auch irgendeinen Zeta-Wert aufgrund der Reibung, also des Rohrs.
+Das ist genau das, was wir uns ja in den letzten Stunden angeguckt haben.
+Und da haben wir diese ganzen Zeta-Werte und dadurch Delta PV ist gleich Summe über alle Zeta mal
+Rho durch D
+E durch
+Rho halbe
+mal
+Zeta mal
+U
+mittlere Geschwindigkeit
+durch
+E Quadrat
+mal Rho durch
+Gut, war jetzt vielleicht ein bisschen zu eng geschrieben.
+Ich kann da auch einfach nur Zeta hinschreiben.
+Es ging mir nur darum, dass da noch was zu berücksichtigen ist.
+Aus diesen Zeta-Werten kann ich umgerechnet auch einen Höhenverlust wieder anschauen.
+Wir hatten das am Anfang der Stunde nochmal in dem Rückblick gesagt, es geht entweder Druckverluste oder Höhenverluste.
+Das waren die drei Formulierungen, Energie, Druck oder Höhe, der erweiterten Benullengleichung.
+Und im Falle, wenn ich mit Pumpen arbeite, ist es ganz häufig so, dass es mir darum geht, dass ich irgendeine Höhe oder fiktive Höhe überwinden muss.
+Und dann arbeite ich mit den Höhenverlusten.
+Und deswegen kommt jetzt in der Zusammenstellung die erweiterte Benullengleichung in Höhenform.
+Und die wollen wir doch mal gemeinsam da rein skizzieren.
+Das ist ein bisschen Schreibarbeit, aber ganz häufig das, was Sie auch wirklich machen müssen.
+U² durch 2E.
+Sie finden das Ganze eigentlich so mehr oder weniger auf Ihrer Formelsammlung.
+bei den Benullgleichungen erweitert.
+Aktuell ist hier ganz bewusst ein Stück frei,
+weil ich da gleich mit einem anderen Stift noch was reinschreibe.
+So, und jetzt habe ich diese zwei Terme da, hier hinten eben Delta-H-Verluste und hier
+vorne plus H-Anlage, was ist H-Anlage, das ist die Pumpe, also jetzt haben wir genau
+unser Benoistielchen mit allem was dazugehört. Sozusagen ein Endgegner. Sie haben ihre Benoigleichung
+mit ihren drei Termen. Wo bin ich am Anfang auf der Höhe? Wie schnell fließt denn irgendwas am
+Anfang? Normalerweise, wenn Sie so große Becken haben, wie ich es hier gerade zeige, können Sie
+nahezu sagen, die Geschwindigkeit ist null,
+weil es geht ja nur ganz langsam
+in der Wasseroberfläche.
+Anders als die Aufgabe, wenn Sie hier beginnen
+und mit der Strömungsgeschwindigkeit
+starten müssen. Das sehen wir nicht.
+Dann haben Sie irgendwas mit dem Drücken
+am Anfang. Zum Teil ist es die Umgebungsluft.
+Vielleicht ist aber auch ein Überdruck da.
+Wenn es die Umgebungsluft ist,
+dann können Sie das gleich rausschmeißen,
+wenn es da oben auch die Umgebungsluft ist.
+Und dann haben Sie hier den Gewinn,
+den Sie durch die Pumpe machen
+und hier üben sie den Verlust, den sie durch ihre ganzen Einbauten oder Rohrreibungen und so weiter machen.
+Also das ist eigentlich schon das ganze Spielchen.
+Jetzt kann man nochmal hier skizzieren, das ist das, was ich da oben hingeschwätscht habe,
+das war ein bisschen unglücklich, dann eigentlich vielleicht schlauer hier das direkt von dort abzulesen.
+Ich hoffe, ich habe ihn nie noch vertan, aber es müsste eigentlich passen.
+Das ist diese Formel für die Druck- und Höhenverluste.
+muss ich nur noch gucken, da hinten ist noch so viel Platz
+richtig, da habe ich mir noch was überlegt
+ich wollte hier nochmal hinschreiben
+wie das dann zu einem Höhenverlust wird
+diese Formel, wenn man sie so rumschreibt
+ist nichts anderes als der Höhenverlust
+mal der Gewichtskraft, mal der Dichte
+das ist einfach nur eingewendet
+das was in der Nullgleichung steht
+das heißt, Sie können umschreiben
+der Höhenverlust ist der Druckverlust
+durch die Gewichtskraft und die Dichte
+Ja, ich hoffe, man kann es lesen. Sie konnten da drüber gucken jetzt, ja. Also das ist einfach nur mal so ein bisschen das Formel.
+Jetzt werden wir uns in der nächsten Kurie noch anschauen, wie wir Höhenunterschiede vielleicht noch eine gewisse Komplexität beinhalten.
+Ja? Alles da? Höhenunterschiede haben gewählte eine Komplexität, weil wir bei diesen verschiedenen Aufgaben unterschiedliche Arten haben.
+Ich glaube, hier links, da kann man nicht lange drüber reden, ist der Fall klar.
+Wir haben den Höhenunterschied dadurch, dass wir hier ein Niveau haben und hier ein Niveau haben.
+Und hier dazwischen haben wir dieses H-Geo.
+Und bei der nächsten Fragestellung ist das untere Niveau, glaube ich, auch unstrittig.
+Sie sehen da also dieses Symbol, das ist nichts anderes als die Pumpe, hier ist mein Rohr,
+unteres Level.
+Jetzt geht es da rauf, dann geht es da rüber und dann geht es wieder ein Stückchen runter
+und da ist der Ausfluss.
+Das ist jetzt nicht unrealistisch, das ist sozusagen eine Dusche und Sie wollen da jetzt
+an der Dusche irgendwie zapfen. Und jetzt ist die Frage, welches Niveau spielt eine Rolle?
+Wenn Sie jetzt die geodätische Höhe für die Pumpe berechnen wollen, wer ist denn dafür,
+dass es die Stelle A oder A' ist? Das ist die gleiche Höhe. Niemand dafür. Wer ist dafür,
+dass ich die Höhe B eintragen muss? Drei Leute dafür, vier, fünf. Und wer ist dafür,
+dass die höhe c eintragen also fünf leute haben auch gefasst und die anderen haben verarbeiten
+noch die profs nein das ist gut wir haben entsprechend sicherlich die größe warum ist
+es so noch mal kurz zum nachdenken das ist nichts anderes als wenn ich irgendein thema
+wo ich flüssigkeit ansaugen über irgendeinen hügel drüber und dann den ausfluss mehr angucken ja in
+in welche Richtung fließt es also. Das heißt, es entsteht hier ein Unterdruck, der aber sich auflöst
+wieder zur Stelle B hin. Das heißt, die relevante Höhe ist dieser Ausfluss. Ist eigentlich logisch.
+Wie sieht es hier aus? Jetzt wird hier unten abgezapft und hier oben aufgefüllt. Auch da zählt nur das,
+was sie an den Wasseroberflächen haben. Warum? Weil ja aus dem, was wir aus der Hydrostatik in
+den ersten Stunden gemacht haben, klar wird, dass hier sich ein Druckgefälle aufbaut und hier unten
+die Wassersäule entsprechend draufsteht. Das heißt, das hilft Ihnen, diese Flüssigkeitsmenge,
+die hier draufsteht, dass die Pumpe nicht ganz so stark sein muss oder andersrum gesprochen,
+Wenn das Becken fast leer ist, muss die Pumpe noch mehr tun.
+Oder hier oben ist es andersrum, da kann man sich das noch besser vorstellen.
+Wenn es hier leer ist, hat die Pumpe ein leichtes Spiel und kann noch neue Flüssigkeit dazu bringen.
+Wenn das Ganze mit stark viel Wasser gefüllt ist und eine große Wassersäule oben drauf liegt,
+muss die Pumpe diesen Überdruck, der hier oben aufgrund der Wassersäule sich aufbaut, auch noch zusätzlich übermitteln.
+Also H-Geo entsprechend an den richtigen Stellen.
+ableiten. Was ist das Letzte? Das ist eine zum Beispiel Fußbodenheizung oder irgendein
+anderer Heißkreislauf, könnte auch eine Radiatorheizung sein, eines Haushalts und da ist irgendwo ein
+Wärmetauscher, der Wärmetauscher ist Ihre Heizkörper, Sie haben also im Keller eine
+Pumpe stehen, wie viel geodätische Höhe muss die Pumpe vom Keller überwinden, damit
+die Heizungssysteme laufen?
+Null.
+Null, weil
+hoffentlich ist es nicht
+so wie in meinem Bildchen, dass hier ein Loch
+drin ist, sondern die Pumpe
+kreishaft ist geschlossen, das heißt
+die Flüssigkeit zirkuliert
+und die Flüssigkeit muss einmal
+ins dritte Stockwerk gepumpt werden,
+aber dann kommt die auch irgendwann wieder zurück
+in ihre Pumpe. Und deswegen
+hat die keine Geodätische Höhe. Trotzdem brauchen
+sie eine Pumpe, weil sie Reibungsverlust haben.
+soweit glaube ich einigermaßen klar druckdifferenz der niveaus druck
+offene oder geschlossene behälter das hat mir gerade schon gesagt also hier
+ganz durchaus sein dass da noch irgendwie überdrücke eine rolle stehen meistens
+arbeiten wir an luft was bedeutet das wenn wir an luft arbeiten wir haben hier
+den Umgebungsdruck, der auf dieser Höhe gilt. Wir haben hier den Umgebungsdruck, der auf dieser Höhe gilt und
+jetzt gibt es noch natürlich die Spezialität, die man aber eher selten in der Realität findet. Wenn die Drücke
+an diesen Stellen wirklich jetzt unterschiedlich sind, weil die Punkte so hohe Förderhöhenunterschiede
+machen, dass der Umgebungsdruck eine Rolle spielt, dann muss man das mit berücksichtigen. Wenn ich
+Aber nochmal, wenn ich mich zurück erinnere, vielleicht haben Sie es noch im Hinterkopf, dieses Bildchen, wo ich den Berg und den Swimmingpool gemalt hatte und gesagt habe, bis zu welchen Höhenunterschieden ist denn in der Luft der Druck von diesen verschiedenen Modellen, die wir da gemalt hatten, unterschiedlich oder gleich.
+Da haben wir herausgefunden, dass ein hoher Unterschied von ungefähr 200 Meter, ich glaube ich hatte zum Teil sogar bis 500 Meter notiert,
+sind die Modelle nicht unterschiedlich, bzw. der ganze Druckunterschied kann in dieser Stelle eventuell gar vollständig vernachlässigt werden
+gegenüber dem Drücken, den Sie in den Flüssigkeiten aufbauen.
+Die Flüssigkeitsdichte ist immerhin mal tausendmal höher als das, was Sie an der Luft haben.
+Das heißt, bei Aufgaben in diesem Bereich, 100, 200 Meter Förderhöhen-Differenz,
+müssen Sie klassischerweise nicht berücksichtigen, dass der Druck der Luft hier höher ist, als er oben ist.
+Soweit dazu.
+Ich habe hier sogar was reingeschrieben.
+Bei Delta Z kleiner oder ungefähr gleich, hier steht wirklich 500 Meter, kann man sagen, Delta P0 ist gleich 0.
+Entschuldigung für die Farbwahl, da bin ich aufgepasst in dem Moment.
+Also, in der Atmosphäre sind Sie da gut unterwegs, wenn Sie einfach den gleichen Umgebungsdruck annehmen.
+Dann, der Hintergrund, wie gesagt, dass Sie mit Flüssigkeiten zu tun haben,
+und da ist natürlich ein Druckunterschied, da brauchen wir nicht drüber streiten,
+das steht ja hier, aber der Druckunterschied ist so gering,
+dass, das ist die Höhe hier nach oben, Entschuldigung,
+und der Druck wurde nach rechts aufgetragen
+der Druckunterschied ist da
+aber der Druckunterschied ist so klein
+dass Sie
+im Vergleich zu dem
+was die Flüssigkeitsdrücke machen
+das nicht berücksichtigen
+jetzt haben Sie das Ganze nochmal
+schön und sauber geschrieben
+das ist die Formel die wir uns vorhin
+handschriftlich dahin gearbeitet haben
+jetzt müssten wir als nächstes
+nochmal uns
+anschauen
+wie wir das Ganze jetzt mit dem Höhenverlust angeben.
+Das hatte ich auch auf der vorigen Folie schon mal angegeben.
+Es hat nichts anderes als der Druckverlust mit Dichte und Gewichtskraft
+und entsprechend diesen ganzen vielen Termen,
+wie Druckverluste in Rohren und Druckverluste durch Einbrauchten, bestimmen.
+Die Formel steht so auch in der Formelsammlung.
+Das macht es recht griffig und recht zügig, wenn Sie von einem Moody-Diagramm kommen,
+mit den Druckverlusten im Rohr, das hier reinzubringen und dann den Höhenverlust zu berechnen.
+Und dann können Sie eine Förderhöhe ermitteln.
+Die Förderhöheermittlung schauen wir mit Ihnen auf der nächsten Seite an.
+Ich glaube, da wird jetzt doch noch etwas produziert.
+Und wir haben die Idee, dass wir die Formel oben, die nenne ich jetzt mal Nummer 1,
+1 auflösen nach h, also das heißt, ich stelle es um, da möchte ich hin
+Und wenn ich das mache, jetzt schreibe ich aber mal wieder in blau, dann kriege ich nichts
+anderes raus als dieses Z, A minus ZB plus, nehmen wir die Eingangs- und Ausgangsseiten,
+Jetzt haben Sie da in dieser Formel, wie sie dasteht, eigentlich zwei Teile.
+Auf der einen Seite haben Sie die Dinge, die, was mit der Höhe zu tun haben und mit dem
+Durchverlust, das hat aber nichts mit der Geschwindigkeit zu tun, wie schnell Sie da
+durchströmen durch Ihr Rohrsystem, wie schnell Ihre Pumpe läuft, das ist einfach was Statisches,
+was sie ihr Problem mit sich bringen. Und hier haben sie was, was abhängig ist von der
+Geschwindigkeit. Am Eingang und Ausgang der Geschwindigkeit und auch die Höhenverluste,
+wenn sie da reingucken in diese Formel mit den Höhenverlusten, steht hier sehr prominent die
+Geschwindigkeit. Also auch diese Höhenverluste, die sehr viel mit der entsprechenden Geschwindigkeit
+zu tun. Das heißt, hier haben wir einmal eine Funktion nicht abhängig von u, schwierig zu lesen
+wahrscheinlich da, und hier haben wir einen Bereich, das ist eine Funktion, die ist abhängig von ua und ui.
+Was bedeutet das? Nächste Seite, zeigen wir es nochmal oder übernächste erst, dass wir uns mit
+statischen und dynamischen Höhenverlusten beschäftigen. Also linke Seite statisch,
+rechte Seite dynamisch. Ich sehe es hier nochmal und schreibe es hier nochmal hin. H-statisch und H-dynamisch.
+Was bedeutet das? Wenn wir hier den Höhenverlust nach oben auftragen, den eine Pumpe überwinden
+muss oder den Höhen gewinnen. Und das ist nichts anderes als ein Charakteristikum, wie stark muss
+meine Pumpe sein? Dieses HA. Wie viel Förderhöhe brauche ich an der Pumpe?
+Dann kann ich sagen, okay, wenn ich weiß, was zu tun ist an geometrischen Aufgabenstellung,
+dann habe ich einen Bereich, das ist der H-Statik, den muss ich halt überwinden, weil ich halt eine
+bestimmte Höhendifferenz überwinden muss. Meinetwegen in meinem Pumpsteiger zwischen
+dem unteren Becken und dem oberen Becken sind 100 Höhenmeter Differenz.
+Ja, da muss meine Pumpe mindestens 100 Höhenmeter können, oder?
+Und dann muss sie aber noch mehr können, falls da noch Druckunterschiede relevant sind,
+können die das noch ein bisschen korrigieren, diese 100 Meter, dann sind es vielleicht 105 Meter
+oder nur 97 Meter, weil oben der Druck ja ein bisschen niedriger ist.
+Und dann habe ich aber noch den zweiten Teil, das ist der dynamische.
+Und der dynamische Teil ist jetzt ein bisschen, ja, der hat so eine quadratförmige Bewegung in etwa.
+Und wir sehen hier unten ist der Volumenstrom.
+Der Volumenstrom und die Geschwindigkeit hängen linear miteinander zusammen.
+Wir wissen ja, dass Volumenstrom gleich U, ja, mal A ist.
+Also das heißt, wenn hier überall U² steht, dann haben wir da so eine quadratische Abhängigkeit.
+Die versuche ich jetzt da mal so rein zu skizzieren.
+Und das heißt, je nachdem wie schnell der Bemühungsstrom ist, geht ein dynamischer Anteil für die Pumpe, der sich hier aufzeigt.
+was bedeutet das jetzt
+dass wenn wir
+einen Volumenstrom festlegen
+und sagen wir wollen so und so viel
+Flüssigkeit hier von
+unten nach oben transportieren
+dann ergibt sich hier
+ein sogenannter Arbeitspunkt
+das werden wir natürlich besser noch mal ein bisschen genauer kennenlernen
+oder an der Stelle ist es eigentlich
+noch nicht mal ganz der Arbeitspunkt
+sondern es ist einfach nur eine Mindestförderhöhe
+oder eine exakte Förderhöhe
+die ich treiben muss
+damit ich diesen Volumensprung herstelle.
+Wenn ich jetzt aber mein Ding doppelt so viel oder ein ganzes Stück mehr Flüssigkeit transportieren will,
+dann muss meine Pumpe stärker arbeiten.
+Das ist eigentlich ganz griffig.
+Und der Zusammenhang zwischen diesen zwei Punkten, die Kurvenform ist jetzt vielleicht nicht ganz ideal gezeigt,
+Bei quadratisch geht es deutlich steiler nach oben normalerweise.
+Aber im Schema ist hoffentlich zu erkennen, dass wenn ich hier die Pumpe variiere,
+und das kann ich auf der elektrischen Seite, indem ich die einfach mehr Leistung ziehen lasse oder weniger,
+oder eine mechanische Pumpe könnte ich irgendwie drosseln oder was auch immer,
+ich kann auf jeden Fall einstellen, welche Förderhöhe diese Pumpen haben,
+und dadurch kann ich
+einstellen, welche
+Durchflussgeschwindigkeit
+bekomme ich denn.
+Genau.
+Den Volumenstrom kann ich einstellen
+durch Ventile, das kann ich auch machen,
+dass ich also sage, andersrum,
+ich reduziere die Menge,
+die ich durchbringe,
+durch den Einbau.
+Also, jetzt noch eine
+Eine wichtige, rein technische Anmerkung, dieser Volumenstrom, der da unten skizziert ist, wird insbesondere in der technischen Anwendung oft mit Q bezeichnet.
+Okay, steht halt da, Volumenstrom oder Förderstrom hat einfach nur einen anderen Buchstaben statt dem V-Punkt.
+und ja, das hat man schon mal gesagt, dass die geschlossenen Angaben mit Heizung oder sowas
+einen statischen Druck von Null haben, die arbeiten also direkt von hier unten los.
+Jetzt haben wir also da einiges mitgekriegt, wir haben ja bis 11.15 Uhr.
+Das ist so der Basis-Idee.
+Jetzt ist es uns also gelungen, diesen Aspekt hier rundherum,
+Zu adressieren mal und so eine Kennlinie aufzustellen, Kennlinie der Anlage, jetzt gehen wir zurück auf die Pumpen, das passt sehr gut, die hatten wir ja vorhin kurz angeschnitten und überlegen uns, welches ist denn jetzt das passende Modell an Pumpe für das, was ich da als Aufgabe habe.
+Ja, und dann werden wir uns die Pumpen kennen, die ich hier kurz anschaue.
+Hier ist mal eine Beispielpumpe gezeigt in so einem Querschnitt.
+Man sieht also, dass das ein Schaufelrad ist und die Pumpe ist nicht geschlossen.
+Das heißt, die Flüssigkeit kann, wenn ich die Pumpe ausschalte, da frei durchlaufen.
+ist also eine klassische Strömungspumpe, die Kreiselpumpe und die arbeitet, ja es ist ein bisschen schwer zu sehen,
+ehrlich gesagt in dem Bild, typischerweise von diesem als Saugseite, schaufelt hier hoch und die Ausgangsseite ist verrückterweise
+nicht hier hinten irgendwo, da ist geschlossen, sondern die schaufelt nach oben hoch.
+Man sieht es hier in dem Querschnitt ganz gut, also hier ist das Ansaugseite, das Drehrad und die presst auf der Druckseite
+nach oben heraus. Das ist aber jetzt mehr so eine bauliche Angelegenheit. Und wenn man
+sich das nochmal anguckt, was ganz schön ist an denen ist, dass die einen sehr hohen
+Wirkungsgrad erreichen. Man kann wirklich bis 90 Grad ganz gut bekommen in der Technik.
+Das ist jetzt der reine mechanische Wirkungsgrad. Da kommt dann noch der Wechselrichter oben
+drauf, der vielleicht, oder der, ich sage nicht Wechselrichter, sondern der Anschluss
+zum Stromnetz und entsprechende Umspannungstätigkeiten auf der elektrischen Seite. Das kann nochmal
+ein bisschen Verluste produzieren, aber mechanisch sind die sehr stark. Und was schön ist, ist, dass
+man sie extrem weit in der Drehzahl variieren kann. Das heißt, dieses Spiel, was uns in der Technik
+oft sehr interessiert, wir wollen mal wenig Wasser, wir wollen mal viel Wasser, in einem Mehrfamilienhaus
+kann ich hervorragend einschätzen zu der Pumpe.
+Und jetzt schauen wir uns mal an, wie für so eine entsprechende Kreisel-Grimmungspumpe
+die Anlagen- bzw. die Pumpen-Kenntnis aussieht.
+Und da ist es eben auch so, dass die Pumpe nicht immer die gleiche Förderhöhe bereitstellen kann.
+Sondern leider kann die Förderhöhe variieren mit dem, wie viel Volumenstrom denn die Pumpe befördern muss.
+So eine Pumpen-Kellinie, die kriegt man vom Hersteller oder Sie, kriegen Sie in irgendeiner Angabe.
+und es sieht oft so aus, dass die etwa so abfallen.
+Und hier drüben haben wir dieses V-Punkt, das ist gleich Q,
+das hatte ich ja gerade gesagt.
+Und wenn der Volumenstrom steigt, kann die Pumpe weniger Förderhöhe überwinden.
+Da gibt es einen zusätzlichen Schlupf durch die Pumpe,
+sie schafft nicht mehr das, was sie ursprünglich befördert wurde.
+Das ist jetzt also eine thymische Strömungspumpe.
+Das sollte ich da noch reinkommen.
+Bei Verdrängerpumpen sieht das anders aus.
+Man spricht von einem stabilen Förderverhältnis, wenn die Änderung von h nach q kleiner Null ist.
+Und das ist typischerweise der Fall. Das heißt, dass die Pumpe immer weniger befördern kann, je mehr Volumen befördert wird.
+Wenn die andere Pumpen-Kennlinie hätte, die hier irgendwelche Ausschläge hätten, dann haben Sie eine instabile Pumpe, die macht dann irgendwas ganz Wildes.
+Das werden Sie in der Technik nicht finden.
+Wir können den Drehzahl variieren. Mit der Drehzahlvariation kriegen wir auch unterschiedlich viel Förderhöhe.
+Wir haben nicht nur die Möglichkeit, an dieser Linie entlang zu arbeiten, sondern wir können dazu parallel auch weitere Linien formulieren, wenn wir entsprechend hier m variieren.
+Und was wir auch noch machen können, das kann man aber nur vorher, indem wir eine andere Pumpe wählen, ist eine mit einem anderen Laufrad durch das ernehmende, eine große Pumpe oder eine kleine Pumpe.
+Wohin ging es? N-Variation, also die Drehzahlvariation, die kann ich durchaus mit der gleichen Pumpe machen.
+Wenn wir uns das jetzt anschauen, auf der nächsten Seite ist das mal gezeigt, aus einem sehr alten, aber durchaus passenden Diagramm von einem Hersteller,
+der also eine Pumpe hat, die je nachdem, wie viel Förderstrom wir haben,
+unterschiedliche Förderhöhen überwinden kann.
+Und in dem Fall wird das Ganze gezeigt für vier verschiedene Laufgradriffmessen.
+Das heißt, wenn jetzt die Aufgabe für Sie sein würde, zu sagen, wählen Sie doch die richtige Pumpe von diesen vier Pumpentypen aus,
+jetzt habe ich hier vier verschiedene Laufraddurchmesser, dann müssten Sie sich überlegen,
+ah ja, wie viel Förderhöhe muss ich denn überwinden und ich werde wahrscheinlich die entsprechend nächstgelegene,
+leicht höhere Pumpe wählen, die es schafft, bei voller Drehzahl so viel zu befördern.
+Das heißt, wenn Sie, ich schreibe jetzt mal hier ein Beispiel rein, 150 Kubikmeter pro Stunde befördern möchten und Sie finden aus Ihrer Anlagenkennlinie heraus, dass Sie meinetwegen 120 Meter an Förderhöhe benötigen,
+dann sollten Sie nicht diese Pumpe und nicht diese Pumpe nehmen, weil die reicht nicht aus, die kann diese Aufgabe nicht erfüllen.
+Aber sehr wohl würde diese Pumpe ausreichend stark sein, um das zu tun.
+Die kann dann bei etwas niedriger Laufzahl arbeiten und kann maximal in eine Förderhöhe bei dieser entsprechenden Durchflussgeschwindigkeit anbieten.
+von meinen Wegen 135 Meter, da haben Sie also noch eine gewisse Reserve,
+sodass Sie zum Beispiel sich noch erlauben könnten, den Volumenstrom zu erhöhen
+bis zu etwas über 200 Kubikmeter pro Stunde, dann würde diese Puppe immer noch aufreichen.
+Passen Sie aber auf, wenn Sie die Volumenkurve ändern, ändern sich auch Ihre Anlagenkennige.
+Das werden wir gleich nochmal sehen.
+So, was hier noch mit eingezeichnet ist, sind verschiedene Effizienzen in den kleinen Zahlenwerten.
+Wir sehen also, dass diese Bombe jetzt nicht so toll ist, wie die, was ich vorhin versprochen habe,
+was heutzutage maximal möglich ist.
+Die schafft in dem Falle maximal 80% Effizienz.
+Und wenn ich weit weggehe von dem Drehpunkt und gerade bei niedrigen Fördergeschwindigkeiten arbeite, dann ist die Effizienz deutlich schlechter.
+Das ist immer nur bei 50% oder wird noch schlechter.
+Und auch wenn ich über diesen optimalen Punkt hinausgehe, das sehen Sie hier an der Grafik, zum Beispiel 77, 75, dann bricht die Effizienz wieder ein und dann haben Sie die Pumpe ein Stück weit überdreht.
+Jetzt ganz kurz noch dieser Vergleich von Kolben und Kreiselpumpe, die beide ihre komplette
+Daseinsberechtigung haben.
+Wir hatten ja gerade gesehen, dass die Kreiselpumpe, so wie wir sie beschworen haben, eventuell
+in dem blauen Farbton dasteht, die da drüben meinetwegen in dem grünen.
+Und da können wir mal sehen, dass...
+Ups, das ist jetzt natürlich ein bisschen dick mit dem Highlighter, das soll ich nicht.
+Wir bei der Pumpe, die wir gerade durchgenommen haben, etwa so eine Kennlinie haben.
+Wie sieht jetzt die Kennlinie bei einer Kolbenpumpe aus? Komplett anders.
+Die ist nur ganz leicht nach rechts verkrümmt.
+Da könnten Sie, ich nehme mal einen hellen grünen Tuch, je nachdem welche Pumpe Sie wählen,
+kann die eine bestimmte Förderhöhe erreichen, aber die hat praktisch kaum oder gar keine Abhängigkeit in dem, was der Volumensturz ist.
+Vielmehr ist es bei den Kolbenpumpen so, dass sie festbleibend eine bestimmte maximale Förderhöhe erreichen können.
+Das heißt, wenn Sie jetzt irgendwo in einem Drittweltland sind, wo eine Grundwasserpumpe betreiben, die kolbenpumpenartig arbeitet,
+dann müssen Sie sich anschauen, dass die entsprechende Pumpe dafür ausreicht.
+Es spielt aber keine Rolle, wie viel Flüssigkeit Sie da entsprechend entnehmen.
+Wenn Sie dies variieren wollen, dann müssen Sie die Schlagzahl von Ihrer Pumpe verändern.
+Sie haben aber keinen Einfluss auf die Feuerhöhe gegenüber dem, wie die Variation ist.
+Soweit die Idee da.
+Wir werden uns aber in den Rechenbeispielen alleinig mit Strömungspumpen befassen in der nächsten Zeit.
+Das ist der Typ, der eben, wie wir dann sehen werden, in der Anlagenkennlinie eine Variation sehr gut ist.
+Ich werde jetzt nicht dieses Video zeigen zur Gravitation.
+Das lasse ich Ihnen gerne mal zum selber angucken.
+über die nächsten Tage
+in der nächsten Stimmungstechnik
+Vorlesung, wenn ich das
+Kavitationssystem mal aufgreife, was das bedeutet
+und was das für ein Problem macht
+das ist die Aufgabe
+die wir vorhin schon angerissen haben
+das ist das, was wir vorhin auch schon gesagt haben
+als entsprechende
+Info, die ich Ihnen
+mitgeben wollte
+vielleicht jetzt an der Stelle
+heute ein paar Minuten früher
+durchgekommen
+nochmal versucht zusammenzupassen
+wir haben also
+gesehen gehabt in der Stunde
+zentral
+diese Benullegleichung
+die
+wir
+im ersten Teil der Stunde
+nochmal ziemlich intensiv
+darauf eingegangen sind
+wie diese Druckverluste sich zusammensetzen
+und die Druckverluste sind nichts anderes als
+alle Zeta-Werte zusammen mit
+der entsprechenden Gewichtung.
+Zeta-Werte
+kommen zustande aufgrund von
+Einbauten, Stunde davor,
+und aufgrund von Rohrverlusten.
+Bei den Rohrverlusten müssen wir unterscheiden
+in laminaren Fall
+und in turbulenten Fall.
+Wenn wir den
+entsprechenden
+laminaren Fall haben,
+dann nehmen wir die vorne her
+und sind damit gut bedient.
+Wenn wir den turbulenten Fall haben,
+Dann nehmen wir das Moody-Diagramm her und nehmen da jetzt vielleicht mal ganz kurz das Beispiel, wo wir das gerechnet haben.
+Beim Moody-Diagramm Reynolds-Zahl, achtung, richtige Potenz, dann hier Rohrrausigkeit und dann in grün abgeleitet den Rohrreinigungsbeiwert,
+Rohrreinigungszahl heißt das hier, und mit dem in den Darcy-Weisbach und die Berechnung machen.
+Dann können wir also diese ganzen Drücke gut ermitteln.
+Dann haben wir ein bisschen was gemacht hier zu hydraulischen Querstätten und so weiter.
+Und dann haben wir gesehen am Anfang, dass wir verschiedene Pumpen haben, die Dinge gut oder schlecht tun können.
+Und die paar Minuten, die Sie jetzt gleich geschenkt kriegen, können vielleicht ausreichen, um Ihnen zu ermöglichen, kurz einzustufen,
+welche Pumpe ist denn Strömungs- oder Verdrängungspumpe.
+Vielleicht machen wir es einfach hier jetzt schnell gemeinsam noch,
+dann haben wir das vom Tisch runter und können die Lösung dann notieren.
+Und dann haben wir beim nächsten Stunde dann den Aufgriff von,
+welche Pumpe tut eigentlich was.
+Ist die Hausaufgabe schon erledigt?
+Ist die Hausaufgabe erledigt, genau. Sollen wir es machen?
+Also, vielleicht von Ihnen in den zwei Minuten noch die Überlegung, welche Pumpe kann was.
+Sie sehen schon, ich schrieb auf meinen Spitzzettel hin und her, weil ich mich nicht erinnere, dass ich nichts falsch mache.
+Verdrängungspumpen haben wir gesehen, das sind die, wo die Flüssigkeit nicht wieder rausfließen kann, rückwärts.
+Da gehörten dazu die Zahnradpumpe, das war eine, die, wie man in dem Bildchen vorher gesehen hat,
+die Flüssigkeit so an sich aneinander vorbeischiebt, da geht keine Flüssigkeit rückwärts wieder raus.
+Da gehört aber genauso auch die Membranpumpe dazu, das ist so eine, wo Stück für Stück Flüssigkeit vorwärts geschoben wird.
+Auch die Kolbenpumpe ist so eine und auch die Schlauchpumpen sind solche.
+Anderer Typ ist es mit den Strömungspumpen, das ist die Kreisel- oder die Propellerschneckenpumpe,
+das sind beides welche, wo die Flüssigkeit wieder rausfließt.
+Jetzt haben wir eine Sonderform, die passt da eigentlich nicht dazu, die umkreise ich jetzt mit beiden.
+Und das ist diese Strahlpumpe, die hatten wir an anderer Stelle schon mal angesprochen.
+Und die hat Eigenschaften von beidem ein Stück weit.
+Eine Strahlpumpe ist zum einen so, dass sie durchaus rückströmt bei Stillstand,
+aber sie können entsprechend trotzdem selbst ansaugen sein.
+Sie haben da eine besondere Fähigkeit, dass sie auch ziehende Luft wieder herausbekommen
+und deswegen da relativ viel in dem Anwendungsbereich schenken.
+Soweit an der Stelle. Es reicht mir aus, wenn Sie das so zuordnen können.
+Und die Auslegungsfragestellungen machen wir in der nächsten Stunde.
+Ich würde es dabei mal belassen. Vielen Dank und alles Gute.
