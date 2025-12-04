@@ -1,0 +1,2163 @@
+Und deswegen kann ein Kredit gewährt werden, der sich an einem Zins orientiert oder der festgelegt wird auf Basis eines bestimmten Zinses.
+Und dann kann ich errechnen über den Wiedergewinnungsfaktor, Sie erinnern sich?
+Der Wiedergewinnungsfaktor Q hoch N mal Q minus 1 durch Q hoch N minus 1.
+Das ist der Wiedergewinnungsfaktor, der umgedrehte Barwertfaktor, also der Kehrwert des Barwertfaktors.
+Das heißt, ich kann basierend auf dem Volumen, das wäre dann ja quasi der Kapitalwert, das was jetzt übertragen wird, kann ich berechnen, die jährliche Zahllast.
+Und diese jährliche Zahllast besteht aus einerseits Tilgung und andererseits Zins.
+Und ich muss halt definieren am Anfang, wie viel Tilgung soll es denn sein.
+Und dann passiert genau das, dass über die Jahre der angenommene Kredit immer kleiner wird,
+das heißt auch der Zins wird kleiner, das heißt der Zinsanteil der Zahlungen wird immer kleiner
+und dafür steigt die Tilgung.
+Und das führt zu so einem typischen Verlauf eines Kredits als Annuitätendarlehen, dass Sie am Anfang, also typisch wäre für den privaten Haushalt eine Tilgung, die am Anfang 1,5% hat.
+Und dann sehen Sie am Anfang, wenn das 500.000 Euro sind, die Sie aufgenommen haben,
+da sehen Sie über die ersten Jahre erstmal gar nichts, nicht viel.
+Und dann wird es immer schneller und ganz zum Schluss geht es ganz schnell runter.
+Also über die Jahre.
+Also wenn wir über 1,5% sprechen, dann brauchen wir ca. 21 Jahre.
+Wenn Sie 2% nehmen, entsprechend schnell.
+Aber wir sprechen über lange Zeit.
+machen. Das ist aber nur der Anfangsprozentsatz der Tilgung. Wenn Sie über ein Annuitätendarlehen
+sprechen und sagen, okay, wir gehen rein mit einer Tilgung von 2%, dann heißt es, im ersten
+Jahr wollen Sie schon 2% tilgen. Im nächsten Jahr sind es dann schon 2,x, weil ja der Betrag
+kleiner geworden ist. Das heißt, weil aber die Zahllast die gleiche bleibt, geht die Tilgung
+hoch. So, und das schauen wir uns jetzt einfach mal an, um das nochmal zu verdeutlichen. Wir
+haben hier ein Festdarlehen, ein Ratendarlehen, ein Annuitätendarlehen, jeweils über 100.000
+Euro und eine Laufzeit von 5 Jahren. Der Zinssatz sei 5%. Jetzt ist es schon klar,
+das Festdarlehen
+das hat
+den höchsten
+Finanzierungseffekt
+warum?
+warum hat das Festdarlehen
+den höchsten Finanzierungseffekt?
+das ist total
+trivial, ich frage es jetzt trotzdem mal
+weil man keine
+zwischenzeitlichen Zahlungen hat
+Ich habe keine Tilgung während der Laufzeit, das heißt, das Kreditvolumen bleibt über die ganze Laufzeit bestehen,
+während bei den anderen Darlehensarten das Kreditvolumen über die Zeit schrumpft, zurückgeht.
+Das heißt, die Finanzierung, der Finanzierungseffekt ist entsprechend kleiner.
+obwohl ich über den gleichen Kreditbetrag spreche, weil das ist der, der zum Anfang herausgegeben ist.
+Natürlich habe ich bei so einem Endfälligkeitsdarlehen oder Festdarlehen,
+da habe ich natürlich das Problem, in fünf Jahren muss der auf einen Schlag getilgt werden
+und dann muss ich mir gegebenenfalls halt überlegen,
+dass ich rechtzeitig einen neuen Kredit aufnehme, der mir dabei hilft.
+Das zurückzufragen, oder ich muss solche Gewinne aufgebaut haben
+und auch mit Liquidität aufgebaut haben, um das bedienen zu können.
+Also das ist nicht trivial, da ist es schon einfacher mit dem Markenwahrnehmung.
+Wo ich sage, okay, jährlich zahle ich so und so viel ab.
+Zum Beispiel aus dem Rücklauf der Investitionen, die ich getätigt habe.
+So, wie sieht es jetzt aus, die Zahlungsreihe?
+Ich habe jedes Jahr bei einem Festerlehm den Zins zu zahlen,
+der bleibt natürlich dafür auch konstant.
+5% auf 100.000 macht 5.000 Euro.
+Die sind jedes Jahr zu zahlen und am Ende 100.000 rückzahlen.
+Bei einem Raten-Darlehen habe ich jedes Jahr eine Tilgung von 20.000.
+Das heißt, die Restschuld am Ende des Jahres sind dann 20.000 weniger als im Vorjahr.
+Entsprechend reduziert sich der Zins Jahr für Jahr.
+Am Anfang habe ich die vollen 5.000, weil 100.000, im nächsten habe ich nur noch 4.000 Zins, weil auf 80.000 bezogen, im übernächsten nur noch 3.000, weil auf 60.000 bezogen und so weiter.
+Also in Summe sehen wir hier, ja, die Tilgung muss natürlich auch wieder die 100.000 sein,
+aber der Zins, den ich zahle, ist entsprechend geringer in Summe, weil ich halt auch weniger
+Finanzierungseffekt habe.
+Und dann am Schluss haben wir das Annuitätendarlehen.
+Sie sehen jetzt hier über das Kredit, also Tilgung plus Zins, Sie sehen eine Verschiebung in der Zahllast.
+Aber hier sehen Sie einen kontinuierlichen Zahlungsbetrag, der sich zusammensetzt aus Zins und Tilgung, wobei sich dann die Verhältnisse verschieben.
+Am Anfang habe ich diese 5.000 Zins,
+aber eine Zwingung von 18.000
+macht in Summe diese 23.097.
+Und zum Schluss habe ich nur noch
+einen Zins über 1.100
+und eine Zwingung von 21.998,
+aber in Summe ist es gleich.
+Berechnet wird das Ganze,
+wie wir wissen,
+mit dem Wiedergewinnungsfaktor.
+also ganz einfache Geschichte
+dafür brauchen wir es auch ständig
+also Sie brauchen es für den Privatbereich
+wenn Sie an einen Wohnungskauf denken
+dann ist das die typische Form
+im Übrigen ist diese
+diese Verschiebung in der Tilgung
+und Zins, die wird viel größer nochmal
+wenn ich über einen langen Zeitraum denke
+Also wenn ich über 20 Jahre nachdenke, dann wird diese Verschiebung noch viel krasser.
+Zum Schluss sind es kleiner, sind es hohe Termine.
+Damit kommt es eben zu so einer Kurve.
+Nachvollziehbar für alle?
+Gibt es Fragen vielleicht noch zu der einen oder anderen Art von Darlehen?
+Dann haben Sie hier nochmal die Gelegenheit, die wichtigsten Charakteristika nochmal anzuschauen.
+Ist jetzt aber, was gäbe es hier nochmal zu betonen?
+Ja, klar, wir haben hier die Problematik der Refinanzierungsmöglichkeiten der Kreditinstitute.
+Wie können die sich bei der EZB, also wenn wir jetzt über deutsche Kreditinstitute sprechen,
+wie können die sich wiederum selbst Kredite verschaffen bei der EZB?
+weil nichts anderes ist als Fremdkapital.
+Die Höhe der Kapitalmarktsinhalte, okay.
+Im Übrigen ja genau, im Vergleich zu solchen Krediten, die sich ergeben aus einem Handelsgeschäft,
+habe ich hier natürlich einen ganz anderen Vorlauf, ich muss in Kreditverhandlungen gehen.
+Ich brauche einen sauberen Kreditvertrag.
+Also es ist nicht so einfach und es bedarf einer anderen Vorlaufzeit.
+Ja, und Laufzeiten, wir reden hier von langlaufenden Krediten,
+also oder bitte bis langlaufend, es wäre also mehr als ein Jahr und nach oben hoffen.
+Und auch wenn Sie mal den Anleihenmarkt sich anbieten,
+ja okay, das kommt nachher gesellt nochmal,
+aber das ist vielleicht vergleichbar.
+Sie haben Anleihen, die gehen 5, 10, 15, 20 Jahre und genauso gibt es auch entsprechende Darlehen.
+Natürlich bedeutet ein sehr langes, langlaufendes Darlehen was?
+Was muss dann der Kreditgeber, woran muss der glauben, wenn es ein sehr langlaufender Kredit ist?
+Oder
+Ja, das ist korrekt
+Das ist der eine Punkt
+Oder
+Also entweder
+Der muss zahlungsfähig sein
+Oder wie halte ich mich sonst schadlos
+eine wertstabile
+Sicherheit.
+Und da wären wir jetzt wieder bei
+Grundpfandrechten, Grundschuld
+oder Hypothek, die ja auch hergenommen
+werden können, um etwas anderes
+abzusichern. Das muss ja nicht der Kredit fürs Haus
+sein. Ich kann
+als Industrieunternehmen mit einem
+genialen
+Grundstück mitten in München,
+da kann ich gut Grundpfandrechte
+einrichten und Kredite
+absichern. Das wird
+eine Bank sehr gerne in Anspruch nehmen muss, weil das ist todsicher. So, jetzt wird es
+endlich ein bisschen aufwendiger beim Mitdenken. Jetzt gibt es einen Nominalzins, das wären
+jetzt zum Beispiel vorhin die 5% gewesen. Also das, was draufsteht, also wir verlangen
+einen Zins von, das ist der Nominalzins. Oder bei einer Anleihe. Eine Anleihe hat einen
+Coupon heißt das.
+Wird immer mit K-U-P-O-N geschrieben.
+Warum weiß ich nicht.
+Coupon.
+Da steht drauf 5%.
+Das ist der Nominalzins.
+Aber für Sie selbst
+stimmt der nicht ganz.
+Weil da gibt es noch irgendwelche anderen Details
+mit zu beachten.
+Irgendwie Gebühren, die zu zahlen sind.
+Für Arbeitsaufwand.
+Vielleicht, weil Sie nicht den vollen Betrag
+ausgezahlt bekommen, weil etwas zurückgehalten ist.
+Und dann müssen Sie sich Gedanken machen,
+Um es vergleichbar zu machen, auch zwischen verschiedenen Kreditanbietern, was ist denn der tatsächliche, was ist der Effektivzins?
+Also der Nominalzins, den brauchen wir zu der Zinsbrechnung und zu der Kreditrückzahlung.
+Das ist das, was vertraglich vereinbart ist.
+Der bezieht sich auf den Nominalwert des Kredits.
+also wenn du zahlst einen Kredit
+in Höhe von 100.000
+darauf 5%, dann ist völlig klar
+der Nominalzins sind
+5.000 Euro
+das war
+hier
+wiederholt 100.000 Euro
+Nominalzins 5%, dann haben wir die
+5.000 Euro
+so und wenn jetzt
+tatsächlich die Auszahlung des Kredits
+also ich kriege 100.000 Euro
+und die Rückzahlung des Kredits.
+Ich zahle auch 100.000 Euro zurück.
+Wenn das gleich ist
+und sonst nichts anderes bezahlt wird,
+dann ist der Nominalzins
+auch gleich der Effektivzins.
+Da fehlt noch was im Übrigen.
+Da könnte ich jetzt mal einen Punkt anführen.
+Und wenn keine zusätzlichen Gebühren
+bezahlt werden.
+Bearbeitungsgebühr.
+Weil auch die Bearbeitungsgebühr
+ist eine Belastung dieses Kredits,
+den ich umrechnen kann, diese Belastung kann ich umrechnen in einen Zins.
+Und da unterscheiden sich Bankhäuser zum Teil erheblich,
+was diese Bearbeitungskosten angeht oder das, was da normal in Anspruch genommen wird,
+weil damit auch zum Teil verschleiert wird, die dann doch höhere Verzinsung.
+Also muss ich es wieder machen.
+Fragen soweit?
+Nö.
+Und die Effektivverzinsung, das ist jetzt dann die objektive, die durchschnittliche Gesamtverzinsung eines Kredits, bezogen auf das jeweilige Jahr.
+Also immer auf ein Jahr bezogen.
+Wir sprechen sowieso immer, wenn wir von der Verzinsung sprechen, dann ist das quasi eine Konvention, dann sprechen wir, also wenn der Nominalzins definiert ist, dann heißt es bezogen auf ein Jahr.
+auch wenn wir über kurzfristige
+Darlehen sprechen
+die vielleicht nur über 3 Monate gehen
+und da steht drin 5%
+dann heißt es immer PA
+auch wenn er nur 3 Monate ist
+ja
+so, abhängig ist der
+das hatten wir vorhin schon
+vom Nominalzins, vom Auszahlungskurs
+vom Rückzahlungskurs, die 3 Sachen
+die hatten wir
+ja da gibt es vielleicht noch tilgungsfreie Jahre
+Die Tilgungsart, wenn ich pro Rata Tempo etwas zurückzahle, dann muss ich das mit berücksichtigen.
+Da werden wir eine Aufgabe machen, da sieht man auf einmal ein paar, da ist die Effektivverzinsung
+gar nicht mehr so leicht zu berechnen und die Zinszahlungstermine, also z.B. Vorlaufen,
+Rücklaufen.
+Wir haben uns hier im Übrigen darauf geeinigt, dass wir eigentlich immer und ich werde es
+nicht verändern, weil es kompliziert genug für Sie. Wir rechnen immer nachlaufend. Das
+heißt, am Ende des Jahres wird Zinsen auf das Jahr bezahlt. Aber es gibt durchaus Verträge,
+da heißt es, es wird vorlaufend bezahlt. Das ist natürlich nicht so gut für Sie als
+Kunde. Und das ist im Übrigen auch interessant, wenn Sie sich Tagesgeldanbieter anschauen.
+jetzt, ich war völlig
+erstaunt. Welche war das jetzt?
+Ich glaube, Volkswagen Bank bietet an,
+ein Fest,
+also eine Verzinsung von 2,9
+Prozent für die nächsten sechs
+Monate. Danach rutscht es wieder ab.
+Aber, was dabei ist,
+2,9 Prozent
+und der Zins wird monatlich
+ausgezahlt. Natürlich nicht 2,9
+Prozent, sondern dieser Anteil,
+also durch zwölf.
+Aber, was passiert dadurch?
+Weil die monatlichen Zinszahlen
+wird dieser Zins, gibt es eine Zinseszinszahlung
+dann auf die Folgemonate.
+Das ist ganz interessant.
+Machen andere Banken definitiv nicht.
+Die machen das immer am Ende des Jahres auf den Durchschnittswert.
+Ja, so.
+Jetzt kommt es mit den Nebenkosten.
+Nebenkosten, die sich auf den Kreditbetrag beziehen,
+können
+im Auszahlungskurs berücksichtigt werden.
+Also sprich, wenn es heißt,
+100.000 Euro ist der Kredit,
+aber Bearbeitungsgebühr,
+das ist der Höhepunkten, 1.000 Euro,
+dann ist der Kreditbetrag
+eigentlich nicht 100.000, sondern 99.000.
+Weil ja 1.000 Euro
+nicht ausbezahlt worden sind.
+Die wurden einfach einbehalten.
+Und dann linke Tasche, rechte Tasche.
+Ja.
+auch wenn es laufende, gleichmäßige Kosten gibt,
+dann muss ich die als Erhöhung des Nominanzinses interpretieren
+und muss sie entsprechend behandeln.
+Da fällt mir jetzt gerade kein Beispiel ein,
+aber vielleicht kommt es in der Übung.
+Jetzt schauen wir uns an, wie das gerechnet wird.
+Hier in dem Fall nähern wir uns der Sache an.
+Es gibt sehr genaue Verfahren und es gibt Nährungsverfahren,
+wo ich überschlägig sehr schnell auf die Zinsberechnung komme.
+Das hier ist jetzt ein Nährungswert sozusagen.
+Ich habe da einen Bezahlungskurs, ich habe einen Auszahlungskurs.
+Und wenn es da einen Unterschied gibt, weil das gibt es auch häufig,
+das heißt, okay, ich gewähre einen Kredit über 100.000 mit einem Auszahlungskurs von 98%.
+Oder andersherum, es muss rückgezahlt werden, 102%.
+Das ist denkbar.
+Dann ist die Näherung, normalerweise haben wir keinen Unterschied zwischen RK und AK,
+dann wäre es ja einfach der Zins bezogen auf den Auszahlungskurs.
+Also dann wäre es einfach, also diese 5%, also Z ist der Nominalzins durch 100.000.
+In dem Fall sage ich aber, okay, es ist die Differenz zwischen Rückzahlungs- und Auszahlungskurs
+und die muss ich durch die Anzahl der Jahre teilen.
+Wenn ich also eine Laufzeit von 5 Jahren habe,
+und bei Leuten dieser Unterschied in RK und AK,
+Dann bedeutet das, ich muss die 1.000 auf 5 Jahre verteilen.
+Das heißt, ich habe eine zusätzliche Zinslast pro Jahr von 200 Euro.
+Richtig?
+Und die beziehe ich auf den Auszahlungskurs, also das, was ich tatsächlich erhalten habe.
+Nicht die 100.000, sondern die 99.000.
+So, bitte denken Sie jetzt mal, Sie vereinbaren ein Kreditvolumen von 100.000 Euro, Laufzeit
+5 Jahre, Nominalzins sei 4,25% und das Disagio wird vereinbart mit 3%.
+Das klingt schon feiner, das Disagio.
+Was ist ein Disagio?
+Disagio ist quasi ein Teil des Kredits, der zurückgehalten wird von der Bank.
+Also eine Erniedrigung des Auszahlungskurses.
+Wie hoch ist jetzt der Effektivzins?
+Nein. Was haben Sie gerechnet? Können Sie kurz sagen?
+Das ist richtig, bitte Prozent angeben, haben Sie gerade noch die Kurve gekillt und zwar
+mit zwei Nachkommastellen, also 5,00 Prozent, habe ich hier jetzt dummerweise nicht gemacht,
+Aber es ist hier glatt.
+Ich zeige es Ihnen.
+Sehen Sie Ihren Fehler?
+Dann zeigen Sie mir mal kurz, was Sie gerechnet haben.
+Ich habe 0,0425.
+Ja.
+0,0331.
+Ah, 0,05.
+0,03.
+0,03.
+Durch 5, ja.
+Durch.
+Durch.
+Ja, das passt.
+Hallo.
+Ja, genau so läuft das.
+Also hier werden das die 4,25%
+plus 3%
+durch 5, die Laufzeit.
+Und das Ganze bezogen auf
+1 minus 3%.
+So, Obacht.
+Ich sage jetzt etwas, was ich immer wieder betonen muss,
+weil es in den Klausuren falsch läuft.
+Wir arbeiten hier jetzt rein mit den Prozentwerten.
+Das ist möglich.
+Können Sie?
+Aber Sie können natürlich noch komplett rechnen in den Absolutwerten.
+Das ist genauso möglich.
+Sie hätten jetzt stattdessen auch rechnen,
+und dann müssen Sie es aber durchhalten.
+Dann müssen alle Werte als Absolutwerte genutzt werden.
+Das kann nicht 4,25 und dann mit Absolutwerten, sondern sie müssen komplett Absolut.
+Das würde hier bedeuten, bei 100.000 Euro sind es 4% auf 100.000 Euro.
+Also sind es 4.250 plus 3.000 durch 5 geteilt durch 97.000.
+Das würde genauso natürlich funktionieren.
+Aber Sie dürfen nicht mischen Prozent und Absolutzahlen.
+Wird häufig gemacht, führt zu Fehlern.
+Ich weiß echt noch nicht, wie ich das in Polen mehr erzeugen kann.
+Das ist doch total idyllisch.
+Da müssen wir nichts merken, das einfach herleiten.
+Sie haben die Nominalverzinsung und Sie haben das Disagio, das verteilen Sie auf die Jahre.
+Natürlich beziehen Sie es auf den Auszahlungskurs oder die Auszahlung.
+Ja, also da muss man ja gar nicht lernen, eigentlich.
+Die Generationen vor Ihnen haben es alle geschafft.
+So, zweiter Punkt, und dritter Punkt, Schuldscheindarlehen, Vorsicht, Schuldscheindarlehen sind nicht Schuldverschreibungen.
+Also das können Sie sich dann nochmal irgendwo vermerken, Schuldscheindarlehen, nicht Schuldverschreibung.
+Das Schuldschein daneben, das ist jetzt ein Großkredit, der aufgenommen wird und vereinbart wird zwischen zwei ganz dicken Marktteilnehmern.
+Kann zwischen 1 und 15 Jahre andauern und Sie sehen schon die Beträge, meist über 20 Millionen.
+Und das von einem oder zwei Marktteilnehmern, also ein Geber, ein Nehmer.
+Das heißt schon, da stecken große Konzerne dahinter, wenn sowas passiert.
+Der ist jetzt nicht verbrieft.
+Also dieses Schuldschein-Darlehen ist nicht verbrieft, also nicht vom Diebel, kann nicht weitergereicht werden.
+Nicht am Kapitalmarkt handelbar.
+Aber außerbörslich kann es gehandelt werden.
+Dann ist es eine Förderungsabtretung.
+Das ist theoretisch denkbar, aber das muss dann quasi auch in dem Vertrag drinstehen.
+Und es könnte im Vertrag drinstehen, dass eine Abtretung nicht statthaft ist.
+Könnte es sein.
+Jetzt werden zwei davon unterschieden.
+Einmal das fristenkonkurrente Schuldschein der Leben und auf der anderen Seite das revolvierende Schuldschein der Leben.
+Fristenkonkurrente heißt, okay, das ist für eine bestimmte Laufzeit platziert.
+Das ist, solange brauche ich den, ist die Überlegung.
+Danach kann ich es kurz zurückzahlen, dann habe ich diesen erhöhten Finanzbedarf nicht mehr.
+Und jetzt heißt es, dass das Risiko beim Kreditgeber etwas höher ist.
+Warum? Weil er ist halt fix daran gebunden, an die vereinbarte Laufzeit.
+Und das kann halt eine lange Laufzeit sein.
+Dadurch verschiebt sich das Risiko oder erhöht sich das Risiko des Emittenten,
+Und das Risiko an der Ausfall eines Ausfalls erhöht sich bei dem Kreditgeber.
+Deswegen ist dann auch der höhere Zins, ist ein höherer Zins zu erwarten als bei dem Revolvierenden.
+Beim Revolvierenden heißt es, Jahr für Jahr muss der prolongiert werden, muss verlängert werden.
+Und dann habe ich halt als Kreditnehmer das Risiko, dass mir eines Tages der nicht verlängert wird.
+Und dann stehe ich da, habe einen riesigen Kredit aufgenommen, den ich eigentlich gedacht habe, weiter zu revolvieren und auf einmal stoppt.
+Das wäre ein Finanzierungsrisiko dann bei dem Kreditnehmer.
+Einmal, und zusätzlich kommt es dazu, dass der Zins sich dann während dieses Kredits einfach verändern kann.
+Für wen trifft sowas zu, oder wer kann sowas machen?
+Natürlich nur Schuldner mit einwandfreier Sterbonität, was weiß ich, ein Siemens Konzern,
+der auf die Allianz zugeht, der kann sowas machen.
+Der Vorteil für den Kreditgeber ist, dass ich wahrscheinlich vergleichsweise niedrige
+Zinsen hat, im Vergleich zur Anleihe?
+Erhalt.
+Ja, aber ohne den Anfall
+und ohne
+den Anfall von Emissionskosten.
+Beides.
+Vergleichsweise niedrige Zinsen.
+Genau.
+Aber zusätzlich
+auch noch
+der Wegfall
+von Emissionskosten, weil der Gang
+an die Börse ist ja nicht
+kostenlos. Ich brauche
+Hilfeleihen und das ist eine
+Aktion, das
+in den Markt zu bringen.
+So, jetzt
+kommt
+die Schuldverschreibung.
+Das ist die Anleihe.
+Anleihe, Schuldverschreibung,
+Bond, Obligation ist alles
+dasselbe.
+Der große Vorteil davon ist, dass ich eine Anleihe begeben kann und da erhoffen kann, dass durch die breite Anlegerschaft, also eine Vielzahl von möglichen Anlegern, dass ich die Anleihe platziert bekomme.
+Es ist verbrieft, kann an der Börse gehandelt werden oder wird an der Börse frei gehandelt und das kann sich über sehr, sehr hohe Gesamtbeträge handeln, also es kann sein, dass über eine Anleihe sozusagen ein Kredit aufgenommen wird über eine Milliarde Euro, aber dann gestüttelte, ja wobei das mit den 100 Euro, das gibt es quasi nicht mehr, also es ist heutzutage mindestens 1000.
+Ich muss ihn mal reinschreiben.
+Also, dazu muss ich gleich nochmal was sagen zu den Stückelungen.
+Also Sie werden sehr, sehr viele finden mit tausender Stückelung.
+Aber es gibt einen Trend zu beobachten, dass Anleihen begeben werden in Zehntausender und auch in Hunderttausender Stückelungen.
+Was wird da für der Grund sein?
+Weil Sie als Privatier haben definitiv keine Lust, in Hunderttausender Stückelungsanleihen zu kaufen.
+Was ist der Grund dafür, dass es immer mehr Hunderttausender Anleihen gibt?
+Was könnte der Grund sein?
+Ja?
+Vielleicht über ETFs, dass die dann eine Rolle spielen, dass man halt gebündelt einkauft
+und dann hat man einen Teil davon.
+Genau, also das heißt, wer steckt dahinter, hinter dem Kauf?
+Eine Anleihe, eine Aktion.
+Nein, nein, wer steckt hinter dem Kauf, dann der Anleihe.
+Das sind sie ja dann nicht.
+Genau, also institutionelle Anleger.
+Das weiß ich wie ein BlackRock oder iShares oder Am...
+Ach, was ist das?
+Amal?
+Ah, egal.
+Ja, also da kann ich davon ausgehen.
+und Sie kaufen quasi viel Anleihen über Renten-ETFs.
+Da steckt ja nichts anderes dahinter,
+also wenn wir über einen Renten-ETF sprechen
+und einen Rentenfonds,
+da steckt nichts anderes dahinter als Anleihen.
+Das Gegenstück dazu sind Aktienanleihen
+und dann gibt es sogenannte Mischanleihen.
+Wenn Sie wollen, kann ich Ihnen ein kurzes Beispiel zeigen.
+Ja, also machen wir es kurz online.
+Also, ich hoffe, ich bin hier im Nutz, ja.
+Ich gehe mal auf die Bank.
+Ich kenne sie vielleicht.
+Noch einen Blick.
+So, die kennen Sie vielleicht, diese Bank, dann gehen wir hier auf Wertpapierhandel, Wertpapiersuche
+und gehen auf Anleihen, guck, da bietet 9.000 an, 9.000 Stück und jetzt schränke ich noch
+ein bisschen kurz ein, was weiß ich, Restlaufzeit, ok, ich kann jetzt kaufen an der Börse, weil
+frei handelbar, und dann sage ich aber, ich interessiere mich für vielleicht welche,
+die nun eine Restlaufzeit haben von ein bis zwei Jahre, weil da kann man, also das ist
+dann auch relativ sicher, dass die zurückgezahlt werden, wäre eine Restlaufzeit fünf Jahre
+im Automobilbereich? Hm, weiß nicht.
+So, das ist das eine.
+Dann sagen wir mal,
+Handels,
+da steht schon eine Einschränkung drin, Handelsmindestgröße
+über 1000 Euro ausschließend.
+Das wären diese 10.000 oder 100.000,
+die interessieren mich da nicht, das ist ausgeschlossen.
+Macht der jetzt schon von sich aus.
+Dann sage ich natürlich,
+also Variable Verzinsung,
+die möchte ich bitte
+ausschließen. Sehen Sie, okay,
+sind schon weniger Ergebnisse.
+Auch nachrangig soll er nicht sein.
+Warum? Was ist das?
+Was heißt nachrangig?
+Ich, ja.
+Es hat Auswirkungen auf die Verzinsung.
+Die nachrangigen sind höher verzinst, aber warum?
+Weil das Risiko höher ist.
+Nachrangig heißt, im Fall einer Illiquidität
+wird diese nachrangig behandelt,
+also kommt ganz ans Ende.
+Das heißt, die Chance, dass man leer ausgeht
+bei einer Iniquität, ist sehr hoch.
+Deswegen,
+nö, wollen wir nicht.
+Also raus damit.
+Sind schon wieder weniger.
+Und vorzeitig kündbar können sie auch sein.
+Die will ich auch nicht.
+Weil dann kann ich nicht rechnen,
+meinen Effektivzins.
+Weil wenn der dann unterjährig ausschreit,
+und ich zahle jetzt vielleicht,
+weil der eine hohe,
+naja, das schauen wir uns gleich an.
+Jetzt gucken wir uns mal an, was das ergibt.
+Ah, und dann will ich auch noch, sorry, ich will auch noch eine Währung einschränken, nämlich auf Euro.
+Keine Lust, dann noch Währungsrisiko mitzuschleppen.
+Und wenn ich jetzt in eine Anleihe gehe, die in US-Dollar ist, dann habe ich ein Währungsrisiko.
+So, und dann kriegen Sie so eine Liste.
+Jetzt nehmen wir mal eine raus, die RCI Bank.
+Das ist eine französische Bank, die gehört zum Renault, oder ist Renault-Konzern sozusagen.
+Also da, was Renault etc. ist.
+Schauen wir uns an, die hat eine Nominalverzinsung von 3,75%.
+Das ist ja wesentlich höher als zur Zeit der Marktzinses.
+Also hier sehen Sie, oh sorry, Sie sehen hier den Coupon, das ist die Nominalverzinsung und der liegt hier bei 3,75%.
+Aber, ich habe eine Restlaufzeit von 1,8 Jahren und tatsächlich wird mir angegeben, eine Rendite von nur 2,83%.
+Ja, wie kann jetzt das sein?
+Also der Nominalsitz ist 3,75, aber erwarten darf ich nur 2,83.
+Warum? Frage an Sie.
+Richtig. Der Zins, der Coupon ist so hoch, dass der, und die ist einigermaßen sicher, die RCI-Bank,
+dann kann ich mehr verlangen als die 100 derzeit.
+Schauen wir uns kurz an und tatsächlich wird die mit 101,425 gehandelt.
+jetzt sehen wir, wir haben dann noch 1,8 Jahre
+Restlaufzeit, das ist der Grund
+ja, wenn wir uns das mal über 5 Jahre anschauen
+dass das jetzt auch so langsam wieder runter geht, weil wir kommen so langsam
+auf die Zielgerade, je näher wir an das
+an die Endfälligkeit kommen, desto näher
+ist es dann auch wieder bei den 100%
+ja, und genauso
+ist es hier nochmal ausgewiesen, die Rendite, die ich mir
+rechnen kann, sind die 2,83
+bei einem Coupon von 3,75
+und jetzt können wir uns auch
+das nochmal kurz anschauen, die machen das nämlich ganz nett.
+Die sagen mir, okay,
+die Rendite, die hier berechnet wird,
+das ist die laufende Verzinsung
+plus der Tilgungsgewinn,
+das ist genau dieses, ich habe jetzt
+einen negativen Tilgungsgewinn, weil ich
+101, irgendwas zahle, ich kriege aber
+nur 100 zurück, also habe ich einen Tilgungsverlust.
+Den muss ich also
+abziehen.
+Und diesen Tilgungsverlust muss ich aber über die Jahre
+verteilen. Das ist
+dieses Rückzahlungskurs
+minus Auszahlungskurs durch
+jetzt Restlaufzeit.
+Genau diese Rechnung
+findet hier statt. Also hier
+sehen Sie Einlösungskurs minus Briefkurs.
+Briefkurs ist der Kaufkurs,
+den Sie jetzt bezahlen müssen
+durch die Restlaufzeit
+und das Ganze auf den Briefkurs
+bezogen, also das, was Sie tatsächlich bezahlen.
+Sie erinnern sich dran an die Formel.
+Da stand unten drin
+durch den Auszahlungskurs.
+Das ist genau dasselbe, was hier steht.
+In dem Fall heißt es also,
+ich habe den Coupon mit 3,69%
+plus den Tilgungsverlust, das sind 0,86%,
+alles bezogen auf ein Jahr,
+macht dann 2,83% bezogen auf die Gesamtlaufzeit.
+Es ist eine Ernährungsformel.
+Auch hier, die bedienen sich an Ernährung.
+So, was jetzt hier nicht dabei steht, das ist ein bisschen gemein.
+Weil jetzt können Sie sagen, oh, das ist deutlich mehr als Tagesgeld oder sowas.
+Tagesgeld, wenn es hoch kommt, liegen Sie bei 1,5%.
+Aber was jetzt noch nicht mit drin ist, ist, dass Sie,
+also bei so Online-Banken hätten Sie jetzt noch die Kaufkosten zu stemmen.
+Die liegen dann bei 0,25% plus 4,90€.
+Also wenn Sie 10.000 Euro investieren, sind Sie bei ca. 0,3%.
+Die müssen Sie noch abziehen, dann sind Sie bei 2,5%.
+Der Witz, wenn Sie Aktien kaufen, dann müssen Sie die auch wieder verkaufen.
+Dann haben Sie nochmal diesen Kauf.
+Dann haben Sie Verkaufskosten.
+Wenn Sie auf Anleihen setzen und auf die Restlaufzeit,
+dann heißt das, Sie warten auf den Endfälligkeitstermin.
+Dann wird er zurückgezahlt und dann gibt es keine Verkaufskosten.
+Und dann wird einfach zurückgezahlt, ohne dass dann nochmal Gebühren anfallen.
+Das macht es günstiger.
+Wiederum, oder die Verzinsung, oder die Abschläge werden geringer dadurch.
+Konnte ich Ihnen damit jetzt etwas zeigen?
+Wir suchen uns jetzt noch ganz kurz mal einen Fall raus, wo wir...
+Können wir da ein anderes Beispiel?
+Ja, genau.
+Da heißt es vor allem 17%.
+Bitte?
+Ganz oben.
+Also...
+Und hier dürfen Sie schon davon ausgehen, wenn Sie 17 Prozent...
+Was ist das? Was bedeutet das?
+Kurze Insolvenz.
+Finger weg.
+Sie werden hier einen Kurs haben, der spiegelt wieder die Erwartungen auf die Rückzahlung.
+Und der Kurs ist hier bei 88 Prozent.
+Ja, das wären zwölf, zwölf Prozent.
+Und der hat eine Restlaufzeit.
+Ich verstehe den nicht so ganz.
+Der hat noch ein Jahr Restlaufzeit.
+Aber offensichtlich sind sich da die Leute nicht so einig,
+ob der tatsächlich noch zurückgezahlt wird
+also deswegen grenze ich zum Beispiel
+auch ein, wenn ich versuche
+in einem, ich sage
+die muss mindestens so und so viel Prozent
+da kriege ich nämlich auch die angezeigt
+aber maximal
+eigentlich maximal 3,5%
+das wäre dann schon verflixt hoch
+alles was drüber ist, ist schon für mich
+Junkbomb
+Also, nicht mehr anfassen.
+Da haben andere sozusagen für mich eine Bewertung abgegeben und sagen,
+hm, heißes Eisen.
+Ja, aber in meinem Moderat,
+also wir hatten jetzt hier ein Coupon von,
+also vorhin bei der Bank hatten wir ein Coupon von 3,75,
+jetzt zoomen wir uns mal einen geringeren aus, 1,9 bei Goldman Sachs.
+Und wir sehen jetzt aber trotzdem einen Effektivzins von 2,72.
+Das heißt jetzt halt tatsächlich auch, also die wird wohl zurückgezahlt.
+Aber ich habe jetzt deutlich unter 100, kann ich den kaufen.
+Weil einfach die 1,9%, auch bei der Bonität, die man diesem Goldman Sachs zuweist, zu wenig sind.
+Also die 1,9% hat er ausgewiesen.
+mehr. Die sind zu wenig.
+Da möchte ich etwas mehr, weil die
+Bonität ist jetzt nicht AAA oder sonst
+was, sondern die liegt bei BB
+oder so.
+Und deswegen
+werden nur 99%
+bezahlt.
+Auch da
+genau diese Berechnung.
+Also ich habe die
+laufende Verzinsung, 1,93%
+plus
+die 0,79.
+Das ist der
+Tilgungsgewinn
+und das ergibt meinen
+Effektivzins. Im Übrigen,
+wenn Sie sich so etwas anschauen,
+wie Sie wollen das machen und
+Sie sehen, die nächste Auszahlung
+wäre jetzt zum Beispiel aus heutiger Sicht
+am 15.12., dann dürfen
+Sie nicht erschrecken,
+dann wird Ihnen nämlich ein Kaufkurs,
+oder dann werden Ihnen Kaufkosten in Rechnung gestellt,
+die höher ist als der Briefkurs,
+den Sie sehen.
+Und Sie fragen, hä?
+Warum? Weil darin enthalten ist der Zins für die bis heute aufgelaufenen Tage.
+Ich würde ja sonst kassieren einen Zins für ein Jahr, obwohl ich das Ding nur 15 Tage gehalten habe.
+Verstehen Sie?
+Das heißt, dem anderen, dem ich es abkaufe, muss ich den Zins, den Nominalzins, muss ich den natürlich zahlen.
+Summarum kommt es dann trotzdem auf diese Effektivverzinsung.
+abzüglich der Kaufkosten,
+die ich meiner Bank abdrücken muss.
+Wenn Sie bei
+Trade Republic sind,
+ich glaube, da haben Sie null Kaufkosten.
+Und dann müssen Sie sich auch noch anschauen,
+wenn Sie zur Sparkasse oder sowas gehen,
+dann haben Sie auch noch Depotführungskosten.
+Das heißt, pro Linie haben wir 0,15 Prozent, die jährlich abgezwackt werden.
+Das ist auch nicht ganz doll.
+Das spricht auch für Online.
+Also, jetzt haben wir mal den Ausflug gemacht.
+Konnte ich Ihnen das ein bisschen dadurch näher bringen.
+Ja, der Markt ist also jetzt für das Unternehmen der Kapitalgeber, also die vielen einzelnen Anleger.
+Emittenten können sein, Unternehmen, aber auch Staaten oder Privatinstitute selbst, die gehören für mich aber auch zu Unternehmen.
+So, und jetzt gibt es sehr unterschiedliche Arten der Ausgestaltung.
+die normal ist, ist das was wir gerade
+angeschaut haben, die festverzinsliche Anleihe
+und das bedeutet eben auch für mich
+als Anleger
+ich kann mich auf etwas verlassen
+ich kann damit rechnen
+wenn ich eben jetzt diese Effektivverzinsung errechnen will
+dann kann ich damit arbeiten
+es gibt aber auch
+andere, das sehen Sie in der zweiten Zeile
+da gibt es dann zum Beispiel Variable Zinsen
+die sich über die Jahre verändern können, die sich zum Teil auch festmachen an den Veränderungen im Marktzins.
+Das hat nicht vorhin weggeklickt, wenn Sie sich erinnern.
+Ich möchte keine sehen mit variablen Verzinsungen.
+Die gibt es. Das muss nicht unbedingt schlecht sein, aber ich kann halt schlecht damit rechnen.
+Das ist mein Problem. Ich möchte einschätzen können, was ich tue.
+Und dann gibt es noch ein Extremum.
+Das wäre die sogenannte Null-Coupon-Anleihe.
+Die hat Null Zins.
+Da ergibt sich der Zins quasi rein aus der Differenz aus Rückzahlungs- versus Auszahlungskosten.
+Da habe ich keinen Nominalzins mehr.
+Warum gibt es die?
+Für wen ist das interessant?
+Jetzt gehen wir es mal kurz durch.
+Also, erstens haben wir die ganz normale festverzinsliche Anleihe.
+Da habe ich also über die Gesamtlaufzeit einen klar definierten festen Zins.
+Wir sprechen hier von diesem Coupon, wenn wir die Anleihe anschauen.
+Der ist vorab geklärt und vereinbart.
+Am Schluss wird getilgt von dem Unternehmen, was diese Anleihe begeben oder emittiert hat,
+durch Rückzahlungsanleihen.
+Jetzt gibt es ein Floating Rate.
+Das wäre das mit variabler Verzinsung.
+Und jetzt kommt es darauf an, da müssten Sie in dem Wertpapierprospekt nachschauen,
+wonach richtet es sich denn, weil da gibt es unterschiedliche.
+Kann zum Beispiel angehängt sein an die Verzinsung der Marktentwicklung,
+dann gibt es einen Referenzzinssatz, Libor oder Euribor.
+Allerdings mit Abschlag
+oder mit Aufschlag
+Also was heißt denn
+Libor
+Das ist der
+London
+Interbank
+Offered Rate
+also das heißt
+das ist der Zinssatz
+zu dem
+große
+Londoner Banken
+kurzfristige Kredite anbieten.
+Und zwar untereinander.
+Anderen Gruppen.
+Also so muss ich zu den großen Londoner Banken halt anderen, so muss ich sagen, anderen großen
+Banken, weil es geht eben nicht gegenüber Privatkunden oder Unternehmen, kurzfristige
+Kredite anbieten.
+Also deswegen Interbank, London, Interbank, Offertrade.
+So refinanzieren sie sich zum Teil eben untereinander.
+Und der EU-Report, das ist der Euro Interbank Offered Rate.
+Heißt, Zinssatz zu den großen Banken, andere große Banken, kurzfristige Kredit in Euro anbieten.
+Ich verkürze das jetzt einfach mal. Euro-Kredite zwischen großen Banken im Euro-Raum.
+Zwischen großen Banken. So verkürzt.
+Also das hier einfach mal, Sie werden das öfter lesen, Euribor oder Libor, das wird
+man öfter auch in solchen Beschreibungen lesen und dann wissen Sie wenigstens, wo es herkommt.
+Gibt es soweit noch Fragen? Also es wäre die Floating Rate Note oder Floating Rate Anleihe
+oder Bond, Floating Rate.
+Und jetzt kommt das, was ich Ihnen gesagt habe,
+schon wieder, Zero Bond.
+Zero Bond oder Null Coupon Anleihe
+heißt kein Zins nominal,
+ohne laufende Zinszahlung.
+Es gibt eine Emission zu einem Kurs,
+der deutlich unter dem Rückzahlungskurs ist.
+Das kann jetzt mit Abschlag sein,
+also der Auszahlungskurs ist mit Abschlag
+oder der Rückzahlungskurs ist mit Aufschlag.
+Hauptsache es gibt eine entsprechende Differenz, die in Summe eine sinnvolle Verzinsung über die Jahre bedeutet.
+Für das Unternehmen, was den Zero-Bond begibt, also emittiert, heißt es, okay, ich habe keine laufenden Zinszahlungen zu leisten.
+Nur, am Ende habe ich einen höheren Hub der Rückzahlung, weil darin alle Zinsen enthalten sind.
+Also hohe Liquiditätsbelastung zum Schluss.
+Frage an Sie. Warum ist denn das ein interessantes Instrument?
+Also meines Erachtens ist das weniger gebildet worden, um die unterjährige Zinszahlungslast des Emittenten zu reduzieren,
+sondern weil man sich da einen besonderen Markt verspricht zum Teil.
+Was könnte der Grund sein, für einen Anleger in Serobons zu gehen?
+In welchen Lebensabschnitt?
+Was könnte der Grund sein, für einen Privatanleger, mit Blick auf einen bestimmten Lebensabschnitt, in Serobons zu investieren?
+Ich habe es jetzt noch nicht so ganz verstanden.
+Aber es sind welche, wo...
+der hat, was weiß ich, 10 Jahre Laufzeit
+10 Jahre Laufzeit
+aber kein Zins
+kein festgesetzten Rückzahl
+wird ausgegeben mit 88%
+und zurückgezahlt mit 100%
+oder wird ausgezahlt mit 100%
+beziehungsweise
+der Kurs ist
+am Anfang 100% und Sie kriegen aber 112%
+auf Schluss
+daraus errechnet sich
+eine Jahresverzinsung
+schon, wenn jemand lange nicht
+Wenn das Geld dran muss, dann macht das am meisten Sinn.
+Ja, sowieso. Bei Anleihen gilt das immer.
+Oder Sie können auch Anleihen immer wieder verkaufen.
+Aber für wen ist so eine Null-Coupon-Anleihe von besonderem Interesse?
+In welchem Abschnitt?
+Privatanleger.
+Das ist ja relativ früh.
+Das ist eine private Optimierung. Private Steueroptimierung. Jetzt schubse ich Sie schon.
+Werden da keine Steuern drauf bezahlt? Doch.
+Aber wann denn die Steuern bezahlt werden?
+Bei der Auszahlung.
+Richtig.
+Und wann werden die Steuern auf andere Zinsen bezahlt?
+Immer dann, wenn sie gezahlt werden.
+Und wann ist es interessant, das in die Zukunft zu verschieben?
+verschieben. Das ist falsch, wiederum. Sie zahlen nach wie vor Steuern, allerdings ist
+ja die Rente deutlich niedriger als Ihre Einnahmen im Berufsleben. Das heißt, wegen der Steuerprogression
+kommen Sie auf einen niedrigeren Grenzsteuersatz. Das heißt, die Zinsen werden deutlich niedriger
+versteuert.
+Wie ist das Berufsverdienst gerade gesagt?
+Steuerprogressionen.
+Je mehr Sie verdienen, desto höher ist der
+also für jeder Euro,
+den Sie zusätzlich verdienen, ab einem gewissen
+Niveau, wird höher versteuert.
+Ja, genau.
+Und wenn Sie halt
+über diesen Grenzsteuersatz
+eh drüber sind, wird alles mit 42%
+was dazukommt, versteuert.
+Wenn Sie jetzt aber dann runterfallen in der Rente, in den Bereich von 35% Grenzsteuersatz,
+dann ist das natürlich nicht wenig.
+Wenn Sie auf diese Gesamtrentierlichkeit einer solchen Anlage schauen,
+dann bedeutet das eine deutliche Verbesserung.
+Geht man davon aus, dass man irgendwann einen bekommt?
+Ja, nur in welcher Höhe? Wie sichern Sie sich dagegen ab?
+Privatkonsumenten. Machen Sie jetzt schon?
+Jetzt schon? Ja?
+Ja, passend. Passend? Wie geht denn das?
+Ich habe vor dem Studium eine Ausbildung gemacht und da habe ich, glaube ich,
+Sie investieren in Wertpapiere und versuchen darüber ein, und das ist nicht nur ein kleines zusätzliches, sondern ein ordentliches zusätzliches Polster aufzubauen.
+Das müssen Sie tun.
+Ich zahle gerade nichts ein.
+Jetzt sind Sie gerade im Studium, das ist schwierig.
+Das ist ja logisch, aber das liegen lassen macht schon Sinn und vor allem bei Aktien-ETFs
+müssen wir auch sagen, also mindestens 10 Jahre muss es liegen bleiben, weil die Wahrscheinlichkeit
+sonst, dass sie Verluste hinnehmen oder realisieren, ist halt dann doch gegeben.
+Ja, also das ist schon, also vor dem Hintergrund der derzeitigen Diskussionen in Deutschland
+kann ich jedem nur raten, für einen Zusatzbaustein ordentlich zu sorgen.
+Weil das, was da gerade passiert, ist das Augen verschließen vor der Realität.
+Wenn ich sehe, dass die Renten ab dem 1.1. um 3,75% steigen,
+das verdreht es mir in den Magen.
+Ich wohlwissend, dass es natürlich unterschiedliche Schichten gibt
+und es gibt Leute, die auf Kante genäht sind, wo es problematisch ist, aber dann muss man halt differenzieren.
+Also wo die einfach zu geringe Rente haben, die gibt es bestimmt auch.
+Gut, jetzt gibt es hier Varianten, so wie ich eben sagte, es gibt die Abzinsungsanleihe,
+das heißt, es gibt eine Ausgabe unter Nennwert und die Rückzahlung ist dann genau auf 100
+oder es gibt eine Aufzinsungsanleihe, dann habe ich halt die 100% Ausgabe,
+Also Sie zahlen die 100, wenn Sie zeichnen.
+Und der Erste, der die kauft, der zeichnet die Anleihe.
+So nennt man das.
+Der erste Käufer ist der Zeichner.
+Aber das heißt nicht, dass Sie das jetzt zu einer Namensanleihe machen,
+sondern Sie sind halt derjenige, der die zuerst gekauft hat.
+Und damit ist es dann in der Börse. Fertig.
+Aber irgendeiner muss sich halt mal Initiativ kaufen.
+Haben wir das?
+Was finden wir hier?
+Echt?
+Ja, das ist schlecht.
+Haben wir jetzt nicht?
+Haben wir endlich einen Termin?
+Dann haben wir jetzt einen Endlitzermin.
+Ich muss mir vielleicht was anderes einfallen lassen für die nächsten Semester für diese Kurse,
+dass man vielleicht als begleitende Aufgabe sagt,
+okay, jeder soll diese Banken, diese Online-Banken zumindest bieten an,
+dass man so eine Watchlist macht.
+Da kann man sich quasi ein Depot zusammenstellen aus verschiedenen Aktien, auch mit verschiedenen Mengen von Aktien und dass man dann quasi sagt, okay, wir bilden Teams, jedes Team muss sich so ein Depot zusammensetzen und wir vergleichen, wie sich das über die Zeit verändert.
+Also nicht von heute Morgen bis heute Abend, sondern Anfang des Semesters.
+Ja, das fände ich mal ganz interessant.
+Oder man muss es noch, gut, das würde Sie dann nicht betrachten, man nimmt ein Komplettstudium ganz her und dann lässt man das weitergehen bis zum Ende.
+Das wird vielleicht auch was bringen, was diese Instrumente angeht.
+Gut, jetzt kommen wir in den Bereich der Messanin-Finanzierung.
+Was heißt Messanin? Erinnern Sie sich dunkel? Was war Messanin?
+Mesanin wird verwendet
+für sowohl als auch
+es werden
+Eigenschaften, Merkmale
+von sowohl Eigen- als auch
+Fremdfinanzierung vereint
+ich kann es nicht mehr so richtig
+Ich sage, ist es eigen, ist es Fremdfinanzierung.
+Eine Anleihe an sich ist auf jeden Fall Fremdfinanzierung.
+Jetzt gibt es aber eine Wandelanleihe, die mir verspricht,
+die heißt auf Englisch dann Convertible Bond, also Wandel, Convertible Bond.
+Die sagt mir, okay, ich kann zu einem, in einer bestimmten Zeit,
+kann ich diese Anleihe umtauschen in Aktien, zu einem festgelegten Kurs.
+Die Schuldverschreibung hat so einen fixen Zinscoupon
+Und ich kann halt entscheiden, was ist mir lieber, den Kurs zu realisieren der Aktien,
+was vielleicht mir höhere Gewinne verspricht oder gute Aussichten spricht,
+oder ich bleibe bei dieser Anleihe mit dem festverfügten Zinssatz.
+Der Witz dabei ist, dass mit diesem zusätzlichen Versprechen, dass ich wandeln darf,
+geht auch ein etwas mietigerer Zins einher meistens.
+Ja, das ist die eine
+Messerdienstfinanzierung
+basierend auf einer Anleihe und das andere wäre
+die Optionsanleihe
+hier habe ich einen zusätzlichen
+Coupon sozusagen, eine Option
+die dranhängt an der Anleihe
+die mir verspricht, diese Option
+darfst du nutzen
+um Aktien
+zu einem bestimmten Kurs zu kaufen
+dann bleibt die Anleihe
+bestehen, also diese Antifremdfinanzierung
+bleibt stehen, aber zusätzlich
+kann ich eben
+Aktien erwerben zu einem bestimmten Kurs.
+Und das können jetzt zum Beispiel
+zurückgekaufte Aktien gewesen sein, die ich
+dafür bereit halte.
+Das heißt, beim zweiten Fall, also bei der
+Optionsanleihe, bleibt die Rückzahlung
+des Anleihetags, die bleibt
+unmöglich. Bei der Wandelanleihe,
+da habe ich tatsächlich,
+wenn Sie in,
+was bedeutet das für das Unternehmen?
+Bei der Wandelanleihe, wo steht denn die Anleihe drin?
+Wenn ich als Unternehmen eine Anleihe begebe, wo steht die drin?
+Hier in der Bilanz.
+Wichtig.
+Wirtschaftsingenieur?
+Ja, im Rechts.
+Im Rechts, also wir nennen das ja aktiv.
+Und wo?
+Das Eigenkapital,
+das Fremdkapital.
+Okay.
+Also da steht es hier als langlaufendes
+Darlehen drin,
+emittierte Anleihe.
+Steht hier drin.
+Im Fall
+der Wandelschuldverschreibung
+heißt es was?
+Das Wandern ins Eigenkapital.
+Genau, ich hätte dann
+ein Wandern ins Eigenkapital.
+Hier ein Minus und
+dann plus. Im Fall der Optionsanleihe. Ich dachte jetzt, die Anleihen schon dem Eigenkapital
+sind, aber dem Unternehmen gehören. Wie, was? Ich habe hier die Anleihen, ja. Also die Aktien
+Ja, die Frage ist, kann es hier gegebenenfalls, also das bleibt gleich hier und gegebenenfalls habe ich hier ein Plus.
+Und jedes Mal ist das hier mit dem Fragezeichen versehen.
+Das heißt, ich weiß es nicht, ob es genutzt wird oder nicht.
+Da haben wir auch wieder dieses Problem.
+also es können jetzt zum Beispiel auch neu emittierte
+Aktien sein in beiden Fällen
+das können quasi junge Aktien sein
+und ich verspreche Ihnen einen besonderen
+Emissionskurs
+das kann das auch sein
+der Witz ist
+ich weiß eben nicht
+wird davon Gebrauch gemacht oder nicht
+also es kann eben sein
+dass das Schwergewicht auf der Fremdfinanzierung
+bleibt und ich diese gedachte
+Eigenfinanzierung nicht zu Wege bringe
+Gut, hier haben Sie nochmal eine Zusammenfassung
+der wichtigsten Charakteristika aus der Anleihe.
+Alles, was Sie besprochen haben, ist entscheidend.
+Ja, wir haben hier nochmal einen kurzen Hinweis auf Emissionskosten,
+was vielleicht interessant ist.
+Anleihen sind ein komplexes Instrument,
+weil ich da auch wieder ein Emissionskonsortium brauche,
+was es auf den Markt bringt, an die Börse.
+Und deswegen stehen hier schon mal zweieinhalb Prozent Bankenprovision,
+die ich zusätzlich mir in Rechnung stellen, oder kalkulieren möchte.
+Und dann habe ich noch laufende Verwaltungskosten.
+Aber in Summe bekomme ich eben zusätzliches Fremdkapital eventuell leichter und günstiger,
+was die Verzinsung angeht, als über eine Bank.
+Schnelligkeit
+auch das ist logisch, bei dem Verwaltungsakt
+der dahinter steht und das an den
+Markt bringen, da habe ich nicht nur wie bei
+einem Darlehensvertrag vier Wochen Vorlaufzeit
+sondern da geht es um Monate
+Vorbereitung
+Dann gibt es
+Sicherungsvereinbarung tatsächlich auch in diesem
+Bereich, da könnte ich Ihnen noch mal
+was zeigen, weil
+Sie können jetzt zum Beispiel angeben
+bei dieser Auswahl, die wir vorhin gemacht haben,
+da gibt es noch ein Feld, welche Art der Anleihe
+soll es denn sein? Und da gibt es auch
+Pfandanleihen. Huh, was ist das denn?
+Es gibt Pfandanleihen,
+das heißt, da steckt dann zeitgleich
+dahinter eine Sicherheit,
+die an diese Anleihe geknüpft ist, ein bestimmtes
+Pfand, Sie erinnern sich.
+Und dadurch ist
+wiederum der Kurs der Anleihe, also
+die Verzinsung etwas schlechter, weil
+die halt sicherer ist über dieses Pfand.
+Es gibt sogar eine darauf
+spezialisierte Bank, das ist die deutsche
+Pfandbriefbank, glaube ich,
+da muss man aber
+aufpassen, weil nicht alles, was diese
+deutsche Pfandbriefbank rausgibt, sind auch Pfandanleihen.
+Sie macht zum Teil auch normale Anleihen.
+Und da sehen Sie dann aber auch den
+Unterschied in der Verzinsung. Die,
+die mit Sicherheit ausgegeben werden,
+sind deutlich niedriger verzinst.
+Aber Sie, wiederum, haben die gemerkt,
+die Wahrscheinlichkeit der Rückzahlung ist besser.
+Also das heißt, der Post,
+der bei einem Monat übersteht,
+Ja, das kann man so nicht sagen, weil der Coupon ja entscheidend ist.
+Wenn ausgegeben wurde 2024 mit einem Coupon von 4%, dann wird die heute deutlich über 100% gehandelt.
+Wenn die aber ausgegeben wurde 2021 bei 1%, dann wird die heute bei deutlich unter 100% gehandelt.
+das ist also mehr davon
+aber zusätzlich kommt noch das Ding
+mit Pfand ohne Pfand
+und dann kann es halt noch einen Abschlag
+geben von 0,5% oder so
+was nicht wenig ist
+wie gesagt wir sprechen heute
+von einer Effektivverzinsung
+also ich bin froh wenn ich jetzt eine Anleihe kaufe
+und ich habe eine Effektivverzinsung von
+2,6% dann ist es gut
+die Wahrscheinlichkeit dass es rausläuft
+auf 2,2 ist hoch
+und deswegen sind 0,5%
+Brutto ein Haufen
+Können Sie sich alles auch nochmal durchlesen
+ja hier vielleicht nochmal der Hinweis auf die
+Laufzeit 8 bis 15 Jahre
+das ist eher langlaufen
+nicht 2, 3 Jahre
+da würde der Aufwand nicht lohnen
+Der Markt würde das auch nicht hergeben, weil das auch der Anleihenstrategie vieler auch institutioneller Anleger widerspräche,
+nur in so kurzfristige Dinge reinzugehen.
+Da haben sie halt einfach wesentlich weniger Möglichkeit.
+Es gibt es sehr wohl, dass sie ETFs, zum Beispiel Renten-ETFs oder Fonds sich kaufen,
+die sich spezialisiert haben auf Fonds mit, oder ETFs, Anleihen mit kurzer Restlaufzeit.
+Ja, also es gibt ja Unmassen unterschiedlicher ETFs.
+Und da gibt es eben auch solche Spezialisierung, wie ist die Restlaufzeit, hat bestimmte Auswirkungen.
+Gut, damit sind wir, was die Darlehen und Kredite angeht, sind wir durch
+und wir kämen in den Sonderbereich der Finanzierung, Sonderformen der Finanzierung
+Bleiben wir gerade nochmal da, was ich Ihnen jetzt zeigen werde
+Also, was haben wir denn abgegrast?
+Wir haben uns bislang angeschaut, das Eigenkapital
+also Eigenkapitalerhöhung
+Eigenkapitalherabsetzung
+da sind wir durch
+wir haben uns jetzt vom Fremdkapital angeschaut
+ganz unten
+die Verbindlichkeiten aus Lieferungen
+und Leistungen, also Handelskredit
+haben wir gemacht
+wir haben Kredite, Darlehen und sonst was
+uns angeschaut
+eigentlich sind wir durch
+Kredite
+Darlehen
+und jetzt
+gibt es einfach noch ein paar Sonderformen
+die da irgendwo mit reinpassen
+und das möchte ich Ihnen
+anhand dieses Bildes zeigen
+wir haben schon gesprochen über Messanienfinanzierung
+also bei der Anleihe
+wir haben bei der Anleihe
+eingegangen auf Formen der Anleihe
+die der Messanienfinanzierung
+zugeordnet werden
+und was ich hier jetzt gemacht habe
+Da sehen Sie, der Messernehmbereich, jetzt möchte ich mal rausschauen kurz.
+Der Messernehmbereich wird auch beteiligt, der Kreditmessermessung und der Messermessung.
+Warum?
+Also wir wissen beim Messernehmen nicht, ist es eher Eigenkapital oder ist es eher Fremdkapital.
+Und dann gibt es eine Unterscheidung innerhalb dieser Möglichkeiten der Messernehmfinanzierung,
+wo man sagt, okay, das ist deutlich näher am Eigenkapital, beziehungsweise das ist deutlich näher am Fremdkapital.
+Deswegen diese zwei Teile. Was ich hier mal versucht habe, ist die Abbildung der verschiedenen Instrumente nach der Risiko- und Renditeerwartung. Je weiter ich im Eigenkapitalbereich bin, desto höher ist das Risiko, dass ich es komplett verlieren kann.
+Dann ist aber natürlich auch die Verzinsung höher.
+Und das wäre ganz stark, wenn ich bei einer Wandelanleihe umswitche in eine Aktie,
+dann bin ich ganz nah am Eigenkapital, ganz klar.
+Dann habe ich mich entschieden, aus den Vorzügen der sicheren Zurückzahlung rauszugehen
+und ins Risiko zu gehen, aber mit einer deutlich höheren Verzinsung.
+Da gibt es aber auch Genussrechte oder stille Beteiligungen.
+Beteiligung. Genussrechte sind ähnlich wie Aktien, aber mit deutlich weniger Rechten,
+aber auch etwas geringerem Verlustpotenzial. Stille Beteiligung, Sie erinnern sich, der
+stille Beteiligte tritt nicht nach außen auf, ist keiner, der mitbestimmt, kann aber
+am Gewinn partizipieren, ohne in den Vollverlust zu gehen, gegebenenfalls. Das kommt auf die
+ausgestalteten bestellten Beteiligung an.
+Und dann gibt es noch ein paar
+ziarische Darlehen und
+nachrangige Darlehen. Erinnern Sie sich
+an die Anleihe,
+wo ich gesagt habe, nee,
+nachrangige Anleihen möchte ich mir nicht anschauen.
+Warum?
+Also, wenn ich schon nachrangig
+zahle, dann heißt das, ich gehe
+ein Stück weit in Richtung
+Risikologie.
+Deswegen steckt es im Messalimgetriebe.
+Ein paar schauen wir uns an.
+Das nachrangige Darlehen heißt letztlich ungesichert.
+Ein ungesichertes Darlehen und das wird erst zurückgezahlt im Zweifelsfall nach allen anderen Fremdkapitalaufnahmen.
+Bei Insolvenz also erst Rückzahlung nach all den anderen Fremdkapitalbestandteilen.
+Insofern wird das nachrangige Darlehen beurteilt wie Haften des Eigenkapitals von Fremdkapitalgebern.
+Warum? Also ein Fremdkapitalgeber, der muss quasi das so beurteilen wie Haften des Eigenkapitals, weil er in ein höheres Risiko geht.
+Was ich nicht habe, trotz allem ist, bei diesem Darlehen, es bleibt ein Darlehen, das heißt, ich habe keine Beteiligung am Unternehmenserfolg und eigentlich ist es damit, so wie wir es auch vorhin schon definiert haben, schon eigentlich klar, der Fremdfinanzierung zuzuordnen.
+Eigentlich kein Misser.
+Partiarisch heißt, ich habe eine erfolgsabhängige Verzinsungskomponente.
+Erfolgsabhängige Verzinsung, da kommen wir ja schon auch der Aktionär.
+Das heißt, ich habe eine Beteiligung am Gewinn, allerdings ohne die Verlustbeteiligung.
+Das wäre ein partiarisches Darlehen.
+Dann gibt es noch die stille Gesellschaft, die hatten wir schon ein paar Mal.
+Sie erinnern sich, das war eigentlich bei der Eigenkapital-Diskussion, wo wir uns fragten, zum Beispiel bei den nicht emissionsfähigen Unternehmensformen, die OHG, KG, die hatten alle die Möglichkeit, zusätzlich Kapital aufzunehmen, auch über stille Gesellschaften.
+Also eine erfolgsabhängige Vergütung durch Beteiligung.
+Verlustbeteiligung kann möglich sein, muss aber nicht.
+Ich habe eine gewisse Kontrollbefugnis, aber ich darf nicht sagen, wer und wie die Geschäfte zu führen sind.
+Wir arbeiten uns jetzt von unten nach oben vor.
+Jetzt haben wir das Genussrechtskapital.
+Das ist auch gehandelt.
+Das müsste ich auch mal anschauen.
+Wird gehandelt auch an der Börse.
+Das sind Genussscheine.
+Das ist sehr nah an der Aktie eigentlich dran.
+Kann verbrieft sein eben.
+Muss aber nicht.
+Es gibt auch unverbriefte Genussscheine.
+Sie können die dann over the counter kaufen.
+Genussrechte heißt, ich bin am Gewinn beteiligt.
+Gegebenenfalls auch am Verlust.
+Das kommt auf die Ausgestaltung an.
+und am Liquidationserlös.
+Also sie sind
+aktienähnlich, alles ist ohne
+Stimm- und Mitgliedschaftsrechte.
+Die sind
+jetzt auch nicht, also Genussrechte,
+das Schöne an Genussrechtskapital
+ist, dass zum Beispiel eine GmbH
+kann Genussrechte ausgeben
+und das ist sehr aktienähnlich.
+Also insofern
+kann die GmbH damit ein bisschen
+spielen, im Sinne
+der Aufpulsterung.
+So, und dann hatten wir noch die Wandel- und
+Optionsanleihen, aber die haben wir ja behandelt, das ist durch.
+Was ist jetzt der Vorteil für den
+Messernehmnehmer, also der
+der jetzt Kapital
+aufnimmt, im Zuge von
+Messern?
+Also,
+das eine ist, dass ich sozusagen meine
+Eigenkapitalposition in einer gewissen
+Weise stärke. Das wirtschaftliche
+Eigenkapital wird gestärkt durch diese
+Nachrangigkeit, die
+damit einhergeht.
+Und das könnte
+gegebenenfalls zu
+einer Besserstellung für
+Fremdkapitalfinanzierung führen
+und
+die Möglichkeit zusätzliche
+Kredite zu erhalten
+verbessern.
+Trotzdem
+ich hier Eigenkapital nah und
+dritt bin, hole ich mir Leute
+an Bord, also als Investoren,
+die dann aber trotzdem nicht
+Mitsprache haben. Die bleiben
+trotzdem außen vor, was mir ganz
+recht ist als Messernehmnehmer.
+Ich würde mich
+auch ein bisschen weiter unabhängig machen von den
+bisherigen Kapitalgebern und
+ja, ich
+bin, also was diese Messernehmeninstrumente
+angeht, die sind sehr freigestaltbar.
+Der Nachteil ist, ich habe hohe Transaktionskosten und koste einen Haufen Geld.
+Ich muss ein zusätzliches Reporting durchführen für die Leute, die zum Beispiel Genussscheine haben.
+Die würden die nie kaufen, wenn sie nicht entsprechend auch ein Monitoring haben dafür.
+Manche Dinge habe ich halt nicht im Griff.
+Wenn Sie an Wandel- und Wandelschuldverschreibung oder Optionsanleihe denken,
+dann wissen Sie nicht so recht, wie wird sich meine Fremdkapital-Eigenkapital-Zusammensetzung
+verschieben oder verändern über die Zeit.
+Weil Sie nicht wissen, wer nimmt von was.
+Also, ich brauche.
+So.
+Und das waren es im Groben und Ganzen.
+Gibt es soweit Fragen?
+Oh.
+Keine weiteren Fragen vorher?
+Nein?
+dann
+sehe ich das richtig, dass Sie am 24.
+nicht mehr hier
+teilnehmen wollen?
+Nein.
+Das ist so mangelnde
+Begeisterungsfähigkeit.
+Sind Sie da?
+In jedem Fall.
+Also was wir dann nächste Woche machen werden,
+ist uns
+zu überlegen über alternative
+Finanzierungsmaßnahmen.
+Und da gibt es vier Stück,
+die mehr auch in der Öffentlichkeit besprochen werden,
+das sind Asset-Backed Securities, Leasing,
+das ist auf jeden Fall Projektfinanzierung und Factoring.
+Und wir werden uns zwei davon rausziehen.
+Und wie etwas genau.
+Das ist einmal das Leasing und einmal das Factoring.
+Beides Themen, die für Unternehmen auf jeden Fall von größerer Bedeutung sind.
+Ich kann jetzt noch zwei Minuten.
+Ich habe etwas zu spät angefangen.
+Sie kam nicht ganz pünktlich.
+Ja, wenn wir uns diese alternativen Finanzierungsmaßnahmen anschauen,
+dann werden die auch sehr oft genannt Substitutionsfinanzierung oder Kreditsubstitutionen,
+weil ich damit genau mir das ersparen kann.
+Wenn ich jetzt zum Beispiel ins Leasing gehe, dann kann ich mir die Aufnahme zusätzlicher Kredite ersparen.
+Oder wenn ich einen Factor, das einen Dienst leiste, wenn ich den für mich einsetze, dann bedeutet das eben genauso, ich habe weniger für anderweitige Finanzierung zu sorgen.
+Deswegen Kreditsubstitut.
+Ganz klar, es handelt sich hier um Instrumente der Außenfinanzierung.
+Es werden mir zusätzliche finanzielle Mittel zugeführt.
+und ich nutze das, um klassische Bankkredite zumindest teilweise zu ersetzen.
+Ich bekomme zusätzlich Liquidität.
+Und jetzt kommt das Hübsche.
+Jetzt kommt das Wunderschöne.
+Ohne, dass Ihnen bilanzwirksam Fremdkapital zugeführt wird.
+Also zusätzlich Liquidität, sicher nicht Einkapital, sondern Fremdkapital,
+aber ohne, dass es bilanzwirksam zugeführt wird.
+Also ich habe eine Verbesserung der Bilanzstruktur.
+Und darum geht es immer und immer wieder.
+Von dem Faktor machen im Übrigen insbesondere,
+also da werden es immer wieder verschiedene Arztpraxen im Bauch.
+Wollen wir aber später nochmal drauf.
+Die müssen halt dann quasi eine Forderungsabtretung von vornherein machen.
+Diese Arztpraxen gehen dann auf die Patienten zu, fordern dann das Geld ein.
+in dem sie aber vorausgezahlt werden
+an die Ärzte.
+Allerdings nicht
+100%, sondern unter Abzug
+einer Gebühr.
+Und das ist dann das, wovon die Factorer leben.
+Die machen es ja nicht umsonst.
+Aber
+wir werden anfangen, also anschauen werden wir uns
+den Fall Leasing
+und den Fall Factoring. Die schauen wir uns an.
+Und ganz zu Beginn
+Leasing, und das ist beliebig
+komplex. Und das kann ich Ihnen deswegen
+sagen, wenn Sie sich
+die
+Wie macht man die Buchhaltung
+bezogen auf Leasing?
+Das wird auch ein bisschen
+ein Thema sein bei uns hier,
+weil es geht ja auch darum,
+die Struktur der Bilanz zu verbessern.
+Aber dann muss ich das Leasing in einer
+bestimmten Form ausgestalten.
+Und es gibt
+Wer hat sich mal mit Rechtsthemen
+rumgeschlagen? Es gibt so Kommentare
+und für
+Bilanzierung
+und so weiter, gibt es
+einen Kommentar für das Recht
+bezüglich Bilanzierung, der heißt
+Adler, Döring, Schwarz und da haben sie
+haben sie zig Seiten
+zum Thema Leasing,
+weil eben die unterschiedlichsten
+Variationen unterschiedlich
+dann auch gebucht werden.
+Das werde ich nicht alles abhandeln können,
+ich kann nur darauf aufmerksam machen, dass das
+mitunter schwierig ist.
+Also gut, dann lasse ich Sie jetzt gehen. Wir machen dort dann weiter.
+Oder wollen Sie schneller weitermachen?
+Also, es ist spät, oder?
+Ich bin sehr glücklich, dass ich hier sein kann.
+Ist das jetzt alles sehr speziell für Sie?
+Ja, ich habe bei der Frau noch keinen Kontakt zu sowas.
+Aber vielleicht ist es ja trotzdem, also ich denke da gibt es auch viele,
+zumindest Randbereiche, die auch für das normale Leben gebräuchlich sind.
+Haben Sie schon Zeit für eine Prüfung?
+Oder da drüben?
+Nein, nein, nein.
+Wo?
+Ich sehe hier nicht.
+Nein?
+Na gut.
+Haben Sie?
+Nein.
+Für einzelne Fächer wird man schon mit
+bei mir gesprochen, aber
+die Frage steht bei mir nicht.
+Okay.
+Bis gleich.
+Vielen Dank.
+Ich würde es mal probieren wollen, ich würde halt mein MyKonto angeben und über eine andere
+Ja, das wäre nicht das Bayern-Ticket, sondern das Albert-Borben-Ticket, das Rund-Ticket.
+Ja, das Bayern-Ticket kostet mehr.
+Ja, 32.
+Ja, aber du hast nicht das Bayern-Tierbuch.
+Ich würde hier halb ersparen.
+Ja.
+Ach so, ja, wir haben jetzt am ersten Mal noch nicht dran gedacht, beim zweiten und beim dritten kam es zweimal das gleiche raus.
+Nee, bei mir kommt immer wieder das gleiche raus, das gleiche wie gestern und das war zum Blätterteil oder sowas.
+Ja, die sind immer 6 Tage müde, ich genuss sie, wenn die Blätter dran kreisten.
+Ja, der Hochschul-Ton.
+Und eventuell kommt auf den Nasen das Fuß der Ferne.
+Ja, wahrscheinlich schon.
+Also soll ich jetzt nochmal gucken, wie ein Deutschlandticket oder fährst du generell mit dem Alper Schwaben?
+Ja.
+Dann geht's halt nicht nach Nürnberg.
+Also ich habe dir mal geschickt, wie das heißt, dass du ein Ticket einbringst.
+Was brauchst du zum Schlafen? Ich habe eine Luftmatratze da.
+Eine zweite, damit ich halt...
+Ja, das hört man erst abends.
+Ich habe noch eine dünne drauf, tatsächlich.
+Also ich habe mir eine einmal gegeben.
+Ja. Spannend hoch. Habe ich noch ein zweites?
+Ja.
+Ein bisschen.
+Ja, du darfst mit dem Schwabenticket, glaube ich, nicht von Göttingen fahren.
+Du müsstest mit dem Unterrad fahren.
+Ja.
+Du kannst auch vor dem Bahnhof parken und es ist eine Querstraße drin, du läufst nicht
+ganz so weit.
+Da habe ich auch nur geparkt.
+Klar besser.
+Guck mal in das Schädel.
+Ja, das ist das Siedlungsgebiet, da kannst du ja schon einmal hinten reinsteigen.
+Aber du darfst trotzdem deutlich kürzen.
+Nimm mal ein, ich schicke es dir kurz.
+Ich schicke es dir auf die Hände.
+Nimm mal.
+Da muss ich halt gucken, weil da jetzt ab und zu mal so eine Parkverbot-Zone, aber dann weiß ich nicht, was da ist.
+Das ist quasi an der Tange, die wo am Bahnhof ist, weißt du, da nochmal die Tange und da
+einfach links hinten.
+Ja.
+Wie kann ich denn das hier noch hören?
+Ja, ich bin schon da dran.
+Ich bin auf Laut, tschüss.
+Warum kommt man von da?
+Amen.
+Ja, ich schaue, dass ich das hinbekomme.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Alles gut.
+Ja.
+Ja.
+Kannst du machen.
+Ja.
+Ja.
+Alles gut.
+Ja, ich glaube schon.
+Ja.
+Vielleicht kriege ich ja morgen noch wieder einen.
+Ja, ich glaube, so viele sind gar nicht da, tatsächlich.
+Dann mache ich nichts mehr mit dem deutschen Ticket.
+Okay.
+Bis morgen.
+Ich schicke dir noch die Infos zurück.
+Ciao.
+Vielen Dank.
+Amen.
+Amen.
+Servus.
+Heute nützt es eine Stunde.
+Alter, frag dich nicht. Ich hatte 9.15 Uhr, als ich einen Arzt trinke.
+Alter, ich saß 2 Stunden 15.
+Diese Kackart, damit er nicht am Ende sagt, du musst drei Übungen machen, dreimal am Tag.
+So, jetzt fünf Minuten.
+Ja, wieder so fünf Minuten legen.
+Und ich sag mal, die Diagnose, also der Hausarzt hat sie auch schon gestellt, ja?
+Ja.
+Ich hab so ein Glas auf dem Ohr.
+Hast du auf dem Ohr auch mal eine Krankenrasse gemacht?
+Also ich war mal gestern beim Hausarzt, der hat einen wunderschönen Hausarzt und heute mal einen hohen Hausarzt.
+Und das heißt Lagerungsschwindel.
+Also sobald ich meinen Kopf so mache, bin ich schwindelig.
+Da drin, das ist ja im Gehör.
+Und das ist so ein kleiner Kristall, heißt es dann, und der klingt falsch.
+Und scheiße, hab ich auch noch nie gehört zu einem Kai.
+Aber so wollte ich mich im Bett umdrehen oder so.
+So geht es perfekt und ich drehe mich um und die komplette Welt macht tschüss.
+Und der Hausarzt hat das quasi schon diagnostiziert und hat gesagt, er kann nichts machen, muss ich zum Ohrenarzt.
+Was macht der Ohrenarzt? Er gibt mir im Endeffekt diesen Zettel.
+Ich muss mich hinlegen, auf den Rücken und meinen Kopf drehen.
+Das war mein Ergebnis von 2 Stunden 15 Minuten beim Arzt.
+Also das geht dann auch. Das geht dann schon mal nach ein paar Tagen wieder weg, wenn man das macht und gut ist.
+Also wirklich, da dachte ich mir auch nur so, ernsthaft jetzt.
+Der Hausarzt, also das ist wirklich keine große, ich sag mal Eingriff oder irgendwie Spezialwerkzeug,
+der hat die Übung gemacht, hat gesehen, dass meine Augen ungefähr so machen,
+Ja, dann ist es, mach die Übung und tschüss.
+Danke.
+Tschüss.
+Danke.
+Servus.
+Der Verspätung hat sich ein bisschen ausgeleitet.
+Ja, es ist ja wirklich verpasst, verpasst hat sich das nicht.
+Ich habe hier noch einen Tipp.
+Wenn du gesund bleiben möchtest, würde ich nicht ein Stück weit warten,
+Das war's dann.
+Auf Wiedersehen.
+Immerhin herrlich.
+Mit dem breiten Rücken, ne?
+Mit dem breiten Rücken.
+Ich hab mir das Wochenende richtig was eingeschlagen.
+Keine Ahnung.
+Okay, warte hier.
+Ich hab ein Video gemacht.
+Lass dich nicht von meinem komischen roten Gesicht ablenken.
+Ich brauch eure Augen.
+Das passiert, wenn ich mich umdenke.
+Und so sieht das halt auch aus.
+Naja.
+Marcel, hast du auf Instagram schon mal einen Zusammenschnitt gesehen?
+Ja, war ein Banger. Du solltest Video-Creator werden.
+Raus aus der Vorlesung, rein da.
+Nee, war cool.
+Der Einig-Sprung war sehr massiv, oder Drop eher, ne?
+Ja, das war jetzt das letzte Semester noch. Den habe ich auch gestanden, aber jetzt Anfang der Saison, da bin ich auf die Fresse geflogen.
+Das war die gleiche Kante, aber ein bisschen weniger hoch.
+Habt ihr heute irgendwas mitgeschrieben?
+Ich habe so eine kleine Marktforschung gemacht. Zwei Personen, dass da so gut geladen, dass das meine Follower nicht sehen konnten.
+Okay, okay. Der Schmidt wäre stolz auf dich.
+Ja, und dann kommt, welches bekommt mehr Engagement.
+Und dann habe ich den SSIO genommen und nicht den, den ich vorhin nicht hatte.
+Ich habe daraus ein richtig hässliches Voice-Over bei der anderen Version gemacht.
+Deine Stimme hätte ich schon gerade gehört.
+Was?
+Ja, letzte Stunde war ich auch nicht da, aber das habe ich schon vor dem Ruhi bekommen.
+Was ist das für eine Version mit dem Voice-Over?
+Weiß ich jetzt nicht.
+Das ist Katastrophe, aber war die?
+Ja, haben wir weggemacht.
+Das hast du noch?
+Das hast du glaube ich noch und dann fängt es an, glaube ich.
+Darin kann ich es nur ausfüllen?
+Hier kommt was, 189.
+Da war die Rechnung, die man ausfüllt.
+Das ist auch nicht das nächste Mal.
+Das ist einfach 5%, das ist in die Rechnung hier nur eingefüllt mit den Werten.
+Kann man trotzdem nicht verpassen.
+Tschüss.
+Das ist ein Routen-Rate-Mode.
+Hier bei uns steht man, oder?
+Ja, schon ein bisschen.
+Aber bei irgendeiner Bank heute.
+Nur?
+Nur ein paar Anleihen.
+Ausgabe unter Nennwert, Komma, Rückzahlung zu Rente pro Cent.
+Ausgabe zu 100 Prozent, Komma, Rückzahlung zu Preis 4 Millionen.
+Ich glaube, das war es schon fast.
+Da hat er noch bei der nächsten die Wandelanleihen.
+Das ist von Fremdkapital zu Eigenkapital geschrieben.
+Warum verbrauchst du jetzt eine Zertifizierung?
+Jetzt sage ich ja nicht, dass ich die habe, oder?
+Das ist bei der Auktionsanleihe auch so, aber auf einem Fremdportal, zu einem Portal, aber ich weiß jetzt nicht, ob man es kann.
+Jo. Mehr war es nicht.
+Dann bin ich ja jetzt voll gewappnet.
+Ach du nicht.
+Das war nicht zusammenhängend, der Sprung mit dem Sturz.
+Nee, der Sturz, den hatte ich ja leider nicht, ich ging nicht aufs Video.
+Ah, das wäre dann nicht der Banger gewesen.
+Doch, doch, war gut.
+Kannst du das holen jetzt?
+Ja, das machen wir.
+Auch mit Miniaturgrößen.
+Nein, das stecke ich nicht rein.
+Ja, das erste Mal irgendwie verwendet und versucht irgendwie zusammen zu schreiben und dann nochmal alles gedreht, weil du es nicht hochkannst oder stützt.
+Wo sind wir gerade bei den Übungen? Bei 8 oder sind wir schon weiter?
+Ich hoffe, das hat Ihnen auch gefallen.
+Amen.
+Vielen Dank.
+Vielen Dank für's Zuschauen.
+dass sie nicht verfolgen sich.
+Der Ausspruch, dass auch Einwandtreibung funktioniert,
+hier in Kempten, Katastrophe.
+Vielen Dank.
+So, und jetzt ist eben die Frage, wie ist es bei der gewöhnlichen Bürgschaft,
+also wenn dieses Wörtchen selbstschuldnerisch nicht dabei steht, wie ist es dann da?
+Da hat es, also hier muss ich erst nochmal, selbstschuldnerisch bedeutet, bereits nach Erfolg großer Mahnung.
+Jetzt bei der gewöhnlichen hat der Bürger das Recht auf Vorausklage, oder Recht auf Einrede, so muss ich es sagen, Einrede der Vorausklage.
+Was heißt das?
+Er muss erst zahlen, wenn versuchte Zwangsvollstreckung, also hier habe ich es jetzt.
+Also bei ihm war dann nichts mehr zu holen.
+Im Übrigen ist es ja ganz interessant, wenn jemand kommt, um so eine Zwangsvollstreckung durchzuführen,
+dann darf der Ihnen den Fernseher nicht wegnehmen, witzigerweise.
+Weil es gehört zur Lebensgrundlage.
+Jetzt habe ich keinen Fernseher, bin ich da nicht lebensfähig?
+Gut, aber gehen wir mal davon aus, dass das zu einer zweiten Verstrickung bei Ihnen nicht kommt.
+Dann können wir weitermachen.
+Im Falle des Fallens an Gelehrung fern sein, ist das gar nichts Gutes.
+Dann sieht es anders aus.
+Nur teuerst du zuerst weg.
+Das wiederum weite nicht.
+Fernseher sind heute echt keinen Wert mehr.
+Früher war das anders.
+Können Grundschulden, Sie erinnern sich, Grundschulden gehören zu was?
+Kurze Wiederholung, wozu gehören die Grundschulden?
+Grundschulden sind, gehören zu den Grundpfandrechten.
+Und die Grundpfandrechte sind, da gibt es zwei Stück, nämlich Grundschuld und Hypothek.
+So, können Grundschulden auch ohne zu grundmäßigen Geschwaderung bestehen?
+Ja, das war doch der Bestandteil der Grundschulden, dass die generelle Erzsicherheit in der Linke...
+Ja, und was ist denn das Wort? Warum?
+Ja, geht.
+Die Hypothek ist M und die Grundschuld ist M.
+Fiduzialisch.
+Ja, sie sind fiduzialisch.
+Aber ich habe es nur gelesen, weil es der Grundverstand ist.
+Echt?
+Ja.
+Das ist was Kastiges.
+Also, die Hypotheken sind accessorisch, also jetzt geht es hier weiter.
+Können fiduciarische Sicherheiten weitergereicht werden?
+Die Frage finde ich nicht so dolle.
+Ja, grundsätzlich könnten sie weiter, oder können sie abgetreten werden.
+Also lass uns jetzt mal akzeptieren, so ist es, weil man stellt sich nicht auf eine Forderung.
+Genau, und wenn die abgebaut ist, verfällt auch diese Sicherheit, dann ist sie weg.
+Eine Hypothek löst sich quasi mit der Rückzahlung der Schuld auf.
+Also die Hypothek bei der Grundschuld, das wird sicherlich...
+Ja, es ist ein Grundpfandrecht. Hypothek ist ein Grundpfandrecht.
+Und eine Grundschuld ist auch ein Grundpfandrecht.
+Nur die Hypothek ist accessorisch und die Grundschuld ist finanziarisch und bleibt drin stehen.
+Ich kann sie jederzeit wieder benutzen.
+Ah, da kann ich noch etwas dazu erzählen, für die Ertüchtigung im eigenen Leben.
+Jetzt kann es ja sein, also zum Beispiel, wenn Sie haben Ihren Hauskredit zurückbezahlt
+und Sie sagen, bei der Bank möchte ich jetzt eigentlich keinen Kredit mehr aufnehmen,
+dann können Sie zur Bank gehen und sagen, ich hätte gerne eine Löschungsbestätigung
+oder eine Löschbestätigung für die Grundschuld,
+wird die Bank Ihnen das ausstellen.
+Dann sagt sie, okay, kriegen Sie.
+Damit können Sie jetzt hingehen zu einem Notar,
+der dann den Eintrag ins Grundbuch macht
+und dort die Grundschuld rausnimmt, löscht.
+Weil Sie haben jetzt zurückgezahlt, dann ist es weg.
+Dann ist er weg.
+Aber Sie müssen aktiv gelöscht werden.
+Jetzt können Sie aber auch hier gehen und sagen,
+ja, ich würde ganz gern weiterhin zum Beispiel
+von meinem Bruder Kredit erhalten,
+aber der gibt mir nur Kredit,
+Wenn er eine Grundschuld eingetragen bekommt, für Reparaturen und so weiter, dann kann man, theoretisch könnte man jetzt die Bank bitten, bitte keine Löschbestätigung, sondern treten Sie die Grundschuld bitte ab an meinen Boden.
+dann wird er umgetragen
+dann habe ich also
+die Grundschuld bleibt bestehen
+nur den auf den sie
+eingetragen ist
+die Person verändert sich
+oder das Unternehmen verändert sich
+von der Bank auf meinen Bruder
+der Vorteil dabei ist
+das ist wesentlich billiger
+als wenn sie es löschen lassen
+kostet Geld
+und wieder neu eintragen lassen
+kostet einen Haufen Geld
+die Veränderung auf einen anderen
+ist deutlich günstiger.
+Okay, das sind jetzt
+nicht die Fragen,
+werde ich definitiv nicht zur Klausur
+fragen.
+Zehntens,
+jetzt wird es schon interessanter,
+hatten wir letztes Mal, schätzen Sie ein,
+ob Pfandkredite
+im Wirtschaftsleben eine wichtige oder
+unwichtige Rolle spielen?
+Bitte sehr.
+Da gab es eine Spezial
+Ausprägung.
+Was? Was heißt Pfandkredit? Das war ja diese Kombination Pfand und Kredit in einem. Ich habe einen Vertrag, wo geregelt ist der Kredit und das Pfand.
+Mit Aktienverwendung oder so.
+Ja, wie nennt man das? Der heißt ja auch, ne, die gibt es zwar auch, aber das ist was anderes.
+Im Prinzip ist es was ähnliches, Sie haben schon recht.
+Ist was ähnliches, aber nicht genau das.
+Also wir sprechen, also ein anderer Begriff ist der Lombard-Kredit.
+Und das, was Sie angesprochen haben, ist der sogenannte Effekten-Lombard.
+Und jetzt kommt aber immer noch die Frage,
+spielt es jetzt eine wichtige
+oder unwichtige Rolle
+im Wirtschaftsleben?
+Was meinen Sie?
+Nein.
+Also die Frage ist,
+ob das häufig genutzt wird oder nicht.
+Spielt das eine Rolle im Wirtschaftsleben? Sind das marginale Volumina oder ist das schon statistisch gut greifbar?
+Also, ich löse das auf, ja. Und zwar genau in dieser Ausprägung als Lombardkredit, also bei Banken, eine sehr wichtige Rolle.
+Ein paar Minuten.
+Eine sehr wichtige Rolle und dort insbesondere also zum Beispiel Effekte Lombards.
+Da habe ich eine Beleihung, das ist gleich zur Trennung von Webpapier.
+Verpfändung, Beleihung oder Verpfändung von Wertpapieren.
+Sind das dann Wertpapiere von der eigenen Firma oder sind das auch von irgendeiner Firma?
+Wir haben sowas hier, Bilanz. Sie haben hier Actima, die Anlagevermögen, unser Umlaufvermögen und im Umlaufvermögen haben wir die Position Wertpapiere.
+Diese Wertpapiere, die haben Sie im Depot bei der Bank. Um solche geht es, also nicht vom eigenen Unternehmen.
+Also das Depot, das liegt schlauerweise halt bei der Bank, wo Sie diesen Kredit aufnehmen
+wollen.
+Ja und dann kann das halt gleich abgetrennt werden, auch wenn es nur Teile des Depots
+werden.
+Und dann hatten wir noch das Thema von wegen, ja, die Wertstabilität, okay, gehen wir erst
+nochmal zurück zu den Grundpfand. Ja? Die Hypotheke ist accessorisch, das heißt, sie ist nur auf die
+auf die Laufzeit des Petits bezogen.
+Ja, genau.
+Und
+Ja?
+Die Grundschuld ist
+viel zu
+viel zu rarisch.
+Viel zu? Viel sozialisch.
+Das heißt, sie ist
+nicht nur auf die Laufzeit des Petits
+bezogen. Sie ist nicht an das
+Bestehen einer Frau noch gebunden.
+Es wird deswegen
+weil es einfach Vorteile hat, bevorzugt für die Versicherung von Kreditvermögen.
+Also, Hypothek ist akzessorwürdig.
+Das heißt, es kann nur in Verbindung mit einer Förderung entstehen und auch bestehen.
+Die Grundschuld.
+Die ist fiduziarisch.
+Also ist nicht anders gestehen.
+einer Förderung gebunden.
+So, und das ist auch der Grund,
+Jetzt ist er für die Besichtigung von Kredit-Triebevorzug.
+Machen Sie sich einfach klar, dass die Aufnahme eines Grundpfandrechts,
+also Hypothek oder Grundschuld, dass es jedes Mal ein Mordsakt ist.
+Sie müssen zum Notar gehen, der muss das Grundbuch bestellen.
+Sie können auch hier zum Notar gehen und einen Eintrag ins Grundbuch von Wetzlar erbitten.
+Das geht auch von hier aus.
+Aber der muss eben das Grundbuch bestellen, diesen Eintrag, der muss durchgeführt werden.
+Und diese notarielle Leistung, die kostet einen Haufen Geld.
+Nummer 12.
+Lösen Sie mal bitte.
+Grundstück eines Schuldners weist folgende Belastungen auf.
+Wir haben eine erste, eine zweite und eine dritte Grundschuld.
+Jetzt ist er zahlungsfähig, das Grundstück wird verkauft, aber es werden 190.000 Euro erzielt.
+Was heißt das jetzt für die Gläubiger des Schuldners?
+Bitte sehr, machen Sie sich Gedanken und sagen Sie es mir.
+Die dritte Grundschule kann ich ganz begleitet sagen, oder?
+Genau.
+Das heißt, dass der erste Gläubiger und der zweite Gläubiger, die werden gedeckt,
+der dritte Gläubiger bleibt mit 20.000 minus, ne, 30.000 sitzen oder gedeckt.
+Mit wieviel?
+Moment.
+Auf rechnen schnell.
+30.000 bleiben übrig.
+Das würde mich wundern.
+Achso, übrig, was heißt das jetzt?
+Heißt?
+Der Dritte, der bekommt 30.000, der Erste bekommt nur 10.000.
+Ah ja, jetzt klar.
+Jetzt habe ich es verstanden. Sorry, es liegt an mir.
+Also, wichtig ist für Sie zu wissen, die Gläubiger, genauso wie Sie es gemacht haben,
+aber das ist jetzt, glaube ich, bei jedem angekommen, die Gläubiger werden in der Rangfolge der Grundschuld befriedigt.
+Hatten wir besprochen mal.
+Also ich kann Ihnen sagen, wenn Sie zur Bank gehen und Sie wollen einen großen Kredit aufnehmen für Haus- oder Wohnungskauf oder Grundstück,
+dann wird die Bank sich ausbedingen, an den ersten Rang zu kommen.
+Sonst kriegen Sie den Kredit nicht.
+Das heißt hier, also das heißt, dass Gläubiger der dritten Grundschuld,
+Nur 10.000 Euro erhältst du.
+So, damit hätten wir das auch abgehandelt.
+Wir bekommen jetzt die Nummer 13
+Haben Sie es?
+Oder brauchen Sie noch eine Übersetzung
+weil es unordentlich ist von Ihnen?
+Alles lesbar?
+Mit welcher Art von Garantie
+Wie kann man im internationalen Geschäft das Risiko absichern, dass der Käufer, der im Ausland sitzt, seinen Zahlungsverpflichtungen nicht nachkommt?
+Es gibt die unterschiedlichsten Arten von Garantien, Sie erinnern sich, oder es wurde auch aufgelistet.
+Eine davon können Sie nutzen.
+Das ist zwar auch dafür gut, aber das ist dann eine aufwändige Geschichte.
+Es gibt eine Garantie, also das ist dann etwas anderes als eine Garantie.
+Es gibt eine Garantie, die Sie dafür nutzen können.
+Ich meine, es ist ähnlich, aber nicht ganz so aufwendig.
+Dann haben wir eine spezielle Art der Garantie, hier geht es darum, dass er zahlt, bitteschön, und deswegen nennt man es auch eine Zahlungsgarantie, also es geht rein um eine Zahlungsgarantie.
+Der Garant steht dem Exporteur für die Zahlung der Schulden durch den Importeur ein.
+Also hier wäre es eine Zahlungsgarantie.
+Ein anderer Fall wäre die sogenannte Anzahlungsgarantie.
+Was ist das denn?
+Eine Anzahlungsgarantie.
+Eine Garantie, dass wenn die Lieferung nicht erfolgt, dass man die Anzahlung zurückkriegt.
+Genau, richtig.
+Also es ist für die Gegenseite, derjenige, der die Anzahlung leistet möchte, eine Garantie bekommen, dass er im Fall einer Verfehlung des Lieferanten diese zurückbekommen kann.
+Ich mache es jetzt ein bisschen ausführlicher, aber Sie hatten recht.
+Garantie bei Geschäften mit längeren Herstellungs- und Lieferfristen.
+Und denken Sie an den Anlagenbau.
+oder an Hausbau oder Gewerke davon mit längeren Herstellungs- und Lieferfristen in Verbindung
+und Anzahlungen.
+Die sind halt da sehr häufig.
+Also, was passiert hier?
+Garant, der Garant,
+muss die Anzahlung
+zurückerstattung.
+das hätte jetzt auch gelangt
+wenn sie das gesagt hätten
+so wie sie es gesagt haben
+Garant muss Anzahlung
+zurückerstatten
+und C sein
+wenn der Verkäufer
+nicht
+vertragsgemäß leistet
+Oder die Leistung erbringt es wir.
+Und dann kommen wir in die Endrunde dieser Übung, was war es, 8?
+Das ist immer nicht schlecht, wir haben ja nur 12, das heißt wir könnten damit fertig
+Eine Sache wird zur Sicherung eines Kredits verpfändet.
+Wer ist der eigentliche Führer dieser Sache?
+Kann der Schuldner mit dieser Sache weiter verfügen?
+An alle?
+Was sagen Sie da ganz hinten?
+Also er kann nicht über die Sache weiterverfolgen.
+Das finde ich richtig, so wie Sie geantwortet haben.
+Schuldner bleibt zwar Eigentümer, aber nicht Besitzer.
+Er kann über die Sache also nicht mehr verfügen.
+Wunderbar, damit schießen wir das hier ab.
+müssen
+Warte auf Sie.
+Sind Sie fertig?
+Müssen Sicherungsübereignungen für Vermögensgegenstände physisch übergeben werden?
+Ich würde sagen, das kommt darauf an, weil man empfand in der Regel schon bei einer Verkaufshypothek...
+Jetzt sind wir schon falsch.
+Bei einer Hypothek oder nicht.
+Ah, jetzt haben wir ja drei Sachen. Das ist jetzt schon multifalsch.
+Ich gehe gleich nochmal auf Ihre Antwort ein.
+Was meinen die anderen?
+Nein, muss nicht übergeben werden, aber das Eigentum wechselt quasi.
+Genau.
+Also bei Ihnen war jetzt falsch, erstens, die haben das, also die Sicherungsübereignung ist eine ganz eigene Art der Sicherheit, die hat eben nichts mit Pfand zu tun.
+Also Sie können, das kommt nicht darauf an, sondern Sicherungsübereignung, nein, gar nicht.
+Und dann haben Sie noch mit Hypothek oder Grundschul, die müssen Sie da völlig aus dem Vordergrund lassen, weil da geht es um Immobilien.
+Wir sind hier im Immobilienbereich, hier geht es um, also die Grundpfandrechte, bringen Sie bitte nicht in Verwechslung mit Pfandrecht oder Sicherungsübereignung.
+Also, nein, Sie haben insofern recht, physische Übergabe, im Sinne einer Übertragung der
+Also es geht um die Besitzübertragung, ist nur bei der Verpfändung notwendig.
+So, jetzt lesen Sie mal bitte die 2 durch
+und überlegen Sie sich da etwas dazu.
+Lesen Sie sich erstmal durch.
+... Musik ...
+einen Eigentumsvorbehalt und wir haben jetzt tatsächlich das Problem, dass die OHG nicht
+zahlt zum vereinbarten Termin, worauf die GmbH ihren Eigentumsvorbehalt gelten muss.
+Was sind jetzt die Folgen?
+Ja, was sind die Folgen, wenn das Material noch in der Lage der Metallverarbeitung, der OHB?
+Ja, richtig, genau, also ich kürze es auch noch, die GmbH kann Herausgabe des Rohmaterials verlangen.
+Also hier in dem Fall, der Fall ist unproblematisch.
+So, jetzt geht es einen Schritt weiter.
+Was ist, wenn die OHG das Material bereits weiterveräußert hat?
+Es geht nur um die Wirkung des Eigentumsvorbehalts zunächst mal, nur um den Eigentumsvorbehalt.
+Was ist dann, wenn das weiter verursacht wird?
+Wo ich merke, es geht um den einfachen Eigentumsvorbehalt hier.
+Ja?
+Ja?
+Und warum?
+Jetzt noch genau.
+Weil?
+Ja, und weil, in dem Fall,
+weil es ein einfacher Eigentumsvorbehalt ist,
+dann ist was passiert jetzt?
+Richtig, wer ist der neue Eigentümer?
+Genau, der Kunde, der das macht.
+Und jetzt kommt aber noch was Entscheidendes dazu.
+Wie muss er es gekauft haben?
+Jetzt sagen Sie bitte nicht in bar.
+Das ist die Einschränkung.
+Wenn er wusste, der muss es ja eigentlich erst zahlen, bevor er es verkaufen kann,
+dann weiß ich, da ist was, dann hätte er es in bösem Glauben gekauft.
+Dann geht es eigentlich nicht über.
+Aber hier, man kann zumeist davon ausgehen,
+wenn der Kunde das Material in gutem Glauben gekauft hat,
+Dann ist das Eigentum auf ihn übergegangen.
+So, und das heißt, ich kürze es jetzt ab, der Eigentumsvorbehalt, also der Eigentumsvorbehalt
+Der IV hat keine Wirkung mehr.
+So, was ist, wenn die OHG das Material weiterverarbeitet hat?
+Ja?
+Dann kann die GmbH das da abarbeiten, wenn man da ein Bauchzeug drin hat.
+Wir sind beim einfachen Eigentumsvorbehalt, weitere Stimmen?
+Dann...
+Genau.
+Ja, richtig.
+Also, auch hier hat der Eigentumsvorbehalt keine Wirkung mehr.
+weil
+mit der Weiterverarbeitung
+oder bei Weiterverarbeitung
+ist das Material in das Eigentum der OHG übergegangen.
+So, und was ist, wenn das HD-Material untergegangen ist?
+Wenn der Käse gegessen wurde,
+dann ist er nicht mehr da.
+Ist es dann weiterverarbeitet?
+Nein.
+Also, einigen wir uns einfach so auf.
+Der Eigentumsvorbehalt hat keine Wirkung.
+Wenn es nicht mehr da ist, kann ich es nicht zurückfordern.
+Und bitte bedenken Sie bei dem Ganzen,
+es geht hier nur um die Wirkung des Eigentumsvorbehalts.
+Dass Sie trotzdem Forderungen haben,
+die Sie weiter einfordern wollen,
+ist völlig unabhängig davon.
+Der andere steht in der Abnahmepflicht und er muss es bezahlen.
+Er ist in der Pflicht, es zu bezahlen.
+Also, der Eigentumsvorbehalt hat keine Lösung mehr.
+So, jetzt wird die ganze Sache anders gemacht.
+So, lesen Sie es mal durch und sagen Sie mir erst mal,
+A, um welchen Eigentumsvorbehalt handelt es sich jetzt?
+Lesen Sie es erst mal durch.
+Vielen Dank.
+Haben Sie es durchgelesen?
+Um welche Art von Eigentumsverhalten handelt es sich denn jetzt?
+Welche ist es bei dem?
+Genau. Richtig, der verlängerte.
+Und welchen Vorteil ergibt sich jetzt im Vergleich zu Aufgabe 2 für den Lieferanten?
+Ja. Gehen Sie dezidiert auf diese Vorfälle ein. Also Sie haben dadurch Sicherheiten
+auch bei Veräußerungen bei Weiterverarbeitung.
+Wobei die Weiterveräußerung bedeutet eigentlich auch,
+das heißt, bei einem verlängerten Eigentumsvorbehalt
+eine Vorausabtretung der Förderung muss passieren.
+Aber genauso ist es.
+Der Lieferant hat Sicherheiten auch noch nach Weiterverarbeitung.
+Vielen Dank.
+Und oder weiter zur Äußerung.
+Und dann braucht es halt diese Förderungsabtretung, oder die geht damit einher.
+Wunderbar
+Jetzt C
+Kann in diesem Fall die GmbH
+vom Kunden der Metallverarbeitung
+die Herausgabe der Produkte verlangen
+wenn die OHG nicht zahlt
+Ja, und was passiert dann eben bei der Weiterveräußerung?
+Also nur darum geht es eben, um die Weiterveräußerung.
+Wir haben da wieder diese Einschränkung von vorhin im Übrigen.
+Also zunächst mal die Teilantwort ist richtig.
+Nein, das müssen wir auch sagen.
+Oh, das ist jetzt übel.
+Wenn dieser im guten Glauben gekauft hat,
+was ist jetzt?
+aber sie kann die Förderung aus dem Geschäft gelten, weil die Förderung musste ja abgetreten sein.
+Wenn die quasi Mehrwert ist, also wenn die jetzt 12.000 Euro sind?
+Ja, aber dann musst du halt, ich meine, wahrscheinlich musst du dann das, was darüber hinaus geht, auch wieder zurückzahlen.
+Aber zunächst mal geht es um die Forderung abzuhalten.
+Wenn das so ist?
+Ja, dann habe ich noch ein Stück meiner Forderung offen, gegenüber dem, der Obergegen.
+die bleibt dann halt offen. Und wenn er jemals wieder zu Geld kommt, zwischen OHG und Kunde,
+Also was wir jetzt hatten hier,
+das war der
+verlängerte
+Eigentumsvorbehalt.
+Und jetzt schauen wir uns an,
+was
+ist,
+wenn über die Regelung in Aufgabe 2
+hinaus vereinbart wird, dass der
+Eigentumsvorbehalt auch dann bestehen bleibt,
+wenn Rechnungen vorhergehender
+Lieferungen nicht bezahlt
+sind. Welcher
+Eigentumsvorbehalt liegt vor?
+Der erweiterte.
+Genau, und zwar genau in Form eines Kontokorrentvorbehalts.
+Aber entscheidend ist mal dieses Erweiterte in Form eines Kontokorrentvorbehaltes.
+Und was für ein Vorteil ergibt sich für den Lieferanten daraus?
+Vielen Dank.
+Was für ein Vorteil.
+Es ist ganz einfach.
+Es geht schlicht und einfach, dass die Sicherheiten sich vergrößern.
+Die Sicherheiten für den Lieferanten vergrößern sich.
+So, und das ist insbesondere dann von Bedeutung,
+wenn es um länger laufende Geschäftsbeziehungen geht.
+Also insbesondere
+für länger laufende
+wo es nicht nur um eine Transaktion geht,
+sondern um eine immer wiederkehrende.
+Die fünf Stoffe jetzt erstmal selber durchlesen und dann brauchen wir eine sehr genaue, detaillierte
+Vielen Dank.
+Ja.
+Also für die A gehe ich davon aus, dass wir das nicht machen, weil das Geschäftsgrundlage
+entfernen würde und auch den Lieferwagen.
+als Sicherung
+entweder irgendwas, was nicht
+geschäftsrelevant ist, aber noch umgekehrt hat
+oder
+dahin?
+Nein.
+Was gäbe es da für Möglichkeiten?
+Was meinen Sie?
+Es gibt ja noch andere Sicherungsinstrumente, die eben gegenläufiger Natur sind.
+Ich sag mal Besitzkonstitut.
+Naja, wir hatten noch eine Form, wo der Besitz übergeht und das Eigentum bleibt.
+Das war der Tang.
+Und das Eigentum übergeht und das Besitz bleibt.
+Richtig.
+Und wie hieß das?
+Genau um das geht es dann.
+Da es mit Eigentum zu tun hat, steckt es auch drin, Sicherungsübereignung.
+Also A, warum hält der Gemüsehändler für diesen Fall das Pfandrecht für ungeeignet?
+Erstmal führe ich das jetzt ein bisschen genauer aus, ja, also Pfandrecht, also Voraussetzung ist akzessorisch, okay, an der Förderung gebunden, Einigung, drittens Übergabe des Pfands, Faustpfand.
+Also, wegen A, wegen Übergabe des Pfands, denken Sie an den Begriff Faustpfand.
+Das heißt, dass er den dann schon direkt übergeben müsste?
+Ja, ja, er müsste das, genau, ja.
+macht die Sache. Wenn bei der Sicherungsübereitung der Betrag zurückgezahlt wird, geht das eigentlich wieder an den Bauer zurück, an den Händler zurück?
+Klar, das ist ja nur ein Vorübergehend. Ja genau, das ist so definiert.
+Der Händler macht die Sache für den Händler ungeeignet, da er das Fahrzeug nutzen muss.
+Deswegen, also stattdessen,
+könnte eine Sicherungsübereignung vorschlagen.
+Das heißt, er bleibt im Besitz des Fahrzeugs und der Bruder wird Eigentümer.
+Wenn er das jetzt nicht zurückzahlen könnte, die 8.000 Euro, dann kriegt der Bruder quasi das Auto.
+Er verwertet das dann.
+Wenn er das dann für 20.000 Euro verkauft, müsste er die 12.000 Euro wieder zurückgeben.
+Wahrscheinlich ja.
+Er hat zwar das ganze Auto, aber eigentlich sind es doch nur die 8.000 Euro.
+Ich nehme an, dass er dann die Kosten des Verkaufs und so weiter auch noch mit in Erhöhung setzen kann.
+Ja, also ist Ihnen das bewusst geworden nochmal, dieser Unterschied zwischen Pfand als Sicherung
+Versus Sicherungsübereignung.
+Übereignung.
+Dieser Unterschied muss im Genuss sein.
+Also das hier ist eine ziemlich schriftlastige, schreiblastige Übung, aber wir müssen uns
+ja irgendwie durchquellen.
+Nimm gleich ein Ende.
+Jetzt ist die Frage nach Covenant. Sie erinnern sich, dunkel, an die Vorlesung.
+Welche zwei Arten werden unterschieden?
+Wir haben Covenants im Sinn von Sicherungsklauseln und wir haben auf der anderen Seite die Financial
+Wie ist die Wirkungsweise in Form von Sicherungsklauseln bei den Covenants?
+Das heißt, es gibt positive oder negative Erklärungen, das heißt Do's und Don'ts, also du musst das und das tun, beziehungsweise du darfst das und das nicht tun.
+Das ist eigentlich alles.
+Und bei den Financial Covenants, da geht es darum, dass bestimmte Kennzahlen erreicht werden müssen.
+Seien es Verhältniskennzahlen aus der Bilanz oder Ergebniskennzahlen.
+Beides soll dazu führen, dass die Wahrscheinlichkeit einer Rückzahlungsfähigkeit erhöht wird oder hoch bleibt.
+In beiden Fällen geht es darum, dass es keine tatsächliche Sicherheit im Sinn,
+dass ich etwas in der Hand hätte oder etwas veräußern kann,
+aber die Wahrscheinlichkeit bei Einhaltung dieser Covenants, dass es zu einer Rückzahlung kommt, ist einfach höher.
+Wenn ich es nicht tue, dann drohen mir eben Zinserhöhungen oder Kündigungen des gesamten Kredits.
+oder ich muss
+gegebenenfalls zusätzliche oder neue
+oder andere Sicherheiten
+stellen.
+Dann bin ich aber sowieso
+in einem neuen Kapitel.
+So, jetzt kommt das, wo wir vorhin schon mal gestalpert sind.
+Welche Arten der Kreditsicherungen werden im Grundbuch eingetragen?
+Ja, die Grundschule.
+Das ist nur eine davon.
+Wie ist der Überbegriff?
+Okay, halber Punkt.
+Weiß jemand?
+Wissen Sie es?
+Oder Sie?
+Mann, da habt ihr noch nie vor.
+Der Überbegriff sind die Grundpfandrechte.
+Die Grundpfandrechte. Und die unterteilen sich wiederum in Hypothek, beziehungsweise Grundschuld.
+Um die geht's.
+Das war die A.
+Und woraus ergibt sich die besondere Sicherheit des Grundbucheintrags?
+Das ist ein wichtiger Begriff.
+Sie haben öffentlichen Glauben oder öffentliche Genießen.
+Also das Grundbuch, das muss man sagen.
+Das ist sozusagen Sarko-Sankt. Das ist nicht anzweifelbar. Was da drin steht, ist so wie es ist.
+Grundbuch genießt öffentlichen Glauben.
+Ich darf mir sicher sein, dass hier kein Schmuh betrieben wird, dass es keine Nebenabredungen gibt, dass es keine Abweichung von dem gibt, was im Grundbuch steht.
+Ich darf mich zu 100% darauf verlassen, dass dies so ist, wie es drinsteht.
+Das nennt man öffentlichen Glauben genießen.
+Deswegen ist es ein sehr wichtiges Instrument.
+Was versteht man unter einer Sicherungsabtretung?
+Dann würden Sie gleich mal versuchen, ein Schema zu zeichnen.
+die werden
+Kreditnehmer und Kreditgeber
+die werden fast verbreitet
+im Namen
+Haben Sie?
+Was ist das letztlich? Eine Sicherungsabtretung?
+Ja, aber woraus besteht, was bedeutet Sicherungsabtretung? Was ist das denn? Was steckt dahinter?
+Was wird abgetreten? Mit dem hat es zu tun.
+Förderung wird abgetreten.
+Genau, das ist eine Förderungsabtretung.
+Die Sicherungsabtretung ist eine Förderungsabtretung.
+Wie nennt man da den Kredit- oder den Sicherungsnehmer
+beziehungsweise einen Sicherungsgeber.
+Wie nennt man die?
+Das ist der
+Kreditnehmer und Kreditgeber.
+Aber hier ist es der,
+bei der Sicherungsabtreter
+ist es der,
+der, der den Kredit gibt
+und die Sicherheit bekommt,
+ist der Zessionar und der,
+der die Sicherheit gibt,
+also die Forderungen abtippt,
+das ist der Zedent.
+Das ist wie der, das kann man sich gut merken, es handelt sich um eine Zession bei der Sicherungsabtretung und wie der Delinquent ist der Zedent, der etwas schuldig ist und der Besichtigte in Förderung und Abtretung und der Zessionar ist der, der es erhält.
+Und dann haben Sie diese Abhängigkeit, also der hat eine Förderung gegenüber dem Drittschuldner,
+der Zedent gibt die in Form einer Zession ab an den Kreditgeber, der gewährt daraufhin den Kredit
+und kann dann bei der offenen Zession auf jeden Fall direkt auf den Drittschuldner zugehen.
+So sieht das aus.
+So, und jetzt sind wir schon dabei.
+Das wäre jetzt also, das wäre quasi so, wie es bei der offenen Zession ist.
+Was ist der Unterschied zwischen offener und stiller Zession?
+Oh, shit!
+Ja?
+Also dass der Kreditnehmer dem Kreditgeber nicht Bescheid gibt, dass es eine Zession gibt, dass er eine Stimme nicht gibt.
+Ja, genau. Also die Information, die Vorabinformation des Drittschuldners über die Zession.
+Und das ist genau, weiß der Drittschuldner, die Nummer B, weiß der Drittschuldner über die Abtrittung in jedem Fall Bescheid?
+Nö, nee, da muss man unterscheiden, Unterscheidung in stille Zession und von der offenen Zession.
+Und dann muss man eben sagen, also gemäß dieser Frage, bei der stellenden Session nein,
+bei der offenen Session ja.
+Halleluja! Jetzt sind wir mit dem Thema durch. Jetzt können wir mal in die Berechnungen
+wieder gehen. Darüber bin ich sehr freuen. Jetzt kommt erst eine Aufgabe, die ich gar
+nicht mag, aber gehen Sie sie trotzdem mal an, da können wir darüber diskutieren. Das
+wirft uns Wochen zurück, diese nächste Aufgabe, weil hier kommt nochmal Investitionsrechnung
+und spiele.
+Vielen Dank.
+Amen.
+... Musik ...
+Okay.
+Das ist ein Tätowierter.
+Vielen Dank.
+Das ist nicht gut.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Und was haben Sie herausgefunden?
+Ich habe gerade die Formel nicht mehr ganz im Kopf.
+Kann man nachschlafen. Welche brauchen Sie dann?
+Die Reihe mit den Sinssätzen und ...
+Also die geometrische Reihe, die war Q hoch N minus 1 durch Q minus 1.
+Das war die geometrische Reihe.
+Q hoch N minus 1 durch Q minus 1.
+Durch N minus 1, oder?
+Q hoch N minus 1 durch Q minus 1.
+Das ist die geometrische Reihe.
+Ja, das wäre die Lösung für die zweite.
+Ne.
+Für was?
+Für die...
+Also jetzt sagen Sie mir mal, was Sie tun werden.
+Was wollen Sie tun?
+Den Barrett aus Berlin.
+Um was zu erreichen?
+Um zu gucken, was im Endeffekt mal kostet.
+Wie sehen Sie es?
+ich würde Ihren Weg
+akzeptieren
+in der Klausur
+ich halte ihn auch für richtig
+es gibt einen Lösungsvorschlag für die Aufgabe
+also Sie wissen um was es geht
+bei der Aufgabe, Sie haben sie durchgelesen
+Sie haben überlegt
+der Lösungsvorschlag dieser Aufgabe
+wird präsentiert
+die Berechnung des Endwerts
+und den dann miteinander zu vergleichen
+da habe ich auch erst gedacht
+was ist das für ein Blödsinn
+Und ich bleibe auch dabei, ich halte es nicht für richtig.
+Ist für mich aber deswegen trotzdem eine gute Aufgabe, um zu zeigen,
+dass man da etwas in Schwingen geraten kann.
+Und ich habe versucht, was vielleicht die Argumentation dieses Aufgabenstellers war.
+Die Argumentation könnte sein, wenn ich hier den Endwert miteinander vergleiche,
+vergleichen, dass es darum geht, ich bekomme die Ware in 48 Monaten und jetzt geht es darum,
+dem Wert der Ware, dem Wert des Geldes gegenüberzustecken. Also was ist jetzt dann eigentlich, was passiert
+bei dem Zeitpunkt der Übergabe? Entspricht das, also welcher Wert ist dann der größere
+bzw. der kleinere, der der Ware entgegensteht? Das ist für mich aber ziemlich von hinten
+durch die Brust überlegte Begründung,
+warum hier der Endwert genommen wird.
+Und um ehrlich zu sein,
+ich würde hier erwarten,
+ich muss jetzt eine Entscheidung treffen,
+heute eine Entscheidung treffen,
+über Zahlungsströme, die jetzt in der Zukunft stattfinden werden.
+Und wenn es darum geht, jetzt eine Entscheidung zu treffen,
+dann muss ich den Wert für heute definieren
+und dann haben Sie recht,
+dann wäre es der Barwert.
+Heißt, was wäre zu tun?
+Also ich sage Ihnen,
+ich bringe mal ganz kurz den
+Ich habe auch geschrieben,
+wo ich sehe, habe das Ding
+Ne, habe ich gar nicht.
+Wieso nicht?
+Schlecht.
+Normalerweise schreibe ich es immer rein.
+Also Musterlösung gemäß Buch
+Berechnung, Endwert.
+Das halte ich eigentlich für falsch.
+Also wenn man den Endwert berechnet, wie wäre das dann zu machen?
+Dann wäre A, müsste ich aufzinsen über die Folgejahre diese erste Zahlung, 500.000 Euro, mal Q hoch N,
+plus zum Zeitpunkt in 48 Monaten diese 2 Millionen Euro, kommt raus 2.732.000, 0,50.
+Und für B würde rauskommen, ich habe 585.000 Euro und das multipliziere ich jetzt einfach
+mit der geometrischen Reihe, ist also dieses Q hoch N minus 1 durch Q minus 1 und da komme
+ich dann auf 2.714.085 Euro damit wäre aus meiner Sicht wäre dann B ist besser
+Die entscheidende Frage für mich hier ist, ist es korrekt, den Endwert zu nutzen?
+Und jetzt muss ich Ihnen ganz klar eine Meinung mitgeben.
+Meines Erachtens wäre immer noch die Maßgabe, es ist eine Entscheidung heute zu treffen
+und die treffe ich auf der Basis des Wertes der Zahlung, wie sie sie heute darstellen.
+Und zwar über Zahlungen heute zu treffen.
+Also muss ich deren Wert, also dieser Zahlung, auf heute erzielen.
+Also müsste der, es müsste der Barwert berechnet werden.
+So, und wie sieht es dann aus?
+Dann müssen Sie mir helfen.
+dann hätte ich die 500.000 Euro, und was wäre mit denen zu machen?
+Richtig, die werden nicht diskontiert, und dann habe ich die 2 Millionen Euro,
+mal 1 durch Q hoch N.
+Das wäre die eine Version.
+Ich weiß jetzt nicht, was rauskommt.
+Die andere Version wäre,
+schlichen wir einfach die Zahlungen,
+die 585.000 Euro.
+Aber jetzt
+die geometrische Reihe,
+auch wieder,
+aber mit 1 durch q hoch n vorgelagert
+1 durch q hoch n mal
+q hoch n
+minus 1 durch q minus 1
+Das wäre gemäß Barwert
+Ich habe da wirklich gestanden und nochmal, die Argumentation, die einzige Art der Argumentation, die mir da eingefallen ist, warum er das gemacht hat, ist, um den Wert für den Zeitpunkt festzustellen, an dem die Ware geliefert wird.
+So könnte man es natürlich argumentieren.
+Richtig? Also man könnte darüber sinnieren zumindest.
+Sie haben uns ja die Frage freigestellt.
+Bitte?
+Sie haben uns ja die Frage freigestellt.
+Wieso?
+Das steht ja wirklich, für welche Zahlungsalternative werden Sie sich entscheiden?
+Also, dann müsste es ja anders gesagt sein.
+Wie viel ist die Ware dann mehr?
+Also, was ich Ihnen versprechen kann,
+also es geht ja immer wieder bei diesen Aufgaben,
+es geht immer wieder darum, dass Sie entscheiden müssen,
+Nutze ich den Zeitwert, nutze ich den Barwert, nutze ich den Endwert?
+Ich werde Aufgaben in der Klausur bringen, die für mich und für Sie dann hoffentlich auch eindeutig sind.
+Also es wird nichts geben, wo Sie rätseln müssen, was ist jetzt gemeint, der Barwert oder der Endwert?
+Also für mich ist es eindeutig.
+Und auch wenn ich die Ware erst in zwei Jahren geliefert bekomme, treffe ich eine Entscheidung
+heute über zukünftige Zahlungen und muss mir klar machen, was ist mir mehr oder weniger
+wert, aus freudiger Sicht. Und deswegen finde ich die Musterlösung auf jeden Fall falsch.
+Das muss nicht zwingend so sein. Ich weiß jetzt nicht, wie die Werte sind.
+Also bei der A sind es 1,8666 Millionen.
+Ja, bei der B?
+Ich habe ein bisschen Hemmungen, das jetzt hinzuschreiben, falls ich da einfach...
+Ich habe sie bezogen.
+Können Sie sich gegenseitig bestätigen, die Werte?
+1,866 Millionen habe ich auch.
+Also 1,866.026.
+26? Also 0,26?
+0,26.
+Haben Sie das auch? Ich möchte jetzt keine Fehler dahin schreiben.
+Beim anderen habe ich 1,8, 5, 4, 3, 7, 1, 0, 0, 0, 0, 3, 7, 1.
+So, und hier würde,
+das würde hier zufälligerweise gleich herauskommen,
+das muss aber nicht sein.
+Wenn Sie den Zins nach oben setzen,
+dann verschärft sich die Diskontierung
+und dann ist die Wahrscheinlichkeit groß, dass das kippt.
+dann sind nämlich diese 2 Millionen, die am Schluss bezahlt werden,
+deutlich stärker diskontiert als diese 585, die jährlich bezahlt werden.
+Also wenn Sie den Zinssatz jetzt nach oben treiben würden,
+das heißt, womit haben wir gerechnet?
+Mit 10%, wenn wir auf 15% oder 20% gingen, theoretisch, dann kann das kippen.
+Dann ist es beim Endwert nach wie vor klar, dann bleibt das so,
+aber der Barwert, die Verhältnisse im Barwert, die können sich dann verändern.
+Tja, ich glaube, Sie wollen gar nicht mehr weitermachen, oder?
+Ich mache gern weiter, ich finde es klasse.
+Ehrlich?
+Ja, das muss so sein.
+Gut.
+Ehrlich?
+Das muss so sein.
+Gut.
+Also vor Weihnachten.
+Vor Weihnachten haben wir noch 2.
+Genau.
+Das heißt...
+Wir kriegen die 9 fertig, die 10 nicht ganz.
+Das wird schon alles eng.
+Dann die Zehen in die Bild.
+Ja, so sieht es aus.
+Ja, zweimal.
+Ist erschreckend.
+Also, ich habe sie hier gefragt, sie wollen nicht zufällig
+Also, ich habe Sie ja gefragt, Sie wollen nicht zufällig am 24. Mai.
+Jetzt kann ich das so unterholen.
+Ich frage mich, da wo die Lufthansa ist.
+Ich glaube, da drüben.
+Da hat die Hochschule schon geschlossen.
+Am 24. Mai.
+Ich muss weiter.
+Ich habe mich verliebt. Das sehe ich gerade.
+Okay.
