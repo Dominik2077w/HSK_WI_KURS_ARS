@@ -1,0 +1,1365 @@
+Nichts geht verloren.
+Sie sollten mir sowas zeigen.
+Das hier zeigen, so eine Art Oberkopfschmerz, das ist, was da noch mal geht, okay?
+Einfach mal ganz grob aufzeichnen, damit Sie dann später das erzeichnen können.
+Okay? Gut.
+Also, das heißt, erstmal bitte eine Röntgenstruktur zeichnen, auf Basis von den Angaben hier, und das zweite ein Grober Röntgen.
+Gebe ich Ihnen mal so 10 Minuten.
+Wie ist denn das?
+Guck mal, wie fest sich das hier erledigt hat.
+Vielen Dank.
+Okay.
+Amen.
+Das war's.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Das war's für heute.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+So, schauen wir uns mal an.
+Also wie muss das Ding ausschauen, die Zeilenstruktur, das ist ganz einfach so, ich habe jetzt die
+Stiche ein bisschen nachher gezogen, die sind zu eng, relativ einfach, Baukasten und dann
+wenn man natürlich sagt, ich möchte jetzt einen Grobablauf machen für die Baugruppe
+Das heißt, ich schaue mir die Baugruppe 50 an, mit Ausgangspunkt 80, dann mache ich das natürlich hier drüben.
+Das ist dann die Baugruppe 80 und jetzt steht nämlich hier drin, dass mir hier, wie man versteht,
+der Einbau der Baugruppe 50 beginnt fünf Tage vor Fertigstellung des Zeugnisses.
+Also die Baugruppe 50 muss hier fünf Tage vor Erzeugnis 80 eingehen verpacken.
+Ich habe drei Tage Zwischenlagerzeit, das heißt, das ist Arbeitstag 8, 8. Tag.
+Dann war ich im Baubaugruppe 50, die besteht aus drei Weitenbaubruppen, 17, die eben nicht mehr weiter bei uns zugänglich hat,
+45, die aus 11 und 16 bestehen, 46, die aus 15 und 19 bestehen.
+Und jetzt ist halt immer wieder die Frage, wie lang ist jeweils so ein Weiten?
+Das ist jetzt das, was wir als nächstes ausrechnen müssen.
+So, jetzt hilft nichts, jetzt gehen wir mal mit der Welle.
+Wir wählen die Arbeitsgänge auf das hier. Dann haben wir den Arbeitsgang.
+Dann haben wir die Bearbeitungszeit.
+Eine Minute, dann die Tage und dann die Hunde.
+Dann ein Arbeitstag, hier entspricht 900 Minuten.
+Tagesarbeitszeit 15 Stunden, 15 mal 60 sind 900 Minuten und dann ist die Übergangszeit.
+Gut, den wissen wir, das sind fünf Tage, das sind drei Tage, jetzt brauchen wir die Länge von den beiden.
+Also wir haben hier drei Arbeitsgänge, also Material 50 und jetzt 1, 2 und 3 und das ist der Zusammenbau, Schleifen und Schmeißen.
+Dann was ist die Bearbeitungszeit? Fünf Minuten ist hier das Rüsten, sechs und sieben. Wir machen
+200 Stück. Und dann haben wir noch 8, 15 und 10 als die Einzelarbeitszeit. Also hier ist immer
+Und dann kommen wir hier auf 1065 Minuten, hier haben wir 3006 Minuten und hier haben
+Und wir haben 2802 Arbeitstage sind, dann ist das hier 1,8.
+Das hier sind 3,3 und das hier sind 2,2.
+Hier unten haben wir zwei Arbeitslager, hier unten haben wir zwei Arbeitslager, hier unten haben wir zwei Arbeitslager, hier unten haben wir ein Arbeitslager, hier unten haben wir ein Arbeitslager.
+Das haben wir auch zum Text raus.
+Hier steht drei Tage Zwischenlagerung und Arbeitsgangwechsel, ein Tag.
+So, dann haben wir Fünferfahrzeug, zwei Arbeitsgänge, Bohrung, Zusammenbau.
+Ich mache jetzt nicht mehr welche, ich glaube, der ist klar.
+Das heißt, ich mache jetzt hier einfach die 1.603 Minuten und hier 2.205 Minuten.
+Dann gibt es 1,8 Arbeitstage und dann 2,5 Arbeitstage.
+Zwei Arbeitstage gehen und hier haben wir einen Arbeitstag über uns.
+46 hat nur einen Arbeitsgang, das ist der Zusammenbau.
+Der braucht 3245 Minuten.
+Das sind 3,6 Arbeitsgänge und 4, hier hinten haben wir dann kein Arbeitsgang mehr, also muss das jetzt stoppen.
+So, jetzt müssen wir noch einen kleineren Bauchdruck machen, das sind 2 Arbeitsgänge, trennen, 1, 2, 3, 4, 5, 6, 7.
+2,2, 3,5.
+Wir haben ein A-Wert.
+Dann ein A-Wert.
+Ein A-Wert.
+Schleifen.
+Schleifen.
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Wenn man das genau anschaut, kommt hier hinten irgendwas Chef-Service raus.
+Hier könnt ihr argumentieren, ob man das 4 macht oder 4,5.
+Ich mache 4,5.
+Ich bin der letzte Mitarbeiter.
+Ich gebe denen Zeit für Arbeitslänges, also für 15.
+Jetzt könnte jemand sagen, 15 brauchen wir ja zweimal.
+Also hier haben wir 15 und da haben wir 15.
+Jetzt können wir einmal ausrechnen, was ist mit 400.
+Oder wir sagen, wir rechnen jetzt einfach mal den Batch aus, die Losgröße 200
+und überlegen uns dann, wie wir das im Arbeitsplan unterbringen.
+Das heißt, ich rechne jetzt für 200, das mal aus, ob wir dann für 400 brauchen, sehen wir dann.
+Also 2.450 drehen, 3.525 anbohren, das sind 2,7 Tage hier, 3,4 hier, 3,3 hier und hier.
+Und dann noch die letzte.
+Vier Arbeitsgänge.
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40.
+4,5, das ist schon aufgewandelt.
+6.
+Vielen Dank.
+Amen.
+Amen.
+Amen.
+... Musik ...
+Wenn ich jetzt diesen Balken zeigen möchte, also wenn jetzt die Zeit nach vorne geht,
+dann mache ich natürlich erst den Zusammenbau mit zwei Arbeitstagen,
+dann kommt hier diese 1-Tage-Übergangszeit, dann kommen hier 3,5 Tage
+und dann kommen hier nochmal 2,5 Tage.
+Das heißt, wenn ich jetzt das abarbeiten würde, dann wird hier 1, 2, 3 gemacht, oder?
+Wenn ich jetzt rückwärts trianguliere und ich möchte das jetzt hier einfügen,
+dann muss ich natürlich jetzt schon das dritte Ersetzen machen.
+Also das letzte, was ich mache, ist jetzt schmeißen mit 2,5.
+Dann kommt hier der 3,5er Block und dann kommt hier der 2er Block.
+Damit ich dann in die Richtung lesen kann.
+Ich glaube, logisch, oder?
+Genauso hier bei dem 5,14. Da muss natürlich der 2er Block hier sein und dann kommt hier der 2,5er Block.
+So, und damit Sie sich jetzt nicht hier abmühen mit diesen Zeilen, können Sie ganz kurz auf Google gehen.
+Und dann finden Sie hier, so hat es gemeint, oder?
+Hat schon angefangen.
+Dann haben Sie hier, machen Sie das mal auf.
+Also da sehen Sie das Schweißen, also jedes Kästchen ist ein halber Tag.
+Jetzt auf den Bühnen können Sie das hier bauen, brauchen Sie es nicht zeigen.
+Dann sehen Sie hier immer ein halber Tag und dann sehen Sie das Schweißen, das sollte jetzt fünf Kästchen sein.
+also zweieinhalb Tage. Dann haben Sie zwei Tage Übergangszeit, dann haben Sie mit dem Schleifen
+die 3,5 Tage, also sieben Kästchen und der Zusammenbau, der ist zwei Tage, vier Kästchen.
+Dann haben Sie das Zwischenlager mit drei Tagen, also das hier sind drei Tage.
+Drei Tage.
+Und dann hier haben Sie wieder die, so ist besser, und hier in dem Fall haben Sie beim Baugruppe 45, beim Zusammenbau, also schauen wir hier, Baugruppe 2,5 und 2, das heißt hier haben wir die 2,5.
+Und dann haben wir hier die 2.
+Dann dasselbe hier bei der Baugruppe 11.
+Ich habe die 15 nach unten gezogen, weil die jetzt für unser Beispiel nicht ganz so dick ist.
+Bei der Baugruppe 11, wenn wir schauen, haben wir 4,5, 2 und 2,5.
+Also auch wieder von hinten das Ganze zeigen.
+4,5, 4,5, 7, 2 und 4,5, 2,5.
+Und so ist es einfach dargestellt.
+Und ich weiß, Sie alle kennen auch eines Projects,
+oder hoffe ich, dass Sie das kennen,
+dann im nächsten Semester.
+Ich meine, es ist natürlich eine einfache Netzplan-Technik, dieses Aneinanderreihen.
+Und das muss ich natürlich im Kleinen den Großen machen, wenn ich jetzt so ein Auftrag habe.
+Es ist ein Vergebungsauftrag, es ist nichts anderes als ein Projekt im Kleinen.
+SAP bietet das auch an.
+Überraschend wenig Firmen nutzen die Funktionalität.
+Können Sie sich vielleicht vorstellen, warum?
+Weil sie viel wieder nutzen.
+Genau. Da muss man nämlich ganz, ganz genau erst mal darauf achten, dass alle Zeitgeber, die in diesem SAP-Programm sind, stimmen.
+Der Arbeitsplan stimmt meistens noch. Was viele Firmen überhaupt nicht wissen, die kennen ihre eigenen Übungszeiten gar nicht.
+Das ist häufig ein Bauchgefühl von dem Planer und von dem Meister.
+Weil was natürlich sein kann ist, und das ist in vielen Industrien ganz häufig der Fall,
+dass die Übungszeit zwischen dem Drehen und Bohren kürzer ist, weil die vielleicht direkt nebeneinander die Abteilungen sind
+und ich da zu viel Kapazität habe, aber dann zum Beispiel Übergangszeiten zwischen dem Sägen und dem Fräsen
+sind nicht einfach, sondern zweitragig.
+Das heißt, ich brauche dann eventuell, muss mit Matrizen arbeiten,
+wie groß die Übergangszeiten zwischen den einzelnen Arbeitsplätzen sind.
+Dann ganz viele Firmen, die achten auch gar nicht darauf, dass Waren-Eingangszeiten gepflegt sind.
+Da steht immer nur die voll Null drin.
+Also wie viele Firmen ich war, die waren Eingangszeiten in den SAP-Formularen gepflegt.
+Und wenn da halt immer Null drinsteht, ist es kein Wunder, dass alles zu spät ankommt und die Leute für den Zivari suchen müssen.
+Und das ist etwas, Leute tun sich unglaublich schwer, Zeit in den SAP zu pflegen.
+Stückwissen passen 100% die Arbeitspläne auf, aber dann diese Prozesszeiten dazwischen, da können einfach zu viele Leute drin rumwurschteln.
+Genauso diese Zwischenlagerzeit, die muss ich halt dann auch einpflegen und die will man halt gerne reinhalten,
+weil man sagt, oh, das ist ja ganz schlimm, das verhaut unsere Durchlaufzeit.
+Aber wenn man halt mal ehrlich ist, drei Arbeitstage sind unglaublich schnell.
+Also Sie haben die Baugruppe fertiggestellt, wird abgelegt und dann ist die Frage, was kommt als nächstes?
+Ganz häufig kommt nur ein Qualitätsschritt zwischen den Baugruppen.
+Und das muss ich natürlich ehrlicherweise beim Arbeitsplan berücksichtigen.
+Haben Sie vielleicht so einen Punkt in Ihrer Bekanntschaft, der sagt, ja, nach München fahren wir eineinhalb Stunden.
+Die Aussage kann durchaus korrekt sein, aber bis man alles eingesammelt hat, muss man vielleicht fünf Minuten vorher dazurechnen.
+Und bis man ein Parkplatz in München hat, muss man auch noch mal zehn Minuten rechnen.
+Also wenn Sie jetzt einen Termin haben in München, dann darf ich nicht die reine Fahrzeit berechnen.
+Und das ist genau das Problem auch bei Produktionsplanern.
+Die deine Fahrzeit, das ist das hier.
+Das ist im Prinzip das hier.
+Aber ich muss halt auch die Übergangszeiten und meine Zwischenlagerzeiten eher nicht berichten.
+Das sind die Pausen, die man braucht.
+Das sind diese Einlagerzeiten, Transportzeiten, Qualitätszeiten und so weiter.
+Und die werden in vielen Firmen sehr stiefmütterlich behandelt.
+Weil man halt da schnell von Tagen redet und dann fühlt man, dass kein Mensch mehr da ist.
+Ist ja auch klar.
+Okay, also das ist dann so etwas, was dann dabei rauskommt.
+Nachvollziehbar? Ich denke schon.
+Gut, jetzt haben wir hier noch ein kleines Problem in unserer Aufgabe.
+Das wäre ja langweilig.
+So, Arbeitsgangwechselergebnis.
+Jetzt erstmal die Durchlaufzeit für Baugruppe 50.
+Wer kann mir die sagen?
+Durchlaufzeit für Baugruppe 50?
+Gucken Sie doch mal.
+Das war eine Fangfrage.
+Für Baugruppe 50, für was stehen die 48 Tage?
+Genau, also wie viel müssen Sie noch abziehen?
+Ach genau, also die wirkliche Dünndaufzeit für Baugruppe 50 ist 40,5 Tage.
+Und dann kommen nochmal die 8 Tage drauf, bis es tatsächlich in Baugruppe 18 ist.
+In der Realität müsste ich natürlich das komplette Bauteil jetzt hier darstellen,
+also da müsste ich natürlich dann auch zeigen, wie lange brauchen denn die denn noch
+und dann wäre das natürlich hier noch ein größerer Plan.
+Aber das macht es tatsächlich schwieriger, sondern es ist halt einfach noch ein bisschen komplexer,
+weil Sie halt noch mehr Daten berücksichtigen müssen.
+Also das heißt, Sie haben 48,5 Tage Gesamtdurchlaufzeit für diesen Baugrupp.
+Ich meine, hier weiß ich nicht, ob ein Langreiter drin ist.
+Und die Baugruppe 50, die braucht an sich 40,5 weitere Arbeitskarten.
+Was sind 40,5 Werktage nochmal in der Realzeit, ungefähr, überschlagen?
+Dürfe ich fragen?
+Also wie viele Werktage hat in der Regel ein Monat?
+Wie ist die von Weihnachten und August?
+20.
+Also wenn Sie irgendwas denken, Sie müssen wächen, Sie sind 20.
+Manche haben 22 Tage, manche haben eher 20, aber mit 20 sind Sie auf der sicheren Seite.
+Das heißt, wenn irgendjemand kommt und fragt, wie lange braucht denn das?
+Was kann ich dem Kunden für einen Termin nennen?
+Dann müssen Sie sagen, naja, wir brauchen über 50 Euro, eine, zwei, drei.
+Wenn Sie nämlich ein Vertriebler sagen, 40 Arbeitstage, was meldet der seinen Kunden?
+Genau.
+Vertriebler sind fies.
+Woher weiß ich das? Ich bin selber einer.
+Wir legen natürlich alles, was wir müssen, mit unseren Kunden aus.
+Okay? Also, das ist immer so eine Zahl, 250 Tage, 20 Tage pro Monat ungefähr, das sind so Zahlen, die man im Hinterkopf hat.
+Und wie viele Stunden arbeitet ein Mitarbeiter nochmal ungefähr im Monat? Das war die Zahl nochmal.
+Wie viele Stunden pro Monat arbeitet ein Mitarbeiter?
+Was ist normalerweise, wie viele Stunden arbeitet man so im Schnitt in der Woche?
+Das heißt, der Mitarbeiter ist ungefähr 160 Stunden verfügbar im Monat.
+Das heißt, wenn es irgendwo heißt, so und so viele Mannstunden braucht ein Auftrag,
+also das sind 320 Konstruktionsstunden, dann wissen Sie, ein Mitarbeiter sitzt zwei Monate nonstop an dem Ding dran.
+Das sind einfach so Zahlen, die sollte man sich so ein bisschen verinnerlichen.
+Und wenn dann ein Mitarbeiter sagt, ja, ich habe so und so viele Stunden im Jahr gearbeitet, können Sie das mit dieser 160 auch nochmal ganz schön überschlagen.
+Weil Sie wissen dann, wenn Sie den 10 Monate hinsetzen, macht er 1600 Stunden.
+30 Tage ist dann Urlaub, das sind eineinhalb Monate.
+Das ist nicht eine Frechheit, die Mitarbeiter dürfen eineinhalb Monate Urlaub geben.
+Wo sind die guten alten Zeiten, dass wir keinen Urlaub gewähren müssen?
+Ja, und das heißt, ein Mitarbeiter kann im Jahr 1.600, 1.760 Stunden maximal leisten.
+Das ist etwas, was man von einem Mitarbeiter tatsächlich verlangen kann.
+Und alles andere, das hilft halt, solche Projekte abzuschätzen.
+Wie lange darf das dauern?
+Gut, so, schauen wir uns die nächste Aufgabe an, die wir haben.
+Und zwar führen Sie für Tag 36 eine Kapazitätsfinanzierung für betroffene Arbeitsgänge durch.
+Jetzt kommt die große Aufgabe für Sie.
+Markieren Sie mal da den Tag 36. Überlegen Sie mal ernsthaft, wo ist hier der Tag 36 in dieser Grafik.
+Welche zwei Kästchen müssen Sie markieren, dass Sie Tag 36 markiert haben?
+Das ist schon immer so eine Stolperstelle, die an der Kugel ist.
+Das ist alles markiert worden, wo ist der Tag 36?
+So, wo haben Sie markiert?
+Also im Prinzip ist es ja relativ einfach.
+Wenn das hier Tag 1 ist und das hier Tag 2, Tag 3, Tag 4, Tag 5, dann ist das hier Tag 6.
+Also müsste Tag 6 und 3 sein.
+Ich habe zu viel getrunken, scheint es so. Das ist ungefähr Tag 36.
+So, ganz schief. Aber wissen Sie was? Ich schummel, ich schummel jetzt.
+Hier ist die Originaldatei. Kann ich nicht mit dem Excel markieren.
+So, Tag 36, okay?
+Wenn das hier Tag 1 ist, also wenn das hier Tag 1 ist, die zwei Kästchen, dann sind die
+zwei Kästchen Tag 2, 3, 4 und dann ist das, was davor steht, Tag 5.
+Also muss danach Tag 36 sein.
+Gut.
+Also, da haben wir hier Tag 36 und jetzt sollen wir dafür eine Kapazitätsfinanzierung durchführen.
+Jetzt lasse ich Sie mal kurz alleine, oder? Was machen Sie das?
+Jetzt gucken Sie mal, ob Ihre Kapazitäten ausreichend für den Tag sind.
+Rechnen Sie aus, wie diese Maschinen hier belegt sind und schauen Sie, ob das mit Ihrer Kapazitätseinheit hier übereinstimmt.
+Und dann sprechen wir über Ihre Rechnung jetzt.
+Vielen Dank.
+Amen.
+Amen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Und wieder weiter.
+Dann schauen wir uns diesen Tag mal genau an.
+Also wir haben hier überraschenderweise lauter Drehvorgänge.
+Also der Plan, wenn wir den jetzt einfach so stupide runterzeichnen,
+werden wir feststellen, dass hier alle vier Aufträge,
+nämlich für das GT11, für das GT15, das GT15 zum zweiten Mal und das GT19,
+dass die alle beim Drehen am gleichen Tag lang. Und zwar einmal das ET11 hier mit 15 Stunden,
+den ganzen Tag, weil ganze Tage sind rund 15 Stunden, dann hier das auch mit 15 Stunden,
+das hier auch mit 15 Stunden und das hier mit 7,5 Stunden. Das heißt in Summe haben wir 52,5
+Stunden Drehbedarf. An sich sagt die Zahl nichts aus, weil der Bedarf sagt erstmal nicht aus,
+ob wir entdecken können oder nicht, sondern, das müssen wir jetzt machen, eine Kapazitätsbilanzierung.
+Hätten wir jetzt nur eine Drehmaschine mit einer Person, dann haben wir das Problem natürlich,
+dass wir eine Unterdeckung haben. Aber, wir haben zwei Betriebsmittel und wir haben vier Mitarbeiter,
+vier Arbeitskräfte. Das heißt, was haben wir zur Verfügung? Das heißt, hier oben 23 Stunden
+je Betriebsmittel und hier haben wir 7,5 Stunden je Arbeitskraft. Das heißt, hier haben wir
+46 Stunden, hier haben wir 7,5, 15, hier haben wir 30 Stunden. Was zählt? Die 30 Stunden.
+Also das heißt, wenn ich jetzt hier die Finanzierung mache, 4 Arbeitskräfte 7,5 Stunden an 4, 30
+Stunden, hier 46 Stunden, halbautomatisch oder manueller Prozess vermutlich, weil es
+eine Weichstatt ist, wenn wir hier keine vollautomatische Anlage haben, weil wir haben ja auch vier
+verschiedene oder drei verschiedene Bauteile, das heißt, das Kapazitätsangebot liegt bei
+30 Stunden und damit fehlen uns 22,5 Stunden.
+und aus jahrelanger Erfahrung aus Beruf, Ehrenamt, Familie, sonstigen Tätigkeiten, habe ich eine Bitte an Sie.
+Und zwar, die lautet...
+Noch einmal.
+Noch einmal.
+Noch einmal.
+Lass sie.
+Das ist meine Bitte an Sie.
+So, jetzt natürlich durchbremsen.
+Wieso zieht jetzt mein Haus jetzt? Ich war vergessen, dass ich mich da fast schon alles erinnern kann.
+Jetzt war es meine...
+Meine Angst.
+Jetzt ist es schon nicht schön.
+Oh, jetzt ist es schon nicht schön.
+Ich muss mal ganz kurz meine...
+Machen Sie bitte nie Pläne, die nicht funktionieren, von vornherein nicht.
+Damit machen Sie sich keine Freude. In der Planungsphase sind Sie in der Regel so früh dran, dass Sie die Bugs noch ausmatzen können. Die Probleme, die Sie dann mit Maschinenausfällen haben, die Sie dann mit kranken Mitarbeitern haben und so weiter, die sind dann schon noch spannend genug in der Steuerung.
+Aber machen Sie nie einen Plan, der von vornherein nicht funktionieren wird.
+Wenn Sie einen Flieger haben, der keine Ahnung, um 12 Uhr mittags fliegt,
+würden Sie auch nicht um 11.30 Uhr losfahren.
+Weil Sie genau wissen, es funktioniert nicht.
+Und genauso ist es halt auch mit Produktionsplanung und Steuerung.
+Hier geschieht ein Wunder.
+Gibt es in der Industrie, in der Regel selten.
+Es gibt auch selten so heroische Hollywood-Film-Referenzen in der Industrie.
+Die Realität in der Industrie ist, dass Projekte nahelos angefangen werden.
+Das heißt, wir haben jetzt hier unsere Kapazitätsbilanzierung gemacht und die Frage ist jetzt, was können wir tun?
+Also, welche Vorschläge haben Sie, dass wir diese Problematik hier lösen können?
+Wie können wir diesen Ablaufplan so gestalten, dass unsere Mitarbeiter nicht anbefangen?
+Vorziehen.
+Genau. Sie meinen jetzt vorziehen im Sinne von, Sie schieben jetzt hinten nach links.
+Einfach mal hier hin, ein paar Tage, oder?
+So, dann schauen wir mal, dann haben wir 15 Stunden raus, reicht das schon?
+Nicht ganz.
+Wir fehlen uns immer noch 7,5.
+Was müssen wir noch machen?
+Man könnte den hier, oder den hier, man könnte den oder den auch nach vorne schieben.
+Also man könnte zwei von den dreien hier in die Richtung verschieben, nach vorne,
+nach vorne, weil es eh nicht auf unsere Auswirkungen, auf unsere Bearbeitungszeit liegt, oder?
+Das Ganze nennt sich dann so eine sogenannte Linksverschiebung.
+Man schiebt die zwei aus dieser gefährlichen Zone raus, Linksverschiebung,
+und dann hätte man kein Problem mehr. Ich kann auch den nehmen, das ist gerade egal.
+Also man könnte auch den nehmen.
+Das ist eine der einfachsten Möglichkeiten.
+Ich nehme die, die eh keine Gefährdung für den Zeitablauf haben und mache es als erstes.
+Schauen Sie sich ab und zu mal das perfekte Dinner an, beim Durchseppen.
+Und das ist genau das, was Leute machen, das, was ich ohne Probleme vorbereiten kann.
+Die dürfen ja immer nur in einem Tag was machen, die dürfen ja nicht vorher anfangen.
+das bereiten die vor. Und nur, was sie
+tatsächlich in dieser Zeit
+vorbereiten müssen, wie zum Beispiel ihr Fleisch
+dann braten, das machen sie dann in dieser
+kurzen Zeit.
+Aber sie haben halt auch nur zwei Hände, weil sie
+mit dem dünnen Vorhang, also mit so einem
+perfekten Dünner, müssen sie erst überlegen, kann ich
+vielleicht Soßen vorher zubereiten, kann ich
+genau dasselbe ist hier auch, was
+kann ich vorziehen, ohne dass
+meine Timeline irgendeiner Art gefährdet
+wird. Und aus diesem Grund sollte
+man nicht
+das ET19 vorziehen.
+Also das ist etwas,
+was man nicht vorziehen kann.
+Also das heißt hier,
+Linksverschiebung,
+ET15 oder ET11,
+auch möglich, ET15 BG4,
+haben wir 7,5. Kritisch ist natürlich
+ET19, haben wir eine Dönerzeit.
+Denke ich auch gut nachvollziehen.
+Das ist aber nicht die einzige Möglichkeit, das können wir auch machen.
+Also wenn ich dann diesen Plan jetzt so einstellen würde, würde er schon funktionieren.
+Hätte schon keine Meuterei.
+Man müsste jetzt halt auch schauen, also hier habe ich dann nirgendwo eins und den
+würde ich natürlich so weit rausschieben, dass keine Kollision mehr da ist.
+Was man halt dann vielleicht schauen müsste, aber hier sehe ich dann keine weiteren.
+Hier beim Rohren müsste man noch checken, ob es da ein Problem gibt.
+Das wäre so eine typische Kollision.
+dann vielleicht beim Zusammenbauen müsste man noch checken, aber das wäre so mal ein Plan, der könnte schon funktionieren.
+Gut, was könnte man noch machen? Sonstige Ideen noch?
+Das wäre eine Möglichkeit, wenn es technisch möglich ist, dann darf man natürlich tauschen.
+Können wir jetzt in dem Beispiel schlecht durchspielen, weil wir jetzt nicht wissen, was wir machen.
+Aber ich kann es mir nicht vorstellen, dass ich ein Bohren von Drehen machen kann, zum Beispiel,
+weil ich brauche wahrscheinlich erstmal die endgültige Form, damit ich die Bohrungen setzen könnte.
+Genauso Schleifen ist natürlich schwierig.
+Vielleicht kann ich hier diese Schleifarbeitsgänge irgendwie zusammenfangen.
+Aber das wäre natürlich auch eine Prüfung, die man machen möchte.
+Die zweite Prüfung, die man machen könnte, wäre natürlich, dass ich sage,
+ich verschiebe Arbeitsgänge nach rechts und versuche hier über das Zwischenlager was rauszuholen.
+Das wäre auch eine Möglichkeit, wenn ich sage, ja, das gibt ja vielleicht eh nur drei Tage.
+Ich weiß, es ist ein unkritisches Material und ich kenne den Lagerchef oder den Meister vom Lager
+und der macht da mit.
+Dann kann ich vielleicht zwei, vor allem auch der, der mein Langläufer ist, verkürzen
+und kriege vielleicht sogar noch einen Keks von meinem Chef.
+Ja, Motivation von Mitarbeitern ist ganz wichtig.
+Ganz wichtig, wenn Sie irgendwann mal Chefs sind, loben Sie lieber zu viel als zu wenig.
+Es ist verrückt, was du da anstellst.
+Also das heißt, wir könnten jetzt hier auch eine Rechtsverschiebung machen und versuchen, das Ganze zu verkürzen.
+Da bietet es sich natürlich erstmal an, meinen Kürzler, meinen Langläufer zu nehmen und den kleinen Bier.
+Ja, ich habe es ausgerechnet. Rechtschreibung von IT 5 ist um eineinhalb Arbeitstage mit 7,5 und von IT 9 ist um einen Arbeitstag, dann haben wir auch wieder 15 Stunden und wie gesagt, ich habe sogar eine Dürrlaufzeitverkürzung geschafft.
+Noch eine Idee.
+Amen.
+Dass wir sowas machen, auch wieder eine technische Lösung, ja, das würde auch gehen, also technische
+Lösungen sind immer offen, aber wir könnten auch noch was ganz anderes machen und zwar,
+Ja, wir haben ja hier in unserer Baugruppe zweimal die 15 drin, oder?
+Und vielleicht wäre es sogar eine Möglichkeit, dass wir sagen, wir bündeln Aufträge.
+Geht die 15 als eine Gruppe, dann wird das Bohren erstmal doppelt so lang.
+Die Lösenzeit ist relativ gering, deswegen macht das da nicht so viel aus.
+Und dieses Drehen landet dann plötzlich hier hinten.
+Und damit habe ich auch keine Kollision mehr.
+Also das heißt, Kündigung von Aufträgen, einer Loskehrung und das Ideen findet damit insgesamt später statt.
+Und in unserem Beispiel gibt es auch keine Verlängerung.
+Da muss ich halt dann nur mit meinem Lagermeister klarkommen, dass der mir halt das ein oder andere zwei Tage länger lagert.
+bzw. dass hinterher ein Mitarbeiter zwei Badges daraus macht mit jeweils 200
+und dass man dann den Auftrag vom Ding her widerspiegelt.
+Das ist dann verwaltungstechnisch auch.
+Dass also dieses Einmaldrehen zwar auf Baugruppe 45 stattfindet,
+die dann allerdings in Baugruppe 46 später eingeht.
+Auch das ist eine technische Lösung.
+Weil ich dann habe ich nur noch zwei Mal drehen und das andere ist das Bohren.
+Und dann müsste ich jetzt halt schauen, ob ich beim Bohren noch ein Problem habe, aber ich vermute mal, dass ich es nicht habe.
+Also wenn wir mal ganz kurz schauen, beim Bohren haben wir vier Arbeitskräfte, vier Betriebsmitleister, glaube ich nicht, dass wir ein Problem haben.
+Beim Zusammenbau haben wir auch drei Einheiten, das geht.
+und wie gesagt, da gibt es unterschiedlichste Lösungen
+in den unterschiedlichsten Firmen
+wie technische Lösungen, dass man sagt
+ich muss zwar bohren, aber vielleicht haben wir
+ein Bearbeitungszentrum
+bei den Fräsen stehen, die das Bohren
+überleben können, dann kann ich da vielleicht noch
+kurzfristig meine Kapazität beim Bohren erhöhen
+was allerdings Standard ist
+genauso beim Drehen
+falls ich da ein Problem hatte
+vielleicht kann es ja mein Bearbeitungszentrum
+das als Fräsmaschine in meiner Fräsabteilung
+die können jetzt auch wieder einsetzen irgendwie.
+Und falls es ja gar nicht geht, kann ich auch immer sagen,
+ich gehe auch irgendwie extern, ich kaufe mir die Leistung zu.
+Auch das ist etwas, was viele Firmen kurzfristig machen.
+Wenn sie feststellen, dass sie zu wenig Kapazität irgendwo haben,
+wird geguckt, ob vielleicht ein Lohnfaktor außerhalb mal einspringen kann.
+Da haben wir sehr viele kleine Lohnfaktor hier im Allgäu,
+die bei solchen Auftragsengpässen natürlich aushelfen.
+Wir haben ein aktuelles kleines Problem, weil die Ausweislage nicht so toll ist,
+die kriegen dann halt weniger Aufträge.
+Und das ist das, was ein Produktionssteuerer macht.
+Der versucht diese, das haben wir dann schon mal durchgesprochen,
+haben wir schon mal aufgeschrieben, was kann man machen, um die Kapazitätsbilanz auszugleichen,
+in dem man ganz einfach sagt, ich habe natürlich auch Überstunden noch, falls es jetzt wirklich um diese 7,5 Stunden geht,
+über 5 Tage bei 4 Mitarbeitern, dann kann ich sagen, hey Leute, kann nicht jeder von euch mal eine Stunde Überstunden machen?
+Dann haben Sie das Problem auch, das haben wir auch schon aufgeschrieben, glaube ich.
+Da müsste fast die Rechtheit jetzt sein.
+Dann wie gesagt, Zeitarbeiter, Zusatzschichten bedeutet halt auch immer wieder, Material entlassen, Material einstellen.
+Lohnfertiger ist eine Möglichkeit.
+Überstunden sind immer nur extrem kurzfristig für kleine Probleme zu machen.
+Und Sie werden feststellen, Überstunden machen die Leute automatisch,
+weil mal eine Maschine steht, weil eben mal irgendein Auftrag unklar ist
+und man muss etwas rausfinden.
+Und natürlich langfristig haben wir immer Personaleinstellungen
+oder halt auch schon Personal entlassen.
+Oder was gerade in der, haben Sie vielleicht gehört bekommen,
+weil sie auch eine Zeitung gelesen haben,
+BASF und Bayer überlegen
+ja auch, Werke zu schließen aktuell in Deutschland,
+weil eben die Aufträge liegen.
+Also das sind ein paar so Themen,
+oder was noch diskutiert,
+Opel überlegt eine Werkschließung von
+Invest-Leuten, das heißt, das ist eben
+das Thema, dass wir nicht
+zu viele Aufträge
+gerade haben, beziehungsweise, dass wir
+zu wenig Kapazität in den Firmen haben,
+wir haben fast überall zu viele.
+Und da sind wir
+natürlich immer die Frage, wie lange
+so was vor. Natürlich hätte jeder von diesen Wachsleitern eine Glaskugel, aber man kann halt
+nur eine bestimmte Zeit mit der Waage erhalten und im Zweifel muss man halt auch sauren Apfel
+beißen, Linien abbauen und Waage schließen. Ja, aber, nach und nach. Wurde immer um schlechte
+Zeiten geredet, dann kommen auch andere Seiten. Gut, und dann passieren immer wieder größere,
+der, wie soll man sagen,
+Mixer und da ist eh wieder alles anders.
+Gut.
+Wie gesagt, das ist das Thema
+und Excel ist hier
+natürlich Ihr Freund, aber auch
+Ihr entsprechendes PRP-Programm.
+Da ist halt die Frage, wie gut ist das
+gekriegt und da macht man eben
+solche Kapazitätsberechnungen,
+solche Kapazitätsbelastungsausgleiche
+und je besser
+sie es natürlich von Anfang an
+schaffen, sowas zu nivellieren, sowas irgendwie, wie soll ich sagen, einzuplanen, um so ruhiger
+Leute für die Produktion.
+Und wenn Sie eine starke Produktionssteuerung und Planung haben, dann haben Sie natürlich
+den Vorteil, dass Sie halt, wenn mal kurzfristige Wiese kommen, sowas viel besser ausbalancieren
+können.
+Wenn Sie natürlich von Anfang an damit irgendwelchen utopischen Plänen anfangen, dann werden
+wahnsinnig keine Freude in der Produktion machen.
+Und man sieht also sehr, sehr
+schön und sehr genau, wie
+stark oder wie
+wie gute Produktionssteuerung
+ist in der Firma.
+Also von der Ruhigkeit, wie ruhig es ist,
+wie viele Prioritätsaufträge
+irgendwie eine Produktion hat.
+Also ich muss ganz kurz
+schauen, wenn ich eigentlich
+Also ich habe mal aus meiner alten Firma etwas mitgebracht, und zwar wurde da das auch gemacht.
+Und zwar, das waren Explosionsanlagen, das waren verfahrenstechnische Anlagen.
+Da haben wir hier immer die Daten eingetragen, was wir produzieren wollen, dann eben wie
+viele Meter das sind, da wurde hier ausgerechnet, wie schnell wurde das gemacht, wie viele Meter
+sind das pro Tag, wie viele Meter pro Monat, wie viele Meter pro Jahr, dann hat man hier
+die Menge pro Jahr gehabt, was ist die Kapazität dahinter, also Stunden pro Tag, Stunden pro
+Monat, Stunden pro Jahr und wie viele Anlagen brauche ich dann? Das war so ein ganz einfacher
+Kapazitätsabgleich, dass man sagt, was möchte ich produzieren, was kann eine Anlage leisten
+und dann ist es natürlich toll, wenn hier 1,0 steht. Und wenn halt eine halbe Anlage
+steht, dann musste man halt entweder durch das Schichtmodell reingehen oder man musste
+dann sagen, vielleicht für den zweiten Auftrag, um diese Anlage vorzumachen.
+Und da ist dann immer der Investor dahinter gestanden, also so eine Anlage hat auch mal zwei Millionen gekostet.
+Und da hat man dann natürlich sehr, sehr genau geguckt, wie so eine Kapazitätsplanung laufen muss.
+Gut.
+Passt.
+Das eine haben sie gefunden manchmal.
+Dann gibt es dazu noch Fragen.
+Dann kommen wir jetzt, wenn ich meine Studierenden in der Vergangenheit frage, zu der vorherigen
+Wenn Sie die Probeprüfung 1, da werden Sie so eine ziemlich ähnliche Aufgabe hier nochmal sehen.
+sehen. So, wenn Sie Zeit haben am Wochenende, dann können Sie das hier gerne nochmal ausprobieren.
+Also die habe ich relativ nah an dem Ganzen angelegt. Und für Tag 20 die Kapazitätsfinanzierung.
+Man soll drei Maßnahmen vorschlagen. Hier hat man die Stückliste, die Strukturstückliste.
+Hier ist die Tabelle mit dem TI und TR und dann können Sie da sich ausdrücken, was Sie das machen möchten.
+In der Prüfung müssen Sie so einen Drittlaufplan nicht zeichnen.
+Also das habe ich rausgeschmissen.
+Erstens war das Problem, das hat viel zu viel Zeit gefressen.
+Und das Zweite war, was dann für mich beim Korrigieren doof war,
+die Leute haben natürlich alle andere Maßstäbe genommen und so weiter und so fort.
+Und das ist natürlich dann auch beim Korrigieren entsprechende Katastrophe.
+Deswegen haben Sie die Terminierung dann auch hier als Ergebnis.
+Also hier haben Sie dann...
+Da hast du es, da hast du es.
+Da ist dann der Plan und dann haben Sie das dann auch als Erklärung.
+Habe ich noch nicht digitalisiert.
+Prüfung ist auch ja schon.
+Gut, also das ist etwas, was Sie sich dann gerne anschauen können, falls Sie das Thema nochmal festigen wollen.
+Sonst rechnen Sie mit der Prüfungsvorbereitung in neun Jahren möglich durch.
+So, wie gesagt, jetzt kommen wir zu dem Teil, wo alle sagen, es wäre angeblich der schwierigste Teil der Thematik.
+Was alle jetzt für den nächsten Gerechnungsthema wissen müssen, ist ein klassischer Dreisatz, oder?
+Ich hoffe, Sie haben alle schon mal mit einem Dreisatz gearbeitet.
+Und letztendlich ist eine der Hauptprämissen, die wir haben, wir rechnen Zeitformen.
+Also wenn wir sagen, ein Arbeitstag hat zum Beispiel 900 Minuten, dann ist immer so die Frage, wie viel Arbeitstag ist etwas, das 450 Minuten hat, bei klassischem Dreisatz, oder?
+Sie wissen alle, wie Sie da auf die Rechenmeldemode kommen.
+Und dann löst Sie nachher X auf, oder?
+Kriegen wir hin, oder?
+Also Sie rechnen erst das hier aus und dann machen Sie einen Kehrer zum Beispiel, oder?
+Ja, schwierig, oder?
+Ja, aber die Leute fangen dann an zu zweifeln, wenn es scheiße Zahlen sind.
+Genauso ist ein Arbeitstag eben nicht ein realer Tag.
+Oder? Ein Arbeitstag, der halt, keine Ahnung, 900 Minuten hat, entspricht eben nicht einem normalen Tag, der, was hat ein normaler Tag, 60 mal 24 sind 600, 1000, 200 und dann nochmal 20, 214, 1000, irgendwas dazu noch.
+Also das ist immer das Thema, da muss man halt einfach aufpassen.
+Das heißt, wir werden jetzt sehr viel mit dem Dreisatz rechnen.
+Und es ist immer dieselbe Logik dahinter.
+Wir rechnen Schichtzeiten oder Zeiten der Produktion um.
+Und zwar haben wir die schon mal in der Follies und kennengelernt.
+Also einerseits denken wir in Schichtzeiten.
+Schichtzeiten ist das, worüber sich Mitarbeiter unterhalten.
+Ein Mitarbeiter sagt, ich stempele um 8 ein und ich war bis um 14 Uhr da.
+Und der wird dann nicht sagen, bei jedem Nebensatz, und ich war eine halbe Stunde in der Mittagspause.
+Sondern der Mitarbeiter sagt, ich war von 8 bis um 4 Uhr im Büro.
+Und sagt dann nicht im Nebensatz, und ich hatte eine dreiviertel Stunde Pause.
+Sagt er nicht.
+Sondern das ist die Schichtzeit, die stattfindet.
+Die Schichtzeit ist das, womit wir Menschen arbeiten.
+Das ist in der Regel die Uhrzeit.
+Schichten können ein, zwei oder drei Schichten, je nachdem, in der Firma sein.
+Dann haben wir die sogenannte Einsatzzeit.
+Das ist das, wenn wir die Tausendzeiten abziehen.
+Das ist das, was die Firma Ihnen bezahlt.
+Das ist das, was die Lohnabrechnung interessiert.
+Das ist die Anwesenheit an der Maschine, die Anwesenheit am Arbeitsplatz.
+Die Einsatzzeit ist in der Regel geringer als die Schichtzeit.
+Außer, wann kann Einsatzzeit und Schichtzeit gleich sein?
+Genau, wenn es unter sechs Stunden da sind und Ihnen eben keine Pause gewährt werden muss.
+In dem Fall kann Einsatzzeit bei Schichtzeit sein, aber sonst nicht.
+So, dann ist es natürlich so, dass die Menschen einen gewissen Nutzungsgrad arbeiten,
+Genau, Maschinen, Zeitgrad, Leistungsgrad.
+Also es gibt mehrere Worte dafür.
+Auf Menschen nennt man gerne den Begriff Leistungsgrad, auf Maschinen den Begriff Nutzungsgrad.
+Wenn ich beides gemeinsam meine, dann wird meistens Zeitgrad gemeint.
+Der ist in der Regel bei einer Werkstattfertigung zwischen 50 und 80 Prozent.
+50 ist, also man sagt meistens schlechter, aber 50 ist halt meistens, wenn man so Richtung Manufaktur geht,
+Wenn die Mitarbeiter selber auf Ideen kommen müssen, sich selber lernen und verpasteln müssen oder Hilfsmittel.
+80 sind gut organisierte Werkstattfertigungen.
+An Fließfertigungen kann ich natürlich auch höher kommen.
+Aber das ist jetzt nicht der Hauptfokus unserer Untersuchung.
+Bei Fließfertigungen arbeite ich in der Regel mit Taktzeiten und nicht mit Durchlaufzeiten und Klingen.
+So, das heißt, ich muss für diese Einsatzzeit, wenn ich jetzt tatsächlich ausrechnen möchte,
+was wird in meiner Firma gearbeitet, noch den Nutzungsgrad mit verrechnen.
+Und dann habe ich die sogenannte Durchführungszeit, die effektiv genutzte Zeit.
+Eine Beispielrechnung, bei einer 8-Stunden-Schicht, die eben zum Beispiel von 6 Uhr morgens bis 14 Uhr geht,
+muss ich dem Mitarbeiter mindestens eine halbe Stunde Pause gewähren.
+Viele Firmen gewähren eine Dreiviertelstunde sogar.
+Das heißt, ich habe 7,25 Stunden Einsatzzeit bei 45 Minuten.
+Also nochmal, eine Stunde hat 60 Minuten.
+Wenn ich 45 Minuten abziehe, bleiben 15 Minuten übrig oder eine Viertelstunde, 0,25 Stunden.
+Liebte Fehlabendprüfung, dass das hier geregelt wird.
+Also das heißt, ich habe eine sogenannte Einsatzzeit von 7,25 Stunden
+und wenn ich das Ganze mit dem Nutzungsgrad multipliziere,
+komme ich auf eine Durchführungszeit von 5,8 Stunden.
+Und das ist das Angebot, was mir die Mitarbeiter zur Verfügung stellen.
+Also das Durchführungszeitangebot eines Mitarbeiters in diesem Fall sind 5,8 Stunden.
+Und das muss ich natürlich abrufen, wenn ich nichts habe, dann sind sie da rum und mit der Däumchen.
+Also ich muss dem Angebot natürlich einen Bedarf gegenüberstellen.
+Soweit klar? Gut.
+So, und wie kann ich jetzt Auftragszeiten ermitteln?
+Und da sind wir jetzt wieder bei dem Thema Rückwärtsplanung.
+Das heißt, wenn ein Auftrag fertiggestellt wird, dann gibt es in der Regel einen spätesten Endtermin, einen sogenannten Set, spätesten Endtermin.
+Das ist der Termin, wo ein Auftrag fertig sein muss. Ein Beispiel. Sie sind heute allein zu Hause. Ihre Mutter oder Ihr Vater schreit beim Rausgehen noch zu,
+zu, Kind räumt die Spülmaschine aus. Damit wissen Sie, bevor Ihre Mutter oder Vater wieder
+heimkommt, muss die Spülmaschine ausgeräumt sein, oder? Weil sonst gibt es wahrscheinlich
+Ärger. Also ist das späteste Interview der Rückkehrzeitpunkt Ihrer Eltern. Keine Ahnung,
+Sie wissen, die kommen um 18 Uhr zurück. Da muss es fertig sein. Dann wissen Sie, Spülmaschine
+Ausräumung braucht in der Regel 10 Minuten, oder? Das ist TE plus TR, sozusagen. Das ist hier die reine Bearbeitungszeit.
+Gut, das heißt, das hier haben wir hier als reine Bearbeitungszeit. Allerdings wissen Sie,
+das ist ihre 100% Leistung. Wenn sie neben sich zu ihrer Freundin telefonieren und dann sich nach Gedanken machen, was sie mit deren Arm machen, ist die Leistung gar nicht ganz so hoch, oder?
+Also die gibt es auch nicht so schnell. Entschuldigung, das war jetzt eine böse Unterstellung, oder?
+So, und das heißt, jetzt haben sie halt auch noch hier ein Problem, dass sie sagen, sie könnten es sofort machen.
+Sie haben morgens. Das heißt, um 10 Uhr sind Ihre Eltern gegangen.
+Das wäre Ihr frühester Starttermin.
+Der früheste Starttermin, um Ihre Spülmaschine auszuräumen, ist hier 10 Uhr morgens.
+Und jetzt können Sie diesen 10-Minuten-Block, der wahrscheinlich nur um 15 Minuten ist,
+weil Sie nämlich nicht mit 100%-Leistung arbeiten, irgendwo hier reinlegen.
+Irgendwo an dem Arbeitstag könnten Sie die Spülmaschine ausräumen.
+Wann müssen Sie denn anfangen, mit dem Ausräumen?
+Wahrscheinlich, wenn Sie eine schlechtere Leistung haben, bei einer entsprechenden Leistungsgrad von nur 80 Prozent.
+Was sind dann die 10 Minuten?
+10 Minuten durch 0,8?
+Das heißt, wenn Sie damals 12,5 Minuten einhalten, dann müssten Sie also um 17 Uhr 47 anfangen.
+Und das ist dann das sogenannte späteste Starttermin.
+Termin. Und das sind die drei wesentlichen Termine, die ein Mitarbeiter braucht, um den
+Auftrag abzuarbeiten. Der muss wissen, wann muss der Auftrag fertig gemeldet sein. Das
+ist der späteste Endtermin. Der muss wissen, wann darf ich denn mit dem Auftrag anfangen.
+Das ist der früheste Starttermin. Das hängt nämlich davon ab, ob alle, wie soll ich
+Themen davor erledigt worden sind. Und dann gibt es noch den sogenannten spätesten Starttermin.
+Das ist das, was ich mache, damit ich a keine Überstunden machen muss und dass ich b keine
+Arbeit kriege. Und da muss natürlich auch ein Leistungsplanung berücksichtigt sein. Und diese
+drei Termine werden in einer klassischen Auftragsfertigung auch immer ermittelt und
+den Leuten mitgeteilt. Weil dann kann der Mitarbeiter selber entscheiden, ob er sie
+vielleicht sogar sofort macht, weil er nämlich ein Rüstprogramm gerade drin hat, das super zu dem
+Auftrag passt. Oder der sagt, ach, das kriege ich vielleicht gerade vor der Mittagspause unter.
+Aber der weiß, ich muss es da fertiggestellt haben, weil sonst kriege ich ab. Und der kann
+dann somit aus seinem Arbeitsvorrat schön rausholen, was macht der Mann. Weil Sie können
+auch sagen, ja, also wenn ich jetzt die Führerschnitte jetzt ausrollen, dann ist das vielleicht ganz
+praktisch, dann kann ich mein gebrauchtes Geschirr direkt einräumen. Oder Sie können sagen,
+nein, ich räume die Spülmaschine jetzt noch nicht aus, weil wenn ich Glück habe,
+kommt die Freundin früher und die macht es. Nein, das war jetzt fies. Gut, also das ist die Thematik,
+die wir beachten müssen. Das heißt hier, wir müssen uns erstmal klar machen, was haben wir denn
+an Schichtzeiten, an Durchführungszeitenangebote und Wartezeitenangebote zur Verfügung? Das ist
+Das ist der erste Schritt. Also wie schaut hier die Rahmenbedingung aus, die wir haben?
+Was ist also hier unser Rahmen?
+Das zweite ist dann natürlich, wie effizient sind wir in dem Rahmen?
+Das ist die Durchführungszeitangebote.
+Und dann natürlich auch, wie schauen die Wackelzeiten aus?
+Also wie lang ist tatsächlich meine Auftragsliste, das zum Auftrag eingesteuert wird?
+Wenn Sie nämlich voll sind und Ihr Mutter, Vater schreit Ihnen zu und räumt auch die Spülmaschine aus,
+dann sagen Sie, vergiss es! Keine Zeit!
+Und deswegen müssen wir hier auch ausrechnen, was ist überhaupt das Angebot, das wir haben.
+Dann, wie gesagt, die Eckpunkte, frühester Starttermin, spätester Starttermin, spätester Endtermin,
+müssen wir für jeden Arbeitsauftrag berechnen und das machen wir rückwärts.
+Wir schauen immer den spätesten Endtermin an, dann den spätesten Starttermin, dann den frühesten Starttermin
+und dann wiederholen wir das für alle Arbeitsvorgänge immer an.
+Hört sich sehr theoretisch an, machen wir Arbeit gleich am praktischen Beispiel.
+Aber bevor wir das machen, machen wir 20 Minuten Pause und Referenzen weiter.
+So.
+Sie bleiben wieder alle sitzen oder holen sich im Sitzen von meiner Freundin.
+Finde ich toll.
+Ich bin zu frei und hole mir einen Kaffee.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Okay.
+Das sind 60 Euro pro Monat.
+Wenn du ein Jahr hier wohnen würdest,
+dann wären 280 Euro das gleiche wie mein Wohnzimmer.
+Wenn du das so denkst,
+dann wäre es viel besser.
+Du hast gesagt,
+dass es in diesen Städten
+sehr viele Menschen gibt,
+die sich in den Wohnzimmern befinden.
+Es gibt auch viele,
+die sich in den Wohnzimmern befinden,
+die sich in den Wohnzimmern befinden,
+die sich in den Wohnzimmern befinden,
+die sich in den Wohnzimmern befinden,
+Du hast mich gefragt, wo ich mich eingeladen habe, oder?
+Du bist online.
+Die Anzeige ist auch die Name.
+Bei meinen Anzeigen ist es so, dass
+wenn du dich vorher eingeladen hast,
+sie dir nicht einen Online-Anruf geben wird.
+Nein, ich habe keinen.
+Hast du einen Termin mit ihr eingeladen?
+Ja.
+Wenn du ihn eingeladen hast,
+Ich habe ihn gefragt, was er für Materialien braucht.
+Nach der Frage hat er mir einen Detail-Packagel gegeben.
+Was ist das für ein Material?
+Das ist eine Art Anzeige.
+Ich habe es ihm online geliefert.
+Ich habe es ihm nicht online geliefert.
+Ich habe es ihm online geliefert.
+Ich habe es ihm nur als Materialien gemacht.
+Als Materialien?
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Schlafen Sie sich um.
+Vielen Dank.
+Vielen Dank.
+Das ist das Wichtigste.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Ich bleibe hier, wenn ich das habe.
+Kämpfe machen die Nächsten.
+Und dafür haben wir jetzt noch Ausweihzeit.
+Mal schauen, was das macht.
+Gut, also das ist so die Sache, die wir ausstellen möchten.
+So, jetzt haben wir wieder zwei Themen.
+Wir haben auf der einen Seite einen kleinen Arbeitsplan, einen Fertigungsauftrag mit zwei Vorgängen, Arbeitsplatz 20, keine Ahnung, Fräsen, Arbeitsplatz 20 und den Kontrollarbeitsplatz, Kabel 1.
+Wir haben eine Wartezeit vor dem Auftrag, wir haben eine Durchführungszeit, in Minuten in der Regel angegeben und wie gesagt, die ist vor jeder Maschine unterschiedlich.
+Das Ganze kann man sich jetzt natürlich sehr schön skizzieren, indem man ganz einfach sagt,
+hier habe ich irgendwo einen spätesten Endtermin, sieht den schon jemand?
+Wann muss man mit dem Auftrag fertig sein?
+Da möchte ich den Kunden abholen.
+Also das heißt, hier ist der Kundentermin.
+Kundentermin, das ist der 8.2. am Montag.
+Wir haben hier 4-Tage-Woche, 5-Tage-Woche, das heißt, das ist genauso, wenn jemand zu Ihnen sagt, das ist am Montag fertig,
+dann müssen Sie bereit sein, dass der Kunde Montagmorgen um 8 Uhr dasteht, oder?
+Wenn Sie jemandem sagen, das können Sie da und da abholen, den Geburtstagskunden,
+dann wollen Sie die nicht abends um 17 Uhr abholen, sondern am 2. Morgen um 8 Uhr.
+Das heißt, der 8. darf kein Arbeitstag sein.
+Dann haben wir noch das Problem mit dem Sonntag, dem arbeiten wir nicht, das ist der siebte.
+Samstag arbeiten wir auch nicht, der sechste.
+Und dann steht sogar noch drin, wir sollen einen Sicherheitsarbeitszeit lassen.
+Das heißt, achter, zweiter Kundentermin, das ist der Montag.
+Dann haben wir den siebten zweiten, das ist der Sonntag.
+Den sechsten zweiten, das ist der Samstag.
+Dann haben wir einen Arbeitstag Sicherheit.
+Das ist dann der fünfte zweite, das ist der Freitag.
+Okay?
+Okay?
+Das heißt, wann muss unser spätester Endtermin sein?
+Genau, Donnerstag, der 4.2.
+So, und jetzt ist die Frage noch, um wie viel Uhr?
+0 Uhr, da würden wir aber implizieren, da arbeiten unsere Mitarbeiter.
+Tun sie nicht.
+Schauen wir es uns mal ganz kurz an.
+Hier, was ist unser letzter Arbeitsschritt?
+Unser letzter Arbeitsschritt ist die Kontrolle.
+Und jetzt schauen wir uns ganz kurz an, wie lange arbeitet die Kontrolle?
+13.45 Uhr.
+Das heißt, um 13.45 Uhr muss das Ding fertig gemeldet sein.
+Schauen wir uns mal ganz kurz das Schichtmodell an, F20.
+Die fangen an zu arbeiten um 6 Uhr.
+Und die arbeiten bis 13.30 Uhr.
+Das ist die erste Schicht.
+Und die zweite Schicht.
+Die arbeiten von 13.30 Uhr bis um 21.00 Uhr.
+Und unser Kontrollarbeitsplatz, der arbeitet einschichtig, auch von 6 Uhr, allerdings bis 13.45 Uhr.
+Und das ist natürlich hier vom Montag bis Freitag, da steht nichts anderes dran.
+Das kann natürlich auch sein, dass die am Freitag abweichende Schichten haben.
+Steht jetzt aber nicht dran, in der Realität ist es sogar häufig so, dass die am Freitag sogar ein bisschen anders arbeiten.
+Oder die Einschichter, die arbeiten dann von 7 bis um 14 Uhr.
+Oder 15 Uhr.
+So, und jetzt haben wir hier unsere Bearbeitungszeit.
+Die Bearbeitungszeit von dem Auftrag ist 25 Minuten.
+Und dann haben wir hier unsere Wartezeit.
+Die Wartezeit, die ist in dem Fall 0,5 Arbeitstage.
+Und das ist unser frühester Starttermin.
+Das hier ist unser spätester Starttermin.
+Und das hier begrüßt unseren Arbeitsgang K01.
+Aber der Arbeitsgang ist ja nicht beendet, der früheste Starttermin hier ist vermutlich
+das späteste Endtermin von unserem Arbeitsgang F20. Und der hat natürlich auch eine Bearbeitungszeit
+und zwar von 180 Minuten. Dann haben wir hier unseren spätesten Starttermin. Dann haben wir hier wieder unsere Wartezeit und die Wartezeit ist in dem Fall 21. Und das ist dann unser
+Höchster Starttermin F20, spätester Starttermin F20, spätester Endtermin F20, höchster Starttermin F1, spätester Starttermin F1, spätester Endtermin F1.
+Das heißt, für jede dieser Vergebungsauftragspositionen muss sich drei Termine bestimmen.
+Und der hier ist in der Regel nachdenklich.
+Es gibt schon zwei Punkte in der Prüfung.
+Amen.
+So, und jetzt ist halt das Problem, in der Aufgabe könnte man es vielleicht gerade noch
+machen, dass wir ganz brutal sagen, wir ziehen diese 25 Minuten von den Minuten ab, weil
+hier haben wir eine Nutzungskraft von 100 Prozent. Da ist dann tatsächlich wahrscheinlich das,
+was auf dem Arbeitsplan steht, auch das, was in der Realzeit ist. Das heißt, diese 25 Minuten
+entsprechen 0,416 Stunden und diese 180 Minuten entsprechen drei Stunden. Allerdings diese drei
+Stunden am Arbeitsplan sind keine drei Stunden in Realzeit, weil durch den Nutzungsgrad,
+durch die Pausen, die in der Schichtzeit sind. Und deswegen müssen wir jetzt uns Behelfszeiten
+machen bzw. Umrechnungstabellen. Das ist das, was ich hier sehen muss. Machen wir einmal den Weg manuell,
+wie komme ich von dem da oben zu dem da unten. Also, wir haben hier F20 in der ersten Schicht,
+F20 in der zweiten Schicht und wir haben hier Karolins.
+Da gibt es nur eine Schicht.
+Damit kann ich die Schichtzeit ausrechnen.
+Das hier sind 7,5 Stunden.
+Das hier sind auch 7,5 Stunden.
+Also kann ich hier schon mal eins sagen, 7,5 Stunden.
+Und hier, das hier sind 7,7 Stunden.
+Das ist der erste Schritt.
+Das bekommen Sie in der Prüfung nicht vorgerechnet.
+Das müssen Sie selber entgegen.
+So, und das brauche ich, diese Schichtzeit, weil das entspricht der Uhrzeit.
+Diese Zeit brauche ich, um alles wieder zurück in die Uhr zu rechnen.
+Also wenn ich sage, 2 Stunden von der Schicht, dann sind wir bei 8 Uhr.
+4 Stunden in der Schicht, dann sind wir bei 10 Uhr.
+Okay?
+So, dann als Hilfszeit, die brauchen wir dann nicht zum Berechnen, können wir die Einsatzzeit ausrechnen.
+Die wird auch in Stunden gerechnet.
+Dass das Einsatzzeit ist, Schichtzeit minus Pause.
+Schichtzeitverlust Pause, dann haben wir hier eine halbe Stunde Pause, hier haben wir eine halbe Stunde Pause, hier haben wir eine dreiviertel Stunde Pause, also haben wir überall sieben Stunden.
+So, jetzt kann man ausrechnen, was schaffen die.
+und das ist das Angebot, das wir jetzt hier haben.
+Was schaffen die jetzt hier in diesem Zeitraum weg?
+Und das ist die Einsatzzeit mal den Nutzungsgrad.
+Also hier dann 7 Stunden mal 80%.
+Also bei 100% Nutzungsgrad schafft er nicht 7,75 Stunden, sondern schaffen wir nur 7 Stunden.
+Und hier schaffen wir nur 5,2 Stunden. Das ist schon irgendwie definiert für so einen
+Firmengesetzer. Der zahlt die Leute 7,5 Stunden oder eigentlich 7 Stunden und die kriegen
+nur 5,25 Stunden hin.
+Also er muss für die
+7,5 Stunden sorgen.
+Da haben sie dann so Mitarbeiter,
+die sagen, der erste und der letzte Gang
+auf die Toilette ist in der Firma.
+Da hat man schon was zu Hause gespart
+oder sowas.
+Kennen Sie ja auch solche Leute, oder?
+Ja.
+Kommen erst mal die
+Arbeitsstempel an und gehen eine halbe Stunde aus dem Klo.
+Das sind die liebsten Mitarbeiter.
+So, und jetzt die Wartezeit. Die Wartezeit, das ist jetzt ein bisschen eine dumme Angelegenheit.
+Wartezeit wird in Arbeitstagen ausgedrückt, in der Regel. Wie lange muss ich denn darauf warten?
+Ach, drei Tage, zwei Arbeitstage, fünf Tage. Jetzt ist es halt das Problem, dass Tage je nach
+Schichtsysteme eine unterschiedliche Auslegung haben. Das hier ist ein Arbeitstag. Das ist ganz
+klar. Sieben Stunden entsprechen einem Arbeitstag, oder? Und das hier ist auch ein Arbeitstag,
+oder? Aber das ist kein gleichwertiger Arbeitstag, kein fifty-fifty Arbeitstag,
+weil hier wird mehr gearbeitet als da. Deswegen rechnen wir hier die prozentualen Anteile aus.
+Also was wird gearbeitet? In Summe, ein Arbeitstag sind 10,85 Stunden.
+Das heißt, das hier sind im Prinzip 51% oder 0,516 eines Arbeitstages und das hier sind 0,484.
+Also das hier sind 48% eines Arbeitstages und das hier sind 52% eines Arbeitstages.
+Wenn Sie den gleichen Nutzungsgrad hätten, dann wäre es wirklich 50-50.
+Und das ist das, was jetzt hier steht. Also, wenn Sie eine Schicht haben, dann ist ein Arbeitstag einfach ein Arbeitstag.
+Wenn Sie zwei Schichten haben, dann ist es ungefähr 50 Prozent, hängt aber von den
+einzelnen Schichteffizienzen ab.
+Was ist, wenn Sie einen Dreischichtbetrieb haben?
+Das ist ungefähr ein Drittel, genau.
+Dann kommt da ungefähr ein Drittel raus.
+Und jetzt müssen Sie sich das vorstellen wie so ein Trichter.
+Dann sind es ungefähr ein Drittel, genau. Dann kommt es aber ungefähr ein Drittel, Drittel, Drittel raus.
+Und jetzt müssen Sie sich das vorstellen wie so ein Trichter.
+Wenn Sie jetzt so einen Trichter haben, wo der Arbeitsvorrat drin ist,
+dann läuft der Trichter schneller hier in der ersten Schicht.
+Weil nämlich da mehr Durchfluss ist. Und in der zweiten Schicht langsamer.
+Oder? Da haben Sie das Gefühl, die Schlange geht schneller.
+Und da haben Sie das Gefühl, die Schlange geht langsamer.
+Aber trotzdem, in Summe, warten Sie nachher alles.
+Okay? Und das brauchen wir dann für die Detailrechnung.
+Gibt es so weit Fragen?
+Also wie gesagt, das hier müssen Sie in der Prüfung alleine betrieben.
+Und hier, das ist die Kunst, dass wir die Durchführungszeiten in Schichtzeiten umrechnen
+und dass wir die Wackenzeiten in Schichtzeiten umrechnen.
+Das heißt, wir müssen zwischen den Zeitsystemen umrechnen und zwischen den Zeitsystemen.
+Und das ist eben der Dreisatz der Mobilität.
+Okay?
+Aber wir werden nicht dazwischen umrechnen, sondern immer zwischen den beiden oder zwischen den beiden.
+Das brauchen wir gar nicht mehr, das war nur eine Hilfe.
+Und deswegen stehen die drei Sachen jetzt in dieser Tabelle.
+So, jetzt gibt es mehrere Möglichkeiten. Man kann das jetzt einfach stupide runterrechnen.
+Man kann es auch in so einer Art Tabelle rechnen, wie Sie das jetzt hier sehen. Dass man sagt,
+wo bin ich, was machen wir. Wie Sie das genau machen, ist mir egal. In der Prüfung möchte
+ich dann einfach irgendwo gut sichtbar die Termine sehen haben. Das ist das Thema. Zum
+Beispiel, indem Sie die Termine einfach hier in die Welle eintragen, die dann in der Prüfung
+gedankt wird, okay? Darum geht's. Ich werbe nicht die Termine aus 98.000 Zahlen zusammen
+zusammen, sondern ich will diese Timeline haben. So, fangen wir mal an, das Ganze zu
+berechnen. Das erste haben wir ja schon gemacht. Also das heißt, wir haben hier den Satz schon
+ausgerechnet. Ich mache jetzt nur eine Tabelle, damit Sie sehen, wie ich da rechne. Die Tabelle
+braucht jetzt einfach sechs, sieben Zeilen. Hier vorne schreibe ich Vorgang. Dann habe
+ich eine Liste, wo ich die Wartezeiten ausrechne. Dann habe ich einen Bereich, wo ich die Durchführungszeiten
+immer reinschreibe. Und dann habe ich einen Bereich, wo ich die Schichtsseiten reinschreibe.
+Und hier hinten schreibe ich dann die Terminierung. Hier ist dann immer Bedarf und Angebot, Bedarf
+und Angebot und Bedarf und Angebot. So, und dadurch, dass ich eine Rückwärtsterminierung
+Also das erste, was ich berechnen muss, ist das späteste Enthängen.
+Das muss ich nicht berechnen, sondern das ist dieses logische Denken.
+Wann muss ich mit dem Auftrag bei K01 fertig sein?
+Das haben wir schon gemacht.
+Und zwar am Donnerstag, den 14.02. um 13.45 Uhr.
+Das ist das späteste Enthängen.
+Das war's für heute.
+als nächstes berechnen bei der Rückwärtsterminierung. Genau, der nächste Termin ist der späteste
+Starttermin. Also das heißt, als nächstes kommt der späteste Starttermin. Was ist denn
+der späteste Starttermin? Der späteste Starttermin ist der späteste Endtermin minus den Durchführungszeitbedarf.
+Also wie lange braucht denn der Auftrag?
+Das heißt, ich muss ja eigentlich rechnen, 13.45 Uhr minus 25 Minuten.
+Das Problem ist, das ist aus dem Arbeitsplan 100%, das ist Realzeit.
+Bei dem einen Beispiel kommt es relativ nah dran.
+Aber ich weiß, dass eben 7 Stunden 7,75 Stunden entsprechen.
+Also ich weiß, dass 7,75 Stunden hier 7 Stunden hier entsprechen.
+Oder anders gesprochen, die Schichtzeit zur Einsatzzeit, also Durchführungszeit, ist 7,75 Stunden zu 7 Stunden.
+Und jetzt habe ich hier meine 25 Minuten, das sind die 0,416 Stunden.
+Das heißt, ich habe hier 0,416 Stunden.
+Wie viel ist es dann in Realzeit?
+Jetzt muss ich das x ausrechnen.
+Das ist also der erste Reitsatz.
+Und dann kommt raus x ist 4,61 Stunden und das entspricht 28 Minuten.
+Und jetzt kann ich diese Rechnung machen. 13.45 Uhr minus 28 Minuten und dann komme ich auf 13.17 Uhr raus.
+Und jetzt kann ich den spätesten Starttermin, also es ist ebenfalls Donnerstag, 4.2. um 13.00 Uhr sitzen.
+Fragen Sie jetzt, es kommt jetzt 30.000 Mal das Beispiel.
+Das hier ist eine Angabe in Durchführungszeit und diese Angabe in Durchführungszeit müssen
+wir in den Schichtsetten berechnen.
+Und jetzt machen wir dasselbe nochmal, weil jetzt haben wir das Thema mit der Wackezeit.
+So, und jetzt haben wir nämlich eine Wackezeit von 0,5 Arbeitstagen, die wir berücksichtigen
+müssen.
+Da ist die Datus 0,5.
+Das sind aber Arbeitstage, die Wackezeiten werden in Arbeitstagen umgerechnet.
+Also müssen wir jetzt hier wieder, was ist der früheste Starttermin, das ist der späteste
+Starttermin minus die Wartezeit und jetzt ist hier 13.17 Uhr minus 0,5 Arbeitstage, aber
+was ist ein halber Arbeitstag? Das ist die Tage. Und dann schauen wir wieder rein. 7,75
+Stunden ist ein Arbeitstag. Also 7,75 Stunden entspricht einem Arbeitstag. Wie viele Stunden
+entspricht einem halben Arbeitstag? Und dann wissen wir, ein halber Arbeitstag sind 3,87
+7 Stunden. Oder 3 Stunden und 53 Minuten. Und jetzt kann ich hier oben ausrechnen. 13
+Uhr 17 minus 3 Stunden und 53 Minuten. Und das sind es dann 9 Uhr 24. Also hier kann
+ich jetzt wieder sagen, die 0,5 Stunden entsprechen in dem Fall 3,875 Stunden und damit habe ich
+den frühesten Starttermin am Donnerstag, den 4.2. an 9.25 Uhr. Damit habe ich die ersten
+drei Termine in einem Zeitstrahl ermittelt. Oder anders gesagt, der Mitarbeiter kann diesen
+Auftrag am Donnerstag um 9.24 Uhr anfangen. Er muss ihn spätestens um 13.17 Uhr anfangen,
+denn sonst ist er nicht um 13.45 Uhr fertig. Wir haben den Eintrag, wovon ich als Planer bin,
+wir haben das Wochenende dann geplant und der Kunde kann um 8.00 Uhr,
+Wir kommen am 2.Morgen um 20.00 Uhr zum Auftrag.
+Das war soweit noch dabei.
+Rückwärtsterminierung.
+Ich weiß, das hört alles automatisch an.
+Man muss ja wissen, was man mit der Maschine macht.
+Ich finde ja gerade die Memes zum Thema
+Da kannst du dir die Intelligenz antworten.
+Du hattest recht, der Griff war doch kräftig.
+Und der Griff war doch kräftig.
+Es tut mir leid, dass ich nicht gehört habe.
+Man muss sich halt bewusst werden, KI kann tatsächlich nur Mittelmaß produzieren.
+Ja, weil es ein Durchschnittsmodell ist.
+Und das finde ich ja so witzig.
+Und inzwischen gibt es ja Nachweise, dass KI ja gefällig antwortet.
+Das heißt, das was man ja hören will, sagt KI ja auch.
+Also es gab ja dieses Beispiel mit dem Thema, unterhalten sich die Leute,
+viele wollen ja psychologische Hilfe von KI.
+Und dann bestreikt ja KI eigentlich das, was man tun muss.
+Und wenn man halt so einzig gefährdet ist, ist das natürlich sehr gefährlich.
+Ja, deswegen muss jetzt ja KI nachbessern.
+Die arbeiten ja Psychologen zusammen, um die Standardantworten zu entwickeln, was man auf bestimmte Sachen antworten soll.
+Nicht was das Internet im Schnitt sagt.
+Oder in Südkorea muss das ja so schlimm sein mit diesen rituellen Freundinnen und Freunden.
+Und die Leute werden ja immer weniger Sozialkompetenz, weil sie Widerspruch nicht mehr ertragen.
+So.
+Kann ich weiter machen?
+Ja?
+Also, das heißt wir haben hier oben den Termin.
+Also wir sind immer am Donnerstag, den 4.2.
+Das ist auch Donnerstag, der 4.2.
+Das hier war 13.17.
+Und das war 9.24, glaube ich.
+Wann muss jetzt der fertig sein?
+Wann muss jetzt der Vorgängerprozess fertig sein,
+dass der am Donnerstag, den 4.2. um 9.24 Uhr anfangen kann.
+Also wann muss der seinen Auftrag fertig gemeldet haben, damit der anfangen kann?
+Genau, das heißt, wir müssen jetzt wieder nachdenken.
+Und der muss am Donnerstag, den 4.2. um 9.24 Uhr fertig sein.
+Schauen wir mal ganz kurz, ist der um 9.24 Uhr anwesend?
+Ja, hier. Und zwar sind wir hier in der ersten Schicht.
+Das können wir erkennen, 9.24 Uhr ist die erste Schicht.
+Also haben wir jetzt hier für F20 den spätesten Endtermin.
+ersten Schicht
+am Donnerstag,
+den 4.2. um
+9.24 Uhr. Wir könnten jetzt
+kleines sein und sagen 9.23 Uhr.
+Muss auch nicht.
+Warum muss der
+9.24 Uhr fertig sein? Weil
+nämlich dann noch genügend Zeit ist,
+dass es zur Nachfolgestelle kommen kann
+mit Transport und dass der
+dann vor dem
+13.07. wieder anfangen wird.
+Das heißt,
+Also es ist genügend Zeit drin, dass der da irgendwo diesen Auftrag sich dann holt und eben anfangen kann.
+Aber dafür muss der Vorgänger spätestens am Ende um 9.24 Uhr fertig gemeldet werden.
+Und wenn der da nicht zurückmeldet, dann sagt die Produktionssteuerung schon, was ist da los?
+Wenn du nicht zurückmeldest, wie fährst du seine Termine?
+Man könnte es ja ganz viel sagen, der hat doch einen halben Arbeitstag Zeit für das.
+Der kann doch was von seinem halben Arbeitstag abgeben.
+Das wollen Sie aber auch nicht.
+Wenn Sie den Arbeitsauftrag haben, dann wollen Sie ihn auch zu einem gewissen Zeitpunkt selber bestimmen,
+wenn Sie ihn anfangen.
+So, was ist dann der nächste Termin, den wir bestimmen müssen?
+Sagen Sie es laut.
+Genau, Sie müssen als nächstes den spätesten Starttermin.
+berechnen, beziehungsweise bestimmen.
+Das ist das Thema,
+spätester Starttermin.
+Also das ist alles noch K1.
+K1.
+Diese Stifte hier,
+alle K1.
+Also K1.
+Und jetzt noch K2.
+Ah, Entschuldigung, F2.
+F20.
+Und zwar als nächstes müssen wir den spätesten Starttermin bestimmen.
+Was wissen wir denn?
+Der späteste Starttermin ist im Prinzip
+der späteste Endtermin minus der Durchführungszeitbedarf. Das heißt, wir müssen hier diese 9 Uhr 24
+und davon sollen wir ungefähr 3 Stunden abziehen. Wie gesagt, das ist eine 100% Leistung. Das
+heißt, wenn wir das mal ganz grob umrechnen, 3 Stunden durch 80%, dann kommen wir da schon
+allein auf 3,75 Stunden. Das haben wir an dem Arbeitstag gar nicht mehr zur Verfügung.
+Das heißt, wir warten vermutlich auf den Mittwoch. Jetzt ist die Frage, wie viel Arbeit
+schaffen wir? Von 6 Uhr bis 9 Uhr 24, also in 3 Stunden 24. Was ist das Schichtzeit in
+Durchführungszeit. Was schafft man denn da noch unterzubringen? Schichtzeit haben wir 7,5 Stunden und wenn wir jetzt in unsere Liste schauen,
+Durchführungszeit sind 5,6 Stunden.
+Und jetzt ist die Frage, was sind 3 Stunden und 24 Minuten?
+Das sind 3 Stunden und 3,4 Stunden in x.
+und X sind, an diesem Arbeitstag können wir gerade noch 2,5, 3, 9 Stunden arbeiten.
+Also wenn auf der Uhr noch 3,4 Stunden stehen, schaffen meine Mitarbeiter gerade noch 2,5 Stunden zu arbeiten.
+Also Angebot haben wir hier gerade noch 3,4 Stunden, der Bedarf ist allerdings höher
+und das entspricht halt im Prinzip 2,53 Neustunden.
+Wir müssen hier allerdings 3 Stunden arbeiten und das schaffen wir nicht.
+Drei Stunden sind keine 2,5-3-Jahre-Stunden.
+Das haben wir noch als Angebot da an dem Tag.
+Das schaffen wir noch an diesem einen Tag.
+Und dann rutschen wir auf den Mittwoch, Mittwoch, den dritten, zweiten.
+Das heißt, wenn wir 2,539 Stunden hier schaffen, dann müssen wir am 4.2. noch am 3.2. noch 4,616 Stunden abarbeiten.
+Aufgabe hat es übrigens um 4,616 Stunden, keine Ahnung.
+Und das ist dann F20 in der zweiten Schicht.
+Und jetzt ist die Frage der Führungszeit zur Rückenschichtzeit.
+Wie viel sind 0,461 Stunden in Schichtzeit?
+In der zweiten Schicht sind 7,5 Stunden 5,25 Stunden und das heißt für diese knappe eine
+Stunde brauchen wir ein bisschen mehr, das sind 0,659 Stunden oder 40 Minuten und wenn wir jetzt das Schichtende
+21 Uhr in der zweiten Schicht nehmen, dann haben wir 21 Uhr und 90 Minuten und das ist das 20 Uhr aus 20.
+Das 0,461 ist 0,659 und dann ist das hier um 20,20.
+Amen.
+Amen.
+So.
+Vielen Dank.
+Gut, was fehlt jetzt noch?
+Also, jetzt haben wir hier oben den Termin, F20, der späteste Starttermin, also müssen
+wir am 3.2., dem Mittwoch, um 20.20 Uhr mit dem anfangen, damit wir diese 180 Minuten
+unterbringen.
+Weil die, wie gesagt, nur mit 80% Leistung arbeiten.
+Deswegen ist es in der realen Zeit, wenn sie das genau ausrechnen,
+da haben sie 40 Minuten drin und da brauchen sie dann nochmal 3,5 Stunden Zeit.
+Über 4 Stunden brauchen die für den Auftrag.
+Für etwas, was nur 3 Stunden im Ding drinsteht, im Arbeitsplan.
+Und was fehlt jetzt noch?
+Und das Schöne ist, wenn diese Wartezeiten geradsamig sind, brauchen wir nicht viel rechnen,
+sondern dann ziehen wir die einfach ab.
+Das heißt, zwei Tage ist Bedarf, 11.20, wir sind immer noch in der zweiten Schicht und
+das ziehen wir jetzt ganz kurz ab, das heißt, der früheste Starttermin ist nicht der Mittwoch,
+3.2., nicht am Dienstag der 2.2., sondern Montag der 1.2. ebenfalls um 20.20 Uhr. Da
+ist die Freigabe des Auftrages, zwei Tage Wartezeit. Der Mitarbeiter hat also zwei Tage
+Zeit mit diesem Auftrag zu beginnen. Er muss allerdings am Mittwoch, den 3.2. um 20.20 Uhr
+beginnen, damit er rechtzeitig fertig ist für den Nachfolgevorgang. Der hat dann auch
+halben Tag Zeit, diesen Auftrag irgendwie einzuplanen. Er muss ihn aber spätestens
+am 4.2. um 13.17 Uhr beginnen, weil sonst ist er nicht fertig. Und sobald jetzt einer
+der Termine gerissen wird, gibt es vom System eine E-Mail an die Produktionsteuerung, die
+einfach sagt, hey Leute, passt auf, da ist eine Termingefahr.
+Und Sie müssen sich das so vorstellen, jeder Arbeitsplatz, der hat da drei oder vier Fertigungsaufträge vorliegen.
+Und in der Regel macht er das natürlich so, der sagt, der dringlichste Auftrag kommt als erstes.
+Aber natürlich kann er auch sagen, Sie können auch zumachen, wenn es sich stört.
+Also der sagt natürlich, der dringlichste Auftrag kommt als erstes.
+Die Priorisierungsregeln, das haben wir glaube ich auch schon mal durchgesprochen.
+Ich glaube Priorisierungsregeln haben wir durchgesprochen, das ist nicht ganz gut.
+Ja, wir haben durchgesprochen. Und zwar, dass man halt auch sich überlegt, wann mache ich denn welchen Auftrag? Wie plane ich die denn ein? Und manchmal kann es ja zum Beispiel sein, wie gesagt, dass ich sage, ich nehme keinen Auftrag als erstes. Der passt vielleicht gerade auf das Werkzeug drauf, das ich dann ehtauschen muss.
+Das heißt, ich gebe meinen Mitarbeitern an dieser Maschine eine gewisse Flexibilität,
+die Aufträge zu bearbeiten, aber trotzdem habe ich eine Planungssicherheit für meine
+Vergegensteuerung.
+Weil ganz schlimm ist natürlich, den Mitarbeitern mal selber wählen zu lassen.
+Was wäre, wenn sie keine Deadlights hätten?
+Nichts.
+Und nichts Wacki-Wacki.
+Der Klassiker bei jedem Studenten, Bachelorarbeit nimmt erst in den letzten vier Wochen so
+richtig vor.
+Nein.
+Aber das ist genau das Thema.
+in der Industrie halt auch, sie brauchen Termine,
+damit eben sie auch
+den Kunden Lieferzusagen machen können,
+damit der Arbeitsplatz organisiert ist.
+Und es geht da ganz viel drunter und drüber
+in der Fertigung, aber eine ordentliche
+Terminklage hilft halt ungemein wohl
+in der Fertigung meistens.
+So.
+Einfache Aufgabe.
+Das ist ein bisschen nicht so doof,
+wenn man weiß, was man als nächsten Schritt
+machen muss, dann
+relativ einfach. Also ich kann Ihnen nur
+empfehlen, ich würde Ihnen
+Wenn wir beide Aufgaben gemacht haben, ich bin ja nett zu Ihnen, noch folgende Excel-Tabelle freischalten, auf Moodle, diese Excel-Tabelle geben, das ist genau das, was wir jetzt gemacht haben, nur nochmal ein bisschen schöner.
+Und was Sie also machen sollten, ist natürlich, wenn diese Prüfungsaufgabe ankommt, erstmal hier Schichtzeit, Durchführungszeit, Wartezeit ausrechnen.
+Der zweite Schritt, was Sie machen sollten, das müssen Sie nicht, da gibt es keine Punkte drauf,
+aber es hilft halt ungenau mein, wenn Sie sich diesen Zeitstrahlstab malen.
+Und da Sie einfach wissen, welche Termine muss ich berechnen.
+Und dann ist eben der dritte Schritt, dass Sie sagen, spätestens den Endtermin berechnen,
+also erstmal nachdenken, die spätesten Endtermine ist immer nachdenken,
+Spätester Starttermin ist immer diese Umrechnung von Durchführungszeit in Schichtzeit.
+Und dann die Wartezeit ist immer Umrechnung von Wartezeit in Schichtzeit.
+Oder einfach klassisches Subtrahieren, wenn es volle Tage sind.
+Das war jetzt die einfachste Aufgabe von dem Typen.
+Jetzt machen wir noch die zweite, weil es nämlich bei dem passiert,
+das ist die zweite, da sind jetzt mal zwei Termine drin,
+Da haben wir erstmal schiefe Arbeitstage, schiefe Wartezeiten und da sind auch nochmal Sprünge in der Schichtzeit drin.
+Deswegen ist die ein bisschen komplexer.
+Aber ich würde Sie jetzt gerne challengen.
+Versuchen Sie die ersten drei Termine mal alleine zu berechnen.
+Also machen Sie die ersten Schritte.
+Sie haben hier das wieder gegeben.
+Zeichnen Sie diesen Zeitstrahl und versuchen Sie die ersten drei Termine mal selber zu berechnen.
+Sie können sich gerne mit Ihrem Nachbarn zusammentun, geben mal gut 20 Minuten zum Knurren. Ist das okay?
+Das ist der Arbeitsplan.
+Es ist ein Donnerstag, 2. November.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Das war's.
+... Musik ...
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Amen.
+Amen.
+Amen.
+Amen.
+Amen.
+So, jetzt sollen wir uns mal den Tastenteil anschauen.
+Ja, ich höre es, es ist ein Spannungspunkt.
+Ein Spannungspunkt, ein Spannungspunkt, ein Spannungspunkt.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Amen.
+Danke.
+Amen.
+Also der erste Teil, der ist ja schon mehr dominiert gegeben.
+dass wir sagen, Schichtzeit ist ja ausgerechnet, 7,5 Stunden überall, wir haben hier D10, das ist ein Einschichtbetrieb, und F20 hat zwei Schichten.
+Die Schichtzeit, wie gesagt, muss ich ausrechnen, einfach von 6 bis um 1 sind 7 Stunden, also bis A2 sind 7,5 Stunden,
+und dann kann ich die Einsatzzeit ausrechnen, das ist abzüglich der Pausenzeit, die gegeben ist,
+Das ist eine Dreiviertelstunde hier bei D10 und hier ist eine halbe Stunde, dann habe ich 6,7577.
+Mit dem Nutzungsgrad verrechnet komme ich auf die Durchführungszeit und dann muss ich überlegen, was ist ein Arbeitstag.
+Ein Arbeitstag bei D10 ist eben ein Arbeitstag, die 7,5 Stunden sind ein Arbeitstag,
+während hier sind 10,825 Stunden ein Arbeitstag, das heißt, das ist wieder 52 Prozent, das ist dann wieder 48 Prozent am Arbeitstag.
+Das ist ja noch gegeben in der Angabe.
+Das nächste, was man macht, ist, dass Sie sich überlegen, wie terminieren die Flugplätze.
+Also wir sind am Donnerstag, den 2.9., wir sollen einen Arbeitstag Sicherheit haben
+und dann haben wir wieder den spätesten Endtermin von eben 11.20 Uhr.
+Wo muss man eigentlich?
+11.20 Uhr, genau.
+Dann haben wir 150 Minuten zum spätesten Starttermin und 2,1 Arbeitszeiten frühestens Starttermin.
+das da oben, das blendet normalerweise aus. So, das heißt, wann muss hier der späteste
+Endtermin sein? Was haben Sie als spätesten Endtermin rausgefunden? Das ist der
+Sicherheitstag nochmal. Wenn ein Kunde am 2.9. kommt und Sie sollen einen Tag Sicherheit
+drin haben. Das ist der erste Montag. Ein Arbeitstag. Da müssen Sie am 30.08. fertig
+sein. Am 31.08. oder? Der August hat 31 Tage. Das heißt, Sie müssen am 31.08. hier fertig
+sein. Also 31.08. Schichtende von F20 ist tatsächlich der späteste Endtermin. Es geht
+hier um Planung, ob Sie dann tatsächlich diesen Puffertag irgendwann hinten raus noch
+benötigen oder nicht, das ist eine andere Theorie. Geplant ist ein Puffertag, weil es
+Das kann immer was schief gehen.
+So, und dann müssen Sie von diesen 21 Uhr 150 Minuten abziehen.
+150 Minuten sind 2,5 Stunden.
+Und da ist die Frage, wie ist die Relation von Schichtzeit zu Durchführungszeit?
+Also gehen wir hier rein, wir sind in diesem Bereich hier drin.
+Und da sind 7,5 Stunden entsprechend 5,25 Stunden.
+Die Frage ist, was sind diese 2,5 Stunden?
+Das ist mein X.
+Das heißt, wenn im Arbeitsplan 150 Minuten oder 2,5 Stunden stehen,
+dann braucht er in real 3 Stunden 34 Minuten.
+Weil er einfach nicht mit 100% Leistung arbeitet.
+Das ziehe ich von diesen 21 Uhr ab und komme auf, also 3 Stunden ziehe ich ab,
+bin ich bei 18 Uhr, 34 Minuten, 17 Uhr, 26. Das ist der späteste Starttermin für diesen Auftrag.
+Hat das jemand rausgefunden? Nicht die Uhrzeit falscher Tag, nein.
+Immerhin, sehr gut. So, wir hätten wir jetzt hier zwei Tage, wäre es relativ einfach. Dann
+Dann hätten wir den Montag, gehen wir zurück, also Wartezeit zwei Tage.
+Montag, Sonntag und Samstag machen wir zu.
+Dann steht hier auf jeden Fall mal der Freitag.
+Also wir warten am Freitag rauskommen und noch ein bisschen.
+Also wenn es zwei Tage wären, würde der Freitag 17.26 Uhr stehen.
+Steht da 2,1 Tage.
+Das ist ein bisschen ein Problem.
+Jetzt gibt es unterschiedlichste Möglichkeiten zurückzurechnen.
+Allerdings kann man sagen, ich ziehe die zwei Tage ab und nehme dann nur die 0,1.
+Das Problem, wenn ich so rechne und ich habe einen Schichtzeitbruch drin, dann funktioniert das nicht.
+Deswegen rechnen wir jetzt einfach mal ordentlich.
+Also, was wissen wir denn noch?
+Wir wissen, dass wir an dem Tag noch 3,929 Stunden zur Verfügung haben.
+Von 13.30 Uhr bis 17.26 Uhr haben wir noch 3,929 Stunden zur Verfügung.
+Wie viel Prozent vom Arbeitstag sind das? 25 Prozent. 0,254 Arbeitstage sind das.
+Woher weiß ich das? Indem ich ganz einfach sage, ich weiß, dass 7,5 Stunden 0,484 Arbeitstage sind.
+Also sind 3,929 Stunden 0,254 Arbeitstage.
+Also in der Schicht schaffe ich 0,254 Arbeitstage Wartezeit zu reduzieren.
+Dann gehe ich weiter zurück. In der ersten Schicht an diesem Dienstag, 0,516, das lese ich
+da oben raus, das sind 0,516 Arbeitstage, 51 Prozent eines Arbeitstages war hier in der Schicht. Das
+Das heißt, an diesem Dienstag vergehen 0,78 Arbeitstage.
+Da habe ich noch 0,78 Arbeitstage zur Verfügung und die ziehe ich also ab.
+Und dann bleiben, wie gesagt, hier diese 1,33 übrig.
+Der komplette Freitag ist ein Arbeitstag und jetzt brauche ich noch 0,33 Arbeitstage.
+Das entspricht, wenn ich das umrechne, 0,33 Arbeitstage, sind 5 Stunden 7 Minuten in der zweiten Schicht.
+Weil, das hier ist die Umrechnung für die erste Schicht, das hier ist für die zweite Schicht.
+Und wenn ich das dann abziehe, komme ich auf Freitag um 15.53 Uhr.
+Unsere grobe Rechnung, zwei Arbeitstage, hat auch den Freitag gegeben, um 17.26 Uhr, also 0,1 Arbeitstag noch.
+Sie gehen den ganzen Schlüssel verteilen.
+Brauchen Sie das jetzt nicht.
+Okay?
+Und damit haben wir diese Zeit berechnet.
+Damit wissen wir, F20 kann am Freitag um 15.53 Uhr mit dem Auftrag anfangen,
+muss aber spätestens am Dienstag um 17.26 Uhr angefangen haben.
+Sonst werden wir nicht um 21 Uhr fertig.
+In der Realität würde es so ausschauen, wahrscheinlich würdet ihr am Montagmorgen um 06.00 Uhr mit dem Auftrag anfangen.
+Damit hat er alle Rahmenbedingungen erfüllt.
+Okay, also das heißt, wir haben jetzt die drei Termine berechnet. Spätester Endtermin, spätester Starttermin, frühester Starttermin.
+Und jetzt die große Frage, was ist der späteste Endtermin von diesem DC?
+Kurz mal drei Minuten überlegen, dann frage ich Sie.
+Nicht?
+Also Sie wissen schon, wir dürfen Sie jetzt reinrufen.
+Was ist der späteste Endtermin?
+Wann muss D10 fertig sein, damit F20 am 27.08.1553 anfangen kann?
+Also wann muss der eine Vorgang fertig sein, damit der andere anfangen darf?
+Genau, also der erste Impuls wäre zu sagen, ja um 15.53 Uhr. Allerdings arbeiten die ja gar nicht
+um 15.53. Die wollen um 13.30 heimgehen. Deswegen müssen die um 13.30 fertig sein. Das ist also
+der späteste Endtermin für D10 ist der 27.08. Freitag um 13.30 Uhr. So, jetzt gebe ich Ihnen
+nochmal ein paar Minuten, jetzt dürft ihr die Zeitübung nochmal machen. Jetzt dürft
+sich überlegen, was bedeuten 75 Minuten in dieser Schicht und was bedeuten 0,9 Arbeitstage.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Okay.
+Vielen Dank.
+Amen.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+So, schauen wir mal, was wir jetzt haben.
+Also das heißt, den ersten Termin, den haben wir eigentlich schon festgestellt,
+das ist der 27., der 8. und 13.30 Uhr.
+Das war der späteste Endtermin.
+Der späteste Starttermin, das sind eben diese 75 Minuten abgezogen von 13.30 Uhr.
+Wenn es jetzt 1 zu 1 umrechenbar wäre, dann wären es diese 1,25 Stunden abgezogen, also eine Stunde 15 Minuten, dann würden wir ja hier irgendwo bei 12,15 rauskommen.
+Das Problem ist allerdings wieder, wir arbeiten hier mit einem Leistungsgrad von 75%.
+Das heißt, die 1,25 sind keine 1,25, sondern sind irgendwas mehr.
+Also der erste Schritt umrechnen, was sind die 1,25 tatsächlich?
+Also in 7,5 Stunden schaffen wir 5,4 Stunden.
+Das heißt, diese 1,15 Stunden sind in Realität 1,44 Stunden.
+Und das sind dann, wenn wir es abziehen, 11,46 Uhr.
+Und jetzt auch leider hier, die Angabe war unfair, also nicht ein voller Tag, sondern 0,9 Tage.
+Das heißt, wir kommen irgendwo zweimal Donnerstag raus, auch um wahrscheinlich die Uhrzeit, aber nicht ganz.
+Also ist die Frage, was bleibt uns noch von dem Tag übrig?
+Also was ist die Restzeit von eben 6 Uhr bis hier 1.46 Uhr?
+Das sind 5,764 Stunden.
+Ich kann auch einfach hier Minus rechnen von den beiden.
+Was ist das in Wartezeit?
+Was sind das hier, wie viel von einem Tag ist das?
+76% oder 0,769 Arbeitstage, wenn ich das von diesem 0,9 abziehe, dann bleiben wir noch am Tag davor, also am Donnerstag, Freitag auf Donnerstag, bleibt mir noch was übrig, das heißt wir brauchen noch 0,893 Stunden.
+und das sind
+eben
+diese 0,13
+das sind eben 59 Minuten
+und die rechne ich um
+und komme auf 12,31
+also ich sage plus minus 2 Minuten
+das ist ok, das sind Rundungsfehler
+alles ok
+aber in die Richtung sollte es gehen
+Und dann habe ich minutengenau im Prinzip meine Start- und Endzeiten berechnet.
+Also im Prinzip ist es nicht schwierig, man muss sich halt einfach nur das Ziel
+plänen, dass man immer nach denselben Schritten arbeitet. Also rechnen Sie erst im Prinzip diese
+Tabelle aus. Dann zeichnen Sie sich die Skizze. Wenn Sie es nicht mehr auf Papier kriegen,
+dann zumindest imaginär. Und dann einfach von einem Termin zum nächsten
+haben. Sie können diesen Termin nicht berechnen, wenn Sie den nicht wissen.
+Deswegen, Sie müssen tatsächlich von Rückwärtsterminierung einfach auch
+Rückwärtsterminierung. Und wichtig ist, alles in diese Schichtzeiten umzurechnen.
+So, jetzt schauen Sie sich ganz kurz nochmal um. Da sollten Sie jetzt diesen,
+diese Datei,
+die ich Ihnen gerade gezeigt habe, finden.
+Also das sollte auch relativ
+genau,
+das sollte, wie gesagt,
+mit dem Fahrkode und so weiter, sollte
+einigermaßen selbsterklärend sein.
+Was ist aus der Anlage, was kann man berechnen,
+bei was muss man nachdenken.
+Also irgendwo steht dann scharf nachdenkend dran.
+Das ist natürlich, die ersten Termine
+können Sie nicht berechnen.
+Das ist halt nachdenkend.
+Das ist halt, der eine Tag ist
+ist halt der Tag, den Sie frei machen müssen.
+Der andere Tag, beziehungsweise wie passend Schichtenden und Schichtanfängen zusammen,
+da muss man einfach im Zweifel auch das Schichtmodell aufmalen,
+wenn Ihnen das leichter fällt.
+Das Zweite, was noch anleitend ist, immer wieder, wie gesagt, die Probeprüfung.
+Wenn Sie jetzt auf die Probeprüfung gehen, das ist so ein Ding, was ich eigentlich immer drin habe.
+Weil es einfach auch zeigt, ob die Leute Terminierung verstanden haben. Ich habe hier
+immer die schwierigsten Themen reingepiept. Das heißt, drei Arbeitsschritte. Okay? Immer,
+fast immer ungerade Wartezeiten mit dabei. Immer Schichtwechsel und sowas, dass sie sich da mal
+austoben können. Ich meine, wenn sie das hinkriegen, dann ist ein Füfen echt kein
+Und die kann man auch relativ schnell, wenn Sie sagen, jetzt kennen Sie den Termin ja auswendig,
+sich schnell selber bauen. Sie müssen einfach nur den ersten Termin machen Sie daraus 180, 360 und
+machen Sie einfach statt dem Starttermin den 15.02., den 15.07. und Mittwoch und dann können Sie selber
+wieder durchrechnen und es kommt alles anders aus. Und wenn Sie das zu zweit machen, haben Sie ja sich selber
+als Korrekturfaktor.
+Also das kann man sehr schön auch selber als Aufgabe
+rechnen.
+Und dasselbe natürlich dann an der
+Prüfung 2 noch. Wenn es jetzt
+schon Klick gemacht hat, dann
+sorgen wir dafür, dass es Klick bleibt,
+rechnen Sie noch ein, zwei Aufgaben durch
+und haben Sie nämlich den größten Teil für die
+Prüfungsvorbereitung schon geschafft.
+Okay? Also
+das ist echt, und das wird
+auch meistens mit vielen Punkten,
+Sie müssen hier neun Punkte
+berechnen, Sie müssen in der Regel die Prüfung
+Ich mache nur zwei Schritte, da gibt es dann sechs Daten, die man berechnen muss, dann gibt es so 14 Punkte oder 16.
+Das ist manchmal ein ganz großer Brocken von der Prüfung.
+Und je sicherer man ist, desto eher hat man auch die Themen.
+Gut, hat man da auch die Punkte schon.
+Und wie gesagt, auch bei Punktprüfung 2 ist genau dasselbe nochmal.
+Und da haben Sie dann hier sogar noch, so wird es wahrscheinlich ausschauen, die Feiertage.
+Da müssen Sie dann auch die Feiertage vorsichtigen.
+und ja, Sie müssen Sie an Realtimitanten setzen.
+Und das wird natürlich dann spaßig, wenn Sie dann Feiertage berücksichtigen müssen.
+Oder Werksurlaub.
+Das ist ja sogar Werkskalender, genau.
+Da könnte man jetzt noch einen Betriebsurlaub reinspringen,
+zum Beispiel, dass dann im August die KW 33 geschlossen ist.
+Also das kann man dann noch beliebig skalieren für eine Aufgabe.
+Aber das wird Sie nicht schaffen.
+So, dann ganz kurz zurück ins Skript.
+Damit sind wir beim letzten großen Kapitel von Kapitel 8.
+Wir machen das nächste Mal noch ein bisschen das Thema Rüsten und den Abschluss der PPL-Vorlesung.
+Und dann können wir uns nach den Weihnachtsferien auf die Prüfungsvorbereitung konzentrieren.
+Und mehr ist es dann noch nicht mehr.
+Ich hoffe, das passt für Sie.
+Gut, dann sind wir für heute fertig. Ich habe hier auch ein bisschen, ist okay, muss auch mal sein.
+Und dann sehen wir uns nächsten Dienstag wieder.
+Bis dahin wünsche ich Ihnen eine schöne Zeit. Auf Wiedersehen.
