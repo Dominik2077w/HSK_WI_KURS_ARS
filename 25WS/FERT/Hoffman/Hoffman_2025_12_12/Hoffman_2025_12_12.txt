@@ -1,0 +1,758 @@
+Alles gut?
+Ja.
+Weiter!
+Sollen wir auch langsam raus?
+Was will man mehr?
+Reden.
+Auch alles gut.
+gut
+Vielen Dank.
+Was wir jetzt gesagt haben ist,
+dass beim Fließen
+von Kunststoffschmelzen,
+die Moleküle
+orientiert werden.
+Sie strecken sich,
+sie gehen aus dem Knäuel heraus,
+wollen aber wieder das Knäuel zurück.
+Wenn man aber die Schmelze sehr schnell abkühlt,
+werden diese Orientierungen eingefroren.
+Und diese Orientierungen haben zur Folge,
+dass unterschiedliche Eigenschaften eingestellt werden.
+Das sind so genannte Anisotopien.
+Die Molekülorientierung, der Verarbeitungsprozess,
+gewollt oder ungewollt, sehr schnell abgekühlt und eingefroren.
+Das führt dann zu richtungsabhängigen Eigenschaften
+und der sogenannten Anisotopie.
+Dazu hatte ich Folgendes dargestellt.
+Ähnlich wie Molekülorientierungen werden hier im Herstellungsprozess von dem Papier zellulose Fasern eingefroren und ausgerichtet.
+Schauen Sie mal, das hier reiße.
+Die Fasern liegen alle in der Richtung.
+Das ist die Verarbeitungsrichtung der Maschine.
+Und der Riss läuft zwischen den Fasern durch.
+Wenn ich versuche, diesen Riss umzuleiten und sage, ich will das jetzt in der anderen Richtung, die Fasern liegen alle so, dann geht der Riss immer zwischen die Fasern und der dreht jetzt im Verlauf dessen seine Richtung, der geht wieder da rum.
+Und das sind anisotrope Eigenschaften, die haben Sie teilweise in Kunststoffbauteilen. In der Richtung funktioniert das gut, in der anderen nicht.
+Das ist eine richtungsabhängige Festigkeit, eine Anisotropie hochzuhalten, zum Beispiel auch mit dem Fingernagel, da läuft der Riss dann auch immer quer, wenn er mal reißen sollte, und dann auch mit einer Elastizitäts-Anisotropie.
+Ja, Fasern, Glasfasern oder beim Papier halt die Zellulosefaser, die ausgerichtet wollen.
+Früher hat man diese Eigenschaften von Kunststoffen genutzt,
+dass die unter einer mechanischen Spannung Orientierung zeigen.
+Man hat beispielsweise so eine Spannungsoptik gemacht.
+Wir hatten das ja gesagt, Kraftfluss bei Maschinenelementen,
+die Kraft durch das Bauteil geht, Kraft mit Lenkung sollte man vermeiden.
+Oben sieht man das.
+An der Stelle sind jetzt hohe Spannungen zu erwarten.
+Da sind die Isochromaten sehr dicht angeordnet.
+Man kann mit einem transparenten Kunststoff die Spannungen sichtbar machen, ähnlich wie bei dem Haken hier.
+Der Haken, wenn er keine Spannung hat, der ist aufgehängt, da ist eine Last dran.
+Hier ist keine Spannung, ist schwarz.
+Und dort, wo hohe Spannungen sind, sind die Isochromaten sehr eng verteilt.
+Bei dem Haken könnte man jetzt eine Topologieoptimierung machen des Radiuses hier in der Mitte, um den Kraftfluss zu verbessern.
+Und noch eine eingefrorene Orientierung durch zu schnelles Abkühlen bei der Herstellung des Bauteils.
+Das hier sind Orientierungen eingefroren.
+Da ist jetzt keine Spannung drauf.
+Wenn man zusätzliche Spannung hat, werden die Moleküle nochmal orientiert und ausgerutscht.
+Das Ganze lässt sich durch Schrumpfmessungen darstellen.
+Da kommt im späteren Verlauf ein Bild.
+Da sind mal Tankplatten, die hergestellt werden.
+Da sieht man das.
+oben ist der Ausgangszustand
+das blaue, rot ist das geschrumpfte Bauteil
+mit einem Schrumpf von jeweils 50%
+beispielsweise
+L0 ist die Ausgangslänge
+L1 ist die Endlänge
+und der Schrumpf ist
+Vielen Dank.
+Vielen Dank.
+Wenn ich jetzt hier zum Beispiel L0, normalerweise 100 mm, L1 ist 70 mm,
+Wenn 1 30 mm, dann ist das Ding im S gleich 70 % geschrumpft.
+In dieser Schrumpfstunde-Anwendung sind auch wieder Schrumpffolien und Schläuche gezielt eingestellt.
+Hier ist ein Bauteil drin.
+Das Schrumpfen wird ausgelöst durch hohe Temperaturen, weil die Moleküle dann wieder in diesem Knäuelzustand zurückrollen.
+Eine weitere Methode, diese Anisotopie zu messen, ist die mechanischen Eigenschaften, Doppelfrechung, wie wir das eben haben, oder durch Röntgenstreuung.
+Da springen wir jetzt mal drüber.
+Nächster Prozess bei der Verarbeitung ist wieder das Abkühlen.
+Das haben wir schon bei den Metallen gesehen.
+Bei den Metallen war das Trumpfverhalten aufgetragen.
+Prinzipisches Volumen über Temperatur bei einer reinen Metallschmelze sieht es so aus.
+Das ist die Flüssigkeit, das ist flüssig, das ist Erstarrung und das ist fest.
+Das war das Diagramm.
+Da haben wir die Verfestigungstemperatur oder Erstattungspunktemperatur.
+Die Zunahme der Temperatur braucht nur 70 Energie, um ein Material aufschmelzen zu können.
+Bei der Abkühlung wird wieder Energie frei, weil die Kristallisation einsetzt und das Volumen verkleinert sich.
+Da haben wir da oben gehabt, den Betrag, GT, die Gießtemperatur, da unten wird ausgepackt, das war sozusagen die Schwindung.
+Und da muss man sich Gedanken machen, wie man die Schwindung verbindet.
+Jetzt haben wir hier Amorphe und Teilkristallin in der Thermoklastel, die jedenfalls abkühlen.
+Und wenn das Material in der Kristallisation fähig ist und erscharrt, wird auch hier eine große Schwindung stattfinden.
+Dies proportional zur Kristallität.
+Die sich ausbildenden Strukturen, Moleküle, kommen näher beieinander durch Abkühlung, führen dazu, dass eine Schwindung auftritt.
+Und diese Schwindung muss man beschreiben, damit man den Prozess adäquat beschreiben kann
+und diese Kristallisation abbilden kann.
+Bei den Metallen haben wir gesagt, Atome gehen an Gitterpunkte.
+Wenn der kritische Keimradius erreicht wird,
+hier hat man sogenannte Pflanzen oder Zeitungskeime, die existent sind,
+setzt Kristallisation ein.
+Es bedarf also sozusagen einer Aktivierungsenergie.
+Ich muss der Schmelze Wärme entziehen.
+Das bezeichnet man als Aktivierungsenergie.
+Damit ausreichend große Keime entstehen.
+Und diese ausreichend großen Keime,
+dann das Kristallwachstum
+das sieht jetzt bei dem Kunststoff
+in der Form etwas anderes aus
+Kunststoffe sind
+zwar hochgeordnet
+und wiederholen sich
+aber haben nie einen Kristallisationsgrad
+von 100%
+weil durch diese langen Spaghetti-Moleküle
+aus der Schmelze
+immer
+bestimmte Bereiche
+nicht kristallisieren können
+die kriegen das nicht 100% hin
+je länger die Kette
+desto größer wird dieses Problem mit der perfekten Faltung.
+Und dann tritt eine primäre Kristallisation, nennt man die auch,
+oder Hauptkristallisation im Werkzeug, im Verarbeitungsprozess auf.
+Und dann haben wir das Bauteil irgendwann am Lager oder beim Kunden
+und dann kann eine sekundäre Nachkristallisation eintreten.
+Die Bedingung, dass solche Keime gebildet werden,
+ist, dass man der Schmelze die Aktivierungsenergie erzielt und dann sozusagen diese Nukleierung stattfindet.
+Nukleierung heißt, ich kann geeignete Kristallbildner der Schmelze zusetzen,
+die beim Abkühlen zusätzliche Kristallisationskeime bewirken, sogenannte Fremdkeime.
+Beim Metall nannte man das Impfen.
+Impfen.
+Hier nennt man es Nukleierung.
+Die Schmelze hat diese Keime hinzu, die dann zu einem feineren Gefühl geführt.
+Das haben wir bei den Detailen auch schon.
+Das hier, mehr Keime bedeutet und damit ein kleineres.
+Ja.
+Ich glaube, ich habe es bei den Italien schon mal gezeigt.
+Vielen Dank.
+Wir füllen jetzt den Raum aus. Dreidimensional. Wenn man das aufschneidet, kriegt man Kugeln zu dem Gesicht.
+Das, was man hier jetzt sieht, läuft zwischen zwei Glasplatten ab.
+Die Schmelze abgekühlt und es setzt Kristallisation ein.
+Das ist hier so ein typischer Keil, im Kernerdessen diese Kristallisation auftritt.
+Hier haben wir dann das langsame Abkühlen der Schmelze.
+Zum Beispiel im Kern oder bei Rohren auf der Innenseite sieht die Schmelze viel langsamer aus.
+Und da sieht man, es gibt weniger Keime, gleiches Material, langsames Abkühlen, weniger Keime, größere Sterilität.
+Und im Prozess muss man diese Volumenschwindung, die auftritt, immer kompensieren.
+Hier, Volumenschwingung, wie man gesagt hat, ist die Zusammenziehung der Schmelze.
+Ist das okay?
+Ich habe da noch eine Frage.
+Was ist dann eigentlich zwischen den Keimen?
+Das ist jetzt Schmelze, ja?
+Das ist die Schmelze.
+Die ist am Ort.
+Die Moleküle sind beweglich.
+Ich kann Verarbeitung machen, schicke ein Material durch eine Düse oder drücke es in ein Werkzeug hinein.
+Jetzt kühlt es ab, von außen nach innen. Außen kühlt es schnell ab, es sind viele Keime.
+Und was hier zwischendrin ist, sind die Moleküle, die sind wie Spaghetti miteinander verknallt.
+Und die fangen jetzt an zu kristallisieren.
+Das heißt, es gibt einen Keim, kann ein Fremdkörper sein, den ich gezielt reingebracht habe, oder ein Keim, der gebildet wird durch Abkühlung.
+Und der, das führt jetzt dazu, dass diese Kristalle gebildet werden und die sich falten.
+Die laufen immer weiter nach außen, bis irgendwann die Keime sich in der Grenzfläche aufeinandertreffen.
+Das heißt, wenn ich jetzt hier so einen Keim habe, da wachsen diese Lamellen nach außen,
+da wachsen die nach außen, da habe ich den nächsten, der ist jetzt so weit gewachsen,
+und dann ist da zwischendrin immer noch Schmelze. Die ist amorph. Und diese Moleküle,
+die sind an der Stelle komplett ungeordnet. Die durchdringen sich gegenseitig.
+Und dann werden die Kristalle mit Moleküle da reingezogen, falten sich beim Abkühlen und bilden die geordneten Strukturen aus.
+Also zwischendrin ist Schmelze, die amortisiert ist, die sich aber noch weiter zusammenzieht, weil sie auch abkühlt und dann Kristalle bildet.
+Die wächst dann quasi sozusagen in diese Kristalle, in diese Steroidstruktur mit hinein.
+Ja? Und wenn es mir nicht gelingt, im Prozess diese Volumenschwindung, die kommt, auszugleichen,
+dann kriege ich ein Bild wie das hier.
+Das ist ein Kristall, da wachsen diese kleinen Lamellen nach außen, nach allen Seiten,
+und zwar in die Kristalle, und das hier, das ist ein Riss.
+Da ist ein Riss drin.
+Da ist ein Loch, das ist ein sogenannter Lunker, haben wir gesagt.
+wenn diese Volumenschwindung nicht ausgeglichen wird, ein typischer Fehler ist ein Blunker.
+Bei den Brustbauteilen macht man oben einen Speiserbau, damit die Schmelze nachgießen kann,
+damit die Erstarrungsschwindung kompensiert wird. Und hier kann man zum Beispiel beim Spritzgießen
+mit Nachdruck Schmelze noch in die Kapazität rücken. Einverstanden? Und das ist immer das
+Problem, das wir beim Kunststoff haben, der zeigt auch Volumenschwindung durch Abgrenzung. Die
+Amorfen weniger als die Teilkristallinen. Dazu kommen wir jetzt. Da gibt es Diagramme dazu. Man
+sieht es. Das sind diese Spherulite. Das sind die Kugeln. Und hier ist klassisch ein Blunker,
+Das schwarze.
+Das schreibe ich mal noch an.
+Wenn die Blumenschwindung nicht ausgeglichen wird, kriegen wir hier bei den Metallen auch einen Blumenkram.
+Die mehr Volumenschwindung ein Material hat, desto schwieriger ist es zu verarbeiten.
+Was man sich merken muss,
+das gucken wir uns gleich an und bilden das ab im Diagramm.
+Die Höhe, die Künstallität, heißt mehr Volumenschwindung und mehr Probleme.
+Höhere Kristallinität heißt mehr Volumenschwingung.
+Hier gibt es Materialien, die ähnlich aufgebaut sind, wo man für die innere Struktur Kristallinitätsgrade
+bei den Kunststoffen erreicht von 20-30 bis hin zu maximal 90 Prozent.
+Und die unterscheiden sich, das ist sozusagen eine Kristalllamelle, das ist eine geordnete Struktur, aber zwischendrin gibt es bei den Kunststoffen immer ungeordnete Bereiche, weil diese Moleküle sich nicht 100%ig so falten können.
+die sind gegenseitig durchdrungen
+die haben Verschnaufungen
+und das kann man nicht abwickeln
+deshalb gibt es immer kristalline
+und Amorte-Bereiche
+oder ich habe halt einen komplett
+Amorten-Kunststoff, der gar nicht
+kristallisiert
+das Thema ist, je stärker
+die Kristallinität
+desto mehr Schwindung
+Das machen wir jetzt hier am Overhead, das müssen Sie dann abmalen und dann richtig wiedergeben
+bei der Prüfung.
+Das ist jetzt ein typisches, eine Prüfungsfrage.
+Das ist eine Prüfungstage.
+Der hier war jetzt kaputt.
+Wieso, umgeklappt?
+Nee, der hat kein Licht.
+Der ist kaputt.
+Und der hier?
+Amorphe-Teilkristallin, der Amorphe-Tarmoglas.
+hat eine zunehmende Temperatur, nimmt das Volumen zu.
+Das ist gleich V, das ist das spezifische Volumen, das ist der Kehrwert der Dichte.
+Ja, dann haben wir eine Temperatur, von der aus dieses Bauteil größer wird, das spezifische
+Volumen nimmt zu, die Moleküle werden zunehmend beweglich, das größert ihr Volumen, der
+Der Abstand zwischen den Ketten wird größer bis zum Erreichen der sogenannten Glasübergangstemperatur Tg.
+Dann sind die Moleküle immer freier beweglich.
+Der Abstand zwischen den Ketten wird deutlich größer und damit steigt dieses Volumen nochmal an.
+Die Steigung an der Stelle wird größer, oberhalb von Tg.
+Kann ich das Material über Druck komponieren?
+Verschiebt sich das ein bisschen nach hinten?
+Die Gradienten des Einstiegs bleiben nahezu identisch.
+Da ist mein DG.
+Das kann ich erreichen, indem ich hier in der Richtung...
+Was heißt das?
+Ich habe hier eine Temperatur und ein Volumen.
+Volumen nimmt zu, mit zunehmender Temperatur.
+Oberhalb der Glasübergangstemperatur, TG, Glasübergangstemperatur, zeichnet das Volumenslag an.
+Da oben haben wir zum Beispiel die Verarbeitung, T-Verarbeitung, Urformel, ich schreibe das nicht aus, weil ich nicht genug Platz habe, ja,
+Befreien Sie es bitte aus.
+T-Fair ist die Verarbeitung.
+Mit einem zusätzlichen Druck kann ich was machen.
+Was passiert, wenn ich den Druck hier aufbaue, bei der Temperatur?
+Das spezifische Volumen nimmt ab, die Dichte nimmt zu.
+Moleküle kommen näher beieinander.
+Das kann ich mit dem Druck E machen.
+kann die Schmelze komponieren.
+Die Schmelze kühlt ab.
+Spezifische Volumen nimmt ab.
+Die Dichte nimmt zu.
+Moleküle kommen näher aneinander.
+Und hier mache ich zum Beispiel bei der Temperatur
+T-E
+oder T-N
+Das heißt, ich muss das hier kompensieren.
+Das ist mein Delta-V-Amorph.
+Genau wie bei dem Metall, Schmelze, Erstarrung, Festkörperkontraktion, ein bestimmtes Volumen, je nach Metall, überrücken werden muss, um diese Schwingung zu kompensieren.
+Schauen wir uns das gleiche an, den Teilkristallinus-Material.
+E über V.
+Teilkristallina, Pernoplast.
+Das sieht folgendermaßen aus.
+Auch hier hat man die Verschränkphase.
+Hier haben wir auch die Verarbeitungstemperatur.
+Die Verarbeitung. Wir haben hier die Gradienten und jetzt fängt bei der Erstarrung oder beim Schmelzen die Schmelztemperatur, das Volumen an sich sehr stark zu vergrößern.
+Der Kunststoff, der kristallisieren kann, eine eigene Temperatur.
+Und da unten würden wir jetzt zum Beispiel das Bauteil wieder entformen.
+T-Entformen.
+Da oben ist die bearbeitete Schmelze, wenn wir den Druck erhöhen, können wir diese Schmelze auch kontrollieren.
+Sieht die Kurve so aus.
+Das ist zunehmender Druck P.
+Da oben ist meine Bearbeitung, da ist meine Entformung.
+Dieses Delta-V ist jetzt, ich kürze das ab, Delta-V-Teilkristallin.
+Das ist dieses Integrale, das ist die Schwindung, die das Material durchläuft bei einem Amorfen.
+links und rechts
+bei einem
+Teil des
+materiales.
+Das ist das Delta V.
+Und dieses Delta V,
+die Schwindung
+am Mord,
+ist viel, viel
+kleiner als die Schwindung
+von Delta V.
+Teil des
+Wenn jetzt das Material noch stärker kristallisiert,
+bei dem gilt dann zusätzlich höhere
+mehr Windung.
+Das ist immer die klassische Frage.
+Bezieren Sie das spezifische Volumen eines Kalten Skalins und am Morgen haben Sie das
+und erläutern Sie die nachläufigen Vorgänge.
+Das ist jetzt dann für die Kurve, je höher die Kristallinität, desto mehr Schwindung gibt es.
+Das Delta-V wird größer.
+Das ist ein wichtiges Diagramm für
+Vielen Dank.
+Ich muss ja in die Schmelze, um Material zu umformen zu können.
+Aus dem Granulat mache ich eine Schmelze, die Schmelze drücke ich in eine Form.
+Die Form ist gekühlt.
+Dabei laufen Abkühlungsprozesse ab.
+Und unter dieser Abkühlung wird das Ganze registriert, das spezifische Volumen, V, ist 1 durch Rho, der Kehrwert der Dichte.
+Mache ich ein Material jetzt warm, Moleküle gehen auseinander, brauchen ein größeres Volumen, das spezifische Volumen nimmt zu.
+Ich habe hier das Material, schmeiße es hinten in den Extruder rein, jetzt wird es erwärmt durch innere Reibung, nimmt das Volumen zu.
+Jetzt bin ich da oben bei der Verarbeitungstemperatur, dann ist das Volumen größer.
+Jetzt drücke ich diese heiße Schmelze in eine Form oder ich kühle sie ab von außen, damit das Bauteil fest wird, wie die Schmelze beim Gießen.
+dann kann ich über Druck einen Teil dieser Schwingung kompensieren
+indem ich Druck aufbaue
+werden die Moleküle zusammengedrückt
+sie kommen wieder näher zusammen
+das spezifische Volumen nimmt ein wenig ab
+jetzt kühlt diese Schmelze aber ab
+kühlt runter
+erreicht die Glasübergangstemperatur
+Moleküle kommen näher beieinander
+werden immer unbeweglicher
+langsam wird das Bauteil fest
+bei der Temperatur kann ich ihn formen. Mit anderen Worten, ein amorpher Thermoplast wird
+hier oben verarbeitet, wird an der Stelle entformt. Das ist die Volumenschwingung, die er hat,
+für ein amorpher Material. Wenn ich ein Teilcrystallines Material habe, muss ich auch
+In die Schmelze, wo das Material verarbeitet wird.
+Ich drücke die heiße Schmelze in eine Form hinein.
+Dort kühlt sie ab.
+Im Zuge der Abkühlung fällt die Temperatur nach links.
+Das Volumen verkleinert sich.
+Das ist die flüssige Schwindung.
+Und an der Stelle, Tm, setzt Kristallisation ein.
+Die Moleküle falten sich.
+Die gehen aus dem Amorphenzustand, wo sie als Knäuel vorliegen, in die enge Form der Kette, die gefaltet ist.
+Deshalb verringert sich das Volumen an der Stelle schlagartig nach unten, wie bei der Erstarrung der Metalle,
+wo die Atome aus der Amorphenschmelze auf Gitterplätze gehen und dann verkleinert sich dieses Volumen sukzessive da unten entformlich.
+Das heißt, ich habe bei Teilkristallin-Materialien zwischen Verarbeitungstemperatur und Entformungstemperatur
+etwa die dreifache, vierfache oder noch mehr höhere Schwindung.
+Das ist das, was hier unten steht, das Delta-V-Amorph.
+Die Amorphobolumenschwindung ist viel kleiner als bei Teilkristallinen.
+und bei Teilkristallinen führt eine höhere Kristallinität nochmals zu mehr Schwindung.
+Das Delta-V wird größer.
+Und das macht uns Probleme, das Delta-V.
+Weil wir müssen das ausgleichen im Prozess.
+Wenn wir es nicht ausgleichen, kriegen wir Lunker.
+Also es sind sozusagen die drei verschiedenen Linien einfach der Druckunterschied.
+Genau.
+Und ich kann auch die Kristalline, Teilkristallins Material in der Schmelze komponieren, indem ich über Druck die Schmelze zusammendrücke und die Moleküle näher beieinander kommen.
+Aber ich kann nicht, das kann ich zum Beispiel schon machen, wenn die Temperatur identisch ist, dann lande ich hier, vom Volumen her.
+Dann habe ich einen Teil der Schwindung kompensiert durch Druck, aber durch die Abkühlung und die Faltung der Moleküle gibt es viel mehr Schwindung und die muss ich kompensieren.
+Das macht man wie beim Metall auch, im Druckverfahren, dass man über die plastische Seele,
+dieses Schmelze läuft ja von oben aus dem Speiser das Material nach.
+Und beim Kunststoff mache ich das mit Druck. Ich drücke mit Druck über die plastische Seele Schmelze, die ich noch brauche, um die Schwindung ausgleichen zu können.
+Das sind, sage ich jetzt mal, hier 3-4%, da sind es vielleicht 7, 8, 9, 10%, 15% teilweise.
+Also Schwindung, das Volumen verkleinert und ich mir Gedanken machen muss,
+wie ich diese zusätzliche Schmelze, solange sie noch flüssig ist, in das Bauteil nachdrehe.
+Ja?
+Wenn ich jetzt zum Beispiel Glasfasern im Material habe, wird die Schwindung weniger,
+weil das Glas die Ausdehnung reduziert und damit kann ich besser konstruieren.
+Das sind jetzt konkrete Diagramme.
+Das ist PVC. Das wird verarbeitet hier bei 180 Grad und entformt bei 70, 60, 70 Grad.
+Das ist die Schwindung. Das ist wenig.
+Das ist PMMA, das ist Amort.
+PS ist ebenfalls Amort. Das sind drei Amort-Materialien.
+Die haben wenig Schwindung. Das ist mein Delta-V, das ist mein Delta-V.
+Das ist ungefähr überall gleich.
+Frage, Transferfrage,
+ich meine einfach mal,
+welches Material hier hat die höchste Dichte?
+Sagen wir mal bei Raumtemperatur etwa,
+welches Material hat die höchste Dichte?
+Wenn das spezifische Volumen groß ist, ist die Dichte niedrig.
+Wenn die Dichte hoch ist, muss das spezifische Volumen klein sein.
+Das kleinste spezifische Volumen hat PVC, das hat die höchste Dichte.
+Kann jemand mal ausrechnen? 0,72 im Kehrwert?
+0,72, der Kehrwert, guckt wahrscheinlich irgendwas 1,4, sieht noch was aus.
+Welches 0,? 0,7, was ist das, 2?
+Also 1 durch 0,72.
+1,38 gerade.
+1,38.
+PMMA 0,85.
+Der Kehrwert.
+1,16.
+1,17.
+Polystyrol 0,95.
+Das heißt, die Materialien haben alle eine Dichte größer 1.
+Die schwimmen nicht im Wasser. Die haben eine Dichte, spezifisches Volumen größer 1. Dichte
+ist kleiner 1. PE und PP mit Dichte kleiner 1 schwimmen im Wasser. Okay, was sieht man jetzt noch?
+Ganz kurz. Das war das Delta-V für das Amorphenmaterial. So ungefähr. Das ist das Integral. Das ist das Delta-V für den Amorphen.
+Wenn ich das jetzt vom Teilkristalline nehme, mache hier die Verarbeitung bei 200 Grad.
+dann liege ich hier vorne bei dem spezifischen Volumen. Wenn ich das PEHD, hohe Dichte, hohe
+Kristallinität, informe, dann sehen Sie, dann ist es das Delta V. Das ist viel, viel größer.
+Ja, das bereitet mir Probleme. Diese Volumenschwindung muss ich im Prozess kompensieren.
+Was ist da so ein typisches Beispiel, in dem man einfach die Form größer macht?
+Ja, genau. Sie müssen die Form größer machen und Sie müssen durch den Druck im Prozess die Schwindung ausgleichen, mehr Material nachschieben.
+Die Verarbeitung wird schwieriger. Ganz richtig.
+Ganz richtig. Sehr gut.
+Wenn Sie jetzt also Materialien mit unterschiedlicher Kristallinität verarbeiten,
+kann sich die Schwingung unterscheiden. Und wenn Sie die gleiche Form haben,
+eben eine andere Maßbedingung. Und es gibt es tatsächlich, das hat ein Freund von mir mal
+angefangen, Muster geschickt, die haben beim Material ein bisschen was geändert an der
+Kristallinität und die haben keine maßhaltigen Bauteile mitbekommen. Das war eine Charge,
+die kristallinität nicht gepasst hat sehr gut
+Ich schreibe Ihnen noch mal was ein zu Ihrem PC.
+Vielen Dank.
+Was wir jetzt noch zusätzlich haben, ist, dass der Kunststoff als solches sich bei Aufwärmen und Abkühlen unterschiedlich verhält.
+Tc und Tm können wir immer nachfragen.
+Das Material hat typischerweise zwei unterschiedliche Temperaturen.
+Tc ist die Kristallisationstemperatur.
+Das ist die Temperatur, bei der das Material beim Abkühlen durch die Temperatur und PM ist die Schmelztemperatur unterschiedlich verhält.
+Jedes Material hat eine Schmelz- und Kristallisationstemperatur.
+Achtung! Das ist mein Material.
+Schauen Sie mal, können wir mal gemeinsam drüber schauen.
+Laserpointer, hier, langsam. Ich erwärme das Material.
+Temperatur steigt, das Volumen nimmt zu, Kristalle schmelzen.
+innen. Volumen nimmt stark zu, das Aufschmelzen nimmt stark und bei TM ist das Material im Schmelze.
+Dann habe ich hier zusätzlich weiter steigende Temperatur und hier oben würde ich die Verarbeitung
+machen. Dann bin ich bei dem Punkt. Ich könnte hier noch den Druck ein bisschen erhöhen, aber ich bin jetzt einfach mal bei der Temperatur. Ich kühle ab, ich kühle ab,
+abkühlen, erstarren, findet man nicht statt.
+Die Schmelztemperatur wird erreicht.
+Schmelztemperatur bei Nylon 220°C,
+TM bei EVOA 160°C,
+das sind so Materialien aus der Folienherstellung.
+Und dann sieht man, dass die Kristallisation,
+die Kristallisation TC 220°C schnitzt,
+bei 130 bis 160
+setzt erst die Kristallisation ein.
+Wenn Sie die Schmelze bei 180 Grad halten,
+wo Sie bei der Wärme noch fest sind,
+sind Sie beim Abkühlen
+noch schmelze.
+Das heißt, Sie müssen diese Temperatur,
+dieses TC,
+unterschreiten,
+damit die Kristallisation einsetzt.
+Das ist wieder diese Unterkühlung,
+die man braucht.
+Und dann können Sie
+langsam abkühlen.
+Was heißt langsames Abkühlen?
+Das Material hat Zeit
+zu kristallisieren.
+Spezifische Volumen
+nehmen stärker ab.
+Die Schwingung ist größer.
+Deshalb haben wir auch eine Einflussgröße
+auf den Prozess, ob sie langsam
+oder schnell kühlen
+und ob sie ein maßleidiges Bauteil hinkriegen.
+Weil sich
+dann das
+verändert und das Material
+wenn es schnell geht, eine kleinere Schwindung im Prozess hat, aber im nachgeschalteten Prozess zusätzlich schwindet.
+Und dann kann sich das Bauteil verziehen.
+Wenn einmal die Parameter festgelegt sind für den Bauteil, darf man daran nicht spielen.
+Wenn man schnelleres Abkühlen macht, man macht das Werkzeug kälter, liegen die Probleme in der Maßstab.
+Wenn man schnell abfügt, muss das Bauteil ja größer sein, also mehr Material. Wie sieht es dann mit der Festigkeit aus?
+Wir haben zusätzlich Orientierungen, die beim Spritzgießen, bei der Formfüllung entstehen, die eingefroren werden.
+In dieser Richtung kann das besser sein, aber klarer ist es nicht.
+Das heißt, wir haben eine Varianz an Eigenschaften, die unmittelbar mit dem Prozess zusammenhängt.
+Das heißt, die Art und Weise, die Spielwiese, die wir da haben, die ist nicht groß.
+Also Sie müssen ja maßhaltige Bauteile fertigen.
+Wenn Sie sagen, ich will Cyprus-Zeit sparen, machen wir kälter,
+dann wird auch das Material im nachgeschalteten Prozess,
+je nachdem, was Sie da haben, nachschwimmen.
+Es kristallisiert nach.
+Dann verzieht es sich zusätzlich.
+Und dann sind Sie halt nicht mehr nachhaltig.
+Schnelles Abkühlen bedeutet deshalb, und das ist vielleicht die Antwort auf die Frage,
+Orientierung der Moleküle werden eingefroren, besonders in den äußeren Füchten.
+Das hat an Isotropie zufolge.
+In Flussrichtung, verbesserte Eigenschaften, quer dazu schlechteren.
+Die Kristallisation, die im Werkzeug stattfindet, die Mehrkristallisation wird unterdrückt.
+Es gibt eine niedrigere Kristallität, eine niedrigere Dichte, ein feineres Gefüge.
+Aber die Nachkristallisation, diese Sekundärkristallisation wird erhöht.
+Und das hat die Folge, dass eine Gefahr für Schwindung und Verzug besteht.
+Und wichtig, Bedingung, dass eine Schmelze distanziert, ist immer eine Unterkühlung.
+Also das Material, das bei 160°C schmilzt, wird nicht bei 160°C kristallisiert, sondern
+Das müssen wir uns merken.
+Fragen dazu?
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Schauen Sie, wie jetzt das mal dargestellt wird, die halb kristalline Thermoklaste,
+wo ja mit 6, 6, 6, mit 2,5 Automobil eingesetzt, Schmelztemperatur jetzt von 6, 6er,
+260 Grad, Kristallisation jetzt bei 240 Grad.
+Das heißt, für alle Materialien gilt es, dass die Schmelzbranquette, das ist besonders krass,
+das schmilzt bei 250 und kristallisiert bei 150, 160 Grad.
+Haben Sie das nicht?
+Wir haben das, aber wir haben nicht die Gründe.
+Ach so, naja.
+Das ist das.
+Das heißt Unterkühlung.
+Okay.
+Das ist die Unterkühlung, die ich brauche, damit Kristallisation einsetzen kann.
+Frage?
+Das ist die Kristallisationsgeschwindigkeit.
+Polyethylen kristallisiert sehr schnell.
+PA66
+POM
+PA6
+PP
+Das was wir vorhin gesehen haben war PP
+Das kristallisiert sehr langsam
+Das Molekül ist sehr langsam
+PET
+Noch langsamer
+Wenn Sie PET schnell abkühlen
+Im Spritzgusswerkzeug
+Kristallisiert es gar nicht
+Sehr stark am Morgen
+Polycarbonat
+ist noch
+zwei Zehnerpotenzen langsamer
+das kann
+theoretisch kristallisieren
+praktisch aber nicht
+das heißt Polycarbonat
+wird immer amortisch
+weil die Kristallisationsgeschwindigkeit
+von den Molekülen
+sehr sehr gering ist
+auch mit dicken Bauteilen
+die Verscheibung vom Auto
+zum Beispiel
+Seitenscheibe
+oder vorne von den Scheinwerfern
+ist ganz häufig Polycarbonat.
+Das ist immer am Morgen.
+Jetzt haben wir hier noch
+unterschiedliche Prozesse.
+Das hier zum Beispiel
+ist jetzt
+die Abkühlgeschwindigkeit
+in unterschiedlichen
+Prozessen.
+Clone Film
+beim Clone-Film wird mit Luft gekühlt.
+Das ist langsam.
+Beim Cast wird auf einer Metallrolle abgekühlt.
+Bei einem Aquarex wird mit Wasser abgekühlt.
+Und da sieht man, das sind unterschiedliche Abkühlbedingungen.
+Plohnfilm in Luft mit 5 bis 30 Grad
+Chillroll, das ist die kalte Walze, 20 bis 50 Grad
+Und bei Aquarex gehen Sie mit Wasser drauf
+Und rechts stehen die Abkühlgeschwindigkeiten
+20 bis 80 Grad pro Minute
+beim Film, beim Castfilm 250 bis 800 und bei Aquarex, das ist ein Prozess, wo Sie kaltes
+Wasser unmittelbar auf die Schmelze, die aus dem Werkzeug austritt, drauf spritzen und
+dann machen Sie 1000 bis 3000. Warum macht man das? Warum macht man das? Sie können
+die Kristallisation unterdrücken. Bei Folien ist es interessant, die Durchsichtigkeit zu bewahren.
+Dann möchte man die Kristallität niedrig haben. Deshalb kühlt man sehr schnell im Wasser und das
+Ergebnis sieht dann so aus. Also Wasser kühlt auf der Oberfläche sehr schnell, kühlt die Wärme sehr
+schnell weg, ist ein guter Wärmeleiter. Metall besser, Luft noch schlechter. Und das schauen
+wir uns jetzt mal an. Aircooled & Watercooled. Links, die luftgekühlte, das luftgekühlte Film.
+Wie dick ist der? Steht nicht dabei. Schade, bleibt so 30, 40, 50 µ. Links, klassisch, die
+Die Kristalle, die entstehen bei der Luftkühlung und wenn Sie das mit Wasser kühlen, erstarrt das amort.
+Es entstehen keine Kristalle.
+Das konnte man bei der Metallschmelze auch machen, so schnell runterkühlen, durch flüssigen Stickstoff zum Beispiel, dann erstarrt ein Metall amort.
+Bei den Kunststoffen ist es durchaus üblich, das zu nutzen.
+Ihr könnt hier noch dazu schreiben.
+Ich ziehe jetzt von dem Prozess,
+Jetzt ist es, um bessere Transparenz zu erreichen.
+Okay.
+Amen.
+Vielen Dank.
+Wenn Sie ins kalte Spritzgusswerkzeug gehen
+und im Vergleich dazu ein extrudiertes Ursehen, gibt es unterschiedliche Morphologien.
+Diese amorphe Randzone wird ausgebildet bei Spritzgussbauteilen.
+Sie ist nicht sonderlich vorteilhaft für die Eigenschaft, lässt sich aber nicht vermeiden,
+wenn Sie niedrige Zykluszeiten haben wollen.
+Sie wollen aber schneller kühlen.
+Das Werkzeug wird auf 20 Grad gestellt, kann auf 40 Grad oder 60 Grad gestellt werden.
+Die unterschiedliche Schwindung und potenzielle Probleme mit der Maßhaltigkeit.
+Wir sehen ganz häufig diese amorphe Rangzone.
+Wenn jetzt da das Rohr mit einer Chemikalie versehen wird, dann haben die nunmalig bei der amorphe Zone potenzielle Probleme.
+Okay, ich will Ihnen noch etwas zeigen.
+Und zwar, dass man im Prozess unterschiedliche Abkühlgeschwindigkeiten macht.
+Hier ist das mal dargestellt.
+Ich zeige es ganz kurz noch.
+Mal so ein Filmchen.
+Zur Explosion.
+Die Folien werden gestellt.
+Das machen wir nächste Woche.
+Hier wird ein Film luftgekühlt.
+Und zwar ist das eine Mehrschicht-Exkursion. Unten stehen die Extruder, die drehen sich.
+Da fällt das Granulat rein, es wird die Schmelze gemacht.
+Die Extruder fahren jetzt noch nicht, die sind nur ausgestattet.
+Die geht sogar nach oben.
+Jetzt fährt er den Extruder an, es entsteht ein Druck im Schneckenvorraum.
+Der Druck drückt das Material nach außen.
+eben, weil immer kontinuierlich
+Anulat nur nach
+erregt jetzt die Abzugsgeschwindigkeit.
+Das ist eine Kunststoffschmelze.
+Das ist eine Schmelze,
+die jetzt dann umgeformt wird.
+Diese Folie
+wird nach oben abgezogen.
+Das Ding ist vier Stockwerke hoch.
+Oben
+wird
+dieser Folienschlauch
+zusammengedrückt.
+Da ist er schon fest.
+Da unten haben wir noch Schmelze.
+Jetzt wird ein Druck aufgebaut, um Orientierung zu erzeugen.
+Und das hier ist der Kühlring, wo gekühlt wird.
+Unten der Extruder dreht immer schneller, macht immer höhere Durchsätze.
+Und hier wird das Material jetzt abgekühlt, über den Druck, der in der Lanze innen entsteht.
+Da wird auch kalte Luft dazu gepustet.
+Und da sieht man jetzt, das ist relativ dünn, ist aber ein halbes Material,
+typischer Verarbeitungsprozess. Jetzt können Sie, hier sieht man das, das sind solche Schläuche,
+die mit Folie hergestellt, abgekühlt. Das geht da so 28 Meter nach oben. Das ist ein
+Das ist ein Castfilm, der gemacht wird, und zwar mit einer Einheit, die nachher noch zu einer Verstreckung führt.
+Hier hat man einen sogenannten Doppelschnecken-Extruder, die zwei Schneckenwirks haben, ein etwas älteres Filmchen.
+Hier fällt das Karulat rein, in den Extruder, mit Doppelschnecken, zwar das alles nach vorne, homogenisiert, macht die Schmelze, erwerbt das nach der Art.
+Hier sieht man das, wie das Kanulatkörner da reinfallen, in den geschlossenen Zylinder.
+Das wird mit Zwangsförderung nach vorne gemacht.
+Hier ist ein Side-Cleaning, da kann man auch so eine Seite noch zusammensiedeln.
+Dann wird gemischt, geknetet. Irgendwann ist es eine Schmelze, die homogen ist.
+Und die wird jetzt durch das Werkzeug gedrückt.
+In diesem Film nach außen, hier kommt das Werkzeug.
+Und die Schmelze wird jetzt auf so einer Folie, die Folie auf einer Bahn, auf einem Klettwerk abgekühlt.
+Das sind gekühlte Walzen, die mitlaufen.
+Dann sehen wir jetzt, die Folie ist zwei Meter breit.
+Sie hat eine bestimmte Dicke und wird jetzt im Nachfolgeprozess verstreckt.
+Hier erst einmal mit einer Geschwindigkeit in Verzugsrichtung.
+dann nachher auch in der Breite und hinten kommt dann Bahn raus, die ist 10 Meter breit.
+Das Material wird verzogen.
+Teilweise auf ein Zehntel des menschlichen Haares, der Dicke eines menschlichen Haares.
+Da dürfen Sie keine Verunreinigungen drin haben, sonst funktioniert der Prozess nicht.
+Das Ding läuft mit 5, 6, 7, 800 Meter pro Minute.
+Da ist richtig Maschinenbau-Ansicht drin, dass man sowas beherrschen kann.
+Ich wollte noch was anderes zeigen, die kleine Rohrexklusion.
+Rechts steht der Extruder, der drückt die Schmelze raus, links wird abgekühlt.
+Wir haben immer die Verarbeitung.
+Das sieht so ein Exkursionswerkzeug nicht aus wie das spätere Bauteil, weil diese Kontur verschiedene Effekte berücksichtigen muss.
+Hier geht auch das kalte Wasser drauf, da hinten kommt das kalte Wasserbad.
+So werden durch Explosion endlos Bauteile hergestellt, die dann zum Profil explodieren.
+Schläuche werden so hergestellt, Rohre, Kunststoffrohre. Material wird in einem Textil nach vorne gefördert.
+der Raum, das Material wird immer kleiner, dadurch gibt es mehr Reihung und Wärme entsteht.
+Und jetzt wird das vorne durch eine Düse gedrückt.
+Und eine Art der Düse kann zum Beispiel, das ist hier so ein Profil,
+das ist eine Folie, die wir eben gesehen haben, wo Luft gekühlt wird.
+Und das ist jetzt ein Rohr, das hergestellt wird.
+Hier habe ich die Amorphenschmelze.
+Rechts steht der Extruder, der drückt diese Schmelze durch ein Werkzeug.
+das ist dieser Ringspalt. Das Material kühlt jetzt ab, da wo die 1 draufsteht, ist ein Kalibrator,
+da kühlt das im Wasser, wird es abgekühlt und wenn es kristallisiert ist, sieht es so aus.
+Die Schmelze ist amorph, der Festkörper ist Teilkristallin, das Bauteil zieht sich beim
+einem Abkühlen zusammen und deshalb muss das Maschinenequipment auf die Schwindung des
+Materiales abgestimmt sein, damit wir maßhaltige Bauteile hinbekommen. Das geht jetzt nicht,
+das ist ein kontinuierlich laufender Prozess. Das sieht man jetzt gleich, das ist ein Abzug
+und irgendwann kommt eine Schlagschere oder eine Kreissäge und die fährt eine Zeit lang mit,
+schneidet das Rohr und gibt es dann wieder frei.
+Und so kann man kontinuierlich Bauteile erzeugen.
+Hier die Kontur des austretenden Stranges sieht anders aus als nachher das Bauteil,
+weil die Schwingungen berücksichtigt werden.
+Wo ist das Fensterprofil hier in der Herstellung?
+Links der Extruder, rechts läuft das in eine Kalibrierung ein.
+Und hier haben wir nochmal so ein Rohr, das explodiert wird.
+Jetzt kühle ich dieses Rohr nur von außen.
+Das heißt was?
+Innen ist es wärmer.
+Innen ist es wärmer und die ganze Wärme muss von innen nach außen abgeführt werden.
+Immer in eine Richtung nach außen.
+Mit anderen Worten.
+Das sieht dann ungefähr so aus, wenn man das simuliert.
+Wärmetechnik ist das.
+Der Extruder schickt das Material durch ein Werkzeug.
+Das tritt hier in einen Kalibrator ein, wo es abgekühlt wird.
+Und das mit dem kalten Wasser gesprüht wird.
+Die äußere Schicht kühlt ganz schnell ab, kühlt weiter ab, die Außenschicht.
+Dann tritt die wieder hier aus.
+Wenn die nach außen austritt, kommt von innen mehr Wärme nach, die Oberflächentemperatur von dem Rohr steigt, fällt wieder ab in der nächsten Kühlung, steigt nochmal, fällt wieder ab.
+Und so hat man verschiedene Tanks hintereinander gestaltet, um die Kühlung zu machen, während in der mittleren Schicht des Rohres, bzw. in der Innenschicht, die Abkühlung viel langsamer vonstatten geht.
+Außen schnell, innen langsam.
+Das heißt, wie bei den Metallen auch, dickwandiges Bauteil, außen schnelle Abkühlung, innen ganz langsam.
+Und so passiert das auch bei der Herstellung des Rohres.
+Hier sind so Wärmeübergangskonditionen angegeben, die vorhanden sind.
+Hier ist ein Durchsatz angegeben, die Wärmeleitfähigkeit vom Material, dann können Sie das simulieren.
+Also innen wird langsam abgekühlt, außen schnell.
+Was heißt das? Es gibt unterschiedliche Morphologien.
+Unterschiedliches Gefüge, wie bei Metall.
+Was braucht man bei Metall? Schnelles Abkühlen, viele Keime, feines Gefüge.
+Langsames Abkühlen, wenig Keime, grobes Gefühl.
+Und genau das gleiche sehen wir hier bei den Kunststoffen.
+Das ist meine Schmelztemperatur.
+Ich komme aus der Schmelze.
+Hier oben ist Schmelze.
+Man nennt den Bereich, wo eigentlich das Material kristallisieren müsste,
+aber die Unterkühlung noch nicht erreicht ist,
+metastabit unterkühlen.
+Das ist immer noch eine Schmelze.
+Sie kristallisiert aber nicht. Jetzt beginnt die Kristallisation bei weiterer Abkühlung.
+Und wenn ich schnell abkühle, bilde ich viele Keime.
+Das Wachstum ist zwar geringer, aber wenn ich viele Keime habe, habe ich ein feines Gefühl.
+Und unterkühle ich langsam im Rohrinnenbereich,
+Fühle ich langsam, habe ich weniger Keime, habe ich ein gröberes Gefüge.
+Das heißt, diese einseitige Kühlung, muss man richtig schreiben,
+in der Regel immer nur von außen, führt dazu, dass ich einen Gradienten an Gefüge habe,
+und ein Quartier mit meinen Eigenschaften.
+Unterschiedliches Gefüge heißt auch immer unterschiedliche Eigenschaften.
+Wenn Sie jetzt ein besonders dickes Rohr haben, dickwandig, dann kühlt das noch langsamer aus.
+Und sie kriegen andere Eigenschaften. Über den Querschnitt.
+Dafür wollte ich Sie heute mal sensibilisieren.
+Wir haben die Verarbeitung der Schmelze, die ist wichtig bei Kunststoffen.
+Da müssen wir die Diskursität beschreiben.
+Und bei der Abkühlung entstehen, wie bei den Metallen auch, in Abhängigkeit von den eingestellten Parametern,
+bei der Formgebung
+schnelle und langsame
+Abkühlgeschwindigkeiten,
+die zu unterschiedlichen Gefügen führen können
+mit unterschiedlichen Eigenschaften.
+Also mit jedem Produkt, das ich herstelle,
+kann unter Umständen
+auch die Eigenschaften variieren.
+Das muss man qualitätsmäßig sicherstellen,
+das wird nicht der Fall.
+Fragen dazu?
+Erklären können, zeichnen können, die Studenten malen mir immer die Funktionen so, Achtung,
+so nicht machen, auch gar nicht nachschreiben erst, der Kartell hier, der wird da hinten
+Ich krieg ganz oft Kurven, die laufen so, falsch rum, vom Knick, der knickt so, oben
+ist er größer, unten wird er kleiner.
+Jetzt ist die Steigung vorne größer, ja?
+Was kommt noch aus?
+Sowas.
+Das hab ich auch ganz oft bei Dingen hier, das läuft dann so, so.
+So. Und dann so. Auch falsch.
+Wie haben Sie das?
+Wenn Sie es malen, probieren Sie es einfach vorher mal.
+Und dann brauchen Sie nur noch diese zwei Punkte da unten, die Sie schreiben.
+Und dann gibt es Punkte, die rasseln dann sowas von auf Ihr Konto.
+Wie fragen Sie die?
+Ich frage das immer.
+Sollte doch bekannt sein.
+Aber wie fragen Sie das genau?
+Was wäre die Frage?
+Skizzieren Sie das PVT-Verhalten eines amorphen und teigkristallinen Thamoklastes und erläutern Sie die charakteristischen Unterschiede.
+Können Sie nochmal langsamer?
+Nein!
+Ich kann noch besser.
+Skizzieren Sie das PVT-Verhalten eines Amorten- und Teilkristallinen-Thermoplasten.
+Ich weiß nicht genau, ob mir dann die Frage auch jetzt wieder so einfällt.
+Für wörtliche Wiedergabe bin ich nicht zuständig.
+Und erläutern Sie die charakteristischen Unterschiede.
+Und es gibt eine zusätzliche Nachholstunde nächsten Freitag für Maschinenelemente.
+Für Maschinenelemente. Wie viel Uhr?
+13.
+13 Uhr. Ja, gut. Schick ich rein.
+Schick ich rein, mache ich jetzt.
+Ich habe eine Frage mit diesen charakteristischen Unterschieden. Meinen Sie nur, dass unten diese...
+Das sind die beiden Diagramme. Dann haben Sie hier, wie charakteristisch ist, dass die Bearbeitungsschwindung bei Amorphenmaterialien geringer ist als bei Teilgastalien.
+Oh, kann ich das nochmal wiederholen?
+Das steht ja im Diagramm.
+Im Diagramm.
+Kann man das ablesen?
+Die Volumenschwindung bei teils salinen Materialien ist bei der Verarbeitung größer
+und damit machen die auch mehr Probleme.
+Wie der Stahl beim Metall, der hat eine große Schwindung und wird sehr selten gegossen.
+Gusseisen hat weniger Schwindung, Gusseisen ist selbstspeisend
+und macht bei der Verarbeitung weniger Probleme.
+Deshalb ist das Gussmaterial sehr häufig Gusseisen, Ferro- oder Lamellenguss.
+Danke.
+Tschüss.
+Ciao.
+Schönes Wochenende.
+Haben wir noch Fragen?
+Nein.
+Gut, tschüss.
+Ja, das ist gut.
+2.06 Uhr
+Das hat sich an 2.06 Uhr gezeigt
+Das hat sich an 2.06 Uhr gezeigt
+Er sagt, dass ich nicht so weit verliere
+dass ich nicht so weit verliere
+Nein, er sagt es, wie er es sagt

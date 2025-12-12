@@ -1,0 +1,728 @@
+Ich habe die WSTIA jetzt, diese Zeit.
+Andere Studenten haben die WSTIA jetzt.
+Wärmelehre.
+Ja.
+Was?
+Gestern für Memek gibt es hier vier Studenten.
+Ein Student hat die WSTIA.
+Ja, dann an dieser Zeit.
+Ja.
+Wirklich, ja.
+Noch auf Bett.
+Was?
+Ja.
+Er schläft.
+Ich habe ihn mitgebracht.
+Er schläft.
+Ich habe ihm gesagt, er soll raus.
+Oh, ich habe schon eine Brille dabei.
+Die anderen Folien, die ich letzte Woche hatte, eine von einem Studenten.
+Haben Sie die bekommen?
+Ja.
+Frage, haben wir einige Stoffeingrenzungen?
+Ja, mache ich. Noch nicht, aber bald.
+Bald?
+Ja.
+Aber das wird ähnlich aussehen wie im letzten Jahr.
+... Musik ...
+Hast du es gesammelt?
+Nein, ich habe es nicht gesammelt.
+Auf der Plattform.
+Ich habe es falsch gesammelt.
+Ich habe es gesammelt.
+Ich liebe dich.
+Okay.
+Dann...
+Hier haben wir so ein sogenanntes Kapillariometer, damit kann man Fliesseigenschaften messen.
+Das wird sowohl zur Qualitätssicherung als auch zur Bestimmung von Fliesseigenschaften genutzt.
+Was man hier sieht, ist im Grunde genommen, dass man hier oben ein Gewicht auflegt.
+Das Gewicht drückt über einen Stempel.
+Hier ist die Schmelze als Vorrat aufgeschmolzen.
+Diese Schmelze wird durch eine Düse gedrückt.
+Die Düse hat Kapillare, die hat einen exakten Durchmesser von 2,095 Millimeter.
+Und hier wird ein Gewicht ausgelegt und man misst den Durchsatz, Melt Flow Rate.
+Das führt dazu, dass für bestimmte Anwendungen Materialien mit einer definierten Viskosität vorhanden sind.
+Hier oben sind die 2,095 mm, da ist der Stempel, der drückt drauf und macht einen Durchsatz.
+wenn man eine Exkursion macht, später, oder Blasformen.
+Das hier zum Beispiel, so ein Behälter, das ist ein Explodat, das ist eine Schmelze, nicht
+über Metall, ausgekippt, läuft runter, sondern hier ist die Viskosität als Widerstand gegen
+das Fließen eingestellt, das Werkzeug führt zusammen, oben der Schlauch, wird aufgepustet,
+gegen die kalte Zylinderwand gedrückt und abgekühlt. Abgequetscht, jetzt wird er aufgepustet,
+kühlt ab, kommt gleich ein Schnitt und dann ist das Bauteil irgendwann fertig. Oben steht
+der Extruder. Er macht die Schmelze und das ist jetzt das fertige Bauteil, ein Hohlkörper.
+Hier hat man zwei Schichten Minimum, vielleicht noch ein Drittel dabei, das wissen wir nicht.
+Innen hat man das Ding, sieht man jetzt gleich, weiß, zwei Extruder. Der eine macht das weiße,
+ein blaues Material und man muss jetzt wissen, welcher Druck erzeugt welchen Durchsatz bei einer
+bestimmten Düse. Diese Wertepaare muss man ermitteln. Das kann man zum Beispiel im einfachen
+Fall mit so einem Kapillardiskusimeter machen. Hier so ein Tank, so werden auch Automobil-Tanks
+hergestellt. Hier sind die Werkzeuge, die sind gekühlt, die Schmelze ist heiß. Und
+Und dieses Material, das hängt am eigenen Gewicht, da macht man Tanks bis 10.000 Liter.
+10.000 Liter.
+Der hängt am eigenen Gewicht und wird dann geformt.
+Hier sieht man das jetzt.
+Da kommt ein Dorn rein, der pläst den Schlauch auf, das Material, und drückt es an die kalte Zylinderwand.
+Das ist eine Rotationsform.
+Da wird eine feste Menge Granulat abgewogen, der dreht immer, und dann muss das Material
+leichter fließen, bei dem Verfahren, das heißt, für ein bestimmtes Verfahren braucht
+man eine bestimmte Viskosität.
+Das ist ein Ofen, das Werkzeug ist da drin, es dreht sich, das Material schmilzt und fließt
+wie so ein Kerzenwachs immer der Wand entlang und nachher wird es abgekühlt, das Werkzeug.
+Das nennt man Rotationsformen. Das Material ist leicht fließend, das andere fließt eher schwer.
+Hier kühlt es jetzt ab. Das ist der fertige Tank.
+Plasformen und Rotationsformen als Prozess.
+Viskosität ist der Widerstand gegen Fliesen.
+Die Diagramme, wenn Sie da ein Foto machen möchten, können Sie das gerne machen.
+Das müsste fehlen.
+Haben Sie das neue Skript?
+Nein.
+Dann halten Sie mal.
+Seite 19.
+Ja, genau. Teil 1.
+Urfarmen mit Kunststoffen, Seite 19, genau, können Sie sich ein Foto machen.
+Hier haben Sie das Hubschraubgesetz.
+Stahl E1, Aluminium E2.
+Bei einer bestimmten Spannung kriegt der Stahl die Dehnung.
+Aluminium, die Dehnung.
+E-Modul ist niedriger, E-Modul ist die Steigung der Graden.
+Das ist für den Festkörper. Das ist für eine Flüssigkeit. Das ist das Newton'sche Gesetz,
+das ist das Hooke'sche Gesetz. Ein Material hat eine Viskosität. Wenn Sie einen Druck einstellen
+auf die Kapillare um.
+Mit dem Gewicht
+1 Kilo, 2 Kilo
+verändert sich der Druck.
+Wenn der Druck vorhanden ist,
+wird ein Material mit der
+Viskosität Eta 1
+den Durchsatz haben.
+Durchsatz.
+Durchsatz ist
+Gamma-Punkt.
+Wie stark werden die Schichten
+aneinander abgeschert,
+ist der Durchsatz.
+Der Druck, der sich einstellt, kommt von dem Gewicht, das obendrauf liegt.
+Wir müssen noch was schauen.
+Was ist die Frage?
+Eta ist die Viskosität.
+Die geringere Viskosität ist die geringere Steigung.
+Und wenn die Viskosität niedriger ist, gibt es einen höheren Durchsatz.
+Wollen wir das gerade noch festhalten?
+Und Festkörper, E-Modul ist der Widerstand gegen Verformung.
+Je höher die Steigung, desto höher der E-Modul.
+Und bei der Flüssigkeit ist es die Viskosität als Widerstand gegen Fließe.
+Und für ein Newtonisches Medium ist die Viskosität konstant
+Das heißt, im Diagramm konstante Viskosität
+Die Steigung bleibt gleich
+Wenn ich jetzt das Diagramm übertrage, das hier rechts, in die folgende Seite, die fehlt
+Und wenn Sie das Diagramm jetzt übersetzen in eine andere Funktion, dann sieht die so aus.
+Hier ist jetzt, können Sie auch gleich ein Foto machen, abwarten, bitte schauen.
+Die Viskosität ist über der Schergespinnlichkeit konstant.
+Eta 1 ist größer als Eta 2.
+Die Steigung im anderen Diagramm, Logarithmus Tau über Logarithmus Gamma Punkt, war diese Gerade.
+Und das Blaue ist ein Newtonisches Medium.
+Newtonisch heißt, die Viskosität ist konstant.
+Sieht man jetzt an dem Diagramm, ja?
+Eta ist konstant für ein Newtonisches Medium.
+Diskusität ist nicht abhängig von der Schädigungsmöglichkeit.
+Gut?
+Ja.
+Jetzt kommt aber ein nicht-Newtonisches Medium, das ist rot.
+Und ein nicht-nutrisches Medium ist zum Beispiel die Kunststoffschmelze.
+Diese Kunststoffschmelze zeigt eine fallende Viskosität mit zunehmender Scherung.
+Der Widerstand gegen Fließen nimmt ab.
+Das heißt, um den Durchsatz zu erhöhen, mehr Material da durchzubringen, steigt der
+Druck unterproportional.
+Beispiel. Das Bild. Hier ist ein Extruder, der dreht, der macht in der Schmelze einen Druck, der Druck wird erhöht und er misst den Durchsatz.
+Hätte ich ein Newtonisches Medium, wäre das eine Gerade. Hier ist es eine gegen einen Grenzwert laufende Symmetrie Kerbel. Und wenn man zwei Arbeitspunkte nimmt, geht Druck 2,1, hat zur Folge, dass der Durchsatz 10 mal gedrückt wird.
+Das ist das. Der Druckbegab steigt unterproportional, um eine höhere Rüstung zu erzeugen.
+Das ist gut. Warum ist das so?
+Das liegt am Fließbehalten der Kunststoffe.
+Ein kleines Video dazu.
+Das nennt man Strukturviskos.
+Wenn ich also die Moleküle anschaue, ja, Material wird jetzt in eine Form hineingedrückt.
+Dann fließt das Material so.
+Das ist meine Geschwindigkeit.
+Das ist das Geschwindigkeitsprofil.
+Und wenn Sie jetzt ein Molekül betrachten, das liegt hier außen, dann kriegt es an der Stelle diese Geschwindigkeit und an der Stelle die Geschwindigkeit.
+Was heißt das?
+Moleküle, die sich in dieser Strömung befinden, die werden ausgerichtet.
+Die werden ausgerichtet und orientieren sich.
+Und diese Orientierung führt dazu, dass die Entanglements, diese Verschlauchungen gelöst werden.
+Und je stärker ich drücke, desto stärker werden die orientiert und das Fießen wird immer leichter.
+Man sieht das jetzt hier im Video.
+Im Kern kommen die Knäuel, außen werden die Ketten orientiert, ausgerichtet.
+und da rutschen
+die Schichten aneinander
+leicht vorbei
+und damit kriegt ihr nicht
+mit höherem Druck
+einen viel größeren Durchsatz
+als proportional
+hier ist so ein Molekül
+das hat die Geschwindigkeit
+oben das Ende hat die
+Teilgeschwindigkeit
+jetzt werden sie hier ausgerichtet
+diese Moleküle beim Fließen
+Durch die Scherung wird das Material dünnflüssiger.
+Das nennt man Share-Thinning.
+Share-Thinning.
+Läuft sich das?
+Doch, jetzt.
+Da wird es ausgerichtet und in diesem Feld wird das Material dann immer dünnflüssiger.
+Je stärker man drückt.
+Also das Stoffverhalten ist Strukturbiskus.
+Man nennt das auch Share Finning.
+Das Material wird dünnflüssiger, je stärker man schert.
+Die Viskosität fällt ab.
+Der zusätzliche Druckbedarf wächst unterproportional mit der Zunahme des Durchsatzes.
+Hier hat man so ein parabelförmiges Profil, das ist die Geschwindigkeit, an der Wand haftet die Schmelze, an der Wand ist Haftung und hier werden die Schichten aneinander abgeschert, in der Mitte wenig, außen stärker, was dazu führt, dass diese Geschwindigkeit an der Wand null ist und im Kern maximal, dieser Parabel.
+Fragen dazu?
+Das haben Sie, oder?
+Im Skript?
+Ja.
+Hier kann man das sehen.
+Das ist der Volumenstrom.
+Das ist der anliegende Druck.
+Das ist eine Kreiskapillare.
+Das ist die Viskosität.
+Und das ist die Länge des Kanals.
+Wenn ich den Durchsatz,
+den Volumenstrom,
+konstant halten möchte
+und ich habe einen doppelt so langen Kanal
+dann brauche ich
+die doppelten Druck
+richtig
+wenn ich was am Radius mache
+was passiert dann
+30
+wäre es nicht
+Also wenn ich die Länge des Kanals, L2 ist gleich 2 mal L1, V-Punkt, soll konstant bleiben.
+Ja? Was müssen Sie tun?
+Delta P2 ist gleich 2 mal Delta P1.
+Sie müssen den Druck verdoppeln.
+Wenn Sie das mit dem Radius machen, R2 ist gleich 0,9 mal R1.
+Wir machen den Radius oder den Durchmesser um 10% zu.
+Und V soll wieder konstant bleiben.
+Dann haben wir in Delta P2 Tonnen ist gleich Delta P1.
+Was kommt da hin?
+der zweite durchmesser ist 90 prozent vom ersten das heißt das geht hier mit 4 wenn sie die
+Kehrwert nehmen, 0,9 hoch 4, dann heißt das 1,5. Das ist der Kehrwert von 0,9. 1 durch 0,9 hoch 4.
+Wenn Sie den Querschnitt 10% zumachen, steigt der Druck um 50%.
+Wenn Sie ihn um 15% zumachen, steigt der Druck fast auf das Doppelte.
+Das heißt, Querschnitt ist kritisch, wenn Sie diese Gleichungen betrachten.
+Das andere ist ein Rechteck-Querschnitt.
+R3 ist 0,85 mal R1.
+Dann ist Delta P3, damit der Volumenschwung weiter konstant bleibt, 1,9 mal Delta P1.
+Brauchen Sie fast den doppelten Druck.
+Der Querschnittsdruck 10% kleiner.
+Da reagieren die Systeme auf Wandstärke, Veränderung sehr sensitiv.
+Ich habe ein Problem. Letztens, gibt es die andere, was Sie das, das rechte Haar schnitten?
+Gibt es das Zwischenmitte an dem rechten Querschnitt?
+Eine Platte. Eine Platte mit einem anderen Kreis.
+Wenn Sie hier ein Halb-A machen, was kommt raus beim Druck?
+Sie halbieren die Höhe, Sie machen ein Halb-A, der Volumenstrom soll konstant sein, achtfacher
+Halbe Bandstärke, achtfacher Druckbegabung.
+Ja, achtfach.
+Und hier so viele Beispiele.
+Delta P2 ist gleich 8 mal Delta P1.
+Okay?
+Da muss man aufpassen, wenn ich ein Bauteil spritzgieße und habe eine sehr dünne Wand, kriege ich die Schmelze überhaupt rein.
+1000 Bar, 2000 Bar brauchen wir teilweise für die Dünne, für die Bauteile überhaupt für die Dünne.
+Damit entsteht ein sehr großer Druck in der Form.
+Hier mal ein Beispiel. Wenn ich eine Newtonische Flüssigkeit habe und ich habe einen Arbeitspunkt
+300 bar, machen wir 300 kg pro Stunde Durchsatz. Heißt das für das Newtonische Medium, wenn ich
+Wenn ich den Druck verdopple, 600 Bar, dann kommen 600 Kilogramm pro Stunde raus.
+Bei einer Kunststoffschmelze würde das bedeuten, 300 Bar, 300 Kilo.
+Wenn ich 600 Bar mache, gibt es deutlich mehr als 600 Kilogramm pro Stunde.
+Das war das Diagramm, wo wir vorhin gesagt haben, Verdopplung des Druckes, 10-facher Durchschnitt.
+Und das liegt an dem Fließen der Schmelze.
+Vielen Dank.
+Hallo?
+Wenn es mehr Menschen gäbe, würde ich nicht mehr rausgehen und die Telefonnummer anrufen.
+Was?
+Wenn es mehr Menschen gäbe, würde ich nicht mehr rausgehen und die Telefonnummer anrufen.
+Er schläft noch.
+Wann kommt er?
+Um 10 Uhr.
+Okay.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+die sogenannte Diskursitätsfunktion.
+Ein jubelndes Medium, also zum Beispiel Wasser,
+hat eine konstante Diskursität.
+Oh, jetzt habe ich hier was verborgen.
+Sorry.
+Ah, da unten steht es ja.
+Logarithmus Gamma Punkt.
+als Größe.
+Das Ganze ist doppelt logarithmisch aufgetragen.
+Logarithmus über Logarithmus.
+Das geht über mehrere Zehnerpotenzen.
+Und die Ursache, warum ist eine Kunststoffschmelze, Strukturviskos,
+das haben Sie nicht, das müssten Sie jetzt abschreiben,
+Moleküle
+werden beim Fließen
+im Schlauch
+die Kleidung aneinander ab.
+Nebenvalentkräfte werden immer geringer.
+Die Schmelze ist thermoplastisch.
+Ketten
+verschieben den Schwerpunkt,
+bleiben eine Orientierung.
+Entschlauchung wird immer leichter.
+Und das nennen wir Share-Thinning.
+Das ist Share-Thinning.
+Vielen Dank.
+Okay, das ist manchmal eine Frage, beschreiben wir dieses Verhalten von Kunststoffschmerzen.
+Warum ist das so?
+Ja.
+Okay?
+Jetzt haben wir, ich weiß jetzt nicht, was ist bei Ihnen, gar nichts, ne?
+Prinzipiell gibt es immer so eine Fließkurve und auf diese Fließkurve gibt es Einflüsse.
+Man kann also die Viskosität der Schmelze beeinflussen.
+Nicht nur über die Scherrate, sondern auch über die Temperatur.
+Achtung, in Richtung des roten Pfeiles wird die Temperatur erhöht.
+Dann wird diese Kurve nach unten links verschoben.
+Wenn die Temperatur höher ist, dann wird die Viskosität niedriger.
+Und die Funktion wird in diese Richtung verschoben.
+Aber die Kurven sind hier nicht beendet.
+Die Kurve ist identisch.
+Okay.
+Die Kurve ist eine Frage der Kettenlänge und der Kettenlängenverteilung.
+Ah.
+Und diese Viskosität, Kettenlänge, Kettenlängenverteilung, wird für den Prozess eingestellt.
+Blasformen, Extrusion, hohe Viskosität, Spritzgießen, niedrig.
+Okay.
+Ja?
+also die neue funktion liegt da ja genauso wird das mit den anderen gemacht die viskosität variiert
+mit den folgenden parameter
+steigende Temperatur
+die Viskosität wird nach unten links verschoben
+wenn ich einen Weichmacher drin habe
+geht die Viskosität ebenfalls nach unten
+habe ich Füllstoffe drin
+steigt die Viskosität
+steigt der Druck
+hydrostatisch
+steigt die Viskosität
+und über die Kettenlänge
+kann ich die Viskosität ebenfalls einstellen
+das kommt jetzt gleich in einem Diagramm
+da wird man sehen
+dass man unterschiedliche Werte
+der Viskosität wählt
+für verschiedene Prozesse
+Dann gibt es sogenannte Schergeschwindigkeitsbereiche, wenn ich Material presse, kalabriere, explodiere,
+Spritzgießen, gibt es typische Schergeschwindigkeitsbereiche.
+Beim Spritzgießen machen Sie die Form schnell voll. Schneller Volumenstrom, hohe Schergeschwindigkeit.
+Extrudieren geht eher langsam. Wenn Sie eine Platte pressen in einer Presse, ganz langsam.
+Das sind die unterschiedlichen Schergeschwindigkeitsbereiche, in denen die Verarbeitung stattfindet.
+Fragen?
+Hier ist diese Viskositätsfunktion links dargestellt.
+Das ist jetzt Polycarbonat, ein Beispiel.
+Wenn Sie jetzt für ein Werkzeug oder für das Spritzgießen eine Simulation machen,
+dann brauchen Sie diese Funktion.
+Weil Sie können jetzt aus der Viskosität, aus der Geometrie und aus den Parametern bei der Formfüllung berechnen,
+wie groß ist der Druckbedarf.
+Schafft das meine Maschine überhaupt?
+Sie brauchen jetzt zum Beispiel, wenn Sie eine Form füllen, die Schergeschwindigkeit.
+10 hoch 4
+Temperatur Ihrer Schmelze
+dann kriegen Sie Viskosität
+und aus der Viskosität können Sie den Druck berechnen
+der erforderlich ist, um ein Bauteil zu füllen
+haben Sie einen engen Spalt
+haben Sie lange Fließwege
+haben Sie einen hohen Druckbedarf
+um das Bauteil zu füllen
+Das entspielen 6, 7, 8, 900, 1500 Bar, um ein Bauteil zu führen.
+Und um es korrekt zu berechnen, brauchen Sie diese Viskositätsfunktion.
+Und hier ist aufgetragen, dann die Schufspannung, das wäre der Druck über Gammapunkt als Funktion der Temperatur.
+280, 260, 280, 300, 320 Grad. Höhere Temperatur, niedrigere Viskosität, Funktion bleibt aber erhalten, ist identisch.
+Das Material, da oben steht es, Melt Flow Rate, 6,5 Gramm pro 10 Minuten, bei 300 Grad
+und 1,2 Kilogramm Gewicht, oben auf diesem, das war die Messung hier, hier, hier, hier,
+Da wird die Schmelze in den Kanal eingefüllt, dann kommt der Stempel, das Gewicht, drückt drauf und man misst unten den Durchsatz.
+Was kommt drauf?
+Und das sind 6,5 Gramm pro 10 Minuten bei diesem Material.
+6,5 Gramm, 14 Minuten, General Purpose, High Viscosity, Easy Release, Extrusion, Injection Molding, Available, Transparent, Translucent und Hard Cuts.
+Das ist das Wichtigste.
+Die Viskosität eines Materials wird für den Prozess eingestellt.
+Dabei reagiert das Material strukturviskos und auch viskoelastisch.
+Es gibt eine viskose Verformung, das möchte ich, aber es gibt eine ungewünschte elastische Verformung, eine Rückerinnerung.
+Jetzt haben Sie jetzt nicht das Rote, müssen Sie abschneiden.
+Vielen Dank.
+Amen.
+Elastisch heißt Rückerinnerung.
+Hier sieht man das.
+Die Düse hat zwei Millimeter.
+Wenn der Druck hier drauf geht, das Material wird hier geschert.
+Moleküle werden ausgerichtet in Flussrichtung.
+Und wenn dieser äußere Zwang weg ist, außerhalb der Düse, was macht dieses Molekül?
+Es geht wieder ins Knäuel.
+Und deshalb gibt es diese Schrammaufweitung.
+Das ist eine elastische Rückstellung.
+Ich habe Fäden hergestellt, Textilfäden, die Düse war 0,45 mm, 0,4 mm, aber der austretende
+Strang war bestimmt 2-3 mm dick.
+Elastisches Rückinnerungsvermögen, Material geht spontan ins Knoll zurück und das hat
+zur Folge, wenn Sie ein Profil extrudieren und das Profil kommt vorne aus der Düse raus,
+dann quillt es auf. Und das ist das Problem. Das muss man berücksichtigen. Deshalb ist
+Profilextrusion nicht so einfach. In einer vollen Form beim Spritzgießen ist es kein
+kein Problem, aber sobald so ein Strang austritt, gibt es eine elastische Rückerinnerung.
+Es gibt hier ein Problem. Sie haben gesagt, die Weise, die Flüssigkeitsgeschwindigkeit
+für die Fluid, aber wenn gibt hier ein, wie zum Beispiel ein Komma, diese Beispiel ist die 6,5,
+ja 6,5, aber wenn die Fluid mehr außen gehen, würde die, mach ich im Moment nicht, nur die
+Ja, ja, okay, ja, ja.
+Lassen Sie sich Zeit.
+Wenn diese Flüssigkeit ausfließt, sinkt die Flüssigkeit statt innen und dadurch nimmt
+drücke und bei dem ausfließen jetzt hier bei dem test
+Das ist der Stempel. Der Stempel und das Gewicht erzeugt einen immer konstanten Druck.
+wenn es frei ausfließt
+ist es was anderes
+ich zeige dir mal was
+ein Video dazu
+Ist Gesundheit etwa euer purer Zufall?
+Hier sieht man das ein bisschen mit der Strangaufnahme.
+Der Porno-Trick, den kein Arzt Ihnen verraten möchte.
+13 Sekunden und fertig.
+Scheiße.
+Nächster Ruder, der dreht, Temperatur entsteht, Reibung, Kunststoff wird aufgeschmolzen.
+Und hier sieht man so ein bisschen, wie gesagt, Fragen, aufliegt, ne?
+Das muss man berücksichtigen.
+Danach wird wieder gekühlt, schmelze, kühlen.
+Die Schmelze hier braucht jetzt, muss wissen, welcher Druck brauche ich, um diesen Durchsatz zu machen.
+Höherer Druck, höherer Durchsatz.
+Hier wird kalibriert, kaltes Wasser, ein Werkzeug.
+Das ist die Schmelze, das ist eine Kunststoffschmelze.
+Sehr hochviskos.
+Nicht wie Metall.
+Das ist eine Kunststoffschmelze und jetzt zieht er das da hinten ab, da ist ein Anschluss wo das Wasser gekühlt wird und der Extruder dreht kontinuierlich, oben fällt das Granulat drauf und vorne macht er immer Durchsatz, Durchsatz, Durchsatz.
+und Ihnen eigentlich etwas anderes zeigen. Hier sieht man das jetzt. Sehen Sie, wie der
+Strang aufgeht? Das Material fließt, sehen Sie das? Fließt kontinuierlich. PVC. Dann
+Und dann haben wir hier noch...
+Hier.
+Jetzt haben Sie eine hohe Flüssigkeitssäule, hoher Druck, jetzt fließt die Strukturviskoseflüssigkeit
+schnell, hohe Säule, hoher Druck, dünnflüssig und jetzt passen wir mal auf, was passiert,
+Links ist Newton, immer konstante Viskosität.
+Das andere hat eine hohe Säule, niedrige Viskosität, fällt die Säule ab, wird die Viskosität höher.
+Achtung.
+Rechts ist Strukturviskos, links ist Hintron.
+Das sieht wahrscheinlich so aus.
+Da ist die Viskosität konstant. Bei hoher Flüssigkeitssäule ist das dünnflüssig.
+Jetzt nimmt die Flüssigkeitssäule ab, der Druck geht zurück, die Scherung wird weniger,
+Das Material wird dickflüssiger und fließt langsamer, jetzt am Schluss ist das sogar noch...
+Ja?
+Ja.
+Ja?
+Ja.
+Passt?
+Ja.
+Passt.
+Aber in der Exkursion habe ich immer Material, was ich kontinuierlich durchfahre.
+Ja?
+Okay.
+Okay.
+Gut.
+Sehr schön.
+Und dann hier.
+Hier.
+Hier.
+Hier.
+Hier.
+Hier, hier.
+Das heißt...
+Wiederum an, sorry.
+Achtung.
+Bei der Exkursion gibt es eine starre Aufreißung, weil das Material auch elastisch reagiert.
+Und das muss man wissen. Das macht es nicht einfacher.
+Ja, passt. Gut.
+Das ist Kampi für verschiedene Materialien.
+Das Wichtigste bei der Einstellung der Viskosität.
+Die Viskosität ist der Widerstand gegen Fliesen.
+Die ist eine Funktion der Mohlmasse, entsprechend Kettenlänge der Moleküle.
+Was denken Sie, wenn die Mohlmasse erhöht wird, was wird mit der Viskosität passieren?
+Wenn Sie die Kette länger machen, verschlaufen die sich, wie so Spaghetti.
+Lange Spaghetti und kurze Spaghetti.
+Das fließt leichter.
+Aber diese Molummasse sind nicht FMA oder?
+MFA.
+Das ist das Ergebnis.
+Das Ergebnis, also okay.
+Diskurzität.
+Molmasse ist Kettenlänge.
+Ketten.
+Und Molekül.
+Ja, Kettenlenker oder Mohlmasse.
+Wenn die Mohlmasse steigt,
+Okay.
+Wenn Sie die Molmasse erhöhen, was passiert mit der Viskosität?
+Und zwar gibt es so etwas wie dieses Eta-Null.
+Die sogenannte Null-Viskosität ist gleich K, ist irgendein Vorfaktor.
+MW, die Molmasse, hoch 3,4.
+Je länger die Kette, desto höher die Viskosität.
+Das sind also Fünselhähnchen.
+Das sind Fünselhähnchen, die Kette verschlaufen sich in der Schmelze.
+sind die Ketten verschlaucht und je länger die Kette, desto mehr Verschlaufungen, desto
+höher die Viskosität.
+Und wenn das fließt, werden die Verschlaufungen gelöst, aber wenn ich mehr Verschlaufungen
+habe, muss ich mehr lösen, der Widerstand ist größer.
+Ist das gleich wie im letzten Video, dass die Druckung, die...
+Ja genau.
+Das ist das eine.
+Mohlmasse wird erhöht, Kettenlänge steigt, Viskosität steigt.
+Wenn die Viskosität steigt, passiert was mit dem Durchsatz?
+50-50 ist die Wahrscheinlichkeit.
+Durchsatz geht runter, Viskosität steigt, was passiert mit der Fließfähigkeit?
+Jetzt haben Sie einen Prozess, wenn Sie Spritzgießen machen, enge Spalte,
+dünne Wand
+hoher Druckbedarf
+dann machen Sie eine niedrige Viskosität
+für das Spritfließen
+für die Exkursion
+wo die Schmelze da austritt
+oder für das Plasformen
+brauchen Sie eine hohe Viskosität
+für unterschiedliche Verarbeitungsprozesse
+stellen Sie die Viskosität
+gezielt für den Verarbeitungsprozess ein
+für die Exkursion
+MFR, sehen Sie hier, Crate No.1, Flow Moiling, Glasform, um so einen Behälter zu machen.
+MFR 0,4, Viskosität oben, Nummer 2 für eine Folie, MFR 1,1, für ein Blockkopolymer, für das Spritzgießen, MFR 5, für Thinwall, enge Spalte, MFR 19, Viskosität 1, 2, 3, 4, immer niedriger.
+Die Viskosität wird für den Prozess eingestellt.
+Wenn Sie Spritzguss machen, nehmen Sie etwas, was leicht fließt, niedrige Viskosität,
+kurze Ketten.
+Und der Hersteller muss diese Viskosität immer wieder gleich einstellen, damit der
+Prozess immer gleich gefahren werden kann.
+Form füllen, nachdrücken, abkühlen.
+Das Material wird für den Verarbeitungsprozess über den MFR ausgewählt, weil das ein einfacher Test ist.
+Was haben Sie jetzt auf der folgenden Seite?
+Das hier, genau.
+So, Achtung.
+Dieses MW, die Molmasse, das ist der Wert hier, welches Material hat die höchste Molmasse?
+Das ist der Wert. Rot, Schwarz, Blau. Denn B, Rot hat die höchste Mohlmasse, ist am weitesten rechts.
+Richtig? Nach rechts steigt die Mohlmasse. Das ist die Kettenlänge. Hier sind kurze Ketten,
+Das ist der ermittelte Wert für MW.
+MW ist am weitesten rechts, hat die höchste Mohlmasse.
+Das heißt was?
+Höchste Mohlmasse heißt höchste Viskosität.
+Aber würde das die Hohlmoln-Masse bedeuten, würde das auch die Fruchtdichte sein?
+Nein.
+Nein?
+Also hier gesagt, diese extra Asche ist der Gramm pro Moln.
+Ah ok, das war Moln.
+Das ist das Gewicht einer Kette.
+Ah ok.
+Das ist das Gewicht, die Länge einer Kette.
+Ich gehe weiter nach rechts, wenn Sie jetzt mehr Rechte haben, die Kette wird länger.
+Das ist C2H4, Ethylen, N mal das, und dann machen Sie das Molekül draus, dann sieht das so aus.
+In mal. Machen wir 10.000. Dann haben Sie 10.000 mal Kohlenstoff, 40.000 mal H. Das heißt, bei N gleich 10.000.
+Kohlenstoff 12 Gramm pro Mol, A 1 Gramm pro Mol, 4 mal, 2 mal 12, 24, plus 4, 28, A N,
+Also hier, das Monomer hat eine Molmasse m gleich 28 Gramm pro Mol.
+Das Polymer n 10.280.000 Gramm pro Mol.
+Das ist die Kettenlänge.
+Ja?
+Rot ist am weitesten rechts, hat die höchste Kettenlänge.
+Wie liegen die Viskositäten der beiden anderen Materialien?
+Was hat die niedrigste Viskosität?
+Blau.
+Und das ist Zwischengrün.
+Wenn man sich die Viskositätfunktion jetzt anschaut, sieht das so aus.
+Ja?
+Das Blech ist eine Mischung von beiden. 50 zu 50.
+Und ich habe, das ist aus meiner Doktorarbeit, und ich habe Fäden hergestellt.
+Die Viskosität war zu hoch, die war zu niedrig.
+Das Material funktioniert.
+Das gab es aber nicht zu kaufen.
+Normalerweise macht das der Hersteller, der macht ein Material, um Fäden herstellen zu können.
+MFR, bitte kurz schauen, MFR von 8200, höchste Diskusität, 5 Gramm pro 10 Minuten.
+Blau, niedrigste Diskusität, wir messen bei 230 Grad, 30 Gramm pro 10 Minuten.
+Viskosität wird für den Prozess eingestellt. Wir mussten es selbst machen, weil wir nur diese zwei Typen hatten.
+8200, 8400, wir haben eine Mischung gemacht und dann war die Viskosität für den Prozess herstellen von Fasern prozestauglich.
+ja verstanden und das schwarze funktioniert und blau nicht
+für den Prozess, den wir
+gemacht haben damals.
+Gut.
+Sehr schön.
+Jetzt könnte ich hier noch
+das hier reinpflanzen.
+Was wäre das für eine Mischung?
+Das Grüne.
+Und Rot.
+Was wäre das für ein
+Mengenanteil?
+Ja, zum Beispiel sowas. Das wäre jetzt ein Blend von 75 auf 25. Wenn ich ein Blend habe von 25 auf 75,
+das wäre hier unten. Ich kann jetzt über die Anteile der Menü und die Mischung die Viskosität einstellen,
+Das will ich damit sagen.
+Und man macht das dann immer wieder als Hersteller, immer wieder diese Viskosität,
+wenn ich weiß, der Kunde will damit Spritz gießen, er will Exkursionen machen,
+er will Fäden herstellen, er will Folien machen.
+Diese Viskosität ist kritisch für den Prozess und funktioniert dann nicht.
+Wenn die Abweichungen haben, gibt es Probleme im Prozess.
+Die Viskosität muss immer eingestellt werden und die Viskosität wird für die Mohlmasse eingestellt.
+Bilder.
+Beim Fließen werden die Ketten orientiert.
+Wenn ich diese Orientierung schnell abschülle, werden die Ketten eingefroren.
+Und die Kette als solches zeigt eine Doppelfrechung.
+Und wenn ich zwischen zwei gekolzenen Polarisatoren so ein Lineal reinlege,
+dann sieht man, hier sind starke Orientierungen an der Stelle.
+Die Ketten sind stark ausgerichtet und sind schnell eingefroren worden.
+Und dann sieht man die Orientierung.
+Das kann man sichtbar machen.
+Man hat das früher Spannungsoptik genannt.
+Oben sehen Sie ein Bauteil.
+Kraftflussliegend. Das ist die Einspannung.
+Da ist eine Spannung auf dem Bauteil.
+Aber Sie sehen hier eine konstante Farbe.
+Das ist identische Spannung.
+Und wenn Sie jetzt aber eine Kraftumleitung machen, wie hier,
+das sehen Sie da.
+Wir haben gesagt, Kerstedt, Maschinenbau,
+immer direkter Weg, keine Umwege, keine Kurven, keine Krümmungen.
+Jetzt hat er hier eine Krümmung reingebaut.
+Und dann sieht man, hier verdichten sich die Kraftflusslinien.
+es gibt eine hohe Spannung
+es gibt eine Kerbwirkung
+wenn ich den Radius noch schärfer mache
+und das kann man sichtbar machen
+weil die Kettenmoleküle
+sich aufgrund der höheren Spannung
+ausrichten
+durch die Zugbahn
+kann ich das sichtbar machen
+hier zum Beispiel bei dem Haken
+da
+unten hängt ein Gewicht dran
+Hier sind die kritischen Spannungen. Da kommt ein Quertrag, da kommt eine Biegung rein, hier ist Null, da vorne ist keine Spannung und ich kann Spannungen sichtbar machen.
+Weil Moleküle, wenn sie einer Spannung unterliegen, sich hoch richten.
+Ja, das ist jetzt ein Festkörper. Das hat man früher Spannungsoptik gemacht, heute macht man FEM.
+FEM. Finite Elemente Methode. Wissen Sie, wie das geht? FEM.
+Können Sie es noch einmal nachlesen?
+Da.
+Nicht mehr für die großen Tests.
+Das Ganze war. Finite Elemente Methode.
+Machen die Maschinen sauer?
+Ich weiß es nicht.
+Ich weiß es nicht.
+Du sagst, du sagst, du sagst FAM.
+Hier zum Beispiel, in das Bauteil wird ein Netz hinein gelegt und man kann jetzt die Spannung
+berechnen. Beim Spritzgießen kann man den kompletten Spritzgussprozess simulieren,
+mittels dieser Methode. Früher hat man das mit Spannungsoptiken gemacht. Sie haben ein
+Kunststoffbauteil hergestellt, Kräfte drauf gebracht, Ketten wurden ausgerichtet und es
+gab die gleichen Bilder wie das hier. Hier haben wir jetzt zum Beispiel so eine Schraube,
+die gedreht wird, unterschiedliche Spannungsverteilungen. Hier ist so ein Ploy, da haben Sie Flächenpressungen.
+So wie wir das jetzt bei Maschinenelementen dann sehen, werden hier Spannungen sichtbar.
+Da ist ein Rahmen da oben, da oben ist wahrscheinlich die Kraft drauf, da ist die Spannung maximal.
+Und wie die Kräfte jetzt durch das Bauteil gehen, gibt es an bestimmten Spannungen, bestimmten Stellen, Kehrwirkungen, höhere Spannungen und die muss man berechnen.
+So ein Bock, Querbalken, Kräfte sieht man jetzt nicht, aber hier sind so Spannungen,
+das könnte jetzt eine Schweißnaht sein, nächste Woche, Schweifen, Berechnung von Schweißnähten.
+Und das kann die FEM machen, können Sie im Rechner alles abbilden und können gucken,
+Wo sind ihre Spannungen? Das macht der Maschinenbauer dann halt. Hier ist so ein Gehäuse. Gehen wir mal hin.
+Jetzt hast du das Modell auf, dann wird das Netz eingelegt, eine Belastung vorgegeben.
+Das sind jetzt die Spannungen im Bauteil.
+Wir haben die Kräfte angenommen, Randbedingungen festgelegt
+und man kann Spannungen sichtbar machen.
+So wie man das jetzt heute mit diesem FEM macht,
+hat man früher
+das mit der Spannungsoptik gemacht
+anhand von Kühlstoffketten.
+Wenn ich einen Spritzguss mache
+und ein Bauteil fülle,
+dann werden die Molekülketten ausgerichtet.
+Und an der Wand
+können die sehr schnell abkühlen.
+Das heißt, diese Orientierung,
+die beim Fließen entsteht,
+wird eingefroren.
+Wir haben vorhin gesagt,
+Wenn ich so ein Material jetzt quasi in so ein Bauteil, das ist mein Spalt, da ist Wandhaftung, da draußen wird stark geschert, da ist die Geschwindigkeit verstanden.
+Da wo geschert wird, da in dieser Scherzone, da werden die Moleküle alle ausgerichtet in Fließrichtung.
+Oder wenn ich Glasfadern habe, die werden auch ausgerichtet.
+Was passiert?
+das ist an der Metallwand, da kühlt das Bauteil schnell ab, dann kann ich diese Orientierung einführen.
+Durch schnelles Abkühlen, wie bei den Metallen, schnelles Abkühlen, viele Keime, feines Gefüge,
+werden hier in der Randzone diese Orientierungen eingefroren.
+Und diese Orientierungen treten in Erscheinung, dass ich nachher eine unterschiedliche Festigkeit habe,
+in Fließrichtung, die Elastizität unterschiedlich sein kann und eine Anisotropie im Bruchverhalten.
+Das sind die drei Auswirkungen.
+Beispiele.
+Mal kaputt.
+Nee, nee, kaputt, so, kaputt machen, einfach nur.
+Jetzt sieh.
+Was?
+Bei dir so weiter, oder?
+Nee, so rum.
+Nee, so, wie er gemacht hat.
+Okay.
+so rum
+nochmal probieren
+ok
+Zellulose Faser
+Papier besteht
+aus Zellulose
+die Fasern wurden im Prozess
+alle ausgerichtet
+das heißt zwischen den Fasern
+sind die Kräfte klein, deshalb geht der Riss in der Richtung gut durch. Jetzt liegen die
+Fasern, wenn ich so reißen will, die liegen alle quer. Das heißt, der Riss wird immer
+die Richtung suchen und läuft rum zwischen den Fasern durch. Und das ist das, was bei
+dem Spritzgut passiert. Wenn ich Spritzgießen mache, ist ein Teil der Fasern außen, die
+sind alle ausgerichtet, oder Moleküle, und im Kern liegen die alle quer. Jetzt hängt
+es also von der Formfüllung und vom Fließen ab, wie diese Orientierungen entstehen. Das
+sind Orientierungen, entstehen beim Fließen und werden beim Abkühlen eingefroren. Und
+dann haben wir das ewig da drin. Das heißt, mit der Herstellung meines Bauteils
+kriege ich diese Orientierung der Molekülketten und die Orientierung der Fasern.
+Wie jetzt hier bei diesem Papier, die liegen jetzt alle in der Richtung.
+Zwischen den Fasern geht der Riss einfach durch.
+Wenn ich quer zur Faser was beanspruchen will, komme ich gar nicht durch.
+Der läuft immer rum.
+Und das ist diese Anisotopie im Bruchverhalten.
+Und das haben wir bei Kunststoffen auch.
+Es gibt ein unterschiedliches mechanisches Verhalten in Molekülerichtung und quer dazu.
+Das heißt, es gibt unterschiedliche Spannungs-Dehnungs-Diagramme, ob ich in die Richtung prüfe oder ob ich in die Richtung prüfe.
+Die Eigenschaften des Bauteiles sind abhängig von der Richtung.
+wie das Bauteil hergestellt wurde.
+Man kann diese Anisotropie messen,
+zum Beispiel bei Folien, in denen man den Schrumpf misst.
+L0 ist die Ausgangslänge.
+Ich nehme eine Folie. Machen Sie das mal zuhause.
+Nehmen Sie eine Folie und legen Sie die in den Ofen rein oder in kochendes Wasser.
+Dann werden Sie feststellen, bei bestimmten Folien ist ein Schrumpf eingestellt.
+Das ist die Ausgangslänge Frau.
+Man misst zum Beispiel den Kochschrumpf.
+Sie legen die Folie bei heißem Wasser, 100 Grad kochendes Wasser, legen sie rein und messen dann, was mit der Folie passiert.
+Wenn Orientierungen drin sind, zieht sich die Folie zusammen.
+Die schrumpft.
+Und die Orientierung geht zurück. Die wird gelöst.
+Und man kann das durch die Doppelbrechung messen, wie wir das eben gesehen haben.
+Man kann es aber auch durch Röntgenstreuung messen oder durch den sogenannten Schrumpf.
+Wenn Sie Folien haben, mal gucken, ob wir noch einen Film finden dazu.
+Untertitelung des ZDF, 2020
+kennen sie die sixpack wasserflaschen
+eine folie zum einpacken die folie wird erwerben die folie schrumpf zieht sich
+zusammen weil orientierungen eingefroren worden sind
+Wir gucken.
+Oh, oh, schrecklich.
+Halt doch mal die Klappe.
+Da sind Organisierungen drin, Moleküle, wurden eingefroren und jetzt schrumpft es.
+Ich hab dir mal mit nem Glasplatt gedrückt, das sieht ganz gut aus.
+Ja, ich will dich die andere Zeit zeigen.
+Du bist weißere Zähne.
+Shit.
+Du guck mal.
+Das macht man absichtlich, ne?
+Okay.
+Ja, das gibt es ja gar nicht, so ein Dreck, dieser Affe-Kopf da.
+Ja, wir machen ja auch mit allem was im Jahr, das ist ja guter Schiff.
+Einfach beides in der Spielkurve, alles ist dauerhaft, bleibt unglaublich lange frisch.
+Alter, lass doch.
+Ich schalte die Papiere an.
+Schrumpf wird gezielt eingestellt bei der Folie.
+Ich habe dir mal mit einem Glasbrett gedrückt, das sieht ganz gut aus.
+Okay, dann danke ich und wünsche ein schönes Wochenende.
+2 Menschen heute, sehr gut.
+1 Mensch, 2 Menschen, noch 1 Mensch.
+Alles klar, bis dann, tschüss.
+Tschüss.
+Tschüss.

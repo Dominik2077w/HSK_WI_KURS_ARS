@@ -1,0 +1,1084 @@
+So, das haben wir letztes Mal
+Das Ausgangsmaterial war 12 mm dick, ein Stangenmaterial und das Ende wird zusammengeschoben zu dieser Größe,
+Sie werden erst Kopf genannt, letztes Mal.
+Und die Aufgaben waren, wie lange muss ich ablegen.
+Wichtig war auch, dass Sie erkennen, dass dieser Teil gar nicht umgeformt wird.
+Hier findet keine Umformung statt.
+Der Teil war vorher 12 mm, aber hinterher 12 mm.
+Der spielt gar nicht mit.
+Die ganze Umformung findet hier statt, hier vorne.
+Das heißt, der Umformgrad, den können Sie jetzt rechnen über die Länge vorher,
+einmal die Länge oder über die Fläche
+vorher zu der Fläche hier hin.
+Wichtig,
+in jedem Fall,
+wer kam letztes Mal zu mir?
+Sie rechnen in jedem Fall mit dem
+Betrag von dem Umformgrad.
+Und da war noch ein
+kurzer kleiner Nachfrag.
+Da habe ich
+letztes Mal schon korrigiert.
+Die Energie ist
+Volumen bei der mittleren
+Tiefspannung bei der Betrag
+vom Umformgrad. Keine negative
+Weiter vorne gilt das aber genauso.
+Wir wollen gerade schauen, dass Ihnen hier um die,
+wo waren das?
+Auch hier, die rechte Magnetgie ist korreliert mit dem Betrag des Umformulatums.
+Das gilt genauso, wenn Sie das Ding zusammenschieben und das gilt, wenn Sie die Länge nehmen.
+hier an der Stelle
+für Sie bitte auch einmal ergänzen
+das Betragszeichen
+beziehungsweise hier
+genauso das Betragszeichen
+wir rechnen mit dem positiven Umfang
+gerade weiter
+ich kann mal probieren
+ob ich da reinkomme
+Dann hatten wir festgestellt, dass die Kraft am Anfang sehr groß ist,
+Weil er am Anfang klein ist. Solange Sie auf eine kleine Fläche drücken, brauchen Sie wenig Kraft.
+Die Fläche ist klein und die Fließspannung ist auch noch klein.
+Mit zunehmender Umformung, je weiter wir das Ganze umformen, desto größer wird die Fläche und desto fester wird der Werkstoff.
+Ein doppelter Effekt, warum das Ganze schwerer geht.
+Das heißt, dann hat man am Ende hier eine 6-fache Kraft am Ende wie am Anfang.
+Das heißt, wenn man so eine Abschätzung macht von einem Prozess, geht es darum, die Kraft, die größte Kraft herauszufinden, nicht die durchschnittliche Kraft.
+Bei der Energie ist es anders.
+Da wollen wir die, im Prinzip nur die Gesamtenergie haben.
+Das wäre ein Durchschnittsgerät.
+Am Anfang geht es leichter, am Ende ein bisschen schwerer, aber die gesamte Energie bekommt wir halt raus in dieser Formel Volumen mal Fließspannung mal Umformkraft.
+Und da ist die mindere Fließspannung einsetzbar.
+Also am Anfang ein bisschen weniger, am Anfang ein bisschen mehr, am Ende das Wasser.
+Soweit waren wir gekommen und dann sind wir fast durch mit dem Kapitel, bis auf diese Aufgabe.
+Und zwar die spezifische Umformarbeit, also jetzt mal kurz weiter vorne erklärt, die Fließspannung bei diesem Geologen, die spezifische Umformarbeit, spezifisch im Sinne von geteiltem Volumen, pro Volumen,
+gibt an, wie viel Energie brauche ich
+pro Kubikmeter zum Beispiel
+pro Volumen
+um mein Material auf
+eine bestimmte Umformkeit zu bringen
+das ist die Idee
+von der Kurve
+das ist viel leichter zu rechnen als das
+was wir vorher hatten
+Das wäre das, was wir letztes Mal gemacht haben.
+Jetzt ist es besser. Einfach Gewalt verwendet und das Ding ist wieder in Ordnung.
+So, was haben wir letztes Mal gerechnet?
+Wenn Sie die Energie rechnen wollen, vielleicht mal eine kleine Systematik, dann können Sie das KfM, bekommen Sie entweder aus einem, oder Sie kriegen es eigentlich immer, aus Kf am Anfang plus Kf am Ende, KfE oder 1, 2 oder 0, wie auch immer, geteilt durch 2.
+Fließspannung am Anfang, Fließspannung am Ende, durch das Bein ergibt die mittlere Fließspannung.
+Diese Werte hier bekommen Sie, typischerweise haben wir hier die Streckgrenze,
+und die Fließspannung am Ende bekommen Sie entweder aus Diagramm,
+oder aus Kf ist Kf1 mal IOM oder daraus.
+Irgendwie muss es hier was geben.
+Dann haben wir die Formel mit den Werten oder Sie bekommen ein Diagramm
+und können dann Kf1 bestimmen.
+Hier sind typischerweise die Streckgrenzen und dann können Sie es oben einsetzen.
+einsetzt. Volumen brauchen Sie
+und Format brauchen Sie.
+Das sind so die möglichen Rechnungen,
+die ich Ihnen in der Prüfung zumuten kann.
+Jetzt gibt es eine zweite Möglichkeit.
+Unsere ideelle
+Arbeit
+ist unser
+kleinen WIW
+mal das Volumen.
+Das ist die andere Möglichkeit.
+Jetzt gehen wir in andere Wege.
+Wir gehen über diese Kurve.
+Da muss ich Ihnen aber die Kurve geben.
+Den Wert bekommen Sie aus der Kurve.
+Das heißt, Sie rechnen den Umformgrad aus, lesen die Idee ab, rechnen das dann mal im Volumen
+und kommen dann auch auf die Umformarbeit in Not der Decke.
+Einen der beiden Wege müssen Sie gehen, so wie wir es verraten, der ist der einfache.
+Wenn ich Ihnen in der Füllung so ein Diagramm gebe, können Sie beides machen.
+Sie können den linken und den rechten Weg wählen.
+Ich werde den rechten Weg wählen.
+Geht schneller.
+Einfach.
+Wobei Sie auch hier viel erst mal auswählen müssen.
+Dann müssen Sie das ja ablesen.
+Sie brauchen erst einmal viel.
+Können Sie das ablesen.
+Dann hatte ich noch...
+Hier, an der Stelle, nur umgeformtes Volumen.
+Das gilt auch da.
+wenn Sie hier ein Volumen haben
+das gar nicht umgeformt wird
+kommt keine Energie
+nur das Volumen, das wirklich umgeformt wird
+wird hier einsetzen
+Gut, soweit dazu mal als Übersicht, wie man an diese Aufgabe rangehen kann, was wir hier
+überhaupt für Möglichkeiten haben.
+so viel ist es nicht
+und
+die Formel ist auch noch gegeben
+da oben
+ist das machbar
+jetzt die Frage
+jetzt machen wir es einmal
+hier mit der
+ich glaube das ist jetzt relativ simpel
+die Formel steht schon da oben
+und wir haben im Grunde schon alles letztes Mal ausgerechnet
+ich muss mal ganz schnell hier nachschlagen
+ich weiß es nicht mehr auswendig
+war 0,81 also bei der aufgabe dieser 0,81
+Ich werde es jetzt mal der Körbe hier abnehmen.
+Ja, 0,2, 0,81, knapp hier neben, also 400, also 500, nein, was auch immer, 430.
+Ja, dann haben wir also WIW gleich 430 Newton pro Quadratmillimeter.
+aus den Diaz-Armen.
+Und das Volumen hatten wir letztes Mal auch schon.
+Das umgeformte Volumen
+war nur
+dieses Volumen hier.
+10 mm mal
+Pi mal
+81 Quadratmeter.
+Das heißt, V, ein rotes Ausrufezeichen daneben von oben, nur das Volumen, das umgebaut wird, war das von dem Kopf und das waren 2.544 mm³.
+Millimeter. Nur die Seite bleibt. 81, 9, mal 9, mal 81, mal 50, mal 50, mal 100. Gut. So,
+Und dann ist die Sache einfach.
+Rechts oben einsetzen.
+WID ist gleich
+430
+Newton pro Quadratmillimeter
+mal
+2.544
+Kubikmillimeter.
+Und wenn man das einsetzt,
+sind es
+ein bisschen überwiegend,
+aber das ist schon sehr gut.
+Eine Million
+1.094.000 Newton Millimeter.
+Wie viele Schuhe ist das?
+Ich habe noch eine Frage.
+Sie haben da jetzt BID, das ist gleich, das ist dann BID.
+Das ist gleich ein Groß-BID, das eine ist das Bezogene,
+das andere hier ist das hohe Energieprovolumen.
+Also das hier ist hier oben, nach der Formel hier.
+und da unter dem roten ausgezeichnet dass die gesamte die große große ist klein
+ein bisschen blöd von der Bezeichnung her. Oder zum Schreiben. Große und kleine Wehe tun nicht wirklich auseinanderreißbar.
+Ich muss das große Wehe ein bisschen übertreiben.
+So, wie viele brauchen wir noch für den Pool?
+Wie viele Pools sind das?
+Wie viel?
+100, nicht? 100?
+100? Passt?
+100.
+Ich glaube, Sie meinen das Richtige, aber Sie wollen drei Nullen wegstreichen, oder?
+Drei Nullen weg?
+1.094.
+1.094.
+1.094.
+1.094.
+Ich dachte, es sind drei Nullzüge, aber wieder drei weg.
+Millimeter, Millimeter
+oder so. Eine Schule ist ein Millimeter.
+Genau.
+Okay.
+Fragen dazu?
+So weit so klar?
+Dann
+kommen wir zu einer ähnlichen Aufgabe
+in Anwendung, aber auch
+nochmal beim nächsten Thema.
+Hallo.
+Okay.
+Also, der Teil wird nicht umgeformt, der bleibt, den sehen wir jetzt nicht.
+Hier haben wir 10, hier haben wir Durchmesser 18 Manns, dann haben wir das Volumen, also 10 mm mal Pi mal 81 Quadratmeter, die R-Quadrate.
+Nehmen wir uns jetzt unser erstes umformelndes Verfahren vor, und zwar das Fließpressen.
+Gut, wie ist das?
+Als wir im Labor waren, hatten Sie da, ich weiß gar nicht mehr, ich war noch im Labor, mit so vielen Gruppen, mit Maschinenbauern, mit Ihnen, mit den Masterleuten.
+Hatten Sie dieses Teil da gesehen? Ja, ne? Ich glaube, das hat man zumindest mal gezeigt an der Presse.
+Aber den Prozess auch?
+Ja.
+Genau, ja. Schockierend. Da habt ihr den schon gesehen. Sehr gut.
+Das war ich mir gar nicht mehr sicher. Welches Werkzeug gerade auf der Presse war.
+und das Biesbrechen machen wir jetzt
+hier hin dazu, gesehen haben wir es
+also
+wir haben
+warm und
+kalt umformt, es ist in jedem Fall
+eine massiv umformte
+keine Blechumform
+wir hatten die Einteilung der
+umformten Verfahren
+in massiv umformte und Blechumform
+hier ist es massiv umformt
+keine Bleche
+das wird
+sehr viel im Aluminium
+und auch im Kupfer verwendet.
+Aber dann in der Kaltumform.
+Aluminium ist so weich, das kann man kalt umformen.
+Wenn man das im Stahl macht,
+das geht auch,
+dann macht man den aber warm.
+Üblicherweise Stahl warm,
+Aluminium kalt.
+Und heute wird halt auch
+experimentiert mit halb warm.
+Also Stahl, der nicht 1000 Grad heiß ist,
+sondern nur 700.
+Ein bisschen Unterschied wird auch gemacht.
+Das Verfahren, da muss man bei Fließpressen dazu sagen, eigentlich heißt der Oberbegriff, hier oben steht es, durchdrückend.
+Durchdrückend ist der Begriff für alle Verfahren, bei denen ein Werkstück durch so eine Form durchgedrückt wird.
+Und da gibt es jetzt drei Varianten, nämlich das Verjüngen, das Fließpressen und das Strangenpressen.
+Das sind drei Varianten, die alle zum Durchdrücken gehören.
+Verjüngen heißt, einen Querschnitt ein bisschen kleiner machen.
+Von dem Querschnitt auf ein bisschen weniger gehen.
+Das ist Verjüngen.
+Das heißt, ich habe hier eine Form, eine Matrize, die ist in der Mitte hohl, die geht hier so ein bisschen schräg zu.
+Ich drücke, das Orange ist meine Presse, die von oben kommt, das Werkstück ist blau, das stecke ich hier rein und drücke mit Gewalt oben drauf.
+Und dann wird es hier ein klein, das drückt sich hier durch und wird ein klein bisschen kleiner.
+Die Besonderheit ist, dass ich hier wirklich nur ein ganz kleines bisschen kleiner bin.
+Die Kräfte sind deshalb nicht so groß.
+Und weil die Kräfte nicht so groß sind, passiert zum Beispiel nicht Folgendes.
+Was nicht passieren soll, ist, ich übertreibe mal,
+wenn Sie so ein Werkstück haben,
+Und wollen das da durchdrücken, wenn Sie oben drauf drücken, wenn Sie das hier durchdrücken wollen, das funktioniert nicht.
+Da brauchen Sie so eine große Kraft, dass das Bauteil ein bisschen hier reinrutscht, ein kleines bisschen.
+soweit kommen sie und jetzt geht es zu schwer und wenn es zu schwer geht dann
+fängt das anstatt da durchzugehen das ist einfach ihr auswollt das denkt gar nicht
+mehr dran hier durchzugehen das fängt einfach an hier oben sich zu verformen das ist die
+Gefahr, wenn wir zu viel umformen wollen, wenn das zu viel reingeht. Hier beim Verjüngen ist es wirklich nur ein
+kleines bisschen. Und deswegen funktioniert das. Sie können es einfach reinstecken, durchdrücken. Sie haben eine geringe Formänderung und Sie können das Werkstück ganz locker hier reinstecken und einfach hier runter drücken. Das heißt, es muss nicht geführt werden, Sie müssen das hier nicht festhalten und einsperren.
+Das ist verjüngend. Wenn Sie tatsächlich so etwas haben wollen, dann müssen Sie verhindern,
+dass das Bauteil an den Seiten raus kann. Wie machen Sie das? Dann machen Sie Ihr Werkzeug
+hier oben größer. Wir gehen hier rüber und machen hier das Werkzeug hin, dann kann das Bauteil hier nicht raus.
+Und dann funktioniert das, macht das Werkzeug halt größer und teurer und ja, dann sind wir hier.
+Und dann reden wir von Fließpressen. Die beiden Verfahren sind also teilweise ähnlich, aber hier kann ich jetzt sehr groß...
+Sie beide, das ist nicht weit von Hangzhou, von der Partner-Universität.
+Also was heißt nicht weit? Zwei Stunden mit dem Bus, glaube ich, bin ich gefahren.
+Das ist eine Museumsstadt in China, also ganz, ganz nett.
+Ja, hat schon so etwas von Venedig, ja.
+Das ist so eine Künstlerstadt, also sehr viele Künstler, Handwerker, Verkaufsstadt.
+Und abends, man kann so ein Boot nehmen, da mal durchfahren, riesengroß.
+Oder einfach zu Fuß sich treiben lassen. Als einziger Ausländer, der dort wirklich auffällt wie sonst was.
+Aber okay.
+Also, wenn ich so großen Unfall gerade haben will, dann muss ich mein komplettes Werbestück hier frühen,
+Hier ist es früher an den Seiten, dass es nicht weg kann.
+Und hier drauf drücken.
+Da kann ich hier durchdrücken.
+Mit Aluminium klappt das auch in kalt.
+Wenn es klein genug ist, muss ich die Kräfte abschätzen.
+Im Stahl typischerweise warm.
+Hier ist eingestehen, dass es diskontinuierlich.
+Mein Folgendes.
+Sie können so einen Stab, auch einen langen Stab, da einfach immer durchstecken.
+Durchstecken, weiter, weiter, weiter.
+Und einen langen Stab nehmen.
+Hier legen Sie ein kleines Stückchen rein und drücken das da drüben.
+Dann legen Sie wieder das nächste Stück ein, drücken es hier durch und wieder das nächste Stück.
+Das gilt also für so kleine Stücke, die man hier reinstecken kann.
+Für so lange Stücke. Hier kann das Stück deutlich länger sein.
+Und beim Strangpressen, das machen wir zum Schluss, können Sie hier also zwei Kilometer-Wärtchen rausholen.
+Aber das war ein mega kranker Teil vom Schluss.
+Gut, also in der kalten Umformung Aluminiumpupfer, in der warmen Umformung gilt hier auch noch Stahl.
+So, und Stahlgepresseleer ist hier hinten, das ist warme Umformung.
+Ich nehme ein sehr großes Volumen hier, mache das Material sehr, sehr, sehr warm kurz vor Schmelze
+und drücke hier oben mit der Presse oben drauf und kann hier ein Profil rausdrücken, was dann eben sehr, sehr lang wird.
+für eine kleine Öffnung, dann bin ich beim Strangpressen.
+Langsame Strangmatte für sehr lange Profile, das ist der Unterschied von diesen drei Verfahren.
+Und die gucken wir uns der Reihe nach an, da wird manches vielleicht klarer.
+Fließpressen heißt also, dass wir irgendwo drauf drücken und ein Material irgendwie damit verformen.
+Diese Begriffe sind ein bisschen verwirrend. Merkt ihr, es geht Vorwärts- und Rückwärts-Fliespressen und es geht Voll-, Wohl- und Nach-Fliespressen.
+Und am besten sieht man das in der Zeichnung.
+Also, wir haben links immer den Zustand vor dem Pressen und rechts während des Pressens.
+Wir legen das Bauteil in der linken Hälfte ein, fahren jetzt hier durch, drücken hier runter und drücken das Bauteil, was hier so aussah, hier unten in eine kleine Querschnitte.
+Was ich hier angedeutet habe, ist auch, hier ist unser Werkzeug, die Matrize hier, oder das Werkzeug, ein bisschen zu wiederholen.
+Die Umformung ist hier abgeschlossen.
+Hier wird umgeformt, hier wird der Schwerpunkt verkleinert, hier ist die Umformung abgeschlossen, hier passiert nichts mehr.
+Alles fertig.
+Nur in diesem Bereich findet die Umformung statt.
+Wir drücken hier durch, wir drücken von oben und in die gleiche Richtung fließt unser Material.
+Das heißt, wir drücken das vorwärts da durch.
+Deswegen ist diese Richtung, die Druck von oben, Fließrichtung nach oben, ist vorwärts, Fließbrecken.
+Okay, gleiche Richtung.
+Wir haben gleich vorweg schon die Variante, wir drücken an der Seite drauf und das Werkstück kann nur in der Mitte hoch wachsen, das rückwärts.
+Die beiden Richtungen sind gegeneinander.
+Wir müssen nicht aufwachen, es kommt uns entgegen, deshalb rückwärts Fließbrecken.
+Noch mal zurück, dass hier vorwärts Leitlinie kommt.
+Es entsteht hier unten ein Vollmaterial, ein massives, volles Querschnitt.
+Deswegen ein voll vorwärts Fließpressen.
+Voller Querschnitt, volles Material und vorwärts.
+Das können wir jetzt ein bisschen abändern, indem wir einen Gegenstempel hier aufmachen.
+Wir drücken von unten hier gegen und lassen nur an den Seiten Platz.
+Statt das hier jetzt von außen einzuengen, engen wir das jetzt von innen ein.
+Dann fließt unser Werkstück außen dran vorbei.
+Es ist immer noch vorwärts fließend.
+Wir drücken von oben, unser Werkstück fließt nach unten, gleiche Richtung, vorwärts.
+Aber es entsteht jetzt so ein napfförmiges Gebilde.
+Ein Tasse sozusagen.
+ein Tassel oder einen Napf oder Becher. Und deswegen ein Napf-Vorwärts-Flies-Pressen.
+Einfach nur hier mit Allergie verhindern.
+Und dann gibt es die Möglichkeit, das nicht in einem Schritt zu machen, sondern in mehreren
+Schritten. Dass ich erst das Ganze ein bisschen umformen, noch ein bisschen umformen, noch
+ein bisschen umformen. Dann kann es passieren, dass ich schon so ein Napf gefertigt habe
+und will ihn noch kleiner machen. Und dann bin ich bei dem Letzten, das Hohl-Vorwärts-Flies-Pressen.
+Und das ist relativ kompliziert, da kombiniere ich jetzt alles.
+Ich habe außen die Verjüngung, die Verengung des Querschnitts,
+der Außendurchmesser wird kleiner an der Stelle, das macht das Werkzeug,
+und in der Mitte gehe ich mit so einem Stempel rein, der in der Mitte nochmal eine Vertiefung hat,
+und dann sehe ich aus so einem großen Napf, wird ein kleinerer Napf und längerer.
+Das ist dann Hohlvorwärtsfließkressen.
+Wir machen sowohl einen Innenradius anders, als auch den Außenradius anders.
+Das sieht man vielleicht so ein bisschen jetzt hier.
+Ich habe diese Animationen gefunden, das sind animierte Gils aus dem Internet irgendwo.
+Ich kann die jetzt nicht geben aus Urheberrechtsgründen, aber ich kann es zeigen.
+Das ist voll vorwärts fließpressen.
+Der Bauteil rein, draufdrücken.
+Das schließt da unten rein. Hier ist noch der Auswerfer-Takt. Der kippt das Ding wieder raus hinterher.
+Das muss der irgendwie rausholen. Das ist der sogenannte Auswerfer.
+Und dann rauskommt und weiter.
+Ein bisschen grob. Ich kann es nicht langsamer machen.
+Das ist das Voll-Vorwärts-Kieftreißen.
+Vorwärts gleich Richtung. Voll ist wieder Vollmachina.
+Das fertige Bauteil ist ein Vollenkern.
+Und hier geht das V3 rein, das ist eigentlich die Wohlform, da habe ich sowohl die Verjüngung von außen als auch hier in der Mitte diesen Stempel und bin dann eigentlich bei Wohl.
+Mit dem Stempel in der Mitte und der Verjüngung von außen.
+Das sind also zwei Animationen dazu.
+Wenn Sie suchen im Internet Animation Fließpressen, dann finden Sie die gleich selber.
+Das war das Vorwärts-Fließpressen.
+Die andere Variante ist das Rückwärts-Fließpressen.
+Und das ist auch das, wie hier diese Bauteile entstanden sind.
+Nochmal zum Beispiel.
+Wo habe ich die jetzt hingetan?
+Sie drücken drauf, von oben, und dann fließt das Material an den Seitenbogen.
+Fließt dann nach oben in die andere Richtung.
+Deswegen rückwärts.
+Es gibt verschiedene Varianten.
+Das hier ist diese hier.
+Sie drücken in der Mitte drauf.
+es fließt nach oben. Deswegen rückwärts. Es entsteht ein napfförmiges Gebilde, ein Becher,
+also sowas hier, also napfen, rückwärts fließpressen. Wenn Sie das so machen,
+dass Sie mit einem Stempel kommen, der nur in die Außen reingeht und in der Mitte hoch geht,
+ist es auch rückwärts fließpressen, es entsteht dabei ein Vollmaterial, deswegen voll rückwärts
+Und wenn Sie das wieder kombinieren, ein Stempel von unten, wo der Nackt reinkommt und Sie gehen hier rein, dann können Sie aus diesem dicken Nackt einen dünneren Nackt machen.
+Dann kann man es überholen und als Fließpest das Ganze nochmal feiner einstellen.
+So, das sind alles nur mal die Begriffe.
+Ja, und es gibt ja viele Varianten, auch dazu noch eine Animation.
+Und das hier ist eine Kombination. Das gibt es jetzt natürlich auch. Sie drücken oben mit so einem hohen Stempel rein. Und jetzt kann beides passieren. Es kann unten in das Block reinfließen und oben reinfließen. Dann haben wir beides.
+handwerklich vorwärts und rückwärts fließpressen in einem Prozess.
+Das kann man alles auch kombinieren.
+Oder wir haben hier,
+das ist die Variante,
+das nach rückwärts fließpressen ist diese Variante.
+Wobei hier auch ein ganz kleines bisschen vorwärts fließpressen mit dabei war.
+Das geht von oben rein, das quillt sehr hoch,
+aber ein kleines bisschen wird auch nach unten gedrückt.
+Das war vorwärts, das war rückwärts.
+Gut.
+Und als letzten Exoten, das gibt es noch das Querpressen.
+Das heißt, Sie rücken hier das Bauteil, Sie rücken hier ran, von oben unten,
+und von jeder Seite wächst so ein bisschen was raus.
+Querze, Richtung.
+Ja, und Sie können zum Beispiel so ausüben.
+Wenn Sie also einen Anschluss machen wollen an ein Bauteil.
+Dann sind wir beim Quer-Knie-Pressen.
+Das ist typischerweise Vollmusteraktivität.
+Okay, das sind also mal die Varianten, die es gibt. Ich habe die Vollständigkeit halber alle mal aufgezählt.
+Und Sie müssen nicht alles auf einmal machen.
+Das geht auch oft gar nicht, das geben die Werkzeuge nicht her.
+Man macht das typischerweise Stück für Stück.
+Wenn Sie in Stahl das Ganze machen, dann machen Sie den Stahl warm, heizen ihn auf, dann hat er 1000 Grad.
+Und dann müssen Sie gar nicht alles auf einmal machen.
+Dann kommt der einmal in die erste Form, da wird ein bisschen voll vorwärts fließt gepresst.
+Ein kleines bisschen nur. Nicht das ganze Bauteil wird durchgeschoben, sondern nur unten der Anfang.
+Dann hat er hier unten diese Verjüngung, die man voll vorwärts fließt, pressen muss.
+Dann kann man oben stauchen. Das heißt, das Bauteil guckt ein bisschen raus aus der Form,
+Sie drücken es platt in die Form hinein.
+Dann brauchen Sie ein Werkzeug, das genau diese Form hat.
+Und dann drücken Sie das Rad einfach rein.
+Das wäre Stauraum.
+Und dann gehen Sie zum Beispiel hier mit einem Stempel rein.
+Das Bauteil fließt hier hoch.
+Da haben wir ein Rückwärtsfließschreifen als nächstes.
+Dann gehen Sie noch weiter rein und machen hier wieder das fertig und so weiter.
+Sie können also der Presse einen Schritt nach dem anderen machen
+und müssen nicht alles auf einmal machen.
+Und oft braucht man auch nur eine Presse dafür. Da hat man die verschiedenen Formen.
+Und dann nimmt man das Bauteil kurz in die erste Form, dann die Presse fährt zu, fährt wieder hoch.
+Dann kommt sie in die nächste Form, Presse runter, Presse hoch, nächste Form und so weiter.
+Das geht mit einer Maschine, in der mehrere Formen sind.
+Jetzt haben wir aber, je nachdem ob wir Warm- oder Kaltumformung haben, eine Verfestigung
+zwischen den verschiedenen Schritten.
+Das wird immer fester.
+Wenn wir Kaltumformen, bei Warmumformung haben wir das nicht.
+Aber bei Kaltumformung wird es immer fester und dann kann es sein, dass wir zwischendurch
+den Glühbehandel machen müssen.
+Dass wir alles nochmal im Ofen
+warm machen müssen, die
+Verfestigung aufheben müssen und können
+dann weiter umformen. Also manchmal
+machen wir so viel, wie das Material
+hergibt. Dann wird
+noch einmal geglüht
+gegen die Kaltverfestigung
+und dann wird weiter umgeformt.
+Wobei jeder Glühprozess,
+jede Wärmebehandlung teuer ist
+und Zeit kostet.
+Dass man hier extreme Umformgrade erreichen kann, sieht man auch hier dran.
+Das ist so ein ähnliches Teil. Von oben einmal reinfotografiert hier.
+Oder hier auf so einer Tablette kann es sehr direkt hoch warten.
+Die Frage ist, wie groß ist denn jetzt der Umformgrad?
+Wie groß ist der Umformgrad bei diesem Bauteil?
+Ich lasse mal hier unten mal weg, das interessiert mich, aber hier in der Wand.
+die bestimme ich da an den Umfangkarten oder ich zeig das mal hin das war das Bauteil vorher
+vorher das ganze in rund und hinterher
+Wie siehst du aus?
+Auch eine Runde.
+Nachher.
+Oder hinterher.
+Wie groß ist der Umfanggrad?
+Wie ist der Umfanggrad definiert?
+I ist gleich
+Hier ist ein Durchmesser und eine Flöhe, A0.
+Hier ein bisschen kleiner, A1.
+Hier ist der Durchmesser D0.
+Hier ist immer noch, von ganz außen nach ganz außen, ist immer noch D0.
+Und innen haben wir jetzt einen anderen Durchmesser, D irgendwas, D1 oder so.
+Aber was ist jetzt der Unterschied mit den Größen?
+Mit der LM von vorher, nein nachher und nicht vorher.
+Das stimmt, aber hier in der Zeugung, hier ist noch ein H1, das unten ist ja nur der Boden.
+Ja, das könnte man bei uns machen.
+Okay, mein Fehler, also Höhe vorher war die, Höhe hinterher die, hier ist auch noch der Boden drin.
+Das ist eine eigene Höhe.
+Aber jetzt habe ich gesagt, vorher ist der hinterher, oder was?
+Der Boden ist fast umgeformt.
+Richtig. Der Bodenteil ist nicht umgeformt.
+Ja, genau, also H1 minus H Boden.
+Was ist denn die Höhe vorher dann?
+Die umgeformte Höhe.
+das ist ziemlich trickreich
+also wir müssen jetzt nur die umgeformte
+wäre sich in rot
+ich glaube das wäre sogar auch
+H0 minus Hb
+oder was ist hier
+der Teil hier
+ist hinterher immer noch da
+der zählt nicht
+also vorher
+die umgeformte Höhe ist
+H0
+H1 minus Hb, das ist die Höhe, nur diese Höhe, die umgesprungen wurde, die hinterher weg ist.
+Und die wird verdrängt in diese Wände.
+H1 minus Hb, das ist nur die Höhe der Wand.
+Die haben sie meistens gar nicht, die Größen. Das ist nicht schön.
+Können wir jetzt auch anders rechnen? Wenn es so nicht gut geht, weil wir HW und so gar nicht kennen. Wie kann ich noch viel umwerfen?
+Wenn die Flächen gehen, Fläche hinterher zur Fläche vorher, ach so, ich muss hier
+umdrehen. So, okay. Hinterher zu vorne. Besser. Warum besser? Die Fläche ist einfach nur der
+Durchmesser. So, Pi r². Und hinterher, das ist aber das Schwierige, was ist die Fläche
+hinterher. Die Fläche vorher ist klar, also A0 ist Pi mal D0 halbe zum Quadrat. Die Fläche
+vorher ist dieser Kreis mit dem Durchmesser D0. Das ist die Fläche am Anfang. So schaut
+Und welche Fläche sehen wir von oben drauf und hinterher?
+D1 dann nicht. Also D0 ist ja das Gesamte, aber die Wände gehen ja nach oben, die sehen ja dann nicht mehr, also nur noch D1.
+Doch, wenn Sie von oben drauf gucken, sehen Sie eigentlich nur noch die Wand.
+Das, was an Fläche hier oben ankommt, genau andersrum,
+denn der 1 ist ja nichts, das ist ja kein Material in der Mitte,
+ist dieser Ring hier außen.
+Das ist die Fläche, die daraus entstanden ist.
+Aus diesem Formelmaterial, wenn ich den Boden hier wegsäge,
+ist hier nur dieser Ring geworden.
+Das heißt, A1 ist diese ganz, ganz, ganz kleine Fläche hier außen.
+Das da.
+Auf dem Vollmaterial wurde das hier.
+Und jetzt sieht man, wenn man das hier dann einsetzt, über die Flächen, hier gibt es ein sehr, sehr großes Verhältnis.
+und das ist ja auch der Grund dieser Regel und da gibt das einen sehr großen Informatik.
+Sie können das auch über die Höhe machen, aber vielleicht wissen Sie die Werte nicht.
+Über die Fläche ist es einfacher.
+Deshalb, beim Fließpressen gehen wir eigentlich immer über die Flächen. Das ist viel, viel einfacher.
+Denn das Werkzeug hier, das definiert mir eher die Flächen. Mein Stempeldurchmesser,
+Mein Patrizendurchmesser. Wenn ich den Durchmesser weiß und den Durchmesser weiß als ein Werkzeug,
+dann weiß ich den Umformgrad. Da muss ich gar nicht wissen, wie hoch das Ganze ist. Interessiert
+mich gar nicht. Ich kann ein kleines Werkzeug reintun, ein großes Werkzeug reintun. Die
+Durchmesser ergeben ja auch den Umformgrad über die Flächen. Das heißt, das Werkzeug definiert
+über die Flächen, die ihr beim Umformen habt.
+Deswegen gehen wir immer über die Flächen beim Fließpressen.
+Gibt es Fragen dazu, oder ist es klar?
+Keine Fragen. Sehr gut. Weiter.
+Wir hatten noch eine Einteilung. Wir hatten ganz am Anfang bei umformenden Verfahren gesagt,
+es gibt Druckumformen, Zugumformen und die verschiedenen Spannungen. Hier arbeiten wir,
+wenn wir hier drauf drücken, voll mit Druck. Das macht C-Hybrid voll einfach nur zusammengedrückt.
+das steht hier einfach massiv unter Druck. Wir drücken hier oben drauf. Hier trifft uns die volle
+Druckspannung. Hier steht zwar zu, aber es gibt dann halt eine negative Druckspannung, wir sind hier auf der Druckseite.
+Hier oben ist die maximale, in der Richtung. Also wir drücken hier oben drauf. Volle Spannung hier, das ist die Kraft,
+die auf diese Fläche wirkt. Hier unten haben wir gar keine Druckspannung mehr, denn das ist ja frei in der Luft hier.
+Das kann ja hier frei verschwinden, unser Material.
+Das heißt, die Druckspannung ist hier maximal und da weniger.
+Das ist diese Kurve.
+Hier oben große Spannungen, hier unten weniger.
+Außerdem haben wir radiale Spannungen.
+Unser Material, unser gelbes Material, das ist das, was hier umgeformt wird.
+Hier im Blauen passiert nichts und hier im Blauen auch nicht.
+In dem gelben Bereich ist es umgeformt.
+Wenn Sie hier drauf drücken, das würde auch gerne nach außen weggehen.
+Kann es aber nicht.
+Aber es drückt hier auf diese Wände nach außen.
+Wenn Sie da oben drauf drücken, dann wird hier unser Werkzeug nach außen belastet.
+Wenn Sie das zu schwach bauen, biegt sich das nach außen.
+Diese Werkzeuge sind extrem massive Ringe.
+Die würden Sie so weit rausbauen, dass sich da nichts verbiegt.
+Damit das hier wirklich gut diese Kraft aufnimmt, muss das hier sehr sehr groß sein, unser Werkzeug.
+Also nicht nur so, sondern eigentlich eher so groß.
+Also für so kleine Bauteile aus Stahl haben Sie solche Werkzeuge.
+Damit eben diese Kraft aufgenommen wird, die radiale Kraft, und dass halt auch eine Druckkraft hier nach außen wirkt.
+Ich habe noch eine Frage.
+Das sind ja normalerweise Ausklärungen.
+Die Bucke sind wieder.
+So gar nichts, das ist nicht reich.
+Die Umformung ist hier abgeschlossen.
+Und wenn das jetzt hier einfach zu eng wäre,
+würde es ja auch noch reich sein.
+Aber da kommt es ja noch mal in der Mitte.
+Ah, in der Mitte, ja.
+Genau. Drückst du es da nicht zur Seite hinaus?
+Nein, weil wenn der hier durch ist,
+ist die Umformung abgeschlossen.
+Hier verformt sich nichts mehr in dem Bereich.
+Auch in der Mitte.
+Das geschieht alles hier.
+Hier drückt sich der Stempel durch, da drückt es sich auch gegen den Stempel.
+Aber hier gibt es keine Durchspannung mehr in dem Bereich.
+Das heißt, hier kann das Material einfach abwerfen.
+Also Umformung abgeschlossen, auch wenn der Stempel hier tiefer runter geht als diese Auskehrung.
+Nur im gelben Bereich wird umgeformt.
+Gut, das heißt aber auch, unsere Werkzeuge müssen jetzt ganz extrem sein, extrem fest.
+Sie müssen korrosionsbeständig sein, sie müssen hohen Verschleißwiderstand sein, sie müssen extrem hart sein.
+Wenn Sie drücken mit Tonnen später, kracht Ihr Werkstück dann durch. Das reicht ja auch.
+Ja, also sehr hart muss es sein.
+Es muss hohe Temperaturen aushalten, wenn Sie glühende Teile reinlegen.
+Und darf sich gar nicht verformen. Und, und, und.
+Also diese Werkzeuge müssen wahre Alleskönner sein, aus extrem festem Stahl.
+Was aber bedeutet, wenn Sie die Werkzeuge erzeugen,
+die wollen ein Werkzeug bauen aus extrem festem Stahl,
+haben Sie keinen Spaß dabei, wenn Sie das zersparen müssen.
+Wobei dieser Stahl einfach auch schwer herzustellen ist.
+Werkzeuge, sehr teuer.
+Gut.
+Also, vergütete,
+legierte Stähne,
+ich hatte nur noch ein paar Beispiele,
+aber das sind ja die ausländischen.
+Alles sehr teuer.
+Vergüteter, legierter Spaß.
+So.
+Das war das Fließpressen.
+Jetzt noch zum Schluss das Strandpressen.
+Strandpressen heißt,
+Sie haben eine Spresse und da kommt jetzt Ihr Block rein. Das ist ein großes Stück Stahl,
+ein richtig großes, ein toll schweres Stück Stahl und das ist rot blühend. Das wird nicht
+hier drinnen aufgeheizt, das kommt irgendwo aus dem Gießwerk. Da wird es aufgeheizt und kommt
+dann rot-glühend hier in die Maschine rein.
+Jetzt habt ihr vorne das Werkzeug,
+die Matrize.
+Eine mit einer kleinen Öffnung.
+Typischerweise eigentlich kleiner
+als hier gezeichnet. Eher so groß.
+Und jetzt drücken Sie hier mit
+Gewalt drauf.
+Dann wird dieser ganze Block hier
+durchgeschoben und
+kommt hier raus.
+Aus so einem großen Block
+können so kleine
+Querschnitte werden und
+Und die sind dann 500 Meter lang, was ja so ein großes Material, Volumen erzeugen kann.
+Hier so kleine Öffnungen.
+Das Ganze ein bisschen verjüngt, hin zur Mitte.
+Das ist dann hier in den Loch hineinfließen kann, in diese Stämme.
+Ich habe keine Ahnung, ob es sowas in China auch gibt, aber für Kinder sagt mir der Begriff Knete etwas.
+Kennen Sie den Begriff Knete?
+Nein.
+Knete?
+Okay.
+Vielleicht können Sie es kurz mal übersetzen.
+Ah.
+Champignons.
+So geschrieben in Deutsch?
+Ja.
+Gut, für Kinder gerne, genau.
+Zum Spielen, zum drücken, machen.
+Und es gibt so ein Spielzeug,
+Da haben sie so eine Resse, tunknete Leinen und können oben drauf drücken.
+Und vorne können sie dann sagen, welche Form rauskommen soll.
+So einzelne Streifen oder Spaghetti oder Herzchenförmig oder wie auch immer.
+Das Spielzeug ist halt bei vielen bekannt, ich gehe mal ein bisschen weiter.
+Die Öffnung von diesen Dingern kann halt beliebig aussehen.
+Das kann halt so aussehen, da kommen solche Streifen raus oder so etwas.
+Dann kommen solche Profile heraus und dann wird es einfach sehr lang gepresst und dann abgesägt.
+Wie Spaghetti halt.
+So ein Beispiel.
+Wie es gemacht wird, aber irgendwie so.
+Oder Kugelabpresse, ja genau.
+Und typische Bauteile, die da rauskommen können, sehen dann zum Beispiel so aus.
+Wenn die Öffnung die richtige Form hat, dann können Sie hier solche Teile in einem Meter durchdrücken.
+Und das machen Sie Kilometer lang, also bis dieser große Block weg ist.
+Es gibt so, ja hier war es nicht, aber wir könnten sowas machen.
+Solche Anlagen, wenn Sie da Kilometer von machen wollen, das ist ein Medium hier, das ist bestimmt so ein Teil.
+Also Aluminium wird sehr gerne so gemacht.
+Dann drücken Sie das da durch und sehen dann alle zwei Geräte.
+Oder Gardinen, Leisten oder alles, was in großen Stückzahlen braucht.
+Oder eben nur typische Bosch-Profile.
+Also Sie kennen, manche Maschinen sind so aufgebaut aus Gestellen zum Zusammenstauben.
+Das ist alles viel zu viel.
+Oder Strandpressen.
+Man muss ein bisschen aufpassen, damit das funktioniert, muss dieser Werkstoff wirklich weich wie Knete sein.
+Er muss sehr, sehr weich sein, sonst geht das nicht.
+Und sehr weich heißt sehr warm.
+Er darf aber nicht schmelzen, sonst tropft es hier raus.
+Das ist auch nicht gut.
+So, jetzt muss man ein bisschen aufpassen.
+Wir haben ein Verfahrensfenster, das funktioniert.
+Hallo.
+hier unten ist die Temperatur
+hier hinten ist die Schmelztemperatur
+da müssen wir drunter bleiben
+und Raumtemperaturfunktion
+auch nicht, das ist irgendwie klar
+hier ist das Flächenverhältnis
+letztendlich der Umformgrad
+außer es ist nicht logarithmiert
+wenn wir
+einen sehr großen
+wenn wir ein größeres
+Flächenverhältnis haben
+Also bei immer größeren Pressenquerschnitten wird immer kleiner das, was rauskommt.
+Da brauchen wir immer mehr Kraft.
+Das heißt, wir schaffen hier nur dieses Flächenverhältnis. Bei Raumtemperatur.
+Je wärmer es wird, desto mehr Flächenverhältnis schaffen wir, weil es dann nachher leichter wird.
+Das heißt, diese Kurve hier ist eine Kurve mit konstanter Presskraft.
+Je wärmer es wird, desto mehr Fett in der Hälfte ist möglich.
+Alles, was drüber ist, schafft die Presse nicht.
+Das geht zu schwer, der Wertschöpf ist nicht gleich genug.
+Alles, was drunter ist, schafft die Presse, ist grün.
+Und jetzt müssen wir aufpassen.
+Wenn wir knapp unter der Schnellstemperatur sind und großen Druck ausüben,
+dann schmilzt das Material auch unterhalb der Schmelztemperatur.
+Unter großem Druck bringen Sie also Werkstoff zum Schmelzen.
+Das heißt, je näher wir der Schmelztemperatur kommen, desto weniger Kraft und Spannung dürfen wir aufbringen.
+Das heißt, der Schmelzbeginn ist diese Grenze.
+Und irgendwo in diesem Bereich müssen wir arbeiten.
+Hier droht das Schmelzen, hier ist die Kraft zu groß.
+Das ist also unser Verfahrensfenster für das Strangpressen.
+Ja, und das ist die Maschine dazu, die ist noch nicht ganz fertig aufgebaut.
+Hier in die Mitte kommt der glühende Honig rein, unser Block, wie es oft genannt wird.
+Hier vorne, alle mal kurz schauen,
+schauen Sie einmal kurz hier rüber,
+das ist den, wo ich die zeige,
+hier vorne kommt die Form rein.
+Die kann man wechseln.
+Spaghetti-Förmig, Herzchen-Förmig, Herzförmig, was auch immer.
+Hier kommt die Matrize rein, da gibt es verschiedene zum Einsetzen.
+Und dann drücken Sie von hinten mit Gewalt drauf
+und hier kommt der Strang raus
+und dann können Sie alle zwei Meter ablegen
+oder abstanzen,
+abscheren
+und ihr Bauteil fertig machen.
+Genau, das soweit.
+Die Matrizen dazu sind auch
+extrem massive Bauteile,
+dass sie ganz aushalten.
+Und alles,
+was irgendwie meterlang gemacht werden muss,
+das wird so gefertigt
+und dann abgesehen.
+Billiger geht es nicht.
+Das ist nur etwas für die Fertigung von sehr, sehr großen Mengen.
+Gibt es noch Fragen?
+Weiter.
+Ich habe noch mal eine Aufgabe mitgebracht.
+Das ist ein bisschen anders als die, die wir vorhin gemerkt haben. Ein bisschen Wiederholung.
+Das hier baut halt, wenn Sie sich erinnern, wir hatten vorher, letztes Mal, heute Morgen, vorhin am Anfang,
+einen 12 mm Stab, der auf 18 mm verbreitert wurde. Jetzt haben wir was anderes.
+Wir haben einen Fehler, ich habe die Zahlen geändert.
+Steht das so im Skript?
+Wie ist denn das passiert?
+Wenn man die Aufgaben darüber arbeitet.
+Ich habe gerade im Heimlich hier auf 40 mm geändert.
+Was steht im Skript? 30 oder 40?
+30.
+Ah, ich ärgere mich.
+Das geht natürlich nicht.
+Also hier bitte mal korrigieren auf 40.
+Das sind diese 40.
+Wo sie steht, sind die 40.
+Hier steht es, aber da oben ist es falsch.
+Okay.
+Mein Fehler.
+Die ganze Zahl hat sich angetastet.
+Und das war...
+Sie haben eine Rohlinie.
+Der hat 40 mm Durchmesser und Höhe 26 mm.
+Und dieses Teil sollte darauf gemacht werden.
+Durch Vorwärts-Flies-Pressen.
+Wie groß ist der Obstraumgrad? Machen wir das mal als erstes.
+Das können wir zusammen machen.
+Oder jeder überlegt sich, ob er das gerade selber wüsste, wie es geht.
+Wissen Sie, wie man den Umfang gerade hier ausrechnet?
+Wie heißt die Form?
+Wissen Sie es noch?
+Nein, nicht ganz.
+Deswegen die zynische Form.
+Wer weiß es noch?
+Wir nehmen immer die Flächen beim Fiespressen.
+Wir haben den Umformgrad vorhin besprochen.
+Das können wir irgendwie versuchen. Das war so Fließkrebs-Teile. Da kommt so eine kleine Alu-Tablette rein.
+Ich weiß nicht, ob Sie den Prozess mal gesehen haben beim letzten Mal. Da kommt eine kleine Alu-Tablette rein.
+In der Mitte fährt ein Stempel runter. Das macht ja ein Bild an den Seiten hoch.
+Jetzt können wir natürlich über die Höhen gehen, wissen aber nicht, wo ist das Bild dazu?
+Wir wissen aber nicht, wie hoch der Boden ist, der stehen bleibt. Das macht es irgendwie kompliziert.
+und deswegen nehmen wir einfach die Flächen
+das funktioniert ja auch
+da kommt es gleich heraus
+rechnerisch, wenn wir über die Flächen
+vorher
+das ist dann
+mit der zöhnlichen
+also dann muss man die nicht reinrechnen
+lassen wir uns jetzt da gucken
+hier ist ein Teil, der ist nur halb umgeformt
+das hier ist umgeformt
+das ist nicht umgeformt
+und
+wir einigen uns jetzt mal drauf
+dass wir diesen Teil dann nachmessen
+Halb unbeformte Teile zählen nicht.
+Okay?
+Einfach, auch die, die nicht geguckt haben,
+dieser Teil hier zählt nicht.
+Der ist halb unbeformt.
+Hier gucken wir uns nur den ganz unbeformten Teil an.
+Also hier ist dann
+Lm A1 durch A0.
+So, und wie groß ist A1?
+Wie groß ist A0?
+Die Fläche ist dann
+14 ist der Durchmesser
+die Fläche
+Jetzt hier ist der Durchmesser d, wie groß ist die Fläche?
+D1 und D0, D0 ist der Durchmesser vorher, der 40 mm, hinterher der Durchmesser 20 mm.
+Aber wie groß ist A1 und wie groß ist A0?
+mal
+b0 halbe zum Quadrat
+und hier wird
+b mal
+b1 halbe zum Quadrat
+Ja, drei Schläfe
+Gut, das können wir jetzt einsetzen
+ln von
+Pi mal 20 Millimeter durch Quadratmillimeter.
+etwas 20 Millimeter
+mehr als L
+durch Pi mal
+10 Millimeter
+zum Quadrat
+sind
+Logarithmus von 4. Das kann man alles
+wegkürzen. Das ist einfach.
+Achso, das meint ihr mit der 4, oder?
+Oder wenn ihr schon 4 gemacht habt,
+Und das sind 1,386.
+Nochmals als Wiederholung.
+Ich habe mal gesagt, 13 von 3 würde reichen.
+1,39 würde reichen.
+Ich habe zufällig ein Mehr gemacht.
+Aber 13 von 3 würde man dann reichen.
+So, das wäre hier der Umfang.
+Fragen dazu?
+Oder ist das klar?
+Über die Fläche, wie gesagt, geht es viel einfacher, als wenn Sie jetzt noch ausrechnen würden, wie groß diese Höhe ist.
+Das wissen Sie nämlich nicht.
+Dann müssten Sie über das Volumen rechnen.
+Das ist alles sehr, sehr aufwendig.
+Okay, dann habe ich hier die Umfang Arbeit, B.
+Die Umfang Arbeit, einmal ausrechnen.
+Dazu sind hier die Fließgruppen gegeben.
+Ah, hier steht noch WD. Viele machen es im Englischen mit WD, im Deutschen BID.
+Diese kleine bezogene Umformarbeit ist diese Kurve.
+Sie können von mir aus, das ist mir egal, welche D-Dicke gehen.
+Damit rechnen oder damit rechnen. Beides geht.
+Mit WD geht es leichter.
+Und ich habe noch etwas gesagt.
+Berücksichtigen Sie einen Wirkungsgrad von 0,5.
+Das heißt, Sie brauchen Energie für die Umformung, aber Sie brauchen eigentlich doppelt so viel.
+Das heißt, für Reibung und sonstige Verluste geht aber die gleiche Energie drauf.
+Dann probieren Sie mal, ob Sie den zweiten Teil hinbekommen.
+Dann lasse ich Sie jetzt mal rechnen als Übung.
+Das kann ein bisschen spät sein.
+Wenn Sie nicht wissen, wie es geht, fragen Sie Ihren Nachbarn.
+Wenn er es auch nicht weiß, dann sagen Sie Bescheid.
+Vielen Dank.
+die letztendlich zur Energie führen können.
+Und bei so einem Bauteil, wenn wir daran denken, wir haben vorher ein Vollmaterial, rechts oben, unscharf zu sehen, die Tablette, die da reingelegt wird in die Presse.
+und hinterher, dass die Querschnittsfläche, die übrig bleibt,
+ist wirklich nur die Ringfläche.
+Und weil die so winzig ist, im Vergleich zum Vollmaterial,
+so komme ich zu hohen Umformungen an.
+Also wir vergleichen Fläche vorher und Fläche hinterher.
+Fläche hinterher ist die Ringfläche.
+Das, was am Material noch steht, das ist nicht mehr hier.
+So.
+Im Prinzip beim Umformen ist es egal, ob Sie etwas drücken oder länger machen.
+Und wenn Sie jetzt den Weg gehen,
+4 ist ln, Menge hinterher,
+zu länger vorher,
+dann kann das entweder länger geworden sein
+oder kürzer geworden sein.
+Das kommt auf den gleichen Umfanggrad
+mit anderen Vorzeichen.
+Dann bekommen Sie einer minus 1, einer plus 1
+als Umfanggrad, weil Sie aber bei der Energie
+und allem anderen, wo der Hirn hier entlang,
+das hat ja auch noch erwähnt,
+immer mit dem Betrag rechnen, ist es eigentlich egal.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Wer hat das raus?
+Gut, wenn die haben.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Welchen Weg gehen wir? Den oder den?
+Ja, den rechten.
+Immer den rechten. Wenn es geht, dann hier.
+Ja, also das ist nicht schwer. Ich würde mir gar nicht so viel Zeit in der Prüfung eigentlich bereit machen, weil ich dachte, das ist eine sehr einfache Aufgabe.
+Wir müssen zuerst das Volumen ausrechnen.
+Das Volumen, stopp, das mache ich der Reihe nach.
+Ja, das Volumen ausrechnen, dann?
+Und dann den Wert für BD ablesen.
+BD oder BID ist gleich.
+Okay, dann noch mit dem Volumen.
+Wie groß ist das Volumen?
+Wir nehmen nur das umgeformte Volumen.
+Das hier war vorher schon, hat sich nicht verändert, ist nicht umgekommen worden.
+Den Teil wollten wir vernachlässigen. Wir nehmen nur dieses Volumen.
+Schon? Was kommt da raus?
+15.707
+Kilometer.
+15.708
+Kilometer.
+Ja.
+50 mal Pi
+mal 10
+zum Vertrag mal 100.
+Okay.
+Dann WD.
+Wie groß ist WD?
+Alle Ablesen haben wir vorher
+haben wir den Ausgleich
+in 1,39 ungefähr.
+1,
+2,
+1,2, 1,4,
+kurz vor 1,4, also
+ja, war kein Punkt.
+Hat jemand vorher gemacht, der rote Punkt war schon vorher.
+Hat jemand gesehen.
+Wahrscheinlich war er vorher normal.
+Also hier, sagen wir 300.
+Wenn Sie 290 ablesen,
+ist auch gut.
+Also GD
+300 Newton pro Quadratmeter und jetzt einfach, die Formel steht oben, WID, die ideelle Arbeit,
+die nur für die Umformung gebraucht wird, das ist auch mal klein WID oder WD und ich habe bei mir herausgerechnet 4,71 Kilojoule.
+einfach mal nehmen
+und die ganzen Millis in Kilos umwandeln
+dann
+jetzt war doch gefragt
+wie der Wirkungsgrad
+jetzt die gesamte Arbeit
+die Sie brauchen
+wenn der Wirkungsgrad nur 0,5% ist
+heißt das
+zu dieser Umformarbeit
+kommt noch mal die gleiche Menge an Verlust
+also
+wie Gesamt
+ist
+zweimal WIW
+bringt gleich
+9,42
+Kilogramm.
+Ja, wie?
+Etwa
+5.
+Hier muss dann nochmal
+ordentlich Energie, Reibung,
+Wärme,
+und so weiter einstecken.
+Auch mehr Arme
+als die anderen.
+50% ist übrigens ganz typisch.
+Ein Wirkungsgrad von 0,5 ist für viele Umformverfahren ganz normal.
+Also da braucht man immer sehr viel zusätzliche Energie.
+Fragen zu dieser Aufgabe?
+Oder ist die Frage klar?
+Das Volumen ist nur dieser untere Teil hier.
+Nur das ist das Volumen, das umgeformt wird.
+Wir haben vorher Durchmesser 40, der Teil ist auch umgeformt worden.
+Wir haben es oben reingesteckt, nur ein bisschen in die Matrize geschoben und dann wieder rausgezogen.
+Der Teil ist nicht umgeformt worden.
+Also haben wir hier 50 Millimeter mal die Kreiswertung 4 Quadratmeter.
+Also 4 mal 100 Millimeter Quadratmeter.
+314 mal 50, stimmt das, was da rauskommt?
+314 mal 3100 mal 5, das sind 15.000.
+Das sind ja 8.000.
+Was haben Sie da drunter unter dem Gesamtprozess?
+Also, okay, weil der Wirkungsgrad 0,5 ist,
+dann das doch mit reingerechnet.
+Okay, das ist nicht für geschehen.
+Ja, also.
+Der Wirkungsgrad ist unser BID,
+unser Nutzenergie zu B gesammelt.
+Wirkungsgrad ist Nutzenergie zu Gesamtenergie, also Gesamtenergie ist Wirkungsgrad durch die 0,5 oder 1,2.
+Ja, das war jetzt Übersprung.
+Weiter Pfad.
+Dann haben wir fünf Minuten später angefangen.
+Wenn wir noch ein bisschen Zeit haben, machen wir einen kleinen Einstieg in das Spiel.
+Das war Fließpressen mit dem eigentlich Durchdrücken, mit den Varianten Verjüngen, Fließpressen und Strahlenspressen.
+Schmieden ist auch extrem wichtig als Verfahren.
+Schmieden heißt also, Sie packen rot-blühende Teile in die Presse und schlagen so lange drauf, bis sich die Form geändert hat.
+Das ist so gut wie immer Warmumformung.
+Durchdrücken war teilweise Kaltumformung.
+Wir gucken uns ein paar Schmiedeverfahren an, ein paar Grundlagen.
+Und wir haben zwei Varianten.
+Freiformschmieden, Gesenkschmieden,
+noch ein paar allgemeine Sachen dazu
+und dann sind wir mit dem Schmieden
+durch. Also, Schmieden
+kann man,
+Sie sehen hier Schmieden,
+zum Beispiel so ein Werkzeug,
+kann ich schmieden, ich kann es auch gießen.
+Sie hören doch,
+wer macht das Gießen bei Ihnen?
+Markus Hoffmann, oder?
+Genau, der würde sagen, so etwas kann man gießen,
+ich sage Ihnen, so etwas kann man schmieden.
+Beide haben recht, Schmieden ist besser.
+Vielleicht merken, alles was höchste Festigkeit haben soll, wird geschmiedet.
+Schmieden, das können wir gleich schon mal vorwegnehmen, erhöht die Festigkeit.
+Ganz ganz wichtig hier, wenn Sie einen Kranhaken machen, wo Sie schwere Lasten dranhängen wollen,
+dann schmieden Sie den.
+Wenn Sie eine Eisenbahn fahren lassen wollen mit tollem, schwerer Last,
+dann werden die Achsen und Räder geschmiedet.
+Das können Sie auch gießen.
+Aber schmieden erhöht die Festigkeit und das ist hier entscheidend.
+Also bei vielen Sachen, die sehr fest sein sollen, wird geschmiedet.
+So eine, was weiß ich, Messer zum Beispiel.
+Messertechnik, Klingen werden geschmiedet.
+Scheren, wenn sie gut sind, sind geschmiedet.
+Haken, irgendwie alles geschmiedet.
+Also alles, was
+sehr hohe Kraft aushalten
+muss, wird geschmiedet,
+mit dem Ziel, es zu verfestigen.
+Das ist also der Grund dafür,
+warum so vieles geschmiedet wird.
+Was man sonst auch anders herstellen
+könnte. Und schmieden
+ist ein aufwendiges Verfahren,
+aber
+wir haben, und das schaffen wir heute noch,
+eigentlich zwei Verfahren.
+Entweder Freiformschmieden, das ist so das, was wir auch von Hand machen können.
+Wir nehmen einen großen Hammer, ein glühendes Teil, legen es auf den Amboss und schlagen es drauf.
+Bis Sie der Meinung sind, das sieht jetzt so aus, wie es aussehen soll.
+Sie haben keine feste Form, Sie haben ein Werkzeug, das irgendwie rund ist und schlagen so lange drauf, bis Sie der Meinung sind, krass.
+Das ist Freiformschmieden. Ohne Form.
+Ohne Form. Oder
+Sie arbeiten mit einer Form.
+Sie haben unten genau die Form, die Sie brauchen
+und schlagen das so lange
+zusammen, bis das Bauteil genau
+die Form hat, die es haben soll.
+Dann haben Sie hier natürlich die perfekte
+Form. Da sind Sie so
+ganz ungefähr, so wie Sie es haben
+möchten. Hier ist die Formgenauigkeit
+viel, viel besser. Dafür müssen
+Sie für jedes Werkstück hier sein teures
+Gesenk machen. Das ist
+Gesenkschmieden oder Gesenkaumschmieden.
+Also,
+Hier haben wir Einzelfertigung oder Kleinserie, das können Sie noch so machen.
+Wenn Sie dann 20.000 mal das gleiche machen wollen, dann lohnt sich so eine Formel.
+Dann machen Sie Gelenkformschließung, das ist also Serienfertigung.
+Hier haben Sie Werkstücke, die Sie von Hand bewegen können, 1 Kilo bis 500 Tonnen, also alles.
+Hier, naja, brauchen Sie ein Kilo oder ein halbes Kilo bis zu anderthalb Tonnen, irgendwann wird es zu groß.
+Also wenn Sie ein 500-Tonnen-Teil schmieden wollen, wie müsste denn dann die Form aussehen?
+Dann müssen Sie ja viele tausend Tonnen haben.
+Also ganz große Bauteile, da gibt es dann keine Werkstatt, keine Formen mehr, keine Gesenkformen.
+Hier sind wir relativ schlecht, große Fertigungstoleranzen.
+Und man muss dann noch nacharbeiten.
+Vielleicht nochmal fräsen oder schleifen.
+Hinterher.
+Hier kann es sein, dass die Toleranz viel besser ist.
+Vielleicht reicht es schon.
+Vielleicht müssen wir gar nicht nacharbeiten.
+Das wäre natürlich gut.
+Ein paar Bildchen dazu.
+Warum geht es nicht? Jetzt.
+Das ist Freiformspiel.
+Es gibt nur einen Schmied, der hier mit einer Maschine, die das Runterschneiden macht, und hier ist der Amboss, da legt man das Kleid drauf, und dann wird so lange geschlagen, bis wir der Meinung sind, passt.
+Es gibt aber nicht die eine Form. Es ist frei die Form, die man machen kann.
+Und Gesenkschmieden wäre dann der, hier eine ganz alte Maschine, wo man den Schlag immer auslöst, das Werkzeug ist so schwer, dass man das mit der Maschine halten muss,
+Und dann wird es halt hier reingelegt, rot blühend hier, jetzt liegt es, gedreht, jetzt liegt es richtig, jetzt fängt er wieder an zu schlagen, der rechts, zack, nochmal, nochmal, fährt er wieder ein bisschen vor.
+ist auch Freiformschmieden.
+Aber hier mit Maschine.
+Also das sind so die
+Varianten. Freiformschmieden
+und Gesenkschmieden.
+Gesenker, viel bessere Qualität,
+aber viel teurer, weil das Gesenker
+nicht mehr fertig ist.
+Das ist halt sehr auswendig.
+Das ist mein Powerpoint.
+Was ist los?
+Ich habe ja noch die Gefühle nicht.
+Dann mache ich noch ein Filmchen für heute.
+Wenn ich den hier...
+Ach, jetzt weiß ich, worüber ich gesprochen habe.
+Der hat keinen...
+Ich habe ja keinen Verbindung mehr.
+Dann sage ich doch was.
+Haben Sie auch noch was gesehen?
+Er ist 14.
+Ich glaube, er will Pause machen.
+Mittagspause.
+Ach, komm.
+Ich zeige Ihnen jetzt noch diesen Film.
+Jetzt, jetzt will er.
+Also, noch ein paar andere Filme.
+Was man auch sieht, hier nochmal so einraschend, das Gesenkformstehen.
+Unten sind die festen Gesenke, genau der richtigen Form, von oben auf.
+Und jetzt schlagen die beiden Ober- und Untergesenke so zusammen, bis hier das perfekte Bauch einsteht.
+Und witzig ist halt der Typ, der daneben steht und die ganze Zeit hier so entspannt.
+Was macht der?
+So eine Idee?
+Ja?
+Ja, genau. Ein Trennmittel Sand würde man jetzt weniger nehmen.
+Der würde sich in die Form eindrücken.
+Das muss ein Trennmittel sein, was verbrennt oder verdampft oder hinterher weg ist.
+Und das verhindert das Verschweißen.
+Der Kollege Vogelein würde Ihnen sagen, hohe Temperatur, hoher Druck, das nennen wir Schweißen.
+Sonst würde das Werkstück in der Form festgeschweißen werden.
+Genau. Und dass der das von Hand macht, ist natürlich jetzt der Wahnsinn. Normalerweise wird sowas automatisch gemacht.
+Wissen Sie was? Reicht. Als ersten Eindruck zum Schmieden soll das reichen.
+Wir machen das Schmieden nächstes Mal zu Ende. Danach das Tiefziehen, und dann sind wir durch mit allen Verfahren für dieses Semester.
+Soll ich Ihnen da nichts hochführen?
+Ja.
+Schön. Ich wünsche einen schönen Nachmittag und wir sehen uns dann nächste Woche.
+Das war's für heute.
+Was ist das denn? Das ist doch nicht die richtige Farbe.
+Das ist doch nicht so komisch.
+Das ist doch nicht so komisch.

@@ -1,0 +1,1132 @@
+Im Bereich dieser Formel-Tabelle, die wir für die einzelnen Prozessschritte brauchen werden.
+Wir haben uns das Thema des Prozessverlaufs angeguckt, das auf jeden Fall auch.
+Und all diese Dinge müssen jetzt zusammen im Bereich der Kreisprozesse, wo man sich fragt, okay, was ist denn eigentlich das Gesamtaus?
+Was haben wir beim letzten Mal im Besonderen gemacht? Wir haben nochmal den Ausflug gehabt durch das Nassland-Business.
+Und das heißt, dabei vor allem wichtig, meiner Meinung nach,
+das kann man mitgenommen haben, dass das die gleichen Prozesse sind.
+Es sieht halt im Diagramm anders aus, aufgrund von dem Lastwerkvergift.
+Das ist aber der einzige Grund.
+Die Erklärung nehmen Sie.
+Wenn man immer einfach an den Wassertopf denkt,
+Wassertopf auf dem Herd, die ganze Zeit werden wir reingepackt,
+und es wird kein bisschen wärmer.
+Und das ist genau das, was hier passiert.
+Ob das nun in dieser Diagrammform ist oder ob es im PV-Diagramm ist, das ist an der Stelle relativ egal.
+Wir werden im Bereich Nasskamp auf jeden Fall auch noch das CS-Diagramm angucken.
+Wie gesagt, im besten Fall kommen wir da auch heute schon hin.
+Genau, das Ganze haben wir auch angefangen mal ein bisschen zu rechnen.
+Hier mit der Aufgabe, wo man im Diagramm wirklich arbeiten muss.
+Das hier ist jetzt tatsächlich auch ein TS-Diagramm, wie wir es kennen, in Tabellen.
+Auch das haben wir uns angeschaut.
+Da ist nochmal Aufwärme dazu gekommen.
+Im besten Fall werde ich im nächsten Jahr noch eine Fertigung und ein bisschen Zeit haben,
+da auch die Rechnung nochmal nachzuziehen.
+Das sage ich nachher aber auch noch.
+Das war aber ja erstmal nur ein Prozessschritt.
+Wir sind dann weitergegangen in den Bereich Kreisprozesse.
+und an der Stelle haben wir zumindest einen Vergleichsprozess schon mal angeguckt,
+nämlich den rechtslaufenden Kanon, das ist der hier.
+Wie Sie da Ihre Eselsbrücke bauen, das rechtslaufende Wärmekraft und das rechtslaufende Wärmekraft ist mir komplett gleich.
+Aber machen Sie es mit dem Eselsbrücke oder schreiben Sie es einfach in Ihre Form zusammen.
+Das haben wir uns angeschaut, haben ein bisschen Beweisführung gemacht, haben uns angeguckt,
+was sehen wir denn eigentlich in dem Diagramm, wie können wir hier auch direkt ablesen,
+was ist eigentlich an der Invest, was wir in den Prozess reinstecken müssen,
+um unser Output rauszufügen, was aus dem Prozess rauskommt.
+Wir haben das Ganze auch nochmal hergeleitet, was den K0-Wirkungsgrad angeht
+und anhand von dieser Formel auch nochmal dargestellt,
+wie der K0-Wirkungsgrad da nicht verwirren ist.
+Es gibt natürlich auch einen Maschinenwirkungsgrad
+Und es gibt einen Prozesswirkungsgrad. Der Kanu-Wirkungsgrad ist immer so der des Vergleichs-Benchmark, weil es eben nur aus diesem Temperaturniveau besteht.
+Also nicht verwirren lassen, was machen wir eigentlich mit den 23 verschiedenen Wirkungsgraden.
+Der Kanu-Wirkungsgrad ist immer so ein bisschen des Vergleichs-Benchmarks. Das ist der Benchmark, das ist der Best of the Best.
+Zwischen zwei Temperaturen.
+Und die Frage ist, bei späteren Prozessen, wie nah kommen Prozesse an diesen Kameradrang?
+Gut, da waren wir stehen geblieben und ich möchte das mit Ihnen einfach gleich auch mal ins Eingemachte machen.
+Wir sind immer noch im Bereich Rechtslaufen, wir werden jetzt nicht verwirrt werden, später werden wir auch Linkslaufen machen.
+Und wenn solche Aufgabentypen kommen, bevor Sie anfangen zu rechnen, vielleicht immer einfach mal so ganz kurz, nicht lang, das kostet zu viel Zeit,
+aber mal ganz kurz zurückgehen und sagen, okay, was ist das eigentlich für ein Prozess?
+Und was bedeutet das, was das für ein Prozess ist?
+Wenn da ein Lärm- und Kraftprozess steht, dann heißt das, dass der immer rechtslaufend ist.
+Irgendwo auf ihre Form sammeln. Irgendwo in ihr Gedächtnis.
+Habe ich einfach zu häufig gesehen, dass dann die Leute anfangen irgendwas zu zeichnen und irgendwas zu bauen und zu tun.
+Und man sich denkt, verdamm ich nochmal, ihr seid doch auf dem richtigen Dampfer, nur ganz am Anfang schon mal falsch abgedruckt.
+Daher einfach ganz am Anfang mal ganz kurz überprüfen, was habe ich eigentlich für einen Prozess.
+Wenn es ein Gastropienprozess ist, ist das eigentlich immer in deiner Kraft.
+Rechtglauben kann auch relativ einfache Fragen überhaben.
+Das kann man auch direkt vorbeigucken.
+So, Aufgabe 1.
+Nein, das allererste, was wir machen.
+Wir lesen uns die Aufgabe durch.
+Ein fiktives Kraftwerk.
+Und ein Kraftwerk, das macht aus Wärmekraft.
+Daher auch gleich Wärmekraftmaschine.
+Arbeitet nach dem Kalumprozess
+zwischen den Temperaturen 10 Grad und 100 Grad,
+der 500 Grad Strömung.
+Und wir haben eine 40-Jahre-Strecke.
+Das heißt, wir haben auf jeden Fall schon mal einen Punkt.
+Und wir haben unsere beiden Randbedingungen für die Temperaturen.
+Jetzt ist die erste Frage relativ stumpf.
+Wir haben einen fiktiven Kanon-Prozess.
+Der Wirkungsgrad wird genauso gut sein wie der Kanon-Wirkungsgrad.
+Schreiben wir das ruhig nochmal hin.
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10 Grad, 12, 13, 14, 15 Grad, 15 Grad.
+Das sind 0,63% und das sind ungefähr 1,6%.
+Das ist, glaube ich, soweit alles klar.
+Zweiter Teil.
+Wie groß ist die abgegebene Leistung?
+Wie kriege ich das denn in der Geschichte?
+Das ist nur auswendig.
+Weiß ich dann sehr.
+Jetzt überlegen wir ganz kurz, einmal systematisch, was wir für eine Maschine haben.
+Wir haben hier einen Prozess.
+In den Prozess geht ein Wärmestrom rein.
+Es geht ein Wärmestrom aus und es geht eine Leistung aus.
+Jetzt ist die Frage, wie groß ist die Leistung?
+Und das ist nicht kompliziert, das ist ziemlich nah dran.
+Genau.
+Was ist der Wirkungsgrad?
+Der Wirkungsgrad ist Erfolg zu einem, also ein 100 Return zu Invest.
+Dann muss man verstehen, dass die Ärzte immer Nutzen zu Einsatz haben.
+Und das brauchen Sie sich jetzt nicht weiter irgendwo zu merken, nur vom Verhältnis her.
+Wenn wir das haben, dann ist es natürlich 0,63 mal das, was wir reingesteckt haben,
+ist dann das, was wir rausführen.
+Heißt das, dass 0,63 mal 100 Megawatt
+Und ja, das kann man jetzt auch noch genau in den Nachkommastellen machen.
+Also, wenn ich, habe ich bezüglich Nachkommastellen schon was gesagt?
+Außer in Richtung Klausuren?
+Also, wir sagen eigentlich immer, nehmt vier Nachkommastellen.
+Ich bin da nicht heiliger als der Papst, weil manchmal sind vier Nachkommastellen auf der Höhe.
+Mir geht es darum, dass Sie ein Verständnis dafür haben, von was reden wir überhaupt.
+Wenn ich von Megawatt spreche, dann sind 3 Nachkommastellen durchaus relevant, weil die immer noch im Bereich von 4-4-8 sind.
+Wenn ich von Gigawatt spreche, dann sind die so. Wenn ich von Watt spreche, dann reichen die wahrscheinlich 2.
+Für Sie als Benchmark, nehmen Sie die 4, dann sind sie auf jeden Fall safe.
+Wenn ich von Zahlen rede, wo es um Watt und Mikropaskal geht, dann brauche ich auch diese Einheit.
+Das ist hoffentlich soweit klar.
+Macht es für Sie jetzt vielleicht nicht einfacher, insofern als Regel, wenn Sie die 54 haben,
+Gut. Nächste Frage. Wie groß ist der abzuführende Wärmestrom?
+Das ist jetzt auch relativ selbstverständlich. Das bleibt mir noch, wenn wir uns das mal angucken.
+Ja. Das ist ein bisschen schwer. Von 100 zu 163 ab.
+Also, jetzt wird es ein bisschen kritisch.
+Und die abgegebene Leistung soll 2% gesteigert werden.
+Und die Frage ist, wie viel mehr Währung muss ich dafür einpacken?
+Im Verständnis, was heißt das für uns, dass ich eigentlich viele Leistungen da erhöhe?
+Das ist der Titel.
+nicht mehr die 63 Prozent, sondern die 60,6.
+Wie kommen wir da noch hin?
+Zu viel und im Wärmesprung mehr.
+Ich meine, der Wirkungskraft bleibt ja gleich, weil ja die Temperaturen gleich bleiben.
+Die Konturen bleiben gleich, also bleibt der Luftholzgrad auch gleich, egal wie viel hier rein- oder rauskommt.
+Das heißt, der Ziel für die Lernstrecke ist,
+der Ziel für die Lernstrecke ist,
+das sind mal 100, das sind mal 100.
+Ganz kurz auf die Rechnung.
+Natürlich ist dieser Schritt unnötig, das extra auszurechnen.
+Ich mache das Ganze vielleicht ein bisschen übersichtlich, aber das braucht es nicht.
+Das heißt, jeder von Ihnen, der mir schreibt, wenn der Wirkungsgrad gleich bleibt und ich will 100% Leistung haben,
+102% Leistung und natürlich 102% Inlet rein, also das würde mir komplett reichen.
+Darum sage ich das, weil ich manchmal hier auf der Rechnung mehr mache, als eigentlich notwendig ist.
+Weil ich manchmal hier ein bisschen mehr erklären will, als eigentlich notwendig ist.
+Das da. Wenn das einleuchtend ist für alle, reichen wir das komplett.
+Gut. Jetzt wird es interessant.
+Wie ist Theta 2 zu erhöhen, um diese 2% Leistungssteigerung zu kriegen?
+Jetzt dreht sich es auf einmal um den Wirkungsgrad.
+Das können wir aber relativ einfach lösen, indem wir uns das Ding angucken.
+der Wirkungsgradstrich
+auch mit
+der Warmstrich
+ist ja da nichts anderes
+Entschuldigung
+das ist um meinen Kopf
+zu gehen
+530 Grad Celsius.
+Einschätzende Frage, was ist das für ein Aufgabentyp?
+Das sind Teilaufgaben.
+Thermodynamik, ich habe gesagt, wie ich es mache.
+Ich habe im Grunde Fragen, die rein verständlich sind, Fragen, die kleine Rechnungen beinhalten.
+Vielleicht einzelne davon wären im Lügebereich.
+Ansonsten, von denen das dasteht, es wäre eine Teilaufgabe von den größten Technikern.
+Einfach nur so zum Gefühl, dass wir ein bisschen wissen, wir wollen ja im Januar, glaube ich,
+ist schon angekündigt, ne, Probe-Klausur, dass wir einfach mal ein bisschen Testpallons starten,
+auch für die, dass wir ein bisschen wissen, wo da die Reise geht.
+Das ist keine vollständige Rechenaufgabe in der Klausur, dafür ist es einfach zu kurz.
+Aber es kann halt sein, dass Teile davon in einer Rechenaufgabe eingesetzt sind oder Teile davon in diesem Mini-Rechenteil.
+Weil ich meine, das da auszurechnen, ja, das ist Teil von genau diesem kleinen Rechenteil.
+Gut, Fragen?
+Nein.
+Kleiner Funfact, ich war gestern auf der Exkursion, da habe ich gedacht, irgendwie habe ich noch
+nicht genug gelesen.
+Da sagt dann die ganze Truppe und der Moderator hat Fragen gestellt und ich habe gedacht,
+Ich hätte hier noch eine Aufgabe, die vom Inhalt her relativ ähnlich ist.
+Relativ ähnlich, wir haben wieder einen Wärmekraftprozess, wir haben unterschiedliche Temperaturen,
+wir haben unterschiedliche Leistungen, die rein und raus gehen,
+hier ist es jetzt eine spezifische Wärme, Massestrom ausrechnen, das sind dann so kleine Fragen,
+Nehmen Sie sich die ruhig vor, dann ist darüber klar, dass das kleine Verständnisgründer sind.
+Wie hantiere ich zwischen spezifischen Größen und absoluten Größen?
+Wie hantiere ich mit Wirkungsgrad und Nutzen und Ansatz?
+Das sind Fragen, die tatsächlich dann so ein bisschen aus dem Effekt einfach beantwortet werden sollten und dürfen.
+Hier genauso, interessante Frage, da brauchen wir mal ein bisschen nur die eigentliche Effizienz der Modellfirmen, die dazu kommt.
+Wie würde ich, je nachdem wie weit wir kommen, ist das wahrscheinlich etwas, was wir nächste Woche noch unterbringen können.
+Müssen wir mal schauen. Ich werde jetzt erstmal ein bisschen noch auf Inhalt gucken, dass wir soweit durchkommen, weil das war mein Ziel,
+dass ich wirklich in diesem Jahr mit Ihnen auch den Inhalt einer Kompetenz mitnehmen kann.
+So, jetzt haben wir bisher vom Kano-Prozess gesprochen.
+Ich will aber gleich schon einen Schritt weiter gehen.
+Weil das kann man jetzt trennen und sagen, ja, das ist eigentlich der Kano-Prozess.
+Und wir könnten die einzelnen Prozesse sukzessive durchgehen.
+Eigentlich geht es mir aber gar nicht darum.
+Denn das, was ich nachher von Ihnen verlangen könnte, wäre zum Beispiel, dass ich eine Prozessfolge beschreibe.
+Und dann wird dieser Prozess einfach mal durchgegriffen.
+Und genau das probieren wir jetzt mal.
+Wir sind immer noch recht drin, wir sind immer noch im Bereich Lärm- und Kraftprozess,
+klassischer Verbrenner, also gucken wir uns einfach mal eine Aufgabe an,
+in der so klassische Prozessbeschreibungen von Ihnen abgearbeitet werden sollen.
+Sie erinnern sich, Entschuldigung, an diese Verdichteraufgabe bei der Arbeit, die wir uns angeschaut haben.
+Genau das gleiche machen wir hier jetzt nochmal.
+Soll heißen, hier haben wir eine Beschreibung von 1 nach 2, eine Adiabat-Verdichtung.
+Adiabat muss sofort fehlen, was heißt Adiabat an der Stelle?
+Dann haben wir eine Wärmezufuhr, Adiabatenexpansion, Widerlisension und eine Isokurve Wärmeaktivität.
+Bisher haben wir beim letzten Mal die Warteprozesse, jetzt haben wir die Isokurve Prozesse.
+Wie gehen wir jetzt vor?
+Wir gehen uns erstmal weiter die Aufgaben stellen.
+Das ist erstens das Allerwichtigste.
+Denn, gleich im ersten Teil steht es, gezielen Sie den Prozess in einem PV und in einem PSV.
+Haben wir schon gemacht.
+Zweiter Teil.
+Berechnen Sie die fehlenden Zustandsgrößen hier in der Tabelle.
+bestimmen Sie die Zustandsänderung
+für alle Zustandsänderungen
+die übertragene Arbeit
+und dann nachher noch
+den thermischen Wirkungsgrad
+das ist nichts anderes als das, was wir eben schon gesehen haben
+auszuhalten, was von uns schon da ist
+fangen wir an
+und zwar, meiner Meinung nach
+richtige Herangehensweise, wir ziehen genau dieses Blatt aus
+beziehungsweise das Derivate davon
+und schauen uns an, in welchen Prozessen wir sprechen werden.
+Wir sprechen über den Korra-Prozess und den Zentropa-Prozess.
+Was wissen wir noch?
+Wir wissen, dass es ein Wärme-Kraft-Prozess ist, also sprechen wir.
+und wir wissen die Reihenfolge
+und im Grunde
+selbst wenn ich gelinde gesagt
+überhaupt keine Ahnung davon habe
+wie eigentlich
+dieser Prozess technisch aussieht
+ohne überhaupt drüber nachzudenken
+bin ich meiner Meinung nach in der Lage
+mit der Beschreibung
+in welcher Reihenfolge muss ich welche Prozesse durchfahren
+und welche Prozesse sind es.
+Das ist diese Information
+und das ist das Rechtsbild.
+Kriege ich die Punkte aus Aufgabe A gesichert.
+Was steckt da nämlich eigentlich drin?
+Es steckt nicht mehr drin,
+aber ich habe es mir überlegt.
+Okay, wir haben,
+ich habe es hier oben nochmal eingeleitet,
+von 1 nach 2,
+bei Isentropeverdichtung, Volumen wird weniger in einem PV-Diagramm.
+Hier, aha, das ist also der Verlauf von dem Prozess.
+Also von einem Punkt 1 zu einem Punkt 2.
+Und wie gesagt, die Steigung, wenn ich unterschiedliche Steigungen habe,
+bei I-Zentrum und I-Zentrum, nur als Beispiel,
+dann muss ich nur den Unterschied in der Steigung sehen.
+Ich bin im ersten Prozessschritt, weiß ich, es ist eine Verdichtung, das heißt, mein Volumen wird weniger und mein Druck wird irgendwie mehr.
+Und dann gucke ich einfach nur hier rein und sehe, oh, da oben, was da, den Bauch.
+Alles klar. Gute Sache.
+Wie sieht Isentrop im Bereich des TS-Diagramms aus?
+Einfach nur ein Strich.
+Jetzt die Frage, in welcher Richtung geht der Strich?
+Im TS-Diagramm.
+Geht er von unten nach oben oder von unten nach unten?
+Was passiert bei einer Verdichtung mit dem Medium?
+Wird das kälter oder wird das wärmer?
+Lumpen zusammentreten.
+Kälter?
+Oder?
+Ja, nein, ja.
+Wird wärmer.
+Bei Verdichtung wird wärmer.
+So, jetzt zwei Informationen.
+Rechts dringend und wärmer.
+Das heißt, ich muss meinen ersten Prozess schritten.
+Dort. Das war jetzt gerade leider kühler. Nicht so schlimm. Okay. Nächster. Isochore Wärmetüftung.
+Isochore Wärmetüftung, das wird wahrscheinlich mit meiner Temperatur verhindert. Unwahrscheinlich, dass die geringer wird.
+Aber wir wissen es nicht genau. Da sind wir schon mal auf die Nase mitgefallen. Wärmetüftung heißt nicht unbedingt, dass es wärmer werden muss.
+Aber das heißt in aller Regel nicht, dass es kälter wird.
+Gucken wir mal in unser TS-Diagramm rein.
+TS-Diagramm für Isochor.
+Das ist das hier.
+Okay.
+Dann geht das Ganze wohl, damit die Temperatur eben nicht nach unten geht.
+Der Nixer.
+Haben also irgendwie was.
+Isokoraprozessschritt
+in einem PV-Diagramm.
+Was passiert bei Isokoraprozessschritt
+in einer Lune?
+Es gab aber trotzdem
+eine Isokoraprozessschritt
+in Wärmezufuhr.
+Wir sind also hier im Bereich
+von einer Geraden.
+Selbst wenn wir jetzt noch nicht mitgenommen hätten,
+es ist rechtsdrehend,
+würden Sie trotzdem sehen,
+okay, wenn ich Wärmezufuhr
+dann wird mein Druck leer steigen als 80, wenn ich das Volumen durchbringe.
+Das sind also dritte Polygons, das sind so ganz logische Dinger.
+Das passiert also mit dem Prozess, der wird in diese Richtung gehen.
+So, und jetzt sind wir, dadurch, dass das ein relativ einfacher Prozess ist,
+weil 3 nach 4 und 4 nach 1 sind im Grunde nur die Umkehr von dem, was wir schon hatten.
+Wir können das Ganze, ich muss es jetzt nicht noch mal machen, weil der Gedankengedank ist immer das Gleiche.
+Jetzt haben wir eine Expansion Isentrop, was ist eine Expansion Isentrop?
+Das ist 20, das heißt die Temperatur wird gesichert eher weniger als mehr.
+Sieht also sowieso aus.
+die Zentrope Expansion, das ist der Verlauf, nur so qualitativ. Expansion heißt auch, dass sich etwas
+entspannt. Das heißt, wenn überhaupt etwas mit einem Volumen passiert, dann wird es eher mehr auf
+Datenschutz. Das ist einfach nur noch mal das Gleiche durch das. Und dann kommt noch der letzte
+Schritt. Iso-Kurve, Wärmeabfuhr. Im PV-Diagramm hier relativ schummt. Da sind wir in dieser Richtung unterwegs.
+Und auch da nochmal, was heißt an der Stelle Wärmeabfuhr? Es wird wahrscheinlich nicht noch wärmer, sondern eher kälter.
+Und wir nehmen den Iso-Kurvenprozess und der sieht so aus.
+Das heißt, wir sprechen hier im Grunde von, ohne ein bisschen die Rechnung zu haben,
+nur mal kurz nachgucken, nur mal die Aufgabenstellung richtig rechnen, sprechen wir irgendwas zwischen
+drei und fünf Punkten, die einfach so mal mit eingeführt werden.
+Und das sollten Sie einfach tun.
+Weil verrechnen kann man nicht immer.
+Hier ist es echt viel, ist Logik.
+Und verstehen, von wem das dann passiert.
+Deswegen freut sich da auch sofort jemand.
+Gut.
+Zweiter Teil.
+Wir sollten hier für die Dinger da unten,
+sollten wir alle ausrechnen.
+Jetzt ist es ein bisschen wertvollartig,
+dass das eigentlich tatsächlich,
+um hier durchzukommen,
+Und durch so einen Aufgabentypen ist zu identifizieren, welche Informationen habe ich schon.
+Und dabei hilft so ein Diagramm natürlich enorm.
+Weil selbst wenn ich unser Volumen von Schritt 3 vielleicht nicht habe,
+wenn ich das Volumen von Schritt 3 nicht habe,
+aber ich habe das Volumen von Schritt 2,
+dann sehe ich in meinem Diagramm, dass es das gleiche ist.
+Und genau diese einfachen Dinger, das ist dann der Transfer, den wir machen müssen.
+Gucken Sie hier rein und sehen Sie, auch wenn das für den bestimmten Prozessschritt, für den bestimmten Zustand vielleicht nicht gegeben ist,
+ich habe es im Zustand, in einem anderen Zustand genauso.
+Also da auch Verständnis für, was ist eigentlich so wahr, was ist eigentlich so vor.
+Und ob Sie nun von der 2 zu der 3 oder von der 3 zu der 2 rechnen müssen, das ergibt sich aus der Aufgabe.
+So, und genau das machen wir jetzt einfach mal.
+Wir haben einen Isentropenprozess, um irgendwann durchzurechnen, brauchen wir sowieso erstmal Kappa.
+Das war ja der schöne Unterlegung.
+So, Kappa kennen wir, er gibt sich aus CP und CV.
+dann wissen wir, wie CP und CV sich miteinander verhalten
+und können das über die Gastkontakte aufschreiben.
+Passt soweit, Kappa 1,4.
+Das ist durchaus realistisch.
+Wenn Sie Kappa von 30 rauskriegen, dann passt da eventuell noch was nicht.
+Gut, was haben wir jetzt?
+Wir haben unseren Zustand, Druck haben wir, Temperatur haben wir, wir haben Luft, Luft ist gerade ein Gas, wir können also V1 relativ schnell aus der idealen Gasfläche machen.
+Das Schöne ist, wenn wir V2 haben, äh, V1 haben, dann haben wir natürlich V2 auch.
+V1.
+Wie komme ich auf V2?
+Das ist einfach eine Frage.
+Habe ich eben schon mal antwortet.
+Genau.
+V3 ist gegeben.
+Könnt ihr jetzt ein bisschen kriegiger werden bei P?
+P2 berechnen.
+Sehen wir?
+Was haben wir für Informationen?
+Wir haben den Druck 3.
+Er könnte uns helfen.
+Wir haben den Druck 1.
+Er könnte uns helfen, wenn wir die Zentropenexponenten und gehen dadurch über P1, über die unterschiedlichen,
+genau, dadurch, dass wir jetzt dann auch die Volumina haben, können wir das einfach aushalten.
+Ja, wir kommen von hier unten, haben die Volumina uns schon gestimmt.
+Jetzt fehlt uns hier ja
+im Zustand 2 auch schon nur noch
+eine Variante.
+Die können wir also auch
+relativ leicht ausholen.
+Oder wir gehen über einen anderen
+Prozessstück, das ist das, was ich jetzt gemacht habe.
+Ich habe es mir
+berechnet aus den
+Drücken.
+Also über diese Formel.
+Ich komme noch auf
+648.
+Das kommt so langsam durch.
+Die Klinge macht sich langsam selber voll.
+Meistens sind die ersten zwei, die am trickiesten sind,
+und der Rest fühlt sich dann so von alleine, bei solchen Aufgaben.
+T3 holen wir uns jetzt
+wirklich einfach wieder aus der
+Glasgleichung raus
+jetzt die Frage
+spezifische Volumen
+von 4, wo kriegen wir das an? Wo kriegen wir das an? Einfach zu näher.
+Dann gucken wir hier rein. Wo steckt V4 schon drin? Da ist es schon bekannt.
+Ja, genau. Da haben wir hier alles schon vorhanden.
+Und ja, Sie können es sich auch ausrechnen.
+Was ich hin will, ist, dass Sie das sehen.
+Das ist nachher ein bisschen auch vielleicht eine Mischung aus Glück und Geschick, aber Geschick ist auf jeden Fall drin.
+Das ist ein Punkt, wo 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.
+Fragen dazu?
+Das wäre dann eine ganze Aufgabe, oder?
+Die ganze Aufgabe, das ist durchaus so etwas.
+Vielleicht auch da im Wort zu, das hätte ich auch ein bisschen die Angst zu nehmen, ist natürlich blöd.
+Wenn Sie hier nicht weiterkommen und da nicht weiterkommen, können Sie spätestens hier nicht mehr weiterrechnen.
+Ich versuche, alle notwendigen Zwischenergebnisse immer mit Ersatzwerten anzugehen.
+Das heißt, auch da habe ich freundlich genug erlebt,
+Die Leute kommen mit der ersten Aufgabe nicht weiter und schmeißen den ganzen Rest.
+Also du kommst bei A nicht durch.
+Oder A kommst du durch, weil das ist ja noch ohne Ende.
+Und bei B, der andere, ist es in dem Fall nicht, ich komme nicht mehr weiter.
+Versuche eigentlich immer, zwischen Ergebnissen so zu gehen, dass man nicht,
+also das Erste, was so entsteht, wie es gibt eine Teilaufgabe mit, keine Ahnung, 15 Punkten
+und man muss dann nicht komplett durchhangeln.
+Ich würde sowas schon ein bisschen versuchen zu strukturieren, dass das immer gleich große, wenn es mal Punktproppen sind.
+Und nach den Punktproppen würde ich einfach auch immer sagen, das sind die Ergebnisse, die Sie nutzen können wir ein bisschen gut.
+Dass Sie zumindest bei den weiteren Teilaufgaben irgendwie durchkommen.
+Nutzen Sie das.
+Ja, nutzen Sie das.
+Es geht immer mal, dass man irgendwo übermachtlich weiterkommt.
+Sie werden in dieser Klausur leider nicht den Preis haben, da groß drüber nachzudenken.
+Hakenwinkel mit Teilaufgaben.
+Ja? Gut.
+Dann machen wir weiter, alle weiteren spezifischen Arbeiten.
+Gut, hier können wir im Grunde ja auch relativ einfach in die Formel sammeln und gucken.
+Was haben wir? Wir brauchen erst einmal CP.
+Tatsächlich um die Arbeiten, CP, NPAP, etc. müssen wir ja irgendwie ausrechnen.
+Es steht ja alles schön in der Tabelle, steht das alles drin,
+wie wir die spezifischen Energien und die spezifischen Arbeiten und die spezifischen Wärme berechnen.
+Berechnen wir also erstmal CP.
+1,004 Joule pro Kilogramm Kelvin.
+Vielen Dank.
+46,7 Kilojoule pro Kilogramm, Isochor, da haben wir Vp, das Schöne ist, wir sehen hier auch wieder, wie es herkommt, das kommt direkt aus dem Integral,
+Das können wir dann auf dem Gas zusammenheben, an die KVP, und das andere ist im Mobilisierungsplatz hier, steckt ja auch im TDS drin.
+So, also, jetzt haben wir das schon mal gelöst, dann lösen wir die anderen beiden auch noch.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Ergibt sich aber auch von selbst.
+Was ist der Wirkungsgrad bzw. der thermische Wirkungsgrad?
+Das ist das, was ich an thermischer Leistung zurfüge und das, was ich nachher rausbekomme.
+Kennen wir alle schon?
+Hier einfach nochmal, ob ich die Wirtschaft im Prozess nutzen möchte.
+Nein, wir können nicht den Kanon-Wirkungsgrad annehmen,
+weil sich der Kanon-Wirkungsgrad ja direkt auch aus den Temperaturen ergeben würde.
+Thermischer Wirkungsgrad, Maschinenwirkungsgrad, Prozesswirkungsgrad
+ist in aller Regel etwas anderes als der idealisierte Vergleichsprozess-Kanonwirkungsgrad.
+Das nochmal zum Entdecken.
+Kanonwirkungsgrad, besser geht nicht.
+In aller Regel.
+Außer ich verrechne nicht, dann geht es immer besser.
+Aber wir sind hier nicht bei Bundesministerium, entschuldigt.
+Maschinenwirkungsgrad, Prozesswirkungsgrad,
+da sind Sie immer richtig aufgestellt, wenn Sie sich überlegen,
+wie kommt denn eigentlich ein Wirkungsgrad zustande?
+Ist das etwas, was ich in den Prozess reinstecke?
+Ist das etwas, was ich als Nutzen aus dem Prozess raushole?
+Ich habe es beim letzten Mal schon gesagt, Thema Wärmepumpe.
+Wie kann das sein, dass etwas einen Wirkungsgrad hat?
+Von Größe 1.
+Von einem Teil von dem Kuh zu.
+Also die Wärme, die ich von draußen kriege.
+Die Energie, die in meiner Luft schon drin ist.
+Die wird einfach ausgeklammert.
+Das ist der Grund, weswegen wir da auch andere Wirkungsgraden haben, die größer als 1 sein können.
+Also, der Ingenieur würde sagen, das ist ja beschissen, aber sowas würde ich nicht sagen.
+Gut, wenn wir uns die mal angucken, was ist denn das, was wir haben?
+Und dann nutzen wir es ja nichts anderes, als den Betrag aller Summen zu Q2, Q3.
+Das wissen wir ja, wo das Ganze herkommt.
+Wir werden die hier reinstecken.
+Und das ist nichts anderes, die Summe hier, haben wir da oben ja schon alle ausgerechnet.
+Also der Betrag von minus 250,5 zu, wie kriege ich jetzt diese Wärme raus, das kann ich
+Das sind ungefähr 54 Prozent.
+Wie ergibt sich die Motorleistung, naja, wenn ich jetzt schon die Nutzarbeit, die ich rauskriege,
+Also das ist ja ein negatives Vorzeichen, heißt an der Stelle ja, dass ich das aus der Maschine rauskriege.
+Wenn ich schon weiß, was da rumkommt, kann ich das relativ einfach mit dem Massensprung malen.
+Und dann habe ich aus meiner spezifischen Arbeit meine absolute Arbeit.
+Und minus 3,75,1 Kilo.
+Und jetzt an der Stelle noch so eine Einschätzung, wie wir, natürlich ist die Angabe eines Minus mathematisch und auch in unserem, wie wir uns darauf geeinigt haben, wie wir Systeme verstehen, richtig.
+Auch da bin ich dann nicht heiliger als der Brauchst, wenn Sie sagen, naja, das ist halt die Leistung, die der Motor abgibt, welche Leistung hat der Motor, und Sie lassen da das Minus weg.
+Es gibt bestimmt Kollegen, die das dann als falsch erachten, und ich finde das ziemlich viel wichtig, und würde dann auch den entsprechenden Punkt aufzeigen.
+Gut, Fragen dazu?
+Eine Frage hatten wir schon. Ja, das passt uns durchaus. Umfang, Kinalwachen.
+Ein kleines Ding hatte ich, glaube ich, noch. Das habe ich aber schon eingeblendet.
+Ja, gut. Wir schauen uns das jetzt mal an, wie das denn dann wirklich eigentlich am Prozess aussehen würde.
+Das ist jetzt alles schön mit diesem Diagramm und tollen Formelchen und Rächelchen, aber was hat das denn jetzt wirklich mit dem Motor zu tun?
+Wir schauen uns jetzt an, wie diese Übersetzung dann auch ins echte Leben fangen kann.
+Und was haben wir an den Takten?
+Wir haben im Grunde, hier wird ausgestoßen, hier wird angesaugt.
+Das ist für das Erste noch, dass wir drinstehen, wenn wir nicht mehr drinstehen.
+In dem Moment, was sind denn unsere Prozesse?
+Eins nach zwei, hatten wir Verdichtung.
+Zwei nach drei, hatten wir die Lernaktion.
+2 nach 4 hatten wir die Expansion und 4 nach 1 hatten wir die Wärmeabbruchung.
+Das wäre das, was wir haben.
+Jetzt fragen Sie, wie kann ich das auf den Motor übersetzen?
+Ich vermute, dass der erste Punkt, 1 nach 2, wie beschreibe ich das für den Motor?
+Das ist bei mir die selbe Frage, oder?
+Leute, schiebt rein.
+Ja, dann wird verlegt.
+Eine andere Frage.
+Wie passiert jetzt die Wärmezugrunde?
+Das Zünden und natürlich die Explosion eigentlich.
+Das Zünden selber ist noch nicht die Wärmezufuhr, sondern das Zünden ist der Trigger, um die Wärmezufuhr im Gemisch zu entfalten.
+Kleine Anekdote dabei, richtig, beim Diesel, selbst Zünder, hat man diesen Trigger nicht.
+Hier ist es ja dann auch eine isochore Wärmezufuhr, also ob ich in den oberen Todpunkt oder um den oberen Todpunkt rum,
+da will ich keinen Motoren kennen, wird die Zündung angesetzt.
+Dann bleibt das Volumen gleich.
+Die Zündung im Diesel, die passiert tatsächlich noch während der Volumenentdeckung.
+Deswegen ist der Diesel kein Isokoraprozess an der Stelle, sondern ein Isobaraprozess.
+Aber das ist ein anderer Punkt.
+Ich habe Ihnen da ja letztes Mal Videos mitgegeben, einfach mal reinklicken.
+Mal so vergleichen.
+Und ja, das kostet ein bisschen Zeit.
+Aber hey, es ist fast die gleiche Durisung wie bei Instagram.
+Und man wird wissen.
+Ah, fies, ich weiß.
+Gut, jetzt darf mein Sohn nicht hören.
+Papa hat Ischgang, haben wir gesagt.
+Entschuldigung. Genau, wir haben Zufall, das ist eine konditionierte Zündung, und dann die Expansion.
+Jetzt die Frage, was ist die Expansion?
+Ich fand, wir haben ein Volumen, das größer ist, das heißt, in dem Moment, wo der Fläuer rausstiegt.
+Hört die Expansion dann irgendwann auf?
+Also er schiebt ja auch irgendwann wieder ein. Na klar, hört die auf.
+Also die reine Expansion ist, dass der Motor ausschiebt.
+Jetzt die Frage, woran, an welchem Prozess messe ich die Arbeit, die mein Motor leistet?
+Dann zeigen wir mal den Prozess auch nochmal ein.
+Eins, nach zwei.
+Ich füße bestimmt nicht genau so hin, aber ich führe die Gänge.
+Vielen Dank.
+kann. Im PV-Diagramm kann ich es am besten ablesen, wo ist die meiste Arbeit, die getan
+wird, im Integral von 3 nach 4. Das ist genau der Punkt. Das ist das, was ich nachher nutzen
+habe. Wir werden nachher so ein kleines Quiz einstreuen, mit was ist eigentlich Nutzen,
+bei welchem Prozess und was ist unser Aufwand. Wie gesagt, beim Motor ist es relativ simpel
+eigentlich. Nach der Explosion schiebt er voll raus und das ist die Arbeit, die ich
+auskriegen. Das ist das, was ich will, für diese relativ einfache Wärmezukunft. So, und jetzt das
+Das Thema Wärmeabfuhr. Wie passiert denn jetzt die Wärmeabfuhr?
+Die Motorenkerne. Was passiert genau am nächsten Schritt?
+Das Benzin öffnet sich. Benzin geht auf und die Leute gehen wieder raus.
+Was passiert zu dem warmen Volumen, wenn es einfach raus ist?
+Dann kommt es weg. Dann ist die Wärme auf.
+Das ist dann die Wärmeabfuhr.
+Interessanter Aspekt bei der Stelle, nur so mal zum Nachdenken, wir haben hier vier Prozessschritte und wir sprechen ja klassischerweise von vier Taktmotoren.
+Die vier Takte, die Sie sonst sehen, sind ein bisschen anders. Die sind halt Einsaugen, Verdichten, Arbeiten und Ausschieben. Das sind Eigentlichen.
+Das heißt, zwischen der 4 und der 1 passiert im Motor eigentlich noch was anderes.
+Nämlich das, was hier vorne auch drin steht, das eigentlich wieder neu anbaut, das dann verrichtet werden kann.
+Das heißt, wenn man den vollständig aufmalen würde, müsste man tatsächlich...
+Ich mache es mal einfach als real.
+oder ähnlich wie real, dann sieht das Ganze eher so aus.
+Und dann schieben wir im Grunde wieder zum Einzelnen.
+Ein Grund, damit man das Ganze ein bisschen auf der Idealität weist, ist die technische Physik.
+Aber vieles von der technischen Physik ist tatsächlich einfach dann auch im Kraftmaschinenbereich, überall, ich meine, das ist Maschinenbau, ist dann wirklich wieder zu sehen.
+Und was passiert hier? Hier wird im Grunde das Volumen einmal wieder rausgeguckt, wieder reingezogen, nichts anderes.
+Gut.
+Klar, natürlich.
+Okay.
+Vorschlag, jetzt kleine Pause, weil das auch als nächstes passiert, ist, dass wir uns im Grunde den Prozess verbringen.
+Und bisher aus Wärme-Kraft.
+Nächster Schritt aus Kraft-Wärme.
+Ich spreche gerade noch von einer Form, die nicht regelmäßig ist.
+Du lüftst 10 nach.
+Jetzt gucken wir auf den nächsten, nämlich linkslaufend.
+Auch hier, gleiches Vorgehen.
+Wir haben uns den Vergleichsprozess angeguckt, haben aber gleich schon ein bisschen weiter geguckt und gesagt,
+okay, das ist der Kanut, das ist die Linie, dann machen wir den Prozess aus.
+Werden wir hier genauso machen, nur alles in der Kurzpassung, weil wo jetzt Wärme hin und her,
+das haben wir jetzt ein paar Mal gemacht, wir vergleichen die Richtungen von dem, was wir schon wissen.
+Wie sieht dann der Prozess wirklich aus?
+Wie ist das Ganze im TS-Digagramm da zu sehen?
+bilden, wie ist das ganze PV-Diagramm abzudelten und was heißt das eigentlich für so die
+Fragestellung, wie was ist eigentlich das, was wir in den Prozess reinbringen und was
+ist das, was wir aus dem Prozess rausbringen. Heißt, hier sprechen wir jetzt von einer
+Kraft-Wärmemaschine. Wie gesagt, das ist mir nachher, wir sind uns total egal, wie
+sie das für sich formulieren. Aber dass sie Geschwindigkeit brauchen werden im Verständnis
+für was ist das für eine Maschine und wie umdreht sich das Ding, das ist so gut wie
+möglich. So, schauen wir uns das Ganze also an. Gleiche Prozessfolge, das ist wieder der
+Kanon-Prozess, nein nicht die gleiche Prozessfolge, gleiches Bild. Aber wir laufen jetzt natürlich
+andersrum durch. Vorhin sind wir einmal mit dem Prozeigegang und jetzt auch mit dem Prozeigegang.
+Schauen wir uns die Sachen an von 1 nach 2, isotherme Expansion, das ist von da nach da.
+Also wir haben erstmal etwas, was sich entspannt. Was passiert an der Stelle?
+etwas, was ich
+in den Prozess hineingehe.
+Wie habe ich es denn mal mitgemacht?
+Geben Sie mir doch mal die Punktzahl,
+dass ich da wirklich gleich fahre.
+Das macht ja nicht mehr Sinn.
+Genau, in den Prozess rein, aus dem Prozess raus.
+Also etwas, was ich in den Prozess reinbringe, ist natürlich irgendwo dann für den Prozess selber.
+Das hat man beim letzten Mal auch rot dargestellt.
+Isotherme Expansion heißt, ich bringe Lärm in den Reifen.
+Ich bringe dann meine Stelle Arbeit aus.
+Das hat man beim letzten Mal auch schon gesehen.
+Wir machen das hier gleich parallel.
+Hier sehen wir schon, da passiert dann ein Entropie-Diagramm, ein TS-Diagramm.
+Mit der Entrückung gar nichts.
+Das hat man beim letzten Mal schon gesehen, was das heißt.
+Das heißt, man möchte hier auch noch Arbeit auf, durch die Konfession.
+Auf dem Wohntemperaturniveau, genau in der Gegend von den Linzgräben,
+haben wir jetzt das, was in dem Prozess natürlich weiter reinläuft, immer noch Arbeit.
+Vielen Dank.
+Jetzt ist das wie gesagt eine Kraft-Wärme-Maschine.
+Das heißt, ich bringe Kraft auf und ich gewinne Wärme.
+Das heißt, wenn wir uns das hier in unserem TS-Diagramm angucken, da geht es ja nachher um Wärme.
+Der Aufwand, den wir haben, ist das, was wir in Wärme reinstecken.
+Und natürlich die Arbeit, die wir brauchen, um aufzuwenden.
+Und nachher der Nutzen ist das, was wir im TS-Diagramm in dieser Höhe von da nachfragen.
+Das heißt, wenn man sich das Ganze mal wirklich im Aufwand und Nutzen, wie gesagt, nur für Wärme an der Stelle,
+wenn man versucht zu skizzieren, sieht das Ganze so aus.
+Und Nutzen, den wir haben, das ist die Möglichkeit.
+Ich denke, dass wir brauchen, weil das ist natürlich eine andere Netzmaschine.
+Und das ist alles idealisierte Prozesse.
+Wir wissen exakt, dass vollständig Adiabat nicht existiert, weil ich immer, ich kenne das auch bei den Messern,
+dass wir immer irgendwo eine Adiabat haben, wobei ich auch eine Adiabat habe.
+Dann sind wir eingelassen.
+Allerdings mit einem Kraft-Wärme-Prozess erleben wir,
+es ist ja gut, dass wir mit dieser übrigbleibenden Kraft, die aus dem Prozess rausgeht,
+da machen wir im Allerwege weiter.
+Was nicht ganz stimmt, es kommt ein bisschen darauf an, wie diese Prozessführung ist,
+werden wir uns das nächste Mal noch einmal genauer angucken können,
+zumindest an meiner Teilaufgabe.
+Beim Wärmekraftprozess ist es ja die Restwärme, die abgeführt wird, im Grunde als Abgabe.
+Hier ist es eine Restwärme und eine Rest-A-Wärme.
+Wärme wird eigentlich nicht wirklich abgeführt, sondern Wärme ist ja das, was ich als Nutzung abführe.
+Die Arbeit, die dann übrig bleibt, um anzunutzen.
+sprechen. Damit wird meistens nichts gemacht. Was heißt das meistens? Folgendes. Solche
+Prozesse kennen Sie ja alle, zum Beispiel aus dem Kühlschrank. Im Kühlschrank wird
+tatsächlich mit der Arbeit, die entstehen könnte, da ist meistens ein Drosselventil
+drin. Wir haben Drosselventile auch bei einem Hessen-Modell durchgerechnet. Ein Drosselventil
+ist tatsächlich ein ziemlicher Vernichter, weil mit der Arbeit ist nichts mehr machbar.
+Anders ist das, wenn ich zum Beispiel ein Turbinenkraftwerk habe.
+Dann mache ich ja auch nichts anderes, als dass ich irgendwo in einer Turbine etwas entspanne.
+Das heißt, da gewinne ich eigentlich Arbeit.
+Diese Arbeit könnte ich natürlich in einem nachgelagerten Prozess nochmal nutzen.
+Da sind die Unterschiede.
+Das heißt, die Unterschiede sind nachher nicht Prozess, sondern die Unterschiede sind technische Ausführungen.
+Ja, aber grundsätzlich, das ist der Aufwand, das ist der Nutzen, das ist das, was man meistens an die Arbeit reinstecken muss.
+Gut.
+Wir haben alles andere, was diese Prozesse angeht, vorhin und in der letzten Stunde schon angeschaut.
+Ich könnte das jetzt noch 23 Mal runterreden, es ist aber exakt das Gleiche.
+Gucken Sie in dieser Programmvorstellung, mit dem Typen, der irgendwie an dem Hirn rumzieht, wie nachher diese Wärmeaktivität besiegt wird.
+Wie nachher die Wärme zuvor realisiert wird. Wie die Arbeitszugvorwertung wird. Das ist nachher die technische Ausführung.
+Da wir das sowieso Recht und Wärme gegen Netz vor allem vergleichbar anstellen, nämlich, was ist der Unterschied?
+Und auch das kann man meiner Meinung nach relativ gut symbolisieren, weil wir es schon gemacht haben.
+Wir haben für Wärme- und Kältemaschinen einen Aufwand, den wir treiben müssen.
+Das ist der Aufwand, den wir treiben müssen.
+Und der Nutzen, den wir dabei kriegen, ist ja tatsächlich, und da sind wir bei dieser Thematik mit dem Effizienten,
+mit dem Rückwirkungsgrad, es ist ja nicht nur das da oben, eigentlich haben wir jedenfalls eingebaut,
+denn das, was wir am Nutzen haben, ist ja das Alles.
+Das ist ja nicht das Delta-T von den 8 Grad draußen zu den 19 Grad drinnen, sondern die Nutzung in den 19 Grad.
+Das sind die 11, dann haben wir die 19. Das heißt, der Nutzung ist das Gesamte.
+Und tatsächlich bei den Arbeitsmaschinen ist es ähnlich anzusetzen,
+wobei natürlich auch der Nutzen ist, eigentlich in den PSDL-Kanal zu stehen zu haben,
+ohne dass man da die Parallelität darstellen kann.
+Was passiert beim Arbeitsprozess?
+Wir bringen Wärme auf ein hohes Temperaturniveau rein.
+Das ist also das, was wir in den Prozess reinsetzen.
+Das ist das, was wir in den Prozess einbringen, was wir aus dem Prozess rausholen.
+Wie gesagt, es ist nicht exklusiv genau der Nutzen, weil der Nutzen einer Arbeitsmaschine natürlich Arbeit ist.
+Aber von dem, was aus dem Prozess sieht, als übrig zu sehen ist, ist dann das, was auf den niedrigen Temperaturen passiert.
+Und das ist im Grunde das, was ich Ihnen so ein bisschen einprügeln will.
+Was heißt das eigentlich?
+Was wird da gemacht?
+Entsprechend von thermischen Maschinen.
+Das heißt ja Thermodynamik.
+Da einfach nochmal.
+Es benötigt Wärme auf hohem Temperaturniveau, da oben ist der relevante Punkt, und hier
+ist Verbrauch, Arbeit und Lieferwärme, heißt das, was da gemacht wird, das ist der Gewinn
+Und was da drin steckt, das ist das, was es braucht, um das Ganze zu funktionieren.
+Das wird erstmal extrem abstrakt. Wir werden, und gerade durchrechnen, mindestens noch zwei Aufgaben, vielleicht auch eher drei Aufgaben, wirklich gemeinsam rechnen, an einem konkreten Beispiel.
+Wo wir da noch mal ein bisschen mehr drauf eingehen werden.
+Wir werden das da rezitieren.
+Aber im Grunde geht es nachher darum.
+Wärmekraft, verschiedene Farben, Wärme, hohes Niveau, viel Wärme.
+Auf einem hohen Temperaturniveau, was dann jetzt funktioniert.
+Und man Arbeit rauskriegt.
+Hier wird die Arbeit genutzt, um ein hohes Temperaturniveau zu erreichen.
+Das ist mal ein Wärmefluss.
+Da sind wir genau bei dem Thema Wärmepumpe, hohes Temperaturniveau, was genutzt wird.
+Kältemaschine soll ja kalt machen.
+Da geht es also darum, dass das da unten auf einmal dann der Nutzen ist.
+Das, was dem Kühlschrank an Wärme entzogen wird, das ist das.
+Was so schräg an der Art ist, will ich hier nochmal versucht darzustellen.
+Und wenn man sich diese drei Prozesse mal wirklich anschaut, ganz bewusst, wir sprechen hier von T, das ist unser Temperaturniveau, das gucken wir uns an, was passiert bei einer Wärme-Fachmaschine, der nächste Temperaturniveau geht in den Prozess rein und liefert geringeres Temperaturniveau und Arbeit.
+Zeichnen wir uns das wieder genau so ein, was wir haben.
+Von dem hohen Temperaturniveau wird ein Wärmestrom genommen auf ein gerägeres Temperaturniveau abgeführt.
+Und ich bin der Meister.
+Was ist jetzt unser Nutzen? Was ist unser Ende? Haben wir uns angeguckt.
+Bei einem Kanon ist es relativ easy. Was passiert da? Was ist unser Nutzen?
+Welche Aufnahme? Und das schreiben wir auch mit rein.
+Das hier ist der Nutzen.
+Und das hier ist der Aufnahme.
+Thema Wärmepumpe.
+Also, das werden wir gleich machen. Für Sie vielleicht Hinweis, bitte zwei Folien später gucken.
+Gucken wir uns den Wärmepumpen an.
+Was passiert bei der Wärmepumpe?
+Und wie gesagt, wir stecken Arbeit rein, um ein höheres Temperaturniveau zu bilden.
+Das ist das, was ich zufüge.
+Was brauche ich noch?
+Ich brauche noch eine Leistung.
+Und dann nutzen wir die Herde.
+Das ist die Zeit, die wir spenden.
+Auch da wieder nutzen.
+Und bei den Herdefunkenträgen, die da was wieder aufkommt.
+Gucken wir uns das Ganze noch bei der Kältemaschine an, gleicher Prozess, ich stecke eine Leistung
+in den Prozess hinein
+und ich generiere
+einen Wärmestrom
+auf eine höhere Temperatur.
+Das, was ich Ihnen darstellen will,
+ist tatsächlich,
+nehmen wir mal an,
+dass da höhere Temperatur
+Umgehungs-Temperatur, das da ist unser Kühlschrank, was macht der denn, der entzieht auf einem
+den zieht auf einem kalten Niveau die Wärme, um sie auf einem höheren Niveau respektive
+auf der Rückseite vom Kühlschrank wieder aufzubauen. Gleicher Prozess, das Einzige,
+was sich wirklich bläht, ist das Thema Nutzen und Aufwand. Und was ist da unser Nutzen?
+Thema dieser Leistungskennzüge, gucken wir uns gleich nochmal an, wo das eigentlich herkommt.
+Also die Idee, wofür brauche ich eigentlich die Leistungskennziffer?
+Also F, dieses komische E da, das ist die sogenannte Leistungskennziffer.
+So von Verständnis her, bei gleichem Delta C, von 0° auf 20° und ich will meinen Kühlschrank auf 0° halten, von 20°, ist der Wirkungsgrad der gleiche?
+Kann ich mit dem Wirkungsgrad beschreiben, wofür ich es eigentlich brauche?
+Und genau da kommt die Leistungskennziffer rein.
+Die Leistungskennziffer ist nämlich spezifisch auf meinen Prozess und das, was ich damit mache,
+ist sie gerechnet als Nutzen zur Ordnung.
+Der Nutzen, haben wir eben gesehen, ist ein vollständig anderer bei einem Kühlschrank als bei einer Wärmepumpe,
+obwohl der Prozess nachgerechnet ist.
+Guckt man sich die also an, und das ist das, was hier gemacht wird.
+Der Nutzen bei einer Wärmepumpe ist das, was der Wärmepumpe entnommen wird von der Entführung.
+Bei einer Kältemaschine ist der Nutzen das, was zu gut gehört.
+Hier ist nämlich der Nutzen der Wärmepumpe.
+Und das ist genau der Unterschied.
+Jetzt haben wir das uns für alles genommen.
+Das ist ja das Gleiche, was wir schon gemacht haben.
+Dass wir uns geguckt haben, wie sind denn eigentlich die Prozesse,
+wie wird das Ganze zusammengesetzt.
+Was ist Q-Zug, das können wir hier ausrechnen, entweder Vesta oder Vesta, also Q-Up oder Q-Zug, jeweils auf den unterschiedlichen Temperaturen.
+Und wenn wir uns das genauer anschauen und einfach mal einsetzen, haben wir bei der Wärmepumpe, das ist der Aufwand, den wir treiben.
+dann ist hier der Aufwand.
+Der ist jedes Mal gleich.
+Sie erinnern sich dran.
+Gucken wir hier drauf.
+Leistung, Leistung.
+Gleichheit von Krebsschutz.
+Und wenn ich da die gleichen Temperaturdifferenzen habe,
+dann habe ich auch die gleiche Arbeit,
+die ich da reinstecke.
+Deswegen ist das hier
+jeweils gleichzusetzen.
+Natürlich ist das bei anderen Temperaturen
+und bei anderen Temperaturdifferenzen okay.
+Aber wenn die Temperaturdifferenz immer gleich ist,
+Dann ist noch der Aufwand.
+Die Leistung, die ich reinstecken muss, muss man gleich haben.
+Aber bezogen auf den anderen Nutzen komme ich hier einmal auf unser Tw von TkΔt und hier zu TkΔt.
+Und das ist genau das, was ich hier machen möchte.
+Die sind, glaube ich, auch auf der Form von mir, oder?
+Sind die Leistungsfälle schon da drin?
+Gut. Vielleicht für Ihre Private ein paar Worte dazu, ein paar Hinweise, was eigentlich, wann, wo, wie wirkt.
+Das eine ist der Wirkungsgrad. Nur mal zum Vorredner.
+Der Wirkungsgrad beschreibt rein den Prozess, nicht das, was ich damit mache.
+Bei der Wärmekraftmaschine ist das relativ einfach, weil was macht eine Wärmekraftmaschine?
+Was macht eine Wärmekraft? Deswegen gibt es ja keine Unterscheidung.
+Bei einer Kraft-Wärme-Maschine sieht das Ganze ein bisschen anders aus, weil der Prozess komplett der gleiche sein kann und komplett den gleichen Wirkungsgrad hat.
+Trotzdem habe ich zwei völlig unterschiedliche Kennzahlen, weil die Kennzahlbestattung führe ich das Ganze nicht zu.
+Das heißt, zu dem, was ich vorhin sagte, was mache ich, wenn ich so eine Aufgabe kriege?
+Es kann durchaus sein, dass da noch eine Teilaufgabe kommt, um genau diese Kennzahl zu bestimmen.
+Gucken Sie genau in Ihre Prozesse und sehen Sie, was das ist.
+Ist das eine Wärmekraftmaschine?
+Das ist egal.
+Da gibt es nur eins.
+Da gibt es nur den Wirkungsgrad.
+Ist das eine Kraft-Wärme-Maschine?
+Opa?
+Ist das eine Kälte-Maschine?
+Oder ist das eine Wärme-Maschine?
+Wenn Sie das noch mit in Ihre Vorgesammlung einbringen,
+also keine Ahnung, Flohschad, Richtgeschema,
+mir egal,
+Vielleicht schon mal ein bisschen senker.
+Kleine Aufgabe an Sie.
+Rechnen Sie mal jeweils aus, was das ist.
+Wir brauchen die Leistung zu haben.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Was ist das Temperaturniveau, wo wir eigentlich hinwollen?
+Wir haben hier Td zu Delta T, bei mir 7,33.
+Der Kühlschrank, was haben wir da?
+Da ist die Nutztemperatur, sind die 277 Kelvin.
+Da können wir auch hier, wenn wir uns jetzt mal eine richtige Kältemaschine angucken,
+Also bring aus nahezu Umgebungstemperatur auf minus oder 70 Grad.
+Da sieht die Nummer schon ganz anders aus.
+Gleiche Herangehensweise.
+Und jetzt sei er ganz ausgerechnet.
+Wichtig zu merken,
+Wärmepumpe ist immer größer als. Ansonsten funktioniert die Wärmepumpe nicht mehr. Ansonsten sind die Wärmepumpen irgendwann okay, dass das hier eigentlich läuft.
+Kältemaschine, also echte Kältemaschine, Kühlschrank oder so eine richtige Kältemaschine, kann man es nicht sagen.
+Ich habe mal versucht eine Systematik einzubringen. Vielleicht finden Sie es. Ich bin immer noch nie daran gescheitert und habe immer ein Beispiel gefunden.
+Einfach merken, Wärmepumpe ist immer Größe 1. Kältemaschine kommt top an.
+Tendenziell richtige Kältemaschine, in dem Moment, wo dieses Delta-T einfach sehr groß wird,
+ist es unwahrscheinlich, dass man eine Gütekennzahl von Größe 1 ausgibt.
+Gut. Passt so weit? Jetzt passen wir mal zusammen.
+Links drehen.
+Ich gehe jetzt zu rechts drehen.
+Was steckt drin?
+Wie gesagt, das ist ein bisschen komplizierter.
+Links drehen ist ein bisschen komplizierter, weil ich immer diese steile Fallunterscheidung machen muss.
+Was ist eigentlich mein reales Vorhaben?
+Nicht, was ist mein Prozess?
+In der Wärmekraftmaschine ist der Prozess eigentlich immer auch gleich mit dem Vorhaben.
+Links drehen.
+Nicht.
+Das heißt, wir haben zwei unterschiedliche Kennzittachzahlen, die Sie sich vornehmen müssen.
+Ob Sie sich das so hinschreiben, mit 3 und 1 und irgendwas, ich finde es persönlich eigentlich total sinnfrei.
+Weil wenn ich mir so unterschiedliche Maschinen angucke, weiß ich, wo ich hin will.
+Ist meine Warmtemperatur, da kann ich hin, da kann ich hin, ist meine Kalttemperatur, da kann ich hin, wo ich hin will.
+Ich kann es mir tatsächlich einfach deutlich besser so lernen.
+Aber eben selber völlig gleich.
+die stinkt
+die stinkt
+ich würde jetzt fast vermuten
+dass sie alle sagen
+fuck stinkt
+nein, alles gut
+diese Känze
+die steigen grundsätzlich
+je größer, je kleiner
+die Städte sind
+in der Mathematik
+und dann gucken wir uns ein bisschen noch die Flächen an
+die wir sehen können
+Was haben wir für Flächen?
+Wir haben die spezifische zugebührte Wärme, also die Fläche von A, Kreis 2, in B.
+Und die Fläche von A, Kreis 2, in B.
+Ich möchte eine andere Frage nehmen, weil wir gleich überholt werden.
+Ja, es ist so doof.
+Diese zugeführte Wärme, wie gesagt, immer daran denken, was ist das bei Kältemaschinen?
+Die spezifisch abgeführte Wärme, also die Gesamtfläche, das hatten wir eben auch schon angeguckt.
+Die spezifisch abgefüllte Wärme, das ist natürlich der Nutzen meiner Wärmepumpe.
+Und die physische Arbeit, wie gesagt, die kann sogar gleich sein.
+Und ja, Sie werden jetzt sagen, Herr Haffig, wir haben doch gelernt,
+im CS-Diagramm zeige ich keine Arbeit.
+Das ist an der Stelle korrekt.
+Aber schauen Sie mal in die Formel rein.
+Bei so einem gesünderen Prozess kenne ich doch das gleiche.
+Keine Änderung der inneren Energie, was passiert mit Arbeit und Lernung?
+Gut.
+Sie wissen, was ich bei den Rechtsrechnungen gemacht habe.
+Ich mache jetzt das gleiche bei den Linksrechnungen.
+Ein Haken hinter die Theorie.
+Hier müssen wir uns sowieso angucken.
+Da ist es völlig normal, dass man noch zwei, drei Mal drüber nachdenkt.
+Was heißt das Ganze jetzt für Rechenaufgaben?
+Wir werden das gleiche machen.
+Wir fangen mit relativ simplen Rechnungen an.
+und werden dann, bevor es richtig ins Eingemachte geht,
+eine kleine Exkursion machen in Richtung dem nächsten Thema.
+Was passiert, wenn ich das in Nassabflug fahre?
+Einfach um da schon mal so ein bisschen Vorgriff zu machen,
+was das nächste Woche definitiv noch kommt.
+Ich habe heute ein bisschen gerechnet,
+dann muss ich den Vorgriff nächste Woche nicht machen.
+Sie haben ein bisschen Zeit, sich da reinzudenken.
+Das würde ich Ihnen auch tatsächlich empfehlen, weil das ist oft so der Sprung, wo 20% hängenbleiben.
+Das ist echt so.
+Einfach nochmal reindenken, was hat er denn da gesagt?
+Verstehe ich das, dass das das Gleiche ist, wenn ich auf einmal ein Nassland-Bild habe?
+Meiner Meinung nach ist es das Gleiche, es sieht nicht einfach komplizierter aus.
+Geben Sie sich ruhig die Zeit, noch kurz dort zu gucken, vielleicht das eine oder andere Tisch brechen,
+und dann dazu führen, YouTube zu fragen, wen auch immer.
+Dann sind wir für nächste Woche gut vorbereitet.
+Und können nächstes Mal auch gleich noch ein bisschen mehr ins Rechnen kommen.
+Habe ich am Anfang gesagt, ich werde relativ streng sein mit meiner Geschwindigkeit,
+damit ich Ihnen am Ende aber auch noch Zeit geben kann,
+dass wir wirklich eine relevante Aufgabe machen.
+Weil, wenn ich mal ganz ehrlich bin,
+Sie erinnern sich alle noch an diese Aufgabe mit der Luftpumpe, oder?
+Oder nicht? Das ist auch nicht schlimm.
+Luftpumpe rein, was macht eigentlich der Druck
+und was macht die Temperatur. Ist das für so eine
+Aufgabe relevant?
+Nein. Ist das für so eine
+Prüfungsaufgabe relevant?
+Eigentlich auch nicht. Es ist relevant,
+zu verstehen, wann ich ein ideales Gasgesetz
+anwende. Nur, ideales Gasgesetz
+anwenden ist ein kleiner Teil von dem.
+Deswegen möchte ich nicht mehr
+Zeit verbringen, solche Aufgaben zu richten.
+Das kann man machen.
+Okay? Gut.
+Machen wir das einfach mal an.
+Ganz kurz, bitte, hier oben sind Aufgaben, Nummern.
+Wenn ich feststelle, dass die Aufgabennummer, die ich auf den Zettel rausgegeben habe, hier nicht so passt,
+versuche ich es zu ändern.
+Das ist mir in diesen Aufgaben aktuell nicht gelungen.
+Das heißt, da sind wir irgendwo bei 30 oder so nach Aufgabenzettel.
+Bitte schauen Sie nicht auf die Nummer, schauen Sie auf den Titel.
+Dann ist es direkt.
+Und das, äh, Entschuldigung, hat einfach, dafür hat es einfach nicht mehr gereicht.
+So, Aufgabe 34, stationär arbeitende Maschine, entzieht einem kühlen Haus bei einer Temperatur einen Wärmestrom,
+ohne jetzt da oben schon etwas stehen zu haben.
+Und was passiert hier?
+Das ist eine Kältemaschine.
+In der Aufgabe steht schon der Nutzen drin.
+Ein Kühlhaus wird einem Wärmesprung entzogen.
+Das heißt, wir haben definitiv einen Kraft-Wärme-Prozess.
+Weil Wärme im Zug oder Wärme gewinnt, das was, was nachher rauskommt.
+Also hier, was lese ich denn in den Buchstaben?
+Kraft rein, Wärme raus.
+Andersrum, Wärmereien, Kraft raus.
+Wärmereien, Kraft raus, das ist ein Verbrenner.
+Kraft rein, Wärme raus, das ist ein Verbrenner.
+So, es gibt noch ein paar Angaben, gucken wir uns gleich genauer an.
+Wir haben aber vor allem einen bestimmten Wärmestrom und wir haben weitere Wärmestrome, die werden nicht übertragen.
+Das ist schon mal gut, aber die Wärmestrom kann anscheinend dieser Wärmestrom, das was dann nachher auch an Nutzen generiert wird.
+Wie groß ist die Leistungsziffer für einen KNO-Prozess, wenn er genau so arbeiten würde?
+Das ist jetzt ein Trick, wir fragen, ich weiß noch nichts über den Prozess, ich weiß noch nicht, wie der läuft, wie der war, wie der koordiniert, das ist doch völlig egal.
+Aber es steht drin, wie wird es aussehen, wenn es einen Vergleichsprozess gibt, wenn es einen Vergleichsprozess gibt.
+Wie groß ist die Leistungskennzahl? Wir haben eine Kraft-Wärme-Maschine, wir gucken durch unsere Formel, oder wir haben es vorher verstanden,
+Wir nutzen Kaltniveau 1 nach Differenz.
+Wie groß ist die Antriebsleistung, die Arbeitsleistung von der Maschine?
+Also was muss die Maschine aufbringen, um bei dieser Temperatur und bei dieser Ausgangstemperatur
+den Wärmestrom
+den Wärmestrom, der hier drin steckt
+zu werden.
+Was haben wir?
+Wir haben ein 1 und ein 6.
+Wir malen den Wärmestrom auch noch mal ganz kurz auf.
+Wir haben hier W
+240,15
+Kelvin
+Wir haben unsere Maschine, wir haben einen Wärmestrom, den wir reinbringen,
+einbringen. Wir haben eine Leistung, die wir aufbringen. Und wir haben eine Wärme, die
+wir aus dem Prozess wieder rausnehmen. Wie gesagt, Wärme, Strom, nicht Temperatur. Was
+wir sagen können, ist, dass die Leistung sich definitiv aus dieser Differenz der beiden
+Wärmeströme. Und die stehen ja beide drin. Wir haben einen Wärmestrom, der angenommen
+wird, also der aus dem Kühlhaus rausgezogen wird. Und wir haben einen Wärmestrom, der
+abgegeben wird von der Maschine hier an dieses Haus. Das soll ich vielleicht erst auch nochmal
+Wir haben unser Kühlhaus, wir haben unsere Maschine und wir haben unser Wohnhaus, nehmen wir einfach ein Wohnhaus.
+Wenn wir das ausrechnen, komme ich auf 40 kW.
+So, jetzt aber die nächste Frage. Wie groß ist die Leistung des Rückwassers?
+Einmal als Wärmepumpe oder als Kältemaschine?
+Auch hier. Kältemaschine, Wärmemaschine.
+Der Nutzen von der Kältemaschine ist was? Das sind die 60 K.
+Das ist das, was ich für den Kühler rausgebe.
+Ich bin gegenüber, aber die Lernpunkte liegen dann eigentlich so oben,
+aus dem Nutzkasten und damit zu machen.
+Da ist mein Nutzkasten, das ist ja das Gesamte, das sind die 100.
+Darüber also das Nutzkasten.
+Der Nutzen der Wärmepumpen, das sind hier die 100 kW und der Aufwand ist weiter im Begleiter.
+Vielen Dank.
+Von da nach da werden 60 Kilowatt.
+Achso, und dann sind die 100 Kilowatt.
+Also, ne?
+Vielleicht an der Stelle auch so einen kleinen Hinweis.
+hilft mir
+die Bewertung von Folgefedern
+enorm, wenn ich irgendwo
+frage, sag, skizzieren Sie
+Prozessschaubild.
+Wir werden das definitiv
+nächste Stunde nochmal machen.
+Skizzieren Sie den Prozess, zum Beispiel
+zwischen Verdichter und
+Klausel und was auch immer.
+Hilft mir, weil ich sehen kann,
+Prozess falsch umgedacht.
+Genau so eine Frage. Das passiert.
+Das passiert auch in der Klausur.
+Also, gar keine Frage.
+Je mehr ich weiß, was ihre Annahme war,
+desto besser kann ich sagen, dass es ein Folgefehler ist.
+Und ein Folgefehler ist für mich
+eine volle Punktzahl, weil die vorherige Annahme nicht richtig war.
+Aber für die eigentliche Rechnung,
+für das eigentliche Verhältnis ist alles richtig.
+Also, auch da, ich weiß,
+dass einige Kollegen das anders machen.
+Ich finde ein Folgefehler relativ stringent.
+Ein Folgefehler ist nicht
+der Fehler in dieser Aufgabe,
+sondern der ist irgendwo anders passiert.
+Und wenn in der Aufgabe für mich klarer wichtig ist, dass alles richtig gedacht ist, nur davor ist eine andere falsch war, dann ist für diese Aufgabe, sind die Punkte auch erreichbar.
+Ich hoffe, dass das einigermaßen fair ist. Ich glaube, wenn ich das mal versuche, ist das halt nicht so.
+Dann war das auch mal so eine Züge.
+Verstanden? Was ist was?
+Die letzten beiden, D und E, ich will jetzt ehrlich sein, die können Sie sich einfach mal vornehmen.
+Ich werde bei solchen Maschinen Entropiestrom nicht als Prozessrechnung verhandeln.
+Entropie-Verständnis, ja.
+Entropie-Lifferenzen ausrechnen, ja.
+Mit dem Ziel, das wir beim vorletzten Mal schon hatten, eine Aussage über die Prozessrechnung zu machen.
+Okay, Entropiestrom in so einer komplexen Aufgabe, da will ich Sie nicht mitbewerben, weil da kriegt man einen Knoten in den Kopf.
+Und das ist meiner Meinung nach nicht zielführend, einen Knoten in den Kopf in so einer Klausur unterzunehmen.
+Genau.
+Für Sie zur Rechnung trotzdem gut, vielleicht gebe ich es doch einfach mal mit an.
+Was haben wir denn, was haben wir denn, was haben wir denn?
+Wir haben, also bei dem geht es einfach vor und wir können gucken, ob sie selber aufhören kann.
+Zugeführte Entropie, 0,25, 0,25 Kelvin und abgeführter Entropiestrom, 0,278, 0,25 Kelvin.
+Und daraus ergibt sich natürlich auch die Entropie.
+Das sollte ein Kopierer sein.
+Da wir jetzt noch eine Aufgabe mit versteckt haben, ähnliche Berechnungen, auch hier, nehmen Sie sich die vor.
+Hinweis ganz klar, das ist etwas Teilaufgabe oder Teilaufgabe in diesem wieder kleineren, rechten Teil.
+Umfang, auf jeden Fall deutlich kleiner als das, was in den echten Abteilungen in Thermodynamik zu haben ist.
+Da habe ich auch einige Angaben gemacht.
+Sehr schön, wir machen jetzt einen ganz kurzen Einstieg, weil ich schon mal wieder gesagt habe,
+dass der K-Null-Prozess so nicht funktionieren kann und auch nicht funktionieren wird.
+Das mache ich aber auch relativ kurz, nur dass Sie so ein bisschen die Systematik verstanden haben.
+Dann verteilen wir ja auch mal ein paar Millionen Geschenke.
+Können wir annehmen oder nicht?
+Das ist wohl der Vorteil von Geschenken.
+Wenn das Thema für Sie irgendwann mal relevant sein wird,
+oder würde, oder sollte, oder Sie es sowieso total geil finden,
+was jetzt eigentlich allen hier passiert,
+das ist jetzt ja auch ein total super Thema,
+das klingt mir übrigens genauso wenig,
+dann drücken wir auf.
+Es gehört dazu.
+Tatsächlich bin ich da relativ schrift und sage,
+Thermodynamik macht keinen Spaß.
+Aber sie werden immer immer n.
+N.
+Gut. Warum und wie sieht das bei einem realen Prozess eigentlich aus?
+Genau das schauen wir uns jetzt mal an.
+Diese beiden Verläufe, so soll es ja eigentlich sein.
+Was macht den großen Unterschied aus?
+Der größte dieser Unterschiede ist vor allem folgendes.
+Wir sehen hier einen Temperaturverlauf von 2 nach 3.
+Das wäre hier.
+Jetzt haben Sie Thermodynamik schon gehört. Geht das überhaupt?
+kann ein Wärmeprozess stattfinden
+ob wir es erzielen
+das ist schon mal der erste Fehler
+das heißt, wenn wir das real zeichnen würden
+wir hätten hier unsere Prozesstemperatur
+die dann nachher erreicht wird
+Hier muss am Anfang die Temperatur geringer sein, damit da überhaupt hingefahren werden kann.
+Hier ist alle 100% frei.
+Entschuldigung, nicht hier.
+Hier ist 100% frei.
+Und irgendwo darunter, ich mach's jetzt ein bisschen übertrieben, weil der Eno quasi mit dieser Aussage meint,
+Das heißt, wir haben hier inzwischen immer ein Delta 10 und es muss größer sein als 0, weil andere nur noch kein Delta haben.
+Dazu kommt jetzt natürlich, dass hier vollständig dieser Druck, vollständig der Rad, der Radierrad, geht auch nicht.
+Wir haben immer irgendwie Entrückungen, die auch gelangt werden und verschoben werden.
+Das heißt, dieser ganze Prozess kippt sowieso ein kleines bisschen.
+Und was ich hier gesagt habe, eigentlich ist das auch nicht richtig.
+Denn wie sieht denn hier der Temperaturverlauf eigentlich wirklich aus?
+Großes Delta-T, große Delta-T, kleines Delta-T, kleines Delta-T.
+Das heißt vom Prozess her haben wir auch noch ein großes Hügelverlauf.
+Eigentlich sehe ich das Ganze sogar so aus.
+Auf der Rückseite genauso.
+Hier haben wir auch irgendwo ein Delta-T.
+Und wie gesagt, warum zeige ich Ihnen das?
+weil im Realprozess dann noch nicht so ist, wie man hier sich genauer anguckt.
+Da komme ich wieder, ich glaube, in der zweiten Folge noch gerne zurück.
+Sie sind als Ingenieure immer, oder?
+Es gibt zwar Unterschiede, entweder Sie sind Naturwissenschaftler, dann brauchen Sie das,
+und dann muss es auch mal ganz exakt sein, oder Sie sind Ingenieur.
+Von daher ist man auch, meiner Meinung nach, einfach und effizient dazu verpflichtet, sich die Modelle und die Vereinfachungen so zu nehmen, wie sie sind.
+Und das heißt Vereinfachung. Vereinfachung heißt nie genau.
+Ich würde gerne einen Statistiker, der mal gesagt hätte, alle Modelle sind falsch.
+Soll jetzt jemand sagen, er liebt es. Aber alle Modelle sind falsch.
+Die Frage ist, wie falsch ein Modell sein darf, um immer noch gut zu sein.
+Und das steckt da auch drin.
+Das, was wir bis jetzt gemacht haben, ist alles ein bisschen falsch.
+Aber es hilft uns schon ganz wohl weiter.
+Und damit ist dann mein Termin.
+Einer will es nicht übertreiben.
+Das ist super viel Idealisierung, aber zu Verständnis.
+Also ich meine, wir sprechen alle von Elektromobilität, wir sprechen von irgendwelchen Kreissystemen, wir sprechen von irgendwelchen Kühlabläufen, die wir haben wollen.
+Wir sprechen von Wasserstoffen.
+Wir wissen eigentlich, was Wasserstoff an Kälte und Prozess braucht, damit er prozessierbar ist, weil es ist nicht ohne, dass es zum Teil ein Viertel von der Leistung, die er bringen muss, ist kühler.
+Das sind Maschinen, die Sie sehen werden. Das sind Maschinen, auf die Ihre Generationen hinarbeiten werden.
+Und dann steht da drin, nicht einfach vergessen.
+Und wenn, dann ist es auch okay, ob das überhaupt nicht so ist.
+So, jetzt habe ich angedroht und gesagt, ich möchte eigentlich noch ganz kurz in den Bereich der...
+Quiz, bereiten Sie sich mal noch vor, versuchen Sie das mal, zusammen mit Ihrem Nachbarn, zusammen mit der Organisation,
+um zu sagen, okay, was sind da die Aufgaben?
+Das sehe ich jetzt.
+Da haben wir jetzt gerade eine Kappapüle.
+Das sind dann übrigens Aufgaben,
+in denen man dann auch Systembilder zeichnen würde.
+Nehmen wir uns als Aufgabe vor.
+Auch da, gerne mal reingucken.
+Schauen Sie mal, wie weit Sie kommen.
+Wir haben das ganz ähnlich jetzt schon mit dem Otto-Motor gemacht.
+Ich bin der Meinung, dass Sie zu gewissen Teilen hier zumindest den Lösungsweg komplett skizzieren können müssen.
+Das sieht ja so ähnlich aus.
+Das ist schon soweit vorbereitet.
+Und das, was Sie jetzt einmal ganz kurz machen, ist ein Vorgrenzen.
+Da habe ich Ihnen tatsächlich noch nichts hochgegeben.
+Was nicht tragisch ist.
+Weil es mir vor allem darum geht,
+ein Gefühl dafür zu bringen, was jetzt kommt.
+Hammer.
+Kanonprozess, linkslaufend, ideale Wärmepumpe.
+Das ist das, was wir beim nächsten Mal so machen werden.
+Jetzt geht es hier darum,
+Kreisprozesse in Last an.
+Ich will Ihnen vor allem ein bisschen den Einstieg nächste Woche vereinfachen, weil das, was jetzt kommt, ist im Grunde, natürlich ist das erstmal so eine schöne Frage zum Einstieg, können Sie alle beantworten.
+Kann Wasser bei minus 10 Grad Dampferung sein? Natürlich. Thema Partialdruck. Hatten wir alles.
+dann haben wir hier irgendwo auch Bereiche deutlich kleiner als 10 Grad, deutlich kleiner als 0 Grad, wo das Ganze erreicht werden kann.
+Alles, was oberhalb vom Trippelpunkt liegt, kann jetzt werden.
+So, das hier kennen wir auch.
+Haben wir uns schon angeschaut.
+Wie sieht der Verlauf eigentlich aus?
+Relevante Frage ist an der Stelle, wie sähe der Verlauf aus,
+wenn wir jetzt so ein Kanon-Prozess, den wir uns eben angeguckt haben, hier reinlegen.
+Und das machen wir jetzt gerade.
+Denn das, was passiert beim Verdampfen, ist ja genau das gleiche.
+Wir stecken halt irgendwie zusammen.
+Haben wir beim Kanon-Prozess ja genau so gemacht.
+So sieht das technische System aus.
+Tatsächlich ist das das, was normalerweise in den Garten stattfindet.
+Wir haben eine Wärmezufuhr, das da.
+Und wir haben eine Wärmeabfuhr.
+Wir haben eine Verdichtung, die wir machen müssen.
+Und wir haben eine Explosion, die wir machen müssen.
+Das haben wir uns eben bei den Gasprozessen ein paar Mal angeschaut.
+Wie sähe das Ganze jetzt aus?
+normalerweise
+im CS-Diagramm
+haben wir dieses Dampfgelieb.
+Malen wir uns das ruhig mal ein.
+Und wir könnten ja
+in diesem Lastdampfgelieb
+einen ersten
+Seitenprozess fahren.
+Von 1 nach 2
+und 2 nach 3
+können wir machen was passiert bei der hitze auf hohem temperatureniveau
+Was passiert beim Kühler auf geringem Temperaturniveau mit der Maschine?
+Steckt er drüber? Gebt mir, glaube ich, jeder soweit erstmal weg.
+Hier haben wir aber, Frau Kühles, dass wir auf einmal zwei Probleme sehen.
+Erstens, so eine Turbine mag das nicht, wenn sie mit flüssig und mit Gas zu kämpfen hat.
+zu kämpfen hat, findet der Turgene richtig scheiße. So ein Verdichter findet das übrigens
+auch nicht sonderlich gut, er kommt damit meistens ein bisschen besser klar. Beide Komponenten mögen
+das überhaupt nicht. Ein Verdichter mag das eigentlich ganz gerne, wenn er eben gegen
+irgendwas Flüssiges arbeitet, weil die Verdichtung relativ gut funktioniert, weil einfach das Molybdenum
+er gleich bleibt, das heißt, er hat immer die gleiche Gegenkraft, das heißt, er hat auch nicht so viel, was er eigentlich zusammen machen muss.
+In dem Moment, wo ich relativ nah am Feststoff bin, wirkt meine Verdächtigung besser.
+Warum? Weil ich keine anderen Prozessveränderungen habe.
+Und ich kann es deutlich besser verrechnen.
+So eine Turbine, bei der ist es genau andersrum, die mag das eigentlich eher, wenn sie komplett im Dampf arbeitet.
+Weil dann das Thema Entspannung am besten funktioniert.
+Wenn dann aber irgendwelche Wasserzeichen oder sonst so was rumfliegen, dann finde ich die Turbine, das ist in aller Regel ziemlich scheiße, weil, keine Ahnung wie schnell man den dreht, ich sage jetzt mal so, ich bin so auf einer Drehung, und auf einmal oxidiert so ein Wasserzeichen aus der Luft und knallt mir gegen meine Schaufel, das ist einfach nicht so toll, rein mechanisch.
+Deswegen wird so ein Prozess nie so gefahren, sondern eher so gefahren, das zeichne ich jetzt einmal ganz kurz rein,
+Ich versuche, das dann möglichst nah an der Unterkante hin zu bringen.
+Ich verdichte zum Beispiel hier von 1 Strich nach 2 Strichen.
+Und dann fahre ich den Prozess bis hierhin hoch.
+Und dann jage ich das Ganze durch mein Batterienzall.
+Was jetzt da nämlich passiert, da bin ich wieder im Fußwein.

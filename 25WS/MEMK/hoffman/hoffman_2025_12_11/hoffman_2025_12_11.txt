@@ -1,0 +1,1448 @@
+Der Prüfungstermin für Merck ist 5.2.
+Das war's.
+Vielen Dank.
+Ja.
+Aber ich glaube, für chinesische...
+Ich versuche zu prüfen,
+ob ich den Termin gemacht habe.
+Ja, gucken wir mal.
+Was nämlich komisch ist...
+Ja, ich habe in meiner angemeldeten Prüfung...
+Ich kann ja mal was anderes probieren.
+Vielen Dank.
+Du bist der Einzige?
+Ja, ich bin der Einzige.
+Er hat gesagt, es sind nur drei Personen, die sich auf den Test eingeladen haben.
+Hast du es geschafft?
+Was?
+Er hat gesagt, es sind nur drei Personen, die sich auf den Test eingeladen haben.
+Du bist der Einzige?
+Ja.
+Du bist der Einzige?
+Du bist der Einzige.
+Aber ich habe schon angemeldet.
+Ich guck mal rein. Ich kann ja reinschauen, wer der Prüfung ist.
+Okay, okay, dann gehen wir drüber nach.
+Schade, ich hab' mich schnell angeschaut.
+Ich hab' mich angeschaut, was für einen Kurs ich habe.
+Es gibt einen Kurs.
+Heute Abend ist der Kühlschrank nicht geöffnet.
+Weiß ich nicht.
+Dann was hast du zu Mittag gegessen?
+Ich habe gestern Abend was gebacken.
+Willst du es nach Hause essen?
+Ja, ich habe heute Abend keine Zeit mehr.
+Ich habe heute Abend keine Zeit mehr. Haha.
+Haha.
+Ich sitze hier.
+Ich kann es nicht klar sehen.
+Nein, ich will dir mein Brot zeigen.
+Oh.
+Kann man nur Brot essen?
+Wo soll man dann essen?
+Mein Haus ist 1000 Meter entfernt.
+Oh, was für ein armer Kerl.
+Er hat gesagt, der Deutsche hat sich eingeladen.
+Ich sollte auch eingeladen haben.
+Dann sind es drei.
+Er hat sich nicht eingeladen, also ist er nicht mehr gekommen, oder?
+Er hat sich eingeladen. Wir drei haben uns eingeladen.
+Vielen Dank.
+Vielen Dank.
+Wie viel?
+Äh, das...
+Klasse.
+21 an.
+Ja, ja, ja.
+Ich habe mich überlegt, dass es nicht nur drei Menschen gibt.
+Untertitelung aufgrund der Audioqualität nicht möglich
+...工業工程
+... und dann den Prüfungs-Termin
+Ja, ich habe schon meinen Namen gesehen.
+sehen. Wo sind sie? Die letzte Dritte. Unter, ganz unter. Chen Yu. Ja, Chen Yu. Ober.
+Nun dann.
+Na ja.
+Oh, hier ist ein Schlauch.
+Da ist ein Schlauch.
+Hier ist ein Schlauch.
+Oh, hier ist ein Schlauch.
+Ist das nicht ein persönlicher Schlauch?
+Ja, das gibt es.
+Ich habe keine Ahnung, was ich hier machen soll.
+Ich habe keine Ahnung, was ich hier machen soll.
+Ich habe den ersten Rekord abgemacht.
+Am 2.9.
+Am 9.9. hast du den Rekord.
+Ja.
+Und jetzt bist du im Fünften Rekord.
+Du hast alle Schauspieler.
+Ja, ich habe alle Schauspieler.
+Hast du auch in Jürgen gewonnen?
+Nein, das war nicht gewonnen.
+Du hast nur 5 Schauspieler gewonnen.
+Okay, wir sind jetzt an der Stelle stehen.
+dass wir hier Formeln hergeleitet haben, zur Berechnung von Druckbehältern.
+Dazu gibt es dann jetzt ein Beispiel, das wir berechnen möchten.
+Eine Herleitung über die Kesselformel haben wir gemacht.
+Da sieht man diese Weißwurst-Regel.
+Nennt man das in Bayern?
+Ich hatte gestern eine Wurst.
+Die ist komplett mit der Richtung zusätzlich noch gebrochen, weil die so groß war.
+Und die reißt immer in der Richtung auf.
+Ja?
+Das ist die Kesselformel, die sagt, dass die Tangentialspannung doppelt so hoch ist wie die Axialspannung,
+der Kessel, der unter Inbetrieb steht.
+Und dann haben wir die Formel hier.
+Zur Berechnung der Zylinderwandstärke gehen wir davon aus,
+T ist gleich BA mal PE, PE ist der Innendruck, durch 2 mal K, K ist ein Festigkeitskennwert, S ist die Sicherheit, die wir brauchen und dieser Abminderungsfaktor erhebt sich jetzt durch die Schweißung.
+Der ist kleiner 1 und der wird bestimmt aus dieser Art einer Tabelle heraus.
+Da hinten gibt es Zuschläge für die Wandstärke. Wir schauen uns das jetzt im Einzelnen an.
+dA ist der Außenwirtschmesser, dE der Berechnungsdruck. Achtung, bitte das hier beachten.
+Wir müssen dann nachher die richtigen Einheiten einsetzen. 10 bar, wenn man so einen Innenbehälter
+im Druck der unteren Werte und der unteren Druck steht und müssen dann die richtigen
+Kennwerte einsetzen. Der sogenannte Festigkeitskennwert entsprechend der Berechnungstemperatur, RP02
+oder RM oder RP1. Bei Werkstoffen ohne gewährleistetes Dreck oder Dehnkönzel ist die Mindestzugfestigkeit
+bei der Berechnungstemperatur einzusetzen.
+Gehen wir mal in diese Tabelle rein.
+Das ist die hier.
+Da sehen wir, dass für die typischen Stahlbaustelle
+der Wert bei 20°C 235 MPa entspricht.
+Die Temperatur jetzt nach oben,
+Das heißt, die Behälter-Temperatur wird nach oben geschraubt,
+damit wir jetzt hier den Festlichkeitskennwert bei 187 bei dem Material haben.
+Die nimmt also ab mit zunehmender Temperatur.
+Dadurch wird die Wandstärke entsprechend größer, weil dieses K kleiner wird.
+da unten sind so ein paar Ausführungen
+die für 20 Grad angegebenen Werte
+gelten bis 50 Grad
+den Behälter, den wir jetzt berechnen
+der ist glaube ich für 50 Grad ausgelegt
+die Werte für 100 Grad angegebenen Werte
+gelten bis 120 Grad
+da gibt es dann immer Anweisungen und Fußnoten
+wo man ein bisschen was lesen muss
+Hier sind unterschiedliche Sorten an Materialien einsortiert.
+Hier sind noch zu prüfen die sogenannten Anwendungsgrenzen.
+Anwendungsgrenze heißt, den I mal P wird berechnet und dieser Wert muss unter 20.000 liegen.
+Gehen wir nochmal zurück.
+K, also der Festigkeitskennwert, ein Sicherheitsbeiwert nach TG617.
+Das ist das hier.
+Brauchen Sie bitte auch wieder eine Tabelle.
+Und das Ganze kommt aus diesem Tabellen-U.
+Das sollte man mal gesehen haben.
+Das ist der Roll-of-Matic.
+Damit arbeiten in der Regel die, ich sag jetzt mal, Maschinenbauer.
+Da kommt jetzt Walz und Schmiedestelle, die hier eingesetzt werden, Stahlbus, Busseisen,
+das haben wir alles in der Fertigung ein bisschen gemacht.
+Die kriegen jetzt hier die Streckendrehgrenze oder Zeitstandsfestigkeit als Sicherheit und
+der Wert liegt bei 1,5.
+Den müssen wir dann jetzt rausziehen und gleich schon einsetzen.
+das gleich als Übung an diesem kompletten Beispiel. Gehen wir nochmal weiter hier, dann
+kommt, jetzt hat er mich hier rausgebrochen, sorry, als weitere Kenngröße in der Tabelle,
+Ich habe hier zur Berücksichtigung der Ausnutzung der zulässigen Rechnungsspannung in Schweiß-Wildnähten nach diesen Merkkettern möglicherweise 1,0.
+Die Festigkeit ist 1,0, wird nicht abgelehnt.
+Dafür muss man aber eine Prüfung machen.
+Das heißt, typischerweise schaut man, ob Fehler da sind.
+Dann kann man in der Berechnung die 1,0 einsetzen.
+Wenn man sagt, man möchte einen verringerten Prüfaufwand, dann beträgt dieser Abminderungsfaktor 0,85.
+Dadurch wird die Bandstärke wieder größer für nahtlose Bauteile und gelötete Partizipationen 0,8.
+Zustand für durch die Nullhandel-Unterscheidung bei Halbzeugen aus veröffentlichen Plänen,
+eine Minustoleranz nach den Maßnormen.
+Das ist jetzt das hier.
+Das, was ich da als Schriftstück habe, ist ein bisschen älter.
+Das ist diese Tabelle 1.6, früher war das 1.7 und da sehen Sie jetzt die Wandstärke.
+Also alle diese Tabellen, etwas, etwas, das kann man auch nicht sehen.
+Ja, genau.
+Und hier sind die Toleranzen angegeben für die Wanddicke.
+Schauen Sie, wenn ich eine Wandstärke habe von 10 bis 15 Millimeter plus minus 0,4.
+Genau, und das 0,4 kann sein, dass ich einen Stahl kriege, der 8 Millimeter nominal ist,
+aber 7,6 in der Berechtigung ausgewiesen wird.
+Das heißt, das kommt dann hinten drauf als C1.
+Hier sind diese Werte, je dicker die Wandstärke, desto größer ist die Möglichkeit, dass die unterschritten werden darf.
+0,4.
+Haben wir diese Tabelle?
+Haben wir nicht.
+Ich habe es Ihnen angegeben.
+Ich wollte es nur mal zeigen.
+In der Rechnung ist es angegeben, C1 ist 0,4, C2 ist 1,0.
+In unserem Spruch ist es 0,0.
+Ja, genau.
+Normalerweise müssten Sie dann nachschauen.
+In der Praxis. Also für die Prüfung würde ich das angeben. So wie jetzt gleich in der Aufgabenstellung.
+Also, dann gucken wir mal. Da unten das C1 ist ein sogenannter Abnutzungszuschlag.
+C2 1 mm bei charitischen Stellen, beziehungsweise C2 bei 0 größer 30 mm.
+Also C2-Abnutzung, wenn irgendwas drin ist, was abrasiv ist, kann es abgetragen werden an der Oberfläche und dann muss der Behälter trotzdem machen.
+Und deshalb kommt diese Formel zustande.
+Wir gehen jetzt mal in diese Übung rein und schauen uns an, wie man das Ganze macht und Sie schreiben das dann bitte mit.
+Hier soll so ein Behälter berechnet werden, die höchste Betriebs-Temperatur beträgt 50 Grad.
+Da nimmt man den Wert von 20 Grad.
+Der Behältermarkt ist unbeheizt.
+Den Aufbau des Tumpfbehälters und den Hauptmarkt zeigt das Bild.
+Alle Tumpfbeanspruchteile ist der Werkstoff S235 vorgesehen.
+Geschweißter Druckbehälter, das sind die Annahmen, 3.000 Liter, 12 Bar.
+Mit 12 Bar, da sollen wir jetzt eine Wandstärke dafür verrechnen.
+Der Außendurchmesser, DA, liegt bei 1150.
+Und jetzt gehen wir das dann mal im Einzelnen durch.
+Es soll der Körperboden berechnet werden.
+Der Mantel, das Mannloch, Körperboden mit Stutzen.
+Wir sollen jetzt hier die Werkstoffauswahl überpulsen, die Wandwege des Behältermantels und den Klöpperboden berechnen.
+Dann, ich muss das irgendwann mal im Umdruck ändern.
+Wir haben, und wir sprechen etwas aktuell da jetzt drin, 6, 14, 14,
+Ich habe jetzt da drin
+Tabellenbuch 6.15
+Das ist eine ältere Variante
+Das hier war das. Ich gebe Ihnen das an. Das ist jetzt in dem neuen Buch die 614.
+Schauen Sie, das ist jetzt hier die neue Tabelle, 614, gleicher Inhalt, hier stehen die Kennwerte, wir müssen jetzt als erstes dieses DIVA, unlegierte Stähle, Feinkornbaustahl nach DIN-EN, hier ist der S235J.
+Und unten als Fußnote steht drin, wir können bis 50 Grad berechnen, mit dem Wert von 20 Grad Celsius.
+Was würden wir da jetzt rausnehmen an Wert?
+Was würden wir da jetzt rausnehmen?
+35
+bei 20 Grad
+in der Festigkeitsklinik, ja?
+Ich weiß nicht, wo ich den roten
+Tränen drum habe, ich glaube, das war mal
+in der Prüfung, wo wir das ausüben müssen.
+Dieses,
+was jetzt in der Tabelle
+drinsteht, müssen wir als erstes
+überprüfen.
+DI mal PE
+kleiner gleich 20.000.
+Die Einheiten
+p in bar und di in Millimeter. Wir machen jetzt eine Annahme und sagen einfach mal die Wandstärke
+ist 20 mm,
+dA
+ist 1150,
+dann ist dI
+1130.
+Dann kommen wir bei
+pE 12 bar
+mal 1130 mm
+auf einen Wert von
+13.560.
+Und der ist kleiner als 20.000. Dann geht es weiter.
+Jetzt kommen die nächsten Schritte.
+Den Festigkeitskennwert K haben wir gewählt.
+K ist 235 Newton pro Quadratmillimeter.
+Aus der Verwendung.
+Dieser Werkstoff A ist zulässig.
+Werksprüfzeugnis 3.1 wird hier gefordert.
+Soweit verstanden?
+Aufgabe B
+Behältermantel berechnen
+für den Behältermantel brauchen wir jetzt
+die Gleichung, die wir da vorhin aufgeschrieben haben
+und da müssen wir
+entsprechende Kennwerte einsetzen
+T
+ist gleich dA mal dE
+durch 2k
+durch S mal
+den V
+dieser Schweißfaktor
+plus Te
+plus C1 plus C2
+Hier steht jetzt in der Favela
+wir wollen bis 50 Grad
+rechnen
+die für 20 Grad
+angegebene Werte gelten
+bis 50 Grad Celsius
+Einverstanden?
+Ja?
+Dann gehe ich in meinen Baustahl, der ist es, der hat 235 Newton pro Quadratmillimeter, aus diesem Tabellenbuch 615.
+K 235 Megawattstunden.
+Dann, das ist mein K, der Festigkeitskennwert.
+Jetzt brauchen wir das S.
+Das S kommt aus dieser Tabelle.
+6, 17.
+Das ist ein Walzstahl, den wir da haben.
+Sicherheitsbeiwert für den Werkstoff bei Rechnungstemperatur 1,5.
+Es gewählt 1,5.
+Entschuldigung, das ist der Ober-B, das ist der Wirkschuh, am Ende, aber Ober-B, Wirkschuh-Werk-Prüfzeugnis.
+In einem Werksprüfzeugnis 3.1 wird das Material getestet, die Charge, die man einsetzt.
+und muss qualitätsgesichert sein.
+TB 617
+und das T-Tabell hier
+S 1,5
+Nächster Schritt.
+Das ist auch meine Anpassung seit 1927.
+Verringerter Prüfaufwand, dann ist dieser Wert mit 0,85 anzusetzen.
+Und dieses C1, C2 wird gewählt 0,4 und 1,0.
+Und jetzt bitte mal rechnen.
+p ist 12 bar, 1,2 Newton pro Quadratenlinie.
+Jetzt setzen Sie bitte alle Zahlenwerte mal ein.
+und rechnen, was dabei rauskommt, auf was für einen Wert sie kommen.
+Vielen Dank.
+Was ist diese
+Warm, gewagtes Stahlfleisch.
+Wenn man in die Norm da reinschaut, sieht man das.
+Nur, dass das auch da steht.
+Aber ich habe es Ihnen ja angegeben, von daher brauchen wir nicht selber rechnen.
+Da muss man wissen, was ist das für ein Material und was ist ein Stahlfleisch.
+Ein Baustahl.
+Dann setzen Sie die Zahlen mal ein und gucken Sie, was bei Ihnen da rauskommt.
+Oben in der Gleichung t gleich.
+Ja? Ausrechnen.
+Vielen Dank.
+Bitte auf die Einheiten auspassen.
+Vielen Dank.
+Wenn wir rechnen, gucken wir, dass die Einheiten stimmen.
+Vielen Dank.
+So, das ist die Prüfungsaufgabe, ne?
+Was suchen Sie?
+Ja, Aufgabe B, ja.
+Aufgabe 6, fern, ja.
+Das ist dieser Material, ja, genau.
+Und jetzt suche ich diese Praxis.
+Ah, das steht da unten, der erste Satz, als Fußnote.
+Hier?
+Ja.
+Da steht, dass für 20 Grad angegebene Werte gelten bis 50 Grad.
+Deshalb ist keine Ablängerung da.
+Guten Tag!
+Ich habe es noch nie gelernt. Er will mich mitnehmen, oder?
+Er meinte, dass er dir sagt, dass er dir diese Zahlen direkt geben wird, aber er will dir sagen, wie du diese Zahlen aus dem Text herausfindest.
+Äh, dann muss ich noch ein P schreiben.
+Das ist das, was ich nicht schreibe.
+Wo ist das D?
+Das.
+T bedeutet Dacheng Pei. Was ist Dacheng Pei?
+Auf dem Schreibtisch steht, dass man die Kugel-Durchschnitts-Methode auswählen kann.
+Das gibt es natürlich direkt.
+Wo schreibst du das?
+Auf dem Schreibtisch.
+Du schreibst zwei Kugel-Durchschnitts-Methode.
+Und unter dem Schreibtisch.
+126
+126
+126 ist nicht leer?
+Oh
+Oh, ich habe es, das Bild
+Das ist nicht 126
+Das ist 126
+Es riecht so gut
+Oh, 127.
+127, das ist manchmal groß, oder was?
+Ich habe gesagt, dass ich mich nicht mehr für die Probe anwenden werde.
+Die Tabellen werden nicht für die Probe anwenden.
+Wenn du die Probe anwenden willst, musst du zuerst das Buch haben.
+Dann kannst du es in dem Buch anwenden.
+Und dann kannst du die Probe anwenden.
+Das muss ich dann nachschauen.
+Aber wenn ich es nachschau, dann werde ich es geben.
+Ich werde es geben, wenn ich es nachschau, wenn ich es nachschau.
+Was ist wirklich?
+So, jetzt ist es fertig.
+Ja, das ist es.
+Das ist nicht ein Test.
+Ich würde sagen, dass ich das hier verstanden habe.
+Ich habe es verstanden, dass es mit deinem System zu tun hat.
+Das ist der Held, wie wir uns da so verlieben.
+Also da ist der größte Teil.
+Kannst du den größten Teil noch finden?
+Ich suche den größten Teil.
+Wie groß ist er?
+Das müssen wir unbedingt vor Weihnachten machen,
+Wenn ich jetzt eine der Optionen mache, würde ich sagen, ich mache weiter einen Minijob.
+Aber jetzt da schon, wenn das nicht reicht, dann würde ich sagen, wir erhöhen ja dieses Minijob-Tarif auf 640 Euro.
+Das sind dann einige Stunden im Monat.
+Ja, und dann, ich gucke mal, dass die Makro vorab fliegen.
+Ja, ja, genau, genau.
+Warte.
+Ja, super, alles klar.
+Ja, genau. Super. Danke dir.
+Ciao.
+Sorry. Was kommt raus?
+T?
+Moment.
+Sehr schnell.
+Haben Sie gerechnet?
+Ich habe gerade die Formel verstanden und ich suche die D-E-D-A.
+Ich habe ein Bunker.
+Wir müssen die richtigen Einheiten da jetzt einsetzen, ne?
+Haben Sie die 1,5 drin, das S?
+Diese S ist 1,5, ja, genau, ich muss da unten noch rein, so 235 Megapaskal, das ist 2,5 Newton pro Millimeter, oder?
+Ja, schauen Sie, ich habe es ja mal hingeschrieben.
+Es kürzt sich alles weg und zurück bleibt die Millimeter.
+Haben Sie gerechnet, was fehlt Ihnen?
+Was fehlt?
+Sie müssen das können für die Prüfung, ne?
+Ja.
+Ja, ich habe es gerade verstanden, aber habe ich nicht zu versuchen.
+Jetzt reintippen in den Rechner und ausrechnen.
+Bei der Prüfung.
+Das war angegeben in der Aufnahme, ja.
+Vielen Dank.
+Frage. Darf ich die Vorne schauen nochmal?
+Vorne, die Skript.
+Nochmal? Entschuldigung.
+Darf ich die Vorne Manuskript schauen nochmal?
+Ja.
+Das?
+Ne, diese Seite.
+Die Vorne.
+Ich bin nicht genau weiß ich das dafür.
+Was ist das oben?
+Das ist A. Das ist das Material.
+Das ist nicht auf der PPT, oder?
+Er hat Aufgabe A nicht zu abschreiben.
+Ich kann das auch einzeln.
+Braucht ihr jetzt nicht mehr.
+Ich kann das hier programmieren oder hier schicken.
+Ich stelle das vielleicht auch online.
+Ja?
+Nein, diese Lösung ist falsch.
+Das ist eine Fehler.
+Das ist 50 mal PE ist 1,2 durch 2 mal 235 durch 1,5 mal 0,85.
+Das 1,2 da unten, das ist noch zu gucken, steht unten, genau.
+Was kommt hier raus, für intern?
+Ja, das ist 100% gleich, aber...
+Wir haben da was fertig. Ich tipps auch nochmal.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Ja, ich komme hin.
+Noch mal probieren.
+Wo ist die S?
+Aus dem Tabellenbuch 16.
+Das ist das hier.
+Ja.
+1,5.
+Nochmal probieren.
+Okay.
+Was kommt raus?
+Wir müssen das doch richtig schreiben.
+Ja, wir müssen tippen.
+Ist der...
+Und...
+Drei...
+Mal...
+Ruhig...
+Ruhig...
+Und von da hoch...
+Ja.
+Mal...
+235
+Ah, jetzt kommt es.
+mga ist gleich Newton pro Quadratmillimeter. 1 zu 1.
+23,5 mm.
+Das ist einmal 10 und 1,5.
+Für bar ist es 10.
+Newton pro Quadratmillimeter und mdA ist identisch.
+Haben Sie mal gerechnet?
+Äh, Aufblick.
+Was war denn draus?
+Was für eine Zahl?
+Noch.
+Das ist Ihre Aufgabe?
+Ja.
+Das ist 6,56 ungewohnt.
+Ja.
+Erfolg.
+Erfolg.
+In unserer Prüfung z.B. diese Aufgabe, in meiner Lösung ist es 6,56 mm am Ende, muss man z.B. 6,56 mm verschreiben oder drehen.
+Und dann aber, wenn Sie 6,6 mm Stahl kaufen möchten, gibt es nicht.
+Aber wenn man zum Beispiel, die Lösung ist 6,4 und man muss auch 7, diese Dicke dazukaufen.
+Nach oben, Dicke nach oben, nicht dünner.
+Haben Sie diese auch rausbekommen?
+Ja, für am Ende 6,55
+Genau, das ist die 5,2, ja, das passt
+5,2, 6,6
+5,1, was haben Sie da? 5,15, ja
+Ist ganz recht bei der Prüfung
+Eine Nachkommastelle
+Also wenn Sie einen Baustahl kaufen, ein Blech, dann wird es das wahrscheinlich in 6 mm und das nächste dann in 7 mm geben.
+Und dann müssen Sie den nächstgrößeren kaufen.
+Nicht von 6,6 dann sagen, ich mache nach unten, ich kaufe 6 mm.
+Ja, aber wir haben ja hier schon die 0,4 berücksichtigt. Schauen Sie mal. Das ist ja die Unterschreitung der Dicke. Die haben wir hier schon drauf gerechnet. Aus der Toleranz der Fertigung.
+Weil ein Blech, das 6 Millimeter oder 7 Millimeter dick ist, kann auch in 6,6 angeliefert werden.
+Das ist in der Toleranz.
+Und deshalb wird es bei der Rechnung wieder...
+...mog mal mehr, oder?
+Genau.
+Okay.
+Okay.
+Also so eine Aufgabe könnte man machen, ja, bei der Prüfung. Und dann müssen Sie hier die Werte
+raussuchen und das genau so machen, ja. Also ich würde das hier scannen und online stellen. Ich
+weiß jetzt nicht, die anderen sind nicht da. Jetzt hat ein Student, der immer da ist,
+Der hat heute viel OP, hat er gesagt.
+Okay.
+Klöpperboden.
+C.
+C, ein Klöpperboden, hat diese Formel.
+I.
+T ist Ea mal Pe mal Beta.
+Das ist der ideale Kugelboden, da kennen wir die Kesselformel, wenn die sich verändern, diese Kontur, gibt es andere Spannungen und diese anderen Spannungen müssen wir berücksichtigen.
+Und das macht man mit diesem Berechnungsbeiwert Beta.
+Für Halbkugelboden gilt im Bereich, für Klöpper- und Korbbogenböden gilt mit Y,
+TE-C1-C2 durch DA in den Grenzen bei der Klöpperform, Korbbogenform.
+Wir haben zu berechnen einen Klöpperboden.
+Schauen Sie.
+Was machen Sie?
+Ich werde jetzt nicht.
+Ach so.
+Das ist der Zylinder, das ist der Klöpperboden.
+Ja?
+Klöpperboden.
+Klöpperboden.
+Ist egal, wie der heißt.
+Okay.
+Ja?
+das ist der boden eine andere form das heißt es gibt eine andere berechnungsform und diese
+berechnungsformel hier sehen wir hier hier das ist die berechnungsformel und schauen sie
+Das ist die Klöpperform. Das ist der Klöpperboden.
+Da kommt für das Beta, ist gleich 1,9 plus 0,325 durch y hoch 0,7.
+Das ist so typisch, ich sag mal, eine Annahme.
+Jetzt müssen wir ein Vorgehen finden, wie wir das jetzt machen.
+wir müssen nämlich mit dieses y berechnen. Wir brauchen das y aus der Formel. Da ist te, c1, c2,
+da und das y wird dann da unten eingesetzt. Hier, das ist das y. Was fehlt uns jetzt? Was ist da?
+Der Außendurchmesser, der ist bekannt. C2, C1 kennen wir. Für das Te müssen wir einen Wert anlegen.
+Wir müssen einen Wert anlegen, sonst können wir das Y nicht berechnen. Also nehmen wir jetzt an,
+dieser boden hat eine ungünstigere beanspruchung als der mantel und dann
+sagen wir jetzt einfach wir nehmen ein ti an nach
+die Aussage, dass der Deckel dicker sein muss, weil er eine ungünstigere Beanspruchung hat
+und deshalb als Wert 8 Millimeter angesetzt wird.
+Damit können wir
+ich will Ihnen das jetzt nochmal zeigen
+da gibt es noch andere Normen
+wie man das machen kann
+wir hatten C1 und C2 0,4 und 1 mm
+und wenn man in diese DIN 2811 reingeht
+dann ist dieses C1 0,3 mm
+nur mal so als kleiner Hinweis
+und jetzt berechnen wir das Y
+bitte mal machen das kommt daraus
+hier wird die
+Frage, warum gibt es das C1, 0,4 und dann?
+Das ist nach einer anderen Norm.
+Diese andere Norm steht für das C1, 0,3 drin.
+Ich habe das ja angegeben.
+Ich habe nur mal ein Beispiel gemacht.
+Wie wirkt sich das aus, wenn man das einmal mit 0,4 rechnet und einmal mit 0,3?
+Weil die Normen, es sind zwei unterschiedliche Normen.
+Ja, verstehe.
+Und die eine sagt 0,3 und die andere sagt 0,4.
+Und damit gibt es unterschiedliche Berechnungen.
+Und da gucken wir mal, wie die Ergebnisse abweichen voneinander.
+Können Sie das rechnen?
+Ich habe schon gerechnet.
+Bei mir ist die C1 0,3.
+und das Beta
+müssen das hier ausrechnen
+und müssen das ausgerechnete Y
+das hier
+einsetzen
+hier in die Formel
+und da kommt ein Beta raus
+Vielen Dank.
+Das ist der ungünstige Beanspruchung, weil der Boden gegründet ist.
+3,1
+Ja
+Ganz genau
+Und die 3,1
+kommt jetzt da oben hin
+Hinweis, wenn ich das hier habe, 0,3 da, C1, C1 ist 0,3, kommt da raus 0,0582 und der
+Und der Ballwert ist dann 3,09, nicht so viel unter die.
+Ja.
+Ja?
+Wandstärke, was fehlt uns jetzt noch hier oben in den Formeln?
+Der Schweißwert. Dieses V. Hier gibt es keine Schweißnaht in dem Boden. Dieser Boden, der wird so hergestellt.
+Schauen Sie mal. Das ist ein Boden. Das ist ein Blech, was da hingelegt wird.
+Und dann fährt das Ding rum und biegt dieses Blech um. Da ist keine Schweißnaht.
+Das ist die andere Form, oder?
+Nein, nein. Das ist jetzt schon die richtige Form. Das ist der Klepperboden.
+Da kommt der Wert rein und dann kommt raus 3,1.
+Und das 3,1 müssen wir oben einsetzen.
+Und was fehlt uns jetzt oben noch?
+Das K, das S, da ist die 4.
+Wir brauchen den Wert hier.
+Von dem Schweißfaktor. Das hier.
+In dem Boden gibt es keine Schweißnaht.
+Wenn der Körperboden, wenn der jetzt so ein Mannloch hat, da ist ein Loch reingebohrt und es wird was drauf geschweißt, dann brauchen wir nochmal den Schweißfaktor.
+Den setzen wir hier jetzt 1,0.
+Bleibt immer 1,0?
+In dem Fall, dass man die Schweißung überpulst, ob es Fehler gibt, ja.
+und hier gibt es keine
+Schweißnaht in dem Boden.
+Der ist nicht geschweißt.
+Wenn sich geschweißt ist,
+ist der Faktor 1,0.
+Vorher haben wir gesagt,
+verringerter Pulsaufwand,
+die Schweißnaht wird nicht überprüft,
+dann ist der Faktor 0,8 drin.
+Dann wird die Warnstärke
+nach oben gehen.
+Jetzt haben wir hier berechnet,
+L50, 1,2
+bleibt, Beta 3,1
+aus der Berechnung
+durch 4
+235 durch 1,5
+mal
+durch 1,0
+wichtig ist da oben diese Annahme
+dass wir sagen, ok
+8 mm
+Nein, 1,0.
+Das ist keine Schweißnahrung.
+Frage. Bei der Prüfung, bei der Berechnung, es gibt verschiedene Fälle, ob die Schweißnaht überprüft hat.
+Wenn sie überprüft wurde, 1,0, getestet, mit dem Ultraschall zum Beispiel.
+Und die Aufgabe erklärt diese Bedingungen.
+Ja, genau.
+Ach so.
+Beim Klöpperboden ist keine Schweißnaht, deshalb ist V1,0.
+Ja.
+Ich habe da 6,8 aus.
+Oh, was haben Sie?
+Also warum am Ende zum Beispiel 8,2 hier kann man
+Ich würde sagen, der nächste Sprung zu 9 mm ist zu groß, weil wir haben mit Sicherheit
+1,5. Wir haben zwar keinen Schweißfaktor drin.
+Also wenn man ganz sicher gehen will, geht man auf 9.
+Und dann müssen Sie ja den Mantel und den Deckel draufschweißen.
+Dann müssen Sie den Übergang schaffen.
+Und 6, was haben wir oben gerechnet?
+7 mm auf 8 mm.
+Also das heißt, wenn man mehr diese 8,2 zu berechnen, man hat schon zum Beispiel Sicherheit und Toleranz zu decken.
+Wenn Sie eine Platte jetzt geliefert bekommen, plus minus 0,4, plus minus 0,3, kann die ausgeliefert werden.
+Das ist in der Sicherheit ja alles mit drin.
+Das ist der komplett untere Grenzfall mit 0,4 Milliliter.
+Wenn ich auf die 0,3 gehe, kommt auch 8,2 raus.
+Aber in unserer Prüfung, meine ähnliche Lösung ist diese 8,2 mm, oder?
+Das ist richtig, das ist richtig gerechnet.
+Ich würde jetzt nicht nördlich sagen, wir haben so viel Sicherheit da drin.
+Wir gehen auf T8 mm.
+Wenn Sie dann ein Produkt geliefert bekommen, kann das ja 8,4 sein und es kann 7,6 sein, von der Dicke her.
+Das haben Sie aber dann hier schon mit drin als Aufschlag, als Sicherheit.
+Deshalb kann man sagen, naja, 8,2 plus minus 0,4.
+ich habe die Abnutzung ja auch gerechnet
+das ist 1,0
+das kommt ja vielleicht gar nicht
+also da ist genug Sicherheit drin
+um dann sagen zu können
+wir nehmen die
+8 mm
+ok
+ja und wenn das jetzt in der Prüfung kommt
+Und jetzt kommt Kordbogen, sieht genauso das Beta hier, aber das gibt eine andere Formel.
+Muss man die nehmen.
+Text lesen, Transfer, gucken was die einsetzen müssen.
+Ich habe noch eine Frage. Man muss diese TE vornehmen und in dieser Aufgabe ist die TE gleich wie 8 kN, das ist ein bisschen größer als 7, oder?
+Ja, das ist wie man diese 8 kN...
+Genau, weil die Form des Bodens ungünstiger ist für die Spannungsverteilung.
+hier steht ja eine 4
+hier steht eine 4
+beim Zylinder steht da eine
+eine 2
+und dieses Beta
+3,1
+zeigt dass drei durch vier ist weniger als ist mehr als ein halb da geht die wandstärke nach
+oben aufgrund der berechnungsformen und der ungünstigeren form ja deshalb sind die decke
+etwas dicker und wir haben jetzt die annahme getroffen wir machen den jetzt 8 mm wir können
+das ja mal spaßeshalber mit 9 mm durchrechnen, ob was anderes rauskommt. Ich glaube nicht.
+Habe ich jetzt nicht gemacht, aber Sie sehen dann dieses Zehntel C1,
+0,3, 0,4, das macht nicht viel außen. Das bringt in der Wandstärke keinen Unterschied.
+Wir können das ja mal machen mit 9 Millimeter. Rechnen wir das mal. Ich mache das mit.
+Einfach mal mit 9 Millimeter. Wir haben 8 Millimeter gewählt.
+Und jetzt rechnen wir mit 9. Einfach mal durchrechnen.
+Also 9 plus 1,4 durch.
+Also 50, nein, minus 9, minus 8, minus 6, 0,66.
+Jetzt machen wir noch diese Klöpperbohm, oder?
+Klöpper.
+Nö.
+Oder andere?
+Der ist schon fertig.
+Das ist der Klöpperbohm.
+Okay.
+So, jetzt machen wir...
+Wir machen dasselbe mal.
+Rechnen Sie das mal hier mit 9 Millimeter.
+Ja, aber machen wir Klöpperbohm?
+Noch?
+Nein.
+Oder Kurbelbohm?
+Nein.
+Aber machen wir noch eine Kurbelbogenform?
+Nein, wir haben nur die Klippe gemacht.
+Vielen Dank.
+Amen.
+Vielen Dank.
+2,99
+Noch nicht.
+1, 1, 2, 1, 2, 3, 4, 5, 6, 7, 8.
+Ich wünsche euch einen schönen Tag.
+Ja, 6,58.
+Also wo ist die 1,4?
+Wo kommen da heraus?
+C1 und C2, zusammengelechnet.
+Also kommen wir dann auf Gesamtwandstärke 7,98 mm.
+Vorher haben wir 8,2 gehabt.
+Was?
+8,2?
+8,2.
+Vorher mit T-Annahme 8 mm, Beta 3,1, kommt ein Wert T 6,8, insgesamt 8,2 mm.
+Wenn wir T nähen, schauen Sie, haben Sie es geschafft?
+Ja.
+Und auch das hier raus? Moment. Ja. Das passt schon. Ja, genau. Ja? Ja.
+6,9. Und dann sehen Sie, das ist TE9, 2,99. Und dann wird dieser Faktor etwas kleiner,
+wie die Spannung abgetragen wird
+und die Bandstärke ist 6,6
+statt 6,8.
+Ja?
+Aufgrund der unterschiedlichen Annahme bei dem
+TE.
+Und das ist im Grunde genommen eigentlich das identische
+Ergebnis, ne?
+Okay, jetzt machen wir
+eine Viertelstunde Pause, reicht das?
+Ich muss mir was zu essen holen
+und dann
+schauen wir mal.
+Schwierig?
+Nein
+Nicht so
+Es ist immer nur
+Berechnen
+Step by step
+Ja, wenn man
+wie
+diese Aufgabe
+zu machen
+kann man andere Aufgaben
+auch machen
+Und das ist ja mal so, mache ich das dann auch
+in der Prüfung, dass eine ähnliche Aufgabe
+Wo man dann mal schauen muss, sagen wir jetzt vielleicht bei 100 Grad und Text nachlesen muss, naja 100 Grad geht bis 120, das alles so ein bisschen im Auge haben.
+Ich kann die Vorlesung am nächsten Dienstag nicht machen.
+Nicht machen?
+Können wir da auf den Freitag gehen?
+Welcher Freitag?
+Nachgangstag oder Vormittag?
+Ich habe Zeit, morgen Vormittag.
+13 Uhr.
+Ich bin frei.
+Okay.
+Komm.
+Es geht nicht anders, da ist mittags eine Sitzung, da möchte ich eigentlich teilnehmen, weil es ist schlecht mit der Vorlesung.
+Ich mache dann eine Publikation dazu.
+Freitag an dieser Woche, oder?
+Nein, nächste Woche.
+Okay.
+Das wäre ja morgen schon, das ist zu früh.
+Ja.
+Okay, jetzt sind wir noch ein bisschen beim Spreisen.
+Darum geht es jetzt entsprechend zu berechnen,
+wie man zum einen Sachen konstruktiv ausführt
+und dann eine Berechnung zugänglich macht.
+Wir haben hier eine sogenannte Kehlnaht, eine Schweißnaht, die in unseren Röchteck reingesetzt wird.
+Und da können wir jetzt entsprechende Berechnungen vornehmen mit Spannungen,
+die im Fall A in Zugrichtung wirken oder Zugspannungen in der Nahtrichtung vorhanden sind
+oder quer zur Naht vorhanden sind.
+Das wäre der Fall quer zur Naht,
+mit einem Rechteck hier und einem Parallel in Nahtrichtung.
+Das können wir hier auch sehen, in dem Fall 1 und 2.
+Was man hier wissen muss,
+das A-Maß, das wird so bezeichnet.
+Ich hatte gesagt, auch bei den Kunststoffen
+hat man das so übernommen.
+Hier haben wir im Prinzip hier eine Wand, hier wird irgendwas draufgesetzt, dann nimmt man das hier als Schweißnaht, als Kehlnaht, um den Boden zu befestigen.
+Man macht das immer symmetrisch. Und dieses Maß ist hier das A-Maß. Dieses A-Maß wird hier runtergespiegelt und wird benutzt, auch für die Berechnung.
+da unten sieht man das schraffiert und wenn man jetzt solche sachen berechnen möchte zum
+beispiel hier ist ein kreis unter dem rohr an die wand angeschweißt mit einer umlaufenden kehlnaht
+dann ist das immer das A-Maß, das Dreieck.
+Und dieses A-Maß nehmen wir aber 1 zu 1, um die Berechnung machen zu können.
+Dieses A soll größer sein als 3 mm,
+aber kleiner gleich A, das ist S,
+Die Wandstärke beträgt 10 mm, die Schweißnaht soll 7 mm sein.
+Man muss die Schweißnaht immer symmetrisch anbringen.
+Wenn man z.B. in der Art und Weise eine Veranspruchung hat,
+dann lässt sich diese Kraft in zwei Richtungen zerlegen.
+Die A1 und die A2 und dann sieht man hier, wenn man zwei Schweißnähte aufgebracht hat, eine symmetrische Belastung.
+Wenn nur eine Schweißnaht aufgebracht ist, dann kommt hier eine Zugspannung und eine überlagerte Biegung auf dieses Bauteil.
+Die gesamte Kraft belastet den Nachwärtsschnitt auf die Zugspannung und eine Biegespannung.
+Die Spannung hat immer ein positives und ein negatives Vorzeichen, Zug- und Druckanteil, der hier gleichmäßig verteilt ist.
+Und dann gibt es hier eine Momentenbelastung der Bibel.
+Das sollte man vermeiden.
+Was man jetzt hier noch zusätzlich sieht, eine typische Kehlnaht mit dem Maß A, ist hier angezeichnet.
+Dieses A ist, was wir auch als prinzipielle Rechnungsfläche hernehmen, um Spannung übertragen zu können, obwohl die Fläche hier unabstreckend größer ist.
+Rechnerische Nahtlänge beim Anschweißen eines runden Rohres auf eine Rundplatte.
+das Rohr wird da umlaufend angeschweißt
+das ist mein A-Maß
+mit dem entsprechenden Verhältnis
+zu der Randstärke
+des Rohres
+was in dem Fall
+das Geh hat
+das heißt
+wenn jetzt hier eine spannungstragende Fläche
+der Schweißnaht ergibt sich
+als Kreisringfläche
+die Nahtdicke ist klein
+gegenüber dem Rohrdurchmesser
+kann die Kreisdicke näher oder abgedeckter
+das Rechteck angenommen werden
+A, die Fläche, die jetzt hier vorhanden ist, ist Pi mal E mal A.
+In dem Fall da hinten, wenn das nicht gut lautet,
+und der rechnerischen Länge
+diese roten Dreiecke,
+die werden ausgespart.
+Dann ist die Länge der Schweißnaht
+dieses C mal A zweimal
+und C mal A zweimal.
+Achtung, selbst wenn Sie jetzt hier rumschweißen, haben die keine Anbindung zu dem Körper.
+Und deshalb dürfen sie bei der Betrachtung der Last nicht mitgenommen werden.
+Die werden ausgespart.
+Okay?
+Waren keine Kräfte.
+Wenn ich jetzt daran ziehe, dann sind nur die Kreuzen und Rechtecke davon beteiligt, dass die Treppen übertragen werden.
+Hier, wenn ich sowas habe, so eine Schweißnaht, dann gibt es das Gleiche.
+Ich weiß jetzt nicht, wie sieht das bei Ihnen jetzt aus so?
+Moment.
+138?
+Ohne die rote Schrift. Nein. Das fehlt. Ja. Das fehlt. Das müssen Sie nachschreiben.
+Sigma ist gleich F durch 2 mal A. Und wir haben einen nur nutzbaren Nahtverschnitt. Nutzbar.
+Wir müssen diese Endflächen A zweimal abziehen.
+Das sind sogenannte Endkrater.
+In der rechnerischen, also in der tatsächlichen Länge sind 2A abzuziehen.
+Und dann ist die Fläche Sigma nach Entspannung F durch A, die Fläche 2 mal A, durchfällt tatsächlich Minus 2 A.
+Verstehen Sie das?
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Okay. Also wenn man das jetzt hier so durchschweißt, gibt es am Anfang so einen Krater und die Anbindung ist vielleicht nicht so gut.
+Und deshalb zieht man bei der Berechnung diese Endkrater ab.
+Haben Sie es?
+Ja, hier ist es nochmal Beispiel, also Endkrater abziehen, es gibt eine nur wirksame Nahtlänge.
+Wenn ich jetzt hier schweiße, zwei Fläche aufeinander, dann habe ich hier diese Schweißlänge.
+dann muss ich bei links, L ist gleich F, minus 2 mal A, 2 mal Endkrater abziehen.
+Wenn ich allerdings um die Ecke herumschweiße, in einem Zug,
+so wie rechts, habe ich nur einen Endkrater, und dann muss ich nur einen Endkrater abziehen.
+Das Bild, das Oberbild und das Unterbild, ist es entsprechend?
+Das hier und das? Nein.
+Hier hat man was gemacht.
+Man macht eine Schweißung von dem Bauteil.
+Und das ist ein Hilfsmittel, was man anlegt.
+Ein zweites Blech und ein drittes Blech.
+Dann kann man hier anfangen zu schweißen und zieht das durch.
+Und das hier wird nachher abgetrennt.
+Damit ist komplett die Länge durchgeschweißt und es gibt keine Endkrater.
+Ich muss das 2 mal A, 1 mal A, 2 mal A nicht abziehen.
+Das ist ein Hilfsmittel, damit man durchschleißen kann.
+Und wenn man durchschleißen kann, muss man die Endkrater nicht abziehen.
+Also die wirksame, dann wird das hier von der Berechnung besser,
+weil Sie 2 mal A nicht abziehen müssen,
+sondern diese nachher in einem Auslaufblech, das entfernt wird.
+Ja?
+Ja.
+Okay.
+Gehen wir zu dem. Das ist eine Gabel, die geschweißt wird.
+Da oben haben wir die Stützen draufgesetzt. Da ist die Schweißnaht.
+Das Ganze kann zum Beispiel mit einer Bolzenverbindung hier aufgebracht werden.
+So muss man die Schweißnähte berechnen. Das ist hier durchgeschweißt.
+Und wir müssen am Ende aber auf der Seite und auf der anderen Seite, auf beiden Seiten, diese Endkrater abziehen.
+Die Länge L ist quasi das Maß der Fläche, was da oben drauf gesetzt ist.
+Und da wird jeweils zweimal das A abgezogen.
+Und für die Berechnung ist nur diese rote Fläche zuständig.
+Oberfläche zuständig
+Ja, diese hier, das was im Boden drin ist, das A
+und das A wird abgezogen
+und damit ist die wirksame Fläche für die Zugspannung
+zum Beispiel A mal L
+wie hier, A mal L, und dieses A mal L
+ist L oder B minus 2 mal A
+Mal Tee.
+Diese Stumpfnaht hat die Bauteil Dicke T.
+Also nicht diese 0,7 mal S, sondern S.
+Fragen dazu?
+Okay, verstanden?
+Ja, also nochmal, nochmal, nochmal, nochmal, dass wir uns da nicht missverstehen.
+das ist das ja für die berechnung wird dieses hier runter gespiegelt und dann
+haben wir das hier ja das nehmen wir aber zur berechnung
+Das ist das A. Dieses A wird so hingelegt, das wird für die Berechnung hergemacht.
+Verstehen Sie? Das ist kleiner.
+Dieser A ist kleiner als dieser A, oder?
+Ja, genau.
+Nein, das ist dieses A. Das ist nominal größer, aber wir berechnen das mit A.
+Mit der Dicke der Schweißnaht, mit diesem A-Maß.
+Und dieses A-Maß ist normalerweise 0,7 mal Wandstärke.
+Bei dünneren Flächen macht man die Schweißnaht dicker.
+als 0,7. Und dann wird das so berechnet. Ich habe das A jetzt glaube ich hier falsch
+eingezeichnet. Das ist nicht das A. Also diese Form, diese A ist hier oder? Die Dicke, ja.
+Diese A ist nicht diese A, oder?
+Doch.
+Doch.
+Ja.
+Du willst Dreieck haben.
+Das ist mein A-Maß, und mit dem berechne ich.
+Das ist jetzt nicht gleichzeitig gemacht, das ist schwierig, wenn man keine geometrischen Verhältnisse hat.
+Also da sieht man das auch, oder?
+Das ist das A, aber man nimmt das für die Berechnung.
+Und man sagt A ist immer das Maß mit dem berechnet wird.
+Wenn man sagt A, das bedeutet A like this.
+Aber wenn man mit rechnen zu machen, A ist Dicke.
+Genau, Dünne.
+Okay.
+Wir sind gleichzeitiges Dreieck haben.
+Also ich glaube, in dem Bild sieht man es doch ganz gut, oder?
+Ja.
+Das ist die Annahme für die Berechnung.
+A.
+Ah, die Annahme für euch.
+Das ist das A-Maß.
+Wenn wir das jetzt hier runter drehen, dann ist das nominal ist das größer, ja?
+Das ist ja die Schweißfläche, ja? Aber für die Berechnung nehmen wir nur das.
+Wenn ich jetzt aber wirklich schaue, wie groß ist die Fläche, dann ist die etwas größer.
+Und deshalb bringt das eine zusätzliche Sicherheit, weil das A-Maß für die Berechnung kleiner
+als die eigentliche Fläche.
+Ja?
+Brich mir jetzt die Größe aus.
+A für Brich mir jetzt die Größe aus.
+Kleiner.
+Wenn ich das hier nehme, das ist mein A-Maß.
+Das ist die reale A, oder?
+Das sind zwei Bauteile, die ich geschweißt habe.
+Das ist mein A-Maß.
+Zum Beispiel ist S gleich 10, dann ist A gleich 7.
+Wenn ich das jetzt hier berechne, A gleich 7,
+dann habe ich hier nicht 7 mm, sondern eine entsprechend größere Länge,
+aber ich nehme nur die 7 her für die Berechnung.
+Die Fläche ist etwas kleiner.
+Ja?
+Die Berechnung für dieses A-Maß ist etwas kleiner.
+Wenn ich jetzt so einen Lastfall habe, eine Verrechnung wird sehr häufig Schub auf.
+Dabei kann man nur entsprechende Flächen berücksichtigen, die in dieser Richtung der Kraft wirken.
+Wenn man sich das jetzt als Feder vorstellt, Feder ist elastisch, sind hier diese beiden Bauteile miteinander verbunden.
+Schauen Sie mal.
+Das ist jetzt symbolhaft, die Verbindung. Einmal diese Platte und diese Platte.
+Wenn wir jetzt eine Schub-Beanspruchung haben, dann wird diese Fläche sehr weich sein und
+die Beanspruchung lässt sich leicht biegen, während das hier, diese lange Fläche, viel
+mehr Schub aufnehmen kann und deshalb sagt man, diese quer zur Richtung liegenden Schweißnähte
+werden bei der Berechnung nicht berücksichtigt.
+Und wenn man betrachtet nur,
+also hier querliegende Flächen werden bei Betrachtung vernachlässigt,
+weil diese Feder sehr weich ist und kaum einen Beitrag leistet,
+sodass die wirksame Fläche für die Übertragung der Schubkräfte
+nur für Zweifel gilt, die in der Kraftrichtung liegen, im Kraftfluss.
+Und nicht quer dazu.
+Beispiel, das hier.
+Wenn ich eine Kraft habe, die jetzt hier die blaue Kraft zum Beispiel in dieser Richtung wirkt,
+dann ist blau die für mich relevante Fläche.
+Die anderen Schweißnähte, die zusätzlich vorhanden sind, werden nicht betrachtet.
+Wenn ich hier eine Kraft habe, auf einem Kreisring, der geschweißt wurde,
+dann ist nur dieser Winkel von 90 Grad relevant.
+Das heißt, man braucht dort unterschiedliche Flächen, man muss die richtigen Flächen raussuchen.
+Die Flächen nach DIN 18800 im Stahlbau sind die vorgeschlagenen, die Schubspannung,
+Schweißlegung, Senkrechtzahlen wird man gerade nicht zu berücksichtigen.
+Hier steht das nicht.
+Und in Vorzugsrichtung. Wenn ich bei Grün jetzt was habe, also von oben die Kraft wirkt, wäre das auf das Grüne wirksam.
+Bei der blauen Kraft wäre es die blaue Fläche.
+Und hier unten, wenn das Kreis unten ist, das Ding, die Kraft steht da drauf, dann sind das nur die Flächen, die im Kraftfluss liegen.
+und dann sagt man zum Beispiel, man nimmt die hier von 90 Grad, 180 Grad, statt 360 Grad,
+die zwar geschweißt sind, aber bei der Berechnung keine Rolle spielen.
+Einverstanden? Ja?
+Die Blau gilt für die Schub- oder die Grün.
+Blau gilt für die blaue Kraft.
+Wenn die Kraft jetzt von der Seite kommt, dann sind das die Kräfte, die über diese Schweißfläche abgetragen werden.
+Kommt die Kraft von oben, sind es diese grüne und diese grüne Fläche.
+Das gilt für den Pfeil rechts, für die rote Fläche.
+Die Zugspannung ist Querkraft durch die zu selektierende Fläche, ja?
+Die zu selektieren?
+Für diese Fläche, für dieses ASCH, für die Schweißnähte, die in Kraftflussrichtung liegen.
+Nicht quer dazu.
+Selektieren.
+Selektieren.
+Okay.
+das heißt das ist jetzt rundum geschweißt aber je nachdem wie der lastfall ist und
+ich eine berechnung mache muss ich diese flächen selektieren aussuchen wählen richtig aussuchen
+und immer die Endkratzer abziehen.
+Hier ist eine Biegenspannung,
+ein Biegmoment
+über diese Länge.
+Jetzt hatten wir keine Auslauffläche.
+Wir müssen bei dem A-Maß
+da hinten das zweimal abziehen.
+Und dann ist das
+die Fläche, die wirksam ist,
+über die dieses Biegmoment
+ausgebracht wird.
+Das haben Sie nicht, oder?
+Ja.
+Nächstes.
+Aktialen Widerstandsmoment.
+Aktialen Widerstandsmoment.
+Aktialen Widerstandsmoment.
+Das A mal L Quadrat.
+Das ist ein L.
+Das ist natürlich viel günstiger als bei dem anderen Fall, wo die Biegung über die Dicke der Platte gemacht wird.
+Die Dicke der Platte ist jetzt hier in der Rückkrusten.
+Was lässt sich leichter biegen?
+Wie wieder?
+Welche Variante ist einfacher zu verbiegen?
+Zweiter.
+Zweiter, die ist viel weicher.
+Genau, weil das A viel kleiner ist als L.
+Ja? Gut.
+Weiter geht's im Takt.
+Jetzt haben wir hier oben eine Schleißnaht.
+Wir haben hier eine Zugkraft.
+Und wenn schwere Linien nicht übereinander liegen,
+entsteht zur Längskraft zusätzlich ein Biegemoment.
+Das kann man verhindern, indem man symmetrisch die Schweißnähte legt.
+Das heißt, hier müsste man auch eine Anbindung machen über diese Seite.
+Das ist eine äußerst ungünstige Krafteintragung.
+Wenn jetzt hier vorne eine Zugkraft wirkt,
+kriege ich auf einmal Zugbeanspruchung zusätzlich oder Zugbeanspruchung in dem Fall und dann
+zusätzlich ein Wiegemoment. So sollte man das nicht machen. Das heißt, man muss immer
+dieses W-Achs bestimmen.
+Das ist W mal H hoch 3, 12.
+Hier haben wir jetzt einen Fall,
+der deutlich besser dargestellt ist.
+machen wir jetzt in den Übungen. Hier wird durch eine Querkraft eine Querkraftkomponente
+Eingefragt, die zusätzlich hier zu einer Übung wird.
+Und man muss dieses Widerstandsmoment jetzt erledigen.
+Wenn man jetzt hier ein Torsionsmoment hat, hat zum Beispiel so ein Rohr, das an der Wand oder an einem Bauteil angeschweißt ist.
+Da wieder über unser Amas, Hohlwelle, Hohlwelle, dann ist das sozusagen unsere Kreisringfläche, Schweißnachfläche, über die diese Kräfte abgetragen werden.
+Die Formel dazu, zu dem B-Pol, bitte mal abschreiben.
+Haben Sie die?
+Nein.
+die haben wir schon mal gemacht
+B-Pol ist
+Groß D
+der Außendurchmesser
+Minus D
+Kleind, Innendurchmesser
+4 mal Pi durch 16D
+und jetzt kann man das Groß D
+ersetzen
+durch D
+plus 2 mal A
+Ah, ich bin doch dabei.
+Ja.
+Okay.
+Ich sehe, dass wieder etwas entstanden ist.
+Der große Durchmesser d ist der kleine Durchmesser plus 2 mal a.
+Wir haben jetzt hier dann Vergleichsspannungen, die wir machen müssen.
+Wenn wir zum Beispiel eine Zugspannung haben und eine Schubspannung, bildet man eine daraus abgeleitete Vergleichsspannung.
+Spannung, die für den statischen Lastfall Alpha gleich 1 gesetzt wird und Alpha gleich
+2 für eine dynamische Belastung. Dabei wird die Normalspannung aus Zug und Druck und Biegung
+und die Tangentialspannung aus Bergkraft, Schub und Torsion zusammengesetzt. Bei der
+Der Schutzspann und Tau ist darauf zu achten, dass nur die Nähte zu berücksichtigen sind, die parallel zur Belastungsrichtung gelehnt werden.
+Werte gültig, jetzt sind hier die Stahlsorten dargestellt, dieser S235, den hatten wir heute Morgen,
+Und für den gilt die Festigkeit bei einer Kehlnaht auf eine reine Zugdruckbeanspruchung von 105 Nm pro Quadratmillimeter mit dem etwas höherwertigen Material kommen wir da auf 155 Nm pro Quadratmillimeter.
+Bei einer Stumpfnaht zum Beispiel, wo der Zug herrscht, 112.
+Hier sind so ein paar dynamische Kennwerte dargestellt.
+Das ist jetzt nicht das Miss-Diagramm, so wie wir es gelernt haben, sondern das ist eine andere Darstellung.
+Hier ist das Spannungsverhältnis von Unter- und Oberspannung aufgezeigt für entsprechende zusätzliche Spannungen und für solche unterschiedlichen Materialien.
+Das haben Sie auch, oder?
+Ja.
+Alles gut.
+Wir haben jetzt über eine Seilrolle eine wirksame Kraft, die in dem Lager herrscht,
+in Zuge dessen, dass hier ein Gewicht dran hängt, eine Last.
+Die unten dargestellte Rufvorrichtung besteht aus einem Rechteckrohr,
+Mit den dargestellten Abmessungen. Am freien Ende des Kragbalkens ist eine Seilrolle angebracht, mit der die Lasten bis 64 kg angebracht werden können.
+Die Schweißnaht ist ein maximal möglicher Schweißnahtleger, auch zu führenden Irren, sowohl im Grundwerkstoff als auch Schweißnaht, bestehend aus S235.
+Wir müssen jetzt berechnen, wie im Zuge der aufregenden Querkraft
+die Punkt- und Diegespannung aussehen und die entsprechende Schubspannung.
+Wir rechnen, wie groß ist die der Schweiß nach aufregende Gleichspannung, wie groß ist die Sicherheit, wie groß darf die Last maximal werden, wenn die Sicherheit 2 sein soll.
+Das sind jetzt Aufgabenstellungen.
+Das heißt, wir müssen erst einmal hier ein Kräftegleichgewicht schaffen in X- und Y-Wichtung,
+um zu sehen, wie groß sind die wirksamen Kräfte in dem Pärschnitt.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Okay.
+Okay.
+45.
+Ich mache mal die Rechnung rein.
+Also ich brauche keine Radien.
+Ja.
+Vielen Dank.
+Danke.
+Ja?
+Das Rohr ist 5 mm dick.
+Die Größe darf A sein.
+Wir haben gesagt, immer A 0,7 mal S, dann kommen wir auf eine minimale Wanddicke für die Schweißnaht A 0,7 mal T-Min 3,5 Millimeter.
+Haben Sie das?
+Ja.
+Können wir das jetzt durchführen?
+Ich muss jetzt
+für Zugdruck
+die gesamten Flächen
+Die gesamte Fläche, die für eine Zugdruckbeanspruchung verantwortlich ist, ist 4.
+mal die 100 mal 3,5
+Wenn wir das hier rundherum schweißen
+Das sind jetzt die Schweißflächen, das ist 100, das ist 3,5, das ist immer 100, das ist
+leider nicht symmetrisch bezeichnet, und das ist diese Fläche viermal.
+Ja? A für Zugdruck ist 4 mal 100 mal 3,5.
+Für Schub gelten nur die Flächen, die und die und die und die, wenn die Kraft nach unten
+über. Käme die Kraft von der Seite, wären es die beiden anderen. Deshalb ist A Schub
+2 mal 100 mal 3,5.
+Das ist jetzt eigentlich an der falschen Stelle.
+Ich weiß nicht, ob Sie das
+technischer Mechanik gemacht haben. Das axiale Flächenträgheitsmoment setzt sich zusammen aus
+dem Abstand der schweren Linie.
+Vielen Dank.
+das ist ein bisschen kompliziert
+haben Sie das mal gemacht
+im technischen Mechanik
+vielleicht ein Trägheitsmoment
+oder vergessen
+wir versuchen es mal
+bei der Übung die wir nachher machen
+die hier
+das machen wir nächste Woche
+die wirkt über einen
+Hebelarm
+ein Wiegelmoment
+und es bringen Schubkräfte auf
+und es bringt ein Wiegelmoment auf
+und man muss jetzt
+das Widerstandsmoment
+dieser Schweißnähte
+bezüglich der
+vorhandenen
+Elemente
+richtig aufteilen
+dann kann man das berechnen. Das hier ist jetzt ein viel einfacherer Fall. Wir haben
+bei dem Schuh, dann sind das quasi nur noch diese Flächen, die querwirksam und tragend
+sind.
+Wir müssen jetzt, und zwar gibt es dafür eine Regel, wenn wir jetzt eine Biegung haben,
+wir haben ja einen Biegmoment, was eingebracht wird, über den Hebelarm.
+Hier, das hier.
+Ja?
+Das hat einen Hebelarm und bringt einen Biegmoment ein und die Kräfte werden abgetragen.
+Es gibt den Querkraftschub, es gibt potenziell eine Zugkraft und es gibt einen Biegel, Zugdruck,
+Biegenbelastung.
+Ja?
+Und wir müssen jetzt, um für die Biegespannung den richtigen Wert zu ermitteln, Sigma B, also dieses MB, die daraus korrespondierende Biegespannung, ist Sigma B durch MT, hat er es hier genannt, oder wie heißt es hier?
+Mb
+Fliegelmoment
+durch
+Wb
+und wir müssen jetzt
+dieses Wb
+ermitteln
+dieses axiale
+Moment
+und das ist nichts anderes
+das W
+ist gleich
+I
+Axial durch E
+das ist der maximale Abstand
+wir müssen das jetzt rechnerisch
+zusammenfügen
+und hier ist diese schwere Linie
+über die
+diese Biegung
+stattfindet
+und
+das hier
+Hier, was wir hier haben, da liegt der Schwerpunkt des Flächenträgheitsmomentes genau auf dieser schweren Linie, über diese Biegung stattfindet.
+Und das ist diese erste Komponente, die wir hier berechnen.
+Dieses I-Axial von der Fläche 1 und von der Fläche 2 und 2 ist gleich A hoch 3 mal B.
+Über diese schwere Linie wird gebogen.
+Wir haben die Höhe des Rechteckes hoch 3 mal die Breite in Zwölftel.
+Wenn man das einsetzt, dann kommt für dieses I-Achs 1 und 2 gleich raus, B ist 3,5 mal 100 hoch 3 durch 12 Einheit Millimeter hoch 4.
+Vielen Dank.
+gibt es einige dinge wie die formel sammlung dort
+wir rechnen jetzt so eine aufgabe
+Wir werden in der Prüfung eine ähnliche Aufgabe aufrechnen, die Sie erleichtern können.
+Deshalb will ich wissen, ob Sie das jetzt verstanden haben.
+Unsere selbste Formsammlung wäre nun zum Chinesisch.
+Ja, mir auch.
+Okay.
+Das ist der Egal, oder?
+Ja, komplett.
+Jetzt habe ich hier, hier kommt ja das Moment, das steht da jetzt hier so vor.
+Der Balken, da ist die Schweißung, der zieht nach unten.
+Das heißt, die sind besonders biegesteif.
+Die können gute Kräfte aufnehmen.
+Und deshalb brauche ich, um zur richtigen Bestimmung der Biegespannung zu kommen,
+das axiale Flächenträgheitsmoment und muss das berechnen.
+Und für dieses 1 und 2 gilt dann diese Formel.
+So. Ja? Und das Widerstandsmoment von dem hier, da liegt der Schwerpunkt, um den gebogen wird, um die Strecke Y außerhalb.
+Ja, das ist der Abstand, den wir da haben.
+Und der ist genauso groß wie dieses Y hier.
+Und dann habe ich wieder dieses Rechteck und das ist die schwere Linie,
+in die hier gewogen wird.
+Jetzt hat sich aber dann im Zuge dessen, also dieses I-Achs,
+3 und 4. Das sieht anders aus.
+4-Achs, 3 und 4.
+Das setzt sich jetzt zusammen aus zwei Komponenten.
+Das ist einmal die Fläche, die hier vorhanden ist.
+Das ist über diese Biegung hinweg.
+b mal h hoch 3 zwölftel wie vorher auch mit achtung bitte schauen
+hier oben diese schwere linie über die gebogen wird was ist jetzt das h
+h ist das 3,5, ist gleich, aber da kommt noch eine weitere Komponente dazu, das ist die Achse, 3 und 4 ist gleich die 3,5, wo die gebogen wird, zum Quadrat, mal 100 ist die Länge,
+12 plus eine Komponente, das nennt sich jetzt Steiner.
+Das ist unser Steiner-Anteil.
+Auf der gemeinsamen Schwere, die wir hier sehen, dieser Steineanteil, setzt sich rein formal zusammen auf der Fläche A mal Y Quadrat.
+Was heißt das?
+Die Fläche 3 ist diese 100 mal 3,5 Millimeter und je weiter der Abstand ist von der schweren Linie der Gesamtverbindung, desto mehr Kraft kann die aufnehmen, desto größer wird das Widerstandsmoment.
+Und das machen wir jetzt, dieser Steineanteil ist A 100 mal 3,5, das ist A und das Y ist was?
+Können Sie das Y ablegen?
+Aus.
+Stopp, sorry, ich bin hier falsch.
+Hier, dieses y ist der Abstand der schweren Linie dieser Fläche von der schweren Linie der Biegung.
+Und die herumgewogen wird, symmetrisch jetzt in dem Fall.
+Wie groß ist das y?
+1,57,75
+Genau, das sind die 50 hier.
+Die Luftdichte des Außenmaßes, die Wandstärke der Schweißnaht ist 3,5 und dann sind das hier 1,75.
+Also mal 51,75 zu Quadrat.
+Alles in Millimeter hoch 4.
+Ja?
+Ja?
+So macht man das jetzt.
+So werden wir das später machen mit dieser anderen Konstruktion, weil das jetzt hier schön symmetrisch ist.
+Da wissen wir, die schwere Linie der Gesamtschweißverbindung liegt genau hier.
+Die beiden liegen auch dran.
+Da gibt es keinen Steineranteil.
+Das heißt, wir haben dieses I-Achs-Gesamt ist 2 mal I-Achs 1 plus 2 mal, weil die gleich sind, I-Achs 3.
+Okay. Ja. Das ist jetzt hier, das hat er hier gerechnet.
+Kann man nachvollziehen?
+Vielen Dank.
+Man braucht immer die schwere Linie der Verbindung.
+Ich muss mal das Erste ermitteln und liegt diese schwere Linie der Verbindung oder Flächen weit weg von dieser schweren Linie,
+muss man das über den Steineranteil um diese schwere Linie herum, wie die Biegung stattfindet,
+die eine Seite hat Zug, die andere hat Druck, entsprechend berechnen.
+Wer hat das jetzt hier gemacht? Sie haben das doch richtig gesehen. 100 mal 3,5 und die 51,75 und da kommt dieses axiale Flächenträgheitsmoment von 2,46 mal 10 auf 6 Millimeter auf 4 zustande.
+Ja? Da wo jetzt der rote Punkt ist.
+Ich habe das hier vielleicht ein bisschen falsch gemacht, damit wir kein Missverständnis haben.
+a x 4 ist gleich a x 3.
+Wir haben den gleichen Abstand um diese schwere Linie herum und haben auch die gleiche Größe.
+Ja, und das gleiche gilt da unten für das, nicht dass das Plus heißt, sondern, äh, genau, a, i, i, a axial 4 ist gleich 3, ist dieser Wert, deshalb wird das da unten zweimal genommen.
+Und das hier haben wir dann auch, wenn es richtig formuliert ist, denn eigentlich ist das I-Achs 2 gleich I-Achs 1 und kann so zuzugiert werden, um diese Schwere, die hier herum mit dem großen Abstand, wenn wir also eine Biegung haben, immer das Widerstandsmoment nach außen bringen.
+Was fehlt jetzt? Ich glaube, ich zeige es nochmal.
+Dieses IAX1 hat die schwere Linie da und die liegt genau in der Gesamtverbindung.
+Deshalb brauchen wir hier nur diesen Anteil aus dem IAX1 und IAX2.
+die sind identisch, ist b mal h² zwölftel, 3,5 mal 10 mal 100 hoch 3 durch 12 mm hoch 4.
+Das ist diese eine Komponente. Die gibt es zweimal.
+Deshalb kommt bei der Gesamtaddition das zweimal da rein.
+Die Komponente dieser querstehenden Flächen ist b mal h hoch 3 zwölftel.
+Hier ist das h die 3,5, das b ist die 100.
+Deshalb geht das 3,5 ins Quadrat, die 100 durch 12.
+Und dann gibt es diesen Steineranteil. Weil die schwere Linie dieser Fläche außerhalb der Biegerichtung liegt, wird diese Komponente additiv zusammengesetzt aus a mal dem Abstand y zum Quadrat.
+a ist die Fläche, 100 mal 3,5
+y² ist die 51,75
+Die Flächen gibt es zweimal jeweils
+und damit ergibt sich ein gesamt axiales Flächenprägheitsmoment
+von 2,46 mal 10 hoch 6 mm hoch 4
+Und um das axiale Widerstandsmoment zu berechnen, braucht man den maximalen Abstand.
+Das sind die 50 plus 3,5 jetzt.
+Dort wird die Spannung maximal sein.
+Wenn ich eine Beanspruchung habe, durch das axiale Widerstandsmoment,
+dann kommt 45,9 mal 10,3 raus.
+Ja?
+Frage?
+Ja.
+4 ist gleich 3, ja.
+Wir haben beide die gleiche große Fläche, beide den gleichen Abstand und liegen identisch zur Schweißnaht.
+Richtig?
+Richtig?
+Dieser ist 3.
+3 ist oben, ja.
+Und wo ist 4?
+Unten.
+Ja.
+Wir müssen alle Flächen zusammenzählen
+und das axiale Flächenträgerzement
+ermitteln.
+Und wenn eine Komponente einen Abstand hat,
+wenn jetzt irgendwie, was weiß ich,
+noch eine andere Schweißnaht irgendwo wäre,
+oder der Abstand wäre hier größer,
+dann muss man
+diesen Steineranteil
+addieren.
+Ja?
+Ja.
+Wir machen das das nächste Mal hier.
+Hier muss man erst die schwere Linie ermitteln.
+Wo liegt die?
+Bei einer Biegung, so wie sie hier stattfindet, 850 mm, das sind die wirksamen Schweißnähte,
+dann müssen wir diese ganzen Flächen unterteilen, diese Unterteilungen so vornehmen
+und müssen dann wissen, wo ist die schwere Linie der Biegung und was hat den maximalen Abstand
+und wo tritt die maximale
+Biegebeanspruchung auf?
+Durch
+die Biegung
+und dann über den Schub
+durch die Querkraft.
+Da sind wir jetzt.
+Das haben wir.
+Es wäre besser, wenn wir im nächsten Monat
+Wir haben eine Formelsammlung selbst zu Hause gemacht.
+Ich habe sowas schon mal angefangen.
+Formelsammlung?
+Ja.
+Ist aber besser, wenn man das mal selber durchgeht.
+Und Sie müssen sich immer diese Probe, die Übungsaufgaben anschauen.
+Und nebenbei halt vielleicht über zwei oder drei Seiten eine kleine Formel sammeln.
+Ich habe das jetzt hier zum Beispiel drin.
+Die Grundformeln aus der Mechanik.
+Flächenträgheitsmoment, axiales Widerstandsmoment.
+Die machen wir eine Verteilung.
+Das ist jetzt quasi die praktische Umsetzung dessen.
+Ja, das ist b mal h hoch 3 zwölftel, die Fläche außerhalb kommt dieser Steineanteil dazu.
+Das machen wir jetzt alles in der Übung bei der Torsion.
+Diesen Kreisring, der irgendwo angebracht ist, das kommt dann später auch gleich.
+Dürfen wir wie viele Seiten am Ende?
+Zwei oder drei?
+Formensammlung?
+Ja, ja.
+Sie können auch gerechnete Lösungen mitnehmen.
+Gerechte Lösungen?
+Gerechnete. Die Lösungen dieser Aufgaben dürfen Sie mitnehmen.
+Diesen?
+Ja.
+Okay.
+Ja?
+Zum Beispiel diese Seite, diese Seite können wir mitnehmen.
+Ja, Lösung. Ausgedruckt. Nicht im Rechner.
+Mit Handschrift oder einfach drücken.
+Sie können es auch ausdrucken.
+Okay.
+Ja?
+Okay.
+Super.
+Das heißt, die Formsammlung und die Ausdrücklösung, die Aufgabe, können wir beide mitbringen?
+Ja.
+Okay.
+Diese Aufgabe ist egal.
+Welche Aufgabe?
+Die können wir alle mitbringen.
+Okay.
+Okay.
+Ich hatte, ja früher war das alles auf Papier ausgedruckt.
+Und gibt es einige...
+Wir durften alles mitnehmen, alles, das ganze Skript.
+Alles?
+Alles.
+Keine Grenzen?
+Es gab eine Online-Prüfung in Corona-Zeiten.
+Wann?
+Eine Online-Prüfung.
+Die Leute haben zu Hause geruckt und haben die Prüfung geschrieben.
+Ja, doch das ist immer einfach.
+Ja, denkt man. Aber ich sage jetzt mal, man hat dann mehr Aufgaben gemacht und die Leute
+mussten schnell sein. Wo habe ich jetzt was? Finde ich das jetzt? Wo ist da jetzt was?
+Wo sind die Fehler? Wo sind die Elemente? Was haben wir da gerechnet? Also sie mussten
+sich ein Skript auskennen, sind andere Aufgaben. Aber zeitlich viele Aufgaben und viel Druck,
+man nicht quatsch macht. Letztes Semester, ich habe die Wärmelehre teilgenommen, aber am Ende, ich
+hat nur zwei Drähte gemacht. Welche Prüfung? Wärmelehre. Ja. Wammelübertragung und... Fittengrat, oder? Ja. Und? Wammelübertragung und...
+Er macht die Vorlesung?
+Hapisch.
+Hapisch und Fesse.
+Hesse.
+Ah, der Hesse.
+Der ist neu.
+Okay, jetzt kommt dann die Biegebeanspruchung, das Biegemoment.
+Das Biegemoment ist diese Z-Komponente, äh Entschuldigung, diese Y-Komponente.
+Fy ist gleich Fl mal 1 plus Cosinus, 45 Grad.
+Deshalb habe ich das dann nochmal reingeschrieben.
+Das kommt jetzt hier, 64 Kilo, die Masse mal die Beschleunigung mal 1 plus 45 Cosinus mal 1500 Millimeter Hebelarm.
+Das ist das Biegemoment und das axiale Widerstandsmoment sind die 45,9 mal 10 hoch 3.
+Damit beträgt die maximale Biegespannung an der letzten äußeren Faser 34,41 Newton pro Quadratmillimeter.
+Die Kraft, die da unten angreift unter diesem Winkel von 45 Grad,
+bringt eine Druckzugspannung
+auf die Fläche AZ 1400
+von M mal A
+45 Grad
+das war die Kraft hier
+diese unter 45 Grad
+wirkende Kraft
+das ist mein LX
+LX war der
+Minus 45 Grad
+Die Spannung ist 0,32
+Dann würden wir die gesamte Fläche abgetragen
+und den Schub
+Da haben wir diese kleinere Schubfläche, die wir vorhin ausgerechnet haben
+A Schub, Q ist die Querkraft
+Das ist wieder dieses 1 plus 45 Grad
+Kodinus
+und kommt auf 1,53
+ja
+und was man jetzt macht
+wir haben das auch gemacht bei der Festigkeitsberechnung
+man nimmt die Hauptspannungen
+Zugdruck
+und Biegung
+addiert sie
+macht das Quadrat dazu
+plus Tauquerkraft
+und damit gibt es eine Vergleichsspannung
+von 34,74 Nm
+pro Quadratminimum
+dann. Weitere Annahme, zulässige Spannung 105 Newton pro Quadratmillimeter, Tabelleseite
+144, das muss man korrigieren.
+Sorry.
+Das ist die
+147.
+Sicherheit 3,0.
+Und wenn man eine Sicherheit von
+3,0 hat
+und will aber 2 haben,
+kann man die Last
+um 95
+eine frage die die übung auf die mutter die sie hoch hoch hochgeladen
+meine frage ist es ist typisch für jeder thema in diesem
+Ja, die sollten in der Lage sein, für die Prüfung diese Übungen verstanden zu haben und es wird eine sehr ähnliche Aufgabe drankommen, mit anderen Zahlen, sie kriegen die Tabellen, sie können...
+Vorher ist unsere Verbindungstechnik Übung 5, es gibt keine Aufgabe für Speisen.
+Ich habe zum Beispiel immer so eine Aufgabe mit dem Schweißen von den Behältern gemacht.
+Aber außerdem haben wir keine weitere Aufgabe.
+Ach, sowas kann man doch auch mal machen.
+Wir machen dann die Übungen nächste Woche, da gucken wir uns das mal an, wie das hier funktioniert.
+Das hier, ne?
+Das ist jetzt ein asymmetrisches Bauteil.
+Hier braucht man jetzt als erstes die schwere Linie. Wo liegt die?
+Wir werden diese schwere Linie ermitteln, um die herum auf der einen Seite Zug, auf der anderen Seite Druckspannung herrscht.
+und werden dann berechnen, wie groß sind die Vergleichs-Spannungen.
+Ja?
+Und das machen wir wieder mit dem hier, mit dieser Formel.
+Hier kommt die schwere Linie mit ermittelt.
+Und dann brauchen wir die Bietung, das Widerstandsmoment in der Richtung plus diesen Steiner-Anteil.
+Dann machen wir Luxusliebe 1 nach dem anderen.
+Dann sind die Formeln da, dann sind wir schon mal überall zu Hause.
+Hier liegt dann nachher irgendwie die Schwerlinie und man zählt von der Ebene ab die Abstände aus
+und wir machen das zusammen, ja?
+Und dann kriegen wir das hin.
+Ja.
+Und doch...
+Ja, das ist schon komisch, dass so wenig
+Leute da sind und, äh, aber...
+Aber zwei ist ja immer besser als
+eins.
+Zwei ist
+früher besser als eins, das stimmt.
+Ich hab das noch nicht erlebt.
+Ich hab früher die Vorlesung gemacht
+bei EU.
+Im zweiten Semester
+80 Studenten.
+80.
+80?
+80.
+Dann habe ich bei
+WI Vorlesungen gemacht.
+Zweites Semester
+Werkstofftechnik.
+140 Leute.
+BWL auch.
+In jedem Kurs über 50 Leute.
+Ich habe die Vorlesung in zwei Gruppen.
+BWL, 60 Leute immer, zweimal die Regierung, um Gottes willen, so viel Arbeit.
+Du musst mal alles korrigieren dann.
+Vielleicht deswegen wir anfangen am Wintersemester, als unser erstes Semester.
+Okay, tschüss.
+Tschüss.
+Bis morgen vielleicht.
+Also ich bin da.
+Tschüss.
+Tschüss, bis morgen vielleicht.
+Also ich bin da.
+Tschüss.
