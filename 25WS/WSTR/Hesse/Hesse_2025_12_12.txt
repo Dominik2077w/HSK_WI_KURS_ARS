@@ -1,0 +1,1316 @@
+nach dem Bereich, wo wir laminar sind,
+oder dem Bereich, wo wir turbulent sind,
+und dann da wieder diese ganzen Unterscheidungsketten.
+Beim Laminar gibt es eine Formel,
+die eigentlich dann doch recht kompakt ist,
+64 durch Reynolds-Zahl,
+und wenn man das dann ausschreibt,
+dann kommt da so ein Zeta,
+so ein Rohrreibungs- oder Druckverlust-Beiwert raus,
+das lässt sich ganz gut damit arbeiten und rechnen.
+Bei dem Turbulenten ist es deutlich unangenehmer,
+Wir haben dann diese Unterscheidungen in diese verschiedenen Bereiche,
+wo die Turbulenz stärker in die Rauigkeit von Wänden hineingreift oder eben nicht.
+Und entsprechend haben wir gesagt, für diese Vorlesung ist es komplett ausreichend,
+wenn wir uns dann in das Nudeldiagramm legen und damit entsprechende Lösungen finden.
+So etwas haben wir gemacht in der letzten Stunde.
+Wir haben uns in diesen zwei Aufgaben, 18 und 19, hier angeguckt.
+Einmal, was ist, wenn wir irgendeine, in dem Fall heißt es zähe Flüssigkeit, das ist Öl oder was, durch so ein Rohr durchpumpen und in diesen zähen Flüssigkeiten ist es eben so, dass die Reynolds-Zahl, wie Sie sehen, gar nicht mal so weit weg ist von dem kritischen Punkt, aber knapp drunter ist es also gerade noch laminar.
+und deswegen dieses Formelwerk
+was wir vorhin gesprochen haben
+und dann lässt sich dann Druckverlust
+lassen. Anderes Beispiel
+hier, nicht Zähflüssigkeit
+sondern Wasser
+mit dem wir es ja meistens
+zu tun haben bei solchen Aufgaben
+und da sieht man, sind wir dann doch
+deutlich oberhalb von der
+kritischen
+Reynoldszahl
+deutlich oberhalb von diesem Umschlagpunkt
+wie es dann ganz häufig so ist
+wenn wir mit Wasser arbeiten
+dann müssen wir eben in das Moody-Diagramm einsteigen, das ist jetzt hier nicht mehr aufdetailliert,
+und daraus arbeitet man dann klimawider diesen Druckverlust.
+Also so können wir Druckverluste in Rohren gut darstellen.
+Was wir meistens aber haben in der Realität, ist auch noch zusätzlich irgendwelche Einbauten,
+also nicht nur ein langes Rohr, sondern auch noch irgendwelche Knickstellen,
+und entsprechend ist eine Aufgabe, die das aufgreift.
+Diese Nummer STR20, die habe ich Ihnen schon vor einiger Zeit gezeigt, aber wir haben sie noch nicht gemeinsam besprochen.
+Jetzt ganz kurze Frage, hat sich jemand mit dieser Aufgabe beschäftigt und die sich schon mal angeschaut?
+Bei Ihnen ist das so? Haben Sie mit diesen Ergebniswerten?
+Ne, das ist ein bisschen daneben gewesen.
+Okay, interessant.
+Ich würde es versuchen heute auf jeden Fall nochmal aufzugreifen.
+Was heißt daneben gewesen? So um eher Rundungsfehler daneben gewesen oder wirklich was anderes?
+Aber 0,1 Baderweben, da würde ich hoffen, dass es vielleicht daran liegt,
+dass entweder, das ist vielleicht schon ein bisschen mehr als 100 Fehler,
+vielleicht gibt es da ein Thema, dass irgendwie bei irgendeiner Knickstelle
+Sie oder ich sich verzählt haben oder sowas.
+Das kann man auf jeden Fall, denke ich, gut nochmal aufrollen.
+Wenn es für Sie in Ordnung ist, würde ich mir erlauben,
+wenn wir die Aufgabe heute noch rechnen werden.
+und ich denke, das wird hoffentlich zeitlich gut rausgehen,
+dass ich Sie da vielleicht ein oder andere Mal mitfrage, welchen Schritt wir da als nächstes gehen.
+Außer Ihnen hat es aber noch niemand sich angeschaut?
+Also schon Empfehlung, sich die Sachen anzugucken.
+Ich glaube, es hilft Ihnen sehr, um diese Sachen nachzuvollziehen und damit auch zu arbeiten.
+Dann haben wir uns letztes Mal angeguckt, die Thematik mit den Punkten.
+Wir haben gesehen, dass es ganz verschiedene gibt, ja, in diesen Animationsbildern.
+Ich hatte Ihnen das gesagt, es gibt da verschiedene Eigenschaften, es kommt mehr darauf an, dass Sie verstehen,
+welche Eigenschaften sind denn überhaupt von Relevanz und einsortieren könnten.
+und das haben wir das letzte Mal ja dann vorgezogen, sozusagen Hausaufgabe,
+dass Sie einsortieren könnten, welche Pumpen sind denn von welchem Typ,
+also Strömungspumpen wie die Greifepumpe oder die Propellerschnetenpumpe,
+da gucken wir einmal kurz zurück, da ist so eine Propellerschnetenpumpe,
+Reisepumpe ist ja jetzt nicht abgewählt, aber wenn Sie sich das anschauen,
+ich hoffe man kann es mit dem Bild erkennen, da kommt jetzt die Flüssigkeit rein
+und wird da weitergepumpt oder andersrum, vielleicht kommt sie eher von hier rein
+wird er hoch gepumpt und wenn ich da jetzt den Flüssigkeitszulauf abstelle, dann läuft die
+Flüssigkeit hier zurück und kann an der Schnecke vorbei, außenrum wieder herauslaufen. Das heißt
+also, diese Pumpe hat jetzt im Stillstand, kann hier rückwärts durchströmen, genau diese
+Eigenschaft. Sie ist auch nicht selbstansaugend. Das heißt, wenn ich die Pumpe einmal Luft gezogen
+hat und leer ist, dann kann ich die nicht wieder neu füllen. Auf der anderen Seite haben diese
+Punkten besondere gute Eigenschaften, dass sie in dem Drehzahlbereich sehr gut flexibel sind und
+auch in dem entsprechenden Förderstrombereich sehr flexibel sind. Und deswegen werden wir auch im
+verbleibenden mit den Punkten genau mit dieser Art Pumpe uns beschäftigen. Andersrum, die
+Verdrängerpumpen haben andere
+Eigenschaften, die dem gegenüberstehen
+und damit auch
+bestimmte Vorteile in der
+technischen Anwendung.
+Für uns, für diese Berechnungsaufgaben
+sind sie allerdings jetzt
+weniger relevant.
+Es wird bei uns um diese Grünen gehen.
+Die Strahlpumpe hatten wir als Sonderfall
+besprochen, die hat insbesondere
+strömungstechnische spannende
+Eigenschaften,
+aber dazu
+war es nicht.
+Was wir dann gesehen haben, ist, dass wir Anlagen auslegen können, das heißt, dass wir zwischen einem unteren und einem oberen Niveau eine sogenannte Anlagenkennlinie erstellen können,
+bei dem wir alle möglichen druckrelevanten und druckverlustrelevanten Terme kombinieren und dann auch rausbekommen, wie viel Förderhöhe brauche ich denn, wie viel muss denn die Pumpe leisten können.
+Und wir hatten da eine Aufgabe letztes Mal zu einem Pumpspeicher, bei dem wir 300 Meter Höhendifferenz hatten,
+aber noch mal anderthalb Meter extra rechnen mussten aufgrund von irgendwelchen Vorreiten.
+Und wenn wir das ganze Thema ein bisschen weiter denken und eine Volumenstrombariation für uns relevant ist,
+dann sieht man, dass wir hier in einen statischen Höhenverlust kommen und dann einen Förderhöhenbedarf kommen
+und dann noch einen dynamischen Teil, je schneller die Flüssigkeit da durchgeht, desto weiter steigt das an,
+man wird immer stärkere Turbulenz haben, man wird immer stärkere Rohrheilungseffekte haben,
+deswegen muss eine Pumpe, die hier was tut, dann für einen Volumenstrom 1 eine bestimmte Förderhöhe haben,
+Aber wenn ich den Volumenstrom 2 erreichen will, dann muss ich eben mehr Förderhöhe bereitstellen,
+um gegen zu kompensieren diese Reibungseffekte.
+Ist das hoffentlich verständlich.
+Gut, dann haben wir das Ganze gesehen.
+Wie sieht denn eigentlich die Kennlinie von so einer Pumpe aus?
+Da ist es so ein bisschen andersrum.
+Die kann eine bestimmte spezifizierte Höhe bereitstellen, wenn ganz wenig Förderstrom ist
+oder kein Förderstrom gefordert wird.
+Allerdings, je stärker die unter
+Last geht,
+desto weniger
+gut kann die
+Förderhöhe bereitstellen, weil
+ein gewisser Schlupf
+entsteht und weil auch dort wiederum
+Reibungspolster auftauchen.
+Also wir haben diese eine Sohrumme-Krümmung
+und die andere Sohrumme-Krümmung und ich glaube,
+das ist jetzt genau das, wo wir ziemlich
+stehen geblieben waren. Jetzt geht es
+darum, die beiden übereinander zu
+und damit einen entsprechenden Arbeitspunkt zu definieren.
+Das ist, denke ich, jetzt der nächste Punkt.
+Wir hatten also hier gesehen eine Kreiselpumpe, die irgendwelche Effizienzkurven hat,
+die da noch hinterlegt sind und hier verschiedene Varianten sind hier in dem gleichen Bild genannt
+mit unterschiedlichen Durchmessen.
+Also Sie können sich am Anfang eine Pumpe aussuchen, die gerade die richtigen Eigenschaften hat für Ihre Aufgabe und können dann, je nachdem in welchem Arbeitspunkt, bei wie viel Durchdringung Sie arbeiten, den passenden Betriebspunkt finden und die passende, entsprechende Effizienz dieser Anlage finden.
+So, jetzt geht es aber mal los mit neuen Inhalten.
+Wir werden uns jetzt den Betriebspunkt angucken.
+Das ist also dieser Schnitt von diesen beiden Themen, die wir gerade angesprochen hatten.
+Die Anlagenkennlinie, die nehme ich jetzt hier so kurz.
+Das funktioniert noch nicht so ganz bei mir, warum nicht, ist mir nicht ganz klar.
+ärgerlich
+weil
+nein
+also
+PowerPoint
+neue Daten
+hilft alles nichts
+ich komme gleich dazu
+leider im Moment
+keine Stiftfunktionalität
+hinterlegt
+Vielen Dank.
+sehr schön
+jetzt gibt es überhaupt keine Stiftfunktion mehr
+die ist wahrscheinlich gerade deaktiviert worden
+Also in letzter Zeit ist mit meinem Rechner leider keine so eine angenehme Arbeit möglich.
+Ich probiere es noch ein drittes Mal, wenn das auch nicht läuft, muss ich auch noch
+den Rechner neu hochfahren, wahrscheinlich wieder Updates, dabei habe ich bis morgens
+Komplette Funktion der Stifte sind deaktiviert.
+Also gut, dann malen wir das halt mit Neu-Hoch-Faden und ich mal eben das ganz kurz an die Tafel
+hin.
+Wird schon gehen, dann können wir die Folie, Sie können das ja auf der Folie eintragen, ich mache das jetzt hier an der Tafel, hilft nichts, dauert dann alles ein bisschen länger, aber kriegen wir hoffentlich.
+Geht!
+Also hat man auf der Achse hier eine Förderhöhe und auf der drüben Achse ein Volumenschirm.
+Und entsprechend wäre die Idee, dass wir sagen, wir haben eine Anlagenkennlinie, ich nehme mal blau hier, das war die Anlagenkennlinie, die eben so nach oben sich krümmt, aufgrund des Reibungsthemas, was wir gerade angesprochen haben, statischer und dynamischer Punkt.
+Und hier haben wir die Pumpen-Kennlinie, die sich nach unten verkommt und eine schöne Angelegenheit.
+Hier haben wir den Betriebspunkt und der Betriebspunkt hat einen bestimmten Förderstrom, Q am Betriebspunkt und hat eine bestimmte Höhe, eine Förderhöhe, die sich ergibt.
+Und übrigens können wir da auch noch abzeichnen, wenn wir wollen, diese Effizienzen, die hatte ich ja in dem vorigen Diagramm,
+da sind also irgendwelche Effizienzen und hier kann ich jetzt durch entweder Interpolation oder durch zufällige gute Näherung
+zu einem bestimmten Punkt die Effizienz ablesen, die sich an diesem entsprechenden Betriebspunkt ergeben.
+Also ich denke, das ist als solches da relativ gut umsetzbar.
+Wenn wir dann reinschauen, wir wollen ja vielleicht nicht immer am gleichen Volumenstrom arbeiten,
+Wenn Sie jetzt hier so ein Gebäude nehmen wie hier oder Ihr eigenes Haus oder Ihre Wohnung, wo Sie in einem Mehrfamilienhaus unterwegs sind,
+dann gibt es durchaus den Bedarf, dass dieser entsprechende Förderstrom nicht immer gleich sein soll.
+Sie wollen da nicht wie bei einem Brunnen immer die gleiche Menge rausplätschern lassen,
+sondern Sie wollen da Variationen machen und deswegen, Sie können da gleich schon die nächste Folie verwenden.
+Ich vielleicht auch gleich, mal gucken.
+Da gibt es jetzt noch die Varianten, dass Sie verschiedene Dinge tun können.
+Falls es Ihnen gelingt, mache ich das hier.
+Sieht aber leider nicht so gut aus.
+Also Sie haben auf der nächsten Folie, die ist bei Ihnen mit der Nummer 14 betitelt,
+Und die Möglichkeit, das Ganze nochmal so in etwa zu zeichnen, wie wir es hier sehen.
+Und Sie können jetzt die Anlagenkennlinie variieren.
+Also ich mache das jetzt ins gleiche Bild rein.
+Und wenn Sie jetzt die Anlagenkennlinie variieren, dann geht das hier rein in verschiedene Krümmungen.
+Hier unten haben Sie den gleichen statischen Punkt.
+Und wie kommen Sie dahin, dass Sie hier dieses AK2 und AK1 hier herstellen,
+indem Sie unter anderem zum Beispiel ein Ventil einbauen.
+Und wenn ich jetzt Zeta 1 nehme, dann habe ich also einen großen Wert hier meinetwegen.
+Oder ich habe Zeta 2, das ist ein kleiner Wert.
+Bei Ihnen unten drunter gezeichnet ist so eine Art Ventilstutzen, der entweder klein oder groß dargestellt ist,
+der also darstellen soll, dass Sie die Möglichkeit haben, dort zu variieren.
+Und wenn Sie eben das Ventil zuschrauben, dann geht das Ganze nach links
+und ihr Betriebspunkt wandert hier vom, in dem Falle BP2, runter zum BP1.
+Was ist das praktisch, wenn ich da vorne an den Pallator drehe und auf- oder zuschraube,
+dann habe ich entweder Zitter auf, sage ich mal unendlich, also maximale Sperrung,
+oder wenn ich dann langsam aufdrehe, dann kann ich hier durchtunen, sozusagen, diese Werte
+und bis ich halt
+voll aufgedreht habe, da kommt dann
+ein maximaler Volumenstrom raus.
+Also es ist eigentlich nichts anderes.
+Was habe ich noch für eine Variation?
+Ich kann, wenn ich jetzt merke,
+oh, der entsprechende
+Volumenstrom Q oder V
+reicht mir nicht aus,
+kann ich auch hier variieren.
+Ich kann meine Pumpe, wenn ich im Keller
+irgendeinen Sensor habe und merke,
+oh, der Volumenstrom ist jetzt nicht das,
+was ich mir eigentlich wünsche,
+Dann das anpassen und entsprechend die Pumpe dort nachholen lassen.
+Also bei uns, bei mir hier ist kein Internet gerade zu bekommen und ohne Internet ist meine cloudbasierten entsprechenden Dokumente gerade nicht zu holen, was ein bisschen unangenehm ist, weil eigentlich sollte davon auch eine Offline-Kopie existieren.
+Mein Filesystem mag hier überhaupt nicht mitspielen, ich weiß nicht, Sie haben ja
+alle wahrscheinlich eduroam oder bayern wlan im moment aktiv oder bei mir ist es leider gerade
+nicht nicht so glücklich ja okay das ist komische bayern wlan mal gucken was jetzt passiert
+ok lassen wir das ding aber weiter machen also sie können die drehzahl variieren von n hoch
+zu mittel, zu niedrig, Sie haben das da mit drei Farben dargestellt, ich mache das jetzt
+hier nicht mehr mit drei verschiedenen Farben, bei Ihnen ist das grün, blau und rot, dann
+können Sie also hier im Prinzip diese verschiedenen Pumpen-Kelllinien variieren und dadurch auch
+wieder den Betriebspunkt nach links oder rechts herausfahren, indem Sie die Pumpe entweder
+stärker oder weniger stark treiben.
+So, dann bin ich gleich mal wieder zumindest mit Bildmaterial da, falls die Aufzeichnungen weiterhin nicht funktionieren, mache ich das dann halt immer in der Tafel, bzw. hier ist es eh schon mit eingezeichnet, wir haben in dem Falle eine weitere Variation, die wir machen können, nämlich die Parallelschaltung mehrerer Pumpen,
+Das heißt, wir haben eine Pumpe, die wir ausgewählt haben, diese rote da oben, und die hat eine feste Förderhöhe, die sie erreichen kann als maximalen Wert.
+Und die einzelne Pumpe hat diese Kendi hier, die hier unten einen maximalen Förderstrom verspricht.
+Wenn ich aber jetzt zwei Pumpen nehme und die parallel schalte, dann haben wir wieder so ein bisschen ein Spiel, ähnlich wie wir es bei den kirchhoffischen Gesetzen hatten.
+Der Volumenstrom wird sich natürlich aufteilt vom Gesamtvolumenstrom in diese beiden Pumpen.
+In dem Fall steht hier mal als Gedanke, dass das zweimal die gleiche, baugleiche Pumpe ist.
+Dann sollten auch diese Volumenströme 1 und 2 gleich sein und dann gehen die wieder hier zusammen.
+Und dann sehe ich natürlich, dass ich, wenn ich den entsprechend aufaddiere, hier den doppelten
+Volumensturm bekomme. Das ist dann dahingehend auch so, dass ich hier die entsprechenden
+Volumenstürme kombinieren kann und aufdoppeln kann. Soweit an der Stelle. Dann gibt es das
+gleiche Spielchen auch mit parallel verschaltbaren Pumpen. Jetzt bin ich gespannt. Mal gucken,
+ob das System mich jetzt wieder mitmachen lässt. Schaut aber nicht gut aus. Also touchsensitiv ist
+der Bildschirm, aber malen kann man seit neuestem nicht mehr. Nö, das geht leider überhaupt nicht
+Entsprechend wäre die Idee bei dieser Reinschaltung mehrerer Pumpen jetzt genauso vorzugehen.
+Und da habe ich allerdings ein bisschen eine andere Systematik.
+Was passiert denn aus Ihrer Sicht mit der Förderstrommenge, wenn ich zwei solche Pumpen so seriell hintereinander schalte?
+Kann ich da den gleichen Förderstrom transportieren oder kann ich den Förderstrom erhöhen durch diese zweite Pumpe?
+Ich pumpe hier mit einer gewissen Leistung, füge ein bestimmtes Volumen hier durch
+und wenn ich diese Pumpe jetzt anwerfe und mit der gleichen Geschwindigkeit laufen lasse,
+dann kann ich deswegen trotzdem noch nicht mehr Förderstrom hier durchbekommen.
+Das heißt, an der Stelle habe ich den Förderstrom hier limitiert und was ich aber machen kann,
+durch die zwei Punkten, ist die Kraft der Punkten aufaddieren.
+Das heißt, ich kann die Förderhöhe, ich könnte es jetzt mal relativ klein hier reinzeichnen,
+weil ich nicht zu oft die Tafel wischen will.
+Das heißt, im Endeffekt habe ich den Fall bei der Parallelschaltung,
+dass ein Fördersprung dieser Pumpe feststeht und mit einer Pumpe bekomme ich direkt diese Einlagenkennlinie
+und wenn ich die zweite Pumpe dazuschalte, dann bekomme ich mein Bank diese Kennlinie,
+die hier entsprechend die Förderhöhen aufaddiert von Pumpe 1 und Pumpe 2.
+Also H-Gesamt ist H1 plus H2.
+Und entsprechend haben wir dann eine andere Charakteristik.
+Wir können eben in diesem bedienbaren Förderstrombereich größere Förderhöhen überwinden.
+Also oft gibt es entsprechend Klausuraufgaben oder Rechenaufgaben, wo man da so hinarbeitet
+und dann am Schluss hat man herausgefunden, dass das und das der Betriebspunkt ist.
+Und da gibt es oft noch so angeflanschte Fragen, die dann sagen,
+ja, wenn ich jetzt mehr Förderhöhe überwinden möchte, was mache ich dann?
+Seriell oder parallel schalten?
+Ja, bei mehr Förderhöhe, da schalten Sie dann seriell.
+Wenn Sie allerdings mehr Förderstrom durchbringen wollen, dann schalten Sie eher parallel.
+Ich denke, das ist so die Hauptbotschaft.
+Die müssen natürlich immer gleicher Typ sein, diese Pumpen, da gibt es auch bestimmte Vor- und Nachteile.
+Stellen Sie sich vor, Sie lassen diese Pumpe sehr stark laufen und diese sehr schwach.
+Oder die ist sehr viel größer und stärker und die ist schwächer.
+Was passiert dann? Die Flüssigkeit kommt hier rein, hier wird aber mehr Flüssigkeit wegtransportiert.
+Was passiert auf diesem Raumbereich, auf diesem Rohrbereich?
+Ein Unterdruck.
+Und was passiert durch den Unterdruck?
+Reibung.
+Reibung, ja, zunächst, sicherlich.
+Aber dann, wenn es wirklich nicht mehr so gut ist, und Sie saugen da ordentlich an,
+und hier machen Sie mal einen Extremfall, Sie sperren diese Pumpe.
+Das ist jetzt bei der Verdrängerpumpe nicht so ohne weiteres möglich.
+Was passiert denn dann?
+Bang.
+Ja, bang.
+Also irgendwas passiert, wenn ich eine Flüssigkeit auseinandersauge, Thermodynamik, einen Stempel auseinanderziehe, was passiert da?
+Irgendein flüssigkeitsgefülltes Volumen und ich expandiere dieses Volumen extrem durch Unterdruck, bildet sich ein Gas aus der Flüssigkeit.
+Das heißt, ich habe einen Phasenübergang und das ist genau das, worum es in der nächsten Folie auch geht, das ist das mit dieser Kavitation.
+Also was ist denn Kavitation? Das muss nicht unbedingt mit zwei Punkten zusammenkommen.
+Hat es jemand von Ihnen angeschaut, das Video?
+Schauen Sie es sich im Nachhinein auf jeden Fall gerne nochmal an.
+Ich würde es jetzt nicht hier abspielen wollen, weil es ein bisschen länglich ist
+und auch von der Aufmachung des Videos nicht so stark
+Aber das, was an Information transportiert wird, ist schon wichtig
+Die Gravitation ist nichts anderes als eine Bildung
+und dann wieder auflösen von, explosive Auflösung von Hohlräumen in der Flüssigkeit
+Das heißt, also ich kann das jetzt nicht schreiben, Sie müssen es selbst schreiben, ja, Kapitulation, Doppelpunkt, Bildung und Auflösung von dampfgefüllten Hohlräumen in der Flüssigkeit.
+Wissen Sie, was ich machen kann? Ist ganz einfach, ich zeige Ihnen mal meine handschriftlichen Notizen, dann sind Sie da vielleicht besser aufgestellt.
+So, also ich habe das Ganze hier mal so ein bisschen hingeskizziert, in einer einfachen Variante.
+Ja, genau, da kommt das nach für Sie.
+Also, am Ende, da ist ein P-T-Diagramm gezeichnet.
+Ja, also Druck gegen Temperatur.
+Temperatur lassen wir jetzt mal.
+T-O-P, nicht Top, sondern T-Operation, die Temperatur, bei der wir gerade arbeiten.
+Und da stellen wir uns vor, wir arbeiten hier zunächst bei dem Saugdruck, der entsprechend vorliegt.
+Saugdruck heißt nichts anderes als hier oben, hier ist ein relativ breites Rohr gezeichnet und hier unten ist die Saugleitung.
+Und hier oben ist die Druckleitung.
+Das heißt, hier unten entsteht immer, wenn ich diese Pumpe betreibe, ein gewisser Unterdruck gegenüber dem Bereich hier oben, also ein gewisser Überdruck.
+Und jetzt, wenn ich das nur stark genug mache, dann kann ich auf der Saugleitung, durch Erhöhen der Pumpengeschwindigkeit, den Druck absenken.
+Und irgendwann komme ich in den Bereich, wo die Phasengeläte zwischen flüssig und gasförmig erreicht ist.
+Also bilden sich auf dieser Seite, da oben haben Sie so orangene Pünktchen, Gasblasen.
+Einfach aus Grund der Flüssigkeit, genau.
+Nehmen Sie ruhig ein Foto, dann können Sie das zumindest gut nachvollziehen.
+Was ist hier gezeigt? Am Ende, außen ist Flüssigkeit, in der Mitte ist Gas.
+Tut mir leid, dass die Technik heute spinnt, aber das ist jetzt auch ein bisschen unterartig.
+Flüssig und Gas und erst bildet sich das Ganze und dann haben wir diese Gasblasen und nun, wenn wir jetzt die Pumpe wieder entweder in den Drehzahlbereich reduzieren oder, hier wichtiger aus der technischen Sicht,
+Wenn Sie jetzt ein Flüssigkeitsteilchen verfolgen, oder diese Strömungsbahnen verfolgen, von diesem, wo sich hier Gasblasen gebildet haben, und den Weg weitergehen in die Pumpe hinein, Richtung Überdrucksseite, dann wird es irgendwo genau diesen Rückumschlag geben.
+wo eine Gasblase sich wieder auflöst in Flüssigkeit.
+Und das führt zu der sogenannten Kavitation.
+Das ist ein Prozess, der zum einen extrem viel Lärm fabriziert,
+zum anderen aber auch extrem große Kräfte an dieser Stelle wirken.
+Das ist genannt implosive Auflösung dieser dampfgefüllten Hohlräume.
+Und was passiert dann, das werden wir uns...
+Da steht Saugseite in der Pumpe und die Druckseite.
+Entschuldigung, das sind meine Handschriftenartikel, die sind nicht so stark, aber Sie dürfen da immer gerne fragen.
+Und hier sehen Sie den Effekt, was da passiert.
+Wenn jetzt dieses Schaufelrad von dieser Pumpe gearbeitet hat und da Kavitation auftrat, dann sehen Sie, dass dieses Stahlblatt hier lauter Löcher geschlagen hat.
+Also es sind wirklich solche derartig starken Kräfte, die da auftauchen, wenn Sie Kavitationsbildung haben, dass das wirklich das Schaufelrad zerstört.
+Plus, es gibt extrem großen Lärm, plus der Förderstrom reißt Ihnen ab, wird ungleichmäßig durch diese Blasenbildung und Auflösung, sind massive Probleme, die Sie dort technisch sehen.
+Was kann man gegen Kavitation tun? Das ist natürlich extrem wichtig und relevant und ich glaube, ich habe das, das kommt jetzt irgendwie zig mal, warum auch immer, Sie werden jetzt ganz komische Folien bei mir sehen, immer so irgendwelche Zwischennotizen, spielt keine Rolle.
+da sieht man
+das auch nochmal, wie das so aussieht
+hier bildet sich so ein Microjet
+weil es bei dem Auflösen
+hier so einen
+Flüssigkeitsspritzer
+eine extrem hohe Überdruckwelle
+gibt
+das sind die Probleme, ich habe es gesagt
+die Bauteile gehen kaputt, die Betriebsgeräute sind da
+der noch verbleibende
+Reduktion des wasserfördernden
+Querschnitts geht runter, also Sie kriegen nicht mehr so viel
+durch, durch die Pumpe ist alles unglücklich
+wollen Sie nicht haben, Sie wollen das vermeiden.
+Ja, was können Sie machen?
+Sie können, fangen wir vielleicht mal noch nicht mit dem an,
+ganz einfach den Förderstrom der Pumpe verringern.
+Also wenn Sie die Pumpe langsamer laufen lassen, dann passiert das nicht so stark.
+Ja, weil dann ist die Saugseite nicht so stark im Unterdruck.
+Was Sie auch machen können, ist die geodätische Höhe zum Saugwasserspiegel verdringern.
+Warum das? Wenn Sie die Pumpe ganz weit oben anbringen, stellen Sie sich vor, Sie bauen jetzt eine neue Schneekanone für das Escher-Raschigebiet und setzen ganz oben an der Schneekanone, weil Sie da gerade den Strom haben, eine große Pumpe hin und haben eine lange Saugleitung bis runter in den Wasserspeicher.
+dann muss diese Pumpe ja auf der Saugseite einen Unterdruck aufbauen
+und diese gesamte Flüssigkeitswassersäule vom unteren Speicherbecken bis hin zur Pumpe überwinden.
+Sehr großer Unterdruck, der entsteht.
+Andersrum, wenn Sie die Pumpe unten in den Speichersee reinbauen, dann vermeiden Sie das.
+dann haben Sie auf der Saugseite praktisch keinen zusätzlichen Unterdruck aufgrund geodätischer Höhen.
+Und auf der Pumpseite haben Sie zwar dann durchaus einen Überdruck, müssen natürlich die Rohre genug dick auslegen,
+aber dieses Problem der Kavitation haben Sie da nicht.
+Deswegen erinnern Sie sich vielleicht auch, wir hatten als eine Aufgabe dieses Pumpspeicherkraftwerk gehabt,
+mit den zwei Niveaus und Sie haben gesehen gehabt, es wurde nicht nur die Pumpe unten in die Mitte reingebaut,
+sondern nochmal nach tiefer unten versenkt.
+Die Pumpe liegt am besten am tiefsten Punkt, weil dann vermeiden Sie das Thema.
+Dann haben Sie überall eher Überdrücke und keine Unterdrücke.
+Das ist also dieses hier, Reibungsverluste der Saugleitung verlängern.
+Ja natürlich, je weniger Reibung Sie haben, desto weniger haben Sie dieses Problem.
+Und deswegen haben Sie typischerweise auch auf der Saugleitung gerne breitere Rohrquerschnitte als auf der Druckseite.
+Also ich hatte das hier sogar versucht so ein bisschen zu zeichnen.
+Sie sehen es vielleicht so ein bisschen.
+Hier ist das Rohr etwas breiter und hier oben ist es etwas schmaler.
+Schmaler, weil billiger, weil schnellerer Durchtrieb der entsprechenden Förder, geförderten Volumenströme.
+Das heißt, Sie haben weniger legionellen Probleme und solche Geschichten.
+aber auf der Saugseite brauchen Sie eher ein dickes Rohr, damit Sie eben keine Kavitation bekommen.
+So, ich hoffe, das konnte man einigermaßen verstehen.
+Dann, nächster Gedanke, wir wollen jetzt Leistungsermittlungen machen.
+Also, wir müssen die richtige Pumpe bespielen mit elektrischer Leistung,
+wir sollen auch die Motorenverluste mit einberechnen und so weiter,
+damit wir dann eine vollwertige Analyse fangen.
+Hier ist nochmal so eine entsprechende Kreisungspumpe gezeigt, hier ist die Saugseite, das ist als S nur gekennzeichnet, hier ist die Druckseite mit dem D, hier kommt die Flüssigkeit rein und sie wird hier nach oben gedrückt.
+Ich kann jetzt da nicht reinmalen, aber hoffentlich kann man sich das vorstellen. Hier ist also der Volumen, um nachzuvollziehen.
+Dann die Idee, was tritt da auf? Eine ganze Menge verschiedene wichtige Größen.
+Also, wir haben einmal eine mechanische Leistung, die die Pumpe benötigt und die setzt sich zusammen aus dem, was die Pumpe wirklich sinnvolles tut, das ist die Förderleistung, das ist das, was wir brauchen, um das Wasser oder die Flüssigkeit nach oben zu heben oder zu beschleunigen, um Überdruck zu geben.
+wir haben aber auch noch verschiedene andere Verluste
+Verlustleistung und mechanische Verluste
+habe ich ausgegraben, weil ich mit Ihnen jetzt nicht in die Details
+von der besten Bauweise für Punkten gehen will
+ich will nur zeigen, dass wenn ich hier elektrische Kraft reinstecke
+oder dann gewandelt mechanische Kraft reinstecke
+wird hier oben, wie bei diesem entsprechenden Unterschied dieser Drucks
+und Saugseite nicht die ganz gleiche Menge herausgehen,
+sondern wir haben diese Verluste, die eben mit zu berücksichtigen sind.
+So, jetzt kann ich mal gucken, nee, das geht natürlich nicht,
+aber ich kann die Virtual-Präsentation wieder beenden
+und wahrscheinlich eben die entsprechende Folie zeigen,
+wo das hoffentlich auch mit eingezeichnet ist.
+Ist alles nicht ganz optimal, aber das klappt schon.
+Hier habe ich das Ganze mal ein bisschen vollgekritzelt.
+Sie sehen also, diese Förderleistung, die die Pumpe wirklich bringen soll und tut am Ende,
+ist nichts anderes als, schauen wir mal ganz nach rechts, die Wellenleistung mal der Wirkungsgrad der Pumpe.
+Also das ist das, was in den Kennlinien von diesem Hersteller vorher auch mit verzeichnet war,
+wo wir halt diese Verluste sehen.
+Der Förderstrom ist aber auch nichts anderes, wenn man sich das mit den Einheiten überlegt,
+das ist nichts anderes als ein Volumenstrom mal einen Druckunterschied.
+Also der Druck auf der Druckseite minus der Druck auf der Saugseite mal den entsprechenden Volumenstrom, den Sie da befördern.
+So lässt sich das Ganze beschreiben.
+Hier steht nochmal zur Sicherheit drin, es handelt sich um den Wirkungsgrad mechanisch,
+der hier als Pumpenwirkungsgrad angegeben ist.
+Dazu kommt später, auf einer der nächsten Folien, noch der elektrische Wirkungsgrad,
+der auch nicht perfekt ist und nicht eins ist, sondern halt irgendeinen Wert kleiner.
+Also ich hoffe, das kann man jetzt so ein bisschen nachvollziehen.
+Ansonsten bitte gerne fotografieren.
+Dann haben wir die nächste Folie mit den entsprechenden Gedanken.
+Hier nochmal diese Pumpeleistung, Nutzleistung gegenüber der zugeführten Leistung.
+Hier nochmal schön dargestellt, die Pumpe mit der Saugleitung breit und der Druckleitung schmal.
+Hier steckt Ihre typischerweise elektrische Drehstrompumpe.
+Hier ist dieses Bündchen, die zeigt sozusagen das Stromnetz.
+Da haben Sie Ihren Stromnetz bezogen und jetzt haben Sie halt zusätzlich zu den mechanischen Verlusten auch noch elektrische Verluste.
+Und wenn Sie sich das hier anschauen, ist dieser Gesamtwirkungsgrad nichts anderes als das, was Sie eben hinterher rausbekommen.
+Das Produkt, die Förderleistung gegenüber dem, was Sie reingesteckt haben, das ist die elektrische Leistung.
+Also hier elektrische Leistung, Verluste aufgrund von Strombehandlung und einem Motor, der einen endlichen Wirkungsgrad hat und eine Pumpe, die einen endlichen Wirkungsgrad hat.
+Die beiden multiplizieren sich auf. Nehmen wir zum Beispiel 0,9 Wirkungsgrad von dem elektrischen System, 0,5 Wirkungsgrad von Ihrer Pumpe,
+eine vielleicht sehr schlecht arbeitende Pumpe, dann kommen Sie halt auf 90% von 0,15, 0,45
+Gesamtwirkungsdruck. Wir haben die Abhängigkeit des Wirkungspreises gesehen gehabt, das war
+ja hier eben mit eingeschrieben, das heißt wir haben immer diese Volumenstromabhängigkeit
+Ganz oft enden Auslegungsaufgaben von Pumpen mit genau dieser Aufgabe, dass Sie so eine Betriebspunktanalyse machen und nach der Betriebspunktanalyse dann noch sagen, wie viel elektrischen Strom muss ich denn jetzt reingeben in so eine Pumpe, damit die vollwertig arbeitet.
+Soweit verständlich?
+dann können wir noch mal zusammenfassen
+das ist jetzt keinerlei neue Formel
+sondern nur in der Wiederholung
+wir haben eine gewisse Verlusthöhe
+die eben sich aus dem Thema Darcy-Weisbach immer in Defekt ergibt
+die zusammensetzt den Bereich der Rohrreibung und der Einbauten.
+Es ist also nichts anderes als ein Druckverlust, den wir so kennen.
+Und es ist aber jetzt geschrieben als Förderhöhenverlust.
+Es ist, glaube ich, nicht ganz so hinterlegt in Ihrer Formelsammlung,
+ist aber eine ganz einfache Umformung von Druck auf Höhenverluste zu bewerkstelligen.
+dann können wir uns
+nochmal angucken, was ist denn der gesamte
+Förderhohenbedarf dieser Anlage
+das heißt am Ende
+so viel brauche ich
+von meiner Pumpe
+und zwar
+so viel wie ich die geodätische Höhe
+überwinden muss, also was ist der echte
+Höhenunterschied, ja, unten
+der See
+oder
+das Unterbecken
+von meinem Pumpspeicher und oben das Oberbecken
+diesen Höhenunterschied will ich überwinden, dann diese Ausgleichstherme, falls denn irgendwas mit Drücken zusätzlich erforderlich ist,
+meistens arbeiten wir an Umgebungsdruck und bei Punkten, die weniger als 300 oder 500 Höhenmeter überwinden müssen
+und können uns diesen ganzen Term relativ gut sparen,
+weil er im Vergleich zu den anderen Größenordnungen nicht ins Gewicht fällt.
+Dieser Term allerdings ist oft nicht vernachlässigbar.
+Wenn es Speicherbecken sind, wie ich bearbeite, dann Ton.
+Wenn ich aber durch irgendwelche Rohre mit hoher Einlass oder hoher Auslass arbeite,
+genau hingucken bei den jeweiligen Aufgaben, werden wir gleich noch sehen,
+dann muss ich oft auch zumindest eine von diesen Geschwindigkeitsseiten mit berücksichtigen in den Höhenverlusten und dann habe ich nochmal das eben, was ich oben gesagt habe.
+Und dann den Gesamtwirkungsgrad haben wir gerade besprochen.
+Wie geht jetzt die Ingenieurin oder der Ingenieur vor, wenn man die Aufgabe hat, für ein Mehrfamilienhaus mit einem Förderstrom von 1000 Kubikmetern pro Stunde eine Auslegung zu machen
+und das Gebäude ergibt hinterher eine Förderhöhe HA,
+aufgrund von der geografischen Höhe von dem Haus, vielleicht meinetwegen 30 Meter hoch
+und die ganzen Verluste, die wir vorhin angesprochen haben, nochmal 10 Meter.
+Okay, dann nehme ich eben diesen entsprechenden Förderstrom und schaue mir hier an,
+was ist mit der Förderhöhe und finde da mehrere von diesen Kacheln,
+von diesen Blättern, die da so einigermaßen gut passen.
+und das sind dann diese Typuspumpen von dem entsprechenden Hersteller, mit dem ich hier arbeiten kann.
+Also Sie sehen, es gibt nicht eine Pumpe, die alles bedienen kann,
+sondern es gibt halt für jeden entsprechenden Bereich eine passende Auswahl.
+Idealerweise suchen Sie nicht weiter unten, weil dann haben Sie hinterher ein Förderölproblem
+und nicht weiter links, weil da haben Sie dann irgendwie ein Volumenproblem,
+sondern müssen Sie natürlich immer ein bisschen nach oben rechts absichern,
+hoch, um ein bisschen eine Leistungsreserve
+zu haben.
+Wir haben jetzt als nächstes
+eine Auslegungsaufgabe,
+die
+eine ganze Menge Rechnung
+bedarf. Das ist nicht die
+STR20, über die ich am Anfang
+der Stunde gesprochen habe, sondern nochmal was Neues.
+Und die würde ich sehr gerne mit Ihnen gemeinsam
+rechnen. Nachdem mein Rechner aber ja
+gar nicht gut arbeitet,
+wäre mein Vorschlag, wir machen einfach mal
+eine vorgezogene Pause heute, wenn das für Sie okay ist.
+nehmen jetzt die Viertelstunde Pause
+und ich versuche das Rechnersystem
+hoffentlich wieder hinzubekommen
+bis
+wir uns
+dann würde ich sagen 9 Uhr
+50
+51, 9 Uhr 51
+wieder hier treffen
+und dann
+im zweiten Teil
+ich hoffentlich wieder vernünftig arbeitsfähig bin
+ja, dann bis gleich
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Also mal sehen, wie es sich jetzt abzeichnet, aber es sieht ganz gut aus.
+Ich kann da wieder rein, kürzeln und ich glaube, das ist ganz hilfreich für die Aufgabe, die uns wahrscheinlich jetzt eine ganze Zeit beschäftigt wird.
+Ich habe also hier eine Angabe zu irgendeiner Industrieanlage, bei der Wasser von einem in einen anderen Behälter umgepumpt wird
+und wie das Ganze aussieht, lässt sich auf der nächsten Seite so einigermaßen gut erkennen hoffentlich.
+Hier kommt Flüssigkeit rein, da steht Nachspeisung.
+Die Idee, die dahinter steckt, ist für Sie die Aufgabe, ein Wasser erträglich zu machen.
+Soll dieses Niveau von diesem unteren Behälter nicht berührt sein von dem, dass die Anlage da arbeitet.
+meinetwegen ist das irgendeine Molkerei oder was, wo in irgendeinem unteren Behälter irgendein Gärungsvorgang
+oder irgendein Fermentationsvorgang vorgeht, und das wird hier durchgepumpt,
+dann hier hoch, hier gibt es ein Absperrventil, und hier unten kommt die Flüssigkeit in den zweiten Behälter.
+Wir haben haufenweise Angaben auf der vorigen Seite zu allem Möglichen,
+nämlich was sind diese Zeta-Werte von der Absperrung auch vom Ausfluss,
+eventuell gibt es auch vom Einlass einen entsprechenden Zeta-Wert,
+scheint hier aber nicht der Fall zu sein.
+Wir haben dann eine Angabe, wie diese Kurven ausgeführt sind,
+die da im Weiteren auf der folgenden Seite verbaut sind.
+So sieht so ein Kurvenstück aus und da gibt es so eine Tabelle, wo man herauslesen kann, welcher Zählerwert da relevant ist.
+Dann haben wir eine gewisse Rohanlauigkeit gegeben.
+Wir können schon annehmen, dass wenn wir da Flüssigkeit Wasser befördern, dass es sich vermutlich in den turbulenten Strömungsvorgang handelt.
+Und dann haben wir da noch ein paar weitere Sachen.
+Was sehen wir noch? Ich würde mal ganz kurz durchblättern.
+Wir haben hier einen entsprechenden Wirkungsgrad und ein Punktenkennlinienfeld, sogar verschiedene Punkten zur Auswahl, wo wir glaube ich gleich noch auswählen müssen, welche da genutzt wird.
+Wir haben auch in der Aufgabe ein entsprechendes Moody-Diagramm mitgegeben, in das wir vermutlich dann hineinarbeiten müssen, wenn es darum geht, die entsprechenden Rohrverluste zu ermitteln.
+Wie gehen wir vor? Einer der ersten Schritte wird sein, die Strömungsgeschwindigkeit in der Rohrleitung zu bestimmen mit dem entsprechenden Durchmesser.
+Da können wir mehr oder weniger direkt einsteigen an der Stelle und uns danach erst so richtig die Anlagenkennlinie anschauen.
+Vielleicht ist das das Einfachste. Wir gehen einfach mal so vor.
+Also Aufgabe A, ich versuche eine andere Farbe zu nehmen, es ist vielleicht etwas besser in der Lesbarkeit.
+Wir haben irgendeine Stürmungsgeschwindigkeit, wahrscheinlich eine mittlere Stürmungsgeschwindigkeit,
+vermutlich hat Turbulenz eine Rolle, aber können Sie auch einfach so urschreiben.
+Was haben wir gegeben? Wir haben hier oben den Volumenstrom.
+Wenn wir einen Volumenstrom haben, können wir hier einfach eine Formel verwenden.
+Der Volumenstrom ist U mal A, die entsprechende Fläche.
+Und die Fläche A ist nichts anderes als Pi mal D² durch 4.
+Und das heißt, wir können hier entsprechend sagen, U ist nichts anderes als Volumenstrom mal Pi durch 4 mal d² und die entsprechenden Themen eingesetzt.
+ich habe das hier mal komplett ausführlich geschrieben, da steht, da habe ich mich jetzt, glaube ich, beschrieben, eine Sekunde, tut mir leid, das ist unser 4 mal den Volumenstrom,
+Der Vierer kommt hier rauf, 4 mal Volumenstrom durch Pi mal d².
+4 mal der Volumenstrom durch Pi mal d².
+Und entsprechend können Sie hier schreiben, 400 Kubikmeter pro 3600 Sekunden.
+Jetzt sind wir geschickt, gleich auf die SI-Einheiten zu gehen, bei Kreiszahl und 0,08.
+Und das Ganze ergibt 5,526 Meter pro Sekunde.
+Der Aufgabe B, lasse ich Sie mal selber schnell arbeiten und ausrechnen.
+Ich glaube, das ist Ihnen alles schon sehr gut bekannt.
+Reynolds zahlt, wie man das berechnet.
+Schauen Sie einfach mal zwei Minuten rein, dass Sie das kurz entsprechend dort produzieren.
+So lange noch kurz Taten drücken.
+Ein bisschen unglücklich an der Aufgabe, dass wir da hin und her blättern müssen,
+aber ich habe hier oben, kann ich Ihnen nochmal sagen, die Nü, also die...
+Dynamische Diskursität, äh, die kinematische Diskursität, 10 hoch minus 6 Sekunden pro Meter Quadrat.
+Er hat dann mit raus.
+Schaffst du jetzt die Formel noch hin?
+Wer bietet einen Wert?
+Das ist eine sehr verwundete Frage.
+Die Erstaunen des Entsetzen
+Ist das, was ich an der Tafel geschrieben habe, oder am Beamer geschrieben habe, nicht passend?
+Ich sehe doch relativ viele, die noch tippen.
+es ist eigentlich am Ende wahrscheinlich wirklich nur die drei, naja, wenn er zusammen multipliziert
+und dividiert, hoffentlich mit dem Exponenten richtig, also bei mir kommt da 442.097, also
+442.097 raus, Einheiten gibt es dabei keine, die sollten sich rauskürzen und was bedeutet
+ist das? Ganz kurze Frage. Können Sie alle bestätigen? Passt? Ja, super. Und was bedeutet
+das? Bitte immer hinschreiben, wenn Sie es klausurmäßig haben. Das ist turbulent.
+Normalerweise kriegen Sie, ja genau, da steht ja auch, ist die Strömung in der Rohrreibung
+laminar oder turbulent? Ja, okay. Das haben Sie jetzt gerade berechnet und damit auch
+Bitte die Aussage hingeschrieben, sie ist turbulent.
+Also, das reicht mir aus am Klagwort.
+Jetzt berechnen Sie die Förderhöhe bei Befüllung von Behälter 2.
+Als erstes vielleicht an der Stelle mal der Sprung in dieses Bildchen.
+Meine Frage in der Vormesserung, was war der Grund, dass da bei der Rennungszahl statt dem Durchmesser 11 liegt?
+Was, 11? Oh, das ist schlecht.
+Da ist vielleicht irgendein Type-Setting, oder wo finden Sie das unter S4.4?
+Ah, L, Entschuldigung, L nicht 11.
+L, ja, das ist eben die charakteristische Länge.
+Und das ist wirklich zugegeben ein bisschen eine Fahngeschichte,
+vielleicht wirklich ein guter und wichtiger Hinweis.
+Das heißt, nehmen Sie sich Ihren Textmarker und schreiben Sie sich bei dem L, markieren Sie sich das, wichtig, wenn es darum geht, dass die Reynolds-Zahlen in Rohren berechnen müssen, das müssen Sie in der Strömungstechnik nur die ganze Zeit, dann nutzen Sie als charakteristische Länge immer den Durchmesser.
+das ist zugegeben
+übernommen von einem Vorgänger
+der diese vor dem Frühjahr mal gehalten hat
+eigentlich eine Feinheit
+weil sie dadurch natürlich
+total aufs Glacheis geführt werden
+weil sie dann schnell dazu tendieren
+dass sie die Rohrlänge da einsetzen
+und dann sind sie total im Ort
+das brauchen sie
+wie gesagt
+mit der Länge im Sinne von L
+wenn sie Wärme übertreiben
+Sie erinnern sich vielleicht jetzt
+Letzte. So, hier
+machen wir eine Wärmeübertragung, was
+gesagt, an irgendwelchen ebenen
+Wänden und so weiter passiert
+irgendwas mit Reynolds-Zeiten. Und dann ist es
+natürlich anders. Okay, also
+danke für den Hinweis. Bitte alle,
+die da sind,
+Formel S4.4
+Vielleicht schreiben Sie es auf Ihr eigenes Notizenblatt
+oder wie auch immer. Oder markieren
+es hier mit dem Textmarker.
+Es geht
+bei der Durmungstheorie
+typischerweise um Durchmesser.
+Und dann ist dieses L ein D.
+Ich schreibe es hier auch nochmal hin.
+Ja, eben nichts reinschreiben, sondern halt mit dem Textmarker vielleicht so markieren,
+dass Sie sich daran erinnern, oh, da war ja was bei diesem L.
+und auf Ihrem Notizenblatt ist es ein bisschen umständlich.
+Aber ich glaube, es ist jetzt anders sinnvoll, wenn wir die Formelsammlung in den neuen Ausdruck geben.
+Wie gesagt, die Formel ist korrekt, so wie sie dasteht.
+Es ist nur etwas gemein, weil es geht um die charakteristische Länge.
+Gut, nächster Gedanke.
+Ich schlettere zurück dahin, wo die Anlage beschrieben wird.
+Ich lösche mal ein bisschen weg, was ich da in Rot gemacht habe.
+Vielleicht ist es dann leichter zu nachzuvollziehen.
+Also man soll als nächstes die Anlagenkennlinie sich genauer überlegen.
+Was haben wir denn? Wir haben verschiedene Höhen und wir müssen uns als erstes mal überlegen, was ist denn eigentlich das Delta Z zwischen unten und oben.
+Oder, entschuldigen Sie, ich mache es doch so, ich blätter nochmal vor und schmeiße Ihnen einfach mal die Formel hin, so wie Sie sie ja in Ihrer Formelsammlung wiederfinden.
+Da, wo Förderhöhenanlage ist, S6.1 und schreibt die da einfach mal ab, um zu überlegen, was wir denn eigentlich jetzt als nächstes benötigen werden.
+Also, C.
+C.
+AA.
+Das ist genau dieses Delta Z, von dem ich gerade sprach.
+Plus PA minus PE, also Druck am Ausgang und am Eingang, die Differenz, Dichte mal Ausfaktor, Geschwindigkeitsquadrat am Ausgang und am Eingang als Differenz.
+so und jetzt wollen wir diese formel und angucken und versuchen die sachen aus dieser wirklichen
+darstellung gleich zu ermitteln zelt wird meine erste aufgabe sein zu finden dann wollen wir uns
+kurz anschauen wie sieht es denn mit druck unterschieden aus aber eigentlich schon
+abkürzen aber erklärt ist gleich noch mal auf dem anderen bild und dann geht es um die
+Geschwindigkeitsunterschied. Das Delta AV können wir so ohne weiteres aus dem Bild nicht rauslesen.
+Da brauchen wir dann die ganze Moody-Diagramm-Geschichte. Soweit also diese Formel. Das ist die S6-1.
+Wer es noch nicht abgeschrieben hat, bitte gerne aus der Formelsammlung übernehmen. Dann die Idee,
+die Anlage ein bisschen stärker zu charakterisieren.
+Wir haben als wichtige Höhenangabe, wer kann denn von Ihnen sagen,
+wie ist denn die Höhendifferenz, die diese Anlage, also diese Pumpe, überwinden muss,
+damit das System funktioniert?
+16 Meter. Wie kommen Sie auf 16 Meter? Ja, das ist korrekt. Also 16 Meter hier oben haben wir 19 und
+hier unten haben wir drei Meter. Da ist unser Delta-Z. Warum ist es nicht? Vielleicht diese
+17 Meter hier, das hat damit nichts zu tun. Die Pumpe muss nur bis hier hin befördert,
+dann fällt das Wasser frei und ist aus der Anlage entlassen. Das heißt, das ist kein
+Höhengewinn, den Sie wiederum machen. Andersrum, warum ist es nicht auf die 21 Meter hoch?
+Ja, weil hier oben ist ein geschlossenes Rohr und das heißt, den Druck, den Sie hierfür aufbringen müssen, um bis auf 21 Meter hoch zu kommen, diesen hydrostatischen Druck, den gewinnen Sie zurück aufgrund, naja, bei mir ist schlecht gezeigt, hier sieht es aus, als wäre es ein offenes Rohr, das soll es bitte nicht sein, dass es hier wieder zurückgeht auf diese Höhe.
+Das heißt, entsprechend haben Sie einen Rückgewinn von diesen 2 Metern.
+Und solange Sie da oben jetzt keine Kapitationsblasensiedlung oder sonstige Probleme haben,
+werden Sie, genau wie Sie gesagt haben, ZZ gleich 16 Meter.
+Gut, passt.
+Dann, ähm, nächster Gedanke.
+Wir wollen zwischen Eingang und Ausgang noch Themen zu drücken machen.
+Das heißt, wir haben hier einen P-Eingang und hier einen P-Ausgang.
+Wir sprechen über 16 Meter Höhendifferenz, das ist extrem wenig und wir können mit gutem Gewissen sagen, P-Eingang ist ungefähr gleich P-Ausgang oder Delta P ist ungefähr gleich 0.
+Das sparen wir uns als nächstes.
+Nächster Punkt, wir müssen uns angucken, wie sieht es denn mit den Geschwindigkeiten aus?
+Vielleicht eine andere Farbe. Wir haben ein U am Eingang und wir haben ein U am Ausgang.
+U am Eingang liegt auf der Behälterhöhe.
+Die Geschwindigkeit hier, aufgrund des Spenstens der Nachspeisung oder wenn der Behälter einfach groß genug ist, ist 0.
+Mit Nachspeisung ist es genau 0.
+Also hier, U-Eingang ist 0.
+Wie sieht es hier oben aus?
+U-Ausgang.
+Es geht darum, dass hier oben Flüssigkeit raus spritzt.
+In den Behälter 2, unter entsprechendem Volumenstrom,
+der ja angegeben ist in der Angabe V-Punkt,
+der ist überall gleich und geht bis da hoch.
+Das heißt, die Ausgangsgeschwindigkeit an dieser Stelle,
+die uns betrifft, ist nicht 0, sondern eben diese Geschwindigkeit, die Sie vorhin berechnet haben.
+Das waren die 5, ein bisschen was Meter pro Sekunde.
+Die sind ja überall in der gleichmäßig breiten oder dicken Rohrleitung das Gleiche.
+Also Ua ist ungleich 0.
+Entschuldigung für den Fahrer.
+alles was weiteres noch kommt betrifft jetzt dann die kurvenstücke und andere dinge deswegen würde
+ich erst mal wieder zurück springen zur aufgabe ich gehe zwei seiten weiter achtung alle dabei
+und entsprechend kann ich jetzt hier die werte einsetzen und zwar also 16
+meter geht mein stift wieder nicht das ist unglücklich darüber 16 meter das
+0, der ganze Term hier 0, dann haben wir das ua, das war die entsprechende Geschwindigkeit von hier oben und ue ist 0.
+Da schreibe ich jetzt einfach mal
+U A ist gleich U.
+Entsprechend können wir alles lösen, bis auf den Höhenverlust.
+Jetzt müssen wir uns den Höhenverlust genauer angucken.
+Auch dazu haben wir die passende Formel in der Formelsammlung parat.
+Das ist die S 6.2.
+Naja, in der S 6.2 geht es eigentlich...
+Oh, das ist doch...
+Ich muss jetzt da unten weiter schreiben, weil da oben geht es nun mal nicht.
+Der entsprechende Druckverlust ist nichts anderes als der Höhenverlust mal G mal H
+Und das ist die Summe über alle Zetas.
+Plus Lambda L durch D.
+Und hier sehen wir jetzt noch einmal, wichtig, diese Frage noch einmal vorhin.
+Hier geht es um die charakteristische Länge, das ist das D.
+Hier unten geht es um die Länge des Rohrs.
+Das ist das, was wir eigentlich typischerweise als L bezeichnen.
+und das ganze versuchen wir jetzt auszurechnen jetzt brauchen wir also alle zeta werte das
+werde ich auf der anderen seite mir notieren und ich werde wahrscheinlich umstellen auf
+das Ganze hier
+schlauerweise als Zitterrohr
+zu bezeichnen.
+Und diese
+entsprechende Belenkung mal jetzt auf der anderen Seite
+war jetzt hier
+mit dem System nicht so gut
+funktioniert.
+Aber
+Aber ich hoffe, Sie konnten die Formel da mitnehmen.
+Ja, passt.
+Sonst finden Sie die in der Formelsammlung.
+Jetzt versuchen wir mal, diese Zeta-Werte zu bestimmen.
+Ich gehe mal sogar auf die Seite zurück.
+Wir haben ja verschiedene Kurven hier.
+Da ist eine, da ist eine, da ist eine.
+Drei Kurven.
+Und die sind jeweils geartet von diesem System hier.
+Wir haben also dreimal solche Kurven.
+und der Zeta-Wert, den wir hier haben, naja, da steht irgendwo hier R durch d ist 2, also sind wir hier
+und jetzt haben wir hier Zeta glatt oder Zeta rau, da steht irgendwo in der Angabe eine Rauigkeit,
+da steht sogar hydraulisch rau, also sind wir hier unterwegs und das heißt, wir haben diesen Wert, naja.
+Also, Zeta dieser Kurven ist gleich 0,9.
+Das sind ihre Kurven alle zusammen.
+Ich hoffe es waren drei, ich habe mich jetzt nicht irgendwie vertraut.
+Nein, das passt.
+Dann haben wir die Zeta-Werte an Ein- und Auslauf, zugegeben hier ist das in der Angabe
+ein bisschen anders dargestellt als ich es in der Rechnung habe, ich würde es aber jetzt
+gerne da konsistent bleiben.
+Zeta-Ausfluss, Zeta-Einlauf ist typischerweise auch relevant.
+Hier sollte auch 0,5 sein.
+Bitte entschuldigen Sie, also das ist hier nicht in der Aufgabe mitnotiert.
+Macht aber sehr Sinn.
+Normalerweise haben Sie an jeder Stelle, wo irgendein Rohr beginnt, aus einem Behälter heraus,
+oder endet, entweder in die freie Luft oder in einen Behälter hinein,
+einen bestimmten Zeta-Wert, den Sie berücksichtigen müssen.
+Wir sprachen dazu.
+Also haben Sie Eisfluss und Einlauf noch.
+Das heißt, diese ganzen Einbauten können Sie jetzt zusammen addieren, da haben Sie noch ein Zeta von der Absperrung.
+Also 6, 0,5 und 0,5 sind 7, 7,9 sind also, wenn ich das richtig gerade überschlage, die ganzen...
+Ah, das tut mir leid, das ist auch nicht so ganz einfach, weil jedes Ventil hat diese entsprechenden Werte.
+Hier gibt es mehrere Ventile zu berücksichtigen. Ein Ventil, zwei Ventile, drei Ventile.
+Also das Zeta der Ventile ist gleich 3 mal 6 ist 18 und ich mache meinen Zeta gesamt.
+Das sind also die Ventile plus Zeta von Einlauf und Zeta von Auslauf und Zeta von allen Kurven.
+und jetzt fehlt uns noch das Zeta vom Rohr.
+Und dieses Zeta Rohr werden wir auf dem Weg jetzt noch berechnen und zwar dadurch, dass wir uns mit dem Moody-Diagramm arbeiten.
+Zeta-Rohr, nichts anderes als Lambda mal L durch D, Lambda, sage ich gerade, Multidiagramm, Länge, müssen wir uns mal angucken, wie lang ist denn die Rohrlänge?
+Es ist natürlich auch unglücklich, dass man das jetzt alles hier zusammen addieren muss.
+Ein Meter hier, zwei Meter hier sind drei.
+Dann gehen wir rauf.
+Mindestens mal, achso, Entschuldigung, drei.
+Das fängt ja noch bei einem Meter an, liegt bis 21, also 23.
+Nochmal drei drauf sind 26.
+Und sechs drauf sind 32.
+und dann sind das hier nochmal 2
+Insgesamt ist gleich 3,4 Meter.
+Dann, der Durchmesser ist gegeben in der Angabe 0,08 Meter.
+Was wir noch brauchen ist Lambda.
+Lassen Sie uns versuchen Lambda herauszufinden aus dem Moody-Diagramm.
+Dafür springe ich wieder...
+Sind Sie zu weit gekommen?
+Passt. Ich springe wieder rüber.
+Moody-Diagramm hier.
+Ich gucke in die entsprechenden Bereiche rein. Wir haben als Reynolds-Zahl die 442.000 gehabt. 400.000 sind 10 hoch 6, wenn ich richtig unterwegs bin.
+Das heißt, hier ist die 100.000, 200.000, 300.000, 400.000 und etwa noch ein halber, 442.000.
+Ich würde sagen, hier sind wir unterwegs mit der Reynolds-Zahl.
+442.097, wenn ich das richtig hatte.
+Das war Reynolds.
+10 auf 5 oder 10 auf 6?
+4 mal 10 hoch, Sie haben recht, natürlich, Entschuldigung, 400.000, 10 hoch 5.
+Interessant, dann ist da irgendwas in der Aufgabenstellung aber nicht passend.
+1 mal 10 hoch 3 sind 1000, 100.000, Sie haben absolut recht.
+Also ich gehe auch mit, hier müsste das 4, 4, 2, na schön, da kommt was anderes raus als in meiner Augen.
+unterwegs, gut, dass Sie sich melden. Dann haben wir den Bereich B durch K, die Rauigkeit ist gegeben in der Angabe,
+das war 80 mm durch 0,1 mm, ist 800. Und 800 ist nicht direkt als Zahlenwert hier abgebildet,
+aber liegt hier zwischen den entsprechenden Werten 500 und 1000.
+Ich glaube, Sie sind immer noch falsch.
+Ich bin immer noch falsch, das kann schon sein.
+Ja, jetzt bin ich bei 10 hoch 4 gelandet, ne? Danke.
+Sehr gut, also Sie sehen, ich mache gerade alle Fehler, die ich auch schon andersrum gesehen habe.
+So, jetzt sind wir bei 10 hoch 5, danke, das ist also 100.000.
+Ich hoffe, jetzt bin ich da richtig.
+Danke, dass Sie das anmerken.
+4, 4, 2, 0, 9, 7.
+Jetzt müssten wir also hier unterwegs sein.
+Dann ist wahrscheinlich der Einfluss gegenüber dem,
+wenn ich die Zehnerpotenz noch oben drauf geschlagen hätte, gar nicht groß.
+Weil am Ende, leider ist es bei mir eh ein bisschen sehr schlampig,
+500 und 1.750 ist in der Mitte.
+Sie sind also relativ nah an dieser mittleren Linie.
+Ganz leicht unterhalb.
+Bis dahin ist eigentlich praktisch noch keine Verkrümmung festzustellen.
+Das heißt, bei diesen hohen Reynolds-Zahlen ist das geprägt hauptsächlich durch diesen Rauigkeitsterm.
+Das heißt, hier kommen wir raus bei 0,02, hier ist 0,03, dazwischen sind vier Hilfslinien, also 0,021 oder 0,022, ich würde sagen 0,021 als etwa stimmender Wert.
+Ja, gehen Sie mit, danke, dass Sie aufpassen, ich bin heute nicht ganz perfekt bei den entsprechenden
+Schritten unterwegs, aber so gemeinsam gelingt es hoffentlich gut.
+Jetzt geht es darum, dass wir mit dieser Information wieder zurückgehen in diese Rohrreibungsangelegenheit.
+Das war dieses Zeta-Rohr. Hier steht es, ich glaube ich habe es woanders auch schon mal hingeschrieben, auf diese Seite, genau, ist gleich, aus Moody schreibe ich mal hin.
+0,021
+mal die 3,4 Meter
+die hatten wir gerade
+durch 0,08 Meter
+und wenn ich das auswähle
+ich hoffe ich habe es
+schnell da
+oder Sie können es schnell
+einmal erwähnen
+bei mir ist es
+8,925
+Bitte gerne noch mal jemand, der schnell beim Tippen ist und den Rechner in der Hand hat, kontrollieren.
+8,925 kommt bei mir da raus.
+Hast du? Ja? Gut, danke.
+8,925. Jetzt haben wir diese ganzen Zeta-Schichten zusammen.
+Da 8,925, da oben sind es 18 für die Ventile, Einlauf, Auslauf jeweils ein halber.
+Die Krümmer 0,9 und eben dieses Rohr.
+Zeta Gesamt, passt leider jetzt vom Platz her nicht so gut hin, ich schreibe es aber mal in die Zeile drunter, ist gleich 28,825.
+Ein bisschen unglücklich, dass ich jetzt in den Rechenschritten ein bisschen durcheinander arbeite,
+Die Auseinanderarbeit ist auch immer nicht so ganz leicht, weil wir haben die mal irgendwie gleichzeitig sehen müssen.
+Meine Versuche und Versprechen ist, wenn wir im Sinne der Klausur sowas oder so ähnliches haben,
+dass ich versuche, das so zusammen kopieren, dass Sie das Zeug sehen können.
+Das ist eine gezielte Absperrung, das ist dann plötzlich die Absperrung.
+Das ist, glaube ich, ein Auslauf. Die Absperrung sind die Ventile.
+Das habe ich, glaube ich, einfach anders bezeichnet. Tut mir leid. Das sind die Absperrungen.
+Das ist mit sechs angegeben gewesen, oder?
+Das sind diese drei entsprechenden Bauteile hier.
+Es ist zugegeben, so wie die Angabe hier gestellt ist,
+es ist eine Aufgabe, die man hier gemeinsam rechnet
+und nicht geeignet dafür, dass Sie sich da jetzt komplett alleine durchwürgen,
+weil es einfach an der einen oder anderen Stelle in der Abstimmung nicht gut gestellt ist.
+So, ich glaube hier ist alles verzeichnet. Was können wir damit machen, mit diesem Zeta-Gesamt? Wir können auf der nächsten Folie hier unten reingehen und diesen Höhenverlust ausrechnen.
+Ja, ich gehe hier hinten mal in diese Ecke.
+Delta HV ist ja nichts anderes als dieser Zeta-Gesamt mal U-Quadrat durch 2G.
+Und das ist nichts anderes als 28,825 mal 5,25 Meter pro Sekunde.
+Achtung, quadrieren. 2 mal 9,81 Meter pro Sekunde Quadrat. Wenn ich das richtig hier aufgerechnet habe, sollten da 44,91 Meter rauskommen.
+Jetzt sieht man eigentlich schon was ganz interessantes, kann man es lesen?
+Können Sie drüber gucken?
+Ist es okay?
+Also ich übernehme keine Garantie, Sie dürfen gerne was sagen, wenn was nicht passt.
+Aber ich hoffe, es stimmt.
+Was jetzt ganz interessant in dem Sinne ist, wir haben einen Höhenverlust, der ist gar nicht so zu vernachlässigen.
+Wir hatten hier eine geodätische Höhenüberwindung von 16 Metern.
+Wenn ich jetzt ganz naiv hergehe, und vielleicht, ich sage jetzt mal ganz blöd,
+ich bin jemand aus dem Bereich der Architektur oder habe sonst mit Stürmungstechnik nichts zu tun gehabt,
+bevor Sie diese Vorlesung das erste Mal besucht haben, da würde man vielleicht annehmen,
+ja, ich brauche eine Pumpe, die muss 16 Meter überwinden, ja, hoffentlich hat man das mit diesem Oberbügel sich überlegt,
+dass das ja eigentlich keine 18, sondern 16 Meter überwunden ist, ist aber nicht so,
+weil die 16 Meter reichen bei Weitem nicht.
+Druckverluste spielen zwar keine Rolle, aber diese Geschwindigkeitsterme und insbesondere hier hinten dieser Term
+aufgrund dieser Rohrreibung
+spielt eine massive Rolle
+wir sind nicht mehr bei 16 Meter
+sondern 16 plus 44
+und auch hier muss nochmal
+OA² durch 2G dazu
+multipliziert werden
+das ist also der nächste Schritt
+ich muss HA
+auf Gesamtheit nicht berechnen
+das muss ich auf der nächsten Folie machen
+hier wird es zu knapp
+das werde ich hier mal tun
+ich hoffe jeder hatte in der Zwischenzeit
+Möglichkeit, das abzuschreiben
+oder fotografieren.
+HA ist
+also diese 16 Meter
+plus
+U² durch 2G
+plus
+44,91 Meter
+und das ist
+das Delta H gewesen
+das ist das
+Delta HV, also das war die geodätische Höhe.
+Delta HGO habe ich jetzt noch dazu geschrieben.
+Und dieser Term hier in der Mitte, wenn Sie den ausrechnen, da kommt bei mir 1,558 Meter raus.
+Also da sieht man doch, dass aufgrund dieser vergleichsweise höheren Strömungsgeschwindigkeit,
+Das ist eben in dieser Angabe durch den Volumenstrom so verschlüsselt.
+Fünf Meter pro Sekunde ist ja ganze Menge.
+Geht hier einiges an zusätzlicher Kraft, gilt es aufzuwenden mit Ihrer Pumpe,
+damit das Wasser mit dieser Geschwindigkeit da an dem Auslass heraus strömen kann.
+Und wenn ich die drei Werte da zusammen multipliziere, kommt bei mir 62,47 Meter raus.
+Und jetzt gilt es als letzte Schritte die Aufgabenteile D, E, F mit zu bespielen.
+Bei der Aufgabe D geht es um den Druckverlust.
+Ich glaube, das können Sie eigentlich gut selber.
+Da bin ich gespannt, wer von Ihnen das rauskriegt.
+Ich lasse Sie einfach mal ein bisschen gucken in der Formelsammlung, überlegen und spielen.
+Ich glaube, wir haben eigentlich ganz gute Zeit und Möglichkeit dafür.
+Also Druckverlust ist das Nächste, was gefragt ist.
+Und wer das zügig hinbekommt, kann sich mit der Aufgabe E auseinandersetzen.
+Da geht es um die Förderhöhe der Pumpe.
+Auch das haben wir gerade durchgenommen.
+Blättern Sie ein bisschen hin und her.
+Ich würde mich mal fünf Minuten kurz rausnehmen.
+Sie starten da dran.
+Ich brauche ganz kurz was zu trinken, das hole ich mir aus dem Nachbarzimmer, ich bin in einer Minute zurück.
+Druckverlust, hat jemand die richtige Formel?
+oder Druckunterschied, das ist eher nicht Druckverlust,
+Druckunterschied, der sich von Ein- und Ausgangsseite ergeben muss,
+Im Prinzip steht es in der Formel S6.3 mit drin.
+Da steht nämlich die Gesamtformel S6.3.
+Wenn Sie da ein bisschen genauer reingucken, dann sehen Sie, dass Delta P nichts anderes ist als HA mal, steht da mit einem kleinen a, ist aber die gleiche Geschichte, mal Rho mal G.
+Und hat es jemand von Ihnen schon ausgeregnet?
+Dichte Wasser ist immer 1000 Kilo pro Kubikmeter, steht auch in der Angabe, sogar noch mal drin, sehe ich gerade.
+Bei mir kommt da 612.812 Pascal raus.
+Und aufpassen, bei diesen Aufgaben ist es immer gefragt, dass Sie am Ende sich auf die übliche Druckeinheit in bar umrechnen.
+Und da gilt wieder dieser 10 hoch 5 Faktor.
+Jetzt sind wir wieder dabei, nicht 10 hoch 6, sondern 10 hoch 5, so wie es gerade eben war, sind also 6,128 Bar, nicht wahr?
+Und also 6 Bar Druck ist ja doch auch eine ganze Menge, die diese Pumpe da unten in dem untersten Punkt liefern muss.
+Und jetzt haben Sie hier einen Volumenstrom mal eine Druckdifferenz und das sind ja 100 Kubikmeter in 3600 Sekunden mit, ja jetzt nehmen wir gleich wieder den Pascalwert, das ist ein bisschen unschön immer wenn man die Angaben zwischengefragt werden, 612, das sind nichts anderes als Newton pro Quadratmeter, das sind die Paskale.
+Und das ist dann 100 mal 600 und so weiter.
+Und da sind noch die 3600 unten im Nenner.
+Ich habe bei mir geschrieben 17,02 Kilo Watt.
+Also da sind die 10 hoch 3 drin.
+Da würde ich auch ganz kurz innehalten.
+Ich werde es vielleicht selber ganz kurz unter dem Testleiter fotografieren.
+weil in der Aufgabe die ein oder andere Seite nicht ganz so fast dargestellt war.
+Mein Taschenräder gibt leider gerade die Batterie auf. Kein Problem. Am Fenster geht er noch.
+Ich glaube, wir haben ein funktionierendes Gerät bei sich.
+Also, 17,02 oder 17,03
+Ich habe von da hinten wahrscheinlich irgendeine Ziffer
+hier falsch abgelesen, ich glaube 17002
+müsste passen
+als KW
+also das ist die Leistung, die
+Ihre Pumpe da braucht
+aber halt, eine Kleinigkeit
+ist noch übersehen
+als letztes steht noch da
+was soll jetzt die elektrische Leistung
+P elektrisch
+von der
+entsprechenden Anlage sein
+und jetzt müssen Sie noch mal
+eben die
+Förderhöhe
+durch diese beiden Effizienzen teilen, elektrisch, mal die mechanische Leistung,
+oder, Entschuldigung, mechanischen Wirkungsgrad, oder auch genannt P-Eta-Pumpe.
+Der elektrische Wirkungsgrad war mit 0,9 in der Angabe gegeben, der Pumpenwirkungsgrad wiederum nicht.
+und den müssen wir an der Stelle nochmal uns rausblättern.
+Das werde ich jetzt machen. Ich gehe mal ein bisschen zurück.
+Es geht um diese Angelegenheit.
+Wir erinnern uns an diese Förderhöhe, das waren 62,47 Meter.
+Ich glaube, es ist in dieser Aufgabe, ja okay, aus einem bestimmten Grund gar nicht weiter spezifiziert.
+Wir haben den Förderstrom, der ist hier mit 100 Kubikmeter pro Stunde.
+Wir gehen mal gerade auf der schwarzen Linie her, die ich jetzt rot nachfahre.
+Und wie sieht es denn aus? Welche Pumpe reicht aus?
+Es gibt jetzt 60 Meter, hier oben gibt es 70 Meter, 62 Meter, das ist gerade hier.
+Das ist ganz knapp unterhalb dieser in diesem Pumpenblatt stärksten verzeichneten Pumpe.
+Sie brauchen also auf jeden Fall diese stärkste Pumpe, keine Frage.
+Ja, könnte natürlich auch sein, dass jetzt bei irgendeiner Aufgabe was anderes rauskommt.
+Und das werde ich jetzt mal ganz frech zwischenschieben.
+Stellen wir uns vor, Sie kommen irgendwie hier raus, ja, bei dem Lilane.
+Dann wird es eventuell in der Anlage heißen, finden Sie die wirtschaftlich passende Pumpe
+und nehmen Sie den Wirkungsgrad wirtschaftlich passende Pumpe.
+Wenn Sie hier sind, ist die nächstgrößere, die das halt gerade kann.
+Ja, das ist eigentlich logisch.
+Das wäre beim Lilanen, würden Sie dann mit der Pumpe, Entschuldigung, hier unten arbeiten, nur dass das farblich einfach passt.
+Bei uns ist es die rote Pumpe. Die rote Pumpe hat hier einen 75% Wirkungsgrad und hier, wenn ich es richtig lesen kann, 81%.
+Das ist aber ziemlich schwierig, aber in der Dachstelle ist es anzunehmen, dass es 81 ist und hier steht nur 70, das soll also 81 sein, diese größte Pumpe.
+zwischen 75 und 81
+ja da haben wir jetzt 3 das Spiel
+ich weiß es nicht
+78 vielleicht
+nehmen wir mal 78%
+das ist dann am Ende
+auch
+nicht entscheidend
+0,78
+habe ich jetzt mal
+hier gewählt
+und jetzt kann ich wieder
+zurückblättern und es dann noch
+einsetzen und dann bin ich aber wirklich fertig.
+Dann komme ich von meinen 17,02
+kW
+hin zu
+dem
+0,78
+aus der Grafik.
+Die elektrischen waren 0,9
+aus der Angabe und hier oben
+sind wir bei 17,02
+kW
+und dann ist die Gesamtaufgabe
+in dem letzten Zug
+beantwortet mit
+Und bei mir kommt 24,25 kV aus.
+Okay, was ist uns gelungen?
+Hoffentlich mit dieser Monsteraufgabe.
+Ja, eigentlich so mehr oder weniger würde ich behaupten,
+fast das Ultimo von der Strömungstechnik zu machen,
+was uns in dieser Vorlesung betrifft.
+Nämlich eine Anlagenkennlinie zu finden, um zu sagen, ja es geht ja darum, dass ich irgendwas 16 Meter da oben befördere als Wasser.
+Alle Reibungsverluste und Krümmungen und Rohrverluste einzuberechnen.
+Also muss die Pumpe eigentlich eher 62 Meter überwinden.
+Dann die richtige Pumpe rauszusuchen, die 62 Meter kann.
+Zu gucken, wie viel Wirkungsgrad kann diese Pumpe, wenn sie das tut, denn erreichen.
+Und zu schauen, wie viel elektrischen Strom brauche ich, damit ich diese Aufgabe bewältige.
+Okay?
+Ist etwas umständlich, aber in der Summe haben Sie jetzt, würde ich behaupten, so ziemlich alles zusammengebracht.
+Hoffentlich.
+Wir haben jetzt noch ziemlich genau eine halbe Stunde.
+ich würde jetzt empfehlen
+wir schauen uns mal die nächste Aufgabe
+gemeinsam kurz an
+und ich weiß
+dass Sie, eine Person
+hier im Raum, die Aufgabe schon gerechnet hat
+und da auch schon ziemlich
+glücklich ist mit dem Ergebnis
+ganz nah an dem, was ich gewonnen habe
+die anderen Leute hatten es nicht
+ich denke es wäre dann auch gar nicht schlecht
+wenn wir es einfach mal hier
+Sie arbeiten und rechnen lassen
+wenn Sie sagen, reicht Ihnen, Sie gehen
+dann dürfen Sie
+Jeder darf ohnehin machen, wie er will.
+Ich würde das jetzt mal, Sie mal ruhig 20 Minuten lang lassen, oder eine Viertelstunde mindestens, in dieser nächsten Aufgabe.
+Das ist die SDR 20. Hat jeder hier an der Stelle alles mitgeschrieben und gekriegt, was er wollte?
+Ja? Und dann würde ich sagen, Feuer frei.
+Sie dürfen hier gerne mal untereinander sich unterhalten und überlegen, wie man an dieser Aufgabe rangeht.
+Was an dieser nächsten Aufgabe etwas gemein ist, ist, dass sie nicht untergliedert ist in Teilaufgaben.
+Dazu sage ich Ihnen aber gleich auch mit, ich gebe Ihnen in der Klausur Teilaufgaben, weil ich das fair finde,
+weil ich Ihnen auch an jede Teilaufgabe hinschreibe, wie viele Punkte Sie dafür erwarten können,
+dass Sie sich nicht verheddern und sich an einer Teilaufgabe sehr viel aufreiben, wo Sie vielleicht ganz wenig Punkte kriegen.
+Also hier geht es wieder um irgendeinen Rohr mit irgendwie vielen Knickstellen, die können Sie bitte dann zählen und eben Sie sollen da mit einem gegebenen Überdruck arbeiten.
+naja, da steht schon
+eine Teilaufgabe im Endeffekt
+welcher Druckverlust
+tritt am Entnahmewolkenteil auf
+das sind die zwei Aufgabenteile
+wenn so und so viel Liter entnommen werden
+wenn so und so viel Liter
+pro Minute entnommen werden
+dann wäre mein Hinweis an Sie
+gehen Sie mal dahin
+und versuchen Sie mal Geschwindigkeiten auszurechnen
+und nachdem es sich hier um
+eine Aufgabe handelt, bei der wir
+mit
+Wasser unterwegs sind
+und irgendwelche
+Reibungswerte eine Rolle spielen,
+macht es sicherlich auch Sinn, als nächstes
+sich mit der Reynolds-Zahl zu befassen.
+Und
+Sie haben in der Aufgabe auf der nächsten
+Seite auch ein Moody-Diagramm
+und ich würde mal so lange warten, bis
+mehrere von Ihnen
+im Moody-Diagramm
+eine Einzeichnung genommen haben
+und irgendwelche Lambda-Werte haben.
+Sobald Sie Lambda-Werte haben,
+sagen Sie bitte Bescheid.
+Okay? Und gerne untereinander unterhalten oder wenn Sie sagen, Sie sind mal alles lieber zu Hause, dann genau, sitzen Sie raus, auch gut.
+Wir werden die Aufgabe noch begreifen, ganz vielleicht gehe ich ganz kurz in die Windkraftanlagen rein, aber machen Sie sich keine Sorgen, das kriegen Sie auch aufgeholt.
+Aber vielleicht bietet es sich an, weil ich sage Ihnen ganz ehrlich, mit gutem Grund lasse ich Sie das rechnen,
+weil am Ende sind natürlich die Aufgabentypen, die sich anbieten für Klassen.
+Das war's für heute.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+nur mal ganz kurz in den Raum
+wer hat denn alles einen Wert für u erhalten
+irgendeinen
+ich schreibe den mal an die Tafel
+hoffe das passt mit ihr und zusammen
+also u gleich
+1,8
+Wer hat denn alles eine Reynolds-Zahl errechnen können?
+Okay, die Reynolds-Zahl bei mir ist 28.290.
+Habe ich das richtig?
+ja, keine Beschwerden
+sehr gute Voraussetzungen
+weil ich kann Ihnen ganz klar
+eigentlich hier so im Raum sagen
+das ist das
+was Sie erwartet in der Klausur
+klar, Sie werden irgendeine Geschwindigkeit
+und irgendeine Reynolds-Zahl berechnen
+Sie werden einschätzen müssen, ob das
+laminar oder turbulent ist
+und wenn Sie bis dahin gekommen sind
+haben Sie 5, 6 Punkte wahrscheinlich
+in der Tasche, 5 wahrscheinlich
+irgendwie sowas, keine Ahnung
+Also es ist auf jeden Fall kein Schaden, wenn Sie das jetzt können.
+Und das bitte mit Volumenströmen oder Massenströmen, mit irgendwelchen Rohrleitungen,
+weil Sie in die Durchmesser oder Radien gegeben haben, das spielt ja alles keine Rolle.
+Hoffentlich ist es so, dass Sie schnell herausfinden, was Sie da einsetzen müssen.
+Jetzt aber die Frage, hat jemand es von Ihnen geschafft, das Diagramm zu bespielen und schon irgendwie Lambda wird raus?
+Noch nicht, oder? Ja, doch?
+0,062.
+0,062 deckt sich mit Magenwerk, wird aber vielleicht noch kurz warten, bis die anderen Leute das haben.
+Sie können daraus auch ein Cetarohr berechnen.
+Das ist vielleicht das, was Sie gerade tun oder schon getan haben.
+Ja, also, Sie haben schon den Tipp vom Kollegen.
+Ich blätter mal ruhig zu dem entsprechenden hin.
+Ich würde aber ganz gerne wirklich sie lassen, weil es einfach an der Stelle,
+wie wir ja bei mir selber gesehen haben, dann doch immer wieder so kleine Fallstricke hat mit dem
+Mutti-Diagramm.
+Ups, das ist unglücklich.
+So, diesmal habe ich es hoffentlich dann auch richtig, die Radius ist 2,8 mal 10 hoch 4.
+So müsste es hoffentlich korrekt sein.
+Okay.
+Vielen Dank.
+Vielen Dank.
+Ich war so frei, ich habe es dahin geschmiert.
+Ich hoffe, Sie hatten aber genug Zeit, um es auch selber zu probieren.
+Es ist in dem Falle natürlich wieder eine Aufgabe, bei der Verkrümmung keine Rolle spielt,
+aber bitte nochmal die Leute, die vielleicht das jetzt das erste Mal so richtig mit nachvollziehen,
+was ich gerade gemacht habe, ich mache ganz bewusst mal noch ein anderes Beispiel rein.
+hätten wir
+D durch K
+gehabt von meinen Wegen
+einem Wert
+nennen wir mal
+2000.
+Was wäre dann gewesen
+in lila nur als Gedankenexperiment?
+Wir gehen hier rauf.
+Wir gehen entlang dieser Linie.
+Sie kommen dann nicht irgendwie hier unten irgendwo hin,
+sondern Sie kommen hier hoch.
+Und Sie würden dann diesen Wert hier ablesen.
+Und haben da in lila.
+Das ist für jeden verständlich, hoffentlich.
+Es wäre echt schade, wenn Sie da Punkte verlieren.
+Das ist ja Diagrammzeichnung, es gibt zwei, drei Punkte.
+Am Ende ist das wirklich eine angenehme, schnelle Geschichte.
+Okay, und jetzt, wenn wir das haben, können wir den Rest der Aufgabe noch mit einblenden.
+Da gehen wir zurück, auf diesen Bereich.
+und schauen uns das an, wie geht es weiter.
+Aus dem Diagramm die 0,062, korrekt?
+Dann, Zeta-Ruhr ist meiner Meinung nach für Sie,
+auch wenn es in der Form ist, aber teilweise anders steht,
+aber es ist immer das Schlauste, Sie gehen über Zeta-Werte,
+weil am Ende haben Sie es ganz einfach,
+Sie müssen sich nicht mehr mit irgendwelchen Darcy-Weisbachs rumärgern,
+sondern Sie haben einen Haufen Zetas von irgendwelchen Zeug, irgendwelchen Einbauten und ein Zeta vom Rohr.
+Und dann summieren Sie alle Zetas zusammen und dann gehen Sie den letzten Schritt und rechnen damit über die Druckverluste oder was auch immer da ist.
+Also, Zeta-Rohr, das ist ein Lambda-Rohr, hier kommt die Länge rein, hier kommt der Durchmesser rein bei Reynolds,
+hier oben, das kann man ja gar nicht lesen, aber das sollte irgendwie ein D sein. Sie haben es ja richtig gemacht, alle. 0,062, also ich mache das vielleicht mal, weil der eine oder andere von Ihnen hat jetzt den Bruder ausgepackt, das soll doch um den D sein.
+0,062
+20 Meter ist die Rohrlänge
+das steht irgendwo in der Angabe
+glaube ich, keine Ahnung
+da
+und dann 15 Millimeter
+durch, das sind 82
+können alle von Ihnen nachvollziehen
+konnten Sie sogar schon rechnen
+2, 3
+und jetzt der Gedanke
+wir zählen
+das ist wie malen nach Zahlen
+mit meinen Kindern
+1, 2, 3, 4, 5, 6, 7, 8
+solche Knicke
+also 8 mal wieder
+in dem Fall mit diesem Rohrbiegum
+0,3
+sind 2,4
+insgesamt auf allen Umlenkungen
+und dann kommt
+ein wichtiger Teil dieser Aufgabe
+das ist das, dass wir hier
+einen Überdruck am Ende
+da wo die Leitung
+ins Freie geht
+haben von 0
+da entlassen sie
+in die Freiheit
+und hier aber auf der Seite war die
+Druckleitung
+hier sind sie mit 5 bar
+unterwegs
+Also 5 bar hier, Zetas von Abzweigung, Absperrventil, Rohr und so weiter und hinten haben Sie einen
+Überdruck von 0 und Sie haben einen Höhenunterschied, weil Sie hier auf der Basishöhe arbeiten
+und das andere ist 4 Meter höher, das steht auch in der Angabe, Höhenentnahme 4 Meter
+drüber.
+Jetzt müssen wir uns noch den letzten Schritt gemeinsam überlegen, dass wir hier, wenn ich mich richtig entsinne, noch diesen Druckverlust am Entnahmeventil zusammen bekommen.
+Jetzt muss ich selber ein bisschen auf meinem Spickzettel nochmal gucken, ob es hier drauf steht.
+Das würde ich mit Ihnen jetzt gemeinsam gerne noch entwickeln.
+Sie konnten das entweder abschreiben oder fotografieren.
+Sie sind damit einverstanden?
+Nein? Ja?
+Ich habe eine Frage.
+Gibt es ein Armadentil, dann derselbe Zeta-Wert für das Absperrwert?
+Oder befachten wir es davor?
+Ich weiß es zugegeben nicht mehr genau.
+Ich gucke mal.
+Hier steht das Doppelstab-Sperrwert hier.
+Das ist klar.
+Abzweigung
+aus der Versorgungsleitung
+2,5
+Entnahmewentil
+das ist das gleiche
+muss das gleiche sein
+das ist also
+ich werde das gleich auf der nächsten Folie zeigen
+da greife ich die Werte zusammen
+aber das ist mal wieder eine Angabe
+von irgendeinem uralten Textbuch
+bei dem sowas nicht sauber dargestellt ist
+ich mache das
+So, zack. Also, Delta, ja, das ist die falsche Farbe, eine Sekunde.
+Delta IV, Gesamt, vieles anderes als die Summe über alle Zetas,
+oder die Summe über alle Druckverluste, aber ja.
+Zeta mal Rho I Quadrat durch 2.
+Und jetzt was ist denn die Summe über alle Zetas?
+Das ist gleich Zeta Absperrventil plus, also das soll die Abzweigung sein, Entschuldigung, Abzweigung, Zeta Absperrung plus Zeta Rohr plus,
+Und Sie sagten es richtig, Zeta-Biegelstücke, Gesamt.
+Na ja, gut, und jetzt ist noch dieses Zeta-Entnahmeventil.
+Nein, jetzt bin ich bei Ihnen, tut mir leid.
+Was ist denn dieses Zeta-Entnahmeventil?
+Ja, also diese hier vorne können wir alle ausrechnen, das ist auch nicht besonders schwierig.
+Das können wir zahlenmäßig alles greifen, das ist 92,5.
+Jetzt kommt der Clou dieser Aufgabe, Sie hätten es absichtlich aufgemacht, um ein bisschen Luft zu kriegen, oder?
+kann ich wieder schließen.
+Wenn ich es halt so gegenfinde,
+dann schließe ich es einfach.
+92,5
+und dieser
+Druckverlust gesamt, ja, im Endeffekt
+haben wir den gegeben,
+weil der Druckverlust gesamt sind diese 5 bar.
+Das ist das,
+wie die Aufgabe gestrickt ist.
+Es heißt, es ist sozusagen
+so ein bisschen hinten durch die
+Brust ins Auge, dass man
+versucht, also jetzt hier hinten habe ich
+jetzt vergessen, Rho mal U
+mittlere Quadrat durch 2
+und Sie müssen jetzt hier vorne
+auf den Schluss kommen,
+dass das hier ja gleich 5 bar ist.
+Und dann stellen Sie einen um.
+Dann ist das ja nicht mehr schwierig.
+Zeta-Entnahmeventil,
+wenn Sie es jetzt
+aufschreiben, ist nichts anderes
+als
+Ah, ne, es muss zugegeben, es ist noch etwas gemeiner, ich habe es zugegeben, aber länger nicht mehr angeschaut.
+Ich werde es jetzt noch aufdröseln.
+Sie haben jetzt noch die Aufgabe, dass Sie hier einen Benui aufstellen.
+Einen Benui aufstellen, indem Sie sagen, die Aufgabe würde ich gerne noch fertig machen, ich glaube die 5 Minuten, das kriegen wir ganz gut hin.
+Sie haben den Benulli, Sie haben zwei Punkte.
+Hier ist der eine Punkt, hier ist der andere Punkt.
+Hier ist Benulli Punkt 1, 5 Bar Überdruck.
+Hier ist Benulli Punkt 2, 4 Meter höher, anderer Punkt.
+Und das spielen wir hier ganz schnell.
+Und zwar Delta, oder P1 Überdruck.
+Das eine soll ab 2 sein und das andere ist ab Sperrung.
+Das ist ein bisschen unschön in meinem Schriftbild sicherlich.
+Ich hoffe, jetzt kann man es verstehen.
+Plus Rho mal U² durch 2 ist gleich P Überdruck 2.
+Also das ist hier Benui.
+plus
+Rho mal G mal Z2
+plus
+Rho
+U2
+Quadrat durch
+2
+plus
+Das ist ein Penui mit Erweiterung.
+Der hat ja den Druckverlust da hinten drin.
+Und jetzt können Sie herangehen, dieses hier rauskürzen, weil die Geschwindigkeit an den zwei Stellen ist gleich beim Rohreinlauf wie beim Auslauf.
+Sie haben hier die 5 Bar Überdruck, Sie haben hier, ist gleich 0 Überdruck, also das fällt Ihnen raus.
+und dann haben Sie Z1 und Z2
+mit dem Delta Z, das sind die 4 Meter
+das heißt
+Sie kommen hoffentlich da drauf
+dann das Delta PV
+Gesamt
+das ist das da hinten
+sich umstellen lässt
+als P1
+Entschuldigung
+Überdruck
+plus
+O mal G mal Z2 minus Z1
+ist gleich O mal U mittlere Quadrat
+halbe mal
+die Summe
+über alle Zetas
+also es ist jetzt
+zwei Varianten
+aus diesen Formeln
+Sie können entweder mit der einen Formel
+hier das erreichen
+oder mit der zweiten
+Formel hier oben das erreichen
+das Delta PV
+Gesamt
+das ist aus 1 und das ist aus 2
+Und durchs Gleichsetzen können Sie das Ganze umstellen und die Entnahmeventil aufgrößen.
+Das Zeta-Entnahmeventil ist dann nichts anderes als 2 mal DÜ1 plus O mal D mal Theta Z durch O mal U
+mittlerer Quadrat
+minus diese 92,5
+die Sie oben ausgerechnet hatten
+und da kommt dann raus
+165,5
+und als letztes können Sie noch einen Druckverlust dazu berechnen
+das ist 2,9 bar
+ich werde die Aufgabe nächste Stunde auf jeden Fall nochmal aufblenden
+bevor ich da jetzt weiterschreibe und Sie in die letzte Sekunde reinrennen
+davon haben Sie nichts, finde ich auch nicht
+Ich will noch mal ganz kurz an der Stelle Revue passieren lassen, was habe ich da hingezogen?
+Sie haben uns noch geklärt, oder? Oder unsere Frage noch dazu?
+Das passt soweit für Sie.
+Also, was ist da vor sich gegangen?
+Ich habe ja selber auch zugeben müssen, ich musste auch noch mal zurückrudern.
+Sie haben also auf dieser Seite diese lange Aufgabenkette
+und Sie haben über diese vielen Spielereien herausbekommen,
+wie die Zeta-Werte sind, von allem, und Sie haben noch nicht dieses Zeta-Entnahme-Metil.
+Das ist das, was Ihnen hier fehlt.
+Den ganzen restlichen Zeta-Werte können Sie rechnen.
+Und der Schritt, den ich am Schluss versucht hatte, war der, dass ich sage,
+Hier ist eine Stelle 1, wo ein Abzweig stattfindet und wo die Flüssigkeit rein strömt.
+Und hier drüben ist eine Stelle 2, bei der Entnahme, wo die Flüssigkeit herauskommt.
+Und um jetzt die Druckverluste auszudrücken, gibt es zwei Varianten.
+Einmal lässt sich der Druckverlust ausrechnen als die Summe aller Zeta-Werte mit dem entsprechenden Spiel der Rohrheilung.
