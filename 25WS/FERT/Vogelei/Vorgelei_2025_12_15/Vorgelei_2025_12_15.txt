@@ -1,0 +1,978 @@
+So, warum habe ich die meisten von Ihnen letzte Woche nicht gesehen?
+Ich glaube, Sie hatten sich sogar abgemeldet, ne?
+Ich weiß nicht.
+Also die Woche davor war ich da?
+Ja, ich weiß es, ja.
+Wie wird das? Sind wir alleine da?
+Passt nicht ganz.
+Gut.
+Vielen Dank.
+Gut, dann bringen wir das noch eben mit dem Schweißen zu Ende.
+Wir haben uns vor drei Wochen ja über das Reifschwein unterhalten, als letzte Variante.
+Wichtigster Punkt war, nicht schmelzen, sondern nur teigig machen und damit diesen ganzen Problemstellungen aus der Werkstoffkunde einfach zu entgehen.
+Das ist das, was Sie als wichtigstes sich merken können.
+Dass ich mit diesem Wirkprinzip der Reibung, nochmal zur Wiederholung, das war Reibung, das macht warm und der Druck sorgt dafür, dass Materialien aufeinander gepresst werden können.
+So, und Sie können es jetzt im Winter, es ist lausig kalt draußen, da kennen Sie das Thema alle.
+Und wenn Sie nur anständig viel Relativbewegung machen, weil das ist Reibung letztlich,
+dann können Sie das Ganze vielleicht auch so hinkriegen, dass Sie an der Stelle Ihre Hände miteinander verbinden.
+Aber sei es so.
+Also, das ist Reibung, das ist der wichtigste Aspekt.
+Und damit bin ich in der Lage, mit dem Rotationsreibschweißen Massenfertigung von annähernden symmetrischen Teilen zu machen.
+Und uns fehlt jetzt noch dieses hier, das Rührreibschweißen, was jetzt nicht viele Partner direkt miteinander verbindet, sondern ich mache es mal so, Sie haben noch ein weiteres Werkzeug und das Werkzeug macht die Reibbewegung auf Ihren Bauteilen, die Sie verwenden wollen.
+Und das wäre sowas wie beim Hörreibschweißen, dass da ein entsprechender Pin unterwegs ist.
+Das heißt, das sieht man jetzt hier letztlich eben auch, dass hier der Pin, sage ich mal, als Werkzeug sich schnell dreht und durch das Material durchfährt und an der Stelle über Reibung eben Wärme erzeugt.
+das Material wird teilig und weil es gleichzeitig zusammengedrückt wird, gibt es eine Verbindung.
+So und so sieht so ein Ablauf aus und das gucken wir uns jetzt einfach am einfachsten nochmal an.
+Vielen Dank.
+Schauen wir uns den Prozess also mal an.
+Das sieht erstmal aus wie eine Bohrmaschine, da wird ein Loch drüber gebohrt.
+Hier sieht man aber schon diese beiden Kanten, das sind die beiden Materialien, die verbunden werden sollen.
+So, und dann hat er eine gewisse Tiefe erreicht, dieser Pin, und dann fährt er schnell, drehend, einfach wie ein heißes Messer durch die Butter.
+So etwas ähnliches habe ich Ihnen ja beim Laserstrahlschweißen schon mal gesagt,
+nur dass da eben tatsächlich eine Energiequelle aufschmelzt.
+Hier ist das, sage ich mal, Aluminium vielleicht im Bereich 400 Grad und nicht heißer an der Stelle.
+Schmelzen würde bedeuten, 660 Grad zu haben.
+Und so fährt er jetzt seinen Weg und kann eine entsprechende Verbindung erzeugen.
+Der Clou ist jetzt, wie gesagt, dass einmal, deswegen habe ich da auch nochmal das mit dem Laser gesagt,
+das Ganze so ähnlich auch von der Konstruktion aussieht.
+Ja, das ist nämlich auch nur einfach so ein Stoß.
+Und das heißt wiederum, ich muss noch nicht mal umkonstruieren.
+Das ist nämlich, wenn man so die letzten Jahre, sie wollen irgendwelche Aluminiumplatten schweißen.
+Früher hat man das vielleicht mit dem Schutzgas gemacht, also mit dem Schmelzschweißprozess,
+dann kam irgendwann der Laser auf, super, Laser macht das irgendwie. Ja, und heutzutage geht alles,
+was mal Laser da geschweißt wurde, in diese Richtung, weil der Prozess günstiger ist,
+genauso schnell ist, also so gut wie keine Nachteile hat gegenüber dem Laserstrahlschweißen
+und wichtig eben, dass die Konstruktion auch nicht geändert werden muss. So, das ist dieser
+rotierende Pin, den Sie gerade gesehen haben und der verführte letztlich diese entsprechende
+sodass wir Querschnitte im Bereich bis 20 machen können. Bleche, Konturen, auch 3D sind möglich,
+so ein bisschen angedeutet hier unten. Auch am Bauertag können wir heutzutage sowas eben
+dreidimensional ablaufen lassen. Dann gibt es eben die Aluminium-Schüttverarbeitung,
+Schienenfahrzeuge, alle die große Teile aus Aluminium fertigen. Kurze Frage, warum nur
+Aluminium und nicht Stahl? Können Sie sich das irgendwie vorstellen, warum das bei Stahl vielleicht
+keine gute Idee ist.
+Der Pin ist Stahl, auch aus Höherfest. Und wenn der jetzt in Stahl selber arbeiten muss,
+ist natürlich der Widerstand von einem Stahlwerkstoff viel höher, wie von einem
+Aluminiumwerkstatt. Allein an den Schnellpunkten sieht man das schon. Aber letztlich wird exponentiert
+an der Stelle, macht aber wenig Spaß. Das heißt, die eigentliche Anwendung, 99,9% sind
+letztlich Aluminiumanwendungen. So ein bisschen Kupfer, das geht auch noch einigermaßen,
+aber Stahl, Forschungsaktivitäten ja, aber keine industrielle Anwendung. Aber im Aluminium
+nimmt er zur Zeit
+bei großflächigen Sachen
+und bei allen anderen Schweißprozessen
+läuft er den Rang ab.
+Deswegen
+in diesen ganzen Bereichen
+ist er zuhause.
+Also Schienenfahrzeuge,
+die ICE,
+wird komplett mit diesem Verfahren
+die Längsnähte geschweißt.
+Schiffswacht und so weiter.
+So, Vorteile, wie gesagt, super Qualität und trotzdem nicht die Probleme, die ich beim Schmelzschweißen habe.
+Und das Ganze als Nachteil, das ist vielleicht der einzige Punkt, wenn ich viel Kraft aufsetze, so ein Laser macht ja keine Kraft auf das Bauteil.
+Das Verfahren drückt massiv drauf und wenn Sie jetzt ein dünnes Blechlein hätten, dann würde das nicht funktionieren.
+dann drücken Sie das einfach weg. Und deswegen, ich hatte das letzte Woche in der entsprechenden,
+hier nochmal die Konstruktion dazu, und so sehen solche Paneelen, Profile, sowas sieht
+das entsprechend aus. So, und letzte Woche im Praktikum habe ich unser Verfahren beim
+Fettschweißen gezeigt, und damit schließe ich jetzt auch das Schweißen ganz prinzipiell ab.
+Da geht es nämlich darum, wenn das Material zu dünn wird und dieses Rührreibschweißen das nicht mehr schafft,
+dann hat sich mein Vorgänger ein neues Verfahren überlegt.
+Das ist das Reibwechselschweißen, was letztlich als Ziel hat, irgendwelche dünneren Materialien zu verbinden.
+Und das heißt, hier gibt es jetzt nicht mehr einen Pin, sondern eine Scheibe.
+Die macht aber genau das gleiche wie der Pin, die dreht sich und über Reibung wird Material teigig gemacht.
+Ich zeige nur einmal einen Film dazu, weil die Anlage noch nicht laufbereit ist zur Zeit.
+Das sind eben zwei Bleche an der Stelle, da kommt jetzt diese Scheibe und die fährt einfach
+gnadenlos drüber her und das mit einer extrem hohen Geschwindigkeit und das macht eben auch
+den Clou dieses ganzen Verfahrens aus, dass es dünne Materialien, Mischverbindungen noch dazu,
+sehr schnell verbinden kann. So, was ist die Anwendung dazu? Elektromobilität überall,
+wo eine Batterie mit irgendwelchen Kabeln verbunden werden muss. In der Elektroindustrie selber
+irgendwelche Schaltelemente und so weiter. Also der Markt ist riesengroß. Kleiner Haken an der
+Geschichte, der ganze Prozess ist noch nicht zu Ende entwickelt. Da werden wir im Labor noch arbeiten,
+viele Abschlussarbeiten brauchen, um hier eine Industriereife zu erzielen. Gut. Was meinen Sie mit
+den Vorgängern? Ja, also Professor Schindler war mein Vorgänger in der Schweißtechnik und der hat
+erfunden. Das heißt, das ist eine Kettenerfindung? Das ist eine Kettenerfindung. Wir haben auch noch die Patente dazu.
+Die Patente gehört der Hochschule? Ne, die hat die abgegeben und die verfallen jetzt auch.
+Patente sind auch teuer an der Stelle. Wir müssen, weil es eben Hochschule ist, eben nicht so, wie soll ich sagen,
+sagen, muss ich vorsichtig sein,
+die müssen eben mit Eigenmitteln
+das Ganze eben stellen.
+Und wenn sie so ein Patent haben,
+kostet das 1.500 Euro im Jahr,
+wenn sie das aufrechterhalten wollen. Jedes Jahr.
+Und wenn sie dann
+eben keinen Industriepartner haben, der sagt,
+das stelle ich mal eben.
+Aber, wie gesagt, es ist nach wie vor
+international,
+sage ich mal,
+ein Verfahren,
+was sonst keiner macht.
+Also Sie haben letztlich gemeint, dass wenn man nicht industriegeil ist, aber bei Batterietechnik nicht viel verändert, also es ist momentan, es ist für solche Anwendungen, aber es wird noch nicht...
+Es ist noch nicht umgesetzt, nein, genau. Können wir ja mal kurz drüber nachdenken. Es ist eben tatsächlich in der Schweißtechnik so, dieses Rührreibschweißen, was ich Ihnen gezeigt habe, hat über 10 Jahre gebraucht.
+Und da ist ein großes
+englisches Institut dabei gewesen,
+was das Ganze entwickelt hat.
+Bis es soweit war, dass
+der Industrie sagt,
+es ist reproduzierbar. Was heißt
+reproduzierbar? Das muss eben über
+Schichten nach Schichten einfach
+funktionieren. Und das ist eben
+der Clou an der Sache.
+Und das heißt, bei unserem Prozess,
+also bei dem RPS-Schweißen
+ist es eben so, dass
+von einem zum nächsten
+tatsächlich
+die Qualität sich leicht verändert, weil sich am Werkzeug auch was verändert.
+Und dafür haben wir jetzt eben, dafür habe ich jetzt schon vor zwei Jahren diese Anlage
+komplett umgebaut, mit Sensoriken ausgestattet, sodass ich überhaupt mal verstehen kann,
+warum das passiert, unter welchen Bedingungen es passiert, um dann die Gegenmaßnahmen zu
+ergreifen und dann wiederum diese Industriereife überhaupt hinzufügen.
+So, und das ist ein Entwicklungsprozess, mein Vorgänger hat das wie gesagt erfunden, hat
+auch viele Schweißungen gemacht und gezeigt, es gibt hier ganz viele Mischverbindungen,
+aber die Reproduzierbarkeit, das ist das einzige, was noch fehlt.
+So, soweit zum Schweißen.
+Jetzt habe ich natürlich letzte Woche viel zum Löten gesagt, deswegen fasse ich das jetzt mehr oder weniger auch nochmal zusammen für Sie,
+Ihr seht, es zerlässt aber nicht daran, weil ich das mehr praktisch bezeichne.
+So, also, 30 komplett neuer Strom, wir schweißen nicht mehr, wir löten.
+Was ist der Unterschied?
+Neues Clip, ne?
+Was ist der Unterschied, schweißen zu löten?
+Speisen heißt, ich habe so viel Temperatur, dass auch die Fügepartner die gleiche Temperatur
+Das heißt, beim Schmelzschweißen ist es die Schmelztemperatur, bei den ganzen Reitprozessen
+ist es irgendwas im teigigen Bereich, aber da kommt zumindest die Kraft noch dazu.
+Beim Löten ist es eher vergleichbar mit dem Schmelzschweißen, aber die Temperatur ist
+deutlich niedriger.
+Die ist nämlich nur so heiß wie das Lot und das Lot hat eine geringere Temperatur, eine
+geringere Schmelztemperatur.
+Das heißt, wir schmelzen das Lot auf und lassen das an unseren Fügepartner haften.
+Und das ist der Unterschied.
+Wozu könnte das gut sein?
+Immer, wenn wir Materialien eben nicht aufschmelzen wollen.
+Stellen Sie sich vor, hier sehen Sie so eine Leiterbahn, das ist irgendein elektrisches Bauteil.
+Wenn Sie das jetzt schweißen, kann es sein, dass das elektrische Bauteil eben auch die Temperatur besiegt und kaputt geht.
+Das Lot, der von Ihnen hat ja schon mal gelötet, noch nie so etwas in meinen Händen gehalten.
+Es ist letztlich ein Draht, ein Zinndraht vielleicht, der schmilzt tatsächlich bei 200 Grad.
+und jetzt haben sie eine Stahlplatine, also das heißt, die schmilzt erst bei 1500 Grad und das
+heißt, das Material merkt das gar nicht. Und das ist eben der Clou an der Sache, dass ich mit Löwen
+sowas eben verwenden kann, ohne zu viel Temperatur zu benötigen. Das Löw-Equipment sieht eben so aus,
+das heißt, wir haben so eine Widerstandsgeschichte, das heißt, da ist Strom rein, hier vorne wird es
+heißt, den geben Sie
+entsprechendes Lot dazu
+und dann gibt es noch ein Flussmittel, was
+die Oberfläche reinigt
+und ein bisschen was mit dem Lot macht,
+damit sich das gut verteilt.
+Das ist eigentlich schon alles.
+So, da steht das ja auch nochmal,
+die Liquidus, also die Schmelztemperatur
+wird nicht erreicht
+und das ist genau der Grund.
+Und alles andere
+sind letztlich Details. Lassen wir uns
+gleich mal
+ein bisschen in die Anwendung gehen,
+damit ich sie da besser abholen kann.
+Also das sind Vor- und Nachteile, aber es geht letztlich darum,
+so ähnlich wie beim Schweißen, da habe ich Ihnen ja so ein ähnliches Bild gezeigt,
+es geht darum, ob ich das überhaupt löten kann oder nicht,
+hat damit zu tun, was für einen Werkstoff ich da habe,
+es hat damit zu tun, welche Konstruktion ich überhaupt machen kann
+und letztlich, welches Verfahren ich dafür einsetze.
+Ich hatte ja gesagt, beim Schweißen hat man Laser, wir hatten Lichtbogen, kann ich hier auch nichts haben.
+Nur, dass diese entsprechenden Wärmequellen, sage ich mal, vielleicht auch überdämmt sind.
+Ich mag ja viel zu heiß.
+Also, was wäre die Quintessenz davon?
+Der Prozess muss einfach schneller laufen, damit das Heißere über eine längere Zeit oder einen längeren Weg letztlich das Material doch wieder nur auf 200 Grad erledigt.
+Also das wären letztlich die gleichen Herangehensweisen.
+Und wie unterteilen wir das Ganze jetzt?
+Jetzt wird es doch nochmal ein bisschen...
+Das wäre unter 450 Grad, das nennt man Weichlöchern.
+Und unser Zinn, das wäre jetzt 200 Grad.
+So, Weichlöten ist eigentlich das, was in einer kleinen Hauswerkstatt nicht fehlen sollte, so ein kleines Gerät.
+So ein Lötkolben kostet 20 Euro und ein bisschen Draht dazu und so weiter, dann können Sie zumindest gewisse elektrische Bauteile auch zu Hause reparieren.
+So, das wäre das Weichlöten.
+Aber es gibt auch die Variante, das nennt sich Hartlöten, was doch höhere Temperaturen hat.
+Aber bitte nicht verwechseln.
+Damit werden Sachen gelötet, die wiederum selber eine höhere Schmelztemperatur haben.
+So ein Wolfram hat über 2000 Grad Schmelztemperatur.
+So, was heißt das?
+so eine Blühbirne, so eine Wendel, die aus Wolfram ist.
+Ja, die könnte ich jetzt schweißen, aber da brauche ich die hohe Temperatur.
+Oder ich löte das bei 1000 Grad.
+Und damit bin ich eben in der Lage, auch Hochtemperaturwerkstoffe miteinander zu verbinden,
+ohne sie letztlich aufzuschmelzen, aber trotzdem eine gewisse Festigkeit überzutun.
+weil das kann man sich auch merken
+Festigkeit der Verbindung
+ist nur so gut wie das Lot
+weil Temperatur
+Schmelztemperatur hat auch ein Äquivalent
+in Richtung Festigkeit
+So, da gibt es noch was Höheres
+aber das sind jetzt Sonderanwendungen
+Ja, nehmen wir nochmal
+das passt auch für die Folie
+Und das Pferd alles groß.
+Das Pferd Dollar 1 klingt schon richtig.
+gibt. Gut. Dann haben wir eben dieses Flussmittel. Weil wenn so eine Oberfläche, Löten hat mehr mit
+Kleben zu tun, wie mit Speisen? Mal ein ganz einfaches Statement. Wie funktioniert Kleben?
+Vielleicht können Sie sich das noch ein bisschen besser herleiten. Weil geklebt haben Sie jetzt
+bitte alle selber schon mal. Das kennen wir. Auf jeden Fall kein Kleber, sondern Klebstoff.
+wird zwischen zwei Fügepartnern eingebracht und der erhärtet dann und bildet dadurch eine Verbindung.
+Aber wie geht die Festigkeit damit hin? Worüber?
+Wer macht das?
+Das ist nicht Polymer?
+Ja.
+Polymerverbindungen und jetzt wird es dunkel.
+die beiden Fachbegriffe, die auch
+fürs Löten gelten. Der eine Fachbegriff
+heißt Kohäsion.
+Das ist die innere Festigkeit.
+Hier beim Lot
+hatte ich gesagt, hat was mit der Schmelztemperatur
+des Lots zu tun.
+Die Festigkeit eines Zinnlotes
+ist deutlich niedriger
+wie eines Messinglotes
+zum Beispiel.
+So, machen wir ruhig
+die Analogie zum Kleben, weil das
+ein, klar, ein,
+da gibt es unterschiedliche
+tatsächlich chemische
+Verbindungen.
+Ja, so ein Epoxidharz
+ist deutlich härter
+und damit fester in seiner
+inneren Festigkeit,
+wie ein entsprechendes
+ähm
+Kann ich auch mal zeigen?
+Ja, wie sagt er?
+Wie sagt er?
+Der Blut ist, was ist denn das?
+Das ist einfach nur eine Zugprobe. Die haben Sie alle mal in der Werkstoffkunde gesehen.
+Das wird eingespannt und gezogen.
+Und das steht für diese innere Festigkeit.
+Weil das ist nichts anderes als ein Klebstoff.
+Den hat man jetzt einfach in eine Form gegossen, die eben das abbildet.
+Hat den Klebstoff aushärten lassen.
+Und wenn ich den jetzt in die Zugmaschine, weiß ich, was diese innere Festigkeit, die Kohäsion von dem Klebstoff hat.
+Und wenn ich jetzt eben Epoxidharz, einen Zwei-Komponenten-Kleber oder nur einen U nehmen und den da reinlaufen lasse,
+aushärten lasse, kann ich gucken, wie gut und fest ist der.
+Aber das ist nur eine Komponente, weil es ist nur diese innere Festigkeit.
+Sagt noch nichts aus, was die beiden Fügepartner.
+Wenn ich das da draufklebe, hat das ja auch was mit den Festigkeiten dieser Bauteile zu tun.
+Das sind zwei Bleche, die ich miteinander verbinden will.
+Ich gebe das nachher auch gleich mal rum.
+Wenn Sie die beiden Bleche übereinander legen und verkleben, dann haben die eine gewisse Festigkeit.
+Korrosion hat man geklärt. Und was ist jetzt der zweite Faktor?
+die müssen doch irgendwie am Blech
+jetzt auch haften
+das ist tatsächlich auch eine Haftkraft
+und
+was macht die Haftkraft jetzt
+beim Klebstoff ist doch relativ klar oder
+man kann Klebstoff
+ins Material einsickern
+und irgendwie auf so einer Oberfläche
+sich fest verhaken
+Eigentlich ist doch klar, wenn ich ein Blech habe und mache da einen Tropfen Klebstoff hin,
+kann der da durchs Material durchgehen? Never. Man denkt so beim Löten vielleicht schon,
+aber man denkt beim Löten auch nicht, weil er hat ja eine geringere Schmelztemperatur,
+das Lot, wie das Bauteil selber. Also es ist auch nichts anderes wie nur eine Veranstaltung
+auf der Oberfläche. Und das ist der Clou und deswegen sind Kleben und Löten so gleich. Nur,
+dass der eine ein metallisches Material ist und das andere, was ist Klebstoff? Kunststoff. Und
+für uns ist doch völlig klar, ich hoffe, dass Sie auch ein Gefühl dafür haben, dass Kunststoff
+immer eine geringere Festigkeit hat wie ein Alu oder Stahl oder Metall. Und das heißt, wenn wir
+diese Festigkeit jetzt bewerten wollen.
+Wie gesagt, einmal geguckt, was
+Kohäsion macht. Und dann müssen
+wir die Adhesion, das ist der zweite
+Fachbegriff. Adhesion
+heißt nichts anderes, das ist die
+Haftkraft. Wie viel auf der
+Oberfläche
+an Kraft übertragen werden kann.
+Und bei dieser,
+das ist wiederum eine Zugprobe, genau genommen
+eine Zugscherprobe, da wurde
+dran gezogen und siehe da,
+das Teil ist kaputt gegangen.
+Geh mich jetzt schon mal rum.
+Du musst doch mal ein paar Balliere klären, das Ganze.
+Ich komme da, schon geht es los.
+Gut. Was ist jetzt tatsächlich der Punkt, wenn ich über Artisionen rede und nur, dass da irgendwas haftet?
+So, jetzt will ich mal Ihre Erfahrung haben. Sie haben doch mal bestimmt Papier oder irgendwas anderes geklebt, oder?
+Hat das immer geklappt? War das immer gut? Oder ist es auch mal schiefgegangen?
+Wenn man Papier klebt? Ja.
+Was könnte da schieflaufen? Das ist eine gute Frage.
+Zu viel, zu wenig Klebstoff? Genau. Wenn Sie jetzt so einen Trittstift haben und der
+ausgetrocknet ist und Sie kriegen nicht genug Klebstoff drauf, ja, dann funktioniert das vielleicht auch nicht.
+Genau. Oder ich, weil Papier ist natürlich so eine Sache, weil die Festigkeit von Papier, die Kohäsion
+von Papier eigentlich wiederum geringer ist wie von Grundstoff, wie von Ihrem Klebstoff. Deswegen, wenn
+Sie daran ziehen, geht eigentlich nie Ihr Klebstoff, Ihre Verbindung kaputt, da geht Ihnen nichts schief,
+sondern ihr Papier war es einfach. Haben sie vielleicht mal was anderes geklebt wie nur Papier?
+Irgendwas. Ich muss mich mal bewegen. Machen sie mal. Vielleicht mal irgendein Gehäuse von irgendeinem
+Teil, was kaputt gegangen ist, wo sie eine kleine Ecke wieder reingesetzt haben, damit es irgendwie
+wieder dicht ist oder funktioniert. Können Sie sich so etwas vorstellen?
+Also mit Sekundenkleber, zum Beispiel auf den Schuhen.
+Schuhe, ja machen wir mal Schuhe, das ist gar nicht so schlecht.
+So, also die Sohle ist irgendwie ab oder löst sich langsam auf und dann versucht man irgendwie
+das Ganze miteinander wieder zu verkleben, damit Sie den Schuh eben noch tragen können.
+Jetzt noch mal meine Frage, was kann da jetzt schief gehen?
+Oder vielleicht wissen Sie es auch, vielleicht ist die Sohle am nächsten Tag schon wieder locker gewesen.
+Sie hat sich wieder abgeschert.
+Ah, okay.
+Also das war ein Sportschuh, also Curling.
+Und da tippelt man halt die ganze Zeit auf der Spitze rum.
+Und wenn da halt das Gummi von der Sohle ist und dann kommt der Schuh, dann wird das da abgeschert.
+Und dann habe ich es mir immer wieder angeklebt.
+Wahrscheinlich habe ich zu viel Klebstoff verwendet, aber damals hatte ich noch keine Fertigungsfähigkeit.
+Genau. Deswegen lernen Sie jetzt was dazu, wie es beim nächsten Mal anders machen wird.
+Also erstmal Belastung. Sie haben so eine Schubbelastung drauf gehabt.
+Das heißt nichts anderes wie hier. Das heißt, Ihre Sohle und Ihr Schuh wurden relativ gegeneinander geschoben.
+Ja, also der Boden zieht ja quasi an der...
+Genau, der zieht in die Richtung, das ist bildlich gesehen, da geht es lang und der andere schiebt drüber.
+Okay, gut. Einmal haben wir jetzt gesagt, die Klebstoffschichten, es war vielleicht zu viel Klebstoff.
+Ja, ich weiß nur noch von letztem Jahr, dass zu viel Klebstoff auch irgendwie dann wieder
+schlechter wird als zu wenig. Genau, dann erklären wir doch gleich mal warum. Warum ist zu viel Klebstoff ein Problem?
+Wenn die Schicht zu dick ist, dann löst sich halt die Mitte der Schicht irgendwann wieder
+auf und dann habe ich wieder eine Trennung. Ich habe halt keine Verbindung direkt zwischen den
+teilen, sondern Teil zu
+Klebstoff, Klebstoff zu Klebstoff
+und dann Klebstoff zu Teil.
+Erinnert sich mal das, Mann.
+Wenn wir eine dicke Klebstoff haben,
+Klebstoffschicht haben, dann ist
+mehr diese innere Festigkeit, die
+Kohäsion entscheidend für die
+Gesamtverbindung. Das heißt,
+wir hatten ja irgendwie schon gesagt,
+das ist eigentlich nie so
+richtig groß, die Festigkeit,
+die Kohäsion. Und das heißt,
+wenn wir die besonders dick haben, wird
+das auch nicht viel besser, sondern dann wird
+das Ganze an der Stelle entscheidend sein für die Gesamtfestigkeit. Und damit vielleicht ihr unter
+dieser Schubbelastung das gar nicht zwischen ihrer Sohle und dem Klebstoff, sondern das reißt einfach
+direkt durch die Klebstoffschicht durch. Ja, also das war die Klebstoffschicht, weil ich hatte ja danach
+wieder beide Teile, die sich halt so langsam ein bisschen abgedreht haben. Aber so wie bei meinem Bauteil,
+Links und rechts hat noch ein bisschen was geklebt.
+Also auf dem Bauteil selber war der Klebstoff noch da.
+Nur inzwischen den beiden ist es eben kaputt gegangen.
+So, das heißt, bleiben wir ruhig dabei, also das wäre der erste Fehler.
+Ja, Sie haben recht, die Kohäsion, die innere Festigkeit,
+möglichst quasi durch eine dünne Schicht, und wir reden hier von Zehntel.
+Viel, viel, viel ist genau das Problem, dass dann eben wir durch die Klebstoffschicht gehen,
+wenn wir da nur eine ganz dünne Schicht auftragen, hätten wir quasi Stützwirkung von ihrem Schuh
+oder oben und unten und damit eben die Kohäsion schon mal besser ausgelöst. So, was kann man noch
+machen? Falscher Klebstoff. Das ist natürlich auch eine Frage, weil, was kann denn falsch sein am Klebstoff?
+Also ich das jetzt wieder ein bisschen vermutet, so aus schwarz, also das dunkle bisschen von letztem Jahr. Der Klebstoff muss ja in der Verbindung mit
+mit dem Teil eingehen und dementsprechend auf die Oberfläche von dem Teil passen.
+Warum, also was da jetzt dann genau passiert, weiß ich nicht mehr.
+Aber wenn halt der Klebstoff sich von der Fläche ablöst, bevor der Klebstoff, also
+bevor die Korrosion zum Problem wird, dann ist es wahrscheinlich der falsche Klebstoff.
+Also wenn schon A-Zension das entscheidende Merkmal ist, dann scheint in dieser Verbindung, in dieser Haftkraft etwas schiefgelaufen zu sein.
+Und das kann man am einfachsten sich vielleicht überlegen, indem ein Klebstoff sich nicht, sage ich mal, flächelt.
+Der sieht zwar flächelnd aus, hat aber von seiner Verbindung quasi, also Stoffe nehmen gerne eine Kugelsform ein.
+Das ist energetisch das Praktischste quasi.
+Und das heißt, wenn Ihr Klebstoff, sage ich mal, nicht flüssig genug wäre zum Beispiel,
+um sich entsprechend auszubreiten, wenn der zu zäh ist schon bei der entsprechenden Darbietung,
+wird er sich nicht an die Oberfläche anschwiegen können.
+Das wäre ein Kriterium da.
+Dann wäre natürlich noch schön, wenn es eine Interaktion mit der Oberfläche gäbe.
+Das heißt, wenn das Material, wenn die Oberflächenspannung quasi zu dem Material von Ihrer Sohle passt.
+Also unter dem Strich gibt es jetzt tatsächlich unterschiedliche Klebstoffe, die jetzt für unterschiedliche Oberflächen geeignet sind.
+Für uns als normale Hausnutzer, ja, gehen Sie zum Hornbach und da steht dann hier drauf,
+braucht, es gibt tatsächlich für Schuhe
+gibt es einen extra Klebstoff,
+der eben spezifiziert ist,
+sage ich mal,
+diese Sohle entsprechend
+anzubinden.
+Das ist eigentlich ein total schwieriges Beispiel,
+was Sie gerade gezeigt haben. Warum?
+Was ist denn
+Sohle und Schuh?
+Was für Materialien ist das eigentlich?
+Gummi und nicht Gummi.
+Wahrscheinlich jeder sogar, ne?
+Ja. Also, das heißt,
+jetzt wird es ja richtig katastrophal
+Jetzt überlegen wir uns, dass wir oben eine Ledersohle haben, da soll eine Wand geben.
+Und nach unten ist eine Gummisohle, da soll es auch kleben.
+Und plötzlich haben wir komplett unterschiedliche Werkstoffe, nur einen Klebstoff.
+Allein das funktioniert schon nicht.
+Weil Klebstoff ist immer ein Optimum für eine gewisse Oberfläche.
+Jetzt können Sie sagen, was können wir hier wieder machen?
+Da gibt es sogenannte Primer oder, sage ich mal, Zwischenschichten, dass Sie überlegen,
+okay, es gibt einen Klebstoff, der verträgt sich wiederum mit Ihrem Klebstoff, aber auch mit Leder.
+Und so können Sie einen Schichtaufbau machen, um optimiert, sage ich mal,
+immer wieder diese Haftkraft dem jeweiligen Werkstoff anzupassen.
+Bei den Schuhen wird es in der Praxis mittlerweile bei uns mit Klettverschluss genutzt.
+Ja, okay.
+Aber wir wollen ja Ihre klassischen alten Schuhe jetzt noch hätten, genau.
+Und beim Klecksverschluss, wie kriegen Sie den Klecksverschluss wieder dran?
+Der ist ja wieder aufgeklebt.
+Ja, aber da habe ich ja wieder zwei Flecken.
+Okay, da haben Sie wieder welche.
+Ja, das ist gut.
+Das war, das meinte ich gerade.
+Ich kann ja noch die Fläche zum Leder und die Fläche zum Gummi,
+kann ich zwei verschiedene Klebstoffe benutzen.
+Also jetzt haben wir festgestellt, wir brauchen noch nicht den Klebstoff,
+Wir müssen den passenden Klebstoff für die entsprechenden Partner haben,
+was eben bei Mischverbindungen schon mal wieder schwierig ist.
+Genau, okay, was haben wir noch?
+Ja, was ist jetzt eigentlich wiederum die Analogie zum Löten?
+Was kann denn noch schief gehen?
+Was ist der allgemeine Klassiker, wenn Sie,
+mal ganz kurz weg vom Schuh, fangen wir gleich wieder zurück,
+Wenn Sie jetzt irgendwas haben und da ist eine Ecke ausgebrochen und da klebe ich wieder was hin.
+Was macht man gerne falsch als Mensch?
+Der keine Zeit hat, da wird gehudelt, da wird mal ganz schnell, ah, das geht schon noch eine Uhr drauf und fertig.
+Was kann man da alles falsch machen?
+Jetzt haben wir meinen Blick auf den, wir haben den richtigen Klebstoff, da haben wir uns richtig Gedanken gemacht.
+Das haben wir ja gerade geklärt. Wir brauchen den richtigen Klebstoff für das entsprechende Material, den Hammer.
+Was kann trotzdem schief fliegen?
+Trocknungszeit?
+Ja, Aushärtezeit. Aber das ist eher, ja, natürlich.
+Wir müssen das irgendwie festhalten. Steht auch auf jeder entsprechenden Klebstoffkugel drauf, wie lang das geht.
+Und wenn sie ungeduldig sind und das zu lang, eher zu kurz.
+oder dann eben auch dieses Vor-Anhaften.
+Manchmal steht ja auch drauf, der Klebstoff soll erst mal eine Minute antrocknen,
+bevor man den eben auch entsprechend verarbeitet.
+Das hat alles mit dem entsprechenden Material zu tun, was der Klebstoff jetzt beinhaltet.
+Und es hat damit zu tun, diesen Optimum an Haftkraft zu übertragen.
+Was geht aber schief?
+Was mache ich jetzt gerade hier?
+Was ist denn auf unserer Haut? Fett, genau. Wenn Sie noch ein Butterbrot vorher gegessen haben,
+umso schlimmer. Das heißt, wenn Sie mit ganz normal, wir haben ja so eine Rückfettung auf
+unserer Hautoberfläche, wenn Sie da auf diese Fügefläche drauf kommen, dann kann es eben
+passieren, dass sie den besten Klebstoff aller Zeiten und übrigens auch das beste Lot aller
+Zeiten hernehmen und das will sich nicht verbinden.
+So, jetzt kommen wir langsam zu dem Punkt, warum.
+Weil eine Haftkraft, vielleicht kann man es sich am besten überlegen, auf atomarer Ebene
+passiert.
+Das heißt, nur Atome tauschen sich aus und verhaken sich untereinander.
+Und wenn Sie jetzt ein bisschen Butter dazwischen schmieren, eine Atomlage Butter, wie sollen die denn miteinander verbinden? Das geht nicht.
+Dann wird es eine Butter- oder eine Fett-Lot-Verbindung und eine Fett-Bauteil-Verbindung geben, aber dazwischen haben Sie nun wieder die Kohäsion Ihrer Butter.
+Auch klar, dass das nichts wird, oder?
+eigentlich auch, nur noch viel extremer. Beim Schweißen, ja, da kann der Prozess das
+vielleicht auch wegbrennen. Beim Löten vielleicht auch schon ein bisschen, weil das Lot eben auch
+heißer ist. Aber beim Kleben geht da gar nichts mehr. Bei beiden kritisch, beim Löten ein bisschen
+besser, weil eben auch noch Temperatur
+im Raum schwebt.
+Und wenn Sie da 200 Grad haben,
+dann verbrennt vielleicht auch noch ein bisschen was von dem,
+was Sie da vorher draufgedappt haben
+an der Stelle.
+So,
+jetzt kommen wir noch mal zurück zu Ihrem Schuh.
+Also, was könnte auch noch schiefgegangen
+sein?
+Perfekt.
+Weil das ist genau der
+Mega-Fehler jetzt tatsächlich
+Auch das nochmal, wenn ein Schuh aufgeht, dann war er ja schon mal geklebt, haben Sie alle Klebstoffreste entfernt vorher, bevor.
+Wahrscheinlich nicht.
+Ich habe Sekundkleber genommen und war fertig.
+Das heißt, was haben Sie gegebenenfalls gemacht?
+Sie haben nichts anderes wie vielleicht die alte Klebstoffschicht mit Ihrem Sekundkleber irgendwie mit der anderen verbunden.
+Sind aber gar nicht an das Leder oder an irgendwas anderes rangekommen.
+So, das heißt, erster Tipp wäre, nicht nur sauber arbeiten, sondern sogar auch Klebstoffreste entfernen.
+Zweiter Tipp ist, und das kennen wir, hat nicht jemand für sich auch mal Kunststoff irgendwie geklebt?
+Irgendein Gehäuse, irgendwas?
+Das wird brutaler. Wie sieht es denn aus mit Zahnfüllung bei Ihnen?
+Kleine Zahnbindung, alle noch tipptopp in Ordnung.
+Das ist nämlich auch nichts anderes als eine Klebeverbindung.
+Das heißt, für den Zahnarzt gibt es letztlich Klebstoff in das Loch, was vorher gebohrt worden ist.
+Das heißt wiederum, auch hier wichtig, gut, da wird ja gefüllt gemacht, also dass es möglichst trocken ist,
+aber noch viel wichtiger ist, die Oberfläche wird auch angebaut.
+Das heißt, für Ihren Schuh gilt letztlich auch, wenn Sie es richtig gut machen wollen,
+nehmen Sie ein bisschen Schmirgelpapier und rauen auch noch mal Ihre Fügepartner an.
+Was hat das für einen Effekt? Das reinigt noch mal,
+aber in dieser Rauigkeit kann der Klebstoff sich in diese kleinen Vertiefungen noch reinarbeiten
+und es gibt noch mal eine extra Kraft, die übertragen werden kann.
+Das ist nicht so wahnsinnig viel, das sind vielleicht so 30%, aber 30% mehr Kraft hätte vielleicht auch Ihren Schuh damals gewettet.
+Also reinigen, reparieren und entsprechend richtigen Klebstoff rein.
+Das sind so die Punkte, die Sie berücksichtigen müssen, um das richtig hinzuzufügen.
+Und wieder zurück zum Löten, nichts anderes.
+Das richtige Notwerkstoff, passend zu Ihren Materialien, Reinigung und auch das Aufrauen kann bei Löten auch wieder helfen.
+So, das heißt, wie kriege ich das Notwerkstoff jetzt auch drauf?
+Ich kann es irgendwie ansetzen, ich kann es einlegen.
+Hier mal dargezeigt, ich habe beim Praktikum letzte Woche ja so ein Bauteil von der Heizung gezeigt.
+Hier, das heißt, da liegt er drin, wird aufgeheizt mit allem zusammen.
+Oder hier liegt er draußen dran und wird wiederum aufgeheizt.
+Hier kann ich es ausführen, ich kann es händisch machen, ich kann es automatisiert machen oder vollautomatisiert machen.
+Hier, da ist es auch schon wieder so wie beim Schweißen aus.
+Der Clou ist aber nur, wenn Sie solche Verbindungen machen wollen, reicht es vielleicht völlig aus,
+das ganze Bauteil zu nehmen und in den Ofen zu stecken. Weil damit kommt ja die Temperatur
+über den Ofen, das ganze Teil wird 200 Grad warm, aber weil es so niedrig ist,
+Beim Schweißen würde es einfach weglaufen, wenn Sie alles auf 1500 Grad aufheizen würden.
+Das Bild existiert nicht mehr.
+Das ist korrekt.
+Sie können sich das gerne mal sortieren, fotografieren, wie auch immer.
+So, dann haben wir eben nur das eine noch, das ist eine Schmalzschweißnaht.
+Haben Sie dieses Beispiel gesehen?
+Das ist eine Schmelzschweißnaht.
+Was auch immer die Energiequelle war, zwei füge Partner werden aufgeschmolzen und verbinden
+durch.
+Und sowas gibt es tatsächlich auch beim Löten.
+Und das nennt man dann Fugenlöten.
+Und das heißt nichts anderes, statt Zusatzwerkstoff, was jetzt eine Schweißthematik darstellen würde,
+also hier ist auch Zusatzwerkstoff drin, ist der Zusatzwerkstoff eben einfach das Los.
+Und das ist letztlich nichts anderes,
+Nur, dass ich eben eine Schweißnahtvorbereitung einfach mit Lot auffülle.
+Aber tatsächlich, das sind alles Nebensachen und das eigentliche Löten, das ist das hier.
+Das ist das sogenannte Spaltlöten. Das hat auch was mit Kapillarwirkung zu tun.
+Das heißt, Lot wird über die Oberflächenspannung in den Spalt gezogen
+und wird den entsprechend ausfüllen.
+Und das ist wie gesagt auch der Kurs.
+Ihr seht, wie klein die Speise sind.
+Wenn die zu klein werden, hier unter 0,05,
+dann funktioniert das nicht mehr,
+weil dann die Teilchengröße in den Lot schon größer ist
+und dann eben der Kanal quasi nicht bedient werden kann.
+Aber so ein 1, 2 Millimeter, 10 Millimeter, das ist perfekt.
+So, das ist übrigens auch gleichzeitig auch Ihrer perfekte Spaltbahn entsprechenden Ebenen.
+Ich weiß gar nicht, ob Sie gerade sich gefragt haben, da waren noch so komische kleine Drähtchen,
+die hier rausgeguckt haben. Das ist nichts anderes wie ein Abstandshalter. Lange wieder
+bei Ihrem Schuh, das kommt nämlich jetzt zur Dicke. Wie sollen Sie denn die Dicke da einstellen?
+Die Dicke stellt man dadurch ein, indem man sich dünne Abstandshalter dazwischen setzt.
+Und dann wird, wenn Sie das zusammendrücken,
+dann kommt es bis auf diese entsprechenden Drehchen,
+wird das zusammengedrückt und dann haben Sie exakt die 0,2 zum Beispiel.
+Wie in diesem Fall.
+So, und das heißt, das ist irgendwo Ihr Metier, da müssen Sie hin beim Löten,
+wo lieber kleben. Wenn Sie da größer werden, dann müssen Sie irgendwie wieder händisch nacharbeiten,
+irgendwie den Klebstoff da rein machen, aber die kriegen eben das Problem mit der Kohlensäure.
+So, Lot passiert eben, wie gesagt, über die Kapillarwirkung, wenn der Spalt es entsprechend zulässt.
+Und Lot wird sich tatsächlich doch irgendwie mit der Oberfläche verbinden. Das ist nämlich,
+Wenn Sie jetzt nämlich hier anfangen, das Material, wie ich gesagt habe, der Klebstoff muss weg,
+jetzt fangen Sie an, das irgendwie zu feilen, dann wird sie wieder automatisch,
+das müssen Sie sich eben sehr dünn hier vorstellen, eine Atomlage oder ein Parafon,
+also sehr, sehr dünne Oberfläche, die müssen wir dann eben mit wegteilen müssen,
+damit auch tatsächlich weg ist der Klebstoff.
+Und das heißt, dann hätten wir eben von unserem festen Metall schon wieder eine entsprechende, ja, eine kleine Lage eben mit entfernt.
+So, und jetzt beim Löten sieht das eben so aus.
+Manchmal denkt man, ah, das ist gar keine Verbindung, aber wie gesagt, sehr klein und schmal ist sie da.
+Wenn die Oberfläche rauer ist, angerauert, oder wie in diesem Fall, das ist so eine Busoberfläche, die quasi so eine Unebenheit aufweist, da kann sich dann überall das Not letztlich auch reinsetzen.
+Und wenn ich jetzt hier in diese Richtung schiebe und in die Richtung, dann wird das Ganze eben noch ein bisschen besser halten.
+Oberflächen. Das hat was mit Oberflächenspannung zu tun, von dem ich gerade gesagt habe.
+Wenn die entsprechend nicht in der Lage ist, sich hier entsprechend auszubreiten,
+nimmst du eben bis zu dieser Kugelform ein, da hätte ich den ungünstigsten Verlauf,
+da hätte ich nämlich nur noch einen Punkt, wo überhaupt Kraft übertragen werden kann.
+Aber auch alles dazwischen, wenn sich der Kegstoff eben nicht an die Oberfläche richtig einschmiegt.
+So, die Regel lautet eben, die Konstruktion muss passen und dann muss eben auch der Werkstoff entsprechend mit dem Loop abgestimmt sein.
+Und dann kommen nochmal die homogenösen Flussmittel.
+Das ist jetzt tatsächlich anders wie beim Kegeln.
+Was ist das nämlich nochmal?
+Das kann und ist in der Regel irgendwas, was die Oberfläche angreift.
+Können wir uns vielleicht als Säure vorstellen.
+Das heißt, in diesen Flussmitteln gibt es eben Bestandteile,
+die mir letztlich, sage ich mal, die Oberfläche reinigen.
+Konstruktiv gesehen muss ich eben zusehen, dass das Flussmittel eben unterhalb des Rotes bleibt.
+damit es nicht entsprechend mit verbrennt.
+So, dann haben wir unterschiedliche Wärmeausdehnungen,
+Überhitzen vermeiden, Abkühlungsschwindigkeit,
+das sind jetzt nicht so wichtige Themen,
+aber der hier noch, wenn ich da eine Säure drauf habe
+und die nach den Löten nicht entferne,
+was macht denn die Säure?
+Dann frisst sie eben weiter,
+dann wird sie eben ihre Wirkung auf der Oberfläche weiter treiben,
+gegebenenfalls ihr Lot
+wieder kaputt machen.
+Also man muss reinigen.
+Also wieder der Tipp für zu Hause,
+wenn Sie mal den Löten
+ausführen selber,
+reinigen auch nach dem Löten.
+Das ist hier die Botschaft.
+So, Flussmittel
+macht noch ein zweites Teil,
+macht noch eine zweite Sache,
+und zwar wird die
+Oberschleife in der Spannung verringert,
+sodass ich das Lot besser
+ausbreiten kann.
+Reinigen und Oberflächenspannung niedrig. Das sind die beiden Merkwürfe.
+Weißrot, da haben wir unser Zinn. Bleibt ein bisschen Silber und ein bisschen Kupfer dabei.
+Aus alten Zeiten eher so bekannt als Blei. Das gibt es tatsächlich noch.
+Vielleicht nochmal speziell für Sie jetzt.
+Blei, können Sie sich das vorstellen, dass das ungesund ist für uns Menschen?
+Blei steht tatsächlich im Verdacht krebserregend zu sein und so weiter.
+Das ist irgendwas, was im Lötbereich seit Jahrhunderten eingesetzt ist.
+Und diese Erkenntnis, dass Blei echt schädlich ist, die ist noch gar nicht so alt.
+So, und das heißt, warum wird heute in der Industrie immer noch ein Bleilot eingesetzt?
+Was könnte das für einen Grund haben?
+Ja, Sie kommen in den Betrieb, da wird Bleilot eingesetzt und Sie sagen, seid ihr völlig verrückt?
+Was macht ihr hier für einen Quatsch? Das ist doch giftig, das Kram, das wissen wir doch heute.
+Billiger, ja, aber heute, sage ich mal, würde ich aus dem Grund, weil, wenn ich das heute verwende, ich andere Sicherheitsmaßnahmen habe.
+Beim Löten, wenn es dann eben dampft, muss abgesaugt werden, es muss einfach, das wiegt auf alle Fälle das billiger wieder auf.
+Das ist also nicht der Grund.
+Dann in irgendeiner Form besser.
+In einer Form besser, ja, da gibt es schon durchaus, also diese Benetzung ist deutlich besser, da haben Sie recht, aber das kriege ich auch mit anderen Noten fest.
+Es ist mal wieder viel genialer.
+Es ist vielleicht ein Prozess in der Luftfahrt, der wurde vor zehn Jahren mal so installiert.
+Und weil man Abnahmeteile, sage ich mal, diesen ganzen Prozese, wenn ich nochmal machen will,
+lässt man das einfach so laufen, wie es ist. Man hat zwar neue Erkenntnisse, dass es nicht gut ist,
+aber bevor man den gesamten Prozess jetzt anfasst und ihn komplett ändert,
+würde das im Flugzeugbau vielleicht bedeuten, dass sie hunderttausend von Euro nur für Tests
+ausgeben, ob das Lot jetzt auch tatsächlich das kann, was ein anderes kann. Das wäre einer der
+wenigen Gründe noch, weshalb man das überhaupt in gewissen Bereichen überhaupt noch lässt. So,
+aber wie gesagt, es gibt auch ein Hartlot, da ist etwas noch mehr mit Kupfer drin. Dieses neue
+Neu-Silber, das ist ja gar kein Silber, sondern letztlich glitzert das nur so wie Silber, das ist eben eher eine andere Basis.
+So, aber das lohnt kann bis 1000 Grad, wird eben durchaus auch eingesetzt da, wo das Material ist, das euch verbindend mit eben auch ertragen kann.
+Verfahren, jede Menge, wir gucken uns einfach mal, das hatte ich ja schon gezeigt, das ist diese Widerstandserwärmung.
+Ich kann auch mal einen Gasbrenner nehmen und irgendwas heiß machen.
+In der Heizungsinstallation wird einfach so ein Propangasbrenner, so ein Campingbrenner genommen und das bloß heiß gemacht.
+Weil der schafft auch nicht so einfach.
+So sieht das dann nachher aus, wenn irgendwelche Rohrleitungen einfach per Gasflamme heiß gemacht werden.
+Kennen Sie sowas?
+Heißluft für sich.
+Nicht zu vergleichen mit dem Föhn zu Hause. Wenn Sie den aus Versehen hernehmen, sind die Haare aber so aus dem Blick, weil der einige hundert Grad letztlich macht.
+Aber eine heiße elektrische Heizspirale macht eben hier entsprechendes Volumenstrom.
+viele hundert Grad heiß. Und damit können Sie natürlich auch wieder Ihr 200 Grad heißes Lot aufheizen.
+So, da können Sie auch solche Mischverbindungen mitmachen. Sie können irgendwelche Geräte heiß machen und schon mal mit Lot versehen.
+Wenn Sie nachher in der Elektroindustrie sind und sagen, ich will Lot haben, ist es vielleicht ganz spannend, das schon einfach in einem Vorprozess draufzusetzen.
+Das ist ein Draht, der läuft einfach durch so ein Blut durch und ist damit geschichtet.
+Und wenn Sie das weiterverarbeiten, haben Sie das Blut schon mit dabei.
+Letztes Thema hier wäre eben Hartlöten und da kriegen wir eben solche Sachen hin,
+wie einen Lichtbogen, wie einen Laser.
+Da sind alle Systeme, die Sie auch beim Schweißen kennengelernt haben, wieder da,
+weil wir ja ein bisschen mehr Temperatur auch brauchen.
+Letztlich tut eben auch ein Ofen, der das eben auch, 1000 Grad ist auch für den Ofen natürlich kein Problem.
+Das soll ein Durchlaufofen sein. Warum? Weil natürlich 1000 Grad nicht mal ein- und ausgeschaltet wird,
+sondern damit das Lot natürlich auch auf Schmelztemperatur kommt, braucht es eine gewisse Zeit.
+Und in so einem Durchlaufprozess kann ich das natürlich gut realisieren.
+In Abhängigkeit der Länge wird das eben hier irgendwann schmelzflüssig und dann kann es zum Abkühlen wieder rausgefahren werden.
+Kleine Empfehlung, wer war schon mal in Berlin bei der Nofritete und hat sich mal diese Wüste angeguckt?
+angeguckt. Das ist diese ägyptische Königin. Da ist auch ganz viel Gelöte dran an dieser
+Maske. Das ist ja nichts anderes wie eine Maske. Und da sieht man so ein paar Tränen.
+Was könnte das sein? Keine wirklichen Tränen, sondern was zeigt das Bild hier? Das Bild
+zeigt, dass an gewissen Stellen in einem hohen Material aufgeschmolzen worden ist. Und natürlich
+Die Schwerkraft zieht dann dran und das Material läuft dann hier runter.
+Das heißt, wenn Sie mal eine Lötung erkennen wollen, können Sie das zum Beispiel an solchen Lötfahnen eben sehen.
+Wenn an irgendwelchen Stellen überschüssiges Material eben der Schwerkraft folgt.
+So, also Fahrzeugbau, nein, andersrum.
+Und überall, wo gefügt werden muss, sollten Sie in Zukunft auch mal über Lüften nachdenken, ob es Vorteile bringt, ob die Nachteile akzeptabel sind und letztlich, ob es vielleicht kostengünstiger ist, wie alle anderen Verfahren, die Sie so im Sinn haben.
+So, konstruktiv muss man einiges beachten. Auch hier nur ein Beispiel. Wenn das entsprechende Lot
+hier eindringt, wird es über Kapillarwirkungen in den Spalt gezogen. Wenn der Spalt aber nicht
+offen ist
+und das Material jetzt von außen
+nach innen versucht reinzugehen,
+wie soll das gehen?
+Weil natürlich innen Luft ist
+und irgendwann wird die Luft
+einfach nicht rausgehen,
+sondern wird verhindert, dass ihr Lot
+weiter einbringt.
+Also braucht es eine entsprechende Konstruktion,
+wie zum Beispiel einfach
+größer werden oder hier unten
+ein Loch reinzusetzen,
+damit das Ganze an der Stelle
+eben auch tatsächlich
+Nur noch ein kleiner Eindruck, ich habe letzte Woche die Anlage dazu gezeigt. Wenn Sie elektrische
+Komponenten löten wollen, so komplexe Leiterplatinen, haben Sie natürlich wenig Spaß,
+wenn Sie jetzt eine Lötstelle nach der anderen letztlich bedienen. Wir können das über sogenannte
+Schwall-Lötanlagen, Wellenlötanlagen. Das wäre Ihr Schoko-Grund. Das heißt, das Bauteil liegt da
+oben auf, Material wird von unten einfach gegen die Leiterplatine per Welle gegengeschlagen.
+Überall da, wo das Lot anhaften kann, wird es anhaften. Überall, wo es nicht was nicht kann,
+plumpst es, fällt es wieder zurück in ihren Fokugrund. So sieht das Ganze aus und so laufen die Bauteile an dieser Welle längs
+und werden nicht ein, nicht zwei, sondern hunderte, tausende von Lötstellen werden damit gleichzeitig gelöst.
+Das ist eine spezielle Geschichte im Bereich des Lotens.
+Unsere Bauteile werden bürgerweise immer kleiner an der Stelle.
+Und kleiner heißt eben auch, dass ich irgendwann nicht mehr durchstecken kann, weil das war die Konstruktion.
+Bei diesen Sachen ist letztlich, dass diese kleinen Füßchen durchgesteckt werden und von der Rückseite gelötet werden.
+Das geht nicht immer. Das geht vor allen Dingen eben bei kleineren Systemen nicht mehr.
+Und das gucken wir uns jetzt einfach nochmal an. Zumindest mal an der Reparatur.
+Das sind heute vollautomatisierte Prozesse, die nichts anderes machen.
+Ich fange erstmal mit der Theorie nochmal kurz an.
+Das ist jetzt die Relaterkantine, nicht mehr von unten, aber hier wird nur noch Temperatur gesetzt.
+Das Lot ist hier zwischen oder Ihr Füßchen hat schon Lot, einfach nur ein Vorprozess und wenn Sie das denn drauf legen, kann das aufschmelzen und dann ist es fertig.
+Wir schauen uns einfach nochmal die wichtigsten Aspekte bei einer kleinen Reparatur dieser Leiterplatine an.
+So, hier wird jetzt das Flussmittel aufgetragen,
+um eben die Oberfläche zu weicheln.
+Dann kommt jetzt, keine Ahnung, Transistor oder was auch immer das ist, wird jetzt aufgelegt und wie gesagt nur auf der Oberfläche.
+Jetzt kommt der Lötkolben. Warum kann der jetzt schon löten? Weil die Füßchen von diesem Teil ja auch schon ein bisschen Löt mitbringen.
+Das heißt, wir haben sogar so einen Heftprozess plötzlich.
+Hier ist nur der Hinweis, man wollte sie nicht verbrennen, darum.
+So, jetzt ist das so ein bisschen fest, aber natürlich noch nicht so, wie es sein soll,
+weil ich eigentlich ein richtiges Lot brauche.
+Und das kommt jetzt.
+Jetzt wird nämlich das Blut aufgeschmolzen und wird nadelnlos darüber laufen lassen.
+Was könnte das Problem sein?
+Hier sind auch überall elektrische Kontakte.
+Wenn ich jetzt meinen Loter einfach aufbatze, kann natürlich zwischen einem Füßchen und
+anderen ein Kurzschluss entstehen. Keine gute Idee, oder? Aber wie soll ich denn sonst jetzt
+bei diesen kleinen Füßchen jedes Füßchen einzeln damit ein bisschen Lot versorgen?
+Ist auch schwierig. Das Gute ist, solange ich das Teil nicht anschalte oder mit Strom versorge,
+passiert auch einfach nichts. Ich muss eben nur zusehen, dass das Material dann wieder wegkommt.
+So, und was ist das?
+Das ist so ein feines Drahtgewirr letztlich.
+Was bringt das? Warum geht Material jetzt auf dieses Teil über? Weil ganz feine Drähtchen
+da drinnen sind, die allesamt riesengroße Oberflächen haben. Die Summe von diesen
+Drähten macht die Oberfläche und jetzt wieder dieses Anhaften, das Lot, guckt jetzt, wo kann
+am besten halten und es sucht sich eben die großen Oberflächen und wird eben von der
+Oberfläche meines kleinen Füßchens in dieses Drahtgefühl geführt. Also ein super
+Trick letztlich, um an der Stelle das Lot, das überschüssige Lot wieder los zu werden.
+Ja, wie gesagt, dann muss es auch gesäubert werden und dann sollte es soweit passen.
+So, das ist zwar eine Spezialanwendung, aber eine verdammt große für den Lötprozess.
+Man kann natürlich alle elektrischen Komponenten heutzutage gelötet werden.
+Man kann sich zwar auch über Schweiß unterhalten,
+aber macht das Sinn?
+Da haben wir wieder eine Drahtzuführung, ein Laser, der macht auch solche Punkte, aber der macht eben nur Punkt für Punkt für Punkt.
+Ist das wirtschaftlich?
+Wenn das andere geht, garantiert nicht.
+Wenn es Gründe gibt, weshalb das mit dem Schwalllöten und wie auch immer nicht funktioniert, Ofenlöten, dann mag es sein.
+Auch eine Schutzgasanlage können Sie einfach umbauen.
+indem Sie statt normalen Stahldraht einen Lotdrahter einbauen und dann können Sie eben auch mit sowas fliegen.
+Wir haben natürlich wie immer auch irgendwelche Sachen, die schief gehen können,
+die hier irgendwelche Lotweste haben, irgendwelche wieder unvollständigen Flächen
+und schon stürzt der Flieger wieder ab.
+Also auch hier wieder besonders gut hinguckt. Letztes Thema, gucken Sie sich das mal an, was das werden soll.
+Das ist 3D-Druck, nur ganz anders gedacht.
+Was war 3D-Puppen? Schicht für Schicht irgendwas entstehen lassen. Was macht man hier? Man nimmt
+Bleche, man stanzt ein Loch rein, das nächste Blech hat das gleiche Loch und irgendwann versetzt
+ich das Loch und nachher ist nur noch hier oben welche mit einem Loch. Die lege ich alle
+übereinander und habe Lot dazwischen. Und das ganze Teck drücke ich zusammen, schiebe
+es in den Ofen, mache es heiß, das Lot dazwischen schmilzt auf und jede dieser kleinen Blechlein
+werden miteinander verbunden.
+Verstanden?
+Ja.
+Gut.
+Wie dick sind die Bleche,
+die Sie jetzt meinen, die wir noch auseinanderstatten?
+Die könnten jetzt
+ein Fünfzehntel dick sein.
+Und das soll ja eine Röhre sein,
+also diese Form, die ich da sehe,
+das soll jetzt die Form sein.
+Genau, also dieses Rosenrohr nennt man das.
+Das soll letztlich dabei rauskommen.
+Am einfachsten, das Blech hier unten hat zwei Löcher, das Blech da oben hat nur eins.
+Und wenn Sie die übereinander legen und miteinander verbinden,
+dann haben Sie natürlich x weitere Blechlein, die jetzt Zwischenformen haben.
+Also hier läuft langsam, du müsstest dich das immer zweidimensional vorstellen.
+So sieht das Loch jetzt da aus, da sieht das anders aus und hier sieht es so groß aus.
+Zweidimensional kompaktiert zu dreidimensionalen Orten.
+Das ist einfach nur eine wilde Idee, nicht 3D-Druck zu machen, indem ich Schicht für Schicht irgendwie auftrage,
+sondern es in einem Ofen quasi direkt umzusetzen.
+Warum kann ich nicht einfach so einen Block nehmen und da ein Loch reinbauen?
+Achso, weil das so eine komische Struktur hat.
+Das ist komische Struktur, das gibt es genau.
+Das heißt, das jetzt mechanisch zu bearbeiten, würde schon irgendwie gehen,
+ist aber wiederum echt schwierig.
+Und warum kann ich jetzt nicht einfach irgendwie drei Teile machen oder so?
+Anstatt der 500?
+Auch das wäre eine Variante.
+Wir reden hier von Varianten.
+Das wird nicht so oft eingesetzt.
+Ich wollte einfach nur zeigen, dass ich
+mit dem Lot auch mal ganz anders
+denken kann. Wir gucken uns ja
+alle Dealfertigungen nochmal an. Aber Ihre
+Fragen sind genau richtig. Warum nicht anders?
+Checken Sie es ab,
+ob es kostengünstiger ist, ob Sie
+Vorteile davon haben, dann machen
+Sie es so oder anders.
+Das ist in der Nass-Dasein, sage ich mal, genau solche Sachen eben entsprechend zu bewerten.
+Okay, so jetzt haben wir schon viel über Kleben geredet.
+Jetzt gucken wir uns auch schon mal ein bisschen was zum Kleben an.
+Auch hier habe ich natürlich überhaupt Botschaften für Sie.
+Einmal, Kleben ist die älteste Flügeltechnik.
+Warum? Weil Kleben natürlich, sage ich mal, aus der Natur schon bekannt ist.
+Die Bienen machen ihre entsprechenden Warnstrukturen, das ist nichts anderes als ein Kleben.
+Besonders interessant, jetzt sind wir schon wieder bei 3D-Druck, sind Termitenhaufen.
+Warum? Weil Termitenhaufen sind irgendwie eine Wüste, da habe ich meinen Grund, meinen Sand.
+Was machen die Termiten? Die kleben jedes Sandkorn zusammen.
+Und wenn die sowas bauen, das ist ganz schlichte Schicht, aber dann entsteht...
+Also solche Termitendinger, die können mehrere Meter groß werden nachher.
+Aber nichts anderes, weil die so ein Sekret eben absondern, hier wie diese Schnecke,
+die eben entsprechend, sag ich mal, eine Klebstoffverbindung hat.
+Und dann eben Sandkörner irgendwie ganz speziell mit dabei.
+So, und das heißt, das weiß man so als Mensch schon seit vielen Tausenden von Jahren letztlich,
+dass man mit solchen Sachen sich irgendwas zusammenstellen kann.
+Das wäre quasi die Geschichte.
+Natürlich sieht es heute in einer modernen Fertigung ein bisschen anders aus.
+Ja, ich habe Ihnen das ja mit dem Punktschweiß mal gezeigt. Hier wäre mal die Analogie.
+Bisschen weniger Dreck, bisschen weniger Lautstärke. Ein paar Roboter sind da auch unterwegs.
+Das machen die Autokarosserien verklebend, durch mehr Schweiß.
+Sie sehen, das ist nur ein Seitenteil. Ein Roboter stellt sich hier hin.
+Und dann kommt ein Roboter mit der Klebstoffpistole, dem Dispensor und dreht den Klebstoff auf.
+So wie man es zuhause beim Klebepapier macht.
+So, warum kleben?
+Warum nicht schmeißen oder lösen?
+Ist schon eine absolute legitime Frage, erst mal nach der Wirtschaftlichkeit zu fragen,
+aber was habe ich denn immer wieder gesagt? Immer auf die Technik mal angucken. Was könnte ein
+Das ist ein technischer Grundseil, weshalb Leben hier besser ist.
+Das ist der Werkstoff. Das ist keine Stahlkarosserie, das ist Kohlefaser.
+Das sind letztlich Kunststoffchassis.
+Das ist so ein Sportwagen hier, der i8 von BMW war so ein Sportmodell, extrem leicht,
+Aber das hat eben diese Faser von Grundwerkstoffen gehabt.
+Da könnte nichts schweißen, weil das ist Kunststoff.
+Den können Sie letztlich nur geben.
+So, und deswegen ist es hier erstmal gar nicht eine Frage der Kostenaspekte,
+sondern erstmal technisch umsetzbar, gar nicht.
+Wenn ich sowas haben will, muss ich eben geben.
+Jetzt bleiben wir doch wieder bei den Kostenaspekten.
+Was könnte jetzt wieder bei der BMW,
+BMW hat sich jetzt natürlich auch viel Mühe gemacht, den richtigen Klebstoff auszusuchen.
+Was wäre denn jetzt das Bedeutende für den richtigen Klebstoff?
+Gehe ich im Baumarkt als BMW in Home, EUO Plus oder sowas?
+Nein, es gibt im Baumarkt auch ein bestimmtes Betrieb,
+steht auch drauf, Kunststoffkleber.
+Kunststoffklebstoff.
+Das heißt, das Material ist anscheinend speziell für Kunststoffverbindungen gedacht.
+Was für ein wirtschaftliches Interesse hat aber der WEB?
+Ist das den Reich?
+Ja, natürlich. Na klar.
+Aber wann? Gucken Sie sich doch mal diese Produktion an.
+Weißt du, was das schnell härtet?
+Ja, warum?
+Ja, Fachzeiten.
+Genau. Überlegen Sie mal, wie Sie es zu Hause machen. Sie nehmen irgendwas, halten es zusammen und manchmal auch nervt, ich muss das Ding zwei Minuten halten.
+Was passiert denn, wenn der hier minutenweise Bauteile festhalten muss? Dann ist die Taktzeit natürlich nicht mehr so gut.
+Weil ständig, wir brauchen ja auch keine Roboter mehr, weil dann geht das sowieso alles viel, viel langsamer.
+Weil ich auf die Aushärtezeit des Klebstoffs warte.
+Aber was muss denn ein Klebstoff in der Fertigung schon mal können?
+Welche Eigenschaft ist es?
+Ist es tatsächlich die Endfestigkeit?
+Will ich mit so einer halben Karosserie schon gegen den Baum fahren?
+Den will ich gar nicht.
+Ich will nur eine Festigkeit, die ausreicht,
+damit ein Roboter zum nächsten das Ding transportiert.
+Ja, wir reden hier vielleicht von 20% Festigkeit, die völlig ausreicht, um jetzt diese Karosserieteile einfach weiter zu transportieren.
+Und die echte Festigkeit, die nachher im Crashtest und so weiter meine Klebstoffverbindung natürlich ausmacht,
+die kann auch ein paar Tage später sein.
+Es geht nur jetzt um eine Produktions-Taktzeit optimierte Festigkeit.
+Das heißt, es muss relativ schnell eine geringe Festigkeit entwickeln und dann härtet es nach, während es sich die weiterentwickelt.
+Genau so. Einfach weil das Produkt, die Herstellmethodik, genauso einen Klebstoff benötigt.
+Weil, wenn ich jetzt hier einen Puttenkleber, ich könnte natürlich auch einen Klebstoff nehmen, der sofort extrem schnell raushärtet.
+Das könnte natürlich schon beim Positionieren ein Problem sein, zwischen Auftragen und Positionieren, dass das schon wieder Eigenschaften verliert, die ich vielleicht beim finalen Aushärten nachher gerne hätte, aber da schon verlieren, weil ich nicht schnell genug die Beine zusammenkriege.
+Also auch da
+unterm Strich ist das
+wiederum tatsächlich eine Wissenschaft
+für sich im optimierten
+Bereich, weil wir kennen ja eigentlich
+im Privatbereich immer nur diese
+ja, diese Kompromisse
+so ein UO, Patex oder wie sie alle heißen
+sind nur Kompromisse
+nichts tolles, aber für den Hausgebrauch
+auch völlig okay
+Aber im industriellen
+Umfang wird tatsächlich
+eine Wissenschaft draus gemacht
+Das ist so eine Wissenschaft, dass es sogar analog zum Schweißfahrenden gibt es eben auch den klebetechnischen Ingenieuren, der sich wiederum mit Klebstoffverbindungen auskennt und die entsprechend umsetzen kann.
+So, und das haben wir schon diskutiert
+Es geht um Atmosphäre und Kohäsion
+in der Befestigkeit
+und die Kraft, die übertragen werden kann
+Das Ganze ist letztlich ein Klebstoff
+der nicht metallisch ist
+das ist der Unterschied zum Lücken
+der seine Kraft dann entsprechend übertragen kann
+Sie kennen das Kleben noch viel besser. Ein gutes Beispiel ist das Plaster.
+Wenn Sie sich geschnitten haben und ein Plaster auftragen, kennen Sie vielleicht auch.
+Wenn Sie vorher Ihre Haut an der Stelle vielleicht doch nicht richtig sauber gemacht haben,
+kann es eben auch sein, dass Ihr Plaster gar nicht hält.
+Wenn da ein bisschen Fett dazwischen ist und so weiter, ist genau das gleiche Spiel.
+Funktioniert nicht. So und was leider nicht funktioniert und was tatsächlich das
+Hauptproblem der Kippschlauchverbindung ist, ist, dass ich es nicht prüfen kann.
+Das ist eine zerstörende Prüfung, das kann ich immer. Das geht. Was ist, wenn ich zerstört habe?
+Das Auto ist kaputt. Also ich kann zwar sagen, es hätte gehalten, aber das war's.
+Ich brauche in der Technik, ja sicherheitsrelevant, ich habe ja gesagt, jetzt kleben Sie ein ganzes Flugzeug, da wollen Sie ja wissen, wie gut hält es, oder?
+Sie wollen nicht wissen, ob es generell hält, sondern Sie wollen wissen, ob genau das Flugzeug unter den Herstellbedingungen mit den Menschen, die es gemacht haben, auch tatsächlich alle Bedingungen erfüllt.
+Und das ist eben das schwierige Thema. Das heißt, warum ist das denn so schwierig?
+Warum kann ich nicht einfach, jetzt habe ich das zusammengeschweißt, ich könnte doch jetzt einfach mit einem Ultraschall, mit Röntgen da drauf gehen, wie beim Schweißen auch und gucke, ob die Verbindung da ist oder nicht.
+Das geht eben nicht. Warum? Weil, das ist Metall und das ist Kunststoff.
+Ich muss es nochmal revidieren, wenn Sie Kunststoff-Kunststoff-Verbindung haben, also Kunststoffgehäuse, das könnte man wieder prüfen.
+Aber Metall mit Kunststoff, weil im Röntgen oder Ultraschall der Klebstoff quasi vergleichbare Dichte hat wie Luft.
+Also weniger, viel weniger wie Metall.
+Und damit ein Prüfverfahren nicht weiß, ist es Luft oder ist es Klebstoff.
+Und das heißt, die Prüfung ist ohne weiteres nicht machbar.
+Deswegen wird das Leben meistens extrapoliert, das heißt, ich nehme ein Teil, mache es kaputt,
+dann wird das nächste Teil geklebt und dann sage ich, es ist exakt genauso hergestellt wie das andere, also müsste es auch halten.
+Wenn da Menschenleben dranhängen, die sind jetzt in der verantwortlichen Person, sagen sie, wird schon oder wo.
+das ist immer die Frage
+für mich ist immer so ein schönes Beispiel
+was ich gerne nehme
+die Story kennen Sie ja auch noch
+das ist Ihre Verbindung
+oder ich habe eigentlich noch eine andere dabei
+das hier
+das ist ein Stahlklotz
+zwei Minuten haben wir noch
+hängen Sie sich an diesen Stahlklotz dran
+Ja, ist ein normaler Baustein, ist so ein Quadratzentimeter, wenn Sie das mal hochrechnen,
+ja, können Sie da zehn Leute dranhängen.
+Hohe Festigkeit.
+Jetzt kommen wir, dazwischen ist so eine kleine Verbindungszone, wenn ich das Ganze miteinander
+verschweißt habe, kann ich sagen,
+schweißen, ein bisschen
+abstriche, ja,
+bin ich aber immer noch bei x Tonnen.
+Wenn ich
+dann ganz jetzt klebe, wie viel Festigkeit
+kann ich denn nachher übertragen?
+Ein Zehntel?
+Ein Zehntel?
+Vielleicht ein 20-Zoll.
+Also das heißt letztlich,
+nicht 20-Zoll, sondern
+20% der Festigkeit
+von einer Schweißwand.
+Reicht aber immer noch.
+Das können wir uns nächstes Mal nochmal genauer angucken.
+Darauf wollte ich gar nicht hinaus, sondern das Teil geplägt, weise ich Ihnen theoretisch nach, funktioniert.
+Und wenn Sie sich jetzt hier dranhängen müssten, wer von Ihnen würde sich dranhängen?
+Ich habe noch gar nicht gesagt, wie tief die Pfeile sind.
+Genau das ist nämlich die Frage.
+Wenn Sie nämlich hier einfach im Hörsaal da irgendwelche 10 cm runterfallen,
+sagen Sie doch, kann ich probieren, passiert mir ja nichts.
+Wenn ich Sie aber an die Zugspitzbahn dranhänge und Sie 1000 Meter über Grund unterwegs sind,
+dann könnte es ja sein, dass Sie sagen, Moment mal,
+wer hat das geklebt, wie gut hat er geklebt, wie ist das Ganze tatsächlich aufgesetzt worden.
+Weil, wir machen diesen Test immer bei einer Exkursion bei einem Klebstoffhersteller,
+ist nie was passiert und einmal, 10 cm über Grund, hat es Bänge gemacht.
+Zwei Hälften.
+Das war da völlig uninteressant, da hatte auch keiner die Füße darunter.
+Aber, wenn das an der Zugspitzbahn passiert wäre, wären sie abgeschmiert.
+So, und jetzt können Sie
+hoffentlich einschätzen,
+bei einer Schweißnaht
+hätte ich Unterscheid gewünscht,
+hätte gesagt,
+die hält, weil sie vorhanden ist.
+Hier kann ich es nicht machen.
+Gottvertrauen ist okay,
+das müssen Sie aber mit sich selber ausmachen.
+Auch das reicht.
+Gut, gehen wir mal noch weiter.
+Nächste Woche
+spekuliere ich auch noch
+auf zahlreiches erscheinen, weil wir auch noch mal über die Prüfung gehen.
+Als kleiner Anspruch. Also, bis nächste Woche.
+Ist nächste Woche jemand da?
+Bei mir fallen alle anderen Vorlesungen aus.
+Echt?
+Ja, also der eine hat jetzt halt auf diesen Mittwoch eine Ersatzvorlesung gelegt quasi.
+Bisher ging sowieso auch davon aus.
+Also PQM weiß ich gar nicht, ob es ausfällt, aber ich ging davon aus, dass nächstes Mal nichts mehr ist.
+Also ich werde nicht da sein.
+Gut, dann ist so.
+Ist im Januar nochmal eine Vorlesung, ja?
+Das ist dann, glaube ich, noch zwei Wochen vor der Prüfung.
+Genau.
+Also da würden wir wahrscheinlich jetzt noch keinen krassen Eintrag letzten Abend machen, oder?
+Da können Sie noch Fragen stellen, natürlich können Sie noch Fragen stellen.
+Und ich weiß ja ungefähr, ich darf es ja schon mal in der Prüfung so bereiten.
+Was ist das?
+Vielen Dank.
