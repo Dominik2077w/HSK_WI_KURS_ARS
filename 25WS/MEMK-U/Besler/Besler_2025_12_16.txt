@@ -1,0 +1,284 @@
+In der Annahme von diesem Fahrzeug angenommen haben, das heißt wir haben ein Leergewicht vom Fahrzeug, das sind so ein Kilogramm in etwa, dann haben wir eine Lastverteilung, da gibt es einen hohen Faktor von 50 Prozent, von diesem Gewicht ist aus der Vorderachse, dann haben wir schon alles hier, Last auf der Vorderachse, dann haben wir ein zweireihiges Lager, Kubidurchmesser, Außenwinddurchmesser, Gewinnstärke und dann eben diesen Durchmesserkontakt.
+Und dann wäre es eben so, dass man beispielsweise in der vernünftigen Annahme sagen kann,
+ja die Kugel-Elemente, die hier in Mitte nah sind, also links, rechts, drei, vier, je nachdem wie viele Kugeln drin sind,
+werden natürlich durch diese Kraft belastet.
+Das heißt, hier hätte man dann sozusagen eine Kugel Lasch von 755 Nuten aus dieser Annahme.
+Und dementsprechend könnte man eben hier dann mit diesem Ansatz der Erzinfektion rechnen,
+sodass wir diese zwei Wege gehen können.
+Das ist einmal die Annahme der Rechnung, die Annahmen,
+Das könnte man dann überprüfen, da gibt es ein Programm, dieses Tribology.com heißt es, da könnte man eben diese Herzschlagpressung an den Kugelkontaktpunkten nochmal nachrechnen.
+Das ist jetzt ein vernünftiges Mittel, um eben an Werten zu finden, um das einzuordnen, passt das noch oder liegen wir da weit weg von einem normalen Fahrzustand.
+Wir können das natürlich nur dann machen, wenn Sie jetzt hier die Konstruktion fertig haben.
+Deswegen auch hier, bei Ihnen, das Design ist hier abgeschlossen.
+Das heißt, jetzt müssen Sie sich eigentlich überlegen, wie groß wird das Ganze.
+Deshalb auch hier hätten wir ja jetzt erstmal diese Kugelbahnen und die Kugelbahnen muss man dann nochmal festlegen,
+dass solche Kugelbahnen hier, die mittleren Kugel drin und dann kommen im Prinzip dann die Größen auch nochmal hinzu.
+Das wir jetzt endlich hier abschließend nochmal einen Berechnungsgang durchführen und dann eben mit der
+Mit der Aufgabenstellung, die haben wir hier gebaut, nochmal, dass wir hier dann, der Jenny zum Ende kommt,
+nämlich die Menschenaufgaben von 9 und 10, ja, sodass wir hier dann durchstehen.
+Dann heißt es, wenn wir nicht mehr maßgerecht genau begreifen, Baugruppen zeichnen,
+das heißt, da braucht man jetzt wirklich alle Maße im Maßstab dementsprechend.
+Konjunktive Gestaltung, Lage, Einheit, Antriebswelle, die Schnittstellenbedingungen,
+Also alles, was wir hier an Übergängen haben zu anderen Bauteilen und natürlich diese Verbindungen explizit natürlich der Einzelteile zueinander, die muss man halt darstellen.
+Schlicht hat sich die Teilschnitte wählen, irgendwo das Ganze in eine vernünftige Form bringen, sodass man das dann so weit abgeben kann.
+Die Abgabe ist nach den Ferien, eigentlich der 13. Termin, 13, der 1. 26, an dem Termin nochmal, müsste eigentlich ein Dienstag sein, aber Sie können diese ganze Woche noch nutzen, gehört also, dass in dieser Woche, in der 3., also in der Woche im Januar, dann das Ganze fertig ist.
+Dann geben Sie alles zusammen, also die ersten zwei und den dritten Teil, alles beieinander und dann ist fertig.
+Genau. Gibt es da auch zu diesem letzten Teil noch Fragen dazu?
+Also alles in einem...
+Alles zusammen, Taka, wie wir sprechen.
+Ja, und dann, naja, wo abwechst, was ist da?
+Wollen wir mal anders machen?
+Genau.
+Vielen Dank.
+Hier kann man sich an dem orientieren, was man gemacht hat, sodass am Ende ein Wert rauskommt.
+Diesen Wert sollte man natürlich mit dem Ritualeinstellungen übereinstellen.
+Im zweiten Berechnungsansatz nach dieser I nach VG sind jetzt hier ähnliches Gelenkkonfigurationen.
+Also wir haben hier auch natürlich diese Hauptkrümmungsthebe drin.
+Dann werden die Krümmungskreise aufgerechnet.
+Da gibt es Tabellenwerte. Aus den Tabellenwerten kommt dann die Übergröße raus.
+Und die kann man hier überprüfen.
+Das heißt, das Ergebnis von 3251 Megapaskal, den es da unten ist, ist hier nachgerechnet und überfüllt einmal.
+Das heißt, auch hier habe ich Ihnen ja dieses Taschenbuch noch zur Verfügung gestellt.
+Das steht auch hier im Modellink mit drin.
+technisches taschenbuch
+Genau.
+Ab Seite 263, das ist eine aktuelle Versuchung, also schreiben wir uns da gleich ein, ab Seite 263.
+Genau, und die Daten, das bezieht sich, wenn man jetzt ganz vorn hineinschaut, auf das Fahrzeug hier.
+Also das wäre sozusagen das Fahrzeug, das wären letztendlich dann die Lasten am Fahrzeug,
+Und dann haben wir sozusagen hier diese Berechnungsgrundlage.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Das war's.
+Das war's für heute.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Amen.
+Vielen Dank.
+So, machen wir mal ein Update noch, wenn das unbedingt sein muss.
+Dann werden Sie sich fertig machen, genau, anmelden.
+Haben Sie Ihr eigenes Gerät? Oder was haben Sie?
+Wollen Sie mit dem Laptop arbeiten?
+Wir warten noch auf den Kollegen.
+Dann können Sie loslegen. Wunderbar.
+Sie haben dann auch noch etwas gehabt, oder?
+Ja, wir haben eine neue Zeichnung.
+Ja, okay.
+Da haben wir jetzt eine Zeichnung.
+Gut.
+was wir letzte Woche gesprochen haben, mit diesem Weg durch diesen Lösungspfad,
+haben Sie das auf dem morphologischen Kasten.
+Also jetzt haben wir das, ja genau, das war das hier.
+Das heißt, in Verbindung dauert es hier lange.
+Und dann haben wir ja jetzt diese drei Unterteilungen, Lage und Schmierung.
+Okay, ja, genau.
+Genau, die legen wir natürlich alle Skizzen, wir sind jetzt noch im Skizzen-Teil, genau, das haben wir ja gestern schon für euch angeschaut, da legen sie das halt so zu.
+Und am Ende kommt dann irgendwas raus, wo man sagt, jetzt machen wir das.
+Das ist jetzt schon noch ausgewählt, okay?
+Das heißt, wir schauen, dass wir da weiterarbeiten, dass wir es weiterbringen, dass wir das am Ende natürlich dann noch so zeichnen, wie es wird.
+Soll ich dann in den Kasten nur die Linien machen, was wir auch gegen N nehmen?
+Das ist die N-Lösung.
+Das ist das N-Produkt.
+Nur das, was am Ende rauskommt.
+Das ist Dramatik.
+Wenn wir jetzt natürlich mehrere Varianten hätten,
+das wollen wir auch gar nicht,
+das würde ja auch den Rahmen sperren.
+Das heißt, wir haben hier irgendwo eine finale Lösung,
+wo man sagt, jetzt kommt das Produkt zustande
+des Produktzustandes und dann zeichnen wir das und das ist dann fertig.
+Können Sie das jetzt auch als genaue Lösung nehmen?
+Ja, das ist beispielsweise, wenn Sie sich jetzt, Sie haben jetzt ja da drei verschiedene
+Skizzen, dann sagen Sie, das ist es jetzt.
+Das ist die Skizze von der Lösungsvariante, die Sie jetzt markiert haben, mit morphologischen
+Taschen.
+So könnte man das sehen.
+So, dann haben Sie schon was drauf, genau, das hier und dann, genau, jetzt brauchen wir natürlich auch noch ein paar Skizzen, das heißt, das wäre was, das sind jetzt Skizzen, die kommen, wo kommen die Skizzen her?
+haben sie das zeichnet genau das ist das mit dem rechner zeichnet genau wir haben es das
+zusammen tablet gezeichnet oder tablet wir haben sich jetzt das text ist gezeichnet
+Das haben Sie gezeichnet. Ich brauche überall den Namen drauf, also irgendwas ohne Namen kann ja nichts anfallen.
+Das heißt, da ist ein Name drauf, schauen Sie. Also das ist okay.
+Dann haben wir hier noch etwas. Da habe ich gesagt, da ist ein Name drauf, das ist jetzt hier etwas.
+Okay.
+Da haben wir was Radiante B.
+Das wäre okay.
+Das ist ja nicht oder, wie war?
+Alles klar.
+Das ist ja nicht oder, wie war?
+Das ist ja nicht oder, wie war?
+Ich habe immer gesagt, dass ich es nicht habe, aber jetzt habe ich es.
+Ich habe keine Ahnung, was ich hier machen soll.
+Ich habe keine Ahnung.
+Ich habe keine Ahnung, was ich hier machen soll.
+Ich habe keine Ahnung, was ich hier machen soll.
+Hast du einen Anruf?
+Nein.
+Das ist komisch, andere Benutzer, was haben wir jetzt hier?
+dann melde ich mich an oder genau das geht ja und sie haben ein usb stick ja
+das ist ganz normal dann hier also eigentlich sind die rechte alle gleich
+Es ist komisch, dass Sie sich damit anmelden können.
+Aber an den Rechnern können Sie sich schon anmelden.
+Ja, genau.
+Muss am Update liegen.
+Update, dann auch funktioniert nichts mehr.
+Nützlicherweise, gell.
+So, genau.
+So, dann schreiben wir noch ein paar Sachen zusammen.
+Komm schon.
+Lass es los.
+Lass es los.
+Oh, das ist ein PDF.
+Das sollte gut sein.
+Das ist auch ein ESS.
+Das ist ein Powerpoint.
+Lass es los.
+Lass es los.
+Lass es los.
+Was soll ich tun?
+Was soll ich tun?
+Was soll ich tun?
+Cool.
+So? Okay.
+Wer ist das?
+Ich lese jetzt die Entwicklung.
+Dann bin ich nur für meinen Teil verantwortlich?
+Ja.
+Also, präsentieren wir heute über die Radnabe-Einheit eines PKW.
+Unser Fokus liegt auf einer nachvollziehbaren Funktionslogik und einer klaren, konstruktiven Lösung.
+Und genau, es kommt auf drei Punkte, nämlich die Funktionsstruktur und morphologische Kasten und die Entwurfsvariante.
+Und da ist unsere Funktionsstruktur.
+Erstens, um die Funktionskette und Schnittstelle zu erklären.
+Und da können Sie schauen die Funktionsstruktur.
+die Ausleitung
+das Ausleitung
+Sie haben geschrieben Einleitungs
+Antriebseinheit
+Einleitungsmodul
+das ist ok, aber jetzt
+fehlt es auf der anderen Seite
+da sehen Sie hier zum Beispiel
+hier wäre jetzt Einleitungsmodul
+und da haben wir ja gesagt
+die Systemgrenze, die könnte jetzt hier
+durchbrochen werden, dass es hier weiter
+nach draußen geht, das heißt zuführen
+durchdringen diese
+Systemgrenze. Und hier auf der anderen Seite
+natürlich auch mehr. Systemgrenze
+gibt jede Seite. Das durchdringt
+auch hier die gesamte
+Radnahmenlagereinheit. Das heißt,
+wir haben so einen Eingangsbereich
+und einen Ausgangsbereich.
+Das würde ich hier auf jeden Fall
+nach unten ziehen, sodass
+sozusagen klar ist,
+wo geht es hin, von links nach rechts
+beispielsweise.
+Müssen wir
+später einfügen.
+Und dann ist die morphologische Kaste, wir nehmen die Blaulösungspfad, in Blau markiert.
+Es kommt darauf an, die Drehmomentübertragung und die axiale Fixierung darzustellen.
+Zuerst die Abstimmung, die Entlösung und dann teilen wir die Aufgabe.
+Was bei mir ist die Passfederverbindung.
+Kommen Sie mal, da steht hier Variante B.
+Ja.
+Geht seine Variante A auch?
+Die grüne ist Variante A.
+Aha, okay.
+Mal schauen, das sehen wir jetzt hier nicht.
+Ja, zu klein die Wort.
+Grün ist gleich Variante A.
+Okay, und das andere wäre blau.
+Ich sehe die blaue Farbe nicht.
+Blau ist gleich Variante B.
+Gut, okay, dann die zweite.
+Was bei mir ist die Tastfederverbindung und gewinnende Mutter.
+Dieser Grafik ist bewusst schematisch.
+Und es zeigt nur zwei Elemente, die Passfederverbindung zur Drehmomentübertragung und die axiale Fixierung über Gewindemutter mit Anlaufscheibe.
+Das Drehmoment T kommt von der Antriebswelle und wird über die Passfeder in der Radnabe eingleitet.
+Die Passfeder sitzt in der Passfedernut der Welle und in der Passfedernut der Narbe, damit die Übertragung formschlüssig und die axiale Fixierung erfolgt über die geschwingte Abschnitt, die Anlaufscheibe und die Sechskantmutter.
+Bei Anziehen der Mutter entsteht die axiale Kernkraft.
+Diese Kernkraft sichert die Bauteile und reduziert das axiale Spiel.
+Und da mein Kollege.
+Ein schönes Lager.
+Ein Weltslager oder so.
+Das ist nur das Innere, obwohl hier die Weltslagereinheit ist.
+Also hier ist noch kein Lager drin, oder?
+Lager?
+Die Lager gehören zu den anderen Bauteilen, die in diesem Bild ausgeblendet sind.
+Ah, okay.
+Das ist praktisch der innere Teil, sozusagen, oder?
+Ja, ja.
+Okay.
+Variante A, Darstellung.
+Ich schreibe Ihnen mal, das sind, was ich dann meine, schematische Ansicht des inneren Aufbaus.
+Das wäre sozusagen jetzt hier dieses Bild.
+Die schematische Ansicht des inneren Aufbaus der Radlager, Radlager-Narben-Einheit.
+Dann wissen wir es, dann ist es klar, hier ist die Radnarbe, die geht jetzt hier weiter und dann ist hier irgendwo noch eine Lagerung oder so.
+Ist ja äußerlich, ist jetzt hier ja irgendwo noch die Lagerung, wenn da auch
+Ok, hm, gut
+Und dann haben wir hier noch irgendwas
+Verbindung zwischen
+Bei meinem Kollegen
+Ah ja, das ist jetzt bei Ihnen, gell, ok, bei der Hand hier
+Gut
+So, ich muss heimdrehen
+Ok
+Ah ja, das ist auch ein Götter, gut
+Und hier ist die zweite Teil-Diagramm.
+Diese Teil-Diagramm zeigt die zentralen Bauteile zur Lacken und Schmieren.
+Ja, wir nutzen die zwei reichlichen Kegelrollenlager.
+In dieser Konstruktion wird...
+Diese Lager kann sowohl radial als auch axial Kräfte in beide Richtungen aufnehmen
+und eignet sich daher besonders für die komplexen Belastungen eine Haltnabe beim Fahren, Bremsen und Kurvenfahrten.
+Ist das auch Variante B?
+Ja, Variante B, ja.
+Das heißt, jetzt müssen wir hier noch eine Bezeichnung finden, und zwar hier die Nummer,
+Das heißt hier, und dann ist das jetzt der Aufbau von dem hier.
+Das ist jetzt der Äußere, oder?
+Also hier, Ansicht, schreiben wir hier, Äußere Darstellung.
+Darstellung der äußeren Auge-Elemente von, kann man schreiben, Variante B.
+Gut, da haben wir noch was, gell das hier, das sind dann Sie, oder?
+Sie haben das geschrieben, die Verbindung zwischen Radnage und Flanschseite, Variante, schreiben hier wieder W, logischerweise, genau, und dann haben wir hier wieder nochmal Verbindung zwischen Radnage und Flanschseite, ja, okay, gut.
+Ok, hallo zusammen. Heute stellen wir eine Änderung vor, die Verbindung zwischen der Handnabe und der Flachseite.
+Das hier ist der Drehmoment, sich abgeben und die Konstruktion klar darstellen.
+Dafür nutzen wir Handnaben mit verschraubtem Flachring.
+Also in der Zeichnung sind vier Punkte wichtig.
+Zwischen Nabe und Flaschring gibt es eine Trennfolge, das zeigt zwei Bauteile.
+Zweitens gibt es Schrauben, die den Flaschring an der Nabe befestigen.
+Drittens, es gibt einen Zentrierbund. Es sorgt für Zentrierung.
+Viertens, ich markiere die Anlagefläche. Dort sind Flächen oder Bremsscheiben.
+Der Drehmomentparfrat ist einfach. Handnabel, Schraubenverbindung, Flachring, Anlagefläche und Fläche aus dem Bauteil.
+So wird der Drehmoment an der Fläche abgegeben.
+Der Zentrierpunkt ist wichtig, weil Schraubenlöcher meistens Spiel haben. Nur über die Schrauben ist die Zentrierung nicht sicher.
+Der Zentrierpunkt liefert die geometrische Zentrierung, die Schrauben liefern für Alarmklemmung und Verbindung.
+Diese Lösung hat drei Vorteile.
+Erstens, der Flanschring ist separat, man kann ihn austauschen, Wartung ist einfach.
+2. Nabe und Flanschring kann man getrennt fertigen. Das ist flexibel.
+3. Die Funktion sind klar. Nabe für Nage- oder Tragefunktion, Flanschring für Anschluss- und Drehmomentaufgaben.
+Warum keine einteilige Flasche? Eine einteilige Flasche kann steif sein,
+die Flaschenring ist aber modulär und wartungsfreundlich und es passt zu unserem
+Lösungsprinzip. Und welche Funktion hat diese Anlagefläche? Dort liegt die Fläche oder die Bremsscheibe an. Über diese Fläche wird der Drehmoment abgegeben.
+Dankeschön. Wunderbar. Vielen Dank für die Darstellung dieser Variante. Das ist Ihre Skizze dazu. Alles gut.
+Das heißt, ich habe Ihnen ein paar Sachen dazu geschrieben. Natürlich immer die Nummer, vielleicht abgeleitet aus dem Inhaltsverzeichnis,
+dann diese Darstellung der einzelnen Funktionen, weil Sie können natürlich jetzt, das ist
+ein bisschen klein, das ist schon ein bisschen größer darstellen, also formatfüllend, jetzt
+auch hier, also Präsentation, Präsentation ist ja eigentlich immer so, dass man es möglichst
+groß sehen kann, dann kann man es auch möglich lesen. Ansonsten haben wir alles beieinander,
+gut, dann haben wir das, dann können wir das weitermachen mit der Ausarbeitung, deswegen
+Und wie es weitergeht, ist klar. Das heißt, jetzt zeichnen Sie alles zusammen und dann haben wir im Prinzip eine Lösung.
+Dann bestätigen wir. Jawohl.
+So können Sie sich vorher wieder abmelden. Das Handy ist noch übrig.
+Ah ja, da ist ja schon alles zusammen.
+Ja genau, da haben wir schon so weit das Ganze. Da haben wir schon so eine Skizze.
+Jawohl. Gut. Okay. Dann können Sie sich wieder abmelden.
+Abmelden?
+Ja, genau. Können Sie sich direkt abmelden. Das Handy wieder mit.
+Gut. Alles klar. Bei Ihnen sonst alles soweit?
+Wir machen noch Feierabend, wirklich schöne Weihnachtsfeiertage, schöne Ferien, und dann sehen wir uns erst in den nächsten Jahren.
+Immer entsprechend gute Zeit miteinander.

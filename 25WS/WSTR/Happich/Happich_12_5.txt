@@ -1,0 +1,1377 @@
+Man macht ja immer das, was man am besten kann.
+Heißt das, hier wird eine absolute Menge zugeführt oder abgeführt?
+Sie erinnern sich an diese relativ einfache Aufgabe mit den Füllen?
+Da war es auch. Da wird eine Leistung reingesteckt, die dann in Form von Wärme existiert.
+Das sind die Dinge, die Sie brauchen, um die Aufgabenstellung so weit zu reduzieren,
+dass Sie die relevanten Informationen haben.
+So, jetzt kommt noch, der Kolben bewegt sich reibungsfrei, das heißt, wir haben keine Verluste, es wird Wärme zugeführt, der Kolben bewegt sich, wir haben eine bestimmte Kraft, die außen die ganze Zeit wirkt, ich habe eine Anfangstemperatur aus dem Bauch raus von Ihnen.
+Was für ein Prozessor?
+Was ist die relevante Information, die uns jetzt sagt, was für ein Prozessor ist?
+ISO-Core, ISO-Central, ISO-Bahn.
+Das war das Letzte, das vergesse ich immer.
+ISO-Central, danke.
+Ich glaube, wir müssen bei der Hochschule einfach mal hirnverstellbare Tische für Sie bestimmen.
+Dann kann der Tisch einfach hoch, dann verschwinden Sie einfach selber.
+Das war gerade so der Versuch, oder?
+Ist alles gut. Wir sind hier noch im Safe Space.
+Das ist keine Klausur, das ist einfach ein, hey, was für einen Prozess habe ich hier?
+Was verändert sich oder verändert sich eben nicht?
+Und wir haben nur die vier Größen.
+Enthalpie, Entropie, Volumen, Druck.
+Was verändert sich nicht?
+Richtig.
+Kraft. Steht nichts drin, dass die Kraft sich ändert.
+Den Zylinder, der eine variante Folgenfläche hat, den kenne ich jetzt nicht.
+Also den gibt es, aber der hat dann über mehrere Stufen, aber das ist ein anderer Punkt.
+Das heißt, wenn Kraft und Fläche immer gleich bleiben, dann bleibt natürlich auch der Druck immer gleich.
+Genau richtig.
+Das ist ein isobarer Prozess.
+Das heißt gleich für die erste Aufgabe, zeichnen die Zustandsänderungen im PV-Diagramm.
+Auch hier übersetze ich jetzt, was gibt Punkte, wenn da einfach nur Striche sind und hier ist ein P und hier ist ein V, kann ich schon mal sagen, okay, die Person weiß, was ein PV-Diagramm ist.
+Geht also schon mal relativ einfach.
+Jetzt haben Sie zwei Möglichkeiten. Entweder Sie denken einmal nach oder Sie gucken in Ihre selbstgemachten Unterlagen, wie sieht die isolare Prozessführung aus.
+Ich habe unseren Druck P1. Wir wissen, P1 und P2 ist gleich.
+Was tut sich mit den Volumen in aller bekannter Zusammenhangmäßigkeit, wenn ich Wärme zufüge?
+Ich habe ein Volumen 1, ich habe ein Volumen 2, ich habe, naja, schlecht gezeichnet habe
+ich auch. Ich habe eine Prozessführung von unserem Punkt 1 zu unserem Punkt 2. Das ist
+das, was hier gefordert ist. Das ist eine Zustandsänderung im PV-Diagramm-Eintrag.
+Was brauche ich da? Ich brauche das richtige Diagramm. Punkt. Ich brauche den richtigen
+Prozess, Punkt, und ich brauche die richtige Richtung, Punkt. Das sind meiner Meinung nach
+geschenkte Punkte, weil es alles logisch ist, weil wir das alles schon gemacht haben, weil
+wir das jetzt wochenlang hoch und runter gekaut haben. Was für eine Prozessführung habe
+ich, gucke ich in meine Diagramme rein, irgendeinen Indikator haben Sie immer, irgendeine Logik
+steckt immer drin, dass Sie wissen, welche Richtung hier eingeschraubt wird. Da steht
+entweder Verdichtung, heißt Volumen wird kleiner, da steht Expansion, Volumen wird größer, da steht
+irgendwas wird zugefügt, dann wird normalerweise Druck oder Volumen größer, je nach Prozess.
+Ja, das steht da alles schön drin. Gut, jetzt die Frage an Sie auch, einfach in die Runde,
+Zweite Vorlesung. Welche Gasmasse habe ich hier?
+Die Werte sind auf den Faktor gegeben.
+Das ist richtig, aber welche?
+Wir können die absolute Masse rechnen.
+Wir haben die Teilchenanzahl, 0,5 Mol, und wir haben die Molmasse.
+Ich streue es immer wieder gerne mal ein, solche Fragen, die einfach...
+Naja, vom Verständnis her, natürlich müssen Sie ein bisschen Verständnis mitbringen.
+Aber das ist für mich Kategorie Geschenkepunkte.
+Da ist noch nicht viel Nachdenken.
+Das kommt dann noch.
+Zum Beispiel jetzt.
+Denn jetzt sollen wir die Zustandsgrößen im zweiten Punkt...
+Irgendeine Frage?
+Das ist korrekt.
+Danke.
+Das wäre ein bisschen sehr wenig bei der Mo-Masse.
+Also einfach Überschlagung. 28 Kilo pro Kilo Moe. 0,028 Kilo pro Kilo Moe. Also natürlich Kilo Gramm.
+Gut, jetzt bin ich bei C. Womit fangen wir an? Schreiben wir uns erstmal auf, was wir wissen.
+Das ist schon mal gleich falsch, ne? Zugefügte Wärme und zugefügte Arbeit.
+Welche Informationen kennen wir in einem geschlossenen System, innere Energie? Wir wissen,
+dass hier irgendwas sich tut.
+Vielleicht das nochmal vorneweg.
+Das wird sich vermutlich ändern.
+Das Volumen haben wir schon gesehen, ändert sich.
+Gibt es noch eine Zustandsgröße,
+die sich wahrscheinlich verändern wird?
+Wenn ich da Wärme hinzufüge.
+Zumindest die ändern kann.
+Temperatur.
+Das ist kein Muss.
+Aber es kann sein,
+dass sich das Ganze auch verändert.
+Beim strengen, isobarten Prozess,
+bei so einer Aufgabenstellung,
+können sie fast voll ausgehen.
+Aber natürlich ist das nicht Gott gegeben.
+Aber es kann sein, dass sich die Temperatur ändert.
+Volumen ändert sich gesichert, das haben wir festgestellt.
+Temperatur, mal schauen.
+So.
+Wenn wir uns innere Energie angucken,
+das haben wir jetzt auch schon ein paar Mal angeguckt,
+innere Energie,
+wir haben ein bestimmtes Gas,
+wie bestimme ich die innere Energie?
+Oder die Änderung der inneren Energie
+aus der Wärmekapazität?
+und der Delta T.
+Klein U, CV, DT.
+Zweite Seite von der Sammlung.
+Okay, kenne ich nicht.
+Aber ich habe schon mal eine Möglichkeit,
+irgendwie vielleicht weiterzukommen.
+Haben wir irgendeine Arbeit, die übergeben wird?
+Ja, es ändert sich das Volumen.
+Ich habe ja eine Volumenänderungsarbeit.
+Das ist jetzt wichtig, dass es nicht nur die von außen zugefügte,
+sondern Änderung der inneren Energie ergibt sich aus Änderung der Wärme und Änderung der Arbeit.
+Es kann sein, dass im System ja, ich meine, es passiert ja was, der Kolben wird ja ausgedrückt.
+Es wird Arbeit verrichtet.
+Da ist ein dx dabei, also haben wir irgendeine Form der Arbeit.
+pdv, geschlossenes System, wir brauchen keine Druckänderungsarbeit, wir brauchen genug Änderungsarbeit.
+Das ist hier in dem Zusammenhang auch dadurch, dass es die Probabilität relativ einfach,
+Minus Pi
+Delta V
+Ah
+Ich komme hier mal noch nicht weiter
+Weil ich ja Delta V nicht habe
+Aber
+Jetzt kommt wieder unser guter Freund
+Heißt ideale Maßgleichung
+Habe ich das hier mit drin?
+Nein, jetzt habe ich das hier alles schon drin
+Gut
+Ideal
+Tut mir leid, manchmal bin ich so ein bisschen schneller am Schreiben
+Als ich im Denken bin, dass ich es schon mal aufgeschrieben habe
+Es tut mir leid
+Soll ich es wegrantieren, damit Sie es noch mal besser lesen können?
+Ja, nein, alles klar.
+Also, erste Gleichung, komme ich nicht weiter.
+Zweite Gleichung, komme ich nicht weiter.
+Komme ich mit meiner idealen Gasgleichung weiter?
+Hier steht ja, perfektes Gas, ideal Gas, hängt relativ nah beieinander.
+Das heißt, jetzt kann ich hier einen Zusammenhang aufstellen zwischen meinem P und meinem T.
+Das Schöne ist aber,
+Daher, wenn ich mir das da, PDV, hier, also ich setze das da hier ein.
+Das muss ich jetzt, glaube ich, einmal händisch machen, das habe ich da nicht drin.
+Ne, ich habe nur die Überleitung. Das machen wir so.
+Wie kommen wir da hin?
+Minus P, Delta V ist gleich Minus P, M, R, Delta T zu P.
+Wir setzen diesen Zusammenhang dort wieder ein.
+Dann fallen die beiden raus und wir kommen auf eine Gleichung U, Q und W.
+Warum macht es an der Stelle Sinn, dass man das...
+Das würde mir wahrscheinlich auch so gehen.
+Es fühlt sich an, als würde man hier zweimal das Gleiche anwenden.
+Das tut man an der Stelle auch.
+Das ist aber soweit okay, weil wir eine Möglichkeit haben,
+diese Änderung
+von
+unserer Arbeit
+auch in der Temperatur
+zu beschreiben. Wir haben ja ein geschlossenes System.
+Das heißt, die Änderung
+der Temperatur in der
+inneren Energie und die Änderung
+der Temperatur
+in der Arbeit, die hängen natürlich miteinander
+zusammen. Das ist so, also wenn man insgesamt
+irgendwie ein Gewicht runterzieht.
+Das können wir jetzt
+auf jeden Fall relativ schön einfach noch
+T-Rund formen.
+Und dann haben wir lauter Größen, die wir haben.
+Q haben wir.
+CV haben wir.
+Masse haben wir.
+Es ist natürlich noch die Frage, ob wir R aus Kunst einfach ersetzen können.
+Aber dadurch, dass wir hier ein perfektes Gas haben, können wir natürlich auch die Konstante nehmen.
+hier nochmal aufgeführt, da waren wir jetzt gerade schon stehen geblieben,
+jetzt löse ich das Ganze auch mal hinten komplett auf, wir erreichen hierdurch,
+erreichen wir ein T2 von 804,2 Kelvin. Das ist wichtig, an der Stelle, Sie dürfen ja
+natürlich nicht die 65 Grad einsetzen. Bei Delta T, ja, dürften Sie machen, wenn Sie,
+Entschuldigung, natürlich dürfen Sie hier wieder Delta T auch als Gradzahl ansetzen, weil Kelvin und Grad ist in der Größenordnung gleich.
+Nur wenn Sie absolute Werte rechnen, wenn Sie das ideale Gasgesetz absolut einsetzen, dann müssten Sie darauf zurückgehen.
+Ihre Entscheidung, der Safe-Weg ist immer, alles auf Kelvin zu bringen.
+Wenn Sie das nicht machen, ist es auch nicht tragisch, Sie müssen nur schauen, wann Sie
+es brauchen und wann nicht. 802 Kelvin und wenn wir das haben, V2 ergibt sich dann ja
+auch wieder, wir brauchen sowieso 1 Kelvin, ergibt sich dann wieder aus N mal Rn mal T2,
+P2, die sind jetzt alle bekannt. Und wir haben 16,7 Kubikdienste.
+Und wie gesagt, ich führe so langsam auch hin, wie eventuell Aufgaben in einer Prüfung
+aussehen.
+Hat wahrscheinlich jeder so seine eigenen Macken.
+Ich habe die eine, dass ich einen Aufgabenteil, den sehe ich immer als okay, da muss man wirklich
+Einmal mehr um die Ecke denken.
+Ja, dass Sie da
+sich drauf vorbereiten.
+Einmal um die Ecke denken.
+Wird vorkommen.
+Es werden aber auch so Punkte verteilt,
+wo man relativ geradeaus auch an Punkte kommt.
+Und ansonsten,
+ich habe es von Anfang an gesagt,
+es ist leider nicht die leichteste Prüfung.
+Da bin ich mir komplett drüber im Klaren.
+Es ist halt immer die Thermodynamik und ich beneide keinen von Ihnen,
+dass Sie drei von dieser Fächergröße
+innerhalb von anderthalb Stunden
+steigen müssen.
+Aber wir schauen, dass es nicht zu heftig ist.
+Gut.
+Ein bisschen reingeguckt auch in, wie rechnen wir dann mit Realraumfragen, beziehungsweise mit Idealfragen.
+Jetzt geht es nochmal, das war jetzt ja ideales Gas, jetzt geht es wirklich nochmal auch in den Rückblick.
+Das haben wir letztes Mal schon gemacht.
+Wir sind hier reingestolpert in das Thema Isovapore.
+Wir werden das uns heute nochmal anrufen.
+Relevant.
+Wir haben uns angeschaut, was passiert eigentlich bei einer Verdampfung.
+Vor allem, Druck und Temperatur bleibt einfach immer in einem relativ großen Zeitraum,
+oder Volumenraum, oder Druckraum, je nachdem, was ich habe, bleibt da gleich.
+Das ist dieser Nassdampfbereich.
+Wir sprechen auch immer vom Nassdampfgebiet.
+Können wir nicht verwechseln, wir haben Dampf und wir haben sowas wie Rauch zum Beispiel.
+Das sind zwei unterschiedliche Dinge.
+Wenn wir von einem echten Dampf sprechen, ist das homogenes Gemisch.
+bis auf Wasser, was anderthalb homogen geht.
+Und dieses homogene Gemisch hat eine bestimmte Verdampfungsentwicklung,
+hat bestimmte Werte, was gasförmige Phasen und was flüssige Phasen angeht.
+Und wir befinden uns halt irgendwo dazwischen.
+Ein Punkt, den ich letztes Mal schon angesprochen hatte,
+dieses kritische Punkt-Ding.
+Was passiert denn eigentlich, wenn ich einen Druck habe,
+wenn ich eine Temperatur habe und einen Druck,
+die direkt darüber sind. Hier genauso. Wir haben hier einen bestimmten Druck, der sich auf einer
+bestimmten Esotherme befinden kann. Sieht dann zum Beispiel so aus. Was sehen wir dann eigentlich?
+Dafür habe ich Ihnen einmal ein kleines Video mitgebracht, weil ich das schon relativ spannend
+finde. Erstmal, ob wir reif sind. Ja, natürlich sind wir reif, das ist gut. Ich müsste mal zählen,
+Wie oft ich eigentlich vom Ralf erzähle. Das passiert im Semester ziemlich häufig.
+Das ist ein sehr, sehr interessanter Mann. Ich mache es trotzdem ein bisschen kürzer.
+Worum geht es? Er zeigt hier diese Kugel. Ich werde auch gleich nochmal den Messaufbau zeigen.
+Die Kugel ist einigermaßen isoliert und da wird mit einer Heißluftpistole drauf geschossen.
+In der Kugel ist ein bestimmtes Medium, was bei relativ niedriger Temperatur und überschaubarem Druck schon den kritischen Punkt erreicht.
+Und das, was wir gleich sehen werden, ist wie im Grunde, da muss ich nochmal zum Reifen, wenn Sie sich diese Kurve angucken, mit dem kritischen Punkt ganz oben, wo Druck und Temperatur genauso umgesteuert wird, dass es langsam, aber sicher aus diesem Bereich rausgeht.
+Das heißt, wir haben darunter einen klaren Bereich zwischen flüssigen Phasen und glasförmigen Phasen.
+Das ist genau das, was wir aus dem Kochtopf kennen.
+Da ist nicht auf einmal unterhängen, auf einmal nur noch Dampf, sondern da ist immer beides.
+Das sehen wir auch.
+Dann passiert etwas, das man, das will ich jetzt nicht zu weit vorgreifen,
+das auf jeden Fall über diesen kritischen Punkt hinweggegangen wird.
+Wir gucken uns an, was mit diesen beiden Phasen passiert.
+Gut, fangen wir hier an. Man sieht noch ganz klar zwei Phasen.
+Aber es kocht schon. Sie sehen diese Schlieren.
+Jetzt passiert der Übergang, Sie sehen da eine ganz kräftige Nebelschwarze oberhalb der Oberfläche schon.
+Das entsteht wohl noch durch das Ungleichgewicht, dass es auf der einen Seite wärmer ist als auf der anderen, also rechts verdampft mehr und links kondensiert schon wieder ein bisschen.
+Und hier kommt die Wärme.
+Jetzt erreichen wir die kritische Temperatur. Sie sehen, wie sich die Oberfläche plötzlich auflöst.
+Jetzt haben wir die kritische Temperatur überschritten und es gibt nicht mehr diese Trennung zwischen beiden Phasen.
+Es ist einfach ein Medium konstanter Dichte in den gesamten Volumen.
+Das heißt, an der Stelle haben wir auch nicht, das ist halt der interessante Punkt dabei,
+es gibt verschiedene Untersuchungen, ich bin jetzt aber auch zu wenig Physiker, um mich
+da wirklich hinter zu knöcheln, aber die Aussage, die er gerade getroffen hat, ein
+Medium einer spezifischen Dichte, das heißt, das da drüben gibt es trotzdem.
+Das heißt nicht, dass über diesen kritischen Raum, wir gucken uns den nicht an, wir bleiben
+im ganz normalen Nassdampfgebiet.
+Aber es gibt das darüber schon auch.
+Aber es ist nicht klar definiert, ob das jetzt eigentlich flüssig ist oder ob das gasförmig ist.
+In aller Regel wird es flüssig dargestellt.
+Das ist jetzt aber ein kleiner Aspekt der anderen Seite.
+Das Problem ist, wenn man natürlich aus diesem Medium konstanter Dichte,
+das hat dann auch, wir werden es gleich sehen, es gibt so einen Bereich, der dann nochmal eingezeichnet wird,
+in dem dieses Medium genannt wird.
+Denn mit weniger Druck bzw. weniger Temperatur ist das in aller Regel flüssig,
+springt dann also auch direkt in eine teilweise flüssige Phase oder in eine teilweise glasflüssige Phase.
+Das sehen wir jetzt auf den Rückblick auch wieder.
+Das finde ich auch total spannend.
+Jetzt haben wir auf einmal wieder eine komplette Phasentrennung.
+Sie sehen aber auch, dieses Wabern da oben, das heißt, das sind noch Westkondensationen und auch dieses Blubbern, was wir hier unten sehen, ist kein Puppen, sondern es sind Westblasenmittel, damit die sich halt überall bilden.
+Also überall völlig stochastisch in diesem Medium bildet sich auf einmal wieder eine Phase aus.
+Aber dann sind wir wie bei der Kassa, ist so, wer du und ich, wer wird jetzt hier flüssig und wer bleibt Gas für mich.
+Gut.
+Gut.
+das haben wir schon gesehen, haben wir uns beim letzten Mal kurz angeguckt
+das was jetzt eben zu sehen war, war natürlich, dass man genau eine von diesen Linien hier versucht hat entlang zu gehen
+weil sich im Grunde das Verhältnis, hat man ja gesehen, das Verhältnis aus Flüssigphase und Gasphase ist eine Masse gleich gelegt
+das sind diese Isolatoren
+Also, heißt auch, das Verhältnis aus gasförmiger und flüssiger Phase hier ist das gleiche wie hier unten.
+Obwohl eventuell mehr Volumen dafür gebraucht wird.
+Oder weniger Volumen.
+Denn es ist relativ eindeutig, dass ich hier bei einem geringeren Druck vermutlich deutlich mehr Volumen brauchen werde, als bei einem hohen Druck.
+Trotzdem?
+Dieses Vaporus-Verhältnis, das Verhältnis von Gasphase zu Flüssigphase ist immer das gleiche.
+Jetzt sehen wir uns, boah, das ist ja ein bisschen kompliziert.
+Ist es.
+Dafür gibt es Freunde, die, verdampfungsentwicklung hatten wir uns angeschaut,
+die genau diese Tabellenwerke schon definiert haben.
+In diesen Tabellenwerken steht nämlich genau das drin.
+Ich nehme mir eine spezifische Temperatur, 35 Grad Celsius,
+und ich habe Werte für welcher Druck liegt hier jetzt vor, welches spezifische Volumen der flüssigen Phase,
+spezifische Volumen der gasförmigen Phase, Entschuldigung, spezifische Enthalpie der flüssigen Phase,
+spezifische Enthalpie der gasförmigen Phase und das gleiche auch für die Enthalpie.
+Das sind Standardwerke, die brauchen Sie nicht irgendwie merken oder sonst sowas,
+sondern Sie müssen wissen, wo es steht.
+Wenn man die hat, kann man auf einmal relativ gut auch Zustände in diesem Phasenraum beschreiben.
+Das machen wir auch gleich noch.
+Aber, bevor wir hier weitergehen, einmal noch ganz kurz dieser Hinweis, Rückblick.
+Wir haben uns im idealen Gas, Helium, haben wir uns diese Skizze schon mal gemacht,
+weil wir schauten, wie sieht denn das eigentlich aus?
+Wo kommen denn diese komischen Linien her, die der Abrichter gezeigt hat?
+Aus diesem Zustandsraum sieht in PV der Verlauf so aus, in PT sieht es so aus, in TV sieht es so aus, da kommt noch die Entropie dazu.
+Das sind unterschiedliche Diagramme, zweidimensional aus einem endimensionalen Raum.
+Das heißt, immer wenn wir uns sowas angucken, mit dem Hinterkopf behalten,
+es kann sein, dass der eigentliche Prozess nicht einfach nur in 2D passiert.
+Aber wir stellen ihn in 2D dar. Dritte Dimension, vierte Dimension, kann alles sein. Wir stellen trotzdem nur in 2D dar.
+Das geht, genau wie ich eben gezeigt habe, natürlich auch für eine Zustandsänderung in einem Nassdampfgebiet oder durch ein Nassdampfgebiet.
+Das ist genau das gleiche. Das ist ja das gleiche Diagramm, nur haben wir auf einmal einen anderen Verlauf.
+Gucken Sie sich den Fall auch mal an.
+Und dann reiten Sie den Hintern für gleich.
+Dieses Nassdampfgebiet befindet sich also ähnlich, wie hier dargestellt, irgendwo in meinem Zustandsraum.
+Ich habe den kritischen Punkt, ich habe diese überkritische Phase, dieses Medium unbekannter Dichte etc. pp.
+Und irgendwie durch diesen Raum kann mein Prozess geführt werden.
+Das Einzige, was ich Ihnen hier mitgebe, ist, wenn Sie das da sehen, so ein Diagramm oder so ein Diagramm, genau um die kümmern wir uns in aller Linie.
+Heißt das nicht, das sind die einzigen, die existieren?
+So, es ist ein Abbild, es ist eine Projektion.
+Irgendwann Mathe zweites Semester oder so. Projektion auf irgendwelche Ebenen.
+Das ist glaube ich Mathe. Ist das Mathe 2? Ich würde jetzt mal so vermuten.
+Das sind Projektionen. Projektionen heißt, ich mache aus einem dreidimensionalen Ding einen Punkt auf einer Fläche.
+Und das mache ich hier genauso. Ich mache einen Punkt auf einer Fläche, wo sich das Licht unbedingt, es ist nur eine Zweidimension angeschrieben.
+So, hier gilt genauso. Was sind die beiden relevanten Grafiken, Diagramme, wie auch immer man es nennen will, die wir uns angucken?
+Natürlich ist es hier auch PV und TS, weil wir in diesem Diagramm schon festgestellt haben, was wir damit machen können.
+PV-Diagramm, wir wissen, Minus Integral PV entspricht der Arbeit.
+Das heißt aber auch, dass was wir bis jetzt schon gemacht haben,
+wenn wir uns sowas hier hinten im Dampfbereich angeguckt haben,
+Das ist ja nichts anderes als ein ideales Gas vom Verhalten her.
+Da haben wir genau das gemacht und haben uns angeschaut, wie sieht denn mein Flächenverlauf eigentlich aus.
+Hier, die kann ich vielleicht sogar beschreiben, auf einer Isothermie.
+Vielleicht nicht über den Fiktor, die durch den kritischen Punkt geht.
+Aber hier unten, das kann ich beschreiben, über das Idealgasgesetz.
+Da haben wir uns angeguckt, wie sieht ein isothermer Verlauf aus im Gasfamilienzustand.
+Das steht in diesem ganzen Diagramm.
+Das heißt, wenn ich jetzt zum Beispiel von meinem Volumen hier, V1, zu diesem Volumen gehe, was kann ich da machen?
+Ich kann mir zum Beispiel anschauen, das ist jetzt noch leicht außerhalb, wir sind hier, das ist unser Punkt 1 und das hier ist unser Punkt 2.
+Dann haben wir hier noch einen Punkt 3 und hier, wir machen das mal hier den Punkt, ansonsten
+wird das hier zu eng.
+Das ist unser Punkt 4.
+Das ist ja übrigens nichts anderes als in einer einzigen Temperatur vergrößere ich
+Volumen durch das
+Nassdampfgebiet zurück.
+Zum Beispiel, indem ich den Druck
+absenke.
+Schöne Sache daran ist,
+wenn man das Ding da übersetzt,
+heißt das
+natürlich auch,
+die Summe von
+allen Arbeiten
+ist nichts anderes als
+Arbeit 1,2
+plus
+Arbeit 2,3
+plus
+Arbeit 3, 4.
+Wie gesagt, jetzt kennen wir schon einiges.
+Den Verlauf hier hinten, den kennen wir.
+Der Verlauf hier, der ist relativ einfach, weil der Druck ja gleich bleibt.
+Und der Verlauf hier vorne, wenn jemand uns die richtige Regel dafür sagt, wie sich das verhält,
+dann können wir auch damit rechnen.
+Das heißt, wir haben hier
+Das ist jetzt falsch,
+das ist natürlich unser Delta
+V1,2
+Ne, gar nicht wahr.
+Da wissen wir ja das V nicht.
+Hier, das Volumen können wir ja ausmessen.
+Wir haben es aus der Tabelle vorgekriegt.
+Ich sage, das sind jetzt alles so Dinge.
+Okay, das erste, den ersten Teil, das da, das müssen wir uns ausrechnen.
+Okay, den zweiten Teil, dadurch, dass wir die spezifischen Volumina aus dem Tabellenpunkt rauskriegen,
+können wir uns das relativ einfach zusammenbauen.
+Ich muss da nächstes Mal, glaube ich, da oben hinstellen, oder?
+Ich mache das mal folgendermaßen.
+Vorsicht, jetzt habe ich einen Kampf vor euch.
+Ich schreibe es oben noch mal.
+Nein, das hilft nicht.
+Vielen Dank.
+Was jetzt immer noch kompliziert aussieht, wie gesagt, einfach nochmal zum Mitdenken.
+Es sieht kompliziert aus, das ist okay.
+Ingenieur, kein Mathematiker.
+Und das hier kriegen wir geschenkt.
+Das heißt, den Großteil von dem, was wir hier berechnen müssen, kriegen wir geschenkt aus dem spezifischen Volumen,
+was wir aus einem Tabellenbuch uns angucken können.
+Der Rest ist einfach linear verhalten.
+Gleicher Druck, etc.
+Das Ding haben wir schon mehrfach berechnet.
+Und das hier auch.
+Hier können wir normalerweise das normale Vorgehen nutzen, aus dem Idealen-Gas-Gesetz.
+Und wie gesagt, das hier vorne kriegt man in aller Rede dazu.
+Warum sage ich das jetzt so lapidar, kriegt man dazu und redet nicht weiter drüber?
+Weil es hier kaum Taten gibt.
+Fragen?
+Ich sehe da hinten noch etwas Unverständliches.
+Das ist völlig okay.
+Einfach nur Ärger über das Fach.
+Ist okay, kann ich wieder arbeiten.
+Okay, gut.
+Oder Ärger um meine Handschrift, da kann ich...
+Auch das ist in Ordnung.
+Also ich wiederhole es nur gerne.
+Ich bin aus gegebenen Gründen kein, wie heißt das, ein Kanigraf oder so, also kein Schönschreiber geworden.
+Ich bin einfach...
+Ich kann nicht Deutsch schreiben, ich bin ein bisschen analytisch, deswegen stehe ich hier.
+Nicht, weil ich Schönschreiber bin.
+Das heißt, wenn nichts zu lesen ist, einfach nochmal melden.
+Jedes Mal und immer.
+So, PV-Diagramm, TS-Diagramm, genau das gleiche.
+Wofür nutze ich das TS-Diagramm?
+Wir wissen, unsere Wärme ergibt sich aus dem Integral TDS.
+Heißt hier das gleiche.
+Wenn ich von hier das gesamte Tanzgebiet durchlaufe,
+S1 zu S4
+Ich kriege das gleiche Geschenk.
+Q ist
+Integral 1 von 2
+TDS
+plus
+TDS
+in den Grenzen 2 und 3
+plus dem Integral
+3 nach 4
+Entschuldigung, ich bin schon bei den Franken angekommen.
+Das ist ein DDS.
+Bekannt, einfach mal zusammen.
+Gegeben aus Tabellen.
+Bekannt, weil wir hier Folgendes haben.
+Wir in dieser Folge gehen immer von vollkompressiven Flüssigkeiten aus.
+Hier haben wir also immer die gleiche Enthalpie, weil es komplett immer flüssiger Gas ist.
+Wir sehen ein paar Änderungen, das zeige ich dann aber immer in den Auftragsstellungen.
+Jetzt gibt es noch ein kleines Gimmick.
+Das mache ich aber relativ kurz.
+Es gibt natürlich auch Versuche, so etwas zu berechnen.
+Und ganz so trivial ist es halt doch nicht.
+Wenn wir uns das hier angucken, das Verhalten von Idealgas über Druck, bei gleicher Temperatur ist es je nach Prozessführung doch ein bisschen anders.
+Druck ist eine Temperatur von Volumen und Temperatur. Volumen ist eine Funktion von Druck und Temperatur.
+Temperatur ist eine Funktion von Volumen und Druck.
+Die sind im Realgas natürlich nicht genauso wie beim Effektgas.
+Also hier brauchen Sie übrigens nicht mitschreiben, nicht Prüfungsbeleuchtung, tatsächlich einfach mal so ein bisschen drumherum schreiben.
+Alles nochmal einordnen, das ist bekannt.
+Wir nutzen Modelle, weil wir uns das Ganze schön vereinfachen.
+Der Vollständigkeit halber, hier gibt es, habe ich ihn da schon genannt? Nein, habe ich nicht genannt, ich werde es gleich nehmen.
+Allein mit dieser Aussage, die thermischen Zustandsgleichungen wie Alagasi sind komplizierter als das, was wir bisher hatten.
+Es gibt ein paar bekannte Näherungen. Einmal sind Van der Waals-Gleichungen dabei, die ihr das in der Physik schon mal gehört habt.
+In dem Moment, in dem ich thermische Zustandsänderungen habe, kann ich das natürlich auch versuchen atomar zu beschreiben.
+Van der Waals-Kräfte sagt Ihnen allen was außer Physik vermutlich, beziehungsweise Chemie macht glaube ich bei mir da was.
+Irgendwie so Einzelungen von Teilchen, die stoßen einander, stoßen sich ab und ändern und ändern.
+Wir haben Ausdehnungen von Teilchen, wir haben Trägheiten von Teilchen, wir haben Reaktionskräfte in Teilchen, wir haben Reaktionskräfte außerhalb von Teilchen.
+Das steckt in Van der Waals Beziehungen.
+Van der Waals Beziehungen haben vor allem Dimension und die Elastizität.
+Das Ganze sieht dann auf einmal so aus, weil sich dieses Normalvolumen mit der Elastizität ein bisschen verändert.
+Warum schreibe ich Ihnen das hin, damit Sie es mal gehört haben?
+Also alles, was ich bis jetzt gesagt habe, kann man bis zu einem gewissen Grad so idealisieren.
+Je tiefer man guckt, desto weniger sind diese Modelle geeignet.
+Aber das greife man gerne auf so schöne Dinge wie Quantenmechanik zurück,
+derjenige versucht, das Auto, was da draußen fährt, mit Quantenmechanik zu begreifen, wird bescheitert.
+Es gibt einfach auch, da bin ich der festen Überzeugung,
+Sie werden im Gehör, wenn Sie es nicht werden, dann sollten Sie es werden, in der Lage sein, Abstraktionen auch zu genießen.
+Weil Abstraktionen immer heißt, es macht es mir einfach, weil ich es genau für den Zweck, für den ich es nutze, brauche.
+Wenn ich Quanten versuche, auf Realwelt anzudämmen, wird es nicht funktionieren, da sie in Realwelt schon nicht gebraucht werden.
+Um es Ihnen genauer zu erklären, mag das durchaus sein.
+Es ist tatsächlich genau das gleiche, was wir hier machen. Ich habe von Anfang an gesagt, ich mache keine technische Chemie, ich mache technische Physik.
+Es schert mich nicht, was auf atomarer Ebene passiert.
+Dennoch weiß ich, dass auf atomarer Ebene was passiert, was vielleicht sogar besser erklärt, was hier läuft, als ich es erkläre.
+Aber es ist einfach eine Ebene tiefer.
+Also, das hier genau das gleiche.
+Das kann man, es gibt einen Arschschirm, viele Modelle, die das immer genauer und noch genauer und noch genauer beschreiben.
+Ich kenne sie nicht alle, ich bin kein Physiker und vor allem kein Chemiker, aber Ihnen einfach mitgeben,
+es gibt neben dem, was man bisher so schön und einfach gehört hat, gibt es noch sehr viel mehr Detailstufen in dieser Realität,
+die uns da umgibt im echten Leben.
+So, Einnährung, wie gesagt, Van der Waals, Redlich-Kong, das ist dann, das wird halt auch mal ein bisschen aufwendiger.
+Interessant wird dann, wenn es auf einmal gar nicht mehr analytisch rechenbar ist, sondern nur noch numerisch, aber auch da brauchen wir jetzt nicht weiter reingucken.
+So, das heißt, schließen wir mal ein bisschen ab, was haben wir bis jetzt gesehen? Einfach vor dem Hintergrund Realfluide.
+wir haben diese Siede- und Sättigungstemperatur.
+Bitte schreiben Sie sich auf unsere
+private Formel der Erhöhung.
+Das heißt, was ist eine Siede-Bedingung
+und was ist die Sättigungsbedingung?
+Warum?
+Thema
+wir bestätigen hier eine Aufgabenstellung.
+Wenn da zum Beispiel etwas bis zum
+Sättigungsdruck erhitzt wird,
+dann sollte es bei Ihnen klingeln,
+dass Sie das Buch und die Mehrfache
+hier dran setzen.
+Gut.
+Dampfdruck heißt, dieser Druck, der dann komplett eingehalten wird,
+der ist temperaturabhängig und temperaturabhängig sind andere Drücke notwendig,
+um eine Flüssigkeit in dieses Mehrphasengebiet zu bringen.
+Nicht ganz so relevant.
+Dampfanteil, auf jeden Fall relevant.
+Wenn ich den Dampfanteil weiß und den Dampfanteil berechnen kann,
+dann kann ich meine Zustände in meinem Mehrphasenzustand darstellen.
+Und wie gesagt, wir werden auch ein bisschen lernen, dieses Diagramm zu lesen, weil bestimmte Inhalte einfach direkt aus dem Diagramm rauskommen können.
+So, Verdampfungsenthalpie, wichtig.
+Verdampfungsenthalpie ist die Enthalpie, die benötigt wird, um von nur einem Erhitzen zum Beispiel, um vom Zustand komplett flüssig zu komplett maßverhältig zu sein.
+Das heißt, Verdampfungsenthalpie sehen Sie in jedem von diesen Tabellen.
+Das ist nämlich einfach das, was in einer Zeile zwischen Siedeenthalpie und Sättigungsenthalpie entsteht.
+Relativ simpel.
+Zwei Phasengebiete haben wir uns eben angeschaut.
+Siedelinie, Sattdampflinie, das sind die beiden begrenzenden.
+Also ich mache übrigens keine Vokabularfrage, das ist nicht Teil der Prüfung.
+Aber dieses Dischrifieren aus den Aufgabenstellungen, das müssen Sie dann schon können.
+Wichtige Zusammenhänge im Phasenübergang bleiben Temperatur und Druck einfach gleich.
+Immer.
+Auch das so groß fett umrandet in ihrer Aufgabenstellung.
+Es passiert immer wieder, dass dann nur jemand nicht weiß,
+ich habe doch den einen Druck, aber ich kann den anderen Druck nicht bestimmen.
+Doch.
+Im Nassdampfgebiet ganz klar doch, weil es der gleiche ist.
+Temperatur doch, weil es die gleiche ist.
+Verdampfungsenthalpie haben wir uns angeschaut. Tabellen werden wir gleich machen und jeder Punkt
+kann durch Temperatur und Dampfanteil oder Druck und Dampfanteil eindeutig definiert werden. Das
+heißt in dem Moment wo ich weiß, also wir hatten bisher immer aus dem idealen Gas brauchen wir
+Temperatur, Volumen, Druck, Gaskonstant. Das stimmt zu einem gewissen Teil hier auch,
+aber Temperatur und Dampfanteil beschreibt mir, wo genau ich bin, weil ich darüber auch bestimmen
+kann, auf welcher Druckkurve ich mich befinde. Weiß ich die beiden? Weiß ich auch, wo ich bin.
+Gucken wir uns gleich alles an. Und zwar genau jetzt.
+Kurzer Blick.
+Ja, die Aufgabe machen wir gerade noch gemeinsam.
+Damit Sie ein bisschen Gefühl dafür kriegen, was heißt das eigentlich, mit diesen Dampftabellen zu arbeiten.
+Das ist jetzt eine Aufgabe, ich habe hier noch eine angehängt, die machen wir heute nicht.
+Die ist aber vom Aufgabentypus her genau das gleiche.
+Schauen Sie sich einfach an, versuchen Sie zu Hause mal durchzurechnen.
+ist einfach eine gute Lernkurve, weil man das hier exakt nochmal wiederholen kann.
+So, ein Wasserdampfgemisch hat eine bestimmte Temperatur, 200 Grad,
+und ein spezifisches Volumen, 20 Liter pro Kilogramm.
+Bestimmen Sie den Druck, Dampfanteil, Enthalpie, spezifische Entropie und wie viel Wärme.
+So, die Aufgabenstellung habe ich hier nochmal mit eingezeichnet.
+Also, erste Frage, bestimmen Sie den Druck, spezifisches Volumen 20 Liter pro Kilo oder 200 Grad, gucken wir einfach mal genau rein.
+Wir haben hier unsere Temperatur, die ist in Grad Celsius, wir haben 200 Grad Celsius, gucken wir also am besten einfach mal in diese Zeile rein.
+So, jetzt war eben schon die Aussage, Sie können vieles einfach direkt aus der Tabelle
+bestimmen.
+Hier genauso.
+Da ist die Temperatur und da ist der Platz, in dem man gedruckt wird.
+15,1 habe ich das eingeblendet.
+Jetzt soll der Dampfanteil bestimmt werden, bei B.
+Genau, den Dampfanteil sollen wir bestimmen.
+Wie bestimme ich jetzt hier am besten den Dampfanteil?
+Den Zusammenhang kennen wir.
+Das Gesamtvolumen, das gesamtspezifische Volumen, ergibt sich aus dem Flüssiganteil und dem Anteil, der sich aus der Gasförmigen Phase ergibt.
+Jetzt haben wir hier aber kein spezifisches Volumen.
+Was mache ich?
+Kehrwert von Volumen, Sie erinnern sich?
+Kehrwert von Volumen ist die Dichte.
+Und auch groß auf die eigene Formel sein.
+Kehrwert von der Dichte ist das Volumen.
+Die hier kann ich mir natürlich rausziehen.
+weil die hier stehen. Das heißt, wir nehmen eine andere Farbe, und zwar Orange.
+Diese beiden Werte für die Dichte können wir uns direkt aus der Tabelle holen.
+Damit kann ich dann natürlich auch mein gesamtes Dampfanteil ausrechnen, denn spezifisches
+Volumen von dem gesamten Ding ist vorgegeben.
+Da hat jemand gesagt, das ist das gesamt spezifische Volumen von dem Gemisch bei einem bestimmten
+Dampfanteil.
+Sie wissen, in welcher Horizontale man sich befindet, bei den 200 Grad.
+Sie wissen dann die spezifischen Volumina von der Gasphase und der Flüssigphase.
+Und wenn Sie die haben und die Vorgabe von den gesamten spezifischen Volumen,
+dann kann man halt auch x ausrechnen.
+Vorgehen verstanden?
+Und wenn nicht, ist auch...
+Ich meine das jetzt so. Hier haben Sie eine Tabelle und Sie haben verstanden, was Sie damit machen sollen. Vielen Dank auch.
+Das ist okay. Aber vom Grundsatz her verstanden, was ich da mache, sodass es nachher nochmal nachholt.
+Das ist das Echte.
+Das, was jetzt passiert, ist nämlich tatsächlich einfach nur noch trivial weitermachen.
+Die Frage war nach der spezifischen Enthalpie. Wenn ich die Enthalpie von meiner Gasphase und der Enthalpie meiner Flüssigphase hier genauso rauslesen kann, was im Regen der Fall ist, und ich kenne meinen Dampfanteil, dann kann ich natürlich auch die gesamtspezifische Enthalpie berechnen.
+Vorne steht da, habe ich das gar nicht ausgerechnet?
+Das ist ja was, doch, habe ich ausgerechnet.
+Ich nehme wieder eine andere Farbe.
+In Teil 4 sind diese beiden.
+141 Kilojoule pro Kilogramm.
+Und für die Entropie machen wir das gleiche nochmal in grün bzw. in lila, weil wir sonst die Farben ausgeben.
+Die spezifische Entropie liegt bei 2,94 Kilojoules pro Kilo am Kegel.
+Kleiner Reality-Check, den man immer mal machen darf.
+Gucken Sie sich dieses Ergebnis an und gucken Sie sich die beiden Werte an.
+Hier sind wir bei 800 und ein Keks, fast 3000 und Sie haben ein X von 0,15, also relativ weit auf der Seite der,
+Also wenn man sich das grafisch vorstellt, relativ weit links, heißt auch, dass man Wert relativ weit, relativ nah an den Wert von der flüssigen Phase landen muss.
+Bei der Entropie genauso. Wir haben hier 2,6. Es sollte also nicht 7 und nicht 1 sein.
+Also auch da, wenn Sie das rausrechnen und hinschreiben, ey, das kann nicht passen, kriegen Sie auf jeden Fall einen Bonuspunkt.
+Also, ob ich den werte oder nicht, ist eine andere Frage.
+Ich freue mich immer, wenn Leute es verstanden haben, dass das, was sie daraus gekriegt haben, vielleicht nicht stimmt.
+Gut.
+Hinweis, wie funktioniert sowas in einer Prüfung?
+Die Aufgabenstellung, so wie sie da ist, hat einen einzigen Haken.
+Und zwar, Sie müssen auf diesen Zusammenhang gucken.
+Das, was hier wirklich gefordert ist, ist, ich kann reproduzieren, dass der Kehrwert genommen werden muss.
+Ich kann reproduzieren, wie ich aus diesen drei Werten, absoluten Volumen, also absolut spezifischen Volumen,
+spezifisch Gasfaser, spezifisch Flüssigfaser, wie ich da auf den X-Anteil komme.
+Ich weiß nicht, wie andere Kollegen das von mir machen.
+Ich bin großer Freund davon, auch Folgenpunkte zu vergeben.
+Das heißt, wenn Sie hier partout nicht drauf kommen, aber wissen, dass ich da x rausbekommen müsste
+und mir x dann weiterhilft, um es hier weiterzurechnen, dann bitte, Herrgott, schreiben Sie es einfach hin.
+Ich weiß nicht, wie ich drauf komme, ich nehme x mit 0,5 an und rechne weiter.
+Weil das da gibt dann weiterhin volle Punkte.
+Nicht verzagen.
+Wie gesagt, ich weiß nicht, wie andere Kollegen das machen.
+Mir geht es nicht darum, dass man eine Aufgabe von vorne bis hinten komplett durchrechnen kann.
+Man scheitert mal. Man kommt manchmal nicht weiter.
+Das weiß ich. Und in Prüfungssituationen mag es nicht besser.
+Aber es soll Sie nicht daran hindern, dass Sie trotzdem die anderen einfachen Punkte weiterkriegen können.
+Ich werde Zwischenergebnisse angehen. Nutzen Sie denn dann die Zwischenergebnisse?
+Und wenn Sie partout nicht weiterkommen, glauben Sie eigentlich, wenn ich das weiß, dann weiß ich auch den ganzen Rest, dann schreibe ich es bitte einfach hin.
+Ich hatte letztes Jahr tatsächlich einen Prüfling, der hat am Ende, das fand ich faszinierend, der hat einfach...
+Der hat einfach, der wusste, wie er weiterrechnet, aber er hatte die Zeit nicht mehr.
+Der hat hingeschrieben, ich rechne jetzt das aus über die Formel, dann das über die Formel, dann das über die Formel, dann das über die Formel.
+Und natürlich hat er nicht voll Punkt angekriegt.
+Aber ich muss dann auch sagen, hey, er hat es verstanden.
+Rechenweg, volle Punkte auf dem Rechenweg.
+Warum denn nicht?
+Jetzt kam dann mal so eine Frage, aber wenn ich da einfach alle Formeln hinschreibe, dann kann das ja auch richtig sein.
+bestimmt, wenn Sie es schaffen, bei jeder
+Aufgabe alle Formeln hinzuschreiben
+und dann noch in einer Zeit von einer halben Stunde
+bleiben, dann ist gut. Dann kriegt man
+wahrscheinlich auch alle Punkte, aber das ist, glaube ich, unmöglich.
+Oder Sie sind sehr schwer am Schreiben.
+Und nein, das ist natürlich ein Scherz.
+Jemand, der mir einfach nur will,
+irgendwelche Formeln untereinander zu wirft,
+kann Glück haben,
+kann aber auch Pech haben.
+Wenn ich rauslesen kann,
+wie bei dem Prüfer, das war einfach echt so,
+er wusste genau, was er tun sollte,
+aber er hat einfach keine Zeit mehr gehabt,
+hat das hingeschrieben, keine Zeit,
+bam, bam, bam, bam, bam, bam, ja, okay,
+ist doch gut.
+Aufgabe verstanden.
+Ich meine, Herr, das Taschenrechner mit Ihnen.
+Auch kein Ingenieursgeld, wenn man ihn braucht.
+Also nicht in der Schnelligkeit.
+Dafür gibt es Computer.
+Gut.
+Jetzt war noch die eine Frage,
+helfen Sie mir da weiter.
+Wie viel spezifische Wärme
+noch zuzufügen ist?
+Die Frage ist, wie viel spezifische Wärme zugefüllt werden muss, damit von hier oder so, wo ich bin, wir da landen.
+Und das zeichnen wir jetzt einfach mal ein.
+Wir sind aktuell hier.
+Das sei jetzt einfach mal so ein Grob hingemalt.
+x sei gleich 0,15.
+Und ich muss bis hierhin kommen. Das heißt, die Wärme, die Frage ist, welche Wärme muss noch zugeführt werden, damit es komplett besättigt ist.
+Ich bin laut und ich will zur kompletten Sättigung. Ist also die Frage, wie viel Enthalpie muss ich noch zuführen?
+Das dürfen Sie sich einfach irgendwo so hinlegen. Bei solchen Fragestellungen kann man einfach Enthalpie und Wärme gleichsetzen, spezifisch, wie gesagt.
+So, jetzt weiß ich ja, H1 habe ich eben ausgerechnet.
+H2 schlicht, aus der Tabelle.
+Das heißt, ich kann auch mein Delta-H bestimmen, weil da habe ich H1 und da habe ich H2-Strich.
+Und dann kann ich natürlich einfach mit diesen Vorgabewerten die Sedimuswärme bestimmen
+und 1650
+Kilojoule
+pro Kilogramm.
+So, doch noch ein Hinweis.
+Auch wieder mal
+Richtung Prüfung.
+Ich schreibe in den Aufgabenstellungen
+normalerweise
+relativ klar, was ich erwarte.
+Haben wir so ein Aufgabenprüfung,
+wo normalerweise
+dann irgendein Diagramm dabei ist
+und,
+Und wir werden das später noch sehen, weil wir gleich nochmal eine Aufgabenstellung mit einem Diagramm finden.
+Wo ein Diagramm dabei ist und eine Tabelle.
+Wenn es mir egal ist, wo Sie die Werte herzaubern, dann schreibe ich nichts hin.
+Wenn ich möchte, dass Sie es aus anderen Prozessen berechnen, dann schreibe ich das hin.
+Dann steht da in der Aufgabenstellung, ermitteln Sie rechnerisch oder berechnen Sie oder irgendwie sowas.
+Wenn ich möchte, dass Sie das
+auf dem Diagramm ablesen,
+dann steht da drin, ermitteln Sie
+anhand des Diagramms oder
+lesen Sie ab.
+Wenn ich möchte, dass es aus der Tabelle
+steht, geholt wird, schreibe ich
+auch das, ermitteln Sie anhand der Tabelle.
+Lesen Sie aus der Tabelle ab.
+Vieles schon gesehen?
+Nur einfach das auch
+klar für Sie.
+Nehmen Sie sich die Zeit,
+diese Schlagwörter, wie ich sie gerne nenne,
+in der Aufgabenstellung
+klar zu sehen, zu sagen,
+wenn da steht berechnen, dann sollte ich
+vielleicht rechnen.
+Dann werde ich vielleicht einen Glückspunkt kriegen,
+wenn ich das Richtige rate, aber ich soll es rechnen.
+Gut.
+Wir machen eine kurze Pause.
+Passt das?
+Wollen wir die noch machen?
+Die nächste ist im Grunde die hier,
+dass wir wirklich mal in ein Diagramm reingehen
+oder jetzt erstmal kurz
+den Kopf wieder klar kriegen und danach
+gehen wir da rein.
+Ja, nein, das war eine offene Frage. Ja, nein, gibt es nicht.
+Alles klar, wenn man jetzt mal... 10 nach geht es weiter, okay?
+Also es sind jetzt 16.
+Da hat man auch solche Checker, die dann Miss Teams koordiniert sind, immer zum Reden hingesucht haben.
+Und die waren, also auch wenn man sich einfach nach oben gesetzt hat, haben die halt die ganze Zeit, wenn man mit dem Bildismus rummacht, war da immer so ein Roller auf dem Tisch, der sich die ganze Zeit gedreht hat.
+Das war ein bisschen meditierend.
+Und eben von, das war ein besprechender Stand, über einen Karton, konnte man einfach draufstellen, sodass es nicht stört.
+Sind alle da? Ich glaube schon.
+Und da haben wir mal nachgeforscht, also da war ganz klar, dass die in sich, also dieses Tracken, das machen die halt permanent,
+dass sie quasi auf die Bewegung des Objekts, was wir halt einmal gesetzt haben, und das ist wahrscheinlich einfach,
+interessant wäre jetzt, wenn man sich hier zu fünft hinstellt, was dann eigentlich passiert,
+ob sich dann den sucht, den es zuerst nimmt, oder ob es dann völlig irritiert ist, zurück zur Frage,
+nee, das wird nicht gespeichert. Was eigentlich manchmal sogar zweischneidig ist, weil man würde
+ja auch viel mehr Daten generieren, mit denen man dann noch besser tracken kann. Aber da sind wir
+wieder bei dem Thema Daten und wem gehört das und ist es jetzt für irgendwen relevant. Wobei ich
+dann auch bei sowas. Würde man jetzt denken, das darf ja gar nicht mitchecken, wenn ich
+hier eine Vorlesung halte. Sehe ich tatsächlich ein bisschen anders, weil eigentlich dürfte
+ich das nicht checken. Weil es ändert an meinem Rechten überhaupt nichts. Weil das
+ich hier bin und als Angestellter hier Vorlesungen halte, das ist bekannt. Und welche Vorlesungen
+ich halte, das ist auch bekannt. Das heißt eigentlich datenschutzrechtlich, es dürfte
+halt nicht irgendwo in die Welt gestreamt werden, aber es dürfte irgendwo gespeichert
+werden. Meiner persönlichen Meinung nach, wahrscheinlich bin ich da falsch, ich bin
+glaube ich dann einfach zu sehr Zwischengeneration, zwischen Native und, das sind so die Oldschool,
+die alten Männer mit leicht kral werdenden Haaren, die dann früher noch zum Fußballspielen
+einfach rausgegangen sind, weil von der Datasette-Laden einfach eine Viertelstunde gedauert hat.
+Und erst dann konnte man wieder reingehen und mit einem Rollen-Acht-Kanal-Joystick
+seine Lieblingsspiele zocken. Das war auch schön damals.
+So, nun aber, now for something completely different.
+Wer kennt Monty Python?
+Also, now for something completely different.
+Ich gebe mal einfach ans Herz legen, völlig off-topic,
+den Ministry of City Walks,
+eine der besten
+Monty Python-Folgen immer.
+Na gut, ich glaube, man braucht
+kritischen Humor oder sehr viel Übung.
+Eins von beiden. Oder beiden. Ich glaube, beides ist
+eine sehr gute Kombination.
+Trotzdem, von der
+einen Droge zur anderen Droge.
+In einem Dampfkessel, Gott mein Gott, sehr schlecht.
+In einem
+Dampfkessel soll Wasser erwärmt werden.
+Wir haben also Wasser, soll erwärmt werden.
+Am Austritt
+vom Kessel, 50 bar und 700 Kelvin. Die Erwärmung ist Isobar. Der Kessel wird mit 400 Grad
+heißem Wasser gespeist. Flüssiges Wasser, inkompressibel. Was steckt da jetzt schon
+drin? Überlegen Sie sich das ganz kurz, einmal vom Diagrammtypen. Jetzt bewusst gehe ich
+auf ein TS-Diagrammtyp. Da haben wir irgendwo unsere komische Dampflockenkugel, die sieht
+so aus. Qualitativ. Was haben wir? Wir haben einen bestimmten isobaren Prozess. Wir wissen,
+wie ein isobarer Prozess hier verläuft. Es steht auch noch drin, flüssiges Wasser inkompressibel.
+Das heißt, wir befinden uns definitiv hier auf dieser Kurve bei 400 Grad, 400 Kelvin, wird das Wasser zugeführt, wird irgendwie erhitzt, wird dann verdampft und dann steht da auch am Austritt des Kessels,
+Dampf 50 bar, das heißt wir sprechen auf jeden Fall von vollgesättigtem Dampf.
+Also irgendwo hier hinter wird das Ganze dann ausgedrückt.
+Warum zeige ich Ihnen das da nicht?
+Weil das im Grunde für irgendeine Prüfung, die so sein könnte, der erste Schritt ist.
+Aufgabenstellung lesen, uns relativ schnell schon überlegen, okay, was heißt das eigentlich?
+Diejenigen, an die nicht jeder denkt, gerne grafisch. Ich denke extrem gerne grafisch.
+Das heißt, ich brauche sowas. Vielleicht gibt es ein paar von Ihnen ähnlich.
+Ich glaube, es vereinfacht eine ganze Menge, sich vorzustellen, okay, wie sieht denn mein Prozessverlauf aus?
+Das hier ist nämlich dann eine Isobare durch das Mehrfassendicht.
+Und zwar durch alle drei. Komplett Wasser, Komplett Übergang, Komplett Überhitzt.
+So, zeichnen Sie den Ico-Baden-Band-Erzeugungsprozess ins TS-Diagramm ein.
+Haben wir jetzt hier schon gemacht. Es ist aber auch noch alles vorgegeben, wo auch noch ein Haufen Werte drinstehen.
+Genau die gucken wir uns mal an. Welche Werte haben wir? Wir haben zum Beispiel 400 Kelvin.
+Wir haben 700 Kelvin. Start und Ende. Was haben wir noch? Wir haben die Information vom Druck am Ende. Hier 50 Grad. Wir wissen ja, es ist Isobar der Prozess.
+So, dann laufen wir noch die Isobare einfach mal lang.
+Und zwar von dem, da nehme ich jetzt eine andere Farbe, 700 Kelvin auf dieser Linie, das wird dort sein.
+Das ist der Isobare Verlauf.
+Und wie gesagt, hier ist die Frage, wie weit kann ich gehen.
+Ich zeichne das jetzt ein bisschen daneben ein, dass man den Sprich sieht.
+Hier ist irgendwo unser Startpunkt.
+Hier haben wir den Start und hier oben haben wir das Ende.
+Das heißt, wir haben aber auch zwei, drei unterschiedliche Prozessverläufe.
+Hier vorne inkompressible Flüssigkeiten, da haben wir auch eine Menge zugewärmt, zum
+Beispiel, dass CV und CP das gleiche sind. Hier haben wir eine Menge zu gelernt, nämlich
+dass wir uns Tabellwerte angucken können. Und hier haben wir gelernt, ah, okay, ideales
+Gas, cool. Auch da wissen wir, was passiert. So, und da gucken wir uns jetzt die einzelnen
+Aufgaben an. Erstmal markieren Sie die Fläche, die der übertragenen Lärmenergie für den
+Prozess, Schritte Erwärmung, Verdampfung und Überhitzung entsprechen. Frage 1, wie zeichne ich den Flächen ein, die einer Wärme entsprechen? Ich bin im TS-Diagram. Da muss es tatsächlich bei Ihnen einfach sofort klingeln.
+Okay, Tools, ATS, Fläche, geil, das ist warm, heißt, ich mache es jetzt wieder grün.
+Das hier ist das Thema Erhitzen.
+Dann haben wir das eigentliche Verdampfen, war ja auch gefordert.
+Da ist der Abschluss hier zu suchen.
+Und dann haben wir das Thema Überhitzen.
+Ganz kurz, ich habe gesagt Vokabeltests machen wir nicht, ein bisschen machen wir es schon.
+Geht das vom Lesen her, oder wird es da unten wieder zu weit unten?
+Ich mach mal ein bisschen rüber.
+Geht noch, mit langem Hals.
+Du liest jetzt gerne mit so einem U-Tipp das Kuchen.
+Die drei trotzdem merken, wenn Erwärmen dransteht, könnte es sein, dass es den Gesamtprozess heißt.
+Meint kann aber auch sein, dass es nur den flüssigen Prozess heißt.
+Verdampfen ist exakt verdampft, auch von Komponenten.
+Ich spreche dann zum Beispiel in der Aufgabenstellung von Verdampfern und Kondensatoren.
+Die machen beide das Gleiche, nur Verdampfung in die Richtung und Kondensation in die andere Richtung.
+Eigentlich keine Vokabeltests hier, aber die technischen Begriffe, die dann doch drauf sind.
+Gut, jetzt ist gefragt nach.
+Ermitteln Sie die spezifische Verdampfungsenthalpie aus der Wasserdampfwaffe?
+Ich habe hier unten einen kleinen Bereich, der vorbeigeflügt.
+Wir haben, das ist jetzt übrigens P und das ist T,
+also da haben wir Druck und Temperatur.
+Wir sprechen von den 50 Bar, das ist glücklicherweise angegeben.
+Wir haben, das ist übrigens nicht richtig,
+Auch das ist dann in einer Aufgabenstellung.
+Also da keine Angst vor haben, die Aufgabenstellung schon vollständig zu machen.
+So, wir haben...
+Hier haben wir unsere beiden Enthalpien.
+und wir können uns diese beiden Werte aus der Tabelle raussuchen
+und natürlich ist das dann unsere Verdampfungsenthalpie, die wir ausrichten können.
+Passt soweit? Also steht in der Aufgabenstellung drin, man sah es aus der Darftabelle, in der Darftabelle stehen die beiden Faktoren drin.
+Ihre Aufgabe ist, Verdampfungsenthalpie richtig zu übersetzen im Formular und da komplett.
+Ja, gut, nächste Aufgabe. Bestimmen Sie die spezifische Änderung, die jetzt steht hier auch aus dem TS-Diagramm.
+Bei vielen von diesen Tabellen ist dann hier auch noch angegeben, wie die N-Typen aussehen.
+Und zwar müssen wir ein bisschen auf die Einheiten gucken. Ich mache das mal in orange.
+Orange, Kilojoule pro Kilogramm, das ist Enthalpy.
+Auch hier an der Stelle.
+Einheiten können und dann würde ich bei so einem Diagramm auch nicht noch mehr extra hinschreiben, was das jetzt ist.
+Wenn da Bar oder Pascal oder Newton pro Quadratmeter steht, dann ist das Druck.
+Also, wenn da Kelvin oder Celsius steht, ist das Temperatur.
+Wenn da Joule pro Kilogramm steht, oder Kilojoule pro Kilogramm, ist das Entropie.
+Steht da Kilojoule, Kilogramm, Kelvin, ist es Entropie.
+Ja?
+Gut.
+Können wir also ablesen, sind grob geschätzt 3.250.
+und die 2750 Mikrometer direkt raus, weil hier der direkt da durchläuft.
+Die haben also irgendwo, ja, die sind sogar beide ziemlich normal dran.
+Können wir alle drei ganz gut auslesen.
+Sind 500 Kilogramm pro Kilogramm.
+So, jetzt haben wir bei E, welcher Wärmestrom ist im Kessel für Erwärmung, Verdampfung und Überhitzung zuzuführen?
+Und jetzt kommt, wenn pro Stunde 500 Tonnen Dampf bereitzustellen sind.
+Hier haben wir eine Masse, das heißt mit Masse können wir auf einmal Leistungen bestimmen
+und können aus einer spezifischen Wärmemenge eine absolute Wärmemenge machen.
+Das heißt, das, was ich jetzt rechnen muss, ist die Wärmemenge, die durch mein System geht.
+Und wir können einfach anfangen mit der spezifischen Wärmemenge.
+Wir haben also vom System, wir haben einen stationären Fließprozess.
+Gleichung für stationäre Fließprozesse kennen wir.
+Was können wir direkt ablesen?
+Geschwindigkeitsänderung? Nope.
+Höhenänderung? Nope.
+Die fallen also beide raus, bleibt also M-Punkt mal Delta H, wir haben auch keine Leistung, die zugefügt wird, da wird nichts gerührt, getan oder sonst was, da wird einfach nur erhitzt, haben also Gesamtwärmemenge mal Masse mal Delta H.
+Delta H über das ganze System ist jetzt relativ einfach, weil wir das bestimmt haben, das ist unsere Verdampfungsenthalpie,
+das bestimmt haben, das ist unsere Überhitzungsenthalpie.
+Bleibt also noch die Frage nach der Änderung der Enthalpie in diesem Bereich.
+Wie gesagt, wir sprechen jetzt von einer inkompressiven Flüssigkeit.
+Was ändert sich da, wenn ich Wärme zufüge, die innere Energie?
+Innere Energie, CV, DT. CV brauche ich nicht, sondern nur die Wärmekapazität von der inkompressiven Flüssigkeit.
+CW, DT kann ich also relativ einfach ausrechnen.
+Die beiden hole ich mir aus der Tabelle oder dem Diagramm.
+T1 aus der Aufgabenstellung tatsächlich.
+Diagramm oder Aufgabenstellung.
+T2 hol ich mir aus der Tabelle, das ist dann das hier, allerdings noch umzurechnen.
+Die Wärmekapazität von Wasser ist gegeben, fertig.
+Vielleicht schreiben wir das noch dazu.
+So steht es, glaube ich, in der Formelwanderung.
+Und wie gesagt, ob Sie den Umweg gehen über die innere Energie und dann feststellen,
+dass wir Kapazität mal Delta T rechnen.
+Oder ob Sie es aus der Formel ansehen,
+wie wir das schon mal hergeleitet haben,
+enthalten Sie zuwährende Kapazität.
+Das ist relativ egal.
+Dritte Vorlesung haben wir genau das uns vorgenommen.
+Wie ich anfangs sagte,
+es fallen jetzt so ein paar Dinge wieder zusammen,
+wo auf einmal Sachen,
+die wir vor zwei, drei, vier Vorlesungen gemacht haben,
+sich hier genau an der Stelle wieder treffen.
+Passt?
+Gut.
+Und jetzt habe ich das Endergebnis, glaube ich, gar nicht mehr angegeben, oder?
+der Vollständigkeit hat man.
+Gut.
+Ich habe Ihnen noch zwei kleine Fragen einfach mitgedacht.
+Das ist zum Beispiel so, dass...
+Können Sie mal zurück?
+Danke.
+Ach Mann, es tut mir so leid.
+Mal weiß ich es, mal weiß ich es nicht.
+So.
+Gut.
+Zwei kleine Fragen, die können wir in unserem Leben hier mal diskutieren.
+Wie gesagt, wir haben eine kleine Aufgabe dabei, Thema Dampf-Tabelle, die ich vorhin auch mit angesetzt habe.
+Schauen Sie ruhig auch mal in die Gesamtaufgabenstellung, also so langsam kann man damit anfangen.
+Wir sind jetzt schon bei Aufgabe 20, 22, 23, 24 auf dem Aufgabenzettel, den ich Ihnen reingegeben habe.
+Gucken Sie ruhig mal drauf. Eigentlich alles nach hinten können Sie schon rechnen.
+Nach vorne kommen ein paar Sachen, da waren wir doch nicht, weil wir das Thema Kreisprozesse
+noch nicht so extensiv gemacht haben, aber alles davor kann ab jetzt schon gerechnet werden.
+Und da sind wir genau beim nächsten Teil, nämlich Kreisprozesse. Und da müssten Sie einmal ganz kurz
+den nächsten Teil sich vornehmen.
+Der ist gut geladen, oder?
+Wer von Ihnen kennt Kreisprozesse?
+Irgendwo her?
+So mal ein Beispiel von was ist ein Kreisprozess?
+Da ist ein Link.
+Ja, das ist ein Kreisprozess.
+Aber, was ist ein Kreisprozess?
+Okay, wissen wir noch was das war?
+Also insgesamt Kreisprozesse oder war es ein spezifischer?
+Ich glaube es gibt ein spezifischer, das gibt es im Projekt.
+Prüfungen lernen und dann wieder vergessen.
+Oh, das ist natürlich ein viel besserer Satz.
+Kreisprozess, irgendeine Idee, wo man so einen Kreisprozess überlegen könnte?
+Keine Idee?
+Haben Sie eine Klimaanlage zuhause?
+Oder im Auto?
+Wärmepumpe?
+Auf jeden Fall?
+Wie kriegen Sie Ihre Getränke kalt?
+Kühlschrank?
+Kühlschrank?
+Kühlschrank?
+Kühlschrank?
+Ich habe noch so ein Schwinkelauto. Wie fährt das hier her?
+Nimmst du eine Verbreitungsmotor?
+Ich bin jetzt bekennender Dieselfahrer, es tut mir leid, ich kann jetzt nichts dagegen tun.
+Wir ziehen ein bisschen runter, wir brauchen ein bisschen los.
+Dieselprozess, Otto-Prozess, Joule-Prozess, Stirling-Motor, Fahrzeugtechnik, auch bei Ihnen Stirling-Motor schon mal was von gehört.
+3-Phasen-Wankel-Motor, das sind alles Kreisprozesse.
+Aber ganz interessant dabei, die einen machen irgendwas mit Temperatur, Wärmepumpen, Kühlschrank, Klimaanlage.
+Die anderen machen irgendwas mit Kraft, Benziner, Diesel, tatsächlich auch ein Gaskraftwerk.
+Erdampfmaschinen, wie die den Pfeiffer mit 3F noch kennen, ich habe dort nur alte Fülle im Kopf, es tut mir leid.
+All das sind Kreisprozesse.
+Das heißt, diejenigen, ich freue mich immer, ich hatte irgendwann mal die Aussage, Thermodynamik braucht doch keine Ingenieure mehr.
+Das mag sein. Aber in wie vielen ingenieurtechnischen Anlagen Kreisprozesse drin sind, da sollte man die Aussage vielleicht noch mal revidieren.
+Eine Aufgabe, die meiner Meinung nach ein Ingenieur so hat, ist Neugierde.
+Und Neugierde kann man am besten beantworten, wenn man so ein paar Dinge verstanden hat.
+Unter anderem Kreisprozesse.
+So, jetzt waren Sie bei linksrum und rechtsrum. Wir schaffen heute nicht beide.
+Wir machen heute einen Einstieg in eine Art des Prozesses.
+Und zwar rechtslaufend.
+Wir machen jetzt erstmal nur den sogenannten Kanonprozess.
+Ganz einfacher Vergleichsprozess. Tatsächlich auch der Prozess, der immer herangezogen wird und der technisch nicht möglich ist.
+Hört sich doof an, wenn ich jetzt bei der Sendung mit der Maus, hört sich komisch an, ist aber so.
+Hier stehen jetzt schon drei Buchstaben, WKM.
+Denn Rechtslauf heißt an der Stelle immer eine Wärmekraftmaschine.
+Wir machen aus Wärmekraft.
+Beispiel von eben, Motor.
+Gasplastik.
+Das ist, Entschuldigung, rechtslochend. So, was heißt das jetzt? Erstmal ins Gesamtkreisprozess.
+Was heißt das jetzt, Kreisprozess? Das heißt vor allem, dass der Prozess so gestaltet ist,
+dass er immer wieder am Anfang anfängt. Jetzt überlegen Sie mal ganz kurz. Ich nehme einfach
+Das ist so ein Viertakt-Benzinmotor, kennen die meisten.
+Was hat so ein Benzinmotor an sich?
+Das ist so ein Kolben, der irgendwie immer wieder in so ein Kolbenvolumen reingedrückt wird.
+Was passiert in dem Kolbenvolumen?
+Da wird irgendwas komprimiert.
+Dann wird irgendwas explodiert.
+Dann wird irgendwas expandiert.
+Dann wird das Ganze wieder rausgeschoben, dann wird es wieder expandiert und dann wird es einmal kompakt.
+Das heißt, wir haben einfach, das Wichtige daran ist, der heißt 4-Takt-Motor, weil am Ende von den 4 Takten man wieder ganz am Anfang ist.
+Kreisprozess heißt übrigens nicht 4. Die meisten Prozesse, die wir uns angucken werden, haben 4 Prozesszustände.
+Ich könnte aber 12 machen, ist völlig egal.
+Nehmen wir aber mal 4, heißt wir haben hier unseren Start, dann laufen wir da durch, hier
+ist unser Punkt 1, dann haben wir irgendwo unseren Punkt 2, irgendwo unseren Punkt 3
+und irgendwo unseren Punkt 4 und dann haben wir wieder unseren Punkt 1.
+4 Prozesspunkte, 4 Übungen.
+Beschreiben wir uns einen Kreisprozess einfach mal.
+Es ist eine Folge von Zustandsänderungen, zum Beispiel von diesem Zustand zu dem Zustand,
+von dem Zustand mit einem bestimmten Volumen und Druck zu dem Zustand und so weiter und so fort.
+Sie erinnern sich, vor zwei Vorlesungen habe ich relativ viel Wert darauf gelegt in diese einzelnen Diagrammtypen.
+Was ist die Isobare, was ist die Isotherme, bla bla bla, im PV-Diagramm.
+Und im TS-Diagramm zu zeigen.
+Warum? Weil wir genau das dann machen werden.
+Das ist ein bisschen malen nach Zahlen.
+Wir werden am Ende anfangen, Linien zu verbinden.
+Und zwar eine Linie von einem Punkt zum nächsten Punkt,
+vom nächsten Punkt zum übernächsten und so weiter und so fort.
+So, Anfangszustand ist Ernstzustand.
+Das heißt, der kann durchgehen und periodisch verlaufen.
+Und die Zustandsgrößen sind allenthalber nicht konstant.
+Kleine Ausnahme, Kreisprozess im Lastdampfgebiet.
+Da haben wir auf einmal, aufgrund von diesem Verhalten im Lastdampfgebiet,
+haben wir zwei Parameter, die gleich gehalten werden können.
+Wir gucken aber erstmal nicht rein. Wir haben erstmal nur ganz grundsätzlich Kreisprozesse.
+Nächste Vorlesung gehen wir dann in die Kreisprozesse im Lastdampf.
+Deswegen mache ich ja noch eine mehr vor Weihnachten.
+So, habe ich schon gesagt, was sind so die Klassiker von Wärmekraftmaschinen, Motoren, Turbinen, Kraftwerken.
+Unter uns unten haben wir das Thema Wärmepumpe und Kühlschrank.
+Die sind allerdings links drin, ganz kurz gesagt.
+So, was heißt das denn jetzt?
+Wir haben, gucken wir mal auf die Maschinen.
+Wir haben eine Wärmekraftmaschine, also wir sind jetzt da nicht da rechts auf.
+Es gibt insgesamt noch ganz eigene Wärmekraftmaschinen und eine Wärmepumpe oder Kältemaschine.
+Die einen machen aus Arbeit Wärme oder Kälte und die anderen machen aus Wärme oder Kälte Arbeit.
+Eigentlich ganz einfach.
+Zweiter Hauptsatz.
+Kann übertragen werden, alles schön, alles gut.
+Was heißt das jetzt? Wenn wir uns das Ganze genauer angucken, in einem so einfachen Diagramm, heißt das, wir haben irgendwo ein Wärmereservoir, da ist es bockheiß, und ein Wärmestrom wird genutzt, um aus diesem System Arbeit zu generieren.
+Aber jeder, der sich schon mal irgendwie schön hinter den Auspuff geklemmt hat, weiß, dass es da ein bisschen warm ist.
+Es gibt auch Abwärmung.
+Es ist übrigens ganz besonders schön, wenn man alte Mopeds fährt, die ja keine Verkleidung haben,
+und dann auf Schienen bei Regenwasserfahrern so herrutscht, dass man zwar auch steht,
+aber dann auch genau auf dem Auspuff steht. Das ist großartig.
+Ich habe ja richtig schöne, lange Erinnerungen an meine Erwartungen.
+Gut, Wärmekraftmaschine. Ich habe etwas, ich habe ein Fluid.
+Wir hatten eben das Thema Kreisprozess, das heißt, es geht irgendwie um ein Fluid,
+das sich periodisch immer wieder gleich in Zustandsänderungen stellt.
+Wichtig ist, was wir hier schon sehen, bei einer Wärmekraftmaschine,
+Wir haben irgendwo Wärme auf einem hohen Temperaturniveau.
+Damit ein Wärmefluss entsteht, braucht es Wärme auf einem hohen Niveau, dass es überhaupt abgegeben wird.
+Und dieses wird zerteilt in Arbeit und Wärme auf einem geringeren Niveau.
+Gucken wir uns das Ganze hier mal an bei einer Kältemaschine.
+Ich mache gleich ein bisschen noch den Rückschrott.
+Und hier habe ich als Eingangsgröße ein kaltes Reservoir.
+Ich packe Arbeit mit rein und ich kriege Wärme raus.
+Das ist, was ich gerade beschrieben habe.
+Exakt das, was ich bei einer Wärmepumpe mache.
+Was macht eine Wärmepumpe? Eine Wärmepumpe nimmt den Luft draußen bei 8 Grad rein, packt Strom dazu und ich habe drinnen 19 Grad.
+Oder wenn die Kinder mal wieder ein bisschen hohl reden, 22 Grad.
+Naja, was soll ich dazu sagen?
+Oder alle krank sind. Oder beim Ofen, Leute. Aber dann hat es nichts mit der Wärmepumpe zu tun. Lassen wir das.
+Also, das ist das, was hier beschrieben wird. Jetzt haben wir eben schon gelernt, Kühlschrank.
+Warum ist denn Kühlschrank das gleiche Prinzip?
+Richtig, holt sich die Wärme von innen.
+Das ist, weswegen es hinten am Kühlschrank immer so schön warm ist.
+Weil die Wärmeenergie, die das Zeug, was ich da rein stelle zum Kühlen,
+Ich stelle mein Bier da meistens mit mehr als 10 Grad ein,
+will es aber mit weniger als 20 Grad rausholen.
+10 Grad, Entschuldigung.
+Weniger als 20 soll es auch sein.
+Sogar wenn ich locker erkältet bin.
+Aber Sie wissen, was ich meine.
+Also stelle ich da rein und dieses Getränk oder mein Käse oder was auch immer,
+meine vegane Wurst, die ich nicht mehr Muskeln nennen darf,
+heißt, da wird jetzt irgendwie Wärme entzogen.
+Und das ist das da.
+Diese Wärme wird entzogen. Auf der Rückseite von meinem Kühlschrank ist irgendwo unten dieser kleine Kompressor, der immer so schön rüttelt, wenn es gerade Vollgas gibt.
+Der sorgt dafür, dass da Arbeit reingepumpt wird. Und das, was dann passiert, ist, dass es hinten an meinem Kühlschrank schön warm ist.
+Das ist also das gleiche Prinzip. Das Einzige, was sich ändert, ist der Anschauungsraum.
+Weil das, was ich kühler mache, das ist das, wo die Wärme rausgenommen wird.
+Wir werden darauf zukommen, Thema Effizienzgrad größer 1, kennen Sie wahrscheinlich, große Diskussionen um Wärmepumpe, wie kann das sein, dass Sie eine Leistungskennziffer von größer 1 haben, wie kann das sein, dass es ein Wirkungsgrad, Sie alle wissen, was ein Wirkungsgrad ist, ein Wirkungsgrad ist nie größer als 1.
+Das habe ich so viele Jahre in meinem Leben gelehrt und dann kommt irgendein Energiemogel
+daher und sagt, es geht um einen Wirkungsgrad von 3.
+Das geht gar nicht.
+Doch geht.
+Weil nicht mit eingerechnet wird, dass die 10 Grad, die da draußen kommt, die kriege ich
+geschenkt.
+Das heißt, der Wirkungsgrad offiziell kann nicht größer sein.
+Aber dadurch, dass das da unten genauso geschenkt ist, sind wir auf einmal doch bei einem Wirkungsgrad
+der Größe.
+Das gucken wir uns aber dann nochmal, wenn es so weit ist, ein bisschen länger an.
+Wärmekraftmaschine, Kältemaschine, das ist das, was Sie mitnehmen müssen.
+Der eine Prozess rechts rum, der andere Prozess links rum.
+Gut, und genau da sind wir jetzt.
+Sehr schön.
+Und zwar rechtsdrehend.
+Rechtsdrehend heißt an der Stelle, wir haben einen Wärmekraftprozess, eine Wärmekraftmaschine.
+Auch das bitte übrigens in Ihre Form sammeln.
+Rechtsdrehend, Wärmekraft, linksdrehend, Kraftmaschine.
+Das ist tatsächlich auch so. Wir blicken mal auf eventuell herrschende Aufwärmstellung.
+Manchmal schreibe ich es dazu, aber nicht immer.
+Also packen Sie es besser bei sich mit drauf, dass Sie einfach wissen, wenn da steht Wärmekraftprozess oder aus X sind Y gemacht und X heißt nun mal Wärme und Y heißt Temperatur, dann wissen Sie was bei Kraft.
+So, wie gesagt, das, was wir jetzt haben, ist ein Idealprozess.
+Dieser Idealprozess, wir werden gleich auch darauf kommen, warum der nicht,
+das werden wir heute wahrscheinlich nicht schaffen,
+warum der nicht in der Realität wirklich genauso durchfahren werden kann.
+Wir nehmen uns trotzdem mal ein bisschen vor.
+Ich muss jetzt leider hier hochmachen, weil das ist ein bisschen schrubbelig.
+So.
+Ich habe wenig da unten zu schreiben, sondern mehr da oben.
+Das wird also schon um die Kante kommen.
+So, wir haben unterschiedliche Schritte, die durchlaufen.
+Fangen wir mal an. Von 1 nach 2. Wir haben hier eine Kraft, die ein Gas komprimiert.
+Also, von 1 nach 2. Arbeit rein.
+Wir sprechen definitiv nicht von einem isolaren Prozess.
+Wir sprechen auch nicht von einem isochoren Prozess.
+Hier oben steht da jetzt adiabatische Kompression.
+Ich könnte jetzt die rhetorische Frage stellen, wer weiß, wer das weiß, völlig egal.
+Wir hatten das schon mal gesagt, ich habe ein paar Mal darauf rumgeritten.
+Was heißt adiabatische Kompression?
+Das heißt, es kommt keine Wärme von außen hin.
+Das heißt an der Stelle aber nichts anderes als Isentrop.
+Auch das in irgendeiner Form gesammelt.
+Adiabat-Kompression, genauso wie Adiabat-Expansion, Isentrop.
+Wir haben jetzt Montag mit Herrn Hesse sich die Drossel angeguckt.
+Sie ist nicht Isentrop, sie ist Isentrop.
+Weil sie nicht Adiabat ist.
+So, heißt aber, diese Entropoprozessführung, wir fangen jetzt mal hier an irgendeiner Stelle an und sagen, also wir haben eine Kompression, das heißt der Druck wird auf jeden Fall mehr und das Volumen wird kleiner.
+Wir haben also einen Prozess, der ungefähr so aussieht.
+Hinterkopf. Das große Ding mit den einzelnen Prozessänderungen. Das ist ungefähr der Verlauf
+von einer Isentropen in PV, von 1 nach 2.
+Nächster Schritt, jetzt wird Wärme hinzugefügt.
+Wärme wird zugeführt und wir haben also eine Vergrößerung vom Volumen, wir haben aber keine Änderung vom Druck.
+Das heißt, wir haben eine isobare Wärmezuführung.
+Quatsch, nicht isobare, isotherme Wärmezuführung.
+Wärme wird zugeführt, aber die Temperatur bleibt gleich.
+Heißt, hier haben wir eine Isotherme-Reaktion.
+Das hier ist die Zentro-Isotherme-Expansion.
+Expansion, auch relativ klar, hat man glaube ich auch in der ersten Vorlesung schon, Expansion
+heißt genug wird mehr. Und wir sind auf einer Isotherme. Auch da, wir haben das in unserem
+Diagramm alles drin. Da steht, wie verläuft eine Isotherme in einem TV-Diagramm. Da brauchen
+Sie gar nicht nachdenken, da brauchen Sie nur nachgucken. Das Einzige, was Sie identifizieren
+müssen, in welche Richtung geht mein Prozess. Und da hilft Logik, wenn Wärme dazu und es steht auch
+noch Expansion drin, dann wird wahrscheinlich das Volumen größer. Und da gibt es dann anhand
+dieser Linie nur einen Weg. So, von zwei nach drei haben wir jetzt etwas Folgendes. Einmal kommt Wärme
+rein. Was passiert hier noch? Arbeit geht raus aus dem System. So, nächster Schritt.
+Das Ding ist vollständig soweit abgebaut. Wir haben aber weiterhin jetzt diese Isentrope
+Expansion.
+Isentrope Expansion
+verläuft genau gegenleuchtend wieder.
+Wir haben also irgendwie sowas.
+Auch da wieder Expansion.
+So, ich bin hin, wo es irgendwie mehr werden.
+Ich bin in meinem Zustand 4.
+Und hier habe ich jetzt Folgendes,
+dass ich eine,
+vielleicht noch ganz kurz,
+von 3 nach 4,
+Da geht jetzt Arbeit raus über die Expansion und jetzt habe ich hier folgendes, jetzt verdichte
+ich wieder, aber ich verdichte auch in ein ferner Reservoir, das heißt zu der Stelle
+wieder isotherm, weil die Wärme gleich abgeführt wird. Von 4 nach 1 haben wir also Wärme raus
+und wir haben auch wieder Arbeit, die reingesteckt wird ins System.
+Wenn man sich die Frage stellt, was macht denn irgendein komischer Mensch durch den Aufwand
+und denkt, dass man nur da irgendwie so mit dem Pömpel irgendwie Dinge komponiert oder nicht.
+Da irgendjemand aufgefallen ist, dass wenn man diese einzelnen Prozessführungen so schafft,
+dass man insgesamt Arbeit rauskriegt, wenn man Wärme reinsteckt.
+Wir haben eine Wärmekraftmaschine.
+Das heißt aber auch, wenn man sich eine Wärmekraftmaschine jetzt mal ganz kurz idealisiert vorstellt,
+weil wir es nachher eh noch mal machen, machen wir ruhig den kleinen Vortritt, sowas schaffen.
+Was passiert denn in einem Verbrenner?
+Ich habe eine Kompression.
+Ich habe eine Explosion oder eine Zündung, ich habe ein Ausfahren von meinem Zylinder
+und ich habe, dass das Gas wieder rausgeschoben wird und mit dem Gas wird gleichzeitig auch
+die ganze Abwärme rausgeschoben.
+Das da.
+Das wird nicht nur das Gas rausgeschoben, sondern es wird auch das Gas und Abwärme rausgeschoben.
+Das ist das, was mein Ausdruck so scheißen lässt.
+Das steckt da drin.
+Bisschen andere Prozesse, aber das steckt da drin.
+Okay?
+So, wir machen uns jetzt die Mühe und gucken nochmal genauer rein.
+Wir haben eine Isentropikonfession, eine Isothermexpansion.
+Isentropiexpansion Isothermekompressor
+Das haben wir uns jetzt alles soweit angeschaut
+Was heißt das jetzt schon in unserem
+Atem?
+Das ist ja im Grunde nur das Abbild von dem da
+Also nicht editieren lassen
+dass wir hier jetzt zwei unterschiedliche Dinge machen
+Was wir noch dazu führen ist
+dass wir es im TS-Diagramm aufführen
+auch hier
+rechts drehen
+Isotherme, Isentrupe, Kompression, Kompression heißt, Temperatur geht wahrscheinlich hoch,
+Isentrupe, wir bleiben also auf der gleichen Entruppung,
+Isotherme, Expansion, was passiert bei einer Expansion, die Entruppung wird auf jeden Fall mehr,
+Dann haben wir also diesen Schritt, dann haben wir eine Isentrope-Expansion, Isentrop heißt, wir haben gleiche Entropie, Expansion heißt auch, dass da irgendwie, wahrscheinlich, Energie das Ganze verlässt, bei einer Entspannung.
+Ein bisschen kontraindiziert, wie man normalerweise hat, wenn man Entspannung kriegt, dann kriegt man die Energie wieder.
+Hier heißt es, dass da irgendwie Energie rausgeht.
+Heißt aber auch, dass die Temperatur dann abnimmt.
+Ich gehe also hier runter.
+Und dann haben wir wieder eine isotherme Kompression.
+Isotherm.
+Ich bleibe noch einmal.
+Entschuldigung.
+Wir bleiben auf dem gleichen Temperaturniveau und gehen den Prozess durch.
+So, jetzt gehen wir die Schritte mal einzeln durch.
+Von 1 nach 2 Isentrupe kommt es.
+Wir gucken uns jetzt einfach mal die einzelnen Schritte an, weswegen ich diese hier schon
+Und zwar, was haben wir am Anfang gemacht?
+Eine isentrope Kompression, das heißt wir müssen nur irgendeine Arbeit dem Ganzen zufügen.
+Im PV-Diagramm sehen wir auch Arbeit.
+Wir haben also eine Arbeit, die wir dem System zuführen.
+haben wir in diesem Prozess
+Wärme, die wir zuführen.
+Kann jeder sehen?
+Da wird schon ein bisschen
+fast gelöst.
+Wie sieht das bei anderen aus?
+Haben wir hier eine Wärme?
+Jeder von Ihnen sieht es.
+Was bedeutet Wärme im TS-Diagramm?
+Was bedeutet Wärme im TS-Diagramm?
+Ich kann ein Integralbilden. Kann ich hier ein Integralbilden von 1 nach 2?
+Nein. Keine, ja.
+Ja, das schreibst du aber falsch hin.
+Was?
+So, nächster Prozess, isotherme Expansion.
+was passiert hier? Hier wird das ganze Thema Wärmezufuhr, da ist das Wärmereservoir,
+da ist die Exklusion bei dem Verbrenner, das heißt auch hier wird Wärme zugeführt,
+das ist das erste was wir hier oben auch sehen können, denn hier haben wir gesichert irgendein
+Integral noch. Von 1 nach 2 ist Q2,3.
+das wird am Wärme zugeführt
+und gleichzeitig
+was kriege ich hier noch raus
+bei der isothermen Expansion
+mit der Arbeit gewonnen.
+Wir gehen nochmal einen Schritt zurück.
+Wir sind hier.
+Durch diese Wärmeverzugung und die Expansion
+kriege ich Arbeit raus,
+aber ich muss die Wärme reinstecken.
+Wärme rein,
+aber ich kriege Arbeit raus.
+Und die Arbeit kann ich auch sehen.
+Das ist diese Fläche.
+Nächster Schritt.
+Wiederholt sich.
+Kanon ist der einfachste, weil es sich einfach zweimal das gleiche wiederholt.
+Isentrop. Isentrope Expansion. Eben hat man schon gesagt, was passiert mit Wärme bei Isentrop?
+Genau gar nichts. Das heißt, wir haben hier eine reine Arbeitsabfuhr.
+Hier sehen wir auch die Arbeitsabfuhr.
+So und jetzt passiert im letzten Schritt folgendes, isotherme Kompression, auch da können wir
+gerne nochmal, was passiert hier, okay, Wärme wird irgendwie abgefüllt, aber Arbeit wird
+reingesteckt, alles klar, dann zeichnen wir das doch genau mal so ein, das wird abgeführt,
+Und das, was ich abführe, ist der Lärm.
+Aber ich stecke Arbeit rein.
+So, was fehlt jetzt noch? Jetzt fehlt noch die Flächendarstellung.
+Und zwar, wenn ich hier Arbeit reinstecke, bzw. die Wärme rauskriege, führt das natürlich auch wieder dazu, dass ich etwas aufbringen muss.
+Und zwar das hier ist noch das, was ich dann an Arbeit aufzubringen habe.
+Im Umkehrschluss, ich generiere Abwärmen, das ist also eigentlich ein Gewinn, den ich
+mir auf der Seite hier in meinem Diagramm erwirtschafte.
+Und wir sehen wieder das Gleiche.
+Für jeden einzelnen Prozessschritt, das was hier drin steckt, ist genau das.
+Arbeit rein, Arbeit raus.
+Wärme rein, Arbeit raus.
+Wärme rein, Arbeit raus.
+Entschuldigung.
+Arbeit raus.
+Arbeit raus, Arbeit raus.
+Wärme raus, Arbeit raus.
+Wärme raus, Arbeit raus.
+Wärme raus, Arbeit raus.
+Und ich kann es jetzt über die Flächenvergleiche darstellen.
+Und das Schöne ist, an diesen Flächenvergleichen, ganz kurz, wir sehen sogar, was wir an nutzbarer Arbeit generieren.
+Das da.
+Sie erinnern sich an die Aufgabe vom letzten Mal, mit dieser inneren Arbeit, genau das gleiche.
+Über alle vier Prozessschritte sehen wir, das da ist die generierte Arbeit.
+Und wir sehen auch, dass da ist der notwendige Aufwand.
+Was nicht ganz stimmt, weil meistens Abwärme nicht genutzt werden kann.
+Aber könnte ich die nachnutzen, mehrstufige Toninen-Kraftwerke zum Beispiel, nur so ein ganz kleiner Exkurs,
+dann bin ich in der Lage, das da rein, nur das da oben als Aufwand zu betreiben und das da als Nutzen zu gewinnen.
+Auch das, so ein Wort, bitte einfach zu Hause nochmal durchgehen.
+Habe ich das wirklich gecheckt?
+Was heißt an der Stelle eigentlich nutzen und was heißt an der Stelle Aufwand?
+Wir werden das in der nächsten Vorlesung noch mal ein bisschen intensiver besprechen,
+aber nur, dass Sie da so ein bisschen ein Gefühl dafür kriegen.
+Wir sprechen jetzt nicht mehr von den Einzelprozessen,
+sondern jetzt von einer Maschine, die eine Aufgabe hat.
+Das gilt für alles.
+Endgegner heißt Kreisprozesse.
+Wir sind kurz vorm Endgegner, wir sind schon beim Kreisprozess.
+Und dieser Endgegner ist eine Maschine.
+Die Maschine hat irgendeinen Aufwand und die Maschine hat irgendeinen Nutzen.
+Okay?
+Gut.
+Rechnen wir mal ein bisschen durch.
+Keine großen Sachen, gar nichts Schlimmes.
+Ich muss hier mal einmal ganz kurz ein Pack machen für mich selbst.
+Und rein.
+Sehr schön.
+So.
+Genau das, was ich eben eingezeichnet habe, gucken wir uns jetzt noch mal genauer an.
+Und zwar in den einzelnen Prozessschritten.
+Was passiert gerade hier im Blech?
+In unserem Prozessschritt 1 nach 2.
+Arbeit geht rein und die Änderung der inneren Energie ist dem gleichzusetzen.
+Das ist alles Vorbesorgung, also ist überhaupt nichts Neues.
+Voraussammlung gucken,
+Isentropikompression,
+was habe ich da?
+Ich habe Arbeit und die Sektion.
+Von 2 nach 3
+habe ich
+Wärme
+und dadurch, dass die
+innere Energie in Null ist,
+habe ich
+den Gegenwert auf der
+Arbeitsgewinnungsseite.
+Von 3 nach 4,
+also dort auf der Seite,
+Ich habe wieder nur Arbeit, damit ist die innere Energie wieder die gleiche von 4 nach 1, im Grunde der Gegenentwurf, zu 2 nach 3.
+Gucken wir uns die Summe mal an.
+Die Summe der inneren Energien, okay, hebt sich wieder auf.
+Ich lasse Sie erstmal mal abstatten.
+Vielen Dank.
+Gesundheit.
+Können Sie kurz ein bisschen rübergehen?
+Das geht.
+Vielen Dank.
+hier sehen. Der Ende der inneren Energie hebt sich selbst wieder auf. Wenn man hier mal die Summen bildet über alle Prozessschritte, sehen wir, was eigentlich
+selbsterklärend ist, wenn ich nach der inneren Energie Delta U gleich 0 habe, dann ist natürlich Delta Q und Delta W genau gleich groß vom Betrag her.
+Das steht hier drin.
+Das ist natürlich die Frage, wie kommen wir dann auf so eine Aussage?
+Leiten Sie mal einmal Dr. Stutz her.
+Schauen wir da mal drauf.
+Wir haben die Summe, und jetzt nehme ich einfach mal von Q.
+Das da, Q2,3 minus das da, Q4,1.
+Wenn wir das jetzt mal ausformulieren.
+S3 minus S2 und S2 minus S3, was ist das?
+Ertragsmäßig auch das Gleiche.
+Das heißt, wenn wir uns das jetzt weiter angucken,
+TW mal Delta S minus TK mal Delta S.
+Das heißt aber auch T W mal Delta S mal 1 minus, und jetzt bilden wir einfach den Gegenwert T K zu T W.
+Was ist hier W mal Delta S?
+Das ist das Schöne an so einer Kanonmaschine, wenn man sich das anguckt,
+Die Summe von dem, was ich dabei herauskriege,
+es ist ein bisschen schade, dass man das so de facto realitätsnah gar nicht genau hinkriegt,
+würde man es hinkriegen, hätte man halt dieses ideale Gleichgewicht aus Wärme und Arbeit
+und es bestimmt sich nur über die Wärmemenge, die spezifische Wärmemenge,
+die zufügen, das ist das.
+und dem Verhältnis der beiden Temperaturen.
+Das ist auch auf der nächsten Folie nochmal zusammengebracht.
+Der Aufwand, den wir reinbringen, das ist das Q2,3
+und der Nutzen, den wir rauskriegen, Q2,3 mal 1 minus 10°C.
+Heißt aber auch eine Leistung, die ich berechnen kann, relativ stumpf.
+Er gibt sich hier raus und den zugefügten Wärmestrom, der gibt sich jeweils auch aus der Masse.
+So weit, so gut. Das war eineswegs Unbekanntes.
+Die interessante Frage stellt sich jetzt eigentlich erst, wenn wir sagen, wie kann ich denn einen KMU-Prozess umfragen?
+Gut heißt ja, bei gleichem Aufwand, möglichst viel Nutzen.
+Wie kriege ich da möglichst viel Nutzen hin?
+Das stimmt.
+Wir erreichen ja vor allem
+möglichst wenig Abwertung an der Stelle.
+Ganz, ganz mathematisch
+probieren wir mal drauf.
+1 minus TK zu TW.
+Je größer meine Temperaturlieferanz,
+desto mehr ist mein Nutzen.
+Das passiert bei großer Temperaturdifferenz dieser Koeffizienten.
+Je mehr Temperaturdifferenz, desto kleiner wird der Koeffizient, desto größer wird der Nutzung.
+Ah, hier sehen wir nochmal, sehr schön.
+Effizienzsteigerung im Carnot-Prozess, einfach über andere Temperaturen.
+Jetzt haben wir noch eine Definition, die wir mitnehmen müssen, und zwar genau den hier.
+Das ist der gleiche Faktor wie der da.
+Damit so ein bisschen das Link zwischen den beiden Folien klar ist.
+Aber auch zu dem, was ich eben gefragt habe.
+Wie kriege ich hier möglichst effizienten Prozess?
+Möglichst effizienter Prozess, großer Wirkungsgrad.
+Großer Wirkungsgrad steckt genau da dann drin, wie ich den groß machen kann.
+Deswegen ist hier genau so der Wirkungsgrad definiert.
+Der Wirkungsgrad von Wärmekraftmaschine allgemein, Nutzen zu Aufwand.
+Und wenn man das weiterführt in Kanon, natürlich auch Nutzen zu Aufwand.
+Und das ist nachher nur noch dieser Faktor.
+Warum?
+Was war die zugeführte Wärme?
+1, 2, 3, damit kann ich das dann, damit, das könnten zum Beispiel so Fragen sein.
+Es ist eines der wenigen bunten Diagramme, was ich nicht selbst skizziere, was trotzdem
+prüfungsrelevant sein könnte. Punkt.
+Wobei die Verlauf, den werden wir jetzt nicht abphilosophieren und dann abrezitieren wollen haben,
+Aber so grundsätzlich, wie kriege ich den Wirkungsgrad in eine Kanonmaschine rein?
+Das steckt da drin.
+So, ganz wichtig, aber vor allem folgendes.
+In der Realität gibt es keine Maschine, in der wirklich vollständig ein Kanonprozess durchlaufen werden kann.
+Aber, und das beantwortet so ein bisschen die Frage, warum wird trotzdem immer wieder der Kanonprozess hergeholt?
+hergeholt, weil der Kanonprozess
+als Wärmekraftprozess
+und tatsächlich auch nachher als Kraft-Wärme-Prozess,
+das machen wir nächste Woche,
+der ist so das Nonplusultra.
+Ein Prozess, der
+für ein bestimmtes,
+also wir können jetzt für einen beliebigen
+Prozess, in der eine Wärme
+zuführt,
+und das Delta-T-Wissen,
+und wir absolut
+den Koeffizienten von den beiden
+T's wissen,
+können wir sagen, was ist der Wirkungsgrad
+den ich mit diesem Prozess, mit dieser zugeführten Währung schaffen kann.
+Und jetzt kann ich vergleichen, ein anderer Prozess, wie viel von der Effizienz eines Kanonprozesses kriegt der noch hin.
+Deswegen sprechen wir von unterschiedlichen Wirkungsgraden.
+Das eine ist der Kanonwirkungsgrad von einem Prozess, das ist immer dieses Idealisierte.
+Da drüber geht nicht. Und der Effektivwirkungsgrad eines Prozesses ist dann ein Bestandteil vom Kandelwirkungsgrad.
+Das auch nochmal mitnehmen.
+So. Zusammenfassung.
+Nochmal zusammenfassend. Wärmekraft. Was passiert? Wärmekraftprozess.
+Wärme wird genutzt, äh, wird benutzt und Arbeit wird genutzt.
+Wichtig, hohes Niveau, da wird Wärme zugeführt, da wird die Arbeit, das hohe Temperaturniveau wird genutzt, damit dort Arbeit generiert wird.
+Und das niedrige Temperaturniveau wird die Wärme wieder abgeführt.
+Ansonsten würde keine Energie passieren, trotzdem nochmal genau hingeschrieben.
+Kano-Wirkungsgrad nur vom Verhältnis Td zu Tk, deswegen stellt er auch dieses Optimum dar.
+Und theoretischer Vergleich.
+Ganz wichtig, tvergleichs ist es.
+Das kennen wir, spezifische Wärmemengen und Arbeiten können jeweils dargestellt werden.
+Und wir haben insgesamt die Flächen, auch die haben wir uns angeschaut.
+Sie erinnern sich hier an dieses Beispiel zum Beispiel.
+In den Flächen können wir sehen, was geht jetzt rein und was geht raus.
+Gut.
+Der Vollständigkeit halber noch, weil ich dir das sehr gerne mache und weil ich es jedem empfehlen kann, einfach mal reinzugucken, damit man so ein bisschen auch mal aus dieser blöden, grauen Theorie eines Kanonprozesses ausguckt.
+Mir persönlich hilft das immer, das auch mal an echten Beispielen zu sehen.
+Otto-Motor, Dieselmotor, Stirling-Motor, Joule-Prozess.
+Das Joule ist ein klassischer Prozess für Dampfkraftwerke, tatsächlich nur dann halt nicht in einem normalen, idealen Gasgebiet, sondern durch komplett den Phasenwechsel.
+Links steht Andrei, gucken Sie mal rein.
+Und an der Stelle machen wir nächste Woche weiter.
+Noch ein Hinweis, ganz kurz, Donnerstag stelle ich rein, ich kümmere mich um Raum etc.
+Die kriegen Info, behalten sich aber schon mal.

@@ -1,0 +1,1454 @@
+Wir haben ja diese ersten Folien da, also es geht um die halb unendlichen Körper, Kontakt von zwei Körpern, die am Anfang unterschiedliche Temperaturen haben und dann hinterher sich die Temperaturen angleichen.
+Da gibt es diese Kontaktstellentemperatur und die steht von Anfang an fest und verändert sich über die Zeit interessanterweise nicht.
+und etwas eindringend ins eine und ins andere Material gibt es halt Temperaturverläufe.
+Die hatten wir da so bunt Regenbogenartig dargestellt.
+Sie sehen es vielleicht noch so ein bisschen überblendet auf Ihrem entsprechenden Folienskript.
+Und dazu hatten wir eine Aufgabe gerechnet, die eigentlich da so durch exemplarisch ist
+und das ist eigentlich auch so das Niveau, womit wir uns auseinandersetzen müssen,
+wenn wir halb oder endliche Körper haben.
+Das heißt, wir können, das war in dem Falle eine heiße Bratkwanne auf den kalten Holztisch oder so,
+Wir können uns damit also zum einen die Kontakttemperatur ausrechnen und da waren die Pfanne, ich weiß jetzt nicht mehr, 180 Grad oder so und dann wurde die Kontakttemperatur bei 175 Grad oder so ganz stark geprägt von dieser heißen Pfanne und der Tisch war, weiß ich nicht, vielleicht 20 Grad.
+Und das ist mal das eine, das liegt daran, dass die entsprechende Wärmepapazität von der Brackpfanne höher ist und die Temperaturleitfähigkeit höher ist.
+Das heißt, im Endeffekt ist dieses Fusseisen als Material deutlich stärker temperaturgebend und prägend als der Holztisch.
+Und dann können wir aber auch so Aufgaben beantworten wie, wie heiß ist es zwei Millimeter in dem Holz drin nach 20 Minuten oder irgendwelche dergleichen Arbeiten, bei denen wir immer transferieren über diese sogenannte Error-Funktion,
+die uns tabelliert vorliegt
+in der Formelsammlung
+und uns einen Transfer gibt
+von dem, was das Funktionsargument ist
+wo jetzt also bestimmte
+zeitliche Verläufe dargestellt werden
+und Eindringtiefenverläufe
+also ein paar Zentimeter in dem einen oder anderen Material drin
+und auf der anderen Seite
+diesem Formelapparat, den Sie auch in der Formelsammlung
+vorfinden, der eben
+Ihnen die
+entsprechenden dimensionslosen
+Temperaturen
+vorgibt. Irgendwas, was mit der
+Kontakttemperatur hat, was mit der Temperatur
+des Ausgangsmaterials A und
+des Ausgangsmaterials B zu tun hat.
+Und ich denke,
+damit kann man die halbunendlichen Körper
+soweit einigermaßen
+gut greifen
+und nutzen.
+So, jetzt ist
+mein Regner soweit, dass er wenigstens mal
+wieder einen Startbildschirm zeigt. Sie sehen das da. Jetzt nur noch Powerpoint sich öffnen,
+das wird wahrscheinlich noch eine Zeit dauern. Dann schauen wir weiter. Dann hatte ich einen
+zweiten Teil mit Ihnen angesprochen und der ist eigentlich ein bisschen hemmsärmeliger und
+angenehmer. Da ging es dann um diese einfachen Körper mit konvektivem Werbeübergang. Das heißt,
+wir können einmal als einfachen Körper irgendwelche Platten haben, wir können zum
+anderen auch irgendwelche zylinder haben oder wir könnten theoretisch auch kugeln haben die
+werden wir aber nicht weiter fokussieren das heißt wir haben zwei geometrien entweder platten oder
+zylinder und bei den platten haben wir uns eine aufgabe angeguckt das heißt hier wie 11 wenn ich
+das richtig sehe und die idee wie es funktioniert ist dass man über so ein diagramm einen bezug
+herstellt zwischen drei verschiedenen jeweils dimensionslosen und vielleicht eher weniger
+vor dieser vorlesung sicherlich nicht bekannten größen ist einmal natürlich die
+dimensionslose temperatur die hat mehr von detektiert an verschiedenen stellen gehabt
+dann haben wir die bio zahlen und dann haben wir die folie zahlen und die geben uns zum einen
+Indikator, das ist die
+Biozeit, wie stark ist die
+Konvektion gegenüber der Wärmeleitung
+also es geht um diese zwei
+Charakteristika
+das ist die
+Konvektion und die Konvektionsgeschwindigkeit
+und das ist die Wärmeleitung
+da hat man auch gesagt, wenn die Biozeit groß ist
+dann sieht es mehr so aus, dass
+es geprägt ist durch die
+Wärmeleitung und
+Und jetzt andersherum ist es mehr entgegen durch die A, da sind Updates.
+Na wunderbar.
+Die dann entsprechend durch das andere.
+Also das haben Sie aber hoffentlich so ein bisschen mitgeschnitten, da hatten wir auch so ein Bildchen zu gemacht.
+Dann haben wir die Fourier-Zahl, die kam jetzt in der letzten Stunde, glaube ich, ganz neu hervor.
+Und die ist die dimensionslose Zeit.
+Es geht also ein Stück weit darum, dass wie lange nach irgendwelchen kontaktgebenden Momenten wir uns ein Problem anschauen.
+Bei den halb unendlichen Körper, die machen wir aber jetzt gerade gar nicht mehr weiter,
+da war es der Moment, wo ich die heiße Pfanne auf den kalten Tisch stelle.
+Wir hatten aber auch die Aufgabe, irgendwas wird hier mit irgendeiner Strahlung angeblasen,
+irgendeine Edelstahlplatte oder so und dann ab diesem Moment zählt also die Zeit los
+und die nächste Aufgabe, die wir jetzt gleich noch rechnen wollen,
+ich glaube, das ist bei Ihnen, das kommt noch mit, ist dieses, das heißt Wiener Wurst,
+also es geht einfach darum, dass man irgendeinen Körper, nehmen wir mal die Kreide,
+der kalt ist am Anfang, in heißes Wasser reinschmeißen und dann uns überlegen,
+wie lange dauert es, bis die Außenmantel irgendeine Temperatur erreicht
+oder die Mitte von diesem Körper irgendeine Temperatur erreicht.
+Wunderbar, KI, die für Sie arbeitet.
+Das ist der Grund, warum wir heute den größten Absturz haben.
+Und, jo, das brauchen wir zwar nicht, aber ich würde mal hören, ich aktiviere es.
+So, und jetzt sieht es auch fast so aus, als hätte ich vielleicht eine Chance, Ihnen wieder mit Bildern was zu zeigen.
+macht in diesem Fall schon mehr Spaß.
+Das habe ich gerade alles versucht, so akustisch zu hinterlegen.
+Ich hoffe, es war erkenntlich.
+Zweites Thema da hinten war die Biozeit an dieses entsprechende Diagramm,
+mit dem ich dann navigieren kann zwischen diesen drei Größen, die ich gezeigt habe,
+und hier in der Anwendung, wie man das macht.
+Und das ganze Spielchen wollten wir jetzt einmal mit der Wiener Wurst durchspielen.
+Würde ich gerne mit Ihnen machen.
+Frage, wer hat es denn versucht?
+Ich hatte ja die Lösung schon hingeschrissen.
+Wer hat es denn schon versucht?
+Sie haben es mal sehr gut angeguckt und hat es gepasst?
+Sie konnten da gut drauf navigieren.
+Super.
+Dann dürfen Sie sich jetzt in dem Fall vielleicht zwei, drei Minuten zurücklehnen.
+Oder vielleicht, wenn Sie wollen, können Sie uns kurz ein bisschen erklären, wie Sie da vorgegangen sind.
+Vielleicht sagen Sie doch mal, was haben Sie denn als erstes gemacht?
+Ja, das Kochrezept besagt was?
+Ja, also am Ende ist es genau das da.
+Wir haben drei solche entsprechenden Größen, die wir brauchen.
+Fouillé, Bio und
+dimensionslose Temperatur
+und die müssen wir jetzt alle belegen
+da müssen wir mal gucken, welche von diesen Größen
+wir denn
+bekommen
+eine gute Idee ist
+da oben steht einiges drin mit
+Alpha, Lambda und so weiter
+und
+hier steht was wichtiges
+12 mm hat die Durchmesser
+wenn die 12 mm Durchmesser hat
+und ich schreibe mal als erstes
+einfach die Biozahl hin
+dann ist es also nichts anderes
+das können wir auf Formel sammeln
+Alpha Delta X
+durch Lambda
+und
+dieses Delta X
+was ist denn
+Delta X
+ja genau es ist eben nicht diese zwölf millimeter durch besser sondern eben der radius ja also das
+ist der abstand von der mitte nach außen ist gleich 0,00 das ist eigentlich fast schon die
+die einzige Transferleistung, die man an der Stelle bringen muss.
+Wenn Sie das jetzt mit Stirnrunzeln verantworten, dann vielleicht ganz kurz nachschauen.
+Wir haben an der Stelle, wo diese Biozahl eingeführt wurde, dieses Delta X, auch auf einer Folie mal definiert.
+Und das ist je nach Geometrie eben unterschiedlich und je nachdem, wie die adiabaten oder nicht adiabaten Randbedingungen sind.
+Das heißt, wird etwas von einer oder zwei Seiten gekühlt oder gewärmt.
+In diesem Fall wird rundherum die Wärme damit übertragen.
+Das heißt, dass diese Wiener Wurst, die ja kalt ist am Anfang, von allen Seiten aufgewärmt wird,
+wenn ich sie ins heiße Wasser schmeiße, nicht nur irgendwie auf der einen Hälfte oder sowas.
+und deswegen spielt hier in diesem Falle der Radius als treibende Größe in der Rolle.
+So, dann haben wir also diese Bio-Zahl berechnet,
+dann können wir die Fourier-Zahl ebenso berechnen,
+die ist a mal t durch Delta x und hier ist das Quadrat, bitte Achtung,
+ich mach das mal so mit einer Klammer,
+Und A habe ich jetzt, hier außen vielleicht nochmal zu schreiben, ist Lambda durch OC und das ist 0,125 mal 10 hoch minus 6 Meter Quadrat pro Sekunde.
+Und ich bitte zu entschuldigen, jetzt habe ich etwas unnötig an den Rand geschmiert.
+Also 0,125 mal 10 hoch minus 6 Quadratmeter pro Sekunde.
+Das ist das A, das können wir direkt aus den Zahlen aus der Angabe hier oben berechnen.
+Das ist die Temperaturleitfähigkeit, ein materialspezifischer Parameter,
+der einfach ein Stück weit
+im Formel
+das Ganze etwas beschleunigt
+zu berechnen
+die
+die ist also eine Eigenschaft
+von diesem, naja, Fleisch
+oder was es ist
+0,21 ist dieser Wert
+den wir bekommen für die Fourier-Zahl
+ich denke das sollte
+dann für Sie
+nachvollziehbar sein
+und das Ganze
+ist ja eine Fourier-Zahl
+die gilt bei
+t gleich 60 Sekunden
+wir hatten ja vorher gesagt
+die Fourier-Zahl
+ist die dimensionslose
+Zeit
+das heißt, das was wir jetzt mit der Fourier-Zahl
+Bekommen ist eine für diese Art von Material, Wiener Wurst, normierte und für diese Geometrie, nämlich ein Stab, ein Zylinder, normierte Zeitabfolge.
+Wenn Fourierzahl 0 wäre, würde das bedeuten, die Zeit ist 0 Sekunden und die Fourierzahl geht dann in hohe Zahlenwerte, wenn wir die Zeit nur weit genug fortschreiten lassen.
+Das ist eben ein Zusammenhang, der jetzt sehr materialspezifisch, wie gesagt, sich ergibt.
+So, dann haben wir Biot und Fourierzahl, jetzt haben wir das mit der dimensionslosen Temperatur.
+Und da haben wir jetzt die Frage, Theta-Stern an der Oberfläche, das kann ich hier leider nicht schreiben.
+Eine Sekunde bitte.
+Welche Temperatur stellt sich nach einer Minute, das ist also diese 60 Sekunden, die hatte ich hier gerade eingesetzt,
+an der Oberfläche und in der Mitte
+also jetzt
+natürlich will ich am Ende die
+absolute Temperatur
+aber als ersten
+Arbeitsschritt sollte ich
+mir jetzt die dimensionslose
+Temperatur angucken
+weil in diesen drei
+Größen hier
+navigiert mir ja diese
+Tabelle oder dieses Diagramm
+nennen wir es Diagramm
+Also, das hatte ich, das hatte ich, und hier drauf arbeiten wir.
+Und jetzt gehe ich auf die folgende Folie.
+Oje, das ist bei Ihnen alles schon aufgeblendet gewesen, das war mir jetzt nicht mehr bekannt.
+Dann haben wir hier die menschungslose Temperatur der Zylinderoberfläche und die entsprechende,
+also das ist jetzt das Diagramm, was wir brauchen, wenn wir die Oberfläche anschauen wollen, hier oben.
+Und wir haben uns Zylinder als Geometrie und jetzt nehmen wir hier die entsprechenden Zahlenwerte, wo sind wir unterwegs gewesen, ich habe das nicht genau auswendig, also 5,2 war das hier unten, so 1, das ist die 2, das ist die 3, 4, 5,2, das ist also etwa hier, 5,2.
+Bitte bei Klausuraufgaben immer kurz reinschreiben, was Sie da machen,
+welche Zahlen werden Sie versuchen zu nutzen.
+Dann Fourier-Zahl 0,21 und jetzt haben wir einen blöden Fall,
+das liegt jetzt zwischen diesen zwei bekannten Größen hier,
+da müssen wir also so ein bisschen, naja, händisch, freihändisch interpolieren.
+Überlegen wir uns ganz kurz, dass zwischen 0,1 und 0,25,
+es ist wahrscheinlich ein bisschen näher an der unteren Linie, was wir da suchen. Also ich versuche
+das jetzt mal mit einem roten Farbstift hier rein zu skizzieren. Das gelingt so einigermaßen und dann
+dann können wir, vielleicht beim Grün, versuchen, hier die Übertragung zu bekommen.
+Das heißt, wir wollen von hier nach hier gehen in etwa.
+Und wo wir da genau rauskommen, naja, das mag mal dahingestellt sein.
+In meiner später gewählten Zahlenvariante ist 0,16 hier der Fall.
+Das könnte aber bei Ihnen natürlich auch 0,15 oder irgendeine andere Zahl sein.
+Wissen Sie es noch? Sie haben vorhin gesagt, Sie haben die Aufgabe gerechnet, haben Sie da wahrscheinlich was anderes interpretiert, oder?
+Ja, 0,16, hatte ich auch.
+Hatten Sie auch, okay. Also das ist natürlich ein bisschen eine Glückssache, wo man da genau rauskommt.
+Aber für Sie keinen Unterschied, wenn Sie da jetzt 0,15 hätten, dann kriegen Sie in der Klausur auch nicht weniger Punkte.
+Wichtig ist, dass Sie das da hinschreiben, was Sie da rausgefunden haben und dann damit halt vernünftig weiterrechnen.
+Ich gehe jetzt zurück auf die leider dann ziemlich verschmierte Folie.
+so zum Glück
+und schreibe da noch den Rest hin
+also da haben wir jetzt aus der Grafik
+ich schreibe ganz bewusst in grün
+aus Grafik 0,16
+in meinem Zahlenwert
+und dann geht es in blau weiter
+ist nichts anderes als
+die Temperatur von einem Ort und einer Zeit
+irgendwo
+minus Temperatur an dem All, also ganz weit weg,
+das heißt in dem heißen kochenden Wasser oder nahezu kochenden Wasser
+und die Anfangstemperatur, das ist die von der Wiener Wurst
+und dann hier wieder diese entsprechende Umgebungstemperatur.
+Und dieses Theta X und Tf ist nichts anderes als diese Temperatur an der Oberfläche,
+Das ist nämlich genau der Ort, den Sie bestimmen und bespielen durch dieses Diagramm.
+Und da kommt dann raus, Theta-Oberfläche, wenn Sie das umstellen, ist, wenn man diese Zeile entnimmt, 7,8,8.
+So, und gleiches Spiel können wir jetzt auch machen für die Temperatur in der Mitte.
+Da schreibe ich aber vielleicht auch die nächste Folie mit drauf, da wo ich das Diagramm habe.
+Dann ist es vielleicht einfacher.
+Haben Sie alles schreiben können? Wahrscheinlich müssen Sie noch kurz notieren.
+Passt soweit? Ja? Gut.
+Die Grafik konnten Sie hoffentlich so einigermaßen ähnlich für sich da ablegen.
+Ist ja bei Ihnen im Folien-Satz auch drin.
+Jetzt gehen wir auf die Temperatur der Zylinderachse, also das ist die Mitte.
+Und wenn es außen fast 80 Grad hat, ja, nach 60 Sekunden, okay, hat ein bisschen gedauert,
+da wird jetzt wahrscheinlich das Fleisch dann schon gar.
+wie sieht es denn in der Mitte aus
+wird alles gleich schon da
+wir brauchen die gleichen Größen
+die wir vorher hatten
+ich habe glaube ich unten gearbeitet
+mit Blau, nehmen wir ruhig das wieder
+1, 2, 3, 4, 5, 2
+von der Bio-Zahl
+dann hatten wir die Fourier-Zahl
+0,21
+und das ist jetzt natürlich ein bisschen schwierig
+das da rein zu zeichnen
+aber ich denke es wird irgendwo
+hier liegen oder so und dann grünes spiel hier dazwischen herauf zu navigieren und je nachdem
+wie sie gezeigt haben kann man den etwa auf die 0,7 kommen man kann natürlich auch ein
+bisschen weiter links oder rechts herauskommen und diese 0,7 habe ich jetzt verwendet und würde
+jetzt das auf der seite glaube ich gleich zu ende schreiben also ist gleich 0,7 und dann
+haben wir wieder das gleiche spiel wie gerade eben ist ja nichts anderes als
+als
+Temperatur,
+diese Maschine hatte ich gleich so hin,
+Temperatur Mitte minus Temperatur
+und endlich durch
+Temperatur Anfang
+minus Temperatur und endlich,
+also mal weg,
+das heißt, Theta M
+ist, und da kommt bei mir
+ein 41 Grad Celsius raus.
+Das heißt, da ist in der Mitte,
+obwohl das 12 mm ist jetzt nicht so riesig
+es ist vielleicht wirklich so ein Schweinswürstchen
+in der Größe wie die Kreide
+und eine Minute nachdem ich das da reingeschmissen habe
+erst mal ganz interessant
+ist selbst die Oberfläche von diesem Körper
+noch nicht bei der gleichen Temperatur wie die Umgebung
+obwohl die Umgebung sich nicht abgekühlt hat
+das Wasser außen wird immer nachgeheizt
+immer 90 Grad
+Nichtsdestotrotz wird die Oberfläche von dem nur 80 Grad. Oder 87. Oder 78.
+Und der Innenteil von dem Körper, der wird gerade mal 41 Grad sein nach einer Minute.
+Also Sie sehen, lange Rede kurzer Sinn, wir hatten das ganz am Anfang in der Vorlesung, ich habe Ihnen sozusagen versprochen oder in Aussicht gestellt,
+Wir werden verstehen lernen, wann ist ein Ei genau richtig, wann es stockt und nicht stockt mit dem Eiweiß.
+Das ist ja genau diese Art Aufgabe.
+Beim Ei müsste man das jetzt für die Kugel anwenden und genau sagen, wann hat es welche Tabletten.
+Alle glücklich?
+Gut, dann machen wir da weiter.
+Dann würde ich jetzt in den Vorlesungsteil reingehen mit der freien Konvektion.
+Da waren wir auch schon unterwegs letztes Mal und wir werden dann, Entschuldigung, das stimmt nicht ganz, wir waren noch in erzwungener Konvektion und das ist auch durchaus so, dass wir da jetzt noch einmal reingehen, weil wir die Kanalströmung und die Körperumströmung noch nicht fertig haben.
+Diese zwei Aufgaben kommen noch und dann wird die freie Konvektion angekündigt.
+Bei dem, was wir jetzt als nächstes uns vornehmen,
+geht es darum, dass wir diese Konvektion mit dem Alpha,
+was ja immer wieder eine riesige Rolle spielt,
+und auch in diese Diagrammaufgaben irgendwo reingeht.
+Ja, wir haben es jetzt, glaube ich, bei der letzten Aufgabe stand, einfach einen Alpha-Wert gegeben.
+Da ist er.
+Der fällt ja bisher fast immer vom Himmel.
+Und diese Alpha-Werte, die wollen wir jetzt, also in der nächsten halben Stunde, uns nochmal genauer anschauen, wie man die berechnet.
+Ja, ehrlich gesagt nicht nur in einer halben Stunde, sondern das wird uns sogar noch weiter beschäftigen.
+in der nächsten halben Stunde machen wir das
+in dem Modus
+der erzwungenen Konvektion
+und dafür haben wir wieder
+ein Kochrezept
+letztes Mal aufgeschrieben
+wo wir sagen, okay, wir müssen uns ein bisschen angucken
+welche Materialeigenschaften haben wir
+die können wir aber hoffentlich gut
+herausfinden
+dann nehmen wir
+eben die Art der Konvektion
+das heißt, entweder ist ein Körper
+angeblasen oder
+steht irgendwo im Wind oder
+in irgendeiner anderen Weise
+wird eine Strömung
+vorgegeben, zum Beispiel durch ein Rohr,
+weil da eine Flüssigkeit durchfließt.
+Dann sind wir im erzwungenen
+Bereich oder wir sind im freien Bereich.
+Das wird uns erst im zweiten Teil der Stunde noch beschäftigen.
+Und dann haben wir
+verschiedene Standardgeometrien, mit denen wir
+solche Sachen machen können. Wieder nehmen wir
+Platte und Rohre und
+müssen uns angucken, ob es laminar
+oder turbulent vor sich geht.
+Und dann werden wir wieder mit der Reynolds-Zahl
+in der ersten Teil der Vorlesung zu tun haben,
+im zweiten dann bei der freien Konvektion mit der
+Kassel-Zahl. Und dann
+berechnen wir eine Nusselzahl und daraus ein Eifer.
+Was ist das
+mit der Nusselzahl? Die Nusselzahl
+hatte ich letztes Mal erklärt, einem Beispiel
+von Wachs, wo ich gesagt habe, der gleiche
+Stoff kann entweder
+fest oder flüssig vorliegen.
+Wenn er fest vorliegt,
+dann hat er andere Materialeigenschaften
+als wenn er flüssig vorliegt.
+Und wenn er fest vorliegt, dann hat er eine schlechtere Wärmeleitfähigkeit, als wenn er flüssig vorliegt.
+Der Hintergrund ist, dass zusätzlich zu dem, dass die Wärme weitergegeben werden kann durch einen Festkörper,
+Aber durch die benachbarten Teilchen und einen Übertrag von dieser Energie kann bei einer flüssigen Wachse in dem Falle zusätzlich zu dem gleichen Prozess, den wir da hatten, auch noch ein Materialtransport stattfinden.
+Das heißt, dass das, was sich hier besonders erwärmt hat auf dieser Seite, sich auch noch darüber bewegt, aufgrund von irgendwelchen Konvektionsbewegungen usw.
+Und wenn es da drüben mal ankommt, hat es schneller einen Wärmetransport erreicht.
+In diesem konkreten Beispiel, was hier gezeigt ist, ist die Nusselzahl 3.
+Das heißt, hier geht es dreimal so schnell wie hier, dieser Wärmetransport.
+Und hier ist das Ganze in der Formel geschrieben.
+Der Nusselzahl gibt also ein Verhältnis zwischen dem Alpha und dem Lambda.
+Wir haben eine Leitung oder Konvektion.
+Und das Ganze ist wieder normiert auf die Länge L.
+Das ist also die Dicke dieser Schicht, durch die wir das Ganze durchbetreiben.
+Dann haben wir gesehen, wir können jetzt als nächstes, wenn wir solche Aufgaben lösen wollen,
+wir müssen uns eben mit zwei Sachen beschäftigen.
+Es ist zum einen hier so, dass wir eine Geschwindigkeit haben von außen, mit der sich Teilchen bewegen.
+Und zum anderen haben wir ein Temperaturfeld, was an verschiedenen Stellen unterschiedlich ist.
+Das heißt, unter anderem wird eine typische Aufgabe sein, mit der wir uns da jetzt dran nähern,
+dass wir Wärmeübertragung stattfinden lassen von einer, ich sage jetzt in dem Fall einmal, heißen Wand in die Umgebung.
+Also diese Platte, stellen wir uns vor, das wäre eine Herdplatte hier von der Länge L und die heizt die Luft und oben drüber blasen sie mit irgendeinem Ventilator und jetzt schauen Sie sich an, wie stark erwärmt sich denn die Luft, die da über dieser heißen Platte liegt.
+Und die interessante oder herausfordernde Sache ist, dass das sehr unterschiedlich passieren wird.
+An der ersten Kante vorne, wo Sie hinblasen mit Ihrem Ventilator, also meinetwegen steht hier der Ventilator,
+und bläst hier also rein, wir sehen das ja an den Pfeilchen da drunter,
+und an der ersten Kante wird die Luft, die hier drüber bläst, vornehmlich laminar sein.
+Dann gibt es bei dem grünen in der Mitte irgendwo einen Umschlagbereich, wo sich so langsam ein Krisseln bildet.
+Und hier hinten, da wo ich den großen Wärmeübertragungspfeil oder die Wärmesprungdichte besonders deutlich zeichne,
+da findet richtig was statt.
+Und wir können in der Logik auch weiterführen und sozusagen von vorn wegnehmen,
+hier vorne wird nur ganz wenig Wärme übertragen.
+Hier in der Mitte ist es etwas mehr und da hinten wird es sehr deutlich sein, der Grund bei turbulenter Strömung, gibt es mehr Verwirbelung, gibt es mehr Möglichkeiten, dass kalte Luft an die heiße Platte hinkommt und schnell viel Wärme ausgetauscht wird.
+Ja, und die Analogie, die wir dazu haben, ist vielleicht so ein bisschen bekannt, wenn Sie mal irgendwo jetzt am Weihnachtskranz oder was die Kerzen anzünden und das haben, dass die etwas wust und raucht, diese Kerze, dann sieht man hier zunächst als Strömungsform Laminar und dann den Umschlagbereich und die Turbulenz.
+Das ist ja jetzt aber auch nichts mehr ganz Neues und ist eben hier auch so nacheinander aufgestaffelt zu sehen.
+Jetzt haben wir eine Möglichkeit, uns das Ganze hier so ein bisschen im Zeitraffer anzugucken und zwar in blau soll gezeigt sein ein entsprechendes Geschwindigkeitsverlaufsfeld.
+Also wieder hier die Kante, hier vorne und was passiert ist, wenn ich ganz weit weg bin von der Kante, dann ist die Geschwindigkeit groß.
+Das ist die Geschwindigkeit, mit der ich hier drüber blase.
+Und wenn ich jetzt aber hier unten hingehe, dann habe ich hier diese Haftbedingung.
+Das heißt, direkt auf der Platte strömt die Luft nicht so schnell, da ist sie nur ganz langsam.
+Hier ist sie ein bisschen schneller und so weiter.
+Das ist das, was wir aus den ersten Stunden der Strömungstechnik kennen, dass also sich in der Strommitte, ich hatte damals immer gesagt, wenn Sie Blätter in die Iller schmeißen, dass die in der Mitte oder weit weg vom Rand zumindest schnell strömen und am Rand sind sie langsam.
+Das heißt, wir haben hier diesen Fall, dass Sie nach einer bestimmten Zeit oder nach einem bestimmten Abstand erreichen Sie 99% von der Maximalgeschwindigkeit.
+Das ist das, was Sie als Indikator nehmen. Sie sehen hier diese lila Lilie und diesen entsprechenden Pfeil. Das ist dann ein Geschwindigkeitsgrenzflächenbereich, den man mit Delta U übersteigt.
+So, und dieses U von Y ist weg.
+Y ist die Koordinate nach oben.
+Leider kann ich hier wirklich überhaupt nicht umschreiben.
+Versuchen wir es nochmal hier.
+das ist also hier
+y ist gleich
+l von u
+y gleich l von u
+ist nichts anderes als
+0,99 mal
+u
+oder x sind u unendlich
+was bedeutet das?
+warum macht man 99 und nicht 100%?
+ja, weil 100% es geht asymptotisch
+das kann beliebig lange
+sehr sehr lange dauern
+bis sie wirklich die 100% erreichen
+weil dieses hier unten
+diese Wand
+spürt die Strömung
+über einen sehr langen Raumbereich
+der 99% Wert
+ist jedoch gut greifbar
+Bei den entsprechenden Funktionsverläufen, diese asymptotischen Themen, machen das immer schwierig.
+Jetzt haben Sie also hier 99% der Maximalgeschwindigkeit erreicht, wenn Sie das Ding hier machen.
+Jetzt können wir das gleiche Spiel nochmal machen an der weiter hinten liegenden Stelle.
+Hier vorne an der Kante war die Haftbedingung noch nicht besonders ausgeprägt.
+Wohingegen hier hat diese bremsende Wirkung von der Wand, weil es jetzt da drüber gelaufen ist, von links nach rechts, schon weitere Einfluss genommen auf diese Grenzen.
+Das heißt, der entsprechende Geschwindigkeitsverlauf hier ist irgendwie so und hier drüben, nämlich die andere Farbe, ist er also etwas anders und dieses lila zieht hier etwas weiter nach oben.
+Y gleich Delta U.
+Dieses Delta U ist also kein fester Wert,
+sondern kann so in etwa über die Plattenoberfläche gezeichnet werden.
+An der vordersten Anrisskante haben Sie überhaupt keine störende Wirkung der Platte,
+weil sie einfach noch nicht gesehen wird von der anströmenden Luft.
+Wenn ich aber immer weiter über die anströmende Platte gehe,
+habe ich immer weiter einen grenzflächigen Bereich,
+wo der Stab beeinflusst ist hier unten von dem, was die Platte macht
+und es abschwächt die Strömungsgeschwindigkeit von der freien Luft.
+Das ist die Idee.
+Und das Ganze können wir uns jetzt noch mal ganz kurz im Video angucken.
+Bin ich ganz sicher, ob es mir gelingt, das Video zu starten.
+Wahrscheinlich muss ich kurz die Vertragung stoppen.
+Sie sehen es hier.
+Und ich werde das Video nochmal starten.
+Was gemacht wurde, ist also, dass man sozusagen künstlich in den Raumbereich hinein,
+das war jetzt, für Sie kritze ich das da rein, Sie müssen das bitte nicht abzeichnen,
+hat man hier einmal so eine Art Dampf reingegeben, ja, und das ist das, was Sie hier weiß sehen, Nebel.
+Und jetzt hat man die Strömung da drüber geblasen mit diesem aktuell noch total ungestörten Nebelband
+und jetzt bläst diese Strömung hier oben drüber.
+Es passiert das Gleiche, wie wenn Sie diesen Stab da unten durchschieben, so sieht es auch aus im Video.
+Wie die Kameraführung gemacht wurde oder was, das spielt in dem Falle gar keine Rolle.
+Man sieht also nochmal, dass unten, hier ist die Kante, das ist ein bisschen schlecht zu sehen,
+dass es eben immer weiter beeinflusst.
+Hier ist die Strömung deutlich retardiert, deutlich langsamer.
+Hier ist immer noch die schwarze, nicht eingetönte Luft zu sehen.
+Und hier ist dieses Band, was sich dann so abkippt und was eben so ein bisschen diesen grenzrechten Bereich zeigt.
+Hier oben schwimmt dieses Gelbe einfach oben drüber.
+Hier unten ist davon abweichend eine deutlich langsamere Schwimmungsgeschwindigkeit, als viel später würde der Nebel hier eindrehen.
+Das wäre geschickt gewesen, wenn das im Video auch noch gezeigt wäre, ist aber so nicht.
+Jetzt haben wir das also mit den Geschwindigkeiten gemacht.
+Jetzt kommt das gleiche Spiel auch noch mit Temperaturfällen.
+Das wollen wir hier noch mal kurz notieren.
+Also ich hatte ja gerade gezeigt, dieses Geschwindigkeitsgrenzflächenbereich und die entsprechende Temperatur, Entschuldigung, Geschwindigkeit, die hier so rauf geht.
+Das habe ich in blau gemacht, wohingegen da unten wird jetzt ein Temperaturfeld gezeigt und das gleiche Spiel, was wir gerade machen, passiert eben auch bei Temperaturen.
+Auch hier gibt es so ein entsprechendes Band.
+Das ist aber nicht unbedingt flächenmäßig gleich oder die Geschwindigkeit, also dieses, was hier in dem Temperaturfeld beeinflusst, ist besonders, nennen wir mal das hier, ist hier Theta-Körper und hier oben haben wir Theta-Umgebung.
+dann beeinflusst dieser Körper auch wieder einen bestimmten Bereich,
+hier oben aber weniger, weil es darüber stimmt,
+ist aber nicht unbedingt genau die gleiche Grenzfläche wie die,
+die dann von dieser Geschwindigkeit beeinflusst wird.
+Also gibt es zwei unterschiedliche Bereiche,
+hier ist es auch noch mal aus dem Textbuch ein bisschen gezeigt,
+das ist vielleicht noch mal schöner zum Nachlesen,
+Ein bisschen ärgerlich, da habe ich jetzt auf der Folie das gerade gesagt, aber noch nicht.
+Hier oben steht ein V, das sollte wieder ein U sein.
+Für uns, das sind die Geschwindigkeiten, hier geht es immer um U's.
+Also an dem Fall ein U unendlich.
+Auch hier, nee, das ist ein U, das ist ein Geschwindigkeitsprofil.
+Und man sieht also das, was ich hoffentlich, was ich gerade gesagt habe.
+Und hier das Gleiche, die netzen jetzt wieder auf, andere Buchstaben, die netzen statt ein großes T, statt dem Theta.
+Aber das ist hoffentlich verständlich.
+Und das Theta unendlich ist also dort zu sehen.
+Und hier haben wir wieder diese Temperaturkreisfläche.
+Die ist unterschiedlich von der Größe.
+Und jetzt gibt es die nächste schöne Zahl oder neue Formel, die entwickelt wird, das ist die sogenannte Prandtl-Zahl, die sagt nichts anderes aus, als wie stark ist dieses hier oben gegenüber diesem hier unten.
+Also molekularer oder viskosartiger Impulstransport, das ist nichts anderes als ein Geschwindigkeitsfeld
+und molekularer Temperaturtransport ist nichts anderes als dieses Ding.
+Und wenn man es in Formeln sich genauer anschaut, das will ich Ihnen aber ersparen, wie man da genau drauf kommt,
+dann ist es nichts anderes als die dynamische Diskursität, die hat ja was damit zu tun,
+wie sich Geschwindigkeiten an solchen Grenzflächen verhalten,
+mal in dem Falle der Wärmekapazität durch das Lambda, die Wärmeleistung.
+Und diese zwei großen Cp und Lambda haben was zu tun, wie sich dieses Temperaturfeld ausbreitet.
+Interessanterweise kann man das Punkt schreiben als kinematische Viskosität,
+die kennen wir auch schon, das ist das, was Sie durch die Dichte geteilt haben, durch die Temperaturleitfähigkeit.
+Also das heißt, die Prandtl-Zahl am Ende zu berechnen ist ganz einfach, Sie müssen eigentlich nur diesen ganz simplen Quotienten nutzen,
+ich stehe auch in Ihrer Formelsammlung, und dann können Sie Aussagen darüber treffen, wie sind diese Verhältnisse im Verhältnis zueinander,
+Und dadurch, wie hoch ist Ihr Konvektionsaustausch mit der Umgebung?
+Bei der Vorhergung, also Folie unten, was stand da genau?
+Tetrakörper?
+Körper.
+Ja, ich wollte nur nicht Tetra-Paschen, weil Sie Kontakttemperaturen vor wenigen Minuten noch hatten.
+Deswegen habe ich da, also Tetra-Wand wäre genauso.
+So, und jetzt haben wir hier mal einfach nur aus dem Textbuch rausgeschrieben,
+irgendwelche Brandezahlen, die schmeiße ich Ihnen da jetzt hin.
+Nur, dass man mal sieht, die können doch ziemlich unterschrittlich sein.
+Bei flüssigen Metallen haben wir eine Brandezahl von ungefähr 0,01.
+Da haben wir dann die Zeit von 1, 10 und dann zähl Flüssigkeiten bis zu 1.
+Einmal 7, 6.
+Warum weise ich Ihnen das hin?
+Ja, also einfach mal zu sehen, das sind 8 Zehnerpotenzen, Größenordnung sehr unterschiedlich.
+Was bedeutet es jetzt? Flüssige Metalle haben ein Geschwindigkeitseinflussprofil, was extrem klein ist gegenüber dem, wie das Temperatureinflussprofil ist.
+Das heißt, die Geschwindigkeitsbremswirkung dieser Wand ist nur ganz klein, wohingegen die Temperatur von Ihrem Körper ganz weit in dieses Material hineinstrahlt.
+Und was führt das dazu? Das heißt, Sie können extrem gute Wärmeübertragung machen.
+Warum ist das technisch wichtig? Also flüssiges Metall wäre dann das, was hier oben drüber fließt.
+Das klingt sehr merkwürdig, dafür gibt es aber wirklich eine technische Anwendung, Fusionsreaktor und Nuklearkernreaktor.
+Was hat man dort? Man hat irgendeine Oberfläche, eine Wand, in der eine Kernschmelze stattfindet, in dem Grün drauf, wird unglaublich heiß und man möchte das sehr effektiv kühlen.
+Was macht man? Man versucht irgendein Metall, wahrscheinlich ist es Quecksilber, ich weiß es nicht genau, aber irgendein früh schmelzendes Metall, wahrscheinlich wirklich dann Quecksilber, hier oben rüber zu leiten, um ganz viel von dieser Wärme abzunehmen und an die Umgebung weiter zu transportieren.
+Das ist genau das, was man da will.
+Schnelle, starke Wärmeübertragung.
+Das Temperaturfeld geht hier oben ganz stark rein, aber die Bremswirkung in dieses Feld hinein ist gering.
+Das heißt, die Partikel, die hier nur wenig im Raum drin sind, werden schnell nach oben raus transportiert
+und die Temperatur des heißen Kernwerktes oder was, kann schnell abstrahlen, auch weit in das Kühlmedium hinein.
+Und das ist natürlich bei diesen anderen Sachen genau andersrum.
+Bei Gasen kann man also auch relativ stark so übertragen.
+Wasser bildet hier entsprechend eher Schutzschichten.
+Schutzschichten, nichtsdestotrotz bei Gasen und Wasser müssten wir noch andere Sachen später betrachten,
+wenn wir die Wärmeübertragung anschauen, die dem entgegenlaufen.
+Der Faktor ist nicht besonders hoch, die Dichte ist aber ein Faktor 100.
+Und wenn wir die Dichte wieder mit reinnehmen, dann sehen wir, dass wir in Flüssigkeiten am Ende doch
+einen guten Wärmeaustausch hinbekommen gegenüber den Gasen.
+Soweit also an der Stelle diese Prantlzahlen.
+Jetzt nochmal bildlich dargestellt, wie so ein Temperaturverlauf genauer aussieht.
+Hier unten sollte jetzt also die Wand sein, die ist in diesem Balle gar nicht gezeichnet.
+Ich mache das nochmal.
+Hier wäre die Wand.
+Ja, oder?
+Platte oder was?
+Und am Anfang haben wir diese bremsende Wirkung.
+Irgendwann aber reicht das Geschwindigkeitsprofil eben dennoch potenziell aus,
+wenn wir hier nur schnell genug anschwimmen, dass es Verwirbelungseffekte gibt und es wird eben turbulent.
+Und Sie sehen, das Geschwindigkeitsprofil, was Sie hier haben, ist zunächst ein laminarer Schwimmungsprofil.
+Hier aber hat es die Ausprägung, dass es turbulent ist.
+Hier lässt sich viel schneller Wärme übertragen, weil durch das turbulente Feld kommen die Partikel, die hier, wir sprechen jetzt mal in dem Beispiel über heiße Platte, kalte Umgebung, die Partikel, die kalt sind, werden hier dran gestrudelt, verwirbelt und kommen schneller an die Grenzfläche hin, wo heiße Platte an kalte Partikel hinkommt.
+Wohingegen hier haben wir eben eine sehr dämpfende Wirkung, dass die Partikel, die hier unten sind, kaum was mitbekommen von dem, was außen ist.
+Soweit an der Stelle. Wir haben also wieder eine Reynolds-Zahl.
+Und jetzt, Achtung, wir müssen bei der Reynolds-Zahl, wenn wir so eine Plattengeometrie haben,
+die Dichte, die Geschwindigkeit der ungestörten Strömung betrachten, auch die Viskosität.
+aber hier ist jetzt dieses l drin und hier geht es um die länge der platte also das hier ist
+bei 50 prozent der aufgaben die wir in klausuren bekommen eine große schwierigkeit dass man eben
+richtig navigiert und hier
+dieses L als Länge nimmt
+und nicht aber irgendwelche Durchmesser
+von irgendwelchen Rohren
+wir haben die Stürmungsgeschwindigkeit
+ungestört, dynamische und kinematische
+Vestosität und da steht es nochmal ganz dick oben drin
+bei
+Strömungstechnik haben wir
+fast nur damit zu tun, dass wir
+irgendwie durch Rohre durch
+uns Turbulenzen anschauen
+oder die Strömungseigenschaften anschauen.
+Bei der Wärmeübertragung ist zumindest bei diesem Aufgabentyp,
+den ich gerade anschaue, sind wir mit Platten unterwegs,
+kommen später auch noch Rohre, aber in dem Fall ist die Platte,
+und da geht es um die Länge hier, für die Rheinlöste.
+Jetzt die Idee, mit diesem Kochrezept ins Spiel zu gehen.
+Nur ganz kurz noch, bevor wir das jetzt anwenden, in ein paar Übungsaufgaben und ein paar Zahlenwerte dafür bekommen, für verschiedene exakte Geometrien, nämlich diese hier.
+der Hinweis, man kann das Ganze
+auch komplett analytisch
+ganz selten lösen
+es ist aber
+sehr
+schwierig und aufwendig
+es wird für uns nicht möglich sein
+in den Geometrien, die wir uns anschauen
+dann gibt es eben diese
+Computational Fluid Dynamics
+Geschichte, das hatten wir letztes Mal schon angesprochen
+mit dem Video
+dass man so
+auch bei komplizierteren Geometrien
+Lösungen finden kann
+und ich hatte auch schon erwähnt, dass
+das einer der wenigen Fächer
+ist, wo man bis
+heute 2025 immer noch
+viel mit experimentellen
+Bestimmungen
+arbeitet, weil
+das Thema so aufwendig
+und computerseitig
+so kompliziert ist, dass das nicht ohne
+weiteres abhängt.
+Sehr viel chaotische Vorgänge.
+wir nehmen diesen letzten Fall
+wir werden eben jetzt mit der
+Ähnlichkeitstheorie mit den dimensionslosen
+Kennzahlen arbeiten, da haben wir uns schon
+darauf vorbereitet
+Nusselzahl kennen wir jetzt schon von vorhin
+Brandlzahl haben wir gerade
+neu gemacht
+um Temperatur
+und Geschwindigkeitsgrenzflächen
+uns anzugucken
+und jetzt gibt es
+zack, fällt vom Himmel
+eine Formel
+die eine Nusselzahl
+und damit ja auch ein Alpha
+ins Verhältnis setzt
+zu einer Reynolds-Zahl
+und in eine Prandtl-Zahl
+mit dem können wir jetzt arbeiten
+und das Ganze
+nochmal
+skizziert an der Stelle
+was wir da machen können
+Ich werde jetzt nur ein Profil hier zeigen.
+Ich nehme jetzt das Geschwindigkeitsprofil heraus.
+U unendlich.
+Wir haben also hier irgendwo meinetwegen ein Y.
+Und hier ein U.
+Und wir haben hier diesen Verlauf, wie war, dieser Geschwindigkeit.
+In dem Fall sieht es jetzt eher wie ein laminarer Verlauber aus, könnte aber später dann auch ein Turbonenter sein.
+Und es geht uns immer darum, ich nehme jetzt symbolisch immer heiße Platte, die an kalte Umgebung überträgt.
+Das ganze Spiel geht genauso auch andersrum, wie wir es vorzeigen umsetzen.
+Und Sie hatten mich vorhin gefragt, ich hatte hier Theta Körper geschrieben, ich werde davon jetzt abweichen.
+abweichen, ich nehme jetzt Theta W, Theta Körper, dieses Theta W ist das, was wir am
+einfachsten da verwenden können. So, jetzt geht es wieder darum, wie viel Wärme wird
+übertragen über die gesamte Fläche, ich hatte es vorher auch schon mal erwähnt, auch
+Auch hier wird Wärme übertragen und auch hier vorne wird Wärme übertragen, aber weniger.
+Hier ganz wenig, hier etwas mehr, hier relativ viel.
+Römer hat man vorher genannt.
+Und das ganze Spiel, was wir hier unten machen, bezieht sich auf die gesamte Länge.
+Also es ist ein gemittelter Ausdruck, der sowohl berücksichtigt, dass wir hier vorne wahrscheinlich etwas Laminaris haben
+und dann eventuell später noch Umschlagbereiche und Turbulenz haben.
+Achtung, es gibt aber verschiedene Formelwerke.
+Dieses speziell, was hier gezeigt wird, gilt nur für Lamina.
+Also oben ist auf der Folie auch noch mal eingezeichnet.
+Wir sind jetzt hier gerade unterwegs, nehmen wir die grüne Farbe, bei der Platte Lamina.
+Und wenn Sie die Platte Lamina haben, dann können Sie diese Formel.
+Und Sie sehen hier, das Ganze gilt, wenn die Reynolds-Zahl unterhalb einer kritischen Reynolds-Zahl ist
+und plötzlich kommen Sie mit einer Reynolds-Zahl 3 mal 10 hoch 5, das sind also 30.000.
+300.000.
+So, und diese großen Zahlenwerte sind jetzt komplett anders für diese kritische Reynolds-Zahl, unterhalb derer wir laminar sind,
+als die kritische Reynolds-Zahl, die Sie aus der Strömungstechnik kennen.
+Da müsste man auch kritische irgendwie reinschreiben, glaube ich.
+Und das gilt auch nur in einem bestimmten Bereich von Prantenzahlen.
+Also Sie sehen dieses bei 0,6, das heißt für die flüssigen Metalle gilt es nicht,
+aber für, und das ist jetzt 0,6 bis 2000, ist ganz schön, weil dazwischen liegen die Bereiche Luft und Wasser.
+da hatten wir gesagt 1 und 10
+das heißt, das gilt in den typischen Nennern
+ok
+soweit das Spiel
+jetzt gibt es da unten noch etwas ausgegrautes
+kurz zur Hint
+als Hinweis
+die Temperatur
+die hier eingestrahlt wird
+Tether Oberfläche 1
+und die Temperatur, die hier hinten rauskommt
+Tether Oberfläche
+Nee, Theta unendlich muss ich schreiben, tut mir leid.
+Theta unendlich ein und Theta unendlich aus sind nicht unbedingt die gleichen, weil sie übertragen ja Wärme.
+Hier ist es kalt, die Luft, und hier hinten wird die Temperatur auch weit weg vom Material irgendwann sich eventuell wärmen.
+Viel deutlicher noch der Effekt, diese Platte kühlt sich ja eigentlich auch ab normalerweise.
+Wenn Sie die jetzt hier haben und hier wird nur wenig Wärme übertragen, dann bleibt die Platte hier vorne heiß, hier hinten übertragen Sie viel Wärme, dann wird die Platte hier hinten kalt.
+Und das kann man prinzipiell auch alles sich noch genauer anschauen und dann muss man potenziell mit mittleren Temperaturen rechnen,
+also der mittleren Temperatur von dem Ein- und dem Ausgang oder der mittleren Temperatur von der Platte zwischen dem Beginn und dem Ende der Platte.
+Das wollen wir aber eigentlich im Weiteren versuchen zu verneinandersetzen.
+Ich würde also versuchen Aufgaben zu stellen, wo ich sage, es wird kontinuierlich wachgeheizt und hier unten ist die Platte immer gleich warm.
+Jetzt haben wir das gleiche Spiel für Turbulente Sprünge.
+Wir haben schon gesagt, bei der turbulenten Krümmung läuft das Ganze darauf hinaus, dass wir, ich nehme wieder die blaue Farbe für das Geschwindigkeitsprofil,
+erst so ein laminares Ding haben, dann haben wir irgendwie so eine Aufwellung, einen Übergangsbereich und dann haben wir einen neuen turbulenten Bereich.
+hier vorne ist Laminar
+und hier war der Übergang
+und wir wollen das gleiche Spiel machen
+wie gerade, wir wollen uns angucken
+wie viel Wärme wird übertragen
+hier wird sehr viel übertragen
+hier vorne wird sehr wenig übertragen
+und nichtsdestotrotz
+können wir
+für das geschlossene einen Ausdruck angeben
+jetzt nehme ich hier wieder grün
+die Platte, turbulenter Fall
+und diese Formel
+und auch diese ist wieder sehr aufwendig
+sehr merkwürdig auch von ihrem Aussehen
+dazu gleich noch
+und das gilt jetzt, wenn wir in Reynolds-Zahlbereichen sind
+die schon oberhalb von einem gewissen kritischen Bereich sind
+Irgendwann ist dem Ganzen aber auch wieder eine Grenze gesetzt.
+Und es gilt wieder für diese typischen Materialien, bei denen die Brandnitzzahl zwischen 0,6 und 2.000 ist.
+Das ist also der Bereich, wo wir mit unseren Gasen und Flüssigkeiten normalerweise sind.
+Also das ist eigentlich kaum eine Einschränkung.
+Die Brandnitzzahl, das sollte eigentlich immer im richtigen Bereich sein.
+Aber wir müssen dann entscheiden, ob wir die Formel auf der vorigen Seite nehmen oder diese.
+Und diese Formel gilt jetzt nicht nur in dem Bereich, wo wir turbulent sind, sondern sie gilt für das ganze Material als Mittellösung.
+So, was haben wir hier für eine Formel?
+Irgendein Zahlenwert mal Reynolds hoch 0,8.
+Achtung, schauen Sie, dass Sie bei Ihrem Taschenländer gescheit umgehen können damit, wenn Sie das machen müssen.
+Kommt jetzt dann.
+Ja, weil das sind also merkwürdige Operationen, die wir da eigentlich brauchen.
+Reynolds mal 0,8, Brandezahl 1 plus irgendein Zahlenfaktor mal Reynolds hoch minus 0,1 mal Brandezahl hoch zwei Drittel minus 1.
+Das ist schon einigermaßen scheußlich.
+Also dann gilt es einfach gut im Taschenrechner arbeiten zu können, damit man das gescheit anwenden kann.
+Wir haben dazu auch noch mal ein Video, das versuche ich gleich mal zu aktivieren.
+Sie sehen also jetzt da nochmal, wie dieser Dampf da hinein verwirbelt
+und da sieht man also, dass unten diese Verwirbelungen sehr stark herrschen
+und hier oben haben wir einen Dampf, der oben drüber läuft,
+so wie hier und jetzt in diesen Übergangsbereich und dann in den turbulenten Verwirbelungsbereich kommt.
+Also hier sieht man von links eingestrahlt einen Dampffaden und den verwirbelt es und dann strahlt es den auf.
+Und hier unten hat man auch Dampf hier eingestrahlt und sieht, dass der hier also aufwirbelt.
+soweit die Idee
+wir haben also
+für die ebene Platte
+die hier wieder nicht
+selbst gezeichnet ist
+ich mach das aber nochmal
+eine
+entsprechende Lösung
+wenn da Wärme übertragen wird
+entweder wir nehmen diesen
+Formelapparat
+im laminaren Fall
+Oder, aber wir nehmen den Apparat auf der anderen Seite, das ist der turbulente Fall.
+Laminar und da drüben turbulent.
+und entsprechend können wir damit hoffentlich gut arbeiten
+Sie sehen, die Formen sind logischerweise in der Formensammlung
+wäre ja sehr unglücklich, wenn Ihnen die nicht gegeben werden.
+Das ist ja wirklich reine Nachschlagearbeit, aber eben auch Navigation, wo sind wir unterwegs.
+Jetzt schauen wir uns gleich noch eine Sache an,
+nämlich ein Video, was ziemlich sicher auch mitverantwortlich ist, dass es abgestürzt ist bei mir.
+Uraltes Video, aber doch gar nicht schlecht.
+Es zeigt, wie eine Boundary Layer auf einem Flügel eines Verkehrsflugzeugs sich verhält.
+Und dass das Leute interessiert, das kann man sich vielleicht vorstellen,
+weil man versucht natürlich schon effiziente Flugantriebe zu entwickeln,
+bei denen wenig Verwirbelung auftritt.
+Und man hat nur modelliert ein winzig kleines Teil auf dem Oberfläche des Flügels.
+Man sieht das gerade, wie der reingezoomt wurde und es ist auch alt das Video, man ist da heute natürlich schon weiter, nichtsdestotrotz ist es ganz schön gezeigt, 40 Zentimeter auf dem Oberflächenbereich und man sieht jetzt, wie man, ja es ist ja nicht gesagt, Bild wäre sich nicht so stark, es kommt glaube ich gleich noch ein bisschen mehr.
+Hier für bestimmte Reynolds-Zahlen, wie auf dem Flügel der oberflächlichen Kante sich jetzt solche Verwirbelungen darstellen und wie die sich weiterentwickeln.
+Und hier geht es jetzt darum, dieses Spiel kann man zweimal machen.
+Einmal für ein Geschwindigkeitsprofil, das ist das, was Sie sehen.
+Das gleiche Spiel kann man nochmal machen für ein Temperaturprofil.
+und es sieht anders aus, aber es hat eine Querwirkung zueinander.
+Also vielleicht können Sie sich mit dem zumindest ein Stück vorstellen,
+dass das Ganze extrem aufwendig ist in der Berechnung
+und jetzt laufen wir dann nach hinten in den Flügel
+und man sieht, es wird also immer chaotischer und zerreißt immer weiter.
+Aber Sie sehen hier oben irgendwelche Stückchen, über die Sie da drüber fliegen,
+die also von Materialeigenschaften geprägt sind, die aus dem Flügel herauskommen.
+Also hier vorne spielt sich das Ganze, Vorderflügel, alles noch relativ nah an der Flügeloberfläche an,
+aber es reißt immer weiter aus und wird immer komplizierter.
+Das hat man jetzt vor, weiß ich nicht, 10 Jahren an irgendeinem Supercomputer gemacht.
+Heutzutage kann man durchaus schon mehr machen,
+Aber man sieht, dass das ganze Thema nicht banal ist.
+Und das soll vielleicht jetzt nur nochmal, ich habe das da eingespielt, um Ihnen zu sagen, warum machen wir sowas,
+dass wir mit irgendeinem Formelapparat mit 0,273 hoch minus 0,8 mal irgendwas rechnen.
+Weil das ist ja, also eigentlich schlägt jeder die Hand über den Kopf zusammen und sagt, das ist doch nicht zeitgemäß, dann nehme ich doch einen Computer.
+aber es ist eben schon so
+dass man mit solchen Näherungslösungen
+in der Realität arbeiten muss
+so
+und jetzt habe ich für Sie die
+zwei Optionen
+wir machen jetzt gleich Pause
+es ist 9.56, das ist vielleicht eine gute Idee
+und starten dann in die Aufgabe
+und rechnen danach
+ja Leute, ich habe ein paar
+so machen wir es
+dann werden wir uns wieder um
+10.12 Uhr
+ok
+Vielen Dank.
+Vielen Dank.
+Das ist so ziemlich die aufwendigste Art der Berechnungen, die uns noch entgegenstehen.
+Es kommen danach schon noch Themen, die mindestens ebenso aufwendig sind,
+aber wo wir meistens eigentlich nicht mehr in die zahlmäßige Rechnung einsteigen.
+Aber schauen wir uns das jetzt mal an.
+Wir haben also so eine überströmte Ebene Platte.
+Genau das, was wir gerade durchgenommen haben.
+Ich lösche da oben mal die Zeit weg.
+Ich hoffe, das ist noch möglich, dass ich da noch reingehe.
+Ansonsten, das geht natürlich nicht.
+Gut, macht nichts.
+Wir werden gerne auf die nächste Seite blättern und uns dort bestimmte Übergang von Wärme anschauen,
+nämlich dieses Alpha, was aus den früheren Aufgaben immer vom Himmel fiel
+und was wir jetzt mit diesem Kochrezept hier bestimmen können.
+und was Sie machen sollten und was Sie einfach brauchen, wenn Sie mitschreiben wollen bei der Klausur,
+ist, sich dieses kleine Arbeitsschema auf Ihr eigenes Formelsammlungsblatt mit draufzuschreiben.
+Das ist jetzt nichts ganz Neues, das hatte ich vorhin zu hören,
+das war eine Woche auf jeden Fall schon mal mitgesagt.
+Und wie gehen wir jetzt vor?
+Wir werden uns in diesem Arbeitsschema sagen, ja okay, Materialeigenschaften, die haben wir ja alle,
+die sehen Sie hier oben auf die Weise, wie ist die Art der Konvektion, ist es erzwungen oder frei, schauen Sie hier bitte rein, hier steht die Strömungsgeschwindigkeit U und endlich ist gleich 5 Meter Sekunde.
+Das heißt, es gibt eine konkrete, zahlenmäßig vorgegebene Strömung und damit ist es immer erzwungen.
+Freie Konvektion ist, irgendwas heißt das oder was, ist in stehender Luft und trotzdem gibt es einen Wärmeausdruck.
+Das ist aber hier nicht der Fall, also freie Konvektion, ein klassisches Beispiel wäre diese Fensterscheidengeschichte,
+über die wir geredet haben.
+Wie viel geht durch eine zwei- oder dreifach verglaste Fensterscheibe?
+Innerhalb der Fensterscheibe haben Sie logischerweise keinen Wind, keinen Luftzug.
+Da ist ja nichts von außen.
+Hier aber also ganz klar erzwungene Konvektion und dann haben wir die Geometrie, das ist eine Platte
+Und dann müssen wir die Reynolds-Zahl und die Glashof-Zahl bestimmen, damit wir loslegen können und die Strömungsform bestimmen können.
+Wir müssen jetzt eben sehen, ist es da Laminar oder Turbolett.
+Ich habe das Ganze schon mal ein Stückchen vorbereitet, es tut mir leid, es ist bei Ihnen nicht da.
+Aber ich versuche jetzt langsam zu sprechen und Sie haben dann hoffentlich die Möglichkeit mit abzuschreiben.
+Als erstes die Reynolds-Zahl, es ist also hier die Dichte, die Unendlichgeschwindigkeit, also das, was die ungestörte Luft ist, und die Länge dieser Platte, die hier oben ist, und hier unten die dynamische Diskusität, die da zahlenmäßig belegt ist, und dann die Möglichkeit, die Reynolds-Zahl zu bestimmen.
+Und ich habe hier nicht vor, jetzt lange Zahlenwerte mit Ihnen ausführlich zu besprechen.
+Ich würde empfehlen, wir, ja, okay, ich schreibe es mal so hin.
+Also 1,276 Kilogramm pro Meter hoch 3 mal 5 Meter pro Sekunde.
+Die Länge der Platte ist 0,5 Meter, die Platte hat also hier eine Länge von 0,5 Metern und
+Und dann haben wir hier unten den Term Eta 17,22 mal 10 hoch minus 6.
+Und wenn wir dann jetzt öfters in der Zukunft Aufgaben rechnen, dann sehen wir, das ist der feststehende Wert,
+den wir für die Viskosität von Luft haben.
+Kilogramm Meter pro Sekunde.
+Und wenn Sie das alles einsetzen,
+dann könnten sich alle Einheiten hoffentlich raus
+und es kommen raus 1,85 mal 10 hoch 5.
+Bei der Prantl-Zahl will ich jetzt diese Zahlenrechnerei nicht mehr machen,
+sondern nur Ihnen das Ergebnis geben.
+0,711
+wir hatten gesagt
+die Brandelzahl liegt bei Gasen
+in der Nähe von 1
+0,7 in diesem Fall
+das ist übrigens auch die Brandelzahl
+die Sie bei Luft immer erwarten können
+es gibt ganz häufig Aufgaben
+die rechnen
+bei der Luft über irgendwas drüber strömt
+oder durch irgendeinen Kanal durch
+kann natürlich sein
+dass aus irgendeiner Formel
+die Zahlen nicht perfekt genau die gleichen sind, aber das hier sind alles Materialeigenschaften von dem Stoff,
+in dem Fall von der Luft, und das S-Ergebnis sollte irgendwas um die 0,7 ergehen,
+sonst sind Sie da vermutlich falsch, wenn es um die Luft geht.
+Können wir also beides berechnen?
+Und mit diesen zwei Zahlen können wir uns angucken, dass die Strömungsform laminar ist.
+Warum?
+Sie gehen rein in die Vorbesammlung W311 und da sehen Sie eben, oder aus dem ersten Teil der Vorlesung,
+ich gucke aber jetzt hier mal in die Vormessung, dass dieser Zahlenwert bei der Platte zwischen Reynolds-Zahl 3 mal 10 auf 5 und 5 mal 10 auf 5 liegt
+und die Prantl-Zahl
+zwischen 0,8 und 2.000
+jetzt bin ich gerade ein bisschen erstaunt
+0,3
+3 mal 10 hoch 5
+sogar unter dieser
+ah ja, klar
+die Reynolds-Zahl ist unterhalb von
+in diesem Zahlenbereich, der da als Dunstwolke angegeben ist, zwischen 3 und 5 mal 10 hoch 5.
+Also das da oben, ich schreibe es jetzt da nochmal hin, ich glaube, Sie haben da gleich die Tabelle drinstehen.
+Sie haben aber auch noch nicht mehrere Seiten, wo Sie das entwickeln können.
+Das ist leider als 3 mal 10 hoch 5.
+Können Sie damit einigermaßen leben, was ich hier hingeschrieben habe, oder so fotografierend?
+Ich kann Ihnen das Endergebnis auch gerne als Screenshot nochmal mitgeben, dass Sie
+das einfach in der gleichen Qualität haben.
+Nusselzahl 066 Reynolds-Prandtl, das ist jetzt einfach das Formelwerk genutzt aus
+Der Formelsammler. Und wenn wir das einsetzen, dann kommt hier vom Kochrezept raus, ich schreibe jetzt mal ganz bewusst in der Farbe, 253,6 und was ist die Nusselzahl?
+Die Nusselzahl ist nichts anderes als die mittlere Wärmeübergangskoeffizient.
+Warum ist der jetzt mittel und nicht mehr irgendwie ein normaler Wärmeübergangskoeffizient?
+Naja, wir haben ja vorne an der Platte einen anderen Wärmeübergang als hinten.
+Deswegen müssen wir über die ganze Bezugsfläche oder Bezugslänge in dem Falle normieren.
+Wir haben hier auf einem halben Meter angestrahlter Platte und rechnen das aus.
+Alpha ist umgestellt an dieses Nussel und so weiter.
+Das sind diese Zahlenwerte, die wir gerade gefunden hatten und wenn wir das einsetzen, kommt da unten raus ein Alpha gleich 12,38 Watt pro Quadratmeter mal Kelvin.
+Das ist eigentlich die erste Aufgabe, wo wir uns einen Zahlenwert für eine Konvektion, also einen Wärmeübergangskoeffizienten, wirklich selbst berechnen.
+Unter Zuhilfenahme einer Formel, die vom Himmel geflogen ist.
+aber man sieht es ist doch einigermaßen aufwendig
+man braucht ziemlich viele Parameter
+von sowohl dem Gas als auch
+von dem wo es drüber geht
+dem Festkörper
+um diesen Wärmeübergangskoeffizienten zu bestimmen
+jetzt würde ich die Aufgabe B noch mit einblenden
+oder kurz entwickeln hier
+hier geht ganz bewusst nochmal eine neue Aufgabe
+Frage, welche Wärmeleistung wird von der Platte abgegeben?
+Eine Wärmeleistung, die wir abgeben, ist dieses, was hier oben mit dem Q-Punkt bezeichnet ist.
+Entschuldigung, ich nenne da einfach die grüne Farbe.
+Dann sind wir wenigstens da konsistent.
+Also das ist die entsprechende Wärme, die übertragen werden kann.
+Die hat was zu tun mit dem Wärmeübergangskoeffizienten.
+mal der entsprechenden Fläche, mal den Unterschied der Temperaturen von der Wand
+und der Temperatur, die bei R herrscht von der Wand.
+Wie komme ich auf diese Formel unter B?
+Die können Sie direkt ablesen aus Ihrer Formelsammlung.
+Da wo Sie Konvektion das erste Mal hiermit aufgeblättert kriegen,
+Das ist im Prinzip eine Abwandlung von W022, wo Sie das mit der Wärmeleitung haben.
+und jetzt als Wärmeübertragung formuliert, durch den entsprechenden Wärmeübergangskoeffizienten.
+Was kommt da raus?
+Das ist ungefähr gleich 186,3 Watt
+Und das bedeutet, dass diese kleine Platte an die Umgebung heizt und abgibt eine kontinuierliche Wärmeleistung von gut 180 Watt.
+Das gilt natürlich nur so lange, wie wir die Platte unten bei konstanter Temperatur halten.
+Also wenn wir das machen wollen und es ist jetzt meinetwegen eine Heizplatte, auf der Sie irgendwie, weiß ich nicht, einen Tee warm halten wollen oder irgendwas anderes mit den 60 Grad,
+dann müssten Sie diese Heizplatte mit 180 Watt immer nachheizen, damit die bei gleicher Temperatur bleibt.
+Okay? Konnten Sie es entweder abschreiben oder fotografieren?
+dann machen wir das gleiche Spiel
+nochmal
+Sie haben es also wahrscheinlich
+eh schon teilweise gehabt
+jetzt gehen wir ganz kurz noch auf die Kanalstürmung
+es wird das gleiche Spiel sein
+es fallen wieder Formeln vom Himmel
+wir müssen sie dann später anwenden
+nichtsdestotrotz ist bei Kanalstürmung
+noch ein paar Sachen zu berücksichtigen
+die vielleicht wichtig sind
+also wir machen wieder das Spielchen
+Wir haben ein U unendlich, also irgendeine Geschwindigkeit, in die wir ins Rohr reinströmen.
+Und wir haben natürlich auch ein Theta unendlich, eine Temperatur.
+Ich will jetzt erstmal nur das Geschwindigkeitsprofil aufskizzieren.
+Und wir haben das, dass dieses Geschwindigkeitsprofil so eine Einlaufstrecke hier ausbildet,
+bis dann das, was da an Strömung von außen eingegeben wird und dem grenzlichen Bereich sich über das ganze Strömungsprofil ausbildet
+und wie die gesamte Rohrströmung gleichmäßig geprägt ist.
+Dieser Einlaufbereich wird im Weiteren nicht mehr detailliert unterschieden,
+genauso wie wir es bei den Wänden gemacht haben,
+sondern wir gucken uns eigentlich nur die gesamte Rohrlänge,
+aber auch jetzt wieder den Rohrdurchmesser an, die beide eine gewisse Rolle stehen für uns.
+Wir sind also hier oben, wenn wir wieder in grün notieren, jetzt beim Rohr innen
+und wir werden uns als erstes mal den laminaren Fall natürlich angucken und der ist jetzt hier unten aufgeblendet
+und hier steht schon unter Berücksichtigung des Einlaufbereichs, also für den gesamten Teil, gilt wieder ein sehr aufwendiger Formelapparat.
+Die Nusselzahl ist hier nicht bestimmt aufgrund der Länge, sondern aufgrund des Durchmessers.
+Warum ist das so? Wir schauen uns an, in den Aufgaben, das ist wirklich wichtig nochmal zu notieren, wie ist die Wärmeübertragung zum Beispiel von außen in ein Rohr hinein oder aber auch genau andersrum.
+Es geht also darum, inwieweit wird was in dieser Raumrichtung, wie der Durchmesser steht, ans Rohr übertragen oder andersherum.
+Es geht nicht darum, wie geht es über die Länge hinweg.
+Und entsprechend haben wir diese Sachen.
+Hier kommt aber als Einflussbereich durchaus die Länge mit vor, weil je länger das Rohr ist, desto stärker und ausgeprägter kann die ausgebildete Strömung hier eintreten und desto mehr kann auch an Wärmeübertragung entsprechend hier mit in dem System berücksichtigt werden.
+Jetzt haben wir hier eine Reynolds-Zahl, wieder in dem Falle mit der kinematischen Viskosität geschrieben,
+Geschwindigkeit, Durchmesser und Viskositätsterm.
+Und diesen Zahlenwert, der kritische ist, das ist die kritische Reynolds-Zahl, die kennen wir aus der Störungsdehnung,
+eben die von einem Rohr üblich ist.
+Das ist jetzt also eine andere als die, die wir bei den Platten haben.
+Und jetzt gibt es einen sehr angenehmen Fall, dass wenn wir, was leider selten vorkommt, in Rohren eine rein laminare Strömung haben und in einem ausgebildeten hier keine Turbulenz auftritt und wir uns den Einlaufbereich nicht besonders anschauen,
+Das heißt, wenn also die Länge nur lang genug ist, gegenüber dem was der Durchmesser ist, dann haben wir ganz überwiegend diese ausgebildete Stürmung und wir sind ja hier auf dieser Folie im Laminanfall, dann dürfen wir das sogar abkürzen und können die Nusselzahl einfach als feste Zahl der Kante.
+Da brauchen wir also gar keine komplizierten Rechnungen.
+Und um aus der Nusselzahl den Wärmeübergangskoeffizienten abzuleiten, dann sehen wir schon, da kommt es hauptsächlich darauf an, wie dick oder schmal ist Ihr Rohr und dann können Sie eben da direkt drauf arbeiten.
+Soweit diese zwei Formeln und jetzt unangenehmerweise auch hier die Möglichkeit, dass Sie mit komplizierteren Fällen zu tun kriegen und das ist leider ja oft der Fall, dass wir eine Turbulenz haben.
+im Bereich 0,5
+prantelt bis 1,5
+das ist typischerweise bei Gasen
+also bei Luft der Fall
+gilt dieser
+grauenhafte Formelapparat
+und im Fall von Prantel
+zahlt es 1,5 und 500
+das ist typischerweise bei Wasser der Fall
+also ich kann jetzt auch nochmal hinschreiben
+das ist hier Luft
+und hier bei Wasser
+das sind ja eigentlich
+die zwei typischen Sprüngungsmedien
+die Sie haben, was durch Ihr Rohr durchgeht und bei dem einen müssen Sie die eine und bei dem anderen die andere Formel verwenden.
+Beide logischerweise in der Formelsammlung und hier sehen wir jetzt nochmal in dem Video ein Stückchen,
+wie so eine Strömung in der Turbulenz aussieht im Rohr.
+Sie hatten es am Anfang, glaube ich, besser gesehen in dem Video.
+Ich versuche es nochmal zurückzuschalten und nochmal bitte hier hingucken.
+Sie sehen also, wie hier diese Verwirbelung auftritt und es geht jetzt also darum, wie schnell wird entweder Wärme von außen ins Rohr rein übertragen oder aber von innen aus dem heißen Rohr nach außen an die Wände übertragen.
+Und dafür benötigen Sie bei Luft diese Formel und bei Wasser diese Formel.
+Und Sie sehen also sehr komplizierte Vorgänge aufgrund dieser Turbolitzen.
+Nicht kreisförmige Querschnitte, würde ich kurz mal ehrlich gesagt nicht weiter Beachtung schenken.
+Wir haben typischerweise mit kreisrunden Rohren zu tun.
+und jetzt ist diese Folie nochmal die Zusammenfassung
+was wir gerade gesehen haben
+also Laminarformelwerk 1
+wenn die Einlaufbereich auch eine Rolle spielt
+oder wenn der Einlaufbereich keine Rolle spielt
+schöne einfache Formel
+und dann wenn wir in Richtung Turbulenz gucken
+diese zwei Formeln je nachdem ob wir Luft oder Wasser
+vier verschiedene Varianten
+ich gucke nochmal ganz kurz an
+eigentlich habe ich alles gesagt
+und drauf
+vielleicht nochmal eine Möglichkeit
+dass man hier nochmal notiert
+dass das Theta unendlich
+ja irgendein Profil ausbildet
+bei dem so eine Art Einlaufbereich ist
+und aber das U unendlich
+ebenso einen Einlaufbereich bildet
+und die sind ja nicht unbedingt gleich
+das hat man an anderer Stelle ja schon gesehen
+das hat ja mit dieser Brandenzahl zu tun
+dieses Verhältnis
+soweit
+die Idee
+jetzt würde ich ganz gerne mit Ihnen
+eine Möglichkeit geben, dass Sie mal einmal
+sowas selbst anwenden
+die Vorgehen in der Aufgabe
+ist praktisch analog zu der
+Aufgabe, die ich vorher selbst geendet habe
+wir haben jetzt 10.33 Uhr
+Ich würde Ihnen mal bis 10.40 Uhr geben, das sind mal 7 Minuten, dass Sie sich einfach mal damit beschäftigen
+und gerne mit Nachbarinnen und Nachbarn zusammen überlegen, wie gehen Sie hier ran.
+Und Sie wollen wieder Dinge berechnen, als erstes mal die mittlere Strömungsgeschwindigkeit im Rohr, U.
+Die müssen Sie aus dem Massen- oder Volumenstrom berechnen.
+in dem Fall ist es ein Massenstrom
+und dann
+den Wärmeübergangskoeffizienten
+im Kanal
+ich gebe Ihnen wie gesagt die 7 Minuten
+wenn Sie die Aufgabe A beantwortet haben
+dann lassen Sie sich mal kurz
+blicken
+dass ich so ein bisschen mitkriege
+wie gut
+klappt es bei Ihnen auch mit der
+Rechnung
+Vielen Dank.
+Und ich glaube bei Ihnen ist eingeblendet hier wieder dieser kleine Teiler.
+Vielen Dank.
+Wenn auch Gani weiß, wie er starten soll, kann gerne an die Tafel gucken.
+Und ansonsten hoffe ich, Sie kommen da selber gut klar.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Aufgabe A, wer hat es fertig?
+5, irgendwas, ne?
+Aufgabe B, gerne mal reingucken.
+Und bitte gerne mit Nachbarin und Nachbarn zusammen tun.
+Ich gebe Ihnen ruhig noch 2-3 Minuten.
+Wenn jemand insgesamt das Gefühl hat, er hat eine Lösung von der ganzen Aufgabe, gerne mal kurz melden.
+Vielen Dank.
+Vielen Dank.
+Wer hat die Reynolds-Zeige berechnet?
+Vielen Dank.
+Vielen Dank.
+Also Sie haben aber Ähnliches.
+Ja, wenig.
+Ja, gut.
+Es darf durchaus auch sein, dass ich...
+Es ist ein Hemd-Erding-Versuchung hier.
+Also Sie sehen, Sie sind...
+Wir haben ja sonst doch bei Alpha
+irgendwas rausgekommen.
+Sie sind dann jetzt der Erste,
+der es geschafft hat?
+Ja, ja.
+Ah, ja genau, dann kommt so etwas ähnliches.
+Ja, aber das passt halt nicht.
+Ja, ja, das ist das, genau. Das müsste ich gar nicht nochmal kommentieren.
+In der zweiten Reihe, vielleicht die Damen, die sind da noch ganz fleißig am Tag.
+Wo sind Sie denn etwa?
+Haben Sie da schon was erreicht?
+Ja, bei der Nuss ist es da.
+Ja, okay. Ja, ja. Das ist natürlich dieser grauenhafte Vorderrad, wenn wir ihn denn so verwenden. Sie hatten sich das erspart.
+Genau.
+Sie schauen auch gerade Fragen in den Raum, oder?
+Ja, das war was anderes. Mal gucken, warum.
+Ja, also es ist auch nicht komplett ausgeschlossen, dass ich mich vertippselt habe.
+Ich würde jetzt da mal einblenden, wie ich vorgegangen bin.
+Aber Sie waren auch jetzt so weit, dass Sie was für uns berechnet haben, wenn ich das richtig verstehe.
+Also ich blende mal ein, was ich gerechnet hatte.
+wenn ich sie mit abholen darf
+und keine Garantie
+für Perfektion
+machen Sie gerne ein Foto oder wenn Sie es möchten
+ich kann Ihnen im Nachgang auch diese
+Bilder zuschicken, dann schreiben Sie mir ganz kurz
+ins Moodle
+im
+entsprechenden
+Forum
+also wir haben als Gedanke
+ich mache mal diesen Zoom hier rein
+als erstes
+die Strömungsgeschwindigkeit. Ich habe es aber auch noch mal
+detailliert, aber das ist wirklich
+das Basic. Da möchte ich ganz
+unbedingt Ihnen als Tipp geben,
+schreiben Sie sich das auf
+Ihre Hand, Formelsammlung,
+diese ganzen Umrechnungen,
+was Sie brauchen zur Geschwindigkeit,
+zu Volumenströmen und Massenströmen.
+Das ist der Klassiker, das wird am Anfang so gefragt.
+Das tippen Sie kurz ein
+und hier hinten kommt heraus,
+das ist irgendwie merkwürdigerweise auf der nächsten Zeile,
+gute 5 Meter pro Sekunde.
+Wer hat denn diese 5 Meter pro Sekunde gehabt?
+Das ist gut die Hälfte, das bestärkt mich darin, dass es hoffentlich ich mich nicht verrechnet habe.
+Das sieht ganz gut aus.
+Dann, Aufgaben Typ B, ich glaube es ist hier nochmal eingetönt, es geht ja immer ums kleine Spiel,
+wir sind natürlich jetzt bei erzwungener Konvektion, frei kennen wir ja noch gar nicht, haben wir noch nicht gemacht,
+kommt aber in der nächsten Stunde oder am Ende dieser Stunde vielleicht noch ein bisschen.
+Dann, Problemstellung, wir haben ein Rohr in, keine Frage.
+Immer bei diesen Sachen, wir müssen eben als nächstes bei erzwungener Konvektion Reynolds-Zahl bestimmen.
+Und genau das tun wir.
+Und da ist dieser Formelapparat geeignet.
+Achtung, es geht hier um die Dicke, also um den Durchmesser des Rohrs und nicht um die Länge.
+Hat jemand von Ihnen hier die Länge verwendet, 1,2 Meter?
+Nein, super.
+Dann haben Sie einen großen Vorteil gegenüber denjenigen, die vielleicht die Vorlesung nicht besuchen und trotzdem die Klausur mitschreiben.
+Es passiert wirklich sehr häufig, dass das bald wechseln wird.
+Hier haben wir also diese 0,03 Meter, also 3 Zentimeter oder 30 Millimeter gefragt und 1.860.
+Wer hatte denn das errechnet?
+1.860?
+Ja, ja, gut die Hälfte.
+andere Zahlwerte, sind Sie unzufrieden?
+Haben Sie irgendwie das Gefühl,
+ich habe irgendwo
+passt so was, ja?
+Okay, und dann,
+es ist ein bisschen unglücklich hier,
+gebe ich zu auf diesem Tatebild,
+nächster Schritt ist,
+ich möchte es trotzdem, glaube ich, jetzt lieber mit Ihnen logisch
+entwickeln, als dass ich jetzt das nochmal abschreibe.
+Prantezahl
+mit dem Formelwerk aus
+der Formelsammlung
+oder Sie gucken einfach zurück in die letzte
+Aufgabe, die habe ich nämlich schon mal berechnet,
+die brandende Zahl von Luft.
+Also ich gehe mal hier rüber.
+Was haben wir denn als Aufgabenstellung?
+Mögen Sie da nochmal einzusammeln.
+Wir haben hier ein Rohr mit 500 Grad heißem Gas.
+Und zwar soll es sich behalten wie Luft.
+Das stimmt nicht ganz, weil es eigentlich ein Dampf ist.
+Aber in erster Näherung 500 Grad heiße Luft fliegt hier durch.
+Das Ding ist 3 cm im Durchmesser und 1,20 m lang.
+Es ist also nicht besonders lang, das Rohr.
+Und es geht darum, dass in dem Fall die Wärme von innen nach außen übertragen wird.
+Das heißt, es ist eine hohe, kalte Umgebung.
+Und die entsprechende Idee, Prantenzahl für die Luft, dann Prantenzahl und Reynoldszahl zusammen,
+ergeben Ihnen, dass Sie im Zahlenwert
+sind unter 2300
+und eine Präziszahl haben
+mit der Sie überhaupt umgehen können
+und die auch für solche Störungen passt
+das heißt, Sie kommen raus
+bei einem laminalen Fall
+und beim laminalen Fall
+haben wir wiederum zwei Formeln
+und Sie hatten eben
+die andere Formel gewählt
+das ist aber auch ein bisschen unfair von mir
+weil ich nicht gesagt habe, was heißt denn
+L ist viel größer als D
+das könnte man genauso sagen, der ist ein ganzes Stück größer
+1,20 Meter ist eine ganze Menge mehr als 3 cm
+da muss in einer Klausur
+deutlich mehr geliefert werden
+ich würde jetzt nochmal kurz zurückblättern
+an die Stelle, wo wir diese Gesamtübersicht haben
+und würde hier einen Zahlenwert Ihnen mitgeben
+ich würde mal im Bereich 10 hoch 5
+hier sagen
+größer 10 hoch 5. Also dieses L durch D. Das stand nirgendwo. Deswegen ist es gut, dass Sie in diese
+Richtung abgebogen sind, uns einfach nochmal challengen, hinterfragen. Wir sind hier im Bereich
+von etwa unterhalb von 100. Also es ist nicht sehr viel größer, weil das Rohr eben erstaunlich
+und deswegen wäre es gefragt und die Idee gewesen der Aufgabe, diese Formel zu verwenden.
+Warum jetzt diese und nicht die hier drüben?
+Naja, wir sind eben im Bereich von laminarer Strömung.
+Wir haben das herausgefunden, indem wir geguckt hatten, ob Brandl und Reynolds Zahl da passen.
+Sie sehen hier, die Reynolds Zahl war unter 2300, also waren wir laminar.
+Ja? Okay. Also, Formel nehmen und diese Formelapparat, und ich möchte nicht die Hand dafür ins Feuer legen, dass ich das richtig getippt habe.
+Es ist unangenehm, das zu tippen.
+Bei mir kommt raus 5,835.
+Ich bin gerne bereit, wenn jemand von Ihnen das im Nachgang einfach nochmal tippen will, und die Übung ist keine schlechte,
+weil es ist nicht unwahrscheinlich, dass Sie so etwas in der Klausur kriegen
+und Sie kriegen nicht 5,835 raus oder 5,8,
+meinetwegen haben Sie die Nachkommastellen ein bisschen anders,
+dann bitte schreiben Sie ganz kurz ins Forum, in die Kommentare,
+dann gucke ich es nochmal nach, dann rechnen wir es nochmal gemeinsam auf.
+Ich habe mir auch irgendwie im Excel meine Formel hinterlegt,
+das heißt aber für mich auch, wenn Sie das in der Klausur so etwas haben
+und sich da vertun
+und irgendwo ein Folgefehler drin ist,
+weil Sie hier Brandezahl um eine Zehnerpotenz
+falsch gerechnet haben,
+habe ich die Möglichkeit auch nachzuvollziehen,
+ob das in sich dann stimmt.
+Dass Sie da nicht komplett
+einen Abzug kriegen.
+Okay.
+Das wäre jetzt mein Gedanke,
+an der Stelle einen kleinen Cut zu machen.
+Wir haben jetzt gerade mal noch
+gute 20, 25 Minuten.
+und hoffe aber dass sie ja es tut mir leid ich es ist falsch kommt noch ein teil wir haben die
+rohrspülung außen und die muss ich da noch liefern und ich wollte ihnen als erstes hier motivieren
+zeigen warum wichtig ist als letzter teilbereich wir gehen also jetzt in die rohre außen und auch
+Da gibt es natürlich wieder Laminar und Turbulent.
+Warum Rohre außen?
+Es geht im Endeffekt um nichts anderes als um das klassische Thema der Radiatorheizung,
+dass wir also sagen, da ist heiße Flüssigkeit drin und wir wollen ja Wärme übertragen an die Umgebung,
+also in unseren Raum.
+Das heißt, was wir tun ist, entweder machen wir es mit Ventilator, das machen wir in der Wirklichkeit eher selten,
+sondern wir lassen es dann auch noch als freie Konvektion laufen.
+Aber jetzt in den nächsten Beispielen können Sie sich vielleicht statt dem Teddy hier einen Ventilator hindenken
+und überlegen, was passieren würde, wenn ihr das da reinbläst in diese Heizungsstäbe und die Wärme überträgt.
+Und was jetzt wichtig ist bei den Heizungs- oder bei diesen Rohrumströmungen,
+ist, dass sie eine charakteristische Länge haben.
+Die hat nichts mit dem Durchmesser, die ist nicht der Durchmesser, aber auch nicht die Länge des Rohrs.
+Sie ist so ähnlich wie der Durchmesser, es ist nämlich der halbe Rohrbogen, der außen rum geht.
+Weil Sie ja einmal außen anblasen und dann einmal außen herum um diese Geometrie rum pusten.
+Und da gibt es jetzt auch wieder drei Bereiche, die man sich angucken kann, die sogenannte Schleichen-Oberstürmung,
+die untergritte Stürmung, dann auch die übergritte Stürmung.
+und hier, ich muss jetzt mal ganz kurz gucken, wie weit wir da in die Details eintauchen,
+ja genau, können wir vielleicht nochmal ganz kurz grob skizzieren, wie sowas aussieht.
+Bei schleichender Umströmung haben wir eben sowas, dass das so ziemlich drum herum läuft.
+Das sind jetzt so eine Art Zwiebelschalen, die im Blauen das Geschwindigkeitsprofil charakterisieren sollen.
+Das Temperaturprofil ist offensichtlich ähnlich.
+Bei der unterkritischen Umströmung haben Sie den Fall, dass die Umströmung zunächst ganz ähnlich sich verhält hier und dann aber hier hinten abreißt.
+Und in diesem Bereich dahinter, Sie erinnern sich vielleicht an diese Thematik mit dem Golfball,
+Da hinten entwickelt sich ein sogenanntes Todwassergebiet, es gilt auch als Todwassergebiet, wenn es sich um eine Gasströmung handelt.
+und es gibt einen Abreißpunkt, der ist interessanterweise noch knapp vor dem Kantenpunkt hier.
+Hier haben wir einen Winkel Alpha, ich mal das vielleicht mal in einer anderen Farbe.
+Und dieser Winkel hier geht auf 80 Grad.
+und dann gibt es hier unten noch
+die überkritische Umströmung
+da ich da gerade meine Winkel
+1, 9 mache ich das hier direkt
+so
+und wir haben hier
+bei der überkritischen Umströmung
+wenn also die Geschwindigkeit nur groß genug ist
+dann
+ein bisschen anderem
+Verlauf
+dann wird die Strömung
+hier hinten wieder zusammen kommen
+Sie sehen hier die langen Pfeile, die große Geschwindigkeit und einen anderen Abrisspunkt, bei dem hier der entsprechende Umströmungswinkel geprägt ist,
+bei dem sich von einem laminar geprägten Strömungsprofil, wie es bei der schleichenden Umströmung ist,
+zunehmend, je länger dieses Gas hier da rumströmt, ein Umschlagtendenzrichtung kritischer und turbulenter Strömungsprofil.
+Soweit also dieser Versuch, das hier mal zu explizieren.
+Ich weiß nicht, ob Sie das einigermaßen mitschneiden konnten.
+Wäre jetzt an der Stelle, glaube ich, eher im Sinne von Verständnisfragen.
+Es kommen zwei oder drei Folien, die sind im Exkurs zu sehen.
+Und eine, eine einzige.
+Und dann geht es nochmal an das entsprechende Formel.
+Sind Sie soweit?
+Dann die Idee, Wärmeübertragung von querhandigem Zylinder, das ist das, was wir machen.
+Das soll mein Heizungsrohr sein und außenrum,
+ich mache es lieber so,
+sagen wir, da drinnen ist es warm in Ihrem Zylinder
+und außen haben wir mit dem Stift diese Umschwirmungsformen, über die wir ja gesprochen hatten
+und wir haben diesen Winkel, der hier besonders wichtig ist
+und wir sehen hier ist dieser Winkel aufgezeichnet und die entsprechenden Nusselzahlen
+und da sehen wir wie stark geht diese Schwirmung hier rein
+Und hier sind verschiedene Zahlenwerte, wenn die Reynolds-Zahl klein ist, also wenn wir eher laminar arbeiten, dann sehen Sie bei 80 Grad so einen Tiefpunkt, das ist genau da, wo der Umschlagpunkt von laminar auf turbulent ist.
+Das heißt, insgesamt überträgt das Rohr an die Umgebung verschiedene Wärmemengen,
+das ist ja der Durchschnitt von diesem über verschiedene Winkel aufgeschlagenen.
+Und Sie sehen, an dieser einen Stelle überträgt es besonders wenig dieses Rad, wo dieser Umschlag stattfindet.
+Jetzt sieht man, dass es sich ändert, wenn Reynolds-Teil höher ist,
+dann kommen wir von der unterkritischen Umschwirmung auf die überkritische
+Und dann sehen Sie einen zweiten Knickpunkt, der ist hier bei 140°.
+Wie gesagt, alles hier als Exkurs auf dieser Folie.
+Da sehen Sie also diese 140°, die eine Rolle spielen bei der überkritischen Stürmung
+und hier vorne die 80°, die bei der unterkritischen.
+Lassen wir es dabei eventen, nehmen uns die Formelwerke, die wieder ganz ähnlich wie zuvor sind.
+Nusselzahl mit irgendwas mit Reynoldszahl und Prattelzahl.
+Und Achtung, dieses L' hier unten, das ist eben die Bogenlänge, die Sie brauchen, um um das Ohr herum zu kommen.
+Ich zeichne das hier nochmal ein.
+Die Bogenlänge L' ist nichts anderes als dieser Teil.
+Und das ist also der halbe Umfang, und das ist nichts anderes als Pi mal D durch 2.
+Also der Kreiszahl bei Durchmesser D war hier noch eingezeichnet, bevor ich drüber geschmiert habe.
+halbe. Und
+genau da steht es aber auch
+rechtlich, ist Pi d halbe
+und wir haben
+wieder diese zwei sinnvoll
+zu
+bezeichnenden Bereiche.
+Der Bereich mit dieser
+schleichenden Umströmung ist hier
+nicht gezeigt, der ist dann
+deutlich eher geprägt
+von der
+freien Konvektion. Also
+diese zwei Bereiche, da können wir wieder mit
+den Formeln studieren. Jetzt würde ich Ihnen
+ganz gerne an der Stelle
+eine gewisse
+Zusammenfassung zeigen
+die
+nicht so stark auf die Wärmeübertragung
+ausgelegt ist, aber
+schon eben nochmal zeigt
+wie diese Umströmung
+von Zylindern oder Kreisen
+funktioniert
+damals dient dem Gesamtverständnis
+und wahrscheinlich werden wir danach
+ziemlich direkt in die Gesamtzusammenfassung von heute starten.
+Schauen wir mal, ob es funktioniert.
+Das kann man als Atomsteuerung nennen.
+why flow separation occurs.
+Let's look at flow
+on the upper surface of the sphere.
+As the fluid passes
+over the surface of the sphere,
+it is initially accelerating
+and so pressure is decreasing
+in the direction of the flow.
+This is called a favorable
+pressure gradient.
+Beyond a certain point,
+the flow then begins to decelerate
+and so pressure
+in the flow direction is increasing.
+This increase
+in pressure is called the adverse pressure gradient and it has a significant effect on
+the flow close to the wall. If the pressure increase is large enough, the flow will reverse
+direction and since it can't travel backwards because of the oncoming fluid, it detaches
+from the surface, resulting in flow separation. Flow separation occurs at around 80 degrees
+für einen smoothen Sphäre und laminar Fluss.
+Wenn der Boundary Layer turbulent ist, anstatt laminar,
+ist es besser möglich, sich an der Oberfläche zu befinden
+und die Flussverbrechung wird bis rund 120 Grad gedelayt,
+was die Druckdrehung reduziert.
+Aber es ist 140, die Teilwerte sind ganz wichtig.
+Es gibt eine Menge von Verbrechungen zwischen den verschiedenen Flüssen.
+Und dieser Momentum-Transfer bedeutet,
+dass der Fluss einen größeren Druckgradienten kann,
+ohne zu separieren.
+This is why golf balls have dimples instead of being perfectly smooth.
+The dimples generate turbulence, which delays flow separation, reduces drag and allows the ball to travel further.
+This idea of using turbulence to delay flow separation and reduce pressure driving is also why some airplane wings have small.
+Genau, das ist jetzt schon gestoppt.
+Und Sie sehen also, was jetzt noch käme, ist im Endeffekt die gleiche Idee, die wir in dem Video vorhin hatten,
+dass man sogenannte Vortexer, so Anrisspunkte auf Flügeln hat, die dazu führen, früher in eine gewisse Turbulenz reinzukommen,
+um die entsprechenden Haft- und Strömungsbedingungen zu reduzieren.
+Man kann mit solchen Vortexern in Verkehrsflugzeugen etwa 20% des Verbrauchs einsparen.
+Also doch ein signifikanter Teil, der sich erreichen lässt und dafür eben vorher ja diese numerischen Simulationen und so weiter.
+Wir haben also jetzt im Video nur noch mal gesehen, wieso die Umströmung von sphärischen Körpern,
+da geht der Zylinder genauso dazu wie eine Kugel, diese Abrisspunkte hat.
+Wir hatten auch gesehen, dass der Zahlenwert nicht ganz übereingestimmt hat.
+80 Grad waren wir uns gleicher Meinung.
+Die einen Textbücherschreiben 140 Grad, die anderen 120 Grad.
+Darum geht es nicht so sehr.
+Es geht darum, dass man also versteht, dass da so ein bisschen ein Wechsel des Regimes kommt.
+Ich werde Ihnen kurz das Ansprechen und dann nächste Stunde aufgreifen.
+Keine Sorge, wir machen jetzt keine riesen neuen Baustellen mehr auf.
+Ich möchte aber doch nach dem, was wir jetzt gerade gesehen hatten,
+diesen verschiedenen Regimen, das ziehe ich vielleicht sozusagen jetzt vor als Mini-Zusammenfassung,
+Regime
+die wir hier oben noch mal sehen
+für diese verschiedenen
+Geometrien
+diese jeweiligen Formelapparate
+zu nutzen
+und sie
+à la Kochbuch
+einzusetzen
+dazu gibt es auch
+einige Aufgaben auf Ihren Aufgabenblättern
+die ich Ihnen empfehle
+mal sich
+in Ruhe anzuschauen
+Wir werden sicherlich auch eine von diesen Aufgaben aufgreifen, wenn wir Übung 3, die Sachen nochmal hier im Raum besprechen.
+Allerdings ist die Übung 3, wenn ich mich richtig entsinne, auch erst im Januar geplant.
+Also, wäre gut, wenn Sie sich vorher schon einmal ein bisschen angucken, ob es so weit passt.
+Was wir in der Wirklichkeit oft haben, ist anders als bisher jetzt durchgespielt, nicht immer erzwungene Konvektion, sondern eben häufig auch freie Konvektion.
+Das heißt, niemand bläst von außen dran, auch gerade bei der Heizung in Wirklichkeit sieht die Situation so aus, dass hier eher der Teddy sitzt als ein Ventilator.
+Das heißt, am Ende muss das Thema Wärmeübertragung an die Umgebung auch irgendwie zustande kommen, ohne dass wir da mit dem Ventilator dagegen blasen.
+Und wie funktioniert das?
+Vielleicht nochmal ganz kurz an Sie gefragt.
+Gleiches Spiel hier, heißes Ei überträgt die Wärme an die Umgebung.
+was ist der Grund, warum passiert eine Wärmeübertragung, warum kann ein Austausch der Luftmenge rund um das heiße Ei stattfinden?
+Eine ganz klassische Frage, die man als Verständnis darstellen kann.
+Ich frage Sie mal, einfach da hinten im Raum.
+Ja, darf ich?
+Warum tauscht sich die Luft in der Umgebung dieses heißen Körpers, in dem Fall besteht ein Ei, aus
+und warum kann dadurch auch eine Wärmeübertragung stattfinden?
+Ich weiß es nicht.
+Obwohl wir ja eben es nicht anblasen mit dem Ventilator.
+Okay?
+Legitim?
+Kann jemand aushelfen?
+Wissen Sie es?
+Sind da gar nicht Druckunterschiede wegen den unterschiedlichen Temperaturen?
+Ja, Druckunterschiede, genau.
+Angesaugt.
+Angesaugt und weggeblasen, so in etwa.
+Ja, das ist richtig.
+Der Druck ist ein Resultat von dem, was eigentlich dahinter steht.
+Das gleiche Spiel funktioniert übrigens auch, hier sieht man es sehr schön, bei einer kalten Körper, an dem entlang die Luft abfällt.
+Am Ende geht es um diese Eigenschaft, es geht um die Dichte.
+Die Dichte der Luft, die Dichte des Gases, die da umgibt, ist unterschiedlich, je nachdem wie warm oder kalt es ist.
+Das ist nicht sehr stark, aber doch messbar, solange wir keinen Phasenwechsel haben.
+Der kommt in der nächsten Stunde.
+Aber wir haben ein beta-isodierbaren Ausdehnungskoeffizient.
+Das heißt, es verändert sich was mit dem Volumen, wenn wir die Temperatur ändern.
+Das ist nichts anderes als eine Dichteeigenschaft.
+Das heißt, die Dichte ängert sich mit der Temperatur.
+Heiße Luft steigt auf, das wissen wir alle, das hatten wir am Anfang der ersten Vorlesung.
+Und haben gesagt, die heiße Luft in irgendeiner Berghütte akkumuliert sich oben unter der Decke und unten am Boden ist es total kalt.
+Deswegen ist eine Fußbodenheizung vergleichsweise angenehm,
+weil das mit der natürlichen Konvektion etwa ein gleichmäßiges Raumklima, Raumtemperatur ergeben kann.
+Und diese dichte Abhängigkeit, mit der müssen wir arbeiten können,
+und das werden wir jetzt noch als Formel hier mitnehmen.
+Wir kennen auch schon, und das kam jetzt zu Ihrem Druckunterschied,
+Vielleicht wollten Sie eher so etwas sagen, die Auftriebskraft ist nichts anderes als die Dichte eines Körpers Wasser minus die Dichte des Körpers mal der Gewichtskraft mal der Volumen des Körpers.
+Das heißt, es gibt Kräfte, die nach oben oder nach unten streben.
+Das ist Unsinn, was ich da schreibe, es tut mir leid.
+Achtung, ich habe das Zettel geschrieben, am Dichte vorgelesen.
+Es geht um die Dichte, warm und Dichte, kalt.
+Es geht also darum, dass die Luft, die jetzt meinetwegen hier oben ist, eine andere Dichte hat als die Luft, die hier unten ist
+Und genauso wäre das hier auszumachen
+Wenn die Luft warm ist, dann haben wir eine Dichte der warmen Luft
+Und hier haben wir die Dichte der kalten Luft
+Und quantitativ können wir das Ganze über diesen isobaren Ausdehnungskoeffizient O berechnen
+Und das Ganze machen wir jetzt einmal für ein ideales Gas
+Das Beta ist also 1 durch V mal Welt V nach Welt T
+bei konstantem Druck
+das steht auf der Formel drüber
+und jetzt
+nehmen wir mal ein ideales Gas an
+jetzt kommt
+Vorlösungsstoff von Herrn Happig
+was heißt das bei einem idealen Gas?
+PV ist gleich
+R mal T
+das heißt aber auch, dass wir umstellen können
+T ist
+P mal V Dose
+R
+und jetzt setzen wir das
+an der Stelle
+ein
+als erstes mal
+V
+ist RT durch P
+also ist das nichts anderes als
+1 durch V mal
+RT durch
+P
+Bei konstantem Druck.
+Und jetzt können wir die Ableitung durchführen.
+R, T, P durch T, das heißt es ist nichts anderes als R mal P.
+R durch P.
+Ja, 1 durch V mal R durch P ist R durch P mal 1 durch V und jetzt schauen wir nochmal da drüben hin, diese zwei Formeln, die wir gefunden haben, T ist nichts anderes als PV durch R, ist also nichts anderes als 1 durch T.
+Was bedeutet das? Das wird das letzte Inhalt der heutigen Stunde sein.
+Und dieser Ausdehnungskoeffizient, der sagt, wie stark beschleunigt sich die Luft, wenn sie an einen heißen Körper gehalten wird, ist genau reziprok zur Temperatur.
+So, und wir machen, das kann ich Ihnen an der Stelle schon vorwegnehmen, die ganze Spielerei mit der freien Konvektion nur für ideale Gase.
+Das heißt, je stärker der Temperaturunterschied ist zwischen irgendeinem heißen Körper und der umgebenden Luft,
+desto stärker ist die treibende Kraft, die diese Luft nach oben treibt, an einem heißen Heizungsrohr entlang
+oder die die Luft nach unten treibt an irgendeinem kalten Polardosenbeispiel, wie es hier gezeigt ist.
+Am Ende wird sich aufgrund dieses Vorgehens bei freier Konvektion auch eine Überströmung einstellen.
+Das heißt, das heiße Ei wird hier unten beginnen, langsam und dann zunehmend immer stärker von diesen blauen Pfeilen der umgebenden Luft umströmt.
+Und deswegen passiert nicht nur Wärmeleitung, sondern eben Konvektion.
+Ja, sobald Sie darüber überlegt hatten, dass wenn der Effekt nicht da hätten, wenn nur Wärme leitet, nein, in Wirklichkeit ist es so, dass die heiße Luft aufsteigt und Sie erinnern sich vielleicht, ich weiß nicht, ob es nochmal kommt, keine Sorge, wir müssen die nicht alle angucken, ne, ist nicht drin, Sie erinnern sich an das Schlieren-Video.
+Ich werde es nächstes Mal nochmal mitbringen von der Dame, die dort im Raum stand und man sah so diese kräuseligen Luftschichten, die nach oben sich ablösten.
+So weit, so gut.
+Wir haben heute erzwungene Konvektionen, Kochbeispiele gelernt, um zwei Beispiele gerechnet.
+Ich hoffe, Sie können das gut anwenden.
+Wir haben ganz kurz reingeguckt, dass die freie Konvektion was ähnliches ist und sein wird.
+Das werden wir nächste Woche am Montag mit Ihnen weiter.
+ansehen, wir haben
+am Freitag Strömungstechnik
+und wir haben uns
+darauf geeinigt, dass ich am Montag
+den 22.12.
+dann synchron
+per Zoom
+in die Stunde mitgeben werde.
+Soweit, so gut, schöne Woche.

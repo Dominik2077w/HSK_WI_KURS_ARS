@@ -1,0 +1,1548 @@
+... weil es mir in der Sache angegangen ist, und ich zeige Ihnen das jetzt gleich,
+wenn hier der untere Kante des T-Puzzles ausgezählt wird,
+dann muss man so richtig koordinieren,
+man bringt dort eine Höherlinie ein
+und kann dann die Schere, die man hier hat,
+und mit dem Schieber kann man die Schere,
+die dort dann die Schere-Linie multipliziert wird,
+und dann die die Schere durch die jeweiligen Anteilfläche an sich,
+Ich gucke jetzt gleich in einer praktischen Ausführung, was bedeutet das, diese 4 mm abgerundet.
+Ich habe hier rot, das ist mal eingezeichnet, beziehungsweise blau, was sozusagen effektiv wirksam ist.
+Rot sind diese A's, die abgezogen werden, als Endkrater sozusagen.
+Dieses Maß wird reduziert.
+Wir haben die Fläche 5 hier unten. Dann haben wir die Fläche 4, sind zwei in der Zahl, sind symmetrisch.
+Fläche 3 ist die hier und Fläche 1, die in der Breite zu betrachten ist.
+Und jetzt werden hier die jeweiligen Anteile und der entsprechende Abstand von dieser Nulllinie subzimiert.
+Dieses A1, Fläche A1, sind die 320 mm², die sich aus 80 mal 4 mm zusammensetzen.
+Das was hier in der Ecke ist, das wird zwar durchgeschweißt, zählt aber nicht zur Fläche dazu, weil dort keine Spannungen sozusagen eingetragen werden, wenn jetzt der Laserpunkt steht.
+Der Abstand der Fläche ist 70 plus die Mittellinie 4 durch 2 mm, also 72 mm.
+Sie können gerne am Schluss auch ein Foto machen oder Sie schreiben es jetzt halt da rein.
+Wir gehen die einzelnen Dinge durch, dann gucken wir, wo die schwere Linie liegt
+und dann die Flächenträgheitsmomente zu ermitteln.
+Die Flächenträgheitsmomente brauchen wir, um die Vergleichsspannung machen zu können
+und zu sehen, wo es maximal vorhandene Liegespannung in dem Fall ist.
+Das ist die Fläche. Die 80 Millimeter für die Fläche 1. Die ist 80 breit. Das was hier in der Ecke drin ist, das wird nominal durchgeschweißt.
+Das haben wir hier angewandt, das A-Maß ist 0,7 mal T, wenn wir die mal in Wand stärken.
+Ansonsten, wenn Sie hintere Schweißnähte machen, kriegen Sie zu viel Spannung und Verzug.
+Dann haben wir gesagt, dieses A-Maß bei so einer Kehlennaht ist immer diese 0,7 mal T in Wandstärke.
+Das heißt, die Wandstärke für den Träger hier, für den T-Träger, ist 6 mm.
+Und oben sind es 8 mm. Dann gehen wir dazu über die minimale Wandstärke, 6 mm, dieses A-Maß daraus zu machen.
+Verstanden? Und dann kommen wir quasi mit diesem Abstand, das sind die 72 mm.
+Wie würde das jetzt aussehen für 2?
+Das ist einmal 8 mm, 4 mm.
+Das ist jetzt für eine Fläche. Wir müssen nachher darauf achten, dass wir da 2 davon haben.
+Der Abstand ist mit dem Maß 70 und der Schwerpunkt liegt bei der Hälfte, dieser 8 mm.
+Das sind 8 Albe, also 4, die noch abgezogen werden.
+Das Maß ist hier an der Stelle 66, wie dieser Kreuzungspunkt ist.
+Für den zweiten Teil, wie machen wir das hier?
+Sie gucken an das Maß. Rechnen Sie das mal. Versuchen Sie mal die 3 zu berechnen, die Fläche.
+Sie müssen das Rote, das da noch mit bemaßt ist, das ist dieser Endkraterabzug, den Sie berücksichtigen müssen.
+Und wenn eine Fläche durchgeschweißt wird, wird am Beginn der Fläche, wenn zum Beispiel da hinten so ein Auslaufblech gemacht wird,
+diesen Endkraterabzug zu machen.
+Hier wird zwar drum herum geschweißt, die Fläche zählt aber versehentlich dazu, weil da keine Spannung dran ist.
+Wie groß ist die Fläche?
+Vielen Dank.
+Ich habe es jetzt so gemacht, 80, minus 6, halbe, minus 6, minus 4, mal 4 mm, und da auch die 0,8.
+Das Maß wäre also 180, 4,25, 27.
+Wir können das auch aus der Anlage heraus sehen, wenn ich eine 80 habe, das sind 6 minus 3, minus 6, minus 4.
+Rote sind dann quasi diese Themen auch, oder?
+Das ist der Abzug eines Endkraters und der ist immer genau A.
+Ja.
+Ja? Das sind die 4 mm.
+Ah, okay.
+Der ist hier nochmal separat dargestellt.
+Was man hier auch machen kann, man kann natürlich von der Mittellinie ausgehen, weiß ich, das sind 3 hier bis da, das sind 6, das sind 9, hier nochmal abgezogen, das sind 13 und dann weiß ich 40 minus 13, das sind die 27 aus der Bemaßung.
+Was ist denn dieser Rotkreis?
+Das müssen Sie abziehen, wenn eine Schweißnaht auslaufend ist.
+So wie hier, das ist ja das Ende.
+Dann wird das Schweißgerät abgesetzt und bei der Berechnung macht man einen Endkraterabzug.
+Da ist die Schweißnaht nicht so tragfähig und das müssen Sie immer abziehen.
+Das war hier in der Vorlesung, kann ich das nochmal zeigen.
+Also diese Ecken, die werden immer nicht mitberechnet.
+Natürlich wird das normalerweise rundum gespeist.
+Da haben wir gesagt, wenn wir zum Beispiel so eine Querkraft haben,
+dann ist das falsch.
+Wenn wir so eine Schweißnaht machen und hier hinten dieses A-Maß, mit dem man die Berechnung
+macht und auch die Auslegung
+wird hier am Ende
+abgezogen.
+Weil die Festigkeit dort
+nicht in Ordnung ist.
+Man kann dem
+entgegenstreben, hier zum
+Beispiel auch,
+da um die Ecke herum wird
+geschweißt, aber hier machen sie einen
+Endkrater weg, da machen sie einen Endkrater
+weg und da auch.
+Wenn Sie jetzt,
+ich sag mal, da hinten, so wie
+der das da vorhin gemacht hat,
+Also ein bisschen ungünstig, habe ich gerade gesehen.
+So etwas machen.
+Das hier.
+Dann dürfen Sie bei der Berechnung dieser Schweißnaht,
+müssen Sie auch hier und hier einen Endkater abziehen.
+Weil Sie nicht um die Ecke herum schweißen und die Schweißnaht absetzen.
+Wenn die unterbrochen wird, wird sie abgesetzt.
+Und Sie können dem entgegenwirken, das macht man oft,
+indem man beim Schweißen solche Auslaufbleche anbringt, die dann nachher entfernt werden.
+So was, was der hier gemacht hat. Er hat hier ein Blech hingesetzt, kann jetzt hier vorne ansetzen,
+da ist der Endkrater, das wird aber nachher entfernt und damit habe ich keinen Endkrater
+dann kann ich das als Berechnungslänge nehmen, komplett. Wenn ich die Schweißnaht hier ansetze,
+muss ich da oben das A abziehen und hier am Ende dann auch.
+Da oben mit Folie sieht man das auch noch mal, das ist so eine Gabel, hier oben sitzt
+die Schweißnaht drauf, wird komplett durchgeschweißt, aber am Ende wird dieser Krater der Länge
+ab und zu rechnerisch für die Auslegung der Schweißnaht.
+Der Abstand ist 70 minus 8 minus die Hälfte der Breite der Schweißnaht, 4 halbe, sind 60.
+Da muss man halt die Maße aus der Zeichnung heraus lesen.
+Bei der Fläche 4 sind 70, minus 8, minus 6 und dann auch nochmal der Endkraterabzug minus 4 mal 4 mm sind 208.
+Die schwere Linie liegt bei dem Maß 26.
+70, minus 6, minus 8, Entschuldigung, minus 6, das Maß, das hier, nochmal minus 4, und davon die Hälfte,
+Und dann final für die andere Fläche noch, die liegt bei 6 mal 4, das ist 24, beim Maß Minus 2.
+So, das ist jetzt für die jeweilige Einzelfläche gemacht worden.
+Und dort, wo die Fläche halt doppelt vorhanden ist,
+geht das in die Berechnung der Schwerlinie halt auch doppelt ein.
+Soweit klar?
+Wir müssen dann nachher eine Vergleichsspannung machen, eine Übung und dann können wir gerne eine Fokussierung machen.
+Man multipliziert jetzt die jeweiligen Flächen mit dem Abstand der Schwerlinien und dividiert
+das Ganze dann durch die Summe der Einzelflächen.
+Hier ist überall der Faktor 2 drin.
+Das war unsere 1, das ist die 2, das Feld 2 gibt es zweimal, das Feld 3 gibt es zweimal
+und das Feld 4 gibt es zweimal.
+und dann kommt dann
+da unten bei den Flächen
+muss man das genauso machen
+dann kommt dann
+eine schwere Linie raus
+die liegt bei 49,03 Milliliter
+und dann haben wir jetzt gesagt
+das ist sozusagen
+der maximale Abstand
+zum einen
+ist das Emax
+in dieser Nullspannung
+die schwere Linie sozusagen. Wir müssen jetzt ermitteln, wie groß sind die jeweiligen Abstände
+von dieser schweren Linie. Das ist quasi die schwere Linie der einzelnen Naht im Vergleich
+zu der schweren Linie der kompletten Verschweißung. Und dazu haben wir gesagt, müssen wir einen
+Eigenanteil des Flächenträgheitsmoments, des Widerstandsmoments ermitteln. Der besteht aus
+b mal h hoch 3 zwölftel in Relation zu dieser vorhandenen Scherelinie, deren Maß jetzt hier
+bei 49,03 liegt. Und dann sind die Gesamtflächenträgheitsmomente hier oben zu addieren.
+Der hat das so umgesammelt gemacht, die Zahlen haben Sie, und hat es durch das Imax insgesamt dividiert.
+Eigenanteil der Fläche 1, das sind diese 4 mm.
+Das ist wahrscheinlich ein sehr geringer Anteil, oder ist ein geringer Anteil,
+Anteil, weil der Quer zur vorhandenen Wiegefläche liegt. Das hier wird einen sehr großen Anteil
+haben. Alles, was in der Querrichterung liegt, hat einen sehr kleinen Anteil. Das können
+wir jetzt zahlenmäßig dann auch gleich sehen. Wie groß ist der Steineranteil an der Stelle?
+Der Steineranteil, das ist die Fläche an sich, die Größe der Fläche mal den Abstand
+zum Quadrat von der schwere Linie. Und der ist jetzt an der Stelle A, ist 80 mal 4. Der
+Abstand der schwere Linie ist, wenn man das hier bis oben durchzieht, 72 minus 49,3. Das
+Während dieses Maß hier, von da nach da, 72, der Abstand von der Nulllinie, minus 49,03 zum Quadrat,
+das ist jetzt der kleine Anteil, der ist jetzt hier größer als dieser Eigenanteil,
+der kriegt also wenig Widerstand für die Biegung,
+man die dann in der Regel dann auch, ich sag mal, weglassen könnte. 4 mal 8 hoch 3 zwölftel ist der Anteil von der Fläche plus dem Abstand, das ist das Maß hier an der Stelle, wo jetzt der Laserpunkt sitzt.
+Wie groß ist das? Wie groß ist das Maß?
+Mal wieder rückwärts, die Maßen sind die 70 minus 4, das ist sozusagen das Maß, minus 49,3.
+Der hat die 72 minus 4 sind die 66, minus 49,03 sind Quadrat, die Fläche an sich ist 4 mal 8.
+Für die zweite Bildfläche Nummer 3 ist 27 mal die Höhe 4 hoch 3 durch 12, 244.
+Der Abstand ist 70, minus 6, minus 4, minus 8, minus 2, 60, minus 49, 3 zum Quadrat.
+wie sie durchgeht. Das ist ein bisschen eine Fleißarbeit jetzt an der Stelle. Dann kommen
+die einzelnen Eigenanteile zusammen und man muss das hier sozusagen subtilieren. Welche
+Das sind die beiden Anteile, die man addieren muss, die Anteile 2, 3 und 4 jeweils doppelt vorhanden sind.
+dass diese gewählte Nulllinie jetzt hier Fläche 5 unterhalb Null liegt und damit minusbemaßt ist.
+Das haben wir jetzt bei dem Flächenträgheitsmoment nicht, weil es natürlich auch einen Beitrag leistet
+mit seinem entsprechenden Abstand von der schweren Linie.
+Dahingehend wird dort die maximale Spannung zu verzeichnen sein über das axiale Widerstandsmoment
+Moment im Gesamt durch Emax sind die 49,03. Nach oben raus, wo die ganzen Schweißnähte sind, ist der Abstand 70, minus 49,03, das sind 21.
+Ja, und im Zuge dessen ist der größte Abstand gegeben von der schweren Linie an den Punkt hier unten,
+und das sind die 70 minus 49,03, beziehungsweise, wenn man das Emax jetzt sieht, sind es 49,03,
+plus hin zur Außen, zur äußeren Kante dieser Naht
+und nochmal 4 mm dazu.
+Und so kriegen wir jetzt dann über diese Steinnahtanteile
+und Eigenanteile dieses axiale Widerstandsmoment
+gegen Bieten.
+Ich gehe jetzt hier bezüglich der Auslegung nochmal zurück.
+Rahmenbedingungen, Tailträger an senkrechter Wand, überall gleiche Dicke, größtmögliche
+Schweißnaht, bei voller Millimeter Runden, bei Aussparungen und Krater abziehen, Schub
+ist an der Stelle zu vernachlässigen.
+Wir gucken nur nach dieser Biegespannung. Wir haben 850 mm Abstand der Kraft, die angreift.
+Und haben jetzt die schwere Linie der Schweißnaht ermittelt.
+Das ist der erste Schritt. Wir haben dann das Widerstandsmoment der Schweißnaht ermittelt.
+Wir können jetzt sozusagen über eine zulässige Spannung vom Werkstoff S355 ermitteln, die groß die zulässige Spannung ist und daraus über den vorhandenen Abstand der Kraft, die angreift.
+berechnen, wie groß ist das maximale
+zulässige
+Moment.
+Normalerweise könnte man jetzt auch
+wenn man
+Kraft formuliert,
+dann die entsprechende
+Spannung ermitteln.
+Wir machen das ein bisschen andersrum.
+Wir wollen also jetzt
+die maximale zusätzliche Kraft
+ermitteln, die gegeben ist.
+Die zulässige Spannung
+für so eine Schweißnaht
+mit dem vorhandenen Werkstoff sind 155 Newton pro Quadratmillimeter.
+Sie würden hier eine Tabelle kriegen, wo Sie den Wert raussuchen müssen,
+wie bei der Schweißung des Behälters.
+Dann auch da sieht man B, also die Liegespannung,
+das ist das vorhandene Liegemoment durch das axiale Widerstandsmoment,
+Das wir jetzt mit 11.179 mm hoch 3 berechnet haben.
+Und damit ergibt sich ein maximales Mitellmoment von 1,728 mal 10 hoch 6 Newton pro Newton mal Millimeter.
+das ist die Kraft, die maximal vorhanden ist, die war in der Kugel A, die Kraft 50 mm, gleich wird umgestellt, die können wir dann auch auflösen und kommen auf diese 2033 Newtonmeter.
+Newton. Was wäre jetzt, wenn wir den Querkraftschub noch berücksichtigen? Wenn wir den Querkraftschub
+noch drin hätten, brauchen wir eine Vergleichsspannung. Das sind die Materialien, dann immer die
+Eine steile Änderungsenergieprothese, die war, dass die Vergleichsspannung Sigma-V ist gleich Wurzel aus Sigma-B zu Quadrat bis Tau, dreimal Tau aus dem Querkraftstück.
+Das haben wir jetzt vernachlässigt an der Stelle.
+Man kommt hier rein in den Spiegelmoment, ein Grad daraus und 33 Newton Waren dazu.
+Das wäre jetzt für eine Prüfung, sage ich jetzt mal, ziemlicher Aufwand, diese Dinge da so durchzuziehen und das richtig zu machen.
+Und das eine baut natürlich auch das andere auf, das ist ein bisschen schwierig.
+Wenn wir vielleicht was machen mit der Berechnung von der Schweißnadel, würde ich eher sagen, wir gucken mal hier nach dem Behälter.
+Ja, das war so eine Mischung, wo man in Tabellen reinschauen muss und die richtigen Sachen rausziehen muss, um entsprechende Ableitungen machen zu können.
+Fragen dazu?
+Wenn Sie da gerade noch ein Foto machen möchten, ich habe hier die Lösung, der nicht im Skript.
+Dann haben wir das hier und dann auf der Seite davor noch das hier.
+Ich finde das jetzt hier, das wäre so eine Sache, wo man sagen kann, das ist jetzt vielleicht
+eine Sache, die, ja, ich sage mal, ein bisschen näher dran ist an das, was unsere Möglichkeiten
+anbetrifft, da unten mal an dem, da ist dann diese Spannung, die wird mit Wertabschub und
+gerücksichtigt werden. Es ist ein Widerstandsmoment bei der Torsion zu berechnen. Das eine kommt aus der Torsion, das andere kommt aus der Biegebeanspruchung und dann kann man hier die N-Werte schön berechnen.
+Das hier fand ich war jetzt auch keine so übermäßig schwierige Fragestellung, mit der man vielleicht auch mal in den Punkt reingehen kann, beziehungsweise das, was wir hier gemacht haben.
+Mit der Behälterberechnung, ja, da würde ich jetzt dann gleich noch die Lösung ablegen.
+Können Sie sich das mal anschauen, wie Sie es bisher nicht gemacht haben.
+Man muss hier auch die entsprechenden Tabellenwerte zurückgreifen.
+Was ich dazu sagen wollte, ganz kurz noch, das sind also Kennwerte.
+Ich habe letzte Woche dieses Monosmatik-Taschenbuch mit, wo diese ganzen Kennwerte verzeichnet sind.
+Da hat es aber mit einer Veränderung der Auflage, mit Verschiebung der Daten gegeben.
+Ich kann Ihnen nicht sagen, ob das jetzt wirklich bei der entsprechend aktuellen Variante so ist.
+Ich würde Ihnen aber diese Tabellen dann zur Verfügung stellen für die Prüfung.
+Da steht jetzt zum Beispiel drin, die für 20 Grad angegebenen Werte gelten bis 50 Grad.
+Das ist wieder richtig extrapräsiert, das war jetzt in der Fragestellung da drin, 50 Grad ist die Betriebstemperatur, wir müssen den Wert für 20 rausnehmen.
+Das ist jetzt alles in der Lösung dargestellt, Sie müssen auf diese Tabelle zugreifen, das ist aus dem Kontext die 6,15, wenn Sie ins aktuelle Tabellenbuch reingehen, ist es die 6,14.
+Das ist ein bisschen tricky, aber ich sage mal, das hat man immer.
+Deshalb habe ich das hier, damit das verstanden wird, aus TG 615, das ist das, was im Umtug ist.
+Wenn diese Aufgabe in ähnlicher Variante drankommt, würde ich die Unterlagen diesbezüglich zur Verfügung stellen.
+Und beim aktuellen Band ist es die 614.
+Da bin ich hier bei der Titelierung 614.
+Die Tüten, Unbeheizt, 50°,
+kennen wir, draufsuchen,
+Tabellenbuch 617,
+ist die Sicherheit geschrieben,
+sich das einfach mal anschauen,
+durchdefinieren,
+und da gibt es für alles, was hier angegeben wird,
+jeweils entsprechende Tüten.
+Unten steht dann auch
+ein verriegelter Prüfaufwand,
+das ist die Seite 124
+im Gutdruck.
+dann kann man diesen Schweißfaktor in der Formel angeben mit hier oben 0,85.
+Wenn man alle Nähte prüft, wird er mit 1,0 angesetzt.
+Also die C1- und die C2-Werte, die waren in der Aufgabenstellung auch angegeben.
+Die stammen aber aus Normen, die entsprechend vorhanden sind.
+Und dann haben wir nachher direkt nach dem Beispiel gerechnet,
+zu diesem Klöpperboden, wo so ein Beta-Faktor drin ist.
+Dieses Beta an sich wird mit dieser Formel bestimmt für den Klöpperboden.
+Es gibt noch eine weitere Variante, die berechnet werden kann.
+Sieht die Formel etwas anders aus.
+zu sehen, es gibt ein 3,1 als Faktor, der hier entsteht und als Alternative, wenn man
+in eine andere Norm reinschaut, das C1 war jetzt gegeben, dann sagt man, das C1 kann
+aber auch 0,3 sein, das hängt wahrscheinlich von den Lieferbedingungen ab, ich habe hier
+mit dem 0,4 und dann auch mal mit dem 0,3 gerechnet, dann ist der Unterschied marginal
+3,09 zu 2,1
+als Vorfaktor.
+Das ist dann nachher
+der nachlässige und der Boden
+als solches, der
+diese Krümmung besitzt,
+hat dann 8 mm,
+während, das ist gleich
+ein anderer Wert, der Wert lag bei
+7.
+Also da mal reinschauen,
+gucken, dass wir die richtigen Kennwerte einsetzen.
+Ich habe das dann auch definiert.
+Diese
+12 bar
+Also 12 bar sind 1,2 Minuten pro Quadratmillimeter in der Einheit, dass die Umrechnung da passt.
+Ich würde das jetzt ablegen, wir würden eine Viertelstunde Pause machen und dann fangen wir mit den Schrauben an.
+Das Skript ist abgelegt zum Schrauben, das würden wir jetzt in den nächsten beiden Vorlesungen noch machen.
+Ich weiß nicht, ob Sie das gesehen haben, ich habe für morgen Nachmittag noch mal eine Vorlesung anberaumt.
+Und dann machen wir das Thema Schrauben und in der letzten Vorlesung, dann im Januar, können wir das für noch ein paar Übungen zu Schrauben machen.
+Wir haben nur zweimal Wollsenzeit.
+Bitte?
+Wir haben nur zweimal Wollsenzeit.
+Danach, nach Weihnachten nur einmal.
+Nur einmal.
+Das ist sehr eng, ist mir klar.
+Könnt ihr mal die selbe 145 nochmal zeigen?
+49
+diese Kraft
+die greift da nicht
+rein gerade an
+sondern es gibt einen Widerstandsmoment
+im Lager
+das von x und y abhängt
+Und dann davon, wie dieser Winkel in diesen Seilen vorhanden ist, gibt es eine x- und y-Komponente, die auf das Lager wirkt und die dann zu einer Normalkraft führt,
+in einer Biegekomponente
+mit Querkraftschub.
+Und die
+habe ich damit mit.
+Ja.
+Und
+daraus
+haben wir dann
+die Vergleichsspannung
+berechnet mit den Komponenten
+Zugdruck und
+Querkraftschub
+aus dem xy
+Da sieht man schon, die Druckspannung ist relativ niedrig.
+Die Hauptkomponente kommt hier, der Querkraftschub.
+Das ist auch nur 1,5. Das ist die Hauptkomponente, die man da reinkriegt.
+Und das ist die Hauptspannung.
+Ist es wohl noch am 8. Vorlesung?
+Ja, am 15. Ich kann da gerne noch mal eine Fragestunde oder sowas anberaumen.
+Und was ich jetzt gehört habe, ist, dass, ich weiß jetzt nicht, was die anderen Kollegen da kommuniziert haben,
+Aber wie hat man gesagt, dass die offizielle Vorlesungszeit da an diesem 14. Ende ist?
+Haben Sie da schon mal irgendwas gehört?
+Haben andere irgendwas erzählt?
+Nichts.
+weil ich habe die erste prüfung schon am 23
+Ja, die fangen an glaube ich am 22. und eine Woche vorher soll keine Veranstaltung mehr stattfinden.
+Dann würde ich dir jetzt gerade noch diese Lösung hochladen.
+Die können wir auch hochladen.
+Ja, ja.
+Da kann man viel von so mitmachen.
+Das ist dein eigenes Testzeitpunkt.
+Das ist nicht in der Zeitung.
+Das ist das, was ich gesehen habe.
+Das ist das, was ich gesehen habe.
+Zwei, drei Mal.
+Wie hast du das so schnell gemacht?
+Verdammt.
+Ich habe das schon im 2. Semester gemacht.
+Ich habe ein sehr gutes ST gemacht.
+Du bist so schnell geworden, als Zhang Yi.
+Zhang Yi ist sehr schnell.
+Zhang Yi ist sehr langsam.
+Schau mal.
+Der ist besser als du.
+Schmiss-Tool.
+Schmiss-Tool.
+Schmiss-Tool.
+Ich weiß nicht.
+Wenn du mich jetzt plötzlich mal schmutzig nennst,
+dann ist es nicht so einfach.
+Ich muss mich wieder aufhalten.
+Ich habe eine Frage, über das Smith-Diagramm.
+Können Sie die Lösung auf dem Modell öffnen?
+Für die Doppel-Diagnostik.
+Das ist eine Doppel-Diagnostik, die du nicht weißt.
+Für die Doppel-Diagnostik, die du nicht weißt.
+Und diese, ja, Skript, ja, diese, äh, Typ, ja, Typ, und das nächste, ja, und...
+Wenn ich in der Prüfung jetzt hier was dranbringe, dann würde ich die Schwellenprüfung nicht
+ich jetzt die Werte hier angeben, die, wo war das jetzt, RE, RM und die Wechselstrahlung.
+Wechsel, RP, RM. Also bei der Prüfung nur diese. Genau. Das war mal eine alte Prüfung.
+Ah, okay. Aber vom Ausdruck her ist es sehr ähnlich.
+Ja.
+Was ich zu Hause...
+Ja.
+Wo ist die, wenn Sie im Swiss-Diagramm...
+Eine Frage?
+Diese Druckschwellfestigkeit, wo ist die?
+Das ist jetzt... Ich zeige das mal.
+Wir haben das, das, das. Wir haben hier die Wechselfestigkeit.
+Das ist Sigma W plus Sigma W minus.
+Dann habe ich hier RE und ich habe hier RM.
+Dann kann ich, wo ist Sigma Zugdruck Schwell?
+Wo ist der Wert?
+Kann ich versuchen?
+Ja.
+Wenn der...
+Ja?
+Ja, genau.
+Sehr gut.
+45.
+Ja.
+Die Konstruktion.
+Gut.
+Und die.
+Die.
+Ja, kann man machen.
+Und dann diese Verbindung, genau, und dann das darüber, ja, genau, was fehlt, was fehlt?
+Das ist Plastik, erregte, notige, ah ja, normalerweise zählt man.
+Genau, und wenn Sie jetzt das hier haben, im Diagramm, dann ist es jetzt schön konstruiert nach der Regel.
+Ach du Scheiße.
+Ey, hier ist keine Folie drin.
+Es ist Gott sei Dank kein Dauerstück im Leben.
+Der war mir recht am Arsch hier.
+Okay.
+Wo ist die Schwellfestigkeit?
+Schwellfestigkeit im Diagramm.
+Schwellfestigkeit im Diagramm.
+Das ist die Mittelspannung.
+Mittelspannung und Schlele.
+Wo ist die Schwellfestigkeit?
+Das ist Wechsel.
+Plus und Minus.
+Das ist einmal Plus und Minus.
+Das ist immer gleich.
+Zugdruck, Biegung und Torsion.
+Wo ist die Schwellfestigkeit?
+das ist die streckgrenze das bauteil wäre an der stelle wahrscheinlich sogar
+dauerfest wenn wir jetzt über diese amplitude rausgehen aber man will keine plastische deformation
+wo ist die schwellfestigkeit wissen sie
+Und was war das noch mal? Was war die Schwellfestigkeit?
+Scheiße, ich bin ja nicht so frisch.
+Ha?
+Haha, hier war keine Zunge, schau.
+Meinetwegen darf ich ihn noch ferner nehmen, schau da.
+Ah ja, Gegenrolle fehlt auch.
+Das ist das Wichtigste.
+Wo ist die Schwellfestigkeit?
+Das liegt einfach bei, also ganz links bei Null.
+Und quasi dann Sigma W und Minus Sigma W.
+Nee, das ist die Wechselfestigkeit.
+Also hier ist die Wechselfestigkeit.
+Hier gibt es Null, Plus und Minus.
+Und der Wert ist mal kleiner als die Zugdruckschwell- oder Biegeschwellfestigkeit.
+Vielen Dank.
+Schauen wir mal, wo wir was finden.
+Wenn ich die Schwellfestigkeit habe, Sigma Schwell, heißt das was?
+Die Unterspannung Sigma U ist gleich 0.
+Und die Oberspannung Sigma O ist gleich dieses Sigma Schwellfestigkeit.
+Also ich sage jetzt mal, hier haben wir plus minus die Werte von Sigma, plus minus Sigma W, plus Sigma W, minus Sigma W.
+Und das sind die halben Werte der Amplitude. 330 und 330 sind 660.
+Wenn ich das hier habe, dann ist das der Wert, wenn das 700 sind, dann trage ich die auf.
+700
+Wie in dem anderen Beispiel.
+Dann habe ich hier aufgetragen,
+das ist ja die Mittelspannung.
+Wie hoch ist die Mittelspannung bei 700?
+350
+350
+Das ist dann bei 0 eigentlich, oder?
+Bei y ist 0
+und dann gehe ich 700 nach oben.
+Genau. Da ist die Unterspannung, da ist die Mittelspannung, da ist die Oberspannung.
+Das sind 0 ist Sigma U, hier ist Sigma M und das ist Sigma Schwell.
+Das ist da, wo die Kurve da unten die Achse schneidet. Das ist der Punkt.
+Und da nach da.
+Und wenn ich die Schwellfestigkeit habe, dann habe ich auch die Steilung hier an der Stelle.
+Und begrenzt wird es oben mit dem RE.
+Dann muss ich diese Konstruktion da oben nicht machen mit RM halbe.
+Oder Sigma D halbe.
+Verstanden?
+Beim anderen mache ich das dann so.
+dann habe ich die Schwellfestigkeit, ich habe hier mein RE. Wenn ich das jetzt hier verbinde,
+dann kann ich das so machen, dann brauche ich das RM nicht. Dann trage ich das hier nach unten ab,
+Das geht da hin, dann gibt es das hier und dann gibt es den Klick da.
+Das ist eine zusätzliche Info.
+Das ist jetzt ein etwas anderer Weg, weil ich habe da, habe ich bei der anderen Übung,
+das ist hier das RE, RM.
+Schnellwechselfestigkeit Rp02.
+Da ist das Rm nicht angegeben.
+Das ist die Schnellfestigkeit.
+Da ist die Unterspannung 0, Mittelspannung 350 und die gibt man immer mit der Oberspannung an,
+während die Wechselfestigkeit immer angegeben ist im Plus-Minus.
+Das waren jetzt hier dann irgendwie 330 oder sowas.
+Und das sind vielleicht jetzt 600 oder 700.
+Das ist der Punkt hier, der, da sind wir jetzt bei 520, ne, und bei dem hier liegt der Wert jetzt an der Stelle, das ist Sigma M, das ist die halbe Spannung,
+Das sind die 350, die nach oben abträgt, dann sind das die 700 da, da oben an der Stelle.
+Ja?
+Das sind genau die 700 da, 350, 700.
+Und wenn Sie dann hier RE haben, das ist sogar dieses Diagramm, wenn ich das jetzt hier richtig sehe.
+Das ist sogar dieses Diagramm.
+Die Aufgabe.
+Genau das Material.
+Hier sind die 700.
+Und da oben ist der Nulldurchgang bei 350.
+Mittelspannung 350, also Unterspannung, Mittelspannung, Oberspannung genau bei hier 700.
+Dann habe ich den Punkt, ich habe den Punkt und ich habe da oben war das RE, das waren 900.
+Das ist genau das Diagramm hier.
+Das muss rauskommen.
+Das heißt, diese Punkt.
+Das hier ist Rg.
+Das ist Rg.
+Das ist Rg.
+Das ist die Amplitude. Das Material würde das mutmaßlich aushalten, aber es gibt plastische Deformation. Das will man ja nicht.
+Das hier, das ist eigentlich größer, das Feld. Das hier ist eigentlich größer.
+Man begrenzt das aber, weil man keine plastische Deformation zulässt und deshalb verbindet man diese Punkte für die untere, obere Dauerfestigkeit und man nimmt das raus, einfach um.
+Und hier sehen Sie, da ist die Schwellfestigkeit.
+Was für die Inputs, Zug und Blut, Schleim, Sigma,
+Es hängt von der Beanspruchung ab, Torsionsfestigkeit ist kleiner, reine Torsion, das Feld ist kleiner,
+Zugdruck kann das Material, wenn wir reine Zugdruck Beanspruchung haben, hat das Material eine höhere
+Festigkeit. Wenn Sie nur Biegung haben, hat es noch mal eine größere Festigkeit.
+Wo ist denn dieser Punkt?
+150, 750, 700.
+Die Schwellfestigkeit ist angegeben mit 700, das ist der obere Punkt, das ist der hier.
+350 ist die Mittelspannung zu 700 und die Unterspannung ist 0.
+Hier.
+Damit haben Sie alle Steigungen, weil das definierte Punkte sind.
+Ja?
+Okay.
+Die sind immer an der gleichen Stelle.
+Und die Schwellfestigkeit für Torsion ist die hier.
+Die liegt bei 200, 280.
+Ne, was ist das?
+280, 280, 560, ja. Schwellfestigkeit ist immer hier unten da bei 0 Durchstand. Für die Biegung sind das 420. Schwellfestigkeit 840, ja.
+ja machen wir gleich jetzt gerade noch was ablegen
+oder wir machen was in der frage stünde
+Vielen Dank.
+Vielen Dank.
+Amen.
+So.
+Mal gucken, ob das geht, bis ich es runterladen kann.
+Ich kenne das Gefühl, dass die Zeit heute sehr lang ist.
+Das war's für heute.
+Vielen Dank.
+Dann gehen wir jetzt hier zu den Schrauben, das ist als solches jetzt vollständig abgelegt.
+Vielen Dank.
+Vielleicht nächste Woche.
+Nächste Woche?
+8. oder 9.
+Ich glaube, da haben wir eine Aufkollesung.
+Können Sie mich heute auch ein bisschen eingrenzen?
+Nein, das habe ich nicht gemacht, weil ich die Prüfung noch nicht gemacht habe.
+Ich habe das Problem, dass ich bei dieser Prüfung zugesagt habe,
+andere Studiengänge
+mit zu prüfen, weil der Boden
+nicht mehr da ist
+und sich da irgendwie auch nur
+geweigert hat, da noch was zu machen.
+Die Prüfungsformate sind bei denen
+komplett anders.
+Das eine ist eine Teilprüfung
+bei
+EU.
+Die machen damit in der Prüfung
+Fertigungstechnik, Maschinenelemente
+und all so ein Gedöns, zwei Stunden.
+Ich weiß gar nicht, wie mein zeitlicher Anteil ist.
+Und dann eine Teilprüfung
+bei LV
+auch noch.
+Das ist eine Stunde.
+Also Sie haben 90 Minuten.
+Wir bleiben aber bei dem Format,
+was ich ja schon gesagt habe,
+30 Minuten allgemein.
+60 Minuten
+Allgemein, ohne Unterlage und 60 Minuten rechnen.
+Und ich sage mal, da gebe ich noch mal so zwei, drei Hinweise, das sind gleich drei Aufgaben, was in der Summe drankommen könnte.
+Ja, aus den Übungen ähnliche Aufgaben, die dann in der Prüfung Anwendung finden.
+Kann ich mal rechnen?
+mache ich dann ja wenn ich weiß welche wenn ich jetzt ein bisschen selber überfragt ich habe das
+jetzt noch nicht gemacht hier könnte man zum beispiel sich sehr gut vorstellen da habe ich
+gesagt auf jeden fall smith diagramm ja dass wir das zeichnen können aus dem kopf heraus
+und diese dinge machen und was man hier noch sehr gut machen kann wäre auch so verspannungs diagramm
+Das machen wir jetzt bei den Schrauben. Und dann noch zwei, drei kleinere allgemeine Fragen, ja?
+Für die allgemeinen Fragen.
+Ja. Das kommt jetzt, das machen wir jetzt in der Vorlesung, dann wird man das verstanden haben,
+wie sich das zusammensetzt, wie die Steigungen sind und was dieses Verspannungsdiagramm für
+Ich weiß, dass das gängig ist unter Umständen.
+Ich habe noch keine mit Laptop geschrieben.
+Ich habe noch nie eine geschrieben.
+Mit Laptop habe ich noch keine geschrieben.
+So gängig kann man es nicht so einfach machen.
+Aber das gibt es ehrlich.
+In Fahrzeugtechnik darf man das machen.
+Weich?
+Also ein Kollege hat Fahrzeugtechnik studiert
+und da so von immer.
+Können wir auch mit einem besitzen?
+Ich hatte mal Prüfungen
+in der Online-Zeit.
+Das war bei OPI. Die Leute haben zuhause die Prüfung geschrieben, unter Observation sozusagen.
+Kamera an, die Prüfung gemacht.
+Ich weiß nicht, ob ich das irgendwo habe, ich muss da aufpassen, weil da hat so ein Name auf einen gerutscht.
+Leute, war einer dabei, der hat irgendwas ganz spektakulär falsch geschrieben.
+Und ich dachte, boah, naja, ich weiß nicht mehr genau, was das war.
+Und dann habe ich gedacht, naja, er hat sich Gedanken gemacht und vielleicht ist es auch partiell richtig.
+Dann haben wir zwei Punkte gegeben.
+Weiter kombiniert, vorher gearbeitet, nach Alphabet sortiert, da kommt einer, genau der gleiche Fehler.
+Absolut identisch.
+Kurios falsch.
+Ich gucke.
+Ich habe hier zwei Arbeiten.
+Einmal dieser Fehler.
+Das ist ungewöhnlich.
+Ich muss das mal vergleichen.
+Dann habe ich die beiden Arbeiten verglichen.
+Normalerweise von oben bis unten.
+In allen Aufgabenstellungen absolut identisch.
+Gleich ein Fehler drin.
+Dann habe ich einen Kollegen schon informiert.
+Sie mögen bitte bei sich mal schauen,
+ob das da ähnlich aussieht.
+Wir haben auch dort für die anderen Aufgabenteile identische Lösungen gemacht.
+So blöd kann man ja nicht sein, oder?
+Moment, wir haben zu Hause gehockt am Rechner.
+Das kann man hier ja nicht überprüfen, was die da jetzt am Ende des Tages machen.
+Ja, also es geht ja weiter.
+Es war noch irgendeiner mit dem Z-Klaren Z ganz am Schluss, oder der dritte im Grunde,
+alle drei identische Fehler gemacht, identische Prüfungen abgegeben,
+Denn jeder, wir haben gleichzeitig alle drei Teilprüfungen gekriegt, jeder hat eine bearbeitet und den anderen dann über eine zweite Kamera wahrscheinlich ins Wohnzimmer geschickt.
+Jeder hat sich so seine eigene Teilprüfung gemacht, Hoffmann, Vogelei und Gaba hat die Aufgaben abgegeben und haben teilweise in den anderen Prüfungen auch falsche Antworten geliefert, die identisch falsch gewesen sind.
+Dann haben wir dann dreimal mit fünf Gelegenheiten getrunken.
+Sie haben sich wirklich mehr Gedanken darüber gemacht, wie sie das scheißen sollen.
+Weil sie konnten alle Unterlagen nutzen, würde ich damit sagen.
+Waren wir zu faul, um das zu machen?
+Jeder macht einen Teil und dann teilen wir uns das.
+Es gibt nur noch eine zweite Kamera und dann...
+Also diesen Aufwand betrieben.
+Das könnte ich mir jetzt gut vorstellen.
+Das sind sehr schöne Teilaufgaben, das MIS-Diagramm.
+Das muss man dann so in der Viertelstunde hinkriegen und dann so ein Verspannungsdiagramm und zwei, drei weitere Fragen.
+Also kein großer Aufwand da jetzt an der Stelle, damit wir verstanden haben, was da jetzt kommt.
+Und zum Rechnen, da würde ich von, ich sag mal, vielleicht drei Aufgaben, vielleicht vier, einen Großteil sagen, was da jetzt kommt.
+Wahrscheinlich irgendwas mit Schrauben, mit Schweißen.
+Ja, genau. Schrauben, Schweißen, da könnte ich mir das mit dem Druckbehälter ganz gut vorstellen.
+Da würde ich aber die Unterlagen dazu mit ausgeben.
+Okay, gehen wir mal in die Schrauben jetzt rein.
+Schrauben als solches ist das häufigst verwendete Maschinenelement, muss ebenfalls einer Berechnung
+zugehnlich gemacht werden. Die Basis dafür ist die sogenannte Schraubenlinie, so dass wir am Anfang
+mal ein paar Begriffe definieren. Kräfte und Momente, die auftreten beim Anziehen einer
+Schraubverbindung. Ich habe das Skript von einem Kollegen Bohn da gelesen, heißt es Schraubverbindung
+oder Schraubenverbindung?
+Er hat nämlich
+Schraubenverbindung geschrieben.
+Andere Lehrbücher
+reden von der Schraubverbindung.
+Ob das beides möglich ist?
+Wahrscheinlich schon.
+Reibung tritt auf.
+Dann gibt es so etwas wie eine
+Selbsthemmung, so eine Schraube.
+Obwohl da jetzt wirklich so eine Bewegung
+möglich ist,
+hat ein Moment
+beziehungsweise eine Kraft,
+die überwinden werden muss. Das liegt an der vorhandenen Reibung.
+Da schauen wir uns ein bisschen näher an. Dann machen wir so einen Festigkeitsnachweis
+von Schraubverbindungen, Vorspannung und Verformung, die auftritt.
+Das ist sozusagen dieses Verspannungsdiagramm, das wir uns anschauen werden.
+Und dann, wie trägt man in dieses Verspannungsdiagramm eine Querkraft oder Längskraft,
+die Auftritt ein, respektive ja, kann man nicht wirklich eintragen, aber berechnen und wie kann man sowas dann gestalten.
+Es sind so ein paar Schrauben dargestellt, die ganz unterschiedliche Ausführungen besitzen können, die sind lösbar.
+Es gibt sowas wie Befestigungsrespektive Bewegungsschrauben, die der Kraftübertragung dienen,
+die reitschlüssig, formschlüssig oder in beiden Varianten erfolgen kann.
+Es wird eine Drehbewegung in eine Längsbewegung umgesetzt.
+Hier haben wir so Inbusschrauben, das ist ein Bereich, der komplett genormt ist,
+da unten sehr lange Schrauben, die Dünnenschaft.
+Warum man das macht, werden wir sehen.
+Hier diese Einsatzmöglichkeit als Antriebselement, um eine Drehbewegung, die vorhanden ist, in eine Längsbewegung umzusetzen.
+Beim Wagenheber, Drillbohrer, Schneckentrieb ist es beispielsweise der Fall, oder hier im Fall eines Schraubstockes,
+hier oben sind Drehmomente reinbringen
+und unten eine Kraft
+auf
+ein Element, das man
+festigen möchte, umzusetzen
+Spiegelpresse, Schraubstock
+sind so typische Elemente
+wo man
+da jetzt nur berechnen kann
+Stellschraube und Messschraube
+Verschluss- und Dichtelement
+als Beispiele
+Ziel ist die Bewegung
+das Umsetzen des Drehmoments
+in eine Längskraft
+vorhanden ist.
+Hohe Reibungsverluste in die Winde
+führen zu einem
+schlechten Wirkungsgrad,
+als Folge wird die Längskraft
+nicht mehr
+in einen Drehmoment
+umgewandelt.
+Also das gibt einen Stillstand da,
+wie sich das Ganze definieren lässt
+und anschauen.
+Gucken wir uns das dann gleich an.
+Ich bin ja immer irritiert, ich schaue hier auf die Uhr im Telefon, die Pause, die sind früher gemacht, die gehen 11 Minuten vor im gesamten Haus.
+Ja, bei solchen Befestigungen oder Bewegungsschrauben wie Wagenheber beispielsweise ist das gewünscht,
+dass die Reibung so groß ist, dass wenn man kein Trimmoment einbringt, eine Veränderung
+der Längskraft vorhanden ist. Das betrifft keine Bewegung mehr im System. Es wird ein
+sogenanntes Gewindeprofil entlang einer Schraubenlinie als Rotation um diese Achse herum bewegt.
+Die entstehen in Wirkflächen, in denen die Kräfte aufregen, heißen also Gewinde. Dabei
+Da gibt es rechtsgängige und linksgängige Gewinde, die sich in der Art und Weise unterscheiden.
+Also Schraube ist das meistverwendete Maschinenelement zum Verbinden von Bauteilen.
+Hier ist es jetzt mal dargestellt, das ist jetzt gleich wichtig, weil das Ganze in so einem Bogenmaß gelessen wird.
+Wir haben hier einen Drehwinkel Alpha, die spiralförmig abgewickelten Wirkflächen,
+die dazu führen, dass entlang einer Steigung Phi die Mutter, die jetzt hier gedreht wird,
+auf der Schraube eine Bewegung nach oben oder nach unten macht, je nachdem, wie herum wir jetzt drehen.
+Das heißt, hier ist der Winkel Phi angegeben.
+und im Umfang wird mittels dieser Steigung, die man als P bezeichnet,
+dann die Schraube nach oben oder nach unten bewegt.
+Phi ist also die sogenannte Steigung, die wir haben.
+Die korreliert jetzt hier zu diesem P.
+Bei einer Umdrehung, die gemacht wird, findet also die Steigung E statt, wo man das Ganze sich formelmäßig so ein bisschen anschaut.
+Da kann man jetzt formulieren, dass Tangens V gegen durch An-Kathete ist gleich H durch U im Allgemeinen.
+Und für eine Umdrehung sozusagen wird über dieses D2, das ist ein Mittelwert, der gebildet wird, schauen wir uns gleich noch näher an,
+Bei einem Gewindegang würdest du sagen, die Höhe des Gewindeganges ist eine Umdrehung gemacht.
+Und das ist die Gewindesteigung, das ist K.
+Dieses U ist gleich Alpha mal D2 halbe.
+Und dabei wird das Alpha im sogenannten Bogenmaß angegeben.
+D2, es gibt da teilweise etwas andere Formulierungen, je nach Lehrbuch.
+ist gleich der mittlere Durchmesser.
+Dadurch, dass man eine Einstechtiefe hat, innen, in dieses Gewinde und im äußeren Durchmesser,
+ist das ein Mittelwert, der hier gebildet wird.
+Dieses D2 ist also sozusagen im Bogenmaß anzusetzen.
+Und hier sind so ein paar Korrelationen mal dargestellt.
+Im Bogenmaß bedeutet das, dass Alpha durch 180 Grad mal Pi den entsprechenden Winkel entspricht.
+90 Grad in Watt sind 1,571.
+Diese 180 Grad, das entspricht Pi.
+Und eine ganze Umdrehung, die abgewickelt wird, sind wir bei 2 Pi, das sind 6,283 Grad.
+Das heißt, der Kreisbogen, der dort beschritten wird, im Verhältnis zum Radius, ist dieses sogenannte Bogenmaß.
+U ist dann hier genau so definiert.
+x gleich Pi, 3,14 Rad, ist eine halbe Umdrehung, eine ganze Umdrehung von 360 Grad sind diese 6,232 Pi entsprechend.
+Fragen dazu? Das werden wir nachher brauchen, um Berechnungen machen zu können.
+Wenn man sich die Gewinde anschaut, was sind die wirksamen Größen?
+Wenn man sich die Router anschaut in Verbindung mit der Nutzungsschraube, dann haben wir einen äußeren Durchmesser klein b.
+Wir haben diesen mittleren Durchmesser, der hat uns jetzt als groß b den Flankendurchmesser bezeichnet.
+Das ist dieses große E2, das ist ein Beispiel jetzt hier für eine M8er Gewinde, das ist diese D13, die das Ganze beschreibt, diese symmetrischen Gewinde, das sind die am häufigsten verwendeten Schraubenverbindungen.
+Wir haben hier das D2, 7,188. Das D3, das ist quasi der innere Durchmesser, wo die Schraube ausgedreht ist, ist 6,46.
+Wir haben dann den Spannungsklärschnitt, über den die Spannung geht.
+Wir haben ja einmal außen die Fläche, innen die Fläche.
+Wenn man sich die gegenüberliegende Seite anschaut, dann würde quasi der Einstrich auf der Seite gegenüberliegend so ausschauen.
+Ich zeige mal den wirksamen Spannungsquerschnitt, damit man sich das vielleicht besser vorstellen kann.
+So sieht das aus.
+Das ist der wirksame Spannungsquerschnitt im Lippenteil der Schraube, der sogenannten Freidrehung, die oben gemacht wird.
+Damit erblickt sich der Kreis unter der Querschnitt durch diese Freidrehung, die man gemacht hat.
+Wenn man sich jetzt aber den Querschnitt an einer bestimmten Stelle hier anschaut, dann sieht man, dieser Querschnitt ist ja nicht D2, also D3 oder D1, D.
+also nicht dieses
+Groß D
+oder hier das D
+und das D3, wo diese Einstechtiefe
+vorhanden ist, sondern der Querschnitt
+ist so mittelwertig.
+Und dafür hat man dieses D2
+gewildert.
+Das heißt, wenn jetzt da eine Spannung draufkommt über eine Zugkraft und ein Drehmoment, was ich einbringe, muss ich eine Vergleichsspannung machen und ich brauche einen repräsentativen Spannungsquerschnitt.
+Und das ist dieses AS. Und das ist in den Tabellenwerten angegeben. Wenn man über diesen Querschnitt halt drüber schaut, dann sieht man auf der einen Seite ist die Erhöhung, auf der anderen Seite ist die eingebrachte Not.
+Und die läuft hier spiralförmig sozusagen darüber, sodass der vorhandene Spannungsquerschnitt nicht diesem A3-Tunnel, aber auch nicht dem E des Außendurchschnitts ist.
+Hier wird dann ein Mittelwert gebildet, der sich aus dem T2 zusammensetzt.
+Wir haben hier einen Spannungsquerschnitt von 36,6, das ist der Mittelwert, den man da macht, den wir jetzt nicht angekommen haben, ihr könnt es gleich sehen.
+Mit größer werdenden Gewinde-Nenn-Durchmesser wird die Steigung dann entsprechend auch kleiner, relativ bisschen.
+Der Spannungsquerschnitt, der hat zur Folge, dass ein polares Widerstandsmoment vorhanden ist, das heißt, über die Kursion, die in die Schraube eingebracht wird, wird häufig dann auch, gerade im ersten Gewinnbegang, das Versagen auch, weil dort die Kräfte sehr stark wirksam sind.
+Der Kernquerschnitt ist das A3, das ist 32,8.
+Das ist quasi bezogen auf den Durchmesser, der ja auch nicht linear drin liegt,
+weil die Form des Gewinns spiralförmig ist, 32,8 in 36,6.
+mit dem man versucht diese berechnungen durchzuführen was ist das sw schlüssel
+weite sozusagen schraubenschlüssel den sie brauchen um eine schraube 8 mm gewinde durchmesser zu
+um zu drehen, brauchen wir eine Schlüsselweite für den Kopf von 13 mm.
+Mit welcher Schlüsselweite kann man Bierflaschen öffnen?
+So, der vorhandene Flankenwinkel bei diesem isometrischen Gewinde nach dieser Norm G13
+Zweimal Wetter, 60 Grad, mit dem Durchmesser GK, das heißt die Brei am Gewindegrund und der Spannungskerschnitt als Bezugsgröße.
+Das ist jetzt nochmal entsprechend angestellt.
+Dann gibt es unterschiedliche Gewindeformen.
+Das ist dieses elektrische Gewinde mit einem Flankenwinkel von 60 Grad.
+Dann gibt es das als Feingewinde, da ist die Steigung entsprechend geringer.
+Dann haben wir das Rohrgewinde, da hinten, das war noch wie das F, das findet man noch im Vorleitungsbau.
+Das Rohrgewinde, C, Amplizgewinde, Sägegewinde, Grundgewinde,
+Hier sind die Bezugsgrößen jetzt auch nochmal dargestellt.
+Durch den Dreistrich ist dieses Ak gleich sozusagen dem G3, das ist dieser Kerndurchmesser, der Flankendurchmesser und der Außen- und Nenndurchmesser,
+war jetzt zum Beispiel das M8 oder M10, das entsprechend mit einem Spannungsquerschnitt
+versehen ist, der diese Form annimmt und den wir als ds oder d2 bezeichnen und der Formel
+nimmt sich dann unter den Spannungsdurchmesser. ds ist d2 zu d3 addiert als Mittelwert sozusagen,
+Hier gibt es eine diverse Anzahl von Schrauben.
+Das sind die Normen, die dargestellt sind.
+Hier haben wir eine typische Sechskantschraube.
+Ich habe die gleich noch mal so ein bisschen rausgezogen und ein paar Bilder entnommen.
+M10, M8 haben wir uns jetzt gerade angeschaut, M12 mal dargestellt, hier typische Sechskantschrauben mit dem aufgesetzten Kopf,
+hier mit einer Reibfläche, die definiert ist, mit der dann auch Reibung eingebracht wird in den Kopf, die man betrachten muss,
+Wir haben hier zusätzlich nur eine Gewindeschaft versehen, sodass hier oben beispielsweise auch Kräfte übertragen werden können, Querkräfte, falls das von Notwendigkeit besitzt.
+Und hier verschiedenste Arten, wie diese eine Schraube mit einem Freischritt da hinten und mit einer Passung im Bühnenbereich.
+Und diese Querkräfte, die übertragen werden müssen, sind das durch das gelbe Bösen hier in den Sechskant.
+Und Sie haben es sicherlich auch schon mal gesehen, die komprimierenden Protonen.
+Wir erfolgen die Bezeichnung von Schrauben.
+Es wird hauptsächlich in zäher Stahl mit verschiedenen Festigkeits- und Gehungseigenschaften eingesetzt.
+Gemäß der Norm sind diese Schrauben mit einem Nenndurchmesser größer als 5 mm dauerhaft zu kennzeichnen, und zwar mit den Festigkeitsklassen, die da lauten 3, 6, 8, 8, 10, 9, 12, 9.
+Die erste Ziffer steht für einen mindestens Teil der Nennzugfestigkeit.
+Das heißt, 10 würde bedeuten, wir haben eine Zugfestigkeit von 1000 Megapaskal.
+Und die zweite entspricht dem 10-fachen Verhältnis der Nennstreckgrenze.
+Zugfestigkeit und Streckgrenze in Relation haben wir einmal 1200 und dann 900 Megapaskal.
+Das ist auf den Schrauben aufzuschalten und aufzutragen.
+Hier haben wir die Zugfestigkeit als Rm,
+und hier dieses Rp02 zu Rm mit 10.9 bedeutet das.
+Die Zugfestigkeit ist 1000 Megapaskal,
+und die Grenze zur klassischen Deformation
+sind hier diese 900 Mpa oder Newton Quadraten.
+Hier unten ist dargestellt, Kennzeichnung 8.8, das sind 800 Megapaskal, 80% davon ist die Streckgrenze,
+Das Gewinde wird nicht abgeschert.
+Wir haben hier Unterschiede zwischen geräumten und einem getretenen Gewinde.
+Da werden hier die Fasern sozusagen verdichtet und folgen eher dem Kraftverlauf, als dass da ein Regengewinde ist, sodass hier die Geräubenvarianten zu besserer Festigkeit führen.
+Ich habe Ihnen mal die ganzen Formen jetzt hier so ergänzt und draufstehen lassen, sodass Sie jetzt hier nichts mitschreiben müssen.
+Ich habe gesehen, der Kollege Bohn, der hat da ein paar ähnliche Formen, aber andere Ausdrucksweise.
+Da wird sehr häufig das Drehmoment mit T angegeben.
+Hier ist diese Bewegungsform, wie jetzt sozusagen diese Schraube nach oben bewegt wird.
+Wir haben hier den Querschnitt gemacht.
+An der Stelle A schauen wir uns dieses Schnittbild an.
+Wir haben jetzt hier reibungsfrei gelagert, sozusagen die Mutter, die durch die Drehung der Schraube bewegt wird.
+Dabei wird das Moment, das eingepackt wird, in eine aktiale Komponente umgesetzt,
+in der kinetischen Bedienung, die aus der Steigung Phi kommt und auf diesem Durchmesser D2, sozusagen,
+Man kann das hier umdrehen, die Schraube, und eine reinungsfrei gelagerte Mutter geht sozusagen je nachdem, wie herum man die Schraube dreht, diese schiefe Ebene nach oben.
+und der Steigungswinkel.
+Dabei wird die Kraft,
+die als Moment eingebracht wird,
+in eine axiale Komponente
+und eine Umfangskomponente
+umgesetzt.
+Und die folgt jetzt
+entsprechend
+dem Tangensvieh
+der
+Steigung dieser
+Kragen. Diese Axialkraft geht
+unmittelbar in
+ja, diese Komponente
+dieser. Und dieses Moment, das
+eingebracht wird, wird abgewickelt
+sozusagen als Umfangskraft
+auf den Durchmesser
+D2, den wir jetzt
+eigentlich gesehen haben. Der ist ja
+eigentlich so eine
+nicht zentrig liegende Fläche,
+aber das wird so formuliert, als wenn es
+eine solche wäre.
+Auf D2
+halbe wirft diese
+Umfangskraft
+und es definiert dadurch, dass da Axialkraft entsteht,
+die D2 halbe mal Tangens 4.
+Und je nachdem, wie rum wir drehen, geht das die Ebene rauf oder runter.
+Was mir jetzt noch fehlt, ist sozusagen eine Hemmung.
+Wenn man das jetzt so sagen würde, würde das sozusagen nach unten weglaufen.
+Das Ganze reibungsfrei ist.
+Fragen dazu?
+Wir bringen ein Drehmoment ein und dieses Drehmoment führt zu einer Axialkraft, die dazu führt, dass diese Mutter bewegt wird.
+Irgendwann ist eine Verbindung dann fest und werden Flächen damit zusammengeklemmt,
+während die axiale Verspannung der Schraube dazu führt, dass eine Zugspannung in dieser Schraube wirkt.
+Ja, und das machen wir über diese Komponenten der Steigung, die jetzt wiederum den Komponenten des Spannungsquerschnittes, der wirksam ist, die davon abhängig sind, wie groß mein Gewinde denn durch Messer ist.
+und über diese Festprävention geschützt wird.
+D2 nochmal, das ist dieser repräsentative Querschnitt, der eigentlich nicht der Geometrie entspricht,
+aber als Mittelwert berechnet wurde.
+Er hat es jetzt hier als ds bezeichnet, entsprechend dem langen Durchmesser.
+Hier nochmal die Umfangskraft, die wirksam ist.
+Sie definiert sich aus der Axialkraft, die vorhanden ist, mal Tangent V.
+Und das Moment ist dieses FU mal den entsprechenden Hebelarm V2.
+Halbe, kriegt sozusagen dieses Moment rein und wird zu dieser Axialkraft, über die Tandems fielen.
+Heilungsfrei gelagert, das ist jetzt die Grundannahme, die wir haben.
+Wenn wir jetzt aber diese Mutter nach oben bewegen möchten,
+Dann müssen wir zusätzlich die Reibung überwinden.
+Dieser Reibungswinkel führt dazu, dass die Umfangskraft, die wir aufbringen müssen, größer ist, als wenn das Ganze reibungsfrei passiert.
+Das ist eine zusätzliche Kraft, die wir aufbringen müssen in Umfangsrichtung, damit diese Schraube eine Bergauffahrt macht.
+Und das macht man hier über diesen zusätzlichen Steigungswinkel.
+Das ist die erste Komponente, die reibungsfrei ist.
+Das ist der Tangensphil, diese reine Steigung der schiefen Ebene.
+Und die wird vergrößert um einen Winkel Delta, der dafür verantwortlich ist, um diese Bergauffahrt machen zu können, der der Reibung geschuldet ist.
+Da müssen wir jetzt herausfinden, wie groß ist denn jetzt diese Reibung, damit die Schraube diese Bergauffahrt machen kann und diese Bewegung einsetzt.
+Weil das Moment, was wir jetzt einbringen in Form einer Umfangskraft auf den Durchmesser D halbe, die 2 halbe, ist, um diese Komponente zu erhöhen.
+Dabei ist der Reibwinkel Delta, Delta ist gleich Arcus Tangens µ, also eine Frage der vorhandenen Reibung.
+Wie groß die Reibung ist im Gewinsel, durch Rauigkeiten, durch Unregelmäßigkeiten in der Oberfläche, durch eine nicht vorhandene Schlierung, wird das Ganze immer schwerer.
+Wir müssen diese Komponenten zusätzlich aufbringen.
+um eine Axialkraft zu bewirken, die vorhanden ist später in meinem Gewinde und die meine Platten verschraubt.
+Der Steigungswinkel, der nominal vorhanden ist, der wird sozusagen, wenn man jetzt eigentlich hier eine Bewegung reinbringen will,
+muss man hier diese größere Umfangskraft aufbringen.
+Und nominal ist sozusagen der Winkel eigentlich steiler
+der schiefen Ebene.
+Und der Aufwand wird größer, um diese Bergauffahrt zu machen,
+um die Verbindung, dieses Moment einzubringen,
+das hier vorhanden ist.
+Das nennt man das Anziehen.
+Die führt zu einer axialen Kraft,
+die vorhanden ist, die eingebracht wird,
+das Moment über dieses G2 halbe Angens phi plus rho, das ist die Reibung, um das Moment in eine
+Axialkraft, die zu einer Verspannung der Bauteile führt, bringen zu können. Wenn wir mal so eine
+Schraubverbindung sehen haben und die fest ist, dann bleibt die auch verbunden, weil eine entsprechende
+Reibung vorhanden ist.
+Und das ist das, was man dann
+auch in Verkleinerung
+ein Minus-Delta
+mit sich bringt.
+Wenn ich jetzt aufhöre mit meiner Bewegung
+und lasse diese Verbindung stehen,
+dann ist die Reibung weiter wirksam.
+Und wenn ich jetzt wieder die
+Bergabfahrt machen möchte,
+muss ich erst
+diesen Reibungswinkel
+wiederum überwinden.
+die dann erforderlich ist, um eine Bewegung einsetzen zu lassen.
+Wenn ich die Schraubverbindung antrehe, muss ich die Bergauffahrt machen und die Reibung überwinden.
+Jetzt höre ich auf zu drehen, ist die Reibung immer noch da.
+Um diese Reibung und die Gegenbewegung einzusetzen, ist die Bergabfahrt,
+dann muss ich diese Verkleinerung, dieses Minus-Delta, ebenfalls wirksam überwinden.
+Dabei ist es immer so, dass die Reibung, die in dem Gewinde vorhanden ist, größer ist als dieser Tangensphie, der vorhanden ist und gegeben ist und geometrisch bedingt ist.
+so dass hier das sehr schön beschreibt, dieser Winkel, um die Bewegung nach unten durchführen zu können,
+bedeutet, dass es jetzt steht, dass diese Minuskraft erforderlich ist, um überhaupt eine solche Verbindung zu lösen.
+Das heißt, dieses Delta ist in der Regel größer als das Phi, sodass eine Abfahrt nicht selbsttätig stattfindet.
+sondern die Reibung so groß ist, dass sie das verhindert.
+Das heißt, eine solche Verbindung, die durch eine Schraubung aufgetreten ist,
+hat im Gewinde so viel Reibung, dass ein selbsttätiges Lösen nicht stattfindet.
+wenn man in die andere Richtung gehen möchte, das Löse-Moment, das Minus-Phi hier bei der Bergabfahrt zu beachten ist.
+Das wirkt sozusagen der Bewegung entgegen und führt dazu, dass wir die erhöhte Reibung im Gewinde selbst
+und dann später dann auch noch im Kopf diese Reibung überwinden muss.
+Und das nennt man Selbsthemmung.
+Hier sind mal Reibwerte dargestellt.
+Natürlich immer kleiner 1, je nach Innengewinde, Außengewinde, typischerweise Stahl.
+Das ist mal eine Schraube, die unterschiedliche Oberflächenverhandlungen erfahren kann,
+geschnitten oder gewalzt, geschnitten oder gewalzt, das ist das Fertigungsverfahren,
+und dann die Varianten von trocken bis geölt,
+Molybdenum-Sulfid ist auch so ein Mittel, das die Reibung reduziert,
+und dann die geschnittenen Varianten, auch eine geölte Variante,
+Variante oder Urin als Innenverbinde, zum Beispiel Graubus, scheint eine LRF-Tabelle
+zu sein, wird nun heute als GLS, die wird es bezeichnen, Breitwerte, da haben wir noch
+das Grafik wahrscheinlich mit drin, im Wesern, was es kann, und die Ölverwahrung, die Breitwerte
+0,1 und 0,18, 0,25 dahinten, dargestellt.
+Dann wird ein Klebstoff aufgebracht, der die Reibung nochmals erhöht und damit zum Beispiel auch die Selbstdämmung erhöht.
+Was macht man noch, bis Schraubverbindungen sich nicht lösen?
+Schraubenkleber reiben.
+Schraubenkleber, genau.
+Dann muss man erst diese Klebstoffschicht zerstören, um die Schrauben wieder befreien zu können.
+Das ist eine Möglichkeit.
+Wie so ein Pin oder so was?
+Schraubensicherung mit Pin, genau, rückdrehen nicht möglich.
+Hier noch weitere Zahlenwerte.
+Hier haben wir jetzt die Reibung im Gewinde und wenn jetzt nachher der Kopf der Schraubenverbindung,
+ich muss mal schauen, hier zum Beispiel sieht man das, es gibt die Gewindereibung, die vorhanden ist,
+das Moment, was eingebracht wird zum Anziehen, geht in einen Gewindemoment.
+Und ein anderer geht durch die Auflage des Kopfes dann auch in diese Axialkraft und eine Reibkomponente, die an der Stelle im Kopf zur Reibung führt.
+Und auch hier gibt es eine Reibzahl, dieses µk, das festgelegt ist.
+Das heißt, wenn man eine Schraubverbindung herstellt, schlägt ein Teil der Kraft in das Gewinde,
+ein Teil der Kraft, also damit in eine Längskraft, und ein Teil der Kraft in eine Reibung, die zum Kopf durch das Aufnehmen dieser beiden Komponenten in Kontakt führt.
+Wenn ich die Schraubverbindung lösen möchte, muss ich erst die Reibung im Gewinde überwinden und die Reibung zusätzlich im Kopf.
+Erst dann setzt eine Bewegung ein.
+In der Praxis, was kann da noch passieren, dass zum Beispiel, ich sag mal, elektrochemische
+Sachen passieren, die diese Aluminiumfelgen haben, die sie anschrauben, die sie über
+zwei Jahre nicht gelöst haben, kann es drei Jahre zur Kontaktkorrosion kommen und dann
+braucht es ein sehr viel höheres Moment, um das lösen zu können.
+Ich habe da schon entstanden und habe die Schrauben gar nicht aufgekriegt, sondern einen sehr langen Hebelarm, die Kraft einbringen muss, damit sich das Moment einbringen muss, damit sich die Schraube wieder löst.
+Hier ist diese Kopfreibung gegeben, auch da entsprechende Zahlenwerte zwischen 0,8 und 0,8 bis 0,02
+und verschiedene Kombinationen von trocken, geölt, 0,10, soviel, dass man diese Reibung zielgeheim stellen muss.
+Das Moment, dass in das Gewinde eingebracht wird, ist jetzt hier idealtypisch dargestellt
+links in einem Rechteckgewinde, wo die Flächen, und das war bisher die Annahme, die wir gemacht
+haben, sozusagen senkrecht aufeinander stehen.
+Das ist aber nicht der Fall, weil wir gesagt haben, wir haben einen Flankenwinkel, der
+Beta-Halbe beträgt jetzt in der Stelle, wenn man dieses Schnittbild sich darstellt,
+hier ist unser Spitzgewinde mit einem Flankenwinkel von 60°
+und dann stützt sich die Kraft, die da eingetragen wird, nicht senkrecht,
+wie das FAX in dieser Axialkraft nicht im linken Bild dargestellt ist,
+sondern mit einer senkrechten auf dieser Wirkfläche, die über zwei Komponenten hier abgestützt wird,
+wenn man so ein Kraftdreieck jetzt hier anbringt, dann ist diese Axialkraft, die jetzt an der Stelle wirksam ist,
+baut sich auch
+in diesem Fax
+Strich halbe und halbe
+und diese
+Kräfte sind dann entsprechend
+größer
+zu einer
+Vergrößerung dieser Kraft
+über diesen Winkel
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Ist das bei Ihnen auch so angekommen?
+Das müssen wir ergänzen.
+Ich schreibe das dann ein bisschen auf.
+Cosinus
+Beta
+halbe
+ist gleich
+bis
+FHx
+zu f'Ax.
+Genau. Die nominal vorhandene Partialkraft erfährt sozusagen eine Vergrößerung aufgrund des Klassenwinkels.
+Das muss man jetzt hier, ich sag mal, adäquat ergänzen.
+Weiß nicht, warum das hier irgendwie verschlossen wurde in der Präsentation.
+Wenn ich das jetzt hier reinbringe, dieser Winkel hier,
+Beta halbe und das Kräftegleichgewicht, das herrscht,
+die Kraft, die eingebracht wird und die Abstützung, die es erfährt,
+so wird dieses F A X Strich, das ist sozusagen die wahre wirksame Kraft im Gewinde,
+größer, je steiler dieser Winkel ist.
+Das wäre also sozusagen eine Vergrößerung, die wir noch zweinrechnerisch berücksichtigen müssen.
+und wenn wir das nach f'ax auflösen, ist das gleich fax durch Cosinus Beta halbe.
+Ich lasse es auf die Gewinde, Flanken, Wirksame.
+Normalkraft wird um den Faktor 1 durch Cosinus Beta halbe vergrößert.
+Und deshalb wird der Reitwert µ
+zum effektiven Reibwert
+µ Strich
+und der erfährt sozusagen auch
+diese Vergrößerung, das ist jetzt alles
+das, was auf Seite 25
+bestehen wollte, µ' ist gleich µ durch Cosinus Beta halbe. Für das Delta heißt es,
+Delta Strich ist gleich Atrus Tangens µ Strich ist gleich Atrus Tangens µ durch Cosinus Beta Halber.
+Vielen Dank.
+Das erforderlich ist, um die Schraube zu einer Bergauffahrt respektive zu einer Bergabfahrt zu bewegen.
+weil dieses Delta, dieses Delta-Sprich, was wir hier haben, entsprechend größer ausfällt,
+wenn ich die Planke bitte berücksichtige, als, ja, entsprechend größer ausfällt.
+Vielen Dank.
+Vielen Dank.
+Und ja, das sind jetzt diese Umsetzungen des Momentes.
+Die Umfangskraft führt zu einer axialen Abschnitzung.
+Wir müssen Reibung überwinden, man kann ziehen und wir müssen Reibung überwinden beim Lösen der Verbindung, wobei die vorhandene Reibungskomponente größer ist als die Kraft, die wir brauchen, um die Schraube über die Linie nach unten und nach oben zu bewegen.
+Erinnerung, Wetter ist bei uns 60 Grad.
+Wir schrauben nach ISO 13.
+hier ganz kurz der Hinweis
+das Moment zum Anziehen
+bewirkt eine Axialkraft
+wie 2 halbe Tangens
+Phi
+plus O
+das ist hier
+im Prinzip dargestellt. Das sind die
+Formeln, die auf Seite 21
+dann auch stehen. Ich ergänze
+das jetzt einfach nochmal, dann können Sie
+das da reinschreiben. Ich weiß
+wirklich nicht, warum es da so ein paar Sachen
+auseinandergerissen hat.
+Ich denke mal, da vorne
+das Ding war komplett...
+Ja, müsste sein.
+Das sind sozusagen die Formeln von der Seite 22.
+Das Moment, um ein Gewinde anzuziehen, ist F AX mal E halbe, E2 halbe,
+Also auf dem Zweikirchen an der einen Stelle weggedauert Tangens Phi plus Delta Strich.
+Das berücksichtigt jetzt dann noch den Flankenwinkel.
+Weil die Betrachtung, die wir hier vorne hatten, da steht nur Delta.
+Das ist dieses Rechteckwinkel.
+Die Betrachtung erweitert auf diesem schrägen Winkel, bedeutet dann diese Formeln, das bitte ich zu ergänzen, anziehen und dann Gewinde lösen.
+ist F A X
+E
+2 halbe
+Tangens
+Phi minus
+Delta
+Strich
+Damit ich jetzt die Felder festlegen kann, wo keiner was sagt.
+Das ist ein O.
+Ja, das ist das, was wir hier oben gesehen haben.
+Sorry.
+Hoch, dick.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Okay, jetzt haben wir hier eine Formel, mit der wir wissen, welches Moment einzubringen ist, um eine bestimmte Axialkraft zu erzeugen,
+die zu einer Längung der Schraube führt, die aber sich aufteilt in eine Kraft, die ins Gewinde geht und eine Kraft, die zusätzlich hier oben in den Kopf noch hineingeht und ebenfalls Reibung stattfindet.
+Auch das müssen wir adäquat berücksichtigen. Diese Kopfreibung, also wir drehen jetzt eine Schraube zu, bringen Drehmoment rein, ein Teil des Momentes geht in das Gewinde und wird dort entsprechend abgestützt.
+Es gibt eine andere Komponente, die in eine Kopfreibung hinein.
+Und wenn wir da, ich sag mal, Reibung haben, Oberflächen, die geklettet werden,
+kann es auch passieren, dass durch die aufgebrachte Reibung
+und die plastische Konformation diese Reibung im Laufe der Zeit reduziert wird.
+Das kann man dann setzen.
+Gewinde oder in der Schraube entsprechend reduziert werden wir noch in solchen Schrauben.
+Die Frage ist jetzt, wie dieses eingepragte Moment, das sich aufteilt, auf eine Kopfreitung und eine Gewindekraft, die zu einer axialen Komponente führt, dann aufteilt.
+Und wenn wir jetzt hier diese axiale Komponente, die sich abstützt auf der Reibung, die hier vorhanden ist,
+das ist die Umfangskraft, oder diese Axialkraft, die hier auffliegt und die verbunden ist in der Größe der Reibung, die vorhanden ist,
+dann ist dieses MKA, diese Kopfreibung, die vorhanden ist, die Axialkraft,
+die auf dem Durchmesser R, oder dem Radius R, K, dieser aufgesetzten Fläche hier, vorhanden ist,
+auf dieser Fläche wirksam ist.
+Wir müssen nur wissen, wie groß ist diese entsprechende Fläche
+oder wie groß ist der Radius.
+Dann nimmt man DI plus DA
+Viertel.
+Das ist der Radius, auf dem diese
+Axialkraft dann
+zu Reibung führt und umgesetzt wird.
+Das heißt also, das Gesamtmoment, das sich zusammensetzt aus dem Moment, was in das Gewinde
+reingeht und das Moment, was in die Kopfreibung reingeht, kann formuliert werden als Belastung
+des Schraubenschaftes in das Gesamtmoment, das sich dann abstürzt über dieses Kopfmoment
+und das Gewinde nennt man das.
+Das ist FHX plus
+mal D2 halbe
+Tangens V,
+das ist die Steigung
+des jeweiligen Gewindes
+und über den Reibungswinkel
+Rohstrich, der dann auch
+die Flankenwinkel
+entsprechend berücksichtigt,
+sowie
+diese Kopfreibung.
+Und sich durch diese
+beiden Komponenten
+Und mit anderen Worten, diese Selbstkämmung, haben wir vorhin schon gesehen,
+stützt sich jetzt so weit darauf, dass wir, um ein Gewinde überhaupt lösen zu können,
+diese Reibung überwinden müssen.
+Das heißt, dieses Delta-Strich, das ist diese Komponente, die aus der Reibung im Gewinde kommt,
+in dem Flankenwinkel, der vorhanden ist, ist in der Regel größer als das Phi.
+Und das ist dann der Fall, wenn zum Beispiel Phi größer als 3 Grad ist,
+wenn dieses µ', also dieses Tangens-Roh-Strich, größer ist als 0,044.
+Wenn man auf jeden Fall die Tabellen reinschaut, der kleinste wäre glaube ich 0,08, so in etwa.
+sodass von dieser Selbstdämmung eigentlich immer aufzugehen ist.
+Und um letztendlich dann wirklich das lösen zu können, haben wir da hinten ja noch diese Komponente,
+wenn man das etwa jetzt aus dieser Gleichung von vorhin rauszieht,
+dass hier zusätzlich diese Kopfreibung vorhanden ist,
+ebenfalls überwunden werden muss. Wenn man die beiden Gleichungen so sich gegenüberstellt und auflöst, was diese Komponente hier anbetrifft,
+dann kommt man ungefähr zu dem Ergebnis, dass das Moment, was eingebracht wird, zur Hälfte in ein Gewindemoment geht und zur Hälfte in diese Kopfreibung eingebracht wird.
+Ja, die Schraubverbindung soll sich unter 20 Newtonmeter andrehen, geht die Hälfte des Momentes in die Kopfreibung und die Hälfte des Momentes geht in die Verspannung der Schraubverbindung, in etwa.
+Machen wir nochmal eine Viertelstunde Pause, ja?
+Ja, nochmal. Viertel vor, machen wir dann weiter.
+Es ist zu dünn. Es kann nicht mehr dünn werden.
+Gehen wir einen Kaffee trinken?
+Nein.
+Gehen wir einen Kaffee trinken?
+doch eine frage für die übung feder es gibt die energiespeicher berechnung und
+Ja, es gibt so viele. Es ist alles benötigt für die Prüfung.
+Das haben wir gerechnet, das ist BRW, Verlängerung, Spannung,
+Dann haben wir Spannung, Federwaage, was meinen Sie, es gibt ein paar typische Aufgaben,
+die sind alle möglich für die Prüfung, da sage ich nochmal was dazu.
+Ich sag da noch mal was dazu. Was ich vielleicht ganz gerne hätte wäre, dass man sowas mal berechnen kann.
+Schraubenzugfeder. Wo wir dieses K berechnet haben.
+Das hier.
+So was könnte ich mir vorstellen.
+Drehstab.
+Und das hier.
+Sie können die Lösung mitnehmen, ja, in die Prüfung.
+Die Lösung habe ich abgelegt, oder?
+Ja, bitte.
+Die Drehstabfeder haben wir in der Vorlesung gemacht, ne?
+Wir haben alle Lösungen.
+Okay.
+Muss man lernen.
+Okay.
+Ja.
+Muss man verstanden haben
+und dann muss man es reproduzieren können.
+Bei der Prüfung.
+Ich weiß noch nicht, was ich mache.
+Ich sage aber dazu noch mal was.
+Ich muss nur über die Ferien
+dann Gedanken machen,
+wie ich das Ganze tun kann.
+Ja?
+Ja.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Das ist eine Art Arsch.
+Das war's für heute, bis zum nächsten Mal.
+Wie kennst du ihn?
+Ist er ein Kumpel?
+Ich finde ihn richtig gut.
+Das war es.
+Vielen Dank.
+Schauen wir mal.
+Schauen wir mal.
+Ich glaube, das hier ist gut.
+Schauen wir mal.
+Das war's für heute, wir sehen uns beim nächsten Mal, Tschüss!
+Ja, bei mir ist es noch nicht geschehen.
+Aber es heißt irgendwas.
+Schauen wir mal.
+Irgendwie geschissen?
+Nein. Ja, es war nicht geschissen.
+War man ein Freund?
+Nein, Freund nicht so.
+Wie sah das aus, oder in welchem Mal?
+Das sah wie echt aus.
+Echt?
+Hast du das gesehen?
+Da hast du, keine Ahnung, immer so offensichtlich geblieben.
+Ich hätte befürchtet, dass du mal gegen den Mann gelaufen wärst.
+Nein, du siehst das.
+Vielen Dank.
+Was machst du da?
+Ich schaue, was ich zu essen habe.
+Willst du zu essen?
+Ja.
+Du hast keine Schule im Nachmittag, oder?
+Du hast morgen Morgen eine Schule.
+Im Nachmittag.
+Was hast du heute Morgen gemacht?
+Was soll ich sagen?
+Ich habe auch was gemacht.
+Gib mir mal die Chance, mich zu überzeugen.
+Ich habe gerade...
+Ich habe gerade...
+Ich habe heute Morgen...
+Ich habe heute Morgen...
+Und diese Woche wurde eröffnet.
+Ich habe gerade...
+Es war eigentlich eine Konflikt.
+Ich habe die Zeit für das EMT und die Zeit für die Puppe verpasst.
+Ich habe die EMT verpasst.
+hier die Kopfreibung und da können wir sagen, wenn sich in der Anfangsphase des Lösevorgangs
+das gegenüberliegende Teil mitdreht, Sie drehen jetzt aber da oben, bringen einen Moment rein
+und wenn sich das Gewinde auf der anderen Seite mitdreht an der Stelle, dann ist diese
+Komponente, die Gewindereibung ist dann größer als die Kopfreibung. Dann ist das gegeben,
+dass sich das mitdreht. Wenn das gegenüberliegende Teil nicht mitdreht, dann ist die Gewindereibung
+kleiner als die Kopfreibung, die wir aufgebracht haben und dann gilt diese Bedingung. Wenn
+sich beim weiteren Anziehen das gegenüberliegende Teil mitdreht, dann ist wiederum die Gewindereibung
+größer als die Reibung in der Kopfauflage, also das Kopfreibungsmoment. Und wenn sich
+beim weiteren Anziehen das gegenüberliegende Teil nicht mitdreht, wenn wir nochmal den
+Unterschied herausarbeiten. Wir haben hier die gleiche Komponente, die 2 halbe plus
+quasi 1 Pi plus 2 Strich. Das ist die Vergrößerung durch den Plankenwinkel, den wir haben, bleibt
+kleiner als µk mal rk. Da kann man im Prinzip dann die axiale Kraft rausnehmen. Und diese
+Aufteilung des Momentes
+in der Art und Weise erfolgt.
+Nochmal, wir werden
+morgen
+eine der Aufgaben
+vielleicht schon berechnen können.
+Ich nehme mal das rückende Dach.
+Dass wir
+solche Verrechnungen machen können.
+Wie viel eines eingebrachten
+Momentes geht dann in den Kopf,
+in die Reibung hinein.
+Wie viel Steuer das Anziehen
+gibt es eine schöne Aufgabenstellung
+Da müssen wir die Zahlen ein bisschen kombinieren, um die richtigen Einheiten zu finden.
+Der Festigkeitsnachweis von Schraubverbindungen ist also, dass zum einen eine Schraubenlängskraft entsteht,
+die die Schraube mit einer Zugspannung beansprucht.
+Das aufgebrachte Gewinnemoment belastet die Schraube zusätzlich mit einer Torsionsspannung.
+Das heißt, wir haben einen Vergleichsspannungszustand, der gebildet werden muss.
+Und da haben wir wieder ganz klassisch die Vorgabe, dass die gebrauchte Spannung kleiner sein muss als die zulässige.
+Wenn wir sehen, es gibt Zugfestigkeiten, die angegeben werden und prozentual dazu die klassische Verformung.
+Querkraftschub auf eine klassische Schraubverbindung muss ausgeschlossen werden.
+Das kann man konstruktiv machen und Biegung ebenfalls.
+Damit kann die Schraube nichts anfangen.
+Ich muss auch immer an die Kerbwirkung denken, die vorhanden ist, in Zukunft von dem kleinen Radium, den man hat.
+Dann kommen natürlich noch die Belastungsspannungen hinzu.
+Man braucht jetzt hier eine Betrachtung, wie diese Betriebsspannungen wirksam sind
+und wie Sie diese Schraubverbindung versuchen zu lösen.
+oder, ich sage mal, in die andere Richtung zu treiben, unter dem Ausschluss von klassischer Deformation.
+Was wir jetzt hier haben, sozusagen, ist jetzt eine wirksame Zugspannung, die in der Umzüge der Kraft wird.
+Und wenn jetzt zusätzlich eine dynamische Beanspruchung vorhanden ist, müssen wir die auch ebenfalls berücksichtigen.
+So wie wir das im Prinzip jetzt mit dem Smith-Diagramm gemacht haben, werden wir dann nachher auch wieder eine dynamische Spannung betrachten, die im Zuge dessen zu einer Schwingbeanspruchung entsprechen kann.
+dann haben wir dort einen statischen Anteil, der vorhanden ist.
+Das ist diese beständig wirksame Zugspannung im Zuge der Vorspannung.
+Und wenn jetzt eine Lastspannung kommt, die zu einer Schwingung führt,
+bedeutet das, dass um diese statische Spannung herum eine dynamische Beanspruchung erfolgt.
+Und für die müssen wir entsprechend schauen, haben wir ein Swiss-Diagramm,
+können wir den Lastfall eintragen und passt das dann von der Per-Se-Definition.
+Das heißt, der Festigkeitsnachweis wird gezogen auf das Moment, was eingebracht wird,
+was zu einer Torsionsveranspruchung führt, über das polare Widerstandsmoment
+und dann klassisch über die Zugveranspruchung durch die Vorspannung,
+die vorhanden ist, wenn wir so zwei Bauteile miteinander verspannen.
+Das ist also ein übernagerter Beanspruchungszustand, hier beim Anziehen, dann im Lastfall und dann durch die Vorspannung und dann zum Beispiel durch die Lastbeanspruchung, die kommt im Zuge einer dynamischen Beanspruchung, die jetzt beispielsweise wie in dem Fall dazu führt, dass sich im Gewinde relativ wenig ändert, aber hier dann der statische dynamische Anteil kommt durch diese schwingende Beanspruchung.
+Beim Anziehen der Schraube, das ist jetzt hier unten nochmal dargestellt,
+wie die axial gerichtete Vorspannkraft eine Normalspannung erzeugen
+und das erforderliche Torsionsmoment, einen Torsionsschub, ausgebracht.
+Beide Lastanteile können quasi statisch angesehen werden.
+Selbst wenn die Schraube mit einem Schlagstrauber, also dynamisch angezogen wird,
+ist diese Belastung einmalig und vereinträchtigt, deshalb die Dauerfestigkeit nicht.
+Der mittlere Fall, der hier, wirkt nach dem Anziehen der Schraube eingeleitete Betriebskraft quer zur Schraubenachse, muss diese Betriebskraft durch Reibung an der Trennfuge aufgenommen werden.
+Dabei bleiben sowohl durch die Vorspannung hervorgerufene Lastzustand
+als auch der Torsionsschub in der Schraube gegenüber dem Vorspannungszustand unverändert.
+Die Beweidung in den Kontaktflächen kann zu einem Querkraftschub führen,
+darf die Schraube aber nicht belasten.
+Gleich brauchst du viele Möglichkeiten, wie man das abbilden kann,
+über Flächenpressung und Lochleitung.
+Wir legen die Betriebskraft längs zur Schraubenachse und überlagert sich die Schraubenbetriebskraft der durch die Vorspannung aufgebrachten Vorspannkraft.
+Also ich drehe die Schraube an, bringe dieses Moment rein, die Schraube kriegt eine Spannung und ich verschraube meine Plattenteile, die eine bestimmte Verformung erfahren im gegenseitigen Wechselstil.
+Das hängt davon ab und damit kommen wir wieder zu diesen Steifigkeiten, die wir ganz am Anfang gemacht haben,
+wo wir Rädersteifigkeiten betrachten, sodass wir zu einem Verspannungsschaubild kommen.
+In diesem Fall wird nach statischer Schraubenkraft, statisch durch die Vorspannung und dynamischer Schraubenkraft unterschieden.
+Der in der Schraube vorliegende Torsionsschub ändert sich aber gegenüber dem Vorspannungszustand nicht in seiner Zugkraft.
+Jetzt auf das Bauteil wirkt hier nochmal diese Querschnitte, die von Bedeutung sind.
+Wenn eine Schraube so einen Freistich hat, also die so abgedreht ist, dann gibt es den kleinsten Spannungsdurchmesser A3, sozusagen eine Sollbruchstelle, die man an der Stelle hat, der kleiner ist als dieser Spannungsquerschnitt AS.
+der jetzt durch die Überlagerung dieser spiralförmigen Wendel auf dem Zylinder dazu führt,
+dass nach dieser Spannungsquerschnitt als Zügelwert zwischen D3 und D gemessen werden kann.
+Für den linken Fall gilt dann, dass das polare Widerstandsmoment Pi mal D3 hoch 3 ist.
+und für den anderen Fall ist es der Spannungsmesser, der Schraube, der aus der Tabelle entnommen werden kann.
+Es gibt jetzt hier so eine kleine Tabelle, wo das nochmal aufgeführt ist, wie wird der Festlichkeitsnachweis geführt.
+Zunächst einmal über die aktiale Kraft, die eine statische Belastung mit sich bringt,
+durch das Gewindemoment, was vom Anziehen aufgebracht wird, über die Steigung des Gewindes
+und die vorhandenen Reibungsverhältnisse im Gewinde ohne Kopfreibung jetzt hier mal dargestellt.
+Dann erfolgt das Ganze über eine Analyse, ist die vorhandene statische Zugspannung kleiner
+als die erlaubte Zugspannung meiner Schraubverbindung an der Schraube
+und dann über die Torsionsspannung,
+die dieses mit oder ohne Freistich jeweilig zur Folge haben,
+das polare Widerstandsmoment mit sich bringt
+unter der Bildung einer Vergleisspannung
+über die Zugspannung, die herrscht in der Schraube
+und zusätzlich über die Portionsspannung,
+die durch die Reihung der Gewinde im Moment erzeugt wurde.
+Und das Ding soll jetzt kleiner sein als das Rp02.
+Ich habe das aus dem Buch hier von dem Hinzen entnommen.
+Der schreibt Sigma02.
+Lassen Sie sich davon nicht irritieren.
+Das ist also das Rp02.
+Das war bei 8.8 800 Nm pro Quadratmillimeter Tieffestigkeit. 80% davon sind 640 Nm pro Quadratmillimeter RP02.
+Und der Festigkeitsnachweis, beziehungsweise der Nachweis der entsprechenden Sicherheit für das Verhältnis der vorhandenen Spannung, beziehungsweise die deutlich höhere RP02 im Verhältnis zur vorhandenen Spannung, wie wir es die ganze Zeit schon gemacht haben.
+Und hier hinten haben wir dann noch eine dynamische Komponente, die rein auf die Zugspannung wirkt.
+Wir werden keine dynamischen, großartigen Messungen oder Überrechnungen diesbezüglich machen, sondern konzentrieren uns dann hier auf die statischen Komponenten.
+Das ist hier sozusagen die lokal vorhandene Ausschlagsfestigkeit ins MIS-Diagramm.
+Ob wir nachher bilden, was besonders auffällig ist bei den Schrauben, ist, dass diese Dauerfestigkeitsdiagramme relativ schmal sind.
+Wenn wir vorhin die Smith-Diagramme in den verschiedenen Varianten gesehen haben von Bauteilen, wo wir dann bei dem dynamischen Festigkeitsnachweis ja auch immer diese Verkleinerung gemacht haben.
+Durch Oberfläche, durch Färben und andere Einflüsse wird dieses Feld immer kleiner.
+Hier haben wir per se ein sehr schmales Feld, in dem eine geringe Ausschlagsfestigkeit vorhanden ist.
+Das liegt jetzt daran, da sieht man Ausschlagsspannung 60, 50, 40 bei den entsprechenden Komponenten,
+gültig für 6,9, 8,8, wird dazu, wenn wir noch auf die Kerben schauen, die Kerben sind relativ scharf
+und deshalb ist das nicht so sonderlich gut bei einer dynamischen Beanspruchung, die groß ist,
+8.8, 10.9, 12.9, weil die Ausschlagsfestigkeit kaum variiert, gar nicht variiert in dem Sinne,
+dass dieser Zustand der Schraube, der sieht ein bisschen anders aus,
+für schlussverhütete Schrauben und schlussgerollte Schrauben kaum sich unterscheidet.
+Diese Schlussrollung hat zur Folge, dass diese Festigkeit passiert ist.
+Also diese Ausschlagsfestigkeit.
+Jetzt kommen wir mal dazu, dass wir sozusagen, wenn die Schraubverbindung hergestellt ist,
+im Bild entwickeln müssen, wie wir die Betrachtung machen, wie ist die Wechselwirkung jetzt zwischen
+der mit Torsionsmoment beaufschlagten Schraube, die gelenkt wird und gleichzeitig dazu führt,
+dass die Platten, die verschraubt werden, gestaubt werden.
+Hier sieht man das jetzt mal, das ist so ein Bild, was entwickelt ist.
+Im linken Teil des Bildes ist meine Schraube mit einer entsprechenden Länge der Schraube, die mit einer Vorspannung versehen wird und die dazu führt, dass Platten,
+ich sage jetzt mal hier, dieser unmittelbare, umgebungsnicht befindliche Zylinder, der wird zusammengedrückt, wird gestaubt.
+Er kann aus zwei Bauteilen hintereinander gestaltet stehen. Dabei versuchen wir, ein Bild zu entwickeln.
+Ich habe das jetzt hier mal dargestellt. Es ist so, dass wenn wir jetzt hier diese Vorspannung aufbringen, die wird abgestützt und es gibt einen Kraftfluss, der, ich sage jetzt mal, das ist nicht so schön reingezeichnet hier,
+aber es ist offensichtlich auch verrutscht, dargestellt sein.
+Ich bringe eine Zugkraft in den Schaft der Schraube,
+drehe, einen Moment, ziehe das an, was dazu führt, dass die Platten gestaubt werden.
+Das ist das, was ich haben möchte.
+Ich möchte diese innere Verbindung in den beiden Platten mit einer entsprechenden Vorspannung versehen.
+Und das ist eine Wechselwirkung, die eingebracht wird über das Drehmoment, das sich als Reibung im Gewinde abbildet und Reibung in dieser Kopffläche abbildet und dann das Ganze in Wechselwirkung trifft.
+Dann habe ich gesagt am Anfang, wir machen das, was der Herr Brunner nicht macht mit den Federn, um prinzipiell zu verstehen, wie man jetzt zu einem Berechnungsmodell kommt.
+Dieses Berechnungsmodell, das ist hier, hier ist das Männlein, das bringt das Drehmoment rein.
+Und das führt zu einer Vorspannung der Schraube.
+Diese Spannung der Schraube, die Schraube wird gekürzt, wird gelenkt, Entschuldigung, die Schraube wird gelenkt,
+Die kriegt eine Zugkraft und die beiden Platten, hier ebenfalls durch Federn einer bestimmten Steifigkeit dargestellt, werden zusammengedrückt.
+Das ist jetzt das Ziel der Verbindung.
+Das Ziel der Verbindung ist es, die gelenkte Schraube, die unter einer Spannung steht, soll die beiden Platten miteinander verbinden und einen Kraftschluss herstellen.
+Dabei wird die Schraube gelenkt und wird betrachtet sozusagen als eine Zugfeder und wird gezogen.
+Und dann haben wir hier den Spannungsquerschnitt, der dafür verantwortlich ist.
+Steifigkeit einer Zugfeder, weil ES, E-Modul, S steht für Schraube, A ist der Querschnitt, also der wirksame Spannungsquerschnitt zum Beispiel.
+und dann die Länge der Schraube. Steifigkeit können wir erhöhen, indem wir den Querschnitt erhöhen,
+indem wir die Steifigkeit erhöhen und indem wir diese Klemmlänge reduzieren.
+Da kommen wir später noch dazu. Das Ganze kann auch ausgedrückt werden im Kehrwert.
+Das ist die Nachgiebigkeit. Das können Sie vielleicht noch ergänzen, weil Sie es letztendlich immer im Kopf haben.
+Oben ist die Steifigkeit und unten ist die Nachgiebigkeit als Kehrwert.
+Die Zwischenlage Z oder die Platten oder wie immer man das jetzt bezeichnen möchte,
+die werden zusammengedrückt und die behandeln wir wie eine Druckfeder.
+Die werden gekürzt und Druckfeder hat die gleiche Formel wie die Zugfeder.
+E-Modul der Verbindung
+über den Querschnitt,
+wo diese Kraft hineingebracht wird
+und wo sie durchgeht,
+zuzüglich
+oder dividiert
+durch die Länge
+der
+Dicke
+der gedrückten Feder
+des Bauteils.
+Fragen dazu?
+das ist ein schönes bild schauen sie sich das an er zieht jetzt an der schraube drückt die
+platten zusammen die beiden äußeren federn werden gestaucht und je nachdem die steifigkeiten sind
+Wenn Sie hier eine weiche Schraube haben und die äußeren Federn sind besonders stark,
+dann müssen Sie die Kräfte da sehr stark aufbringen.
+Die Feder wird sich entsprechend längen, um diese mit einer hohen Steifigkeit und Wechselwirkung versehenen Platten zusammenzudrücken.
+Das werden wir machen.
+Wir werden die Steifigkeiten der Komponenten hier variieren, um im Betriebsfall die richtigen Rückschlüsse zu ziehen.
+Die Schraube wird sich beim Zusammenziehen unter der Vorspannkraft oder beim Dehnen und Aufdrehen der Vorspannkraft längen,
+während die Platten
+oder die Zwischenlage gestaucht wird
+und diese Deformationen
+die auftreten
+sind die Gesamteformationen
+die Gesamteformation
+die auftritt
+war das F Gesamt V
+durch D 2 halbe mal Tangens Phi
+und das Ganze aufgetragen im Bogenmaß
+Je weiter ich die Schraube drehe, desto größer wird die Verspannung und die Deformation.
+Die Schraube wird immer länger, die Platten werden zusammen gedrückt.
+Wenn die Schraube besonders weich ist, wird sie besonders stark gelenkt.
+Ist die Schraube besonders stark, wird sie weniger stark gelenkt.
+Die beiden Deformationen setzen sich zusammen und stehen im inneren Zusammenhang über diesem Verdrehwinkel Alpha im Bogenmaß.
+Jetzt können wir die Deformationen aufzeichnen und können daraus ein Bild machen.
+Ich will jetzt mal gucken, ob ich hier noch etwas anderes habe.
+Genau, das haben Sie nicht. Versuchen Sie das bitte mal da rein zu zeichnen.
+Das hier oben.
+Was ist das?
+Das ist jetzt nicht so schön da reingekommen.
+Ich lasse das mal weg.
+Ich mache das mal hier hin.
+Hier ist meine Nulllinie.
+Das ist die Deformation und die Kraft, die aufgebracht wird.
+Das ist F.
+Vorspannung.
+Und das ist meine Deformation F.
+Damit Sie verstehen, dass das jetzt ein zusammengesetztes Diagramm ist, das ein Wechselwirkungsstil hat.
+Die Kraft, Vorspannkraft aufgetragen in Newton und die Deformation als resultierende in Mikrometer.
+Dann habe ich meine Schraube. Die Schraube im ungespannten Zustand befindet sich da unten im
+Nullpunkt. Jetzt kommt eine Kraft, die ich über das Drehmoment reinbringe, die zu einer Vorspannung
+der Schraube führt. Irgendwas geht in den Kopf, irgendwas geht ins Gewinde, aber die Spannung
+selbst in der Schraube hinzu, je stärker die Kraft ist, die auftritt, die zu einer Deformation führt.
+Das hat eine bestimmte Konsequenz zufolge. Das ist mein CS. Das ist die Schraube, die eine gewisse
+Gleichzeitig wird gemäß der Steifigkeit meiner Zwischenlage diese Zwischenlage zusammengedrückt.
+Und typischerweise ist die Steifigkeit der Zwischenlage aber größer.
+Entschuldigung, das ist mein CZ.
+Das ist die Steifigkeit der Schraube.
+Mache ich die Schraube dicker, wird die Kurve steiler.
+Ist die Schraube kleiner, geht die Steifigkeit zurück.
+Ich brauche eine höhere Kraft, um eine Deformation reinzubringen.
+Typischerweise ist die Zwischenlage steifer.
+Wenn ich jetzt sage, ich habe eine Kombination, ich gehe jetzt mit dieser Vorspannkraft da rein, dann entsteht an der Stelle nach unten abgetragen FZ der Platte.
+Und für die Schraube, die in Verbindung steht, gilt das hier.
+Wie macht diese Deformation dieses FS?
+Okay.
+Nach links abgetragen, negativ, die Stauchung.
+Das ist die Stauchung, jenseits der Nulllinie hier, und das ist die Legung, der Schraub.
+Was ich noch sagen will, wir haben vorher immer, ich bin da nicht so ganz glücklich,
+ich gucke mal, ob ich das hier umstelle, F ist C mal S gemacht.
+Die Kraft, die wirkt, hat eine Deformation zur Folge und ist eine Frage der Steifigkeit.
+C stand immer für die Steifigkeit.
+Und S ist die Deformation. Die hat er jetzt als F bezeichnet. Hier an der Stelle, da unten.
+dann hat er das aufgesplittet und hat diese Kraft, die jetzt wirksam ist,
+hat bei der Zwischenlage eine kraftproportionale Deformation zur Folge,
+die an der Frage der Steifigkeit ist.
+Höhere Steifigkeit, weniger Performung, niedrigere Steifigkeit, mehr Performung und für die Schraube eine Längung zur Folge.
+Dann setzt er dieses Diagramm in den Schnittpunkt zusammen.
+In den Schnittpunkt zusammen, das heißt er verschiebt die Steifigkeitsfunktion hier in den Schnittpunkt rein.
+Und hat dann alles zwar auf der positiven Achse aufgetragen, aber, also das hier, der verschiebt das hier rüber, parallel verschoben und kriegt jetzt hier angetragen das CZ und hier das FZ.
+Dabei weiß man, was passiert jetzt, wenn man die Vorspannkraft erhöht.
+Was würde passieren, wenn wir die Vorspannkraft erhöhen?
+Das ist jetzt ein Betriebspunkt.
+Das ist ein Moment.
+Und es hat zur Folge, dass eine Vorspannkraft der Höhe da jetzt hier ist, erfolgt.
+Was passiert, wenn ich die Vorspannkraft erhöhe in diesem Verspannungsdiagramm?
+Diagramm. Was wird passieren? Die Schraube wird länger. Die Schraube wird länger. Also ich erhöhe
+die Vorspannkraft. Hier mal reinschauen. Da kann man sich das vorstellen. An der Stelle. Ich erhöhe
+die Vorspannkraft. Dann kriegt die Schraube eine Längung und zwar bis dahin. Und die Zwischenlage
+wird stärker gestaucht.
+Die geht hier hin.
+Was kann ich jetzt machen?
+Wenn ich das wieder
+in diesem Bild antragen will.
+In diesem Verspannungsdiagramm.
+Dann kann ich
+dieses CZ
+ganz genau
+nach rechts verschieben.
+Soll ich nochmal holen?
+Egal, Sie sehen das ja, wir haben jetzt dann hier oben die erhöhte Vorspannkraft, wir gehen hier hin, die Steifigkeit bleibt gleich und wir verschieben das Ganze nach rechts.
+Wir können dann auch wieder analysieren, wir fahren das Ding hier nach unten und haben dann jetzt die erhöhte Längung der Schraube, das hier, und wir haben die größere Staubung dazwischen.
+Das ist eine Parallelverschiebung durch Erhöhung der
+Formelmäßig heißt das, die Steifigkeit CS ist FV durch FSV
+Und damit kann ich über die Steifigkeit der Zwischenlage, die Steifigkeit der Gesamtverbindung, als sozusagen Parallelschaltung, die wir hier haben,
+Das eine wird gestaubt, das andere wird verkürzt und damit kann ich damit verrechnen, wie groß die jeweiligen Deformationen sind im Wechselwirkungsspiel.
+Kann man das verstehen?
+Ja?
+Ja?
+Also hier haben wir dann, das Bild haben wir da jetzt schon weiterentwickelt, das ist genau das hier, was Sie jetzt hier sehen,
+bei einer entsprechend kleineren Vorspannkraft wird die Schraubendeformation kleiner entlang der Graben,
+und das verschieben wir hier weiter nach unten, während die Zwischenlage dann auch eine kleinere Deformation erfährt.
+Eine erhöhte Vorspannkraft wird durch das weitere Anziehen der Schraube erzielt und der Gramm mit der Steifigkeitslinie der Zwischenlage parallel verschoben.
+Eigentlich haben wir hier quasi eine negative Deformation, die wir in der Art und Weise dann ablesen können.
+Hier als Abschnitt für dieses FZV erhöhen wir die Vorspannung, werden die Anteile neu ausgerichtet und ja, ich sag mal Abschnitte hier auf dieser waagrechten Dreieckabdienstseite.
+Wenn wir jetzt eine Kraft haben,
+die an der Schraube zieht
+und die Schraube weiter lenkt,
+müssen wir uns überlegen,
+wie wir diese Kräfte
+hier eintragen.
+Ich habe dieses Verspannungsdiagramm
+glaube ich auch in der Fertigungstechnik drin.
+Das passiert zum Beispiel, wenn Platten
+zusammengedrückt werden in der Maschine.
+Das ist genau das Gleiche.
+Von außen ein Hydraulikdruck, die Platte wird zusammengedrückt und jetzt kommt ein Werkzeuginnendruck, der versucht, dieses Bauteil, dieses Werkzeug zu öffnen.
+Das wird genau so dargestellt, ist genau so darstellbar.
+Dann kommt eine Betriebskraft, die versucht jetzt, diese Schraubverbindung zu lösen.
+Und die muss man adäquat eintragen.
+Die Schraubenkraft oder diese Kraft, die versucht, die Platten auseinanderzuziehen oder weiter zu stauben, führt dazu, dass die Klemmkraft, die vorhanden ist, reduziert wird.
+Das wäre jetzt sozusagen der nächste Schritt.
+Das würden wir uns, wir haben, ich glaube, morgen haben Sie das gesehen, 13 Uhr, Zusatzveranstaltung, jetzt dabei jetzt, da wollen wir das mal durchmachen.
+Wir machen da bei den Schrauben weiter und wir machen dann erst die Berechnung.
+Die Übungen sind schon abgelegt, die gehen wir dann durch und dann gucken wir, wie weit wir kommen.
+Ja, ich will da nicht morgen unbedingt viele Stunden machen.
+Wofür ist es 14 Uhr?
+Nee, vorne.
+Dann müssen wir hingehen.
+Wir sind die einzige Gruppe.
+Sonst steht der...
+Der hat dich.
+Der steht sonst alleine da.
+Ich bin das.
+Ja, da müssen wir uns austeilen.
+Ist halt so.
+Es sind nur wir drei und noch einer.
+Also das Skript als solches ist komplett vollständig, da ist jetzt nichts nachzutragen.
+Dann mache ich morgen das Skript durch, Sie gucken sich das vielleicht an zuhause und
+dann machen wir Übungen im neuen Jahr, die relevant sind für die Prüfung, Berechnung.
+Was ich gerne hätte, ich habe es ja vorhin angedeutet, das wäre vielleicht so was, ja, im allgemeinen Teil, dass Sie mir, dass Sie im allgemeinen Teil das Smith-Diagramm konstruieren können und so ein Verschraubungsdiagramm interpretieren, ja?
+Da kommt jetzt, ich sag mal, das Diagramm sieht immer gleich aus, das wäre jetzt im Fall,
+einmal das Diagramm zeichnen, Deformationen antragen, was passiert dabei,
+was passiert, wenn die Vorspannkraft erhöht wird, wenn die Vorspannkraft erniedrigt wird,
+das ist das Diagramm und dann, was wir morgen machen werden, wie trage ich eine Betriebskraft da ein
+und was hat das zur Folge?
+Wie viel Aufgabe haben wir hier im Zusammenhang?
+Wir machen einen allgemeinen Teil, da kommt, ich sag mal, ich verspreche das, das MIS-Diagramm konstruieren, das hier Verspannungen, Verspannungsdiagramm und Anzeichnungen oder eine Transferfrage vielleicht und dann noch zwei, drei andere kleine Fragen.
+Was für eine Transferfrage?
+Bitte?
+Was für eine Transferfrage?
+Ja, Transfer wäre zum Beispiel, dass Sie mir eine Betriebskraft hier einzeichnen zusätzlich.
+Und was hat das für Auswirkungen?
+Ja?
+Das ist hier die Vorspannkraft.
+Wenn jetzt hier eine Betriebskraft da reinkommt, die zum Beispiel, die wird an der Stelle eingetragen.
+die hat zur folge wenn die an der zwischenlage zieht versucht sie die zwischenlage wieder
+auseinander zu ziehen dann geht die vorspannkraft zurück und dann gibt es so was wie hier dieses fk
+das ist dann die rest klemmen kraft die noch vorhanden ist wird diese kraft immer größer
+Also diese Zugkraft, die hier vorhanden ist, das ist mein undeformiertes Modell.
+Das ist die weiche Zugfeder, das ist die Druckfeder.
+Ich bringe eine Spannung auf, drehe das Bauteil, bringe immer mehr Moment rein, das ist die Vorspannung.
+Jetzt kommt eine Betriebskraft, die zieht an der Stelle.
+Wenn diese Betriebskraft über diesen Nullpunkt, der unten nicht deformiert, hinauszieht, dann ist keine Kraft mehr da, die die Platten zusammendrückt.
+Das ist das Ergebnis. Die Schraube wird weiter gelenkt, während die Restklemmkraft abnimmt und die Platten irgendwann gar nicht mehr gestaucht werden.
+Dann ist ihre Verbindung gelöst.
+Das würden wir machen, das wäre eine Transferfrage.
+Ja, also ich sage mal grundsätzlich, man kann so ein Verspannungsdiagramm zeichnen und man trägt an, wie man eine Betriebskraft reinbringt.
+Diese Betriebskraft, die ist hier dargestellt, die wird je nach Größe da reingelegt.
+Ist sie besonders klein, liegt sie hier vorne, ist sie weiter rechts, liegt sie da hinten.
+Und da habe ich die Restklammkraft.
+Die wird immer kleiner, je größer die Betriebskraft wird.
+Wenn die Betriebskraft größer ist als die Vorspannkraft, geht die Verbiegung auseinander.
+Das können wir alles berechnen.
+Wir können auch berechnen, wie diese Kräfte sich dann durch die zusätzliche Betriebskraft auf die Kraft der Schraube,
+also auf die Kraft der Zwischenlage, verändern.
+Also ich mache dann morgen, ich sage jetzt mal da diese 20 Folien noch, die das da sind,
+und mache keine Übung, die machen wir dann im neuen Jahr zusammen.
+Damit wir rechnen können.
+Und vom Prinzip her, dann für die allgemeinen Fragen, ist das Teil das Zeichnen eines Verspannungsdiagramms und Lastfall.
+Noch drei, vier Folien, müssen Sie sich anschauen, sollte klappen.
+Und ansonsten kommt dann die Formel da zum Einsatz, über die wir jetzt vorhin geredet haben bei der Berechnung.
+Rechnung. Einverstanden? Dann würde ich jetzt schließen. Danke für die Aufmerksamkeit. Bis
+morgen oder im neuen Jahr. Oder Freitag vielleicht. Weiß ich nicht. Guckt jemand am Freitag? Freitag?
+Morgen? Morgen? Früh? Fertigung? Ja. Dann sehen wir uns ja wieder. Sie nicht, dann...
+Dann, ja, sie kommt morgen nach München.
+Brauchen wir noch keine Probe weiter in München.
+Alles klar.
+Vielen Dank.
+Wir waren letztes Semester hier und es war kein Finanzier.
+Und nur wenn wir noch was machen wollen.
+Achso, ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.
+Ja.

@@ -1,0 +1,1556 @@
+Konvektion abgeschlossen mit Verdampfen und Kondensieren und dann kommen die Wärmeübertrager
+und da ist sogar eine Schnittstelle dann nochmal deutlicher zu Thermodynamik und eben Wärmeübertragung
+zu sehen.
+Genau, dann sind wir aber auch so gut wie durch.
+In der Wärmeübertragung haben wir ja nächste Woche Montag dann noch diese allerletzte Stunde
+zu Strahlungsthematik.
+Die wollen wir ja online machen.
+Sie haben es alle mitgeschnitten
+und sind hoffentlich bereit für einen synchronen Lehrblock.
+Ich werde Ihnen dann noch den entsprechenden Zoom-Link einstellen.
+Das dauert wahrscheinlich ein paar Tage noch,
+bis ich das mache.
+Besteht da die Möglichkeit, das in der Aufzeichnung?
+Ich habe schon befürchtet, dass Sie das fragen.
+Ungerd. Ganz ehrlich gesagt, ungerd. Wer ist denn alles verhindert an den Montag? Sie, die beiden.
+Also, ich frage mal andersrum, ist es denn irgendjemand, an dem man bedenken damit, wenn aufgezeichnet wird?
+Ich werde noch mal drüber nachdenken, wie ich es machen kann, es ist nicht wegen mir
+persönlich, aber ich finde es immer ein bisschen unangenehm für den Synchronraum, weil ich
+weiß, dass die Leute sich dann noch weniger gerne melden, zu Wort melden, was ich auch
+verstehen kann, weil keiner möchte irgendwo auf irgendeinem Video irgendwo in der Welt
+sein und dann ist es für mich ein stück weit so wie wenn sie im universum ein
+schwarzer loch reden ja das gibt es kein video feedback es gibt auch keine
+meldung weil sich keiner traut deswegen ist es nicht so dass ich jetzt ein problem damit habe
+so von mich können sie gerne im video hören alles gut also deswegen kommen sie in der
+pause noch mal kurz auf mich zu wir finden eine gute lösung vielleicht mache ich so
+so dass ich einfach die Annotationen im Nachgang mit einstelle.
+Wie wäre das?
+Das ist doch vielleicht eine gute Komplexlösung.
+Ich mache den Synchronraum synchron und der ist zu.
+Und im Hintergang haben Sie dann die vollen Aufzeichnungen.
+Falls Sie sie nicht kriegen, schreiben Sie doch.
+Gut, passt. Jetzt starten wir durch.
+Heute, erzwungene Konvektion.
+Nochmal zurückblickend, was wir gemacht hatten in der letzten Stunde in der Wärmeübertragung,
+Da ging es um den Vergleich von Wärmeleitung und dann Konvektion.
+Und wir haben gesehen, ja eigentlich ist immer wenn Konvektion eine Rolle spielt, die Wärmeübertragungsfähigkeit größer.
+in diesem Beispiel, also 10 Watt, 30 Watt, also eine Nüsselzahl von 3, eine stärkere
+Transportfähigkeit von Wärme, wenn sich die Teilchen auch noch bewegen dürfen. Und
+in dem Kontext haben wir dann auch noch die Prantenzahl kennengelernt, weil wir ja bei
+der Wärmeübertragung anders als in der Strömungstechnik, sowohl mit dem Material und Geschwindigkeitsfeldern
+zu tun haben? Ja, das haben wir in der
+Führungstechnik auch, aber zusätzlich haben wir eben noch
+das Thema mit den Temperaturverteilungen
+im Raum
+und dadurch wird das Ganze
+nochmal ein Stück komplizierter.
+Dann haben wir dieses Rechenschema
+kennengelernt, was Sie hoffentlich alle auf Ihre
+handschriftlichen Notizenzettelchen
+übertragen haben oder noch tun
+und dann können wir damit rechnen,
+wir können damit rechnen,
+verschiedene Aufgaben, die alle mit
+irgendwelchen ziemlich grauenhaften
+Formelwerken hinterlegt sind,
+Das sind Näherungsformeln, die aber es erlauben, Nusselzahlen zu berechnen und aus den Nusselzahlen können wir uns den Konvektionsterm berechnen.
+Also das heißt, wenn eine Aufgabe da ist, wo es heißt, berechnen Sie diesen Wert von Alpha, also diesen Konvektionswert,
+dann sind Sie meistens in diesem Schema unterwegs, Sie schauen, welche Geometrie haben Sie,
+Platte, Rohr innen, Rohr außen, Laminar oder Turbulent und dann nutzen Sie entsprechend die richtigen Formelwerke,
+Da sind es für die Rohre, da unten ist es für die Umströmung außen von so einem Zylinder.
+Das kommt heute nochmal wieder mit freier Konvektion und auch die Platten kommen nochmal wieder mit freier Konvektion.
+Alles was Sie hier auf der Folie sehen, ist, wie oben links steht, erzwungene Konvektion.
+Das heißt dann, wenn irgendein Ventilator bläst, wenn irgendein Fahrzeug sich mit einer Geschwindigkeit bewegt,
+irgendwie der Geschwindigkeitsstrom koordiniert von außen vorgegeben ist.
+Wenn irgendwas durch ein Rohr durchströmt.
+Das ist aus der Formelsammlung rauskopiert, was Sie dort haben.
+Hoffentlich gibt es keine Tippfehler bei mir, aber ich denke mal, es sollte passen.
+und da finden Sie also genau diese ganzen verschiedenen Optionen, diese Formeloptionen wieder.
+Sie haben dort eben immer diese Fallunterscheidungen, die Sie machen müssen,
+bei denen steht hier Kriterium, wo Sie zum einen mit der Raynaud's Zahl in bestimmten Bereichen sind,
+wo Sie dann einschalten können, Laminar oder Turbulent und zum anderen die Brandtl-Zahl sich immer angucken müssen
+und einfach ein Kontrollhaken setzen müssen, ob die Brandenzahl denn in dem erlaubten Bereich ist.
+Hier ist es sogar so bei den Rohren, dass je nach Brandenzahl sie in verschiedene Pfaden hier abbiegen müssen
+und dann eine andere Formel dargestellt werden.
+Die sind zwar ähnlich, aber eben doch nicht ganz gleich.
+So, dazu haben wir auch Aufgaben gemacht, zwei Stück an der Zahl, wenn ich mich richtig entsinne,
+WÜ 13, WÜ 14 und ich meine es gibt auch solche und ähnliche Aufgaben nochmal auf Ihrem Übungsblatt.
+Dazu schauen Sie vielleicht selber mal rein.
+Das WÜ3-Blatt ist jetzt dann das, wo Sie noch die entsprechenden Aufgaben finden.
+Und da müssen Sie eben selber entscheiden, ob jetzt erzwungene oder dann freie Konvektionen vorliegen.
+Das ist eigentlich nur nochmal rauskopiert, das kannten wir aber letztes Mal schon, wollte ich jetzt nicht nochmal zu sehr machen.
+Ich wollte jetzt springen zu dem, was wir uns heute mehr angucken wollen, nämlich die freien Konvektionen.
+Letztes Mal hatte ich das Video nicht dabei.
+Jetzt habe ich es heute extra nochmal mitgebracht.
+Es ist ja ganz kurz.
+Und
+vielleicht geht es jetzt.
+Dort sehen wir eben nochmal
+den Beispiel für freie Konvektion.
+Die Dame, die da im Raum steht,
+die hat eine Körpertemperatur,
+die ist wärmer als die Umgebung.
+Und entsprechend bilden sich
+hier neben ihr so schnierenartige
+Ausstiegsbewegung der warmen Luft.
+Warum ist das so?
+Weil eben die Dichte der warmen Luft kleiner ist
+als die Dichte der kalten Luft.
+Und deswegen geht es nach oben
+und jetzt pustet die Dame mit der Nase heraus,
+das ist erzwungene Konvektion.
+Da ist die Geschwindigkeit vorgegeben.
+Wenn ich die, weiß ich nicht,
+Lungenvolumen und was weiß ich berechne
+oder sage, ja, dann kommt es sich mit der und der Geschwindigkeit an.
+Also es ist ein einfaches Video,
+aber ich hoffe, es ist nochmal anschaulich gewesen,
+was ist erzwungen, was ist frei
+ja, gut
+dann haben wir
+gesagt, wenn wir jetzt freie
+Konvektion haben, dann
+ja, spielt eben
+dieser Dichteunterschied eine Rolle
+dafür gibt es
+das ist wieder ein Querblick
+auf die Thermodynamik
+den isobaren Ausdehnungskoeffizient
+den haben sie glaube ich nur relativ
+kurz, vermute ich
+dann habe ich verhandelt, aber
+im Groben und Ganzen geht es darum
+wie stark dehnt sich was aus, wenn ich die Temperatur ändere.
+Und angenehmerweise ist es so, dass dieses, wie stark dehnt sich das aus,
+für ideale Gase, und das ist das Einzige, was wir hier behandeln wollen,
+gerade eine relativ einfache Formel ergibt, nämlich 1 durch T.
+Also, je wärmer, desto stärker dehnt sich es aus,
+oder dieser Koeffizient
+ist der Reziprok-Wert
+da man den Linearen
+Reziprok-Linearen zusammen hat
+und das nutzen wir
+und jetzt können wir
+vielleicht nochmal ganz kurz schauen
+Sie haben ja in Google
+die Variante
+mit V2
+Sie sehen genau das da oben
+wo auch die Raydance-Zahl eingeblendet ist
+passt, das habe ich nämlich heute früh nochmal
+updated. Das ist schön,
+dass das so für Sie
+auch funktioniert. Jetzt haben wir also noch mal
+kurz den Gedanken, wenn wir jetzt uns
+bewegen, im Bereich freier
+Konvektion, meinetwegen irgendein
+Körper hier, der es heißt,
+das geht aber genauso für
+irgendwelche Wände oder für irgendwelche
+Rohre oder wie auch immer, die Geometrie
+spielt gar keine Rolle.
+Dann sind Sie mit der Formel
+da unterwegs, mit den Grashof-
+Geschichten und die werden wir gleich noch mal
+uns angucken
+für bestimmte Geometrie, wenn sie aber
+irgendwie diese Art
+Geschichte haben, da blasen wir von außen hin,
+dann sind sie immer mit Reynolds-Zeiten unterwegs.
+Das ist also entweder oder.
+Entweder Reynolds oder Grashoff.
+Reynolds,
+Trägheitskräfte mit einer
+außen vorgestübenden Geschwindigkeit u,
+Grashoff,
+Auftriebskräfte,
+die sich ergeben aufgrund der Dichtung.
+Und es gibt aber in der Realität
+natürlich ganz viele Fälle, wo irgendwie
+die beiden Sachen überlagert und kombiniert sind.
+Im Endeffekt kann sie die natürliche Konvektion praktisch nicht ausschalten.
+Aber, ich traue es gleich aus, für sie gilt immer, wenn irgendwo Geschwindigkeiten vorgegeben sind,
+wir machen diese Sache und wenn keine Geschwindigkeiten von außen vorgegeben sind,
+dann gehen wir hier hin. Das ist in erster Näherung auch erstmal gut.
+Jetzt gucken wir uns das Ganze an für eine beheizte senkrechte Wand.
+Was ist eine beheizte senkrechte Wand?
+Mein Beispiel wird sein, diese Tafel hier, wahrscheinlich werde ich nochmal auf irgendeiner seitlich stehenden Wand vielleicht die Tür oder so wechseln.
+Zunächst die Tafel. Wir haben eine Wand, die meinetwegen warm, heiß ist.
+Und was passiert jetzt mit der Luft, die sich hier vor der Tafel bewegt?
+Hier, ganz weit weg von der Tafel, auch wenn ich die Platte hier heize, wird sich nichts verändern.
+Nur ganz nah dran an der Tafel, da tut sich was.
+Und auch unterhalb von der Tafel wird sich sicherlich nichts tun,
+aber oberhalb von der Tafel schon, weil da steigt ja die heiße Luft hinauf.
+So ist im Endeffekt die Basisidee.
+Und das wollen wir jetzt versuchen, uns da mal so ein bisschen zu skizzieren.
+Es ist eben ein bisschen anders, als wir es kennengelernt haben.
+Warten Sie mal, ich blätter das mal alles auf.
+Ja, das funktioniert nicht.
+Leider ist ja letzte Woche mein Tablet runtergefallen, es ist dadurch auch kaputt gegangen und deswegen bin ich etwas eingeschränkt, aber ich versuche es mal.
+Im Endeffekt können wir sagen, dass die Temperatur am wärmsten ist, wenn die Tafel
+Warmes Wand, also Theta-Wand ist das Warme, ist größer als Theta-Unendlich.
+Das bedeutet, dass ich da oben reinschmiere.
+Und wenn ich jetzt das Temperaturverhältnis mal anschauen will,
+dann sehe ich, dass da wo die Tafel ist, ist es am wärmsten und dann geht es hinab bis runter zu
+einer Temperatur, die eben meiner Wartentemperatur entspricht. Es ist ziemlich gekrakelt, es tut mir
+leiten. Aber Sie sehen also verschiedene Pfeile, verschiedene Länge. Am Anfang ist die Temperatur
+hoch, da wo die Dörfel in dem Fall heiß ist und außen ist sie niedrig. Und jetzt haben
+wir das Thema mit dem Geschwindigkeitsfeld, das sich dem überlagert. Und beim Geschwindigkeitsfeld
+ist es ja so, dass Sie an der Tafel selbst eine Haftbedingung haben.
+An der Tafel kann sich die freie Luft nicht bewegen.
+Und andersrum haben Sie hier auch so eine Grenzfläche eingezeichnet bekommen.
+Und wie kennen Sie, wenn Sie sich nochmal erinnern, aus dem Spielchen von der erzwungenen Konvektion,
+dass der Einfluss von dieser entsprechenden Wand, wenn jetzt von unten, in diese Richtung steigt ja die warme Luft aus,
+wenn von unten also eine Teilchenbewegung stattfindet, dann ist alles, was hier außen ist, nicht affektiert davon und die Wand auch nicht.
+Nur hier in der Mitte beschwingt sich die Geschwindigkeit.
+Das heißt, Sie bekommen eine Geschwindigkeitsbeteiligung, die ist hier außen klein.
+Und wird hier wieder klein.
+Also, wir haben hier so ein Geschwindigkeitsprofil, was einmal eingezweckt ist zwischen dem, dass wir eine Haftbedingung an der Tafel haben und zum anderen an der Geschwindigkeitsgrenzflächenbereich.
+An der Stelle, wo aufgrund von dem, dass die Temperatur keinen Unterschied mehr hat, gibt es auch keine treibende Kraft, dass sich die Geschwindigkeiten verändern.
+Hier ist das Momentum sehr stark, sehr große Temperaturreizung, also sehr hohe Temperatur gegenüber der Nachbarnstelle.
+Und aufgrund dieses Gradientens entsteht der Auftritt.
+Hier draußen flacht die Temperatur ab gegen konstante Temperatur.
+Es gibt keine Bewegung, keine Motivation mehr davon, dass die entgängenden Teilchen aufsteigen.
+Das gleiche sehen wir nochmal auf der folgenden Seite, ich blätter gleich dann zurück, von der Computergrafik gezeigt, also Sie sehen hier diesen Temperaturverlauf und den entsprechenden Geschwindigkeitsverlauf, das ist vielleicht nochmal angenehmer jetzt zu sehen und es ist so, dass vom Himmel fällt diese Grasshoff-Zahl in der Definition für Sie,
+Vielleicht nur ganz kurz, was steckt da drin?
+Das ist der Erdbeschleunigungstaktor, das heißt, wie stark wird ein entsprechender Fluidteilchen,
+das ist also hier, wie stark wirkt auf den die Erdanziehungskraft,
+das ist also in dem Falle typischerweise die Luft, die da außen ist, mit der entsprechenden Dichte.
+und hier ist dieses Beta, dieser Faktor, der ist dann 1 durch T,
+da geht es also um diese Temperatur, die das ganze System treibt.
+Bei uns wird es die Temperaturdifferenz sein zwischen dem, was die Wand ausmacht und was die Umgebung ist.
+Da steht man es, die Temperatur der Wand minus die Temperatur der Umgebung.
+Und Achtung, das schreibe ich da jetzt nochmal hin,
+Eine Sekunde, ich muss ganz kurz überlegen.
+Ne, ist in dem Fall nicht so schwierig, passt.
+Dann die Nü, das ist die kinematische Viskosität,
+die entsprechend hier bei 3 spielt und hier steht dann L hoch 3. Das ist vielleicht auch erstmal verwunderlich.
+Wir kennen zuvor schon L² als Bezugsgröße, die in entsprechenden Formeln für Reynolds-Zahlen mit einer Rolle spielen kann,
+wenn sie Bogenlängen haben. Hier haben wir L hoch 3, weil wir diesen zusätzlichen Effekt haben des Geschwindigkeitsfelds
+und des Temperaturfelds. Nehmen Sie es so hin und können dadurch hoffentlich dann hier passend
+die Grasaufzahl berechnen. Wenn wir das Ganze anwenden für diese Ebene Wand, dann kriegen wir
+eine Nusselzahl heraus, die bei laminarer Strömung einigermaßen erträglich ist von dem Formelwerk,
+irgendein Zahlenwert mal Rassow mal Prantenzahl. Prantenzahl kannten Sie ja aus dem Rückblick.
+Da ging es also darum, wie sind jetzt diese Geschwindigkeits- und Temperaturfelder zueinander gelagert.
+Und das lässt sich materialspezifisch eben immer bestimmen.
+Bei uns, bei Luft, meine ich 0,711 als typischer Wert und bei Flüssigkeiten etwa einen Faktor 10 größer.
+Bei turbulenten Stürmungen gleiches Spiel, Achtung, andere Exponent hier und irgendwie eine andere Zahl.
+Damit kann man aber einigermaßen gut jetzt berechnen, wie gut kann also, meinetwegen,
+eine heiße Tafel ihre Wärme an die Umgebung übertragen und was wir gerade gesehen hatten
+in der Formel, es macht also extrem viel aus, wie lang diese Tafel ist. Wenn die nur kurz
+ist, kann die sehr viel weniger Wärme an die Umgebung übertragen oder sprechen wir
+mal in Zahlen, wenn die einen Meter höher hat, die Tafel, dann wird die aufgrund der
+Konvektion stattfindende Wärmeverlust der Tafel um Faktor 8 kleiner sein, als wenn
+ich die 2 Meter lang habe. Also doch relativ erstaunlich. Das liegt eben daran, dass wenn
+die Tafel dieses Stück länger ist, dann hatte die Luft schon ein Stück Zeit und Möglichkeit
+hier sich zu beschleunigen in der Auftrittsbewegung und je stärker die Auftrittsbewegung ist,
+desto mehr Sog entsteht und mehr Potenzial, dass sie dort andere Wärme mit abführt.
+Das wäre übrigens auch sowas, was man im Sinne einer Verständnisfrage fragen könnte.
+Was passiert, wenn ich die Wand verdopple in der Länge mit der entsprechenden Wärmeübertragung?
+Ja, Faktor 2 hoch 3, das sind 8, oder?
+Jetzt nächster Gedanke in diese Richtung.
+Da steht ganz bewusst ex kurz oben, weil ich nicht Sie da jetzt mit irgendwas quälen will, ganz grob, das Verständnis ist trotzdem wichtig.
+In der Realität haben wir oft nicht irgendwelche gerade stehenden Wände, so wie ich es da gezeigt habe mit der Tabe, sondern das steht irgendwie schief im Raum.
+Was passiert dann? Wärme steigt bekanntlich auf und zwar gerade nach oben.
+Auf der anderen Seite haben Sie eben diesen Effekt, der durch die Überströmung der Platte stattfindet und in der Realität bilden sich dann, wenn dieses Strömungsfeld hier abreißt und die eine Kraft nach oben treibt und die andere hier entlang der Platte, bilden sich dann solche Formen aus.
+Zum Beispiel hier solche Kanäle, in denen sich die Wärme nach oben ableitet.
+Und hier unten haben Sie so eine Art Stauung von der Wärme über diese entsprechende Grenzfläche.
+Jetzt muss ich zugegeben öfters bei mir reinschauen, in die Formel setze, weil ich jetzt die genauen Schützen auch nicht mit habe.
+Aber ich werde sie Ihnen wirklich einfach dann an der Stelle aufblenden, weil sonst sind Sie da eigentlich nur gequält.
+So, also die Idee, die hier nochmal mit notiert war, keine Sorge, es ist im Endeffekt ein Exkurs-Thema.
+Es können sich solche Kaminröhren ausbilden, nach oben hin.
+Wir haben also die Situation, dass der Winkel eben anders ist als zuvor.
+Aber es ist so, dass wenn Sie diesen Winkel einstellen und verkippen, dass dann auf der Oberseite der Platte die Wärmeübertragung an die Umgebung besser wird.
+Warum wird die besser?
+Weil, wenn Sie sich nochmal erinnern, es geht ja immer um diese Grenzflächen, die sich aufbauen.
+und wenn jetzt Kanäle hier entstehen, dann sieht man schon, reißt hier die Grenzwäsche ein ganzes Stück ein
+und wird kleiner, anders als auf der Unterseite, wo es eine sehr ausgebreitete Boundary Layer,
+eine Schutzschicht sich aufbaut, reißt es hier ab und es gibt einen näheren Kontakt der Umgebungstemperatur
+zur Platten-Temperatur und dadurch also eine stärkere Möglichkeit, dass die Wärme abgefüllt wird.
+Auf der Unterseite haben wir eben die Grenzschicht und eine langsame Temperaturübertragung.
+Auf der oberen Seite diese Kaminrohre und schnelleres Auskühlen.
+Das ist eigentlich das, was ich gerade versucht hatte, nochmal zu erklären.
+Neues Tablet wird gekauft, dann bin ich wieder besser einsatzfähig.
+Aber am Freitag hat es noch funktioniert, heute früher hat es dann wirklich vollständig
+den Geist aufgegeben. Die entsprechende weitere Variante müssen wir jetzt nicht noch zu sehr
+vertiefen. Wenn Sie die Platte genau waagerecht stellen, also wir hatten ja am Anfang senkrecht
+die Tafel, waagerecht, also wie der Tisch, dann haben Sie Röhren nach oben und nach
+unten und die entsprechenden Effekte. Und nur noch mal hier gezeigt, das ist aber für Sie glaube ich nichts mehr Neues,
+das hatten wir gleich in der allerersten Stunde der Vorlesung, der Vorlesungsreihe behandelt, wenn ich ein
+eingeschlossenes Fluid hier habe und es zwischen heißer und kalter Platte einsperre und die Schichtung
+so, dann kann ich es erreichen, dass eben überhaupt keine Mobilität stattfindet.
+Wir hatten darüber gesprochen, meinetwegen eine Deckenheizung, oben ist es heiß, unten
+ist es kalt, das wird dann so bleiben im Raum und das ist der Nebeneffekt, den wir jetzt
+ja etwas diskutiert hatten, unten ist eben das schwere Fluid, das heißt die Luft, die
+unten im Raum ist, ist etwas
+schwerer und kälter
+als die Luft, die oben ist.
+Die hat die wenige, die hat die leichte Dichte.
+Dort sind weniger Moleküle
+und die ist eben wärmer.
+Wenn ich aber
+natürlich die Situation umdrehe,
+typisch für Fußbodenheizung,
+dann kriege ich
+eben so einen
+natürlichen
+Konvektionsfluss
+und der wird sich eben auch in solchen
+Raumzellen
+einstellen.
+Das heißt, es ist gar nicht so leicht
+im Raum, die genauen
+Luftbewegungen
+jetzt vorauszuberechnen,
+aufgrund von einem Heizungsthema.
+Oder aber auch, wenn Sie
+jetzt in irgendwelchen
+Materialien sind, die Sie jetzt
+abschrecken oder so weiter, dann kriegen Sie sehr
+spezielle
+Effekte in eventuell sogar
+ganz regelmäßigen Oberflächenabständen.
+Ein Thema, was hier noch mit reinkommt, ist die zweite Geometrie.
+Anstatt der Wand können wir das gleiche Spiel auch für eine Röhre ausmachen.
+Theoretisch können wir es auch für eine Röhre innen machen.
+Das ist aber relativ uninteressant, weil so groß sind Rohre nicht,
+dass ich da jetzt riesige natürliche Konvektionen innerhalb des Rohrs bekomme.
+Außenrum sehr wohl, das ist das typische Thema, wenn ich irgendwie mit Heizungsröhren arbeite.
+In dem Falle habe ich aber eine Heizungsröhre, die also meinetwegen so waagerecht durch den Raum läuft,
+auf einer Raumhöhe ein Rohr verlegt und um dieses Rohr, was jetzt in dem Falle,
+das ist ja nicht kalt, sondern ein Körperheißentäterkörper, in dem Falle ein warmer Körper und eine kalte Umgebung,
+dann wird sich natürlich so ein entsprechender Luftbewegung einstellen, die eben wahrscheinlich
+hier unten sogar noch ein bisschen näher zusammengepackt ist. Das wird vielleicht nicht
+ganz ideal gezeigt, aber nach oben so zwiebelartig, wie eine aufstresende Zwiebel,
+nach oben die Wärme abführt. Und wenn Sie jetzt diese Formel anschauen, okay, die kann man halt
+wieder so aus der Vorbesammung herausnehmen. Dann taucht da noch eine Sache auf, die wir zuvor nicht hatten, nämlich dieses L' hier.
+das L sprich
+ist nichts anderes als
+D mal Pi
+halbe, warum ist das so?
+Das ist nichts anderes als die Bogenlänge
+die Sie hier
+also ich zeige Ihnen das jetzt bewusst mal
+das ist das L sprich
+da geht es also darum, dass
+der Kontakt
+den jetzt das außen umstürmende Gas hat
+der beginnt hier unten
+dann findet diese Beschleunigungsphase statt
+bis spätestens hier oben
+wahrscheinlich sogar ein kleines bisschen früher
+im Sinne der Ernährungslesung jetzt nicht relevant
+sich diese Beschleunigungsphase endet
+weil dann
+reißt der Film nach oben ab
+und die Luftströmung entweicht
+aus dieser Geometrie heraus
+das ist also die Zeit
+in der dieser Körperkontakt
+stattfindet und hier ist nochmal
+D als eigene Größe
+warum ist hier nochmal D
+der Durchmesser
+ja da geht es an der Stelle darum
+dass die Gewichtskraft auf die entsprechenden
+ähm
+Geometrielänge wirkt
+da geht es also rein um die Höhe
+Soll heißen, ein Teilchen, was hier oben ist, an der geodätischen Höhe, um die Längenmaß D weiter oben als hier unten,
+hat, gewichtet mit der Erdlandziehungskraft, eben andere Schwerkraftbewegungen als hier unten.
+Also einmal geht es um die Bogenlänge und einmal geht es um die Schwerkraft und die geodätische Höhe.
+Und so, wenn Sie die zwei wieder verschmelzen lassen, dann sind Sie wieder bei diesem L hoch 3, was Sie vorher kennengelernt hatten.
+Die Grashoff-Zylinderformel wird oft, nur dass man es weiß, auch mit Grashoff-L-Strich geschrieben.
+Spielt keine Rolle, ist einfach nur der Indikator hier.
+So, dann gibt es noch die kleinen Hinweise, wenn der Zylinder kälter ist als das Fluid, dann kehrt sich die Strömungsrichtung um, ist logisch.
+Dann geht also diese Zylinderform nach unten und fällt ab.
+Ich hoffe, das kann man sich einigermaßen vorstellen.
+Und Beträge der Temperaturdifferenzen verwenden.
+Das heißt, die Grasaufzahl, die Sie berechnen, wird immer als positiver Zahlenwert gerechnet.
+Was Sie ja am Schluss machen müssen, wenn Sie jetzt eine Aufgabe haben,
+weil das jetzt Massaufzahl, Wärmeübergangskoeffizient und dann hinterher ein Wärmestrom ausrennen,
+dass Sie dann E als einer der letzten Schritte wahrscheinlich einzeichnen, wie findet denn der Wärmestrom statt.
+Und hier findet der Wärmestrom auf dieser Folie statt, von innen nach außen, weil innen ist warm.
+Das heißt, ich würde jetzt hier am Schluss sagen müssen, dass hier die Wärme nach außen übertragen wird,
+in alle möglichen Raumrichtungen. Das wäre jetzt also mein Q-Punkt. In dem Fall mache ich mal lieber
+einen großen Buchstaben Q, weil es ja an jeder Stelle unterschiedlich gewichtet ist. Wenn ich
+natürlich das andersrum mache, dann zeigen die Pfeile nach innen. Stoffwerte mittlerer
+Fluid-Temperatur verwenden, ist für Sie nur bedingt relevant, weil die bei uns typischerweise
+gegeben werden, aber das, was Sie an Stoffwerten kriegen, müsste sich am besten auf eine Temperatur
+beziehen, die zwischen der Körpertemperatur und der Umflugungstemperatur liegt.
+Soweit an der Stelle.
+In der Praxis relevant sind noch ein paar Themen, und zwar unter anderem der beheizte vertikale Spalt, das schreibe ich da nur mit den Bildchen hin, im Endeffekt exkursartig.
+Es geht darum, dass wenn Sie jetzt ein Bauteil kühlen wollen, sei es der Beamer da oben, mein Laptop, irgendwelche Computerchips oder dergleichen mehr, dann haben Sie wahrscheinlich schon mal so ein Bauteil gesehen.
+Wer hat so etwas noch nie gesehen? Irgend so ein schwarzes Ding mit Rippen dran? Keiner meldet sich, das ist gut.
+Also Sie kennen das alle irgendwo, solche Bauteile kriegen solche Aluminiumkörper obendrauf, die sind schwarz lasiert typischerweise oder eloxiert.
+Warum schwarz? Kommt nächste Stunde.
+Warum mit irgendeinem bestimmten Rippenabstand?
+Ja, da ist das gleiche Spiel.
+Also diese Bauteile gibt es häufig ohne zusätzlichen Lüfter und die sollen dazu dienen, dass sie da unten drunter, was ein Bauteil auch immer ist,
+oder einem Computerchip oder was, schön kühlen sollen, die Wärme abführen an die Umgebung
+und zwar mit natürlicher Konvektion, damit ich eben kein so ein lautes Lüftergeräusch habe.
+Und da ist es jetzt eine nicht ganz leichte Aufgabe, die Dimensionierung dieser Spalten sich zu überlegen,
+weil sie eben diesen Kamin-Effekt hier ausbauen wollen, dass möglichst viel an Wärme nach oben abgegeben werden kann,
+dass dieser natürliche Konvektionsfluss von den Grenzflächen sich möglichst nicht zu früh hier berührt,
+denn wenn ich weiter auseinanderbringe die Platten, ja klar, dann kann ich stärker hier diese Grenzflächenausbildung erreichen
+und habe keine Querwirkung von der Wärme, die auf der einen Platte sitzt, gegenüber der anderen Platte.
+Auf der anderen Seite, wenn ich die näher zusammenpacke,
+dann kann ich natürlich mehr solche Finnen auf dem gleichen Raum verbauen
+und so potenziell auch mehr Wärme an die Umgebung übertragen.
+Deswegen gibt es also für jede solche Bauteile optimal dimensionierte Finnengrößen.
+Das wollen wir jetzt nicht weiter berechnen und anschauen, aber nur aus der Technik mal erwähnen.
+Genauso kann man das ganze Thema auch nutzen für ein sogenanntes Aufwindkraftwerk.
+Und ich glaube, ich hatte es am Anfang der Vorlesung auch schon mal angesprochen,
+in jedem Fall ist dieses eine Pilotanlage, die man mal gebaut hat in Spanien,
+bei der man die Energie der Sonne nutzen will und zwar nicht wie in der Photovoltaik,
+sondern eben diese Aufwindwirkung hier unten, das sieht fast aus wie Spiegel vielleicht von Ihnen,
+in Wirklichkeit sind das mehr wie so ein Glashausplastik oder Glasplatten, in dem Fall ist es ein Kunststoff
+Und der dient dazu, dass da unten eben ein Treibhauseffekt sich einstellt.
+Da wird es sehr heiß, sehr warm, unterhalb dieser entsprechenden Glas- oder Kunststofffläche.
+Und wenn sich hier unten nun die Luft erwärmt, stark erwärmt,
+dann wird sie sicherlich eine Tendenz haben aufzusteigen.
+Das ist ja genau der freie Konvektionseffekt.
+und geht dann hier in diese kaminartige Röhre, die wiederum möglichst lang gezogen ist,
+um einen starken Unterschied der Dichte und der Temperatur zu erreichen,
+von dem, was hier aufsteigt, zu dem, was die Temperatur der Umgebung ist.
+Und dadurch lässt sich an dieser Stelle hier auch eine Turbine antreiben und dadurch den Generator.
+Und das sieht jetzt erstmal von dem her schön aus, weil es sicherlich von den Investitionskosten
+von dieser Plane allein erstmal überschaubar teuer ist.
+Der Kamin, der da steht, der ist, wie man sieht, einige hundert Meter hoch.
+Bis zu tausend Meter hat man dort sich mal überlegt.
+Ich glaube, diese Demoanlagen sind aber eher im Bereich 200-300 Meter Höhe.
+und
+kostenmäßig, also vielleicht in Ordnung
+auf der anderen Seite, was ein
+Mitnahmeeffekt ist, ist, dass wenn Sie
+diese Dichteunterschiede
+nutzen und dieses Kraftwerk läuft
+dass Sie jetzt zum Beispiel
+eine Verschattung ohne weiteres
+überwirken können, das ganze System
+wenn es einmal im Schwung ist, kann sogar 3-4 Stunden
+nachlaufen, wenn die Sonne
+untergegangen ist, das heißt
+man hat sozusagen eine Art intrinsische Speicherfähigkeit
+oder eine glättende Wirkung
+Nichtsdestotrotz hat sich das technisch nicht durchgesetzt.
+Photovoltaik ist deutlich günstiger, die Wirkungsgrade von solchen Anlagen eher beim Bereich weniger Prozentpunkte,
+zwei, drei Prozent, vielleicht fünf Prozent lassen sich theoretisch erreichen.
+Heutige Photovoltaik hat über 20 Prozent Wirkungsgrad und ist kostenmäßig auch extrem weit gefallen.
+Deswegen hat sich das also nicht etabliert.
+Nichtsdestotrotz wollte ich es kurz ansprechen, also als freien Konvektionseffekt.
+Was kennen Sie auch?
+Sicherlich, wenn Sie einen Topf Nudeln aufsetzen, dann bilden sich im Nudelwasser getropelte Strömungen an bestimmten Stellen, bilden sich Blasen an bestimmten Stellen, reißen sich die Ränder stark ab.
+Das ist auch wieder ein freier Konvektionseffekt, unten heizen sie und dann bilden sich da also bestimmte Nudeln.
+Wenn Sie es genau analysieren, so ein Vektorfeld, dann sehen Sie, da gibt es also bestimmte Stellen, die sind besonders wenig durchmischt und andere Stellen werden sehr stark.
+Wenn Sie dann Blasenbildungen haben, dann wird das Ganze noch chaotischer.
+Auch so ein Effekt, vielleicht hat es jemand von Ihnen auch schon mal beobachtet, Maragonitin-Lektion,
+sieht man zum Beispiel bei Kerzenwachs zum Teil, wenn da Krümel reinfallen ins Kerzenwachs,
+jetzt in der Weihnachtszeit, vielleicht irgendwie ein Weihnachtstranz zu Hause, wenn Sie hier
+ein Partikel haben, dann passiert es, dass dieser Partikel von der Kerze weg nach außen getrieben wird
+und potenziell auch wieder zurückkommt und sich hier so Kreisbewegungen einstellen.
+Das hat was damit zu tun, dass Sie aufgrund der Dichteunterschiede auch Oberflächenspannungsunterschiede kriegen.
+Das heißt, die Oberflächenspannung in der Mitte ist kleiner, als sie am Rand ist
+Und dadurch bilden sich auch noch mal wieder bestimmte Verwirbelungseffekte.
+In der Praxis viel relevanter ist dieses letzte Thema, was ich damit glaube ich noch zeigen werde.
+Das ist das von den Fensterscheiben, die wir uns jetzt ein weiteres Mal angucken.
+Aber diesmal deutlich genauer.
+Wir sehen hier ein Schnittbild von der Doppelverglasung und ein Schnittbild von der Dreifachverglasung.
+Und wir wissen ja schon, dass eben mit dem freien Konvektionseffekt sich hier so Strömungswirbel ausbilden können zwischen zwei Platten.
+Also was wir hier haben auf dem Bild ist am Ende hier eine innere Glasscheibe, hier eine äußere Glasscheibe und das wäre hier in Ihrem Raum innen und dieses hier außen.
+und jetzt haben sie den Effekt, dass dieses Jahr, je größer sie das Fenster machen von der Höhe,
+desto stärker wird dieser Konvektionseffekt natürlich sein und je weiter sie die Rachen auseinander nehmen,
+desto stärker kann sich auch ein natürlicher Konvektionsstrom von unten heraus aufbauen
+und eine große Grenzfläche überschreiten, eine große Strömungswirkung erzeugen.
+Und deswegen ist es nicht unbedingt geschickt, die Glasscheiben weit auseinander zu ziehen.
+Auf der anderen Seite, wenn ich sie zu nah zusammenbringe,
+habe ich allein aufgrund der Wärmeleitung
+weniger Material
+oder weniger
+Abstand und isolierende Luft
+wenn sie denn steht
+dann habe ich auch wieder einen konkurrierenden Effekt
+das zählt sich heraus
+ich glaube ich habe es auf der nächsten Folie noch mal gezeigt
+dass so etwa 13 mm
+hier sieht man es aber auch
+bei einer Zweifachverglasung
+dass da so
+Bereiche
+hier steht also irgendwas zwischen 5 und 15
+Millimeter einen kleinstmöglichen U-Wert und damit auch eine kleinstmögliche Wärmeleitung
+oder Wärmeübertragung von innen nach außen erlauben. Also diesen Minimalwert, den will
+man eigentlich suchen. Was sieht man hier noch in der Grafik? Dass einige Tricks verwendet
+werden, um die Konvektion zu unterbinden. Man verwendet nämlich hier typischerweise
+nicht nur luft da sieht man dass das die 13 mm bei der luft sondern man kann mit anderen gasen
+arbeiten argon oder krypton haben ganz andere wärmeleitfähigkeiten ganz andere dichte und
+durch die andere dichte auf einen weniger oder stärker ausgezeichneten konvektions effekt das
+heißt es ist bei etwas altmodischeren häusern typisch dass man doppelverglasung hat und die
+wenn sie die fenster anschauen sind immer typischerweise so etwa eineinhalb zentimeter
+voneinander entfernt. Zwei Glasplatten. Weil das eben da den optimalen Wert bringt. 13 mm. Wenn
+Sie etwas modernere Scheiben haben, dann kann es durchaus davon abweichen, dann gibt es eben
+diese Scheiben, die sind mit Argon oder Krypton gefüllt und insbesondere Tons, aufwärmiges
+Industrieglas, da kann ich also deutlich besser zerfangen. Was kann ich noch machen? Ich kann
+natürlich noch mehr Glasplatten verwenden. Wenn ich Dreifachverglasung mache, dann habe ich hier
+andere effekte dann muss ich die gläser vielleicht in gewisser weise in anderen glasabstand bringen
+aber auch habe ich dann einen deutlich noch mal reduzierten u-wert also hier sehen sie doch mal
+fast ein faktor 3 mindestens ein faktor 2 dass ich also weniger wärme nach außen verlieren das
+heißt, was ich erreichen muss, erstens lasse ich erstmal aus, kommt später, ist Wärmeleitung und
+Konvektion im Luftspalt verhindern. Ich weiß gar nicht, wie ich das genau skizziert hatte. Im
+Im Endeffekt ist der eine Effekt, also ein weiterer Abstand.
+dann wird die Wärmeleitung niedrig
+also wenn ich den weiten Plattenabstand habe
+dann habe ich viel isolierendes Gas dazwischen
+dann habe ich die Wärmeleitung niedrig
+enger Abstand
+Dann habe ich die freie Konvektion niedrig und bei Luft ergibt sich 13.
+Sie werden wahrscheinlich mich hassen, weil ich die da so schmiert und so klein da reinbringe.
+Also 13 mm optimal, habe ich hier versucht zu schreiben, Luft, 13 mm optimal.
+Ich hoffe man kann es zumindest mit der Vertonung dann lesen und verstehen.
+Minimiere die Wärmeleitung im Zwischenband, im Zwischenbandglas muss es heißen, aber es geht darum, dass man entweder evakuiert oder anderes Gas verwendet.
+Das kann ich auch nicht beliebig machen mit dem Evakuieren.
+Je weniger Luft da drin ist, desto weniger freie Konvektion habe ich natürlich.
+Aber wenn ich jetzt die Luft da raussauge, dann haben Sie einen Modus, der sich unter drunter zieht,
+Ihre Scheiben zusammen und irgendwann zermärzen die.
+So in gewissem Maße kann ich das machen, evakuieren.
+Und hier als nächster Faktor, was ich eben machen kann, ist andere Gase verwenden.
+AR, Argon oder Krypton.
+Warum? Weil die eben eine geringere entsprechende Konvektionsfähigkeit haben.
+Thermische Brücken reduzieren ist klar, ich muss außen den Rahmen möglichst, so wie es hier im Bild gezeigt ist,
+nochmal mit möglichst solchen offenen Strukturen ausbauen, die auch wiederum Luftisolationskörper haben.
+Idealerweise verwende ich kein gut wärmeleitfähiges Material, gerade Aluminium ist besonders unglücklich,
+Viel besser ist hier Holz oder Plastik und im Rahmen und dem Rahmen also entsprechend, ja, Wohlkammern verwenden, Wohlkammern im Rahmen.
+Letzter Punkt
+die Wärmestrahlung
+was kann ich da machen
+werden wir in der nächsten Stunde noch sehen
+es gibt die sogenannte Emissivität
+und das ist eine
+Eigenschaft
+von einer Oberfläche
+wie stark sie
+Wärme
+oder auch Licht
+je nachdem in welcher Wellenlänge
+durchlässt.
+Transmitiert,
+absorbiert
+oder reflektiert.
+Und was Sie wollen, ist am besten
+ein Material, was damit reflektiert.
+Das heißt, dass es in den Fernen
+hier drin steckt,
+ähnlich wie
+man vielleicht einen Spiegel kennt,
+an so einer Glasscheibe
+zurückgespiegelt werden
+soll, idealerweise.
+Also dann in dem Fall
+Es ist die Emissivität. Reduzieren.
+Jetzt muss ich noch mal ganz kurz auf den Spickzettel schauen, nicht dass ich da noch was vergessen habe.
+Also Emissivität reduzieren, Emissionsgrad ändern durch Beschichtung.
+Ich schalte da noch mit drauf, bzw. die Masse einfach so, ich schmal sie hier nochmal hin.
+So, und so werden wir jetzt wahrscheinlich dann auch weiterverfahren müssen.
+ganz ohne Blick ins Obakel
+das ist schon ja auch schwer
+also ich hab's gesagt, Änderung Emissionsgrad durch Beschichtung
+kommt nächste Stunde, Wärmeleitung und Konvektion
+Luftspaltmöglichkeit ist breit, nicht gewünscht
+ist die Dicke aufgrund mehr natürlicher Konvektion
+13 mm optimal, Winde, Mierung des
+Kryptum, Argon und Unterdruck, Werbeleitung, Rahmenmaterial, nicht Aluminium, besser Holz oder Plastik.
+Ich glaube, es war ziemlich alles da. Nennen Sie ein Foto, nennen Sie es mit, dann haben Sie es.
+Die Frage bietet sich extrem an auf Klausuraufgaben, weil es einfach so ein bisschen die Verständnis transport ist von dem, was man da im Bereich natürlicher Konvektion macht.
+Natürlich in Konvektion rechnen sind wir etwas eingeschränkt, weil die entsprechenden Aufgaben schnell sehr kompliziert werden, weil wir nur mit sehr bestimmten Geometrien umgehen können.
+Hier ist es aber nochmal gezeigt.
+Also das ist der Anfangseffekt.
+Da steht nochmal drin, ja, was passiert, drei oder erzwungen.
+Und die Übungsaufgaben zum Thema sind gar nicht schlecht, sich mal anzugucken.
+WU 15 und WU 16.
+Ich glaube, das eine ist ein Rohr, was heiß ist und an die Umgebung abstrahlt.
+Und das andere ist diese ebene Wand, die abstrahlt.
+und dann wieder die Anwendung dieser zwei Formen.
+Beide Aufgaben sind hochgeladen.
+Ich habe Ihnen, wenn ich mich richtig entsinne, auch schon einige Videos freigeschaltet.
+Ich werde nächste Woche nochmal gucken, dass Sie die dann auch griffbereit haben
+und kurz nach Weihnachten wollen wir uns in den abschließenden Repetitoriums oder Übungsstunden
+uns die Aufgaben auch dann nochmal anschauen. Heute werden wir sie bestimmt nicht rechnen,
+das ist ja relativ langwierig. Jetzt haben wir diesen Themenblock freie Konvektion soweit
+durch, würde ich ganz gerne springen auf Verdampfen und Verdunsten und die entsprechenden
+Effekte, die dort passieren, das ist, was jetzt kommt, im Endeffekt ein Sonderform von
+freier Konvektion, nämlich dann, wenn Phasenübergänge stattfinden. Vielleicht ganz kurz im Raum,
+wer weiß, was ist verdampften, was ist verdunsten, beziehungsweise was ist der Unterschied?
+Ist es das gleiche?
+Ein leichtes Kopfschütteln habe ich gesehen.
+Darf ich Sie fragen?
+Ja, aber ich kann es nicht erklären.
+Aber es ist nicht das gleiche.
+Ich würde auch sagen, nein.
+Nein, es ist auch wirklich nicht.
+Das Verdampfen passiert im täglichen Leben ganz oft.
+Ich stelle die Wäsche raus, auch im Winter, es ist kalt draußen und die Wäsche wird trotzdem irgendwann trocken.
+Verdunsten ist ein Phasenübergang an der entsprechenden Phasenübergangsgrenze.
+Das heißt, würde bei Wasser passieren, wenn ich Nudelwasser koche, 100 Grad, dann verdunstet es.
+Das sind zwei unterschiedliche Vorgänge.
+Und verdampfen, natürlich Eingas, das ist das, wenn Sie bei der Siedeltemperatur arbeiten, klar, Sie verdampfen in Ihrem Kochtopf, verdunsten tut aber auch eben unterhalb der Siedeltemperatur.
+Und die Idee, die dahinter steht, ist, dass das Ganze passiert bei mehrphasigen, zwei- oder mehrphasigen Gemischen.
+Also zum Beispiel bei Wasser und Luft an der gleichen Stelle.
+Wohingegen das Verdampfen ein Gas alleine benötigt nur.
+Und das ist das, was wir uns im Raten der Vorlesung genauer anschauen wollen und werden in den nächsten halben Stunden etwa.
+Wir bekommen, das wissen Sie alle von Herrn Happig, in dem Bereich extrem viel latente Wärme.
+Das heißt, dass wir bis zu einer entsprechenden Siedetemperatur gehen und dann dort länger verweilen, während dieser Umwandlungsschritt stattfindet von zum Beispiel eben flüssig auf gasförmig und dann erst steigt die Temperatur wieder weiter.
+Wir sehen dieses, was ich da gerade geschrieben habe, nochmal auf der nächsten Folie.
+Keine Sorge, Sie müssen das nicht im Detail mitschreiben, weil es steht alles auf der nächsten Folie nochmal drauf.
+Genau, hier ist es.
+Vielleicht hier noch ganz kurz zum Mitnotieren nochmal.
+Also beim Verdampfen, das ist das klassische Beispiel, hier ist Wasser drin und auch ohne, dass der Kontakt zur Luft stattfindet,
+findet, würde das Wasser hier in den Wasserdampf übergehen, dann ist das Ganze alles mit
+Wasserdampf gefüllt, es ist also keine weitere Luft in diesem geschlossenen Gefäß und trotzdem
+funktioniert es, dass der Prozess weiter, wenn ich hier unten heize, bei 100 Grad heißem
+Wasser, neues Gas, neue Gasblasen bildet und dieser Gasdampf hier eben entweicht.
+Der Gesamtdruck der Gasphase ist gegenüber dem Partialdruck des entstehenden Gases gleich.
+Ich möchte trotzdem nur nochmal gucken, nicht, dass wir irgendwas falsch notieren, so ist es.
+Und genauso ist es mit der Temperatur.
+Also hier sind es einfach zwei Istgleichs, die Sie sich kurz mitnehmen können.
+Gesamtdruckgasphase
+ist gleich der Partialdruck des
+entstehenden Dampfes.
+Und
+im Endeffekt ist es ja
+eben nur ein Gas und die Temperatur
+der flüssigen Phase ist genau die
+Silbertemperatur. Also hier oben haben Sie
+100 Grad heißen Dampf.
+Und beim Verdunsten
+dem Gegenüber
+noch einmal an der Stelle
+die Idee, dass sie unterhalb
+der Siedeltemperatur arbeiten
+ich hatte die Wäsche genannt, es geht genauso
+wenn wir ein Glas Wasser draußen
+hinstellen und nur lang genug warten
+irgendwann ist das Wasser verdunstet
+aber eben nicht verdampft
+und
+dann ist es eben so, dass der
+Gesamtdruck der Gasphase
+entsprechend
+größer ist
+als der Partialdruck
+des entstehenden Darfs, da ist also noch mehr drin, als nur dieses eine und die Temperatur
+der flüssigen Phase ist kleiner als die Siedetemperatur. Das passiert also unterhalb von den 100 Grad.
+Das ist nur noch mal ganz kurz zum Notieren, wie wir die Abgrenzen voneinander machen.
+Warum ist das ganze wichtig? Weil wir sieden und kondensieren extrem viel haben in
+verschiedensten Prozessen. Es gibt Wärme- und Kraft- und Kälteanlagen, das heißt alles wo
+wir Verdampfer und Kondensatoren einsetzen, sagen wir im Fahrzeugbereich, wenn sie eine
+eine Klimaanlage haben dort, gehen also natürlich im Gebäudebereich.
+Wenn Sie entsprechend im Kühlschrank arbeiten, haben Sie genau diese Prozesse,
+dass Sie einmal verdampfen und dann wieder kondensieren.
+Sie haben das Gleiche auch bei allen Kraftwerken.
+Sie machen das Gleiche aber auch zur Stofftrennung bei Gemischen.
+Das heißt im Endeffekt auch solche Aktionen wie das, was wir mal in dem Video gesehen haben,
+wo wir gesagt haben, für irgendwelche Fruchtsachtherstellungen wird entsprechend gekocht und die entsprechende Kondensat abgeschlägt.
+Also hier haben Sie irgendwie so ein Verdampfungssystem, bei dem Sie dann wieder abschalten.
+Und das Kraftwerk, das Dampfkraftwerk ist klar, wir haben irgendwo eine Brennkammer, hier wird gefeuert, hier wird aufgeheizt,
+Es entsteht hier ein Gas und das Gas wird wieder kondensiert und hier zum Beispiel bei diesem Rückübergang von der Gasphase in die Kondensation kann sehr, sehr viel Wärme übertragen werden an irgendwo einen Bereich, wo ich jetzt die Wärme nutze.
+Und entsprechend also sehr große Energieinhalte, die ich transportieren kann und darum geht es ja auch an der Stelle.
+Ich kann jetzt von Gasphase zu Flüssigphase kommen auf zwei Weisen.
+Gehen wir mal von Flüssig zu Gas.
+Ich habe das früher so notiert, wenn ich die Temperatur erhöhe, ist klar.
+Was kann ich denn noch machen?
+Vielleicht eine Idee von Ihnen.
+Wie komme ich von Flüssig zu Gas, ohne dass ich die Temperatur erhöhe?
+Druck senken.
+Ganz genau.
+Druck senken.
+oder Temperatur erhöhen.
+Das ist das, was Sie die ganze Zeit machen
+bei Herrn Happig.
+Und so können Sie natürlich auch zurückkommen,
+indem Sie die Temperatur absenken
+oder den Druck erhöhen.
+Und jetzt muss ich zugeben,
+habe ich da noch einiges mehr notiert gehabt,
+glaube ich, auf der Folie.
+Aber ich weiß es nicht mehr.
+Ja, steht aber nichts viel
+weiteres Spannendes drauf.
+Ich stehe nur noch bei Kondensieren und Verdampfen, indem ich die Wärme zuführe oder eben abführe.
+Und es sind genau diese Punkte, Temperatur runter oder Druck, hoch oder anders.
+Ich hoffe, das kann man soweit da entnehmen.
+Dann nochmal kurz der Bezug zur Thermodynamik, lassen Sie uns mal konzentrieren auf das,
+was bei Wasser passiert. Ich streich mal das andere so ein bisschen weg.
+also das interessiert mich gar nicht
+ich will alleine
+das Wasser angucken
+hier mit einer entsprechenden
+Dampfdruckkurve
+wir haben hier ein P-Theta
+oder P-T-Diagramm
+und sehen also
+dass wir genau an verschiedenen Stellen unterschiedliche Prozesse haben. Hier steht
+also der Bereich von extrem hohen Drücken potenziell, aber hier unten von 0 bis 100
+Grad bei 1 Bar, das ist das was hier unten mehr oder weniger nahe der Nulllinie ist,
+dann haben wir also diese Möglichkeit hier hin und her zu gehen. Aber nehmen wir einfach mal
+an einer anderen Stelle klar ist, dass wir hier von der Dampf-Gasphase in die Flüssigphase kommen,
+indem wir entweder von der Flüssigphase in die Gasphase kommen,
+indem wir entweder die Temperatur erhöhen oder eben den Druck absenken.
+Das haben wir gerade gesagt.
+Wir können uns aus der Thermodynamik auch nochmal so ein Stück weit angucken,
+wie diese Prozessschritte gelagert sind.
+Stellen Sie sich vor, Sie heizen hier unten kontinuierlich
+mit der gleichen Wärmemenge in all diesen Prozessschritten.
+Und haben jetzt hier oben mal notiert,
+was passiert mit diesem entsprechenden Fluid.
+dann sehen Sie hier 1, 2, 3, 4, 5, das Ganze an so einer Theta-gegen-Volumen-Grafik,
+also TV-Diagramm, und wir hätten jetzt hier, meinetwegen, so eine Siedellinie,
+Konsensationslinie und kritischer Punkt, das kennen Sie alles,
+Das muss ich jetzt glaube ich nicht noch weiter detaillieren.
+Und Sie haben dann halt hier diesen Bereich, wo Sie in den zwei Phasen gemischt in der Verdampfung sind,
+bei dem sich das Volumen über eine gesamte Zeit ändert, bei dem Sie kontinuierlich Wärme zuführen müssen,
+wenn Sie jetzt von 1 nach 5 gehen und aber eben keine Veränderung der Temperatur notieren.
+Und gerade dieser Effekt ist ein extrem hilfreicher, wenn Sie große Wärmemengen von einem Stoff auf einen anderen übertragen wollen,
+denn hier steckt extrem viel Energie drin, die Sie austauschen können,
+ohne dass Sie die Medientemperatur verändern und damit auch weniger mechanische Spannungen erzeugen und gleiche andere Dinge.
+Jetzt schauen wir uns das Ganze mal an für die freie und erzwungene Konvektion,
+die wir ja gesehen hatten mit diesem entsprechenden Temperatur- und Geschwindigkeitsprofil.
+Die Dichteunterschiede sind bei der freien Konvektion relativ gering.
+Das ist das, was wir gesagt haben, wenn es im Raum irgendwo kalt ist,
+dann ist die Luft zwar ein bisschen schwerer, aber die ist nicht wesentlich schwerer,
+als sie jetzt da oben unter der Decke ist, wo es vielleicht ein bisschen wärmer ist.
+Dieser Einflussfaktor mit dem Beta ist nicht besonders gut
+Aber schauen wir uns das mal an
+Wenn wir die Dichtung und Unterschiede von Wasser haben zu Dampf
+Dann habe ich die Zahlenwerte jetzt nicht
+Ja, auswendig 1 hier, aber Dampf weiß ich nicht genau
+Ist etwa ein Faktor von 100, wenn ich richtig informiert bin
+dazwischen
+ich blende es ein
+das ist ein Faktor von 1000
+so, jetzt haben Sie
+hier die entsprechenden
+Zahlenwerte mit drinnen
+also
+in dem Fall
+ist
+geschrieben auf ein paar in dichte von wasser mit 960 kilogramm pro kubikmeter und beim dampf ist
+der dampf ist 06 kilogramm pro kubikmeter sehen also das faktor von 1000 und mehr darin wenn sie
+diesen Prozess fahren und von der Flüssigkeit in die Dampfphase gehen oder andersrum. Das heißt,
+plötzlich ändert sich die Dichte schlagartig und wenn jetzt meinetwegen sich bei der Kondensation
+irgendwie Tröpfchen an der Fensterscheibe bilden, dann ist die Dichte zuerst vom Gas ganz gering und
+von den Flüssigkeitströpfchen plötzlich extrem hoch und das rollt und tropft nach unten ab,
+hat eine viel höhere Dichte als das, was die Umgebung macht.
+Oberflächenspannung stört das ein Stück weit, aber trotzdem der Effekt sehr stark.
+Also wir können sehr große Störungsgeschwindigkeiten erreichen
+und damit auch auf viel mehr Wärmemenge übertragen.
+Das ist die entsprechende Verdampfungsentaphy, die kam eigentlich auf der letzten Folie schon,
+wo der Phasenübergang gezeigt wurde.
+Delta HFG haben Sie wahrscheinlich so auch in der Thermodynamik als entsprechende Kürzel mitgenommen.
+Also die Enthalpie zwischen Flüssig und Gas, die müssten im Index stehen, Delta HFG.
+Und wir erinnern uns vielleicht auch noch mal ganz kurz aus dieser frühen Folie,
+wo ich die Wärmeübergangskoeffizienten mal angezeichnet hatte und gesagt habe,
+Bei der freien Konvektion und der erzwungenen Konvektion sind hier bestimmte Zahlenwerte typisch.
+Und jetzt gucken Sie mal von der freien Konvektion im Vergleich zu dem, was bei einer Verdampfung im Rohr passiert.
+Und da finden Sie diesen Faktor von etwa 1000 dazwischen.
+Also das ist gerade das wieder, was wir hier auch sehen, dass eben extrem große Dichtung in der Stiele auch zu sehr viel größeren Möglichkeiten der Wärmeübergang sind.
+So weit dazu. Wenn wir uns jetzt nochmal anschauen beim Verdampfen, was passiert da, stellen wir uns vor, hier haben Sie einen Topfboden, der knapp oberhalb von 100 Grad hat und das ganze Wasser in Ihrem Nudeltopf ist auf der Siedetemperatur.
+Dann beginnt es hier oben an der Oberfläche, sich das Gas zu bilden.
+Nachdem es aber unten etwas heißer ist, wird zunehmend, deutlich heißer wird hier, wenn Sie weiter heizen,
+wird zunehmend hier unten auch bereits Gas gebildet und es bilden sich Blasen aus.
+Und dann sehen Sie hier diese entsprechenden Bereiche.
+Also A, das ist dieses hier noch, da haben Sie rein im Konvektionssiedeln.
+An der Oberfläche, da steht aber auch hier A, dann haben wir hier B, dann haben wir hier C und hier haben wir D.
+Und dann finden Sie das gleiche auch hier drüben wieder und sogar die D hier hinten.
+Was ist hier noch interessant eingetragen?
+Der Wärmeübergangskoeffizient, wie gut kann ich jetzt Wärme mit der Umgebung austauschen?
+Am Anfang, ja, einigermaßen gut, dann aber wird es immer stärker,
+ich kann, je stärker ich den Temperaturgradient einschalte und je heißer es hier unten wird,
+hier sieht man das, die Temperaturdifferenz, nicht wahr?
+Also zwischen der entsprechenden Wärmequelle und der Siedeltemperatur,
+Da habe ich also immer stärkeren Abstand. Hier jetzt 10 Grad Unterschied, hier 80 Grad und hier sogar 300 Grad.
+Und dann durch die Blasenbildung kriege ich ja zusätzliche Aufwärtsbewegungen und Konvektionsströme, und zwar sehr starke.
+Hier drin wirbelt das Wasser umher und dadurch natürlich auch eine bessere Möglichkeit, die Wärmestrom zu transportieren.
+Diese entsprechenden heißen Schichten, die hier unten vielleicht erstmal eine Schutzschicht gebildet hätten, werden abgerissen, werden verwirbelt.
+Dann allerdings komme ich in den Bereich von C und insbesondere D zu dem Bereich, wo sich unten ein kontinuierlicher Gasfilm bildet.
+Und wenn er sehr ausgebildet ist, bildet sich hier eine Zwischenlage, die ist in orange gezeigt und dann habe ich vielleicht sogar wieder einen ganz anderen Effekt.
+Dann habe ich hier unten die neue Heizleistung und kann die aber nicht schnell genug abtransportieren.
+Dieses Pufferkissen hier wirkt dann wieder wie eine Isolationsschicht und das kann dazu führen,
+dass hier bei C, ist es gezeigt, entsprechend ein instabiles Gebiet sich ausbildet,
+ein sogenannter Burnout, wenn es also, ich jetzt einen sehr hochleistungsfähigen Induktionsherd habe,
+macht man das bewusst, im Heimbereich nicht, dann könnte sowas passieren,
+und beim Burnout geht die Wärmeübertragung plötzlich nach unten,
+das heißt die Wärme kann nicht mehr abgeführt werden, sie staut sich,
+und hier unten würde Ihr Material schmelzen, bersten oder irgendwelche unangenehmen Effekte sich einstellen.
+Das ist im Industriebereich sehr wichtig, dass man dieses vermeidet.
+Also unsere Hersteller der Küchengeräte sind so gepolt, dass dieser Effekt bekannt ist
+und dass man ganz bewusst unter bestimmten Umständen nicht weiter heizt
+oder dass die Heizleistung nicht so dramatisch korrigiert werden muss.
+Aber also wirklich ein gefährlicher Prozess, der eine Rolle spielt.
+Einflussfaktor, da oben.
+Was spielt eine Rolle, wenn ich rechnen will mit Verdampfungsprozessen?
+Die Dichte, haben wir gesagt.
+Ja, jetzt ist es weg, aber macht nichts, ich zeige es Ihnen einfach gleich auf.
+Die Dichte spielt eine Rolle, die entsprechenden...
+Wärmekapazitäten spielen eine Rolle, das ist eigentlich klar, aus der Thermodynamik ist am Ende, je mehr Energie ich reinstecke, desto stärker wird sich das Material entsprechend aufheizen.
+Also in dem Fall die Flüssigkeit hier oder aber dann eben auch das Gas, was oben drüber liegt.
+Dann habe ich hier eben diese entsprechende Konvektionsthematik, die in der Rolle spielt.
+Und ich habe die Temperatur, die ich als Basistemperatur habe.
+Beim Gas ist es genauso.
+Alle diese Faktoren.
+Und wenn ich jetzt damit rechnen will, dann muss ich wissen, auf welcher Fläche arbeite ich hier.
+Welche Wärmeleitung findet statt?
+Wie ist die Verdampfungsentalpie?
+klar, die Erdbeschleunigung
+und das letzte, was da noch drinsteht
+ist das Sigma, das ist die Oberflächenspannung
+keine Sorge, ich werde
+Sie das jetzt nicht im Detail abfragen
+was da
+also gut, die Einflussfaktoren sind schon
+wesentlich, dass man mal
+einmal sich anguckt
+was aber
+nicht Ziel ist, ist dass Sie jetzt da
+komplizierte Berechnungen machen
+weil wenn Sie sich das überleben
+dann sind Sie in einem Geflecht
+was wir mit unseren Bordmitteln, mit Stift und Papier und einem Taschenrechner
+eigentlich nicht mehr sinnvoll bearbeiten können.
+So folgt das, soweit Sie wollten mitnotieren oder sehen.
+Tut mir leid, dass das also dieses Mal wirklich mit der Stiftbedienung nicht so funktioniert,
+wie ich mir das gewünscht hatte.
+Hier sind noch einige alten Folien.
+ich möchte an der Stelle
+eben nicht in komplizierte
+Rechnungen einsteigen, sondern
+mal ganz kurz zeigen
+das Spiel, was ich da gerade gemacht habe
+mit einem Topfboden, lässt sich genauso in einem
+Rohr machen, indem ich das Rohr die ganze
+Zeit heize außen
+und dann bilden sich
+wenn die Temperatur nur hoch genug ist, hier erste Gasbläschen
+dann ganze
+ausgeprägte Gaskissen
+und dann
+bekomme ich hier in diesem Prozess
+also langsam
+das Verschwinden der flüssigen Phase
+und das Raumeinnehmen
+der entsprechenden Gasphase.
+Und da gibt es also auch verschiedenste Bereiche.
+Keine Sorge, möchte ich
+gar nicht von Ihnen wissen, wie die alle heißen.
+Es geht mir nur darum,
+auf der Stelle nochmal zu zeigen,
+der Prozess ist einigermaßen aufwendig
+und kompliziert.
+Und man kann sich vielleicht vorstellen,
+wenn man diese Blubberbläschen,
+dass da eine ganze Menge Strudelbewegung stattfindet und durch diese vielen Bewegungen lässt sich eben sehr schnell sehr gut Wärme übertragen.
+Kondensieren ist das gleiche Thema, wie wir es gerade gehabt haben, eben in die Gegenrichtung.
+hier also von gasförmig zurück in die Flüssigkeitsphase
+und bekommen wir ja durch Temperaturabsenkung oder Druck Erhöhung.
+Interessant dabei ist, dass wir zwei verschiedene Formen festmachen,
+Tropfenkondensation oder Filmkondensation.
+Ich mache gleich Pause, ich werde noch dieses eine kleine Thema ablesen.
+Gehen wir mal in die Pause, da sind irgendwie noch zwei Videos drin, die sind ganz gut zum Abschluss an der Stelle.
+Topfen oder Filmkondensation, vielleicht mal ganz kurz hier gezeigt an so einer Wand, das kennen Sie wahrscheinlich alle oder zumindest ich kenne es,
+Wenn man eine alte Fensterglasscheibe hat, dann bilden sich da irgendwo Tröpfchen an der Scheibe.
+Oder auch bei einem Auto kann das durchaus schnell passieren, weil da die Isolation auch nicht so stark ist.
+Und die, irgendwann reißen die ab und tropfen und fallen sogar nach unten und nehmen dann mit.
+Und jetzt haben wir hier die andere Idee, das ist die Filmkondensation, bei der sich also ein ausgeprägter Flüssigkeitsfilm die Wand runterläuft.
+Und da vielleicht nochmal ganz kurz eine gedankliche Frage an Sie.
+Wo denken Sie jetzt, dass die Wärmeübertragung stärker ist?
+Also wenn jetzt vom Innen die Wärme hier rausgeht und wo es jetzt, nein, gegen den Wärmeübergangskoeffizient Alpha höher,
+eher da, wo ich die Tröpfchen baue oder da, wo ich den Film baue.
+Wer ist für die Tröpfchen? Bitte mal melden.
+Da, eine Person. Wer ist für den Film?
+Viel mehr.
+Sind wir richtig mit den Tröpfchen? Warum denken wir, dass es die Tröpfchen waren?
+Weil in der ersten Vorlesung war man irgendwie da stehen und die Tröpfchen sind da.
+Waren Sie in der ersten Vorlesung?
+In der ersten Vorlesung war man irgendwie da stehen und die Tröpfchen sind da.
+Aha, ja genau. Also, okay, dann haben Sie es gut gemerkt.
+Warum ist es so? Es ist eigentlich eine ganz einfache Geschichte.
+Sie haben hier die hohe Temperatur, hier die niedrige Temperatur und wie weit und wie viel Pufferfläche ist dazwischen?
+Hier praktisch gar keine.
+Wenn die Tröpfchen abreißen, haben sie einen direkten Kontakt zwischen kalt und warm.
+Und dadurch auch eine maximale Möglichkeit, Wärme zu übertragen.
+Wohingegen hier haben sie eben wieder so eine Schutzschicht eingeführt.
+und genau jetzt sehen wir das hier vielleicht noch mal ganz gut in dem film hier sind wir
+links eine tröpfchenkondensation wie sie stattfindet und dann das abkabeln und damit
+aber auch sage ich mal sauber wischen dieser glasscheibe wenn so geht es hoffentlich bei
+ihnen zu hause nicht jetzt müssen sie dringend neue fensterscheiben kaufen ist sicherlich ein
+Zeitraffer, aber so kann man
+doch ganz gut sehen, was heißt
+Tröpfchenkondensation. Und hier sehen wir eine
+Filmkondensation, die wir
+im Praktischen, ehrlich gesagt, wirklich auch
+seltener so
+sehen und erleben, glaube ich.
+Ich wüsste zumindest nicht, an welchen Stellen
+man das so gut nachvollzieht.
+Aber da sieht man, also hier ist auch so eine Tendenz
+der Tröpfchenkondensation am Rand,
+aber das mündet dann ein in ein Flüssigkeitsgebiet.
+Das ist jetzt schwer zu sehen, aber
+man sieht diese mattierte Fläche,
+die sich eben farblich kaum verändert, hier fließt also eine Flüssigkeit ab auf der Scheibe.
+Und jetzt ist es in der Praxis so, steht da glaube ich gar nicht mehr drin,
+vielleicht bringe ich es an der Stelle einfach, es ist in der Praxis so, dass man versucht,
+so etwas an technisch guten Kondensatoren herzustellen.
+Und das macht man, indem man zum Beispiel mit bestimmter Chemie die Oberfläche so verändert, dass sich besonders stark eine Kondensation in Tröpfchen bildet und man versucht das zu vermeiden, dass sich diese ausgeprägt fühlen.
+Da kann man also zum Beispiel die Oberfläche mit spezieller chemischer Wachse einbalsamieren.
+So, jetzt gibt es, wenn man das rechnen wollte, und keine Sorge, hier steht wieder schön Exkurs,
+ich will nicht, dass Sie diese Formel anwenden können, die sogenannte Nusselnische Wasserraumtheorie.
+Hier hinten wäre Ihre Glasplatte, hier vorne bildet sich das jetzt aus, dieser Film, in dem Falle Filmkondensation.
+und wenn man sich jetzt überlegt, was ist da alles zu berücksichtigen,
+dann haben Sie wieder so ein Diagramm, bei dem in dem Falle die Wand kalt ist und die Umgebung warm ist,
+dann findet ja die Kondensation statt, also die Wärme geht hier rein.
+Wir haben jetzt hier diese gelb schaffierte Flüssigkeit, hier außen das Gas
+Und jetzt sehen Sie, dass sich nochmals etwas anderes einstellt, dass diese Randbedingungsgrenzwerte hier bei dem Temperaturfeld noch nicht ganz erreicht sind, weil es gibt durchaus einen Effekt von dem kalten Flüssigkeit auf die umgebende Gasphase.
+Ja, das ist wieder das, was wir hier so als leichte Verknickungskurve kennen, dass also ein Einfluss von der benachbarten Phase hier eine Rolle spielt auf die Temperatur.
+Und bei der entsprechenden Geschwindigkeitsprofil ist es eben auch so, dass die Flüssigkeit, die hier runter tropft, auch einen Mitnahmeeffekt auf das Gas hat.
+Weil hier an der Oberfläche die Flüssigkeit ja nicht mit Nullgeschwindigkeit, sondern eben mit einer endlichen Geschwindigkeit nach unten tropft.
+Es gibt aber eine bremsende Wirkung dadurch, dass das Gas hier mitgenommen wird.
+Sie könnten sich vorstellen, dass wenn man dieses, was hier in blau und orange gezeichnet ist, jetzt in die Rechnung geben will, ist es kompliziert.
+Was braucht man, wenn man das machen wollte?
+Eine sogenannte Phasenwechselzahl, das ist also ein Indikator, wie stark und wie schnell findet der Phasenwechsel von flüssig nach gasförmig statt.
+Da hat wiederum die Verdampfungsenthalpie viel mit zu tun.
+Sie müssen eine neue, weitere Zahl erfinden, das ist die Galilei-Zahl.
+Keine Sorge, ich packe das nicht ab.
+Die hat wieder was zu tun mit irgendwelchen Längenverhältnissen und Dichteverhältnissen.
+und Sie müssen diese charakteristischen Längen noch überlegen, die da eine Rolle spielen.
+Das sind aber nicht genau die Längen dieser Platte, sondern wir haben wieder etwas mit der Gewichtskraft und der kinematischen Diskursität zu tun.
+Sie sehen, es wird kompliziert und es ist nicht sinnvoll, das händisch zu berechnen.
+Viel stärker ist es ein Thema, was in Forschungsaufgaben stattfindet, was in Labormessungen stattfindet.
+Man sieht jetzt hier auch nochmal, was so kleine Finessen sind.
+Wenn Sie hier anfangen, einen Flüssigkeitsfilm zu bilden, dann hat der oben eine Reynolds-Zahl von 0, weil da fließt noch nichts.
+Und dann, wenn die Flüssigkeit anfängt zu fließen, dann fließt sie erst laminar und dann fließt sie potenziell auch noch turbulent.
+und wenn Sie jetzt gleichzeitig sich mal hier drüben anschauen,
+wie sich solche Flüssigkeitspartikel bilden, wie die Tröpfchenkondensation,
+dann haben die ja den Effekt, dass wenn sich zwei Tröpfchen sehr nahe kommen,
+dass die dann verschmelzen in eins, nicht wahr?
+Und dann können die also entsprechend hier ablaufen
+und das Ganze mathematisch zu modellieren ist extrem auffällig.
+Man sieht es hier, ein nächstes Mal, ich weiß nicht, ob dieses Video noch dauert, und dann werden wir in die Pause gehen.
+Man sieht jetzt hier so eine Modellierung, wo entsprechend die Geschwindigkeitsprofile
+gezeigt werden, wo hier diese Filmorganisation gezeigt wird, wo diese Flüssigkeit herunter
+tropft und dann auch noch abreißt.
+Man sieht hier, wie das Temperaturfeld ist und hier, wie die Dampfkonzentration im Raum
+stattfindet.
+Wenn man sich das jetzt nochmal auf der Zunge zergehen lässt, dass Sie diese ganzen Felder
+alle modellieren müssen, dann sind Sie definitiv in dem Bereich, wo Sie in der CFD-Simulation
+sondern arbeiten, wo Sie eben an jeder Stelle die Gleichungen sich aufstellen müssen
+und diese Vielzahl von verschiedenen, sich gegenseitig beeinflussenden Faktoren im Auge behalten.
+Damit möchte ich gerne erstmal Pause machen.
+Jetzt haben wir 10.10 Uhr, ein bisschen später.
+Dann gehen wir bis 10.25 Uhr und sehen uns gleich wieder hier.
+Und dann geht es zur Wärmeübertragung, da wird es wieder ein bisschen...
+Vielen Dank.
+Vielen Dank.
+Rausgekürzt ist es in dem Fall nicht, sonst wird 0 gesetzt bei dieser Ui.
+Ich will nicht auf Ihrem Tempel drum fahren, aber fahren Sie mal nach oben.
+So, sehen Sie das?
+Der Ausgang da, ja, dort ist U am Ausgang.
+Und das ist an der Stelle eben mittleres U, weil durch die Rohr durch haben wir eine bestimmte Bewegung,
+Ich bin nicht auf die Begründung vorgegeben.
+Bei dem Behälter 1 können Sie nahezu keine Oberflächenbewegung von der Flüssigkeit stecken.
+Aber nachschrauben, da kommt schon etwas rein.
+Da kommt schon etwas rein, aber es ist nicht Teil von dem, was in Ihrer Pumpenauslegung eine Rolle spielt.
+Ob da jetzt viel oder wenig oder schnell oder wie auch immer Wasser nachgeführt wird.
+Es dient dazu, dass die Behälterhöhe hier die Flüssigkeit gleich gut hat.
+Ihr Wassertank aber, die Oberflächenkante Ihres Behälters bewegt sich de facto nicht.
+Die Behälterhöhe ist groß und wie gesagt, Sie haben so noch die Nachricht.
+Sondern es ist hier und hier gleich 0, UA gleich 0.
+Könnten Sie damit leben? So weit?
+Wenn Sie die Aufgabe 20 haben.
+Ja, da unten schon. Aber der hat nichts mit der Aufgabe zu tun. Das ist ein bisschen gemein vielleicht.
+Also Sie müssen es mal sehen. Sie haben ein geschlossenes System, in dem strömungstechnische Vorgänge stattfinden.
+Und am Ende können Sie alles, was an die Wasseroberfläche oder wo das Wasser einmal an der Luft war, vernachlässigen.
+Sie können also das hier wegschmeißen, genauso wie im Behälter 2. Im Behälter 1 aber nicht.
+Da steht eine Flüssigkeitssäule drauf und die bespeist und bedruckt das gesamte System.
+Hier ist es aber so, der Behälter 2, Sie könnten den jetzt auch hier unten hinzeichnen, das spielt keine Rolle.
+Es geht wie eine Dusche, da oben geht es raus und sobald die Flüssigkeit an die Luft geht, ist sie frei und kann machen was sie will.
+dann können Sie auch noch eine andere Maschine dran bauen.
+Deswegen ist es ein bisschen gemein in der Aufgabe,
+es ist ein bisschen Fangfrage,
+Sie könnten diesen Behälter 2 auch einfach komplett weglassen.
+Dann streichen Sie sich für Ihre Notizen einfach durch.
+Den brauchen Sie nicht.
+Und dann ist es vielleicht ein bisschen klarer.
+Und dieser logische Schritt,
+ich nenne ihn jetzt mal logischen Schritt,
+der ist sozusagen Teil Ihrer Aufgabe.
+Sie müssen sich überlegen,
+von wann bis wann ist meine Flüssigkeit eingesperrt?
+Und die ist eingesperrt von Behälter 1
+bis zum Auslass. Und beim Behälter 1, der ist groß, da passiert nichts mit der Geschwindigkeit.
+Und beim Auslass, da ist es dünn, da passiert was mit der Geschwindigkeit.
+Also damit können Sie hoffentlich damit leben. Jetzt weiß ich nicht mehr genau, ob die SDR 20,
+die habe ich nicht mehr auswendig, wichtig. Da ist es eben so, dass Sie später im Verlauf der Aufgabe
+rechnen sollen von der Stelle, da steht vor dem Absperrmentäter, da ist diese Knicksperre.
+Dieses rohe T-Stück, ich nenne es T-Stück, genau, ja, und ich zeige es euch nochmal nachher, dann haben Sie hier Ihre Versorgungsleitung, die ist irgendwie groß,
+und dann geht es irgendwie los mit Ihrer Aufgabe, da kommen irgendwelche Zwischenteile her, also die geht hier irgendwie runter, die da rauf, ja, und da hinten geht es raus.
+Und dann haben Sie hier die Stelle 2, an der Sie irgendwas untersuchen, und hier die Stelle 1, ja, und hier schätzt es sich nicht aus.
+Weil hier haben Sie die Leihgestellung, also hier haben Sie die Geschwindigkeit, mit der was reinfließt, da haben Sie den U-Eingang und hier haben Sie den U-Ausgang, oder?
+Und so ist es hoffentlich auch in der Hauptarbeit, dass da die Geschwindigkeiten, ja, U-Eingang ist gleich U-Ausgang, weil es gleich breit ist.
+Sie sind beide nicht Null, aber sie sind zahlenmäßig gleich.
+Das ist nicht an der Stelle.
+Passt das so?
+Ja.
+Vielen Dank.
+Tschüss.
+Okay.
+Okay.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Das war's für heute.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Ich werde die Zeit kurz nutzen und Ihnen kurz so drei Bauteile zeigen.
+Es soll nämlich jetzt gehen in dem noch verbleibenden Teil um Wärmeübertrager.
+Wärmeübertrager ist nichts anderes als in der Praxis die Bauteile, in denen man Wärme von einem Medium in ein anderes bringt.
+Bei uns ist das typischerweise geprägt von flüssig zu flüssig oder gasförmig zu flüssig oder gasförmig zu gasförmig.
+Und da habe ich jetzt mal ein paar Beispiele einfach so mitgebracht.
+Was bedeutet das? Gasförmig zu gasförmig, dieses Bauteil, wo könnte man sowas wiederfinden?
+Vielleicht kann es sich jemand vor Ihnen vorstellen.
+Ladeluftkühler, ganz genau, steht auch drauf.
+Haben Sie es schon mal gehabt, wenn die da entlang?
+Nein, nein.
+Gibt es das an der Veranstaltung auch?
+Ich gebe Ihnen gerne durch, achten Sie, der Schaf kann sich nicht verletzen, wenn Sie wollen.
+Am Ende geht es darum, dass in die eine Richtung durch das Bauteil Luft durchgegeben wird
+und durch die andere Richtung, die eine könnte jetzt unter Druck sein oder gereinigt sein
+und in die andere Richtung ist es die normale, nicht besonders aufgereinigte Umgebungsluft.
+Und die Idee ist also, wir wollen mit der Umgebungsluft meine, meinetwegen bedruckte oder besonders saubere
+oder irgendwie in unserem Prozess später genutzte Luft abkühlen oder theoretisch könnte ich sie auch aufheizen.
+Das ist also etwas, was aus dem Pkw-Bereich durchaus viel genutzt und gebraucht wird.
+Das gleiche Spiel hier, man sieht wieder solche Kühlrippen, bei denen große Oberfläche für eine Luftdurchströmung erreicht wird,
+Aber wenn Sie es 90 Grad kippen, sehen Sie viel kleinere Löchlein, bei denen in dem Falle eine Fluid, eine Flüssigkeit durchgegeben wird.
+Hier geht es also um die Schnittstelle zwischen Luft und Flüssigkeit, Öl-Kern-Gas-Körbe und Flüssigphase.
+Und in dem Fall ist es ein Ölkühler.
+Es könnte aber genauso Ihr Kühlwassersystem sein vom Fahrzeug.
+Mein Rechner schafft es leider nicht hier.
+Ich habe noch das dritte Bauteil hier dabei, bei dem wir das Ganze ein bisschen in einer
+Prozessphase versuchen. Und zwar hier haben wir ein Rohr, bei dem in der Mitte wahrscheinlich
+eine Flüssigkeit durchgetrieben wird und an die Umgebung wird abgegeben und an diesen
+deutlichen, sehr starken
+Kühlritten, können Sie
+vermuten, dass außen nicht
+eine Flüssigkeit, sondern eben Luft
+als zweites Medium
+da ist. Warum jetzt
+große Kühlritten für die Luft? Ja, weil
+eben in der Luft die Wärmeübergangskoeffizienten
+deutlich schlechter sind, die
+entsprechende Dichte ist
+viel niedriger und wir haben dort
+weniger Möglichkeit, diesen
+Austausch zu bringen. So, also ich muss
+mein ganzes System leider
+nicht wieder verabschieden.
+gut, dass der Beginn
+dieser Vorlesung
+reihe mit Ihnen einigermaßen gut
+mit meinem Rechner zu spielen, weil
+mittlerweile bin ich also wirklich
+nur noch am Kopf schütteln.
+Schade, dass das so ist.
+Aber ich kriege nur die Information,
+dass Kontakt mit dem Server
+aufgenommen werden soll
+und kann leider gar nichts
+mehr zeigen.
+So, sieht so aus, als wäre jetzt was an meinem Sturz erreicht.
+Vielleicht, zumindest wird hier mal ein PDF erstellt, wenn ich mich jetzt noch wieder zurück verbinden kann ins Netz, dann kann ich sie Ihnen auch hochladen.
+Ich glaube, die Minute gebe ich noch hin. Ich hoffe, das funktioniert jetzt.
+Der Teil ist da.
+Und wenn Sie nochmal reingehen können ins Moodle, dann sollten Sie noch nicht,
+aber in wenigen Sekunden hoffentlich eine WISO 06 V3 kriegen.
+Und da sind meine Handschriftnotizen mit drin, weil es muss ja nicht auf Ihrem Rücken ausgetragen sein,
+dass mein System nicht mehr funktioniert.
+dann haben Sie wenigstens da einen vollständigen Satz an Informationen.
+Also wie gesagt, große Entschuldigung meinerseits, aber im Moment sind die Bedingungen nicht ganz einfach.
+Die höchste Geheimnis ist die Sitzung.
+So, also ich erlaube mir jetzt da an der Stelle weiterzumalen.
+Es sind am Anfang eh ein paar Bildchen drin, da gibt es gar nichts zu notieren.
+Die haben Sie auch bei Ihrer Version 02 und zur rechten Zeit, wenn hier Notizen kommen,
+dann müssen Sie einfach nochmal kurz zurückspringen in Ihr Moodle und gucken, ob Sie hoffentlich die aktuellste Version kriegen.
+Also, wir wollen uns mit Wärmeübertragung beschäftigen.
+Ich habe Ihnen die Bauteile gerade durchgegeben. Das letzte bekommen Sie noch. Schauen Sie mal nach hinten. Dann können Sie es da auch mit abstellen, wenn Sie es soweit gesehen haben. In welchen Geräten setzt man Wärmeübertrager ein? Das müssen wir jetzt nicht nochmal genau ausstattieren. Wir haben ja gerade schon an den Demosystemen was gesprochen.
+Der Fahrzeugbereich ist sehr prominent da, aber es ist natürlich genauso, dass wenn Sie Ihren Kühlschrank haben,
+da hinten auch Kühlrippen, bei denen die Flüssigkeit entsprechend die Wärme an die Umgebung abgibt.
+Sie haben es in den ganzen Kraftwerksprozessen, das hatten wir gesagt, wir haben dort sehr viele Möglichkeiten.
+Es gibt auch in der entsprechenden Lebensmitteltechnik immer wieder die Herausforderung,
+was muss schnell heiß gemacht werden und dann schnell wieder abgekühlt werden.
+Das sind ziemlich Platz- und kostenintensive Bauteile, deswegen ist das Thema Effizienz wichtig.
+Wir haben gesehen, hier ist mit Aluminium gearbeitet worden, das ist vergleichsweise günstig.
+Hier arbeitet man mit Kupfer, deutlich teurerer Werkstoff, um dann aber auch größere Effizienzen
+auf einen relativ kleinen Raumbereich hier herzubekommen.
+Es gibt verschiedenste Möglichkeiten, da steht jetzt Exponat in der Ecke,
+einen Rohrbündel, Wärmeübertragung habe ich Ihnen nicht mit hier hergetragen, weil der ist groß,
+den schauen wir uns aber Anfang Januar da drüben an, wenn wir Laborrundgang machen.
+Die Idee ist eigentlich auch eine ganz einfache, das eine Medium strömt hier von, in diesem Fall,
+Rechts nach links durch, da steht Theta 2 mit einem Strich, das heißt der Eingang und hier ein Doppelstrich, das heißt der Ausgang.
+Das können Sie sich gerne bei sich notieren.
+Und hier ist es genauso, Theta 1, einfacher Strich, Eingang und doppelter Strich, Ausgang.
+So ist die Nomenklatur und man kann hoffentlich so ein bisschen an diesem Bild erkennen, dass die zwei Rohrsysteme voneinander getrennt sind.
+aber viel Grenzfläche miteinander haben. So ähnlich ist es hier auch, irgendwelche Umlenkfläche
+mit drin. Da sehen Sie sowas nochmal in einem Foto aus der Realität. Sie sehen also ganz
+viele durchgeführte Rohre in die Richtung und außen drumherum ein umgebender Körper,
+der, wenn Sie den jetzt abschließen und die Hülle drüber stülpen, dann können Sie hier
+eine andere Flüssigkeit durchführen und sie haben relativ starken Kontakt zwischen
+diesen inneren Rohren und der äußeren Flüssigkeit.
+Das gleiche haben wir hier mal gehabt, in dem Fall bei Rippenrohrwärmeübertragern.
+Das ist im Endeffekt genau das, was wir hier gezeigt hatten als Demo zwischen dem Öl und Luft.
+Dann haben wir irgendwelche Spiralwärmeübertrager, dann haben wir irgendwelche Plattenwärmeübertrager.
+Die werden zum Beispiel relativ viel eingesetzt in der Industrie.
+Wenn man unterschiedliche Prozesse in der Lebensmitteltechnik bearbeiten muss,
+da sind man hier so eingequetschte Platten und da geht irgendein Fluid rein.
+Ich weiß jetzt nicht, was es in diesem Beispiel ist.
+Oft wird es verwendet, auch bei Milch, ist hier wahrscheinlich aber nicht der Fall,
+um die Milch ultrahoch zu erhitzen und zu homogenisieren und dann danach wieder schnell abzukühlen.
+Und was interessant ist an solchen Plattenwärmeübertragern,
+ist, dass ich sehr schnell durch die äußeren Platten zusätzliche Bedarfsplatten hinzufügen kann
+oder auch welche wegnehmen kann, wo ich also dort das System noch im Betrieb wieder verändere.
+Ein weiteres Beispiel, in dem Falle, was durchaus technisch sich ziemlich unterscheidet,
+sind Regeneratoren, in dem Falle ein Bauteil, bei dem Luft hier einströmt von unten nach oben
+und aufwärmt in dem Falle nicht eine Flüssigkeit, sondern einen Festkörper, den Regenerator
+und dann entsprechend hier eine Keramik oder sowas aufheizt und zu anderer Zeit wieder abgibt.
+Da ist also eine Speicherwirkung dabei und zu späterer Zeit kommt hier meinetwegen
+einen Massensprung von irgendeinem entsprechenden Gas, die Luft vielleicht zu anderer Zeit,
+und wird wieder durchgetrieben und wird wieder aufgeheizt.
+Wo verwenden wir das? Hier im S-Gebäude zum Beispiel.
+Da ist es so, dass wir eine Klimatisierungsanlage haben, eine klassische Klimaanlage,
+aber eine Klimatisierungsanlage, die zum Beispiel, wenn es im Sommer draußen heiß ist,
+Dann fangen wir so an, in der Nacht, wenn es kühl ist, im Sommer, diese Regeneratoren mit kalter Luft durchschwimmen, Außenluft, die dient dann dazu, dass die Keramik abgekühlt wird und während dem Tag, um Frischluftzufuhr zu drängen, wird die heiße Außenluft zunächst durch den Regenerator geblasen und wird abgekühlt, um dann kälter in die Raumbereiche einzustürmen.
+War jemand schon mal hier im entsprechenden Kellerbereich?
+Wenn Sie noch länger bei uns bleiben und vielleicht auch das eine oder andere Praktikum mitmachen,
+dann werden Sie das vermutlich mal sehen, das System.
+In unserer Laborführung muss ich mal gucken, wenn die Zeit reicht, können wir gerne auch einen kurzen Ausflug da unten hin machen.
+Da kann man dann durch so, das ist extra so gebaut worden damals, dass man in das System ein Stück reingucken kann.
+Und dann sieht man diese großen Regeneratorscheiben aus Keramik, die sich eben drehen
+und die dann eben mit der Luft zu unterschiedlichen Zeiten durchdringen.
+Genau, man kann die ganzen Systeme einteilen in verschiedene Sorten.
+Wir haben direkte oder indirekte Wärmeübertrager.
+Direkte nutzen wir eigentlich fast nicht.
+Das geht mit zwei Flüssigkeiten auch nicht, weil wenn ich zwei Flüssigkeiten in Kontakt bringe, dann verbischen die sich.
+und es geht eigentlich nur über Flüssig und Luft, ist aber in der Technik immer wieder mit Schwierigkeiten verbunden,
+weil wir irgendwelche Kontaminationen haben, deswegen haben wir normalerweise indirekte Wärmeüberträge.
+Alles, was ich hier durchgegeben habe, sind indirekte Wärmeüberträge.
+Die sind durch irgendein Metallblech voneinander getrennt, zwei Flüssig- oder Gasphasen
+und das ist eigentlich alles, was wir technisch am häufigsten haben.
+Und alles, was ich hier durchgegeben habe, sind Rekuperatoren, das heißt, die tauschen zur gleichen Zeit, wir haben inzwischen diese zwei Medien aus, und die Regeneratoren hatten wir gerade gesagt, auf der vorigen Folie, wie hier im S-Gebäude, das sind die, wo ich eine zeitliche Zwischenspeicherung habe.
+sind aber auch eher selten.
+Also Rekuperator, indirekt, das ist eigentlich das Klassische.
+Und dann werden wir gleich auf den nächsten Folien sehen, Gleichstrom- oder Gegentromführung,
+manchmal auch Kreuzstromführung und noch ganz spezielle Muster.
+Wir werden uns insbesondere mit diesen zwei hier befassen.
+Gleichstrom- und Gegentromwärmeübertrager als Rekuperator und indirekte Wärmeübertrager.
+Und was bedeutet das jetzt alles?
+Wir können hier einmal sehen, vielleicht ist jetzt ein ganz guter Zeitpunkt, mal bei Ihnen eine Moodle nachzugucken, ob Sie eine V3 finden.
+Ist das der Fall?
+Bei mir ist sie zunächst hochgeladen.
+Können Sie die finden?
+Dann empfehle ich Ihnen, da auf die zu wechseln, weil dann haben Sie die gleichen Notizen, wie ich sie habe.
+Tut mir leid, wie gesagt, dass Sie da jetzt so ein bisschen im Spiel bei meines digitalen
+Problems sind, aber ich hoffe, Sie sehen es mir nach.
+Schaltung im Gegenstrom oder im Gleichstrom, gehen wir vielleicht wirklich doch erst zum
+Gleichstrom. Ein bisschen unschön finde ich an dieser Folie, dass sie mit der Notation mit zwei
+Ziffern arbeitet. Ich arbeite lieber mit der Notation, dass ich hier einen Strich mache und
+hier den Doppelstrich. Das ist der Eingang und der Ausgang. Und auch hier würde ich wieder Strich
+und Doppelstrich verwenden. Ich hoffe, man kann das soweit nachvollziehen. Also rein geht's mit
+mit Einfachstrich, raus geht es mit Doppelstrich und 1 und 2 ist die Nummerierung der zwei Fluide.
+Und das gleiche Spiel kann ich hier auch machen. Ich habe 1 mit Einfachstrich und Doppelstrich und
+jetzt aufpassen hier unten 2 mit Einfachstrich auf der rechten Seite und Doppelstrich auf der linken
+Seite. Die sind also in Gegenstromführung. Und dieses Quiz, naja gut, was ist effizienter,
+Gleich- oder Gegenstromwärmeübertrager? Vielleicht einfach mal so in den Raum, wer denkt, dass
+der Gleichstromwärmeübertrager besser ist? Okay, wer denkt, dass der Gegenstromwärmeübertrager
+besser ist. Ja, ja, ja, ja, da melden Sie schon mehr. Das ist auch so. Warum ist es
+so? Ja, wir sehen es uns gleich nochmal ein bisschen genauer an. Ich habe es jetzt für
+Sie einfach mal mit hingeschmissen. Wir versuchen, hoffentlich nachzuvollziehen. Oben in Rot
+ein warmes Fluid, nehmen wir klassischerweise eine Flüssigkeit. Unten blau, kaltes Fluid.
+Und die Idee der Gleichstromführung findet natürlich hier an der grenzreichen Wärmeübertragung statt.
+Und wir haben zwischen den zwei Temperaturen, die hier unten mal aufgezeichnet sind, am Anfang erst einen ganz großen Unterschied an Temperaturen und der schmilzt dann dahin.
+Es wird dann immer geringerer sein, asymptotisch würden die beiden am Schluss irgendwann die gleiche Temperatur erreichen.
+Ob die Temperatur jetzt genau in der Mitte oder oberhalb oder unterhalb liegt, das liegt sehr, sehr stark daran, wie hoch ist die Wärmekapazität von diesen zwei Fluiden.
+Es muss bei weitem nicht die Mitte zwischen den anderen Temperaturen sein.
+Was hier gilt, ist immer ohne Einschränkung, dass die Temperatur von dem Fluid 1 am Ende größer oder meinetwegen, wenn Sie es nur extrem lange machen würden, gleich wird wie die Temperatur vom Fluid 2.
+Sie können niemals hier unten die Temperatur vom Fluid 2 auf ein höheres Temperaturmotor bringen.
+Das ist eigentlich, denke ich, klar, denn die treibende Kraft ist dieser Temperaturunterschied und die wird immer kleiner.
+Hier vorne ist sie dramatisch groß, hier wird sehr viel Wärme übertragen stattfinden,
+deswegen ist das Q hier auch sehr groß gezeigt, hier sollte das Q und der Pfeil deutlich kleiner sein, da passiert weniger.
+So, mal wieder herstellen, gleiches Spiel, das ist jetzt vielleicht ein bisschen viel Information auf einer Folie,
+jetzt muss ich mal gucken, hat nicht ganz so funktioniert, er hat nicht meine neueste Version verwendet,
+aber es spielt keine große Rolle, wir versuchen also wieder das Spiel zu betreiben,
+Fluid 1 kommt von links, Fluid 2 in diesem Falle von rechts und wir haben jetzt die Situation,
+dass während sich dies hier abkühlt, heizt sich dies hier auf, der Temperaturverlauf geht hier nach unten,
+wohingegen der hier nach oben geht
+und inwieweit die jetzt genau parallel sind
+das muss bei weitem nicht so sein
+aber es ist eben interessanterweise so
+dass sie es schaffen
+eine Temperatur
+zu erreichen
+hier von dem Theta 2 Doppelstrich
+die durchaus höher ist
+als das was wir als Theta 1 Doppelstrich
+am Ende haben
+Also das hier kann kälter sein als das hier. Sie können diese Temperatur weiter erhöhen. Sie haben dort eine höhere Effizienz, weil Sie in den treibenden Kräften, diese roten Pfeilchen hier, über das ganze Bauteil hinweg mit großen Temperaturdifferenzen arbeiten,
+wobei eben hier die Temperaturdifferenzen dahin schmelzen und sie dann in der technischen Anwendung typischerweise weniger solche Effekte haben.
+Hier sehen wir nochmal ein drittes Bauteil, bei dem meinetwegen in einem Kreuzstromwärmeübertrager kalt eingeschrumpft wird,
+warm soll es rauskommen, wie funktioniert das? Indem sie verkippt dazu auf 90 Grad die entsprechende...
+Das ist aber gut, wenn es anders gestaltet ist bei Ihnen, weil es ist nämlich die bessere Variante.
+Dann ist es vermutlich hier nicht ganz ideal.
+Lassen Sie mich mal ganz kurz gucken.
+Ja, das ist aus der 24er Variante.
+Dann lassen Sie mich die mal schließen und die 25er Variante öffnen.
+Ich hoffe jetzt nicht.
+Es ist schon gut, wenn ich die gleiche Folie habe wie Sie.
+So schaut das bei Ihnen aus.
+Okay, das war übrigens bei dem Leib.
+Es ist zwar ein bisschen geschmierter, aber es ist an sich in der Information durchaus.
+eigentlich nicht schlecht, was auch
+in dieser Variante gezeigt ist,
+und das ist die, die ich Ihnen gerne mitgeben wollte,
+dass eben hier nicht unbedingt
+das genau parallel zueinander laufen muss.
+Es kann durchaus auch auseinanderlaufen
+oder zusammenlaufen.
+Wichtig ist die Information,
+Sie können den Ausgang
+von dem Fluid 2 auf ein Temperaturniveau
+heben, was durchaus höher ist
+als dieses
+Temperaturniveau von dem 1er
+beim Ausgang.
+Okay?
+Dann den Kreuzstromwärmeübertrager. Dann die Idee, Sie können das Ganze durch zweikonzentrische
+Bohre bauen. Das ist der Doppelrohrwärmeübertrager. Nur noch mal einfach als Hinweis. Was hier noch
+vielleicht angegeben ist, was Sie in Aufgaben, wenn Sie jetzt damit konfrontiert werden, dann
+auch viele haben, ist, dass Sie die Massenströme noch als Angabe haben. Also wie viel kommt hier
+an Flüssigkeit durch pro Zeit und entsprechend durch den zweiten Bauteil.
+Logischerweise können Sie mit dem gleichen Baustein sowohl Gleichstrom wie auch Gegenstrom führen.
+Klassischerweise machen Sie dann Gegenstrom.
+Wir schauen uns jetzt mal an, was passiert, wenn Sie durch einen Doppelrohr Wärmeübertrager,
+Wie ja gerade vorhin gezeigt wurde, hier ein Schnittbild, in der Mitte ist es heiß, die Flüssigkeit, dann ist die Wand und dann kommt wieder ein flüssigkeitsgefühlter Raum, das ist kalt gefüllt, wie dort die entsprechende Wärmeübertragung stattfindet.
+und was Sie da sehen
+ist nichts anderes als
+diese einfache Formel
+zu Punkt
+der Wärmesturm
+ist bestimmt durch K
+was ist jetzt K?
+Das ist dieser U-Wert oder K-Wert
+das ist die Kombination
+aus diesen drei Widerständen
+also K
+kann dieser entsprechende
+Temperaturleitwert
+Das heißt im Endeffekt hat das was mit der Wärmeleitfähigkeit zu tun von Ihrem Material dazwischen.
+In dem Fall war das bei mir hier ein Kupferrohr oder hier sind es irgendwelche Aluminiumgeräte.
+und
+es hat natürlich auch
+einen Einfluss, dass ihre innere
+Temperatur nicht genau
+die Wandtemperatur ist. Sie hatten ja
+in den letzten vielen Stunden
+schon mitbekommen, wir haben hier ja auch noch
+das Konvektionsthema,
+das heißt in der Mitte des Rohrs ist es vielleicht
+wärmer, das Fluid, als es am Rand ist
+und diese
+entsprechende
+Wärmeübergangskoeffizienten
+müssen wir mit berücksichtigen.
+innen wie außen
+und dadurch dieser gesamte K-Wert
+der also dieses
+abbildet, dann haben Sie die Fläche
+natürlich als Einflussfaktor
+je mehr ich
+an Rohrfläche habe
+in dem Fall wäre die Rohrfläche natürlich die
+Mantelfläche, die
+relevant ist, ja, hier der
+Zylindermantel
+desto mehr
+habe ich Wärmeübertragung und dann geht es um
+eine Temperaturdifferenz und jetzt
+Jetzt passen Sie auf, diese Temperaturdifferenz ist potenziell abhängig vom Ort.
+Wir haben es hier gesehen und deswegen war es gut, dass Sie nochmal nachgefragt haben und mit dem Foto malen wollten.
+Weil hier sehen wir, die Temperaturdifferenz ist nicht überall gleich.
+Das heißt, ich muss das mit berücksichtigen, wenn ich dieses Bauteil berechnen will.
+Bei dem noch davor gezeigten ist es noch drastischer.
+Die Temperatur ist überhaupt nicht gleich über das ganze Bauteil hinweg.
+Und wir zeigen jetzt hier nur noch mal diesen Sonderfall als erstes beim Gegenstrom-Wärmeübertrager,
+wenn der Massenstrom und die Wärmekapazität in dem Produkt von den beiden Stoffen gerade gleich ist.
+Ja, dann haben Sie diesen glücklichen Sonderfall, das dürfen wir jetzt doch mal selber einzeichnen,
+dass wir über den Weg genau die gleichen Delta-Theta haben.
+Ja, also das habe ich jetzt nur nochmal deutlich hingeschrieben.
+Es steht eine Zeile drüber schon da.
+Der Chantella ist konstant, nur wenn das so stattfindet.
+Dann habe ich eben diesen einfachen Fall, dass diese zwei Fluide so mit dem Delta-Theta ganz schnell ausgerechnet werden könnten.
+Meistens habe ich das nicht, sondern, ich hoffe, Sie haben jetzt diese Folie in Ihrem Folie entdeckt,
+ich habe viel mehr, jetzt nehmen wir als Beispiel zur Herleitung wieder den Gleichstrom-Wärmeübertrag.
+Ich habe hier an jeder Stelle ein unterschiedliches D-Theta.
+Also an dieser Stelle, dx hier unten, hier an diesem dx, habe ich diesen Temperaturunterschied.
+Bei einem anderen dx hier drüben, haben wir einen viel kleineren Temperaturunterschied.
+Und das muss ich jetzt durch Integration mir entsprechend ableiten, diese Situation, dass ich über den gesamten Gegensturm Wärmeübertrager hinüber integrieren muss, über diese Temperaturdifferenz.
+Das ist nichts anderes hier als minus Q2-Punkt.
+Warum ist das so?
+Wir gehen davon aus, dass unser Wärmeübertrager außen adiabat gut gedämmt ist.
+Das heißt, der verliert jetzt erstmal nach außen nichts.
+Sondern alle Wärme, die dieses Fluid 1 abgibt, nimmt das Fluid 2 auf.
+Und hier unten ist es natürlich genauso.
+und an der Stelle müssen wir uns noch anschauen, dass sich
+Entsprechend die Wärmekapazität und der Wasserstoff zusammen mit dieser entsprechenden Temperaturdifferenz,
+das ist eben genau die Wärmemenge, die Sie übertragen.
+Also wenn Sie anschauen, mit welchem Energieinhalt komme ich hier rein,
+Massenstrom mal Wärmekapazität mal Eingangstreparatur,
+mit welcher Wärmeenergie gehe ich hier raus, der gleiche Kern bei der Ausgangsseite,
+dann habe ich die Differenz, das ist das, was ich an Wärmemenge übertrage.
+Und wenn ich das jetzt nutze und bei einer stationären Bedingung sage,
+also die Wärme, die ich aufnehme, soll vom anderen abgegeben sein,
+dann kann ich mir hier das nochmal insgesamt als Differenzial anschauen,
+der Wärmesturm im Flügel 1 ist nichts anderes als das, was hier an diesem jeweiligen Inkrement an Temperaturänderung stattfindet,
+oder ich kann die Temperaturänderung von Medium 1 ausdrücken als die Wärmemenge bezogen auf Massenstrom und Wärmekapazität.
+Bei Medium 2 mache ich das genauso, habe ich Dθ1 und Dθ2 und jetzt kann ich das Ganze zusammen schreiben,
+Dθ1 minus Dθ2, das sind genau diese Termine hier hinten und fasse das zusammen,
+entsprechend von dem Q-Punkt
+auch
+die Formulierung
+die wir eine Folie weiter vorne hatten
+die muss ich jetzt kurz
+hier stricken
+K mal A mal Delta Theta
+und das ist
+im Endeffekt genau das
+K
+mal A
+mal die Delta Thetas
+und
+also dieses DQ hier
+ist nichts anderes
+dass dQ ist K mal A mal Delta Theta mal Delta Theta mal Delta Theta mal dA und das kommt
+von einer Seite früher und lässt sich hier mit einsetzen, mit der Formel 1.
+Wir gehen also dann auf die entsprechende Größenzuordnung, wie hier gezeigt.
+Und jetzt, wenn wir uns das Ganze angucken, ich habe es alles mit eingeblendet und auch
+Auch hier gar nicht vor, Sie über diese Herleitung zu fragen, aber ich will es Ihnen trotzdem kurz zeigen.
+Sie sehen, es ergibt sich ein Integral nach Trennung der Variablen,
+bei der auf der linken Seite lauter Temperaturen sind, von rein und raus,
+und auf der rechten Seite geht es über die Fläche.
+Das heißt, Sie gehen da einmal entlang.
+Sie haben hier am Anfang die große Temperaturspreizung, hier hinten die kleine Temperaturspreizung.
+Und wenn Sie dieses Integral bilden, dann bekommen Sie wieder mal logarithmische Terme.
+Weil das ist ein 1 durch x oder b, meinetwegen w durch w, wenn Sie das als Substitution betreiben.
+Und können dann als Summe schreiben, das ist die wichtige Mitnahmeformel, die auch in der Reformelsammlung steht.
+Die Wärmeübertragung ist nichts anderes als das, was Sie aus Konvektion und Wärmeleitung bekommen, mal der Bezugsfläche.
+und dann diesen relativ großen, aufwendigen Term.
+So schlimm, wie man denkt, ist er vielleicht aber gar nicht.
+Denn dieser Term hat hier einmal den grünen Baustein,
+das ist der Unterschied der großen Temperaturreferenz,
+dann hier hinten der Unterschied der kleinen Temperaturreferenz am Ausgang
+und unten steht der Logarithmus wieder groß durch klein.
+und das Ganze
+finden Sie dann so wieder
+in Ihrer Formelsammlung
+das Ganze bezeichnet man als
+mittlere logarithmische Temperaturdifferenz
+das glaube ich hier nicht drin
+das glaube ich nochmal dazu
+mittlere logarithmische Temperaturdifferenz
+und das haben wir jetzt gerade
+vom Himmel regnen lassen
+auf den letzten zwei Folien
+aber versucht ein bisschen nachzuvollziehen
+für einen
+Gleichkombinerübertrager
+wir konnten das gleiche Spiel aber auch
+für den Gegenstromwärmeübertrager betreiben und wir sehen dort, dass die Formel in der
+Summe ziemlich ähnlich aussieht. Hier links ist es für den Gleichstromwärmeübertrager
+gezeigt. Kreist nochmal ein in dem Bildchen. Wir hatten also hier diese große Temperaturdifferenz
+an diesen zwei Stellen
+und die kleine an diesen Tellen
+und wenn Sie
+rechts schauen
+habe ich jetzt nicht hergeleitet
+aber
+wenn Sie der Formel glauben
+und Sie sich genauer anschauen
+dann sehen Sie, dass hier Theta 1
+Doppelstrich und hier Theta 2 Strich
+genannt ist
+das ist die kleine Temperaturreferenz
+die kommt hier und hier vor, genauso wie dort oben, hier und hier, und die große Temperaturdifferenz, die kommt an dieser Stelle und an dieser Stelle vor.
+Und dann sind Sie dabei, dass Sie eigentlich das Ganze in eine Formel schreiben können, das ist hier unten nochmal abgebildet,
+Sie müssen bei Aufgabentyp Wärmeübertrager mit der Formel arbeiten können, diesen K-Wert berechnen, der sich aus Wärmeleitung und Konvektion ergibt, die Fläche und zuletzt diese mittlere Temperaturdifferenz,
+die sowohl bei Gleichstrom als auch bei Regensturmwärme über Tragern so geschwiegen werden kann,
+solange sie große und kleine Temperaturwerte auf den zwei Seiten jeweils skizzieren und erstellen.
+Also eine Formel, egal wie sie es dadurch stimmt.
+Und das ist eigentlich auch so die Abschlussaufgabe, die Sie in diesem Kontext bekommen,
+nämlich mittlere logarithmische Temperaturdifferenzen berechnen
+und dann das Ganze in einen aufwendigeren Aufgabenkontext zu gießen.
+Ich bin gerade am überlegen, wir haben ja jetzt nur noch ein paar Minuten Zeit,
+Aber nachdem ich Ihnen jetzt eh das ganze Folienwerk entgegenbringe, blätter ich das jetzt einfach auf und gehe das wenigstens einmal mit Ihnen durch.
+Das ist natürlich jetzt keine ernstzunehmende Übung, sondern eigentlich nur ein Vergleich, aber macht vielleicht doch Sinn, sich das mal jetzt gemeinsam anzuschauen.
+Also, wir haben eine Aufgabe, bei der Sohle, wie sie hier in schwarz dargestellt ist, durchfließt durch das mittlere Rohr.
+Und das ist, Sohle ist also etwas, was man aus irgendeinem geothermischen Bodenbereich bekommt.
+Das ist sehr heißes Flüssigkeit, man wird jetzt diese heiße Flüssigkeit nutzen, um in einem Schwimmbad eine Erwärmung herzubekommen, ohne dass man mit Gas feuern muss.
+Hier geht es mit 150 Grad rein, hier hinten geht es mit 40 Grad wieder raus.
+Es wird also massiv viel Temperatur abgegeben, da ist ein Massenstrom gegeben, mit dem die Sohle durchläuft.
+Wir wollen Wasser anwärmen, was wir als Trinkwasser oder als Leitungswasser auf 10 Grad hatten
+und strömen es mit etwas niedrigerer Geschwindigkeit hier durch
+und wollen hier hinten herausfinden, wie warm wird denn das Wasser werden.
+Wir haben den Wärmeübertrager als Gegenstrom-Doppelrohr geführt.
+Das heißt, diese Skizze, die ist Aufgabe von innen im Prinzip zu erstellen.
+Und dabei haben wir die Geometrieabmessung, wie groß das Innenrohr ist und wie groß der Durchmesser ist.
+Was wir jetzt machen müssen, ist die klassische Aufgabenstellung hier.
+Die Wärmemenge berechnen, die die Sohle abgibt, also die 1.
+Nummer 1 ist die Sohle.
+und das Wasser ist die 2
+und wir sehen, dass
+wenn wir mit dem Massenstrom und der Temperaturdifferenz
+arbeiten, dann sehen wir, dass da
+48 kW Leistung
+abgegeben werden
+wie Sie sehen, ich habe jetzt die Rechenschritte
+hier ausgespart, weil ich das
+alles auf einmal
+vorher präsentieren, Leute.
+Sie können es bitte gerne mal zu Hause
+versuchen nachzurechnen.
+Schnell
+einzutippen.
+Am Ende ist
+die Rechnung ganz simple
+Geschichte hier.
+Ich glaube 50 kW
+ist eine ordentliche Leistung,
+wenn Sie das mal vergleichen
+mit entsprechenden
+Kleingeräten, die wir
+vielleicht so betreiben.
+dann sehen Sie schon, da wird viel Energie übertragen auf diesen 6 Meter Rohrlänge.
+Und wenn wir das machen, dann können wir das gleiche Spiel ansetzen mit der Temperatur auf dem Medium 2,
+indem wir sagen, ja, das, was an Temperatur abgegeben wurde vom Medium 1, ist das, was die Wärmemenge bei dem 2er aufnimmt.
+Und dann nehmen Sie die gleiche Formel her, Sie haben dann halt Q2, Punkt, gegeben,
+Maßenstrom von dem Wasser haben Sie, Wärmekapazität haben Sie auch.
+Sie haben die Eingangstemperatur von Wasser, Sie haben die Ausgangstemperatur nicht.
+Und dann stellen Sie um, dann bekommen Sie die Ausgangstemperatur.
+Versuchen Sie es gerne einmal zu Hause nachzusehen.
+Und dann ist die Aufgabe B, den Wärmedurchgangskoeffizienten des Wärmeübertragers zu berichten.
+Also an der Stelle wissen wir den K-Wert nicht.
+Was wir aber wissen ist, wie viel Wärme wurde denn ausgetauscht, auf welcher Fläche arbeiten wir, und wir benötigen in diesem Falle diese mittlere logarithmische Temperaturdifferenz.
+Und die mittlere logarithmische Temperaturdifferenz ist nichts anderes als die große und das kleine Delta, und das können wir uns jetzt anschauen.
+Ich versuche Ihnen wenigstens das noch an der Stelle farblich zu hinterlegen.
+ich möchte ganz kurz vergleichen
+auf der Vorseite hatte ich groß
+die grünen Farbe verwendet
+machen wir es hier genauso
+also
+die große Temperatur
+Delta
+ist ja nichts anderes als die Stelle
+bei der ich
+die große Spreizung habe
+und das können Sie jetzt auswenden
+wenn Sie hier sehen 87
+und hier 150
+dann hat das eine deutlich größere
+Temperaturspreizung
+nämlich 62,81 Grad
+gegenüber dem
+was Sie hier
+auf der anderen Aufgabenteil
+hatten
+hier das Wasser
+was mit 10 Grad
+reingegangen ist
+und die Sohle
+die mit 40 Grad
+herausgekommen ist
+das war das Ende
+meines Laptops
+Sie hatten also bei dem anderen
+eine Temperaturdifferenz von 30 Grad
+bei dem ersten aber 62 Grad
+und darüber kriegen Sie diese mittlere logarithmische Temperaturdifferenz hin
+die
+habe ich jetzt den Zahlenwert nicht auswendig
+kann es vielleicht jemand von Ihnen kurz sagen
+ganz kurz
+Und wenn Sie sich jetzt diese 44 anschauen, dann sehen Sie, das ist aber nicht genau die Mitte zwischen dem einen Temperatur-Delta und dem anderen Temperatur-Delta.
+Aufgrund dieses Rhythmoses, das waren 30 und 60 Grad.
+Vielleicht geben Sie mir die Zahlenwerte nochmal.
+Das kleine Theta ist 30 Grad, und das große war 66, oder? 62? 62,81.
+Und wenn Sie jetzt hier einfach das arithmetische Mittel bilden würden, also das klassische Mittel, dann wären Sie mal ungefähr, sage ich jetzt mal, Delta Zeta A.
+So, nochmal mal, Delta Zeta A.
+Wenn wir das jetzt arithmetisch bilden, dann sind das so etwas wie 45, 46, oder?
+Das ist ungefähr 46 Grad.
+Ja, das stimmt nicht genau.
+Und dieses Delta, Theta, M, Sie hatten es gerade vorgelesen, war 44, oder?
+44,10.
+Also Sie sehen, es ist eben nicht genau die Mitte.
+Es ist kein Riesenunterschied, aber es macht keinen Unterschied.
+Ich werde jetzt meinen Rechner glaube ich nie mehr so schnell wieder zum Leben erwecken, wir haben eh nicht mehr viele Minuten, ich versuche lieber dann zusammenzufassen.
+Die Idee daran ist, dass wir damit dann im Wärmeübertragerbereich rechnen können.
+Jetzt haben wir auf der letzten Folie von Ihnen noch zwei ganz simple Aufgaben, bei denen Sie mit der rithmischen Temperaturdifferenz mal berechnen sollen, wenn ich mich richtig erinnere.
+Das können Sie einfach mal machen.
+Das ist eine ganz simple Taschenrechner-Spielerei-Aufgabe.
+Ich glaube, die Lösung steht sogar eingeblendet an der Ecke, oder?
+Können Sie einfach mal kontrollieren, ob das passt bei Ihnen.
+Und dann kann man mit Wärmeübertragern gegen Strom oder Gleichstrom zwei Rechte.
+In der Zusammenfassung hatte ich heute viele digitale Probleme,
+aber unabhängig davon haben Sie hoffentlich ein bisschen was mitgebracht.
+Wir haben uns unterhalten über freie Konvektion ganz am Anfang.
+Da geht es darum, dass wir bei einer beheizten Tafel oder bei einem beheizten Rohr an die Umgebung Wärme abgeben können
+und dass die Prozesse, die dahinter liegen, aufgrund dieser Dichte Unterschiede zusammenkommen
+und dass sie entsprechend nicht mit Reynolds-Zahlen arbeiten, sondern mit Grasshoff-Zahlen.
+Und dafür gibt es halt wieder Formelwerk, so wie es sich in der Formsache geht.
+Die Aufgabentypen dazu sind, wenn ich mich richtig erinnere,
+W-16 und 17 oder sowas, aus dem entsprechenden Übungsblatt Nummer 3.
+Wir werden davon auf jeden Fall eine im nächsten Jahr nochmal aufgreifen.
+Ich empfehle Ihnen die aber vorher mal anzugucken.
+Das ist, sage ich mal so, die maximale Komplexität von Wärmeübertragung im Konvektionsbereich.
+Dann haben wir einen Bruch gemacht und haben gesagt, ja, plötzlich gibt es Verdampfen und Kondensieren.
+Warum schauen wir uns das an?
+Weil da eben, ganz anders als bei der natürlichen Konvektion, extrem hohe Dichteunterschiede auftreten
+und dadurch auch sehr viel größere Wärmemengen übertragen werden können.
+Wir sehen es an diesen Alpha-Werten, die um den Faktor 1000 größer waren, da hieß das Modell.
+Und in der Praxis wird es daher sehr viel verwendet, verdampfen und kondensieren.
+Beispiele wären Direktkältemittel, Kühlung von Fahrzeugen im Elektrofahrzeugbereich,
+Klimaanlagen in Fahrzeugen, Kühlschränke, Kraftwerke.
+Immer wird irgendwo ein Medium einmal verdampft und dann wieder kondensiert und wir haben
+Wärmeübertrager bei der einen und bei der anderen Seite, die viel Wärme aufnehmen oder
+viel Wärme abgeben.
+Und wir haben an der Stelle, glaube ich, rechnungsartig eigentlich sehr wenig gemacht, sondern es
+Es geht da eher um das Verständnis, zu sagen, zum Teil Tröpfchen, die sich da bilden können,
+oder Filmkondensation, oder die verschiedenen Effekte, die wir bei diesem Behälter-Siedeln hatten,
+dass sich da irgendwo vielleicht unten so eine ausgeprägte Gas-Zwischenschicht bildet.
+Das sind so die Flughöhe, bei denen wir verdampfen und kondensieren haben.
+Und dann im letzten Teil der Vorlesung haben wir die Wärmeübertreiber gesehen, die, wie ich erwähnt habe, sehr große technische Bedeutung haben.
+Und daraus gibt es für uns wichtig die Gleichstrom- und die Gegenstromführung von Rekuperatoren.
+Und die entsprechenden Berechnungsgrundlagen kondensieren sich auf zwei Formeln.
+Das ist einmal Q-Punkt bis K mal A mal Delta Theta M.
+Also, ich hoffe, das habe ich richtig im Kopf.
+Das ist eben nicht irgendein Delta Theta, sondern nur in diesem Sonderfall werden die zwei gleich,
+wenn die Massenströme und die Wärmekapazitäten gleich sind.
+Das ist normalerweise nicht der Fall, deswegen kommt immer dieses Delta Theta M.
+Und das Delta Theta M, haben Sie diese Formel, die Sie gesehen haben, da geht es um die Delta Theta M groß,
+Delta Theta groß, minus Delta Theta klein, durch Logarithmus von groß minus klein.
+Ich denke, so kann man es hoffentlich stehen lassen.
+Und die Beispielaufgabe dazu ist dieser Sohle-Wärmeübertrager, der dann leider verschwunden ist,
+aber ich glaube, die wichtigsten Informationen hatten wir soweit transportiert.
+So weit, so gut. Dann würde ich Sie nächste Woche am Montag im Online-Raum sehen, diejenigen, die die Möglichkeit haben und im Nachgang auch wieder die formatierten Folien oder die handschriftlichen Folien hochladen.
+Ich hoffe, ich bin dann digital wieder etwas besser bestückt und Sie können mir vorlegen, es soll um Wärmestrahlung gehen.
+Damit sind wir dann auch durch. Bei der Werbeübertragung haben Sie praktisch alles an Informationen, was Sie brauchen für die Klausur in diesem Jahr erhalten und ich hoffe dann gute Voraussetzungen, um sich sowohl zu erholen über die Weihnachtsfeiertage, als auch wenn Sie möchten, sich das alles anzuschauen. Alles Gute!
+Vielen Dank.

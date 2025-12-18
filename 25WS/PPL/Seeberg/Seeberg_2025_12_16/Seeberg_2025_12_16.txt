@@ -1,0 +1,1638 @@
+Spätester Endtermin ist 20.06. Freitag um 16 Uhr. Die zwei Tage sind der Sicherheitspuffer. An
+dem Tag will der Kunde abholen, aber nicht abends oder nicht nachmittags um 3, sondern am 2. Stück
+mit der LKW verbunden, halt schon wachst du,
+wenn wir gleich aufschließen.
+Genauso, wenn Sie
+Geburtstag heute feiern würden,
+am 16. und Sie würden
+die Geburtstagskarte auch am 16. bestellen,
+wollen Sie die nicht am Abend abholen.
+Deswegen zählt
+der Tag an dem, stellt das nicht
+als Arbeitstag, das heißt, Sie haben die zwei Tage
+hier vor, Sicherheitszeit.
+Hier ist Wochenende.
+Das heißt, hier ist den. Und da kann man schon eher aufpassen, da ist auch zu.
+So, das erste, was wir jetzt natürlich machen müssen, ist ausrechnen.
+Das nächste, was wir jetzt machen müssen, ist der späteste Starttermin ausrechnen.
+Was ist der späteste Starttermin?
+So, jetzt machen wir alles für P01.
+Späteste Starttermin ist der späteste Endtermin minus Durchführungszeitbedarf
+So, ich habe jetzt hier die Länge nicht reingeschrieben, das kann ich jetzt mal schnell nachziehen.
+Das ist 45 Minuten, das ist 115, das sind 210, das sind 103, das sind 0,8 und 1,2.
+So, das heißt, ich muss hier eigentlich 16 Uhr minus 45 Minuten rechnen.
+Diese 45 Minuten sind allerdings auf 100% Leistung.
+Das heißt, ich muss hier Schichtzeit und Durchführungszeit einrechnen.
+Also, wenn Durchführungszeit ist, dann ist das Schichtzeit.
+0,45 Minuten sind 0,75 Stunden, also muss ich mir überlegen, was sind 5,8 in 8 oder 0,75
+Das entspricht x, daraus folgt, x ist nach dem Dreisatz bei 1,034 Stunden.
+Und das sind dann 1 Stunde, 2 Minuten.
+Das kann ich hier abziehen, 16 Uhr minus 1 Stunde, 2 Minuten.
+Und das ist dann 15 Uhr, 14 Uhr, 8.50 Uhr.
+Also das ist der späteste Starttermin.
+Der späteste Starttermin um 10.01 Uhr, Freitag, 20.06. um 14.08 Uhr.
+Der Bedarf sind hier 75,75 Stunden. Das Ganze sind in der Halbzeit 1 Stunde und 34 Minuten.
+Zur Verfügung habe ich hier 5,8 Stunden bzw. 8 Stunden Gast.
+So, das heißt, man sitzt hier üblich, an dem Tag hat man 6,96 Stunden üblich.
+Oder anders gesprochen von 6 Uhr morgens bis 14.58 Uhr ist das noch nach 7 Uhr.
+Und da kann es jetzt halt passieren, je nachdem, welchen Rechenseeblings Sie nehmen, kommt jetzt halt hier manchmal eine andere Minute raus.
+Beim einen steht jetzt hier 14.57 Uhr, beim anderen steht da am nächsten 14.56 Uhr oder 14.59 Uhr. Das kommt jetzt halb erfroren am nächsten Morgen.
+So, und jetzt haben wir hier noch einen Bedarf von 1,2 Stunden, Wartezeitbedarf.
+Wie viel haben wir an dem Tag noch übrig?
+Das ist 0, also diese 6,966 Stunden, was entspricht es?
+Also wenn wir jetzt Schichtzeit noch 6,966 Stunden haben, wie viel entspricht es Wartezeit?
+Ich weiß, dass 8 Stunden entsprechend einem Arbeitsplan.
+Also das heißt, x ist in dem Fall 0,871 Arbeitstage.
+Das habe ich da noch zur Verfügung.
+Also 87% vom Arbeitstag ist noch nicht vorbei.
+Und das heißt, wenn ich da auf diesen 1,20,871 abziehe, habe ich 0,329, was ich dann am nächsten Tag noch abwarten muss.
+Und jetzt sind wir genau in dem Fall hier, das ist dann nicht der 19., weil der 2 ist, sondern das ist der 18.
+Das ist also dann Mittwoch, der 18.6., das ist also der höchste Startkamin.
+Und jetzt muss ich wissen, wie viel 32% vom Arbeitstag sind.
+Das ist genau die selbe Umrechnung.
+Allerdings, wie gesagt, in die andere Richtung.
+0,329 Arbeitstage sind wie viele Stunden.
+Und in diesem Fall ist es dann x 2,632 Stunden oder 2 Stunden 38 Minuten.
+Und das vom Schichtende 16 Uhr abgezogen.
+15, 14, 17, 13 Uhr, 22.
+So, also Mittwoch, 18.06. und 13.22. kann diese Arbeitszeit gestartet werden.
+In der Regel warten die Arbeitsaufträge 1,2 Arbeitstage, bis sie auf die Maschine kommen.
+Allerdings muss er spätestens um 14.58 Uhr am Freitag anfangen,
+dass er zum Schichtende am Freitag fertig ist, dass man noch die zwei Tage vor Fertigung hat.
+Gut, dann sind wir jetzt beim Thema R01.
+Okay? Wann ist der späteste Endtermin vom N01?
+13.21 Uhr.
+Wenn wir ganz genau im Projekt dürfen auch 13.22 Uhr sagen, eine Minute hat ja 60 Sekunden.
+Aber letztendlich ist es der gleiche Tag und dann muss man halt auch sehen, die Schichtzeit überlappt halt auch.
+Deswegen 13.22 Uhr. Wenn Sie jetzt hier 13.21 Uhr schreiben würden, ist auch okay.
+Aber die müssen um 13.22 Uhr fertig sein, damit der Nächste auch um 13.22 Uhr anfangen kann oder darf.
+Und man muss halt dieser Logik ausweichen und sagen, ja der hat doch noch Zeit.
+Der hat doch Zeit, ich kann jetzt doch hier trödeln.
+Aber das ist ja unfair. Das ist genau so, wenn man Ihnen verspricht, Sie haben 2 Stunden Zeit eine Aufgabe zu erledigen, die 10 Minuten dauert.
+Aber dann dürfen Sie nicht selber bestimmen, wann Sie anfangen dürfen.
+Sie wollen ja nicht von Ihren faulen Vorgängen getrieben werden, sondern das ist Ihr Zeitraum, für den Sie Zeit haben,
+den darf der andere nicht einfach für sich übernehmen.
+Dann müssen wir schauen, was ist der Bedarf, den wir hier haben.
+Also welchen Bedarf haben wir hier? Das sind 150 Minuten.
+150 Minuten sind ja alle riesigen Stunden.
+Zweiter Muffin, oder?
+Die Frage ist, wie viel Zeit haben wir denn zur Verfügung an diesem Tag?
+Wie viel Zeit ist denn noch übrig, wenn wir sagen, wir haben hier die Dinger und wie viel ist das tatsächlich, was wir da brauchen?
+Und jetzt kann man hier einfach mal das Ganze ausrechnen und sagen, was ist das noch im Rahmen, was ist dann noch die Berechnung, Durchführungszeit, was sind diese 2,5 Stunden?
+Also was ist das hier in dem Fall? Da muss man sagen, okay, der Tag wird vermutlich lang genug sein, also da brauche ich jetzt nicht erst aufmerksam, was ist der Bedarf oder so, sondern gehe jetzt direkt rein.
+Also 2,5 Stunden Schichtzeitbedarf ist hier die Umrechnung und da gehe ich dann einfach hier rein, 7,5 Stunden oder 2 Stunden.
+Also sind wir jetzt bei M01, Schichtzeit, Durchführungszeit, Schichtzeit war 7,5 und das entspricht 5,2 Stunden.
+Dann habe ich eine Tabelle und jetzt ist die Frage, was entspricht 2,5 Stunden und das X ist in diesem Fall 3,571.
+Und das entspricht 3 Stunden 34 Minuten.
+Also ziehe ich da diese Zeit ab.
+Also ziehe ich da 3 Stunden und 34 Minuten ab, dann sind wir bei 10 Uhr, 22 Minuten abgezogen,
+dann ziehe ich hier noch weiter ab, dann komme ich auf 12, dann komme ich auf 9 Uhr, 48 Minuten.
+Der späteste Starttermin ist immer noch der Mittwoch, 18.06. um 9.48 Uhr.
+So, hier muss ich 0,8 Arbeitstage warten.
+80 Prozent, das sehe ich relativ genau, das ist von 6 Uhr morgens bis 9.48 Uhr, das ist kein halber Arbeitstag mehr.
+Also muss ich wissen, wie viel an dem Tag noch übrig ist.
+Also rechne ich ganz einfach aus.
+Was sind das hier noch an Stunden?
+Das sind 3 Stunden und noch ein bisschen, oder wenn man es genau nimmt, 3,295 Stunden.
+Also 3 Stunden, 8,40, also von 6 Uhr bis 9,48 sind 3 Stunden, 8,40 und das sind 3,29 Stunden.
+Das heißt, 3 Stunden 18 sind 3,2 Minuten.
+Das sind 3 Stunden.
+Dann weiß ich, jetzt muss ich Schichtzeit in Wartezeit umrechnen, 7,5 Stunden entspricht
+ein Arbeitstag, jetzt ist die Frage, was 3,295 Stunden entsprechen und das entspricht
+noch 0,439 Arbeitstage. Also ich habe hier 0,439 Arbeitstage zur Verfügung. Damit rutsche ich jetzt
+an den Dienstag rein. Von dem, wenn ich das abziehe, brauche ich dann 0,361. Und die Frage
+Wie viel ist das im Bedarf hier? Also rechne ich wieder um. 0,361 in 7,5.
+Also wir nehmen den da. Und da kommt dann raus, x ist 0.
+2,708 Stunden. Und das sind 2 Stunden und 42 Minuten.
+und Schichtende für Ende 1 ist um 14 Uhr, also 14 Uhr minus 2 Stunden 42 Minuten und das ist dann 14 Uhr, 13 Uhr, 13 Uhr, 11 Uhr, 18 Uhr.
+Das heißt hier um 11.18 Uhr kann der Chemie gestoppt werden.
+Letzten Schritt machen Sie jetzt nochmal die letzten drei.
+Überlegen Sie sich, wann ist das späteste Endtermin?
+Dann ist das späteste Starttermin.
+Geben Sie zehn Minuten und schaffen Sie es.
+Und ich gebe zu, dass 3,3 Arbeitstage abziehen müssen.
+Aber auch das schafft Sie.
+Vielen Dank.
+Amen.
+Amen.
+Amen.
+Amen.
+Vielen Dank.
+Amen.
+Amen.
+Amen.
+Amen.
+... Musik ...
+Vielen Dank.
+... Musik ...
+Okay.
+Das heißt, der späteste Endtermin ist wieder der früheste Starttermin vom Vorgänger,
+beziehungsweise in dem Fall von Nachfrage, der 17.06. um 11.18 Uhr.
+Das muss damit der späteste Endtermin sein für eben dieses F01.
+Dann die 210 Minuten Abziehung. 210 Minuten sind also 180 sind 3 Stunden, also sind 210 3,5 Stunden.
+Was ist das damit der Bedarf? Das sind 4,291 Stunden und die Umrechnung ist ganz einfach hier bei F01 in der ersten Schicht.
+ersten Schicht. Also wir haben 8 Stunden Schichtzeit und 5,25 Stunden Durchführungszeit. Also
+sehen wir hier 6,525 Stunden entsprechen 8 Stunden, sind 3,5 Stunden sind x, damit sind
+x 4,291 Stunden oder 4 Stunden sind 10 Minuten. Das zieht von diesen 11.18 Uhr ab, also wir
+sind bei 11.01 Uhr und dann noch 4 Stunden abziehen, wir sind bei 7.01 Uhr. Die Schicht
+fängt bei denen um 6 Uhr an, das heißt an dem Tag sind noch eine Stunde und eine Minute
+übrig, eine Minute sind 0,009 Stunden. Und diese eine Stunde entspricht ungefähr 7%
+eines Arbeitstages. Warum so wenig? Das ist ein Zweischichtbetrieb, da haben wir eben über 12 Stunden zur
+Verfügung und deswegen ist diese eine Stunde gerade mal diese 6 Prozent. Wie rechne ich das um? Indem ich
+kann sagen, 8 Stunden entsprechen 0,529 Prozent eines Arbeitstages, also ist diese eine Stunde gerade noch
+So, und wenn ich dann einen Arbeitstag abziehe zum Montag, also das ist das Erste, was ich
+abziehe, dann bin ich am Montag.
+Dann ziehe ich noch meinen Tag ab, dann bin ich am Freitag.
+Und dann muss ich noch 0,233 Arbeitstage warten, wir sind in der zweiten Schicht, das heißt hier, ein Arbeitstag in der zweiten Schicht, oder eine zweite Schicht entspricht 47% eines Arbeitstages, beziehungsweise 8 Stunden sind die 47%, was sind dann 23%?
+das sind dann knapp 4 Stunden, 0,3958, oder 3 Stunden 57 Minuten, das ziehe ich vom Schichtende ab, 22 Uhr, 22 Uhr ganz oben, minus 3 Stunden, ist 18 Uhr, 3 Minuten oder so, dann sind wir am Donnerstag um 18 Uhr.
+Ich glaube, das ist eine der schwersten Aufgaben, die du kannst.
+Obwohl nicht ganz, weil dann müssten Sie hier nicht überleben. Da ist nämlich immer spätester
+Endtermin und frühester Starttermin immer am gleichen Zeitpunkt. Wenn jetzt da noch ein
+Schichtspur drin wäre, dann wäre es die schwierigste Aufgabe. Wie gesagt, hier 1 zu 1 ist das hier,
+Hier finden Sie auch die Skripte.
+Die Tabelle ist zum Downloaden.
+Wenn Sie den Farbcodierungen folgen, dann haben Sie auch die Rechnung.
+Wie gesagt, wenn da einmal der Knopf schon gefallen ist, dann ist es nicht mehr die Laune.
+Einmal sich die Mühle machen.
+Gut.
+So, dann kümmern wir uns um die letzten paar Folien.
+Ein Thema, mit dem sich Firmen relativ übergeschäftet haben, ist das Thema Rüsten.
+Rüsten ist so ein notwendiges Übel und wird häufig stiefmütterlich behandelt,
+weil man müsste es eigentlich schon beachten, wenn man Maschinen einkauft.
+Man müsste aufpassen, dass wenn man Maschinen verkauft, dass die untereinander kompatibel sind.
+Also ich weiß nicht, ob Sie jemals in Ihrem Leben schon mal mit technischem Geldschutz zu tun haben
+und sich aufgeregt haben, dass die Komplexität gefehlt wird.
+Man muss ja sagen, ich bin ja inzwischen froh, dass mehr oder weniger die Ladegeräte an technischen Geräten alle standardisiert sind.
+Aber jeder von, der vielleicht ein bisschen ältere Generation ist, der hat einen totalen Box irgendwo rumstehen,
+wo 98 verschiedene Ladegeräte drin sind.
+Kennen Sie das?
+Wollen Sie ein Geheimtipp wissen, dass Sie nicht mehr ein Ladegerät kaufen?
+Gehen Sie in ein Hotel vorbei und sagen, ich war vor drei Wochen bei Ihnen und habe mein Ladegerät geben lassen.
+Haben Sie es? Und was machen dann die Leute?
+Sie holen von irgendwo so eine Box raus und schmeißen es vor sich hin und sagen dann, suchen Sie sich Ihres raus.
+Funktioniert aber auch.
+Also, Standardisierung ist was ganz Tolles, auch beim Thema Rüsten, aber letztendlich
+wird Rüsten sehr stiefmütterlich behandelt und man versucht halt dieses Thema Rüsten
+gut in den Produktionsablauf einzubinden.
+Eine Möglichkeit ist wie gesagt, ich versuche gar nichts zu rüsten, indem ich einfach alles
+standardisiere und sage, alles bei mir ist eine M6 Schraube, dann brauche ich nie einen
+Bock drauf. Brauche ich nie
+einen anderen Bit drauf. Geht
+natürlich gar nicht. Das zweite
+Thema ist, wenn ich rüsten muss,
+dann muss es so schnell wie möglich
+gehen. Das ist
+eine Methode,
+die nennt sich SMET. Single
+Minute Exchange of Dye.
+Vielleicht haben Sie das schon mal irgendwo
+gelesen, gesehen. Das
+heißt, wenn ich schon rüsten muss,
+dann lege ich meine Maschine so
+aus, dass ich im einstelligen
+Minutenbereich rüsten kann.
+Auch das ist leider nicht immer machbar.
+Stellen Sie sich mal so große Lackieranlagen vor, wo ich von einer Farbe zur nächsten rüsten muss.
+Und da kann es natürlich dann schon sein, dass ich Aufnahmen erstmal reinigen muss,
+bevor ich die nächste Türe drauf tue, weil sonst habe ich im Zweifel Abdrücke drauf.
+Ich vermute mal, jeder von Ihnen hat schon mal eine Wand besprochen, oder?
+Und was ist da die Grundregel?
+Erst die helle Farbe auftragen, dann die dunkle, oder?
+sie gehen nicht mit dem dunkelblauen
+Pinsel in die weiße Farbe rein.
+Welche Farbe haben Sie da?
+Heilblau, ja. Also lieber
+gehen sie mit einem einigermaßen
+ausgewaschenen weißen Pinsel in die dunkelblaue
+Farbe rein, weil das verschmiert sich dann irgendwann.
+Und genauso muss man
+auch vom Rüsten denken. Also man geht
+vom Feinen ins Grobe.
+Man geht von der engen Toleranz
+in die hohe Toleranz.
+Man geht vom Sauberen
+ins Dreckige.
+Und das sind Rüstvorgänge, Rüstfolgen, die man irgendwo beachten sollte.
+Und wenn ich schon Rüsten nicht vermeiden kann, dann sollte ich versuchen, meine Rüstzeit zu optimieren.
+Wie funktioniert das erstmal?
+Also Rüstzeitoptimierung, letztendlich hat die Rüstzeit genauso wie die Vorgabezeit einen Verteilzeitanteil.
+Das heißt, Leute, die Rüsten haben Augenrecht auf eine 100%, 80%ige Leistung, das muss ich berücksichtigen.
+die Rückgründzeit ist, wie das Beziehungsmittel gerüstet ist, die Verteilzeit ist, die Zeit
+für das Zusätzliche, für das Unklarmäßige, das kann beim Rüsten häufiger auftragen.
+Manche Firmen behelfen sich mit einer sogenannten Rüstwertkoeffizienten.
+Die sagen jetzt einfach, erst wenn sich das Rüsten lohnt, fange ich einen Arbeitsauftrag
+an.
+Das heißt also, ich sage zum Beispiel, wenn die Auftragszeit 100 Minuten ist und ich habe
+ein Rüsten von
+10 Minuten, dann
+ist das Rüsten zum Auftragszeit
+10%.
+Und das kann ich vorgeben. Ich kann zum Beispiel
+als Firma sagen, ich mache nur die
+Aufträge, wo der Rüstwert
+effizient 10% ist.
+Also wenn ich auf 10 Minuten
+Rüsten 100 Minuten Arbeit
+rausbekomme, mache ich das. Das ist genau
+dasselbe, weil manche Leute
+kennen die Logik vom Fitnessstudio,
+die gucken auf die Uhr und sagen,
+boah, also wenn ich jetzt los war und
+dann mich umziehe, dann habe ich gerade mal fünf Minuten
+im Fitnessstudio. Das lohnt sich nicht.
+Ich bleibe zu Hause und tue lieber so.
+Kennt ihr das?
+Sie gehen auch ins Fitnessstudio wegen fünf Minuten.
+Also es gibt so eine
+Brain-Event-Zeit, wo ich sage, es lohnt sich was
+zu machen. Und genau das
+wird versucht in der
+Arbeitswelt auch zu realisieren.
+Eben mit diesem Rüstwerk-Koeffizienten.
+Und diese Formel, die ich Ihnen
+da gesagt habe, ist relativ einfach,
+indem man ganz einfach sagt, dass man
+sich die Losgröße überlegt und das bedeutet ganz einfach, man nimmt die Rüstzeit zur
+Auftragszeit und die muss eben eine gewisse Zeit sein. Ein Beispiel hier, 10% ist der
+Koeffizient und wenn ich jetzt sage, ich habe eine Gesamtzeit von TE, Einzelzeit und ich
+habe eine Rüstzeit, dann kann ich ausrechnen, was ist meine Losgröße. Das ist eine Methode.
+Das zweite, was ich machen kann, ist analog einer optimalen Bestellmenge auch eine optimale Rüstlosgröße zu definieren.
+Also die optimale Bestellmenge, die Losgrößenform, die kennen Sie ja vielleicht noch, haben wir ja durchgesprochen.
+Das ist, man versucht in diesen zwei Kurven Lagerkosten und Bestellkosten das Minimum zu finden.
+Und es ist ja zweimal der Jahresbedarf, mal die bestellfähigsten Kosten und einstatt der Lagerhaltungskostensatz, umgemodelt auch das Rüsten.
+Statt den bestellfähigsten Kosten kommen die Rüstkosten pro Los rein und statt dem Preis kommen die Lagerungskosten pro Teil rein.
+Also man könnte jetzt auch sagen, man nimmt die Herstellkosten mal den Lagerhaltungskostensatz.
+Das ist im Prinzip, statt Einstandspreis nimmt man halt den Wert in die Ware in dem Moment im Lager.
+So, alles sehr abstrakt, deswegen machen wir jetzt hier eine kleine Aufgabe, eine Rechenaufgabe, okay?
+Also, der Jahresbedarf für ein Einzelteil ist wirklich 4.000 Stück.
+Wir gehen davon aus, dass es nicht 4.001 sind, nicht 3.899, sondern dass genau diese 4.000 Stück sind.
+Der Bedarf verteilt sich gleichmäßig über das Jahr.
+Also zum Beispiel könnte es bei einem Hersteller von Werkzeugmaschinen sein, die Blechbieger-Teile für den Schaltschrank.
+Das könnten irgendwelche Deckel sein, die sie verbauen müssen.
+Das könnten irgendwelche Ventile sein, die sie regelmäßig in ihre Maschinen einbauen.
+Zum Beispiel Pedale oder irgendwie sowas in der Richtung.
+Also wir haben gleichmäßig einen Bedarf von 4000 Stunden.
+Dann haben wir Werkstattfertigung, wir haben die arbeitsgängige, Sägen, Drehen, Fräsen, Bohren.
+Wir wissen die Rüstzeit, wir wissen die Zeit pro Einheit.
+Wir haben unterschiedliche Lohnkosten, einmal fürs Rüsten, die macht jemand, der wahrscheinlich besser ausgebildet ist,
+während die Lohnkosten für die Bearbeitung ein bisschen geringer sind.
+Wir haben einen Gemeinkostenzuschlagsatz, also das heißt, falls Sie sich an Ihre Kostenrechnung erinnern,
+Für jeden Mitarbeiter, den wir haben, kommen dann zusätzliche Kosten noch dazu, im Sinne von Sozialversicherungen, im Sinne von, der benutzt unsere Betriebskantine, der benutzt unseren Betriebsarzt, der benutzt irgendwelche Lizenzen, braucht er und so weiter und so fort.
+Also kostet uns die Stunde nicht 50 Euro, sondern letztendlich kostet uns die Stunde 200 Euro in Produktion.
+Dann haben wir Lagerhaltungskostensatz 0,121 pro Jahr.
+Was heißt das? Kann man das übersetzen?
+Was heißt so ein Lagerhaltungskostensatz?
+Wenn Sie etwas für 1 Euro wert von 1 Euro für ein Jahr einlagern, kostet Sie das 12 Cent in diesem Beispiel.
+Also wenn Sie 100 Euro für ein Jahr einlagern, müssen Sie 12 Euro Lagerhaltungskosten rechnen.
+Das sagt dieser Lagerhaltungskostensatz aus.
+Dann haben wir Material Einzelkosten, total 20 Euro.
+Wir haben ein Rüstwertkoeffizient von 10%.
+Wir arbeiten jetzt mit einem Zeitwert von 100 Prozent, das ist sehr angenehm.
+Arbeitszeit ist 8 Stunden pro Jahr, 220 Tage.
+Und wir sollen wieder auf halbe ganze Tage leben.
+Gut, also schauen wir uns die Aufgabe mal an.
+Erstens ermitteln Sie die Mindestlosgröße mittels Listwerkkoordination.
+Da lasse ich Sie ganz kurz alleine mit dieser Formel.
+Das kriegen Sie schnell hin.
+Da dürfen Sie schon ausrechnen.
+Amen.
+Amen.
+Das war's für heute.
+Vielen Dank.
+Amen.
+Ich habe gar nicht kapiert, dass das keine Tafel ist.
+Vandalismus.
+Gut, also das ist die Aufgabe für 10 Stück.
+Oder wenn man es anders sagt, wenn die Herstellungszeit von einem 30 Minuten ist von einem Teil,
+dann gibt es eine Präzision von 10%, dann darf ich nur bei maximal 3 Minuten rüsten.
+Wenn ich also 120 Minuten Gesamtrüstzeit habe, kann ich halt ausrechnen, wie viel ich bauen muss, damit ich diese 10% erreiche.
+Jetzt könnte ich das theoretisch natürlich pro Arbeitsgang ausrechnen.
+Also ich könnte jetzt hier sagen, ich mache das jetzt pro Arbeitsgang, könnte ich jetzt auch machen.
+Aber das ist ja wenig sinnhaft, weil Sie natürlich nicht sagen, ich säge jetzt 20 Stück, dann drehe ich 15 Stück und dann fräse ich plötzlich wieder 23 Stück.
+Das geht ja nicht auf. Also Sie nutzen das schon für Ihren Arbeitsgang.
+So, das nächste, wir sollen das mit dem kostenoptimalen, kostenminimalen Losgrößen berechnen.
+Und die Aufgabe ist, konstante Losgrößen anzunehmen.
+Also wir wollen nicht einen Auftrag mit 10 haben und dann mit 30 und dann mit 15,
+sondern wir wollen jetzt die Anzahl X Fertigungsaufträge einstellen, die genau gleich sind für ein Jahr.
+So, dann brauchen wir mal eine entsprechende Formel.
+Eigentlich können Sie auch nochmal selber probieren lassen.
+Also die Formel, falls ich das vorhätte, wie man würde sagen, in der Prüfung zu machen,
+bis jetzt habe ich es noch nicht vor, aber ich habe die Prüfung noch nicht beschrieben,
+würde ich Ihnen diese optimale Prüfungformel vorgeben.
+Also Sie müssen sie nicht auswählen.
+Also hier vorne das Planerjahresbedarf mal die Nullkostenbonus durch die Nahrungskosten schlägt ein.
+Es ist ein bisschen schrecklich hier zu.
+Rausgehen.
+Rausgehen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Amen.
+Vielen Dank.
+So, also schauen wir mal, was wir alles glauben.
+Wir haben ja auf eine Seite den Jahresbedarf, den wissen wir, das sind die 4.000 Stück.
+Was wir bisher noch nicht wissen, das sind die Rüstkosten für los, die müssen wir ermitteln.
+Und was wir auch ermitteln müssen, das sind die Lagerungskosten für teile.
+Also was kostet uns einmal Rüsten und was kostet uns einmal Lagerung?
+Das sind so die zwei Themen, die wir jetzt ermitteln müssen.
+Die Rüstkosten-Pronos. Also fangen wir mal an mit den Rüstkosten-Pronos.
+Wie setzen die sich zusammen? Natürlich ist es die Rüstzeit.
+Und mal eben die Rüstkosten, die ich habe.
+Pro Minute. Was kostet mich eine Minute Rüsten? Das kriege ich alles raus.
+Also das heißt mir das Zeit sind 120 Minuten und was kostet mich das Rüsten?
+Ich weiß, dass mich Rüsten an der Stunde 70 Euro pro Stunde kostet und ich muss noch die Lohngemeinkosten mit 300 Prozent betreuen.
+Das heißt, ich habe jetzt 70 Euro pro Stunde plus die Zusatzkosten, 70 Euro pro Stunde mal 300 Euro pro Stunde.
+Und das Ganze ist dann pro Stunde.
+Und ich muss dann die 60 Minuten pro Stunde teilen, was ich eben auf einen Euro bekomme.
+Und damit komme ich, dass ich einmal 2 Stunden nicht koste, sondern 560 Euro.
+Oder anders ausgedrückt, mich kostet eine Stunde komplett 280 Euro, also kostet man 2 Stunden 560 Euro.
+Und das ist eben für ein Los.
+So, und dann brauche ich noch den letzten Teil, die Lagerungskosten pro Teil.
+Das sind im Prinzip die Gesamtkosten.
+Was sind die Gesamtkosten?
+Das sind die Materialkosten.
+Was sind die Materialkosten?
+und die Lungenkosten, also die Fertigungszeit, 30 Minuten mal 50 Euro pro Stunde plus 50 Euro pro Stunde mal 300 Euro pro Stunde.
+Und das Ganze hier in Höhe von 60 Minuten pro Stunde, weil das sind Werte.
+Das heißt, ich koste eine Stunde fertig mit 200 Euro.
+Und wenn ich eine halbe Stunde fertig gebe, dann kostet es 100 Euro.
+Also 20 Euro je Stück plus 100 Euro je Stück.
+Das heißt, 160 Euro je Stück.
+Das sind die Sanktlösten, die teilen.
+Das ist die Lagerungskosten-Teile.
+120 Euro die Stücke.
+Mal 0,12.
+Das kostet mich ein Teil zu lagern.
+Wenn ich dieses Teil einmal ablade, dann wird es kürzer und jetzt wird es nur noch immer
+Ich brauche einen Traum.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+So, jetzt haben wir ein Problem, wenn wir jetzt gleichmäßige Fertigungsaufträge machen
+Dann wird man relativ schnell feststellen, dass es irgendwie weder 7 noch 8-Fertigung-Aufträge sind,
+sondern es werden 7 Aufträge auf 558, glaube ich mal.
+Jetzt werden wir mal schauen.
+5, 8 mal 7.
+Es werden dann 3.906 Stück, was Sie mit dem Fertigungsauftrag machen müssen.
+Dann müssen Sie einen Fertigungsauftrag machen, der 94 Stück hat.
+Das ist ja nicht Sinn und Zweck der Aufgabe.
+Das heißt, wenn ich eine Gleichverteilung will, muss ich mir überlegen, wie die Fertigungsaustrag ordentlich ausschaut.
+Also das wären jetzt ungefähr 7,1 Fertigungsaufträge.
+So, wie gesagt, keiner von Ihnen hat in Ihrem Leben schon mal 0,1 Kugel gemacht.
+Genau so müssen wir uns hier entscheiden, dass man was Geradsaliges macht.
+Überlegen wir mal.
+Also was passt mit diesen 4000 Teilen und den Statikumsaufregungen zusammen?
+Also was wir machen können, wären 8 Statikumsaufregungen.
+A 500-Reihe, 7-Faltigungsaufgänge geht nicht, weil 4000 durch 7 keine geradschalige Anzahl gibt.
+6-Faltigungsaufgänge funktioniert auch nicht.
+Allerdings könnten wir 5-Faltigungsaufgänge
+Ich brauche ja die ganze Zahlige Lose. Ich will ja nicht 520,3 Teile machen, weil das 0,3 Teile funktioniert nicht.
+Und was ist jetzt die bessere Lösung? Also welche Variante ist besser?
+Wir überlegen uns mal, wie wir die losabhängigen Stück kosten.
+Aus was setzen Sie sich zusammen? Einmal aus den Brüstkosten, plus unseren Herstellkosten, plus den Lagerkosten.
+Und das rechnen wir jetzt auf. Einmal Kosten bei A, 0 Cent, A, 500 Stück.
+Also, die Kosten sind Rüstkosten pro Stück. Wir wissen, Rüsten kostet uns 560 Euro und wir machen 500 Stück.
+Die Herstellkosten, die bleiben gleich. 120 Euro, wir schnippen.
+Und jetzt, was sind die Lagerkosten?
+Da müssen wir jetzt den Durchschnittsbestand ausrechnen, bzw. was kostet mich denn so mein Ding?
+Also, wir rechnen mal den Durchschnittsbestand aus.
+Wenn wir 500 Stück produzieren, dann ist der Durchschnittsbestand halt 500 Stück.
+Im Schnitt sind immer, also wenn wir uns so eine Lage anschauen, die halbe Menge ist im Schnitt immer auf Lager.
+Das Ganze mal eben, was mich das kostet, 120 Euro je Stück, mal diesen Lagerhaltungskostensatz.
+Also mich kostet es 14,40 Euro je Stück, was ein Jahr auf dem Lager ist.
+Und ich will das ja auf ein Stück runterrechnen.
+Also auf mein Jahresbedarf, durch 4.000 Stück.
+Deswegen will ich es hier zerstören.
+Ich möchte es ja frühstücken.
+Und wenn ich das abmähle, euch mit Auswählen von der 122, das ist dann euer B-Stück.
+So, das selbe noch ganz kurz alleine bei Blutlosen machen.
+Kosten bei Blutlosen.
+800 Stück.
+So, du darfst jetzt selber ausrechnen.
+Amen.
+Amen.
+So, hat jemand was?
+Genau.
+Das heißt,
+weil wir ja kurz schon gebrochen sind,
+Ach gut, genau.
+Also wir machen acht lose,
+500 Stück.
+Und das ist das, was wir auf Galle 3 von dem Thema, was sind die Gesamtkosten dann?
+Das sind dann die 422,02.
+Wir haben 4.000 Stück pro Jahr.
+Und das sind dann 488.180.
+Wenn wir das mit der Variante vergleichen, haben wir 12 Cent gespart und das sind dann
+Das sind auch hier 4.000 Stück, 480 Euro.
+Und da sieht man jetzt so einen massiven Unterschied.
+Hier sagen wir 5 lose 800 Stück,
+während wenn wir den Rüstwerkkoeffizienten gemacht hätten von diesen 10%,
+dann machen wir nur 40 Stück.
+Jetzt könnte man ausreden, was bedeuten denn die 40 Stück,
+wenn wir die aufs Lager setzen, so ein Projekt und sowas.
+Und da sieht man dann natürlich wieder Kostenoptimierung,
+was ist sinnvoll in der Fertigung.
+Wenn wir jetzt hier von Achsen reden, ja dann lege ich keine 500-Achsen-Aufgabe.
+Was soll ich denn hinlegen?
+Wenn wir hier alle 5,5-Ventil-Karten reden, ja dann kann ich die ja gerne ausmachen.
+Also man muss halt auch immer wieder zur Realität berücksichtigen.
+Nur weil ich einen Fastenoptimum ausgerechnet habe, heißt das nur lange nicht, dass es sie verursacht.
+Vielleicht kann es auch sein, dass ich einen Zulieferer habe,
+und der einfach das Rohmaterial immer nur in Batches für 200 Stück bereitstellt.
+oder die 500 Stück, dann wäre es ja auch blödsinnig, wenn ich dann 800 Stück mache
+und dann immer ein Gebündel auf dem Weg habe.
+Dann ist es vielleicht sinnvoller, zweimal 500 zu machen oder tatsächlich diesen Weg zu gehen
+und zu sagen, ich mache einfach nur die 500 Stück.
+Also Brüsten ist ein unglaublich heikles Thema und da kommen die unterschiedlichsten Weltanschauungen
+in so einem Meeting immer zusammen.
+Der Betriebsbuchhalter möchte das natürlich möglichst kostenoptimiert haben.
+Dann haben sie so einen Supply Chain Manager drin.
+Der möchte natürlich möglichst wenig Lager haben.
+Der kriegt immer Ärger von dem Management, wenn er zu viel Lager aufbaut.
+Dann haben sie die Produktion, die sagen, ne, wir wollen eine runde Produktion.
+Kannst du mir nicht mal einen Auftrag reinschieben, wenn ich Zeit habe?
+So denken die.
+Und dann haben sie einen Vertrieb, der sagt ja, mir ist wurscht, was ihr macht.
+Hauptsache ich kann meinen Kunden geliefert haben.
+Und so haben wir halt die unterschiedlichsten Anforderungen, auch was von Brüsten hier
+weinspielt.
+Und Brüsten, wie gesagt, heißt das Thema in jeder Firma und hängt halt auch sehr stark
+mit Bestandsmanagement zusammen.
+Und natürlich die Losgröße 1, was der Wunsch vieler Firmen ist, zu realisieren.
+Aber ich behaupte, das ist nur noch weit weg.
+Gut, dann schauen wir uns die Aufgabe 4 an.
+Wie lange ist die Zeitdauer zwischen zwei aufeinander erfolgenen Losauflagen?
+Das ist im Prinzip, schauen wir uns das rückwärts an, also wenn wir sagen, Los durch Gesamtmenge, das heißt wir machen immer 500 zu 4000 und wir machen ein 12,5% Los.
+Also 12,5% eines Loses wird gemacht und das entspricht dann, alle 0,125 Jahre müssen wir ein neues Los machen, also von der Zeit her.
+Und bei 220 Arbeitstagen heißt es, alle 27,5 Arbeitstage müssen wir ein neues Los einsteuern.
+Alle 27 Stunden auf dem Arbeitstag wird ein neues Los ausgelöst oder anders gesagt, alle eineinhalb Monate muss ich ein neues Los starten, damit ich eine kontinuierende Versorgung habe.
+Wenn ich jetzt natürlich zwölf Lose habe, dann kann ich sagen, jeden Monat starte ich ein Los.
+Das kann natürlich für die Planung auch toll sein, indem ich sage, jeden ersten Monat müssen wir Folgendes produzieren.
+So arbeiten zum Beispiel manche Küchen, die zum Beispiel sagen, am Montag in der Kantine müssen wir folgende Sachen erledigen,
+müssen wir folgende Sachen vorbereiten, die dann durch das Ende der Woche halten.
+dann ist die Losgröße im Prinzip vom Wochenablauf gestimmt.
+Gut, dann war noch die letzte Frage. Berechnen Sie die Durchlaufzeit für die Herstellung eines
+Los, wenn der Arbeitsgangwechsel einen halben Tag dauert? Also da schauen wir das nochmal an.
+Wir haben die Arbeitsgänge, wir haben die Rüstzeiten, wir haben die RMT, dann können wir natürlich auch die Verarbeitungszeiten ausrechnen.
+Dann haben wir die Auszeit, die Erwerbungszeit, die Minuten, das haben wir hier unter, das haben wir hier vorn, und dann ist die Überwachszeit, also wir haben hier Segen, Drehen, Füßen, Ohren,
+Die Bearbeitungszeit sind 20 Minuten.
+Wie viel machen wir in unserem Fall?
+500 Stück mal 10 Minuten TE.
+Das heißt, wir haben 520 Minuten Bearbeitungszeit, 440 Minuten.
+Wieder die 500 Stück mal 5 Minuten.
+Das sind dann 2.540 Minuten.
+Hier haben wir 35 Minuten, 25 Minuten, wie das hier geführt wird, statt.
+Und hier haben wir 7, 8 Minuten Einzelzeit.
+Hier haben wir 30 Minuten, 25 Minuten, 20 Minuten.
+Wenn ich das jetzt runde auf meinen Arbeitstag, was ist mein Arbeitstag?
+8 Stunden, 8 Stunden sind 480 Minuten.
+Also das heißt, ich habe hier relativ lang, das ist unsere Maschine, sind 10,46 Arbeitstage, 10,29 Arbeitstage, 10,36 Arbeitstage, 10,36 und hier habe ich 8,9.
+Also hier unter 10,5, 10,57, 10,58 und hier habe ich die besten Teilen der Übergangszeit.
+Und auch das ist typisch für viele Produktionen,
+dass ich halt mehrere lose Parallellaufen habe.
+Also alle eineinhalb Monate starte ich es dann los,
+aber die Durchlaufzeit ist zweimonatig.
+Das heißt, es kann durchaus auch sein,
+dass man halt komplett nervös wird und sagt,
+oh mein Gott, wir laufen leer.
+Und dann startet man vielleicht viel zu optimistisch zwei Aufträge,
+aber es sind halt immer welche in der Faktik
+und die auch weitere Faktik haben.
+Man muss halt entsprechend vorausplanen, dass man halt in die Arbeit geht.
+So, da brauchen wir noch ein bisschen Lust, mal setzen auf den.
+Machen wir noch kurz. Bis 3.30 Uhr.
+Wie immer, sie fühlen sich auch gelegen. Sie müssen nicht sitzen bleiben.
+Fertig?
+Vielen Dank.
+Vielen Dank.
+Das war's für heute.
+Sehr gut.
+So, jetzt ist es frisch.
+Vielen Dank.
+Nein, erzählen Sie.
+Ich komme zu Ihnen, weil ich letztes Semester, ich bin mit dem Hausarzt,
+und ich dachte, die kennen mich nicht mehr.
+Ich kenne die am besten aus, am besten kennst du die zum ersten Mal auch das Hausarzt.
+Da können Sie jederzeit vorbeigehen, das sind ganz linke Leute,
+und die machen auch gerade für mich, also wenn die auch mal Zeit haben.
+Ich komme nach Ihnen, gehe direkt zu Ihnen, weil wir gerade vor uns sprechen.
+Und zwar, ich habe mich irgendwie Interesse bekommen, ein Auslandserrestaurant zu machen.
+Machen Sie das? Hoffen Sie, dass Sie nicht zu spät sind?
+Ja, als Freelancer. Aber ich mache das auch schon bis heute.
+Das war EMC.
+Ja, danke. Stecken Sie es einfach nicht an. Wenn Sie nicht antreten, dann kriegen Sie keine Note.
+Und dann können Sie sich daraus anbringen lassen.
+Also ich habe aber schon so drei, vier Abgaben gemacht.
+Dann schreiben Sie den ab und sagen Sie bitte, ich hätte keine Note.
+Ich trete von der Prüfung zurück, bitte keine Note vergeben.
+Dann gibt es das nicht angetreten.
+Lassen Sie sich nicht bestätigen, bitte bestätigen Sie mir das und dann vergeben wir Sie um.
+Würde es aber gehen, wenn ich dieses GMC anrechnen lasse und es im Ausland als frei delegiert und zusätzlich einrechnen lasse?
+Nein, wenn es das Problem ist, das wird auch zweitlich vorangerechnet.
+Sie können jetzt vielleicht, schreiben Sie eine E-Mail an mich, dann klicken Sie auf den PK-Vorsatz, ob Sie es als zusätzliches Fach anrechnen lassen wollen, aber nicht als Wahlpflichtfach.
+Das ist trotzdem auch doch ein Entzeugnis, aber das ist nicht auch das Wahlpflichtfach.
+Das könnte man probieren.
+Aber da würde ich mir vorher die Frage stellen, ob Sie das für Sie machen.
+Sie dürfen jederzeit freiwillige Leistungen bringen und wenn Sie sagen, Sie wollen das Wahlpflichtverhaber offen lassen,
+das GMMC nicht aus Wahlpflichtverhabern rechnen lassen, dann müsste das gehen.
+Was Sie allerdings nicht machen dürfen, hinterher dann kommen und sagen, das muss man rechnen lassen.
+Das geht nicht.
+Also die Fächer oder GMMC?
+Sie müssen sich jetzt entscheiden, ob Sie GMMC aus Wahlpflichtverhabern rechnen lassen.
+Wenn Sie das nicht wollen, dann schreiben Sie in den E-Mails an mich und an den PK-Vorsitz, an Matthias Schmidt,
+und sagen, ich würde die Themen
+für Sie belegen, aber Sie möchten das nicht aus
+Wahlpflichtmodul verbucht haben, weil Sie möchten was anderes
+aus Wahlpflichtmodul, sondern einfach mal als freiwillige
+Leistung in Ihrem Zeug
+GFC auftauchen.
+Was wir aber dann nicht machen dürfen, ist
+dann hinterher zu sagen, Sie wollen das doch nicht
+als freiwillige Leistung, sondern als Wahlpflicht.
+Also GFC ist dann quasi freiwillige Leistung
+und das im Ausland ist dann als Wahlpflicht.
+Genau, aber das müssen Sie, weil sobald
+nämlich Ihr Katalog zu ist, werden Sie
+jetzt unbedingt mit Ihrem Master
+aus dem Ziel. Das heißt, Sie müssen es
+irgendwie offen lassen. Ich habe so eine Prüfung im Sommer, Elektrotechnik, weil es ein Kerngebund ist.
+Ja, da haben Sie ja gar keinen Grund. Aber dann können Sie ja nichts vom Auslandssemester irgendwo anzunehmen lassen.
+Sie haben halt da kein offenes Modul mehr, wo Sie sagen können, Sie lassen sich was von außen an.
+Sie können sich aber halt auch, wie gesagt, die Auslandsleistung als freiwillig auflisten lassen.
+Was Sie heute nachfragen, weil es doch so knapp ist, habe ich auch schon mit einer Rahmenübung gesprochen,
+Er soll aus Dürren sind, kennen Sie das?
+Das ist wahrscheinlich kommerzieller Anbieter, oder?
+Nee, das ist alles von mir.
+Passen Sie auf, lesen Sie das Gleichgedrückte,
+weil er dann noch die Möglichkeit findet,
+da müssen Sie über seinen Zahn.
+Lesen Sie bitte das Gleichgedrückte, okay?
+Ja, genau.
+Und ich hatte der Dame auch schon gefragt,
+sie hat gefragt, wie man einprasselt,
+und ich habe sie mal reingegeben.
+Und sie hat gesagt,
+ja, ich kann es nicht verhindern,
+und vielleicht sollte es auch noch möglich werden,
+Wenn Sie zahlen, gibt es in der Regel was für Sie.
+Also das ist dann kein Problem.
+Sie bekommen halt keine Erasmus-Buchstaben.
+Das ist schwierig.
+Was Sie natürlich auch noch machen können, Sie können fragen,
+welche Plätze im Erasmus-Buchstaben noch frei sind.
+Das ist ja auch nicht so.
+Aber wenn Sie dann die Plätze haben, dann geht es jetzt mal.
+Vielen Dank.
+Aber wenn Sie etwas offen machen, dann hat die Gange geschlossen.
+Vielen Dank.
+Vielen Dank.
+Machen wir das nächste Mal nach Weihnachten.
+Was ist der nächste Kurs?
+Nach Weihnachten.
+Dienstag nach Weihnachten.
+Danke.
+Danke auch.
+Kein Problem.
+Vielen Dank.
+Vielleicht müssen wir mal gucken, ob wir das hier sehen können.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Ja.
+Das ist das Wichtigste.
+Vielen Dank.
+... Musik ...
+... Musik ...
+Das war's für heute.
+Vielen Dank.
+Warum?
+Wenn du einen Eintrag willst.
+Nein, nein, nein.
+Das willst du nicht.
+Nein, ich will es nicht.
+Mach ihn.
+Wie?
+Ich kenne ihn nicht.
+Wie?
+Ich kenne ihn nicht.
+Wie?
+Ach so.
+Ja, aber wie?
+Das ist das, was wir hier in der Sendung sehen.
+Vielen Dank.
+Vielen Dank.
+Das war's für heute.
+Vielen Dank.
+Das war's für heute.
+Vielen Dank.
+Vielen Dank.
+Wobei gerade eben die Frage kam, am 6. Januar ist keine Hochschule,
+Sie wissen ja, das reicht bei Gimmick, das ist frei.
+Die letzte Vorlesung ist damit am 13. Januar.
+Also letztendlich sind es die Probeprüfungen.
+Alles, was in den Probeprüfungen abgedeckt wird, kann in der Prüfung drankommen.
+Und allerdings, wie gesagt, den Vortext bei den Probeprüfungen lesen,
+da habe ich immer die schwersten Aufgaben aus meinen Prüfungen zusammen kopiert.
+Das heißt, die Probeprüfung ist jetzt nicht der Umfang, den Sie in der Prüfung raten müssen,
+sondern die Probegründung ist um die 120 Minuten, würde ich sagen, Sie haben allerdings nur 90 Minuten.
+Es sind in der Regel vier Aufgaben.
+Das erste wird irgendwas entweder mit Lagerhaltung oder mit Beitragsrechnung sein.
+Das zweite ist in der Regel immer was mit Fließfertigung.
+Das dritte ist ganz häufig was mit Stücklisten und mit Arbeitsklingeln.
+Und das vierte ist dann von Lebensverfahren.
+Und die fünf Punkte sind dann nur Fragen, die habe ich früher in den Probeprüfungen gestellt.
+Also in den Aufgaben selber. Die kommen dann jetzt hin.
+Zum Beispiel Vorteile der Fließfertigung oder was wird MTM verwendet, REFA und sowas im Rechten.
+Und das ist dann eigentlich, dass ich die 90 Punkte voll mache, weil ich immer sage, pro Minute ein Punkt.
+Das ist auch in der Prüfung insofern wichtig, wenn Sie feststellen, dass Sie an einer Aufgabe, wo es zwei Punkte gibt,
+plötzlich eine Viertelstunde hängen, dann Aufgabe liegen lassen und weitermachen irgendwo anders.
+Also der Klassiker ist immer bei dieser Fließverdienungsaufgabe, wo man ja so eine Arbeitsplatzaufteilung machen muss.
+also wo sie die arbeitsgängigen Arbeitsplätze
+transporten müssen, gibt es manche Leute,
+die steigern sich so rein, weil sie
+nicht die beste Lösung finden,
+dass sie da eine halbe Stunde liegen lassen.
+Darum geht es nicht.
+Sie müssen nur die Aufgabe erfüllen.
+Sie müssen nicht die beste Lösung finden, sondern
+sie müssen einen Bankrückgangsgrad von 90%
+finden. Und das ist
+die Aufgabe. Und wie gesagt,
+da gibt es den einen oder anderen, der da manchmal
+so ein bisschen den Kopf verliert und sagt, der will das
+90% lösen. Ich weiß auch nicht, warum.
+Also warum da dann plötzlich der Ehrgeiz kommt,
+ich weiß es nicht, aber
+das ist dann natürlich, da gibt es irgendwie so
+acht Punkte drauf oder so und dann haben wir da
+acht oder zehn Minuten Zeit.
+Und dann wird dir nicht eine halbe Stunde
+in so eine Aufgabe gesenkt.
+Gut.
+Wie gesagt,
+die Punktbegriffe können wir einfach anschauen
+und die Punktbegriffe sind im Prinzip
+immer,
+ich glaube, hier ist ein bisschen verschritten,
+da stimmt die Nummerierung nicht ganz,
+also hier Logistik, das haben wir gar nicht
+gemacht, aber dann so eine
+Lagerhaltungsaufgabe, so eine Entdeckungsbeitragsaufgabe, dann ist es immer die Aufgabe 2 aktuell, in
+dem es die Aufgabe 3 ist.
+Und da muss ich aber jetzt ehrlich sagen, wenn ich schon sehe, dass jemand diese Aufgabe
+nicht hat, dann weiß ich, dass es eine 4 oder eine 5 ist, weil das ist das, wo man sich
+am besten darauf vorbereiten kann und wenn man das noch nicht drauf hat, dann ist halt
+auch der Rest meins.
+dann hier irgendwas mit
+Arbeitsplänen und Stücklisten
+kommt in der Aufgabe, dann die letzte
+Aufgabe ist dann sowas
+die
+Lösungen haben sie alle
+auch, also
+Die Lösungen haben Sie hier, die Lösungen zu 1, 2, also das sollte kein Thema sein.
+Hier sind nur die kurzen Lösungen drin, falls Sie erstmal den konkreten Weg wissen sollen,
+wir wollen schon erstmal ein bisschen knobeln, dann ist hier nur die kurze Lösung drin, okay?
+falls Sie nicht den ganzen Ding wollen.
+In den Excel-Tabellen sind die ausführenden
+Lösungen drin.
+Und ich kann Ihnen nur empfehlen,
+wie gesagt, versuchen Sie es in der
+Ferienzeit jetzt zu machen,
+dann haben Sie es zwischen
+dem 13. und dem 26. wieder
+vergessen, dann können Sie es vor der Prüfung noch mal
+machen und dann gehen Sie eigentlich ganz gut vorbereitet
+in die Prüfung ein.
+So.
+So, was müssen wir sonst noch wissen?
+Was war es eigentlich für eine Prüfung?
+Wir haben neun Prüfungen, Sie dürfen einen Taschenrechner mitnehmen,
+alle Internetfälle geben Sie nicht erlaubt,
+Spicken ist nicht erlaubt, das müssen Sie selber.
+Wenn Sie krank sind, dann erscheinen Sie einfach nicht,
+weil wenn Sie noch nicht durchgefallen sind,
+dann wird es ja immer so, dass Sie auch eine Prüfung haben,
+dass es noch nie wird.
+Falls Sie in der Prüfung sich schlecht fühlen,
+dann gehen Sie zum Arzt, holen Sie sich einen Arzt,
+und Sie können die Prüfung jetzt nur anwenden lassen.
+Aber dann brauchen Sie einen Arzt, der Ihre Prüfungsunfähigkeit bestätigt.
+Und das muss am gleichen Tag sein, Sie können nicht am nächsten Tag zum Arzt gehen,
+weil normalerweise haben die Ärzte ja Geschäftszeichen und Prüfungsscheiben.
+Also am Montag oben vorne sollten Sie schon einen Arzt finden.
+Was muss man noch erzählen?
+Noch nicht?
+Nix?
+Beim Bescheißen bin ich inzwischen ein bisschen dünnhäutig geworden, muss ich ganz ehrlich sagen.
+weil es einfach so unnötig ist. Es ist tatsächlich nur Mehraufwand. Sie dürfen bis zum Ende mitschreiben dann.
+Dann haben Sie trotzdem noch das Recht, also wenn ich Sie beim Spicken erwische, haben Sie trotzdem das Recht, die Prüfung abzuschließen.
+Und dann, ja, weil es könnte ja sein, dass ich mich geirrt habe. Und dann dürfen Sie trotzdem bis zum Ende schreiben.
+Das Ganze wird dann protokolliert und dann wird reingepflegt. Also nicht als nicht gestört, sondern als Täuschungsversuch hinterlegt.
+Ja, gut.
+Und ansonsten, wenn Sie die Übungen verstanden haben, dann haben Sie auch die Fragen.
+Weil zum Beispiel die Fragen beziehen sich dann meistens auf so Themen wie, beschreiben Sie die Vorgabezeit.
+Und wenn Sie mit einer Vorgabezeit gearbeitet haben, in dieser letzten Aufgabe, in dieser Terminierungsaufgabe, dann wissen Sie, was die Vorgabezeit ist.
+Oder Sie wissen, was Betriebsurlaub ist und sowas.
+Also das ist dann alles nicht das Thema.
+Wer die Übungen kapiert hat, wirklich verstanden hat, der hat auch kein Problem mit den Fragen und mit den Aufgaben in der Strategie.
+So, dann zurück zum Rüsten.
+Also Rüsten ist, wie gesagt, so ein bisschen das Stiefmütterliche,
+was die Bürgerinnen und Bürger umgehen müssen.
+Eine andere Möglichkeit ist, dass man mit Rüstmatrizen arbeitet.
+Also wenn ich schon Rüsten nicht vermeiden kann,
+dann sollte ich Rüsten zumindest so einplanen,
+dass es mir den wenigsten Aufwand macht.
+Also wenn Sie, das machen Sie am Tag auch,
+Sie überlegen sich, was ist meine sinnvollste Route, die ich vielleicht fahre.
+Sie haben drei Erledigungen zu machen.
+Sie müssen einmal einkaufen gehen, Sie wollen ins Fitnessstudio gehen, Sie müssen an die Hochschule.
+Und wenn Sie zeitlich flexibel sind, dann legen Sie vielleicht diese drei Aufgaben genau so,
+dass Sie den kürzesten Fahrweg haben.
+Vermutlich mal, oder?
+Und genau so ist es mit den Rüstmatrizen.
+Die Rüstmatrizen sollen den kürzesten Weg angeben, wie Sie vom einen Auftrag zum nächsten kommen.
+Also wenn Sie von A1 auf A1 rüsten, ist ganz klar, müssen Sie ja nicht rüsten.
+Ist ja das Gleiche.
+Wenn Sie von A1 auf A2 rüsten, dann müssen Sie zwei Stunden rüsten.
+von A1 auf A3 4 Stunden und von A1 auf A4 7 Stunden.
+Wenn Sie jetzt allerdings von A4 auf A1 flüssen müssen, 12 Stunden.
+Also das heißt, A4 ist vielleicht eine sehr dreckige, eine sehr unsaubere Arbeit
+und wenn Sie dann zurück auf A1 flüssen, die vielleicht sehr kleinteilig,
+sehr fein, sehr toleranzintensiv ist, dann ist es natürlich schwierig,
+da die Werkzeuge wieder hinzubekommen.
+Vielleicht müssen Sie da viele Aufbauten machen und so weiter.
+Vielleicht müssen Sie da Schmiermittel wechseln.
+All solche Themen spielen da mit rein.
+Und jetzt ist die Frage, wie lange ist der Lüfter-Österhoff-Wand einmal bei dieser Vergegnungsreihe vorher und einmal bei dieser Vergegnungsreihe vorher?
+Finden Sie es mal raus.
+Was ist beim ersten?
+Also beim ersten von A1 und beim zweiten von A4 und beim zweiten von A2 dauert das in 4 Stunden,
+dann dauert es in der letzten Runde in 9 Stunden.
+Und beim zweiten?
+Und letztendlich ist es beides der gleiche Aufwand von den Arbeitsaufträgen her.
+Allerdings das Rüsten ist, was halt das eine schwieriger macht als das andere.
+Und da muss man sich halt in der Firma auf Regeln einigen und man muss halt mal so sprechen, wie Rüsten gelebt wird.
+Und ich kenne halt ganz viele Firmen, wo der Meister die Hochheit hat und sagt,
+ja, ich entscheide, welche Fertigungsaufträge wie auf die Maschine kommen.
+Aber vielleicht sieht er ja gar nicht, was man auch schön bündeln kann,
+was eine schöne Rüstlos oder was eine schöne Rüstreinfolge ergibt.
+Und natürlich stirbt man immer irgendwann zu.
+Wenn ich natürlich nach dieser Rüstmatrize rüste, ist ganz klar der Auftrag A4 wie als letztes dran.
+Vielleicht ist es aber der einigste.
+und deswegen muss man es halt immer wieder
+eine Lösung
+eine individuelle Lösung
+für das eigene Fertigungsproblem finden
+und die zwei größten Streitthemen
+in der Firma
+die nie gelöst werden
+das ist einmal
+Bestand
+was ist der optimale, richtige Bestand
+und zweitens
+was ist das richtige, optimale Lüsten
+wenn Sie einen Streit suchen
+Bevor wir anfangen, sind ein von den zwei Themen an und Sie werden garantiert jemanden finden, der mit uns streiten will.
+Das ist aber so gut, wenn man so eine Bombe ist, um kurz vor Weihnachten eine Besprechung zu machen.
+Wir müssen nochmal über den Bestand reden. Und geht schon wieder los.
+Also das sind so Themen, da finden Sie immer jemanden.
+Das ist genauso, wenn Sie, also reden Sie lieber über das Wetter und nicht über Rüsten oder Bestand.
+Dann werden Sie gut in die Weihnachtsferien kommen.
+So, und damit kommen wir zum Abschluss der Vorlesung.
+Also wir haben jetzt relativ viel gemacht.
+Also es war natürlich ein riesen Überflug.
+Wir haben angefangen ganz oben und wir mussten uns Gedanken machen,
+wie kriegen wir unsere Produkte unter die Leute?
+Was für Produkte wollen wir denn überhaupt herstellen?
+Was ist die Produktentwicklung?
+Also einfach das Thema, die strategische Überlegung,
+das Produkt bestimmt die Produktion.
+Und heute mehr denn je, also schauen Sie sich mal diese ganzen Probleme der Automobilindustrie an.
+Unsere Automobilindustrie ist auf den Verbrenner ausgelegt.
+Und zwar wissen die kleinen Supply Chain, hier im Allgäu sitzen ganz viele Zulieferer,
+die für dieses Verbrennersystem, für Abgassystem, für Motoren Bauteile liefern.
+Aber wenn wir jetzt plötzlich auf E-Autos umsteigen, dann haben wir ganz andere Probleme.
+Wir haben nicht das Problem, dass wir Hitze abführen müssen,
+sondern wir haben das Vergehen, dass wir mit der Elektronik Hitze erzeugen müssen.
+Also in meinen Waren schon mal mit Elektroautos, da friert man sich eher tot.
+Oder? Kennt ihr? Nicht?
+Also Elektroautos sind wie viel kalt.
+Weil sie die Hitze über die Batterie erzeugen müssen.
+Das ist, wenn Sie das mal medizinisch betrachten, ein kompletter Wahnsinn.
+Während wenn Sie da so einen heißen Motor haben, ist es ganz toll, wie da die Hitze herkommt.
+Also das sind so Themen, die wir berücksichtigen müssen.
+Sie brauchen im Prinzip 30% weniger Bauteile für ein E-Auto.
+Eigentlich kompletter Blödsinn, dass sie so eine entwickelt haben,
+wenn E-Autos eigentlich bauteiltechnisch so schön sind.
+Wir hatten halt das Problem, wir hatten schlechte Motorautos in dem Zeitpunkt
+und wir hatten die Problematik, dass wir so schlecht Energie speichern können.
+Ich meine, so Öl ist halt oder so Benzin ist halt schön zu speichern.
+Das haben wir perfektioniert, dass wir alle mit einem Kanister voll brennbarem Material
+durch die Gegend fahren können.
+Jetzt muss man halt mit einer Batterie durch die Gegend fahren.
+So viel schöner ist das auch nicht.
+Also so eine mehrere Kilowatt starke Batterie, die man da durch die Gegend fahren kann.
+Eine Autobatterie ist ja handlos dagegen.
+Also das ist so das Thema, dass man natürlich die Distributionsnetzwerke sich Gedanken machen muss.
+Dass die Supply Chain darauf ausgerichtet sein muss.
+Auch andere Probleme von der Supply Chain.
+Nehmen wir mal das Thema mit den Rohstoffen an.
+Auch hier hat sich über die Jahre was künftig geändert.
+Es ist nicht mehr Stahl und Kohle,
+was der Grundlage für viele Baustoffe ist,
+sondern, schauen Sie sich mal Ihr Zeug an,
+was um Sie rumsteht, ganz viel Plastik.
+Was ist die Grundlage für Plastik?
+Und wie viel haben wir da von Deutschland?
+Aber halt
+Feuer.
+Dann, wie gesagt, auch
+seltene Erden. Haben wir uns vor Jahrzehnten
+entschieden, dass wir da nicht mehr mitmachen.
+Haben aufgehört, in Deutschland zu fördern.
+Wir haben aktuell, wie viele haben wir noch?
+glaube ich, 18 Minen haben wir überwacht.
+Neun, weil wir so kurz vor dem Stillstand sind.
+Aber da sind wir auch raus.
+Das heißt, da haben wir riesige Supply Chain
+Probleme. Und das
+Lieferkettenzeugverpflichtungsgesetz ist jetzt ja wieder
+ein bisschen zurückabgerichtet worden, aber das hat
+zumindest mal für ein bisschen Bewusstsein
+geschafft, wo kommt unser Material her.
+Genauso die ganzen, wie soll man sagen,
+Verwaltungen, die aktuell
+in unseren Supply Chain kommen. Also das heißt,
+Chipkrise,
+Suezkanal gesperrt, dann eben
+immer mal wieder Unwetterkatastrophen,
+die dafür sorgen, dass bestimmte Versorgungswege abgeschnitten werden.
+Dann haben wir politische Verwaltung.
+Das heißt, plötzlich werden Rohmaterialien, Vorprodukte teuer, 20 Prozent, 30 Prozent.
+Oder wir bekommen sie gar nicht mehr ins Land.
+Also das sind alles so Themen, was wir halt als Firma berücksichtigen wollen.
+Das ist das ganze Thema Wertschöpfungstiefe.
+Wie viel wollen wir selber machen?
+Wie viel wollen wir zukaufen?
+Dazu kommt das Thema Lohnkosten.
+Was können wir denn überhaupt noch selber machen?
+Da ist Know-how haben wir im Land.
+Da sind wir in Deutschland noch ziemlich weit vorne,
+weil wir noch viel Nahrung haben, aber da ist
+halt auch Abwanderung da.
+Dann, wie gesagt, wenn wir das wissen,
+ist die Frage, was wollen wir produzieren?
+Produktionsprogramm, da geht es dahin, dass wir
+das produzieren wollen, was uns großen Deckungsbeitrag hat,
+was uns großen Gewinn bringt.
+Wofür sind die Leute bereit zu zahlen?
+Also wenn ich mir das so gerade anschaue,
+sind die Leute bereit für viel Schlott zu bezahlen.
+Aber auf der anderen Seite
+kaufen die Leute auch viel Schlott gerade ein,
+weil das so billig ist.
+Wenn Sie diese Woche zumindest mal in den Untiefen des Internets abgeschrieben haben,
+dann haben wir geguckt, was Leute bei TEMO alles kaufen.
+Da gibt es ja tausend Videos dazu.
+Und da denke ich mir auch immer, wer braucht sowas?
+Aber es ist okay, wenn wir die Rohstoffe für sowas verschmelzen wollen,
+ist eine Entscheidung von eben den Firmen.
+Dann eben, wie viel Automatisierung wollen wir haben?
+Auch das ist eine Entscheidung, die muss das Management treffen.
+Die trifft nicht nur darauf an, wie viel.
+Sondern das ist etwas, wo Management kommt, der sagt,
+der sagt, wir wollen das automatisiert haben.
+Da hängen die Stückzahlen, die Auflagengrößen dran.
+Da gehört auch Mut dazu.
+Was ist unser Vertriebsgebiet?
+Ist es Deutschland, Österreich, Schweiz?
+Ist es ganz Europa?
+Ist es weltweit?
+Und weltweit ist es ein unternehmerisches Risiko,
+weil nämlich plötzlich die Zölle hochgehen,
+weil nämlich plötzlich irgendwo
+vielleicht Vertriebsschranken hochgehen,
+die man vielleicht gar nicht berücksichtigt hat.
+Im nächsten Schritt müssen wir uns Gedanken machen,
+wer sind unsere Lieferanten?
+Wen wollen wir denn überhaupt in unserer Lieferkette drin haben?
+Immer wieder das Problem mit,
+Je weiter weg, umso mehr Risiken gehe ich natürlich ein.
+Ich habe Kulturbannieren, ich habe wieder andere, ich habe unglaublich lange Lieferwege.
+Ich meine, was in den letzten 20 Jahren passiert ist mit der vernetzten Welt,
+das war ja davor alles noch eine Katastrophe.
+Ich meine, heutzutage könnt ihr ohne Probleme jeden zu jeder Zeit in China anrufen.
+Aber vor 20 Jahren war es am Telefonat noch teuer.
+Dann müssen wir uns vorstellen, was das für ein Hype war, als Skype aufkam.
+Ich bin sehr traurig, dass Skype jetzt gestorben ist oder eingeschlafen wird.
+Bei Skype war die erste Möglichkeit, kostenlos über Grenzen zu telefonieren.
+Ich habe angefangen, im Prinzip, da bin ich mal zur Buchhaltung zitiert worden,
+weil meine Handy-Lenkung 2.000 Euro gekostet hat.
+Wir hatten da ein kleines Problem in den USA.
+Wenn Sie da ein paar Stunden lang telefonieren, war die Handy-Lenkung kostenlos.
+Heutzutage ist da keine gleichwertig.
+Da können wir ja sagen, warum hast du denn die T-Booting gemacht oder die T-Booting.
+Also das waren nochmal andere Zeiten.
+Und das ist halt auch so ein Thema, wo sitzt mein Lieferant, wie schnell ist er an der Lieferung, wo kommt das Material her?
+Das hängt alles zusammen.
+Die Entscheidung A, also für Konstruktion Plastik, bedeutet B, wir müssen Plastik einkaufen,
+bedeutet C, wir brauchen einen Plastiklieferanten, wir brauchen folgende Maschinen.
+Das hängt alles zusammen.
+Und deswegen ist es auch so schwierig, diese strategischen Entscheidungen von heute auf morgen umzukippen.
+Die Automobilbranche kann gar nicht sagen, wir machen gar keine Verbrenner mehr.
+Deswegen ist es jetzt umso schwieriger,
+weil es jetzt von Brennerfunk aus wieder
+auf der Clip geschickt wird.
+Ich glaube schon, wir haben die Clip bekommen.
+Wir haben es gar nicht mehr mitbekommen.
+Und jetzt ist genau dieser Impuls
+tatsächlich mal, die Supply Chains
+zu überlegen, wieder weg.
+Und das ist ein unglaublich
+schwieriges System. Das ist das, woran die Firmen
+scheitern. Das ist, woran Kodak
+gescheitert ist, weil nämlich Digitalfotografie
+so massiv anders ist als
+Analogfotografie. Das heißt,
+sie können 90% ihrer Maschinen
+wegschmeißen, um dann neu zu investieren.
+Na klar, es ist da der Einfacher, der einfache Verkauf.
+Und das ist die Problematik, wenn ich eben mich für ein Produkt entscheide und deswegen
+sagen die Firmen heutzutage, wir müssen umdenken, wir müssen nicht Produkte verkaufen, wir müssen
+Lösungen verkaufen.
+Und wenn wir in der Hinsicht denken, wissen wir vielleicht, was uns die Kunden wollen.
+Wenn ich das alles geklärt habe, und das ist ein kontinuierlicher Prozess, also die
+Die Firmen machen einmal im Jahr oder halbjährig Strategie-Meetings oder die gehen dann auf Klausur oder haben Sie vielleicht schon mal mitbekommen, vielleicht ist Ihr Vater in irgendeiner Ebene drin oder vielleicht haben Sie es irgendwo anders gemacht, dass man dann sagt, oh, wir machen Klausurtage.
+Wir sind jetzt für zwei Tage in irgendeinem fancy Spa-Hotel und setzen uns zusammen und überlegen uns, wie unsere Firma weitergeht.
+Also sowas, Strategie-Meetings, das machen wir auch hier in der Hochschule.
+Einmal im Jahr setzt man sich hin und überlegt sich mal ernsthaft, was brauchen wir für Studiengänge, was hat Zukunft, was nicht.
+Und das ist halt inhaltlich träge. Die haben natürlich auch keine Glaskugel.
+Und der Witz ist, da bieten wir was an, aber das wird nicht angenommen.
+Weil niemand eine Glaskugel hat und weiß, ob es in der Zukunft liegt oder nicht.
+Wer weiß, was die KB tatsächlich bringt.
+Das ist, äh, was hat vor kurzem so ein Riesenhype her?
+Ist das noch ein Ding? Das ist tot.
+Oder genauso Blockchain.
+Das war auch ein Riesenhype.
+hat jetzt zwar auch zum Teil Anwendungspunkte, aber hat den Stammgehalt überfordert, 3D-Druck.
+Herr Ferdinand, 3D-Drucker zu Hause stehen?
+Wow, wie oft benutzen Sie denn?
+Genau das.
+Sehen Sie, also ist der Halb da gewesen und wieder weg.
+Und das ist genau das Thema.
+Kali ist gerade da.
+Und auch da wird was bleiben.
+Kali ist was.
+Und vermutlich wird was anderes bleiben, als wir gerade erwarten.
+Also ich meine, ich finde es ja so teuer, kurz im Bericht zu lesen, wissen Sie, wie was?
+dass KI größtenteils genutzt wird für etwas, wofür KI gar nicht ausgelegt wurde.
+Lebensberatung.
+Da gehen Leute hin und lassen sich vom KI beraten, was sie machen sollen.
+Und jetzt hat KI zwei große Haken.
+Erstens, Durchschritt.
+KI wertet den Durchschritt aus.
+Sie sagen dann, 17 Leute in ihrer Situation haben Sexporn begangen.
+Sie sind da 34.
+Also ja, genau so ist es passiert.
+KI hat jemandem empfohlen, Sexporn zu begehen.
+Und was ist das zweite Problem von KI?
+Die Lobdemo.
+Die Lobdemo nur, die will gefällig sein.
+Das heißt, die sagt Ihnen das, was Sie hören wollen.
+Kennen Sie zufällig auf Reddit ein CSS-Folk oder ein MSS-Folk?
+Also auf Reddit gibt es so einen Kanal, da kann man dann reinstellen,
+ich habe das und das gemacht, habe ich mich falsch verhalten oder der andere?
+Und da können alle User durchziehen und sagen, falsch verhalten oder nicht falsch verhalten.
+Das kommt dann raus, ob man Arschloch ist oder nicht.
+möchte ja gefallen
+und sagt ihm, sie sind grundsätzlich nie des
+auch. Das ist das nächste
+Problem. Also
+das ist so etwas, aber jetzt haben
+wir müssen die KI-Sachen, also Chat-GPT
+und so weiter, haben wir Psychologen beauftragt,
+Standardtexte zu
+entwerfen für die meistgestellten
+Fragen, damit eben
+sensible Antworten kommen, keine
+Durchschnittsantworten. Also da sehen wir
+wieder, dass KI gar nicht
+dafür eingesetzt wird, wofür man es eigentlich
+ursprünglich gebaut hat.
+Und da müssen wir auch erstmal
+Anwendungen finden, wie wir
+eigentlich damit umgehen. Und die Frage ist,
+ob die Jobs, die wir gerade vom KI
+als bedroht sehen, auch tatsächlich bedroht
+sind oder andere. Also viele
+haben auch gesagt, ja die Sekretärin, die wird es immer
+geben. Aber letztendlich
+finde ich, ist es clever gemacht worden.
+Alle Chefs schreiben ihr E-Mails wieder selber.
+Und müssen jetzt auch ihre Reisen wieder selber
+geben.
+Also als ich angefangen habe zu arbeiten,
+Da hatte ich noch die Sekretärin. Wissen Sie, wie toll das war, wenn man gesagt hat,
+muss man mal gut und leise sein.
+Naja, also das sind so Themen, da ist die Frage, was passiert.
+Und wenn ich darüber plane, wenn ich die Vision habe, wo mein Unternehmen hin soll,
+was das Produktionsprogramm sein soll, wenn ich eine Fünf-Jahres-Planung mache
+und die breche auf eine Ein-Jahres-Planung, also eine Top-Down und nicht eine Bottom-Up-Sache,
+nicht gucken, was passiert und ich reagiere, sondern ich gestalte aktiv mit
+Schmidt. Und das ist zum Beispiel, warum Steve Jobs ein großer Visionär war. Der hat gesagt,
+im Prinzip, ich schaffe den Bedarf. Der hat ein revolutionäres Gerät entwickelt, für
+den am Anfang die wenigsten Leute einen Anwendungsfall gesehen haben. Das Smartphone. Da war ganz
+häufig kaum zu hören, was soll ich denn damit machen? Das ist ein aufgegründetes
+Handy, das kann doch schon alles. Wenn man diese Anwendungen der Apps noch nicht gesehen
+hat. Einer der häufigsten Sätze,
+die ich damals gehört habe,
+ja, willst du dafür Apps draufladen?
+Das gibt es doch gar nichts. Das klingt doch alles
+irgendwo anders her. Jetzt gucken Sie mal
+Ihre 120 Apps an. Auf welche können Sie verzichten?
+Auf welche wollen Sie verzichten?
+Was erleichtert Ihnen das Leben?
+Und das ist das Verrückte,
+dass eben
+Firmen halt auch unser Umfeld gestalten.
+Mit der Entscheidung,
+ein bestimmtes Auto einzuführen
+oder dass die Automobilgrößen
+immer größer geworden sind,
+Das sorgt auch für das Thema, dass wir natürlich immer mehr Parkplätze brauchen.
+Haben Sie zufällig gesehen, wie die Parkplätze immer wieder umgezeichnet werden?
+Jetzt waren Sie mal im Pädepark draußen mal, wir haben ja da reinigiert.
+Und da schauen Sie mal auf den Boden, da haben Sie die alten Weißmarkierungen übermalt
+und die neuen Weißmarkierungen für die größeren Autos.
+Das ist eine Entscheidung von der Automobilindustrie gewesen.
+Das ist eine Entscheidung von vor 10 Jahren gewesen, von vor 20 Jahren, wir machen die Autos größer.
+Weil das ist ja, was die Kunden wollen.
+Wollen es die Kunden wirklich oder war das so ein Henne-Ei-Problem?
+Weil die Autos immer größer wurden, haben die Leute auch die Autos die Größeren gekauft und dann und so weiter und so fort.
+Also das ist so eine Thematik, die da dahinter steckt.
+Und das ist natürlich auch, wie Firmen die Umwelt gestalten.
+Zum Beispiel halt auch so Management-Entscheidungen, dass Windows sagt, es gibt kein Windows 8 mehr und so weiter.
+Man muss alles Windows 11 machen.
+haben die natürlich auch ganz viele Geräte obsolet gemacht, müssen alle weg.
+Warn-Management-Entscheidung von Windows, damit gestalten die natürlich auch Zukunft wieder mit.
+Indem ich bestimmte Geräte nicht mehr supporte, fallen sie weg.
+Vielleicht haben sie mit dem Radio mitgekommen, es gibt keine Mittelwelle mehr.
+Es gibt zwar noch UKW, aber indem es eben keine Mittelwelle mehr gibt,
+gibt es auch hier kein einfach gebautes Radio mehr.
+Oder, ich weiß nicht, ob Sie es noch wissen, aber früher gingen alle Telefone ohne Strom.
+Da kam der Strom über dieses HAE-Kabel.
+Inzwischen, das war unglaublich praktisch,
+in jeder Art von Katastrophenfall konnten sie noch telefonieren.
+Heute sagt man ja, hat ein Handy.
+Hoffentlich ist erst geladen.
+Aber das ist so das Thema, wo sich halt Technologie ändert.
+Und wenn ich halt sage, ich schaffe eine bestimmte Technologie ab,
+die vielleicht einfach war und die vielleicht auch günstig war,
+um was Teureres zu machen.
+Ich meine, ganz toll finde ich Smart-Kühlschränke.
+Wer von Ihnen hat einen Smart-Kühlschrank?
+Und der Kühlschrank Ihnen sagt, oh nee, Sie hatten schon drei Maschen Kalari jetzt, bitte nicht mehr.
+Kommt so weit, kommt so weit.
+Ich meine, man sieht es auch sehr schön beim Thema Streaming-Dienste.
+Wir hatten, oder wir haben in Deutschland immer noch ein sehr gutes Basisprogramm A, D, Z, E, F mit Mediatheken.
+Also ich weiß nicht, ob Sie in letzter Zeit mal in die Mediatheken geschaut haben,
+aber da gibt es inzwischen eine schöne Auswahl an Filmen und Dingen.
+das auch regelmäßig durchwechseln.
+Klar ist das Angebot nicht so groß,
+wie auch ein Streaming-Dienstmeister.
+So, damit haben die Streaming-Dienstleister uns gelockt,
+vom Privatfangen auch weg,
+weil es so viel Werbung war.
+Was war das Argument von so einem Streaming-Dienstleister?
+Kommt zu uns,
+das ist die Wahlbefreiung,
+für einen geringen Kostenbeitrag.
+Und wo sind wir jetzt?
+Wieder Wahl- und Bitte-Zahl-Währung,
+um Wahlbefreiung zu bekommen, oder?
+Wissen Sie, machen Sie das?
+Das ist gestaltet in der Zukunft irgendwo.
+Wer weiß, was hinführt.
+Und das ist natürlich angegrenzt. Genauso wird es mit Chat-Shippen gehen.
+Es wird eine Basis-Variante für alle geben und für die, die in der Lage sind zu bezahlen,
+gibt es eine Deluxe-Variante, die besser trainiert wird mit einem größeren Datensatz dahinter.
+Momentan lockt Sie Chat-Shippen-Team, das Ding kostenlos zu trainieren, mit Ihren Anfragen.
+Sie gehen hin, geben was rein, im besten Fall sogar irgendwas,
+zum Beispiel mein Skript, was eigentlich ohne Wörter geschützt ist, und sagen, machen Sie nichts anderes.
+Dann trainiert sie nur gemeinsam die KI, um dann in zwei Jahren zu sagen, nö, jetzt gibt es nur noch einen Bezahlzugang.
+Das Restliche hat nur noch fünf Zugriffe im Monat und eine einfache Variante.
+Gibt es ja jetzt schon, schätze ich, zu bezahlen.
+Es wird aber noch schlimmer kommen, wenn wir hier schon drauf einschränken, weil das der nächste Schritt ist,
+marketingtechnisch gesehen.
+Weil jeder, der ein trainiertes, intelligentes Modell hat, wird sich natürlich dafür auch bezahlen lassen.
+Gut. Dann haben wir gesagt, wenn wir das wissen, können wir die nächsten Schritte machen.
+Das ist die taktische Ebene, das ist die mittelfristige Ebene. Wir müssen das also irgendwie planerisch umsetzen.
+Das heißt, wir müssen Kapazitätsplanung machen. Wie groß denken wir? Und da ist natürlich die Marktgröße ganz wichtig.
+Dann eben auch brauchen wir Arbeitspläne. Die Arbeitspläne werden abgeleitet auf Stückliste und Zeitungen.
+Und das sind eben die Vorgaben, was ist die Stückliste wieder?
+Auch hier eine I-Probleme, make or buy.
+Das eine bedingt das andere.
+Je mehr wir zukaufen, je größer unsere Baugruppen sind,
+umso weniger werden wir an Einzelteilen zukaufen müssen
+und umso weniger werden wir natürlich hier eine Arbeitsplanung machen müssen.
+Umso weniger haben wir auch eine Wertschöpfungstiefe.
+Und im letzten Schritt ist dann tatsächlich das Tagesgeschäft
+mit der Auftragsterminierung, was wir gemacht haben
+und dann auch die Steuerung
+der Tendenz. Und je besser
+die Vorarbeit da oben ist,
+umso ruhiger ist natürlich hier
+die Steuerung.
+Also hängt
+alles miteinander zusammen
+und letztendlich, was ist damit
+noch gegründet? Das ist natürlich die
+Qualitätssicherung, da gehe ich nicht genau mit
+drauf ein. Qualitätssicherung ist
+ein wesentlicher Bestandteil,
+die einfach abgleicht,
+ob das, was geplant ist, auch umgesetzt
+wird, ob das, was der Kunde bestellt wird,
+auch abgeliefert wird. Und hier
+haben wir natürlich immer das Problem zwischen Kosten,
+Qualität und Sein. Ich glaube, das kennen Sie, oder?
+Das berühmte Dreieck,
+Sie können es entweder günstig haben,
+dafür leidet ganz häufig
+die Qualität.
+Und wenn Sie es günstig
+haben, dann müssen Sie meistens
+das nehmen, was da ist.
+Sie bekommen keine Individualisierung.
+Klassiker bei McDonalds,
+wenn Sie einen Cheeseburger wollen, dann bekommen Sie
+den Cheeseburger in Aussage.
+Wenn Sie den Cheeseburger mit extra Käse wollen,
+dann müssen Sie warten, weil er nochmal neu gemacht wird.
+Sie können sagen,
+Sie wollen eine hohe
+Qualität haben, das wird aber
+in der Regel teuer.
+Sie können
+natürlich auch ganz klar
+Shop-Qualität zum Hochpreis machen.
+Auch das hat das Marketing
+inzwischen hinbekommen, uns teure
+Sachen zu verkaufen, die nicht
+qualitätstechnisch machbar sind. Das ist die Aufgabe
+des Kunden, das noch zu unterschauen.
+Also die Industrie möchte
+uns natürlich für möglichst
+wenig Geld in der Herstellung
+natürlich möglichst viel Geld
+abluchsen. Und das machen die natürlich mit
+Werbung, mit Influencern. Und wenn die
+natürlich viel Influencer bezahlen, mit 3
+Millionen Reichweite, dann
+können die natürlich auch Short-Produkte
+an uns verkaufen. Aber es ist die Aufgabe von
+uns Kunden zu schauen, ob das Produkt, das wir auch
+tatsächlich bekommen, dem Preis wert ist.
+Aber das ist das Thema.
+Also, idealerweise hängt aber
+Qualität und Kosten voneinander ab.
+Also ganz häufig ist es auch so,
+für mehr Geld bekommen Sie bessere
+Qualität.
+Zumindest sollte es so sein. Und wenn das nicht
+der Fall ist, dann kippt es auch meistens auf.
+Und dann ist natürlich, wenn Sie was sofort wollen,
+dann ist es meistens auch voll.
+Also wenn Sie das, was Sie
+definiert haben, sofort wollen, dann zahlen Sie
+irgendwo Beschleunigungskosten.
+Auch das ist etwas. Und immer wieder dieses
+Zieldreieck ist ein Austarieren, wofür ist
+der Kunde bereit zu zahlen? Das will meine
+Kundschaft. Und wenn ich bei
+Temo einkaufe, dann geht es nicht um Qualität.
+Dann geht es aber auch nicht um Zeit,
+weil die Lieferzeit ist ganz häufig
+zwei bis drei Wochen.
+Sondern da geht es um Kosten.
+Sie wollen ein Kleid für 3,50 Euro.
+Sie wollen Sneaker für 2,50 Euro.
+Oder was weiß ich.
+Die wollen die Überproduktion
+an Sie abwälzen.
+Also, das ist das Thema.
+Und wenn Sie eben halt sagen,
+Sie wollen einen Maßanzug,
+da bekommen Sie Qualität,
+das dauert halt bis auf Fertiges.
+und der Kostenteil, aber dafür haben Sie eine überragende Qualität.
+Und das ist eben dieses Thema, wo Sie immer wieder abhandeln müssen.
+So, was ist jetzt das Thema mit diesen Methoden?
+Eine Methode habe ich Ihnen viele jetzt gezeigt.
+Und falls Sie sich nur noch dunkel daran erinnern können,
+dann darf ich Sie nur noch einmal auf folgende Norm,
+auf folgende V-A-Norm hinweisen.
+Hier sind nochmal alle Normen bzw. alle Methoden drauf.
+die Sie hoffentlich in Ihrem Studium irgendwo kennenlernen.
+Eigentlich sind bei Kollegen Binz drin, zum Beispiel 8D-Report oder so weiter.
+Ein paar haben Sie bei mir gemacht.
+Allerdings geht es halt hier schnell, das ist zum Beispiel so ein klassisches Thema als Metal.
+Dass man halt sagt, okay, diese Methoden habe ich.
+Und ich muss halt als Firma entscheiden, welche Methoden wende ich an.
+Und wie in einem Werkzeugkasten, also unter einer Methode versteht man eine bestimmte Vorschrift und Regeln, die Anweisungen dafür geben, wenn eine Aufgabe oder ein Problem bei der Erachtung einer gegebenen Zielstellung zu lösen ist.
+Sie können jederzeit sich überlegen, jeden Morgen, wie ziehe ich meine Socken an. Aber irgendwann werden Sie eine Methode finden, die sagt, die funktioniert für mich.
+Oder Sie können sich überlegen, wie bügele ich ein Hemd?
+Und irgendwann werden Sie eine Methode finden, die sagen, ja, das ist meine Methode, wie
+ich ein Hemd bügele.
+Und im besten Fall haben Sie vielleicht auch mal eine Unterweisung bekommen, wie man ein
+schönes Hemd bügelt.
+Dass man als erstes mit den Kleinteilen anfängt und ganz zum Schluss die großen Flächen
+bügelt, weil die sonst nicht mehr, weil sonst vertiteln die wieder unsere Räser.
+Ich weiß, intuitiv fängt man mit den großen Flächen an und geht zu den kleinen Flächen.
+Oder?
+Wenn sie jemals Hauswirtschaftsunterricht hatten, dann landen sie im Effekt mit den kleinen Flächen an und die großen macht man ganz anders.
+Ja, sie sind auch eine andere Generation.
+In meiner Schulzeit gab es noch Hauswirtschaftslehre als Schulfach.
+Da hat man Kochen und Üben gelernt.
+Das war wichtig für Frauen und Arbeiten.
+Ne, bei mir konnte man, also ich war auf einer Realschule, Realschule für Menschen, bei uns gab es Mathe, der hat nie stattgefunden, weil man nie den Kurs vorgefunden hat.
+Also ich habe ihn eingetragen und dann war die Antwort, der findet nicht statt, den habe ich in der nächsten Schule.
+Dann gab es den Zielwirtschaftszweig, dann gab es den Sozialzweig und dann gab es den Hauswirtschaftszweig.
+Super, tolle Medien, tolle Medien.
+Nee, auf jeden Fall in der Hochwirtschaftsarbeit
+habe ich in der 7. Klasse noch eine Stunde
+gehalten, da hat man Rezepte lesen gelernt,
+kochen und bügen.
+Ganz wichtig.
+Nun gut,
+wie gesagt, irgendwo
+gibt es halt unterschiedlichste Methoden
+und man kann immer versuchen, neue Lösungen
+zu finden. Auch diese Methoden
+existieren. Und wenn Sie
+jetzt dann, ich meine, die haben noch ein bisschen
+hin, aber irgendwann machen Sie eine Abschlussarbeit.
+Wenn das klassische
+Bachelor-Arbeitsthema ist. Ich habe
+ein Problem, ich suche mir
+die passende Methode raus,
+ich mache eine Voraufnahme,
+ich wende diese Methode
+an, ich mache eine Nachaufnahme,
+mache eine kritische Reflexion,
+was super schlecht gelaufen ist,
+was ein Künstler besser machen kann und das ist
+ihr Abschlussarbeit. Mehr ist da nicht mehr hinter.
+Da ist kein
+großes
+Erfinden einer wissenschaftlichen Methode
+dahinter, sondern da geht es um das Anwenden
+Und da geht es nicht darum, dass Sie das Rad neu erfinden, sondern dass Sie halt eine Sichtung von verfügbaren Methoden machen und dann sagen, das ist die Anwendung und dann bewerte ich, wie das funktioniert.
+So, und diese Methoden, wie gesagt, das sind die Themen, die ich Ihnen besucht habe, die Sie mir angegeben haben.
+Ein Gefahr ist ein System zur Lösung technischer organisatorischer Aufgaben, das auf eine Methode basiert und die Erforderungen in den Hilfsmittel einstellen.
+Also Sie haben eine Methode, wie zum Beispiel Sie sagen, ein 8D-Report, und wenn Sie dann dazu noch das Programm haben, das Computerprogramm, das Ihnen da hilft, dann haben Sie ein Verfahren.
+Oder Sie wissen, wie man ein Flowchart zeichnet, und jetzt haben Sie noch das Programm dazu, Visio zum Beispiel, oder Ares, wie die alle heißen, dann haben Sie ein Verfahren.
+Das ist die Idee dahinter.
+Und jetzt das Wichtigste, die wichtigste Erkenntnis ist, nicht jede Methode ist für jede Verbindungsstellung geeignet.
+Ganz einfach.
+Und die Grundaufgabe ist ganz häufig zu erkennen, wo bin ich denn überhaupt?
+Viele Methoden sind für die Fließverdienung, für Massenproduktion entwickelt worden.
+Weil einfach, wenn da ein Fehler auftritt, der multipliziert sich ja vielfach.
+Deswegen sind ganz viele Methoden speziell für Fließ- und Massenverdienung gemacht worden.
+Und für die Werkstattverdienung brauche ich andere Methoden.
+Deswegen, just in time in der Werkstattverdienung, können Sie gleich vergessen.
+Funktioniert nicht.
+Genauso Fortschrittskennzahlen brauchen Sie in der Werkstattfertigung gar nicht.
+Smet können Sie theoretisch in der Werkstattfertigung machen, hängt von Ihrem Auftragsvermögen ab.
+Wenn es aber bei Ihnen eh die meiste Verlustzeit darum ist, irgendwie ein Werkstück richtig zu justieren,
+dann brauchen Sie über das Rüsten gar keine Gedanken machen.
+Das ist genauso, wenn Sie anfangen an Ihrer alten Klapperkarte zu sagen,
+oh mein Gott, ich muss das Ventil richtig einstellen, damit es vielleicht 0,01 kmh mehr rauskriegt.
+Ja, bringt halt nichts.
+Also man muss immer wieder überlegen, welche Methode gehört einfach in welche Fertigung rein.
+Also, und da sind wir halt wieder im Thema, Fertigung mit Aufladenstärke hängt halt 1 zu 1 zusammen.
+Also eine Einzelfertigung ist eine Werkstattfertigung und da ist ganz wichtig, ordentliche Terminierung.
+Wenn Sie in der Auftragsfertigung sind, bei geringen Stückzahlen,
+die mehrere Fertigungsaufträge parallel laufen haben,
+dann ist es A und O ordentliche Terminierung.
+Wenn Sie nicht ordentlich terminieren, fällt Ihnen alles nicht mehr runter.
+Ich habe jetzt in letzter Zeit, also vor ein paar Jahren,
+war ich noch in der Hausbauinfolie und da habe ich mich selbst mit Handwerker zu tun.
+Und das sieht man ganz genau, weil der Handwerker hat Terminierung im Griff und selber nicht.
+die haben ein paar Fertigungsaufträge, die parallel laufen. Und die, die es im Griff haben,
+wissen genau, wie lange der Auftrag dauert, welcher Fertigungsauftrag ist, wann muss was trocknen,
+wann muss was angeliefert werden und da funktioniert die Rückbeizahlung. Und dann gibt es eben welche,
+die funktionieren. Dann das Nächste ist, dass Sie natürlich, wenn Sie so eine Kleinseelenfertigung
+haben, eine optimierte Produktionstechnologie brauchen. Also bei Kleinseelen heißt es,
+Sie haben häufig Rüstwechsel drin und sollten eine gute Produktionsmittel haben.
+Und Sie müssen natürlich auch schauen, dass Ihre Anlagen einigermaßen ausgelastet sind.
+Bei Kleinserie heißt es, Sie haben schon eine gewisse Menge und es kommt auf den Preis an
+und dann müssen natürlich Ihre Maschinen laufen.
+Während im Werkstattbetrieb, da habe ich nicht so automatisierte Anlagen,
+Da kann ich natürlich auch mal günstige Handlagen haben, die dürfen auch mal stillstehen.
+Je mehr ich in die Serienfertigung reinkomme, in die Fließfertigung, dann muss ich natürlich schauen, wie schaut mein Work-in-Progress aus.
+Dann habe ich immer meine Fließfertigung bauteilentestigen und damit steigt mein Work-in-Progress massiv an.
+Stellen Sie sich mal vor, wie viele Autos bei BMW gerade in Fertigung sind.
+Wenn ein Auto einen Tag in der Fertigung ist und alle Minuten wird ein Auto verdämmen,
+dann haben Sie 480 Autos, die aktuell in der Fertigung hängen. Lassen Sie jedes Mal ein
+Durchschnittswert von 10.000 Euro wert sein, dann nehmen Sie mal 480 mal 10.000, dann wissen Sie den
+Warenwert, der aktuell bei BMW im Waffen hängt. Und das nur ganz konservativ geschätzt. Also da
+Da brauchen Sie eine gute Work-in-Progress-Verfolgung.
+Und wenn Sie dann zur Massenfaktorung kommen,
+da zählt dann Just-in-Time, weil da geht es um Bestände.
+Weil da haben Sie einen Materialdurchsatz.
+Da müssen Sie ein gutes Bestandsmanagement machen.
+Und dann natürlich auch Fortschrittszahlen.
+Da müssen Sie sagen, es gibt eine Taktung, wann wird was fertig.
+Da müssen Sie den Takt im Griff haben,
+weil sonst fällt jede komplette Anlieferung in sich zusammen.
+Heute wird es uns relativ einfach gemacht.
+Weil wir natürlich immer weiter in unserer technologischen Reife sind und wir haben ganz tolle ERP-Systeme.
+Ganz vorne dran, was ist das wichtigste ERP-System? SAP. Allen Fußballern bekannt unter der SAP Arena, oder?
+Also wenn Sie mal schauen, wie die Verteilung ist von ERP-Systemen, ich versuche da natürlich immer Neues, die Folien zu finden,
+Aber bei solchen Sachen, die dann tatsächlich mit der Industrie zu tun haben, ist die Industrie immer überraschend still.
+Und das ist immer so ziemlich traurig, wenn man mal anständige Daten möchte und dann keine Rede drüber.
+Aber ich habe ja vor einiger Zeit was gefunden, das wir irgendwie vorn halten.
+Und zwar die Verteilung von den ERP-Systemen im deutschsprachigen Raum.
+Und da sieht man halt, dass SAP mit 20% der Marktführer ist, dann kommt Avast und dann Microsoft.
+Allerdings gibt es noch ganz viele andere kleine Systeme, die sind da meistens sogar
+firmeneigene Entwicklungen bzw. Anpassungen, die nicht mehr mit diesen anderen ERP-Systemen zusammenpassen.
+Aber wie gesagt, SAP ist tatsächlich ein Riesenvorreiter.
+Der hat auch viel für die Standardisierung gemacht, viel für den Prozess in Richtung
+in den Firmen und ist der Marktführer dieser Fortschritte.
+Wie gesagt, 2019, falls Sie mal was Neues finden, dann dürfen Sie mir das gerne zukommen lassen.
+Ich habe damals gesehen, dass es so ein bisschen unnatürlich ist.
+Es ist immer die Frage, wie hat sich das Ganze entwickelt.
+Auch hier, die Folie haben Sie nicht.
+Ganz klar, früher war das alles Backoffice
+und heutzutage geht es halt immer weiter,
+indem man sagt, wir haben die Kleinsteserver,
+inzwischen sind wir bei diesem ganzen Cloud-Programm.
+Also das heißt, inzwischen wird nichts mehr
+irgendwie zentral gespeichert.
+Ich weiß, die Excel-Tabelle auf dem privaten Rechner
+ist irgendwie nicht tot zu küken.
+Also Excel hält die Welt zusammen
+und das ist auch ein ganz, ganz tolles Tool.
+Allerdings, ich kenne unglaublich viele Leute,
+die aus SAP die Daten dann in der Excel-Tabelle exportieren
+und dann in der Exzaterwelle weiterarbeiten, um dann diese Exzaterwelle weiter zu pflegen
+und dann in drei Monaten festzustellen, dass zwischen Ihrem Planstand und dessen aus dem System
+das Erarbeiten ist. Aber das gehört halt, glaube ich, mit dazu.
+Aber das ist so ein bisschen die Evolution von dem ERP.
+Und ursprünglich war ERP eigentlich nur da für die Mengenplanung.
+Es war MRP, das Material Resource Plan.
+Früher hat man tatsächlich MRP nur für die Stücklistenauflösung verwendet und für die Lagerverwaltung.
+Das war die ursprüngliche Kernidee vom ERP-System.
+Und SAP hat das dann immer weiterentwickelt und hat gesagt,
+wenn wir das wissen, wenn wir die Bedarfe wissen, wenn wir die Stücklisten wissen
+und wenn wir dann noch sagen, wir wissen, welche Aufträge anstehen,
+dann können wir ja sogar terminieren anfangen.
+Das war so der erste Schritt.
+und erstmal was auf eine Maschine drauf gibt und dann sogar Kapazitäten terminieren und Reihenfolge terminieren.
+Das heißt, es kam dann immer mehr dazu, weil natürlich auch die Systeme immer leistungsfähiger wurden.
+Als ich vor 20 Jahren in der Industrie angefangen habe, da war es tatsächlich so, dass man morgens angefangen hat und dann hat man gearbeitet.
+Und dann waren in der Nacht erst die Verarbeitungsläufe der Sachen, was man am Tag gearbeitet hat.
+Also da war nicht dieses Echtzeit, sondern da war das klassische Startbild auch vielleicht schon mal gehört.
+Aber kennen Sie vielleicht sogar das in einem oder anderen Format.
+So Stücklistenauflösungen waren unglaublich rechnerintensiv und die haben immer nur in der Nacht stattgefunden.
+Wenn man dann über Tags was geändert hat, musste man 24 Stunden mehr oder weniger warten,
+bis man die neue, oder über Nacht warten, bis man die neuen Daten hat.
+Das ist heutzutage natürlich alles extrem komfortabel, weil Sie einfach eine 1 zu 1 Rückmeldung von Ihrem System haben.
+Dann, wie gesagt, typische Beispiele, was sind dann alles im Finanzwesen, alles im Rechnungswesen und so weiter.
+Und diese ganze IT-Landschaft, das ist heute alles inkludiert.
+Also das heißt, Sie haben eine gemeinsame Datenbasis, da findet die ganze Produktion statt mit dem Manufacturing Execution System.
+genauso wie die Betriebsdatenverfassung, wo eben die Leute sich anmelden, abmelden,
+also ihre ganzen Termine, also ihre ganzen Arbeitszeiten werden erfasst.
+Dann haben Sie die Lagerverwaltungssysteme alle dahinter.
+Dann haben Sie die Kunden im besten Fall mit EDI angebunden.
+Dann haben Sie Ihre Bestellung mit dabei.
+Darauf haben alle Auswertungen gefahren.
+Business Intelligence Systeme, also Ihr Data Warehouse, das dann da ist,
+kann dann auswerten, wie sind unsere Vorkasszahlen, wie sind unsere Bestände und die genannte
+ganze Finanzbuchhaltung ist drin und dann haben sie vielleicht sogar noch die Logistik,
+ihre externe Logistik angestoßen, wo sie genau wissen, wo ist eigentlich bei einer
+LKW gerade unterwegs, wo ist bei einer Container. Und all das ist heute natürlich möglich,
+weil die Leistung von den Rechnern massiv gestiegen ist und bringt zum Teil auch welche
+Nicht alles, aber man ist. Und wie gesagt, Vorteil, warum SAP so erfolgreich geworden ist, ist ganz einfach, es ist international.
+Das Schöne ist, Sie können die Maske so einstellen, dass es Ihre Muttersprache ist.
+Wenn Sie halt die Daten hinterlegt haben im Feld F15 und SAP weiß, F15 ist immer die Materialnummer,
+dann steht es halt bei uns im deutschen Materialnummer dran, Engel Material Number,
+und im polnischen, keine Ahnung, was das polnische Materialnummer heißt, aber da steht halt dann das polnische da.
+Ja, das ist unglaublich praktisch,
+dass jeder mit seiner Sprache erstmal arbeiten kann.
+Dann können Sie natürlich Ihr Unternehmen damit verknüpfen.
+Sie können mehrere Unternehmen aufbauen
+und in einem SAP-System verhalten.
+Das ist die Mandantenfähigkeit.
+Und natürlich bietet SAP eine unglaubliche Anpassung.
+Dafür lassen die sich aber natürlich auch bezahlen.
+Damit verdient SAP Geld.
+SAP verdient nicht mit der einzelnen Lizenz Geld,
+sondern mit der Anpassung der Motive.
+Allerdings, wie gesagt, kostet das alles relativ viel.
+Sie brauchen das mit externem Berater,
+da brauchen Sie natürlich die Hardware und Software,
+das ist nicht mehr das Dosis-Problem.
+Da müssen Sie die Mitarbeiter schulen,
+das ist relativ teuer,
+da gibt es dann sogenannte Key-User
+und wenn Sie das dann alles haben,
+dann müssen Sie dann die Standardsoftware haben
+und im Zweifel dann noch für die Anpassungsmaßnahmen nutzen.
+Das ist natürlich eine bessere firmenübergreifende Planung.
+Alle Firmen, die tatsächlich SAP-Einführung gemacht haben,
+sagen, nach zwei Jahren, es hat was
+gebracht. Es gibt natürlich
+immer wieder die Horror-Stories, dass man an der SAP
+einführen weitergegangen ist, aber
+ja, gibt es immer. Wir haben eine
+Systemumstellung gemacht und die hat uns in die Insolvenz
+geführt. Ja, das ist ja das Thema, es ist
+ein IT-Projekt, da muss ich natürlich
+mit Sammlern schon mal rangehen und ich darf
+nicht was abstellen, was ich noch brauche, wenn ich das
+Handeln noch nicht eingeführt habe.
+Das ist ganz klar, aber da gibt es dann wirklich auch Horror-Geschichten
+und wenn eine Firma wegen
+der verkackten IT-Einführung pleite
+geht, dann hat es da woanders auch schon
+Dann haben wir, wie gesagt, eine Datenbasis, man hat alle Betriebsprozesse im Blick, das ist wieder das Schöne am SAP, dass es eben prozessgesteuert ist.
+Und da können Sie halt wirklich wunderbar die Prozessabläufe darstellen und Sie haben hier diese Durchgängigkeit, die auch die Finanzbuchhalter erwartet.
+Also der Staat verlangt ja, dass eine Bestellung mit einem Auftrag mit einer Rechnung verknüpft ist.
+Und das haben sie im SAP 1 zu 1 abgebildet.
+Und damit haben sie halt auch bessere
+Geschäftsmöglichkeiten. Das ist so im Prinzip
+das Ganze in
+dem Bereich drin.
+Evolution haben wir schon gesprochen.
+Erstmal ging es vom Material zur
+Produktion. Jetzt sind wir beim
+Enterprise-Ressource-Plan und jetzt sind wir beim
+letzten Schritt eigentlich die Integration
+des ganzen Supply Chain-Management. Also wie weit
+darf ich beim Kunden reinschauen und wie weit
+darf ich beim Lieferanten reinschauen.
+Und das ist halt der Part vor und
+nach. Weil letztendlich
+wenn ich weiß, was mein Lieferant
+auf Lager hat, brauche ich nicht mehr so viel Bestand haben.
+Wir haben einmal durchgerechnet
+mit den Beständen, erinnern Sie sich noch,
+dass einmal das Sicherheitsbestand
+zweimal niederschlägt.
+Einmal bei 2% und beim Verbraucher.
+Und das können Sie mit einem ordentlichen Supply Chain
+Management natürlich
+klar darstellen.
+Und
+das ist eben etwas, was Ihnen
+ERP bietet.
+Was ich jetzt nicht mache, ist
+die in Flowcharts wirken. Ich glaube, das haben Sie schon mal irgendwo gemacht, oder?
+Also, das sollte
+ein Grund, mit dem wir
+sagen, wir können Prozesse in Flowcharts
+darstellen. Aber ich glaube,
+diese Grafiken, das ist auch alles sehr
+selbsterklärend. Also, wenn ich Ihnen heutzutage
+so eine Grafik zeige, dann können
+Sie alle in Flowcharts lesen, oder?
+Sehr schön.
+I'm glad to understand Flowcharts.
+Presenting in Flowcharts.
+Do you understand Flowcharts?
+No. Okay, you see the diamond
+Yes? No. But you see the line
+label? No. No. Listen, I hate you.
+Okay.
+Also
+Flowcharts sind unglaublich selbsterklärend
+und es hilft halt auch,
+Prozesse besser darzustellen.
+Ich glaube, Sie alle kennen, Sie alle noch Big Bang Theory,
+Friendship-Argument,
+wie es selten versucht,
+wie Freundschaft existiert,
+in einer Prozessform
+darzustellen.
+Genau, und eine andere Methode
+ist natürlich FMEA, die Sie hoffentlich
+ich beim Kollegen Binz kennenlernen oder
+kennengelernt haben.
+Haben Sie gehört?
+Also da waren Sie auch mit dem
+Thema FMEA, wie die Möglichkeit
+Einflussanalyse in Kontakt kommen
+und das ist etwas, das ebenfalls eine
+Methodie, die wichtig in der Produktion ist,
+dass man sich einfach Gedanken macht,
+wie
+kann ich Probleme schon
+vorbeahnen und zwar in der FMEA,
+ich mache es jetzt nur ganz kurz,
+überlegt man sich erstmal, welche Fehler können
+auftreten.
+Das ist die erste Frage. Also zum Beispiel, beim Auto können die Bremsen versagen.
+Die erste Frage ist, was ist die Bedeutung davon?
+Was bedeutet das, wenn es beim Auto die Bremsen versagen?
+Das ist natürlich eine schwerwiegende Bedeutung.
+Das heißt, da kann viel passieren.
+Das Auftreten ist aber eher unwahrscheinlich.
+Deswegen wird da eine niedrige Zahl.
+Entdeckt man es, wenn es auftritt?
+Ja, genau. Jeder von uns merkt, wenn die Bremsen nicht funktionieren.
+Und so wird jedem eine Zahl von 0 bis 10 zugeordnet.
+und dann wird eine sogenannte Risikoprioritätszahl, die liegt dann irgendwo zwischen 0 und 1000.
+Und wenn die Zahl sehr hoch ist, dann muss man Maßnahmen ergreifen.
+Also genauso könnte es zum Beispiel sein, dass Sie sagen in Ihrer Produktion,
+ich habe einen Toleranzabweich.
+Was ist die Bedeutung einer Toleranzabweichung?
+Kommt das Bauteil an?
+Es kann zum Beispiel sein, dass dieses Bauteil sicherheitsrelevant ist,
+dann ist die Bedeutung einer Toleranzabweichung besonders hoch.
+Also 10 Punkte.
+Wie häufig kommt es vor? Relativ selten, weil wir hochwertige Fräswerkzeuge haben.
+Also auftreten vielleicht nur eine 2. Die Entdeckung, schwierig. Wir müssten jedes Bauteil messen.
+Das heißt, die Entdeckungswahrscheinlichkeit ist sehr gering, also eine hohe Zahl.
+10 mal 10 mal 2, dann hätten wir eine Risikofrioritätszahl von 200.
+wird, dann müsste man mit den Kunden
+abklären, ob das eine Zahl ist, die wir
+akzeptieren oder nicht. Und
+wenn wir es nicht akzeptieren, dann müssen
+wir vermeiden, wir entdecken die Maßnahmen
+definieren und damit
+reduziert sich die Qualität.
+Also sowas ist zum Beispiel eine Methode,
+die wird verwendet, um
+Qualität zu verbessern.
+Gut.
+Und wie gesagt, Sie werden auch in
+Ihrem Studium noch viele andere Mittel kennenlernen.
+Wir haben zum Beispiel Nutzwertanalysen
+gemacht, wir haben gerade CR-Methoden gemacht,
+X, Y und Z-Analyse gemacht, wir haben über 5A gesprochen, wir haben Justin Time durchgesprochen, also unzählige Methoden und Sie werden auch viele wieder vergessen.
+Ich darf Ihnen noch ein Buch neigen.
+Ich darf Ihnen noch ein Buch neigen.
+Und zwar, wenn Sie auf unsere Bibliothek gehen, dann gibt es ein Buch, das nennt sich
+Instrumente des strategischen Managements.
+Und auch dort werden Sie viele strategische Methoden kennenlernen, wie Sie bestimmte Sachen
+auswerten können.
+Also da geht es dann los mit 5S-System oder ein SWOT-Analysen oder 5-kräftige Modelle nach Quartal.
+Oder, das sind hier vor allem jetzt Marketing-Themen, Design-Thinking, dann Balance-Score-Cards, Six-Figure-Modell und solche Arten.
+Also da gibt es auch unzählige Bücher, die diese Methoden gebündelt haben, die man ansprechen kann.
+Genauso gibt es noch ein anderes Buch, aber ich glaube, das habe ich Ihnen schon vorgestellt.
+nennt sich japanische Erfolgskonzepte, Kaizen, KVP, Reproduction,
+und da sind auch ganz viele Methoden vorgestellt, wo ich eigentlich gar nicht wirklich Zeit habe,
+alle beizubringen. Aber ich habe Ihnen viele beigebracht und da kann ich Ihnen auch noch sagen.
+Da ist auch noch mal ganz viel.
+Also 6W, 7M-Checklisten, Kaizen-Workshops, dann hier, das ist dann ein HVP-Sigma, das ist der Qualitätsmanagement-Sigma,
+dann die Verschwendungen, Judas, Kennzahlen werden hier angesprochen,
+Dann Visual Management wird angeschaut, Stop-Flow-Management wird angeschaut, One-Piece-Flow, Push-and-Roll-Prinzip, Problemlösungsberichte werden angesprochen.
+Also da ist ganz viel, also Quality, Function, Performance, Ergänzung, das brauchen Sie nicht in der Realität.
+Aber das sind alles Themen, die da angesprochen werden und angetrieben werden.
+Das ist auch ein Buch, das ich Ihnen da eingeben kann.
+Das wird auch, wenn Sie Arbeit im Bereich Produktionsplanung machen.
+Da kann ich Ihnen das auch noch empfehlen.
+Das ist auch ein sehr schnelles Problem, das können Sie jetzt auch kostenlos machen.
+Meine Erfahrung ist, rund 50% der Leute in der Wirtschaftsministerie,
+die machen die Abschlussarbeit in der Kultur, die Planung und Steuerung,
+liegen einfach daran, da liegen die Aufgaben nur so rum.
+Ist einfach so.
+Also, wenn Sie nicht wissen, wo Sie Ihre Abschlussarbeit nochmal machen wollen,
+schreiben Sie die Firma in den Saal und sagen,
+ich würde gerne, dass wir in der Kultur, die Planung und Steuerung machen.
+und da finden Sie irgendjemanden, der ein Problem für Sie hat.
+Bestandsmanagement-Problem, Lagerhaltungsproblem, ein Problem mit Dünnlaufzeiten, ein Problem mit Wackelzeiten,
+irgendwie sowas, das Sie bitte terminieren.
+Da gibt es immer andere Verfahren.
+Also nur so mal als Impuls zumindest.
+Gut.
+Und damit bringe ich bei Ihnen mit dem Stoff durch.
+Also man schaut immer so drauf.
+Das sind ja dann doch schon unsere Züge, die man da so richtig geballert hat.
+Ich meine, das sind drei Spots genommen und das ist dann doch viel, was man macht.
+Ich war jetzt überraschend schnell für mich. Liegt aber daran, dass sie auch so eine kleine Gruppe waren.
+Also zum Beispiel das mit der Peace-Fertigung, das dauert normalerweise viel, viel länger,
+wenn man da 20 Leute hat und dann 3 mal hier 4 fertig, als wenn man das einfach in eine kleine Gruppe macht.
+Deswegen halte ich nämlich sehr nicht vor, dass sie so eine kleine Gruppe sind,
+sondern genießen dann einfach, dass sie rechtzeitig fertig sind.
+Wir werden am 13. dann Prüfungsvorbereitung machen.
+Mein Wunsch ist, dass Sie vorbereitet kommen.
+Okay?
+Das ist so das Thema.
+Wenn Sie keine Fragen mehr haben,
+dann lasse ich Sie heute laufen.
+Dann wünsche ich Ihnen,
+wenn Sie feiern vor Weihnachten,
+können Sie rutschen
+und hinten rutschen
+und dann sehen wir uns im neuen Jahr wieder.
+Danke schön.
+Ich wollte gerade sagen, das ist ja nur eine Viertelstunde, aber die Ruhe geht ja komplett.
+Vielen Dank.
