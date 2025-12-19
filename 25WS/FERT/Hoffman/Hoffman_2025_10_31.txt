@@ -1,0 +1,664 @@
+80, dann nur 20, aber prozentual werden die betreffenden Elemente wieder angekettet.
+Ich weiß nicht, das haben Sie hier oder?
+Ich war jetzt schon betrankt.
+Aber das Blatt haben Sie?
+Ich zeige Ihnen vorhin 37.
+Du meinst schon, oder?
+Ich finde nur das Rote hier.
+Diese Flüssig- und Erstattungskontraktion ist jetzt physikal gesehen die Ursache dafür,
+warum wir ein Volumen-Defizit sehen und die Gefahr setzen, dass ein Wohnraum entsteht.
+Da oben muss man anschauen, wo die Kühltemperatur liegt.
+Dann haben wir hier zwei Fälle zu unterscheiden, oben bei B liegt z.B. die Gießtemperatur.
+Da unten ist es mal dargestellt, Gießtemperatur, meinetwegen je nach Material, Aluminium, 700 Grad.
+Jetzt fügt die Schmelze ab und es gibt zwei Varianten.
+Hier vorne links haben wir ein reines Metall.
+Bei Abfüllung der Temperatur zieht sich das spezifische Volumen zusammen.
+zusammen. Was ist das spezifische Volumen?
+Was ist das spezifische Volumen?
+Spezifisches Genom ist der Kehrwert der Dichte, also der Platzbedarf, den ein Material besitzt.
+Dieser Platzbedarf sinkt, das Material zieht sich zusammen, fallender Temperatur.
+Dann setzt bei konstanter Temperatur vorhandene Erstarrung ein,
+wo sich das Volumen jetzt hier an der Stelle schlagartig nach unten verkleinert,
+von C nach B. Das ist diese Erschaffungskonvention.
+Warum passiert das? Was passiert da physikalisch gesehen?
+B-T-G-A-R-K-E-N
+Ach das ist ja nur ein Treibenden, T bonding ist nicht genug.
+Die Schnellte als solches ist die Schnellte, die jetzt von der Struktur her anmacht,
+D.h. die Atome werden frei angeordnet und
+es gibt keine Struktur.
+Wir haben hier die Zustandsbeschreibung für den schnellsten Zustand.
+Und wenn dann diese Erstarrung einsetzt, gehen die Atome auf Gitterplätze.
+Genauso natürlich dann mit dem Festkörper.
+Ja, wie diese Erstarrung aussieht, schauen wir uns gleich an.
+Was ist jetzt der Unterschied zu dem Diagramm rechts?
+Was ist der Unterschied? Rechts.
+Wir haben hier einen exakt bestimmbaren Erstaunungspunkt, eine reine Schmelze.
+Liegt bei Aluminium bei 670, Magnesium 660 Grad.
+Wenn eine Schmelze aber nicht als reine Komponente erstarrt, sondern in einem Intervall,
+dann gibt es hier eine Schläge, das ist die hier, die ist jetzt nicht waagrecht nach unten.
+C und B sind unterschiedlich.
+B ist ungleich C.
+Es gibt einen Beginn bei der Erstarrung bei C und die Erstarrung endet bei B.
+Es gibt ein Erstattungsintervall.
+Schauen wir wieder einmal dazu.
+Beginnende Erstattung.
+Die B- und C-Temperaturen sind unterschiedlich.
+warum die Erstattung endet.
+Auch bei C.
+Bei C, bei D ist sozusagen das Erstattungsende.
+Dann die Funktion.
+Die beiden Temperaturen sind unterschiedlich.
+C und B, ja.
+Bei der höheren Temperatur C beginnt die Erstarrung, bei C beginnt sie und bei B endet sie.
+Und dabei entsteht eine Volumenkontraktion.
+Das Bauteil wird bei höheren Temperaturen entfernt,
+als bei Haupttemperatur, weshalb ein sogenanntes Schwindmaß berücksichtigt werden muss.
+Warum macht man da den Unterschied, oder ist das von der Luft?
+Das kommt vom Material.
+Das Gusseisen hat eine Erschärfung in der Wald, hat keine scharfe Temperatur.
+Aluminium, Magnesium, die haben eine scharfe Temperatur und das ist einfach so zu registrieren.
+Das ist halt von der Physik her jeweils.
+Das hängt auch mit der Zusammensetzung zusammen.
+Es gibt Materialien, wenn Sie so, ich weiß nicht,
+Müssten Sie bei den Metallen gemacht haben.
+Liebe Chris, den sollte man schon mal gehört haben.
+Eutecticum?
+Sagt Ihnen das was?
+Vergessen?
+Ganz kurz noch mal zur Erinnerung.
+Wenn Sie
+zwei Materialien haben
+Und man kann sich hier diese Zusammensetzungen anschauen.
+Das ist die Temperatur.
+Das ist Temperatur.
+Und das ist Konzentration.
+Das ist Schmelze.
+Wenn die Schmelze abgekühlt wird und Sie genau diese Mischung haben, dann haben Sie einen Erstarrungspunkt.
+Das Material kühlt ab nach unten und da ist es fest.
+Wenn Sie eine andere Zusammensetzung haben, das ist Komponente A, das ist Komponente B.
+Wenn Sie einen Überschuss oder einen Unterschuss, einen Komponenten mit B haben,
+bei diesem Mischungsverhältnis, zum Beispiel 2% irgendwas,
+wird genau bei dieser Kombination immer nur eine Temperatur da sein,
+wo sie schmelzen und wo sie kristallisieren.
+In der Phase haben Sie Alpha und da zum Beispiel Beta-Kristalle.
+Das Ding kühlt ab, geht jetzt hier drüber, es hat hier ein Beginn der Erstarbung und hier das Ende der Erstarbung.
+In dieser Zwischenphase haben Sie irgendwelche Kristalle und Schmelze.
+Und da unten haben Sie wieder den Festkörper.
+Und das kühlt entlang dieser Linie ab.
+Das hier generiert Beta-Kristalle, beginnt hier, endet hier, ist da.
+Und das hier ist ein Eutectikum.
+Das ist eine Schmelzemischung, die bei exakt einer Temperatur erstarrt.
+Eutectikum.
+Das erstarrt wie eine reine Schmelze, obwohl es eine Mischung ist.
+Wenn wir jetzt z.B. zu viel Kohlenstoff haben, dann kann der nicht mehr komplett ins Gitter
+eingebaut werden, dann gibt es auch so einen Erstarrungsintervall.
+Nur jetzt mal von der Theorie, das ist ein sogenanntes Eutectico.
+Ich habe da noch eine Frage, wenn man zum Beispiel 1,5% Logos
+entstehen würde, gibt es dann da Unterschiede zwischen der Festigkeit und der Macht?
+Ja, es entstehen zum Beispiel andere Kristallarten. Das eine, was jetzt mit 1,5% erstarrt, ist
+ein Alpha-Kristall. Das andere, was mit der höheren Konzentration ist, ist ein Beta-Kristall.
+Die bleiben auch erhalten. Dann haben Sie unterschiedliche Strukturen und unterschiedliche
+Eigenschaften. Ja, wenn man so eine exakte Mischung hat, wie dieses Eutektikum, haben Sie eine scharfe
+Erstarrungstemperatur, nur eine, und das andere erstarrt im Intervall. Hier ist bei der
+Böhrentemperatur der Beginn und hier ist das Ende der Erstarrung. Ja? Hier ist der Beginn, hier ist das Ende der Erstarrung.
+Er weiß nicht, was das für Werte bedeutet.
+Die X-Achse ist die Konzentration einer zweiten Komponente.
+Zum Beispiel Eisen-Kohlenstoff-Diagramm.
+Wenn rechts der Kohlenstoff steigt, gibt es sowas auch beim Eisen.
+eine exakte Konzentration, wo der Kohlenstoff in das Gitter eingebaut wird, unterhalb weniger,
+oberhalb mehr. Wenn wir oberhalb uns dieses Punkt befinden, gibt es zum Beispiel andere
+Kristalle, Alpha und Beta. Und dieses Eutectikum ist genau die Konzentration, wo es nur eine
+Erstarrungstemperatur gibt. Der beginnt hier, bei der Temperatur, der endet an der Temperatur
+und hat deshalb einen Erstarrungsintervall und dann sieht der Volumensprung aus, so wie
+hier bei C, das ist ein Erstarrungsintervall. Ja? Okay? Das ist nur ein Beispiel, das ist
+Und je nachdem, wie Sie die Schmelze zusammensetzen, wie viel Kohlenstoff Sie drin haben, ergeben
+sich dann, und ob Sie eine Schmelzebehandlung machen, Gusseisen mit Lamellengraphit oder
+Kugelgraphit.
+Wir haben gesagt, das Gusseisen, das hat eine niedrige Schwindung, dieses Gesamtvolumendefizit
+ist auch sehr gering.
+Das gesamte Volumengewicht ergibt sich hier bei Raumtemperatur.
+Ich entforme nicht bei Raumtemperatur. Warum?
+Dauert es zu lang?
+Wenn meine Schmelze komplett abkühlt, die zieht sich ja immer mehr noch zusammen,
+dann schrumpft die Schmelze auf die Form.
+Wenn ich eine Metallform habe, eine Coquille,
+kann das sein, dass die so fest aufschrumpft, dass ich keine mehr runterkriege.
+Deshalb entformt man bei höheren Temperaturen, meinetwegen hier, machen wir das noch, machen
+Machen wir noch ein Beispiel, auf dem linken Bild.
+Ja.
+Entformen.
+Nicht bis Raumtemperatur warten, sonst schwindet das Bauteil auf die Form auf.
+Gut, wenn man sich das jetzt als Funktion der Zeit anschaut, hier zum Beispiel Material Schmelzpunkt 660 Grad,
+Dann haben wir hier oben die Gießtemperatur, 750 Grad, jetzt kühlt die Schmelze ab, irgendwann
+setzt Erstarrung ein, dann bleibt die Temperatur konstant eine Zeit lang, hier ist der Zwischenzustand,
+Erstarrung beginnt, Erstarrung endet.
+Zwischendrin bleibt die Temperatur konstant.
+Warum?
+Wie zum Beispiel eine alte Wand.
+Normalerweise müsste das Bauteil ja jetzt kälter werden.
+Wer nimmt die Wand, die Wärme auf?
+Denn die füllen die Wärme weg.
+Ich sage mal, wenn Sie z.B. ein Werkzeug haben, das aktiv gekühlt ist, füllen sich die Wärme
+weg.
+Dann müsste das ja kälter werden.
+Aber mit der einsetzenden Erstarrung gibt es eine Erstarrungs- oder Kristallisationswärme,
+die abgegeben wird.
+Die ist exoterisch.
+Die führt jetzt dazu, dass diese Schmelze erstarrt und dabei wärmefrei wird.
+Durch die Erstarrung wird Wärme frei, deshalb bleibt die Temperatur konstant, bis die Erstarrung
+fertig ist.
+Bei Theta-11-5, dann fällt die Temperatur weiter ab, bis die Erstarrung beendet ist.
+Das ist ein Exothermaprozess.
+Diese Erstarrungs- oder Kristallisationswärme ist exotherm, wird Wärme frei, deshalb bleibt
+an dem Punkt, wo die Kristallisation stattfindet, die Temperatur konstant.
+Ja, kann man sich vorstellen?
+Umgekehrt, wenn Sie eine Probe erwärmen, was müssen Sie tun, um das Kristallgitter aufzulösen?
+Was ist zu tun, um ein Kristall zu schmelzen?
+Sie brauchen eine zusätzliche Wärme.
+Ich zeige Ihnen das gleich im Diagramm, da werden Sie das sehen.
+Es ist eine bestimmte Wärme erforderlich, um den Zustand Festkörper zur Schmelze zu
+erzeugen.
+Das ist Ihre Schmelzwärme.
+Diese Schmelzwärme mit dem umgekehrten Prozess bei der Abkühlung frei, führt dazu, dass
+die Temperatur eine Zeit lang konstant bleibt, während der Erstarrung, während der Erstarrung.
+Ist das Bauteil fest, wird die Wärme weiter abgeführt und die Temperatur fällt.
+Dieses Exotherm heißt, die Wärme wird frei.
+Fragen dazu?
+Hier oben ist Theta A.
+Das ist die Temperatur oberhalb der Raumtemperatur, Theta R.
+Täter A heißt auspacken.
+Nochmal V, das spezifische Volumen V, damit Sie es noch mal haben zu dem Diagramm auf der vorliegenden Seite,
+das spezifische Volumen klein v ist 1 durch ro, ja, das ist der Kehrwert der Dichte.
+Das ist sozusagen der Platzbedarf, den meine Moleküle haben, wenn die in die Gitterstruktur
+Und eben senkt dieser Platzgedanke.
+Das Eisen hat eine Volumenreduktion, FE,
+Eisen, minus 4% Platzbedarf bei Erstarrung, das sind diese Volumenkontraktionen.
+Das Aluminium hat minus 6%, um 6% zieht sich das Volumen zusammen.
+Wir müssen uns Gedanken machen, wo wir diese 6% Volumen herbekommen, die während der Erschlachung
+ablaufen.
+Und da sieht man jetzt, Kupfer zum Beispiel macht auch minus 4%, das reine Eisen ist es
+jetzt hier.
+Bei dem Graubuss, und deshalb lässt sich das gut gießen, beträgt dieses Volumendefizit
+in etwa minus drei Prozent.
+Deshalb ist das gut gießbar, relativ wenig Schwindung hat, was hier aufgrund von Erstarrungen
+Schreibt hier nochmal dazu, da haben Sie es auch nochmal erstarren, so ein Kristallisationswärmer
+Es wird frei, die Schatten gehen raus.
+Das Ganze nennen wir exotherm.
+Das heißt, die Temperatur bleibt während des Erstarrungsprozesses konstant.
+Jetzt das Ganze hier für ein unter-eutektisches Gusseisen, das war der Punkt da, das ist das
+Eutektikum.
+Unter-Eutektisch heißt, es gibt ein Erstarrungsintervall.
+Über-Eutektisch, es gibt auch einen Erstarrungsintervall.
+Das ist dieses Eutektikum, wo eine Konzentration vorhanden ist,
+wo nur eine reine Schmelze bei einer bestimmten Temperatur erstarrt.
+Hier sieht man das jetzt mit dem Erstarrungsintervall.
+Theta L z.B. beträgt bei diesem unteren tektischen Brusteisen 1270°
+und das Ende bei 1200°.
+Das heißt, das Erstarrungsintervall beträgt 70°.
+Bei 1270 beginnt es, bei 1200 ist es beendet.
+Aber ich habe auch hier dann, da an dem Punkt,
+Wenn dieses Theta E erreicht ist, dann eine gleichbleibende Temperatur bis T3, bis die
+Erstachung abgeschlossen ist, weil diese Kristallisationswärme frei wird.
+Abkühlen mit Kristallisationswärme frei, die muss sich abführen.
+Das ist beispielsweise auch bei den Kunststoffen so.
+Kunststoffe, die kristallisieren, geben eine zusätzliche Wärme ab.
+Andere, die am Ort erstarren, haben das nicht, weil die Kristallisationswärme da nicht da ist.
+Und auch diese Schmelzwärme ist nicht benötigt.
+Die lassen sich einfacher verarbeiten.
+Okay, Erstarrungsintervall durchlaufen, Temperatur bleibt konstant,
+Erstarrung ist abgeschlossen, Bauteil kühlt weiter ab, ist im Grunde genommen fest, kühlt weiter ab, bis diese Auspacktemperatur erreicht ist.
+Jetzt holen wir das aus der Form raus.
+Was passiert mit dem Bauteil jetzt an der Stelle, wenn Sie das mit 600 Grad auspacken oder das Aluminium bei 300 Grad?
+Das zieht sich weiter zusammen, es kühlt ja weiter ab, deshalb verringert es seine Maße.
+Letzte Woche habe ich einen Film gezeigt, da hat er gesagt, der Herr von der Eisengießerei,
+wir machen die Formen 1% größer, um die Schwindung zu berücksichtigen.
+Das ist genau der Grund.
+Ich nehme ein heißes Bauteil, forme es raus, es kühlt sich frei ab, oder kühlt frei ab,
+füllt weiter ab und zieht sich weiter zusammen.
+Deshalb brauchen wir größere Formen.
+Die Form ist größer als das Bauteil.
+Das haben wir daraus gelernt, weil wir bei höheren Temperaturen auspacken.
+Und das ist eine Frage dessen, wie groß die thermische Längenausdehnung meines Materiales ist.
+Die Festkörperkontraktion, die stattfindet bei Abkühlung, ergibt sich aus dem thermischen Ausdehnungskoeffizient.
+1 durch L0, das ist Alpha, mal Delta L durch Delta T.
+Angabe in Eins pro Kelvin.
+Form ist größer als das Bauteil.
+Dann schauen Sie bitte, in der Tabelle sieht man jetzt, wie viel man die Form größer
+machen muss als das Bauteil selbst.
+Wenn ich 1% Schwindung habe und das Bauteil soll eine Länge von 100 mm haben und es kann
+freischwinden. Nehmen wir L-Bauteil, 100 Millimeter, dann habe ich beim L-Form 1% drauf, 101 Millimeter.
+1 Prozent.
+Da oben ist jetzt noch eine Definition.
+Schwindmaß.
+Bei der Auslegung muss jetzt
+dieses Maß, dieses lineare
+Schwindmaß in Prozent quasi
+der Form aufgeschlagen
+werden. Stahlguss 1,5 bis 2,5 Prozent. Das ist ein Indikator dafür, dass sich dieser Stahl noch
+stark zusammenzieht. Und wenn er sich stark zusammenzieht, dann gibt es immer Probleme.
+Dann schweißen genauso. Wenn Sie eine Schweißnaht haben, die schnell abkühlt, draußen ist was
+Festes gibt Spannung. Je höher das Schwindmaß, desto größer oder schwieriger ist ein Bauteil
+zu fertigen auf Maß. Wir sind immer nur Endkontur nahe. Und das lineare Schwindmaß hängt auch von
+Von der Form ab, schwingt man, ist auch eine Funktion der Form, der Geometrie, werden
+wir gleich sehen, der eingesetzten Materialien.
+für den Guss der eingesetzten Materialien der Form.
+Ja, das Materialien, das Perfum, das Materialien, das, ja, ja, aber die Rest, die ersten Werte.
+Geometrie.
+Geometrie.
+Geometrie.
+Kommen wir gleich dazu.
+Stahlguss 1,5 bis 2,5 %,
+Akina Procille, das ist eine Metallform. Procille kommt aus dem Französischen und heißt Halbschale oder Schale.
+Zwei Schalen, Um- und Unterform, wenn man sie zusammensteckt. Das ist aus Metall.
+Temperwurst 0,0 bis 1,0, beim Brusteisen hat er gesagt so um 1%, Aluminiumlegierung mit 1,5 bis 2%.
+Da unten noch weitere Legierungen, jetzt bitte mal schauen.
+Wenn ich den Sand habe und habe jetzt hier nur Aluminium-Silizium-Dehierung, hat der
+ungefähr eine Schwindung von 0,9 bis 1,1 Prozent.
+Das ist das Aufmaß, was ich zusätzlich drauf mache.
+Das fällt größer aus, als wenn ich eine Kokille habe.
+Warum?
+Warum ist bei einer Kokille aus Metall gegenüber einem Sandabguss das Aufmaß kleiner?
+Vielleicht weil bei Sand die Wärme schneller abgefühlt wird?
+Eher schlechter?
+Bei der Eisenform geht das schneller, der Sand ist ein sehr schlechter Wärmeleiter, der isoliert ist, da ist teilweise auch Luft mit drin.
+Der Grund ist der, wie sieht es mit dem Verformungswiderstand aus?
+Was lässt sich denn leichter verformen?
+Der Sand oder der Stahl?
+Also eher der Sand.
+Der Sand, wenn jedes Bauteil sich zusammenzieht, macht weniger Widerstand.
+Weil er sich leichter verformen lässt.
+Eine Metallform ist stabil.
+Deshalb müssen Sie bei einer Metallform ein kleineres Übermaß machen, weil die Schwindung kleiner ausfällt.
+Es ist eine Wechselwirkung zwischen der Form und dem abkühlenden Bauteil.
+Wenn Sie eine Sandform haben, die lässt sich leichter zusammendrücken.
+Weshalb die Werte hier auf der linken Seite, wenn Sie sich das anschauen, sind die überall größer.
+Bei der Sandform müssen Sie ein größeres Aufmaß machen, weil die kaum Widerstand bietet.
+bietet. Wissen Sie, wie die Römer Steine aus dem Steinbruch geholt haben? Die hatten ja keinen
+Sprengstoff. Die haben Löcher gebohrt, die haben Holz reingesteckt und haben das Holz mit Wasser
+betröpfelt. Das ist dann die Quollen und dieses quellende Holz hat genug Kraft gemacht, um den
+Stein zu sprengen. So ähnlich ist es hier. Das Bauteil kühlt ab und die Form bietet einen
+Widerstand gegen dieses Abkühlen. Dieser Widerstand hängt vom Material ab. Beim Truppus wird die
+Schmelze mit Druck in die Form hineingedrückt und die Nachspeisung wird damit gemacht. Deshalb ist
+Das ist das Maß dort, das Aufmaß, nochmals Irdina.
+Beim Sand ist die Schwingung größer als bei einer metallen Form.
+Man kann mal jetzt aus dieser Tabelle herauslegen.
+Deshalb muss die Sandform größer gemacht werden als eine Metallform.
+Immer eine Frage der Wechselwirkung zwischen der sich abkühlenden Bauteile und der Form.
+Haben Sie das soweit jetzt? Alles was im Grunde ist?
+Ja?
+Nächstes Bild. Das hier.
+Die Schwindung hängt auch von der Geometrie der Form ab.
+Sie erzeugen das Bauteil. Ja?
+Dieses Bauteil kann sich in dieser Richtung und auch in der Richtung frei zusammenziehen.
+Es ist nicht behindert in seiner Schwindung.
+Sagen wir mal, unser Grauguss mit seiner 3% Volumenverkleinerung während der Erstattung,
+Haben wir gesagt, 1% Schwindung beim Eisenguss heißt, das Bauteil, das nachher 100 mm haben soll,
+braucht eine Form, die eine Länge von 101 mm hat.
+Die haben Zollstöcke in der Gießerei, um das nicht jedes Mal ausrechnen zu müssen.
+Bei ihrer Maßhaltigkeit ist das Maß mit 100 angegeben, die messen aber, der reale Zollstock
+ist 1% länger.
+Die machen alle Maße, für den Zollstock, der 1mm länger ist, um das nicht immer ausrechnen
+zu müssen.
+Das heißt was, Geometrie Nummer 1, 100% Schwindung entspricht einem Prozent, entspricht einem
+Prozent.
+Welches Maß für diese Form 1, L, ist einzugeben, in der Richtung?
+Welches Maß muss ich da reingeben?
+Ich habe die 101 mm als Länge für L, weil das in dieser Richtung frei schwinden kann.
+Es gibt keine Schwindungsbehinderung.
+Übrigens in der Richtung genauso, dicken Maß.
+Da ist es nur nicht so auffällig.
+Bei dem anderen fällt es auf, weil es ein relativ größeres Maß ist.
+Diese zweite Form, die Kugel da.
+Sie können das ja in Ihre Grafik damit reinschreiben.
+Ich will da jetzt nicht in der Präsentation rummachen.
+Wir haben hier diesen Knochen.
+Der ist nicht schlecht gezeichnet.
+Der hat jetzt 70% Schwingung.
+Gegenüber den 100% an der Stelle.
+Was heißt das?
+Wie groß ist das Aufmaß?
+Wie groß ist das Aufmaß?
+Hier gibt es jetzt Flächen.
+Schauen Sie mal, quasi das, was diesem Zusammenziehen entgegensteht, das hier, das hier, diese Flächen
+stehen dem Zusammenziehen im Weg und verhindern, dass sich das Freie zusammenzieht, ja.
+Das Aufmaß ist jetzt nicht mehr der Millimeter, die 100% Schwindung, sondern, wenn ich das
+jetzt sage, 70%, 100,7, genau, 100,7 Millimeter wird das jetzt gemacht.
+Ist die Geometrie eine andere, gibt es eine andere Schwindung, ist die Schwindungsbehinderung
+aufgrund der Geometrie eine andere, das andere sind 50%, dann haben Sie schon richtig gesehen,
+Dann liegt das Maß bei 100,5 Millimeter.
+Wenn Sie den ganz scharfen Übergang haben und 40 Prozent haben, bei den 40 Prozent sind es dann 100,4 Millimeter.
+Bei der Geometrie ist es so.
+Diese Flächen hier, da besteht ja der Kontakt zwischen Form und Bauteil, wo die Form verhindert,
+dass das Bauteil sich zusammenzieht.
+So, und wenn Sie das hier...
+Ja, hier steht der Begriff für
+Industrie-Hinderung hängt von der Geometrie ab, vom Werkstoff, des Materiales das gegossen
+wird, von dem Material der Form und von der Geometrie.
+Deshalb ist es relativ schwierig ein dreidimensionales Gebilde bezüglich seiner Geometrie und wie
+Wie schwindet es hervor zu sagen, ja?
+Fragen.
+Fragen.
+Gibt es immer Schwingungen, kann man so sagen, oder gibt es da noch irgendwelche hier?
+Man nennt das hier, wo hier jetzt steht, Volumendefizit, dieses Maß, je größer das ist, desto größer
+ist die Gefahr, dass Lücker entstehen.
+Das sind hier bei Eisen 4%, Aluminium 6%, Grauguss 3% Schwindung, Erstarrungsvolumenverkleinerung.
+Wenn Sie da noch hinschreiben bei diesem Volumendefizit, das nennt man in der Praxis Volumendefizit,
+auch Lunkerung. Wie größer dieses Volumen-Defizit ist, je nach Material, hier sieht das ja aus,
+als wenn das alles gleich wäre, bei dem einen sind das 3%, bei dem anderen 6%, bei dem anderen
+8%. Je mehr Sie da haben, desto mehr Probleme haben Sie im Verarbeitungsprozess. Sie müssen
+dieses Volumen ausgleichen. Und das macht man technisch gesehen durch diese sogenannten
+Speiser, die oben auf das Bauteil draufgesetzt werden. Da fließt Schmelze rein. Das Bauteil
+erstarrt von außen nach innen und in der Mitte läuft Schmelze nach. Man kann diese
+Volumenschwingung ausgleichen, damit wir keine Lunker kriegen. Je höher das Volumendefizit,
+desto größer ist die Gefahr, dass Lunker gebildet werden. Das nennt man auch Lunkerung.
+Gusseisen ist viel besser als Stahl, deshalb wird Stahl nicht gegossen, weil er in Gießen
+zu viele Probleme verursacht.
+Der reißt, der hat Spannungen, der hat einen Bauteilverzug.
+Und alle Materialien kühlen typischerweise unter Abkühlung ab und ziehen sich zusammen.
+Es gibt Materialien, die vergrößern den Volumen.
+Zinitium zum Beispiel gibt es auch.
+Aber typische Gussmaterialien ziehen sich zusammen und deshalb werden die Formen immer größer gemacht als das Bauteil selbst.
+Hier, das war diese Einprozent-Stimme.
+Was sagt uns jetzt das?
+Das ist die Energie, die ich brauche, um ein Material in den Schmelzezustand zu führen.
+Und hier sieht man die Schmelzwärme bei der Erwärmung mit Magnesium.
+Schmelztemperatur 660 Grad.
+Wir müssen die Wärme zuführen, dann beginnt das Schmelzen.
+und das ist die Schmelzwärme, die ich brauche, dieses Delta HS.
+Wenn Sie jetzt eine Aluminiumschmelze herstellen, hat die 670 Grad,
+aber der Energiebetrag pro Tonne, die Sie haben, um diese Schmelze herzurichten,
+beträgt 320 Kilowattstunden pro Tonne.
+Um Gusseisen herzustellen, liegt hier die Schmelztemperatur,
+bei knapp 1200 Grad, brauche ich diese Schmelzwärme, die ist fast genauso hoch wie die gesamte
+Wärme, die ich brauche, um das Eisen auf die Temperatur zu bringen.
+Und überall dort, wo diese Senkrechte jetzt ist, das ist der Betrag an Schmelzwärme,
+den man braucht, um eine Probe in den Schmelzezustand zu bringen.
+Dieses Delta-HS ist nur irgendwie beschissen verrutscht, sorry.
+Das müssen Sie mal korrigieren.
+Das ist die Schmelzladen.
+Sie ist von Material zu Material unterschiedlich und je nachdem, was das Material von Wärme
+innehat, brauchen sie dann auch unterschiedliche Schmelzenergie, um das Material in den Schmelzenzustand
+zu versetzen.
+Aluminium denkt man, naja, 670 Grad, niedrige Schmelztemperatur, brauche ich weniger Wärme,
+ist mit Lichten der Fall.
+Die Energie, die gebraucht wird, ist eigentlich genauso hoch, um Gusseisen herzustellen.
+Hier, die Kristallisation der Schmelze beginnt an sogenannten Kristallisationszentren, Keimen.
+Atome der Schmelze lagern sich bei T, kleiner TS, an diese Keime an.
+Das TS ist immer diese Markrechnung hier.
+Da haben wir verschiedene Kupfer, Messing, Silber, Gold, Platin, hier sind diese Schmelztemperaturen
+immer so als senkrechtlicher drin und die erforderliche Schmelzwärme kann man bei
+wie SELTA-HS beispielhaft gezeigt, ablesen.
+Schmelze ist amorph, Atome sind beweglich,
+Schmelze kühlt ab, Atome gehen auf Gitterplätze,
+Wärme wird frei, Wärme muss abgeführt werden,
+dann bleibt die Temperatur eine Zeit lang konstant,
+bis alle Atome auf dem Gitterplatz sind, dann kühlt der Festkörper weiter ab, zieht sich
+zusammen, schwindet auf die Form und dann müssen wir gucken, ob unser Bauteil maßhaltig ist.
+Und diese Prognose bezüglich Abkühlung, ob die einsetzt, ob das Material diese Maßhaltigkeit besitzt.
+Haben Sie das, was da in Rot steht?
+Danke Jordan!
+Voraussetzung, dass eine Schmelze erstarrt, ist eine sogenannte Unterkühlung.
+Wenn Sie die Schmelze oberhalb der Kristallisationstemperatur halten, passiert nichts.
+Sie müssen die Schmelze unter die Kristallisationstemperatur bringen.
+Und dann setzt eine stabile Keimbildung ein, das läuft folgendermaßen, es gibt zwei Komponenten,
+einmal der Oberfläche und dann der Volumeterm, die dafür verantwortlich sind, dass die sogenannte
+freie Enthalpie, dieses Delta G, aufgetragen wird.
+Sisyphus, kennen Sie alle?
+Die Kugel über den Berg hochgeschoben, irgendwann hat er keine Energie und die Kugel ist zurückgerollt.
+So passiert das hier mit der Keimbildung.
+Sie bringen den Keim, der durch Unterkühlung gebildet wird, um eine bestimmte Größe.
+Diese gesamte Enthalpie, diese Wärme hier, diese Aktivierungsenergie, diese Enthalpie,
+die müssen Sie der Schmelze entziehen, damit ein stabiler Keim gebildet wird.
+Der Status, in dem ein Keim nicht stabil ist, nennt man Embryo.
+Wenn Sie das nur bis hierhin treiben, weil Sie zu wenig Wärme entziehen, zerfällt der
+Keim wieder, geht kaputt, gibt keine Keimbildung.
+Wenn Sie ausreichend Wärme der Schmelze entziehen durch Unterkühlung, dann setzt Keimbildung
+ein.
+Der Status des Embryos wird überfahren und es entstehen stabile Keime.
+Und wenn ein Keim stabil ist, wächst er weiter.
+Um dieses Zentrum herum beginnt dann die Kristallisation zu wachsen.
+In alle Raumrichtungen.
+Und haben Sie alle mal so einen Taschenwärmer gehabt?
+Es gibt so Kunststofffolie, zugeschweißt, innen drin ist wie so ein Gel, das müssen
+Sie immer wieder erwärmen, um es aufzuschmelzen.
+Wenn Sie das in der Tasche drin haben, ist da so ein Metall drin, das Metall knicken
+Sie und dann entsteht diese Kristallisation.
+Es verliert seine Transparenz, die es ursprünglich hatte, das Gel wird fest und bei dieser Erstarrung
+wird Wärme frei.
+Und ihr macht die Hände warm, das ist Kristallisation.
+Und wir machen das genauso, wir kommen jetzt aus der heißen Schmelze, kühlen ab, und
+wenn ein unterkritischer Keim entsteht, der diese kritische Größe, dieser starke Stern,
+das hier, nicht erreicht, wenn er nur so groß bleibt, dann zerfällt er wieder.
+Erreicht er die kritische Keimgröße, dann ist er ein stabiler Keim und um diesen Keim
+herum beginnt dann das Kristallwachstum.
+Diese Unterkühlung, sagt man auch, schafft erst diese Dingung, dass stabile Keime wachsen.
+Das ist eine sogenannte Aktivierungsenergie, die ich aufbringen muss, um diese Keimwürdung
+zu intensivieren durch Unterkühlung der Schmelze.
+Wenn ich die nicht aufbringe, setzt keine Kristallinierung ein.
+Zur Erinnerung, wenn wir vorhin das Diagramm gesehen haben,
+das Schmelzen ist immer endotherm.
+Ich muss zusätzliche Wärme der Probe geben, damit die aufgeschmolzen werden kann.
+Die Kristallisation, das Abkühlen ist ein exothermer Prozess,
+wo eine Kristallisationswärme frei wird.
+Man kann das immer schlecht bei den Metallen zeigen, weil die dann so schön rot blühen.
+schönen roten Blüten bei den Kunststoffen in der Schmelze,
+das wunderbar,
+Ich wünsche Ihnen alles Gute, ihr Zeugen.
+Was wir jetzt hier haben, das ist ein kleines Filmchen, Sie haben zwei gekreuzte Polarisatoren
+in einem Lichtmikroskop und Sie schauen sich jetzt an, wie zeitlich die Kristallisation
+abläuft.
+Hier wird die Schmelze...
+Hier eine homogene Schmelze von Polypropylen im Heiztisch bei Lange.
+Da sehen Sie jetzt, das ist ein Keim, der jetzt stabil ist.
+Und in diesem Keim herum wachsen jetzt die Kristallstrukturen.
+Das war ein Grundstoff, da gibt es dann jetzt so Korngrenzen.
+Und der Durchmesser des gewachsenen Korns ist mit dafür verantwortlich, wie die Eigenschaften sind.
+Das war eine langsame Abkühlung, da gab es jetzt vier Keime auf unserer Fläche.
+Das gleiche Material wird jetzt unter einer schnellen Abkühlung kristallisiert.
+Und dann sieht man so gleich, es gibt viel mehr Keime.
+Wir haben jetzt eins, zwei, drei, vier, fünf, sechs Keime, die stabil sind.
+Je schneller ich abkühle, desto mehr Keime gibt es.
+Das heißt, die Abkühlrate ist dafür verantwortlich, ob es viel oder wenig Keime gibt.
+Schauen Sie mal bitte.
+Hier ist ja noch Schmelze.
+Da ist auch noch Schmelze.
+Hier entsteht sogar ein Riss in der Probe,
+weil diese Volumenverkleinerung, die man hat, nicht ausgeglichen wird.
+Normalerweise macht man das mit Druck oder mit nachfließender Schmelze.
+Hier wird sie nicht ausgeglichen, hier gibt es Risse.
+Da oben sieht man, das wächst da jetzt sehr langsam zusammen.
+Es gibt jetzt bei schnellerer Abkühlung ein feineres Gefüge,
+weil es mehr Kristalle im Boden hat.
+Das kommt dann jetzt gleich im nächsten Diagramm.
+Der Grad der Unterkühlung und die damit der Schmelze entzogene Aktivierungsenergie durch
+Unterkühlung der Schmelze bestimmt, wie viele Keime gebildet werden, die stabil sind.
+Wenn ich eine Schmelze stark unterkühle, gibt es mehr Keime, die gebildet werden.
+Und das ist jetzt in diesem Bild dargestellt.
+Die Keimzahl dieses NKZ, also jetzt bitte nicht den Pfeil da falsch korrelieren, die
+Anzahl der gebildeten Keime ist eine Frage der Unterschiedung.
+Wenn ich langsam abkühle, wo kühle ich langsam ab?
+An der Sandform, da ist die Wärmeleitfähigkeit viel schlechter.
+Sandkopfform geht langsam, in Metallform geht die Wärme schnell raus.
+Im Bauteilinnern geht die Wärme langsam raus,
+weil Sie das über die gesamte Wand nach außen abführen müssen.
+Wenn es langsam abkühlt, gibt es ein gröberes Gefüge.
+Das gröbere Gefüge hat schlechtere Festigkeitseigenschaften.
+Und das müssen wir wieder bei den verschiedenen Elementen berücksichtigen,
+wo wir sagen, wenn ich ein dickes Bauteil habe, gibt es sowas wie einen Größeneinflussfaktor,
+der reduziert meine vorhandene Festigkeit. Aufgrund der Entstehung des Materials,
+aufgrund der vorhandenen Gefüge. Gießbedingung 1 ist eine niedrige Unterkühlung.
+Das ist aufgetragen, die Unterkühlung, wie stark unterkühle ich meine Schmelze, mache
+ich das mit einer geringen Unterkühlung, gibt es wenige Keime und hier das Kristallwachstum
+ist langsam, die Erstachung ist langsam.
+Mache ich eine stärkere Unterkühlung, kriege ich hier irgendwo ein Maximum an Anzahl der
+gebildeten Keime, mehr Keime heißt ein feineres Gefüge.
+Zusätzlich ist bei dem jetzt die Kristallisationsgeschwindigkeit hoch.
+Das würde ich bevorzugen.
+Gelingt mir aber nicht zum Beispiel bei einer Sandform, weil die Wärme da nicht rausgeht.
+Und das gelingt mir auch nicht im Inneren vom Bauteil, weil ich die Wärme erst über
+die Außenhaut abführen muss.
+Großes MKZ, Anzahl der gebildeten Keime, heißt feines Primärkorn, wenig Unterkühlung,
+Wenige Keime, grobes Korn, dickwandige Bauteile im Innern haben grobes Korn, haben schlechtere
+Festigkeit aufgrund der Erscharmungsbedingungen.
+Das ist die Anzahl der gekühlten Keime, das ist eine Frage der Unterkühlung, Unterkühlung
+ist eine Frage, wie schnell kühle ich ab.
+An der Außenhaut, wo Kontakt mit dem Metall zum Beispiel ist, wird schnell abgekühlt.
+Es gibt viele Keime, viele Keime, die gleichzeitig wachsen, haben ein feines Gefügel zur Folge.
+Feines Korn, das hier.
+Missbewegung 2, viele Keime, feines Korn.
+Weil gleichzeitig an vielen Stellen das Wachstum beginnt.
+Eine geringe Unterkühlung.
+die ein dickwandiges Bauteil haben, wir haben ja irgendwas gesagt, 95 Tonnen, was weiß
+ich, 200 Millimeter Wandstärke, im Kern, das kühlt ganz langsam aus, wenn sie langsam
+auskühlen gibt es wenig Keime, das Korn ist grob, das Primärkorn ist grob, weil es wenig
+Keime durch eine geringe Unterkühlungsgeschwindigkeit.
+Abkühlgeschwindigkeit oder Unterkühlung, das kommt gleich noch in den Diagramm.
+Ich komme gerne in die Fotos.
+Diese Abkühlgeschwindigkeit, man bezeichnet die auch als Unterkühlung.
+Wenn Sie das hier dazuschreiben wollen, es ist nichts anderes als die Abkühlgeschwindigkeit.
+Abkühlgeschwindigkeit ist eine Frage der Formband, ist eine Frage des Materials und ist eine Frage der Prozessführung.
+Was passiert da hinten, wenn ich immer stärker unterkühle, was passiert denn an der Stelle, was wäre denn hier?
+Technisch können Sie das in vielen Schmelzen gar nicht machen.
+Mit normalen Bedingungen, da brauchen Sie plötzlich einen Stehstoff, um solche Abkühl-Sachen zu machen.
+Irgendwie minus 200 Grad oder was das ist. 196.
+Was passiert hier? Wie viele Keime werden hier noch gebildet?
+Gar keine mehr.
+Wenn Sie keine Keime mehr haben bei der Abkühlung, wie viele Kristalle entstehen da?
+Keine.
+Wenn Sie eine zu hohe Unterkühlung machen, haben Sie keine Keime mehr.
+Wie erstarrt das Material, wenn es keine Keime hat?
+Sie brauchen diese Keime immer, damit Kristallisation einsetzt.
+Wenn Sie keine Keime haben, dann erstarrt Ihr Material aus dem Schmelzezustand und
+es gibt eine amorphe Erstarrung.
+Und amorphe Metalle untersucht man auch durch diese schnelle Abkühlgeschwindigkeit.
+Metalle, die sind, wie Gläser auch, sehr spröde, aber besonders hart und fest.
+Das ist noch ein Forschungsgebiet, wo man Metalle sehr stark unterkühlt, um eine Amorphe
+Erstarrung zu erzielen und damit neue Materialeigenschaften zu schaffen.
+Die Voraussetzung, dass Kristallisation einsetzt, ist, dass Keime gebildet werden, dazu muss
+die Schmelze abgekühlt werden, sie muss unter die Kristallisationstemperatur unterkühlt
+werden.
+Abkühlgeschwindigkeit ist, desto größer die Unterkühlung, desto mehr Keime, desto feiner das Gefühl.
+Und wenn Sie ein dickwandiges Bauteil haben, was langsam erstarrt im Kern, brauchen Sie eine Korrektur dahingehend,
+dass diese groben Primärkristalle, diese groben Körner, schlechtere mechanische Eigenschaften haben.
+Wir müssen das kompilieren.
+Homogene Keimbildung heißt,
+die Schmelze kann selbst eigene Keime bilden,
+Artikel, eigene Keime.
+Ich schalte mal was rein.
+Wenn ich die Unterkühlung nicht schaffe, geht es beidfeinig.
+Die Abkühl-Geschwindigkeit ist dafür verantwortlich, ja?
+Achtung! Langsame Abkühlung. Schmelze. Temperatur kühlt ab, Kristallisationstemperatur wird
+erreicht. Temperatur bleibt eine Zeit lang konstant, Wärme wird frei, die Schmelze kristallisiert.
+Kristallisation ist ein exothermer Prozess, ist diese Kristallisation abgeschlossen,
+die Erstarrung, kühlt das Bauteil weiter ab, Kurve 1.
+Kurve 2, schnellere Abkühlerate, ich bin nicht so glücklich mit dem Bild, deshalb
+kommt da gleich nochmal eins und das dürfen dann Abfälle kopieren, Gießtemperatur, sie
+kühlen schneller ab, der Gradient wird größer, hier vorne, das Gefälle wird größer, sie
+schneller ab. Das Material erreicht die Kristallisationstemperatur. Sie sind aber schneller in der Abkühlung,
+als dass Keime gebildet werden. Sie erzeugen eine Unterkühlung. Jetzt merkt das Material
+erst, scheiße, ich bin unterhalb der Kristallisationstemperatur. Ich muss Keime bilden. Keime werden gebildet.
+Kristallisation setzt ein, Wärme wird nochmal frei, dann hält das hier hinten eine Zeitlang diese Temperatur konstant.
+Wärme wird frei, exotherm, Temperatur bleibt konstant, bis die Erstarrung abgeschlossen ist an dem Punkt und dann kühlt es weiter ab als Festkörper.
+Hier würden wir irgendwann auspacken.
+Ich bin nicht glücklich mit dieser Grafik, weil die so auseinandergezogen ist.
+Deshalb habe ich jetzt ein separates Ding hier hingemalt,
+was das eigentlich besser beschreibt als das, was dieses Lehrbuch da so sagt.
+Ich bin da wirklich nicht glücklich.
+Ich habe es mal versucht ein bisschen anders zu machen.
+Ich wollte Ihnen mal dieses Bild auch nicht vorenthalten.
+Sie können das gleich abknüpfen, wenn ich vor dieser Fläche verschwunden bin.
+Langsame Abkühlung, Gradient ist gering, bei einer Sandform, bei einem Bauteil im Inneren.
+Langsame Abkühlung, Kristallisationstemperatur wird erreicht, Kristallisation setzt ein,
+Kristallisation ist an den Positionen abgeschlossen, wenn die Temperatur weiter abfällt.
+Erstarrung ist fertig.
+kühle ich schneller ab, mit dieser Gradientgröße, die er da vorne nahm,
+über Zeit aufgetragen, Temperatur über Zeit aufgetragen,
+kühle ich hier schneller ab.
+Das wäre eigentlich die Temperatur, bei der Kristallisation einsetzen sollte.
+Es findet eine Unterkühlung statt, die ist relativ hoch.
+Das ist dieser Betrag sozusagen, diese Unterkühlung.
+Dann wird Kristallisationswärme frei.
+und hier ist die Erschlaffung abgeschlossen. Wenn ich noch mal stärker kühle, wird dieses
+Unterschreiten der Kristallisationstemperatur noch mal größer und es werden noch mal mehr
+Keime gebildet. Die Wärme wird frei, sie wird konstant gehalten. Hier bin ich fertig.
+Hier sind sie viel schneller fertig. Sie haben eine größere Unterkühlung und sie haben viel
+Das ist die etwas langsame Variante, wo Sie dann mit zunehmender Abkühlung eine größere
+Unterkühlung erreichen und mehr Keime bilden.
+Punkt.
+Die Abkühlgeschwindigkeit und die damit erzielte Unterkühlung ist dafür verantwortlich, dass
+viele Keime gebildet werden. Bei langsamer Abkühlung wenig, bei schneller Abkühlung
+viele Keime. Und das Diagramm, das auf der Seite davor war, zeigt das sehr schön.
+Die Anzahl der gebildeten Keime ist eine Frage der Unterkunft.
+Fragen?
+Das ist elementar, sage ich jetzt mal.
+Das trifft sich überall dort, wo Erschärfung und Frustration stattfindet.
+Das ist bei den Kunststoffen so, bei den Metallen ist es so.
+unabhängig vom Metall, ob das jetzt eine reine Schmelze ist oder eine Schmelze mit einem Erstarrungsintervall.
+Diese Unterkühlung ist dafür verantwortlich, dass die schnellere Abkühlungsfähigkeit wegen der Kühlung größer ist und dann die Nährfeindlichkeit.
+Hier nochmal schauen, wir haben das gerade eben im Video gesehen, das ist jetzt die Keimbildung,
+A, Keimbildung hier vorne, oben haben wir wenig Keime, bei einer geringen Unterkühlung,
+um die Keime herum beginnt das Kristallwachstum und dann ergeben sich Korngrenzen,
+und die Größe von den Körnern, die wir haben, die Primärkörner.
+Hier habe ich Vielkeime durch eine hohe Unterkühlung, die beginnen dann zu wachsen, wenn sie stabil
+sind und das führt zu einem feinen Gefüge.
+Gleiches Material, unterschiedliches Gefüge, unterschiedliche Eigenschaften.
+Darum geht es am Ende des Tages.
+Gießverfahren bestimmt also das Primärgefüge.
+Der Kokillenguss hat in der Regel hohe Abkühlgeschwindigkeiten und damit eine große Unterkühlung, eine
+hohe Keimzahl und ein feines Primärkorn.
+Der Sandguss bringt die Wärme ganz langsam raus aus dem Metall, aus dem gegossenen Metallbauteil,
+hat eine niedrige Abkühlgeschwindigkeit, eine geringe Unterkühlung und damit eine geringe Keimzahl und damit ein grobes Primärkorn.
+dieser Größeneinflussfaktor drin, je dicker das Bauteil, desto gröber das Korn, desto
+geringer die Festigkeit und das müssen wir in der Berechnung mit berücksichtigen.
+Ist eine Welle dicker, ist das Material im Kern grober und damit haben wir eine reduzierte
+Festigkeit.
+auch an der besprechenden Kornbildung, ob Tablet oder Fernseher.
+Das heißt, interessant ist es immer, ein feines Korn zu erzeugen, weil das bessere Festigkeit
+und Säigkeitseigenschaft hat.
+Hier sieht man das in dem Bild.
+Haben Sie das?
+Oder haben Sie das Bild da?
+Wir haben das.
+Das hier.
+Ja, genau.
+Das.
+Das sieht man dann auch, dass man mit entsprechenden Zugaben bei gleicher Abkühlgeschwindigkeit
+mit Kornfeinung machen kann, Kornfeinung durch Fremdstoffe, durch Empfinden.
+So, ich habe überzogen, das tut mir leid.
+Ich wünsche dann keine Fragen mehr.
+Und Happy Halloween!
+Danke.
+Viel Spaß da heute Abend.
+Bis nächste Woche.
+Entschuldigung, Entschuldigung.
+Könnte ich jetzt fotografieren für dieses Skript?
+Ich habe das nicht alles unterschrieben, äh, schreibe.
+Danke.
+Können Sie das Schlüssel?
+Ja, ja.
+Ich habe eine Frage.
+Ich habe einen Klopmann eingelegt, der guckt mich in die Taschen aus, weil ich die Taschen nicht habe.
+Akademiker, ich weiß es nicht.
+Das ist sehr geil.
+Oh, schön.
+Oh, das ist was für dich.
+Oh.
+Okay.
+Oder könnte ich das nächste Mal...
+Ja, ja. Machen wir das.
+Schreiben Sie es auf. Das geht ja jetzt.
+Okay, okay.
+Okay, dann.
+Geht nicht.
+Unterstand
+Wir sind in der Nähe von St. Petersburg.
+Wir sind in der Nähe von St. Petersburg.
+Wir sind in der Nähe von St. Petersburg.
+WIr kommen jetzt wieder zurück.
+Wenn ich jetzt was suche, muss ich noch ein paar Mal Zореn abqueren,
+und dann kommen wir bald richtig raus.
+Hanf!
+Bis gleich.
+Uh.
+Wir versuchen ein wenig zu sprengen und
+Untertitel der Amara.org-Community

@@ -1,0 +1,556 @@
+Wisst ihr ja schon, da geht mal irgendwas.
+Silos, Kosilos, Protagoras, wir basteln unseren Wechsel in dieses Dreieck.
+Da hätten wir eins.
+So, wir kennen eine Seite hier.
+Wir haben R.
+Kennen wir noch eine Seite?
+Die, wo ist die untere Seite von dem Dreieck?
+Ja.
+Das sieht jeder, scharf hinschauen.
+Wie lang gibt es diese Seite hier?
+Gleich wie H?
+Nein, H ist das hier.
+Ah, ok, halbe, denn das war halbe F.
+Ja, F. Die Hälfte von F ist das.
+Das ist genau die Hälfte von dem hier.
+Also, hier haben wir F halber.
+und für den anderen müssen wir noch einmal schauen
+da verlängere ich hier mal das Ganze
+dann ist das hier
+das ist R
+und das hier ist H
+und das hier ist dann das, was übrig bleibt
+R minus H, der obere Teil
+und jetzt haben wir ein rechtwinkliges Dreieck
+mit drei Seiten, die wir alle kennen
+und dann steht da
+r-h²
+plus
+f halbe zum Quadrat
+ist gleich
+zack
+es ist eine Formel mit
+drei Unbekannten
+R, Groß-R, H und F.
+Wenn ich ihn 2 gebe in der Aufgabe, können sich die Gründe größer ausrechnen.
+Oft wird das ein bisschen anders geschrieben.
+R minus H Quadrat ist R Quadrat minus 2 mal R mal H plus H Quadrat.
+Dann kann man noch plus F Quadrat Viertel schreiben, wenn man möchte.
+Ist gleich R Quadrat.
+Das ist das Gleiche.
+Und warum macht man das?
+Weil man dieses R-Quadrat und das R-Quadrat nicht wegstreichen kann.
+Dann ist das weg.
+Und wenn ich jetzt zum Beispiel wissen will, welchen Vorschub ich einstellen muss.
+Also ich habe ein Werkzeug, Radius ist gegeben.
+Werkzeug kann ich nicht ändern.
+Ich fordere eine bestimmte Rillentiefe.
+Ich soll höchstens ein Zehntel Millimeter haben.
+dann kann ich das nur noch über den Vorschub einstellen.
+Und das ist das, was man meistens macht, dass man hier eigentlich eine Formel sucht für den Vorschub.
+Naja, wenn ich den Vorschub haben will, muss das auf die Seite, das auf die Seite,
+das Ganze geteilt durch hier und dann eine Wurzel daraus ziehen.
+Dann steht da, ich glaube, ich mache es jetzt richtig,
+und das geht auf die andere Seite, dann steht da 2RH minus das da und das Ganze mal 4.
+Also 4 mal 2RH minus H².
+Richtig? Darüber? Ja, richtig. Darüber. Mal 4. So braucht man es meistens. Ich könnte auch anders fragen.
+Ich habe einen bestimmten Vorschub, F ist gegeben. Ich habe ein bestimmtes Werkzeug. Wie groß ist die Wildentiefe?
+Dann lösen Sie diese Formel eben nach H. Oder besser, dann diese Formel hier. Das können Sie. Das muss ich hier nicht machen.
+Eine Formel, drei Oberkarten, wenn ich zwei gebe, rechnet die dritte aus.
+So können wir die Qualität von unserem Werkstück auslegen.
+Wer das nicht rechnen mag in der Praxis, der kann solche Kurven hernehmen.
+Das ist von der Firma Cera Gizit, die habe ich, glaube ich, schon mal erwähnt, aus Bea.
+Die sind in Reuthe, 40 Kilometer von hier, also nicht weit.
+die geben dann, die machen Werkzeuge,
+die geben solche Kurven heraus.
+Da haben Sie hier unten
+den Vorschub,
+hier den Radius von dem Werkzeug,
+hier haben Sie den Kleinkern genannt,
+und hier die Rautiefe, was bei mir
+H ist, bei dem die Rautiefe.
+Und dann haben Sie den gleichen
+Zusammenhang, den Sie da formelmäßig haben,
+können Sie jetzt hier direkt ablesen.
+Ich nehme das gleich noch.
+Das war es gleich, kommt gleich heraus.
+Das heißt jetzt, wenn Sie einen großen Eckenradius nähen, dann ist bei gleichem Vorschub hier,
+sind Sie hier weiter unten, ist die Hauttiefe kleiner.
+Je runder das Werkzeug, desto glatter die Oberfläche von dem Werkstück.
+Und warum nehmen wir nicht immer einen großen Radius, wenn das doch gut ist für die Oberfläche?
+Ich will ja immer eine kleine Rauntiefe h haben. h soll immer klein sein. Es gibt nie die Anforderung, eine große Rauntiefe zu haben.
+Warum nehme ich immer einen großen Radius für mein Werkzeug?
+Das wäre ja logisch, dann wäre die Qualität besser.
+Warum nicht?
+Gut, das geht halt nicht immer, wenn Sie ein Werkstück haben, das so aussieht.
+und haben so ein rundes Werkzeug, so einen runden Drehmeißel, wie wollen Sie diese Ecke hier bearbeiten?
+Aber wenn Sie wirklich nur eine glatte Oberfläche machen wollen, dann nehmen Sie ein Werkzeug mit einem großen Radius, das hier schön rund ist.
+Dann wird die Oberfläche gut.
+Wenn Sie hier Features drin haben, die hier sehr scharfkantig sind, können Sie vielleicht einen Werkzeugwechsel machen.
+Ein Teil mit einem runden Werkzeug und die Ecken mit einem feinen Werkzeug machen.
+Oder Sie nehmen gleich ein feines Werkzeug, ein spitzes Werkzeug und fahren ein bisschen langsamer durch.
+Das heißt aber auch für den Konstrukteur, wenn man einen Teil konstruiert und hier eine sehr scharfe Ecke haben will, die man aber gar nicht braucht, dann ist das schlecht.
+Der Konstrukteur sollte hier, also wenn es geht, gucken, dass er hier, wenn das möglich ist, einen schönen Radius lässt.
+Dann kann man ein runderes Werkzeug nehmen und das macht die Besserung oberflächlich.
+Also, den Zusammenhang, den soll es halt.
+Das müssen die Konstrukteure wissen, die von der Fertigung wissen und sie müssen es für die Prüfung wissen.
+Gut, dann gehe ich mal los. Vielleicht was auch da nicht auswendig wäre. Es gibt in Büchern für die
+Schnittgeschwindigkeit Hinweise, was auch gut ist. Im Stahl zum Beispiel. Wenn Sie ein gut zerspanbaren
+Stahl haben, dann können Sie beim Schruppen so 25 Meter pro Minute als Schnittgeschwindigkeit haben,
+Bei schlichten 60-70. Wenn Sie einen Hartmetalldrehmeißel haben, einen härteren Drehmeißel, können Sie auf 100 km anstarten.
+100 m pro Minute heißt pro Sekunde 1,5 m. Das ist keine sehr hohe Geschwindigkeit.
+Also fahren Sie mit dieser Geschwindigkeit durchs Markt.
+Das ist ein Drehmeißel. So eine Geschwindigkeit. Ganz grob.
+Keine Schallgeschwindigkeit, keine Lichtgeschwindigkeit, langsamer Vorschub.
+Mehr hält die Steige nicht aus.
+Hartmetall ein bisschen besser als der normale alte, schneller als Spargel.
+Schwer zersparen geht halt deutlich weniger.
+Leichtmetall wie Aluminium geht deutlich schneller.
+Da kommen Sie heute mit diamantbeschichteten Fräsern auch auf 800 Meter pro Minute.
+Kunststoffe kann man auch sehr schnell zersparen. Alles was leicht ist, geht schnell.
+Stahl, 60 bis 100 Meter pro Minute.
+Das ist ungefähr das, was die Größenordnung ist.
+Eine Rechenaufgabe, habe ich gesagt, ist immer die Schnittkraftbestimmung.
+Eine weitere Rechenaufgabe, die drankommen kann, ist die Berechnung der Hauptzeit.
+Wie lange dauert denn die Bearbeitung?
+Das ist die Hauptzeit.
+Dazu ein, zwei Vorbemerkungen zur Dauer.
+Es geht jetzt natürlich nicht um ein Einzelstück.
+Ein Einzelstück dauert immer eine Stunde.
+Sie müssen die Maschine einschalten, Sie müssen das Bauteil aus dem Lager holen,
+Sie müssen die Werkzeuge holen, Sie müssen programmieren.
+Und die Bearbeitung dauert zehn Sekunden, aber alles drumherum dauert eine Stunde.
+Aber in der Serienfertigung, wo nur die Zerspannung zählt, da reden wir von Sekunden.
+Und da zählt halt jede Sekunde, jede zehnte Sekunde zählt.
+So, was tun? Wir gucken uns die Räder an, die wir fahren müssen.
+Wir haben hier einen Vorschubweg. Der Drehmeister bewegt sich und fährt vorwärts.
+Er muss ein bisschen vorher anfangen und ein bisschen hinterher aufhören, wegen der Toleranzen.
+Nicht, dass das Werkzeug hier ein Zehntel Millimeter zu groß ist.
+Also wir haben ein bisschen Anlaufweg. 1, 2 Millimeter, 5 Millimeter.
+vorher anfahren, vorsichtshalber.
+Und wir fahren vorsichtshalber ein bisschen weiter.
+Das ist der Überlaufweg.
+Wir laufen über das Ende rüber,
+dann Anlaufweg vor dem Anfang.
+Das ist der Weg,
+den der Drehmeister zurücklegt.
+Die gesamte Länge.
+Werkstücklänge, Überlaufweg, Anlaufweg.
+Wir haben eine gewisse
+Geschwindigkeit, mit der wir
+hier rüberfahren.
+Und wir wissen den Weg,
+dann wissen wir auch die Zeit.
+Wenn wir so ein Bauteil fertigen, gibt es zwar einen Anlaufweg, aber wir können keinen
+Überlaufweg machen, sonst ist der Bauteil kaputt.
+Dann müssen wir wirklich hier direkt rausfahren und können nicht wie hier ein bisschen weiterfahren.
+Geht natürlich nicht in so etwas haben, da gibt es nur den Anlaufweg.
+So, und jetzt die Frage, wie lange dauert das?
+Ach so, vorher nochmal, wir haben gar nicht nur die Hauptzeit, die Zerspanung.
+Wir haben letztendlich, wenn wir so ein Bauteil fertigen wollen, und das wollen wir fertigen,
+haben wir viele Wege, wie das Bauteil fährt, wie das Werkzeug fährt.
+Das Werkzeug steht erstmal weiter weg, und dann fährt es in die Nähe.
+Und dann wird zugestellt auf das richtige Maß, auf die richtige Tiefe.
+Und dann wird hier einmal rübergefahren.
+Dann geht man wieder raus, dann fährt man wieder zurück, dann geht man etwas tiefer rein.
+Dann fährt man wieder rüber, fährt wieder raus, ist fertig und muss wieder wegfahren.
+Das sind alles Bewegungen, die gemacht werden müssen, aber nicht jede ist leicht davon.
+Einige davon können sehr schnell gefahren werden, einige langsam.
+Immer wenn man Späne erzeugt, wenn man schneidet, fährt man langsam. Wenn man in der Luft fährt,
+fährt man schnell. In der Luft fährt man mit sogenannten Eilgängen. Eilgang ist die
+Geschwindigkeit, die die Maschine als schnellstes kann. Das ist wenn wir durch die Luft fahren. Das
+heißt, am Anfang, Teil 1, wir fahren mit Gewalt hier schnell rüber, Eilgang, sehr schnell. Wir
+Wir stellen zu. Eingang. Jetzt fahren wir langsam und zerspannend, gemütlich langsam hier rüber.
+Das ist nicht mit Eingang. Das ist mit programmierter Bestellung. Die ist langsamer.
+Dann fahren wir raus. Eingang, so schnell es geht. So schnell es geht, wieder rüber. So schnell es geht, wieder hier.
+Alles Bewegungen in der Luft. Alles mit Eingang. Und jetzt wieder langsam. Das ist wieder ein langsames.
+und dann wieder rausfahren und zurückfahren. Das heißt, wir haben hier die Bearbeitung.
+Das ist das, was langsam ist. Das ist das, was Zeit kostet. Die Bewegungen in der Luft
+nennen wir Nebelzeiten. Das ist das, wo Kalierspäne gemacht werden. Aber die Zeit brauchen wir
+brauchen wir trotzdem. Wir brauchen hier
+zum Beispiel für Wärmestückwechsel.
+Das kostet Zeit,
+ist aber nicht produktiv.
+Wir müssen die Drehspindel erstmal anfahren,
+auf Drehzahl bringen. Das dauert zwei Sekunden.
+Nebenzeit.
+Wir müssen Kühlschmierstoff einschalten.
+Pumpe einschalten,
+eine Sekunde warten, bis der Kühlschmierstoff
+vorne da ist.
+Das sind Nebenzeiten.
+Und die machen so in Größenordnung 30% aus
+von der Bearbeitung.
+Die können wir auch nicht gut rechnen.
+Jede Maschine ist da anders schnell. Aber wie lange sie schneidet, das können wir wissen, weil das haben wir programmiert.
+Da wissen wir die Geschwindigkeit.
+Und warum interessiert uns, wie lange es dauert?
+Ja, weil die Kosten davon abhängen. Je länger es dauert, desto teurer wird es.
+Und was wird jetzt so teuer? Einmal die Maschine. Die Maschine wird beschrieben,
+die kostet durch den Maschinenstundensatz. Was kostet die Maschine in einer Stunde?
+So, was steckt da drin? Dass Sie die Maschine mal gekauft haben. Sie sind Wirtschaftsingenieure,
+Sie kennen das, Sie müssen das abschreiben, Sie müssen Zinsrechnung machen,
+Investitionsrechnung und die Maschine kostet einfach Geld. Jede Stunde.
+Instandhaltung, die muss reserviert werden. Einmal im Jahr kommt ein Servicetechniker und der muss auch bezahlt werden.
+Das packen Sie auf das ganze Jahr, legen Sie das um, dann kommt hier nochmal ein Euro dazu.
+Der Raum kostet etwas. Wenn die Maschine hier steht, der ganze Raum kostet etwas.
+Das ist auch investiert worden. Der kostet Strom, der kostet Licht, der kostet Heizung.
+Manche rechnen die Werkzeuge mit ein. Manche rechnen die separat.
+Das ist der Maschinenstundensatz und für so eine Drehmaschine liegt der so irgendwo
+bei 60 Euro, 60, 70 Euro für eine normale Drehmaschine.
+Nur allein, dass die da rumsteht.
+Wir haben da nichts gemacht.
+Und dann kommt natürlich noch dazu, Energie, Füllstoff, Lohn des Maschinenbedieners.
+Der, der die Maschine bedient, der kriegt Geld.
+Der verdient Geld.
+Den reicht man separat.
+Der ist mit 60 Euro nicht mehr drin.
+In der Serienfertigung, wo die Maschine einfach ein Kleiner zum anderen macht, braucht man nicht viele Maschinenbediener.
+Die Maschine macht das allein.
+Aber es gibt da vielleicht einen Bediener, der fünf Maschinen bekommt.
+Bei fünf Maschinen guckt, dass alles gut ist, dann braucht man nur ein fünftes Bediener pro Maschine.
+Also ganz, ganz einfache Drehmaschinen vielleicht 30 Euro, die ganz, ganz, ganz, ganz großen Maschinen bis 200 Euro, die normale Drehmaschine selbst.
+Und was kostet der Maschinenbediener in der Stunde?
+Wisst ihr das?
+Ein deutscher Maschinenbediener. In jedem Land ein bisschen anders.
+Was verdient der?
+Ja, schätzt du was?
+Maschinen, ne?
+Ja.
+20?
+Mhm, verdient er ziemlich gut. Maschinenbediener wird so 20, wenn er gut ist, 22 Euro vielleicht. So irgendwo in dem Bereich.
+Also das ist ein Maschinenbedienungsmaß?
+Ja.
+Die Firma muss anders rechnen. Wenn Sie diese Teile herstellen, dann bezahlen Sie als Firmenchef den Bediener.
+Sie müssen aber auch bezahlen Krankenversicherung, Rentenversicherung, das zahlt ja auch die Firma.
+Die ganze Sozialversicherung zahlt der Arbeiter, zahlt auch die Firma ein bisschen.
+Außerdem müssen Sie für den Licht machen, dem eine Pause gönnen, den Raum heizen.
+Und wenn man das alles umrechnet, würde man sagen, der Maschinenbediener wird so um die 50 bis 60 Euro kosten.
+Die Firma. Das kriegt er natürlich nicht selbst, der hätte er gerne.
+Aber die Firma zahlt ja noch Steuern und, und, und, und.
+Also für die Firma, die muss rechnen, meine Maschine kostet mich 60 Euro, der Maschinenbediener kostet mich 60 Euro,
+eine Stunde Fertigung kostet 120 Euro.
+wenn der Maschinenbediener
+sechs Maschinen hat, dann kostet
+er pro Maschine nur 10 Euro.
+Ganz grob.
+Und jede Firma
+rechnet da anders.
+Und jede Firma hält diesen Maschinenstoß
+als Geheim, den sie
+rechnet.
+Wenn mein Kunde wüsste, was ich da
+verdiene, dann fängt er an,
+mich runterzuhandeln.
+Du verdienst so viel Geld, mach mir billiger.
+Ist ja lang.
+Deswegen ist er typischerweise sehr geheim in dieser Maschinenstufensatz.
+Soll keiner wissen. Lass dich verdienen.
+So, und jetzt haben wir alles an Vorbesprechungen gemacht,
+um schnell die Formelzusammenhänge für die Kosten und die Dauer aufzuschreiben.
+Wenn wir einen Vorschlag haben von F, den haben wir programmiert,
+einen Durchmesser von d haben,
+eine Schnittgeschwindigkeit vc
+und eine Drehzahl n haben.
+Dann haben wir gleich die allererste Formel.
+Das ist so etwas wie die
+Mitternachtsformel der Fertigungstechnik.
+Die Schnittgeschwindigkeit ist n mal p mal e
+oder p mal n mal e.
+Den kennen Sie wahrscheinlich alle.
+Das Gemeinde ist hier
+Sie haben etwas, das dreht sich, D-Zahl N, das hat einen Durchmesser D und es hat hier außen eine Geschwindigkeit Vc.
+Das ist die Tangentialgeschwindigkeit bei einem runden, sich drehenden Teil.
+und das ist einfach hier
+der Zusammenhang
+gleich aus der Schule bekannt
+die schreiben meistens
+V ist Omega mal R
+das ist das gleiche
+so habe ich es in der Schule gelernt
+V ist Omega
+mal R
+Omega ist 2 mal Pi
+mal N
+R ist D halbe
+und dann sind wir bei
+und das ist genau das, was hier steht.
+Die Tangentialgeschwindigkeit
+von einem Portierungenkörper.
+So,
+das brauchen wir immer wieder.
+Den müssen wir eigentlich auch missen.
+Den braucht man beim Bohren,
+wenn sich der Bohrer dreht,
+hat es Geschwindigkeit außen.
+Den brauchen wir beim Fräsen, beim Drehen, beim Schleifen.
+Überall, wo sich etwas dreht,
+braucht ihr außen die Schnittgeschwindigkeit.
+Denn oft ist die Schnittgeschwindigkeit
+Ich habe Ihnen gesagt, wir nehmen beim Strahlen 60 Meter pro Minute, das heißt, das ist auch vorgegeben.
+Und dann müssen wir N erstmal ausrechnen, die Drehzahl.
+Wenn die Stiftgeschwindigkeit gegeben ist, wissen wir, wir können ausrechnen, welche Drehzahl wir einstellen müssen.
+Okay, Leistung und Drehmoment, trivial, vielleicht auch nicht so ganz.
+Sie haben ein Bauteil, dreht sich, Sie haben einen Drehmeißel, der hier arbeitet, Sie
+haben eine Schlittkraft.
+Das Drehmoment, das Sie brauchen, ist diese Kraft mal den Radius.
+Also, wir gucken auf das Pauschal hier drauf.
+Hier vorne ist der Drehmeißel.
+Und dann haben wir die Kraft, fc, das hier ist der Radius und das Drehmoment m ist fc mal r.
+Ich schreibe hier sowas für dich hin, weil es oft falsch gemacht wird.
+Es wird oft mit dem Durchmesser gerechnet und nicht mit dem halben Durchmesser.
+Die halbe.
+Klar warum?
+Eigentlich klar, Kraft hat Hebelarm.
+Aber es wird doch sehr gerne sehr fertig gemacht.
+Und Leistung ist Kraft mal Geschwindigkeit.
+Schnittkraft mal Schnittgeschwindigkeit.
+Das kennen Sie. Das ist Grundplanung.
+Oder es ist Drehmoment mal Drehgeschwindigkeit Omega.
+Das ist das Gleiche.
+Ist soweit so klar?
+Wenn ich frage, gleich melde ich.
+Genau.
+Wenn wir jetzt
+ein bestimmtes Werkstück länger haben
+und die fahren wir
+vorwärts,
+Wieder ist die Frage, wie lange dauert das?
+Da ist diese Formel.
+Noch so eine, die ist gegeben in der Prüfung.
+Aber wir wissen, was was ist.
+Die Hauptzeit ist die Länge der Weg, den wir fahren, mal die Anzahl der Durchgänge.
+Wenn wir dreimal drehen müssen, dauert es dreimal so lange, das ist I.
+Durch die Drehzahl mal den Vorschub.
+So, wo kommt das her?
+Das habe ich das mal hingeschrieben, dass das rauskommt.
+Warum? Unten steht N mal F.
+Drehzahl mal Vorschub.
+Drehzahl, das sind Umdrehungen.
+Pro Zeit. Minute, Sekunde, ich spiel keine Rolle.
+Ja, Umdrehungen. Wie viele Umdrehungen pro Zeit das Ganze macht.
+F ist der Vorschub pro Umdrehung. In einer Umdrehung, wie weit fährt das Ganze?
+Mal Vorschub pro Umdrehung.
+Jetzt können Sie Ingenieursmäßig einfach kürzen.
+Umdrehungen sind sowieso keine Größe.
+Ich versuche es eher anschaulich.
+Und dann kommt heraus, Vorschub pro Zeit.
+Und das ist die Vorschubgeschwindigkeit,
+Weg pro Zeit.
+dass die Geschwindigkeit, mit der der Drehmeister ist, vorwärtskommt.
+Vf, ich kann es auch noch nennen, in der Vergänzung, die Geschwindigkeit im Feed-Richtraum.
+F wie Feed.
+Das heißt, was hier eigentlich steht, ist, Zeit ist Weg durch Geschwindigkeit.
+Das kennen Sie. Das da unten ist die Geschwindigkeit, das ist der Weg.
+Da kommt das Wert.
+Oder wenn Sie sagen, Sie haben diesen Weg, diese 17 cm hier, die müssen Sie zweimal fahren,
+dann könnte ich sagen, Sie haben einen Gesamtweg von zweimal L.
+Und dran hinten in dem L steckt ein Anlaufweg und ein Überlaufweg drin.
+Das ist ein bisschen größer als das reine Werkzeug.
+Wenn Sie ein Gewinde drehen, dann müssen Sie mehrmals durchfahren und Sie fahren jetzt mit Vorschub und der Vorschub ist genau der Abstand bei der Gewindegänge.
+Das ist die Gewindesteigung.
+Das ist hier die Gewindesteigung P.
+Also, Abstand zwischen zwei Gewindegängen, das ist der Vorschub.
+Pro Umdrehung muss der Drehmeißel genau um die Gewindesteigung vorwärts fahren.
+Jetzt kann es auch sein, dass Sie ein mehrgängiges Gewinde haben.
+Also ein Bauteil, bei dem Sie hier ein Gewinde haben und dazwischen noch eins.
+Also wo praktisch zwei unabhängige Gewindegänge versetzt sind.
+Dann müsst ihr jetzt zweimal ran.
+Dann müsst ihr erst das eine Gewinde machen und dann das zweite Gewinde fertig machen, wenn die Gänge so entsprechend versetzt sind.
+Dann haben wir aber die gleiche Formel. Wir müssen die Gewindelänge nehmen, wir müssen I mal da durch, meistens muss ein Gewinde 5 mal, 6 mal überfahren bis es fertig ist.
+Die Anzahl der Gewindegänge wenn nötig und unten haben wir N mal F, der Vorschub F ist hier gewünscht.
+Eigentlich ist es die gleiche Formel wie die da oben.
+So können wir jetzt unsere Hauptzeit bestimmen. Wie lange dauert die Bearbeitung?
+Und das ist halt wichtig.
+Wenn Sie eine Firma haben und jemand möchte hier vor Weihnachten Tannenbäume machen,
+dann sagt er, ich möchte bei Ihnen 200 Bäume bestellen, was kostet das?
+Dann müssen Sie abschätzen, wie lange es dauert.
+Wenn Sie gut sind, dann sagen Sie, das wird so ungefähr zwei Tage dauern.
+Aber wenn Sie es genauer wissen wollen, dann müssen Sie es rechnen.
+Beim Einzelstück rechnen Sie nicht.
+Wenn er sagt, ich will einen Tannenbaum, dann sagen Sie 50 Euro, und dann mache ich gar nichts.
+Ich muss Material kaufen, ich muss eine Rechnung schreiben, ich muss die Maschine hinterher putzen und so weiter.
+Da fängt man bei 50 Euro an.
+Wenn er sagt, ich möchte gut 1000 Stück haben, dann muss man halt genau kalkulieren.
+So, und dann schaffen wir gerade noch die Aufgabe dazu.
+Das wäre so etwas, was auch in der Prüfung dran kommen könnte.
+Eine Beispiel-Aufgabe für die Hauptzeitberechnung.
+Lesen Sie sich gerade mal die Aufgabe durch.
+Aber die kann ganz einfach so lang sein.
+Die könnte ich auch lang sein.
+Das ist so eine typische Aufgabe.
+Also nicht genau die, aber irgendetwas zum Thema Hauptzeit kann ich auch lang sein.
+Ich lese mal die Aufgabenstellung durch, überlege mal, würden Sie die lösen können, klappt das, kommen Sie damit zurecht, oder?
+Da sind ein paar kleine Gemeinheiten versteckt in der Aufgabe.
+Ich kann das kurz zusammen besprechen, bevor Sie wirklich anfangen.
+Also ich habe ein Bauteil, das hat einen Rohling von 80 Millimeter Durchmesser.
+Also wenn das Bauteil ankommt, hat es einen Durchmesser von 80.
+Das fertige Bauteil hat hier Durchmesser 60, hier Durchmesser 30.
+Was mache ich also? Ich fahre hier ein paar Mal rüber, immer weiter, bis ich hier auf 60 bin.
+Danach fahre ich ein paar Mal hier rüber, immer nur bis dahin, bis ich hier auf 30 bin.
+Wie oft muss ich beim ersten Mal hier durchfahren, wenn ich maximal 5 mm zustellen kann?
+Wie oft muss ich hier rüberfahren?
+Er wird komplett rüberfahren.
+Ja, haben Sie.
+Dafür brauchen Sie ein Taschenrechner, den können Sie mitnehmen.
+Achso.
+Aber hier brauchen Sie nicht.
+Also müsste jetzt 120 geteilt werden?
+Ne, ne, ne.
+80.
+Ah, würde ich mal sagen 80.
+Das wäre ein bisschen länger.
+Aber jetzt erstmal die...
+die 120 bleiben ja auch. Aber jetzt hat man ja am Anfang 80 mm Durchmesser.
+Und jetzt fahren Sie hier rüber um auf 60 zu bleiben.
+Sie können maximal 5 mm zustellen. Wie oft müssen Sie hier durchfahren?
+40?
+40?
+Ja.
+So viel?
+Ja.
+Wenn Sie jedenfalls 5 mm wegnehmen, 40 mal, dann hätte ich ja beiderweise nachher bis 180 mm dick.
+80 mm, so groß ist das, und Sie wollen noch so viel runter.
+Hier können Sie noch 60 mm, hier haben wir noch 80.
+5 mm tief können Sie die Drehweise durchziehen.
+Wie oft brauchen wir? Viermal? Was würden Sie sagen?
+Sind das zweimal? Brauchen Sie viermal?
+Und, weil, und ich habe da ein paar Gemeinheiten drin,
+wenn Sie hier unten fünf Millimeter wegnehmen und das V3 dreht sich,
+Nehmen Sie gleichzeitig da oben auch 5 mm weg.
+Wenn Sie hier 5 mm wegnehmen, sind Sie von 80 mm schon auf 70 mm und beim zweiten Mal 5 mm auf 60 mm.
+Gemeinheit. Ich habe gesagt, es ist eine Gemeinheit, wenn Sie da aufladen.
+Also zweimal ist richtig.
+Der Radius. Sie nehmen vom Radius etwas weg.
+Vom Radius gehen Sie von 40 auf 30 mm zweimal.
+Sie müssen zweimal hier rüber fahren.
+Anlauf und Überweg betragen 5 Millimeter.
+Ich fahre also 120 Millimeter, 60 und 60, ich fahre 5 Millimeter vorher an, fahre hier
+langsam rüber, höre 5 Millimeter später auf, ich fahre 130 Millimeter langsam und
+das zwei Mal.
+Danach fahre ich hier rüber, immer nur bis dahin.
+Wie oft?
+Um von 60 auf 30 zu kommen, wie oft muss ich fahren?
+Drei Mal?
+Drei Mal letztlich, genau.
+Drei Mal fahre ich diesen Weg.
+Fünf Millimeter plus 60 Millimeter.
+Ach ja, 65 Millimeter fahre ich hier drei Mal.
+Das ist der ganze Weg, den ich drehen muss, den ich fahren muss.
+Ich kenne die Drehzahl, ich kenne den Vorschub und ich kenne, was brauche ich eigentlich?
+Ich brauche den gesamten Weg. Ich kann das gesamte Weg zusammenzählen.
+Ich brauche N mal F und das war einfach. Da muss ich ja bloß einsetzen.
+Also gar nicht so schwer.
+Also L-Gesamt ist 2 mal die 130 mm und dann wieder 3 mal die 65 mm, das ist der gesamte
+Weg. Das können wir unter den Kopf machen. Das sind 260 und 195, 455 Millimeter.
+Ja, das ist der Weg. Die Hauptzeit kennen wir auch. Die Hauptzeit TH, oder ein kleines
+ist L Gesamt durch N mal F. Das sind 455 mm. N und F sind gegeben. 400. Nehmen Sie die
+Einheiten mit. Unbedingt Einheiten hinschreiben. 1 durch 400 pro Minute. Mal den Vorschub 0,5
+Da muss man auch bei der Rechnung die Einheiten entscheiden.
+Ich empfehle, es ist ganz, ganz, ganz dringend, weil alle, die es nicht machen, bauen Fehler ein.
+Aber Sie nehmen dafür keinen Punkt ab, oder?
+Wenn das Ergebnis stimmt, nein.
+Wenn Sie aber irgendwo sich verrechnen haben, ich habe keine Zwischenergebnisse,
+und jetzt sauber einbreiten, kann ich keine Zeitpunkte geben in den Einheiten,
+weil man gerne im Moment das schreiben will.
+Könnt ihr machen. Würde kein Problem.
+Aber, erstens, die Hälfte macht es falsch, die haben Meter, sie haben Millimeter, sie haben Sekunden, sie haben Minuten.
+Die Gefahr, dass sie es falsch machen, ist riesengroß.
+Dann, wenn sie sich verrechnen und sie haben zwischendurch irgendwo ein Zwischenergebnis stehen, wie hier.
+Wenn jetzt hier rauskommt, Millimeter geteilt mit Millimeter kann man kürzen, 1 durch Minute, Ergebnis kommt in Minuten raus.
+Ja, da kommt also irgendwas mit Minuten raus. Das passt zumindest mal zu der Zeit. Ich will ja nicht Zeit rechnen.
+Zeit und Minuten ist schon mal richtig. Ja, wenn es hier am Ende Millimeter stünde, wüssten Sie, die Formel stimmt nicht.
+Das ist sehr hilfreich, dass Sie als kleine Kontrolle, als kleine Kontrolle, es ist immer gut, die Einheit nicht zu nehmen.
+Weil die Einheit, wenn es falsch rauskommt, es stimmt irgendwas an der Rechnung nicht.
+Das kostet die 2 Sekunden, wenn der gleich auf die Hitze schreit und ist so wertvoll,
+die Gefahr, dass der Fehler gemacht wird, ist so groß.
+Ich ärgere mich jedes Mal wieder, aber ich finde es schade, wenn dann einfach...
+Naja, oder hier ist ja eigentlich...
+Na gut, also 455 mal 2 durch 400, das rette ich jetzt nicht mehr im Kopf.
+Mal 2 geht noch, aber der Rest nicht.
+Da haben wir ja schon eine Lösung hier dabei, oder?
+Sind 2,275 Minuten.
+Ob Sie mir das jetzt in Minuten hinschreiben oder mir Sekunden umrechnen, ist ganz egal.
+Ist das Gleiche. Ob Sie jetzt das hinschreiben oder 136 Sekunden, ist egal.
+Okay, das war jetzt mal gar nicht so schwer, oder? Weil ja auch alles gegeben war.
+Der nächste Teil schaffen wir auch noch. Jetzt soll geschlichtet werden. Das heißt nur dieser
+Teil, der hier rot ist, nur dieses Teil soll geschlichtet werden. Das heißt eine sehr schöne
+Oberfläche eingestellt werden mit einer Wellentiefe von 4 Mikrometern. Also richtig gut. Richtig top
+Oberfläche. Mit einem Werkzeugradius von 2 Millimetern hat man vielleicht eine Kante. Welchen
+Vorschub braucht man dafür. Gut, das ist ein bisschen Fleißaufgabe. Das ist der hier. Hier oben. Aber es ist ja alles gegeben. Es ist R, es ist H gegeben. Machen Sie es mal trotzdem, denn hier haben wir das Problem, er ist in Millimetern und H in Mikrometern angegeben.
+das ist gemein.
+Also,
+setz dich jetzt mal ein, guck mal,
+wenn das gleich mit deinem Zahn kommt,
+was ist der einzig bestellende Vorschub?
+Amen.
+Vielen Dank.
+Vielen Dank.
+Was für ein Pass?
+0,25281
+Ja, genau, also bei B, unser Vorschubreff ist 0,2542, ich habe 3 gehundet, das ist dann auch egal, ich schreibe mal 3, das kommt drauf an, wie viele Stellen in Taschenleuchten man möchte.
+Eine kurze Frage. Ja?
+Fast genommen sind Tasche klein gegeben, aber bei mir kamen irgendwie Fehler raus.
+Was kam raus?
+Einen Fehler.
+Also, man hat gemerkt, dass da Fehler standen.
+Meine Empfehlung ist, dass Sie alles direkt in Millimetern einnehmen.
+Wie habe ich das gemacht eigentlich?
+Okay.
+Also, man muss ja, warte, du musst die Pause machen.
+Wir machen 4 mal, also 8 mal r mal h minus 4 mal a Quadrat und dann die Wurzel daraus.
+Da haben Sie wahrscheinlich etwas Negatives rausgekriegt, unter der Wurzel, da kommt ein Fehler raus.
+Warte, H sind doch die 4 Millimeter.
+Das sind diese 4 Millimeter.
+Ja, die machen doch immer die Millimeter auf.
+Ja, 0,004 Millimeter.
+Millimeter sind noch größer.
+Ja.
+Ein Mikrometer sind 0,004 Millimeter.
+Aber das sind ja Meter.
+Das sind Millimeter.
+Und das mache ich mit malen und malen und malen und malen und malen und malen und malen.
+Ein Mikrometer sind 0,004 Millimeter.
+Millimeter. Ja? Ja genau, da ist es gerechnet.
+Die Einheiten sind das Gemeine hier. Mikrometer, Millimeter. Deswegen am besten alles in Millimeter gleich einsetzen.
+Dann hat man es auch leicht. Dann steht hier Millimeter mal Millimeter.
+Hier steht Millimeter mal Millimeter. Und dann die Wurzel raus aus Quadratmillimeter.
+Kommt am Ende Millimeter raus.
+So, da würde ich sagen, bei den Zeiten, die wir hier haben, dass C und D, das könnt ihr zu Hause machen.
+Der Anfang hier, A, war sehr leicht, als wir gegeben haben.
+Bei C haben wir eine andere Drehzahl.
+Die müsst ihr erst noch ausrechnen, die sind gleich in der gegebenen.
+Stattdessen ist die Schnittgeschwindigkeit gegeben.
+Und am Ende, gut das kostet es halt leicht,
+wenn es eine Minute dauert, kostet es einen Euro.
+Aber egal.
+So wird das gerechnet.
+Können Sie mal die Formel umzeigen?
+Die F-Formel.
+F ist die Wurzel aus
+8 mal r mal h minus 4 mal h mal h.
+Minus 4 mal h mal h, ja.
+Es ist schwierig, keine wirkliche Tasche an der Stelle.
+Das war feierabend. Wir haben schon nach halb schon länger gemacht.
+Dann, bis nächstes Mal.
+Probieren Sie mal, ob wir C und D hinbekommen.
+Ja.
+In etwa fünf Minuten.
+Das war's für heute.
+Ist das nicht geschrieben?
+Ja, das ist es.
+Aber das, was du jetzt trägst, ist falsch.
+Ich habe gesagt, es gibt ein Problem an beiden Seiten.
+Er hat gerade gesagt, dass er die Millimeter auf Millimeter wechseln soll.
+Ich habe es schon wechselt.
+Das sind nicht die Millimeter.
+Das ist ein Prozent.
+Ein Prozent.
+Oh, okay, okay.
+Du bist wie Black.
+Ich habe es zu einem Prozent gewählt.
+Nein, nein, ich habe gerade ein paar.
+Du weißt nicht, dass heute CS...
+Ich weiß es, aber...
+Da ist ein Freund, der hat gespielt.
+Er hat es mitgebracht.
