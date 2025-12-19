@@ -1,0 +1,941 @@
+Wir haben in der letzten Woche darüber gesprochen, auch in der praktischen Anwendung,
+wenn man zu einer Auftragszeit kommt, zu einer Prüfungszeit,
+was eigentlich die Kernelemente sind in jeder Firma, die produziert.
+Bei den Dienstleistern brauchen sie auch Zeiten,
+Weil wenn Sie eine Dienstleistung anbieten, zum Beispiel ein Softwareprogramm, dann brauchen Sie Autoprogrammierstunden, Teststunden und so weiter.
+Es lässt sich heute keiner mehr, wie sagt man im Handwerk, nach Aufwand abrechnen.
+Nach Aufwand abrechnen ist immer für den Handwerker ein Freigriff.
+weil er dann nach dem Aufwand, den er hat, abrechnen kann.
+Aber in der Industrie ist nach Aufwand abrechnen eher fest.
+Das heißt, man hat in der Regel eine detaillierte Beschreibung von dem, was man haben möchte
+und dementsprechend gibt dann auch eine Kalkulation zugrunde.
+Und für eine Kalkulation brauche ich wiederum Auftragszeiten, Belegungszeiten
+und wenn der Kunde auch noch einen Liefertermin wissen will, auch die Durchlaufzeiten.
+Das heißt, im Grunde unterscheiden sich die Dinge aus der Sicht des Menschen.
+Was brauchen wir an menschlichen Kapazitäten? Das hängt auch mit der Planung zusammen,
+nicht nur allein mit den Kosten, sondern wir haben in der Regel ein ERP-System, mit dem wir die
+Produktion planen und das ERP-System muss irgendwie gefüttert werden mit Daten, damit ich die richtige
+die richtige Maschinenkapazität habe, die richtige Mitarbeiterkapazität in Form von Stunden
+und dann das Material synchron zu dem Fertigungsfortschritt abgeliefert wird oder bereitgestellt wird.
+So, das sind die grundsätzlichen Dinge, die wir in jedem Unternehmen mehr oder weniger genau brauchen.
+Wann brauchen wir es genauer?
+Immer dann, wenn wir Serie, Großserie, Masse fertigen.
+Weil, wenn die Zeit je Einheit für ein Produkt, das wir herstellen, nicht stimmt, dann sind
+in der Serienfertigung, in der Massenfertigung die Abweichungen riesengroß.
+Sie sehen das jetzt im Moment bei vielen Unternehmen, die Unternehmen geraten der Reihe nach in
+Die Schwierigkeiten kommen in den meisten Fällen aus kalkulatorischer Sicht.
+Es ist auch das Risiko, das man trägt.
+Im Prinzip ist es derzeit so, dass die Unternehmen das Risiko ein bisschen scheuen.
+Weil die Unsicherheit allgemein groß ist.
+Also ein Unternehmen, das weltweit exportiert, das hat grundsätzlich die Thematik mit Zoll und anderen Handelsbeschränkungen,
+die das Leben unbedingt leicht machen.
+mehr oder weniger
+es ist eine Berg- und Talfahrt
+so, aber die nächste Frage ist
+für den heutigen Tag
+wie kommen wir zu den Daten
+wir hatten ja jetzt zwei, drei Beispiele
+da war ja mehr oder weniger
+fast alles vorhanden
+die Zeiten standen in dem
+in der Auftragszeitberechnung bereits drin.
+Und wir haben nur diese Zeitarten zugeordnet,
+damit wir wissen, für welche Zeitart oder welche Tätigkeit die Zeit verbraucht wird.
+Interessiert uns aus dieser Sicht heraus,
+dass wir eigentlich, wenn wir Mitarbeiter haben, die möglichst produktiv einsetzen.
+Das heißt, mit anderen Worten, die Zeiten, die in einem Unternehmen anfallen,
+die wollen wir auf Kundenaufträge verrechnen.
+So, die andere Sache ist, wie kommen wir zu den Daten?
+Das heißt, wir haben grundsätzlich den Wettbewerbsfaktor Zeit, wenn man in Deutschland im Moment die
+öffentliche Diskussion betrachtet, dann ist es einfach so, dass wir grundsätzlich
+in vielen Dingen zu langsam sind.
+Wenn man jetzt gestern, was ist denn so, gestern jemand Fernsehen geschaut hat, da kam die
+Reiche und haben sie fünf verschiedene Unternehmen vorgestellt. Die Unternehmen investieren alle
+nicht in Deutschland. Unter anderem war das Unternehmen Pizerba, das Wagen herstellt.
+Die expandieren jetzt in Kroatien. Grundlohnkosten. Das heißt, sie haben einen komplett neuen
+Standort aufgebaut. Sie wollten erst in Richtung Amerika gehen, aber die Zölle ist ein Faktor.
+So, aber selbst wenn sie jetzt in Kroatien investieren, dann ist die Entscheidung gefallen.
+Der Baubeginn, also innerhalb von zwölf Monaten haben sie das Werk aufgebaut und dann hat der
+die kroatische Regierung auch mit Zöllen belegt. So, das heißt, Wettbewerbsfaktor Zeit ist
+grundsätzlich das Thema, wenn wir Mitarbeiter beschäftigen und wenn wir Kapazitäten auf
+Maschinen brauchen. Zeitdatenermittlung in Unternehmen wird erst in den nächsten Jahren
+den Sprung erreichen wieder, den wir brauchen, weil mehr und mehr Daten von den Maschinen kommen
+und wir die Zeitdaten nicht mehr ermitteln müssen. Das ist also das große Handicap.
+So, dann ist die Frage, für welche Verwendungszwecke brauchen wir die Daten?
+Einmal kalkulatorische Zwecke, Entlohnung und so weiter.
+Dann ist die Frage der Methode der Datengewinnung.
+Grundsätzlich kann man sagen, wir können Ist-Daten erfassen.
+Ist-Daten setzt einen Arbeitsplatz voraus, an dem ein Produkt hergestellt wird.
+Das heißt, ich kann zusehen und kann die Zeiten erfassen.
+Die andere Seite ist die Sollzeitbestimmung. Die Sollzeitbestimmung setzt keinen Arbeitsplatz voraus,
+nur die kreative Vorstellung des Mitarbeiters, wie er das Produkt herstellen will und dann den
+Bewegungsablauf zerlegt und mit den Einflussgrößen dann die Zeitdaten berechnet. Beide Methoden haben
+ihre Vor- und Nachteile. In der Großserienfertigung ist meistens das Zollzeitenbestimmen, wenn Sie
+bei einem Bosch reingehen, dann ist es
+einfach so, dass jede
+hundertstel Minute eine Rolle spielt.
+So, und in Zukunft
+noch mehr.
+So, und dann
+ist die Frage für diese
+Zeitdatenermittlung, was ist der
+Aufwand zum Ermitteln
+und was ist der Nutzen,
+den der Maskenbrauch daraus hat?
+Also wenn ich
+für die Zeitdatenermittlung genauso
+lange brauche, wie für das
+Herstellen eines Produktes,
+dann macht es keinen Sinn. Das heißt, ich muss mir auch hier überlegen, welche Methode ist die richtige,
+um mit möglichst geringem Aufwand zu einem einigermaßen Ergebnis zu kommen. Das heißt,
+mit anderen Worten, für Kleinserien, Prototypenfertigung und so, da reicht es, wenn man ungefähre Daten
+hat, ohne dass man einen großen Aufwand einschält. Im Prinzip, was wollen wir wissen? Wir wollen
+wissen wie Produktivität ist, wie die Rentabilität ist und wie die Flexibilität ist. Für alle drei
+Dinge brauchen wir diese Zeit. Ohne die kommen wir nicht aus. Gleichzeitig haben wir das Problem,
+dass die Zeit mit den Kosten im Konflikt stehen und mit der Qualität. In der Regel ist es so,
+Sie können das ganz gut verfolgen. Welcher Heizungshersteller ist an die Amerikaner
+verkauft worden? FISMA. Das ist jetzt ungefähr eineinhalb Jahre her, zwei Jahre her. Seitdem
+regiert die amerikanische Profit-Familie.
+Wenn Sie draußen hören, von allen, die eine Fisman-Heizung im Moment kaufen,
+dann ist es eine Katastrophe.
+Qualitätsmengen, Servicemengen, überall quer durch die Bank.
+Das heißt, Fiesmann hat von den Amerikanern viel Geld bekommen und das Geld muss wieder erwirtschaftet werden.
+Das heißt, es wird reinkalkuliert und die Personalkosten werden reduziert und optimiert.
+In Summe ist es immer ein Risiko. Also wenn der Eigentümer wechselt, ist es das Risiko, dass man in der Qualität abstürzt oder in anderen Dingen.
+wenn der neue Eigentümer
+nicht das gleiche Denken hat
+wie der, der die Firma
+verkauft hat
+weil er, der verkauft hat
+der hat vorher
+Geld reingesteckt, damit er
+einen guten Preis erzielt
+so, das heißt
+das ist das magische Dreieck
+wenn die Kosten runter müssen
+müssen die Zeiten runter
+und in der Regel
+bleiben die Qualität
+So, wenn wir jetzt den Wettbewerbsfaktor Zeit nehmen, dann ist es so, dass wir in der Produktion
+speziell Zeitung vorgeben.
+Das heißt, jeder Arbeitsplatz, der eine Montagetätigkeit, eine Maschinentätigkeit hat, hat eine Zeitvorgabe.
+Und die Frage ist, wie genau ist die Zeitvorgabe?
+Wie repräsentativ ist das, was wir vorgeben?
+Und wie groß ist die Schwankungsbreite?
+Das heißt, im Prinzip haben Sie mehrere Vergleichswerte.
+Und die schwanken um einen normalen Level herum.
+Die Frage ist, was ist normal?
+In den letzten Jahren hat man den Level immer weiter gelockert.
+Das heißt, man hat Mitarbeiter gesucht, wo keines war, und hat dann das Level angehoben,
+angehoben, angehoben.
+So, im Moment stehen die Unternehmen alle unter Druck.
+Jetzt wird er wieder gesenkt.
+So, das heißt, im Prinzip, wir müssen schauen, dass wir einen Vorgabewert bekommen,
+der realistisch ist, erreichbar ist und auch human ist.
+Wenn Sie Zeiten vorgeben an einem Arbeitsplatz, wo der Mitarbeiter die Zeit nie erreichen kann, dann ist das krank.
+Weil der Mitarbeiter ist frustriert, weil er die Prämien, die dann bei entsprechender Menge ausgeschrieben sind, nicht erreichen kann.
+und er steht unter Leistungsdruck
+und der Leistungsdruck
+ist dann so hoch
+dass ich einen Haufen
+Fettsack habe
+also im Grunde
+geht es darum, dass wir
+eine Zeitvorgabe
+machen, die
+ideal ist
+in jedem
+Unternehmen ist das Ideal anders
+das ist
+das große Problem
+So, wofür wollen wir es nutzen? Das heißt, wir haben Wiederbeschaffungszeiten, wir müssen Material
+rechtzeitig bereitstellen, also betrifft es die Durchlaufzeit. Wir haben flexible Arbeitszeiten,
+wir müssen schauen, dass wir die Arbeitsplätze so belegen können, dass die Fertigung nicht leidet.
+Wir müssen das Personal planen. Das ist ein ganz großer Punkt. Das heißt, wir haben ein Produktportfolio, das wir verkaufen wollen und somit auch herstellen wollen.
+Wenn wir das Produktportfolio herstellen wollen, dann brauchen wir so und so viele Mitarbeiter mit so und so vielen Stunden.
+So, Personalbemessung hängt ab vom Kapazitätsbedarf aus den Kundenaufträgen
+und wird gegenübergestellt zum Kapazitätsbestand, der sich aus den Vertragszeiten der Mitarbeiter ergibt.
+So, und das muss irgendwo im Gleichgewicht sein.
+So, Leerzeit gibt es in jedem Unternehmen jede Menge Unsicherheiten.
+Dann ist es natürlich umso schwerer, das Personal zu planen.
+Weiters braucht man die Daten für die Lieferzeitbestimmungen.
+Das heißt, heute geht ja vieles übers Internet.
+Und wenn man im Internet eine Bestellung eingegeben hat,
+dann will man eigentlich schon wissen, ist das Produkt am nächsten Tag da oder in sechs Wochen oder gibt es keinen Liefertermin.
+Also die Lieferzeitbestimmung ist heute ein Kernfaktor, aber unter Umständen für komplexe Produkte nicht so einfach zu definieren.
+Zur Ermittlung der Durchlaufzeiten vom Auftragsanteilung bis zur Auslieferung.
+Die Fertigungssteuerung. Was macht die Fertigungssteuerung?
+Der schönste Job ist der Feuerlöscher.
+Die Fertigungssteuerung muss immer schauen, dass das, was wir geplant haben,
+in vier Wochen, in acht Wochen, in einem Vierteljahr, dass das auch produziert wird.
+Und wenn wir von dem, was wir geplant haben, abweichen, positiv oder negativ, dann müssen wir eingreifen.
+Weil ansonsten viele Dinge nicht mehr funktionieren.
+So, Kapazitätsplanung, grundsätzlich Maschinen, Betriebsstätten, Mitarbeiter.
+Bei den Maschinen kommen weiter dazu Werkzeuge.
+Weil auf den Maschinen laufen unter Umständen verschiedene Werkzeuge, die ich brauche und
+die eine bestimmte Kapazität haben.
+So, dann das Thema der Entlohnung.
+Leistungsentlohnung, Premierentlohnung, Zeitentlohnung, ist egal was Sie entlohnen.
+Im Prinzip ist es immer ein Aufwand, das Entlohnungssystem zu begreifen.
+Wenn Sie einen Leistungslohn ermitteln, dann haben Sie einen großen Aufwand für die Leistungslohnzulage.
+Wenn Sie einen Prämienlohn machen, dann haben Sie das gleiche Problem.
+Die Prämie basiert ja entweder auf Qualitätslevel oder Materialverbrauchslevel oder Maschinennutzungslevel.
+Je nachdem haben wir unterschiedliche Themen.
+Belegungszeit betrifft die Maschine, Vorkalkulation betrifft den Kunden.
+Der Kunde möchte ja möglichst in der Vorkalkulation den exakten Preis haben,
+den er dann auch später kriegt und nicht dann, so wie in verschiedenen Projekten, das Doppelte oder das Dreibache.
+Das ist dann nicht unbedingt das, was wünschen Sie.
+So, und dann das Thema der Auslastungsbetrachtungen.
+So, das ist das, wo die Firmen derzeit ihre große Differenz haben.
+weil das was sie kalkuliert haben
+das trifft derzeit nicht zu
+von der Auslastung
+von 3 Schicht auf 2 Schicht
+auf 1 Schicht
+manche Firmen machen am Donnerstag
+und am Freitag schon zu
+können Sie sehen
+je nachdem
+grundsätzlich
+die Auslastung
+ist ein längerfristiges Thema
+weil es dann
+die Abschreibungen betrifft und eine verzögerte Kostenexplosion da in Kraft tritt. Wenn wir keine
+Zeitdaten ermitteln, dann ist es so, dass grundsätzlich die Produktivität sinkt, weil wir
+ich keine Vorgaben habe, dann brauche ich ihn so lange wie ich brauche. Wenn ich den
+Mitarbeiter nicht freundlicher Glück mache, dann wird er sich die Zeit nehmen. Daher sinken
+die Produktivitäten. Weiters ist es, wenn wir zu einzelnen Produkten oder zu einzelnen
+in den Prozessen eine Aussagekraft braucht für die Entscheidung, ob man hier investiert,
+in einen neuen Standort investiert oder in einen besseren Ablauf, in eine Fertigung.
+Wenn ich dann nicht die Daten habe, die ich als Entscheidungsgrundlage brauche, dann trete
+ich falsche Entscheidungen.
+So, und somit haben wir eine abnehmende Führungsqualität.
+Grundsätzlich sagt man, wenn man keine Ziele festlegt, wird man nicht besser.
+Das heißt, die Unternehmen brauchen Ziele.
+Damit ich im Ziel festlegen kann, brauche ich Sollwerte, die ich vorgebe.
+Damit ich Sollwerte bekomme, muss ich Istwerte erfassen.
+Istwerte erfassen, entweder selber aufschreiben,
+schätzen aus verschiedenen Aufträgen,
+ermitteln mittels Zeitaufnahme,
+ermitteln Mittel
+Regressionsanalyse
+oder
+soll Zeiten bestimmen über
+zum Beispiel
+MTM.
+Im Grunde ist es
+so, dass die Unternehmen dann
+speziell die großen Konzerne,
+die sind ja alle Kontrollen getrieben,
+die sollen
+wir hier aufsetzen,
+das sind Vorgaben
+und die Vorgaben
+Und werden dann monatlich, wöchentlich, täglich kontrolliert, ob man diese Vorgaben erreicht.
+So, es kann zum Beispiel sein, dass man Kistwerte aus einer Fabrik hat,
+die einen verkrüppelten Materialfluss hat, weil die Maschinen irgendwann mal so gebaut worden sind
+und aufgestellt worden sind
+und eine neue Ausrichtung
+zum Beispiel nach Segmenten
+den Materialfluss beschleunigt
+die Durchlaufzeit verkürzt
+und so weiter
+das heißt
+wenn Sie im Unternehmen
+irgendwas verbessern wollen
+dann müssen Sie vorher
+Daten haben
+anders ist es
+leider nicht möglich
+wenn Sie genug Geld haben
+dann sagen Sie, okay, ich finde das ist gut, ich putze mein Geld rein.
+Ob dann mehr oder besseres rauskommt, weiß ich nicht.
+Aber im Grunde ist es immer so, dass die, die Geld haben, die wollen noch mehr Geld.
+Also werden Sie vorher schauen, dass Sie an Daten kommen, um das Produkt oder das Ergebnis noch zu verbessern.
+Was anderes ist eigentlich Spekulation an der Brüste.
+So, im Prinzip ist das ganze Dilemma von dem Zeitfaktor, dass wir in der Arbeitsplanung,
+in der Arbeitsvorbereitung, in der Zeitwirtschaft eigentlich Mitarbeiter beschäftigen, die zahlen
+müssen. Und das muss in einem vernünftigen Verhältnis sein zu dem, was wir an Ratioaufwand
+betreiben, zu dem Ratio gewinnen. Im Prinzip ist die Zeit und die Kosten für das, was
+mehr an Daten ermitteln und betreiben,
+in Reaktionen zu setzen.
+Man kann die
+Zeitwirtschaft auch unwirtschaftlich
+betreiben.
+Das ist es, wenn der
+Mitarbeiter in der Zeitwirtschaft
+der Zeitaufnahme durchführt
+in der Fertigung,
+nach dem gleichen Schema, wie vor 20 Jahren.
+Und sagt, das haben wir immer schon so gemacht.
+Dann ist das Problem riesengroß.
+Weil in der Ist-Zeitermittlung nach der manuellen Basis,
+wie man es vor 20 Jahren gemacht hat,
+hat das Datenermitteln an einem Arbeitsplatz
+genauso lange gedauert, wie die Datenauswertung und die Aufbereitung.
+Wenn Sie es heute mit dem elektronischen Zeiterfassungsgerät machen, dann haben Sie simultan zu der Zeilaufnahme die Ergebnisse dazu, ohne dass Sie einen großen Aufwand bereiten.
+Und das Ziel wird als nächstes sein, dass man, was weiß ich, mit einer 3D-Bille nach den verschiedenen Codes den Ablauf analysiert und automatisch das Ganze hat.
+Im Moment gibt es erste Versuche dazu.
+Das heißt, der Aufwand, der soll sinken.
+Das ist so, wie wenn die Regierung sagt, wir müssen schneller werden und wir müssen einfacher werden und wir müssen besser werden.
+Das hat die Wirtschaftsministerin gestern gesagt.
+So, und im Unternehmen ist es nichts anderes.
+Die Frage ist immer, wie objektiv schaut man auf Dinge, die in der Firma passieren und wie ist man bereit, die Dinge zu verändern, indem man sie schneller macht.
+Grundsätzlich sage ich, Gewerkschafter, das habe ich jetzt aus Unternehmersicht, sind die Bremse in dem Ding.
+Weil die Gewerkschafter schauen nur, dass der Mitarbeiter mehr Lohn kriegt, bessere
+Arbeitsbedingungen und ein bequemes Arbeitsleben hat, sage ich jetzt als Arbeitgeber.
+Immer mag das nicht richtig sein, aber in vielen Bereichen ist es so.
+Das heißt, man versucht Standards zu etablieren, die für viele Unternehmen nicht praktisch sind.
+Da muss man schauen, wie man das grundsätzlich regeln kann, sodass wir schneller werden, effektiver werden.
+Im Prinzip ist es so, dass die ausführende Arbeit immer weniger wird und die dispositive Arbeit immer mehr.
+Und in der dispositiven Arbeit, da werden Unmengen an Zeiten verbraucht.
+Aber die müssen wir auch als Produkt aufrechnen.
+Das heißt, die Frage ist auch in den nächsten zwei, drei Jahren, was macht die künstliche Intelligenz in vielen Fällen besser als der Mensch?
+weil der Mensch
+der plant
+der hat nur seinen
+Rollen zu
+wenn ich die künstliche Intelligenz
+mit umfangreichen Daten
+fütter, die
+genau zutreffend ist für mein Problem
+da kriege ich auch genaue Ergebnisse
+das heißt, wir müssen
+schauen, wie wir
+die künstliche Intelligenz
+einsetzen können, damit wir einen möglichst geringen Aufwand haben und effizienter werden.
+Ich in meinem Unternehmen, ich bin als Chef da und meine Tochter ist Halbwachs da. Das ist der
+administrative Aufwand. Sonst könnte ich sagen, ich bin noch nicht überall digital. Aber wenn
+Wenn ich digital werden will, dann brauche ich dementsprechend wieder Kapazität.
+Die Frage ist, wenn ich digital bin, wird deshalb das Produkt besser?
+Ich brauche die Mitarbeiter an der Maschine.
+Und die bringen das Geld.
+Das andere kostet vielleicht Geld, vielleicht bringt es einen Nutzen.
+Das gleiche ist, wenn man in der Entwicklung am Anfang spart.
+Beispiel von Mercedes, früher war der 190er Mercedes der Nonplusultra für den Taxifahrer.
+Bis man irgendwann gesagt hat, wir müssen einen Haufen einsparen, das Taxi ist zu teuer.
+Dann haben irgendwann mal gesagt die Leute, das ist alles eine Fehlkonstruktion, wir wollen keinen Mercedes mehr fahren.
+Das heißt, wenn man am Anfang unheimlich viel einspart, kann es unter Umständen danach sehr teuer werden, wenn der Kunde nicht zufrieden ist.
+Das heißt, ich muss dann ändern.
+Einsparungen haben Sie in erster Linie, wenn Sie die Technologie wechseln.
+Also zum Beispiel von Druckguss auf Spritzguss, Kunststoff.
+Beide Systeme haben Vorteile.
+Wenn Sie bei Maho von der Gusskonstruktion für die Maschine auf eine Schweißkonstruktion gehen.
+Beide Dinge haben Vorteile. Im Prinzip ist es so, meistens wird die Technologie nicht geändert, wenn sie etabliert ist und wir dafür ausgerüstet sind.
+Das heißt, es ist die Mittelständler, die jetzt im Moment das größte Problem haben,
+das sind die, die eine bestimmte Technologie haben und die Technologie ist jetzt überflüssig.
+Weil man die Komponenten nicht mehr braucht.
+Ich war heute beim Werkzeugmachen.
+Er sagt, Werkzeuge, im Moment Herstellung.
+Da gibt es vielleicht ein paar Anfragen, aber er macht nur Werkzeuge.
+Das ist ein Riesenproblem da.
+Das heißt, Sie brauchen triffige Dinge, damit die Kosten optimal sind.
+beginnen in der Konstruktion
+und dann sie später
+einen möglichst geringen
+Änderungsaufwand haben.
+So,
+weiter haben wir das Thema
+der Entlohnung.
+Bisherige
+Entgeltsysteme.
+Zeitlohn,
+Gehalt.
+Das habe ich in den vergangenen Jahren so gemacht.
+Dann interessiert den Mitarbeiter nicht, was am Ende des Monats rausgekommen ist.
+Er bekommt ja immer das gleiche Geld.
+Vor zwei Jahren habe ich dann eine Prämie eingeführt.
+Dann ist es besser geworden.
+Jetzt im letzten Jahr habe ich die Prämien verdoppelt.
+Das heißt, der Prämienanteil in Entlohnung ist jetzt 30 Prozent.
+Dann schauen die Mitarbeiter, dass wir die Produkte in der Zeit fertigen, in der wir sie brauchen.
+Für mich kostet es mehr Geld, ja, aber steht in keinem Verhältnis zu dem Ertrag.
+Weil die Mitarbeiter effektiv arbeiten. Die schauen selber drum, dass das läuft. Und dass
+sie selber auch wenig Aufwand haben, also zum Umrüsten. Die schauen schon in der Woche,
+was sie machen müssen. Und sie schauen am Vortag, welche Produkte es am nächsten Tag laufen und die
+Sie bereiten gleichzeitig das Umrüsten der Anlagen vor, sodass es läuft.
+Das heißt, mit der Entlohnung können Sie viele Dinge regeln.
+Das heißt, Sie können Leistungszulagen geben.
+Akkordentlohnung ist auf der absteigenden Seite, weil der Akkord eigentlich nur die Menge bedingt.
+Früher waren es 40% aller Montagetätigkeiten, die über Akkord entlohnt wurden, auch die Maschinentätigkeiten.
+Heute ist der Akkordlohn 10% von den Mitarbeitern, mehr ist mit Sicherheit nicht mehr.
+Einfache Prämie, kombinierte Prämie.
+Einfache Prämie ist, wenn Sie ein Kriterium haben, für das der Mitarbeiter eine Prämie bekommt.
+Ideal ist es, wenn Sie zwei oder drei Kriterien haben.
+Nicht mehr Kriterien, weil mit vier oder fünf Kriterien kann der Mitarbeiter nicht mehr nachvollziehen, für was kriegt er denn jetzt Geld.
+So, desweiteren bei den Prämien in den Führungsetagen, dann machen die Unternehmen manchmal Prämien, wenn man bestimmte Absatzziele erreicht.
+So, in der mittleren Führungsebene haben die meisten keine Orientierung, weil sie das Ergebnis in Summe nicht beeinflussen können.
+Das heißt, man muss sich grundsätzlich überlegen, wo soll das hingehen.
+Auf der Führungsebene ist vielfach das Zielvereinbarung ein Thema.
+Also man hat jährliche Mitarbeitergespräche mit den Führungsleuten und vereinbart für das nächste Jahr Schwerpunktziele, an denen sich die Prämie oder das Gehalt orientiert.
+Ergebnis und Erfolgsorientierung, das ist Thema, ja, da muss man sehr transparent sein und das sind die meisten nicht.
+So, das heißt, wir haben Grundlagen, wir müssen schauen, für was wir die Zeiten verwenden wollen, welche Methoden wir anwenden wollen,
+was ist der Aufwand und der Nutzen von dem ganzen Thema und dann können wir dementsprechend Methoden auswählen, wie wir unsere Daten ermitteln.
+Zeitwirtschaft ist die Bewirtschaftung aller im Unternehmen benötigten Zeiten für Mensch, Betriebsmittel, Material und andere Produktionsfaktoren.
+So, wie mache ich das denn im Normalfall?
+Ich sage, für alle Produktionsfaktoren.
+Wie regle ich das denn?
+Wie komme ich drauf, Belagen läuft oder nicht?
+Einmal die Kennzahlen, die Sie hier ansprechen, sind für die Produktion, oder?
+Ja. Aber Sie haben ja jetzt in den meisten Unternehmen eine nichtproduktive Einheit, die so groß ist wie die Produktion. Wie machen Sie das denn mit der Leistung?
+Die Ziele erfüllt werden, die vorher definiert werden.
+Ja, einmal die Ziele, die definieren.
+Was wären Ziele, die ich messen kann?
+Die müssen halt auch so formuliert werden,
+wenn wir jetzt so stehen, dass man hat ein Ziel oder so.
+Und sollten dann auch überprüft werden.
+Und viele Abteilungen im operativen Bereich sind ja auch vernünftig mit dem Umsatz.
+Ja, im Prinzip ist es so, in den meisten Fällen gibt es in den indirekten Bereichen Kostenstellen.
+Es gibt das Kostenstellenplan, es gibt ein Budget.
+und wenn wir uns innerhalb des Budgets bewegen und die Ziele, die definiert sind, erreichen,
+dann ist alles im grünen Bereich.
+Das heißt, wir wirtschaften, Leute planen, verwenden, kontrollieren der Zeiten
+und ableiten entsprechende Gestaltungsmaßnahmen.
+Wenn Sie derzeit in die Industrie reinschauen, dann machen viele Dinge das Leben in den Unternehmen schwer,
+weil viele Unternehmer hergehen und sagen, wir kappen einfach 100 Jobs, 200 Jobs, 500 Jobs.
+Das ist die unfeine Art. Die andere Art wäre die, dass man erst schaut, was kann man verändern und dann dementsprechend darauf reagiert.
+Abgrenzung von Ist und Soll
+Istzeiten sind tatsächlich gebrauchte Zeiten
+für die Ausführung bestimmter Ablaufanschläge
+Sollzeiten sind die, die mir vorgehen
+Vorwohlen liegt der Unterschied zwischen Ist und Soll.
+Ist Zeit ist, wenn ich Ihnen zuschaue, wie Sie einteilig modieren, die Zeit erfasse.
+Dann gehe ich her und schaue, macht er das denn umständlich? Macht er das so, wie ich mir das vorstelle?
+Das heißt, die Ist-Zeit erfassen ist das eine Thema. Dann kommt die Leistungsbeurteilung und
+das ist das, was bei REFA durchaus umstritten ist. Das heißt, man erfasst die Ist-Zeiten und
+beurteilt gleichzeitig die Leistung des Mitarbeiters. Und wenn ich sage, der Mitarbeiter arbeitet
+kipptopp, der hat 120 Prozent Leistung, dann fällt die Vorgabezeit oder die Sollzeit höher aus,
+wie seine gebrauchte Istzeit. Das Problem bei der Leistungsbeurteilung ist grundsätzlich,
+desto weiter sie abweichen
+von dem normalen Level
+also 100% Leistung
+wenn einer nur 70% Leistung bringt
+oder einer 140% Leistung bringt
+dann ist man in der Beurteilung
+nicht mehr so sicher
+das heißt
+dass die 70% wirklich realistisch beurteilen
+ist dann eine Gefahr.
+Das heißt, man schaut möglichst, wenn man Zeitdaten erfasst,
+dass man am Arbeitsplatz einen Mitarbeiter hat,
+der mit normaler Geschwindigkeit, mit normaler Effektivität arbeitet.
+Das ist eigentlich das Ziel.
+Die Sollzeit mit dem Leistungsgrad
+ist in der Regel
+dann diese REFA-Normalleistung.
+Vorgabe oder Planzeiten
+basieren auf Sollzeiten.
+Das heißt,
+wir geben dann diese
+Sollzeiten in den
+Arbeitsplan und somit
+in die ERP-Systeme
+und dementsprechend wird dann
+geplant.
+Weiters haben wir noch diese Planzeiten. Planzeiten sind Sollzeiten, die mit Hilfe von Einflussgrößen beschritten sind.
+Das heißt, über die lineare Regression, wenn man sagt, okay, ich mache eine Schweißlatte, 100 mm, 200 mm, 300 mm.
+Und für diese Schweißnaht 100 Millimeter brauche ich so lange, für die 200 Millimeter brauche ich so lange.
+Normale lineare Regression.
+Das heißt, ich versuche mit der linearen Regression oder den Planzeittabellen Standards zu etablieren
+und den Aufwand für die Zeitdatenermittlung zu reduzieren.
+Also ein Beispiel dazu.
+Ich hatte in der Vergangenheit ein Projekt, SAP, für einen Garagentorhersteller in Württemberg geschickt.
+Der Unternehmenschef hat gesagt, es ist eigentlich schlecht, wenn der Verkäufer zu der Baustelle rausgeht,
+dann das Garagentor ausmisst und die Kundenanforderungen aufnimmt,
+dass er dann mit dem ganzen Kladderadatsch ins Büro geht und die Kalkulation sich dann damit auseinandersetzt.
+Und dann wird irgendwann ein Angebot geschickt, das der Kunde ablehnen kann oder annehmen kann.
+Er hat gesagt, er braucht gute Verkäufer und die Verkäufer sollen das Produkt verkaufen beim ersten Termin.
+Das heißt, er hat über diese Einflussgrößen von den Produkten, die in der Herstellung waren,
+Tabellen abgeleitet
+so dass er
+als Verkäufer automatisch
+den Preis ermitteln konnte
+mit diesen ganzen
+Einflusskursen
+so das ganze
+Tabellenwerk war im SAP hinterlegt
+und er ging schrittweise
+durch in seinem
+Konfigurator und hat die Dinge
+abgefragt bis er den
+Endpreis gehabt hat
+und dann hat der Verkäufer
+noch einen Spielraum gehabt
+vom Verkaufspreis,
+was er maximal nach unten gehen kann
+und was er frischmäßig
+über den Preis noch gehen kann.
+Aber in Summe
+war das einfach so,
+dass man
+geschaut hat,
+wie kann ich möglichst
+den Kunden gleich
+vor vollendete
+Tatsachen stellen,
+in denen er sich dann
+unterscheidet.
+Verwendungszweck grundsätzlich für die Betriebsführung.
+Wir haben grundsätzlich Kennzahlen, Steuerung und Controlling und Entgeltfindung.
+In der Planung haben wir das Thema der Terminplanung, der Kapazitätsplanung und, was wir nicht angesprochen haben, der Investitionsplanung.
+Das heißt, wenn wir investieren in eine Maschine, dann müssen wir wissen, ob sich das ganze Thema auch berechnet.
+Dann, gestalten.
+Alle Beispiele, die gestern in einem Fernsehen gezeigt worden sind, gehen darauf hinaus, dass man die Prozesse optimiert.
+Bei den Pizzeria ging es darum, dass man vor Ort möglichst die Endwerkschöpfung macht.
+Das heißt, es gibt ein deutsches Stammwerk, das stellt die Key-Komponenten her und die Produkte
+in der Endkonfiguration werden dann in den jeweiligen Ländern hergestellt, wo sie die
+Das heißt, es hängt mit der Produktgestaltung und der Prozessgestaltung zusammen,
+wo man dann unter Umständen Kosten einsparen kann, nicht unbedingt in der Fertigung,
+aber unter Umständen in der ganzen Vollpolitik und den außerbetrieblichen Rahmenbedingungen.
+So, dann haben wir natürlich das Kalkulationsthema, wir brauchen irgendwo die Preisbildung.
+So, und da ist es auch so, dass ich in der Preisbildung eigentlich in den meisten Fällen
+ein Basisprodukt habe und das Basisprodukt weicht dann mit dem und dem und dem ab.
+Also sprich, es gibt ein i5-BMW in der Basis-Konfiguration und dann gibt es Pakete, die Sie reinpacken können.
+Die Pakete, die Sie reinpacken können, entsprechen normalerweise nie den Vorstellungen des Kunden,
+sondern immer des Verkäufers
+weil er möchte Ihnen
+Pakete verkaufen
+die für ihn Sinn machen
+so deshalb
+für die Preisbildung ist es wirtschaftlich
+wichtig
+dann die Wirtschaftlichkeitsrechnung
+was versteht man darunter
+wir können in einem Unternehmen
+unter Umständen auf verschiedenen
+Maschinen die Produkte herstellen
+zu unterschiedlichen Kosten
+wirtschaftlich ist dann
+wo die niedrigsten Kosten entstehen
+das heißt
+ich schaue wie ich die
+Wirtschaftlichkeit optimieren kann.
+Das Dritte, was hier noch steht, ist der Verfahrensvergleich.
+Wenn ich unterschiedliche Produktionsverfahren habe,
+dann muss ich schauen, was ist in dem Verfahren
+die Materialkosten, die Lohnkosten, die Maschinenkosten usw.
+So, das heißt, diese Zeitdaten verwenden wir führungsbezogen, auf die Unternehmensführung,
+auf die Mitarbeiter bezogen und auf das Produkt bezogen.
+Wir brauchen sie eigentlich überall.
+Wenn wir das Produkt von der Lebenszeit her anschauen, dann ist es so, in der Entwicklung
+spielt es eine Rolle, wie hoch sind die Entwicklungskosten und rechnet sich das Produkt überhaupt mal.
+Dann in der Entwicklungs- und Konstruktionszeit, in der Produktionsplanungszeit und so weiter.
+im prinzip in der vergangenheit hat sich das meiste auf die produktion fixiert
+in der zukunft wird es auch so sein dass die produkte grundsätzlich zerlegen müssen weil
+Weil langfristig fehlen die Rohstoffe und das Zweite ist, die Rohstoffe können Sie nicht einfach mehr ins Meer schmeißen, sondern Sie müssen sie irgendwo anders verwenden.
+deshalb Produktlebenszeit
+so beginnt in der Konstruktion
+also ich habe selber mal in der Konstruktion angefangen
+habe die Mitbewerberprodukte zerlegt
+habe geschaut wie sie die zusammenbauen
+welche Teile da drin sind
+welche Teile von den Arbeitsschritten her sind
+und so weiter
+so können Sie ganze Produkte zerlegen
+So kommen wir zu den eigentlichen Methoden, Ist-Zeiten-Erfassen, Ist-Zeiten-Erfassen heißt
+aus Betriebsdaten. Zum Beispiel, Sie haben an jeder Maschine ein BDE-Terminal. Im einfachsten
+Fall hat das BDE-Terminal drei Tasten, rot, gelb, grün. Rot heißt, die Maschine steht
+wegen fehlendem Auftrag, fehlendes Personal oder andere Dinge.
+Gelb ist, die Maschine wird gerüstet und grün ist, sie ist produktiv.
+Weiters können Sie das nach den Kriterien unterteilen,
+die wir auch in der Auftragszeit oder der Belegungszeit hatten.
+Sie können sagen, die Maschine wird produktiv genutzt für den Kundenauftrag, die Maschine
+wird gerüstet, die Maschine hat Störungen oder es ist ein Mitarbeiter nicht da. Sie können alles
+definieren in der BDE. Das muss hier nur jemand richtig bedienen. So, das Einfachste ist durch
+Befragen ermitteln. Die Frage ist, sagen Ihnen die Mitarbeiter die Wahrheit? Also durch Befragen
+ermitteln. Ich hatte das Thema mal in der Arbeitsvorbereitung. Man hat in der Arbeitsvorbereitung
+oder in den indirekten Bereichen, wollte man eine Prozesskostenrechnung machen.
+Damit Sie eine Prozesskostenrechnung machen können, müssen Sie aufschreiben,
+was macht denn der Mitarbeiter in der Arbeitsplanung den ganzen Tag?
+Und für welche Produkte macht er das?
+So, durch Befragen, Aufschreiben, wenn Sie das formlos vorgeben, kommt nichts dabei raus.
+Das heißt, Sie müssen einen Rahmen vorgeben von dem, was Sie dann später wissen wollen.
+In der Prozesskostenrechnung ging es darum, welche Mengen an Arbeitszeit sind neutral,
+und welche Zeiten sind mengenabhängig. Also Zeiten zum Beispiel für Stücklisten erstellen,
+hängt von der Stückliste und dem Umfang ab, der Komponenten. Neutral bedeutet,
+er muss grundsätzlich bestimmte
+Tätigkeiten machen, egal ob
+wir 10 Stück, 100 Stück
+oder 1000 Stück machen
+deshalb durch Befragen
+ermitteln
+ich muss wissen, wo will ich hin
+was will ich am Ende
+wissen
+und manchmal, so wie bei mir auch
+hat es erst
+beim dritten Mal funktioniert
+beim ersten Mal haben wir nichts vorgegeben
+beim zweiten Mal haben wir
+einen kleinen Rahmen vorgegeben
+und beim dritten Mal wussten wir
+genau, was wir wissen wollten.
+Beim zweiten Mal hätte es gereicht,
+für die, die die Ergebnisse
+wissen wollten, aber für mich nicht.
+Weil aus dieser
+Prozesskostenrechnung abgeleitet
+wurde, wie viel Personal
+mit zusteht.
+Und wenn Sie
+dann
+die Leistungseinheiten
+neutral und leistende Einheit
+mengenabhängig
+in ein Missverhältnis bringen,
+dann sagt er,
+wenn wir keine Mengen machen,
+dann brauchen sie auch keine Mitarbeiter.
+So, das heißt,
+durch das Befragen
+ermitteln ist
+grundsätzlich die Frage,
+der, der es in Auftrag gibt,
+versteht er
+das oder lässt er sich einfach
+über den Tisch ziehen,
+indem dass er einen Wert aufschreibt
+also gesunder Menschenverstand ist ganz gut
+so, dann durchmessen
+Fremdaufschreibung, Zeitmessung
+Fremdaufschreibung ist nichts anderes
+wie eine Zeitaufnahme
+Selbstaufschreibung
+durchmessen
+ist auch, wenn ich das selber
+aufschreibt. Also es gibt Tätigkeiten, wo die Fremdausschreibung praktikabel ist. Es gibt aber auch Tätigkeiten, wo die Fremdausschreibung nicht so gut funktioniert.
+Also ich war bei Premium Aerotech in Augsburg mal. Die haben im Vorab eine Analyse oder einen Film
+geschickt, wie sie das Leitwerk herstellen. Und ich sollte dann einen Vorschlag machen,
+wie man die Zeitdaten dazu regelt. So, der Film war über drei Stunden und bewegt hat sich da drin
+fast nichts. Das heißt, da ist die Selbstaufschreibung dann schon sinnvoll und man geht nur immer
+in Stichpunkten kontrollieren. Was schreibt der auf? Passt es zu dem Arbeitsablauf?
+Multimoment ist ein Momentaufwand. Das ist keine Zeit-Daten-Erfassung im klassischen Sinne.
+Multimoment ist, wenn ich jetzt einen Rundgangsplan erstelle von den Hörzellen,
+die wir in der Hochschule haben und ich nach einem festen Rundgangsplan durch die Hochschule
+durchlaufe und schaue in jeden Raum rein. Ist er belegt? Ist er nicht belegt? Arbeiten
+da drin welche oder arbeiten nicht? So, dann kann ich das ableiten. Die Hochschule steht
+zu 30 Prozent leer. In den Räumen passiert nichts. In der Fertigung, bei der Multi-Moment-Studie,
+mache ich nichts anderes. Ich mache einen Rundgang durch die Fertigung zu definierten Zeitpunkten und
+schaue, was passiert auf den Maschinen. Ich schaue, Maschine produziert, von der nächsten Maschine
+der Mitarbeiter sollte rüsten, macht aber Kaffeepause. Und so gehe ich definiert den Rundgang.
+Die Frage ist, was mich interessiert. In den meisten Multimodellstudien werden die Störungen
+untersucht. Warum schaffen wir es nicht, die Durchlaufzeit in dem vorgegebenen Rahmen einzuhalten?
+Was sind die Ursachen, warum die Durchlaufzeit im IST-Vorgang immer aufrechterhält? Dann kann ich schauen,
+welche Störungen es sind. Und dann kann man schauen, kann ich die Störungen abstellen.
+Also zum Beispiel in Firmen, die für den Transport von den Produkten einen Kran brauchen und sie
+haben nicht die Kräne so zur Verfügung, wie man es sich wünscht, dann kann durch die Kranbehinderung
+Störungszeiten ohne Ende zustande kommen.
+Das heißt, bei der Multimomentstarte-Studie suche ich raus,
+welche Zeitarten für mich wichtig sind.
+Und schaue dann, wer sie verbessern kann.
+Soll Zeiten durch Zusammensetzen ermitteln?
+das heißt
+Sollzeiten aus Istzeiten gewonnen
+und Systeme vor bestimmten Zeiten
+und Planzeiten
+das ist alles Regression
+ich ermittle
+wenige Zeitdaten
+und leite alle anderen
+davon ab
+das ist das Zusammensetzen
+so
+dann Sollzeiten durch
+vereinbaren
+durch Berechnen
+Das ist immer noch
+Zollzeiten ermitteln.
+Zollzeiten durch Berechnen
+sind in erster Linie
+Prozesszeiten.
+Auf die Prozesszeit
+hat der Mitarbeiter eigentlich
+keinen Einfluss.
+Das heißt, die Prozesszeit wird bestimmt
+durch das Programm, das wir abspulen.
+So, durch Schätzen macht man das häufig und zwar dann, wenn Sie Produkte haben und der Kunde das Produkt will,
+Also zum Beispiel bei der Skifertigung, da gibt es bei der Skifertigung oder Hersteller, gibt es einen Inline-Katalog.
+Das ist so, wenn Sie ins Internet reingehen und den Katalog aufrufen, dann sehen Sie die Inline-Modelle.
+Und dann gibt es Somos.
+Somos ist Intersport, Dekathlon oder andere.
+die versuchen über die Menge den Preis zu drücken
+also billige Oberfläche drauf
+andere Schießspitze drauf
+billigen explodierten Belag drauf
+und somit kommt ein billigeres Produkt raus
+jetzt haben sie aber in der Regel nicht alle Komponenten
+die sie für Kalkulation brauchen
+das heißt sie schätzen dann für einzelne Operationen
+die in der Fertigung notwendig sind
+Zeiten, bis Sie dann
+wissen, kommt das Produkt oder kommt das nicht.
+So, das heißt,
+Schätzen
+als Gesamtes ist
+für ein Produkt immer schlecht.
+Also Schätzen
+tue ich
+Abweichungen von einem
+Originalprodukt,
+die ich überschauen kann,
+wo ich
+den Aufwand
+ungefähr einordnen kann.
+Dann mache ich eine Schätzung.
+Simulation, das ist das Thema, das mehr und mehr kommt.
+Digitaler Zwilling.
+So, da kriege ich ja schon jede Menge Daten aus, ohne dass ich ein Produkt habe.
+Oder auch simulieren kann.
+So, Anteile von Zeit, Arten, Ermitteln, Schätzen, Befragen, Vereinbaren,
+Verteilzeitaufnahme.
+Verteilzeitaufnahme.
+Was heißt denn das wieder?
+Was ist eine Verteilzeit?
+Wir haben einmal in der Auftragszeit
+die Zeit je Einheit,
+die wir für ein Stück brauchen.
+Dann haben wir die Rüstzeiten.
+Das gibt in Summe T E ist gleich T R plus M mal T E.
+So, das ist die Zeit.
+Verteilzeit.
+wird in der Regel prozentual auf die TE aufgestanden, auf die zweite Einheit.
+In der Regel, grob, bei knickrigen Unternehmen 6%, bei großzügigen 12%.
+Und Verteilzeit sind Zeiten, die den Mitarbeitern zur Verfügung stehen für persönliche Dinge und sachliche Dinge.
+die über den Tag anfallen und die ich keinem konkreten Auftrag zuordnen kann.
+So, verteilt zeigt 10% auf die TE,
+bedeutet 48 Minuten pro Tag,
+wenn ich sage, er ist in der Schicht, 480 Minuten anwesend.
+48 Minuten, die Sie bezahlen müssen
+als Arbeitgeber, die Sie dem Kunden
+indirekt verrechnen
+Multimoment haben wir schon gehabt
+das ist das Zufälligkeitsprinzip
+Wie genau müssen wir ermitteln?
+Im Prinzip am genauesten ermitteln müssen wir bei der Entlohnung am genauesten ermitteln.
+Wir müssen schauen, dass wir die richtige Menge an Personal haben, für die Aufträge, die wir abarbeiten müssen.
+Und dann ist es das Thema, es gibt nichts Ungerechtes wie die Leistung bei dem so und bei dem so.
+Also, das heißt, die Entlohnungsdatenzeiten, die müssen exakt stimmen.
+Wenn die nicht stimmen, dann haben sie innerhalb kürzester Zeit einen Unfrieden.
+Weil die Mitarbeiter sich, ja, der eine oder andere fühlt sich dann ungerecht behandelt.
+Das heißt grundsätzlich, das Personal ist eine wichtige Rolle und die Entlohnung.
+Bei den anderen Themen können wir ruhig 5 bis 10 Prozent abweichen, das tut keinen Abbruch.
+Aber desto größer die Abweichungen, desto größer die Unsicherheiten. Ob es in der
+Materialversorgung ist oder in der Personalbereitstellung oder in der Betriebsmittelkapazität.
+Also Abweichungen können unter Umständen große Probleme verursachen, wenn sie zu Kapazitätsentpässen
+Also wenn ich aus Kostengründen zu wenig Zeit kalkuliere, also sonst vielleicht in einem anderen Land fertigen,
+dann kann der Schuss nach hinten losgehen, weil später, wenn das Produkt dann doch bleibt
+und dann nicht in dem Rahmen hergestellt werden kann, dann haben Sie ein Problem.
+Im Grunde sage ich, Arbeitsplaner, bleiben Sie immer bei der Wahrheit.
+Alles, was nicht der Wahrheit entspricht, fällt Ihnen früher oder später am Kopf.
+Und ich hatte das auch, ich kenne die Kalkulation in- und auswendig, das heißt, ich habe immer so kalkuliert, dass ich mit dem gut ausgekommen bin.
+Gut ausgekommen heißt, dass ich nie oder in seltenen Fällen negative Abweichungen hatte.
+So, mein Nachfolger, nachdem ich die Firma verlassen hatte, hatte gemeint, machen wir einen Reibach draus.
+Das Kontrollen kommt schneller drauf, wie Sie schauen können.
+Das heißt, er hat mit Abweichungen kalkuliert, die signifikant waren, größer 15%.
+Und dann spielt es eine sehr hohe Rolle im Finanzwesen, auch in der Kalkulation und in den Produkten, die Sie am Markt verbreiten.
+Also wenn Sie die Produkte zu niedrig kalkulieren, ist es ein Problem.
+Und wenn Sie es zu hoch kalkulieren, ist es auch ein Problem.
+Das heißt, bei zu hoch wird der Absatz einbrechen und bei zu niedrig haben Sie ein Kostenproblem.
+REFA-Zeitaufnahmen. Das REFA-System ist ja gängig in Deutschland.
+Ich weiß nicht, wie lange es sich so hält.
+Manche sagen, REFA braucht man nicht.
+Andere sagen, REFA braucht man sehr wohl.
+Es verändert sich nur, wie man die Daten ermittelt.
+So, das heißt, diese Zeiten werden überwiegend für die Planzeitkatalogie verwendet.
+Das heißt, wir umschaffen uns ein Grundgerüst in der Arbeitsvorbereitung, mit dem wir arbeiten können.
+Ohne, dass wir permanent neue Daten ermitteln müssen.
+So, das weitere ist dann die Zeitaufnahmen.
+Die Zeitaufnahmen, geschätzt durch den Arbeitsplaner, ist auch sehr häufig.
+Und was setzt das Schätzen voraus? Im Prinzip immer, dass derjenige, der schätzt, auch davor irgendwann mal das gemacht hat.
+weil ansonsten kann er böse auf die Karte fallen. Das heißt, oftmals sind die Arbeitsplaner Praktiker,
+die aus der Fertigung irgendwann mal in die Arbeitsplanung wechseln. So, weiter kommen
+viele Daten über die Programme, Verteilzeitaufnahmen, MTM und Workfaktor-Tabellen. Also Workfaktor gab es
+früher mal in Deutschland, aber ist heute
+relativ dünn.
+Gibt es nur noch, glaube ich, in der Textilindustrie.
+Und befragen der Mitarbeiter.
+So, wenn wir jetzt zur Zeitaufnahme kommen.
+Die Zeitaufnahme ist dann sinnvoll,
+wenn der Mitarbeiter
+bei kontinuierlicher, gleichgleichender
+Leistung arbeitet.
+Das heißt,
+er hat eine Bewegungsgeschwindigkeit
+für seine Abläufe,
+die optimal ist.
+Optimal ist sie dann,
+wenn er den niedrigsten Energieabspass hat.
+Können wir das sehen?
+Können wir das sehen,
+wenn einer da arbeitet,
+sein Produkt zusammenbaut, wann er den normalen Modus hat, dass er sagt, okay, der arbeitet optimal.
+Wann arbeitet der Normal optimal? Er muss geeignet sein. Wenn ich eine Feinmontage habe,
+mit Feinmontage-Tätigkeit, dann brauche ich keinen Mitarbeiter hinsetzen, der solche Protzen hat.
+Weil der wird nicht geschickt genug sein, damit der optimal arbeitet.
+So, das nächste ist, eine Zeitaufnahme mache ich dann, wenn der Mitarbeiter geübt ist.
+Also nicht am Auftragsbeginn, der macht den ersten Auftrag und das erste Teil, das er zusammensetzt und ich komme zur Zeitaufnahme.
+Das ist falsch. Er muss Übung haben, Routine haben und er muss einigermaßen eingearbeitet sein, damit er seine Fähigkeiten entfalten kann.
+Wir wollen keine Zeit in der Zeitaufnahme ermitteln, die nicht repräsentativ ist für den ganzen Auftrag.
+Wenn wir diese Dinge einhalten, der Mitarbeiter ist geeignet, geübt, eingearbeitet und kann seine Fähigkeiten entfalten,
+Dann kommen wir gut zu einer normalen Erstellung.
+Die Normalleistung oder der Leistungsgrad hängt ab von der Wirksamkeit und von der Intensität.
+Die Wirkungsgrad hängt von dem Bewegungsfluss ab.
+Also wenn ihr an einem Montagearbeitsplatz seid und ihr habt die ganzen Teile vor sich und baut das Produkt an,
+dann ist die Frage, wie ihr die Teile aufnehmt, wie ihr sie fügt, ob das rhythmisch und in einem System erfolgt.
+Wirksamkeit, der Bewegungsablauf.
+Intensität ist die Bewegungsgeschwindigkeit.
+wie schnell er die Bewegungen
+ausdrückt
+Grundsätzlich sage ich
+beim Leistungsgrad
+stellen Sie sich
+immer vor
+Sie würden da sitzen und
+ein anderer macht die Zeitaufnahme
+Die Frage ist immer
+kann ich die Leistung
+auf Dauer erbringen
+Und da schießen manche jetzt über das Ziel raus, indem sie Leistungen vorgeben, die sie selber nie erreichen würden.
+Das gibt es in verschiedenen Bereichen. Ich hatte das bei der Digitalisierung vom Wareneingang.
+Wareneingang buchen über einen Lieferschein und am Türmitteil buchen oder mit dem Scanner buchen.
+Die Mitarbeiter haben gesagt, dass ein Scanner dauert länger, weil sie den Scanner nicht haben wollten.
+So, dann habe ich mich heute und da in Warnreinfach gesetzt.
+Und habe das selber gemacht.
+Und dann mussten sie zugeben, das geht doch ganz schnell.
+Hat bestimmte Vorteile.
+Das heißt, der Leistungsgrad ist von der Wirksamkeit abhängig und von der Intensität.
+Normalleistung.
+In der Definition von der Normalleistung ist der Einfluss des Alters der Arbeitsperson nicht enthalten.
+Alter, Geschlecht, körperliche Merkmale.
+Der Einfluss der Übung des Mitarbeiter ist schwer zu berücksichtigen.
+Das heißt, es gibt bei der Zeitaufnahme durchaus Kriterien, wo es schwierig ist, die Leistung zu beurteilen.
+Im Prinzip ist es immer ideal, wenn wir zum Beispiel mehrere Mitarbeiter haben, die die gleichen Tätigkeiten ausführen.
+So, dann können Sie hier einen Mitarbeiter anschauen, wie macht er das?
+Wie macht sie das? Wie macht er das?
+Sie haben einen Vergleich von den Ausführungen der Arbeit
+und können sich ein Bild machen, was ist ideal und was ist normal.
+Das ist die Frage grundsätzlich bei der Leistungsgegnerin.
+So, dann die Übung spielt eine große Rolle.
+Das heißt, wenn Sie die Arbeit 30 Tage ausführen, dann haben Sie genug Übung.
+Wenn Sie in manche Unternehmen reinschauen, die montieren den ganzen Tag die gleichen Schritte.
+Okay, dann kann man sagen, okay, wir bekommen einen normalen Rhythmus.
+So, selbstverständlich spielt das Alter auch eine Rolle.
+Das heißt, ein junger Mitarbeiter macht oftmals Dinge über die Geschwindigkeit.
+und ein älterer
+Mitarbeiter macht es über die Erfahrung
+also ich hatte das
+beim Beginn meiner Firma
+Frühschicht und Spätschicht
+in der einen Schicht war der Schichtleiter
+einer der 30 Jahre
+Extrusionserfahrung hatte
+und in der anderen Schicht
+war einer
+jung vom Bosch
+Welten dazwischen, weil in der Explosion brauchen sie das heißt die jungen Mitarbeiter haben schnell
+in der Früh eingestellt, die Maschine, die Prozessparameter und in der Explosion ist es halt so, die Maschine muss erst laufen,
+Und dann stellen wir ein. Der Mitarbeiter, der 30 Jahre Erfahrung hat, der hat in den ersten Minuten die Maschine anlaufen lassen, hat sie dann die erste Viertelstunde laufen lassen,
+Ja, du läufst das Material durch.
+Und nun hat er langsam zum Messen angefangen.
+Und dann hat er die Feinlustasche gemacht.
+So.
+Und die jungen Mitarbeiter haben gemeint,
+sie müssen gleich alles am Anfang einstellen.
+Haben dann alles festgestellt.
+Und dann ewig nachrüsten.
+So.
+Jeder Prozess hat seine Eigenheit.
+Deshalb, ja, ein gesunder Mix zwischen Jung und Alt ist nicht schlecht.
+So, das andere System ist die SVZ-Systeme vor bestimmter Zeiten.
+Das heißt, nichts anderes wie Zeiten ableiten aus der linearen Regression.
+Anwendung von den Systemen vor bestimmten Zeiten ist das Thema der Gestaltung von Methode und Produkt.
+Dann auch die Zeitermittlung und die Arbeitsunterweisung.
+Das heißt, in Summe brauchen Sie alles drei.
+Sie brauchen einen optimal gestalteten Arbeitsplatz.
+weil in dem optimal gestalteten Arbeitsplatz der Bewegungsablauf perfekt ist.
+Es ist immer die Frage, wie viel Stück machen wir von einem Produkt?
+Wie viel Zeit verwende ich auf die Gestaltung?
+Das heißt, die Methode, die Stimme vor bestimmten Zeiten, ist eigentlich nichts anderes als in der Vorbereitung, Beschreibung des Arbeitsablaufs, Step by Step, Auswahl einer Person, Gliederung des Ablaufs, Kodieren und dann die Zeit.
+Zeitwerte zur Ermittlung der Prozesszeiten. Da der MGM-Verband die Normzeitwertkarte geschützt hat, teile ich sie so aus.
+Also verstoßen wir hier mit so gegen das Copyright, haben wir noch ein paar, weil ich darf es nicht
+kopieren und soweit schon gar nicht elektronisch verbreiten. Aber wenn Sie sich auf der MTM-Seite
+einloggen und registrieren,
+dann kriegen Sie es auch.
+So, im Prinzip
+diese MTM-Methode
+gibt es
+einmal das MTM-Bruderverfahren,
+das Standardwertverfahren,
+MTM-Ur, es sind lauter verschiedene
+Verfahren, Sie können
+die Seminare besuchen
+für einzelne
+Seminare, für jeden
+das einzelne Verfahren
+und können dann
+die Qualifikation erwerben.
+So, das heißt,
+das MTM-Grundverfahren,
+das ist das verbreiteste,
+das basiert auf
+den Bewegungen hinlangen,
+greifen,
+bringen, fügen und loslassen.
+Das ist das, was Sie
+auf der Rückseite
+von dem
+oben haben, es gibt da die Hinlangen und die Bringenbewegungen und dann gibt es dazu die
+Beschreibungen der Fälle, also Hinlangen zu einem alleinliegenden Gegenstand, Hinlangen zu
+vermischt Gegenständen, Hinlangen zu gefährlichen Gegenständen und so weiter. Also die Kriterien
+für diese Fälle beschrieben und je nachdem, was Sie für einen Fall haben, kommt eine unterschiedliche
+Zeit raus, die Sie brauchen. Das heißt, hinlangen über 30 Zentimeter RA haben Sie einen Wert von 9,5 Tmu.
+Und auf der Vorderseite oben rechts sehen Sie dann, was die TMUs sind.
+Anwenden darf man das Ganze nur dann, wenn man eine Lizenz von MTM hat.
+Die Lizenz ist nicht ganz billig und muss im regelmäßigen Abstand erneuert werden.
+So, in Deutschland gibt es den MTM-Verband hier aus Hamburg, ich habe es damals in den USA gemacht, bei meinem Institut, da heißt es nicht MTM-Verfahren, sondern MOST-Verfahren.
+Der Vorteil war damals, sie hatten ein komfortables Makro in Excel, dass sie unheimlich schnell Bewegungsabläufe analysieren konnten und Zeiten befestigen konnten.
+Das war natürlich der Vorteil, warum ich das damals bei den Meiner-Instituten gemacht habe.
+Meiner ist in den USA bekannt, das ist eine Unternehmensberatung,
+und in den nordischen Ländern wie Finnland, Schweden, Norden, in Zentraleuropa ist es mehr MTI.
+So, das heißt, man muss sich mit dem ganzen System auseinandersetzen und je nach Anwendungsfallmenge
+größer 200, dann nimmt man das MTM-1-Verfahren, wenn Sie sich mal einloggen auf der MTM-Seite,
+sehen Sie, dass diese Normzeitwertkarten z.B. bei BMW, BMW hat eigene Karten. Das heißt,
+die haben eigene Standards definiert. Auch Mercedes hat eigene Standards definiert. Das heißt,
+Sie haben
+große Wiederholfrequenzen
+und schauen, dass Sie
+die möglichst
+dringendste
+für die Herstellung der Produkte
+So, das heißt
+im Prinzip die Einflussgröße
+bei dem Bewegungsablauf
+ist der Kontrollaufwand
+wie ich das Produkt
+oder das
+den Arbeitsgegenstand
+unter Kontrolle bekomme
+das Kontrollaufwand
+dann der Kraftaufwand
+mit wie viel Kraft ich das
+greifen muss
+die Bewegungslänge
+vom Ausgangs
+in Jährungsposition
+Symmetrie
+Bedingungen
+heißt
+in jeder Position
+zusammenbaubar
+oder nur
+in 180 Grad Wendung
+oder nur in einer Position.
+So, und dann
+kommt es noch auf die Passungsklasse.
+Passungsklasse heißt
+entweder Rundpassung
+oder Passung
+experimentiert.
+Ich bedanke mich für Ihr Kommen
+und wünsche ein schönes
+Weihnachtszeit.

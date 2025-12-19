@@ -1,0 +1,960 @@
+... und auch Kugel 1, der ist halt definitiv total null auf Klausur ausgerichtet, sondern nur auf 10 Sachen bei.
+Beim Vogelei ist es halt, beim Vogelei musst du verstanden haben, weil der bringt halt so, der fragt halt in der Klausur,
+in die Richtung, hier habt ihr ein Teil, das so und solche und solche Anforderungen hat,
+jetzt erklärt mir, wie ihr das fertigen würdet.
+So, und was ist der Probefluss?
+Ne, ich glaube nicht wirklich, der hat, der wird euch wahrscheinlich das hier geben,
+mögliche Prüfungstage, und da soll man sich eben nach jeder Frage fragen,
+welche Fragen, wie funktionieren die, bla bla bla. Du dir so zwei Refrainen kriegst, Schweißen, bla bla bla, nicht wichtig.
+Und dann dieses riesen Ding hier. Und das füllt er dann gemeinsam aus. Plus, Minus, bla bla bla.
+Also halt nach verschiedenen Kategorien, Festigkeit, Qualität, Rechnerprüfheit und dann alle Verfahren, die in der Klausur reinkommen.
+Was in was gut oder schlecht ist und warum. Das füllt dann, das geht dann so grob durch.
+durch und dann musst du halt die ganzen Verfahren lernen. Und er sagt immer, du musst mir bei
+einem Bier in der Kneipe auf dem Bierdeckel erklären können, wie das Verfahren im Konzept
+funktioniert. Das ist so sein Anspruch, also dass du halt jedes Verfahren mündlich mit
+erklären kannst und verstanden hast
+und weißt, in welchem Szenario du es anwendest
+und in welchem du es nicht anwendest.
+Ja, das war jetzt einfach nur seine Visualisierung.
+Also du musst es nicht in der Klausur auf dem Bierdeckel schreiben.
+Das war bestimmt eine Maschinenbauvorlesung, die da drauf geschrieben hat.
+Ja.
+Hängt da wohl eine Struktur drin.
+Vielleicht irgendwas wie...
+Wir haben die Vorlesung recht.
+Ja, hatten wir.
+Ja, hatten wir.
+Wir haben die Vorlesung recht.
+Das ist halt irgendwas wie...
+Wir haben die Folie so rechts.
+Ja, hatten wir.
+Ich weiß, dass ihr auch links ertischen wollt.
+Aber ich bin mir relativ sicher, dass in unserer Rechtsfolie so keine Versicherung vorhanden ist.
+Nein.
+Das war richtig schön. Angebot, Annahme, Prokura, Kaufmann, A hat B, ein Angebot unterbreitet und hat es sich dann doch irgendwie anders überlegt und es wurde aber zwischendurch dann angenommen.
+besteht jetzt ein...
+Da bin ich auch rausgegangen und habe gedacht,
+das war eine solide Note, aber dann habe ich
+drei geschickt.
+Ja, ich konnte bis jetzt noch nie da sein,
+weil ich eine korrigierte Vorlesung hatte.
+Bei den vorhergegebenen Semestern war ich auch schon mal da, aber da bin ich mittlerweile nicht mehr drin.
+Da muss man sich das neu einschreiben.
+Haben wir alles zur Hand.
+Bist du denn da?
+Ich glaube, über 30 Anmeldungen von den Grünen.
+Echt?
+Ich weiß nicht, wo die Leute herkommen.
+Hier schon.
+Aber es sind...
+Oh ja, ich habe ihn schon.
+Das ist ein Fertig, oder?
+Fertig?
+Fertig, ja.
+Aber alles gut.
+Aber ich meine, es ist ja eben im Wintersemester öfter so, oder?
+Weil man halt Leute hat, die durchgefallen sind und dann im Praxissenester sind.
+Die können halt nicht am Ende sein, da müssen die Kunden nochmal steigen.
+Normalerweise ist es das dritte Semester, oder?
+Eben, und dann kann man jedes Semester anrufen.
+Ja, kann sein, dass viele schieben das auch bis zum Schluss.
+Hallo, ich bin im siebten.
+Ich habe es noch nicht einmal angetreten.
+Scheuen den Aufwand, schätze ich.
+Ja gut, letztes Semester bin ich halt rausgerutscht durch diese eine Woche Vorverschiebung, die hat mich gekillt.
+Bei der Prüfung?
+Ja, da wurde ja die Prüfung eine Woche vorverschoben.
+Achso, die war ursprünglich falsch eingetragen.
+Genau, und dann konnte ich mich nicht mehr umorientieren, also dann habe ich mich umorientiert,
+dass ich halt dann Fertigung nicht geschrieben habe und dafür hinten im Sinne...
+Wir haben das jetzt.
+Ja, habe ich dann noch was geschrieben habe, aber auch davor musste ich...
+Schauen Sie bitte mal rein, was jetzt heute kommt, ist sozusagen der Teil 2.
+Ich habe da einen PDF abgelegt, den würde ich aber nochmal ein bisschen anpassen.
+Ich habe in der Woche da Veränderungen in der Präsentation gemacht, die werden leider in dem Programm nicht gespeichert.
+Ich mache das mal neu.
+Das ist die Explosion. Wir haben uns bisher so ein bisschen über Strukturbildung unterhalten und Fließeigenschaften, die sich charakteristisch unterscheiden vom Fließverhalten der Metalle, die gegossen werden.
+Und dann haben wir auch etwas andere Prozesse bei der Verarbeitung von Kunstschirmen.
+Hier haben wir mal einen Extruder, ein extremes Beispiel vom Bild vom Extruder, der in der Komponierung eingesetzt wird.
+Der hat 80 cm Durchmesser.
+Dabei wird auf Spiralförmig ein Steg abgewickelt.
+Und durch Drehung der Schnecke in einem Zylinder wird kontinuierlich Material, das oben in einem Zylinder fällt, nach vorne gefördert und sukzessive erwärmt, aufgeschmolzen, homogenisiert.
+So, das ist jetzt auch 2018. Ein Bild, wie funktioniert jetzt so ein Dextruder, was sind die typischen verfahrenstechnischen Konzepte dabei?
+Wie findet der Druckaufbau statt, wenn das Werkzeug einen bestimmten Widerstand hat und den muss ich überfahren?
+Von der Extrusion als solches vielleicht noch ein kurzes Video, mal eine Extrusion einer Platte.
+Ich hatte letzte Woche schon einige Filmchen diesbezüglich gezeigt.
+Die Exkursion einer Kunststoffplatte, das wäre jetzt ein Beispiel, was wir uns anschauen.
+Die Firma Cosmafi, als Information, wurde an Chinesen verkauft.
+Das ist einer der innovativsten Spieler im Kunststoffmarkt, im Bau von Kunststoffmaschinen.
+Hier haben wir eine Platten-Exkursion, das ist das Werkzeug, über das die Schmelze ausgetragen wird.
+Das Ganze kühlt ab über einen sogenannten Klettwerk.
+Rechts steht der Exkuder, da ist das Werkzeug angeklatscht, das ist die Kunststoffschmelze für die Exkursion.
+Das Material ist sehr hochviskos, fließt also kaum und wird jetzt hier durch Drehung des Extruders mit einem Druck versehen.
+Dieser Druck muss ausreichend sein, damit ein vernünftiger Durchsatz da vorne rauskommt.
+Sie sehen, das fließt auch jetzt nicht weg. Das ist eine Schmelze.
+Das Material hat jetzt vielleicht 180 Grad, das ist PVC, das ist ein Morphothermoplast, der wird jetzt über so eine Vorkühlung gefahren, da wird schon diese Wärme rausgenommen.
+Das Ganze wird jetzt über ein sogenanntes Klettwerk gefahren, das sind gekühlte Walzen, wo der Kunststoff jetzt dann in der Temperatur abgesenkt wird.
+Hier sieht man diese Kühleinheiten. Dabei muss der Grundstoff noch eine gewisse Fläche wie Elbe besitzen,
+wo dann bis 50 Millimeter dicke Platten über solche Klettwerke gefahren und abgekühlt,
+die dann im weiteren Verlauf der Abkühlstrecke noch weiter, wie wir jetzt hier Downstream,
+Cooling Conveyor, hier weiter abkühlen.
+Das wird dann mit dem Rand geschnitten gemacht. Das hat man hier noch nicht gemacht. Das kann zum Beispiel unmittelbar oben auf dem Pferd weiter folgen, weil die dort leichter schneiden können.
+Hinten gibt es einen Abzug, der zieht jetzt dieses Material nach vorne, dann wird geschnitten, abgestapelt. Das fügt dann noch weiter ab.
+Die verfahrenstechnische Länge von so einer Anlage 30-40 Meter bei PVC, wenn man Polyolefin hat, wo das Material, hier sieht man das jetzt, von der verfahrenstechnischen Einheit, das sind die Extruder, ein Hauptextruder, Nebenextruder, der zum Beispiel seine Deckschichten da drauf machen kann.
+Hier ist die Materialzufuhr, bei PVC ist es ein Pulver, normalerweise ist es ein Granulat.
+Der Extruder hat jetzt die Aufgabe, diese Schmelze aufzubereiten,
+die Schmelze mit einem ordentlichen Druck zu versehen, damit das vorne der Durchsatz erzeugt wird.
+Steigen wir durch die Drehzahl des Extruders, steigt der Druck im Schneckenvorraum und der Durchsatz wird größer.
+Gleichzeitig muss ich aufpassen, dass mir die Temperatur nicht durch die Decke geht,
+Weil die innere Erwärmung des Materials durch Schreitprozesse sehr stark sein kann.
+Hier geht es wie gesagt um das Klettwerk.
+Jetzt schauen wir gleich mal, ob man...
+Hier ist die Beheizung des Zylinders zu erkennen.
+Über die Steuerung des Extruders.
+und da oben sieht man den Druck, 320 bar.
+Drehmoment, 66% sind ausgenutzt.
+Das kann man in Drehzahl steigern, geht das Drehmoment nach oben,
+Druck steigt und vorne kommt ein höherer Durchsatz raus.
+Also die Schmelze, da sieht man jetzt, der Exuder als solches ist beheizt, 180 Grad oder
+Jetzt hat er nur noch 260 bar gehabt, 175 bis 185 bar.
+Ich gehe mal davon aus, dass das 1 vorne ist.
+Oder unter uns fällt die 1 hinten, weiß ich jetzt nicht.
+Keine Ahnung.
+Da vorne könnte das Werkzeug sein.
+und hier die Massentemperatur 203 Grad.
+Das heißt, durch eine Reflexion wird das Material etwas wärmer
+als rein durch die Beheizung in 10 Grad.
+Also im Prinzip.
+Klettwerk hier.
+Temperaturen sind immer nur die T-Zahlen
+beziehungsweise die Abzugsgeschwindigkeit in Meter pro Minute.
+Das Modell ist hier identisch eingestellt. Manchmal stellt man mit Verschwellung oder mehrweise mit 1, 2, 3, kann man auch die Abzugsgeschwindigkeit erhöhen,
+dass da so ein bisschen Spannung auf dieses Exkulat draufkommt. Abzugsgeschwindigkeit 1,17 m pro Minute an dem Thema.
+Relativ gering, ein kontinuierlicher Prozess, in dem der Kunststoff urgeformt wird, nennt sich Exkursion.
+Da hinten sieht man jetzt, da wird die Dicke gemessen, ob die Platte gleichmäßig ist.
+Dann hat man Funktionen an der Füße, Material, mehr oder weniger Material da reinlaufen zu lassen.
+Sehen Sie, hier wird geschnitten. Der Rand wird geschnitten und genauso können Sie jetzt querschneiden.
+Entweder mit einer Schlagschere, so wie hier, oder bei dünnen Platten macht man das vorwiegend.
+Das geht jetzt hier in den Keller. Da steht eine Mühle. Die Mühle macht sofort wieder ein Granulat raus oder Pulver.
+Das können Sie sofort wieder in den Prozess reinfahren, damit man es kontinuierlich recyceln kann.
+Energiekosten sind ein Thema. Ich weiß nicht, ob die Zahlen noch so passen.
+Ich kann mir das nicht vorstellen. Die Energiekosten sind deutlich teurer geworden als die alten Zahlen.
+5% Energiekosten, 4% beim Stützließen, 2,3%.
+bei der Exkursion spielt das schon eine größere Rolle. Kernelement zur Herstellung von Platten formt Rohren, Stäben, Folien, also solche Produkte, die endlos gefahren werden, ist immer der Extruder.
+Da wollen wir uns mal anschauen, wie der funktioniert. Was Sie hier sehen, ist so eine Exkursionsanlage, die jetzt hier in der Mitte so ein bisschen rausgeschnitten ist.
+Er hat bei Polyolefäden eine Länge von 60-70 Metern.
+Das Material ist langsamer auskühlt, PE und PP als das BVC, wegen einer schlechteren Wärmeleitfähigkeit.
+Nun mal zusätzlich Wärmefreiheit durch Kristallisation.
+Das Skript als solches ist vollständig ausgefüllt.
+Ich habe früher ein paar Minuten mitschreiben gelassen, ich werde darauf jetzt mal verzichten.
+Das ist der Extruder als Konzept.
+In dem Fall ist es so, man hat eine sogenannte Nutbuchse.
+Da oben ist ein Trichter, das setzt das Granulat rein.
+Der Extruder fängt dann an zu drehen, fordert das Granulat nach vorne.
+Dabei entsteht Reibung und Wärme.
+Wärme auch durch den Heizband von außen.
+Aber teilweise, sehen Sie hier, sind auch Kühlgefäße installiert.
+um die Wärme rauszubringen, weil das Exkulat in der Regel heißer wird als die Beheizung,
+durch innere Reibung, die auftreten kann.
+Dabei bestimmt die Schnecke und deren Konfiguration und deren Einstellung
+die Kenngrößen Durchsatz, Feuerkonstanz und Hormonität.
+Wenn Sie Druckschwankungen haben, kriegen Sie Durchsatzschwankungen.
+Und das gilt es eigentlich zu vermeiden.
+Und dafür ist der Extruder verantwortlich.
+Der zieht das Granulat ein und fordert den Fettstoff nach vorne.
+Das steht jetzt auf dem Album.
+Da haben wir eben die Seitenabschnitte gesehen.
+Die gehen zum Beispiel dann in eine Hüde.
+Ich habe mal den Unfall in der Produktion gehabt, da hat der Werksleiter angerufen,
+Morgen hofft man, ein Produkt läuft nicht.
+Oh, wieso das?
+Ja, die Platten haben keine Planlage.
+Material der Schuld.
+Jetzt läuft doch auch noch eine andere Anlage.
+Doch, funktioniert es da auch nicht?
+Doch, da funktioniert es.
+Da war also eine Antriebswelle von diesem Klettwerk kaputt.
+Und dann haben die Platten eine Schieflage gehabt.
+für mich komplexes verhalten und die eine woche lang schrott produziert vier
+tage und montag bis donnerstag keine platten hängen gekriegt und da geht bei
+dem ex-ruder der uns da befragt eine tonne die stunde durch
+wenn wir die anlage am tag laufen lassen unsere 25 tonnen schrott gefahren
+Mal drei Tage sind 75 Tonnen, die Sie nachher wieder malen müssen und dem Extruder zuführen müssen.
+Das haben Sie dann auch gemacht in der Folgewoche.
+Eigentlich war das Mahlgut limitiert auf 20 oder 30 Prozent, die haben dann aber 100 Prozent gefahren.
+Der Extruder hat trotzdem diese Schmelze aufbereitet, hat den Feststoff in Form des Mahlgutes.
+Dann aufgeschmolzen, gefördert, homogenisiert, dabei ist eine Temperatur- und Gefügehomogenität zu gewinnen.
+Gefügehomogenität heißt, Sie schmeißen da zum Beispiel eine Farbe rein, rot, blau, grün, alles was Sie gerne haben möchten,
+und die Farbe muss homogen im Material verteilt sein.
+Bei schlechten Produkten ist die Homogenität, man sieht das manchmal bei Spitzbus-Materialien, sehr schlecht.
+Dann muss dieser Extruder den Druck erzeugen, um einen pulverationsfreien Getriebe und einen hohen Durchsatz zu gewährleisten.
+Unabhängig davon, was hinten an Form des Granulates dosiert wird.
+Sie sollen geringen Verschleiß auch haben.
+In der Tat ist es so, dass diese Extruder jahrzehntelang teilweise laufen können, ohne dass sie verschleißen.
+Sie müssen sehr hart sein.
+Wenn wir aber dann Pigmente drin haben, zum Beispiel Farbe, Weiß ist typischerweise zum Beispiel Zitandioxid.
+Wenn wir ihn grau machen, nehmen wir los, nehmen wir Zitandioxid.
+Das ist ein sehr hartes Pigment, das kann den Extruder komplett abschleifen.
+Dann gehen diese Stege verloren und Sie können keinen Druck mehr aufbauen.
+Dann müssen wir was machen mit der Schnecke.
+Da kann man zum Beispiel ein Auftragsschweißen machen und diese spiralförmige Schnee direkt in der Neu-Auftragung aufschweißen.
+Wir haben einen Förderweggefühl, der ziemlich fix ist, der 17,6 Grad beträgt, also in einer Umdrehung ist eine Steigung von 1 gegeben.
+Wir haben gestern die Schraubenlinie beim Gewinde gemacht, dass man auch eine Steigung, und die ist hier fix, wenn ich einen größeren Extruder habe, den Durchmesser erhöhe, erzeuge ich größere Durchsätze.
+Und was wir gesehen haben, diese Maschine da, diese PVC-Anlage, wo man das mit Polyolefin macht, da haben wir vielleicht einen Durchmesser von 150-180 mm.
+Eine verfahrenstechnische Länge L zu D zwischen 20 und 45.
+45 kenne ich nicht so, aber 36 ist sehr, sehr üblich.
+Das heißt, wenn der 180 mm Durchmesser hat, ist die Schnecke 5 m lang.
+Das ist also ein massiver Maschinenbau.
+Der Exkluder hat 800 mm Durchmesser, bis 30 Tonnen pro Stunde.
+In der Konformierung haben die teilweise 100 Tonnen pro Stunde.
+Die Granulat machen, beispielsweise gibt es in Gelsenkirchen, ich weiß nicht, ob der noch da steht,
+einen Cracker, der wird sehr schön angeliefert.
+Das Cracker wird gekrägt in Bestandteile Ethylen, Propylen.
+Dann gibt es ein Pipeline zur Anlage, wo das Polyethylen entsteht.
+Und dort wird erstmalig das Material granuliert.
+Das wird in den Extruder gemacht.
+Der schmilzt den Kunststoff rauf und verteilt die vorhandenen Ingredienzien.
+Wie sieht so ein Extruder aus?
+Der unterscheidet zwei Typen von Extrudern.
+Das eine ist die konventionelle Dreizonen-Schnecke.
+Das ist das, was wir hier sehen.
+Und dann gibt es einen mit der sogenannten Notwuchse.
+Drei Zonen, die Schlecke und dann hier die Notwuchse.
+Die unterscheiden sich vom verfahrenstechnischen Konzept.
+Das sind beides Einschlecken-Exkluder.
+Oder wenn eine Schnecke, die sich legt, in den Karakteristik abgedeckt wird, steht der Schleppmaterial nach vorne vorne.
+Wir gucken uns jetzt zuerst die drei Zonen, die drei Zonen-Schnecke an und dann den charakteristischen Unterschied zu dieser Mink-Kurse.
+Worin besteht dieser Unterschied?
+In der fahrenstechnischen Art und wie baut jetzt der Extruder den Drucker auf?
+Da hinten fällt das Kanulat rein.
+Das Kanulat hat eine bestimmte Form und fällt in das freie Volumen.
+Unter Umständen hat man hinten schon eine Heizung, sodass an der Wand sich ein Schmelzerfeld bildet.
+Das Prinzip, das wir haben und weshalb das Material nach vorne gefordert wird, ist Schmelzehaftung.
+Die Schmelze haftet auf dem Metall.
+Durch die Drehung des Extruders wird das Material zwangsweise nach vorne gefordert und an den Schäden abgeschabt.
+freies Volumen
+Luft muss nach innen raus
+dann wird folgendes passieren
+das ist eine sogenannte Kompressionsschnecke
+das abnehmende freie Volumen
+erzeugt zusätzliche Reibung und Wärme im Material
+dieses freie Volumen wird immer kleiner
+der Steg hat immer die konstante Steigung
+aber das Volumen, was sich hier drin befindet
+wird nach vorne hin immer kleiner der Durchmesser der Schnecke hinzu. Dadurch wird die Reibung intensiviert.
+Es entsteht Wärme und wenn ich zu stark schere, zu stark das Material über Drehzahl belaste, kann mir auch die Temperatur durch die Decke gehen,
+weil es zu intensiv warm wird und man den Extruder kühlen muss.
+dass die Schmelze auf dem Metall haftet und der Zylinder sich dreht.
+Zylinder...
+Zylinder...
+...fordert Material...
+...nach vorne.
+Dann nimmt man eine sogenannte Netzkugel.
+Wenn die Schmelze nicht auf den Metall aftritt, dann braucht man ein anderes Schmeckenkonzept, dann funktioniert es nicht.
+Beim PVC zum Beispiel ist es relativ schwierig, es zeigt keine Wandhaftung, es gleitet an der Wand vorbei.
+Dann brauchen Sie ein anderes Förderprinzip. Dann kommt man mit so einer Einschleckung nicht zurecht und brauchen Sie ein anderes Förderprinzip. Dann nimmt man dann so genannte gegenlaufende Gleichung.
+Das Ruder dreht und fördert Material nach vorne. Ich will Ihnen dazu ein kleines Film zeigen, wie das ungefähr sieht, was da passiert.
+Die Haftung ist gewollt, oder?
+Ja, das ist das Prinzip.
+Wenn Sie jetzt zum Beispiel, wir hatten das am Anfang mal gesagt, wenn Sie eine sogenannte Druckströmung haben, Sie haben hier zwei Platten und Sie haben hier einen Einlauf, das ist Ihr Werkzeug, dann müssen Sie jetzt die schnellste durchdrücken.
+Dann entsteht hier ein Druck P und dann bildet sich ein Geschwindigkeitsprofil heraus, das rein über diesen Druck, der aufgebaut ist, dazu führt, dass die Schmelze so durch diesen Kanal durchströmt.
+An der Wand herrscht Abzug.
+Die Geschwindigkeit eigentlich wohl.
+Dort findet dann zum Beispiel die Scherung statt.
+Im Kern kommt so ein Frauchen wieder hindurch.
+Wenn ich jetzt mit dem Prinzip der Wandkraft umarbeite
+und habe hier einfach nur, man macht das zum Beispiel bei Rheometern,
+um Diskursitäten zu messen, wenn wir diese obere Platte bewegen, die andere steht still.
+Wenn Haftung herrscht, was wird passieren? Es gibt einen Geschwindigkeitsgradient.
+Hier findet eine Geschwindigkeit statt, hier wird eine Scherung stattfinden,
+da oben gibt es eine Geschwindigkeit, die entspricht dem V, unten die Platte steht und dann gibt es sowas.
+Und damit ziehen sie das Material nach vorne, weil es auf der Schnecke haftet und die Stege das Material nach vorne zusätzlich abscheren.
+Und wenn das freie Volumen, was sie haben, immer kleiner wird, im Zuge der kleiner werdenden freien Räume, entsteht zusätzlich Reibung und Wärme.
+Die Körner reiben aneinander, die Moleküle reiben aneinander, es entsteht Wärme.
+Das Material wird hinten dosiert mit 20 Grad oder 5 Grad, wenn es aus dem Außensilo kommt und wird dann auf eine Temperatur gebracht von, je nach Bedarf, für das PVC knapp 200 Grad.
+andere Materialien
+je nach Schmelztemperatur
+T
+100,5, 100,8
+Schmelztemperatur
+Das ist das, was wir hier sehen.
+Vielen Dank.
+Hier gibt es unterschiedliche Dinge, wie man diese Homogenität einstellen kann.
+Das ist ein sogenannter Doppelschnecken-Extruder, der wird sehr in der Konformierung eingesetzt mit zwei Schnecken.
+Und dann sieht man, an der Wand haftet das, und so ein Steg würde das Material abscheren und nach vorne fordern.
+Weil dieser abgewickelte Zylinder, dieser abgewickelte Steg, das Material nach vorne kommt.
+Das ist eine Doppelschnecke.
+Wir haben jetzt eine Einschnecke, die läuft so.
+Hier wird das Material, das ist jetzt keine Wandhaftung, weil es nicht geschmolzen ist.
+In der Schmelze haftet es und im Festkörper wird es so nach vorne gefördert.
+Dann haben wir das hier noch. Hier sieht man das auch. Hier sind jetzt in der Zylinderwand Ruten eingebracht.
+Wir sind hier wendelförmig, hier wird das Material, das ist jetzt der Festkörper, nach vorne gefördert.
+Das ist die Zylinder und das ist meine Schnecke, die jetzt hier drin ist.
+Und dann sieht man, hier wird das Material stark nach vorne gefördert.
+Was man jetzt hier macht mit dem Prinzip dieser Mutterstraube sozusagen ist,
+man lässt diese Stege in der Wand auslaufen.
+Dadurch hat man einen besonderen Effekt, mit dem man eigentlich ganz gut arbeiten kann und diese sogenannte Nut in die Buchse, diese Nutbuchse macht.
+Also das Prinzip hier ist es jetzt, dass der freie Modul kleiner wird, es entsteht Wärme, Temperatur und Reibung,
+die dazu führt, dass nach vorne hin der Druck sukzessive ansteigt.
+Neben der sogenannten Schleppströmung, weil das Metall auf dem Zylinder haftet und nach vorne gefördert wird,
+durch die Drehung steigt der Druck an.
+Wir folgen aber immer auch, wenn wir einen Druck haben, der Druckdifferenz.
+Das heißt, hier vorne ist ein Druck, 100 Bar, da vorne setzen Fliesen ein, vorne kommt dann ein Durchsatz raus.
+Das heißt, der Gradient des Druckes determiniert die Fließrichtung.
+Und wenn ich vorne gegen einen Druck anfördern muss und dieser Druck ansteigt, wird Material im Extruder zurückfließen.
+Ich schleppe es nach vorne und muss aber gegen diesen Gegendruck aus dem Werkzeug anfördern, andrücken.
+Das ist hier dargestellt, das Material soll eigentlich nach vorne gefördert werden.
+Durch die enger werdenden Spalte entsteht Druck und Temperatur, das Material wird sukzessive geschmolzen
+und es gibt hier diese sogenannte treibende Flanke, die das Material nach vorne schiebt,
+aber über den Steg kann gegen den ansteigenden Druck Material zurückfließen,
+macht da hinten so einen kleinen Schmelzewirbel, wird von der treibenden Flanke nach vorne gefahren,
+komprimiert dieses Feststoffbett
+Luft muss nach hinten raus
+die dürfen wir nicht mit nach vorne nehmen
+weil Luft immer Sauerstoff beinhaltet
+und der kann zu Oxidationen führen
+über den Metall
+und dann sieht man
+dieses Feststoffbett wird nach vorne
+gerechnet hier
+in einer Simulation
+über zwei, drei Abwicklungen
+dieser Schnecke nach vorne hin
+immer kleiner und das Material wird wärmer
+und wird geschmolzen
+Blau ist Schmelze, rot ist das Feststoffbett.
+Wir fördern gegen einen Druck an.
+Der Druck ist abhängig vom Werkzeug, je enger die Spalte sind, je enger die Spalte sind, desto höher ist der Druckbedarf.
+Gelb ist diese Druckströmung im Werkzeug.
+Vor der Schneckenspitze liegt ein Druck an, die erzeugt meinen Durchsatz.
+Immer diese Werte, Druck erzeugt Durchsatz.
+Je höher der Druck, desto größer der Durchsatz.
+Nach vorne ist rot gerichtet die Schleppströmung.
+Die Schmelze haftet auf den Zylinder, aber im Extruder steigt der Druck an,
+sodass Material durch die Schleppströmung nach vorne mit der Druckströmung nach hinten gefördert wird,
+was zu einer guten Hormogenisierung führt.
+Eine vernünftige Hormogenisierung führt, sagen wir mal so.
+Ich fördere gegen den Druck an.
+Habe ich jetzt ein Werkzeug mit engeren Spalten, was heißt das für den Druckbedarf?
+Wenn ich den gleichen Durchsatz erzeugen möchte, werden die Spalte enger, brauche ich mehr Druck.
+Das muss der Extruder erzeugen.
+Je mehr Druck ich brauche, desto steiler wird dieser Gradient und desto mehr Material fließt im Extruder zurück.
+Der Punktwirkungsgrad wird immer schlechter von dem Gerät.
+Der ist sehr stark davon abhängig, wie groß ist der Gegendruck.
+Der Durchsatz, das ist immer das, was man jetzt fragt, bei dem möchte man steigern.
+Der ist typischerweise normalerweise limitiert durch die Abkühlrate.
+Aber wenn man den Durchsatz steigern möchte, hängt er davon ab, wie groß ist der Gegendruck des Werkzeuges.
+Diese 3, 4, 500 Bar.
+Im Druckaufbau der Schnecke, das heißt neben der Geometrie,
+bestimmt der Reibungskoeffizient der Druckaufbau im Zuge dessen, dass das Volumen immer kleiner wird.
+Neben der Geometrie bestimmt der Reibungskoeffizient zwischen Zylinder und
+Vielen Dank.
+Vielen Dank.
+Die Löcher sind hohe, um Gegendruck des Werkzeugs unabhängige Durchsätze zu erzeugen.
+Steigend im Drehtal steigt der Druck, der Durchsatz steigt, allerdings steigt auch die Druckströmung im Extruder.
+Das heißt, es fließt immer mehr Material in den Extruder auf.
+Wenn Sie mal eine schwarze Farbe, so eine Stühle drin haben und Sie wollen den sauber fahren, kann das bedeuten, dass Sie 5-6 Stunden stühlen müssen, damit die Farbe rauskommt.
+Und das ist jetzt gar nicht so.
+Dann müssen Sie den Stühle abstellen, Sie müssen das Werkzeug öffnen und Sie müssen den Zylinder und die Schnecke reinigen.
+Komplett durch ausbrennen.
+Es gibt andere, die haben eine bessere sogenannte Selbstreinigung.
+Sie fahren sich von selbst sauber. Das war hier diese Doppelschnecke, die wir eben gesehen haben.
+Aber hier brauchen wir teilweise Stunden, um so ein Aggregat frei zu spülen.
+Das heißt, wie kann man das machen? Über Geometrie, über, wenn Sie hohen Gegendruck im Werkzeug haben, müssen Sie das mit der Schnecke machen.
+Und das wollen Sie aber nicht. Sie wollen nicht abhängig sein vom Gegendruck des Werkzeuges.
+Und dazu hat man die sogenannte Lootbuchse erfunden, also diese reine 3-Zonen-Schnecke
+arbeitet mit einer Verkleinerung des freien Volumens, um Druck zu erzeugen, die hat aber
+den Nachteil, diese 3-Zonen-Schnecke, die ist gegen Druck abhängig.
+Je höher der Druck im Werkzeug ist, desto schlechter wird dieser Druckwirkungsgrad,
+Weil Sie immer gegen diesen Druckkartierten anfordern müssen.
+Und dann hat man sich Gedanken gemacht, wie man das vermeiden kann.
+Und das war das Prinzip und die Erfindung der sogenannten Nut-Klicks.
+Man macht in den Zylinder eine Nut rein, oder mehrere, als Rechteck, was wir in dem Video gesehen haben,
+spiralförmig beispielsweise, und lässt diese Nut nach vorne hin auslaufen.
+Das heißt, hier fördert man über die nicht vorhandene Wandhaftung des Festkörpers Material nach vorne.
+Hier steigt der Druck ganz stark an, weil Sie die Druckstoffe, die Druckkörper kombinieren.
+Hier vorne gibt es dann ein Druckmaximum an der Stelle, wo diese Nut am auflaufen ist.
+Worauf man aufpassen muss, ist, dass hier nicht zu viel Wärme entsteht im Zuge der Reibung.
+Deshalb ist der Zylinder da vorne sogar kalt, gekühlt.
+Jetzt steigen wir an und hier kriegen Sie ein Druckmaximum.
+Sind Sie spielend bei 1000 bar, die Sie erzeugen.
+Und Sie brauchen kein Werkzeug, es gibt kein Werkzeug, was es gäbe schon, aber 1000 bar möglicherweise braucht.
+Das heißt, der Extruder als solches macht hier ein Druckmaximum im Bereich der Luftwuchse und jetzt sind Druckströmungen, geht nach vorne.
+Das heißt, wenn Sie hier mit einem offenen Werkzeug fahren, würden Sie diese Granulatkörner über der Maschine vorne raus schießen.
+Ja. Wenn Sie hier vorne die Stege wegmachen, dann schießen Sie vorne die Granulatkondens aus.
+So hoch ist der Druck. Ja.
+Kommen viele solcher Diagramme in der Tiefung da? Oder wie ist das?
+Ja.
+Also muss man die interpretieren können oder muss man die aufzeichnen?
+Erst einmal aufzeichnen und ich sage mal, ich habe das jetzt hier schon so nicht mehr gefragt,
+ich habe die Prüfung noch nicht so vom Konzept her fertig, ich mache aber vor Weihnachten,
+Ich habe das Prüfungsinhalte freigeschaltet.
+Wollte das nämlich diese anfassen.
+Anpassen, Verhältnis zum Vorsemester?
+Bitte?
+Anpassen, Verhältnis zum Vorsemester nennen Sie?
+Ja.
+Nichts oder nichts Richtung Klausur und Modul.
+Ja, und dieses habe ich mir nicht freigegeben, also Prüfung würde ich eine da ablegen,
+und bezüglich der Schwerpunkte, das werde ich Montag oder Dienstag aktualisieren und hinlegen.
+Können Sie sich anschauen und am 9. Fragen stellen dazu.
+Ja, wie Sie erinnern, dann die alte Prüfung.
+Jetzt kommen sie.
+Also was hier immer kommt, da werde ich auch nichts ändern.
+Und da vier Diagramme zum Erstarren, spezifisches und Klassiker.
+Die gehören da rein.
+Bei den Kunststoffen gehört unten mit rein.
+Das fasse ich ein bisschen an.
+Unterschied zwischen Amorphen und Teilkristallinen
+Materialien bezüglich Schilder
+vier Diagramme
+hier ist Druckaufbau, Förderverhalten
+Vor- und Nachteile mal genannt
+das könnte so bleiben
+und dann müsste es auch dieses Diagramm
+unter uns bezeichnen
+Machen Sie sich vor Weihnachten fertig, können Sie sich anschauen, in aller Ruhe, ob Sie da im Skript eine korrespondierende Fülle finden.
+Nein, heute nicht. Heute ist nicht Weihnachten.
+Das ist unser Geschenk.
+Ja, das ist ja geschenkt schon.
+Vorweihnachtszeit ist doch die schönste Zeit.
+Ja, das habe ich ganz beigetrieben.
+Wie wäre denn der Weihnachtsmarkt offen?
+Vorweihnachtszeit.
+Das ist das Diagramm, das wir da letzte Woche gemacht haben.
+Nein, nee, nee, nee, so nicht.
+Diese zwei Zockenschnecke da unten, da haben wir jetzt zum Beispiel ein Werkzeug,
+300, 250, 400 Grad Druckbedarf.
+Den muss ich als Zeug entfangen, den muss ich als Zeug entfangen.
+Nun gibt es da vorne eine Druckströmung.
+und dieses Werkzeug wird auch als Verbraucher bezeichnet.
+Wenn ich zum Beispiel unterschiedliche Arbeitspunkte steigere, steigt der Druck und damit der Durchsatz.
+Bei dieser Nutbuchse in Rot steigt der Druck in der Förderzone, wo der Feststoff vorhanden ist,
+so stark an, dass da knapp 1000 bis 1200 bar sind. Und damit die sogenannte Schleppströmung,
+die ist sowieso nach vorne gerichtet, durch den Steg des sich drehenden Zylinders. Und
+die zusätzliche Druckströmung, die geht jetzt ebenfalls nach vorne. Und ungelogen,
+wenn man da vorne die Stege weg macht, können wir das Prinzip nutzen, um die Kerne nach
+Das ist nicht in unserem Sinn. Wir wollen ja Temperatur reinbringen, das Material auch schmelzen, aber wir haben jetzt zwei gleichgerichtete Strömungen, die beide nach vorne gehen.
+Vorher waren die entgegengewichtet, Druck- und Schleppströmung, was bei der konventionellen Drei-Zonen-Schnecke eine Gegendruckabhängigkeit bringt, aber positiv betrachtet die Homogenisierung verbessert, weil Material im Extruder immer zurückfließt, nach vorne gedrückt wird, zurückfließt und das führt zu einer Homogenisierung.
+Sie müssen zum Beispiel das Naturkandula, das geliefert wird, rot, blau, grün oder nach tausend anderen Farben einfärben und das ist dabei hilfreich.
+Wenn ich aber Druck und Schleppstörung beide nach vorne gerichtet habe, wird diese Homogenität nicht in Ordnung sein.
+Deshalb braucht man, wenn man so eine Nut in die Buchse reinmacht, zusätzliche Elemente, um diese Mischung besser zu machen.
+Ich weiß nicht, wo steht das bei Ihnen, das rote bei Ihnen im Skript?
+Dann bitte das mitnehmen.
+Hier ist quasi dann so eine Nut, die auslaufen.
+Und die innere Reibung zwischen den Granulatkörnern ist viel größer als die Reibung zur Wand.
+Und die Granulatkörner.
+Sodass die sich gegenseitig verhaken und werden zwangsweise nach vorne gefördert.
+Und wenn ich diese Nut immer kleiner mache, auslaufend, dann steigt durch diese Verhagung und diese Verdrehung und dieses kleiner werdende Volumen der Druck in diesem Fest dort an.
+Das Material darf nicht schmelzen in dem Bereich.
+Deshalb ist der Extruder dort gefüllt.
+Was letztlich durchschnittlich bei diesem Konzept bestimmt, ist die Kornform, die Korngrößenverteilung, die Scherzfestigkeit und die Schüttigkeit.
+Also die Art, wie dieses Material sozusagen, was da hinten reinglossiert wird, aus dem Vollen in den Zylinder reinfällt und wie sich diese Körner miteinander verhaken.
+Da entsteht ein sehr starker Druck in dieser Feststoffzone, es entsteht natürlich auch Reibung, die ganz intensiv ist, weshalb diese Einzugszone gekühlt werden muss.
+Und da gibt es Materialien, die fahren, die quietschen ohne Ende.
+Also da brauchen wir einen Räumschutz, weil diese Körner so stark aneinander reiben
+und es sehr, sehr geräuschintensiv ist und so kreischende, ziemlich ätzende Geräusche mit sich bringen.
+Diese Einzugszone, hier ist es dargestellt, die ist also gekühlt.
+Und alle folgenden Zonen werden von diesem Druckmaximum überfahren.
+Im Bild sieht man Druckbeschleppschäumung und Gleichgericht,
+der Druck, um den sie getült werden.
+Das Ganze ist herrlich begrenzt,
+denn danach soll ja geschmolzen werden, homogenisiert werden.
+Und wenn diese Feststoffförderung zusammenbricht,
+wir haben den Fall mal gehabt,
+dass eine Zuleitung von der Kühlung verteilt gewesen ist,
+wird auch als förderstab bezeichnet das heißt interessiert es gar nicht dass
+davon den werkzeug drin ist er macht in der feststationen so hohen druck dass
+jede zahl steigerung unmittelbar zu einer steigerung wir sind also zahlen gesteigert
+Steigt aber der Gegendruck des Werkzeuges, dann wird bei diesem Klappeneinzug, bei dem blauen Extruder, der Massedurchsatz, M-Punkt, manchmal nennen wir den auch Q oder D,
+dieses M-Punktdruck erzeugt Durchsatz und wenn ich einen größeren Gegendruck im Werkzeug habe, dann fällt hier der spezifische Durchsatz pro Umdrehung.
+Das ist die Lehre daraus. Die Mutbuchse ist unabhängig vom Gegendruck. Jede Drehzahlsteigerung führt zu unmittelbar einem erhöhten Durchsatz. Das müssen wir klar aus dem Licht wissen.
+müssen. An zwei Beispielen das Ganze mal gezeigt. Das eine ist Gerät heißt Alpha,
+jetzt wurde der Firma Ingenetti auf einen Teller angegeben, 75 Millimeter mit dem
+Platteneinzug, macht bei dem Material 140, 180 Kilogramm pro Stunde Durchsatz. Das
+Das Ganze mit einer Nutbuchse versehen, bringt den doppelten Wert hier mehr als den doppelten Wert und da sogar den dreifachen Wert.
+Dann können wir mit dem Exkuder gleicher Größe größere Durchsätze erzeugen.
+Das ist das, was man möchte.
+Das gelingt.
+Allerdings hat man den Nachteil der schlechteren Homogenisierung.
+Und da gibt es Abwälzmaßnahmen, das sind Schwer- und Mischteile, die auch mit Kugel aufgebracht werden und die zusätzlich diese Homogenität verbessern.
+indem sie eine enge Spalte schafft, indem das Material stark zubereitet wird.
+So eine Ananas, die vorne auch eine Folie braucht.
+Eine Kugelkalotte da hinten mit abgebildetem Gegenteil im Prolinder.
+Und hier so ein Kreuzlochmischer.
+Sollen wir mal rüber.
+Ein Hölscher, der bei der Folienexplosion eingesetzt wird.
+das Material mit hohem Druck auszusplatten und die Schmelze sauber aufzuschmelzen.
+Fragen dazu? Vor- und Nachteile?
+Nachteil im Mikrofonextruder ist die schlechte Homogenisierung.
+Wir brauchen zusätzliche Mischteile auf dem Extruder.
+Das machen wir und das Ergebnis ist aber, dass dieser Extruder dann etwas länger wird.
+Der kommt nicht mit den 25, 28 D-Länge aus, sondern der braucht 36.
+Zum Beispiel typischerweise.
+Hier sieht man das.
+Heute ist Stand der Technik, dass die so typischerweise 38 D-Länge haben.
+Es ist immer noch eine wichtige Aufgabe, Material im Exkursionsprozess zu homogenisieren.
+Dann wird das durch eine Düse geschickt.
+Rechts im Bild sehen Sie eine Flachschnittsdüse.
+Die hat man mal geöffnet.
+Dann können Sie den Kunststoff, wenn er ausgeklebt ist, entnehmen.
+Dann wird man die Art und Weise des Materials durch die Düse verteilen.
+Dann wird die Anzeige in eine Verteilung gemacht und über die Breite der Materialien in der Gänze verteilt.
+Über die Zögerungspatienten wird das Material rausgeschickt und wird dann in diesem Klettwerk abgekühlt.
+Vorher sind wir in der Schmelze, Druckdurchsatz ist von Bedeutung und hier kühlen wir ab, setzen Schwindung ein.
+Schwindung von Amorten und Teilkristallinen, Thermoklasten.
+Die Schwindung wird größer bei den Teilkristallinen, was zu größeren Problemen bei der Verarbeitung führt.
+Während Amort-Thermoklasten relativ geringe Schwindungen zeigen und einfach zu verarbeiten sind.
+Wenn Sie also morgen hier in so einer Produktion anfangen müssten, würde man Ihnen erst einmal ein Amortis-Material geben und gucken, ob Sie diese Produktion merken würden.
+Und das später, wenn man mehr oder weniger verstanden hat, hoffentlich ein weiteres Sendungsmaterial.
+Wir sehen hier die Umschwingungswinkel, der ist unterschiedlich groß aufgrund der Neigung des Wettmerkes.
+Das sind alles eine große Spielwiese, die man hat, um Material- und Bauteileigenschaften des Halbzeuges einstellen zu können.
+Fragen jetzt?
+Wir müssen die Schmelze unterkühlen, hatten wir ja gesagt, damit die Kristallisation einsetzt.
+Die Schmelz-Temperatur bei PT liegt bei 65 Grad.
+Kristallisation liegt bei 130 Grad beim Abkühlen.
+Also brauchen wir eine Unterkühlung und machen das Kettwerk dann 150, 100 Grad warm.
+Man kann etwa umführen, die Bahn, die dort explodiert wird, permanent über dieses Klettwerk, wo Wärme der Schmelze erzogen wird, damit Kristallisation einsetzen kann.
+Haben Sie das Bild?
+Komplett drauf?
+Hier sieht man sogar mehr als gerade da ist.
+Okay, da kommt noch was.
+Das hier?
+Genau.
+Ich habe da nachher Bilder.
+Ich kann da hingehen.
+Das ist von Ihnen auch so angekommen, oder?
+Ja, das wollte ich eigentlich nicht. Das soll ich irgendwie rausnehmen.
+Das mache ich nochmal neu.
+Hier oben
+ein Muster, das ist aus dem
+Automobiltank entnommen
+an verschiedenen
+Positionen
+Platten werden
+dort
+Wir sind mehrschichtig aufgebaut, nur ganz kurze Exkursion dahin.
+Wir bekommen verschiedene Exkluder, verschiedene Materialien, die gemeinsam hier zusammengeführt werden als Schmelzestrom und dann gleichmäßig über die Breite der Bahn verteilt werden.
+Und über diese Bahn hinweg entstehen jetzt zum Beispiel drei Tankplatten, die alle eigentliche Eigenschaften haben.
+Dazu misst man den sogenannten Schrumpf. Das Material wird heiß in einen Ofen gelegt.
+Und wenn sogenannte Orientierungen vorhanden sind, wird dieses Extrudat zusammengestellt, diese Orientierung zurück.
+Einmal in Maschinenrichtung und das andere mal quer dazu.
+die sind beschrumpft
+da oben ist genau definiert
+ein Schrumpf einzustellen
+damit der Prozess
+im nachfolgenden Prozess
+beim Tiefziehen für den Automobiltank funktioniert
+und
+dann sieht das hier so aus
+Hier sieht man die Exit-Gard-Bahn.
+Da oben sind Wetter angebracht.
+Sie schneiden die Bahn der Länge nach.
+Danach wird mit einer Säge quer getrennt.
+Sie haben drei Tankplatten, die durch Tiefziehen in den Tank umgekehrt werden.
+Gängige Technologien, Automobil, Audi, Minihammer, die machen ja Kunst und Tanz daraus.
+Und in diesen Zielen brauchen sie eine bestimmte Einstellung des Materials, das ist während der Erwärmung um.
+Das macht man definitiv, wie den Prozess genau definiert, über die verfahrenstechnischen Parameter.
+Wie das im Einzelnen gemacht wird, darauf will ich eigentlich gar nicht eingehen.
+Es ist hier dargestellt, das ist alles identische Material, über die Prozessparameter,
+wie so ein Knet da gebildet wird, mit und ohne Knet,
+die Temperaturen, kann ein Schrumpf eingestellt werden,
+bis 60 Prozent des Materials, nicht um 60 Prozent zusammen.
+Sie kennen alle die Milchgetränke,
+die so bauchige Flaschen aufweisen, Müllermilch und sowas,
+da ist ein Schrumpf-Etikett drumherum.
+Da wird genau definiert, ein Schrumpf eingestellt,
+in Höhe von 20 Prozent in Umfangsrichtung,
+aber in Höhenrichtung gleich Null.
+Da wird auch ein schräges Bild drauf gedruckt,
+damit es nachher, wenn es geschrumpft ist, lesbar ist.
+Das heißt, das Material hat ein Memory-Verhalten,
+das wird im Prozess da reingetragen.
+Und die Ursache für dieses Memory-Verhalten
+sind Orientierungen.
+Orientierungen der Moleküle, die werden eingefordert.
+Orientierungen der Moleküle führen bei Wiedererwerbung zum Schrumpf.
+Den muss man im Prozess durch die Parameter definiert einstellen.
+Bei der Folie, bei den Platten, je nachdem, was daraus gemacht wird.
+Das kann dann unterschiedlich aussehen, so wie hier.
+Man nimmt solche Etiketten, schmeißt die in kochendes Wasser und guckt dann, wie viel Prozent die sich zusammenziehen.
+Bei Folien macht man das.
+Bei dieser Tankplatte, die wird in einen heißen Ofen gelegt, die muss ich dann in Maschinenrichtung um 60 Prozent zusammenziehen.
+Das war das Bild, was wir da vorhin gesehen haben.
+Eine platte Platte wird da reingelegt, in den Ofen, zieht das zusammen, dann weiß man, die nachfolgenden Prozesse funktionieren dann.
+Orientierungen entstehen beim Fließen und werden gezielt eingefroren.
+Entstehen beim Fließen.
+Ist die Orientierung größer, steigt der Strumpf, bei höheren Temperaturen werden die Orientierungen zurückgebildet.
+Wenn Sie wenig Orientierung haben möchten, müssen Sie das auch über die erfahrungstechnischen Paraben machen.
+Was machen Orientierungen?
+Orientierungen machen Anisokopie, wie beim Papier.
+Hier sind die Fasern alle ausgerichtet in eine Richtung, d.h. zwischen den Fasern läuft der Riss.
+Das ist Anisokopie in ureigentlicher Form, wenn Sie versuchen, den Riss quer dazuzufügen.
+Der läuft immer in diese Richtung, weil die Kräfte zwischen den Fasern hier sehr gering sind und das ist sozusagen eine Solldruckstelle im Zuge aufgetrachter Orientierung.
+Und das machen sie im Prozess.
+Wenn sie jetzt so eine Platte haben, die geht über das Klettwerk, dann hat die irgendwann ein Temperaturprofil und sie ist sich selbst überlassen.
+gehen wir mal davon aus
+das ist jetzt so eine Platte
+Sie haben mich gefragt, ja, Spindung, Amort, Teilkristallin
+welche Diagramme müssen wir können
+ja, ganz genau die
+das und das
+das ist TM
+das ist die Temperatur
+das ist das spezifische Volumen
+eines Teilkristallin-Materials
+das war die letzte Woche
+Da kann man das sehen, die Schwindung, dann teilt das Material viel größer als beim Amorfen, Faktor 3 bis 4 größer, je höher die Kristallität, desto höher die Schwindung.
+Und dann passiert folgendes. Die Platte 3,50 Meter in der Breite oder 4 Meter sogar, bis 4 Meter geht das, ist von außen her über die Ecken und Kanten abgekühlt, im Kern liegen noch 230 Grad Wurzeln, der Schmelze.
+Außen ist er abgekühlt, wo das Klettwerk ist.
+Da haben wir zum Beispiel Kristallisationstemperatur, Länge bei PP zum Beispiel bei 115 Grad.
+Das ist die Temperaturverteilung über den Querschnitt.
+Im Kern 230, außen die Temperatur des Klettwerkes und innen die Temperatur der Schmelze.
+Und die Kristallisation, außen ist es fest, läuft immer mehr in das Material hinein.
+Was wird weiterhin passieren, wenn diese Kristallisation weiterläuft?
+Das Material kühlt ab.
+Nennen wir das jetzt hier TK.
+Das wäre die Kristallisation, das Material kühlt ab.
+Dann setzt Kristallisation ein und das Volumen verkleinert sich.
+Und schwindet.
+Das heißt, die Fasern, die von außen vorhanden sind, werden außen aufgrund der niedrigeren Temperatur schon, die schon eingestellt ist,
+die äußeren haben dann nur noch so viel Schwindung, meinetwegen,
+während die, die noch aus der Schmelze kommen, so viel Schwindung haben.
+Der Kern zieht sich zusammen.
+Und das soll das hier andeuten.
+Der Kern zieht sich stärker zusammen als die bereits kühlen äußeren Schichten und führt dazu, dass die äußere Schicht, die ist fest, die ist hart.
+Der Kern zieht sich zusammen. Was passiert mit den äußeren Schichten, wenn der Kern sich zusammenzieht?
+Der nimmt die mit.
+Der nimmt die mit.
+Und die äußeren Schichten werden gestaucht dabei. Die werden kleiner.
+Ja, die äußeren Schichten versuchen das Zusammenziehen des Kernes zu verhindern in Wechselwirkung mit dem äußeren Rand,
+was dazu führt, dass im Kern Zugeigenspannungen und außen Druckeigenspannungen herrschen.
+Ja, das was zuerst abkühlt, hat immer Druckeigenspannungen.
+Was macht man beim Spritzguss oder beim Gießen, um das zu verhindern?
+Beim Gießen fließt über die plastische Seele Material nach unten nach.
+Beim Eisenguss.
+Beim Kunststoff können Sie beim Spritzgießen Schmelze noch reindrücken, solange die plastische Seele noch da ist.
+schieben sie so viel Material rein, wie es geht.
+Irgendwann ist der Angus versiegelt, dann geht das nicht mehr.
+Und dann schwindet das Bauteil.
+Das Ergebnis dieser höheren Schwindung, wenn die hoch ist, ist jetzt immer Lunker-Gefahr.
+Eigenspannungen und Verzug.
+Mit der Asymmetrische müssen wir den Verzug, der da kommt, ins Werkzeug so einbauen,
+dass nachher Ihr Bauteil die Maßhaltigkeit besitzt.
+Die Form sieht immer anders aus, als das Bauteil, das Sie später haben.
+Und Sie können nicht wie bei den Metallen im Nachgang anfangen, fräsen, bohren, sägen.
+Beim Kunststoff haben Sie Entgeometrie.
+Beim Frist muss zumindest bei den Halbzeugen hier, da wird der Nachgang, wo man fräst und bohrt, gesägt.
+Jetzt haben wir mit der hohen Schwindung, hohe Einspannung, außen entstehen Druckeinspannungen.
+Die äußeren Fasern, die äußeren Schichten wollen sich zusammenziehen, weil der Kern da mitkommt.
+Machen wir folgendes.
+Wir haben eine Platte, habe ich gesehen in Taiwan.
+Da war ich Kunden besuchen, der hatte einen Vakuumtisch, hatte 50 mm wie eine Platte auf diesem Vakuumtisch
+und hat eine Bahn reingefräst, hier oben.
+Was passiert, sobald Sie in dieses Gleichgewicht der inneren Spannungen eingreifen und so eine
+abziehen, dann geht die Spannung aus dieser Schicht weg, weil in der Randzone werden die
+Spannungen frei. Die Schichten, die hier oben sind, an der Stelle, die sind gestaubt. Und
+diese Spannung wird frei durch eine Deformation. Frei werdende Spannungen und der Randfaser
+bedeuten, dass sich diese Schichten zusammenziehen.
+Dann waren die Spannungen so groß in der Platte,
+als er die erste Bahn da reißen gefräst hat,
+dann hat sich die Platte so verformt,
+dass die nicht mehr mit dem Markum auf den Tisch gehalten werden konnte.
+Die ist runtergesprungen.
+So groß sind die Eigenspannungen bei solchen extrudierten Produkten.
+Man muss dann im nachgeschalteten Prozess versuchen,
+diese Eigenspannungen zu reduzieren.
+Ich mache eine Schweißung.
+bringt zwei platten zueinander so was ich habe zwei platten weil ich ihnen das video
+mal gezeigt oder exklusions schweißung da wird jetzt hier so gleichartiges material
+eingelegt da unten wird durch geschweißt da wird so eine exklusions schweißung gemacht
+Das Ganze nennt man Explosionsschweißen.
+Wenn Sie solche Platten dann schweißen, ich mache das auch, wenn ich das mal zeigen darf.
+hier wird es gemacht
+das sind so
+Exklusionsschweißungen
+hier wird die Schweißung reingesetzt
+die beiden Platten werden aufeinander gesetzt
+an der Stelle
+habe ich mehr Material
+das zieht sich in der Richtung
+stärker zusammen als da unten
+führt dazu
+dass Deformationen auftreten
+es zieht die Platte nach oben
+aufgrund des sich abkühlenden Materials
+und der Schwindung
+bei der Abkühlung, entstehen Spannungen. Hier, was wird die Platte machen, wenn sie fertig ist und
+sie ausgekühlt ist und diese Schmelze abkühlt? Die hat hier oben viel mehr Schwindung als unten.
+Das heißt, sie wird oben sich stärker zusammenziehen an der Stelle, was dazu führt, dass hier so eine
+Biegung aufdrückt.
+Diese Platte
+biegt sich nach oben.
+Wenn man das mit Auskühlung langsam macht,
+kann man das
+verbessern in Situationen,
+wo es sich nicht verhindern kann.
+Hier zum Beispiel
+ist ein Lucker entstanden.
+Die Naht ist einfach zu dick.
+Die ist zu schnell ausgekühlt.
+Wenn das Material zu viel Schwindung hat,
+ist immer die Gefahr da,
+dass Lucker entstehen
+Im Rohr manifestieren sich diese Eigenspannungen ebenfalls.
+Da oben hat man am Rohr einen Abschnitt freigeschnitten.
+Da sieht man, das Rohr fällt am Rohrende zusammen.
+Dort, wo die Spannungen frei werden.
+Wenn Sie diese aufschneiden, werden diese Spannungen frei.
+Was man zusätzlich bekommen kann, ist dann auf der Außenseite an der Platte so ein Verstellen.
+Weil da ebenfalls diese Spannungen zu Deformationen führen.
+Das ist auch immer mal wieder eine Frage hier zu den Eigenspannungen, die entstehen durch Schwindungsprozesse bei der Abkühlung. Je mehr Kristallinität, desto mehr Schwindung, desto mehr Eigenspannung.
+Sie können beim Spritzgießen durch Entzauberungsprozesse oder durch Montageprozesse entstehen und diese Spannung wie in einem Bauteil vorliegen, ohne dass von außen irgendwelche Momente oder Kräfte wirken.
+Wenn Sie in das Gleichgewicht eingreifen, bei der Platte sah das so aus.
+Außen die Druckspannung und innen Zug.
+Hier werden die Fasern außen gestaucht.
+Und wenn ich das freischneide, wird diese Druckeigenspannung durch die Stauchung der Fasern außen, wenn ich die freischneide, dann können sie sich in der Randzone zusammenziehen und dann verformen sich die Baustelle.
+Wenn Sie ein Loch in so eine Platte reinbohren, es bleibt nie rund.
+Die Spannungen sind so groß, dass es immer zu Deformationen führt.
+An dieser Randphase, bei den Metallen nutzt man das sogar mit der sogenannten Bohrlochmethode.
+Sie bohren ein Loch, kreisrund, ziehen den Bohrer raus, bohren immer tiefer und messen jedes Mal das Loch.
+mit dem Messstreifen und schauen, wie sich das verformt, in x- und y-Richtung.
+Und zusätzlich, je tiefer Sie einbohren, verändert sich die Oberfläche Ihres Loches,
+es wird eiförmig und die Deformation wird gemessen.
+Das ist ein Ergebnis von vorhandenen Eigenspannungen,
+bei den Kunststoffen ist das nicht so ganz einfach.
+Wir stehen also im inneren Gleichgewicht und wenn Sie in dieses Gleichgewicht eingreifen,
+führen Sie zu Deformationen bei mechanischer Bearbeitung.
+Die sind Ursache für Bauteileverzug.
+Sie können durch Tempern unterhalb der Kristallitschmelztemperatur,
+macht man so 130 Grad, langsam. Das würde ich hier auch noch mal anfassen. Hier sieht man das
+jetzt noch mal, wenn wir dieses Rohr jetzt freischneiden, passiert folgendes, es zieht
+sich da oben zusammen. Beim Rohr ist es so, dieses Rohr wird zunächst von außen gekühlt,
+nur von außen
+Q ist die Wärme
+die abgeführt wird
+nach außen
+der Wärmestrom
+und die Kristallisation läuft
+von außen
+nach innen
+oder hier
+Stau
+Kristallisation läuft von außen nach innen
+jetzt haben Sie außen die feste Schicht
+die hier
+Da ist noch Schmelze.
+Die Schmelze will sich zusammenziehen.
+Was macht sie?
+Wenn die Schmelze sich zusammenzieht und dann kristallisiert, haben wir einen großen Volumensprung.
+Die inneren Schichten ziehen sich zusammen.
+Die äußeren sind fest.
+Was passiert mit den äußeren Schichten?
+Die gehen mit.
+Die äußeren Schichten sind gestaucht.
+Die inneren haben Zug-Eingespannung.
+Was sich dadurch ergibt, ist ein schräges Eingespannungsprofil.
+Alles, was zuerst einfriert, hat eine Druckeigenspannung und damit liegt außen eine Druckeigenspannung vor und innen eine Zugeigenspannung.
+Wenn Sie das jetzt aufschneiden, klappt das Rohr zusammen.
+Das ist ein riesen Betrag, wenn Sie dichtwandige Rohre haben, die stehen so unter Eigenspannung, wenn Sie die aufschneiden.
+Wir haben das für einen Maschinengieferanten, der wollte ein Rohr haben, in Rot, als Demonstration für eine Schweißmaschine.
+Der hat das Rohr aufgeschnitten, das hat sich zusammengerollt wie eine Brustbrille, weil es so viel Spannung hatte.
+Der konnte daran gar nichts anfangen.
+Das war auch durch Temper nicht zu beseitigen.
+Das heißt, diese äußeren Schichten, die sich zusammenziehen wollen, können Sie das machen, wenn Sie die Spannung freischneiden.
+Damit sehen Sie diese Spannung. Ist die Spannung größer, gibt es eine größere Verformung.
+Das nennt man auch Jansson-Methode.
+Dieses Aufschneiden des Rohres.
+Damit können Sie die Eigenspannung messen.
+Ich bin das Wort komplett zusammengeklappt. Das ist noch ein bisschen offen. Je stärker die Eingespannung, desto stärker klappt das zusammen.
+Bei der Produktion wird dann auch definiert, wie groß die Eingespannung sein darf.
+Fragen dazu?
+Wichtiges Thema, rückwirkungsrelevant.
+Ist das jetzt so eine Sache, in der man leben muss, oder gibt es Möglichkeiten, das zu umgehen?
+Bei der Explosion schaffen Sie das nicht.
+Sie geben da keinen Druck mehr rein.
+Man hat andere Verfahren, wenn Sie eine Platte pressen müssen, können Sie die ganz lange unter Druck halten.
+Und damit können Sie die Schwindung ausgleichen.
+Sie müssen immer Gedanken machen, wie gleich ist die Schwindung aus.
+Dann gibt es Materialien mit weniger Schwindung.
+Wenn Sie zum Beispiel Polypropylen haben,
+sogenannte Homopolymer,
+das hat sehr viel Schwindung,
+sehr viel Kristallinität.
+Wenn man das Random Polymer nimmt,
+das hat weniger Kristallinität,
+weniger Schwindung,
+das ist in der Verarbeitung einfach.
+Aber wenn Sie sagen,
+man muss damit leben,
+weil bestimmte Verfahren nicht eigenspannungsfrei sind.
+Was Sie jetzt hier noch machen können,
+Sie können in der Rohrlinie
+das Rohr nochmal erwärmen.
+Das leuchtet mit einem Ofen durch in der Explosionsstrecke
+und wird mit dem Infrarotofen an der Oberfläche nochmal erwärmt.
+Und dann müssen Sie nochmal zusammen zurückgehen.
+Dann können Sie diese Eigenspannung reduzieren.
+Das ist da unten dargestellt.
+Mache ich auch nochmal neu.
+kriegen Sie nochmal eine andere Folie beim Tempern, haben wir gesagt, wenn wir Eigenspannungen
+reduzieren, das Wichtige dabei ist, Sie machen das Material warm, Sie halten es eine Zeit
+lang bei einer bestimmten Temperatur, T-Tempertemperatur, 15 bis 20 Kelvin unter TK, unterhalb der
+Kristallinschmelztemperatur und dann kühlen Sie da hinten ganz langsam ab, damit die Temperaturdifferenz
+zwischen außen und innen nicht groß ist. Und das kann 20 Stunden dauern, für dicke Platten, ja?
+Langsam abkühlen.
+Sie kriegen die aber nicht ganz raus.
+Das werden Sie vergessen.
+Und bestimmte Verarbeitungsprozesse implementieren bestimmte Eigenspannungen und einen bestimmten Verzug.
+Und unter Umständen muss man den Verzug ins Werkzeug einbauen.
+die Spritzguss machen und sie machen
+den Deckel irgendwas
+zum Joghurtbecher
+der soll hier
+die Wand so eine
+Das wird passieren, wenn Sie das Werkzeug so machen.
+Die Ecken sind biegesteigt. Die werden sich nicht vertrauen.
+Das Material wird sich bei der Abkühlung, wenn Sie es nachher aus dem Werkzeug rauswerfen, so zusammenziehen.
+Hier die Ecken, die sind aber biegesteigt. Über die Fläche werden sie sich ebenfalls zusammenziehen.
+Durch Abkühlen wird es sich in dieser Richtung zusammenziehen.
+Wenn Sie die Form jetzt so bauen, was wird passieren?
+Es wird runder.
+Es schrumpft zusammen und das Bauteil wird sich über diese biegesteiften Ecken,
+dann über diese Fläche, da wird es weniger, zusammenziehen und Sie kriegen so eine Wölbung dabei.
+Beim Abkühlen.
+Warum sind die Ecken biegesteigt? Weil da die Wärme nicht so...
+Naja, biegen Sie mal eine Ecke. Beim Abkühlen. Die zieht sich da symmetrisch zusammen und diese Fläche hier, die ist super biegeweich.
+Die zieht sich da in die Richtung zusammen. Beim Abkühlen. Und deshalb wird man beim Werkzeug was machen müssen?
+Sie müssen die Form Ihres Werkzeuges anpassen und Sie müssen die Kontur nach außen gemäß dem Betrag, den sich dieses Bauteil zusammenzieht, wo es die Kontur außen, diese Vorwölbung besitzen.
+Sie müssen die Kontur nach außen fahren.
+Dann kühlt das Bauteil ab und hat die Endkontur in Blau. Das ist das, was ich wünsche.
+Diese Kontur ist nach außen gewölbt im Werkzeug, bei weiterem Zusammenziehen des Bauteiles und Abkühlung, es ist dann maßhaltig bei Raumtemperatur.
+Das Lustige, Sie kennen alle diese Schaber, Eiskratzer, da gibt es eine Serie, die ist bei Raumtemperatur oben schön planparallel, wenn die minus 10 Grad hat, geht der Kratzer nur auf den beiden äußeren Fasern.
+in der Mitte ist der Kohl.
+Der weiter abkühlt, verformt er sich
+und bei Minustemperaturen ist das Ding
+komplett unbrauchbar.
+Kennen Sie die Dinger?
+Also am Markt oder
+wenn Sie allgemein...
+Ne, generell, das ist
+ein Bild, vielleicht kennen Sie die
+also einzige Katastrophe...
+Die blauen Karten, meinen Sie, oder?
+Ich zeige Ihnen den Eiskratzer, ich habe
+ein Video davon da, das ist die einzige
+Katastrophe, die wir haben.
+Ich habe jetzt manchmal das Werbegeschenk, das hat meine Firma auch schon verteilt, da standen die Dinger, die sind von vorne her so steif,
+Und wenn die minus 10 Grad haben, verformen die sich weiter und dann drücken sie unter Umständen, weil die Form hier falsch gebaut ist, nur mit den beiden äußeren, die kriegen die gar nicht verformt so steif.
+Das ist Zeugnis. Die kratzen nur die äußeren beiden Spuren weg.
+Ja, aber wieso haben die das nicht beachtet, weil sie keine Ahnung haben?
+weil sie keine Ahnung haben oder vielleicht dann auch zu stark gekühlt haben,
+Produktionssteigern, bei Raumtemperatur ist es vielleicht maßhaltig,
+aber bei minus 10 Grad nicht mehr.
+Und dann ist dieses Material, das Bauteil so steif,
+dass sich das nicht mehr an die Scheibe anzieht.
+Das habe ich schon mehrfach erlebt bei jedem Bauteil.
+Das funktioniert nicht.
+Also falsche Produktdefinition, hätte ich gesagt.
+Eigenspannungen sind Spannungen, die im Bauteil vorne liegen.
+Hier hat man das dann zu beachten, Sie müssen die Form nach außen wölben.
+Wenn Sie zu wenig wölben, fällt es ein, wölben Sie zu viel, ist es nach außen gekrümmt.
+Das müssen Sie wissen, was da passiert.
+Und das ist eine Frage der Schwindung.
+Wie viel schwindelt das Material und wie fahre ich meinen Prozess?
+Also es ist ein Wechselwirkung.
+Und man kann diesen Prozess simulieren, den Spritzguss,
+und Sie können simulieren, wie diese Bauteile sich verformen.
+Ich zeige das noch ganz kurz.
+Wir machen nächste Woche noch ein bisschen Spritzguss.
+Hier sieht man das, schauen Sie mal.
+Hier ist diese sogenannte plastische Seele.
+Das Bauteil wird gefüllt.
+Alles ist plastisch.
+Das kühlt jetzt ab.
+Dort, wo ich Ecken und Kanten habe,
+habe ich viel mehr Wandstärke.
+Da habe ich einen wanddicken Sprung
+in den Ecken und Kanten.
+Hier zum Beispiel.
+Das sind drei Flächen, die aufeinander stehen.
+Deckel, zwei Seitenwände.
+Das ist eine Masseanhäufung.
+Diese Masseanhäufung ist im Schluss
+sich selbst überlassen.
+Der Kern zieht sich zusammen.
+Die Masse wird nicht mehr versorgt mit Nachdruck.
+Mit Nachdruck kann ich da vorne noch arbeiten, aber jetzt ist das vorbei.
+Das ist nicht selber überlassen.
+Das zieht sich zusammen, es kühlt ab und es gibt einen Bauteilverzug.
+Diesen Verzug, den muss ich prognostizieren, weil ich ihn in das Werkzeug einbaue.
+Dann habe ich nachher ein ganzes Bauteil, typischerweise mit da unten jetzt ein Deckel drauf geschweißt.
+geschweißt und dann gibt es starke Anforderungen wie Maßhaltigkeit. Die müssen Sie als Form in das
+Werkzeug einbauen. So ein Verzug von dem Bauteil, der sieht so aus. Wenn das aus dem Werkzeug
+rausfällt, dann kühlt es so ab. So verzieht es sich. In diesem Verzug müssen Sie prognostizieren
+und umgekehrt in das Werkzeug, im Werkzeug vorhalten, damit Sie nachher ein maßhaltiges
+Bauteil haben. Das macht man mit der Spritzguss-Simulation und Sie sehen hier, das haut hier fünf Zehntel
+ab. Sie können aber im Kunststoffbereich teilweise ein Hundertstel dimensionieren, wenn Sie die
+materialfunktionen kennen richtig kennen die bilder hier richtig interpretieren und die
+richtigen bildschlüsse ziehen das gibt diesem bauteil verzug aufgrund der schwindung achtzehntel
+das Material ab. Das müssen Sie nach der anderen Seite brümmen. 8 Zehntel. Millimeter.
+Wenn Sie aber Anforderungen haben auf ein Zehntel, dann müssen Sie das in das Werkzeug
+einbauen. Sie bauen dann das Werkzeug, Sie machen es kurzversucht und stellen fest, von
+den 8 Zehnteln sind immer noch 3 Zehntel da. Dann müssen Sie das Werkzeug wieder aufmachen,
+auseinanderbauen, neudimensionieren, Veränderungen implementieren, nochmal abmustern.
+Das machen Sie in der Regel fünfmal bis das Werkzeug fertig ist.
+Weil das, was Sie auf dem Rechner machen, nicht genau das widerspiegelt, wie die Realität ist.
+Aber Sie sind nah dran.
+Und Sie brauchen, wenn Sie gut sind, vielleicht dreimal, um das zu produktionsreif zu kriegen.
+Das Prozess dauert beim Kunststoffbauteil ein halbes Jahr, in China drei Monate.
+Die arbeiten doppelt so viel und schnell.
+Das ist kein Spaß, das ist so.
+Ich sag Ihnen, das Fokker da in Wiggensbach, der hat in China eine Entwicklung doppelt so schnell.
+Die gehen auch nicht nach Hause am Wochenende.
+Da wird es weiter geschafft.
+Die können jetzt nach Hause gehen.
+Wollen wir uns nicht nur sehen, frohe Weihnachten, guten Rutsch und alter, neuer, zwischendurch dann 2026.
+Ich werde ein neuer Mensch sein.
+Kennen Sie diese Leute immer?
+Mittelschule für eine Woche oder was?
+Ja, dafür gibt es, dafür, das haben sie verdient.
+Was denn?
+Achso.
+Das ist ein Geschenk.
+Aufsitzen.
+Mit Respekt.
+Das ist nur so der Endruhe.
+Vielleicht reden wir jetzt die Leute auf,
+die dann so reden und dann nichts machen.
+War jeder so grob?
+Ich nie.
+Ich nehme nie was vorgenommen.
+Das ist einmal.
+Vielleicht mit Spitzen,
+aber nicht mit Erwachsenen.
+Vielen Dank.
+Also wir haben jetzt hier den Punkt, diese Temperatur.
+Warum diese Temperatur? Warum das Gelbe da mitgekommen ist, weiß ich nicht, das kann man ändern.
+Die äußere Wandfaser ist fest, hier ist beim Rohr zuerst außen fest, der Kern, die inneren Schichten ziehen sich zusammen.
+Was passiert mit den äußeren Schichten, wenn die inneren sich zusammenziehen?
+Die äußeren Schichten sind fest und innen ziehen sie sich zusammen.
+Aber bei dieser Situation wäre es eine Avalon-Kirurgie.
+Unter Umständen. Aber normalerweise kann das gut schwinden.
+Was passieren kann ist, wir haben außen die Faser jetzt fest.
+Der Kern zieht sich zusammen, die inneren Schichten, und wollen die äußeren mitnehmen.
+Was passiert dabei? Die äußeren Schichten werden gestaucht.
+Gestaucht.
+Verkürzt.
+Verkürzt.
+Außen hier genauso. Außen die Fasern werden verkürzt, wenn der Kern sich zusammenzieht.
+Die äußeren Fasern versuchen aber, den Kern daran zu hindern.
+Deshalb hat der Kern, also Sie können sich eine Sache merken, schreiben Sie mal mit, was zuerst einfriert, was zuerst einfriert, was zuerst kalt ist.
+Hier beim Rohr ist es die äußere Schicht, hier sind es beide Schichten, weil das ja über das Klettwerk geht.
+Was zuerst einfriert, hat eine Druckeigenspannung, wird bestaubt.
+Was zuerst einfriert,
+Wo sind wir jetzt? S014, oder?
+für Maschinenelemente, was zuerst einfriert, wird gestaubt und hat damit einen Druck,
+Und dort, wo die plastische Seele ist, die plastische Seele, die hat immer Zug.
+Und wenn die plastische Seele keine Zug-Eigenspannung mehr hat, wird es immer schlimmer, dann bekommt
+Okay, danke.
+Danke.

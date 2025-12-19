@@ -1,0 +1,616 @@
+Okay, wir haben gesagt, wir machen heute nur die Vorlesung und die Übung zu den Schrauben
+und dann am 9. Januar.
+Ja?
+Jetzt kommen wir noch mal zu dem
+Verspannungsdiagramm und
+die Art und Weise, wie eine Kraft
+angetragen wird und welche
+Folgen daraus
+für die Kräfte, die
+in der Schraube
+und in der
+Zwischenlage
+vorhanden sind.
+Jetzt ist mir da ein Fehler passiert.
+Ich habe es an anderer Stelle korrigiert.
+Das hat der Knecht Rupprecht, Weihnachtsmann.
+Wir würden das R durch das C ersetzen.
+Ich weiß nicht, warum das jetzt in dieser Grafik da reingerutscht ist.
+Das ist, glaube ich, eine andere Welle.
+Wir sehen, dass da die Momentatur auch nicht durchgegeben wird,
+sondern gleich eingesetzt wird.
+Wobei, das ist Hintzen. Ich habe andere Sachen von dem Hintzen, aber da redet er von dem C.
+F bis C mal S. Steifelstärke.
+Ich würde das im Nachhinein noch korrigieren bei mir.
+Wir haben gesagt, dass wir diese beiden Schraubilder ineinander, und ich finde diese Darstellung sehr schön, sie macht nochmal deutlich, wenn wir jetzt hier zusätzliche Deformation durch einen Drehmoment einbringen, wird die Schraubenvorspannung erhöht.
+Wir kriegen diese Parallelverschiebung der Plattenkennlinie nach oben, wird die Kraft reduziert, wird diese Kraft nach unten geschoben.
+Die Frage, die sich daraus jetzt ergibt, ist, wie verändert sich dieses Verhalten, wenn das Ganze jetzt unter einer Vorspannung steht.
+Wir haben ja gesagt, die Kraft, die hier angezeichnet ist, ist dieser Kreuzungspunkt zwischen Feder-Kennlinie der Schraube und Feder-Kennlinie der Platte.
+Und sobald eine Begrüßkraft hier ankreift, müssen wir diese in dem Schaubild darstellen können.
+Und die Auswirkungen, die sich daraus ergeben, für die Schraube und für die Platte.
+Wir haben jetzt hier eine Kraft, das kann man sich sehr schön vorstellen. Unterhalb dieser Verschraubung ansetzen, wird die Kraft in dieser vorhandenen Verschraubung gelockert.
+Die Schraube wird zusätzlich gelängert, während die Platte entlastet wird. Und die Kraft, die die Platte zusammendrückt, wird entsprechend kleiner.
+Es wird folgendermaßen gemacht, diese Kraft wird angetragen, die ist jetzt hier als FA bezeichnet und wird hier in dieses Dreieck, was auslaufend ist, zwischen Plattenkennlinie und Schraubenkennlinie eingepackt.
+Also die Schraube erfährt eine zusätzliche Deformation.
+Diese Betriebskraft FA teilt sich auf auf eine Kraft, die in der Schraube FS wirksam ist
+und eine Kraft, die wirksam ist in der Platte.
+Und auch wieder nach dem Steifigkeitsverhältnis von Platte und Schraube.
+So, dabei bitte mal schauen, gibt es dann sozusagen eine reduzierte Plattenverspannung und eine Restklemmkraft, die man hier unten ablesen kann.
+Das ist die Restklemmkraft.
+Wenn jetzt diese Kraft, die Betriebskraft immer größer wird, wird die Schraube immer weiter gelenkt.
+Und die Restklemmkraft wird immer kleiner, ist die Betriebskraft entsprechend größer, wird sie weiter angesetzt und verteilt sich aber immer gleichmäßig im Zuge des Steiglichkeitsverhältnisses von Schraube und Platte auf die Schraube und die Platte.
+Ja?
+Das ist eine Zugkraft.
+Es könnte auch sein, dass eine Druckkraft hier wirkt. Das muss man auch entsprechend berücksichtigen.
+Also die Zugkraft, die hier eingetragen wird, wird in dieses Dreieck der auslaufenden Raden hier eingetragen.
+führt dazu, dass die Schraube zusätzlich gelenkt wird.
+Dabei wird dieses FA auftreten im Zuge der wirksamen Kraft,
+was diese zusätzliche Deformation der Schraube bewirkt
+und gleichzeitig die Platten wieder näher in den Ursprungszustand des ungespannten zurückdrifft.
+So wird das angesprochen.
+Die Steifigkeiten der beiden Komponenten spielen eine entscheidende Rolle.
+Wir haben das gestern schon geschaut und gesehen, dass das Bild im Verspannungsdiagramm macht sich eine erhöhte Vorspannung bemerkbar, immer als Parallelverschiebung der Plattensteifigkeit nach rechts.
+Die Steifigkeitskennlinie nach links verschoben bedeutet eine niedrigere Vorspannung, die ich jetzt zusätzlich noch mal als Beispiel auf zwei Strich eingezeichnet habe.
+Die Gesamteformation ist hier dargestellt, die Verschirrung der Platte sozusagen und die Nähmung der Schraube setzt sich aktiv zusammen.
+Und es gibt dann die entsprechende Gesamtdeformation, die man jetzt hier als KS-Strich macht.
+Und die Deformation der Schraube, die Schrauben in der Zwischenlage werden vergrößert und man hat eine höhere Vorspannkraft, die da rangeht.
+Gleichzeitig wird durch eine Verschraubung, die stattfindet, in den Kontaktflächen Ungebenheiten,
+die auftreten, geklettet. Man nennt das Setzen. Das heißt, die Verformung geht zurück und die
+Die Vorspannkraft, wir haben jetzt gesagt, eine abhebende Vorspannkraft wird dazu, dass die Steilskade nach links verschoben wird.
+Wenn wir mit einem ursprünglichen Betrag die Verbindung anschrauben, dann kann ein Setzen eintreten.
+Das Setzen bedeutet ein Vorspannkraftverlust durch lokale, kleine, plastische Deformationen in der Kontaktfläche im Kopf,
+In den Flächen hier und überall dort, wo ein Kontakt herrscht, kann dieses Setzen auftreten.
+Was kann man dagegen machen?
+Mit Einberechnen.
+Mit Einberechnen, das ist einfach so.
+Aber wenn ich jetzt sage, okay, was sagt Ihnen der Reifendienst?
+Nachziehen, das ist genau der Punkt, der sagt nachziehen nach einer bestimmten Fahrtdauer,
+wo das Setzen dann beendet sein soll, kann man nochmal, ja, die Parallelklinik und die
+sofortbare Grafik nochmal, ich habe das mal gehabt, ich habe keine Ahnung, was da los
+Ich bin auf der Messe in Friedrichshafen, bin auf der Autobahn zurückgefahren und einmal klack, klack, klack, klack, klack, schlägt es.
+Ich hatte ein komplettes Feuerrad.
+Wieder hatte einer rumgeschraubt und hat die Schrauben locker gemacht, aber die Warten, die haben sich gelöst, die waren locker.
+Und mit modernen Fahrzeugen ist es immer mehr ein Drehkreuz, um Raum anzuziehen.
+Dabei reden wir von Beträgen 5, 2, 4 µ, die diese Setzbeträge ausmachen.
+Das Setzen der Schraube teilt sich auf, sozusagen auf einen Spannkraftverlust, der dazu führt, dass ein Delta-V,
+Delta-V, das ist eine Gesamtreformation, die jetzt niedriger ausfällt mit dem einhergehenden Vorspannkraftverlust,
+Und Anteilen auf A und B, das heißt auf Platte und Zwischenlage.
+Delta Fs ist Delta V, Fv durch A, das ist der Anteil, der von der Schraube kommt, der größer ist, weil die eine Schleifigkeit hat und die Schleifigkeit der A.
+Die Zwischenlage ist entsprechend höher und ist B. Das Ganze setzt sich zusammen aus dem Vorspannkraftverlust, dem umgekehrt proportionalen und an die Werten von CS und C.
+Das Setzen der Schraube wird gering gehalten durch geringere Brauigkeiten in den Kontaktflächen,
+durch eine geringe Anzahl der Trennfugen, das heißt Unterlegscheiben,
+und das bricht einen Stapel von Unterlegscheiben möglichst vermeiden.
+Das ist immer schlimmer mit dem Setzen.
+Flächenpressung an den Trennfugen möglichst unterhalb der Streckgrenze halten,
+dass keine klassische Beformung der Grauheiten eintreten kann.
+Wie gesagt, schwer getan.
+Man hat das eigentlich immer.
+Ich habe mal eine Abschlussarbeit betreut,
+da hat einer Kunststoffplatten verspracht.
+Und wollte dann das Ganze an CFK-Platten versprachen.
+Und der Kunststoff selbst, der hat noch einen stärkeren Beitrag, weil er kriecht.
+Und auch bei BMW, bei der Arbeit war ganz gravierend, weil er, ich sag mal,
+diesen Vernetzungszustand, der erforderlich ist, nicht richtig beschrieben hat.
+Also den Werkstoff nicht richtig beschrieben hat und hat dann Temperaturwechselversuche gemacht.
+hat das ins Warme reingelegt, dann dehnt sich der Kunststoff stärker aus als die Schraubverbindung,
+weil der Stahl eine geringere thermische Längenausdehnung hat.
+Was passiert? Die Spannung steigt in der Kunststoffplatte, die dehnt sich aus
+und wenn sie dann wieder abfüllt, zieht sie sich stärker zusammen und dann gibt es auch einen Vorspannkraftverlust.
+Das kann ich aber nur vernünftig messen, wenn ich weiß, was in dem Werkstoff los ist,
+wie er vernetzt ist, schämlich gesehen, weil er in der dicken Wirkung dann den prominenten Taktor ausmacht.
+Und die Arbeit war aufgrund dessen, dass er den Vernetzungszustand nicht bestimmt hat, eigentlich wertlos.
+Wir haben einen riesigen Wirbel gemacht, weil er dafür eine tolle Arbeit gemacht hat,
+aber die fachlichen Mängel, die waren eklatant.
+Und es lag daran, dass BMW an der Stelle niemanden hatte, es waren Experten für Verschraubung, aber keiner hatte Ahnung von CFK.
+Also ziemlich übel.
+Und da ist das Setzen wahrscheinlich noch ein stärkeres Phänomen, weil der Kunststoff fliechen kann.
+Wenn er nicht vollständig vernetzt ist, fliegt er mehr, als wenn er vollständig vernetzt ist.
+Wenn ich im Nachgang den Vernetzungszustand nicht charakterisiert habe, war das jetzt im Prinzip wert.
+Was man hier jetzt machen kann, wo Vorspannung oder auch nach dem Setzen noch genügend Vorspannkraft zur Verfügung steht,
+das ist die Alternative oder eine geringe Steigigkeit in Sachen Schraubverdienung,
+sodass der Setzbetrag durch Nachfeder der Schraubverdienung aufgenommen werden kann.
+Dann, was wir gesagt haben, nach einer bestimmten Betriebszeit, den Setzbetrag durch Nachziehen der Schrauben ausgleichen.
+Um diesen Vorgang abzukürzen, kann die Schraubverbindung nach der Montage mit Überlast vorbelastet und dann sofort nachgezogen werden.
+Das war jetzt die Zugkraft. Ich wollte jetzt mal gucken, wann die Zugkraft kommt.
+Das hätte ich gerne angestellt.
+So, nach Montage mit Schrauben wird der Längskraft beansprucht.
+Die Gipsfahrt FB kann eine Schwer- oder Längsbeanspruchung verursachen.
+Diese Quer-Beanspruchung, da muss sichergestellt werden, dass die Schraube, also die typische Schraubverbindung nach der DIN 13 ist, keine Schubkräfte abbekommt.
+Hier wird an der Stelle quasi über Flächenkontakt, der hier an der Stelle herrscht und an der Stelle herrscht, eine Scherung in die Schraube reingebracht.
+Mit der Schraube kann man das machen, weil die normativ bewegt ist.
+Da ist eine entsprechende Bohrung da, das ist eine Passung.
+Diese Passschraube kann dann dimensioniert werden und kann zusätzlich mit dieser Schubbeanspruchung umgehen.
+Normale Schrauben, wo ein Gewinde ist, das Gewinde dürfen Sie nicht rein auf Schub beanspruchen.
+dann muss sichergestellt sein, dass die Vorspannkraft, der V, größer ist, jetzt hier wirksam ist,
+und durch Reibung abdeckt, als diese Betriebskraft dividiert durch die Reibung.
+Das heißt, Sie müssen diese Verbindung so weit vorspannen, dass die Reibung diese Querkräfte übertragen kann
+und dass keine Scherung, keine Scherspannung oder jetzt ein Kontakt mit den Platten besteht und Spannkraft ist ausreichend groß sein.
+Und hier muss sozusagen eine Lücke bleiben vorhanden, weil es darf keine Flächenpressung auftreten.
+Ich glaube, da ist eine Rechnung drin.
+Ich gucke mir den Ferien dann mal an, was wir im letzten Veranstaltungstag dazu rechnen werden.
+Wir haben diese Formel quasi aus der Mietverbindung, wo die Herzschlagpressung und diese Kräfte übertragen werden.
+Die Querkraft wird durch die Fläche dann abgebildet.
+Der liegende Teil des Bildes war das mit dieser Passschraube.
+Und die tatsächlich vorhandene Schubspannung muss kleiner sein als die zulässige Schubspannung.
+Die Passschraube hat dann noch zur Folge, dass ein Lochweibungsdruck entsteht,
+der ebenfalls kleiner sein soll, als die zu übertragende Querkraft in der Kontaktfläche D mal S.
+Das war auch die Art und Weise, wie wir die Liefen berechnet haben.
+Und diese konventionelle Verschraubung, das war die Passschraube,
+Die Schraubenschraube und hier die Übertragung durch Reibung bedeuten, dass die Vorspannkraft größer sein muss, als die übertragende Querkraft, der den Aspekt der vorhandenen Reibung müh in den entsprechenden Kontaktflächen.
+Hier ist es nochmal geangestellt. Hier ist diese Schraubverbindung mit entsprechend größerer Bohrung, durchgehendem Gewinde, S-Schraub, Übertragung durch Schreibschluss, ausreichende Vorspannung.
+Hier hat man zusätzlich eine Fassschraube drin, die kann jetzt Kontakt mit den Flächen abgeben.
+Da muss man gucken, dass die Flächen ausreichend groß sind, um die Übertragung des Backup-Tubes zu gestalten.
+Da hinten haben wir die Scherbüchse eingepackt, die jetzt beim Gärtner aufnehmen kann, Scherung, Lockleitungsdruck und die Schraube, die im Hauptkapus liegt.
+Ja, hier jetzt nochmal ein Bild von dem Hinzen, der hat jetzt diese anderen Wirklichkeiten.
+Das hier bitte, im Prinzip, das ist jetzt ein anderer, das mit dem Hinzen steht hier glaube ich nicht.
+Das muss eine andere Quelle sein, denn der hat eine andere Nomenklatur.
+Der Winsen hat immer dieses CZ eingesetzt und er hat auch diese Nukleatur dann entwickelt und das stammt, glaube ich, auch aus Winsen, da ist die Quelle richtig, und er kriegt das CZ und das CS an, trägt die Betriebskraft hier an, diese FBL als Zugkraft,
+Die fällt sich jetzt auf nach dem Steifigkeitsverhältnis in eine Kraft, die noch zusätzlich in die Schraube geht, nach deren Vorspannung.
+Die greift jetzt hier unmittelbar unterhalb der Verbindung an.
+Das ist im Grunde genommen auch ein bisschen ungünstig, weil da jetzt eine sehr geringe Steifigkeit der Zwischenlage vorhanden ist.
+Und jetzt greift die Kraft da oben an, das ist fest, die Kraft führt dazu, dass die Schraube zusätzlich gelenkt wird.
+in den Betrag Delta Fb wird hier in diesem Dreieck eingetragen, der Länge nach, wenn Sie das maßstäblich machen und wenn Sie das auch durch Zeichnen lösen.
+Man kann das aber auch entsprechend berechnen. Diese zusätzliche Kraft führt dazu, dass Delta Fb auftritt.
+und das, was Sie hier unten dann ablesen können, bitte mal schauen,
+das ist die Restklemmkraft, mit der diese Schraubverbindung noch zusammengehalten wird.
+Wird die Kraft im Betrage nach größer, wird die immer weiter rechts angetragen
+und irgendwann ist der Punkt erreicht, wo die Restklemmkraft null ist.
+Das wäre der Punkt, wo jetzt sozusagen eine Verbindung,
+und beispielsweise ihre Wichtigkeit verliert, weil die Kraft im Betrieb zu groß geworden ist.
+Gehen wir jetzt dazu über, dass diese Kraft, dieses FGL, jetzt als Gelenkskraft, als Druckkraft wirkt.
+Dann wird eine Druckkraft dazu führen, dass ein Teil der Deformation der Schraube zurückgenommen wird, der Längung, die ursprünglich eingetreten ist, die wird zurückgenommen, während gleichzeitig auch die Deformation der Verbindung sozusagen gelöst wird.
+Und diese Zugkraft wird im linken Teil des Dreieckes hier, des Bordungspunktes angetragen, in dem Falle nach unten.
+Und sie teilt sich ebenfalls nach dem Steiglichkeitsverhältnis in eine Kraft auf, die die Schraube legt, und eine Kraft, die die Zwischenlage legt.
+Ja, und die Restkneppkraft, die wir haben, können wir wieder unterhalb dieser Drahten ablesen,
+die hat den Betrag Frk.
+Wir drücken diese Verbindung jetzt zusammen.
+Die Zwischenlage wird entlastet, die Schraube wird wieder zusammengedrückt
+und die restliche Kraft wird reduziert von diesem Betrag.
+Die größere Zugkraft, die angetragen wird, wird jetzt hier zwischen diesen beiden Komponenten hergeschoben.
+Und man kann sich das Ganze formelmäßig herleiten.
+Ich habe das so ein bisschen abgeschrieben, jetzt aus den Pinsen heraus, aus den geometrischen Verhältnissen ist abzulesen,
+Das ist das Cs. Ich habe jetzt hier das F drin. Das F, wie Sie sehen, da macht eigentlich
+jeder, was er will. Wir haben die ganze Zeit von F ist C mal S gesprochen, richtig?
+F ist 10 mal S
+bei der Steifigkeit
+Betrachtung.
+Das war die Steifigkeit.
+Die wird hier in Newton pro Mikrometer
+umgegeben bei der Schraube.
+Und der gute Herr Linsen
+macht aus diesem S,
+was wir haben, jetzt hier ein F.
+Finde ich zu entschuldigen.
+Deshalb hat er dann auch
+das hier dargestellt.
+Steifigkeit und F
+sind die
+Deformationen, Verformungen
+Da unten sehen Sie, das ist angetragen in Mikrometer.
+Also in dem Bereich, wo sich dann auch diese Verformungen vorhin gefunden haben.
+5, 3, 2 Mikrometer Deformation.
+Und dann einen entsprechenden Vorspannkraftverlust, wenn eine Betriebskraft als Druckkraft wirksam ist.
+Die müssen wir dann da eintragen.
+Wir können das dann ablesen.
+Das Ganze ist natürlich dann auch berechenbar.
+Das CS ist Delta-FBS durch Delta-FB.
+Das ist dieser Verlust an Vorspannkraft der Schraube durch die wirksame Druckkraft.
+Und CZ war Delta-FBZ durch Delta-FB.
+Das können wir jetzt nach FB auflösen, dann in Relation stellen.
+dann kommt das hier raus, Delta FBZ mal CS ist gleich Delta FBS mal CZ Steifigkeit, siehe Seite 37.
+Das wird jetzt nicht stimmen, weil das eine alte Formulierung ist.
+Wir gucken nochmal, wo der richtige Hinweis ist, dann können wir das korrigieren.
+Das ist die Seite 39.
+Seite 39, das ist die Seite 37 hier.
+Die 39, ja.
+Das ist jetzt die Grundgleichung.
+Und wenn man sich anschaut, dieses FBL, das ist die angreifende Betriebskraft,
+Die setzt sich aditiv zusammen aus dem Delta-Betriebskraft der Zwischenlage und Delta-FBS der Schraube.
+Jetzt haben wir zwei Gleichungen, eins und zwei, mit zwei Unbekannten.
+Die eine lösen wir auf nach Delta-FBS, die andere auch, können das gleichsetzen
+Wir kommen dann da unten zu einem Delta-FPS. Das ist die zusätzliche Kraft, die auf die Schraube wirkt. Als Betriebskraft, als Anteil aus der Gesamtlast.
+Das korreliert zu dem Steifigkeitsverhältnis von CS zu CZ plus CS.
+Mit anderen Worten, wir gehen auf Seite 52 gleich, da zeige ich Ihnen das.
+Wenn also die Steifigkeit der Schraube fällt, wenn dieses CS kleiner wird, dann kriegt diese Schraube eine kleinere Betriebskraft ab.
+Die Betriebskraft wird mit einer weniger steifigen Schraube geringer ausfallen für die Schraube.
+weil dieses Steifigkeitsverhältnis
+dort von Bedeutung ist
+diese Seite 52, die müsste jetzt passen
+das sieht man jetzt hier
+schauen Sie bitte
+im linken Teil des Bildes
+haben wir ein Verschraubungsbild gemacht
+das ist jetzt wieder die andere Quelle
+da habe ich das C drüber geschrieben
+über das R
+da sieht man jetzt
+man bringt diese Betriebskraft an
+Der nennt es jetzt FSA, das ist die Schraubenkraft für den Lastpfeil, das ist die Plattenkraft für den Lastpfeil.
+Die sind hier beide identisch groß.
+Wenn ich die Schraube aber weniger steif mache, das heißt die Steifigkeitskennlinie ist flacher,
+dann wird in dem Moment der Anteil, der jetzt an FSA, das heißt bei uns heißt es Delta FBS, wird hier kleiner sein.
+Die zusätzliche Kraft, die auf die Schraube wirft, ist von dem Steifigkeitsverhältnis abhängig.
+Wenn die Steifigkeit der Schraube niedriger ist, legt sie den niedrigeren Lastanteil ab.
+Ja, reduzierte Schraubensteifigkeit heißt reduzierter Anteil an der Betriebskraft.
+Und das macht man in der Praxis, indem man die Schrauben aus verschiedenen Querschnitten,
+solche Dehnschrauben zusammensetzt, die einen dünneren Schaft haben.
+Das sind sozusagen die bestimmten Nachgiebigkeiten, die additiv miteinander verknüpft sind.
+und führen zu einer niedrigeren Gesamtsteiglichkeit, sodass so eine Schraube, identisch angezogen, eine niedrigere zusätzliche Betriebskraft kriegt, als eine, die jetzt besonders steif wäre.
+Und das ist natürlich vorteilhaft, und das machen wir hier zum Beispiel bei der Verschraubung von solchen Rotoren.
+Da werden so Schraubenköpfe eingesetzt, entsprechend dünne Dehnbolzen, die führen dazu, dass diese Schraubenkraft möglichst gering ausfällt.
+Die zusätzliche durch die Betriebskraft aussehende Kraft wirkt dann in niedrigerer Art und Weise auf die Schraube als solches Wagen dazu.
+Wir werden da ein paar Rechnungen dazu machen.
+Sie werden auch so Lastfallwahl antragen. Wir haben jetzt hier unten gesehen, der Anteil an Schraubenkraft, der aus der Betriebskraft stammt, hängt nur von dem Kleidungsverhältnis ab, solange wir nicht plastisch irgendwie was kaputt machen.
+Wenn Sie jetzt eine Verbindung haben, Sie haben eine Betriebskraft, die eine bestimmte Größe hat,
+und Sie tragen jetzt die Kraft als Zugkraft da hinten ein, sehen Sie, okay, wenn sie ordentlich vorgespannt ist,
+gibt es immer noch eine ausreichende Restklemmkraft.
+Wenn die Vorspannung zu gering ist und Sie jetzt diese Betriebskraft hier antragen müssen,
+dann wird die Restklemmkraft zu klein sein.
+Unter Umständen gar nicht ausreichend.
+Oder Sie können es gar nicht in diesem Dreieck antragen.
+Das heißt, Sie müssen immer darauf achten, ohne plastische Deformation zu erreichen,
+dass eine ausreichende Vorspannung dieser Schraubverbindung vorhanden ist.
+Und wenn man die Schraube dann antritt, es gibt Sätzen, die zu einem Vorspannkraftverlust führen,
+das müssen wir kompensieren, weil immer eine entsprechende Restklemmkraft vorhanden sein muss,
+sowohl im Falle einer Zug- als auch einer Druckbelastung auf die Schraube.
+Die Biegung müssen wir ohnehin per se ausschließen.
+Zugkraft aufgetragen, Steifigkeit reduzieren, es gibt sogenannte Dehnschrauben, die dünnere Schäfte besitzen und dann wird dieser Anteil der Kraft reduziert.
+Die Schraubenkraft ist FS, ist die Vorspannkraft plus Delta-FBS.
+Die Schraubenkraft setzt sich also additiv zusammen aus der Vorspannkraft plus der Betriebskraft.
+Und die Betriebskraft kommt aus dem Steifigkeitsverhältnis von BL.
+Ich habe da oben mal so ein Zahnspiel gemacht, Steifigkeitsverhältnis von Schraube und Platte 20 zu 80, 10 zu 90 oder 50 zu 50.
+Das, was wir jetzt hier sehen, ist auch ein Faktor, der als Pi bezeichnet wird.
+Das ist das Steifigkeitsverhältnis und bildet sozusagen den Verspannungsfaktor, den wir haben.
+Und der gibt uns den Hinweis, wie viel Betriebskraft auf meine Schraube geht.
+Wenn das Steifigkeitsverhältnis 10 zu 90 ist, wird viel weniger auf die Schraube gehen.
+wenn ich 50-50 Steifigkeit habe, dann wird die Betriebskraft zur Hälfte auf meine Schraube gehen.
+Und ob die das dann aushält, ist fragwürdig.
+Fragen dazu?
+Das Pi, auch als Versammlungsfaktor, kann auch aus Nachgültigkeiten in Kehrwerten verrechnet werden.
+Und von den Komponenten her ist dieses Feld Teil EZ.
+Da kommt jetzt das CZ rein und hier ist es dann mit 1 minus V, oben war es das FDL mal V.
+Da gibt es noch die Schraube und die Zwischenlagen.
+Hier sind so Gestaltungen von Befestigungen, Schraubverbiegungen, Schraubentypen.
+Im Gegenteil des Bildes wird diese Kirchstrecken-Schraube bevorzugt verwendet.
+Man braucht allerdings eine Zugänglichkeit.
+Ist die Zugänglichkeit nicht gegeben, muss man auf der linken Seite ein Gewinde einbringen.
+Hier die Kopfschraube in der Mitte und die Schlitzschraube rechts.
+Das ist eine Sparnachgebung, die möglicherweise kostet, die intensive Verarbeitung des Junker-Gewindes im Bauteil.
+Die Gewindefeinheit, Festigkeitsklassen und Einschraubtiefen für solche Sacklochgewinde,
+Da liegt man so ungefähr bei, wie nach Bergdorf 1,0, bei höherer Gewinde, Feinheit etwas höher, in Abhängigkeit der Festigkeitsklasse.
+Was war noch mal dieses 8.8?
+Was sagt uns das noch mal?
+Wäre auch gut, was?
+Wie sagt ihr, 10.9?
+Man muss irgendwas mal 100 rechnen.
+Ja, was?
+Maschinenbauer soll ja das wissen.
+Was bedeutet das?
+Die erste Ziffer ist die Streckgrenze rm. Den Wert mal 100 nehmen. Also irgendwas.
+Machen wir die 800 da hin. Und da sitzt die 1000.
+Zweite Ziffer ist was?
+Die Rp.
+Ja, aber wie kommt man da hin?
+Das ist der prozentuale Anteil, 80% von 800, 80% von 800, 640 Rp, oder Rg.
+Und hier sind es 90% von 1000 in 900 Nm, Newton pro Quadratmillimeter Festigkeit.
+Damit wird auch klar, wenn die Schraube fester ist, brauche ich eine größere Einschraubtiefe,
+um die Kerze aufzunehmen, weil die höhere Tragfähigkeit besitzen.
+S235, da sieht es ähnlich aus, je nach Gewindefeinheit,
+T nach T, ST37 aus T50,
+ein bisschen höher fest, das sind 7,9, die Werte etwas geringer.
+Hier diese Schrauberechnung nach VDI 2230, die wir in der Praxis sehr oft sehen.
+Hier sind Vorspannkräfte und Anziehmomente gegeben in Newtonmeter mit unterschiedlichen Reibungswerten in der Kopfreibung.
+Was ist das Anziehmoment für die Schraube beim Autofelgen?
+Bei mir sind es 108 Newton.
+108?
+108.
+Kleines Fahrzeug.
+Ja, und bei...
+...bei sich auch 120.
+Ich weiß aber gerade nicht, was das für ein Winde ist.
+Ich denke mal, das sind 8,8.
+Und dann noch die Schaltung, die ist meistens schlecht, um noch besser zentrieren zu können.
+Dann gibt es noch einen Leitungspunkt, der kraft direkt in der Unterhaltung des Schraubenkopfes,
+was in der Praxis kaum zu finden ist.
+Meist findet die Zwischen-Schraubenkopf- und Trennkugel irgendwo statt.
+Somit wird nur ein Teil der Platten entlastet.
+Der andere Teil wird belastet und ist bezüglich der Verbrauchung quasi der Schraube zuzuordnen.
+Wenn man das jetzt hier mal sieht, wenn jetzt die Kraft sozusagen da unten oder oberhalb des Kopfes direkt angreift,
+wird das die Schraube komplett entlassen, bzw. die Platte komplett entlassen, greift die aber weiter unten an.
+Jetzt in dem Fall, dann hat man eine sogenannte Brennlänge definiert, die ist 0,7.
+Und je weiter diese Kraft an der Brennfuge, die jetzt an der Stelle ist, angreift,
+hier ist es eine 0,5, hier ist es eine 0,3, führt das Ganze dazu,
+dass der vorhandene Anteil, der zusätzlich auf die Schraube geht, durch eine Verschiebung dieses Krafteinleitungspunktes Richtung Trennfuge positiv beurteilt wird,
+weil die Steifigkeit sozusagen der Schraube an der Stelle durch die geringere Länge abnimmt.
+Damit kriegt die Schraube mit einem näher an der Trennzüge eingebrachten Punkt auch eine geringere Betriebskraft ab,
+weil nominal die Steifigkeit der Schraube abnimmt.
+Und das sieht man hier an der Steigung, die ist hier vorne groß eingezeichnet, die wird hier immer flacher.
+Der Krafteinweichungspunkt und damit die Belastung, die Entlastung, die stattfindet, die versucht gut zu werden.
+Es ist wichtig, das zu merken, dass die kleiner N von der Kraftanleitung an der Brennmuse erfolgt und die mehr ist die Schraubenzusatzkraft.
+Die Schraubenzusatzkraft, dieses FBS, ist also das Streitigkeitsverhältnis der Schraube
+und der Platte mal FBL, die Betriebskraft, und multipliziert mit diesem N, welcher die
+Krafteinleitung definiert
+beziehungsweise
+die Entlastungskraft
+zu n
+1 minus n mal phi
+in Klammern mal
+F
+B S
+das müssen FDL heißen
+das ist ein Fehler
+da kommt das FDL
+können Sie das korrigieren bitte
+Das hier, ich kann das nur komplett mischen, da unten ist das FDL-Hasen.
+Vielen Dank.
+Okay.
+Die Streifigkeit respektive Nachgiebigkeit der Schraube
+setzt sich aus den einzelnen Elementen, die jetzt hier unterschiedlich bezeichnet sind,
+Gewinde, die unterschiedlichen Längen der Schäfte, die hier vorhanden sind, oder dieser Lösen,
+additiv zusammen mit Nachgriebigkeiten, die Gesamtnachgriebigkeit der Schraube und der Kehrwert wiederum,
+und die Steifigkeit.
+Also haben wir die Federn gemacht, die Federn als Elemente, die kommen hier immer wieder vor und deshalb ist das jetzt, sagen wir mal so, diese Modellbildung, die man jetzt macht, die darstellt, die wir überhaupt zu einer Berechnung kommen.
+Darum geht es jetzt in der Veranstaltung.
+Normalerweise, wenn wir jetzt, wir haben relativ wenig Veranstaltungen gehabt,
+ich gebe Ihnen das aber da in die Anlagen noch mit dabei,
+die Wellen-Narbe-Verbindung berechnen,
+wo es dann auch über Modellbildung und Federn, Deformationen gesprochen wird,
+wie man diese Elemente berechnen kann.
+wo Teilwellen verzahnt und über Passstifte gemacht werden, das sind eigentlich immer die gleichen Prinzipien
+und die sollte man verstanden haben, dass man damit, naja, ich sag jetzt mal, auch andere,
+schwerwiegere Maschinenelemente, wenn der Bedarf besteht, irgendwann besser zu kennen.
+Die Steifigkeit einer Zugfeder, Formelsammlung, C, Zugfeder, CZ, wer weiß es noch?
+F durch F im Sinne von, ja, in der Wirkung ist es richtig, aber was ist die Formel für eine Zugfeder?
+Zylinder, der, oder Querschnitt, der auf Zug beansprucht wird, drei Komponenten,
+je länger die Feder, desto weniger steif, je größer der Querschnitt, desto steifer,
+je höher der E-Modul, desto steifer. E mal A durch L.
+Von F bis C mal S passt natürlich auch das F an der Stelle ein.
+Das haben wir hier.
+Damit kommen wir zu dem Verspannungsdiagramm.
+wir haben recht, das war jetzt nicht falsch. C ist E mal A durch L. Wir haben gerade viele Berechnungen gemacht im Sinne der Formation.
+Was tritt da jetzt auf? Wenn ich die Steifigkeit einer Feder, die im Zugmodus sich befindet, erhöhen will, muss der Querschnitt hoch.
+Ich spiele entweder im E-Modul oder ich mache die Feder kürzer.
+Grunde genommen genau das, was man macht, wenn man den Krafteinleitungspunkt näher Richtung Trennflug bringt.
+Dann wird quasi die Steifigkeit der Zugfeder.
+Der Schraube reduziert, damit kriegt sie eine geringere Schraubenkraft ab im Bild hier.
+Das ist hier auch nochmal ein bisschen dargestellt, dass quasi hier so eine Verschiebung um die
+Vorspannkraft darum gemacht werden kann, die um einen Betrag nach rechts gedreht wird,
+wenn dieser Krafteinleitungspunkt sehr nah an der Trennflug erfolgt, kriegt die Schraube
+mit einer reduzierten Steifigkeit, weil Kernlänge entsprechend reduziert ist, eine
+geringere Kraft ab. Das hatten wir schon. Hier sieht man das jetzt nochmal.
+Vielen Dank.
+Die geometrische Gestaltung der Schraube als solches, das eine ist das Gewinde, das andere ist der Kopf und das andere ist der Schaft, der dort vorhanden ist.
+Es wird dann 0,5, 0,4 an der Stelle gewählt und dann gibt es sozusagen die gesamte Nachricht.
+Das Missdiagramm haben wir gemacht, das sollten Sie können, das sollten Sie in der Lage sein, entsprechend Übungen.
+durchzuführen. Was fällt jetzt hier bei diesen Diagrammen aus? Im Vergleich zum normalen
+Smith. Das ist jetzt eine kleine Transferfrage. Was fällt Ihnen auf? Wie sieht das Smith-Diagramm
+aus, wir haben es gestern konstruiert. So, 45 Grad, RE, Sigma W, Plus, Minus, gehen wir mal Schwellfestigkeit hier irgendwas an, sowas, dann da oben, RM, mal RE,
+Wir ziehen das hier so rüber, Sigma B halber abgetragen und das nach unten gespiegelt.
+Das ist unsere Dauerfestigkeit. Was fällt Ihnen jetzt im Vergleich dazu auf?
+Hier ist kein Bereich unterhalb Null ausgewiesen. Warum?
+Wenn die Schraube eine Druckspannung hat, dann sind die Platten nicht mehr zusammen.
+Ja, deshalb macht es keinen Sinn, da einen negativen Bereich aufzumachen.
+Man sieht aber auch, dass schon geringe dynamische Festigkeiten vorhanden sind.
+Wir haben ja gesagt, bei der Dauerfestigkeitsberechnung, dieses Feld, wenn man jetzt noch Geometriefaktoren damit reinnimmt, das wird immer enger.
+Ja, und hier sieht man, das ist ein ganz schmales Band.
+Die Dauerfestigkeiten, die Schwingfestigkeiten, die Gestaltfestigkeit dieser Schraube ist gering,
+weil das Gewinde mit seinen Kerben immer einen Ausgangspunkt für Probleme machen kann.
+Und diese Mittelspannungsempfindlichkeit, die bei Bauteilen noch vorhanden ist,
+die ist hier, ich sag mal, über den gesamten Bereich jetzt für diese Schraube, 8,8.
+Streckgrenze 640, Streckgrenze 10,9, 900 Megapaskal, das ist jetzt wieder da, das ist wieder da,
+Und das ist da oben, 12,9. 90% von 1200 sind 1080.
+Das ist dieses Fell, in dem wir uns bewegen können, für eine Schraube sehr gering.
+Das ist meine Vorspannung.
+Und das ist die Amplitude, die dann kommt.
+Wir müssen dann die Spannung, die auftritt, in einen statischen und einen dynamischen Anteil aufspritten.
+Die Ausschlagsfestigkeiten im Durchmesserbereich sind relativ gering.
+Das ist quasi die Amplitude, die diese Schrauben ertragen können, um sagen zu können, dass die Dauerfestigkeit vorhanden ist.
+Das sind schlussvergütete Schrauben.
+Im Normalfall, wenn die gerollt werden, ist es aber sehr teuer, kann man diese Ausschlagsfestigkeit etwas erhöhen.
+Fragen dazu?
+Also diese Verkleinerung, die man bei Bauteilen macht, im Zuge von Kerben, Oberflächenrauhigkeit,
+Wie fällt hier unser Blas dramatisch aus und hat zur Folge, dass die nur eine geringe Ausschlagsfestigkeit und damit dynamische Belastbarkeit aufweist.
+Was macht man dann, wenn eine Schraube nicht packt?
+Zwei Schrauben, drei Schrauben, mehrfach verschraubt.
+Der Pedersen hat in dem Gebiet probiert mit mehrfachen Verschraubungen.
+Ich habe jetzt eine unterschiedlich aufregende Betriebskraft.
+Ich habe an der Stelle eine Vorspannung.
+Die Betriebskraft, die ich habe, variiert und ist dynamisch zwischen FBL-Min und FBM-Max.
+Und das hat zur Folge, dass dieser Anteil da oben schwingend auf die Schrauben geht und da unten Anteile auf die Zwischenlage.
+das ist die kleinste Kraft
+das ist die größte Kraft
+inzwischen denen schwingt der Belastungszustand
+das hat zur Folge
+dass auch Kräfte in die Zwischenlage
+und in die Schraube gehen
+wenn ich hier so ein FBL Max habe
+das konstant mit der
+Frequenz um die Nulllage
+herum, bitte
+beachten, das ist jetzt hier
+aufgetragen über T.
+Das heißt, das ist eine Kraft,
+die immer positiv ist,
+die aber eine schwingende
+Veranspruchung mit sich bringt.
+Die quasi
+die zwischen der Vorspannkraft dann diese Dynamik mit sich bringt.
+Und das gilt es dann entsprechend auch zu teilen und zu berücksichtigen,
+wenn diese Betriebskraft einen Lastfall besitzt, der, ich muss jetzt mal was gucken,
+Das ist jetzt hier nochmal dargestellt, dass die Straubenkraft, die besitzt sozusagen einen
+statischen Anteil, der zwischen einer maximalen und minimalen Kraft sich bewegt, die sich
+additiv zusammensetzt aus der Vorspannkraft FV plus Delta Bs Max, das ist die Betriebskraft
+im Maximalfall, plus Delta FV plus Delta B5 Min, das ist sozusagen Mittelspannung, die zusätzlich herrscht um diese statische Komponente der Betriebslast, um die Betriebslast herum.
+das kann man dort an der Stelle
+weiter zusammenfassen
+kommt dann über das
+über die
+Betriebslast und das Steifigkeitsverhältnis
+den Mittelwert
+den man daraus aus dem Maximal-Minimal-Wert
+bildet
+also Vorspannkraft
+Betriebskraft
+Maximal-Minimal-Mittelwert
+gebildet
+Und der geht mit einem Steifigkeitsverhältnis Phi wieder in die Schraube.
+Und dann hat man noch eine dynamische Komponente, die da unten ebenfalls überrechenbar wird,
+indem man FS-Maxi und FS-Minit-Albe macht, die Bina dann auch nochmal rausnimmt.
+Und man kriegt dann einen statischen und einen dynamischen Anteil zur Berechnung dieser dynamischen Festigkeit.
+Ich könnte da was schauen, weil ich habe glaube ich eine Tabelle übersehen.
+Ich bin da unten durch die Lachen gegangen.
+Das war das hier.
+gebildet, der aus der Vorspannung kommt. Das heißt, das Gewindemoment, das eingefragt
+wird, wo eine Zugspannung herrscht und eine Schubspannung und eine Vergleisspannung gebildet
+wird, die kleiner sein muss als die zulässige Spannung meiner Schraubverbindung. Und dann
+kommt eine zusätzliche Komponente, die jetzt nicht mehr in der Torsion wirksam ist, sondern
+in dem Moment auftritt,
+da berechnet man sozusagen
+diese Ausschlagsfestigkeit,
+also das MIS-Diagramm.
+Die kommt dann aus der
+Begriebskraft
+heraus.
+Das waren die
+40, 50, 60
+Quadratmillimeter aus den
+beiden Diagrammen.
+Diese Komponente,
+Das ist der Spannungsquerschnitt. Das ist die dynamische Komponente.
+Die haben wir jetzt da hinten berechnet, wie diese dynamische Komponente aussieht.
+Das ist der Mittelwert aus der oberen und unteren Max- und Min-Kraft, der berechnet wird.
+So wird der Festigkeitsnachweis gemacht.
+Ich bin mir ganz sicher, dass wir sowas in den Übungen drin haben. Das müssen wir uns nochmal anschauen.
+Das sind die Werte dazu, 40, 50 und 60.
+Und das wird für den dynamischen Anteil gemacht.
+Hier ist die Verbrechung des statischen Anteils.
+Es gibt ja wieder eine Frage dessen, wie groß ist das Staubungs- oder Steiglichkeitsverhältnis,
+wie groß ist die Betriebskraft und wie teilt sie sich auf im Mittelwert als statische Komponente
+und wird bei der Berechnung der Schraubverbindung der Spannung mit berücksichtigt.
+Da unten, das ist jetzt die dynamische Komponente, mit der wir da reingehen.
+Betriebslast Max
+und Betriebslast Lin
+zur Hälfte mal das Verspannungsverhältnis
+gibt die dynamische Komponente.
+Das ist diese, die um den Mittelwert
+dann schwingt.
+Noch mal anschauen.
+Ich gucke mal, ob wir da was rechnen.
+Ich meine so ein bisschen, dass
+dynamische Festigkeit
+Reduktion der Schraubenkraft durch reduzierte Schraubensteiflichkeit.
+Weitere Reduktion durch Reduktion der Schraubenkopfsteiflichkeit.
+Relativ steif heißt bei so einer Schraubverbindung,
+die 42% der zusätzlichen Kraft auf die Schraube ist sehr steif.
+Wenn Sie eine dynamische Beanspruchung haben, ist das ungünstig, weil Sie eine geringe Ausschlagfestigkeit der Schraube per se haben.
+Deshalb sind solche Verbindungen, wie man das jetzt hier sieht, mit dünnen Schrauben, langen Schaft, Steifigkeit reduziert.
+Und Sie haben jetzt eine dynamische Komponente, dann wird in der Gestaltung 10.9, 10.9, die ist besonders dick, die hat kaum Festigkeit,
+Die ist sehr anfällig gegen dynamische Veranspruchung.
+Der 10.9er mit dem langen Schaft hat zur Folge, dass die nur noch 12% auf die Schraube geht.
+Und das ist das Ziel von technischen Konstruktionen, dass diese dynamische Kraft, die auf die Schraube wirkt, möglichst gering ist.
+So versucht man das dann zu konstruieren.
+Fragen dazu?
+dynamische Festigkeit
+Dauerbruch
+im ersten tragenden Gewindegang
+die ersten Gewindegänge
+tragen größte Last
+merke eine Schraube
+unter wechselnder Last
+meist im ersten tragenden Gewindegang
+eine überlagerte
+überlange Einschraublänge
+ist deshalb nicht sinnvoll
+Da, das erste Ding geht hier immer kaputt, weil die Kräfte maximal eingetragen werden und wir haben ganz am Anfang gesagt, immer schön kraftflussorientiert die Dinge gestalten.
+Hier ist es mal dargestellt, Lastanteil der kraftübertragenden Gewindegänge.
+Da sieht man, dort wo die Kraft eingetragen wird, ist die Krafteinweichung am größten.
+Da oben, das ist leider ungünstig, lässt sich aber nicht verhindern.
+Deshalb würde man bei der ganzen Gestaltung zähe Werkstoffe nutzen, weil wenn die ersten
+Gänge plastisch verformen, wird deren Anteil an Lasteintragung reduziert durch plastische
+Deformation.
+Das hier noch ganz final. Ein Anziehmoment, mit dem Sie eine Schraube festdrehen, geht die gleichen Anteile in etwa in die Kopfreibung, Schraubenkopf, in die Gewindereibung und nur 8-16% geben die Vorspannkraft, mit der Sie nachher die Platte zusammenbringen.
+ungefähr die gleiche größenordnung
+noch mal also das was wir da jetzt vorhin gerade gesehen haben der klatsche ideal
+klasse starb und geht ja noch weiter das ist deshalb habe ich da so ein bisschen
+drauf rum gelutscht dass am anfang wieder lage sein sollten auch so ein bisschen dahinter zu
+verstehen, was bedeutet das jetzt? Und dann sieht man, selbst diese statische Komponente,
+die spielt bei der Ausschlagsfestigkeit kaum eine Rolle. Die ist überall gleich groß, dieses Feld,
+der Abstand. Das war bei dem anderen anders. Da hat man eine Wechselfestigkeit. Das ist die
+Schwellbelastung. Unterspannung ist 0, Mittelwert ist gering, Oberspannung liegt hier. Jetzt lege ich
+den statischen Anteil nach oben. Das hat auf die Ausschlagsfestigkeit, die von der Betriebskraft
+kommt, keine Auswirkung. Keine Auswirkung. Ich kann aber sicher sein, dass meine Schraubverbindung
+entsprechend dicht bleibt, wenn die Vorspannung höher ist.
+Und da oben haben wir jetzt die Ausschlagsfestigkeit bei Maximalspannung.
+Die Schraube ist da etwas anders, weil sie diesen ganz schmalen Grat hat.
+Und diese Ausschlagsfestigkeit, das nennt man Mittelspannungsempfindlichkeit,
+hängt hier nicht davon ab, wie groß der statische Anteil ist.
+Was ist das rp02'?
+Warum liegt es höher?
+Vielen Dank.
+Vielen Dank.
+Sobald wir Kerbe haben, können die Bauteile, wenn es ein zäher Werkstoff ist, höhere Lasten ertragen.
+Wir hatten gesagt, diese Kerben, wenn der Werkstoff in der Lage ist, über diese Kerben und Form der Kerben höhere Spannung zu ertragen,
+sobald sie diese Lasten im Lokal mit einer plastischen Deformation abbauen können,
+dann steigt die Festigkeit, was sehr häufig dazu führt, dass man Bauteile plastisch erformt in dem Sinne
+und dann eine höhere dynamische Festigkeit und auch eine höhere Streckgrenze bekommt, wenn Sie solche Kerben haben.
+Im dynamischen Lastfall heißt das höhere Festigkeit und Ertragbarkeit von Deformationen, wenn das ein zäher Werkstoff ist.
+Deshalb geht diese Grenze vom Plattenstab zur Schraube hin ebenfalls nach oben.
+Schraubensicherungen, verschiedene Möglichkeiten, wo es geklebt wird.
+Ich habe noch gar nichts gesehen, gar nichts im Raum.
+Wenn Sie kleinere Schrauben haben, dann ist das mit der Hemmung nicht so gut.
+Dann wird sehr häufig mit einem Sicherungskreber das Ganze befestigt,
+aber befestigt ohne, dass sich das lösen kann.
+Wie hat das die schon mal gesehen?
+Klebstoff, Kontermutter, Klemmmutter, Klemmschraube, Draht, Blinkbecher,
+Fragen zur Selbstkontrolle
+ohne Abgeschriebene
+unterscheidet sich der statische
+und der dynamische
+Fertigkeitsnachweis
+für Schrauben
+beziehungsweise beschriften wir
+ein Schraubendiagramm
+also das kommt definitiv dran
+dass wir
+ein Verschraubungsdiagramm
+zeichnen
+im allgemeinen Teil
+Und dass sie dazu ein, zwei Fragen, wie trägt man eine Kraft da ein, antworten können und wie teilt sich das dann auf, auf die Schraube und auf die Platte.
+Ja, faires Angebot, müssen sowas kommt und müssen abrufen werden.
+Frage.
+Dann, wer ist das von meiner Seite für heute? Wir machen am 9. weiter. Vorlesung wäre soweit durch. Wir machen dann noch ein paar Übungen.
+Sie gucken sich die Unterlagen an, wenn Sie noch Fragen haben, können wir die auch dann an der Stelle klären. Und ich gebe Ihnen dann Bescheid, in welche Richtung die Füllung bezüglich der Inhalte noch mal laufen wird, was Berechnungen anbetrifft.
+Fix ist aus meiner Sicht, für die allgemeinen Fragen, 30 Minuten.
+Smith, Ihnen konstruieren, Fragen dazu beantworten können.
+Ich mache mir dafür, ich gebe Ihnen eine Vorlage, Sie kriegen von mir ein Diagramm,
+Sie müssen den Smith da reinmalen und ich habe zu Hause eine Schablone,
+die lege ich da drüber in eine Folie und gucke, wie viel Sie richtig haben.
+15 Punkte. Dann machen wir ein Verschraubungsdiagramm oder wie hat er das genannt? Ein Schrauben-Diagramm.
+Und darum ein paar Fragen und da unten noch einen dritten Teil, sodass man da jeweils
+Und dann zu den 60 Minuten rechnen.
+Gestern sind Sie da einmal kurz durchgescrollt, da waren doch noch ein paar Sachen.
+Dann will ich einfach kurz abfotografieren, dann habe ich es, dann habe ich es dann verwendet.
+Vielen Dank.
+Ja, das mit dem Endkrater ist wichtig.
+Das habe ich, das habe ich hier oben, das habe ich nicht, ja wobei, da kommt irgendwas,
+Nur das Rote, dieses D, ist D.
+Das habe ich auch.
+Machen wir wieder Vergleichsspannung.
+Das habe ich auch.
+Das fehlt.
+Aber das haben wir ja, ah ne, das habe ich schon mal gemacht.
+Das kommt, das kam, das war...
+Ich darf mich für die Aufmerksamkeit bedanken und danke, dass wir auch heute so zahlreich
+noch mal erschienen sind.
+Ich wünsche Ihnen frohe Feiertage.
+Fährt jemand nach China?
+Nein.
+Zu kurz.
+Dann wünsche ich Ihnen schöne Feiertage,
+wo immer Sie die jetzt dann auch verbringen werden.
+Gute Zeit.
+Kommen Sie gut in das neue Jahr
+und wir sehen uns dann am 9., am 8.
+in neuer alter Frische.
+2026.
+Vielen Dank.
