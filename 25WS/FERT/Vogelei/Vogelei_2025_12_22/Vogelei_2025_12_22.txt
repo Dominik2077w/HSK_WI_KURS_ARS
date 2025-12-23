@@ -1,0 +1,886 @@
+.
+So, haben wir noch einen Überblick, wo wir letztens beim Kleben stehen geblieben sind?
+Vielen Dank.
+Ich schreite immer mehr nach Kempten zu ziehen, weil die waren jetzt nicht verlassen und mit dem Auto sind die so zu teuer gefahren.
+Also eventuell dann, ab nächstem Semester, ich bleibe hier.
+Ich weiß nicht, haben Sie schon irgendwas?
+Nein, noch nicht, aber ich wollte auch nie wirklich, weil ich wohne in Kaufbeuren und nicht alt soweit.
+Ja, gut.
+Aber es kann so ein Breite geben.
+Ja, aber vielleicht mal richtig schnell ein Leben.
+Ja, ja.
+Das geht dann schon mal ein bisschen fett von zu Hause.
+Ich wollte es nicht so direkt sagen, aber...
+Du hast noch zwei Minuten.
+Der kommt aus München.
+Da ist es nochmal ein bisschen leichter.
+Der zum Beispiel, der hat auch jetzt Verspätung.
+Achso, der kommt doch auch noch jetzt, oder?
+Ja, der kommt noch jetzt.
+Meine Herren, wie sieht es aus bei Ihnen? Alles klar?
+Einige von Ihnen lange nicht gesehen?
+Ja.
+Gut, wir machen, ich fange schon mal damit an, wir machen heute das Kapitel Kleben.
+Ich werde da so ein bisschen durchspringen, damit wir genug Zeit haben, auch noch über die Prüfung zu reden, Prüfungsvorbereitung.
+Und da ist ja ein Teil, der auch als Skript schon vorliegt, dieser Vergleich von unterschiedlichen Verfahren, dass wir da schon nicht Zeit mehr haben.
+Und nächstes Jahr haben wir noch einen Termin am 12.
+Dann mache ich noch die Additiv-Fernübung und dann können wir auch noch mal über die Prüfung und so weiter reden, die ist ja dann auch erst im Thema.
+So, was sehen Sie da?
+Zumindest die beiden könnten auch additive Fertigung heißen, könnten auch 3D-Druck heißen, in der Natur.
+Was ist das Mittel? Das Mittel ist ein Klebstoff. Das heißt, da oben, die Bienen machen das eben
+auch mit den entsprechenden Warnstrukturen, eben aus irgendwelchen
+geschehenen Blumenbeschreibungsgeschichten. Der ist auch besonders interessant, das ist ein Termiten-Großraumwohnung quasi.
+Und die wird eben einzelne Sandkörner werden zusammengeklebt.
+Also eine Zemite kann anscheinend auch irgendeinen Gebstoff aussondern und damit wird letztlich gebaut.
+Was haben wir als Menschen davon?
+Erstmal, dass Kleben an sich die älteste Verbindungsart ist, die wir so kennen,
+weil wir schon vor tausenden von Jahren uns irgendwie in der Natur bedient haben.
+ob es jetzt irgendwelche, sage ich mal, Muttel gibt, die irgendwas absondert, was eben irgendwas zusammenkleben kann.
+Und deswegen meine erste Frage an Sie nochmal, wie viel kann denn so ein Kippstoff im Vergleich zu den ganzen Schweißoperationen, die wir haben?
+Würden Sie, wenn Sie eine Verbindung machen, das ist ein Autoteil, das ist ein Lenksträger und der ist gecrashed.
+Das heißt, da wurde irgendwie gegen die Wand gefahren und Sie sehen, da besteht aus zwei Profilen,
+die eigentlich nur miteinander verknickt sind.
+So, jetzt räumen wir uns mal ein Freiwillige.
+Jetzt komme ich mal hier hinten.
+Das ist ein kleines Fingerhaken-Spiel.
+Das heißt, versuchen Sie mal, diese Klebstoffverbindung kaputt zu kriegen.
+Das sind zwei Plexiglas-Teile, die in der Mitte verklebt sind.
+Schaffen Sie das?
+Ja, vielleicht mal den Kollegen dazu.
+Genau, mit dem Finger rein und mal versuchen, das Ganze kaputt zu machen.
+Ja, komm.
+Versuchen Sie es alleine, geht auch.
+Ja, na los, los, los, geht nicht.
+So, die wichtigste Botschaft, das ist eine Zugprobe, das heißt, eingespannt, eingespannt
+So wie sie es gerade gezogen haben.
+Okay, wir kriegen es nicht kaputt.
+Also der Fachbegriff hierfür heißt, das ist eine Zugscherprobe, weil das ja so einmal in so eine Gruppe geht.
+Das wäre eine reine Zugprobe, wo jetzt hier quasi zwei Teile miteinander verbunden werden,
+in dem, wie würden Sie jetzt die beiden Sachen miteinander verbinden?
+Sie haben zwei Stück, Sie wollen da irgendwas dranhängen.
+So, oder wir hatten letztes Mal Löten gehabt, das heißt Löten wäre noch eine dritte Methode
+das Ganze zu verbinden.
+So, wie viel wird denn jetzt eine Schweißnaht halten, wenn Sie das sehr gut schweißen?
+Aber gehen wir mal davon aus, wir kriegen dann
+super hin und wir kriegen das auch vollflächig hin. Doch machen wir mal den ersten Test. Wie könnte ich das denn vollflächig hinbekommen?
+Ja, man kann es halt auch hinkriegen, wenn man die eine Seite nimmt, die aber auch...
+Ne, nicht schweißen. Das ist doch sowas von Reitschweißen.
+Ja, das ist auf alle Fälle die volle Pech. Das heißt, wir gehen jetzt davon aus,
+Wenn wir das jetzt als volles Material hätten, können Sie wie viel da dranhängen, wenn das ein Baustall ist?
+Vielleicht 14 Tonnen. Also anstrengend. Würden Sie sich dranhängen bei 14 Tonnen?
+Ja. Ja, da kommen wir nicht hin.
+Das Bild, was Sie hier sehen, ist tatsächlich dieses Bauteil.
+Das ist eine Zugprobe, die hier drin steckt.
+Wir besuchen eigentlich mit dem Masterkurs jedes Jahr die Firma DELO und die ist klebespezialistisch.
+Und Sie sehen, da ist so ein Korb dran und da setzen sich jetzt, wenn Sie die mal so im Schnitt vielleicht 80 Kilo,
+wenn Sie die mal zusammenzählen, haben wir ein paar hundert Kilo, die jetzt auf diesem Korb hier stehen
+und versuchen diese Probe da kaputt zu kriegen.
+So, und wie gesagt, wenn das jetzt nur ein Stahl wäre, 14 Tonnen, so viele Leute können da gar nicht draufstehen, damit das entsprechend kaputt gehen kann.
+So, und wenn wir das Ganze jetzt verschweißen, ja, dann können Sie vielleicht doch so ein bisschen sagen, ich habe vielleicht eine kleine Kerbe und das ist nicht ganz so der ganze Querschnitt, aber 10 Tonnen sind da locker noch drin.
+Also auch unkaputtbar, das Ganze.
+Wie viel wär's denn jetzt beim Klimm? Wie viele Tonnen oder Menschen können sich hier eben ansetzen?
+2 also nur noch ein faktor 5 schlechter also statt 10 wie beim schweißen haben wir jetzt nur noch
+2 Tonnen. So, wenn 2 Tonnen 80 Kilo, ja gut, da müssen wir schon noch ein paar Leute dranhängen, ganz klar, ja, aber wir kommen in die Richtung, warum?
+Jetzt kommt nämlich was ganz Wichtiges. Wie gesagt, ich fahre da jetzt bestimmt schon sechs, sieben Jahre hin und das Teil ist noch nie kaputt gegangen.
+So, und jetzt nochmal, schauen Sie sich das an, das ist aufgeklebt und das hat einen riesen
+Knall gemacht und dann waren alle auf dem Boden, das waren ungefähr soviel.
+Wir haben Glück gehabt, dass keiner seine Füße da drunter hatte, sonst hätten wir
+einen riesen Aua gegeben.
+Und das heißt, warum ist denn die jetzt kaputt gegangen?
+Die müsste doch zwei Tonnen halten.
+Und das hier, das ist auch geklebt?
+Das ist genauso geklebt, genau so, das war ein Jahr vorher.
+Alles exakt gleich, der gleiche Klebstoff.
+Klar, andere Leute, also das ist immer eine studentische Arbeit, das machen Studenten,
+leben das Ganze.
+Warum ist es kaputt?
+Ich weiß jetzt nicht, das sah in der Oberfläche nicht so gut aus.
+Die Qualität von dieser Kleberoberfläche ist nicht so gut.
+Aha, okay.
+Klebstoff war nicht gut oder was kann noch passiert sein?
+Die Qualität des Klebstoffs oder Oberfläche?
+Oberfläche.
+Oberfläche.
+Die Vorbereitung.
+Ja, sehr gut.
+Was könnte denn da passiert sein?
+Kann das passieren?
+Nein.
+Nein?
+Dafür wäre gar nicht Zeit.
+Das ist das Problem.
+Ja?
+Das sah aus, als ob der Kleber nicht gescheit genommen wurde, sondern nur auf einer Seite.
+Der ist doch eigentlich auf beiden Seiten drauf, oder?
+Nein, nein, also nur auf der einen Seite zum Beispiel.
+Das heißt, jetzt könnte bei der Vorbereitung zum Beispiel jemand einfach nur mit seinem Daumen da aus Versehen draufgekommen ist.
+Eine kleine Kettschicht sein und wie funktioniert das überhaupt mit dem Klebstoff?
+Das ist ja Stahl, wie kann ein Klebstoff eine Kraft übertragen?
+in dem dieser haftet?
+Genau, es ist nämlich nur die Haftkraft.
+Der kann ja gar nicht da richtig das verschmelzen,
+ist ja auch gar keine Temperatur da.
+Das heißt, er haftet auf der Oberfläche
+und versucht sich quasi auf atomarer Ebene da zu verzahnen.
+Und wenn jetzt so ein bisschen Fett dazu kommt,
+auf der Oberfläche,
+kann sich ja diese Haftkraft gar nicht mehr richtig ausbreiten.
+Und das heißt wiederum,
+Die Kraft konnte nicht übertragen werden.
+In dem Fall haben eben nur vielleicht 500 Kilo ausgereicht, damit das sofort einfach gerissen ist an der Strecke.
+Und das heißt, wie hätten wir das verhindern können?
+Oder ich frage nochmal zum Schweißen.
+jetzt haben wir beim Schweißen Mist gemacht, auch keine gute Vorbereitung gemacht. Hätten wir das
+irgendwie wissen können beim Schweißen? Vielleicht hätte man da noch was gesehen gehabt, das ist nicht ganz...
+Ja, genau, um das sehen zu können. Wie hätte ich das denn sehen können? Ich weiß jetzt nicht, wie der Fachbegriff davon war, aber dass die Schweißnaht nicht ordentlich groß war.
+Genau. Also wir können eine Sichtprüfung machen, aber noch viel wichtiger, wir können so Ultraschall oder Röntgen, wir können richtig reingucken und sagen, da sind ja jede Menge Poren, weil vorher Fingerabdruck und so weiter, das kann gar nicht halten.
+Ich weiß also vorher, dass das nicht funktionieren kann.
+Wie ist das beim Kleben? Warum kann ich das beim Kleben nicht aufmachen?
+Man kann auch mit dem Ultraschall nicht durch den Klebstoff.
+genau umgekehrt
+also die Fährte ist schon richtig
+man kann wie
+durch Luft auch durch Klebstoff
+durch, das heißt
+dieses Rückwand Echo, dass da irgendwas
+anders ist, das interessiert
+den Ultraschall gar nicht, weil
+Klebstoff oder Luftspalt ist für den das gleiche
+der muss ja
+erstmal durch den Stahl durch und dann kommt
+er auf diese Fläche, wo ich
+jetzt in Klebstoff eine Bohre suche
+die werde ich gar nicht sehen
+weil er das gar nicht auflösen kann. Das heißt, unter dem Strich ist es leider so, dass man
+Kletstoffverbindungen so gut wie nicht zerstörungsfrei prüfen kann. Und das bedeutet wiederum,
+ich kann eigentlich nur zerstören prüfen, ich mache eine Probe, die mache ich exakt wie die
+andere, die eine mache ich kaputt und die andere hoffe ich und bete ich, dass das entsprechend
+auch gut funktioniert. Und in dem Fall hat es eben nicht geklappt. Und das ist das Kritische daran,
+dass eine Klebstoffverbindung im Strukturbereich vielleicht eben auch versagen kann. Und Sie müssen
+sich selber die Frage stellen, ich hatte das schon mal bei der Führung gesagt, wenn ihr,
+also das hier, da steht das, keine zerstörungsbare Prüfung oder nicht wirklich umsetzbar und wenn
+Sie jetzt eine Zuggrube haben an diesem Stab da und Sie können irgendwie zwei Zentimeter abstürzen,
+ja, dann kann es mir vielleicht auch egal sein. Wenn ich aber hier irgendwie an der Seilbahn hänge
+und unter mir 1000 Meter sind und ich die Frage hänge sich jetzt immer noch da dran, ist ja
+eigentlich Ihre Antwort erst mal, wenn ich nicht weiß, ob das auch tatsächlich funktioniert und
+gehalten hat, dann mache ich das lieber nicht. Und das ist letztlich der Grund, dass tatsächlich
+festigkeitstechnisch Klebstoffverbindungen eben nicht in diesen Hochrisikobereichen verarbeitet
+werden, weil ich sie einfach nicht prüfen kann. Ich habe tausende andere Anwendungen, gar keine
+Frage, aber gerade wenn es eben ums Menschenleben auch geht zum Beispiel, dann muss ich mir vielleicht
+im Flugzeugbau wird ganz viel geklebt, aber es gibt auch noch ein paar Niete dazu, damit wenn
+der Klebstoff denn doch nicht hält, das Ganze nicht komplett auseinanderfällt.
+Habe ich noch eine Frage. Wie wird das dann gewartet? Oder wird das dann einfach nach ein paar Jahren ausgeklebt?
+Was, der Klebstoff oder die Nietverbindung? Die Klebstoffhaftung.
+Die Klebstoffhaftung. Das ist auch eine Methode, dass man einfach sagt, aufgrund Alterung und so
+so weiter, hat der so und so lange Lebenszeit, weil da reden wir tatsächlich von Lebenszeit.
+Beim Schweißen kann ich von außen Korrosion erkennen und dann heißt es, ja, das ist jetzt
+durchgerodiert, dann wird das nicht mehr halten.
+Klar, das sieht man dann auch.
+Bei einer entsprechenden Krebsstoffverbindung könnte ich so einen Tonus tatsächlich einhalten.
+Aber tatsächlich wird es eher in Richtung, ich sichere mich eh nochmal mit dem zweiten
+Verfahren ab, wenn es unbedingt halten muss.
+Und wenn es denn eben hier nur irgendeine Kiste, die ich hier an die Wand klebe, ist, dann fällt sie eben runter, dann tut das auch quasi kein Gehen.
+Und Sie kennen auch alle den Klebstoffeinsatz, weil Kleben ist tatsächlich was, was wir alle mal irgendwie gemacht haben.
+Und deswegen wissen Sie auch, Papierkleben und so weiter, was soll denn da passieren.
+Das ist alles, sage ich mal, von der Anwendung natürlich völlig unkönig.
+Aber natürlich kommt es hier letztlich darauf an, dass das Ganze entsprechend tatsächlich auch sehr sorgsam auch umgesetzt wird.
+ich habe Ihnen hier ein bisschen Vokabeln, aber die können wir jetzt mal übergehen
+und können uns gleich mal in Richtung, wie sieht das jetzt aus mit der entsprechenden Haftung.
+Und die Haftung hat eben was mit dem Klebstoff selber zu tun,
+weil da ist mal was schief gegangen, das haben Sie gerade ja auch selber gesagt,
+aber eins ist richtig gemacht worden, die Klebstoffdicke, die ist nicht zu dick
+und nicht zu dünn. Das ist auch der erste Tipp für Sie noch mal zu Hause. Wenn Sie
+irgendwas miteinander verkleben, machen Sie nicht den Fehler, dass zu wenig ist,
+aber eben auch nicht zu viel. Und wie viel könnte zu wenig oder zu viel sein?
+Wie viel Klebstoff braucht es denn hier zwischen zwei Flügelpartnern? Wie dick ist denn so eine Schicht?
+Okay, wenn sie ein, zwei Millimeter Schicht hat, dann passiert folgendes, das sieht man
+ja dann auch schon ganz gut, dann ist die Kohäsion, die innere Festigkeit vom Klebstoff,
+das Maß aller Dinge für die Gesamtfestigkeit.
+Und das ist ja nur Kunststoff.
+Wenn ich jetzt die beiden nur mit so einer dicken Klebstoffschicht versehen würde, dann
+dann wären die sogar noch vorher kaputt gegangen.
+Weil der Klebstoff an sich nur dieser Kunststoff ist.
+Oder stell dich das gleiche eben nicht in Stahl, sondern in Kunststoff vor.
+Das hält auch eine Zeit, aber bei weitem nicht so lang wie letztlich so ein Stahl.
+Gut, also das heißt, das ist ein bisschen dick.
+Tatsächlich sind es eher so ein oder zwei Zehntel Millimeter.
+Weil dann quasi die Kohäsion keine Rolle mehr spielt, weil links und rechts das Bauteil selber das festhalten kann.
+Also quasi so ein Stützwirk.
+Und das bedeutet, das wäre bei der Verarbeitung schon mal super wichtig.
+So, und wenn ich dann eben an die Oberfläche gehe, dann sehe ich hier sowas wie chemische Bindung, Wechselwirkung, mechanische Verklammerung.
+Und natürlich, der Klebstoff geht in sämtliche Ritzen.
+Wenn ich jetzt ein Blech habe und da drauf unterwegs bin,
+dann wird das Ganze, sage ich mal, versuchen,
+natürlich in irgendwelche Riefen noch mit einzubringen.
+Aber das bringt nicht alles,
+sondern es bringt auch immerhin, Sie sehen,
+so circa 30 Prozent, wenn Klebstoff in so eine Riefe reingeht.
+Und dann verklammert das ja mechanisch.
+Also für Sie zu Hause der Tipp, wenn Sie was verkleben, rauen Sie die Oberfläche an.
+Durch das Anrauen hat der Klebstoff eben die Chance, eben so eine mechanische Verklammerung zu machen.
+So, nochmal zurück zur Klebstoffdicke.
+Deswegen hier mal, wie kriege ich zwei Zehntel überhaupt hin?
+Ja, relativ einfach.
+Hier ist einer schon weg, vielleicht lassen wir den anderen nochmal dran.
+das ist ein Zehnteldraht
+oder zwei Zehnteldraht
+so und der wird einfach
+bei der Klebstoffschicht dazwischen gelegt
+und dann presse ich die beiden
+aufeinander, wenn ich die nicht dazwischen
+hätte, dann würde ich ja den
+Klebstoff komplett zu den Seiten rauspressen
+dann wäre die Schicht zu dünn
+aber mit dem Abstandshalter
+habe ich es dann plötzlich genau richtig gemacht
+und das wäre jetzt auch wieder
+die gleiche Probe wie hier
+das ist auch wieder diese Zugscherprobe
+ja und die ist eben
+Jetzt auch irgendwann hat die versagt.
+Aber erst mal die Schicht.
+So, und wie gesagt, die Kohäsion, da geht es darum, dass irgendwelche Molekülketten in diesem Kunststoff sich entsprechend sauber verzahnen.
+Und da gibt es eben Kunststoffe, die sind sehr hart und fest.
+Das ist aber auch nicht immer gut.
+Weil wenn die hart und fest sind, dann machen die eben keine gescheite Haftkraft mehr an der Oberfläche.
+Und das ist echt das Blöde an Kunststoffen bzw. Kippstoffen.
+Entweder sie haben eine gute Kohäsion oder sie haben eine gute Adhesion.
+und wenn sie jetzt ihr uhr kaufen oder was auch immer an klebstoffen so für ein haus gebraucht
+das ist immer so ein kompromiss die können ganz gut haften aber auch ein bisschen kohäsion ist
+auch nicht schlecht unterm strich ist das aber immer ein kompromiss und das ist letztlich der
+Grund, diese besagte Firma Delo, die hat schon tausende von unterschiedlichen Klebstoffen
+in Entwicklung gebaut. Die haben im Regal 500 permanente Klebstoffe, die sie quasi aus dem Regal
+ziehen können. Warum? Weil die eben Klebstoffe speziell für spezielle Anwendungen entwickeln.
+Wo eben gesagt wird, ich brauche die um die Festigkeit, ich habe die um die Materialien,
+die miteinander verbinden will und dann konfektionieren die direkt den Klebstoff,
+der für diese Verbindung das Beste ist, was ihre Bedingungen am besten erfüllt. Das ist mit diesem
+Kompromiss letztlich gemeint. Weil wiederum nochmal das Thema, ich brauche eben die innere Festigkeit
+die innere Festigkeit und ich brauche eben hier den Verband zu den Fügeteilen,
+damit der eben auch funktioniert. Und deswegen geht es nur als entsprechender Kompromiss.
+Ja, unsere Kompromisse kennen wir, noch ein paar Anwendungen. Ja, Autokarosserie. Ja,
+Ja, da wird schon sowas gemacht, aber die Hauptanwendung wäre nach wie vor die entsprechenden, die Windschutzscheibe da einzukleben.
+Es gibt auch Seitenfronten, aber der Witz heutzutage ist, wenn Sie sich so einen alten Käfer angucken,
+ja, da ist die Windschutzscheibe so eingesetzt und abgedichtet.
+Heute sind die Teile der Autokarosserie, die überträgt Kraft.
+Und wenn Sie die Windschutzscheibe rausnehmen und fahren über Stock und Stein,
+ja, dann verbindet Ihre Karosserie, weil da fehlt was.
+Da fehlt eine Versteifung durch die entsprechende Windschutzscheibe.
+Deswegen machen die auch, also wenn K-Glade und Konsorten irgendwas reparieren,
+machen die ja ein ziemliches Theater.
+Man darf das Auto, das muss stehen bleiben eine gewisse Zeit,
+man darf es denn auch die ersten 24 Stunden nicht an irgendeinen Bordstein abgeben
+oder irgendwie, dass das verbindet, das muss schön gerade stehen.
+Warum? Weil eben der Klebstoff ganz spezielle Eigenschaften haben muss,
+um Dichtigkeit, aber eben auch Strukturfestigkeit zu ertragen.
+Und dafür braucht er eben seine gewisse Zeit.
+und damit das entsprechend funktioniert
+und weil wir das wieder nicht prüfen können,
+braucht es eben eine entsprechende Zertifizierung
+von den Menschen, die das eben machen,
+damit die möglichst keine Fehler machen.
+Natürlich ist es immer mal wieder passiert,
+wir merken es, wenn es reinwinkt,
+dass eben etwas schiefgegangen ist.
+Vielleicht war der Klebstoff zu alt,
+vielleicht war doch wieder irgendwie eine Reinigung,
+irgendwas schiefgegangen und so weiter und so fort.
+So. Das mal als Beispiel. Das ist irgendwie ein 10 Millimeter dicke Aluplatte. Richtig schweres Teil.
+Und wie schwer ist es?
+100 Gramm.
+Also es sollte eigentlich nur die Frage sein, ist doch relativ leicht, oder?
+Genau. Das ist extremer Leichtbau, basiert darauf, dass ich hier entsprechend Platten, Aluplatten, sehr dünn,
+oben und unten habe und dazwischen habe ich so ein sehr dünnes Alugewebe. Das ist eigentlich so eine
+Wabenstruktur wie bei den Bienen. Und das heißt, das Teil wiegt nur noch einen Bruchteil von einer
+kompletten Aluplatte. Und das ist eben prädestiniert dafür, im Luftfahrtbereich die Außenhülle zu
+gestalten. Die Steifigkeit, die ist genauso. Wenn Sie versuchen zu wiegen, kriegen Sie das genauso
+wenig hin wie bei einer Voll-Alu-Platte, aber die ist deutlich leichter.
+Ist die dann noch günstiger?
+Günstiger auf gar keinen Fall, weil natürlich, sage ich mal, viele Bearbeitungsschritte
+dran sind.
+Das Aluminium selber wäre jetzt gar nicht der Kostenfaktor, aber diese dünnen Strukturen
+dazwischen zu machen und natürlich die beiden Platten und die Struktur miteinander zu verbinden.
+Und das wäre eben das Thema, dass die eben verklebt werden. Auch wieder aus dem Grund,
+ich könnte versuchen, irgendwie zu schweißen, aber das ist ja bei solchen Strukturen,
+die sind ja sehr filigran, ein Riesenakt. Selbst das Löten würde gehen, aber das liegt ja auch
+wieder mehr im Klebstoff und das braucht es gar nicht. Weil die Festigkeit, die hier übertragen
+wird, ist ja auch wieder so eine Scherklässigkeit über diese ganzen kleinen Flächen reißt das völlig
+aus, um das eben hier abzudämmen. Und deswegen verklebt man sowas. Da gibt es unterschiedliche
+Zwischenstrukturen, es gibt auch so wellenförmige Sachen, aber kostentechnisch ist das auf alle
+sehr viel teurer zu machen. Aber eher aufgrund der Verhältnismäßigkeit.
+Wir haben Elektronteile. Das heißt hier wird entsprechend aufgesattelt irgendwelche Kühlaggregate,
+also Kühlrippen werden hier einfach auf so einem Prozessor aufgeklebt.
+Wie kann das sein?
+Welche Eigenschaften hat Kunststoff eigentlich?
+Krebsstoff, das ist ja Kunststoff.
+Also wenn Sie eine Kunststoffplatte haben, leitet die Strom, Kunststoff leitet keinen Strom, leitet die Wärme, aber sehr schlecht.
+So, und jetzt kleben Sie einen Aluminiumkühlkörper auf den Prozessor, wie kann das sein?
+Der Klebstoff muss was ganz Spezielles haben, der muss nämlich tatsächlich viel besser
+Wärme leiten, wie ein normaler Kunststoff und kleines Beispiel, hier so ein kleiner
+Schaltkreis mit LED, da gehe ich auch gleich mal rum, mit Batterie, obwohl er geklebt ist,
+ist Klebstoff hier hinten, das ist kein Löten und trotzdem brennt die LED, weil auch dieser
+Klebstoff elektrisch leitet. Wie kann das sein, wie kriege ich einen Klebstoff elektrisch leiten?
+Relativ einfach, aber teuer. Sehr teuer sogar.
+Vielleicht wenn man das mischt?
+Mit was? Sie haben recht, aber mit was?
+Ja, aber wie sollen die Kunststoffe mit dem Metall mischen? Wie soll das gehen?
+Das ist ja der Knopf.
+Ja, okay. Aber Sie sind auf dem richtigen Pfad. Nur jetzt nochmal, wie könnte ich das noch anders machen?
+Dass Sie gar nicht eine Werkstoffverbindung eingehen, sondern eine andere Verbindungsart.
+Ich zeichne das mal hier mitten rein. Wenn Sie hier Ihre Klebstoffschicht haben, also
+hier wäre ein Bauteil und da ist ein Bauteil, dann braucht es genau Ihre Mischung, aber die
+ist letztlich sowas hier. Das sind kleine Kügelchen. Das heißt, irgendwie schafft es
+jetzt letztlich, das müssen Sie sich wie einen Stein im Bach vorstellen, die kommen mit trockenen
+Fußes auf die andere Seite, indem sie von einem Stein zum nächsten springen. Das heißt, hier ist
+einfach in den Klebstoff metallisches Pulver reingemischt worden. Und der Strom kann jetzt
+quasi den Weg hier drüber nach da rüberfahren. Trotzdem bleibt das der Klebstoff als tragendes
+Mittel vorhanden. Und Klebstoff kann richtig teuer sein. Und Klebstoff, je nachdem was für ein Pulver
+da drin ist, es gibt für spezielle Anwendungen zum Beispiel auch Platin und Gold. So eine kleine Tube
+von Klebstoff kostet dann 2.000, 3.000 Euro. Also das Bauteil, was Sie da gerade von mir
+gesehen haben soll ja also was ich da mit dem stoff verarbeitet hat hat 200 euro gekostet
+kostet. Wie viel? 2-300 Euro. Auf der Rückseite. Warum? Weil die Herstellung von diesem Klebstoff
+sehr teuer ist, das Pulver, das muss sehr fein und klar sein. Das heißt wiederum, ja gut, das war nur so ein Probeteil letztlich,
+aber tatsächlich verarbeitet wird der Klebstoff, indem immer nur irgendwelche 0, irgendwas Gramm, ganz, ganz kleine Einheiten
+auf so ein, nicht so grob, das habe ich per Hand gemacht, das wird automatisiert aufgesetzt, sodass eben so eine kleine Tube
+für viele tausend
+Bauteile eben funktioniert.
+Und dann ist es wieder gar kein Problem.
+Dann kostet eben jede Klebung nur ein paar Cent.
+Ist die Batterie alle jetzt, oder?
+Anscheinend, genau.
+Okay.
+Gut.
+Einfach mal diese Spezialität.
+Und wenn wir denn hier einfach weitergehen,
+haben wir hier natürlich
+auch im menschlichen Organismus irgendwas,
+dass natürlich hier
+Knochen mit irgendeinem
+Metall, das natürlich auch eine
+komische Mischverbindung ist,
+da braucht es wiederum
+spezielle Klebstoffe, die den Kompromiss
+darstellen. Und wenn der Kompromiss nicht sauber
+funktioniert, gibt es auch noch Zwischenschichten.
+Das heißt, es gibt vielleicht einen
+Klebstoff, der verträgt sich ganz gut
+mit meinen Knochen
+und verträgt sich auch mit
+dem Klebstoff ganz gut.
+Sie können sozusagen
+Kaskaden aufbauen,
+Und wenn der sich nicht mit denen direkt verträgt, gibt es irgendwas dazwischen, was dann eben entsprechend die Übermittlung der Kraft eben veranstaltet.
+Und jetzt kommen wir nur noch zum Wichtigsten, dass letztlich ein Klebstoff so verarbeitet werden muss.
+Und Sie sich an diese acht Regeln halten müssen, auch für den Privatbereich.
+Was sagen die nämlich aus?
+Die sagen aus, ja, nicht einfach an den Schrank gehen, Klebstoff raus und loslegen, sondern erst mal drüber nachdenken.
+Erst mal Grenzplanen.
+Dann geht es weiter, Werkstoffeigenschaften beachten.
+Und das tun sie ja auch.
+Es ist nicht der Klebstoff gemeint, sondern sie überlegen sich ja zuerst, sie haben Papier, was sie miteinander verkleben wollen, oder sie haben Kunststoff, oder sie haben Metall.
+So, für jeder dieser Werkstoffe und auch die Mischverbindung erst recht,
+müssen Sie darüber nachdenken, welcher Klebstoff ist denn jetzt richtig.
+Das machen wir eigentlich beim Baumarkt gehen und wir kaufen für Papier irgendeinen Frittstift,
+oder wie die Dinge auch heißen, ja, wir kaufen für eine Holzverbindung so ein Holzleim,
+wir kaufen für eine Stahlverbindung vielleicht ein Zwei-Komponenten-Kleber,
+weil der ein bisschen besser ist, wir haben da so ein Gefühl für,
+und Uo macht sowieso alles irgendwie.
+Also Uo, Patex, diese Universalklebstoffe
+machen alles, nicht doll, aber vielleicht für mich ausreichend.
+So, und dann geht es darum,
+genauso wichtig, Klebstoff gestalten.
+Wie verbinde ich die beiden denn jetzt miteinander?
+Mache ich die auf Stoß, also quasi wie dieses da hinten,
+dass ich dann nur über diese Kante übertrage
+oder lasse ich die überlappen?
+Überlappen.
+Also wenn Sie zwei Papiere miteinander
+verkleben, kommt ja keiner auf die Idee,
+auf dieser schmalen Kante die miteinander zu verkleben,
+sondern die lasse ich überlappen
+und dann habe ich entsprechende
+feste Verbindung.
+So.
+Ich habe noch eine Frage.
+Ja.
+Also überlappen,
+auch wenn man die Zeichnung so aufklebt?
+Ja.
+Es kommt immer
+überlappen, hat was mit
+In welche Richtung wollen Sie denn Ihre Kraft setzen?
+Ja, in dem Fall, wenn man ziehen möchte.
+Genau, aber dann ist es keine Überlappung, dann ist es dieser I-Schoß, dann ist es eine direkte Verbindung.
+Aber weil Sie in die Richtung ziehen wollen, dann ist es Zug.
+Wenn Sie das Ganze überlappen, müssen Sie es dann in diese Richtung ziehen.
+Dann ist es dieses Zugscher.
+Und das ist per se immer besser, weil ich mehr Überlappungsfläche habe.
+und ich habe Ihnen hier nochmal einen mitgebracht
+da hat man das gleiche wie da drüben
+die Festigkeit hat nicht ausgereicht
+und dann habe ich einfach
+das 5, 6, 7
+fache an Überlappungsfläche gemacht
+und habe dann wieder dran gezogen
+wie fest war denn das?
+wie viel Kraft konnte ich mir jetzt übertragen?
+wenn ich
+x mal mehr Überlappungsfläche habe
+das war auch meine Intention
+hat aber nicht geklappt
+tatsächlich hat das nicht viel mehr gehalten
+als das da hinten
+obwohl ich viel mehr Überlappungsfläche habe
+und das hat was
+auch das nur kurz erwähnt
+damit zu tun
+dass die Kraft tatsächlich nur noch
+links und rechts eingeleitet wurde
+und in der Mitte gar keine Kraft mehr da war
+weil der Klebstoff selber
+schon in diesem Bereich
+maximale Anforderungen hatte
+und tatsächlich an der Stelle
+und der Stelle schnell kaputt ging
+und das Ganze quasi nach innen
+auch durchgerissen ist.
+Sodass wir leider
+eben damit keine Möglichkeit haben,
+konstruktiv mal eben einfach
+mehr zu machen. Viel hilft viel,
+ist leider auch nicht so
+wichtig.
+So.
+Und hier nur jede Menge Klebstoffe, einfach auch mal zu zeigen, dass Dehnfähigkeit und entsprechende Zugfestigkeiten oder ganz Allgemeinfestigkeit,
+Sie sehen, es gibt jede Menge Chemie, jede Menge Kunststoffarten, die unterschiedliche Eigenschaften haben.
+Und die Seite, die können Sie sich besonders anschauen, weil da haben wir Ihnen einfach nochmal alles zusammengefasst.
+Was kann ein Kunststoff? Der kann eben maximal im Vergleich zum Metall 10 oder 20% der Festigkeit übertragen.
+Wenn Sie natürlich eine Kunststoffverbindung machen von zwei Kunststoffbauteilen, dann geht das vielleicht auch bis 100%.
+Haben Sie den Zusammenhang verstanden?
+Wenn ich zwei Kunststoffteile hätte, Kunststoff mit Kunststoff, wäre ja wieder gleicher Werkstoff und damit gleiche Festigkeit.
+Aber wenn es eben Metall ist, ist es eben deutlich weniger.
+Dann gibt es sowas, auch Kriecheigenschaften, wenn ich das unter Last setze, dass der Kunststoff einfach unter Last irgendwann aufgibt und kaputt geht.
+Thermische Belastung ist, denke ich, auch klar. Kunststoff können Sie nicht beliebig erhitzen.
+Wenn Sie den nämlich über 300-400 Grad erhitzen, verbrennt der einfach und dann haben Sie natürlich auch keine Festigkeit mehr.
+Heißt, irgendwie im Verbrennungsmotor ist das keine gute Idee, Sachen zu verkleben, wenn da so hohe Temperaturen sind.
+Weiteres Thema. Es ist nur Kunststoff und Kunststoff ist chemisch angreifbar.
+Also irgendwelche Säurenlaugen auf Kunststoff heißt, er wird aufgefressen, im wahrsten Sinne des Wortes.
+Ja, bei Stahl habe ich das auch, das nennt man Korrosion, klar.
+Aber die Korrosion ist bei Weitem, sage ich mal, nicht so stark.
+Und ich kann auch was dagegen tun, indem ich Legierungsbestandteile da reinbaue in den Stahl, die das eben verhindern.
+Aber bei Kunststoffe, da gibt es einfach nicht so viel, was dauerbeständig ist.
+Welchen Kunststoff, Klebstoff kennen Sie denn, der einigermaßen gut beständig ist gegen solche Medien?
+Das kennen Sie von zu Hause.
+Einfach mal kurz überlegen, was machen wir denn im Badezimmer?
+Im Badezimmer sind wir nämlich mit Reinigungsmitteln, weil wir es immer schön reinhaben wollen,
+eben tatsächlich mit irgendwelchen Sorgen, Laugen, also scharfen Reiniger.
+Und das heißt, die würden jetzt ganz klar einen Kunststoff anfressen.
+Und deswegen, wie verkleben wir Sachen im Bad?
+Mit Silikon.
+Was hat Silikon für eine Eigenschaft?
+Ja, da sind wir.
+In der Natur heißt Dehnfähigkeit, das Zeug hat eine extrem geringe Festigkeit, aber es lässt sich dehnen und hat eben noch diese Korrosionseigenschaften, die super sind.
+Aber wenn ich abdichte, brauche ich auch keine Festigkeit.
+Und deswegen nimmt man da Silikon her, weil das mit den Reinigern klarkommt.
+So, das heißt, wenn Sie aber Silikon hernehmen, um die Zugprobe zu machen, da würde nicht einer dranhängen können.
+Ein Mensch, dann wäre das schon wieder kaputt, das Teil, weil keine festen Teile da sind.
+So, also, Alterung ist auch noch ein Thema, aber Lösbarkeit diskutieren wir jetzt auch nicht.
+Aber noch ein wichtiges Thema, weil es in den Studiengang passt, wie war das mit der Abwindezeit?
+Das ist eben diese Verarbeitungszeit.
+Im Klebstoff teilweise steht das so auf der Tube drauf, 24 Stunden erst Endfestigkeit.
+Und das ist für uns natürlich in der Technik, wenn wir irgendwas verarbeiten, nicht gut.
+Wir brauchen auch wiederum den Kompromiss beim Klebstoff, dass der schon mal so ein bisschen hält,
+damit ich das Bauteil zumindest weiter bewegen kann in der Fertigung.
+Und dann erst das Ganze irgendwann in die Endfestigkeit geht.
+Aber je nachdem, wie schnell er das eben hinkriegt, ist der gut.
+Und wenn er zu langsam ist, dann kann ich ihn gar nicht verwenden.
+So, das war das Thema.
+Und jetzt noch zwei, drei Sachen in Richtung, was dürfen Sie nicht machen.
+Da brauche ich nochmal meine Fläche wieder.
+Können Sie mir mal die Bleche runtergeben?
+Die anderen, einfach erst mal nur die anderen.
+Nur die Bleche, genau.
+Danke.
+Was ist hiermit gemeint?
+Wir haben nämlich noch eine Geschichte mit dem Zug.
+Also Zug wäre in dem Fall die beiden Bleche übereinandergelegt und so auseinandergezogen.
+Das ist das mit der Schereanspruchung. Das heißt, ich lege sie als Überlappung hier so.
+Und was ist das? Das ist, wenn ich sie schon überlappen lasse, aber dann das Ganze zu den Seiten aufmache.
+Eine sogenannte Schälbelastung. Und das ist eine Konstruktion da oben.
+Diese Belastung, das sollten Sie niemals mit Klebstoffen machen.
+Warum? Weil wenn Sie, jetzt nochmal so gehalten das Ganze, wenn Sie jetzt hier dran ziehen, wie viel hält von der gesamten Länge?
+Nur die erste obere Linie, männig. Weil die Kraft geht nicht hier durch, sondern die geht hier an dieser Stelle.
+Und Kunststoff hat eben auch gerade so eine kleine Fläche, die ist ja nur eine Linie, die geht kaputt und schon wieder die nächste, kaputt und die nächste und die nächste.
+Und das heißt, Sie knöpfen das quasi auf, ohne große Festigkeit zu haben.
+Wenn ich nun dichte, wenn ich keine großen Festigkeiten brauche, kann man das mal machen.
+Sobald Sie aber tatsächlich richtig Kraft übertragen wollen, ist das quasi verboten, so zu konstruieren.
+So, um das nochmal zu visualisieren.
+Hier wird in die Richtung gedrückt.
+Das heißt, hier geht das auf.
+Was kann ich verbessern?
+Gut, wenn ich das Mordteil umdrehe, wird es an der Stelle zusammengedrückt.
+und auf Druck kann ich Klebstoffe immer ganz gut belasten.
+Das ist kein Problem.
+Ist ein bisschen noch nicht so gut,
+weil das gleiche Theater wie hier eigentlich da hinten wäre.
+Nur mit dem Hebelarm mit ein bisschen kleineren Kraft.
+So, was ist denn das jetzt?
+Das sollte letztlich besser sein wie das,
+obwohl ich doch an der Klebstoffverbindung gar nichts mache,
+sondern das da oben mache.
+Was ist denn das? Warum ist denn das Pizzapapier?
+Kann ja eigentlich nicht sein, oder? Hab ich da einen Fehler gemacht?
+Sie haben alle die Bleche in der Hand gehalten.
+Die sind doch verbogen, oder?
+Und das ist der Grund.
+Wenn ich hier nämlich dran drücke,
+verbiegt sich das Ganze
+und damit ist eine ganz andere Kraft einleitet.
+Wenn ich jetzt hier eine Versteifung mache
+oder einfach nur ein dickeres Blech nehme,
+wird sich das weniger verbiegen
+und damit quasi die Belastung besser über den ganzen Querschnitt verteilen.
+Und deswegen hat das eben auch hier mit diesem langen Ding nicht funktioniert,
+weil letztlich das Blech sich verbiegt.
+Das bringt ein bisschen was, wenn das einfach vier Dicke über Bleche gewesen wären.
+Deswegen steckt das da dahinter.
+Und hier hinten...
+Dann kann man das Spiel noch weiter treiben, das ist diese Luftfahrkonstruktion, wenn ich
+das schon nicht anders machen kann, dann setze ich hier noch Schrauben oder eine Niete rein
+und die halten das drin.
+Und beim Klebstoff macht das so ein bisschen was, aber letztlich ist das die Dichtfunktion
+an der Stelle, damit es sich reinregnet.
+Und zum Schluss, ja, das wäre eben eine mechanische Lösung, das zu verklammern, das Ganze, würde eben auch noch ein bisschen mehr Festigkeit bringen.
+Das können wir jetzt noch weiter treiben, das wäre normale Zugbelastung, das wäre ein bisschen schräger, bringt eben ein bisschen Kraft wieder, also ein bisschen mehr Fläche.
+Auch so eine Verzahnung, das kennen Sie, im Holzbau wird sowas gemacht.
+Wenn das verleimt wird, wird das mit der Verzahnung gemacht.
+Oder eben wieder, wenn es irgendwie geht, die Überlappung zu machen.
+Es gibt aber auch sowas, und gucken wir uns das zum Schluss an.
+Das bringt mich nur, dass ich hier umswitche von Zug auf Scher, sondern ich habe sogar beides.
+Ich habe einmal Scher und einmal Zug.
+Und das können Sie jetzt tatsächlich krafttechnisch addieren.
+Bei mehr Überlapp, das geht nur bedingt.
+Bei unterschiedlichen Lastannahmen, das können Sie addieren und damit der ganzen Verbindung mehr Festigkeit übertragen.
+Aber letztlich, Sie müssen jede Menge beachten. Wie gesagt, korrosionsgerecht, fertigungsgerecht,
+ich muss irgendwie zusehen, dass ich den Klebstoff in der richtigen Zeit übertrage. Korrosionsgerecht,
+das waren die Sachen mit dem Silikon. Oder risikogerecht, heißt, wenn ich mir jede Menge
+solcher Konstruktionen wieder einfallen lasse, wie da hinten, wird vielleicht auch mein Flugzeug
+wieder doppelt so schwer. Ja, also ich muss auch immer gucken, dass ich jetzt nicht übertreibe,
+sondern genau wissen, was ich damit erreichen kann. Krebstoffe selber, wir sehen hier organische
+und anorganische. Organische, das wäre ja das, was wir da davor spiegeln, hat weniger Bedeutung.
+Die, die ich irgendwie mischen kann im Chemiebaukasten, das ist eigentlich das, was wir heute machen.
+Fehlstoffe härtend, das sind die unterschiedlichen Härte-Mechanismen. Was kennen wir? Epoxidharze
+sind eben die, die über eine chemische Reaktion aushärten. Polymere wie ein Sekundenkleber macht
+das eben sehr schnell zum Beispiel. Die anderen können durchaus länger brauchen. Vielleicht
+braucht es auch entsprechende Komponenten dazu. Also ein Härter, der nochmal die chemische
+Reaktion antreibt. Oder eben physikalisch abbinden heißt nichts anderes. Vielleicht kennen Sie so
+So Schmelzkleber, der wird heiß gemacht und wenn der wieder abkühlt, dann erstarrt er und macht eben da seine Festigkeit.
+Auf alle Fälle, es gibt diese unterschiedlichen Kunststoffarten und Zusammensetzungen.
+Beim Kollegen Hoffmann soll ich noch das was sagen jetzt.
+Er hat mit dem viel Kunststoffe durchgenommen.
+Ich habe ja nun die Ergänzung, dass Klebstoff eben auch Kunststoff ist.
+Deswegen dieses Thermoplaste und so weiter.
+Und anwendungstechnisch, ja, beim Zahnarzt, klein ist es noch gefällig, ja, dann wird Ihnen Kunststoff da reingebracht.
+Und damit Sie Ihnen den Mund nicht zu lange aufhalten müssen, braucht es einen Kunststoff, der schnell aushärtet und trotzdem verarbeitbar ist.
+Also solange Ihr Zahnarzt da im Mund rumwirbelt und irgendwas modelliert, darf der nicht gleich trocken werden, beziehungsweise aushärten.
+Also Sekundenkleber, keine gute Idee.
+Aber ein Lichtaushärtner mit UV, da können Sie eben entsprechend alles schön verteilen
+und dann sagen, jetzt will ich sofort aushärten und dann wird das eben einmal reingehalten
+und innerhalb von Sekunden ist das eben auch ausgehärtet.
+Kleiner Tipp am Rande, wenn Sie ein tiefes Loch hätten und Ihr Zahnarzt macht das Ganze auf einmal fertig,
+Keine gute Idee, weil das UV-Licht kommt nur in eine gewisse Tiefe.
+Also nicht wundern, normalerweise, und das machen es eigentlich alle,
+wird eben eine Lage nach der anderen gesetzt, damit eben jede Lage austrocknen kann.
+Wenn das eben nicht der Fall ist, dann haben Sie innen drinnen, das ist ein Goodshot.
+Keine gute Idee, wie gesagt.
+So, und es gibt eben Lösungsmittel, die eben entdampfen.
+Entdampfen, das ist dieser typische Geruch, wenn Sie so eine Uhr verarbeiten, dass Sie eben diesen Geruch dann merken.
+Es gibt das auch auf Wasserbasis, dass das Ganze eben weniger grobsbenässigend ist.
+Aber bei allen geht es darum, dass man was aus diesem chemischen Verband rausdeponiert und dann eben der Rest aushärten kann.
+Das wäre jetzt hier mein Klebstoff.
+Hier übrigens nochmal Post-its. Benutzen Sie die noch?
+Post-it ist klar, was das ist.
+Das sind diese kleinen Zettelchen.
+Warum funktionieren die überhaupt so gut?
+Weil die nämlich tatsächlich noch einen kleinen Trick haben.
+Die haben nicht nur, wenn Sie sich gefragt haben, warum kann ich die so leicht wieder abmachen?
+Es gibt zwei Gründe.
+Einmal haben die tatsächlich noch so kleine Kügelchen.
+Die sehen Sie gar nicht, so klein sind die.
+Aber die sorgen für Sollbruchstellen auf dieser Oberfläche,
+dass Sie eben das besser abkriegen.
+Und versuchen Sie mal ein Post-it,
+was Sie auf eine Fläche draufkleben,
+als Zug abzuziehen.
+Also in die Richtung abzuziehen.
+Das würde viel fester sein, wie das, was Sie machen.
+Sie ziehen das nämlich so von der Seite ab.
+Ganze runter. Und deswegen haben Sie hier wieder die Belastung, die Sie eigentlich nicht
+bei Klebstoffen haben sollen, aber das ist in dem Fall beabsichtigt, dass ich den auch
+wieder runterkriege. So, aber nicht nur Klebstoff, sondern auch die Verarbeitung ist wichtig
+und das heißt, wenn Sie die Gesamtfestigkeit haben, ist der entsprechende Klebstoffauftrag
+die Verarbeitung, aber eben auch die Reinigung genauso wichtig.
+Und das hatten wir in dieser Zugprobe gesehen, wo der bricht, was damit passiert, da kann
+ich sogar Rutschschlüsse drauf treffen, ob jemand bei der Verarbeitung missgemacht hat
+oder ob einfach nur der falsche Klebstoff eingesetzt worden ist, wo der kaputt geht,
+das wäre eben hier Mittel der Waage. Und das wollen wir mal zeigen, das ist Ihre Klebstoffdicke.
+Wir haben maximale Festigkeit, dann geht es runter, weil dann nur noch die Koalition herrscht. Und so
+ähnlich sieht das eben auch bei den Längen aus. Ja, es gibt eine gewisse Steigerung, wenn Sie
+entsprechend längere Überlappzonen haben, aber irgendwann geht das dann eben genau in die andere
+Richtung wieder runter. Und zum Schluss testen können Sie natürlich das trotzdem, aber eben
+zerstören mit solchen Zugscherproben oder Zugversuchen, irgendwelchen Keiltests oder
+Oder Schieltest, ja auch Schieltest, um die Extrembelastung mal zu sehen, wenn die Konstruktion dann eben so sein sollte.
+Bearbeiten können wir das eben aus der Tube, wie wir es so kennen, ja.
+Aber, das haben Sie bei, drüben im Labor auch gesehen, Roboter, Dispenser, kann sowas natürlich genauso.
+Und deswegen Vor- und Nachteile. Die wichtigsten nochmal. Also gleichmäßige Spannungsverteilung
+macht der. Und ich bin in aller Regel kalt. Meine Werkstoffe werden eigentlich gar nicht belastet,
+die ich da bearbeite. Und das bedeutet, normalerweise isolierend oder nicht leitend, aber dagegen kann ich, wie gesagt, diese Kügelchen einbauen.
+Und wenn ich Festigkeiten haben will, muss ich es vielleicht doch noch kombinieren in der falschen Belastung vom Kunststoff.
+je dicker ich natürlich meine Schicht mache und nur Vibrationseigenschaften dämmen will,
+dann ist auch eine Schichtdicke, die dicker ist, wie eigentlich zulässig für die Zugfestigkeit
+natürlich auch möglich ist. So und letztlich die Nachteile, ich brauche eine gewisse Zeit,
+Wenn sie was miteinander verschweißen, dann passt das eh. Nach dem Abkühlen hat er nicht noch volle Festigkeit und das geht ja sehr sehr schnell.
+Beim Klebstoff braucht es vielleicht Stunden. Aber die Oberfläche muss noch besser sein, noch besser gereinigt sein, als beim Schweißen.
+Und deswegen entsprechende Festigkeit, Alterungsbeständigkeit, dass die Details da sind.
+Wie kann ich Kunststoff verarbeiten? Hier nochmal so ein bisschen auch branchspezifisch, auch das tun Sie zu Hause.
+Sie können ein Tesaband nehmen, also letztlich ein Klebstoffbänder.
+Es ist einfach zu verarbeiten. Sonst gibt es eigentlich nichts weiter dazu zu sagen.
+Wird auch in der Industrie angewandt. Einfach, wenn es einfacher ist, wie irgendeinen flüssigen Klebstoff zu verarbeiten.
+Vielleicht kennen Sie sowas als Teppichklebeband.
+Da gibt es so ein Trägermaterial und links und rechts ist ein Klebstoff drauf, also ein doppelseitiges Klebeband.
+Da können Sie auch den Boden kleben und gleichzeitig oben den Teppich draufkleben.
+Es gibt das aber auch ohne Triggermaterial, dass quasi nur ein Klebstoff quasi schon in so einem semi-festen Zustand vorhanden ist.
+Die ziehen beide Seiten letztlich die Schutzfolie ab und dann klebt er eben mit seiner Adhesion das, was er eben kann.
+Sodass wir zum Schluss eben solche Sachen machen können.
+Abschließende Frage, kriegen Sie ihn wieder runter hier?
+No way, der sieht dann irgendwann so aus wie der hier.
+Okay.
+So, jetzt geht's gleich in die Prüfungsvorbereitung.
+Bevor wir das aber tun, habe ich noch eine Bitte an Sie.
+Darf ich Sie bitten, das mal auszufüllen?
+Ihr kennt das, die Simulation.
+So dass wir das am 12. nochmal besprechen können.
+Vielen Dank.
+Amen.
+Bis zum nächsten Mal.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Danke.
+So, alle fertig schon oder brauchen wir noch?
+Fertig?
+Auch alle abgeschickt richtig, weil dann funktioniert nämlich nur ab 5, wenn jemand fehlt in der
+Ich sag's mal erst mal im Allgemeinen, die Themen hatten wir bis jetzt,
+den können Sie bitte streichen, das machen wir gar nicht.
+Die letzte Vorlesung wird sich über die
+Additive Fertigung
+nächstes Jahr
+werden wir das noch machen
+aber keinen Fremden mit dem Strahl
+Das Skript haben Sie, aber
+Sie werden das in der Vorlesung und in der Prüfung
+nicht erfahren
+So
+Was ist mein prinzipielles Vorgehen?
+Also die Sachen
+Die meisten davon haben Sie jetzt eben auch als Skript.
+Das heißt jetzt, welches Verfahren haben Sie kennengelernt, wie funktioniert es und typische Anwendung.
+Also diese ersten drei Stück, das wäre jetzt von Ihrer Seite anzuwenden.
+Und dann auch die Fügelverfahren, die schränken wir gleich noch ein, aber die eben bei mir in der Vorlesung rangekommen sind.
+Das heißt wiederum auch, dieses Funktionieren, wie könnte das denn sein?
+Das Funktionieren könnte sein, dass Sie mit 5, 6 Stichpunkten auf einem Bierdeckel das Ganze beschreiben.
+Und Sie stellen sich bitte alle vor, Sie hätten noch einen weiteren Kommilitonen, der nicht hier in der Vorlesung war und dem würden Sie erklären,
+wie das Schweißverfahren funktioniert.
+Und was ist damit gemeint?
+Das heißt, Sie müssen sich irgendwie die Gedanken dazu machen,
+was ist jetzt wichtig beim Schweißverfahren?
+Damit jemand, der das noch nie gehört hat, das auch verstehen kann.
+Ich mache gleich ein Beispiel.
+Und dann eben die Anwendung, das ist mir sehr, sehr wichtig,
+könnte jetzt in der Prüfung auch heißen,
+Es gibt nur die Anwendung, welches Schweißverfahren wählen Sie oder umgekehrt, dass das Schweißverfahren, welche Anwendung gehört Ihnen dazu ein.
+Und dann haben wir hier noch zwei weitere Punkte, die sollen eigentlich nur so ein bisschen Hilfestellung geben.
+wie unterscheiden sich die Verfahren, weil daran sind sie quasi auch so, ich habe immer wieder Energiequellen gesagt,
+das eine wäre nun Gas, das andere wäre elektrisch Strom über Lichtbogen.
+Es gibt aber auch die Variante, elektrisch Strom über eine Widerstandserwärmung zu machen.
+Also diese ganz, ganz prinzipiellen Sachen sind damit gemeint.
+Und Vor- und Nachteile geht ja auch schon wieder in die Anwendung.
+Wenn das ein Vorteil ist, wie beim Gasschmelzen, dass das sehr einfach ist, kann ich das in irgendwelchen mal schnell gemachten Blechen einsetzen.
+Aber wenn der Nachteil ist, dass es nicht automatisierbar ist, dann brauche ich das nicht in der Massenfertigung ansetzen.
+Also, listete Verfahren gehen wir gleich noch an.
+beschreiben Sie das und hier eben mal
+klar beziffert
+drei Kriterien werden jetzt hier
+zum Beispiel
+Minimum
+aber
+wie viele es tatsächlich sind
+wie gesagt, das gibt es in der Prüfung
+Automatisierung
+also Anwendungstechnik
+achso
+das muss ich auch noch kurz erwähnen
+nur Automobil
+Ein halber Punkt. Auto, nur Karosserie, auch nur ein halber Punkt, weil ich nicht weiß, welche Karosserie.
+Durch diese Bezeichnung haben Sie eine eindeutige Anwendung.
+Also wenn ich nach Anwendungen frage, sollten Sie nicht irgendwelche Branchen oder sowas nur sagen,
+sondern bitte eben auch noch ganz konkret das Bauteil dazu.
+Und da es Bauteile gibt, wie ein Lager zum Beispiel oder sowas, was natürlich in allen möglichen Branchen eingesetzt wird, weiß ich das ja auch wieder nicht, was Sie damit konkret meinen.
+Also machen Sie sich ein bisschen Mühe, was die Anwendung angeht, indem Sie an der Stelle letztlich auch ganz klar, wie in diesem Beispiel eben gezeigt, das Beispiel auch ausführen.
+So, Unterschiede, wie gesagt, sind eben, dass man gewisse Kriterien wieder hat.
+Das können die Kriterien von da oben sein, wie man die unterscheidet.
+Und als letztes Vor- und Nachteile.
+Da sollten Sie vielleicht, um sich selber die Stütze zu geben, eben auch tatsächlich die entsprechenden Vor- und Nachteile mindestens zwei Stück haben.
+Aufgabenstellungen könnten eben so lauten. Erstmal hier oben Zügige Technik in einer Richtung,
+klar Verfahrensbeschreibung, weitere Verfahren, Konstruktion könnte auch vorkommen. Warum? Weil
+dass Sie das bei allen Verfahren irgendwie gesehen haben. Wenn ich jetzt über Kleben
+rede, wäre das jetzt eine Beispielaufgabe dazu. Aber wir hatten ja heute keine Schälbelastung,
+das ist vielleicht eine gute Sache. Wenn Sie aber wissen, wie Sie so eine Klebstoffverbindung
+belasten müssen. Beim Löten gab es unterschiedliche Löschverfahren mit
+unterschiedlichen Temperaturen. Und 3D-Druck, den werden wir wie gesagt noch am
+12. machen. Da werde ich dann aber am 12. nochmal explizit darauf hinweisen, was da
+wichtig ist, hier erstmal so Funktionen,
+Sie können gleich ein Foto machen, wenn ich
+den letzten auch noch habe.
+Ne, da kommt noch einer.
+Jetzt können Sie Ihr Foto machen.
+Sie sind angehender Wirtschaftsingenieurin
+und Ingenieur.
+Deswegen wird bei Ihnen
+alles in diese Richtung gehen.
+natürlich immer auch
+diese Wirtschaftlichkeit.
+Gasschmelzschweißen ist nicht wirtschaftlich,
+weil es ein Handprozess ist.
+Nicht automatisierbar.
+Kann aber wirtschaftlich sein,
+wenn Sie nur ein kleines
+Blechlein da herstellen wollen.
+Das ist quasi die Hauptbotschaft
+auch hier von dieser Folge.
+So, und dann sind wieder diese entsprechenden Fragestellungen dazu, die hatten wir eben schon durchgezogen.
+So, jetzt gucken wir uns mal die Schweißverfahren an, können Sie zum Schluss auch ein Foto von machen, dann haben Sie alles.
+Gasschmelzschweißen machen wir so nicht, aber wichtiger Punkt, es könnte natürlich, wenn ich Sie frage nach irgendwelchen Verfahren und Sie eins angeben, was hier durchgestrichen ist,
+Und anderes, was nicht Durchgestrichene nicht wissen, könnte Ihnen das helfen.
+Sie müssen es nicht, aber Sie können es natürlich auch verwenden, wenn es passt.
+Aber zumindest brauchen Sie definitiv jetzt bei Gasschmelzschweißen quasi nicht die Gase und so weiter wissen, was soll das jetzt sein.
+Sondern hier geht es nur, auch die Durchgestrichenen könnten von der Anwendung her für Sie interessant sein.
+So, Lastmal schweißen machen wir nicht.
+Elektroschlacke eh nicht.
+Also das Schmieden nicht, Pressstumpfschweißen, Huckelschweißen, das hat man eben nur kurz angedeutet, Kaltpress nehmen wir raus, Ultraschall nehmen wir raus.
+So sehen Sie letztlich hier erstmal nur noch 1, 2, 3, 8, 10, 12 und 15.
+So, und jetzt, hier wäre Gasmeldschweiß und sozusagen euch,
+Das wollte ich Ihnen zeigen. Das Nötschweißen war eh draußen. Vielleicht ist das nächste Verfahren auch draußen, aber hier muss ich Ihnen das noch einmal genauer zeigen.
+Also das wäre jetzt die Frage auf dieser, wie definieren Sie das? Unlösbar, Wärmedruck,
+meisen Sie sich diese allgemeine Schweißbezeichnung einfach mal irgendwo ins Gedächtnis. Das ist
+wichtig. Und jetzt wieder schon das Punktschweißen. Auf jeden Fall können Sie das auch noch auf der
+Liste nehmen, weil ich zeige Ihnen das jetzt
+nochmal, wie Sie auf
+die Fragestellung
+beschreiben, wie Sie das Ganze antworten
+können.
+Wenn es sein muss, können Sie mir auch
+einen Volltext geben. Sie können auch zwei Seiten
+dazu schreiben. Das ist aber vielleicht zeitlich
+nicht ganz so interessant.
+Das heißt, wenn ich jetzt über das
+Punkt schweißen, was wissen will
+und Sie Ihrem Kommilitonen das erklären
+wollen, dann gibt es eben so
+Keywords. Das heißt, zwei Bleche werden
+übereinander gelegt, dann müssen die irgendwie zusammengedrückt werden, dann schiebe ich da Strom durch, der hoch Ampere, also der viel Ampere, wenig Volt letztlich hat,
+um über eine Widerstandserwärmung als Begrifflichkeit hier eine Verbindung zu erzeugen.
+oder alternativ
+Sie zeichnen das Ganze hin
+da haben wir den Überlappbereich
+da ist der Stromfluss
+angegeben, da ist die Kraft
+angegeben
+und wenn Sie sich unsicher sind, können Sie das
+auch ein bisschen beschreiben, dass es eben
+überlapp sein soll
+und das ganze Stromvertragung
+und entsprechende Linse sich ausbilden
+also Sie haben alle Varianten
+Sie sollten für sich jetzt beim Üben
+einfach mal durchgehen, wie Sie das
+am besten jemandem erklären soll.
+Wie viele Punkte gibt es in der Aufgabe?
+Wir haben mit am meisten tatsächlich jetzt.
+Ich hoffe, das ist nicht, also Sie können
+davon ausgehen, dass es eine große Aufgabe ist.
+Und da gibt es, wie gesagt, immer so
+eine ganze Menge solcher kleinen Aufgaben,
+wenn Sie Züge verfahren, die
+irgendwas machen können, wie in dem
+Fall irgendwelche Sachen zusammenschweißen. So, wichtig, da steht Fügeverfahren, das ist ein Oberbegriff. Wenn da Schweißen steht, kommen Sie mir nicht mit Themen daher.
+Aber wie gesagt, umgekehrt, wenn Sie jetzt bei so einer, das hatte ich mal gesagt, das ist nicht möglich zu schweißen. Die vertragen sich mythologisch nicht. Aber so tief müssen Sie gar nicht
+nicht reingehen, wenn ich Ihnen die Möglichkeit der Fügetechnik umgeße, das Ganze bei Kleben
+muss man irgendwie gehen und mechanisches Fügen letztlich auch. Wenn ich Ihnen aber
+sage, ich brauche eine Verbindung zwischen irgendwelchen Metallen und ich brauche eine
+super hohe Festigkeit, dann denken Sie bitte nicht an Kleben.
+Jetzt gehen wir noch einen zurück, auch da gar nicht mitschreiben, sondern das können
+Sie sich auch gleich fotografieren mit Ferdinand.
+Das haben Sie im Skript und als Übungseffekt können Sie das dann einfach nachfragen.
+Ich möchte, und das ist ein Stück weit Kern dieser ganzen Aussagen bis jetzt,
+ist, Sie in die Lage versetzt zu haben, in Ihrem Job,
+und ob Sie, wie gesagt, im Vertrieb oder in der Produktionsplanung,
+oder wo auch immer Sie später dann, wenn Sie mal von Fügeltechnik zu tun haben,
+hilft Ihnen, sage ich mal, eine gewisse Kategorisierung.
+Und das heißt, von den Kategorien haben wir hier oben sowas wie Festigkeit, Qualität,
+Welchen Werkstoff kann ich alle verbinden? Kann ich das auch vielleicht wieder reparieren, das Ganze?
+Hier ein Hinweis auf die Konstruktion, entweder stumpf oder flächig.
+Hier eine Eigenschaft der Dichtigkeit und dann hier hinten weiterum auch, sage ich mal, wiederum Eigenschaften, Auswirkungen von dem Fügeverfahren bis hin zu wirtschaftlicher Betrachtung, Kosten, Nutzen bei Einzel- oder Massenfertigkeit.
+für eine Auflistung und jetzt habe ich das einfach mal gemacht, die Sachen entsprechend
+plus minus zu setzen. Es wird jetzt hier nicht in der Prüfung diese Tabelle abverlangen,
+wie ihr gleich komplett seht, sondern es geht hier darum, dieses Grundverständnis dafür zu haben,
+welches von diesen Verfahren hat eben eine gute Festigkeit. Und Sie sehen, dass eigentlich
+schweißen eine gute Festigkeit hat und kleben eher weniger. Das Schrauben auch weniger, weil es nur
+punktuell ist und Nieten genauso, aber auch das Löten ist nochmal deutlich schlechter wie auch
+das Schweißen, aber besser wie das Kleben. Das ist schon der dicke Daumen, den Sie hier drauflegen
+würden. Aber das Verständnis sollte bei Ihnen klar sein. So, und von der Qualität her, was könnte das
+jetzt sein? Ihr Handschweißen ist eben abhängig von der Person, die schweißt. So was MSG, ja, wenn es
+automatisiert ist, ist es gleichbleibend. Wenn es händisch ist, wäre es wieder nicht so gut. So, und dann haben wir
+hier auch noch mal das Gleiche gilt qualitätsmäßig, selbst auch für Kleben und Schrauben, dass das
+Ganze auch von der Verarbeitung vielleicht anspruchsvoll ist, wie das Schweißen. Wichtig wäre hier hinten noch die
+Temperaturbelastung. Was hatte ich Ihnen gezeigt zum Thema Ihr Handschweißen? Sie hätten diese kleinen
+Filme gesehen, ganz viel Temperatur kommt da rein. Also gar nicht so gut, was Temperatur und damit
+Verzug angeht. Und ich habe Ihnen was gesagt zum Laser- und Elektronenstrahl, dass die deutlich
+besser sind. Aber natürlich, wenn ich gar keine Temperatur habe, wie beim Kleben, das muss ja
+besser sein. Weniger Belastung. Ja, Löten, ja, auch eine geringere Temperatur, also weniger
+Und die Wirtschaftlichkeiten haben was auch mit der Prozesslänge zu tun, aber daraus lässt sich letztlich auch schließen, wie hier hinten dargestellt.
+Hand schweißen für Einzelteile gut, für Masse vergessen wir es.
+Und hier plus plus, was heißt händisch, dann wäre das die Einzelfertigung, automatisiert eben die Massenfertigung.
+so, schauen Sie nochmal in Ruhe drauf
+Sie können sich auch gleich mal fotografieren
+und
+jetzt nehmen wir die letzten
+ein bisschen drüber
+aber nehmen Sie mal eine Minute nochmal Zeit
+um mein Prinzip jeweils zu verstehen
+und was Ihnen diese Tabelle
+vielleicht auch helfen kann
+Vielen Dank.
+dass die Prüfung unklar ist. Ich habe noch eine andere Frage. Gibt es noch diese Regelung, dass man für
+Ihren Teil noch eine halbe Stunde hat oder wird das schon abgeschafft? Ja, nein, das ist nicht abgeschafft. Wir machen die Prüfungen nacheinander, jeweils eine halbe Stunde und dann kommt die nächste.
+Also ein Prüfungsteil gar nicht zu üben, keine gute Idee. Funktioniert nie.
+Überall die gleiche Intensität auf alle verteilt, bringt Ihnen auf alle Fälle in Summe mehr.
+Und wie war das dann mit der additiven Fertigung, das war dann bis mit dem Bierdeckel, oder?
+Nee, Bierdeckel war das mit den Verfahren generell, additive Fertigung kommt einfach nächstes Jahr noch.
+Wir haben ja noch eine Vorlesung, da können wir auch gerne nochmal diese Tabelle angucken.
+Aber wenn Sie jetzt, sage ich mal, über Weihnachten mal ein bisschen Zeit investieren, wenn Sie Fragen haben, das soll das jetzt erstmal nur bringen, bringen Sie die Fragen dieses Jahr wieder mit und dann reden wir gerne nochmal drüber.
+Okay?
+gut
+ich hoffe, dass ich Sie ein bisschen glücklicher gemacht habe
+mit der Auflistung
+dass Sie schon mal so ein bisschen
+auch beruhigter in die Weihnachtsferien gehen können
+und wie gesagt
+wenn Sie mich noch fragen, kriegen Sie auch eine Antwort
+in meiner Art
+gut, ja
+Dann danke für heute und für dieses Jahr und wir sehen uns in neuer Brüte der nächsten Jahr.
+So sieht es aus.

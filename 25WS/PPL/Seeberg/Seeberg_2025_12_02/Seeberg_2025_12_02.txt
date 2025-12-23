@@ -1,0 +1,1571 @@
+So, und was ist der durchschnittliche Bestand?
+So, der durchschnittliche Bestand ist die Fläche hier unter der Kurve.
+Das ist der durchschnittliche Bestand.
+Also wenn ich mir jetzt so einen Tag anschaue, wie viel ist da durchschnittlich da?
+Wäre das jetzt ein ganzer Tag, wäre es relativ einfach.
+Da würde man 500 halbe nehmen, 250.
+Allerdings haben wir hier nur einen halben Tag.
+Deswegen ist der durchschnittliche Bestand hier, also 0,5 Tage mal 500 Mengeneinheiten.
+Und weil das ja ein Dreieck ist, falls Sie sich zurückerinnern, Mathe 4. Klasse, 5. Klasse, ich weiß es nicht mehr.
+Wie rechnet man die Fläche eines Dreiecks aus?
+A mal D halbieren, oder?
+Also müssen wir hier noch A nehmen.
+Haben Sie alle Schüler vergessen, oder?
+Ich weiß nicht, vielleicht war es auch 7. Klasse, ich weiß nicht, wann das war.
+Angeblich ist ja das Schulsystem so schlecht.
+Oder wissen Sie es noch, wenn Sie einfache geometrische Formen ausgerechnet haben?
+Ich weiß nicht, wann machen wir das?
+Fünfte, oder?
+Fünfte Klasse, okay.
+Also das heißt, was haben wir hier, was kommt hier raus?
+125, nein, nein, nein.
+Also der Durchschnittsbestand, der hier an meinem Arbeitsplatz sitzt oder ist, sind 125 Meter.
+Was ist der Durchschnittsbestand hier im Plastikkorb?
+Also ich schaue mir nur noch einen Tag an, also ich hole mir einen repräsentativen Tag aus.
+Das ist hier der hier.
+Zwischen 0 und 1. Was passiert da mit meinem Bestand in meiner Veröffnung?
+Und das sehe ich dann hier, das ist 0,5 Tage mal 500 Mengeneinheiten, hier nichts mit 1,5, die Fläche müssen wir ausrechnen.
+Und das sehen wir mit Transport, das ist im Schnitt 120 Mengen.
+So, dann schauen wir hier den elektrostativen Bestand an.
+0,5 Tage mal 500 Mengeneinheiten mal 1,5 und das sind wieder 120 Mengen.
+Das heißt, der Durchschnitt der Gesamtbestand ist in unserem Fall hier 500.
+Und wenn ich jetzt einfach eine Berechnung durchführen müsste,
+wie hoch ist die Kostenbindung, wie hoch ist die Kapitalbindung hier,
+dann wäre das der Wert, mit dem ich da rechnen kann.
+Also angenommen, jedes Teil hätte jetzt einen Warenwert von 10 Euro,
+dann wären jetzt im Schnitt im Tag 5.000 Euro gegeben.
+Sie können sich auswählen, was Sie im Ganzen haben müssen, wenn Sie das machen wollen.
+Er macht dann die Anschlussarbeit. Da geht es darum, Bauchbestände zu reduzieren und die haben den Galvanik, das heißt, die haben etwas hochwertigere Materialien genommen.
+Und dann steht da halt irgendwann so drin, so 150 Kilogramm Gold zum Geschichten oder sowas.
+Das ist natürlich dann schon teuer, wenn das einmal geht.
+Da brauchen Sie ein ordentliches Bestandsmanager.
+Sollten Sie aber auch einkaufen in den Specken, weil Sie uns bestellen, finde ich, aktuell ist ja Gold viel zu teuer.
+Prinzip verstanden?
+So, jetzt stellen Sie sich vor, wir bekommen jetzt einen neuen Chef in unserer Abteilung.
+Und das ist so ein nervöses Hemd, der sagt, oh mein Gott, das hier alles ist viel zu knapp kalkuliert.
+Wir brauchen Sicherheitsbestand.
+Okay?
+Schauen wir mal, was passiert, wenn Sie so ein nervöses Hemd der Chef bekommen und sagen, er will Sicherheitsbestand.
+Wir machen jetzt genau dieselbe Übung nochmal.
+Allerdings ändern wir eine Prämisse und zwar, wir wollen, dass der Sicherheitsbestand,
+wir wollen 600 Mengeneinheiten zur Sicherheit vorrätig haben. Ihr Chef argumentiert,
+es kann mal passieren, dass wir 600 Mengeneinheiten verbrauchen. Okay? Schauen wir mal, was passiert,
+was in unserer Plattform mal passiert mit dieser einfachen Aussage. Machen wir das
+Jetzt brauchen wir nochmal 3 so Grafiken.
+Jetzt muss Alina 6 Minuten machen.
+Amen.
+1, 2, 3, 4.
+... Musik ...
+Und hier haben wir wieder unsere Verbraucher.
+Und hier haben wir die Versuchszene.
+So, dann schauen wir mal, was passiert, wie gesagt, wenn unser Chef sich da durchsetzt
+und sagt, wir wollen jetzt aber nicht als gestandene Arbeit, was passiert?
+Also der braucht natürlich, jetzt haben wir diese geringe Gruppe vorher, erstmal dann
+die 600 Stück angeliefert.
+Der braucht die 600 Stück angeliefert, sonst kann der ja nicht anfangen.
+Damit der 600 Stück hat, muss natürlich der erstmal die 600 Stück liefern.
+Und der hier muss diese 600 Stück erstmal produzieren.
+Also das mal genau gleich wie vorher, statt mit 500 Stück, die Übung mit 600 Stück.
+Und jetzt passiert folgendes, der verbraucht über den halben Tag nicht die 600, weil er
+normalen Bedarf hat, also er will gar nicht den maximalen Bedarf, der wäre die 500.
+Das heißt, bis zum Ende des Tages liegen da zahlbar hundert Stück bei ihm.
+So, am nächsten Tag bringt der natürlich jetzt hier der Transporter ihm nur 500 Stück,
+weil er weiß, ah, es sind ja nur 500 Stück rausgenommen worden.
+Der hier allerdings, der weiß ja gar nicht, ob er dann demnächst 600 Stück braucht.
+Deswegen macht er zur Sicherheit nochmal 600 Stück.
+Allerdings, wie gesagt, der Transporter, der holt ihm nur 500 Stück ab.
+Und dann bleibt der hier auch auf 100 Stück Sicherheitsbestand sitzen.
+So, der macht jetzt weiter seine 500 Stück, der hat das angeliefert bekommen, macht seine 500 Stück und behält weiter sein Sicherheitsbestand von 100.
+Der weiß, dass da nie 600 Stück gebaut werden, der transportiert jetzt halt weiter flödig immer nur 500 Stück in der Gegend rum.
+Und der hat seine 100 Stück hier in ihrem Sicherheitsbestand und produziert hier...
+Ich habe hier ein bisschen schief gemacht, glaube ich, deswegen liefert er hier mal die Dinger.
+Und so geht das immer weiter.
+So.
+Das heißt, bei den zwei schwingt sich genau das gleiche ein, was vorher war,
+allerdings immer nur mit diesen 100 Stück sich eins gestärkt.
+So, jetzt schauen wir uns einen Tag an, was da passiert.
+Und jetzt gucken wir mal ganz kurz, was ist hier die Behältergröße bzw. der Platzbedarf.
+Platzbedarf. Was ist hier der Platzbedarf? Ich glaube nicht ganz klar, 600 Mengeneinheiten.
+Hier brauchen wir auch einen Platzbedarf von 600 Mengeneinheiten, weil im Zweifel muss
+Hier haben wir auch einen Platzbedarf von 600 Mengeneinheiten.
+Und jetzt schauen wir uns den durchschnittlichen Bestand an.
+Das ist hier die Fläche unter der Kurve.
+Also einmal die gleiche Rechnung, den Teil ausrechnen.
+500 Mengeneinheiten mal einen halben Tag, mal 0,5 plus das Kästchen hier unten, 100 mal einen Tag.
+Das heißt hier habe ich plötzlich 225 Mengeneinheiten Durchschnittsbestand.
+Hier ändert sich nichts, durchschnittlich Bestand.
+Und hier muss man ein bisschen ausrechnen.
+Das ist der Durchschnitt im Gesamtbestandungssystem.
+225 plus 225 plus 250, 700 Meter.
+Und deswegen ist Sicherheitsbestand fest.
+Das Sicherheitsbestand ist in der Regel nicht nur einmal da, sondern im Zweifelsfall sogar zweimal da.
+Also Sie müssen ja den Versorger auch darauf simmen, dass der Verbraucher genügend hat.
+Und einerseits hält es der Verbraucher vor, aber dann auch der Nachschub, weil er weiß, er muss ja im Zweifel den Verbraucher wiederversorgen.
+Ganz häufig ist ja der Verbraucher außerhalb der Firma und damit nicht das Problem ihrer Firma, sondern das Problem vom Lieferanten.
+Aber wenn man das immer auf die ganze Lieferkette bezieht und jeder hat Sicherheitsbestand, dann wird das sehr voll.
+Deswegen sollte man sich, wenn man Sicherheitsbestände haben möchte, erst einmal genau mit dem Lieferanten
+unterhalten und auch mit seinen Lieferanten sagen, wer denn diesen Sicherheitsbestand verwaltet.
+So, das ist ein großer Nachteil von Bestand oder Sicherheitsbestand.
+Wenn man sich mit Beständen auseinandersetzt, dann ist da ein Knall drauf.
+Weil ich muss ja die Lieferkette darauf auslegen, wenn der Sicherheitsbestand aufgebraucht wird,
+dass auch dieser Bestand wieder nachgeführt wird.
+Und das ist eine bewusste Gegensteuerung, dass man sagt, ja okay, es ist zum Beispiel Zeit da,
+um den Sicherheitszustand wieder aufzuführen.
+Ganz abgesehen davon, dass ich größere Behälter brauche, mehr Platz, mehr Stellfläche.
+Das wissen Sie selber.
+Wer beengt wohnt, der muss sich selber überlegen, was er sich alles einkauft,
+beziehungsweise was er auf Vorrat halten will.
+Wenn Sie eine kleine Küche haben mit nur einem Schrank drin,
+dann können Sie nicht zehn Kilo Nudeln kaufen und sagen, hey, Vorratshaltung.
+Fragen dazu? Nachvollziehbar, oder? Also bei Sicherheitsgestand immer aufpassen. Es wird so lapidar
+dahingesagt, aber Sicherheitsgestand ist auf die lange Frist sehr treu. So, also das ist ein Problem,
+Sicherheitsgestand. Dann gibt es noch weitere kleine Probleme, wenn man Behältermanagement hat.
+Und zwar müssen wir uns generell immer klar werden, wie gehen die Behälter um?
+Haben wir ein System der vollen oder leeren Behälter?
+Oder haben wir ein System der Kommissionierung?
+Also ist es das Brotbox-Prinzip, wo man das isst, was man mitbekommt?
+Oder ist es das Buffet-Prinzip, wo man einfach sich bedient und sagt,
+ja, wenn etwas leer ist, wird etwas nachgeliefert.
+Und Sie können ganz schwer beide Logiken mischen.
+Weil die Mitarbeiter sind damit überfordert.
+Weil dann kommt ja wieder, ich dachte es wird automatisch aufgeführt.
+Nein, sie müssen ganz klar sagen, was ist ihre Thematik.
+Und deswegen hat sich auch die Kanban-Regelung gut durchgesetzt,
+weil eben das ist ein einfach verständliches System.
+Ich kann die Gehaltegrößen sehr genau steuern,
+ich kann eben diesen Kreislauf sehr genau steuern
+und ich brauche einfach nicht eine große Logistik dahinter, dass es funktioniert.
+dass es funktioniert. So, dann gibt es noch ein paar weitere Probleme. Generell ist immer
+das Problem mit der Restmenge. Wie geht man mit Restmengen um? Also, Sie müssen sich
+immer überlegen, angenommen, Sie haben jetzt einen Spitzenbedarf von 600 Mengeneinheiten.
+Jetzt legen Sie Ihr ganzes System auf diese 600 Mengeneinheiten auf, aber Sie bedienen
+sich aus Behältern. Und dann kann halt Folgendes passieren, dass Sie so einen Restmengenbehälter
+haben und jetzt sind halt 6 Behälter da, da passen 600 Stück rein, allerdings ein
+Behälter ist angebrochen, da sind also nur 50 Stück drin, da sind im Arbeitsplatz 550
+Stück vorhanden. Sie können also die Hochmenge nicht abarbeiten. Das heißt, Sie dürfen
+Restmengebehälter grundsätzlich nie in Betrachtungen mit einbeziehen, sonst wird Ihre Berechnung
+beziehungsweise Ihrem Behältermanagement scheitern.
+Das heißt, Sie müssen grundsätzlich immer den Restmengenbehälter
+in einer Berechnung mit berücksichtigen.
+Das ist genauso, wenn Sie sagen,
+wow, mein Tank hat 40 Liter und Sie rechnen immer mit 40 Liter.
+Sie wissen ganz genau, dass Sie auf die Tankanzeige gucken,
+bevor Sie in der Regel losfahren, oder?
+Sie wissen, wie weit Sie kommen.
+Und genau dasselbe gilt hier auch, oder?
+Sie sagen ganz einfach, Sie haben genügend voran,
+dass sie immer für den Notfall was da haben.
+Also das heißt, grundsätzlich muss man eben Restmengenbehälter berücksichtigen
+und die machen häufig dann nochmal eine ganze Behältermenge aus.
+Hier ist nur nochmal die Berechnung.
+Dann das Zweite ist, wenn mehrere Leute sich aus dem Behälter bedienen,
+dann sollte man tatsächlich schauen, dass die Losgrößen abgestimmt sind.
+In der Industrie wird sehr viel mit Losgrößen gearbeitet
+und dann ist es natürlich sinnvoll, wenn man sagt, ich habe ein Vielfaches von dem immer im Behälter, was auch gebraucht wird.
+Also ein Beispiel, Produktionsmittel S600, Sie haben drei Verbraucher mit 210, 210 und 180,
+dann ist das natürlich super, wenn wir Bündel mit 30 machen.
+Also das ist dann etwas, was gut funktioniert.
+Auch so kann man Behälter auslegen.
+Deswegen werde ich irgendwann mal sauer sein, wenn Sie zum Beispiel, ich habe Ihnen schon erzählt, die dummste Idee, die die Küche je hatte, war, Fischkäse mit Weizen in den Pack anzubieten.
+Weil es geht nie auf. Ich glaube, das war sogar in der Vorlesung.
+Ja, funktioniert nicht.
+Genauso bin ich immer sauer, wenn ich sage, wir sind Hotdog-Bürstchen.
+Sechserer packt den Würstchen, vierer packt den Brötchen.
+Und so ist es.
+Also genau so weit auch in der Industrie, es nützt halt nichts, wenn Sie eben Behälter haben, die nicht für die Bedarfe Ihrer Verbraucher ausgewählt sind.
+Was da indirekt dann noch dazu kommt, ist, wenn zum Beispiel die Tagesproduktion Behälter für Mengen abweicht und Sie das in Ihren Berechnungen nicht berücksichtigen.
+Also ein Beispiel, Sie brauchen 180 Mengeneinheiten und Sie produzieren 30 Mengeneinheiten.
+Und jetzt haben Sie Behälter mit 900 Stück drin.
+Dann sagen Sie, ja, da kann ich drei Nussblösen vergeben, es sind zehn übrig.
+Oder? Passt.
+So, und jetzt sagen Sie allerdings auf der anderen Seite, was ist die Mindestreitweite?
+Also, wenn Sie es jetzt rein theoretisch ausrechnen, bekommen Sie aus einem Behälter 0,55 Arbeitstage raus.
+Das stimmt aber nicht, weil Sie bekommen ja nur 90 raus, einen halben Arbeitstag.
+Weil Sie sich ja die Behälterungsgröße erhalten müssen.
+Das ist genauso, wenn Sie Muffins backen und Sie brauchen für Muffins vier Eier und Sie haben einen Zehnerpack.
+Dann machen Sie nicht zweieinhalb Batches Muffins, sondern Sie machen zwei und dann haben Sie zwei Eier übrig, weil Sie mit den zwei Eiern nicht mehr anfangen.
+Genau dasselbe müssen Sie bei Behälterlosgrößen, wenn Sie Behälter abstimmen, eben auch berücksichtigen.
+Hier nochmal die Berechnung.
+Wenn Sie Behälter kaufen, es gibt unzählige Checklisten, müssen Sie einfach sagen, was brauche ich hier auf dem Flachbrett.
+Also wenn Sie irgendwelche Verstauungsmöglichkeiten suchen, gehen Sie in den Checklistentür und sagen Sie erstmal, das Handy muss funktionieren.
+Dazu zählen, hat es den Deckel, ja, nein, brauche ich einen Deckel, so sagen.
+Deckel gehen im Weg um und so weiter, aber manchmal notwendig, um Verschmutzung zu vermeiden.
+Aber Deckel sind unglaublich lästig in der Industrie.
+Weil die stehen dann oben, muss man irgendwie da drauf tun.
+Haben Sie vielleicht auch irgendwo zu Hause einen Behälter mit Deckel, den Sie nie mehr drauf tun?
+Wir sagen, man muss so oft reingreifen, dann hat man den Deckel lieber weg.
+Nicht? Okay, gut.
+Dann natürlich die Abmessung.
+Da hatte ich ganz am Anfang meiner Karriere hier eine wunderbare Abschlussarbeit.
+Und zwar hat es da ein Lager geplant worden.
+Ganz tolles Lager.
+Und dann ging es darum, diese Lagerplätze zu befüllen.
+Und dann war die Problematik, dass die Standardbehälter, die man da einstellt, immer 10 cm im Lagerregal dann fein lassen.
+Und man wollte dieses Lager so dicht wie möglich packen.
+Weil einfach die Lagerregallänge nicht zur Behälterlänge gepasst hat.
+Was eigentlich dann verschränkter Platz ist.
+Das heißt, ich muss natürlich auch immer die Abmessungen im Kopf haben.
+Wie groß ist was?
+Das ist genauso, wenn Sie sagen, Sie räumen einen Schrank ein.
+Wie hoch müssen zum Beispiel zwei Regalblätter auseinander sein, weil Sie wollen ja nicht so viel Luft drin haben.
+Da verschenken Sie ja zu viel.
+Dann das Ladegewicht. Was passt in ein Behälter ein?
+Da sind wir dann sehr schnell an der Grenze, was normale Behälter, was Industriebehälter können.
+Also wie viel kann so ein Behälter ein? 10 Kilo, 15 Kilo, 20 Kilo?
+Wenn Sie richtig schwere Spreesteile haben, dann können Sie vielleicht maximal drei Teile in so ein Behälter tun oder Ihnen bricht der Boden raus.
+Deswegen auch hier weiterdenken, was kann zum Behälter rein.
+Da ist vielleicht schon mal passiert, wenn Sie umgezogen sind,
+vom Umzugsbehälter, vom Umzugskarton, bei 15 bis 20 Kilo aus,
+Sie heben hoch und aus dem Bauch und zum Bauch.
+Das sind alle, die das im Gehälter getan haben.
+Dann, was ist Tara?
+Haben Sie mal was von Tara gehört?
+Das Leergewicht.
+Also was wiegt ein Behälter, wenn nichts drin ist?
+In Containern oder in großen Behältern steht das sogar auch außen drauf.
+Also das heißt, wenn Sie dann auf eine Laderampe fahren mit eingebauter Waage, wissen Sie genau, was ist oder wie schwer ist dieser Container.
+Also wenn Sie einen guten Container haben oder einen guten Chip-Container, steht das in der Regel drauf.
+Steht auch auf Waggons der Deutschen Bundesbahn drauf.
+Da steht auch in der Regel das Tara drauf.
+Also was wiegt etwas, wenn es leer ist.
+Kennen Sie vielleicht auch vom Backen, da gibt es die Tara-Taste.
+Sie stellen hier Ihre Schüssel drauf, drücken Tara und dann wird die Waage wieder auf Null gestellt.
+Und wenn Sie dann die Schüssel wegnehmen, dann steht minus 200 Gramm drauf.
+Und Sie wissen, ja, meine Schüssel wiegt 200 Gramm.
+Okay?
+Also, das ist das Thema Zara. Dann, wie stapelfähig ist was? Auch das kann wichtig sein, weil zum Beispiel, nehmen Sie im Bereich von der Getränkeindustrie, wie hoch kann ich eigentlich Bierkästen stapeln? Da gibt es auch eine Höchststapelfähigkeit.
+Dann, wie gesagt, die Regalpassung.
+Wie passt mein Behälter ins Regal rein?
+Lagerfähigkeit, auch das ist etwas.
+Lagere ich es ein, dass es etwas im Umlauf gut ist?
+Also kommt diese Box immer wieder raus, wird gehandelt, muss Stößhaushalten?
+Oder ist diese Box wirklich zum Einlagern gedacht?
+Dann muss ich das auf Langlebigkeit zum Teil machen.
+Also ist das Ding UV-bestellig?
+Und da kommen wir schon an viele Grenzen.
+Haben Sie vielleicht schon mal die Erfahrung gemacht, dass die Gießkanne ganz spröde wird und auseinanderbricht?
+Das liegt daran, dass die Gießkanne oft raus besteht in der Sonne.
+Die weichen wir halt von hier raus, die UV-Strahlung zersetzt das Plastik.
+Und dann haben Sie halt nur noch das spröde Material und alles knistert in sich zusammen.
+Das wollen Sie natürlich in der Industrie nicht.
+Also nehmen Sie UV-beständige Materialien und Stoffe. Das kostet natürlich mehr.
+Genauso das Thema mit Öl.
+Öl und Plastik ist eine ganz, ganz werte Kombination, weil manchmal löst das Öl die Weichmacher raus und macht auch Dinge spröde.
+Deswegen dürfen Sie in ganz viele Behälter nicht Ihre ölbearbeitenden Teile reinlegen,
+beziehungsweise müssen Sie es auf eine Folie legen oder irgendwie was Zauber machen, bevor Sie es verpacken.
+Auch das ist etwas, was man berücksichtigen muss.
+Dann Kommissionierung. Ist es geeignet, dass man da was zusammenstellt?
+Also hat das Ding irgendwelche Halter, wo ich Zettel reinstecken kann?
+Wie kann ich es etikettieren?
+Dann natürlich auch die Frage, kann ich das Ganze verwenden, damit es automatisiert ein- und ausgelagert wird?
+Zum Beispiel, gibt es hier so Positionierlöcher an der Seite?
+Gibt es hier so Rillen, dass ich das auf Rollen fahren lassen kann?
+Dass sich das nicht irgendwo verrüttelt, wenn ich das irgendwo drauf stelle?
+All solche Themen muss ich berücksichtigen.
+Die VDA hat eine Norm, dass eben diese Behälter zueinander passen, also wie das DIN-A4-System,
+das DIN-A3 halb so groß ist wie DIN-A4, das DIN-A5 halb so groß ist wie DIN-A4 und so weiter.
+Und da gibt es dann natürlich auch hier Abstimmungen.
+Sie sehen, Füllgewicht 20 Kilogramm, wenn Sie da zum Beispiel drüber wollen, dann müssen Sie schon wieder Wehr ausgeben.
+Und wenn Sie einfach mal schauen, Sie führen so einen Kleingladungsträger mit 20 Kilogramm
+und der wiegt dann noch drei Kilo, mit 23 Kilogramm,
+sind Sie schon drüber hinaus, was eine Person jeden Tag reden, die sie tragen darf.
+Also brauchen Sie da schon wieder Hilfen am Arbeitsplatz.
+Also entweder einen kleinen Kram oder Gabelstapel oder so etwas, eine Hebebühne,
+damit man das machen kann.
+Deswegen muss man auch immer abwägen, nehme ich vielleicht kleinere Behälter,
+in denen vielleicht ich meine 20 Kilo nicht erreiche, da passen vielleicht nur 10 Kilo rein,
+aber dann können es die Mitarbeiter noch tragen.
+Also auch solche Aspekte.
+Und wie gesagt, inzwischen sind es auch Hightech-Geräte oder Hightech-Ausführungen, was es da alles gibt.
+Zusatzgriffe, Einsteckkarten, dann unterschiedlichste Farben, dann kann ich damit auch unterschiedliche Kreisläufe kennzeichnen,
+zum Beispiel Behälter nur für Innen, Behälter nur für Draußen, Behälter für Ersatzteilthematiken,
+dann das sind die Behälter für das Hochlager, das sind Behälter für Kanban-Kreislauf 1, das sind Behälter für Kanban-Kreislauf 2.
+Da kann ich dann natürlich sehr schön mit Farbe arbeiten.
+Da allerdings aufpassen, Sie wissen auch,
+verwenden Sie bitte nicht rote und grüne Behälter.
+Warum?
+Haben wir auch schon darüber gesprochen, oder nicht?
+Hm?
+Okay.
+Ne?
+10% der Männer sind gut grün blind
+und die meisten wissen es gar nicht mehr,
+weil sie nicht gewusst haben.
+Die bekommen es gesagt in der U3-Untersuchung.
+Die Mama weiß es, aber die Jungs wissen es dann nicht.
+Also ist das Nächste.
+Sie sehen die Farbe, oder nicht?
+Aber haben wir jemanden, der Rot-Grün-Blend ist?
+Sie wissen, die Top-Geschenke für Leute, die Rot-Grün-Blend sind?
+Twister? Trivial Pursuit?
+Da freuen die sich.
+Sie kennen Trivial Pursuit mehr, oder?
+Jetzt wissen Sie, warum ich Trivial Pursuit kenne, weil es mir keinen Spaß macht.
+Ich wüsste, dass das nur die Farbfelder und nicht das Leben ist.
+Und dann ist es halt auch rot und grün und war ja gelb und blau.
+Und rot und grün kann, wenn das Dumpf gemacht ist, wirklich genau die selbe Schattierung für grün sein.
+Das ist der gleiche Grauthof.
+Genauso schön wie in Persil, da haben sie halt auch rot und grün als Felder.
+Und da ist immer die Frage, was ist das jetzt für eine Farbe?
+Da sind vorausum ganz komische Symbole drauf, aber die sind alle etwas, ja, verkünstigt.
+Ja, also merkt man in der Regel relativ schnell, aber der Witz ist, die Leute kompensieren das sehr schnell.
+Also die haben dann Möglichkeiten, dass das nicht mehr auffällt und zum Beispiel tragen die übermäßig viele, glaube ich, noch auf.
+Gut, so, das war das Thema, was ich Ihnen zu Behälter sagen wollte. Gibt es dazu noch Fragen?
+Ja, nein, vielleicht.
+Also falls Sie eine Abschlussarbeit haben
+und es geht um das Behältermanagement,
+die sind in der Regel sehr dankbar
+und schön, solche Arbeiten. Man kann was sehr
+Praxisnahes machen, man hat
+sehr häufig Potenzial zur Verbesserung.
+Also insofern, wenn Sie so eine
+Abschlussarbeit angeboten bekommen, machen Sie das.
+Die machen auch meistens sehr viel Spaß.
+Gut, dann können wir zum Kapitel 3 wechseln, das sehen Sie hier auf der Zivilrahmenansage.
+Wenn Sie auf Moodle gehen, da finden Sie Kapitel 3.
+Ich warte kurz, bis Sie es daumengelobelt haben.
+Moodle nochmal einloggen und dann finden Sie da PPL-Teilreihe.
+Vielen Dank.
+So, jetzt sind wir noch ganz schön weit gekommen.
+Wir haben also die strategischen Überlegungen gemacht.
+Also wir sind uns bewusst geworden, dass einfach mal ganz wichtig ist,
+was für Produkte bieten wir eigentlich an, was ist Make-up-Wine.
+Also wenn oben der Chef sagt, das ist nicht Teil unseres Fertigungsportfolios,
+Portfolios, sondern das kaufen wir zu, dann hat das natürlich eine massive Auswirkung
+auf unser Produktionsprogramm, auf unseren Aufbau, unsere Fertigung und natürlich, was
+wir alles planen müssen.
+Genauso können wir nicht von unten entscheiden, hey, wir machen daraus eine Einkaufsentscheidung,
+weil letztendlich, wenn wir als einfach operativer Mitarbeiter entscheiden, wir kaufen das jetzt
+zu, dann hat das natürlich auch massive Auswirkungen drauf, was auf unserem Werksgelände passiert.
+Das heißt, wir brauchen bestimmte Maschinen nicht mehr, wir brauchen bestimmte Mitarbeiter
+nicht mehr. Wir ändern eigentlich unsere
+Kernkompetenz beim Vorhaben.
+Deswegen, Make-or-Buy
+ist natürlich auch die Fertigungstiefe.
+Das ist eine strategische Entscheidung,
+die mit auf unsere
+operative Ebene runterläuft.
+Was macht man denn
+in der operativen Ebene? Da geht es jetzt tatsächlich
+um die Steuerung. Wie steuere
+ich einen Auftrag durch die Fertigung durch?
+Und die Theorie ist da ganz
+einfach, weil ich einfach diesen Auftrag
+verfolge, ich terminiere ihn,
+ich tue ihn auf Maschinen drauf,
+Und dann warte ich auf eine Rückmeldung ab und dann ist er hoffentlich irgendwann fertig.
+Die Komplexität entsteht daraus, dass wir in der Fertigung in der Regel nicht einen Auftrag haben, sondern viele.
+Und die kommen sich gegenseitig in die Quere.
+Das heißt, ich muss viele Aufträge managen und hoffe dann, dass diese Aufträge alle rechtzeitig fertig waren am Ende.
+Das ist die große Herausforderung einer Fertigungsteuerung.
+Und wir haben das schon in der letzten Vorlesung auf der taktischen Ebene gelernt,
+dass je mehr ich natürlich in so eine Fertigung reingebe, umso mehr Potenzial für Arbeit ist da
+natürlich da. Aber diese Aufträge, die blockieren sich gegenseitig. Das ist genauso, wenn Sie viel
+zu tun haben und es kommt ein neuer Auftrag von Ihrer Mutter dazu, der ganz einfach nur lautet,
+besorgt bitte geeinkaufen, besorgen wir ein paar Eier zum Backen. Dann sagen Sie, boah, ich habe
+aber noch 7 andere Sachen zu tun, da komme ich erst übermorgen dazu. Dann haben Sie eine lange
+die Durchlaufzeit. Aber es wird schon irgendwie gemacht, sie sind gut ausgelastet. Wenn allerdings
+dieser Auftrag einfach, wenn Aufträge so lange zurückgehalten werden, bis sie auch
+tatsächlich fertig sind, dann werden die schneller abgearbeitet. Und das ist etwas,
+was ein bisschen, wie haben wir gesagt, unser Counter-Programm tötet. Also was gegen die
+Intuition ist. Man möchte viel Arbeit reingeben, damit auch viel Arbeit erledigt wird. Aber
+tatsächlich sind wir schneller, wenn Arbeit in eine Art Takt eingeben wird. Also das,
+was wir abarbeiten, wird dann auch schneller bearbeitet. Wir schaffen dadurch nicht mehr,
+ganz klar, aber wir schaffen eine bessere Durchlaufzeit. Also unser Response-Time wird
+besser, wenn Aufträge gezielter eingelassen werden. Das ist der große Vorteil. Wir kriegen
+dafür nicht mehr Kapazität, aber wir werden schneller. Und das ist etwas, was man natürlich
+natürlich mitnehmen kann, wenn man Fertigungssteuerung macht.
+Wir werden uns erstmal ganz kurz Fertigungssteuerung, Fertigungsauftrag und Disposition anschauen,
+ein paar Auszüge auch aus dem SAP und wie die Schichtsysteme dazukommen und die Auftragsthematiken.
+Und dann warten wir tatsächlich im nächsten Kapitel, das sind wir dann schon bei Kapitel 7,
+das ist relativ kurz, Kapitel 8, warten wir noch sehr viel länger.
+Ich denke, das wird uns auch die nächsten zweieinhalb Vorlesungen beschäftigen.
+Wenn wir das dann weg haben, machen wir die Fertigungsvorbereitung.
+Gut, fangen wir an.
+Was müssen wir denn berücksichtigen?
+Erstmal, wie weit eine Fertigungssteuerung findet es statt, was ist ein Fertigungsauftrag und was ist die Disposition?
+Die Fertigungssteuerung hat, wie viele sind es, die hier sehen, viele Synonyme.
+Manche sagen auch Produktionssteuerung dazu, weil Produktion ist ja die Summe von Fertigung und Montage.
+Was sich nicht durchgesetzt hat, ist Montagesteuerung.
+Also ich sage immer, wenn es eigentlich eine Fertigungssteuerung gibt,
+müsste es ja auch um die Montagesteuerung gehen.
+Gibt es aber in der Regel nicht.
+Das heißt einfach alles Fertigungssteuerung oder Produktionssteuerung.
+Kurz PPS, Produktionsplanungssteuerung.
+Mit was arbeitet die Produktions- und Fertigungssteuerung?
+Der Hauptdokument, mit dem Sie zu tun haben, ist der sogenannte Fertigungsauftrag.
+Was ist der Fertigungsauftrag?
+Das ist im Prinzip der Arbeitsplan, hinterlegt mit Terminen.
+Sobald ich einen Arbeitsplan habe und dem Termine zuweise, sowie definitive Betriebsmittel und Mitarbeiter, habe ich einen Fertigungsauftrag.
+Wenn mir das innerbetrieblich was gemacht wird, brauche ich einen Fertigungsauftrag.
+Was für den Lieferanten die Bestellung nach außen ist, ist nach innen der Fertigungsauftrag.
+Das werden Sie auch relativ schnell feststellen, wenn Sie wollen, dass eine Firma was gemacht
+ist, dann ist immer die Frage, was für einen Fertigungsauftrag dazu, auf welchen Fertigungsauftrag
+soll das richtig gehen.
+Das ist eine ganz klassische Aussage, ohne Fertigungsauftrag wird in der Regel nichts
+gemacht.
+Über den Fertigungsauftrag werden Produktionsmengen und Termine, Materialien, Kapazitäten und
+Ist-Daten einfach zusammengefasst.
+Das ist einfach das Kerninstrument in der operativen Steuerung.
+Und dann erwartet natürlich der Fertigungssteuerer eine Rückmeldung. Wo steht mein Fertigungsauftrag?
+Mit Bestellung gibt es nur eine Auftragsbestätigung, aber beim Fertigungsauftrag erwartet der Fertigungssteuerer, dass nach jedem Arbeitsschritt gemeldet wird,
+jo, ich bin die Fertigung, so und so viel habe ich geschafft.
+Und damit wird der Auftragsfortschritt erstattet.
+Die Hauptaufgabe der Fertigungssteuerung ist erstmal den Auftrag zu veranlassen, dann den Auftrag zu überwachen
+und wenn etwas schief geht, den Auftrag zu sichern.
+Also fangen wir mal an mit der Auftragsveranlassung.
+Also Auftragsveranlassung, das heißt, was machen die?
+Erstmal Fertigungsaufträge so aufreihen, dass es eine sinnvolle Reihenfolge ist.
+Stellen Sie sich vor, Sie werden jetzt von irgendeiner anderen Person gemanagt,
+also Ihre Mama ist jetzt die Managerin und die überlegt sich jetzt auch,
+welche Aufträge soll sie
+jetzt ihnen übergeben und die versucht es natürlich
+dann auch in einer sinnvollen Reihenfolge zu machen.
+Also so nach dem Motto,
+erst das Vorstellungsgespräch
+und dann ein Kaufgegen.
+Wichtigkeit
+ist zum Beispiel so wichtig.
+Dann natürlich auch
+die Termine, wenn jetzt irgendjemand
+vielleicht jetzt am 15. Dezember Geburtstag hat,
+dann wird erst das Geburtstagsgeschenk
+gekauft und dann das Weihnachtsgeschenk.
+Wichtige Terminierung.
+Dann wird natürlich auch geguckt,
+Sind die Materialien da, dass man was herstellt?
+Also ich gebe nicht etwas frei, wo ich genau weiß, da fehlen Formate rein.
+Das sind also alles so Themen, dass ich mir anschaue, was für Fertigungsaufträge liegen denn vor
+und was ist eine sinnvolle Reihenfolge.
+Und jetzt kommt eben der Moment, wo man feststellt, ob es eine gute Fertigungssteuerung ist oder nicht.
+Schlechter Fertigungssteuerer gibt einfach alles frei.
+Ein guter Fertigungssteuerer lässt einfach die Fertigungsaufträge tröpfchenweise in die Produktion,
+damit einfach die Durchlaufzeiten niedriger sind.
+Daneben wird der Auftragsbestand verwaltet.
+Auch dazu ganz wichtig, eine regelmäßige Rückmeldung an den Vertrieb und an das Management,
+zu sagen, Leute, wir sind voll.
+Unsere Kapazität liegt bei 130 Prozent aktuell, unsere Ausmaßnummer.
+Wie stellt ihr euch das vor?
+Jeden Auftrag, den ihr reinbringt, wird mit einer Zeitverzögerung wieder rauskommen.
+Aber auch das gehört zu einer unfertigen Steuerung, zu sagen, jetzt ist mal gut, beziehungsweise wir müssen uns Gedanken machen, wie wir mit dieser Kapazitätsübung auskommen.
+Dann sind die für verantwortlich, Arbeitspapiere anzulegen. Arbeitspapiere ist natürlich ein sehr veraltender Begriff, weil es heute keine Papiere mehr sind.
+Also diese Dokumente sind in der Regel alles nur noch als Software da.
+Aber ganz viele machen ganz einfach eine Auftragskarte mit einem Barcode oder einem QR-Code drauf,
+das dem Material beigelegt wird.
+Und über diesen QR-Code komme ich dann an die Zusatzdaten, die ich benötige.
+Und die sind einerseits mal Terminkarten, damit man weiß, wann muss welcher Auftrag sein.
+Genauso Laufkarten.
+Das ist dann genau das, die Rückmeldung.
+Da ist ein Barcode dran, wo man dann sagen kann, ja, melde dich zurück.
+Oder einen Haken, wo man sagt, ich bin fertig.
+Dann Materialentnahmescheine.
+Gibt es auch nur noch digital.
+Nur wenn ich so einen Materialentnahmeschein habe, bekomme ich auch auch Material aus dem Lager.
+Das könnte ja jeder vorbeigehen und sagen, ich gehe mal shoppen.
+Sondern ich brauche so einen Schein, damit ich auch tatsächlich was abarbeiten kann.
+Und dann natürlich auch noch Lohnscheine, auch die gibt es heute nicht mehr ausgedruckt.
+Da wird halt gemeldet, wer hat was gemacht.
+Also das ist so ein Motto, hier ist Arbeit, hier meldet sich jemand und dann wird das abgearbeitet.
+Früher waren die Lohnscheine tatsächlich so kleine, längliche Zettelchen.
+Und die haben die Leute dann natürlich mit jedem Auftrag ausgenommen und gesammelt.
+Und am Ende des Tages oder der Woche sind sie dann mit so einer Stapel Lohnscheine zur Kasse gegangen.
+Dann hat die Frau in der Kasse die Lohnscheine abgezählt und für jeden Lohnschein gab es eben entsprechend D-Mark.
+Und dann haben die ihr Gehaltstücher bekommen.
+Das war natürlich anders.
+Und dann kann es natürlich sein, dass du Auftrag, die Zeichnung brauchst.
+auch wieder meistens digital, aber ich kenne ganz viele Firmen, die diese Zeichnungen tatsächlich
+noch plotten, damit man die einfach aufhängen kann und auch reinschmieren kann oder sonst was.
+Das ist halt meistens den meisten Leuten doch noch näher als wenn es nur digital ist. Dann kann es
+zum Beispiel sein, dass Prüfpläne anhängen, wo man dann einfach sagt, da muss abgehakt werden,
+beziehungsweise da muss gegengecheckt werden. Dann auch ganz andere Checklisten, wurde was gemacht,
+wurde was festgeschraubt, wurde eine Dichtung verbaut. Das ist vor allem Luft- und Raumfahrt
+wichtig, dass einfach viele Schritte dokumentiert werden müssen. Und das ist etwas, was man
+erstmal vorrangig machen muss. Wie gesagt, das weißt ihr heute digital. Der nächste
+Schritt, was dann so eine Fertigungssteuerung macht, das macht er meistens am Morgen. Am
+Morgen sortiert er seine Aufträge und gibt Aufträge. Dann das Nächste, was er da macht,
+am nächsten, wenn er vor Mittag dazu kommt, dann macht er die Auftragsüberwachung. Dann
+schaut er erstmal genauer an, wo stehen denn meine Aufträge, wo sind sie, wo hätten sie
+Was haben sie gestern geschafft, die Leute? Wo gab es einen Maschinenstillstand?
+Wo sind sie zu schnell fertig geworden? Wo war das Material rum?
+Wo haben wir zu viel Ausschuss gemacht?
+Und das erfahren sie aus den Rückmeldedaten.
+Im Zweifel gehen die natürlich auch mal raus und gucken sich Sachen direkt an.
+Oder triggern das Qualitätsmanagement und sagen,
+guck dir mal an, ob das wirklich Ausschuss ist.
+Vielleicht können wir es noch weiterverarbeiten.
+Und in so einer Rückmeldung, es sind halt immer Auftragsnummern,
+Arbeitsbedingungen, Fertigungsstellen.
+ist Produktionszeit drin, die Gutmenge, ganz wichtig, die Produktionsmenge und der Ausschuss.
+Ausschuss plus Produktionsmenge, oder Ausschuss minus Produktionsmenge ist ja die Gutmenge.
+Dann, was wurde nachgearbeitet?
+Vor allem, wie viel Aufwand ist das?
+Weil das natürlich die Kostenkalkulation durchgegangen wird.
+Der Arbeitsplatz, wo er das gemacht hat, die Personalnummer,
+vielleicht habe ich eine Auffälligkeit, ich habe vielleicht einen Mitarbeiter,
+der regelmäßig diesen Auftrag verballert.
+Die Kostenstelle und dann natürlich ganz wichtig, wo hat es denn abgelegt?
+Sie wissen gar nicht, wie viele Aufträge in so einer Firma verloren gehen können, wenn es etwas unordentlicher ist.
+Also alles so passt, wir sind in der Rückmeldung da drin.
+Und deswegen findet man Produktionssteuer meistens ab 10 Uhr auch immer in der Verlegung.
+Und laufen los.
+Kommen natürlich jetzt auch wieder auf die Länge der Aufträge drauf an.
+Wenn Sie jetzt natürlich so einen Auftrag haben, der grundsätzlich drei Wochen in der Verlegung hängt,
+Da machen die Montag, Dienstag, wie der Auftragsplaner, Mittwoch, Donnerstag die Auftragssicherung und überwachen.
+Okay, also das hängt natürlich immer von den Zeitläufen ab.
+Gut, und dann bekennen die halt ihre Aufträge und schauen, dass die einigermaßen rechtzeitig fertig sind.
+So, und jetzt gibt es zwei wesentliche Ausprägungen der Fertigungssteuerung.
+Einerseits kann ich Fertigungssteuerer sein in einer Firma, die nur Lageraufträge macht.
+Also die sagen, wir produzieren auf Lager und kaufen und verkaufen aus dem Lager raus.
+Ganz klassisch Massenproduktionsware wie Klamotten.
+Sehen wir mal zum Beispiel H&M an, die einfach weiße T-Shirte verkauft.
+Das Ganze kann aber natürlich auch ein Hersteller von Schrauben sein, ein Hersteller von Bolzen.
+Also einfach auch Normware, wo es einfach darum geht,
+möglichst einfachen Fertigungsablauf zu haben, dass man günstig Produkte herstellt.
+Der Vorteil von diesem ist natürlich, der kann alles standardisieren.
+Der hat standardisierte Planungs- und Steuerungsprozesse.
+Der will, dass er ein ordentliches Produktionsergebnis hat und achtet erstmal nicht auf die Auftragsnummer.
+Und er macht natürlich seine Produktionsmenge anhand Erfahrungswerte fest.
+Das heißt, der ist davon abhängig, dass der Vertrieb und das Management gute Schätzzahlen einstellt, gute Planungszahlen, was er produzieren soll.
+Dann natürlich guckt er, wie sein Sekundärbedarf ist, guckt natürlich auch immer auf freie Kapazitäten drauf.
+Dann macht er die Kapazitätsplanung auch mit langfristiger Anpassung. Er gibt die Fertigungsaufträge nach Kapazitätslage frei oder hält sie zurück.
+Und diese Fertigungsunterlagen sind in der Regel standardisiert.
+Fertigungssteuer in der Lagerfertigung haben in der Regel ein sehr entspanntes Leben.
+Muss man ehrlich sagen.
+Das größte Problem, was die haben, sind längere Produktionsstellstände,
+beziehungsweise wenn sich die Mode ändert, dann haben die einen Stress.
+Also wenn sie plötzlich feststellen, oh mein Gott, mein Lager läuft voll und keiner kauft ab,
+dann kriegen die in Stress, weil sie sich dann plötzlich überlegen, ja wie plane ich jetzt um.
+Fertigungssteuerung bei Kundenauftragsfertigung ist eine andere Nummer.
+Das haben wir mit in der Automobilindustrie drin, aber auch zum Beispiel der Liebhaber, der Goldhofer.
+Wer macht das noch alles? Der HW macht da auch Fertigungsauftragssteuerung nach Kundenaufträgen.
+Also es sind relativ viele hier in der Gegend, die Fertigungssteuerung haben und das ist mehr Projektmanagement.
+Die müssen natürlich erstmal termingerecht den Kundenauftrag erfüllen. Der Kunde wollte etwas pinkes mit runden Ecken. Und der wollte es zu einem bestimmten Zeitpunkt. Während bei einem Lagerauftrag gibt es eben diesen Variantenreichtum nicht.
+Ich weitergehe nach Kundenspezifikation und da geht es natürlich hier, das große,
+große Problem, wenn ich nach Kundenspezifikation fertiggehe, muss ich jeden Arbeitsplan durchgehen,
+dass der Kundenwunsch drinsteht. Da kann ich nicht copy-paste machen. Da muss ich schauen,
+ob alle Bolzen dann auch von grün auf pink geändert wurden. Ich habe bei der Firma Golschow
+vom Praktikum gemacht und die müssen auch jeden Auftrag durchgehen, jeden Arbeitsplan
+und sagen, stimmt es jetzt zu dem, was der Kunde bestellt hat. Und das waren, der Kunde
+hat fünf Module bestellt, dann hat der den Arbeitsplan von einem anderen ähnlichen Modell
+genommen, Copy-Paste gemacht, hat aber vergessen, dass der andere Arbeitsplan nur vier Module
+hatte. Also da war konsequent immer ein Bauteil zu wenig drin. Das hat einen riesen Stress
+in der Fertigung machen.
+Also das heißt,
+dann muss ich dann genau schauen,
+was hat der Kunde bestellt.
+Da können Sie nicht sagen,
+Sie machen 23 mal die Sache-Torte,
+sondern da machen Sie einmal die Sache-Torte,
+dann machen Sie eine mit Pinke-Bezug,
+da machen Sie drittens mit
+Abwehrfüllung, viertens machen Sie
+Glutenfrei, fünftens ohne Zucker und so weiter.
+Also müssen Sie
+alle Kundenaufträge
+bezogen mit Arbeitsunterlagen
+nochmal anschauen, Stücklisten,
+Arbeitspläne und so weiter. Die gesamte Produktion ist auftragsbezogen. Das heißt,
+sie sind in der Regel nie bei 100 Prozent Auslastung. Sondern, wenn eben die Kunden
+jetzt mehr lackierte Bauteile bestellen, dann ist vermutlich ihre Lackiererei besser ausgelastet.
+Wenn die Kunden allerdings mehr Blechteile wollen, dann haben sie halt ihre Blechbühre
+eher ausgelastet. Das ist ein Nachteil von der Auftragssteuer oder Auftragsfertigung,
+dass die Auslastung eher schwankend ist.
+Und das macht es halt dann auch ein bisschen teuer.
+Dann ich plane für konkrete Kundenaufträge.
+Das heißt, ich bin auch abhängig von Kundenaufträgen.
+Und das ist natürlich auch kurzfristig.
+Ich muss immer das, was der Kunde will, auflösen,
+damit ich weiß, was mein Sekundärbedarf ist.
+Ich kaufe auch dann nur ein, was der Kunde will.
+Da habe ich zum Beispiel ein großes Problem,
+wenn ich im Sekundärbedarf Langläufer drin habe.
+Also wenn ich dann etwas habe, was sehr lange Bestellung braucht,
+Der Kunde will es aber in zwei Monaten haben. Die Bestellung dauert auch vier Monate.
+Großes Problem, kämpfen auch viele von mir damit.
+Kapazitätsplanung orientiert sich am Bedarfstermin der Kundenaufträge und Kundenaufträge werden meist naheinander freigegeben.
+Und wie gesagt, je nachdem, was da gerade fertig ist.
+Wichtig ist hier die Rückmeldung, weil sonst weiß ich ja nicht, wo der Kundenauftrag steht, ob wir Termine halten können.
+und die Produktion macht nur auf diese Fertigungsaufträge drauf, also nichts auf Lager.
+Und wäre es nicht spannend genug, gibt es relativ viele Mischformen.
+Also es gibt nicht nur die Lagerfertigung oder die Auftragsfertigung, es gibt auch Mischformen.
+So, wenn Sie bei mir auf BWL hatten, dann kennen Sie die Folie schon, der OPQ und der Mischform.
+Das bestimmt, wie viel Stress Sie in der Fertigung haben.
+Wie gesagt, Lagerfertigung ist in der Regel wenig Stress, weil Sie einfach ein groß genügendes Lager brauchen und Sie können nur produzieren.
+Dass es abverkauft wird, ist das Problem vom Vertrieb, nicht Ihres.
+Das ist einfach was Schönes.
+Der Kunde kann nicht in Ihre Fertigung reinlegen.
+Was noch einigermaßen manageable ist, wenn der Kunde in die Montage reinredet, das sind dann meistens so Variantensachen.
+Möchte er eine graue Abdeckung oder eine schwarze Abdeckung?
+Möchte er ein Edelstahl-Casing oder ein normales Casing?
+Möchte er Motor A oder Motor B?
+Ja, dann nehme ich halt aus der Montagekiste das raus, was der Kunde möchte und baue es zusammen.
+Geht meistens relativ einfach noch in einer Auftrags-Montage.
+Die Steuerung ist noch akut zu helfen.
+Schwierig wird es dann der Auftragsfertigung, weil da kommen Sie umso mehr ins Projektmanagement rein.
+Das heißt, die Kunden können sogar mitreden, wie bestimmte Bauteile gefertigt werden.
+Das heißt, Dimensionen, wie groß wird was aus dem Blech rausgeschnitten.
+Sie können auch sagen, wie wird was gefräst.
+Sie können die Fertigungsverfahren bestimmen.
+Und damit werden auch die Durchlaufzeiten in der Regel länger.
+Da muss der Kunde länger warten.
+Die Automobilindustrie, die hängt zwischen den Beinen.
+Warum?
+Wissen Sie das noch?
+Warum ist die Automobilindustrie keine reine Auftragsmontage, aber auch keine reine Auftragsfertigung?
+Das hängt an der Lackiererei, weil Lackieren ist ein Fertigungsverfahren, kein Montageverfahren.
+Aber Sie können als Kunde ja ganz häufig die Lackarbeit bestimmen.
+Prinzipiell wünscht sich die Automobilindustrie eine Auftragsmontage zu sein, aber dadurch, dass sie den Kunden gesagt haben, sie dürfen die Farbe bestimmen, haben sie sich so ein bisschen in die Auftragsfertigung beigedrückt.
+Und das macht es halt komplex, weil die Lackiererei ist so unglaublich früh im Montageprozess drin.
+Das muss ja als allererstes geschehen. Da kehrt man voraus, vor allem auch mit den Varianten und Vielfalt und so weiter, ist so viel dran, dass halt der Kunde da bis drei, vier Wochen führen muss.
+Außerhalb Konkurrenz ist die sogenannte Sonderproduktion. Das sind sie in der Regel bei jeder Art von Projektmanagement.
+Gotthardtunnel, Flughafen Berlin und so weiter. Aber halt dann auch, es sind bestimmte Projekte,
+wo Sie halt einfach alles für den Kunden erst einmal bestellen müssen. Sie bestellen die
+Stahlmenge, die Sie brauchen für das Kundenprojekt. Sie definieren, was wird konstruiert. Also wenn
+Sie zum Beispiel zu einem wirklichen Sonderfaktor gehen, was ja der Liebherr auch macht, dann fängt
+Es geht ja hier ganz ganz vorne an und die Beschaffung läuft erst los, wenn man sich was überprüft.
+Klar haben wir ein bisschen Lager für den Standard, was wir hier als Blech immer brauchen,
+aber da fangen Sie ganz vorne an.
+Und das Spannende finde ich, wenn Sie in die Kleidungsindustrie gehen, da finden Sie alles.
+Ganz oben haben Sie H&M und C&A.
+Das nächste, was Sie dann haben ist, wenn eben die Auftragsmontage,
+Das ist, wenn in einem T-Shirt vielleicht noch irgendwie gestickt wird oder wenn da noch was aufgebügelt wird und so weiter.
+Dann die Auftragsfertigung ist, Sie gehen zu einem Schneider und wählen aus dem Portfolio aus, was er hat,
+dass Sie jetzt einen Anzug schneiden haben möchten.
+Und wenn Sie die Sonderproduktion haben, das ist, wenn natürlich Stoffe für Sie besorgt werden,
+Weil Sie jetzt irgendwie ein Albi von einem schottischen Clan sind und dann muss natürlich ein Voltatanas bei einem Shetland-Pony, Shetland-Schäfer bestellt werden.
+Kann alles sein.
+Also das sind so die Themen, das haben Sie bei mir.
+Auch die Automobilproduktion könnte man, wenn man ganz ehrlich ist, alles einsortieren.
+Weil der Automobil ist ja ein breites Feld.
+Also gehen wir mal davon aus, Sie kaufen sich so ein Dacia Duster von der Stange, ganz oben.
+Deswegen ist es auch so günstig.
+Dann haben Sie die Auftragsmontage.
+Das ist dann im Zweifel, wenn Sie sagen, Sie haben eine bestimmte Farbauswahl gegeben,
+aber Sie können nur noch ganz begrenzt sagen, was Sie an Ausstattungsmaßnahmen wollen.
+Dann der klassische, wenn Sie ein Auto tatsächlich konfigurieren bei Volvo, BMW, Audi, dann sind Sie hier.
+Und das hier ist natürlich das Papa-Mobil. Also ein Papst bestellt ein Fahrzeug oder ein Staatslenker möchte natürlich sein, ein Rolls-Royce mit extra schlüssigeren Scheiben und all dem.
+Okay, also manche Industrien finden hier sich überall über.
+Gut, zu deutsch nennt sich das der Kundenauftrag-Entkopplungspunkt, falls Sie das interessiert.
+Ich finde beim Scrumming ist das ein tolles Wort.
+Ich glaube, das passt aber nicht aufs Brett, oder?
+So, und wie gesagt, hier oben rein prognosegetrieben.
+Man hofft einfach, dass das, was man produziert, auch verkauft wird.
+wird, während hier rein auftragsgetrieben nur das, was der Kunde auch tatsächlich bestellt hat,
+wird verkauft. Und das hängt halt dann auch mit Lieferzeiten zusammen. Wenn Sie hier oben kaufen,
+kriegen Sie es sofort. Stellen Sie sich McDonalds vor. Da gibt es ja immer den Cheeseburger,
+den Sie sofort mitnehmen können. Der ist schon vormontiert, blieb da an der Aussage,
+können kaufen. Wenn Sie hier sagen, Sie wollen noch eine extra Käsescheibe drauf oder so weiter,
+Dann sind Sie hier in der Montage, da müssen Sie ein bisschen warten, bis Ihr Cheeseburger fertig ist.
+Das da unten, das macht McDonalds nicht für Sie.
+McDonalds macht für Sie nicht den Gluten-Frame-Heading.
+Macht es nicht.
+Aber, wenn Sie dann natürlich hier sagen, Sie gehen in ein Restaurant und wollen eben das Bestimmte haben,
+dann kann es durchaus sein, dass der Küchenchef sagt, ja, stelle ich für Sie her, kommt drauf an,
+wie weit Sie schon auf Prämien umgestellt haben.
+Aber wenn Sie sagen, Sie hätten gerne die Soße ohne Champignons, dann macht er das für Sie.
+Das Problem ist ja immer, wenn Sie etwas abbestellen.
+Wenn Sie etwas dazu bestellen, geht es heute gar nicht weiter.
+Und hier unten, das ist natürlich hier das Schwierigste und das Langwierigste,
+da müssen Sie warten als Kunde.
+Das geht nicht sofort.
+Weil wie soll es funktionieren, dass Sie als Kunde sich gerade klar machen, was Sie wollen,
+dass es dann rausfällt.
+Also wie heißt das bei Star Trek, der Replikator ist leider noch nicht erfunden.
+Gut, kommt denn jemand zum Start-Check? Noch jemand?
+So, und dann hat natürlich dieser Fertigungssteuerer das große Problem,
+dass er alle diese Kapazitätseinheiten zur richtigen Zeit wirksam warten lassen muss.
+Er bekommt in der Regel vom Management vorgegeben, was seine Schichtplanung ist.
+Er bekommt die Mitarbeiter hingesetzt.
+Er kann halt maximal eine Rückmeldung geben, ist zu viel oder zu wenig.
+und dann musst du damit arbeiten.
+Aber man hat auch ein paar Gestaltungsmöglichkeiten.
+Zum Beispiel, das ist mal ein Plan von Audi, glaube ich war es.
+Die haben eine klassische Zweischichtbeziehung gefahren.
+Sehen Sie, ganz klassisch, zwei Truppen, Montag bis Freitag,
+Frühschicht, Spätschicht, Spätschicht, Frühschicht,
+alle zwei Wochen wiederholt sich dieser Plan.
+Der durchschnittliche 40-Stunden-Woche, man hat acht Stunden gearbeitet
+Und damit haben sie in der Woche 80 Stunden rausgebracht.
+Okay?
+Nachvollziehbar, oder?
+Der Klassiker.
+Allerdings kann man das Ganze natürlich auch kreativer auslegen.
+Die haben in den 90er und 00er Jahren festgestellt, dass die Leute andere Arbeits- und Zeitmodelle fahren wollen.
+Also es gibt Leute, die wollen keine Teilzeitarbeit.
+Es gibt Studierende, die sich das Studium irgendwie nebenzu noch finanzieren müssen.
+Es gibt andere Menschen, die sagen,
+ja, also, ich weiß nicht, wenn ich sie Montag bis Freitag
+arbeiten, das fällt ihnen dann auf, hat das schon mal jemand
+gemacht, 40 Stunden Arbeit?
+Sie müssen für jeden Arzttermin Urlaubstag
+oder Gleichzeit gehen.
+Sie können nur dann einkaufen,
+wenn alle einkaufen gehen, abends.
+Aber wissen Sie, wie geil
+es ist, am Donnerstagvormittag einkaufen
+zu gehen, wenn keiner in den Läden ist?
+Studenten kennen wir das noch, oder?
+Ja, also, das wäre doch blöd, wenn man dann sagt,
+ich gehe am Donnerstag um 50
+und sitzen und einkaufen und alle hin und wieder stürmen.
+Ich meine, heutzutage nicht mehr ganz so schlimm,
+weil Internet ist ihr Freund.
+Aber das ist das große Problem.
+Sie sind im Prinzip dann arbeiten, wenn alles aufhört.
+Ich meine, nehmen Sie mal eine Sparkasse.
+Die Öffnungszeiten sind ja inzwischen gefälscht.
+Müssen Sie Urlaub nehmen, um ein Konto zu eröffnen.
+Juhu, toll.
+Und das haben Sie halt ganz oft,
+also wie gesagt, meistens mit dem Thema Arzttermin.
+Und dann haben Sie gesagt,
+ja, wir könnten doch mal das Ganze anders denken.
+Und die haben einfach gesagt, wir machen mal drei Gruppen.
+Eine Gruppe A, eine Gruppe B, eine Gruppe C.
+Dann kam gleichzeitig noch dazu, dass es einen Tarifvertragwechsel gab.
+Das heißt, sie durften gar nicht mehr 40 Stunden arbeiten, sondern nur noch 37,5.
+Und dann hatten die zum Beispiel die Idee für so einen Arbeitsplan.
+Es ist natürlich etwas komplizierter, weil ich nicht mehr weiß,
+wie die zweite Woche alle Spätschicht, sondern die Gruppe A,
+die hat erstmal Frühschicht von Montag bis Donnerstag.
+Und dann hat sie ein langes Wochenende, Freitag, Samstag, Sonntag.
+Dann haben Sie Spätschicht und das ist halt jetzt einmal eine Rabi-Woche, Montag bis Freitag.
+Okay?
+Dann haben Sie ein ganz langes Wochenende, Samstag, Sonntag, Montag, Dienstag.
+Aber dafür müssen Sie in der dritten Woche am Samstag arbeiten, in der Frühschicht.
+Geht's weiter?
+Dann haben Sie die nächste Woche Spätschicht, Dienstag, Mittwoch, Donnerstag, Freitag.
+Dann haben Sie wieder Frühschicht, Mittwoch, Donnerstag, Freitag, Samstag und wieder Spätschicht und dann geht es wieder von vorne los.
+Und dann kommen Sie im Schnitt auf Ihre 730,5 Stunden.
+Mal haben Sie zwar eher die 44-Stunden-Woche, dafür haben Sie aber auf der anderen Seite mal eher die 32-Stunden-Woche.
+Also alles, aber es ist natürlich schön, wenn man Termine plant.
+Sie wissen, es ist ja sechs Wochen voraus, was Sie machen müssen.
+Können wir auch ein langes Wochenende, keine Ahnung, Urlaub machen.
+Städte-Züge oder so.
+Von Sonntag bis Dienstag, warum nicht?
+Die zweite Schicht, die ist ähnlich belastet.
+Also die ist auch Spätschicht, Frühschicht, Spätschicht, Frühschicht, Spätschicht, Frühschicht immer wieder
+und halt entsprechend andere Wochentage.
+Und dann hatten wir hier noch den Crew und haben gesagt, ja, wir machen noch eine Arbeitsgruppe C.
+Die ist im Prinzip Teilzeitbonus.
+Und die sind vorrangig über die Wochenenden eingeteilt
+und die haben vorrangig Dienstag, Mittwoch, Donnerstag frei.
+Natürlich ab und zu kommt mal ein Dienstag rein, aber die arbeiten nur zwei bis drei Tage die Woche.
+Und das kann natürlich dann spannend sein für Eltern, die nur Teilzeit arbeiten wollen,
+die Freuungsgepässe haben, als Beispiel.
+Da können also zwei Eltern hier arbeiten und sich gegenseitig um den Weg gehen.
+Wenn man dann in der Gleichzeit in der Maschine steht, ist das gut.
+Also kann man auch das Kind sich gegenseitig zuschmeißen, als Beispiel.
+Dann ist es natürlich auch spannend für Studenten, für Leute, die einfach sagen,
+ja, ich will grundsätzlich nicht so viel arbeiten.
+Das ist ja heute auch.
+Leute, die zum Beispiel gesegnet sind, müssen nicht arbeiten.
+Nun gut.
+Und das ist etwas, was man vielleicht auch einführen kann.
+Der Vorteil ist natürlich, ich habe den Samstag, ohne dass der eine volle Schicht ist.
+Weil hier habe ich acht Stunden am Tag.
+Und dann, wenn ich auf den Samstag gehe, wird es bei 48 Stunden.
+Da bin ich natürlich sehr schnell arbeitslos, wenn ich letztlich ein Problem zu mir bin.
+Plus ich habe das Problem, dass ich die Teilzeitarbeiter schlecht unterbringe, weil die ja nur Samstag arbeiten dürfen.
+Indem ich die Arbeitstage verlängere und den Samstag hier dazu nehme, also immer die Frühschicht noch am Samstag einführe,
+schaffe ich es plötzlich 99 Stunden in der Woche zu arbeiten, statt 80.
+Können Sie einfach mal schauen, wie viel Prozent wo alles mehr ist.
+Gleichzeitig haben alle gewonnen.
+Wir müssen statt 40 nur 37,5 Stunden arbeiten. Das passt also zu meinem Thema.
+Ich bekomme viel besser die Teilzeitarbeiter um, bzw. Leute, die ein flexibles Schichtmodell haben wollen.
+Und die Leute haben sogar noch Wochentage frei, um sich um ihre eigenen Themen zu kümmern.
+Das ist der Planungsumfang, dann natürlich haben die Leute 9-Stunden-Tage, das kann natürlich auch um und wecken, wenn wir bisher gewohnt waren um 8 Stunden zu arbeiten und dann geht man auf 9 hoch, also mir würde es jetzt nichts ausmachen, aber es gibt durchaus Leute, die sagen, dafür arbeite ich nur manchmal nur 4 Tage, also ist halt auch eine Frage, wie man es verkauft.
+Und es ist natürlich auch in Summe komplexer.
+Das heißt, ich muss das meinen Leuten natürlich verkaufen.
+Ich muss den Leuten dann mehr oder weniger Termine einstellen und sagen,
+da musst du zur Arbeit kommen.
+Also das kann dich vielleicht ein oder andere ein bisschen überfordert fühlen,
+so nach dem Motto, oh mein Gott, da muss ich da stehen.
+Ja, wie gesagt, leckerer Arbeitstag.
+Dann vier Tage noch sind es ermöglicht.
+Und wie gesagt, ich muss halt aufpassen,
+dass die werktägliche Arbeitszeit nicht über zehn Stunden geht.
+aber das sollte hier nicht das große Problem sein.
+Und ich muss natürlich auch, also ich brauche sie eigentlich nicht,
+weil samstags darf ich ja arbeiten, samstag ist ja ein Tag,
+aber ich habe dann auch die Belastung der Infrastruktur.
+Das heißt, ich muss ja dann schauen mit den Stadtbanken zum Beispiel,
+dass Busse fahren.
+Jetzt wissen Sie ja selber, dass zum Beispiel am Samstag in vielen Regionen
+plötzlich Busse ausfallen, weil sie dann nur noch einen Stunden-Tag fahren
+und eine halbe Stunde.
+Das muss ich natürlich dann auch in der Community anlassen.
+Gut, aber das ist natürlich auch möglich, das heißt, auch solche Impulse können von
+der Steuerung kommen, um in Summe eine größere Ausbeutung und Kapazität zu bekommen.
+Heutzutage ist natürlich das Gegenteil eher der Fall, also heutzutage haben wir das Problem,
+dass die Auslastung eher schlechter ist als noch vor 10 Jahren oder 15 Jahren, als dieses
+Thema hochkommt. Heute müssen wir fast Schichten abbauen und das ist natürlich auch lästig.
+Also das ist natürlich hier dann die Realität, die wir aktuell haben und ich glaube nicht,
+dass es aktuell besser ist.
+Also die Firmen, die erhalten
+natürlich sehr bedeckt, weil das
+natürlich für die Investoren
+ein rotes Tuch ist, wenn da dran steht,
+unser Wahlkampf wird zu 29%.
+Also, das ist
+nicht so doll.
+Nur gut.
+Aber da können sie natürlich auch
+steuern. Und wenn es dann
+halt immer heißt, Audi oder BMW
+oder sonst was baut eine Schicht ab,
+das ist natürlich ein massiver Planungsaufwand.
+Also da möchte ich dann nicht unbedingt der Fertigungssteuerer sein, der dann natürlich seine Aufträge umplanen muss bzw. auch die Mitarbeit umplanen muss und alles, aber ja, ist halt so.
+Gut, damit hat man unser Kapitel 1 von Kapitel 7 durch.
+Bevor wir zum Fertigungsauftrag kommen, machen wir Pause.
+Dreiviertel geht es weiter?
+Ja, machen wir dreiviertel weiter.
+Gut.
+Vielen Dank.
+.
+Also Ebene 0 haben wir das Material 50, Vorlaufdauer 0, Wiederbeschaffungsdauer 3, also die kumulierte Dauer und Zeit, erstmal 3 Tage.
+Das ist jetzt alles in 3.
+Dann auf der Ebene 1 das Material 37, 0 und 1 und das ist natürlich, wenn ich jetzt das zusammenziehe, 4 Tage.
+Eben 2, das Material 81 nur um 5, das sind dann 9 Tage, nur auf der Ebene 3, das Material 15, das Material 10, das sind dann nur 11, 13, 14, 15, 14.
+Dann gehen wir zurück, die Ebenen, 2, 32, 1, 5, das sind die Ebenen, 10 Tage, 6 x 4, das sind 10,
+Eben 3, 18, 22, 32 Tage.
+Eben 3, 3, 4, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 Tage.
+Und die Ebene 4, das war das hier, hat ja 15, 12, 10.
+Das wären dann die berechneten 27 Tage.
+Jetzt geht es weiter mit dem nächsten.
+Wir haben jetzt eine Ebene 1 vom Springen.
+Material 38, Material 1.
+Das sind die 4 Tage Rüben.
+Material 2, Material 8, Material 9, Material 20.
+Das sind die 26 Tage.
+Weiter auf Ebene 2, auf Ebene 2, 2, 3, 7, 8, 9, 10 Tage.
+Und auf Ebene 3, auf Ebene 18, 2, 20 Tage.
+Das sind 32 Tage.
+Nochmal auf Ebene 3.
+Auf Ebene 81, auf Ebene 5, auf Ebene 15, auf Ebene 4, auf Ebene 15.
+10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.
+Das Minus 1 wird ganz einfach verrechnet.
+Und da haben wir dann wie gesagt auch noch die Langweite drin.
+Und jetzt kann ich im Kalender schauen, wann ist mein Zieltermin.
+Und jetzt kann ich halt durchrechnen, wann muss was passieren.
+Also Termin und Termin.
+So, da ist noch ein wichtiger Satz, der ist häufig in der Industrie aufgehört,
+die Wiederbeschaffungszeiten sind mengenunabhängig.
+Ganz häufig spielt es jetzt nicht eine große Rolle,
+ob Sie jetzt beim Lieferanten zwei Bleche oder vier Bleche bestellen.
+Das ist genauso, wenn Sie jetzt zum DM gehen und sagen,
+ich kaufe eine Packung Klopapier oder zwei Packungen Klopapier.
+Das spielt auf die Wiederbeschaffungszeit keine große Rolle.
+Allerdings kann es durchaus mal sein, dass es Produkte gibt,
+je mehr Sie bestellen, desto länger müssen Sie warten.
+Das kann natürlich vorkommen.
+Da muss man das halt entsprechend berücksichtigen hier in der Wiederbeschaffungszeit.
+Vielen Dank.
+So, und wenn jetzt der Kunde sagte, er hätte gerne einen Liefertermin am 5. Februar oder am 30. März,
+dann können Sie jetzt hingehen und dementsprechend mit den Abständen beurteilen.
+Dann wissen Sie, was dann passieren muss, um Ihre Produktionssicherheit zu bekommen.
+Das ist das Klassische des Produktionen.
+Sie haben dann Ihren Werkskalender da.
+Sie wissen ganz grob, pro Monat hat man ungefähr 20 Arbeitstage.
+Das ist eher ein Tag mehr, aber in der Regel sind es 20 Arbeitstage.
+Und da kann man dann schon sehr schnell herausfinden,
+okay, diese 32 Werktage oder diese Durchlaufzeit, diese 32 Tage, bedeutet eine halbe Monate.
+Ausnahme natürlich in der Regel um Weihnachtslungen oder auch um Augustlungen, wenn Betriebsferien sind.
+Aber sonst sind 20 Arbeitstage in der Regel ein Arbeits- oder ein Monat.
+Und wenn da 32 Tage steht, dann darf jetzt das Management oder der Vertrieb nicht versprechen,
+dass wir Mitte Januar liefern. Das ist einfach nicht machbar.
+Das ist das, was zwischen Beauftragung und natürlich Termin vom Kunden liegen muss.
+Sonst haben Sie Probleme.
+Wenn Ihre Durchlaufzeit konsequent zu lang ist für das, was der Kunde bereit zu erwarten ist,
+dann müssen Sie halt sagen, ja, ich muss Lagerhaltung einführen.
+Dann müssen Sie halt die 32 Tage verkürzen, indem Sie sagen, ja, das Produkt habe ich auf Lager.
+dann darf es aber nicht
+Verbringungsauftrags
+gebunden sein, also nicht Kundenwunsch sein.
+Also wenn der Kunde
+in die Lieferzeit von eben nur 27
+Tagen will,
+dann muss das, was hier mit 32 Tagen ist,
+auf ihrem Lager liegen.
+Aber dann kann das nicht Kundenwunsch
+sein. Das, was auf dem
+Lager liegt, kann nicht
+kundenspezifisch sein.
+Ich habe da eine ganz, ganz tolle Ausschussarbeit aktuell,
+wo man genau das diskutiert.
+Ist ja logisch nicht machbar,
+aber die versprechen ihrem Kunden
+drei Monate Lieferzeit,
+haben aber Langläufer drin,
+die sechs Monate hinter der Beschaffung bleiben.
+Und es wäre kein Problem,
+wenn Sie sagen,
+Sie setzen die Langläufer ins Lager.
+Das Problem ist allerdings,
+diese Langläufer müssen
+auf den Kundenortar angepasst werden.
+Sie lachen, aber das müssen Sie
+mal im Management von der großen Firma beibringen.
+Der sagt,
+es hat aber schon immer funktioniert.
+Und dann sagt die,
+Nee, das hat nie funktioniert.
+Wir sind immer zu spät dran mit unseren Fragen.
+Stimmt nicht.
+Aber es ist managementlich.
+Gut, Fragen dazu.
+Also im Prinzip logisch, es ist kein Hexenwerk, was da dahinter steckt.
+Man muss es halt machen.
+Die Komplexität entsteht halt daraus, dass es nicht Ihr einziger Auftrag ist.
+Sie haben im Zweifel 10, 20, 50, 100 solche Aufträge, die Sie terminieren müssen.
+Je nachdem, was Sie machen.
+Also wenn Sie beim Rollenhofer sind, dann haben Sie 10 bis 20 Aufträge parallel in jeder Fertigung.
+Beim Frohhofer haben Sie 50 Aufträge parallel in der Fertigung.
+Und da gibt es eben auch Fertigungen, die haben 200 Aufträge parallel in der Fertigung.
+Da müssen Sie ja 200 Termine irgendwie managen.
+Und da wird es dann spannend.
+Okay?
+Gut.
+So, Sie sehen, wir kommen mit einem ganz schnellen Schritt jetzt zum Ende hin.
+Aber das letzte Kapitel ist jetzt nochmal sehr, sehr umfangreich, weil wir jetzt Detailplanung haben.
+Und auch hier, es ist nicht schwierig, die Komplexität kommt aus der Masse an Daten.
+Also Sie sitzen jetzt da als kleiner Fertigungsplaner in der Firma.
+Und jetzt, bei Ihnen laufen eigentlich die Fäden zusammen.
+müssen einen Überblick haben, welche Personen stehen mir zur Verfügung. Manchmal sogar
+tagesgenau, wer ist krank, wer ist da. Sie müssen einen Überblick haben, welche Betriebsmittel
+habe ich und was können die. Sie müssen einen Überblick haben, welche Fertigungsaufträge
+stehen denn an, welche Kundenaufträge haben wir. Sie müssen einen Überblick darüber
+haben, wie sind meine Bestände. Sie müssen einen Überblick darüber haben, wie voll
+Wie voll ist meine Fertigung? Wie ist was ausgelastet?
+Sie müssen wissen, weil der Kunde will, wann was haben.
+Also das heißt, bei Ihnen laufen alle Daten zusammen.
+Sie müssen wissen, was ist der Schichtmodell?
+Was darf ich meinen Mitarbeitern abverlangen?
+Wann kommen die nächsten Feiertage?
+Auch das müssen Sie berücksichtigen.
+Dann kommt natürlich immer tagesaktuell noch rein, Qualitätsprobleme, Ausschuss, Maschinenstillstände.
+Und all das müssen Sie managen. Und da kommt die Komplexität her.
+Es ist nicht die Arbeitsaufgabe an sich, es ist die Masse an Informationen, die so ein Fertigungssteuerer bewältigen muss.
+Und wenn es dann zum Beispiel heißt, ja, eine Maschine kann jetzt halt nur mit 80% Geschwindigkeit arbeiten,
+hat das Auswirkungen im Zweifel auf den ganzen Produktionsplan, weil der nächste Auftrag nicht rechtzeitig draufkommt
+und damit kann auch nicht die nächste Maschine rechtzeitig bedient werden.
+Sie haben einen kranken Mitarbeiter, da haben Sie auch oft wenig gearbeitet.
+Sie haben kaputtes Material, damit haben Sie wieder eine Störung in Ihrem Arbeitsablauf.
+Und das ist es, was diesen Job an sich stressig macht.
+Und dann geben Sie sich ganz viel Mühe und planen was und dann kommt plötzlich die Realität dazwischen.
+Das ist immer so das Schlimmste, was passieren kann.
+Und da ist jeweils immer dann die Frage, wie viel plane ich dann überhaupt noch?
+also wie detailgetreu soll ich planen und wie viel überlässt man dann doch so ein bisschen der Fähigkeiten der Mitarbeiter
+in der Hoffnung, dass sie dann doch wichtig entscheiden.
+Und das ist schwierig.
+So, jetzt machen wir erstmal so eine Auftragsterminierung in der Werkstatt.
+Die ist erstmal sehr grob.
+Wir gehen jetzt davon aus, wir haben ein Vergegnungsgut, was groß langwierig ist.
+Also wir reden nur von Flugzeugen.
+Wir reden von großen Anlagen und Maschinen.
+Wir reden von großen Fräsmaschinen und so weiter.
+Also nichts, was innerhalb von einer Stunde oder einer Minute getaktet wird,
+sondern eher was in einer halben Schicht, in einer Schicht oder in Tagen wir haben.
+Das ist jetzt unser erstes Spielfeld sozusagen.
+Wie läuft das ab?
+Als erstes werden die Güter geschafft.
+Das ist wie bei Ihnen, wenn Sie kochen wollen.
+Dann gehen Sie einmal einkaufen und bestellen alles.
+In der Industrie wird vielleicht die Bestellung dann noch terminiert, vor allem, wenn die Fertigung
+sehr lang dauert und sie dann in der Montage, die kommt dann erst drei Monate später. Da brauchen
+wir ja nicht die ganzen Bestellungen schon drei Monate vorher haben. Aber die Bestellung,
+der Bestellprozess und die Terminierung, die wird vor der Auftragsfreigabe in der Fertigung
+und Montage erledigt.
+Damit man weiß, wann man was
+bekommt.
+Idealerweise, sehr vorsichtig
+geförmert warten auch, dass das
+ganze Material vorgegeben wird.
+Die Problematik ist, sobald Sie
+Materialabdruck haben,
+müssen Sie die Fakten umschleppen.
+Es kommt je nach Fakten um, kann das kritisch sein
+oder nicht. Also eher mal zum Beispiel
+die Zessauerrechnung in der Industrie, also
+in der Quarantächnik. Ja, stellen Sie sich
+mal vor, Sie stellen Tabletten her
+und dann fehlt ein Rückschloss.
+Da können Sie ja sagen, ja, da muss man die Anlage ja von bestehen, oder?
+Wäre mal spannend.
+Verkaufung Platz 10 muss.
+Jetzt heute Platz 10, wo kommt schon mal das Talent?
+Also insofern muss man auch an der Industrie schauen,
+kann ich denn im Zweifel, wenn ein Thema nicht da ist, tatsächlich produzieren?
+Deswegen ist es tatsächlich so, dass die meisten Firmen sagen, es wird bestellt
+und wir fangen erst mit der Fertigung an, wenn alle Teile da sind, alle Kaufteile.
+Spätestens müssen alle Kaufteile vor der Montage da sein. Das ist so der allerletzte Termin. Erst
+mache ich da die Fertigung. Das heißt, ich mache die Vorbaustufen alle fertig und da ist es
+natürlich auch sinnvoll, wenn ich eine ordentliche Baugruppenplanung habe. Ich kann natürlich auch
+sagen, bevor ich eine komplette Endmontage habe, habe ich drei Vormontagen, in denen ich Baugruppen
+mache. Die kann ich dann eventuell auch noch termintechnisch ein bisschen flexibler machen.
+Aber es ist nun mal so,
+wenn ich alles zusammenbauen muss,
+dann muss auch alles da sein.
+Da geht kein Weg dran vorbei.
+Und ich meine, sonst machen wir
+in diesen Baustellen dann Probleme auf.
+Schönes Beispiel
+2022, als es zu wenig Chips gab.
+Da waren Autos
+zu 99% fertiggestellt.
+Und was hat gefehlt?
+Zwei Chips. Und was muss man
+machen? Flächen anmieten,
+um die Autos zwischenzulagern.
+Das ist gebundenes Kapital.
+Das ist ein Worst-Case. Stellen Sie sich vor, Sie können ein Flugzeug nicht ausliefern, weil Ihnen drei Sicherheitsbreche fehlen.
+Da steht eine mehrere Millionen-Waren-Wertung und Sie können nicht ausliefern, weil Ihnen ein Zugkopfteil von 3,50 Euro zählt wird.
+Alles schon erlebt in der Industrie.
+Ja, und eine Luft- und Raumfahrt ist besonders schlimm, weil Sie brauchen mehr freigegebene Lieferanten.
+Sie könnten theoretisch das Ding selber machen, dürfen Sie aber nicht, weil Sie nicht freigegeben sind.
+Sie könnten auch theoretisch jederzeit einen anderen Lieferanten finden.
+Dürfen sie aber nicht, weil, nicht freigegeben.
+Deswegen, wenn sie richtig Spaß haben wollen bei sowas, müssen sie zum Liebhaber Aerospace gehen.
+Der hat da ganz ganz tolle, also die Abschlussarbeiten finde ich da immer toll.
+Weil immer wenn ich sage, ja was machen die, das so kommt als Antwort, das ist Luft- und Raumfahrt, die dürfen nicht anders.
+Spannend.
+Aber die sind einfach auch so ein eingesporenes Team, da kennt jeder jeden und ich glaube die werden auch noch nicht breitgegeben.
+Also wenn Sie Industriebeamten tun wollen, dann müssen Sie, glaube ich, dahin.
+Lange Zeit war es der Bosch, aber aktuell ist es da noch schwieriger einzukommen.
+Wissen Sie eigentlich schon, was Sie als Praktikum machen wollen?
+Steht doch kein Aperl da. Wo? Bosch? Nein. Wo?
+Wo gehen Sie hin?
+Bei?
+Auch eine schöne Firma.
+Ich glaube, die haben auch einen Vorteil, dass sie ein Produkt haben, das sie überfragt.
+Also Erschwimmung oder Erdnüsse.
+Was machen Sie jetzt als Hauptsektor?
+Das brauchen wir immer.
+Weiter?
+Irgendeinen Wunsch?
+Nicht?
+Keine Idee?
+Ja, Richtung, aber irgendeine Richtung.
+Also Einkauf, Fertigung, Vertrieb, Qualität.
+Lassen Sie sich gegen den Tipp suchen.
+Sie sich was aus. Das Schlimmste, was eine Firma bekommt, ist, ich hätte gerne ein Praktikum.
+Und dann wird das Ding so durchgereicht und dann weiß niemand, was mit Ihnen anzufangen.
+Wenn Sie sagen, ich hätte gerne ein Praktikum oder ein Pro-M, dann wird die Bewerbung in
+die Pro-M weitergelaufen und dann ist es eine Ja-Nein-Entscheidung. Alles andere ist Müll.
+Deswegen sagen Sie bitte vorher, was Sie wollen. Ich habe vor kurzem eine E-Mail wieder
+bekommen.
+Irgendjemand hat mir wieder mal geschrieben, dass wir, ach genau, Stellenanzeige für Masterarbeit,
+aber auch Praktika für Zimtlhausen natürlich, das ist eine Masterarbeit,
+aber wir haben auch geschrieben, sie würden Praktikanten nehmen.
+Also wenn Sie was echtes Werkstofftechnik wollen.
+Ich kannte die Firma bisher noch nicht.
+Vielleicht wollen Sie es hier noch sehen.
+Eine Tätigkeit als Werkstudent.
+Und ich glaube, so Recyclingprozesse in dem Bereich, da haben Sie echt Zukunftspositionen.
+Besser als bei Bosch aktuell.
+Also wenn Sie abfotografieren wollen, dann müssen Sie ja.
+Ja, muss ja Impulse geben.
+Sie müssen ja unterkommen.
+Und wenn Sie dann heulen, in einem Jahr zugekommen, weder Bosch, BMW noch Audi wollte nicht und Bosch hat auch nichts,
+dann muss ich ja ganz ehrlich sagen, Ihre Option vielleicht.
+Vielleicht ist das Ihre Zukunft.
+Recycling-Wentsch.
+Machen Sie das.
+Und dann habe ich jetzt in der Firma auch jemanden drin, da wollte ich mal als Workshop einmal so vorbeikommen.
+Okay.
+Ansonsten zweite Option, klaren Sie.
+Der ist halt weit zu fahren.
+Angeblich die Kantine sei sehr gut.
+Das ist ein wichtiges Kriterium.
+Richtiges Kriterium.
+Okay. Gut.
+Weiter.
+Also, wir haben hier so eine
+prinzipielle Planung.
+Das heißt, wenn wir uns die Stimmliste vorstellen,
+all diese Stränge, die müssen ja
+irgendwann mal oben zu diesem Endpunkt zusammenlaufen.
+Und der Jerofen hat doch hoffentlich mal einen Lego-Bausatz gemacht.
+Und da wissen sie auch, man macht diese Module und irgendwann stecken wir die dann alle so zusammen.
+Und der Nachteil bei Lego ist, da baut man im Prinzip nicht die Einzelmodule,
+sondern da baut man das dann immer größer.
+Und in der Industrie ist es eher anders.
+Man baut diese Einzelmodule und macht dann eine Gesamtmontage am Ende.
+Also da hat Lego so ein bisschen so einen Denkfehler, wenn man es um Produktion angeht.
+Aber ich glaube, die machen das halt auch, weil die Leute diesen Fortschritt sehen wollen.
+In der Regel ist es so, man hat also in der Vormontage viele dieser Baugruppen und dann werden am Ende diese Baugruppen zusammengesteckt.
+So, und jetzt müssen wir einen sogenannten Dürrlaufplanung machen.
+In der Dürrlaufplanung wird der zeitliche, aber terminlose Fertigungsablauf eines Erzeugnisses geplant.
+Das haben wir hier eigentlich schon gemacht, indem wir gesagt haben, wir haben schon mal zeitlich geplant, wo was ist.
+Und das ist das Erste, was man macht.
+Man macht es erst mal ohne Termine, weil sonst wird man ja wahnsinnig,
+wenn man jetzt schon anfängt und sagt, ich beobachte Weihnachten.
+Sondern ich tue ganz einfach so, als ob das Jahr nur aus ganz zahligen geraden Werktagen geschieht.
+Okay?
+Ich habe meine 250 Werktage und da mache ich jetzt mal meine Durchlaufplanung.
+Und das Ergebnis ist ein Durchlaufplan mit einer Ablaufstruktur und mit einer Angabe meiner Durchlaufzeit.
+Und erst im nächsten Schritt spiegle ich das auf dem Wachskalender.
+Der Vorteil ist, ich kann diese Durchlaufplanung wiederverwenden.
+Das ist das Schöne.
+Also wenn ich es jetzt schon erstmal noch zeitunabhängig und terminunabhängig mache,
+dann kann ich diesen Durchlaufplan auch für ein zweites und drittes Mal verwenden.
+Es handelt sich um die Zeitalter, die ein Erzeugnis benötigt,
+um verschiedene zu seinen Herstellern notwendige Kapazitätseinheiten zu durchlaufen,
+in denen die Arbeitsgänge durchgeführt werden.
+Und von einem Bezugspunkt aus kann man damit anfangen und Endpunkte der einzelnen Arbeitsschritte bestimmen.
+Ich springe mal ganz kurz ein Ding vor.
+Wie gesagt, die Industrie ist eigentlich auf Rückwärtsterminierung ausgelegt.
+Wir wollen ein Endtermin oder beziehungsweise die geben ein Endtermin vor und dann wird rückwärts geplant.
+Oder ganz einfach, man sagt, wir wollen eine Öffnung, wir wollen eine Stadt von der Produktion, wir wollen eine Stadt von unserem Automobil zu einem gewissen Zeitpunkt, der vielleicht auch von äußeren Rahmenbedingungen vorgegeben wird, von gesetzlichen Rahmenbedingungen, vom Auslauf eines alten Modells.
+Also zum Beispiel, wenn eine neue BMW geplant wird, dann weiß man, der alte läuft, keine Ahnung, 2029 aus.
+Also da muss der neue dann Start sein und dann wird von dem Termin rückwärts geplant.
+Und die Welt ist eine Rückwärtsterminierung. Sie machen auch eine Rückwärtsterminierung.
+Was ist Ihr nächster großer Termin?
+Das heißt, ich habe 24.12. dabei.
+Rückwärtsterminierung. Jetzt können Sie planen, wie lange Sie Ihre Geschenke brauchen.
+Vielleicht sind Sie Amazon-Kinder, geben 20 Stunden Lieferung und Sie halten das Nerv weg aus.
+Dann reicht die Bestellung am 23. Das ist ein Werktag.
+Sie können auch sagen, Sie basteln was. Sie wollen einen Schal stricken.
+Sie wissen, Sie schaffen pro Tag 10 cm. Der Schal soll 1 m lang sein, 10 Werktage.
+Oder? Könnte man machen.
+Aber ein Meter langer Schal ist ein bisschen kurzer, 1,50 Meter. Also machen wir 15-Watt-Tage.
+Müssen wir jetzt aber anfangen. Weil bis Weihnachten ist nicht mehr lang.
+Dann die zweite Option, das ist meistens dann, wenn man zu volle Kapazitäten hat.
+Da macht man eine Vorwärtsklammierung. Da ruft der Kunde an und sagt, ich brauche eine Maschine, wann könnt ihr denn liefern?
+Dann sagt man einfach, wann ist es möglich, diesen Auftrag in die Fertigung einzubringen.
+In zwei Monaten, drei Monaten.
+Und dann rechnet man die Durchlaufzeit drauf.
+25 Backtage.
+Und dann kann ich sagen, Termin ist irgendwann im Juni oder Juni.
+Auch das ist möglich. Das machen Sie vielleicht auch, wenn Sie gerade viel um die Ohren haben
+und es kommt jemand, der was von Ihnen will.
+Dann sagt er, komm bitte erst wieder in drei Wochen und dann können wir das mitmachen.
+Oder? Vielleicht haben Sie das auch schon mal so gemacht.
+Das ist die Vorwärtstagung.
+Ganz selten gibt es so eine Mischterminierung.
+Das ist dann immer so eine Verhandlungssituation.
+Aber in der Regel gibt es Rückwärtstagungen.
+Ein Endtermin ist bekannt und dann rechne ich einfach rückwärts, wann mein Starttermin sein muss.
+Wichtig ist, man sollte nicht in eine Aktion verfallen und sagen, oh, der Kunde hat beauftragt, ich fange sofort an.
+Weil dann haben wir wieder das eine Thema, was wir vor ein paar Vorlesungen kennengelernt haben.
+ich fange an mit voller Elan und dann bleibt der Auftrag liegen.
+Es ist einfach so, Aufträge brauchen eine gewisse Zeit
+und wenn man einen Auftrag gibt, sollte man die Konsequenz daran leiten.
+So einfach ist es.
+Und dann sehen Sie hier, Aufträge haben zwei Komponenten.
+Einmal die Durchführungszeit.
+Das ist die tatsächliche Bearbeitungszeit an der Maschine.
+Das ist das, wo Wertschöpfung stattfindet.
+Aber wir haben bei Auftragsbearbeitung,
+wir jetzt nicht für Fließfertigung, sondern tatsächlich jetzt bei der klassischen Auftragsfertigung
+auch etwas, das nennt sich Übergangszeit. Was ist die Übergangszeit? Das ist die Zeitdauer
+zwischen zwei Kapazitätseinheiten. Also zum Beispiel, ich habe hier einen Fräsarbeitsgang
+und dann einen Lackierarbeitsgang. Und vom Fräsen zum Lackieren vergeht Zeit. Das kann
+zum Beispiel sein
+Transport.
+Das kann ein Einlager-Auslager-Prozess
+sein, das kann ein Qualitätsmanagement-
+Prozess sein. Und
+das ist die Wartezeit, bis die
+Lackieranlage wieder frei ist, dass
+mein Auftrag draufkommt.
+Das ist die sogenannte Übergangszeit.
+Viele benutzen
+den Begriff
+Übergangszeit und Wartezeit synonymisch.
+Allerdings ist die
+Wartezeit nur eine Komponente der Übergangszeit,
+aber meistens die längste.
+Manchmal warten Aufträge drei, vier Tage vor einer Maschine, dass sie drauf dürfen.
+Weil einfach mein Kapazitätseinheit so ausgelastet ist, dass halt da so viel Zeit verschwendet wird.
+Das Problem bei den Firmen ist ganz häufig nicht die Durchführungszeit.
+Die ist technisch auch top.
+Also wenn Sie so ein Programm haben und da steht dann drauf, Fräszeit für diesen Klotz ist,
+eine halbe Stunde, 30 Minuten,
+das ist auch das, was im Arbeitsplan drinsteht,
+das ist top. Das machen die Firmen auch.
+Das Problem, was Firmen haben
+in ihrer Durchlaufzeit, ist tatsächlich,
+dass bei vielen die Hörungszeit zu lang ist.
+Also die Wackelzeit vor dem Maschinenabdruck,
+da haben wir auch schon gesprochen.
+Das ist das Problem, was die Firmen haben.
+Die haben zu viele Aufträge drin,
+die sich gegenseitig blockieren.
+Da sind wir wieder beim Thema Friseur.
+Ein Friseur schafft,
+alle 10 Minuten im Kopf zu lassen.
+Das heißt, den Output, den er hat,
+sind 6 Köpfe pro Stunde.
+Und der wird den Output nicht erhöhen,
+wenn da 10 Kunden sitzen oder 5
+oder 3.
+Der wird weiter seinen Output haben.
+Aber ich kann es für die Kunden
+angenehmer gestalten,
+wenn ich denen schon von vornherein sage,
+was die Kapazität ist.
+Wenn ich da nur 3 Stühle aufsetze
+und 3 Kunden warten lasse,
+dann weiß ich, dass die 3 Kunden
+maximal 30 Minuten Wartezeit haben.
+Wenn ich zulasse,
+dass 10 Kunden warten,
+Dann kriege ich schlechte Google-Bewertungen, weil man so lange beim Kunden wachen muss.
+Also lieber lasse ich diese Wacken dem Kunden gar nicht zu und sage, Leute, wir sind voll.
+Das ist ja genau das, was alle Firmen inzwischen machen, alle Freizeiteinrichtungen.
+Die haben Ampelsysteme, wo man als Besucher schon mal schauen kann, komme ich überhaupt noch rein und was sind die Wackezeiten?
+Und damit soll eben die Erfahrung wegfallen, zwei Stunden warten und schlechte Bewertung.
+Sondern damit wird gleich gesagt, ich lenke den Auftrag um, der soll sich was anderes
+suchen. Ich suche eine andere Lösung. Und das ist die Idee von Produktionssteuerung.
+Nicht einfach alles drauf, sondern überlegen, wie kann ich lange Wartezeiten vermeiden. Und
+das ist das Problem, was Firmen haben. Und ich habe ganz am Anfang mal eine Arbeit angenommen,
+Da hieß es, man sollte die Durchlaufzeiten verringern und der Studierende sollte sich die Durchführungszeit anschauen.
+Das war nicht das Problem.
+Das Problem, was die hatten, war, die haben zu lange Wackelzeiten gehabt.
+Da hätte man eine andere Lösung finden müssen.
+Nur weil sie jetzt da fünf Minuten einsprachen, waren sie nicht schneller.
+Also, das ist das Thema mit Terminierung und mit der Übergangszeit.
+Wie machen wir so einen Durchlaufplan?
+Im Prinzip ist es auch eine ganz simple Vorgehensweise.
+Erstens machen wir erstmal einen groben Überblick, wie muss das Ding durch die Fertigung laufen.
+Ganz einfach. Also genauso wie Sie sich überlegen, wenn Sie was kochen, prinzipiell was sind die Schritte, indem Sie sich den Arbeitsplan durchlesen.
+Indem Sie sich überlegen, kann ich vielleicht was parallelisieren.
+Vielleicht müssen Sie ja Weihnachten ja kochen, dann werden Sie auch die Kartoffeln draufsetzen zum Kartoffelpüree, während Sie Ihr Gulasch machen oder so.
+oder Ihre Ente im Ofen haben.
+Sie müssen ja nicht vor dem Backofen sitzen
+und die Ente beobachten,
+sondern Sie können Arbeitsgänge parallelisieren.
+Das heißt, Sie machen sich einen groben technischen Ablaufplan,
+wie muss was durch Ihre Verlegung durch.
+Ihr Hilfsmittel ist der Arbeitsplan dabei, ganz klar.
+Und natürlich auch die Stückliste,
+weil dann wissen Sie natürlich auch,
+wie was zusammenhängt.
+Dann überlegen Sie sich, was ist der Bezugspunkt?
+Machen Sie eine Rückwärtsterminierung oder eine Vorwärtsterminierung?
+Wenn nichts angegeben ist,
+machen Sie in der Regel eine Vorwärtsterminierung.
+Wenn Sie einen Endtermin haben,
+machen Sie eine Rückwärtsplanierung. Meistens haben Sie einen Wunschtermin. Das nächste ist,
+Sie überlegen sich, wie lang sind Ihre Prozesse. Also Sie überlegen sich die Länge von diesem
+Kloß. Und dann überlegen Sie sich die Länge von dem hier. Oder? Das ist logisch. Sie können es
+natürlich auch andersherum machen, wenn Sie wollen. Aber erst überlegt man sich häufig
+Durchführungszeiten und dann bestimmt man die Übergangszeiten. Im nächsten Schritt,
+sind wir wieder bei dem hier, überlegen Sie sich, ob Sie solche Zeiten haben, wo Zwischenlager sind,
+also Konsolidierungszeiten, wo Sie alles wieder bündeln müssen. Zwischenlagerzeiten, also wo
+zwei Baubutten zusammenlaufen müssen, bevor sie in die Montage gehen. Auch das zeichnen Sie auf,
+Das ist dann hier der Schritt 5, Zwischenlagerzeiten.
+Manchmal braucht es das nicht, wir müssen immer wieder rechnen.
+Manchmal werden diese Zwischenlagerzeiten tatsächlich benötigt.
+Ja, und dann zeichne ich es auf.
+Weil letztendlich kann ich natürlich auch eine Tabelle machen,
+aber wir sind ja doch sehr visuelle Wesen, das heißt, wir machen es im Durchlauf.
+So, nicht zur Strafe, zur Übung machen wir mal eine ganz einfache.
+Von einem Erzeugnis sollen 100 Stücke gefertigt werden.
+Es besteht aus drei Einzelteilen und wird durch eine Zwischenmontage in die Endmontage kompletiert.
+Die Erzeugungsstruktur ist die nachfolgende Stückliste gegeben.
+Also die Erzeugungsstruktur ist das hier, 613 besteht aus dem hier, 506 besteht aus dem hier und das hier sind die Einzelteile.
+So, alle Arbeitsgänge werden in der Organisations- und Werkstattfertigung realisiert.
+Das heißt, wir haben Aufträge, wir haben keine Fließfertigung und die Losgröße wird vom Fertigungsauftrag bestimmt.
+Also wir machen das, was der Fertigungsauftrag benötigt.
+100, 200, 400 und so weiter.
+Erstens, können Sie jetzt schon mal anfangen,
+machen Sie die Erzeugungsstruktur
+und zweitens
+bestimmen Sie den Teilebedarf.
+Okay?
+Kriegen Sie hin. Und wenn Sie wollen, dürfen Sie schon mal
+anfangen, ob Sie den Drückerpanzer kritisieren können.
+Geht nicht mehr.
+5 Minuten. 10 Minuten.
+So schwierig ist die Aufgabe nicht.
+5 Minuten.
+Vielen Dank.
+Vielen Dank.
+Okay.
+Amen.
+Vielen Dank.
+Amen.
+Amen.
+Amen.
+Vielen Dank.
+Amen.
+So.
+Vielen Dank.
+Der erste Grund ist, was wir machen, ist hier, lassen wir aufschreiben, unseren Strukturraum und dann halt die Materialstückliste, Bedarfe und so weiter und so fort.
+Und jetzt das nächste, arbeiten Sie einen Dürrlaufband für Zeugnis 613.
+Alle Teile sollen zum spätesten Zeitpunkt produziert werden.
+Tägliche Arbeit ist bei 50 Stunden, wir sollen auf halbe ganze Zeit aufrufen, dazu sage ich gleich noch was.
+Ein Arbeitsgangwechsel dauert einen Tag und vor jeder Montage ein Zwischenladen von zwei Tagen.
+Aber jetzt sind wir natürlich hier in diesem Informationshust, wo jeder Steuerer drin ist.
+Und das Problem bei vielen Firmen ist, dass ganz viele von im Prinzip das weiß man doch ist.
+Das weiß man doch, dass die einen Tag länger brauchen.
+Das weiß man doch, dass das beauftragt werden muss.
+Das ist so etwas, was relativ nervig ist, wenn man als neuer Planer, als neuer Steuerer irgendwo dazu kommt.
+Also, jetzt machen wir erstmal hier kurz unser Grobablauf.
+Hier ist unser Entzündung.
+Und da soll eben der 613 montiert werden.
+Wir wissen jetzt die Länge von dem Ding noch nicht und wir wissen, vor jeder Montage soll ein Zwischenlagertermin drin sein.
+Und dieser Zwischenlagertermin, der dauert zwei Tage.
+So, bevor wir 613 montieren können, muss natürlich 506 fertig sein und wir brauchen das 406.
+Die Länge von dem ist noch auch noch nicht.
+506 besteht aus zwei Teilen, deswegen haben wir hier in der Zwischenlage zwei Teilen.
+Und das besteht aus der 404 und aus der 405.
+So, ganz gut.
+Jetzt muss man natürlich noch die Länge von diesen beiden gestecken.
+Das haben wir jetzt noch nicht.
+Aber im Prinzip, wenn das jetzt hier die Zeitlänge ist,
+Also hier, das ist die Zeit.
+Jetzt müssen wir uns überlegen, wie lang sind die einzelnen Beine.
+Wir können es dann hier.
+So, was wissen wir noch? Arbeitstag ist 15 Tage, also 15 Stunden.
+Das wissen wir.
+und wir sollen auf halbe aufrufen. Halbe beziehungsweise ganze Tage. So komme ich später gleich drauf und wir können das auch immer machen,
+warum wir das tun. Und Arbeitsgang wechseln. Ein Arbeitstag. Okay? So. Und jetzt ist es
+natürlich wechselbefreund. Ich mache es jetzt hier einfach mal.
+dann die Bearbeitungszeit in Minuten, dann die Bearbeitungszeit in Tagen, dann die Bearbeitungszeit
+den Tage gerundet und dann ist die Frage, die Überwachszeit muss man beübsichtigen.
+Fangen wir mal mit dem ersten an. Ich gehe jetzt ganz kurz auf die nächste Folie,
+dass wir hier die Angaben haben. Also was wissen wir denn? 404, 405, 406, das hat also alles entsprechende
+Ich fange jetzt einfach mal mit dem Letzten an, weil das der Erste ist, also 613 ist das
+Arbeitsteil.
+Hat zwei Arbeitsstätte, 1 und 2, sehen wir hier, 1, 2, und zwar das Rüsten, 10 Minuten
+und 20 Minuten, und dann die Einzelzeit, die ist in unserem Fall 5 und 10 Minuten.
+Und jetzt ist die Frage, wie oft müssen wir es machen?
+Wunderbar.
+So lange dauert der Vorgang.
+Vorgang 1 dauert 10 Minuten Rüsten plus 500 Minuten Einzelzeit.
+Also sind wir hier bei 510 Minuten.
+Hier 20 Minuten Rüsten und 10 Minuten Einzelzeit.
+Also sind wir bei 1020 Minuten.
+Was entspricht es in Tagen?
+15 Stunden ist ein Arbeitstag.
+15 Stunden sind wieviel Minuten?
+9 Minuten.
+So, das heißt, diese 510 Minuten sind 0,57 Arbeitstage und das sind 1,13 Tage.
+Also wenn das laut Arbeitsplan 510 Minuten dauert, dann dauert das in der Realität 0,57
+Arbeitstage. Glaub ich nachvollziehbar. Wenn unser Arbeitstag nur 7,5 Stunden hätte,
+dann wäre das ein Arbeitstag und ein bisschen. Okay? Das heißt, ich rechne das jetzt in Arbeitstag.
+Und jetzt wissen wir ja, Werkstatt arbeitet nicht bei 100 Prozent. Jetzt könnte ich hier
+natürlich einen Faktor einfügen und das macht man auch heute, weil einfach die Systeme so
+Leistungsfähig sind und sagen, ich mache überall eine Leistung von 18% und rechne 20% auf.
+Oder, was man auch machen kann, ist, ich runde einfach. Das hier ist ein Arbeitstag und das hier sind 1,5 Arbeitstage.
+Das kann man auch machen. Mal rundet man dann mehr auf, mal ein bisschen weniger,
+aber somit passt das wieder auf den ganzen Auftrag.
+Und ich weiß, zwischen diesen zwei Aufträgen, also von 1 auf 2, muss ich nochmal einen Arbeitstag dazu rechnen.
+Das ist die Übergangszeit.
+So.
+Dann können wir hier den beiden berechnen.
+Der hat ebenfalls zwei Arbeitsschritte.
+Der hat 40 und 30 Minuten Höchstzeit.
+Und der hat Einzelzeit 12 und 10.
+Aber ich muss 200 Stück machen, das heißt hier habe ich 2440 und hier habe ich 2030.
+Das sind 2,71 Arbeitstage und 4,06, dann sind es 3,25 und auch hier wieder ein Arbeitstag dazu richten.
+So, 404.
+König hier hat drei Arbeitsschritte.
+145 Rösten, 15, 30, 50.
+404 habe ich hier für Bauteile, 400.
+Und ich habe noch die Minuten.
+18, 9, 8, 9, 20.
+Und das hier sind dann als Zeit 4.000 Uhr verzählt.
+Hier habe ich 3.215 und hier habe ich 8.000 Uhr verzählt.
+Ich habe zum Teil relativ lange Laufzeiten mit drin, das sind 4,46.
+Das ist 3,57 und das untere sind 8,92.
+Gerundet haben wir hier 4,5.
+Also Sie sehen hier runde ich jetzt relativ wenig auf.
+Dafür runde ich beim nächsten Schritt relativ viel aus und damit reicht es wieder aus.
+Und hier habe ich zwei Übergangszeiten.
+5, 4 und 5, Arbeitsstücke, Rüsten, 2 und einmal, 9 Minuten und 25 Minuten,
+Hier wird jetzt massiv aufgerundet und 2,2,3,4,5, aber wie gesagt, dafür gibt es auch andere
+Stellen, wo weniger aufgerundet wird und damit gleicht es sich auch wieder aus.
+Und dabei das letzte Produkt.
+Das ist der letzte Bauteil, das ist der 4-4-6.
+3 Schritte.
+Muss ich 100 Mal machen.
+10, 10, 1060, hier habe ich 812, und hier habe ich 1000.
+Die Arbeitstagen sind jetzt dann 1,18, 0,9 und 1,16 oder 1,4, 1,5, und auch hier habe ich jetzt 1,18.
+So, wie gesagt, Excel ist Ihr Freund, ERP-Systeme sind Ihr Freund, aber wir machen es einmal, wie gesagt, von Hand, damit Sie wieder zu Heule-Zeiten kommen.
+Ich rechne also aus dem Arbeitsplan raus, was ist die Bearbeitungsdauer.
+Da das eine 100%-Zeit ist, muss ich halt irgendwie diese Verlustzeiten dazu richten.
+Kann ich mit einem fixen Faktor machen, kein Thema.
+Kann ich aber auch einfach sagen, wenn es eine kleine Werkstattfertigung ist,
+warum tue ich mir die kleine Mannischwunde einfach auf?
+Pass auf, weil das ja auch planungstechnisch sinnvoller ist.
+Amen.
+Amen.
+So, und was jetzt kommt, das macht man nur für die Menschen, welche kleine Grafiken haben.
+Wenn Sie das im Rechner haben, brauchen Sie das nicht.
+Aber das ist jetzt gut, was man für die Menschen macht.
+Also schauen wir oben rein. Wir müssen mit der 613 anfangen.
+613 hat die Arbeitsschritte 1 und 2.
+Was ist jetzt das letzte Faktum von den Arbeitsschritten?
+Der Arbeitsschritt 2.
+Deswegen tragen wir jetzt den Arbeitsschritt 2 hier als erstes ein.
+Mit 1,5 Tagen.
+Dann haben wir einen Tag Ruhezeit und dann haben wir noch mal einen Tag für die Bearbeitung.
+Das ist die Übergangszeit, einen Tag für die Bearbeitung.
+Also haben wir 2,5, 3,5 müssen wir jetzt hier für die Bearbeitung.
+Das ist hier der 613er. Dann haben wir hier zwei Tage Übergangszeit.
+Das müssen jetzt zwei Arbeitstage hier sein.
+Da sind so Zwischenlagen.
+Dann kommt unser 506er hier. Unser 506er hat 2,5.
+Bearbeitungszeit für den zweiten Schritt. Dann haben wir einen Tag Pause und dann haben wir 3 Minuten für den ersten Schritt.
+Und dann haben wir hier unten unsere Grafikvertrauerung 406, 1,5, 1 und 1,5, die Varianzierung.
+1, 2, 3, die Arbeitsschritte und dann aus die 406 und dann haben wir hier noch unsere letzten beiden, die 404 und die 405.
+Die 405 hat 9, 4 und 4,5 Tage.
+Und dann haben wir noch die 405, die hat 62,5 Tage.
+Und wenn wir jetzt richtig gezeichnet hätten, ganz ordentlich, ja fast, fast,
+Dann komme ich bei 33,5 zahlen aus.
+Damit habe ich meinen Däumler.
+Und das lege ich dann über meinen Wachskellen drüber.
+Und da meine Zeige.
+So, einmal von Hand, beziehungsweise vorgerechnet, damit Sie wissen, wo die Zeiten kommen.
+Und jetzt sind wir halt, wenn technisch wirklich vorbestimmt, sind halt diese Arbeitsgangszeiten.
+Ich meine, ein bestimmter Arbeitsgang dauert halt zu lang.
+Wie lange Zwischenlagerzeit ist, das hängt von der Organisation Ihrer Firma ab.
+Wenn die halt zum einen der Auslager zwei Arbeitstage brauchen,
+dann sind das halt zwei Arbeitstage in ihrer Durchlaufzeit.
+Wenn die zu jedem Arbeitsgangwechsel eben einen Arbeitstag haben,
+dann ist halt jeder Arbeitsgangwechsel ein Arbeitstag.
+Und das ist das, was Durchlaufzeiten und Werkstattpackungen zu lang macht.
+Eine gute Organisation reduziert diese Übergangszeiten und diese Zwischenlaufzeiten.
+Da haben Sie den größten Hebel, effizienter zu werden. Sie werden nicht besser, wenn Sie hier von
+8 auf 7,5 kommen. Das macht in Ihrer Durchlaufzeit fast nichts aus. Sie werden besser, wenn Sie Ihre
+Organisation verbessern. Und jetzt ist es so, jetzt haben Sie so einen Plan. Und jetzt in der
+In der nächsten Aufgabe, die fangen wir heute nicht mehr an, aber die ist noch einiges komplexer,
+da ist dann jetzt hier, in der nächsten Aufgabe, das sind dann statt hier diese Nummern einfach auch mal Arbeitsgänge hinterlegt.
+Da heißt es zum Beispiel Schleifen oder das muss einfach mal das Schweißen sein und das ist der Vorgangsschleißen.
+Und dann sehen Sie jetzt als Fertigungssteuerer, dass diese zwei Aufgaben hier die gleiche Kapazitätseinheit begeben.
+Und dann sagen Sie jetzt schon von Anfang an, geht nicht.
+Sie haben nur einen Schweißer, der kann sich für diesen Auftrag entscheiden oder für diesen.
+Und jetzt können Sie bereits in der Planung sagen, ich verschiebe dieses Arbeitspaket hier hin.
+Dann kann er diese zwei Aufgaben parallel hintereinander machen.
+Oder Sie können jetzt schon sagen, Sie müssen diesen Auftrag nach außen vergeben,
+denn der kann den nicht machen. Gut. Und das macht gute Steuerung auch aus. Dass ich von vornherein
+auch schon solche Durchlaufpläne mache, die funktionieren. Das ist genauso, wenn Sie planen
+würden, da müssen Sie beim Fußballverein sein und gleichzeitig haben Sie dringend bei der
+freiwilligen Feuerwehr. Funktioniert nicht. Sondern Sie können von vornherein sagen,
+Sie nehmen darauf Einfluss, dass die Termine nacheinander sind. Und genau das muss man
+auch machen. Maßnahmen zur Kapazitätsanpassung. Zum Beispiel, ich kann mit Fertigungsmuskulösen
+spielen. Dann kann ich entweder bestimmte Vorgänge verkürzen oder verlängern. Ich
+kann, ganz wichtig, Aufträge verschieben, bereits in der Planungsphase. Weihnachten
+ganz wichtig. Sie können nicht bei Ihren Eltern und bei den Schullehrerinnen und Schullehrern
+gleichzeitig sein. Ganz viel Stress am Nachmittag. Sie können versuchen, Aufträge zu strecken,
+dass Sie sagen, ich mache nur die halbe Menge erstmal. Das ist dann Auftragsunterbrechung
+beziehungsweise Sie schaffen es vielleicht sogar, Aufträge in anderen Aspekten irgendwo
+unterzubringen. Auf eine andere Maschine, da dauert es zwar länger, aber Sie haben
+keinen Konflikt mehr. Sie können
+Aufträge versuchen, schneller zu machen, indem
+Sie Kapazitätseinheiten zuschalten.
+Zum Beispiel, Sie haben zwei
+Verschweißer und Sie poolen
+den Auftrag auf beide Schweißer, dann sind Sie schneller
+fertig. Wie gesagt,
+Sie machen Losgrößenunterbrechungen,
+Auftragsunterbrechungen, dass
+Sie was zwischenschieben. Aber das machen Sie bitte
+in der Planung. Das lassen Sie bitte
+nicht kurzfristig Ihre Mitarbeiter entscheiden.
+Die müssen eh viel zu viel kurzfristig entscheiden,
+wenn Sie mal eine Maschine ausgeben.
+Und deswegen muss man auch
+Prioritätsregeln setzen. Was muss ein
+Mitarbeiter hier machen,
+wenn ein Auftrag muss er abarbeiten?
+Dass man sagt, das ist wichtiger als der
+andere. Wenn zum Beispiel hier den
+Auftrag, den könnte ich theoretisch nach hinten schieben,
+ohne dass ich eine Urlaubszeitverlängerung habe,
+der Auftrag, da tut mir es weh.
+Und das sehe ich nur,
+wenn ich solche Grafiken mache.
+Okay?
+Das war jetzt die Einstiegsaufgabe.
+So eine
+Aufgabe ist auch in der Probeprüfung drin.
+Was Sie bei einer Prüfung nicht
+machen müssen, ist es tatsächlich Zeichnen.
+Was vorkommen könnte, ist, dass Sie
+sowas interpretieren müssen.
+Also, dass ich frage, wo sehen Sie
+Konflikte? Aber dazu
+machen wir noch eine größere Aufgabe.
+Das ist nämlich die hier.
+Die schaut jetzt nämlich
+extrem komplex aus und schwierig.
+Das Thema ist ja wieder,
+wie bereits erwähnt,
+Fertigung und Steuerung an sich ist jetzt nicht eine komplizierte Angelegenheit.
+Die Komplexität kommt daraus, dass Sie so viel Daten verarbeiten müssen.
+Das ist immer das Problem.
+Dass man so viel wissen muss im Hinterkopf, was funktioniert oder nicht.
+Was sind Meister bereit zu tun?
+Also auch hier sind die bereit, mal auf eine andere Maschine zu gehen, die vielleicht nicht ideal ist.
+Oder da gehört auch die Erfahrung dazu, so nach dem Motto, das passt schon, die Qualität stimmt an der Maschine immer,
+deswegen können wir das Risiko mit der Stückzahlung eingehen oder mit einer Geschwindigkeitserhöhung.
+Dazu zählt dann auch, dass man halt weiß, ach, da muss ich vielleicht den Mitarbeiter drauf ansetzen,
+weil der diesen Auftrag besonders gut kann.
+Dafür darf ich nicht das Material verwenden, weil es immer schief läuft, soll ich sagen.
+Oder ganz klassisch, nie wichtige Fertigungsaufträge zwei Tage vor Weihnachten einkramen.
+Das sind alle ihre Mitarbeiter besoffen.
+Ich habe das vor kurzem von einer Firma gehört, also normalerweise ist in den meisten Firmen
+dann immer inzwischen Alkoholverbot.
+Aber ganz viele Firmen heben das Alkoholverbot an den Weihnachtstag auf.
+Hm?
+Das macht gar keinen Sinn.
+Wie?
+Das ist aufzuheben.
+Nicht so aufzuheben.
+Ja, die Leute wollen halt den Glühwein saufen.
+Und wir betreiben es halt dann.
+Das ist halt für die Weihnachtsfeier immer.
+Und die Idee ist ja, da tritt man halt einen rüber, das geht schon.
+Aber sie haben immer die zwei Karl-Heinzes und die zwei Ottos, die dann doch sie nur da abbringen.
+Aber ihr wolltet diskriminiert wahrscheinlich schon, oder?
+Ne, es ist so. Alkohol am Arbeitsplatz ist leider immer noch nichts Problem.
+Das ist zwar in den meisten Firmen verboten, und ich kenne jetzt auch keine Firma mehr,
+die das Bier im Automaten hat.
+Edelbau schenkt auch kein einziges Arbeitsplatz mehr aus.
+Aber es war noch lange Zeit, also als ich gearbeitet habe, was gang und gäbe,
+dass sie einen Getränkeautomaten hier bekommen haben.
+Und dementsprechend waren da noch Arbeitsplätze.
+Oder das Thema auch funktionierende Alkoholik am Arbeitsplatz,
+mit dem waren sie mal konfrontiert worden, wenn sie tatsächlich Chef sind.
+Das sind ganz, ganz spaßige Geschichten.
+So, wenn Sie Lust haben, wenn Sie Zeit haben,
+dann können Sie sicher mal die Arbeitsaufgaben hier durchlesen.
+Da ist hier alles drin, was Sie wissen müssen. Und das ist das große Problem auch in der Prüfung. Die Angaben sind halt relativ lang. Deswegen gewöhnen Sie sich an, das Wichtigste mit mehr Ettingen oder sonst was zu kennzeichnen, damit Sie das auch sehen. Auch Gleichzuordnung, ist das kapazitätsbildend oder nicht? Ist das was zum Bedarf oder nicht?
+Und hier haben wir halt die Kapazitätsbildungsfaktoren drin stehen.
+Zwei Schichten, 15 Stunden, Arbeitskraft 7,5 Stunden, Betriebsmittel 23 Stunden und so weiter, Zwischenlagerung.
+Hier haben wir die Stückliste, hier ist der Arbeitsplan und hier ist dann tatsächlich das Setup, wie unsere Firma ausschaut.
+Also das hier sind, wie viele Maschinen haben wir.
+Also wenn Sie in der Realität dann drin sind, dann wissen Sie, ach das ist eine DMG-Modi sowieso, sowieso.
+Und das hier ist eine Drehmaschine von sowieso.
+Und das hier ist eine Bohrmaschine von dem und dem.
+Und da wüssten Sie das alles.
+Aber das tue ich jetzt Ihnen hier nicht an.
+Also dass ich Ihnen jetzt halt noch eine Liste gebe, was da für eine Kapazitätseinheit dahintersteckt.
+Aber wenn Sie Verliebtensteuerer sind und Arbeitsplaner, dann wissen Sie das, was da für Einheiten stehen und was da für etwas Sie können.
+Oder sollten Sie zumindest wissen.
+Gut, mit dem fangen wir jetzt heute wieder nicht an.
+Das ist immer spannend.
+Ich habe diese Einheiten tatsächlich immer so eineinhalb Stunden, wenn ich eine Viertelstunde länger machen will, dann geht es.
+Aber macht nichts, wir sind gut in der Zeit, weil wie Sie sehen, wir haben gar nicht mehr so viel vor uns.
+Wir müssen diese Aufgabe machen, die wird uns nochmal eine, tatsächlich eine massive Zeit beschäftigen.
+Und dann haben wir hier eine relativ schwierige Aufgabe, das ist tatsächlich die Einzelbremse für die Leute, die WPL sind.
+Das ist eine detaillierte Terminierungsaufgabe auf Minimum-Ebene, das wird uns dann auch nochmal eineinhalb Einheiten beschäftigen.
+und dann sind wir schon irgendwie am Ende
+unserer Vorlesungseinheit.
+Und dann können wir uns denken, wir haben ja nur noch
+zwei Einheiten, können wir das zeigen?
+Wir brauchen zwei Einheiten. Also man kommt noch gut raus.
+Passt. Finde ich gut.
+Ich war mal nicht zeitig fertig.
+Sehr schön. Dann lasse ich Sie laufen für heute.
+Vielen Dank fürs Mitmachen und wir sehen uns
+nächsten Dienstag wieder. Schöne Zeit.
+Auf Wiedersehen. Ach ja, und international
+E-Commerce. Also wenn Sie zu uns anfangen,
+dann ist es an.
+Vielen Dank.

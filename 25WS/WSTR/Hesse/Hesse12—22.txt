@@ -1,0 +1,46 @@
+Strapazieren. Oder aber das zweite war das sogenannte Fooling. Da ging es also darum, dass wir vielleicht Kalkablagerung auf den Oberflächen des Wärmeübertragers haben, die zusätzliche Deckschichten bilden und entsprechend die Wärmeleitungseigenschaften reduzieren.
+Vielleicht sogar auch die Konnektionseigenschaften auf den jeweiligen Materialien mit beeinflussen ein Stück weit aufgrund von Rauchigkeit.
+Und entsprechend werden die K-Werte sich an der Stelle reduzieren, das heißt also eine schlechtere Wärmeübertragung stattfinden, als sie es bei einem neuen Bauteil haben.
+Entsprechend dauert es einige Jahre sicherlich, aber nach einer gewissen Zeit müssen Sie vielleicht auch bei Ihrem Keller, wenn Sie einen Wärmetauscher haben,
+die entsprechende Materialien austauschen oder entkalken, damit dieses Bauteil wieder effizient und gut arbeitet.
+Eine Beispielaufgabe zum Thema Kalkablagerung gibt es auch in Ihren entsprechenden Übungsblättern.
+Ich meine, es ist auf dem ersten Übungsblatt mit drauf, eine Kalkablagerung auf und im Topf und dann die entsprechende Reduktion der Wärmeleitung.
+So weit also die Wärmeübertrager und dann nochmal im zweiten Teil uns im Extremschnelldurchgang mit Wärmestrahlung beschäftigt und dort auch die Grundgleichungen und Verhaltensweisen kennengelernt.
+Ganz zentral ist das erstmal, dass die Wärmestrahlung auch im Vakuum stattfindet, anders als Wärmeleitung und Konvektion.
+Das ist auch gerne gefragt im Bereich von Versorgung.
+dass man einfach nochmal dort differenziert, fragt, welche Effekte können wo auftreten,
+welche Effekte kann ich wo und wie reduzieren.
+Also dort bitte immer Acht geben darauf, dass die Wärmestrahlung unabhängig vom Medium stattfinden kann.
+Und im konkreteren Formelwerk haben wir gesagt, okay, die Wärmestrahlung ist ein Vorgang,
+der in diesem Stefan-Boltzmann-Gesetz charakterisiert ist,
+das heißt, dass die entsprechende Strahlungsmenge, die übertragen werden kann,
+extrem stark von der Basistemperatur eines Körpers abhängt,
+Verdopplung der Basistemperatur in Kelvin,
+4 zu 16-facher Strahlungsenergieabgabe.
+Ein Beispiel, die Sonne mit 5800 Kelvin,
+4770 Kelvin, ein Körper, der sehr stark abstrahlt, wie er als lebender Organismus oder das, was
+uns hier so an der Oberfläche umgibt, mit um die 300 Kelvin deutlich weniger stark abstrahlen
+kann.
+Ein zweiter Effekt ist die Wellenlänge, in der abgestrahlt wird.
+Je höher die Strahlungstemperatur, desto kleiner die Wellenlänge, desto stärker kommen wir von einem potenziell wärmerelevanten Bereich, der bei langen Wellenlängen liegt, hin zu einem Bereich von sichtbarem Licht, zwischen 300 und 700 Nanometer in etwa.
+und diesem entsprechenden Effekt sehen wir an vielen Stellen wieder,
+dass wir zum Beispiel Glühfarben definieren können, die mit verschiedenen Temperaturen hinterlegt sind
+und dass wir verschiedene Effekte daraus ableiten können,
+wie zum Beispiel das, was wir mit dem Treibhauseffekt kennengelernt haben,
+bei dem wir bestimmte Absorptions- und Emotions- beziehungsweise Transmissions- und Reflexionsverhalten
+wähnlängenspezifisch uns anschauen müssen und dadurch auch diese ganze Kaskade ausgelöst wird,
+wie ein entsprechender Treibhauseffekt funktioniert.
+Also das qualitativ zu verstehen und nochmal beschreiben zu können, zum Beispiel den Treibhauseffekt, ist durchaus ein Thema, was Sie reproduzieren können, sollten.
+In Rechnungen gilt es, das Stefan-Boltzmann-Gesetz anwenden zu können mit der Kelvin-Skala.
+Und in dem Transfer dazwischen nochmal eben diese wichtige Eigenschaft, dass was Sie an Strahlen aus Energie auf einen Körper einstrahlen, kann entweder reflektiert werden oder transmittiert werden oder eben absorbiert werden.
+Diese drei Absorptions-, Transmissions- und Reflexionsgrade zusammen zu eins addiert.
+Und das Thema Absorption, hatten wir ganz am Schluss jetzt nochmal nachgedacht, geht einher mit dem Thema Emission.
+Das heißt, ein perfekter Absorber, ein schwarzer Körper kann auch perfekt abstrahlen und die entsprechende Strahlensmitte wieder an den Übungen abgeben.
+So weit jetzt das, was ich so aus dem FF Ihnen nochmal mitbringen wollte an wesentlichen Informationen aus dem Kapitel der Wärmestrahlung.
+Ich hoffe, Sie konnten ein bisschen was mitschneiden aus dem Online-Raum, aus der Teilnahme und wird dann die Folien erst einmal nochmal mit den Annotationen ins Netz stellen.
+und dann wünsche ich Ihnen schöne Weihnachtsfeiertage, schöne Zeit, guten Rutsch ins neue Jahr
+und dann wird Sie wieder dann begrüßen im kommenden Jahr, erste Vorlesung in der Woche vom 6. Januar,
+ich glaube am 9. oder 10. Januar müsste der Freitag liegen, dass wir dort wieder zusammenkommen.
+Und eigentlich inhaltlich bis auf einen kleinen Baustein aus der Strömungstechnik alles an Inhalt vermittelt haben, sodass Sie, wenn Sie sich jetzt mit dem Thema beschäftigen wollen, in den Feiertage dann auch die Möglichkeit hätten, eigentlich alle Aufgaben auf den Übungsblättern sich einmal anzuschauen und bei Fragen bitte gerne melden.
+Soweit inhaltlich, dann an der Stelle noch einmal, schöne Weihnachten mit dem Watch, alles Gute und bis zum nächsten Mal.
+Wiedersehen.
