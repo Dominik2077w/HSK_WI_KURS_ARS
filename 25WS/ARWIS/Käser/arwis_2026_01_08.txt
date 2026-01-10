@@ -1,0 +1,849 @@
+Wie geht es Ihnen, oder?
+Okay.
+Ich frage dich, machen wir nächste Woche noch, oder machen wir nichts mehr?
+Nein, nichts mehr.
+Also die anderen Vorlesungen fallen aus ab Donnerstag.
+Ab Donnerstag?
+Ja, also inklusive Donnerstag.
+Gut, dann hat sich das so geklärt.
+Das heißt, heute ist unsere letzte.
+Gut.
+Jetzt hatte ich ja einen Fragenkatalog hochgeladen.
+Gibt es da zu fragen?
+Oder ist das soweit?
+Verständlich? Logisch?
+Oder sind Dinge unklar?
+Ich habe ungefähr 20 Fragen hochgeladen.
+Wir werden ungefähr 10 auswählen aus dem Sortiment.
+Vielleicht noch ein bisschen verändern, aber ansonsten steht das weitgehend.
+Ich denke, dass das in dem Umfang auch dann machbar ist, weil das meiste ist ja in den Folien drin.
+drin. Das heißt, es kommen keine bösen Überraschungen. Hat die Auftragszeit jemand
+anschaut. Will jemand die Auftragszeit wissen? In dem Beispiel. Das ist ja in der Fragestellung
+Frage 19. Die erste Frage ist, bestimmen Sie die Zeitarten?
+Ich würde gleich mal eine Frage stellen, die passt jetzt gerade nicht direkt dazu.
+Ja.
+Oder jetzt.
+Bitte?
+Oder ich kann jetzt mal eine Frage stellen, oder?
+Ja, ja.
+In dem Fragenkatalog, die Frage 17, haben Sie eine geschrieben, nennen Sie die Ablaufarten
+Sie nennen sie die Ablaufarten bezogen auf das Betriebsmittel.
+Ja.
+Sie hatten, glaube ich, mal gesagt, dass wir die nicht auswendig lernen müssen.
+Wenn das jetzt aber so ist, dann nur für das Betriebsmittel.
+Ja.
+Okay.
+Aber Sie brauchen dann...
+So.
+Es kommt darauf an, wie ich die Aufgabe mit der Auftragszeit gestalte oder Belebungszeit.
+So, dann haben Sie ja grundsätzlich die Zeitarten bei der Prüfung dabei.
+Wir hatten ja das mit den Bedingungszeiten berechnet und dann halt diese Flowcharts, kann man es ja nennen, welche Zeitart das ist.
+Und da hatten Sie, glaube ich, gesagt, dass wir die nicht auswendig lernen müssen, weil wir die in der Prüfung bekommen.
+Wenn wir das eintragen müssen und in dem Fragekatalog steht jetzt, nennen Sie die Ablaufarten bezogen auf das Betriebsmittel.
+Also müssen wir das für das Betriebsmittel auswendig können?
+Nein, brauchen Sie nicht. Im Prinzip, es geht darum, dass Sie eigentlich grundsätzlich verstehen, was sind Zeitarten für den Menschen, was sind Zeitarten für das Berufsmittel und was sind Zeitarten für das Gegenstand oder für die Durchlaufzeit.
+Im Prinzip, wenn Sie grundsätzlich wissen, dass es eine Haupttätigkeit gibt, eine Nebentätigkeit gibt, eine ablaufbedingte Wartezeit, eine störungsbedingte Zeit und dann das persönliche bedingte Unterbrechen.
+Mit den fünf oder sechs Begriffen wissen Sie eigentlich alles von Menschen und auch von Betriebsmitteln.
+Mensch Haupttätigkeit, Maschine ist Hauptnutzung.
+Mensch Nebentätigkeit, Maschine ist Nebennutzung.
+So, ablaufbedingte Wartezeit, störungsbedingt, persönlich, das ist eigentlich selbsterklärend.
+Und wenn ich eine Auftragszeit, es kommt darauf an, wie man die Auftragszeitberechnung gestaltet, ob man die Zeitarten sehr privats suchen muss oder in dem Übungsbeispiel, das hängt davon ab, wie man das formuliert.
+Aber im Grunde ist es so, in den letzten Malen habe ich die Ablaufarten getrennt von der Aufgabe mit der Berechnung.
+Und in der Berechnung habe ich die Zeitarten eigentlich mitgegeben.
+Weil wenn Sie die Zeitarten und die Berechnung in einer Aufgabe machen und Sie die Zeitarten falsch zuordnen, dann ist die ganze Aufgabe.
+Wenn ich aber das trenne, dann kann die Berechnung richtig sein und die Zeitdaten, da haben Sie heute nicht alles.
+Gut, dann kommen wir zu unserem letzten Kapitel oder noch Fragen.
+Ja. Die Zeiten für die Übungsaufgaben von 19, die waren direkt, glaube ich, schon. Die Zeiten, so. Jetzt sind wir bei der Aufgabe 19. So, da haben wir den Ablaufabschnitt. Welches ist die Rüstzeit in der Aufgabe?
+Welche Ablaufabschnitte kommen zur Rüstzeit?
+Eins und zwei.
+Eins und zwei und?
+Zehn noch.
+Eins, zwei und zehn sind Rüsttätigkeiten.
+Die fallen einmal an für den Auftrag.
+so also in dem fall 25 minuten so die anderen drei bis neun
+was sind denn das für ablaufarten oder zeitarten hier in dem fall sind es zeitarten weil zeit dabei
+steht. Im Prinzip, seine Haupttätigkeit liest sich aus der Aufgabenstellung. Eine Platine mit
+Elementen bestücken, löten, prüfen und verpacken. So, das heißt, das Löten und das Bestücken und
+das Prüfen sind seine Haupttätigkeiten. Und die Zeit vom Ablaufabschnitt Nummer 3 ist eine
+Nebentätigkeit und die von
+9.
+Wenn Sie von 3 bis
+8 irgendeine
+Zeitart falsch zuordnen,
+dann hat es keinen Einfluss auf die Berechnung.
+Also
+ich gebe zwar Punkte
+für die einzelnen Zeitarten,
+aber wenn eine falsch ist,
+dann ist es eben nicht die Aufgabe falsch.
+Das heißt, die Zeitdaten
+So, was wollen wir noch wissen?
+Berechnen Sie die Rüstgrundzeit, Rüsterfreizeit, Rüsterholzeit,
+Die Grundzeit DG, die Verteilzeit DV und die Erholzeit.
+Die Grundzeit sind in dem Fall 7,5 Minuten.
+Die Verteilzeit 7,5% von der Grundzeit.
+Also 0,56 Minuten.
+Erholzeit sind 4,5% von der 7,5 Grundzeit, sind dann 0,34 und somit können wir die TE berechnen.
+Die TE besteht aus TE plus TV plus TER, so in Summe dann 8,4 Minuten.
+Die Rüst-Grundzeit ist der Ablauf Abschnitt 1, 2 und 10, sind insgesamt 25 Minuten.
+Rüstverteilzeit
+7,5% auf die 25
+Gusterholzeit
+4,5% auf die 25
+gibt in Summe dann eine Rüstzeit
+von 28 Minuten
+28 Minuten plus 25 mal die Menge sind dann in Summe 448 Minuten.
+Also wenn Sie später mal mit dem Thema zu tun haben, Kalkulation, das ist die Grundlage
+jeder Kalkulation.
+Die Kalkulation setzt sich aus den verschiedenen Ablaufabschnitten zusammen mit den jeweiligen
+Grundzeiten, dann haben Sie eine Verteilzeit
+und vielleicht eine Erholzeit
+und dann kann man die
+Auftragszeit berechnen.
+Und bei der Belegungszeit, das ist halt immer
+die Frage, ist die Auftragszeit
+und die Belegungszeit gleich
+oder gibt es bei der Belegungszeit
+Unterschiede?
+Speziell bei
+Spritzgusswerkzeugen oder im Spritzgussbetrieb,
+wenn Sie
+Werkzeuge haben mit mehreren
+Kavitäten, dann
+haben sie auf jeden Fall Unterschiede.
+Oder wenn sich
+unterschiedliche
+Mengeneinheiten ergeben
+in unterschiedlichen Steps
+der Produktion. Also das,
+was wir hier machen, das ist ein einfaches
+Beispiel. In der Praxis
+wird es oft
+komplizierter.
+Nicht so einfach.
+So, aber
+wie gesagt,
+Man beginnt in der Regel nicht von vorne. Es gibt Leute, die sich da auskennen und die kommen an Fragen.
+Aber Sie, wenn Sie später mal Führungskraft sind, Sie müssen wissen, wie sich das Ding zusammensetzt.
+Weil sonst erzählen Ihnen die Mitarbeiter Märchen.
+Und das wollen wir nicht.
+Weil im Prinzip dann die Wirtschaftlichkeit darunter leidet.
+Gut, kommen wir zu dem anderen Thema.
+Ergonomie, Arbeitsgestaltung.
+Jetzt können wir fragen, was ist Arbeitswissenschaft und was ist Industrial Engineering?
+In dem Part der Arbeitswissenschaft ist die Ergonomie und die Arbeitsgestaltung ein wesentlicher Faktor.
+Ich muss die Arbeit, wenn möglich, so gestalten, dass sie menschengerecht ist und die Gesundheit nicht schädigt.
+Beim Industrial Engineering geht es in erster Linie um die betriebswirtschaftliche Seite.
+Also um Effizienzsteigerungen, um Wirtschaftlichkeitsberechnungen und diese anderen Dinge.
+Da steht die Wirtschaftlichkeit im Vordergrund.
+Aber die Ergonomie ist ein wichtiger Faktor, weil zum Beispiel die Berufsgenossenschaften,
+die hier in Deutschland aktiv sind, ich hatte die auch erst kürzlich im Haus,
+die schauen natürlich, dass sie möglichst keine gesundheitsschädlichen Arbeitsplätze haben.
+Und möglichst keine Unfälle aufgrund von falsch gestalteten Arbeitsplätzen oder mangelhaften seitlichen Arbeitsplätzen passieren.
+Sie sind in erster Linie die Berufsgenossenschaft, die ist dafür da, das Wohlergehen des Mitarbeiters zu prüfen und möglichst die Situation noch zu verbessern.
+besser. Das eine ist die Berufsgenossenschaft, das andere ist natürlich auch die Krankenkassen,
+die auch ihren Anteil haben, weil, wenn man jetzt das letzte Jahr oder die letzten zwei
+Jahre zurückschaut, der Krankenstand enorm hoch ist. Da ist die Frage, warum ist es so? Und was
+läuft in dem Arbeits- oder Berufsleben falsch? Weil der Krankenstand so hoch ist. Das sind zum
+Beispiel Dinge wie in der Arbeitsplatzgestaltung, dass man einseitige Belastung hat, zum Beispiel
+ich habe Rücken und ich werde psychisch oder wie auch immer gestresst. Es sind vielfach auch die
+Arbeitsbedingungen in der Zusammenarbeit, die Probleme machen. In den letzten Jahren war das
+weniger ein Thema eigentlich, weil die Bedingungen in der Zusammenarbeit, wenn die Wirtschaft wächst,
+relativ relaxt. Wenn die Wirtschaft schrumpft, so wie jetzt, dann wird der Stress größer. Weil
+dann werden die Belastungen für die Mitarbeiter zunehmen, so wie die Firmen einfach Arbeitsplätze
+abbauen und deren Aufgaben
+zusammenlegen, da wird es dann
+unangenehmer.
+So, aber Arbeitsgestaltung
+in der Ergonomie,
+das heißt eigentlich
+die Lehre von der Mensch und
+Technik, das heißt
+wir müssen im Zusammenhang
+irgendwie
+zusammenfinden
+und die Arbeit mit
+den technischen Mitteln
+möglichst schädigungsfrei
+erleben können.
+Das heißt,
+das ganze Thema ist auf das
+Wohlbefinden des Menschen
+priorisiert.
+Sie haben es
+in unterschiedlichen Bereichen.
+Es betrifft
+einmal das Produkt,
+dass ich ein Produkt
+gestalte,
+dass es möglichst schädigungsfrei benutzt werden kann. Es ist ein Arbeitsplatz, damit ich einen
+Arbeitsplatz habe, der schädigungsfrei ist und langsichtig ist. Jetzt sagen wir, wir leben hier
+in Deutschland auf hohem Niveau. In vielen Firmen gibt es eine Vorlage an der Arbeitsplätze.
+Aber es gibt auch eine Menge Richtlinien, wie man Arbeitsplätze gestaltet. Und die sollte man, ja,
+auf die Fragen hin, psychische, physische Belastungen, Arbeitsumwelt,
+Also Arbeitsumwelt, es ist ja nicht so, dass wir immer Bio-Arbeitsplätze haben und das schön trocken ist,
+sondern auf den Baustellen ist es jetzt besonders unangenehm.
+Und die Firmen nehmen heute keine Rücksicht mehr auf das Hotel, sondern sie sagen,
+das Hotel muss zu dem Termin fertig sein, egal wie du das machst.
+So, das heißt, in Summe, es gibt eine ganze Reihe von Belastungen, die in unterschiedlichen Branchen unterschiedlich wirken.
+Investmentbanker, wenn er gut ist und viel Geld verdient, dann muss er mit 40 fertig sein.
+Weil er ist fertig.
+weil er eigentlich rund um die Uhr
+die Börse und die Unternehmen
+beobachtet, auf dem ganzen Globus
+und wenn du gut sein willst
+dann darf dir nichts auskommen
+aber das kostet in der Gesundheit
+den Preis
+darum kommen viele Investmentbetreiber
+aus Großbritannien
+die fahren dann mit Porsche in die Schweiz
+und verbrassen, abflötzendes Geld.
+Aber dafür brauchen wir uns keine Säge.
+So, Gestaltung, auch hinsichtlich der Anthropometrie,
+der Körperhaltung, Sichtbereich, Reichweiten, Greifen, Fußrang.
+Für alles gibt es Regeln, Regelwerk.
+So, das können Sie am besten sehen am Auto.
+So, ein Auto ist ein typisches Beispiel. Heute, sage ich, ist in einem Auto viel zu viel Information drin, die von dem Eigentlichen ablenkt.
+Und zwar das Autofahren und die Mitteilnehmer zu beobachten.
+So, diese Woche kam ein gutes Beispiel aus Vietnam, eine Großstadt mit 7 Millionen Einwohnern,
+80 Millionen Mopeds und keine Ampel und wenn man sich das in der Zeitlupe anschaut wie
+der Verkehr funktioniert, dann ist es so, es besteht hier niemand auf sein Recht, sondern
+es achtet jeder darauf, dass dem anderen nichts passiert. Und der Verkehr fließt trotzdem.
+So, das heißt, in Summe, es gibt viele Möglichkeiten der Gestaltung. So, beim Auto, als Beispiel
+Jetzt für unsere Sphäre hier in Deutschland, schauen Sie ein altes Auto an, das ein Oldtimer ist, 30 Jahre alt, und dann bedachten Sie mal gezielt nur das Armaturenbrett, was auf dem Armaturenbrett drauf ist und was Sie heute als Information verarbeiten müssen.
+Die Arbeitswissenschaft beschäftigt sich auch mit den neuen Technologien, also das
+RIFA-Institut, das beschäftigt sich zum Beispiel, wenn BMW kommt und ein Head-up-Display machen
+wird. Welche Auswirkungen hat es auf den Fahrer? Und in der ganzen autonomen Fahrwelt,
+Da gibt es viele Auswirkungen, die einmal erforscht werden müssen.
+Das ist die Grundlage dafür.
+In der Anthropometrie, Körperhaltung, können Sie auch sehen,
+das verändert sich beim Auto.
+Die Menschen in Zentraleuropa werden immer größer.
+Also muss sich der Arbeitsplatz für den Fahrer ändern.
+Dann schauen Sie in den LKW rein. Ich habe den LKW-Führerschein bei der Bundeswehr gemacht damals.
+Da gab es keine Hilfsmittel. Da mussten Sie echt rudern. Auf das Pedal draufstehen mit dem Körpergewicht.
+Heute alles mit einem Finger.
+Das heißt, die Produkte verändern sich, die Arbeitsplätze verändern sich, die Menschen passen sich dem an.
+Aber nicht alle Dinge, die wir machen, sind unbedingt gut.
+Auch hier bei der Anthropometrie, Körperhaltung, Sichtbereich, Bereichweiten.
+Das ist ein typisches Thema für Arbeitsplatzgestaltung in einer Montage.
+Wie ist der Montageplatz aufgebaut, wie sind die Greifbehälter, wie sind die Teilebereitstellungen,
+wie ist die Teileablage und was macht er für Entfernungen, was hat er für Körbehalten.
+Das ist das Thema der Ergonomie.
+Produkt, System und Prozess. Im Prinzip wird das ganze Thema beeinflusst, einmal durch die
+Technologie, die wir verwenden. Also sprich, ob wir analoge Geräte verwenden, digitale Geräte,
+welche Software wir verwenden, von dieser Technologie wird vieles beeinflusst.
+So, dann von der Organisation selber.
+Das ist ja das, wo man in Deutschland sagt im Moment,
+die Organisation insgesamt in den öffentlichen Bereichen, die hängt hinterher.
+Weil, was haben Sie jetzt gesagt, in Polen dauert das Anmelden für eine Firma,
+Also wenn Sie eine Firma neu registrieren, drei Minuten.
+In Deutschland erreichen Sie in drei Wochen nichts.
+Das heißt, vom Prozess und der Organisation sind es bei uns ganz andere Herausforderungen wie in Polen.
+Aber wir konkurrieren mit denen.
+Polen hat Wirtschaftswachstum, wir haben keins.
+So, und die sozialen Beziehungen, das heißt, wie die Leute untereinander können. Also,
+sprich zum Vorgesetzten und zu Untergegenen, wie der Umgangston ist, das spielt alles eine Rolle.
+Ausführbarkeit, das sind die Grunddinge, die die Ergonomie ausmachen. Das heißt,
+Ich kann nicht einen Arbeitsplatz gestalten, der für manche Personen, wo ich die Arbeit nicht ausführen kann.
+In dem, dass ich Bedingungen schaffe, die unmöglich sind.
+Schädigungslos.
+Wenn ich dauernd Leistung abverlange, die über der Dauerleistungsgrenze eines Menschen liegt.
+Das heißt, ich muss schauen, dass ich das so gestalte, dass der Mensch
+heute in ihrem Alter bis 70 auf jeden Fall arbeitet. Also müssen sie die Arbeitskraft
+einteilen, dass es das Leben lang
+reicht. Japaner
+arbeiten bis 80.
+So, die Frage ist,
+werden Sie mit 70 noch die
+Technologie verstehen, dann das
+so wie heute
+manche auch
+die Technologie nicht verstehen,
+wird sich die Welt wieder
+drehen und in eine andere Richtung
+gehen.
+So, Zumutbarkeit.
+Das ist ein gutes Beispiel. Das heißt, der Maschinentakt geht vor und der Mitarbeiter macht.
+Bei mir in der Produktion nichts anderes. Die Maschine läuft mit kontinuierlicher Geschwindigkeit.
+Am Ende der Linien müssen die Waren verpackt werden. Wenn er zu langsam ist, die Maschine hört nicht auf.
+So, das heißt, es muss in einem angenehmen, nicht angenehmen, angemessenen Takt sein,
+so dass der Mitarbeiter den Job auch langfristig machen kann.
+So, das heißt nicht, dass es an das Langsame angepasst wird,
+sondern es muss eine entsprechende Leistung zugrunde gelegt werden und die muss erbracht werden.
+Es ist das aber, was viele heute nicht verstehen. Sie sagen nur, die Arbeit muss bequem sein.
+Aber die Arbeit kann schon bequem sein, wenn ich mit dem Produkt trotzdem das Geld verdiene.
+Aber wenn Sie jetzt mit mir rauskommen aus der Hochschule und sich selbstständig machen,
+dann werden Sie als erstes feststellen, wie schwer es ist, das Geld als Selbstständiger zu verdienen,
+das am Ende vom Monat was übrig bleibt.
+Weil das, was Sie an den Kunden faktorieren, das ist als Einzelselbstständiger am besten sichtbar.
+Da weiß man, was Leistung heißt.
+Wenn ich nicht arbeite, kriege ich kein Geld.
+Wenn ich angestellt bin, ist es alles.
+Persönlichkeitsfördernd.
+Das ist der Vorteil in größeren Firmen,
+weil ich dementsprechend Arbeitsplatzwechsel, Abteilungswechsel, Standortwechsel anbieten kann.
+Und somit die Arbeitspersonen in der Zukunft vielleicht das finden, was sie an dem ersten Arbeitsplatz nicht haben.
+Das heißt, in Summe, wenn man zum Arbeiten beginnt, lange Zeit in einem Unternehmen,
+heißt nur, dass man das eigene Unternehmen kennt. Mit allen Vor- und Nachteilen. Wenn Sie häufiger
+wechseln, also nicht im Monatstakt, vielleicht im Fünfjahrestakt oder länger, dann kann man
+eigentlich grundsätzlich nur dazu lernen. Und wenn Sie das dritte Mal gewechselt haben, dann wissen
+Sie, was an den zwei vorherigen Jobs gut war. Und ob es denn besser wird, weiß ich
+nicht. Sozialverträglich. Was ist sozialverträglich?
+Ich kann ein Beispiel aus dem Fernsehen sagen, da haben sich junge Leute in China interviewt.
+Sie hat studiert, findet im Moment keinen Job und fährt für einen Essensdienstleister
+aus.
+Die Informationen kriegt sie an das Handy. Der Stundenlohn ist pro Tag 2,37€.
+Sozialverträglich? Nein, weil sie nicht davon leben können. Die Eltern unterstützen sie.
+Und sie haben auch das Gegenteil gebracht. Junge Leute, die Unmengen an Geld verdienen.
+Sozial verträglich, das merkt man am besten heute in Deutschland, wie die Meinungen ausmachen.
+Was ist sozial verträglich?
+Wenn ich die Messlatte sehr hoch lege, dann ist das ein anderer Weg, wie wenn ich die Messlatte mittel oder unten habe.
+So, Ergonomie.
+Im Prinzip, wir benutzen die meisten Produkte, wir nehmen sie einfach.
+Ergonomisch gut gestaltete Produkte.
+Das sehen Sie am Computermolzen, es gibt die senkrechten, es gibt die waagerechten, es gibt alle Variationen.
+Da kann man auch die Ergonomie beleuchten, so wie an einem Kugelschreiber.
+Die Kugelschreiber sind 0815, ganz primitiv.
+Wir haben einen Kunststoffgriff aus billigstem Plastik, so ist es.
+Aber Ergonomie, die Spielen rein, kostet auch viel Geld, wenn man anretten will.
+So, das heißt, ich muss grundsätzlich von dem überzeugt sein, was ich damit machen will.
+So wie beim Schraubendreher.
+Schauen Sie sich einen Schraubendreher an, der in dem Auto hinten in dem Ersatzteinkoffer liegt,
+wenn Sie den Reifen wechseln müssen.
+So, das sind primitivste Werkzeuge.
+Vielleicht darauf ausgelegt, dass sie einmal in der Lebenszeit genutzt werden, vielleicht
+auch einmal im Jahr, aber mehr auch nicht.
+Wenn ich die Schrauben hier jeden Tag brauche, dann kommt es immer nur darauf an, welche
+Schrauben nicht eindrehen. Dann hilft eine optimale Kraftüberdrehung, indem das Produkt sauber gestaltet ist.
+So und wenn Sie sich solche Dinge anschauen, mit mehreren Kunststoffkomponenten, angenehmer Griff,
+der Griff ist geformt an die Hand, dann haben Sie eine optimale Kraftübertragung.
+Das heißt, grundsätzlich kann ich hier ein billiges Werkzeug nehmen, das keine ergonomische Gestaltung hat.
+Wenn ich es jeden Tag brauche, dann werde ich darauf schauen, dass ich ein gutes Werkzeug habe.
+So, das ist normal.
+So, das heißt, es kommt auf die Anzahl der Umdrehungen an bei einem Schraubendreher,
+wie viel Kraft wir da verbrauchen, es kommt einfach auf die Nutzung an, was will ich damit?
+Wenn wir heute in die Softwareindustrie reinschauen, da ist es das gleiche Ding.
+wie gestalte ich die Software von der Oberfläche, von der Benutzung her.
+Das ist für den, der das vielmals am Tag genutzt, angenehm gestaltet ist.
+In den letzten Jahren gab es da enorme Fortschritte, weil die Systeme besser zusammen harmonieren.
+Also Sie können die Dateien von einem Programm ins andere schieben.
+Das ist alles viel komfortabler geworden.
+In der Maschinenindustrie, da ist die Frage, ist eine MAHO Deckelmaschine von der Bedienung angenehm?
+Dann kommt es darauf an, was für eine Steuerung drin ist.
+im prinzip es sind viele dinge die das beeinflusst so wenn man die tastaturen anschaut so schauen sie
+in die mediamarke rein sie finden von 19,90 bis 150 euro alles so dann drücken sie mal auf die
+die Tasten drauf. Wenn Sie abends im Bett liegen und dann keine Beleuchtung für die Tastatur haben,
+dann ist es schlecht. Wenn Sie das nicht brauchen, okay. Das heißt, aber in der Ergonomie kommt es
+darauf an, ob die Tasten grundsätzlich weiß sind oder schwarz beschriftet, ob sie beleuchtet sind
+oder nicht oder umgekehrt, jeder empfindet es anders. Ein Apple hätte sich nie durchsetzen
+können, wenn es nicht dafür ein Klientel gegeben hat. Nokia war Marktführer, hatte
+aber kein Touch-Display, sondern eine Tastatur. Das heißt auch, Sie können heute neue Produkte
+entwickeln mit anderen Eigenschaften, die es nicht auf dem Markt gibt. Wenn sich Kunden dafür finden,
+Im Grunde muss man immer Argumente finden, warum man bestimmte Dinge anders macht, wie der Mitbetreiber.
+Sie brauchen Vorteile, heute mehr denn je.
+Gleicher Preis muss bestimmte Vorteile finden, sonst macht es keinen Sinn.
+So, Vorteile. Normale Tastatur, Bildschirmtastatur, Vibrationen, Eingabestifte und so weiter.
+Da haben sich viele Ergonomen darüber gespricht. Bei Apple war die Diskussion mit dem Eingabestift.
+Weil der Apple-Chef damals gesagt hat, jeder Stift ist überflüssig.
+Kann man sehen, wie man das sieht?
+So, Arbeitsplatzgestaltung.
+Viele Dinge am Arbeitsplatz sind vorgegeben durch die Maschinenvorrichtungen.
+Aber ich kaufe irgendwann Maschinen und ich kaufe Feuchtigkeit.
+Das heißt, ich muss mir Gedanken machen, wer benutzt diese Dinge dann?
+Das heißt, hier ist das Erreichen schwierig.
+Hier hat er keinen Fußraum.
+Da hat er eine wackelige Beleuchtung, im Prinzip auch Dinge, die die Berufsgenossenschaften
+bemängelt.
+Also wir hatten auch, wir haben eine Vielblattsäge, da war beim letzten Besuch der Berufsgenossenschaft
+die Lampe kaputt.
+Einfach eine kaputte Birne.
+Diesmal waren sie zu Besuch, da wollten sie sehen, ob die Lampe geht.
+Das heißt, sie schauen darauf, dass es möglichst sicher ist und keine Unfalle passieren.
+So, dann haben wir die Arbeitsumgebung.
+Klima, Strahlung, Klima, schauen wir mal raus, wenn wir draußen arbeiten müssen, ist es
+derzeit ein bisschen unangenehm. Für manche nicht, für manche ist es schön. So, Strahlung.
+Ist es Wärmestrahlung oder Kälte-Strahlung? Schall und Lärm. Am Arbeitsplatz stört uns
+Abends kann die Disco nicht laut genug sein.
+Das sind die Dinge, die sich vielfach widersprechen.
+Mechanische Schwingungen haben Sie dann, wenn Sie große Maschinen haben,
+haben, zum Beispiel große Stanzmaschinen, die mit jedem Hub den Boden vibrieren lassen,
+dann haben sie mechanische Schwingungen.
+So, mechanische Schwingungen gibt es auch bei automatischen Zuführungen über Rüttler
+von Schrauben, Beinabscheiben und so weiter.
+Da vibriert alles.
+Die Frage ist, ist das angenehm für den Menschen oder unangenehm?
+Manche Schwingungen verträgt der Mensch besser und manche verträgt er eben nicht.
+Gefahrstoffe.
+Wir verwenden zum Walzenreinigen, zum Hochglanzwalzenreinigen,
+ein Reinigungsmittel.
+Dann muss ich jedes Jahr die Zulassung beantragen.
+Also müssen Sie in dem Arbeitsplatz darauf schauen,
+dass der Mitarbeiter weiß, was das für ein Gefahrstoff ist, wenn er den verwendet.
+Dass er die Dämpfe nicht eingeladen hat und so weiter.
+So, Farbe.
+Was kann man zur Farbe sagen?
+Es gibt bestimmte Farben, die sind angenehm, es gibt bestimmte Farben, die sind aggressiv.
+je nachdem was einbildet. Das heißt in der Arbeitsumgebung hängt es damit zusammen wie
+die Räume gestaltet sind, wie sie gestehen sind, mit welchen Farben. Und dann die Beleuchtung.
+Ist die Beleuchtung hier richtig angeordnet?
+Auch dafür gibt es Richtlinien wie man den Raum gestaltet. Also Arbeitsplatzgestaltung
+und Arbeitsraumgestaltung gibt es zig Empfehlungen von den Berufsgenossenschaften wie
+wie und was man beachten soll und so weiter.
+Wenn Sie hier ein Büro neu einrichten, dann lassen Sie den Einrichtungsberater kommen.
+Wenn Sie es selber nicht wissen, dann sage ich, okay, soll einer kommen,
+und da sollen wir Vorschläge machen oder zwei oder drei.
+Einfach Vorschläge machen und dann schaut man,
+denkt über die Dinge, die er vorgeschlagen hat, nach.
+So, zum Beispiel, dass die Beleuchtung quer zu den Fenstern angeordnet ist.
+Mit welcher Beleuchtungsstärke, brennfrei und so weiter.
+Es gibt zig Themen, die das Leben, wenn man die richtige Beleuchtung hat, einfacher machen oder leichter machen.
+So, Leistungsvoraussetzungen.
+Werden durch die psychologischen und psychischen Bedingungen der ausführenden Person bestimmt.
+Was heißt das?
+Aufgrund der Bankbreite menschlicher Leistungsvoraussetzungen.
+Was sind denn die Leistungsvoraussetzungen?
+Was bringen Sie mit, indem Sie bei der nächsten Firma beginnen?
+Mindestvoraussetzungen der Nutzergruppe.
+Was bedeutet das?
+Wenn Sie schwere körperliche Arbeit haben, was sind die Grenzwerte, wenn an dem Arbeitsplatz
+eine Frau arbeitete. Also bei mir in der Rolle, in der Extrusion. So, wickeln Sie die Folien
+auf Rollen. Es gibt Kunden, die wollen eine 600-breite Rolle, 0,5 mm dick, 100 Meter Rollen.
+So, und dann heben Sie mal
+vom Wickler runter.
+Nichts für eine Frau, weil die Grenzwerte
+überschritten werden.
+Das heißt, ich muss die
+Leistungsvoraussetzungen
+anschauen. Was brauche ich
+für den Arbeitsplatz? Und dementsprechend
+muss ich anpassen. Und nicht
+einfach als Arbeitgeber verlangen.
+Das nächste ist,
+ist das nur einmal
+oder zweimal?
+oder ist es im Minutentakt und regelmäßig über die ganze Schicht verteilt. Das heißt,
+es gibt eine ganze Menge zu beachten für Frauen, für Auszubildende, für Männer usw. Im Prinzip
+im Kern immer
+tun sie die Leute nicht
+nur der Anspruch.
+So, das heißt,
+grundsätzlich
+wird der Mensch durch die Arbeit
+oder anders formuliert,
+die Arbeit belastet
+den Menschen.
+Und wie er
+beansprucht wird,
+von seinen Leistungsvorsitzungen ab, die er mitbringt.
+Beispiel dazu.
+Sie haben einen, der gerne Auto fährt, und haben eine Person, die nicht gerne Auto fährt.
+Für den ist das Autofahren einfach.
+Und Sie teilen ihm heute mit, oder die beiden,
+Der eine muss morgen nach Italien fahren und der andere muss morgen nach Polen fahren.
+Der, der es gerne macht, der wird ruhig schlafen.
+Der, der es nicht gerne fährt, der wird Albträume haben die Nacht.
+Und ist dementsprechend beansprucht und gestresst.
+Das Gleiche haben wir, wenn wir als Arbeitgeber Dinge verlangen, die der Mitarbeiter nicht kann,
+weil ich sie nicht gezeigt habe, weil er es nicht gelernt hat. Und wenn wir jetzt bei Menschen sind,
+Es gibt Menschen, die sagen, okay, packe ich an, mache ich.
+Und es gibt Menschen, die sagen, es ist unmöglich.
+Die Frage ist, was man für Menschen in den Unternehmen hat und welche Voraussetzungen sie mitbringen.
+Das heißt, der Mensch wird beansprucht, das kann kurzfristige Auswirkungen haben
+und
+langfristig.
+Wenn ich ihn
+zu sehr beanspruche,
+dann habe ich es langfristig
+gemacht.
+Was könnte
+das zum Beispiel sein?
+Wir saugen in der Produktion
+zerspanende Kunststoffspäne
+und saugen die in der Anlage ab.
+Wenn der Fahrtwechsel ist,
+muss einer den Siler sauber machen. So, jetzt könnte man sagen, die Späne verursacht einen Stau.
+Die Frage ist, ist das jetzt schädlich oder nicht schädlich? Oder ist es nur unangenehm?
+So, wenn ich jeden Tag den Siler sauber machen muss und es gereinigt wird, dann habe ich
+bestimmte Staubentwicklung. So, die geht auf die Lunge. Langfristig wird er das spüren.
+So, wenn ich Maschinen habe mit einem hohen Lärmpegel, dann ist die Frage,
+habe ich das jeden Tag oder habe ich das nur ab und zu? Und dementsprechend muss ich reagieren.
+Das heißt im Prinzip, die langfristigen Auswirkungen, die sind das Thema der Berufsgenossenschaft.
+Die kurzfristigen Auswirkungen sind das Thema der Krankenkasse.
+Weil dann ist er halt mal eine Woche krank.
+Und langfristige Auswirkungen, die Berufsgenossenschaft, die kommen und schauen, ob die Arbeitsbedingungen ideal sind.
+Sie werden alles dafür vorschreiben, dass Sie im Späteren bei den langfristigen Auswirkungen
+nicht bezahlen müssen, weil langfristige Auswirkungen sind in der Regel Berufskrankheiten
+oder Arbeitsunfähigkeit, weil er die Bedingungen nicht mehr erfüllen kann.
+Also auch die ganze Diskussion in der Politik, wie man das mal mit 70 arbeitet.
+Wenn einer mit 70 auf die Baustelle noch geht und als Maurer arbeitet,
+dann muss er erstmal in die Politik.
+Dann kann er das verstehen.
+Es gibt durchaus Jobs, die können bis 70 arbeiten.
+So, wie ist das in der Zeitung geheißen, der Richter, dem das New Yorker Gericht, dem Van Duur zugeteilt hat, wie alt ist der?
+Könnte ihm Trump jetzt nicht zum Verhängnis werden?
+Weil sein Richter ist mit einer lebenslangen Erfahrung des Zweierlands.
+Und ist dafür bekannt, dass er nicht nur die eine Seite anschaut, sondern auch die andere.
+Das heißt, Beanspruchung gibt Beanspruchungsfolge.
+Je nachdem, wie meine Voraussetzungen, die ich mitbringe als Arbeitnehmer sind,
+desto mehr oder weniger werde ich belastet sein.
+Belastung haben wir durch die Arbeitsmittel, sprich Werkzeuge, Maschinen, Software und alles drumherum,
+Arbeitsumgebung und Arbeitsorganisation.
+Wichtig ist bei dieser Belastung, die Belastungshöhe und die Belastungsdauer.
+So, wird es denn überhaupt angeschaut im Unternehmen?
+Da haupt man drauf, wie das ist.
+Belastungshöhe habe ich ja schon gesagt.
+An dem Mollenbeispiel werde ich drauf schauen, wenn ich nicht will, dass der Mitarbeiter krank ist.
+Oder Rücken hat.
+Und Rücken hat heißt, dass er das in Zukunft nicht mehr machen will.
+Die Umgebung und die Belastungsdauer, das hängt auch vom Arbeitsplatz ab.
+Was habe ich für einen Arbeitsplatz?
+Wenn ich in einer Chipfabrik arbeite mit dem Anzug und dem Haube und was weiß ich noch,
+Da ist es vielleicht schön, weil es ja der weiße Anzug ist, aber das Restlicht weiß ich nicht.
+Das empfindet jeder anders.
+So, Messung, Beurteilung.
+Es gibt in der Regel für diese Belastungsfaktoren ergonomische Tabellen, wo Sie daraus ablesen können.
+Brauchen tun wir das.
+Das heißt, Heimler zum Beispiel oder BMW, die haben ihre eigenen ergonomischen Tabellen
+gemacht, wo sie konkret diese Belastungen beschreiben und wenn die und die Belastung
+noch eintritt, dann hat er Ruhepause, dann kriegt er Zuschlag im Lohn und so weiter.
+Deshalb brauchen wir die Dinge.
+Weiters ist der Mensch von seinen individuellen Voraussetzungen her die Leistungsfähigkeit und die Leistungsbereitschaft.
+Die Leistungsfähigkeit ist das, was Sie mitbringen, wenn Sie aus der Hochschule rausgehen.
+Sie sind in einem bestimmten Alter, sie haben bestimmte Konditionen, Konstitutionen, Ausbildung.
+So, die Leistungsbereitschaft ist das zweite Thema.
+Tagesform, Motivation, Disposition, Krankheit, Emotion.
+Das heißt, man ist grundsätzlich nicht jeden Tag gleich gut drauf.
+Leistungsbereitschaft ist im Moment im Keller bei der arbeitenden Bevölkerung.
+Warum? Weil der Staat immer mehr mitnimmt.
+Es steigen die ganzen Abgaben, es steigen die Steuern und in Summe sagen sie zwar, sie haben mehr Verdienst, weil die Tarifsteigerungen da sind,
+Aber im Junge bleibt unter dem Strich weniger übrig.
+Die Leistungsbereitschaft grundsätzlich wird für mich wieder steigen, wenn man das dreht.
+Die Arbeit und der Stundenlohn, das muss sich irgendwo in einem bestimmten Verhältnis bewegen.
+Das ist im Moment in einem ungesunden Verhältnis.
+Für Arbeitgeber und für Arbeitnehmer.
+So, beansprucht werden die Muskeln, Ermüdung, Reaktionsgeschwindigkeit, Aufmerksamkeit,
+Konzentrationsfähigkeit, das Herz-Gleislauf-System und alles ist davon abhängig, was wir vom
+Arbeitstempo her bringen müssen. Jeder von Ihnen hat eisgemäß eigene Leistungsvoraussetzungen.
+Nicht im negativen Sinne gemeint, sondern einfach unterschiedliche Gegebenheiten, die
+wie sie mitbekommen von ihrer Ausbildung, von ihren gentechnischen Voraussetzungen und was sonst noch alles ist.
+Von der Ernährung her, da spielen ja viele Dinge eine Rolle.
+Aber im Prinzip, das sind Dinge, die man in ihrem Job erwartet.
+Sie sollen nicht erbüden.
+So, gestern im Fernsehen China, Shenzhen, die Informationstechnologiefirmen haben eine Arbeitszeit von 9 bis 9, 6 Tage.
+bei uns
+eine Diskussion
+das heißt
+von 9 bis 9
+dass ich irgendwann dann ermüde
+und die Leistung
+nicht mehr so ist wie in der Früh
+das ist ganz normal
+aber
+die Leute
+werden, auch wenn sie von
+neun bis neun Arbeiten
+zur Höchstleistung verurteilt werden.
+Und bei uns haben wir
+von
+keine zwölf Stunden, sondern
+7,5 Stunden in der Regel.
+So, das heißt, es
+tritt eine Ermittlung ein
+und eine Konzentrationsfähigkeit
+abnimmt.
+So, langfristige
+Beanspruchungsfolgen.
+Wenn wir gut trainiert sind, können wir die Leistung steigern.
+Wir können auf die Dinge positiv einleiten.
+Darum wollen manche, dass man möglichst keinen Alkohol trinkt.
+Weil es negativ ist, alles in Maßen ist, Entwicklung von Fähigkeiten und Fertigkeiten, wenn Sie einen Montage-Arbeitsplatz haben, Entwicklung von Fähigkeiten und Fertigkeiten.
+Wenn der Mitarbeiter am ersten Tag vor der Montageaufgabe sitzt, die er die nächsten 8 Monate machen muss,
+dann wird er nicht die Routine aufweisen von den Fähigkeiten und Fertigkeiten, die ihm nach 4 oder 8 Wochen gefordert sind.
+Sondern er braucht Routine, damit er die Fähigkeiten und Fertigkeiten entwickelt.
+Wenn ich ein CAD-Programm habe, dann brauche ich sehr lange, bis ich alle Menüpunkte oder das Programm beherrsche.
+So, wenn ich den anlerne und dann sage, nach einem Jahr, du musst wieder was anderes machen,
+dann habe ich eigentlich einen Lagegeber für mich verschickt. Weil, jeden, den ich neu
+anlernen muss, ist nicht so produktiv wie einer, der es kann. Wenn wir derzeit in den
+Arbeitsmarkt reinschauen, die ganzen 55 bis 65-Jährigen eine Pension schicken, dann ist es
+eigentlich falsch. Weil die sind schon routiniert und können noch ein bisschen arbeiten.
+Warum schicken sie nicht eine Pension? Weil sie zu viel Geld verdienen.
+Sie können über viele Punkte diskutieren. Sie müssen einfach in dem Unternehmen einen Weg finden, wie es für alle verboten ist.
+Das ist noch bloß noch dran. Also nicht als Chef hingehen und sagen, du musst, du musst, du musst. Falsch.
+langfristige Beanspruchungsfolgen
+ist der Leistungsverlust
+die Krankheit, die Arbeitsunfähigkeit
+Demotivierung und Ermüdung
+das haben wir ganz oft
+in den Stellen
+im öffentlichen Dienst
+die machen dann nur
+Dienst nach Vorsprung
+es gibt viele Beamten
+die machen Dienst nach Vorsprung
+sie schimpfen jeden Tag
+auf den Arbeitgeber
+und wenn du zu ihnen sagst
+dann kündige doch
+dann sagen sie
+dann verliere ich meine Pension
+schlecht
+dann muss er das eben ertragen
+so in der Konstruktion
+haben wir auch ergonomische
+Aufgaben, weil es gibt
+jede Menge Maschinenrichtlinien
+wo sie
+eine Dokumentation aufsetzen
+müssen, dass das keine Gefährdung
+ist, dass das
+erfüllt sein muss
+und und und
+das heißt
+in der Konstruktion geht es darum
+dass man ein ergonomisches
+Produkt
+gestaltet
+das Ding dem Benutzer
+auch liegt.
+So, dafür
+können wir einen Haufen Normen
+anfüllen.
+Ergonomische Gestaltungsgrundsätze
+dieser Norm, ergonomische Anforderungen
+an die Gestaltung von
+Anzeigen und Stellteilen.
+So ist auch so ein Thema.
+Anzeigen und
+Stellteile.
+Das ist, wie man das Ding
+benutzt.
+So, jetzt schauen Sie in den PKW rein, welche Anzeigen er früher drin gehabt hat
+und wie die Instrumente anzeigen.
+Und dann schauen Sie die Stellteile an.
+Digital, analog, touch.
+und dann überlegen Sie, welchen Kontrollaufwand Sie brauchen für das Bedienen.
+Heute ist in vielen neuen Autos, speziell die elektrischen Autos,
+sind überall nur mit Touch-Display ausgerichtet.
+Bei mir ist das im Auto auch so, jetzt nicht mehr.
+abgeben. So, Lüftung und Heizung waren fast nebeneinander. Wenn Sie blind drauf drücken,
+dann schalten Sie die Sitzheizung auf 3 ein oder Sie schalten den Lüfter aus.
+Sie müssen exakt hinschauen, welche Bedienung Sie hier aktivieren. Wenn ich einen Drehknopf habe,
+dann kann ich blind betätigen. Darum kommen jetzt manche Autohersteller wieder zurück zu
+verschiedenen analogen Stellen teil, weil es von der Bedienung her weniger Konzentration erfordert.
+Das heißt, ich muss dafür sorgen, dass die Maschine für häufige Aufgaben einen bestimmten
+Komfort bietet. Die gelbe Zone benutze ich regelmäßig, aber nicht so wichtig. Die rote
+Zone ist nicht erfüllt. Das heißt im Grunde, wenn Sie in der Konstruktion Maschinen oder
+Werkzeuge gestalten, sind sie ja meistens von den technischen Vorgaben, die es dann später mal erfüllen
+soll, in bestimmter Weise eingeschränkt oder haben sie bestimmte Dinge zu erfüllen. Aber trotzdem gibt es Dinge, die man in der Konstruktion
+beachten sollten.
+Das heißt,
+es geht um das Thema
+der physischen
+Anforderungen der
+psychischen
+Maschinenemission,
+Informationsaufnahme
+und
+Bestellkarte.
+Das heißt, Sie haben einen ganzen
+Katalog, den Sie
+einer neuen Maschine
+abfragen müssen,
+damit die Maschine sicher ist, wühlungsfrei und so weiter.
+Beispiel Körpermaße, Zugangsöffnungen.
+Man baut derzeit manche Krankenhäuser mit Türen, wo kein Fliegelbett durchpasst.
+Das ist konstruktiv sehr schlecht.
+Das heißt, auch bei Maschinen gibt es manche Dinge, die dürften einfach nicht sein.
+Aber wie gesagt, man kann auch nicht alles reflektieren.
+Anthropometrie.
+es ein ganzes Regelwerk dazu. Im Prinzip ist es immer so, man sagt, man gestaltet die Arbeit
+so, dass sie dem Menschen angepasst wird. In vielen Bereichen ist es so, dass es umgekehrt
+Wir passen uns der Arbeit an.
+Wenn Sie jetzt aktuelle Software nehmen wie SAP.
+SAP gibt Standards vor, wie Sie das Ding zu bedienen haben und nicht wie es Ihnen gefällt.
+Oder wie Sie es gut brauchen können.
+Firmen wie Bosch machen eigene Blutsamowerflächen.
+Dass sie nur das haben, was sie brauchen.
+Das heißt, bei der Anthropometrie geht es um die förmliche und klimatische Anpassung
+von Elementen eines Arbeitsplatzes an die Körpermaße des Menschen,
+der an diesem Arbeitsplatz tätig ist.
+So, jetzt ist klar, es gibt große und kleine Menschen, aber es gibt auch Normalbereiche.
+So, und dann müssen wir schauen, wie gestaltet man den Arbeitsplatz.
+Die Körpermaße der deutschen Dienperson gibt es auch in der Tabelle, in der Dientabelle.
+So, und da steht dann klar drin, was bei stehenden Tätigkeiten die Reichweite ist, was bei sitzenden Körperstellungen die Körpersitzhöhe ist und so weiter.
+Die DIN-Norm ist alles geregelt.
+So, und die DIN-Norm verändert sich von Zeit zu Zeit, weil es die Menschen verändert, grundsätzlich in Europa größer wird.
+Körpersstellung. Gehen, sitzen, liegen, knien, hocken.
+Wer liegt denn bei der Arbeit?
+Gibt es welche, die liegen?
+Ja, es gibt welche, die liegen bei Arbeit, aber nicht unbedingt bequem.
+Wenn Sie nach Hamburg fahren in den Hafenterminals, die die Containerschiffe beladen, dann liegt
+ein Kran oben drin und er hat einen Balken, wo er den Kopf drauf legt und dann kann er jetzt exakt die Position betrachten, wo er die Container rausnimmt oder Container reinsteckt.
+So, aber die Position in dem Leben ist nicht unbedingt bequem. Deshalb gibt es auch hier wiederum Regeln, nach wieviel Stunden er Pause machen muss.
+Aber im Kern geht es darum, die Liegeposition wurde erfunden, weil es unheimlich gut zu übersehen ist, was er da machen muss.
+Im Prinzip geht es im Kern um die Liegezeit oder Standzeit des Schiffes im Hafen.
+Zweckmäßigkeit muss betrachtet werden, wenn Zug auf die Arbeitsaufgabe und Belastung des Arbeiten geht.
+Manche Arbeitsplätze können Sie nicht so anpassen.
+Zweckmäßig ist immer im Ermessen des Betrachters.
+Manche halten das für unswertmäßig, wenn man da Geld reinsteckt und manche sehen das als Vorteil.
+Körperstellungen und Körperhaltungen, also gebückt oder wie auch immer.
+Ziel ist beschwerdefreies Arbeiten mit geringster Ermüdung und größtmöglicher Bequemlichkeit.
+Am Sitzarbeitsplatz sind wichtig, Arbeitshöhe, Sitzhöhe, Greifraum und Beinraum, Untertisch.
+So, auch hier gibt es Normen, wie das gestaltet sein soll, von der Objekthöhe, von der Feinarbeit
+bis zur normalen Montagearbeit, was in dem Blickwinkel ist, ohne dass man den
+den Kumpel verschieben muss. Das heißt, Sie sehen es auf jeden Fall. Der Oberschenkelfreiraum
+ist definiert. Beim Greifraum gilt die Grundsatzregel, den Greifraum passe ich an die kleinste Person
+die an dem Arbeitsplatz arbeitet. Also nicht, dass die dann von dem Hocker aufstehen muss,
+dass sie an den Greifbehälter oder an die Teile dann kommt, sondern ich muss das anpassen an die
+kleinste Person, die an dem Arbeitsplatz arbeitet. Das hier in dem Umfeld kann ich ohne weiteres
+Das in den 10x10 Quadrat kann ich ohne Blickverschieben erreichen, das ist ein Thema von MTN, weil
+da Null Zeit drauf ist, und das in den 25x25, das ist ideal für die Beinhaberarbeit, und
+So, unterm Tisch muss ich nicht an die Kleinste anpassen, sondern den Freiraum muss ich an
+die größte Person anpassen, die da sitzt, damit der Größte auch was beinhaltet.
+Und das Gleiche, was man bei Sitzenden haben, Tätigkeiten haben, ist auch für stehende
+Tätigkeiten.
+Man muss schauen, wie ist das Stehen angenehm.
+Auch hier, dass Sie nicht mit der Fußspitze vor den Gegenstand stoßen.
+Also in der Maschine, Sie können ja mal die Maschinen anschauen, ob die ergonomisch gut gestaltet sind.
+Den Freiraum haben Sie nicht, wenn Sie z.B. eine Palette beladen.
+Wir stapeln noch diese Rollen in Karton, kommen vier Rollen in Karton, drei Kartone übereinander.
+Die Palette ist eine Euro-Palette.
+Und da stoßen Sie nun mal davor, wenn Sie da 28 Kilo heben, auf die Palette drauf und dann mit der Fußgut nicht näher rankommen, dann ist das nicht angenehm.
+So, vorgehen bei der anthropometrischen Gestaltung, also man schaut sich grundsätzlich die Arbeitsaufgabe an,
+Ist die Arbeitsaufgabe grobmotorisch, feinmotorisch, dementsprechend?
+Ist sie muskelmäßig beansprucht, ist sie informatorisch?
+Dann Körperstellung festlegen.
+Wenn Sie die neuen Firmen, neue Bürogebäude heute anschauen,
+dann haben die meistens in der Ausstattung die Kombination,
+dass sie so wie dem hier den Tisch rauf und runter fallen kann.
+Das heißt, sie sind in der Körperstellung nicht unbedingt festgelegt,
+aber einer, der an der Maschine arbeitet, der kann nicht Angst.
+Für den ist es immer die gleiche Stellung.
+Sehabstand, Blickrichtung, Kopfneigung.
+Die Frage, wie weit ist der Sehabstand?
+Anhaltung,
+Engpassbetrachtung,
+Arbeitsplatz betreffen
+und Arbeitsplatz prüfen.
+Wie gehen wir heute vor
+in der sogenannten Gestaltung
+von einem Arbeitsplatz?
+Im Prinzip
+in der Fertigung
+oder in der Montage,
+es gibt ja viele Unternehmen,
+So, da muss ich einfach darauf schauen, was macht der Mitarbeiter?
+Was stört den Mitarbeiter? Und was kann ich besser machen?
+Wenn ich jetzt nach REFA gehe oder in einen anderen Arbeitsstudienverein,
+wenn ich eine kleine Firma bin, dann kann ich mir die Software nicht leisten,
+die sich Mercedes oder BMW oder sonst gleicher leisten,
+für die ergonomische Gestaltung des Arbeitsplatzes, Bosch in der Innenstadt.
+Die entwickeln alles im 3D-Modell.
+Also auch in der 3D-Brille werden heute alle Maschinen aufgebaut, dass sie virtuell um die Maschine herumgehen können, die es nicht gibt.
+Große Firmen können sich das leisten, weil die Software sich unter dem Strich trotzdem rechnet.
+Für die kleineren Firmen wird das eine Herausforderung.
+erstens mal von der Ausbildung
+vom Personal und zweitens
+von den Kosten
+die die Software
+kostet
+so das heißt
+es gibt viele Firmen die machen
+einen Arbeitsplatz
+provisorisch aus Kartonage
+so und schauen sich dann mit den
+Mitarbeitern an
+wie muss ich den Arbeitsplatz
+gestalten
+Das heißt, Sie können ganz praktisch vorgehen, indem Sie das Cardboard Engineering machen
+oder Sie machen es komfortabel mit der Software und allem drum und dran.
+Ich arbeite in einer Schicht mit drei Mitarbeitern, die die Produkte verpacken, den Kreislauf
+im Blick haben über alle Maschinen, sodass nichts, sag ich mal, fehlgeht.
+So, fehlgeht, wenn die Schicht den ganzen Tag läuft, dann muss vorne immer Material
+reinkommen.
+So, wenn das Material ausgeht, was mache ich dann?
+Entweder akustisches Signal oder optisches Signal.
+Das heißt, die Materialversorgung gibt ein optisches Signal über die Rundumleuchte.
+Und wenn die Gravimetrie, wo die Mischung erzeugt wird für die Maschine, leer läuft,
+dann gibt es einen Warmton, den haben Sie doch im übernächsten Haus.
+Weil man das eigentlich nicht will.
+Das heißt, die Frage ist immer, wie man diese Informationen an den Arbeitsplatz gestaltet
+und überträgt, damit ich möglichst keine Störungen im ganzen Ablauf habe.
+Wahrnehmung von Reizen.
+Ja, in der Schweiz, das ist tragisch.
+Aber wenn man die Videos anschaut, dann muss man sagen,
+bei den Leuten haben sämtliche Reize ausgesetzt.
+Nur das vom Handy.
+Die Decke hat gebrannt und die haben noch gefilmt.
+Aber solche Dinge passieren und in der Fertigung ist es nichts anderes, wenn Sie da unvorhergesehene
+Dinge haben. Die Düse hat 200 Grad, wenn das Extrusade rauskommt und mal zu brennen
+anfängt, dann müssen Sie mal schauen, was die Mitarbeiter machen. Wenn das erste Mal
+passiert, dann sind die überfordert. So, bei denen, die in dem Raum drin waren, die haben sowas noch nie erlebt.
+In der Hand. So, das heißt, ich rieche schon, wenn ich an die Maschinen hingehe, ob das normal ist oder nicht.
+Das heißt, die Wahrnehmung von Reizen, ob es Geruchssinn oder Geschmackssinn ist oder Geräusche.
+Ich gehe durch die Fertigung durch und höre, ob die Maschinen normal laufen.
+Ob wir Material verbrennen, weil es einfach zu heiß ist, auch das rieche ich.
+Aber Sie brauchen eine Erfahrung dafür.
+Wenn Sie das erste Mal da reinkommen, dann ist es schlecht.
+Das heißt, auch hier gibt es Empfehlungen, Richtlinien, was man tun kann.
+So, Arten des Signals.
+Also wenn wir die Gravimetrie nicht ausschalten, am Wochenende, am Freitag, die Mitarbeiter das vergessen,
+dann ruft am spätestens am Samstag die Polizei an.
+Weil der Lärmton, den hören Sie in der ganzen Nachbarschaft.
+Das heißt, das ist intensiv, das Gerät.
+Zeitliche Folge des Signals.
+Das können Sie jetzt in der Fertigung sehen.
+Das können Sie aber auch genau in der Verwaltung sehen, wenn Sie bestimmte Abläufe einhalten müssen.
+Wenn E-Mails aufplopfen, die einen Handlungsbedarf haben, und sie nicht reagieren, dann kommt
+es unter Umständen teuer her.
+Wann passiert so etwas?
+Ich habe vor Weihnachten nach Hamburg geliefert für den Schiffstransport nach China.
+Ich habe nicht die Drecklinie in den Versandauftrag geschrieben, den die Spedition hat.
+Dann schreibt die Spedition, sie haben Zeit und wenn sie nicht reagieren, dann geht die Mauer zurück.
+Das wird teuer, weil der Schiffsplatz gebucht ist.
+Das heißt, es gibt unterschiedliche Themen in unterschiedlichen Bereichen,
+ob es in der Verwaltung tätig ist, in der Disposition oder in der Fertigung oder im Lager.
+Sie haben unterschiedliche Aufgaben mit unterschiedlichen Informationsübertragungen.
+Auch die Reihenfolge der Informationsübertragung spielt eine Rolle.
+Also zum Beispiel, im Idealfall fährt der Container durchs Lagertor durch und die Ware ist komplett verbucht.
+Dann habe ich alles richtig gemacht.
+Wenn nicht, dann muss ich schauen, wie ich die Ware verbuche und in welcher Reihenfolge diese Buchungsterminals funktionieren.
+So, das heißt, es ist ein Thema von Abriebigkeit und Geschwindigkeit,
+Seeabstand, Skalenform, Stufung und Bezifferung der Skalen,
+Länge der Skalenstriche, Gestaltung der Ziffern.
+Schauen Sie einfach mal bewusst eine Maschine an,
+wie die von den Informationsinstrumenten gestaltet ist.
+Heute, wenn Sie Software haben, können Sie auf viele Arten oder Art und Weise Informationen darstellen.
+So, das ist so wie eine einfache Uhr.
+Analog, warum hat sich die digitale Uhr nicht durchgesetzt?
+Digitalziffern. Hier auf der analogen Schule schaue ich drauf, dann weiß ich das,
+habe ich registriert. Beim anderen muss ich lesen und das umsetzen.
+Ergonomie ist ein Thema, das ist unheimlich vielfältig.
+Das heißt, Sie können sich in der Ergonomie austoben, auch an der Hochschule im ganzen Semester.
+Die Frage ist, was man später braucht, was man später nützt.
+Aber denken Sie grundsätzlich mal später noch, wenn Sie ein Praktikum machen oder so,
+wie ist ein Arbeitsplatz gestaltet?
+Es ist immer interessant, wenn ich in Firmen reinkomme und Arbeitsplätze nur betrachte.
+Sie schauen einfach zu, was macht der Mitarbeiter, wie läuft es von der Reihenfolge ab, hat der Mitarbeiter den systematischen Ablauf, ist dieser chaotisch oder ist die Vorgabe bescheiden?
+Es gibt unterschiedliche Faktoren, aber im Prinzip sind wir in der Regel meistens Serienfertigern.
+Ob Kleinserie oder größere Serien.
+Und für diese Serienfertigung muss ich ein bestimmtes System haben.
+Wie ich Informationen bereit stelle, wie ich das händle und so weiter.
+Also Augen auf durch die Fertigung, ist gut.
+Und dann immer fragen, wenn Ihnen was nicht gefällt, warum machst du das so?
+Ich bin bei dem Vormacher zum Beispiel in Kaufbeuren, das ist der Werkzeugmacher.
+Ich gehe in den Hinteneingang rein.
+Dann habe ich mich an das erste Bearbeitungszentrum hingestellt.
+da war Werkzeug drauf, das gefräst wurde. Dann war der Sprechpartner für mich nicht frei, dann habe ich gefragt, zuschauen.
+Dann nach 10 Minuten kam er, dann sage ich, ist das logisch, was der da macht. Dann hat er auch zugeschaut, dann hat er gesagt, das könnte man besser machen.
+so im prinzip sie kommen mit neuen ideen neue firmen rein machen sie dinge anders
+wie das was die alten sagen das haben immer schon gemacht das bringt nichts so auch die
+Die Handlungsempfehlungen, manche muss man sich anhören von den Alten, älteren.
+Man muss seine eigenen Schlüsse draus ziehen und die Arbeitsweise, die man selber an den Tag legt, ist oftmals anders.
+Also ich kann das selber sagen, ich habe lange Erfahrung, ich hatte alte Mitarbeiter in der Produktion, die 20, 30 Jahre Erfahrung hatten,
+Die Wetten sind grundsätzlich verschieden. Im Endeffekt müssen Sie am Ende Geld verdienen.
+Sie oder das Unternehmen. Und wenn es beiden gut geht, ist alles okay.
+Gut, dann bedanke ich mich für Ihr Kommen.
+Und wünsche für den Prüfungsschweiß möglichst keinen Spaß.

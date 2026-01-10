@@ -1,0 +1,1315 @@
+Vorab erstmal alles Gute für das neue Jahr und dann zum letzten Mal auch für die Prüfungsphase.
+Ich wollte heute mit Ihnen noch ein paar Übungen zum Rauchen prägnieren.
+Normalerweise würde da jetzt noch welche Narbeverbindung kommen.
+Ich schaff das an dem gar nicht.
+Wahrscheinlich dann im nächsten Semester.
+Das heißt ich empfehle es dringend, das jetzt zu machen.
+Die Aufgaben, die im Nachgeschalteten dann kämen, die sind aber, ich sage mal, immer nicht gestaltet.
+Da geht es dann auch um, ich sage mal, diese klassische Modellbildung und dann die daraus abgeleitete PEN-Größe und Berechnungen.
+Hier ist jetzt eine Aufgabe dargestellt, die Übung liegt auf Nudel.
+Sie wollen die Prüfung mitschreiben?
+Müssen.
+Müssen.
+Im Sinne von, dass das jetzt...
+Wir machen dann heute die Übungen soweit durch.
+Und ich sage dann nur die Schwerpunkte für die Prüfung.
+Sie müssen sich das anschauen, das ist ein bisschen anders als beim Proben.
+Sie dürfen bei mir dann auch, ich sage mal, diese Lösung mit in die Prüfung mitnehmen.
+Auf Basis eines Teils, wo 60 Minuten Berechnungen durchgeführt werden,
+Vorab gibt es im Aufgabenteil allgemeine Fragen ohne Hilfsmittel.
+Da habe ich aber schon konkret gesagt, was da reingehört,
+sodass, ich sage mal, eine gute Orientierung da ist und eigentlich auch eine faire Chance,
+dass man das so hin und wieder abschaffen kann.
+Also ich hinterlege keine Beine stellen.
+und
+ja, das kann sein, dass sich das
+Bezählere im nächsten Semester dann
+ein bisschen verändert.
+Ich habe dann
+zum Teil, dass das irgendwie Lehrveranstaltungen
+mit Lebensmitteln und Verpackungen
+und die Übungen sitzen da mit drin.
+Ich muss jetzt für die auch
+die Prüfung machen.
+Ich habe die Leute teilweise gar nicht gesehen
+bisher, die haben ja
+die Wohnvorlesung gehört.
+Aber auch denen muss man irgendwie eine faire Chance geben, dass sie was hinbieten.
+Also was ich gesagt habe, was Sie sich anschauen sollten, wo ich gerne nochmal auch eine Fragestunde machen kann,
+allerdings nicht nächste Woche, das ist die letzte Lehrveranstaltung heute, wäre es, dass Sie mir das Smith-Diagramm konstruieren können.
+Das kommt im allgemeinen Teil, das müssen Sie auswendig können.
+Das haben wir hier geübt.
+Und zu dem allgemeinen Teil gibt es noch andere Notizen, die ich mir gemacht habe, die ich später noch noch angeben werde.
+Aber das MIS-Diagramm, das müssen Sie können.
+Ich komme jetzt zum zweiten Teil, bezüglich Formelsammlung.
+Haben Sie auch irgendwie Diagramme oder was, wo wir die Aufgaben benötigen können?
+Wir dürfen, also ich werde jetzt zum Beispiel nachher die, wir gehen das jetzt mal durch, rechnen das mal so ein bisschen durch.
+also ich habe da keine einschränkungen dass ich nicht haben will ist ein tablet alles was
+auf Papierform ist. Wie ist es in den Aufgaben? Weil zum Beispiel bei den Schweißaufgaben war es ja auch so, dass man, ich sag mal, Kennwerte aus den Bildern drunter, brauche ich jetzt das ganze Skript und von der Erfüllung an brauche ich keine Kennwerte?
+Nein, ich brauche keine Kennwerte. Ich werde die Aufgabe so stellen, dass wenn Daten aus Tabellen gezogen werden müssen, dass die Tabellen in der Aufgabenstellung fallen.
+Und so ein verringerter Prüfaufwand steht da ja auch.
+Steht in der Aufgabe dann drin.
+Auch mit Wert.
+Es wäre in der Tabelle drin und daraus ist es herauszulesen.
+Also wenn man das Beispiel jetzt gerade zur Hand nimmt, ich habe ein kleines Problem, mir sind Teile der Vorlesung, die ich seit November gemacht habe, aktuell nicht vorhanden.
+Ich komme da nicht dran. Da gibt es ein paar Sachen, die sind passiert. Ich kann da aber noch nicht so richtig gucken, ob es da noch eine Lösung gibt. Aber mir sind Vorlesungen seit November sind weg.
+Ich habe das jetzt mit einer alten Veranstaltung drin.
+Da ist eine Tabelle, da steht dann drin, als Fußnote verringerter Prüfaufwand, der Schweißfaktor wird mit 0,85 angesetzt.
+Das ist dann quasi multipliziert mit dem Festlichkeitskennwert eine Reduktion, die vorhanden ist, aufgrund des Schweißens.
+Wenn man es dann prüft, wird der Faktor mit 1,0 angesetzt, vollständig, und dann kann man eine höhere Belastbarkeit annehmen.
+Das heißt aber, ich sage mal, eigentlich brauche ich die Formel.
+Und wie ist es mit diesen Widerstandsmomenten, den Polaren zum Beispiel?
+Also da gibt es ja auch verschiedene, keine Ahnung, für die Rolle, für den Modestab, für was weiß ich was.
+Das könnte Bestandteil der Formelsammlung sein, was jetzt wichtig wäre bei den Straubverbindungen.
+Wir greifen immer auf eine bestimmte Verwendungssiedlung.
+Ich weiß nicht, ob ich das zeigen darf.
+Bei den Schrauben würde ich empfehlen, das gesamte Kapitel auszudrucken.
+Auch wenn das jetzt ein bisschen doof ist, ich weiß nicht, wie ich das anders machen kann in der Prüfung, wenn wir jetzt digital Zugriff haben.
+Vielleicht kann man das auch machen und sagen, dafür gibt es dann einen Überhang, sodass ich sage, man da schneller gearbeitet werden muss.
+Ich weiß nicht, was da mit der ist und was passt.
+Was soll ich jetzt zeigen?
+diese eine Tabelle
+hier vorne im Eingang
+ist jetzt gleich wichtig
+auf die werden wir immer zugreifen
+und entsprechende Werte ziehen
+da sind jetzt die ganzen Daten drin
+die wir jetzt gleich brauchen werden
+für die Berechnung des Straubs
+sowas werden wir im Rücken dann angegeben
+Das gehört ja so ein bisschen zur Aufgabe dazu. Also ich würde jetzt empfehlen, vielleicht
+mache ich nochmal eine Zusammenfassung und setze Sie auf Moodle, was Sie selber ausdrücken
+sollen für die Prüfung. Ja, und dann machen Sie eine Formelsammlung noch dazu, um eine
+Übersicht zu schaffen, eine Formelsammlung
+und dann dazu
+die relevanten auszudruckenden Seiten
+aus dem Skript.
+Was weiß ich, Maschinenelemente,
+Seite 10.
+Ja?
+Ich habe Übungen gemacht quasi und dann
+habe ich mir
+aber erstmal, sage ich mal, die Sachen
+einfach so ein bisschen rausgeschrieben,
+und dann habe ich halt irgendwann gemerkt,
+ich will zum Beispiel
+bei dem Druckbehälter
+habe ich es doch ausgedruckt, aber bis man die dann irgendwo da rausblendet, da ist...
+Ich habe gesagt, das war ja mal eine Online-Prüfung, diese Maschinenelemente.
+Die Leute haben zu Hause am Rechner gesessen und haben die Prüfung gemacht.
+Und da trennt sich dann doch Spreu von Weizen.
+Ich habe gesagt, Sie können alles verwenden.
+Das ist mir Jacke wie Hose.
+Sie können Rechner verwenden, Sie können Ihr Skript verwenden.
+aber sie müssen einen schnellen Zugriff haben, weil die Zeitbeanspruchung, die dann bestellt wird, eine größere ist.
+Gibt es einen Überhang, wie groß der am Ende des Tages ausfällt, konnte ich auch nicht sagen, ob das 30 oder 40 Prozent sind,
+aber einfach Zeitdruck aufbauen bei den Leuten, dass sie auf keine scheiß Ideen kommen,
+sondern dann schnell im Skript die Sachen finden und Zugriff haben.
+Das war dann jetzt eine andere Aufgabe, als wenn man sagt, sie dürfen das Skript vor Ort nehmen
+und sagen, dann kann ich sie kontrollieren.
+Das andere kann ich nicht.
+Was nutzt mir das beste Buch,
+wenn ich mich darin nicht auskenne?
+Dann muss es schnell gehen.
+Das war dann so die Idee.
+Ich sag mal,
+die Normalverteilung, was Noten anbetrifft,
+war wahrscheinlich die gleiche.
+Ich hab das nicht mehr so in Erinnerung.
+Hat da keinen großen Unterschied gemacht.
+Die gesamte Vorlesung war online.
+Wir sind aber weitergekommen als jetzt bei Ihnen.
+Das war ein Maschinenbau.
+Macht nichts. Also die durften dann alles nehmen.
+Das überlege ich mir unter Umständen auch, dass sie von mir aus auch das Tablet benutzen können.
+Wenn ich jetzt sage, sie haben das Skript dann zur Hand und dann müssen wir halt da die Sachen finden.
+PDF-File anklicken, Schrauben, Seite 10, wir sind in diesem Modus.
+Was hätten sie denn gern?
+Das heißt, jeder macht sein eigenes Ding, und zwischen denen...
+Na, sie könnten ja schon. Die Übersicht finde ich gut. Also beispielsweise die Folie 10, dass wir das schön im Vorhinein kriegen,
+dass wir es uns im Vorhinein halt ausdrucken. Aber das Suchen hat dann immer...
+Auf einmal gibt es ein technisches Problem, wo das dann steht.
+Also ich finde, die Formel braucht man ja so und so.
+Die muss man sich ja auch schon mal auseinandersetzen.
+Das letzte Mal war die Aufgabe auch nicht gut.
+Schade, wenn man irgendwo, einfach nur weil man es im Skript selber nicht findet,
+weil es halt irgendwo, ich sag mal, irgendwo in irgendeiner Herkunft...
+Hä, da muss man hier einen Zettel reinkleben, oben was markieren.
+Und im Skript ist das natürlich genauso beschissen, da müssen Sie es nämlich selber machen.
+Ja eben.
+Also dann mache ich eine Angabe der Beprüfung relevanten Tabellen und Daten und Sie machen dann einen Ausdruck.
+Ich werde mich auch, was die Prüfungsinhalte anbetrifft, an den gerechneten Aufgaben orientieren.
+Ich muss es dem Dekan versprechen.
+Wie viele Prozent sind da das letzte Mal durchgefallen?
+Weißt du, Simon?
+Einige, oder?
+Ich habe es noch nie geschehen.
+Das war ein bisschen leichter.
+Oh, ich hätte schon weiß, ob bei der Prüfung ganz nicht waren.
+Und alle entsetzt.
+Und überall waren es wegen zwei Punkte, zwei, drei Punkte.
+Also ich weiß, dass...
+Ich habe bei mir in der Tabelle gesehen, drei Prüfungsanmeldungen, da habe ich gedacht, das kann nicht sein.
+Also die jetzt hier von der Maschinenbau intern kursiert ist,
+von dem, der die Prüfungsplanung gemacht hat, da standen dann drei Prüfungen drin,
+das kann nicht sein, da waren ja meistens fünf Leute in der Vorhebung oder so.
+Und dann habe ich ja nochmal nachgehakt, 21 Anmeldungen gibt es da.
+Also, wo die Leute denn jetzt herkommen und was die so vorhaben, weiß ich auch nicht.
+Okay.
+Es sind viele aus dem Deutschsemester vor, jetzt beim Praxissemester sind die.
+Ja, ja, da habe ich dann auch E-Mails bekommen, wo ich sage, ich muss jetzt die Sachen hinterher
+schicken und alle Informationen nochmal geben.
+Dafür gibt es ja die Lehrveranstaltung.
+Da kann man vielleicht auch am Anfang mal damit nachfragen, was jetzt der Stand ist.
+Also okay.
+Sie sind auch Praxisminister, oder?
+Eisengießerei war das.
+Und wie ist es?
+Super.
+Okay, also das ist die relevante Tabelle, auf die wir jetzt mit den Daten zugreifen müssen.
+Und gucken wir uns jetzt mal an, wie wir ein paar Aufgaben dazu rechnen können.
+Erste Aufgabenstellung hier.
+Die Steifigkeit der Zwischenlage beträgt in allen Fällen das Winkelgesteuertes Anziehen.
+Das sind zwei Platten, die hier miteinander verschraubt werden.
+Die Schraubenlänge ist 40 mm mit einer M8, M10 und M12 Schraube.
+Mit einer Mutter, die oben drauf sitzt, mit 3 Pferden im Gewinde und Schraubenkopf von 0,12.
+und das Gewinde geht bis zum Schraubenkopf, ist also durchgängig sozusagen.
+Das heißt, wir müssen jetzt hier diese wichtige Information dann im entsprechenden Klärschnitt finden,
+um die Steifigkeiten zu berechnen.
+Wir haben uns jetzt relativ viele Formeln ausgeschrieben zu diesem Kontext
+Und die kommen jetzt sozusagen zum Tragen.
+Und die erste Aufgabe, berechnen Sie die Steifigkeit der Schraube.
+Da geht es jetzt auch darum, nachher in den Lösungen, die ich dann online stellen werde,
+es sind die Werte angegeben, der Rechenregel wird ganz deutlich dargestellt.
+Zum Beispiel, wenn es um den Winkel geht, der wird im Bogenmaß angegeben bei der Berechnung.
+Und dann müssen Sie umrechnen von Bogenmaß in Grad.
+Das wollen wir jetzt mal machen.
+Anhand, ich sag jetzt mal, durchgängig dieser Schraube M8 im Nachgang,
+kriegen Sie dann die Lösung dieser Aufgabenstellung hochgeladen und können sich das dann zusätzlich ändern.
+aufdrucken und winkelgesteuertes Anziehen. Dazu braucht man als erstes Aufgabenstellung A,
+die Steiglichkeit der Schraube. Was war das für eine Formel?
+den Rechengang
+zu machen.
+Kollegen Sanders kennen Sie nicht, ne?
+Der war nur bei den Maschinenbauern aktiv.
+Der hat da Ölhydraulik gemacht
+und Maschinenelemente.
+Der hat bei den Leuten immer verlangt,
+dass sie alle Formeln auswählen können.
+Das ist ja wütend.
+Also jetzt, bitteschön,
+Was fänden die Auswendigen von der Steifigkeit eines Zylinders, der auf Zug beansprucht wird?
+Steifigkeit kann ich erhöhen über E-Modul, über Querschnittsfläche.
+und die Steifigkeit wird geringer mit der Länge.
+Das ist umgekehrt proportional.
+Das ist C ist E mal A mal L.
+Für M8 heißt es CS E-Modul.
+Was ist der E-Modul von Stahl?
+210.000 Einheit Newton pro Quadratmillimeter oder Megafaskal.
+Der Querschnitt, der Spannungsquerschnitt, das ist ja quasi diese abgewickelte Spirale,
+die wir da haben, sodass der Spannungsquerschnitt jetzt hier von Relevanz ist.
+weil das gebinde durchgängig ist ansonsten müssen wir dann einen größeren aufwand betreiben dass
+man die schraube man sagt immer so eine dünnschaft schraube haben die hat unterschiedliche elemente
+aus unterschiedlichen elementen zusammengesetzt und der querschnitt dünner wird an einer stelle
+steifigkeit reduziert hier ist die steifigkeit durchgängig und wir können überall diese 36,6
+Millimeter
+Quadrat ansetzen
+und die Länge
+ist jetzt die 80 Millimeter.
+Bitte mal ausrechnen,
+was da rauskommt. Den Rechner einfach nur eintippen.
+Jetzt zum Beispiel
+das E-Modul. Hätte ich das jetzt wissen müssen?
+Das muss man wissen.
+Das muss man wissen.
+E-Modul von Stahl
+210, E-Modul von Aluminium
+70.000.
+Oder irgendwo, also das haben wir ganz am Anfang gemacht. Ist auch im Skript drin, zur Not.
+Ja, aber das meine ich ja. Wenn ich da anfange, in der Prüfung dann irgendwelche Prozesse zu suchen, wo ich es eventuell hinbekommen kann, dann habe ich es schon verloren.
+Ich sehe das schon, der hat jetzt nachher auch so ein paar Sachen durcheinander gewürfelt, der Hintzen, wo er für den klassischen Maschinenbau wahrscheinlich denkt, dass das Basis ist und das muss man nehmen.
+Stahl, Aluminium und so weiter.
+Stahl, Aluminium, das sind typische Werkstoffe, nachher kommt eine Berechnung mit Kupfer, da sind die Werte angegeben.
+Ja, aber Stahl 210.000, wenn man mit Maschinenbau zu tun hat, sollte man das wirklich wissen.
+Dann rechnen wir ja in der Kupfer, dann ist Abweichung drin, sie könnte es angeben.
+Ja, wenn es Kupfer ist, würde ich es angeben oder wenn es jetzt Gusseisen ist, würde ich 180.000 angeben.
+Also nur für Stahl müsste man es wissen und für Aluminium.
+Stahl muss man wissen, also der Maschinenbauer muss wissen, hat Stahl für wen zu tun.
+Okay, das ist ja auch schon was.
+Dann kann ich es mir aufschreiben.
+Ich sage jetzt mal so, wenn jetzt eine sehr ähnliche Aufgabe in der Prüfung rankäme,
+dann können Sie auch die Vorlage hier nehmen.
+So stelle ich mir das vor.
+Achso, ich schreibe das einfach ab und die Werte stimmen gar nicht und alles.
+Wieso die Werte stimmen nicht?
+Nee, es kommt was anderes, sage ich jetzt mal. Es kommt wahrscheinlich keine M8, sondern es kommt irgendwas anderes und Sie müssen die Daten selber ziehen.
+Und dann sehen Sie aber auf der Basis der vorhandenen Daten, die Sie haben, können Sie auch da zugreifen und sehen, dann wissen Sie, E-Modul und Stahl ist 210.000.
+Ich würde jetzt da nicht anfangen und sagen, Sie kriegen zwei Kupferplatten, die zusammengeschraubt werden, jetzt suchen Sie mal schön den E-Motor zusammen.
+Das mache ich nicht.
+Wie viele gültige Stellen sind Nachkommastellen?
+Zwölf.
+Das ist ein Scherz.
+Ich weiß, ich habe das gehört.
+Wir sind wegen den Nachkommastellen nicht gefallen.
+Ich finde es paradox.
+Kompletter Käse. Wegen der vierten Nachkommastelle.
+Kompletter Käse. Tut mir leid.
+Aber da kann ich jetzt wahrscheinlich mit dem Zweitrufer drüber streiten,
+wegen der Nachkommastelle.
+Also es macht gar keinen Sinn, der macht es mal so und macht es mal so hier zum Beispiel.
+Also jetzt ein Drehmoment anzugeben, der rechnet dann nachher eine dritte Nachkommastelle
+in Drehmoment aus. Das können Sie gar nicht messen.
+Das fängt doch damit an.
+Dann würden wir vier Nachkommastellen rechnen müssen.
+Ich weiß nicht, wer sowas macht, also ob das in der Praxis irgendwie wirklich von Relevanz ist.
+Das haben wir beim Hörbohm gesagt.
+Ich habe es gehört.
+Das war sehr überraschend auf einmal, da wurde diskutiert, wie lange dauert das?
+Ich habe geschmust.
+Und weh, du hast Zwischenergebnisse verwendet und nicht alles auf einmal hoch ausgewirkt.
+Das haben wir schon mal durchgeführt.
+Stopp, das ist jetzt schon zu viel Information.
+Die Steiglichkeit als solches hat die Einheit, und das müssen Sie jetzt bitte mal selber rechnen, das möchte ich jetzt Newton pro Mikrometer.
+Damit Sie mir mal, oder sich selbst mal Gedanken machen, komme ich zur richtigen Einheit.
+Was hat er denn in der vierten Nachkommastelle da irgendwie so rechnet haben wollen?
+Was für Kennwerte, was für Zahlen?
+Ich weiß nicht, wenn man sagt, Formeln sind zwar richtig eingesetzt und selektiert worden
+und die vierte Nachkommastelle passt nicht.
+Da hat er es sich einfach nur einfach gemacht
+in der Bewertung.
+Einfach gemacht in der Bewertung.
+Das mache ich jetzt überhaupt nicht,
+sondern wenn der Rechenweg stimmt
+und nachher irgendwas falsch weggekürzt wird,
+dann ist es wenigstens Punkt
+für den Rechenweg.
+Also das ist ja sinnlos.
+Ja, aber dann wäre die Veranstaltung wenigstens besucht.
+Das war bei der Normalspannung
+eine andere Frage.
+Das waren die einfachsten Aufgaben,
+Ich meine, die zweite Rechenaufgabe war es.
+Da gab es ja zehn, acht Punkte, allein das hohe Ergebnis zwei Punkte.
+Das hat sich nicht genug geklappt.
+Und darum alle fünf Punkte, wo eigentlich überall das geschafft hat,
+gleich mal 0 Punkte.
+Oblos 2.
+Oder richtig seinsam das erste Ergebnis.
+Das ist dann aber eine Überraschung gewesen für Sie, dass das bis zur
+dritten Nachkommastelle da irgendwie geschrieben werden muss.
+Vierte Nachkommastelle.
+Vierte.
+Eine Spannung.
+Vor allem, wenn ein ganzes Ergebnis rauskommt,
+wo es gar keine Nachkommastelle gibt.
+Das haben wir alle. Das ist ein kleines Ergebnis eigentlich.
+Und wir hatten keine Musterlösung auch weiter.
+Also,
+das ist nicht mal versehen, die Überraschung.
+Ich habe ja auch vier Nachkommastellen angegeben.
+das hat er irgendwo hingeschrieben, aber
+das, wenn ich mit Zwischenergebnissen rechnen kann,
+ich gebe den Wert davor schon mal ein
+und gebe nicht in den späteren
+Termen nochmal in den ganzen anderen Termen ein,
+dass ich dafür 0 Punkte
+bekomme, das finde ich dann doch irgendwann übel.
+Also ich habe das eine schon auf 4 Nachkommastellen
+gewundet, setze es ins nächste ein,
+aber deswegen ist das nächste auch falsch.
+Ja, ja, weil die erste Rundung
+ist falsch.
+Oder man hat halt mal tatsächlich im Taschenring
+einen Wert vergessen.
+Also, 1,5 Newton pro Mikrometer, was kommt raus?
+Vielen Dank.
+Die kürzen sich weg und dann kommt dann irgendwie 96.000 Newton pro Millimeter.
+das ist aber dann nachher nicht passend, so und jetzt fängt es an, dritte Nachkommastelle, das ist der rein rechnerisch richtige Wert, der Herr Hinzen, seines Zeitens Autor von vielen Büchern, der auch diese Übung hier gemacht hat,
+Der setzt jetzt 96,1 Newton pro Mikrometer durchgefeuert.
+Ich kann da wirklich gar nicht mit anfangen.
+Das ist ferne Realität, ja.
+Ich sage mal, weil diese Prüfung so kritisch ist,
+versuche ich, nächste Woche die Prüfung zu machen,
+um die Angabe bereitzustellen,
+ich muss das am Montag machen,
+wir sind zwei Tage weg,
+die Angabe zu machen, welche Tabellen Sie ausdrücken müssen für die Prüfung.
+Ich gucke, dass ich das hinkriege.
+Also was bedeutet das, dass die Ergebnisse, Sie sollen einfach logisch denken,
+wie viele Nachkommastellen und welches wird das Ergebnis angeben?
+Also wenn Sie mir jetzt da 96,075 hinschreiben oder an der dritten, zweiten Nachkommastelle runden,
+ist mir das Jacke wie Hose.
+Und bei der Spannung, da so einen Zirkus zu machen, das ist ja halber.
+Sie können das weder messtechnisch erfassen, noch FEM-Simulation machen, dass da irgendwas
+noch stimmt.
+Hängt es dann davon ab, wie eng wird das Netz gewählt?
+Also die Interpretation von solchen Sachen, ich sag mal, wenn Sie dann 96,1 oder 5 oder
+96,2 haben und haben
+einen Festigkeitskennwert
+Newton pro Quadratmillimeter
+von 250, dann ist der
+Abstand da komplett
+Jacke wie Hose. Da rechnet man eine Sicherheit
+aus. Und bei der Sicherheit
+macht man vielleicht eine Nachkommastelle
+und keine vier und keine drei
+und keine zwei.
+Weil selbst das alles mit Annahmen verbunden
+ist und Modellbildung verbunden ist.
+Insofern
+ist es nah an der Praxis,
+aber es ist alles ein Modell, was wir da haben.
+Die Schrauben sollen in einer Vorspannkraft 18 Kilogenuten angezogen werden.
+Groß ist das Gewindemoment beim Anziehen und beim Lösen der Schrauben.
+Dazu gibt es zusätzlich dann das Kopfeibungsmoment.
+M Gewinde ist FV, die Vorspannkraft, mal D2 halbe mal Tangens V plus minus für das Anziehen und Lösen der Schraubverbindung
+wo Strich
+Zweite Formel für das wo Strich
+Das ist in Abhängigkeit
+von der
+entsprechenden
+Geometrie zu sehen
+der Schraube
+Jetzt kann man sagen, wenn Sie das nachher irgendwann in einer Aufgabenstellung für die Prüfung haben und Sie wissen, der Flankenwinkel von einer ISO-Schraube ist 60°,
+Dann ist das hier das Cosinus Weta, das Weta halbe.
+Arcus Tangens µ durch Cosinus Weta halbe.
+Ist gleich Arcus Tangens 0,12 durch Cosinus Beta halbe 60 Grad, sind dann 30 Grad.
+Ja, das ist Beta bei der Flanke.
+Rechnen Sie mir bitte den Wert aus, was da rauskommt.
+Er hat jetzt hier zwei reine Achtkommastellen.
+Ich mache jetzt mal 3, ich will dir nicht die Kopfhaut machen, wo 7,89 steht, ja?
+Ja, aber selbst dann, also nur um noch mal kurz Luft aufzulassen, selbst wenn wir da jetzt völlig die Nachkommastellen behauen würden,
+und ich schreibe 8 hin, dann wäre es doch vielleicht ein halber Fehler, ein Fehler und ich würde drücken auf die ganze Aufgabe.
+Dann ist es ja nochmal, es ist ja nicht nur, oh ja, doppelte Strafe.
+Und dann stimmt das nächste Ergebnis aber auch nicht mehr.
+Ja, da brauche ich nicht mehr schauen, das ist doch easy für mich.
+Ich sage jetzt mal, wenn ich, so wie früher bei WI, in Vorlesungen habe ich zwei Kurse, 60 Leute gehabt.
+Und dann mache ich mir das einfach, da sage ich 60 Leute, da habe ich eine confessorientierte
+BWL 2014 gemacht und habe in der Prüfung 120 Leute da oben.
+Da habe ich schon mal viel Spaß, wenn sie den ganzen Scheiß da korrigieren können,
+auf Deutsch.
+Und da sind wirklich dann auch Sachen dabei, wo ich sage, da hat sich keiner mit beschäftigt,
+ich komme mir da verarscht vor.
+Echt.
+Aber bei so einer Sache geht das gar nicht, also ganz ehrlich.
+Dann müssen Sie es ja im nächsten Semester wieder kontrollieren, das ist ja auch blöd.
+Ja, oder damals hat man rausgekehrt. Können Sie heute nicht mehr machen.
+Es ist eigentlich nicht zeitgemäß.
+Und das gilt jetzt, ich sage mal, wenn die Reibung im Gewinde 0,12 ist, der Prosinus ist 30 Grad,
+bis 60 Grad ist der Flankenwinkel, die Hälfte da ausgerechnet, Arcus Tangens,
+und dann kommen Sie auf dieses Rohstrich.
+Das ist jetzt für alle Aufgabenstellungen gleich.
+Und damit gibt sich für M8, bei dem wir jetzt bleiben wollen, als Beispielrechnung, für das Gewinde anziehen.
+gleich FV
+18.000 Newton
+mal
+D2 halbe
+was ist das D2 halbe
+oder D2
+7,188
+Schauen wir mal den Spannungsquerschnitt hier.
+Der polare Widerstandsmoment ist nur bis zur dritten Nachkommastelle dieser offiziellen Tabelle angegeben.
+Das ist schon aufgerundet.
+Ich weiß nicht, das kann man ehrlich gesagt nicht mehr erfassen.
+Halbe, Tangens, Klammer auf.
+Wo ist das Phi?
+Der Steigungswinkel.
+3,17.
+Genau, die 3,17, oben sind die Einheiten dann auch immer schön angegeben, 3,17 plus minus die 7,889 Grad.
+Man sieht nur jetzt, dass der Wert da hinten, der reibungsbedingt ist, die Bergauffahrt sozusagen, was den Flankenwinkel anbetrifft, dass der Anteil hier durch Reibung größer ist.
+und das ist die sogenannte Selbsthemmung
+wenn ich das Minus habe, kommt er rein
+formal beim
+Gewinde anziehen
+das ist jetzt ein Fehler
+da muss das Plus hin, sorry
+Plus
+und M
+Gewinde
+lösen ist dann
+sind die gleichen
+Zahlenwerte hier mit dem Minus
+ich schreibe das jetzt nicht
+Und dann jetzt bitte mal ausrechnen, welche Kennwerte dabei rauskommen, wenn Sie das richtig machen.
+Das müssen Sie dann auch in der Prüfung können.
+Was kommt da raus?
+Lustigerweise hat der jetzt hier bei dem, und die Einheit immer vom Moment.
+Moment hat die Einheit
+das bitte richtig berechnen
+Minuten, Meter, sorry.
+Ich hole es in den Rechner rein, gucken wir, dass die Werte da jetzt stehen.
+der hat jetzt hier 12,644 stehen ja und das anziehen 12,6
+Wer hat schon mal mit dem Im-Moment-Schlüssel was angetreten?
+Ich bin so froh, wenn die ersten Zehner kennenzulernen.
+Das geht nicht genauer.
+Das hier im Winkel zu korrelieren, das ist recht schwierig.
+Das ist ungefähr ein Zehntel dessen, was Sie haben, wenn Sie eine Felge in einem Auto festschrauben.
+Das ist eine kleine Schraube, 8 mm Durchmesser.
+Die Spannkraft ist 1,8 Tonnen.
+Also da ist schon eigentlich eine ordentliche Kraft drauf, die jetzt die beiden Platten zusammentrifft.
+Was kommt hier raus?
+Vorzeichen bleibt unbeachtet, in dem Sinne, dass da nur die Richtung geändert wird, was das Zudrehen und Lösen betrifft.
+Kopfreibungsmoment ist die nächste Frage.
+MkR Vorspannkraft mal µkopf mal rk, das ist dieser mittlere Radius der Fläche, um das
+Moment ermitteln zu können mit, ich weiß nicht, ob die Formel schon gekommen ist, RK
+ist gleich DA, die äußere Auflage, plus DI, halbe, da wird quasi der Mittelwert gebildet
+zwischen außen und innen und deshalb ist das hier ein Viertel und das ist nichts anderes
+als das dA ist sozusagen die Schlüsselweite plus dI Viertel.
+Was sind da jetzt vier Werte einzusetzen?
+Hier ist M8, da oben.
+Was ist die Schlüsselweite?
+13 mm.
+Genau, das sind 13 mm.
+Schlüsselweite da hinten 17, 19 bei den größeren Schrauben, um das Kopfmoment zu berechnen.
+Was ist der innere Durchmesser?
+Oben liegt diese Schraube auf der Bohrung auf.
+Der äußere Durchmesser ist die Schlüsselweite, der innere Durchmesser die Bohrung.
+Reitmoment für die Bohrung. Normalerweise haben Sie beim 8er Gewinde, ich sag mal, nach jeder Seite ein, zwei Zehntel Spiel und machen da keine 8er Bohrung rein, sondern irgendein kleineres 8-3 oder sowas.
+Deshalb berechnet sich das aus der Schlüsselweite mit 13 mm plus BI, das ist jetzt hier 9 mm, Hinweis aus der Zeichnung entnommen.
+da gibt es Tabellen
+da habe ich gestern mal reingeschaut
+wollte das nochmal wissen
+es sind wie gesagt 2-3 Zehnten
+die man normalerweise die Bohrung größer macht
+als die Nennweite des Gewinns
+hier haben wir jetzt die 9er gewählt
+dann gibt es da halt
+einen entsprechend größeren Radius
+über die dies bis Moment da eingebracht wird
+was zur Folge hat
+dass das Kopfmoment dann größer wird. Durch 4 kommt dann raus 5,5 mm. MKR ist also diese 18.000
+mal auch hier 0,12 mal 5,5 Millimeter ist dann 11,8 Millimeter.
+Ähm, jo.
+Dieses M-Gesamt zum Anziehen ist also das M-Gewinde-Anziehen plus MKR.
+Beim Zuschrauben wird die Reibung über den Kopf eingebracht und über das Gewinde und die beiden Werte sind additiv miteinander verknüpft.
+Und es kommen dann jetzt diese 11,88, beziehungsweise oben beim Anziehen 12,6 plus 11,88 Newtonmeter.
+Wer hat dann hinten raus auch gekürzt?
+12, 11, 23, 24.
+24,5
+So, dann ist das M lösen plus M kr.
+Das sind die 5,34 plus 11,88 mm.
+Vielen Dank.
+Da oben ist der Winkel auszurechnen, der die Frage der Reibung ist.
+in Gewinde
+und davon abhängt
+wie groß der Flankenwinkel ist
+bei allen genormten Schrauben
+über die wir jetzt reden
+mit elektrischem Gewinde
+ist der Winkel 60°
+Wetterhalbe 30°
+C
+Aufgabenstellung
+in welchem Betrag
+FSV wird die Schraube gelängt
+und in welchem Betrag
+FZV wird die Zwischenlage
+gestaut
+Ich bitte da zu entschuldigen, dass der da jetzt andere Nomenklatur hat.
+Wir haben die ganze Zeit gesagt, F ist C mal S.
+Die Steifigkeit der Schraube ist nichts anderes, also dieses F ist C mal S.
+Wir haben jetzt hier für die Verformung, nur mal als Hinweis, das entspricht S, was wir vorher immer hatten.
+Wenn man sagt, F ist C mal S, der hat jetzt hier das so eingesetzt, das ändert nichts an der Sache.
+Wenn man das jetzt auflöst nach Cs, dann kommt da raus Fv, das ist die Vorspannkraft, die wir haben, durch Fsv.
+Halten Sie sich eigentlich an jeder Nomenklatur fest oder dürfen wir auf die Komponenten manche Griffe vorher ausschalten?
+Was war das jetzt zum Beispiel?
+Beispielsweise das Rho bei den Tangents, bei den Winkels, da hatten wir P.
+Ja, das hängt von der Nomenklatur ab.
+Das ist jetzt basierend auf dem Leerroh von dem Hinzen.
+Da steht das in der Versammlung drin, aber das ist der Spannungsdurchmesser D2, D3.
+Der hat das hier groß geblieben.
+Ja, das ist das Memorandum.
+Groß, klein.
+Wenn es richtige Ergebnisse rausgezahlt hat.
+Da weiß man ja selber nicht, was die Leute teilweise so sagen.
+Ich sage jetzt mal, er fängt jetzt an und findet ein F hier ein, warum weiß ich nicht.
+Also in anderen Dingern findet man F nach C mal S.
+Das heißt, das FSV ist FV durch CS, was ist die Verbrauchung, die jetzt da rauskommt.
+Die Verformung für die Schraube ist FZV, die Zwischenlage ist FV durch CZ.
+Einheit, da haben wir die 18.000 Newton durch die zuvor berechnete Steifigkeit, die lag bei 96,1.
+Willkommen.
+Vielen Dank.
+18.000 Newton durch 640 Newton pro Mikrometer, das heißt die Streitigkeit hier ist deutlich
+größer und die kommt im Kühlwert raus.
+Das schiebt man einfach mal wieder aus.
+Vielen Dank.
+So, und das sind jetzt sozusagen die Steifigkeiten und die daraus korrespondierenden Verformungen der Schraube
+und den Betrag
+in die Zwischenlage
+gestaucht
+die Schraube wird
+gelenkt
+das können wir jetzt zum Beispiel
+in so ein Diagramm einzeichnen
+in so ein Verschraubungsdiagramm
+unten die Einheit
+der Deformation
+oben
+ist N aufgetragen
+und die Steiglichkeit ist jetzt die Steigerung der jeweiligen Funktion,
+also 640 und 96 mal 1 oder 96 Minuten pro Mikrobit.
+Um jetzt eine Korrelation aufstellen zu können zwischen dem Winkel, der erforderlich ist,
+um das Ganze darzustellen, gibt es die Funktion und Achtung im Rogenmaß.
+Wie ist das gemacht?
+Das ist die Gesamtverordnung, die auftritt.
+ist jetzt wieder dieses
+D2 halbe
+mal
+Tangens
+V
+Gesamtdeformation
+sind die
+187 Mikrometer
+plus 28 Mikrometer durch D2, das ist jetzt wieder unsere Tabelle, ist jetzt hier groß
+7,188 halbe mal time against phi 3,07 glaube ich wäre. 3,17, sorry. So, was kommt da raus?
+Im Bogenmaß müssen wir dann die vorhandene Zahl umrechnen in einen Winkel.
+Das ist bei der Lösung nachher, die Sie dann von mir noch kriegen, auch für die anderen Kenngrößen so nicht angegeben.
+Vielen Dank.
+Dann geht größer die Deformation oben, desto größer ist der Winkel und hängt davon ab, wie groß die Steilrichtung der Schraube ist.
+Und die korreliert hier mit den Gesamtdeformationen.
+Haben Sie schon einen Wert?
+Äh, 1.000, 1.080.
+Oh, oh, oh.
+Moment.
+Was würden Sie tun, dass die Einheiten nicht passen?
+1,8 Millimeter.
+1,08 Millimeter.
+Meter, Meter, Mikrometer.
+Wenn Sie da unten auf Mikrometer gehen, machen Sie 7188.
+Und dann kürzen sich die Einheiten weg.
+Das Probenmaß ist 1,08.
+Was heißt das für den Winkel?
+Wenn ich einen Winkel messe, 90 Grad, entspricht ein Bogenmaß, wie viel?
+Eine Umdrehung, 2 Pi.
+Dann ist es hier Pi halbe, da hinten ist es Pi.
+Und wenn der Bogen dann nachher geschlossen ist, ist es 2 Pi, das entspricht 360 Grad.
+Um das jetzt umzurechnen, machen wir was?
+Um dieses Bogenmaß, diese 1,08 umzurechnen, müssen Sie den Wert mal 360 Grad durch 2 Pi machen.
+Er hat hier 62 ausgewählt, man sieht schon wie paradox, dass er nicht kommen kann.
+Vielen Dank.
+Dann machen wir die anderen Aufgaben weiter.
+Vielen Dank.
+Vielen Dank.
+Wer will in die USA gehen? Ich will keine Ahnung.
+Wenn er da wäre, würde er auf der Straße rumlaufen.
+Wenn er da wäre, würde er dann nach Hause gehen.
+Warum muss er nicht nach Hause?
+Du solltest dich nicht am liebsten interessieren!
+Woran ich mich interessiere?
+Du bist bereits der dritte Mal da.
+Du bist nicht interessiert, wer dir interessiert.
+Du willst nicht nach Hause?
+Nein.
+Du solltest dich nicht interessieren.
+Ich nenne dich.
+Ich nenne dich.
+Vielen Dank.
+Ich bin zurück.
+In den letzten paar Stunden?
+Ja, in den letzten paar Stunden sind es alles.
+Die Rekorde und die Fotos.
+Kannst du dir die Lampen einfach anziehen?
+Oder kannst du sie dir selber anziehen?
+Oder kannst du sie dir selber anziehen?
+Oder kannst du sie dir selber anziehen?
+Oder kannst du sie dir selber anziehen?
+Die Rekorde und die Fotos.
+Die Fotos sind auch da drin, oder?
+Ja, sie sind auch im Kühlschrank.
+Dann ist es in der Klasse nicht möglich.
+Dann ist es in der Klasse nicht möglich.
+Der Schraubungskorb, der Spannungsschraubild, dargestellt, aufgetragen ist hier die Konformung F,
+Wir haben jetzt S, die über die entsprechende Kraft mit der Steifigkeit der Schraube hier angegeben,
+die zu einer zunehmenden Kraft zu einer Veränderung führt,
+während gleichzeitig hier hinten dieser Abschnitt, der Abschnitt jetzt hier aufgeteilt,
+für die Zwischenlage, die eine Bauchung erfährt.
+Hier ist jetzt gegeben, dass eine Vorspannung einer Verbindung vorgenommen wird, die gerade hier im Holz vor der Erwärmung der Zwischenlage.
+Jetzt wird diese Zwischenlage erwärmt, was dazu führt, dass die Probe oder die Zwischenlage sich verlängert
+in den Betrag A, der zu einer zusätzlichen, oder ich sage mal in den Betrag B
+und gleichzeitig dann zu einer Verlängerung der Schraube führt,
+im Zuge einer zusätzlichen Auftretung in Kraft, Denta F TH, die thermisch bedingt ist.
+Dieses Denta F TH, das ist sozusagen die thermische Verlängerung, wenn man sagt,
+wenn eine Spannung in einer Schraube erhöht wird, verschiebt sich die Steigigkeitsgraden nach rechts
+zu einer höheren Vorspannung und zu einer zusätzlichen Deformation.
+Ich will darauf gar nicht im Einzelnen eingehen, sondern ich würde lieber mit Ihnen eine andere Aufgabe rechnen.
+Ich habe jetzt hier nochmal in das Tabellenbuch reingeschaut, was wir jetzt vorhin gerechnet haben.
+Das könnte ich mir jetzt zum Beispiel vorstellen.
+Da haben wir jetzt gesehen, hier Klemmlänge 40 und 40, 80 mm, Durchgangsbohrung 9 mm.
+Hier ist jetzt zum Beispiel das normgerecht dargestellt.
+Da sieht man, wie so eine Verschraubung auszusehen hat und es ist eine Bemaßung vorgenommen.
+Durchgangsbohrung, da unten ist dieses Maß DH, ich will da einzeln gar nicht drauf eingehen.
+Das sieht man bei einer M3er Schraube ist das Maß DH, da hinten ist es 3,4.
+Bei einer 5er Schraube 5,5 mm, M10, da haben wir tatsächlich DA11, das ist sogar das, was wir da vorhin hatten, M8, Durchgangsbohrung 9 mm.
+Passt sogar, ne?
+Der letzte Tag ist ja weniger, aber das wäre jetzt hier in Anlehnung einer definierten Norm der entsprechende Wert.
+Ich würde jetzt gerne mit Ihnen die Aufgabe A, Sie können es auf Ihre Formelsammlung schreiben, E-Modul Stahl 210.000, Aluminium ein Drittel.
+Das darf man sich für alle Ewigkeit merken, wenn man irgendwie beim Maschinenbau im Titel steht.
+Ich weiß nicht, was das ist.
+Diese Querkraftbeanspruchung machen wir dann noch, wenn wir dazukommen.
+Ich würde gerne das mit Ihnen machen.
+Ich hatte angedeutet, dass bei dem allgemeinen Teil vielleicht so ein Verschraubungs- oder Verspannungsschaubild kommen wird.
+Eine Schraubverbindung steht unter einer Vorspannkraft von unter 20 Kilowatt.
+Dabei wird die Schraube um HSV 60 µm gelenkt und die Zwischenlage um 20 µm geschraubt.
+Und das wäre jetzt Ihre Aufgabe. Ich habe das selber auch noch nicht gemacht.
+Ich bin da jetzt ganz bei Ihnen. Zeichnen Sie das maßstäbliche Verspannungsschaubild.
+Ich mache das jetzt auch hier und dann gucken wir mal, ob wir zu den vernünftigen Ergebnissen kommen.
+Das ist quasi so eine Übung für den allgemeinen Teil.
+Das sollten Sie, ich sage mal, das muss nicht maßstäblich sein, aber auch ohne Hilfsmittel hinbekommen.
+Ich kann nicht alles wiederholen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Amen.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Okay.
+Vielen Dank.
+Das war's für heute.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Vielen Dank.
+Auch so. Wissen Sie, was Sie machen müssen?
+Die Skizze konstruieren.
+Ja.
+Also es empfiehlt sich da, den Maßstab dann natürlich anzusetzen, weil Sie müssen jetzt die Betriebskraft maßstäblich da reinzeichnen.
+Und ich empfehle Geodreieck auch für die Prüfung mitzubringen.
+Okay, ja.
+Maßstab passt?
+1 zu 2.
+1 zu 2.
+Das müsste dann eigentlich trotzdem stimmen.
+Wenn die Länge passt, ja.
+Was ist die Restgründer?
+Also im Prinzip ist die Vorlage das hier.
+Die zeichnen die beiden Geraden mit ihren Steigungen.
+und tragen dann die Betriebskraft da hinten in das Dreieck ein, zusätzlich.
+Hier ist die Vorspannkraft.
+Der Beholzungspunkt liegt an der Stelle, das ist der Anteil der Verlängerung, der Staubung der Zwischenlage,
+das ist die Schraubenverlängerung.
+Und die Betriebsgrad wird angetragen, indem sie hier hinten maßstäblich eingezeichnet wird.
+Dann müssen Sie wissen, was haben Sie da vorne für einen Maßstab.
+Ich habe das jetzt so gemacht.
+Ich habe ein Problem damit, wenn Sie ein Karopapier haben, geht das ein bisschen besser als das, was ich da jetzt gemacht habe.
+Das ist auch so ein bisschen frei an die Betriebskraft, wird hier hinten eingetragen.
+Ich habe einen Maßstab gewählt, 16 cm für die Gesamtverformung, 80 µ, 60 kommen von der Schraube.
+Das sind hier 12 cm und dann sind das hier 20 µm und das sind 60 µm.
+Die Gesamtdeformation sind die 80 µm, da liegt der Kreuzungspunkt, das ist die Staubung, das ist die Verlängerung.
+Da hat man nochmal gesagt, wenn man die Steifigkeit der Schraube reduziert,
+können wir das dann nachher hier entsprechend aufteilen.
+Das ist Delta FBS und das ist Delta FBZ.
+Sie müssen dann, bei mir ist die Betriebskraft, wenn es 80 kN sind, 8 cm, die habe ich hier
+reingelegt und dann unten kann man unterdessen die Restklemmkraft, die jetzt quasi wirkt,
+An der Stelle nach unten ablesen, auf die Verschraubung der beiden Platten.
+Eine super Prüfungsaufgabe für den allgemeinen Teil, was maßgeblich zeichnen, das ist in 5 Minuten gemacht, da kann man sich was überlegen.
+Und man sollte in der Lage sein, das entsprechend dann zu beschreiben.
+FV Delta F S Delta F Z
+Wenn die Betriebskraft jetzt hier angebracht ist, sieht man, die Schraube erfährt in der Gesamtdeformation eine höhere Spannung und eine größere Verlängerung und die Zwischenlage wird weniger gestaucht.
+die befindet sich an der Position
+das ist die Kraft, die jetzt auf die Schraube wirkt
+das ist die Kraft, die auf die Zwischenlage wirkt
+und beschreibt hier diese restliche Kraft
+und ich finde eine sehr schöne Aufgabe
+dass man auch so ein bisschen das Verständnis zeigen kann
+dass man das verstanden hat
+Frage
+Ist die Verhältnis notwendig?
+Nein, das kann man machen, wie man will.
+Also ich sage jetzt mal, aber Sie müssen wissen, was Sie für einen Maßstab haben.
+Weil Sie müssen nachher diese 80 Kilonewton da hinten reinlegen.
+Wenn das nur 40 sind, dann liegt es weiter vorne.
+Wenn die Betriebskraft, die diese Platten auseinanderzieht, geringer ist, liegt es weiter vorne.
+Ist die größer, liegt es weiter hinten.
+Gehe ich immer weiter raus, wird diese Restklemmkraft immer kleiner, weil die Zugkraft immer größer wird, die Verlängerung der Schraube.
+Und es ist immer ein Zwischenspiel oder ein Wechselspiel zwischen den beiden Steifigkeiten, von Zwischenlage und Schraube.
+Was macht man? Verständnisfrage.
+Wenn so eine Betriebskraft vorhanden ist, das ist ja die Kraft, die die Schraube durch den Lastfall zusätzlich abbekommt.
+Wie kann man die reduzieren?
+Steifigkeit der Schraube verringern.
+Andere Alternative, Krafteinleitungspunkt variieren.
+Klemmlänge reduzieren.
+Also dann, wenn die Steifigkeit geringer wird,
+die liegt flacher, die Kurve,
+liegt diese Betriebskraft da hinten anders drin,
+haben wir im Skript gesagt,
+zum Ende der Veranstaltung war das da unten zu sehen,
+das hier,
+wenn man die Steifigkeit
+der Schraube reduziert.
+Das ist der Krafteinleitungspunkt.
+Das werde ich nochmal verschieben.
+Dann wird auch die Klemmlänge der Schraube entsprechend geringer.
+Das sind sogenannte Schaftschrauben, die man hier hat.
+Mit auf die Länge betrachtet, jüngeren Elementen und der Hintereinanderstaltung der Nachgiebigkeiten.
+Dann wird diese Funktion flacher.
+Und dann sieht das ähnlich aus wie hier hinten, variiert über den Krafteinleitungspunkt.
+Je flacher diese Kurve ist, desto weniger variiert man mit dem Krafteinleitungspunkt.
+Das muss es auch geben für die Steifigkeit der Schraube.
+Hier sieht man, dass die Steifigkeit der Schraube reduziert wird durch solche jüngeren Schaftanteile.
+Und dann wird die Betriebskraft da hinten, FSA, reduziert.
+Es gibt dann zwar mehr Deformation, aber die Spannung, die auf die Schraube wirft, wird
+reduziert.
+Jetzt wollen wir den Anteil hier vielleicht noch rechnen, korrespondierende Formeln haben
+Zusätzliche Verformung, wo kann man die ablesen?
+Was ich noch sagen wollte, das Bild jetzt hier, das ist nicht in den Lösungen drin.
+Jetzt müssen Sie jetzt da selbst entsprechend Hand anlegen und abzeichnen.
+Und wenn man das Maßstab nicht abliest,
+Der Wert hier ist 10 µ.
+Das sind 2 cm.
+Entsprechend.
+10 µ.
+Da oben die Kraft.
+Wie viel?
+140.
+140, genau.
+Amen.
+Also Sie müssen die Betriebskraft maßstäblich hier hinten in diesen Kreuzungsbereich einzeichnen.
+Das sind bei mir 8 cm, das ist hier gemacht, das ist ein bisschen schräg.
+Ist es eine kleinere Betriebskraft, liegt sie weiter vorne, die Verlängerung der Schraube
+wird entsprechend geringer und die Stauchung der Platten ebenfalls reduziert.
+Die Kraft, die jetzt angreift, zieht die Schraube in die Länge und entlastet die beiden Platten.
+Ist die Kraft kleiner, liegt sie weiter vorne, die Restklemmkraft ist größer.
+Jetzt wird dann die Kraft immer größer.
+Da könnte man jetzt zum Beispiel dann auch den Punkt berechnen,
+wo gar keine Restklemmkraft mehr vorhanden ist.
+Das wäre auch eine schöne Aufgabenstellung, dass Sie mir hier diese Kreuzungspunkte zeichnen,
+die beiden Steigungen und sagen,
+okay, bei welcher Begrüßkraft ist keine Restklemmkraft mehr vorhanden?
+Das ist immer das Bestehen aus dem Verhältnis von Steifigkeit.
+Ich meinte, Sie können das mal machen und gucken, ob das bei mir so passt.
+Auf was für einen Wert kommen Sie?
+Dass die Restklemmkraft null ist?
+Die Triebskraft ist 80kN, bei mir sind das 8cm, die habe ich hier reingelegt und dann
+kommt eine Restklemmkraft von 6 knapp raus. 6 cm, 60 kN. Jetzt war die Frage, wie groß muss die
+Betriebskraft im Falle einer Zugbelastung sein, dass die Restklemmkraft 0 ist. Ich weiß nicht,
+ob das bei mir Maßstäblich ist, kommt wahrscheinlich 16 raus. 16 cm, das heißt FRK gleich 0 bei FBL gleich
+160 Kilo. Gesamtdeformation der Schraube sind dann 80 µm. Wenn die Schraube 80 µm lang ist,
+werden die Platten nicht mehr geklemmt.
+Dann haben wir da hinten die korrespondierenden Formeln nochmal, um das Ganze berechnen zu
+können.
+Dieses Delta F ds ist dann also die Betriebskraft, die 80 Kilo Newton.
+Man tut sich immer ein bisschen schwer dann die Steigung hier anzugeben oder zu berechnen,
+aber mit diesen beiden, mit dem Punkt, mit dem Punkt und mit dem Punkt kann man das schön konstruieren.
+Delta FPS sind diese 80 kN mal, die korrespondieren mit Steifigkeiten, 2 kN pro Mikrometer.
+Das ist wahrscheinlich eine massive Schraube durch 2 plus 6 Kilonewton pro Mikrometer.
+Das hängt immer nur vom Steifigkeitsverhältnis der beiden Varianten ab.
+Da sieht man jetzt, dieses Delta-FPS wird kleiner, was von der Betriebskraft L kommt, wenn die Steifigkeit der Schraube kleiner ist.
+Die Steigung wird geringer in einem entsprechenden Verhältnis.
+Und dann kommen wir hier durch das Delta-FPS 20 Kilo-Nuten als zusätzliche Kraft.
+Und das Cs ist gleich Delta Fb, S durch Delta Fb.
+Delta FB ist gleich CS durch, sorry, falsch drin, Delta FB ist durch CS.
+So, da hinten kann man jetzt noch sagen, die Schraubenkraft, FSmax, das ist das hier,
+fs max
+Formeln dazu
+sind eigentlich alle im Skript
+aber wenn man anhand der Aufgabe
+jetzt sieht, kann man es dann auch
+in den Transfer in der Prüfung nutzen
+fs max
+ist gleich
+fv plus
+delta
+f
+ds
+das waren dann die
+120
+20 Kilo-Noten plus 20 Kilo-Noten, die wir eben ausgerechnet haben, kommen dann auf die 140 Kilo-Noten zurück.
+Wie ist denn die allgemeine Fragenheit? Müssen wir da auch was rechnen?
+Das ist zum Beispiel...
+Ich habe gesagt, ich mache, wir machen, dass man zum Beispiel, ja, wenn man ein Smith-Diagramm hat,
+dass man das konstruiert, dass man dann einen Lastfall kriegt und dann die Sicherheit ausrechnet.
+Nein, da würde ich jetzt im allgemeinen Teil eher sagen, Sie sollten jetzt dieses Verspannungsdiagramm
+konstruieren können und den Lastfall anzeichnen und dann richtig indizieren, was ist was.
+Ja? Das tut nicht viel. Das sollte man können.
+Hier war die Fertigungstechnik schon hinter sich.
+Also bestanden. Wenn Sie einen Spritzguss haben und haben zwei Platten, die werden
+zusammengedrückt, dann gibt es genau
+dieses Ding.
+Die Platte wird deformiert nach ihrer Steifigkeit.
+Und dann
+kriegen wir genauso ein Verspannungsschaubild.
+Und wenn jetzt Werkzeuginnendruck kommt,
+wird die Verspannung zurückgenommen.
+Das hat zur Folge,
+dass eine Betriebskraft im Innendruck
+wirksam ist und es gibt genau dieses
+Verspannungsschaubild wie bei der Schraube.
+Dass ein wirksamer
+Innendruck, der vorhanden ist,
+aufgrund des Formfüllens
+wir machen bis morgen noch so ein bisschen Spritzguss
+dazu führt, dass
+der Trend besteht, dass diese
+Platten wieder aufgeben. Das ist eine Frage
+der Zuhaltekraft, die ich dort
+formuliert habe, also quasi die Vorspannkraft
+und dann kommt die Betriebskraft
+und das ist eine Frage der Steifigkeit
+der Konstruktion.
+Ja, also
+ein anderes Praxisbeispiel
+für diese Geschichte, aber
+ich sag mal, der absolute Klassiker
+ist jetzt hier
+diese
+Verschraubung,
+die
+geprägt ist durch die beiden Steifigkeiten
+und die Vorspannkraft.
+Die Verhandlung ist
+die Stiftung
+dieses Delta F
+BDS
+Das sind die 20 Kilo Newton durch CS, 2 Kilo Newton pro Mikrometer sind 10 Mikrometer.
+Also große Empfehlung, das hier.
+Well done. Alles richtig gemacht.
+Frage. Bei Klausur im allgemeinen Part, muss man diesen berechnen oder einfach erklären, was ist was?
+Zeichnen.
+Sie sollen in der Lage sein, dieses Verspannungsbild zu zeichnen.
+Typische Aufgabenstellung skizzieren Sie das Verspannungsschaubild einer Schraubverbindung.
+Maßstäblich mit der Angabe von Steifigkeiten, mit der Angabe von einer Vorspannkraft, die vorhanden ist.
+Und dann dem Antragen eines Lastfalles.
+Oder was passiert im Falle einer veränderten Vorspannkraft?
+Was passiert, wenn man ein zweites Verspannungsschaubild, hier das erste, ohne die Betriebskraft, was passiert, wenn die Vorspannkraft verändert wird?
+Leicht die Lenkung.
+Was passiert, wenn die Vorspannkraft verändert wird?
+Es ist immer eine Parallelverschiebung meiner Steifigkeitsgraden zu niedrigeren Werten.
+Ja, niedrigeren Werten, da oben ist die Vorspannkraft, die Deformation der Schraube wird geringer und die Stauchung der Platte wird geringer.
+Und ich kann das alles dann maßstäblich ablesen.
+Wenn ich jetzt zum Beispiel sage, zeichnen Sie mir das ein, das sind die maßstäblichen vorhandenen Dinge,
+dann täte ich mir zum Beispiel sehr einfach bei der Korrektur, indem ich das auf eine Folie zeichne und dann gucke, wie viele Punkte Sie da erreicht haben.
+Und dann sagt man hier, sagen wir zum Beispiel hier die 120, als Vorspannkraft hat, was ist im Falle einer Vorspannkraft von 80 kN, dann müssen Sie da auch die 8 cm auf dem Kreuzungspunkt da vorne ablesen und dann können Sie hier maßstäblich ablesen, wie groß ist die Verformung der Platte und wie groß ist die Verformung der Schraube.
+nette Aufgabe
+kann man sich Varianten vorstellen
+ist auch ein bisschen transfert
+dass man es verstanden hat
+ok
+gut
+dann würde ich noch den Druckbehälter
+hier mit Ihnen brechen wollen
+was Sie jetzt hier so sehen
+das ist jetzt im Prinzip
+darauf wo ich am Anfang darauf hinaus wollte und vielleicht schließt sich auch
+ein wenig jetzt der Kreis, dass man bei diesen Berechnungen immer Modelle
+bildet und diese Modelle sollten die Realität abbilden. Da sieht man häufiger mal besser oder mal schlechter,
+aber so arbeitet man hier im Maschinenbau mit den Grundregeln der
+Der vorhandenen Festigkeitslehre versucht man jetzt hier Modelle zu finden und diese Maschinenelemente zu berechnen.
+Das führt sich immer wieder in das gleiche Prinzip zurück.
+Hier haben wir unten einen skizzierten Behälter.
+Der Behälter ist kreisrund, der hört in der Position auf.
+Da oben ist ein Deckel drauf geschraubt.
+Zwei Platten, die miteinander befestigt sind.
+Die Platten als solches sind hier mit Überlappung versehen und sind durch Verschraubungen hier gekennzeichnet.
+Der Durchmesser L kann man sehen mit einer Schraube M10 x 40, das ist die Länge und die Verspannung sind hier 2 x 12 mm der beiden Platten.
+Wir hatten ja auch einen Behälter mal berechnet, der unter Innendruck stand, der einen bestimmten Durchmesser hat, der geschweißt ist.
+Das wäre eine konsequente Fortsetzung, kann z.B. die Zylinderform annehmen, die Wandstärke berechnen.
+Das wäre ein Schweißerbehälter und oben wird ein verschraubter Deckel draufgesetzt.
+Jetzt geht es um die Dimensionierung der Schrauben. Ist die ausreichend für den Betriebsfall, den wir haben?
+Im Betriebsfall ist 24 bar Innendruck. Der Behälter hat einen Durchmesser von 600 mm, was die Maßung hier anbetrifft.
+Das heißt, der wirksame Innendruck wird über die Fläche versuchen, diesen Deckel abzuheben.
+Das heißt, daraus kann man die Kraft berechnen, die sich auf die 20 Schrauben verteilt.
+Ja, die Steifigkeit der Zwischenlage ist hier angegeben, 1700 Newton pro Mikrometer, die Restlichtkraft, also da oben sieht man, da hatten wir 2 und 6 Kilo Newton, 6 Kilo Newton für die Zwischenlage, die muss gutmaßlich hier dicker gewesen sein als in dem Fall, das sind jetzt 12 mal 2 Millimeter.
+Die Restdichtkraft muss noch 25% der Betriebskraft betragen.
+Der Reitwert soll im Gewinde, also in der Kopfauflage, 0,12 betragen.
+Skizzieren Sie zunächst qualitativ das Verspannungsschaubild und bezeichnen Sie die Betriebskraft BWL, die Restdichtkraft, die maximale Schraubenkraft sowie die Vorspannkraft.
+Genau das, was wir eben gemacht haben.
+Ja, ich will das deshalb im Prinzip nur mit Ihnen rechnen.
+Betriebskraft
+FBL
+ist
+P
+mal A
+Das ist quasi die Kraft, die der Innendurchmesser versucht, den Deckel abzuheben.
+Daraus lässt sich eine Kraft berechnen, über den Innendruck mal die Fläche.
+Das ist die Sprengkraft, die vorhanden ist.
+Das ist genau das gleiche, wenn Sie ein Spritzgusswerkzeug haben.
+Sie haben da drin eine Fläche, die hat eine bestimmte Größe.
+Je größer die Fläche und je größer der Innendruck, desto größer ist diese Auftreibkraft, die vorhanden ist.
+In dem Fall ist es die Betriebskraft.
+Diese Betriebskraft wird jetzt noch dividiert durch die Anzahl der Schrauben.
+Das muss da oben gestanden sein.
+20 Schrauben sind das, die auf diesem Kreisring dort wirksam sind.
+Das Ganze ist P mal A durch 20.
+Das ist die vorhandene Betriebskraft.
+Durch 20 Schrauben ist es dort wirksam.
+Bitte berechnen Sie mal dieses FBL.
+Wie groß ist das FBL?
+Wieso müssen wir nicht einhalten?
+Wirksam werden.
+also was ist der druck sind die 24 bar ja was ist die querschnittsfläche
+4 mal d Quadrat Viertel. Welches d ist es?
+1200.
+Ja, das ist von der Bemaßung her ein bisschen unglücklich. Normalerweise geht, wenn ich eine
+Durchmesserbemaßung machen wir das durch, aber Sie sehen, im rechten Teil ist es
+Schnittdarstellung, deshalb hat er das rausgenommen. Im rechten Teil der Zeichnung
+ist es Schnittdarstellung, der Durchmesser ist 600 Millimeter.
+Ja, und Einheit für eine Kraft sind eigentlich immer Minuten.
+Jetzt würden Sie mir die 24 Bar umrechnen,
+und wir würden eine Einheit Minuten haben.
+Eine Kilopond, wie die Amis das machen.
+Wir hatten auch mit Kilofont irgendwas gerechnet.
+Nochmal?
+2,4 Newton pro Millimeter Quadrat können Sie so machen, ja.
+Dann sind wir da beim Millimeter Quadrat, da beim Millimeter Quadrat und dann ziehen wir die Karte raus, nicht?
+Das ist auch so ein Ding, ne?
+Das kann man sich merken, das kommt öfters.
+Eine Umrechnung von Druck in der Spannung.
+Da, in pro Quadratmillimeter, ist immer der Faktor 10 dazwischen.
+Kann ich mal auch nach vorne schrecken.
+Wenn man das parat hat, ist es einfach.
+Frage?
+Das kommt raus.
+Betriebskraft pro Schraube.
+Vielen Dank.
+Ich rechne jetzt mal mit dem Mehrpreis, den ihr hier angegeben habt.
+Wir machen immer schönen Punkt da, äh, bei den Tauben da.
+Das mache ich nur bei meinen Rechnungen.
+Die Rest, Klemmkraft, FRK, wie groß muss die sein?
+Bitte mal Text nachlesen.
+Rest Klemmkraft, Rest Dichtkraft
+soll 25% der
+Betriebskraft
+betragen
+also muss ich das Ding hier
+FHK
+ist 0,25
+mal
+FBL, kommt aus dem Text heraus
+das kommt als Wert
+dann 8.490
+Newton
+Wenn wir jetzt sozusagen unser Diagramm dann gezeichnet hätten, F, Performung über Kraft, Steifigkeit der Schraube, Steifigkeit der Zwischenlage, Klemmkraft und hier hinten die Betriebskraft antragen,
+dann könnten wir jetzt da hinten diese 8.490 Newton wo ablesen?
+Wo würden wir diese FRK immer ablesen?
+Ich würde die Betriebsstab einzeichnen.
+Müssen Sie das aus dem Text heraus?
+Aber es muss ein Verhältnis da sein.
+Wo finde ich jetzt diese 8.490 Newton?
+Diese SRK, wo ist die?
+Da oben.
+Das ist Ihre Betriebskraft.
+8.490.
+Ja, und wo ablesen?
+Und dann das Stück unter der Betriebskraft.
+Im Falle einer Zugbelastung. Das ist immer hier unten. Unter der Ladestelle. Genau. Und dann wäre das zum Beispiel hier. Und wir sagen, das ist meine maximale Verspannung oder minimale Verspannung, die noch da ist.
+Und dann sind das hier diese 8.490 Rufen.
+Vielen Dank.
+Sorry, leider gesprungen. Die erste Aufgabe war es natürlich immer die Steifigkeit zu
+bestimmen. Die war die Formel C ist E mal A durch L. Das haben wir jetzt schon mehrfach gemacht.
+Jetzt müssen wir wieder in die Tabelle reingehen. Spannungsquerschnitt, das ist ein M10er.
+Im Modul wissen wir 210.000 Newton pro Quadratmillimeter mal A Spannungsquerschnitt.
+Was man jetzt hier macht, ich weiß jetzt nicht so richtig, ob man das so ablesen kann.
+Da ist jetzt auf dem verschraubten Teil, das gestaubt wird, hier bei dieser Schraube kein
+Gewinde drauf.
+Bei der Schraube vorhin, bitte Achtung, das ist jetzt ein Detail, bei der Schraube vorhin ist das Gewinde durchgängig.
+Deshalb haben wir bei der Steifigkeit den Spannungsquerschnitt genommen, vom Gewinde, dieses AS.
+Hier ist ein Vollzylinder sozusagen, der verschraubt ist und hier dürfen wir den Bereich, der hier verschraubt ist, das Gewinde ist nur hier unten drauf.
+Da ist kein Gewinde drauf, deshalb ist es ein Vollkehrschnitt, deshalb wird das A berechnet mit Pi mal D Quadrat,
+Das sind dann die 10 mm² Viertel durch L, 24 mm.
+Hier kürzen sie sich weg, der, der und die Einheit sind dann immer Newton pro Mikrometer
+Und dann kommt der Scan-Wert 687 Newton pro Mikrometer aus.
+Jetzt haben wir...
+Wollen wir da vorhin das auch ausrechnen sagen?
+Die Steifigkeit einer Schraube mit Gewinde, wo der Spannungsquerschnitt kleiner ist als der Vollkreisquerschnitt, weil das Gewinde drauf geschnitten ist.
+Ich schaue mal gerade in die Werte rein, wenn das Gewinde da vorhanden ist.
+Ah, da war die Schraubenlänge, 40 mm.
+Dann passt das nicht, kann man nicht vergleichen.
+Aber das ist der Querschnitt dann hier entsprechend kleiner.
+Das AS liegt in dem Fall, wenn man in diese Tabelle reinschaut, die ich Ihnen zur Verfügung stellen würde, liegt bei 9,02 Quadratmillimeter kleiner aufgrund des hineingeschnittenen Gewindes.
+Und je länger die Schraube ist, desto geringer die Steilrichtung.
+Das ist das Erste, was hier gerechnet wurde.
+Betriebskraft für die einzelne Schraube haben wir jetzt berechnet.
+Okay, dann machen wir hier nochmal weiter, das war das PS Max.
+fs max war fv plus delta fbs.
+Ist aber gleichzeitig auch dieses FRK, das ist der Wert, plus FBL.
+So haben wir gesagt, wenn wir jetzt die Betriebskraft pro Schraube, um den Deckel unten halten zu können, 33.960 Nm ist, plus FBL 8.490 Nm,
+Könnte man wie gesagt da auch reinzeichnen, kommt man dann auf eine maximale Kraft, die auf die Schraube wirkt, von 42.450 N.
+Das ist jetzt eine Spielerei, weil er weiß nicht, wie groß ist eigentlich meine Vorspannkraft,
+die ich brauche, um diesen Betriebspunkt zu treffen.
+Also das ist, ich sag mal nicht so, was ich jetzt wahrscheinlich machen würde, aber FV, Vorspannkraft, ist jetzt wiederum gegeben aus FS Max.
+Minus Delta FBS, F ist Max, Minus Delta FBS.
+Delta FPS war wieder das Steifigkeitsverhältnis, ist minus CS durch CS plus CZ mal FBL.
+Der geht jetzt umgekehrt den Weg, gerade die Betriebskräfte, die vorhanden sind,
+er teilt diese Betriebskräfte auf eine einzelne Schraube auf und er fragt jetzt,
+wie groß muss die Vorspannkraft sein, damit 25% der Betriebskraft als Restplännenkraft vorhanden ist.
+Für diese vorhandenen Verhältnisse, die Steiglichkeit, die wir jetzt hier unten berechnet haben,
+in 687 Nm pro Mikrometer.
+Die Steifigkeit der Zwischenlage
+war in 1700 Nm pro Mikrometer.
+Jetzt bitte mal ausrechnen,
+wie groß die Vorspannkraft sein muss.
+Hier sind eigentlich alle Komponenten
+jetzt vorhanden.
+Das FS-Max sind die 42.450.
+Die Betriebskraft pro Schraube
+sind die 33.000.
+Und die beiden Steifigkeiten haben wir auch.
+Damit wissen wir jetzt, wo dieser Betriebspunkt liegt im Verspannungsschaubild, um das FV, die Vorspannkraft, zu bestimmen.
+Bitte reintippen.
+Wir haben wieder die Verhältnisse, FSmax 42.450 Newton minus CS 687, das kürze ich gegenseitig weg in dem Verhältnis,
+Deshalb lasse ich die Einheiten mal raus. Das sind dann 687 plus 1700 mal 50 Grad, 33.960 Newton, wenn es gerechnet wird.
+Würde ich mitgeben, er hat hier 32.674 Newton.
+Das wäre für mich okay, wenn man das jetzt so darstellt.
+Die Taschenrechner kommen in 76.
+Ich habe keine Ahnung, wie das kommt mit den Zahlen, die wir hier haben.
+6,87, 4,50.
+Habe ich nicht überprüft.
+Also der hat jetzt hier 32.674.
+Das ist hier die Version 1.0, vielleicht hat er auch noch Fehler drin.
+Ich sage jetzt mal 0 Punkte.
+Das ist mein FV.
+Mit dem stechen wir jetzt weiter.
+Das ist der Fehler jetzt relativ.
+0,08%
+0,08% bei einer Prüfung, dann war das perfekt.
+E.
+M in Gewinde wirksam ist gleich, das haben wir die ganze Zeit schon gerechnet,
+FV mal
+die 2 halbe
+mal
+Tangens
+Pi plus
+minus
+Rho Strich
+Wer erinnert sich noch an das Rho Strich?
+Erste Aufgabe heute Morgen
+Viertel nach 8
+Der Halbwert war identisch, 0,12, also das war dieses Arcus Tangens, dieses Rohstrich
+Ich war Arcus Tangens, nochmal auf, µ durch Cosinus Beta halbe, da ändert sich jetzt nichts.
+Was kam raus heute Morgen?
+Kleiner Gimmick an der Sache.
+Das war 7,889 Grad.
+Der Herr hinten selbst hat das jetzt weggekürzt auf die zweite Nachkommastelle
+und hat daraus nur 7,89 gemacht.
+Was, ich sag mal, null darüber aussagt, dass das prinzipielle Verständnis jetzt für dieses Thema vorhanden ist,
+dieses M-Gewinde.
+Das ist jetzt, was erforderlich ist für unsere Steigung, Bergauffahrt, beim Zudrehen der Schraubverbindung,
+müssen wir das Kopfmoment aufbringen und wir müssen das Gewindemoment aufbringen.
+Das Gewindemoment, das erforderlich ist, ist eine Frage der Steigung, die ich habe, der Flankenwinkel, hier 60 Grad und der vorhandenen Reibungsverhältnisse.
+Jetzt habt ihr da mit den 7,89 weitergerechnet.
+gewinne moment zum anziehen das ist jetzt wieder fleißarbeit mache ich jetzt nicht
+lassen wir mal so stehen ist jetzt immer wieder identisch das kopf moment kr ist gleich mal
+mal µ, die Reibung am Kopf, mal rK, rK war dI plus dA viertel.
+Was müssen wir einsetzen?
+Ri
+und Ra
+Sorry
+Ri und Ra
+oder Di
+Sorry
+Die Schlüsselweite vom Zehner.
+Dann kann man die Bierflasche aufmachen.
+17, 11.
+kommt das kopf moment raus und das
+Das, das, das, M-Gesamt ist dann wieder das M-Gewinde plus M-Kr, haben wir gesagt, liegt ungefähr immer im Verhältnis, das ist fast ausgerechnet, also passt in dem Sinne, dass es immer 50 zu 50 in etwa verteilt ist.
+28,47 Newtonmeter und das Ding hier liegt bei 27,45 Newtonmeter und dann kommen wir hier auf 55,92
+Die Frage ist, ist diese Schraube ausreichend dimensioniert, was den Spannungszustand anbetrifft?
+Da hatten wir vorhin gesagt, Sie haben das gefragt nochmal, hier vorne, erste Reihe, Sie haben das gefragt, wo kommt das her?
+Die Vergleichsspannung Sigma V war was? Das war das Sigma Zug, die Zugspannung. Das ist die Vorspannung, die auf den Spannungsquerschnitt wirkt.
+Achtung! Wie groß ist der Spannungsquerschnitt bei der Verbindung?
+Es ist nicht die Spannung des Gewindes, doch es ist plus 3 mal Tau Quadrat, daraus die Wurzel.
+Sigma Z ist das im Gewindemoment aufgebrachte Zugspannung, F bezogen auf den Spannungsquerschnitt,
+weil die Spannung natürlich auch hier im Gewinde wirkt und das Gewinde deutlich, haben wir gesagt, 9 zu 10 Millimeter in etwa.
+müssen wir aus der Tabelle rausholen.
+Was haben wir hier?
+Gehen wir nochmal in die Tabelle rein.
+Ganz am Anfang.
+Da ist sie.
+M10 Spannungsquerschnitt, 58, das ist die wirksame Spannung, Zugspannung aufgrund der Vorspannung.
+FV ist die Vorspannkraft, da haben wir berechnet die FV 32.674 Newton durch AS 58,0
+58,0 mm² und das Tau ist das wirksame Gewindemoment durch die Pol, da müssen wir wieder auf die Einheiten aufpassen,
+Das Gewindemoment waren die 28.470 Newtonmillimeter durch B-Pol 124,58.
+Millimeter hoch 3.
+Warum rechnet ihr mit der Vorspannkraft und nicht mit der maximalen Kraft?
+Weil dann zieht man tief.
+Ja, also, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja.
+FV plus Delta FBS
+ist gleich FSmax
+durch KS
+das waren die 42.000
+sorry
+das war der falsche Zustand
+Newton durch 48,0 Millimeter Quadrat.
+Bitte mal ausrechnen, was jetzt hier für ein Sigma V rauskommt, das Sigma Z und dieses Tau.
+Also das war jetzt so eine Rechnung, so von hinten ein bisschen ins Auge rein, dass man
+sagt, es ist eine Betriebskraft und eine Restspannkraft vorhanden, wie groß muss die Vorspannkraft
+sein, damit eine Restklemmkraft vorhanden ist und das safe dicht ist.
+Also diese Diskussion da um Kommastellen jetzt bei Spannungen, das finde ich echt, das ist 732, kommt hier raus.
+Das andere waren die 28,47. Da hat er noch eine 5 hinten dran. Da kommen dann 229 Nm pro Millimeterquadrat raus.
+Der Gleisspannung ist wie hoch?
+In Frage?
+Was jetzt hier in der Aufgabenstellung nicht drin ist und worum ich Sie bitten würde,
+wie groß ist es, wenn es sicher ist oder ist es überhaupt nicht sicher?
+Dass keine plastische Deformation meiner Schraube auftritt, das ist das Ziel.
+wir haben jetzt die Betriebskraft berechnet
+wir haben eine Vorspannung
+wir haben über die Betriebskraft
+eine Lockerung der Verbindung
+die Schraube wird weiter beansprucht
+sie kriegt eine zusätzliche Kraft
+und wir berechnen für diesen Fall
+diese zusätzliche Kraft
+die auf die Schraube wirkt
+das ist eine reine Zugspannung
+das hat nichts mit dem Moment zu tun
+das eingebracht wird, um eine Vorspannung zu machen.
+Hier wird dann nur diese zusätzliche Zugkraft aufgebracht,
+die in dem Gleisspannungszustand dann zu einer Beanspruchung von 833 Newton pro Quadratmillimeter führt.
+Wie groß ist die Sicherheit?
+Bitte in die Zeichnung reinschauen, da sehen Sie,
+Die Schraube ist bezeichnet für 10.9, heißt was?
+Wenn Sie jetzt die Vorspannung erhöhen, weil Sie eine höhere Vorspannkraft brauchen, um
+eine höhere Restklemmkraft zu kriegen, erhöhen sie gleichzeitig auch das Kopfmoment. Da muss
+man ein bisschen aufpassen. Die Schraube geht immer an der ersten Windung kaputt, wo das
+Moment über das Gewinde eingebracht wird. Wenn Sie dort Überlagerung haben von der
+freien Zugspannung vorher und das zusätzliche Moment, was über das Gewinde eingebracht
+die dort vorhandene Reibung. Wie groß ist die Sicherheit meiner Konstruktion, meiner Schraube
+gegen plastische Deformation? Was ist meine 10.9? Zulässige Spannung, das sollte man auch wissen,
+Ja, was das ist? Wir haben gesagt, was war 8.8? 10.9. Was ist das? 10. Das erste Ziffer ist die Zugfestigkeit.
+rm 1000 Newton pro Quadratmillimeter. Das ist die 0,9.
+rp ist 90% rm. Bei der 8.8 ist die Zugfestigkeit 800 und die Streckgrenze
+rm ist 800 mega pascal also den wert mal 100 nehmen und die zweite ziffer ist 80 prozent
+RM ist gleich
+RP
+Reckgrenze
+RM
+1000 Newton pro Quadratmillimeter
+plastische Deformation
+RP
+90%
+ist 900
+MPa
+welchen Wert setze ich ein
+wenn ich die Sicherheit gegen plastische Deformation
+haben möchte
+Gegenplastische Deformation, da muss man ein bisschen aufpassen. Die kann zwar eine
+Restbremskraft haben, aber die Spannung in der Schraube wird irgendwann so groß durch
+die Betriebskraft, dass sie hier bleibt verformt. Das muss man auch dimensionieren. Gegenplastische
+Deformation. Sicherheit ist Rp zu Sigma V. Das wären die 900 zu 833 ist gleich. Kommt da raus.
+ist nicht viel
+also wenn man typischerweise sicherheitsrelevante auslegung macht ich weiß nicht wie es bei so
+mehrfach Schraubverbindungen aussieht, wenn Gefahr für Leib und Leben da ist. Teilweise
+Sicherheit 2. Ist das nicht der Fall, Sicherheit 1,3. Sicherheiten, so haben wir angefangen vor
+ein paar Monaten, immer größer 1. Wenn Sie in der Konstruktion was haben, kleiner 1, dann ist
+Versagenprogrammieren. Das sollte nicht rauskommen bei der Verwendung. Und wenn es rauskommt, muss
+über die Dimensionierung
+neu machen.
+Verstanden.
+Verschraubungsschauwelt.
+Lade die Lösungen hoch.
+Nochmal zusätzlich für alle Aufgaben.
+Wenn du nochmal irgendwie was dich anschauen
+möchten. Und ich sage mal, in Anlehnung an die Übungen werden auch die Prüfungsaufgaben
+aussehen. Und im allgemeinen Teil definitiv eine Frage zum SMIS-Diagramm, Konstruktion
+des SMIS-Diagramms, Antragen eines Lastfalles, Ablesen der Sicherheit gegen Dauerbruch.
+Ja, vielleicht nochmal der Hinweis, die Kerbwirkung. Wir haben gesagt, bei dem Smith-Diagramm gibt es die zwei Verkleinerungen, die aufgrund von Oberflächenrauhigkeit und Kerben entsteht.
+Wenn ein Produkt starke Kerben aufweist, wird dieses Feld der Dauerfestigkeit immer kleiner und es gibt diese sogenannte Gestaltfestigkeit.
+Das ist das, was wir bei der Schraube sehen. Die Schraube hat eine Mittelspannungsentzündlichkeit, die ist über alle Spannungen hinweg identisch.
+Das Grundmaterial des Flattenstabs sieht so aus, durch die Schraube und ihre Kerbform, die kann plastische Deformation lokal noch abbauen, steigt die Streckgrenze an, aber das Feld hier wird immer schmäler.
+Und die Ausschlagsfestigkeit ist nahezu unabhängig von der Mittelspannung, die vorhanden ist.
+Und so wird dann die Sicherheit berechnet.
+Das Missdiagramm sollten Sie konstruieren können.
+Und die Schraube da oben hält, dieses RP02, die hält, aber die kriegt eine plastische Reaktion dazu.
+Wenn die Betriebskraft weggeht, bleibt eine Längung vorhanden und das Ding wird nicht mehr so stark gespannt sein.
+Okay?
+Gibt es noch Fragen?
+Ich mache drei Aufgaben zur Berechnung wahrscheinlich, zwei oder drei Aufgaben, vielleicht noch ein oder zwei Verständnisfragen im allgemeinen Teil.
+Und ich sage mal, was jetzt ein sehr, sehr schönes Angebot ist, ist Verschraubungsdiagramm konstruieren können und Missdiagramm konstruieren können.
+Im allgemeinen Teil. Ohne Hilfsmittel.
+Antragen einer Betriebskraft. Was passiert, wenn die Vorspannkraft variiert?
+Das sind mir diese Diagramme zeichnen. Das muss gehen. Das ist ein Angebot. Das ist ein sehr gutes Angebot.
+Habe ich früher nicht gemacht.
+Wie Sie das können, haben Sie in diesem allgemeinen Teil, der zählt quasi ein Drittel und zwei Drittel Berechnungen.
+Da können Sie sich jetzt vorstellen, was kommt. So eine Aufgabe beispielsweise mit Verschrauben und Berechnung von Gewindemomenten.
+Da könnten wir jetzt hingehen, da können Sie ein paar Variablen mit reinbauen.
+Die Formel sieht klar, dass sich irgendwas in der Kopfreibung ändert, dass sich was in dem Querschnitt ändert.
+aufgrund der Zeichnung, wo man das ablesen muss.
+Was ich auch gesagt habe, ist mutmaßlich eine Aufgabe zum Schweißen.
+Da haben wir auch eine Beispielaufgabe gerechnet.
+Schrauben, Schweißen.
+Habe ich noch was gesagt?
+Bei den Schweißen eher so.
+Vielleicht was bei den Mieten noch, so eine einfache Mietaufgabe,
+wo man sagt, ich habe hier so Rechnungen von Verteilung auf Kräfte bei Mieten.
+Da waren irgendwann Übungsaufgaben, die quasi schon mit Lösungen da waren.
+Dann haben wir einmal den Behälter berechnet, der war ja recht nett, wenn man die Wellen gefunden hat.
+Da war so ein Gimmick mit drin.
+Was war die Frage?
+Ich suche doch mal.
+Bei den Schweißen, bei Übung 2 und Übung 3,
+ob die wichtig sind, da kamen irgendwelche Hebel, die waren ein bisschen komisch.
+Da waren ja auch die Lösungen direkt ins Skript.
+Ich weiß auch nicht so richtig, was Sie im Prinzip in der Festigkeitslehre machen.
+Haben Sie den Satz von Steiner schon mal gehört? Das können Sie alle nein sagen, aber das glaube ich nicht.
+Das baut darauf auf, dass ein Maschinenbauer, wenn sie so einen Kragarm haben, der an der Wand angeschweißt ist, wo ein Hebelarm wirkt,
+gibt es Querkräfte, gibt es Momente, um die Verteilung der Spannungen auf dieses Ding zu berechnen,
+Da braucht man schon etwas breitere Grundlagen, das kann schon sein, aber ich sag mal, da gibt es eine Aufgabe, die ist relativ, also was wir in der Vorlesung gemacht haben, die ist relativ soft.
+Der schöne Druckbehälter.
+Der schöne Druckbehälter zum Beispiel, den fänden wir ja auch.
+Den fänden wir auch gut.
+Ja, den haben wir hier im...
+Nicht mal bei den Übungen, sondern im Stück selber.
+Der war ja in Ordnung.
+Ja, fand ich auch.
+Der hier.
+Aber im Skript waren quasi so acht Fotografie-Aufgaben mit Lösungen.
+Ja, das haben wir gemacht.
+Das könnte etwas zu kompliziert sein.
+Ja, genau.
+Also wäre es natürlich nicht so schlimm, wenn man die jetzt nicht ganz durchspielen hat.
+Nee, wenn, dann wird da nur irgendeine Grundlage nicht, was einfach ist.
+Aber ich tendiere eher sowas zu machen, wo dann die Tabelle drin ist, dass man da mal nachliest,
+Werte rausliest, die richtigen Werte zieht. Wenn Sie was rechnen mit einem anderen Wert,
+der dort falsch wäre und einen Folgenfehler haben, dann würde ich immer noch die Punkte
+für diese richtige vorauswahl durchlaufen wenn dann im bereich der allgemeinen fragen
+also nichts zu berechnen ja also ich sage jetzt mal allgemeine frage was gibt es für
+Vergleichsspannungshypothesen,
+also aus dem allgemeinen
+Fragenkatalog, wie groß, wie
+wird eine Sicherheit bestimmt?
+Also allgemeines Verständnis.
+Keine großartigen
+Formeln, ja.
+Also Sigma V ist gleich
+Sigma Z
+zum Quadrat
+plus 3 Tau Quadrat
+Wurzel.
+Sprache ich nicht.
+Es ist doch schon alles, ich bin jetzt ja gar nicht fertig, soll ich noch mehr Fragen stellen?
+Jetzt setzen Sie sich da hin, machen Sie ein bisschen was,
+gucken Sie mir, dass Sie mir keinen Wurstsalat bei den ganzen Formeln machen, in Einheiten vor allem.
+Und im allgemeinen Teil, da kann man jetzt wirklich schon ordentlich was abgraben,
+Wenn ich sage, das ist das, was definitiv drankommt und Sie das beherrschen, das Missdiagramm, das müssen Sie blind können und in Sicherheit berechnen.
+Maßstäblich. Üben Sie das. Machen Sie das zwei, drei Mal.
+Gehen Sie auf ein kariertes Blatt, malen Sie mal so ein paar Sachen auf, können Sie das Verspannungsdiagramm von A bis Z bezeichnen und dann sind Sie da auf der sicheren Seite.
+Ja? Letzte Frage noch, bei den Übungen, sind Sie da eher so jemand, der, sag ich mal, also was wir jetzt bei den Übungen, man hat sich, wurde ja da ziemlich gut durchgeführt,
+berechnen Sie das, und das habe ich dann wieder für die nächste gemacht, oder ist es eher so, dass Sie sagen, ich meine, eher die letzteren Fragen,
+Man muss dann selber verstehen, okay, die ist davor, das, das, das und das eigentlich noch berechnen,
+dann will ich auch das Letzte bekommen.
+Oder ist das auch so durchgekühlt?
+Nein, ich mache das schon durchdekliniert von A bis Z,
+dass Sie auch eine Reihenfolge haben dessen, was zu berechnen ist
+und nachher nicht da irgendwie hängen und, was mache ich denn jetzt?
+Genau, weil das gibt es ja auch.
+Nee, das ist, ich sage mal, wenn Sie das irgendwann mal selber machen müssen,
+dann gibt es eine Routine oder ein Excel-Programm und da buchen die Dinger rein.
+Hier geht es um das prinzipielle Verständnis dessen, was da passiert.
+Jetzt eine Verständnisfrage zum Beispiel, bei Schraubverbindungen gibt es Reibung.
+Was passiert mit der Reibung?
+50% gehen in das Gewindemoment, das zu einer Torsion der Schraube führt
+und 50% gehen in den Kopf, um eine entsprechende Vorspannkraft zu erreichen.
+So Dinge.
+Wie jetzt diese Verständnisfrage zum Beispiel vorhin, wie kann man die Schraubenkraft im Zuge einer Betriebskraft, die vorhanden ist, senken?
+Über eine geringere Steifigkeit der Schraube. Und, und, und.
+Das sind so Verständnisfragen.
+Drei, vier kommen davon. Und die zwei nächsten Anteile aus dessen, was wir besprochen haben.
+... Musik ...
+Dann wollen Sie halt schauen.
+Wieso?
