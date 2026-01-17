@@ -1,0 +1,860 @@
+Minus 1,186 herauskommt.
+Aber das war uns im Grunde egal.
+Wollen wir nachher sowieso mit dem Betrag von 4 weiterrechnen.
+So, ich habe hier eigentlich irgendetwas, kommt immer dran in der Prüfung zu so einem ähnlichen Thema.
+Das heißt, wir haben irgendwo zum Beispiel ein Fließpressen und das geht um den Umformgrad oder ich gebe den Umformgrad vor, wie auch immer.
+Und am Ende kann ich nach Kräften und Energien fragen.
+In dieser Prüfung frage ich nur nach der Energie.
+Ich könnte auch nach der Kraft fragen.
+Das ist auch etwas, was man von der Rechenaufgabe machen kann.
+Und die Frage ist, wir haben hier zwei Gruppen, die Fließkurve oder die spezifische Umformenergie.
+Wir haben das Werkstift mit den entsprechenden Maßen, aber ich mache es mal kleiner, dann ist alles drauf.
+Und die Frage ist, wie groß ist die Energie?
+Wenn Sie diese Aufgabe machen müssen, wissen Sie, wie es geht.
+Brauchen Sie noch Hinweise oder könnten Sie es?
+Wissen Sie, wie es geht?
+Noch nicht?
+Da war es aber langsam, oder?
+Wissen Sie, wie es geht?
+Okay, also alle ein bisschen unsicher, wie es geht.
+Aber es ist immer der, der die Stimme hat.
+Hier haben wir die spezifische Umformerarbeit.
+Kleinen Wd, das ist 12d, ist die Umformenergie durch das Volumen.
+Das ist mal das Erste.
+Die spezifische Umformerarbeit.
+Das ist diese hier.
+Jetzt haben wir schon den Umformgrad 1,186.
+hier ist 1, hier ist 1 Nummer 2
+1 Nummer 1 sagt 6, das ist ziemlich genau hier
+das sind hier
+ja, was weiß ich
+670
+das habe ich genau, 680
+also aus Diagramm
+WD
+sind
+680
+nehme ich mal
+Newton pro
+Quadratmillimeter
+abgelesen
+bei 4 gleich 1,1 A.
+Ich nehme jetzt die Rechenweise
+mit der physischen Umformarbeit.
+Man kann auch mit der
+V-Score berechnen, das ist aber aufwendiger.
+Das braucht ein bisschen mehr Arbeit.
+Also nehmen wir
+die spezifische Umformarbeit.
+Wann immer es geht.
+Wenn immer beides gegeben ist, rechnen wir mit WD.
+Jetzt brauchen wir das umgeformte Volumen.
+Was ist alles umgeformt?
+Wir hatten vorher dieses Bauteil.
+Wir haben hinterher dieses Bauteil.
+Der Boden, der ist vorher da, der ist auch hinterher da. Der hat sich nicht geändert.
+Die Seitenflächen, die sind umgeformt. Das ist ja ringförmig, ein rundes Bauteil.
+Und nur dieses unbeformte Volumen, das hat Energie gebraucht.
+Also nehmen wir auch nur das Volumen.
+So, das heißt, dieses Volumen, das wir da bekommen, ist
+diese, von oben gesehen, diese Fläche außen, minus die Fläche innen,
+und das Ganze von einer Höhe von 40 mm.
+Also 40 mm mal die volle Fläche, 15 mal 15 Quadratmillimeter, minus den inneren Teil,
+Pi mal 25 sind 12,5.
+12,5 zu Quadrat.
+Na, Quadratmillimeter.
+Das ist diese Ringfläche hier.
+Diese Fläche ist der äußere Kreis minus den inneren Kreis.
+und das Ganze auf einer Höhe von 40 mm.
+Das ist das Volumen, das umgeformt wird.
+Bei mir sind das 8.639 mm³.
+Jetzt haben wir alles.
+Wir haben hier Wd, wir haben V, dann können wir W ausrechnen.
+W ist WdV, die sind bei W, dann kommen da 5.850 Joule heraus.
+Fragen dazu?
+Wenn ich jetzt eine gemeine Frage stelle in der Prüfung und sage, welche Kraft brauchen wir dafür, wie würden Sie dann vorgehen?
+Also Zusatzfrage, könnte der Prüfung dran kommen?
+Also Zusatzfrage, welche Kraft wird benötigt?
+Wie könnten wir das rechnen?
+Vielen Dank.
+Also entweder Sie gehen über die Fließspannung, Sie drücken hier mit dem Stempel drauf.
+Die Verformung findet statt, wenn Sie oberhalb der Fließspannung sind. Dann gibt es plastische
+Verformung. Wir müssen also hier mit der Kraft auf diese Fläche, der Stempel fährt ja hier rein,
+über die Fließspannung.
+Die Schwierigkeit liegt darin, welche nehme ich denn?
+Ich müsste jetzt eigentlich mit der Fließspannung
+hier der Großen rechnen.
+Obwohl sich das hier alles noch gar nicht so ganz
+umgeformt hat, ist es schwierig zu sagen.
+Wie groß ist der Umformgrad
+hier in diesem Bereich?
+Wir haben ja eigentlich gesagt, hier vorn ist ja gar nichts
+umgeformt, also auch nichts
+kalt verfestigt.
+Das ist eine sehr ungenaue Rechnung.
+Aber im Prinzip kann ich rechnen hier,
+bei dem Umformgrad habe ich diese Fließspannung
+ich habe die Fläche
+die Kraft brauche ich, damit eine Umformung
+klar ist
+oder ich mache eine durchschnittliche Kraft
+dann müsste ich jetzt ausrechnen
+wie weit ich hier runterfahre
+ich fahre hier runter
+mit dem Stempel
+also das ist der Weg
+diesen Weg X
+mit dem muss mein Stempel runterfahren
+um diese Energie aufzubringen. Energie ist Kraft mal Weg, also ist Kraft Energie geteilt mit dem Weg.
+Aber auch das ist eine Zusatzfrage, ein bisschen komplizierter als wir gerechnet haben bisher. Aber
+so schwer dann auch nicht. Kraft mal Weg ist in der Liebe. Den Weg ausrechnen, das ist nervig. Den Weg haben wir gar nicht ausgerechnet.
+Das würden Sie nicht in zwei Minuten machen können.
+Oh, wir müssen länger.
+Gut, war hier aber auch gar nicht gefragt, der Weg.
+Während nur an die Kraft mal.
+So, dann wieder, es gibt leichtes, es gibt schwere Fragen.
+Das ist wieder eine leichte Frage. Welches Verfahren ist geeignet, um so ein Bauteil in großen Mengen herzustellen?
+Das wollen Sie schnell herstellen und billig. Welches Verfahren nehmen Sie?
+Stauchen.
+Stauchen wäre eine Möglichkeit, aber nicht die beste.
+Das Stauchen wäre, wenn Sie dann ein festes Bauteil haben und haben hinterher ein etwas
+glatteres Bauteil, oder?
+Aber dies ist ja wohl in der Mitte.
+Das Stauchen ist auf jeden Fall eine massive Umformung und hier sieht es eigentlich eher
+nach Blechumformung aus.
+Das kennen Sie als Blechumformung.
+vom letzten mal und vorletzten mal
+ja das war das tief ziehen das wäre natürlich ein blech einlegen stempel
+fährt runter das blech fließt nach und sie haben ein blech
+Tiefziehen, aber die Seiten sind schräg. Was wir gemacht hatten, war ja Tiefziehen, wo ich gerade runterfahre.
+Und für den Schräg hat hier zum Beispiel das hydromechanische Tiefziehen.
+einen Punkt gibt die Aufgabe
+wie habe ich für Tiefziehen ein Halden gegeben
+für das hydromechanische Tiefziehen
+das wäre eigentlich das Richtige
+Das Verfahren fällst du in der Niederhalterkraft.
+Das haben wir lange besprochen.
+Das ist ja...
+Das Zielverhältnis Beta
+oben in Niederhalterkraft
+und dann
+ist das das Verfahrensfenster.
+Verfahrensfenster.
+Wenn die Niederhalterkraft zu klein ist,
+gibt es Wellenbildung.
+Oder Falten oder Wellenbildung.
+Wenn die Niederhalterkraft zu groß ist,
+dann reißt das Bauteil.
+Es wird die Kraft zu groß unter dem Stempel.
+Und es reißt typischerweise am Boden.
+Und hier unten ist das maximale Zielverhältnis mit der Max.
+Mehr geht nicht.
+Das steht aber so 1 zu 1, müssen Sie nicht nachschreiben.
+Genau das.
+Das dort.
+Direkt so.
+Erinnern Sie sich an den noch?
+Ich habe nur 30 Minuten Zeit, Sie zu allem zu befragen, was wir in diesem Semester gemacht
+haben.
+30 Minuten ist nicht viel.
+Da gibt es zu jedem Verfahren eine Frage.
+Und hier beim Schmieden habe ich gefragt, wie kann ich Zundernbildung verringern?
+Frage. Und hier beim Schmieden habe ich gefragt, wie kann ich Zunderbildung verringern?
+Zunderbildung war das Oxidieren der Oberfläche, dass sich Eisenoxid bildet.
+Was hatten wir?
+Schutzgas.
+Wäre eine Möglichkeit, aber schwer zu realisieren.
+Kann man probieren, aber es ist halt schwer bei dieser großen Anlage.
+Was noch?
+Wenn es geht, kleinere Temperaturen.
+Da muss man gucken, bei welchen Temperaturen man arbeiten kann.
+Geringere Temperatur.
+Was kann man noch probieren?
+Kurztakt. Ja. Oder eine kurze Aufheizzeit, dass es nicht zu lange heiß ist. Ein kurzer Takt, kurze Aufheizzeit.
+Wie auch immer, das ist eine Aufheizzeit.
+Und der letzte wäre Beschichte. Eine Schicht drauf machen auf das Bauteil, das ist besprühen,
+dass es am Anfang erst einmal nicht Kontakt mit der Luft hat.
+Und irgendwo bei 600 oder 700 Grad, da verbrennt dann die Schicht.
+Aber da haben wir zumindest eine Zeit lang unser Bauteil geschützt.
+Die Schichten.
+Das sind alles Möglichkeiten.
+Die letzten beiden sind die, die man wirklich gut machen kann.
+Die beiden oberen ist mehr Theorie, wenig Praxis.
+Wir wissen noch, was Highspeed-Cutting war.
+16.
+Das war beim Fräsen mit so hoher Schnittgeschwindigkeit zu arbeiten, dass die Kraft deutlich runter
+geht.
+Das war High Speed Cutting.
+Also die Idee war, wenn ich hier oben die Schnittkraft habe, FC für Cutting, und unten
+mir schnitt Geschwindigkeit, dass ich hier in diesen Bereich gehe, hier hinten. Da haben wir High-Speed-Cutting.
+Die Kraft ist deutlich geringer, weil es vor der Schneide so schnell so heiß wird, dass das Bauteil weicher wird.
+So, wo braucht man sowas?
+Oder wo wird das heute gemacht?
+Eins ist das schlichten im Formbau.
+Denn wir brauchen eine gute Oberfläche.
+Und die bekommen wir mit dem Highspeed Cutting.
+Ja, die hohe Geschwindigkeit macht Fließspäne und gute Oberflächen.
+Das passt zum Schlichten.
+Oder es gibt diese anderen Bauteile, wo man sehr viel, zum Beispiel, ich sag mal, Integralbauteile.
+Da haben wir eine Schrubbearbeitung.
+Schrubbearbeitung.
+Und das ist ganz gut, weil die Kraft und die Leistung ein bisschen runter bringen.
+Wir werden schneller werden.
+Wir sind einfach schneller.
+Schneller zu bearbeiten.
+Wir machen mehr Späne in der gleichen Zeit.
+So, das war jetzt der letzte Auftrag.
+Wie viele Stichpunkte für so eine Aufgabe mit zwei Punkten ausreichend?
+Kann man jetzt gar nicht sagen.
+Ich habe oft die Frage, ich sage, geben Sie drei Sachen an, nennen Sie vier Sachen, sagen Sie zwei Sachen.
+Und wenn es da nicht steht, dann das, was Ihnen einfällt.
+Weitere Fragen, inhaltliche Fragen?
+Soweit alles klar. Fühlen Sie sich gut vorbereitet auf die Prüfung?
+Hier können wir eine andere Fütterung einschalten, das war 2021, im Moodle Kurs ist die von 2018.
+Hier von Sommer 2017 war das diese Prüfung.
+Okay, machen wir es zusammen.
+Wir sind ein wenig spät, aber es war eine spannende Sache.
+Band
+Ja, das ist die Länge des Sprachens
+Moment, mach mal auf
+Also entweder die Späne brechen sehr schnell,
+oder die Scheren immer ab, sie rutschen, also hier kommt die Kraft, die hier wirkt, dieses
+Material, das rutscht immer so ein Stück weiter und ist dann wieder fest und abgeschert.
+Und der letzte, was jetzt Bandsparen, da haben wir reingekommen, der Fließsparen, der fließt
+der Sparen hier kontinuierlich.
+und das gibt die schönsten Oberflächen
+denn hier immer wenn es rutscht
+oder bei einem Bandspann, immer wenn es bricht
+gibt es auf der Oberfläche
+eine kleine Unnebenheit
+der Fließspann
+ist der beste
+von dem für schöne Oberflächen
+der
+Heißspann
+ist gut so schrubben
+es findet nicht viel Umformung statt
+das bricht einfach weg
+das heißt man braucht wenig Energie
+Keine U-Form in der Linie, sondern das bricht mehr.
+Das war das mit den drei Spanformen.
+Und was Sie da hatten, wäre dann bei Brandspan das Thema, wenn die sehr lang werden, die Späne.
+Oder Spiralspan, das ist dann auch die Spanform. Hätte ich aber auch gelten lassen.
+Das ist das andere. Span, Span, Spiralspan, Wendelspan, Wendelspan.
+So, skizzieren Sie den Streifteil und tragen Sie Spanwinkel, Teilspiegel, Streifwinkel, Spanfläche, Freifläche ein.
+Das müssen Sie inzwischen sehr schnell zeichnen können.
+Wisst ihr, wie es geht?
+Okay, alle anderen auch?
+Bekannt, der Schneidkeil, war oft genug gemacht, oder?
+Das direkt im Skript auch.
+Also, hier dieses, vielleicht nochmal darauf hinweisen,
+wenn Sie hier Gamma, Beta und Alpha haben,
+die Spanfläche, achso genau, wenn Sie mir das jetzt so hinskizzieren hier,
+das ist der Span, das ist die Oberfläche,
+Und ein Fehler, der oft gemacht wird, nicht abzeichnen, was ich jetzt mache, ist es falsch,
+ist, dass Sie mir den Spanwinkel hier einfragen.
+Zwischen Span und...
+Das ist natürlich falsch, weil der Span hat da keinen Winkel.
+Der Span, der geht hier im Kreis herum. Welche Winkel wollen wir denn nehmen?
+Der Spanwinkel ist nicht der Winkel zum Span, sondern der Winkel zur senkrechten Spanfläche.
+und nicht Span zu Spanfläche.
+Das wird mal der falsche Mal.
+Das hier ist die Spanfläche
+und das hier
+die Freifläche
+am Gansack.
+Da wird ja geschrieben hier, nennen Sie drei Maßnahmen.
+Was kann ich tun, um den Reibungsverschleiß zu verringern?
+Ja, Beschichtung der Oberfläche, eine harte Schicht aufbringen.
+Was noch?
+Abkühlen.
+Wie?
+Öl oder Wasser.
+wasser kühlschmierstoff einsetzen kühl oder wasser also kühlschmierstoff oder kühlschmierstoff was noch
+wie bringen wir die temperatur noch runter
+geschwindigkeit ja runter mit der geschwindigkeit leistung ist geschwindigkeitsproportional
+Geringere Geschwindigkeit ist halt spannend, dann sparen Sie Verschleiß, Sie müssen nicht
+so viel Geld für die Werkzeuge ausgeben, aber Sie werden auch nicht fertig mit der
+Aufgabe.
+Wenn Sie Bauteile machen, die Sie teuer verkaufen können, dann verdienen Sie mehr Geld, müssen
+auch mehr Geld für die Werkzeuge bezahlen.
+Da gibt es eine optimale Geschwindigkeit.
+Die Künstlerformel, wie lautet die?
+Ich muss ja nicht nochmal hinschreiben.
+Hier war nur die
+einmalige Schnittkraft berechnen.
+Vielleicht dazu, ich habe mir angewöhnt, Sie müssen ja aus der Tabelle die richtigen
+Werte noch abnibbeln, das heißt den KCR 1,1, der ist 1686 Newton pro Quadratmillimeter
+für das Material und der 1 minus mc. Aufpassen, hier steht 1 minus mc, ck 60, der da 0,78.
+Wenn Sie mir die beiden hinschreiben oder Sie müssen es nicht extra hinschreiben,
+wenn ich die irgendwo sehe in Ihrer Rechnung, dann gibt es dafür schon mal einen Punkt.
+Also entweder weil Sie sie richtig eingesetzt haben oder weil Sie sie hingestehen haben.
+Aber wenn Sie mal die richtigen Werte genommen haben, dann brauchen wir die Breite.
+die hat sich ein bisschen geändert
+die Prüfung ist ein bisschen älter
+ich habe hier die Spanierung
+die Breite ist
+AP befreit durch Sinuskörper
+und die Höhe ist F mal Sinuskörper
+Also B ist
+AB mal 1 durch Sinus Kappa
+und die Höhe
+ist F mal Sinus Kappa.
+Und dann kommt bei der Breite raus
+3,2 mm
+und bei der Höhe kommt raus
+0,47 mm.
+Das ist ein Punkt und noch mal ein Punkt. Einer für die Breite, einer für die Höhe.
+Aber nicht dafür, dass Sie die Formel hinschreiben. Wenn Sie nur die Formel hinschreiben, dann kriegen Sie keinen Punkt, weil die steht ja hier.
+Aber wenn Sie die einsetzen und den richtigen Wert rausbekommen, dann gibt es dafür auch einen Punkt.
+Also schreiben Sie die Zwischenergebnisse ruhig hin.
+Dann kann ich Ihnen da Punkte drauf geben, auch wenn das Ergebnis vielleicht später
+mal falsch ist.
+Genau.
+Und dann haben wir noch zum Schluss die Kraft, die ist der Knüppel Kc1, 1,1 mal die Breite
+mal H0, mal H durch H0,
+durch 1 minus mc und keine Korrekturfaktoren.
+Und wenn man das alles einsetzt,
+kommen dann 2976 Minuten heraus.
+Nochmal ein Punkt.
+Für die Formel gab es hier oben schon zwei Punkte.
+Die Kitzelformel.
+Sie denken dran, die lernen Sie auswärtig.
+Fragen zu der Kraftberechnung?
+Gut, dann weiter.
+Das hier ist der Kolkvergleich.
+Wie wirkt sich der Verschleiß auf die Genauigkeit der Bearbeitung aus?
+Schadet der oder schadet der nicht?
+Ist der Verschleiß sehr schlimm?
+Naja, nicht wirklich.
+wenn sie hier auf der spanfläche hier eine vertiefung ist den grünen dann macht das
+für die zerspanung für die oberfläche hier gar nichts das stört nicht der kolk verschleiß ist
+nicht schlimm außer dass irgendwann die spitze abbricht wenn das hier zu tief wird wird die
+spitze abzubrechen dann wird die zu schwach aber sonst schadet das gar nicht so ein bisschen auf
+der spanfläche für genauigkeit und oberfläche nicht
+so skizzieren sie keramik pkd also diamant die schnellarbeitsstelle hat
+wo die sich hier befinden. Auch das gibt es so in dem Skript. Das ist eine ziemlich wichtige Sache.
+Also nach oben die Härte. Hier haben wir die Festigkeit.
+Und dann haben wir hier unten HSS, hier haben wir Hartmetall, hier haben wir Keramik,
+hier haben wir pubisches Bohrnitrit und hier haben wir den Diamanten.
+Also der Reihenfolge wird jetzt immer härter, von Stahl über Hartmetall bis Keramik wird
+es auch immer spröder in der Richtung.
+CBM wird jetzt besser und besser und Diamant wird noch besser, was auch die festen Spröder
+anbietet.
+Ihr wandert schon ziemlich gut.
+Frage dazu?
+Soweit noch bekannt.
+Erinnern Sie sich dunkel daran, dass wir das mal besprochen haben.
+Ein zylindrisches Werkstück, Durchmesser 80 mm.
+6 cm lang, soll auf 72 mm gedreht werden.
+Da steht nicht mehr wieviel Durchgänge das geht, also gehen wir von einem Durchgang aus.
+Normalerweise schreibe ich das aber immer dazu.
+Bei achtend ein Durchgang reicht, wenn nichts anderes da steht.
+Und dann haben wir unsere Hauptzeit, das ist L mal I durch N mal F. Was ist alles gegeben?
+M ist gegeben, F ist gegeben, die Länge ist gegeben und ein Durchgang ist gegeben.
+Bei der Länge haben wir 6 cm Werkstattlänge und noch ein Anlaufregel und ein Überlaufregel von 0,5.
+Also wir haben dieses Werkstatt.
+und das hier sind 6 cm und dann haben wir hier noch ein halben und da noch ein halben,
+macht zusammen 7 cm, die wir langsam fahren müssen. Das ist dann L und wenn wir jetzt alle
+Werte einsetzt, das ist eh alles gegeben, dann kommen wir auf 21 Sekunden.
+Was haben wir noch? Was ist die Grenzspanntiefe?
+Wisst ihr es noch?
+Das ist die Tiefe, ab der beim Fräsen Rattern auftritt, also große Schwingungen.
+Ich muss gerade überlegen, haben wir es überhaupt gemacht in diesem Jahr?
+Das ist schon eine Weile her.
+das skript noch mal aufmachen wir haben alte prüfung nicht dass ich jetzt das sage was wir
+und gar nicht mehr.
+Na, das ist gut.
+Späßen, Dach.
+Das war dieses Thema.
+Das kann Rattern auftreten,
+dass sich hier
+die Schwingungen selbst verstärken,
+dass die Schwingungen immer größer werden.
+Das nennen wir Rattern.
+und die Grenzsparentiefe ist die Tiefe, wenn wir hier immer tiefer, immer tiefer, immer tiefer schneiden,
+dann kommt ein Punkt, da wird es dann instabil.
+Hier fängt Rattern auf, hier schwingt es natürlich immer ein bisschen,
+wann immer man fräst, gibt es etwas Schwingungen, aber dass es hier sehr stark wird,
+das geschieht erst, wenn wir bei der Grenzsparentiefe sind.
+Dann ab einer bestimmten Tiefe ist vorbei.
+Das ist die Grenzspanntiefe, nicht da wo Schwingungen auftreten, sondern da wo Rattern auftreten.
+Erinnern Sie sich? Wissen Sie noch was Rattern war?
+war. Gut, so war's. Was haben wir noch? Warum ist Umfangsplanschleifen besser als Seitenplanschleifen?
+Gut, Seitenplan schleifen heißt, unsere Schleifscheibe liegt flach auf dem Tisch.
+Und wenn sie das tut, dann sind die Körner zu lange im Eingriff,
+Kühlschmierstoff kommt nicht gut rein und die Späne kommen nicht weg.
+Es gibt eine schlechte Oberfläche.
+Das versuchen wir zu vermeiden, das Seitenplan schleifen.
+Es gibt Ausnahmen, wenn der Schleifschirm, das ist jetzt eine Ausnahme, das ist auch ein Seitenplan-Schleifen.
+Wir arbeiten in der Seitenfläche, aber die Scheibe ist sehr viel größer als das.
+Das heißt, er schleift hier rüber und dann können die Späne wegfliegen.
+Hier ist es nicht schlimm.
+In dem Fall geht auch Seitenplan schleifen.
+Wenn wir hier mit einer kleinen Schleifscheibe auf den Tisch entlang fahren,
+kommt die Späne nicht mehr unter der Schleifscheibe weg.
+Hier spielt das keine Rolle.
+Nochmals, Erinnerung.
+Was ist Qualitätsschleifen oder Hochgeschwindigkeitsschleifen?
+Also Qualitätsschleifen, ich glaube wir haben jetzt eine alte Prüfung, wir hatten Hochgeschwindigkeitsschleifen
+und Tiefschleifen.
+Hochgeschwindigkeitsschleifen heißt auch Qualitätsschleifen.
+Also wir schleifen mit sehr, sehr, sehr hoher Geschwindigkeit.
+Warum?
+Wir kriegen eine bessere Oberfläche.
+Das ist fast wie beim High-Speed-Cutting.
+Es gibt die bessere Oberfläche.
+Die nächste Frage kommt in jeder Prüfung dran.
+Die gibt es immer.
+Ein geschenkter Punkt.
+Wir haben zwei nachfolgende oder aufeinanderfolgende Umformschritte.
+Einmal bei 4.1 von 0,5 und einmal bei 4.2 von 1.
+Also, wir haben ein Bauteil.
+Wir ziehen das in die Länge mit Umformgrad 0,5.
+Danach nehmen wir das V-Teil und ziehen es nochmal in die Länge mit Umformgrad 1.
+Was ist jetzt der gesamte Umformgrad?
+Additivität. Wir können addieren. Das ist das Wichtige daran.
+Nicht mal nehmen, nicht teilen, kein Durchmeldung bilden.
+Sondern addieren. Die Additivität des Umformgrades.
+explizieren Sie eine Fließkurve
+Kf
+Zusammenhang zwischen der Fließspannung Kf
+und dem Umformgrad
+Das ist einfach die Fließkurve
+Da haben wir auch schon ein paar mal drüber gesprochen
+Wir haben die Fließspannung, wir haben den Umformgrad und wir haben dann so eine Kurve.
+So oder so ähnlich. Und wichtig, es geht hier erst bei RE los. Erst ab der Spannung gibt es
+eine plastische Verformung. Wir messen ja plastische Verformungen. Und es geht auch nie wieder nach
+unten. Anders als beim Spann- und Trennungsdiagramm haben wir eine Kaltverfestigung und die wird auch
+nicht wieder auf. Ja, das ist die Fließkurve. Und auch nochmal zur Erinnerung, es gab diese Formel,
+diese Fließkurve Kf ist ungefähr Kf1 mal 4 hoch n. Das ist eine Läherungsformel.
+Die stimmt nicht genau. Die stimmt vor allem nicht, wenn man 0 einsetzt.
+Da muss man daran denken, Sie können hier nicht 0 einsetzen.
+Das ist das Einzige, was nicht funktioniert.
+dann steht hier nämlich Kf ist 0 und Kf ist nicht 0.
+Kf ist Rd.
+Also deswegen ist die nicht so richtig gut, diese Formel.
+Nicht bei 0.
+Diese Näherungsformel hier, diese Formel führt dann zu dieser Kurve.
+Und die stimmt halt ausgerechnet hier unten nicht.
+Da stimmt es nicht.
+Also hier, das ist falsch.
+Da stimmt die Formel nicht.
+Wo ist bei tiefgezogenen Teilen die charakteristische Schwachstelle?
+Wo genau am Boden?
+Also wenn ich das von der...
+Ich würde gerade probieren, wie man das gut gezeichnet kriegt.
+Das ist ein Bauteil.
+Ich kann nicht gut zeichnen.
+Ich konnte noch nie gut zeichnen.
+Ich bin nicht Ingenieur geworden.
+Hier unten ist der Boden. Und wo genau ist da die Schwachstelle?
+In der Mitte? Am Rand?
+Außen?
+Wo ist der Schwächste?
+In dem Boden, war richtig. Aber wo? Hier? Oder hier?
+Hier unten.
+Und wo? Am Rand vom Boden.
+Ja, genau. Also hier ist der Schwachpunkt.
+Schwachpunkt ist der Rand des Bordes.
+Ja, genau.
+Was passiert bei zu geringer Niederhalterschaft?
+Das hatten wir ja vorhin schon. Das war das Verfahrensfenster. Wenn wir unser Blech einziehen und wir drücken nicht genug drauf, dann fängt es an, hier Wellen zu bilden oder Falten.
+Dann bei irgendeiner alten Bildung reicht schon ein Wort. Falten oder Wellen. Wir müssen das runterdrücken, das Blech, dass es nicht anfängt, hochzugehen.
+Ein zylindrischer Rohling, ich weiß nicht ob ihr es sehen könnt, ich mach ihn nochmal größer.
+Der 50 mm Durchmesser 30 wird mit Vollvorwärtsfließkräften umgeformt und hat einen Durchmesser von 20 mm.
+Wie groß ist der Umformgrad?
+Das Ganze sieht so aus.
+Wir haben ein Bauteil, das ist 50 mm lang und rund.
+hat einen Durchmesser von 30. So sieht es aus. Das wird durch voll vorwärts Fließpressen
+so ein Werkzeug geschoben. Und danach sieht das Bauteil, hat es nur noch einen Durchmesser von 20.
+Wie groß ist der Umformkart?
+1,5
+Wie haben Sie es gerechnet?
+Die Länge
+Wie Länge?
+Oder Durchmesser
+Ich benutze die
+Die Fläche
+Die
+Durchschnitt
+open fläche die fläche okay aber du wirst du den lokalismus dazunehmen
+logarithmus der fläche hinterher durch fläche vorher
+Ja. Vorher hatten wir, das ist der Logarithmus, Pi mal 30 zum Quadrat,
+geht dann Pi mal 20 zum Quadrat, oder andersrum, das ist das Vorzeichen, eigentlich 20 durch.
+also 20 durch 30 so macht das vorzeichen geteilt durch vier oben geteilt durch vier
+unten kann man kürzen die kann man auch kürzen dann ist das der logarithmus von 400 durch 900
+was sagt mein spickzettel
+Müsste 0,81 sein, also nicht ganz 1 Knopfel, wegen Lorentz noch.
+Sie haben nur den Durchmesser genommen, hier die 30 zu der 20, aber die Fläche ist halt Pi mal Radius zum Quadrat oder Pi mal Pi Quadratviertel.
+Das ist der Umfangsrat, 0,81.
+Man könnte auch mit den Längen rechnen.
+Die Länge des Bauteils vorher und die Länge des Bauteils hinterher,
+weil wir wissen die Länge vom Bauteil hinterher nicht.
+Deswegen ist das die schwierigere Rechnung.
+Deswegen nehmen wir immer die Flächen. Die wissen wir immer.
+Und dann haben wir als nächste Frage, wie viel Energie brauchen wir dafür?
+Wie müssen wir rechnen?
+Gegeben ist die Kurve.
+V mal W.
+Hier bei der W ist V mal dieses kleine WD, das dort ist.
+V, muss man noch ausrechnen, ist das gesamte Volumen.
+Das ganze Bauteil wird jetzt hier fließend dadurch geschoben.
+Das ganze Bauteil wird umgeformt.
+Das heißt, wir haben hier das ganze Volumen.
+Also dann 50 Millimeter oder V für 50 Millimeter mal 30 Millimeter zum Quadrat und das Ganze durch 4.
+35.350 mm³.
+WD muss wir ablesen.
+0,81
+400, 500, naja
+450
+zum Beispiel
+Wenn Sie 460 ablesen, das ist auch gut
+das kann man hier nicht so genau ablesen
+Newton pro Quadratmillimeter
+und dann ist W
+ja
+Das war das.
+Das war das.
+Auch noch eine schöne Einheit. Newton Millimeter gibt es eigentlich gar nicht.
+Energien hätte ich schon ganz gerne in Joule, wenn es geht.
+Aus Millimeter machen wir erstmal Meter.
+Newton Meter und das sind dann auch 15.900 Joule oder 15,9 Kilojoule.
+Das ist eine schönere Einheit für Energie als Millimeter.
+Ach, sorry, die Frage hatte ich da schon mal gestellt.
+Die kann man verzündend vermeiden.
+Okay, das haben wir ja vorhin gemacht.
+Gleiche Frage in der Prüfung.
+Manchmal kommt eine Frage dorthin vor.
+Haben wir Anwendungen für das Kaltschmieden?
+Schmieden bei Raumtemperatur.
+Was gibt es da für Anwendungen?
+Wo macht man das?
+Schrauben?
+Schrauben?
+Schrauben ist kein Schmieden.
+Bei der Schraubenherstellung
+meinen Sie, oder?
+Es gibt das, dass sich kalte Wässer
+nur rollieren.
+Also es kann Schrauben rollen,
+wenn Sie das Verfahren meinen.
+Aber das zählt nicht als Schmieden.
+Schmieden ist ja immer mit Kraft drauf.
+Wäre Umformung, ja,
+aber nicht Schmieden.
+Schmieden ist, wenn man zwei Teile zusammenpresst.
+also prägen münzen münzen oder geldstücke prägen das ist eine eine form von kalt schmieden und das
+andere ist kalibrieren. Kalibrieren, das heißt das Bauteil wird erst einmal heiß geschmiedet,
+fertig gemacht und dann noch einmal im kalten Zustand in die endgültige Form gedrückt. Mit
+wenig, wenig Veränderung in der Form. Einfach für die exakte Form, um die gute Form einzustellen.
+Denn wenn Sie bei hohen Temperaturen schmieden und von 1000 Grad das Bauteil sich abkühlt, dann wird es ja auch mehrere Prozent kleiner.
+Und beim Kaltschmieden hat man das nicht.
+Dann kann man das nochmal auf die perfekte Form bringen und dann ist es auch gut.
+So, dann war es schon wieder.
+Das war schon eine ganze Prüfung.
+Meine letzte Aufgabe von der Prüfung.
+Kommen Sie durch diese Prüfungen?
+Jetzt habe ich die alle erzählt.
+Ich komme.
+Fühlt sich soweit gut vorbereitet?
+Da hat man Zeitdruck normalerweise.
+Sie müssen aber auch nicht alles lösen.
+Ich kann Ihnen mal sagen, wir haben...
+Gut, dass Sie das sagen.
+Ich habe normalerweise in meinen Prüfungen
+sind 10% überarmt. 10%
+müsste ich mal gar nicht machen. Ich habe 10%
+mehr Aufgaben, als ich überhaupt machen muss.
+Das heißt, es kann sein, dass
+ich 105% mehr Aufgaben schaffe.
+Weil ich mehr
+Aufgaben habe als 10%.
+Und
+zum Bestehen haben
+bei uns in den letzten Jahren
+25, 25
+Sommersemester zum Beispiel
+Okay, zum Bestehen haben 48 % gereicht. Also 48 %, aber der Überhang schon herausgerechnet.
+Also eigentlich insgesamt ungefähr 45% reichen zum Bestehen.
+Und damit, wenn man den Überhang wieder dazu rechnet, dann reichen ungefähr 80% schon für eine 1.
+Also Sie haben Zeitdruck, Sie werden wahrscheinlich nicht alle Aufgaben schaffen, aber das ist doch nicht nötig.
+Selbst wenn Sie nur 4 Fünfte schaffen der Aufgaben, nur 80% haben Sie schon eine 1.
+Also nicht erstrecken, weil es viele Aufgaben sind.
+Sie haben für diese Aufgabe 30 Minuten.
+Dann können Sie jetzt rechnen, das sind 18 Aufgaben, 30 Minuten.
+Sie haben pro Aufgabe anderthalb Minuten.
+Und natürlich werden Sie wahrscheinlich nicht in anderthalb Minuten durch diese Aufgabe durchkommen.
+Das geht natürlich nicht.
+Bei anderen Aufgaben, wie, ich kann es auch anders machen, Sie haben 30 Minuten und müssen 45 Punkte schaffen.
+Also pro Punkt haben Sie 40 Sekunden ungefähr.
+Und da gibt es natürlich Sachen, die gehen sehr schnell.
+Also, was weiß ich, wen hier, wie groß ist der Gesamtumformgrad, das schaffen Sie in weniger als 40 Sekunden.
+Ja, das ist die Summe aus beiden.
+Und bei anderen Aufgaben haben Sie drei Punkte, das sind ungefähr zwei Minuten, um diese Kurve zu zeichnen.
+Aber das geht schon auch.
+Aber wenn Sie erst lange überlegen müssen, dann wird es schwierig.
+Insofern sind gute Vorbereitungen schon wichtig.
+Sie waren jetzt hier mal da in der Vorlesung. Das hilft schon mal.
+Also, wissen Sie, wie viele angemeldet sind bei der Prüfung?
+Wie viele sich angemeldet haben?
+Für dieses Semester?
+Ja.
+Fünf Klausuren.
+Ich guck mal schnell.
+Das interessiert mich jetzt auch.
+Im letzten Sommersemester waren es so, da waren 15 Leute in der Vorlesung, im Sommersemester
+sind es immer mehr, und in der Prüfung waren 35, die ich noch nie gesehen habe.
+Schwierig.
+So, jetzt muss ich mal schnell mal gucken, ich bin selber gespannt.
+Fertigungstechnik.
+30 Leute sind zur Prüfung angemeldet.
+Und von denen haben viele nie in der Vorlesung zu mir gewesen.
+Ich glaube nicht, dass man die Prüfung gut schreiten kann, wenn man nie in der Vorlesung war.
+Ich halte es für schwer.
+Und die Prüfungen fallen immer schlecht aus.
+Aber es liegt nicht daran, dass sie dann schlecht sind, sondern es gibt ganz viele, die einfach nie in die Vorlesung kommen.
+Und in der Prüfung denken, was ist das alles? Das kenne ich alles gar nicht. Komisch.
+Also lassen Sie mich nicht nervös machen, weil es viele Aufgaben sind.
+Ich hätte gerne, wenn Sie sagen, Sie haben noch irgendetwas, was wir noch mal zusammen wiederholen sollen.
+Ich kann das natürlich machen.
+Wenn Sie sagen, es ist alles sehr, sehr leicht, dann ist das schön. Freut mich.
+dann kommen Sie da auch problemlos durch und das denke ich auch, dass Sie das schaffen.
+Ja, jetzt haben wir noch 20 Minuten.
+Was machen wir in der Zeit?
+Inhaltlich Neues gibt es nichts mehr. Wir können einfach in noch eine Prüfung reinschauen,
+wo wir noch andere Fragen sind oder ja, ich weiß auch nicht. Was haben wir denn hier? Fernprüfung.
+Das war, als Corona war. Corona hieß Fernprüfung zu Hause am Rechner die Prüfung. Die war ein bisschen anders. Die war ein bisschen kürzer, die Prüfung, und es durften Hilfsmittel benutzt werden,
+weil jeder zu Hause natürlich alles da hatte, alle Bücher und so.
+Also war es ein bisschen schwieriger.
+Hier kann man schnell gucken.
+Welche Spanform war das Land?
+Jetzt sind Sie da.
+Welche Spanform war die beste Oberfläche?
+Die Oberfläche mit der geringsten Rauheit.
+Welche Spanform war das?
+Fließspan.
+Genau, der Fließspan.
+Fließen, ja, konnten wir nicht fließen.
+Wie wirkt sich Kolkverschleiß auf die Genauigkeit auf der Oberfläche aus?
+Hatten wir auch vorhin. Kolkverschleiß war auf der Spanfläche, diese Vertiefung, die stört gar nicht.
+Ist für diese Anwendung ein großer oder ein kleiner Spanwinkel besser, für das schlichten?
+Was nehmen wir, großen oder kleinen Spanwinkel? Wenn wir schlichten eine gute Oberfläche brauchen.
+Was macht eine bessere Oberfläche? Wenn ich hier mit meiner Schneide so drüber gehe oder wenn ich so schneide?
+Große.
+Also so, dass der große Spanien geht. Ja, macht hier eine schöne Oberfläche.
+Erzeugt eher einen Fließspanien. Wenn ich so drüber gehe, dann brechen die Spanien hier.
+Die Späne. Und an jeder Bruchstelle gibt es einen Fehler auf der Oberfläche.
+Wo die Oberfläche nicht stimmt, so gibt es bessere Oberflächen.
+Bei der Bearbeitung von hochfesten Stählen, also Hartbearbeitung,
+nehmt ihr einen großen oder einen kleinen Spannwinkel.
+Also was ist besser? So eine Schneide, die hier lang fährt, oder so eine Schneide, die in der Richtung fährt.
+Für einen sehr, sehr festen oder harten Stahl.
+Für einen sehr festen Stahl ist das nicht stark genug.
+Das ist zu schwach hier vorne.
+Wenn wir eine sehr, sehr große Kräfte haben, sehr feste Stähle bearbeiten,
+brauchen wir hier einen großen Keilwinkel, eine stabile Schneide.
+Dann ist das besser.
+Also ein kleiner Spanwinkel.
+Kleiner Spanwinkel, der nicht kalt ist.
+Und für Fließstähle, das habe ich gerade gesagt,
+bei großem Spanwinkel entstehen saubere Fließstähle, das ist wie beim Schichten.
+Also hier wieder ein großer Spanwinkel.
+Hier müssen wir etwas anderes machen.
+Diesmal haben wir kein längs-rund-drehen, sondern ein quer-drehen.
+Die Vorschubrichtung geht jetzt in die Mitte.
+Also nicht in die Richtung, sondern da, als Vorschub.
+Drehen Richtung Mitte.
+Diesen grünen Bund da, die grüne Fläche wird abgedreht.
+Vorgegeben ist die Vorschubgeschwindigkeit 120 mmh.
+Das ist diese Geschwindigkeit.
+Das war eine andere Frage.
+Der Bund, also das Grüne ist 14 mm breit.
+Werkstoff ist gegeben
+Drehzahl ist gegeben
+Wie ist die
+Schnittkraft
+hier?
+Die Schwierigkeit ist hier, was ist die Spanbreite und was ist die Spanwinkel.
+Was ist die Spanbreite?
+Wir haben hier diesen Rund und fahren mit dem Drehmeißel dran entlang.
+Und das schälen wir quasi ab, wie so ein Apfel, der geschält wird.
+und was ist dann die Breite?
+Das ist der gesamte Bund.
+Wir schaffen die ganze grüne Fläche
+auf einmal.
+Das heißt, Spanbreite
+ist die Breite.
+Und ich habe einen Weg pro Zeit,
+den Vorschub pro Umdrehung,
+wie viel Weg fahre ich da.
+Und das gleiche wie beim Längsdrehen,
+da gilt dann
+Vf
+ist m mal f.
+Die Vorschubgeschwindigkeit
+ist die Drehzahl mal
+den Vorschub f.
+Das gilt beim Querdrehen und beim Längsdrehen.
+Das ist gar kein Unterschied.
+Also daraus folgt unser Vorschub.
+Das ist unsere Spanendicke.
+Wie tief fahren wir rein
+pro Umdrehung?
+Ist dann
+vf
+durch m.
+Das war so eine Prüfung, die hat jeder andere Zahlen gehabt, damit keiner von den anderen
+abschreiben konnte.
+120 Millimeter pro Minute durch die Drehzahl und die ist hier 300 pro Minute.
+Und wenn wir das einsetzen, kommen wir 0,4 mm heraus.
+Unser tief gezogenes Bauteil, wo ist der, erste Frage A, wo ist die charakteristische
+Schwachstelle?
+Das hatten wir vorhin, hier am Rand von dem Boden, das ist der schwächste Punkt.
+Das nächste ist ein bisschen spannender. Wo ist das Bauteil am stärksten umgeformt oder wo
+hier ist das Bauteil am stärksten verfestigt? So könnte ich auch fragen. Das wäre jetzt eine
+Transferaufgabe, also ein bisschen schwieriger als wir sie besprochen haben. Da wo der Stahl am
+stärksten sich umgeformt hat, da haben wir am meisten Kaltanfestigungen. Wo ist dieses Bauteil am festesten?
+Hier, hier, hier, hier. Wo wurde es am meisten umgeformt?
+Das Verständnis ist eine ganz gute Frage. Das war eine andere Prüfung, das war mit alten Unterlagen.
+Sie dürfen keine Unterlagen benutzen, deswegen habe ich solche Fragen eher nicht dabei, aber fürs Verständnis ist es aber trotzdem gut.
+Ich gehe mal schnell noch mal rein.
+Tief ziehen.
+Ziehen.
+Ziehen.
+Hallo.
+Hallo.
+Ich starte den Powerpoint nicht.
+Warum nicht?
+Irgendwas offen?
+Ach, von Schleifen noch etwas offen.
+Jetzt noch, oder?
+So noch nicht.
+Okay.
+Wo wird das Material verformt?
+Das, was in der Mitte war, am Anfang, wird nur runtergedrückt.
+Der Boden ist gar nicht verformt.
+Der war vorher da, der ist hinterher noch da.
+Da ändert sich nichts.
+Verformung findet hier der Seitenteil, oder verformt ist nur der Seitenteil.
+Am Anfang haben wir so ein Blech, am Ende haben wir die Seiten.
+Die Verformung findet statt, wenn das hier von außen nach innen geht und hier immer schmaler landen muss.
+Hier im Flamm findet die Umformung statt.
+Das, was von ganz außen reinkommt, wird von so breit auf so schmal zusammengeschoben.
+Es wird sehr stark verformt.
+Das, was am Anfang hier ist, wird nur ein kleines bisschen zusammengeschoben, geht um die Ecke und ist nur etwas verformt worden.
+Je weiter es hier in der Mitte zusammengeschoben werden muss, Richtung Mitte, desto höher der Umformtrag.
+Das heißt, das, was ganz außen ist, hat die größte Umformung hinter sich, bis es hier ist.
+Und das bedeutet, dass das, was hier zum Schluss oben ist, das war am Anfang am weitesten außen, das musste am weitesten umgeformt werden bis zur Mitte und ist deswegen hier am stärksten umgeformt und am stärksten kalbverfestigt.
+Hier wurde gar nichts umverformt, keine Treibverfestigung, hier am stärksten.
+Klar?
+Ein bisschen schwierige Aufgabe, aber es war ja auch eine unheimliche Prüfung.
+In großen Bauteilen, das ist eine dicke große Welle, also rund, Durchmesser 90 cm, ein wirklich
+großes Teil, 12.000 Stück sollen hergestellt werden.
+Jetzt kann ich mir 12.000 solche Stücke Stahl kaufen und dann das abdrehen, nur Drehbearbeitung,
+oder ich schmiede es erst und drehe dann die schönere Oberfläche.
+Geben Sie drei Gründe an, die für die Variante mit dem Schmieden vorab sprechen, beides geht
+natürlich.
+Welchen Vorteil hat es, wenn ich erst schmiede und dann drehe?
+Wissen Sie was? Ein Vorteil.
+Wenn Sie Schmieden hören, gibt es immer einen Vorteil, der für Schmieden spricht.
+immer. Schmieden verfestigt die Bauteile. Anders als Spanen oder Gießen oder anders
+Urformen sind geschmiedete Bauteile sehr fest. Also Schmieden, da haben wir als Vorteil,
+als Plus höhere Festigkeit.
+Und warum ist das ein Vorteil?
+Also weniger Späne oder sparen Volumen, ist egal, beides richtig, egal wie wir es sagen.
+Und warum ist das gut? Ja, es geht schneller. Das heißt, es geht schneller in der Bearbeitung.
+Und sie brauchen weniger Rohstoff. Die Späne, also insgesamt, haben sie ja tonnenweise Abfall sonst.
+Na gut, die Späne können Sie wieder verkaufen, vielleicht ist Ihnen das egal, aber so für die
+ganze volkswirtschaft sie kaufen sehr sehr viel stahl ein viel mehr als sie
+da eigentlich brauchen weil die hälfte hinterher wieder sprengender sind also
+es ist wie man sagt man hier in deutschland so schön ressourcenschonend
+sie brauchen weniger rohstoff weniger aromatär
+so nachteil sie brauchen eine große presse presse erforderlich wenn sie sich erst eine
+kaufen müssen das ist schlecht und die werkzeuge sind erforderlich die schmiede werkzeuge die
+die Gesenke. Und die sind sehr teuer. Erforderlich. Sie müssen die Presse und die Schmiedegesenke
+kaufen oder herstellen. Jetzt muss man durchrechnen. Das kostet Geld, das kostet auch Geld, wenn
+Sie Rohstoff kaufen. Und hier müssen Sie Drehwerkzeuge immer mal wieder neu kaufen.
+Hier beim Drehen sind Sie ein bisschen länger, brauchen Sie länger. Das kostet auch Geld. Das
+kostet Mitarbeiter und Maschinen. Es kann sich ausrechnen, was besser ist. Wenn ich keine Presse
+habe, dann sage ich vielleicht, ich brauche lieber noch zwei Drehmaschinen. Das ist besser,
+Aber diese Kombination, Schmieden erhöht die Festigkeit, die ist ganz wichtig.
+Jetzt braucht ihr aber richtig schön verformen und durchkneten, dass es wieder fest bleibt.
+Im ersten Schritt haben wir einen Umfangsgrad von 0,667. Im zweiten 1,5 wiegt uns der gesamte Umfang gerade.
+Das meinen Sie, viel gesagt haben wir ja, 2 Drittel mal 3 Halbe ist 1.
+Das ist eine ziemlich hektische Prüfung.
+Das war eine Leitprüfung. Machen wir hoffentlich nie wieder.
+Sie haben einen Drehmeister. Der hat vorne eine Rundung von einem Gelegenheit.
+Sie wollen eine Rennertiefe von maximal 30 Mikrometern haben und die Schnittgeschwindigkeit
+Das sieht nach der Bearbeitung so aus, weil sie ein Werkzeug haben, das hier vorne rund
+ist. Ja, gleich einen Millimeter. Sie erlauben aber hier eine Rillentiefe von 0,03. Also
+das darf nur 0,03 sein. Wie groß darf jetzt der Vorschub sein? Das ist genau zwischen
+Der ist gesucht. Welchen Vorschub stellen Sie ein?
+Das ist aber gegeben.
+Jetzt nicht in der Prüfung, aber wenn Sie eine Prüfung bekommen, dann ist das gegeben.
+Diese Formel, die ist in der Formelsammlung dann drin.
+Also, der Vorschub ist Wurzel aus 8 mal r mal h, oder t, t heißt hier, t minus 4t².
+So, und wenn Sie mal das einsetzen, den Radius und die Tiefe, dann ist das 0,486 mm.
+Welche Drehzahl brauchen wir, wie bekommen wir die Drehzahl heraus?
+Auch die Formel ist, müsst ihr dringend wissen, V ist N mal Pi mal D, ganz wichtig.
+Wir suchen die Drehzahl, N ist V durch Pi mal D, V ist gegeben, 200 Meter pro Minute,
+der Durchmesser hat den unterstechten hier drauf gegeben, 60 Millimeter, damit haben wir alles und können hier einsetzen.
+Also die 200 Meter pro Minute und unten haben wir Pi mal Durchlöcher, das sind 60 Millimeter.
+Wir müssen ja nur noch Milli und Meter richtig verrechnen.
+Hier sind Meter, da sind es Millimeter, aber das bekommen Sie hin.
+Am Ende kommt heraus, für die Drehzahl, 1061 pro Minute.
+Da hatte ich erst, wie es in der Formel war, früher war ein H, in der Aufgabenstellung
+Die Rillentiefe, die hat es manchmal als H, aber manchmal als T bezeichnet, weil H natürlich
+eigentlich auch die Spanndicke ist und deswegen bin ich jetzt eigentlich darauf übergegangen,
+das immer T zu nennen, aber T ist eigentlich auch die Zeit und das fehlen mir einen guten
+gut wir sind jetzt durch mit der zeit also wir können nur mal aufgaben gucken was kostet das
+ganze das heißt da müssen wir hier schauen was kostet das schlichten wie lange dauert
+das. Hier die Zeitausrechnung.
+Wieder Anlaufweg
+und Überlauf berücksichtigen. Wir können
+hier aber keinen Überlaufweg machen.
+Wenn wir hier entlang schlichen, fangen wir also ein bisschen
+vorher an. Überlaufweg
+5 mm. Fahren dann
+die 60, aber wir können jetzt hier nicht
+weiterfahren, weil das nicht mehr geht.
+Also können wir hier 65 nur weit fahren.
+65 einmal
+durch mit der Drehzahl,
+naja, Hauptzeit ist L mal
+I durch N mal F.
+Ich muss einmal ausrechnen und dann kostet eine Minute, kostet eigentlich 1 Euro.
+Rückwärts Fließpressen.
+Dann nochmal Fließpressen.
+wie groß ist der Umformgrad, wie groß ist die Umformarbeit.
+Die Aufgaben wiederholen sich.
+Ähnliche Aufgaben in jeder Prüfung.
+Gut.
+Ich habe jetzt in aller Einen zweieinhalb Prüfungen besprochen.
+Und ich habe vieles vorgeführt.
+Sie hatten eigentlich keine Fragen mehr.
+Ich weiß nicht, ob das gut ist oder nicht.
+Vielleicht kommen die ja noch.
+unser Forum für Fragen
+ist offen bis zur Prüfung
+also Sie können das nutzen
+Sie können wenn Fragen
+wenn Sie sich vorbereiten und lernen
+und etwas ist nicht klar
+dann können Sie auch da reinschreiben
+kann jeder antworten
+Sie können mich nicht direkt anschreiben
+ich kann nicht einem von Ihnen etwas erklären
+nur wenn dann anderen sagen
+also deswegen gerne das Forum benutzen
+dazu ist da ein Video aus
+Wir haben jetzt unsere Prüfung im Februar erst, oder Anfang Februar glaube ich.
+Also noch über zwei Wochen hin. Da wird es Zeit, langsam zu lernen.
+Oder in drei Wochen ist unsere Prüfung.
+Okay, dann sind wir für dieses Semester fertig und sehen uns wahrscheinlich erst zur Prüfung wieder.
+Ich hoffe, dass Sie da gut vorbereitet sind, dass Sie gut durchkommen.
+Wie gesagt, sonst gerne Fragen stellen, wenn man Fragen stellt, jederzeit.
+Okay, dann wünsche ich Ihnen eine gute Prüfungsvorbereitungszeit und bis zum Thema dann.
+Oh mein Gott.
+Was ist das?
+Vielen Dank.
