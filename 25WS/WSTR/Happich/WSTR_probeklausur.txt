@@ -1,0 +1,343 @@
+... draufschreiben, das bringt Ihnen sowieso nichts, weil wir nicht genau die gleichen Zahlen und nicht die gleichen Aufgaben machen werden.
+Aber allemal bitte das beachten und bei den Verständnisaufgaben mit einem vernünftigen Verständnis rangehen,
+dass Sie nicht 1 zu 1 Verständnisaufgaben abschreiben.
+Natürlich können Sie aber trotzdem, wenn es darum geht, wie ist ein Fernseher bestens möglichst isoliert,
+können Sie sich auf Ihren Notizenzettel schreiben, dass, egal welche Materialien, irgendwelche Wände am besten dann isoliert sind,
+wenn Sie vielleicht ein wenig wärmeleitendes Material nehmen oder wenn Sie Konvektion unterbinden und solche Spielereien.
+Am besten ist es, um dem Thema Herr zu werden, dass Sie einen Notizenzettel schon vor der Klausur, nächste Woche,
+Ich werde es uns fertig haben und den einfach uns mal zeigen.
+Und dann können wir einmal drüber gucken und sagen, ja passt so.
+Und dann sind Sie nicht hinterher in der Klausur, weil es wird so laufen bei der Klausur.
+Sie kommen rein, Sie zeigen Ihren Ausweis, Sie zeigen Ihre handschriftlichen Formelsammlungen.
+Wir gucken die in dem Moment nochmal durch.
+Und ich meine, das wäre eigentlich total blöd.
+Es ist bisher noch nie passiert, dass jemand abgeblitzt ist und seinen Zettel nicht mitnehmen durfte.
+Aber im Zweifelsfalle stehen Sie dann ohne den Zettel da.
+Das ist natürlich richtig blöd.
+Ja, also wirklich nochmal die Chance bitte gerne nutzen, auch wenn Sie es irgendwie technisch nicht hinkriegen im Notfall, müssten Sie dann bei einem von uns im Büro mal vorbeischauen, aber versuchen Sie es mal bitte hier in den Unterrichtsstunden, weil sonst kann man das auch nicht garantieren, dass es klappt.
+Ansonsten würde ich jetzt wieder reingehen und mit Ihnen auch noch Strömungstechnik und Wärmeübertragung wenigstens mal anschneiden.
+Wir haben ja jetzt nur so 20 Minuten, das ist natürlich gewaltig knapp.
+Alles was wir nicht schaffen, werden wir in der nächsten Stunde anschauen.
+Und bei den Verständnisaufgaben machen wir es folgendermaßen, bevor ich das jetzt hier reingehe.
+Also Verständnisaufgaben, gebe ich Ihnen mal kurz den Gedanken mit, was würden Sie denn fragen, wenn Sie Prüfer wären an Verständnisaufgaben.
+Und die Frage gebe ich Ihnen mit, die dürfen Sie gerne mal drüber nachdenken und am Freitag sehen wir uns ja wieder, dann sprechen wir mal drüber.
+Ich verspreche Ihnen, dass nur mal eine Aufgabe von dem Besten, was mir so zukommt, irgendwo in der Klausur landet, die ich so höre.
+Ja, also denken Sie sich gute Verständnisaufgaben aus, da kriegen Sie wahrscheinlich dann auch mit sehr hoher Wahrscheinlichkeit eine davon in zwei Wochen, oder in einer Woche in Ihrer Klausur.
+Ja, soweit die Idee, jetzt hier rein, Wasserrutsche Freibad, L-lange Angabe, ich kann das jetzt nicht alles durchlesen, ich habe aber hier vorbereitet so ein bisschen das Aufblättern, was kommt da raus.
+Es geht am Ende um eine klassische Moody-Diagramm-Aufgabe.
+Das erkennen Sie ja schon, wenn Sie die Angabe durchblättern.
+Also ich meine, nichts ist auffälliger als dieses Ding.
+Das heißt, was Sie machen müssen, ist in so einer Art Aufgabe,
+dass Sie als erstes sich mit dem Volumenstrom in die SI-Einheiten umrechnen,
+dass Sie dann eine Geschwindigkeit in den Rohrfluss berechnen.
+bei Geschwindigkeiten, denken Sie darüber nach,
+ist das irgendwie eine realistische Zahl oder haben Sie
+sich gerade brutal verrechnet?
+Dann lohnt es sich vielleicht nochmal reinzugucken.
+Ja, hier sind es 3,5 Meter pro Sekunde.
+It's not going to be valuable to write down the numbers
+because I take this paper anyways.
+So it's not yours.
+Okay, also, das ist irgendein Wert,
+aber der ist im Bereich von
+10, 15, 20 kmh.
+Ja, das macht irgendwie Sinn.
+Das ist nicht 2000 oder 200.000 kmh.
+Dann haben Sie irgendwas falsch gerechnet, dann sind Sie hinter der Schallgeschwindigkeit und dann macht alles gar keinen Sinn.
+Okay, dann Reynolds-Zahl berechnen, in meinem Fall kommt hier was mit 10 hoch 5 raus, ich hoffe ich habe es richtig gerechnet.
+Achtung, immer nicht die Rohrlänge, sondern den Rohrdurchmesser nehmen.
+Alle die hier im Raum sind, machen es hoffentlich richtig bei der Strömungstechnik.
+Zum hundertsten Mal, aber ganz wichtig, sonst sind wir völlig weg.
+Dann D durch K berechnen, in meinem Fall 90, sehr unglücklich gewählt in dieser Klausur, damals Aufgabe, muss ich ganz ehrlich zugeben,
+weil es gar nicht gut auf die Hilfslinien passt, wie wir gleich sehen werden.
+Dann ins Moody-Diagramm reingehen, und was machen wir im Moody-Diagramm?
+Nichts anderes als diese entsprechenden Zahlen da abrastern, ich habe sie leider zu viel berührt,
+weil der Stecker hier ist auch schon wieder nicht mehr gut.
+Also versuchen wir es ganz schnell mit dem Stift.
+10,05 ist etwa hier.
+Geht aber gerade nicht.
+Doch, okay.
+Es ist jetzt sehr geschmiert, aber es spielt jetzt auch keine große Rolle.
+Irgendwo hier rauf.
+Extrem langsam mal wieder.
+Und hier ist...
+Es kommt gar nichts mehr.
+Doch, also ich habe es jetzt sehr, sehr, sehr geschmiert.
+Etwa so und so.
+das sollte etwa bei 90 sein, das ist etwa bei 10 hoch 5, dann kommen Sie hier drüben auf irgend so was wie 0,042 oder so.
+Wer hat irgendwie sowas rausgefunden?
+2, 3, 4, 5, 20 Prozent.
+Super, das ist schon mal ein ganzes Stück wert, so läuft es ja häufig bei solchen Aufgaben.
+Was können wir dann machen, jetzt geht es ein bisschen durcheinander, bitte entschuldigen Sie.
+Wenn wir die, Entschuldigung, das muss ich vielleicht noch schreiben, wenn Sie hier den Lambda-Wert haben, lohnt es sich für allgemein gleich den Zeta-Wert des Rohrs auszurechnen.
+Weil wenn Sie von Lambda auf Zeta gehen, sparen Sie sich Zeit bei den späteren Berechnungsschritten.
+Weil dann können Sie alle Zeta-Werte summieren.
+Dann haben Sie Cetas von Rohren, also von irgendwelchen Biegestücken, von Einlaufstellen,
+Auslaufstellen, irgendwelchen Hindernissen, was auch immer für Einbauten und Sie haben ein zusätzliches
+Ceta-Funken. Dann, also diesen Ceta-Wert habe ich jetzt nicht auswendig, aber spielt wie gesagt auch
+keine Rolle, lassen Sie uns lieber auf die Methodik gucken. Dann geht es darum, einen Höhenverlust zu
+berechnen, das ist die Formel Strömungstechnik 6.2, steht genauso drin, alle Zetas zusammen
+mit Geschwindigkeitsquadrat durch 2G, kann man Zahlenwert ausrechnen, hier steht dann
+alle Zetas zusammengerechnet, einmal aufgeschlistet, das ist der Bereich, da steht es, das ist
+das, was Sie vom Rohr haben, wenn ich mich nicht irre, und dann kommen da halt irgendwelche
+Kleinteile, die da zusammengerechnet werden, Sie müssen halt bei dem Rohr hier bei Rau
+und der entsprechenden Biegung
+das Richtige raussuchen und das
+zusammen addieren
+viermal
+weil da ein paar vier Kurven drin waren
+und dann geht es um den Höhenverlust
+und beim Höhenverlust
+müssen Sie den Delta Z
+der Anlage sich anschauen
+also der Höhengewinn
+in dem Fall ist es eine Wasserrutsche
+von
+wenn ich richtig sehe
+minus 3 Meter
+auf 13 Meter.
+Ist das richtig? Nein, das ist falsch.
+Von 0 Meter
+auf
+13 Meter. Das ist der
+Höhengewinn der
+Anlage.
+Ich muss kurz überlegen,
+ob das stimmt.
+Irgendwie bin ich durcheinander.
+Sie sehen es schon.
+Ich meine, ich hatte 17
+irgendwie aufgeschrieben.
+Dann komme ich jetzt da drauf.
+13 Meter
+13 Meter muss die Pumpe überwinden
+ich habe nur das falsche in Erinnerung gehabt
+da steht es auch
+nochmal eingeblendet
+mit den Zahlen
+die Länge des Rohrs ist 37 Meter
+haben Sie vielleicht auch irgendwo
+sind Sie vorbeigekommen
+ob Sie jetzt hier genau diese Zahl haben
+weil Sie im Moody-Diagramm
+um 0,01 links oder rechts
+geschätzt haben, spielt keine Rolle
+Da bin ich als Korrektor durchaus dabei und in der Lage, mit dem, was Sie grafisch abgegeben haben, von Ihrem Moody-Diagramm, sauber zu sehen, wo sind Sie unterwegs.
+Die Lösungen sind bei mir in der Excel-Tabelle, das heißt, ich kann ohne weiteres mit Ihren Werten das prüfen und testen, ob das passt oder nicht.
+Jetzt muss ich nur kurz wieder zurückblenden auf diesen Bereich.
+Wir hatten das alles gespielt. Der Höhenverlust lässt sich dann berechnen. Wir brauchen bei dem Höhenverlust von 54 Metern oder 55 Metern eine Pumpe, die 55 Meter überwinden kann.
+Bei mir sollte der Pointer funktionieren, mal gucken, ob er es tut.
+Ah, da ist er.
+Also, 55 Meter und wir haben einen Volumensturm, wenn Sie hier unten gucken, Q von 9 Kubikmeter pro Stunde.
+Das ist diese Linie hier bei 9 Kubikmeter pro Stunde, 55, da sind Sie hier oben, da brauchen Sie in dem Falle das größte Schaufelblatt, 204.
+ich hoffe man kann es einigermaßen
+verstehen, ich sehe ein bisschen
+Stürmrunze
+ich versuche es da nochmal
+reinzukritzen
+hier und hier
+auf 55, das ist natürlich
+nicht exakt auf dieser
+geschwungenen Linie, es ist knapp
+unterhalb, aber das heißt Sie brauchen die
+nächstgrößere Pumpe, damit Sie das
+machen können, das nächstgrößere Schaufelblatt
+und dann sehen Sie, dass da
+eine Effizienz von etwa 40%
+ist, die werden Sie gleich brauchen, also Sie haben diesen 204er genommen und jetzt
+haben Sie eine Pumpeneffizienz, das steht jetzt gerade nicht drin, aber das ist nichts
+anderes als, ja, hier die 40% und dann die entsprechende Leistung, da müssen Sie die
+elektrische und die Pumpeneffizienz in den Nenner nehmen und kombinieren und Sie brauchen
+hier noch die Förderleistung. Die Förderleistung geht nach Formel, ich glaube 8.1, bin ich ganz
+sicher. Formelnummer, muss ich mal gucken. Und entsprechend können Sie dann ausrechnen,
+was die Pumpe macht. Und als letztes noch diese Teilaufgabe, soll mehr Wasser gefördert
+werden, sollen Sie jetzt seriell oder parallel schalten. Wenn Sie nochmal nachgucken, das
+Sie sehen aber auch an den Hilfswerten, die ich da so mitgebe, dass es hoffentlich für alle von Ihnen möglich ist, irgendwo auch wieder einzusteigen, wenn Sie irgendwo mal merken, da geht es jetzt nicht weiter.
+Es bleibt Ihnen überlassen, ob Sie mit Ihren eigenen Werten arbeiten, weiterarbeiten oder immer, wenn Sie Notfallwerte auf Notfall umschalten.
+Das ist völlig egal. Ich empfehle Ihnen eigentlich eher, Ihre eigenen Werte zu nehmen, aber das ist jetzt kein Sieg.
+Aber, wenn Sie Notfallwerte nehmen, kennzeichnen Sie es auch.
+Da steht hoffentlich in Zukunft bei Aufgaben, wie es hier oben richtig schön ist, HGS, Not.
+dass klar ist, dass Sie nicht, also wie Sie auf die Werte kommen, dass Sie halt jetzt plötzlich auf Notfallwert umstreben.
+Sonst ist es für mich zu korrigieren stehen.
+Wie kommt man bei der gesamten Wahrheit in der Einsamkeit?
+Also plus 1, also eigentlich ist es immer so, dass man so weiß, wie man da ist.
+Ja, das ist ja schon ein bisschen, ja, das ist wieder gerecht.
+Muss ich zugeben, weiß ich gerade nicht auswendig.
+Also die Anlage, ja, die ist da.
+Das sind vier Klickstellen, sind die ganzen Sachen.
+Das bringe ich Ihnen am Freitag mit, die Information, warum da bloß eins steht.
+Wir blättern es nochmal auf, weil ich will jetzt die wenigen Minuten, die wir haben,
+einmal auch an die WÜ-Aufgabe reinkommen, bevor ich da jetzt fünf Minuten verhedder.
+am Ende wäre es wahrscheinlich ein halber Punkt
+wenn es fehlt oder nicht fehlt
+oder ich habe mich einfach vertan, kann durchaus sein
+Sturmungstechnik soweit
+ein bisschen was mitgenommen
+was könnte so das Volumen und die Art der Aufgabe sein
+Wärmeübertrag
+Wärmeübertrag
+ist ein bisschen anders
+als in der Sturmungstechnik
+wo sehr sehr viel sich so
+naja, stückweise aufgebaut hat
+auf diesen Endgegner
+ich glaube bei dir ist es genauso, Dirk, das sind entgegnete Kreisprozesse.
+Bei der Strömungstechnik gibt es so den Klassiker, irgendeine Pumpe mit Moody-Diagramm-Geschichten,
+das ist eigentlich sehr häufig, so das Volumen, wo man lange drauf hingearbeitet hat.
+Bei der Wärmeübertragung gibt es durchaus ziemlich eher zerfallene Teilarbeitsgebiete.
+In dem Falle werden zwei Teilarbeitsgebiete zusammengefasst.
+Es geht einmal um einen Wärmeübertrager, wo heißes Öl reinkommt und kaltes Öl oder weniger heißes Öl unten rauskommt.
+200 Grad, 110 Grad und hier kommt Milch rein, 25 Grad und hier hinten kommt sie raus und wenn Sie es geregnet haben, kommen 95 Grad raus.
+Ja, 95,04 oder irgend sowas.
+Wie funktioniert das von der Idee, Entschuldigung, da kommt der zweite Aufgabenteil, da geht es um einen Abkühlungsvorgang.
+Also einmal geht Wärme als Q-Punkt da rein, mal gucken, ob das jetzt funktioniert.
+Also da könnte ich irgendwie schreiben, Q-Punkt wird übertragen, ja, von, ein bisschen blöd mein Fall,
+von dem äußeren Bereich in den inneren Bereich, nur von hier nach hier.
+Und dann hier in dem zweiten Rohrstück geht die Wärme teilweise wieder nach außen.
+So ist so groben die Idee.
+Und wenn wir uns das angucken, dann kommt die hier mit 95 Grad raus und hier hinten geht sie wieder mit 94 Grad in den Becher.
+Also das heißt, da wird fast nichts verloren bei dem zweiten Teil, weil der Volumenstrom groß genug ist und da nicht viel passiert.
+In der Rechnung ist es nicht ganz ohne, muss ich ganz ehrlich sagen, weil die Wärmeübertrager beziehen sich sehr stark als Berührungsthema zwischen Thermodynamik und Strömungstechnik.
+Wir haben es hier damit zu tun, dass wir mit Massenströmen arbeiten, okay, die kann man ausrechnen und dann am Ende geht es um diese Formel, die nicht weiter kompliziert ist, das sind zwei Massenströme, erstmal die Milch und das Öl, da nutzen Sie bitte auch schöne, gute, knappe, kurze Abkürzungen, M oder Öl oder Öl einfach nur, dann kann man es gut zuordnen, aber es geht um diese Formel.
+Der Wärmestrom, der da transportiert werden kann, ist ein Massenstrom bei der Wärmekapazität mal eine Temperaturdifferenz.
+Das ist ja keine Riesenhebserei, die Formel, aber die finden Sie so nicht wieder in Ihrer Formelsammlung.
+Sie finden in der Tau-Dynamik 2-2-1 und 3-2-1, habe ich mir gerade nachgeblättert,
+nochmal so ähnliche Formeln, die damit was zu tun haben, nämlich im stationären Fließprozess.
+Das ist ja nichts anderes.
+Aber Sie finden halt nicht genau diese Formel.
+Zumindest habe ich sie jetzt nicht auf die Schnelle gesehen, in der Formel.
+Also da vielleicht nochmal reingucken selber.
+Dann haben wir da Wärmeübertragung, die eine, was es abgibt, nimmt das andere auf.
+Und dann geht es hier darum, wie wir gerade gesagt haben, wie viel Temperatur geht jetzt als Ausgangsniveau bei der Milch.
+nachdem 48 kW
+übertragen werden,
+wenn das da von 200 Grad auf 110
+sich abkühlt,
+dann muss die gleiche
+Leistung aufgenommen werden,
+nachdem wir Adiabat perfekt isoliert haben.
+Also das
+alleine gibt Ihnen wahrscheinlich einen halben Punkt.
+Schon mal nicht schlecht aufzuschreiben.
+Das, was bei dem einen an Wärme rausgeht,
+muss bei dem anderen irgendwie reingehen, oder?
+Und dann nehmen Sie halt
+die Milch, die mit einem anderen Volumenstrom
+da durchfließt und mit einer anderen Wärmekapazität
+und die wird sich dann
+in meinem Fall, wenn ich es richtig gerechnet habe
+von 25 auf 95 Grad erhöhen
+das eine 90 Grad runter, das andere
+70 Grad rauf
+und dann gibt es die Teilaufgabe
+Entschuldigung, da kommt erst dieser
+Wärmedurchgangskoeffizient
+das ist alles total analog
+zu der Aufgabe WÜ17
+die Sie in Ihren
+Übungsaufgaben haben
+Und so ist auch die typische Erwartungshaltung.
+Also wahrscheinlich werden Sie in der Klausur sehen,
+ah ja, das ist ja recht ähnlich wie Aufgabe XY, die ich schon mal gerechnet habe, hoffentlich gerechnet habe.
+Und dann sind Sie ganz gut unterwegs.
+Natürlich nicht mit den kleinen Zahlenwerten, aber vielleicht so ein bisschen von der Basis.
+Dann können Sie da noch irgendwelche Details ausrechnen mit einer mittleren logarithmischen Temperaturdifferenz.
+Und als letztes, und da muss ich auch zugeben, ist damals wirklich ein bisschen viel abverlangt worden,
+weil die zweite Teilaufgabe auch nochmal nicht ganz ohne ist.
+Zunächst noch ein einfacherer Teil, das ist eben dieses rausgekopiert hier der zweite Rohrstück-Teil,
+bei dem Wärme nach außen verloren geht und wie skizziert man so einen Wärmeverlauf an irgendeinem Rohrquerschnitt.
+Querschnitt. Das ist was, was ziemlich häufig kommt. Dass Sie sowas skizzieren müssen und
+sich überlegen müssen, wie sieht das aus, wenn es turbulent ist, hat es etwa die Form
+und ist flacher als eine Parabel oder ist es eher eine Parabel. Das ist natürlich auch
+nicht ganz einfach zu zeichnen, deswegen lohnt es sich da was dran zu schreiben. Flacher
+als Parabel oder irgendwie so. Und hier sehen Sie diese eher logarithmisch verlaufenden
+Teilkurven. Hier ist das
+Temperaturniveau von 25 Grad
+außen, hier ist das mittlere
+Temperaturniveau von 95 Grad.
+Diese Art Darstellung
+haben wir, glaube ich, in der Wärmeübertragung
+recht detailliert kennengelernt.
+Zwei Minuten
+habe ich noch. Wenn man das Ganze
+berechnen will, ich vermute,
+das wird kaum jemand von Ihnen
+komplett durchgeackert
+haben, zumindest dann
+nicht, wenn Sie die Thermodynamik und die
+Stimmungstechnikaufgabe auch vollständig gelöst haben, dann benötigt man dieses Formelwerk.
+Das ist 1 zu 1 abgeschrieben aus der Formelsammlung und dann heißt es einsetzen.
+Dann müssen Sie die entsprechenden Wärmeübertragungskoeffizienten einsetzen und dann die Wärmeleitfähigkeit
+einsetzen diese logarithmen berechnen dann müssen sie immer mit den radien arbeiten und das ist ein
+bisschen ein längeres spiel aber wenn sie das machen dann sehen sie dass die wärmemenge wieder
+ausgetauscht wird eine vergleichsweise geringe ist nämlich 420 watt falls es jemand gerechnet
+In diesem zweiten Rohrstück, die verloren gehen. 420 Watt im Vergleich zu 42 kW, 42 Kilowatt, die in dem ersten Teil übertragen werden, ist sehr wenig.
+Und deswegen ist die Aufgabe E oder so zu dem Abschätzen und dann sagen, inwieweit die Annahme in Ordnung ist, dass die Abkühlung der Milch zwischen dieser Stelle und dieser Stelle vernachlässigt wird.
+Da sehen Sie, hier kommt 94,94 raus und vorher kam 95,05 raus.
+Die ist gerechtfertigt. Da gibt es nicht mal ein Zehntelgrad an Temperaturabfall von der Milch.
+Sie haben eine Frage?
+Bei der Notfallwerte 500 Kilowatt als Energieproduktion, das ist ein Tipp wieder mit den Kilowatt, oder?
+Ja, das ist natürlich totaler Blödsinn.
+Das sind 500 Watt, die da verloren gehen sollen.
+Sonst wäre es ja grauenhaft viel, dann wäre das total absurd.
+Danke, dass Sie es sagen.
+Das ist halt irgendwo mal in einer, ich glaube, es war mal eine Vorbereitungsaufgabe, die ich als Klausur stellen wollte,
+die dann aber nie in einer Klausur gelandet ist.
+Da haben Sie absolut recht, da ist ein Fehler drin.
+Es müsste 500 Watt sein und wir haben gerade ausgerechnet einen Wert von 200 und, ich habe es ja gezeigt, 420 Watt.
+Also ein ganz ähnlicher Wert.
+Einverstanden?
+Sie haben noch eine Frage?
+Ich habe noch eine Frage. Ist die Klausur genauso zusammengetackt oder kriegen wir da einen Bogen oder sowas?
+Unglücklicherweise ist es zwischenzeitlich, also eigentlich ist es eine Entwicklung, die ist so halt, wie sie ist.
+Wir müssen alle Klausuren über unsere Hausdruckerei drucken und unsere Hausdruckerei kann nur A4 drucken und sie wird es vermutlich genauso packen.
+Aber wir könnten ja einen Bogen quasi noch, einfach einen leeren Bogen kriegen, dann können wir die Aufgabe anschauen und auch den Bogen schreiben.
+Es ist unglaublich unangenehm für Sie, das sehe ich. Das wäre eine Überlegung, ob man Ihnen sozusagen Leerpapier zusammengetackert und nur Angaben zusammengetackert gibt, sodass Sie das so parallel blättern können dazu.
+Also wir haben eh immer Leerbögen dabei.
+Das ist sowieso.
+Die haben wir sowieso.
+Wir nehmen Tackler mit.
+Das heißt, wenn Sie die auseinandernehmen wollen und müssen und dürfen, ist das überhaupt kein Problem.
+Wir brauchen nur nachher die vollständigen Stapel, dass wir die wieder tackern und dann für uns die Unterlagen vollständig haben.
+Also das ist ein bisschen...
+Ist für uns auch ein bisschen Neuland, weil das mit dem Druckerei ist neu.
+Wir haben früher genau das gehabt, nämlich A3-Bögen, die ineinander gefaltet waren,
+die man sehr viel besser händeln konnte.
+Vor allem konnte man umblättern und auf der einen Seite die Angabe lesen und auf der anderen Seite schreiben.
+Das ist nicht schön.
+Das ist nicht schön.
+Wir werden uns darum kümmern, dass das für Sie verdaubar in der Klausur ist.
+Das ist unser Business.
+Das trennen geht auf jeden Fall. Wir haben Tucker dabei.
+Das geht immer.
+Gut.
+Dann, wenn Sie alle soweit zufrieden sind, legen Sie doch bitte alle Ihre Blätter da wieder zusammen,
+außer Ihrer Formelsammlung, aber alles, was Angabe ist von uns,
+bleiben Sie da sitzen und wir geben Ihnen Handy gegen den Bogen jeweils.
+Danke.
+Ich hätte da noch eine weitere Ansage.
+Vielen Dank für Ihren Fortschritt.
+Wir haben jetzt noch diesen einen Wiederholungstermin,
+die inklusive noch möglichkeit, die Gesichter anzuverantworten.
+Das ist dann schon in der Zwischenzeit.
+Ich gehe davon aus, dass Sie da einfach vom Kopf her haben,
+wenn ich sage, ich möchte die neuen Sachen noch hineinzugucken.
+Das ist schwierig.
+Deswegen meine Empfehlung hierfür ist, jetzt in Zeiten, wo noch nicht alles Schlag auf Schlag kommt,
+wo der Druck nicht so hoch ist, gucken Sie sich die Sachen an, gucken Sie die Sachen durch.
+Je früher Sie jetzt eine Frage formulieren, desto früher kann ich sie beantworten.
+Ich wollte Herr Hesse genau sagen.
+Je früher Sie jetzt das Forum benutzen und Fragen einfach auch an alle stellen, desto besser.
+Es hilft keinem, wenn Sie Ihre Fragen nicht vor der Stimme noch beantworten können.
+Es hilft Ihnen vielleicht. Im schlimmsten Fall verwirrt Sie es noch mehr.
+Machen Sie das früh genug vor. Das einfach noch als Hinsatz.
+Ganz konkret zu dem Termin nächste Woche.
+Ich werde explizit nichts vorbereiten.
+Ich mache ein Repetitorium und der Rest ist eine offene Fragestunde.
+Das heißt, haben Sie viele Fragen können, werden wir viel Zeit damit verbringen.
+Haben Sie keine Frage? Das ist ein ziemlich kurzer Timmy.
+Ihre Verantwortung kriegen Sie. Nutzen Sie es jetzt.
+Jetzt sind noch zwei Wochen Zeit, bis Sie die ersten fünf Minuten richtig in die Folgen gehen.
+Okay? Wiederkommen.
+Ist das die 11?
+Die 11 ist da, glaube ich.

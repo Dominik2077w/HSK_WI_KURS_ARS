@@ -1,0 +1,1457 @@
+Ich bin sehr froh, dass ich das noch ansehe genauer, aber schauen Sie selber nochmal nach, also vielleicht nochmal in den Raum.
+Gibt es jemanden, der jetzt hier sitzt, der bewusst nicht angemeldet ist?
+Nein, also ich gehe davon aus, dass die Leute, die jetzt heute da sind, sich auch final auf die Prüfung vorbereiten wollen.
+Ich glaube, sie tun auch gut daran, weil ganz ehrlich, ich kann Ihnen doch relativ viel, hoffentlich sachgültige Hinweise ja geben.
+Und im nächsten Semester haben Sie vielleicht ein bisschen mehr Herausforderungen, falls Sie noch Kommilitoninnen oder Kommilitonen haben, die darüber nachdenken, ob Sie sich doch noch dieses Semester gönnen.
+Der Herr Röppig wird es ja im Sommersemester dann alleine lehren und da ist natürlich, sag ich mal, die Betreuung vielleicht etwas herausfordernder,
+weil Sie dann nicht so direkt den Kontakt zum jeweiligen Dozenten haben und vielleicht noch ein bisschen größerer Sprung.
+von dem, was in der Stunde gemacht wird und dem, was wir prüfen.
+Also, noch mal ganz kurz für Sie, wenn Sie angemeldet sind und dabei sein wollen,
+bitte gerne noch mal prüfen, dass das alles passt bei Ihnen
+und idealerweise ein Papier mitbringen, wo draufsteht, hier, ich bin angemeldet.
+Dann können Sie sich irgendwie so eine einseitige Bestätigung generieren.
+Das schadet nichts, wenn Sie die mit haben.
+Gut, dann würde ich rein starten.
+Ich werde heute mit Ihnen drei Sachen machen.
+Es wird viele Folien sein, aber es ist auch nicht viel Neues.
+Insbesondere der erste Teil jetzt kurz etwas entspannender.
+Da geht es um die Windkraftanlagen.
+Ich bringe Ihnen das mit, weil ich will, dass Sie einfach nur kurz sehen,
+dass es in der Anwendung auch viel Bezug hat zu aktuellen Themen.
+auch Themen, mit denen ich in meiner Gruppe mich forschungsseitig ein Stück weit mit beschäftige,
+die ganze Energietechnik und nichtsdestotrotz ist klar, es ist kein Prüfungsstopp.
+Sie können also sich jetzt kurz entspannen, nichtsdestotrotz werden Sie die eine oder andere Sache kurz sehen,
+die Bezug hat zu dem, was wir da haben.
+Dann werden wir uns zu Verständnisaufgaben unterhalten, das werden wir mal sehen,
+Vermutlich machen wir das noch vor der Pause.
+Ich hatte Ihnen die Hausaufgabe mitgegeben.
+Sie dürfen jetzt auch noch mal, während ich darüber Windkraftanlagen definiere, darüber nachdenken, was könnte man denn im Verständnis fragen.
+Es geht mir jetzt spezifisch um die Fächer Lärmübertragung und Stromungstechnik.
+Ich werde dann so ein paar Leute einfach mal bitten, eine Frage zu stellen.
+Haben Sie eine parat?
+Und dann kann ich die kommentieren, ob das eine gute oder eine weniger gute Frage ist.
+Okay?
+Und dann werde ich als letztes mit Ihnen ins Repetitorium gehen.
+Im Repetitorium ist nichts anderes, als dass ich einmal noch mal ein paar Folien aufblende,
+die im Rahmen der Vorlesung schon mal da waren und da so drüber rede.
+Sie haben dazu ein zweites Foliendeckel heute.
+Das zeige ich Ihnen.
+Vielleicht, je nachdem wie die Zeit ist, können wir da eine Rechnungsaufgabe machen und da eine Rechnungsaufgabe machen.
+müssen aber nicht. Die sind ohnehin
+bei Ihnen auch die Lösung
+hinter sich.
+Okay.
+Soweit von der Idee.
+Jetzt kommt nochmal ganz kurz
+ja, Rückblick Benue, weil das
+zu diesem Thema Windkraftanlagen
+passt. Das wird aber später sowieso nochmal
+sein. Wir haben gesehen, dass man immer
+in Benue irgendwelche
+Förderglieder hat. Also irgendwo
+wird Energie gewonnen und irgendwo
+wird irgendwie Energie verloren.
+Und im Sinne von Energie verloren
+Und in so einem Benui-Spiel kann eben auch die Idee sein, dass wir nicht nur irgendwelche Reibungen haben und so weiter,
+das wird geprüft, das ist Stoff, aber es kann hier auch als Verlustglied eine Windkraftanlage stehen.
+Irgendwo bleibt vorne Luft rein, linke Seite Benui, die Luft hat viel Energie, dann kommt die Windkraftanlage,
+dahinter hat die Luft ein bisschen weniger Energie. Da ist also irgendwo ein Verlust geblieben.
+Und dieses Verlustgeblieben ist in dem Sinne für uns kein Verlust, sondern für uns als Menschheit,
+wenn wir eine Windkraftanlage nutzen, natürlich eher eine positive Nutzung.
+Wir entnehmen dem Strömungssystem der schnellen, blasenden Luft aufgrund von Druckunterschieden,
+aufgrund von dem, wie unser Klimasystem funktioniert. Wir entnehmen dieser Luft Energie,
+die wird dadurch auch wirklich langsamer, beziehungsweise die Druckverhältnisse ändern sich,
+und können dadurch aus elektrischer Energie gerät.
+Dann haben wir das Ganze mit Pumpen gespielt und so weiter, das will ich jetzt gar nicht zeigen.
+Wenn wir uns angucken, wie, so sind jetzt Windkraftanlagen eventuell ein interessanter Energieträger,
+dann sollten wir uns vor Augen halten, dass wir so 2010,
+war als Benchmark-Jahr 15 Jahre her, noch keine unglaublich große Zahl, in Deutschland gerade mal unter 20% erneuerbare Energien hatten.
+Das war fast, also im allergrößten Teil war das Wasserkraft und ein kleines bisschen Windkraft, ganz wenig Pipo.
+Wir sind jetzt mittlerweile bei 63% in Deutschland.
+Und das ist kein deutsches Phänomen, sondern das ist ein weltweites Phänomen.
+Die Preise für Photovoltaik-Module sind massiv in den Keller gegangen.
+Heutzutage können Sie so ein Doppelmodul, also diese sind die alten Module, die sind jetzt doppelt so groß,
+können Sie kaufen für 60 Euro im Baumarkt.
+Das kostet praktisch nichts.
+Und die Windkraftanlagen spielen auf einer ganz anderen Skala.
+Die sind riesengroß, aber auch dort haben Sie ähnlichen Preisverfall in diesen Zeiträumen.
+Etwa 15 Jahre zurück.
+Das führt dazu, dass die Energie nicht nur in Deutschland, sondern insbesondere auch gerade in China,
+aber auch in anderen Regionen der Welt, sehr, sehr stark weggeht von den fossilen Generationen,
+von der Erzeugung hin zu Neurbanen und da ist Wind eben eine prominente Quelle.
+In Deutschland kann man das aufschlüsseln, da gibt es Energy Charts, da können Sie sich anschauen,
+dass wir jetzt im Jahr 2026, aber aus rückblickend 25, über der Hälfte, weit über der Hälfte, mittlerweile sogar über 60% der Energie eben aus den Erneuerbaren haben.
+Und davon ist wiederum von den Erneuerbaren die Windkraft der größte Anteil.
+Also es ist wichtig und dann gibt es verschiedenste Arten von Windkraftanlagen, wer von Ihnen vielleicht so die B12 Richtung Lindau schon mal rüber gefahren ist, da sieht man irgendwo so ein Darius-Rotor, das ist so ein ganz spezielles Windkraftgerät, hat irgendjemand auf seinem Bauernhof installiert.
+Auch so kleine Windanlagen sieht man zum Teil.
+Und dann gibt es natürlich, wenn Sie rüber gucken nach Wilponsried, solche großen dreiharmigen Geräte.
+Und davon insgesamt gerade im Norden von Deutschland deutlich mehr.
+Das funktioniert so, die Propellerkaufeln drehen sich da und der Wind kommt rein und dann verwirbelt der.
+Da haben Sie ganz viel mit Turbulenz zu tun.
+Und wenn Sie jetzt später Ingenieurin oder Ingenieur in einem Unternehmen wie Enercon oder sowas werden wollen,
+wo solche Geräte gebaut werden, da müssen Sie dann richtig Kompetenz zeigen
+und sich Verständnis entwickeln für diese ganzen Turbulenz-Themen.
+Auch wenn, insbesondere stellen Sie sich vor, Sie haben hier eine Windkraftanlage
+und hier hinten die nächste, die kriegt die ganze turbulente, verwirbelte Luft an von der Hand.
+Das Ganze kann man sich anzeichnen, wie das funktioniert, von den Druckverschiebten, das werde ich jetzt nicht detailliert machen, sondern ich habe es zum Glück auch wirklich eingeblendet, ich hoffe, es ist in Ihrem Satz auch drin.
+Hier geht es rein mit Geschwindigkeit 1, hier geht es raus mit Geschwindigkeit 2, der Druck steigt an, kurz vor diesem Hindernis, dann fällt der Druck massiv ab und geht wieder zurück auf den alten Wert.
+Das heißt, am Ende sind sie Druck vorne, Druck hinten gleich, was sich aber verändert hat, ist, dass sie wirklich die Geschwindigkeit reduzieren.
+Also wenn man sich das genau anschaut, sieht man, dass vor dem Windkraftanlagen und hinter dem Windkraftanlagen nicht die gleiche Windgeschwindigkeit herrscht.
+Sie bremsen den Wind.
+Dann kann man da rechnen, und zwar sehr, sehr kompliziert und natürlich, wie gesagt, überhaupt kein Prüfungsstoff für Sie.
+Es sind einige Umformungen.
+Und was kommt hinterher raus?
+Ich glaube, es wird aufgeblendet, auch eine Formel, bei der geht es um die Fläche.
+um die Dichte, um eine Geschwindigkeit vor dem Windkraftsystem, das ist hier,
+da ist die Fläche dieses Windgenerators, Dichte ist die Dichte der Luft,
+und hier hinten kommt noch was komisches in Zahlen, irgendwas mit X,
+und dieses X kann man umformen in, wir haben es aufgeblendet hier,
+ein CP, das ist ein Leistungsbeiwerk, und der hat was zu tun mit dem Wirkungspaar.
+Und dann sehen wir diese verschiedenen Formen, die ich vorher gezeigt habe, von Windkraftanlagen,
+die da alle irgendwo schon mal gebaut wurden.
+Wer von Ihnen schon mal in Holland war, der kennt sich hier nicht so klassische Windmühlen.
+Ja, hier und dort.
+Die Dinger kennen wir sehr viel, hier alle.
+Die gibt es eigentlich eher fast nicht.
+Warum gibt es die nicht?
+Man sieht hier unten, also man sieht auf dieser Wertskala, Leistungsbarkeit,
+ein Stück was, was mit der Effizienz und der Leistungsabgabe zu tun hat.
+Und je weiter Sie da hochkommen, desto besser.
+Und Sie sehen, theoretisch könnte man hier hinkommen, in der Praxis kann man das leider nicht.
+Aber dieses hat doch den höchsten Wert von diesem CP.
+Also der dreiharmige Rotor kann am besten potenziell beste Wirkungsgrade erreichen.
+Und er hat noch einen Vorteil gegenüber diesen Geräten,
+aber auch einen Nachteil gegenüber denen, dass diese Schnelllaufzahl einen bestimmten Wert hat.
+Je höher die Schnelllaufzahl, desto schneller muss sich das Gerät drehen,
+damit Sie die entsprechende Leistung abrufen können.
+Und wenn Sie ein Gerät schnell drehen, das können Sie sich alle vorstellen, dann hat es Materialermüdung.
+Also je weiter Sie nach links gehen, desto stabiler können die Geräte sozusagen sein, langfristig.
+und vielleicht wartungsärmer und das ist halt ein guter Kompromiss mit dem
+dreiharmigen Gerät. Warum baut man keine vierarmigen Geräte? Heutzutage in großen
+Sachen, die könnte man hier irgendwo reinsenken, die bringen unglaubliche Überschwingung, weil sie
+genauso Parallelität haben zwischen den Rotterpflügen und dann fängt es an in
+Resonanz zu gehen und dann gehen die Geräte kaputt. Jetzt kann man darüber
+überrechnen, aber ich will Sie ja jetzt
+nicht konfrontieren mit großen Sachen,
+nur vielleicht zu dieser Idee,
+warum stehen denn so viele Windkraftanlagen
+im Norden und so wenig im Süden?
+Im Norden gibt es mehr Wind,
+im Norden gibt es auch
+kontinuierlicher Wind,
+aber auch höhere
+Maximalgeschwindigkeiten. Und wenn Sie diese höheren
+Maximalgeschwindigkeiten von so einem Windatlas anschauen,
+dann wirken die gar nicht so
+groß unterschiedlich. Vier Meter pro Sekunde,
+sieben Meter pro Sekunde, das ist
+ja nicht mal ein Faktor 2.
+Wenn Sie aber die
+vorher gezeigte Betzelformel
+nutzen,
+da steht U1 hoch 3,
+dann macht das massiv viel aus,
+weil 4 hoch 3 und
+7 hoch 3, muss ich jetzt kurz
+nachschauen, was es dann im
+Verhältnis zueinander ist, dass ich
+nicht irgendeinen Quatsch erzähle,
+aber
+ist,
+schmier ich da auch
+gleich mal hin, weil dann haben wir gleich den Stift aktiv.
+Das ist 5,4
+als Verhältnis.
+Also ich schreibe es nur mal ganz kurz dahin.
+4 hoch 3,
+upsala, also dann
+kann man das gleich so machen.
+Okay.
+Also die Leistung
+von dem da
+7 MOS
+zu p von 4 m pro Sekunde ist ungefähr gleich wie 7 hoch 3 durch 4 hoch 3 und das ist ungefähr
+gleich 5,4. Das heißt, Sie können, wenn Sie in einer Region sind, wo der Wind kontinuierlich
+7 m pro Sekunde blasen würde, das ist vielleicht hier in Schleswig-Holstein irgendwo der Fall,
+gegenüber einer Region, wo es nur 4 m pro Sekunde sind, irgendwo in den tiefsten Lagen
+hier unten an der Donau, können sie fünf mal so viel Strom generieren, deswegen macht es auch Sinn,
+nicht irgendwo die Windkraftanlagen hinzustellen. Nichtsdestotrotz gibt es da ganz schön, kann man
+sehen, hier auch deutlich aufgelöstere Karten von diesen Windgeschwindigkeiten und jetzt sehen Sie,
+hier ist Kempten und was ist das hier? Der rote Fleck, da ist Wilfrotsried. Aus gutem Grund hat
+man da die ganzen Windkraftanlagen hingestellt, weil da ist halt guter Wind. Das ist ja so
+eine Anhöhe, so eine Böschung, da gläst halt der Wind oben über diese Kuppe drüber
+und da verdichtet sich das und dann haben Sie hohe Windgeschwindigkeiten auf 100 Meter
+über Brunnen. Das ist jetzt nicht nur, weil da die Bürger affin sind zur Windkraft, sondern
+weil es einfach Sinn macht, Windkraft hinzuschreiben. Dann sehen Sie, die Anlagen werden immer größer,
+weil je größer die Anlage, desto größer die überstrichene Fläche.
+Sie sehen sie da so in orange markiert oder rot in den Kreisen.
+Und wenn Sie die Fläche halt vergrößern, dann haben Sie wieder in Ihrer Betzelformel natürlich mehr Ertragspotenzial.
+Dann geht es dann noch in die Details, wie Windkraftanlagen funktionieren.
+Das werde ich jetzt nicht machen, sondern stattdessen noch kurz darauf verweisen,
+dass wir ja nächste woche montag haben sie zwei teile und auch bewusst in dieser reihenfolge sie
+haben zuerst thermodynamik weil man habe ich und dann ein angebot von uns noch einen kleinen
+labor und gar er ein bisschen hinter den kulissen guckt aber durchaus auch themen ihnen mitbringt
+die im Sinne der Klausur sinnvoll und relevant sind.
+So etwas wie ein Schaufelblatt, was einen Kavitationsschaden hat, können wir Ihnen zeigen.
+Wir werden Ihnen so eine Venturi-Düse zeigen, können Ihnen die zeigen.
+Überhaupt solche Punkten, wie die wirklich live aussehen, die konnte ich nicht hier ins Zimmer bringen,
+weil die sind recht groß und dergleichen mehr.
+Und jetzt eine ehrliche Frage, weil ich habe da zwei Laboringenieure,
+die sich bereit erklärt haben, dass sie Ihnen für maximal eine Stunde von 10 Uhr bis 11 Uhr nächste Woche dieses Labor zeigen wollen.
+Wer von Ihnen hat Interesse und würde kommen?
+Okay, ja.
+Faire Antwort, komplett in Ordnung, ich würde es denen nur spiegeln, dass sie nicht sagen, oh, jetzt sind ja ganz anders viele Leute da.
+Also es sind so knappe 10 Leute und das ist komplett in Ordnung. Wäre schön, wenn Sie es machen, wenn Sie dabei bleiben. Ich glaube, es bringt Ihnen auch was. Man sieht auch den Strömungskanal, der wird angeworfen.
+In dem wird auch heute noch bis hin zur Forschung Dinge gemacht, dass man sich neue Fahrzeuge anschaut.
+Wie kann der Reibungswert reduziert werden?
+Wie kann man das Design von neuen Heckflügeln oder Frontpartien von Fahrzeugen verbessern?
+Soweit, so gut. Dann werde ich das eigentlich mehr oder weniger überspringen.
+Da gibt es noch so ein bisschen Gedanken, welche Aufgaben man in der Strömungstechnik oder in der Wärmeübertragung mal sich genauer angucken kann.
+Das können Sie aber schon vielleicht auch nochmal nutzen für Ihre eigene Vorbereitung, wenn Sie nochmal sagen,
+ja, kommt ja jetzt gleich im zweiten Teil, ich blätter da nochmal durch.
+Aber wenn Sie sagen, irgendwelche Aufgaben soll ich jetzt eigentlich nochmal rechnen,
+vielleicht sind das Aufgaben, die Sie sich angucken können.
+Ich gebe allerdings ein bisschen einen Disclaimer, die würde ich mir ehrlich gesagt nicht zu stark zu Gemüte führen,
+weil das ist ein bisschen eine Spezialität, die ist ganz gut, dass die da überdeckt ist.
+Diese zwei Aufgaben machen in der Störungstechnik sehr viel Sinn und diese entsprechenden Störungstechnik-Wärmeübertragungsaufgaben sind vielleicht auch ganz interessant, sich nochmal anzugucken.
+Dann sind wir mit diesem ersten Foliendenken auch schon durch.
+Ich hoffe, Sie konnten ein bisschen wenigstens vom Mindset mitnehmen, dass es mit den Windkraftanlagen Relevanz hat, aber eben nicht für die Prüfungsthemen relevant und notwendig ist.
+Und ich würde auf den zweiten Foliensatz springen, der Sie vermutlich noch viel mehr interessiert, an dem Sie alle mitschreiben wollen, bei der Prüfung und da wäre die Idee, dass wir uns ein bisschen nochmal angucken, was wurde gemacht und wie sieht es denn aus mit Verständnisband.
+Und dazu jetzt die Frage an Sie.
+Was würden Sie denn fragen?
+Und ich würde jetzt mal ganz spezifisch auf das Fach Rümmungstechnik gerne gucken.
+Ich habe diese Idee.
+Was könnte man denn fragen?
+Ja, das sind die verschiedenen Pumpentypen.
+Ja, verschiedene Pumpentypen.
+Denn, jetzt würde ich es vermutlich nicht so beharren, dass ich jetzt sage, nennen Sie 17 Pumpentypen,
+sondern eher würde ich vielleicht in so einem Kontext sagen, welche zwei Arten, Klassen von Typen gibt es?
+Würden Sie wissen, was Sie antworten?
+Ähm, noch nicht.
+Noch nicht. Also es gibt Strömungspumpen und Verdrängungspumpen.
+Und wie funktionieren diese Pumpen mehr oder weniger?
+Oder was gibt es in der Endschacht? Unterscheidungsmerkmal, was Sie sich merken können.
+Oder nennen Sie einen Repräsentanten der Punktyps A und einen Repräsentanten des Typs B in diese Richtung.
+Und Sie können sich vorstellen, dass wenn solche Fragen kommen,
+dass vom Bewertungsschema für jede mehrgliedrige Verständnisfrage, die wir gerade so im Pingpong entwickelt haben,
+Der Herr mit dem gelben Pullover und ich, und wir haben gesagt, okay, da kann man also ein paar Teilfragen ableiten,
+und diese Teilfragen sind klassischerweise dann ein Punkt.
+Also wenn ich da frage, welchen Punktentypen gibt es denn, dann brauchen Sie mir nicht schreiben,
+in der Theorie gibt es mehrere Punktentypen, und diese Punktentypen könnten sich unterscheiden in die Klassifikation
+der vielleicht hier relevanten
+Strömungspunkten und
+der Verdrängungspunkten.
+Da habe ich zwei halbe Punkte, die ich Ihnen geben kann.
+Der kann ich Ihnen nicht geben.
+Also verschwenden Sie nicht fünf Minuten.
+Okay? Weil ein Punkt
+eine Minute braucht.
+Okay?
+Soweit an der Stelle.
+Gute Frage. Gibt es noch jemanden, der
+ich würde
+insgesamt drei, maximal vier
+Fragen so versuchen zu nehmen. Also wenn Sie
+gefühlt haben, Ihre muss jetzt platziert werden,
+dann nennen Sie sie. Sie wollten
+sich gerade melden und blättern ganz heftig
+an Ihrem Tablet.
+Was ist Kavitation?
+Kavitation, genau.
+Dieses Kavitationsbegriff
+ist natürlich auch eine schöne
+Frage für eine
+Verständnisfrage, ganz wichtig.
+Das bezieht sich ja jetzt sogar mit
+auf diesen Laborrundgang, ja, da hat man es mal gesehen.
+Es geht darum, dass
+dass ein Schaufeldraht kaputt geht, unter bestimmten Umständen,
+wenn die Druckverhältnisse sich so stark verändern, dass ein Phasenübergang stattfindet.
+Und jetzt habe ich auch wieder so vier, fünf Schlüsselwörter mitgenannt.
+Dann gibt es aber auch noch andere.
+Was sind die Folgen von Kavitation?
+Ja, da wird das Schaufeldraht kaputt, weil diese impulsionsartige Auflösung von den Gasblasen stattfindet.
+Meine Botschaft ist richtig, Ihre Frage.
+Und die zweite Botschaft ist, Stichpunktartig machen.
+Keine Riesentexte.
+Vielleicht noch eine Idee, was könnte man noch fragen?
+Ja, genau. Da gab es eine Tabelle damals, wenn ich mich richtig entsinne.
+Da waren dann so eingezeichnet, dass die eine Stürmungsform ist mehr so parabelförmig
+und die andere ist mehr so flacher als die Parabel, sowas, oder so.
+Und dann ging es darum, dass die Strömungsgeschwindigkeit bei dem einen überall etwa gleich ist
+und bei dem anderen können Sie nur den Mittelwert angeben, weil Sie starke Variationen über die Zeit haben.
+Und ich weiß nicht, was ich da alles noch mit reingeschrieben habe, aber ja, so ist es.
+Ja, diese Tabellen, die wir da entwickelt haben, haben natürlich immer einen gewissen Charakter, der in Verständnisfragen gut passt.
+Und wenn Sie die Zeit haben und das Interesse haben, diese Sachen abzuholen und das nicht sowieso aus dem FF auswendig wissen,
+dann sind es vielleicht ganz nette Sachen, die Sie auf Ihren Notizen und Spickzettel schreiben können.
+Weil am Ende die Tabelle dürfen Sie da rein produzieren.
+Das ist komplett in Ordnung.
+Da wird Ihnen keiner was wegnehmen wollen.
+By the way, ich frage mal nach, gibt es jemanden, der sich heute seinen Notizenzettel gerne
+mal kurz anschauen lassen möchte?
+Kommen Sie gerne in der Pause kurz auf mich zu, das ist am besten, ich bin im Nachgang
+ein bisschen zeitlich enger getaktet, also ist glaube ich am schlauesten.
+Das ist wie gesagt auch kein abschließendes Ding, aber ist vielleicht besser.
+Gut, also jetzt haben wir da solche Tabellen.
+Ich glaube, jetzt haben wir mal so ein paar Fragen gesehen.
+Ich frage Sie mal, lassen Sie mich mal überlegen, was da noch was ist.
+Also, vielleicht noch der Hinweis, es ist nicht ausgeschlossen,
+dass in Verständnistragen auch eine ganz banale, einfache Rechnung mal vorkommen kann,
+oder irgendeine Formel in irgendeiner Weise produziert werden kann oder muss.
+Ich habe ein besseres Beispiel später aus der Wärmeübertragung, wo sowas relevant sein kann.
+Wir haben ja die Windkraftanlagen jetzt nicht mehr im Frischstoff, das ist klar.
+Aber trotzdem, das, was ich gerade gemacht habe, was würde, wenn Sie das Betzelgesetz in Ihrem Prüfungsstopp wählen?
+Dann wäre die Frage, was passiert bei Verdoppelung der Windgeschwindigkeit theoretisch mit der Leistung eines Windkeller?
+Also dann setzen Sie halt irgendwie die eine Zahl hoch 3 da ein und die andere Zahl hoch 3 und nehmen den Quotienten und dann finden Sie heraus,
+ah ja, da verändert es sich um den Faktor so und so.
+nachdem Sie da ein bisschen rechnen müssen
+ist das typischerweise
+im Sinne der Verständnisaufgaben
+auch vielleicht ein bisschen mehr an Punkten
+aber es ist halt in sich geschlossen
+da geht es dann nicht weiter
+und jetzt rechnen wir hier riesig
+irgendeine Windkraftanlage mit irgendeinem Detail
+soweit dazu
+wir haben übertragen
+Ideen, Fragen von Ihnen
+ja, nochmal Sie
+Also wie ist eine dicke Dissolationsschicht einer Fernleitung besser?
+Ja, das ist natürlich, genau, das war so ein Trickfragenversuch von mir, der war aber auch so ein bisschen unglücklich gestellt, glaube ich.
+Aber es ging darum, dass in einer ganz speziellen Konstellation, nämlich einem Rohr, das außen verlegt ist,
+was ausgesetzt ist der erzwungenen Konvektion, weil der Wind drumherum bläst,
+Eine Sondereigenschaft hat das, wenn das Rohr zunächst vielleicht so groß ist, inklusive einer kleinen Isolationsschicht,
+dann logischerweise die Isolationsschicht dazu dient, dass der Wärmeverlust durch diese entsprechende radiale Richtung sich verringert.
+Und wenn ich jetzt die entsprechende Isolationsschicht vergrößere, dann wird der Wärmeverlust hier erst mal kleiner.
+Logisch.
+Aber es gibt einen konkurrierenden Effekt, dass Sie bei dem größeren Rohr mehr Oberfläche hier haben, auf der die Konvektion ansetzt.
+und entsprechend hier bei Umströmung durch kalte Außenluft vielleicht wieder was wegtransportiert.
+Sie haben recht, sowas kann man fragen.
+Es ist nicht besonders freundlich von mir, aber schon wirklich.
+Zumal es ist ein bisschen verklausuliert zu stellen.
+Also ich könnte vielleicht sowas fragen.
+Aus welchem Grund steigt die Isolationswirkung einer frei an Außenluft verlegten Fernwärmeleitung nicht immer, wenn ich die Isolationsdicke erhöhe?
+Und dann wird die Antwort, Grund, freie Konvektion oder erzwungene Konvektion, aufgrund dieses blauen Pfeilchen, steigt wegen größerer Oberfläche.
+Okay, lässt sich machen.
+Es gibt noch ein paar Fragen, die sind vielleicht noch einfacher, noch prägener.
+Gibt es noch jemanden, der eine nennen möchte?
+Sie kennen alle wahrscheinlich die Klausuren von den letzten Jahren aus irgendwelchen Fachschatten.
+Irgendwie sieht man die Fenster besser.
+Ja, zu den Fenstern haben wir uns länger unterhalten.
+Das ist natürlich auch eine interessante Frage,
+weil die Fenster relativ viele von den physikalischen Effekten, Wärmeleitung und Konvektion und Wärmestrahlung,
+irgendwie dort eine Rolle spielen und man sich einzeln mit diesen Effekten, mit bestimmten Maßnahmen befassen kann.
+Und sowas ist natürlich immer gut, so eine Gegenüberstellung, aha, das ist der Große, also das kann ich machen, ich kann eine zusätzliche Glasplatte da reinbauen, okay, dreifach verglast statt zweifach verglast, dadurch kriege ich weniger Wärmeleitung, weil halt irgendwie mehr Material verbaut, oder ich würde die Außenisolation verbessern oder sowas.
+Warum ist es so? Ja, weil dann gehen die Wärmeleitungen runter, oder?
+Und so ähnlich kann man das über die anderen physikalischen Effekte auch diskutieren und konjugieren.
+Genau.
+Lassen wir es dabei, oder haben Sie noch eine letzte Springung nach der Wärmeübertragung?
+Ich warte mal ganz kurz, Sie hatten schon, vielleicht traut sich auch jemand von den anderen noch,
+möchte ganz gerne fragen, braucht vielleicht noch eine Sekunde.
+Nicht der Fall. Dann dürfen Sie auch noch mal, wenn Sie noch mal wollen.
+Ist Tropfen- oder Bildkondensation effektiver?
+Ja, genau. Darüber hatten wir auch gesprochen.
+Und dann wäre aber typischerweise, also es gibt sehr selten, glaube ich, die Frage,
+ist A oder B besser? Und Sie antworten mit A oder B.
+Dann haben Sie 50% Gewinnchance. Klar, nett, aber ist irgendwie ein bisschen langweilig.
+Typischerweise würde ich immer einen zweiten Halbsatz fragen. Und warum?
+Und da müssen Sie halt ein, zwei Gründe nennen. Oft gibt es halt mehrere Gründe oder mehrere
+Dinge. Wir sprachen vorhin über Kapitation. Was sind da die Folgen? Da gab es dann irgendwie
+fünf Folgen. Ich werde Sie jetzt wahrscheinlich nicht fragen, dass Sie alle fünf nennen. Aber
+dann nennen Sie halt ein, zwei oder irgendwie sowas. Ich glaube, es ist von der Struktur
+relativ klar, was ich da mache, oder? Ich will ja fair sein. Ich hoffe, Sie. Also Sie
+Sie nehmen sich die Zeit, Sie beschäftigen sich mit dem Fach.
+Ich habe vorhin schon gehört, dieses ist eins der für Sie eher unangenehmen Fächer.
+Das ist logisch, weil es ein bisschen was an Verständnis gibt und Rechenaufgaben gibt.
+Aber es ist mein Angebot an Sie, der Dozent, von dem ich das Fach früher mal übernommen habe,
+der hat gesagt, Verständnisaufgaben, gar nichts.
+Hier gibt es harte Rechenaufgaben, eine Aufgabe pro Fach, bumm, und damit ist es.
+Und wenn Sie den Einstieg am Anfang verpasst haben, dann sind Sie hinten raus, klar.
+Und das will ich nicht.
+Es macht ja keinen Sinn, wenn Sie sich da mit dem Thema beschäftigen,
+dann sollen Sie auch jetzt nicht in Ihrem
+BI-Studium komplett aufgehalten werden,
+nur weil Sie
+sich einmal verrechnet haben in einer Aufgabe.
+Okay?
+Also das wäre der Versuch da.
+Soweit dazu.
+Ich würde
+sagen, wir machen
+jetzt eine relativ
+kürzere Pause.
+Für mich selber wäre das auch genau gerade
+passend, ist ein bisschen früher, deutlich früher
+sogar als sonst
+aber wir haben jetzt
+9.15 Uhr, da können Sie sich in der Pause
+vielleicht auch nochmal mit den einen oder anderen Personen unterhalten
+und dann würde ich
+WÜ
+in den Block bringen, je nach
+dem Bedarf im Raum
+das können wir jetzt klären
+würde ich dann durch
+reiten
+und beide
+Sachen
+beide Fächer, WÜ und STR
+durch rennen oder wir machen sogar noch mal eine zweite pause wäre es von ihnen dafür dass wir
+jetzt gerne lange pause machen und dann aber keine zweite oder sondern jetzt zehn minuten
+machen dann einen block machen wieder zehn minuten pause und wieder ein blog zweiteres
+besser? Ja? Dann machen wir jetzt zehn Minuten Pause und treffen uns um 9.27 Uhr hier wieder.
+Und dann zeige ich Ihnen ein paar Sachen. Eine Person wollte ganz gerne mal mir die
+Formelsammlung anschauen lassen. Lassen Sie uns das jetzt gleich ganz schnell machen.
+Ich muss nämlich heute 11 Uhr in den Raum verlassen, das heißt, wir haben jetzt 9.30 Uhr.
+Ich würde jetzt mal bis 10.05 Uhr maximal mich mit Ihnen mit der Übertragung beschäftigen.
+Dann kommen wir wieder 10 Minuten Pause, dann machen wir noch ein bisschen Skirmungstätig.
+Vielleicht enden wir dann insgesamt.
+Genau. Also Sie haben hoffentlich aus dem Verständnis ganz gut mitgegriffen, was ich so gesehen habe, von dem, wo ich letztes Mal durch die Probeklausur durchgelaufen bin und jetzt gerade eben auch wieder jemand, der mir gezeigt hat, was er da auf sein Blatt geschrieben hat.
+da sind Sie glaube ich schon sehr auf dem richtigen Weg, um die Verständnis zu machen.
+Wie gesagt, aber eben Verständnis in Summe wird, und ich lage mich nicht auf den Punkt genau fest,
+aber wird etwa 30, vielleicht sogar nur 28, 27 Punkte bringen.
+Also das heißt, die drei Verständnisblöcke in Summe sind halt auch leider nur ein Drittel.
+Ich glaube, die anderen zwei Drittel sind die Rechnung.
+Wir haben uns in der Werbeübertragung so durchgehangelt durch diese Themen, wie sie da in der Gliederung stehen und das ist vielleicht auch ganz gut, die zu nutzen und so ein bisschen zu strukturieren, was haben wir denn da eigentlich voll.
+Wir haben ein paar Einleitungen gesagt, dann haben wir, um die Begriffe zu knüpfen, dann haben wir Wärmeleitung als großes Überthema, da gab es stationär und instationär, also Thema Nummer 1, A, B, dann gibt es Konvektion und da gab es wieder A und B, bezwungen oder frei.
+und dann gab es sogar noch C
+mit dem Verdampfen und Kondensieren
+wobei wir da in der Rechnung uns recht knapp gehalten haben
+weil es abartig kompliziert wird
+de facto wir haben dort keine ernstzunehmende Rechnung
+also eigentlich in der Rechneraufgabe
+können Sie ja wieder 1a, 1b, 2a, 2b bekommen
+und dann haben wir noch die Werbeübertragung genommen
+die Kategorie 3
+die ein paar Finessen aufweist mit irgendwelchen speziellen Vorschriften
+und die aber sich am Ende wieder zurückbeziehen auf diese Themenbereiche.
+Und als letztes haben wir uns noch mit Wärmeschnallen beschäftigt.
+Wenn ich eine Aufgabe eben stricken soll und muss und tue,
+dann kann ich mich also mehr oder weniger entscheiden,
+ob ich sie damit oder damit oder damit oder damit konfrontiere
+und
+als Alternative gehe ich da hinein
+aber wenn ich Wärmeübertrager mache
+hat ziemlich sicher
+noch dieses Thema ein Mitbewandtes
+also das kann man so verknüpfen
+oder man kann auch
+Wärmeübertrager und Konvektionsthemen
+verknüpfen
+in irgendeiner Weise mit irgendeiner Teilaufgabe
+und ähnlich
+kann zum Beispiel die Wärmestrahlung
+als Teilaufgabe an einem so Block
+irgendwie dran gehen
+Ja, dann heißt es halt irgendwie, ja, und jetzt sollen Sie als letzte Teilaufgabe dann noch irgendwie so in den Aspekt reingehen.
+Unwahrscheinlich, dass ich Ihnen eine Wärmestrahlungsaufgabe mit einem Umfang von 23 Punkten oder 20 Punkten gebe.
+Ich habe das persönlich nicht alles rechnet, da gibt es gar nicht so viel.
+Also Sie können sich diese Hydra-Blöcke so in etwa vorstellen, oder?
+Und die vielleicht auch gut zerschlagen.
+Dann, wir haben da eine ganze Menge Grundbegriffe gemacht, das ist logisch,
+Sie müssen diese drei Formen der Werner-Übertragung kennen.
+Ich fasse für Sie.
+Danke.
+Wenn Sie eine Frage haben, stellen Sie sie im Raum, dann haben alle was davon.
+Ich schreie nicht dagegen.
+Also, das kommt später noch, das Thema, aber vielleicht kann ich das jetzt auch fragen.
+Ja, bitte.
+Ich weiß, es ist ein Thema bei Injektionen, und da steht in Ihrer Formensammlung,
+das Beta wird ja durch 1, durch 4 und endlich.
+Genau, Sie hatten mich auch gleich gefragt vorhin in der Pause.
+Aber in einer Aufgabe, ich weiß es nicht mehr welche, wurde das durch eins durch die Mitte der Zentralen Natur gerechnet.
+Richtig.
+Und genau, der Kollege hatte mich gefragt und jetzt greifen wir es auf.
+Ja, greifen wir es an dieser Stelle auf.
+Ne, ich greife es dann auf, wenn ich es da habe.
+Und Sie sagen es nochmal, wenn ich es vergesse.
+So, dann, aber ist nicht wichtig.
+Haben wir also diese Art von Übertragungen, dann haben wir die Begriffsklärung,
+dann haben wir erstmalig uns auch damit beschäftigt
+und haben gesagt, naja, das ist irgendwie so ein Netzwerk
+da können verschiedene Effekte zusammenkommen
+und wir können solche Dinge zeichnen
+merken Sie sich das
+man kann irgendwo was zeichnen
+ja
+und da sich überlegen, wie sind denn da so
+die Temperaturverhältnisse auf einer Achse
+und irgendwelche Längenverhältnisse
+das können irgendwelche runden Geometrien
+oder gerade sein, wie auch immer
+das ist oft so
+und das macht Sinn, sich da einfach zu wissen
+wie man das zeichnet
+Wenn Sie das Gefühl haben, Sie sind kein guter Zeichner oder Zeichnerin, dann schreiben Sie da dran, ist proportional zu Logarithmus, ist in etwa linear.
+Ich bin selber so, wenn ich manchmal insbesondere hier am Tablet zeige, dann kann man es vielleicht nicht so gut erkennen, was ich da meine.
+Dann haben wir uns mit dem Werbeleitungsgesetz, Projährchen Gesetz beschäftigt.
+beschäftigt, das wäre so ein bisschen auch ein Verständnisbereich, welche Stoffe sind denn da
+wie unterwegs auf diesen logarithmischen Skalen, sehr unterschiedliche Werbeleitfähigkeit, wir haben
+darüber geredet, dass es sich warm anfühlt und es sich kalt anfühlt, obwohl es in der Wirklichkeit
+die gleiche Temperatur hat, also das heißt der Fuß, der aus Metall ist und oben die Platte, die aus
+plastik ist und warum solche gespräche dann haben wir dazu ein paar so aufgaben die sind ganz alle
+gut bedient in video lessons und so weiter und in der menschlichen folie da war ich irgendwie
+zum bügeleisen mit stromverbrauch dann haben wir daraus ein formelwerk gestrickt was bei eben in
+der formel sammelt auch drin ist wo wir uns bedienen an solchen netzwerken mit parallel
+und serielle Schaltung, Sie erinnern sich aus dem Bereich der Physik, das, ups, das geht hier nicht,
+ich muss das mal im Stift nehmen, 1 durch R parallel gleich 1 durch R1 plus 1 durch R2, ist nicht wahr,
+und dann können Sie hier diesen Rp definieren und dann haben Sie hier vielleicht noch einen R3,
+Der steht da etwas verschoben zu dem, was ich gerade mache.
+Und dann haben Sie R Gesamt ist gleich Rp plus R3.
+Ja, also jetzt mache ich gerade so kirchhoffsche Gesetze im Schnellformat.
+Sie sehen, Sie verstehen es, oder?
+Passt.
+Dann kann ich mich mit diesen verschiedenen Geometrien befassen und kann da sagen, wie sieht es aus.
+Da wird es dann im Formelwerk manchmal ein bisschen scheußlich für Logarithmus.
+Den natürlichen Logarithmus auf Ihrem Taschenrechner finden Sie hoffentlich innerhalb von einer Millisekunde,
+weil die werden Sie ja wahrscheinlich irgendwann mal benutzen.
+Dann haben Sie linearen Abfall an den Ebenenwänden, dann haben Sie Hohlzylinder, dann haben Sie Hohlkugel
+und da die entsprechende Proportionalität mit Kugeln befassen wir uns de facto in ernstzunehmenden Rechenaufgaben eigentlich kaum.
+die Zylinder und die Ebenenwände sind viel zentraler und prominenter. Dann haben wir
+irgendwas gesagt zu so einer Zusammenfassung noch mal, wo noch mal die Schichtdicke explizit
+aufgeführt wird und kombiniert wird mit, Vorgriff in dem Fall, der Konvektion. Später haben wir dann
+gelernt, wie man diese Alphas berechnet, nämlich über Nusselzahl und diese ganze Kochvorschrift,
+die ziemlich kompliziert ist.
+Also das sind ja jetzt schon Konvektionsthermen,
+aber auch die dürfen wir da einfach so schön aufeinander addieren mit dem gleichen Spielchen.
+Da gibt es dann noch diese Seiten-Story, wie man mit K-Werten,
+beziehungsweise bei Fenstern, die wir vorhin besprochen haben, mit U-Werten,
+das ist das gleiche K und U, arbeitet und das da aufeinander multipliziert.
+Das wird auch wieder benutzt bei den Wärmeübertragern mit der Formulierung.
+Aber es ist im Endeffekt immer das gleiche Spiel.
+Sie sind ein bisschen abgestimmt von Segen.
+Dann, genau, analog für Zylinder und Kugel, auch machbar.
+Da können Sie sich ja irgendwie an Ihrer eigenen Handschriftformelsammlung so mitschalten.
+Da können Sie sich solche entsprechenden Netzwerke aufbauen.
+Hier haben Sie so ein entsprechendes Netzwerk für irgendwie einen Zylinder.
+Da sehen wir diese entsprechenden Kurven, wie die sich da so aneinander fügen, wie sich das Temperaturniveau von innen nach außen verändert und entsprechend diese verschiedenen Schichten, sei es meinetwegen ein Metallrohr und eine Isolationsschicht,
+dann auf den Temperaturabfall gegenüber dem Radius Schnittbild verhält.
+Das ist ja dieses Bildchen.
+Und das Formelwerk ist natürlich nicht gemütlich und nicht angenehm,
+aber es sind die passenden Basisformen bei Ihnen in der Formel.
+Wenn Sie das Gefühl haben, da fehlt Ihnen eine,
+damit Sie da richtig schnell unterwegs sind,
+dann schreiben Sie die auf Ihre Handschrift.
+Dann haben wir dazu gerechnet, und ich hoffe, das stimmt, bitte korrigieren Sie mich, wenn Sie da noch eine Schwierigkeit haben,
+aber die sind eigentlich alle dokumentiert in so einem Video.
+Das ist mein Ausschnitt dadurch, man sieht hier irgendwas mit Schichten, in einfacher Variante mit Kesselsteinen, mit Ablagerung,
+Dann sieht man irgendwas, was ziemlich aufwendig ist mit Schichten, wäre ein bisschen fies, wenn ich Sie in diese Spezialität hineinlocke, das ist vielleicht nicht unbedingt Gegenstand des Themas.
+Hier ein klassisches, eben wieder eine klassische Aufgabe, die für ein Rohr mit mehreren Schichten so ein Abfall berechnet.
+Und hier eben aufpassen, immer mit Durchmesser und Radien.
+Das gleiche Spiel nochmal für das Kühlhaus.
+In dem Fall ist es wieder, da ist es ein Zylinder, hier sind es ebene Wände mit dem entsprechenden Effekt.
+Dann haben wir die Fernwärmeleitung. Ich glaube, dass die nicht genau dokumentiert ist bei Ihnen in
+den Videos, bin ich nicht hundertprozentig sicher. Deswegen ist die hier noch mal rauskopiert. Das
+ist nicht meine Handschrift, das ist die Handschrift des Kollegen Finkenrath. Ich will mich nicht mit
+fremden Lorbeeren schmücken. Diese Musterlösung hat er damals mit produziert und freigegeben. Aber
+ich hoffe, dass Sie damit das dann gut
+nachvollziehen, falls Sie es
+noch mal das Gefühl haben, ah, so einen Typ
+Aufgabe würde ich ganz gerne mal machen.
+Dann inflationäre Wärmeleitung
+ist ja ein anderes
+Spiel, da geht es ja jetzt, dass die
+Zeit auch noch mit reinkommt, dann ist das
+diese partielle Differenzialgleichung
+zweiter Ordnung, die
+mit einer Anfangsbedingung und zwei Randbedingungen
+unterwegs ist,
+Sie können sich vielleicht so ein bisschen
+erinnern,
+das führt dazu, dass
+dass wir zum einen im Grafischen immer ganz schnell überfordert sind
+und uns lieber Videos angucken, weil sich irgendwas über die Zeit verändert
+und diesen Temperaturthemen.
+Zum anderen führt es dazu, dass wir klassischerweise keine numerischen Lösungen
+ohne weiteres, oder keine analytischen Lösungen ohne weiteres finden und bekommen,
+weil diese Differenzeigleitungen sind kompliziert.
+und noch dazu die Notwendigkeit, dass wir vergleichsweise viele Angaben machen,
+weil wir eben diese Anfangs- und Randbedingungen mitgehen müssen.
+Es gibt dennoch dazu Wege, Nährungslösungen zu bringen
+und die sind auch Teil und Gegenstand des Prüfungsstoffs.
+Solche Nährungslösungen sind zum Beispiel das Eindringen in einen halbunendlichen Körper,
+Aber halbunendliche Körper sind immer so ein bisschen schwierig zu verdauen.
+Einfacher zu verdauen ist das Thema, wenn man zwei Körper in Kontakt bringt.
+Wir hatten damals einen heißen, wusseiserne Pfanne auf einen kalten Holztisch gestellt in einer Aufgabe
+und dann gerechnet, wo, wie, wird es wie heiß, nach welcher Zeit.
+Und dafür brauchen Sie das Formelwerk, was da unten ist.
+Die Aufgabe finden Sie, ne, halbunendlich, hier.
+BÜC, das ist die Pfanne auf dem
+Rollstuhl, das ist der Klassiker, wenn Sie
+in diese Richtung arbeiten
+müssen, da brauchen
+Sie dann diese Tabelle mit der
+Error-Funktion, die ist bei Ihnen
+in der Formel.
+Dann haben Sie
+Fourier-Bouillot-Zahl
+als zwei
+weitere
+Abstraktionsgrößen,
+einheitslose Kennzahlen,
+kennengelernt.
+Die Fourier-Zahl sagt, was
+zur Wärmespeicherung gegenüber der Wärmeleitung und die Biozahl war es zur Konvektion gegenüber
+der Wärmeleitung. Und diese zwei Werte lassen sich recht zügig berechnen mit den zwei kurzen
+Vorbilden, die da oben stehen und können dann eingesetzt werden in den Kontext dieser
+instationären Wärmeleitungsnäherungsgrafischen Lösung. Grafische Lösungen sind immer in
+in dem Sinne attraktiv, weil Sie in vergleichsweise überschaubarer Zeit Lösungen produzieren können,
+Währungslösungen.
+Und da haben wir gesehen, wie das gemacht wird vom Verfahren.
+Und das haben wir dann angewendet in zwei Aufgabentypen.
+Einmal ging es um irgendeine Platte, die irgendwie außen kalt oder heiß wird
+und dann nachgelagert zeitlich in der Mitte sich die Temperatur verändert.
+So ist es zumindest in der Aufgabe gestrickt.
+dem Bildchen sieht es ein bisschen anders aus. Und dafür braucht man also zwei von diesen Grafiken,
+nämlich die Grafiken mit der Platte, die sind beide in ihrer Formelsammlung, oder aber hier
+mit dem Zylinder, genannt hier Wiener Wurst. Es geht um diese, den Zylinder, den schmeiße ich
+in kochendes Wasser und dann wird es nach irgendeiner Zeit, weiß ich nicht mehr, 41 Grad in der Mitte
+und 78 Grad außen. Diese Typaufgaben haben wir an der Stelle kennengelernt. Dann haben wir uns
+mit Konvektionen beschäftigt. Bei der Konvektion haben wir gesagt, dass eine wichtige Kennzahl die
+Nusselzahl ist und später kommen wir noch mit Prantl und Grashoffzahl. Die Nusselzahl ist das
+Verhältnis zwischen dem, was die Wärmeleitung und was die Konvektion gegenüberstehend bringen.
+Und wenn Sie Nusselzahlen berechnen können, können Sie daraus auch gleich ziemlich einfach
+den Wärmeübergangskoeffizienten berechnen. Um das aber zu tun, brauchen Sie die richtige
+Formel und die richtige Formel finden Sie, indem Sie das Kochrezept angehen. Ich habe
+auch schon auf vielen handköpflichen Formelsammlungen genau dieses Kochrezept wiedergefunden. Nur
+legitim, nur vernünftig, weil es ihnen hilft, zu sagen, Schritt für Schritt, wie gehe ich
+da vor. Dann können wir das Ganze hier nochmal mit der Hintergrund- und Theorie bestücken.
+Es gibt auch hier Reynolds-Zahlen. In der Wärmeübertragung geht es hier um die Länge.
+In der Strömungstechnik geht es typischerweise um den Durchmesser. Stimmt nicht immer. In
+der Wärmeübertragung geht es nur dann um die Länge, wenn Sie über irgendeine Platte
+arbeiten, dann ist die Länge
+zu relevant, wenn Sie in der
+Wärmeübertragung
+irgendwas in einem Rohr haben,
+ist die charakteristische Länge
+wieder der Durchmesser.
+Sie haben eine Frage?
+Dann
+können wir daraus eine Brandwirtzahl berechnen,
+die hilft Ihnen für
+diese
+entsprechende
+Vergleich von
+dem Temperatur- und dem Geschwindigkeitsfeld. Am Ende ist es für Sie eine Rechenfolge, die
+Sie brauchen, damit Sie bewerten können, welche Formel Sie nutzen. Und welche Formel
+nutzen Sie nun? Ja, dann werden Sie halt, wenn Sie mit so einer Frage konfrontiert sind,
+zu erzwungen in der Konvektion eine Reynolds-Zahl berechnen müssen und eine Prandtl-Zahl berechnen
+müssen. Und dann können Sie bewerten, ob diese oder diese Formel bei eben einer Platte oder Rohr
+oder innen oder außen sinnvoll und relevant ist. Und das Ganze habe ich da nur nochmal hingeschmiert.
+Das haben Sie, glaube ich, jetzt in Ihrem Folienblick nicht. Ich wollte es nur nochmal, dass Sie es einfach
+nochmal gesehen haben. Also wenn Sie so eine Aufgabe mit erzwungener Konvektion haben, das steht hier
+oben im Titel, ja, das heißt, dass irgendwo ein Wind weht, ja, mit irgendeiner Geschwindigkeit, dann kann
+der Wind wehen oder die Flüssigkeit fließen über eine Platte, durch das Rohr durch oder außen um
+ein Rohr herum. Ich hoffe, man kann es jetzt ein bisschen erkennen. Ja, es geht da außen rum, um irgendeine Heizung rum, durch irgendeinen Kanal durch oder über irgendeine Platte drüber, oder? Und mit dieser Basisinformation, welche Biometrie habe ich denn nun und ich habe, bitte da unbedingt aufpassen, denke ich,
+eine Basisgeschwindigkeit
+gegeben,
+dann mir die richtige Formel rauspicken.
+Und Sie müssen aber, auch wenn Sie das Gefühl
+haben, boah, der ist bestimmt heute
+mal diese Formel,
+nicht einfach mit der Formel anfangen
+sollen. Sie müssen bei einer
+Bewertung dann schreiben, die
+Reynolds-Zahl liegt in dem richtigen
+Bereich und die Prandtl-Zahl liegt in dem
+richtigen Bereich, also nimmt sie
+an. So haben wir
+es auch kennengelernt in dem Kontext der
+Wenn Sie, das möchte ich nochmal in dem Raum sagen, jetzt rechnen und Sie sind bei der Durchstürmung eines Rohrs und Sie rechnen eine Reynolds-Zahl aus, Sie haben aber versehentlich den Durchbesser doch die Länge genommen, ist halt passiert, Pech gehabt, ja, und Sie rechnen um Faktor 10 hoch 10 mehr daraus, keine Ahnung, kommt da irgendein Quatsch raus.
+Das Ding gibt es in diesen Formen nicht.
+Sie sehen aber in den Teilaufgaben, irgendwie muss ja hier gerechnet werden.
+Da steht, die richtige Antwort ist wahrscheinlich nicht, es gibt hier keine passende Form.
+Dann schreiben Sie hin, Reynolds zahlt zu hoch, Fragezeichen, Ausrufezeichen, ich nehme diese Form.
+Oder die, oder die, egal, nehmen Sie irgendeine.
+Ich habe die alle bei mir im Excel drin, ich kann damit schon noch ein bisschen nachvollziehen,
+ob sie irgendwas sinnvolles, produktives tun.
+Okay?
+Das ist vielleicht nochmal wichtig,
+wenn man sich irgendwo verheddert,
+nicht völlig aufgeben, deswegen.
+Und einfach ganz knapp reinschreiben,
+kommentieren, weil ich kann nur das nachvollziehen,
+was ich auf dem Blatt sehe.
+Gut, dann,
+Überströmung Platte,
+dann durchs Rohr,
+da gibt es auch die entsprechenden schönen Aufgaben,
+aber ich weiß nicht, ob Sie die schönen finden,
+Aber da gibt es die Aufgabenbeispiele, die das genau belegen und genau die Schritte zeigen.
+Ich denke, das kann man gut machen.
+Dann gibt es das gleiche Spiel für die freie Konvektion.
+Und jetzt kommt die Frage.
+Ich habe es mir gemerkt.
+Die Frage war, da oben zu den Wetter, das ist nicht nur das, was da steht, sondern auch noch 1 durch t unendlich.
+Und warum hat man mal bei einer Aufgabe da irgendwie ein T-Mittlere genommen und macht das manchmal auch wieder anders?
+Am Ende ist diese Formulierung, wie es da steht und wie es auch in Ihrer Formelsammlung steht, als erste Nährung eine gute.
+Warum ist es eine relativ gute Nährung?
+Weil wenn Sie jetzt eine Cola-Dose haben, die knallkalt ist, minus 5 Grad oder sagen wir vielleicht besser mal 0 Grad kalt ist,
+Und Sie haben hier Umgebungsluft, die hat 300 Kelvin.
+Und hier haben Sie 273 Kelvin.
+Dann hat die Umgebungsluft da unten wahrscheinlich 298 Kelvin.
+Sie haben nämlich zwei Kelvin vielleicht, zwei Grad, verloren dadurch, dass die Luft hier an dem Ding vorbeistreicht.
+Sehr wenig. Sehr wenig Änderung der Temperatur.
+Deswegen ist es für mich,
+in dem, was wir hier machen,
+und in der Granularität, wie wir arbeiten,
+in Ordnung, dass Sie sagen, naja,
+also in erster Näherung ist die Temperatur hier
+oben
+und die Temperatur unten
+ungefähr gleich.
+Deswegen dürfen Sie,
+wenn Sie so eine Aufgabe kriegen,
+mit dem Ding arbeiten.
+Einfach nur, um das nicht unnötig
+nochmal aufzubohren.
+Antwort passend?
+Dann, wenn Sie also mit freier Konvektion konfrontiert sind, dann haben Sie keine Umgebungsgeschwindigkeit,
+sondern Sie müssen die Auftrittskräfte durch die Viskosenkräfte im Verhältnis setzen.
+Das ist die Grashoffzahl, die tritt an die Stelle von der Reynolds-Zahl.
+Und dann ist sonst das Vorgehen eigentlich sehr analog zu dem Kochrezept, was wir vorher angesehen haben.
+Da können Sie ebenso dann Nusselzahlen rechnen, auch die Brandl-Zahl gibt es weiterhin.
+Und da haben wir uns beschäftigt mit Platten, die in zwei unterschiedlichen Bereichen sein können,
+und aber auch mit einer Umströmung von irgendwelchen Zylindern.
+Das ist, sage ich mal, so etwas wie, wenn ich eine Heizung habe, die hier frei ist,
+Es gibt hier keine Radiatorheizung, aber wenn es hier eine Radiatorheizung wäre,
+vielleicht haben Sie eine zu Hause in Ihrem Wohnbereich und die wird nicht angeblasen,
+sondern da strahlt so die heiße Luft nach außen.
+Da gibt es noch ein paar Verständnisaufgaben, unter anderem haben wir uns dann mit dem Fenster beschäftigt,
+weil da diese ganzen Effekte dann alle eine Rolle spielen.
+Wir haben aber auch Beispiele, nämlich den Wärmeverlust am Heizungsbohr und den warmen Wassersprecher.
+Und eine Dame hatte mich kurz noch gerade eben gefragt, ob wir noch kurz in den Warmwasserspeicher reingucken können.
+Und wenn ich mich richtig entsinne, ist das auch ganz gut passend.
+Ja, ich würde es aber glaube ich trotzdem so machen, dass ich jetzt erstmal weiterspringe und dann gleich zurückkomme dahin, damit ich einfach nichts vergesse.
+Und ich wollte ja um 10.05 Uhr enden.
+Also die Aufgabe zeige ich Ihnen gleich, das blätter ich gleich nochmal auf.
+Dann gibt es Verdampfen und Kondensieren als Effekte, darüber haben wir gesprochen,
+dass die auftreten, wenn sie also von Gas zu Flüssig gehen oder wieder zurück gehen
+Und dann haben wir uns da ein paar verschiedene Charakteristika angeschaut, über die Siedelformen, wie das funktioniert.
+Hier steht es ganz gut, mit Blasensiedeln und dann solche Filmbildung, warum das vielleicht irgendwelche Schwierigkeiten hat,
+ob das besser oder schlechter funktioniert.
+Wir haben uns kurz angeguckt, aber ganz bewusst ausgegraut, hier wird nicht gerechnet,
+wieso das so kompliziert ist, wenn man Kondensationsprozesse quantitativ beschreiben will.
+Weil da ganz viele Effekte mit reinkommen, das ist halt eher im Sinne der Verständnisfrage,
+dass man sagt, ja was gibt es denn da für schwierige Effekte,
+da gibt es halt dann entsprechend einen Phasenwechsel,
+Da gibt es dann entsprechend eine Tröpfchenbildung mit Oberflächenspannung, die zu beachten ist und so weiter.
+Dann haben wir uns die Wärmeübertrager angeschaut.
+Bei den Wärmeübertragern ist besonders wichtig, dass wir so eine mittlere logarithmische Temperaturdifferenz definieren können,
+mit der wir dann in die Rechnung reingehen.
+Und wir haben zwei klassische Strömungsführungen, Gleichstrom oder Gegensprung.
+Wir müssen wissen, welche ist effizienter und warum und beim Rechnen mit dieser Formel arbeiten und exerzieren.
+Und dazu gibt es die entsprechenden Aufgaben, die das tun, zum Beispiel hier die 17, der Gegenstrom-Wärmeübertragung, der hoffe ich, das ganz gut für Sie mitbringt.
+Das ist ein bisschen mehr eigentlich zur Thermodynamik.
+Und bevor ich das jetzt vergesse, schiebe ich diesen Halbsatz ein und der ist wichtig.
+Ich mache mal schwarz, dass Sie sich da nicht verheddern.
+Der Herr Happig hat mir noch wenige Minuten vor der Vorlesung vorhin eine E-Mail geschrieben
+und hat nochmal gesagt, dass Sie sich bitte nochmal ganz kurz mit, er hat glaube ich so
+ein Zusammenstellungsblatt von allen Aufgaben, die bei ihm relevant sind, das anschauen und
+überlegen, welche dieser Aufgaben Sie für gut und relevant halten, dass er nochmal vorrechnet
+und mitbringt am nächsten Montag. Er bräuchte also die Information heute wahrscheinlich
+im Tagesverlauf, dass Sie ganz kurz ins Forum reinschreiben. Schreiben Sie die Nummer und
+schreiben Sie auch den Titel der Aufgabe, sonst kann es irgendeine Verwechslung hinterher
+noch geben. Aber wenn Sie ihm schreiben, Aufgabe Nummer 10, keine Ahnung, Kanonischer
+oder ich weiß nicht, was es ist, dann weiß er schon, glaube ich, Bescheid.
+Er ist, glaube ich, wirklich so von dem Gedanken dort unterwegs gewesen,
+dass er gesagt hat, wenn Sie keine Frage stellen, dann wird er nichts groß mitbringen.
+So in die Richtung. Also wäre sicherlich geschickt, Sie schreiben da kurz was rein.
+dann habe ich das glaube ich
+adressiert
+dann gehe ich
+durch den Gleichdruckübertrag
+und berechne
+und dann diese ganzen Aufgaben
+und ich möchte gleich nochmal kurz
+die hier aufblenden, keine Sorge, ich muss nicht viel rechnen
+weil ich habe alle Formeln für Sie dabei gehabt
+ich möchte sie nur nochmal
+reproduzieren
+weil es eine von diesen klassischen
+Aufgaben in diesem Themenbereich ist
+Noch ein letztes Gedankenspiel, wenn Sie sich mit Wärmestrahlung beschäftigen, machen wir erst die Formel, Wärmestrahlung, haben wir gesehen, ist ein Effekt, der tritt auf, auch im Vakuum, wo die anderen Effekte vielleicht eher nicht stattfinden.
+es gab mal irgendwann eine Aufgabe, eine Verständnisaufgabe, die hieß,
+da gibt es irgendwie einen Astronauten, der irgendwie eine Basis-Temperatur hat
+und jemanden, der hier unten steht, auf der Erde, der eine Basis-Temperatur hat
+und sie sollten irgendwie überlegen, wer jetzt schneller auskühlt oder so
+und dann ging die Gedanke darum, dass sie sagen,
+aha, Wärmeleitung und Konvektion gibt es da oben im Astronauten nicht,
+zumindest dann nicht, wenn er sein Raumschiff verlässt
+Und hier unten gibt es sie schon, aber die Wärmestrahlung gibt es für alle.
+So, und die Idee also hier noch dabei, Absorption, Transmission und Reflexion als drei Effekte.
+Und das Stefan-Boltzmann-Gesetz mit der Energieabstrahlung, so steht es auch in Ihrer Formelsammlung,
+das kann man zum Beispiel nutzen, um sowas zu beantworten,
+und das wäre jetzt auch eine Verständnisaufgabe zu klassifizieren,
+oder eine Teilaufgabe in der Übung, in der längeren Aufgabe,
+wo irgendwie man sagt, ja was ist denn jetzt mit einer Strahlungsleistung,
+wenn irgendein Körper sich von 200 auf 300 Grad erhöht,
+und wenn es ein Schwarzkörper ist, spätestens dann können Sie,
+ich schreibe das jetzt auf die Tafel, sagen, aha, da ist ja irgendwie Stefan Woltzmann unterwegs,
+da geht es irgendwie um Th4, nicht wahr?
+Und jetzt passen Sie aber immer bitte auf, wenn Sie sowas machen,
+dass Sie nicht in Grad Celsius arbeiten, sondern in Kelvin.
+Diese Temperatur ist in Kelvin.
+Also wenn Sie 200 Grad zu 300 Grad haben, dann haben Sie so etwas wie 4,73 hoch 4 durch,
+oder andersrum, weiß ich jetzt wahrscheinlich, 5,73 durch 4,73.
+Und ich kann Ihnen auswendig sagen, weil ich das damals gerechnet habe,
+das ist ungefähr 2,1 das Verhältnis.
+Nur mal so.
+versuchen sie es nachzuvollziehen an der Stelle. Dann gehen wir zurück für die letzten sechs
+Minuten vor einer zweiten Kurzpause in diese eine Aufgabe, die Sie mich gefragt hatten. Es ging um
+folgendes. Ein Warmwasserspalt. Der steht da, ist knapp zwei Meter hoch und hat irgendeinen Durchschnitt und eine Basis-Temperatur. Außen ist es kälter und jetzt gilt es zu sagen, wie viel Wärme verliert er denn an die Umgebung.
+Da sind die klassischen Werte gegeben, die so für die Luft gelten und so weiter, die dienen Ihnen dazu, dass Sie in dieser Aufgabe später Prantl und Reynolds 2 gut berechnen.
+Berechnen Sie den Wärmeübergangsproeffizienten und so weiter vom Zylindermangel, wenn einstelle natürliche Konvektion, da steht es, also freie Konvektion, natürliche Konvektion und freie Konvektion ist das Gleiche.
+Ja, das heißt, das ist das Streitswort, das Sie hier finden, in dem Falle, deswegen, also, als erstes hinstellen Sie um freie oder natürliche Konvektion an einer senkrechten Ebene Wand.
+Warum senkrechte Ebene Wand? Weil das steht hier, in dieser Aufgabe.
+Schreiben Sie das nochmal hin, als erstes, wenn Sie so eine Aufgabe haben.
+Dann müssen Sie mit der entsprechenden Formel arbeiten.
+Das ist die Grasshoff-Formel, die können Sie da hinschmeißen.
+Gut, das ist abgeschrieben aus der Formelsammlung, es gibt jetzt nicht viele Punkte.
+Dann gehen Sie rein, wie wir gerade gesprochen hatten, zu dieser Temperatur.
+Sie nehmen die Temperatur außen, unendlich, 23 Grad.
+Ne, 18 Grad, Entschuldigung, da steht es.
+Die 18 Grad sind aber in Kelvin zu berechnen, bitte, auch hier.
+kennen. Dann haben Sie diesen entsprechenden Beta, also diesen isobaren Ausdehnungskoeffizienten
+drin, den können Sie da einsetzen. Dann brauchen Sie das Nü. Was ist Nü? Das ist nichts anderes
+als die kinematische Viskosität, das ist die dynamische Viskosität durch die Dichte.
+Das setzen Sie ein, da kommen Sie auf den Zahlenwert. Wenn Sie sich diesen Zahlenwert
+merken, sind Sie vielleicht auch nicht ganz ungeschickt, weil der ist geluft, wenn ich
+nicht irgendwelche anderen Zahlenwerte hier oben erfinde, eigentlich immer der gleiche.
+Und dann können Sie Grashof berechnen, indem Sie die ganzen Kram da einsetzen.
+Dann können Sie Prantl berechnen und gleiches Spiel.
+Prantl besitzt sich auf einen Disprosyphäkswert, eine Dichte und eine Wärmeleitfähigkeit
+und die sind, soweit die Zahlenwerte hier oben übereinstimmen, immer die gleichen.
+Es ist für die Luft immer dieses Spiel. Es kommt immer 0,7 mal als 1 auf.
+Guter Tipp, ne? Dann, Grasshopper beim Brandbild hat dann irgendeinen Zahlenwert und Sie können mit dem Zahlenwert bewerten, ob es Laminar oder Turbulent ist.
+Jetzt weiß ich nicht, Sie hat mich, glaube ich, gefragt, kurz in der Pause, wie war das denn? Bis dahin noch klar oder erst später?
+Ja, also ihr hattet das falsche Tier im Endeffekt.
+Ah ja, das ist vielleicht dann in Grazäsios gewesen.
+Das ist ein Klassiker.
+Und dann ist man da, ich meine, das ist jetzt keine dramatische Sache.
+Es ist auch so, dass die Erwärmung so stark unterscheidet,
+dass Sie sollten hier auch die gleiche Schlussfolgerung nehmen.
+Und wenn Sie die gleiche Schlussfolgerung haben, sind Sie immer noch dabei.
+dann geht es darum
+die Nusselzahl zu berechnen
+die lässt sich mit der entsprechenden Formel
+die steht ja irgendwo in der Formelsammlung
+ich werde die Nummer jetzt nicht nochmal
+raussuchen
+dort nutzen
+dann können Sie aus Nussel
+Alpha, also die Konvektion
+berechnen und die Konvektion
+geht mit diesem Zahlenwert
+ins Rennen
+dann können Sie die
+Wärmeverlust
+entsprechend an die Umgebung
+berechnen, also es ging ja von innen
+von Ihrem Warmwasserspeicher
+nach außen an die Umgebungsluft
+und dann können Sie sehen, dass wenn Sie
+die Fläche von diesem Warmwasserspeicher
+in die äußere Zylinderwand nehmen
+und sagen, der Speicher und die Umgebungstemperatur
+die haben einen Unterschied
+von 5 Grad, Celsius oder Kelvin
+spielt hier keine Rolle
+dann können wir hier rechnen
+Und dann sehen wir, 75 Watt verliert das.
+Das ist also so, wie wenn Sie eine schöne Glühbirne brennen lassen, sozusagen.
+Aber es ist eine elektrische Leistung, sondern es ist eine thermische Leistung, die eine andere Wertigkeit besitzt.
+Und dann haben Sie hier, und das ist jetzt so ein Klassikerbeispiel, eine Möglichkeit,
+dass Sie zwischen dem einen Themengebiet und dem anderen Themengebiet hin und her nachdenken.
+Wir hatten jetzt freie Konvektion, Überschrift 2b, was ich vorhin bei der Gliederung gezeigt habe.
+Und plötzlich wechseln wir von 2B in 1A.
+1A ist nämlich Wärmeleitung im Ebenenwänden.
+Und jetzt geht es plötzlich in den Teilbereich, der so ähnlich ist wie die Aufgabe 8 oder so.
+und zwar geht hier
+berechnen Sie die Wärmeleinfähigkeit
+des Wärmedämmmaterials, falls die Dicke 80 mm
+das heißt, Sie müssen eigentlich
+das habe ich jetzt nie nochmal aufgelöst
+aber vielleicht in einer der vorigen
+Seiten
+das gleiche Spiel machen wie bei
+einer der Aufgaben
+hier
+genau dieser, wo Sie sagen
+ah ja, das ist jetzt meinetwegen
+mein Wärmespeicher
+von oben drauf geguckt, da ist die Isolation
+und Sie machen solche Spiele dabei.
+Also Sie machen irgendwie
+Wärmeleitungen mit Isolation.
+Sind Sie soweit
+zufrieden?
+Dann würde ich sagen,
+wir lassen es dabei bei dem Thema
+Wärmeübertragung. Wir machen noch einmal
+10 Minuten Pause, die verspuren.
+Es ist jetzt 10.05 Uhr fast.
+10.15 Uhr bin ich wieder da.
+Und
+dann machen wir noch ein bisschen
+Strömungstrainings in der ähnlichen Variante.
+Okay? Und dann sind Sie, glaube ich, ganz gut vorbereitet.
+Das Gleiche.
+So, anzugucken, was wir gemacht haben in der Strömungstechnik.
+Die Strömungstechnik war ein bisschen anders von der Gliederung und dem Aufbau,
+als es bei der Wärmeübertragung der Fall ist, wo wir vielleicht sozusagen so in diese groben Bereiche unterteilen
+und dann da drin jeweils immer so einen eigenen Block an Formeln haben, die für sich geschlossen sind,
+sondern wir haben eher so ein bisschen eine lineare Kette, die sich aufeinander aufbaut,
+von irgendwelchen Grundbegriffen über das ruhende, fluide Thema.
+Ja gut, also dann sind noch ein paar Themen auch einfach abgeschlossen
+man dann geht, aber den ganzen Rest wieder um alles, wo Strömungen liegen. Unterwegs ist meistens
+ein Wort. Wir haben das Ganze eigentlich auch ganz schön verknüpft, denke ich, hoffe ich, für Sie mit
+der Formelsammlung. Sie sehen hinten auch so ein bisschen an der Nummerierung. Ich glaube, Sie haben
+zwischenzeitlich die auch mit Unternummern, sicher sogar, dass klar ist, welche Formel es war. Und die
+sind eigentlich so ganz gut zugeordnet zu diesen Kapiteln. Die Formelwerke, die aber
+wie gesagt für Rechenaufgaben oft aufeinander aufbauen, das heißt, dass man oft sich da
+so schon mit dem kompletten Formelwerk befassen muss. Wir haben in den Grundbegriffen ja ein
+bisschen was gehört zu verschiedenen Phasen, also in deutsch Gasbäumig, Flüssig und Fest,
+wo sind da die Gleichheiten und Unterschiede von Flüssigkeiten und Gasen, das ist ein
+besonders wichtiger Basisgedanke, weil wir ja in der Strömungstechnik die Festbäume
+nicht betrachten, aber eben genau die anderen zwei und wir das so gemütlich tun, dass
+dass wir mal irgendwelche Gase irgendwo durchschicken oder meistens Flüssigkeiten.
+Und dabei müssen wir uns aber schon im Hinterkopf klar sein,
+dass da auch Unterschiede herrschen und dass es da gewisse Einschränkungen gibt.
+Da erinnern Sie sich vielleicht überhaupt zu der Tabelle.
+Dann haben wir, also fürs Verstehen ist sinnvoll und wichtig,
+dann haben wir uns mit den ruhenden Fluiden beschäftigt und das ging entweder ins Wasser runter,
+dass irgendwo in irgendeiner Tiefe ein Druck herrscht, bis hin zu hydrodynamisches Paradoxon,
+wo wir gesagt haben, wo drei unterschiedliche Behälter unterschiedliche oder gleiche Drücke am Boden
+und dann entsprechende Kraftwirkung auf die Bodenflächen.
+Das geht aber auch hin zu irgendeinem Druck, der an irgendeiner Tiefe herrscht,
+auf irgendwelche Geometrieformen und dieser hydrostatische Druck beschäftigt uns auch
+später immer wieder, wenn wir Aufgaben rennen, wie zum Beispiel ein Pumpenspeicher.
+Wir haben dann Aufgaben in die Luft hinein, die barometrische Höhenformel, wo wir eben
+Wir müssen aufpassen, dass bestimmte Annahmen unter bestimmten Voraussetzungen sinnvoll und gegeben sind und dass wir je nachdem, welche Modellqualität und Güte wir haben, dann doch sehr weit unterschiedliche Ergebnisse kriegen, bis hin zu komplett falschen Ergebnissen mit negativen Drücken und so weiter.
+also das hatten wir gespielt, dazu ebenso wichtig, das im Verständnis zu haben
+und aber auch meine Aufgabe entsprechend einschlugeln zu können,
+mit welchen von diesen Formelwerken sind Sie unterwegs.
+Bei den meisten Aufgaben, die im Bereich der späteren Hydrodynamik sind,
+sind Sie komplett gefeilt und gut unterwegs.
+wenn Sie Drücke zum Teil sogar konstant lassen, da die entsprechenden Druckänderungen an der
+Umgebungsluft eine sehr geringe Rolle spielen gegenüber dem, was in Flüssigkeiten und Drücken
+entsteht. Faktor 1000 zwischen den beiden Dichten. Hier steht es nochmal mit der entsprechenden
+Betrügerung. Da kam noch die Viskosität als Basisbegriff und alles, was dahintersteht. Die
+Die drei Phasen, ein Phasendiagramm, das kennen Sie ja alles auch ganz gut aus der Thermodynamik,
+die Eigenschaften von flüssigen und gasförmigen Fluiden eben als Überbegriff,
+das sind ja die beiden, die sollten Sie kennen.
+Dann geht es hier nicht mehr weiter.
+Weiß ich nicht warum.
+Schreibt mein Rechner, insgesamt gerade eine Pause zu brauchen.
+Ah ja, ich glaube, ich weiß schon, woran es liegt.
+Auf der nächsten Folie ist unglücklicherweise wahrscheinlich ein Video mit verlinkt, was gar nicht nötig wäre.
+Ich schreibe jetzt hier nochmal, er soll warten, aber ich könnte mir vorstellen, dass mein Rechner jetzt gar nicht mehr möchte.
+Ich scheine leider der Fall zu sein. Ich werde der Powerpoint kurz neu starten müssen.
+Ich gehe dann gleich da weiter. Auf der nächsten Folie geht es um Viskosität, dynamische Viskosität und kinematische Viskosität.
+Die beschäftigt uns auch an anderen Stellen. Wir hatten gerade in der Wärmeübertragung die beiden entsprechenden Größen gesehen und gehört.
+Da gilt es einfach immer mit der Viskosität zu arbeiten, die für Sie am praktischsten ist,
+die im Formelwerk gerade passt. Die können Sie ganz schnell miteinander umrechnen durch die
+Teilen durch die Dichte. This might take several minutes, sagt er mir hier. Sieht aber so aus,
+als wäre es eher in unter einer Minute zu schaffen. Mein PowerPoint baut gerade neu auf. Mal gucken,
+was passiert, dann versuchen an die Stelle wieder hin zu navigieren, da kommt was,
+ich werde ganz bewusst die nächste Folie überspringen
+nicht, dass wir da nochmal in den Hänger kommen
+hoffentlich zumindest nicht nochmal
+und gehe dann hier weiter
+da ist glaube ich sonst nicht viel drauf
+auf dieser Viskositätsfolie
+hoffe ich
+die Hydrostatik, da kann man mit oder ohne Volumenkräfte arbeiten.
+Solche Spielereien sind möglich für Verständnisaufgaben,
+aber sind sicherlich nicht sinnvoll als die große, umfassende Aufgabe in der Strömungstechnik.
+Auch hier würde ich behaupten wollen, dass es noch stärker darum geht,
+wenn man mit Volumenkräften arbeitet, dass man einfach weiß, in welchen Anwendungen finden die statt
+und wie sind jetzt vielleicht so im Verständnis, wie funktioniert eine Schlauchwaage,
+welche Einschränkungen gibt es da, die Flüssigkeit in verschiedenen Behältern vom Bad befolgen,
+schon mit dem Druck auf die Bodenfläche und so.
+Dann haben wir das ganze Schweben und Schwimmen Thema.
+Hier habe ich extra nochmal mit dem Stift reingekritzelt, zugegebenerweise,
+dass die Auftriebskraft hat was zu tun mit der Dichte der verdrängten Flüssigkeit
+und nicht mit dem Körper und der Gewichtskraft und dem Volumen,
+wohingegen die Gewichtskraft mit der Dichte des Körpers zu tun hat.
+Und dann kann man was sagen über das Verhältnis zwischen Auftrieb und Gewichtskraft
+und je nachdem, ob die gleich oder größer oder kleiner sind,
+Und diese Dichte, Werte, geht dann der Körper entweder nach oben oder nach unten oder bleibt in der Schwebe.
+Das waren auch Themen, die wir im Verständnis haben.
+Der Archimedes-Test war diese Geschichte mit der Krone, mit irgendwelcher Beisetzung von verschiedenen Metallen, Gold und Silber.
+Da ging es darum, dass wenn die Dichte unterschiedlich ist, kann man sich zweimal wiegen, einmal an Luft und einmal in Flüssigkeit, einem zu einem.
+und eine Legierung entsprechend dann quantifiziert.
+Wir haben die Aerostatik gerade eben schon gesehen, hier ist es noch mal drin,
+jetzt bin ich ein bisschen erstaunt, aber ich hatte die vorhin eigentlich noch mal versucht zu erneuern,
+spielt keine große Rolle, das ist hier ein Tafelbild, Sie haben das im Digitalen.
+Da geht es irgendwie darum, wie der Druck sich verändert, nach oben und nach unten.
+und die entsprechenden parametrische Höhenformen.
+Die Anwendung dazu kommt im Panal Observatory auf,
+ich glaube, ich muss gleich nochmal mitverwenden.
+Ich bin aber nicht ganz sicher, es scheint ein bisschen durcheinander zu gehen,
+ich habe meinen Folien-Satz nochmal versucht anzupassen, macht nichts.
+Es geht hier dann, wenn wir im nächsten Teil gehen, in die Fluidmechanik rein,
+Wir haben den Benui und die Kontinuitätsgleichung, die beide gleichermaßen wichtig sind.
+Also ein Volumenstrom, der durch irgendein geschlossenes System geht,
+der ist nichts anderes als die Geschwindigkeit bei der Fläche.
+Und die Volumenströme bleiben gleich, weil wir normalerweise keine Quellen und Senken haben.
+Das heißt, wenn wir irgendwas reinstecken ins Bohr, muss es hinten ja auch irgendwie wieder rauskommen.
+Und entsprechend haben Sie also diese Produkte, die immer gleich bleiben.
+Und dadurch kann man einige, mit vergleichsweise überschaubar vielen Angaben, schon bereits viele Größen sich ermitteln und in die Rechnung einsteigen.
+Und dann haben wir die Bernoulli-Gleichung kennengelernt in der Tiefe mit all ihren Eigenschaften, im Verständnis mit den Eigenschaften.
+Was passiert, wenn Sie ein Rohr von breit nach schmal machen? Was passiert, wenn Sie ein Rohr von schmal nach breit machen?
+Was geht dort mit den verschiedenen Anteilen?
+Ich finde persönlich diese Grafik recht intuitiv, wo Sie sagen, es gibt einen Bereich potenzielle Energie,
+kinetische Energie und diese eben vielleicht weniger geläufige Druckenergie,
+aber irgendwo in Summe müssen die Energieformen ja erhalten sein
+und so wandeln Sie die dann immer ineinander um.
+Sie haben die drei Formulierungen der Benoni-Gleichung, die gleichermaßen gängen.
+Sie können nehmen, welche Sie wollen, wenn Sie so eine Aufgabe haben,
+aber manchmal sind Sie ein bisschen schneller, wenn Sie mit der richtigen starten,
+dann sparen Sie sich etwas Umfang.
+Dann, ja, die sind auch in Ihrer Formelsammlung drin, diese Kontinuitätsgleichung.
+Und dann die Benoni-Gleichungen, haben wir damit rechnen können,
+später erst haben wir dann die erweiterte
+Benulligleichung gemacht
+Rechnen heißt
+mit der normalen Benulligleichung
+dass Sie rechnen können
+Torricelli-artige Aufgaben
+wie schnell fließt irgendwas raus aus dem Bewälter
+der nur getrieben ist von dem hydrostatischen Druck
+also hier eine Wassersäule drauf
+der entsprechende Druckunterschied
+der sich daraus ergibt
+und die Ausflussgeschwindigkeit
+die dann
+was zu tun hat mit der Höhe
+und der Gewichtskraft
+Dann haben wir sowas gemacht, wie dieses Einspritzbohrer, das ist noch ein bisschen eine Finesse, dass Sie sagen, der Umgebungsdruck und der Überdruck lassen sich zum Teil auch ein bisschen beschleunigt rechnen, falls Sie Umgebungsdrücke vielleicht rauskürzen können und wie Sie dann noch mit Kontinuitätsteilung in Verbindung dort irgendwelche Geschwindigkeiten oder irgendwelche Drücklevel berechnen.
+Pitot-Rohr, Brandl-Rohr und Venturi-Rohr sind im Bereich des Verständnisses auf jeden Fall wichtig zu verstehen und zu erklären, zu sagen, welche von diesen Fachbegriffen, was versteckt dahinter.
+die sind alle irgendwo wichtige Messgeräte, um einmal erst mal Drücke zu ermitteln
+und über die Druckmessung dann Geschwindigkeiten zu errechnen.
+Und da haben wir dann einen Vergleich gemacht zwischen dem Prantl- und dem Venturi-Rohr
+und dieses genutzt, also ein Leichtflugzeug in einer Aufgabe, um zu ermitteln,
+welche Rohrquerschnittsverengung brauche ich, um das gleiche zu erhalten und so weiter.
+Da können Sie also nochmal nachsehen, wie diese Geräte funktionieren.
+Und wer nächste Woche bei der Führung mit dabei ist, der wird diese Geräte auch nochmal live und in Action in gewisser Weise, denke ich, sehen können.
+Zumindest gehe ich fest davon aus, dass es die Kollegen wieder aufbauen können, dass wir da sehen, wie der Druck sich einfach verringert in der Endstelle.
+Dann haben wir dazu, glaube ich, die passenden Aufgaben, die im Video oder Vorlesung gemacht wurden.
+Dann haben wir was zu Schweben und Schwimmen.
+Hier eine ganz griffige Aufgabe, die dann vielleicht auch eher im Bereich des Verständnisses irgendwie mit sich treffen könnte.
+Sie haben das Container-Schiff, sehr aufwendig, mit Sternchengegrenzen, ich würde sagen eher ein Level über dem drüber, was wir so klassisch tragen.
+Sie haben die Steighöhe des Ballons, die ist in den nächsten zwei Folien nochmal gezeigt.
+Vielleicht versuche ich sie so ganz knapp abzuholen.
+Und ich weiß nämlich nicht, ob sie vollständig in einem der Videos mit drin ist.
+Das ist ein Miniken mit dem grünen Pullover.
+Das war, ja, ich hatte sie über die Hände.
+Nein, Sie meinten das nicht.
+Ich dachte, Sie hätten sich darauf bezogen, dass das da schon drin ist.
+Dann gibt es die Nummer 10, auch aerostatisch.
+Also, gehen wir ganz kurz zu dem Ballon.
+die Idee, die da dahinter steckt
+an der Aufgabe war und ist
+so wie es
+an der Stelle ja
+Stopp ist, Auftrittskräfte
+und Gewichtskräfte
+sich anzugucken und es geht darum, dass der
+Ballon irgendwo auf irgendeiner Höhe bleibt
+wie hoch steigt er
+und bleibt dann
+bis zum Schwebezustand
+Schwebezustand heißt nichts anderes als, dass die Kräfte
+im Gleichgewicht sind
+Und wenn die Kräfte im Gleichgewicht sind, dann heißt das nichts anderes, als dass die Dichte und der Schiede gerade das kompensieren, was die Gewichts dieses entsprechenden Ballons ist.
+Und warum kann das überhaupt kompensiert werden?
+Weil da oben eben der Druck niedriger ist als da unten, sonst würde der Ballon immer weiter aufsteigen.
+Aber dadurch, dass der Druck da oben durch die umgebende Luft immer kleiner wird,
+Aerostatik, wird der Ballon irgendwann aufhören zu steigen, weil die Auftriebskraft dann nicht mehr so stark ist.
+Die Gewichtskraft hingegen bleibt nahezu unverändert, weil die Erdanziehungskraft ein paar hundert Meter in der Höhe ist immer noch nahezu die gleiche.
+Und das ist die entsprechende Rechnung dazu, bei Schweben sind die Dichten gleichzusetzen, bei idealem Gas haben Sie die ideale Gasgleichung, das ist jetzt wieder Thermodynamik, aber PVMRST sollten Sie dann wirklich hoffentlich drin haben.
+Sie können es umformen bzw. ich glaube die Formel ist so oder so ähnlich auch in der Formelsammlung hier in der Strömungslänge mit hinterlegt, der Druck ist nichts anderes als die Dichte bei der Gaskonstante bei der Temperatur.
+Das gilt sowohl am Boden als auch oben in der Luft.
+Das heißt, eine Folie zurück, hier und hier.
+Und dann können Sie diesen Druckunterschied nochmal mitnehmen.
+Das ist irgendwo genau, da ist das 1000 als Druck.
+Und dann können Sie über das, dass Sie die Ballonrichte berechnen,
+können Sie sehen, da soll gerade der halbe Druck herrschen.
+Und dann können Sie bei der isothermen Luftschichtung das auswählen.
+Das ist die Formel, die Sie in der Formelsammlung haben, S2.6.
+Und dann müssen Sie da entsprechend mit die Logarithmiere ziehen.
+Und dann kriegen Sie hier hoch, dass der 5.744 Meter hochsteigt.
+Ich hoffe, Sie können es nachvollziehen.
+Ich denke, eine Aufgabe, die da schon relativ stark ins Detail geht,
+aber durchaus eine Möglichkeit ist.
+Dann haben wir ein anderes
+Panal-Observatory, da werde ich jetzt nicht noch mal ins Detail gehen,
+aber auch hier geht es um
+Druck an verschiedenen Höhen.
+Dann sind wir
+reingegangen in die
+erweiterte Benoist-Gleichung,
+das heißt, jetzt spielen
+neu auch Reimungsverluste
+eine Rolle und später
+auch noch die Pumpen als
+Arbeitsglieder, die
+Reimungsverluste
+bedeutet, dass wir uns
+wieder unterhalten müssen
+über laminare oder turbulente Strömung
+über die Reynolds-Zahl, die wir dann da ganz
+intensiv
+uns angeguckt haben
+in diesen zwei verschiedenen Strömungsformen
+am Anfang in der Verständnis kam schon
+ja, was macht jetzt diese Strömungsform
+aus
+Tabelle, wichtig
+das zu wissen
+und dann, wenn wir das nutzen und damit rechnen wollen
+dann gibt es zwei Arten zu rechnen
+Und es gibt einmal das Moody-Diagramm, wenn Sie in dem Bereich sind der Turbulenz.
+Wenn Sie allerdings laminar sind, dann gibt es ein Formelwerk anstatt des Moody-Diagramms.
+Sie merken schon, wenn Sie in so einem Bereich hier vorne sind, unter 2300,
+dann bitte nicht hier irgendwas aus dem Moody-Diagramm kratzen, sondern bitte die laminare Formel verwenden.
+Sie können dann Druckverluste berechnen, indem Sie dieses Formelwerk benutzen
+Oder, und das habe ich Ihnen mehrfach empfohlen und schon gesagt, schlauer ist es fast noch, Sie rechnen, wenn Sie da was tun,
+hier, Entschuldigung, jetzt ist die Stiftfunktion komplett deaktiviert, kann ich jetzt gar nicht mehr benutzen, schade.
+Ich weiß nicht weshalb, wahrscheinlich steht wieder ein Systemneustart an.
+hier können Sie auch einen Zeta-Wert
+daraus generieren,
+ein Zeta-Rohr,
+und dann haben Sie einfach die ganzen Zeta-Werte
+als Druckverlust.
+Den Lambda-Wert bringen Sie direkt
+aus dem Modi-Diagramm raus,
+das kennen Sie, glaube ich, jetzt zwischenzeitlich gut genug.
+Hier diese erweiterte Grafik,
+die nochmal zeigt,
+wie die Energiemengen
+sich verhalten, das heißt,
+dass dort in dem gestrichelten
+hier aufgrund der Reibung
+bestimmte Verluste auftreten,
+die wir aber auch quantifizieren können.
+Und dann haben Sie in dem Fall eine Stutzenarbeit,
+das heißt, hier kommt eine Pumpel mit rein,
+die wirklich Energie
+aus dem elektrischen System abzieht
+und in dieses mechanische System
+reinbringt. Deswegen also hier
+nur gezeigt, mechanische Energieform
+wirklich ein
+Zugewinn an Energie stattfindet.
+Das Ganze äußert sich
+darin, hier hätte ich jetzt auch noch mal
+mit dem Stift noch mal gemalt,
+grün zu kennzeichnen
+meiner Sicht
+zu gewinnen
+wir haben eine Förderhöhe
+von einer Anlage, von einer Pumpe
+wir haben irgendeinen Druckgewinn
+macht man meistens nicht
+oder eine Stützenarbeit
+von einer Pumpe
+linke Seite oder rechte Seite
+Energieverluste, Höhenverluste oder Druckverluste
+meistens mit Druckverlust
+und die kann man über
+die ganze Darcy-Weisbach-Geschichte
+qualifizieren. Das war jetzt Darcy Weisbach, das ist nichts anders als diese Thematik, die hier drinsteckt.
+So, dann haben Sie das Formelwerk auch in Ihrem entsprechenden Formelsammler und hier vielleicht
+nochmal ganz schön diese Zusammenstellung, wie der Druckverlust aufgebaut ist durch diese ganzen
+Bausteine, dieses
+Lambda kommt aus dem
+Moodle-Diagramm, steht hier,
+oder müsste man richtig ergänzen,
+aus Formel,
+bei laminaler Strömung,
+und dann Länge, Durchmesser
+und Zeta-Werte
+und so weiter können Sie alles holen.
+Hier steht V, bei uns ist es U,
+die Geschwindigkeit und die Dichte.
+Hier steht auch nochmal ganz schön mit drin,
+diese Umformung, die Sie
+für Volumenströme, Massenströme
+oder Geschwindigkeiten entsprechend bekommen.
+Das brauchen sie ständig, wenn sie so zahlen.
+Dazu gibt es zahlreiche Aufgaben.
+Ja, Torricelli mit Kontraktion passt da noch nicht so ganz dazu.
+Dann geht es aber rein in die Benoia-Aufgaben.
+Da ist diese Lüftungsrohr-Aufgabe,
+die vorhin schon mal als möglicher Gedanke kam,
+die ist ja auch im Video
+geschrieben
+15 und 16
+Benui mit Reibung und Pumpe
+muss ich vielleicht selber nachschauen
+das sind die Pumpspeicher
+die Nummer 16 habe ich nochmal
+am Schluss dabei
+bin ich ganz sicher, ob ich sie mit Ihnen
+durchgenommen habe
+im letzten Jahr hatte ich das
+in diesem Jahr habe ich sie glaube ich
+nicht getan, da können wir gleich nochmal drauf gucken
+und Sie sagen mir dann, ob Sie die Aufgabe
+können kennen oder noch nicht so. Dann Ohrreibung und Druckverluste haben wir in der Vorlesung behandelt, soweit ich das weiß. Erweiterte Benulli mit Ohrreibung, hier steht sie hier, Folgeseite, das ist nicht ganz richtig, die haben wir gemacht, letzte Woche oder vorletzte Woche.
+Die STR20 ist, ich glaube, diese Wasserabzapfleitung, die so ein bisschen zicki-zacki nach oben und nach unten geht.
+Und da entsprechend ganz herausfordernd die Themenbereiche Moody-Diagramm oder beziehungsweise,
+ich glaube, ich kenne nicht wahr, aber Druckverluste und auf jeden Fall eine Benoni-Gleichung kombiniert.
+Pumpe und Reibung
+in erweiterten Benulligleitungen
+STR21.
+Das ist diese
+Industrie-Wasser-Zapfanlage
+mit Nachlaufvorrichtung
+mit so ein bisschen
+Geometriefaktoren.
+Das ist auch
+intensiv beeindruckend.
+Wir sehen jetzt hier nochmal
+die Aufgabentypen zu
+den Pumpspeichern.
+Bei der STR15
+bin ich ziemlich sicher,
+dass ich die mit Ihnen ausführlich behandelt habe.
+Das ist korrekt, ne?
+Genau.
+Also da eben die Idee,
+ja, bei allen Pummsprecheraufgaben Niveaus sich überlegen,
+überlegen, was sind Referenz- und Bezugspunkte.
+Je nach Fragestellung geht es entweder vom einen Becken zum anderen Becken
+oder von einem Becken bis zur Pumpe,
+entweder davor oder dahinter.
+und dann Kontinuitätsgleichung nutzen, falls irgendwie die Durchmesser unterschiedlich sind von solchen Rohren
+und dann Geschwindigkeiten herausrechnen, dann Druckverluste über Zeta-Werte,
+die werden zum Teil direkt gegeben oder aber es ist eine Aufgabe, wo das im Raum steht
+und Sie müssen die Zeta-Werte berechnen, dann haben Sie irgendwelche Knicke, Biegungen, Einbauten
+bauten, plus das reibungsbeachtete Rohr, mit einer Rohrrausigkeit und so weiter.
+Dann haben Sie den Druckverlust, über den Druckverlust können Sie die Stutzenarbeit
+berechnen, also die notwendige Stutzenarbeit berechnen, um dies zu kompensieren und dann
+die Förderhöhe von der Pumpe.
+Dann ging es potenziell noch weiter, in dem Fall ist es so, dass Sie mit der Pumpe auch
+noch alle Spielereien machen müssen.
+Hier elektrische Verluste, mechanische Verluste und dann entsprechend die Leistung von der Pumpe oder von dem Generator zu rechnen.
+Wir können da auch nochmal dann irgendwelche anderen Wege definieren, wie es da in der Aufgabe geht.
+ist. Das gleiche Spiel
+haben wir, glaube ich, dann auch in dieser
+STRS 16, das schauen wir uns ganz am Schluss
+noch an, wenn die Zeit noch reicht und wir noch
+Interesse haben.
+Ich werde versuchen,
+kurz nach 11 wirklich zu schließen.
+Ich habe direkt im Anschluss noch mal
+eine weitere
+Veranstaltung jetzt
+zu den Punkten.
+Wie funktioniert es?
+Wir haben genau gesagt, das war am Anfang
+von Ihnen auch aus dem Verständnis,
+Verdrängungs- und Stimmungspunkten
+Das sollten Sie wissen, wobei wenn es in die Rechnung später geht, machen wir nur noch Sturmungspunkte.
+Wir machen keine Verdrängungspunktenrechnung.
+Aus gutem Grund, weil die Arbeitspunktverschiebungen sonst sehr kompliziert sind und Sie dann eigentlich sehr schnell die Pumpe aus Ihrem Arbeitspunkt raus in einen instabilen Punkt setzen.
+Dann haben wir über Kavitation kurz geredet, als Fachbegriff, da sollten Sie wissen, was es ist.
+Und wenn Sie aber rechnen sollen mit einer Pumpe, dann macht es Sinn, diesem Kochrezept wieder zu folgen.
+Hier ist das Kochrezept, sowohl für Rechnung sinnvoll, als auch damals für die Herleitung meiner ganzen entsprechenden Inhalte von der Vorlesung.
+Wir gucken uns die Anlage an und gucken, welche Verluste treten denn auf, weil hier Rohre
+sind zwischen hier und da und das ist die geometrische Höhe, die ich überwinden muss.
+Dann aber gucke ich mir typischerweise an, welche Pumpe brauche ich oder ich kriege sie
+gegeben in der Angabe, welche Pumpen könnte ich benutzen.
+Und damit ich dann die richtige Größe oder die richtige Sortenpumpe für meine Anlage finde,
+muss ich die Verluste im Rohrsystem mit einbeziehen und auf die Förderhöhe draufschlagen.
+In dem Fall der Aufgabe hier war es so, dass wenn ich mich richtig entsinne,
+wir 300 Meter Höhenunterschied zu überwinden haben, aufgrund irgendwelcher Geschichten.
+da ist eine Pumpe, und dann kommt aber hier gerade mal 1,5 Meter zusätzliche Höhe,
+in dem Fall ist sehr wenig, raus, aufgrund der Verluste, die im hohen Netzwerk stattfinden.
+Und diese gesamten 301,5 Meter müssen Sie mit der Pumpe überwinden.
+Das ist im Endeffekt nichts anderes als das.
+Dann gehen Sie die Pumpenkernlinie gegen die Förderhöhe und beim entsprechenden Volumenstrom
+rein. Dazu gibt es auch entsprechende Diagramme, sehen wir gleich glaube ich noch mal. Und dann
+kriegen Sie den Betriebspunkt raus, dass Sie sagen, ah ja, da soll das Ding jetzt fahren.
+Dann gibt es noch diese Optimierungsfragestellungen. Schauen Sie sich unbedingt auch mal mit an. Was
+passiert, wenn ich parallel oder seriell schalte? Was kann ich da noch erreichen? Das ist oft so
+in der Teilfrage nochmal
+im Gegenstand zu sagen, ja,
+wie könnte ich jetzt mehr
+Flüssigkeit pumpen oder wie könnte ich
+größere Höhen überwinden?
+Und dann das Kapitalzimester.
+Dann kommt da unten noch die Leistungsberechnung,
+die wir gerade in der
+Aufgabe 15 schon gesehen hatten.
+Einige Formelwerke, die dazu
+wichtig sind.
+Dann nochmal diese ganzen Punkttypen.
+Einige sind
+aufgeblättert. Man kann natürlich auch
+sowas machen, dass man ihnen irgendwie
+Sie konfrontieren mit irgendeiner Pumpe und sie sagen, was ist es für eine oder so.
+Das ist eine Strahlpumpe, die so eine Zwitterrolle hat.
+Warum eine Zwitterrolle?
+Weil die einmal gewisse strömungspumpenartige Eigenschaften hat,
+dass sie zum Beispiel rausläuft, wenn Sie die Pumpe stoppen und dann leerläuft.
+Auf der anderen Seite ist sie selbst ansaugelfähig und hat bestimmte andere Eigenschaften, die eher auf die Verdrängerpumpe passen.
+Das ist bei der Strahlpumpe, das ist die Mammutpumpe, die auch wieder so ähnlich auf so eine Zwitterpumpe ist.
+Dann wichtigste Formeln für die Pumpen, die sind sehr griffig, um einfach Förderhöhen zu berechnen, um Höhenverluste zu berechnen, um Gesamteffizienz zu berechnen.
+setzen sich aber aus dem vorigen Formelwissen zusammen.
+Und als letztes steckt, glaube ich, in diesem Folien-Satz, wenn ich das richtig in Erinnerung habe,
+noch dieser Pumpspeicher mit drin, mit einer Aufgabe, die man auch produzieren und rechnen kann.
+Ich bin nicht ganz sicher, was Sie haben.
+Sie haben da nicht so viel.
+Da würde ich vielleicht nochmal kurz meinen Stift nehmen, dass wir das nochmal angucken.
+Beziehungsweise ich frage Sie jetzt nochmal im Raum, haben wir die Aufgabe so berechnet?
+S16, ich glaube nämlich auch nicht.
+Da würde ich noch 10 Minuten oder was dafür verwenden, dass wir da zumindest die Basics mal zusammenschreiben.
+und hoffentlich in etwas Basisverständnis noch mal entwickeln, wie das funktioniert.
+Achso, jetzt werde ich die Problematik haben, dass ich hier nicht schreiben kann.
+Zumindest, nein, ich kann nur Laserpointer nehmen.
+Also ich kann jetzt noch mal den Folien...
+naja vielleicht hilft dies schon eine sekunde
+offline kopiert das ist gut es scheint so als könnte ich jetzt den stift nutzen
+gut also ich fange mal hier
+an. Irgendeine Pumpspeicheraufgabe. Hier ist oben, hier ist unten und hier ist noch tiefer. Da sitzt
+die Pumpe. Warum sitzt die ganz unten, die Pumpe? Warum wird sie tiefer versenkt und nicht auf dem
+gleichen Niveau? Das ist wieder ein Kavitationsthema. Je mehr Druck ich oben drauf stehen habe, desto
+weniger habe ich die Wahrscheinlichkeit, dass da Gasblasen sich lösen. 2200 Meter auf 1900 Meter,
+zentrale Höhenmeter-Fall-Differenz zu diesen beiden. Einzig zu nehmen die Niveaus, aber es gibt auch noch eine mittlere Stelle, wo eben das Pump-Aus ist, die ist nochmal 70 Höhenmeter tiefer.
+Jetzt ist die Anlage da, sie soll Strom erzeugen oder auch pumpen, also entweder es ist ein Generator oder ein Motor.
+Und da fließen 60 Kubikmeter pro Sekunde, also Massenstrom, und ist es jetzt Pump- oder Turbinenbetrieb?
+Um die Frage zu beantworten, müssen Sie in dem Falle Stellen definieren.
+Hier ist die Stelle 1, Entschuldigung, hier ist die Stelle 2, das steht aber mehr oder weniger schon in der Angabe drin.
+Leider ist der Termin hier schlecht.
+1, 2 und was Sie mal an, ist ein Benulli aufstellen an den Stellen 1 und 2.
+B-Doppelpunkt, also Benulli steht da nur und dann kommt jetzt der Benulli.
+Ich versuche es mal. Rho mal U1 Quadrat halbe plus Rho G H1 plus P1.
+Ich schreibe da mal extra noch ein Loch.
+Rho mal U2 plus E mal H mal A2 mal Rho plus P2 plus Delta P von
+den Verlusten
+von 1 nach 2.
+Hier würde normalerweise noch
+Plus Delta
+Pt stehen.
+So, jetzt nehmen wir uns mal eine Farbe.
+Also Delta Pt,
+das wäre, wenn da eine Pumpe wäre.
+Da ist aber keine.
+Zwischen 1 und 2.
+Da ist schon eine Pumpe, aber die ist weiter woanders.
+Zwischen 1 und 2
+habe ich keine Pumpe gesehen.
+Was ich aber sehe, ist Rohrreibung, weil dieses Rohr hier reibungsbehaftet ist.
+Und das heißt, dass ich sehr wohl solche Druckverluste haben kann, nicht aber, dass ich eine Pumpe in diesem Rohr stecken kann.
+Und dann kann ich die Verluste berechnen von 1 nach 2 und ich glaube, das kommt jetzt aufgeblendet.
+Was ich als nächstes mache, ist, dass ich mir Geschwindigkeiten angucke an der Stelle 1,
+das ist das breite Rohr, das ist die niedrige Geschwindigkeit,
+und an der Stelle 2, das ist das Rohr im Durchmesser gar nicht so viel, ein Prozent, verengt,
+aber im Effekt, wenn es hier quadratisch eingeht, dann doch die Geschwindigkeit mehr als doppelt so hoch.
+Warum ist das da überhaupt so eng gebaut?
+Das soll vermute ich von der Idee der Aufgabe her so etwas Ähnliches sein wie eine Venturi-Düse, an der Drücke bestimmt werden.
+Also wird es halt schmal und dann sinkt der Druck ab.
+Der Druck sollte hier niedriger sein als heute.
+Haben Sie das? Ich glaube, das steht bei Ihnen in der Anlage.
+Nein, haben Sie nicht.
+Das ist recht knapp.
+Sie dürfen es aber auch mit dem Handy abfotografieren.
+Was haben Sie dann?
+Ein Druckverlust von 1 nach 2, der sich ergibt, als er dichte mit diesen zwei Geschwindigkeiten.
+Und er dichte bei der Gewichtskraft mit dem Höhenunterschied.
+Und die zweite, wo komme ich da drauf?
+Das ist nichts anderes als die Formel da oben umgestellt.
+Das ist einfach nur umgestellt.
+Also die Intelligenz, sozusagen die Schwierigkeit ist dieser Formel hier oben aufzustellen, für 0, um sich die richtigen Stellen zu überlegen.
+Das ist dann ein schnelles Runteriterieren.
+Ich muss hier aufpassen, dass ich nicht irgendwas vergesse.
+Wenn ich das ausrechne, hier hinten kommt dann minus 2,82 bar raus.
+Sollten Sie das nochmal nachvollziehen wollen, was wir anders bekommen, können Sie gerne nochmal im Forum schreiben.
+Und ich hoffe und denke, dass das passt.
+Also von hier nach hier gehen Ihnen 2,8 bar verloren. Oder andersrum, der Druck zugewählen,
+wenn Sie von 2 nach 1 gehen, ist bei 2,8 bar. Jetzt sind wir aber merkwürdig, weil wenn hier
+der Druck 2,8 bar niedriger ist als hier, da steht ja auch eine Wassersäule drauf. Da ist doch
+irgendwas komisch. Warum ist das so? Das liegt daran, dass jetzt eben diese Pumpe in dem
+entsprechenden Punktbetrieb ist, dass Sie hier Wasser raufbringen und deswegen die Druckverhältnisse
+anders sind, als Sie es vielleicht erwarten würden. Die Nullkleidung, die ich da angesetzt
+das erstmal aus den statischen Lösungen raus generiert.
+Jetzt habe ich, oh, habe ich das nicht da drin.
+Das heißt, ich kann in der Aufgabe B im Prinzip sagen,
+dass der Druckverlust von 2 nach 1,
+das ist ja nichts anderes als Minus der Druckverlust von 1 nach 2,
+sind also dann plus
+2,82 bar.
+Und wenn ich diesen Druckverlust
+da jetzt
+nehme,
+bar, oder nehmen wir gleich
+die richtige Einheit, machen wir gleich
+Newton
+pro Quadratmeter
+und dann muss ich die 10 auf 5
+noch bereitstellen. Entschuldigung.
+So, und dann kann ich sagen, was ist jetzt diese spezifische Energie, die haben wir bisher
+in der Vorderführung eigentlich noch nie benutzt, ist aber nichts anderes als kleines
+E und das ist das Delta PV von 2 nach 1 durch die Dichte und das ist nichts anderes als
+282 Newtonmeter pro Kilogramm und dann kommt die Aufgabe da unten noch Delta A, der Höhenverlust
+und der ist gleich dem Energiethema durch die Gewichtskraft und da kommen dann 28,7 Meter aus.
+Man kann es lesen, Sie können es von da hinten aus schon mehr oder weniger erahnen.
+So, also 28 Meter Höhenverlust zusätzlich durch Reibungstherme.
+Dann gibt es die Fragestellung hier, wie ist die Maschinenleistung an der Welle,
+wenn der technische Wirkungsgrad an der Maschine 90% beträgt.
+zwischen 2 und 3, dritten Reibungsverliste und so weiter auf.
+Also hier haben wir ein Zeta gegeben.
+Gleich, was ist das denn nochmal? 3.
+An dieser Stelle.
+Hier brauchen wir jetzt keinen Zeta-Wert nochmal neu berechnen, das haben wir gerade gemacht.
+Da haben Sie den Rohrdurchmesser von 4 m natürlich.
+Okay. Darf ich es umblättern? Brauchen Sie noch ein Foto? Sind Sie glücklich?
+Ich blätter weiter und ich werde mir aber jetzt ganz frech, weil ich wirklich auch in wenigen Minuten mich herausstehlen werde,
+daran bedienen, dass ich meine Aufzeichnung hier aufblende. Sie dürfen sie sehr gerne natürlich auch fotografieren.
+Na, Sie haben die. Die C haben Sie. Na, dann ist es ja umso einfacher.
+Die funktioniert bei mir nicht aufzublenden. Der Grund ist wahrscheinlich, weil sie auch in irgendeinem Video hinterlegt ist.
+Und dann kreiert die sich erst eine Sekunde, ich möchte es wenigstens noch aufblenden, der Vollständigkeit einmal.
+Bei der Aufgabe C geht es wieder darum, Benui aufzustellen.
+Hier haben wir die Stelle 3 und hier haben wir die Stelle 2.
+Achtung, die Stelle 2 ist vor der Pumpe, also diesmal müssen wir die Pumpe mitnehmen.
+Zwei Stellen mit Druckverhältnissen, dann kommt die Pumpe und dann kommt die Stelle 3.
+Also, an der Stelle geschrieben als die ganzen Drücke, die Sie an der Stelle 3 sehen,
+werden noch um das erhöht, was die Pumpe noch obendrauf drückt.
+Und das ist das, was wir an der Stelle 2 messen sollen.
+Also, hier haben wir Umgebungsdruck von außen und den Druck aufgrund der Wassersäule bis hier runter.
+Und das wiederum reduziert um die Reibungsverluste und obendrauf gerechnet die Stutzenarbeit der Pumpe.
+Einverstanden?
+Deswegen links und rechts, was kommt wohin.
+dann haben wir einen Energieverlust
+der sich quantifizieren lässt
+weil der Zeta-Wert bekannt ist
+und die Geschwindigkeit sich ganz schnell ausrechnen lässt
+ich habe den Wert jetzt aktuell
+zugegebenerweise gerade nicht in der Hand
+Sie kriegen eine Stutzenarbeit raus
+die nötig ist damit
+das Ganze funktioniert
+Sie können eine Pumpenleistung berechnen
+im Sinne von
+mechanischer Leistung
+Und zwar die, die gebraucht wird und Sie können eine entsprechende Wirkungsgrad berechnen,
+der notwendig ist an Ihrer Anlage und Sie können dann auch quantifizieren, wie viel
+Lust ist ja 28 Megawatt aufgrund von den entsprechenden elektrischen und mechanischen
+Funktionen. Soweit die Idee dieser Aufgabe. Generell würde ich sagen in der Förmungstechnik
+Haben Sie also im Bereich der Probeklausur auch schon ein bisschen mit kennengelernt,
+welche Komplexität Sie da so bekommen können. Verständnisaufgaben haben wir glaube ich ziemlich
+genau gezeigt, welche Typen da so klassischerweise da sind. Und in Teilfragestellungen lassen sich
+natürlich immer auch in
+irgendwelche Strömungsnetzwerkaufgaben
+noch die ein oder
+anderen Detailfragen
+einbauen, mit denen wir uns in der
+Vorlesung beschäftigen.
+Haben Sie das Gefühl, Sie sind gut vorbereitet?
+Schön.
+Dann bedanke ich mich
+für die Aufmerksamkeit.
+Ich wünsche Ihnen alles Gute für all die Prüfungen.
