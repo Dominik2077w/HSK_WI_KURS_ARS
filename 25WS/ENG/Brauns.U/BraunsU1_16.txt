@@ -1,0 +1,742 @@
+Last lecture, if you guys already have tests this week, we're not touching anything new today, I just want to do a little revision, understanding what the test will kind of look like, and there is one more thing I want you to come back to, this will not be part of the test, and we have some of you had the opportunity to do this little company tour yesterday,
+at LIFA in Kempton, and I just wanted to shortly get back to that.
+Actually, I wanted to do it last week, but then due to the terrible weather, we cannot
+meet.
+Just to inform you a little bit what the whole thing was about, as I said, this will not
+be part of the test, so you don't have to write it down.
+it's also but it is on the um on the drive it's called using gear cutting
+um but then we'll go back and just do some revision so um what they just as i said just
+telling you what they do with the company in erica is they make machines that can cut gears
+um which is one of the most important certain um machine parts that we have because it's
+the way of um transmitting torque from an electric motor for example to whatever you want to have
+um so we this this connection between the shaft and the gear to somehow transmit torque is a
+the basis of mechanical engineering you would say i just wanted to mention it shortly so
+that's what the gear looks like i don't know how much information you had already
+Does anybody know already, or do you know from your lectures,
+how come that it has this kind of form here?
+What is this form called, or what is it derived from?
+So maybe you remember how to get to the shape of the individual teeth.
+It's called, in English, as I said, this won't be part of the exam,
+And it's called involuntary involvente approach.
+Did you touch that before?
+Doesn't happen.
+You probably, I think you'll touch it
+when you'll touch it next semester.
+That's how you arrive at least the size of the gears.
+We call this only gears.
+But what it is doing here, there are meshing in the mesh.
+So like one tooth.
+There are different types of gears we would have this what you see here is internal here
+and the little one here is an external gear.
+And then we basically have this type of,
+this is what we call a straight gear,
+where the teeth are,
+if we look at this,
+would be the axis of the gear,
+and the teeth are parallel,
+100% parallel to the axis of the gear.
+The downside of this type of gear is it's quite loud, it's not as good at transmitting the torque from one gear to the other
+because as you can see the meshing area here is not very large.
+If you want to enhance and make it better, what you do is you change the form of the gear, this is what we call a helical gear.
+and that way for example
+you can increase the meshing area
+of the ears
+meaning in the end
+that you are better at transmitting the torque
+and you also have less sound
+for example, less noise
+and then for example
+if you want to totally change
+here if you look at the axis
+of rotation here
+we would have it like this
+and the other one, it could even be perpendicular
+it doesn't have to be in this direction, this is what we call, it's also when you, we don't have time here,
+but if you look more into mechanical engineering, this type of, if you cut out this part of something,
+You can speak of a devil or a chamfer, a posy.
+This is what we call the working devil here, which is, as I said, one of the short convention gears there.
+Here you can change the, as I said, the axis of rotation.
+If you want to change the transmission, so one gear runs very, very fast.
+The turning is very fast.
+The other gear turns much, much slower.
+Do you know what this would be in German?
+I don't know. For some reason we use different animals
+or different insects.
+Schneckengetriebe, exactly. In English you call it a warm gear.
+Why do people come up with these different words?
+This is probably the warm gear, right?
+So this changes especially
+the ratio transmission in here.
+For example, this is what we have classically.
+What we have on the steering wheel of a car today very often.
+They were usually the work electrically.
+So if you have a mechanical connection,
+any at all between the steering wheel and your into wheels,
+but that's the classic connection.
+So you can change the direction because this turns around.
+it spins and this goes left and right and this is what in English we call this lower thing is the
+neck and the the small little gear up there is called a pinion so that's a wreck in pinion gear
+just to have a little understanding there and and in the company we had a short look at because
+they make different types of machines for gear cutting how you make these gears is basically you
+can certainly you can use a milling machine milling is and then but that's a little difficult
+because you have to cut every time you have to cut into here to make a new distance between these two
+teeth. So that's not really what you want to do because it takes a really long time to cut your end.
+In industry time is money in the end. The faster you are at doing something, the less electricity, energy you need, the less people you need.
+And that's the sense behind it. So the more modern technology that's very fast at cutting this gear is what we call hobbing in English.
+In German, we speak of
+basically, it's the same technology,
+but you're not only using
+like one milling cutter,
+but you're using a lot of milling cutters
+at the same time, basically.
+That stands behind it.
+So, this milling cutter,
+which is called the hop,
+turns around, circulates,
+and the gear,
+the workpiece at the same time,
+will turn this way, and that way
+you can then cut into here
+step-by-step a little more and then after a few depending certainly on the
+size they said last time the largest gears they cut with these lipo machines
+of 13 meters in diameter you need it for some ships so you can imagine it takes a
+long time to cut a gear like that the downside of this hobbing is if you think of it
+This hop is round, this here is round, so what you cannot do is you cannot cut on the inside.
+So you cannot cut an internal piece.
+For this you need a different technology, and this is the technology which is called shaping.
+In German we say .
+difference here is this tool there which you can see here will now move up and
+down and that way it can every time that it goes down it can cut something it
+usually then retracts a little goes up and cuts down meaning in the end it's
+much much slower and therefore if you don't want to cut an internal gear you
+use the faster method which is probably and in the last years of third
+technology or a full technology to cut the gear has come up which has been
+around for a long time but it's quite difficult to get it done and this is
+called skiving. I'm sure if you do more into gears than you do about it, you're going to
+have a challenge. The idea here was to have the tool is in an angle, and therefore it's
+able to also, it rotates, it doesn't go up and down, and therefore it's able to cut on
+inside the modern technologies today for the gear technology I have two very very
+very short films which I would like to show you there which shows this which
+indicates the whole thing a little more just to understand how the whole thing
+is done.
+So this is the first technology, which is gear hobbing.
+Gear hobbing is considered a generating process
+and is the most commonly used method of producing teeth and gears of all sizes.
+There are both vertical and horizontal gear-hopping machines, based on the orientation of the workpiece during the process.
+Horizontal hopping machines will be the focus of this video series, though vertical machines will also be presented when necessary.
+For better visibility of the machining process, coolant spray and falling metal chips will only be shown when being addressed.
+Gear hobbing depends on precisely coordinated continuous rotations and linear motion between
+the workpiece and the cutting tool called the hob or hobbing cutter.
+With all rotational and linear axes, the hobbing process involves either 6 axes or 7 axes.
+The process is sometimes referred to as 7-axis machining.
+Just to mention that you then have two tabs.
+You would put the workpiece, you can see here, between two sides, which is the tailstock and the table.
+And you need another that's called the headstock, which holds the tool.
+And then you can move everything around in a lot of axes.
+What the modern machines then also have, they have a second cutter in there,
+which kind of like does the finishing touches to the whole thing,
+so the whole issue is quite complicated.
+Hops are cylindrical in shape, have a spiral or helix to the teeth of the tool,
+and also have a series of flutes cut axially along the tool.
+The sides of the hob teeth are formed to create the involute flanks of the gear teeth.
+The curved surface of the gear teeth is a series of very small flats that approximate the theoretically correct in balloon shape.
+These flats can be seen on a finished gear and look like the scales on a fish.
+In the gear industry, these flats are known as hob scallops.
+A hob is a worm of rack-tooth form.
+The thread is straight-sided and at the pressure angle and pitch required.
+Gashes are cut across the face of the worm, forming sharp cutting edges.
+To create the correct number of teeth, assuming the hob has a single thread, the hob rotates one revolution for each required tooth.
+This is referred to as index or index ratio.
+On a mechanical machine, this is affected by means of change gears, the ratio of which is calculated by the engineer or the machinist.
+machinists. The hop speed itself is chosen according to the required cutting speed for
+the material of the gear blank and by the diameter of the hop. The speed of the hop
+in RPM is set up either by change gears or through some other speed control device according
+to the design of the machine.
+I guess I'm going to use this one.
+You can see it's shaping the technology.
+As you can see, this always goes up and down here, and then moves in, cuts, moves back
+again, because it doesn't work exactly if it cuts up and down in the movement, and that
+certainly then makes the production process much, much more difficult to look at.
+I have also a short video of the strumming process.
+As you can see here, they don't have to move it up and down,
+but they can still cut on the inside
+because of the angle that they use the,
+this skiving cutter in.
+It's the most difficult technology
+and it's not used all that much
+because all the axes have to be put in super synchronicity
+so that it can work there.
+That's just what I wanted to show you there.
+There are also other technologies to cut gears
+broaching and stuff like that, but that's not so used to so much of that.
+That's just what I wanted to show you.
+Apart from that, I just wanted to give you a little insight or a little idea of what the test will be like.
+I put, that's the other file that I put online, which is called revision for you.
+I put a table of contents there, which you can see here, about what we did.
+We looked at tools.
+We looked at these industrial sectors.
+where we said primary, secondary, tertiary, just some basic economic vocabulary.
+We looked at actors in the economy.
+That was this full sheet with the government, consumers, companies, banks,
+and all that kind of stuff, who does what,
+and basic work vocabulary where we said stuff like trade unions and the Works Council,
+just the basic stuff there.
+And what I'll do is I'll put a list online with the vocabulary that she should know, so they know that it makes life easier, much easier to you, so you know exactly what to look at. Otherwise it's always a little annoying to do that.
+And then we have the sheet about iron and steel.
+You also watch the film, like how iron is made
+and how steel is then made out of iron.
+And then economic systems, advantages and disadvantages
+of economic systems.
+So it was, for example, what's, we talked about,
+I think the invisible hand, what's good,
+what's bad about capitalism.
+and a command economy and different manufacturing processes
+processes that we looked at was the next sheet
+and look at mechanics that was the stuff like force
+and work, velocity, energy, power, it wasn't a lot.
+And we looked at mathematics, just the basic terminology,
+how you would describe different geometry forms,
+that kind of stuff.
+We had free trade, advantages and disadvantages.
+I have an example for you with this today.
+Company structures, that was legal structures of a company,
+like what differentiates a public limited company from a partnership,
+what's a legal entity, that kind of stuff.
+Then we did basics of electricity,
+like you have a circuit, what is voltage, what is current, that stuff, a little.
+We looked at company departments, so how do you call different parts of the company,
+like sales, purchasing, production, and all that kind of stuff.
+And we have money and investment, so which forms of investment are there,
+why would you invest in stocks or bonds or real estate, that kind of stuff.
+And the last thing we did was material properties.
+That was about which properties there are in materials,
+what that means, for example,
+and then we looked at the stress strain curve,
+how it affects that condensate.
+There is, I think, more online about bending,
+but we didn't get there.
+There was a plan for last week, and we didn't have time.
+Any questions about that, let's go.
+Okay, good.
+Right, so I would do two things about vocabulary.
+So we have vocabulary, we have grammar, and I want you to do some text, reading the text and understanding.
+That's kind of like what we did during the exam.
+Anything like film watching or whatever, that's always too difficult to organize, and so we'll leave this out.
+The one thing I will do with the vocabulary is
+I will put multiple choice questions there
+just to give you an idea here.
+And you're supposed to hope all these are understandable.
+So in these things, I usually do it in a way
+that there are one or two answers correct,
+never more than two.
+So you can usually get one point if you find one right answer.
+you can get two points if you find two right answers
+but sometimes only one answer is right
+does that make sense?
+yes it does
+for example, resources are allocated
+most effectively if everybody
+pursues their self-interest
+this phenomenon is called
+the, do you remember?
+just said it before
+that was called the invisible hand
+so that's kind of like
+a mixture between sometimes you have something like a definition for something or sometimes
+you just have to do something which are reasons to buy shares for example
+what do you remember what do i get from a share another word for share would be a stock
+so here i have two interest it's not interest bonds pay interest or money in the back pays
+interest it's not the share it would be the payout of dividend you get a dividend if the company
+makes a profit and you could get a higher price so we hope that the price appreciates gets more
+precious for the share gets more precious um so i just put together some examples there
+then the second we won't get um if there are two answers right and i mark the wrong two
+Is it like a minus point?
+No, it's not a minus point.
+And then you won't get any points on the answer.
+Okay.
+So you won't have...
+I don't know, if you're more interested, reclaim it,
+you won't get any points for that answer.
+That's it.
+So you should pay attention and chill anymore
+if there is a reason.
+So that's the first possibility.
+The second one is I just give you an explanation
+And you're supposed to find out what the word is.
+For example, steel that doesn't corrode is called...
+I'm saying you better remember that.
+Stainless steel?
+Right, we speak of stainless steel.
+I could
+I haven't yet prepared the test
+I could also imagine
+as a third form
+that I would just
+put some things there
+maybe it will look like that
+And I would just ask you then to write down, so you just put things there that you say,
+okay, this would be, and I know, and you have to say what all the things.
+So then you would put here, this is a switch.
+and here this part would mean
+what type of connection is it?
+the two possibilities of connecting things in a circuit
+this would be a parallel connection
+And if you have, I don't know, I've got two resistors in there, this type would be, what
+would we call this connection?
+Role connection.
+We say series connection.
+Okay.
+but it's on the sheet
+and I'll give you the vocab sheet
+so you know
+what we're talking about
+what can you say about
+voltage and current in these two
+connections
+go ahead
+sorry
+Sorry, what about voltage in a parallel connection?
+What about voltage here and voltage there?
+And what about current?
+It can be different.
+Like, the voltage can be different at the end.
+Voltage is different in which connection?
+In the series connection.
+In the series connection, right.
+The current would be different in the parallel connection.
+Maybe I'll put a question like that.
+So, you don't have to do any calculations in that sense.
+I won't do that.
+Okay.
+The third thing then would be, and I'll probably do it with multiple choice answers too,
+text understanding.
+This text is about fair trade, which is trade or buying things which are produced in a way that protects the workers for them.
+I suppose you've all been to an organic shop and maybe you've seen at least, because the price is not so high, especially as normal coffee, for example, is super expensive today.
+Fair trade coffee, fair trade cocoa, you can get them all at a price.
+And this is one of the exercises, actually, that I'd like you to do today.
+In the end, I thought you could do all of it and go through it.
+If you want to work together, just look through it.
+So here you have to just find the right answers.
+Same thing down here.
+And then have a look at the text.
+Read the text and try to find out which are the right answers.
+Here it's unclear how many you have to post, but it's easier, I think it's easier for you also, it's better for me to market it, but it's also easier for you if you already have some answers.
+So what I ask you to do is just go through the pages here and see, as I said, work together, probably usually makes sense to think about it together a little and see how well you do it.
+The first questions are based on the texts you did in the lectures.
+This year?
+No, the first part of the test.
+This one?
+Yes.
+Right, this is based on what we did.
+It might be, I have to admit, because I took this from, this is all the economics stuff.
+I took it from another lecture I took.
+So there might be a question in it.
+If you think, okay, I have no idea what that is,
+that is then I probably took it from something that we didn't do in the most but I checked it
+actually it should all be okay so just have a look as as far as you can get okay
+Are there going to be open-end questions, like explain the industrial revolution or something like that?
+Or just that type of work?
+No, I'll keep it like that.
+I'll just do stuff.
+Oh, what I forgot, there will be grammar.
+What we did about grammar, we mostly did tenses,
+but we actually only did tenses, right?
+So there is a, it won't be too long,
+like one page of a section where you have to put in the right tenses,
+but we did a couple of exercises like that before.
+We did, in the end it's all the stuff, it's different tenses.
+will be present
+past
+we have these if clauses
+passive
+that's about it
+there isn't anything
+I wanted to ask
+would it be alright if you could
+give us the solution
+to that
+worksheet
+for this one
+yeah this one I would do it if you wanted to do it now or we can also do
+together by the phone maybe you'll have a look at it and then we'll let's just
+give you this a little we'll just talk about it in a minute
+and I wanted to ask for all of us we're kind of pressed on time with exams and
+I don't think it would be all right if you do that at home.
+This way.
+Yeah, this way.
+So you need to go now.
+Would it be all right?
+No disrespect or anything?
+That's OK.
+I own my .
+I can give you the answers to that if you want to.
+Yes.
+I can do that.
+I don't know.
+I just want to go home.
+Yeah, sure.
+You know, I'm sure it's all gonna work.
+I know.
+I'm sure it's all gonna work.
+It's gonna be okay.
+I'm sure it's all gonna work.
+I don't know if we can turn that.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+How are you?
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Okay, maybe if you've had the time to just look at the first page here.
+Then we can go through this together.
+Then we talk, for example, we talk about the different types of economies,
+The free market economy, what would be the material?
+What determines production?
+the basic idea behind the free market
+which also
+or what is it
+A, B, C, or D
+A
+example
+must be
+the mass deterrence production
+and that's the reason
+what makes it
+a very effective
+market
+because you only produce
+what people want to have if there is no demand for something that it won't be produced so you don't
+use up uh you don't squander any means of production and that makes it very efficient
+next one advantage of the free market economy is so why is it good because this leads to
+it leads to a higher total output because of the effectiveness of the use of raw materials
+The second thing is it leads to more innovation, because I don't know what the demand is, so I have to try out what will be in demand.
+Everybody is competing with each other, and people are looking, okay, are there any new ideas which we can put on the market?
+You might remember these are called USP's, unique selling points, and that's what it leads to.
+Last one. In a genuine, centrally planned economy, the way this works is there are no prices, there is no money.
+You would have what we call such a voucher system. People are entitled to a certain amount of goods, not because they have money, but because of their family situation, what they need.
+gets what they need. What it also leads to would be E, there is a general lack of motivation.
+Because you cannot get into a position where you have more with your own work in the end.
+That doesn't really exist. So that's the downside of the centrally planned economy.
+What is of all the main tasks of the European Central Bank?
+The Central Bank is more or less only interested in keeping inflation under control.
+That's the main job of the Central Bank.
+Inflation means the money loses value and that's not what you want to have.
+So that's the idea.
+And does anybody remember what the number is
+that the central bank is shooting at?
+2%.
+Why didn't they want inflation to be?
+2%.
+2%.
+Right.
+They say under, but close to 2%.
+That's the idea behind it.
+Right.
+And B, this support the economy, they
+They can do that as a secondary idea in the end.
+They will certainly do that, but it's not their main task.
+We have a lot of examples that show that when a central bank, or when politicians influence the central bank in a way that their main job is to support the economy,
+or keep the exchange rate stable, that the economy has a problem.
+showed that in the last 15 years the Turkish government kind of like took
+over the central bank when the central bank was no longer independent the
+Turkish lira was devastated and the other example might be in the next in
+the next three years to come Trump is trying to to influence the sent the US
+fed the central bank to lower the key interest rates in order to support his
+economy so he or somebody else if necessary will get re-elected but that
+could then again mean the same thing inflation can get out of hand that's the downside
+okay what do they do in an economic downturn what makes sense the economy is
+not doing well, what could the central bank now do? They lower key interest rates, exactly.
+How does that help? It's cheaper for people to take out loans, and that means there is
+more money in the system, and that there will be more production. So they decrease the interest
+rates. Economy goes down, increase the interest rates, economy goes up. They have to increase
+interest rates because they have to fight inflation. The first law of every
+market is this one, supply and demand in terms of price, the market, the free market, we have to say.
+Price building happens only by supply and demand. What if the following is not a given
+policy against the dangers of capitalism? Remember we talked about capitalism is
+is not in the sense of it's super, it's great,
+but it has a lot of dangers.
+For example, in a country, in a capitalistic country,
+if you didn't have rich parents, you wouldn't be here
+because your parents would have to fund your education.
+So if you couldn't afford 100,000 euros per year,
+per month I wanna say, per year for your university
+education, you would work somewhere or do something else.
+That doesn't sound so good, right?
+So, now the question, what is not a government policy
+against the dangers of capitalism?
+Deficit spending in recessions, that's a possibility.
+Sorry, there's a typo in there.
+Protection of shareholders against falling prices,
+no, why should you protect shareholders
+if you don't see the difference?
+Shareholders don't need a lot of protection.
+Unlawful dismissal from the workplace, right?
+that's what's happening.
+And protection of tenants, that's also happening, right?
+You can't get thrown out of your apartment tomorrow
+if your landlord doesn't like you anymore.
+This is a company could buy shares of,
+we call this a public limited company.
+This is when the shares of the company
+are listed on a stock exchange for the first time.
+This is called an Initial Public Offering or an IPO.
+You might remember we looked at two sides of economic policy within the free market.
+There is supply-side economics and there is demand-side economics.
+Supply-side economics believes that the state must cut corporate taxes as much as possible.
+They support the supply-side, which is the producers.
+They say the more the producers, or the easier the producers can produce, the more they will produce, and therefore prices will go down.
+So if you can't produce without paying your workers a lot of money, that's good for the economy because you can produce more.
+Just a theory. The other side is Keynes and demand-side economics.
+And the idea behind that is that the government should support demand in a recession.
+So when the economy is not doing well, the state should act in a certain way.
+The government must go into debt to support the economy in the recession.
+Deflation is the opposite of inflation, which on first view sounds kind of good, but it's bad for the economy because it decreases demand.
+If things are getting cheaper, people wait with their demand, they buy something later.
+As we always do, if you want to buy a car and you know next month you're paying 500 euros less for the car,
+what are you doing? You will wait.
+If a country has a balance of trade deficit, I don't think I mentioned that, maybe somebody knows it.
+What is the balance of trade?
+Import versus export.
+Exactly, it's import versus export.
+So if it has a deficit, it imports more goods or services than it exports.
+Then we've got to consider the following is not typically a benefit of free trade.
+and increased diversity of goods on the market, that is a benefit of free trade.
+So we have more goods on the market.
+More innovation in new products is also a benefit of free trade.
+Lower prices for products and services.
+Yes, again, because somebody else in another country might offer products for a lower price.
+Simple example, you can buy oil from Saudi Arabia,
+where oil production is just much cheaper than it is in Central Europe, where you could produce oil, but it will be super expensive.
+A higher level of consumer production, that's not really what comes out of free trade.
+Very often the standards for consumer production go down and environmental protection is not a benefit of free trade.
+trade why because we have more long distance trade more ships going around in the ocean
+you might have heard about the signing of the market store uh trade agreement this week this
+will mean that things will be transported and many more things will be transported from brazil to
+europe and vice versa that's not so good for the environment
+then on top of london where real estate serves as a security
+We mentioned that some time, I'm not wrong, yes, that's a mortgage, that's right, this is not, I think it also came up, I'm not 100% sure, if the buyer cannot pay the full 7 months, you can pay, how do you pay?
+It's possible we didn't mention that. It's called the Ukraine installment.
+I pay attention that I don't put those questions there.
+Then an investor who expects prices on the stock market to fall.
+So there will always be investors who some think it goes up and some think it goes down.
+Otherwise there would be no trade, right?
+The people who think it's going up are the bulls.
+Think of the horns of the bulls or the horns of the bulls going upwards.
+That stands for the bear.
+When the bear is jumping at the prey, he goes from up to down.
+Bonds are issued by governments and corporations, so most of the money in bonds goes to the governments.
+I will not pass my exam.
+Last one, if the owners of a business are not legally liable for the debts of the business, but the business itself is liable, the business is a, do you remember what we called that?
+The last one, it's called a legal entity, it would be a limited, some form of a limited company, or limited liability company.
+We can maybe just go through this very shortly.
+Steel is made up, well actually not all steel, but most steel is made up from iron and other metals.
+And if we mix metals we speak of alloys.
+The point where a material becomes a liquid is the melting point that we go at.
+Copper is good at doing what to electricity?
+It has very good conductivity.
+Say it again?
+Conductivity.
+Right.
+It has, is, well, copper, oh, there is something missing.
+Copper is a really good, it has a very high conductivity.
+Here it would be a conductor.
+That's, that comes out of the example.
+Then, if a metal is stretched to its point, the deformation is permanent.
+And that's the elastic limit.
+And then before it ruptures, we speak of the tensile strength.
+not the same, but here I was probably looking for a yield point, which is in very general
+terms the same. It's not the same
+and there is a slight
+difference in the square spring
+between the elastic limit and the
+yield point.
+But for general terms,
+for language terms, that doesn't matter.
+Very heavy material
+often used for the base of machines
+that's
+I'm just going to cast iron.
+In the end, the cheapest works the best for that.
+Globalizing means that metal is covered with a...
+If you put something on the outside of it, what do you call this?
+A...
+A layer?
+A layer.
+You could also say a coating.
+How do you call the physical thing that is color in English?
+Because it's not color. Color is only what you see.
+Probably you could speak of pigments, the thing you could put on there is paint.
+You could speak of pigments, that's up to you.
+A chemical element found in steel is also in CO2.
+It's carbon dioxide or just carbon?
+Made from carbon, zinc, and juice from musical instruments.
+If anybody is into that.
+you cannot cut with a knife
+that is the opposite of sharpness
+very hard materials
+like cosine for example
+you don't want to make a car out of cosine
+apart from it being super heavy
+it's brittle
+quite a lot to do
+Electrons are said to float around the atomic hole in the so-called, so this was the other core, and the electrons are floating a lot.
+At least in this model, in reality, it looks a little different.
+We call those, those are called shells, electron shells.
+In this machine, water is heated until the gas expands and puts pressure on a piston and therefore moves it.
+It's the grandfather of the fuel motor, the very basic of the machines that started the Industrial Revolution.
+The first one, how was the steam engine?
+That is the steam engine.
+And if we have electricity flows in and out,
+and a circuit.
+There's a, the point in line is missing.
+It has different wheels that are used for cutting
+and for grinding with it.
+It's a tool, an electric tool.
+We mentioned that?
+An angle grinder?
+It's an angle grinder, yes.
+Measuring instrument for height and for marking
+You can use it to measure and you can at the same time also use it to mark something
+It's called a height gauge
+A ball or a bowl has the geometrical form of a round 3D object in which there is a sphere.
+Then we also mentioned
+if two things
+that make a 90 degree angle, they are
+perpendicular.
+For detailed measuring of the thickness or diameter of something.
+A tool that you need in a missile working all the time.
+You work on something you need to...
+A caliper?
+That's a caliper.
+the last one we didn't do
+I didn't know how to stand it up here
+it's called a mitre saw
+if anyone is interested
+I don't think we ever mentioned it
+so what you can do is
+with the mitre saw
+a mitre is what a bishop
+has on his head
+almost like a
+Like a gear, that's the miter, and that we can cut in the wings.
+Okay, the last thing would be, have a look at the text.
+do you want to do it at home yeah okay do you all prefer to do it at home or
+if if you're here then you're here make sense
+okay apart from that have a good time all the best with your tests
+who is that supposed to be
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Okay.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+There we go.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+All right.
+Okay.
+Maybe we can just have a look at it, so it doesn't matter if you get all the questions done, just to see, to have an understanding of how I think you should ask the questions.
+So, number one, fair trade products.
+And I would say question number two, or answer three, and answer six, right?
+the gift buyers in the west
+have a conscience
+it refers to the sentence here
+that they may relieve the guilt
+of middle class consumers
+and the second right answer
+would be can go hand in hand
+with the ideas of the free market
+that refers to the sentence
+there is no conflict between altruism
+and democracy
+so yes
+fair trade can make sense
+that's what's in the text there
+just my understanding
+second question
+the reason why the author is against
+free trade in coffee is that
+again number three
+make some countries grow fair trade
+coffee even though they
+they
+they could grow
+other crops and it's unfair
+for the countries who cannot grow
+anything else than coffee
+These are the two things in the text. Again, we first come out to these two sentences.
+Producers in some countries may choose to produce certain crops only because they can get an especially high price on the first grade schemes.
+Plus, this distorting effect is unfair in poorer countries where producing other crops is not an option.
+So that's the problem that some countries now have.
+If you set a minimum price for a product under such a scheme, the problem is that those who offer a low quality are driven out of the market.
+The USP that you have to sell for a low price is no longer possible.
+And nobody wants your product because they can get for the same price they can get a higher quality product.
+So yes, people buy coffee from Mexico for the same price than coffee from Ethiopia because
+the Mexican coffee has a higher quality, certainly. And therefore, Ethiopian producers,
+at least according to the text here, have no other possibility. They are driven out of the market.
+That's in here. In Taurus retail, but only for more affluent producers that can invest in high quality.
+Then we've got only over the last 25 years,
+many poor producers have become wealthier in free markets
+than many poor producers buying new machines.
+That's down here in the end,
+where they say, okay, millions of people have come out of poverty
+because of mechanization and modernization.
+That's what makes people get out of poverty.
+It's not necessarily a fair trade scheme,
+but as they can invest money, they can grow their business
+and they can make more money from it.
+Then we have some fair trade schemes, sorry,
+disencourage farmers from becoming more efficient
+and result in farmers staying poor.
+We're first again to the text, to this part here.
+So I'm always certainly going down in the flow of the text.
+I've been encouraging producers to become less efficient and that blocks them into poverty.
+They cannot, as they cannot develop their own business, they're not getting richer.
+And the last answer is, or the last question was,
+as well as coffee chains like Starbucks have created
+a higher awareness for quality in the coffee drinkers.
+That's what the text says here.
+How producers, no, have encouraged consumers
+to appreciate coffee as a premium product.
+And the second answer would be have enabled farmers
+to have a bigger share in the value added
+in their coffee products because, for example,
+the farmers can build these coffee mills,
+That means if I don't only grow the coffee,
+but I can also grind the coffee,
+I have a bigger share in this value chain.
+And usually in most of these value chains,
+the producer of the raw material has the smallest part in the in the value chain.
+So now they're expanding also into grinding the coffee
+and that gives them more money that gives them a bigger share in the value chain.
+to give you an example of how I'm thinking here.
+Okay.
+Any other questions?
+All right.
+Then we're good for this semester.
+Thank you very much for being there as far as you could.
+And I wish you all the best for the upcoming exam.
+I don't know.

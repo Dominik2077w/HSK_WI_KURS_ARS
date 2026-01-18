@@ -1,0 +1,1193 @@
+Equals m times a, so force is mass times acceleration.
+Whenever you want to accelerate a heavier mass or a larger mass, you need to double the force.
+If you have double the mass, then you need double the force to accelerate a lighter object.
+And the last one would be the law of action and reaction, or the law of interaction.
+You also say, meaning whenever there is a force applied or exerted on something, then there is an opposite force going up against it.
+So if I sit here on the table, I exert a force on the table because of gravity, and then there is a force which is applied opposite of me, which is then, what would we call that?
+If I sit here, and I apply a force on the table, and in the end the force applies the table opposite of me, what's that basically called?
+that force
+normal force
+that's what we call normal force
+ok, now let's have a short look
+at these different things that we have there
+so we say we have a force
+which has the letter F
+in physics
+and this force
+what's the
+unit of force
+Newton's example
+so the force is in
+Newton's
+And this force, we said F is m times j.
+So force equals mass times acceleration.
+What's a Newton?
+How else could you express a Newton?
+A Newton?
+Basic physics.
+How much of force is a Newton?
+It's like it's laying down.
+One kilo per square meter.
+If you spread out one kilogram of mass on a square meter.
+Right, so you accelerate one kilogram to an acceleration or by one meter per square second.
+That's a newton.
+That's the amount, that's the force that I need
+to accelerate one kilogram to one meter per second squared.
+That would be a newton.
+accelerate one kilogram to a meter per second and now if this force is exerted
+on a certain mass now let's say we exert this force on this mass and then the
+mass is brought up to here.
+What have I now done physically speaking? I brought up this mass from the original
+point down here to up here over a distance, basically you've added energy to that mass, potential energy, I suppose your physics professor would say I haven't added energy because energy, but we're talking about the same thing, right, what have I done to this, what have I done now, I mean you're right, I've added energy to this mass, that's also right, so
+So, force applied over a distance, what is that?
+That's work.
+That's work, exactly.
+That's work.
+And work is W, that's the, in English, that's simple.
+the unit or work in energy
+Joules or watts, whatever you want to choose
+Right, basically it would be work in joules
+Exactly, or you could also do it in watts
+That's absolutely right
+And this work
+Exactly, so work would be force times distance, right?
+Or we could also say in Newton meters,
+you can also use that if it's a torque, a moment,
+then you express it in Newton meters.
+The work, we could say results from, or in the end,
+results from, or in the end, I'm not saying results from, how can we do work, why can we do work, because we have energy, exactly, so we can do work because we have energy, or we can say the work changes the energy,
+instead of the work that we apply to assist and change the energy.
+And that's again expressed in Joules.
+And we, for example, say we have potential energy.
+I think that's what you meant when I said I lifted up the mass.
+Potential energy is mass times gravity times distance times height.
+We have, for example, kinetic energy.
+What are we going to write with that?
+Show me the numbers.
+What was the formula for kinetic energy?
+Mass times acceleration squared times .
+1.5 mass times its velocity, is it?
+Velocity squared.
+Velocity squared, exactly.
+Or we would have electric energy,
+if we think of an electric motor, for example.
+What's electric energy?
+it's power times time
+power over time
+so
+and that's the last one
+now
+splendid
+Now, if I do work
+If I do work
+over a certain time
+I do want to write that down.
+I could say I do work
+in a certain time.
+Which measure, which physical measure do I have now?
+I say work is done within a certain period of time.
+The last important thing, we have force, we have power, we have force, we have force.
+And we have work, we have energy, what's the last important thing in mechanics?
+Power, right?
+Or in German, power is Leistung.
+So, I measure power in, or the unit of measure is in what hour watts?
+Basically, power comes in watts, or you could say newton meters per second or joules per second.
+So basically it is work divided by time, right?
+Power is work over time.
+Electrical power, for example.
+How much power you get, let's say, from an electric engine, what determines the power there?
+look a little bit at the electricity
+probably next time
+there are two determinants
+every symbol
+exactly
+one is
+when we speak of current
+the symbol for current is I
+and the second
+the other one
+current times voltage
+what's the third important
+if you think of Ohm's law
+what's the third important determinant
+in electricity
+in electric flow
+we have voltage, we have current
+or amperage, we can also call it
+and we have
+resistance
+right
+so that's kind of like
+the very very basic
+stuff
+mechanics there
+what I wanted to look at
+so just that you know
+the terminology there
+well maybe there is
+one thing
+which is
+is that mass
+if we have a certain mass
+and it's traveling at a certain velocity
+what does that give us?
+I just wanted to mention that
+because there is a difference in English
+the word impulse
+in English determines
+something else
+the cattles
+the impulse
+Impulse, the German word impulse itself is what we call momentum in English.
+So the power that you have, it has a mass that travels at a certain velocity,
+and that's called the momentum.
+Okay, I just have a very short film to illustrate that a little.
+Okay.
+I'm sorry.
+Concepts of work and power help us understand and explain lots of things in our universe.
+Let's start with work.
+Positive work is the energy we put into a system, and negative work is energy that's transferred out.
+Think of positive work as money being added to your bank account, and negative work as money taken out.
+In the metric system, work and energy are measured in joules.
+As an example, let's take a beautiful, old, mechanical grandfather clock.
+We transfer energy into the clock when we turn the crank to raise the heavy metal cylinders inside the clock.
+When we do this, we're doing positive work, adding energy to the clock.
+And that energy is stored as gravitational potential energy.
+We can calculate the amount of work done by multiplying the force we apply
+times the distance over which we apply the force.
+To rate the metal cylinders, we need to apply a force equal to their weight.
+That is, equal to the force of gravity pulling downward on the cylinders.
+These cylinders weigh 300 newtons, which is pretty heavy, about as much as a small child.
+And if we lift them one-half meter, then we do 300 newtons times one-half meter, or 150 joules of work.
+Power is the rate at which energy is transferred.
+When we say rate, we mean the amount of energy transferred per unit of time.
+In the metric system, power is measured in joules per second, or watts.
+The term watt goes back to James Watt, who came up with the concept of horsepower
+to measure the amount of power produced by a typical workhorse.
+James Watt was a producer of industrial steam engines,
+and he wanted his potential customers to be able to make comparisons
+between his steam engines at a familiar quantity,
+the power they could get from a working horse.
+So it's such a useful idea that the metric system unit for power, the watt, is named after James Watt.
+Following in James Watt's footsteps, let's compare the amount of power it takes to run this grandfather clock
+to the power we need to run a great 100-watt light bulb.
+You can measure the power a person uses to wind a clock by dividing the amount of work they did
+by the time it took them to do it.
+If it takes one minute, or 60 seconds, to lift the weights, and they are doing 150 joules divided by 60 seconds, or 2.5 joules per second of work, they are adding energy to the clock at a rate of 2.5 watts.
+You'd need about 40 times as much to run a bright 100 watt light bulb.
+Before we let the clock run, the energy is stored as gravitational potential energy of the cylinders.
+It's like your bank account when you have just deposited money.
+But if we let the clock run, the cylinders slowly move downward.
+Energy is leaving the clock.
+In fact, when the cylinders get to the bottom, all the energy that we put in will have left.
+So how much power does the clock use?
+That is, how many joules of energy per second leave the clock?
+If it takes five days for the cylinders to return to their original position,
+We can figure this out, because we already know how much work we did when we lifted the cylinders, 150 joules.
+But this time it took 5 days rather than a minute.
+5 days is 5 times 24 times 60 times 60 again, or 432,000 seconds.
+So we divide the work done by the time, and find the answer at about 0.00035 joules per second,
+or about 0.35 milliwatts.
+That's a tiny amount of power.
+This clock uses so little power
+that you could run almost 300,000 clocks
+using the same power it takes to run one 100-watt bulb.
+That's right.
+You could run a clock in every house in a medium-sized city with that much power.
+That's a pretty amazing conclusion,
+and it took knowledge of work and power to figure it out.
+just a short
+good
+so much about
+mechanics
+physics
+if I could ask
+to go on
+the second thing
+you will have to talk about
+in your life
+will be
+Okay, everything about mathematics, again, I'm just barely scratching the surface.
+Let's start with the, we'll start doing that together, and then we have some exercises
+to push that, so the muscle and body set up.
+This table has certain dimensions.
+which dimensions do we have
+if you think of this letter
+it's maybe
+what would you call this
+do you want to describe to somebody
+the work piece you want to work on
+that would be the length
+it needs to have
+a certain length
+it needs to have
+what else
+right
+that would be the depth
+that's right
+so how deep it is
+you could also speak in the sense of
+the width
+And the third dimension is the height of it, exactly.
+And as we're talking about this little box here, the box has this up part, what's that called, so we can close it.
+that's a lid
+exactly
+then it has
+here
+where things come together
+at the
+corner
+and just the side
+that's the side of it
+this here would be a side
+so if you want to control
+a workpiece cutting
+you have to understand the dimensions of it
+and then you can start
+cutting there
+cutting all the corners and all the edges
+and yeah
+side or edge
+good
+and then
+what is
+Rechnen?
+How do you say that?
+How do you calculate?
+So you calculate
+and what you do is called a calculation.
+I just put this there on the site
+because in German it would also be
+Rechnung. How do you say that
+in English?
+Right.
+The two things
+it's either a bill
+or if you
+speak formally
+I don't know if you're an engineer
+and somebody books you
+to do some calculations
+then you would send out a bill
+you would give people
+You can see all the receipts.
+You're right, this is kind of like a receipt, right?
+This is just a little slip that I get from the checkout.
+What would you like when you present,
+okay, I've worked for you two hours now.
+I want 800 euros.
+How do you hold this piece of paper that you send out?
+Not a bill.
+It's called an invoice.
+Do you invoice people on something?
+You're right, this would be a receipt.
+In American also, apart from bill, you also say the check.
+You go to a restaurant, then you ask for the check afterwards.
+That's the start of the bill.
+Okay.
+In mathematics, when we calculate stuff,
+we often have this A plus B is C.
+C, that's called an equation, there we go.
+Why?
+Because we say this is equals.
+So two times, two times eight equals 16, right?
+8 equals 16, right?
+Or the other one would be
+2 divided by 8 equals 4.
+How do we save the other ones?
+Like before, we said meters per second squared, or square seconds, so this is 2 squared.
+The next one is to the power of three.
+That's one thing where English is more difficult than German.
+And the last one is the square root, or just the root.
+If it's a square root, you can speak of the root,
+and then you would say the third root, the fourth root,
+and whatever that comes to.
+So the root of the square root of 2.
+When we talk about areas, we speak of square meters, and when we go three-dimensional,
+Now, the nice thing, and it's really also used in technology, especially in America,
+because the Brits have more adapted to Europe here.
+And they don't use meters and that stuff so much.
+They calculate in feet and all that kind of stuff.
+And it's really also used in technology.
+It depends a little.
+So for example, if you need screws,
+the screws have a different size.
+And they are the smallest screw size.
+And they also don't use like, I don't know,
+half, then they would go from, what's the smallest length in, it's called the imperial
+system, what's like, they're, when we say, when we measure in centimeters, what would
+they, inches, right, they would use inches, and for example, screws are, it's not that
+0.5 inches, the smallest size of the screw is
+3 64ths of an inch. And then you get
+4 64ths, which is then converted into
+1 16th of an inch. And that's where the measurements then change.
+It's always increments of 1 64th of an inch.
+They're never 100% of the usual. They're not 100% the same as they are
+in the original. That's just the way that it's done.
+In English, if you count after one million, what's the next increment? Then you have a billion, exactly.
+Oh, and before I forget, for example, they also use that for square things.
+So if you look for office building, if you want to rent out an office, they will tell you how many square feet the office has.
+And they also use two big feet and stuff like that.
+That's the best thing to do is bring a pocket calculator
+so you can make sure that you're at the same time.
+Right, what comes after a billion?
+A trillion, example.
+So the difference between German and English here
+grows over time because what we have,
+And what is a trillion here would be a quintillion already in English, right?
+Online.
+Something like that.
+To say this, how do you say this number?
+Or how would you spell it in English?
+What do you have to change?
+You have to change the comma to a point.
+Right.
+The comma and the point have to change, so you would say 1,275.38.
+That's what you change around.
+And maybe also just to say that Americans write a 7 like this.
+They don't have the square.
+So their 7s look like our 1s almost.
+That's also something to do with this.
+That's a little problematic at times.
+okay then a little geometry a circle and a full corner a square
+square. I suppose circle is clear, right. So, this circle has a radius that's the same thing.
+What radius is what of a circle?
+It's a diameter or something?
+The diameter, exactly, that's the diameter.
+What's the, if you travel around the circle, what do you achieve now?
+You're not going around the circles.
+The circumference.
+Circumference, exactly.
+Very good.
+It's called the circumference of the circle.
+The inside of the circle.
+All this here.
+What's that? The area.
+The area of the circle. There we go. That would be the area.
+And this letter is called what?
+The Greek letter, how do you pronounce it?
+Pie, like what you can eat, like apple pie.
+For example, let's pronounce pie.
+A square also has
+an area, no, it's not area, it's
+area, sorry. One thing is different, the
+if you walk around
+A square, or any angular form, you cannot speak of the circumference, because that is always of a circle.
+What's that called?
+Can I come across it?
+It's called the perimeter.
+Okay, then we have different forms.
+What's echic?
+Something can be round or square.
+Cornerish.
+Angular.
+An angular form.
+Which forms do we have there?
+How do we call them?
+Triangle.
+Triangle.
+Right, so this one is certainly a triangle.
+The one on the left to the triangle.
+This is called a rectangle.
+A rectangle.
+A triangle.
+The U.S. today calls it the Department of War, like it changed the name.
+It's no longer the Department of Executive.
+That's called a pentagon.
+It has a shape in the last one.
+most screws
+have that problem, that's an accident
+and then you have an octagon
+or a heptagon
+last part here
+so these are different angles
+right
+to make sure
+what is this here?
+this is not an angle but
+an angel
+right
+different spelling
+now three different angles
+how do we call them?
+The one in the middle is a right angle.
+An angle smaller or bigger than 90 degrees is...
+A sharp angle?
+Is it a sharp angle?
+No, it's called an acute angle.
+What makes sense is this is called an obtuse angle, and if for example you have shelves and you want to put them on the wall,
+in German we use this
+and we also say
+in English it would be called
+a bracket
+a mounting bracket
+for example
+for things to put things on the wall
+or whatever you have
+Thank you.
+Now we have, this one is pulled out, this one is pulled out, this one is pulled out,
+This one is called a straight line.
+The next one is a dotted line, and the one who waves, and the shroom, and the wigger,
+You can see it was squiggling a little bit.
+Now the one other line, I didn't want to do a straight line, but I want to
+have it somehow
+co-operate. Why do I say that?
+It's tilted, it's a tilted line, it's tilted, so I know now I haven't tilted it, it would
+Now, these two lines, this one would be horizontal, this one is a vertical line, and if you describe
+how these two lines stand to each other in space.
+What would you say?
+So the horizontal line, this red one,
+and let's say, I'll make this in green,
+The red line is?
+There's a word like they make they make out out a 90 degree angle
+We can say purple in the color. There we go. The red line is purple in this color.
+to the green light
+deutsche senkrecht
+that's a perfect way to do it
+okay
+and finally
+3D forms. How do we call them? A ball is something, it's an object, but it has a form. What's the form of a ball? What form does a ball have?
+It's round, but it's three-dimensional round.
+How do you call a three-dimensional round form?
+It's called a sphere.
+You need an adjective, and you speak of spheric.
+A ball is something spheric.
+Apart from that, there is a mean.
+Because in Germany you can differentiate like ball and ball and kugel, there is no difference there anymore, there is no word for this kugel.
+So everything like, I don't know, if you go balling, that's a ball too, even if it's hard.
+The next one then.
+A cube.
+a cube is always perfect
+all the lengths are the same
+if they are not, what's it then?
+then it's a cuboid
+and the last one is
+that's the same as in German
+And the other ones, this is called a code example, and these are, these are permanences.
+Just because the things below have very similar names, if you want to get some ice cream when
+you buy in, what do you see there?
+That's a cone, exactly. That's also an ice cream cone.
+Now, for Christmas, this grows on the trees.
+What's that called? A high cone.
+Right, that's also a cone.
+But we actually say, usually we speak of fur cones, right?
+The reality is for clones to exist because they fall off the tree in pieces, so it's basically, actually it's a pine cone, that's right.
+But in general, for any, what you have on trees, these are also cones.
+And the last one, in a board game, you don't use cubes.
+They have the form of a cube. Cube is only the form. What are they?
+They are called dice, so one of them is a die, and two of them are dice.
+The regular flow from a die to dice.
+And then you say, I'm going to have to roll dice in a four game game.
+There are two exercise sheets that go with it.
+The first one is just to fill in a few words.
+You see the drawings there.
+The second one, I will ask you to...
+That's a partner exercise.
+There are two pages there.
+you are supposed to describe to each other what you see there
+and then you're supposed to make the joints
+so one explains it and the other one makes the joint
+or writes down what you can see
+so first page is just write down
+what they want you to say there
+2 pi times r is the
+2 pi times r is the
+don't tell me you have to get your formula
+out there
+but two pi times r
+is the circumference
+so just see for yourself
+if you find it
+and then just go over to the next exercise
+You finding that?
+So that's called math exercise one.
+Then there's math exercise two, where you have to talk to each other.
+Is it there?
+Yes.
+Okay, good.
+Thank you.
+All right.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+So, circumference, area, diameter, radius, right angle, and to the right angle, they're all called two-semi-triangles, right?
+And we have the perimeter, that's the way I've got to tell you.
+We don't say half-circle in English, we call it a semi-oil, you could also pronounce it semi, visually semi, semi-triangles.
+the legs of the triangle
+are perpendicular
+they are straight lines
+and that's the end
+you can speak of the semi-finals
+in sports
+then you write it down
+you would say
+2 to the power of 4
+times the square root of 9
+or times the root of 9.
+Opt-use angle,
+acute angle,
+then here in the box it has a height,
+it has a width or a depth,
+and a length,
+and once you see that,
+you can angel.
+Okay, then
+the second exercise is
+talk to each other,
+so one choose page 1, and the other one
+please choose page 2,
+and I will ask you to just draw, you've got enough space down there, draw and write down what your partner tells you
+and then maybe just take turns in explaining what you can see there.
+Can you explain one more time what you do?
+Okay, so you've got, it starts out with a number, right?
+And you're supposed to tell your neighbor what the number is,
+say it in English, and she writes it down,
+and then she tells you the number.
+And then there are a couple of things,
+there are some things you have to draw,
+and then you just explain what you see there,
+and your partner draws it on the thing.
+So you find out, you just practice the language.
+You want to do the first one or the second one?
+First or second?
+Second, second, second.
+You want to do the second one?
+Or first? I do first?
+Yeah, do the first one.
+You have to say this in English.
+Okay.
+And I have to write it also.
+OK, I will find 8 billion.
+it will be
+you are doing this?
+this one?
+you you you
+say that to me or I say that to you
+whatever you want because
+anyway we have the second page
+you want to say it?
+okay I'll say it
+oh you say it
+there are two different pages
+right? yeah
+if you use one then you use two
+she wants to tell me this one
+i have to write it right right exactly she would tell you so you shouldn't have a look here yeah
+you would tell him the number he'll write it down then he you can take part or you can take turns or
+then one and then you go and then you tell him that and then you explain what you see and what
+what the sizes are and then you explain this and and so on you explain it and he has to draw it
+yeah thank you but it's okay if i look here also right to understand or better no you shouldn't
+You should not. You should only listen. Try to understand what she is saying.
+Okay.
+um eight billion um
+um six 659 million
+245
+and
+no, no, I can't see
+okay
+can you say it one more time to write it
+okay, okay
+and
+I want to say it in English
+I want to say it
+Yeah, no problem.
+In German and in English I'm very close.
+Yeah, I understand because also my German is not very good.
+I'm new.
+But I think you stay in Germany about two years.
+So I only stay here about three months.
+Oh yeah, that's normal.
+Can you say the number one more time?
+Okay, okay.
+Try it.
+Try it.
+0, 0, 0
+Okay
+8, 6, 5
+2, 4, 5
+0, 0, 0
+Great, great, great
+Um, wait a moment, divide by, uh, 5 divided by 20, uh, 12, 12, yeah, and times 7 divided
+by nine, plus, plus, plus, square root of twenty-five, how to say it, how to say it,
+How to say it?
+You say minus.
+Minus.
+Oh.
+Minus.
+Square.
+Square.
+Uh.
+Minus.
+Minus to the power of five.
+Uh.
+Minus.
+Um.
+Sixteen.
+Power of five.
+Yeah.
+Yes.
+Yes. It's a half circle. It's a half circle. And the radius is about 2 cm.
+And the circumference is 6.28 cm.
+And it's a racked engine.
+What is it?
+It's a racked engine.
+Right engine.
+Yeah, and the length is 84, but I think it's false, I think it's not true.
+I think the two are the same, but they are not the same.
+Yes, true.
+I think the length is 12cm and the width is 7cm.
+7cm?
+Yeah.
+The next picture has three circles.
+Three circles.
+How should I draw this?
+In the open, it's very small and under is very big.
+And the middle is between.
+Yeah.
+Middle.
+And they have two, they have two, they have two teetered lines.
+What? Titted line. What do you mean? They have two lines. Like arms. Like arms. In the middle circle. Like this? Yeah, like this one. Straight like that? Yes, yes, yes.
+It's a sheep in this picture.
+Yeah, I think it's a small sheep.
+It's a small sheep.
+And it have engine about 4, but the side is very climb.
+He's crying
+Like a bill, you mean?
+There is a bill on the floor
+Show me
+I'll show you
+Oh, it hurts
+Okay, okay
+It's nothing
+Let me do it
+I start with mine
+Because
+I cannot draw it
+On the bottom
+Okay.
+Okay.
+11 billion.
+549 million.
+No, wait. 11 billion points.
+549 million points.
+four hundred ten thousand point fifty yes zero five zero yeah zero five zero yeah okay
+three divided three divided by seven
+again three divided by seven three divided by seven uh times four divided by eleven
+times two four divided by eleven by eleven okay
+to the power of four yes minus yes okay square root of 12.5 square root of uh 12
+0.5
+exactly
+we have a right angle
+where
+it was
+28.27
+centi
+square centimeter
+The square centimeter is the area of the right angle, which is connected to the left part of the triangle, which is the inside of the triangle.
+Oh, it's half-half a circle.
+Ah, maybe I can say also this is a quarter circle.
+Quarter circle, yeah.
+Now we have a rectangle, and in this...
+No, we have a triangle.
+In this triangle, there is a right angle,
+acute angle and obtuse angle
+and the last one is
+no, we are not going to have a right angle
+and two acute angles
+two?
+yes, acute like less than 90 degrees
+this angle
+one right angle normal
+One is 90 and the other one is smaller.
+Oh, that's nice.
+Okay.
+Okay, I'm here to be really careful.
+Yeah, yeah, yeah.
+Okay, I'm here to promise you.
+Yeah.
+In magic, I want to describe this.
+And you have to draw it.
+Oh.
+It takes a long time.
+Yeah.
+I think it's a bit difficult.
+Yeah.
+On the right side of the room is the...
+This photo is a bit complicated.
+Everything, yes.
+We can take a break.
+Yes, sure.
+It's not bad.
+Can you speak English or German better?
+I speak German.
+Easier?
+Because before I study German, I can also speak English better.
+But I study German so...
+So you forget English?
+And then the rectangle is the big one, and the middle one, and the top one, and the rectangle is about half the height of the rectangle.
+Do you speak German?
+Yes, I speak German.
+How do you understand the question so well?
+I don't understand it.
+You don't understand it?
+For example, the voltage level and all that.
+Yes, I am very happy to be here.
+The test of the WSTH does not concern the lecture.
+There are a lot of different types of exercises, and they are very different for the test.
+I understand. There are a lot of different types of exercises.
+Yes, exactly.
+They both have big differences.
+I can't understand a lot of my comments, but some of them I can understand.
+She writes a lot of exercises and we listen to her and do a few tics and do the pre-focus.
+Difficult. For me too. I don't understand everything in the lecture.
+Difficult. Not everything.
+Yes, we are a bit German as well.
+What do you mean?
+I mean all of them.
+Really?
+But it's possible.
+I take a lot at home.
+I prefer to go to lectures in Berlin.
+There are already a lot of people on it.
+Yes, it seems so.
+But well, I've seen it.
+The main festival was held at the stadium.
+Yes, but I don't think so.
+Excuse me?
+But I don't think so.
+Yes, yes, but there is no such thing.
+Alright, so everyone.
+Do you have a thing?
+Yeah.
+Do you like it?
+Yeah.
+That's great.
+Alright.
+Then I will come to the second part
+of the day.
+Which is the economics part
+of the course.
+Which refers to free trade this time.
+So we talked about
+organization of the economy
+to a certain extent
+types of economies, and here we are in economic policy.
+One other topic that I wanted to talk about
+when it comes to national economics is free trade.
+What is that?
+Do you understand my terms?
+Free trading.
+being able to trade with anyone or any company you want without being intervened by governments
+exactly so in the end free trade is trade around the world without any restrictions to it
+that's that's the idea behind it why is it a big topic at the moment
+probably debated at the moment
+Because the U.S. are kind of technistic with their economy and doing new tariffs every day.
+Right, so Trump came up with the idea after, actually also in his first administration,
+the United States actually almost was a supporter of free trade,
+trade that suddenly the opposite protectionism would help the us more than free trade i just
+wanted to give you some basic information on that kind of stuff so that you're able to understand
+what the pros and cons of free trade are and to start us out i have a short film about free trade
+And then there was this little place that we wanted to look at.
+One of the most pressing choices facing modern economies is whether to adopt a policy of free trade or of protectionism.
+That is, whether to encourage foreign goods into the country with minimum tariffs and allow industries to relocate abroad, or whether to make it hard for foreign firms to sell their goods internally and discourage domestic producers tempted by cheaper wages in other lands.
+It feels like a very modern dilemma, but the debates between proponents of free trade and protectionism go back a very long way.
+The argument began in earnest in Europe in the 15th century, with the formulation of a theory known as mercantilism,
+the forerunner of what we today refer to as protectionism.
+Mercantilism was, like nearly every other economic theory, interested in increasing a nation's wealth.
+But mercantilists argued that in order to grow richer, a country had to try to make as many things as possible within its own borders,
+and reduced to an absolute minimum any reliance on foreign imports.
+The role of government was to help local industries by applying huge tariffs on imported goods
+and discouraging foreign manufacturers from competing with local players.
+A strong country was one that knew how to provide for itself
+and could achieve almost total independence in trade, a goal known as economic autarky.
+The philosophy of mercantilism reigned supreme as the most persuasive theory of economics until the 9th of March 1776, the publication date of possibly the most important book in the history of the modern world.
+In an inquiry into the nature and causes of the wealth of nations, the Scottish philosopher and economist Adam Smith attempted to dynamite the intellectual underpinnings of mercantilism.
+Smith argued that the best way for any country to grow wealthy was not to try to make everything by itself, for no country could ever hope to do well in every sector of an economy.
+Smith observed that countries naturally had different strengths in particular areas.
+Some were great at making wine, others had talent in pottery, others still might be experts at making lace.
+And it was on such strengths that every country should focus.
+This was an application at the level of nations of a theory we can understand well enough at the level of individual life.
+If someone has a natural aptitude for accountancy, it makes no sense for them to spend a considerable part of each day trying also to make cheese, to sew their own trousers, or to learn to play violin sonatas.
+Far better for the accountant, cheesemaker, tailor, and violinist to specialize in the areas in which they have the greatest advantage, and then trade with others to satisfy their remaining needs.
+As Smith noted, it is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy.
+Smith emphasised that if Britain could produce wooden goods more cheaply than Portugal, and if Portugal could produce wine more cheaply than Britain,
+then it would be beneficial to both parties to exchange the product they could make at a lower cost for the one they could only make at a higher cost.
+The overall wealth of both countries would rise as labour and capital would always be optimally employed,
+directed to those sectors where native skill and opportunity was at its greatest.
+The job of the government was to recognise sectors where there was a national advantage,
+assist in the education of the workforce, but otherwise reduce tariffs as much as possible and step out of the way.
+With astonishing speed, Smith's theory convinced most of the economic and political classes of north-western Europe
+In Britain, his ideas were first put to a practical test in relation to the primary foodstuff of the nation, corn.
+Grain prices had for many years been protected by government decrees.
+Cheaper foreign grain had been kept out, apparently in order to protect jobs and national wealth.
+But Smith's ideas, now driven forward by his foremost disciple, David Ricardo,
+proposed that all tariffs on imported grain, protectionist measures known as the Corn Laws,
+were in fact obstacles to economic growth.
+After bitter debates in Parliament, the laws were repealed in 1846.
+The result demonstrated both the advantages and incidental costs of Smith's ideas.
+The price of corn dropped sharply, food became cheaper,
+and everyone, especially the working classes, had a lot of spare money to spend on other goods.
+This, in turn, grew the overall size of the British economy, so that it significantly outperformed all of its European counterparts.
+But, and it was a very big but, large swathes of British agriculture went to the wall.
+Cheap imported corn from Canada and the United States destroyed farms and ways of life that had persisted for centuries.
+Smith's theories were both correct and, depending on where one was standing, plainly agonizing.
+An enduring problem for the undoubtedly very sound arguments in favour of free trade is that its human costs have seldom been addressed with sufficient passion and ingenuity.
+The cries of the dispossessed have not been recognised for what they are – threats to the entire stability and moral dignity of the nation.
+As is only gradually being realised, the benefits of an open economy can only properly bear fruit if a series of steps are taken to mitigate the attendant downsides.
+Any nation committed to free trade must tax the sectors of the economy which have an advantage,
+and then use the money to retrain those in sectors of the economy with the greatest disadvantages in relation to foreign competition.
+Without such redirection of money and labour, a nation will become highly unstable politically,
+thereby endangering any progress that free trade has made.
+Secondly, governments must enable everyone in the economy to find their own natural areas of strength,
+which means high levels of investment in education and a raft of measures to maximise social mobility.
+Monopolistic behavior by the rich
+endangers the integrity of a free trade system
+just as much as punitive import tariffs.
+Intellectually, free trade has undoubtedly won the argument.
+When a Mexican worker can make a car for $8 an hour,
+whereas an American one costs $58 an hour,
+it's clean and wise to allow Mexico to do what it can do best,
+whatever the effect on American car workers.
+However, defenders of free trade have been grossly negligent when it comes to instituting the political programmes necessary to support the efficient operations of the system.
+It has forgotten the pain of the car workers, the coal miners and the steel makers.
+And, in democracies, there has been a heavy price to pay for this neglect, in the form of the rise of a new class of mercantilists,
+who have successfully argued that barriers must again increase, that a country should try to make everything within its own borders to regain its greatness,
+and that cheap importers are invariably the destroyers of domestic choice.
+These arguments make no sense, but so long as the proponents of free trade fail properly to articulate a programme to remedy free trade's operations,
+whole nations will be seduced by the easy promises of the mercantilists and will suffer accordingly,
+until the distinctive wisdom of Adam Smith can once more reassert itself.
+I'm going to read you a little text.
+I'm going to have to look at that together.
+I'm going to have some things to do.
+It looks like it's a...
+What the world is charging most...
+Where the world is charging most gifts.
+Okay.
+How many years ago?
+I'm going to have to look at that.
+Thank you.
+All right.
+All right.
+Thank you.
+Thank you.
+Thank you.
+Right, so as you also heard from Bill, the basic idea of a lot of time was what we used to call mercantilism, or today, how do you call that, of Trump and the Opposition for the last few years?
+So what's the opposite of this?
+And today, if you just look around, I don't think anybody has a computer or a mobile phone made in Germany.
+And if you look into the clothing, the app is probably also not made from, or not made.
+So we have all this kind of stuff.
+And what we don't have all that often, but as we are in the European Union, this is one thing we can work in all the other countries in the European Union.
+You cannot just go to Brazil and say,
+hi, we are giving you a job, we need a work permit for that.
+Do you know what we call this within the European Union?
+The possibility to go into every country and work there?
+The EU says it's freedoms.
+We have, I think, the full freedoms that the EU has said,
+OK, everybody has got the right.
+We've got the right to work in other countries,
+we've got the right to trade with other countries,
+we can buy stuff in other countries,
+we have the exchange of capital,
+so you can start a business in another country,
+and you also have the right for your intellectual property.
+We speak about free movement of labor in that sense.
+So that you're able to work in any country of the European Union.
+The movement of goods, services, labor, and capital.
+So the so-called full freedoms of the European Union.
+This basic idea.
+Right.
+And within the last years, we have this movement towards less and less limits to free trade.
+Now they're coming up again because Trump is such a supporter of that.
+And just one question, why would a country say,
+okay, you can only vote in my country if you get a world permit or a green card or whatever.
+What's behind that?
+Why wouldn't we do that?
+Why wouldn't we do that at all?
+In the end, stay.
+We don't want foreign goods to come in.
+Due to the globalization, there are rich countries and poor countries.
+We need to open all of our borders and work markets.
+People from poorer countries would naturally come to our countries to work here, but there aren't enough workplaces.
+And at least the country itself isn't big enough, but we also need immigration at a certain level.
+Right, so on the one hand side it leads to, or it can lead to unemployment.
+So exactly as you said, if too many people come to other countries, they will have the jobs and maybe they work for a lower salary.
+of people who are here already will have half the jobs.
+On the other hand, we have a shortage of skilled workers.
+And so we depend on workers from other countries
+coming here and doing work that nobody can do over here
+because they're just armed with other people.
+And that's kind of like in between,
+this is where the government always has to decide,
+okay, what do we want to do about it?
+And they're great, okay, great.
+And that's also the discussion in the West
+that they're kicking out all the illegal immigrants
+who's doing the farm work in the future.
+So you have, I don't know, hundreds of thousands,
+probably millions of special people
+from middle and South America who are up there,
+mostly illegally went up there,
+but if they're all gone,
+then there is not enough people who will work anymore.
+So that's always the problem.
+Exactly.
+So they talk about advantages and disadvantages.
+Maybe just one thing to mention this term here, economies
+of scale.
+Have you ever come across that?
+I think we shortly mentioned it.
+It's shortly explained in here.
+It's the theory that if you focus on a certain product
+or whatever, and if you make more of it,
+it's getting cheaper due to the .
+Actually, it's not necessarily a theory,
+but it's a fact in the end.
+The more I produce of a good, the lower my production costs
+are, because I can not only install one machine.
+I can install 50 machines, and then everything becomes cheaper.
+I have all kinds of cost-saving effects,
+and that's called economies of scale.
+Sometimes in Germany, we hear a translation,
+.
+It's in the end, the more I produce, the better it is.
+Right. And in the end, at the end of the text, it shows us something that we just in the end realized, you know, in the last years, this interdependence is really huge. And because the supply chains that we have around the world, no car that is made in Germany, in inverted commas, is 100% made in Germany. All the parts for these cars are coming from all over the world.
+And the computer chips are coming from one place, maybe just, what was it, two, three weeks ago when there was a chip producer based in the Netherlands, which is a Chinese company, and there was a quarrel between the Dutch and the Chinese government, and then the Chinese government banned the company from selling chips in Europe, which meant for BW, just like a week afterwards, they said, okay, if they don't sell, we have to stop producing.
+Because we don't have those computer chips anymore.
+And that shows the power of that today, because everybody is so dependent on each other.
+Another thing would be these rare earths, for example.
+These are especially metals, which are very, very rare.
+And a big part of that, especially in the production phase, is dominated again by China.
+And China can use, and they have fully present and are already doing that,
+using that power that they have on the global market to, in the end, say,
+okay, we can decide how many batteries you guys can produce
+because you need these rare earths for that.
+And if we don't like you, you won't get it.
+That's the point.
+And maybe also you might remember five years ago now,
+it shows this extreme interdependence in the global market.
+There was this huge container ship which was stuck in the Suez Canal and that kind of like stopped global trade or stopped a good part of global trade for three weeks or whatever because there was then certainly a huge backbob of ships going who couldn't go through the Suez Canal at that time.
+And it really, you could instantly see that prices for goods at Amazon went up because there was not enough supply anymore.
+And it shows this, if a small thing happens today on the world, everybody is affected by that.
+And that's really the point of it.
+Now, what I'd like you to do is work together if you can, makes a lot of sense.
+Just so you realize, okay, what the text is about.
+There are a few senses, so we said protectionism, for example,
+and that's like mercantilism, it is, the strategy is to produce everything within one's country, right?
+Not import anything.
+Not produce everything in a domestic way.
+basically means no imports.
+That's exactly what Trump is trying to do with the European Union.
+That's the idea of what he calls America first,
+a country that can rely on what it produces within its borders.
+Second thing, what I'd like you to do now,
+you can just use very short sentences.
+Summarize the advantages and the disadvantages of free trade.
+As mentioned in the text, there are three for it,
+and three against it, and think about at least one further advantage and a further disadvantage of the trade.
+Maybe something that's not in the text, but I think if you shortly think about the issue,
+it will be quite clear what else are the disadvantages and the advantages of the trade.
+Work together if you can. That's more fun than working alone.
+Okay?
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Come together.
+Let's see.
+What's a tariff?
+A tariff is like an import duty.
+You have to pay if you want to import something.
+Right.
+Import duty, or you could also say it's a tax,
+that the importer pays an importer.
+The importer pays.
+What are the results of these tariffs now?
+If you impose tariffs, what happens?
+Less foreign goods from the goods which are produced in the country.
+They say, yeah, it's just a little out.
+Less foreign goods from the country.
+Right, so there will be as imports are more expensive, there will be less imports, right?
+Imports are more expensive, and maybe therefore we can also say less competitive.
+and that's the idea behind it
+then there are less imports
+and there are more
+domestic products
+if
+you can substitute
+these imports, that's right
+if you cannot substitute
+these imports, what does it then lead to?
+increased prices
+for the consumer
+it leads to inflation
+And it's interesting to see Trump, for example, imposed a 50% tariff on Brazil because he didn't like the way they were treating their old president.
+Now he had to backtrack because food prices have now increased quite a lot in the U.S. and quite a lot of fruit and all that kind of stuff is coming from Brazil.
+Prices have gone up, they have to avoid it, they cannot substitute it, so now we have to lower prices.
+It's like, I don't know, somebody in the first semester of economics, doing economics, is trying out how well he's doing in economics and that's not substituting.
+Very interestingly though.
+Okay, economies of scale, we already said that in the end, the census.
+Unit costs go down if I produce in larger amounts.
+That's our lower unit costs if production goes up.
+And the last one, what have you found there?
+What is a sweat shop?
+It's a factory usually located in third world or developing countries with very bad rights for the working force and bad work conditions.
+Exactly. So these are third world factories which produce for us in the West
+with very bad safety standards
+and no worker rights
+with bad safety standards
+or no safety standards sometimes
+So, the advantages of free trade as we see in the text, what are they?
+Right, there is a global market means there is more competition, and more competition,
+the upside of competition is more innovation, lower prices, and all that kind of stuff.
+Basically, competition is always a positive thing for the economy.
+What else?
+A general increase of wealth and life standards?
+Right.
+A general increase in wealth.
+Which is because we have more production, because economies of scale, specialization.
+Countries can specialize, therefore if one country specializes in something, they can make more of it.
+economies of scale
+because production increases
+we just have more
+production on
+a global scale
+and
+what would be the third advantage
+that's mentioned here
+I think it's free movement of labor.
+Could be, but the free movement of labor is rather limited.
+I mean, we have it in the European Union, which is nice for us.
+I mean, if you said, I don't know, I want to move to Portugal, because the weather is better there, then that's fine for you.
+Okay, we can mention that free movement of labor. Why not?
+There is one more thing mentioned in the text.
+Why it doesn't make sense.
+So it's not because of the lower production prices?
+Right, so we just have, because of reasons, I don't know.
+If we want to produce oil, we can produce oil in Germany.
+There is oil, you can dig for oil if you want to.
+But in Saudi Arabia, you just have to drill like two meters into the sand and the oil is coming out.
+So there are reasons that in some country the prices for something are just much lower than somewhere else.
+For growing fruit, we don't have the temperatures to grow bananas.
+In other countries, they can easily grow bananas. We have to build greenhouses and all that kind of stuff.
+It's much more expensive to do that.
+We import the bananas from Spain. They can produce them there at a much lower price.
+And so we benefit from the price. So benefit from lower prices.
+So we benefit from lower prices.
+We think of another point.
+that's not in the text but what else can you think of what else is good that we have
+we have access to foreign products that we would usually have in Germany right so we have a huge
+amount of different products today which 50 years ago people just didn't have if you think of just
+going to the supermarket and look at all the all the kinds of different things you can buy to eat
+which come from other countries, which we just wouldn't have otherwise.
+So the variety of products or goods that we have is much, much bigger
+than if we were limited to one domestic market.
+And then there are downsides, so it's impossible to say free trade is only good, because it also creates problems.
+In brackets, hyper-independencies?
+Right, interdependencies, global interdependencies,
+which make the global economy more vulnerable.
+50 years ago, if, I don't know, they had an earthquake in India,
+we didn't really, economically, we didn't care because it didn't affect us.
+Because, I don't know, they bought some products there, but we didn't import anything from there.
+Today, if we have a problem in India, it has a huge effect on our economy because there is so much interaction,
+supply chains are destroyed and all that kind of stuff.
+So, it has made the global economy much more vulnerable to things than we had before.
+That's right. What else?
+We have this under the headline sweatshops in the end.
+The workers in poor countries are easily exploited.
+So the little children who make white jeans have to work all day, so I can pay less for a pair of jeans, right?
+Or you can buy a two-euro t-shirt, and therefore, I don't know.
+Apparently, it really exists that people are, the people who make clothes sometimes, they were really sitting on the ships,
+and the ships are coming over here.
+Once they're here, they've made the stuff,
+and then the ship is going back to get new garments,
+and then again, they're suing that on the ship.
+Doesn't sound very nice.
+There is a third thing mentioned.
+That's why, especially, I mean, the US, for example,
+is a political country.
+Destroys certain sectors of your economy.
+Like they say, for example, in Germany the garment industry doesn't exist anymore.
+There is almost no production of garment.
+So it can lead to unemployment in developed countries.
+The companies are relocating or they're offshoring, moving their production to another country and then import the goods back to the country.
+And the people here have no work anymore.
+And again, can you think of another point? What else is not so good about retrain?
+It's getting more and more difficult for developing countries to develop, especially countries with high natural resources or low natural resources due to corruption and also exploitation of these countries.
+So it can hinder the development of countries?
+So rather than pool countries, because they can import all of those, so they don't develop
+their own manufacturing industry, for example, they kind of like walk in delivering raw materials.
+Can you think of other things? What else does this free trade globalisation bring with it?
+That's nice. We have a big variety of goods. We can buy kiwis that are grown in New Zealand. Super.
+The cost and the reduction of cost is in the focus and the environmental impact isn't...
+and especially it harms the environment.
+We have so much global transportation,
+ships sailing around all the time,
+planes transporting from here to there.
+So it's not really, if we used the resources more locally,
+it would be much better for the environment.
+So it's bad for the environment.
+Do you have anything, I mean you could probably bring up five different points, ten different points in one thing.
+Is there anything that comes to your mind by all of you?
+Maybe it's out of the scope, but usually deregulation on the stock markets.
+For example, being allowed to speculate on prices of basic meat items, like poop or beans, etc.
+That prices are not especially rising, and so developing countries are kind of ignorant on developments.
+That's a topic that has to do with it, and we have this youth problem.
+It's also part of globalization, that's why.
+It's mainly the reason because we have commodity markets
+and speculators don't only speculate on stocks, for example,
+but also on basic foodstuff like rice or corn or something.
+And that means that in some countries
+that depends on buying rice or wheat
+or whatever from other countries,
+Speculators drive up the prices and that can in the end mean that people die and starve on that
+because the poor countries in Africa that had a bad harvest, that had a bad crop, can no longer import on these things because of speculation.
+You could put that in there, certainly. It's part of globalization.
+Maybe it's more part of the commodity markets, the international commodity market, but that's also part of globalization.
+I think one other thing is certainly we said we have more competition, which is a good thing because it brings down prices, it leads to more innovation.
+It's very difficult to get into the market and be able to compete against the competitors.
+Right, and especially these big companies, they're getting bigger because of these international markets.
+Google and Apple and Facebook and the light or Amazon and we'll always say the
+five writers of the apocalypse
+doesn't matter they have such a big market power they have almost an
+international monopoly on the business.
+And it's very difficult to get a foot into that market.
+And they have this huge power today.
+I mean, if you are Google, you can, again,
+extort the rest of the world.
+Because you have such a huge power.
+And if we were not so globalized,
+then the power of Google and Amazon and wherever it is
+would be much, much smaller certainly.
+So that's also the downside again.
+And we always have international monopolies
+on the side of Google, for example.
+And that certainly is a huge danger also for the world
+market and for democracy at the same time.
+But also, this year, international monopolies
+have changed.
+OK.
+That's about it. Have a nice weekend. Enjoy the Christmas market, home market, if you have time. Take care.

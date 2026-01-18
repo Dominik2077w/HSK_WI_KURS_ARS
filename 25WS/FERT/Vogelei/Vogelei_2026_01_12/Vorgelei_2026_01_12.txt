@@ -1,0 +1,992 @@
+Mein Auto, nein, mein V-Auto funktioniert nicht, aber wir machen das einfach für das normale Skript, was wir hier auch haben.
+Wir gehen sowieso eine lustige Runde hier.
+Von daher, Sie beide waren ja bei der Eingrenzung dabei letztes Mal, ne?
+Genau, das gehen wir nochmal kurz rum durch, Sie haben das ja schon mal kopiert, aber ich gehe da zum Schluss nochmal drauf ein auf das Ganze.
+Was ich jetzt vorhabe, ist einfach nur noch mal dieses Kapitel mit der additiven Fertigung,
+was ja auch Prüfungsbestandteil sein wird. Und deswegen hier noch mal, ich glaube,
+Ich habe es kurz angefangen, aber wir machen das jetzt nochmal komplett.
+Was sehen Sie hier?
+Jede Menge Begrifflichkeit.
+Sagt Ihnen das irgendwas, was da vorne steht?
+Allgemeinbegriffe? Konkrete?
+3D-Druck, 3D-Printing, das ist so ähnlich, 3D-Metal-Printing, das könnten sogar auch
+ein paar Begrifflichkeiten sein, aber was wäre denn für Sie der technisch richtige
+Begriff. Wenn Sie jetzt mal als Ingenieur das Ganze sagen wollen.
+Einfach mal vom Ranking her. Also das heißt, es gibt hier sowas wie eine Tierfertigung,
+generativen Fertigung, das sind Oberbegriffe.
+Und 3D-Druck ist eigentlich auch so ein Oberbegriff,
+den wir entsprechend umgangssprachlich nutzen
+und den wir letztlich jetzt auch in der entsprechenden Technik
+als Ingenieur nutzen können.
+Vor fünf Jahren habe ich das noch anders gesagt,
+heute hat sich das auch komplett eingebürgert.
+Heute sind große Konferenzen in dem Bereich,
+heißen, einfach 3D-Druckfellig.
+Ja,
+wenn Sie glänzen wollen,
+nennen Sie das Ganze generativ oder
+additiv, aber es ist
+letztlich
+diese Begrifflichkeit, die denn eben
+kombiniert wird mit dem ganz konkreten
+Verfahren. Das konkrete
+Verfahren wäre denn eben eins
+von dem anderen, die eben auch noch
+hier so einen Laserstrahl schmelzen.
+Das heißt, diese
+Begrifflichkeit kommt tatsächlich aus dem
+schweißbereich weil das wäre die nächste geschichte dass eben ganz viele
+additive fertigung oder 3d drucktechniken nicht anderes sind wie eine
+schweißtechnik nur eben als beschichtungstechnik umfunktioniert und
+nicht nur eine schicht sondern mehrere schichten gemacht und so kann man
+eigentlich jeden 3d druck wiederum erklären und was wir eben geschichtlich
+Was Sie sich da noch vorstellen müssen, ist, dass der 3D-Druck aus einer Idee stammt.
+Und diese Idee heißt Rapid Prototyping.
+Ich bombardiere Sie nochmal mit den Bauteilen.
+Was könnte das sein?
+Und? Werde ich auch bloß?
+Was haben Sie gerade alle instinktiv gemacht mit dem Bauteil?
+Genau.
+Hier bewegt.
+Genau.
+Das einzige, was man da dran bewegen kann, das scheint irgendeine Klappe zu sein, die
+irgendeine gewisse Funktion hat.
+Irgendwas wird da geöffnet, irgendwas wird da geschlossen.
+Und das ist Prototypenbau.
+Das heißt, das Teil gibt es vielleicht nachher in echt, auch als Stahlbauteil, weil das ganz andere Rahmenbedingungen jetzt nicht erfüllen muss.
+Aber für uns als Menschen, ja, können wir in der CAD ganz tolle Sachen machen.
+Wir können uns das räumlich da vorstellen, aber es ist und bleibt irgendwie zweidimensional.
+Gut, jetzt können wir irgendwie eine entsprechende 3D-Brille uns aufsetzen, dann können wir auch im Raum irgendwas sehen, aber es bleibt immer noch virtuell.
+Und was das letztlich auch darstellt, ist eben eine echte Funktion, ein Bauteil, was Sie in die Hand nehmen können,
+was man jetzt gegebenenfalls an irgendeine Pumpe noch mit anbauen kann, um diese Funktion dieser Klappe eben tatsächlich effektiv zu sehen.
+Wie gut funktioniert das? Gibt es da vielleicht irgendwelche Probleme?
+Und das war tatsächlich die Idee, schnell einen Prototypen herzubringen, um so etwas machen zu können.
+Und so ähnlich ist das auch für diese beiden anderen Sachen.
+Weil dann kann man irgendwie auf den Trichter, okay, wenn ich tatsächlich schnell so ein Prototyp erzeugen kann,
+schnell in Anführungszeichen, also auch das Bauteil dauert einige Stunden, um das herzustellen,
+aber im Vergleich zu tatsächlich aus dem vollen Fräsen oder ganz anderen Fertigungsmethoden einzusetzen, eben relativ schnell.
+Tooling oder Repair heißt nichts anderes.
+Tooling ist ja Werkzeug. Was könnte ein Werkzeug sein? Da habe ich Ihnen auch was mitgebracht.
+Große Tasche, große Teile.
+Das ist ein Spritzgusswerkzeug. Tatsächlich ist das jetzt hier so eine Kronmasse. Bisschen in die
+Jahre gekommen, würde aber heute auch nicht anders aussehen. Das ist jetzt ein einziges Handy, ja.
+Ja, aber Sie sehen daran, dass man jetzt hier relativ einfach, indem man eben diese beiden Formhälften,
+das ist Stereolithographie, das heißt, da gibt es einen flüssigen Kunststoff und dann wird der mit dem Laser ausgehärt.
+Diese Teile, die haben fast den ganzen Tag gedauert, bis die fertig waren,
+aber im Vergleich zu sowas tatsächlich frästechnisch oder aus dem Vollen irgendwie zu arbeiten,
+vielleicht trotzdem eben noch eine gute Alternative.
+So, das heißt,
+ein Werkzeug
+hat aber auch welche Stückzahl,
+vielleicht brauchen wir noch ein zweites
+oder so, aber das war es schon,
+hat also mit dem Prototyp
+gemeint, dass wir eigentlich nur für
+kleine Stückzahlen entsprechend reden.
+Und bei Repair
+gebe ich ein weiteres Beispiel.
+Das Repair wäre jetzt eine Turbinschaufel. Sagt die Turbinschaufel was? Turbinen sind ja letztlich
+irgendwelche am Flugzeug, irgendwelche an einem Rotor befindlichen Schaufeln, die eben in einer
+Umgebung laufen. Und das heißt, wenn die jetzt innerhalb eines Kranzes bewegt werden, haben die
+vielleicht auch eine Berührung und das heißt, da könnten Verschleißen stehen. Und wenn die irgendwann
+runtergebrannt sind quasi an der Stelle, ja, dann schmeiße ich die entweder weg oder ich repariere die,
+indem ich diesen Millimeter, der da fehlt, einfach wieder drauf tue. Mehr als in dem Fall verschlissene
+Oberfläche einfach wieder ergänzen
+und damit das Bauteil
+wieder retten können.
+Das ist das,
+was auch heute
+Fakt ist, was auch heute sehr gut
+funktioniert. Das ist das,
+wovon alle Leute träumen.
+Vielleicht Sie auch,
+wenn Sie vielleicht
+einfach keine Lust mehr auf Fertigungsverfahren
+haben, zu sagen, da muss es
+doch einen Ersatz geben, der nennt sich
+3D-Druck und dann brauche ich nicht mehr
+schweißen, den brauche ich gar nicht mehr machen,
+sondern ich muss einfach nur noch
+eine Maschine anheuern.
+Und das ist wie bei Raumschul-Helter-Preis
+mit dem Replikator. Ich schmeiße das Ding
+an und was auch immer kommt dann da hinten raus.
+So.
+Das ist die Botschaft,
+die ich jetzt erstmal noch weiterbringen
+will. Davon träumt man,
+wie gesagt.
+Ist auch legitim. Was könnte
+aber der Haken an der Sache sein?
+Ja.
+Kosten, Zeit, weil wenn wir eben über größere Stückzahlen reden, reden wir eben auch Stückzahlen pro Zeit.
+Das heißt, warum mache ich jetzt zum Beispiel dieses Handygehäuse nicht einfach direkt 3D-drucken?
+Ich könnte doch das genauso drucken. Das ist richtig, aber druck ich ein zweites, dauert das genauso lang wie das erste, das dritte dauert wieder genauso lang.
+Und das heißt, wenn ich 5 Millionen von den Dingern machen muss, habe ich 5 mal genau die Zeit.
+Spritzguss, nämlich das, was ich jetzt hier als Werkzeug habe, heißt nicht, so ein Handyteil wird vielleicht 2 Stunden dauern, Spritzguss 0,2 Sekunden.
+Das ist extrem schnell dieser Prozess.
+Das heißt, alles was dieses Direktherstellen angeht, da müssen wir sehr wohl wegen Kosten und Stückzahl hingucken, ob nicht andere Fertigungsverfahren das viel besser machen.
+Man redet davon, dass man da irgendwie schneller wird, aber jeder dieser 3D-Drucktechniken hat genau das Problem, dass sie eigentlich viel zu langsam sind, wenn es um viele Stück zahlt.
+aber ich habe natürlich nicht nur negative sachen sondern jetzt hier das teil noch mal was ist das
+kinder spielzeug oder karten spielzeug oder sowas wo man ja es sind drei bälle
+quasi ineinander sind wie würden sie das teil herstellen jetzt reden wir nur von
+von, doch, jetzt rede ich von, ah, das läuft ganz gut, Katzen gibt es jede Menge, ich würde
+5 Millionen Teile im Jahr damit machen. Anders denken Sie. Ja, das Erste, wir haben ja 3D-Technik,
+ich könnte jetzt Schicht für Schicht für Schicht. Das Schöne ist, was wäre denn jetzt,
+wenn diese drei Bälle sind, die Draufsicht in der Mitte? Wenn Sie mal von oben drauf
+gucken, was sehen Sie? Drei Dinge. Weil wir eben jedes 3D-Bauteil uns auch als Menschen
+einfach in Schichten gedacht zweidimensional darstellen können. Und das ist nochmal der
+Clou am 3D-Druck, dass es keine 3D-Technik eigentlich ist, sondern eine aufeinandergestapelte
+2D-Technik. Und deswegen kriege ich alles und jedes zweidimensional dargestellt und
+damit auch immer hergestellt. Und das macht ja erstmal hier bei so einem Teil erstmal echte
+Probleme. Gibt es irgendein anderes Verfahren außer 3D-Book, was sowas herstellen kann?
+Wie kann man das herstellen?
+Man könnte immer zwei Hälften aufeinander kleben und die davor beispielsweise mit Spritzwurst
+machen.
+Das ist natürlich die Königslösung.
+Das hat man so zugedeckt.
+Richtig.
+Das heißt, ich könnte jetzt bei 5 Millionen Teilen 10 Millionen Hälften mal 3, also 30 Millionen Teile gießen, mit einem Spritzguss.
+Je nachdem, vielleicht will ich das Teil ja auch gar nicht aus Plastik oder aus Kunststoff haben, sondern eben aus Metall.
+Wäre jetzt genauso möglich, dann müsste ich eben nicht kleben, sondern schweißen, wenn das eben Sinn hat wäre.
+Das heißt, aus Hälften hergestellt, würde es funktionieren.
+Ich brauche eine gewisse Zeit, um so einen Prozess für meine Fräse oder meinen Wieskörper
+herzustellen.
+Was schätzt du denn, was eine Wurstform, wie lange die dauert zum Herstellen?
+Wenn wir jetzt mal größere Bauteile vielleicht auch im Auge haben.
+Ja, ich werde nicht dranbleiben, aber wenn Sie sowas bestellen, können Sie auch mal mit Monaten rechnen bei sowas.
+Also wenn Sie sagen, ich brauche jetzt eine Kussform, die muss so und so aussehen, die muss so und so lange halten,
+die muss dann aus Metall sein, nicht aus Kunststoff.
+Aus Kunststoff haben Sie natürlich recht, aber wenn das jetzt eine echte Metallform wäre,
+Dann dauert das eben, bis Sie so etwas tatsächlich bekommen.
+Das heißt...
+Haben Sie das Zeichen gesehen?
+Ja.
+Ich möchte es nur wieder einklepsen, damit es nicht runterfällt.
+Genau.
+Also.
+Das sind jetzt Möglichkeiten.
+Gibt es noch eine Möglichkeit, wenn wir schon dabei sind?
+Jetzt haben wir zwei Hälften, das wäre eine Möglichkeit.
+Ja, gibt es noch etwas anderes?
+Ja, vielleicht die Möglichkeit, 3D-Druckverfahren, wo man den restlichen Bauraum, wo es innen
+drin hohl ist, mit irgendwas anderem ausfüllt und dann immer bloß die Schicht, wo man will,
+aufträgt?
+Richtig.
+Das nennt sich Pulver.
+Das heißt, wir nehmen das Ganze in Pulverschichten und tragen immer auf den Schichten.
+Genau.
+Richtig.
+So ist es tatsächlich auch hergestellt.
+So, nämlich, wenn ich jetzt mit einem Zusatzdraht zum Beispiel das Ganze mache,
+dann haben Sie nämlich recht, irgendwann fällt mir das vielleicht darunter,
+weil ich ja quasi keine Unterlage habe an der Stelle.
+Gucken wir uns aber auch gleich nochmal an, was man dagegen tun kann.
+Aber jetzt nochmal ein konventionelles Verfahren.
+Es gibt noch zwei weitere Möglichkeiten, das herzustellen, das Teil.
+Tatsächlich direkt gießen.
+Das heißt, ich könnte mir schon vorstellen, dass man jetzt hier ein Werkzeug kreiert.
+Gut, das nennt man verlorene Formen.
+Also ich müsste quasi hier innen drin wieder einen fleischigen Pulver haben,
+dass das Ganze quasi als Abstandshalter geht.
+Weil das Problem ist, man bekommt ja keinen Kern raus.
+Genau, und deswegen muss das ein Kern sein, den ich zerstören kann.
+Das heißt, erstmal ist der fest, der ist vielleicht auch zusammengebacken.
+Und wenn das Ganze dann eben, sage ich mal, fertig ist, erstarrt ist,
+ja, dann schüttel ich den kaputt und dann rieselt der irgendwie aus den Löchern raus.
+Ja, das heißt, ich muss natürlich auch irgendwelche, bei so einem Teil echt extrem filigran,
+wahrscheinlich auch viel zu aufwendig, aber theoretisch machbar,
+dass ich dann eben von einer zur nächsten Kugel das Material auch mit sogenannten Steigern,
+also das heißt, da müssen entsprechende Zugänge sein, dass dieses flüssige Material auch hinkommt.
+So, aber was wäre die dritte Methode? Nicht weniger aufwendig tatsächlich.
+Mechanisch.
+Ja, Sie haben einen Klotz, dann fangen Sie an, ein Loch zu bohren
+und versuchen über das Loch mechanisch irgendwelche Sachen zu machen.
+Das kann man sich gar nicht vorstellen.
+Tatsächlich habe ich sowas schon mal gesehen.
+im asiatischen Bereich
+gibt es sowas mit Elfenbein
+da wird tatsächlich
+da sitzen Menschen, die eben
+mit einem kleinen Werkzeug
+mit einem kleinen
+Schlechtbeitel letztlich
+das in mühevoller Tagelage
+an Kleinarbeit eben hinbekommen
+also
+ich könnte mir das auch auf so einer Fräse
+vorstellen, die dann eben
+spezielle Programme hat, aber Gießen
+und Fräsen
+sagen wir, machen wir uns nichts vor
+theoretisch machbar
+aber nicht Sinn des Erfinders
+an der Stelle
+so, heißt
+haben wir also nur die Möglichkeit
+entweder direkt zu
+ja, mit einem additiven Fertigung
+was zu machen oder den eben
+über mehrere Teile das Ganze eben
+zu realisieren
+ok
+So, das heißt, alternativ, konventionell, aber nur wenn das eben zu aufwendig ist, steht da oben,
+dann eben überhaupt nicht herstellbar ist.
+Das ist natürlich ein guter Grund, ja.
+Weil ich habe ja gesagt, es gibt nichts, was ich 3D-technisch nicht herstellen kann.
+Aber nochmal dieses Paradoxum mit der Lieferzeit.
+Ein Teil ist relativ schnell im Vergleich zu konventionell, mehrere Teile dann aber irgendwann nicht mehr.
+Es gibt so gewisse Stückzahlszenarien, man sagt irgendwie, diese tausend sind schon Stückzahlszenarien im Kunststoffbereich.
+Kunststoffbereich, geringe Temperaturen, schnelle Umsetzung letztlich damit, in Anführungszeichen.
+Im Metallbereich schafft man diese Teile für tausend gar nicht.
+Viel zu teuer.
+Und dann muss ich mir eben das passende
+Verfahren auch dazu angucken.
+Gut.
+Gehen wir so mal durch.
+Also hatte ich das beim
+Praktikum gar nicht gezeigt,
+oder?
+So.
+Weiterer Aspekt,
+den man hier an diesen beiden
+Bauteilen sehr gut sieht.
+Schon wieder ein Spielzeug, ne?
+Das ist so ein Drehteil, wo man so gegeneinander arbeitet.
+Kennen Sie das Beispiel schon?
+Ja.
+Gut, dann halten Sie sich jetzt mal raus bei der Diskussion.
+Erstmal, wenn Sie das, oder wissen Sie das Ergebnis schon noch?
+Ich habe eine Idee, ja.
+Eine Idee, okay.
+Also, was haben wir jetzt hier?
+Sie schauen sich jetzt bitte mal diese beiden Bauteile an und sagen mir,
+die sind aus der gleichen Charge, also nacheinander hergestellt.
+Und ob Sie da irgendwas sehen, was irgendwie anders ist zwischen diesen beiden Bauteilen.
+Weil das ist natürlich in der Technik immer so ein Thema.
+Je nach Ansprüche wollen wir natürlich gleich die andere Qualität.
+Wenn wir schon tausend Teile herstellen, soll nicht eins anders aussehen als das andere.
+Und das könnte vielleicht beim 3D-Druck auch noch ein Thema sein.
+Gehen wir aber erstmal, bevor wir das Beispiel angehen, prinzipiell was an.
+Wir haben entsprechende flüssige Formen.
+Das wäre das Ganze mit der Stereolithographie.
+Wir hätten Folien und Platten.
+Was könnte das sein?
+Das ist ein 3D-Bauteil.
+Können Sie mir sagen, wie der Werkstoff das ist?
+Keine Ahnung. Holz?
+Ja, klar.
+Was hat Holz mit 3D-Druck zu tun? Können Sie sich vorstellen, wie ich 3D-Druck im Holz mache?
+Verkleben. Ja, das ist eine Methode, richtig.
+Ist aber hier nicht so gemacht.
+Sondern hier hat man tatsächlich Laminat, also dünne Holzplatten genommen und hat die aufeinander geklebt.
+Und wenn ich das geklebt habe, das ist ein bisschen einfacher jetzt als Bauteil,
+dann kommt ein Leder und schneidet mir jeweils diese Platte wieder aus.
+sodass ich auch schräge Konturen machen könnte, weil Platte für Platte für Platte jedes Mal wieder neu ausgeschnitten wird.
+Aber nichts anderes als mit Holzleim einfach die Dinger, und so ist das Teil auch entstanden, aufeinander gekippt.
+Bisschen wenig spektakulär, aber wäre auch eine Möglichkeit 3D-Zug zu machen.
+Und das ist eben auch mit Folien und Platten gemeint.
+Allerdings die weit verbreitetsten sind tatsächlich die Pulverform oder eben die Drahtform.
+Das sind die beiden meistgenutzten 3D-Techniken.
+Die müssen wir uns natürlich auch nochmal speziell anschauen.
+Aber das Grundprinzip ist immer gleich.
+Sie setzen sich irgendwie an die CAD oder sie scannen irgendein Bauteil, sodass sie 3D-Daten ermitteln.
+Dann werden die über ein spezielles Programm letztlich in zwei D-Schichten aufgeteilt und diese Daten, die gebe ich dann an mein beliebiges System, die dann eben genau diese erzeugten Schichten hier mit dem Laser, mit was auch immer für einem System, wieder aufeinandertreffen.
+und dann ein reales Bauteil aus dem entsprechenden Konstruierten zu bekommen.
+Und das ist eben ein Klassiker, auch für zu Hause, im Bereich, das fängt schon teilweise bei 100 Euro an,
+wenn Sie bei Alibaba sowas kaufen, ein paar hundert Euro mehr bei Mediamarkt.
+Einfach so Systeme, die nichts anderes machen, wie ein Kunststoffdraht, wie bei einer Heißklebepistole, in einer entsprechenden Düse aufzuschmelzen, diesen Kunststoffdraht aufzubringen und den erstarrt er eben an der Luft.
+und dann kann ich mit diesem Kopf, der sich x, y und z bewegt,
+ne, der Kopf bewegt sich in der Regel nur x, y, weil die z-Achse für das Bauteil gemacht wird.
+Das heißt, wenn jetzt dieser Kreis gefahren ist, fährt er um genau die Dicke des Drahtes nach unten.
+Weil dieses Teil bewegt sich nicht weiter und der kann ich den nächsten setzen, den nächsten setzen und den nächsten setzen.
+Konkret heißt das Sprangablageverfahren, aber Fusion Deposition Molding, das ist eben auch so ein verdeutschter Begriff aus dem Englischen.
+Ein weiteres Beispiel wäre eben diese Injektortechnik.
+Da kommt Ihnen vielleicht noch bekannt vor, wenn Sie so einen Tintenstrahldrucker noch kennen.
+Da hat man letztlich unterschiedliche Farbpatronen gehabt und hat die eben je nach Ansteuerung dann eben aufgebracht.
+Hallo.
+So, hier ist es flüssiger Kunststoff in unterschiedlichen Farben.
+Und dann kommt hinten drauf gleich eine UV-Lampe.
+Das war wie beim Kleben auch mit diesen Zahnimplantatsgeschichten oder wenn Sie da eine Füllung bekommen, ist genau das gleiche Prinzip.
+Das ist ein vergleichbarer Kunststoff, der eben UV-aushärtend ist.
+Und dann wird eben jede Schicht für sich direkt nach dem Auftragen, also noch flüssig und über die UV-Lampe eben ausgehärtet.
+und so können dann eben auch bunte Sachen gemacht werden. Das ist ein Lager. Auch wieder noch ein Beispiel für, dass es eigentlich so in dem Sinne nicht herstellbar ist,
+weil irgendwie sind die Kugeln ja da drin und ich habe jetzt eigentlich auch keine Öffnung, wie man es beim normalen Lager hat, dass ich jetzt irgendwie mit dem Federring hier drankomme.
+das habe ich ja alles nicht, also könnte ich das so gar nicht herstellen. Aber 3D-Druck,
+gar kein Problem, Schicht für Schicht für Schicht. Und, wenn ich eben will, auch in anderen Farben.
+So, wir hatten gerade über das Gießen geredet und tatsächlich gibt es im Allgäu,
+Wir haben im erweiterten Allgäu drei Firmen, die machen nichts anderes, wie Gießkerne herzustellen oder Maschinen dazu herzustellen.
+Also Gießkerne war ja das Pulver, was sie irgendwie zusammenbacken, also sintern, damit sie irgendeinen Hohlraum damit füllen können,
+den sie nachher durch Zerschlagen des Gießkerns wieder aufmachen können.
+Wie stelle ich die Sachen heutzutage her? Das wird so relativ aufwendig letztlich gemacht,
+dass Wachs jetzt in so einer Form eingemengt wird und das Ganze verklebt wird.
+Warum nicht gleich einfach einen kleinen Dampfkasten zu haben, eine entsprechende
+Düse, die kann jetzt zum Beispiel auch bis zu 30, 40 kleine Düsen, wo Klebstoff rauskommt.
+Und dieser Klebstoff macht jetzt wieder nichts anderes,
+dass er ihr Pulver an ein paar Stellen einfach miteinander verklebt.
+Dann entsteht Schichtfisch, dann kommt wieder die neue Schicht,
+dann wird hier wieder drüber geweizt,
+entstehen wieder ein paar Zehntel Kornschicht oben drüber,
+dann kommt der Klebstoff wieder und backt das letztlich zusammen.
+So was, das ist ja letztendlich eine Art so ein Lager.
+So ein Lager aus Metall wird ja nicht mit 3D gedruckt hergestellt, oder?
+Normalerweise nicht.
+Wie wird das gemacht?
+Sie stellen die Kugeln her, Sie stellen Innen- und Außenring her und Sie haben eben die
+Möglichkeit, dass Sie von einer Seite alles einbauen und dann kommt eben das Gegenlager
+und dann kommt ein Federring.
+Das heißt, Sie fügen quasi reversibel das zu.
+Wenn ich das mal zeigen darf.
+Also ich muss diese zweite Ecke dann...
+Also diese zweite Ecke, das Außen, das ist letztlich ein Innenring.
+Den schieben Sie rein und dann wird der Federring, sagt Ihnen was?
+Ja, das ist letztlich so ein Ring, der aber hier offen ist, den Sie zusammenziehen können, einsetzen können.
+Und dann federt der auseinander und dann verklemmt der quasi diesen Außenring miteinander.
+sodass, wenn Sie den wieder öffnen, dann machen Sie diese Scheibe weg und dann
+kommen Sie wieder an die Kugeln rein. Jedes Kugellager ist eigentlich immer
+einseitig gestückt und von einer Seite zugemacht.
+Okay, einfach auch dann drauf gesteckt, dass es dann nicht wieder einhakt.
+So, wo sind meine roten Teile? Da sind sie.
+Unterbrechen wir das Ganze mal mit den Verfahren.
+Welche Unterschiede haben Sie festgestellt?
+Was sagt Ihr analytisches Auge dazu?
+Das eine ist mit mehr Material gedruckt worden als das andere mit weniger.
+Echt? Wie haben Sie das rausgekriegt?
+Weil das eine komplett dicht ist.
+Also ziemlich zu und viel filigraner.
+Und das andere hat größere Abstände.
+Ach so, darauf beziehungsweise. Okay, gut. Ja, haben Sie recht. Also hier auf der Rückseite sieht man das ein bisschen. Das scheint irgendwie weniger dicht gedruckt zu sein. Ja, mag sein.
+Jetzt mal eine Frage an Sie. Spielt das für das Spielzeug irgendeine Rolle?
+Ja, die Festigkeit.
+Ja, gut, ob das jetzt tatsächlich maßgeblich anders ist, ich könnte ja auch sagen, dass vielleicht hier an der Stelle nur die letzte Schicht das bisschen verschwimmt und innen drinne trotzdem diese porösere Ausbringung ist.
+Also Rässigkeit wäre dann vielleicht gar nicht das Thema. Ist vielleicht für das Spielzeug auch irrelevant, weil gut, ich kriege es ja eher an diesen Stellen kaputt, die verbinden.
+Ja, tatsächlich. Gebe ich auch gleich noch ein Bauteil rüber. Natürlich kann ich über
+entsprechende Strukturen quasi einen Leichtbau betreiben. Ich will in der Regel ja nicht den
+Kunststoff eigentlich sparen, das bringt mir nicht viel, aber die Zeit, den Kunststoff aufzutragen,
+kann ich sparen, indem ich so eine filigranere Struktur erhebe. Das ist viel wichtiger dabei.
+So, aber jetzt kommen wir zu meinem Spielzeug. Ich baue jetzt mal für das Spielzeug Spielzeug ein.
+Wenn ich jetzt aber von dem Spielzeug extrapoliere in Richtung das Ganze ist Ihre neue Herzklappe,
+dann sieht die Sache schon anders aus. Dann ist plötzlich von einem Spielzeug die Funktion lebenswichtiges Bauteil.
+Da hängt jetzt das Menschenleben dran.
+Und wenn ich dann nach oben drauf sage, die Funktion von diesem Bauteil ist jetzt nicht dieses Geklappere hier,
+sondern die Funktion ist, jetzt verzeihen Sie mir dieses Beispiel,
+aber dass hier oben zwischen diesen Buchstaben ihr Blutfluss da auf der Blutklappe, was auch immer,
+aber Sie wissen, was ich meine, dass da irgendwas fließen muss.
+So, und jetzt schauen Sie bitte noch mal unter den Gegebenheiten, dass zwischen diesen Buchstaben gut fließen muss, das Bauteil.
+Gibt es jetzt einen Unterschied, den Sie sehen?
+Ja, links ist solches C und A zusammengebrochen.
+Genau. So, was heißt das nämlich konkret?
+Dass jetzt an diesem Bauteil hier diese Verbindung da ist, unabsichtlich da ist, das sieht man auch so ein bisschen.
+Da ist einfach, das ist ein Sprachablageverfahren, da ist der Draht einfach ein bisschen geschmiert.
+So, und das heißt, da gibt es die Verbindung und das heißt, die Funktion ist 0,0.
+Das heißt, wenn Sie die Herzklappe jetzt einbauen, dann sind Sie in diesem Problem.
+Und das soll für Sie einfach mal das Beispiel dafür sein.
+Und das ist auch an der 3D-Drucktechnik, wenn die Anforderungen extrem werden.
+Und das wäre auch genauso ein Flugzeugbauer. Alle Flugzeugbauer machen 3D-Druck, aber keiner baut Bauteile der Klasse 1 ein.
+Was heißt Klasse 1? Das Flugzeug stürzt ab, wenn das Teil kaputt geht oder seine Funktion nicht funktioniert.
+Sondern 2, 3, das gibt es alles. Bei allen anderen Sachen machen die das auch, aber die machen das eben nur, wenn die redundante Systeme haben.
+haben. Das heißt, dann darf schon mal eins ausfallen,
+dann geht es immer noch.
+Wir wissen, was sich hinausführt.
+Wenn es rein technisch gesehen
+das Menschenleben dran hängt,
+dann gibt es einfach
+eine zu große Restwahrscheinlichkeit,
+ob das jetzt Korrositäten
+oder Anbindeschwächen sind oder solche
+Geschichten, die beim 3D-Druck
+einfach passieren können.
+Und das passiert über alle Verfahren.
+Und das sind
+die Forschungsaktivitäten, die man heute hat,
+damit man
+letztlich unter dem Druck
+feststellen kann, wie gut ist
+die Qualität und wie gut
+kann ich es nachher auch tatsächlich einsetzen.
+Weil so ein Airbus oder
+sowas am Fahrwerk, irgendein Bauteil,
+die werden das nur einsetzen, wenn sie 100%
+sicher sind, dass es auch funktioniert.
+So.
+Und hier werden wir nochmal, wir wollen wieder zurück zu
+unserem Verfahren, das ist
+die Stereolithographie, müssen Sie sich vorstellen,
+in diesem großen Aquarium mit flüssigem Kunststoff,
+dann kommt jetzt hier in dem Fall ein Laser
+und macht auf der Oberfläche,
+härtet er den Kunststoff aus.
+Und jetzt sinkt quasi dieses gehärtete Bauteil
+dann im Kunststoff weiter ab.
+Ist ja nicht warm oder heiß,
+sondern ist einfach nur flüssig,
+dieser Kunststoff an dieser Stelle.
+Und das heißt wiederum,
+die nächste Schicht entspattet quasi die Wette wieder drüber
+und egalisiert das Ganze wieder
+und dann kommt der nächste Leser
+und macht wiederum
+die nächste Schicht.
+Und ein bisschen analog dazu,
+und das ist wiederum das zweite
+mit dem System ist,
+das Ganze in Pulver zu machen.
+Und Pulver hat jetzt eben
+die Eigenschaften, dass ich hier an der Stelle
+ein gewisses
+Pulverkorn habe mit einer gewissen Dicke.
+Dann verbinde ich
+die nicht durch Kleben,
+sondern eben durch Zusammenschweißen miteinander.
+Dann fährt er wieder um den Zehntel runter,
+dann kommt die Rolle und schiebt wieder eine Pulverschicht oben rüber
+und dann wird diese Pulverschicht wieder miteinander verbunden.
+Und hat eben die Eigenschaft und den super Vorteil
+gegenüber dem Strangablageverfahren,
+dass sich Material an der Stelle eben entsprechend, das ist auch sowas, aus Pulver hergestellt.
+Was ist das für ein Bauteil?
+Das ist ein Hüftgelenk.
+Das gehört da rein letztlich, ja.
+Es ist quasi die Rohausführung, hier innen drin wird das noch ausgeschliffen und dann kann hier der Gegenknochen rein.
+Und hier oben wird es dann irgendwie im Ohr und im Knochen fixiert.
+Ein spannendes Bauteil, aber hier sieht man so ein bisschen auch die Oberfläche, weil wenn ich jetzt Körner miteinander verschweiße,
+dann entsteht letztlich, wenn ich mal andersrum jetzt sehe, wenn ich die in der Luft hängen würde, dann fällt das ja da runter.
+Wenn ich aber Pulver hier unten liegen habe, was nicht verschweißt ist, dann passiert nichts weiter.
+Das heißt, Überhänge, solche Sachen können im Pulver wunderbar hergestellt werden.
+Im Stangablageverfahren, bei solchen Sachen, ja, dann muss ich mir irgendwie Hilfsstrukturen schaffen.
+Das heißt, das ist in den meisten Programmen, auch von den günstigen Systemen, einfach schon mit dabei.
+Der weiß, okay, gleich kommt so ein Überhang und dann druckt er Ihnen da unten drunter quasi so eine Hilfsstruktur,
+die Sie nachher einfach wieder abbrechen.
+Die ist auch sehr porös und nicht so wahnsinnig fein, aber so eben konstruiert, dass das Ganze eben da nicht wechseln kann.
+Hier, bei Pulver, ist es mit dabei.
+Jetzt doch hier nochmal meine Gleichbausystematik.
+Sie sehen, diese Wabenstruktur, das macht eben auch eine gewisse Festigkeit aus.
+Was sehen Sie hier noch an dem Bauteil?
+Ich packe Sie nochmal was anderes.
+Sie können sich vorstellen, hier kann ich zwei Schrauben reinmachen,
+hier unten kann ich die Garab wieder setzen,
+jetzt gebe ich Ihnen so ein Tragegeschirr,
+ja, und jetzt hänge ich Sie an das Bauteil dran.
+Würden Sie das machen?
+Würden Sie sich an dieses Bauteil, diesen Kunststoffteil, würden Sie sich da dran hängen?
+Warum nicht?
+Kommt auch an, was die Alternative ist.
+Ja, okay.
+Aber es kann schon funktionieren.
+Gut.
+Und wann machen Sie das fest, ob es funktioniert?
+Ich kann mir schon vorstellen, dass es
+zugmäßig hält, aber
+die Schwachstelle ist ja die
+kleine
+Distanz zwischen dem Loch und der
+Da würde es wahrscheinlich am ehesten brechen.
+Würden Sie sagen, dass Kunststoff Sie hält?
+8 mm vielleicht. Also ich hätte da Ruhebedenken.
+Ja, Ruhebedenken hätte ich auch. Deswegen habe ich gesagt, kommt darauf an, was die Alternative ist.
+Gut. Deswegen ist das Bauteil auch ein bisschen anders
+gebaut. Und zwar, was Sie hier sehen, ist gar kein Kunststoff, das schwarze, sondern das ist eine Kohlefaser mit über 1000 Newton pro Millimeter Quadrat.
+Das heißt, wenn Sie das jetzt hier, das ist ein Quadrat, ein halber Quadratzentimeter, da können Sie, können wir uns alle mit dranhängen,
+letztlich an die Stelle. Die Konstruktion ist eben als Kombination zwischen dieser Kohlefaser
+und Grundstoff hochfest. Wie sieht's aus? Können Sie sich jetzt dranhängen. Also eine hält sich schon,
+Eine von den Fasern, und da sind ein paar hundert drin, so ein bisschen Konstruktionslehre oder Leichtbaulehre, Kohlefaser kann nur eine Sache überhaupt nicht leiden, auf Zug völlig richtig.
+Also hier die Schenkel, die kriegen Sie nicht kaputt, wenn Sie dranhängen.
+Aber jetzt hier in die Kurve, da ist das ganz auf Klingung belastet und deswegen wird es nicht funktionieren.
+Das heißt, da kann die gegebenenfalls auch an der Stelle kaputt gehen.
+Das ist auch nur ein Dummy-Beispiel, hier sollte sich auch keiner dranhängen, aber das wollte ich Ihnen einfach nur zeigen.
+Es gibt schon Möglichkeiten, wenn man das konstruktiv sinnvoll gestaltet und eben Drucker hat,
+Der beide, wir haben hier an der Hochschule einen, der kann eben auch Kohlefaser.
+Wie kann ich überhaupt Kohlefaser drucken?
+Kohlefaser ist ja was total Sprödes, da kann ich nichts drucken.
+Die Kohlefaser, die ist mit einem Kunststoffmantel versehen.
+Und diesen Kunststoffmantel, den klebe ich einen auf den anderen auf.
+Können Sie sich das vorstellen?
+Also diese feinen, vielleicht 0,1 mm dicken Drähte haben nochmal fast einen Millimeter Kunststoffumwicklung und die schmelzen sich auch.
+Die gehen genauso durch so eine Düse durch, nur dass natürlich in der Mitte die Kohlefaser unbeeinflusst bleibt,
+Aber links und rechts die Umhüllung auch geschmolzen wird und dann wird das im Wahnsinn des Wortes einfach obendrauf gelegt.
+Eine Schicht auf die nächste.
+Und die Kunststoffe verbinden sich miteinander.
+Aber in diese Richtung klappt es ja auch gar nicht mit der Festigkeit, es klappt ja nur in längsrichtigen.
+Und dann stehen quasi jede Menge dieser Kohlefasern in Zugrichtungen.
+So, was haben wir noch? Ja, es gibt noch jede Menge Untergruppen. So was wäre, das Pulver nicht im Bett zu haben, sondern das Pulver direkt quasi proaxial zu einem Lederspray in einem Fokus zu setzen.
+Die Firma Deckel Maro und Fronten macht sowas.
+Die sind spezialisiert auf genau solche Maschinen, die natürlich flexibler sind, aber auch hier habe ich natürlich wieder das Problem,
+wenn ich jetzt hier irgendwie über eine Kante drucken will, funktioniert das nicht.
+Da brauche ich wieder irgendwelche Stützstrukturen, damit das Pulver nicht einfach unterfällt.
+Oder der Elektronenstrahl
+Mein Hüftgelenk ist ein elektronenstrahlgedrucktes Bauteil
+Das ist tatsächlich noch ein bisschen komplexer
+Weil ich kann mit dem Elektronenstrahl nicht einfach draufhalten
+Sondern ich muss vorher die tatsächlichen Pulverkörner miteinander verheften
+Die werden erst ganz leicht geschweißt
+Und erst dann werden sie auf voller Dicke des Korns geschweißt
+Deswegen ist das Teil auch ein bisschen rauer.
+Ich gebe Ihnen mal einen Vergleich.
+So ein kleines Spielzeug.
+Aber daran sieht man, wie filigran man das mit dem Laser hinkriegt.
+Und fühlen Sie einfach mal über die Oberfläche.
+Das ist jetzt ein Metallteil, was jetzt im Vergleich zu meinem Wirftgelenk
+deutlich höhere Oberflächigkeit gegeben hat.
+Und jetzt wird ganz grob, er hat noch über Schutzgasspeisen geredet, könnt ihr euch noch erinnern?
+Das kann ich auch zum 3D-Druck nehmen. Ich kann ein Unterpulverspeisen zum 3D-Druck nehmen.
+Ich kann eigentlich fast alle Schweißverfahren auch als 3D-Druck verkaufen.
+Und das Produktivste ist tatsächlich das.
+Warum? Weil es günstig ist, weil es einigermaßen schnell, also viel Material ausbringen kann.
+Und in Kombination mit einer Fräse, und da zeige ich Ihnen jetzt ein weiteres Beispiel,
+das haben wir hier an der Hochschule selber gemacht, das ist das Verfahren.
+Ein Reibplatzschweißen. Das Reibplatzschweißen von mir im Labor haben Sie gesehen.
+Okay, ein Reibnahtschweißen ist nichts anderes als eine Schleifung.
+Hier, also ich habe einen Stift, der kommt auf die Oberfläche, dann drehe ich den ganz schnell und drücke ihn gleichzeitig drauf.
+Was passiert? Material wird eben aus dem Stift auf das Bauteil aufgeschweißt.
+Dummerweise sieht man jetzt hier, es geht auch jede Menge Material verloren, indem es einfach zu den Seiten ausweicht
+Aber Sie müssen sich das jetzt so vorstellen, ich komme hier runter, dann fahre ich im Kreis
+Dann fahre ich wieder im Kreis, wieder im Kreis und so entsteht Schicht für Schicht für Schicht zum Bauch
+Und der Clou ist jetzt, weil das eine Drehbewegung ist, ist es nichts anderes wie eine Fräsmaschine, die das Bauteil hält
+Jetzt tue ich das raus, gebe ihm einen Fräser, der gleiche Maschine, und dann kommt die mit dem Fräser und fräst das Bauteil, was ja eine sehr grobe Oberfläche hat.
+Aber, weil ich ja sowieso in der gleichen Maschine unterwegs bin, kann ich plötzlich zum Bauteil auch entstehen lassen.
+Wenn Sie sowas versuchen aus Pulver zu machen, in der Größenordnung, wie man sie hat, dauert das acht Stunden.
+wir haben das mit diesem Verfahren
+inklusive Fräsen unter einer Stunde
+extrem schnell
+weil viel Material
+also schon eine Idee
+eine Lösung in diese Richtung
+schnell
+Konturen entstehen lassen zu können
+da kann ich halt jetzt Metall mit machen
+Also diese Kunststoffgeschichte ist zwar lieb und nett, aber der Konstruktionswerkstoff, Kunststoff, hat natürlich bei Weitem nicht die Funktion und die Verbreitung der Metalle.
+Deswegen arbeiten eigentlich alle dran, Metalle irgendwie kostengünstiger herzunehmen.
+das sind eben genau diese Entwicklungsmöglichkeiten
+irgendein Verfahren herzunehmen, was es noch nicht gibt
+sich irgendwie Gedanken zu machen
+Kümmergrob hat letztes Jahr erst wieder einen neuen rausgebracht
+in dem sie gießtechnisch
+über Induktion wird einfach Aluminium aufgeschmolzen
+die haben unter einer Fräsmaschine nichts anderes
+als einen kleinen Schmelztopf gebaut
+und mit diesem Schmelztopf fahren die dann eben über das Bauteil
+und lassen unten das Material rausgießen
+Und gefühlt kommen alle Wochen quasi irgendwelche neuen 3D-Drucktechniken auf den Markt, viele
+verschwinden auch wieder, weil sie dann doch nicht so funktionieren, wie man sich das vorstellt,
+aber einige schon und man ist eben dabei, einfach schneller mehr Material ausbringen
+zu wollen.
+Bei der Technik, die Sie jetzt da gerade im Nebensatz geschrieben haben, da wird gefräst oben und quasi der Abfall wird dann wieder bewertet oder was?
+Das sind zwei Stunden.
+War es eine Bruchweite?
+Da wird von vornherein einfach nicht ein Festkörper, sondern nur eine Schmelze gemacht.
+Die haben so einen kleinen Ofen quasi, der unter der Fräsmaschine hockt und der macht so ein Dasein von, was wird denn das sein?
+Du riechst das flüssige Metall unten raus. Und das tragen die dann eben Schicht für Schicht auf.
+Vielleicht kennen Sie auch Hausbau mit 3D-Druck.
+Ein großer Betonmischer kommt daher und dann wird quasi über einen Schlauch, der wiederum an so ein Portalsystem hängt,
+wird einfach flüssiger Beton.
+Der ist relativ zähflüssig, muss man sagen, sonst würde er einfach zur Seite weggehen.
+Das heißt, dieser zähflüssige Beton wird einfach Schicht für Schicht, wie so bei einem Blockhaus, müssen Sie sich das vorstellen,
+wo die eben eine Raupe auf die andere legen.
+Netter Gimmick, ich habe noch nicht so viele Häuser davon gesehen,
+aber der will auch Beton und so weiter, aber wäre auch eine Möglichkeit.
+So, also fassen wir es nochmal zusammen.
+Vorteil, konventionell, aufwendig oder nicht herstellbar, dann machen wir das.
+Deutlich schneller, aber nur eben, wenn die Stückzahl klein ist.
+Und natürlich sind all diese Maschinen automatisiert.
+Sie können das natürlich auch irgendwie manuell machen, aber das macht in der Regel nicht wirklich Sinn.
+Denken Sie daran, die Kosten für große Stückzahlen sind gemeint und diese Reproduzierbarkeit.
+Dafür soll Ihnen einfach diese Herzschlagge im Gedächtnis bleiben.
+Sie einfach wissen, die Wahrscheinlichkeiten, dass da irgendwas schief läuft, sind eben vorhanden.
+Das ist das Problem, das Resultat eine Begrenzung ist.
+Soweit das Thema.
+Haben Sie noch Fragen?
+So, was heißen Sie jetzt von 3D-Drucktechnik?
+War ich Ihnen zu skeptisch?
+Tatsächlich möchte ich bei Ihnen erreichen, dass Sie schon eine ingenieursmäßige Skepsis am Tag liegen.
+Dieses, es geht alles, wird vom Marketing-Abteilung gerne lanciert, ist aber bei weitem nicht standwärtig.
+Aber es gibt vieles und das muss man eben auch wieder wissen, dass eben viele Möglichkeiten bestehen.
+Kleine Maschinenbaubetriebe, Luft- und Raumfahrer, alle setzen heute auch auf 3D-Technik.
+Und es gibt so spezielle, Sie wissen ja, ich bin auch noch im Bereich Robotik unterwegs.
+Jeder Roboter, nicht nur Hersteller, sondern Nutzer, hat daneben auch noch irgendwelche 3D-Drucker,
+um mal eben schnell irgendwelche speziellen Greifer, irgendwelche Adaptionen an irgendwelche
+Bauteile, also in der Automatisierungstechnik spielt 3D als Bauteilherstellung eine Rolle.
+Warum? Weil es mehr oder weniger nichts anderes wie Tooling ist. Das heißt, kleine Stückzeilen
+man eben schnell hergebracht.
+Wenn Sie in so einem Fertigungsablauf sind
+und Sie haben einen Robotergreifer
+und der geht Ihnen kaputt
+und Sie bestellen den und drei Wochen
+später, ja, und dann haben Sie drei Wochen
+keine Produktion, das gibt doch nicht.
+Das heißt, auch als Vollweglösung
+haben ganz viele heute 3D-Drucktechniken,
+um mal schnell Ersatzteile
+irgendwo herzubringen.
+Damit eben Ihre
+eigene Fertigung nicht runterleitet.
+Und das sind
+private Mittel, das sind auch echte Einsatzbereiche.
+Nur eben
+der Traum von der
+Massenfertigung, der ist
+aus meiner Sicht noch in weiter Ferne.
+Da braucht
+Sie, Sie brauchen ein Start-up,
+Sie müssen einen Prozess entwickeln,
+der viel Material in ganz kurzer Zeit
+als 3D
+sehr flexibel aufbauen kann.
+Dann können wir darüber reden, ob wir
+kommissionelle Fertigungstechnik
+überhaupt noch benötigen.
+So, noch Fragen?
+Okay.
+So, haben Sie sich jetzt über Weihnachten Gedanken gemacht?
+Welche Fragen haben Sie denn jetzt noch zur Prüfung?
+Ja.
+Jetzt könnten Sie vielleicht mal die Stoffgrenzen noch kurz zusammenfassen.
+Ja, machen Sie.
+Wie viele Leute waren denn in der Vorlesung vor den Ferien?
+So, da waren viele da.
+So, also zusammengefasst, ich komme jetzt leider auch nicht auf meine Powerpoint-Sachen drauf,
+aber machen wir es einfach hier dran.
+Die Verfahren, die Sie kennengelernt haben, abzüglich der Verfahren, die ich letztes Mal rausgeschmissen habe,
+die haben wir jetzt gerade bekommen.
+Das war eine Chattypie, die hat nicht wirklich funktioniert.
+Achso, okay.
+Aber ich habe doch das letzte Mal rausgetan bei Ihnen.
+Vielen Dank.
+So, nee, dann können wir es brauchen.
+Fangen wir nochmal von vorne an.
+Also, das sind die Schwarzprozesse.
+Kommt gleich dazu, das Trennen mit dem Strahlen.
+Das lassen wir jetzt bei Ihnen mal komplett weg. Wer sich dafür interessiert, hat das im Skript.
+Ein Satz dazu. Das sind eben tatsächlich wieder bis auf das Wassersprachschneiden Schweißprozesse,
+die einfach auch als Trennprozesse gehen können. So, aber wie gesagt,
+denn werden es diese vier Punkte sein und natürlich als Schwerpunkt diese Schweißprozesse.
+Und da werde ich eben für Sie, welche Verfahren haben Sie letztlich kennengelernt, das schränke ich gleich nochmal ein, das ist diese entsprechende Liste, was ich auf alle Fälle von den übrig gebliebenen von Ihnen wissen will, wie funktioniert das Ganze und Sie sollten das jetzt nochmal dringend auch mal üben,
+jedes dieser Prozesse
+kurz zu beschreiben
+anhand von den wichtigsten Kriterien.
+Und einhergehend
+mit dieser Beschreibung ist eben auch
+das Wissen um die Anwendung.
+Und da gibt es auch nochmal die entsprechende
+Automobilkarosserie
+hat nämlich
+zwei Bestandteile, einmal die
+Branche und einmal das Bauteil.
+Wenn ich sie nach
+der Anwendung frage, reicht mir
+Karosserie nicht und auch Automobil
+nicht. Weil was für eine
+Karosserie ist es und so weiter.
+Das heißt, bitte geben Sie sich
+entsprechend Mühe, nicht nur
+irgendeine Begrifflichkeit hinzusetzen,
+sondern tatsächlich ein
+Bauteil
+im Auge zu haben und das auch anständig
+zu beschreiben.
+Um jetzt auch überhaupt
+Bauteile oder so Verfahren beschreiben zu können,
+ist es immer auch interessant,
+die Unterschiede zwischen den Verfahren
+zu wissen
+daher hilft Ihnen hoffentlich eben auch
+die, die im Labor waren
+sage ich mal
+die einfach was
+gesehen haben und da kann man es eben auch
+am besten umsetzen
+so und dann habe ich hier eben noch die
+Vor- und Nachteile
+wo sie sich letztlich dann eben
+ich habe hier mal so eine 2 dazu geschrieben
+jeweils dazu auch noch
+diese Vor- und Nachteile
+herleiten wollen.
+Alles basiert
+auf dem entsprechenden Grundverständnis
+dazu,
+diese Sachen zu machen.
+Und das nochmal
+hier oben.
+Setzen Sie sich in die Kneipe, drehen
+den Bierdeckel um und versuchen
+Ihren Kommilitonen ein Verfahren
+zu erklären.
+Dann sind Sie auf dem richtigen Weg.
+Was könnte das sein? Es könnte sein, welche Energiequelle ist es? Was wird da überhaupt umgesetzt?
+Welche Besonderheiten habe ich denn jetzt beim Werkstoff? Muss ich vielleicht auch die Bauteile
+übereinander legen oder kann ich sie auch so stoßen lassen? Wie sieht das in der Konstruktion
+letztlich aus. Und sowas können sie dann eben meinetwegen auch einfach zeichnen und beschriften
+oder sie geben da eben Prosa-Texte ab. Aber das Beste ist tatsächlich so eine Kombination, so eine
+kleine Skizze kombiniert eben mit ein paar Erklärungen dazu. Weil das würden sie jetzt
+auf dem Bierdeckel aufgenommen haben, um es zu erklären. So, und hier habe ich nochmal ein paar Anmerkungen dazu.
+So, und das könnte ich gerne nochmal fotografieren, die Seite.
+Da wäre in meinem Leben auch so eine typische Fragestellung.
+Vielen Dank.
+So, also nochmal oben, allgemeine Definitionen, was ist Spügen, was ist Schweißen, wo ist der Unterschied.
+Verfahren, wie gesagt, dann die entsprechenden Kriterien aufstellen und erklären können, gewisse Vergleiche, inklusive auch so ein bisschen Konstruktion, war ja bei jedem Verfahren mit dabei.
+Dann, wie gesagt, konkretere Aufgabenstellungen, wie kann ich was lösen, Löten, 3D-Druck, eben auch noch eine entsprechende Anwendung.
+Wann ist etwas interessant? Ich gebe Ihnen ein Bauteil und Sie machen daraus, ich druck es oder ich schweiß es doch.
+So etwas, was wir heute hier auch mit meiner Kugel gemacht haben.
+Das könnte so eine Fragestellung sein. Sie müssen das herstellen mit der und der Stückzahl, die machen.
+Da kommt dann auch schon die erste Wirtschaftlichkeit rein, weil ich werde die Unverschämtheit besetzen zu sagen,
+wie stellen Sie sowas wirtschaftlich her?
+Und da sollte eben nicht
+die 5 Millionen Teile mit
+das logisch alles 2D
+reinkommen.
+Wenn man
+nicht auf ein gutes Verfahren kommen würde,
+bei genau dem Teil, könnte man dann auch
+zum Beispiel, bevor man gar nichts hinschreibt,
+sagen, okay, zum Beispiel ein 3D-Druck ist es
+auf jeden Fall wegen der Stückzahl nicht, das und das ist es nicht,
+aber ich bin mir nicht ganz sicher, ob es das ist.
+Ja, auch sowas.
+Und auch hier noch mal ganz klar gesagt,
+wenn Sie aus welchen Gründen auch immer
+auf irgendwelche Ideen kommen,
+wie man es doch machen kann,
+schreiben Sie es hin.
+Ich mache mir in jedem Fall Mühe, das zu lesen.
+Ja, und wenn es was ist,
+was ich selber nicht kenne,
+werde ich das recherchieren
+und werde dann eben, wenn es richtig ist,
+auch natürlich
+das als richtig befinden.
+Ganz klar.
+Wenn ich aber in der Aufgabenstellung explizit sage, es geht ums Schweißen und Sie mir was vom Kleben erzählen,
+dann kann ich eben auch keine Musik hören, weil dann ist es einfach nicht richtig.
+Na, gut.
+So, und jetzt eben nochmal hier, und da könnte ich auch einfach ein Foto von machen,
+die Liste mit den Verfahren.
+Okay, und dann gibt es hier noch
+Erstmal das, das ist das, was Sie, ähm, das hatte ich freigeschaltet auf Moodle, ne?
+Das sind diese Fragestellungen, die gucken wir uns gleich nochmal an.
+Und diese Tabelle, die hatten wir ja auch diskutiert, die müssen wir uns jetzt auch nochmal fotografieren.
+Um das auch nochmal zu sagen, da geht es um Prozesse, da geht es um Befindlichkeiten.
+Von irgendwelchen Festigkeiten, die erreicht werden können, bis hin zu irgendwelchen Wirtschaftlichkeitsstufen.
+Es ist extrem schwierig jetzt in Detail drüber zu machen, deswegen habe ich mir auch bei der Bewertung hier nur drei Kriterien überlegt.
+Schlecht, gut, mittel.
+Es ist eine Definitionssache und ich würde Sie bitten, immer auch, wenn Sie sich bei so einer Sache unsicher sind,
+einfach nochmal drumherum zu beschreiben, warum Sie jetzt darauf kommen.
+Das ist ein bisschen analog zu dem, was ich gerade gesagt habe.
+Wenn Sie es nicht wissen, beschreiben Sie drumherum, was vielleicht auch Ihre Ideen letztlich dazu sind.
+Und wie gesagt, geht alles mit rein, solange es eben sinnvoll aufs Thema hinführt.
+Gut, haben Sie das auch?
+und dann gibt es eben hier noch mal das Beispiel
+zum Punktschweißen, wie gesagt
+so könnte das Ganze aussehen
+und hier haben wir eben genau das
+was mache ich mit den Blechen
+die muss als Überlapp sein
+dann muss ich Kraft aufbringen
+dann muss ich das Ganze noch mit Strom versehen
+und
+die Begründlichkeit, deswegen heißt das ja auch
+Widerstandspunktschweißen
+heißt eben der Widerstandsverwerf
+das ist eigentlich die eigentlich resultierende Energie
+und dann kann ich
+eben die beiden Flächen miteinander verbinden
+und hier
+diese Autokarosserie als Hauptanwendung
+aber
+wenn Sie das nicht als Bruder machen
+sondern eine Zeichnung machen
+hier habe ich den Überlappstoß, da habe ich die Kraft
+da habe ich meinen Strom
+da sind die Elektroden
+und wenn Sie sich unsicher sind
+aufgrund Ihrer
+zeichnerischen Künste
+geben Sie noch ein paar Erklärungen dazu
+dass es ein Überlapp sein soll
+und dass das Ganze entsprechend stromhaftet ist und entsprechend umgesetzt wird.
+Also meine Empfehlung gilt klar in so eine Richtung, so ein bisschen Skizze, ein bisschen Beschreiben.
+Damit kriegt man das am besten.
+Und hier eben nochmal das Thema, sehr viel wird in diese Richtung, was ich hier in meiner Podium propagiert habe.
+Ich will sie enttüchtigen und da sollen sie jetzt einfach nochmal zu üben, Aufgabenstellungen zu verstehen und Lösungsansätze zu bilden.
+Das ist alles. Da hilft Ihnen natürlich, wenn Sie vorher wissen, wie die Dinger funktionieren,
+wie die Anwendungsbeispiele sind. Wenn ich Ihnen ein anderes Anwendungsbeispiel nenne,
+dann können Sie extrapolieren und sagen, geht oder geht nicht. Und tragen das dann letztlich so.
+Ja, hier ist nochmal diese eine Aufgabenstellung mit Kleben. Beim 3D-Druck, den wir ja heute hatten,
+Funktionen,
+ein gewisses Quantenverfahren auch
+und
+wann und wozu setzt man
+die tatsächlich ein.
+Gut, ja.
+Diese fünfte Vorlesung
+haben Sie nicht mehr geschafft,
+oder die Automatik?
+Das kenne ich nicht.
+Alle fünf schon,
+Also das heißt, alle die Befertigungen haben wir ja gemacht.
+Das sind ja beides dann in dem Skript drin.
+Automatisierungs-Skript meine ich.
+Achso, das Automatisierungs-Skript.
+Gut, das haben wir gerade nur im Praktischen da gemacht,
+dass wir mal die Roboter gesehen haben.
+Aber das ist jetzt nicht für die Klausuren groß.
+Auch nicht für die Klausuren.
+Also quasi alles ab der letzten Folie heute,
+weiter nach hinten, ist nicht mehr relevant.
+Alles, nur alles, was wir an der Produktion hatten, kann ich auch erfüllen, klar.
+Noch Fragen?
+Ja?
+Einige Tipps für additive Aufgaben.
+Okay.
+Versuchen Sie mal, sich ein Lieblingsverfahren zu überlegen, was Sie vielleicht auch ein bisschen tiefer beschreiben können.
+Wo wir uns eins ausrufen dürfen.
+Ja, also Überblick, klar, aber das könnte helfen.
+Dann kann es immer helfen, wenn Sie wissen, welche Funktionen, Materialien tatsächlich auch so eingesetzt werden,
+wie das Grundprinzip ist und wie das Grundprinzip eigentlich bei allen gleich umgesetzt wird.
+Dann können Sie ja vielleicht auch dieses Allgemeine auf Ihr Lieblingsverfahren einsetzen.
+Dann muss das beistehen, okay?
+Ich habe ja schon jede Menge gegeben, also konzentrieren Sie sich, wie gesagt, auf
+dieses Verständnis und die
+letzte, was da unten steht,
+es gibt
+zu jedem Thema
+diese Fragen und dann gibt es
+eben diese Kombinationsfragen.
+Die sehen
+inklusive dieser Excel-Tabelle,
+die muss ich Ihnen tatsächlich auch
+nochmal ans Herz legen,
+insbesondere, ja doch, der letzte Tipp ist noch
+immer wieder
+auch Richtung wirtschaftlicher Vergleich.
+So, ich mache sowas ähnliches ja auch im normalen Maschinenbau, aber Sie kriegen immer die extra Ideen natürlich dazu, wie sieht es wirtschaftlich aus mit dem Verfahren und was sind die Aspekte.
+Also das sollten Sie für alles, was wir jetzt hier in der Vorlesung hatten, immer in diesem Vergleich auch mit berücksichtigen, die Wirtschaftlichkeit.
+So, das haben Sie schon eigentlich die ganze Früh.
+Noch weniger detaillierte Fragen?
+Dann hätte ich noch eine kurze Bitte, beziehungsweise, dass wir uns das nochmal kurz anschauen.
+Die Evaluation.
+Sie hatten das ja letztes Mal ausgefüllt.
+Und jetzt, die es nicht ausgespült haben, können Sie vielleicht einfach nochmal beitragen, indem Sie mir nochmal Tipps geben, was man sonst noch reinschreiben kann.
+Haben Sie noch nicht genug Leute?
+Doch, doch, habe ich.
+Das funktioniert ja ab und zu.
+Und das hat man letztes Mal gehabt.
+Aber das eine ist ja dieser Fragebogen, das andere ist jetzt eben auch dieser entsprechende...
+Dass man alle Teile gemeinsam kriegt, ist immer noch nicht in Aussicht.
+Wie alle Teile gemeinsam?
+es ist immer noch jeder drei also sie ihr teil 30 minuten da tun sich auch kein gefallen was
+das bin ich 100%ig von überzeugt dass ich ihn auch kein gefallen damit schuhe wenn wir das so machen
+weil es sind drei teile ja und wenn sie denn sich das hatten sie haben ja auch schon ausprobiert
+sowas, dann war immer so, dass irgendein Teil komplett hinten runtergefallen ist und dann
+hat es aber auch bedeutet, dass sie das bisschen, was sie in den anderen Teilen mehr hingekriegt
+haben, nicht ausgereicht hat, um diesen Komplettausfall zu kompensieren.
+Und das wollen wir einfach nicht, dass sie in Versuchung geraten, ein ungeliebtes Thema
+einfach auf den Brot zu lassen.
+Ja, das, ja.
+Ja, und sehen Sie zu, dass Sie in jedem Teil 100% machen und dann passt es eben.
+Aber es ist Überhang.
+Hm?
+Es ist Überhang wahrscheinlich, ja?
+Ja, klar.
+Also 100% ist dann relativ.
+Ja, genau.
+So, also.
+Hier nochmal, ich habe das jetzt mal, was hat Ihnen besonders gut gefallen?
+Das war der Praxisbezug und die Laborübungen und das Praktikum, was wir gemacht haben.
+Ich habe mir jetzt hier nochmal sortiert in Richtung, was hatten Sie jetzt von diesen ganzen, heute hat es ja nicht geklappt mit den Videos, aber war das für Sie hilfreich, das zu unterstützen für alles, was ich Ihnen im Labor zeigen konnte und letztlich die entsprechende Veranschaulichung über diese ganzen Bauteile.
+Bei Ihnen ist das glaube ich so, ich bin mir gar nicht sicher, ob ich vorlese und verwechsel, dass die Links zu den Videos auch immer, sind ja in der Skripte drin.
+Ja, die meisten, ja.
+In einer anderen Vorlesung hat er nämlich immer Videos gezeigt und die sind alle nicht drin.
+Achso, okay.
+Wenn man sie sich dann beim Lernen nochmal anschauen möchte, war das dann etwas.
+Richtig, genau.
+Es ist nur die Frage, ob Sie die rauskopieren müssen oder, das habe ich jetzt nicht kontrolliert.
+Aber ich schreibe die die meisten eigentlich nicht rein.
+Ja, das geht dann so.
+So, und ich habe jetzt von Ihnen noch stehen, mehr Hinweise zur Prüfung.
+Haben Sie noch, bleiben wir jetzt mal auf Punkt 1, haben Sie noch irgendwas, was Ihnen gefallen hat?
+Oder ist das nur noch das, was Sie alle unterstreichen können, was Sie jetzt hier geschrieben haben?
+Das bleibt noch hier rein.
+Sagen Sie noch was zur Prüfung, weil wir haben noch eine Prüfungseinsicht jetzt.
+Achso. Ja, wir sind gleich fertig. Wir können gleich los.
+Dann sagen Sie einfach mal was, ob Ihnen noch was hier einfällt.
+Ich finde eigentlich den Anfang mit diesen vier Skripten total überanschaulich und gut zum Lernen.
+Weil teilweise bei den anderen Professoren ist es eben so, dass man bloß ein, zwei Skripte hat und die sind dafür ewig lang.
+Achso, okay.
+Und auch durcheinander, das ist eben hier alles komplett strukturiert und das passt eigentlich schon.
+Und es sind auch nicht zu viele PDFs, dass jetzt nicht bei jeder Vorlesung, also jeden Tag wieder ein neues Skript hochgeladen wird.
+Von dem her passt das eigentlich genauso mit diesen vier bis fünf Skriptumfang.
+Skriptstruktur wahrscheinlich.
+Und die Struktur ist auch gut.
+noch was
+ich weiß nicht wie das also ich hatte das ja am anfang nicht mitbekommen da war das ja sie
+Sie haben ja immer Ihre Folien für den Unterricht und dann haben wir ja weniger Folien, weil das klausurrelevant ist.
+Teilweise fand ich das Zeug, was da dann eben nicht klausurrelevant ist, auch mal spannend noch als Kontext.
+Ich weiß nicht, ob man die einfach alle Folien geben kann und dann halt irgendwo markiert auf den Folien,
+okay, das ist jetzt nicht relevant für die Klausur, anstatt einfach nur uns die geringeren Folien zu geben,
+weil dann könnte man sich die Videos eben auch einfach noch
+als Kontext anschauen, weil ich finde sowas
+dann einfacher, teilweise wenn ich mehr
+Informationen habe, dann die Grundlagen einfach zu merken
+aber vielleicht macht das
+das dann auch komplizierter
+Ich habe es ja genau deshalb rausgenommen, weil es
+der Wunsch war, weil das zu unübersichtlich
+geworden ist, weil es zu viel drin war
+und deswegen habe ich das
+lieber so gemacht
+Ich finde das aber so besser
+weil ich schreibe mir das mal an
+und dann habe ich beide
+Achso, das machen Sie auf der
+Auf der Spur, ja. Hat sich, ist Geschmackssache tatsächlich irgendwie. Fände ich jetzt aber, also für mich war das jetzt auch soweit okay, weil ich natürlich dann auch Sachen reintun kann, die ich nicht ohne weiteres veröffentlichen darf.
+Ah, ja.
+Das ist ja auch noch so eine Sache, weil alles, was ich Ihnen jetzt gebe, deswegen ja auch dieses komische Passwort noch, das machen ja auch nicht alle, aber ich habe mich eben auch für diesen Verband eben verpflichtet. Ich habe das unterschrieben, sage ich dazu.
+noch mal zur Erklärung.
+Dass sie die Passwörter machen.
+Dass ich nochmal extra passe, obwohl sie schon Moodle sind,
+weil die haben mich eben dazu
+verdonnert, dass ich das sonst nicht
+veröffentlichen darf. Das ist ja immer so
+ein Geschiss mit diesem,
+das ist aus dem Original
+SFI-Script, was ich da eigentlich alles
+hab. Und das
+steckt da mit drin. Und wenn ich darüber hinaus
+eben was bringe, dann ist es
+manchmal, muss ich nochmal genau hingucken, was ich
+darf und nicht. Ah, okay, ja, das ist wahrscheinlich
+Okay, aber das ist schon mal ein guter Hinweis.
+Das ist okay.
+Die Sachen immer mitbringen, diese Anschauungen zum Beispiel.
+Okay, genau. Das war ja hier die vielen Videos und viele Anwendungsbeispiele zur Veranschaulichung der einzelnen Verfahren.
+Ist okay, ne?
+Gut. Dann Hinweise zur Prüfung.
+Und hier haben wir noch die Geschichte mit...
+Hinweise zur Prüfung tue ich mir natürlich schwer, weil ich will ja immer mehr in Richtung dieser entsprechenden Vergleiche raus.
+Und deswegen kann ich das eigentlich nicht machen.
+Also ich möchte eigentlich nicht dazu hinkommen, dass Sie einfach nur noch irgendwelche Klausuren auswendig lernen.
+Das ist, also wenn ich Mathe oder Physik mache, viel einfacher, da kann ich mir da auch andere Ideen überlegen.
+Hier ist es eben eigentlich nur ein Fachwissen.
+Und so oft kann ich das gar nicht variieren, damit Sie quasi dann auch einen Lerneffekt haben.
+Also wenn Sie anfangen, Beispiele zu vergleichen, dann schrecken Sie sich halt sehr stark ein in Ihrer Aufgabe, in Ihrem Aufgabenpool.
+Und deswegen muss ich das eigentlich, das schreibe ich jetzt hier auch noch, drücken und vorbereiten.
+So, okay.
+Dann gedacht wir schon, haben wir das auch erledigt.
+Dann hoffe ich, dass es Ihnen Spaß gemacht hat bis hierher, dass es Ihnen die Prüfung auch einigermaßen Spaß machen wird und Sie werden da schon mal geimpft.
+Und ich würde mich freuen, vielleicht, wie gesagt, wenn Sie, ich mache ja Industrierobotik noch, was Scheißen selber, gibt es natürlich auch noch eine Vertieferung, wenn Sie da noch weiter Lust haben, könnte ich das auch, weil so weit kriege ich das ja nicht noch.
+Die Vorlesung Industrieroboter machen Sie?
+Die Vorlesung Industrieroboter machen Sie?
+Ja.
+Hier sind aber mehr Praxen dran.
+Da einfach mal reingucken.
+Das war heute die letzte Vorlesung, oder?
+Gut, dann gehen wir davon aus, es war jetzt endlich das letzte Mal, dass ich in der Vorlesung war.
+Da gehe ich jetzt auch von aus.
+Da sehe ich Sie lieber bei Industriehörer.
+Ja, dadurch, dass ich jetzt dieses Semester auch schon alle meine Wahlkrieg-Nodule schreibe.
+Ja, es gibt auch AB-Fächer, die können auch sich so reinsetzen.
+Ja, aber ich bin wahrscheinlich ab nächstem Semester nicht mehr vor Ort,
+ich bin praktisch Semester und habe schon Arbeit.
+Aber vielleicht kann man ja so ein bisschen vom Ausland her.
+Ja, wahrscheinlich, ja.
+Vielen Dank.
